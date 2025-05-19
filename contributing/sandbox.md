@@ -332,3 +332,87 @@ Simpler
   
 </div>
 
+## Test for LT
+
+nsubj (nominal subject) – a nominal subject (the main agent), that is, a noun or pronominal phrase (composed of one or more words) which serves as the syntactic subject of a clause. 
+The nominal subject is typically dependent on a verb. 
+It may be a common noun, a proper noun, a personal pronoun, a compound pronoun, or the generic pronoun viskas (“everything”).
+
+~~~ sdparse
+Vaikas eina namo . \n A child goes home .
+nsubj(eina, vaikas)
+nsubj(goes, Child)
+~~~
+
+~~~ sdparse
+Jis eina namo . \n He goes home .
+nsubj(eina, Jis)
+nsubj(goes, He)
+~~~
+
+~~~ sdparse
+Kas nors tikrai pamatys laive esančius žmones . \n Someone will definitely see the people on the ship .
+nsubj(pamatys, Kas nors)
+nsubj(will see, Someone)
+~~~
+
+~~~ sdparse
+Geroje žemėje viskas auga . \n In good soil, everything grows .
+nsubj(auga, viskas)
+nsubj(grows, everything)
+~~~
+
+The nominal subject can be an interrogative or relative pronoun in attributive subordinate clauses.
+
+~~~ sdparse
+Sutikau draugę, kuri neseniai atvyko į Lietuvą . \n I met a friend who recently arrived in Lithuania .
+nsubj(atvyko, kuri)
+nsubj(arrived, who)
+~~~
+
+Constructions like daugiau nei... (more than...); vienas... (one), involving the genitive case of a superlative degree of an adjective, when they function as the subject of the sentence, are annotated as nsubj.
+
+~~~ sdparse
+Seminare dalyvavo daugiau nei 100 dalyvių . \n More than 100 participants attended the seminar .
+nsubj(dalyvavo, daugiau)
+nsubj(attended, more than)
+~~~
+
+~~~ sdparse
+Vienas gražiausių namų stovi Kaune . \n One of the most beautiful houses stands in Kaunas .
+nsubj(stovi, Vienas)
+nsubj(stands, One)
+~~~
+
+More rarely, the nominal subject is not dependent on the verb, but on other parts of speech. For example, if a compound verb form is used, the core of the sentence can be an adjective or a noun.
+
+~~~ sdparse
+Automobilis yra raudonas . \n A car is red .
+nsubj(raudonas, Automobilis)
+nsubj(red, Car)
+~~~
+
+~~~ sdparse
+Jonas yra studentas . \n Jonas is a student .
+nsubj(studentas, Jonas)
+nsubj(student, Jonas)
+~~~
+
+If the subject is dependent on a necessity participle, it is marked as nsubj.
+
+~~~ sdparse
+Taisyklės rekomenduotinos visiems darbuotojams . \n The rules are recommended for all employees .
+nsubj(rekomenduotinos, Taisyklės)
+nsubj(recommended, Rules)
+~~~
+
+In Lithuanian, the partitive and negative genitive is considered an nsubj if it can be replaced by a nominative.
+
+~~~ sdparse
+Vakare atėjo svečių . \n Some guests came in the evening .
+nsubj(atėjo, svečių)
+nsubj(came, guests)
+~~~
+
+
+
