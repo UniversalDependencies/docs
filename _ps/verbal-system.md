@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/c7a63732-303b-47d5-9adc-f71b020ccf19)![image](https://github.com/user-attachments/assets/a5c86ebb-6f03-4e76-b844-be2be6e17f71)---
 layout: base
 title:  'Transliteration and phonology'
 udver: '2'
@@ -89,15 +89,29 @@ This change does not show in writing.
 ### List of semi-regular verbs
 The semi-regular verbs are those, whose present and past stems differ. The following list is incomplete, although it aims on including as much semi-regular verbs, as possible. In the first place, the imperfective infinitive created from the past imperfective stem is shown, the the first person singular of the present indicative created from the present imperfective stem follows. Both stems are highlighted. The list is alphabetically sorted by the infinitive according to the usual order of letters in the Arabic script.
 * “buy” - **اخیست**ل _**axist**ë́l_, **اخل**م _**axl**ë́m_
-* “take out” - **ایست**ل _**ist**ë́l_, **باس**م _**bâs**ë́m_
 * “put” - **ایښود**ل _**ix̌od**ë́l_, **ږد**م _**ǧd**ëm_
+* “wear” - **اغوست**ل _**aġost**ë́l_, **اغوند**م _**aġund**ë́m_
+* “fly” - **الوت**ل _**alwat**ë́l_, **الوز**م _**aluz**ë́m_
+* “take out” - **ایست**ل _**ist**ë́l_, **باس**م _**bâs**ë́m_
+* “weave” - **اوبد**ل _**obd**ë́l_, **اوب**م _**ob**ë́m_
 * “lead” - **بیو**ل _**biw**ë́l_, **بياي**م _**byây**ë́m_
+* “leave” - **پرېښود**ل _**prexod**ë́l_, **پرېږد**م _**preǧd**ë́m_ <!-- and without prefix? -->
+* “recognize” - **پېژند**ل _**pežand**ë́l_, **پېژن**م _**pežan**ë́m_
+* “climb” - **خت**ل _**xat**ë́l_, **خېژ**م _**xež**ë́m_
+* “eat” - **خوړ**ل _**xwaṛ**ë́l_, **خور**م _**xwar**ë́m_ <!-- or xoṛë́l / xorë́m? -->
+<!-- * “run” - **ځغست**ل _**żġëst**ë́l_, **ځغل**م _**żġël**ë́m_  or żġastë́l / żġalë́m? -->
 * “want” - **غوښت**ل _**ġux̌t**ë́l_, **غواړ**م _**ġwâṛ**ë́m_ <!-- or ġox̌të́l? -->
+* “bark” - **غپ**ل _**ġap**ë́l_, **غاپ**م _**ġâp**ë́m_
+* “roll” - **غښت**ل _**ġëx̌t**ë́l_, **غړ**م _**ġëṛ**ë́m_ <!-- or ġix̌të́l? -->
 * “look at” - **کت**ل _**kat**ë́l_, **ګور**م _**gor**ë́m_
 * “sit down” - **کښېناست**ل _**kx̌enâst**ë́l_, **کښ*ېن**م _**kx̌en**ë́m_ <!-- and without prefix? -->
+* “squeeze” - **کېښکود**ل _**kex̌kod**ë́l_, **کېکاږ**م _**kekâǧ**ë́m_
 * “read” - **لوست**ل _**lwast**ë́l_, **لول**م _**lwal**ë́m_ <!-- also lwëstë́l, lwëlë́m and lollë́m? -->
 * “see” - **ليد**ل _**lid**ë́l_, **وين**م _**win**ë́m_
+* “find” - **موند**ل _**mund**ë́l_, **موم**م _**mum**ë́m_
 * “take” - **نیو**ل _**niw**ë́l_, **نیس**م _**nis**ë́m_
+* “kill” - **وژ**ل _**waž**ë́l_, **وژن**م _**wažn**ë́m_
+* “shoot” - **ويشت**ل _**wišt**ë́l_, **ول**م _**wël**ë́m_ <!-- or walë́m? -->
 * “say” - **وی**ل _**way**ë́l_, **وای**م _**wây**ë́m_
 
 
@@ -348,7 +362,7 @@ Overview of UPOS tags and `VerbForm` feature values
 </tr>
 </table>
 
-Example verb ليدل _lidë́l_ conjugated in all forms:k
+Example verb ليدل _lidë́l_ conjugated in all forms (only the transcription is shown):
 <img src="pashto_lidel.png" alt="Conjugation example" width="1000">
 
 ## Irregular verbs
