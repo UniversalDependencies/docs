@@ -393,9 +393,9 @@ nsubj(red, car)
 ~~~
 
 ~~~ sdparse
-Jonas yra studentas . \n Jonas is a student .
+Jonas yra studentas . \n John is a student .
 nsubj(studentas, Jonas-1)
-nsubj(student, Jonas-4)
+nsubj(student, John)
 ~~~
 
 If the subject is dependent on a necessity participle, it is marked as nsubj.
