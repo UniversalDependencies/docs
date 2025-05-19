@@ -348,8 +348,8 @@ Overview of UPOS tags and `VerbForm` feature values
 </tr>
 </table>
 
-Example verb ليدل _lidë́l_ conjugated in all forms:
-<img src="pashto_lidel.png" alt="Conjugation example">
+Example verb ليدل _lidë́l_ conjugated in all forms:k
+<img src="pashto_lidel.png" alt="Conjugation example" width="1000">
 
 ## Irregular verbs
 
