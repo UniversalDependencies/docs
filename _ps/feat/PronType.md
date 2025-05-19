@@ -43,10 +43,10 @@ Personal pronouns for the first and the second person and reflexive personal pro
     <b>(Vocative)</b>
   </td>
   <td align="middle">زۀ zë</td>
-  <td align="middle", rowspan=3>موږ muǧ<br/>مونږ munǧ</td>
+  <td align="middle">موږ muǧ<br/>مونږ munǧ</td>
   <td align="middle">تۀ të</td>
-  <td align="middle", rowspan=3>تاسو tấso<br/>تاسې tấse</td>
-  <td align="middle", rowspan=2>ځان żân</td>
+  <td align="middle">تاسو tấso<br/>تاسې tấse</td>
+  <td align="middle">ځان żân</td>
   <td align="middle">ځانونه żânúna</td>
 </tr>
 <tr>
@@ -54,22 +54,30 @@ Personal pronouns for the first and the second person and reflexive personal pro
     <b>Oblique</b><br/>
     <b>Locative</b><br/>
   </td>
-  <td align="middle", rowspan=2>ما mâ</td>
-  <td align="middle", rowspan=2>تا tâ</td>
-  <td align="middle", rowspan=2>ځانونو żânúno</td>
+  <td align="middle">ما mâ</td>
+  <td align="middle">-"-</td>
+  <td align="middle">تا tâ</td>
+  <td align="middle">-"-</td>
+  <td align="middle">-"-</td>
+  <td align="middle">ځانونو żânúno</td>
 </tr>
 <tr>
   <td align="left">
     <b>Ablative</b>
   </td>
+  <td align="middle">-"-</td>
+  <td align="middle">-"-</td>
+  <td align="middle">-"-</td>
+  <td align="middle">-"-</td>
   <td align="middle">ځانه żấna</td>
+  <td align="middle">-"-</td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
   <td align="middle">زما zmâ</td>
   <td align="middle">زموږ zmuǧ<br/>زمونږ zmunǧ</td>
   <td align="middle">ستا stâ</td>
-  <td align="middle", rowspan=2>ستاسو stấso<br/>ستاسې stấse</td>
+  <td align="middle">ستاسو stấso<br/>ستاسې stấse</td>
   <td align="middle", colspan=2>(خپل xpël) **</td>
 </tr>
 </table>
