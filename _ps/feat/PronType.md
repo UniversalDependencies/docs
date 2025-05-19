@@ -83,7 +83,7 @@ Personal pronouns for the first and the second person and reflexive personal pro
 </tr>
 </table>
 
-** Instead of a genitive form of the reflexive pronoun ځان <i>żân</i>, the reflexive possessive خپل <i>xpël</i> is used, which declines like common adjectives in agreement with the possessed object.
+** Instead of a genitive form of the reflexive pronouns ځان <i>żân</i> / ځانونه <i>żânúna</i>, the reflexive possessive خپل <i>xpël</i> is used, which declines like common adjectives in agreement with the possessed object.
 
 The reflexive pronouns ځان _żân_ and ځانونه _żânúna_ are used for refering to the subject regardless of the person (i.e. it is used for all three persons).
 
@@ -101,9 +101,13 @@ Personal pronouns for the third person vary depending on deixis:
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>remote</b></td>
+  <td align="middle"><b>remote</b></td>
+  <td align="middle"><b>==</b></td>
+  <td align="middle"><b>==</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate</b></td>
+  <td align="middle"><b>proximate</b></td>
+  <td align="middle"><b>==</b></td>
+  <td align="middle"><b>==</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -158,7 +162,9 @@ Personal pronouns for the third person vary depending on deixis:
 <tr>
   <td align="left"><b>Genitive</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle">ددۀ dadë́</td>
   <td align="middle">ددې dëdé</td>
