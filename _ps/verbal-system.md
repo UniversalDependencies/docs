@@ -88,17 +88,17 @@ This change does not show in writing.
 
 ### List of semi-regular verbs
 The semi-regular verbs are those, whose present and past stems differ. The following list is incomplete, although it aims on including as much semi-regular verbs, as possible. In the first place, the imperfective infinitive created from the past imperfective stem is shown, the the first person singular of the present indicative created from the present imperfective stem follows. Both stems are highlighted. The list is alphabetically sorted by the infinitive according to the usual order of letters in the Arabic script.
-* “buy” - **اخیست**ل **axist**ë́l, **اخل**م **axl**ë́m
-* “take out” - **ایست**ل **ist**ë́l, **باس**م **bâs**ë́m
-* “put” - **ایښود**ل **ix̌od**ë́l, **ږد**م **ǧd**ëm
-* “lead” - **بیو**ل **biw**ë́l, **بياي**م **byây**ë́m
-* “want” - **غوښت**ل **ġux̌t**ë́l, **غواړ**م **ġwâṛ**ë́m
-* “look at” - **کت**ل **kat**ë́l, **ګور**م **gor**ë́m
-* “sit down” - **کښېناست**ل **kx̌enâst**ë́l, **کښ*ېن**م **kx̌en**ë́m
-* “read” - **لوست**ل **lwast**ë́l, **لول**م **lwal**ë́m
-* “see” - **ليد**ل **lid**ë́l, **وين**م **win**ë́m
-* “take” - **نیو**ل **niw**ë́l, **نیس**م **nis**ë́m
-* “say” - **وی**ل **way**ë́l, **وای**م **wây**ë́m
+* “buy” - **اخیست**ل _**axist**ë́l_, **اخل**م _**axl**ë́m_
+* “take out” - **ایست**ل _**ist**ë́l_, **باس**م _**bâs**ë́m_
+* “put” - **ایښود**ل _**ix̌od**ë́l_, **ږد**م _**ǧd**ëm_
+* “lead” - **بیو**ل _**biw**ë́l_, **بياي**م _**byây**ë́m_
+* “want” - **غوښت**ل _**ġux̌t**ë́l_, **غواړ**م _**ġwâṛ**ë́m_ <!-- or ġox̌të́l? -->
+* “look at” - **کت**ل _**kat**ë́l_, **ګور**م _**gor**ë́m_
+* “sit down” - **کښېناست**ل _**kx̌enâst**ë́l_, **کښ*ېن**م _**kx̌en**ë́m_ <!-- and without prefix? -->
+* “read” - **لوست**ل _**lwast**ë́l_, **لول**م _**lwal**ë́m_ <!-- also lwëstë́l, lwëlë́m and lollë́m? -->
+* “see” - **ليد**ل _**lid**ë́l_, **وين**م _**win**ë́m_
+* “take” - **نیو**ل _**niw**ë́l_, **نیس**م _**nis**ë́m_
+* “say” - **وی**ل _**way**ë́l_, **وای**م _**wây**ë́m_
 
 
 ## Light verbs
@@ -349,6 +349,7 @@ Overview of UPOS tags and `VerbForm` feature values
 </table>
 
 Example verb ليدل _lidë́l_ conjugated in all forms:
+<img src="pashto_lidel.png" alt="Conjugation example">
 
 ## Irregular verbs
 
