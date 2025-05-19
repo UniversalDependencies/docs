@@ -193,15 +193,17 @@ They are also used in contracted forms (which are separeted in UD annotation) wi
 <tr>
   <td align="middle"><b>1</b></td>
   <td align="middle">مې me</td>
-  <td align="middle", rowspan=2>مو mu</td>
+  <td align="middle">مو mu</td>
 </tr>
 <tr>
   <td align="middle"><b>2</b></td>
   <td align="middle">دې de</td>
+  <td align="middle">||</td>
 </tr>
 <tr>
   <td align="middle"><b>3</b></td>
-  <td align="middle", colspan=2>يې ye</td>
+  <td align="middle">يې ye</td>
+  <td align="middle">==</td>
 </tr>
 </table>
 
@@ -241,11 +243,17 @@ The long proximate pronouns bear the feature `Variant=Long`.
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>remote</b></td>
+  <td align="middle"><b>remote</b></td>
+  <td align="middle"><b>==</b></td>
+  <td align="middle"><b>==</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate<br/>long variant</b></td>
+  <td align="middle"><b>proximate<br/>long variant</b></td>
+  <td align="middle"><b>==</b></td>
+  <td align="middle"><b>==</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate</b></td>
+  <td align="middle"><b>proximate</b></td>
+  <td align="middle"><b>==</b></td>
+  <td align="middle"><b>==</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -278,9 +286,13 @@ The long proximate pronouns bear the feature `Variant=Long`.
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>هغه háġa</td>
+  <td align="middle">هغه háġa</td>
+  <td align="middle">==</td>
+  <td align="middle">==</td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>دغه dáġa</td>
+  <td align="middle">دغه dáġa</td>
+  <td align="middle">==</td>
+  <td align="middle">==</td>
   <td align="middle"></td>
   <td align="middle">دا dâ</td>
 </tr>
@@ -310,11 +322,17 @@ The remote series is stressed on the first syllable, not on the second one like 
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>remote</b></td>
+  <td align="middle"><b>remote</b></td>
+  <td align="middle"><b>==</b></td>
+  <td align="middle"><b>==</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate<br/>long variant</b></td>
+  <td align="middle"><b>proximate<br/>long variant</b></td>
+  <td align="middle"><b>==</b></td>
+  <td align="middle"><b>==</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate</b></td>
+  <td align="middle"><b>proximate</b></td>
+  <td align="middle"><b>==</b></td>
+  <td align="middle"><b>==</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -347,9 +365,13 @@ The remote series is stressed on the first syllable, not on the second one like 
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>هماغه hamấġa</td>
+  <td align="middle">هماغه hamấġa</td>
+  <td align="middle">==</td>
+  <td align="middle">==</td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>همدغه hamdáġa</td>
+  <td align="middle">همدغه hamdáġa</td>
+  <td align="middle">==</td>
+  <td align="middle">==</td>
   <td align="middle"></td>
   <td align="middle">همدا hamdâ</td>
 </tr>
@@ -383,7 +405,8 @@ The remote series is stressed on the first syllable, not on the second one like 
 <tr>
   <td align="middle"></td>
   <td align="middle"><i>such like that/those</i></td>
-  <td align="middle", colspan=2><i>such like this/these</i></td>
+  <td align="middle"><i>such like this/these</i></td>
+  <td align="middle"><i>==</i></td>
 </tr>
 <tr>
   <td align="left">
@@ -406,7 +429,8 @@ The remote series is stressed on the first syllable, not on the second one like 
 <tr>
   <td align="middle"></td>
   <td align="middle"><i>same like that/those</i></td>
-  <td align="middle", colspan=2><i>same like this/these</i></td>
+  <td align="middle"><i>same like this/these</i></td>
+  <td align="middle"><i>==</i></td>
 </tr>
 <tr>
   <td align="left">
