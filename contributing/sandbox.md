@@ -341,7 +341,7 @@ It may be a common noun, a proper noun, a personal pronoun, a compound pronoun, 
 ~~~ sdparse
 Vaikas eina namo . \n A child goes home .
 nsubj(eina, vaikas)
-nsubj(goes, Child)
+nsubj(goes, child)
 ~~~
 
 ~~~ sdparse
@@ -375,7 +375,7 @@ Constructions like daugiau nei... (more than...); vienas... (one), involving the
 ~~~ sdparse
 Seminare dalyvavo daugiau nei 100 dalyvių . \n More than 100 participants attended the seminar .
 nsubj(dalyvavo, daugiau)
-nsubj(attended, more than)
+nsubj(attended, participants)
 ~~~
 
 ~~~ sdparse
@@ -389,13 +389,13 @@ More rarely, the nominal subject is not dependent on the verb, but on other part
 ~~~ sdparse
 Automobilis yra raudonas . \n A car is red .
 nsubj(raudonas, Automobilis)
-nsubj(red, Car)
+nsubj(red, car)
 ~~~
 
 ~~~ sdparse
 Jonas yra studentas . \n Jonas is a student .
-nsubj(studentas, Jonas)
-nsubj(student, Jonas)
+nsubj(studentas, Jonas-1)
+nsubj(student, Jonas-4)
 ~~~
 
 If the subject is dependent on a necessity participle, it is marked as nsubj.
@@ -403,7 +403,7 @@ If the subject is dependent on a necessity participle, it is marked as nsubj.
 ~~~ sdparse
 Taisyklės rekomenduotinos visiems darbuotojams . \n The rules are recommended for all employees .
 nsubj(rekomenduotinos, Taisyklės)
-nsubj(recommended, Rules)
+nsubj(recommended, rules)
 ~~~
 
 In Lithuanian, the partitive and negative genitive is considered an nsubj if it can be replaced by a nominative.
