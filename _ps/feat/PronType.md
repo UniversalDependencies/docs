@@ -391,7 +391,7 @@ The prefix -همـ _ham-_ provides the meaning of identity “same”:
 </tr>
 </table>
 
-The suffix -ـسې _-se_ provides the meaning of comparison “like this/these/that/those”.
+The suffix ـسې- _-se_ provides the meaning of comparison “like this/these/that/those”.
 It can be combined also with the prefix -همـ _ham-_ “same”.
 These forms are indeclinable.
 
