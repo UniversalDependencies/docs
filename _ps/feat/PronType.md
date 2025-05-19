@@ -55,22 +55,22 @@ Personal pronouns for the first and the second person and reflexive personal pro
     <b>Locative</b><br/>
   </td>
   <td align="middle">ما mâ</td>
-  <td align="middle">-"-</td>
+  <td align="middle">||</td>
   <td align="middle">تا tâ</td>
-  <td align="middle">-"-</td>
-  <td align="middle">-"-</td>
+  <td align="middle">||</td>
+  <td align="middle">||</td>
   <td align="middle">ځانونو żânúno</td>
 </tr>
 <tr>
   <td align="left">
     <b>Ablative</b>
   </td>
-  <td align="middle">-"-</td>
-  <td align="middle">-"-</td>
-  <td align="middle">-"-</td>
-  <td align="middle">-"-</td>
+  <td align="middle">||</td>
+  <td align="middle">||</td>
+  <td align="middle">||</td>
+  <td align="middle">||</td>
   <td align="middle">ځانه żấna</td>
-  <td align="middle">-"-</td>
+  <td align="middle">||</td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
@@ -78,7 +78,8 @@ Personal pronouns for the first and the second person and reflexive personal pro
   <td align="middle">زموږ zmuǧ<br/>زمونږ zmunǧ</td>
   <td align="middle">ستا stâ</td>
   <td align="middle">ستاسو stấso<br/>ستاسې stấse</td>
-  <td align="middle", colspan=2>(خپل xpël) **</td>
+  <td align="middle">(خپل xpël) **</td>
+  <td align="middle">==</td>
 </tr>
 </table>
 
@@ -131,12 +132,13 @@ Personal pronouns for the third person vary depending on deixis:
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle", colspan=2>هغه haġá</td>
-  <td align="middle", rowspan=2>هغوى haġúy</td>
+  <td align="middle">هغه haġá</td>
+  <td align="middle">==</td>
+  <td align="middle">هغوى haġúy</td>
   <td align="middle"></td>
   <td align="middle">دی day</td>
   <td align="middle">دا dâ</td>
-  <td align="middle", rowspan=2>دوی duy</td>
+  <td align="middle">دوی duy</td>
 </tr>
 <tr>
   <td align="left">
@@ -147,9 +149,11 @@ Personal pronouns for the third person vary depending on deixis:
   <td align="middle"></td>
   <td align="middle">هغۀ haġë́</td>
   <td align="middle">هغې haġé</td>
+  <td align="middle">||</td>
   <td align="middle"></td>
   <td align="middle">دۀ dë</td>
   <td align="middle">دې de</td>
+  <td align="middle">||</td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
