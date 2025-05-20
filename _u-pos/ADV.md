@@ -39,7 +39,6 @@ either [VERB]() or `ADV`.
 - _very_
 - _well_
 - _exactly_
-- _tomorrow_
 - _up, down_
 - interrogative/relative adverbs: _where, when, how, why, whenever, wherever_ (including when used to mark a clause that is circumstantial, not interrogative or relative)
 - demonstrative adverbs: _here, there, now, then_
