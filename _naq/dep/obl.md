@@ -15,7 +15,7 @@ obl(enter, house)
 case(house, in)
 ~~~
 
-The oblique nominal representing the agent of a passive verb is noted with the subtype [obl:agent](naq-dep/obl-agent).
+The oblique nominal representing the agent of a passive verb is noted with the subtype [obl:agent]().
 
 ~~~ sdparse
 Petrub ge Marias xa ge mîǁamhe . \n Petru DECL Maria by PST be_offended .

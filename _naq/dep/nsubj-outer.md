@@ -23,5 +23,5 @@ mark(dry, NMLZ.OBL)
 punct(dry, .-15)
 ~~~
 
-The clausal counterpart of this relation is [csubj:outer](naq-dep/csubj-outer).
+The clausal counterpart of this relation is [csubj:outer]().
 <!-- Interlanguage links updated So 10. května 2025, 18:15:50 CEST -->

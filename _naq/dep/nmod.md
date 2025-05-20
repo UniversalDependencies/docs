@@ -15,7 +15,7 @@ nmod(side, Maria)
 case(Maria, opposite)
 ~~~
 
-For nominal modifiers representing possession, both with and without possessive [postposition](naq-pos/ADP) _di_, the subtype [nmod:poss](naq-dep/nmod-poss) is used.
+For nominal modifiers representing possession, both with and without possessive [postposition](naq-pos/ADP) _di_, the subtype [nmod:poss]() is used.
 
 ~~~ sdparse
 Amob (di) ǂkhanis \n Amos ('s) book

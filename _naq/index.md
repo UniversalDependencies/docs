@@ -104,7 +104,7 @@ udver: '2'
 
 * [PronType](naq-feat/PronType) (`Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`) is used with [PRON](naq-pos/PRON), [DET](naq-pos/DET), and [ADV](naq-pos/ADV).
 
-* [Diexis](naq-feat/Diexis) (`Contr`, `Prox`, `Remt`) is used with [PRON](naq-pos/PRON), [DET](naq-pos/DET), and [ADV](naq-pos/ADV).
+* [Deixis](naq-feat/Deixis) (`Contr`, `Prox`, `Remt`) is used with [PRON](naq-pos/PRON), [DET](naq-pos/DET), and [ADV](naq-pos/ADV).
 
 * [NumType](naq-feat/NumType) (`Card`, `Ord`) is used with [NUM](naq-pos/NUM) and [ADJ](naq-pos/ADJ).
 
@@ -160,21 +160,21 @@ udver: '2'
 
 * The 13 relation subtypes used in Khoekhoe are:
 
-    * [acl:relcl](naq-dep/acl-relcl) relative clause modifier
-    * [advmod:emph](naq-dep/advmod-emph) emphasizing word, intensifier
-    * [csubj:outer](naq-dep/csubj-outer) outer clausal subjects of predicates that are clauses
-    * [csubj:pass](naq-dep/csubj-pass) clausal subjects of passive clauses
-    * [expl:impers](naq-dep/expl-impers) impersonal expletive
-    * [flat:name](naq-dep/flat-name) names
-    * [flat:num](naq-dep/flat-num) flat multiword number
-    * [flat:reparandum](naq-dep/flat-reparandum) repeated reparandum
-    * [flat:title](naq-dep/flat-title) title
-    * [iobj:appl](naq-dep/iobj-appl) applied indirect object
-    * [nmod:poss](naq-dep/nmod-poss) possessive nominal modifier
-    * [nsubj:outer](naq-dep/nsubj-outer) outer clause nominal subject
-    * [nsubj:pass](naq-dep/nsubj-pass) for nominal subjects of passive clauses
-    * [obj:appl](naq-dep/obj-appl) applied direct object
-    * [obl:agent](naq-dep/obl-agent) for demoted agents in passive clauses
+    * [acl:relcl]() relative clause modifier
+    * [advmod:emph]() emphasizing word, intensifier
+    * [csubj:outer]() outer clausal subjects of predicates that are clauses
+    * [csubj:pass]() clausal subjects of passive clauses
+    * [expl:impers]() impersonal expletive
+    * [flat:name]() names
+    * [flat:num]() flat multiword number
+    * [flat:reparandum]() repeated reparandum
+    * [flat:title]() title
+    * [iobj:appl]() applied indirect object
+    * [nmod:poss]() possessive nominal modifier
+    * [nsubj:outer]() outer clause nominal subject
+    * [nsubj:pass]() for nominal subjects of passive clauses
+    * [obj:appl]() applied direct object
+    * [obl:agent]() for demoted agents in passive clauses
 
 * The following relation types are not currently used in Khoekhoe: [clf](naq-dep/clf), [compound](naq-dep/compound), [dep](naq-dep/dep), [dislocated](naq-dep/dislocated).
 
