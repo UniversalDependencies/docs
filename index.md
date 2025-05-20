@@ -48,7 +48,8 @@ If you are new to UD, you should start by reading the first part of the Short In
  <a href="https://lindat.mff.cuni.cz/services/teitok-live/udmorph/">UDMorph</a> ▪
  <a href="https://ufal.mff.cuni.cz/universal-derivations">UDer: Universal Derivations</a> ▪
  <a href="https://gitlab.com/parseme/corpora/-/wikis/home">PARSEME: Multiword expressions</a> ▪
- <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=start">UniDive COST Action</a>
+ <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=start">UniDive COST Action</a> ▪
+ <a href="https://github.com/LeonieWeissweiler/UCxn">UCxn: Universal Constructions</a>
 </td></tr>
 </table>
 
