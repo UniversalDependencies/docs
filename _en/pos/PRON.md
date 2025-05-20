@@ -100,11 +100,11 @@ The proximal/distal distinction is not encoded in features, but each corresponds
 
 Note that [ADV]()s *here* and *there* also receive `PronType=Dem`.
 
-## Expletive *there*
+### Expletive *there*
 
-Expletive *there* (EX) receives no features.
+Expletive *there* (EX) is tagged as `PRON` and receives the feature `PronType=Dem` reflecting the demonstrative origins of the word *there*.
 
-By contrast, *it* is considered a personal pronoun (PRP) even when functioning as [expl]().
+By contrast, *it* is considered a personal pronoun (PRP, `PronType=Prs` as above) even when functioning as [expl]().
 
 ## Reciprocal pronouns
 
