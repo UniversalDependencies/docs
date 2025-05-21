@@ -140,7 +140,7 @@ The copula verb být (be) is used in equational, attributional, locative, posses
 
 * The following relation subtypes are used in Naga-Suansu:
 
-    * [acl:relc]() - relative clause modifier
+    * [acl:relcl]() - relative clause modifier
     * [advmod:emph]() - emphasizing word, intensifier
     * [compound:prt]() - phrasal verb particle
     * [compound:svc]() - serial verb compounds
