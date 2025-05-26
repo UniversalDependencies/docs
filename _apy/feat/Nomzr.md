@@ -15,7 +15,7 @@ udver: '2'
 
 `Prog` Progressive 
 
-### <a name="Prog">`Yes`</a>: Yes
+### <a name="Yes">`Yes`</a>: Yes
 
 The nominalizer _topo_ is a general nominalizer (occasion, instrument, place).
 
