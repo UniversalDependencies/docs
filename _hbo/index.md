@@ -79,8 +79,14 @@ The following language-specific features are in use:
 
 The following MISC features are present:
 
+* `Cantillation`
+  * The names of any cantillation marks that appear on a word, e.g. `Cantillation=Etnahta`
+  * When multiple marks appear on a word, they are separated with commas and listed in the order they appear, e.g. `Cantillation=Pazer,Geresh`
+  * The names follow the spellings used by Unicode
 * `Gloss`
   * Currently taken from [the BHSA `gloss` feature](https://etcbc.github.io/bhsa/features/gloss/)
+* `LexDomain[SDBH]`
+  * ID of the semantic domain(s) corresponding to the value of `LId[SDBH]`
 * `LId[SDBH]`
   * ID of the (mostly) disambiguated word in MARBLE's [Semantic Dictionary of Biblical Hebrew](https://marble.bible/dictionary)
 * `LId[Strongs]`
@@ -143,7 +149,7 @@ The following MISC features are present:
 
 The subtypes [acl:relcl](), [compound:smixut](), [nmod:poss](), [nsubj:outer](), and [obl:npmod]() are used. The relation `compound` is currently unused.
 
-The relations `iobj`, and `clf` are unused.
+The relation `clf` is unused.
 
 The relations `list`, `goeswith`, `reparandum`, and `dep` are currently unused, but may be used in future.
 

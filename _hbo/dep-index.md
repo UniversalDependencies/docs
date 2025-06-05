@@ -9,7 +9,7 @@ udver: '2'
 
 |   | Nominals | Clauses | Modifiers | Function Words |
 |---|----------|---------|-----------|----------------|
-| Core | [nsubj]()<br/>→ [nsubj:outer]()<br/>[obj]()<br/>~~[iobj]()~~ | [csubj]()<br/>[ccomp]()<br/>[xcomp]() | | |
+| Core | [nsubj]()<br/>→ [nsubj:outer]()<br/>[obj]()<br/>[iobj]() | [csubj]()<br/>[ccomp]()<br/>[xcomp]() | | |
 | Non-core | [obl]()<br/>→ [obl:npmod]()<br/>[vocative]()<br/>[expl]()<br/>[dislocated]() | [advcl]() | [advmod]()<br/>[discourse]() | ~~[aux]()~~<br/>[cop]()<br/>[mark]() |
 | Nominal | [nmod]()<br/>→ [nmod:poss]()<br/>[appos]()<br/>[nummod]() | [acl]()<br/>→ [acl:relcl]() | [amod]() | [det]()<br/>~~[clf]()~~<br/>[case]() |
 
