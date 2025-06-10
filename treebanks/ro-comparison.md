@@ -4,24 +4,27 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="20%" valign="top">
+    <th width="20%" valign="top">
       <h1>UD_Romanian-ArT</h1>
-    </td>
-    <td width="20%" valign="top">
+    </th>
+    <th width="20%" valign="top">
       <h1>UD_Romanian-Nonstandard</h1>
-    </td>
-    <td width="20%" valign="top">
+    </th>
+    <th width="20%" valign="top">
       <h1>UD_Romanian-RRT</h1>
-    </td>
-    <td width="20%" valign="top">
+    </th>
+    <th width="20%" valign="top">
       <h1>UD_Romanian-SiMoNERo</h1>
-    </td>
-    <td width="20%" valign="top">
+    </th>
+    <th width="20%" valign="top">
       <h1>UD_Romanian-TueCL</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>

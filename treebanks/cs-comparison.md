@@ -4,27 +4,30 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="16%" valign="top">
+    <th width="16%" valign="top">
       <h1>UD_Czech-CAC</h1>
-    </td>
-    <td width="16%" valign="top">
+    </th>
+    <th width="16%" valign="top">
       <h1>UD_Czech-CLTT</h1>
-    </td>
-    <td width="16%" valign="top">
+    </th>
+    <th width="16%" valign="top">
       <h1>UD_Czech-FicTree</h1>
-    </td>
-    <td width="16%" valign="top">
+    </th>
+    <th width="16%" valign="top">
       <h1>UD_Czech-PDTC</h1>
-    </td>
-    <td width="16%" valign="top">
+    </th>
+    <th width="16%" valign="top">
       <h1>UD_Czech-PUD</h1>
-    </td>
-    <td width="16%" valign="top">
+    </th>
+    <th width="16%" valign="top">
       <h1>UD_Czech-Poetry</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="16%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
@@ -696,7 +699,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
+          <li>ADJ: přesvědčen, řečeno, budoucí, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající</li>
           <li>AUX: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
           <li>VERB: řekl, měl, měla, řekla, mohl, chtěl, chtěla, stalo, viděl, začal</li>
         </ul>
@@ -707,7 +710,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: spojených, vedoucí, spojené, jmenován, zabývající, týkající, řečeno, vyfocené, rostoucí, následující</li>
+          <li>ADJ: spojených, vedoucí, spojené, budoucí, jmenován, zabývající, týkající, řečeno, vyfocené, rostoucí</li>
           <li>AUX: byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, nebyli</li>
           <li>VERB: řekl, měl, měli, měla, uvedla, uvedl, mohl, mohla, měly, oznámila</li>
         </ul>
@@ -873,7 +876,7 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: celou, poslední, první, ráda, celá, další, malá, hlavní, velké, malou</li>
-            <li>ADJ-Part: oblečena, uspořádány, hořící, klečící, povznášející, rozhodující, sedící, stojící, tající, truchlící</li>
+            <li>ADJ-Part: oblečena, budoucí, uspořádány, hořící, klečící, povznášející, rozhodující, sedící, stojící, tající</li>
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Part: byla, byly, nebyla, bývala, nebyly, nebývala</li>
             <li>DET: která, jeho, té, které, tu, ta, své, svou, kterou, její</li>
@@ -892,7 +895,7 @@ udver: '2'
         <li>Fem
           <ul>
             <li>ADJ: další, první, české, nové, druhé, poslední, velké, obchodní, státní, newyorské</li>
-            <li>ADJ-Part: zabývající, týkající, sídlící, vedoucí, rostoucí, uvedené, dané, rozhodující, následující, klesající</li>
+            <li>ADJ-Part: zabývající, budoucí, týkající, sídlící, vedoucí, rostoucí, uvedené, dané, rozhodující, následující</li>
             <li>AUX-Conv: jsouc</li>
             <li>DET: která, které, této, té, své, tato, kterou, ta, svou, její</li>
             <li>NOUN: společnosti, společnost, akcií, firmy, společností, době, akcie, akcii, ceny, fotce</li>
@@ -1102,7 +1105,7 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: celý, rád, další, první, malý, druhý, starý, jediný, ostatní, mladý</li>
-            <li>ADJ-Part: přesvědčen, obklopen, poslán, pozván, dopřán, hledajících, milován, milujících, nastávající, natočen</li>
+            <li>ADJ-Part: přesvědčen, obklopen, poslán, pozván, budoucí, budoucím, dopřán, hledajících, milován, milujících</li>
             <li>AUX-Part: byl, byli, nebyl, byly, býval, nebyli, nebyly, bývali, nebýval</li>
             <li>DET: který, ten, jeho, sám, každý, můj, svého, všichni, kteří, svůj</li>
             <li>NOUN: život, den, člověk, plod, profesor, mistr, čas, muž, lidé, mladík</li>
@@ -1120,7 +1123,7 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: další, cenných, první, minulý, nový, celý, velký, rád, dobrý, čistý</li>
-            <li>ADJ-Part: spojených, vedoucí, spojené, jmenován, přesvědčen, připraven, zvolen, zabývající, vedoucích, týkající</li>
+            <li>ADJ-Part: spojených, vedoucí, spojené, jmenován, přesvědčen, připraven, zvolen, zabývající, budoucí, vedoucích</li>
             <li>AUX-Conv: jsa</li>
             <li>AUX-Part: byl, byli, nebyl, nebyli, býval, bývali, nebýval</li>
             <li>DET: který, kteří, tento, které, ten, každý, svůj, můj, všichni, někteří</li>
@@ -1321,7 +1324,7 @@ udver: '2'
         <li>Neut
           <ul>
             <li>ADJ: nesmírném, pozlátkové, smilnící, tichém, umdlená, věčné, Astartiných, Lepší, Oněmlé, bledé</li>
-            <li>ADJ-Part: umdlená, Oněmlé, hořícího, hořícím, nepoznaným, obnažená, odevzdáno, potopená, rozhodnuto, roztoužená</li>
+            <li>ADJ-Part: umdlená, Oněmlé, budoucí, hořícího, hořícím, nepoznaným, obnažená, odevzdáno, potopená, rozhodnuto</li>
             <li>AUX-Part: bylo</li>
             <li>DET: to, tom, ty, své, vše, vším, svá, svého, tvé, tím</li>
             <li>NOUN: žití, oči, srdce, štěstí, nebes, těla, dítě, jaro, moře, očima</li>
@@ -1403,7 +1406,7 @@ udver: '2'
         <li>Anim
           <ul>
             <li>ADJ: rád, mladý, ostatní, starý, malý, rádi, bohatý, druhý, první, další</li>
-            <li>ADJ-Part: přesvědčen, obklopen, pozván, hledajících, milován, milujících, nastávající, nucen, oblečen, obtížen</li>
+            <li>ADJ-Part: přesvědčen, obklopen, pozván, budoucí, hledajících, milován, milujících, nastávající, nucen, oblečen</li>
             <li>AUX-Part: byl, byli, nebyl, býval, nebyli, bývali, nebýval</li>
             <li>DET: který, sám, ten, všichni, kteří, můj, svého, každý, ti, toho</li>
             <li>NOUN: člověk, profesor, mistr, muž, lidé, mladík, otec, primář, lidí, pán</li>
@@ -1421,7 +1424,7 @@ udver: '2'
         <li>Anim
           <ul>
             <li>ADJ: další, bývalý, rádi, hlavní, starší, výkonný, vedoucí, generální, mnozí, ostatní</li>
-            <li>ADJ-Part: vedoucí, vedoucích, připraveni, přesvědčeni, dotázaných, vyučený, žijící, vynikající, zabývající, spokojený</li>
+            <li>ADJ-Part: vedoucí, vedoucích, připraveni, přesvědčeni, dotázaných, budoucí, vyučený, žijící, vynikající, zabývající</li>
             <li>AUX-Part: byli, nebyli, bývali</li>
             <li>DET: kteří, všichni, někteří, ti, každý, sami, naši, svého, ty, tito</li>
             <li>NOUN: lidí, pan, prezident, ředitel, lidé, předseda, člověk, ministr, mluvčí, lidi</li>
@@ -1507,7 +1510,7 @@ udver: '2'
         <li>Inan
           <ul>
             <li>ADJ: celý, další, první, druhý, malý, jediný, nový, plný, dobrý, velký</li>
-            <li>ADJ-Part: dopřán, natočen, následující, následujícím, ochmýřeny, poslán, prosvítající, rostoucím, táhnoucím, uspořádány</li>
+            <li>ADJ-Part: budoucím, dopřán, natočen, následující, následujícím, ochmýřeny, poslán, prosvítající, rostoucím, táhnoucím</li>
             <li>AUX-Part: byl, byly, nebyl, nebyly, býval</li>
             <li>DET: ten, který, jeho, svůj, které, každý, tom, svého, nějaký, její</li>
             <li>NOUN: život, den, plod, čas, života, životě, dne, pohled, domu, dům</li>
@@ -1543,7 +1546,7 @@ udver: '2'
         <li>Inan
           <ul>
             <li>ADJ: Spojených, nové, další, nový, první, vládní, dalších, dalším, hlavní, nejvyšší</li>
-            <li>ADJ-Part: Spojených, Spojené, Spojeným, považovány, Konzultované, Vynucený, agregované, aktivovány, budovány, chráněný</li>
+            <li>ADJ-Part: Spojených, Spojené, Spojeným, považovány, Konzultované, Vynucený, agregované, aktivovány, budoucího, budovány</li>
             <li>AUX-Part: byly, nebyly</li>
             <li>DET: které, svůj, který, každý, tento, tyto, ty, její, naše, náš</li>
             <li>NOUN: roce, roku, l, rok, případě, dolarů, důsledku, film, den, stát</li>
@@ -1731,7 +1734,7 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: další, dalších, cenných, posledních, nové, nových, velké, jiných, spojených, amerických</li>
-            <li>ADJ-Part: spojených, spojené, vedoucí, týkající, vedoucích, následujících, oceněné, uvedené, zveřejněny, uvedených</li>
+            <li>ADJ-Part: spojených, spojené, vedoucí, týkající, vedoucích, následujících, budoucí, oceněné, budoucích, uvedené</li>
             <li>AUX-Conv: jsouce</li>
             <li>AUX-Fin: jsme, jsou, jste, budou, bychom, nejsou, budeme, byste, nebudou, budete</li>
             <li>AUX-Part: byly, byli, nebyly, nebyli, bývali, bývaly, bývávaly, nebývaly</li>
@@ -1895,7 +1898,7 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: celý, první, rád, jiného, poslední, další, celou, malý, druhý, hlavní</li>
-            <li>ADJ-Part: přesvědčen, řečeno, oblečena, rozhodující, napsáno, nastávající, následující, obklopen, poslán, povznášející</li>
+            <li>ADJ-Part: přesvědčen, řečeno, oblečena, budoucí, rozhodující, napsáno, nastávající, následující, obklopen, poslán</li>
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Fin: jsem, je, bych, bude, jsi, není, bys, budu, budeš, nebude</li>
             <li>AUX-Part: byl, byla, bylo, nebyl, nebylo, nebyla, býval, bývala, bývalo, nebývalo</li>
@@ -1916,7 +1919,7 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: první, další, poslední, české, druhé, hlavní, třetí, obchodní, nové, státní</li>
-            <li>ADJ-Part: jmenován, vedoucí, řečeno, vyfocené, zabývající, rozhodující, sídlící, dané, rostoucí, přesvědčen</li>
+            <li>ADJ-Part: jmenován, vedoucí, řečeno, vyfocené, zabývající, budoucí, rozhodující, sídlící, dané, rostoucí</li>
             <li>AUX-Conv: jsa, jsouc</li>
             <li>AUX-Fin: je, jsem, bude, není, bych, nebude, budu, jsi, bývá, nejsem</li>
             <li>AUX-Part: byl, bylo, nebylo, nebyl, býval, bývalo, nebývalo, bývávalo, nebýval</li>
@@ -2016,7 +2019,7 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: další, základní, první, pracovní, nové, jiné, různé, vlastní, celou, větší</li>
-            <li>ADJ-Part: rozhodující, pracující, odpovídající, uvedené, spojené, týkající, vyplývající, zvýšenou, vedoucí, stanovené</li>
+            <li>ADJ-Part: rozhodující, pracující, odpovídající, uvedené, budoucí, spojené, týkající, vyplývající, zvýšenou, vedoucí</li>
             <li>ADP: na, pro, o, za, v, přes, po, mimo, mezi, ve</li>
             <li>DET: to, které, své, tuto, kterou, tyto, svou, který, tento, několik</li>
             <li>NOUN: práci, dobu, rok, význam, podmínky, úkoly, činnost, pozornost, rozvoj, řadu</li>
@@ -2033,7 +2036,7 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: účetní, výroční, českou, konsolidovanou, finanční, konsolidační, minulé, poskytnuté, dlouhodobé, dílčí</li>
-            <li>ADJ-Part: předcházející, konsolidující, týkající, vztahující, ověřenu, plynoucí, související, přejímajícího, nesoucí, následující</li>
+            <li>ADJ-Part: předcházející, konsolidující, týkající, vztahující, ověřenu, plynoucí, související, přejímajícího, budoucí, nesoucí</li>
             <li>ADP: na, pro, za, o, po, v, ve, mimo, mezi, pod</li>
             <li>DET: které, tuto, kterou, to, tyto, všechny, který, její, každou, tento</li>
             <li>NOUN: závěrku, závazky, období, účetnictví, položky, informace, majetek, ocenění, účely, dobu</li>
@@ -2048,7 +2051,7 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: celý, další, celou, první, celé, vlastní, malou, poslední, druhý, malé</li>
-            <li>ADJ-Part: následující, ubíhající, blížící, chladnoucí, chybějící, cvrčící, doplňující, hovořící, kralující, kroutící</li>
+            <li>ADJ-Part: budoucí, následující, ubíhající, blížící, chladnoucí, chybějící, cvrčící, doplňující, hovořící, kralující</li>
             <li>ADP: na, za, o, pro, v, přes, po, před, pod, ve</li>
             <li>DET: to, tu, všechno, kterou, které, své, ten, svou, jeho, svůj</li>
             <li>NOUN: chvíli, den, oči, život, hlavu, ruku, čas, dveře, dítě, ruce</li>
@@ -2064,7 +2067,7 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: další, první, minulý, jiné, nové, vlastní, třetí, celý, celou, příští</li>
-            <li>ADJ-Part: týkající, vedoucí, spojené, končící, následující, rostoucí, rozhodující, dané, související, pokračující</li>
+            <li>ADJ-Part: týkající, budoucí, vedoucí, spojené, končící, následující, rostoucí, rozhodující, dané, související</li>
             <li>ADP: na, pro, za, o, v, přes, ve, po, mimo, mezi</li>
             <li>DET: to, které, své, kterou, svůj, tento, který, svou, tuto, všechny</li>
             <li>NOUN: rok, akcii, den, týden, společnost, roky, dobu, fotku, čtvrtletí, cenu</li>
@@ -2098,7 +2101,7 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: drobné, mnohé, pestré, pozlátkové, tmavou, Dobrou, Dobrý, Drážděné, Egyptské, Kypící</li>
-            <li>ADJ-Part: Drážděné, Kypící, Neslýchané, Oněmlé, kající, narozené, obnažená, odvrácené, roztoužená, schýlená</li>
+            <li>ADJ-Part: Drážděné, Kypící, Neslýchané, Oněmlé, budoucí, kající, narozené, obnažená, odvrácené, roztoužená</li>
             <li>ADP: v, na, pro, přes, o, za, nad, mezi, mimo, po</li>
             <li>DET: to, své, svou, svůj, svoje, tvé, všechny, každou, moji, svoji</li>
             <li>NOUN: bohy, den, duši, štěstí, chvíli, hlavu, tvář, pravdu, ruce, ruku</li>
@@ -2117,7 +2120,7 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADJ: dalšímu, jiným, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným, určitému</li>
-            <li>ADJ-Part: plánovaným, pracujícím, uvedeným, dosaženým, pracujícímu, příslušnému, stanovenému, zadaným, centralizovanému, cestujícím</li>
+            <li>ADJ-Part: plánovaným, pracujícím, uvedeným, dosaženým, pracujícímu, příslušnému, stanovenému, zadaným, budoucímu, centralizovanému</li>
             <li>ADP: k, ke, proti, vůči, naproti, díky, oproti, kvůli, dík, vstříc</li>
             <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</li>
             <li>NOUN: pracovníkům, práci, dispozici, výročí, lidem, řešení, dětem, rozvoji, zlepšení, skutečnosti</li>
@@ -2165,7 +2168,7 @@ udver: '2'
         <li>Dat
           <ul>
             <li>ADJ: další, dalším, jiným, ostatním, dalšímu, loňskému, české, velkým, jinému, stejnému</li>
-            <li>ADJ-Part: spojeným, vedoucím, danému, zvýšené, rozvinutým, očekávanému, příslušným, uvedeným, následujícím, pokračujícímu</li>
+            <li>ADJ-Part: spojeným, vedoucím, budoucím, danému, zvýšené, rozvinutým, očekávanému, příslušným, uvedeným, budoucímu</li>
             <li>ADP: k, proti, ke, kvůli, oproti, díky, vůči, navzdory, naproti, ku</li>
             <li>DET: tomu, svým, tomuto, kterým, té, těm, všem, této, svému, kterému</li>
             <li>NOUN: společnosti, dispozici, fotce, lidem, firmě, roku, vládě, prodeji, dětem, zvýšení</li>
@@ -2234,7 +2237,7 @@ udver: '2'
         <li>Gen
           <ul>
             <li>ADJ: účetní, účetních, účetního, konsolidované, jiných, obchodního, právních, zvláštního, dlouhodobého, právního</li>
-            <li>ADJ-Part: následujícího, konsolidující, zanikající, řídících, souvisejících, předcházejícího, upravujícího, doplňujících, vysvětlujících, odpovídající</li>
+            <li>ADJ-Part: následujícího, konsolidující, zanikající, řídících, souvisejících, předcházejícího, upravujícího, doplňujících, vysvětlujících, budoucích</li>
             <li>ADP: podle, do, z, u, od, včetně, ze, bez, ode, prostřednictvím</li>
             <li>DET: tohoto, této, těchto, všech, kterých, kterého, jejího, které, toho, své</li>
             <li>NOUN: majetku, závěrky, období, jednotky, závazků, jednotek, položek, společnosti, dne, odstavce</li>
@@ -2249,7 +2252,7 @@ udver: '2'
         <li>Gen
           <ul>
             <li>ADJ: jiného, velkého, celého, nového, prvního, druhé, starých, první, jediného, jiných</li>
-            <li>ADJ-Part: blížícího, hledajících, hořící, tající, vzrušujícího, bzučících, dospívajících, dupajících, jsoucího, klesající</li>
+            <li>ADJ-Part: blížícího, hledajících, hořící, tající, vzrušujícího, budoucích, budoucího, bzučících, dospívajících, dupajících</li>
             <li>ADP: do, z, od, u, ze, kolem, bez, vedle, podle, za</li>
             <li>DET: toho, svého, jeho, té, těch, svých, všech, mého, své, jejich</li>
             <li>NOUN: let, života, dne, školy, práce, lidí, času, dveří, domu, hodin</li>
@@ -2265,7 +2268,7 @@ udver: '2'
         <li>Gen
           <ul>
             <li>ADJ: cenných, dalších, české, nových, nového, amerických, jiných, českého, posledních, jiného</li>
-            <li>ADJ-Part: spojených, vedoucích, prodaných, uvedených, dotázaných, zbývajících, vybraných, ozbrojených, spojeného, zabývající</li>
+            <li>ADJ-Part: spojených, vedoucích, prodaných, budoucích, uvedených, dotázaných, zbývajících, vybraných, ozbrojených, spojeného</li>
             <li>ADP: z, do, od, podle, u, ze, bez, během, kolem, za</li>
             <li>DET: toho, tohoto, této, svých, svého, těchto, všech, své, té, těch</li>
             <li>NOUN: společnosti, dolarů, let, roku, akcií, firmy, korun, lidí, dolaru, zákona</li>
@@ -2282,7 +2285,7 @@ udver: '2'
         <li>Gen
           <ul>
             <li>ADJ: jiných, nových, prvního, Spojených, amerického, dalších, druhé, nové, první, různých</li>
-            <li>ADJ-Part: Spojených, kvalifikovaných, studujících, dobytých, dospívající, dospívajícího, konané, konvertovaných, namířených, naneseného</li>
+            <li>ADJ-Part: Spojených, kvalifikovaných, studujících, budoucího, dobytých, dospívající, dospívajícího, konané, konvertovaných, namířených</li>
             <li>ADP: z, do, od, ze, během, podle, u, kolem, bez, kromě</li>
             <li>DET: toho, tohoto, svého, svých, těchto, své, mnoha, té, všech, jejích</li>
             <li>NOUN: roku, let, století, války, lidí, dolarů, společnosti, doby, eur, liber</li>
@@ -2336,7 +2339,7 @@ udver: '2'
         <li>Ins
           <ul>
             <li>ADJ: účetní, reálnou, účetními, podstatným, pořizovací, právními, společným, účetním, právnickou, vlastní</li>
-            <li>ADJ-Part: konsolidující, přejímajícím, ovládající, zaručujícím, jednajícími, nespadajícím, odpovídajícím, odpovídajícími, ovládajícími, plynoucími</li>
+            <li>ADJ-Part: konsolidující, přejímajícím, ovládající, zaručujícím, budoucím, jednajícími, nespadajícím, odpovídajícím, odpovídajícími, ovládajícími</li>
             <li>ADP: s, mezi, pod, se, před, za, nad, přede</li>
             <li>DET: kterým, tímto, tím, touto, kterými, jejím, jejímž, kterou, několika, svým</li>
             <li>NOUN: jednotkou, hodnotou, výjimkou, způsobem, dnem, vlivem, auditorem, cenou, osobou, zákonem</li>
@@ -2351,7 +2354,7 @@ udver: '2'
         <li>Ins
           <ul>
             <li>ADJ: ostatními, stejnou, druhým, celým, dlouhou, největší, pravou, velkým, celou, dlouhými</li>
-            <li>ADJ-Part: bušícím, rostoucím, blížícím, končící, letící, nadcházejícím, nastávající, naříkajícími, neustávajícím, následujícím</li>
+            <li>ADJ-Part: bušícím, rostoucím, blížícím, budoucím, končící, letící, nadcházejícím, nastávající, naříkajícími, neustávajícím</li>
             <li>ADP: s, před, se, za, nad, pod, mezi, přede, nade, pode</li>
             <li>DET: tím, svým, svou, svými, jeho, mým, tou, kterým, kterou, všemi</li>
             <li>NOUN: očima, hlavou, rukou, směrem, cestou, oknem, rameny, hlasem, nohama, rukama</li>
@@ -2452,7 +2455,7 @@ udver: '2'
         <li>Loc
           <ul>
             <li>ADJ: prvním, druhém, poslední, druhé, malém, celé, jiném, spodní, velké, velkém</li>
-            <li>ADJ-Part: milujících, táhnoucím, visících, bojujících, hnisajících, jiskřícím, následujícím, osvobozujícím, plujících, poletující</li>
+            <li>ADJ-Part: milujících, táhnoucím, visících, bojujících, budoucím, hnisajících, jiskřícím, následujícím, osvobozujícím, plujících</li>
             <li>ADP: v, na, po, ve, o, při</li>
             <li>DET: tom, té, svém, jeho, své, kterém, svých, jejím, tomto, které</li>
             <li>NOUN: životě, září, chvíli, době, ruce, světě, domě, pokoji, straně, schodech</li>
@@ -2552,7 +2555,7 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: první, celá, jasné, starý, malá, další, celý, možné, jediný, mladý</li>
-            <li>ADJ-Part: rozhodující, stojící, třesoucí, klečící, nastávající, následující, tančící, vracející, zbývající, Dmoucí</li>
+            <li>ADJ-Part: budoucí, rozhodující, stojící, třesoucí, klečící, nastávající, následující, tančící, vracející, zbývající</li>
             <li>ADP: de</li>
             <li>DET: to, který, která, ten, jeho, které, ta, sám, moje, všechno</li>
             <li>NOUN: člověk, plod, dívka, profesor, mistr, dítě, muž, Kůra, lidé, mladík</li>
@@ -2568,7 +2571,7 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: další, první, možné, hlavní, poslední, státní, federální, česká, starší, velká</li>
-            <li>ADJ-Part: vedoucí, spojené, vyfocené, zabývající, oceněné, sídlící, rostoucí, rozhodující, uvedené, týkající</li>
+            <li>ADJ-Part: vedoucí, spojené, vyfocené, zabývající, budoucí, oceněné, sídlící, rostoucí, rozhodující, uvedené</li>
             <li>ADP: versus, ad, kontra, vs, v, á, ala</li>
             <li>DET: to, který, které, která, kteří, tato, tento, ten, ta, moje</li>
             <li>NOUN: společnost, firma, pan, prezident, ředitel, lidé, vláda, předseda, akcie, člověk</li>
@@ -2991,7 +2994,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</li>
-            <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
+            <li>ADJ-Part: přesvědčen, řečeno, budoucí, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno</li>
             <li>ADV: dobře, často, dlouho, konečně, rychle, brzy, stejně, náhle, úplně, vždy</li>
             <li>NOUN: hospodský</li>
           </ul>
@@ -3003,7 +3006,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: další, nové, poslední, české, velké, dalších, cenných, obchodní, hlavní, státní</li>
-            <li>ADJ-Part: spojených, spojené, jmenován, řečeno, vyfocené, dané, uvedené, přesvědčen, připravena, připraven</li>
+            <li>ADJ-Part: spojených, spojené, budoucí, jmenován, řečeno, vyfocené, dané, uvedené, přesvědčen, připravena</li>
             <li>ADV: stále, dobře, často, dost, dlouho, stejně, doma, přibližně, úplně, rychle</li>
           </ul>
         </li>
@@ -3278,7 +3281,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</li>
-            <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
+            <li>ADJ-Part: přesvědčen, řečeno, budoucí, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající</li>
             <li>ADV: vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</li>
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, jste, budu, budeš, budou</li>
@@ -3297,7 +3300,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: další, nové, poslední, české, velké, dalších, cenných, obchodní, hlavní, státní</li>
-            <li>ADJ-Part: spojených, vedoucí, spojené, jmenován, zabývající, týkající, řečeno, vyfocené, rostoucí, následující</li>
+            <li>ADJ-Part: spojených, vedoucí, spojené, budoucí, jmenován, zabývající, týkající, řečeno, vyfocené, rostoucí</li>
             <li>ADV: více, stále, dobře, často, dost, méně, dlouho, stejně, víc, později</li>
             <li>AUX-Conv: jsouce, jsa, jsouc</li>
             <li>AUX-Fin: je, jsem, jsme, jsou, bude, jste, budou, budeme, budu, jsi</li>
@@ -3514,7 +3517,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, vyplývající</li>
+            <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, budoucí</li>
             <li>AUX-Conv: byvše, jsouc, jsouce</li>
             <li>AUX-Fin: je, jsou, by, bude, není, jsme, jsem, budou, bychom, nejsou</li>
             <li>AUX-Inf: být, býti, nebýt</li>
@@ -3546,7 +3549,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
+            <li>ADJ-Part: budoucí, následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího</li>
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Fin: jsem, je, by, bych, jsme, bude, jsou, jsi, není, jste</li>
             <li>AUX-Inf: být, nebýt</li>
@@ -3560,7 +3563,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Part: vedoucí, zabývající, týkající, rostoucí, následující, rozhodující, sídlící, vynikající, vedoucích, pokračující</li>
+            <li>ADJ-Part: vedoucí, budoucí, zabývající, týkající, rostoucí, následující, rozhodující, sídlící, vynikající, vedoucích</li>
             <li>AUX-Conv: jsouce, jsa, jsouc</li>
             <li>AUX-Fin: je, by, jsem, jsme, jsou, bude, není, jste, budou, bych</li>
             <li>AUX-Inf: být, nebýt, býti</li>
@@ -3577,7 +3580,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budovány</li>
+            <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budoucího</li>
             <li>AUX-Fin: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
             <li>AUX-Inf: být</li>
             <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
@@ -3594,7 +3597,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>ADJ-Part: Drážděné, Kypící, bijící, bičován, drtící, hořícího, hořícím, hynoucími, kající, mlčící</li>
+            <li>ADJ-Part: Drážděné, Kypící, bijící, bičován, budoucí, drtící, hořícího, hořícím, hynoucími, kající</li>
             <li>AUX: by, je, jsem, jste, jsi, jest, byl, jsou, budeš, bylo</li>
             <li>AUX-Fin: je, by, jsem, jste, jest, jsi, jsou, budeš, bude, bych</li>
             <li>AUX-Inf: být</li>
@@ -3950,6 +3953,7 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
+            <li>ADJ-Part: budoucí, budoucích, budoucího, budoucím, budoucímu</li>
             <li>AUX-Fin: bude, budou, budeme, nebude, nebudou, budu, budete, nebudeme, nebudu, nebudete</li>
             <li>VERB-Fin: půjde, pojedu, půjdou, Nepůjde, Pojede, pocestuje, poletí, ponese, ponesou</li>
           </ul>
@@ -3960,6 +3964,7 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
+            <li>ADJ-Part: budoucích, budoucí, budoucím</li>
             <li>AUX-Fin: bude, budou</li>
           </ul>
         </li>
@@ -3969,6 +3974,7 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
+            <li>ADJ-Part: budoucí, budoucím, budoucích, budoucího</li>
             <li>AUX-Fin: bude, budu, budeš, budou, nebude, nebudu, budeme, budete, nebudeš, nebudou</li>
             <li>VERB-Fin: nepůjde, nepůjdu, půjde, půjdeme, půjdu, pojedeme, pojedete, půjdeš, Poběžíme, Potrvá</li>
           </ul>
@@ -3979,6 +3985,7 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
+            <li>ADJ-Part: budoucí, budoucích, budoucího, budoucím, budoucímu, budoucími</li>
             <li>AUX-Fin: bude, budou, nebude, budeme, budu, nebudou, budete, nebudu, nebudeme, budeš</li>
             <li>VERB-Fin: půjde, půjdou, nepůjde, půjdeme, pojedeme, pojede, půjdu, nepůjdu, pojedu, ponese</li>
           </ul>
@@ -3989,6 +3996,7 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
+            <li>ADJ-Part: budoucího</li>
             <li>AUX-Fin: bude, budou, nebude, budeme, budu, nebudou, nebudu</li>
             <li>VERB-Fin: půjde, neporoste, povede</li>
           </ul>
@@ -3999,6 +4007,7 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
+            <li>ADJ-Part: budoucí</li>
             <li>AUX-Fin: budeš, bude</li>
           </ul>
         </li>
@@ -4192,7 +4201,7 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</li>
+            <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, budoucí, vyplývající</li>
             <li>AUX-Conv: byvše, jsouc, jsouce</li>
             <li>AUX-Fin: je, jsou, bude, není, jsme, jsem, budou, nejsou, budeme, bývá</li>
             <li>AUX-Part: bylo, byl, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, nebyli</li>
@@ -4221,7 +4230,7 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
+            <li>ADJ-Part: budoucí, následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího</li>
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Fin: jsem, je, jsme, bude, jsou, jsi, není, jste, budu, budeš</li>
             <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
@@ -4236,7 +4245,7 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>ADJ-Part: vedoucí, zabývající, týkající, rostoucí, následující, rozhodující, sídlící, vynikající, vedoucích, pokračující</li>
+            <li>ADJ-Part: vedoucí, budoucí, zabývající, týkající, rostoucí, následující, rozhodující, sídlící, vynikající, vedoucích</li>
             <li>AUX-Conv: jsouce, jsa, jsouc</li>
             <li>AUX-Fin: je, jsem, jsme, jsou, bude, není, jste, budou, nejsou, nebude</li>
             <li>AUX-Part: byl, bylo, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, nebyli</li>
@@ -4251,7 +4260,7 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</li>
+            <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, budoucího, dosluhující, dospívající, dospívajícího, dívající</li>
             <li>AUX-Fin: je, jsou, bude, jsem, není, jsme, budou, nebude, budeme, budu</li>
             <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
             <li>NOUN-Part: vedoucích</li>
@@ -4267,7 +4276,7 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>ADJ-Part: Kypící, Oněmlé, Zsinalá, bijící, drtící, hořícího, hořícím, hynoucími, kající, mlčící</li>
+            <li>ADJ-Part: Kypící, Oněmlé, Zsinalá, bijící, budoucí, drtící, hořícího, hořícím, hynoucími, kající</li>
             <li>AUX-Fin: je, jsem, jste, jest, jsou, budeš, jsi, bude, jsme, nejsem</li>
             <li>AUX-Part: byl, bylo, Nebyla, byla, byli, byly, bývaly, jsi</li>
             <li>VERB: jdou, letí, měl, chce, jde, zdá, chcem, chtěl, hledá, mám</li>
@@ -4846,7 +4855,7 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
-            <li>ADV: přičemž, zato</li>
+            <li>ADV: přičemž, jak</li>
             <li>DET: jehož, jejichž, jejíž, jejímž, jejímuž, jejíchž, kterážto</li>
             <li>PRON: jež, nichž, což, níž, němž, jimiž, něhož, čímž, jenž, nimiž</li>
           </ul>
@@ -4868,7 +4877,7 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
-            <li>ADV: zato, přičemž</li>
+            <li>ADV: jak</li>
             <li>DET: jehož, jejichž, jejíž, jejímž</li>
             <li>PRON: což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</li>
           </ul>
@@ -4879,7 +4888,7 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
-            <li>ADV: přičemž, zato</li>
+            <li>ADV: jak</li>
             <li>DET: jejichž, jehož, jejíž, jejímž, jejíchž, jejíhož, jejímiž, jejímuž</li>
             <li>PRON: nichž, jež, níž, němž, jehož, jenž, něhož, něž, jemuž, nimiž</li>
           </ul>
@@ -6424,7 +6433,7 @@ udver: '2'
           <ul>
             <li>ADJ
               <ul>
-                <li>DET: Ty, to</li>
+                <li>DET: Ty</li>
               </ul>
             </li>
             <li>ADP
@@ -6437,7 +6446,7 @@ udver: '2'
             </li>
             <li>ADV
               <ul>
-                <li>ADV: více, co, nejen, stejně</li>
+                <li>ADV: co, nejen, stejně</li>
                 <li>NOUN: rok, večer</li>
                 <li>PART: přece</li>
                 <li>VERB-Conv: chtíc</li>
@@ -6472,11 +6481,6 @@ udver: '2'
                 <li>ADV: spolu, souvztažně, společně</li>
               </ul>
             </li>
-            <li>ADV
-              <ul>
-                <li>ADV: více</li>
-              </ul>
-            </li>
             <li>CCONJ
               <ul>
                 <li>CCONJ: a</li>
@@ -6491,11 +6495,6 @@ udver: '2'
       <ul>
         <li><a>ExtPos</a>
           <ul>
-            <li>ADJ
-              <ul>
-                <li>DET: to</li>
-              </ul>
-            </li>
             <li>ADP
               <ul>
                 <li>ADP: v, na, vzhledem, bez, s, ve, za</li>
@@ -6557,7 +6556,7 @@ udver: '2'
             <li>CCONJ
               <ul>
                 <li>ADV: neřku</li>
-                <li>CCONJ: a</li>
+                <li>CCONJ: a, nebo</li>
                 <li>DET: to</li>
               </ul>
             </li>
@@ -7789,7 +7788,7 @@ udver: '2'
             <li>VERB-Conv--NOUN-Gen (1)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN (3)</li>
-            <li>VERB-Fin--NOUN-Acc (5644)</li>
+            <li>VERB-Fin--NOUN-Acc (5647)</li>
             <li>VERB-Fin--NOUN-Gen (149)</li>
             <li>VERB-Fin--NOUN-Nom (102)</li>
             <li>VERB-Fin--PRON (18)</li>
@@ -7797,7 +7796,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (4)</li>
             <li>VERB-Fin--PRON-Nom (6)</li>
             <li>VERB-Inf--NOUN (5)</li>
-            <li>VERB-Inf--NOUN-Acc (3557)</li>
+            <li>VERB-Inf--NOUN-Acc (3558)</li>
             <li>VERB-Inf--NOUN-Gen (34)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
             <li>VERB-Inf--NOUN-Nom (27)</li>

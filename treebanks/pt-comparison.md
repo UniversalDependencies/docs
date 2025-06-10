@@ -4,30 +4,33 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="14%" valign="top">
+    <th width="14%" valign="top">
       <h1>UD_Portuguese-Bosque</h1>
-    </td>
-    <td width="14%" valign="top">
+    </th>
+    <th width="14%" valign="top">
       <h1>UD_Portuguese-CINTIL</h1>
-    </td>
-    <td width="14%" valign="top">
+    </th>
+    <th width="14%" valign="top">
       <h1>UD_Portuguese-DANTEStocks</h1>
-    </td>
-    <td width="14%" valign="top">
+    </th>
+    <th width="14%" valign="top">
       <h1>UD_Portuguese-GSD</h1>
-    </td>
-    <td width="14%" valign="top">
+    </th>
+    <th width="14%" valign="top">
       <h1>UD_Portuguese-PUD</h1>
-    </td>
-    <td width="14%" valign="top">
+    </th>
+    <th width="14%" valign="top">
       <h1>UD_Portuguese-PetroGold</h1>
-    </td>
-    <td width="14%" valign="top">
+    </th>
+    <th width="14%" valign="top">
       <h1>UD_Portuguese-Porttinari</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="14%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
@@ -4856,7 +4859,50 @@ udver: '2'
 
     </td>
     <td width="14%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: a, em, de, com, por, como</li>
+                <li>ADV: quanto, apesar, tal, Mesmo, junto, sempre</li>
+                <li>DET: tais, Uma</li>
+                <li>VERB-Part: devido</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: a, por, em, com, de, Para</li>
+                <li>ADV: cerca, além, não, assim, mesmo, junto, Tanto</li>
+                <li>AUX-Ger: sendo</li>
+                <li>DET: um, cada</li>
+                <li>NOUN: cada</li>
+                <li>SCONJ: caso</li>
+                <li>VERB-Part: feito</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADP: em, por</li>
+                <li>ADV: bem, além, assim, como</li>
+                <li>CCONJ: ou</li>
+                <li>PRON: isto</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: a, para, de, até, com, sem, em, desde, apesarem</li>
+                <li>ADV: além, já, apesar, enquanto, assim, quanto, sempre, ainda, mesmo, tal</li>
+                <li>AUX: sendo, é</li>
+                <li>AUX-Fin: é</li>
+                <li>AUX-Ger: sendo</li>
+                <li>DET: uma, Toda</li>
+                <li>VERB-Part: visto, devido</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="14%" valign="top">
       <ul>

@@ -4,39 +4,42 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="10%" valign="top">
+    <th width="10%" valign="top">
       <h1>UD_Turkish-Atis</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-BOUN</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-FrameNet</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-GB</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-IMST</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-Kenet</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-PUD</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-Penn</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-Tourism</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Turkish-TueCL</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="10%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>

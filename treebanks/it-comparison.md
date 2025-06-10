@@ -4,39 +4,42 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="10%" valign="top">
+    <th width="10%" valign="top">
       <h1>UD_Italian-ISDT</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-MarkIT</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-Old</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-PUD</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-ParTUT</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-ParlaMint</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-PoSTWITA</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-TWITTIRO</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-VIT</h1>
-    </td>
-    <td width="10%" valign="top">
+    </th>
+    <th width="10%" valign="top">
       <h1>UD_Italian-Valico</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="10%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
@@ -4439,7 +4442,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: il, la, l', i, le, gli, lo</li>
+            <li>DET: il, la, l', i, le, un, una, gli, lo, un'</li>
           </ul>
         </li>
       </ul>

@@ -4,33 +4,36 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="12%" valign="top">
+    <th width="12%" valign="top">
       <h1>UD_French-ALTS</h1>
-    </td>
-    <td width="12%" valign="top">
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_French-FQB</h1>
-    </td>
-    <td width="12%" valign="top">
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_French-GSD</h1>
-    </td>
-    <td width="12%" valign="top">
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_French-PUD</h1>
-    </td>
-    <td width="12%" valign="top">
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_French-ParTUT</h1>
-    </td>
-    <td width="12%" valign="top">
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_French-ParisStories</h1>
-    </td>
-    <td width="12%" valign="top">
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_French-Rhapsodie</h1>
-    </td>
-    <td width="12%" valign="top">
+    </th>
+    <th width="12%" valign="top">
       <h1>UD_French-Sequoia</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="12%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>

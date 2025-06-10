@@ -4,18 +4,21 @@ title:  'Comparison of Treebank Statistics'
 udver: '2'
 ---
 
+<style>thead th {position: sticky; top: 0; background-color: white;}</style>
 <table>
+  <thead>
   <tr>
-    <td width="33%" valign="top">
+    <th width="33%" valign="top">
       <h1>UD_Hebrew-HTB</h1>
-    </td>
-    <td width="33%" valign="top">
+    </th>
+    <th width="33%" valign="top">
       <h1>UD_Hebrew-IAHLTknesset</h1>
-    </td>
-    <td width="33%" valign="top">
+    </th>
+    <th width="33%" valign="top">
       <h1>UD_Hebrew-IAHLTwiki</h1>
-    </td>
+    </th>
   </tr>
+  </thead>
   <tr>
     <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
