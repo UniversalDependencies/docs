@@ -4,7 +4,7 @@ title:  'Northwest Gbaya UD'
 udver: '2'
 ---
 
-# UD for Zaar <span class="flagspan"><img class="flag" src="../../flags/svg/CF.svg" /></span>
+# UD for Northwest Gbaya <span class="flagspan"><img class="flag" src="../../flags/svg/CF.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
