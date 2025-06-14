@@ -149,9 +149,9 @@ flat(Elizabeth, II)
 
 [^1]: This is a departure from a guideline articulated previously: according to [de Marneffe et al. (2021)](https://doi.org/10.1162/coli_a_00402), p. 285, the (pseudo)number attaches as [nmod](), though the main point of that passage is to articulate why [nummod]() is not appropriate (no rationale for headedness is presented).
 
-### Toponyms
+### Place names
 
-We also use [flat]() for toponyms where the noun representing the entity type comes first.
+We also use [flat]() for toponyms/names of establishments where the noun representing the entity type comes first.
 This word order is anomalous relative to other English constructions such that
 tests for headedness are inconclusive:
 
@@ -163,6 +163,11 @@ flat(Lake, Mead)
 ~~~ sdparse
 Mount/PROPN Everest/PROPN
 flat(Mount, Everest)
+~~~
+
+~~~ sdparse
+Hotel/PROPN California/PROPN
+flat(Hotel, California)
 ~~~
 
 By contrast, if the identificational part of the toponym precedes the entity type,
