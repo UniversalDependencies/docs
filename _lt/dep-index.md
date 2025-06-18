@@ -8,4 +8,4 @@ udver: '2'
 
 # Dependencies
 
-{% include cs-dep-table.html %}
+{% include lt-dep-table.html %}
