@@ -5,7 +5,7 @@ shortdef: 'root'
 udver: '2'
 ---
 
-The 'root' grammatical relation points to the root of the sentence. A fake node 'ROOT' is used as the governor. There should only be one node with the root dependency relation in every tree.
+The `root` grammatical relation points to the root of the sentence. A fake node `ROOT` is used as the governor. There should only be one node with the root dependency relation in every tree.
 
 The root of a sentence is the predicate of the main clause. The root of a sentence may be a verb (1), a nominal in a copular construction (2), a predicate adjective (3), or a predicate participle (4).
 ~~~ sdparse
