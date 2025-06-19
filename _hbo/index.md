@@ -153,6 +153,8 @@ The relation `clf` is unused.
 
 The relations `list`, `goeswith`, `reparandum`, and `dep` are currently unused, but may be used in future.
 
+Detailed discussion of the relations that are used can be found via [the list of Ancient Hebrew relations](dep/index).
+
 ## Treebanks
 
 There is [1](../treebanks/hbo-comparison.html) Ancient Hebrew UD treebank:
