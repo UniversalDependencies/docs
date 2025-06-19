@@ -33,10 +33,10 @@ Here are some examples from Mandarin/Putonghua Chinese:
 
 Analogous examples from Thai:
 
-* นักเรียนสามคน nâkríán sám gʰn = “three students”, literally “student three [human-classifier]”
-* ต้นไม้สามต้น t²nmai² sám t²n = “three trees”, literally “tree three [tree-classifier]”
-* นกสามตัว nk sám túá = “three birds”, literally “bird three [animal-classifier]”
-* แม่น้ำสามสาย mǽ¹nã² sám sáy = “three rivers”, literally “river three [river-classifier]”
+* นักเรียนสามคน nạkriaːn saːm gʰn = “three students”, literally “student three [human-classifier]”
+* ต้นไม้สามต้น tə̂nmạî saːm tə̂n = “three trees”, literally “tree three [tree-classifier]”
+* นกสามตัว nk saːm tuaː = “three birds”, literally “bird three [animal-classifier]”
+* แม่น้ำสามสาย mæ̀ːnã̂ː saːm saːy = “three rivers”, literally “river three [river-classifier]”
 
 Syntactically, the classifier groups with the numeral rather than the noun and we therefore treat
 classifiers as functional dependents of numerals (or possessives) using the new `clf` relation. (This
