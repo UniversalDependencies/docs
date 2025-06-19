@@ -55,11 +55,11 @@ clf(three, CLF)
 ~~~
 
 ~~~ sdparse
-แมว/NOUN สาม/NUM ตัว/NOUN \n mǽw sám túá \n cat three CLF
+แมว/NOUN สาม/NUM ตัว/NOUN \n mæːw saːm tuaː \n cat three CLF
 nummod(แมว, สาม)
 clf(สาม, ตัว)
-nummod(mǽw, sám)
-clf(sám, túá)
+nummod(mæːw, saːm)
+clf(saːm, tuaː)
 nummod(cat, three)
 clf(three, CLF)
 ~~~
