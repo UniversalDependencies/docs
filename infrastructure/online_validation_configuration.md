@@ -45,7 +45,9 @@ Similarly, if `githook.pl` or the other scripts called by it change, we must go 
 The scripts are kept in the `docs-automation` repository, which is updated automatically via webhook, but `githook.pl`
 does not call them from there. Instead, it calls a copy in the main folder. More precisely, it is not a copy but
 a hardlink; nevertheless, after `git pull` the main folder copy gets disconnected from the copy in `docs-automation`
-and must be reconnected by running `docs-automation/valdan/lnquest.sh`.
+and must be reconnected by running `docs-automation/valdan/lnquest.sh`. (Note: I do not remember why I opted for
+hardlinks but I suspect the reason may have been that the scripts should think they live in the folder above all the
+UD folders and they can access the UD folders via relative paths.)
 
 On the other hand, the CGI scripts responsible for registration of language-specific validation data do not need this.
 They are accessed through a symlink (`langspec -> docs-automation/valrules/`) and they are available immediately after
