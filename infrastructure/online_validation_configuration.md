@@ -63,6 +63,9 @@ python3 -m venv /usr/lib/cgi-bin/unidep/.venv
 source .venv/bin/activate
 ```
 
+More details in [valdan/README](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/README.txt)
+and [valdan/README-system-update](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/README-system-update.txt).
+
 Do virtuálního prostředí instalovat regex (potřebujeme přímo ve validátoru), colorama a termcolor (tyhle dva potřebuje Udapi).
 Případně lze pipem nainstalovat i udapi, ale já mám raději vybalenou kopii repozitáře udapi-python z GitHubu a nastavenou proměnnou
 prostředí $PYTHONPATH, která na tuto kopii navede python.
