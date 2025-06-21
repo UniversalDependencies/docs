@@ -27,7 +27,7 @@ Note that what is considered to be transparent linguistic syntax (as opposed to 
 (E.g., some treebanks might provide proper grammatical analyses in the presence of code-switching,
 or treat mathematical notation as following linguistic strategies like predication.)
 
-Some languages opt to subcategorize usages of `flat` [via subtypes](https://universaldependencies.org/ext-dep-index.html#flat).
+Some languages opt to subcategorize usages of `flat` [via subtypes](/survey-deprel.html#flat).
 In particular, many treebanks use the `flat:name` and `flat:foreign` subtypes converted from the v1 relations `name` and `foreign`.
 The examples on this page simply use plain `flat`.
 
