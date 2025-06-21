@@ -34,12 +34,12 @@ amod(σπόρος, οργανικός)
 amod(σπόρος, ξεφλουδισμένος)
 ~~~
 
-Αdverbs occurring in typical adjectival positions, such as between a determiner and a noun, depend on the noun with the [amod]() relation in order to keep uniformity across languages.
+Αdverbs occurring in typical adjectival positions, such as between a determiner and a noun, depend on the noun with the [advmod]() relation.
 
 ~~~ sdparse
 ## trans = “The bottom shelf opens with some difficulty.”
 Το κάτω.ADV ράφι ανοίγει δύσκολα. 
-amod(ράφι, κάτω)
+advmod(ράφι, κάτω)
 ~~~
 
 <!--
