@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#ADJ">ADJ</a></td>
   <td><a href="#ADP">ADP</a></td>
   <td><a href="#ADV">ADV</a></td>
+  <td><a href="#AUX">AUX</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
   <td><a href="#DET">DET</a></td>
   <td><a href="#INTJ">INTJ</a></td>
