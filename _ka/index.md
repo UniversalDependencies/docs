@@ -26,7 +26,7 @@ Georgian dictionaries employ various strategies for representing lemmas in nomin
 
 Nominals: The lemma is consistently represented as the nominative singular form, providing a straightforward and standard approach.
 
-Verbs: Unlike nominals, Georgian verbs lack an infinitive form, resulting in diverse lemmatization strategies:
+Verbs: Georgian verbs lack an infinitive form, resulting in diverse lemmatization strategies:
 * Verbal Noun (Masdar): Some dictionaries (Chubinashvili 1940; Tsotsanidze et al. 2014 and others) use the verbal noun as the lemma, treating it as an abstract root for verb generation. 
 * Abstract Root: Some dictionaries (Tschenkeli 1965), use abstract verbal roots accompanied by valency information. 
 * Third-Person Singular (Present/Future): Widely adopted by lexicographers (Chikobava 1950–1964; Oniani 1966; Rayfield 2006 and others), this approach represents lemmas as finite verb forms, supplemented with grammatical information. 
@@ -47,7 +47,7 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
 
 ### Tags
 
-* The UD_Georgian-GLC treebank uses all UPOS tags except [DET](https://universaldependencies.org/u/pos/DET.html).
+* The UD_Georgian-GLC treebank uses all UPOS tags.
 * The UD_Georgian-GNC treebank uses all UPOS tags except [X](https://universaldependencies.org/u/pos/X.html).
 
 * There are two types of particles (PART) in Georgian. Those acting as separate words subdivided into different lexical classes: არ *ar* 'not', ვერ *ver* 'not (able)' etc.) and those belonging to clitics and occupying concrete slots in the nominal or verbal paradigm: −ღა *-ġa*, -ცა *-cʻa* etc. Thus, the PART tag is assigned to those particles, which act as separate tokens and the verbal particle denoting the indirect speech markers: -მეთქი *-metʻkʻi* 'As I said', -ო 'as he/them said' etc.
