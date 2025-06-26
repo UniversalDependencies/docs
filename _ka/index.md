@@ -11,11 +11,11 @@ This is a **work-in-progress** overview of the UD annotation for Georgian.
 ## Tokenization and Word Segmentation
 
 * In Modern Georgian, words are delimited regularly by white spaces and punctuation marks. However, in Old Georgian, tokenization was an irregular process, as words were sometimes separated by white spaces and sometimes not. Additionally, depending on the century, words in Old Georgian could also be separated by paragraph separators (჻).
-* Punctuation symbols are not separated from the words; that holds even for hyphenated compounds such as siblings “და-ძმა” 'sister and brother' (one token) etc. However, the dash is separated from the surrounding characters. They can consist of a sequence of symbols, such as a question mark followed by an exclamation mark (?!), an exclamation mark followed by two full stops (!..) and ellipsis (…) and appear: a) in abbreviations (ა.შ. ‘etc.’, ე.ი. ‘i.e.’, etc.) and b) in numeric expressions (1.2, 0,5, etc.).
+* Punctuation symbols are not separated from the words; that holds even for hyphenated compounds such as siblings “და-ძმა” *da-żma* 'sister and brother' (one token) etc. However, the dash is separated from the surrounding characters. They can consist of a sequence of symbols, such as a question mark followed by an exclamation mark (?!), an exclamation mark followed by two full stops (!..) and ellipsis (…) and appear: a) in abbreviations (ა.შ. *a.š.* ‘etc.’, ე.ი. *e.i.* ‘i.e.’, etc.) and b) in numeric expressions (1.2, 0,5, etc.).
 * Due to rich agglutinating type of morphology, clitics can be treated as multi-word tokens and segmented to individual syntactic words in the following cases:
-  a) auxiliary verbs (AUX) attached to a nominal, which add functional and grammatical meaning to the sentence, expressing tense, aspect, mood, etc.: სახლია = სახლი+ა 'is a house';
-  b) postpositions  represented by a suffix attached to an inflected nominal (noun, adjective, numeral and pronoun): სახლში = სახლ+ში 'in the house';
-  c) the indirect speech particle represented by a suffix attached to an inflected nominal or verb: სახლიო = სახლი+ო 'a house as smb. said', წერსო = წერს+ო 'he writes as smb. said'.
+  a) auxiliary verbs (AUX) attached to a nominal, which add functional and grammatical meaning to the sentence, expressing tense, aspect, mood, etc.: სახლია *saxlia* = სახლი+ა 'is a house';
+  b) postpositions  represented by a suffix attached to an inflected nominal (noun, adjective, numeral and pronoun): სახლში *saxlši* = სახლ+ში 'in the house';
+  c) the indirect speech particle represented by a suffix attached to an inflected nominal or verb: სახლიო *saxlio* = სახლი+ო 'a house as smb. said', წერსო *cerso* = წერს+ო 'he writes as smb. said'.
 
 ---
 
@@ -50,8 +50,8 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
 * The UD_Georgian-GLC treebank uses all UPOS tags except [DET](https://universaldependencies.org/u/pos/DET.html).
 * The UD_Georgian-GNC treebank uses all UPOS tags except [X](https://universaldependencies.org/u/pos/X.html).
 
-* There are two types of particles (PART) in Georgian. Those acting as separate words subdivided into different lexical classes: არ 'not', ვერ 'not (able)' etc.) and those belonging to clitics and occupying concrete slots in the nominal or verbal paradigm: −ღა, -ცა etc. Thus, the PART tag is assigned to those particles, which act as separate tokens and the verbal particle denoting the indirect speech markers: -მეთქი 'As I said', -ო 'as he/them said' etc.
-* Auxiliaries (AUX) add functional and grammatical meaning to the sentence, expressing tense, aspect, mood, etc., and can be of two types: (a) those which accompany the nominal paradigm and (b) those which accompany the verbal paradigm. If the copulas are represented as clitics, such as მთავარია = მთავარი + ა ('it is important') or სახლია = სახლი + ა ('it is a house'), or as separate words, such as მთავარი არის ('it is important') or სახლი არის ('it is a house'), they are considered copula verbs and assigned cop in DEPREL. Other auxiliaries that act as separate words, such as უნდა ('it should') etc., are considered auxiliaries and assigned aux in DEPREL.
+* There are two types of particles (PART) in Georgian. Those acting as separate words subdivided into different lexical classes: არ *ar* 'not', ვერ *ver* 'not (able)' etc.) and those belonging to clitics and occupying concrete slots in the nominal or verbal paradigm: −ღა *-ġa*, -ცა *-cʻa* etc. Thus, the PART tag is assigned to those particles, which act as separate tokens and the verbal particle denoting the indirect speech markers: -მეთქი *-metʻkʻi* 'As I said', -ო 'as he/them said' etc.
+* Auxiliaries (AUX) add functional and grammatical meaning to the sentence, expressing tense, aspect, mood, etc., and can be of two types: (a) those which accompany the nominal paradigm and (b) those which accompany the verbal paradigm. If the copulas are represented as clitics, such as მთავარია *mtʻavaria* = მთავარი + ა ('it is important') or სახლია *saxlia* = სახლი + ა ('it is a house'), or as separate words, such as მთავარი არის *mtʻavari aris* ('it is important') or სახლი არის *saxli aris* ('it is a house'), they are considered copula verbs and assigned cop in DEPREL. Other auxiliaries that act as separate words, such as უნდა *unda* ('it should') etc., are considered auxiliaries and assigned aux in DEPREL.
 * Verbal forms indicating verbal nouns or verbal adjectives are assigned a tag VERB with additional information on the features of verbal forms, especially, participles are assigned: VerbForm=Part, while masdars - VerbForm=Vnoun.
 
 ---
@@ -68,7 +68,7 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
 * The UD_Georgian treebanks use all main inflectional FEATS tags except of [Gender](https://universaldependencies.org/u/feat/Gender.html), [NounClass](https://universaldependencies.org/u/feat/NounClass.html) and [Definite](https://universaldependencies.org/u/feat/Definite.html).
   * Nouns have inherent Animacy and inflect for Number (singular or plural) and Case (nominative, ergative, dative, genetive, instrumental, essive (adverbial) and vocative).
   * Adjectives in the majority of cases agree with nouns (in both attributive and predicative position) with respect to Case. Many adjectives inflect for Degree (diminutive, positive, comparative, superlative), Case and Number.
-  * Numerals agree with nouns (in both attributive and predicative position) with respect to Case and inflect for Case and very rarely for Number: ორი 'two in Singular' -> ორნი 'two in Plural'.
+  * Numerals agree with nouns (in both attributive and predicative position) with respect to Case and inflect for Case and very rarely for Number: ორი *ori* 'two in Singular' -> ორნი *orni* 'two in Plural'.
   * Many pronouns agree with nouns with respect to Case and inflect for Case and Number. Some types of pronouns (personal, demonstrative and possessive pronouns) reflect Person (1, 2, 3).
 
 ##### Verbal Features
@@ -106,54 +106,54 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
 
 * The following subtypes are used for Georgian:
   * [acl](https://universaldependencies.org/u/dep/acl.html): clausal modifier of noun (adnominal clause)
-  * advcl: adverbial clause modifier
-  * advmod: adverbial modifier
-  * advmod:emph: emphasizing word, intensifier
-  * advmod:lmod: locative adverbial modifier
-  * amod: adjectival modifier
-  * appos: appositional modifier
-  * aux: auxiliary
-  * case: case marking
-  * cc: coordinating conjunction
-  * ccomp: clausal complement
-  * compound: compound
-  * conj: conjunct
-  * cop: copula
-  * csubj: clausal subject
-  * csubj:outer: outer clause clausal subject
-  * csubj:pass: clausal passive subject
-  * dep: unspecified dependency
-  * det: determiner
-  * det:nummod: pronominal quantifier agreeing in case with the noun
-  * det:poss: possessive determiner
-  * discourse: discourse element
-  * fixed: fixed multiword expression
-  * flat: flat multiword expression
-  * flat:foreign: foreign words
-  * flat:name: names
-  * goeswith: goes with
-  * iobj: indirect object
-  * list: list
-  * mark: marker
-  * nmod: nominal modifier
-  * nsubj: nominal subject
-  * nummod: numeric modifier
-  * obj: object
-  * obl: oblique nominal
-  * orphan: orphan
-  * parataxis: parataxis
-  * punct: punctuation
-  * root: root
-  * vocative: vocative
-  * xcomp: open clausal complement
-  * advcl:relcl (GNC only)
-  * acl:relcl (GNC only)
-  * advmod:neg (GNC)
-  * obl:final (GNC)
-  * obl:iobj (GNC)
-  * ccomp:speech (GNC)
-  * nmod:iobj (GNC)
-  * nmod:pred (GNC)
+  * [advcl](https://universaldependencies.org/u/dep/advcl.html): adverbial clause modifier
+  * [advmod](https://universaldependencies.org/u/dep/advmod.html): adverbial modifier
+  * [advmod:emph](https://universaldependencies.org/u/dep/advmod-emph.html): emphasizing word, intensifier
+  * [advmod:lmod](https://universaldependencies.org/u/dep/advmod-lmod.html): locative adverbial modifier
+  * [amod](https://universaldependencies.org/u/dep/amod.html): adjectival modifier
+  * [appos](https://universaldependencies.org/u/dep/appos.html): appositional modifier
+  * [aux](https://universaldependencies.org/u/dep/aux_.html): auxiliary
+  * [case](https://universaldependencies.org/u/dep/case.html): case marking
+  * [cc](https://universaldependencies.org/u/dep/cc.html): coordinating conjunction
+  * [ccomp](https://universaldependencies.org/u/dep/ccomp.html): clausal complement
+  * [compound](https://universaldependencies.org/u/dep/compound.html): compound
+  * [conj](https://universaldependencies.org/u/dep/conj.html): conjunct
+  * [cop](https://universaldependencies.org/u/dep/cop.html): copula
+  * [csubj](https://universaldependencies.org/u/dep/csubj.html): clausal subject
+  * [csubj:outer](https://universaldependencies.org/u/dep/csubj-outer.html): outer clause clausal subject
+  * [csubj:pass](https://universaldependencies.org/u/dep/csubj-pass.html): clausal passive subject
+  * [dep](https://universaldependencies.org/u/dep/dep.html): unspecified dependency
+  * [det](https://universaldependencies.org/u/dep/det.html): determiner
+  * [det:nummod](https://universaldependencies.org/u/dep/det-nummod.html): pronominal quantifier agreeing in case with the noun
+  * [det:poss](https://universaldependencies.org/u/dep/det-poss.html): possessive determiner
+  * [discourse](https://universaldependencies.org/u/dep/discourse.html): discourse element
+  * [fixed](https://universaldependencies.org/u/dep/fixed.html): fixed multiword expression
+  * [flat](https://universaldependencies.org/u/dep/flat.html): flat multiword expression
+  * [flat:foreign](https://universaldependencies.org/u/dep/flat-foreign.html): foreign words
+  * [flat:name](https://universaldependencies.org/u/dep/flat-name.html): names
+  * [goeswith](https://universaldependencies.org/u/dep/goeswith.html): goes with
+  * [iobj](https://universaldependencies.org/u/dep/iobj.html): indirect object
+  * [list](https://universaldependencies.org/u/dep/list.html): list
+  * [mark](https://universaldependencies.org/u/dep/mark.html): marker
+  * [nmod](https://universaldependencies.org/u/dep/nmod.html): nominal modifier
+  * [nsubj](https://universaldependencies.org/u/dep/nsubj.html): nominal subject
+  * [nummod](https://universaldependencies.org/u/dep/nummod.html): numeric modifier
+  * [obj](https://universaldependencies.org/u/dep/obj.html): object
+  * [obl](https://universaldependencies.org/u/dep/obl.html): oblique nominal
+  * [orphan](https://universaldependencies.org/u/dep/orphan.html): orphan
+  * [parataxis](https://universaldependencies.org/u/dep/parataxis.html): parataxis
+  * [punct](https://universaldependencies.org/u/dep/punct.html): punctuation
+  * [root](https://universaldependencies.org/u/dep/root.html): root
+  * [vocative](https://universaldependencies.org/u/dep/vocative.html): vocative
+  * [xcomp](https://universaldependencies.org/u/dep/xcomp.html): open clausal complement
+  * [advcl:relcl](https://universaldependencies.org/u/dep/advcl-relcl.html) (GNC only)
+  * [acl:relcl](https://universaldependencies.org/u/dep/acl-relcl.html) (GNC only)
+  * [advmod:neg](https://universaldependencies.org/u/dep/advmod-neg.html) (GNC)
+  * [obl:final](https://universaldependencies.org/u/dep/obl-final.html) (GNC)
+  * [obl:iobj](https://universaldependencies.org/u/dep/obl-iobj.html) (GNC)
+  * [ccomp:speech](https://universaldependencies.org/u/dep/ccomp-speech.html) (GNC)
+  * [nmod:iobj](https://universaldependencies.org/u/dep/nmod-iobj.html) (GNC)
+  * [nmod:pred](https://universaldependencies.org/u/dep/nmod-pred.html) (GNC)
 
 ---
 
