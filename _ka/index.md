@@ -84,7 +84,7 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
 ---
 
 ## Syntax
-* The UD_Georgian treebanks use all main DEPREL tags except of [expl](https://universaldependencies.org/u/dep/expl.html), [dislocated](https://universaldependencies.org/u/dep/dislocated.html), [clf](https://universaldependencies.org/u/dep/clf.html) and [reparandum](https://universaldependencies.org/u/dep/reparandum.html). The Georgian language has a flexible word order, which sometimes follows Subject-Indirect Object-Object-Verb patterns.
+* The UD_Georgian treebanks use all main DEPREL tags except of [expl](https://universaldependencies.org/u/dep/expl.html), [dislocated](https://universaldependencies.org/u/dep/dislocated.html), [clf](https://universaldependencies.org/u/dep/clf.html) and [reparandum](https://universaldependencies.org/u/dep/reparandum.html). The Georgian language has a flexible word order, which sometimes prefer to follow Subject-Indirect Object-Object-Verb patterns.
 * Subjects have the following characteristics:
   * Case marking: Subjects occur in nominative, ergative or dative.
   * Passivization: Subjects are suppressed when verbs (both intransitive and transitive) are passivized.
@@ -105,7 +105,7 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
 
 
 * The following subtypes are used for Georgian:
-  * acl: clausal modifier of noun (adnominal clause)
+  * [acl](https://universaldependencies.org/u/dep/acl.html): clausal modifier of noun (adnominal clause)
   * advcl: adverbial clause modifier
   * advmod: adverbial modifier
   * advmod:emph: emphasizing word, intensifier
