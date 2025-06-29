@@ -17,7 +17,7 @@ udver: '2'
 
 Degree of comparison is used as an inflectional feature of [adjectives](_ka/pos/ADJ). The degree of comparison is encoded in Georgian by two methods: synthetic and analytic. The synthetic method of forming the degree of comparison is closely connected to the use of special affixes, while the analytic method employs the adverbs _უფრო_ ‘more’ (in the comparative degree) and _ყველაზე_ ‘most’, _ყველაზე უფრო_ ‘most of all’ (in the superlative degree) before the adjective. While the synthetic method can be processed as a part of morphology, the analytic envolves syntax.
 
-### <a name="Dim">`Dim`</a>: comparative, second degree
+### <a name="Dim">`Dim`</a>: diminutive
 
 The diminutive degree (the so-called ‘-ish degree’) expresses a lesser degree, small size, or, metaphorically, affection towards the entity described by the noun.
 
@@ -27,7 +27,7 @@ The diminutive degree (the so-called ‘-ish degree’) expresses a lesser degre
 * _კაბა <b>ოდნავ</b> თეთრია._ "The dress is slightly white."
 
 
-### <a name="Pos">`Pos`</a>: comparative, second degree
+### <a name="Pos">`Pos`</a>: positive
 
 This is the base form that merely states a quality of something, without comparing it to qualities of others. 
 
@@ -35,7 +35,7 @@ This is the base form that merely states a quality of something, without compari
 
 * _კაბა თეთრია._ "The dress is white."
 
-### <a name="Cmp">`Cmp`</a>: comparative, second degree
+### <a name="Cmp">`Cmp`</a>: comparative
 
 The quality of one object is compared to the same quality of another object.
 
@@ -43,7 +43,7 @@ The quality of one object is compared to the same quality of another object.
 
 * _კაბა <b>უფრო</b> თეთრია, ვიდრე ჩანთა._ "The dress is whiter than the bag."
 
-### <a name="Sup">`Sup`</a>: superlative, third degree
+### <a name="Sup">`Sup`</a>: superlative
 
 The quality of one object is compared to the same quality of all other objects within a set.
 
