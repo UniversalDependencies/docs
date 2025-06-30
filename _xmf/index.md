@@ -11,10 +11,10 @@ This is a **work-in-progress** overview of the UD annotation for Megrelian.
 ## Tokenization and Word Segmentation
 
 * In Megrelian, words are delimited regularly by white spaces and punctuation marks. 
-* Punctuation symbols are not separated from the words; that holds even for hyphenated compounds such as suddenly “ხათე-ხათე” 'suddenly-suddenly' (one token) etc. However, the dash is separated from the surrounding characters. They can consist of a sequence of symbols, such as a question mark followed by an exclamation mark (?!), an exclamation mark followed by two full stops (!..) and ellipsis (…) and appear in numeric expressions (1.2, 0,5, etc.).
+* Punctuation symbols are not separated from the words; that holds even for hyphenated compounds such as suddenly ხათე-ხათე *xɑtɛ-xɑtɛ* 'suddenly-suddenly' (one token) etc. However, the dash is separated from the surrounding characters. They can consist of a sequence of symbols, such as a question mark followed by an exclamation mark (?!), an exclamation mark followed by two full stops (!..) and ellipsis (…) and appear in numeric expressions (1.2, 0,5, etc.).
 * Due to rich agglutinating type of morphology, clitics can be treated as multi-word tokens and segmented to individual syntactic words in the following cases:
-  a) postpositions  represented by a suffix attached to an inflected nominal (noun, adjective, numeral and pronoun): კოჩიწკალა *kʼɔt͡ʃit͡sʼkʼɑlɑ* = კოჩი+წკალა 'with a human', ჸუდეშახ *ʔudɛʃɑx* = ჸუდეშა+ხ 'until the house';
-  b) the indirect speech particle represented by a suffix attached to an inflected nominal or verb: კოჩქია *kʼɔt͡ʃkiɑ* = კოჩქ-ი+ა 'a man as smb. said', ვჭარუნქია *vt͡ʃʼɑrunkiɑ* = ვ-ჭარუნქ-ი+ა 'I write as smb. said'.
+  a) postpositions  represented by a suffix attached to an inflected nominal (noun, adjective, numeral and pronoun): კოჩი<b>წკალა</b> *kʼɔt͡ʃi<b>t͡sʼkʼɑlɑ</b>* 'with a human', ჸუდეშა<b>ხ</b> *ʔudɛʃɑ<b>x</b>* 'until the house';
+  b) the indirect speech particle represented by a suffix attached to an inflected nominal or verb: კოჩქი<b>ა</b> *kʼɔt͡ʃki<b>ɑ</b>* 'a man as smb. said', ვჭარუნქი<b>ა</b> *vt͡ʃʼɑrunki<b>ɑ</b>* 'I write as smb. said'.
 
 ---
 
@@ -35,8 +35,8 @@ Verbs: The lemma is represented as the verbal noun, treating it as an abstract r
 
 * The UD_Megrelian-MLC treebank uses all UPOS tags.
 
-* There are two types of particles (PART) in Megrelian. Those acting as separate words subdivided into different lexical classes: ხოლო xɔlɔ 'too') and those belonging to clitics, occupying specific slots before or after the root in the nominal or verbal paradigm: ვა(რ)- va(r)- 'no', −ო -ɔ 'interrogation particle', etc. 
-* In Megrelian, the copula verb იჸინ iʔin 'to be' is used to express existence, identity, and predication, appearing in various forms to agree with person, number, and tense. In contemporary usage, it occurs both as a free form and as part of compound verb constructions, providing essential grammatical functions in equational and locational sentences.
+* There are two types of particles (PART) in Megrelian. Those acting as separate words subdivided into different lexical classes: ხოლო xɔlɔ 'too') and those belonging to clitics, occupying specific slots before or after the root in the nominal or verbal paradigm: ვა(რ)- *va(r)-* 'no', −ო *-ɔ* 'interrogation particle', etc. 
+* In Megrelian, the copula verb იჸინ *iʔin* 'to be' is used to express existence, identity, and predication, appearing in various forms to agree with person, number, and tense. In contemporary usage, it occurs both as a free form and as part of compound verb constructions, providing essential grammatical functions in equational and locational sentences.
 * Verbal forms indicating verbal nouns or verbal adjectives are assigned a tag VERB with additional information on the features of verbal forms, especially, participles are assigned: VerbForm=Part, while masdars - VerbForm=Vnoun.
 
 ---
