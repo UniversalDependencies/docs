@@ -61,13 +61,13 @@ The `AdvType` feature typically applies to [adverbs](_xmf/pos/ADV).
 
 #### Examples
 
-* _მუსხიი_musxii_ 'how many' etc.
+* _მუსხიი (musxii)_ 'how many', _მუზმა (muzmɑ)_ 'how many' etc.
 
 ### <a name="Dir">`Dir`</a>: directional adverb
 
 #### Examples
 
-* _სოთ_sɔt_ 'where too' etc.
+* _სოთ (sɔt)_ 'where', _სოურეთ (sɔurɛt)_ 'where from' etc.
 
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
