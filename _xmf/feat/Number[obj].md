@@ -19,11 +19,11 @@ udver: '2'
 
 #### Examples
 
-* _ბგორი_bɡɔri_ 'you find me', _მომიღი_mɔmiɣi_ 'you bring me' etc.
+* _ბგორი (bɡɔri)_ 'you find me', _მომიღი (mɔmiɣi)_ 'you bring me' etc.
 
 ### <a name="Plur">`Plur`</a>: plural number
 
 #### Examples
 
-* _ბგორით_bɡɔrit_ 'you find us', _მომიღით_mɔmiɣit_ 'you bring us' etc.
+* _ბგორით (bɡɔrit)_ 'you find us', _მომიღით (mɔmiɣit)_ 'you bring us' etc.
 <!-- Interlanguage links updated So 10. května 2025, 18:14:20 CEST -->
