@@ -19,6 +19,6 @@ Conj Coord: Coordinative conjunction
 
 ### Examples
 
-_დო_dɔ_ 'and'
-_თუ_tu_ 'or'
+_დო (dɔ)_ 'and'
+_თუ (tu)_ 'or'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:42 CEST -->
