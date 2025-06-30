@@ -21,7 +21,7 @@ Verb:	Main verb
 
 ### Examples
 
-- main verbs: _ვახარებ_vɑxɑrɛb_ 'I make someone happy', _ვაკენქ_vɑkʼɛnk_ 'I hold'
-- participles: _მალიმური_malimuri_ 'fought', _მაგორუუ_magoruu_ 'searched'
-- masdars: _ჯინა_d͡ʒinɑ_ 'watching', _ჯღონა_d͡ʒɣɔnɑ_ 'sending'
+- main verbs: _ვახარებ (vɑxɑrɛb)_ 'I make someone happy', _ვაკენქ (vɑkʼɛnk)_ 'I hold'
+- participles: _მალიმური (malimuri)_ 'fought', _მაგორუუ (magoruu)_ 'searched'
+- masdars: _ჯინა (d͡ʒinɑ)_ 'watching', _ჯღონა (d͡ʒɣɔnɑ)_ 'sending'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:51 CEST -->
