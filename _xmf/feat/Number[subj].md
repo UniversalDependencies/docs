@@ -19,11 +19,11 @@ udver: '2'
 
 #### Examples
 
-* _ვზიმუნდი_vzimundi_ 'I was measuring', _დოვზიმუნდი_dɔvzimundi_ 'I would measure' etc.
+* _ვზიმუნდი (vzimundi)_ 'I was measuring', _დოვზიმუნდი (dɔvzimundi)_ 'I would measure' etc.
 
 ### <a name="Plur">`Plur`</a>: plural number
 
 #### Examples
 
-* _ვზიმუნდით_vzimundit_ 'We were measuring', _დოვზიმუნდით_dɔvzimundit_ 'We would measure' etc.
+* _ვზიმუნდით (vzimundit)_ 'We were measuring', _დოვზიმუნდით (dɔvzimundit)_ 'We would measure' etc.
 <!-- Interlanguage links updated So 10. května 2025, 18:14:21 CEST -->
