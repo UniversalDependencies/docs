@@ -20,18 +20,18 @@ The `NumType` feature applies to [numerals](_xmf/pos/NUM).
 
 #### Examples
 
-* _ართი_ɑrti_ 'one', 1 'one' etc.
+* _ართი (ɑrti)_ 'one', 1 'one' etc.
 
 ### <a name="Ord">`Ord`</a>: ordinal number or corresponding word
 
 #### Examples
 
-* _მაბრუო_mabruo_ 'the eigth', I 'the first' etc.
+* _მაბრუო (mabruo)_ 'the eigth', I 'the first' etc.
 
 ### <a name="Mult">`Mult`</a>: multiple number or corresponding word
 
 #### Examples
 
-* _ოთხონ_otʻxon_ 'four times' etc.
+* _ოთხონ (otʻxon)_ 'four times' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:22 CEST -->
