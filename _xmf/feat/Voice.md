@@ -21,7 +21,7 @@ The subject of the verb is the doer of the action (agent), the object is affecte
 
 #### Examples
 
-* _ცხოვრენს თინა, იცხოვრენს თინა, იცხოვრუ_ _t͡sxɔvrɛns tinɑ, it͡sxɔvrɛns tinɑ, it͡sxɔvru_ 'he/she lives, he/she makes himself/herself live, he/she lived'
+* _ცხოვრენს თინა, იცხოვრენს თინა, იცხოვრუ (t͡sxɔvrɛns tinɑ, it͡sxɔvrɛns tinɑ, it͡sxɔvru)_ 'he/she lives, he/she makes himself/herself live, he/she lived'
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
@@ -29,6 +29,6 @@ The subject of the verb is affected by the action (patient). The doer (agent) is
 
 #### Examples
 
-* _ოჭარუუ(ნ), აჭარუუ(ნ)_ɔt͡ʃʼɑruu(n), ɑt͡ʃʼɑruu(n)_'he/she makes to be written, he/she gets written'
+* _ოჭარუუ(ნ), აჭარუუ(ნ) (ɔt͡ʃʼɑruu(n), ɑt͡ʃʼɑruu(n))_'he/she makes to be written, he/she gets written'
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->
