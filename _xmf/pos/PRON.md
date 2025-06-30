@@ -27,14 +27,14 @@ Pron: Pronoun
 
 ### Examples
 
-- personal pronouns: _მა_mɑ_ 'I' etc.
-- demonstrative pronouns: _ათეგვარი_ɑtɛɡvɑri_ 'such' etc.
-- possessive pronouns: _ჩქიმი_t͡ʃkimi_ 'my' etc.
-- indefinite pronouns: _მითინი_mitini_ 'someone' etc.
-- interrogative pronouns: _მი//მინ//მინი_mi//min//mini_ 'who' etc.
-- negative pronouns: _მითა_mita_ 'nobody' etc.
-- reflexive pronouns: _თვითონ_tvitɔn_ 'himself, herself or itself' etc.
-- relative pronouns: _მუჭომი_mut͡ʃʼɔmi_ 'what kind of' etc.
-- reciprocal pronouns: _ართიანი_ɑrtiɑni_ 'each other' etc.
-- determinal pronouns: _ირი_iri_ 'each' etc.
+- personal pronouns: _მა (mɑ)_ 'I' etc.
+- demonstrative pronouns: _ათეგვარი (ɑtɛɡvɑri)_ 'such' etc.
+- possessive pronouns: _ჩქიმი (t͡ʃkimi)_ 'my' etc.
+- indefinite pronouns: _მითინი (mitini)_ 'someone' etc.
+- interrogative pronouns: _მი//მინ//მინი (mi//min//mini)_ 'who' etc.
+- negative pronouns: _მითა (mita)_ 'nobody' etc.
+- reflexive pronouns: _თვითონ (tvitɔn)_ 'himself, herself or itself' etc.
+- relative pronouns: _მუჭომი (mut͡ʃʼɔmi)_ 'what kind of' etc.
+- reciprocal pronouns: _ართიანი (ɑrtiɑni)_ 'each other' etc.
+- determinal pronouns: _ირი (iri)_ 'each' etc.
 <!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->
