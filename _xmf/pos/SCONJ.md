@@ -19,6 +19,6 @@ Conj Subord: Subordinative conjunction
 
 ### Examples
 
-_-და_ 'and'
-_-ნი_-ni_ 'that'
+_-და (-da)_ 'and'
+_-ნი (-ni)_ 'that'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:50 CEST -->
