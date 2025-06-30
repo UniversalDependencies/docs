@@ -17,6 +17,6 @@ Itj:	Interjection
 
 ### Examples
 
-_ჩუ_t͡ʃu_ 'shush'
-_ეჰ_ɛh_ 'oh, dear'
+_ჩუ (t͡ʃu)_ 'shush'
+_ეჰ (ɛh)_ 'oh, dear'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:44 CEST -->
