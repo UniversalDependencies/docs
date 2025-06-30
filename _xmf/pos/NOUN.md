@@ -20,7 +20,7 @@ Noun:	Common noun
 
 ### Examples
 
-_ჩილი_t͡ʃili_ 'wife'
-_ღორონთი_ɣɔrɔnti_ 'God'
-_კათა_kʼɑtɑ_ 'people'
+_ჩილი (t͡ʃili)_ 'wife'
+_ღორონთი (ɣɔrɔnti)_ 'God'
+_კათა (kʼɑtɑ)_ 'people'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:45 CEST -->
