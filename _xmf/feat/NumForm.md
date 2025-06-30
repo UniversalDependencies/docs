@@ -22,7 +22,7 @@ The `NumForm` feature applies to [numerals](_xmf/pos/NUM).
 
 #### Examples
 
-* _ართი_ɑrti_ “one”, _ჟირი_ʒiri_ “two”, _სუმი_sumi_ “three” etc.
+* _ართი (ɑrti)_ 'one', _ჟირი (ʒiri)_ 'two', _სუმი (sumi)_ 'three' etc.
 
 ### <a name="Digit">`Digit`</a>: number expressed using digits
 
@@ -34,7 +34,7 @@ The `NumForm` feature applies to [numerals](_xmf/pos/NUM).
 
 #### Examples
 
-* _1-ი “1st”, მე-11-ე “11th”_
+* _1-ი (1-i)_ '1st', _მე-11-ე (mɛ-11-ɛ)_ '11th'
 
 ### <a name="Roman">`Roman`</a>: Roman numeral
 
