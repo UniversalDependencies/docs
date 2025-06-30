@@ -20,5 +20,5 @@ Aux: Auxiliary verb, copula
 
 ### Examples
 
-_იჸინ_iʔin_ 'to be'
+_იჸინ_(iʔin)_ 'to be'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:42 CEST -->
