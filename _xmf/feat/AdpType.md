@@ -18,6 +18,6 @@ The `AdpType` feature typically applies to [adpositions](_xmf/pos/ADV), nouns [N
 
 #### Examples
 
-* _ბირგული<b>წკჷმა</b>_birɡulit͡sʼkʼəmɑ_ 'near the knee', _ჸუდეშა<b>ხ</b>_ʔudɛʃɑx_ 'until the house' etc.
+* _ბირგული<b>წკჷმა</b> (birɡuli<b>t͡sʼkʼəmɑ</b>)_ 'near the knee', _ჸუდეშა<b>ხ</b> (ʔudɛʃɑ<b>x</b>)_ 'until the house' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
