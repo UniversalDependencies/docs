@@ -21,7 +21,7 @@ A singular noun denotes one person, animal or thing.
 
 #### Examples
 
-* _კოჩი_kʼɔt͡ʃi_ "man", _ვზიმუნდი_vzimundi_ "I measure" etc.
+* _კოჩი (kʼɔt͡ʃi)_ "man", _ვზიმუნდი (vzimundi)_ "I measure" etc.
 
 ### <a name="Plur">`Plur`</a>: plural number
 
@@ -29,5 +29,5 @@ A plural noun denotes several persons, animals or things.
 
 #### Examples
 
-* _კოჩ<b>აფ</b>ი_kʼɔt͡ʃ<b>ɑp</b>i_ "men", _ვზიმუნდი<b>თ</b>_vzimundi<b>t</b>_ "we measure" etc.
+* _კოჩ<b>აფ</b>ი (kʼɔt͡ʃ<b>ɑp</b>i)_ "men", _ვზიმუნდი<b>თ</b> (vzimundi<b>t</b>)_ "we measure" etc.
 <!-- Interlanguage links updated So 10. května 2025, 18:14:18 CEST -->
