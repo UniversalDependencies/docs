@@ -19,11 +19,11 @@ udver: '2'
 
 #### Examples
 
-* _მომიღუ//ჷ_mɔmiɣu//ə_ 'he/she brought it to me.' etc.
+* _მომიღუ//ჷ (mɔmiɣu//ə)_ 'he/she brought it to me.' etc.
 
 ### <a name="Plur">`Plur`</a>: plural number
 
 #### Examples
 
-* _მომიღეს_mɔmiɣɛs_ 'he/she brought it to us.' etc.
+* _მომიღეს (mɔmiɣɛs)_ 'he/she brought it to us.' etc.
 <!-- Interlanguage links updated So 10. května 2025, 18:14:19 CEST -->
