@@ -21,9 +21,9 @@ Num:	Numeral
 
 ### Examples
 
-- cardinal numerals: _ართი_ɑrti_ 'one' etc.
-- ordinal numerals: _მაბრუო_mabruo_ 'the eigth' etc.
-- multiple numerals: _ოთხონ_otʻxon_ 'four times' etc.
+- cardinal numerals: _ართი (ɑrti)_ 'one' etc.
+- ordinal numerals: _მაბრუო (mabruo)_ 'the eigth' etc.
+- multiple numerals: _ოთხონ (otʻxon)_ 'four times' etc.
 
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:46 CEST -->
