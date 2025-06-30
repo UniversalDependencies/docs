@@ -21,24 +21,24 @@ The `NameType` feature applies to [proper nouns](_xmf/pos/PROPN).
 
 #### Examples
 
-* _შანიძე_ʃɑnid͡zɛ_ 'Shanidze', _ჭავჭავაძე_t͡ʃʼɑvt͡ʃʼɑvɑd͡zɛ_ 'Chavchavadze' etc.
+* _შანიძე (ʃɑnid͡zɛ)_ 'Shanidze', _ჭავჭავაძე (t͡ʃʼɑvt͡ʃʼɑvɑd͡zɛ)_ 'Chavchavadze' etc.
 
 ### <a name="Prs">`Prs`</a>: personal names
 
 #### Examples
 
-* _მარია_mɑriɑ_ 'Maria', _ქეთევან_kɛtɛvɑn_ 'Ketevan' etc.
+* _მარია (mɑriɑ)_ 'Maria', _ქეთევან (kɛtɛvɑn)_ 'Ketevan' etc.
 
 ### <a name="Geo">`Geo`</a>: geographical names
 
 #### Examples
 
-* _თბილისი_tbilisi_'Tbilisi', _მტკვარი_mtʼkʼvɑri_ 'Mtkvari' etc.
+* _თბილისი (tbilisi)_'Tbilisi', _მტკვარი (mtʼkʼvɑri)_ 'Mtkvari' etc.
 
 ### <a name="Oth">`Oth`</a>: other names
 
 #### Examples
 
-* _გაერო_ɡɑɛrɔ_ 'UN' (United Nations) etc.
+* _გაერო (ɡɑɛrɔ)_ 'UN' (United Nations) etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:15 CEST -->
