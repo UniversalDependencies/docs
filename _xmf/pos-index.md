@@ -2,7 +2,7 @@
 layout: base
 title:  'POS tags'
 generated: 'true'
-permalink: ka/pos/index.html
+permalink: xmf/pos/index.html
 ---
 
 # POS tags
