@@ -19,12 +19,12 @@ The `Evident` feature applies to [NOUN](_xmf/pos/NOUN), [PROPN](_xmf/pos/PROPN),
 
 #### Examples
 
-* _გჷმიჩამჷ<b>-მაქი</b>_ɡəmit͡ʃɑmə<b>-mɑki</b>_ 'it is for sale as I said' etc.
+* _გჷმიჩამჷ<b>-მაქი</b> (ɡəmit͡ʃɑmə<b>-mɑki</b>)_ 'it is for sale as I said' etc.
 
 ### <a name="Nfh">`Nfh`</a>: non-firsthand
 
 #### Examples
 
-* _მოლმოჩქუ<b>შო</b>_mɔlmɔt͡ʃku<b>ʃɔ</b>_ 'he/she/it sent it to me as smb. said' etc.
+* _მოლმოჩქუ<b>შო</b> (mɔlmɔt͡ʃku<b>ʃɔ</b>)_ 'he/she/it sent it to me as smb. said' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:05 CEST -->
