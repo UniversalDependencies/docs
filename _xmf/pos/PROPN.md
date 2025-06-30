@@ -19,7 +19,7 @@ Noun Prop:	Proper noun
 
 ### Examples
 
-_მარია_mɑriɑ_ 'Maria'
-_მცხეთა_mt͡sxɛtɑ_ 'Mtskheta'
-_ლიახვი_liɑxvi_ 'Liakhvi'
+_მარია (mɑriɑ)_ 'Maria'
+_მცხეთა (mt͡sxɛtɑ)_ 'Mtskheta'
+_ლიახვი (liɑxvi)_ 'Liakhvi'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:48 CEST -->
