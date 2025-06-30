@@ -11,10 +11,11 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tim">Tim</a></td>
   <td><a href="#Man">Man</a></td>
-  <td><a href="#Dir">Dir</a></td>
+  <td><a href="#Deg">Deg</a></td>  
   <td><a href="#Cau">Cau</a></td>
+  <td><a href="#Pur">Pur</a></td>  
   <td><a href="#Int">Int</a></td>
-  <td><a href="#Rel">Rel</a></td>
+  <td><a href="#Dir">Dir</a></td>
 </tr>
 </table>
 
@@ -24,31 +25,37 @@ The `AdvType` feature typically applies to [adverbs](_xmf/pos/ADV).
 
 #### Examples
 
-* _სო_sɔ_ 'where' etc.
+* _სო (sɔ)_ 'where', _ათაქინე (ɑtɑkinɛ)_ 'here' etc.
 
 ### <a name="Tim">`Tim`</a>: temporal adverb
 
 #### Examples
 
-*  _მუდოს_mudɔs_ 'when' etc.
+*  _მუდოს (mudɔs)_ 'when', _ადრე (ɑdrɛ)_ 'early' etc.
 
-### <a name="Man">`Man`</a>: manner adverb
-
-#### Examples
-
-* _ჭიე-ჭიეთ//ჭიჭე-ჭიჭეთ_t͡ʃʼiɛ-t͡ʃʼiɛt//t͡ʃʼit͡ʃʼɛ-t͡ʃʼit͡ʃʼɛt_ 'little by little' etc.
-
-### <a name="Dir">`Dir`</a>: directional adverb
+### <a name="Man">`Man`</a>: modifier (manner) adverb
 
 #### Examples
 
-* _სოთ_sɔt_ 'where too' etc.
+* _ძან//ძაან (d͡zɑn//d͡zɑɑn)_ 'very', _მანგარას (mɑnɡɑrɑs)_ 'strongly', _ჭიე-ჭიეთ//ჭიჭე-ჭიჭეთ (t͡ʃʼiɛ-t͡ʃʼiɛt//t͡ʃʼit͡ʃʼɛ-t͡ʃʼit͡ʃʼɛt)_ 'little by little' etc.
+
+### <a name="Deg">`Deg`</a>: degree adverb
+
+#### Examples
+
+* _ჭეთ//ჭიჭეთ (t͡ʃʼɛt//t͡ʃʼit͡ʃʼɛt)_ 'a little', _ოგვერდალო (ɔɡvɛrdɑlɔ)_ 'halfway' etc.
 
 ### <a name="Cau">`Cau`</a>: causal adverb
 
 #### Examples
 
-* _წორეთ_t͡sʼɔrɛt_ 'exactly' etc.
+* _წორეთ (t͡sʼɔrɛt)_ 'exactly', _ათეშენი//თეშენი (ɑtɛʃɛni//tɛʃɛni)_ 'because' etc.
+
+### <a name="Pur">`Pur`</a>: purpose adverb
+
+#### Examples
+
+* _ათეშო(თ)//თეშო(თ)//ეშო(თ) ɑtɛʃɔ(t)//tɛʃɔ(t)//ɛʃɔ(t)_ 'for this', _ეთიშო(თ)//თიშო(თ)//იშო(თ) ɛtiʃɔ(t)//tiʃɔ(t)//iʃɔ(t)_ 'for that' etc.
 
 ### <a name="Int">`Int`</a>: interrogative adverb
 
@@ -56,13 +63,11 @@ The `AdvType` feature typically applies to [adverbs](_xmf/pos/ADV).
 
 * _მუსხიი_musxii_ 'how many' etc.
 
-### <a name="Rel">`Rel`</a>: relative adverb
+### <a name="Dir">`Dir`</a>: directional adverb
 
 #### Examples
 
-* _სოთ_sɔt_ 'where' etc.
-
-
+* _სოთ_sɔt_ 'where too' etc.
 
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
