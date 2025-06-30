@@ -28,54 +28,54 @@ See also the [Poss](_xmf/feat/Poss) feature that distinguishes normal personal p
 
 #### Examples
 
-* _მა_mɑ_ 'I' etc.
-* _ჩქიმი_t͡ʃkimi_ 'my' etc.
+* _მა (mɑ)_ 'I' etc.
+* _ჩქიმი (t͡ʃkimi)_ 'my' etc.
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun
 
 #### Examples
 
-* _ათეგვარი_ɑtɛɡvɑri_ 'such' etc.
+* _ათეგვარი (ɑtɛɡvɑri)_ 'such' etc.
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun
 
 #### Examples
 
-* _მითინი_mitini_ 'someone' etc.
+* _მითინი (mitini)_ 'someone' etc.
 
 ### <a name="Int">`Int`</a>: interrogative pronoun
 
 #### Examples
 
-* _მი//მინ//მინი_mi//min//mini_ 'who' etc.
+* _მი//მინ//მინი (mi//min//mini)_ 'who' etc.
 
 ### <a name="Tot">`Tot`</a>: determinal pronoun
 
 #### Examples
 
-* _ირი_iri_ 'each' etc.
+* _ირი (iri)_ 'each' etc.
 
 ### <a name="Neg">`Neg`</a>: negative pronoun
 
 #### Examples
 
-* _მითა_mita_ 'nobody' etc.
+* _მითა (mita)_ 'nobody' etc.
 
 ### <a name="Rel">`Rel`</a>: relative pronoun
 
 #### Examples
 
-* _მუჭომი_mut͡ʃʼɔmi_ 'what kind of' etc.
+* _მუჭომი (mut͡ʃʼɔmi)_ 'what kind of' etc.
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
 #### Examples
 
-* _ართიანი_ɑrtiɑni_ 'each other' etc.
+* _ართიანი (ɑrtiɑni)_ 'each other' etc.
 
 ### <a name="Reflex">`Reflex`</a>: reflexive pronoun
 
 #### Examples
-* _თვითონ_tvitɔn_ 'himself, herself or itself' etc.
+* _თვითონ (tvitɔn)_ 'himself, herself or itself' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:31 CEST -->
