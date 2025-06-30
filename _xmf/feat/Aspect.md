@@ -21,7 +21,7 @@ The action took / takes / will take some time span and there is no information w
 
 #### Examples
 
-* _აჭითარენს_ɑt͡ʃʼitɑrɛns_ 'he/she makes it red', _ათხიინს_ɑtxiins_ 'he/she lends it' etc.
+* _აჭითარენს (ɑt͡ʃʼitɑrɛns)_ 'he/she makes it red', _ათხიინს (ɑtxiins)_ 'he/she lends it' etc.
 
 ### <a name="Perf">`Perf`</a>: perfective aspect
 
@@ -29,6 +29,6 @@ The action has been / will have been completed.
 
 #### Examples
 
-* _გააჭითარენს_ɡɑɑt͡ʃʼitɑrɛns_ 'he/she made it completely red', _გაათხინს_ɡɑɑtxins_ 'he/she lended it out' etc.
+* _გააჭითარენს (ɡɑɑt͡ʃʼitɑrɛns)_ 'he/she made it completely red', _გაათხინს (ɡɑɑtxins)_ 'he/she lended it out' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->
