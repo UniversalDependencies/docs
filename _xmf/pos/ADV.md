@@ -31,7 +31,7 @@ Adv: 	Adverb
 - degree adverbs: _ჭეთ//ჭიჭეთ (t͡ʃʼɛt//t͡ʃʼit͡ʃʼɛt)_ 'a little', _ოგვერდალო (ɔɡvɛrdɑlɔ)_ 'halfway' etc.
 - causal adverbs: _წორეთ (t͡sʼɔrɛt)_ 'exactly', _ათეშენი//თეშენი (ɑtɛʃɛni//tɛʃɛni)_ 'because' etc.
 - purpose adverbs: _ათეშო(თ)//თეშო(თ)//ეშო(თ) ɑtɛʃɔ(t)//tɛʃɔ(t)//ɛʃɔ(t)_ 'for this', _ეთიშო(თ)//თიშო(თ)//იშო(თ) ɛtiʃɔ(t)//tiʃɔ(t)//iʃɔ(t)_ 'for that' etc.
-- interrogative adverbs: _მუსხიი (musxii)_ 'how many' etc.
+- interrogative adverbs: _მუსხიი (musxii), მუზმა (muzmɑ)_ 'how many' etc.
 - directional adverbs: _სოთ (sɔt)_ 'where', _სოურეთ (sɔurɛt)_ 'where from' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:41 CEST -->
