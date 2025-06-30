@@ -19,7 +19,7 @@ Adj:  Adjective
 
 ### Examples
 
-_მოდაბალე_mɔdɑbɑlɛ_ 'lower'
-_უდაბალაში_udɑbɑlɑʃi_ 'the lowest'
-_მადაბლა_mɑdɑblɑ_ 'just as low'
+_მოდაბალე_(mɔdɑbɑlɛ)_ 'lower'
+_უდაბალაში_(udɑbɑlɑʃi)_ 'the lowest'
+_მადაბლა_(mɑdɑblɑ)_ 'just as low'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:39 CEST -->
