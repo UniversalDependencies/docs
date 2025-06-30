@@ -25,36 +25,36 @@ The present tense denotes actions that are happening right now or that usually h
 
 #### Examples
 
-* _ზიმუნს_zimuns_ 'he/she/it measures' etc.
+* _ზიმუნს (zimuns)_ 'he/she/it measures' etc.
 
 ### <a name="Imp">`Imp`</a>: imperfect tense
 
 #### Examples
 
-* _ზიმუნდუ_zimundu_ 'he/she/it was measuring' etc.
+* _ზიმუნდუ (zimundu)_ 'he/she/it was measuring' etc.
 
 ### <a name="Fut">`Fut`</a>: future tense
 
 #### Examples
 
-* _დოზიმუნს_dɔzimuns_ 'he/she will measure' etc.
-* _ზიმუნდას იჸუაფუ(ნ)//იჸიი(ნ)//იი(ნ)_zimundɑs iʔuɑpu(n)//iʔii(n)//ii(n)_ 'he/she/it will be measuring maybe' etc.
+* _დოზიმუნს (dɔzimuns)_ 'he/she will measure' etc.
+* _ზიმუნდას იჸუაფუ(ნ)//იჸიი(ნ)//იი(ნ) (zimundɑs iʔuɑpu(n)//iʔii(n)//ii(n))_ 'he/she/it will be measuring maybe' etc.
 
 ### <a name="Past">`Past`</a>: past tense
 
 #### Examples
 
-* _დოზიმუ_dɔzimu_ 'he/she measured' etc.
+* _დოზიმუ (dɔzimu)_ 'he/she measured' etc.
 
 ### <a name="PastPerf">`PastPerf`</a>: past perfect
 
 #### Examples
 
-* _(დო)ზიმ(უ)კო(ნი)_(dɔ)zim(u)kʼɔ(ni)_ 'he/she had measured' etc.
+* _(დო)ზიმ(უ)კო(ნი) ((dɔ)zim(u)kʼɔ(ni))_ 'he/she had measured' etc.
 
 ### <a name="Pqp">`Pqp`</a>: pluperfect tense
 
 #### Examples
 
-* _(დო)ზიმუდ(უ)კო(ნი)_(dɔ)zimud(u)kʼɔ(ni)_ 'he/she would probably measured smth.' etc.
+* _(დო)ზიმუდ(უ)კო(ნი) ((dɔ)zimud(u)kʼɔ(ni))_ 'he/she would probably measured smth.' etc.
 <!-- Interlanguage links updated So 10. května 2025, 18:14:37 CEST -->
