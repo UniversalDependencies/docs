@@ -18,11 +18,11 @@ Degree of comparison is used as an inflectional feature of [adjectives](_xmf/pos
 
 ### <a name="Dim">`Dim`</a>: diminutive
 
-The diminutive degree (the so-called ‘-ish degree’) expresses a lesser degree, small size, or, metaphorically, affection towards the entity described by the noun.
+The diminutive degree expresses a lesser degree, small size, or, metaphorically, affection towards the entity described by the noun.
 
 #### Examples
 
-* _მოდაბალე_mɔdɑbɑlɛ_ 'lower' etc.
+* _მოდაბალე (mɔdɑbɑlɛ)_ 'lower' etc.
 
 ### <a name="Equ">`Equ`</a>: equative degree
 
@@ -30,7 +30,7 @@ Equative degree is a way of comparing two things by expressing that they have th
 
 #### Examples
 
-* _მადაბლა_mɑdɑblɑ_ 'just as low' etc.
+* _მადაბლა (mɑdɑblɑ)_ 'just as low' etc.
 
 ### <a name="Sup">`Sup`</a>: superlative
 
@@ -38,7 +38,7 @@ The quality of one object is compared to the same quality of all other objects w
 
 #### Examples
 
-* _უდაბალაში_udɑbɑlɑʃi_ 'the lowest' etc.
+* _უდაბალაში (udɑbɑlɑʃi)_ 'the lowest' etc.
 
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:02 CEST -->
