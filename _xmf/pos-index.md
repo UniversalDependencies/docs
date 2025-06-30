@@ -7,4 +7,4 @@ permalink: xmf/pos/index.html
 
 # POS tags
 
-{% include ka-pos-table.html %}
+{% include xmf-pos-table.html %}
