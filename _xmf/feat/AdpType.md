@@ -1,0 +1,23 @@
+---
+layout: feature
+title: 'AdpType'
+shortdef: 'adposition type'
+udver: '2'
+---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Post">Post</a></td>
+</tr>
+</table>
+
+The `AdpType` feature typically applies to [adpositions](_xmf/pos/ADV), nouns [NOUN](_xmf/pos/NOUN), proper nouns [PROPN](_xmf/pos/PROPN), numerals  [NUM](_xmf/pos/NUM), adjectives [ADJ](_xmf/pos/ADJ) and pronouns [PRON](_xmf/pos/PRON).
+
+### <a name="Post">`Post`</a>: postposition
+
+#### Examples
+
+* _ბირგული<b>წკჷმა</b>_birɡulit͡sʼkʼəmɑ_ 'near the knee', _ჸუდეშა<b>ხ</b>_ʔudɛʃɑx_ 'until the house' etc.
+
+<!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
