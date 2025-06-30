@@ -89,11 +89,4 @@ The vocative case is a special form of noun used to address someone.
 
 * ბავშვებო, გააგრძელეთ წერა_ 'Children, continue writing' etc.
 
-### <a name="Abs">`Abs`</a>: absolutive case
-
-The absolutive case is in Modern Georgian used for participles in periphrastic constructions in a formal style.
-
-#### Examples
-
-* _ბოლოს და ბოლოს, საკითხი გადაწყვეტილ იქნა_ 'finally, the question was decided upon'
 <!-- Interlanguage links updated So 10. května 2025, 18:13:57 CEST -->
