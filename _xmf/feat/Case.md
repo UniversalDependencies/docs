@@ -78,7 +78,7 @@ The allative is a grammatical case that indicates movement toward or in the dire
 * _ორთვინ<b>იშა</b> (ɔrtvin<b>iʃɑ</b>)_ 'to the vegetable garden' etc.
 * _ჯოგ<b>იშა</b> (d͡ʒɔɡ<b>iʃɑ</b>)_ 'to the herd' etc.
 
-### <a name="Abl">`All`</a>: ablative case
+### <a name="Abl">`Abl`</a>: ablative case
 
 The ablative is a grammatical case that expresses movement away from, out of, or from a place, source, or point of origin.
 
