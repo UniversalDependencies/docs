@@ -11,7 +11,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Core:</strong> </td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Erg">Erg</a></td>
-  <td colspan="4"><a href="#Dat">Dat</a></td>
+  <td><a href="#Dat">Dat</a></td>
 </tr>
 <tr>
   <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Non-core:</strong> </td>
@@ -69,7 +69,7 @@ Prototypical meaning of genitive is that the noun phrase somehow belongs to its 
 * _ორთვინ<b>იშ</b> (ɔrtvin<b>iʃ</b>)_ 'of the vegetable garden' etc.
 * _ჯოგ<b>იშ</b> (d͡ʒɔɡ<b>iʃ</b>)_ 'of the herd' etc.
 
-### <a name="All">`All`</a>: allative case
+### <a name="All">`All`</a>: allative / adlative case
 
 The allative is a grammatical case that indicates movement toward or in the direction of something. 
 
