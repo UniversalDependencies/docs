@@ -24,7 +24,7 @@ The `PronType` feature typically applies to [pronouns](_xmf/pos/PRON).
 
 ### <a name="Prs">`Prs`</a>: personal pronoun
 
-See also the [Poss](_xmf/feat/Poss) feature that distinguishes normal personal pronouns from possessives. Possessive pronouns are marked as follows 'Poss=Yes'
+See also the [Poss](_xmf/feat/Poss) feature that distinguishes normal personal pronouns from possessives. Possessive pronouns are marked as follows 'Poss=Yes' and the [Reflex](_xmf/feat/Reflex) feature that distinguishes personal pronouns from reflexives. Reflexive pronouns are marked as follows 'Reflex=Yes'.
 
 #### Examples
 
@@ -73,9 +73,5 @@ See also the [Poss](_xmf/feat/Poss) feature that distinguishes normal personal p
 
 * _ართიანი (ɑrtiɑni)_ 'each other' etc.
 
-### <a name="Reflex">`Reflex`</a>: reflexive pronoun
-
-#### Examples
-* _თვითონ (tvitɔn)_ 'himself, herself or itself' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:31 CEST -->
