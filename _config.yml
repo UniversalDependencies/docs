@@ -507,6 +507,8 @@ collections:
     output: true
   sdh:
     output: true
+  co:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
