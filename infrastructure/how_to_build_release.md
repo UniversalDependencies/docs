@@ -165,12 +165,14 @@ It is meant for the maintenance task force rather than individual treebank teams
   a new Lindat item for the new version of UD. The preferable way: Create the new item as
   a new version of the item representing the previous release of Universal Dependencies.
   When signed in, go to the
-  [list of your previous contributions](https://lindat.mff.cuni.cz/repository/xmlui/submissions),
-  check the box next to the line with the most recent release of UD, then go down and press the
+  [list of your previous contributions](https://lindat.mff.cuni.cz/repository/mydspace?configuration=workspace),
+  check the box next to the line with the most recent release of UD,
+  (EDIT July 2025: With the new version of Lindat repository, this procedure no longer works. Waiting for Lindat staff to provide new instructions.)
+  then go down and press the
   button that says “Add new version”. If this is not possible because you are not the user who
   created the item for the previous version, you can
   [create a new Lindat item from scratch](https://lindat.mff.cuni.cz/repository/xmlui/submit).
-  Then the server starts by asking you to “select a community”. Choose LINDAT / CLARIN.
+  Then the server starts by asking you to “select a community”. Choose LINDAT / CLARIAH-CZ Data &amp; Tools.
   In the note for the editors (last page of the form), ask them to mark the previous UD release
   as obsolete and to add a link pointing from the previous release to the new one.
   Note that the Lindat staff may help to automate other tasks as well.
