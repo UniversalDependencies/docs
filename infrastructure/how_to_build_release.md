@@ -157,7 +157,12 @@ It is meant for the maintenance task force rather than individual treebank teams
 * Tell Milan Straka that he can start training UDPipe models of the new data.
   Tell Maarten Janssen that he can start importing the data to TEITOK.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE)
-  and the README file there. The script <tt>generate_license_for_lindat.pl</tt> can be invoked from the parent folder
+  and the README file there.
+  (!!! this needs to be updated for the new version of Lindat:
+  Licence pak patrej sem - https://github.com/ufal/dspace-angular/tree/clarin-v7/src/static-files postup v zasade stejnej, jen je to jinej gitovej repozitar a uz tam neni to xmlko.
+Ten github je ted malinko pozadu za tim co mame realne nasazeny (tak v tech zdrojacich aktualne treba nevidis ud-2.16 i kdyz je dostupna https://lindat.mff.cuni.cz/repository/static/license-ud-2.16)
+  !!!)
+  The script <tt>generate_license_for_lindat.pl</tt> can be invoked from the parent folder
   and it will create a HTML and a XML file in the LICENSE folder. Add and push the files to the LICENSE repository,
   then make sure it reaches the Lindat staff, either by e-mail at lindat-help@ufal.mff.cuni.cz, or by a pull request
   as described in the [README](https://github.com/UniversalDependencies/LICENSE/blob/master/README.md) file.
