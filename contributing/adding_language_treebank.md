@@ -38,7 +38,7 @@ it cannot contain additional underscores, hyphens or other special characters. T
 acronym to the release task force when you ask for the repository.
 
 Think carefully whether the acronym is good enough even considering possible future growth of the treebank.
-Once the repository has been created, renaming is strongly discouraged (although not entirely impossible
+**Once the repository has been created, renaming is strongly discouraged** (although not entirely impossible
 if there are good reasons for it; but it is painful for the maintenance crew because many places in the
 infrastructure have to be carefully checked manually).
 
