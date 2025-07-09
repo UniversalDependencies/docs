@@ -161,28 +161,24 @@ It is meant for the maintenance task force rather than individual treebank teams
   and it will create a HTML and a XML file in the LICENSE folder. Add and push the files to the LICENSE repository,
   then make sure it reaches the Lindat staff, either by e-mail at lindat-help@ufal.mff.cuni.cz, or by a pull request
   as described in the [README](https://github.com/UniversalDependencies/LICENSE/blob/master/README.md) file.
-* Once the Lindat staff make the new license list available in their system, we can create
-  a new Lindat item for the new version of UD. The preferable way: Create the new item as
-  a new version of the item representing the previous release of Universal Dependencies.
-  When signed in, go to the
-  [list of your previous contributions](https://lindat.mff.cuni.cz/repository/mydspace?configuration=workspace),
-  check the box next to the line with the most recent release of UD,
-  (EDIT July 2025: With the new version of Lindat repository, this procedure no longer works. Waiting for Lindat staff to provide new instructions.)
-  then go down and press the
-  button that says “Add new version”. If this is not possible because you are not the user who
-  created the item for the previous version, you can
-  [create a new Lindat item from scratch](https://lindat.mff.cuni.cz/repository/xmlui/submit).
-  Then the server starts by asking you to “select a community”. Choose LINDAT / CLARIAH-CZ Data &amp; Tools.
-  In the note for the editors (last page of the form), ask them to mark the previous UD release
-  as obsolete and to add a link pointing from the previous release to the new one.
-  Note that the Lindat staff may help to automate other tasks as well.
-  For example, we have an extraordinarily long list of authors. Instead of typing them on the Lindat website one-by-one,
-  they can batch-upload the list we send them. Once everything is ready and we submit the item, they will review it
-  and archive it. At that moment the release is officially out and no changes to the data files are permitted
-  (changes to metadata are possible if necessary, but this is done on demand only).
-  The item will get a persistent URL (handle.net); that is the URL that we want to publish on the UD website.
-  Note that you can now see the persistent URL in the record even before it has been approved. It will not
-  change on approval and you can save it; however, it will not be operational as a URL until the item is archived.
+* Once the Lindat staff make the new license list available in their system, we can create a new Lindat item for the
+  new version of UD. The preferable way: Create the new item as a new version of the item representing the previous
+  release of Universal Dependencies. When signed in, go to the
+  [list of your previous submissions](https://lindat.mff.cuni.cz/repository/mydspace?configuration=workspace),
+  find the most recent release of UD, click on View, then find the “new version” icon in the right corner next to the
+  name of the dataset (the icon will be available if you are the user who submitted the previous version).
+  If this is not possible because you are not the user who created the item for the previous version, you can create
+  a new Lindat item from scratch. Go to the Management menu on the left, click on New / Item. Then the server starts
+  by asking you which collection the new item shall belong to. Choose LINDAT / CLARIAH-CZ Data &amp; Tools. In the note
+  for the editors (last section of the form), ask them to mark the previous UD release as obsolete and to add a link
+  pointing from the previous release to the new one. Note that the Lindat staff may help to automate other tasks as
+  well. For example, we have an extraordinarily long list of authors. Instead of typing them on the Lindat website
+  one-by-one, they can batch-upload the list we send them. Once everything is ready and we submit the item, they will
+  review it and archive it. At that moment the release is officially out and no changes to the data files are permitted
+  (changes to metadata are possible if necessary, but this is done on demand only). The item will get a persistent URL
+  (handle.net); that is the URL that we want to publish on the UD website. Note that you can now the persistent URL in
+  the record even before it has been approved. It will not change on approval and you can save it; however, it will not
+  be operational as a publicly accessible URL until the item is archived.
 * Update the title page of Universal Dependencies (`index.md`) as well as `download.md`.
   Send out announcement to lingfil-ud@lists.uu.se, corpora@list.elra.info, unidive-all@math.md, Twitter etc.
   <!-- We used to also send it to ACL but the ACL web now seems to accept only announcements about events, not about data. -->
