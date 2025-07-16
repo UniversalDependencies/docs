@@ -4,7 +4,7 @@ title:  'Megrelian UD'
 udver: '2'
 ---
 
-# UD for Georgian <span class="flagspan"><img class="flag" src="../../flags/svg/XMF.svg" /></span>
+# UD for Megrelian <span class="flagspan"><img class="flag" src="../../flags/svg/XMF.svg" /></span>
 
 This is a **work-in-progress** overview of the UD annotation for Megrelian.
 
