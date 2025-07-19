@@ -80,7 +80,7 @@ Standard deprels are used.
 
 ## Treebanks
 
-There are [N](../treebanks/eo-comparison.html) Esperanto UD treebanks:
+There are [2](../treebanks/eo-comparison.html) Esperanto UD treebanks:
 
   * [Esperanto-A](../treebanks/eo_a/index.html)
   * [Esperanto-B](../treebanks/eo_b/index.html)
