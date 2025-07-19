@@ -17,7 +17,7 @@ then it should be analyzed with these more standard relations, even if it is lai
 
 ~~~ sdparse
 Պետրոս Պետրոսյան , հեռ . ՝ ( 010 ) 101-010 , էլ . փոստ ՝ petros@petros.am
-flat(Պետրոս, Պետրոսյան)
+flat:name(Պետրոս, Պետրոսյան)
 list(Պետրոս, հեռ)
 list(Պետրոս, փոստ)
 amod(փոստ, էլ)
