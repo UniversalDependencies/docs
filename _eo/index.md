@@ -75,11 +75,6 @@ _Faru eksperimenton, mi petas._ "Conduct an experiment, please."
 
 *
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 Standard deprels are used.
 
@@ -90,9 +85,3 @@ There are [N](../treebanks/eo-comparison.html) Esperanto UD treebanks:
   * [Esperanto-A](../treebanks/eo_a/index.html)
   * [Esperanto-B](../treebanks/eo_b/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
