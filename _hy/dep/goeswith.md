@@ -17,7 +17,7 @@ does have features, then [Typo]()`=Yes` must be used with the `goeswith` head.
 Note also that only the last word part may be annotated with `SpaceAfter=No`.
 
 ~~~ sdparse
-նա ի զուր էր այդքան անհանգստանում
+նա ի/PART[Typo=Yes] զուր/X էր այդքան անհանգստանում
 goeswith(ի, զուր)
 ~~~
 <!-- Interlanguage links updated So 10. května 2025, 18:15:36 CEST -->
