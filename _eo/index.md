@@ -5,7 +5,7 @@ udver: '2'
 ---
 
 # UD for Esperanto <span class="flagspan"><img class="flag" src="../../flags/svg/ESPERANTO.svg" /></span>
-As of January 2025, Esperanto UD contains one document (Manufest de Prago) annotated with Universal Dependencies.
+As of July 2025, Esperanto UD contains two documents (Manufest de Prago and Cairo) annotated with Universal Dependencies.
 
 ## Tokenization and Word Segmentation
 
