@@ -35,7 +35,7 @@ Verbs: Georgian verbs lack an infinitive form, resulting in diverse lemmatizatio
 For Universal Dependency (UD) treebanks, lemmatization practices typically reflect a hybrid approach, influenced by the diverse strategies used for Georgian verbs. Depending on the treebank, two main approaches are observed:
 
 * Third-Person Singular Lemmatization: This method is widely used due to its prevalence in Georgian lexicography and its compatibility with treebank annotation principles.
-* Verbal Noun-Based Lemmatization: This approach aligns with dictionaries that prioritize the masdar form but may present challenges for verbs lacking nominal counterparts.
+* Verbal Noun (Masdar)-Based Lemmatization: This approach aligns with dictionaries that prioritize the masdar form, but may present challenges for verbs lacking nominal counterparts.
 
 By combining these approaches, the UD treebanks aim to balance linguistic tradition with computational utility and user accessibility.
 
