@@ -60,7 +60,7 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
 
 #### Lexical Features
 
-* UD_Georgian-GLC treebank uses all main lexical FEATS tags except of [REflex](https://universaldependencies.org/u/feat/Reflex.html)
+* UD_Georgian treebanks use all main lexical FEATS tags except of [REflex](https://universaldependencies.org/u/feat/Reflex.html)
 
 #### Inflectional Features
 ##### Nominal Features
