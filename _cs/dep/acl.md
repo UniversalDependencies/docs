@@ -5,35 +5,19 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-`acl` stands for finite and non-finite clauses that modify a nominal.  The `acl` relation 
+`acl` stands for finite and non-finite clauses that modify a nominal.  The `acl` relation
 contrasts with the [advcl]() relation, which is used for adverbial clauses
 that modify a predicate. The head of the `acl` relation is the noun
 that is modified, and the dependent is the head of the clause that
 modifies the noun.
 
-~~~ sdparse
-muž , o kterém jsem mluvil \n man , about whom I-have talked
-acl(muž, mluvil)
-acl(man, talked)
-~~~
+Note that a major subtype of adnominal clauses is relative clauses, which have their own relation label, [acl:relcl]().
+Plain `acl` should not be used in annotation of relative clauses.
 
-This relation is also used for optional depictives.
-The adjective is taken to modify the nominal of which it provides a secondary predication.
-See [u-dep/xcomp]() for further discussion of resultatives and depictives.
+Previously, this relation was also used for optional depictives.
+Following a [guidelines amendment](/changes.html) in May 2022, optional depictives should now be analyzed as [advcl]().
 
-~~~ sdparse
-Alena vstoupila do místnosti smutná . \n Alena entered to room sad .
-acl(Alena-1, smutná)
-acl(Alena-8, sad)
-~~~
-
-~~~ sdparse
-Namaloval svou ženu nahou . \n He-painted his wife naked .
-acl(ženu, nahou)
-acl(wife, naked)
-~~~
-
-Czech also allows finite clausal complements for nouns with 
+Czech also allows finite clausal complements for nouns with
 a subset of nouns like *fact* or *report*.
 These look roughly like relative clauses, but do not have any omitted role in the dependent clause.
 These are also analyzed as `acl`.
@@ -43,4 +27,13 @@ Příčinou není fakt , že by kina navštívilo víc diváků . \n Cause is-no
 acl(fakt, navštívilo)
 acl(the-fact, visit)
 ~~~
+
+Some nouns also occur with infinitival complements, which are analyzed as adnominal clauses.
+
+~~~ sdparse
+Nebyl zájem navýšit podporu tohoto sektoru . \n There-was-no interest to-increase support of-this sector .
+acl(zájem, navýšit)
+acl(interest, to-increase)
+~~~
+
 <!-- Interlanguage links updated So 10. května 2025, 18:14:42 CEST -->
