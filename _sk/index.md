@@ -185,6 +185,7 @@ udver: '2'
   * [expl:pv]() for reflexive clitics of inherently reflexive verbs
   * [expl:pass]() for reflexive clitics in reflexive passives
   * [aux:pass]() for passive auxiliaries
+  * [advcl:pred]() for optional depictives
   * [nummod:gov]() for cardinal numbers that are attached as children of the counted noun but govern its case
   * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case
   * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun
