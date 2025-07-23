@@ -45,7 +45,7 @@ relation instead.
 23	ان	أَن	SCONJ	C---------	_	24	mark	_	Vform=أَن|Gloss=to|Translit=ʾan|LTranslit=ʾan
 24	تكون	كَان	VERB	VISA-3FS--	Aspect=Imp|Gender=Fem|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	22	ccomp	_	Vform=تَكُونَ|Gloss=be,is,exist|Translit=takūna|LTranslit=kān
 25	طويلة	طَوِيل	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	24	advcl:pred	_	SpaceAfter=No|Vform=طَوِيلَةً|Gloss=tall,long,lengthy,extensive|Translit=ṭawīlatan|LTranslit=ṭawīl
-26	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
+26	.	.	PUNCT	G---------	_	1	punct	_	Vform=.|Translit=.
 
 ~~~
 
