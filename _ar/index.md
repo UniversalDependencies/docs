@@ -86,6 +86,7 @@ udver: '2'
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [csubj:pass]() for clausal subjects of passive verbs
   * [obl:arg]() for prepositional objects
+  * [advcl:pred]() for optional depictives
   * [nmod:poss]() for possessive/genitive modifiers
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [flat:name]() for non-first personal names
