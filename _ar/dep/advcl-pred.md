@@ -7,8 +7,8 @@ udver: '2'
 
 Beginning with release 2.17, optional depictives (secondary predication) are annotated with the dedicated relation
 subtype `advcl:pred` instead of plain `advcl`. The current implementation assumes that all instances of the `Atv`
-relation (verbal attribute) in PADT will be converted to `advcl:pred`, although some of them may
-need the [xcomp]() relation instead.
+relation (verbal attribute) in PADT will be converted to `advcl:pred`, although some of them may need the [xcomp]()
+relation instead.
 
 ~~~ conllu
 # newpar id = afp.20000715.0001:p4
