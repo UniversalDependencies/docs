@@ -7,6 +7,8 @@ udver: '2'
 
 Up-to-date guidelines for `flat`, including English examples, can be found under the [universal `flat` guidelines](/u/dep/flat).
 
+Further documentation for some corner cases is available with the English-specific guidelines for [nmod:desc]().
+
 <!--
 `flat` is one of the three relations for compounding in UD (together
 with [compound]() and [fixed]()).
