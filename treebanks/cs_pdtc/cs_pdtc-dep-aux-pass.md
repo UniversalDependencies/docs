@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cs_pdtc-dep-aux.html">aux</a></tt>.
 
-3312 nodes (0%) are attached to their parents as `aux:pass`.
+15422 nodes (0%) are attached to their parents as `aux:pass`.
 
-3260 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16817632850242.
+15189 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.15828037867981.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (3312; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (15422; 100% instances).
 
 
 ~~~ conllu

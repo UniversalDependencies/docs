@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="cs_pdtc-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="cs_pdtc-dep-det-nummod.html">det:nummod</a></tt>.
 
-596 nodes (0%) are attached to their parents as `det:numgov`.
+2936 nodes (0%) are attached to their parents as `det:numgov`.
 
-582 instances of `det:numgov` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58221476510067.
+2846 instances of `det:numgov` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5800408719346.
 
-The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (574; 96% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (17; 3% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (5; 1% instances).
+The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (2836; 97% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (81; 3% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (19; 1% instances).
 
 
 ~~~ conllu
@@ -55,22 +55,21 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 det:numgov	color:blue
-1	Mnoho	mnoho	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	2	det:numgov	2:det:numgov	LId=mnoho-1|Functor=2:RSTR
-2	Asijců	Asijec	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Nat|Number=Plur	3	nsubj	3:nsubj	Functor=3:ACT
-3	považuje	považovat	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
-4	americkou	americký	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	5	amod	5:amod	Functor=5:RSTR
-5	přítomnost	přítomnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	LDeriv=přítomný|Functor=3:PAT
-6	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	8	case	8:case	_
-7	potřebnou	potřebný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	amod	8:amod	Functor=8:RSTR
-8	protiváhu	protiváha	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	3	obl:arg	3:obl:arg:za:acc	Functor=3:EFF
-9	japonského	japonský	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	10:amod	Entity=(wsj0043001e7--2-gstype:spec|Functor=10:RSTR
-10	vlivu	vliv	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	8:nmod:gen	Entity=wsj0043001e7)|Functor=8:RSTR|SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det:numgov	color:blue
+1	Pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	3:case	LId=pro-1
+2	mnoho	mnoho	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	3	det:numgov	3:det:numgov	LId=mnoho-1|Functor=3:RSTR
+3	Japonců	Japonec	PROPN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Nat|Number=Plur	6	obl	6:obl:pro:acc	Functor=6:BEN
+4	je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	Functor=6:PRED
+5	pačinko	pačinko	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	Entity=(wsj1387001e55--1-gstype:spec)|Functor=6:ACT.cop|LGloss=(hazardní_hra)
+6	neškodné	škodný	ADJ	AANS1----1N----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg	0	root	0:root	LGloss=(poškozený_n._působící_škodu)|Functor=0:PAT
+7	nebo	nebo	CCONJ	J^-------------	_	9	cc	9:cc	Functor=9:CONJ
+8	lákavě	lákavě	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	9	advmod	9:advmod	LDeriv=lákavý|Functor=9:MANN
+9	neslušné	slušný	ADJ	AANS1----1N----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg	6	conj	0:root|6:conj	SpaceAfter=No|Functor=6:PAT
+10	.	.	PUNCT	Z:-------------	_	6	punct	6:punct	_
 
 ~~~
 

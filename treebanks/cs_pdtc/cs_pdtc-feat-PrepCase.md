@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Npr`, `Pre`.
 
-3001 tokens (0%) have a non-empty value of `PrepCase`.
-47 types (0%) occur at least once with a non-empty value of `PrepCase`.
+15321 tokens (0%) have a non-empty value of `PrepCase`.
+53 types (0%) occur at least once with a non-empty value of `PrepCase`.
 2 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (3001; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (15321; 0% instances).
 
 ### `PRON`
 
-3001 <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> tokens (13% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+15321 <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> tokens (13% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="cs_pdtc-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3001; 100%), <tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3001; 100%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2997; 100%), <tt><a href="cs_pdtc-feat-Person.html">Person</a></tt><tt>=3</tt> (2477; 83%), <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2477; 83%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1602; 53%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="cs_pdtc-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (15321; 100%), <tt><a href="cs_pdtc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (15321; 100%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15293; 100%), <tt><a href="cs_pdtc-feat-Person.html">Person</a></tt><tt>=3</tt> (12821; 84%), <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12821; 84%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8151; 53%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
-* `Npr` (1546; 52% of non-empty `PrepCase`): <em>je, ji, jim, jí, jich, jej, jehož, jím, jimž, jemuž</em>
-* `Pre` (1455; 48% of non-empty `PrepCase`): <em>nich, ní, něj, nichž, nimi, níž, něm, ním, němž, ně</em>
+* `Npr` (7865; 51% of non-empty `PrepCase`): <em>je, ji, jim, jí, jej, jich, jehož, jím, jemuž, jež</em>
+* `Pre` (7456; 49% of non-empty `PrepCase`): <em>nich, ní, něj, nimi, ním, nichž, ně, níž, něm, němž</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Npr</tt></th><th><tt>Pre</tt></th></tr>

@@ -9,24 +9,30 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Oper`.
 
-51 tokens (0%) have a non-empty value of `ConjType`.
-9 types (0%) occur at least once with a non-empty value of `ConjType`.
-8 lemmas (0%) occur at least once with a non-empty value of `ConjType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (20; 0% instances).
+286 tokens (0%) have a non-empty value of `ConjType`.
+13 types (0%) occur at least once with a non-empty value of `ConjType`.
+10 lemmas (0%) occur at least once with a non-empty value of `ConjType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (153; 0% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (133; 0% instances).
 
 ### `SYM`
 
-31 <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> tokens (2% of all `SYM` tokens) have a non-empty value of `ConjType`.
+153 <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> tokens (2% of all `SYM` tokens) have a non-empty value of `ConjType`.
 
 `SYM` tokens may have the following values of `ConjType`:
 
-* `Oper` (31; 100% of non-empty `ConjType`): <em>x, <, >, -, .</em>
+* `Oper` (153; 100% of non-empty `ConjType`): <em>x, >, <, -, .</em>
 
 ### `CCONJ`
 
-20 <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ConjType`.
+133 <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ConjType`.
 
 `CCONJ` tokens may have the following values of `ConjType`:
 
-* `Oper` (20; 100% of non-empty `ConjType`): <em>plus, krát, minus</em>
+* `Oper` (133; 100% of non-empty `ConjType`): <em>plus, krát, minus, mínus, děleno, kráte</em>
+
+## Relations with Agreement in `ConjType`
+
+The 10 most frequent relations where parent and child node agree in `ConjType`:
+<tt>SYM --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> SYM</tt> (3; 100%),
+<tt>CCONJ --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> CCONJ</tt> (1; 100%).
 

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-201 tokens (0%) have a non-empty value of `Hyph`.
-112 types (0%) occur at least once with a non-empty value of `Hyph`.
-109 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (201; 0% instances).
+827 tokens (0%) have a non-empty value of `Hyph`.
+287 types (0%) occur at least once with a non-empty value of `Hyph`.
+260 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (827; 0% instances).
 
 ### `ADJ`
 
-201 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
+827 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (201; 100%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (201; 100%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (201; 100%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (201; 100%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (201; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (201; 100%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (201; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (201; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (827; 100%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (827; 100%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (827; 100%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (827; 100%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (827; 100%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (827; 100%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (827; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (826; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
-* `Yes` (201; 100% of non-empty `Hyph`): <em>česko, izraelsko, e, tchaj, matematicko, Coca, know, kvazi, německo, play</em>
+* `Yes` (827; 100% of non-empty `Hyph`): <em>česko, tchaj, coca, izraelsko, americko, e, německo, ping, know, čínsko</em>
 
-`Hyph` seems to be **lexical feature** of `ADJ`. 100% lemmas (109) occur only with one value of `Hyph`.
+`Hyph` seems to be **lexical feature** of `ADJ`. 100% lemmas (260) occur only with one value of `Hyph`.
 

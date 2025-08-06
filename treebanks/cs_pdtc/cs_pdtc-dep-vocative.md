@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-83 nodes (0%) are attached to their parents as `vocative`.
+416 nodes (0%) are attached to their parents as `vocative`.
 
-53 instances of `vocative` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.92771084337349.
+277 instances of `vocative` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.94951923076923.
 
-The following 13 pairs of parts of speech are connected with `vocative`: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (44; 53% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (21; 25% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 22 pairs of parts of speech are connected with `vocative`: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (218; 52% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (112; 27% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (24; 6% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cs_pdtc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,17 +54,18 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 vocative	color:blue
-1	Kde	kde	ADV	Db-------------	PronType=Int,Rel	0	root	0:root	Functor=0:LOC
-2	právě	právě	ADV	Db-------------	_	1	advmod	1:advmod	LId=právě-1|Functor=1:TWHEN
-3	jsi	být	AUX	VB-S---2P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	1:cop	Functor=1:PRED
-4	,	,	PUNCT	Z:-------------	_	5	punct	5:punct	_
-5	příteli	přítel	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	1	vocative	1:vocative	Entity=(faust_2010_07_es_17e1--1-gstype:spec)|Functor=1:VOCAT
-6	?	?	PUNCT	Z:-------------	_	1	punct	1:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 vocative	color:blue
+1	Nebuďte	být	AUX	Vi-P---2--N-I--	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	3	cop	3:cop	Functor=3:PRED
+2	takový	takový	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	3:det	Functor=3:RSTR
+3	pesimista	pesimista	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No|Functor=0:PAT
+4	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
+5	pane	pan	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	6	nmod	6:nmod	Entity=(wsj2206001e9--2-gstype:spec|Functor=6:RSTR
+6	velvyslanče	velvyslanec	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	3	vocative	3:vocative	Entity=wsj2206001e9)|Functor=3:VOCAT|SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="cs_pdtc-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-7704 nodes (1%) are attached to their parents as `nummod`.
+38403 nodes (1%) are attached to their parents as `nummod`.
 
-4409 instances of `nummod` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57230010384216.
+22706 instances of `nummod` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58201182199307.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (7136; 93% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (203; 3% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (201; 3% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (114; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (35300; 92% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (1354; 4% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (1041; 3% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (403; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (162; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (68; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (56; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

@@ -9,46 +9,47 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-18726 tokens (3%) have a non-empty value of `Variant`.
-2044 types (3%) occur at least once with a non-empty value of `Variant`.
-1098 lemmas (3%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (13807; 2% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (4615; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (304; 0% instances).
+93196 tokens (3%) have a non-empty value of `Variant`.
+5017 types (3%) occur at least once with a non-empty value of `Variant`.
+2209 lemmas (3%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (69876; 2% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (21806; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (1514; 0% instances).
 
 ### `PRON`
 
-13807 <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> tokens (60% of all `PRON` tokens) have a non-empty value of `Variant`.
+69876 <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> tokens (59% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13807; 100%), <tt><a href="cs_pdtc-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13807; 100%), <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13807; 100%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13182; 95%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12315; 89%), <tt><a href="cs_pdtc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12315; 89%), <tt><a href="cs_pdtc-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (12315; 89%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (10967; 79%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (69876; 100%), <tt><a href="cs_pdtc-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (69876; 100%), <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (69876; 100%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (66455; 95%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (61453; 88%), <tt><a href="cs_pdtc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (61453; 88%), <tt><a href="cs_pdtc-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (61453; 88%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (54540; 78%).
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Short` (13807; 100% of non-empty `Variant`): <em>se, si, mi, mě, ho, mu, tě, ti</em>
+* `Short` (69876; 100% of non-empty `Variant`): <em>se, si, mi, mě, ho, mu, tě, ti</em>
 
 ### `ADJ`
 
-4615 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Variant`.
+21806 <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4615; 100%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4611; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4569; 99%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3879; 84%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (3879; 84%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3349; 73%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21806; 100%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (21783; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21574; 99%), <tt><a href="cs_pdtc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (17958; 82%), <tt><a href="cs_pdtc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (17958; 82%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16008; 73%).
 
 `ADJ` tokens may have the following values of `Variant`:
 
-* `Short` (4615; 100% of non-empty `Variant`): <em>rád, ráda, rádi, řečeno, jmenován, možno, připravena, schopni, schopen, nutno</em>
+* `Short` (21806; 100% of non-empty `Variant`): <em>ráda, rád, rádi, jmenován, možno, řečeno, schopen, schopni, schopna, známo</em>
 
-`Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (1093) occur only with one value of `Variant`.
+`Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (2204) occur only with one value of `Variant`.
 
 ### `DET`
 
-304 <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
+1514 <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="cs_pdtc-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (304; 100%), <tt><a href="cs_pdtc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (304; 100%), <tt><a href="cs_pdtc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (304; 100%), <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (304; 100%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (300; 99%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (242; 80%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (228; 75%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (199; 65%).
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="cs_pdtc-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1514; 100%), <tt><a href="cs_pdtc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1514; 100%), <tt><a href="cs_pdtc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1514; 100%), <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (1514; 100%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1462; 97%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1149; 76%), <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1108; 73%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (959; 63%).
 
 `DET` tokens may have the following values of `Variant`:
 
-* `Short` (304; 100% of non-empty `Variant`): <em>sám, sama, sami, samy, samo, samu</em>
+* `Short` (1514; 100% of non-empty `Variant`): <em>sám, sama, sami, samy, samo, samu</em>
 
 ## Relations with Agreement in `Variant`
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
-<tt>ADJ --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (172; 74%),
-<tt>ADJ --[<tt><a href="cs_pdtc-dep-csubj-pass.html">csubj:pass</a></tt>]--> ADJ</tt> (5; 100%).
+<tt>ADJ --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (796; 76%),
+<tt>ADJ --[<tt><a href="cs_pdtc-dep-csubj-pass.html">csubj:pass</a></tt>]--> ADJ</tt> (18; 82%),
+<tt>ADJ --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> ADJ</tt> (14; 54%).
 

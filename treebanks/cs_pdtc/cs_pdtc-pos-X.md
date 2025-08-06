@@ -6,89 +6,90 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PDTC: POS Tags: `X`
 
-There are 2715 `X` lemmas (7%), 2748 `X` types (3%) and 9330 `X` tokens (1%).
-Out of 17 observed tags, the rank of `X` is: 5 in number of lemmas, 5 in number of types and 15 in number of tokens.
+There are 7972 `X` lemmas (9%), 8257 `X` types (4%) and 47618 `X` tokens (1%).
+Out of 17 observed tags, the rank of `X` is: 4 in number of lemmas, 5 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>Inc, Corp, New, Co, s, of, Wall, de, street, International</em>
+The 10 most frequent `X` lemmas: <em>Corp, Inc, co, New, s, Wall, street, San, International, de</em>
 
-The 10 most frequent `X` types:  <em>Inc, Corp, New, Co, s, of, Wall, de, street, International</em>
+The 10 most frequent `X` types:  <em>Corp, Inc, co, New, s, Wall, street, San, International, de</em>
 
-The 10 most frequent ambiguous lemmas: <em>s</em> (<tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> 5249, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 117, <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 28), <em>Wall</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 87, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1), <em>American</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 63, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3), <em>York</em> (<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 121, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 47), <em>National</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 40, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1), <em>Georgia</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 35, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 6), <em>Jersey</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 35, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 9), <em>Lynch</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 32, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 5), <em>Merrill</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 31, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3), <em>Dow</em> (<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 77, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 29)
+The 10 most frequent ambiguous lemmas: <em>co</em> (<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> 6414, <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 808, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 382, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 26, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 3), <em>s</em> (<tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> 25778, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 607, <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 34), <em>Wall</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 357, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 15), <em>American</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 327, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 7), <em>bank</em> (<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 1), <em>York</em> (<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 492, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 298), <em>National</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 229, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3), <em>Los</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 181, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1), <em>Jersey</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 161, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 16), <em>Lynch</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 149, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 17)
 
-The 10 most frequent ambiguous types:  <em>Co</em> (<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> 459, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 239, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 6, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>s</em> (<tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> 4079, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 117, <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 78), <em>Wall</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 87, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1), <em>American</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 63, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3), <em>bank</em> (<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 61, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 1), <em>York</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 46, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 5), <em>National</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 40, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1), <em>Georgia</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 35, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3), <em>Jersey</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 35, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 9), <em>Dow</em> (<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 77, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 29)
+The 10 most frequent ambiguous types:  <em>co</em> (<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> 3565, <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 794, <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 368, <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 14, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 3), <em>s</em> (<tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> 20009, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 607, <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 368, <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> 7), <em>Wall</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 356, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 9), <em>American</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 323, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 7), <em>bank</em> (<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 289, <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 1), <em>York</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 293, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 22), <em>National</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 224, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3), <em>Los</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 180, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1), <em>Jersey</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 160, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 16), <em>Lynch</em> (<tt><a href="cs_pdtc-pos-X.html">X</a></tt> 136, <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 15)
 
 
-* <em>Co</em>
-  * <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> 459: <em>* <b>Co</b> se skrývá pod pojmem relativně správně zaplatit ?</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 239: <em>Předtím byl prezidentem jednotky této společnosti Eastern Edison <b>Co</b> .</em>
-  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 6: <em><b>Co</b> se divíte ?</em>
-  * <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 4: <em><b>Co</b> hůře , dodává , " Museli by je roztlouci a zahodit . "</em>
-  * <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 2: <em><b>Co</b> jsem byla v Bojkovicích , tak vždycky .</em>
+* <em>co</em>
+  * <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> 3565: <em>Nevíte , <b>co</b> kam započítat ?</em>
+  * <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> 794: <em>Doteď , potom <b>co</b> jsem se rozešel s první ženou , žiji s přítelkyní .</em>
+  * <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> 368: <em>Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .</em>
+  * <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> 14: <em>Říkali jsme : " Jste blbí nebo <b>co</b> ?</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 3: <em>Společnost General Electric <b>co</b> . nedávno odprodala své podíly v oboru displejů z tekutých krystalů francouzské společnosti Thompson - CSF .</em>
 * <em>s</em>
-  * <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> 4079: <em>V tom <b>s</b> vámi nesouhlasím .</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 117: <em>Vašek Káňa : Karhan ' <b>s</b> Men .</em>
-  * <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 78: <em>a . <b>s</b> . Malostranské nám . 2 118 00 Praha 1 Tel . / fax : 684 62 55</em>
+  * <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> 20009: <em>V tom <b>s</b> vámi nesouhlasím .</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 607: <em>Vašek Káňa : Karhan ' <b>s</b> Men .</em>
+  * <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 368: <em>a . <b>s</b> . Malostranské nám . 2 118 00 Praha 1 Tel . / fax : 684 62 55</em>
+  * <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> 7: <em>Klaus trvá na svém postupu v kauze privatizace <b>s</b> . p . Petrof</em>
 * <em>Wall</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 87: <em><b>Wall</b> Street na odchod pana McGoverna a jeho důsledky reagoval příznivě .</em>
-  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1: <em>Uvedly nedávnou nestabilitu na <b>Wall</b> Streetu a nedostatek jasného náznaku krátkodobého směru na trhu jako faktory elementární opatrnosti .</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 356: <em><b>Wall</b> Street na odchod pana McGoverna a jeho důsledky reagoval příznivě .</em>
+  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 9: <em><b>Wall</b> je v roce 1988 zbavil odpovědnosti za dohled nad sdružením Lincoln .</em>
 * <em>American</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 63: <em>Firma Shearson je ze 62 % vlastněna společností <b>American</b> Express Co .</em>
-  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3: <em>Společnost <b>American</b> poskytuje různé finanční služby lékařům a nemocnicím .</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 323: <em>Firma Shearson je ze 62 % vlastněna společností <b>American</b> Express Co .</em>
+  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 7: <em>Společnost <b>American</b> poskytuje různé finanční služby lékařům a nemocnicím .</em>
 * <em>bank</em>
-  * <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 61: <em>Přítomni byli také zástupci čtyř <b>bank</b> .</em>
+  * <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> 289: <em>Přítomni byli také zástupci čtyř <b>bank</b> .</em>
   * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 1: <em>Banka Pennsylvania <b>bank</b> souhlasila se svým převzetím společností Univest Corp . of Pennsylvania za 25.50 dolaru za akcii .</em>
 * <em>York</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 46: <em>New <b>York</b> -</em>
-  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 5: <em>Například poradce Národní asociace pro podporu barevných lidí za stát New <b>York</b> řekl , že pan Mason je " jako dinosaurus .</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 293: <em>New <b>York</b> -</em>
+  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 22: <em>New <b>York</b> -</em>
 * <em>National</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 40: <em>V létech 1946 - 1949 byl stipendistou <b>National</b> Research Council of Canada v Ottawě .</em>
-  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1: <em>Společnost <b>National</b> se věrnostního programu pro časté cestující společnosti Northwest také účastní , a to společně s dalšími čtyřmi leteckými společnostmi , mimo jiné se společností Delta a společností USAir , jednotkou společnosti USAir Group Inc .</em>
-* <em>Georgia</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 35: <em>Pan Hahn také zosnoval překvapivý vzestup firmy <b>Georgia</b> - Pacific .</em>
-  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3: <em>Přesně před měsícem společnost GM oznámila , že zastaralý montážní závod v Lakewoodu ve státě <b>Georgia</b> se stane osmým uzavřeným montážním zařízením v USA od roku 1987 .</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 224: <em>Finanční ředitel - UAE <b>National</b></em>
+  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 3: <em>Společnost <b>National</b> uvádí , že zájem projevili i vojenští nákupčí , protože feroelektrické čipy jsou odolné proti atomovému záření .</em>
+* <em>Los</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 180: <em>K tomuto článku přispěla Pauline Yoshihashi v <b>Los</b> Angeles .</em>
+  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 1: <em>V dopise zaslaném francouzskému velvyslanectví člen ústřední rady KAN Petr <b>Los</b> vyjadřuje naději , že budou zjištěna jména a funkce bolševických úředníků , kteří mu zločineckou činnost umožňovali .</em>
 * <em>Jersey</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 35: <em>New <b>Jersey</b> :</em>
-  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 9: <em>Jak v New <b>Jersey</b> , tak později v Edmontonu , kam jsem byl vytrejdován .</em>
-* <em>Dow</em>
-  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 77: <em><b>Dow</b> Jonesův průmyslový index spadl o 190.58 bodů , na 2569.26 .</em>
-  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 29: <em>Akcie <b>Dow</b> Jones na Černé pondělí ztratily 22.6 % .</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 160: <em>New <b>Jersey</b> :</em>
+  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 16: <em>Jak v New <b>Jersey</b> , tak později v Edmontonu , kam jsem byl vytrejdován .</em>
+* <em>Lynch</em>
+  * <tt><a href="cs_pdtc-pos-X.html">X</a></tt> 136: <em>Zisk společnosti Merrill <b>Lynch</b> spadl ve třetím čtvrtletí o 37 % .</em>
+  * <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> 15: <em>Klíčovým mužem patrně je manažer kampaně Bill <b>Lynch</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.012155 (the average of all parts of speech is 2.014491).
+The form / lemma ratio of `X` is 1.035750 (the average of all parts of speech is 2.169157).
 
-The 1st highest number of forms (2) was observed with the lemma “Advertising”: <em>ADVERTISING, Advertising</em>.
+The 1st highest number of forms (3) was observed with the lemma “Grid”: <em>GRiD, GRid, Grid</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “And”: <em>AND, And</em>.
+The 2nd highest number of forms (3) was observed with the lemma “Macmillan”: <em>MACMILLAN, MacMillan, Macmillan</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “Arnold”: <em>ARNOLD, Arnold</em>.
+The 3rd highest number of forms (2) was observed with the lemma “Ace”: <em>ACE, Ace</em>.
 
-`X` occurs with 2 features: <tt><a href="cs_pdtc-feat-Foreign.html">Foreign</a></tt> (9330; 100% instances), <tt><a href="cs_pdtc-feat-ExtPos.html">ExtPos</a></tt> (12; 0% instances)
+`X` occurs with 2 features: <tt><a href="cs_pdtc-feat-Foreign.html">Foreign</a></tt> (47618; 100% instances), <tt><a href="cs_pdtc-feat-ExtPos.html">ExtPos</a></tt> (56; 0% instances)
 
-`X` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Foreign=Yes`
+`X` occurs with 3 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `Foreign=Yes`
 
-`X` occurs with 2 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (9318 tokens).
-Examples: <em>Inc, Corp, New, Co, s, of, Wall, street, International, de</em>
+`X` occurs with 3 feature combinations.
+The most frequent feature combination is `Foreign=Yes` (47562 tokens).
+Examples: <em>Corp, Inc, co, New, s, Wall, street, San, International, of</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 22 different relations: <tt><a href="cs_pdtc-dep-flat.html">flat</a></tt> (5081; 54% instances), <tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt> (3246; 35% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (283; 3% instances), <tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt> (200; 2% instances), <tt><a href="cs_pdtc-dep-obl.html">obl</a></tt> (120; 1% instances), <tt><a href="cs_pdtc-dep-appos.html">appos</a></tt> (96; 1% instances), <tt><a href="cs_pdtc-dep-root.html">root</a></tt> (81; 1% instances), <tt><a href="cs_pdtc-dep-obj.html">obj</a></tt> (73; 1% instances), <tt><a href="cs_pdtc-dep-parataxis.html">parataxis</a></tt> (52; 1% instances), <tt><a href="cs_pdtc-dep-dep.html">dep</a></tt> (24; 0% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (12; 0% instances), <tt><a href="cs_pdtc-dep-advmod.html">advmod</a></tt> (11; 0% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (11; 0% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-dep-obl-arg.html">obl:arg</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-dep-nsubj-pass.html">nsubj:pass</a></tt> (7; 0% instances), <tt><a href="cs_pdtc-dep-orphan.html">orphan</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 27 different relations: <tt><a href="cs_pdtc-dep-flat.html">flat</a></tt> (26175; 55% instances), <tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt> (16853; 35% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (1335; 3% instances), <tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt> (846; 2% instances), <tt><a href="cs_pdtc-dep-obl.html">obl</a></tt> (501; 1% instances), <tt><a href="cs_pdtc-dep-appos.html">appos</a></tt> (458; 1% instances), <tt><a href="cs_pdtc-dep-root.html">root</a></tt> (432; 1% instances), <tt><a href="cs_pdtc-dep-obj.html">obj</a></tt> (330; 1% instances), <tt><a href="cs_pdtc-dep-parataxis.html">parataxis</a></tt> (214; 0% instances), <tt><a href="cs_pdtc-dep-dep.html">dep</a></tt> (106; 0% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (76; 0% instances), <tt><a href="cs_pdtc-dep-obl-arg.html">obl:arg</a></tt> (62; 0% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (56; 0% instances), <tt><a href="cs_pdtc-dep-advmod.html">advmod</a></tt> (50; 0% instances), <tt><a href="cs_pdtc-dep-orphan.html">orphan</a></tt> (30; 0% instances), <tt><a href="cs_pdtc-dep-nsubj-pass.html">nsubj:pass</a></tt> (27; 0% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (23; 0% instances), <tt><a href="cs_pdtc-dep-advcl-pred.html">advcl:pred</a></tt> (13; 0% instances), <tt><a href="cs_pdtc-dep-iobj.html">iobj</a></tt> (12; 0% instances), <tt><a href="cs_pdtc-dep-case.html">case</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-dep-ccomp.html">ccomp</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 14 different parts of speech: <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (5287; 57% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2986; 32% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (438; 5% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (350; 4% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (91; 1% instances),  (81; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (74; 1% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 14 different parts of speech: <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (27201; 57% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (15748; 33% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (1946; 4% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (1497; 3% instances),  (432; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (346; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (343; 1% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (36; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (32; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="cs_pdtc-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (3; 0% instances)
 
-5522 (59%) `X` nodes are leaves.
+28156 (59%) `X` nodes are leaves.
 
-1274 (14%) `X` nodes have one child.
+6841 (14%) `X` nodes have one child.
 
-1054 (11%) `X` nodes have two children.
+5444 (11%) `X` nodes have two children.
 
-1480 (16%) `X` nodes have three or more children.
+7177 (15%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 17.
+The highest child degree of a `X` node is 28.
 
-Children of `X` nodes are attached using 25 different relations: <tt><a href="cs_pdtc-dep-flat.html">flat</a></tt> (5077; 55% instances), <tt><a href="cs_pdtc-dep-punct.html">punct</a></tt> (2150; 23% instances), <tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt> (547; 6% instances), <tt><a href="cs_pdtc-dep-case.html">case</a></tt> (418; 5% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (268; 3% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (176; 2% instances), <tt><a href="cs_pdtc-dep-appos.html">appos</a></tt> (129; 1% instances), <tt><a href="cs_pdtc-dep-nummod.html">nummod</a></tt> (114; 1% instances), <tt><a href="cs_pdtc-dep-amod.html">amod</a></tt> (103; 1% instances), <tt><a href="cs_pdtc-dep-parataxis.html">parataxis</a></tt> (30; 0% instances), <tt><a href="cs_pdtc-dep-acl-relcl.html">acl:relcl</a></tt> (26; 0% instances), <tt><a href="cs_pdtc-dep-advmod-emph.html">advmod:emph</a></tt> (19; 0% instances), <tt><a href="cs_pdtc-dep-dep.html">dep</a></tt> (18; 0% instances), <tt><a href="cs_pdtc-dep-mark.html">mark</a></tt> (15; 0% instances), <tt><a href="cs_pdtc-dep-det.html">det</a></tt> (14; 0% instances), <tt><a href="cs_pdtc-dep-cop.html">cop</a></tt> (13; 0% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (12; 0% instances), <tt><a href="cs_pdtc-dep-advmod.html">advmod</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="cs_pdtc-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 30 different relations: <tt><a href="cs_pdtc-dep-flat.html">flat</a></tt> (26169; 57% instances), <tt><a href="cs_pdtc-dep-punct.html">punct</a></tt> (10753; 24% instances), <tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt> (2511; 6% instances), <tt><a href="cs_pdtc-dep-case.html">case</a></tt> (1654; 4% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (1355; 3% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (814; 2% instances), <tt><a href="cs_pdtc-dep-appos.html">appos</a></tt> (726; 2% instances), <tt><a href="cs_pdtc-dep-nummod.html">nummod</a></tt> (403; 1% instances), <tt><a href="cs_pdtc-dep-amod.html">amod</a></tt> (382; 1% instances), <tt><a href="cs_pdtc-dep-parataxis.html">parataxis</a></tt> (212; 0% instances), <tt><a href="cs_pdtc-dep-advmod-emph.html">advmod:emph</a></tt> (104; 0% instances), <tt><a href="cs_pdtc-dep-acl-relcl.html">acl:relcl</a></tt> (99; 0% instances), <tt><a href="cs_pdtc-dep-mark.html">mark</a></tt> (98; 0% instances), <tt><a href="cs_pdtc-dep-cop.html">cop</a></tt> (60; 0% instances), <tt><a href="cs_pdtc-dep-dep.html">dep</a></tt> (56; 0% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (56; 0% instances), <tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt> (46; 0% instances), <tt><a href="cs_pdtc-dep-det.html">det</a></tt> (42; 0% instances), <tt><a href="cs_pdtc-dep-advmod.html">advmod</a></tt> (29; 0% instances), <tt><a href="cs_pdtc-dep-obl.html">obl</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-dep-orphan.html">orphan</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-dep-acl.html">acl</a></tt> (7; 0% instances), <tt><a href="cs_pdtc-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-dep-advcl-pred.html">advcl:pred</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 16 different parts of speech: <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (5287; 58% instances), <tt><a href="cs_pdtc-pos-PUNCT.html">PUNCT</a></tt> (2150; 23% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (592; 6% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (420; 5% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (181; 2% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (165; 2% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (131; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (108; 1% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (35; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 17 different parts of speech: <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (27201; 60% instances), <tt><a href="cs_pdtc-pos-PUNCT.html">PUNCT</a></tt> (10753; 24% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2933; 6% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (1655; 4% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (825; 2% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (784; 2% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (506; 1% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (418; 1% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (157; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (85; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (79; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (70; 0% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (68; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (66; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="cs_pdtc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances)
 

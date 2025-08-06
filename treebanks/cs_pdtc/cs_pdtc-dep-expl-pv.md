@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_pdtc-dep-expl-pass.html">expl:pass</a></tt>.
 
-9201 nodes (1%) are attached to their parents as `expl:pv`.
+45998 nodes (1%) are attached to their parents as `expl:pv`.
 
-7178 instances of `expl:pv` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.18932724703837.
+35962 instances of `expl:pv` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.21885734162355.
 
-The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (8854; 96% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (327; 4% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `expl:pv`: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (44402; 97% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1506; 3% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (86; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cs_pdtc-dep-nummod.html">nummod</a></tt>.
 
-5793 nodes (1%) are attached to their parents as `nummod:gov`.
+31918 nodes (1%) are attached to their parents as `nummod:gov`.
 
-5744 instances of `nummod:gov` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4006559640946.
+31681 instances of `nummod:gov` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40986277335673.
 
-The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (5732; 99% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (41; 1% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (20; 0% instances).
+The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (31615; 99% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (199; 1% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (104; 0% instances).
 
 
 ~~~ conllu

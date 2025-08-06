@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `det`: <tt><a href="cs_pdtc-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="cs_pdtc-dep-det-nummod.html">det:nummod</a></tt>.
 
-14923 nodes (2%) are attached to their parents as `det`.
+72968 nodes (2%) are attached to their parents as `det`.
 
-14762 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32292434497085.
+72244 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32488214011622.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (14589; 98% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (92; 1% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (81; 1% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (65; 0% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (46; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `det`: <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (71183; 98% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (481; 1% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (448; 1% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (370; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (242; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (126; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (49; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (42; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,19 +52,24 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 det	color:blue
-1	Jedním	jeden	NUM	CnZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|NumForm=Word|NumType=Card	0	root	0:root	Bridge=ln95049025e25<ln95049025e27:subset|Entity=(ln95049025e27--1|Functor=0:PAT|LNumValue=1
-2	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	3:case	Entity=(ln95049025e25--2-gstype:spec|LId=z-1
-3	oslovených	oslovený	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	1	amod	1:amod	Entity=ln95049025e25)ln95049025e27)|Functor=1:DIR1|LDeriv=oslovit
-4	byl	být	AUX	VpYS----R-AAI--	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	cop	1:cop	Functor=1:PRED
-5	i	i	PART	TT-------------	_	6	advmod:emph	6:advmod:emph	LId=i-2|Functor=6:RHEM
-6	on	on	PRON	PEYS1--3-------	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	1:nsubj	Entity=(ln95049025e9--1-gstype:spec|Functor=1:ACT.cop|LId=on-1
-7	sám	samý	DET	PLYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	6	det	6:det	Entity=ln95049025e9)|Functor=6:RSTR|LGloss=(samotný)|SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 det	color:blue
+1	Šel	jít	VERB	VpYS----R-AAI--	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	Functor=0:PRED
+2	jsem	být	AUX	VB-S---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	_
+3	znovu	znovu	ADV	Db-------------	_	1	advmod	1:advmod	Functor=1:TWHEN
+4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	Entity=(pdtsc_lk16379_06.03e69--2-gstype:spec|LId=na-1
+5	marodku	marodka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing	1	obl	1:obl:na:acc	Entity=pdtsc_lk16379_06.03e69)|Functor=1:DIR3
+6	a	a	CCONJ	J^-------------	_	7	cc	7:cc	LId=a-1|Functor=7:CONJ
+7	přišel	přijít	VERB	VpYS----R-AAP--	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	Functor=1:PRED
+8	jsem	být	AUX	VB-S---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	7:aux	_
+9	zase	zase	ADV	Db-------------	_	7	advmod	7:advmod	LId=zase-1|Functor=7:TWHEN
+10	za	za	ADP	RR--7----------	AdpType=Prep|Case=Ins	12	case	12:case	Entity=(pdtsc_lk16379_06.03e74--3-gstype:spec
+11	tím	ten	DET	PDZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Dem	12	det	12:det	Functor=12:RSTR
+12	Maďarem	Maďar	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Nat|Number=Sing	7	obl	7:obl:za:ins	Entity=pdtsc_lk16379_06.03e74)|Functor=7:DIR3
+13	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
 

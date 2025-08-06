@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_pdtc-feat-Number.html">Number</a></tt>, <tt><a href="cs_pdtc-feat-Number-psor.html">Number[psor]</a></tt>.
 
-4310 tokens (1%) have a non-empty value of `Number[psor]`.
-96 types (0%) occur at least once with a non-empty value of `Number[psor]`.
+20632 tokens (1%) have a non-empty value of `Number[psor]`.
+122 types (0%) occur at least once with a non-empty value of `Number[psor]`.
 6 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (4310; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (20632; 1% instances).
 
 ### `DET`
 
-4310 <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> tokens (14% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+20632 <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="cs_pdtc-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (4310; 100%), <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4063; 94%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4053; 94%), <tt><a href="cs_pdtc-feat-Person.html">Person</a></tt><tt>=3</tt> (2368; 55%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="cs_pdtc-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (20632; 100%), <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (19624; 95%), <tt><a href="cs_pdtc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19566; 95%), <tt><a href="cs_pdtc-feat-Person.html">Person</a></tt><tt>=3</tt> (11770; 57%), <tt><a href="cs_pdtc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10380; 50%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 
@@ -50,5 +50,5 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>DET --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> DET</tt> (16; 62%).
 

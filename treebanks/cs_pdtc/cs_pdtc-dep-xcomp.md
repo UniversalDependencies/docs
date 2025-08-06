@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7828 nodes (1%) are attached to their parents as `xcomp`.
+31843 nodes (1%) are attached to their parents as `xcomp`.
 
-7134 instances of `xcomp` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.33418497700562.
+30954 instances of `xcomp` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.09069497220739.
 
-The following 40 pairs of parts of speech are connected with `xcomp`: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (5713; 73% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (690; 9% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (573; 7% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (271; 3% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (238; 3% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (95; 1% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (30; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (30; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (22; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (28032; 88% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (1310; 4% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (976; 3% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (897; 3% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (211; 1% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (141; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (83; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (62; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (31; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (30; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (24; 0% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdtc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdtc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,23 +33,21 @@ The following 40 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 xcomp	color:blue
-1	*	*	PUNCT	Z:-------------	_	8	punct	8:punct	_
-2	Ale	ale	CCONJ	J^-------------	_	8	cc	8:cc	Entity=(cmpr9410019e159--7|Functor=8:PREC
-3	vyučení	vyučení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	8	nsubj	8:nsubj|10:nsubj:xsubj	SpaceAfter=No|LDeriv=vyučit|Functor=8:ACT
-4	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
-5	či	či	CCONJ	J^-------------	_	6	cc	6:cc	LId=či-1|Functor=6:CONJ
-6	přeškolení	přeškolení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	3	conj	3:conj|8:nsubj|10:nsubj:xsubj	LDeriv=přeškolit|Functor=3:ACT
-7	by	být	AUX	Vc----------I--	Aspect=Imp|Mood=Cnd|VerbForm=Fin	8	aux	8:aux	_
-8	mělo	mít	VERB	VpNS----R-AAI--	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-9	být	být	AUX	Vf--------A-I--	Aspect=Imp|Polarity=Pos|VerbForm=Inf	10	cop	10:cop	Functor=10:PRED
-10	zárukou	záruka	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing	8	xcomp	8:xcomp	Functor=8:PAT
-11	kvalifikace	kvalifikace	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	10	nmod	10:nmod:gen	Entity=(cmpr9410019e156--1)cmpr9410019e159)|Functor=10:PAT|SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 xcomp	color:blue
+1	Jsem	být	AUX	VB-S---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	Functor=2:EFF
+2	ochoten	ochotný	ADJ	ACYS------A----	Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	9	ccomp	9:ccomp	Functor=9:PAT
+3	riskovat	riskovat	VERB	Vf--------A-B--	Aspect=Imp,Perf|Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	Functor=2:PAT
+4	i	i	PART	TT-------------	_	5	advmod:emph	5:advmod:emph	LId=i-2|Functor=5:RHEM
+5	nařčení	nařčení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing	3	obj	3:obj	Functor=3:PAT
+6	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	7:case	LId=z-1
+7	vyvlastňování	vyvlastňování	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Vnoun	5	nmod	5:nmod:z:gen	SpaceAfter=No|LDeriv=vyvlastňovat|Functor=5:PAT
+8	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	_
+9	uvedl	uvést	VERB	VpYS----R-AAP--	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No|Functor=0:PRED
+10	.	.	PUNCT	Z:-------------	_	9	punct	9:punct	_
 
 ~~~
 
