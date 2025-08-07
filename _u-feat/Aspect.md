@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Biasp">Biasp</a></td>
   <td><a href="#Hab">Hab</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Iter">Iter</a></td>
@@ -126,4 +127,19 @@ as language-specific for Hungarian, though it was called _frequentative_ there
 #### Examples
 
 * [hu] _üt_ “hit”, _<b>ütöget</b>_ “hit several times”
+
+### <a name="Biasp">`Biasp`</a>: bimodal aspect
+
+Used when a single form is morphologically identical for both perfective and imperfective readings,
+without the form itself resolving the ambiguity. In Polish, past-tense morphology (e.g. the suffix _-ł_)
+does not distinguish aspect, so a form like _kazał_ can mean both “he ordered” (Perf) and “he was ordering” (Imp).
+Some non-past forms (e.g. _ofiaruje_) are similarly ambiguous—readable as present-imperfective
+or future-perfective depending on context. This value marks such readings without committing
+to either aspect. While attested primarily in Polish, other languages may exhibit similar bimodal forms.
+
+#### Examples
+
+* [pl] _kazać_ “to command”; _<b>kazał</b>_ “he ordered / was ordering”  
+* [pl] _ofiarować_ “to dedicate”; _<b>ofiarował</b> się_ “he dedicated / was dedicating himself”  
+* [pl] _koronować_ “to crown”; _<b>koronowała</b> go_ “she crowned / was crowning him”
 <!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->
