@@ -20,14 +20,14 @@ See [u-dep/xcomp]() for further discussion of resultatives and depictives.
 
 ~~~ sdparse
 Alena vstoupila do místnosti smutná . \n Alena entered to room sad .
-advcl(vstoupila, smutná)
-advcl(entered, sad)
+advcl:pred(vstoupila, smutná)
+advcl:pred(entered, sad)
 ~~~
 
 ~~~ sdparse
 Namaloval svou ženu nahou . \n He-painted his wife naked .
-advcl(Namaloval, nahou)
-advcl(He-painted, naked)
+advcl:pred(Namaloval, nahou)
+advcl:pred(He-painted, naked)
 ~~~
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:50 CEST -->
