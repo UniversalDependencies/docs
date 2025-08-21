@@ -8,7 +8,7 @@ udver: '2'
 
 The tenth column in the [CoNLL-U format](format.html#miscellaneous) is labeled MISC,
 standing for “miscellaneous”. It is intended for any additional annotation that data
-providers want to store at the token level. With very few exceptions, its contents is
+providers want to store at the token level. With the exception of the [SpaceAfter](#mandatory-misc-attribute-spaceafter) attribute, its contents are
 optional from the UD perspective. Nevertheless, certain types of annotation are used
 in multiple UD treebanks, and it is desirable that they are annotated in the same
 fashion as much as possible. This page serves as a notice board to raise awareness
@@ -41,7 +41,27 @@ however, it may not be obvious what “leaving intact” means if you have unnam
 or multiple instances of the same attribute where the order of the instances is significant
 for you. It is thus safer to avoid such practices.
 
-## Known attributes
+## Mandatory MISC attribute: SpaceAfter
+
+See also [SpacesAfter](#spacesafter) and [SpacesBefore](#spacesbefore).
+
+This attribute is necessary to allow correct reconstruction of the input text and is therefore checked by the official UD validator (unlike other MISC attributes which are optional and therefore not checked). The tokens in the numbered lines of the CoNLL format are assumed to be space-separated in the underlying untokenized text present in the `text` attribute. `SpaceAfter=No` is used to signal that in the underlying untokenized text there is no space between
+the current and the next token (which for instance can be the case with some punctation signs). For multi-word tokens, this attribute is placed in the MISC column of the MWT line
+and not at the last word of the token. `SpaceAfter=No` may occur also at the end of
+sentence, but not at the end of paragraph or document (if paragraph or document boundaries
+are annotated in the file).
+
+    # sent_id = 1
+    # text = I have no clue.
+    1   I       I       PRON    _   _   2   nsubj   _   _
+    2   have    have    VERB    _   _   0   root    _   _
+    3   no      no      DET     _   _   4   det     _   _
+    4   clue    clue    NOUN    _   _   2   obj     _   SpaceAfter=No
+    5   .       .       PUNCT   _   _   2   punct   _   _
+
+<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpaceAfter$"><button>Table for <code>SpaceAfter</code> feature</button></a>
+
+## Known optional attributes
 
 MISC attributes already attested in UD treebanks are listed here in alphabetical order
 together with brief documentation (and possibly with links to additional information).
@@ -143,7 +163,7 @@ column contains `Typo=Yes`, as described in the [guidelines for typos](u/overvie
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^CorrectForm$"><button>Table for <code>CorrectForm</code> feature</button></a>
 ### CorrectSpaceAfter
 
-See also [CorrectForm](#correctform), [Correct{FEATURE}](#correctfeature) and [SpaceAfter](#spaceafter).
+See also [CorrectForm](#correctform), [Correct{FEATURE}](#correctfeature) and [SpaceAfter](#mandatory-misc-attribute-spaceafter).
 
 `CorrectSpaceAfter=Yes` indicates that a space between two tokens is missing by error
 (hence it accompanies a `SpaceAfter=No`).
@@ -874,31 +894,9 @@ Used e.g. in Arabic PADT and Assyrian AS.
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Root$"><button>Table for <code>Root</code> feature</button></a>
 
-### SpaceAfter
-
-See also [SpacesAfter](#spacesafter) and [SpacesBefore](#spacesbefore).
-
-`SpaceAfter=No` signals that in the underlying untokenized text, there is no space between
-the current and the next token. Unlike most MISC attributes, this one is even checked by
-the official UD validator. Its presence must correspond to the spaces in the sentence-level
-`text` attribute. For multi-word tokens this attribute is placed in MISC of the MWT line
-and not at the last word of the token. `SpaceAfter=No` may occur also at the end of
-sentence, but not at the end of paragraph or document (if paragraph or document boundaries
-are annotated in the file).
-
-    # sent_id = 1
-    # text = I have no clue.
-    1   I       I       PRON    _   _   2   nsubj   _   _
-    2   have    have    VERB    _   _   0   root    _   _
-    3   no      no      DET     _   _   4   det     _   _
-    4   clue    clue    NOUN    _   _   2   obj     _   SpaceAfter=No
-    5   .       .       PUNCT   _   _   2   punct   _   _
-
-<a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpaceAfter$"><button>Table for <code>SpaceAfter</code> feature</button></a>
-
 ### SpacesAfter
 
-See also [SpaceAfter](#spaceafter), [SpacesBefore](#spacesbefore), [CorrectSpaceAfter](#correctspaceafter) and [NewPar](#newpar).
+See also [SpaceAfter](#mandatory-misc-attribute-spaceafter), [SpacesBefore](#spacesbefore), [CorrectSpaceAfter](#correctspaceafter) and [NewPar](#newpar).
 
 The mandatory attribute `SpaceAfter=No` only specifies whether there was at least one space
 between two tokens of a sentence. It cannot truly preserve the untokenized text if there
@@ -915,7 +913,7 @@ UD treebanks, e.g., Belarusian HSE, Bhojpuri BHTB or Classical Chinese Kyoto.
 
 ### SpacesBefore
 
-See also [SpaceAfter](#spaceafter) and [SpacesAfter](#spacesafter).
+See also [SpaceAfter](#mandatory-misc-attribute-spaceafter) and [SpacesAfter](#spacesafter).
 
 This attribute is used similarly to `SpacesAfter`, with the same values and escaping, but
 it encodes characters before the first token of the sentence. Therefore, it should only occur
