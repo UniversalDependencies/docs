@@ -9,7 +9,7 @@ udver: '2'
 
 This pages summarizes the history of notable changes to the universal annotation [guidelines](guidelines.html).
 
-Significant changes are classified as: 
+Significant changes are classified as:
 - AMENDMENT: change that negates a policy articulated in an earlier version of the guidelines
 - CLARIFICATION: resolution of an important ambiguity in the guidelines (that doesn't negate a previous policy)
 - VALIDATOR: important change to the requirements checked by the official [UD validator](https://github.com/UniversalDependencies/tools/)
@@ -18,16 +18,17 @@ Significant changes are classified as:
 
 ## Changes in UDv2
 
-Updates to UDv2 will NOT alter the inventory of basic top-level dependency relations, UPOS tags, etc. 
+Updates to UDv2 will NOT alter the inventory of basic top-level dependency relations, UPOS tags, etc.
 But some updates have been necessary to clarify how they should be applied to particular linguistic phenomena, as well as formal constraints to be enforced by validation.
 
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+|16 | 2025-Aug     | 2.17              | VALIDATOR                | [Multiple Objects](#multiple-objects)         |
 |15 | 2024-Nov     | 2.16              | CLARIFICATION, VALIDATOR | [`ExtPos` for Fixed Expressions](#extpos-for-fixed-expressions) |
-|14 | 2024-Apr     | 2.14              | CLARIFICATION            | [List Item Markers](#list-item-markers) |
+|14 | 2024-Apr     | 2.14              | CLARIFICATION            | [List Item Markers](#list-item-markers)       |
 |13 | 2023-Dec     | 2.14              | CLARIFICATION            | [Foreign Expressions and Code-Switching](#foreign-expressions-and-code-switching) |
-|12 | 2023-Nov     | 2.14              | CLARIFICATION            | [Multiword Expressions](#multiword-expressions)   |
+|12 | 2023-Nov     | 2.14              | CLARIFICATION            | [Multiword Expressions](#multiword-expressions) |
 |11 | 2023-Nov     | 2.14              | CLARIFICATION            | [Semi-mandatory Relation Subtypes](#semi-mandatory-relation-subtypes)  |
 |10 | 2023-Sep     | 2.13              | CLARIFICATION            | [Adpositional Predicative Complements](#adpositional-predicative-complements)  |
 | 9 | 2023-Sep     | 2.13              | CLARIFICATION            | [Sufficiency and Excess Constructions](#sufficiency-and-excess-constructions)  |
@@ -39,6 +40,16 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 3 | 2022-Feb     | 2.10              | AMENDMENT                | [Reported Speech](#reported-speech)           |
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
+
+
+### Multiple Objects
+
+According to the guidelines a predicate can have at most one child node attached as [obj](). If there are multiple
+core arguments that qualify as objects, one of them should be selected as the direct object (`obj`) and the others
+should be annotated as indirect objects ([iobj]()). The number of indirect objects is not limited.
+
+At present this validation rule does not take into account clausal objects ([ccomp]()) because they do not distinguish
+whether they correspond to direct or indirect objects.
 
 
 ### `ExtPos` for Fixed Expressions
@@ -81,23 +92,23 @@ See [discussion of typos](/u/overview/typos.html#misspelled-multiword-token).
 
 ### Sole `iobj`
 
-The restriction that [iobj]() can only be used if there is also an overt [obj]() in the same clause is hereby [removed](https://github.com/UniversalDependencies/docs/issues/916). 
-It is preferable not to have a relation whose label depends on the presence or absence of a sister phrase 
+The restriction that [iobj]() can only be used if there is also an overt [obj]() in the same clause is hereby [removed](https://github.com/UniversalDependencies/docs/issues/916).
+It is preferable not to have a relation whose label depends on the presence or absence of a sister phrase
 when its interpretation remains the same (like *them* in *tell them* vs. *tell them a story* vs. *tell them that the party is canceled*).
 See [iobj]() for examples (note that specific criteria for identifying indirect objects will vary by language).
 
 ### Nested `flat`
-  
-In May 2021, the [flat]() guidelines were revised to clarify that nested expressions were allowed under a `flat` dependent, 
-so long as the nested expression was not itself a flat expression. 
-This constraint [is now lifted](https://github.com/UniversalDependencies/docs/commit/42023bd) (in fact, it was never enforced): 
-if a flat name, for example, has a part which is itself a flat name, it may be indicated with a nested flat expression. 
-The only constraint on `flat` edges is that they must point forward in the sentence: 
+
+In May 2021, the [flat]() guidelines were revised to clarify that nested expressions were allowed under a `flat` dependent,
+so long as the nested expression was not itself a flat expression.
+This constraint [is now lifted](https://github.com/UniversalDependencies/docs/commit/42023bd) (in fact, it was never enforced):
+if a flat name, for example, has a part which is itself a flat name, it may be indicated with a nested flat expression.
+The only constraint on `flat` edges is that they must point forward in the sentence:
 the first word of the expression is always the technical head, though linguistically speaking, the expression is considered headless.
-  
+
 ### Multiple Subjects
 
-In general, UD prohibits multiple subjects (i.e. a word may have at most one [nsubj]() or [csubj]() dependent), 
+In general, UD prohibits multiple subjects (i.e. a word may have at most one [nsubj]() or [csubj]() dependent),
 and enforcing this in validation is a useful way to catch errors.
 However, a clause may serve as the predicate in a copular construction (e.g. _The problem is that we already paid_), posing a problem for this constraint.
 Until now, the guidelines carved out an exception for such cases: the copula of the outer clause
@@ -105,21 +116,21 @@ would be promoted to head its subject and the predicate of the inner clause woul
 But this yielded an odd interpretation of some copulas as transitive and offered no solution for zero copula constructions.
 A [change](https://github.com/UniversalDependencies/docs/pull/868) was necessary.
 
-The [new policy](/u/overview/complex-syntax.html#predicate-clauses)—a product of extensive deliberation—is that the predicate of the inner clause can have multiple subject dependents. 
-The subject(s) of the non-innermost clause(s) can be subtyped with `:outer` to signify nesting: [nsubj:outer](), [csubj:outer](). 
+The [new policy](/u/overview/complex-syntax.html#predicate-clauses)—a product of extensive deliberation—is that the predicate of the inner clause can have multiple subject dependents.
+The subject(s) of the non-innermost clause(s) can be subtyped with `:outer` to signify nesting: [nsubj:outer](), [csubj:outer]().
 The `:outer` subtype, like all subtypes, is (at least for now) technically optional.
-Therefore, as an alternative, the validator will allow a treebank's maintainers to manually verify that 
+Therefore, as an alternative, the validator will allow a treebank's maintainers to manually verify that
 any instances of multiple subjects are correct.
-  
-Note that using `:outer` just for subjects does not fully disambiguate the compositional structure: 
-for example, [cop](), [aux](), [mark](), [advmod](), and [obl]() dependents of the predicate may belong to either the inner or outer clause. 
+
+Note that using `:outer` just for subjects does not fully disambiguate the compositional structure:
+for example, [cop](), [aux](), [mark](), [advmod](), and [obl]() dependents of the predicate may belong to either the inner or outer clause.
 In order to avoid a proliferation of subtyped relations, the trees in the new guidelines do not apply the `:outer` label to anything other than subjects.
-Treebanks are, of course, welcome to innovate in their use of subtypes and/or MISC attributes.  
+Treebanks are, of course, welcome to innovate in their use of subtypes and/or MISC attributes.
 
 ### Optional Depictives
 
 [Reanalyzed](https://github.com/UniversalDependencies/docs/pull/866) optional depictives as adverbial ([advcl]()) rather than adnominal ([acl]()), given that the predicand may not always be overt in the sentence, and even when it is overt it doesn't form a nominal phrase with the depictive. The secondary predication can instead be expressed via an enhanced dependency, similar to control. (A precise naming recommendation for the enhanced edge is deferred for further discussion.)
-  
+
 ### Reported Speech
 
 [Revised](https://github.com/UniversalDependencies/docs/pull/850) the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted.
