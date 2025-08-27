@@ -50,7 +50,7 @@ Only the main differences are introduced below. Please check the annotation guid
 
 ### Features
 
-* [Epenthesis](): the epenthesis (usually a “n” or “w”) is included in the preceding token that takes this specific feature, as e.g. _worre-n-_ | _isch_ “is become”
+* [Epenthesis](): the epenthesis (usually a “n” or “w”) is included in the preceding token that takes this specific feature, as e.g. _worre-n-_ ␣ _isch_ “is become”
 
 ### MISC attributes
 
