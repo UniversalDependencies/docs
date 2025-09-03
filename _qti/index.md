@@ -72,6 +72,6 @@ udver: '2'
 
 ## Treebanks
 
-There is [1](../treebanks/qti-comparison.html) Turkish English UD treebank:
+There is 1 Turkish English UD treebank:
 
 * [Turkish English-BUTR](../treebanks/qti_butr)
