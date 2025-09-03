@@ -9,7 +9,7 @@ redirect_from: "/contribute.html"
 
 ### Current Data
 
-* **Obtaining data:** The latest official version of UD treebanks can be [downloaded](download.html) from LINDAT/CLARIN.
+* **Obtaining data:** The latest official version of UD treebanks can be [downloaded](../download.html) from LINDAT/CLARIN.
   If you prefer to access treebanks via GitHub repositories, make sure you work with the **master** branch, which corresponds to the latest official release.
 
 ### Documentation and Discussion
