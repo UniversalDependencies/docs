@@ -7,7 +7,7 @@ udver: '2'
 # UD Events
 
 ## 2025
-
+  * [2nd Workshop on UD treebanks for Turkic Languages (UDTW) in Ljubljana](https://ud-turkic.github.io/udtw25/)
   * [8th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw25/) at [SyntaxFest in Ljubljana](https://syntaxfest.github.io/syntaxfest25/)
 
 ## 2024
@@ -17,7 +17,7 @@ udver: '2'
 
 ## 2023
 
-  * [Workshop on UD treebanks for Turkic Languages](https://ud-turkic.github.io/udtw23/)
+  * [Workshop on UD treebanks for Turkic Languages (UDTW)](https://ud-turkic.github.io/udtw23/)
   * [6th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw23/)
 
 ## 2022
