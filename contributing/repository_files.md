@@ -186,6 +186,7 @@ Here is an example of the treebank metadata block from the [Czech README file](h
     Data available since: UD v1.0
     License: CC BY-NC-SA 3.0
     Includes text: yes
+    Parallel: no
     Genre: news
     Lemmas: converted from manual
     UPOS: converted from manual
@@ -210,7 +211,13 @@ This block should be the last thing in the `README` file. The properties are as 
     contains only the annotation without words and lemmas, but with a merging script that the
     user can run and merge the annotation with the corpus that they obtained through another
     channel. Such treebanks should say `no` here.
-* `Genre`: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in [this file](https://github.com/UniversalDependencies/docs-automation/blob/master/genre_symbols.json)
+* `Parallel`: most treebanks will have `no` here. If this treebank is a member of a collection of parallel treebanks
+  (or even if a part of the treebank is parallel with sentences in another treebank), this property should contain
+  the keyword specifying the parallel collection. Keywords consist of lowercase English letters. There could be even
+  multiple keywords (if the treebank has sentences from multiple parallel collections), separated by a single space,
+  as in “`Parallel: cairo tuecl`”.
+* `Genre`: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible
+  genres are listed in [this file](https://github.com/UniversalDependencies/docs-automation/blob/master/genre_symbols.json)
   (symbols from [the *FontAwesome* list](https://fortawesome.github.io/Font-Awesome/icons/)).
   If you don't see yours, try to think of a less specific or similar genre that is on the list.
   Remember that this is just an approximation and we are not aiming at a fine-grained hierarchy of all possible genres.
