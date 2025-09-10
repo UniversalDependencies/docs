@@ -91,7 +91,7 @@ scripts, although in a less accurate form.
 ## Alternative translations
 
 In some cases, a treebank will provide multiple alternative translations for the same parallel sentence. This happens
-in particular with artificial grammatical examples, such as the `cairo` and the `tuecl` collections. If a sentence has
+in particular with artificial grammatical examples, such as the `cairo` and `tuecl` collections. If a sentence has
 multiple alternatives, all alternatives of the sentence in the given language (treebank) should have `parallel_id`
 extended with `/altN` where `N` is an integer number. For example:
 
