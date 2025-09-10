@@ -22,7 +22,7 @@ amod(a-cake, delicious)
 ~~~
 
 ~~~ sdparse
-Parnešiau krepšį, pilną vaisių . \n I-brought a-basket full of-fruit .
+Parnešiau krepšį , pilną vaisių . \n I-brought a-basket full of-fruit .
 amod(krepšį, pilną)
 amod(a-basket, full)
 ~~~
@@ -36,7 +36,7 @@ amod(conference, taking-place)
 ~~~
 
 ~~~ sdparse
-Mačiau tave konferencijoje, vykusioje vakar . \n I-saw you at-a-conference that-took-place yesterday .
+Mačiau tave konferencijoje , vykusioje vakar . \n I-saw you at-a-conference that-took-place yesterday .
 amod(konferencijoje, vykusioje)
 amod(at-a-conference, that-took-place)
 ~~~
