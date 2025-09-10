@@ -38,6 +38,6 @@ nmod(eurų, tūkstančių)
 
 ~~~ sdparse
 Penki šimtai eurų . \n Five hundred euros .
-nummod(šimtai, penki)
+nummod(šimtai, Penki)
 nmod(eurų, šimtai)
 ~~~
