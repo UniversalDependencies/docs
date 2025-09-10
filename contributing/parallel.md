@@ -66,35 +66,33 @@ seem to be necessary to permit them. The two parts (collection id and sentence i
 # parallel_id = cairo/15
 ```
 
-**TODO: alternative translations, partial translations**
-
-***WARNING: The rest of this document below is an older proposal, which is no longer valid! It will be updated soon.***
-
 Finally, a treebank may contain data that is parallel to parts of other treebanks but the treebanks are not results
 of one annotation project and it is not practical to require a 1-1 mapping between sentences. A prominent example is
 the Bible. Various treebanks contain portions of Bible translations, there are partial pairwise overlaps in the verses
 covered, but for each language pair the overlap may be different. On the other hand, there is an established reference
 system that identifies the source verse for each token; UD uses the optional
 [Ref](https://universaldependencies.org/misc.html#ref) attribute in MISC to encode this. For example, `Ref=GEN_1.1`
-in MISC means that the token is from Genesis 1.1; `Ref=MATT_5.15` marks a token from the Gospel of Matthew 5.15.
+in MISC means that the token is from Genesis 1.1; `Ref=MATT_5.15` marks a token from the Gospel of Matthew 5.15. While
+it may seem redundant, it is recommended that these MISC references are preserved in addition to the `parallel_id`
+comment before the sentence. They allow to identify the extent of individual verses more accurately, even if one verse
+is split to multiple sentences or one sentence contains (parts of) multiple verses. On the other hand, `parallel_id`
+is still needed, as it is compatible with other parallel treebanks and makes the information accessible to more general
+scripts, although in a less accurate form.
 
-In
-these cases, the metadata line will simply indicate there are some sentences taken from the Bible and the `Ref` attribute in MISC is used to map tokens to known segments:
+## Alternative translations, partial translations
 
-```
-Parallel: Bible (Ref)
-```
+**TODO: alternative translations, partial translations**
 
 ## Current parallel treebanks in UD (this list may be incomplete)
 
-* PUD: Arabic, Bengali (currently empty), Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Japanese PUDLUW, Korean, Magahi (currently empty), Polish, Portuguese, Russian, Spanish, Swedish, Thai, Turkish
-* ParTUT: English, French, Italian
-* LinES: English, Swedish
-* SET: Croatian, Serbian
-* HK: Cantonese, Chinese
-* ZhGSD: Chinese GSD, Chinese GSDSimp
-* JaGSD: Japanese GSD, Japanese GSDLUW
-* Atis: English, Turkish
-* Bible: Ancient Greek PROIEL, Ancient Greek PTNK, Ancient Hebrew, Coptic, Gothic, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
-* Cairo: Latgalian, Latvian, Luxembourgish, Tswana, others have it as one part of larger data (Buryat, Macedonian, Malayalam, what else?)
-* TueCL: extension of Cairo, currently focusing on Turkic languages: Azerbaijani, Kyrgyz, Turkish, Uzbek
+* `pud`: Arabic, Bengali (currently empty), Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Japanese PUDLUW, Korean, Magahi (currently empty), Polish, Portuguese, Russian, Spanish, Swedish, Thai, Turkish
+* `partut`: English, French, Italian
+* `lines`: English, Swedish
+* `set`: Croatian, Serbian
+* `hk`: Cantonese, Chinese
+* `zhgsd`: Chinese GSD, Chinese GSDSimp
+* `jagsd`: Japanese GSD, Japanese GSDLUW
+* `atis`: English, Turkish
+* `bible`: Ancient Greek PROIEL, Ancient Greek PTNK, Ancient Hebrew, Coptic, Gothic, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
+* `cairo`: Latgalian, Latvian, Luxembourgish, Tswana, others have it as one part of larger data (Buryat, Macedonian, Malayalam, what else?)
+* `tuecl`: extension of Cairo, currently focusing on Turkic languages: Azerbaijani, Kyrgyz, Turkish, Uzbek
