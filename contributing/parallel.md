@@ -60,7 +60,7 @@ the corresponding sentence in all treebanks in the collection.
 Collection ids are strings of lowercase English letters (`[a-z]+`). Parallel sentence ids are just integer numbers in
 some collections, while in others (e.g. in `pud`) they may contain also lowercase English letters or a hyphen. Other
 characters, such as uppercase letters, non-English letters, underscore etc. are currently not permitted and it does not
-seem to be necessary to permit them.
+seem to be necessary to permit them. The two parts (collection id and sentence id) are separated by a slash:
 
 ```
 # parallel_id = cairo/15
