@@ -7,13 +7,13 @@ udver: '2'
 # Parallel Treebanks
 
 Treebanks of different langauges may be parallel, that is, sentences in treebank A are translations of sentences in
-treebank B. To make this fact automatically detectable and useful, it should be encoded in the machine-readable
-metadata in the README file of each such treebank. An ID should be selected for the parallel treebank set; in the
-ideal case, this ID corresponds to the treebank ID in the repository name (e.g., the PUD – parallel universal
-dependencies – treebanks are named UD_English-PUD, UD_German-PUD etc., and the ID of the collection is “`pud`”).
-However, it is not enough to rely on repository names because not all treebanks with identical acronyms are members
-of one parallel set, and sometimes there are reasons why members of the same set do not have the same acronym. In the
-case of PUD, the metadata line would be
+treebank B. To make this fact automatically detectable and useful, it should be encoded in the [machine-readable
+metadata in the README file](repository_files.html#treebank-metadata) of each such treebank. An ID should be selected
+for the parallel treebank set; in the ideal case, this ID corresponds to the treebank ID in the repository name
+(e.g., the PUD – parallel universal dependencies – treebanks are named UD_English-PUD, UD_German-PUD etc., and the ID
+of the collection is “`pud`”). However, it is not enough to rely on repository names because not all treebanks with
+identical acronyms are members of one parallel set, and sometimes there are reasons why members of the same set do not
+have the same acronym. In the case of PUD, the metadata line would be
 
 ```
 Parallel: pud
@@ -79,7 +79,31 @@ is split to multiple sentences or one sentence contains (parts of) multiple vers
 is still needed, as it is compatible with other parallel treebanks and makes the information accessible to more general
 scripts, although in a less accurate form.
 
-## Alternative translations, partial translations
+```
+# sent_id = 12667
+# parallel_id = bible/matt-1-1
+# text = liber generationis Iesu Christi filii David filii Abraham
+1	liber	liber	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_1.1
+2	generationis	generatio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	Ref=MATT_1.1
+…
+```
+
+## Alternative translations
+
+In some cases, a treebank will provide multiple alternative translations for the same parallel sentence. This happens
+in particular with artificial grammatical examples, such as the `cairo` and the `tuecl` collections. If a sentence has
+multiple alternatives, all alternatives of the sentence in the given language (treebank) should have `parallel_id`
+extended with `/altN` where `N` is an integer number. For example:
+
+```
+# parallel_id = cairo/15/alt1
+```
+
+The numbers only distinguish alternatives inside one language. The other languages do not need to have alternatives
+for that sentence and if they do, there is no implicit mapping between same-numbered alternatives across languages.
+All alternatives within one language are considered good enough translations of the sentence in the other languages.
+
+## Partial translations
 
 **TODO: alternative translations, partial translations**
 
