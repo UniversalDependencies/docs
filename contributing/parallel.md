@@ -1,14 +1,56 @@
+---
+layout: base
+title: 'Parallel Treebanks'
+udver: '2'
+---
+
 # Parallel Treebanks
 
-Treebanks of different langauges may be parallel, that is, sentences in treebank A are translations of sentences in treebank B. To make this fact automatically detectable and useful, it should be encoded in the machine-readable metadata in the README file of each such treebank. An ID should be selected for the parallel treebank set; in the ideal case, this ID is identical to the treebank ID in the repository name (e.g., the PUD – parallel universal dependencies – treebanks are named UD_English-PUD, UD_German-PUD etc., and the ID of the collection is "PUD"). However, it is not enough to rely on repository names because not all treebanks with identical acronyms are members of one parallel set, and sometimes there are reasons why members of the same set do not have the same acronym. In the case of PUD, the metadata line would be
+Treebanks of different langauges may be parallel, that is, sentences in treebank A are translations of sentences in
+treebank B. To make this fact automatically detectable and useful, it should be encoded in the machine-readable
+metadata in the README file of each such treebank. An ID should be selected for the parallel treebank set; in the
+ideal case, this ID corresponds to the treebank ID in the repository name (e.g., the PUD – parallel universal
+dependencies – treebanks are named UD_English-PUD, UD_German-PUD etc., and the ID of the collection is “`pud`”).
+However, it is not enough to rely on repository names because not all treebanks with identical acronyms are members
+of one parallel set, and sometimes there are reasons why members of the same set do not have the same acronym. In the
+case of PUD, the metadata line would be
 
 ```
-Parallel: PUD
+Parallel: pud
 ```
 
-and it should appear in the README file of each treebank that belongs to the PUD set. It is then assumed that all treebanks in the set have the same number of sentences and for any N, the N-th sentence has the same meaning in each treebank of the set. It is recommended that the sentence ids are identical in this case. If one sentence in treebank A corresponds to several sentences in treebank B, the corresponding sentences in treebank B have to be exceptionally treated as one sentence in CoNLL-U; the root of the second sentence will be attached to the root of the first sentence via the `parataxis` relation. If the treebanks are split into training, development and test files, the split must be identical in all treebanks of the parallel set.
+and it should appear in the README file of each treebank that belongs to the PUD set.
 
-It is possible that only some sentences in a treebank are parallel to another treebank. For example, some treebanks contain the 20 Cairo examples (Cairo CICLing Corpus) but they also contain other sentences. Another example is the SET treebanks of Croatian and Serbian: They have different sizes and sources of the text, but a core part comes from the South European Times and is parallel. In such cases, the metadata line must have an extended form where the collection ID is followed by " = " and one or more ranges of sentence ids. Each range must be completely inside one CoNLL-U file, so if there is train, dev, and test, we need a separate range for each (make sure they are listed in the alphabetical order of the file names, i.e., dev first, then test, then train). Again, training sentences must be parallel with training sentences, dev with dev, test with test. It is assumed that corresponding ranges in parallel treebanks have the same numbers of sentences (but note that M ranges in treebank A may correspond to N ranges in treebank B; a 1-1 mapping between ranges is not required).
+While PUD has the ideal setting where all treebanks have the same number of sentences and for any N, the N-th sentence
+of any member treebank has the same meaning (and same `sent_id`), this is not necessarily guaranteed for other parallel
+treebank collections.
+
+In the case of PUD, all treebanks have the same number of sentences and for any N, the N-th sentence of any member
+treebank has the same meaning and the same `sent_id`. If one sentence in treebank A corresponds to several sentences
+in treebank B, the corresponding sentences in treebank B are exceptionally treated as one sentence in CoNLL-U; the
+root of the second sentence will be attached to the root of the first sentence via the `parataxis` relation. From the
+perspective of parallel data processing, this is the ideal configuration; unfortunately, it cannot be guaranteed for
+all parallel treebank collections in UD.
+
+Nevertheless, one requirement should be always ensured: If the treebanks are split into training, development and test
+files, the split must be identical in all treebanks of the parallel set.
+
+It is possible that only some sentences in a treebank are parallel to another treebank. For example, some treebanks
+contain the 20 Cairo examples (Cairo CICLing Corpus) but they also contain other sentences. Another example is the
+SET treebanks of Croatian and Serbian: They have different sizes and sources of the text, but a core part comes from
+the South European Times and is parallel. It is even possible that one treebank has sentences from multiple parallel
+collections. For instance, some TueCL treebanks contain the 20 `cairo` sentences plus additional parallel sentences,
+which are identified as `tuecl`. Therefore, their metadata descriptions contains two collection identifiers separated
+by a space:
+
+```
+Parallel: cairo tuecl
+```
+
+***WARNING: The rest of this document below is an older proposal, which is no longer valid! It will be updated soon.***
+
+In such cases, the metadata line must have an extended form where the
+collection ID is followed by " = " and one or more ranges of sentence ids. Each range must be completely inside one CoNLL-U file, so if there is train, dev, and test, we need a separate range for each (make sure they are listed in the alphabetical order of the file names, i.e., dev first, then test, then train). Again, training sentences must be parallel with training sentences, dev with dev, test with test. It is assumed that corresponding ranges in parallel treebanks have the same numbers of sentences (but note that M ranges in treebank A may correspond to N ranges in treebank B; a 1-1 mapping between ranges is not required).
 
 A range is defined by the sent_id of the first and the last sentence in the range, delimited by ' .. ' (note the spaces around the range operator, they are there to avoid confusion with the characters in the sentence id). If there are multiple separate ranges (either from different data files or interrupted by sentences that are not parallel), the ranges are listed on one line and separated by ' , ' (again with spaces). If a range consists of just a single sentence, the sentence id is indicated only once and there is no ' .. ' delimiter.
 
