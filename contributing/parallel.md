@@ -105,7 +105,29 @@ All alternatives within one language are considered good enough translations of 
 
 ## Partial translations
 
-**TODO: alternative translations, partial translations**
+Sometimes the alignment between sentences of different languages is not 1-1, that is, one sentence in language A may
+correspond to several sentences in language B. Or more abstractly, the virtual segment identified by a parallel
+sentence id may correspond to (or overlap with) M sentences in language A, N sentences in language B etc. When that
+happens, multiple sentences in one treebank need the same parallel sentence id. To distinguish them from each other
+and keep the `parallel_id` unique (and also to signal that this is not the complete translation of the parallel
+segment), the `parallel_id` must be extended with `/partN` where `N` is an integer number. For example:
+
+```
+# parallel_id = bible/matt-1-2/part1
+```
+
+The numbers should be ordered in ascending order, with the assumption that concatenating the sentences in that order
+will yield the complete translation of the segment identified by the parallel sentence id.
+
+The above mechanism provides means for the case when one Bible verse is split into several sentences in the CoNLL-U
+file. It does not solve the opposite situation where one sentence contains several Bible verses (or their parts). If
+that happens and if it is not possible to split the segment into multiple CoNLL-U sentences, a parallel sentence id
+has to be selected that is considered most representative of the sentence contents (it covers the largest part of
+the contents, it is not used to identify other sentences etc.) The `Ref` attributes in MISC have to be used to delimit
+the verses at token level.
+
+If alternatives are combined with partial translations, `alt` goes before `part`, with no additional slash, as in
+`bible/matt-1-2/alt1part1`.
 
 ## Current parallel treebanks in UD (this list may be incomplete)
 
