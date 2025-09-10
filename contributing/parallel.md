@@ -40,35 +40,46 @@ contain the 20 Cairo examples (Cairo CICLing Corpus) but they also contain other
 SET treebanks of Croatian and Serbian: They have different sizes and sources of the text, but a core part comes from
 the South European Times and is parallel. It is even possible that one treebank has sentences from multiple parallel
 collections. For instance, some TueCL treebanks contain the 20 `cairo` sentences plus additional parallel sentences,
-which are identified as `tuecl`. Therefore, their metadata descriptions contains two collection identifiers separated
+which are identified as `tuecl`. Therefore, their metadata descriptions contain two collection identifiers separated
 by a space:
 
 ```
 Parallel: cairo tuecl
 ```
 
+New treebanks (languages) can be added to an existing parallel collection by simply referring to the collection in the
+treebank's README file. To register a new parallel collection, write an e-mail to Dan Zeman (zeman@ufal.mff.cuni.cz).
+<!-- The list of known collections is currently hard-coded in the validation infrastructure. In the future, we may
+implement a self-registration system. -->
+
+Within the CoNLL-U files, parallel sentences are identified using a dedicated sentence-level comment `parallel_id`. It
+contains the identificaction of the parallel collection, followed by a treebank-independent identification of the
+sentence. This part may but does not have to be identical to the `sent_id` attribute. But it must be identical for
+the corresponding sentence in all treebanks in the collection.
+
+Collection ids are strings of lowercase English letters (`[a-z]+`). Parallel sentence ids are just integer numbers in
+some collections, while in others (e.g. in `pud`) they may contain also lowercase English letters or a hyphen. Other
+characters, such as uppercase letters, non-English letters, underscore etc. are currently not permitted and it does not
+seem to be necessary to permit them.
+
+```
+# parallel_id = cairo/15
+```
+
+**TODO: alternative translations, partial translations**
+
 ***WARNING: The rest of this document below is an older proposal, which is no longer valid! It will be updated soon.***
 
-In such cases, the metadata line must have an extended form where the
-collection ID is followed by " = " and one or more ranges of sentence ids. Each range must be completely inside one CoNLL-U file, so if there is train, dev, and test, we need a separate range for each (make sure they are listed in the alphabetical order of the file names, i.e., dev first, then test, then train). Again, training sentences must be parallel with training sentences, dev with dev, test with test. It is assumed that corresponding ranges in parallel treebanks have the same numbers of sentences (but note that M ranges in treebank A may correspond to N ranges in treebank B; a 1-1 mapping between ranges is not required).
+Finally, a treebank may contain data that is parallel to parts of other treebanks but the treebanks are not results
+of one annotation project and it is not practical to require a 1-1 mapping between sentences. A prominent example is
+the Bible. Various treebanks contain portions of Bible translations, there are partial pairwise overlaps in the verses
+covered, but for each language pair the overlap may be different. On the other hand, there is an established reference
+system that identifies the source verse for each token; UD uses the optional
+[Ref](https://universaldependencies.org/misc.html#ref) attribute in MISC to encode this. For example, `Ref=GEN_1.1`
+in MISC means that the token is from Genesis 1.1; `Ref=MATT_5.15` marks a token from the Gospel of Matthew 5.15.
 
-A range is defined by the sent_id of the first and the last sentence in the range, delimited by ' .. ' (note the spaces around the range operator, they are there to avoid confusion with the characters in the sentence id). If there are multiple separate ranges (either from different data files or interrupted by sentences that are not parallel), the ranges are listed on one line and separated by ' , ' (again with spaces). If a range consists of just a single sentence, the sentence id is indicated only once and there is no ' .. ' delimiter.
-
-Croatian example:
-
-```
-Parallel: SET = set.hr-s1 .. set.hr-s569 , set.hr-s571 .. set.hr-s3692
-```
-
-Serbian lacks the translation of set.hr-s570 and the numbering of the sentences is out of sync but otherwise the sentences before and after the missing one are parallel.
-
-```
-Parallel: SET = set-s1 .. set-s3694
-```
-
-A treebank may contain segments that belong to different parallel collections. Then there will be multiple `Parallel` lines in the treebank's README.
-
-Finally, a treebank may contain data that is parallel to parts of other treebanks but the treebanks are not results of one annotation project and it is not practical to require a 1-1 mapping between sentences. A prominent example is the Bible. Various treebanks contain portions of Bible translations, there are partial pairwise overlaps in the verses covered, but for each language pair the overlap may be different. On the other hand, there is an established reference system that identifies the source verse for each token; UD uses the optional [Ref](https://universaldependencies.org/misc.html#ref) attribute in MISC to encode this. For example, `Ref=GEN_1.1` in MISC means that the token is from Genesis 1.1; `Ref=MATT_5.15` marks a token from the Gospel of Matthew 5.15. In these cases, the metadata line will simply indicate there are some sentences taken from the Bible and the `Ref` attribute in MISC is used to map tokens to known segments:
+In
+these cases, the metadata line will simply indicate there are some sentences taken from the Bible and the `Ref` attribute in MISC is used to map tokens to known segments:
 
 ```
 Parallel: Bible (Ref)
