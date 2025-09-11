@@ -513,6 +513,8 @@ collections:
     output: true
   zza:
     output: true
+  unk:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
