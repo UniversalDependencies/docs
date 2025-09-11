@@ -8,11 +8,6 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-
-layout: base title: 'Central Kurdish UD' udver: '2'
-UD for Central Kurdish <span class="flagspan"><img class="flag" src="../../flags/svg/IQ-KRD.svg" /></span>
-Tokenization and Word Segmentation
-
 Whitespace and punctuation: Words are generally delimited by whitespace and punctuation marks following standard conventions. The tokenization process identifies word boundaries based on standard orthographic principles of the Kurdish Roman alphabet script. Sentence boundaries are marked by standard punctuation marks including periods, question marks, and exclamation points.
 
 Multiword tokens: The treebank extensively uses multiword tokens that represent single orthographic units but contain multiple grammatical elements. These are represented as single tokens in the surface form but are expanded into multiple syntactic words in the .conllu format. Common multiword token patterns include:
