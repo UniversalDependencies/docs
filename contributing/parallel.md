@@ -21,10 +21,6 @@ Parallel: pud
 
 and it should appear in the README file of each treebank that belongs to the PUD set.
 
-While PUD has the ideal setting where all treebanks have the same number of sentences and for any N, the N-th sentence
-of any member treebank has the same meaning (and same `sent_id`), this is not necessarily guaranteed for other parallel
-treebank collections.
-
 In the case of PUD, all treebanks have the same number of sentences and for any N, the N-th sentence of any member
 treebank has the same meaning and the same `sent_id`. If one sentence in treebank A corresponds to several sentences
 in treebank B, the corresponding sentences in treebank B are exceptionally treated as one sentence in CoNLL-U; the
@@ -35,7 +31,7 @@ all parallel treebank collections in UD.
 Nevertheless, one requirement should be always ensured: If the treebanks are split into training, development and test
 files, the split must be identical in all treebanks of the parallel set.
 
-It is possible that only some sentences in a treebank are parallel to another treebank. For example, some treebanks
+It is possible that only some sentences in a treebank are parallel with another treebank. For example, some treebanks
 contain the 20 Cairo examples (Cairo CICLing Corpus) but they also contain other sentences. Another example is the
 SET treebanks of Croatian and Serbian: They have different sizes and sources of the text, but a core part comes from
 the South European Times and is parallel. It is even possible that one treebank has sentences from multiple parallel
@@ -93,7 +89,7 @@ scripts, although in a less accurate form.
 In some cases, a treebank will provide multiple alternative translations for the same parallel sentence. This happens
 in particular with artificial grammatical examples, such as the `cairo` and `tuecl` collections. If a sentence has
 multiple alternatives, all alternatives of the sentence in the given language (treebank) should have `parallel_id`
-extended with `/altN` where `N` is an integer number. For example:
+extended with `/altN` where `N` is a positive integer number. For example:
 
 ```
 # parallel_id = cairo/15/alt1
@@ -110,7 +106,7 @@ correspond to several sentences in language B. Or more abstractly, the virtual s
 sentence id may correspond to (or overlap with) M sentences in language A, N sentences in language B etc. When that
 happens, multiple sentences in one treebank need the same parallel sentence id. To distinguish them from each other
 and keep the `parallel_id` unique (and also to signal that this is not the complete translation of the parallel
-segment), the `parallel_id` must be extended with `/partN` where `N` is an integer number. For example:
+segment), the `parallel_id` must be extended with `/partN` where `N` is a positive integer number. For example:
 
 ```
 # parallel_id = bible/matt-1-2/part1
@@ -129,7 +125,10 @@ the verses at token level.
 If alternatives are combined with partial translations, `alt` goes before `part`, with no additional slash, as in
 `bible/matt-1-2/alt1part1`.
 
-## Current parallel treebanks in UD (this list may be incomplete)
+## Current parallel treebanks in UD
+
+**Disclaimer:** This list may be incomplete. In the future, it will be generated automatically from the metadata
+described above.
 
 * `pud`: Arabic, Bengali (currently empty), Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Japanese PUDLUW, Korean, Magahi (currently empty), Polish, Portuguese, Russian, Spanish, Swedish, Thai, Turkish
 * `partut`: English, French, Italian
