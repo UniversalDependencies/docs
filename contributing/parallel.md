@@ -118,9 +118,9 @@ will yield the complete translation of the segment identified by the parallel se
 The above mechanism provides means for the case when one Bible verse is split into several sentences in the CoNLL-U
 file. It does not solve the opposite situation where one sentence contains several Bible verses (or their parts). If
 that happens and if it is not possible to split the segment into multiple CoNLL-U sentences, a parallel sentence id
-has to be selected that is considered most representative of the sentence contents (it covers the largest part of
-the contents, it is not used to identify other sentences etc.) The `Ref` attributes in MISC have to be used to delimit
-the verses at token level.
+has to be selected that is considered most representative of the sentence contents (it covers the first or largest part
+of the contents, it is not used to identify other sentences etc.) The `Ref` attributes in MISC have to be used to
+delimit the verses at token level.
 
 If alternatives are combined with partial translations, `alt` goes before `part`, with no additional slash, as in
 `bible/matt-1-2/alt1part1`.
