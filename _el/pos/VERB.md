@@ -19,7 +19,7 @@ In UD.v2, the form of the verb that traditional grammars categorise as “partic
 2) the participle inherits the verb’s argument structure 
 
 Consider the form *αποφασισμένος* that is the passive participle of the (active) verb αποφασίζω “to decide”. 
-*…καθορίστηκε και ένα συντονιστικό, <b>αποφασισμένο<\b> από όλα τα σχήματα*
+*…καθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα*
 "...a coordinating body was specified that was decided by all the parties"
 
 *Ο Γιάννης είναι <b>αποφασισμένος<\b>*
