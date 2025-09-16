@@ -49,7 +49,11 @@ The adverb *εντάξει* often appears in the role of an interjection. In the
 -	temporal adverbs: *αύριο* / *avrio* ‘tomorrow’, *κάποτε* / *kapote* ‘sometime’, *καταρχήν* / *katarchin* ‘first of all’, *πάντα* / *panta* ‘always’, *πέρσυ* / *persi* ‘last year’, *πότε* / *pote* ‘when’, *ποτέ* / *pote* ‘never’, *σήμερα* / *simera* ‘today’, *τότε* / *tote* ‘then’, *τώρα* / *tora* ‘now’, *χθες* / *chthes* ‘yesterday’
 -	quantity adverbs: *άπαξ* / *apaks* ‘once’, *καθόλου* / *katholou* ‘at all’, *λίγο* / *ligo* ‘a little’, *μόνο* / *mono* ‘only’, *τόσο* / *toso* ‘so’
 
+----------------------------
+**Cretan**
+κοντό “I wonder”, e.g., Κοντό.ADV.advmod και δεν του αρέσουν τα φαητά; “I wonder, doesn't he like the food?”
 
+----------------------------
 
 ### References
 
