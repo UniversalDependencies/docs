@@ -20,7 +20,7 @@ In UD.v2, the form of the verb that traditional grammars categorise as “partic
 
 Consider the form *αποφασισμένος* that is the passive participle of the (active) verb *αποφασίζω* “to decide”. 
 
-e.g.*Kαθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα* 
+e.g. *Kαθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα* 
 "Α coordinating body was specified that was decided by all the parties"
 
 *Ο Γιάννης είναι αποφασισμένος*
