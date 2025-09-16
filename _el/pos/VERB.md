@@ -37,7 +37,8 @@ Occassionally, only a few or unique members of the inflectional paradigm of a ve
 
 Occassionally, only a few or unique members of the inflectional paradigm of a verb are used, e.g.
 - *γιάε* is an emphatic form of imperative “Look”, e.g. *γιάε μούτρα το μπεγιράκι* “Look at the face of the little horse”. It is assigned the lemma "γιάε" and the features [Mood=Imp](), [Person=2](), [Voice=Act]()
-  
+
+---------------
 ### References
  
 Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
