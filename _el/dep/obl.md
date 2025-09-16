@@ -68,6 +68,15 @@ obl(πάω, σχολείο)
 
 In the second example, the word *σχολείο* cannot be inflected or modified.
 
+-  [obl]() is used for adverbial predicates, e.g., *Mε ανοιχτά τα φυλλοκάρδια ετοιμάστηκε* "He/she prepared himself with an open heart."
+ 
+  ~~~ sdparse~~~
+  Με ανοιχτά τα φυλλοκάρδια ετοιμάστηκε
+  obl(ετοιμάστηκε, ανοιχτά)
+  nsubj(ανοιχτά, φυλλοκάρδια)
+  case(φυλλοκάρδια, με)
+  ~~~
+
 - The agent of a passive verb (with the optional subtype obl:agent):
 
 ~~~ sdparse
