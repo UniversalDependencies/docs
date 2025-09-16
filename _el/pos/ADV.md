@@ -51,6 +51,7 @@ The adverb *εντάξει* often appears in the role of an interjection. In the
 
 ----------------------------
 **Cretan**
+
 κοντό “I wonder”, e.g., Κοντό.ADV.advmod και δεν του αρέσουν τα φαητά; “I wonder, doesn't he like the food?”
 
 ----------------------------
