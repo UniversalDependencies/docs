@@ -83,6 +83,7 @@ Cretan
 The (Eastern) Cretan dialect uses a distinctive periphrastic structure to express the future tense, which is not found in Standard Modern Greek (SMG). We annotated these structures as follows:
 e.g.:
 *να πάω θέλει* “I will go”
+
 Annotation:
 aux(πάω, να)
 aux(θέλει, πάω)
