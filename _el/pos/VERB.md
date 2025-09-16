@@ -20,10 +20,11 @@ In UD.v2, the form of the verb that traditional grammars categorise as “partic
 
 Consider the form *αποφασισμένος* that is the passive participle of the (active) verb *αποφασίζω* “to decide”. 
 
-e.g. *Kαθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα* 
+e.g. 
+a. *Kαθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα* 
 "Α coordinating body was specified that was decided by all the parties"
 
-*Ο Γιάννης είναι αποφασισμένος*
+b. *Ο Γιάννης είναι αποφασισμένος*
 “John is determined”
 
 Example A illustrates a participle that preserves the meaning of the morphologically related verb that is in use synchronically. This participle is assigned the POS [VERB]().
@@ -32,6 +33,7 @@ Example B illustrates a participle that has a meaning different from the meaning
 
 
 e.g. *κερδισμένος* comes from the passive voice of the verb *κερδίζω* “to win”. 
+
 a.*Κερδισμένος ο πόντος από τον Γιάννη* “the point won.participle by John”
 b.*Κερδισμένος ο Γιάννης από τη διαμάχη* “John won.participle the argument”
 
