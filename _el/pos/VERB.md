@@ -34,6 +34,7 @@ Occassionally, only a few or unique members of the inflectional paradigm of a ve
 - *άει* in many fixed and productive expressions, e.g., *άει πάγαινε*, *άει στο καλό*, *άει στο διάολο*, etc. It is assigned the lemma "άει".
 
 **Cretan**
+
 Occassionally, only a few or unique members of the inflectional paradigm of a verb are used, e.g.
 - *γιάε* is an emphatic form of imperative “Look”, e.g. *γιάε μούτρα το μπεγιράκι* “Look at the face of the little horse”. It is assigned the lemma "γιάε" and the features [Mood=Imp](), [Person=2](), [Voice=Act]()
   
