@@ -21,6 +21,7 @@ In UD.v2, the form of the verb that traditional grammars categorise as “partic
 Consider the form *αποφασισμένος* that is the passive participle of the (active) verb *αποφασίζω* “to decide”. 
 
 e.g. 
+
 a. *Kαθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα* 
 "Α coordinating body was specified that was decided by all the parties"
 
@@ -35,6 +36,7 @@ Example B illustrates a participle that has a meaning different from the meaning
 e.g. *κερδισμένος* comes from the passive voice of the verb *κερδίζω* “to win”. 
 
 a.*Κερδισμένος ο πόντος από τον Γιάννη* “the point won.participle by John”
+
 b.*Κερδισμένος ο Γιάννης από τη διαμάχη* “John won.participle the argument”
 
 In the first sentence, we have the transfer of the verb's argument structure to the participle, whereas in the second sentence, we do not. Additionally, there is a different meaning in the two usage cases. In the first sentence, the meaning of the verb is preserved, while in the second, it is not. Therefore, in the first case we tag the participle as VERB and in the second as ADJ.
