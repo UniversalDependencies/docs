@@ -39,14 +39,20 @@ case(αυτό, προς)
 ---------------------
 **Cretan**
 
-Μόνο, άνε θες, να πάρεις φαμέγιο το Μιχαλιό μου, έτσι.ADV που.SCONJ να σε ξεμιστεύγει ο Θιος.
-"“Only, if you wish, take my Michalis as a famégio (a traditional Cretan live-in servant/apprentice paid in food and lodging), so that God will bless you."
+-έτσι που (ExtPos=SCONJ), "so that"
+
+e.g., *Μόνο, άνε θες, να πάρεις φαμέγιο το Μιχαλιό μου, έτσι.ADV που.SCONJ να σε ξεμιστεύγει ο Θιος.*
+"Only, if you wish, take my Michalis as a famégio (a traditional Cretan live-in servant/apprentice paid in food and lodging), so that God will bless you."
 
 ~~~ sdparse
 Μόνο, άνε θες, να πάρεις φαμέγιο το Μιχαλιό μου, έτσι που να σε ξεμιστεύγει ο Θιος.
 mark(ξεμιστεύγει, έτσι)
 fixed(έτσι, που)
 ~~~
+
+-μια ολιά (ExtPos=ADV), "a little"
+-εδά και χρόνια (ExtPos=ADV), "for many years"
+-τάδε που λοιπόν (ExtPos=INTJ), "so, you know"
 
 
 ----------------------
