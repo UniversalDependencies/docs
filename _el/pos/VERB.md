@@ -32,7 +32,7 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 
 Occassionally, only a few or unique members of the inflectional paradigm of a verb are used, e.g.
 - *άει* in many fixed and productive expressions, e.g., *άει πάγαινε*, *άει στο καλό*, *άει στο διάολο*, etc. It is assigned the lemma "άει".
-
+----------
 **Cretan**
 
 Occassionally, only a few or unique members of the inflectional paradigm of a verb are used, e.g.
