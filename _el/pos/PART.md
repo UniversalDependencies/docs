@@ -23,12 +23,12 @@ Hint: *όχι" / *ohi* "no/not" should be tagged as [PART]() and [Polarity=Neg](
 -	*πάρα*
 -	*μακάρι*
 
-να* is tagged [PART]():
+- να* is tagged [PART]():
   	-	elsewhere, e.g.,  *Λόλα*, <b>να</b> *ένα μήλο* "Lola, here is an apple.",
 
 	-	when it is used in an elliptical structure of “είναι” (to be), serving to point out or draw attention to something. This structure allows for two possibilities: expression with either the nominative or the accusative case. In both cases, the particle “να” is morphologically classified as [PART]() and syntactically as discourse, e.g., Να τον φίλο στο παλάτι “There’s the friend in the palace.”
 
-~~~ sdparse
+~~~ sdparse ~~~
 Να τον φίλο στο παλάτι
 root(ROOT, παλάτι)
 discourse(παλάτι, να)
