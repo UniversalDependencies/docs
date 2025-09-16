@@ -77,7 +77,7 @@ the finite verbal formations of Modern Greek; the latter preserve their normal t
 * _θα είχα γραφτεί.INF_ "Ι would have been written"
 
 ---------------------------
-Cretan
+**Cretan**
 
 -The (Eastern) Cretan dialect uses a distinctive periphrastic structure to express the future tense, which is not found in Standard Modern Greek (SMG). We annotated these structures as follows:
 e.g.
