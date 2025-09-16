@@ -74,7 +74,13 @@ advcl(στέκεται, αμίλητος)
 
 *που* may introduce ascriptive relative clauses  with a clause as antecedent (rather than a nominal): *Πρέπει να κοιμήθηκα ένα δεκάωρο περίπου,* <b>που</b> *για μένα είναι το απόλυτο θαύμα.* "It is likely that I slept for about 10 hours --- which  is an absolute miracle in my case." Here, the clause introduced by *που* depends with the relation [advcl:relcl]() on the clause headed by *κοιμήθηκα* "slept".
 
+We have a case where *να* introduces a subordinate clause, which is semantically equivalent to a conditional clause, where the event expressed by the condition is considered an extreme possibility, e.g., Και κομμάθια να.SCONJ με κάμεις.advcl, δε γίνεται. “Even if you tear me to pieces, it’s not possible.”  
 
+~~~ sdparse
+Και κομμάθια να με κάμεις, δε γίνεται
+mark(κάμεις, να)
+advcl(γίνεται, κάμεις)
+~~~
 
 <!---
 TODO: επιρρηματικές αναφορικές όπως/καθώς/όταν/σαν/όσο σου είπα
