@@ -84,10 +84,11 @@ The (Eastern) Cretan dialect uses a distinctive periphrastic structure to expres
 e.g.:
 *να πάω θέλει* “I will go”
 
-Annotation:
+~~~ sdparse
+θα πρέπει να τον συναντήσω
 aux(πάω, να)
 aux(θέλει, πάω)
-
+~~~
 ------------------------
 
 <!--
