@@ -38,7 +38,7 @@ If you are new to UD, you should start by reading the first part of the Short In
 <tr>
 <th colspan="3" style="text-align:left"><h3 style="margin-bottom: 0.25em">🚀 Projects related to UD</h3></th></tr>
 <tr><td colspan="3" style="padding-left: 1em">
- <a href="https://surfacesyntacticud.github.io/">SUD: Surface Syntactic Universal Dependencies</a> ▪
+ <a href="https://surfacesyntacticud.org/">SUD: Surface Syntactic Universal Dependencies</a> ▪
  <a href="https://ufal.mff.cuni.cz/deep-universal-dependencies">Deep Universal Dependencies</a> ▪
  <a href="https://universalpropositions.github.io/">Universal PropBank</a> ▪
  <a href="https://ufal.mff.cuni.cz/corefud">CorefUD: Coreference in Universal Dependencies</a> ▪
