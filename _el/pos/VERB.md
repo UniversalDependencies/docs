@@ -18,9 +18,7 @@ In UD.v2, the form of the verb that traditional grammars categorise as “partic
 1) a verb with the same meaning as the participle is in use synchronically
 2) the participle inherits the verb’s argument structure 
 
-Consider the form *αποφασισμένος* that is the passive participle of the (active) verb *αποφασίζω* “to decide”. 
-
-e.g. 
+e.g. Consider the form *αποφασισμένος* that is the passive participle of the (active) verb *αποφασίζω* “to decide”.  
 
 a. *Kαθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα* 
 "Α coordinating body was specified that was decided by all the parties"
@@ -33,7 +31,7 @@ Example A illustrates a participle that preserves the meaning of the morphologic
 Example B illustrates a participle that has a meaning different from the meaning of the synchronically used verb that is morphologically related to it. This participle is assigned the POS [ADJ]().
 
 
-e.g. *κερδισμένος* comes from the passive voice of the verb *κερδίζω* “to win”. 
+e.g. *Kερδισμένος* comes from the passive voice of the verb *κερδίζω* “to win”. 
 
 a.*Κερδισμένος ο πόντος από τον Γιάννη* “the point won.participle by John”
 
