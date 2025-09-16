@@ -33,9 +33,9 @@ A subordinating conjunction is a conjunction that links constructions by making 
 ~~~sdparse~~~
 mark(φάει, να)
 acl:relcl(βαφτισμένος, φάει)
-~~~sdparse~~~
-.
-  	 -  all other cases where clauses introduced by *να* function as adverbial modifiers and *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, παρά να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να*. The uniflected words are assigned their original tags and depend on *να* with the [fixed]() dependency, e.g.,  <b>Αντί</b>.[ADP]().[fixed]() <b>να</b> *της δώσει*.[advcl]() *τα παπούτσια στο χέρι, έκανε και παιδί μαζί της.* "<b>Rather than</b> sending.[advcl]() her packing, he had a child with her", *Με ακούει* <b>δίχως</b>.[ADP]().[fixed]() <b>να</b> *με διακόψει*.[advcl]() *με ερωτήσεις* "He listens to me <b>without</b> interrupting.[advcl]() me with questions", *τη ρωτάω*, <b>χωρίς</b>.<code>ADP</code>.[fixed]()   <b>να </b> μπω.[advcl]()  σε συζήτηση για την ανεπάρκεια του σιναφιού μας* "I ask her <b>without</b> opening.[advcl]()  a discussion about our trade's insufficiency"
+~~~
+
+  	-  all other cases where clauses introduced by *να* function as adverbial modifiers and *να* co-occurs with other uniflected words, e.g.,  *αντί να, δίχως να, παρά να, πριν να, σαν να, χωρίς να, ώσπου να,  ώστε να*. The uniflected words are assigned their original tags and depend on *να* with the [fixed]() dependency, e.g.,  <b>Αντί</b>.[ADP]().[fixed]() <b>να</b> *της δώσει*.[advcl]() *τα παπούτσια στο χέρι, έκανε και παιδί μαζί της.* "<b>Rather than</b> sending.[advcl]() her packing, he had a child with her", *Με ακούει* <b>δίχως</b>.[ADP]().[fixed]() <b>να</b> *με διακόψει*.[advcl]() *με ερωτήσεις* "He listens to me <b>without</b> interrupting.[advcl]() me with questions", *τη ρωτάω*, <b>χωρίς</b>.<code>ADP</code>.[fixed]()   <b>να </b> μπω.[advcl]()  σε συζήτηση για την ανεπάρκεια του σιναφιού μας* "I ask her <b>without</b> opening.[advcl]()  a discussion about our trade's insufficiency"
    
 -  *να* is tagged [AUX]() when it introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
 	
