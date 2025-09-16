@@ -27,6 +27,24 @@ parataxis(παραδεχτούμε, αποτύχαμε)
 parataxis(Ρίξε, κάνει)
 ~~~
 
+
+In the case of emphatic repetition of a term within a sentence, the repeated word depends on the primary one with a parataxis relationship.
+
+
+e.g., Μαζώχτρα βρήκε ο Μαθιός, μαζώχτρα. “Mathios found a hoarder, a hoarder.”
+
+~~~ sdparse
+Μαζώχτρα βρήκε ο Μαθιός, μαζώχτρα.
+parataxis(μαζώχτρα, μαζώχτρα)
+~~~
+
+e.g., Παράπονα έκανε στο Θιο ο Αδάμης, παράπονα. “Adam made complaints to God, complaints.”
+~~~ sdparse
+Παράπονα έκανε στο Θιο ο Αδάμης, παράπονα. 
+parataxis (παράπονα, παράπονα)
+~~~
+
+
 Parataxis is used when a noun modifies a clause.
 
 ~~~ sdparse
