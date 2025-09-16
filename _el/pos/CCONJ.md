@@ -24,5 +24,16 @@ For *subordinating* conjunctions, see [SCONJ]().
 * _αλλά_ "but", _όμως_, _ωστόσο_  "however, nevertheless, yet"
 * _μα_ "but" (only when it is used in the same way as "αλλά", e.g. _Είπε μα δεν τόλμησε_ "He said but didn't dare"). In other cases see INTJ.
 * _<b>είτε</b> εσύ <b>είτε</b> ο Παύλος_ "<b>either</b> you <b>or</b> Pavlos"
-* _<b>ούτε</b> εσύ <b>ούτε</b> ο Παύλος_ "<b>neither</b> you <b>nor</b> Pavlos" 
+* _<b>ούτε</b> εσύ <b>ούτε</b> ο Παύλος_ "<b>neither</b> you <b>nor</b> Pavlos"
+
+
+When "που" introduces a clause that is not syntactically subordinate to another, it is marked as CCONJ, e.g.,
+*Μη μου τηνε κάμεις , απού.CCONJ να 'χεις την ευκή του Θεού.* "Don't do it to me, just have God's blessing."
+
+~~~sdparse~~~
+Μη μου τηνε κάμεις , απού να 'χεις την ευκή του Θεού.
+cc(έχεις, απού)
+fixed(απού, να)
+~~~
+
 <!-- Interlanguage links updated So 10. května 2025, 18:13:42 CEST -->
