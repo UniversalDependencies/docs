@@ -22,7 +22,7 @@ Consider the form *αποφασισμένος* that is the passive participle of
 *…καθορίστηκε και ένα συντονιστικό, αποφασισμένο από όλα τα σχήματα*
 "...a coordinating body was specified that was decided by all the parties"
 
-*Ο Γιάννης είναι <b>αποφασισμένος<\b>*
+*Ο Γιάννης είναι αποφασισμένος*
 “John is determined”
 
 Example A illustrates a participle that preserves the meaning of the morphologically related verb that is in use synchronically. This participle is assigned the POS [VERB]().
