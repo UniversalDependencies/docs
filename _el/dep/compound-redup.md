@@ -18,6 +18,8 @@ Each word in a reduplication pair is assigned its corresponding POS. The first w
 compound:redup(πάνω-2, πάνω-1)
 ~~~
 
+For lexicalized multi-word items with repetition, e.g. *τσίμα τσίμα* we use [fixed]().
+
 ----------------
 **Cretan**
 
@@ -37,5 +39,5 @@ compound:redup(πατούλιες, πατούλιες)
 ~~~
 
 --------------------
-For lexicalized multi-word items with repetition, e.g. *τσίμα τσίμα* we use [fixed]().
+
 <!-- Interlanguage links updated So 10. května 2025, 18:15:14 CEST -->
