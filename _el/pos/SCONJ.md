@@ -50,7 +50,7 @@ acl:relcl(βαφτισμένος, φάει)
    
 -  *να* is tagged [AUX]() when it introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
 	
-- να* is tagged [PART]():
+- *να* is tagged [PART]():
   	-	elsewhere, e.g.,  *Λόλα*, <b>να</b> *ένα μήλο* "Lola, here is an apple.",
 
 	-	when it is used in an elliptical structure of “είναι” (to be), serving to point out or draw attention to something. This structure allows for two possibilities: expression with either the nominative or the accusative case. In both cases, the particle “να” is morphologically classified as [PART]() and syntactically as discourse, e.g., Να τον φίλο στο παλάτι “There’s the friend in the palace.”
