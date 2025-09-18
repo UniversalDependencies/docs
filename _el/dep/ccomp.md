@@ -43,7 +43,7 @@ The relative pronoun *όσος* may introduce clauses that depend on a verb with
 --------------
 **Cretan**
 
-In the case of the omission of the verb in a sentence introducing direct speech, a phenomenon common in oral language, the subject is promoted as the head of the main clause. The direct speech functions as a ccomp.
+In the case of the omission of the verb in a sentence introducing direct speech, a phenomenon common in oral language, the subject is promoted as the head of the main clause. The direct speech functions as a [ccomp]().
 
 Κι εγώ:« Ε, κερά, να μου μάθετε τσι γητειές;». "And I gο: 'Hey, madam, can you teach me the spells?”
 ~~~sdparse~~~
