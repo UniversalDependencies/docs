@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 Reduplication of adverbs, adjectives and nouns is productive in Modern Greek and is a way of intensification of the meaning. 
-Each word in a reduplication pair is assigned its corresponding POS. The first word in the pair is assigned the feature [Degree=Aug](). The second word depends on the first one with the compound:redup dependency.
+Each word in a reduplication pair is assigned its corresponding POS. The first word in the pair is assigned the feature [Degree=Aug](). The second word depends on the first one with the [compound:redup]() dependency.
  
 - *πάνω πάνω* Lit. *up up* "on the very top"
 - *πίσω πίσω* Lit. *back back* "at the very back", *σιγά σιγά* Lit. *slowly slowly* "very very slowly"
