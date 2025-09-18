@@ -23,15 +23,6 @@ ccomp(θέλει, αρχίσουν)
 xcomp(αρχίσουν, γράφουν)
 ~~~
 
-In the case of the omission of the verb in a sentence introducing direct speech, a phenomenon common in oral language, the subject is promoted as the head of the main clause. The direct speech functions as a ccomp.
-
-Κι εγώ:« Ε, κερά, να μου μάθετε τσι γητειές;». "And I gο: 'Hey, madam, can you teach me the spells?”
-~~~sdparse~~~
-Κι εγώ:« Ε, κερά, να μου μάθετε τσι γητειές;». 
-root(ROOT, εγώ)
-ccomp(εγώ, μάθετε)
-~~~
-
 The relative pronoun *όσος* may introduce clauses that depend on a verb with the [ccomp]() function as in the example in CONLLU format below. This example could be paraphrased to the fully synonymous *στο μάτι έβαλε η Τρόϊκα* όλους όσους *είναι κάτω από 62* "Troika targets those who are less than 62 years old" where the object *όλους" is explicit and the pronoun *όσους* has it as an explicit target.
 
 ~~~conllu
@@ -47,6 +38,20 @@ The relative pronoun *όσος* may introduce clauses that depend on a verb with
 9	από	από	ADP	AsPpSp	_	10	case	_	None=Yes
 10	62	62	NUM	DIG	Case=Gen|Gender=Masc|Number=Plur	3	ccomp	_	_
 ~~~
+
+
+--------------
+**Cretan**
+
+In the case of the omission of the verb in a sentence introducing direct speech, a phenomenon common in oral language, the subject is promoted as the head of the main clause. The direct speech functions as a ccomp.
+
+Κι εγώ:« Ε, κερά, να μου μάθετε τσι γητειές;». "And I gο: 'Hey, madam, can you teach me the spells?”
+~~~sdparse~~~
+Κι εγώ:« Ε, κερά, να μου μάθετε τσι γητειές;». 
+root(ROOT, εγώ)
+ccomp(εγώ, μάθετε)
+~~~
+-------------
 
 <!---
 <!-- Interlanguage links updated So 10. května 2025, 18:15:07 CEST -->
