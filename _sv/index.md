@@ -31,12 +31,12 @@ For more information, see the list of [Swedish POS tags](pos/index.html).
 
 ### Features
 
-* Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), [Definite]() (indefinite or definite) and [Case]() (nominative or genitive).
-* Verbs inflect for [Voice]() (active or passive). Finite forms in indicative mood in addition inflect for [Tense]() (present or past). There are three types of nonfinite forms: infinitives, participles (present and past), and supine (used to form perfect tenses together with the auxiliary *have*).
+* Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), [Definite]() (indefinite or definite) and [Case]() (nominative or genitive in modern Swedish; nominative, accusative, dative or genitive in earlier stages).
+* Verbs inflect for [Voice]() (active or passive). Finite forms in indicative mood in addition inflect for [Tense]() (present or past). (Finite forms do not agree with the subject in modern Swedish, but in earlier stages they agree in [Number]() and [Person]().) There are three types of nonfinite forms: infinitives, participles (present and past), and supine (used to form perfect tenses together with the auxiliary *have*). 
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](), [Number]() and [Definite]() (although some adjectives do not distinguish all features).  In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative) and for [Case]() (although the genitive case only occurs when an adjective is used to head a noun phrase).
 Participles in addition have the features VerbForm and Tense, and ordinal numerals are classified for NumType.
 * Adverbs inflect only for [Degree]().
-* Personal pronouns inflect for [Case]() with three values (nominative, accusative, genitive).
+* Personal pronouns inflect for [Case]() with three values in modern Swedish: nominative, accusative, genitive (with the dative added in earlier stages). 
 * Determiners agree with nouns in the same way as adjectives.
 
 For more information, see the list of [Swedish features](feat/index.html).
