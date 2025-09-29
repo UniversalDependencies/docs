@@ -11,17 +11,19 @@ In Lithuanian, only **compound numerals** composed of multiple words **without a
 The **rightmost numeral** is taken as the head, and the other numerals are attached to it as its modifiers.
 
 ~~~ sdparse
-Šimtas penkiasdešimt penki žmonės . \n One-hundred fifty-five people .
+Šimtas penkiasdešimt penki žmonės . \n One-hundred fifty five people .
 compound(penki, Šimtas)
 compound(penki, penkiasdešimt)
 compound(five, One-hundred)
-compound(five, fifty-five)
+compound(five, fifty)
 ~~~
 
 ~~~ sdparse
-Šimtas šešiasdešimt aštuoni namai . \n One-hundred sixty-eight houses .
+Šimtas šešiasdešimt aštuoni namai . \n One-hundred sixty eight houses .
 compound(aštuoni, Šimtas)
 compound(aštuoni, šešiasdešimt)
+compound(eight, One-hundred)
+compound(eight, sixty)
 ~~~
 
 ### Distinction from other relations
@@ -40,7 +42,7 @@ nummod:gov(euros, thousand)
 
 ~~~ sdparse
 Penki šimtai eurų . \n Five hundred euros .
-nummod:gov(šimtai, penki)
+nummod:gov(šimtai, Penki)
 nummod:gov(eurų, šimtai)
 nummod(hundred, Five)
 nummod(euros, hundred)
