@@ -11,7 +11,7 @@ nouns.
 
 ### <a name="Com">`Com`</a>: common gender
 
-Swedish does not distinguish masculine/feminine most of the time but does distinguish neuter vs. non-neuter (neutrum/utrum). The non-neuter is called common gender. The common gender also includes the old masculine form.
+Modern Swedish does not distinguish masculine/feminine most of the time but does distinguish neuter vs. non-neuter (neutrum/utrum). The non-neuter is called common gender. The common gender also includes the old masculine form when it occurs in modern Swedish.
 
 #### Examples
 
@@ -26,5 +26,25 @@ Nouns and other parts of speech that are neither masculine nor feminine (grammat
 #### Examples
 
 * [sv] _<b>fullt bostadstillägg</b>_ "full housing supplement"
-* [sv] _<b>det</b> första <b>kravet</b>_ "the first <b>requirement"
+* [sv] _<b>det</b> första <b>kravet</b>_ "the first requirement"
+
+### <a name="Masc">`Masc`</a>: masculine gender
+
+Nouns and other parts of speech that are masculine (grammatically); found mainly in older Swedish and dialects.
+
+#### Examples
+
+* [sv] _<b>væfer</b>_ "weave" (masculine nominative singular)
+* [sv] _<b>lækir</b> "doctor" (masculine nominative singular)
+
+### <a name="Fem">`Fem`</a>: feminine gender
+
+Nouns and other parts of speech that are feminine (grammatically); found only in older Swedish and dialects.
+
+#### Examples
+
+* [sv] _<b>ø</b>_ "island" (feminine nominative singular)
+* [sv] _<b>natt</b>_ "night" (feminine nominative singular)
+
+
 <!-- Interlanguage links updated So 10. května 2025, 18:14:08 CEST -->
