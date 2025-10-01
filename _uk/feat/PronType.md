@@ -60,6 +60,12 @@ These are to some extent parallel to interrogatives.
 * _тоді&nbsp;_ “then”
 * _так&nbsp;_ “so”
 
+### <a name="Emp">`Emp`</a>: emphatic determiner
+
+#### Examples
+
+* _самий&nbsp;_ as in _Це такий **самий** злочин.&nbsp;_ “This is the same crime.”
+
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun, determiner or adverb
 
 #### Examples
