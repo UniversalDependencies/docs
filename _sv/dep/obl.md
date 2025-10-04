@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 The `obl` relation is used for non-core nominal dependents of clausal
-predicates. In Swedish, `nmod` is used for prepositional complements/modifiers:
+predicates. In Swedish, `obl` is used for prepositional complements/modifiers:
 
 ~~~ sdparse
 Mamma har hand om barnen \n Mother takes care of the children
