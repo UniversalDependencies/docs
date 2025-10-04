@@ -24,6 +24,7 @@ udver: '2'
 
   * [UniDive COST Action](https://www.cost.eu/actions/CA21167/) is a joint project of Universal Dependencies and PARSEME, seeking to reach to other communities, such as UniMorph
     * [UniDive home page](https://unidive.lisn.upsaclay.fr/)
+  * Note: [5th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw21/), originally planned for November 2021, was postponed due to the pandemic and took place in March 2022
 
 ## 2021
 
