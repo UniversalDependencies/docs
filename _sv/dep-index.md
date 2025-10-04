@@ -6,6 +6,6 @@ generated: 'true'
 permalink: sv/dep/index.html
 ---
 
-# Dependencies
+# Dependency Relations
 
 {% include sv-dep-table.html %}
