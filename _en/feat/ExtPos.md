@@ -10,7 +10,7 @@ This feature indicates the effective UPOS of an expression when it differs from 
 In English, only heads of a [`fixed`](https://universaldependencies.org/en/dep/fixed.html) relation 
 and a small number of multiword proper names employ the feature, though in the future it may be broadened.
 
-`ExtPos` is also used in the [SUD](https://surfacesyntacticud.github.io/) framework.
+`ExtPos` is also used in the [SUD](https://surfacesyntacticud.org/) framework.
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 

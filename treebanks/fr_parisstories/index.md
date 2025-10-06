@@ -54,7 +54,7 @@ For an assignment, students had to record a friend or a relative sharing an anec
 The corpus was created for the study of contemporary spoken French and to train a syntactic parser for spoken French.
 All data has been morpho-syntactically annotated following the SUD (Surface Syntactic Universal Dependencies) guidelines.
 
-See SUD Guidelines : https://surfacesyntacticud.github.io/guidelines/u/
+See SUD Guidelines : https://guidelines.surfacesyntacticud.org/
 
 The Treebank can be found here : http://match.grew.fr/?corpus=SUD_French-ParisStories@latest
 
@@ -110,7 +110,7 @@ Topics : first encounters, funny/unusual stories
 
 ## Development
 
-The corpus is maintained [here](https://github.com/surfacesyntacticud/SUD_French-ParisStories) in the [SUD](https://surfacesyntacticud.github.io/) framework and automatically converter into UD using the [Grew](https://grew.fr) software with the conversions rules described [here](https://github.com/surfacesyntacticud/tools/tree/master/converter).
+The corpus is maintained [here](https://github.com/surfacesyntacticud/SUD_French-ParisStories) in the [SUD](https://surfacesyntacticud.org/) framework and automatically converter into UD using the [Grew](https://grew.fr) software with the conversions rules described [here](https://github.com/surfacesyntacticud/tools/tree/master/converter).
 
 ## Data Split
 

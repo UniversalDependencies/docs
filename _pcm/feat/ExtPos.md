@@ -9,7 +9,7 @@ This feature indicates, for the head of a [fixed expression](https://universalde
 the effective UPOS of the full expression when it differs from the UPOS of the word itself.
 Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 
-`ExtPos` is used in the [SUD](https://surfacesyntacticud.github.io/) framework.
+`ExtPos` is used in the [SUD](https://surfacesyntacticud.org/) framework.
 It is kept in FEATS in the UD conversion.
 
 ### <a name="ADJ">`ADJ`</a>: adjective-like expression

@@ -71,7 +71,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ## Syntax
 
- * The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/).
+ * The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://guidelines.surfacesyntacticud.org/).
  * Zaar is mostly a SVO language. The only exception is found in the progressive Aspect, where the direct object of precedes the nominalized verb (a Vnoun). 
  * Zaar is a prodrop language with a strong proportion of dislocated subjects and complements. In addition to a possible independent lexical or pronominal subject (tagged `nsubj`), the `AUX` contains agreement features for `Person` and `Number`. 
  * We have direct object with `obj`, indirect object with `iobj`.

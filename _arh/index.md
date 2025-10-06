@@ -44,7 +44,7 @@ Absolutive was assigned to subjects of intransitive verbs and (direct) objects.
 
 ## Syntax
 
-The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/).
+The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://guidelines.surfacesyntacticud.org/).
 Ika is a verb final language in which other argument orders are possible depending on the information structure (OSV, OVS, SVO).
 Ika is a prodrop language; every argument can be dropped. In addition to a possible independent lexical or pronominal subject (tagged nsubj), the VERB contains agreement features for Person.
 We have direct object with obj, indirect object with iobj.

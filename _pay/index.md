@@ -36,7 +36,7 @@ Appl = Applicative for the Valency feature
 
 ## Syntax
 
-The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/).
+The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://guidelines.surfacesyntacticud.org/).
 Pesh is a verb final language in which other word orders are possible depending on the information structure.
 Pesh is a prodrop language. In addition to a possible independent lexical or pronominal subject (tagged nsubj), the VERB contains agreement features for Person.
 We have direct object with obj, indirect object with iobj.

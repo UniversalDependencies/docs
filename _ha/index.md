@@ -42,7 +42,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ## Syntax
 
-* The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/).
+* The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://guidelines.surfacesyntacticud.org/).
 * Hausa is a SVO language. 
 * Hausa is a prodrop language with a strong proportion of dislocated subjects and complements. In addition to a possible independent lexical or pronominal subject (tagged `nsubj`), the `AUX` contains agreement features for `Person` and `Number`.
 * We have direct object with `obj`, indirect object with `iobj`.

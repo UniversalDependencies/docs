@@ -39,7 +39,7 @@ Verbs are further specified for transitivity.
 
 ## Syntax
 
-The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/).
+The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://guidelines.surfacesyntacticud.org/).
 Bokota is an SOV language in which other word orders are possible depending on the information structure.
 In Bokota, subjects and objects are strongly restricted to the preverbal domain. 
 The behaviour of auxiliaries allows to desambiguate the reference in the preverbal domain where a strict S AUX OV order is expected.

@@ -45,7 +45,7 @@ A treebank of Chinese sentences adapted for learner of level A1 to C1 (HSK1 to 5
 
 
 
-The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines : https://surfacesyntacticud.github.io/guidelines/u/
+The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines : https://guidelines.surfacesyntacticud.org/
 
 ## Structure of the Treebank
 The Treebank is partitioned in 5 parts A1, A2, B1, B2 and C1 that represents different level of difficulty (from easiest to hardest).
