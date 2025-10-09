@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Aspect` is a feature of [auxiliaries](naq-pos/AUX_). Aspect is a feature that specifies duration of the action in time, whether the action has been completed or not.
+In Khoekhoe, `Aspect` is a feature of [auxiliaries](naq-pos/AUX). Aspect is a feature that specifies duration of the action in time, whether the action has been completed or not.
 
 ### <a name="Imp">`Imp`</a>: imperfective aspect
 

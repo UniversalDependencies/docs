@@ -23,7 +23,7 @@ Used for subject person-gender-number clitics, clause subjects in the place of p
 
 #### Examples
 
-* _<b>Petrub</b> ge <b>oms<b> ǃnâ go ǂgâ._ "**Peter** entered into the **house**."
+* _<b>Petrub</b> ge <b>oms</b> ǃnâ go ǂgâ._ "**Peter** entered into the **house**."
 
 * _O<b>b</b> ge ǁnâuǃgâǃkhaiba sida ǃoa nē ǁhōba go ao._ "Then the **court** tossed his matter to us."
 

@@ -26,6 +26,7 @@ A relative clause modifier of a nominal is a clause that modifies the nominal, w
 4	on	_	_	_	_	3	case	_	_
 5	stand	_	_	_	_	1	acl:relcl	_	_
 6	3M.SG	_	_	_	_	5	nsubj	1:ref	_
+
 ~~~
 
 ~~~ conllu
@@ -38,6 +39,7 @@ A relative clause modifier of a nominal is a clause that modifies the nominal, w
 1	alone	_	_	_	_	2	advmod	_	_
 2	stand	_	_	_	_	3	acl:relcl	_	_
 3	incident	_	_	_	_	0	root	2:nsubj	_
+
 ~~~
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:45 CEST -->

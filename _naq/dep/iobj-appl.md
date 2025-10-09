@@ -1,4 +1,4 @@
-w---
+---
 layout: relation
 title: 'iobj:appl'
 shortdef: 'applied indirect object'

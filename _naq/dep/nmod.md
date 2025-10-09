@@ -11,7 +11,7 @@ The `nmod` relation is used for nominal dependents of another noun or noun phras
 Marias ǃoagu sunub \n Maria opposite side
 nmod(sanub, Marias)
 case(Marias, ǃoagu)
-nmod(side, Maria)
+nmod(side, Marias)
 case(Maria, opposite)
 ~~~
 

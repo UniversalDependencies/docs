@@ -11,7 +11,7 @@ A marker is the word marking a clause as subordinate to another clause. For a [c
 Tita ge ǃâu ǁoa Manhattansa ǃoa oa sa . \n I DECL wait unable Manhattan to return NMLZ.OBL .
 mark(oa, sa)
 xcomp(ǃâu, oa)
-mark(return, NMLZ)
+mark(return, NMLZ.OBL)
 xcomp(wait, return)
 ~~~
 

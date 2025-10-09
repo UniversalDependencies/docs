@@ -28,8 +28,8 @@ acl(ashtray.3M.SG, stand)
 ~~~
 
 ~~~ sdparse
-ǀguri hâ tsūǃgâ-i \n alone stand incident'
-acl(tsūǃgâ-i, stand)
-acl(incident, hâ)
+ǀguri mâ tsūǃgâ-i \n alone stand incident'
+acl(tsūǃgâ-i, mâ)
+acl(incident, stand)
 ~~~
 <!-- Interlanguage links updated So 10. května 2025, 18:14:43 CEST -->

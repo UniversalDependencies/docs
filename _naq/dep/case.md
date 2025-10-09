@@ -18,7 +18,7 @@ Note, quotative _ti_, when it is used for labels, and possessive _di_ are analys
 ~~~ sdparse
 Nē ǁgabas ge 'Kompas' ti ra ǂgaihe . \n This tool DECL 'Compass' QUOT IPFV be_called .
 case('Kompas', ti)
-case('compass', QUOT)
+case('Compass', QUOT)
 ~~~
 
 ~~~ sdparse

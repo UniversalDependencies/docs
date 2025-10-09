@@ -35,7 +35,7 @@ cc(ra, tsî-4)
 conj(Maras, ra)
 cc(Sara, and-13)
 conj(Mara, Sara)
-cc(3F.DU.SBJ, and-15)
+cc(3F.DU, and-15)
 conj(Mara, 3F.DU)
 ~~~
 
@@ -43,7 +43,7 @@ A coordinating conjunction may also appear at the beginning of a sentence. This 
 
 ~~~ sdparse
 Tsî nēs ge ǀgui mîǁguiba . \n And this DECL one claim .
-cc(mîǁguiba, tsî)
-cc(claim, and)
+cc(mîǁguiba, Tsî)
+cc(claim, And)
 ~~~
 <!-- Interlanguage links updated So 10. května 2025, 18:15:06 CEST -->

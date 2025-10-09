@@ -8,7 +8,7 @@ udver: '2'
 A passive nominal subject is a noun phrase that is the syntactic subject of a passive clause.
 
 ~~~ sdparse
-Petrub ge Marias xa ge mîǁam-he . \n Peter DECL Maria by PST be_offended .
+Petrub ge Marias xa ge mîǁamhe . \n Peter DECL Maria by PST be_offended .
 nsubj:pass(mîǁamhe, Petrub)
 obl:agend(mîǁamhe, Marias)
 case(Marias, xa)

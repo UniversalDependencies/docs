@@ -23,9 +23,9 @@ iobj(give, him)
 
 When verbs occur with one object, it is `iobj` if:
 
-    * Another, more patient-like object may be inserted into the clause without affecting the morphosyntax of the object in question
+* Another, more patient-like object may be inserted into the clause without affecting the morphosyntax of the object in question
     
-    * The verb licenses the object in combination with a [ccomp](naq-dep/ccomp) (the [ccomp](naq-dep/ccomp) may be analyzed as taking the place of an [obj](naq-dep/obj))
+* The verb licenses the object in combination with a [ccomp](naq-dep/ccomp) (the [ccomp](naq-dep/ccomp) may be analyzed as taking the place of an [obj](naq-dep/obj))
     
 For example, the verb _ǁkhāǁkhā_ "teach" may occur with [obj](naq-dep/obj), `iobj`, or both:
 
@@ -51,7 +51,7 @@ obj(teach, economics)
 
 ~~~ sdparse
 ǁîb ge ǁîna ra ǁkhāǁkhā , mati i ǀaena ra nî ǀaere sa . \n He DECL them IPFV teach , how it firewood IPFV will collect NMLZ.OBL .
-ccomp(ǁkhāǁkhā, ǀaeresa)
+ccomp(ǁkhāǁkhā, ǀaere sa)
 iobj(ǁkhāǁkhā, ǁîna)
 ccomp(teach, collect)
 iobj(teach, them)
