@@ -15,7 +15,7 @@ The `fixed` relation is used for certain fixed grammaticized expressions. Such e
     
 Fixed MWEs are annotated in a flat structure, where all subsequent words in the expression are attached to the first one using the `fixed` label. The assumption is that these expressions do not have any internal syntactic structure (except from a historical perspective) and that the structural annotation is in principle arbitrary.
 
-~~~sdparse
+~~~ sdparse
 Î , hî-î , tama/[ExtPos=CONJ] s ka i o ǁkha ts a s kōse . \n Yes , no , or1 or2 or3 or4 or5 can you STAT.PRS NMLZ until .
 fixed(tama, s)
 fixed(tama, ka)
