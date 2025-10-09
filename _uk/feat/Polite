@@ -1,1 +1,23 @@
+---
+layout: feature
+title: 'Polite'
+shortdef: 'politeness'
+udver: '2'
+---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Form">Form</a></td>
+</tr>
+</table>
+
+A formal register of communication used to express politeness and respect. In Ukrainian, this applies to the second-person singular pronoun ‘Ви’ (capitalised in personal correspondence), which formally coincides with the second-person plural pronoun ‘ви’, but functions as a polite form of address to one person.
+The formal ‘Ви’ is morphologically identical to the second-person plural pronoun, so the feature ‘Polite=Form’ is used to distinguish between them. 
+In informal communication, the pronoun ‘ти’ (you-singular-informal) is used, which is not marked with the feature ‘Polite’.
+
+### <a name="Form">`Form`</a>: formal register
+
+#### Examples
+
+* [uk] _<b>Дякую вам, пане!</b>_ “Thank you, sir!”
