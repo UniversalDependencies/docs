@@ -21,7 +21,7 @@ Coordinate clauses are treated the same way as coordination of other constituent
 ~~~ sdparse
 Lhohn mohn gali churi mathamme . \n Alcohol drink and cigarette smoke
 cc(mathamme, gali)
-conj(mahn, mathamme)
+conj(mohn, mathamme)
 cc(smoke, and)
 conj(drink, smoke)
 ~~~
@@ -29,7 +29,7 @@ conj(drink, smoke)
 In Naga-Suansu `conj` relation is also used for correlative clauses relations.
 
 ~~~ sdparse
-Re rema nahn . \n come come.NEG you . \n Either you come or not
+Re rema nahn . \n Come come.NEG you . \n Either you come or not
 conj(Re, rema)
 nsubj(Re, nahn)
 conj(Come, come.NEG)

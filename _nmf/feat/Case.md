@@ -120,7 +120,7 @@ The genitive and topic markers can be combined.
 
 #### Examples
 
-* _<b>Avadi</b> kappa rike. "Let **me** finnish"
+* _<b>Avadi</b> kappa rike._ "Let **me** finnish"
 
 ### <a name="DatErg">`DatErg`</a>: dative ergative
 
