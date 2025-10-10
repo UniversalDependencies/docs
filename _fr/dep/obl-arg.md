@@ -1,6 +1,7 @@
+---
 layout: relation
 title: 'obl:arg'
-shortdef: 'argumenr'
+shortdef: 'argument'
 udver: '2'
 ---
 
