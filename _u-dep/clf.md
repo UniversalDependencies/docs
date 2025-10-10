@@ -79,6 +79,27 @@ det(bus, this)
 clf(this, CLF)
 ~~~
 
+Similarly in Thai: “Physicians don't have these tools.”
+
+~~~ sdparse
+แพทย์ ไม่ มี เครื่องมือ เหล่า นี้ \n bʰæːdʰy mạì miː gʰeːrǜː'ŋmüː' heːlàː nîː \n physician not have tool CLF this
+nsubj(มี, แพทย์)
+advmod(มี, ไม่)
+obj(มี, เครื่องมือ)
+clf(นี้, เหล่า)
+det(เครื่องมือ, นี้)
+nsubj(miː, bʰæːdʰy)
+advmod(miː, mạì)
+obj(miː, gʰeːrǜː'ŋmüː')
+clf(nîː, heːlàː)
+det(gʰeːrǜː'ŋmüː', nîː)
+nsubj(have, physician)
+advmod(have, not)
+obj(have, tool)
+clf(this, CLF)
+det(tool, this)
+~~~
+
 Classifier words also occur in various other constructions, and so it is important to distinguish the word in a particular
 language from the universal classifier function proposed in UD. We go here through some further examples with Chinese classifiers.
 
