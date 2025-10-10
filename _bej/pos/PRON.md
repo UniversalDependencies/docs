@@ -7,7 +7,7 @@ udver: '2'
 
 ### Definition
 
-Pronouns are words that substitute for [nouns]() or noun phrases.
+Pronouns are words that substitute for [nouns](NOUN) or noun phrases.
 Their meaning is recoverable from the linguistic or extralinguistic context.
 Pronoun can also be clitics, affixes.
 

@@ -14,8 +14,8 @@ udver: '2'
   <td><a href="#Neg">Neg</a></td></tr>
 </table>
 
-Polarity is typically a feature of [verbs](pos/VERB),
-[auxiliary](pos/AUX) and [particle](pos/PART) in Beja that negate using bound
+Polarity is typically a feature of [verbs](bej-pos/VERB),
+[auxiliary](bej-pos/AUX) and [particle](bej-pos/PART) in Beja that negate using bound
 morphemes.
 
 ### <a name="Neg">`Neg`</a>: negative
