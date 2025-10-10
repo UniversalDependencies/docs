@@ -229,6 +229,10 @@ of the other treebanks for the language.
 * [Auxiliaries](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl):
   Register and document lemmas that can be tagged [AUX]() in the given language. The lemma of the copula is also
   registered here and must be labeled as copula, otherwise the relation [cop]() cannot be used with it.
+* [Tokens with spaces](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_token_with_space.pl)
+  if they are exceptionally allowed in the language, must be specified using regular expressions.
+  This should be always a limited phenomenon, not allowed for all tokens in the language (unless the language is
+  Vietnamese).
 
 ## Old-Style Documentation
 
