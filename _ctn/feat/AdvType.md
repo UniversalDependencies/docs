@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Met">Met</a></td>
   <td><a href="#Mod">Mod</a></td>
+  <td><a href="#Per">Per</a></td>
   <td><a href="#Qua">Qua</a></td>
 </tr>
 </table>
@@ -35,6 +36,12 @@ udver: '2'
 * 
 
 ### <a name="Mod">`Mod`</a>: modalis
+
+#### Examples
+
+* 
+
+### <a name="Per">`Per`</a>: permanent
 
 #### Examples
 
