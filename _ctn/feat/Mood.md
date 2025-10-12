@@ -49,19 +49,19 @@ udver: '2'
 
 * 
 
-### <a name="ConImp">`ConImp `</a>: conative imperative
+### <a name="ConImp">`ConImp`</a>: conative imperative
 
 #### Examples
 
 * 
 
-### <a name="ConOptSub">`ConOptSub `</a>: conative optative subjunctive
+### <a name="ConOptSub">`ConOptSub`</a>: conative optative subjunctive
 
 #### Examples
 
 * 
 
-### <a name="ConSub">`ConSub `</a>: conative subjunctive
+### <a name="ConSub">`ConSub`</a>: conative subjunctive
 
 #### Examples
 
