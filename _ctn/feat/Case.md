@@ -62,7 +62,7 @@ udver: '2'
 
 * 
 
-### <a name="AbsErg">`Erg`</a>: absolutive ergative
+### <a name="AbsErg">`AbsErg`</a>: absolutive ergative
 
 #### Examples
 

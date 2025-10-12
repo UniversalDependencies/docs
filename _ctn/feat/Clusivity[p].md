@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Clusivity'
+title: 'Clusivity[p]'
 shortdef: 'clusivity agreement with patient'
 udver: '2'
 ---
