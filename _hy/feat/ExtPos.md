@@ -107,4 +107,10 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [fr] _<b>bien que</b>_ “although” (_bien_ = `ADV`)
 
+### <a name="PART">`PART`</a>: particle-like expression
+
+#### Examples
+
+* [hy] _
+
 <!-- Interlanguage links updated So 10. května 2025, 18:14:06 CEST -->
