@@ -11,13 +11,12 @@ udver: '2'
   <td><a href="#Assoc">Assoc</a></td>
   <td><a href="#Coll">Coll</a></td>
   <td><a href="#Plur">Plur</a></td>
+  <td><a href="#Ptan">Ptan</a></td>
   <td><a href="#Sing">Sing</a></td>
 </tr>
 </table>
 
 In Armenian, `Number` is a feature of [nouns](NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](PRON), and [verbs](VERB). 
-
-Some geographical or biological/botanical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “The Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”, _<b>կատվազգիներ</b>_ “Felidae”, _<b>վարդազգիներ</b>_ “Rosaceae”) even though they denote one thing (semantic singular). We don’t mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
 
 ### <a name="Sing">`Sing`</a>: singular number
 
@@ -57,6 +56,17 @@ Demonstrative pronouns that refer to plural nouns, but not demonstrative determi
 * _<b>սրանք</b>_ “these”
 * _<b>դրանք</b>_ “those (medial)”
 * _<b>նրանք</b>_ “those”
+
+### <a name="Ptan">`Ptan`</a>: plurale tantum
+
+Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). We mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like singulars, so `Ptan` is obviously the back-off value here.
+
+#### Examples
+
+* _<b>Ալպեր</b>_ “The Alps”
+* _<b>Ապալաչներ</b>_ “Appalachian Mountains”
+* _<b>կատվազգիներ</b>_ “Felidae”
+* _<b>վարդազգիներ</b>_ “Rosaceae”
 
 ### <a name="Assoc">`Assoc`</a>: associative plural
 
