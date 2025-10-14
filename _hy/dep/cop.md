@@ -10,8 +10,8 @@ the copular verb _<b>եմ</b>,_ “to be”. The verbs _դառնալ, թվալ, 
 are not analyzed as `cop`.
 
 We normally take a copula as a dependent of its complement (the nominal predicate).
-The nominal predicate is usually a [noun](NOUN), an [adjective](ADJ), a [pronoun](PRON)
-or a <a href="../feat/VerbForm.html#Part">participle</a>.
+The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjective](ADJ), an [adverb](ADV),
+or an <a href="../feat/VerbForm.html#inf-infinitive">infinitive</a>.
 
 ~~~ sdparse
 Արամը ազնիվ մարդ է ։ \n Aram is honest man .
@@ -47,12 +47,12 @@ aux(բանաստեղծ, եղել)
 aux(poet, has)
 ~~~
 
-Note that subject participle and infinitive can also be used as nominal predicate with copula.
+Note that infinitive can also be used as nominal predicate with copula.
 
 ~~~ sdparse
-Նա հարբեցող է ։ \n He is a-drunkard .
-cop(հարբեցող, է)
-cop(a-drunkard, is)
+Որոնց նպատակը դիմացինին ոչնչացնելն է ։ \n Whose goal is to destroy the other person .
+cop(ոչնչացնելն, է)
+cop(to-destroy, is)
 ~~~
 
 The nominal predicate may also be expressed using a prepositional phrase, in which the nominal part is the head of the clause.
