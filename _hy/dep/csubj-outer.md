@@ -23,6 +23,7 @@ See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-
 10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=ē|LTranslit=em
 11	առաջացնում	առաջացնել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=aṙaǰac’nowm|LTranslit=aṙaǰac’nel|SpaceAfter=No
 12	:	:	PUNCT	_	Foreign=Yes	11	punct	_	Translit=.|LTranslit=.
+
 ~~~
 
 
@@ -41,5 +42,6 @@ Plain [csubj]() (or another subtype) will be appropriate if the copular clause p
 6	կապի	կապ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	nmod:poss	_	Translit=kapi|LTranslit=kap
 7	օրինակ	օրինակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	Translit=òrinak|LTranslit=òrinak|SpaceAfter=No
 8	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+
 ~~~
 <!-- Interlanguage links updated So 10. května 2025, 18:15:20 CEST -->
