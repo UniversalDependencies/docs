@@ -33,7 +33,7 @@ The `:outer` subtype is *not* intended for most clausal subjects of copular clau
 Plain [csubj]() (or another subtype) will be appropriate if the copular clause predicate is a nominal, adjective, etc.:
 
 ~~~ conllu
-# visual-style 1 3 csubj:outer color:blue
+# visual-style 1 3 csubj color:blue
 1	Կարելի	կարելի	ADJ	_	_	0	root	_	Translit=Kareli|LTranslit=kareli
 2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	Translit=ē|LTranslit=em
 3	բերել	բերել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	csubj	_	Translit=berel|LTranslit=berel
