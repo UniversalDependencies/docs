@@ -8,11 +8,35 @@ udver: '2'
 Armenian uses `flat:range` for numerical, spacial and time ranges.
 
 ~~~ conllu
-# visual-style 2 4 flat:range color:blue
+# visual-style 1 2 flat:range color:blue
+1	18	18	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	Translit=18|LTranslit=18
+2	19	19	NUM	_	NumForm=Digit|NumType=Card	1	flat:range	_	Translit=19|LTranslit=19
+3	տարեկան	տարեկան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nmod	_	Translit=tarekan|LTranslit=tarekan
+4	ջահելներ	ջահել	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur|Style=Slng	0	root	_	Translit=ǰahelner|LTranslit=ǰahel
+5	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	cop	_	Translit=ēin|LTranslit=em|SpaceAfter=No
+6	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+~~~ conllu
+# visual-style 1 3 flat:range color:blue
+1	Արփա	Արփա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	4	nmod:poss	_	Translit=Arp’a|LTranslit=Arp’a|SpaceAfter=No
+2	—	—	PUNCT	_	_	3	punct	_	Translit=—|LTranslit=—|SpaceAfter=No
+3	Սևանի	Սևան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	1	flat:range	_	Translit=Sewani|LTranslit=Sewan
+4	Մարտունու	Մարտունի	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	6	nmod:poss	_	Translit=Martownow|LTranslit=Martowni
+5	հատուկ	հատուկ	ADJ	_	Degree=Pos	6	amod	_	Translit=hatowk|LTranslit=hatowk
+6	տեղամաս	տեղամաս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=teġamas|LTranslit=teġamas
+
+~~~
+
+When components are parties to a bilateral relationship, `flat` relation is used.
+
+~~~ conllu
+# visual-style 2 4 flat color:blue
 1	Սոչիում	Սոչի	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	5	nmod:npmod	_	Translit=Sočiowm|LTranslit=Soči
 2	Պուտին	Պուտին	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	5	nmod	_	Translit=Powtin|LTranslit=Powtin|SpaceAfter=No
 3	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-4	Էրդողան	Էրդողան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	2	flat:range	_	Translit=Ērdoġan|LTranslit=Ērdoġan
+4	Էրդողան	Էրդողան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	2	flat	_	Translit=Ērdoġan|LTranslit=Ērdoġan
 5	համաձայնությունները	համաձայնություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	10	nsubj	_	Translit=hamajaynowt’yownnerë|LTranslit=hamajaynowt’yown
 6	Իրանի	Իրան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	10	obl	_	Translit=Irani|LTranslit=Iran
 7	մոտ	մոտ	ADP	_	AdpType=Post	6	case	_	Translit=mot|LTranslit=mot
@@ -23,14 +47,5 @@ Armenian uses `flat:range` for numerical, spacial and time ranges.
 
 ~~~
 
-~~~ conllu
-# visual-style 1 2 flat:range color:blue
-1	18	18	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	Translit=18|LTranslit=18
-2	19	19	NUM	_	NumForm=Digit|NumType=Card	1	flat:range	_	Translit=19|LTranslit=19
-3	տարեկան	տարեկան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nmod	_	Translit=tarekan|LTranslit=tarekan
-4	ջահելներ	ջահել	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur|Style=Slng	0	root	_	Translit=ǰahelner|LTranslit=ǰahel
-5	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	cop	_	Translit=ēin|LTranslit=em|SpaceAfter=No
-6	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-~~~
 <!-- Interlanguage links updated So 10. května 2025, 18:15:35 CEST -->
