@@ -10,7 +10,7 @@ to signal that it is not the subject of the nested clause.
 See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-clauses).
 
 ~~~ conllu
-# visual-style 6 11 csubj:outer color:blue
+# visual-style 11 6 csubj:outer color:blue
 1	Այն	այն	PRON	_	Deixis=Remt|PronType=Dem	11	nsubj	_	Translit=Ayn|LTranslit=ayn|SpaceAfter=No
 2	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
 3	որ	որ	SCONJ	_	_	6	mark	_	Translit=or|LTranslit=or
