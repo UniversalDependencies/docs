@@ -41,7 +41,7 @@ Armenian uses `flat:range` for numerical, spacial and time ranges.
 8	տարվա	տարի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	12	nmod:poss	_	Translit=tarva|LTranslit=tari
 9	ապրիլ	ապրիլ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	nmod	_	Translit=april|LTranslit=april|SpaceAfter=No
 10	-	-	PUNCT	_	_	11	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-11	մայիս	մայիս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	flat	_	Translit=mayis|LTranslit=mayis
+11	մայիս	մայիս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	flat:range	_	Translit=mayis|LTranslit=mayis
 12	ամիսներից	ամիս	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	6	obl	_	Translit=amisneric’|LTranslit=amis|SpaceAfter=No
 13	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
