@@ -29,6 +29,24 @@ Armenian uses `flat:range` for numerical, spacial and time ranges.
 
 ~~~
 
+~~~ conllu
+# visual-style 9 11 flat:range color:blue
+1	Հայրենասերների	հայրենասեր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	2	nmod:poss	_	Translit=Hayrenaserneri|LTranslit=hayrenaser
+2	պայքարը	պայքար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	6	nsubj	_	Translit=payk’arë|LTranslit=payk’ar
+3	նոր	նոր	ADJ	_	Degree=Pos	4	amod	_	Translit=nor|LTranslit=nor
+4	ծավալ	ծավալ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	obj	_	Translit=çaval|LTranslit=çaval
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em
+6	ընդունել	ընդունել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ëndownel|LTranslit=ëndownel
+7	այս	այս	DET	_	Deixis=Prox|PronType=Dem	8	det	_	Translit=ays|LTranslit=ays
+8	տարվա	տարի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	12	nmod:poss	_	Translit=tarva|LTranslit=tari
+9	ապրիլ	ապրիլ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	nmod	_	Translit=april|LTranslit=april|SpaceAfter=No
+10	-	-	PUNCT	_	_	11	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+11	մայիս	մայիս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	flat	_	Translit=mayis|LTranslit=mayis
+12	ամիսներից	ամիս	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	6	obl	_	Translit=amisneric’|LTranslit=amis|SpaceAfter=No
+13	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
+~~~
+
 When components are parties to a bilateral relationship, `flat` relation is used.
 
 ~~~ conllu
