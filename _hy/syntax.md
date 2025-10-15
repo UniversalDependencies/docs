@@ -15,8 +15,8 @@ The syntactic annotation in the Eastern Armenian UD treebank follows the [genera
 * [compound:lvc]() for light compound verbs
 * [compound:redup]() for reduplicated compounds
 * [compound:svc]() for serial compound verbs
-* [csubj:pass]() for clausal subjects of passive verbs
 * [csubj:outer]() for outer clause clausal subject
+* [csubj:pass]() for clausal subjects of passive verbs
 * [det:poss]() for possessive determiners
 * [iobj:agent]() for agentive indirect objects of causative verbs
 * [nmod:npmod]() for noun phrases
