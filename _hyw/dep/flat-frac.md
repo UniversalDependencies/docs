@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'flat:range'
+title: 'flat:frac'
 shortdef: 'fraction'
 udver: '2'
 ---
