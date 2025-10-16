@@ -9,32 +9,30 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Dual">Dual</a></td>
-  <td><a href="#Nsing">Nsing</a></td>
   <td><a href="#Plur">Plur</a></td>
   <td><a href="#Sing">Sing</a></td>
 </tr>
 </table>
 
+Possessives may have two different numbers: that of the possessed object (number agreement with modified noun) and that of the possessor. The `Number[psor]` feature captures the possessor’s number.
+
 ### <a name="Sing">`Sing`</a>: singular
 
 #### Examples
 
-* 
+* *umeĩ* "his/her thing"
+* *umeĩce* "his/her things"
 
 ### <a name="Dual">`Dual`</a>: dual
 
 #### Examples
 
-*
+* *huncimeĩ* "their (two) thing"
+* *huncimeĩce* "their (two) things"
 
 ### <a name="Plur">`Plur`</a>: plural
 
 #### Examples
 
-* 
-
-### <a name="Nsing">`Nsing`</a>: non-singular
-
-#### Examples
-
-*  
+* *hunimeĩ* "their (more than two) thing"
+* *hunimeĩce* "their (more than two) things"

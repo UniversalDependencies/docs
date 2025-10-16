@@ -14,20 +14,26 @@ udver: '2'
 </tr>
 </table>
 
+Possessives may have two different numbers: that of the possessed object (number agreement with modified noun) and that of the possessor. The `Number[psor]` feature captures the possessor’s number.
+
+
 ### <a name="1">`1`</a>: first person
 
 #### Examples
 
-* 
+* *ameĩ* "my thing"
+* *ameĩce* "my things"
 
 ### <a name="2">`2`</a>: second person
 
 #### Examples
 
-* 
+* *imeĩ* "your (sg.) thing"
+* *imeĩce* "your (sg.) things"
 
 ### <a name="3">`3`</a>: third person
 
 #### Examples
 
-* 
+* *umeĩ* "his/her thing"
+* *umeĩce* "his/her things"

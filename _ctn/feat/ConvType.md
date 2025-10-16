@@ -14,20 +14,28 @@ udver: '2'
 </tr>
 </table>
 
+`ConvType` expresses semantic subclasses of converbs ([VerbForm]()=`Conv`). 
+
+### <a name="Cntf">`Cntf`</a>: counterfactual equative
+
+The suffix *-i* marks converbs heading a counterfactual equative clause.
+
+#### Examples
+
+* *Eb<b>i</b>> likhilo nɨŋno.* "It looks as if he were standing."
+
 ### <a name="Coord">`Coord`</a>: coordinated action
 
-#### Examples
-
-* 
-
-### <a name="Cntf">`Cntf`</a>: countrfactual
+The suffix *-saŋa* marks a coordinated action.
 
 #### Examples
 
-* 
+* *Khu<b>saŋa</b>ta thaptummehẽ.* "We brought him here by carrying him."
 
 ### <a name="Purp">`Purp`</a>: purposive
 
+The suffix *-si* marks an action which takes place at the endpoint of a movement and is its purpose.
+
 #### Examples
 
-* 
+* *Hokkoiʔ phuŋ pus<b>si</b>> akhadiki?* "Where do you go to pick flowers?"

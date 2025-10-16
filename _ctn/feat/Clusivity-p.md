@@ -13,14 +13,18 @@ udver: '2'
 </tr>
 </table>
 
+[Clusivity]() is a feature of first-person plural personal [PRON](). As such, it can also be reflected by inflection of [VERB]. 
+
+In Chintang, (di)transitive verbs agree with both their agents and their patients. The agent clusivity is annotated with `Clusivity`, the patient clusivity is annotated with `Clusivity[p]`
+
 ### <a name="Ex">`Ex`</a>: exclusive
 
 #### Examples
 
-* 
+* *mapide* "(he) gave us (I + they)"
 
 ### <a name="In">`In`</a>: inclusive
 
 #### Examples
 
-* 
+* *mailunoʔ* "(he) will tell us (I + you + they)"

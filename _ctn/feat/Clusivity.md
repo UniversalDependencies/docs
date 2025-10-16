@@ -13,14 +13,21 @@ udver: '2'
 </tr>
 </table>
 
+`Clusivity` is a feature of first-person plural personal [PRON](). As such, it can also be reflected by inflection of [VERB]() and [NOUN](). 
+
+In Chintang, (di)transitive verbs agree with both their agents and their patients. The agent clusivity is annotated with `Clusivity`, the patient clusivity is annotated with `Clusivity[p]`
+
+
 ### <a name="Ex">`Ex`</a>: exclusive
 
 #### Examples
 
-* 
+* *anca<b>ŋa</b>* "we (I + he/she)"; *ana<b>ŋa</b>* "we (I + they)"
+* *pindi<b>ŋa</b>hẽ* "we (I + they) ran away"
 
 ### <a name="In">`In`</a>: inclusive
 
 #### Examples
 
-* 
+* *anci* "we (I + you)"; *ani* "we (I + you + they)"
+* *rɨktaloĩsace* "we chased it out"

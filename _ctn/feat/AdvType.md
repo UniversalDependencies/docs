@@ -10,45 +10,45 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ext">Ext</a></td>
   <td><a href="#Loc">Loc</a></td>
-  <td><a href="#Met">Met</a></td>
-  <td><a href="#Mod">Mod</a></td>
-  <td><a href="#Per">Per</a></td>
+  <td><a href="#Man">Met</a></td>
   <td><a href="#Qua">Qua</a></td>
 </tr>
 </table>
 
-### <a name="Ext">`Ext`</a>: extension
+Semantic subclasses of [ADV](). Note that the [PronType]() feature also applies to some adverbs and is orthogonal to `AdvType`.
+
+### <a name="Loc">`Loc`</a>: locative adverbs
+
+Demonstrative roots *ba* "PROX", *huĩ* "MED", *mo* "DEM.DOWN", *to* "DEM.UP", and *yo* "DEM.LVL", when used with locative [Case]() marking.
 
 #### Examples
 
-* 
+*  *bai* "here", *huĩsaiʔ* "there"
+*  *umu* "right down there", *uttu* "right up there", *uyuta* "right there"
+*  *ammu* "way down there", *attu* "way up there", *aiyu* "over there"
 
-### <a name="Loc">`Loc`</a>: locative
+### <a name="Man">`Man`</a>: manner adverbs
 
-#### Examples
-
-* 
-
-### <a name="Met">`Met`</a>: method
+Marked by modalis *-khiʔ, -ʌso* or method *-khiʔnɨŋ, -ʌsʌri*
 
 #### Examples
 
-* 
+* *huŋkhi* "like that", *joso* "however"
+* *hokhiʔni* "how", *josoriyaŋ* "any way"
 
-### <a name="Mod">`Mod`</a>: modalis
+### <a name="Ext">`Ext`</a>: extension adverbs
 
-#### Examples
-
-* 
-
-### <a name="Per">`Per`</a>: permanent
+Marked by extensional *-tta*, which denotes the same size as a referent in the area demarcated by the demonstrative base
 
 #### Examples
 
-* 
+* *batta* "as big as this", *motta* "as big as down there", *atta* "how big"
 
-### <a name="Qua">`Qua`</a>: quantifier
+### <a name="Qua">`Qua`</a>: quantifier adverbs
+
+Marked by extensional *-ʌti*, which denotes the same quantity as a referent in the area demarcated by the base
 
 #### Examples
 
-* 
+* *utti* "that much", *katti* "how much"
+ 
