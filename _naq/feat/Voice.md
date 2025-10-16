@@ -21,7 +21,7 @@ udver: '2'
 
 In Khoekhoe, `Voice` is a feature of [verbs](naq-pos/VERB).
 
-One verb may have a combination of voice markers, in this case a layered feature is used: `Voice[1]` (for the value of the first voice suffix), `Voice[2]` (for the value of the second voice suffix), etc.. For example, _ǃgâibahe_ is annotated with `Voice[1]=Appl|Voice[2]=Pass`
+One verb may have a combination of two voice markers, if the first one is the applicative voice (`ApplPass`, `ApplRcp`, `ApplRfl`)
 
 ### <a name="Act">`Act`</a>: active
 
