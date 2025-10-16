@@ -177,6 +177,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * [compound:lvc]() for light compound verbs
   * [compound:redup]() for reduplicated compounds
   * [compound:svc]() for serial compound verbs
+  * [csubj:outer]() for outer clause clausal subject
   * [csubj:pass]() for clausal subjects of passive verbs
   * [det:poss]() for possessive determiners
   * [iobj:agent]() for agentive indirect objects of causative verbs
