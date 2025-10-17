@@ -10,6 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#ADP">ADP</a></td>
   <td><a href="#ADV">ADV</a></td>
+  <td><a href="#DET">DET</a></td>
+  <td><a href="#PRON">PRON</a></td>
   <td><a href="#SCONJ">SCONJ</a></td>
   <!--td><a href="#VERB">VERB</a></td-->
 </tr>
@@ -37,6 +39,18 @@ In Classical Armenian, it is typical for heads of a [`fixed`](https://universald
 #### Examples
 
 * ի միասին / _i miasin_ “together”; _i_ = [ADP]()
+
+### <a name="DET">`DET`</a>: determiner
+
+#### Examples
+
+* ոչ ինչ / _očʻ inčʻ_ “none”; _očʻ_ = [DET]()
+
+### <a name="PRON">`PRON`</a>: pronoun
+
+#### Examples
+
+* ոչ ինչ / _očʻ inčʻ_ “no one”; _očʻ_ = [PRON]()
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
