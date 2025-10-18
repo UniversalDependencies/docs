@@ -24,10 +24,6 @@ See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-
 11	սկիզբ	սկիզբ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	10	obj	_	Translit=skizb|LTranslit=skizb
 12	ու	ու	CCONJ	_	_	13	cc	_	Translit=ow|LTranslit=ow
 13	վերջ	վերջ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	conj	_	Translit=verǰ|LTranslit=verǰ|SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,
-15	ունի	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	Translit=owni|LTranslit=ownem
-16	միայն	միայն	ADV	_	_	17	advmod:emph	_	Translit=miayn|LTranslit=miayn
-17	ընթացք	ընթացք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	15	obj	_	Translit=ënt’ac’k’|LTranslit=ënt’ac’k’|SpaceAfter=No
-18	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
+14	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
