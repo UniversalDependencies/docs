@@ -17,7 +17,12 @@ does have features, then [Typo]()`=Yes` must be used with the `goeswith` head.
 Note also that only the last word part may be annotated with `SpaceAfter=No`.
 
 ~~~ conllu
-# visual-style 4 5 4 6 4 7 4 8 4 9 4 10 goeswith color:blue
+# visual-style 4 5 goeswith color:blue
+# visual-style 4 6 goeswith color:blue
+# visual-style 4 7 goeswith color:blue
+# visual-style 4 8 goeswith color:blue
+# visual-style 4 9 goeswith color:blue
+# visual-style 4 10 goeswith color:blue
 1	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	_
 2	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	_
 3	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
