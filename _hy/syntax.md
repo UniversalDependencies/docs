@@ -22,6 +22,7 @@ The syntactic annotation in the Eastern Armenian UD treebank follows the [genera
 * [nmod:npmod]() for noun phrases
 * [nmod:poss]() for possessive modifiers
 * [nsubj:caus]() for nominal subjects of causative verbs
+* [nsubj:outer]() for outer clause nominal subject
 * [nsubj:pass]() for nominal subjects of passive verbs
 * [obl:agent]() for agents of passive verbs
 
