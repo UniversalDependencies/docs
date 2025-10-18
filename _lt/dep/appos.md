@@ -8,9 +8,9 @@ udver: '2'
 An appositional modifier of an NP serves to define, modify, name, or describe that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. What is marked as appos is often set off by commas or parentheses.
 
 ~~~ sdparse
-Atvyko Jonas, mano brolis. \n Arrived Jonas, my bother.
-appos(Jonas-2, brolis)
-appos(Jonas-6, brother)
+Atvyko Jonas , mano brolis . \n Arrived John , my bother .
+appos(Jonas, brolis)
+appos(John, brother)
 ~~~
 
 ~~~ sdparse
