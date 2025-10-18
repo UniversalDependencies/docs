@@ -11,6 +11,7 @@ See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-
 
 ~~~ conllu
 # visual-style 10 1 nsubj:outer color:blue
+# visual-style 10 7 nsubj color:blue
 1	Այն	այն	PRON	_	Deixis=Remt|PronType=Dem	10	nsubj:outer	_	Translit=Ayn|LTranslit=ayn|SpaceAfter=No
 2	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 3	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	7	nsubj	_	Translit=inč|LTranslit=inč
