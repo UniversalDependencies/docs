@@ -10,11 +10,10 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Med">Med</a></td>
   <td><a href="#Prox">Prox</a></td>
-  <td><a href="#Remt">Remt</a></td>
 </tr>
 </table>
 
-Armenian uses `Deixis[psor]` as layered feature for [NOUN](), [PRON]() and to encodes the position of an entity relative to either the speaker or the hearer.
+Armenian uses `Deixis[psor]` as layered feature for [NOUN]() and to encodes the position of an entity relative to either the speaker or the hearer.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
@@ -29,15 +28,6 @@ The entity is close to the reference point (e.g., to the speaker).
 ### <a name="Med">`Med`</a>: medial
 
 The entity is neither close nor far away from the reference point (e.g., from the speaker).
-
-#### Examples
-
-* _ <b></b>;_ “...”
-* _ <b></b>;_ “...”
-
-### <a name="Remt">`Remt`</a>: remote, distal
-
-The entity is far away from the reference point (e.g., from the speaker).
 
 #### Examples
 
