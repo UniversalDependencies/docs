@@ -104,10 +104,10 @@ called `regex` and you can install it via pip before invoking the validator:
 
     $ sudo apt-get install python3-pip; python3 -m pip install regex
 
-Furthermore, you need Python version of [Udapi](https://udapi.github.io/). See its website for instructions how to
-install it. You could install it via pip as well, but it is probably better to clone `udapi-python` from GitHub and
-then install its requirements. This way you will be able to get the latest version of Udapi if it changes on GitHub
-but not in pip.
+Furthermore, you need Python version of [Udapi](https://udapi.github.io/) (at least version 0.5.0). See its website
+for instructions how to install it. You could install it via pip as well, but it is probably better to clone
+`udapi-python` from GitHub and then install its requirements. This way you will be able to get the latest version of
+Udapi if it changes on GitHub but not in pip.
 
 See also the [README file](https://github.com/UniversalDependencies/tools/blob/master/README.md) in the tools
 repository.
