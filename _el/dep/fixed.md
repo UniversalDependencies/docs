@@ -34,7 +34,7 @@ fixed(σ -1-, τσακ -3-)
 ~~~ sdparse
 Πρέπει να είμαστε απολύτως σαφείς ως προς αυτό . \n We need to be absolutely clear on this.
 fixed(ως, προς)
-case(αυτό, προς)
+case(αυτό, ως)
 ~~~
 
 ---------------------
