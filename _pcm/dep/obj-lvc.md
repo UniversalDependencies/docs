@@ -28,31 +28,6 @@ The `obj:lvc` relation is used for objects complements within light verb constru
 13	dey	dey	AUX	_	Aspect=Imp	14	aux	_	_
 14	make	make	VERB	_	_	10	acl:relcl	_	_
 
-1	#	_	_	_	_	0	_	_	_
-2	they	_	_	_	_	0	_	_	_
-3	no	_	_	_	_	0	_	_	_
-4	be	_	_	_	_	0	_	_	_
-5	take	_	_	_	_	0	_	_	_
-6	note	_	_	_	_	0	_	_	_
-7	of	_	_	_	_	0	_	_	_
-8	all	_	_	_	_	0	_	_	_
-9	the	_	_	_	_	0	_	_	_
-10	mistake  _	_	_	_	0	_	_	_
-11	that _	_	_	_	0	_	_	_
-12	they _	_	_	_	0	_	_	_
-13	be _	_	_	_	0	_	_	_
-14	make _ _ _ _ 0 _ _ _
-
-1	they	_	_	_	_	0	_	_	_
-2	are	_	_	_	_	0	_	_	_
-3	not	_	_	_	_	0	_	_	_
-4	taking	_	_	_	_	0	_	_	_
-5	note	_	_	_	_	0	_	_	_
-6	of	_	_	_	_	0	_	_	_
-7	all	_	_	_	_	0	_	_	_
-8	the	_	_	_	_	0	_	_	_
-9	mistakes _	_	_	_	0	_	_	_
-10	they _	_	_	_	0	_	_	_
-11	make _	_	_	_	0	_	_	_
 ~~~
+'They don’t take note of all the mistakes they were making.'
 <!-- Interlanguage links updated So 10. května 2025, 18:15:55 CEST -->
