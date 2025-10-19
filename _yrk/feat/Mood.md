@@ -15,7 +15,7 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Infr">Infr</a></td>
   <td><a href="#Int">Int</a></td>
-  <td><a href="#"Jus">Jus</a></td>
+  <td><a href="#Jus">Jus</a></td>
   <td><a href="#Nec">Nec</a></td>
   <td><a href="#Pot">Pot</a></td>
   <td><a href="#Prob">Prob</a></td>
