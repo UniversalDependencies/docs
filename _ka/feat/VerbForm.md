@@ -5,6 +5,13 @@ shortdef: 'form of verb'
 udver: '2'
 ---
 
+### <a name="Fin">`Fin`</a>: finite verb
+
+#### Examples
+
+* _დაწერს_ 'will write'
+* _გამიკეთებია_ 'I have done it'
+
 ### <a name="Part">`Part`</a>: participle
 
 #### Examples
