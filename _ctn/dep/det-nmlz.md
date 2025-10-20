@@ -16,11 +16,12 @@ In each case, the chosen dependency corresponds to the relation that the same ty
 
 When the scope of the nominalization is a determiner, the dependency used is `det:nmlz`.
 
-~~~ conllu
-1-2	Huŋkhaceŋa	_	_	_	_	_	_	_	_
-1	Huŋ	hun	DET	_	Deixis=Med|PronType=Dem	2	det:nmlz	_	Gloss=MED|MSeg=hun
-2	khaceŋa	kha	NOUN	NMLZ2	Case=Erg|Number=Plur	4	nsubj	_	Gloss=NMLZ2-NSG-ERG|MSeg=kha-ce-ŋa
-3	Budhahaŋ	Budhahaŋ	PROPN	_	Case=Abs|Number=Sing	4	obj	_	Gloss=a_deity|MSeg=buɖhahaŋ
-4	unumdokonɨŋ	numd	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Number[p]=Sing|Person=3|Person[p]=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=3[PL].A-do-3[SG].P-IND.NPST-NEG|MSeg=u-numd-u-kV-nɨŋ|SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
+~~~ sdparse
+Huŋ khaceŋa Budhahaŋ unumdokonɨŋ . \n That NMLZ.NSG.ERG Budhahang don't_worship .
+det(khaceŋa, Huŋ)
+det(NMLZ.NSG.ERG, That)
+nsubj(unumdokonɨŋ, khaceŋa)
+nsubj(don't_worship, NMLZ.NSG.ERG)
+obj(unumdokonɨŋ, Budhahaŋ)
+obj(don't_worship, Budhahang)
 ~~~

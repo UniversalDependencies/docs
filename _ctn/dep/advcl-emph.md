@@ -5,17 +5,16 @@ shortdef: 'emphasizing adverbial clause'
 udver: '2'
 ---
 
-In Chingtang, 
+The `advcl:emph` relation is used for predicate doubling -- a construction in which the infinitive and the inflected form of the same verb co-occur within a single sentence as part of the information structure. 
 
-~~~ conllu
-# sent_id = grammar_Information_41a
-# text = Akka na thuŋmataʔ thuŋŋaʔã!
-# english = As for me, I DO drink [a lot]!
-1	Akka	akka	PRON	_	Case=Abs,Erg|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	Gloss=1SG|MSeg=akka
-2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
-3-4	thuŋmataʔ	_	_	_	_	_	_	_	_
-3	thuŋma	thug	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	5	advcl:emph	5:advcl:emph	Gloss=drink-INF|MSeg=thug-ma
-4	taʔ	ta	PART	FOC	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=FOC|MSeg=ta
-5	thuŋŋaʔã	thug	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=drink-1SG.S-IND.NPST|MSeg=thug-ŋa-ʔã|SpaceAfter=No
-6	!	!	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+In Chintang, this construction is employed to indicate that a particle takes scope only over the lexical component of the predicate. Speakers achieve this by attaching the particle to the infinitive form of the verb stem, followed by a finite form of the same verb.
+
+The choice of the `advcl:emph` subtype reflects the aim of aligning this annotation with that of information-structural particles, which are annotated using `advmod:emph`. 
+
+~~~ sdparse
+Akka na thuŋma taʔ thuŋŋaʔã ! \n I TOP to_drink FOC I_drink !
+advcl:emph(thuŋŋaʔã, thuŋma)
+advcl:emph(I_drink, to_drink)
+advmod:emph(thuŋma, taʔ)
+advmod:emph(to_drink, FOC)
 ~~~

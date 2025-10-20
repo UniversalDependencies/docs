@@ -16,15 +16,14 @@ In each case, the chosen dependency corresponds to the relation that the same ty
 
 When the scope of the nominalization is an adverb, the dependency used is `advmod:nmlz`.
 
-~~~ conllu
-# sent_id = grammar_Morphology_160a									
-# text = To bhittragocele uthatno.									
-# english = Only the ones inside up there are visible.									
-1	To	to	DET	DEM.UP	Deixis=Remt|PronType=Dem	3	det	_	Gloss=DEM.UP|MSeg=to
-2-4	bhittragocele	_	_	_	_	_	_	_	_
-2	bhittra	bhitra	ADV	_	_	3	advmod:nmlz	_	Gloss=inside|MSeg=bhit̪rʌ
-3	goce	go	NOUN	NMLZ1	Case=Abs|Number=Plur	5	nsubj	_	Gloss=NMLZ1-NSG|MSeg=go-ce
-4	le	le	PART	RESTR	InfStruct=Foc	3	advmod:emph	_	Gloss=RESTR|MSeg=le
-5	uthatno	that	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=3[PL].S-appear-IND.NPST|MSeg=u-that-nok|SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n
+~~~ sdparse
+To bhittra goce le uthatno . \n Up_there inside NMLZ.NSG RESTR they_appear .
+det(goce, To)
+det(NMLZ.NSG, Up_there)
+advmod:nmlz(goce, bhittra)
+advmod:nmlz(NMLZ.NSG, inside)
+nsubj(uthatno, goce)
+nsubj(they_appear, NMLZ.NSG)
+advmod:emph(goce, le)
+advmod:emph(NMLZ.NSG, RESTR)
 ~~~
