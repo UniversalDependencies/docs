@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'amod:pos'
+title: 'amod:poss'
 shortdef: 'possessive adjectival modifier'
 udver: '2'
 ---
@@ -9,12 +9,12 @@ Whenever there is a possessive adjectival modifier, <code>amod:poss</code> shoul
 
 ~~~ sdparse
 Lui è un mio amico .
-det:poss(amico, mio)
+amod:poss(amico, mio)
 ~~~
 
 ~~~ sdparse
 Il lavoro vostro , invece , in cosa consiste ?
-det:poss(lavoro, vostro)
+amod:poss(lavoro, vostro)
 ~~~
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:57 CEST -->
