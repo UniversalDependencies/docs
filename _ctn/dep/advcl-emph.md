@@ -5,6 +5,8 @@ shortdef: 'emphasizing adverbial clause'
 udver: '2'
 ---
 
+In Chingtang, 
+
 ~~~ conllu
 # sent_id = grammar_Information_41a
 # text = Akka na thuŋmataʔ thuŋŋaʔã!

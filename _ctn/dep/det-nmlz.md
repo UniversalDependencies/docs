@@ -5,16 +5,22 @@ shortdef: 'determiner nominalization'
 udver: '2'
 ---
 
+Chintang has two nominalizers: *=go* and *=kha*.  
+These enclitics derive a nominal base from another form, which can be almost arbitrary.  
+They are annotated as a type of "empty" nominal, functionally similar to English *one*.  
+The nominalizer serves as the head of the nominalized structure, with the nominalized element modifying it.
+
+Depending on the syntactic category of the nominalized element, different dependency relations are used between the nominalizer (the head) and the root of the nominalized scope:  
+[acl:nmlz](), [advmod:nmlz](), [amod:nmlz](), `det:nmlz`, or [nmod:nmlz]().  
+In each case, the chosen dependency corresponds to the relation that the same type of modifier would have with a [NOUN]() if it were modifying it directly, with the subtype `:nmlz` indicating that the relation involves nominalization.
+
+When the scope of the nominalization is a determiner, the dependency used is `det:nmlz`.
+
 ~~~ conllu
-# sent_id = grammar_Morphology_125b
-# text = Akka toiʔko thitta cama kondaŋseʔ!
-# english = I must eat one from up there!
-1	Akka	akka	PRON	_	Case=Abs,Erg|Number=Sing|Person=1|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	Gloss=1SG|MSeg=akka
-2-3	toiʔko	_	_	_	_	_	_	_	_
-2	toiʔ	to	ADV	DEM.UP-LOC1	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	3	det:nmlz	3:det:nmlz	Gloss=DEM.UP-LOC1|MSeg=to-iʔ
-3	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	4	nmod	4:nmod	Gloss=NMLZ1|MSeg=go
-4	thitta	thitta	NUM	_	Animacy=Nhum|Case=Abs|Number=Sing|NumType=Card	5	obj	5:obj	Gloss=one|MSeg=thitta
-5	cama	ca	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	6	xcomp	6:xcomp	Gloss=eat-INF|MSeg=ca-ma
-6	kondaŋseʔ	kond	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=must-PST-PRF-IND.PST[.3SG.S]|MSeg=kond-a-ŋs-e|SpaceAfter=No
-7	!	!	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+1-2	Huŋkhaceŋa	_	_	_	_	_	_	_	_
+1	Huŋ	hun	DET	_	Deixis=Med|PronType=Dem	2	det:nmlz	_	Gloss=MED|MSeg=hun
+2	khaceŋa	kha	NOUN	NMLZ2	Case=Erg|Number=Plur	4	nsubj	_	Gloss=NMLZ2-NSG-ERG|MSeg=kha-ce-ŋa
+3	Budhahaŋ	Budhahaŋ	PROPN	_	Case=Abs|Number=Sing	4	obj	_	Gloss=a_deity|MSeg=buɖhahaŋ
+4	unumdokonɨŋ	numd	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Number[p]=Sing|Person=3|Person[p]=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=3[PL].A-do-3[SG].P-IND.NPST-NEG|MSeg=u-numd-u-kV-nɨŋ|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 ~~~

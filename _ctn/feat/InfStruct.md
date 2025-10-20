@@ -18,7 +18,7 @@ Chintang employs several [PART]() that indicate topic, focus, and related discou
 
 ### <a name="Foc">`Foc`</a>: focus
 
-The endoclitics =*ta*, =*lo*, =*le*, and =*yaŋ* serve to mark different kinds of focus. The focused constituent signals the sole contrast between two propositions: a base proposition, which is contextually available and presumed to be true or likely to become true, and an actual proposition, which forms the basis of the speaker's utterance and corrects the base proposition by substituting the corresponding element with the marked constituent.
+The endoclitics *=ta*, *=lo*, *=le*, and *=yaŋ* serve to mark different kinds of focus. The focused constituent signals the sole contrast between two propositions: a base proposition, which is contextually available and presumed to be true or likely to become true, and an actual proposition, which forms the basis of the speaker's utterance and corrects the base proposition by substituting the corresponding element with the marked constituent.
 
 #### Examples
 

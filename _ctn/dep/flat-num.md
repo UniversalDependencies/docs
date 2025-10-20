@@ -5,6 +5,8 @@ shortdef: 'flat multiword number'
 udver: '2'
 ---
 
+The `flat:num` subtype of the `flat` relation is used to connect parts of a multi-word numeral that are not connected by a conjunction.
+
 ~~~ conllu
 # sent_id = grammar_Syntactic_246b
 # text = Rameceŋa gadi ukedande kina pac sai chere umettucepho.

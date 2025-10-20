@@ -41,7 +41,7 @@ The causative is marked by *-mett*.
 ### <a name="Rcp">`Rcp`</a>: reciprocal
 
 Used when a plural subject acts both as agents and patients, each performing and receiving the action.  
-The reciprocal is formed by reduplication of the verb stem and the interfix -*ka*-, used in non-finite reciprocal forms.
+The reciprocal is formed by reduplication of the verb stem and the interfix *-ka-*, used in non-finite reciprocal forms.
 
 #### Examples
 
