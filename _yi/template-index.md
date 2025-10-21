@@ -30,7 +30,7 @@ udver: '2'
   * _hobn_ 'have' for past tense of most verbs
   * _veln_ 'will' for future tense
   * _vern_ 'become' for passive voice
-  * _volt_ for conditional 
+  * _volt_ 'would' for conditional 
   * modal verbs: _darfn_ 'need', _zoln_ 'should', _muzn_ 'must', _kern_ 'ought, might', _torn_ + _nit_ 'ought not', _megn_ 'may', _kenen_ 'can', _veln_ 'want', _flegn_ with zero-inflection in 3SG 'used to'
   * The verbs _hobn_, _vern_, _darfn_, _kenen_, _veln_ can occur as normal verbs. _zayn_ in periphrastic verbs is tagged VERB.
 * The (de)verbal forms and their tags are as follows:
