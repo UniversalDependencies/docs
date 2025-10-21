@@ -31,7 +31,7 @@ udver: '2'
   * _veln_ 'will' for future tense
   * _vern_ 'become' for passive voice
   * _volt_ 'would' for conditional 
-  * modal verbs: _darfn_ 'need', _zoln_ 'should', _muzn_ 'must', _kern_ 'ought, might', _torn_ + _nit_ 'ought not', _megn_ 'may', _kenen_ 'can', _veln_ 'want', _flegn_ with zero-inflection in 3SG 'used to'
+  * modal verbs: _darfn_ 'need', _zoln_ 'should', _muzn_ 'must', _kern_ 'ought, might', _torn_ + _nit_ 'ought not', _megn_ 'may', _kenen_ 'can', _veln_ 'want', _flegn_ 'used to' with zero-inflection in 3SG 
   * The verbs _hobn_, _vern_, _darfn_, _kenen_, _veln_ can occur as normal verbs. _zayn_ in periphrastic verbs is tagged VERB.
 * The (de)verbal forms and their tags are as follows:
   * Infinitive, VERB or AUX
