@@ -15,12 +15,12 @@ udver: '2'
   * Apostrophes indicate apocope, and are attached to the nearby word that has undergone apocope: *cu', va', fa'*;
   * Numerical expressions are treated as single words and may contain punctuation: *'62, 150, 500*.
 * Multi-word tokens are used for the following cases:
-  * Articulated prepositions composed of a simple preposition and a definite article: *â, dû, ô, ntô*;
-  * Articulated prepositions composed of a simple preposition and an indefinite article: *ôn*;
-  * Contraction of two clitic pronouns: *mâ, mû, sû, tû*;
-  * Verbs containing one or more clitic pronouns: *riniscillu, dimmillu*;
-  * Verbs containing personal pronouns as enclitic particles: *pinzàvatu*;
-  * Some compound forms: *’napocu*.
+  * Articulated prepositions composed of a simple preposition and a definite article: *â* (a + la), *dû* (di + lu), *ô* (a + lu), *ntô* (nta + lu);
+  * Articulated prepositions composed of a simple preposition and an indefinite article: *ôn* (a + nu);
+  * Contraction of two clitic pronouns: *mâ* (mi + la), *mû* (mi + lu), *sû* (si + lu), *tû* (ti + lu);
+  * Verbs containing one or more clitic pronouns: *dimmillu* (di + mi + lu), *riniscillu* (rinisci + lu);
+  * Verbs containing personal pronouns as enclitic particles: *pinzàvatu* (pinzàva + tu);
+  * Some compound forms: *’napocu* ('na + pocu).
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 
