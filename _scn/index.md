@@ -28,7 +28,7 @@ udver: '2'
 
 ### Tags
 * Sicilian uses 15 universal POS tags; the SYM and X tags are not used.
-* The only word tagged as PART is the particle a, used in the periphrasis: *aviri a fari, veniri a diciri*.
+* The only word tagged as PART is the particle *a*, used in the periphrasis: *aviri a fari, veniri a diciri*.
 * The tag AUX is used in the following cases:
   * *essiri*  which is also the copula;
   * *avíri*, the only auxiliary form for compound tenses;
