@@ -10,8 +10,8 @@ udver: '2'
 
 * Words are delimited by whitespace or apostrophes.
 * Punctuation marks are treated as separate tokens, with some exceptions:
-* Apostrophes indicate elision, and are attached to the neighbouring word that underwent elision.
-* Apostrophes indicate apheresis, and are attached to the neighboring word that has undergone apheresis.
+  * Apostrophes indicate elision, and are attached to the neighbouring word that underwent elision. This commonly occurs with determiners: 
+  * Apostrophes indicate apheresis, and are attached to the neighboring word that has undergone apheresis.
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
