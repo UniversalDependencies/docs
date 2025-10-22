@@ -21,8 +21,6 @@ udver: '2'
   * Verbs containing one or more clitic pronouns: *dimmillu* (di + mi + lu), *riniscillu* (rinisci + lu);
   * Verbs containing personal pronouns as enclitic particles: *pinzàvatu* (pinzàva + tu);
   * Some compound forms: *’napocu* ('na + pocu).
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 
 ---
 
