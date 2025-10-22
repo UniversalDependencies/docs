@@ -56,7 +56,8 @@ udver: '2'
 ## Syntax
 
 ### Relations Overview
-* The following relation subtypes are used in Yiddish:
+* Yiddish uses all universal syntactic relations, except clf.
+* The following relation subtypes are also used in Yiddish:
   * acl:relcl for adnominal relative clauses
   * advcl:relcl for relative clauses whose antecedent is a clause
   * aux:pass for passive auxiliaries
