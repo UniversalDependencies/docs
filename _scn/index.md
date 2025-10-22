@@ -10,10 +10,17 @@ udver: '2'
 
 * Words are delimited by whitespace or apostrophes.
 * Punctuation marks are treated as separate tokens, with some exceptions:
-  * Apostrophes indicate elision, and are attached to the neighbouring word that underwent elision. This commonly occurs with determiners: *d'iddu, l'acqua*.
-  * Apostrophes indicate apheresis, and are attached to the neighboring word that has undergone apheresis: *'na, 'nvitatu, 'nchianau, 'mmucciari*.
+  * Apostrophes indicate elision, and are attached to the neighbouring word that underwent elision. This commonly occurs with determiners: *d'iddu, l'acqua*;
+  * Apostrophes indicate apheresis, and are attached to the neighboring word that has undergone apheresis: *'na, 'nvitatu, 'nchianau, 'mmucciari*;
+  * Apostrophes indicate apocope, and are attached to the nearby word that has undergone apocope: *cu', va', fa'*;
   * Numerical expressions are treated as single words and may contain punctuation: *'62, 150, 500*.
-
+* Multi-word tokens are used for the following cases:
+  * Articulated prepositions composed of a simple preposition and a definite article: *â, dû, ô, ntô*;
+  * Articulated prepositions composed of a simple preposition and an indefinite article: *ôn*;
+  * Contraction of two clitic pronouns: *mâ, mû, sû, tû*;
+  * Verbs containing one or more clitic pronouns: *riniscillu, dimmillu*;
+  * Verbs containing personal pronouns as enclitic particles: *pinzàvatu*;
+  * Some compound forms: *’napocu*.
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 
