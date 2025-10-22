@@ -32,7 +32,7 @@ udver: '2'
 * The tag AUX is used in the following cases:
   * *essiri*  which is also the copula;
   * *avíri*, the only auxiliary form for compound tenses;
-  * *putiri, vuliri, duvuri* when they are used as modals: *putimu jiri*;
+  * *putiri, vuliri, sapiri, duviri* when they are used as modals: *putimu jiri*;
   *  passive auxiliary, used to form passive verb forms, is represented by *essiri*: *fu chiamatu*;
   * auxiliary used for the progressive form, *stari + gerund*: *sta liggennu*.
 
