@@ -36,7 +36,7 @@ udver: '2'
   *  passive auxiliary, used to form passive verb forms, is represented by *essiri*: *fu chiamatu*;
   * auxiliary used for the progressive form, *stari + gerund*: *sta liggennu*.
 
-* The tag DET is used to mark: articles (*l'occhi*), predeterminers (***tutti** i pinzera*), adjectives that works as determiner (*stu film*), possessives (*sa mugghi*).
+* The tag DET is used to mark: articles (*l'occhi*), predeterminers (***tutti** i pinzera*), adjectives that works as determiner (*stu film*), possessives (*sa mugghieri*).
 
 * The tag PRON is used for words that replace nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context: *pi curpa so*.
 
