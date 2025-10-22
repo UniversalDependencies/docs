@@ -31,7 +31,7 @@ udver: '2'
 * The only word tagged as PART is the particle *a*, used in the periphrasis: *aviri a fari, veniri a diciri*.
 * The tag AUX is used in the following cases:
   * *essiri*  which is also the copula;
-  * *avíri*, the only auxiliary form for compound tenses;
+  * *avíri*, the only auxiliary form for compound tenses: *aju rinisciutu*;
   * *putiri, vuliri, sapiri, duviri* when they are used as modals: *putimu jiri*;
   *  passive auxiliary, used to form passive verb forms, is represented by *essiri*: *fu chiamatu*;
   * auxiliary used for the progressive form, *stari + gerund*: *sta liggennu*.
