@@ -8,7 +8,7 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+Words are delimited by whitespace or apostrophes.
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
