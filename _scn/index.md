@@ -43,19 +43,12 @@ udver: '2'
 *There are some cases of deverbal forms, mostly verbal participles, tagged as ADJ: *sugnu vivu*
 
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
 *NOUN is inflected for Gender (Masc or Fem) and Number (Sing or Plur).
 *VERB is inflected for Mood, Tense, Person. 
 *ADJECTIVE agrees with nouns for Gender and Number; but in some cases, adjectives are invariant with respect to Gender and/or Number.
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
 ---
 
