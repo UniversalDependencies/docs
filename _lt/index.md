@@ -95,6 +95,7 @@ udver: '2'
   * [obl:arg]() for prepositional objects
   * [aux:pass]() for passive auxiliaries
   * [acl:relcl]() for relative adnominal clauses
+  * [advcl:pred]() for optional depictives
   * [nummod:gov]() for cardinal numbers that are attached as children of the counted noun but govern its case
   * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
