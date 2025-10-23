@@ -27,16 +27,15 @@ udver: '2'
 ## Morphology
 
 ### Tags
-* Sicilian uses 15 universal POS tags; the SYM and X tags are not used.
-* The only word tagged as PART is the particle *a*, used in the periphrasis: *aviri a fari, veniri a diciri*.
+* Sicilian uses all 17 universal tags.
+* The only word tagged as PART is the particle *a*, used in the periphrasis: *aviri a* + infinitive, *veniri a diciri*.
 * The tag AUX is used in the following cases:
   * *essiri*  which is also the copula;
   * *avíri*, the only auxiliary form for compound tenses: *aju rinisciutu*;
   * *putiri, vuliri, sapiri, duviri* when they are used as modals: *putimu jiri*;
-  *  passive auxiliary, used to form passive verb forms, is represented by *essiri*: *fu chiamatu*;
-  * auxiliary used for the progressive form, *stari + gerund*: *sta liggennu*.
-
-* The tag DET is used to mark: articles (*l'occhi*), predeterminers (***tutti** i pinzera*), adjectives that works as determiner (*stu film*), possessives (*sa mugghieri*).
+  * passive auxiliary, used to form passive verb forms, is represented by *essiri*: *fu chiamatu*;
+  * auxiliary used for the progressive form, represented by *stari* + gerund: *sta liggennu*.
+* The tag DET is used to mark: articles (*l'occhi, na jurnata*), predeterminers (***tutti** i pinzera*), and different types of adjectives playing the determiner function (i.e. possesive ***sa** mugghieri*, demonstrative ***stu** film*, interrogative *quantu*, indefinite ***tanti** furmìculi*, exclamative ***chi** malaffruntu!*).
 
 * The tag PRON is used for words that replace nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context: *pi curpa so*.
 
