@@ -115,7 +115,7 @@ Naga-Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() f
 
 * A nominal subject ([nsubj]()) is a noun phrase, typically in the first position of a clause. It can have an Ergative case (_-nan_), a Topic case (_-di_), or no case marking, and it does not have a postposition.
 
-    * Intransitive predicates ar–e usually unmarked, although they can take the Topic case in certain types of predications.
+    * Intransitive predicates are usually unmarked, although they can take the Topic case in certain types of predications.
 
     * Transitive predicates usually have subjects with the Ergative case, though it can be omitted.
 
