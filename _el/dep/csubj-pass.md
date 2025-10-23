@@ -11,12 +11,12 @@ of the clause). In the example below, *that she lied* is the subject.
 
 ~~~ sdparse
 Ακούγεται ότι θα μεταφερθεί
-csubjpass(Ακούγεται, μεταφερθεί)
+csubj:pass(Ακούγεται, μεταφερθεί)
 ~~~
 
 ~~~ sdparse
 Αποφασίστηκε να συνεχιστούν οι συνομιλίες
-csubjpass(Αποφασίστηκε, συνεχιστούν)
+csubj:pass(Αποφασίστηκε, συνεχιστούν)
 nsubj(συνεχιστούν, συνομιλίες)
 ~~~
 
