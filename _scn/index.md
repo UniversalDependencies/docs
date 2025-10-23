@@ -35,19 +35,24 @@ udver: '2'
   * *putiri, vuliri, sapiri, duviri* when they are used as modals: *putimu jiri*;
   * passive auxiliary, used to form passive verb forms, is represented by *essiri*: *fu chiamatu*;
   * auxiliary used for the progressive form, represented by *stari* + gerund: *sta liggennu*.
-* The tag DET is used to mark: articles (*l'occhi, na jurnata*), predeterminers (***tutti** i pinzera*), and different types of adjectives playing the determiner function (i.e. possesive ***sa** mugghieri*, demonstrative ***stu** film*, interrogative *quantu*, indefinite ***tanti** furmìculi*, exclamative ***chi** malaffruntu!*).
-
+* The tag DET is used for determiners that modify nouns or noun phrases and is used to mark: articles (*l'occhi, na jurnata*), predeterminers (***tutti** i pinzera*), and different types of adjectives playing the determiner function (i.e. possesive ***sa** mugghieri*, demonstrative ***stu** film*, interrogative *quantu*, indefinite ***tanti** furmìculi*, exclamative ***chi** malaffruntu!*).
+  In Sicilian, usually a nominal allows for one DET modifier only, with the following exceptions:
+  * Predeterminers;
+  * Possessive adjectives preceded by the article.
 * The tag PRON is used for words that replace nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context: *pi curpa so*.
-
-* There are some cases of deverbal forms, mostly verbal participles, tagged as ADJ: *sugnu vivu*
+* There are some cases of deverbal forms, mostly verbal participles, tagged as ADJ: *è bruciatu*.
 
 
 
 ### Features
 
 * NOUN is inflected for Gender (Masc or Fem) and Number (Sing or Plur).
-* VERB is inflected for Mood, Tense, Person. 
-* ADJECTIVE agrees with nouns for Gender and Number; but in some cases, adjectives are invariant with respect to Gender and/or Number.
+* VERB is inflected for Mood, Tense, Person, Number:
+  * Past participle verbs are also inflected for gender.
+* ADJECTIVE agrees with nouns for Gender and Number. Adjectives can be invariant with respect to Gender and/or Number.
+* DETERMINERS agree with nouns in the same way as adjectives. In Sicilian, some determiners can appear in the same form for multiple referents.
+* ADVERBS inflect for Degree.
+* Pronouns, determiners, quantifiers and pronominal adverbs may be further specified by the PronType feature. The value Clitic is used for marking clitic pronouns.
 
 ---
 
