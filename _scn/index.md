@@ -51,7 +51,6 @@ udver: '2'
   * Past participle verbs are also inflected for gender.
 * ADJECTIVE agrees with nouns for Gender and Number. Adjectives can be invariant with respect to Gender and/or Number.
 * DETERMINERS agree with nouns in the same way as adjectives. In Sicilian, some determiners can appear in the same form for multiple referents and be invariant for gender or number.
-* ADVERBS inflect for Degree.
 * Pronouns, determiners, quantifiers and pronominal adverbs may be further specified by the PronType feature. The value Clitic is used for marking clitic pronouns.
 
 ---
