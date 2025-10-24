@@ -85,7 +85,6 @@ udver: '2'
   * nsubj:pass for nominal subjects of passive verbs
   * obl:agent for agents of passive verbs
   * obl:arg for dative objects
-  * 
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
