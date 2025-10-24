@@ -19,6 +19,7 @@ The `Tense` feature occurs with verbs ([VERB]() and [AUX]()).
 
 Verbs in Pashto have simple forms for the present and past tenses.
 There is also a compound future tense and perfect tenses, that are described below.
+**The future tense and perfect tenses are not annotated.**
 
 
 ### <a name="Pres">`Pres`</a>: present
@@ -66,10 +67,11 @@ The `Tense=Past` feature is also used for past participles:
 * past perfective: ما پرون کتاب **ولوستۀ** _mâ parún kitấb **wë́lwëstë**_ “I read a book yesterday”
 
 
-<h3><a name="Fut">Future</a></h3>
+<h3>Future</h3>
 
 The future tense denotes actions that will happen (once or repeatedly) or will be happening in the future.
 It has only compound forms and distinguishes both aspects.
+**The future tense is not annotated.**
 
 #### Formation
 * imperfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + present imperfective
@@ -80,13 +82,16 @@ It has only compound forms and distinguishes both aspects.
 * future imperfective: صبا **بۀ** کتاب **لرلم** _sabấ **bë** kitấb **lwalë́m**_ “I will be reading a book tomorrow”
 * future perfective: صبا **بۀ** کتاب **ولرلم** _sabấ **bë** kitấb **wë́lwalëm**_ “I will read a book tomorrow”
 
-<h3><a name="Perf">Perfect tenses</a></h3>
+<h3>Perfect tenses</h3>
 
-In Pashto, there are also compound forms of perfect tenses: present perfect, past perfect and future perfect.
+In Pashto, there are also three perfect tenses: present perfect, past perfect and future perfect.
 They describe an event preceding (i.e, that has / had / will have happened before) another event,
 which is expressed by a usual tense.
+They have only compound forms.
+**The perfect tenses are not annotated.**
 The term "perfect" here should not be confused with the perfective aspect
 which means a punctual event in past or future, not precedence like the perfect tenses.
+
 
 #### Formation and use
 The perfect tenses use indicative forms of the auxiliary verb ول _wël_ “to be” (with [aux:perf](../dep/aux-perf.html) relation),
