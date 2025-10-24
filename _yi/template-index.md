@@ -65,7 +65,7 @@ udver: '2'
 * Clausal complements with a subject determined by the next higher clause are labeled xcomp. This also goes for secondary predicates.
 
 ### Non-verbal Clauses
-* The copula verb sein (be) is used in equational, attributional, locative, possessive, benefactory and existential nonverbal clauses.
+* The copula verb _zayn_ (be) is used in equational, attributional, locative, possessive, benefactory and existential nonverbal clauses.
 
 ### Relations Overview
 * Yiddish uses all universal syntactic relations, except clf.
