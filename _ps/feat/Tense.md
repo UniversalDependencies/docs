@@ -66,7 +66,7 @@ The `Tense=Past` feature is also used for past participles:
 * past perfective: ما پرون کتاب **ولوستۀ** _mâ parún kitấb **wë́lwëstë**_ “I read a book yesterday”
 
 
-<h3>Future</h3>
+<h3><a name="Fut">Future</a></h3>
 
 The future tense denotes actions that will happen (once or repeatedly) or will be happening in the future.
 It has only compound forms and distinguishes both aspects.
@@ -80,7 +80,7 @@ It has only compound forms and distinguishes both aspects.
 * future imperfective: صبا **بۀ** کتاب **لرلم** _sabấ **bë** kitấb **lwalë́m**_ “I will be reading a book tomorrow”
 * future perfective: صبا **بۀ** کتاب **ولرلم** _sabấ **bë** kitấb **wë́lwalëm**_ “I will read a book tomorrow”
 
-<h3>Perfect tenses</h3>
+<h3><a name="Perf">Perfect tenses</a></h3>
 
 In Pashto, there are also compound forms of perfect tenses: present perfect, past perfect and future perfect.
 They describe an event preceding (i.e, that has / had / will have happened before) another event,
