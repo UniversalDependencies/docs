@@ -54,6 +54,18 @@ udver: '2'
 ---
 
 ## Syntax
+### Core and Oblique Arguments
+* A nominal subject (nsubj) is a noun phrase in nominative case.
+* A nominal object (obj) is a noun phrase in accusative case.
+* If a verb licenses two accusative objects, the relation iobj is used for the second one, usually a recipient.
+* The object of a preposition (obl) is in dative case.
+* An object in dative case without a preposition has the relation obl:arg.
+* A clause is labeled csubj when it serves as the subject of its matrix clause.
+* Clausal complements with a unique subject are labeled ccomp.
+* Clausal complements with a subject determined by the next higher clause are labeled xcomp. This also goes for secondary predicates.
+
+### Non-verbal Clauses
+* The copula verb sein (be) is used in equational, attributional, locative, possessive, benefactory and existential nonverbal clauses.
 
 ### Relations Overview
 * Yiddish uses all universal syntactic relations, except clf.
