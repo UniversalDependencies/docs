@@ -42,7 +42,7 @@ udver: '2'
  * _tôː mə́ yîsə́n <b>hŋ́</b>_ "Well we didn't know."
 
 
-### <a name="Pred">`Pred`</a>: ??? particle
+### <a name="Pred">`Pred`</a>: Predicating particle
 
 #### Examples
  * _yâːn hali <b>ɗa</b> kàm < má ɗìːɓíː_ "If there is a chance, we will buy it."
