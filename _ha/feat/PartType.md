@@ -36,7 +36,7 @@ udver: '2'
  * _bàː wata wàhalàː <b>ba</b>_ "There was no problem at all." (Northern Hausa)
 
 
-### <a name="Pred">`Pred`</a>: ??? particle
+### <a name="Pred">`Pred`</a>: Predicative particle
 
 #### Examples
  * _<b>baːbù</b> bàutaː s'àkaːniːnai dà suː_ "There is no slavery between him and them." (Northern Hausa)
