@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advcl:cntf'
-shortdef: ''
+shortdef: 'counterfactual comparison adverbial clause'
 udver: '2'
 ---
 

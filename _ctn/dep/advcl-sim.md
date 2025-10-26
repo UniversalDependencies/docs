@@ -5,7 +5,7 @@ shortdef: 'simultaneous action adverbial clause'
 udver: '2'
 ---
 
-The dependent of an `advcl:sim` relation is a simultaneous action adverbial clause, which is headed verb with the simultaneous aspect *-lok*.
+The dependent of an `advcl:sim` relation is a simultaneous action adverbial clause, which is headed by a verb with the simultaneous aspect *-lok*.
 
 ~~~ sdparse
 Ghakaŋ kanchi kok pimalok caklet naktucohatto . \n Later kanchi rice give.INF.SIM candy he_asks_for .
