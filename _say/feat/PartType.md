@@ -24,7 +24,7 @@ udver: '2'
  * _àː kwáːnmí <b>mə́n</b>_ "Tell us."
 
 
-### <a name="Foc">`Foc`</a>: Focalization particle
+### <a name="Foc">`Foc`</a>: In-situ focalization particle
 
 #### Examples
  * _dèːwôs ɓét <b>kəndí_</b>_ "That's its only reason."
