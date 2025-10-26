@@ -20,11 +20,11 @@ udver: '2'
 
 * There are several cases of multiword-tokens (clitics):
 
-    * Subject person-gender-number markers are placed in the second position in clauses. If something other than the subject root is in the first place, and the subject person-gender-number marker is non-syllabic, then the subject person-gender-number marker is written together with the previous word, but they are two separate words. Example: _Tsîb = xawe + s_ "but she."
+    * Subject person-gender-number markers are placed in the second position in clauses. If something other than the subject root is in the first place, and the subject person-gender-number marker is non-syllabic, then the subject person-gender-number marker is written together with the previous word, but they are two separate words. Example: _Xawes = xawe + s_ "but she".
 
-    * In coordinate conjunctions, an additional conjunction contracted with a person-gender-number marker is sometimes added. For example, _tsîra = tsî + ra_ "and they."
+    * In coordinate conjunctions, an additional conjunction contracted with a person-gender-number marker is sometimes added. For example, _tsîra = tsî + ra_ "and they".
 
-    * Clause nominalization (usually _s_, but could be other person-gender-number markers) is written right after the clause without a whitespace and can take the oblique suffix _-a_. For example, _ǁgoesa = ǁgoe + sa_ "lying down."
+    * Clause nominalization (usually _s_, but could be other person-gender-number markers) is written right after the clause without a whitespace and can take the oblique suffix _-a_. For example, _ǁgoesa = ǁgoe + sa_ "lying down".
 
     * Some subordinate clause markers (_se_ for clause of manner, _ga_ for clause of purpose, _o_ "when/if") are written at the end of the clause without a whitespace in between.
 
@@ -52,19 +52,19 @@ udver: '2'
 
     * Quotation marker _ti_
 
-    * Nominalizer _s_ preceding _tsîn(a)_ 'also'
+    * Nominalizer _s_ preceding _tsîn(a)_ "also"
 
     * Negation particle _tama_
 
     * Emphatic markers (e.g., _kha_ emphatic interrogative marker)
 
-    * Negative tag question particle _tama-e_ 'NEG.TAGQ'
+    * Negative tag question particle _tama-e_ "NEG.TAGQ"
 
     * Temporal genitive linker _kam_
 
-* Most auxiliaries ([AUX]()) in Khoekhoe are not verbal. The only two verbal auxiliaries are _mâ_ "stand" and _sī_ "come." These are marked as [AUX]() whenever they are not in the clause final position and have an indirect meaning. Most modal verbs act similarly to regular verbs (e.g., _ǁkhā_ "be able" and _ǁoa_ "be unable"), thus they are tagged [VERB](). The exception is _moet_ "must", borrowed from Afrikaans, is allways in the auxiliary position, therefore it is tagged [AUX]().
+* Most auxiliaries ([AUX]()) in Khoekhoe are not verbal. The only two verbal auxiliaries are _mâ_ "stand" and _sī_ "come." These are marked as [AUX]() whenever they are not in the clause final position and have an indirect meaning. Most modal verbs act similarly to regular verbs (e.g., _ǁkhā_ "be able" and _ǁoa_ "be unable"), thus they are tagged [VERB](). The exception is _moet_ "must", borrowed from Afrikaans, is always in the auxiliary position, therefore it is tagged [AUX]().
 
-* In most cases, Khoekhoe determiners ([DET]()) do not have person-gender-number suffixes and precede a nominal (the same is true about adjectives), whereas pronouns ([PRON]()) have person-gender-number suffixes. For example, the proximate demonstrative _nē_ in _nē ǂnamipeb_ "this area" is tagged as [DET](), whereas a proximate demonstrative pronoun _nēs_ is tagged as [PRON](). The only exception to the rule is the determiner _hoa_ "all, both," which can follow the nominal that it modifies and get the same person-gender-number marker. For example, _tsaudi hoadi_ "all wells."
+* In most cases, Khoekhoe determiners ([DET]()) do not have person-gender-number suffixes and precede a nominal (the same is true about adjectives), whereas pronouns ([PRON]()) have person-gender-number suffixes. For example, the proximate demonstrative _nē_ in _nē ǂnamipeb_ "this area" is tagged as [DET](), whereas a proximate demonstrative pronoun _nēs_ is tagged as [PRON](). The only exception to the rule is the determiner _hoa_ "all, both," which can follow the nominal that it modifies and get the same person-gender-number marker. For example, _tsaudi hoadi_ "all wells".
 
 * No (de)verbal forms are present in Khoekhoe.
 
@@ -154,7 +154,7 @@ udver: '2'
 
 ### Non-verbal Clauses
 
-* The copula auxiliaries _a_ (present, could be omitted) and _i_ (non-present) are used for copulas of equation, attribution, possession, benefaction. Location and existance clauses use verbs _hâ_ "stay" or _ǀkhai_ 'be absent', which are treated as the head of the clause and tagged [VERB]().
+* The copula auxiliaries _a_ (present, could be omitted) and _i_ (non-present) are used for copulas of equation, attribution, possession, benefaction. Locational and existential clauses use verbs _hâ_ "stay" or _ǀkhai_ "be absent", which are treated as the head of the clause and tagged [VERB]().
 
 ### Relations Overview
 
@@ -191,6 +191,6 @@ and the treebank code in the file name.
 ---
 -->
 
-There is one Khoekhoe UD treebanks:
+There is one Khoekhoe UD treebank:
 
   * [Khoekhoe-KDT](../treebanks/naq_kdt/index.html)
