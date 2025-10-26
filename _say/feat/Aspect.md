@@ -24,7 +24,7 @@ In Zaar, the aspect features are expressed together with aspect, mood, person an
 
 ### <a name="Aor">`Aor`</a>: aorist
 
-Zaar: The aorist is the default aspect, morphologically unmarked, and tonally associated with a low tone. It is used where TAM values are backgrounded, and in narration where they are contextually recoverable. 
+Zaar: The aorist is the default aspect, morphologically unmarked (lemma = ø). It is used where TAM values are backgrounded, and in narration where they are contextually recoverable. 
 
 #### Examples
 
