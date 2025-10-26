@@ -10,7 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ext">Ext</a></td>
   <td><a href="#Loc">Loc</a></td>
-  <td><a href="#Man">Met</a></td>
+  <td><a href="#Man">Man</a></td>
   <td><a href="#Qua">Qua</a></td>
 </tr>
 </table>
@@ -19,17 +19,17 @@ Semantic subclasses of [ADV](). Note that the [PronType]() feature also applies 
 
 ### <a name="Loc">`Loc`</a>: locative adverbs
 
-Demonstrative roots *ba* "PROX", *huĩ* "MED", *mo* "DEM.DOWN", *to* "DEM.UP", and *yo* "DEM.LVL", when used with locative [Case]() marking.
+Demonstrative roots *ba* "PROX", *huĩ* "MED", *mo* "DEM.DOWN", *to* "DEM.UP", and *yo* "DEM.LVL", when used with the locative [Case]() marking.
 
 #### Examples
 
-*  *bai* "here", *huĩsaiʔ* "there"
-*  *umu* "right down there", *uttu* "right up there", *uyuta* "right there"
-*  *ammu* "way down there", *attu* "way up there", *aiyu* "over there"
+* *bai* "here", *huĩsaiʔ* "there"
+* *umu* "right down there", *uttu* "right up there", *uyuta* "right there"
+* *ammu* "way down there", *attu* "way up there", *aiyu* "over there"
 
 ### <a name="Man">`Man`</a>: manner adverbs
 
-Marked by modalis *-khiʔ, -ʌso* or method *-khiʔnɨŋ, -ʌsʌri*
+Marked by the demonstrative modal case *-khiʔ, -ʌso*, or demonstrative method case *-khiʔnɨŋ, -ʌsʌri*.
 
 #### Examples
 
@@ -38,17 +38,16 @@ Marked by modalis *-khiʔ, -ʌso* or method *-khiʔnɨŋ, -ʌsʌri*
 
 ### <a name="Ext">`Ext`</a>: extension adverbs
 
-Marked by extensional *-tta*, which denotes the same size as a referent in the area demarcated by the demonstrative base
+Marked by the extensional *-tta*, which denotes the same size as a referent in the area demarcated by the demonstrative base.
 
 #### Examples
 
-* *batta* "as big as this", *motta* "as big as down there", *atta* "how big"
+* *batta* "as big as this", *motta* "as big as down there", *atta* "how big".
 
 ### <a name="Qua">`Qua`</a>: quantifier adverbs
 
-Marked by extensional *-ʌti*, which denotes the same quantity as a referent in the area demarcated by the base
+Marked by the extensional *-ʌti*, which denotes the same quantity as a referent in the area demarcated by the demonstrative base.
 
 #### Examples
 
 * *utti* "that much", *katti* "how much"
- 
