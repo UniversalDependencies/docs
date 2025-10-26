@@ -17,18 +17,18 @@ udver: '2'
 </tr>
 </table>
 
-`Aspect` is a feature that specifies duration of the action in time, whether the action has been completed etc.
+`Aspect` is a feature that specifies the duration of the action in time, e.g. whether the action has been completed, etc.
 
-In Chintang, aspect is a feature of [VERB](). It may also occur with auxiliary *lus*. Aspect and [Tense] are separate, although not completely independent of each other.
+In Chintang, aspect is a feature of the [VERB](). It may also occur with the auxiliary *lus*. Aspect and [Tense] are separate but not completely independent of each other.
 
-Aspect is mostly marked by vector verbs in Chintang. The distinction between compounding vector verbs and grammaticalized suffix is based on phonological criteria (for verbhood): vector verbs that lost or can loose their onset are analyzed as grammatical functions rather than part of a compound. As aspect are analyzed: completive *-dhend* and *-hat(t)*, imperfective *-yakt*, and perfect *-ŋs*.
+Aspect is mostly marked by vector verbs in Chintang. The distinction between compounding vector verbs and grammaticalized suffix is based on phonological criteria (for verbhood): vector verbs that lost or can lose their onset are analyzed as grammatical markers rather than as a part of a compound. We analyze as aspect: completive *-dhend* and *-hat(t)*, imperfective *-yakt*, and perfect *-ŋs*.
 
-Completive *-dhend* and *-hat(t)* can co-occur with all three (im)perfectivity aspects (`Imp`, `Perf`, and `Perfv`), for which verbs are obligatory marked.
+Completive *-dhend* and *-hat(t)* can co-occur with all three (im)perfectivity aspects (`Imp`, `Perf`, and `Perfv`), for which verbs are obligatorily marked.
 
 ### <a name="Imp">`Imp`</a>: imperfective
 
 The action took / takes / will take some time span and there is no information whether and when it was / will be completed.
-Imperfective is typically zero-marked on non-past verb-form.
+Imperfective is typically zero-marked on non-past verb forms.
 
 #### Examples
 
@@ -47,7 +47,7 @@ The past action with present relevance, or a present state resulting from a past
 
 The action is viewed as a simple whole.
 
-Perfective is zero-marked on imperative in past verb-form.
+Perfective is zero-marked on the imperative of past verb forms.
 
 #### Examples
 
@@ -60,7 +60,7 @@ The combination of completive (the action was / is / will be completed) and impe
 
 #### Examples
 
-* *Co<b>hatt</b>u<b>wakt</b>uce.* "He used to eat them up.'
+* *Co<b>hatt</b>u<b>wakt</b>uce.* "He used to eat them up."
 
 ### <a name="ComplPerf">`ComplPerf`</a>: completive perfect
 
