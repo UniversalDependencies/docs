@@ -27,7 +27,7 @@ udver: '2'
 ### <a name="Foc">`Foc`</a>: In-situ focalization particle
 
 #### Examples
- * _dèːwôs ɓét <b>kəndí_</b>_ "That's its only reason."
+ * _dèːwôs ɓét <b>kəndí_</b> "That's its only reason."
 
 
 ### <a name="Illoc">`Illoc`</a>: Illocution particle
