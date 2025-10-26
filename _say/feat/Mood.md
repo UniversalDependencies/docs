@@ -29,12 +29,12 @@ udver: '2'
 #### Example
 
 
-### <a name="Ind">`Imp`</a>: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 
 #### Example
 
-### <a name="Int">`Imp`</a>: interrogative
+### <a name="Int">`Int`</a>: interrogative
 
 
 #### Example
