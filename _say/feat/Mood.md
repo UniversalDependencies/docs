@@ -8,13 +8,21 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Ast">Ast</a></td>
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Int">Int</a></td>
   <td><a href="#Irr">Irr</a></td>
-  <td><a href="#Qot">Sub</a></td>
+  <td><a href="#Qot">Qot</a></td>
   <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
+
+### <a name="Ast">`Ast`</a>: assertive
+
+
+#### Example
+
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
@@ -27,7 +35,13 @@ udver: '2'
 #### Example
 
 
+### <a name="Int">`Int`</a>: interrogative
+
+
+#### Example
+
 ### <a name="Irr">`Irr`</a>: irrealis
+
 
 #### Example
 

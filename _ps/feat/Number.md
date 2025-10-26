@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Sing">Sing</a></td>
   <td><a href="#Plur">Plur</a></td>
   <td><a href="#Coll">Coll</a></td>
+  <td><a href="#Ptan">Ptan</a></td>
 </tr>
 </table>
 
@@ -60,6 +61,12 @@ Infinitives always behave like in plural, but this feature is not tagged for the
 Formation from the singular is not 
 
 Nouns ending in 
+
+#### Examples
+
+
+### <a name="Ptan">`Ptan`</a>: plurale tantum
+
 
 #### Examples
 
