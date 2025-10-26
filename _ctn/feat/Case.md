@@ -26,14 +26,14 @@ udver: '2'
 </tr>
 </table>
 
-In Chinatng, `Case` is a feature of nominals: [NOUN](), [PROPN](), and [PRON](). 
+In Chintang, `Case` is a feature of nominals: [NOUN](), [PROPN](), and [PRON](). 
 It also appears on [NUM]() when numerals function as nominals, on infinitive [VERB]() form, and on [ADV](), where case marking contributes to meaning differences.
 
 Chintang makes extensive use of case stacking.
 
 ### <a name="Abs">`Abs`</a>: absolutive
 
-The absolutive case marks subject of intransitive verb and direct object of transitive verb (patient). The case is overtly marked only on *sa* "who".
+The absolutive case marks the sole argument of intransitive verbs and the patient of transitive verbs. The case is overtly marked only on *sa* "who".
 
 #### Examples
 
@@ -42,7 +42,7 @@ The absolutive case marks subject of intransitive verb and direct object of tran
 
 ### <a name="Erg">`Erg`</a>: ergative
 
-The ergative case marks subject of transitive verb (agent). 
+The ergative case marks the agent of transitive verbs.
 
 #### Examples
 
@@ -56,7 +56,7 @@ In Chintang, several distinct locative cases exist, each specifying a different 
 #### Examples
 
 * *Ba <b>khimbe</b> salo yuŋno?* "Who lives <b>in</b> this <b>house</b>?"
-* *Abo huŋgo <b>khimbaiʔni</b> khaccone.* "Now let’s take that <b>home</b>"
+* *Abo huŋgo <b>khimbaiʔni</b> khaccone.* "Now let’s take that <b>home</b>."
 * *<b>Khambamu</b> thia, Kancha.* "Come down <b>on the floor</b>, Kancha."
 * *To <b>Saĩlicebanduya</b>ŋ kattepho.* "He brought it <b>up to Saĩli</b> and the others as well."
 * *<b>Khimbayukta</b> <b>dinbhori</b> yuŋno hola.* "Maybe he stays <b>over at his house</b> <b>the whole day</b>."
@@ -72,11 +72,11 @@ The comitative case marks a referent that forms a couple or group with another a
 
 ### <a name="Cau">`Cau`</a>: finalis
 
-Noun in this case is the cause or purpose of something. The case can mostly be translated into English as "for".
+Nouns in this case express the cause or purpose of something. The case can mostly be translated into English as "for".
 
 #### Examples
 
-* *Huĩ <b>camyaŋtoŋ</b> na maha.* "That’s not <b>(meant) for eating</b>"
+* *Huĩ <b>camyaŋtoŋ</b> na maha.* "That’s not <b>(meant) for eating</b>."
 
 ### <a name="Per">`Per`</a>: perlative
 
@@ -133,7 +133,7 @@ The perlative case denotes movement along something, spaces that are passed by o
 
 #### Examples
 
-* *Khoi, <b>bhamulammayaŋ</b> dhuŋga lonno.* "I don’t know, <b>from down here</b> smoke is rising, too"
+* *Khoi, <b>bhamulammayaŋ</b> dhuŋga lonno.* "I don’t know, <b>from down here</b> smoke is rising, too."
 
 ### <a name="PerErg">`PerErg`</a>: perlative + ergative
 

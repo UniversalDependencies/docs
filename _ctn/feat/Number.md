@@ -34,17 +34,17 @@ The dual denotes exactly two persons, animals, or things. The value `Dual` is no
 
 #### Examples
 
-*  *anci* "we two", *hanci* "you two"
-*  *ukhacceke* "they two are going"
+* *anci* "we two", *hanci* "you two"
+* *ukhacceke* "they two are going"
 
 ### <a name="Plur">`Plur`</a>: plural
 
-The plural denotes more than one person, animal, or thing. 
+The plural denotes more than one person, animal, or thing.
 
 #### Examples
 
 * *cha<b>ce</b>* "children (at least two)"
 * *yo<b>ce</b>* "those (at least two) over there"
-* *ani* "we (more that two)",  *hani* "you (more than two)"
+* *ani* "we (more than two)",  *hani* "you (more than two)"
 * *ukhaʔnok* "they (more than two) are going"
 

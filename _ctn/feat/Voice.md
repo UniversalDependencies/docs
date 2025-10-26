@@ -17,8 +17,7 @@ udver: '2'
 </tr>
 </table>
 
-In Chintang, `Voice` is a feature of [VERB]().  
-A verb may contain a combination of two voice markers, when one of them is the causative (`CauRcp`, `CauRefl`).
+In Chintang, `Voice` is a feature of [VERB](). A verb may contain a combination of two voice markers when one of them is the causative (`CauRcp`, `CauRefl`).
 
 ### <a name="Act">`Act`</a>: active
 
@@ -30,9 +29,7 @@ The default voice. The subject of the verb is the agent (the doer of the action)
 
 ### <a name="Cau">`Cau`</a>: causative
 
-The causative voice increases the valency of the verb by introducing a causer (agent).  
-The original agent becomes the causee, who is now the patient (undergoer).  
-The causative is marked by *-mett*.
+The causative voice increases the valency of the verb by introducing a causer (agent). The original agent becomes the causee, who is now the patient (undergoer). The causative is marked by *-mett*.
 
 #### Examples
 
@@ -40,8 +37,7 @@ The causative is marked by *-mett*.
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal
 
-Used when a plural subject acts both as agents and patients, each performing and receiving the action.  
-The reciprocal is formed by reduplication of the verb stem and the interfix *-ka-*, used in non-finite reciprocal forms.
+Used when a plural subject acts both as agents and patients, each performing and receiving the action. The reciprocal is formed by reduplication of the verb stem and the interfix *-ka-*, used in non-finite reciprocal forms.
 
 #### Examples
 
@@ -49,10 +45,7 @@ The reciprocal is formed by reduplication of the verb stem and the interfix *-ka
 
 ### <a name="Refl">`Refl`</a>: reflexive
 
-The reflexive voice decreases the valency of the verb by one.  
-The subject acts upon itself — the agent and patient are identical.  
-This value is used when the verb has one of the reflexive suffixes:  
-*-na* (present in all finite forms), *-ci* (finite singular), or *-ncĩ* (finite non-singular and non-finite forms).
+The reflexive voice decreases the valency of the verb by one. The subject acts upon itself — the agent and patient are identical. This value is used when the verb has one of the reflexive suffixes: *-na* (present in all finite forms), *-ci* (finite singular), or *-ncĩ* (finite non-singular and non-finite forms).
 
 #### Examples
 
@@ -60,9 +53,7 @@ This value is used when the verb has one of the reflexive suffixes:
 
 ### <a name="CauRcp">`CauRcp`</a>: causative + reciprocal
 
-Used when the verb carries both causative and reciprocal morphology.  
-This combination does not change the valency of the verb.  
-It occurs with plural subjects, where all participants act as causers, agents, and patients, performing the action upon one another.
+Used when the verb carries both causative and reciprocal morphology. This combination does not change the transitivity of the verb. It occurs with plural subjects, where all participants act as causers, agents, and patients, performing the action upon one another.
 
 
 #### Examples
@@ -71,9 +62,7 @@ It occurs with plural subjects, where all participants act as causers, agents, a
 
 ### <a name="CauRefl">`CauRefl`</a>: causative + reflexive
 
-Used when the verb carries both causative and reciprocal morphology.  
-ThiThis combination does not change the valency of the verb.  
-It indicates that the causer and causee are the same entity -- the subject acts upon itself.
+Used when the verb carries both causative and reflexive morphology. This combination does not change the transitivity of the verb. It indicates that the causer and causee are the same entity -- the subject acts upon itself.
 
 #### Examples
 

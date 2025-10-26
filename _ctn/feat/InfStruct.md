@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-Chintang employs several [PART]() that indicate topic, focus, and related discourse functions. Each of these particles reflects the expectations of one or both speech act participants.
+Chintang employs several [PART]() that indicate topic, focus, and related discourse functions. These particles reflect the expectations of one or both speech act participants.
 
 ### <a name="Foc">`Foc`</a>: focus
 
@@ -22,19 +22,19 @@ The endoclitics *=ta*, *=lo*, *=le*, and *=yaŋ* serve to mark different kinds o
 
 #### Examples
 
-* *Chaŋa menuwa<b>ta</b> rɨktoko.* "The child is chasing THE CAT (not what you thought)" -- contrastive focus
-* *Chaŋa menuwa<b>lo</b> rɨktoko.* "The child is chasing THE CAT (not what I thought)" -- surprise focus
-* *Chaŋa menuwa<b>le</b> rɨktoko.* "The child is only chasing THE CAT" -- restrictive focus
-* *Chaŋa menuwa<b>yaŋ</b> rɨktoko.* "The child is also chasing THE CAT" -- additive focus
+* *Chaŋa menuwa<b>ta</b> rɨktoko.* "The child is chasing THE CAT (not what you thought)". -- contrastive focus
+* *Chaŋa menuwa<b>lo</b> rɨktoko.* "The child is chasing THE CAT (not what I thought)". -- surprise focus
+* *Chaŋa menuwa<b>le</b> rɨktoko.* "The child is only chasing THE CAT". -- restrictive focus
+* *Chaŋa menuwa<b>yaŋ</b> rɨktoko.* "The child is also chasing THE CAT". -- additive focus
 
 
 ### <a name="Uniq">`Uniq`</a>: unique
 
-Like the focus particles, the endoclitic *=te* can be analyzed as operating with a contrast between a base and an actual proposition. However, the base proposition remains comparatively vague because the base constituent is not filled by a specific referent or circumstance but is assumed to be arbitrary. By contrast, the actual proposition makes it clear that there is only one **uniquely identfiable** referent or circumstance that matches.
+Like the focus particles, the endoclitic *=te* can be analyzed as operating with a contrast between a base and an actual proposition. However, the base proposition remains comparatively vague because the base constituent is not filled by a specific referent or circumstance but is assumed to be arbitrary. By contrast, the actual proposition makes it clear that there is only one **uniquely identifiable** referent or circumstance that matches the context.
 
 #### Examples
 
-*  *Thego<b>te</b> labaŋbidahãʔna o.* "Grab the BIG one for me, okay?"
+* *Thego<b>te</b> labaŋbidahãʔna o.* "Grab the BIG one for me, okay?"
 
 
 ### <a name="Top">`Top`</a>: topic

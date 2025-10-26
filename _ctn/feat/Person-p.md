@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-In Chintang, (di)transitive [VERB]() overtly mark [Number]() and [Person]() agreement with their agents and patients. The layers corresponding to agent agreement are annotated as default ones (`Number` and `Person`). The patient agreement is annotated on `Number[psor]` and `Person[psor]` layers.
+In Chintang, (di)transitive [VERB]() overtly mark [Number]() and [Person]() agreement with their agents and patients. The layers corresponding to agent agreement are annotated as default ones (`Number` and `Person`). The patient agreement is annotated on `Number[p]` and `Person[p]` layers.
 
 ### <a name="1">`1`</a>: first person
 

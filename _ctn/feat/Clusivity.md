@@ -13,9 +13,9 @@ udver: '2'
 </tr>
 </table>
 
-`Clusivity` is a feature of first-person plural personal [PRON](). As such, it can also be reflected by inflection of [VERB]() and [NOUN](). 
+`Clusivity` is a feature of the first-person plural personal [PRON](). As such, it can also be reflected by the inflection of the [VERB]() and [NOUN](). 
 
-In Chintang, (di)transitive verbs agree with both their agents and their patients. The agent clusivity is annotated with `Clusivity`, the patient clusivity is annotated with `Clusivity[p]`
+In Chintang, (di)transitive verbs agree with both their agents and their patients. The agent clusivity is annotated with `Clusivity`, the patient clusivity is annotated with `Clusivity[p]`.
 
 
 ### <a name="Ex">`Ex`</a>: exclusive

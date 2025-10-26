@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-Possessives may have two different numbers: that of the possessed object (number agreement with modified noun) and that of the possessor. The `Number[psor]` feature captures the possessor’s number.
+Possessives may have two different persons: that of the possessed object (number agreement with modified noun) and that of the possessor. The `Person[psor]` feature captures the possessor’s person.
 
 
 ### <a name="1">`1`</a>: first person
