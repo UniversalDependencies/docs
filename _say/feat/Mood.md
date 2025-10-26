@@ -10,7 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Imp">Imp</a></td>
-  <td><a href="#Imp">Ind</a></td>
+  <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
   <td><a href="#Qot">Sub</a></td>
@@ -29,7 +29,18 @@ udver: '2'
 #### Example
 
 
+### <a name="Ind">`Imp`</a>: indicative
+
+
+#### Example
+
+### <a name="Int">`Imp`</a>: interrogative
+
+
+#### Example
+
 ### <a name="Irr">`Irr`</a>: irrealis
+
 
 #### Example
 
