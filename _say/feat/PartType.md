@@ -33,7 +33,7 @@ udver: '2'
 ### <a name="Illoc">`Illoc`</a>: Illocution particle
 
 #### Examples
- * _màː ɗutíː <b>ŋǎːn</b>_ "Did we kill him?"
+ * _màː ɗutíː <b>ŋǎːn</b>_ "Didn't we kill him?"
 
 
 ### <a name="Neg">`Neg`</a>: Negation particle
