@@ -18,8 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 
 The following people have contributed to making this treebank part of UD: Kira Tulchynska, Alena Witzlack-Makarevich, Sylvanus Job, Michael Hahn.
 
-Repository: [UD_Khoekhoe-KDT](https://github.com/UniversalDependencies/UD_Khoekhoe-KDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnaq_kdt216)<br />
+Repository: [UD_Khoekhoe-KDT](https://github.com/UniversalDependencies/UD_Khoekhoe-KDT)<br/>
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnaq_kdt216)<br/>
 Download all treebanks: [UD 2.16](/#download)
 
 License: CC BY-SA 4.0
@@ -52,8 +52,8 @@ UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoe lang
 
 The UD\_Khoekhoe-KDT treebank consists of various texts translated into Khoekhoe by native speakers, then glossed and annotated. The included texts are:
 
-- **grammar\_Cairo**: 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt))
-- **grammar\_BivalTyp**: [BivalTyp](https\://www\.bivaltyp.info/languages/descriptions/Khoekhoe.html) dataset.
+- **grammar\_Cairo**: 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt)
+- **grammar\_BivalTyp**: [BivalTyp](https://www.bivaltyp.info/languages/descriptions/Khoekhoe.html) dataset.
 - **film\_Bridge**: Subtitles from *Bridge of Spies* (2015).
 - **film\_Titanic**: A section of subtitles from *Titanic* (1997).
 - **book\_Khomai**: Chapters from the school book *Khomai* (1971), with shuffled sentences.
@@ -172,7 +172,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
       <li>ADJ: ǀguis, ǀguisa, ǂansa, ǃnoesa, ǀAsa, ǀgamsa, ǀguide, ǃkhūsa</li>
       <li>DET: hoasa, hoadi, naus</li>
       <li>NOUN: oms, gangans, aiǂoas, ǃkhais, ǃkhaisa, mamas, aumas, khoes, audosa, omsa</li>
-      <li>NUM: ǀguis, Hakaǀas, Khoeses, dīsiǀoadīsis, hakas, hûdīsiǀoadīsis, khoeseǀab, ǀgams, ǀgamǀoadīsis, ǃnanide</li>
+      <li>NUM: ǀguis, hakaǀas, khoeses, dīsiǀoadīsis, hakas, hûdīsiǀoadīsis, khoeseǀab, ǀgams, ǀgamǀoadīsis, ǃnanide</li>
       <li>PRON: s, ǁîs, ǁnās, si, nēs, sa, ǁnāsa, ǁîsa, nēsa, ra</li>
       <li>PROPN: Mariasa, Saras, Marias, Soviets, States, Maras, Fransfonteins, Marys, Roses, Coronas</li>
     </ul>
@@ -505,7 +505,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Appl
     <ul>
-      <li>VERB: mîba, sîsenba, ǃoaba, ūhâba, ǁGuiǃāba, ǁamaba, ǃgâiba, ǃkhoeba, Dâba, Murphyba</li>
+      <li>VERB: mîba, sîsenba, ǃoaba, ūhâba, ǁguiǃāba, ǁamaba, ǃgâiba, ǃkhoeba, dâba</li>
     </ul>
   </li>
 </ul>
@@ -537,7 +537,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Rcp
     <ul>
-      <li>VERB: ǀgoragu, ǂangu, ǁnâugu, Saogu, dāǃangu, mâǃoagu, mûǃāgu, saurugu, ǀhuru-ūgu, ǁkhonagu</li>
+      <li>VERB: ǀgoragu, ǂangu, ǁnâugu, saogu, dāǃangu, mâǃoagu, mûǃāgu, saurugu, ǀhuru-ūgu, ǁkhonagu</li>
     </ul>
   </li>
 </ul>
@@ -591,7 +591,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>Ind
     <ul>
       <li>DET: ǀnî, ǂgui, enige</li>
-      <li>PRON: ǀnîba, ǂGuina</li>
+      <li>PRON: ǀnîba, ǂguina</li>
     </ul>
   </li>
 </ul>
@@ -599,8 +599,8 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Int
     <ul>
-      <li>ADV: mâti, mâpa, mati, mâtikō, mâǁae, Mâtikōse, mapa</li>
-      <li>DET: mâ, tare, mâǃnôa, Mâtikō, taregu</li>
+      <li>ADV: mâti, mâpa, mati, mâtikō, mâǁae, mâtikōse, mapa</li>
+      <li>DET: mâ, tare, mâǃnôa, mâtikō, taregu</li>
       <li>PRON: tare-e, tare-i, tare, tari, tari-e, tarena, tari-i, tareba, Tariba, ham-i</li>
     </ul>
   </li>
@@ -694,7 +694,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>2
     <ul>
       <li>DET: sa, hoago, sago</li>
-      <li>NOUN: ǃgôahesatse, ǃgôasatse, ǀgawiǃgôahesatse, ǃGôahesas, ǃgôasas, ǀgôatse, ǃnari-aogo, Dadatse, khoetsa, khoetse</li>
+      <li>NOUN: ǃgôahesatse, ǃgôasatse, ǀgawiǃgôahesatse, ǃgôahesas, ǃgôasas, ǀgôatse, ǃnari-aogo, Dadatse, khoetsa, khoetse</li>
       <li>PRON: ts, sats, tsi, du, satsa, sadu, sa, sago, s, go</li>
       <li>PROPN: ǃKhūtse, Awotse</li>
     </ul>

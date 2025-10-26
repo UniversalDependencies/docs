@@ -16,7 +16,7 @@ udver: '2'
 </tr>
 </table>
 
-This feature indicates, for the head of a fixed expression, the effective UPOS of the full expression when it differs from the UPOS of the word itself. he main motivation for **ExtPos** is that the multiword expression may behave like a part of speech different from the UPOS of the head node; however, **ExtPos** is sometimes used even if it is identical to the UPOS of the head node.
+This feature indicates, for the head of a fixed expression, the effective UPOS of the full expression when it differs from the UPOS of the word itself. The main motivation for **ExtPos** is that the multiword expression may behave like a part of speech different from the UPOS of the head node; however, **ExtPos** is sometimes used even if it is identical to the UPOS of the head node.
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 

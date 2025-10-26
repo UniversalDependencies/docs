@@ -13,13 +13,13 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, numerical expressions such as cardinal and ordinal numbers have a NumType feature. From the syntactic point of view, some ordinal numbers behave like [adjectives](naq-pos/ADJ)/[adverbs](naq-pos/ADV) and are tagged as such.
+In Khoekhoe, numerical expressions such as cardinal and ordinal numbers have a NumType feature. From the syntactic point of view, some ordinal numbers behave like [adjectives](naq-pos/ADJ) or [adverbs](naq-pos/ADV) and are tagged as such.
 
 ### <a name="Card">`Card`</a>: cardinal numbers
 
 #### Examples
 
-* _ǀgui, ǀgam, ǃnona_ "one, two, three"
+* _ǀgui, ǀgam, ǃnona_ 'one, two, three'
 
 ### <a name="Ord">`Ord`</a>: ordinal number
 

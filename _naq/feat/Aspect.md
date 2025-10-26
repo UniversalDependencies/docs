@@ -42,7 +42,7 @@ The action took / takes / will take place in a clearly bounded short period of t
 
 #### Examples
 
-* _Tita ge xrat dīsisa ge <b>a</b> ǂnûǃgau._ "I failled grade ten."
+* _Tita ge xrat dīsisa ge <b>a</b> ǂnûǃgau._ "I failed grade ten."
 
 * _Funi ge ge ǂgâ oms ǃnâ o ǁîsa <b>a</b> ǂoa._ "Fun entered the house, then she came out."
 <!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->

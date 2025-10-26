@@ -29,11 +29,11 @@ xcomp(tsoatsoa, khao)
 xcomp(start, dig)
 ~~~
 
-The key difference here is that, if a verb takes a whole clause as a compliment (with it's own subject), that this relation is `ccomp`. Whereas `xcomp` can be used only with a small closed group of main verbs that take as compliment a single verb (e.g., _tsoatsoa_ "start", _ǂgao_ "want").
+The key difference here is that if a verb takes a whole clause as a complement (with its own subject) this relation is `ccomp`, whereas `xcomp` can be used only with a small closed group of compliment-taking predicates that take as its complement a single verb (e.g., _tsoatsoa_ "start", _ǂgao_ "want").
 
 ### Reported Speech
 
-With a speech verb like _mî_ "say", the content of reported speech is considered to be part of the verb’s valency. It therefore always attaches as `ccomp`, including direct and indirect speech:
+With a speech verb, suc as _mî_ "say", the content of reported speech is considered to be part of the verb’s valency. It therefore always attaches as `ccomp`, including direct and indirect speech:
 
 ~~~ sdparse
 ǁKhore ta ge ra khoena " ǀû re " ti mî ǀû ǃkhaisa . \n Wish I DECL IPFV people " stop PDIR " QUOT say stop COMPL .

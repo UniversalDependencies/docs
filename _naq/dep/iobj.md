@@ -58,7 +58,7 @@ iobj(teach, them)
 ~~~
 
 
-For the indirect object of verb with applicative voice is used [iobj:appl]() sub-relation.
+For the indirect object of a verb in the applicative voice the [iobj:appl]() sub-relation is used.
 
 ~~~ sdparse
 ǁGuiǃāba te re . \n Explain_for me IPFV .

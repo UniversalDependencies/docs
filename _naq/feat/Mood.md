@@ -65,7 +65,7 @@ The action of the clause is possible but not certain. In Khoekhoe, there is no d
 
 ### <a name="Int">`Int`</a>: interrogative
 
-The speaker may use interrogative in yes-not questions. This value is used for the interrogative auxiliary _i_, and the emphatic interrogative _kha_.
+The speaker may use the interrogative in yes-not questions. This value is used for the interrogative auxiliary _i_, and the emphatic interrogative _kha_.
 
 #### Examples
 

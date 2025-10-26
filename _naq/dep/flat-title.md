@@ -8,9 +8,9 @@ udver: '2'
 The `flat:title` subtype of the `flat` relation is used to connect a title or a kinship relation with a name.
 
 ~~~ sdparse
-ǃgôahesatse Donovan \n Mr. Donavan
+ǃgôahesatse Donovan \n Mr. Donovan
 flat:title(ǃgôahesatse, Donovan)
-flat:title(Mr., Donavan)
+flat:title(Mr., Donovan)
 ~~~
 
 ~~~ sdparse

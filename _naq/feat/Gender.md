@@ -18,7 +18,7 @@ In Khoekhoe, `Gender` is a feature of nominals: [nouns](naq-pos/NOUN), [proper n
 
 ### <a name="Masc">`Masc`</a>: masculine gender
 
-Nouns denoting male persons are masculine. Nominals may be also grammatically masculine, without any relation to sex.
+Nouns denoting male persons are masculine. Nominals may also be grammatically masculine, without any relation to sex.
 
 #### Examples
 

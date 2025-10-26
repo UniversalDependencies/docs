@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Dem">Dem</a></td>
-  <td><a href="#Dem">Ind</a></td>
+  <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Neg">Neg</a></td>
   <td><a href="#Prs">Prs</a></td>
@@ -33,7 +33,7 @@ See also the [Poss](https://universaldependencies.org/cs/feat/Poss.html) feature
 
 * _te, tsi, bi, si, i, da, du, ni/in_ "me, us, you, you, him, her, it, them"
 
-* _âta, âts, âgu_  "my, your (masc. sing.), their (masc. plur.)"
+* _âta, âts, âgu_ "my, your (masc. sing.), their (masc. plur.)"
 
 * _ti, sa_ "my, your (sing.)"
 
@@ -43,7 +43,7 @@ Note that it is not a full list.
 
 #### Examples
 
-* _tari-i, taris_ "who (comm. sing.), who (fem. sing.)",  ham-i, hams_ "who (comm. sing.), who (fem. sing.)"
+* _tari-i, taris_ "who (comm. sing.), who (fem. sing.)", ham-i, hams_ "who (comm. sing.), who (fem. sing.)"
 
 * _tare-i, taren_ "what (comm. sing.), what (comm. plur.)"
 

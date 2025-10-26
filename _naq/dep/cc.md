@@ -25,7 +25,7 @@ conj(Watters-7, Cowan-9)
 conj(Watters-7, Donovan-11)
 ~~~
 
-A coordinating conjunction relation is also used with the the additional _tsî_ "and" + person-gender-number clitic.
+A coordinating conjunction relation is also used with the additional _tsî_ "and" + person-gender-number clitic.
 
 ~~~ sdparse
 Maras tsî Saras tsî ra ge ǃhaebe ra ǂkhawu . \n Mara and Sara and 3F.DU DECL fast IPFV become weak .

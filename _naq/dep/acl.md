@@ -19,16 +19,16 @@ acl(ǁaeb, sîsen)
 acl(time, work)
 ~~~
 
-A relative clause is an instance of `acl`, characterized by coreferentiality of the head noun with a constituent inside the embedded clause (either at the end of the clause or relized not overtly). [acl:relcl]() subtype is used in Khoekhoe in such cases.
+A relative clause is an instance of `acl`, characterized by coreferentiality of the head noun with a constituent inside the embedded clause (either at the end of the clause or not realized overtly). [acl:relcl]() subtype is used in Khoekhoe in such cases.
 
 ~~~ sdparse
-tsaoǃoreb hîa mûǂuidaos ai mâ b \n ashtray.3M.SG that windowsill on stand REL.3M.SG'
+tsaoǃoreb hîa mûǂuidaos ai mâ b \n ashtray.3M.SG that windowsill on stand REL.3M.SG
 acl(tsaoǃoreb, mâ)
 acl(ashtray.3M.SG, stand)
 ~~~
 
 ~~~ sdparse
-ǀguri mâ tsūǃgâ-i \n alone stand incident'
+ǀguri mâ tsūǃgâ-i \n alone stand incident
 acl(tsūǃgâ-i, mâ)
 acl(incident, stand)
 ~~~

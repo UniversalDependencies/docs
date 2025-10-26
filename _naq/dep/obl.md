@@ -20,7 +20,7 @@ The oblique nominal representing the agent of a passive verb is noted with the s
 ~~~ sdparse
 Petrub ge Marias xa ge mîǁamhe . \n Petru DECL Maria by PST be_offended .
 nsubj:pass(mîǁamhe, Petrub)
-obl:agend(mîǁamhe, Marias)
+obl:agent(mîǁamhe, Marias)
 case(Marias, xa)
 nsubj:pass(be_offended, Petru)
 obl:agent(be_offended, Maria)

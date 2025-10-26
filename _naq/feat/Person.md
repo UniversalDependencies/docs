@@ -23,7 +23,7 @@ In singular, the first person refers just to the speaker / author. In plural, it
 #### Examples
 
 * _tita_ "I", _sikhom_ "we two (masc. excl.)", _sam_ "we two (fem./neut. excl.)",
-  _sige_ "we (masc. excl.)", _sise_ "we (fem. excl.)" _sada_ "we (neut. incl.)"
+  _sige_ "we (masc. excl.)", _sise_ "we (fem. excl.)", _sada_ "we (neut. incl.)"
 
 * _ti_ "my"
 
@@ -49,7 +49,7 @@ The third person refers to one or more persons that are neither speakers nor add
 
 #### Examples
 
-* _ǁîb_ "he" _ǁîs_ "she", _ǁî-i_ "it",
+* _ǁîb_ "he", _ǁîs_ "she", _ǁî-i_ "it",
   _ǁîkha_ "they two (masc.)", _ǁîra_ "they two (fem./neut.)",
   _ǁîgu_ "they (masc.)", _ǁîdi_ "they (fem.)", _ǁîn_ "they (neut.)"
 

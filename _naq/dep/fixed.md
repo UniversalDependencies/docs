@@ -5,7 +5,7 @@ shortdef: 'fixed multiword expression'
 udver: '2'
 ---
 
-The `fixed` relation is used for certain fixed grammaticized expressions. Such expressions tend to behave like function words. They include:
+The `fixed` relation is used for certain fixed grammaticalized expressions. Such expressions tend to behave like function words. They include:
 
 * Coordinate conjunction _tamas ka i o_ "or"
 * Prepositions _ams ai_ "near", _soas ǃnâ_ "instead of", etc.

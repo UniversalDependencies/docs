@@ -41,8 +41,7 @@ Used for direct and indirect objects, clause subjects in clauses with separate s
 
 * _Ob ge <b>ǁnâuǃgâǃkhaiba</b> <b>sida</b> ǃoa nē <b>ǁhōba</b> go ao_ "Then the **court** tossed this **matter** to **us**."
 
-* _<b>ǁAmaxūǁgâuga</b> ǃoa ta nî ī
-…._ "I got to the **store**…"
+* _<b>ǁAmaxūǁgâuga</b> ǃoa ta nî ī …._ "I got to the **store**…"
 
 ### <a name="Voc">`Voc`</a>: vocative
 

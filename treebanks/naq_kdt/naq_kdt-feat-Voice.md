@@ -21,13 +21,13 @@ The feature is used with 1 part-of-speech tags: <tt><a href="naq_kdt-pos-VERB.ht
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (3467; 88% of non-empty `Voice`): <em>hâ, ūhâ, ī, dī, mî, sī, ǁkhā, ǂan, mû, kō</em>
-* `Appl` (83; 2% of non-empty `Voice`): <em>mîba, sîsenba, ǃoaba, ūhâba, ǁGuiǃāba, ǁamaba, ǃgâiba, ǃkhoeba, Dâba, Murphyba</em>
+* `Appl` (83; 2% of non-empty `Voice`): <em>mîba, sîsenba, ǃoaba, ūhâba, ǁGuiǃāba, ǁamaba, ǃgâiba, ǃkhoeba, dâba</em>
 * `ApplPass` (23; 1% of non-empty `Voice`): <em>ǃgâibahe, mîbahe, tsūbahe, ībahe, ǁGaibahe, ǂābahe, ǃgaubahe</em>
 * `ApplRfl` (9; 0% of non-empty `Voice`): <em>ǁnâubasen, dībasen, kaikaibasen, ūǂuibasen, ǁamabasen, ǃgîbasen, ǃkhōbasen, ǃâubasen</em>
 * `Pass` (277; 7% of non-empty `Voice`): <em>mîhe, māhe, ǂnauhe, ǃkhōhe, ǂnoabahe, hōhe, kaihe, ūhe, ǂgaihe, ǂanhe</em>
-* `Rcp` (16; 0% of non-empty `Voice`): <em>ǀgoragu, ǂangu, ǁnâugu, Saogu, dāǃangu, mâǃoagu, mûǃāgu, saurugu, ǀhuru-ūgu, ǁkhonagu</em>
+* `Rcp` (16; 0% of non-empty `Voice`): <em>ǀgoragu, ǂangu, ǁnâugu, saogu, dāǃangu, mâǃoagu, mûǃāgu, saurugu, ǀhuru-ūgu, ǁkhonagu</em>
 * `Rfl` (55; 1% of non-empty `Voice`): <em>dīsen, huisen, mûsen, ǁkhāǁkhāsen, amiǁguisen, draaisen, spuitsen, sâusen, tanisen, ǂhomisen</em>
-* `EMPTY` (12): <em>Anasenǃgû, hâ, klim, mî, mûsen, soek, ǀkhoma, ǁgau, ǁhû, ǂan</em>
+* `EMPTY` (12): <em>anasenǃgû, hâ, klim, mî, mûsen, soek, ǀkhoma, ǁgau, ǁhû, ǂan</em>
 
 <table>
   <tr><th>Paradigm <i>dī</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Appl</tt></th><th><tt>ApplRfl</tt></th><th><tt>Rfl</tt></th></tr>

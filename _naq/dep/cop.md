@@ -5,7 +5,7 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A `cop` is the relation between the nominal predicate and the copulas _a_ (present) and _i_ (non-present). The verbs _hâ_ "be present" and _ǀkhai_ "be absent", despite often being counted among copular verbs, are not analyzed as `cop` for the purposes of UD. The main reasoning is that they function as regular verbs in a clause: they are usualy located in the clause-final position.
+A `cop` is the relation between the nominal predicate and the copulas _a_ (present) and _i_ (non-present). The verbs _hâ_ "be present" and _ǀkhai_ "be absent", despite often being counted among copular verbs, are not analyzed as `cop` for the purposes of UD. The main reasoning is that they function as regular verbs in a clause: they are usually located in the clause-final position.
 
 Copulas are treated as dependents of the nominal predicate (a [noun](naq-pos/NOUN) or an [adjective](naq-pos/ADJ))
 
