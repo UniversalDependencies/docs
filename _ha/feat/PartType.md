@@ -44,7 +44,7 @@ udver: '2'
 ### <a name="Top">`Top`</a>: Topicalisation particle
 
 #### Examples
- * _shiː<b>maː</b> mù jeː mù sayar̃_ "And then we sold them." (Southern Hausa)
+ * _shiː <b>maː</b> mù jeː mù sayar̃_ "And then we sold them." (Southern Hausa)
  * _abìnga <b>dai</b> < wasu ƴan maːtaː nàː biyu_ "There were two girls." (Northern Hausa)
 
 ### <a name="Disc">`Disc`</a>: Discourse particle
