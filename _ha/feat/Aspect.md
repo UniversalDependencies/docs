@@ -21,7 +21,7 @@ udver: '2'
 </tr>
 </table>
 
-In Hausa, aspect is a feature of auxiliaries and particles that specifies the duration and completion of processes in time.
+In Hausa, aspect is a feature of auxiliaries and particles that specify the duration and completion of processes in time.
 
 ### <a name="Aor">`Aor`</a>: aorist aspect
 
