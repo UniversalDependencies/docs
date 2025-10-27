@@ -9,7 +9,6 @@ We treat a closed set of postpositions (traditionally known as “improper adpos
 
 The head of the localizer is the noun or the main verb of the clause preceding it. Localizers are always tagged `ADP`. When it follows a noun, it receives the `case:loc` relation label. But if it follows a verb and acts as an adverbial, it receives the [obl]() relation (but retains the tag `ADP`).
 
-In Armenian the following postpositions are commonly used as localizers: _միջի_, _միջից_
 ~~~ sdparse
 Վերցրեց/VERB[Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act] գիրքը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] սեղանի/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing] վրայից/ADP[AdpType=Post|Case=Abl] ։/PUNCT \n He-took the-book from-on the-table .
 obj(Վերցրեց, գիրքը)
