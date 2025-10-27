@@ -10,41 +10,37 @@ The prototypes for flat are: personal names, names composed of several words wit
 
 Personal names: 
 ~~~ sdparse
-Jonas Basanavičius
-flat(Jonas, Basanavičius)
+Jonas Basanavičius . \n Jonas Basanavičius .
+flat(Jonas-1, Basanavičius-2)
+flat(Jonas-4, Basanavičius-5)
 ~~~
 
 ~~~ sdparse
-Liudvikas van Bethovenas \n Ludwig van Beethoven
-flat(Liudvikas, van)
+Liudvikas van Bethovenas . \n Ludwig van Beethoven .
+flat(Liudvikas, van-2)
 flat(Liudvikas, Bethovenas)
-flat(Ludwig, van)
+flat(Ludwig, van-6)
 flat(Ludwig, Beethoven)
-~~~
-
-~~~ sdparse
-Carl XVI Gustaf
-flat(Carl-1, Gustaf-3)
-flat(Carl-1, XVI-2)
 ~~~
 
 If the surname is mentioned first and then the given name, the _flat_ annotation still attaches to the first word:
 ~~~ sdparse
-Basanavičius Jonas
-flat(Basanavičius, Jonas)
+Basanavičius Jonas . \n Basanavičius Jonas .
+flat(Basanavičius-1, Jonas-2)
+flat(Basanavičius-4, Jonas-5)
 ~~~
 
 Names:
 ~~~ sdparse
 Los Andželas \n Los Angeles
-flat(Los, Andželas)
-flat(Los, Angeles)
+flat(Los-1, Andželas-2)
+flat(Los-3, Angeles)
 ~~~
 
 ~~~ sdparse
 Buenos Airės \n Buenos Aires
-flat(Buenos, Airės)
-flat(Buenos, Aires)
+flat(Buenos-1, Airės)
+flat(Buenos-3, Aires)
 ~~~
 
 The relation is not used to attach adjectives to nouns within multi-word names of places, organizations etc. (e.g. _Juodoji jūra (Black Sea)_). Names that have a regular syntactic structure, like _Žiedų valdovas (The Lord of the Rings)_ or _Kauno marios (Kaunas Sea)_, should be annotated with regular syntactic relations rather than flat structures.
@@ -52,8 +48,8 @@ The relation is not used to attach adjectives to nouns within multi-word names o
 Onomatopoeias:
 ~~~ sdparse
 Šuo sulojo au au . \n The-dog barked au au .
-flat(au, au)
-flat( au, au)
+flat(au-3, au-4)
+flat(au-8, au-9)
 ~~~
 
 Two syntactically equivalent adjectives joined by a hyphen (usually with the suffix -inis) express a single complex attribute of an object and are connected with the _flat_ relation from the first component:
