@@ -48,9 +48,9 @@ The tags `nummod` and `nummod:gov` can be used for compound numerals if a syntac
 
 ~~~ sdparse
 Penki milijonai eurų . \n Five million euros .
-nummod(milijonai, penki)
+nummod(milijonai, Penki)
 nummod:gov(eurų, milijonai)
-nummod(million, five)
+nummod(million, Five)
 nummod:gov(euros, million)
 ~~~
 
@@ -58,10 +58,10 @@ If no syntactic relation can be identified, the tag `compound` is used (head is 
 
 ~~~ sdparse
 Trys tūkstančiai šimtas eurų . \n Three thousand one hundred euros .
-nummod(tūkstančiai, trys)
+nummod(tūkstančiai, Trys)
 compound(šimtas, tūkstančiai)
 nummod:gov(eurų, šimtas)
-nummod(thousand, three)
+nummod(thousand, Three)
 compound(hundred, thousand)
 nummod:gov(euros, hundred)
 ~~~
