@@ -12,7 +12,7 @@ Armenian has prepositions and postpositions but no circumpositions. They occur b
 Some prepositions take the form of fixed multiword expressions, e.g. _ի սեր&nbsp;_ “for the love of”, _ի պատիվ&nbsp;_ “in honor of”. The component words are then still tagged according to their basic use (_ի&nbsp;_ is `ADP`, _սեր&nbsp;_ is [NOUN](), etc.) and their status as multiword expressions is accounted for in the [syntactic annotation](fixed).
 
 Note, that the Armenian `ADP` covers also “localizers”. These are a closed set of postpositions (traditionally known as “improper adpositions”) which inflect for [Case](), [Number[psor]]() and [Person[psor]]() and typically indicate spatial information in relation to the noun preceding it. Localizers are still tagged as `ADP`, but are labeled with additional features and with special dependency relation [case:loc]().
-Here is the list of commonly used localizers: _միջի_, _միջից_, _միջով_, _ետևից_, _հետևից_, _հետևում_, _վրայի_, _վրայից_, _վրայով_, _տակի_, _տակից_, _տակով_, _մոտի_, _մոտից_, _մոտով_, _առջևի_, _առջևից_, _առջևով_:
+Here is the list of commonly used localizers: _միջի_, _միջից_, _միջով_, _ետևից_, _հետևից_, _հետևում_, _վրայի_, _վրայից_, _վրայով_, _տակի_, _տակից_, _տակով_, _մոտի_, _մոտից_, _մոտով_, _առջևի_, _առջևից_, _առջևով_.
 
 - _Վերցրեց գիրքը սեղանի <b>վրայից</b>։&nbsp;_ “He took the book from on the table.”
 - _Ճանապարհն անցնում էր դաշտերի <b>միջով</b>։&nbsp;_ “The road passed through the fields.”
