@@ -19,7 +19,7 @@ udver: '2'
 
 `Aspect` is a feature that specifies the duration of the action in time, e.g. whether the action has been completed, etc.
 
-In Chintang, aspect is a feature of the [VERB](). It may also occur with the auxiliary *lus*. Aspect and [Tense] are separate but not completely independent of each other.
+In Chintang, aspect is a feature of the [VERB](). It may also occur with the auxiliary *lus*. Aspect and [Tense]() are separate but not completely independent of each other.
 
 Aspect is mostly marked by vector verbs in Chintang. The distinction between compounding vector verbs and grammaticalized suffix is based on phonological criteria (for verbhood): vector verbs that lost or can lose their onset are analyzed as grammatical markers rather than as a part of a compound. We analyze as aspect: completive *-dhend* and *-hat(t)*, imperfective *-yakt*, and perfect *-ŋs*.
 

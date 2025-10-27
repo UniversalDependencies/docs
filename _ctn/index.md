@@ -37,14 +37,14 @@ udver: '2'
   * Information structure particles: focus *ta*, *ai*; restrictive *le*; surprise *lo*; additive *yaŋ*; topic *na*, *bhane*; contrastive topic *caĩ*; and unique delimiter *te*.
   * Utterance particles: collaborative *aŋ*; contrastive question *enaŋ*; attentional *gonei*; emotional involvement *hou*; inquisitive *hoina*, *maha*; presumptive *hola*; neutral question *manchi*; insistive *na*; assertive *ni*; reconfirmative *o*; mirative *raicha*; informatory *them*.
   * Copular verboids: *mahãʔ* "be not", *manchiʔ* "be not there", *mane* "should not", and *phopheiʔ* "be no longer there".
-<!-- TODO add about AUX-VERB distinction. If *lus* is an aux, add info to verbal forms-->
+* Chintang has just one auxiliary verb ([AUX]()), *lus* ('speak, feel, be felt'). The auxiliary combines with the dedicated reciprocal form of the verb.
 * The [DET]() tag applies to words functioning as determiners, including:
   * Demonstratives: *ba*, *huĩ*, *mo*, *to*, *yo*
   * Indefinites: *arko*, *baddhe*, *jun*, *kun*, *miʔmuŋ*
   * Total *jammai*
   * Interrogatives *asuk*, *them*, *themma*
   Determiners do not have a [Case]() marking on them.
-* Chintang distinguishes four main verbal forms based on the VerbForm [VERB]():
+* Chintang distinguishes four main verbal forms based on the VerbForm (tagged [VERB]() or [AUX]()):
   * Finite verbs (`Fin`)
   * Infinitives (`Inf`)
   * Converbs (`Conv`)
