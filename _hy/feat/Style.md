@@ -46,13 +46,13 @@ systematically change between dialects or styles).
 
 #### Examples
 
-* _հնդուշկա, բուռդիկ, Էրիվան, շուտուց_
+* _հնդուշկա, բուռդիկ, շուտուց_
 
 ### <a name="Slng">`Slng`</a>: slang
 
 #### Examples
 
-* _մանթրաշ, մանթո, քյալ, քսիվ, մենթ, խոխմա, դուխով_
+* _պանյատ, մանթո, քյալ, քյառթու, մենթ, խոխմա, կռուտիտ_
 
 ### <a name="Expr">`Expr`</a>: expressive, emotional
 
@@ -66,5 +66,5 @@ Typical examples of expressive words in the Armenian data are diminutives:
 
 #### Examples
 
-* _էծ, ուլ, պոռնիկ, ռեխ, զխտվել, շնթռել, լակել, սիկտիր, տուտուց_
+* _ղախպա, ուլ, պոռնիկ, ռեխ, զխտվել, շնթռել, լակել, սիկտիր, տուտուց_
 <!-- Interlanguage links updated So 10. května 2025, 18:14:36 CEST -->
