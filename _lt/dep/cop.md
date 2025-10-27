@@ -5,10 +5,6 @@ shortdef : 'copula'
 udver: '2'
 ---
 
-~~~ sdparse
-
-~~~
-
 A `cop` (copula) is the relation between the nominal predicate and the copular verb _būti_ “to be”. We normally take a copula as a dependent of its complement (the nominal predicate).
 
 ~~~ sdparse
@@ -29,7 +25,7 @@ _Būti (‘to-be’) _+ noun:
 ~~~ sdparse
 Ji yra mama . \n She is a-mother .
 cop(mama, yra)
-cop(mother, is)
+cop(a-mother, is)
 ~~~
 
 ~~~ sdparse
