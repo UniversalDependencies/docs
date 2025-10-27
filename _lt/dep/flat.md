@@ -58,7 +58,7 @@ flat( au, au)
 
 Two syntactically equivalent adjectives joined by a hyphen (usually with the suffix -inis) express a single complex attribute of an object and are connected with the _flat_ relation from the first component:
 ~~~ sdparse
-Socialinė-ekonominė sistema \n Social-economic system
+Socialinė - ekonominė sistema \n Social - economic system
 flat(Socialinė, ekonominė)
 flat(Social, economic)
 ~~~
