@@ -84,6 +84,6 @@ The habitual aspect expresses a process that tends to occur frequently.
 The iterative aspect denotes a repeated or habitual process. It is expressed by the adverbial particle 'ta' combined with the Progressive Aspect or the verb 'yi' in the other TAMs. 
 
 #### Examples
-- _shiː shì yi <b>ta<b> sôm màcce //_ "He keeps loving the woman."
+- _shiː shì yi <b>ta</b> sôm màcce //_ "He keeps loving the woman."
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->
