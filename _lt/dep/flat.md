@@ -12,14 +12,14 @@ Personal names:
 ~~~ sdparse
 Jonas Basanavičius . \n Jonas Basanavičius .
 flat(Jonas-1, Basanavičius-2)
-flat(Jonas-4, Basanavičius-5)
+flat(Jonas-5, Basanavičius-6)
 ~~~
 
 ~~~ sdparse
 Liudvikas van Bethovenas . \n Ludwig van Beethoven .
 flat(Liudvikas, van-2)
 flat(Liudvikas, Bethovenas)
-flat(Ludwig, van-6)
+flat(Ludwig, van-7)
 flat(Ludwig, Beethoven)
 ~~~
 
@@ -27,20 +27,20 @@ If the surname is mentioned first and then the given name, the _flat_ annotation
 ~~~ sdparse
 Basanavičius Jonas . \n Basanavičius Jonas .
 flat(Basanavičius-1, Jonas-2)
-flat(Basanavičius-4, Jonas-5)
+flat(Basanavičius-5, Jonas-6)
 ~~~
 
 Names:
 ~~~ sdparse
 Los Andželas \n Los Angeles
 flat(Los-1, Andželas-2)
-flat(Los-3, Angeles)
+flat(Los-4, Angeles)
 ~~~
 
 ~~~ sdparse
 Buenos Airės \n Buenos Aires
 flat(Buenos-1, Airės)
-flat(Buenos-3, Aires)
+flat(Buenos-4, Aires)
 ~~~
 
 The relation is not used to attach adjectives to nouns within multi-word names of places, organizations etc. (e.g. _Juodoji jūra (Black Sea)_). Names that have a regular syntactic structure, like _Žiedų valdovas (The Lord of the Rings)_ or _Kauno marios (Kaunas Sea)_, should be annotated with regular syntactic relations rather than flat structures.
@@ -49,7 +49,7 @@ Onomatopoeias:
 ~~~ sdparse
 Šuo sulojo au au . \n The-dog barked au au .
 flat(au-3, au-4)
-flat(au-8, au-9)
+flat(au-9, au-10)
 ~~~
 
 Two syntactically equivalent adjectives joined by a hyphen (usually with the suffix -inis) express a single complex attribute of an object and are connected with the _flat_ relation from the first component:
