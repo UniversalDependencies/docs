@@ -36,12 +36,13 @@ Cases associated with Pashto adpositions are local (`Loc`), oblique (`Acc`) and 
 
 NOTES:
 * The adposition ته _ta_ is the only postposition, all other proper adpositions are prepositions.
-* The combination of prepositions بې له _be la_ “without” is also used.
-* The prepositions پر _për_ and تر _tër_ used with the 3rd person weak pronoun یې _ye_ “he, she, it, they” (see ___)
+* The postposition ته _ta_ can be used in multi-word tokens with directional
+  pronouns را _râ_ “I, we”, در _dar_ “you” and ور _war_ “he, she, it, they”: راته _rấta_, درته _dárta_ and ورته _wárta_.
+* The prepositions پر _për_ and تر _tër_ used with the 3rd person weak pronoun یې _ye_ “he, she, it, they”
   are merged into a multi-word tokens پرې _pre_ and ترې _tre_.
+* The combination of prepositions بې له _be la_ “without” is also used.
 
 ### Circumpositions
-There are many circumposing structures in Pashto, the following table lists the most frequent of them.
 Out of the proper adpositions, only the prepositions پۀ _pë_, د _dë_, له _la_ and تر _tër_
 enter into the circumposing structures as their first element.
 The preposition پۀ _pë_ forms circumpositions requiring the **local (Loc)** case,
@@ -49,26 +50,75 @@ the other three form circumpositions with the **oblique (Acc)** case
 (although له _la_ and تر _tër_ themselves are used with the ablative).
 The second part of the circumposing structures are improper postpositions.
 Some of them can be used also separately as adverbs (where they probably originate from).
-Some of the improper postpositions can be used with more proper prepositions.
+Most of the improper postpositions can be used with more proper prepositions.
 
+In the following table, the preposition is on the let, the postposition on the top
+and the meaning of the whole circumposition, if it exists, is in the corresponding table cell.
+The table lists the most frequent Pashto circumpositions.
+There can be more improper postpositions that are not listed here.
+An empty cell does not necessarily mean that the combination cannot be used.
 <table class="typeindex" border="1">
 <tr>
-  <td align="middle"><b>پۀ <i>pë</i></b></td>
-  <td align="middle"><b>د <i>dë</i></b></td>
-  <td align="middle"><b>له <i>la</i></b></td>
-  <td align="middle"><b>تر <i>tër</i></b></td>
+  <td align="middle"></td>
+  <td align="middle"><b>کې <i>ke</i></b></td>
+  <td align="middle"><b>باندې <i>bấnde</i></b></td>
+  <td align="middle"><b>لاندې <i>lấnde</i></b></td>
+  <td align="middle"><b>پورې <i>póre</i></b></td>
+  <td align="middle"><b>سره <i>sará</i></b></td>
+  <td align="middle"><b>څخه <i>cë́xa</i></b></td>
+  <td align="middle"><b>ورویته <i>wrústa</i></b></td>
 </tr>
+<tr>
+  <td align="middle"><b>پۀ <i>pë</i></b> + Loc</td>
+  <td align="middle">in</b></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+</tr>
+<tr>
+  <td align="middle"><b>د <i>dë</i></b> + Acc</td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+</tr>
+<tr>
+  <td align="middle"><b>له <i>la</i></b> + Acc</td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+</tr>
+<tr>
+  <td align="middle"><b>تر <i>tër</i></b> + Acc</td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+</tr>
+</table>
 
-
+<!--
 Some prepositions take the form of fixed multiword expressions, e.g.
 _na rozdíl od&nbsp;_ “in contrast to”, _v&nbsp;souvislosti s&nbsp;_
 “in connection with”. The
 component words are then still tagged according to their basic use
 (_na&nbsp;_ is `ADP`, _rozdíl&nbsp;_ is [NOUN](), etc.) and their status as
 multiword expressions are accounted for in the syntactic annotation.
+-->
 
 ### Examples
 
-- _v&nbsp;_ “in, at”
-- _k&nbsp;_ “to”
-- _během&nbsp;_ “during”
+-ㅤپۀ کور کې _pë kor ke_ “in the house” / “at home”
