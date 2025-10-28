@@ -13,10 +13,6 @@ udver: '2'
 * Hyphenated compounds are analyzed as one word – we do not split them.
 * Contracted words are analyzed as two separated tokens. Example(s): _tsum_ = _tsu_ + _dem_; _s'iz_ = _es_ + _iz_
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
@@ -39,21 +35,14 @@ udver: '2'
   * Participle, VERB, AUX, or ADJ
   * Verbs used as nonus are tagged VERB, including infinitive forms preceded by a definite article (e.g., _dos trinken_  'drinking') and verbal stems preceded by an indefinite article in the stem construction (e.g., _a kuk ton/gebn_ 'to look')
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
 * Morphological features are not provided at this time.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
+
 ### Core and Oblique Arguments
 * A nominal subject (nsubj) is a noun phrase in nominative case.
 * A nominal object (obj) is a noun phrase in accusative case.
@@ -86,20 +75,9 @@ udver: '2'
   * obl:agent for agents of passive verbs
   * obl:arg for dative objects
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
 There is [one](../treebanks/yi-comparison.html) Yiddish UD treebanks:
 
   * [Yiddish-YiTB](../treebanks/yi_yitb/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
