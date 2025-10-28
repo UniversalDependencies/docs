@@ -5,7 +5,7 @@ shortdef: 'direct object'
 udver: '2'
 ---
 
-The direct object of a verb is the noun that denotes the entity acted upon. Most often the direct object is in the [nominative case](Case) or in [dative](Case) (see the related feature [Animacy]()). Note that certain intransitive (middle voice) verbs take arguments in dative which should be regarded as core based on their syntactic behavior being parallel to the arguments of other transitive verbs (see also the related features [Voice]() and [Subcat]()).
+The direct object of a verb is the noun that denotes the entity acted upon. Most often the direct object is in the [nominative case](Case) or in [dative](Case) (see the related feature [Animacy]()), sometimes in [ablative](case). Note that certain intransitive (middle voice) verbs take arguments in dative which should be regarded as core based on their syntactic behavior being parallel to the arguments of other transitive verbs (see also the related features [Voice]() and [Subcat]()).
 
 Nominative example:
 
@@ -23,14 +23,14 @@ obj(տեսավ, աշակերտներին)
 obj(saw, pupils)
 ~~~
 
-Dative example:
+Ablative example:
 
 ~~~ sdparse
-Բախվում ենք մեծ խնդիրների ։ \n We-face big problems .
-obj(Բախվում, խնդիրների)
-obj(We-face, problems)
+Այդ գրախանութից գնել եմ Պատրիկ Մոդիանոյի գրքերից։ \n From that bookstore I-bought from-books of Patrick Modiano.
+obj(գնել, գրքերից)
+obj(I-bought, from-books)
 ~~~
-
+##
 In general, if there is just one object, it should be labeled `obj`,
 regardless of the morphological case or semantic role that it bears. If there are two or more
 objects, one of them should be `obj` and the others should be
