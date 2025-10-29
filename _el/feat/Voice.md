@@ -39,4 +39,14 @@ The subject of the verb is affected by the event (patient). The doer
 
 * _Η Οδύσσεια γράφτηκε από τον Όμηρο._ "Odyssey was written by Homer" (Homer is the doer/controller of the writing event and surfaces as the complemnt of the preposition από that is selected by the passive verb. Odyssey is created, therefore affected by the writing event and surfaces as the subject of the passive verb.)
 
+
+
+### <a name="Mid">`Mid`</a>: middle voice
+
+The subject of the verb denotes both the doer and the entity affected by the event (patient). 
+
+#### Examples
+
+* _Ο Γιάννης ξυρίζεται._ "Yannis is shaving himself" (Yannis is the doer/controller of the writing event and the entity affected by the event at the same time. It surfaces as the subject of the verb.)
+
 <!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->
