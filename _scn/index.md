@@ -57,7 +57,12 @@ udver: '2'
 
 ## Syntax
 
-*
+* The default Word Order in Sicilian is SVO, but it is highly flexible and can vary depending on the communicative or pragmatic focus, for instance placing the object in initial position to highlight it.
+* In Sicilian, the nominal subject (nsubj) agrees in person and number with the governing verb.
+* In Sicilian, subjects can be omitted, as it is a pro-drop language.
+  
+### Reduplication Phenomenon 
+Reduplication is a widespread syntactic phenomenon in Sicilian, involving the repetition of a word to extend or shift meaning within a sentence. It remains highly productive in contemporary usage, as corpus analysis from the Atlante Linguistico della Sicilia demonstrates, showing no significant diachronic or social variation. Reduplication can affect verbs, nouns, and other parts of speech, often creating adjectives, adverbs, or locational modifiers.
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
