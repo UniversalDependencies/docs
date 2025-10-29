@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Act">Act</a></td>
   <td><a href="#Pass">Pass</a></td>
+   <td><a href="#Mid">Mid</a></td>
 </tr>
 </table>
 
