@@ -5,44 +5,41 @@ udver: '2'
 ---
 
 # UD for Old Occitan <span class="flagspan"><img class="flag" src="../../flags/svg/FR-OCC.svg" /></span>
+Old Occitan is a Romance language spoken and written in the Middle Ages and the early Modern period across the south of contemporary France and in several areas of Italy and Spain. Old Occitan shares numerous linguistic properties with several other Romance languages (e.g. number and gender marks). It is a pro-drop language with relatively free word order.
 
 ## Tokenization and Word Segmentation
+White spaces in the editions of medieval texts are used as token delimiters. However, whenever a preposition and a determiner are contracted in one word, a multiword token is created.
 
-*
+For example: *del* (*de-* + *-lo*), *dels* (*de-* + *-los*).
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
 
-*
+All UD tags are allowed for Old Occitan.
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+In Old Gascon, the emerging enunciative particle "que" signalling an affirmative sentence is annotated as PART.
+As in Modern Occitan, only the verbs "to have" (aver) and "to be" (esser) are considered auxiliaries.
+Participles without dependents are annotated as ADJ.
 
----
 
 ### Features
 
-*
+Like Modern Occitan, Old Occitan displays number (singular and plural) and gender (masculin and feminine) marks on all members of the NP, and the finite verbs are marked for tense, person and number.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
-*
+Old Occitan is a pro-drop language with relatively free word order.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+The verbs *eser* and *aver* function as auxiliaries.
+The verb *eser* is used as the passive auxiliary and the copula. 
 
----
+Among subtypes of dependency relations, *acl:relcl* is used for relative clauses modifying a noun or a pronoun, *aux:pass* is used for passive auxiliaries. 
+
+*discourse:enunc*  is a language-specific dependency used for Old Gascon (a variant of Old Occitan):  links the enunciative particle to the head of the clause in which it appears.
+
 
 ## Treebanks
 
@@ -52,8 +49,7 @@ There are [N](../treebanks/pro-comparison.html) Old Occitan UD treebanks:
   * [Old Occitan-B](../treebanks/pro_b/index.html)
 
 ---
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
+**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
 and the treebank code in the file name.
 
 ---
