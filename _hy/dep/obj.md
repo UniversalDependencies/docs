@@ -25,10 +25,17 @@ obj(saw, pupils)
 
 Ablative example:
 
-~~~ sdparse
-Այդ գրախանութից գնել եմ Պատրիկ Մոդիանոյի գրքերից։ \n From that bookstore I-bought from-books of Patrick Modiano.
-obj(գնել, գրքերից)
-obj(I-bought, from-books)
+~~~ conllu
+# visual-style 3 7 obj color:blue
+1	Այդ	այդ	DET	_	Deixis=Med|PronType=Dem	2	det	_	Translit=Ayd|LTranslit=ayd
+2	գրախանութից	գրախանութ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	3	obl	_	Translit=graxanowt’ic’|LTranslit=graxanowt’
+3	գնել	գնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=gnel|LTranslit=gnel
+4	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=em|LTranslit=em
+5	Պատրիկ	Պատրիկ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	7	nmod:poss	_	Translit=Patrik|LTranslit=Patrik
+6	Մոդիանոյի	Մոդիանո	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	5	flat:name	_	Translit=Modianoyi|LTranslit=Modiano
+7	գրքերից	գիրք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	3	obl	_	Translit=grk’eric’|LTranslit=girk’
+8	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+
 ~~~
 ##
 In general, if there is just one object, it should be labeled `obj`,
