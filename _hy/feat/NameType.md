@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Geo">Geo</a></td>
   <td><a href="#Giv">Giv</a></td>
   <td><a href="#Oth">Oth</a></td>
+  <td><a href="#Pat">Pat</a></td>
   <td><a href="#Pro">Pro</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Sur">Sur</a></td>
@@ -33,11 +34,11 @@ Names of cities, countries, rivers, mountains etc.
 
 ### <a name="Prs">`Prs`</a>: name of person
 
-This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names, foreign (mostly Slavic or à la Slavic manner) patronymics etc.
+This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names etc.
 
 #### Examples
 
-* _<b>Նար-Դոս, Գամառ-Քատիպա, Քաչալ, Մարտիրոսովիչ</b>&nbsp;_ “Nar-Dos, Gamar-Katipa, Kachal (skinhead), Martirosovich”
+* _<b>Նար-Դոս, Գամառ-Քատիպա, Քաչալ, Կոմիտաս</b>&nbsp;_ “Nar-Dos, Gamar-Katipa, Kachal (skinhead), Komitas”
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -46,6 +47,14 @@ Given name (not family name). This is usually the first name.
 #### Examples
 
 * _<b>Արամ, Անահիտ, Հովհաննես</b>&nbsp;_ “Aram, Anahit, Hovhannes”
+
+### <a name="Pat">`Pat`</a>: patronymic in a name of a person
+
+Patronymic (not given name and not family name). We used this value also for foreign (mostly Slavic or à la Slavic manner) patronymics.
+
+#### Examples
+
+* _<b>Սերոբի, Արամիչ, Անդրեևնա, Սերգեևիչ</b>&nbsp;_ “ٍSerobi, Aramich, Andreyevna, Sergeyevich”
 
 ### <a name="Sur">`Sur`</a>: surname / family name of person
 
