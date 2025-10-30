@@ -67,6 +67,7 @@ udver: '2'
 Reduplication is a widespread syntactic phenomenon in Sicilian, involving the repetition of a word to extend or shift meaning within a sentence. It remains highly productive in contemporary usage showing no significant diachronic or social variation. Reduplication can affect verbs, nouns, and other parts of speech, often creating adjectives, adverbs, or locational modifiers.
 * The following subtypes are used in Sicilian:
  * * [det:predet]() appears in front of another determiner
+   * [ccomp:reported]() for object clauses expressing direct speech
 
 
 
