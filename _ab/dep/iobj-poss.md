@@ -1,11 +1,11 @@
 ---
 layout: relation
-title: 'obj:poss'
+title: 'iobj:poss'
 shortdef: 'possessive object'
 udver: '2'
 ---
 
-The `obj:poss` relation marks an an object referenced by a possessive object marker.
+The `iobj:poss` relation marks an an object referenced by a possessive object marker.
 
 ~~~ conllu
 # text = – Шәара шәаасҭа сара сихәарҭоуп ҳаҧшәма.
@@ -17,7 +17,7 @@ The `obj:poss` relation marks an an object referenced by a possessive object mar
 4       сара    сара́    PRON    Pron_Pers_1Sg   Number=Sing|Person=1|PronType=Prs       5       nsubj   _       _
 5       сихәарҭоуп      а-хәарҭа́        VERB    Adj_Sg_Pred_Fin_Pres_S:1Sg_Poss:3SgM    Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Number[subj]=Sing|Person[psor]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin 0       root    _    \
    _
-6       ҳаҧшәма а́-ҧшәма NOUN    Noun_H_Sg_Poss:1Pl      Animacy=Hum|Number=Sing|Number[psor]=Plur|Person[psor]=1        5       obj:poss        _       _
+6       ҳаҧшәма а́-ҧшәма NOUN    Noun_H_Sg_Poss:1Pl      Animacy=Hum|Number=Sing|Number[psor]=Plur|Person[psor]=1        5       iobj:poss        _       _
 7       .       .       PUNCT   Punct_Period    _       5       punct   _       _
 
 ~~~
