@@ -34,22 +34,16 @@ Like Modern Occitan, Old Occitan displays number (singular and plural) and gende
 Old Occitan is a pro-drop language with relatively free word order.
 
 The verbs *eser* and *aver* function as auxiliaries.
-The verb *eser* is used as the passive auxiliary and the copula. 
+The verb *eser* is used as the passive auxiliary and the copula.
 
-Among subtypes of dependency relations, *acl:relcl* is used for relative clauses modifying a noun or a pronoun, *aux:pass* is used for passive auxiliaries. 
+Among subtypes of dependency relations, *acl:relcl* is used for relative clauses modifying a noun or a pronoun, *aux:pass* is used for passive auxiliaries.
 
-*discourse:enunc*  is a language-specific dependency used for Old Gascon (a variant of Old Occitan):  links the enunciative particle to the head of the clause in which it appears.
+[discourse:enunc]()  is a language-specific dependency used for Old Gascon (a variant of Old Occitan):  links the enunciative particle to the head of the clause in which it appears.
 
 
 ## Treebanks
 
-There are [N](../treebanks/pro-comparison.html) Old Occitan UD treebanks:
+There are [2](../treebanks/pro-comparison.html) Old Occitan UD treebanks:
 
-  * [Old Occitan-A](../treebanks/pro_a/index.html)
-  * [Old Occitan-B](../treebanks/pro_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Old Occitan-CorAG](../treebanks/pro_corag/index.html)
+  * [Old Occitan-OOT](../treebanks/pro_oot/index.html)
