@@ -61,13 +61,11 @@ udver: '2'
 * In Sicilian, the nominal subject (nsubj) agrees in person and number with the governing verb.
 * In Sicilian, subjects can be omitted, as it is a pro-drop language.
 * In Sicilian, modal verbs—often derived from auxiliaries like essiri (‘to be’) and aviri (‘to have’)—serve two main roles: they can carry their own lexical meaning or act as support verbs combined with an infinitive to express modal values. Common examples include: ability/possibility (putiri ‘can’), desire/will (vuliri ‘want’), and obligation/necessity (duviri ‘must’ or aviri a ‘have to’).
-  In modern spoken Sicilian, the periphrastic construction aviri a + infinitive is widely used to indicate obligation, often replacing the older duviri. The tense of aviri determines the modal meaning: the past remote conveys epistemic certainty about past events, while the present or imperfect allows for epistemic probability or deontic obligation. With certain present or imperfect forms, the construction can also take on an exhortative function.
-  
-### Reduplication Phenomenon 
-Reduplication is a widespread syntactic phenomenon in Sicilian, involving the repetition of a word to extend or shift meaning within a sentence. It remains highly productive in contemporary usage showing no significant diachronic or social variation. Reduplication can affect verbs, nouns, and other parts of speech, often creating adjectives, adverbs, or locational modifiers.
+* In modern spoken Sicilian, the periphrastic construction aviri a + infinitive is widely used to indicate obligation, often replacing the older duviri. The tense of aviri determines the modal meaning: the past remote conveys epistemic certainty about past events, while the present or imperfect allows for epistemic probability or deontic obligation. With certain present or imperfect forms, the construction can also take on an exhortative function.
+* Reduplication is a widespread syntactic phenomenon in Sicilian, involving the repetition of a word to extend or shift meaning within a sentence. It remains highly productive in contemporary usage showing no significant diachronic or social variation. Reduplication can affect verbs, nouns, and other parts of speech, often creating adjectives, adverbs, or locational modifiers.
 * The following subtypes are used in Sicilian:
- * * [det:predet]() appears in front of another determiner
-   * [ccomp:reported]() for object clauses expressing direct speech
+  * [det:predet]() appears in front of another determiner
+  * [ccomp:reported]() for object clauses expressing direct speech
 
 
 
