@@ -38,7 +38,7 @@ The verb *eser* is used as the passive auxiliary and the copula.
 
 Among subtypes of dependency relations, *acl:relcl* is used for relative clauses modifying a noun or a pronoun, *aux:pass* is used for passive auxiliaries.
 
-[discourse:enunc]()  is a language-specific dependency used for Old Gascon (a variant of Old Occitan):  links the enunciative particle to the head of the clause in which it appears.
+[discourse:enunc](https://github.com/UniversalDependencies/docs/blob/pages-source/_pro/dep/discourse-enunc.md)  is a language-specific dependency used for Old Gascon (a variant of Old Occitan):  links the enunciative particle to the head of the clause in which it appears.
 
 
 ## Treebanks
