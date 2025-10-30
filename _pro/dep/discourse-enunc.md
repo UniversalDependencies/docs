@@ -25,5 +25,5 @@ discourse:enunc(deu, que)
 
 ~~~ sdparse
 E que-ls dam per for que totz ans se cabien judges em-Banheres\n And we give them as a law that every year judges should change in Banières
-aux:pass(dam, que)
+discourse:enunc(dam, que)
 ~~~
