@@ -64,8 +64,12 @@ udver: '2'
 * In modern spoken Sicilian, the periphrastic construction aviri a + infinitive is widely used to indicate obligation, often replacing the older duviri. The tense of aviri determines the modal meaning: the past remote conveys epistemic certainty about past events, while the present or imperfect allows for epistemic probability or deontic obligation. With certain present or imperfect forms, the construction can also take on an exhortative function.
 * Reduplication is a widespread syntactic phenomenon in Sicilian, involving the repetition of a word to extend or shift meaning within a sentence. It remains highly productive in contemporary usage showing no significant diachronic or social variation. Reduplication can affect verbs, nouns, and other parts of speech, often creating adjectives, adverbs, or locational modifiers.
 * The following subtypes are used in Sicilian:
-  * [det:predet]() appears in front of another determiner
+  * [acl:relcl]() for relative clauses
+  * [aux:pass]() for passive auxiliaries
   * [ccomp:reported]() for object clauses expressing direct speech
+  * [det:poss]() possessive determiner
+  * [det:predet]() appears in front of another determiner
+  
 
 
 
