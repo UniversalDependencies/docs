@@ -89,4 +89,10 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [el]
 
+### <a name="AUX">`AUX`</a>: auxiliary-like expression
+
+#### Examples
+
+* [el] (Lesbian Greek) _θα να_ "will" (the first node is [AUX])
+
 <!-- Interlanguage links updated So 10. května 2025, 18:14:06 CEST -->
