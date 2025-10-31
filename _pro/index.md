@@ -20,14 +20,15 @@ For example: *del* (*de-* + *-lo*), *dels* (*de-* + *-los*).
 All UD tags are allowed for Old Occitan.
 
 In Old Gascon, the emerging enunciative particle "que" signalling an affirmative sentence is annotated as PART.
-As in Modern Occitan, only the verbs "to have" (aver) and "to be" (esser) are considered auxiliaries.
+As in Modern Occitan, only the verbs "to have" (aver) and "to be" (èser, modern "esser") are considered auxiliaries.
 Participles without dependents are annotated as ADJ.
 
 
 ### Features
 
-Like Modern Occitan, Old Occitan displays number (singular and plural) and gender (masculin and feminine) marks on all members of the NP, and the finite verbs are marked for tense, person and number.
+In the CorAG treebank, finite verbs and auxiliaries are annotated in VerbForm - inifinitives, participles and conjugated forms (Inf, Part and Fin). Finite verbs are annotated in person and number (Person: 1, 2 or 3; Number: Sing or Plur). Annotation of finite verbs in Mood and Tense is underway. Participles are annotated in Tense (Pres, Past and Fut) and Number (Sing or Plur) and Gender (Masc or Fem).
 
+Pronouns are annotated in type (PronType: Dem for demonstrative, Ind for indefinite, Prs for personal and Rel for relative). Reflexive and possessive pronouns are also tagged (Reflexive=Yes and Poss=Yes).
 
 ## Syntax
 
