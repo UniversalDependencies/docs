@@ -53,6 +53,11 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [mt] _<b>kif ukoll</b>_ “as well as”. Note _kif_ is an interrogative `PRON` and _ukoll_ is a focus particle with UPOS=`ADV`.
 
+### <a name="PART">`PART`</a>: negator
+
+#### Examples
+* [mt] _...s'issa għadhom <b>lanqas biss</b> irċevew acknowledgment tat-talba tagħha._ "... as of today, they still have<b>n't even</b> received the acknowledgment of her request."
+
 ### <a name="PROPN">`PROPN`</a>: proper noun-like expression
 
 #### Examples
