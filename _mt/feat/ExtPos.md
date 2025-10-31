@@ -72,3 +72,6 @@ In Maltese, this is the most common type of fixed expression, typically consisti
 * [mt] _<b>Wara li</b> kienet ħarġet l-aħbar sirna nafu..._ "<b>After</b> the news item came out, we came to learn..."
 * [mt] _<b>Filwaqt li</b> ma nikkunsidrax lili nnifsi nisrani..._ "<b>while</b> I do not consider myself a Christian..." Note that _filwaqt_ on its own is also a `SCONJ`.
 * [mt] _<b>Hekk kif</b> il-prezz tal-fuel fil-pajjiż din il-ġimgħa laħaq livelli rekord._ "Just as the price of fuel in the country reached record levels this week." Note that _hekk_ is normally an `ADV` and _kif_ is an interrogative `PRON`.
+
+This also includes the circumstantial `SCONJ` that consists of a `PRON` and the `CCONJ` _u_:
+* [mt] _Niftakar <b>jien u</b> nilbisha ħassejtha tiżloq fuqi._ "I remember how <b>when I</b> put it on, it felt slippery on me.
