@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Expr">Expr</a></td>
   <td><a href="#Rare">Rare</a></td>
   <td><a href="#Slng">Slng</a></td>
+  <td><a href="#Var">Var</a></td>
   <td><a href="#Vrnc">Vrnc</a></td>
   <td><a href="#Vulg">Vulg</a></td>
 </tr>
@@ -67,4 +68,10 @@ Typical examples of expressive words in the Armenian data are diminutives:
 #### Examples
 
 * _ղախպա, ուլ, պոռնիկ, ռեխ, զխտվել, շնթռել, լակել, սիկտիր, տուտուց_
+
+### <a name="Var">`Var`</a>: variant
+
+#### Examples
+
+* _մը, հանըմ, Բեբրոն, Պաղտասար_
 <!-- Interlanguage links updated So 10. května 2025, 18:14:36 CEST -->
