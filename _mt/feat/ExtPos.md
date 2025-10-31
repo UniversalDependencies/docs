@@ -46,6 +46,7 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 #### Examples
 
 * [mt] _<b>in ġenerali</b>_ "in general".
+* [mt] _<b>x' aktarx</b>_ "rather (lit. what more)"
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
