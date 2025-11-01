@@ -23,18 +23,18 @@ Note also that only the last word part may be annotated with `SpaceAfter=No`.
 # visual-style 4 8 goeswith color:blue
 # visual-style 4 9 goeswith color:blue
 # visual-style 4 10 goeswith color:blue
-1	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	_
-2	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	_
-3	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
-4	ո	որոշել	VERB	_	Aspect=Imp|Subcat=Tran|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	_
-5	ր	ր	X	_	_	4	goeswith	_	_
-6	ո	ո	X	_	_	4	goeswith	_	_
-7	շ	շ	X	_	_	4	goeswith	_	_
-8	ո	ո	X	_	_	4	goeswith	_	_
-9	ւ	ւ	X	_	_	4	goeswith	_	_
-10	մ	մ	X	_	_	4	goeswith	_	_
-11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No
-12	.	.	PUNCT	_	Foreign=Yes	4	punct	_	_
+1	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	Translit=Hayastani|LTranslit=Hayastan
+2	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
+3	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
+4	ո	որոշել	VERB	_	Aspect=Imp|Subcat=Tran|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Translit=o|LTranslit=orošel
+5	ր	_	X	_	_	4	goeswith	_	Translit=r
+6	ո	_	X	_	_	4	goeswith	_	Translit=o
+7	շ	_	X	_	_	4	goeswith	_	Translit=š
+8	ո	_	X	_	_	4	goeswith	_	Translit=o
+9	ւ	_	X	_	_	4	goeswith	_	Translit=w
+10	մ	_	X	_	_	4	goeswith	_	Translit=m
+11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
+12	.	.	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 <!-- Interlanguage links updated So 10. května 2025, 18:15:36 CEST -->
