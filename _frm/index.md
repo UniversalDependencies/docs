@@ -25,6 +25,7 @@ Some work is still needed for a complete analysis of fused forms such as "dudit"
 
 * Morphological annotation is not complete yet. Features that were automatically derivable from the original CATTEX tags are included in the morphological features. Those includes ``PronType``, ``NumType``, ``Tense``, ``VerbForm``, ``Poss`` and ``Definite``. However, ``Number``, ``Gender`` and ``Person`` that are important features in Middle French are not yet annotated.
 
+* In the [Middle French-ALTM](https://github.com/UniversalDependencies/UD_Middle_French-ALTM) treebank, verbs and auxiliaries are annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person (1, 2 or 3) and Number (Sing or Masc). Participles are annotated in Tense (Past or Present) Pronouns are annotated in type (PronType: Dem for demonstrative, Ind for indefinite, Prs for personal and Rel for relative). Reflexive and possessive pronouns are also tagged (Reflexive=Yes and Poss=Yes). Determiners are tagged using PronType (Art for article, Dem for demonstrative, Ind for indefinite); possessive determiners have Poss=Yes.
 
 ## Syntax
 
