@@ -51,6 +51,6 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 There are [3](../treebanks/ha-comparison.html) Hausa UD treebanks:
 
-  * [Hausa-NorthernAutogramm](../treebanks/ha_a/index.html)
-  * [Hausa-WesternAutogramm](../treebanks/ha_b/index.html)
-  * [Hausa-SouthernAutogramm](../treebanks/ha_c/index.html)
+  * [Hausa-NorthernAutogramm](../treebanks/ha_northernautogramm/index.html)
+  * [Hausa-WesternAutogramm](../treebanks/ha_westernautogramm/index.html)
+  * [Hausa-SouthernAutogramm](../treebanks/ha_southernautogramm/index.html)
