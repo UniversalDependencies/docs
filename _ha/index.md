@@ -6,9 +6,9 @@ udver: '2'
 
 # UD for Hausa <span class="flagspan"><img class="flag" src="../../flags/svg/NG.svg" /></span>
 
-The Hausa language is represented by two treebanks: Northern Autogramm, for the Ader dialect of Niger Republic (Northern Hausa), and Southern Autogramm, for the Zaria dialect of Nigeria (Southern Hausa). Both are different from the Kano variety, generally accepted as Standard Hausa. The Ader (Northern) Hausa, together with the Sokoto variety, is a more archaic version of Standard Hausa, where some phonological rules have not applied. The Zaria (Southern) Hausa, on the other hand, is a "modern" version of the language where the 3-way opposition (masculine / feminine / plural) has been abandoned in the noun system, and only the plurality feature is maintained, while the feminine gender is kept in the pronominal and TAM system. 
+The Hausa language is represented by three treebanks: Northern Autogramm, for the Ader dialect of Niger Republic (Northern Hausa), Southern Autogramm, for the Zaria dialect of Nigeria (Southern Hausa), and Western Autogramm, for the Gobir dialect (Tibiri, Niger Republic). They are different from the Kano variety, generally accepted as Standard Hausa. The Ader (Northern) Hausa, together with the Sokoto variety, is a more archaic version of Standard Hausa, where some phonological rules have not applied. The Gobir (Western) Hausa spoken in the Niger Republic is a transitional dialect beween Standard (Kano) and Sokoto (Ader) Hausas. The Zaria (Southern) Hausa, on the other hand, is a "modern" version of the language where the 3-way opposition (masculine / feminine / plural) has been abandoned in the noun system, and only the plurality feature is maintained, while the feminine gender is kept in the pronominal and TAM system. 
 
-In Hausa, the TAM system is marked by pre-verbal Auxiliaries that combine `Tense`, `Aspect`, `Mood`, and subject agreement in `Person`, `Number` and `Gender`. These Auxiliaries can vary noticeably from one dialect to another. For example, the backgrounded progressive aspect in marked by /__kà__/ in Ader and /__kèː__/ in Zaria, while the same /__kà__/ marks the backgrounded perfect in Zaria.
+In Hausa, the TAM system is marked by pre-verbal Auxiliaries that combine `Tense`, `Aspect`, `Mood`, and subject agreement in `Person`, `Number` and `Gender`. These Auxiliaries can vary noticeably from one dialect to another. For example, the backgrounded progressive aspect in marked by /__kà__/ in Ader and Gobir and /__kèː__/ in Zaria, while the same /__kà__/ marks the backgrounded perfect in Zaria.
 
 Due to the difficulty of selecting a single lemma to account for these dialectal variation, we have chosen to postpone the lemmatisation of auxiliaries until a solution is found to organise related treebanks of a same language. 
 
@@ -17,8 +17,8 @@ Due to the difficulty of selecting a single lemma to account for these dialectal
 ## Tokenization and Word Segmentation
 
 * The Southern Hausa treebank is an extension of an oral corpus (https://cortypo.huma-num.fr/index.html) interlinearized and glossed on a morphological basis.
-* Tokenization had to take into account the fact that syntactic information in Zaar can be spread in different ways in words, affixes and clitics. It has been decided to keep as tokens only words (with and without affixes) and clitics while the syntactic information contained in affixes is annotated by morphological features of the affixed words. Clitics are PRON conveying syntactic functions such as complement and modifier. They are preceded by an “=” sign in the transcription. The same conventions have been used for the Northern Hausa treebank, which transcribes audio recordings done in the late 80’s. 
-* As we are dealing with oral data, we have chosen the illocutionary unit as the basic transcription unit. Punctuation tokens (e.g. <, >, //, etc.) organise the illocutionary unit into: pre-nucleus < nucleus > post-nucleus //
+* Tokenization had to take into account the fact that syntactic information in Zaar can be spread in different ways in words, affixes and clitics. It has been decided to keep as tokens only words (with and without affixes) and clitics while the syntactic information contained in affixes is annotated by morphological features of the affixed words. Clitics are PRON conveying syntactic functions such as complement and modifier. The same conventions have been used for the Northern Hausa treebank, which transcribes audio recordings done in the late 80’s. 
+* As we are dealing with oral data in the Southern and Northern Hausa corpora, we have chosen the illocutionary unit as the basic transcription unit. Punctuation tokens (e.g. <, >, //, etc.) organise the illocutionary unit into: pre-nucleus < nucleus > post-nucleus //. For Western (Gobir) Hausa, which was edited and printed in 2024, standard orthographic punctuation has been used, i.e. ";", ":" and ".". 
 
 
 ## Morphology
@@ -49,7 +49,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ## Treebanks
 
-There are [2](../treebanks/ha-comparison.html) Hausa UD treebanks:
+There are [3](../treebanks/ha-comparison.html) Hausa UD treebanks:
 
-  * [Hausa-SouthernAutogramm](../treebanks/ha_a/index.html)
-  * [Hausa-SouthernAutogramm](../treebanks/ha_b/index.html)
+  * [Hausa-NorthernAutogramm](../treebanks/ha_a/index.html)
+  * [Hausa-WesternAutogramm](../treebanks/ha_b/index.html)
+  * [Hausa-SouthernAutogramm](../treebanks/ha_c/index.html)
