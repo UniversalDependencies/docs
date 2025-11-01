@@ -7,6 +7,14 @@ udver: '2'
 
 The feature marks the mood of the verb.
 
+### <a name="Ind">`Ind`</a>: Indicative
+
+#### Examples
+
+* [ab] _и-ҟа-с-ҵе-ит_ [DO.3-Pv-Subj.1Sg-Root(do)-<b>Aor</b>] ‘I have done it’ `Dyn=Yes|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|VerbForm=Fin`
+
+* [ab] _и-ҭ-га(<b>-ø</b>)_ [DO.3-raise(-<b>Impv</b>)] ‘raise it! (e.g. your voice)’ `Dyn=Yes|Gender[lo]=Neut|Mood=Imp|Number[lo]=Sing|Person[lo]=3|Person[obj]=3|Trans=Yes|VerbForm=Fin`
+
 ### <a name="Imp">`Imp`</a>: Imperative
 
 #### Examples
