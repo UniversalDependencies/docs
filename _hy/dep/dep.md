@@ -16,17 +16,17 @@ punct(Նաիրի, »)
 nmod(Նաիրի, Երկիր)
 punct(ից, -)
 dep(Նաիրի, ից)
-punct(from, -)
+punct(from, 11-)
 dep(Nairi, from)
 ~~~
 
 ~~~ sdparse
-1937/NUM[NumForm=Digit|NumType=Card] թ/NOUN[Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Hyph=Yes|Number=Sing] ./PUNCT -/PUNCT ին/NOUN[Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing] \n - in year 1937
+1937/NUM[NumForm=Digit|NumType=Card] թ/NOUN[Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Hyph=Yes|Number=Sing] ./PUNCT -/PUNCT ին/NOUN[Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing] \n 1937 year - in
 nummod(թ, 1937)
 punct(թ, .)
 punct(ին, -)
 dep(թ, ին)
-punct(in, -)
+punct(in, 8-)
 dep(year, in)
 
 ~~~
