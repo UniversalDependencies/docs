@@ -37,7 +37,7 @@ See above, the “infixed” punctuation.
 
 ### Pronouns and adverbs
 
-* Indefinite pronouns and adverbs like *ինչ-որ, փոքր-ինչ, դույզն-ինչ, ինչ-ինչ* “something, somewhat”, etc. are splitted as compounds containing a hyphen and become three tokens (two words and the hyphen).
+* Indefinite pronouns and adverbs like *ինչ-որ, փոքր-ինչ, դույզն-ինչ, ինչ-ինչ* “something, somewhat”, etc. are split into three tokens (two words and a hyphen) as MWEs (fixed or semi-fixed grammaticalized expressions or compounds).
 
 ### Verb forms, analytical grammatical forms, negation
 
