@@ -14,16 +14,21 @@ Note that we also use this relation to link the inflectional bound morphemes tha
 punct(Նաիրի, «)
 punct(Նաիրի, »)
 nmod(Նաիրի, Երկիր)
-punct(Նաիրի, -)
+punct(ից, -)
 dep(Նաիրի, ից)
+punct(from, -)
+dep(Nairi, from)
 ~~~
 
 ~~~ sdparse
-1937/NUM[NumForm=Digit|NumType=Card] թ/NOUN[Abbr=Yes|Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing] ./PUNCT -/PUNCT ին/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing] \n in year 1937
+1937/NUM[NumForm=Digit|NumType=Card] թ/NOUN[Abbr=Yes|Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing] ./PUNCT -/PUNCT ին/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing] \n - in year 1937
 nummod(թ, 1937)
 punct(թ, .)
-punct(թ, -)
+punct(ին, -)
 dep(թ, ին)
+punct(in, -)
+dep(year, in)
+
 ~~~
 
 For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).
