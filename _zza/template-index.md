@@ -46,14 +46,6 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/zza-comparison.html) Zazaki UD treebanks:
+There is 1 Zazaki UD treebank:
 
-  * [Zazaki-A](../treebanks/zza_a/index.html)
-  * [Zazaki-B](../treebanks/zza_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Zazaki-ZSD](../treebanks/zza_zsd/index.html)
