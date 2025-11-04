@@ -9,8 +9,8 @@ The `nmod:spec` relation is a specialization of `nmod` used for NOUN modifiers t
 
 ~~~ sdparse
 Volume III, Chapter 9, Paragraph 3
-nmod:spec (Volume, Chapter)
-nmod:spec (Chapter, Paragraph)
+nmod:spec(Volume, Chapter)
+nmod:spec(Chapter, Paragraph)
 ~~~
 
 The same meaning may be conveyed by the inverse order of nouns, using traditional prepositioned nmod (a content/container relation).
