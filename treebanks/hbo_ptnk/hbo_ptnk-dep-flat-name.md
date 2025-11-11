@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hbo_ptnk-dep-flat.html">flat</a></tt>.
 
-25 nodes (0%) are attached to their parents as `flat:name`.
+69 nodes (0%) are attached to their parents as `flat:name`.
 
-25 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08.
+69 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08695652173913.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> (25; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> (69; 100% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,16 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat:name	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_36.38|Ref[BHSA]=20090|Ref[MACULA]=o010360380011|Translit=ṿa
-2	יָּ֖מָת	מות	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=die|LId[SDBH]=003823001001000|LId[Strongs]=4191|Ref=GEN_36.38|Ref[BHSA]=20091|Ref[MACULA]=o010360380012|Translit=yamat
-3	שָׁא֑וּל	שׁאול	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Saul|LId[SDBH]=007126001002000|LId[Strongs]=7586|Ref=GEN_36.38|Ref[BHSA]=20092|Ref[MACULA]=o010360380021|Translit=shaʼul
-4	וַ	ו	CCONJ	conj	_	5	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_36.38|Ref[BHSA]=20093|Ref[MACULA]=o010360380031|Translit=ṿa
-5	יִּמְלֹ֣ךְ	מלך	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=be king|LId[SDBH]=004046001001000|LId[Strongs]=4427a|Ref=GEN_36.38|Ref[BHSA]=20094|Ref[MACULA]=o010360380032|Translit=yimlokh
-6	תַּחְתָּ֔י	תחת	NOUN	subs	Gender=Masc|Number=Plur	5	obl	_	Gloss=under part|LId[Strongs]=8478|Ref=GEN_36.38|Ref[BHSA]=20095|Ref[MACULA]=o010360380041|Translit=taḥta
-7	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	Ref=GEN_36.38|Ref[MACULA]=o010360380042|Translit=ṿ
-8	בַּ֥עַל	בעל	PROPN	nmpr	Gender=Masc|Number=Sing	5	nsubj	_	Gloss=Baal-Hanan|LId[SDBH]=001086001001000|LId[Strongs]=1177+|Ref=GEN_36.38|Ref[BHSA]=20096|Ref[MACULA]=o010360380051|Translit=baʻal
-9	חָנָ֖ן	חנן	PROPN	nmpr	Gender=Masc|Number=Sing	8	flat:name	_	Gloss=Baal-Hanan|Ref=GEN_36.38|Ref[BHSA]=20096|Translit=ḥanan
-10	בֶּן	בן	NOUN	subs	Gender=Masc|Number=Sing	8	appos	_	Gloss=son|LId[SDBH]=001040001001000|LId[Strongs]=1121a|Ref=GEN_36.38|Ref[BHSA]=20097|Ref[MACULA]=o010360380071|SpaceAfter=No|Translit=ben
-11	־	־	PUNCT	punct	_	12	punct	_	Ref=GEN_36.38|SpaceAfter=No
-12	עַכְבֹּֽור	עכבור	PROPN	nmpr	Gender=Masc|Number=Sing	10	compound:smixut	_	Gloss=Acbor|LId[SDBH]=005423001001000|LId[Strongs]=5907|Ref=GEN_36.38|Ref[BHSA]=20098|Ref[MACULA]=o010360380081|SpaceAfter=No|Translit=ʻakhbor
-13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_36.38
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|LId[Strongs]=c|Ref=NUM_33.19|Ref[BHSA]=90922|Ref[MACULA]=o040330190011|Translit=ṿa
+2	יִּסְע֖וּ	נסע	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Cantillation=Tipeha|Gloss=pull out|LexDomain[SDBH]=002002001011|LId[SDBH]=004828001002000|LId[Strongs]=5265|Ref=NUM_33.19|Ref[BHSA]=90923|Ref[MACULA]=o040330190012|Translit=yisʻu
+3	מֵ	מן	ADP	prep	_	4	case	_	Gloss=from|LId[Strongs]=m|Ref=NUM_33.19|Ref[BHSA]=90924|Ref[MACULA]=o040330190021|Translit=me
+4	רִתְמָ֑ה	רתמה	PROPN	nmpr	Number=Sing	2	obl	_	Cantillation=Etnahta|Gloss=Rithmah|LexDomain[SDBH]=003001010|LId[SDBH]=006957001001000|LId[Strongs]=7575|Ref=NUM_33.19|Ref[BHSA]=90925|Ref[MACULA]=o040330190022|Translit=ritmah
+5	וַֽ	ו	CCONJ	conj	_	6	cc	_	Gloss=and|LId[Strongs]=c|Ref=NUM_33.19|Ref[BHSA]=90926|Ref[MACULA]=o040330190031|Translit=ṿa
+6	יַּחֲנ֖וּ	חנה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Cantillation=Tipeha|Gloss=encamp|LexDomain[SDBH]=002002001005|LId[SDBH]=002379001002000|LId[Strongs]=2583|Ref=NUM_33.19|Ref[BHSA]=90927|Ref[MACULA]=o040330190032|Translit=yaḥanu
+7	בְּ	ב	ADP	prep	_	8	case	_	Gloss=in|LId[Strongs]=b|Ref=NUM_33.19|Ref[BHSA]=90928|Ref[MACULA]=o040330190041|Translit=be
+8	רִמֹּ֥ן	רמון	PROPN	nmpr	Number=Sing	6	obl	_	Cantillation=Merkha|Gloss=Rimmon Perez|LexDomain[SDBH]=003001010|LId[SDBH]=006819001001000|LId[Strongs]=7428+|Ref=NUM_33.19|Ref[BHSA]=90929|Ref[MACULA]=o040330190042|Translit=rimon
+9	פָּֽרֶץ	פרץ	PROPN	nmpr	Number=Sing	8	flat:name	_	Gloss=Rimmon Perez|Ref=NUM_33.19|Ref[BHSA]=90929|SpaceAfter=No|Translit=parets
+10	׃	׃	PUNCT	punct	_	2	punct	_	Ref=NUM_33.19
 
 ~~~
 

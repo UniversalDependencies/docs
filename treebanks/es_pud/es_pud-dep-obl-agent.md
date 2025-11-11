@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	importe	importar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
-5	ya	ya	ADV	RB	_	9	mark	_	_
+5	ya	ya	ADV	RB	ExtPos=SCONJ	9	mark	_	_
 6	que	que	ADP	IN	_	5	fixed	_	_
 7	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 8	estaré	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	9	aux	_	_

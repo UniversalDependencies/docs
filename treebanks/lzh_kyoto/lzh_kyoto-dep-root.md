@@ -11,9 +11,9 @@ This relation is universal.
 86239 nodes (20%) are attached to their parents as `root`.
 
 86239 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.10859355975835.
+Average distance between parent and child is 3.10876749498487.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (76199; 88% instances), -<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5705; 7% instances), -<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1342; 2% instances), -<tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> (1257; 1% instances), -<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (865; 1% instances), -<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (350; 0% instances), -<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (267; 0% instances), -<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (134; 0% instances), -<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (83; 0% instances), -<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), -<tt><a href="lzh_kyoto-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), -<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (76197; 88% instances), -<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5707; 7% instances), -<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1342; 2% instances), -<tt><a href="lzh_kyoto-pos-SYM.html">SYM</a></tt> (1257; 1% instances), -<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (865; 1% instances), -<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (350; 0% instances), -<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (267; 0% instances), -<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (134; 0% instances), -<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (83; 0% instances), -<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (29; 0% instances), -<tt><a href="lzh_kyoto-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), -<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

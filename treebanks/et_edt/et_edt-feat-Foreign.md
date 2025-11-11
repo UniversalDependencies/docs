@@ -21,7 +21,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-X.html">
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (424; 100% of non-empty `Foreign`): <em>al., et, ceteris, de, paribus, in, tõ, Helicobacter, Marsa, khorji</em>
-* `EMPTY` (340): <em>000, of, 900, 500, 600, 700, F, in, 400, Angeles-klassi</em>
+* `EMPTY` (341): <em>000, of, 900, 500, 600, 700, F, in, 400, Angeles-klassi</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (192) occur only with one value of `Foreign`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (28; 100% of non-empty `Foreign`): <em>Bullshit, Content, Disk, Help, Quality, Scramble, Self, System, acid, chef</em>
-* `EMPTY` (115682): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115671): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (28) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>funky, Digital, Versatile, ancien, grand, low-tech, new, old, second-hand, silent</em>
-* `EMPTY` (36869): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
+* `EMPTY` (36845): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Darkmans, Meltzinger, siperian</em>
-* `EMPTY` (26279): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26278): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 ### `CCONJ`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>versus</em>
-* `EMPTY` (16090): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
+* `EMPTY` (16091): <em>ja, ning, või, aga, kuid, kui, ega, vaid, ehk, ent</em>
 
 ## Relations with Agreement in `Foreign`
 

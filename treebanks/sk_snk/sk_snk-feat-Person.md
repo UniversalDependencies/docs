@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-2749 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Person`.
+2749 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2749; 100%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2749; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2749; 100%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2664; 97%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 93%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2305; 84%).
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (1734; 63% of non-empty `Person`): <em>som, sme, budeme, budem, nebudem, Buďme, nebudeme, niesme, so</em>
 * `2` (147; 5% of non-empty `Person`): <em>si, ste, budeš, budete, buďte, Nebudete, Nebuď, nebudeš</em>
 * `3` (868; 32% of non-empty `Person`): <em>je, sú, bude, budú, nebude, býva, nebudú, nebýva</em>
-* `EMPTY` (974): <em>bol, by, bola, bolo, boli, byť, nebola, nebolo, nebol, neboli</em>
+* `EMPTY` (1249): <em>by, bol, bola, bolo, boli, byť, nebola, nebolo, nebol, neboli</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

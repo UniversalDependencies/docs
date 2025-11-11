@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3624 nodes (3%) are attached to their parents as `det`.
+3632 nodes (3%) are attached to their parents as `det`.
 
-2036 instances of `det` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25331125827815.
+2039 instances of `det` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25302863436123.
 
-The following 15 pairs of parts of speech are connected with `det`: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (2866; 79% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (280; 8% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (167; 5% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (124; 3% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (65; 2% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (36; 1% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (2866; 79% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (282; 8% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (170; 5% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (124; 3% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (65; 2% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (36; 1% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (30; 1% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,9 +25,9 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 1	Kenapa	kenapa	ADV	W--	PronType=Int	4	advmod	_	Morf=^kenapa<w>_W--$
 2	para	para	DET	B--	Number=Plur|PronType=Ind	3	det	_	Morf=^para<b>_B--$
 3	penambang	tambang	NOUN	NSD	Number=Sing	4	nsubj	_	Morf=^peN+tambang<n>_NSD$
-4	menggunakan	guna	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+guna<n>+kan_VSA$
+4	menggunakan	guna	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+guna<n>+kan_VSA$
 5	tembakau	tembakau	NOUN	NSD	Number=Sing	4	obj	_	Morf=^tembakau<n>_NSD$
-6	kunyah	kunyah	VERB	VSA	Mood=Ind|Voice=Act	5	amod	_	SpaceAfter=No|Morf=^kunyah<v>_VSA$
+6	kunyah	kunyah	VERB	VSA	Voice=Act	5	amod	_	SpaceAfter=No|Morf=^kunyah<v>_VSA$
 7	?	?	PUNCT	Z--	_	4	punct	_	Morf=^?<z>_Z--$
 
 ~~~
@@ -60,7 +60,7 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 1	Setelah	setelah	ADP	R--	_	4	case	_	Morf=^setelah<r>_R--$
 2	itu	itu	DET	B--	PronType=Dem	4	det	_	Morf=^itu<b>_B--$
 3	Rianti	rianti	PROPN	X--	_	4	nsubj	_	Morf=^rianti<x>_X--$
-4	bermain	main	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+main<v>_VSA$
+4	bermain	main	VERB	VSA	Voice=Act	0	root	_	Morf=^ber+main<v>_VSA$
 5	dalam	dalam	ADP	ASP	_	6	case	_	Morf=^dalam<a>_ASP$
 6	Ini	ini	PRON	B--	PronType=Dem	4	obl	_	Morf=^ini<b>_B--$
 7	kah	kah	PART	T--	_	6	advmod:emph	_	Morf=^kah<t>_T--$

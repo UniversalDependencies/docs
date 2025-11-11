@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 4 5 advmod:emph	color:blue
 1	Rungma	rung	VERB	_	Polarity=Neg|VerbForm=Inf	6	advcl	6:advcl	_
 2	lali	lali	SCONJ	_	_	1	mark	1:mark	_
-3	drekhalai	drekhalai	DET	_	Reflex=Yes	4	det	4:det	_
+3	drekhalai	drekhalai	ADV	_	_	4	advmod	4:advmod	_
 4	lehnda	lehn	NOUN	_	Case=Abl|Number=Sing	6	obl	6:obl	_
 5	li	li	ADV	ASC	_	4	advmod:emph	4:advmod:emph	_
 6	phabtale	phabta	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_

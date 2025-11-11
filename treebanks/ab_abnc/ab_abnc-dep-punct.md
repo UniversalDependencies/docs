@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2911 nodes (30%) are attached to their parents as `punct`.
+3165 nodes (30%) are attached to their parents as `punct`.
 
-1541 instances of `punct` (53%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.45482652009619.
+1649 instances of `punct` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.53996840442338.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2606; 90% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (129; 4% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (81; 3% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (38; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (36; 1% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-PART.html">PART</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2836; 90% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (140; 4% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (83; 3% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (44; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (38; 1% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="ab_abnc-pos-PART.html">PART</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	Лакоба	Лакоба	PROPN	Noun_Prop_Anthr_LastName	NameType=Prs	6	nsubj	_	LMSeg:Лакоба
 6	исиҭаз	а́-ҭара	VERB	V_Dyn_Tr_NonFin_PastIndef_S:3SgM_DO:Rel_IO:1Sg_Rel	Dyn=Yes|Gender[subj]=Masc|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[obj]=Rel|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=NonFin	7	acl:relcl	_	LMSeg:а́-ҭа-ра
 7	адҵа	а-дҵа́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	8	obj	_	LMSeg:а-дҵа́
-8	насыгӡон	а́-нагӡара	VERB	V_Dyn_Tr_Fin_Impf_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-на·гӡа-ра|SpaceAfter=No
+8	насыгӡон	а́-нагӡара	VERB	V_Dyn_Tr_Fin_Impf_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-на·гӡа-ра|SpaceAfter=No
 9	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
 
 ~~~
@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	атроцкист	а-троцки́ст	NOUN	Noun_H_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	7	nmod:poss	_	LMSeg:а-троцки́ст
 6	Лакоба	Лакоба	PROPN	Noun_Prop_Anthr_LastName	NameType=Prs	5	appos	_	LMSeg:Лакоба
 7	иҩнаҿ	а-ҩны́	NOUN	Noun_NH_Sg_Poss:3SgM_Cop_PP:ҿы́	Animacy=Nhum|Case=Ine|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	LMSeg:а-ҩны́|SpaceAfter=No
-8	оуп	а́кәзаара	AUX	V_Stat_Fin_Pres_S:3_IO:3SgNH_EnclCop	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	cop	_	LMSeg:а́кә-заа-ра|SpaceAfter=No
+8	оуп	а́кәзаара	AUX	V_Stat_Fin_Pres_S:3_IO:3SgNH_EnclCop	Dyn=No|Gender[io]=Neut|Mood=Ind|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	cop	_	LMSeg:а́кә-заа-ра|SpaceAfter=No
 9	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 
 ~~~

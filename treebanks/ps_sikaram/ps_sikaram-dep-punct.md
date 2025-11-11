@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-259 nodes (10%) are attached to their parents as `punct`.
+517 nodes (13%) are attached to their parents as `punct`.
 
-144 instances of `punct` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.6756756756757.
+263 instances of `punct` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.1779497098646.
 
-The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (157; 61% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (66; 25% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (21; 8% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (11; 4% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (272; 53% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (128; 25% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (76; 15% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (20; 4% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (10; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,9 +56,9 @@ The following 7 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 punct	color:blue
-1	زما	زما	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Translit=zmâ|LTranslit=zmâ|Gloss=my
+1	زما	زۀ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Translit=zmâ|LTranslit=zë|Gloss=my
 2	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
-3	ستا	ستا	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Translit=stâ|LTranslit=stâ|Gloss=your
+3	ستا	تۀ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Translit=stâ|LTranslit=të|Gloss=your
 4	له	له	ADP	_	Case=Acc	5	case	_	Translit=la|LTranslit=la|Gloss=from
 5	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
 6	څخه	څخه	ADP	_	Case=Acc	5	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from

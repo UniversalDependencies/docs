@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-14775 tokens (9%) have a non-empty value of `Mood`.
-3466 types (18%) occur at least once with a non-empty value of `Mood`.
+14771 tokens (9%) have a non-empty value of `Mood`.
+3465 types (18%) occur at least once with a non-empty value of `Mood`.
 1142 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (10573; 6% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (4202; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (10569; 6% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (4202; 3% instances).
 
 ### `VERB`
 
-10573 <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Mood`.
+10569 <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10573; 100%), <tt><a href="pt_porttinari-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10573; 100%), <tt><a href="pt_porttinari-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10573; 100%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (9585; 91%), <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8352; 79%), <tt><a href="pt_porttinari-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5516; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10569; 100%), <tt><a href="pt_porttinari-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10569; 100%), <tt><a href="pt_porttinari-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (10569; 100%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (9583; 91%), <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8348; 79%), <tt><a href="pt_porttinari-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5514; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (218; 2% of non-empty `Mood`): <em>deveria, poderia, poderiam, teria, teriam, diria, levaria, deveriam, fariam, ficaria</em>
 * `Imp` (64; 1% of non-empty `Mood`): <em>confira, olhe, Corra, Desculpe, beija, olha, usemos, veja, Acompanhemos, Acrescente</em>
-* `Ind` (9785; 93% of non-empty `Mood`): <em>diz, tem, há, disse, pode, afirma, deve, teve, afirmou, tinha</em>
+* `Ind` (9781; 93% of non-empty `Mood`): <em>diz, tem, há, disse, pode, afirma, deve, teve, afirmou, tinha</em>
 * `Sub` (506; 5% of non-empty `Mood`): <em>quiser, haja, possam, veja, possa, pudesse, tenha, tenham, tivesse, houver</em>
-* `EMPTY` (6659): <em>fazer, ter, ver, dar, feito, partir, ficar, dizer, chegar, entender</em>
+* `EMPTY` (6535): <em>fazer, ter, ver, dar, feito, partir, ficar, dizer, chegar, entender</em>
 
 <table>
   <tr><th>Paradigm <i>dizer</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -79,12 +79,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> VERB</tt> (792; 80%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> VERB</tt> (794; 80%),
 <tt>VERB --[<tt><a href="pt_porttinari-dep-ccomp-speech.html">ccomp:speech</a></tt>]--> VERB</tt> (380; 79%),
-<tt>VERB --[<tt><a href="pt_porttinari-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (137; 61%),
-<tt>VERB --[<tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt>]--> AUX</tt> (65; 79%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (135; 60%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt>]--> AUX</tt> (68; 79%),
 <tt>AUX --[<tt><a href="pt_porttinari-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="pt_porttinari-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (4; 100%),
-<tt>VERB --[<tt><a href="pt_porttinari-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_porttinari-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).
 

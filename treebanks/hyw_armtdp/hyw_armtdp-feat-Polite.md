@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (62; 100% of non-empty `Polite`): <em>գիտէք, ըսէք, խօսիք, կարծէք, հասկնաք, հետեւիք, հրամմեցէք, ներէք, նստեցէք, ուզէք</em>
-* `EMPTY` (15429): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, եղած, ըլլայ, կրնար, ունեցած, գիտեր</em>
+* `EMPTY` (15409): <em>կայ, ըսէ, կրնայ, ըսաւ, ունի, եղած, ըլլայ, կրնար, ունեցած, գիտեր</em>
 
 `Polite` seems to be **lexical feature** of `VERB`. 100% lemmas (39) occur only with one value of `Polite`.
 
@@ -31,12 +31,12 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 
 34 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (33; 97%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (34; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (34; 100%).
 
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (34; 100% of non-empty `Polite`): <em>ձեզ, դուք, ձեզի, ձեզմէ, ձեր, զձեզ</em>
-* `EMPTY` (4008): <em>որ, ինչ, որոնք, ան, որուն, անոր, ես, անոնք, իրեն, մենք</em>
+* `EMPTY` (4007): <em>որ, ինչ, որոնք, ան, որուն, անոր, ես, անոնք, իրեն, մենք</em>
 
 ### `AUX`
 
@@ -47,18 +47,18 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (23; 100% of non-empty `Polite`): <em>էք, չէք, չէիք</em>
-* `EMPTY` (8943): <em>կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</em>
+* `EMPTY` (8930): <em>կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</em>
 
 ### `DET`
 
 8 <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8; 100%).
+The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 100%), <tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8; 100%).
 
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (8; 100% of non-empty `Polite`): <em>ձեր</em>
-* `EMPTY` (6690): <em>մը, իր, այս, այդ, մեր, իրենց, ամէն, այն, բոլոր, մըն</em>
+* `EMPTY` (6678): <em>մը, իր, այս, այդ, մեր, իրենց, ամէն, այն, բոլոր, մըն</em>
 
 ## Relations with Agreement in `Polite`
 

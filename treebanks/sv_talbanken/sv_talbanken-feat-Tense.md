@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (699; 12% of non-empty `Tense`): <em>blev, fick, hade, började, gjorde, kom, gick, fanns, gav, tog</em>
 * `Pres` (4908; 88% of non-empty `Tense`): <em>har, finns, blir, får, gäller, behöver, ger, går, kommer, gör</em>
-* `EMPTY` (4182): <em>få, ha, se, ta, ge, bli, göra, gå, komma, fått</em>
+* `EMPTY` (4183): <em>få, ha, se, ta, ge, bli, göra, gå, komma, fått</em>
 
 <table>
   <tr><th>Paradigm <i>ha</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (853; 67% of non-empty `Tense`): <em>särskild, särskilda, ökad, ökade, gifta, sett, taget, handikappade, beredd, bestämda</em>
 * `Pres` (421; 33% of non-empty `Tense`): <em>följande, beroende, motsvarande, liknande, nuvarande, omfattande, avgörande, krävande, tillfredsställande, förvärvsarbetande</em>
-* `EMPTY` (7274): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
+* `EMPTY` (7279): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (500) occur only with one value of `Tense`.
 
@@ -73,12 +73,13 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 
 * `Past` (2; 29% of non-empty `Tense`): <em>koncentrerat, renodlat</em>
 * `Pres` (5; 71% of non-empty `Tense`): <em>flytande, förfärande, försvinnande, imponerande, oroande</em>
-* `EMPTY` (6967): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
+* `EMPTY` (6921): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (357; 70%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).

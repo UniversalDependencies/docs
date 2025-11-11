@@ -88,10 +88,9 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1; 0% of non-empty `VerbForm`): <em>reaktivierte</em>
 * `Inf` (27; 4% of non-empty `VerbForm`): <em>erhalten, auszutauschenden, beginnenden, bewachsen, einzeln, externen, extremen, gesunden, kahlen, nassen</em>
-* `Part` (610; 96% of non-empty `VerbForm`): <em>beteiligt, verbreitet, aufgehoben, verheiratet, vertreten, verbunden, erhalten, geprägt, organisiert, vorgesehen</em>
-* `EMPTY` (21102): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
+* `Part` (611; 96% of non-empty `VerbForm`): <em>beteiligt, verbreitet, aufgehoben, verheiratet, vertreten, verbunden, erhalten, geprägt, organisiert, vorgesehen</em>
+* `EMPTY` (21104): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
 
 <table>
   <tr><th>Paradigm <i>erhalten</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -132,7 +131,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 * `Fin` (44; 81% of non-empty `VerbForm`): <em>ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Roden, Sankt, Verden</em>
 * `Inf` (4; 7% of non-empty `VerbForm`): <em>Wetten, diedenkweisen, kontrollieren, weingarten</em>
 * `Part` (6; 11% of non-empty `VerbForm`): <em>Aliskiren, Ethernet, Outcault, Target, vétkeimet, zertifiziert</em>
-* `EMPTY` (30363): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30362): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 
 `VerbForm` seems to be **lexical feature** of `PROPN`. 100% lemmas (51) occur only with one value of `VerbForm`.
 
@@ -163,7 +162,7 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 
 * `Fin` (2; 67% of non-empty `VerbForm`): <em>isl., s.</em>
 * `Inf` (1; 33% of non-empty `VerbForm`): <em>en</em>
-* `EMPTY` (309): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (308): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ## Relations with Agreement in `VerbForm`
 
@@ -173,7 +172,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="de_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (13; 68%),
 <tt>AUX --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (12; 100%),
 <tt>AUX --[<tt><a href="de_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%),
-<tt>VERB --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="de_gsd-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="de_gsd-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (1; 100%).

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Daniel Swanson.
 
 Repository: [UD_Ancient_Greek-PTNK](https://github.com/UniversalDependencies/UD_Ancient_Greek-PTNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_ptnk216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_ptnk217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -280,7 +280,6 @@ abstract = "In this paper we present the initial construction of a treebank of A
   <li>Plur
     <ul>
       <li>ADJ: πάντων, ὅσα, πᾶσαι, πάντας, πάντες, πᾶσι, πᾶσιν, καθαρῶν, πάσας, εἰρηνικοί</li>
-      <li>AUX: ἦσαν, εἰσιν, ἔσονται, ἐσμεν, ἐστε, εἰσὶν, ἐσόμεθα, ἔστωσαν, εἰσίν, ἐσμὲν</li>
       <li>AUX-Fin: ἦσαν, εἰσιν, ἔσονται, ἐσμεν, ἐστε, εἰσὶν, ἐσόμεθα, ἔστωσαν, εἰσίν, ἐσμὲν</li>
       <li>AUX-Part: ὄντας, ὄντες, ὦσίν, ὦσιν</li>
       <li>DET: τῶν, τὰ, οἱ, τοὺς, τοῖς, τὰς, αἱ, ταῖς, οἳ, τά</li>
@@ -298,8 +297,7 @@ abstract = "In this paper we present the initial construction of a treebank of A
   <li>Sing
     <ul>
       <li>ADJ: κύριος, πάντα, μέσον, πᾶν, πᾶσαν, πάσης, πάσῃ, πᾶς, πᾶσα, νεώτερος</li>
-      <li>AUX: ἦν, ἐστιν, ἔσται, ἔστιν, εἰμι, εἶ, ἐστὶν, ἔσομαι, ἔσῃ, ἔστω</li>
-      <li>AUX-Fin: ἦν, ἐστιν, ἔσται, ἔστιν, εἰμι, εἶ, ἐστὶν, ἔσῃ, ἔσομαι, ἔστω</li>
+      <li>AUX-Fin: ἦν, ἐστιν, ἔσται, ἔστιν, εἰμι, εἶ, ἐστὶν, ἔσομαι, ἔσῃ, ἔστω</li>
       <li>AUX-Part: ὄντος, οὖσα, ὂν, ὢν, ἐσομένου, ὄντι</li>
       <li>DET: τοῦ, ὁ, τὸν, τὴν, τῷ, τὸ, τῆς, ἡ, τῇ, ὃ</li>
       <li>NOUN: γῆς, θεὸς, ὄνομα, γῆν, γῇ, κυρίου, θεός, γυναῖκα, πατρὸς, θεοῦ</li>
@@ -487,8 +485,7 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: ἦν, ἦσαν, ἔσται, ἔσομαι, ἔσονται, ἦς, ἦσθα, ὢν, ὦσιν</li>
-      <li>AUX-Fin: ἦν, ἦσαν, ἦσθα, ὦσιν</li>
+      <li>AUX-Fin: ἦν, ἦσαν, ἔσται, ἔσομαι, ἔσονται, ἦς, ἦσθα, ὦσιν</li>
       <li>AUX-Part: ὢν</li>
       <li>VERB-Fin: δώσω, ποιήσω, ποιήσεις, λήμψῃ, πληθυνῶ, ἔχει, ἀνέβαινον, γνώσομαι, ζῇ, πληθύνεσθε</li>
       <li>VERB-Inf: τίκτειν, γίνεσθαι, κατοικεῖν, ποιεῖν, ἐργάζεσθαι, γινώσκειν, διαχωρίζειν, ζῆν, παροικεῖν, περιτέμνεσθαι</li>
@@ -531,10 +528,8 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: ἦν, ἐστιν, ἔσται, ἔστιν, ἦσαν, εἶ, ἐστὶν, εἰσιν, ἔσονται, ἔσομαι</li>
-      <li>AUX-Fin: ἦν, ἐστιν, ἔσται, ἔστιν, ἦσαν, εἶ, ἐστὶν, εἰσιν, ἔσονται, ἔσῃ</li>
+      <li>AUX-Fin: ἦν, ἐστιν, ἔσται, ἔστιν, ἦσαν, εἶ, ἐστὶν, εἰσιν, ἔσονται, ἔσομαι</li>
       <li>VERB-Fin: εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν</li>
-      <li>VERB-Part: ἐπάρας</li>
     </ul>
   </li>
 </ul>
@@ -542,7 +537,6 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Ind,Sub
     <ul>
-      <li>AUX: εἰμι, εἰμὶ</li>
       <li>AUX-Fin: εἰμι, εἰμὶ</li>
       <li>VERB-Fin: γινώσκω, δίδωμι, παροικῶ, πορεύῃ, ἀποθνῄσκω, ἐπάγω, ἔχω, δίδωμί, διαφθείρω, δουλεύσω</li>
     </ul>
@@ -552,7 +546,6 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Opt
     <ul>
-      <li>AUX: εἴη</li>
       <li>AUX-Fin: εἴη</li>
       <li>VERB-Fin: ποιῆσαι, δῴη, θάψαι, γένοιτο, εὐλογήσαι, καταλῦσαι, λαλῆσαι, εὕροιμι, κατανοῆσαι, κληρονομῆσαι</li>
     </ul>
@@ -575,8 +568,7 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: ἔσται, ἔσονται, ἔσομαι, ἔσῃ, ἐσόμεθα, ἔσεσθε, ἐσομένου, ἔσονταί</li>
-      <li>AUX-Fin: ἔσται, ἔσονται, ἔσῃ, ἔσομαι, ἐσόμεθα, ἔσεσθε, ἔσονταί</li>
+      <li>AUX-Fin: ἔσται, ἔσονται, ἔσομαι, ἔσῃ, ἐσόμεθα, ἔσεσθε, ἔσονταί</li>
       <li>AUX-Part: ἐσομένου</li>
       <li>VERB-Fin: δώσω, ποιήσω, ποιήσεις, λήμψῃ, πληθυνῶ, γνώσομαι, δυνησόμεθα, κληθήσεται, κληρονομήσει, ἐνευλογηθήσονται</li>
       <li>VERB-Inf: ποιήσειν, ἀδικήσειν</li>
@@ -588,8 +580,7 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Past
     <ul>
-      <li>AUX: ἦν, ἦσαν, ἦς, ἦσθα</li>
-      <li>AUX-Fin: ἦν, ἦσαν, ἦσθα</li>
+      <li>AUX-Fin: ἦν, ἦσαν, ἦς, ἦσθα</li>
       <li>VERB-Fin: εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν</li>
       <li>VERB-Inf: ἀγχιστεῦσαι, διαθρέψαι, κοιμηθῆναι, κτήσασθαί, λαλῆσαι, ποιήσαι, φαγεῖν, ἀναστῆσαι, ἐπιγνῶναί, ἐπιστρέψαι</li>
       <li>VERB-Part: ἐκλιπὼν, ἀγαπήσασά, ἀποστραφεῖσα, ἐκκλίνας, ἐξενέγκασα, ἐπάρας, ἐπιγνούς, ἰδοῦσα</li>
@@ -608,7 +599,6 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: ἐστιν, ἔστιν, εἰμι, εἶ, ἐστὶν, εἰσιν, εἶναι, ἐσμεν, ἐστε, ἔστω</li>
       <li>AUX-Fin: ἐστιν, ἔστιν, εἰμι, εἶ, ἐστὶν, εἰσιν, ἐσμεν, ἐστε, ἔστω, ᾖ</li>
       <li>AUX-Inf: εἶναι, εἶναί</li>
       <li>AUX-Part: ὄντος, οὖσα, ὂν, ὄντας, ὄντες, ὢν, ὄντι</li>
@@ -626,8 +616,7 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Act
     <ul>
-      <li>AUX: ἦν, ἐστιν, ἔστιν, ἦσαν, εἰμι, εἶ, ἐστὶν, εἰσιν, εἶναι, ἔσομαι</li>
-      <li>AUX-Fin: ἦν, ἐστιν, ἔστιν, ἦσαν, εἰμι, εἶ, ἐστὶν, εἰσιν, ἐσμεν, ἔσομαι</li>
+      <li>AUX-Fin: ἦν, ἐστιν, ἔστιν, ἦσαν, εἰμι, εἶ, ἐστὶν, εἰσιν, ἔσομαι, ἐσμεν</li>
       <li>AUX-Inf: εἶναι, εἶναί</li>
       <li>AUX-Part: ὄντος, οὖσα, ὂν, ὄντας, ὄντες, ὢν, ὄντι</li>
       <li>VERB-Fin: εἶπεν, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν, ἀπέθανεν</li>
@@ -640,7 +629,6 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>Mid
     <ul>
-      <li>AUX: ἔσται, ἔσονται, ἔσῃ, ἐσόμεθα, ἔσεσθε, ἐσομένου, ἔσονταί</li>
       <li>AUX-Fin: ἔσται, ἔσονται, ἔσῃ, ἐσόμεθα, ἔσεσθε, ἔσονταί</li>
       <li>AUX-Part: ἐσομένου</li>
       <li>VERB-Fin: ἐγένετο, ἐγένοντο, ἐνετείλατο, λήμψῃ, ἔθετο, ἐκτήσατο, γνώσομαι, πορεύσῃ, διηγήσατο, δυνησόμεθα</li>
@@ -787,8 +775,7 @@ abstract = "In this paper we present the initial construction of a treebank of A
   <li>1
     <ul>
       <li>ADJ: ἡμετέραν</li>
-      <li>AUX: εἰμι, ἔσομαι, ἐσμεν, ἐσόμεθα, εἰμὶ, ἐσμὲν, ἐσμέν, ἦσαν</li>
-      <li>AUX-Fin: εἰμι, ἐσμεν, ἔσομαι, ἐσόμεθα, εἰμὶ, ἐσμὲν, ἐσμέν</li>
+      <li>AUX-Fin: εἰμι, ἔσομαι, ἐσμεν, ἐσόμεθα, εἰμὶ, ἐσμὲν, ἐσμέν, ἦσαν</li>
       <li>PRON: μου, μοι, με, ἡμῶν, ἐγὼ, ἐμοῦ, ἐγώ, ἡμῖν, ἡμᾶς, μού</li>
       <li>VERB-Fin: δώσω, εἶδον, ποιήσω, εἶπα, ἐποίησα, εἰσῆλθον, εὐλογήσω, εὗρον, πληθυνῶ, στήσω</li>
     </ul>
@@ -798,8 +785,7 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>2
     <ul>
-      <li>AUX: εἶ, ἔσῃ, ἐστε, ἔσεσθε, εἴ, ἐστὲ, ἦς, ἦσθα</li>
-      <li>AUX-Fin: εἶ, ἔσῃ, ἐστε, ἔσεσθε, εἴ, ἐστὲ, ἦσθα</li>
+      <li>AUX-Fin: εἶ, ἔσῃ, ἐστε, ἔσεσθε, εἴ, ἐστὲ, ἦς, ἦσθα</li>
       <li>PRON: σου, ὑμῶν, σὲ, σοί, σὺ, ὑμῖν, σοι, ὑμᾶς, σε, ὑμεῖς</li>
       <li>VERB-Fin: ποιήσεις, λήμψῃ, ἐποίησας, λαβὲ, λάβετε, πληθύνεσθε, πορεύσῃ, φοβοῦ, αὐξάνεσθε, εἴπατε</li>
     </ul>
@@ -809,7 +795,6 @@ abstract = "In this paper we present the initial construction of a treebank of A
 <ul>
   <li>3
     <ul>
-      <li>AUX: ἦν, ἐστιν, ἔσται, ἔστιν, ἦσαν, ἐστὶν, εἰσιν, ἔσονται, ἔστω, ᾖ</li>
       <li>AUX-Fin: ἦν, ἐστιν, ἔσται, ἔστιν, ἦσαν, ἐστὶν, εἰσιν, ἔσονται, ἔστω, ᾖ</li>
       <li>PRON: ἑαυτῷ, ἑαυτοῖς, ἑαυτοῦ, ἑαυτῆς, ἑαυτὸν, ἑαυτῇ, ἑαυτοὺς, ἑαυτούς, ἑαυτῶν</li>
       <li>VERB-Fin: εἶπεν, ἐγένετο, ἐκάλεσεν, ἐγέννησεν, ἔτεκεν, ἐποίησεν, ἔδωκεν, εἶδεν, ἔλαβεν, εἶπαν</li>
@@ -891,7 +876,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (5)</li>
-      <li>VERB-Fin--NOUN-Acc (926)</li>
+      <li>VERB-Fin--NOUN-Acc (925)</li>
       <li>VERB-Fin--NOUN-Acc,Nom (11)</li>
       <li>VERB-Fin--NOUN-Dat (5)</li>
       <li>VERB-Fin--NOUN-Gen (9)</li>
@@ -900,7 +885,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Voc (3)</li>
       <li>VERB-Fin--PRON-Acc (518)</li>
       <li>VERB-Fin--PRON-Acc,Nom (6)</li>
-      <li>VERB-Fin--PRON-Dat (20)</li>
+      <li>VERB-Fin--PRON-Dat (18)</li>
       <li>VERB-Fin--PRON-Gen (6)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (60)</li>
@@ -925,7 +910,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Dat (142)</li>
-      <li>VERB-Fin--PRON-Dat (481)</li>
+      <li>VERB-Fin--PRON-Dat (483)</li>
       <li>VERB-Fin--PRON-Dat-ADP(παρά) (2)</li>
       <li>VERB-Fin--PRON-Dat-ADP(ἐν) (1)</li>
       <li>VERB-Inf--NOUN-Dat (8)</li>

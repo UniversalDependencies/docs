@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (442; 9% of non-empty `Degree`): <em>parem, suurem, lihtsam, raskem, paremad, hullem, kergem, parema, suurema, suuremaks</em>
 * `Pos` (4262; 90% of non-empty `Degree`): <em>hea, suur, võimalik, õige, huvitav, head, vana, uus, lihtne, tore</em>
 * `Sup` (51; 1% of non-empty `Degree`): <em>parim, parima, suurim, parimad, parimaid, parimate, Suurimad, enim, huvitavaim, ilusaima</em>
-* `EMPTY` (502): <em>esimene, selline, inglise, sama, eesti, esimese, vene, 3., esimest, sellist</em>
+* `EMPTY` (503): <em>esimene, selline, inglise, sama, eesti, sellist, esimese, vene, 3., esimest</em>
 
 <table>
   <tr><th>Paradigm <i>parem</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>

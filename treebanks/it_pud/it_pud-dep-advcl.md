@@ -31,7 +31,7 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	provai	provare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	_
 8	a	a	ADP	IN	_	9	mark	_	_
 9	svelare	svelare	VERB	VB	Voice=Act	7	xcomp	_	_
-10	un	uno	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	etimo	etimo	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -66,7 +66,7 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Oltre	oltre	ADV	RB	_	5	case	_	_
 2	a	a	ADP	IN	_	1	fixed	_	_
 3	essere	essere	AUX	VB	Voice=Act	5	cop	_	_
-4	una	uno	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+4	una	uno	DET	DT	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	fonte	fonte	NOUN	NN	Gender=Fem|Number=Sing	12	advcl	_	_
 6	diretta	dirigere	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
 7	di	di	ADP	IN	_	8	case	_	_

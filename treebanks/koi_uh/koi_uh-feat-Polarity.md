@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="koi_uh-pos-AUX.html
 
 26 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19; 73%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 54%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19; 73%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19; 73%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 54%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 1 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Polarity`:
 

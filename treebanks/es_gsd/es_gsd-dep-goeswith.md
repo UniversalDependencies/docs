@@ -8,12 +8,66 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `goeswith`.
+2 nodes (0%) are attached to their parents as `goeswith`.
 
-1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+2 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 50% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 50% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 goeswith	color:blue
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	recibió	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art|Typo=Yes	6	det	_	CorrectForm=una
+5	a	_	X	_	_	4	goeswith	_	_
+6	hidratación	hidratación	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+7	facial	facial	ADJ	_	Number=Sing	6	amod	_	_
+8	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	una	uno	NUM	_	Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	10	nummod	_	_
+10	semana	semana	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
+11	y	y	CCONJ	_	_	12	cc	_	_
+12	quedo	quedo	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Fin	3	conj	_	CorrectForm=quedó
+13	encantada	encantado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	12	xcomp	_	_
+14	con	con	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	productos	producto	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+18	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
+19	cual	cual	PRON	_	Number=Sing|PronType=Rel	20	nsubj	_	_
+20	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+21	que	que	SCONJ	_	_	24	mark	_	_
+22	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
+23	también	también	ADV	_	_	24	advmod	_	_
+24	recibiera	recibir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	ccomp	_	_
+25	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	hidratación	hidratación	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	_
+27	gratis	gratis	ADV	_	_	24	advmod	_	_
+28	y	y	CCONJ	_	_	35	cc	_	_
+29	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	30	det	_	_
+30	cara	cara	NOUN	_	Gender=Fem|Number=Sing	35	nsubj	_	_
+31	de	de	ADP	_	_	32	case	_	_
+32	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	35	obl	_	_
+33	que	que	SCONJ	_	_	35	mark	_	_
+34	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	35	obj	_	_
+35	agradece	agradecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
+36	porque	porque	SCONJ	_	_	37	mark	_	_
+37	trabajo	trabajo	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	35	advcl	_	_
+38	en	en	ADP	_	_	40	case	_	_
+39	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
+40	obra	obra	NOUN	_	Gender=Fem|Number=Sing	37	obl	_	_
+41	a	a	ADP	_	_	43	case	_	_
+42	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
+43	intemperie	intemperie	NOUN	_	Gender=Fem|Number=Sing	37	obl	_	SpaceAfter=No
+44	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu

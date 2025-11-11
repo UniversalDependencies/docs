@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Rel` (27; 100% of non-empty `PronType`): <em>quam</em>
-* `EMPTY` (751): <em>ut, si, cum, ne, quod, dum, nisi, ubi, quia, postquam</em>
+* `EMPTY` (750): <em>ut, si, cum, ne, quod, dum, nisi, ubi, quia, postquam</em>
 
 ### `ADV`
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Ind` (1; 7% of non-empty `PronType`): <em>quacunque</em>
 * `Rel` (13; 93% of non-empty `PronType`): <em>quid</em>
-* `EMPTY` (1835): <em>ne, iam, etiam, tamen, sic, nunc, ita, modo, tum, magis</em>
+* `EMPTY` (1837): <em>ne, iam, etiam, tamen, sic, nunc, ita, modo, tum, magis</em>
 
 ## Relations with Agreement in `PronType`
 

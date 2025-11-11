@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans-AfriBooms: POS Tags: `PROPN`
 
-There are 308 `PROPN` lemmas (5%), 308 `PROPN` types (5%) and 590 `PROPN` tokens (1%).
+There are 309 `PROPN` lemmas (5%), 309 `PROPN` types (5%) and 591 `PROPN` tokens (1%).
 Out of 16 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Suid-Afrika, Afrika, Februarie, Madiba, Crime, Mandela, of, Bafana, Maart, Tambo</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="af_afribooms-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.120600).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.120578).
 
 The 1st highest number of forms (1) was observed with the lemma “(SACU)-Mercusor”: <em>(SACU)-Mercusor</em>.
 
@@ -61,32 +61,32 @@ The 2nd highest number of forms (1) was observed with the lemma “0123298292”
 
 The 3rd highest number of forms (1) was observed with the lemma “0313377469”: <em>0313377469</em>.
 
-`PROPN` occurs with 1 features: <tt><a href="af_afribooms-feat-Number.html">Number</a></tt> (590; 100% instances)
+`PROPN` occurs with 1 features: <tt><a href="af_afribooms-feat-Number.html">Number</a></tt> (591; 100% instances)
 
 `PROPN` occurs with 1 feature-value pairs: `Number=Sing`
 
 `PROPN` occurs with 1 feature combinations.
-The most frequent feature combination is `Number=Sing` (590 tokens).
+The most frequent feature combination is `Number=Sing` (591 tokens).
 Examples: <em>Suid-Afrika, Afrika, Februarie, Madiba, Crime, Mandela, of, Bafana, Maart, Tambo</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="af_afribooms-dep-flat.html">flat</a></tt> (229; 39% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (133; 23% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (73; 12% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (51; 9% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (42; 7% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (24; 4% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (21; 4% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (15; 3% instances), <tt><a href="af_afribooms-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances)
+`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="af_afribooms-dep-flat.html">flat</a></tt> (229; 39% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (135; 23% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (70; 12% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (50; 8% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (42; 7% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (24; 4% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (20; 3% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (19; 3% instances), <tt><a href="af_afribooms-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (230; 39% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (202; 34% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (109; 18% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (25; 4% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (234; 40% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (201; 34% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (108; 18% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (25; 4% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-138 (23%) `PROPN` nodes are leaves.
+139 (24%) `PROPN` nodes are leaves.
 
-247 (42%) `PROPN` nodes have one child.
+249 (42%) `PROPN` nodes have one child.
 
-109 (18%) `PROPN` nodes have two children.
+106 (18%) `PROPN` nodes have two children.
 
-96 (16%) `PROPN` nodes have three or more children.
+97 (16%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 7.
 
-Children of `PROPN` nodes are attached using 15 different relations: <tt><a href="af_afribooms-dep-flat.html">flat</a></tt> (231; 29% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (220; 28% instances), <tt><a href="af_afribooms-dep-punct.html">punct</a></tt> (121; 15% instances), <tt><a href="af_afribooms-dep-det.html">det</a></tt> (46; 6% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (43; 5% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (33; 4% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (30; 4% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (22; 3% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (13; 2% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (11; 1% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (8; 1% instances), <tt><a href="af_afribooms-dep-appos.html">appos</a></tt> (6; 1% instances), <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-nummod.html">nummod</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 15 different relations: <tt><a href="af_afribooms-dep-flat.html">flat</a></tt> (231; 29% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (220; 28% instances), <tt><a href="af_afribooms-dep-punct.html">punct</a></tt> (121; 15% instances), <tt><a href="af_afribooms-dep-det.html">det</a></tt> (46; 6% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (43; 5% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (34; 4% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (29; 4% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (27; 3% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (15; 2% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (8; 1% instances), <tt><a href="af_afribooms-dep-appos.html">appos</a></tt> (6; 1% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-nummod.html">nummod</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 16 different parts of speech: <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (230; 29% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (201; 26% instances), <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (121; 15% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (50; 6% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (48; 6% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (32; 4% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (24; 3% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (21; 3% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (19; 2% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 16 different parts of speech: <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (234; 30% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (201; 26% instances), <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (121; 15% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (47; 6% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (47; 6% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (33; 4% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (24; 3% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (21; 3% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (19; 2% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

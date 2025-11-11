@@ -47,7 +47,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (625; 20% of non-empty `Number`): <em>die, den, der, viele, seine, diese, einige, alle, ihre, beiden</em>
 * `Sing` (2453; 80% of non-empty `Number`): <em>der, dem, die, das, eine, des, ein, den, einer, einem</em>
-* `EMPTY` (28): <em>ein, the, a, That, al, all, anders, keinerlei, welchen</em>
+* `EMPTY` (17): <em>the, a, That, al, all, anders, keinerlei, welchen</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -120,7 +120,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-1082 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Number`.
+1082 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1065; 98%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1033; 95%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (604; 56%).
 
@@ -128,7 +128,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (288; 27% of non-empty `Number`): <em>haben, hatten, sind, nahmen, waren, zählen, enthalten, entschieden, eroberten, finden</em>
 * `Sing` (794; 73% of non-empty `Number`): <em>sagte, ist, hat, gibt, wurde, sagt, begann, war, hatte, führte</em>
-* `EMPTY` (896): <em>an, auf, aus, zurück, haben, ab, machen, verwendet, werden, genutzt</em>
+* `EMPTY` (788): <em>haben, machen, verwendet, werden, genutzt, veröffentlicht, errichtet, finden, geben, gegeben</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

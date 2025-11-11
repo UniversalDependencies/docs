@@ -31,11 +31,11 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 7	,	,	PUNCT	CLB	_	6	punct	_	_
 8	мыйкӧ	мыйкӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	10	nsubj	_	GTtags=Indef,Sg,Nom
 9	сё	сё	ADV	Adv	AdvType=Deg	10	advmod	_	GTtags=Deg
-10	вӧрис	вӧрны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+10	вӧрис	вӧрны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	14	punct	_	_
 12	и	и	CCONJ	CC	_	14	cc	_	_
 13	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	GTtags=Pers,Sg1,Nom
-14	вежӧрті	вежӧртны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	10	conj	_	GTtags=Ind,Prt1,Sg1|SpaceAfter=No
+14	вежӧрті	вежӧртны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	conj	_	GTtags=Ind,Prt1,Sg1|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	17	punct	_	_
 16	что	что	SCONJ	CS	_	17	mark	_	_
 17	сэтӧн	сэтӧн	ADV	Adv	_	14	ccomp	_	_
@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 6 appos	color:blue
 1	Сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	быдмис	быдмыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+2	быдмис	быдмыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3
 3	Парижын	Париж	PROPN	_	Case=Ine|NameType=Geo|Number=Sing	2	obl	_	GTtags=Prop,Sg,Ine|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	Франция	Франция	PROPN	_	Case=Nom|NameType=Geo|Number=Sing	6	nmod	_	GTtags=Prop,Sg,Nom
@@ -77,7 +77,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 6	горизонт	горизонт	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom
 7	вылын	выв	NOUN	N	Case=Ine|NounType=Relat|Number=Sing	3	appos	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	7	punct	_	_
-9	лэбтіcиcӧ	лэбтіcьны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
+9	лэбтіcиcӧ	лэбтіcьны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Pl3
 10	кык	кык	NUM	_	Case=Nom|Number=Sing|NumType=Card	13	nummod	_	GTtags=Card,Sg,Nom
 11	ыджыт	ыджыт	ADJ	_	Case=Nom|Number=Sing	13	amod	_	GTtags=Sg,Nom
 12	коричневӧй	коричневӧй	ADJ	_	Case=Nom|Number=Sing	13	amod	_	GTtags=Sg,Nom

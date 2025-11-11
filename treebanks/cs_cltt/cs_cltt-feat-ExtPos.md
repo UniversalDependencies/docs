@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CLTT: Features: `ExtPos`
 
 This feature is language-specific.
-It occurs with 3 different values: `ADP`, `ADV`, `CCONJ`.
+It occurs with 2 different values: `ADP`, `CCONJ`.
 
-294 tokens (1%) have a non-empty value of `ExtPos`.
-16 types (0%) occur at least once with a non-empty value of `ExtPos`.
-13 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (255; 1% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (2; 0% instances).
+293 tokens (1%) have a non-empty value of `ExtPos`.
+15 types (0%) occur at least once with a non-empty value of `ExtPos`.
+12 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (255; 1% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (33; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `ADP`
 
@@ -34,14 +34,13 @@ The most frequent other feature values with which `ADP` and `ExtPos` co-occurred
 
 ### `ADV`
 
-4 <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+3 <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3; 75%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 67%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2; 67%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (3; 75% of non-empty `ExtPos`): <em>spolu, souvztažně, společně</em>
-* `ADV` (1; 25% of non-empty `ExtPos`): <em>více</em>
+* `ADP` (3; 100% of non-empty `ExtPos`): <em>spolu, souvztažně, společně</em>
 
 ### `DET`
 

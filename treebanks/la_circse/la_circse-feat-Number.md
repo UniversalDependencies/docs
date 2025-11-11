@@ -265,13 +265,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2253; 100%),
-<tt>VERB --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> VERB</tt> (1211; 79%),
+<tt>VERB --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> VERB</tt> (1210; 79%),
 <tt>VERB --[<tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1189; 96%),
 <tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> DET</tt> (744; 97%),
 <tt>VERB --[<tt><a href="la_circse-dep-obl.html">obl</a></tt>]--> NOUN</tt> (634; 60%),
-<tt>NOUN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (483; 75%),
-<tt>NOUN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (440; 99%),
-<tt>NOUN --[<tt><a href="la_circse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (440; 60%),
-<tt>VERB --[<tt><a href="la_circse-dep-advcl-pred.html">advcl:pred</a></tt>]--> ADJ</tt> (239; 93%),
+<tt>NOUN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (487; 75%),
+<tt>NOUN --[<tt><a href="la_circse-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (442; 60%),
+<tt>NOUN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (441; 99%),
+<tt>VERB --[<tt><a href="la_circse-dep-advcl-pred.html">advcl:pred</a></tt>]--> ADJ</tt> (255; 94%),
 <tt>VERB --[<tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (228; 94%).
 

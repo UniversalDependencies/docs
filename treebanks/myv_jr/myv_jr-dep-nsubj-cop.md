@@ -42,7 +42,7 @@ The following 18 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 4	пельде	пеле	NOUN	N	Case=Abl|NounType=Relat	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@X|CGdephead=#4-&gt;0|CGdeprel=@X|GTtags=Relat,Abl|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	CGdephead=#5-&gt;4|CGdeprel=@X|CGdephead=#5-&gt;4|CGdeprel=@X|GTtags=CLB
 6	исяк	исяк	NOUN	Adv	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	7	obl:tmod	_	CGdephead=#6-&gt;7|CGdeprel=@ADVL&gt;|CGdephead=#6-&gt;7|CGdeprel=@ADVL&gt;|GTtags=
-7	кандызь	кандомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	3	parataxis	_	CGdephead=#7-&gt;0|CGdeprel=@FMV|CGdephead=#7-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prt1,ScPl3,OcPl3|SpaceAfter=No
+7	кандызь	кандомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	3	parataxis	_	CGdephead=#7-&gt;0|CGdeprel=@FMV|CGdephead=#7-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prt1,ScPl3,OcPl3|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	CGdephead=#8-&gt;7|CGdeprel=@X|CGdephead=#8-&gt;7|CGdeprel=@X|GTtags=CLB
 
 ~~~
@@ -59,7 +59,7 @@ The following 18 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 3	шумбрат	шумбра	ADJ	A	Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=Prs,ScSg2|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	—	—	PUNCT	PUNCT	_	6	punct	_	_
-6	отвечась	отвечамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3|1q-1:24.1,9
+6	отвечась	отвечамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3|1q-1:24.1,9
 7	тензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	6	obl	_	GTtags=Pers,Sg3,Dat,Short
 8	Якшамкань	Якшамка	PROPN	N	Case=Gen|Definite=Ind|NameType=Hom|Number=Plur,Sing	9	nmod	_	GTtags=Sem/Plc,SP,Gen,Indef
 9	Урван	Урван	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	6	nsubj	_	GTtags=Ant_Mal,Sg,Nom,Indef|SpaceAfter=No

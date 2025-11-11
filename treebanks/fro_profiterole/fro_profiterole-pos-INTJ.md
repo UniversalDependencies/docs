@@ -6,23 +6,23 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_French-PROFITEROLE: POS Tags: `INTJ`
 
-There are 7 `INTJ` lemmas (0%), 22 `INTJ` types (0%) and 159 `INTJ` tokens (0%).
-Out of 15 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
+There are 1 `INTJ` lemmas (7%), 22 `INTJ` types (0%) and 159 `INTJ` tokens (0%).
+Out of 15 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>_, ha, äi!, hu!, chäeles, häi!, äie!</em>
+The 10 most frequent `INTJ` lemmas: <em>_</em>
 
 The 10 most frequent `INTJ` types:  <em>Ha, E, Ba, ahi, Hé, A, AOI, Avoi, O, va</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 27664, <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 26074, <tt><a href="fro_profiterole-pos-PUNCT.html">PUNCT</a></tt> 25167, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 22734, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 19242, <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 17035, <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 16455, <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 9421, <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 6987, <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> 6414, <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> 5868, <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> 5764, <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> 561, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 138, <tt><a href="fro_profiterole-pos-X.html">X</a></tt> 8)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 35620, <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 31692, <tt><a href="fro_profiterole-pos-PUNCT.html">PUNCT</a></tt> 31401, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 29739, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 25148, <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 20494, <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 19977, <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 12417, <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 8278, <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> 7506, <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> 7480, <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> 6855, <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> 1047, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 159, <tt><a href="fro_profiterole-pos-X.html">X</a></tt> 9)
 
-The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 289, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 27), <em>A</em> (<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 367, <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 11, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 3), <em>O</em> (<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 43, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 2, <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 1), <em>va</em> (<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 41, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 2), <em>Di</em> (<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 14, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 2), <em>hu</em> (<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 1), <em>Ai</em> (<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 4, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1), <em>aïe</em> (<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 3, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1), <em>cheles</em> (<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 1, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1), <em>mi</em> (<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 60, <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 28, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 23, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 289, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 27), <em>A</em> (<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 366, <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 11, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 3), <em>O</em> (<tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 43, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 2, <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 1), <em>va</em> (<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 41, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 2), <em>Di</em> (<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 14, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 2), <em>hu</em> (<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 1), <em>Ai</em> (<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 4, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1), <em>aïe</em> (<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 3, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1), <em>cheles</em> (<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 1, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1), <em>mi</em> (<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 60, <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 28, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 23, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 4, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>E</em>
-  * <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 289: <em><b>E</b> sin avrez , ço quid , de plus gentilz .</em>
-  * <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 27: <em>« <b>E</b> ! Dix , fait Aucasins , ci fu Nicolete me douce amie ,</em>
+  * <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 289: <em><b>E</b> dist al rei :</em>
+  * <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 27: <em><b>E</b> ! reis , amis , que vos ici nen estes !</em>
 * <em>A</em>
-  * <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 367: <em><b>A</b> voz Franceis un cunseill en presistes ,</em>
+  * <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 366: <em><b>A</b> seint Michel tendrat mult halte feste .</em>
   * <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 11: <em>« Sire Tristran , grant soirement <b>A</b> l' en juré par Cornoualle ,</em>
   * <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 5: <em>« <b>A</b> ! las , tant avon a plorer !</em>
   * <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 3: <em>et travaillent <b>A</b> po qu' alainnes ne lor faillent .</em>
@@ -46,13 +46,13 @@ The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="fro_profiterole-
   * <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1: <em>« <b>Ai</b> mi ! lasse moi , caitive ! por coi sui en prison misse ?</em>
 * <em>aïe</em>
   * <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 23: <em>Vos en avrez mot bone <b>aïe</b> .</em>
-  * <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 3: <em>Et mout m' est bel se il m' <b>aïe</b> .</em>
+  * <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 3: <em>Mais ore nus <b>aïe</b> ,</em>
   * <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1: <em>« Dex , <b>aïe</b> !</em>
 * <em>cheles</em>
   * <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 1: <em>Si se porront adonques bien vengier tot chil et toutes <b>cheles</b> a qui il a mesfait . »</em>
   * <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 1: <em>Cument <b>cheles</b> iert Saül entre les prophetes ? »</em>
 * <em>mi</em>
-  * <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 60: <em>et vint bien dusques en <b>mi</b> voies .</em>
+  * <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 60: <em>si cuide ferir Kyrsac , qui corounés estoit , par <b>mi</b> le cors .</em>
   * <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 28: <em>Conseilez mei cume <b>mi</b> savie hume ,</em>
   * <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 23: <em>ains ferés grant sanlant de <b>mi</b> corre sus :</em>
   * <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 4: <em>par <b>mi</b> les rues an venent si granz turbes</em>
@@ -60,21 +60,11 @@ The 10 most frequent ambiguous types:  <em>E</em> (<tt><a href="fro_profiterole-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 3.142857 (the average of all parts of speech is 8.152370).
+The form / lemma ratio of `INTJ` is 22.000000 (the average of all parts of speech is 1383.200000).
 
-The 1st highest number of forms (18) was observed with the lemma “_”: <em>A, AOI, Ahi, Ai, Avoi, Ba, Di, Diva, E, Enondu, Ha, Hé, O, Os, cheles, mi, queles, va</em>.
+The 1st highest number of forms (22) was observed with the lemma “_”: <em>A, AOI, Ai, Avoi, Ba, Di, Diva, E, Enondu, Ha, Haï, Hé, O, Os, ahi, aïe, chaeles, cheles, hu, mi, queles, va</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “chäeles”: <em>chaeles</em>.
-
-The 3rd highest number of forms (1) was observed with the lemma “ha”: <em>Ha</em>.
-
-`INTJ` occurs with 1 features: <tt><a href="fro_profiterole-feat-Morph.html">Morph</a></tt> (2; 1% instances)
-
-`INTJ` occurs with 1 feature-value pairs: `Morph=VFin`
-
-`INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (157 tokens).
-Examples: <em>Ha, E, Ba, ahi, Hé, A, AOI, Avoi, O, va</em>
+`INTJ` does not occur with any features.
 
 
 ## Relations
@@ -83,17 +73,17 @@ Examples: <em>Ha, E, Ba, ahi, Hé, A, AOI, Avoi, O, va</em>
 
 Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (124; 78% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (14; 9% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (3; 2% instances),  (3; 2% instances)
 
-140 (88%) `INTJ` nodes are leaves.
+138 (87%) `INTJ` nodes are leaves.
 
 5 (3%) `INTJ` nodes have one child.
 
-12 (8%) `INTJ` nodes have two children.
+14 (9%) `INTJ` nodes have two children.
 
 2 (1%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 4 different relations: <tt><a href="fro_profiterole-dep-punct.html">punct</a></tt> (36; 92% instances), <tt><a href="fro_profiterole-dep-obl.html">obl</a></tt> (1; 3% instances), <tt><a href="fro_profiterole-dep-parataxis.html">parataxis</a></tt> (1; 3% instances), <tt><a href="fro_profiterole-dep-vocative.html">vocative</a></tt> (1; 3% instances)
+Children of `INTJ` nodes are attached using 4 different relations: <tt><a href="fro_profiterole-dep-punct.html">punct</a></tt> (40; 93% instances), <tt><a href="fro_profiterole-dep-obl.html">obl</a></tt> (1; 2% instances), <tt><a href="fro_profiterole-dep-parataxis.html">parataxis</a></tt> (1; 2% instances), <tt><a href="fro_profiterole-dep-vocative.html">vocative</a></tt> (1; 2% instances)
 
-Children of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="fro_profiterole-pos-PUNCT.html">PUNCT</a></tt> (36; 92% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 3% instances)
+Children of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="fro_profiterole-pos-PUNCT.html">PUNCT</a></tt> (40; 93% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

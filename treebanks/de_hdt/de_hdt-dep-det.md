@@ -62,7 +62,7 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	Mit	Mit	ADP	APPR	AdpType=Prep|Case=Dat	3	case	_	_
+1	Mit	mit	ADP	APPR	AdpType=Prep|Case=Dat	3	case	_	_
 2	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	3	det	_	_
 3	Batterie	Batterie	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_
 4	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	9	aux	_	_

@@ -32,7 +32,13 @@ The 2nd highest number of forms (2) was observed with the lemma “para”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “por”: <em>po, por</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="es_coser-feat-ExtPos.html">ExtPos</a></tt> (30; 5% instances)
+
+`ADP` occurs with 3 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`
+
+`ADP` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (630 tokens).
+Examples: <em>de, a, en, por, con, para, pa, hasta, desde, sin</em>
 
 
 ## Relations

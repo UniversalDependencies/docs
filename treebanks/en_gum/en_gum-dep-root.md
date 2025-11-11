@@ -11,9 +11,9 @@ This relation is universal.
 13263 nodes (6%) are attached to their parents as `root`.
 
 13263 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.57189172886979.
+Average distance between parent and child is 5.57211792203875.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (8439; 64% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1890; 14% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1044; 8% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (630; 5% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (505; 4% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (240; 2% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (180; 1% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (148; 1% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (112; 1% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (23; 0% instances), -<tt><a href="en_gum-pos-DET.html">DET</a></tt> (18; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (11; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (8; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), -<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (7; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (8439; 64% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1888; 14% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1045; 8% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (631; 5% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (505; 4% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (240; 2% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (180; 1% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (148; 1% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (112; 1% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (23; 0% instances), -<tt><a href="en_gum-pos-DET.html">DET</a></tt> (18; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (11; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (8; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), -<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (7; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Leading	lead	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Discourse=elaboration-additional:2->1:0:sem-synym-1-2,9|MSeg=Lead-ing
+1	Leading	lead	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Discourse=elaboration-additional:2->1:0:sem-synym-1-2,9-_|MSeg=Lead-ing
 2	Dutch	Dutch	ADJ	JJ	Degree=Pos	3	amod	3:amod	Entity=(3-person-new-snnsn-cf2-2-sgl
 3	Librarians	librarian	NOUN	NNS	Number=Plur	1	obj	1:obj	Entity=3)|MSeg=Librari-an-s
 4	into	into	ADP	IN	_	5	case	5:case	MSeg=in-to
@@ -37,7 +37,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Introduction	introduction	NOUN	NN	Number=Sing	0	root	0:root	Discourse=organization-heading:1->29:3:grf-ly-|Entity=(1-abstract-new-nnnnn-cf1-1-sgl)|MSeg=Introduc-tion
+1	Introduction	introduction	NOUN	NN	Number=Sing	0	root	0:root	Discourse=organization-heading:1->29:3:grf-ly-_-_|Entity=(1-abstract-new-nnnnn-cf1-1-sgl)|MSeg=Introduc-tion
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	However	however	ADV	RB	_	6	advmod	6:advmod	Discourse=evaluation-comment:13->8:3:lex-indwd-78;adversative-contrast:13->8:0:2:orp-however-73|MSeg=How-ever|PDTB=Explicit:Comparison.Contrast:however:73:36-72:74-87|SpaceAfter=No
+1	However	however	ADV	RB	_	6	advmod	6:advmod	Discourse=evaluation-comment:13->8:3:lex-indwd-78-_;adversative-contrast:13->8:0:2:orp-however-73-_|MSeg=How-ever|PDTB=Explicit:Comparison.Contrast:however:73:36-72:74-87|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	6:expl	Entity=(18-event-new-nnnnn-cf2-1-cata)
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_

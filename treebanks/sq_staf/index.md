@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Luigi Talamo, Edita Luftiu, Nelda Kote, Rozana Rushiti, Anila Çepani.
 
 Repository: [UD_Albanian-STAF](https://github.com/UniversalDependencies/UD_Albanian-STAF)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_staf216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsq_staf217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -71,7 +71,7 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 
 ## Relations
 
-[acl](sq_staf-dep-acl.html) – [acl:relcl](sq_staf-dep-acl-relcl.html) – [advcl](sq_staf-dep-advcl.html) – [advmod](sq_staf-dep-advmod.html) – [amod](sq_staf-dep-amod.html) – [appos](sq_staf-dep-appos.html) – [aux](sq_staf-dep-aux.html) – [case](sq_staf-dep-case.html) – [cc](sq_staf-dep-cc.html) – [ccomp](sq_staf-dep-ccomp.html) – [compound](sq_staf-dep-compound.html) – [conj](sq_staf-dep-conj.html) – [cop](sq_staf-dep-cop.html) – [csubj](sq_staf-dep-csubj.html) – [det](sq_staf-dep-det.html) – [det:adj](sq_staf-dep-det-adj.html) – [det:poss](sq_staf-dep-det-poss.html) – [det:pron](sq_staf-dep-det-pron.html) – [discourse](sq_staf-dep-discourse.html) – [fixed](sq_staf-dep-fixed.html) – [flat](sq_staf-dep-flat.html) – [iobj](sq_staf-dep-iobj.html) – [mark](sq_staf-dep-mark.html) – [nmod](sq_staf-dep-nmod.html) – [nmod:poss](sq_staf-dep-nmod-poss.html) – [nsubj](sq_staf-dep-nsubj.html) – [nsubj:outer](sq_staf-dep-nsubj-outer.html) – [nsubj:pass](sq_staf-dep-nsubj-pass.html) – [nummod](sq_staf-dep-nummod.html) – [obj](sq_staf-dep-obj.html) – [obl](sq_staf-dep-obl.html) – [obl:agent](sq_staf-dep-obl-agent.html) – [obl:tmod](sq_staf-dep-obl-tmod.html) – [parataxis](sq_staf-dep-parataxis.html) – [punct](sq_staf-dep-punct.html) – [root](sq_staf-dep-root.html) – [xcomp](sq_staf-dep-xcomp.html)
+[acl](sq_staf-dep-acl.html) – [acl:relcl](sq_staf-dep-acl-relcl.html) – [advcl](sq_staf-dep-advcl.html) – [advmod](sq_staf-dep-advmod.html) – [amod](sq_staf-dep-amod.html) – [appos](sq_staf-dep-appos.html) – [aux](sq_staf-dep-aux.html) – [case](sq_staf-dep-case.html) – [cc](sq_staf-dep-cc.html) – [ccomp](sq_staf-dep-ccomp.html) – [compound](sq_staf-dep-compound.html) – [conj](sq_staf-dep-conj.html) – [cop](sq_staf-dep-cop.html) – [csubj](sq_staf-dep-csubj.html) – [det](sq_staf-dep-det.html) – [det:adj](sq_staf-dep-det-adj.html) – [det:poss](sq_staf-dep-det-poss.html) – [det:pron](sq_staf-dep-det-pron.html) – [discourse](sq_staf-dep-discourse.html) – [expl](sq_staf-dep-expl.html) – [fixed](sq_staf-dep-fixed.html) – [flat](sq_staf-dep-flat.html) – [iobj](sq_staf-dep-iobj.html) – [mark](sq_staf-dep-mark.html) – [nmod](sq_staf-dep-nmod.html) – [nmod:poss](sq_staf-dep-nmod-poss.html) – [nsubj](sq_staf-dep-nsubj.html) – [nsubj:outer](sq_staf-dep-nsubj-outer.html) – [nsubj:pass](sq_staf-dep-nsubj-pass.html) – [nummod](sq_staf-dep-nummod.html) – [obj](sq_staf-dep-obj.html) – [obl](sq_staf-dep-obl.html) – [obl:agent](sq_staf-dep-obl-agent.html) – [obl:tmod](sq_staf-dep-obl-tmod.html) – [parataxis](sq_staf-dep-parataxis.html) – [punct](sq_staf-dep-punct.html) – [root](sq_staf-dep-root.html) – [xcomp](sq_staf-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -131,7 +131,16 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 </ul>
 
 <ul>
-<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: ishte, është, kishte, ka, jam, kishin, kanë, isha, ishin, janë</li>
+    <li>VERB: di, tha, ka, ndodhesha, bëri, shfaq, bëhet, bën, dinte, dua</li>
+  </ul>
+  </li>
 </ul>
 
 <ul>
@@ -183,12 +192,12 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
   <li>Plur
     <ul>
       <li>ADJ: para, bardha, befta, devotshme, dinjitoze, dridhura, errëta, fshehura, fundit, fëmijësh</li>
-      <li>AUX: kishin, kanë, ishin, janë, jemi, kam, keni, paskëshin</li>
+      <li>AUX-Fin: kishin, kanë, ishin, janë, jemi, kam, keni, paskëshin</li>
       <li>DET: të, e, së</li>
       <li>NOUN: sytë, njerëz, njerëzit, njerëzve, ditë, ditët, përkujdesjet, rrethana, çaste, Bisedimet</li>
       <li>PRON: i, cilët, na, ata, këto, ato, ne, tjerë, tyre, Këta</li>
       <li>PROPN: Vedat</li>
-      <li>VERB: gjejmë, dilnim, gjej, kalonin, prijnë, Dua, Kemi, Mbetemi, Mjafton, binden</li>
+      <li>VERB-Fin: gjejmë, dilnim, gjej, kalonin, prijnë, Dua, Kemi, Mbetemi, Mjafton, binden</li>
     </ul>
   </li>
 </ul>
@@ -198,11 +207,12 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
     <ul>
       <li>ADJ: bardhë, bukur, fundit, parë, sigurt, djathtë, huaj, re, errët, gabuar</li>
       <li>AUX: ishte, është, kishte, ka, jam, isha, jesh, jetë, ketë, kisha</li>
+      <li>AUX-Fin: ishte, është, kishte, ka, jam, isha, jesh, jetë, ketë, kisha</li>
       <li>DET: e, të, i, së</li>
       <li>NOUN: gjenerali, shi, Nëna, fillim, gjendjes, prifti, shtëpia, arsye, babai, borës</li>
       <li>PRON: e, i, më, unë, ai, kjo, tij, ky, ajo, atë</li>
       <li>PROPN: Ernesti, Ernestit, Shqipëri, Linda, Vedati, Berti, Dizit, Ernest, Ervehenë, Hadi</li>
-      <li>VERB: di, tha, ka, ndodhesha, bëri, shfaq, bëhet, bën, dinte, kam</li>
+      <li>VERB-Fin: di, tha, ka, ndodhesha, bëri, shfaq, bëhet, bën, dinte, kam</li>
     </ul>
   </li>
 </ul>
@@ -252,7 +262,7 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
       <li>DET: të, së</li>
       <li>NOUN: borës, gjendjes, vetëdijes, merimangës, njerkës, shoqërisë, Gjumit, Sirenave, aeroportit, armëve</li>
       <li>PRON: sime, asaj, cilës, im, jonë, kujt, kësaj, saj, tij, tjetrit</li>
-      <li>PROPN: Varrit, Dizit, Ernestit, Shqipërisë, Vedatit</li>
+      <li>PROPN: Varrit, Dizit, Ernestit, Margës, Shqipërisë, Vedatit</li>
     </ul>
   </li>
 </ul>
@@ -264,7 +274,7 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
       <li>DET: e, i, të</li>
       <li>NOUN: gjenerali, Nëna, prifti, shtëpia, babai, njeri, shi, vjeshta, dermani, fillimi</li>
       <li>PRON: unë, ai, kjo, ky, ajo, cilët, im, tij, ata, ime</li>
-      <li>PROPN: Ernesti, Linda, Vedati, Ernest, Hadi, Marga, Margës, Parku, Vedat, shtunë</li>
+      <li>PROPN: Ernesti, Linda, Vedati, Ernest, Hadi, Marga, Parku, Vedat, shtunë, xhepi</li>
     </ul>
   </li>
 </ul>
@@ -333,8 +343,8 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: ishte</li>
-      <li>VERB: kushtonte, mbanin, uli</li>
+      <li>AUX-Fin: ishte</li>
+      <li>VERB-Fin: kushtonte, mbanin, uli</li>
     </ul>
   </li>
 </ul>
@@ -346,8 +356,8 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: ishte, është, kishte, ka, jam, kishin, kanë, isha, ishin, janë</li>
-      <li>VERB: di, tha, ka, ndodhesha, bëri, shfaq, bëhet, bën, dinte, dua</li>
+      <li>AUX-Fin: ishte, është, kishte, ka, jam, kishin, kanë, isha, ishin, janë</li>
+      <li>VERB-Fin: di, tha, ka, ndodhesha, bëri, shfaq, bëhet, bën, dinte, dua</li>
     </ul>
   </li>
 </ul>
@@ -355,8 +365,8 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: jesh, jetë, ketë, kesh</li>
-      <li>VERB: gjejmë, bezdisë, dëgjojmë, hajë, hynte, jetë, ketë, krijojë, merrem, mërzis</li>
+      <li>AUX-Fin: jesh, jetë, ketë, kesh</li>
+      <li>VERB-Fin: gjejmë, bezdisë, dëgjojmë, hajë, hynte, jetë, ketë, krijojë, merrem, mërzis</li>
     </ul>
   </li>
 </ul>
@@ -368,8 +378,8 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>Past
     <ul>
-      <li>AUX: ishte, kishte, kishin, isha, ishin, kam, kisha, Duhej, paskej, paskëshin</li>
-      <li>VERB: tha, ndodhesha, bëri, shfaq, dinte, pinte, vinte, buzëqeshte, desha, dija</li>
+      <li>AUX-Fin: ishte, kishte, kishin, isha, ishin, kam, kisha, Duhej, paskej, paskëshin</li>
+      <li>VERB-Fin: tha, ndodhesha, bëri, shfaq, dinte, pinte, vinte, buzëqeshte, desha, dija</li>
     </ul>
   </li>
 </ul>
@@ -377,8 +387,8 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: është, ka, jam, kanë, janë, jesh, jetë, ketë, Duhet, Ishte</li>
-      <li>VERB: di, ka, bëhet, bën, dua, gjejmë, them, besoj, bie, duket</li>
+      <li>AUX-Fin: është, ka, jam, kanë, janë, jesh, jetë, ketë, Duhet, Ishte</li>
+      <li>VERB-Fin: di, ka, bëhet, bën, dua, gjejmë, them, besoj, bie, duket</li>
     </ul>
   </li>
 </ul>
@@ -390,8 +400,8 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>Act
     <ul>
-      <li>AUX: ishte, është, kishte, ka, jam, kishin, kanë, isha, ishin, janë</li>
-      <li>VERB: di, tha, ka, bëri, shfaq, dinte, dua, gjejmë, pinte, them</li>
+      <li>AUX-Fin: ishte, është, kishte, ka, jam, kishin, kanë, isha, ishin, janë</li>
+      <li>VERB-Fin: di, tha, ka, bëri, shfaq, dinte, dua, gjejmë, pinte, them</li>
     </ul>
   </li>
 </ul>
@@ -399,7 +409,7 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>Mid
     <ul>
-      <li>VERB: ndodhesha, bëhet, dukej, kujtua, çuditet, Duket, afrohet, bahet, bë, bëhej</li>
+      <li>VERB-Fin: ndodhesha, bëhet, dukej, kujtua, çuditet, Duket, afrohet, bahet, bë, bëhej</li>
     </ul>
   </li>
 </ul>
@@ -407,7 +417,7 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: damkosen, konsiderohen, mbahen, përfshihen, përjashtohen</li>
+      <li>VERB-Fin: damkosen, konsiderohen, mbahen, përfshihen, përjashtohen</li>
     </ul>
   </li>
 </ul>
@@ -527,9 +537,9 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>1
     <ul>
-      <li>AUX: jam, isha, kam, kisha, Duhej, jemi, ke, keni</li>
+      <li>AUX-Fin: jam, isha, kam, kisha, Duhej, jemi, ke, keni</li>
       <li>PRON: më, unë, im, na, mua, ime, tim, sime, e, ne</li>
-      <li>VERB: ndodhesha, dua, gjejmë, kam, them, desha, dija, dilnim, gjej, hapa</li>
+      <li>VERB-Fin: ndodhesha, dua, gjejmë, kam, them, desha, dija, dilnim, gjej, hapa</li>
     </ul>
   </li>
 </ul>
@@ -537,9 +547,9 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
 <ul>
   <li>2
     <ul>
-      <li>AUX: je</li>
+      <li>AUX-Fin: je</li>
       <li>PRON: ti, e, ty, të, tënd</li>
-      <li>VERB: beso, ndihesh, shmangesh</li>
+      <li>VERB-Fin: beso, ndihesh, shmangesh</li>
     </ul>
   </li>
 </ul>
@@ -548,8 +558,9 @@ Many thanks to Nelda Kote and her group for providing me with their unpublished 
   <li>3
     <ul>
       <li>AUX: ishte, është, kishte, ka, kishin, kanë, ishin, janë, jesh, jetë</li>
+      <li>AUX-Fin: ishte, është, kishte, ka, kishin, kanë, ishin, janë, jesh, jetë</li>
       <li>PRON: e, i, ai, tij, ajo, saj, tyre, ata, të, atij</li>
-      <li>VERB: di, tha, ka, bëri, shfaq, bëhet, bën, dinte, pinte, vinte</li>
+      <li>VERB-Fin: di, tha, ka, bëri, shfaq, bëhet, bën, dinte, pinte, vinte</li>
     </ul>
   </li>
 </ul>
@@ -610,13 +621,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (2)</li>
-      <li>VERB--NOUN-Acc (4)</li>
-      <li>VERB--NOUN-Acc-ADP(në) (1)</li>
-      <li>VERB--NOUN-Nom (78)</li>
-      <li>VERB--PRON (20)</li>
-      <li>VERB--PRON-Acc (1)</li>
-      <li>VERB--PRON-Nom (42)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN-Nom (1)</li>
+      <li>VERB--PRON (4)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Acc (4)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(në) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (77)</li>
+      <li>VERB-Fin--PRON (16)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
+      <li>VERB-Fin--PRON-Nom (42)</li>
       <li>VERB-Part--NOUN-Nom (6)</li>
       <li>VERB-Part--PRON (5)</li>
       <li>VERB-Part--PRON-Nom (8)</li>
@@ -628,16 +642,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (5)</li>
-      <li>VERB--NOUN-Acc (74)</li>
-      <li>VERB--NOUN-Nom (17)</li>
-      <li>VERB--PRON (24)</li>
-      <li>VERB--PRON-Acc (61)</li>
-      <li>VERB--PRON-Dat (1)</li>
-      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB--PRON (3)</li>
+      <li>VERB-Fin--NOUN-Acc (72)</li>
+      <li>VERB-Fin--NOUN-Nom (17)</li>
+      <li>VERB-Fin--PRON (19)</li>
+      <li>VERB-Fin--PRON-Acc (34)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (20)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (2)</li>
-      <li>VERB-Part--PRON-Acc (15)</li>
+      <li>VERB-Part--PRON-Acc (7)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -647,13 +662,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Abl (1)</li>
-      <li>VERB--NOUN-Acc (1)</li>
-      <li>VERB--NOUN-Dat (4)</li>
-      <li>VERB--PRON (6)</li>
-      <li>VERB--PRON-Acc (20)</li>
-      <li>VERB--PRON-Dat (37)</li>
-      <li>VERB--PRON-Nom (3)</li>
+      <li>VERB--PRON (5)</li>
+      <li>VERB-Fin--NOUN-Abl (1)</li>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
+      <li>VERB-Fin--NOUN-Dat (4)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Acc (20)</li>
+      <li>VERB-Fin--PRON-Dat (37)</li>
+      <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
@@ -674,5 +690,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>det:adj</a>, <a>det:poss</a>, <a>det:pron</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

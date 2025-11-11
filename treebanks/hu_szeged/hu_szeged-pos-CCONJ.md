@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>és</em> (<tt><a href="hu_szeged-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.022222 (the average of all parts of speech is 1.503840).
+The form / lemma ratio of `CCONJ` is 1.022222 (the average of all parts of speech is 1.504111).
 
 The 1st highest number of forms (2) was observed with the lemma “nemcsak”: <em>nem, nemcsak</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>és, is, s, de, pedig, azonban, hiszen, hanem, vagy, illetve</em>
 
 `CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (1811; 99% instances), <tt><a href="hu_szeged-dep-flat-name.html">flat:name</a></tt> (13; 1% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (3; 0% instances), <tt><a href="hu_szeged-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (741; 40% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (623; 34% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (195; 11% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (144; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (69; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (35; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (741; 40% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (623; 34% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (195; 11% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (144; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (70; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (36; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 1810 (99%) `CCONJ` nodes are leaves.
 

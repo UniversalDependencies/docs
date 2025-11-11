@@ -9,9 +9,9 @@ udver: '2'
 There are 82 `VERB` lemmas (21%), 141 `VERB` types (24%) and 183 `VERB` tokens (14%).
 Out of 13 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: <em>eläda, tehta, rata, pagišta, el'geta, ajada, abutada, kaita, tahtoida, tulda</em>
+The 10 most frequent `VERB` lemmas: <em>eläda, tehta, rata, pagišta, elʼgeta, ajada, abutada, kaita, tahtoida, tulda</em>
 
-The 10 most frequent `VERB` types:  <em>tehta, eläba, eläda, radoin, ajoin, el'geta, rata, seižub, Išttes, abutab</em>
+The 10 most frequent `VERB` types:  <em>tehta, eläba, eläda, radoin, ajoin, elʼgeta, rata, seižub, Išttes, abutab</em>
 
 The 10 most frequent ambiguous lemmas: <em>olda</em> (<tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 47, <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 3), <em>sada</em> (<tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 1), <em>pidada</em> (<tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 7, <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1)
 
@@ -19,18 +19,18 @@ The 10 most frequent ambiguous types:  <em>Om</em> (<tt><a href="vep_vwt-pos-AUX
 
 
 * <em>Om</em>
-  * <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 1: <em><b>Om</b> sel'ged , miše meiden vepsän mal eläba erazvuiččed rahvahad .</em>
-  * <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1: <em><b>Om</b> Vologdan agjas čoma vepsläine der'oun – Päžar' .</em>
+  * <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 1: <em><b>Om</b> selʼged , miše meiden vepsän mal eläba erazvuiččed rahvahad .</em>
+  * <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1: <em><b>Om</b> Vologdan agjas čoma vepsläine derʼoun – Päžarʼ .</em>
 * <em>oli</em>
   * <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 8: <em>Nece <b>oli</b> puine , kulu škol , kus openzihe kahesa klassad .</em>
   * <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1: <em>I muga <b>oli</b> kaikes rados .</em>
 * <em>pidab</em>
-  * <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 4: <em>Natalja Silakova johtutab ristituile , kut <b>pidab</b> armastada ičeze rahvast , kel't da kodimad .</em>
-  * <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1: <em>Ristitud paksus küzuba , pakičeba meid , no kaikile pidab el'geta , miše ei voi pätta kaik problemad ühtes päiväs , sen täht <b>pidab</b> aigad .</em>
+  * <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 4: <em>Natalja Silakova johtutab ristituile , kut <b>pidab</b> armastada ičeze rahvast , kelʼt da kodimad .</em>
+  * <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1: <em>Ristitud paksus küzuba , pakičeba meid , no kaikile pidab elʼgeta , miše ei voi pätta kaik problemad ühtes päiväs , sen täht <b>pidab</b> aigad .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.719512 (the average of all parts of speech is 1.538660).
+The form / lemma ratio of `VERB` is 1.719512 (the average of all parts of speech is 1.550649).
 
 The 1st highest number of forms (7) was observed with the lemma “eläda”: <em>eliba, elin, eläb, eläba, eläda, eläiži, elämaha</em>.
 
@@ -44,7 +44,7 @@ The 3rd highest number of forms (6) was observed with the lemma “rata”: <em>
 
 `VERB` occurs with 31 feature combinations.
 The most frequent feature combination is `VerbForm=Inf` (50 tokens).
-Examples: <em>tehta, eläda, el'geta, kaita, pagišta, panda, rata, vajehtada, vastatas, abutada</em>
+Examples: <em>tehta, eläda, elʼgeta, kaita, pagišta, panda, rata, vajehtada, vastatas, abutada</em>
 
 
 ## Relations

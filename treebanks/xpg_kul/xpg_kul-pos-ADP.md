@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>με</em> (<tt><a href="xpg_kul-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.857143 (the average of all parts of speech is 2.939024).
+The form / lemma ratio of `ADP` is 2.857143 (the average of all parts of speech is 2.934959).
 
 The 1st highest number of forms (10) was observed with the lemma “ad”: <em>[ατ, [ατ], α, α], α]τ, α̣τ, α̣τ̣, αδ, ας, ατ</em>.
 
@@ -51,7 +51,7 @@ Parents of `ADP` nodes belong to 4 different parts of speech: <tt><a href="xpg_k
 
 The highest child degree of a `ADP` node is 1.
 
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="xpg_kul-dep-case.html">case</a></tt> (1; 100% instances)
+Children of `ADP` nodes are attached using 1 different relations: <tt><a href="xpg_kul-dep-obl.html">obl</a></tt> (1; 100% instances)
 
 Children of `ADP` nodes belong to 1 different parts of speech: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
 

@@ -8,26 +8,23 @@ udver: '2'
 
 This relation is universal.
 
-439 nodes (12%) are attached to their parents as `root`.
+628 nodes (12%) are attached to their parents as `root`.
 
-439 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.98405466970387.
+628 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.94267515923567.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (326; 74% instances), -<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (55; 13% instances), -<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (20; 5% instances), -<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (13; 3% instances), -<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (10; 2% instances), -<tt><a href="arh_chibergis-pos-AUX.html">AUX</a></tt> (9; 2% instances), -<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), -<tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (463; 74% instances), -<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (83; 13% instances), -<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (25; 4% instances), -<tt><a href="arh_chibergis-pos-AUX.html">AUX</a></tt> (17; 3% instances), -<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (15; 2% instances), -<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (10; 2% instances), -<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), -<tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt> (4; 1% instances), -<tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="arh_chibergis-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="arh_chibergis-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 5 root	color:blue
-1	niwi	niwi	PRON	_	Case=Nom	5	nsubj	_	AlignBegin=1670|AlignEnd=2470|GE=[1PL].[EXCL]|Gloss=1PL.EXCL|nWord=1|RX=[PRO]|TokenType=Root
-2	ma'keywa	ma'keywa	NUM	_	_	3	nummod	_	AlignBegin=2470|AlignEnd=3270|GE=four|Gloss=four|nWord=2|RX=[NUM]|TokenType=Root
-3	yuga	yuga	NOUN	_	_	5	obj	_	AlignBegin=3270|AlignEnd=4070|GE=little.brother|Gloss=little.brother|nWord=3|RX=[N]|TokenType=Root
-4	zʉn	zan	PART	_	_	3	advmod:emph	_	AlignBegin=4070|AlignEnd=4870|GE=[COP]|Gloss=COP|nWord=4|RX=[COP]|TokenType=Root
-5	agwaku'	gwak	VERB	_	_	0	root	_	AlignBegin=4870|AlignEnd=5670|GE=[NEG]|Gloss=1PL.SinformNEG|nWord=5|RX=[VERB]|TokenType=InflAff
-6	no	nan	AUX	_	_	5	aux	_	AlignBegin=5670|AlignEnd=6467|GE=[Q]|Gloss=auxQ|nWord=6|RX=[VERB]|TokenType=InflAff
+# visual-style 0 1 root	color:blue
+1	agwasi	gwas	VERB	_	_	0	root	_	AlignBegin=16370|AlignEnd=16890|GE=while|Gloss=1PL.SinformCONV.SIM|nWord=1|RX=[VERB]|TokenType=InflAff
+2	azoya'me'	zoy	AUX	_	_	1	aux	_	AlignBegin=16890|AlignEnd=17410|GE=[CAUSE]|Gloss=1PL.SgoCAUSE|nWord=2|RX=[VERB]|TokenType=InflAff
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=17410|AlignEnd=17930|nWord=3|wordform=,.
 
 ~~~
 
@@ -38,16 +35,16 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 9 root	color:blue
-1	aɉwa	aɉwa	DET	_	_	2	dep	_	AlignBegin=101690|AlignEnd=102144|GE=another|Gloss=another|nWord=1|RX=[DET]|TokenType=Root
-2	ka'gʉmʉ	ka'gʉmʉ	NOUN	_	Case=Abs	4	nsubj	_	AlignBegin=102144|AlignEnd=102371|GE=soil|Gloss=soil|nWord=2|RX=[N]|TokenType=Root
-3	=ri	_	PART	_	_	2	advmod	_	AlignBegin=102371|AlignEnd=102598|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
-4	anisii	anisi	VERB	_	_	9	advcl	_	AlignBegin=102598|AlignEnd=102900|GE=produce|Gloss=produceand|nWord=3|RX=[VT]|TokenType=Root
-5	=ri	_	PART	_	_	4	advmod	_	AlignBegin=102900|AlignEnd=103052|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
-6	ey	ey	PART	_	_	4	advmod	_	AlignBegin=103052|AlignEnd=103506|GE=so|Gloss=so|nWord=4|RX=[PRT]|TokenType=Root
-7	zweykwi	zoy	AUX	_	_	4	aux	_	AlignBegin=103506|AlignEnd=103960|GE=[ABLE]|Gloss=goABLE|nWord=5|RX=[VERB]|TokenType=InflAff
-8	naniza	nan	AUX	_	_	4	aux	_	AlignBegin=103960|AlignEnd=104414|GE=[RESULT]|Gloss=AUXRESULT|nWord=6|RX=[VERB]|TokenType=InflAff
-9	ni	nan	PART	_	_	0	root	_	AlignBegin=104414|AlignEnd=104868|GE=[DECL]|Gloss=DECL|nWord=7|RX=[AUX]|TokenType=Root
-10	.	_	PUNCT	_	_	9	punct	_	AlignBegin=104868|AlignEnd=105323|Gloss=.|nWord=8
+1	zʉ'ʉn	zan	PART	_	_	2	discourse	_	AlignBegin=6970|AlignEnd=7139|GE=[COP]|Gloss=COP|nWord=1|RX=[COP]|TokenType=Root
+2	agwasi	gwas	VERB	_	_	9	advcl	_	AlignBegin=7139|AlignEnd=7308|GE=while|Gloss=1PL.SinformCONV.SIM|nWord=2|RX=[VERB]|TokenType=InflAff
+3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=7308|AlignEnd=7477|nWord=3
+4	(	_	PUNCT	_	_	5	punct	_	AlignBegin=7477|AlignEnd=7646|nWord=4
+5	ah	ah	INTJ	_	_	2	discourse	_	AlignBegin=7646|AlignEnd=7815|GE=[HES]|Gloss=HES|nWord=5|RX=[INTERJ]|TokenType=Root
+6	)	_	PUNCT	_	_	5	punct	_	AlignBegin=7815|AlignEnd=7984|nWord=6
+7	zʉ'ʉn	zan	AUX	_	_	5	reparandum	_	AlignBegin=7984|AlignEnd=8153|GE=[COP]|Gloss=COP|nWord=7|RX=[COP]|TokenType=Root
+8	azoya	zoy	AUX	_	_	2	aux	_	AlignBegin=8153|AlignEnd=8322|GE=go|Gloss=1PL.Sgo|nWord=8|RX=[V]|TokenType=Root
+9	ni	nan	PART	_	_	0	root	_	AlignBegin=8322|AlignEnd=8491|GE=[DECL]|Gloss=DECL|nWord=9|RX=[AUX]|TokenType=Root
+10	.	_	PUNCT	_	_	9	punct	_	AlignBegin=8491|AlignEnd=8660|Gloss=.|nWord=10
 
 ~~~
 
@@ -58,9 +55,14 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	a'nʉ	a'nʉ	NOUN	_	_	0	root	_	AlignBegin=120304|AlignEnd=120520|GE=stone|Gloss=stone|nWord=1|RX=[N]|TokenType=Root
-2	nikwana	nik	AUX	_	_	1	cop	_	AlignBegin=120520|AlignEnd=120736|GE=[RMTPST]|Gloss=be.inARMTPST|nWord=2|RX=[VERB]|TokenType=InflAff
-3	,	,	PUNCT	_	_	1	punct	_	AlignBegin=120736|AlignEnd=120953|nWord=3
+1	ka'gummʉ	ka'gummʉ	NOUN	_	_	0	root	_	AlignBegin=44337|AlignEnd=44534|GE=earth|Gloss=earth|nWord=1|RX=[N]|TokenType=Root
+2	=ri	_	PART	_	_	1	advmod	_	AlignBegin=44534|AlignEnd=44731|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit
+3	eri	eri	INTJ	_	_	1	discourse	_	AlignBegin=44731|AlignEnd=45125|GE=eh|Gloss=eh|nWord=2|RX=[INTERJ]|TokenType=Root
+4	zanu'	zan	AUX	_	_	1	cop	_	AlignBegin=45125|AlignEnd=45519|GE=[NEG]|Gloss=COPNEG|nWord=3|RX=[VERB]|TokenType=InflAff
+5	nʉnna	nan	AUX	_	_	1	aux	_	AlignBegin=45519|AlignEnd=45913|GE=[RMTPST]|Gloss=copRMTPST|nWord=4|RX=[VERB]|TokenType=InflAff
+6	,	_	PUNCT	_	_	1	punct	_	AlignBegin=45913|AlignEnd=46307|nWord=5
+7	nʉnno	nan	AUX	_	_	1	discourse	_	AlignBegin=46307|AlignEnd=46701|GE=[Q]|Gloss=copQ|nWord=6|RX=[VERB]|TokenType=InflAff
+8	?.	_	PUNCT	_	_	7	punct	_	AlignBegin=46701|AlignEnd=47097|nWord=7
 
 ~~~
 

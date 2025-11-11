@@ -27,12 +27,12 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	recommend	recommend	VERB	VBN	Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	0	root	0:root	CorrectForm=recommended|MSeg=re-commend|XML=<sic ana:::"recommended"></sic>
 4	that	that	SCONJ	IN	_	6	mark	6:mark	_
-5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(18-event-acc:com-n____-cf3-2-coref(5-person-giv:inact-n____-cf2-1-ana)
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(18-event-acc:com-nnnnn-cf3-2-coref(5-person-giv:inact-snnnn-cf2-1-ana)
 6	use	use	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	csubj:pass	3:csubj:pass	_
-7	short	short	ADJ	JJ	Degree=Pos	8	amod	8:amod	Entity=(19-abstract-new-snsns-cf1-2-coref
+7	short	short	ADJ	JJ	Degree=Pos	8	amod	8:amod	Entity=(19-abstract-new-snnnn-cf1-2-coref
 8	words	word	NOUN	NNS	Number=Plur	6	obj	6:obj	Entity=19)18)|MSeg=word-s
-9	since	since	SCONJ	IN	_	13	mark	13:mark	Discourse=explanation-justify:11->10:0:dm-since-93|PDTB=Explicit:Contingency.Cause.Reason:since:93:85-92:94-98
-10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	13:nsubj:pass	Entity=(19-abstract-giv:act-snsns-cf1-1-ana)
+9	since	since	SCONJ	IN	_	13	mark	13:mark	Discourse=explanation-justify:11->10:0:dm-since-93-_|PDTB=Explicit:Contingency.Cause.Reason:since:93:85-92:94-98
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	13:nsubj:pass	Entity=(19-abstract-giv:act-snnnn-cf1-1-ana)
 11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	_
 12	commonly	commonly	ADV	RB	Degree=Pos	13	advmod	13:advmod	MSeg=common-ly
 13	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	3:advcl:since	MSeg=us-ed|SpaceAfter=No
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 15 csubj:pass	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Discourse=elaboration-additional:88->85:1:ref-prs-688,699+grf-prn-713,719|Entity=(111-abstract-new-nnnnn-cf3-1-cata)|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:in fact:_:670-693:694-731
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Discourse=elaboration-additional:88->85:1:ref-prs-688,699-_+grf-prn-713,719-_|Entity=(111-abstract-new-nnnnn-cf3-1-cata)|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:in fact:_:670-693:694-731
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	MSeg=ha-s
 3	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux:pass	4:aux:pass	_
 4	speculated	speculate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=speculat-ed
@@ -66,7 +66,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 17	at	at	ADP	IN	_	19	case	19:case	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	Entity=(112-time-acc:com-nnnnn-cf5-2-sgl
 19	time	time	NOUN	NN	Number=Sing	15	nmod	15:nmod:at	Entity=112)111)
-20	(	(	PUNCT	-LRB-	_	23	punct	23:punct	Discourse=context-background:89->88:0:ref-prs-703-705,714|SpaceAfter=No
+20	(	(	PUNCT	-LRB-	_	23	punct	23:punct	Discourse=context-background:89->88:0:ref-prs-703-705,714-_|SpaceAfter=No
 21	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	Entity=(66-person-giv:act-nnnnn-cf2-1-ana)
 22	ultimately	ultimately	ADV	RB	Degree=Pos	23	advmod	23:advmod	MSeg=ultimate-ly
 23	married	marry	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	parataxis	15:parataxis	MSeg=marri-ed
@@ -74,14 +74,14 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 25	else	else	ADV	RB	Degree=Pos	24	advmod	24:advmod	Entity=113)|SpaceAfter=No
 26	)	)	PUNCT	-RRB-	_	23	punct	23:punct	SpaceAfter=No
 27	,	,	PUNCT	,	_	34	punct	34:punct	_
-28	but	but	CCONJ	CC	_	34	cc	34:cc	Discourse=adversative-contrast_m:90->88:1:dm-but-721|PDTB=Explicit:Comparison.Contrast:but:721:694-720:722-731
+28	but	but	CCONJ	CC	_	34	cc	34:cc	Discourse=adversative-contrast_m:90->88:1:dm-but-721-_|PDTB=Explicit:Comparison.Contrast:but:721:694-720:722-731
 29	no	no	DET	DT	PronType=Neg	31	det	31:det	Negation=Yes
 30	clear	clear	ADJ	JJ	Degree=Pos	31	amod	31:amod	Entity=(114-abstract-new-nnnnn-cf6-2-sgl
 31	evidence	evidence	NOUN	NN	Number=Sing	34	nsubj:pass	34:nsubj:pass	Entity=114)|MSeg=evid-ence
 32	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux	34:aux	MSeg=ha-s
 33	been	be	AUX	VBN	Tense=Past|VerbForm=Part	34	aux:pass	34:aux:pass	_
 34	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	4:conj:but	_
-35	supporting	support	VERB	VBG	VerbForm=Ger	31	acl	31:acl	Discourse=elaboration-attribute:91->90:0:syn-mdf-724+syn-nmn-728|MSeg=support-ing
+35	supporting	support	VERB	VBG	VerbForm=Ger	31	acl	31:acl	Discourse=elaboration-attribute:91->90:0:syn-mdf-724-_+syn-nmn-728-_|MSeg=support-ing
 36	this	this	DET	DT	Number=Sing|PronType=Dem	37	det	37:det	Entity=(111-abstract-giv:act-nnnnn-cf3-2-coref
 37	conjecture	conjecture	NOUN	NN	Number=Sing	35	obj	35:obj	Entity=111)|SpaceAfter=No
 38	.	.	PUNCT	.	_	4	punct	4:punct	_
@@ -117,7 +117,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 20	of	of	ADP	IN	_	21	case	21:case	_
 21	SSS	SSS	NOUN	NN	Number=Sing	19	nmod	19:nmod:of	Entity=(39-abstract-giv:act-sssss-cf3-1-coref)48)88)|SpaceAfter=No|XML=<hi rend:::"italic"></hi>
 22	,	,	PUNCT	,	_	27	punct	27:punct	_
-23	since	since	SCONJ	IN	_	27	mark	27:mark	Discourse=explanation-justify:44->43:0:dm-since-397|PDTB=Explicit:Contingency.Cause.Reason:since:397:375-396:398-418
+23	since	since	SCONJ	IN	_	27	mark	27:mark	Discourse=explanation-justify:44->43:0:dm-since-397-_|PDTB=Explicit:Contingency.Cause.Reason:since:397:375-396:398-418
 24	these	this	DET	DT	Number=Plur|PronType=Dem	25	det	25:det	Entity=(90-abstract-giv:act-nnssn-cf1-2-coref
 25	effects	effect	NOUN	NNS	Number=Plur	27	nsubj	27:nsubj|37:nsubj	Entity=90)|MSeg=effect-s
 26	could	could	AUX	MD	VerbForm=Fin	27	aux	27:aux|37:aux	_
@@ -130,7 +130,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 33	measured	measure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	35	amod	35:amod	MSeg=measur-ed|XML=</w>
 34	brightness	brightness	NOUN	NN	Number=Sing	35	compound	35:compound	Entity=(75-abstract-giv:inact-nnnnn-cf7-1-coref)|MSeg=bright-ness
 35	temperature	temperature	NOUN	NN	Number=Sing	29	nmod	29:nmod:of	Entity=92)91)|MSeg=temperat-ure
-36	and	and	CCONJ	CC	_	37	cc	37:cc	Discourse=joint-list_m:45->44:0:sem-lxchn-403,412+dm-and-410|PDTB=Explicit:Expansion.Conjunction:and:410:397-409:411-418
+36	and	and	CCONJ	CC	_	37	cc	37:cc	Discourse=joint-list_m:45->44:0:sem-lxchn-403,412-_+dm-and-410-_|PDTB=Explicit:Expansion.Conjunction:and:410:397-409:411-418
 37	introduce	introduce	VERB	VB	VerbForm=Inf	27	conj	4:advcl:since|27:conj:and	_
 38	errors	error	NOUN	NNS	Number=Plur	37	obj	37:obj	Entity=(94-abstract-new-nnnnn-cf11-1-sgl)|MSeg=err-or-s
 39	into	into	ADP	IN	_	43	case	43:case	MSeg=in-to

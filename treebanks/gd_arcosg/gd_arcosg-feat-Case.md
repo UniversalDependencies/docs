@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Dat`, `Gen`, `Nom`, `Voc`.
 
-17844 tokens (20%) have a non-empty value of `Case`.
+17912 tokens (20%) have a non-empty value of `Case`.
 4618 types (61%) occur at least once with a non-empty value of `Case`.
-3267 lemmas (59%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13391; 15% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1721; 2% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1445; 2% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1282; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+3257 lemmas (59%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (13391; 15% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1721; 2% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1445; 2% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1350; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -83,14 +83,14 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-1282 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (19% of all `DET` tokens) have a non-empty value of `Case`.
+1350 <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> tokens (20% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1282; 100%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1282; 100%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1280; 100%), <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1234; 96%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1002; 78%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (714; 56%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="gd_arcosg-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1350; 100%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1350; 100%), <tt><a href="gd_arcosg-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1350; 100%), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1350; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1066; 79%), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (766; 57%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Gen` (1282; 100% of non-empty `Case`): <em>na, an, a’, nan, a', nam, am, a</em>
-* `EMPTY` (5345): <em>an, na, a’, a, am, a', sin, seo, 'n, h-uile</em>
+* `Gen` (1350; 100% of non-empty `Case`): <em>na, an, a’, nan, a', nam, am, a</em>
+* `EMPTY` (5277): <em>an, na, a’, a, am, a', sin, seo, 'n, h-uile</em>
 
 ### `PART`
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 `PART` tokens may have the following values of `Case`:
 
 * `Gen` (4; 100% of non-empty `Case`): <em>'ic, Mac, Mhic</em>
-* `EMPTY` (8797): <em>a, a', gu, ag, cha, nach, air, gun, chan, an</em>
+* `EMPTY` (8794): <em>a, a', gu, ag, cha, nach, air, gun, chan, an</em>
 
 ### `NUM`
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1274; 66%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (433; 74%),
-<tt>PROPN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (215; 56%),
+<tt>PROPN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (282; 73%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (66; 72%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (53; 78%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (46; 53%),

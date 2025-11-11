@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="af_afribooms-po
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.120600).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.120578).
 
 The 1st highest number of forms (1) was observed with the lemma “nie”: <em>nie</em>.
 
@@ -47,7 +47,7 @@ Examples: <em>te</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 4 different relations: <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (1040; 73% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (206; 14% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (178; 12% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (7; 0% instances)
+`PART` nodes are attached to their parents using 4 different relations: <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (1039; 73% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (206; 14% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (179; 13% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (7; 0% instances)
 
 Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1159; 81% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (177; 12% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (45; 3% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (21; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (9; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

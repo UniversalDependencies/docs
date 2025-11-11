@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `expl`.
+14 nodes (0%) are attached to their parents as `expl`.
 
-8 instances of `expl` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07692307692308.
+9 instances of `expl` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07142857142857.
 
-The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="el_cretan-pos-VERB.html">VERB</a></tt>-<tt><a href="el_cretan-pos-PRON.html">PRON</a></tt> (11; 85% instances), <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_cretan-pos-PRON.html">PRON</a></tt> (2; 15% instances).
+The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="el_cretan-pos-VERB.html">VERB</a></tt>-<tt><a href="el_cretan-pos-PRON.html">PRON</a></tt> (12; 86% instances), <tt><a href="el_cretan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_cretan-pos-PRON.html">PRON</a></tt> (2; 14% instances).
 
 
 ~~~ conllu

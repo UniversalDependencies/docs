@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
 132 tokens (4%) have a non-empty value of `Polarity`.
-62 types (5%) occur at least once with a non-empty value of `Polarity`.
+61 types (5%) occur at least once with a non-empty value of `Polarity`.
 44 lemmas (5%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 9 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (62; 2% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (32; 1% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (21; 1% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
@@ -18,12 +18,12 @@ The feature is used with 9 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB
 
 62 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (48; 77%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (48; 77%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (45; 73%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (39; 63%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (48; 77%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (48; 77%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (45; 73%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (42; 68%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (62; 100% of non-empty `Polarity`): <em>phabtama, thaima, thema, themate, lama, rema, thaithema, muma, nungaima, re</em>
-* `EMPTY` (573): <em>la, the, rung, yoan, chari, mu, dhohnte, nue, reha, thai</em>
+* `Neg` (62; 100% of non-empty `Polarity`): <em>phabtama, thaima, thema, themate, lama, thaithema, muma, rema, rungma, Kajahnma</em>
+* `EMPTY` (572): <em>la, the, rung, yoan, chari, mu, dhohnte, nue, reha, thai</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (32) occur only with one value of `Polarity`.
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>prye, rema, chaszuma</em>
-* `EMPTY` (186): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
+* `EMPTY` (188): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
 
 ### `ADJ`
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>miszuma</em>
-* `EMPTY` (668): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
+* `EMPTY` (669): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
 
 ### `NUM`
 

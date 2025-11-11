@@ -25,10 +25,10 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 1	Itu	itu	PRON	_	PronType=Dem	0	root	_	_
 2	lah	lah	PART	_	_	1	advmod:emph	_	_
 3	yang	yang	PRON	_	PronType=Rel	4	nsubj	_	_
-4	membuat	buat	VERB	_	Mood=Ind|Voice=Act	1	csubj	_	_
+4	membuat	buat	VERB	_	Voice=Act	1	csubj	_	_
 5	kami	kami	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	4	obj	_	_
 6	tetap	tetap	ADV	_	_	7	advmod	_	_
-7	kembali	kembali	VERB	_	Mood=Ind|Voice=Act	4	xcomp	_	_
+7	kembali	kembali	VERB	_	Voice=Act	4	xcomp	_	_
 8	lagi	lagi	ADV	_	_	7	advmod	_	_
 9	dan	dan	CCONJ	_	_	10	cc	_	_
 10	lagi	lagi	ADV	_	_	8	conj	_	SpaceAfter=No
@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advmod:emph	color:blue
-1	Katakan	kata	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+1	Katakan	kata	VERB	_	Voice=Act	0	root	_	_
 2	lah	lah	PART	_	_	1	advmod:emph	_	_
 3	dia	dia	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	salah	salah	ADJ	_	_	1	ccomp	_	SpaceAfter=No

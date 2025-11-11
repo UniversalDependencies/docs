@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="frm_profiterole-dep-aux.html">aux</a></tt>.
 
-450 nodes (1%) are attached to their parents as `aux:pass`.
+574 nodes (1%) are attached to their parents as `aux:pass`.
 
-441 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48444444444444.
+564 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47735191637631.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (448; 100% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (571; 99% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (3; 1% instances).
 
 
 ~~~ conllu

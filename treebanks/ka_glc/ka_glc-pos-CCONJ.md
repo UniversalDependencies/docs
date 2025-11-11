@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>და, ან, ხოლო, მაგ
 
 The 10 most frequent `CCONJ` types:  <em>და, ან, ხოლო, მაგრამ, ანუ, თუ, არამედ, ანდა, თუნდაც, რამეთუ</em>
 
-The 10 most frequent ambiguous lemmas: <em>ხოლო</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>თუ</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 49, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 44), <em>რა</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 43, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ka_glc-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ხოლო</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>თუ</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 49, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 44), <em>რა</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 45, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ka_glc-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ხოლო</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>თუ</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 49, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 44), <em>რასაც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 2)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ხოლო</em> (<tt><a href="ka_gl
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.677821).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.674782).
 
 The 1st highest number of forms (1) was observed with the lemma “ან”: <em>ან</em>.
 
@@ -45,7 +45,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ანუ”:
 
 `CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ka_glc-dep-cc.html">cc</a></tt> (2726; 100% instances), <tt><a href="ka_glc-dep-mark.html">mark</a></tt> (3; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1630; 60% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (415; 15% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (359; 13% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (168; 6% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (71; 3% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (36; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (29; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1630; 60% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (407; 15% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (367; 13% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (170; 6% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (70; 3% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (35; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (29; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3; 0% instances)
 
 2707 (99%) `CCONJ` nodes are leaves.
 

@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>phlee</em> (<tt><a href="nmf_suansu-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.024390 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `ADJ` is 1.024390 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (2) was observed with the lemma “criminal”: <em>criminal, criminalnahn</em>.
 

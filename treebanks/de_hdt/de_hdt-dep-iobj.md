@@ -8,61 +8,59 @@ udver: '2'
 
 This relation is universal.
 
-6087 nodes (0%) are attached to their parents as `iobj`.
+110 nodes (0%) are attached to their parents as `iobj`.
 
-4208 instances of `iobj` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.44668966650238.
+60 instances of `iobj` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.93636363636364.
 
-The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (3492; 57% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1937; 32% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (574; 9% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (55; 1% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (75; 68% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (16; 15% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (16; 15% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 iobj	color:blue
-1	Telekom	Telekom	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nsubj	_	_
-2	berechnet	berechnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	1&1-Kunden	Kunde	NOUN	NN	Case=Dat|Number=Plur|Person=3	2	iobj	_	_
-4	zuviel	zuviel	X	FM	Foreign=Yes|Person=3	2	obj	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 iobj	color:blue
+1	Kostet	kosten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause
+2	Spam	Spam	PROPN	NE	_	1	nsubj	_	_
+3	Firmen	Firma	NOUN	NN	Gender=Fem|Number=Plur	1	iobj	_	_
+4	Milliarden	Milliarde	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
+5	?	?	PUNCT	$.	PunctType=Peri	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 iobj	color:blue
-1	Gleiches	gleich	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	obj	_	_
-2	melden	melden	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	uns	uns	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	_
-4	Leser	Leser	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	2	nsubj	_	_
-5	aus	aus	ADP	APPR	AdpType=Prep|Case=Dat	8	case	_	_
-6	dem	dem	DET	ART	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
-7	ganzen	ganz	ADJ	ADJA	Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
-8	Bundesgebiet	Gebiet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	nmod	_	_
-9	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 iobj	color:blue
+1	Aber	aber	CCONJ	KON	_	5	cc	_	_
+2	halt	halt	ADV	ADV	_	5	advmod	_	_
+3	,	,	PUNCT	$,	PunctType=Comm	2	punct	_	_
+4	was	was	PRON	PWS	Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel	5	obj	_	CxnElt=5:Interrogative-WHInfo-Direct.WHWord
+5	lehrt	lehren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Cxn=Interrogative-WHInfo-Direct|CxnElt=5:Interrogative-WHInfo-Direct.Clause
+6	uns	wir	PRON	PPER	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	iobj	_	_
+7	Henri	Henri	PROPN	NE	Gender=Masc|Number=Sing	5	nsubj	_	_
+8	Breuil	Breuil	PROPN	NE	_	7	flat:name	_	_
+9	?	?	PUNCT	$.	PunctType=Peri	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 iobj	color:blue
-1	Cracker	Cracker	NOUN	NN	Gender=Masc|Number=Plur|Person=3	2	nsubj	_	_
-2	erklären	erklären	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	China	China	PROPN	NE	Number=Sing|Person=3	2	iobj	_	_
-4	und	und	CCONJ	KON	_	6	cc	_	_
-5	dem	dem	DET	ART	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	Irak	Irak	PROPN	NE	Gender=Masc|Number=Sing|Person=3	3	conj	_	_
-7	den	den	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	Cyberkrieg	Krieg	NOUN	NN	Gender=Masc|Number=Sing|Person=3	2	obj	_	_
+# visual-style 3 4 iobj	color:blue
+1	Gefälschte	fälschen	ADJ	ADJA	Degree=Pos|Number=Plur	2	amod	_	_
+2	Telefonkarten	Telefonkarte	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	kosten	kosten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Telekom	Telekom	PROPN	NE	Gender=Fem|Number=Sing	3	iobj	_	_
+5	Millionen	Million	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 
 ~~~
 

@@ -23,13 +23,13 @@ The following 29 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 obl:arg	color:blue
-1	гласомь	гласъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	0	root	_	ref=76.2
-2	моімь	мои	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	ref=76.2
-3	къ	къ	ADP	R-	_	4	case	_	ref=76.2
-4	б҃оу	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	orphan	_	ref=76.2
-5	і	и	CCONJ	C-	_	6	cc	_	ref=76.2
-6	вънѩтъ	вънѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=76.2
-7	мі	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obl:arg	_	ref=76.2
+1	гласомь	гласъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	0	root	_	Ref=76.2
+2	моімь	мои	DET	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=76.2
+3	къ	къ	ADP	R-	_	4	case	_	Ref=76.2
+4	б҃оу	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	orphan	_	Ref=76.2
+5	і	и	CCONJ	C-	_	6	cc	_	Ref=76.2
+6	вънѩтъ	вънѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Ref=76.2
+7	мі	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obl:arg	_	Ref=76.2
 
 ~~~
 
@@ -40,12 +40,12 @@ The following 29 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 obl:arg	color:blue
-1	Въ	въ	ADP	R-	_	2	case	_	ref=76.3
-2	день	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=76.3
-3	печали	печаль	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	ref=76.3
-4	моеѩ	мои	DET	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	3	det	_	ref=76.3
-5	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl:arg	_	ref=76.3
-6	възіскахъ	възискати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=76.3
+1	Въ	въ	ADP	R-	_	2	case	_	Ref=76.3
+2	день	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	Ref=76.3
+3	печали	печаль	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	Ref=76.3
+4	моеѩ	мои	DET	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	3	det	_	Ref=76.3
+5	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl:arg	_	Ref=76.3
+6	възіскахъ	възискати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=76.3
 
 ~~~
 
@@ -56,16 +56,16 @@ The following 29 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 obl:arg	color:blue
-1	И	и	CCONJ	C-	_	2	cc	_	ref=104.10
-2	поставі	поставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=104.10
-3	иѣковоу	иꙗковъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl:arg	_	ref=104.10
-4	повелѣнье	повелѣниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	ref=104.10
-5	Ї	и	CCONJ	C-	_	6	cc	_	ref=104.10
-6	ил҃ю	издраиль	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	ref=104.10
-7	въ	въ	ADP	R-	_	8	case	_	ref=104.10
-8	завѣтъ	завѣтъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	orphan	_	ref=104.10
-9	вѣченъ	вѣчьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	_	ref=104.10
-10	Гл҃ѩ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	2	advcl	_	ref=104.11
+1	И	и	CCONJ	C-	_	2	cc	_	Ref=104.10
+2	поставі	поставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=104.10
+3	иѣковоу	иꙗковъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl:arg	_	Ref=104.10
+4	повелѣнье	повелѣниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Ref=104.10
+5	Ї	и	CCONJ	C-	_	6	cc	_	Ref=104.10
+6	ил҃ю	издраиль	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	Ref=104.10
+7	въ	въ	ADP	R-	_	8	case	_	Ref=104.10
+8	завѣтъ	завѣтъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	orphan	_	Ref=104.10
+9	вѣченъ	вѣчьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	_	Ref=104.10
+10	Гл҃ѩ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	2	advcl	_	Ref=104.11
 
 ~~~
 

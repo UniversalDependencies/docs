@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Icelandic-IcePaHC: POS Tags: `SCONJ`
 
-There are 30 `SCONJ` lemmas (0%), 52 `SCONJ` types (0%) and 41890 `SCONJ` tokens (4%).
+There are 30 `SCONJ` lemmas (0%), 52 `SCONJ` types (0%) and 41891 `SCONJ` tokens (4%).
 Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
@@ -83,7 +83,7 @@ The 10 most frequent ambiguous types:  <em>að</em> (<tt><a href="is_icepahc-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.733333 (the average of all parts of speech is 1.857072).
+The form / lemma ratio of `SCONJ` is 1.733333 (the average of all parts of speech is 1.858163).
 
 The 1st highest number of forms (15) was observed with the lemma “hver”: <em>hver, hverja, hverjar, hverjir, hverju, hverjum, hvern, hvers, hvert, hvör, hvörja, hvörju, hvörjum, hvörn, hvörri</em>.
 
@@ -96,17 +96,17 @@ The 3rd highest number of forms (3) was observed with the lemma “að”: <em>a
 `SCONJ` occurs with 25 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Ind`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
 
 `SCONJ` occurs with 45 feature combinations.
-The most frequent feature combination is `_` (41679 tokens).
+The most frequent feature combination is `_` (41680 tokens).
 Examples: <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="is_icepahc-dep-mark.html">mark</a></tt> (40977; 98% instances), <tt><a href="is_icepahc-dep-fixed.html">fixed</a></tt> (708; 2% instances), <tt><a href="is_icepahc-dep-ccomp.html">ccomp</a></tt> (38; 0% instances), <tt><a href="is_icepahc-dep-xcomp.html">xcomp</a></tt> (37; 0% instances), <tt><a href="is_icepahc-dep-obl.html">obl</a></tt> (32; 0% instances), <tt><a href="is_icepahc-dep-obj.html">obj</a></tt> (26; 0% instances), <tt><a href="is_icepahc-dep-advcl.html">advcl</a></tt> (25; 0% instances), <tt><a href="is_icepahc-dep-acl-relcl.html">acl:relcl</a></tt> (17; 0% instances), <tt><a href="is_icepahc-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="is_icepahc-dep-acl.html">acl</a></tt> (5; 0% instances), <tt><a href="is_icepahc-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="is_icepahc-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="is_icepahc-dep-root.html">root</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="is_icepahc-dep-mark.html">mark</a></tt> (40978; 98% instances), <tt><a href="is_icepahc-dep-fixed.html">fixed</a></tt> (708; 2% instances), <tt><a href="is_icepahc-dep-ccomp.html">ccomp</a></tt> (38; 0% instances), <tt><a href="is_icepahc-dep-xcomp.html">xcomp</a></tt> (37; 0% instances), <tt><a href="is_icepahc-dep-obl.html">obl</a></tt> (32; 0% instances), <tt><a href="is_icepahc-dep-obj.html">obj</a></tt> (26; 0% instances), <tt><a href="is_icepahc-dep-advcl.html">advcl</a></tt> (25; 0% instances), <tt><a href="is_icepahc-dep-acl-relcl.html">acl:relcl</a></tt> (17; 0% instances), <tt><a href="is_icepahc-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="is_icepahc-dep-acl.html">acl</a></tt> (5; 0% instances), <tt><a href="is_icepahc-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="is_icepahc-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="is_icepahc-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="is_icepahc-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (30174; 72% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (3062; 7% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (2212; 5% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (1984; 5% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1584; 4% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (1401; 3% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (495; 1% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (448; 1% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (205; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (190; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (69; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (32; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances),  (1; 0% instances)
+Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (30174; 72% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (3062; 7% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (2213; 5% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (1983; 5% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1584; 4% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (1401; 3% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (495; 1% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (449; 1% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (205; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (190; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (69; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (32; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances),  (1; 0% instances)
 
-41498 (99%) `SCONJ` nodes are leaves.
+41499 (99%) `SCONJ` nodes are leaves.
 
 334 (1%) `SCONJ` nodes have one child.
 

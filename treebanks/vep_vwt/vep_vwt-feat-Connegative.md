@@ -32,5 +32,5 @@ The most frequent other feature values with which `VERB` and `Connegative` co-oc
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (6; 100% of non-empty `Connegative`): <em>ajelkoiš, azotade, koskend, kül'mäiži, navedind, tekoi</em>
+* `Yes` (6; 100% of non-empty `Connegative`): <em>ajelkoiš, azotade, koskend, külʼmäiži, navedind, tekoi</em>
 

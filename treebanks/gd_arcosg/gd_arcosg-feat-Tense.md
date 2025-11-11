@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
 9626 tokens (11%) have a non-empty value of `Tense`.
 627 types (8%) occur at least once with a non-empty value of `Tense`.
-275 lemmas (5%) occur at least once with a non-empty value of `Tense`.
+274 lemmas (5%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 3 part-of-speech tags: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (8056; 9% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (1349; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (221; 0% instances).
 
 ### `VERB`
@@ -39,28 +39,28 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 1349 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1148; 85%), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1087; 81%), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1048; 78%), <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (815; 60%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1348; 100%), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1287; 95%), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1048; 78%), <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (815; 60%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (47; 3% of non-empty `Tense`): <em>thèid, tèid, théid</em>
-* `Past` (398; 30% of non-empty `Tense`): <em>b', bu, chaidh, deach, b’</em>
+* `Past` (398; 30% of non-empty `Tense`): <em>b', chaidh, bu, deach, b’</em>
 * `Pres` (904; 67% of non-empty `Tense`): <em>'s, is, gur, as, chan, nach, an, cha, ‘s, gun</em>
 * `EMPTY` (9): <em>rachadh, 's, Is</em>
 
 <table>
   <tr><th>Paradigm <i>is</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>'s, is, ‘s, s, ’s, nach, as</em></td><td><em>b', bu, b’</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt></tt></td><td><em>is, 's, ‘s</em></td><td><em>b', b’</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Aff</tt></tt></td><td><em>gur, gun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>chan, nach</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>is, 's, ‘s</em></td><td><em>b', b’</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Int</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Aff</tt></tt></td><td><em>an</em></td><td></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Int</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>nach</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Aff</tt></tt></td><td><em>gur, gun</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>chan, nach</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Aff</tt></tt></td><td><em>gur, gun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>chan, cha, nach</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>as, is, 's</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>'s, is, ‘s, s, ’s, nach, as</em></td><td><em>b', bu, b’</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Int</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Aff</tt></tt></td><td><em>an</em></td><td></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Int</tt>|<tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>nach</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Aff</tt></tt></td><td><em>gur, gun</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>chan, cha, nach</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>as, is, 's</em></td><td></td></tr>
 </table>
 
 ### `PART`
@@ -73,7 +73,7 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 
 * `Past` (220; 100% of non-empty `Tense`): <em>do, d’, d', b'</em>
 * `Pres` (1; 0% of non-empty `Tense`): <em>cha</em>
-* `EMPTY` (8580): <em>a, a', gu, ag, cha, nach, air, gun, chan, an</em>
+* `EMPTY` (8577): <em>a, a', gu, ag, cha, nach, air, gun, chan, an</em>
 
 ## Relations with Agreement in `Tense`
 

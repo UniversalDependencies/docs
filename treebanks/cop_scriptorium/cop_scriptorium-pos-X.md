@@ -13,9 +13,9 @@ The 10 most frequent `X` lemmas: ⲙⲟⲛⲟⲛ, unknown, .., ....., [...], ...
 
 The 10 most frequent `X` types:  ⲙⲟⲛⲟⲛ, .., ....., [...], ...., [..], ......, ........., .........., .....ⲟ...
 
-The 10 most frequent ambiguous lemmas: ⲙⲟⲛⲟⲛ (<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 7, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1), ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 1147, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 392, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲡⲓⲥⲧⲟⲗⲏ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ⲙⲟⲛⲟⲛ (<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 7, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1), ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 1148, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 393, <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲡⲓⲥⲧⲟⲗⲏ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ⲙⲟⲛⲟⲛ (<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 7, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1), ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 840, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 787, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 635, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 50, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲡⲓⲥⲧⲟⲗⲏ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲩⲉ (<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 34, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲧⲟⲩ (<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 20, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  ⲙⲟⲛⲟⲛ (<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 7, <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> 1), ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉ (<tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 838, <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 788, <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 636, <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 50, <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲡⲓⲥⲧⲟⲗⲏ (<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲉⲩⲉ (<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 34, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1), ⲧⲟⲩ (<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> 20, <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1)
 
 
 * ⲙⲟⲛⲟⲛ
@@ -25,9 +25,9 @@ The 10 most frequent ambiguous types:  ⲙⲟⲛⲟⲛ (<tt><a href="cop_scripto
   * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1: ⲡⲣⲟⲕⲗⲟⲥ ⲡ <b>ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ</b> · — — — — — — — —
   * <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1: ⲁⲑⲁⲛⲁⲥⲓⲟⲥ <b>ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ</b> · — ◈ — ◈ — ◈ — ◈ — ◈
 * ⲉ
-  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 840: <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ϩⲉⲛ ϩⲏⲃⲥ <b>ⲉ</b> ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
-  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 787: ⲉ ⲩ ⲧⲛⲧⲱⲛ <b>ⲉ</b> ϩⲉⲛ ϩⲏⲃⲥ ⲉ ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
-  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 635: ⲁⲩⲱ <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ⲡ ⲟⲩⲟⲉⲓⲛ ⲙ ⲡⲉ ϩⲟⲟⲩ ·
+  * <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> 838: <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ϩⲉⲛ ϩⲏⲃⲥ <b>ⲉ</b> ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
+  * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 788: ⲉ ⲩ ⲧⲛⲧⲱⲛ <b>ⲉ</b> ϩⲉⲛ ϩⲏⲃⲥ ⲉ ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
+  * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 636: ⲁⲩⲱ <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ⲡ ⲟⲩⲟⲉⲓⲛ ⲙ ⲡⲉ ϩⲟⲟⲩ ·
   * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 50: ⲉⲛⲉ ⲙⲡⲉ ⲡⲟⲩ ϩⲏⲧ ⲧⲁⲕⲟ . ⲛⲉⲣ ⲁ ⲥⲱϣ ⲡ ⲙⲁ ⲁⲛ ⲉⲧ <b>ⲉ</b> ⲛϩⲏⲧ ϥ .
   * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7: ⲉ ⲙⲉ ϥ ⲉⲓⲙⲉ ⲉ ⲡⲱⲣϫ · ⲁⲗⲗⲁ ⲉⲧⲃⲉ ⲟⲩ ⲙⲟⲥⲧⲉ ⲉ ϥ ϫⲱ ⲙ ⲡ ⲉⲧⲉ ⲛ ϥ ϣⲟⲟⲡ ⲁⲛ ⲉϣⲱⲡⲉ <b>ⲉ</b> ⲩ ϩⲟⲟⲩⲧ ⲡⲉ ⲉϣⲱⲡⲉ <b>ⲉ</b> ⲩ ⲥϩⲓⲙⲉ ⲧⲉ ·
   * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1: ⲡⲁⲓ ⲇⲉ ⲉ ⲓ ϫⲱ ⲙⲙⲟ ϥ ⲛⲁ ⲥⲛⲏⲩ ϫⲉ ⲡⲉ ⲟⲩⲟⲉⲓϣ ⲛ ⲟⲗ ⲕ ⲡⲉ . ϫⲉⲕⲁⲁⲥ ϭⲉ ⲛ ⲕⲟⲟⲩⲉ ⲉⲧⲉ ⲟⲩⲛⲧ ⲟⲩ ⲥϩⲓⲙⲉ ⲙⲙⲁⲩ ⲛ ⲥⲉ ⲣ ⲑ <b>ⲉ</b> ⲛ ⲛ ⲉⲧⲉ ⲙⲛⲧⲁ ⲩ .
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  ⲙⲟⲛⲟⲛ (<tt><a href="cop_scripto
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.192308 (the average of all parts of speech is 1.140603).
+The form / lemma ratio of `X` is 1.192308 (the average of all parts of speech is 1.141215).
 
 The 1st highest number of forms (5) was observed with the lemma “UNKNOWN”: [....]ⲥ, [...]ϥ, ⲉ[.....], ⲉⲃ[........], ⲟⲩⲇ[.......].
 

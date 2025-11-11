@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Verena Blaschke, Barbara Kovačić, Siyao Peng, Miriam Winkler, Barbara Plank.
 
 Repository: [UD_Bavarian-MaiBaam](https://github.com/UniversalDependencies/UD_Bavarian-MaiBaam)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbar_maibaam216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbar_maibaam217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,7 +93,7 @@ For detailed annotation guidelines, please read the following report:
 
 ## Features
 
-
+[Typo](bar_maibaam-feat-Typo.html)
 
 ## Relations
 
@@ -195,6 +195,20 @@ For detailed annotation guidelines, please read the following report:
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: je, zu</li>
+          <li>DET: des, irgánd</li>
+          <li>SCONJ: dass, das</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

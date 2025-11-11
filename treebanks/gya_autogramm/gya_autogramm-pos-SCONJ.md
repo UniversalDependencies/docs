@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>nɛ̀, há̰, kà, mɔ̀-nɛ̀, gá, h�
 
 The 10 most frequent `SCONJ` types:  <em>nɛ̀, kà, há̰, hé, kóó, mɔ̀-nɛ̀, gá, gá,, hám, mɔ̀</em>
 
-The 10 most frequent ambiguous lemmas: <em>nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 28, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 21, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 19), <em>há̰</em> (<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 15, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 10), <em>kà</em> (<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 1), <em>gá</em> (<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 1), <em>hé</em> (<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 28, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 20, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 19), <em>há̰</em> (<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 15, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 10), <em>kà</em> (<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 1), <em>gá</em> (<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 1), <em>hé</em> (<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 28, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 20, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 19), <em>há̰</em> (<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 15, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> 4), <em>hé</em> (<tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 1), <em>gá</em> (<tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 1, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mɔ̀</em> (<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>nɛ̀</em> (<tt><a href="gya_autogram
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.375000 (the average of all parts of speech is 1.497585).
+The form / lemma ratio of `SCONJ` is 1.375000 (the average of all parts of speech is 1.513447).
 
 The 1st highest number of forms (2) was observed with the lemma “gá”: <em>gá, gá,</em>.
 

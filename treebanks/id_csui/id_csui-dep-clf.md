@@ -50,9 +50,9 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 26	,	,	PUNCT	,	_	29	punct	_	_
 27	Rabu	Rabu	PROPN	NNP	_	29	obl:tmod	_	SpaceAfter=No
 28	,	,	PUNCT	,	_	29	punct	_	_
-29	menyatakan	nyata	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+29	menyatakan	nyata	VERB	VB	Voice=Act	0	root	_	_
 30	akan	akan	AUX	MD	_	31	aux	_	_
-31	menjual	jual	VERB	VB	Mood=Ind|Voice=Act	29	xcomp	_	_
+31	menjual	jual	VERB	VB	Voice=Act	29	xcomp	_	_
 32	dua	dua	NUM	CD	NumType=Card	34	nummod	_	_
 33	buah	buah	NOUN	NN	Number=Sing	34	clf	_	_
 34	kapal	kapal	NOUN	NN	Number=Sing	31	obj	_	_
@@ -62,7 +62,7 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 38	nya	nya	PRON	PRP$	Number=Sing|Person=3|PronType=Prs	37	nmod:poss	_	_
 39	yang	yang	PRON	IN	PronType=Rel	41	nsubj	_	_
 40	telah	telah	AUX	MD	_	41	aux	_	_
-41	habis	habis	VERB	VB	Mood=Ind|Voice=Act	34	acl:relcl	_	_
+41	habis	habis	VERB	VB	Voice=Act	34	acl:relcl	_	_
 42	masa	masa	NOUN	NN	Number=Sing	41	obl:tmod	_	_
 43	kontrak	kontrak	NOUN	NN	Number=Sing	42	nmod	_	_
 44	nya	nya	PRON	PRP$	Number=Sing|Person=3|PronType=Prs	42	nmod:poss	_	_

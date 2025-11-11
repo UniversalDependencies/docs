@@ -9,24 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Vnoun`.
 
-1010 tokens (16%) have a non-empty value of `VerbForm`.
-775 types (29%) occur at least once with a non-empty value of `VerbForm`.
-563 lemmas (29%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (742; 12% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (133; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (102; 2% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (33; 1% instances).
+1012 tokens (16%) have a non-empty value of `VerbForm`.
+777 types (29%) occur at least once with a non-empty value of `VerbForm`.
+564 lemmas (30%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (743; 12% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (133; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (103; 2% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (33; 1% instances).
 
 ### `VERB`
 
-742 <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+743 <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (700; 94%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (636; 86%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (532; 72%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (502; 68%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (486; 65%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (405; 55%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (398; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (701; 94%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (637; 86%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (533; 72%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (503; 68%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (486; 65%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (406; 55%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (397; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (8; 1% of non-empty `VerbForm`): <em>Poslouchaje, cítě, hyna, koře, podávaje, věře, řkouc, žehnaje</em>
 * `Fin` (430; 58% of non-empty `VerbForm`): <em>jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</em>
 * `Inf` (72; 10% of non-empty `VerbForm`): <em>stát, vidět, říci, Svítit, chtít, dopomoci, dát, dštíti, hnáti, hřešit</em>
-* `Part` (232; 31% of non-empty `VerbForm`): <em>měl, chtěl, poznali, viděl, ctil, šel, Rozhučela, cítil, dal, klečel</em>
-* `EMPTY` (1): <em>pade</em>
+* `Part` (233; 31% of non-empty `VerbForm`): <em>měl, chtěl, poznali, viděl, ctil, šel, Rozhučela, cítil, dal, klečel</em>
 
 <table>
   <tr><th>Paradigm <i>chtít</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -89,16 +88,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-102 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+103 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (98; 96%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (82; 80%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (80; 78%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (79; 77%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (70; 69%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (99; 96%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (83; 81%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (81; 79%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (79; 77%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71; 69%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (102; 100% of non-empty `VerbForm`): <em>Vyloupena, otráven, rozvodněná, skrytých, umdlená, zamračený, Drážděné, Kypící, Neslýchané, Oněmlé</em>
-* `EMPTY` (495): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
+* `Part` (103; 100% of non-empty `VerbForm`): <em>Vyloupena, otráven, rozvodněná, skrytých, umdlená, zamračený, Drážděné, Kypící, Neslýchané, Oněmlé</em>
+* `EMPTY` (494): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (90) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (91) occur only with one value of `VerbForm`.
 
 ### `NOUN`
 
@@ -116,7 +115,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (169; 91%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (168; 91%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (50; 81%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (38; 63%),
 <tt>AUX --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 100%),

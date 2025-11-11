@@ -8,28 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-44 nodes (0%) are attached to their parents as `dislocated`.
+57 nodes (0%) are attached to their parents as `dislocated`.
 
-25 instances of `dislocated` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.
+31 instances of `dislocated` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.84210526315789.
 
-The following 14 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (25; 57% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (4; 9% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (2; 5% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-DET.html">DET</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
+The following 17 pairs of parts of speech are connected with `dislocated`: <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (31; 54% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (5; 9% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-DET.html">DET</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 dislocated	color:blue
-1	Bugs	bug	NOUN	NNS	_	3	dislocated	3:dislocated	_
-2	dey	dey	PRON	MD	_	3	nsubj	3:nsubj|5:nsubj:xsubj	_
-3	try	try	VERB	VB	_	0	root	0:root	_
-4	to	to	PART	TO	_	5	mark	5:mark	_
-5	get	get	VERB	VB	_	3	xcomp	3:xcomp	_
-6	my	my	PRON	PRP$	_	7	nmod:poss	7:nmod:poss	_
-7	spear	spear	NOUN	NN	_	5	obj	5:obj	SpaceAfter=No
-8	.	.	PUNCT	.	_	3	punct	3:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 dislocated	color:blue
+1	I	I	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	drop	drop	VERB	VBP	_	0	root	0:root	_
+3	it	it	PRON	PRP	_	2	obj	2:obj	_
+4	pen	pen	NOUN	NN	_	2	dislocated	2:dislocated	SpaceAfter=No
+5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
@@ -40,13 +37,14 @@ The following 14 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 dislocated	color:blue
-1	My	my	PRON	PRP$	_	4	dislocated	4:dislocated	_
-2	my	my	PRON	PRP$	_	1	conj	1:conj|4:dislocated	_
-3	my	my	PRON	PRP$	_	1	conj	1:conj|4:dislocated	_
-4	turn	turn	VERB	VB	_	0	root	0:root	_
-5	it	it	PRON	PRP	_	4	obj	4:obj	_
-6	on	on	ADV	RB	_	4	compound:prt	4:compound:prt	SpaceAfter=No
-7	.	.	PUNCT	.	_	4	punct	4:punct	_
+1	I	I	PRON	PRP	_	4	dislocated	4:dislocated	_
+2	e	e	X	VBP	_	1	discourse	1:discourse|4:dislocated	_
+3	you	you	PRON	PRP	_	4	nsubj	4:nsubj	_
+4	know	know	VERB	VB	_	0	root	0:root	_
+5	what	what	PRON	WP	_	7	obj	7:obj	_
+6	that	that	PRON	DT	_	7	nsubj	7:nsubj	_
+7	says	say	VERB	VBZ	_	4	ccomp	4:ccomp	SpaceAfter=No
+8	?	?	PUNCT	?	_	4	punct	4:punct	_
 
 ~~~
 

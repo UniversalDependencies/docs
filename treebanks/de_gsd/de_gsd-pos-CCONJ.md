@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>sowie</em> (<tt><a href="de_gsd-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.046875 (the average of all parts of speech is 1.193317).
+The form / lemma ratio of `CCONJ` is 1.046875 (the average of all parts of speech is 1.193322).
 
 The 1st highest number of forms (3) was observed with the lemma “sondern”: <em>sonden, sonder, sondern</em>.
 

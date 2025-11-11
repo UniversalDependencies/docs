@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="sq_staf-pos-VERB.ht
 
 337 <tt><a href="sq_staf-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sq_staf-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (337; 100%), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (317; 94%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (275; 82%), <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (268; 80%), <tt><a href="sq_staf-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (181; 54%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sq_staf-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (337; 100%), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (317; 94%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (275; 82%), <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (268; 80%), <tt><a href="sq_staf-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (181; 54%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -36,19 +36,20 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 234 <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (230; 98%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (206; 88%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (229; 98%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (206; 88%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (84; 36% of non-empty `Person`): <em>më, unë, im, na, mua, ime, tim, sime, e, ne</em>
 * `2` (6; 3% of non-empty `Person`): <em>ti, e, ty, të, tënd</em>
 * `3` (144; 62% of non-empty `Person`): <em>e, i, ai, tij, ajo, saj, tyre, ata, të, atij</em>
-* `EMPTY` (196): <em>që, i, kjo, ky, ç', e, më, cilët, këtë, asgjë</em>
+* `EMPTY` (197): <em>që, i, kjo, ky, e, ç', më, cilët, këtë, asgjë</em>
 
 <table>
   <tr><th>Paradigm <i>ai</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>e, atë, i, të</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>i</em></td></tr>
+  <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>e</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>i</em></td></tr>
   <tr><td><tt><tt><a href="sq_staf-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sq_staf-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>e</em></td><td></td><td><em>e</em></td></tr>
@@ -66,7 +67,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 108 <tt><a href="sq_staf-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (104; 96%), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (100; 93%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 86%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sq_staf-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (107; 99%), <tt><a href="sq_staf-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (104; 96%), <tt><a href="sq_staf-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (100; 93%), <tt><a href="sq_staf-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 86%).
 
 `AUX` tokens may have the following values of `Person`:
 

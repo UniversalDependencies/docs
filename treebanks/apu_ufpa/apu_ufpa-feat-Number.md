@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt>, <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt>.
 
-198 tokens (20%) have a non-empty value of `Number`.
-89 types (24%) occur at least once with a non-empty value of `Number`.
-67 lemmas (24%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (108; 11% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (82; 8% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+204 tokens (20%) have a non-empty value of `Number`.
+92 types (25%) occur at least once with a non-empty value of `Number`.
+67 lemmas (23%) occur at least once with a non-empty value of `Number`.
+The feature is used with 4 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (109; 11% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (87; 9% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-108 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (36% of all `NOUN` tokens) have a non-empty value of `Number`.
+109 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (36% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (96; 89%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (88; 81%), <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (84; 78%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (77; 71%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (65; 60%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (97; 89%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 82%), <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (85; 78%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (78; 72%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (66; 61%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (7; 6% of non-empty `Number`): <em>Pupỹkaryny, Sytuwakuru, amarynyky, amarytane, imiakurykata, ypyrawakury, ũimiakury</em>
-* `Sing` (101; 94% of non-empty `Number`): <em>ximaky, awiri, yky, aapuku, kyky, aapukutxi, ãkiti, ũty, nynyru, pynyru</em>
+* `Sing` (102; 94% of non-empty `Number`): <em>ximaky, awiri, yky, aapuku, kyky, aapukutxi, ãkiti, ũty, nynyru, parĩkatxi</em>
 * `EMPTY` (190): <em>iãtã, awinhi, maky, ywãtãa, kananeã, nhipukury, sytu, tiwitxi, ũimiakury, aiku</em>
 
 <table>
@@ -38,15 +38,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-82 <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Number`.
+87 <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="apu_ufpa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (81; 99%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (76; 93%), <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt> (66; 80%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="apu_ufpa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (87; 100%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (76; 87%), <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt> (66; 76%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (18; 22% of non-empty `Number`): <em>nynuwa, athamunhi, Atha, Hĩthamunhi</em>
-* `Sing` (64; 78% of non-empty `Number`): <em>ywa, uwa, nuta, pitha, Ywã, ywamunhi</em>
-* `EMPTY` (23): <em>ykynypuku, kiripa, atha, Kerupa, Athe, Ykynyk, Ywã, pithe, ywa</em>
+* `Plur` (22; 25% of non-empty `Number`): <em>nynuwa, atha, athamunhi, Athe, Hĩthamunhi</em>
+* `Sing` (65; 75% of non-empty `Number`): <em>ywa, uwa, nuta, pitha, Ywã, pithe, ywamunhi</em>
+* `EMPTY` (19): <em>ykynypuku, kiripa, Kerupa, Ykynyk, Ywã, hĩthamunhi, ywa</em>
 
 <table>
   <tr><th>Paradigm <i>nuta</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -69,12 +69,12 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 1 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>naiatinhi</em>
-* `EMPTY` (213): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, kamary, apukary, awama, kaiãapukury</em>
+* `EMPTY` (214): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, kamary, apukary, awama, kaiãapukury</em>
 
 ## Relations with Agreement in `Number`
 

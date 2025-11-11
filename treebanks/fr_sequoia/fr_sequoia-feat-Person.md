@@ -18,16 +18,16 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-PRON
 
 ### `PRON`
 
-2164 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Person`.
+2164 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1815; 84%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1764; 82%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1303; 60%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1247; 58%), <tt><a href="fr_sequoia-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (1152; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1815; 84%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1764; 82%), <tt><a href="fr_sequoia-feat-Emph.html">Emph</a></tt><tt>=No</tt> (1323; 61%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1303; 60%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1247; 58%), <tt><a href="fr_sequoia-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1086; 50%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (459; 21% of non-empty `Person`): <em>nous, je, j', me, m', moi, -nous, -je, -moi, moi-même</em>
 * `2` (136; 6% of non-empty `Person`): <em>vous, -vous, Toi, vous-même</em>
 * `3` (1569; 73% of non-empty `Person`): <em>il, se, s', elle, ce, ils, y, c', cela, en</em>
-* `EMPTY` (644): <em>qui, que, dont, où, qu', laquelle, lequel, rien, lesquelles, lesquels</em>
+* `EMPTY` (627): <em>qui, que, où, dont, qu', laquelle, lequel, rien, lesquelles, lesquels</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (29) occur only with one value of `Person`.
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (305; 14% of non-empty `Person`): <em>voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</em>
 * `2` (98; 5% of non-empty `Person`): <em>avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</em>
 * `3` (1701; 81% of non-empty `Person`): <em>doit, a, peut, doivent, faut, est, peuvent, agit, concerne, contient</em>
-* `EMPTY` (3771): <em>voir, mis, eu, faire, traités, utilisé, atteints, administré, reçu, concernant</em>
+* `EMPTY` (3783): <em>voir, mis, eu, faire, traités, utilisé, atteints, administré, reçu, concernant</em>
 
 <table>
   <tr><th>Paradigm <i>devoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -99,6 +99,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PRON --[<tt><a href="fr_sequoia-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (29; 62%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (29; 67%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (22; 54%),
-<tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (21; 95%),
+<tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (21; 64%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (9; 90%).
 

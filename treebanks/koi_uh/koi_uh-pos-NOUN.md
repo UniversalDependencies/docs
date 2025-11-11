@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>дорас</em> (<tt><a href="koi_uh-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.281046 (the average of all parts of speech is 1.247379).
+The form / lemma ratio of `NOUN` is 1.281046 (the average of all parts of speech is 1.250000).
 
 The 1st highest number of forms (7) was observed with the lemma “ай”: <em>ай, айся, айтöг, айыс, айыт, айытся, айӧ</em>.
 

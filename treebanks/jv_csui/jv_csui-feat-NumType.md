@@ -11,7 +11,7 @@ It occurs with 2 different values: `Card`, `Ord`.
 
 375 tokens (3%) have a non-empty value of `NumType`.
 162 types (4%) occur at least once with a non-empty value of `NumType`.
-1 lemmas (0) occur at least once with a non-empty value of `NumType`.
+146 lemmas (5%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (361; 3% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (14; 0% instances).
 
 ### `NUM`
@@ -24,6 +24,8 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 * `Card` (361; 100% of non-empty `NumType`): <em>sak, siji, 15, 16, 2022, 1, 3, 6, 1946, rong</em>
 * `EMPTY` (1): <em>Kapindho</em>
+
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (145) occur only with one value of `NumType`.
 
 ### `ADJ`
 

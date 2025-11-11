@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-144224 tokens (51%) have a non-empty value of `Number`.
+144223 tokens (51%) have a non-empty value of `Number`.
 16540 types (71%) occur at least once with a non-empty value of `Number`.
 9271 lemmas (59%) occur at least once with a non-empty value of `Number`.
-The feature is used with 13 part-of-speech tags: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (52013; 19% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (43740; 16% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (19371; 7% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (16076; 6% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8765; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (4015; 1% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (115; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (97; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 13 part-of-speech tags: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (52014; 19% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (43740; 16% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (19370; 7% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (16077; 6% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8765; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (4014; 1% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (114; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (97; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-52013 <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> tokens (90% of all `NOUN` tokens) have a non-empty value of `Number`.
+52014 <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> tokens (90% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29266; 56%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (16797; 32% of non-empty `Number`): <em>anni, miliardi, insegnanti, posti, trasferimenti, docenti, servizi, giorni, milioni, lire</em>
-* `Sing` (35216; 68% of non-empty `Number`): <em>anno, parte, legge, presidente, governo, stato, gruppo, provincia, lavoro, trasferimento</em>
+* `Sing` (35217; 68% of non-empty `Number`): <em>anno, parte, legge, presidente, governo, stato, gruppo, provincia, lavoro, trasferimento</em>
 * `EMPTY` (5869): <em>n., società, art., attività, dpr, punto, mila, a, titolarità, città</em>
 
 <table>
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 43740 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (40228; 92%), <tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (36112; 83%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (40233; 92%), <tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (36117; 83%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -45,22 +45,19 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>l'</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo, gli, i, l'</em></td><td><em>i, gli, il</em></td></tr>
-  <tr><td><tt><tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la</em></td><td><em>le, il, i</em></td></tr>
-  <tr><td><tt><tt><a href="it_vit-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l', il, lo</em></td><td><em>i, gli, l'</em></td></tr>
-  <tr><td><tt><tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>il, lo</em></td><td><em>i</em></td></tr>
-  <tr><td><tt><tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>le</em></td></tr>
+  <tr><td><tt><tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>il, lo, gli, i, l'</em></td><td><em>i, gli, il</em></td></tr>
+  <tr><td><tt><tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td><em>le, il, i</em></td></tr>
+  <tr><td><tt></tt></td><td><em>l', il, lo</em></td><td><em>i, gli, l'</em></td></tr>
 </table>
 
 ### `ADJ`
 
-19371 <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
+19370 <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (6784; 35% of non-empty `Number`): <em>grandi, altri, sociali, altre, disponibili, nuovi, seguenti, titolari, nuove, internazionali</em>
-* `Sing` (12587; 65% of non-empty `Number`): <em>precedente, grande, presente, netto, generale, nazionale, sociale, possibile, finanziaria, civile</em>
+* `Sing` (12586; 65% of non-empty `Number`): <em>precedente, grande, presente, netto, generale, nazionale, sociale, possibile, finanziaria, civile</em>
 * `EMPTY` (804): <em>primo, ex, pari, seconda, secondo, prima, terzo, gran, prime, quarto</em>
 
 <table>
@@ -74,14 +71,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-16076 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
+16077 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8242; 51%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8215; 51%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8215; 51%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8140; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8242; 51%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8216; 51%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8216; 51%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8141; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (4633; 29% of non-empty `Number`): <em>hanno, derivanti, sono, previsti, fanno, provenienti, effettuati, disposti, aventi, compresi</em>
-* `Sing` (11443; 71% of non-empty `Number`): <em>è, ha, fatto, fa, dice, detto, approvato, scade, previsto, sembra</em>
+* `Sing` (11444; 71% of non-empty `Number`): <em>è, ha, fatto, fa, dice, detto, approvato, scade, previsto, sembra</em>
 * `EMPTY` (5318): <em>fare, far, avere, dare, dire, partire, chiedere, andare, trovare, presentare</em>
 
 <table>
@@ -140,15 +137,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-4015 <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Number`.
+4014 <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_vit-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (2755; 69%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2210; 55%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2073; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1355; 34% of non-empty `Number`): <em>c', quelli, quali, ci, quelle, tutti, li, noi, loro, essi</em>
+* `Plur` (1354; 34% of non-empty `Number`): <em>c', quelli, quali, ci, quelle, tutti, li, noi, loro, essi</em>
 * `Sing` (2660; 66% of non-empty `Number`): <em>lo, quello, mi, quella, quale, quanto, la, questo, l', io</em>
-* `EMPTY` (5779): <em>che, si, cui, ne, dove, chi, ci, ciò, vi, quando</em>
+* `EMPTY` (5780): <em>che, si, cui, ne, dove, chi, ci, ciò, vi, quando</em>
 
 <table>
   <tr><th>Paradigm <i>quello</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -159,15 +156,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADV`
 
-115 <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Number`.
+114 <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (113; 98%).
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (112; 98%).
 
 `ADV` tokens may have the following values of `Number`:
 
-* `Plur` (12; 10% of non-empty `Number`): <em>Molte, inesigibili, infine, soli, altri, prese, prossimi, semi, volte</em>
-* `Sing` (103; 90% of non-empty `Number`): <em>pò, molto, poco, troppo, generale, ogni, nulla, quanto, seguito, una</em>
-* `EMPTY` (10627): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
+* `Plur` (12; 11% of non-empty `Number`): <em>Molte, inesigibili, infine, soli, altri, prese, prossimi, semi, volte</em>
+* `Sing` (102; 89% of non-empty `Number`): <em>pò, molto, poco, troppo, generale, ogni, nulla, quanto, seguito, una</em>
+* `EMPTY` (10632): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
 
 <table>
   <tr><th>Paradigm <i>molto</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -175,7 +172,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
   <tr><td><tt><tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>Molte</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADV`. 98% lemmas (51) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADV`. 98% lemmas (50) occur only with one value of `Number`.
 
 ### `NUM`
 
@@ -203,7 +200,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (12; 75% of non-empty `Number`): <em>quali, ne, per</em>
 * `Sing` (4; 25% of non-empty `Number`): <em>stante, Per, Salvo, niente</em>
-* `EMPTY` (45549): <em>di, a, in, per, da, con, su, tra, ad, come</em>
+* `EMPTY` (45559): <em>di, a, in, per, da, con, su, tra, ad, come</em>
 
 <table>
   <tr><th>Paradigm <i>per</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -218,7 +215,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (1; 14% of non-empty `Number`): <em>addebitati</em>
 * `Sing` (6; 86% of non-empty `Number`): <em>come, cosa, quando</em>
-* `EMPTY` (2202): <em>che, se, perché, quando, mentre, come, qualora, poiché, affinché, ove</em>
+* `EMPTY` (2207): <em>che, se, perché, quando, mentre, come, qualora, poiché, affinché, ove</em>
 
 ### `CCONJ`
 
@@ -228,7 +225,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (1; 20% of non-empty `Number`): <em>pesino</em>
 * `Sing` (4; 80% of non-empty `Number`): <em>altro, caso, essa, quanto</em>
-* `EMPTY` (8194): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8174): <em>e, ma, o, ed, sia, come, che, cioè, ovvero, nonché</em>
 
 ### `X`
 
@@ -255,12 +252,12 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="it_vit-dep-det.html">det</a></tt>]--> DET</tt> (33327; 91%),
 <tt>NOUN --[<tt><a href="it_vit-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14301; 88%),
-<tt>VERB --[<tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3501; 78%),
-<tt>NOUN --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3043; 69%),
+<tt>VERB --[<tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3502; 78%),
+<tt>NOUN --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3044; 69%),
 <tt>VERB --[<tt><a href="it_vit-dep-aux.html">aux</a></tt>]--> AUX</tt> (2879; 57%),
-<tt>NOUN --[<tt><a href="it_vit-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1554; 90%),
+<tt>NOUN --[<tt><a href="it_vit-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1553; 90%),
 <tt>NOUN --[<tt><a href="it_vit-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1516; 69%),
 <tt>VERB --[<tt><a href="it_vit-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1201; 71%),
-<tt>VERB --[<tt><a href="it_vit-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1067; 93%),
+<tt>VERB --[<tt><a href="it_vit-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1068; 93%),
 <tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (1065; 76%).
 

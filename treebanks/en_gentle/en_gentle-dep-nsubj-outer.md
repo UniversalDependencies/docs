@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="en_gentle-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-12 nodes (0%) are attached to their parents as `nsubj:outer`.
+11 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-12 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.41666666666667.
+11 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.72727272727273.
 
-The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (7; 58% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (2; 17% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (7; 64% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (2; 18% instances).
 
 
 ~~~ conllu

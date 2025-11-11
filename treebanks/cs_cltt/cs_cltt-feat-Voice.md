@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-2595 tokens (7%) have a non-empty value of `Voice`.
-637 types (14%) occur at least once with a non-empty value of `Voice`.
-382 lemmas (14%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1507; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (547; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (541; 2% instances).
+2600 tokens (7%) have a non-empty value of `Voice`.
+640 types (14%) occur at least once with a non-empty value of `Voice`.
+383 lemmas (14%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1507; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (547; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (546; 2% instances).
 
 ### `VERB`
 
@@ -40,17 +40,17 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 ### `ADJ`
 
-541 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Voice`.
+546 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (538; 99%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (324; 60%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 53%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (281; 52%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (543; 99%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (325; 60%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 53%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (283; 52%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (287; 53% of non-empty `Voice`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
+* `Act` (292; 53% of non-empty `Voice`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
 * `Pass` (254; 47% of non-empty `Voice`): <em>stanoveno, sestavena, obchodovány, uvedeny, zahrnuty, zavedena, oprávněn, uvedena, vykázány, účtovány</em>
-* `EMPTY` (6102): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
+* `EMPTY` (6097): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
 
-`Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (141) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (142) occur only with one value of `Voice`.
 
 ## Relations with Agreement in `Voice`
 

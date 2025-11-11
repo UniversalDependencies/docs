@@ -53,7 +53,7 @@ The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	Că	că	SCONJ	Csssp	Polarity=Pos	8	mark	_	_
 7	ne	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	8	obj	_	SpaceAfter=No
 8	-nveți	învăța	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	xcomp	_	_
-9	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	12	mark	_	_
+9	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	12	mark	_	_
 10	să	să	PART	Qs	PartType=Sub	9	fixed	_	_
 11	fim	fi	AUX	Vasp1p	Mood=Sub|Number=Plur|Person=1|Tense=Pres	12	cop	_	_
 12	hoți	hoț	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	8	ccomp	_	Rhyme=ID5|SpaceAfter=No|Type=Paired

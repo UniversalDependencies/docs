@@ -84,12 +84,12 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 20	,	,	PUNCT	Z:-------------	_	15	punct	15:punct	_
 21	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	22	expl:pass	22:expl:pass	_
 22	účtují	účtovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-23	jako	jako	SCONJ	J,-------------	_	25	mark	25:mark|28:mark	_
+23	jako	jako	SCONJ	J,-------------	_	25	mark	25:mark	_
 24	finanční	finanční	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	25	amod	25:amod	_
-25	náklad	náklad	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	xcomp	2:xcomp	_
+25	náklad	náklad	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	advcl:pred	2:advcl:pred:jako	_
 26	nebo	nebo	CCONJ	J^-------------	_	28	cc	28:cc	_
 27	finanční	finanční	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	28	amod	28:amod	_
-28	výnos	výnos	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	conj	2:xcomp|25:conj	SpaceAfter=No
+28	výnos	výnos	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	conj	2:advcl:pred:jako|25:conj	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	22	punct	22:punct	_
 
 ~~~

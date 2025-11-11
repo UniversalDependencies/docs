@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.h
 
 257 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (257; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (209; 81%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (170; 66%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (170; 66%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (257; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (209; 81%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (170; 66%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (170; 66%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -30,8 +30,8 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><th>Paradigm <i>висьтавны</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>висьталэма</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>висьтала</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>висьтоо</em></td></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>висьталін</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>висьтоо</em></td></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>висьталэ</em></td><td></td></tr>
 </table>
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 44 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (32; 73%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 64%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 57%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (23; 52%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (40; 91%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (32; 73%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 64%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 57%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (23; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 

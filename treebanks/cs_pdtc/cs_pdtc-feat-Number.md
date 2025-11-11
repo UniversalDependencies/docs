@@ -352,13 +352,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (285832; 99%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (125668; 58%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (125683; 58%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (74955; 76%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (61623; 87%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (61625; 87%),
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (32008; 77%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> VERB</tt> (23610; 72%),
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-cop.html">cop</a></tt>]--> AUX</tt> (22434; 75%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (21941; 64%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (21943; 64%),
 <tt>VERB --[<tt><a href="cs_pdtc-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (20110; 89%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-cop.html">cop</a></tt>]--> AUX</tt> (19934; 86%).
 

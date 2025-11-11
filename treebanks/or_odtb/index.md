@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.16 release.
 
-The following people have contributed to making this treebank part of UD: Shantipriya Parida, Kalyanamalini Sahoo, Atul Kr. Ojha, Saraswati Sahoo, Biswakalpita Mohapatra, Satya Ranjan Dash, Bijayalaxmi Dash.
+The following people have contributed to making this treebank part of UD: Shantipriya Parida, Kalyanamalini Sahoo, Atul Kr. Ojha, Saraswati Sahoo, Biswakalpita Mohapatra, Satya Ranjan Dash, Bijayalaxmi Dash, Kusum Lata.
 
 Repository: [UD_Odia-ODTB](https://github.com/UniversalDependencies/UD_Odia-ODTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udor_odtb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udor_odtb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,14 +29,14 @@ Genre: nonfiction, news
 Questions, comments?
 General annotation questions (either Odia-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Odia-ODTB/issues).
-If you want to collaborate, please contact [shantipriya&nbsp;•&nbsp;parida&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, shashwatup9k&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, sdashfca&nbsp;(æt)&nbsp;kiit&nbsp;•&nbsp;ac&nbsp;•&nbsp;in, biswakalpitamohapatra1&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, kalyanamalini&nbsp;•&nbsp;shabadi&nbsp;(æt)&nbsp;univ-lille&nbsp;•&nbsp;fr, sahoosaraswati455&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, rudrabijayalaxmi&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+If you want to collaborate, please contact [shantipriya&nbsp;•&nbsp;parida&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, shashwatup9k&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, sdashfca&nbsp;(æt)&nbsp;kiit&nbsp;•&nbsp;ac&nbsp;•&nbsp;in, biswakalpitamohapatra1&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, kalyanamalini&nbsp;•&nbsp;shabadi&nbsp;(æt)&nbsp;univ-lille&nbsp;•&nbsp;fr, sahoosaraswati455&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, rudrabijayalaxmi&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com,ranapoo&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | annotated manually |
 | UPOS | annotated manually, natively in UD style |
-| XPOS | not available |
+| XPOS | annotated manually |
 | Features | not available |
 | Relations | annotated manually, natively in UD style |
 
@@ -47,18 +47,20 @@ The Odia UD Treebank (ODTB) is a part of the Universal Dependency treebank proje
 
 
 The Odia Universal Dependency Treebank (ODTB) project is a collaboration initiated by the below institute/university to develop the first Universal Dependency Treebank in Odia language suitable for many natural language processing (NLP) tasks.
-* [Silo AI](https://silo.ai/), Finland
+* [AMD SiloAI](https://www.amd.com/en/solutions/ai/silo-ai.html), Finland
 * [University of Lille](https://www.univ-lille.fr/home/), France
 * [Insight Research Ireland Centre for Data Analytics, DSI](https://www.insight-centre.org/),[University of Galway, Galway](https://www.universityofgalway.ie/), Ireland
 * [Institute of Mathematics & Applications](https://iomaorissa.ac.in/), India
 * [KIIT University](https://kiit.ac.in/), India
 * [Ravenshaw University](https://ravenshawuniversity.ac.in/), India
+* [Sharda University](https://www.sharda.ac.in/), India
 
 The Odia UD Treebank (ODTB) consists of 100 sentences. The ODTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological/POS tags and lemmas. In this data, XPOS is annotated according to Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset.
 
 ## Acknowledgments
 
-We would like to acknowledge the support of the [Research Ireland](https://www.researchireland.ie/) as part of Grant Number SFI/12/RC/2289_P2 Insight_2, Insight Research Ireland Centre for Data Analytics. The authors thank Dr. Daniel Zeman (UFAL, Charles University) for his encouragement and support in building ODTB.
+We would like to acknowledge the support of the [Research Ireland](https://www.researchireland.ie/) as part of Grant Number SFI/12/RC/2289_P2 Insight_2, Insight Research Ireland Centre for Data Analytics and and [CA21167
+COST Action UniDive (by COST (European Cooperation in Science and Technology)](https://unidive.lisn.upsaclay.fr/). The authors thank John Bauer (Stanford University) for supporting the [Odia Treebank project](https://www.odiagenai.org/odiatreebank). The authors also thank Dr. Daniel Zeman (UFAL, Charles University) for his encouragement and support in building ODTB.
 
 ## References
 

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.htm
 
 ### `PRON`
 
-609 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (52% of all `PRON` tokens) have a non-empty value of `Person`.
+609 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (609; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (587; 96%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (476; 78%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (419; 69%).
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (179; 29% of non-empty `Person`): <em>мон, минь, минек, монень, монь, тень, тенек, миненек, миньсинек, монсь</em>
 * `2` (99; 16% of non-empty `Person`): <em>тон, тонеть, тынк, теть, тонь, тонть, тынь, тенк, тонсь, тыненк</em>
 * `3` (331; 54% of non-empty `Person`): <em>сон, сонзэ, сонсь, сынь, тензэ, сынст, кавонест, тенст, сонензэ, эсензэ</em>
-* `EMPTY` (566): <em>весе, те, мезе, кие, кияк, кона, конань, неть, секе, ки</em>
+* `EMPTY` (590): <em>весе, те, мезе, кие, кияк, конань, кона, неть, секе, ки</em>
 
 <table>
   <tr><th>Paradigm <i>ськамонзо</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

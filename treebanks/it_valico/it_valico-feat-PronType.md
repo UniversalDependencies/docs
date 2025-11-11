@@ -9,27 +9,26 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-1621 tokens (24%) have a non-empty value of `PronType`.
-131 types (10%) occur at least once with a non-empty value of `PronType`.
-66 lemmas (7%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1020; 15% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (509; 8% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (92; 1% instances).
+1624 tokens (24%) have a non-empty value of `PronType`.
+133 types (10%) occur at least once with a non-empty value of `PronType`.
+67 lemmas (7%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1023; 15% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (509; 8% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (92; 1% instances).
 
 ### `DET`
 
-1020 <tt><a href="it_valico-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+1023 <tt><a href="it_valico-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (925; 91%), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (916; 90%), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (618; 61%), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (605; 59%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (926; 91%), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (919; 90%), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (621; 61%), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (605; 59%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (830; 81% of non-empty `PronType`): <em>il, la, un, una, l', le, i, un', lo, gli</em>
 * `Dem` (33; 3% of non-empty `PronType`): <em>questo, questa, quel, queste, Quest', quella, quello, questi</em>
 * `Exc` (1; 0% of non-empty `PronType`): <em>che</em>
-* `Ind` (41; 4% of non-empty `PronType`): <em>altro, altra, molti, ogni, delle, qualche, alcun, dei, tutti, Alcuni</em>
+* `Ind` (42; 4% of non-empty `PronType`): <em>altro, altra, molti, ogni, delle, qualche, alcun, dei, tutti, Alcuni</em>
 * `Int` (4; 0% of non-empty `PronType`): <em>che</em>
-* `Prs` (104; 10% of non-empty `PronType`): <em>suo, sua, mio, mia, suoi, miei, nostra, nostro, sue, tuo</em>
+* `Prs` (106; 10% of non-empty `PronType`): <em>suo, sua, mio, mia, suoi, miei, nostra, nostro, sue, sui</em>
 * `Tot` (7; 1% of non-empty `PronType`): <em>tutta, tutto, tutti</em>
-* `EMPTY` (3): <em>sui, otro</em>
 
 <table>
   <tr><th>Paradigm <i>tutto</i></th><th><tt>Tot</tt></th><th><tt>Ind</tt></th></tr>
@@ -39,7 +38,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tutta</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 94% lemmas (30) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 94% lemmas (31) occur only with one value of `PronType`.
 
 ### `PRON`
 

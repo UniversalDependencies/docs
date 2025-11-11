@@ -136,7 +136,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (86; 40% of non-empty `Gender`): <em>onde, SIM, melhor</em>
 * `Masc` (128; 60% of non-empty `Gender`): <em>onde</em>
-* `EMPTY` (6227): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
+* `EMPTY` (6225): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
 
 <table>
   <tr><th>Paradigm <i>onde</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

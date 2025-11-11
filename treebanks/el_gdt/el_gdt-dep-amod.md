@@ -46,7 +46,7 @@ The following 17 pairs of parts of speech are connected with `amod`: <tt><a href
 3	σε	σε	ADP	ADP	_	4	case	_	_
 4	προβλήτα	προβλήτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
 5	σ	σε	ADP	ADP	_	8	case	_	_
-6	τη	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	8	det	_	_
+6	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 7	Νέα	νέος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	8	amod	_	_
 8	Υόρκη	Υόρκη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	2	punct	_	_

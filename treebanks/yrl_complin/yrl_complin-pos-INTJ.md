@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Nheengatu-CompLin: POS Tags: `INTJ`
 
-There are 30 `INTJ` lemmas (2%), 30 `INTJ` types (1%) and 68 `INTJ` tokens (0%).
+There are 32 `INTJ` lemmas (2%), 32 `INTJ` types (1%) and 72 `INTJ` tokens (0%).
 Out of 16 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 10 in number of types and 15 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>ah, taité, tẽ, tenupá, oh, traka, txáu, adí, araã, hum</em>
+The 10 most frequent `INTJ` lemmas: <em>ah, taité, tẽ, oh, tenupá, traka, txáu, adí, araã, hum</em>
 
-The 10 most frequent `INTJ` types:  <em>Ah, taité, tẽ, Tenupá, Oh, traka, txáu, Adí, araã, hum</em>
+The 10 most frequent `INTJ` types:  <em>Ah, taité, tẽ, Oh, Tenupá, traka, txáu, Adí, araã, hum</em>
 
-The 10 most frequent ambiguous lemmas: <em>taité</em> (<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 2), <em>tẽ</em> (<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 47, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 6), <em>tenupá</em> (<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 7, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 4), <em>teité</em> (<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 1), <em>u</em> (<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>taité</em> (<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 2), <em>tẽ</em> (<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 49, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 6), <em>tenupá</em> (<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 7, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 4), <em>teité</em> (<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 1), <em>u</em> (<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>taité</em> (<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 2), <em>tẽ</em> (<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 47, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 6), <em>Tenupá</em> (<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 3), <em>U</em> (<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> 1), <em>teité</em> (<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>taité</em> (<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 2), <em>tẽ</em> (<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 49, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 6), <em>Tenupá</em> (<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 3), <em>U</em> (<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> 1), <em>teité</em> (<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>taité</em>
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>taité</em> (<tt><a href="yrl_complin
   * <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> 2: <em>Kwá mira <b>taité</b> , urirí upuãmu usikiesá .</em>
   * <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> 2: <em>Nuká paá <b>taité</b> urikú sapekwera ntu piranga i ayura upé , aité paá tatá kwera nhaã .</em>
 * <em>tẽ</em>
-  * <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 47: <em>Aikwé awá ururi indé u reyuri putari <b>tẽ</b> ne rupí ?</em>
+  * <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> 49: <em>Aikwé awá ururi indé u reyuri putari <b>tẽ</b> ne rupí ?</em>
   * <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 6: <em>Miasúa usú ana , usendú teapú tukumã raínha pupé : <b>tẽ</b> , <b>tẽ</b> , <b>tẽ</b> ; <b>tẽ</b> , <b>tẽ</b> , <b>tẽ</b> .</em>
 * <em>Tenupá</em>
   * <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> 4: <em><b>Tenupá</b> , ara ramé ayuká aé .</em>
@@ -38,34 +38,34 @@ The 10 most frequent ambiguous types:  <em>taité</em> (<tt><a href="yrl_complin
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.475890).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.529412).
 
-The 1st highest number of forms (1) was observed with the lemma “adí”: <em>Adí</em>.
+The 1st highest number of forms (1) was observed with the lemma “adéu”: <em>Adéu</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “ah”: <em>Ah</em>.
+The 2nd highest number of forms (1) was observed with the lemma “adí”: <em>Adí</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “araã”: <em>araã</em>.
+The 3rd highest number of forms (1) was observed with the lemma “ah”: <em>Ah</em>.
 
 `INTJ` does not occur with any features.
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="yrl_complin-dep-discourse.html">discourse</a></tt> (38; 56% instances), <tt><a href="yrl_complin-dep-ccomp.html">ccomp</a></tt> (12; 18% instances), <tt><a href="yrl_complin-dep-conj.html">conj</a></tt> (10; 15% instances), <tt><a href="yrl_complin-dep-root.html">root</a></tt> (5; 7% instances), <tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt> (3; 4% instances)
+`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="yrl_complin-dep-discourse.html">discourse</a></tt> (42; 58% instances), <tt><a href="yrl_complin-dep-ccomp.html">ccomp</a></tt> (12; 17% instances), <tt><a href="yrl_complin-dep-conj.html">conj</a></tt> (10; 14% instances), <tt><a href="yrl_complin-dep-root.html">root</a></tt> (5; 7% instances), <tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt> (3; 4% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (36; 53% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (11; 16% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (7; 10% instances),  (5; 7% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (36; 50% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (12; 17% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (11; 15% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (7; 10% instances),  (5; 7% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-17 (25%) `INTJ` nodes are leaves.
+20 (28%) `INTJ` nodes are leaves.
 
-30 (44%) `INTJ` nodes have one child.
+31 (43%) `INTJ` nodes have one child.
 
-11 (16%) `INTJ` nodes have two children.
+11 (15%) `INTJ` nodes have two children.
 
-10 (15%) `INTJ` nodes have three or more children.
+10 (14%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 4 different relations: <tt><a href="yrl_complin-dep-punct.html">punct</a></tt> (78; 87% instances), <tt><a href="yrl_complin-dep-conj.html">conj</a></tt> (10; 11% instances), <tt><a href="yrl_complin-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 4 different relations: <tt><a href="yrl_complin-dep-punct.html">punct</a></tt> (79; 87% instances), <tt><a href="yrl_complin-dep-conj.html">conj</a></tt> (10; 11% instances), <tt><a href="yrl_complin-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (78; 87% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (11; 12% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (79; 87% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (11; 12% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 

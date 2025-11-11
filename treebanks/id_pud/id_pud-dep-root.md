@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 2	baru	baru	ADJ	_	_	1	amod	_	_
 3	ini	ini	DET	_	PronType=Dem	1	det	_	_
-4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	dipasok	pasok	VERB	_	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	_	_	6	case	_	_
 6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
 7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_
@@ -61,12 +61,12 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	Apa	apa	PRON	_	PronType=Rel	14	nsubj	_	_
 2	yang	yang	PRON	_	PronType=Rel	4	obj	_	_
 3	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	katakan	kata	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
+4	katakan	kata	VERB	_	Voice=Act	1	acl:relcl	_	_
 5	dan	dan	CCONJ	_	_	6	cc	_	_
 6	apa	apa	PRON	_	PronType=Rel	1	conj	_	_
 7	yang	yang	PRON	_	PronType=Rel	9	obj	_	_
 8	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	lakukan	laku	VERB	_	Mood=Ind|Voice=Act	6	acl:relcl	_	_
+9	lakukan	laku	VERB	_	Voice=Act	6	acl:relcl	_	_
 10	—	—	PUNCT	_	_	1	punct	_	_
 11	sesungguhnya	sungguh	ADV	_	_	14	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_

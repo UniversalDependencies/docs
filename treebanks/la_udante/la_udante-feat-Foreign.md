@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (59; 100% of non-empty `Foreign`): <em>Israel, Levi, David, Guinizelli, Ierusalem, Iacob, Amalech, Batifolle, Agag, Balaam</em>
-* `EMPTY` (1016): <em>Cristus, Petrus, Cristi, Ytalie, Petri, Cristum, Livius, Nicomacum, Cesaris, Ytalia</em>
+* `EMPTY` (1017): <em>Cristus, Petrus, Cristi, Ytalie, Petri, Cristum, Livius, Nicomacum, Cesaris, Ytalia</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (22) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>cenith, Sabaoth, Alfa, El, Omega, Seraphin</em>
-* `EMPTY` (10138): <em>Dei, Deus, natura, terra, parte, mundi, genus, re, ratio, Deo</em>
+* `EMPTY` (10137): <em>Dei, Deus, natura, terra, parte, mundi, genus, re, ratio, Deo</em>
 
 ## Relations with Agreement in `Foreign`
 

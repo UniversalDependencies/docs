@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Tatiana Lando, Olga Loginova, Martin Popel, Daniel Zeman, Kira Droganova.
 
 Repository: [UD_Russian-PUD](https://github.com/UniversalDependencies/UD_Russian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_pud216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_pud217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 3.0
 
@@ -90,7 +90,7 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](ru_pud-dep-acl.html) – [acl:relcl](ru_pud-dep-acl-relcl.html) – [advcl](ru_pud-dep-advcl.html) – [advmod](ru_pud-dep-advmod.html) – [amod](ru_pud-dep-amod.html) – [appos](ru_pud-dep-appos.html) – [aux](ru_pud-dep-aux.html) – [aux:pass](ru_pud-dep-aux-pass.html) – [case](ru_pud-dep-case.html) – [cc](ru_pud-dep-cc.html) – [ccomp](ru_pud-dep-ccomp.html) – [compound](ru_pud-dep-compound.html) – [conj](ru_pud-dep-conj.html) – [cop](ru_pud-dep-cop.html) – [csubj](ru_pud-dep-csubj.html) – [det](ru_pud-dep-det.html) – [discourse](ru_pud-dep-discourse.html) – [expl](ru_pud-dep-expl.html) – [fixed](ru_pud-dep-fixed.html) – [flat](ru_pud-dep-flat.html) – [flat:foreign](ru_pud-dep-flat-foreign.html) – [flat:name](ru_pud-dep-flat-name.html) – [iobj](ru_pud-dep-iobj.html) – [mark](ru_pud-dep-mark.html) – [nmod](ru_pud-dep-nmod.html) – [nsubj](ru_pud-dep-nsubj.html) – [nsubj:pass](ru_pud-dep-nsubj-pass.html) – [nummod](ru_pud-dep-nummod.html) – [nummod:entity](ru_pud-dep-nummod-entity.html) – [nummod:gov](ru_pud-dep-nummod-gov.html) – [obj](ru_pud-dep-obj.html) – [obl](ru_pud-dep-obl.html) – [obl:agent](ru_pud-dep-obl-agent.html) – [orphan](ru_pud-dep-orphan.html) – [parataxis](ru_pud-dep-parataxis.html) – [parataxis:discourse](ru_pud-dep-parataxis-discourse.html) – [punct](ru_pud-dep-punct.html) – [root](ru_pud-dep-root.html) – [vocative](ru_pud-dep-vocative.html) – [xcomp](ru_pud-dep-xcomp.html)
+[acl](ru_pud-dep-acl.html) – [acl:relcl](ru_pud-dep-acl-relcl.html) – [advcl](ru_pud-dep-advcl.html) – [advmod](ru_pud-dep-advmod.html) – [amod](ru_pud-dep-amod.html) – [appos](ru_pud-dep-appos.html) – [aux](ru_pud-dep-aux.html) – [aux:pass](ru_pud-dep-aux-pass.html) – [case](ru_pud-dep-case.html) – [cc](ru_pud-dep-cc.html) – [ccomp](ru_pud-dep-ccomp.html) – [compound](ru_pud-dep-compound.html) – [conj](ru_pud-dep-conj.html) – [cop](ru_pud-dep-cop.html) – [csubj](ru_pud-dep-csubj.html) – [det](ru_pud-dep-det.html) – [discourse](ru_pud-dep-discourse.html) – [expl](ru_pud-dep-expl.html) – [fixed](ru_pud-dep-fixed.html) – [flat](ru_pud-dep-flat.html) – [flat:foreign](ru_pud-dep-flat-foreign.html) – [flat:name](ru_pud-dep-flat-name.html) – [iobj](ru_pud-dep-iobj.html) – [mark](ru_pud-dep-mark.html) – [nmod](ru_pud-dep-nmod.html) – [nsubj](ru_pud-dep-nsubj.html) – [nsubj:pass](ru_pud-dep-nsubj-pass.html) – [nummod](ru_pud-dep-nummod.html) – [nummod:entity](ru_pud-dep-nummod-entity.html) – [nummod:gov](ru_pud-dep-nummod-gov.html) – [obj](ru_pud-dep-obj.html) – [obl](ru_pud-dep-obl.html) – [obl:agent](ru_pud-dep-obl-agent.html) – [obl:float](ru_pud-dep-obl-float.html) – [orphan](ru_pud-dep-orphan.html) – [parataxis](ru_pud-dep-parataxis.html) – [parataxis:discourse](ru_pud-dep-parataxis-discourse.html) – [punct](ru_pud-dep-punct.html) – [root](ru_pud-dep-root.html) – [vocative](ru_pud-dep-vocative.html) – [xcomp](ru_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -717,6 +717,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (2)</li>
       <li>VERB-Fin--NOUN-Gen (31)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(из) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(на) (1)</li>
       <li>VERB-Fin--NOUN-Nom (539)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(такой) (1)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
@@ -738,7 +739,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Gen (1)</li>
       <li>VERB-Fin--NOUN-Acc (314)</li>
       <li>VERB-Fin--NOUN-Gen (40)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(на) (1)</li>
       <li>VERB-Fin--NOUN-Ins (11)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>
       <li>VERB-Fin--PRON-Acc (50)</li>
@@ -791,6 +791,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>parataxis:discourse</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:float</a>, <a>parataxis:discourse</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

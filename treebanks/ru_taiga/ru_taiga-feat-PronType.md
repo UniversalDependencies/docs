@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Emp`, `Exc` are language-specific.
 It occurs with 10 different values: `Dem`, `Emp`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-184193 tokens (10%) have a non-empty value of `PronType`.
+184195 tokens (10%) have a non-empty value of `PronType`.
 1294 types (1%) occur at least once with a non-empty value of `PronType`.
 289 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (88825; 5% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (63833; 4% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (31535; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (88826; 5% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (63833; 4% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (31536; 2% instances).
 
 ### `PRON`
 
-88825 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+88826 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66902; 75%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (64286; 72%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (45554; 51%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66903; 75%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (64286; 72%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (45553; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Neg` (1820; 2% of non-empty `PronType`): <em>ничего, никто, никому, никого, что, чем, ничем, ничто, кого, кем</em>
 * `Prs` (62722; 71% of non-empty `PronType`): <em>я, он, она, мы, они, ты, мне, меня, его, вы</em>
 * `Rcp` (822; 1% of non-empty `PronType`): <em>друг, друга, другу, другом, дружке, дружку, друге, дружкой</em>
-* `Rel` (4142; 5% of non-empty `PronType`): <em>что, кто, чем, чего, кого, кому, чём, кем, чему, ком</em>
+* `Rel` (4143; 5% of non-empty `PronType`): <em>что, кто, чем, чего, кого, кому, чём, кем, чему, ком</em>
 * `Tot` (4097; 5% of non-empty `PronType`): <em>все, всё, всего, всем, всех, многие, многом, многое, всему, прочим</em>
 
 <table>
@@ -125,9 +125,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-31535 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `PronType`.
+31536 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (28882; 92%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (28883; 92%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -137,8 +137,8 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Int` (2212; 7% of non-empty `PronType`): <em>как, почему, где, зачем, куда, чего, откуда, что, когда, отчего</em>
 * `Neg` (888; 3% of non-empty `PronType`): <em>никогда, никак, ничего, никуда, нигде, нисколько, как, нихера, причем, Нифига</em>
 * `Rel` (3962; 13% of non-empty `PronType`): <em>как, где, куда, когда, почему, откуда, зачем, насколько, сколько, к.</em>
-* `Tot` (5344; 17% of non-empty `PronType`): <em>более, всегда, больше, все, иногда, наиболее, немного, менее, всё, иначе</em>
-* `EMPTY` (52483): <em>уже, очень, еще, например, ещё, совсем, вдруг, снова, конечно, часто</em>
+* `Tot` (5345; 17% of non-empty `PronType`): <em>более, всегда, больше, все, иногда, наиболее, немного, менее, всё, иначе</em>
+* `EMPTY` (52469): <em>уже, очень, еще, например, ещё, совсем, вдруг, снова, конечно, часто</em>
 
 <table>
   <tr><th>Paradigm <i>как</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Neg</tt></th><th><tt>Ind</tt></th><th><tt>Exc</tt></th></tr>
@@ -159,8 +159,8 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>ADV --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (291; 68%),
 <tt>PRON --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (90; 53%),
 <tt>PRON --[<tt><a href="ru_taiga-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (53; 73%),
-<tt>PRON --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (41; 63%),
-<tt>PRON --[<tt><a href="ru_taiga-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (27; 100%),
+<tt>PRON --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (42; 64%),
+<tt>PRON --[<tt><a href="ru_taiga-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (28; 100%),
 <tt>DET --[<tt><a href="ru_taiga-dep-mark.html">mark</a></tt>]--> PRON</tt> (13; 81%),
 <tt>PRON --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> PRON</tt> (10; 56%),
 <tt>PRON --[<tt><a href="ru_taiga-dep-mark.html">mark</a></tt>]--> PRON</tt> (10; 53%).

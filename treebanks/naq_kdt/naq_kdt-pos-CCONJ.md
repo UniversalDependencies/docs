@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>tsî, xawe, of, _, maar, en</em>
 
 The 10 most frequent `CCONJ` types:  <em>tsî, xawe, of, maar, en</em>
 
-The 10 most frequent ambiguous lemmas: <em>xawe</em> (<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 120, <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="naq_kdt-pos-SCONJ.html">SCONJ</a></tt> 3), <em>_</em> (<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> 2142, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 44, <tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 6), <em>maar</em> (<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>xawe</em> (<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 120, <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="naq_kdt-pos-SCONJ.html">SCONJ</a></tt> 3), <em>_</em> (<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> 2154, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 44, <tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> 1), <em>maar</em> (<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>xawe</em> (<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 76, <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> 7, <tt><a href="naq_kdt-pos-SCONJ.html">SCONJ</a></tt> 3), <em>maar</em> (<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> 1)
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>xawe</em> (<tt><a href="naq_kdt-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.833333 (the average of all parts of speech is 1.374017).
+The form / lemma ratio of `CCONJ` is 0.833333 (the average of all parts of speech is 1.375985).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>tsî</em>.
 
@@ -49,7 +49,7 @@ Examples: <em>tsî, xawe, of, maar</em>
 
 `CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="naq_kdt-dep-cc.html">cc</a></tt> (638; 98% instances), <tt><a href="naq_kdt-dep-conj.html">conj</a></tt> (10; 2% instances), <tt><a href="naq_kdt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="naq_kdt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (425; 65% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (98; 15% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (53; 8% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (24; 4% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (24; 4% instances), <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="naq_kdt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (425; 65% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (98; 15% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (54; 8% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (24; 4% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (24; 4% instances), <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> (3; 0% instances),  (3; 0% instances), <tt><a href="naq_kdt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 650 (100%) `CCONJ` nodes are leaves.
 

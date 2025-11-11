@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3028 nodes (13%) are attached to their parents as `punct`.
+3030 nodes (13%) are attached to their parents as `punct`.
 
-2862 instances of `punct` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.01849405548217.
+2903 instances of `punct` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.04026402640264.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (1338; 44% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (1033; 34% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (226; 7% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (118; 4% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (82; 3% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (79; 3% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (73; 2% instances), <tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (70; 2% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="ja_pudluw-pos-DET.html">DET</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (1338; 44% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (1035; 34% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (234; 8% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (119; 4% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (79; 3% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (75; 2% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (73; 2% instances), <tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (70; 2% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ja_pudluw-pos-DET.html">DET</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
 3	言っ	言う	VERB	動詞-一般-五段-ワア行	_	5	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=イウ,言う,言っ,言う,イッ,,,イウ,イウ,言う
 4	ている	ている	AUX	助動詞-上一段-ア行	_	3	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=テ;イル,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
-5	こと	事	NOUN	名詞-普通名詞-一般	_	10	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コト,事,こと,こと,コト,,,コト,コト,事
+5	こと	事	NOUN	名詞-普通名詞-一般	_	10	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コト,事,こと,こと,コト,,,コト,コト,事
 6	と	と	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 7	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 8	やっ	遣る	VERB	動詞-一般-五段-ラ行	_	10	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ヤル,遣る,やっ,やる,ヤッ,,,ヤル,ヤル,遣る

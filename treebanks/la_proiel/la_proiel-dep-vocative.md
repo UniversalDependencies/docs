@@ -22,11 +22,11 @@ The following 26 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 vocative	color:blue
-1	exi	exeo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.8
-2	spiritus	spiritus	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=MARK_5.8
-3	inmunde	immundus	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=MARK_5.8
-4	ab	ab	ADP	R-	_	5	case	_	ref=MARK_5.8
-5	homine	homo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	ref=MARK_5.8
+1	exi	exeo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_5.8
+2	spiritus	spiritus	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	Ref=MARK_5.8
+3	inmunde	immundus	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	Ref=MARK_5.8
+4	ab	ab	ADP	R-	_	5	case	_	Ref=MARK_5.8
+5	homine	homo	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	Ref=MARK_5.8
 
 ~~~
 
@@ -37,11 +37,11 @@ The following 26 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 vocative	color:blue
-1	Saule	Saulus	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	ref=ACTS_9.4
-2	Saule	Saulus	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	ref=ACTS_9.4
-3	quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obl	_	ref=ACTS_9.4
-4	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obj	_	ref=ACTS_9.4
-5	persequeris	persequor	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=ACTS_9.4
+1	Saule	Saulus	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Ref=ACTS_9.4
+2	Saule	Saulus	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Ref=ACTS_9.4
+3	quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obl	_	Ref=ACTS_9.4
+4	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Ref=ACTS_9.4
+5	persequeris	persequor	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Ref=ACTS_9.4
 
 ~~~
 
@@ -52,15 +52,15 @@ The following 26 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 vocative	color:blue
-1	propter	propter	ADP	R-	_	2	case	_	ref=ROM_2.1
-2	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	advcl	_	ref=ROM_2.1
-3	inexcusabilis	inexcusabilis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=ROM_2.1
-4	es	sum	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=ROM_2.1
-5	o	o	INTJ	I-	_	6	discourse	_	ref=ROM_2.1
-6	homo	homo	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=ROM_2.1
-7	omnis	omnis	DET	Px	Case=Voc|Gender=Masc|Number=Sing	6	det	_	ref=ROM_2.1
-8	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	ref=ROM_2.1
-9	iudicas	iudico	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	ref=ROM_2.1
+1	propter	propter	ADP	R-	_	2	case	_	Ref=ROM_2.1
+2	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	advcl	_	Ref=ROM_2.1
+3	inexcusabilis	inexcusabilis	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Ref=ROM_2.1
+4	es	sum	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=ROM_2.1
+5	o	o	INTJ	I-	_	6	discourse	_	Ref=ROM_2.1
+6	homo	homo	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	Ref=ROM_2.1
+7	omnis	omnis	DET	Px	Case=Voc|Gender=Masc|Number=Sing	6	det	_	Ref=ROM_2.1
+8	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	Ref=ROM_2.1
+9	iudicas	iudico	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	Ref=ROM_2.1
 
 ~~~
 

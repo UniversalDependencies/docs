@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
 1	Ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	вӧдитам	вӧдитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
+2	вӧдитам	вӧдитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	картапель	картапель	NOUN	N	Case=Nom|Number=Sing	2	obj	_	OrigLang=ru|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -37,9 +37,9 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 6 obj	color:blue
 1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
-2	велэдчи	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
+2	велэдчи	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
-4	быдтіс	быдтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	_
+4	быдтіс	быдтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 5	баб	баб	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	OrigLang=ru
 6	миянумес	ми	PRON	Pron	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -54,7 +54,7 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 1 obj	color:blue
 1	Коймедсэ	коймӧд	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=3	2	obj	_	GTtags=Err/Dial,Ord,Sg,Acc,PxSg3
-2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3
 3	да	да	CCONJ	CC	_	6	cc	_	_
 4	бара	бара	ADV	Adv	_	6	advmod	_	GTtags=Parenthetic
 5	же	жӧ	PART	Pcle	_	6	advmod	_	GTtags=Err/Dial

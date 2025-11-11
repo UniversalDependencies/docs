@@ -95,7 +95,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 1 discourse	color:blue
 1	C.	c.	X	_	_	7	discourse	_	_
-2	Mientras	mientras	ADV	_	_	7	advmod	_	_
+2	Mientras	mientras	ADV	_	ExtPos=ADV	7	advmod	_	_
 3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 5	Hidrieo	hidrieo	NOUN	_	_	7	nsubj	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-561 nodes (4%) are attached to their parents as `mark`.
+3614 nodes (4%) are attached to their parents as `mark`.
 
-293 instances of `mark` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.70409982174688.
+2192 instances of `mark` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.81986718317654.
 
-The following 16 pairs of parts of speech are connected with `mark`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (306; 55% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (165; 29% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (51; 9% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (12; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `mark`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (1835; 51% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1222; 34% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (304; 8% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (107; 3% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (27; 1% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (23; 1% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (20; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (15; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,12 +51,12 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 4	خوش	خوش	ADJ	JJ	Case=Nom|Degree=Pos	5	compound	_	_
 5	ڪرڻ	ڪر	VERB	VM	Aspect=Imp|VerbForm=Inf	12	advcl	_	_
 6	لاءِ	لاءِ	ADP	PSP	_	5	mark	_	_
-7	کيس	کي	ADP	PSPX	Case=Acc|Number=Sing|Person=3	12	obl	_	_
+7	کيس	کي	ADP	PSPX	Case=Acc|Number=Sing|Person=3	12	iobj	_	_
 8	ڪـُن	ڪـُن	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
 9	مان	مان	ADP	PSPL	_	8	case	_	_
 10	هڪڙي	هڪڙو	ADJ	JJC	Case=Acc|Gender=Fem|Number=Sing	11	amod	_	_
 11	ٽٻي	ٽٻي	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	12	obj	_	_
-12	ڏياري	ڏيار	VERB	VM	Gender=Fem|Number=Sing	0	root	_	_
+12	ڏياري	ڏيار	VERB	VM	Aspect=Perf|Gender=Fem|Number=Sing	0	root	_	_
 13	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 10 mark	color:blue
-1	انهيءَ	ان	DET	PRD	Case=Acc|Number=Sing	3	obl	_	_
+1	انهيءَ	ان	DET	PRD	Case=Acc|Number=Sing|PronType=Dem	3	obl	_	_
 2	تي	تي	ADP	PSPL	_	1	case	_	_
 3	ٻڪرين	ٻڪر	VERB	VM	Number=Plur	9	nsubj	_	_
 4	،	،	PUNCT	PUNCT	_	3	punct	_	_

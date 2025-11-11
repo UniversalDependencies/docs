@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="el_lesbian-pos-X.ht
 
 ### `X`
 
-1 <tt><a href="el_lesbian-pos-X.html">X</a></tt> tokens (17% of all `X` tokens) have a non-empty value of `Style`.
+1 <tt><a href="el_lesbian-pos-X.html">X</a></tt> tokens (13% of all `X` tokens) have a non-empty value of `Style`.
 
 The most frequent other feature values with which `X` and `Style` co-occurred: <tt><a href="el_lesbian-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1; 100%).
 

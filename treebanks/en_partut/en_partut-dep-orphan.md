@@ -79,44 +79,43 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 29 32 orphan	color:blue
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 28 31 orphan	color:blue
 1	He	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
 2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	replaced	replace	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 4	around	around	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	turn	turn	NOUN	S	Number=Sing	3	obl	_	_
-7	of	of	ADP	E	_	11	case	_	_
-8	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
-9	16	16	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
-10	th	th	ADJ	A	Degree=Pos	9	amod	_	_
-11	century	century	NOUN	S	Number=Sing	6	nmod	_	_
-12	by	by	ADP	E	_	13	case	_	_
-13	Robert	Robert	PROPN	SP	_	3	obl	_	_
-14	Armin	Armin	PROPN	SP	_	13	flat	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	13	punct	_	_
-16	who	who	PRON	PR	PronType=Rel	17	nsubj	_	_
-17	played	play	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
-18	roles	role	NOUN	S	Number=Plur	17	obj	_	_
-19	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	21	case	_	_
-20	as	as	ADP	E	_	19	fixed	_	_
-21	Touchstone	Touchstone	PROPN	SP	_	18	nmod	_	_
-22	in	in	ADP	E	_	25	case	_	_
-23	As	as	SCONJ	CS	_	25	mark	_	_
-24	You	you	PRON	PE	Person=2|PronType=Prs	25	nsubj	_	_
-25	Like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	17	advcl	_	_
-26	It	it	PRON	PE	Person=3|PronType=Prs	25	obj	_	_
-27	and	and	CCONJ	CC	_	29	cc	_	_
-28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
-29	fool	fool	NOUN	S	Number=Sing	17	conj	_	_
-30	in	in	ADP	E	_	32	case	_	_
-31	King	King	NOUN	S	Number=Sing	32	nmod:desc	_	_
-32	Lear	Lear	PROPN	SP	_	29	orphan	_	SpaceAfter=No
-33	.	.	PUNCT	FS	_	3	punct	_	_
+7	of	of	ADP	E	_	10	case	_	_
+8	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
+9	16th	16th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	10	amod	_	_
+10	century	century	NOUN	S	Number=Sing	6	nmod	_	_
+11	by	by	ADP	E	_	12	case	_	_
+12	Robert	Robert	PROPN	SP	_	3	obl	_	_
+13	Armin	Armin	PROPN	SP	_	12	flat	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	12	punct	_	_
+15	who	who	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	played	play	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
+17	roles	role	NOUN	S	Number=Plur	16	obj	_	_
+18	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	20	case	_	_
+19	as	as	ADP	E	_	18	fixed	_	_
+20	Touchstone	Touchstone	PROPN	SP	_	17	nmod	_	_
+21	in	in	ADP	E	_	24	case	_	_
+22	As	as	SCONJ	CS	_	24	mark	_	_
+23	You	you	PRON	PE	Person=2|PronType=Prs	24	nsubj	_	_
+24	Like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+25	It	it	PRON	PE	Person=3|PronType=Prs	24	obj	_	_
+26	and	and	CCONJ	CC	_	28	cc	_	_
+27	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
+28	fool	fool	NOUN	S	Number=Sing	16	conj	_	_
+29	in	in	ADP	E	_	31	case	_	_
+30	King	King	NOUN	S	Number=Sing	31	nmod:desc	_	_
+31	Lear	Lear	PROPN	SP	_	28	orphan	_	SpaceAfter=No
+32	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

@@ -132,12 +132,12 @@ The most frequent other feature values with which `PRON` and `NameType` co-occur
 The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1114; 94%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (24; 89%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-advcl-pred.html">advcl:pred</a></tt>]--> PROPN</tt> (7; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> PROPN</tt> (7; 54%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (7; 100%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5; 56%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3; 60%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> PROPN</tt> (3; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2; 67%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-obl-arg.html">obl:arg</a></tt>]--> PROPN</tt> (2; 100%).
+<tt>ADJ --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (1; 100%).
 

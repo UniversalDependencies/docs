@@ -45,9 +45,9 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 3	agjas	agj	NOUN	_	Case=Ine|Number=Sing	1	obl	_	_
 4	čoma	čoma	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
 5	vepsläine	vepsläine	ADJ	_	Case=Nom|Number=Sing	6	amod	_	_
-6	der'oun	der'oun	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	_
+6	derʼoun	derʼoun	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	_
 7	–	–	PUNCT	_	_	8	punct	_	_
-8	Päžar'	Päžar'	PROPN	_	Case=Nom|Number=Sing	6	appos	_	_
+8	Päžarʼ	Päžarʼ	PROPN	_	Case=Nom|Number=Sing	6	appos	_	_
 9	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

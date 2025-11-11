@@ -191,7 +191,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (64; 83%),
+<tt>VERB --[<tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (65; 83%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (63; 89%),
 <tt>VERB --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (37; 77%),
 <tt>NOUN --[<tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (28; 60%),

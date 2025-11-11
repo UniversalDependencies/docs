@@ -32,5 +32,5 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (2; 100% of non-empty `Voice`): การถูก
-* `EMPTY` (4649): มี, ให้, อยู่, ใช้, ทำ, รับ, กล่าว, ทำให้, เกิด, คือ
+* `EMPTY` (4652): มี, ให้, อยู่, ใช้, ทำ, รับ, กล่าว, ทำให้, เกิด, คือ
 

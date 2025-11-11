@@ -6,21 +6,18 @@ udver: '2'
 
 ## Treebank Statistics: UD_Arabic-PUD: POS Tags: `CCONJ`
 
-There are 6 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 653 `CCONJ` tokens (3%).
+There are 7 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 755 `CCONJ` tokens (4%).
 Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 8 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: وَ، أَو، بَل، ثُمَّ، حَتَّى، ل`كِنَّ
+The 10 most frequent `CCONJ` lemmas: وَ، و، أَو، بَل، ثُمَّ، حَتَّى، ل`كِنَّ
 
 The 10 most frequent `CCONJ` types:  و، أو، بل، ثم، حتى، لكن
 
 The 10 most frequent ambiguous lemmas: ثُمَّ (<tt><a href="ar_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 3), حَتَّى (<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 1), ل`كِنَّ (<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> 33, <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  و (<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 608, <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 102), ثم (<tt><a href="ar_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 3), حتى (<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 1), لكن (<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> 40, <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 24, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  ثم (<tt><a href="ar_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 3), حتى (<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> 25, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 1), لكن (<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> 40, <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 24, <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
-* و
-  * <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 608: إن ما تقول ه <b>و</b> ما تفعل ه ... في الواقع , إن ه أمرٌ لا يصدق .
-  * <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 102: <b>و</b> يقول التقرير : " نطبق اليوم عقوبات ب استخدام ضوءٍ قوي " .
 * ثم
   * <tt><a href="ar_pud-pos-PART.html">PART</a></tt> 5: <b>ثم</b> ينتهي الإعلان .
   * <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> 3: بدأت أولى اليزيديات ب البكاء , <b>ثم</b> تبعت ها إحدى صديقات ها .
@@ -35,7 +32,7 @@ The 10 most frequent ambiguous types:  و (<tt><a href="ar_pud-pos-CCONJ.html">C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.381137).
+The form / lemma ratio of `CCONJ` is 0.857143 (the average of all parts of speech is 1.380334).
 
 The 1st highest number of forms (1) was observed with the lemma “أَو”: أو.
 
@@ -48,11 +45,11 @@ The 3rd highest number of forms (1) was observed with the lemma “ثُمَّ”
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ar_pud-dep-cc.html">cc</a></tt> (652; 100% instances), <tt><a href="ar_pud-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ar_pud-dep-cc.html">cc</a></tt> (754; 100% instances), <tt><a href="ar_pud-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (308; 47% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (181; 28% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (87; 13% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (47; 7% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (11; 2% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (332; 44% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (252; 33% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (89; 12% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (48; 6% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (16; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances)
 
-651 (100%) `CCONJ` nodes are leaves.
+753 (100%) `CCONJ` nodes are leaves.
 
 0 (0%) `CCONJ` nodes have one child.
 

@@ -22,7 +22,7 @@ The following 20 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 case	color:blue
-1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	La	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cifra	cifra	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	massima	massimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
 4	consentita	consentire	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	2	acl	_	_
@@ -51,7 +51,7 @@ The following 20 pairs of parts of speech are connected with `case`: <tt><a href
 7	provai	provare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	_
 8	a	a	ADP	IN	_	9	mark	_	_
 9	svelare	svelare	VERB	VB	Voice=Act	7	xcomp	_	_
-10	un	uno	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	etimo	etimo	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -64,7 +64,7 @@ The following 20 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 case	color:blue
-1	L'	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	SpaceAfter=No
+1	L'	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	Universiade	Universiade	PROPN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
 3	invernale	invernale	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
 4	di	di	ADP	IN	_	6	case	_	_

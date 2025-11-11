@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	GTtags=Pl,Nom,Def
 4	тя	тя	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	5	det	_	GTtags=Dem,Sg,Nom,Indef
 5	празднику	праздник	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	6	obl	_	GTtags=SP,Lat,Indef
-6	сашендольхть	сашендомс	VERB	V	Mood=Sub|Number[subj]=Plur|Person[subj]=3	0	root	_	GTtags=Conj,ScPl3
+6	сашендольхть	сашендомс	VERB	V	Mood=Sub|Number[subj]=Plur|Person[subj]=3|VerbForm=Fin	0	root	_	GTtags=Conj,ScPl3
 7	сятка	ся	PRON	Pron	Case=Nom|Clitic=AddGA|Definite=Ind|Number=Plur|PronType=Dem	6	dislocated	_	GTtags=Dem,Pl,Nom,Indef,Clt/Add|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	12	punct	_	_
 9	кие	кие	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	12	nsubj	_	GTtags=Interr,Sg,Nom

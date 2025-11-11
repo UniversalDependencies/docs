@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `AUX`
 
 There are 7 `AUX` lemmas (0%), 72 `AUX` types (1%) and 634 `AUX` tokens (3%).
-Out of 17 observed tags, the rank of `AUX` is: 13 in number of lemmas, 7 in number of types and 10 in number of tokens.
+Out of 17 observed tags, the rank of `AUX` is: 12 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>ser, haber, estar, poder, deber, do, soler</em>
 

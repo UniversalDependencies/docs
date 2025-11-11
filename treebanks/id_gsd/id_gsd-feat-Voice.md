@@ -18,18 +18,15 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.htm
 
 10789 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (87% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10729; 99%).
-
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (7381; 68% of non-empty `Voice`): <em>menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, adanya</em>
+* `Act` (7381; 68% of non-empty `Voice`): <em>menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, berasal</em>
 * `Pass` (3408; 32% of non-empty `Voice`): <em>terletak, digunakan, dikenal, terjadi, disebut, terdapat, terdiri, dilakukan, ditemukan, dirilis</em>
 * `EMPTY` (1654): <em>merupakan, ada, termasuk, berhasil, belajar, hidup, tahu, gagal, jadi, selesai</em>
 
 <table>
   <tr><th>Paradigm <i>jadi</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>jadi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>menjadi, menjadikan</em></td><td><em>dijadikan</em></td></tr>
+  <tr><td><tt></tt></td><td><em>menjadi, menjadikan, jadi</em></td><td><em>dijadikan</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Voice`
@@ -37,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (699; 67%),
 <tt>VERB --[<tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (602; 51%),
-<tt>VERB --[<tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (173; 55%),
+<tt>VERB --[<tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (172; 55%),
 <tt>VERB --[<tt><a href="id_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (132; 53%),
 <tt>VERB --[<tt><a href="id_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (129; 50%),
 <tt>VERB --[<tt><a href="id_gsd-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (1; 100%).

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="cy_ccg-dep-nmod-agent.html">nmod:agent</a></tt>, <tt><a href="cy_ccg-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-113 nodes (0%) are attached to their parents as `nmod:redup`.
+115 nodes (0%) are attached to their parents as `nmod:redup`.
 
-98 instances of `nmod:redup` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21238938053097.
+100 instances of `nmod:redup` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.20869565217391.
 
-The following 2 pairs of parts of speech are connected with `nmod:redup`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (102; 90% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (11; 10% instances).
+The following 2 pairs of parts of speech are connected with `nmod:redup`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (104; 90% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (11; 10% instances).
 
 
 ~~~ conllu

@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 nsubj:pass	color:blue
-1	When	when	ADV	WRB	PronType=Int	4	advmod	4:advmod	Discourse=context-circumstance:117->118:0:dm-when-586|PDTB=Explicit:Temporal.Synchronous:when:_:591-595:586-590|XML=<hi rend:::"italic">
+1	When	when	ADV	WRB	PronType=Int	4	advmod	4:advmod	Discourse=context-circumstance:117->118:0:dm-when-586-_|PDTB=Explicit:Temporal.Synchronous:when:_:591-595:586-590|XML=<hi rend:::"italic">
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(163-person-acc:com-nnnnn-cf1-1-sgl)
 3	next	next	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
 4	meet	meet	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	SpaceAfter=No
@@ -91,7 +91,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 27	level	level	NOUN	NN	Number=Sing	28	compound	28:compound	Entity=12)
 28	class	class	NOUN	NN	Number=Sing	5	obl	5:obl:as	Entity=1)6)|SpaceAfter=No
 29	,	,	PUNCT	,	_	33	punct	33:punct	_
-30	and	and	CCONJ	CC	_	33	cc	33:cc	Discourse=joint-sequence_m:6->3:2:dm-and-37+dm-then-38|PDTB=Explicit:Expansion.Conjunction:and:37:8-36:38-47
+30	and	and	CCONJ	CC	_	33	cc	33:cc	Discourse=joint-sequence_m:6->3:2:dm-and-37-_+dm-then-38-_|PDTB=Explicit:Expansion.Conjunction:and:37:8-36:38-47
 31	then	then	ADV	RB	PronType=Dem	33	advmod	33:advmod	PDTB=Explicit:Temporal.Asynchronous.Precedence:then:38:8-36:37,39-47
 32	by	by	ADP	IN	_	33	case	33:case	_
 33	Mukkai	Mukkai	PROPN	NNP	Number=Sing	5	conj	5:conj:and	Entity=(13-person-new-nnnnn-cf5-1,2-sgl

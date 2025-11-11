@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-655 nodes (1%) are attached to their parents as `fixed`.
+667 nodes (1%) are attached to their parents as `fixed`.
 
-655 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01526717557252.
+667 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.01499250374813.
 
-The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (396; 60% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (188; 29% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (38; 6% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (15; 2% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (10; 2% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (398; 60% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (188; 28% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (44; 7% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (15; 2% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

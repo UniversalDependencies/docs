@@ -25,17 +25,17 @@ The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲥⲉⲡⲥⲱⲡ	ⲥⲟⲡⲥⲡ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲥⲉⲡⲥⲱⲡ	ⲥⲟⲡⲥⲡ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	_
 7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
-8	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	4	advcl	_	_
+8	ϫⲱ	ϫⲱ	VERB	V	Mood=Ind|VerbForm=Fin	4	advcl	_	_
 9	ⲙⲙⲟ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
 11	ⲛⲁ	ⲛⲁ	ADP	PREP	_	12	case	_	_
 12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 13	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	14	mark	_	_
-14	ϫⲟⲟⲩ	ϫⲟⲟⲩ	VERB	V	VerbForm=Fin	8	ccomp	_	_
+14	ϫⲟⲟⲩ	ϫⲟⲟⲩ	VERB	V	Mood=Ind|VerbForm=Fin	8	ccomp	_	_
 15	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	14	obj	_	_
 16	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	14	advmod	_	_
 17	ⲉ	ⲉ	ADP	PREP	_	19	case	_	_
@@ -56,21 +56,21 @@ The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 3	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	Orig=ⲉ⳯ⲧ
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
 5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
-6	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	2	acl:relcl	_	_
+6	ϫⲟⲟ	ϫⲱ	VERB	V	Mood=Ind|VerbForm=Fin	2	acl:relcl	_	_
 7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	Entity=abstract)
 8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
 9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(plant
 10	ⲕⲛⲁⲁⲩ	ⲕⲛⲁⲁⲩ	NOUN	N	_	6	ccomp	_	_
 11	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	13	mark	_	_
 12	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-13	ⲙⲉϩ	ⲙⲟⲩϩ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	Entity=plant)
+13	ⲙⲉϩ	ⲙⲟⲩϩ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	10	acl:relcl	_	Entity=plant)
 14	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	10	advmod	_	_
-15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	10	cop	_	_
+15	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	10	cop	_	_
 16	,	,	PUNCT	PUNCT	_	18	punct	_	_
 17	ⲉ	ⲉ	PART	PREP	_	18	mark	_	_
-18	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	_	10	xcomp	_	_
+18	ⲧⲣⲉ	ⲧⲣⲉ	VERB	ACAUS	Mood=Ind	10	xcomp	_	_
 19	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
-20	ⲣⲛⲟⲉⲓⲧ	ⲣⲛⲟⲉⲓⲧ	VERB	V	VerbForm=Fin	18	xcomp	_	MSeg=ⲣ-ⲛⲟⲉⲓⲧ|Orig=ⲣ̄ⲛⲟⲉⲓⲧ
+20	ⲣⲛⲟⲉⲓⲧ	ⲣⲛⲟⲉⲓⲧ	VERB	V	Mood=Ind|VerbForm=Fin	18	xcomp	_	MSeg=ⲣ-ⲛⲟⲉⲓⲧ|Orig=ⲣ̄ⲛⲟⲉⲓⲧ
 21	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
@@ -85,7 +85,7 @@ The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=SCONJ	4	mark	_	_
 2	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	1	fixed	_	_
 3	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ϫⲱ	ϫⲱ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	_
 6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_

@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (187; 100% of non-empty `Polarity`): <em>inpossibile, impossibile, iniustum, inmeritus, inconveniens, ignari, impari, impius, incorruptibilis, inopina</em>
-* `EMPTY` (3787): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
+* `EMPTY` (3783): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (79) occur only with one value of `Polarity`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `SCONJ` and `Polarity` co-occu
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (111; 100% of non-empty `Polarity`): <em>nisi, ne, quin, ni, necubi</em>
-* `EMPTY` (2399): <em>ut, quod, cum, si, quia, quam, sicut, tanquam, quemadmodum, licet</em>
+* `EMPTY` (2394): <em>ut, quod, cum, si, quia, quam, sicut, tanquam, quemadmodum, licet</em>
 
 ### `DET`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (63; 100% of non-empty `Polarity`): <em>nichil, nemo, nil, neminem, nemini, nihil</em>
-* `EMPTY` (2660): <em>quod, que, qui, se, quo, eius, qua, quam, quid, nobis</em>
+* `EMPTY` (2662): <em>quod, que, qui, se, quo, eius, qua, quam, quid, nobis</em>
 
 ### `ADV`
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (46; 100% of non-empty `Polarity`): <em>nunquam, nondum, inconvenienter, iniuste, nequaquam, nichil, nimirum, inconsulte, inmediate, nequicquam</em>
-* `EMPTY` (3036): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
+* `EMPTY` (3039): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `Polarity`.
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (18; 100% of non-empty `Polarity`): <em>nescio, nescit, ignoscendum, ignoscet, incomitatum, indignata, infirmari, insanisse, insperate, invidere</em>
-* `EMPTY` (8212): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
+* `EMPTY` (8216): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
 
 ### `NOUN`
 
@@ -113,7 +113,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (14; 100% of non-empty `Polarity`): <em>nefas, negotii, negotium, ignominiam, incertitudine, incertitudo, iniuriam, iniurias</em>
-* `EMPTY` (10131): <em>Dei, Deus, natura, terra, parte, mundi, genus, re, ratio, Deo</em>
+* `EMPTY` (10130): <em>Dei, Deus, natura, terra, parte, mundi, genus, re, ratio, Deo</em>
 
 ## Relations with Agreement in `Polarity`
 

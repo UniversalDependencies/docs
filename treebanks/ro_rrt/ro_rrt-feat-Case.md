@@ -13,22 +13,22 @@ Some words have combined values of the feature; 2 combinations have been observe
 93973 tokens (43%) have a non-empty value of `Case`.
 15031 types (48%) occur at least once with a non-empty value of `Case`.
 7817 lemmas (45%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (36891; 17% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (31054; 14% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (11659; 5% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (7942; 4% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (5612; 3% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (495; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (320; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (36890; 17% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (31054; 14% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (11660; 5% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (7941; 4% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (5613; 3% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (495; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (320; 0% instances).
 
 ### `NOUN`
 
-36891 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (68% of all `NOUN` tokens) have a non-empty value of `Case`.
+36890 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (68% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29994; 81%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (27196; 74%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (27019; 73%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29993; 81%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (27195; 74%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (27019; 73%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (1; 0% of non-empty `Case`): <em>țări</em>
 * `Acc,Nom` (28805; 78% of non-empty `Case`): <em>cazul, conformitate, timpul, statele, Comisia, parte, față, cadrul, partea, fața</em>
-* `Dat,Gen` (8036; 22% of non-empty `Case`): <em>comisiei, consiliului, Uniunii, comunității, tratamentului, partidului, statului, țării, produselor, statelor</em>
+* `Dat,Gen` (8035; 22% of non-empty `Case`): <em>comisiei, consiliului, Uniunii, comunității, tratamentului, partidului, statului, țării, produselor, statelor</em>
 * `Nom` (1; 0% of non-empty `Case`): <em>ni</em>
 * `Voc` (48; 0% of non-empty `Case`): <em>domnule, Marino, Graham, Porcule, tovarășe, Labrador, bowling, doamne, Adonis, Benjamin</em>
-* `EMPTY` (17367): <em>ani, timp, loc, membre, mod, acord, art., b, lucru, a.</em>
+* `EMPTY` (17366): <em>ani, timp, loc, membre, mod, acord, art., b, lucru, a.</em>
 
 <table>
   <tr><th>Paradigm <i>țară</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th><th><tt>Acc</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 31054 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (31054; 100%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (31054; 100%), <tt><a href="ro_rrt-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (27752; 89%).
 
 `ADP` tokens may have the following values of `Case`:
 
@@ -54,14 +54,14 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `PRON`
 
-11659 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+11660 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10601; 91%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9597; 82%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8599; 74%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7723; 66%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7100; 61%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6685; 57%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (6197; 53%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10602; 91%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9598; 82%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8600; 74%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7724; 66%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7100; 61%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6686; 57%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (6197; 53%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (4835; 41% of non-empty `Case`): <em>se, s-, o, -l, îl, le, -se, mă, te, -o</em>
-* `Acc,Nom` (4977; 43% of non-empty `Case`): <em>care, ce, el, ea, ceea, aceasta, acestea, unul, una, ei</em>
+* `Acc,Nom` (4978; 43% of non-empty `Case`): <em>care, ce, el, ea, ceea, aceasta, acestea, unul, una, ei</em>
 * `Dat` (1438; 12% of non-empty `Case`): <em>își, -și, și-, îi, -i, i, i-, -mi, ne, le</em>
 * `Dat,Gen` (324; 3% of non-empty `Case`): <em>acestuia, acestora, celor, acesteia, lui, cărora, căruia, căreia, celui, ei</em>
 * `Nom` (85; 1% of non-empty `Case`): <em>eu, tu</em>
@@ -90,18 +90,20 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-7942 <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> tokens (66% of all `DET` tokens) have a non-empty value of `Case`.
+7941 <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> tokens (66% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ro_rrt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7742; 97%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6390; 80%), <tt><a href="ro_rrt-feat-Position.html">Position</a></tt><tt>=EMPTY</tt> (6056; 76%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (5659; 71%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5258; 66%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ro_rrt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7741; 97%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6389; 80%), <tt><a href="ro_rrt-feat-Position.html">Position</a></tt><tt>=EMPTY</tt> (6056; 76%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (5658; 71%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5258; 66%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc,Nom` (6380; 80% of non-empty `Case`): <em>o, un, acest, cel, orice, toate, această, aceste, cele, alte</em>
+* `Acc,Nom` (6379; 80% of non-empty `Case`): <em>o, un, acest, cel, orice, toate, această, aceste, cele, alte</em>
 * `Dat,Gen` (1562; 20% of non-empty `Case`): <em>lui, unei, unui, unor, acestor, acestei, acestui, tuturor, celor, altor</em>
 * `EMPTY` (4083): <em>a, al, ale, lui, lor, ei, multe, său, ai, anumite</em>
 
 <table>
   <tr><th>Paradigm <i>un</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="ro_rrt-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>un</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_rrt-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>un, -un</em></td><td><em>unui</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Position.html">Position</a></tt><tt>=Prenom</tt></tt></td><td><em>unii</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o, -o</em></td><td><em>unei</em></td></tr>
@@ -111,15 +113,15 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `ADJ`
 
-5612 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (37% of all `ADJ` tokens) have a non-empty value of `Case`.
+5613 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (37% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5596; 100%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5413; 96%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5182; 92%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4718; 84%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5597; 100%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5414; 96%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5182; 92%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4718; 84%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Acc,Nom` (4488; 80% of non-empty `Case`): <em>prezentul, prezenta, europeană, mică, română, maximă, necesară, românească, bună, nouă</em>
-* `Dat,Gen` (1124; 20% of non-empty `Case`): <em>europene, prezentului, prezentei, naționale, publice, române, românești, umane, comunitare, politice</em>
-* `EMPTY` (9686): <em>mare, asemenea, nou, necesare, mari, european, general, mici, vechi, chimice</em>
+* `Dat,Gen` (1125; 20% of non-empty `Case`): <em>europene, prezentului, prezentei, naționale, publice, române, românești, umane, comunitare, politice</em>
+* `EMPTY` (9684): <em>mare, asemenea, nou, necesare, mari, european, general, mici, vechi, chimice</em>
 
 <table>
   <tr><th>Paradigm <i>mare</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th></tr>
@@ -172,14 +174,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1950; 76%),
-<tt>ADP --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1284; 99%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1952; 76%),
+<tt>ADP --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1263; 99%),
 <tt>ADJ --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (200; 89%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (161; 51%),
-<tt>PRON --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (67; 100%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (56; 56%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (169; 52%),
+<tt>PRON --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (66; 100%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (59; 58%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-flat.html">flat</a></tt>]--> ADJ</tt> (52; 76%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (50; 78%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (47; 52%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> PRON</tt> (44; 65%).
+<tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> PRON</tt> (44; 65%),
+<tt>PRON --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (37; 80%),
+<tt>PRON --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (29; 97%).
 

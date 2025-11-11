@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 281 tokens (22%) have a non-empty value of `Person`.
 134 types (23%) occur at least once with a non-empty value of `Person`.
-64 lemmas (17%) occur at least once with a non-empty value of `Person`.
+61 lemmas (16%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> (105; 8% instances), <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> (102; 8% instances), <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> (74; 6% instances).
 
 ### `VERB`
@@ -22,10 +22,10 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (39; 37% of non-empty `Person`): <em>radoin, ajoin, el'genzin, meletan, muštan, pätin, sain, tahtoin, tegem, Toivotam</em>
+* `1` (39; 37% of non-empty `Person`): <em>radoin, ajoin, elʼgenzin, meletan, muštan, pätin, sain, tahtoin, tegem, Toivotam</em>
 * `2` (3; 3% of non-empty `Person`): <em>Muštat-ik, valičit, zavodit</em>
-* `3` (63; 60% of non-empty `Person`): <em>eläba, seižub, abutab, tuli, Oli-ik, Om, abutiba, ajelese, andoi, el'gendaižiba</em>
-* `EMPTY` (78): <em>tehta, eläda, el'geta, rata, Išttes, kaita, pagišta, panda, radmaha, sündnu</em>
+* `3` (63; 60% of non-empty `Person`): <em>eläba, seižub, abutab, tuli, Oli-ik, Om, abutiba, ajelese, andoi, eliba</em>
+* `EMPTY` (78): <em>tehta, eläda, elʼgeta, rata, Išttes, kaita, pagišta, panda, radmaha, sündnu</em>
 
 <table>
   <tr><th>Paradigm <i>eläda</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>

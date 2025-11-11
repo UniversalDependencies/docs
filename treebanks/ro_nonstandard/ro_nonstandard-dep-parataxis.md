@@ -46,7 +46,7 @@ The following 50 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT17.26
 3	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	Ref=MATT17.26|SpaceAfter=No
 4	:	:	PUNCT	COLON	_	7	punct	_	Ref=MATT17.26
-5	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT17.26
+5	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	7	case	_	Ref=MATT17.26
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	Ref=MATT17.26
 7	streini	străin	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	1	parataxis	_	Ref=MATT17.26|SpaceAfter=No
 8	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT17.26

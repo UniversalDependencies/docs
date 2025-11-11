@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="he_htb-dep-case.html">case</a></tt>.
 There are also 1 other language-specific subtypes of `case`: <tt><a href="he_htb-dep-case-gen.html">case:gen</a></tt>.
 
-1947 nodes (1%) are attached to their parents as `case:acc`.
+1946 nodes (1%) are attached to their parents as `case:acc`.
 
-1947 instances of `case:acc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44992295839753.
+1946 instances of `case:acc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45015416238438.
 
-The following 9 pairs of parts of speech are connected with `case:acc`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1431; 73% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (300; 15% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (171; 9% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case:acc`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1431; 74% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (299; 15% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (171; 9% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

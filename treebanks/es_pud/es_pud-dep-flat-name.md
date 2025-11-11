@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	para	para	ADP	IN	_	3	case	_	_
 3	CNN	CNN	PROPN	NNP	Number=Sing	1	obl	_	_
 4	Style	style	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
-5	acerca	acerca	ADV	RB	_	8	case	_	_
+5	acerca	acerca	ADV	RB	ExtPos=ADP	8	case	_	_
 6	de	de	ADP	IN	_	5	fixed	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	experiencia	experiencia	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No

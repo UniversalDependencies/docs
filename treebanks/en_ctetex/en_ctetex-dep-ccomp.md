@@ -22,24 +22,24 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 ccomp	color:blue
-1	Note	_	VERB	_	_	0	root	_	_
-2	that	_	SCONJ	_	_	6	mark	_	_
-3	the	_	DET	_	_	4	det	_	_
-4	NE	_	NOUN	_	_	6	nsubj:pass	_	_
-5	is	_	AUX	_	_	6	aux:pass	_	_
-6	allowed	_	VERB	_	_	1	ccomp	_	_
-7	to	_	PART	_	_	8	mark	_	_
-8	remain	_	VERB	_	_	6	xcomp	_	_
-9	in	_	ADP	_	_	11	case	_	_
-10	the	_	DET	_	_	11	det	_	_
-11	configuration	_	NOUN	_	_	8	obl	_	_
-12	and	_	CCONJ	_	_	16	cc	_	_
-13	no	_	DET	_	_	14	det	_	_
-14	recovery	_	NOUN	_	_	16	nsubj	_	_
-15	will	_	AUX	_	_	16	aux	_	_
-16	take	_	VERB	_	_	6	conj	_	_
-17	place	_	NOUN	_	_	16	obj	_	SpaceAfter=No
-18	.	_	PUNCT	_	_	1	punct	_	_
+1	Note	note	VERB	_	_	0	root	_	_
+2	that	that	SCONJ	_	_	6	mark	_	_
+3	the	the	DET	_	_	4	det	_	_
+4	NE	ne	NOUN	_	Number=Sing	6	nsubj:pass	_	_
+5	is	be	AUX	_	Number=Sing|Tense=Pres	6	aux:pass	_	_
+6	allowed	allow	VERB	_	Tense=Past	1	ccomp	_	_
+7	to	to	PART	_	_	8	mark	_	_
+8	remain	remain	VERB	_	_	6	xcomp	_	_
+9	in	in	ADP	_	_	11	case	_	_
+10	the	the	DET	_	_	11	det	_	_
+11	configuration	configuration	NOUN	_	Number=Sing	8	obl	_	_
+12	and	and	CCONJ	_	_	16	cc	_	_
+13	no	no	DET	_	_	14	det	_	_
+14	recovery	recovery	NOUN	_	Number=Sing	16	nsubj	_	_
+15	will	will	AUX	_	_	16	aux	_	_
+16	take	take	VERB	_	_	6	conj	_	_
+17	place	place	NOUN	_	Number=Sing	16	obj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -50,16 +50,16 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 ccomp	color:blue
-1	Have	_	VERB	_	_	0	root	_	_
-2	map	_	NOUN	_	_	4	nsubj	_	_
-3	be	_	AUX	_	_	4	cop	_	_
-4	able	_	ADJ	_	_	1	ccomp	_	_
-5	to	_	PART	_	_	6	mark	_	_
-6	show	_	VERB	_	_	4	xcomp	_	_
-7	quantity	_	NOUN	_	_	6	obj	_	_
-8	of	_	ADP	_	_	9	case	_	_
-9	pumpage	_	NOUN	_	_	7	nmod	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	1	punct	_	_
+1	Have	have	VERB	_	_	0	root	_	_
+2	map	map	NOUN	_	Number=Sing	4	nsubj	_	_
+3	be	be	AUX	_	Number=Sing|Tense=Pres	4	cop	_	_
+4	able	able	ADJ	_	_	1	ccomp	_	_
+5	to	to	PART	_	_	6	mark	_	_
+6	show	show	VERB	_	_	4	xcomp	_	_
+7	quantity	quantity	NOUN	_	Number=Sing	6	obj	_	_
+8	of	of	ADP	_	_	9	case	_	_
+9	pumpage	pumpage	NOUN	_	Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -70,45 +70,45 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 30	bgColor:blue
 # visual-style 30	fgColor:white
 # visual-style 30 33 ccomp	color:blue
-1	When	_	SCONJ	_	_	4	mark	_	_
-2	the	_	DET	_	_	3	det	_	_
-3	user	_	NOUN	_	_	4	nsubj	_	_
-4	selects	_	VERB	_	_	17	advcl	_	_
-5	“	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	Delete	_	VERB	_	_	4	obj	_	SpaceAfter=No
-7	”	_	PUNCT	_	_	6	punct	_	_
-8	and	_	CCONJ	_	_	13	cc	_	_
-9	a	_	DET	_	_	10	det	_	_
-10	route	_	NOUN	_	_	13	nsubj:pass	_	_
-11	has	_	AUX	_	_	13	aux	_	_
-12	been	_	AUX	_	_	13	aux:pass	_	_
-13	selected	_	VERB	_	_	4	conj	_	SpaceAfter=No
-14	,	_	PUNCT	_	_	4	punct	_	_
-15	FPMS	_	PROPN	_	_	17	nsubj	_	_
-16	shall	_	AUX	_	_	17	aux	_	_
-17	display	_	VERB	_	_	0	root	_	_
-18	a	_	DET	_	_	24	det	_	_
-19	standard	_	ADJ	_	_	24	amod	_	_
-20	Yes	_	INTJ	_	_	23	compound	_	SpaceAfter=No
-21	-	_	PUNCT	_	_	22	punct	_	SpaceAfter=No
-22	No	_	INTJ	_	_	20	conj	_	_
-23	message	_	NOUN	_	_	24	compound	_	_
-24	box	_	NOUN	_	_	17	obj	_	_
-25	that	_	PRON	_	_	26	nsubj	_	_
-26	states	_	VERB	_	_	24	acl:relcl	_	_
-27	“	_	PUNCT	_	_	30	punct	_	SpaceAfter=No
-28	Are	_	AUX	_	_	30	cop	_	_
-29	you	_	PRON	_	_	30	nsubj	_	_
-30	sure	_	ADJ	_	_	26	parataxis	_	_
-31	that	_	SCONJ	_	_	33	mark	_	_
-32	you	_	PRON	_	_	33	nsubj	_	_
-33	want	_	VERB	_	_	30	ccomp	_	_
-34	to	_	PART	_	_	35	mark	_	_
-35	delete	_	VERB	_	_	33	xcomp	_	_
-36	this	_	DET	_	_	37	det	_	_
-37	route	_	NOUN	_	_	35	obj	_	SpaceAfter=No
-38	?	_	PUNCT	_	_	17	punct	_	SpaceAfter=No
-39	”	_	PUNCT	_	_	38	punct	_	_
+1	When	when	SCONJ	_	_	4	mark	_	_
+2	the	the	DET	_	_	3	det	_	_
+3	user	user	NOUN	_	Number=Sing	4	nsubj	_	_
+4	selects	select	VERB	_	Number=Sing	17	advcl	_	_
+5	“	“	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Delete	delete	VERB	_	_	4	obj	_	SpaceAfter=No
+7	”	”	PUNCT	_	_	6	punct	_	_
+8	and	and	CCONJ	_	_	13	cc	_	_
+9	a	a	DET	_	_	10	det	_	_
+10	route	route	NOUN	_	Number=Sing	13	nsubj:pass	_	_
+11	has	have	AUX	_	_	13	aux	_	_
+12	been	be	AUX	_	Number=Sing|Tense=Past	13	aux:pass	_	_
+13	selected	select	VERB	_	Tense=Past	4	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	4	punct	_	_
+15	FPMS	FPMS	PROPN	_	_	17	nsubj	_	_
+16	shall	shall	AUX	_	_	17	aux	_	_
+17	display	display	VERB	_	_	0	root	_	_
+18	a	a	DET	_	_	24	det	_	_
+19	standard	standard	ADJ	_	_	24	amod	_	_
+20	Yes	yes	INTJ	_	_	23	compound	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	No	no	INTJ	_	_	20	conj	_	_
+23	message	message	NOUN	_	Number=Sing	24	compound	_	_
+24	box	box	NOUN	_	Number=Sing	17	obj	_	_
+25	that	that	PRON	_	_	26	nsubj	_	_
+26	states	state	VERB	_	Number=Sing	24	acl:relcl	_	_
+27	“	“	PUNCT	_	_	30	punct	_	SpaceAfter=No
+28	Are	be	AUX	_	Number=Plur|Tense=Pres	30	cop	_	_
+29	you	you	PRON	_	_	30	nsubj	_	_
+30	sure	sure	ADJ	_	_	26	parataxis	_	_
+31	that	that	SCONJ	_	_	33	mark	_	_
+32	you	you	PRON	_	_	33	nsubj	_	_
+33	want	want	VERB	_	_	30	ccomp	_	_
+34	to	to	PART	_	_	35	mark	_	_
+35	delete	delete	VERB	_	_	33	xcomp	_	_
+36	this	this	DET	_	_	37	det	_	_
+37	route	route	NOUN	_	Number=Sing	35	obj	_	SpaceAfter=No
+38	?	?	PUNCT	_	_	17	punct	_	SpaceAfter=No
+39	”	”	PUNCT	_	_	38	punct	_	_
 
 ~~~
 

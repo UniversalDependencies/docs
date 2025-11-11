@@ -61,15 +61,15 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cc:preconj	color:blue
-1	Expect	expect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+1	Expect	expect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	Supersense=v.cognition
 2	either	either	CCONJ	CC	_	3	cc:preconj	3:cc:preconj	_
-3	undercooked	undercook	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	_
+3	undercooked	undercook	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	Supersense=v.stative
 4	or	or	CCONJ	CC	_	5	cc	5:cc	_
 5	mushy	mushy	ADJ	JJ	Degree=Pos	3	conj	3:conj:or|6:amod	_
-6	food	food	NOUN	NN	Number=Sing	1	obj	1:obj	_
+6	food	food	NOUN	NN	Number=Sing	1	obj	1:obj	Supersense=n.FOOD
 7	and	and	CCONJ	CC	_	9	cc	9:cc	_
 8	lackluster	lackluster	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
-9	service	service	NOUN	NN	Number=Sing	6	conj	1:obj|6:conj:and	SpaceAfter=No
+9	service	service	NOUN	NN	Number=Sing	6	conj	1:obj|6:conj:and	SpaceAfter=No|Supersense=n.ACT
 10	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~

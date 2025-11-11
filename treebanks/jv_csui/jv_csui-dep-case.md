@@ -23,12 +23,12 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	Dheweke	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	3	nsubj	_	_
-2	arep	_	AUX	_	Polite=Infm	3	aux	_	_
-3	manggon	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	neng	_	ADP	_	Polite=Infm	5	case	_	_
-5	asrama	_	NOUN	_	Number=Sing	3	obl	_	SpaceAfter=No
-6	.	_	PUNCT	_	_	3	punct	_	_
+1	Dheweke	dhewek	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	3	nsubj	_	_
+2	arep	arep	AUX	_	Polite=Infm	3	aux	_	_
+3	manggon	panggon	VERB	_	Voice=Act	0	root	_	_
+4	neng	neng	ADP	_	Polite=Infm	5	case	_	_
+5	asrama	asrama	NOUN	_	Number=Sing	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -39,11 +39,11 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	Bapak	_	NOUN	_	Number=Sing	2	nsubj	_	_
-2	tindak	_	VERB	_	Mood=Ind|Polite=Elev|Voice=Act	0	root	_	_
-3	menyang	_	ADP	_	_	4	case	_	_
-4	Surabaya	_	PROPN	_	_	2	obl	_	SpaceAfter=No
-5	.	_	PUNCT	_	_	2	punct	_	_
+1	Bapak	bapak	NOUN	_	Number=Sing	2	nsubj	_	_
+2	tindak	tindak	VERB	_	Polite=Elev|Voice=Act	0	root	_	_
+3	menyang	menyang	ADP	_	_	4	case	_	_
+4	Surabaya	surabaya	PROPN	_	_	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -54,18 +54,18 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
-1	Saliyane	_	ADP	_	Polite=Infm	2	case	_	_
-2	iku	_	PRON	_	Polite=Infm|PronType=Dem	8	obl	_	SpaceAfter=No
-3	,	_	PUNCT	_	_	2	punct	_	_
-4	saperangan	_	DET	_	Number=Plur|PronType=Ind	5	det	_	_
-5	warga	_	NOUN	_	Number=Sing|Polite=Infm	8	nsubj	_	_
-6	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	5	nmod:poss	_	_
-7	uga	_	ADV	_	Polite=Infm	8	advmod	_	_
-8	ana	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-9	sing	_	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
-10	dodolan	_	VERB	_	Mood=Ind|Voice=Act	8	xcomp	_	_
-11	panganan	_	NOUN	_	Number=Sing	10	obl	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	8	punct	_	_
+1	Saliyane	liya	ADP	_	Polite=Infm	2	case	_	_
+2	iku	iku	PRON	_	Polite=Infm|PronType=Dem	8	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	saperangan	perangan	DET	_	Number=Plur|PronType=Ind	5	det	_	_
+5	warga	warga	NOUN	_	Number=Sing|Polite=Infm	8	nsubj	_	_
+6	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	5	nmod:poss	_	_
+7	uga	uga	ADV	_	Polite=Infm	8	advmod	_	_
+8	ana	ana	VERB	_	Voice=Act	0	root	_	_
+9	sing	sing	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
+10	dodolan	dodol	VERB	_	Voice=Act	8	xcomp	_	_
+11	panganan	pangan	NOUN	_	Number=Sing	10	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

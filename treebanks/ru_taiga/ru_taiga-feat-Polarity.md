@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (1682; 100% of non-empty `Polarity`): <em>нет, нельзя, нечего, нету, не, некогда, некуда, негде, невесть, незачем</em>
-* `EMPTY` (209950): <em>есть, может, можно, сказал, надо, сказала, значит, было, сказать, стал</em>
+* `EMPTY` (209964): <em>есть, может, можно, сказал, надо, сказала, значит, было, сказать, стал</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (20) occur only with one value of `Polarity`.
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (115; 100% of non-empty `Polarity`): <em>несмотря, нихера, Нифига, Нихуя, не</em>
-* `EMPTY` (83903): <em>так, как, уже, очень, еще, где, например, там, теперь, здесь</em>
+* `EMPTY` (83890): <em>так, как, уже, очень, еще, где, например, там, теперь, здесь</em>
 
 ## Relations with Agreement in `Polarity`
 

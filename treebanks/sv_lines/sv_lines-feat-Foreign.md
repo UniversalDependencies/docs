@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-80 tokens (0%) have a non-empty value of `Foreign`.
-50 types (0%) occur at least once with a non-empty value of `Foreign`.
-51 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (50; 0% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+82 tokens (0%) have a non-empty value of `Foreign`.
+52 types (0%) occur at least once with a non-empty value of `Foreign`.
+52 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 7 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (50; 0% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (50; 100% of non-empty `Foreign`): <em>Language, Stylesheet, Transformation, Consortium, World, calme, Station, Web, Morituri, Protocol</em>
-* `EMPTY` (17789): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
+* `EMPTY` (17790): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Foreign`.
 
@@ -47,7 +47,18 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>ad, for</em>
-* `EMPTY` (11169): <em>i, på, av, med, för, till, som, om, från, över</em>
+* `EMPTY` (11101): <em>i, på, av, med, för, till, som, om, från, över</em>
+
+### `DET`
+
+2 <tt><a href="sv_lines-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`DET` tokens may have the following values of `Foreign`:
+
+* `Yes` (2; 100% of non-empty `Foreign`): <em>du</em>
+* `EMPTY` (5321): <em>en, ett, den, det, de, alla, någon, denna, något, detta</em>
 
 ### `PROPN`
 
@@ -64,12 +75,12 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 1 <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>te</em>
-* `EMPTY` (12538): <em>han, det, som, jag, sig, de, du, vi, hon, mig</em>
+* `EMPTY` (12534): <em>han, det, som, jag, sig, de, du, vi, hon, mig</em>
 
 ### `VERB`
 
@@ -80,7 +91,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>salutant</em>
-* `EMPTY` (12413): <em>sa, hade, kom, såg, gick, har, ta, göra, se, tog</em>
+* `EMPTY` (12414): <em>sa, hade, kom, såg, gick, har, ta, göra, se, tog</em>
 
 ## Relations with Agreement in `Foreign`
 
@@ -91,8 +102,8 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4; 57%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-flat.html">flat</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-flat.html">flat</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="sv_lines-dep-det.html">det</a></tt>]--> DET</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="sv_lines-dep-flat.html">flat</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
 

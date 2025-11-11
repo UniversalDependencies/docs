@@ -48,11 +48,11 @@ The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 6	oleh	oleh	ADP	IN	_	7	case	_	_
 7	Pinnacle	Pinnacle	PROPN	NNP	_	2	nmod	_	_
 8	sudah	sudah	AUX	MD	_	9	aux	_	_
-9	berhembus	berhembus	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+9	berhembus	berhembus	VERB	VB	Voice=Act	0	root	_	_
 10	sejak	sejak	ADP	IN	_	12	case	_	_
 11	awal	awal	NOUN	NN	Number=Sing	12	nmod:lmod	_	_
 12	Oktober	Oktober	PROPN	NNP	_	9	obl:tmod	_	_
-13	lalu	lalu	VERB	VB	Mood=Ind|Voice=Act	12	acl:relcl	_	SpaceAfter=No
+13	lalu	lalu	VERB	VB	Voice=Act	12	acl:relcl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 17 nmod:lmod	color:blue
-1	Berdasarkan	dasar	VERB	VB	Mood=Ind|Voice=Act	13	advcl	_	_
+1	Berdasarkan	dasar	VERB	VB	Voice=Act	13	advcl	_	_
 2	data	data	NOUN	NN	Number=Sing	1	obj	_	_
 3	BES	BES	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	13	punct	_	_
@@ -76,7 +76,7 @@ The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 10	Prima	Prima	PROPN	NNP	_	8	flat:name	_	_
 11	Sejahtera	Sejahtera	PROPN	NNP	_	8	flat:name	_	_
 12	Tbk	Tbk	PROPN	NNP	_	8	flat:name	_	_
-13	terdiri	terdiri	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+13	terdiri	terdiri	VERB	VB	Voice=Pass	0	root	_	_
 14	dari	dari	ADP	IN	_	15	case	_	_
 15	publik	publik	NOUN	NN	Number=Sing	13	obl	_	_
 16	di	di	ADP	IN	_	18	case	_	_

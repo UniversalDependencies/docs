@@ -23,25 +23,25 @@ The following 3 pairs of parts of speech are connected with `dislocated:csubj`: 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 11 dislocated:csubj	color:blue
-1	et	et	CCONJ	M	_	6	cc	_	LASLAVariant=1|LiLaflcat=i
-2	illud	ille	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	6	nsubj	_	LiLaflcat=p
-3	quidem	quidem	PART	M	_	6	discourse	_	LiLaflcat=i
-4	etiam	etiam	ADV	M	Compound=Yes	2	advmod:emph	_	LiLaflcat=i
-5	hic	hic	ADV	M	AdvType=Loc|Case=Loc|PronType=Dem	6	advmod:lmod	_	LASLAVariant=2|LiLaflcat=i
-6	notum	notus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	0	root	_	LASLAVariant=2|LiLaflcat=n6
-7	auium	auis	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Plur	8	nmod	_	LiLaflcat=n3
-8	uoces	uox	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur	11	obj	_	LiLaflcat=n3
-9	uolatus	uolatus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	8	conj	_	LiLaflcat=n4
-10	que	que	CCONJ	S	_	9	cc	_	LiLaflcat=i
-11	interrogare	interrogo	VERB	B1	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Act	6	dislocated:csubj	_	LiLaflcat=v1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
-12	proprium	proprius	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	6	conj	_	LiLaflcat=n6
-13	gentis	gens	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing	12	nmod	_	LiLaflcat=n3
-14	equorum	equus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	16	nmod	_	LiLaflcat=n2
-15	quoque	quoque	PART	M	Form=Emp	14	discourse	_	LiLaflcat=i
-16	praesagia	praesagium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	19	obj	_	LiLaflcat=n2
-17	ac	atque	CCONJ	S	Form=Emp	18	cc	_	LASLAVariant=1|LiLaflcat=i
-18	monitus	monitus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	16	conj	_	LiLaflcat=n4
-19	experiri	experior	VERB	B4	Aspect=Imp|InflClass=LatI|VerbForm=Inf|Voice=Pass	12	csubj	_	LiLaflcat=v4|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+1	et	et	CCONJ	M	_	6	cc	_	LASLAVariant=1|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-56_1
+2	illud	ille	DET	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	6	nsubj	_	LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-56_2
+3	quidem	quidem	PART	M	_	6	discourse	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-56_3
+4	etiam	etiam	ADV	M	Compound=Yes	2	advmod:emph	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-56_4
+5	hic	hic	ADV	M	AdvType=Loc|Case=Loc|PronType=Dem	6	advmod:lmod	_	LASLAVariant=2|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-56_5
+6	notum	notus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	0	root	_	LASLAVariant=2|LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-56_6
+7	auium	auis	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Plur	8	nmod	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-56_7
+8	uoces	uox	NOUN	A3	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Plur	11	obj	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-56_8
+9	uolatus	uolatus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	8	conj	_	LiLaflcat=n4|UniqueTokenId=TacGerma-Q-01-56_9
+10	que	que	CCONJ	S	_	9	cc	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-56_10
+11	interrogare	interrogo	VERB	B1	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Act	6	dislocated:csubj	_	LiLaflcat=v1|TraditionalMood=Infinitivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-56_11
+12	proprium	proprius	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	6	conj	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-56_12
+13	gentis	gens	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Sing	12	nmod	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-56_13
+14	equorum	equus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	16	nmod	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-56_14
+15	quoque	quoque	PART	M	Form=Emp	14	discourse	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-56_15
+16	praesagia	praesagium	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	19	obj	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-56_16
+17	ac	atque	CCONJ	S	Form=Emp	18	cc	_	LASLAVariant=1|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-56_17
+18	monitus	monitus	NOUN	A4	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Plur	16	conj	_	LiLaflcat=n4|UniqueTokenId=TacGerma-Q-01-56_18
+19	experiri	experior	VERB	B4	Aspect=Imp|InflClass=LatI|VerbForm=Inf|Voice=Pass	12	csubj	_	LiLaflcat=v4|TraditionalMood=Infinitivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-56_19
 
 ~~~
 
@@ -52,38 +52,38 @@ The following 3 pairs of parts of speech are connected with `dislocated:csubj`: 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 15 dislocated:csubj	color:blue
-1	id	is	PRON	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LiLaflcat=p
-2	praecipuum	praecipuus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	6	amod	_	LiLaflcat=n6
-3	uirtutis	uirtus	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	6	nmod	_	LiLaflcat=n3
-4	ac	atque	CCONJ	S	Form=Emp	5	cc	_	LASLAVariant=1|LiLaflcat=i
-5	uirium	uis	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Plur	3	conj	_	LiLaflcat=n3
-6	argumentum	argumentum	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n2
-7	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens
-8	quod	quod	SCONJ	T	PronType=Rel	15	mark	_	LASLAVariant=2|LiLaflcat=i
-9	ut	ut	SCONJ	T	PronType=Rel	11	mark	_	LASLAVariant=4|LiLaflcat=i
-10	superiores	superus	ADJ	C1	Case=Nom|Degree=Cmp|Gender=Masc|InflClass=IndEurX|Number=Plur	11	advcl:pred	_	LiLaflcat=n7
-11	agant	ago	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	LiLaflcat=v3|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-12	non	non	PART	P	Polarity=Neg	15	advmod:neg	_	LiLaflcat=i
-13	per	per	ADP	R	_	14	case	_	LiLaflcat=i
-14	iniurias	iniuria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	15	obl	_	LiLaflcat=n1
-15	assequuntur	assequor	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	dislocated:csubj	_	LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens
-16	prompta	promptus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	18	advcl:pred	_	LASLAVariant=2|LiLaflcat=n6
-17	tamen	tamen	ADV	M	Form=Emp|PronType=Dem	18	advmod	_	LiLaflcat=i
-18	omnibus	omnis	DET	L	Case=Dat|Gender=Masc|InflClass=IndEurI|Number=Plur|PronType=Tot	6	conj	_	LiLaflcat=n7
-19	arma	arma	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	18	nsubj	_	LiLaflcat=n2
-20	ac	atque	CCONJ	S	_	24	cc	_	LASLAVariant=1|LiLaflcat=i
-21	si	si	SCONJ	T	_	23	mark	_	LASLAVariant=2|LiLaflcat=i
-22	res	res	NOUN	A5	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing	23	nsubj	_	LiLaflcat=n5
-23	poscat	posco	VERB	B3	Aspect=Inch|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	LiLaflcat=v3|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-24	exercitus	exercitus	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	19	conj	_	LASLAVariant=1|LiLaflcat=n4
-25	plurimum	multus	DET	C1	Case=Nom|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Ind	24	amod	_	LiLaflcat=n6
-26	uirorum	uir	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	25	obl	_	LiLaflcat=n2
-27	equorum	equus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	26	conj	_	LiLaflcat=n2
-28	que	que	CCONJ	S	_	27	cc	_	LiLaflcat=i
-29	et	et	CCONJ	S	_	31	cc	_	LASLAVariant=2|LiLaflcat=i
-30	quiescentibus	quiesco	VERB	B3	Aspect=Inch|Case=Abl|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	31	advcl:abs	_	LiLaflcat=v3|TraditionalMood=Participium
-31	eadem	idem	DET	I	Case=Nom|Form=Emp|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	6	conj	_	LiLaflcat=p
-32	fama	fama	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	31	nsubj	_	LiLaflcat=n1
+1	id	is	PRON	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-210_1
+2	praecipuum	praecipuus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	6	amod	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-210_2
+3	uirtutis	uirtus	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	6	nmod	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-210_3
+4	ac	atque	CCONJ	S	Form=Emp	5	cc	_	LASLAVariant=1|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_4
+5	uirium	uis	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurI|Number=Plur	3	conj	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-210_5
+6	argumentum	argumentum	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-210_6
+7	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-210_7
+8	quod	quod	SCONJ	T	PronType=Rel	15	mark	_	LASLAVariant=2|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_8
+9	ut	ut	SCONJ	T	PronType=Rel	11	mark	_	LASLAVariant=4|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_9
+10	superiores	superus	ADJ	C1	Case=Nom|Degree=Cmp|Gender=Masc|InflClass=IndEurX|Number=Plur	11	advcl:pred	_	LiLaflcat=n7|UniqueTokenId=TacGerma-Q-01-210_10
+11	agant	ago	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	LiLaflcat=v3|TraditionalMood=Subiunctivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-210_11
+12	non	non	PART	P	Polarity=Neg	15	advmod:neg	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_12
+13	per	per	ADP	R	_	14	case	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_13
+14	iniurias	iniuria	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	15	obl	_	LiLaflcat=n1|UniqueTokenId=TacGerma-Q-01-210_14
+15	assequuntur	assequor	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	dislocated:csubj	_	LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-210_15
+16	prompta	promptus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	18	advcl:pred	_	LASLAVariant=2|LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-210_16
+17	tamen	tamen	ADV	M	Form=Emp|PronType=Dem	18	advmod	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_17
+18	omnibus	omnis	DET	L	Case=Dat|Gender=Masc|InflClass=IndEurI|Number=Plur|PronType=Tot	6	conj	_	LiLaflcat=n7|UniqueTokenId=TacGerma-Q-01-210_18
+19	arma	arma	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	18	nsubj	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-210_19
+20	ac	atque	CCONJ	S	_	24	cc	_	LASLAVariant=1|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_20
+21	si	si	SCONJ	T	_	23	mark	_	LASLAVariant=2|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_21
+22	res	res	NOUN	A5	Case=Nom|Gender=Fem|InflClass=IndEurE|Number=Sing	23	nsubj	_	LiLaflcat=n5|UniqueTokenId=TacGerma-Q-01-210_22
+23	poscat	posco	VERB	B3	Aspect=Inch|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	LiLaflcat=v3|TraditionalMood=Subiunctivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-210_23
+24	exercitus	exercitus	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	19	conj	_	LASLAVariant=1|LiLaflcat=n4|UniqueTokenId=TacGerma-Q-01-210_24
+25	plurimum	multus	DET	C1	Case=Nom|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Ind	24	amod	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-210_25
+26	uirorum	uir	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	25	obl	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-210_26
+27	equorum	equus	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	26	conj	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-210_27
+28	que	que	CCONJ	S	_	27	cc	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_28
+29	et	et	CCONJ	S	_	31	cc	_	LASLAVariant=2|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-210_29
+30	quiescentibus	quiesco	VERB	B3	Aspect=Inch|Case=Abl|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	31	advcl:abs	_	LiLaflcat=v3|TraditionalMood=Participium|UniqueTokenId=TacGerma-Q-01-210_30
+31	eadem	idem	DET	I	Case=Nom|Form=Emp|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	6	conj	_	LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-210_31
+32	fama	fama	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	31	nsubj	_	LiLaflcat=n1|UniqueTokenId=TacGerma-Q-01-210_32
 
 ~~~
 
@@ -94,19 +94,19 @@ The following 3 pairs of parts of speech are connected with `dislocated:csubj`: 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 13 dislocated:csubj	color:blue
-1	funerum	funus	NOUN	A3	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Plur	3	nmod	_	LiLaflcat=n3
-2	nulla	nullus	DET	L	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|Polarity=Neg|PronType=Ind	3	det	_	LiLaflcat=p
-3	ambitio	ambitio	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
-4	id	is	PRON	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	6	obj	_	LiLaflcat=p
-5	solum	solus	DET	L	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	4	det	_	LiLaflcat=p
-6	obseruatur	obseruo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	LiLaflcat=v1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-7	ut	ut	SCONJ	T	PronType=Rel	13	mark	_	LASLAVariant=4|LiLaflcat=i
-8	corpora	corpus	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	13	nsubj:pass	_	LiLaflcat=n3
-9	clarorum	clarus	ADJ	C1	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	10	amod	_	LiLaflcat=n6
-10	uirorum	uir	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	8	nmod	_	LiLaflcat=n2
-11	certis	certus	ADJ	C1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	12	amod	_	LiLaflcat=n6
-12	lignis	lignum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	13	obl	_	LiLaflcat=n2
-13	crementur	cremo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	dislocated:csubj	_	LiLaflcat=v1|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+1	funerum	funus	NOUN	A3	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Plur	3	nmod	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-161_1
+2	nulla	nullus	DET	L	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|Polarity=Neg|PronType=Ind	3	det	_	LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-161_2
+3	ambitio	ambitio	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-161_3
+4	id	is	PRON	I	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	6	obj	_	LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-161_4
+5	solum	solus	DET	L	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	4	det	_	LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-161_5
+6	obseruatur	obseruo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	LiLaflcat=v1|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-161_6
+7	ut	ut	SCONJ	T	PronType=Rel	13	mark	_	LASLAVariant=4|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-161_7
+8	corpora	corpus	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	13	nsubj:pass	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-161_8
+9	clarorum	clarus	ADJ	C1	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	10	amod	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-161_9
+10	uirorum	uir	NOUN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Plur	8	nmod	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-161_10
+11	certis	certus	ADJ	C1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	12	amod	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-161_11
+12	lignis	lignum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	13	obl	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-161_12
+13	crementur	cremo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	dislocated:csubj	_	LiLaflcat=v1|TraditionalMood=Subiunctivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-161_13
 
 ~~~
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>aon</em> (<tt><a href="gd_arcosg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.120805 (the average of all parts of speech is 1.311377).
+The form / lemma ratio of `NUM` is 1.120805 (the average of all parts of speech is 1.317448).
 
 The 1st highest number of forms (5) was observed with the lemma “aon”: <em>aon, dh'aon, dh’aon, h-aon, t-aon</em>.
 

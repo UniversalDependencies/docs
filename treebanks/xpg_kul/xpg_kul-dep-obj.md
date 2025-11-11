@@ -39,8 +39,8 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 obj	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=TM846322|2|1
-2	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing	3	det	_	Ref=TM846322|2|2
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM846322|2|1
+2	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM846322|2|2
 3	κνουμανε	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM846322|2|3
 4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM846322|2|4
 5	[.....]	[---]	SYM	_	_	0	root	_	Ref=TM846322|2|5

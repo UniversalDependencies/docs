@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Arabic-PADT: POS Tags: `INTJ`
 
 There are 4 `INTJ` lemmas (0%), 5 `INTJ` types (0%) and 8 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 17 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 17 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: مَرحَبًا، بِلَاش، حَيَّ، مَا
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  بلاش (<tt><a href="ar_padt-pos-INTJ.h
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.250000 (the average of all parts of speech is 1.761966).
+The form / lemma ratio of `INTJ` is 1.250000 (the average of all parts of speech is 1.761981).
 
 The 1st highest number of forms (2) was observed with the lemma “مَرحَبًا”: مرحبا, مرحباً.
 

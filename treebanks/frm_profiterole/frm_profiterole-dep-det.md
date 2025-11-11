@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6678 nodes (10%) are attached to their parents as `det`.
+8691 nodes (10%) are attached to their parents as `det`.
 
-6674 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19377058999701.
+8687 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18835577033713.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (6093; 91% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (346; 5% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (133; 2% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (48; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (7881; 91% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (463; 5% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (206; 2% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (61; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (40; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 det	color:blue
 1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_grchron_j2c5_1963
-2	y	y2	ADV	PROadv	_	3	obl:advmod	_	XmlId=w_grchron_j2c5_1964
+2	y	y2	ADV	PROadv	_	3	obl:mod	_	XmlId=w_grchron_j2c5_1964
 3	tuerent	tuer1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_1965
 4	aucuns	aucun	DET	DETind	PronType=Ind	5	det	_	XmlId=w_grchron_j2c5_1966
 5	Juyfz	juif	PROPN	NOMpro	_	3	obj	_	XmlId=w_grchron_j2c5_1967

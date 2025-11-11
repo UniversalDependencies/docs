@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>гэ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>гэгшэд</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="bxr_bdt-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td></td><td><em>гэгшэд</em></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>гэнэ</em></td><td></td></tr>
 </table>
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (380; 100% of non-empty `Number`): <em>хүнүүд, арадуудай, үхибүүд, моголнуудай, баледэй, буряадууд, үдэрнүүдтэ, амитад, багшанарай, буряадуудай</em>
-* `EMPTY` (2732): <em>хүн, зон, гэр, хэлэ, үедэ, ажал, хэлэн, ондо, Буряад, бэлиг</em>
+* `EMPTY` (2734): <em>хүн, зон, гэр, хэлэ, үедэ, ажал, хэлэн, ондо, Буряад, бэлиг</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (168) occur only with one value of `Number`.
 

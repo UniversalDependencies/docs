@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-416714 tokens (12%) have a non-empty value of `VerbForm`.
-15095 types (8%) occur at least once with a non-empty value of `VerbForm`.
-5043 lemmas (3%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (263577; 8% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (153137; 4% instances).
+416715 tokens (12%) have a non-empty value of `VerbForm`.
+15096 types (8%) occur at least once with a non-empty value of `VerbForm`.
+5041 lemmas (3%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (263578; 8% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (153137; 4% instances).
 
 ### `VERB`
 
-263577 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+263578 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (203922; 77%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133682; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (203923; 77%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133682; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (134426; 51% of non-empty `VerbForm`): <em>sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</em>
-* `Inf` (69496; 26% of non-empty `VerbForm`): <em>machen, geben, lassen, kommen, bringen, anbieten, erreichen, nutzen, gehen, entwickeln</em>
+* `Inf` (69497; 26% of non-empty `VerbForm`): <em>machen, geben, lassen, kommen, bringen, anbieten, erreichen, nutzen, gehen, entwickeln</em>
 * `Part` (59655; 23% of non-empty `VerbForm`): <em>angekündigt, gegeben, gemacht, geplant, erwartet, entwickelt, betroffen, gestellt, vorgestellt, verkauft</em>
 * `EMPTY` (9): <em>analysieren, anstacheln, fordern, lass, liegen, melde, teilten, verteilen, zusammentragen</em>
 
@@ -81,11 +81,11 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (14824; 70%),
+<tt>VERB --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (14823; 70%),
 <tt>AUX --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (499; 61%),
 <tt>AUX --[<tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (473; 70%),
 <tt>VERB --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (411; 59%),
-<tt>VERB --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (342; 60%),
+<tt>VERB --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (330; 60%),
 <tt>AUX --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (141; 54%),
 <tt>VERB --[<tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (81; 54%),
 <tt>AUX --[<tt><a href="de_hdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (67; 57%),

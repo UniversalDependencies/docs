@@ -11,7 +11,7 @@ It occurs with 5 different values: `Fin`, `Inf`, `Part`, `Stem`, `Sup`.
 
 15423 tokens (16%) have a non-empty value of `VerbForm`.
 3261 types (22%) occur at least once with a non-empty value of `VerbForm`.
-1722 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
+1723 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 4 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9779; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4363; 5% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1274; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (7; 0% instances).
 
 ### `VERB`
@@ -27,16 +27,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Part` (39; 0% of non-empty `VerbForm`): <em>påverkade, vald, vänd, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade, frusterade</em>
 * `Stem` (1; 0% of non-empty `VerbForm`): <em>läs-</em>
 * `Sup` (811; 8% of non-empty `VerbForm`): <em>fått, blivit, haft, gjort, ökat, kommit, gått, visat, börjat, skett</em>
-* `EMPTY` (10): <em>hörselskadad, fjärrundersökta, färdigräknade, ifylld, matroniserad, opåverkat, upplagt, uppropad, uttagna</em>
+* `EMPTY` (11): <em>hörselskadad, fjärrundersökta, färdigräknade, ifylld, matroniserad, opåverkat, tre-, upplagt, uppropad, uttagna</em>
 
 <table>
-  <tr><th>Paradigm <i>läsa</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Stem</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>läs-</em></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Läs</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>läste</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>lästes</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>läser</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>läsa</em></td><td><em>läst</em></td><td></td></tr>
+  <tr><th>Paradigm <i>ha</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hade</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>har</em></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>ha, hava</em></td><td><em>haft</em></td></tr>
 </table>
 
 ### `AUX`
@@ -69,7 +66,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1274; 100% of non-empty `VerbForm`): <em>följande, beroende, särskild, särskilda, ökad, motsvarande, liknande, ökade, gifta, nuvarande</em>
-* `EMPTY` (7274): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
+* `EMPTY` (7279): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (500) occur only with one value of `VerbForm`.
 
@@ -82,14 +79,14 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Part` (7; 100% of non-empty `VerbForm`): <em>flytande, förfärande, försvinnande, imponerande, koncentrerat, oroande, renodlat</em>
-* `EMPTY` (6967): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
+* `EMPTY` (6921): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (694; 82%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (132; 62%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> VERB</tt> (12; 55%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (694; 81%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (133; 65%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> VERB</tt> (5; 83%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-csubj-outer.html">csubj:outer</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (2; 67%),

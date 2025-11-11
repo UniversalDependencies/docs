@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `flat`.
+19 nodes (0%) are attached to their parents as `flat`.
 
-16 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1875.
+19 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15789473684211.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (14; 88% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 13% instances).
+The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (14; 74% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (3; 16% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 11% instances).
 
 
 ~~~ conllu
@@ -28,6 +28,20 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	Gabriel	gabriel	PROPN	PROPN	_	3	flat	_	TokenRange=16:23
 5	upé	upé	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=24:27
 6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=27:28
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Jesu	jesu	NOUN	N	Number=Sing	0	root	_	Orig=Jesus|OrigLang=pt|TokenRange=1:5
+3	Christu	christu	NOUN	N	Number=Sing	2	flat	_	Orig=Cristo|OrigLang=pt|SpaceAfter=No|TokenRange=6:13
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=13:14
 
 ~~~
 

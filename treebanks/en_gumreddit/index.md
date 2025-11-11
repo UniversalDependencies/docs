@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUMReddit](https://github.com/UniversalDependencies/UD_English-GUMReddit)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -678,6 +678,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
           <li>ADJ: _</li>
           <li>ADP: _</li>
           <li>ADV: _</li>
+          <li>SYM: _</li>
           <li>VERB-Part: _</li>
         </ul>
       </li>
@@ -758,11 +759,9 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
           <li>ADP: _</li>
           <li>ADV: _</li>
           <li>AUX-Fin: _</li>
-          <li>AUX-Inf: _</li>
           <li>CCONJ: _</li>
           <li>DET: _</li>
           <li>NOUN: _</li>
-          <li>PART: _</li>
           <li>PRON: _</li>
           <li>PROPN: _</li>
           <li>PUNCT: _</li>
@@ -817,7 +816,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (236)</li>
+      <li>VERB-Fin--NOUN (235)</li>
       <li>VERB-Fin--PRON (37)</li>
       <li>VERB-Fin--PRON-Acc (45)</li>
       <li>VERB-Ger--NOUN (26)</li>

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Václava Kettnerová, Jan Hajič jr., Silvie Cinková, Zdeňka Urešová, Milan Straka, Jan Hajič, Jaroslava Hlaváčová, Daniel Zeman.
 
 Repository: [UD_Czech-PUD](https://github.com/UniversalDependencies/UD_Czech-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,20 +49,19 @@ Universal Dependencies](http://universaldependencies.org/conll17/).
 
 
 
-There are
-1000 sentences in each language, always in the same order. (The sentence
-alignment is 1-1 but occasionally a sentence-level segment actually consists
-of two real sentences.) The sentences are taken from the news domain (sentence
-id starts in ‘n’) and from Wikipedia (sentence id starts with ‘w’). There are
-usually only a few sentences from each document, selected randomly, not
-necessarily adjacent. The digits on the second and third position in the
+There are 1000 sentences in each language, always in the same order. (The
+sentence alignment is 1-1 but occasionally a sentence-level segment actually
+consists of two real sentences.) The sentences are taken from the news domain
+(sentence id starts in ‘n’) and from Wikipedia (sentence id starts with ‘w’).
+There are usually only a few sentences from each document, selected randomly,
+not necessarily adjacent. The digits on the second and third position in the
 sentence ids encode the original language of the sentence. The first 750
 sentences are originally English (01). The remaining 250 sentences are
 originally German (02), French (03), Italian (04) or Spanish (05) and they
 were translated to other languages via English. Translation into German,
-French, Italian, Spanish, Arabic, Hindi, Chinese, Indonesian, Japanese,
-Korean, Portuguese, Russian, Thai and Turkish has been provided by DFKI and
-performed (except for German) by professional translators. Then the data has
+French, Italian, Spanish, Arabic, Hindi, Chinese, Indonesian, Japanese, Korean,
+Portuguese, Russian, Thai and Turkish has been provided by DFKI and performed
+(except for German) by professional translators. Then the data has
 been annotated morphologically and syntactically by Google according to Google
 universal annotation guidelines; finally, it has been converted by members of
 the UD community to UD v2 guidelines.
@@ -313,7 +312,7 @@ employ ten-fold cross-validation.
   <li>Inan
     <ul>
       <li>ADJ: Spojených, nové, další, nový, první, vládní, dalších, dalším, hlavní, nejvyšší</li>
-      <li>ADJ-Part: Spojených, Spojené, Spojeným, považovány, Konzultované, Vynucený, agregované, aktivovány, budovány, chráněný</li>
+      <li>ADJ-Part: Spojených, Spojené, Spojeným, považovány, Konzultované, Vynucený, agregované, aktivovány, budoucího, budovány</li>
       <li>AUX-Part: byly, nebyly</li>
       <li>DET: které, svůj, který, každý, tento, tyto, ty, její, naše, náš</li>
       <li>NOUN: roce, roku, l, rok, případě, dolarů, důsledku, film, den, stát</li>
@@ -430,7 +429,7 @@ employ ten-fold cross-validation.
   <li>Gen
     <ul>
       <li>ADJ: jiných, nových, prvního, Spojených, amerického, dalších, druhé, nové, první, různých</li>
-      <li>ADJ-Part: Spojených, kvalifikovaných, studujících, dobytých, dospívající, dospívajícího, konané, konvertovaných, namířených, naneseného</li>
+      <li>ADJ-Part: Spojených, kvalifikovaných, studujících, budoucího, dobytých, dospívající, dospívajícího, konané, konvertovaných, namířených</li>
       <li>ADP: z, do, od, ze, během, podle, u, kolem, bez, kromě</li>
       <li>DET: toho, tohoto, svého, svých, těchto, své, mnoha, té, všech, jejích</li>
       <li>NOUN: roku, let, století, války, lidí, dolarů, společnosti, doby, eur, liber</li>
@@ -620,7 +619,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budovány</li>
+      <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budoucího</li>
       <li>AUX-Fin: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
       <li>AUX-Inf: být</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
@@ -681,6 +680,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fut
     <ul>
+      <li>ADJ-Part: budoucího</li>
       <li>AUX-Fin: bude, budou, nebude, budeme, budu, nebudou, nebudu</li>
       <li>VERB-Fin: půjde, neporoste, povede</li>
     </ul>
@@ -716,7 +716,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Act
     <ul>
-      <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</li>
+      <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, budoucího, dosluhující, dospívající, dospívajícího, dívající</li>
       <li>AUX-Fin: je, jsou, bude, jsem, není, jsme, budou, nebude, budeme, budu</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
       <li>NOUN-Part: vedoucích</li>
@@ -765,7 +765,7 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>ADV: někdy, kdykoli, málokdy, několikrát, mnohokrát</li>
-      <li>DET: mnoho, několik, mnoha, někteří, některé, některých, několika, některá, jakoukoli, jakoukoliv</li>
+      <li>DET: mnoho, několik, více, mnoha, někteří, některé, některých, víc, několika, některá</li>
       <li>PRON: něco, někdo, kdokoli, kdokoliv, někoho, něčem, něčemu, něčím</li>
     </ul>
   </li>

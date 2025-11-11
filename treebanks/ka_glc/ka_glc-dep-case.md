@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3441 nodes (6%) are attached to their parents as `case`.
+3451 nodes (6%) are attached to their parents as `case`.
 
-3421 instances of `case` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0990990990991.
+3431 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.09881193856853.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (2809; 82% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (252; 7% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (245; 7% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (93; 3% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (2812; 81% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (259; 8% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (246; 7% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (92; 3% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 1	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=am
 2	ტრაქტატ	ტრაქტატი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=trakʻtat
 3	ში	ში	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ši
-4	პირველადა	პირველად	ADV	Adv	AdvType=Tim	0	root	_	Translit=pirvelada
+4	პირველადა	პირვლად	ADV	Adv	AdvType=Tim	0	root	_	Translit=pirvelada
 5	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	4	cop	_	Translit=a
 6	შემოტანილი	შემოტანილი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=šemotanili
 7	მექანიკის	მექანიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=mekʻanikis
@@ -63,7 +63,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1 2 case	color:blue
 1	სინგაპურ	სინგაპური	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	3	obl	_	Translit=singapur
 2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
-3	ვითარდება	ვითარდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|Voice=Act	0	root	_	Translit=vitʻardeba
+3	ვითარდება	ვითარდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vitʻardeba
 4	ბიოტექნოლოგიების	ბიოტექნოლოგია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	5	nmod	_	Translit=biotekʻnologiebis
 5	მრეწველობა	მრეწველობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No|Translit=mrecveloba
 6	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.

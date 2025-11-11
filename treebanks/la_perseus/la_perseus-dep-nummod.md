@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	classibus	classis	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	4	obl	_	_
 4	pugnaverunt	pugno	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 5	praeter	praeter	ADP	r--------	_	6	case	_	_
-6	remiges	remex	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	_
+6	remiges	remex	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
 7	millia	mille	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	4	nsubj	_	_
 8	hominum	homo	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
 9	tria	tres	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_

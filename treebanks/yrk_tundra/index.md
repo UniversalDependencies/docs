@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Bruno Guillaume, Sylvain Kahane, Nikolett Mus, Daniel Zeman.
 
 Repository: [UD_Nenets-Tundra](https://github.com/UniversalDependencies/UD_Nenets-Tundra)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrk_tundra216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrk_tundra217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,17 +73,17 @@ The development of this treebank was supported by two research projects: Autogra
 
 ## Features
 
-
+[Number](yrk_tundra-feat-Number.html) – [Person](yrk_tundra-feat-Person.html) – [PronType](yrk_tundra-feat-PronType.html) – [VerbForm](yrk_tundra-feat-VerbForm.html)
 
 ## Relations
 
-[advmod](yrk_tundra-dep-advmod.html) – [amod](yrk_tundra-dep-amod.html) – [aux](yrk_tundra-dep-aux.html) – [case](yrk_tundra-dep-case.html) – [ccomp](yrk_tundra-dep-ccomp.html) – [dep](yrk_tundra-dep-dep.html) – [det](yrk_tundra-dep-det.html) – [det:poss](yrk_tundra-dep-det-poss.html) – [discourse](yrk_tundra-dep-discourse.html) – [mark](yrk_tundra-dep-mark.html) – [nmod](yrk_tundra-dep-nmod.html) – [nmod:poss](yrk_tundra-dep-nmod-poss.html) – [nsubj](yrk_tundra-dep-nsubj.html) – [nummod](yrk_tundra-dep-nummod.html) – [obj](yrk_tundra-dep-obj.html) – [obl:arg](yrk_tundra-dep-obl-arg.html) – [obl:mod](yrk_tundra-dep-obl-mod.html) – [orphan](yrk_tundra-dep-orphan.html) – [parataxis](yrk_tundra-dep-parataxis.html) – [punct](yrk_tundra-dep-punct.html) – [reparandum](yrk_tundra-dep-reparandum.html) – [root](yrk_tundra-dep-root.html)
+[acl](yrk_tundra-dep-acl.html) – [advcl](yrk_tundra-dep-advcl.html) – [advmod](yrk_tundra-dep-advmod.html) – [amod](yrk_tundra-dep-amod.html) – [aux](yrk_tundra-dep-aux.html) – [case](yrk_tundra-dep-case.html) – [ccomp](yrk_tundra-dep-ccomp.html) – [cop](yrk_tundra-dep-cop.html) – [csubj](yrk_tundra-dep-csubj.html) – [dep](yrk_tundra-dep-dep.html) – [det](yrk_tundra-dep-det.html) – [discourse](yrk_tundra-dep-discourse.html) – [mark](yrk_tundra-dep-mark.html) – [nmod](yrk_tundra-dep-nmod.html) – [nmod:poss](yrk_tundra-dep-nmod-poss.html) – [nsubj](yrk_tundra-dep-nsubj.html) – [nsubj:outer](yrk_tundra-dep-nsubj-outer.html) – [nummod](yrk_tundra-dep-nummod.html) – [obj](yrk_tundra-dep-obj.html) – [obl:mod](yrk_tundra-dep-obl-mod.html) – [parataxis](yrk_tundra-dep-parataxis.html) – [punct](yrk_tundra-dep-punct.html) – [reparandum](yrk_tundra-dep-reparandum.html) – [root](yrk_tundra-dep-root.html) – [vocative](yrk_tundra-dep-vocative.html) – [xcomp](yrk_tundra-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 93 sentences and 651 tokens.</li>
+<li>This corpus contains 170 sentences and 1272 tokens.</li>
 </ul>
 
 <ul>
@@ -95,7 +95,7 @@ The development of this treebank was supported by two research projects: Autogra
 </ul>
 
 <ul>
-<li>This corpus contains 35 types of words that contain both letters and punctuation. Examples: <b_p>, <s_p>, нэкал-ӈав, манэˮ-ӈадмʼ, -нда, сыр-ӈадмʼ, -наˮ, <w_n>, -да, -ни, -ниʼ, манэˮ-ӈаваˮ, нэкал-ӈаваˮ, сыр-ӈаваˮ, танэ-йвˮ, -мʼ, -на, -та, <a_d>, <e_r>марядʼ, <e_r>ядувна, <f_s>сюрт<u_l>, <m_l>тирʼ, <m_l>хэя<b_p>, <n_n>, <p_r>маря<u_l>, <u_w>ниӈа, манэˮ-ӈава, нёнд<u_l>, пэр-ӈава, танэ-йвʼ, танэ-явʼ, таня-ӈахаˮ, ядал-ъявʼ, ядалъ-явʼ</li>
+<li>This corpus contains 22 types of words that contain both letters and punctuation. Examples: ӈацекэко?мэ?, ӈацекэр?мэ?, <f>тохо', <un>?хан?, ?таремʼ?, ?ёсь?, велосипед?мэ?, велосипедам', грушамда?мэ?, грушидам', иня_няӈыʼ, маˮламбада?мэ?, мюд?, нида?мэ?, тикандоʼ?мэ?, тохо', тяхана?мэ?, ха"маэм, хасава?ва?, Ӈоб?мэ?, ӈацекэкоʼ?мэ?, ӈопой?мэ?</li>
 </ul>
 
 <ul>
@@ -114,25 +114,34 @@ The development of this treebank was supported by two research projects: Autogra
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as pronouns (PRON): мэ-, нер-, тикы, тэва-, ӈамгэ</li>
+<li>This corpus contains 8 lemmas tagged as pronouns (PRON): _, нер-, нянда, та, тикы, тюку, харта, ӈамгэ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as determiners (DET): <b_p>, <s_p>, _, няби, ӈаниʼ</li>
-</ul>
-
-<ul>
-</ul>
-
-<ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): тара, ӈa</li>
+<li>This corpus contains 4 lemmas tagged as determiners (DET): <p>, няби, ханяӈыˮ, ӈаниʼ</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus does not use the VerbForm feature.</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): ни, тара, ӈa</li>
+</ul>
+
+<ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: ӈa</li>
+</ul>
+
+<ul>
+<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Conv
+  <ul>
+    <li>VERB: ӈохолё, мада, пыдабтамба</li>
+  </ul>
+  </li>
 </ul>
 
 <h3>Nominal Features</h3>
@@ -140,6 +149,29 @@ The development of this treebank was supported by two research projects: Autogra
 
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>PRON: ваˮ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADP: нерни, нерниʼ, нянда</li>
+      <li>AUX: тара, ӈэвы</li>
+      <li>NOUN: марядʼ, махалэянда, нёнда, тарканда, сидеранда, харданда, <er>марядʼ, нёнд<un>, сэвˮни, таркахаюта</li>
+      <li>PRON: нерниʼ</li>
+      <li>VERB: таня, миманиʼ, танявыˮ, танявэхэˮ, ядваниʼ, яӈговы</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -161,10 +193,54 @@ The development of this treebank was supported by two research projects: Autogra
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: тикы, тикар, та, тика, тюку</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>ADP: нерни, нерниʼ</li>
+      <li>NOUN: сэвˮни</li>
+      <li>PRON: ваˮ, нерниʼ</li>
+      <li>VERB: миманиʼ, ядваниʼ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>NOUN: марядʼ, <er>марядʼ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>ADP: нянда</li>
+      <li>AUX: тара, ӈэвы</li>
+      <li>NOUN: махалэянда, нёнда, тарканда, сидеранда, харданда, нёнд<un>, таркахаюта, хэвувнанда, ядувнанда</li>
+      <li>VERB: таня, танявыˮ, танявэхэˮ, яӈговы</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -177,11 +253,11 @@ The development of this treebank was supported by two research projects: Autogra
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus does not contain copulas.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: ӈa.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: тара.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: ни, тара, ӈa.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -190,7 +266,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (8)</li>
+      <li>VERB--NOUN (38)</li>
+      <li>VERB--PRON (3)</li>
     </ul>
   </li>
 </ul>
@@ -198,8 +275,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (27)</li>
-      <li>VERB--NOUN-ADP(_) (1)</li>
+      <li>VERB--NOUN (70)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB-Conv--NOUN (2)</li>
     </ul>
   </li>
 </ul>
@@ -217,7 +295,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 4 relation subtypes: <a>det:poss</a>, <a>nmod:poss</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+<li>This corpus uses 3 relation subtypes: <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obl:mod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>obl</a></li>
-<li>The following 18 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>cop</a>, <a>appos</a>, <a>acl</a>, <a>clf</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="de_lit-dep-compound
 73 instances of `compound:prt` (97%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.45333333333333.
 
-The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (71; 95% instances), <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="de_lit-pos-VERB.html">VERB</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (73; 97% instances), <tt><a href="de_lit-pos-ADV.html">ADV</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="de_lit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_lit-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,42 +35,6 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 11	selbst	selbst	ADV	ADV	_	10	advmod	_	_
 12	preis	preis	ADP	PTKVZ	_	8	compound:prt	_	SpaceAfter=No
 13	.	.	PUNCT	$.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 11 compound:prt	color:blue
-1	Man	man	PRON	PIS	Case=Nom|Number=Sing|PronType=Ind	2	nsubj	_	_
-2	schreibt	schreiben	VERB	VVFIN	_	0	root	_	_
-3	der	der	DET	ART	Case=Dat|Definite=Def|PronType=Art	4	det	_	_
-4	Natur	Natur	NOUN	NN	Case=Dat	2	obl:arg	_	_
-5	oder	oder	CCONJ	KON	_	8	cc	_	_
-6	dem	der	DET	ART	Definite=Def|PronType=Art	8	det	_	_
-7	höchsten	hoch	ADJ	ADJA	_	8	amod	_	_
-8	Wesen	Wesen	NOUN	NN	Case=Dat	4	conj	_	_
-9	nie	nie	ADV	ADV	_	2	advmod	_	_
-10	Klugheit	Klugheit	NOUN	NN	Case=Acc	2	obj	_	_
-11	zu	zu	PART	PTKZU	_	2	compound:prt	_	SpaceAfter=No
-12	,	,	PUNCT	$,	_	13	punct	_	_
-13	ungeachtet	ungeachtet	VERB	VVFIN	_	2	parataxis	_	_
-14	man	man	PRON	PIS	Case=Nom|Number=Sing|PronType=Ind	13	nsubj	_	_
-15	in	in	ADP	APPR	_	18	case	_	_
-16	allen	aller	ADJ	ADJA	_	18	amod	_	_
-17	ihren	ihr	DET	PPOSAT	Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	_
-18	Veranstaltungen	Veranstaltung	NOUN	NN	_	13	obl	_	_
-19	dies	dieser	DET	PDS	PronType=Dem	20	det	_	_
-20	Talent	Talent	NOUN	NN	_	13	obl	_	_
-21	in	in	ADP	APPR	_	24	case	_	_
-22	einem	ein	DET	ART	Definite=Ind|NumType=Card|PronType=Art	24	det	_	_
-23	hohen	hoch	ADJ	ADJA	_	24	amod	_	_
-24	Grade	Grade	NOUN	NN	Case=Dat	13	obl	_	_
-25	preist	preisen	ADP	PTKVZ	_	13	compound:prt	_	SpaceAfter=No
-26	.	.	PUNCT	$.	_	2	punct	_	_
 
 ~~~
 
@@ -115,6 +79,32 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 32	auf	auf	ADP	APPR	_	33	case	_	_
 33	immer	immer	ADV	ADV	_	29	advmod	_	SpaceAfter=No
 34	.	.	PUNCT	$.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 compound:prt	color:blue
+1	Hängen	Hang	NOUN	NN	_	0	root	_	_
+2	diese	dieser	DET	PDAT	PronType=Dem	4	det	_	_
+3	beiden	beide	DET	ADJA	NumType=Card|PronType=Tot	4	det	_	_
+4	Künste	Kunst	NOUN	NN	Case=Nom	1	nsubj	_	_
+5	untereinander	untereinander	ADV	ADV	_	1	advmod	_	_
+6	zusammen	zusammen	ADP	PTKVZ	_	1	compound:prt	_	SpaceAfter=No
+7	,	,	PUNCT	$,	_	9	punct	_	_
+8	oder	oder	CCONJ	KON	_	9	cc	_	_
+9	steht	stehen	VERB	VVFIN	_	1	conj	_	_
+10	diese	dieser	DET	PDS	Case=Nom|PronType=Dem	9	nsubj	_	_
+11	mit	mit	ADP	APPR	_	12	case	_	_
+12	jener	jener	DET	PDS	Case=Dat|PronType=Dem	9	obl	_	_
+13	in	in	ADP	APPR	_	15	case	_	_
+14	umgekehrtem	umgekehrt	ADJ	ADJA	_	15	amod	_	_
+15	Verhältnisse	Verhältnis	NOUN	NN	_	9	obl	_	SpaceAfter=No
+16	?	?	PUNCT	$.	_	1	punct	_	_
 
 ~~~
 

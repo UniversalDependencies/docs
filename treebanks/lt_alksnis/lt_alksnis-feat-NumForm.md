@@ -33,7 +33,8 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> NUM</tt> (83; 99%),
-<tt>NUM --[<tt><a href="lt_alksnis-dep-obl.html">obl</a></tt>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="lt_alksnis-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="lt_alksnis-dep-compound.html">compound</a></tt>]--> NUM</tt> (2; 100%).
+<tt>NUM --[<tt><a href="lt_alksnis-dep-compound.html">compound</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="lt_alksnis-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (2; 67%),
+<tt>NUM --[<tt><a href="lt_alksnis-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).
 

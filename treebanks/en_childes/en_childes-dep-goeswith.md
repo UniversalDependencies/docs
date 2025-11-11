@@ -45,14 +45,15 @@ The following 7 pairs of parts of speech are connected with `goeswith`: <tt><a h
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 goeswith	color:blue
-1	Arf	arf	PROPN	NNP	Typo=Yes	0	root	0:root	_
-2	arf	_	X	NNP	_	1	goeswith	1:goeswith	SpaceAfter=No
-3	.	.	PUNCT	.	_	1	punct	1:punct	_
+# visual-style 2 3 goeswith	color:blue
+1	Go	go	VERB	VB	_	0	root	0:root	_
+2	pa	papa	PROPN	NNP	Typo=Yes	1	vocative	1:vocative	_
+3	pa	_	X	NNP	_	2	goeswith	2:goeswith	SpaceAfter=No
+4	?	?	PUNCT	?	_	1	punct	1:punct	_
 
 ~~~
 

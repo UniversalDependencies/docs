@@ -24,7 +24,7 @@ The following 18 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
 1	Ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	вӧдитам	вӧдитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
+2	вӧдитам	вӧдитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	картапель	картапель	NOUN	N	Case=Nom|Number=Sing	2	obj	_	OrigLang=ru|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -38,7 +38,7 @@ The following 18 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
 1	Мама	мама	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	OrigLang=ru
-2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	уджалӧ	уджавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	колхозын	колхоз	NOUN	N	Case=Ine|Number=Sing	2	obl	_	OrigLang=ru|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 

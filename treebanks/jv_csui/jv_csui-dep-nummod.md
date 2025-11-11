@@ -22,13 +22,13 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 nummod	color:blue
-1	Tangi-tangi	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No
-2	,	_	PUNCT	_	_	1	punct	_	_
-3	bareng	_	ADV	_	_	5	advmod	_	_
-4	wis	_	AUX	_	Polite=Infm	5	aux	_	_
-5	jam	_	NOUN	_	Number=Sing	1	obl	_	_
-6	pitu	_	NUM	_	NumType=Card|Polite=Infm	5	nummod	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	1	punct	_	_
+1	Tangi-tangi	tangi	VERB	_	Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	bareng	bareng	ADV	_	_	5	advmod	_	_
+4	wis	wis	AUX	_	Polite=Infm	5	aux	_	_
+5	jam	jam	NOUN	_	Number=Sing	1	obl	_	_
+6	pitu	pitu	NUM	_	NumType=Card|Polite=Infm	5	nummod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -39,19 +39,19 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 nummod	color:blue
-1	(	_	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	BBC	_	PROPN	_	_	8	obl	_	SpaceAfter=No
-3	)	_	PUNCT	_	_	2	punct	_	_
-4	5	_	NUM	_	NumType=Card	2	nummod	_	_
-5	-	_	PUNCT	_	_	2	punct	_	_
-6	Gjorge	_	PROPN	_	_	8	nsubj	_	_
-7	Ivanov	_	PROPN	_	_	6	flat:name	_	_
-8	mimpang	_	VERB	_	Mood=Ind|Polite=Form|Voice=Act	0	root	_	_
-9	pemilu	_	NOUN	_	Number=Sing	8	obj	_	_
-10	presidhen	_	NOUN	_	Number=Sing	9	nmod	_	_
-11	ing	_	ADP	_	Polite=Infm	12	case	_	_
-12	Makedonia	_	PROPN	_	_	9	nmod	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	8	punct	_	_
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	BBC	bbc	PROPN	_	_	8	obl	_	SpaceAfter=No
+3	)	)	PUNCT	_	_	2	punct	_	_
+4	5	5	NUM	_	NumType=Card	2	nummod	_	_
+5	-	-	PUNCT	_	_	2	punct	_	_
+6	Gjorge	gjorge	PROPN	_	_	8	nsubj	_	_
+7	Ivanov	ivanov	PROPN	_	_	6	flat:name	_	_
+8	mimpang	mimpang	VERB	_	Polite=Form|Voice=Act	0	root	_	_
+9	pemilu	pemilu	NOUN	_	Number=Sing	8	obj	_	_
+10	presidhen	presidhen	NOUN	_	Number=Sing	9	nmod	_	_
+11	ing	ing	ADP	_	Polite=Infm	12	case	_	_
+12	Makedonia	makedonia	PROPN	_	_	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -62,13 +62,13 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nummod	color:blue
-1	Momotan	_	NOUN	_	Number=Sing	6	nsubj	_	_
-2	seri	_	X	_	Foreign=Yes	1	nmod	_	_
-3	705	_	NUM	_	NumType=Card	2	nummod	_	_
-4	yaiku	_	AUX	_	Polite=Infm	6	aux	_	_
-5	75	_	NUM	_	NumType=Card	6	nummod	_	_
-6	penumpang	_	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	Momotan	momot	NOUN	_	Number=Sing	6	nsubj	_	_
+2	seri	seri	X	_	Foreign=Yes	1	nmod	_	_
+3	705	705	NUM	_	NumType=Card	2	nummod	_	_
+4	yaiku	yaiku	AUX	_	Polite=Infm	6	aux	_	_
+5	75	75	NUM	_	NumType=Card	6	nummod	_	_
+6	penumpang	penumpang	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

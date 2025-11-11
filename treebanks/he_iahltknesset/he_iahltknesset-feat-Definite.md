@@ -29,6 +29,8 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 <table>
   <tr><th>Paradigm <i>כול</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
   <tr><td><tt>_</tt></td><td>כול</td><td></td></tr>
+  <tr><td><tt><tt><a href="he_iahltknesset-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="he_iahltknesset-feat-PronType.html">PronType</a></tt><tt>=Tot</tt></tt></td><td></td><td>כל</td></tr>
+  <tr><td><tt><tt><a href="he_iahltknesset-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="he_iahltknesset-feat-PronType.html">PronType</a></tt><tt>=Tot</tt></tt></td><td></td><td>כל</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-PronType.html">PronType</a></tt><tt>=Tot</tt></tt></td><td>כול</td><td>כל, כול</td></tr>
 </table>
 
@@ -43,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Cons` (2708; 100% of non-empty `Definite`): חברי, חבר, יושב, ראש, מדינת, שר, ידי, בית, הצעת, חברת
-* `EMPTY` (10285): ממשלה, חוק, ראש, דבר, מדינה, אדונ, דברים, וועדה, נושא, ציבור
+* `EMPTY` (10284): ממשלה, חוק, ראש, דבר, מדינה, אדונ, דברים, וועדה, נושא, ציבור
 
 `Definite` seems to be **lexical feature** of `NOUN`. 100% lemmas (690) occur only with one value of `Definite`.
 

@@ -15,7 +15,7 @@ The 10 most frequent `INTJ` types:  <em>o, ahi, oh, deh, omè, sì, Ahimè, Amme
 
 The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 167, <tt><a href="it_old-pos-PART.html">PART</a></tt> 75, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 69, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="it_old-pos-X.html">X</a></tt> 2, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 1), <em>oh</em> (<tt><a href="it_old-pos-PART.html">PART</a></tt> 33, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 16), <em>sì</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 233, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 3), <em>da</em> (<tt><a href="it_old-pos-ADP.html">ADP</a></tt> 899, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1), <em>sù</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 75, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1), <em>via</em> (<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 71, <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 13, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 161, <tt><a href="it_old-pos-PART.html">PART</a></tt> 18, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="it_old-pos-X.html">X</a></tt> 1), <em>oh</em> (<tt><a href="it_old-pos-PART.html">PART</a></tt> 10, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 2), <em>sì</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 748, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 3), <em>Via</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1), <em>da</em> (<tt><a href="it_old-pos-ADP.html">ADP</a></tt> 782, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1), <em>sù</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 141, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> 161, <tt><a href="it_old-pos-PART.html">PART</a></tt> 18, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="it_old-pos-X.html">X</a></tt> 1), <em>oh</em> (<tt><a href="it_old-pos-PART.html">PART</a></tt> 10, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 2), <em>sì</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 748, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 3), <em>Via</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 1, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1), <em>da</em> (<tt><a href="it_old-pos-ADP.html">ADP</a></tt> 782, <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1), <em>sù</em> (<tt><a href="it_old-pos-ADV.html">ADV</a></tt> 139, <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>o</em>
@@ -40,12 +40,12 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="it_old-pos-CCONJ
   * <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> 5: <em>Tutti color ch' a quel tempo eran ivi <b>da</b> poter arme tra Marte e 'l Batista , erano il quinto di quei ch' or son vivi .</em>
   * <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1: <em>Certo a colui che me con s' assottiglia , se la Scrittura sovra voi non fosse , <b>da</b> dubitar sarebbe a maraviglia .</em>
 * <em>sù</em>
-  * <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 141: <em>E 'l duca mio : « Figliuol , che là <b>sù</b> guarde ? » .</em>
+  * <tt><a href="it_old-pos-ADV.html">ADV</a></tt> 139: <em>E 'l duca mio : « Figliuol , che là <b>sù</b> guarde ? » .</em>
   * <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> 1: <em>L' uno a Virgilio e l' altro a un si volse che sedea lì , gridando : « <b>sù</b> , Currado ! vieni a veder che Dio per grazia volse » .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.947981).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.950381).
 
 The 1st highest number of forms (1) was observed with the lemma “ahi”: <em>ahi</em>.
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (15; 100% of non-empty `Abbr`): <em>U.S, C.Q.D., CIA, E.J., GDRs, J.J., CIAsa, GDRsa, KGBs, USAba</em>
-* `EMPTY` (805): <em>Petrub, Mariasa, Donovan, Jim, Abela, Jack, Abeli, Rudolf, Saras, Marias</em>
+* `EMPTY` (806): <em>Petrub, Mariasa, Donovan, Jim, Abela, Jack, Abeli, Rudolf, Saras, Marias</em>
 
 ### `NOUN`
 

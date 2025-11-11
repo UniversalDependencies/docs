@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-97 nodes (0%) are attached to their parents as `parataxis`.
+54 nodes (0%) are attached to their parents as `parataxis`.
 
-96 instances of `parataxis` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 13.1855670103093.
+54 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.6851851851852.
 
-The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (57; 59% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (9; 9% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (9; 9% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (6; 6% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (27; 50% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (8; 15% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -45,35 +45,6 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 ~~~ conllu
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 18 parataxis	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
-4	political	political	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-5	process	process	NOUN	NN	Number=Sing	0	root	0:root	_
-6	and	and	CCONJ	CC	_	9	cc	9:cc	_
-7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|13:nsubj:xsubj	_
-8	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
-9	decided	decide	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	5:conj:and	_
-10	not	not	PART	RB	Polarity=Neg	13	advmod	13:advmod	_
-11	to	to	PART	TO	_	13	mark	13:mark	_
-12	be	be	AUX	VB	VerbForm=Inf	13	cop	13:cop	_
-13	present	present	ADJ	JJ	Degree=Pos	9	xcomp	9:xcomp	SpaceAfter=No
-14	,	,	PUNCT	,	_	5	punct	5:punct	_
-15	so	so	ADV	CC	_	18	advmod	18:advmod	_
-16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	expl	18:expl	_
-17	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux:pass	18:aux:pass	_
-18	said	say	VERB	VBN	Tense=Past|VerbForm=Part	5	parataxis	5:parataxis	SpaceAfter=No
-19	.	.	PUNCT	.	_	5	punct	5:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 18 parataxis	color:blue
@@ -82,7 +53,7 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	8th	8th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	5	amod	5:amod	_
 5	century	century	NOUN	NN	Number=Sing	9	obl	9:obl:from	_
-6	BC	bc	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	TemporalNPAdjunct=Yes
+6	BC	BC	NOUN	NN	Number=Sing	5	nmod:unmarked	5:nmod:unmarked	TemporalNPAdjunct=Yes
 7	city	city	NOUN	NN	Number=Sing	8	compound	8:compound	_
 8	states	state	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj|11:nsubj:xsubj	_
 9	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -101,6 +72,30 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 22	political	political	ADJ	JJ	Degree=Pos	23	amod	23:amod	_
 23	systems	system	NOUN	NNS	Number=Plur	18	nmod	18:nmod:with	SpaceAfter=No
 24	.	.	PUNCT	.	_	9	punct	9:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 parataxis	color:blue
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+3	clear	clear	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+4	:	:	PUNCT	:	_	3	punct	3:punct	_
+5	Men	man	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
+6	could	could	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
+7	have	have	VERB	VB	VerbForm=Inf	3	parataxis	3:parataxis	_
+8	more	more	ADJ	JJR	Degree=Cmp	9	amod	9:amod	_
+9	responsibility	responsibility	NOUN	NN	Number=Sing	7	obj	7:obj	_
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	matters	matter	NOUN	NNS	Number=Plur	7	obl	7:obl:in	_
+12	of	of	ADP	IN	_	13	case	13:case	_
+13	contraception	contraception	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	SpaceAfter=No
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

@@ -25,11 +25,11 @@ The following 34 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	ميراث	مِيرَاث	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	6:nsubj	Vform=مِيرَاثٌ|Gloss=inheritance,heritage|Root=w r _t|Translit=mīrāṯun|LTranslit=mīrāṯ
 2	ب	بِ	ADP	P---------	AdpType=Prep	3	case	3:case	SpaceAfter=No|Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
 3	300	300	NUM	Q---------	NumForm=Digit	1	nummod	1:nummod	Vform=٣٠٠|Translit=300
-4	الف	أَلف	NUM	QM-----S2R	Case=Gen|Definite=Cons|Number=Sing|NumForm=Word	3	nummod	3:nummod	Vform=أَلفِ|Gloss=thousand|Root=' l f|Translit=ʾalfi|LTranslit=ʾalf
+4	الف	أَلف	NUM	QM-----S2R	Case=Gen|Definite=Cons|Number=Sing|NumForm=Word	3	nmod	3:nmod:gen	Vform=أَلفِ|Gloss=thousand|Root=' l f|Translit=ʾalfi|LTranslit=ʾalf
 5	دولار	دُولَار	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	4	nmod	4:nmod:gen	Vform=دُولَارٍ|Gloss=dollar|Root=dUlAr|Translit=dūlārin|LTranslit=dūlār
 6	يقلب	قَلَّب	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	0:root	Vform=يُقَلِّبُ|Gloss=turn_upside_down|Root=q l b|Translit=yuqallibu|LTranslit=qallab
 7	حياة	حَيَاة	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	6	obj	6:obj	Vform=حَيَاةَ|Gloss=life|Root=.h y y|Translit=ḥayāta|LTranslit=ḥayāt
-8	متشرد	مُتَشَرِّد	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	7	amod	7:amod	Vform=مُتَشَرِّدٍ|Gloss=homeless,displaced|Root=^s r d|Translit=mutašarridin|LTranslit=mutašarrid
+8	متشرد	مُتَشَرِّد	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	7	nmod	7:nmod:gen	Vform=مُتَشَرِّدٍ|Gloss=homeless,displaced|Root=^s r d|Translit=mutašarridin|LTranslit=mutašarrid
 9	اميركي	أَمِيرِكِيّ	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	8	amod	8:amod	Vform=أَمِيرِكِيٍّ|Gloss=American|Root='amIrik|Translit=ʾamīrikīyin|LTranslit=ʾamīrikīy
 
 ~~~
@@ -45,12 +45,12 @@ The following 34 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	نا	هُوَ	PRON	SP---1MP4-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	1	nsubj	1:nsubj	Gloss=he,she,it|LTranslit=huwa|Translit=nā|Vform=نَا
 3	نرى	رَأَى	VERB	VIIA-1MP--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=see,think,believe|LTranslit=raʾā|Root=r ' y|Translit=narā|Vform=نَرَى
 4	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
-5	مجلسا	مَجلِس	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	3	xcomp	3:xcomp	Vform=مَجلِسًا|Gloss=council,board,Majlis|Root=^g l s|Translit=maǧlisan|LTranslit=maǧlis
+5	مجلسا	مَجلِس	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	3	advcl:pred	3:advcl:pred	Vform=مَجلِسًا|Gloss=council,board,Majlis|Root=^g l s|Translit=maǧlisan|LTranslit=maǧlis
 6	ل	لِ	ADP	P---------	AdpType=Prep	7	case	7:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 7	الحرب	حَرب	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	5	nmod	5:nmod:لِ:gen	Gloss=war,warfare|LTranslit=ḥarb|Root=.h r b|Translit=al-ḥarbi|Vform=اَلحَربِ
 8	و	وَ	CCONJ	C---------	_	13	cc	13:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 9	ب	بِ	ADP	P---------	AdpType=Prep	10	case	10:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
-10	شكل	شَكل	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	7	obl	7:obl:بِ:gen|13:obl:بِ:gen	Gloss=manner,form,configuration,type|LTranslit=šakl|Root=^s k l|Translit=šaklin|Vform=شَكلٍ
+10	شكل	شَكل	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	7	nmod	7:nmod:بِ:gen|13:nmod:بِ:gen	Gloss=manner,form,configuration,type|LTranslit=šakl|Root=^s k l|Translit=šaklin|Vform=شَكلٍ
 11	خاص	خَاصّ	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	10	amod	10:amod	Vform=خَاصٍّ|Gloss=special,specific|Root=_h .s .s|Translit=ḫāṣṣin|LTranslit=ḫāṣṣ
 12	ضد	ضِدَّ	ADP	PI------4-	AdpType=Prep|Case=Acc	13	case	13:case	Vform=ضِدَّ|Gloss=against|Root=.d d d|Translit=ḍidda|LTranslit=ḍidda
 13	دول	دَولَة	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	7	conj	5:nmod:لِ:gen|7:conj	Vform=دُوَلِ|Gloss=state,country|Root=d w l|Translit=duwali|LTranslit=dawlat

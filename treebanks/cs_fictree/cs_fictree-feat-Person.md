@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (2362; 40% of non-empty `Person`): <em>mi, mě, já, nás, mně, nám, mnou, mne, my, námi</em>
 * `2` (658; 11% of non-empty `Person`): <em>ti, ty, tě, vás, vám, vy, tebe, tebou, tobě, vámi</em>
 * `3` (2937; 49% of non-empty `Person`): <em>ho, mu, ji, je, jí, ní, on, něj, nich, jim</em>
-* `EMPTY` (8121): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
+* `EMPTY` (8130): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
 
 ### `AUX`
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (793; 61%),
-<tt>PRON --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (14; 58%),
+<tt>PRON --[<tt><a href="cs_fictree-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (14; 58%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (8; 53%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (3; 100%),

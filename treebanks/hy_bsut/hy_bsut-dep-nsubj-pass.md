@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hy_bsut-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="hy_bsut-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-207 nodes (0%) are attached to their parents as `nsubj:pass`.
+236 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-140 instances of `nsubj:pass` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.19323671497585.
+160 instances of `nsubj:pass` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.48305084745763.
 
-The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (165; 80% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (27; 13% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (11; 5% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (188; 80% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (31; 13% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (12; 5% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,10 +23,10 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 nsubj:pass	color:blue
-1	3	3	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	Translit=3|LTranslit=3|SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+1	3	3	NUM	_	NumForm=Digit|NumType=Card	3	discourse	_	Translit=3|LTranslit=3|SpaceAfter=No
+2	.	.	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 3	Ամսաթիվ	ամսաթիվ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Amsat’iv|LTranslit=amsat’iv|SpaceAfter=No
-4	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
+4	.	.	PUNCT	_	Foreign=Yes	8	punct	_	Translit=.|LTranslit=.
 5	երբ	երբ	ADV	_	PronType=Int	8	advmod	_	Translit=erb|LTranslit=erb
 6	՞	՞	PUNCT	_	_	5	punct	_	Translit=?|LTranslit=?
 7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	Translit=ē|LTranslit=em
@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	եթեր	եթեր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=et’er|LTranslit=et’er|SpaceAfter=No
 3	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
 4	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	9	nsubj:pass	_	Translit=orë|LTranslit=or
-5	ոչ	ոչ	PART	_	Polarity=Neg	7	det	_	Translit=oč|LTranslit=oč
+5	ոչ	ոչ	PART	_	ExtPos=DET|Polarity=Neg	7	det	_	Translit=oč|LTranslit=oč
 6	մի	մի	DET	_	PronType=Art	5	fixed	_	Translit=mi|LTranslit=mi
 7	րոպե	րոպե	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	obl	_	Translit=rope|LTranslit=rope
 8	չի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	aux	_	Translit=či|LTranslit=em
@@ -77,16 +77,18 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	,	,	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,
 8	որ	որ	SCONJ	_	_	15	mark	_	Translit=or|LTranslit=or
 9	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	15	obl	_	Translit=Hayastani|LTranslit=Hayastan
-10	դեմ	դեմ	ADP	_	AdpType=Post	9	case	_	Translit=dem|LTranslit=dem
+10	դեմ	դեմ	ADP	_	AdpType=Post|ExtPos=ADP	9	case	_	Translit=dem|LTranslit=dem
 11	«	«	PUNCT	_	_	12	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
 12	Բայրաղթար	Բայրաղթար	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Pro|Number=Sing	15	nsubj:pass	_	Translit=Bayraġt’ar|LTranslit=Bayraġt’ar|SpaceAfter=No
 13	»	»	PUNCT	_	_	12	punct	_	Translit=»|LTranslit=»
 14	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	aux	_	Translit=ē|LTranslit=em
 15	կիրառվել	կիրառել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	5	acl	_	Translit=kiraṙvel|LTranslit=kiraṙel
-16	44-օրյա	44-օրյա	ADJ	_	NumForm=Combi	17	amod	_	Translit=44-òrya|LTranslit=44-òrya
-17	պատերազմի	պատերազմ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	15	obl	_	Translit=paterazmi|LTranslit=paterazm
-18	ժամանակ	ժամանակ	ADP	_	AdpType=Post	17	case	_	Translit=žamanak|LTranslit=žamanak|SpaceAfter=No
-19	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+16	44	44	NUM	_	NumForm=Digit|NumType=Card	19	amod	_	Translit=44|LTranslit=44|SpaceAfter=No
+17	-	-	PUNCT	_	_	18	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+18	օրյա	օրյա	ADJ	_	Hyph=Yes|NumForm=Combi	16	dep	_	Translit=òrya|LTranslit=òrya
+19	պատերազմի	պատերազմ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	15	obl	_	Translit=paterazmi|LTranslit=paterazm
+20	ժամանակ	ժամանակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|ExtPos=ADP|Number=Sing	19	case	_	Translit=žamanak|LTranslit=žamanak|SpaceAfter=No
+21	։	։	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

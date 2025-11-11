@@ -51,7 +51,7 @@ The following 22 pairs of parts of speech are connected with `flat`: <tt><a href
 4	1941	1941	NUM	CC-	NumType=Card	2	flat	_	SpaceAfter=No|Morf=^1941<c>_CC-$
 5	,	,	PUNCT	Z--	_	7	punct	_	Morf=^,<z>_Z--$
 6	frekuensi	frekuensi	NOUN	NSD	Number=Sing	7	nsubj:pass	_	Morf=^frekuensi<n>_NSD$
-7	dipindahkan	pindah	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+pindah<v>+kan_VSP$
+7	dipindahkan	pindah	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+pindah<v>+kan_VSP$
 8	ke	ke	SCONJ	R--	_	7	mark	_	Morf=^ke<r>_R--$
 9	1450	1450	NUM	CC-	NumType=Card	10	nummod	_	Morf=^1450<c>_CC-$
 10	kHz	khz	NUM	X--	NumType=Card	7	nummod	_	SpaceAfter=No|Morf=^khz<x>_X--$
@@ -66,7 +66,7 @@ The following 22 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
-1	Berkata	kata	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+kata<n>_VSA$
+1	Berkata	kata	VERB	VSA	Voice=Act	0	root	_	Morf=^ber+kata<n>_VSA$
 2	lah	lah	PART	T--	_	1	advmod:emph	_	Morf=^lah<t>_T--$
 3	orang-orang	orang	VERB	NPD	_	1	nsubj	_	Morf=^orang<n>_NPD$
 4	Israel	israel	PROPN	NSD	_	3	flat	_	Morf=^israel<n>_NSD$
@@ -76,10 +76,10 @@ The following 22 pairs of parts of speech are connected with `flat`: <tt><a href
 8	Sudah	sudah	AUX	D--	_	11	aux	_	Morf=^sudah<d>_D--$
 9	kah	kah	PART	T--	_	11	advmod:emph	_	Morf=^kah<t>_T--$
 10	kamu	kamu	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	11	nsubj	_	Morf=^kamu<p>_PS2$
-11	lihat	lihat	VERB	VSA	Mood=Ind|Voice=Act	3	advcl	_	Morf=^lihat<v>_VSA$
+11	lihat	lihat	VERB	VSA	Voice=Act	3	advcl	_	Morf=^lihat<v>_VSA$
 12	orang	orang	NOUN	NSD	Number=Sing	11	obj	_	Morf=^orang<n>_NSD$
 13	yang	yang	PRON	S--	PronType=Rel	14	nsubj	_	Morf=^yang<s>_S--$
-14	maju	maju	VERB	VSA	Mood=Ind|Voice=Act	12	acl:relcl	_	Morf=^maju<v>_VSA$
+14	maju	maju	VERB	VSA	Voice=Act	12	acl:relcl	_	Morf=^maju<v>_VSA$
 15	itu	itu	DET	B--	PronType=Dem	12	det	_	SpaceAfter=No|Morf=^itu<b>_B--$
 16	?	?	PUNCT	Z--	_	11	punct	_	Morf=^?<z>_Z--$
 

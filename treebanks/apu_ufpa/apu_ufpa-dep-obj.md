@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Pupỹkary	pupỹkary	NOUN	N	Case=Nom|Gender=Masc	4	nsubj	_	gloss_pt=apurinã
 2	ĩthupa	ĩthupa	NOUN	N	Case=Nom|Gender=Masc	3	obj	_	gloss_pt=mata
 3	sykasaaky	syka	VERB	_	Case=Tem|VerbForm=Conv	4	advcl	_	gloss_pt=dar-TEMP
-4	atamatary	atama	VERB	_	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss_pt=ver-VBLZ-3SG.M.O
+4	atamatary	atama	VERB	_	Gender[obj]=Masc|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	gloss_pt=ver-VBLZ-3SG.M.O
 5	erẽkatxi	herẽkatxi	NOUN	N	Case=Nom|Gender=Masc|Possessed=No	4	obj	_	gloss_pt=sangue.de-N.POSSD|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3 4 obj	color:blue
 1	Kutxi	Kutxi	ADV	Adv	_	3	advmod	_	gloss[pt]=por.isso
 2	ywa	ywa	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	gloss[pt]=3SG.M
-3	takatary	taka	VERB	XPOS=plantar,colocar-VBLZ	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=plantar,colocar-VBLZ-3SG.M.O
+3	takatary	taka	VERB	XPOS=plantar,colocar-VBLZ	Gender[obj]=Masc|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	gloss[pt]=plantar,colocar-VBLZ-3SG.M.O
 4	paxupata	paxupata	VERB	XPOS=paxiúba	_	3	obj	_	gloss[pt]=paxiúba
 5	aiku	aiku	NOUN	XPOS=casa	_	6	nmod	_	gloss[pt]=casa
 6	ãky	ãky	NOUN	XPOS=dentro	_	3	obl	_	gloss[pt]=dentro|SpaceAfter=No
@@ -57,8 +57,8 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
 1	Ywa	ywa	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	gloss[pt]=3SG.M
-2	awary	awa	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=ter-3SG.M.O
-3	ykynypuku	ykyny	PRON	XPOS=todo-DISTR	_	2	obj	_	gloss[pt]=todo-DISTR
+2	awary	awa	VERB	V	Gender[obj]=Masc|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	gloss[pt]=ter-3SG.M.O
+3	ykynypuku	ykyny	PRON	XPOS=todo-DISTR	PronType=Tot	2	obj	_	gloss[pt]=todo-DISTR
 4	aapukutxiã	awapukutxi	NOUN	N	Case=Loc|Gender=Masc|Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Possessed=No	2	obl	_	gloss[pt]=3SG.M-casa.de-N.POSSD-LOC|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 

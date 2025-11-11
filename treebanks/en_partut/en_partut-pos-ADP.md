@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-ParTUT: POS Tags: `ADP`
 
-There are 61 `ADP` lemmas (1%), 61 `ADP` types (1%) and 5982 `ADP` tokens (12%).
+There are 59 `ADP` lemmas (1%), 59 `ADP` types (1%) and 5980 `ADP` tokens (12%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>of, in, to, for, on, by, with, as, from, at</em>
 
 The 10 most frequent `ADP` types:  <em>of, in, to, for, on, by, with, as, from, at</em>
 
-The 10 most frequent ambiguous lemmas: <em>in</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 1050, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>to</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 695, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 584, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>for</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 431, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2), <em>on</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 314, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>by</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 272, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 1), <em>with</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 271, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 3), <em>as</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 241, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 43, <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1), <em>from</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 179, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>than</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 63, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2), <em>after</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 54, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>in</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 1050, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>to</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 695, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 584, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>for</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 431, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2), <em>on</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 314, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>by</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 272, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 1), <em>with</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 271, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 3), <em>as</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 241, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 69, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 42, <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1), <em>from</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 179, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>than</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 63, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2), <em>after</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 54, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 902, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>to</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 695, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 567, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>for</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 407, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>on</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 308, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>with</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 263, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 3), <em>as</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 222, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 52, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 42, <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1), <em>from</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 173, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>than</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 63, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2), <em>after</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 35, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>out</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 47, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 902, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>to</em> (<tt><a href="en_partut-pos-PART.html">PART</a></tt> 695, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 567, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>for</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 407, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>on</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 308, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>with</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 263, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 3), <em>as</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 222, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 53, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 41, <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1), <em>from</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 173, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>than</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 63, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2), <em>after</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 35, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 1), <em>out</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 47, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> 1)
 
 
 * <em>in</em>
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="en_partut-pos-A
   * <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 3: <em>The Globe opened in autumn 1599 , <b>with</b> Julius Caesar one of the first plays staged .</em>
 * <em>as</em>
   * <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 222: <em>Creative Commons provides this information on an " <b>as</b> - is " basis .</em>
-  * <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 52: <em><b>as</b> Robb explained :</em>
-  * <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 42: <em>Inward FDI could increase by <b>as</b> much as 83 % annually by 2020 ;</em>
+  * <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 53: <em><b>as</b> Robb explained :</em>
+  * <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 41: <em>Inward FDI could increase by <b>as</b> much as 83 % annually by 2020 ;</em>
   * <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1: <em>" Balzac has received high praise from critics <b>as</b> diverse as Walter Benjamin and Camille Paglia .</em>
 * <em>from</em>
   * <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 173: <em>This is photomicrographs <b>from</b> Nick Read and Patrick Hickey .</em>
@@ -57,30 +57,30 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="en_partut-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.200760).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.205397).
 
-The 1st highest number of forms (1) was observed with the lemma “'”: <em>’</em>.
+The 1st highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
+The 2nd highest number of forms (1) was observed with the lemma “above”: <em>above</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “above”: <em>above</em>.
+The 3rd highest number of forms (1) was observed with the lemma “across”: <em>across</em>.
 
 `ADP` occurs with 1 features: <tt><a href="en_partut-feat-ExtPos.html">ExtPos</a></tt> (41; 1% instances)
 
 `ADP` occurs with 3 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`
 
 `ADP` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (5941 tokens).
+The most frequent feature combination is `_` (5939 tokens).
 Examples: <em>of, in, to, for, on, by, with, as, from, at</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="en_partut-dep-case.html">case</a></tt> (5525; 92% instances), <tt><a href="en_partut-dep-mark.html">mark</a></tt> (217; 4% instances), <tt><a href="en_partut-dep-fixed.html">fixed</a></tt> (94; 2% instances), <tt><a href="en_partut-dep-compound-prt.html">compound:prt</a></tt> (92; 2% instances), <tt><a href="en_partut-dep-obl.html">obl</a></tt> (23; 0% instances), <tt><a href="en_partut-dep-advmod.html">advmod</a></tt> (13; 0% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="en_partut-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="en_partut-dep-flat.html">flat</a></tt> (3; 0% instances), <tt><a href="en_partut-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="en_partut-dep-case.html">case</a></tt> (5523; 92% instances), <tt><a href="en_partut-dep-mark.html">mark</a></tt> (217; 4% instances), <tt><a href="en_partut-dep-fixed.html">fixed</a></tt> (94; 2% instances), <tt><a href="en_partut-dep-compound-prt.html">compound:prt</a></tt> (92; 2% instances), <tt><a href="en_partut-dep-obl.html">obl</a></tt> (23; 0% instances), <tt><a href="en_partut-dep-advmod.html">advmod</a></tt> (13; 0% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="en_partut-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="en_partut-dep-flat.html">flat</a></tt> (3; 0% instances), <tt><a href="en_partut-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (4490; 75% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (467; 8% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (352; 6% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (218; 4% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (208; 3% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (125; 2% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (22; 0% instances), <tt><a href="en_partut-pos-X.html">X</a></tt> (19; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (4495; 75% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (469; 8% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (352; 6% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (218; 4% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (199; 3% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (126; 2% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (22; 0% instances), <tt><a href="en_partut-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
-5922 (99%) `ADP` nodes are leaves.
+5920 (99%) `ADP` nodes are leaves.
 
 51 (1%) `ADP` nodes have one child.
 

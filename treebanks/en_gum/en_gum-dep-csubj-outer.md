@@ -44,11 +44,11 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 10 4 csubj:outer	color:blue
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Discourse=organization-preparation:54->55:3:_|Entity=(26-abstract-new-nnnnn-cf4-1-cata)
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
-3	another	another	DET	DT	PronType=Ind	4	det	4:det	Entity=(26-abstract-acc:com-n____-cf4-2-coref|MSeg=an-other
+3	another	another	DET	DT	PronType=Ind	4	det	4:det	Entity=(26-abstract-acc:com-nnnnn-cf4-2-coref|MSeg=an-other
 4	thing	thing	NOUN	NN	Number=Sing	10	csubj:outer	10:csubj:outer	Entity=26)
 5	too	too	ADV	RB	Degree=Pos	4	advmod	4:advmod	SpaceAfter=No
 6	,	,	PUNCT	,	_	4	punct	4:punct	_
-7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Discourse=joint-other_m:55->10:4:lex-indwd-269
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Discourse=joint-other_m:55->10:4:lex-indwd-269-_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(1-person-giv:inact-sssss-cf3-1-ana)
 9	kinda	kinda	ADV	RB	Degree=Pos	10	advmod	10:advmod	MSeg=kind-a
 10	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -62,11 +62,11 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 18	how	how	ADV	WRB	PronType=Int	14	nmod	14:nmod:of	_
 19	to	to	PART	TO	_	20	mark	20:mark	_
 20	do	do	VERB	VB	VerbForm=Inf	18	acl	18:acl:to	_
-21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	20:obj	Entity=(4-event-giv:act-n____-cf2-1-ana)27)|SpaceAfter=No
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	20:obj	Entity=(4-event-giv:act-nnnnn-cf2-1-ana)27)|SpaceAfter=No
 22	,	,	PUNCT	,	_	24	punct	24:punct	_
 23	just	just	ADV	RB	_	24	advmod	24:advmod	Discourse=causal-cause:57->55:1:_
 24	watching	watch	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	10:advcl	MSeg=watch-ing
-25	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	24:obj	Entity=(24-person-giv:act-n____-cf1*-1-ana)|SpaceAfter=No|XML=<hi rend:::"lengthened"></hi>
+25	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	24:obj	Entity=(24-person-giv:act-nnnnn-cf1*-1-ana)|SpaceAfter=No|XML=<hi rend:::"lengthened"></hi>
 26	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 ~~~

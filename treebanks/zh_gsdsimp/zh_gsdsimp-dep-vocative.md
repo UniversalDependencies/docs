@@ -24,8 +24,8 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 23 22 vocative	color:blue
 1	莎莉	莎莉	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=shā莉|LTranslit=shā莉
 2	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-3	Sara	Sara	X	FW	_	1	appos	_	Translit=Sara|LTranslit=Sara
-4	Lee	Lee	X	FW	_	3	flat:foreign	_	SpaceAfter=No|Translit=Lee|LTranslit=Lee
+3	Sara	Sara	X	FW	Foreign=Yes	1	appos	_	Translit=Sara|LTranslit=Sara
+4	Lee	Lee	X	FW	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No|Translit=Lee|LTranslit=Lee
 5	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 7	一定	一定	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=yīdìng|LTranslit=yīdìng

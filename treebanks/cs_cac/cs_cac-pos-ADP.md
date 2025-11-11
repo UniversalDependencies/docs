@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>v</em> (<tt><a href="cs_cac-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.111111 (the average of all parts of speech is 2.180820).
+The form / lemma ratio of `ADP` is 1.111111 (the average of all parts of speech is 2.180703).
 
 The 1st highest number of forms (3) was observed with the lemma “k”: <em>k, ke, ku</em>.
 
@@ -65,13 +65,13 @@ The 3rd highest number of forms (2) was observed with the lemma “díky”: <em
 `ADP` occurs with 14 feature-value pairs: `AdpType=Comprep`, `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `ExtPos=ADP`, `Foreign=Yes`, `NameType=Com`, `NameType=Oth`, `NameType=Pro`
 
 `ADP` occurs with 30 feature combinations.
-The most frequent feature combination is `AdpType=Prep|Case=Loc` (16829 tokens).
+The most frequent feature combination is `AdpType=Prep|Case=Loc` (16832 tokens).
 Examples: <em>v, na, o, při, po</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="cs_cac-dep-case.html">case</a></tt> (47746; 99% instances), <tt><a href="cs_cac-dep-fixed.html">fixed</a></tt> (633; 1% instances), <tt><a href="cs_cac-dep-nmod.html">nmod</a></tt> (31; 0% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (15; 0% instances), <tt><a href="cs_cac-dep-flat.html">flat</a></tt> (15; 0% instances), <tt><a href="cs_cac-dep-obl.html">obl</a></tt> (9; 0% instances), <tt><a href="cs_cac-dep-mark.html">mark</a></tt> (7; 0% instances), <tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="cs_cac-dep-case.html">case</a></tt> (47746; 99% instances), <tt><a href="cs_cac-dep-fixed.html">fixed</a></tt> (633; 1% instances), <tt><a href="cs_cac-dep-nmod.html">nmod</a></tt> (32; 0% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (15; 0% instances), <tt><a href="cs_cac-dep-flat.html">flat</a></tt> (15; 0% instances), <tt><a href="cs_cac-dep-obl.html">obl</a></tt> (8; 0% instances), <tt><a href="cs_cac-dep-mark.html">mark</a></tt> (7; 0% instances), <tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="cs_cac-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (1; 0% instances)
 
 Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (40160; 83% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (2232; 5% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2203; 5% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1467; 3% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (599; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (591; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (542; 1% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (505; 1% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (137; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (27; 0% instances),  (2; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (1; 0% instances)
 

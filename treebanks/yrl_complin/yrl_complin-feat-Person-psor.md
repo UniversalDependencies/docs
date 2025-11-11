@@ -11,21 +11,21 @@ It occurs with 1 different values: `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="yrl_complin-feat-Person.html">Person</a></tt>, <tt><a href="yrl_complin-feat-Person-grnd.html">Person[grnd]</a></tt>, <tt><a href="yrl_complin-feat-Person-psor.html">Person[psor]</a></tt>.
 
-203 tokens (1%) have a non-empty value of `Person[psor]`.
-73 types (3%) occur at least once with a non-empty value of `Person[psor]`.
-58 lemmas (4%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (203; 1% instances).
+234 tokens (1%) have a non-empty value of `Person[psor]`.
+85 types (3%) occur at least once with a non-empty value of `Person[psor]`.
+64 lemmas (4%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (234; 1% instances).
 
 ### `NOUN`
 
-203 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+234 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (203; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (190; 94%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (234; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (216; 92%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
 
-`Person[psor]` seems to be **lexical feature** of `NOUN`. 100% lemmas (58) occur only with one value of `Person[psor]`.
+`Person[psor]` seems to be **lexical feature** of `NOUN`. 100% lemmas (64) occur only with one value of `Person[psor]`.
 
 ## Relations with Agreement in `Person[psor]`
 

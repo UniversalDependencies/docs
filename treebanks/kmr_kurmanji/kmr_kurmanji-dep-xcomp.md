@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of xcomp in UD_Kurmanji-MG'
+title:  'Statistics of xcomp in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `xcomp`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `xcomp`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 15 instances of `xcomp` (79%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.42105263157895.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (9; 47% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (9; 47% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (9; 47% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (9; 47% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

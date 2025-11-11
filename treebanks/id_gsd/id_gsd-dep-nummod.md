@@ -62,7 +62,7 @@ The following 17 pairs of parts of speech are connected with `nummod`: <tt><a hr
 3	an	an	PROPN	F--	_	2	flat:name	_	Morf=^an<f>_F--$
 4	der	der	PROPN	F--	_	3	flat:name	_	Morf=^der<f>_F--$
 5	Amper	amper	PROPN	X--	_	4	flat:name	_	Morf=^amper<x>_X--$
-6	memiliki	milik	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+milik<v>+i_VSA$
+6	memiliki	milik	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+milik<v>+i_VSA$
 7	luas	luas	NOUN	ASP	_	6	obj	_	Morf=^luas<a>_ASP$
 8	sebesar	sebesar	ADP	R--	_	6	case	_	Morf=^sebesar<r>_R--$
 9	32988	32988	NUM	CC-	NumType=Card	10	nummod	_	Morf=^32988<c>_CC-$

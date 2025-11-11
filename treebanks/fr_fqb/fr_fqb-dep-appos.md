@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 6	Posadas	Posadas	PROPN	_	_	4	flat:name	_	_
 7	Ocampo	Ocampo	PROPN	_	_	4	flat:name	_	_
 8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	SpaceAfter=No
-9	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	10	expl:subj	_	_
+9	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 10	mort	mourir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	?	?	PUNCT	_	_	10	punct	_	_
 
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	célèbre	célèbre	ADJ	_	Number=Sing	0	root	_	_
 5	pour	pour	ADP	_	_	7	case	_	_
-6	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	7	det	_	_
+6	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
 7	réplique	réplique	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	_
 8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
 9	Can	Can	X	_	Foreign=Yes	7	appos	_	_

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-158460 tokens (37%) have a non-empty value of `Gender`.
-20671 types (45%) occur at least once with a non-empty value of `Gender`.
-14570 lemmas (42%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (70453; 16% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (56083; 13% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (15416; 4% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (7450; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4453; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3418; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (518; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (338; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (209; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (122; 0% instances).
+158462 tokens (37%) have a non-empty value of `Gender`.
+20672 types (45%) occur at least once with a non-empty value of `Gender`.
+14571 lemmas (42%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (70454; 16% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (56083; 13% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (15417; 4% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (7451; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4453; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3418; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (517; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (338; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (209; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (122; 0% instances).
 
 ### `NOUN`
 
-70453 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Gender`.
+70454 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (50632; 72%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (32936; 47% of non-empty `Gender`): <em>parte, población, ciudad, personas, familia, vez, forma, vida, agua, región</em>
-* `Masc` (37517; 53% of non-empty `Gender`): <em>años, año, municipio, nombre, lugar, equipo, tiempo, estado, grupo, país</em>
+* `Masc` (37518; 53% of non-empty `Gender`): <em>años, año, municipio, nombre, lugar, equipo, tiempo, estado, grupo, país</em>
 * `EMPTY` (7129): <em>habitantes, km, Estado, base, euros, frente, Gobierno, Oficina, mar, arte</em>
 
 <table>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>partes</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (8767) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (8768) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -42,9 +42,9 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (23946; 43% of non-empty `Gender`): <em>la, las, una, esta, otras, toda, estas, esa, todas, otra</em>
-* `Masc` (32137; 57% of non-empty `Gender`): <em>el, los, un, este, otros, ese, estos, todo, todos, unos</em>
-* `EMPTY` (4804): <em>su, sus, cada, cualquier, mi, the, tu, qué, mis, a</em>
+* `Fem` (23947; 43% of non-empty `Gender`): <em>la, las, una, esta, otras, toda, estas, esa, todas, otra</em>
+* `Masc` (32136; 57% of non-empty `Gender`): <em>el, los, un, este, otros, ese, estos, todo, todos, unos</em>
+* `EMPTY` (4803): <em>su, sus, cada, cualquier, mi, the, tu, qué, mis, a</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -56,14 +56,14 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-15416 <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> tokens (62% of all `ADJ` tokens) have a non-empty value of `Gender`.
+15417 <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> tokens (62% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10981; 71%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (6731; 44% of non-empty `Gender`): <em>primera, nueva, segunda, buena, francesa, misma, alta, pequeña, propia, nuevas</em>
-* `Masc` (8685; 56% of non-empty `Gender`): <em>primer, mismo, nuevo, junto, segundo, español, buen, propio, primeros, único</em>
+* `Masc` (8686; 56% of non-empty `Gender`): <em>primer, mismo, nuevo, junto, segundo, español, buen, propio, primeros, único</em>
 * `EMPTY` (9576): <em>gran, mayor, estadounidense, mejor, total, nacional, grandes, principal, importante, diferentes</em>
 
 <table>
@@ -76,14 +76,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-7450 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (20% of all `VERB` tokens) have a non-empty value of `Gender`.
+7451 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (20% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7450; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7447; 100%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6783; 91%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5988; 80%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4374; 59%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7451; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7448; 100%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6784; 91%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5989; 80%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4375; 59%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (2272; 30% of non-empty `Gender`): <em>situada, conocida, ubicada, llamada, dirigida, fundada, publicada, realizada, construida, creada</em>
-* `Masc` (5178; 70% of non-empty `Gender`): <em>ubicado, conocido, debido, llamado, hecho, nacido, dado, compuesto, tenido, lanzado</em>
+* `Masc` (5179; 70% of non-empty `Gender`): <em>ubicado, conocido, debido, llamado, hecho, nacido, dado, compuesto, tenido, lanzado</em>
 * `EMPTY` (28915): <em>tiene, es, encuentra, hay, hacer, hace, tenía, tienen, era, fue</em>
 
 <table>
@@ -127,26 +127,26 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Fem` (946; 28% of non-empty `Gender`): <em>guerra, Europea, Ruta, Isla, española, TV, Aérea, batalla, universidad, Ciencias</em>
 * `Masc` (2472; 72% of non-empty `Gender`): <em>Unidos, Estados, Partido, censo, José, of, Club, Diego, País, río</em>
-* `EMPTY` (35821): <em>san, España, Estados, Unidos, madrid, Juan, septiembre, julio, enero, José</em>
+* `EMPTY` (35820): <em>san, España, Estados, Unidos, madrid, Juan, septiembre, julio, enero, José</em>
 
 <table>
   <tr><th>Paradigm <i>the</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt></tt></td><td><em>the</em></td><td><em>the</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (2029) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (2031) occur only with one value of `Gender`.
 
 ### `X`
 
-518 <tt><a href="es_gsd-pos-X.html">X</a></tt> tokens (28% of all `X` tokens) have a non-empty value of `Gender`.
+517 <tt><a href="es_gsd-pos-X.html">X</a></tt> tokens (28% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (413; 80%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (412; 80%).
 
 `X` tokens may have the following values of `Gender`:
 
-* `Fem` (110; 21% of non-empty `Gender`): <em>'s, C, B, cápita, i, pre, semi, ta, C., high</em>
+* `Fem` (109; 21% of non-empty `Gender`): <em>'s, C, B, cápita, i, pre, semi, ta, C., high</em>
 * `Masc` (408; 79% of non-empty `Gender`): <em>mm, msnm, 's, etc., n., of, co, cis, parking, to</em>
-* `EMPTY` (1345): <em>ex, hab, ya, 's, C, etc., x, C., and, d</em>
+* `EMPTY` (1344): <em>ex, hab, ya, 's, C, etc., x, C., and, d</em>
 
 <table>
   <tr><th>Paradigm <i>'s</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -155,7 +155,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>'s</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `X`. 96% lemmas (369) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `X`. 96% lemmas (368) occur only with one value of `Gender`.
 
 ### `AUX`
 
@@ -201,7 +201,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 * `Fem` (36; 30% of non-empty `Gender`): <em>h, $, &, m, €, +, http://redsismica.uprm.edu/spanish/informacion/terr1918.php, http://www.rumbo.es/disney/</em>
 * `Masc` (86; 70% of non-empty `Gender`): <em>km, cm, $, &, m, #, º, mundo.com, www.delnuevo, www.dgt.es</em>
-* `EMPTY` (1539): <em>%, ², km, º, $, °, €, ª, /, a</em>
+* `EMPTY` (1538): <em>%, ², km, º, $, °, €, ª, /, a</em>
 
 <table>
   <tr><th>Paradigm <i>$</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -213,8 +213,8 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="es_gsd-dep-det.html">det</a></tt>]--> DET</tt> (42537; 84%),
-<tt>NOUN --[<tt><a href="es_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11103; 58%),
+<tt>NOUN --[<tt><a href="es_gsd-dep-det.html">det</a></tt>]--> DET</tt> (42539; 84%),
+<tt>NOUN --[<tt><a href="es_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11104; 58%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2928; 53%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (1938; 81%),
 <tt>VERB --[<tt><a href="es_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (697; 86%),

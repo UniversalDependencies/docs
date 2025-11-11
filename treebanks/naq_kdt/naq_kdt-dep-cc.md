@@ -13,7 +13,7 @@ This relation is universal.
 661 instances of `cc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.5619335347432.
 
-The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (416; 63% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (96; 15% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (53; 8% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (24; 4% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (24; 4% instances), <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (14; 2% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (10; 2% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="naq_kdt-pos-DET.html">DET</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="naq_kdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (416; 63% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (96; 15% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (54; 8% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (24; 4% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (24; 4% instances), <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (14; 2% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (10; 2% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="naq_kdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="naq_kdt-pos-DET.html">DET</a></tt>-<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,23 +38,21 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 cc	color:blue
-1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	11:nsubj	_
-2	tsî	tsî	CCONJ	_	_	5	cc	5:cc	_
-3	ǁîb	ǁî	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-4	di	di	ADP	POSS	_	3	case	3:case	_
-5	horesagu	horesa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Person=3	1	conj	1:conj|11:nsubj	_
-6	ge	ge	AUX	DECL	Mood=Ind	11	aux	11:aux	_
-7	ǀhorode	ǀhoro	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Person=3	11	obj	11:obj	_
-8	ǀaes	ǀae	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	obl	11:obl	_
-9	ǃaroma	ǃaroma	ADP	_	_	8	case	8:case	_
-10	ra	ra	AUX	IPFV	Aspect=Imp	11	aux	11:aux	_
-11	ǀhaoǀhao	ǀhaoǀhao	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 cc	color:blue
+1	Ok	ok	INTJ	_	_	4	discourse	4:discourse	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	ǀgapiga	ǀgapiga	ADV	_	_	4	advmod	4:advmod	_
+4	khui	khui	VERB	_	Voice=Act	0	root	0:root	_
+5	si	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	4	obj	4:obj	_
+6	tsî	tsî	CCONJ	_	_	8	cc	8:cc	_
+7	ǂguis	ǂgui	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nmod:poss	8:nmod:poss	_
+8	ǀurib	ǀuri	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	conj	4:conj	_
+9	ǂamai	ǂamai	ADP	_	_	8	case	8:case	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 ~~~
 

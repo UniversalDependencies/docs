@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>δε</em> (<tt><a href="el_gud-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.674109).
+The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.674712).
 
 The 1st highest number of forms (3) was observed with the lemma “δεν”: <em>Ντεν, δε, δεν</em>.
 

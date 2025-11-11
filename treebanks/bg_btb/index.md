@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Kiril Simov, Petya Osenova, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Bulgarian-BTB](https://github.com/UniversalDependencies/UD_Bulgarian-BTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -831,10 +831,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(през) (1)</li>
       <li>VERB-Fin--NOUN-ADP(с) (6)</li>
       <li>VERB-Fin--NOUN-ADP(със) (3)</li>
-      <li>VERB-Fin--PRON (17)</li>
+      <li>VERB-Fin--PRON (16)</li>
       <li>VERB-Fin--PRON-Acc (715)</li>
       <li>VERB-Fin--PRON-Acc-ADP(за) (1)</li>
-      <li>VERB-Fin--PRON-Nom (269)</li>
+      <li>VERB-Fin--PRON-Nom (268)</li>
       <li>VERB-Fin--PRON-Nom-ADP(до) (1)</li>
       <li>VERB-Part--NOUN (503)</li>
       <li>VERB-Part--NOUN-ADP(в) (2)</li>
@@ -888,7 +888,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(със) (32)</li>
       <li>VERB-Fin--NOUN-ADP(у) (1)</li>
       <li>VERB-Fin--NOUN-ADP(чрез) (1)</li>
-      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON (2)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(без) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(в) (14)</li>
@@ -913,6 +913,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat (369)</li>
       <li>VERB-Fin--PRON-Dat-ADP(на) (1)</li>
       <li>VERB-Fin--PRON-Dat-ADP(подире) (3)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Fin--PRON-Nom-ADP(в) (16)</li>
       <li>VERB-Fin--PRON-Nom-ADP(върху) (1)</li>
       <li>VERB-Fin--PRON-Nom-ADP(до) (1)</li>

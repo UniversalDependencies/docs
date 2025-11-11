@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="kpv_ikdp-pos-AUX.ht
 
 29 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21; 72%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (20; 69%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (15; 52%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21; 72%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21; 72%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (20; 69%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (15; 52%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 3 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 67%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (3; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Polarity`:
 

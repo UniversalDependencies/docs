@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (0%) are attached to their parents as `nummod`.
+77 nodes (0%) are attached to their parents as `nummod`.
 
-59 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05.
+68 instances of `nummod` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03896103896104.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (59; 98% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (75; 97% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4 3 nummod	color:blue
 1	Ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	TokenRange=0:3
 2	akayú	akayú	NOUN	N	Number=Sing	3	reparandum	_	TokenRange=4:9
-3	nove	nove	NUM	CARD	NumType=Card	4	nummod	_	OrigLang=por|TokenRange=10:14
+3	nove	nove	NUM	CARD	NumType=Card	4	nummod	_	OrigLang=pt|TokenRange=10:14
 4	akayú	akayú	NOUN	N	Number=Sing	6	obl	_	TokenRange=15:20
 5	ana	ana	PART	PFV	Aspect=Perf	6	advmod	_	TokenRange=21:24
 6	ayuíri	yuíri	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=25:31
@@ -37,34 +37,32 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 20 nummod	color:blue
-1	Asuí	asuí	ADV	ADVT	AdvType=Tim	3	advmod	_	TokenRange=0:4
-2	Juão	juão	PROPN	PROPN	_	3	nsubj	_	TokenRange=5:9
-3	umbué	mbué	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	acl:relcl	_	TokenRange=10:15
-4	waá-itá	waá	PRON	REL	Number=Plur|PronType=Rel	6	nsubj	_	TokenRange=16:23
-5	aintá	aintá	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	6	expl	_	TokenRange=24:29
-6	umbeú	mbeú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=30:35
-7	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	obl	_	TokenRange=36:37
-8	xupé	xupé	ADP	ADP	AdpType=Post	7	case	_	TokenRange=38:42
-9	Jesus	jesus	PROPN	PROPN	_	10	nsubj	_	TokenRange=43:48
-10	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	11	acl:relcl	_	TokenRange=49:55
-11	waá-itá	waá	PRON	REL	Number=Plur|PronType=Rel	6	obl	_	TokenRange=56:63
-12	resewara	resewara	ADP	ADP	AdpType=Post|Rel=Cont	11	case	_	TokenRange=64:72
-13	yuíri	yuíri	ADV	ADV	_	6	advmod	_	SpaceAfter=No|TokenRange=73:78
-14	,	,	PUNCT	PUNCT	_	17	punct	_	TokenRange=78:79
-15	asuí	asuí	CCONJ	CCONJ	_	17	cc	_	TokenRange=80:84
-16	Juão	juão	PROPN	PROPN	_	17	nsubj	_	TokenRange=85:89
-17	usenúi	senúi	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	6	conj	_	TokenRange=90:96
-18	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	obl	_	TokenRange=97:98
-19	piri	piri	ADP	ADP	AdpType=Post	18	case	_	TokenRange=99:103
-20	mukũi	mukũi	NUM	CARD	NumType=Card	22	nummod	_	TokenRange=104:109
-21	umbué	mbué	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	22	acl:relcl	_	TokenRange=110:115
-22	waá-itá	waá	PRON	REL	Number=Plur|PronType=Rel	17	obj	_	SpaceAfter=No|TokenRange=116:123
-23	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=123:124
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 17 nummod	color:blue
+1	Pisayé	pisayé	NOUN	N	Number=Sing	5	obl	_	TokenRange=0:6
+2	ramé	ramé	ADP	ADP	AdpType=Post	1	case	_	TokenRange=7:11
+3	ana	ana	PART	PFV	Aspect=Perf	5	advmod	_	TokenRange=12:15
+4	Paramã	paramã	PROPN	PROPN	_	5	nsubj	_	TokenRange=16:22
+5	usemu	semu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=23:28
+6	yuíri	yuíri	ADV	ADVT	AdvType=Tim	5	advmod	_	TokenRange=29:34
+7	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	8	det	_	TokenRange=35:39
+8	rukena	ukena	NOUN	N	Number=Sing|Rel=Cont	5	obl	_	TokenRange=40:46
+9	rupí	rupí	ADP	ADP	AdpType=Post	8	case	_	SpaceAfter=No|TokenRange=47:51
+10	,	,	PUNCT	PUNCT	_	11	punct	_	TokenRange=51:52
+11	Duí	duí	PROPN	PROPN	_	5	conj	_	TokenRange=53:56
+12	amú	amú	PRON	IND	Number=Sing|PronType=Ind	11	orphan	_	TokenRange=57:60
+13	rupí	rupí	ADP	ADP	AdpType=Post	12	case	_	SpaceAfter=No|TokenRange=61:65
+14	,	,	PUNCT	PUNCT	_	18	punct	_	TokenRange=65:66
+15	yeperesé	yeperesé	ADV	ADVT	AdvType=Tim	18	advmod	_	TokenRange=67:75
+16	aintá	aintá	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	TokenRange=76:81
+17	mukũi	mukũi	NUM	CARD	NumType=Card	16	nummod	_	TokenRange=82:87
+18	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	5	parataxis	_	TokenRange=88:91
+19	igarapawa	igarapawa	NOUN	N	Number=Sing	18	obl	_	TokenRange=92:101
+20	kití	kití	ADP	ADP	AdpType=Post	19	case	_	SpaceAfter=No|TokenRange=102:106
+21	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=106:107
 
 ~~~
 

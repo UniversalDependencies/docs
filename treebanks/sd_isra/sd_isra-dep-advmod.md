@@ -9,50 +9,39 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="sd_isra-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-630 nodes (4%) are attached to their parents as `advmod`.
+3016 nodes (3%) are attached to their parents as `advmod`.
 
-600 instances of `advmod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.54603174603175.
+2882 instances of `advmod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.33123342175066.
 
-The following 19 pairs of parts of speech are connected with `advmod`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (453; 72% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (50; 8% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (42; 7% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (33; 5% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (22; 3% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `advmod`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2284; 76% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (223; 7% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (140; 5% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (136; 5% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (51; 2% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (44; 1% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (27; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (25; 1% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (18; 1% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 advmod	color:blue
-1	پوءِ	پوءِ	ADV	ADT	_	4	mark	_	_
-2	ڀلي	ڀلي	ADV	ADA	_	4	advmod	_	_
-3	پاڻي	پاڻي	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-4	پيئو	پيئ	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur|Person=3	0	root	_	_
-5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 advmod	color:blue
+1	پوءِ	پوءِ	ADV	ADT	_	5	advmod	_	_
+2	ڪنن	ڪنن	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	_
+3	۾	۾	ADP	PSPL	_	2	case	_	_
+4	ڦولهڙيون	ڦولهڙي	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	5	obj	_	_
+5	وجهي	وجه	VERB	VM	Aspect=Perf|VerbForm=Conv	0	root	_	_
+6	،	،	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 13 advmod	color:blue
-1	۽	۽	CCONJ	CC	_	6	cc	_	_
-2	جهنگ	جهنگ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
-3	منهن	منهن	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	compound	_	_
-4	ڪري	ڪر	VERB	VM	Aspect=Perf|VerbForm=Conv	6	advcl	_	_
-5	وٺي	وٺ	VERB	VM	Aspect=Perf|VerbForm=Conv	6	compound	_	_
-6	ڀڳو	ڀڄ	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-7	۽	۽	CCONJ	CC	_	14	cc	_	_
-8	وري	وري	ADV	ADM	_	14	advmod	_	_
-9	ڪڏهن	ڪڏهن	ADV	ADT	_	14	advmod	_	_
-10	پاڻ	پاڻ	PRON	PRP	Case=Acc|Number=Sing|Person=1	14	obj	_	_
-11	کي	کي	ADP	PSP	_	10	case	_	_
-12	سلطان	سلطان	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	xcomp	_	_
-13	نه	نه	PART	PART	_	14	advmod	_	_
-14	سڏايائين	سڏاءِ	VERB	VMX	Aspect=Imp|Number=Sing|Person=1|Voice=Act	6	conj	_	_
-15	.	.	PUNCT	PUNCT	_	14	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	نيٺ	نيٺ	ADV	ADV	_	2	advmod	_	_
+2	گدڙ	گدڙ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	،	،	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

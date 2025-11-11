@@ -24,10 +24,10 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 3 6 parataxis	color:blue
 1	Сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 2	бӧрын	бӧр	ADP	Po	Case=Ine|Number=Sing	1	case	_	_
-3	устроитчи	устроитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru
+3	устроитчи	устроитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	OrigLang=ru
 4	рӧбитны	рӧбитны	VERB	V	VerbForm=Inf	3	xcomp	_	OrigLang=ru|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	локті	локны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	3	parataxis	_	_
+6	локті	локны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 7	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	8	nmod	_	_
 8	сиктэ	сикт	NOUN	N	Case=Ill|Number=Sing	6	obl	_	_
 9	да	да	PART	Pcle	_	8	advmod	_	OrigLang=ru|SpaceAfter=No
@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	же	жӧ	PART	Pcle	_	3	advmod	_	OrigLang=ru
 5	гӧг	гӧг	NOUN	N	Case=Nom|Number=Sing	6	compound	_	_
 6	баб	баб	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
-7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	SpaceAfter=No
+7	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	:	:	PUNCT	CLB	_	12	punct	_	_
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	зэй	зэй	ADV	Adv	_	12	advmod:deg	_	_
@@ -56,9 +56,9 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 12	мыйке	мыйке	PRON	Pron	Case=Nom|PronType=Ind	6	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	челядь	челядь	NOUN	N	Case=Nom|Number=Sing	15	obj	_	_
-15	босьтіс	босьтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	conj	_	SpaceAfter=No
+15	босьтіс	босьтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	SpaceAfter=No
 16	,	,	PUNCT	CLB	_	15	punct	_	_
-17	примитіс	примитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	conj	_	OrigLang=ru|SpaceAfter=No
+17	примитіс	примитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	OrigLang=ru|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

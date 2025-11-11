@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `aux`: <tt><a href="hyw_armtdp-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="hyw_armtdp-dep-aux-ex.html">aux:ex</a></tt>.
 
-6758 nodes (5%) are attached to their parents as `aux`.
+6745 nodes (5%) are attached to their parents as `aux`.
 
-5004 instances of `aux` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06392423794022.
+4994 instances of `aux` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06375092661231.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (6634; 98% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (76; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (6621; 98% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (76; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,8 +45,8 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 aux	color:blue
-1	Ինձմով	ես	PRON	_	Animacy=Hum|Case=Ins|Number=Sing|Person=1|PronType=Prs	6	obl	_	Translit=Injmov|LTranslit=es
-2	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	4	det:poss	_	Translit=ir|LTranslit=ink’
+1	Ինձմով	ես	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	6	obl	_	Translit=Injmov|LTranslit=es
+2	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	4	det:poss	_	Translit=ir|LTranslit=ir
 3	վերջին	վերջին	ADJ	_	Degree=Pos	4	amod	_	Translit=verǰin|LTranslit=verǰin
 4	ամսուան	ամիս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	obl	_	Translit=amsowan|LTranslit=amis
 5	մէջ	մէջ	ADP	_	AdpType=Post	4	case	_	Translit=mēǰ|LTranslit=mēǰ

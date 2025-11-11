@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-11079 tokens (12%) have a non-empty value of `Person`.
+11087 tokens (12%) have a non-empty value of `Person`.
 2219 types (11%) occur at least once with a non-empty value of `Person`.
 797 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (5203; 6% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3283; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2593; 3% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (5203; 6% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3283; 4% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2601; 3% instances).
 
 ### `VERB`
 
 5203 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5203; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5194; 100%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5183; 100%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4776; 92%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4149; 80%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3885; 75%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5203; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5192; 100%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5183; 100%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4776; 92%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4149; 80%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3885; 75%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -69,16 +69,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-2593 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
+2601 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2590; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2001; 77%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1444; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2599; 100%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2001; 77%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1444; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1446; 56% of non-empty `Person`): <em>ma, mul, minu, mina, meie, me, meil, mulle, mu, mind</em>
-* `2` (507; 20% of non-empty `Person`): <em>sa, sinu, sul, te, sina, sind, su, sulle, teie, teile</em>
-* `3` (640; 25% of non-empty `Person`): <em>ta, nad, tema, talle, neile, nende, tal, teda, neil, nemad</em>
-* `EMPTY` (3998): <em>see, mis, seda, oma, kes, midagi, mida, keegi, kõik, selle</em>
+* `2` (507; 19% of non-empty `Person`): <em>sa, sinu, sul, te, sina, sind, su, sulle, teie, teile</em>
+* `3` (648; 25% of non-empty `Person`): <em>ta, nad, tema, nende, talle, neile, tal, teda, neil, nemad</em>
+* `EMPTY` (3987): <em>see, mis, seda, oma, kes, midagi, mida, keegi, kõik, selle</em>
 
 <table>
   <tr><th>Paradigm <i>sina</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>

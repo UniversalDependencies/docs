@@ -9,23 +9,23 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-9629 tokens (0%) have a non-empty value of `ExtPos`.
-126 types (0%) occur at least once with a non-empty value of `ExtPos`.
-73 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (6426; 0% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (1784; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (831; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (201; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (172; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (147; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (56; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
+9628 tokens (0%) have a non-empty value of `ExtPos`.
+125 types (0%) occur at least once with a non-empty value of `ExtPos`.
+72 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (6425; 0% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (1784; 0% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (831; 0% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (201; 0% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (172; 0% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (147; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (56; 0% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
 
 ### `ADP`
 
-6426 <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+6425 <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="cs_pdtc-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (4842; 75%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Loc</tt> (4184; 65%).
+The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="cs_pdtc-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (4841; 75%), <tt><a href="cs_pdtc-feat-Case.html">Case</a></tt><tt>=Loc</tt> (4184; 65%).
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (6424; 100% of non-empty `ExtPos`): <em>v, na, ve, vzhledem, ze, z, s, za, bez, po</em>
+* `ADP` (6423; 100% of non-empty `ExtPos`): <em>v, na, ve, vzhledem, ze, z, s, za, bez, po</em>
 * `ADV` (2; 0% of non-empty `ExtPos`): <em>m</em>
 
-`ExtPos` seems to be **lexical feature** of `ADP`. 100% lemmas (24) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `ADP`. 100% lemmas (23) occur only with one value of `ExtPos`.
 
 ### `CCONJ`
 

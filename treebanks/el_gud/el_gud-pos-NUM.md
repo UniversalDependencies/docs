@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>ένα</em> (<tt><a href="el_gud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.320000 (the average of all parts of speech is 1.674109).
+The form / lemma ratio of `NUM` is 1.320000 (the average of all parts of speech is 1.674712).
 
 The 1st highest number of forms (5) was observed with the lemma “ένας”: <em>ένα, έναν, ένας, μία, μια</em>.
 
@@ -50,8 +50,8 @@ The 3rd highest number of forms (3) was observed with the lemma “τρεις”
 `NUM` occurs with 10 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `NumType=Frac`, `Number=Plur`, `Number=Sing`
 
 `NUM` occurs with 20 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Neut|Number=Plur|NumType=Card` (24 tokens).
-Examples: <em>δύο, δυο, δέκα, πέντε, διακόσια, πενήντα, σαράντα, τέσσερα, τρία</em>
+The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Plur|NumType=Card` (24 tokens).
+Examples: <em>δύο, δυο, τρεις, δέκα, έντεκα, οκτώ, πεντακόσιες</em>
 
 
 ## Relations

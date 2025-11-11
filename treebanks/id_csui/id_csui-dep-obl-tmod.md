@@ -25,8 +25,8 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 4 8 obl:tmod	color:blue
 1	Impor	impor	NOUN	NN	Number=Sing	3	nsubj:pass	_	_
 2	non-migas	non-migas	ADJ	JJ	_	1	amod	_	_
-3	diprediksi	diprediksi	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
-4	tumbuh	tumbuh	VERB	VB	Mood=Ind|Voice=Act	3	ccomp	_	_
+3	diprediksi	diprediksi	VERB	VB	Voice=Pass	0	root	_	_
+4	tumbuh	tumbuh	VERB	VB	Voice=Act	3	ccomp	_	_
 5	14,5	14,5	NUM	CD	NumType=Card	6	nummod	_	_
 6	persen	persen	NOUN	NN	Number=Sing	4	obj	_	_
 7	pada	pada	ADP	IN	_	8	case	_	_
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 2	kredit	kredit	NOUN	NN	Number=Sing	1	nmod	_	_
 3	perbankan	bank	NOUN	NN	Number=Sing	1	nmod	_	_
 4	sudah	sudah	AUX	MD	_	5	aux	_	_
-5	terjadi	jadi	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+5	terjadi	jadi	VERB	VB	Voice=Pass	0	root	_	_
 6	sejak	sejak	ADP	IN	_	7	case	_	_
 7	Agustus	Agustus	PROPN	NNP	_	5	obl:tmod	_	_
 8	2006	2006	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
@@ -64,12 +64,12 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 3 6 obl:tmod	color:blue
 1	Saya	saya	PRON	PRP	Number=Sing|Person=1|Polite=Form|PronType=Prs	3	nsubj	_	_
 2	akan	akan	AUX	MD	_	3	aux	_	_
-3	meninggalkan	tinggal	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	meninggalkan	tinggal	VERB	VB	Voice=Act	0	root	_	_
 4	Indonesia	Indonesia	PROPN	NNP	_	3	obj	_	_
 5	pada	pada	ADP	IN	_	6	case	_	_
 6	28	28	NUM	CD	NumType=Card	3	obl:tmod	_	_
 7	Februari	Februari	PROPN	NNP	_	6	flat	_	_
-8	mendatang	datang	VERB	VB	Mood=Ind|Voice=Act	7	acl:relcl	_	_
+8	mendatang	datang	VERB	VB	Voice=Act	7	acl:relcl	_	_
 9	ke	ke	ADP	IN	_	10	case	_	_
 10	London	London	PROPN	NNP	_	3	obl	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_

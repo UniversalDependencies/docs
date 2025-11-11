@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Mitchell Abrams, Elizabeth Davidson, Amir Zeldes.
 
 Repository: [UD_Coptic-Scriptorium](https://github.com/UniversalDependencies/UD_Coptic-Scriptorium)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY 4.0
 
@@ -71,7 +71,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 ## Features
 
-[Definite](cop_scriptorium-feat-Definite.html) – [ExtPos](cop_scriptorium-feat-ExtPos.html) – [Foreign](cop_scriptorium-feat-Foreign.html) – [Gender](cop_scriptorium-feat-Gender.html) – [Gender[psor]](cop_scriptorium-feat-Gender-psor.html) – [Number](cop_scriptorium-feat-Number.html) – [Number[psor]](cop_scriptorium-feat-Number-psor.html) – [NumType](cop_scriptorium-feat-NumType.html) – [Person](cop_scriptorium-feat-Person.html) – [Polarity](cop_scriptorium-feat-Polarity.html) – [Poss](cop_scriptorium-feat-Poss.html) – [PronType](cop_scriptorium-feat-PronType.html) – [Reflex](cop_scriptorium-feat-Reflex.html) – [VerbForm](cop_scriptorium-feat-VerbForm.html)
+[Definite](cop_scriptorium-feat-Definite.html) – [ExtPos](cop_scriptorium-feat-ExtPos.html) – [Foreign](cop_scriptorium-feat-Foreign.html) – [Gender](cop_scriptorium-feat-Gender.html) – [Gender[psor]](cop_scriptorium-feat-Gender-psor.html) – [Mood](cop_scriptorium-feat-Mood.html) – [Number](cop_scriptorium-feat-Number.html) – [Number[psor]](cop_scriptorium-feat-Number-psor.html) – [NumType](cop_scriptorium-feat-NumType.html) – [Person](cop_scriptorium-feat-Person.html) – [Polarity](cop_scriptorium-feat-Polarity.html) – [Poss](cop_scriptorium-feat-Poss.html) – [PronType](cop_scriptorium-feat-PronType.html) – [Reflex](cop_scriptorium-feat-Reflex.html) – [VerbForm](cop_scriptorium-feat-VerbForm.html)
 
 ## Relations
 
@@ -81,7 +81,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 
 <ul>
-<li>This corpus contains 2203 sentences, 26837 tokens and 57103 syntactic words.</li>
+<li>This corpus contains 2203 sentences, 26837 tokens and 57104 syntactic words.</li>
 </ul>
 
 <ul>
@@ -115,7 +115,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus contains 69 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲓⲧⲛ_ⲁⲛⲟⲕ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ϫⲓ_ⲁⲛⲟⲕ, ϫⲡⲟ_ⲛⲧⲟ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲉⲩ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲛ_ⲁⲛⲟⲕ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ, ⲥϥ, ⲧⲉⲧ, ⲧⲉⲧⲛ, ⲧⲣⲉϥ</li>
+<li>This corpus contains 63 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲓⲧⲛ_ⲁⲛⲟⲕ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲉⲩ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲛ_ⲁⲛⲟⲕ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ</li>
 </ul>
 
 <ul>
@@ -142,7 +142,6 @@ The underlying POS tagged material was produced as part of the projects Coptic S
   <li>Fin
   <ul>
     <li>AUX: ϣ, ⲉϣ, ϫⲡⲓ, ⲛⲉϣ</li>
-    <li>PRON: ϫⲓⲧ, ϫⲡⲟ</li>
     <li>VERB: ⲡⲉϫⲁ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ, ⲥⲱⲧⲙ</li>
   </ul>
   </li>
@@ -190,7 +189,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
   <li>Plur
     <ul>
       <li>DET: ⲛ, ⲛⲉ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲙ, ⲛⲉⲛ, ⲛⲉⲩ, ⲛⲉⲕ, ⲛⲉⲧⲛ</li>
-      <li>PRON: ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉ, ⲧⲏⲩⲧⲛ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ</li>
+      <li>PRON: ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲧⲏⲩⲧⲛ, ⲛⲉ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ</li>
     </ul>
   </li>
 </ul>
@@ -255,6 +254,75 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Cnd
+    <ul>
+      <li>VERB-Fin: ⲉⲓ, ⲣ, ⲥⲱⲧⲙ, ⲛⲁⲩ, ⲟⲩⲱϣ, ϫⲟⲟ, ⲣⲛⲟⲃⲉ, ϣⲱⲡⲉ, ⲉⲓⲃⲉ, ⲡⲱⲣϫ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: ⲁⲣⲓ, ⲁϫⲓ, ⲁⲙⲟⲩ, ⲃⲱⲕ, ⲙⲁ, ⲕⲁ, ϩⲁⲣⲉϩ, ⲁⲛⲁⲩ, ⲥⲱⲧⲙ, ϣⲱⲡⲉ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>VERB: ⲧⲣⲉ, ⲡⲉϫⲁ, ϫⲱ, ⲉⲓ, ⲃⲱⲕ, ϣⲱⲡⲉ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ</li>
+      <li>VERB-Fin: ⲡⲉϫⲁ, ϫⲱ, ⲉⲓ, ⲃⲱⲕ, ϣⲱⲡⲉ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ, ϣⲟⲟⲡ</li>
+      <li>VERB-Inf: ϯ, ⲃⲱⲕ, ⲛⲁⲩ, ⲣ, ϭⲱ, ϫⲓ, ⲁⲁ, ⲕⲁ, ⲧⲁⲙⲟ, ϣⲁϫⲉ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Jus
+    <ul>
+      <li>VERB-Fin: ϣⲱⲡⲉ, ϫⲓ, ϭⲱ, ⲥⲱⲧⲙ, ϣⲗⲏⲗ, ϭⲱϣⲧ, ϯ, ⲉⲓⲙⲉ, ⲣ, ϣⲟⲩϣⲟⲩ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nec
+    <ul>
+      <li>AUX-Fin: ϫⲡⲓ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Opt
+    <ul>
+      <li>VERB-Fin: ϣⲱⲡⲉ, ϫⲓ, ϣⲙϣⲉ, ϫⲱϩ, ϯ, ⲉⲓ, ⲕⲁⲁ, ⲛⲁⲩ, ϩⲁⲣⲉϩ, ϩⲉ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pot
+    <ul>
+      <li>AUX-Fin: ϣ, ⲉϣ, ⲛⲉϣ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>VERB-Fin: ⲥⲣϥⲉ, ϣⲱⲡⲉ, ⲙⲧⲟⲛ, ϣⲟⲩϣⲟⲩ, ϭⲱ, ϯ, ϯϩⲏⲩ, ⲉⲓⲙⲉ, ⲕⲁⲁ, ⲣⲭⲣⲏⲥⲧⲟⲥ</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -277,7 +345,8 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 <ul>
   <li>Dem
     <ul>
-      <li>DET: ⲡⲁⲓ, ⲛⲁⲓ, ⲡⲉⲓ, ⲧⲉⲓ, ⲧⲁⲓ, ⲛⲉⲓ, ⲡⲓ, ⲛⲓ, ⲡⲏ, ⲛⲏ</li>
+      <li>DET: ⲡⲁⲓ, ⲛⲁⲓ, ⲡⲉⲓ, ⲧⲉⲓ, ⲧⲁⲓ, ⲛⲉⲓ, ϯ, ⲡⲓ, ⲛⲓ, ⲡⲏ</li>
+      <li>PRON: ⲡⲉ, ⲧⲉ, ⲡ, ⲛⲉ, ⲛ, ⲧ</li>
     </ul>
   </li>
 </ul>
@@ -517,7 +586,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (561)</li>
       <li>VERB-Fin--NOUN-ADP(ϩⲓⲣⲛ) (1)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (7)</li>
-      <li>VERB-Fin--PRON (4317)</li>
+      <li>VERB-Fin--PRON (4319)</li>
     </ul>
   </li>
 </ul>
@@ -527,14 +596,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (41)</li>
       <li>VERB--NOUN-ADP(ⲛ) (13)</li>
-      <li>VERB--PRON (176)</li>
-      <li>VERB-Fin--NOUN (396)</li>
+      <li>VERB--PRON (177)</li>
+      <li>VERB-Fin--NOUN (395)</li>
       <li>VERB-Fin--NOUN-ADP(ⲙ) (3)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (483)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ)-ADP(ⲛ) (12)</li>
       <li>VERB-Fin--PRON (763)</li>
       <li>VERB-Fin--PRON-ADP(ⲉ) (1)</li>
-      <li>VERB-Fin--PRON-ADP(ⲛ) (243)</li>
+      <li>VERB-Fin--PRON-ADP(ⲛ) (242)</li>
       <li>VERB-Fin--PRON-ADP(ⲧⲟⲟⲧ) (1)</li>
       <li>VERB-Inf--NOUN (25)</li>
       <li>VERB-Inf--NOUN-ADP(ⲛ) (19)</li>

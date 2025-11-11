@@ -32,7 +32,7 @@ The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 7	3	3	NUM	CC-	NumType=Card	8	nummod	_	Morf=^3<c>_CC-$
 8	Madiun	madiun	PROPN	X--	_	6	flat:name	_	Morf=^madiun<x>_X--$
 9	terus	terus	ADV	ASP	_	10	advmod	_	Morf=^terus<a>_ASP$
-10	berkembang	kembang	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No|Morf=^ber+kembang<v>_VSA$
+10	berkembang	kembang	VERB	VSA	Voice=Act	0	root	_	SpaceAfter=No|Morf=^ber+kembang<v>_VSA$
 11	.	.	PUNCT	Z--	_	10	punct	_	Morf=^.<z>_Z--$
 
 ~~~
@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	Setelah	setelah	ADP	R--	_	4	case	_	Morf=^setelah<r>_R--$
 2	itu	itu	DET	B--	PronType=Dem	4	det	_	Morf=^itu<b>_B--$
 3	Rianti	rianti	PROPN	X--	_	4	nsubj	_	Morf=^rianti<x>_X--$
-4	bermain	main	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+main<v>_VSA$
+4	bermain	main	VERB	VSA	Voice=Act	0	root	_	Morf=^ber+main<v>_VSA$
 5	dalam	dalam	ADP	ASP	_	6	case	_	Morf=^dalam<a>_ASP$
 6	Ini	ini	PRON	B--	PronType=Dem	4	obl	_	Morf=^ini<b>_B--$
 7	kah	kah	PART	T--	_	6	advmod:emph	_	Morf=^kah<t>_T--$
@@ -73,7 +73,7 @@ The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 6	seni	seni	NOUN	NSD	Number=Sing	5	compound	_	Morf=^seni<n>_NSD$
 7	sangat	sangat	ADV	D--	_	9	advmod	_	Morf=^sangat<d>_D--$
 8	lah	lah	PART	T--	_	7	advmod:emph	_	Morf=^lah<t>_T--$
-9	beragam	ragam	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No|Morf=^ber+ragam<n>_VSA$
+9	beragam	ragam	VERB	VSA	Voice=Act	0	root	_	SpaceAfter=No|Morf=^ber+ragam<n>_VSA$
 10	.	.	PUNCT	Z--	_	9	punct	_	Morf=^.<z>_Z--$
 
 ~~~

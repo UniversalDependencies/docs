@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yoruba-YTB: POS Tags: `ADJ`
 
-There are 105 `ADJ` lemmas (6%), 104 `ADJ` types (6%) and 196 `ADJ` tokens (2%).
+There are 101 `ADJ` lemmas (6%), 100 `ADJ` types (6%) and 193 `ADJ` tokens (2%).
 Out of 17 observed tags, the rank of `ADJ` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, gidi, rere, mìíràn, tósòro</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ọ̀pọ̀</em> (<tt><a href="yo_ytb
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 0.990476 (the average of all parts of speech is 1.007344).
+The form / lemma ratio of `ADJ` is 0.990099 (the average of all parts of speech is 1.007366).
 
 The 1st highest number of forms (1) was observed with the lemma “Alábùkún”: <em>Alábùkún</em>.
 
@@ -65,32 +65,32 @@ The 2nd highest number of forms (1) was observed with the lemma “Benin”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “Bìrìtìkó”: <em>Bìrìtìkó</em>.
 
-`ADJ` occurs with 6 features: <tt><a href="yo_ytb-feat-NumType.html">NumType</a></tt> (8; 4% instances), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (5; 3% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (5; 3% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (5; 3% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (5; 3% instances), <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (1; 1% instances)
+`ADJ` occurs with 6 features: <tt><a href="yo_ytb-feat-NumType.html">NumType</a></tt> (8; 4% instances), <tt><a href="yo_ytb-feat-Case.html">Case</a></tt> (4; 2% instances), <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (4; 2% instances), <tt><a href="yo_ytb-feat-Person.html">Person</a></tt> (4; 2% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (4; 2% instances), <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (1; 1% instances)
 
-`ADJ` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Nom`, `NumType=Ord`, `Number=Sing`, `Person=1`, `Person=3`, `PronType=Prs`, `Typo=Yes`
+`ADJ` occurs with 6 feature-value pairs: `Case=Acc`, `NumType=Ord`, `Number=Sing`, `Person=1`, `PronType=Prs`, `Typo=Yes`
 
-`ADJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (182 tokens).
+`ADJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (180 tokens).
 Examples: <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, rere, mìíràn, tósòro, náà</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 14 different relations: <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (111; 57% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (24; 12% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (12; 6% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (10; 5% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (10; 5% instances), <tt><a href="yo_ytb-dep-ccomp.html">ccomp</a></tt> (6; 3% instances), <tt><a href="yo_ytb-dep-compound.html">compound</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-root.html">root</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 1% instances)
+`ADJ` nodes are attached to their parents using 12 different relations: <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (117; 61% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (20; 10% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (11; 6% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (10; 5% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (10; 5% instances), <tt><a href="yo_ytb-dep-ccomp.html">ccomp</a></tt> (6; 3% instances), <tt><a href="yo_ytb-dep-compound.html">compound</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-root.html">root</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 1% instances)
 
-Parents of `ADJ` nodes belong to 9 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (98; 50% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (55; 28% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (17; 9% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (15; 8% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 2% instances),  (3; 2% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (1; 1% instances)
+Parents of `ADJ` nodes belong to 9 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (106; 55% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (45; 23% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (17; 9% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (15; 8% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (3; 2% instances),  (3; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (1; 1% instances)
 
-110 (56%) `ADJ` nodes are leaves.
+110 (57%) `ADJ` nodes are leaves.
 
 33 (17%) `ADJ` nodes have one child.
 
-32 (16%) `ADJ` nodes have two children.
+30 (16%) `ADJ` nodes have two children.
 
-21 (11%) `ADJ` nodes have three or more children.
+20 (10%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 8.
 
-Children of `ADJ` nodes are attached using 24 different relations: <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (27; 15% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (26; 14% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (13; 7% instances), <tt><a href="yo_ytb-dep-case.html">case</a></tt> (13; 7% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (13; 7% instances), <tt><a href="yo_ytb-dep-compound.html">compound</a></tt> (12; 7% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (12; 7% instances), <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (11; 6% instances), <tt><a href="yo_ytb-dep-mark.html">mark</a></tt> (11; 6% instances), <tt><a href="yo_ytb-dep-det.html">det</a></tt> (7; 4% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-aux.html">aux</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-parataxis.html">parataxis</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="yo_ytb-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-expl.html">expl</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-vocative.html">vocative</a></tt> (1; 1% instances)
+Children of `ADJ` nodes are attached using 24 different relations: <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (27; 15% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (23; 13% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (12; 7% instances), <tt><a href="yo_ytb-dep-compound.html">compound</a></tt> (12; 7% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (12; 7% instances), <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (11; 6% instances), <tt><a href="yo_ytb-dep-case.html">case</a></tt> (11; 6% instances), <tt><a href="yo_ytb-dep-mark.html">mark</a></tt> (11; 6% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (11; 6% instances), <tt><a href="yo_ytb-dep-det.html">det</a></tt> (7; 4% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-aux.html">aux</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-parataxis.html">parataxis</a></tt> (5; 3% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="yo_ytb-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-expl.html">expl</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (3; 2% instances), <tt><a href="yo_ytb-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="yo_ytb-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Children of `ADJ` nodes belong to 15 different parts of speech: <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (28; 15% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (26; 14% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (26; 14% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (21; 11% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (17; 9% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (16; 9% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (11; 6% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (11; 6% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (9; 5% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (7; 4% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `ADJ` nodes belong to 15 different parts of speech: <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (29; 17% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (26; 15% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (23; 13% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (18; 10% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (17; 10% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (16; 9% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (11; 6% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (10; 6% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (7; 4% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (7; 4% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yo_ytb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

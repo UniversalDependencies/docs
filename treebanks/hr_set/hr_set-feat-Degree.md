@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-31237 tokens (16%) have a non-empty value of `Degree`.
-11316 types (32%) occur at least once with a non-empty value of `Degree`.
-4920 lemmas (27%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (7943; 4% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (362; 0% instances).
+31238 tokens (16%) have a non-empty value of `Degree`.
+11317 types (32%) occur at least once with a non-empty value of `Degree`.
+4921 lemmas (27%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (7954; 4% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (352; 0% instances).
 
 ### `ADJ`
 
@@ -69,14 +69,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-7943 <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> tokens (94% of all `ADV` tokens) have a non-empty value of `Degree`.
+7954 <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> tokens (94% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6480; 82%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6491; 82%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (603; 8% of non-empty `Degree`): <em>više, dalje, manje, kasnije, bolje, ranije, brže, češće, lakše, dulje</em>
-* `Pos` (7224; 91% of non-empty `Degree`): <em>samo, još, također, već, posto, međutim, oko, vrlo, danas, kada</em>
+* `Pos` (7235; 91% of non-empty `Degree`): <em>samo, još, također, posto, već, međutim, oko, vrlo, danas, kada</em>
 * `Sup` (116; 1% of non-empty `Degree`): <em>najviše, najmanje, najbolje, najčešće, najvjerojatnije, najradije, najgore, najteže, Najdalje, najbrže</em>
 * `EMPTY` (485): <em>uključujući, zahvaljujući, govoreći, ističući, dodajući, ukazujući, tražeći, opisujući, pozivajući, sl.</em>
 
@@ -85,18 +85,18 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>mnogo, više</em></td><td><em>više</em></td><td><em>najviše</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 95% lemmas (749) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 95% lemmas (750) occur only with one value of `Degree`.
 
 ### `DET`
 
-362 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Degree`.
+352 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (362; 100%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (362; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (362; 100%), <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (362; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (362; 100%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (362; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (199; 55%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (352; 100%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (352; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (352; 100%), <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (352; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (352; 100%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (352; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (189; 54%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Cmp` (93; 26% of non-empty `Degree`): <em>više, manje</em>
-* `Pos` (263; 73% of non-empty `Degree`): <em>nekoliko, mnogo, pola, puno, posto, malo, dosta, dovoljno, previše, koliko</em>
+* `Pos` (253; 72% of non-empty `Degree`): <em>nekoliko, mnogo, pola, puno, malo, dosta, dovoljno, previše, koliko, toliko</em>
 * `Sup` (6; 2% of non-empty `Degree`): <em>najviše</em>
 * `EMPTY` (7332): <em>koji, to, koje, koja, svoje, ove, toga, sve, kojima, koju</em>
 

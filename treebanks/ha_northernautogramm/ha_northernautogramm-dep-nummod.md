@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `nummod`.
+16 nodes (0%) are attached to their parents as `nummod`.
 
-17 instances of `nummod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.52941176470588.
+16 instances of `nummod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt> (12; 71% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt> (5; 29% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt> (11; 69% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt> (5; 31% instances).
 
 
 ~~~ conllu
@@ -23,10 +23,10 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 6 nummod	color:blue
 1	sai	sai	ADV	_	_	3	advmod	_	AlignBegin=272366|AlignEnd=272644|Gloss=then
-2	kaː	_	AUX	sun	Aspect=Perf|Gender=Masc|Person=2	3	aux	_	AlignBegin=272644|AlignEnd=272922|Gloss=2Masc.Perf
+2	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	3	aux	_	AlignBegin=272644|AlignEnd=272922|Gloss=2Masc.Perf
 3	yi	yi	VERB	_	_	0	root	_	AlignBegin=272922|AlignEnd=273200|Gloss=do
 4	aikìn	aikìː	NOUN	_	Definite=Cons|Gender=Masc	3	obj	_	AlignBegin=273200|AlignEnd=273478|Gloss=work.Masc.Cons
-5	kwaːnaː	kwaːnaː	NOUN	_	Gender=Fem	4	nmod	_	AlignBegin=273478|AlignEnd=273756|Gloss=night.Fem
+5	kwaːnaː	kwaːnaː	NOUN	_	Definite=Ind|Gender=Fem	4	nmod	_	AlignBegin=273478|AlignEnd=273756|Gloss=night.Fem
 6	tàlàːtin	tàlàːtin	NUM	_	_	5	nummod	_	AlignBegin=273756|AlignEnd=274034|Gloss=thirty
 7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=273756|AlignEnd=274034|Gloss=PUNCT
 

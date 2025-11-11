@@ -10,23 +10,23 @@ This feature is universal.
 It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 Some words have combined values of the feature; 1 combinations have been observed: `Plur|Sing`.
 
-28189 tokens (42%) have a non-empty value of `Number`.
+28188 tokens (42%) have a non-empty value of `Number`.
 6008 types (80%) occur at least once with a non-empty value of `Number`.
 3537 lemmas (76%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (12993; 19% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (5929; 9% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt> (5122; 8% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (3090; 5% instances), <tt><a href="he_iahltknesset-pos-AUX.html">AUX</a></tt> (663; 1% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (247; 0% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (109; 0% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt> (18; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (12992; 19% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (5929; 9% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt> (5122; 8% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (3090; 5% instances), <tt><a href="he_iahltknesset-pos-AUX.html">AUX</a></tt> (663; 1% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (247; 0% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (109; 0% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt> (18; 0% instances).
 
 ### `NOUN`
 
-12993 <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+12992 <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="he_iahltknesset-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (10285; 79%), <tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8010; 62%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="he_iahltknesset-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (10284; 79%), <tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8009; 62%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Dual` (25; 0% of non-empty `Number`): שנתיים, חודשיים, ביניים, יומיים, שבועיים, פעמיים
 * `Plur` (3332; 26% of non-empty `Number`): חברי, דברים, אנשים, שנים, ילדים, ידי, ימים, בחירות, סטודנטים, אזרחי
 * `Plur,Sing` (7; 0% of non-empty `Number`): %, אוכלוסייה, בהילות, רגל
-* `Sing` (9629; 74% of non-empty `Number`): ראש, ממשלה, חוק, דבר, יושב, שר, מדינה, נושא, חבר, אדונ
+* `Sing` (9628; 74% of non-empty `Number`): ראש, ממשלה, חוק, דבר, יושב, שר, מדינה, נושא, חבר, אדונ
 
 <table>
   <tr><th>Paradigm <i>יום</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -69,8 +69,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>ך</td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>אני, י</td><td>נו, אנחנו</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>את, ך</td><td></td></tr>
-  <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>היא, ה</td><td>הן, ן</td></tr>
-  <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td>ה</td></tr>
+  <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>היא, ה</td><td>הן, ן, ה</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>אני, י, ני, נו</td><td>נו, אנחנו</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>ך</td><td></td></tr>
 </table>
@@ -220,8 +219,8 @@ The most frequent other feature values with which `SYM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="he_iahltknesset-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2174; 100%),
-<tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1584; 90%),
+<tt>NOUN --[<tt><a href="he_iahltknesset-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2175; 100%),
+<tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1583; 90%),
 <tt>NOUN --[<tt><a href="he_iahltknesset-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1338; 65%),
 <tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (887; 62%),
 <tt>NOUN --[<tt><a href="he_iahltknesset-dep-conj.html">conj</a></tt>]--> NOUN</tt> (730; 81%),

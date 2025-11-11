@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-GSD: POS Tags: `SCONJ`
 
-There are 86 `SCONJ` lemmas (0%), 87 `SCONJ` types (0%) and 2077 `SCONJ` tokens (2%).
+There are 86 `SCONJ` lemmas (0%), 87 `SCONJ` types (0%) and 2084 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 9 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>untuk, bahwa, dengan, karena, ketika, sehingga, maka, jika, setelah, sementara</em>
@@ -75,17 +75,17 @@ The 3rd highest number of forms (1) was observed with the lemma “ada”: <em>A
 `SCONJ` occurs with 4 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Typo=Yes`
 
 `SCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (2046 tokens).
+The most frequent feature combination is `_` (2053 tokens).
 Examples: <em>untuk, bahwa, dengan, karena, ketika, sehingga, maka, jika, setelah, sementara</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="id_gsd-dep-mark.html">mark</a></tt> (2067; 100% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (8; 0% instances), <tt><a href="id_gsd-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="id_gsd-dep-mark.html">mark</a></tt> (2074; 100% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (8; 0% instances), <tt><a href="id_gsd-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1884; 91% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (104; 5% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (42; 2% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (29; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1891; 91% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (104; 5% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (42; 2% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (29; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-2017 (97%) `SCONJ` nodes are leaves.
+2024 (97%) `SCONJ` nodes are leaves.
 
 49 (2%) `SCONJ` nodes have one child.
 

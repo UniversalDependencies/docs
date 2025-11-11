@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Neapolitan-RB: POS Tags: `ADV`
 
-There are 9 `ADV` lemmas (9%), 9 `ADV` types (7%) and 14 `ADV` tokens (7%).
-Out of 12 observed tags, the rank of `ADV` is: 4 in number of lemmas, 6 in number of types and 7 in number of tokens.
+There are 10 `ADV` lemmas (9%), 9 `ADV` types (7%) and 14 `ADV` tokens (7%).
+Out of 12 observed tags, the rank of `ADV` is: 4 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>non, più, assai, dietro, ieri, nemmeno, poi, quando, soltanto</em>
+The 10 most frequent `ADV` lemmas: <em>nun, cchiù, ajerĕ, arretĕ, assajĕ, nemmancŏ, non, ppo', quannŏ, sulamentĕ</em>
 
 The 10 most frequent `ADV` types:  <em>nun, cchiù, Quannŏ, ajerĕ, arretĕ, assajĕ, nemmancŏ, ppo', sulamentĕ</em>
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.180952).
+The form / lemma ratio of `ADV` is 0.900000 (the average of all parts of speech is 1.123894).
 
-The 1st highest number of forms (1) was observed with the lemma “assai”: <em>assajĕ</em>.
+The 1st highest number of forms (1) was observed with the lemma “ajerĕ”: <em>ajerĕ</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “dietro”: <em>arretĕ</em>.
+The 2nd highest number of forms (1) was observed with the lemma “arretĕ”: <em>arretĕ</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “ieri”: <em>ajerĕ</em>.
+The 3rd highest number of forms (1) was observed with the lemma “assajĕ”: <em>assajĕ</em>.
 
 `ADV` occurs with 3 features: <tt><a href="nap_rb-feat-Polarity.html">Polarity</a></tt> (5; 36% instances), <tt><a href="nap_rb-feat-Degree.html">Degree</a></tt> (3; 21% instances), <tt><a href="nap_rb-feat-PronType.html">PronType</a></tt> (1; 7% instances)
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>jak</em> (<tt><a href="cs_poetry-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.025157 (the average of all parts of speech is 1.400929).
+The form / lemma ratio of `ADV` is 1.025157 (the average of all parts of speech is 1.401136).
 
 The 1st highest number of forms (3) was observed with the lemma “brzy”: <em>Brzo, brzy, dříve</em>.
 

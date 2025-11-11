@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sq_staf-dep-nmod.html">nmod</a></tt>.
 
-69 nodes (2%) are attached to their parents as `nmod:poss`.
+70 nodes (2%) are attached to their parents as `nmod:poss`.
 
-68 instances of `nmod:poss` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57971014492754.
+68 instances of `nmod:poss` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.57142857142857.
 
-The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (48; 70% instances), <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> (8; 12% instances), <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-PROPN.html">PROPN</a></tt> (5; 7% instances), <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="sq_staf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sq_staf-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sq_staf-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (48; 69% instances), <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-PRON.html">PRON</a></tt> (8; 11% instances), <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-PROPN.html">PROPN</a></tt> (6; 9% instances), <tt><a href="sq_staf-pos-PRON.html">PRON</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="sq_staf-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sq_staf-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sq_staf-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sq_staf-pos-VERB.html">VERB</a></tt>-<tt><a href="sq_staf-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 10 nmod:poss	color:blue
-1	Ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	cop	_	_
+1	Ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
 2	pa	pa	ADP	_	_	3	case	_	_
 3	dyshim	dyshim	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	_
 4	dhe	dhe	ADV	_	_	5	advmod	_	_
@@ -45,11 +45,11 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 8 10 nmod:poss	color:blue
 1	Pra	Pra	SCONJ	_	_	4	mark	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	end_char=645|start_char=640
+3	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	end_char=645|start_char=640
 4	vjeshtë	vjeshtë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	end_char=653|start_char=646
 5	dhe	dhe	CCONJ	_	_	7	cc	_	end_char=657|start_char=654
 6	shiu	shi	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	end_char=662|start_char=658
-7	kishte	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	4	conj	_	end_char=669|start_char=663
+7	kishte	kam	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	end_char=669|start_char=663
 8	kohën	kohë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	obl	_	end_char=675|start_char=670
 9	e	e	DET	_	Gender=Fem|Number=Sing	10	det	_	end_char=677|start_char=676
 10	tij	tij	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	SpaceAfter=No
@@ -59,33 +59,23 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 21 nmod:poss	color:blue
-1	Ndodhesha	ndodhem	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Mid	0	root	_	end_char=5484|start_char=5475
-2	diku	diku	ADV	_	_	1	advmod	_	end_char=5489|start_char=5485
-3	tjetër	tjetër	ADV	_	_	1	advmod	_	end_char=5496|start_char=5490
-4	ku	ku	ADV	_	_	13	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	end_char=5500|start_char=5499
-6	veç	veç	ADP	_	_	7	case	_	end_char=5504|start_char=5501
-7	pikturave	pikturë	NOUN	_	Case=Abl|Definite=Def|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	13	punct	_	end_char=5515|start_char=5514
-9	çdo	çdo	PRON	_	PronType=Ind	10	det	_	end_char=5519|start_char=5516
-10	gjë	gjë	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nsubj	_	end_char=5523|start_char=5520
-11	ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	13	cop	_	end_char=5529|start_char=5524
-12	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	13	det:adj	_	end_char=5531|start_char=5530
-13	huaj	huaj	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	acl:relcl	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	18	punct	_	end_char=5537|start_char=5536
-15	po	po	PART	_	_	18	mark	_	end_char=5540|start_char=5538
-16	të	të	PART	_	_	18	mark	_	end_char=5543|start_char=5541
-17	mos	mos	PART	_	_	18	advmod	_	end_char=5547|start_char=5544
-18	përmend	përmend	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	advcl	_	end_char=5555|start_char=5548
-19	fytyrën	fytyrë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	18	obj	_	end_char=5563|start_char=5556
-20	e	e	DET	_	Gender=Fem|Number=Sing	21	det	_	end_char=5565|start_char=5564
-21	Dizit	diz	PROPN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	nmod:poss	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	18	punct	_	end_char=5572|start_char=5571
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 nmod:poss	color:blue
+1	Duhej	duhet	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	end_char=1238|start_char=1233
+2	të	të	PART	_	_	5	mark	_	_
+3	i	ai	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+4	i	ai	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	expl	_	_
+5	hiqja	heq	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=1249|start_char=1244
+6	Margës	Margë	PROPN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod:poss	_	end_char=1256|start_char=1250
+7	nga	nga	ADP	_	_	8	case	_	end_char=1260|start_char=1257
+8	koka	kokë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	end_char=1265|start_char=1261
+9	idenë	ide	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	end_char=1271|start_char=1266
+10	e	e	DET	_	Gender=Fem|Number=Sing	11	det	_	end_char=1273|start_char=1272
+11	vdekjes	vdekje	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	nmod:poss	_	end_char=1281|SpaceAfter=No|start_char=1274
+12	.	.	PUNCT	_	_	5	punct	_	end_char=1282|start_char=1281
 
 ~~~
 

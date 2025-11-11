@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Amir Zeldes, Avner Algom, Noam Ordan, Yifat Ben Moshe, Nick Howell, Shira Wigderson, Omer Strass, Israel Landau, Netanel Dahan, Yael Minerbi, Hilla Merhav, Emmanuelle Kowner, Shuly Wintner, Gili Goldin, Ella Rabinovich, Vladimir Gurevich.
 
 Repository: [UD_Hebrew-IAHLTknesset](https://github.com/UniversalDependencies/UD_Hebrew-IAHLTknesset)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltknesset216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltknesset217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -100,7 +100,7 @@ Goldin, Gili, Nick Howell, Noam Ordan, Ella Rabinovich, and Shuly Wintner (2024)
 
 ## Features
 
-[Abbr](he_iahltknesset-feat-Abbr.html) – [Aspect](he_iahltknesset-feat-Aspect.html) – [Case](he_iahltknesset-feat-Case.html) – [Definite](he_iahltknesset-feat-Definite.html) – [Foreign](he_iahltknesset-feat-Foreign.html) – [Gender](he_iahltknesset-feat-Gender.html) – [HebBinyan](he_iahltknesset-feat-HebBinyan.html) – [Mood](he_iahltknesset-feat-Mood.html) – [Number](he_iahltknesset-feat-Number.html) – [NumType](he_iahltknesset-feat-NumType.html) – [Person](he_iahltknesset-feat-Person.html) – [Polarity](he_iahltknesset-feat-Polarity.html) – [Poss](he_iahltknesset-feat-Poss.html) – [Prefix](he_iahltknesset-feat-Prefix.html) – [PronType](he_iahltknesset-feat-PronType.html) – [Reflex](he_iahltknesset-feat-Reflex.html) – [Tense](he_iahltknesset-feat-Tense.html) – [Typo](he_iahltknesset-feat-Typo.html) – [VerbForm](he_iahltknesset-feat-VerbForm.html) – [VerbType](he_iahltknesset-feat-VerbType.html) – [Voice](he_iahltknesset-feat-Voice.html)
+[Abbr](he_iahltknesset-feat-Abbr.html) – [Aspect](he_iahltknesset-feat-Aspect.html) – [Case](he_iahltknesset-feat-Case.html) – [Definite](he_iahltknesset-feat-Definite.html) – [ExtPos](he_iahltknesset-feat-ExtPos.html) – [Foreign](he_iahltknesset-feat-Foreign.html) – [Gender](he_iahltknesset-feat-Gender.html) – [HebBinyan](he_iahltknesset-feat-HebBinyan.html) – [Mood](he_iahltknesset-feat-Mood.html) – [Number](he_iahltknesset-feat-Number.html) – [NumType](he_iahltknesset-feat-NumType.html) – [Person](he_iahltknesset-feat-Person.html) – [Polarity](he_iahltknesset-feat-Polarity.html) – [Poss](he_iahltknesset-feat-Poss.html) – [Prefix](he_iahltknesset-feat-Prefix.html) – [PronType](he_iahltknesset-feat-PronType.html) – [Reflex](he_iahltknesset-feat-Reflex.html) – [Tense](he_iahltknesset-feat-Tense.html) – [Typo](he_iahltknesset-feat-Typo.html) – [VerbForm](he_iahltknesset-feat-VerbForm.html) – [VerbType](he_iahltknesset-feat-VerbType.html) – [Voice](he_iahltknesset-feat-Voice.html)
 
 ## Relations
 
@@ -543,7 +543,7 @@ Goldin, Gili, Nick Howell, Noam Ordan, Ella Rabinovich, and Shuly Wintner (2024)
 <ul>
   <li>Int
     <ul>
-      <li>ADV: איך, למה, האם, איפה, מדוע, מה, כיצד, לאן, היכן, מתי</li>
+      <li>ADV: איך, למה, האם, איפה, מדוע, מה, כיצד, לאן, מתי, היכן</li>
       <li>DET: איזו, אלו, כמה</li>
       <li>PRON: מה, מי, מתי, מהי, מהם, מיהו</li>
     </ul>
@@ -690,6 +690,47 @@ Goldin, Gili, Nick Howell, Noam Ordan, Ella Rabinovich, and Shuly Wintner (2024)
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADJ: נכון</li>
+          <li>ADP: על, ב, מעבר, תוך, עד, מחוץ, אחר, בניגוד, מ, קודם</li>
+          <li>ADV: יחד, אף, מסביב, ביחד, פחות</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: יותר, קודם, ב, למעלה, סוף, אט, עוד, פחות, אף, בוודאי</li>
+          <li>DET: כל</li>
+          <li>NOUN: דרך</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: ו</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>PRON: איזה</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: כדי, עד, בגלל, כמו, למרות, אחרי, לפני, על, בזמן, בעוד</li>
+          <li>ADV: כך, בייחוד, מה, היכן</li>
+          <li>CCONJ: אף</li>
+          <li>DET: כל, כמה</li>
+          <li>PRON: מה</li>
+          <li>SCONJ: כפי, משום, ככל, מכיוון, היות, אם, כיוון, מאחר, בהינתן, בזמן</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -793,16 +834,15 @@ Goldin, Gili, Nick Howell, Noam Ordan, Ella Rabinovich, and Shuly Wintner (2024)
       <li>Yes
         <ul>
           <li>ADJ: פרד</li>
-          <li>ADP: בפנ, הם, כמן, לידי, ה</li>
-          <li>ADV: הינה, מדיי</li>
+          <li>ADP: הם, כמן</li>
+          <li>ADV: מדיי</li>
           <li>DET: איזושהי, אלו</li>
-          <li>NOUN: אימא, ועדת, חבר, יד, כפ, כשרויות, עינ, שמים, תופעות</li>
-          <li>PRON: ה</li>
-          <li>PROPN: ד', מפשטים</li>
+          <li>NOUN: אימא, ועדת, כשרויות, תופעות</li>
+          <li>PROPN: ד'</li>
           <li>SCONJ: כשאשר, מאיו</li>
-          <li>VERB: ייצאו, היתה, הרמת, לתבוע, מחייב, מציע, נהייה, נקבע, נקראה</li>
+          <li>VERB: ייצאו, היתה, לתבוע, מציע, נקראה</li>
           <li>VERB-Inf: לתבוע</li>
-          <li>VERB-Part: מחייב, מציע, נהייה</li>
+          <li>VERB-Part: מציע</li>
         </ul>
       </li>
     </ul>
@@ -849,7 +889,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(מעל) (1)</li>
       <li>VERB--PRON (397)</li>
       <li>VERB--PRON-ADP(כ) (2)</li>
-      <li>VERB--PRON-ADP(מתוך) (1)</li>
       <li>VERB-Inf--NOUN (89)</li>
       <li>VERB-Inf--PRON (144)</li>
       <li>VERB-Part--NOUN (366)</li>
@@ -863,15 +902,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (248)</li>
-      <li>VERB--NOUN-ADP(את) (237)</li>
+      <li>VERB--NOUN-ADP(את) (236)</li>
       <li>VERB--PRON (23)</li>
-      <li>VERB--PRON-ADP(את) (116)</li>
+      <li>VERB--PRON-ADP(את) (114)</li>
       <li>VERB--PRON-Acc (3)</li>
-      <li>VERB--PRON-Acc-ADP(את) (1)</li>
       <li>VERB-Inf--NOUN (306)</li>
-      <li>VERB-Inf--NOUN-ADP(את) (277)</li>
+      <li>VERB-Inf--NOUN-ADP(את) (274)</li>
       <li>VERB-Inf--PRON (20)</li>
-      <li>VERB-Inf--PRON-ADP(את) (145)</li>
+      <li>VERB-Inf--PRON-ADP(את) (143)</li>
       <li>VERB-Inf--PRON-Acc (6)</li>
       <li>VERB-Part--NOUN (198)</li>
       <li>VERB-Part--NOUN-ADP(את) (201)</li>
@@ -886,6 +924,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB--PRON-ADP(את) (2)</li>
+      <li>VERB--PRON-Acc-ADP(את) (1)</li>
+      <li>VERB-Inf--NOUN-ADP(את) (1)</li>
+      <li>VERB-Inf--PRON-ADP(את) (2)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
     </ul>
   </li>

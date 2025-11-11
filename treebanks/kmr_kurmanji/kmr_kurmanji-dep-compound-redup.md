@@ -1,20 +1,20 @@
 ---
 layout: base
-title:  'Statistics of compound:redup in UD_Kurmanji-MG'
+title:  'Statistics of compound:redup in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `compound:redup`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `compound:redup`
 
-This relation is a language-specific subtype of <tt><a href="kmr_mg-dep-compound.html">compound</a></tt>.
-There are also 1 other language-specific subtypes of `compound`: <tt><a href="kmr_mg-dep-compound-lvc.html">compound:lvc</a></tt>.
+This relation is a language-specific subtype of <tt><a href="kmr_kurmanji-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="kmr_kurmanji-dep-compound-lvc.html">compound:lvc</a></tt>.
 
 1 nodes (0%) are attached to their parents as `compound:redup`.
 
 1 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `compound:redup`: <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:redup`: <tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt> (1; 100% instances).
 
 
 ~~~ conllu

@@ -7,26 +7,37 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: Features: `PronType`
 
 This feature is universal.
-It occurs with 2 different values: `Int`, `Prs`.
+It occurs with 5 different values: `Dem`, `Ind`, `Int`, `Prs`, `Tot`.
 
-91 tokens (9%) have a non-empty value of `PronType`.
-20 types (5%) occur at least once with a non-empty value of `PronType`.
-13 lemmas (5%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (88; 9% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 0% instances).
+123 tokens (12%) have a non-empty value of `PronType`.
+37 types (10%) occur at least once with a non-empty value of `PronType`.
+23 lemmas (8%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (106; 11% instances), <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 ### `PRON`
 
-88 <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> tokens (84% of all `PRON` tokens) have a non-empty value of `PronType`.
+106 <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (78; 89%), <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 76%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64; 73%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (46; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (78; 74%), <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 63%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (65; 61%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Int` (6; 7% of non-empty `PronType`): <em>Kiripa, Kerupa</em>
-* `Prs` (82; 93% of non-empty `PronType`): <em>ywa, nynuwa, uwa, nuta, pitha, athamunhi, Atha, Ywã, ywamunhi</em>
-* `EMPTY` (17): <em>ykynypuku, atha, Athe, Hĩthamunhi, Ykynyk, Ywã, kiripa, pithe</em>
+* `Int` (7; 7% of non-empty `PronType`): <em>kiripa, Kerupa</em>
+* `Prs` (90; 85% of non-empty `PronType`): <em>ywa, nynuwa, uwa, nuta, pitha, atha, Ywã, athamunhi, hĩthamunhi, Athe</em>
+* `Tot` (9; 8% of non-empty `PronType`): <em>ykynypuku, Ykynyk</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (16) occur only with one value of `PronType`.
+
+### `DET`
+
+14 <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8; 57%).
+
+`DET` tokens may have the following values of `PronType`:
+
+* `Dem` (5; 36% of non-empty `PronType`): <em>iia, iie</em>
+* `Ind` (9; 64% of non-empty `PronType`): <em>kaiãapukury, ithu, kaiãapuku, kaiãpukury, kaiãũpuku</em>
 
 ### `ADV`
 

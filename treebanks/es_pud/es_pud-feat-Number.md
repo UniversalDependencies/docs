@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="es_pud-feat-Number.html">Number</a></tt>, <tt><a href="es_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
-13880 tokens (60%) have a non-empty value of `Number`.
+13879 tokens (60%) have a non-empty value of `Number`.
 5377 types (91%) occur at least once with a non-empty value of `Number`.
 3966 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4814; 21% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3333; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1724; 7% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1472; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1225; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (722; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (590; 3% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4814; 21% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3332; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1724; 7% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1472; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1225; 5% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (722; 3% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (590; 3% instances).
 
 ### `NOUN`
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (1390; 29% of non-empty `Number`): <em>años, millones, personas, estados, veces, ciudades, datos, elecciones, inversores, meses</em>
 * `Sing` (3424; 71% of non-empty `Number`): <em>año, guerra, lugar, parte, gobierno, mar, ciudad, estado, vez, día</em>
-* `EMPTY` (1): <em>HFC</em>
+* `EMPTY` (3): <em>cápita, HFC</em>
 
 <table>
   <tr><th>Paradigm <i>año</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -35,14 +35,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-3333 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+3332 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2984; 90%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2529; 76%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1986; 60%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2983; 90%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2528; 76%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1985; 60%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (797; 24% of non-empty `Number`): <em>los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</em>
-* `Sing` (2536; 76% of non-empty `Number`): <em>el, la, un, una, este, esta, esto, cada, ese, eso</em>
+* `Sing` (2535; 76% of non-empty `Number`): <em>el, la, un, una, este, esta, esto, cada, ese, eso</em>
 * `EMPTY` (6): <em>The, un</em>
 
 <table>

@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (2; 100% of non-empty `PronType`): <em>díì, díí-gè-ndé</em>
-* `EMPTY` (167): <em>ʔèá, hɛ̰̀, ʔé, ʔòé, mɛ̀, hḭ̀ḭ́, bèè, sí-ɗòŋ, ɗòŋ, ʔèááá</em>
+* `EMPTY` (168): <em>ʔèá, hɛ̰̀, ʔé, ʔòé, mɛ̀, hḭ̀ḭ́, bèè, sí-ɗòŋ, ɗòŋ, ʔèááá</em>
 
 ## Relations with Agreement in `PronType`
 

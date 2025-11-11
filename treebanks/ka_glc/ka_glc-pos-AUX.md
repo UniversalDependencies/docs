@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 9.000000 (the average of all parts of speech is 1.677821).
+The form / lemma ratio of `AUX` is 9.000000 (the average of all parts of speech is 1.674782).
 
 The 1st highest number of forms (15) was observed with the lemma “არის”: <em>ა, არიან, არის, ვარ, იქნა, იქნას, იქნება, იქნებოდა, იქნეს, იყვნენ, იყო, იყოს, ყოფილა, ყოფილიყო, ხარ</em>.
 
@@ -40,7 +40,7 @@ Examples: <em>ა, ხარ</em>
 
 `AUX` nodes are attached to their parents using 8 different relations: <tt><a href="ka_glc-dep-cop.html">cop</a></tt> (1276; 96% instances), <tt><a href="ka_glc-dep-aux.html">aux</a></tt> (34; 3% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (608; 46% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (553; 42% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (65; 5% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (39; 3% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (28; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (608; 46% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (322; 24% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (296; 22% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (39; 3% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (28; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 1307 (98%) `AUX` nodes are leaves.
 

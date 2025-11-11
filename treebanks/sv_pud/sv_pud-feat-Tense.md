@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 `ADV` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>fortsatt</em>
-* `EMPTY` (993): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
+* `EMPTY` (989): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
 
 ## Relations with Agreement in `Tense`
 

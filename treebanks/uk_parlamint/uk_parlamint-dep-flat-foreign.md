@@ -12,9 +12,9 @@ There are also 4 other language-specific subtypes of `flat`: <tt><a href="uk_par
 59 nodes (0%) are attached to their parents as `flat:foreign`.
 
 59 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.71186440677966.
+Average distance between parent and child is 6.69491525423729.
 
-The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (58; 98% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (1; 2% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-X.html">X</a></tt> (59; 100% instances).
 
 
 ~~~ conllu
@@ -39,43 +39,6 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 14	стоят	–	X	VERB	Foreign=Yes	7	flat:foreign	_	SpaceAfter=No
 15	"	"	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 23 flat:foreign	color:blue
-1	Як	як	SCONJ	SCONJ	_	3	mark	_	_
-2	ви	ви	PRON	PRON	Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
-3	побачите	побачити	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	14	parataxis	_	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	3	punct	_	_
-5	сьогодні	сьогодні	ADV	ADV	_	14	advmod	_	_
-6	канали	канал	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	_
-7	в	в	ADP	ADP	Case=Loc	9	case	_	_
-8	єдиній	єдиний	ADJ	ADJ	Case=Loc|Gender=Fem|Number=Sing	9	amod	_	_
-9	символіці	символіка	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	_
-10	на	на	ADP	ADP	Case=Loc	11	case	_	_
-11	тлі	тло	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
-12	Державного	державний	ADJ	ADJ	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
-13	прапора	прапор	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
-14	фіксують	фіксувати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-15	,	,	PUNCT	PUNCT	_	20	punct	_	_
-16	що	що	SCONJ	SCONJ	_	20	mark	_	_
-17	вони	вони	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
-18	за	за	ADP	ADP	Case=Acc	20	case	_	_
-19	єдину	єдиний	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	20	amod	_	_
-20	Україну	Україна	PROPN	PROPN	Animacy=Inan|Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	14	ccomp	_	SpaceAfter=No
-21	,	,	PUNCT	PUNCT	_	20	punct	_	_
-22	"	"	PUNCT	PUNCT	_	23	punct	_	SpaceAfter=No
-23	за	-	X	ADP	Foreign=Yes	20	flat:foreign	_	_
-24	единую	-	X	ADJ	Foreign=Yes	23	flat:foreign	_	_
-25	страну	-	X	NOUN	Foreign=Yes	23	conj	_	SpaceAfter=No
-26	"	"	PUNCT	PUNCT	_	25	punct	_	SpaceAfter=No
-27	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
 ~~~
 

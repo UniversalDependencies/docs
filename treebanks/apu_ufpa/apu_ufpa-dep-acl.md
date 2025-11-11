@@ -39,12 +39,12 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 acl	color:blue
-1	Txamary	txa	AUX	XPOS=AUX-FRUSTR	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	4	aux	_	gloss[pt]=AUX-FRUST-3SG.M.O
+1	Txamary	txa	AUX	XPOS=AUX-FRUSTR	Gender[obj]=Masc|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	4	aux	_	gloss[pt]=AUX-FRUST-3SG.M.O
 2	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	gloss[pt]=3PL
 3	kuna	kuna	PART	XPOS=não	Polarity=Neg	4	advmod	_	gloss[pt]=não
 4	kadinhẽrutene	dinhẽru	NOUN	XPOS=ATRIB-dinheiro-POSSD-3PL	_	0	root	_	gloss[pt]=ATRIB-dinheiro-POSSD-3PL|SpaceAfter=No
 5	,	,	PUNCT	_	_	10	punct	_	_
-6	txamary	txa	AUX	XPOS=AUX-FRUSTR	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	10	aux	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
+6	txamary	txa	AUX	XPOS=AUX-FRUSTR	Gender[obj]=Masc|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	10	aux	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
 7	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	gloss[pt]=3PL
 8	kaiãapukury	kaiãapukury	VERB	XPOS=muito-DISTR-M	_	10	acl	_	gloss[pt]=muito-DISTR-M
 9	nhipukury	nhipukury	VERB	XPOS=comida	Possessed=No	10	obj	_	gloss[pt]=comida-N.POSSD
@@ -60,7 +60,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 acl	color:blue
-1	Kaiãapukury	kaiãapuku	DET	Det	_	2	acl	_	gloss[pt]=muito-DISTR-M
+1	Kaiãapukury	kaiãapuku	DET	Det	PronType=Ind	2	acl	_	gloss[pt]=muito-DISTR-M
 2	apanakyny	apanakyny	NOUN	XPOS=resto	_	3	nsubj	_	gloss[pt]=resto
 3	awa	awa	VERB	XPOS=existir	_	0	root	_	gloss[pt]=existir|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_

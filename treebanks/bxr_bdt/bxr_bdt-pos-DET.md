@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>энэ</em> (<tt><a href="bxr_bdt-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.192308 (the average of all parts of speech is 1.638355).
+The form / lemma ratio of `DET` is 1.192308 (the average of all parts of speech is 1.638739).
 
 The 1st highest number of forms (3) was observed with the lemma “булта”: <em>булта, бултадаа, бултал</em>.
 

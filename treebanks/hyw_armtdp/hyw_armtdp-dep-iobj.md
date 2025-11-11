@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `iobj`: <tt><a href="hyw_armtdp-dep-iobj-agent.html">iobj:agent</a></tt>.
 
-427 nodes (0%) are attached to their parents as `iobj`.
+442 nodes (0%) are attached to their parents as `iobj`.
 
-230 instances of `iobj` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.30210772833724.
+234 instances of `iobj` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.30090497737557.
 
-The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (266; 62% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (123; 29% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (33; 8% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (275; 62% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (128; 29% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (34; 8% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
 4	ջանալով	ջանալ	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	2	advcl	_	Translit=ǰanalov|LTranslit=ǰanal
 5	քայլերդ	քայլ	NOUN	_	Animacy=Nhum|Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=2	8	obj	_	Translit=k’aylerd|LTranslit=k’ayl
-6	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp	7	det:poss	_	Translit=ir|LTranslit=ink’
+6	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp	7	det:poss	_	Translit=ir|LTranslit=ir
 7	քայլերուն	քայլ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	8	iobj	_	Translit=k’aylerown|LTranslit=k’ayl
 8	յարմարցնել	յարմարցնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	4	xcomp	_	Translit=yarmarc’nel|LTranslit=yarmarc’nel|SpaceAfter=No
 9	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
@@ -44,9 +44,9 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 2 3 iobj	color:blue
 1	Ան	ան	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=An|LTranslit=an
 2	պատմեց	պատմել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=patmec’|LTranslit=patmel
-3	քեզի	դուն	PRON	_	Animacy=Hum|Case=Dat|Number=Sing|Person=2|PronType=Prs	2	iobj	_	Translit=k’ezi|LTranslit=down
+3	քեզի	դուն	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	2	iobj	_	Translit=k’ezi|LTranslit=down
 4	պատմութիւնը	պատմութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	obj	_	Translit=patmowt’iwnë|LTranslit=patmowt’iwn
-5	քու	դուն	PRON	_	Animacy=Hum|Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod:npmod	_	Translit=k’ow|LTranslit=down
+5	քու	դուն	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod:npmod	_	Translit=k’ow|LTranslit=down
 6	մասիդ	մասին	ADP	_	AdpType=Post|Number[psor]=Sing|Person[psor]=2	5	case	_	Translit=masid|LTranslit=masin|SpaceAfter=No
 7	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 

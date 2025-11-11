@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 obl:lmod	color:blue
-1	Kaiãapukury	kaiãapuku	DET	XPOS=muito-DISTR-M	_	2	det	_	gloss[pt]=muito-DISTR-M
+1	Kaiãapukury	kaiãapuku	DET	XPOS=muito-DISTR-M	PronType=Ind	2	det	_	gloss[pt]=muito-DISTR-M
 2	tiwitxi	tiwitxi	NOUN	XPOS=coisa.de	Possessed=No	3	nsubj	_	gloss[pt]=coisa.de-N.POSSD
 3	awa	awa	VERB	XPOS=existir	_	0	root	_	gloss[pt]=existir
 4	apaka	apaka	ADV	Adv	_	3	advmod	_	gloss[pt]=também
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 obl:lmod	color:blue
 1	Pupỹkary	pupỹkary	NOUN	N	Gender=Masc	2	nsubj	_	gloss[pt]=índio
-2	sary	sa	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=ir-3SG.M.O
+2	sary	sa	VERB	V	Gender[obj]=Masc|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	gloss[pt]=ir-3SG.M.O
 3	Tapaua	Tapaua	PROPN	XPOS=Tapauá	_	2	obl:lmod	_	gloss[pt]=Tapauá
 4	maky	maky	NOUN	N	Gender=Fem	5	obl	_	gloss[pt]=castanha
 5	ivinitinhi	vinita	VERB	XPOS=3SG.M-vender	VerbForm=Vnoun	2	nmod	_	gloss[pt]=3SG.M-vender-GER

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-advmod.html">advmod</a></tt>.
 There are also 1 other language-specific subtypes of `advmod`: <tt><a href="lv_lvtb-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-167 nodes (0%) are attached to their parents as `advmod:neg`.
+168 nodes (0%) are attached to their parents as `advmod:neg`.
 
-166 instances of `advmod:neg` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29341317365269.
+167 instances of `advmod:neg` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29166666666667.
 
-The following 7 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (67; 40% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (52; 31% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (19; 11% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (10; 6% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (10; 6% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (7; 4% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (67; 40% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (52; 31% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (20; 12% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (10; 6% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (10; 6% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (7; 4% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

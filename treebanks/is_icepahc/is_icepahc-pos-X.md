@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Icelandic-IcePaHC: POS Tags: `X`
 
-There are 1193 `X` lemmas (3%), 1219 `X` types (2%) and 2277 `X` tokens (0%).
+There are 1192 `X` lemmas (3%), 1219 `X` types (2%) and 2277 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>anno, dominus, item, in, sankti, et, majst, trankival, etc, darius</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>anno</em> (<tt><a href="is_icepahc-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.021794 (the average of all parts of speech is 1.857072).
+The form / lemma ratio of `X` is 1.022651 (the average of all parts of speech is 1.858163).
 
 The 1st highest number of forms (8) was observed with the lemma “kristur”: <em>Christi, Christum, Christus, Kristo, Kristum, Kristus, Kristí, kristi</em>.
 

@@ -42,9 +42,9 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 18	laverin	laveri	NOUN	N,Sg,Gen	Case=Gen|Number=Sing	20	obl	_	_
 19	eteen	eteen	ADP	Adp	_	18	case	_	_
 20	mahtuisi	mahtua	VERB	V,Act,Cond,Sg3	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	conj	_	_
-21	pöytä	pöytä	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	20	nsubj	_	_
+21	pöytä	pöytä	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	20	nsubj	_	candidate=nsubj:exist
 22	,	,	PUNCT	Pun	_	21	punct	_	_
-23	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	24	orphan	_	_
+23	ei	ei	AUX	V,Neg,Act,Sg3	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	24	orphan	_	_
 24	suurensuuri	suurensuuri	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	21	acl	_	_
 25	,	,	PUNCT	Pun	_	24	punct	_	_
 26	mutta	mutta	CCONJ	Pcle,CC	_	29	cc	_	_
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 orphan	color:blue
-1	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	2	orphan	_	_
+1	ei	ei	AUX	V,Neg,Act,Sg3	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	2	orphan	_	_
 2	ihmeempää	ihme	NOUN	N,Cmp,Sg,Par	Case=Par|Degree=Cmp|Number=Sing	0	root	_	_
 
 ~~~

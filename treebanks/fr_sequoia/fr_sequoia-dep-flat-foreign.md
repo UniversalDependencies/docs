@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_sequoia-dep-flat-name.html">flat:name</a></tt>.
 
-134 nodes (0%) are attached to their parents as `flat:foreign`.
+136 nodes (0%) are attached to their parents as `flat:foreign`.
 
-134 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.94029850746269.
+136 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.90441176470588.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (134; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (136; 100% instances).
 
 
 ~~~ conllu

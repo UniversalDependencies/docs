@@ -27,7 +27,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 3	faire	faire	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 4	dans	dans	ADP	_	_	6	case	_	_
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	contexte	contexte	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
+6	contexte	contexte	NOUN	_	Number=Sing	3	obl:mod	_	Gender[lex]=Masc
 7	structurellement	structurellement	ADV	_	_	8	advmod	_	_
 8	raciste	raciste	ADJ	_	Number=Sing	6	amod	_	Gender[ctxt]=Masc
 9	?	?	PUNCT	_	_	3	punct	_	_
@@ -42,11 +42,11 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 10 amod	color:blue
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=le
-2	dialecte	dialecte	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	dialecte	dialecte	NOUN	_	Number=Sing	6	nsubj	_	Gender[lex]=Masc
 3	local	local	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	dérivé	dérivé	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	dérivé	dérivé	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Masc
 7	de	de	ADP	_	_	9	case	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Basque	Basque	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	_
@@ -67,9 +67,9 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 3	pour	pour	ADP	_	_	6	case	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 5	modique	modique	ADJ	_	Number=Sing	6	amod	_	Gender[ctxt]=Fem
-6	somme	somme	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+6	somme	somme	NOUN	_	Number=Sing	2	nmod	_	Gender[lex]=Fem
 7	de	de	ADP	_	_	9	case	_	_
-8	32	32	NUM	_	Number=Plur	9	nummod	_	_
+8	32	32	NUM	_	_	9	nummod	_	Number[lex]=Plur
 9	€	€	SYM	_	ExtPos=NOUN|Number=Plur	6	nmod	_	_
 10	!	!	PUNCT	_	_	2	punct	_	_
 

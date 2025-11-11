@@ -9,30 +9,30 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-26 tokens (0%) have a non-empty value of `Red`.
-18 types (1%) occur at least once with a non-empty value of `Red`.
-15 lemmas (1%) occur at least once with a non-empty value of `Red`.
-The feature is used with 5 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+34 tokens (0%) have a non-empty value of `Red`.
+25 types (1%) occur at least once with a non-empty value of `Red`.
+22 lemmas (1%) occur at least once with a non-empty value of `Red`.
+The feature is used with 5 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (20; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-15 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Red`.
+20 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Red`.
 
-The most frequent other feature values with which `VERB` and `Red` co-occurred: <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 73%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10; 67%).
+The most frequent other feature values with which `VERB` and `Red` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20; 100%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19; 95%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 70%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 65%).
 
 `VERB` tokens may have the following values of `Red`:
 
-* `Yes` (15; 100% of non-empty `Red`): <em>uyawiyawika, Akaá-kaá, Tasuú-suú, Utuká-tuká, aganaganari, atuká-tuká, takaú-kaú, ukaúkaú, ukikiri, upinú-pinú</em>
+* `Yes` (20; 100% of non-empty `Red`): <em>uyawiyawika, Akaá-kaá, Tasuú-suú, Utuká-tuká, aganaganari, atuká-tuká, ipukukapukuka, takaú-kaú, ukaúkaú, ukikiri</em>
 
-`Red` seems to be **lexical feature** of `VERB`. 100% lemmas (12) occur only with one value of `Red`.
+`Red` seems to be **lexical feature** of `VERB`. 100% lemmas (17) occur only with one value of `Red`.
 
 ### `ADJ`
 
-4 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Red`.
+7 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Red`.
 
 `ADJ` tokens may have the following values of `Red`:
 
-* `Yes` (4; 100% of non-empty `Red`): <em>purapuranga</em>
+* `Yes` (7; 100% of non-empty `Red`): <em>purapuranga, aíwa-aíwa, pixuna-pixuna</em>
 
 ### `DET`
 

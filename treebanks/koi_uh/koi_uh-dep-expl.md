@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	Тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj:cop	_	GTtags=Pers,Sg2,Nom
 2	али	али	CCONJ	_	_	3	cc	_	_
 3	ме	ме	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	GTtags=Pers,Sg1,Nom
-4	этö	этö	PRON	_	_	5	expl	_	_
+4	этö	этö	PRON	_	PronType=Dem	5	expl	_	_
 5	долженöсь	долженöсь	ADJ	_	_	0	root	_	_
 6	керны	керны	VERB	_	VerbForm=Inf	5	advcl	_	GTtags=Inf|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_

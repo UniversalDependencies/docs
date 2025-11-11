@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a 
 7	gbòò	gbo	VERB	V	_	2	parataxis	_	AlignBegin=304172|AlignEnd=304459|Gloss=arriver|MGloss=ACC-arriver-MT|MSeg=BHa-gbo-H|nWord=7|RX=V
 8	ʔé	ʔé	ADV	ADV	_	7	advmod	_	AlignBegin=304459|AlignEnd=304746|Gloss=déjà|MGloss=déjà|MSeg=ʔé|nWord=8|RX=ADV
 9	nɛ̀	nɛ̀	ADP	FCT	_	11	case	_	AlignBegin=304746|AlignEnd=305033|Gloss=avec|MGloss=avec|MSeg=nɛ̀|nWord=9|RX=FCT
-10	ʔó	ʔò	DET	MN	_	11	dep	_	AlignBegin=305033|AlignEnd=305320|Gloss=idée de totalité|MGloss=idée de totalité-MT|MSeg=ʔò-H|nWord=10|RX=MN
+10	ʔó	ʔò	DET	MN	_	11	dep	_	AlignBegin=305033|AlignEnd=305320|Gloss=idée_de_totalité|MGloss=idée_de_totalité-MT|MSeg=ʔò-H|nWord=10|RX=MN
 11	kóré	kóré	NOUN	N	_	7	obl:arg	_	AlignBegin=305320|AlignEnd=305607|Gloss=aliment_séché|MGloss=aliment_séché-MT|MSeg=kóré-H|nWord=11|RX=N
 12	gèɗà	gèɗà	NOUN	N	_	11	obj	_	AlignBegin=305607|AlignEnd=305894|Gloss=manioc|MGloss=manioc|MSeg=gèɗà|nWord=12|RX=N
 13	sɛ̀kɛ̀ɛ̀	sɛ̀kɛ̀ɛ̀	ADV	ADV	_	7	advmod	_	AlignBegin=305894|AlignEnd=306180|Gloss=brusquement|MGloss=brusquement|MSeg=sɛ̀kɛ̀ɛ̀|nWord=13|RX=ADV

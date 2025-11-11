@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  が (<tt><a href="ja_pudluw-pos-ADP.html"
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.079803).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.079832).
 
 The 1st highest number of forms (1) was observed with the lemma “から”: から.
 
@@ -61,7 +61,7 @@ The 3rd highest number of forms (1) was observed with the lemma “が”: が.
 
 `SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ja_pudluw-dep-mark.html">mark</a></tt> (313; 100% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (259; 83% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (23; 7% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (21; 7% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (260; 83% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (23; 7% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (20; 6% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 313 (100%) `SCONJ` nodes are leaves.
 

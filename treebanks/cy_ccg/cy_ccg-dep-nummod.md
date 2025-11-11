@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-330 nodes (1%) are attached to their parents as `nummod`.
+347 nodes (1%) are attached to their parents as `nummod`.
 
-300 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03939393939394.
+316 instances of `nummod` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05763688760807.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (275; 83% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (38; 12% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (290; 84% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (38; 11% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (8; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	fersiwn	fersiwn	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
 3	Elise	Elise	PROPN	person	Gender=Masc|Number=Sing	2	nmod	_	_
 4	o	o	ADP	prep	_	6	case	_	SpaceAfter=No
-5	'r	y	DET	art	_	6	det	_	_
+5	'r	y	DET	art	PronType=Art	6	det	_	_
 6	gân	cân	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	2	nmod	_	_
 7	Un	un	NUM	num	NumForm=Word|NumType=Card	8	nummod	_	_
 8	Seren	Seren	NOUN	noun	Gender=Masc|Number=Sing	6	appos	_	_
@@ -72,10 +72,10 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	60000	60000	NUM	num	NumForm=Digit|NumType=Card	4	nummod	_	_
 4	ewro	Ewro	PROPN	work	_	1	nmod	_	_
 5	fu	bod	AUX	aux	Mood=Ind|Mutation=SM|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No
-6	'r	y	DET	art	_	7	det	_	_
+6	'r	y	DET	art	PronType=Art	7	det	_	_
 7	dyfarniad	dyfarniad	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
 8	i	i	ADP	prep	_	11	case	_	SpaceAfter=No
-9	'r	y	DET	art	_	11	det	_	_
+9	'r	y	DET	art	PronType=Art	11	det	_	_
 10	tri	tri	NUM	num	Gender=Masc|NumForm=Word|NumType=Card	11	nummod	_	_
 11	arall	arall	ADJ	pos	Degree=Pos	7	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\n

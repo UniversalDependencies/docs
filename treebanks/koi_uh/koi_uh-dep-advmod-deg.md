@@ -22,8 +22,8 @@ The following 1 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 13 advmod:deg	color:blue
-1	Мӧдыс	мӧд	PRON	Pron	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	GTtags=Sg,Nom,PxSg3
-2	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+1	Мӧдыс	мӧд	PRON	Pron	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Ind	2	nsubj	_	GTtags=Sg,Nom,PxSg3
+2	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3
 3	сё	сё	ADV	Adv	AdvType=Deg	2	advmod	_	GTtags=AdA
 4	сідз	сідз	ADV	Adv	_	2	advmod	_	_
 5	жӧ	жӧ	PART	Pcle	_	4	discourse	_	_
@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 7	сайӧвтӧмӧн	cайӧвтны	VERB	V	Derivation=Omon|VerbForm=Conv	2	advcl	_	GTtags=Der/Omon,Ger|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	10	punct	_	_
 9	мыйкӧ	мыйкӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	10	obj	_	GTtags=Indef,Sg,Nom
-10	шушкис	шушкыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3
+10	шушкис	шушкыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	GTtags=Ind,Prt1,Sg3
 11	гусьӧник	гусьӧник	ADV	Adv	_	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	14	punct	_	_
 13	дзик	дзик	ADV	Adv	AdvType=Deg	14	advmod:deg	_	GTtags=AdA
@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 16	,	,	PUNCT	CLB	_	14	punct	_	_
 17	сэсся	сэсся	ADV	Adv	AdvType=Tim	19	advmod	_	_
 18	ыш	ыш	INTJ	Interj	_	19	compound:prt	_	_
-19	ловзисис	ловзисьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+19	ловзисис	ловзисьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 20	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

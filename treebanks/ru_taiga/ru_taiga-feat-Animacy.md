@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-475676 tokens (27%) have a non-empty value of `Animacy`.
+475677 tokens (27%) have a non-empty value of `Animacy`.
 76793 types (51%) occur at least once with a non-empty value of `Animacy`.
 31412 lemmas (57%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (373634; 21% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (54576; 3% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (24539; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (12748; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (7095; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1860; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1223; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (373634; 21% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (54576; 3% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (24540; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (12748; 1% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (7095; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1860; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1223; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -75,14 +75,14 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 ### `PRON`
 
-24539 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (28% of all `PRON` tokens) have a non-empty value of `Animacy`.
+24540 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (28% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24539; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23406; 95%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (20601; 84%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24540; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23407; 95%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (20602; 84%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Anim` (3917; 16% of non-empty `Animacy`): <em>кто, все, никто, всех, всем, кого, кто-то, кому, никому, никого</em>
-* `Inan` (20622; 84% of non-empty `Animacy`): <em>это, что, то, все, ничего, всё, того, том, тем, всего</em>
+* `Inan` (20623; 84% of non-empty `Animacy`): <em>это, что, то, все, ничего, всё, того, том, тем, всего</em>
 * `EMPTY` (64286): <em>я, он, она, мы, они, ты, мне, меня, его, вы</em>
 
 <table>
@@ -97,7 +97,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-ExtPos.html">ExtPos</a></tt><tt>=VERB</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>того</em></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>того</em></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>тем</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-ExtPos.html">ExtPos</a></tt><tt>=CCONJ</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>тем</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-ExtPos.html">ExtPos</a></tt><tt>=CCONJ</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>Тем</em></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-ExtPos.html">ExtPos</a></tt><tt>=PART</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>тем</em></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>тем</em></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>тем, тым</em></td></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 12748 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12737; 100%), <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12033; 94%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt> (6735; 53%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6734; 53%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12737; 100%), <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12026; 94%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt> (6735; 53%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6734; 53%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -160,7 +160,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (387; 21% of non-empty `Animacy`): <em>присутствующих, имеющих, собравшихся, стоявшего, занятых, пойманных, притаившихся, пришедшего, считающего, беседующих</em>
 * `Inan` (1473; 79% of non-empty `Animacy`): <em>связанные, написанные, посвященные, называемый, имеющие, выполненные, существующие, созданные, блестящий, возникшие</em>
-* `EMPTY` (209772): <em>есть, может, можно, сказал, надо, нет, сказала, значит, было, сказать</em>
+* `EMPTY` (209786): <em>есть, может, можно, сказал, надо, нет, сказала, значит, было, сказать</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -180,7 +180,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 * `Anim` (114; 9% of non-empty `Animacy`): <em>двух, одного, обоих, двоих, трех, троих, обеих, нескольких, семерых, четверых</em>
 * `Inan` (1109; 91% of non-empty `Animacy`): <em>два, три, один, две, четыре, обе, оба, двое, пять, сто</em>
-* `EMPTY` (11626): <em>много, несколько, два, двух, 2, 1, 3, одной, сколько, один</em>
+* `EMPTY` (11625): <em>много, несколько, два, двух, 2, 1, 3, одной, сколько, один</em>
 
 <table>
   <tr><th>Paradigm <i>один</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -203,11 +203,11 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (59527; 78%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (34827; 94%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (59520; 78%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (34826; 94%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7022; 85%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4718; 79%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4125; 87%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4126; 87%),
 <tt>PROPN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2892; 91%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (2572; 81%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1899; 50%),

@@ -6,84 +6,85 @@ udver: '2'
 
 ## Treebank Statistics: UD_Sindhi-Isra: POS Tags: `AUX`
 
-There are 2 `AUX` lemmas (0%), 57 `AUX` types (2%) and 852 `AUX` tokens (5%).
-Out of 15 observed tags, the rank of `AUX` is: 15 in number of lemmas, 8 in number of types and 6 in number of tokens.
+There are 3 `AUX` lemmas (0%), 103 `AUX` types (1%) and 4918 `AUX` tokens (5%).
+Out of 15 observed tags, the rank of `AUX` is: 15 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>آهي, سگهي</em>
+The 10 most frequent `AUX` lemmas: <em>آهي, سگهي, _</em>
 
-The 10 most frequent `AUX` types:  <em>آهي, ٿي, ٿو, آهن, هو, ٿا, هئي, ناهي, هئا, آهيان</em>
+The 10 most frequent `AUX` types:  <em>آهي, ٿي, آهن, هو, ٿو, ٿا, هئي, ٿيو, ناهي, هئا</em>
 
-The 10 most frequent ambiguous lemmas: <em>آهي</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 835, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 60, <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> 3), <em>سگهي</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 17, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>آهي</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 4663, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 499, <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> 4), <em>_</em> (<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> 3850, <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> 838, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 185, <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> 66, <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> 58, <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> 30, <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> 24, <tt><a href="sd_isra-pos-PART.html">PART</a></tt> 24, <tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> 22, <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> 17, <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 16, <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="sd_isra-pos-DET.html">DET</a></tt> 8, <tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>هو</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 41, <tt><a href="sd_isra-pos-DET.html">DET</a></tt> 9, <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> 3), <em>آهيان</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 12, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 2), <em>ٿئي</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 10, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 4), <em>هوندو</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 7, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 3), <em>هوندي</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 4, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 3), <em>هوندا</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 2, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 1), <em>ھو</em> (<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 2), <em>آهيو</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 1, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 1), <em>سگھبو</em> (<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 2, <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 1), <em>ٿيا</em> (<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 5, <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ٿي</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 639, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 34), <em>هو</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 351, <tt><a href="sd_isra-pos-DET.html">DET</a></tt> 173), <em>هئي</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 169, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 1), <em>آهيان</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 53, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 2), <em>ها</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 37, <tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> 19), <em>ٿيون</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 28, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 3), <em>ٿئي</em> (<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 72, <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 19), <em>هوندو</em> (<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 64, <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 16), <em>اٿئي</em> (<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 7, <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 1), <em>آهيو</em> (<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 8, <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 5)
 
 
+* <em>ٿي</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 639: <em>سو وايون بطال <b>ٿي</b> ويس .</em>
+  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 34: <em>ان وقت تائين کائي پي آءٌ ٿلهي متاري <b>ٿي</b> وينديس .</em>
 * <em>هو</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 41: <em>هڪڙو <b>هو</b> گدڙ ،</em>
-  * <tt><a href="sd_isra-pos-DET.html">DET</a></tt> 9: <em><b>هو</b> هريل ته اڳيئي هو ،</em>
-  * <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> 3: <em>جو ڏسي <b>هو</b> سڀ ڏڪڻ لڳا .</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 351: <em>هڪڙو <b>هو</b> گدڙ ،</em>
+  * <tt><a href="sd_isra-pos-DET.html">DET</a></tt> 173: <em><b>هو</b> هريل ته اڳيئي هو ،</em>
+* <em>هئي</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 169: <em>رِڍَ کي <b>هئي</b> سخت اُڃ ،</em>
+  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 1: <em>پوڙهي ته انهيءَ تاڙ ۾ <b>هئي</b> ،</em>
 * <em>آهيان</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 12: <em>عزرائيل کان مسين مسين جان بچائي وٺي ڀڳو <b>آهيان</b> .</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 53: <em>عزرائيل کان مسين مسين جان بچائي وٺي ڀڳو <b>آهيان</b> .</em>
   * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 2: <em>ڪڙميءَ جي زال چيو ته : آءٌ عزرائيل <b>آهيان</b> ،</em>
+* <em>ها</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 37: <em>جي شينهن هجي <b>ها</b> ته ڏسو ڪونه <b>ها</b> !</em>
+  * <tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> 19: <em><b>ها</b> ، آءٌ پنهنجي گهر وڃڻ گهران ٿي .</em>
+* <em>ٿيون</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 28: <em>صبح جو سوير پکين جي چونچون تمام گھڻو مزو ڏين <b>ٿيون</b> .</em>
+  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 3: <em>ان کان اڳ جو اسان ڪنهن اهڙي غذائي بحران جو شڪار <b>ٿيون</b> ،</em>
 * <em>ٿئي</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 10: <em>سنڌوءَ ۾ ڪٽ لڳن يا سکر بئراج وٽ ڪو معجزو <b>ٿئي</b> ،</em>
-  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 4: <em>لوهارڪي ڪم ۾ هٿ سخت <b>ٿئي</b> ٿو .</em>
+  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 72: <em>ڪهڙو نه چڱو <b>ٿئي</b> جو اسان پاڻ ۾ شادي ڪري گڏ رهون .</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 19: <em>سنڌوءَ ۾ ڪٽ لڳن يا سکر بئراج وٽ ڪو معجزو <b>ٿئي</b> ،</em>
 * <em>هوندو</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 7: <em>نه ته تنهنجو خير ڪونه <b>هوندو</b> .</em>
-  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 3: <em>ڪنهن کي ڌوڪو ڏيڻ اصل ۾ پنهنجو پاڻ کي ڌوڪو ڏيڻ <b>هوندو</b> آهي .</em>
-* <em>هوندي</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 4: <em>دائي چيس ته : ننڍي <b>هوندي</b> مائٽن منهنجي پيٽ ۾ ڪتيءَ جو پلونگڙو وجهي ڇڏيو هو ،</em>
-  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 3: <em>انسان ۾ ڏکن کي برداشت ڪرڻ جي صلاحيت <b>هوندي</b> آهي .</em>
-* <em>هوندا</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 2: <em>جنهن ۾ مخالف ڌر جا ميمبر به شامل <b>هوندا</b> ،</em>
-  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 1: <em>مصر جا ماڻهو سهڻا <b>هوندا</b> آهن .</em>
-* <em>ھو</em>
-  * <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> 3: <em><b>ھو</b> ڀلي اڇي .</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 2: <em>ھمراہ گھمڻ ويو <b>ھو</b> .</em>
+  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 64: <em>اهو تنهنجو گهر <b>هوندو</b> .</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 16: <em>نه ته تنهنجو خير ڪونه <b>هوندو</b> .</em>
+* <em>اٿئي</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 7: <em>وري ڪنن ۾ هيرا موتي پيل <b>اٿئي</b> ته ڄڻ ساڳيو سلطان ويٺو آهين .</em>
+  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 1: <em>مت ته ڪانه کسي <b>اٿئي</b> ،</em>
 * <em>آهيو</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 1: <em>جو توهين اسان جا بادشاهه <b>آهيو</b> .</em>
-  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 1: <em>اوسيڙي ۾ بيٺا <b>آهيو</b> ؟ شينهن ڊپ ۾ جواب ڏيڻ بدران ،</em>
-* <em>سگھبو</em>
-  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 2: <em>اوهان کي او سائين وساري نه <b>سگھبو</b> .</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 1: <em>ڪيترو به ڀڄبو پر موت کان بچي نه <b>سگھبو</b> .</em>
-* <em>ٿيا</em>
-  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 5: <em>جڏهن اڃا به ويجها <b>ٿيا</b> ،</em>
-  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 1: <em>ڍڳيون ، مينهون ، اُٺ وغيره ، جي پڻ گدڙ جي ساڳيءَ طرح ساراهه ڪندا ، پاڻي پيئندا روانا <b>ٿيا</b> .</em>
+  * <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> 8: <em>اوسيڙي ۾ بيٺا <b>آهيو</b> ؟ شينهن ڊپ ۾ جواب ڏيڻ بدران ،</em>
+  * <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> 5: <em>جو توهين اسان جا بادشاهه <b>آهيو</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 28.500000 (the average of all parts of speech is 1.296195).
+The form / lemma ratio of `AUX` is 34.333333 (the average of all parts of speech is 1.872520).
 
-The 1st highest number of forms (49) was observed with the lemma “آهي”: <em>آ, آهن, آهي, آهيئي, آهيان, آهين, آهيو, آهيون, آھن, آھي, آھيان, آھيس, آھين, اٿئي, اٿم, اٿو, اٿيئي, ناهن, ناهي, نٿا, نٿو, نٿي, هئا, هئي, هئين, ها, هجئي, هجي, هو, هوندا, هوندو, هوندي, هيون, ٿئي, ٿا, ٿو, ٿي, ٿيئي, ٿيا, ٿيس, ٿين, ٿيو, ٿيون, ڪانهي, ڪونهن, ڪونهي, ھئو, ھا, ھو</em>.
+The 1st highest number of forms (74) was observed with the lemma “آهي”: <em>آ, آه, آهن, آهي, آهيئي, آهيان, آهين, آهيو, آهيون, آُھي, آھن, آھي, آھيان, آھيس, آھين, آھيون, اٿئي, اٿس, اٿم, اٿن, اٿو, اٿيئي, ناهن, ناهي, ناهيان, ناھن, ناھي, نٿا, نٿو, نٿي, هئا, هئاسين, هئس, هئي, هئين, ها, هجئي, هجن, هجو, هجون, هجي, هو, هوس, هومانس, هوندا, هوندو, هوندي, هي, هيا, هيس, هيم, هيو, هيون, ٿئي, ٿا, ٿو, ٿي, ٿيئي, ٿيا, ٿيان, ٿيس, ٿين, ٿيو, ٿيون, ٿيڻ, ڪانهي, ڪونهن, ڪونهي, ڪونھي, ھئا, ھئو, ھا, ھجن, ھو</em>.
 
-The 2nd highest number of forms (8) was observed with the lemma “سگهي”: <em>سگهجي, سگهن, سگهي, سگھبو, سگھن, سگھندين, سگھي, سگھيس</em>.
+The 2nd highest number of forms (25) was observed with the lemma “سگهي”: <em>سگهان, سگهجي, سگهن, سگهندا, سگهنداسون, سگهنداسين, سگهندس, سگهندو, سگهندي, سگهنديس, سگهنديون, سگهي, سگهيا, سگهيس, سگهين, سگهيو, سگهيون, سگهڻ, سگھان, سگھبو, سگھن, سگھندين, سگھي, سگھيا, سگھيس</em>.
 
-`AUX` occurs with 11 features: <tt><a href="sd_isra-feat-Number.html">Number</a></tt> (781; 92% instances), <tt><a href="sd_isra-feat-Tense.html">Tense</a></tt> (770; 90% instances), <tt><a href="sd_isra-feat-Person.html">Person</a></tt> (329; 39% instances), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt> (268; 31% instances), <tt><a href="sd_isra-feat-Polarity.html">Polarity</a></tt> (32; 4% instances), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt> (10; 1% instances), <tt><a href="sd_isra-feat-Mood.html">Mood</a></tt> (10; 1% instances), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt> (8; 1% instances), <tt><a href="sd_isra-feat-Person-subj.html">Person[subj]</a></tt> (6; 1% instances), <tt><a href="sd_isra-feat-Number-subj.html">Number[subj]</a></tt> (4; 0% instances), <tt><a href="sd_isra-feat-Number-obj.html">Number[obj]</a></tt> (2; 0% instances)
+The 3rd highest number of forms (4) was observed with the lemma “_”: <em>سگهبو, سگهو, سگهون, سگھون</em>.
 
-`AUX` occurs with 19 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Gender=Fem`, `Gender=Masc`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Number[obj]=Sing`, `Number[subj]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Voice=Pass`
+`AUX` occurs with 13 features: <tt><a href="sd_isra-feat-Number.html">Number</a></tt> (4732; 96% instances), <tt><a href="sd_isra-feat-Tense.html">Tense</a></tt> (4134; 84% instances), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt> (1677; 34% instances), <tt><a href="sd_isra-feat-Person.html">Person</a></tt> (1539; 31% instances), <tt><a href="sd_isra-feat-Polarity.html">Polarity</a></tt> (243; 5% instances), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt> (191; 4% instances), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt> (104; 2% instances), <tt><a href="sd_isra-feat-Mood.html">Mood</a></tt> (39; 1% instances), <tt><a href="sd_isra-feat-Person-subj.html">Person[subj]</a></tt> (8; 0% instances), <tt><a href="sd_isra-feat-Number-subj.html">Number[subj]</a></tt> (6; 0% instances), <tt><a href="sd_isra-feat-Number-obj.html">Number[obj]</a></tt> (2; 0% instances), <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt> (2; 0% instances), <tt><a href="sd_isra-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`AUX` occurs with 62 feature combinations.
-The most frequent feature combination is `Number=Sing|Tense=Pres` (273 tokens).
-Examples: <em>آهي, ٿي, ٿو, آ, آهيان, آھي, آهيئي, آهين, ڪانهي</em>
+`AUX` occurs with 22 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Gender=Fem`, `Gender=Masc`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Number[obj]=Sing`, `Number[subj]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Inf`, `Voice=Pass`
+
+`AUX` occurs with 118 feature combinations.
+The most frequent feature combination is `Number=Sing|Tense=Pres` (1554 tokens).
+Examples: <em>آهي, ٿي, آھي, ٿو, آ, آهيان, آهين, آه, آهيئي, سگهنداسون</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="sd_isra-dep-aux.html">aux</a></tt> (528; 62% instances), <tt><a href="sd_isra-dep-cop.html">cop</a></tt> (298; 35% instances), <tt><a href="sd_isra-dep-root.html">root</a></tt> (10; 1% instances), <tt><a href="sd_isra-dep-compound.html">compound</a></tt> (8; 1% instances), <tt><a href="sd_isra-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="sd_isra-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sd_isra-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sd_isra-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="sd_isra-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 14 different relations: <tt><a href="sd_isra-dep-aux.html">aux</a></tt> (2993; 61% instances), <tt><a href="sd_isra-dep-cop.html">cop</a></tt> (1737; 35% instances), <tt><a href="sd_isra-dep-root.html">root</a></tt> (71; 1% instances), <tt><a href="sd_isra-dep-compound.html">compound</a></tt> (28; 1% instances), <tt><a href="sd_isra-dep-conj.html">conj</a></tt> (24; 0% instances), <tt><a href="sd_isra-dep-advcl.html">advcl</a></tt> (23; 0% instances), <tt><a href="sd_isra-dep-obj.html">obj</a></tt> (14; 0% instances), <tt><a href="sd_isra-dep-dep.html">dep</a></tt> (10; 0% instances), <tt><a href="sd_isra-dep-xcomp.html">xcomp</a></tt> (7; 0% instances), <tt><a href="sd_isra-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="sd_isra-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="sd_isra-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="sd_isra-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sd_isra-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (502; 59% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (213; 25% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (91; 11% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (15; 2% instances),  (10; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (2835; 58% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1214; 25% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (495; 10% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (90; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (71; 1% instances),  (71; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (66; 1% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (32; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (30; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-840 (99%) `AUX` nodes are leaves.
+4767 (97%) `AUX` nodes are leaves.
 
-1 (0%) `AUX` nodes have one child.
+18 (0%) `AUX` nodes have one child.
 
-1 (0%) `AUX` nodes have two children.
+6 (0%) `AUX` nodes have two children.
 
-10 (1%) `AUX` nodes have three or more children.
+127 (3%) `AUX` nodes have three or more children.
 
-The highest child degree of a `AUX` node is 8.
+The highest child degree of a `AUX` node is 10.
 
-Children of `AUX` nodes are attached using 12 different relations: <tt><a href="sd_isra-dep-compound.html">compound</a></tt> (12; 23% instances), <tt><a href="sd_isra-dep-punct.html">punct</a></tt> (9; 17% instances), <tt><a href="sd_isra-dep-nsubj.html">nsubj</a></tt> (8; 15% instances), <tt><a href="sd_isra-dep-xcomp.html">xcomp</a></tt> (5; 10% instances), <tt><a href="sd_isra-dep-aux.html">aux</a></tt> (4; 8% instances), <tt><a href="sd_isra-dep-obl.html">obl</a></tt> (4; 8% instances), <tt><a href="sd_isra-dep-advcl.html">advcl</a></tt> (3; 6% instances), <tt><a href="sd_isra-dep-advmod.html">advmod</a></tt> (3; 6% instances), <tt><a href="sd_isra-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="sd_isra-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="sd_isra-dep-discourse.html">discourse</a></tt> (1; 2% instances), <tt><a href="sd_isra-dep-mark.html">mark</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 19 different relations: <tt><a href="sd_isra-dep-compound.html">compound</a></tt> (128; 18% instances), <tt><a href="sd_isra-dep-punct.html">punct</a></tt> (109; 15% instances), <tt><a href="sd_isra-dep-aux.html">aux</a></tt> (87; 12% instances), <tt><a href="sd_isra-dep-nsubj.html">nsubj</a></tt> (87; 12% instances), <tt><a href="sd_isra-dep-obl.html">obl</a></tt> (81; 11% instances), <tt><a href="sd_isra-dep-xcomp.html">xcomp</a></tt> (62; 9% instances), <tt><a href="sd_isra-dep-advcl.html">advcl</a></tt> (46; 6% instances), <tt><a href="sd_isra-dep-advmod.html">advmod</a></tt> (27; 4% instances), <tt><a href="sd_isra-dep-mark.html">mark</a></tt> (25; 3% instances), <tt><a href="sd_isra-dep-cc.html">cc</a></tt> (20; 3% instances), <tt><a href="sd_isra-dep-conj.html">conj</a></tt> (15; 2% instances), <tt><a href="sd_isra-dep-dep.html">dep</a></tt> (10; 1% instances), <tt><a href="sd_isra-dep-obj.html">obj</a></tt> (10; 1% instances), <tt><a href="sd_isra-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="sd_isra-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="sd_isra-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="sd_isra-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="sd_isra-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="sd_isra-dep-cop.html">cop</a></tt> (1; 0% instances)
 
-Children of `AUX` nodes belong to 13 different parts of speech: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (13; 25% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (10; 19% instances), <tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (9; 17% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (6; 12% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (4; 8% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 15 different parts of speech: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (194; 27% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (154; 21% instances), <tt><a href="sd_isra-pos-PUNCT.html">PUNCT</a></tt> (109; 15% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (90; 13% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (42; 6% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (27; 4% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (23; 3% instances), <tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (20; 3% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (14; 2% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt> (12; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 

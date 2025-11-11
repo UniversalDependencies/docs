@@ -67,17 +67,17 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="f
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 cc	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1	3	nsubj	_	_
+1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	étudiant	étudiant	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	et	et	CCONJ	_	_	6	cc	_	_
-5	je	il	PRON	_	Number=Sing|Person=1	6	nsubj	_	_
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	aide	aide	NOUN	_	Number=Sing	6	obj	_	_
 9	pour	pour	ADP	_	_	10	mark	_	_
 10	payer	payer	VERB	_	VerbForm=Inf	8	acl	_	_
-11	mon	son	DET	_	Number=Sing|Poss=Yes	12	det	_	_
+11	mon	son	DET	_	Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
 12	logement	logement	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 

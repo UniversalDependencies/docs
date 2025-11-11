@@ -52,10 +52,10 @@ The following 4 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 8 nsubj:cop	color:blue
 1	И	и	CCONJ	CC	_	2	cc	_	_
-2	заводиті	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Err/Dial,Sg3
+2	заводиті	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Err/Dial,Sg3
 3	сіес	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	obj	_	GTtags=Pers,Sg3,Acc,Err/Dial|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
-5	вошйи	вошйыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Err/Dial,Sg3|SpaceAfter=No
+5	вошйи	вошйыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	GTtags=Ind,Prt1,Err/Dial,Sg3|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
 7	мыля	мыйла	SCONJ	CS	_	9	mark	_	GTtags=CS
 8	ачум	ас	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	9	nsubj:cop	_	GTtags=Refl,Sg1,Err/Dial,Nom
@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 10	и	и	CCONJ	CC	_	13	cc	_	_
 11	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	GTtags=Pers,Sg1,Err/Dial,Acc
 12	сыа	сійӧ	PRON	Pron	PronType=Dem	13	nsubj	_	GTtags=Err/Dial,Dem
-13	интересуйтэ	интересуйтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+13	интересуйтэ	интересуйтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

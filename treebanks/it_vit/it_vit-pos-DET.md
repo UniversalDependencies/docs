@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="it_vit-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.400000 (the average of all parts of speech is 1.502670).
+The form / lemma ratio of `DET` is 2.400000 (the average of all parts of speech is 1.502699).
 
 The 1st highest number of forms (7) was observed with the lemma “il”: <em>gli, i, il, l', la, le, lo</em>.
 
@@ -69,12 +69,12 @@ The 2nd highest number of forms (7) was observed with the lemma “quello”: <e
 
 The 3rd highest number of forms (6) was observed with the lemma “molto”: <em>molta, molte, molti, moltissime, moltissimi, molto</em>.
 
-`DET` occurs with 6 features: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt> (43896; 100% instances), <tt><a href="it_vit-feat-Number.html">Number</a></tt> (43740; 100% instances), <tt><a href="it_vit-feat-Definite.html">Definite</a></tt> (40250; 92% instances), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt> (37731; 86% instances), <tt><a href="it_vit-feat-Poss.html">Poss</a></tt> (1227; 3% instances), <tt><a href="it_vit-feat-Degree.html">Degree</a></tt> (2; 0% instances)
+`DET` occurs with 6 features: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt> (43904; 100% instances), <tt><a href="it_vit-feat-Number.html">Number</a></tt> (43740; 100% instances), <tt><a href="it_vit-feat-Definite.html">Definite</a></tt> (40256; 92% instances), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt> (37731; 86% instances), <tt><a href="it_vit-feat-Poss.html">Poss</a></tt> (1227; 3% instances), <tt><a href="it_vit-feat-Degree.html">Degree</a></tt> (2; 0% instances)
 
 `DET` occurs with 16 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Abs`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Exc`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 51 feature combinations.
-The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (11656 tokens).
+`DET` occurs with 47 feature combinations.
+The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (11658 tokens).
 Examples: <em>il, lo, un, gli, i, l'</em>
 
 

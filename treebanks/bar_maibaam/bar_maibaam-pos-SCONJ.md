@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>_</em>
 
 The 10 most frequent `SCONJ` types:  <em>dass, wenn, wia, das, wej, ois, wo, wos, waun, bis</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 2272, <tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 2105, <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 1959, <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> 1458, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 1417, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 1203, <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 1133, <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> 926, <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> 798, <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> 545, <tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt> 380, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 340, <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> 240, <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> 160, <tt><a href="bar_maibaam-pos-X.html">X</a></tt> 64, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 23, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 7)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> 2272, <tt><a href="bar_maibaam-pos-PUNCT.html">PUNCT</a></tt> 2105, <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 1957, <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> 1458, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 1417, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 1211, <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 1134, <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> 926, <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> 798, <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> 545, <tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt> 379, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 340, <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> 240, <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> 160, <tt><a href="bar_maibaam-pos-X.html">X</a></tt> 64, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 23, <tt><a href="bar_maibaam-pos-SYM.html">SYM</a></tt> 7)
 
 The 10 most frequent ambiguous types:  <em>wenn</em> (<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 1), <em>wia</em> (<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 11, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 8), <em>das</em> (<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 2, <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 2), <em>wej</em> (<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 2), <em>ois</em> (<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> 9, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 7), <em>wo</em> (<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 21, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 12), <em>wos</em> (<tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> 36, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 21, <tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> 1), <em>waun</em> (<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> 2), <em>bis</em> (<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 21, <tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 10), <em>ob</em> (<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> 4)
 
@@ -56,11 +56,17 @@ The 10 most frequent ambiguous types:  <em>wenn</em> (<tt><a href="bar_maibaam-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 64.000000 (the average of all parts of speech is 265.444444).
+The form / lemma ratio of `SCONJ` is 64.000000 (the average of all parts of speech is 281.000000).
 
 The 1st highest number of forms (64) was observed with the lemma “_”: <em>Bål, Fois, Oijs, Seid, Waal, Waunn, Wen, Wui, als, bevor, bis, damit, das, das'ma, das's, das'sd, das'st, dass, dass', dassd, daß, derwei, dos, doss, dàß, indem, ob, obb, ohne, ois, owa, sodass, sodaß, um, wai, wal, wann, wanns, wannst, waum, waun, weand, wei, weil, wej, weja, wem, wenn, weu, weul, wia, wiar, wiast, wie, wo, wonn, wos, woss, wou, wous, wàl, wänn, wäu, wòs</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="bar_maibaam-feat-Typo.html">Typo</a></tt> (4; 1% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (336 tokens).
+Examples: <em>dass, wenn, wia, wej, das, ois, wo, wos, waun, bis</em>
 
 
 ## Relations

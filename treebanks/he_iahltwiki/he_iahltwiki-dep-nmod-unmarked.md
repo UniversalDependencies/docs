@@ -67,7 +67,7 @@ The following 13 pairs of parts of speech are connected with `nmod:unmarked`: <t
 1	ה	ה	DET	DET	Definite=Def|PronType=Art	2	det	_	_
 2	סוכנות	סוכנות	NOUN	NOUN	Gender=Fem|Number=Sing	3	nsubj:pass	_	_
 3	הוקמה	הוקם	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-4	על	על	ADP	ADP	_	6	case	_	_
+4	על	על	ADP	ADP	ExtPos=ADP	6	case	_	_
 5	סמך	סמך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	4	fixed	_	_
 6	החלטה	החלטה	NOUN	NOUN	Gender=Fem|Number=Sing	3	obl	_	Entity=(MISC
 7	302	302	NUM	NUM	_	6	nmod:unmarked	_	Comment=deprel|Entity=MISC)

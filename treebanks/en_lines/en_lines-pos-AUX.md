@@ -61,13 +61,13 @@ The 2nd highest number of forms (7) was observed with the lemma “have”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “do”: <em>d', did, do, does</em>.
 
-`AUX` occurs with 5 features: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt> (5928; 100% instances), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt> (4263; 72% instances), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt> (3936; 66% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (1985; 33% instances), <tt><a href="en_lines-feat-Person.html">Person</a></tt> (1984; 33% instances)
+`AUX` occurs with 5 features: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt> (5928; 100% instances), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt> (5180; 87% instances), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt> (4256; 72% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (1985; 33% instances), <tt><a href="en_lines-feat-Person.html">Person</a></tt> (1984; 33% instances)
 
-`AUX` occurs with 12 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 10 feature-value pairs: `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 17 feature combinations.
-The most frequent feature combination is `VerbForm=Fin` (1243 tokens).
-Examples: <em>was, had, would, is, can, could, were, will, are, have</em>
+`AUX` occurs with 13 feature combinations.
+The most frequent feature combination is `Mood=Ind|VerbForm=Fin` (1271 tokens).
+Examples: <em>would, can, could, will, must, should, 'll, might, ca, may</em>
 
 
 ## Relations

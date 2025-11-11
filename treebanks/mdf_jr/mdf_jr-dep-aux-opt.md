@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `aux:opt`: <tt><a hr
 # visual-style 10	fgColor:white
 # visual-style 10 9 aux:opt	color:blue
 1	Катк	катк	AUX	Pcle	Mood=Opt	3	aux:opt	_	GTtags=Opt
-2	сембе	сембе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Indef
+2	сембе	сембе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	3	nsubj	_	GTtags=Sg,Nom,Indef
 3	няйсазь	няемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScPl3,OcSg3|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	6	punct	_	_
 5	коза	коза	ADV	Adv	_	6	advmod	_	_

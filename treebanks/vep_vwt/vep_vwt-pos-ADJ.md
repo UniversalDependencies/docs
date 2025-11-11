@@ -9,7 +9,7 @@ udver: '2'
 There are 36 `ADJ` lemmas (9%), 48 `ADJ` types (8%) and 78 `ADJ` tokens (6%).
 Out of 13 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>vepsän, hüvä, čoma, sur', vepsläine, enzne, erazvuitte, jüged, kebn, korged</em>
+The 10 most frequent `ADJ` lemmas: <em>vepsän, hüvä, čoma, surʼ, vepsläine, enzne, erazvuitte, jüged, kebn, korged</em>
 
 The 10 most frequent `ADJ` types:  <em>vepsän, hüvä, surel, čomal, erazvuiččed, jüged, kebn, tärged, äi, čoma</em>
 
@@ -19,18 +19,18 @@ The 10 most frequent ambiguous types:  <em>vepsläižid</em> (<tt><a href="vep_v
 
 
 * <em>vepsläižid</em>
-  * <tt><a href="vep_vwt-pos-ADJ.html">ADJ</a></tt> 1: <em>Mö opendam vepsän kel't školas , tegem melentartuižid projektoid , tegem čomid koncertoid da praznikad , kus ristitud voiba johtutada ičeze jurid , panda päle <b>vepsläižid</b> sädoid da pagišta kodikelel .</em>
+  * <tt><a href="vep_vwt-pos-ADJ.html">ADJ</a></tt> 1: <em>Mö opendam vepsän kelʼt školas , tegem melentartuižid projektoid , tegem čomid koncertoid da praznikad , kus ristitud voiba johtutada ičeze jurid , panda päle <b>vepsläižid</b> sädoid da pagišta kodikelel .</em>
   * <tt><a href="vep_vwt-pos-NOUN.html">NOUN</a></tt> 1: <em>Ezmäi minun rad ei koskend <b>vepsläižid</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.333333 (the average of all parts of speech is 1.538660).
+The form / lemma ratio of `ADJ` is 1.333333 (the average of all parts of speech is 1.550649).
 
 The 1st highest number of forms (5) was observed with the lemma “vepsläine”: <em>vepsläine, vepsläižen, vepsläižes, vepsläižid, vepsläšt</em>.
 
 The 2nd highest number of forms (3) was observed with the lemma “hüvä”: <em>hüvä, hüväd, hüväs</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “sur'”: <em>sur', surel, suren</em>.
+The 3rd highest number of forms (3) was observed with the lemma “surʼ”: <em>surel, suren, surʼ</em>.
 
 `ADJ` occurs with 5 features: <tt><a href="vep_vwt-feat-Case.html">Case</a></tt> (78; 100% instances), <tt><a href="vep_vwt-feat-Number.html">Number</a></tt> (77; 99% instances), <tt><a href="vep_vwt-feat-Degree.html">Degree</a></tt> (54; 69% instances), <tt><a href="vep_vwt-feat-NumForm.html">NumForm</a></tt> (1; 1% instances), <tt><a href="vep_vwt-feat-NumType.html">NumType</a></tt> (1; 1% instances)
 
@@ -38,7 +38,7 @@ The 3rd highest number of forms (3) was observed with the lemma “sur'”: <em>
 
 `ADJ` occurs with 19 feature combinations.
 The most frequent feature combination is `Case=Nom|Degree=Pos|Number=Sing` (20 tokens).
-Examples: <em>hüvä, jüged, kebn, tärged, äi, čoma, bohat, kaks'keline, kulu, laskav</em>
+Examples: <em>hüvä, jüged, kebn, tärged, äi, čoma, bohat, kaksʼkeline, kulu, laskav</em>
 
 
 ## Relations

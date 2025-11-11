@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
 1	Көбүнчө	Көбүнчө	ADV	ADV	_	6	advmod	_	_
-2	ошо	ошо	DET	DET	_	3	det	_	_
+2	ошо	ошо	DET	DET	PronType=Dem	3	det	_	_
 3	таш	таш	NOUN	NN	Case=Nom|ExtPos=ADV|Number=Sing|Person=3	6	obj	_	_
 4	бакадан	бака	NOUN	NN	Case=Abl|Number=Sing|Person[psor]=3	3	fixed	_	_
 5	сокур	сокур	ADJ	ADJ	_	6	amod	_	_
@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 1	Андан	Андан	ADV	ADV	ExtPos=ADV	4	advmod	_	_
 2	көрө	көрө	ADV	ADV	_	1	fixed	_	_
 3	бейсбол	бейсбол	NOUN	NN	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
-4	ойноп	ойно	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	0	root	_	_
+4	ойноп	ойно	VERB	VB	Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	0	root	_	_
 5	ал	ал	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	PCT	_	5	punct	_	_
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-82 nodes (0%) are attached to their parents as `goeswith`.
+84 nodes (0%) are attached to their parents as `goeswith`.
 
-82 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18292682926829.
+84 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17857142857143.
 
-The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (61; 74% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (6; 7% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (61; 73% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (8; 10% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	stare	stare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	8	punct	_	_
 8	ofer	oferi	VERB	Vmm-2s----y	Mood=Imp|Number=Sing|Person=2|Variant=Short|VerbForm=Fin	1	conj	_	_
-9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	advmod	_	_
+9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADV	8	advmod	_	_
 10	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	fixed	_	_
 11	12	12000000	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card|Typo=Yes	15	nummod	_	_
 12	000	_	X	X	_	11	goeswith	_	_
@@ -80,7 +80,7 @@ The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a h
 1	Operația	operație	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
 2	a	avea	AUX	Va--3s	Number=Sing|Person=3	3	aux	_	_
 3	avut	avea	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-4	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	fixed	_	_
+4	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	obj	_	_
 5	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
 6	miezul	miez	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
 7	nopții	noapte	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	_
@@ -92,7 +92,7 @@ The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a h
 13	camera	cameră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 15	recuperare	recuperare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	nmod	_	_
-16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
+16	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	18	case	_	_
 17	cursul	curs	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	16	fixed	_	_
 18	după	după-amiază	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	11	obl	_	_
 19	amiezei	_	X	X	_	18	goeswith	_	SpaceAfter=No

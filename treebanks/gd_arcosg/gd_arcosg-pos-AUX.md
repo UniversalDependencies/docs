@@ -69,19 +69,19 @@ The 10 most frequent ambiguous types:  <em>'s</em> (<tt><a href="gd_arcosg-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 10.500000 (the average of all parts of speech is 1.311377).
+The form / lemma ratio of `AUX` is 10.500000 (the average of all parts of speech is 1.317448).
 
 The 1st highest number of forms (15) was observed with the lemma “is”: <em>'s, an, as, b', bu, b’, cha, chan, gun, gur, is, nach, s, ‘s, ’s</em>.
 
 The 2nd highest number of forms (6) was observed with the lemma “rach”: <em>chaidh, deach, rachadh, thèid, théid, tèid</em>.
 
-`AUX` occurs with 7 features: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt> (1349; 99% instances), <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt> (535; 39% instances), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt> (301; 22% instances), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt> (269; 20% instances), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt> (208; 15% instances), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt> (75; 6% instances), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt> (1; 0% instances)
+`AUX` occurs with 7 features: <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt> (1357; 100% instances), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt> (1357; 100% instances), <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt> (1349; 99% instances), <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt> (535; 39% instances), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt> (301; 22% instances), <tt><a href="gd_arcosg-feat-PronType.html">PronType</a></tt> (75; 6% instances), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt> (1; 0% instances)
 
 `AUX` occurs with 11 feature-value pairs: `ExtPos=AUX`, `Mood=Ind`, `Mood=Int`, `Person=0`, `Polarity=Aff`, `Polarity=Neg`, `PronType=Rel`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
 
-`AUX` occurs with 20 feature combinations.
-The most frequent feature combination is `ExtPos=AUX|Tense=Pres` (293 tokens).
-Examples: <em>is, 's, ‘s</em>
+`AUX` occurs with 18 feature combinations.
+The most frequent feature combination is `Mood=Ind|Tense=Past|VerbForm=Fin` (327 tokens).
+Examples: <em>chaidh, b', bu, deach, b’</em>
 
 
 ## Relations

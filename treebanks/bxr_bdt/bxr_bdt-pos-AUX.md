@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>байгаа</em> (<tt><a href="bxr_b
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 14.666667 (the average of all parts of speech is 1.638355).
+The form / lemma ratio of `AUX` is 14.666667 (the average of all parts of speech is 1.638739).
 
 The 1st highest number of forms (26) was observed with the lemma “бай”: <em>бай, байба, байбал, байгаа, байгааб, байгаагүйб, байгаад, байгааш, байдаг, байжа, байна, байнаб, байнабди, байнабта, байналши, байнат, байнхаар, байтараа, байтарнай, байхада, байхадаа, байхал, байхаһаа, байһан, байһаниинь, байһые</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-183 nodes (0%) are attached to their parents as `discourse`.
+184 nodes (0%) are attached to their parents as `discourse`.
 
-178 instances of `discourse` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.81420765027322.
+179 instances of `discourse` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.77173913043478.
 
-The following 17 pairs of parts of speech are connected with `discourse`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (124; 68% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (14; 8% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (10; 5% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `discourse`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (124; 67% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (14; 8% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (10; 5% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -28,13 +28,13 @@ The following 17 pairs of parts of speech are connected with `discourse`: <tt><a
 4	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_26_01709
 5	d'	_	ADP	PRE	_	6	case	_	SpaceAfter=No|XmlId=w_26_01710
 6	ome	_	NOUN	NOMcom	_	10	dislocated	_	XmlId=w_26_01711
-7	desatorné	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl	_	XmlId=w_26_01712
+7	desatorné	_	VERB	VERppe	_	6	acl	_	XmlId=w_26_01712
 8	!	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_26_01713
 9	Petit	_	ADV	ADVgen	_	14	advmod	_	XmlId=w_26_01714
-10	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_26_01715
-11	om	_	PRON	PROind	PronType=Ind	10	nsubj	_	XmlId=w_26_01716
+10	fait	_	VERB	VERcjg	_	0	root	_	XmlId=w_26_01715
+11	om	_	PRON	PROind	_	10	nsubj	_	XmlId=w_26_01716
 12	de	_	ADP	PRE	_	13	case	_	XmlId=w_26_01717
-13	lui	_	PRON	PROper	PronType=Prs	10	iobj	_	XmlId=w_26_01718
+13	lui	_	PRON	PROper	_	10	obl	_	XmlId=w_26_01718
 14	cherté	_	NOUN	NOMcom	_	10	obj	_	SpaceAfter=No|XmlId=w_26_01719
 15	.	_	PUNCT	PONfrt	_	14	punct	_	XmlId=w_26_01720
 
@@ -53,7 +53,7 @@ The following 17 pairs of parts of speech are connected with `discourse`: <tt><a
 4	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_26_06101
 5	tant	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_26_06102
 6	par	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_26_06103
-7	es	_	AUX	VERcjg	VerbForm=Fin	8	cop	_	XmlId=w_26_06104
+7	es	_	AUX	VERcjg	_	8	cop	_	XmlId=w_26_06104
 8	ber	_	ADJ	ADJqua	_	0	root	_	XmlId=w_26_06105
 9	!	_	PUNCT	PONfrt	_	8	punct	_	XmlId=w_26_06106
 
@@ -70,18 +70,18 @@ The following 17 pairs of parts of speech are connected with `discourse`: <tt><a
 2	!	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_26_05464
 3	Dex	_	PROPN	NOMpro	_	6	vocative	_	SpaceAfter=No|XmlId=w_26_05465
 4	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_26_05466
-5	qel	_	DET	DETint	PronType=Int	6	det	_	XmlId=w_26_05467
+5	qel	_	DET	DETint	_	6	det	_	XmlId=w_26_05467
 6	duel	_	NOUN	NOMcom	_	0	root	_	XmlId=w_26_05468
 7	que	_	SCONJ	CONsub	_	16	mark	_	XmlId=w_26_05469
-8	la	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_26_05470
+8	la	_	DET	DETdef	_	9	det	_	XmlId=w_26_05470
 9	roïne	_	NOUN	NOMcom	_	16	nsubj	_	XmlId=w_26_05471
 10	N'	_	ADV	ADVneg	_	16	advmod	_	SpaceAfter=No|XmlId=w_26_05472
-11	avot	_	AUX	VERcjg	VerbForm=Fin	16	aux	_	XmlId=w_26_05473
-12	les	_	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_26_05474
+11	avot	_	AUX	VERcjg	_	16	aux	_	XmlId=w_26_05473
+12	les	_	DET	DETdef	_	13	det	_	XmlId=w_26_05474
 13	dras	_	NOUN	NOMcom	_	16	obj	_	XmlId=w_26_05475
-14	du	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_26_05476
+14	du	_	ADP	PRE.DETdef	_	15	case:det	_	XmlId=w_26_05476
 15	lit	_	NOUN	NOMcom	_	13	nmod	_	XmlId=w_26_05477
-16	ostez	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl	_	XmlId=w_26_05478
+16	ostez	_	VERB	VERppe	_	6	acl	_	XmlId=w_26_05478
 17	!	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_26_05479
 
 ~~~

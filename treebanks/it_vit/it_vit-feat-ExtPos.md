@@ -9,56 +9,56 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `ADP`, `ADV`, `CCONJ`, `NOUN`, `PRON`, `SCONJ`.
 
-893 tokens (0%) have a non-empty value of `ExtPos`.
+897 tokens (0%) have a non-empty value of `ExtPos`.
 87 types (0%) occur at least once with a non-empty value of `ExtPos`.
-61 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 7 part-of-speech tags: <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (555; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (163; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (162; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+62 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 7 part-of-speech tags: <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (568; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (161; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (155; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-555 <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+568 <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (555; 100%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (568; 100%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (397; 72% of non-empty `ExtPos`): <em>fino, prima, davanti, oltre, insieme, attorno, intorno, vicino, fin, fuori</em>
-* `ADV` (25; 5% of non-empty `ExtPos`): <em>quanto, pur, perché, via, fin, lì, pari, più, sin</em>
-* `CCONJ` (23; 4% of non-empty `ExtPos`): <em>oltre, piuttosto, così, più</em>
-* `SCONJ` (110; 20% of non-empty `ExtPos`): <em>anche, prima, dopo, fino, così, pur, solo, tanto, fin, sempre</em>
+* `ADP` (410; 72% of non-empty `ExtPos`): <em>fino, prima, davanti, oltre, insieme, attorno, intorno, come, vicino, fin</em>
+* `ADV` (26; 5% of non-empty `ExtPos`): <em>quanto, pur, perché, via, fin, Come, lì, pari, più, sin</em>
+* `CCONJ` (21; 4% of non-empty `ExtPos`): <em>oltre, piuttosto, più</em>
+* `SCONJ` (111; 20% of non-empty `ExtPos`): <em>anche, prima, dopo, fino, invece, pur, solo, tanto, così, ecco</em>
 
 <table>
   <tr><th>Paradigm <i>più</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
   <tr><td><tt></tt></td><td><em>più</em></td><td><em>più</em></td><td><em>più</em></td></tr>
 </table>
 
-### `ADP`
-
-163 <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `ExtPos`.
-
-`ADP` tokens may have the following values of `ExtPos`:
-
-* `ADP` (44; 27% of non-empty `ExtPos`): <em>come, su, che, fra, prima, senza, tra, di, dietro</em>
-* `ADV` (74; 45% of non-empty `ExtPos`): <em>in, di, per, come, a</em>
-* `PRON` (1; 1% of non-empty `ExtPos`): <em>da</em>
-* `SCONJ` (44; 27% of non-empty `ExtPos`): <em>a, come, da, per, senza, di, Salvo, prima, su</em>
-
-<table>
-  <tr><th>Paradigm <i>di</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>di</em></td><td><em>di</em></td><td><em>di</em></td></tr>
-</table>
-
 ### `NOUN`
 
-162 <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
+161 <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 78%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (125; 77%).
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (126; 78%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (124; 77%).
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
-* `ADP` (158; 98% of non-empty `ExtPos`): <em>rispetto, grazie, riguardo</em>
-* `ADV` (2; 1% of non-empty `ExtPos`): <em>man</em>
+* `ADP` (157; 98% of non-empty `ExtPos`): <em>rispetto, grazie, Riguardo</em>
 * `NOUN` (2; 1% of non-empty `ExtPos`): <em>faccia</em>
+* `SCONJ` (2; 1% of non-empty `ExtPos`): <em>man</em>
+
+### `ADP`
+
+155 <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+
+`ADP` tokens may have the following values of `ExtPos`:
+
+* `ADP` (43; 28% of non-empty `ExtPos`): <em>come, su, in, che, fra, prima, senza, tra, dietro</em>
+* `ADV` (37; 24% of non-empty `ExtPos`): <em>di, per, come, a</em>
+* `PRON` (1; 1% of non-empty `ExtPos`): <em>da</em>
+* `SCONJ` (74; 48% of non-empty `ExtPos`): <em>in, a, come, da, per, senza, di, Salvo, prima, su</em>
+
+<table>
+  <tr><th>Paradigm <i>come</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>come</em></td><td><em>come</em></td><td><em>come</em></td></tr>
+</table>
 
 ### `ADJ`
 

@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>από</em> (<tt><a href="el_gud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.444444 (the average of all parts of speech is 1.674109).
+The form / lemma ratio of `ADP` is 1.444444 (the average of all parts of speech is 1.674712).
 
 The 1st highest number of forms (3) was observed with the lemma “από”: <em>απ, απ', από</em>.
 
@@ -60,7 +60,7 @@ Examples: <em>σ, από, με, για, σε, σ', ως, προς, χωρίς, �
 
 `ADP` nodes are attached to their parents using 8 different relations: <tt><a href="el_gud-dep-case.html">case</a></tt> (1363; 85% instances), <tt><a href="el_gud-dep-mark.html">mark</a></tt> (137; 9% instances), <tt><a href="el_gud-dep-fixed.html">fixed</a></tt> (91; 6% instances), <tt><a href="el_gud-dep-advmod.html">advmod</a></tt> (10; 1% instances), <tt><a href="el_gud-dep-cc.html">cc</a></tt> (4; 0% instances), <tt><a href="el_gud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="el_gud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="el_gud-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (983; 61% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (186; 12% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (151; 9% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (139; 9% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (50; 3% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (47; 3% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (29; 2% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="el_gud-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (2; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (983; 61% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (186; 12% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (151; 9% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (142; 9% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (50; 3% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (47; 3% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (29; 2% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="el_gud-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (2; 0% instances)
 
 1447 (90%) `ADP` nodes are leaves.
 

@@ -60,7 +60,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 9 <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="lv_cairo-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 78%), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 67%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6; 67%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="lv_cairo-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 78%), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5; 56%).
 
 `DET` tokens may have the following values of `Number`:
 

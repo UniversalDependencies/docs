@@ -7,19 +7,19 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `INTJ`
 
 There are 7 `INTJ` lemmas (0%), 7 `INTJ` types (0%) and 14 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 14 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ну, вай, аф, вов, и, эрь, эх</em>
 
 The 10 most frequent `INTJ` types:  <em>ну, вай, Вов, аф, И, Эрь, Эх</em>
 
-The 10 most frequent ambiguous lemmas: <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 109, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 2), <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 77, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1), <em>эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 110, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 2), <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 80, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1), <em>эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 72, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>И</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>Эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 73, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>И</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>Эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>аф</em>
-  * <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 72: <em>А касан пяк савор , нинге школавга <b>аф</b> якан .</em>
+  * <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 73: <em>А касан пяк савор , нинге школавга <b>аф</b> якан .</em>
   * <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1: <em>Тон лоткат тячи или <b>аф</b> ?</em>
 * <em>И</em>
   * <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 7: <em><b>И</b> уендихть сенем менельть потмоса , кода оцю морява .</em>
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>аф</em> (<tt><a href="mdf_jr-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.547887).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.555478).
 
 The 1st highest number of forms (1) was observed with the lemma “аф”: <em>аф</em>.
 

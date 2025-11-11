@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 10	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	_	_
 11	Sluncem	slunce	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	_
 12	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	13	expl:pass	_	_
-13	koře	kořit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	SpaceAfter=No
+13	koře	kořit	VERB	VB-S---3P-AA---	Aspect=Imp|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	SpaceAfter=No
 14	,	,	PUNCT	Z:-------------	_	20	punct	_	_
 15	an	an	SCONJ	TT-------------	_	20	mark	_	_
 16	Bůh	bůh	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_

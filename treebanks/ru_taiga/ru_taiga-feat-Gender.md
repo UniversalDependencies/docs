@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-706305 tokens (40%) have a non-empty value of `Gender`.
+706306 tokens (40%) have a non-empty value of `Gender`.
 117458 types (78%) occur at least once with a non-empty value of `Gender`.
-42993 lemmas (78%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (373634; 21% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (106254; 6% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (76144; 4% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (54575; 3% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (47130; 3% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (38369; 2% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (6055; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (4144; 0% instances).
+42991 lemmas (78%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (373634; 21% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (106254; 6% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (76144; 4% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (54575; 3% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (47131; 3% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (38369; 2% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (6055; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (4144; 0% instances).
 
 ### `NOUN`
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 106254 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (69% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (106245; 100%), <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (102004; 96%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (106245; 100%), <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (101988; 96%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -85,7 +85,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (27069; 36% of non-empty `Gender`): <em>сказала, стала, могла, произнесла, спросила, хотела, говорила, стояла, видела, увидела</em>
 * `Masc` (37091; 49% of non-empty `Gender`): <em>сказал, стал, мог, спросил, говорил, писал, произнес, ответил, хотел, знал</em>
 * `Neut` (11984; 16% of non-empty `Gender`): <em>было, стало, казалось, хотелось, случилось, пришлось, могло, связано, оказалось, осталось</em>
-* `EMPTY` (135488): <em>есть, может, можно, надо, нет, значит, сказать, стали, быть, говорит</em>
+* `EMPTY` (135502): <em>есть, может, можно, надо, нет, значит, сказать, стали, быть, говорит</em>
 
 <table>
   <tr><th>Paradigm <i>мочь</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -118,15 +118,15 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `PRON`
 
-47130 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
+47131 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47125; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (23868; 51%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (23722; 50%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=3</tt> (23722; 50%), <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (23722; 50%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47126; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (23867; 51%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (23722; 50%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=3</tt> (23722; 50%), <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (23722; 50%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (9393; 20% of non-empty `Gender`): <em>она, ее, ей, ней, нее, её, неё, нею, ею, еë</em>
 * `Masc` (15964; 34% of non-empty `Gender`): <em>он, его, ему, него, кто, ним, никто, нем, им, нему</em>
-* `Neut` (21773; 46% of non-empty `Gender`): <em>это, что, то, все, оно, ничего, всё, того, том, тем</em>
+* `Neut` (21774; 46% of non-empty `Gender`): <em>это, что, то, все, оно, ничего, всё, того, том, тем</em>
 * `EMPTY` (41695): <em>я, мы, они, ты, мне, меня, вы, нас, их, них</em>
 
 <table>
@@ -209,7 +209,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 * `Fem` (1419; 34% of non-empty `Gender`): <em>две, одной, одну, одна, обе, двух, двумя, обеих, обеими, двум</em>
 * `Masc` (2033; 49% of non-empty `Gender`): <em>два, один, двух, одного, оба, двумя, одним, одном, обоих, одному</em>
 * `Neut` (692; 17% of non-empty `Gender`): <em>одно, два, двух, одном, одного, двумя, одним, оба, одному, двум</em>
-* `EMPTY` (8705): <em>много, несколько, три, 2, 1, 3, сколько, 5, 4, пять</em>
+* `EMPTY` (8704): <em>много, несколько, три, 2, 1, 3, сколько, 5, 4, пять</em>
 
 <table>
   <tr><th>Paradigm <i>один</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

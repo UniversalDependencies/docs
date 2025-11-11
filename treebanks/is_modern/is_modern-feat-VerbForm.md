@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Inf` (2777; 30% of non-empty `VerbForm`): <em>gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</em>
 * `Part` (984; 11% of non-empty `VerbForm`): <em>varðandi, gert, farið, keppt, gripið, sagt, tekið, komin, sett, búið</em>
 * `Sup` (759; 8% of non-empty `VerbForm`): <em>sagt, tekið, komið, gert, farið, orðið, séð, átt, reynt, gerst</em>
-* `EMPTY` (73): <em>þakka, búið, leið, fer, ræður, Falli, Réði, Tilkynnt, afmörkuð, fá</em>
+* `EMPTY` (74): <em>þakka, búið, leið, fer, ræður, Falli, Réði, Tilkynnt, afmörkuð, fá</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
@@ -117,7 +117,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 * `Fin` (1; 17% of non-empty `VerbForm`): <em>lýtur</em>
 * `Inf` (4; 67% of non-empty `VerbForm`): <em>segja</em>
 * `Part` (1; 17% of non-empty `VerbForm`): <em>útfært</em>
-* `EMPTY` (6954): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+* `EMPTY` (6953): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
 
 ### `NOUN`
 
@@ -150,7 +150,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>rökstutt</em>
-* `EMPTY` (4317): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
+* `EMPTY` (4319): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
 
 ### `X`
 
@@ -166,14 +166,14 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (528; 65%),
-<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (86; 58%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (536; 65%),
+<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (78; 56%),
 <tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (44; 64%),
-<tt>VERB --[<tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (26; 54%),
+<tt>VERB --[<tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (26; 53%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 55%),
-<tt>AUX --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (3; 60%),
 <tt>AUX --[<tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="is_modern-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
 

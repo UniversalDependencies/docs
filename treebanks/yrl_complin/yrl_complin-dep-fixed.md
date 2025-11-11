@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-68 nodes (0%) are attached to their parents as `fixed`.
+70 nodes (0%) are attached to their parents as `fixed`.
 
-68 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02941176470588.
+70 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02857142857143.
 
-The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (19; 28% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (15; 22% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (11; 16% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (8; 12% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (7; 10% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (19; 27% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (17; 24% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (11; 16% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (8; 11% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (7; 10% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

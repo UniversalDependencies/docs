@@ -10,20 +10,20 @@ This feature is universal.
 It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 Some words have combined values of the feature; 2 combinations have been observed: `Dem|Rel`, `Int|Rel`.
 
-4116 tokens (19%) have a non-empty value of `PronType`.
+4105 tokens (19%) have a non-empty value of `PronType`.
 191 types (3%) occur at least once with a non-empty value of `PronType`.
 68 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-DET.html">DET</a></tt> (3106; 15% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (928; 4% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (82; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-DET.html">DET</a></tt> (3095; 15% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (928; 4% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (82; 0% instances).
 
 ### `DET`
 
-3106 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+3095 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (2652; 85%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2453; 79%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2126; 68%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (2652; 86%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2453; 79%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2126; 69%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (2573; 83% of non-empty `PronType`): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
+* `Art` (2562; 83% of non-empty `PronType`): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
 * `Dem` (114; 4% of non-empty `PronType`): <em>diese, dieser, dies, dieses, diesem, diesen, That, dasselbe, denjenigen, denselben</em>
 * `Ind` (104; 3% of non-empty `PronType`): <em>viele, einige, mehr, andere, anderen, vielen, mehrere, meisten, anderer, einigen</em>
 * `Int,Rel` (6; 0% of non-empty `PronType`): <em>welche, welchen, welcher</em>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-82 <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `PronType`.
+82 <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (82; 100%).
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Dem` (80; 98% of non-empty `PronType`): <em>davon, dazu, damit, dafür, darauf, darin, daran, darüber, dadurch, darum</em>
 * `Ind` (2; 2% of non-empty `PronType`): <em>genug</em>
-* `EMPTY` (969): <em>auch, so, noch, nur, sehr, mehr, jedoch, wie, immer, wieder</em>
+* `EMPTY` (1024): <em>auch, so, noch, nur, sehr, mehr, wieder, jedoch, wie, immer</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (15) occur only with one value of `PronType`.
 

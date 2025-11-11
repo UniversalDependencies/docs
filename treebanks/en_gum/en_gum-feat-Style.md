@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="en_gum-pos-VERB.htm
 
 134 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (134; 100%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (132; 99%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (115; 86%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (134; 100%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (133; 99%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (116; 87%).
 
 `VERB` tokens may have the following values of `Style`:
 

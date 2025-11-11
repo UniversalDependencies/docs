@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PronType in UD_Kurmanji-MG'
+title:  'Statistics of PronType in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Features: `PronType`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Features: `PronType`
 
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
@@ -12,13 +12,13 @@ It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 1406 tokens (14%) have a non-empty value of `PronType`.
 299 types (11%) occur at least once with a non-empty value of `PronType`.
 206 lemmas (11%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (876; 9% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (305; 3% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (223; 2% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (876; 9% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (305; 3% instances), <tt><a href="kmr_kurmanji-pos-DET.html">DET</a></tt> (223; 2% instances), <tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `PRON`
 
-876 <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+876 <tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (716; 82%), <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (657; 75%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (454; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (716; 82%), <tt><a href="kmr_kurmanji-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (657; 75%), <tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt> (454; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -31,16 +31,16 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>ev</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>vê</em></td><td><em>ve, vê</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td></td><td><em>ev</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Ev</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>vê</em></td><td><em>ve, vê</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td></td><td><em>ev</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kmr_kurmanji-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Ev</em></td><td></td><td></td></tr>
 </table>
 
 ### `NOUN`
 
-305 <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> tokens (11% of all `NOUN` tokens) have a non-empty value of `PronType`.
+305 <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> tokens (11% of all `NOUN` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (305; 100%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (270; 89%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (193; 63%).
+The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="kmr_kurmanji-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (305; 100%), <tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt> (270; 89%), <tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (193; 63%).
 
 `NOUN` tokens may have the following values of `PronType`:
 
@@ -50,16 +50,16 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>sal</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>salekê</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>salan</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Con</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>saline</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>salekê</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>salan</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Con</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>saline</em></td></tr>
 </table>
 
 ### `DET`
 
-223 <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+223 <tt><a href="kmr_kurmanji-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (119; 53%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (115; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (119; 53%), <tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (115; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -70,20 +70,20 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>ew</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wî</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>wî</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wan</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wê, _</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td></td><td><em>ew</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wî</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_kurmanji-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>wî</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wan</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wê, _</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td></td><td><em>ew</em></td></tr>
 </table>
 
 `PronType` seems to be **lexical feature** of `DET`. 95% lemmas (18) occur only with one value of `PronType`.
 
 ### `ADV`
 
-2 <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `PronType`.
+2 <tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="kmr_mg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="kmr_kurmanji-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>NOUN --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (13; 52%),
-<tt>DET --[<tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="kmr_mg-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="kmr_kurmanji-dep-conj.html">conj</a></tt>]--> NOUN</tt> (13; 52%),
+<tt>DET --[<tt><a href="kmr_kurmanji-dep-fixed.html">fixed</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="kmr_kurmanji-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
 

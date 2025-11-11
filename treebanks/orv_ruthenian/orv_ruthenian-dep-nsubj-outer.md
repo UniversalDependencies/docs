@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_ruthenian-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="orv_ruthenian-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-4 nodes (0%) are attached to their parents as `nsubj:outer`.
+5 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-4 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.25.
+5 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (3; 75% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 25% instances).
+The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (4; 80% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 20% instances).
 
 
 ~~~ conllu

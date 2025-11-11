@@ -23,9 +23,9 @@ The following 3 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 4	fgColor:white
 # visual-style 4 5 advmod:emph	color:blue
 1	Бишкекте	Бишкек	PROPN	PROP	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obl	_	_
-2	ушул	ушул	PRON	PRP	_	4	det	_	_
+2	ушул	ушул	PRON	PRP	PronType=Prs	4	det	_	_
 3	дем	дем	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
-4	алышта	алыш	VERB	VB	Aspect=Perf|Case=Loc|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	9	nmod	_	_
+4	алышта	алыш	VERB	VB	Aspect=Perf|Case=Loc|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	9	nmod	_	_
 5	дагы	дагы	ADV	ADV	_	4	advmod:emph	_	_
 6	азык	азык	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nmod	_	_
 7	түлүк	түлүк	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	compound	_	_
@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `advmod:emph`: <tt><
 6	Браун	Браун	PROPN	PROP	Case=Nom|Number=Sing|Person=3	5	flat	_	_
 7	дагы	дагы	ADV	ADV	_	6	advmod:emph	_	_
 8	шайлана	шайла	VERB	VB	Aspect=Perf|Evident=Fh|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	9	compound	_	_
-9	алган	ал	VERB	VB	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+9	алган	ал	VERB	VB	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 10	жок	жок	VERB	VB	_	9	compound:svc	_	SpaceAfter=No
 11	.	.	PUNCT	PCT	_	10	punct	_	_
 
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `advmod:emph`: <tt><
 2	бензиндин	бензин	NOUN	NN	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 3	баасы	баа	NOUN	NN	Case=Acc|Number=Sing|Person=3	5	nmod	_	_
 4	дагы	дагы	ADV	ADV	_	3	advmod:emph	_	_
-5	кымбаттайбы	кымбаттай	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+5	кымбаттайбы	кымбаттай	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	PCT	_	5	punct	_	_
 
 ~~~

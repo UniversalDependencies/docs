@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 12 18 compound	color:blue
 1	ʔèè	ʔèè	CCONJ	COORD	_	26	cc	_	AlignBegin=291725|AlignEnd=291996|Gloss=puis|MGloss=puis|MSeg=ʔèè|nWord=1|RX=COORD
 2	ʔá̰	ʔá̰	CCONJ	COORD	_	26	cc	_	AlignBegin=291996|AlignEnd=292267|Gloss=voilà_que|MGloss=voilà_que|MSeg=ʔá̰|nWord=2|RX=COORD
-3	mɔ̀	mɔ̀-nɛ̀	SCONJ	N	_	5	mark	_	AlignBegin=292267|AlignEnd=292538|Gloss=du fait que|MGloss=du fait que|MSeg=mɔ̀-nɛ̀|nWord=3|RX=SUB
+3	mɔ̀	mɔ̀-nɛ̀	SCONJ	N	_	5	mark	_	AlignBegin=292267|AlignEnd=292538|Gloss=du_fait_que|MGloss=du_fait_que|MSeg=mɔ̀-nɛ̀|nWord=3|RX=SUB
 4	ndèì	ʔéí	PRON	PRO	PronType=Ind	5	nsubj	_	AlignBegin=292628|AlignEnd=292809|Gloss=IMPS|MGloss=IMPS-MT|MSeg==éí-H|nWord=4|RX=PRO
 5	tɔ̰́	tɔ̰	VERB	V	_	26	advcl	_	AlignBegin=292809|AlignEnd=293080|Gloss=dire|MGloss=INAC-dire|MSeg=H-tɔ̰|nWord=5|RX=V
 6	kà	kà	SCONJ	SUB	_	8	mark	_	AlignBegin=293080|AlignEnd=293380|Gloss=quand|MGloss=quand|MSeg=kà|nWord=6|RX=SUB
@@ -71,7 +71,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 21	bá	ba	VERB	V	_	26	advcl	_	AlignBegin=297580|AlignEnd=297880|Gloss=prendre|MGloss=INAC-prendre|MSeg=H-ba|nWord=21|RX=V
 22	gbó	gbo	VERB	V	_	21	compound:svc	_	AlignBegin=297880|AlignEnd=298180|Gloss=arriver|MGloss=INF-ACC-arriver|MSeg=H-gbo|nWord=22|RX=V
 23	sɛ̌n	sɛ̀n	ADP	FCT	_	24	case	_	AlignBegin=298180|AlignEnd=298480|Gloss=dans|MGloss=dans-MT|MSeg=sɛ̀n-H|nWord=23|RX=FCT
-24	bàngí	bàngí	PROPN	NPR	_	22	obl:arg	_	AlignBegin=298480|AlignEnd=298780|Gloss=village sp|MGloss=village sp|MSeg=bàngí|nWord=24|RX=NPR
+24	bàngí	bàngí	PROPN	NPR	_	22	obl:arg	_	AlignBegin=298480|AlignEnd=298780|Gloss=village_sp|MGloss=village_sp|MSeg=bàngí|nWord=24|RX=NPR
 25	ʔà̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	26	nsubj	_	AlignBegin=298780|AlignEnd=299080|Gloss=3SG|MGloss=3SG|MSeg=ʔà̰|nWord=25|RX=PERS
 26	tɛ́-gàsì	gasi	VERB	V	_	0	root	_	AlignBegin=299080|AlignEnd=299380|Gloss=grandir|MGloss=VIRT-INAC--grandir|MSeg=tɛ́-B-gasi|nWord=26|RX=V
 27	kɔ̀	kɔ̀	ADP	FCT	_	28	case	_	AlignBegin=299380|AlignEnd=299680|Gloss=intérieur|MGloss=intérieur|MSeg=kɔ̀|nWord=27|RX=FCT

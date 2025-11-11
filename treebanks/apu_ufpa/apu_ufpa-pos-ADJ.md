@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `ADJ`
 
-There are 4 `ADJ` lemmas (1%), 4 `ADJ` types (1%) and 4 `ADJ` tokens (0%).
-Out of 16 observed tags, the rank of `ADJ` is: 8 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 5 `ADJ` lemmas (2%), 5 `ADJ` types (1%) and 5 `ADJ` tokens (1%).
+Out of 16 observed tags, the rank of `ADJ` is: 7 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>ataũ, atuku, tsuka, ãtukyry</em>
+The 10 most frequent `ADJ` lemmas: <em>Kinhakarypa, ataũ, atuku, tsuka, ãtukyry</em>
 
-The 10 most frequent `ADJ` types:  <em>Ataũpytykara, atuku, patsukarepyryna, ãtukyry</em>
+The 10 most frequent `ADJ` types:  <em>Ataũpytykara, Kinhakarypa, atuku, patsukarepyryna, ãtukyry</em>
 
 The 10 most frequent ambiguous lemmas: <em>atuku</em> (<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1)
 
@@ -25,30 +25,30 @@ The 10 most frequent ambiguous types:  <em>atuku</em> (<tt><a href="apu_ufpa-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.247525).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.250825).
 
-The 1st highest number of forms (1) was observed with the lemma “ataũ”: <em>Ataũpytykara</em>.
+The 1st highest number of forms (1) was observed with the lemma “Kinhakarypa”: <em>Kinhakarypa</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “atuku”: <em>atuku</em>.
+The 2nd highest number of forms (1) was observed with the lemma “ataũ”: <em>Ataũpytykara</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “tsuka”: <em>patsukarepyryna</em>.
+The 3rd highest number of forms (1) was observed with the lemma “atuku”: <em>atuku</em>.
 
 `ADJ` does not occur with any features.
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 2 different relations: <tt><a href="apu_ufpa-dep-root.html">root</a></tt> (3; 75% instances), <tt><a href="apu_ufpa-dep-acl-relcl.html">acl:relcl</a></tt> (1; 25% instances)
+`ADJ` nodes are attached to their parents using 3 different relations: <tt><a href="apu_ufpa-dep-root.html">root</a></tt> (3; 60% instances), <tt><a href="apu_ufpa-dep-acl-relcl.html">acl:relcl</a></tt> (1; 20% instances), <tt><a href="apu_ufpa-dep-amod.html">amod</a></tt> (1; 20% instances)
 
-Parents of `ADJ` nodes belong to 2 different parts of speech:  (3; 75% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 25% instances)
+Parents of `ADJ` nodes belong to 2 different parts of speech:  (3; 60% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (2; 40% instances)
 
-1 (25%) `ADJ` nodes are leaves.
+2 (40%) `ADJ` nodes are leaves.
 
 0 (0%) `ADJ` nodes have one child.
 
 0 (0%) `ADJ` nodes have two children.
 
-3 (75%) `ADJ` nodes have three or more children.
+3 (60%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 3.
 

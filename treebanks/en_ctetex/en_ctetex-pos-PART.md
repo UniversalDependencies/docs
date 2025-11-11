@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `PART`
 
-There are 1 `PART` lemmas (6%), 6 `PART` types (0%) and 165 `PART` tokens (2%).
-Out of 17 observed tags, the rank of `PART` is: 10 in number of lemmas, 16 in number of types and 12 in number of tokens.
+There are 6 `PART` lemmas (0%), 6 `PART` types (0%) and 165 `PART` tokens (2%).
+Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 16 in number of types and 12 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>_</em>
+The 10 most frequent `PART` lemmas: <em>to, not, ’s, 's, ot, ’</em>
 
 The 10 most frequent `PART` types:  <em>to, not, ’s, 's, ot, ’</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 116, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 102), <em>’</em> (<tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 116, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 102, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 1), <em>’</em> (<tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 1)
 
@@ -28,9 +28,13 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_ctetex-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 6.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (6) was observed with the lemma “_”: <em>'s, not, ot, to, ’, ’s</em>.
+The 1st highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “not”: <em>not</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “ot”: <em>ot</em>.
 
 `PART` does not occur with any features.
 

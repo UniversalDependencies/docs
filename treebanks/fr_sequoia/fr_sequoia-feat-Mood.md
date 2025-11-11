@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (31; 1% of non-empty `Mood`): <em>veuillez, demandez, permettez, prévenez, suivez, Assurez, Contactez, Faites, Gardez, Revenons</em>
 * `Ind` (1925; 91% of non-empty `Mood`): <em>doit, a, peut, doivent, faut, est, peuvent, agit, pense, devons</em>
 * `Sub` (59; 3% of non-empty `Mood`): <em>puisse, puissent, prenne, comportent, fasse, produise, revienne, réserve, soit, aboutisse</em>
-* `EMPTY` (3765): <em>voir, mis, eu, faire, traités, utilisé, atteints, administré, reçu, concernant</em>
+* `EMPTY` (3777): <em>voir, mis, eu, faire, traités, utilisé, atteints, administré, reçu, concernant</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -82,5 +82,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (122; 60%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (23; 56%).
+<tt>VERB --[<tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (23; 56%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
 

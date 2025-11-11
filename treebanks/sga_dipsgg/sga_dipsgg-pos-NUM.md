@@ -35,8 +35,8 @@ The 2nd highest number of forms (1) was observed with the lemma “tress”: <em
 `NUM` occurs with 2 feature-value pairs: `NumType=Card`, `NumType=Ord`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `NumType=Ord` (1 tokens).
-Examples: <em>tris</em>
+The most frequent feature combination is `NumType=Card` (1 tokens).
+Examples: <em>di</em>
 
 
 ## Relations

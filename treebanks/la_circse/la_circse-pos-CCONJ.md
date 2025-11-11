@@ -58,7 +58,7 @@ Examples: <em>et, que, sed, aut, ac, atque, ue, uel, at, seu</em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="la_circse-dep-cc.html">cc</a></tt> (1816; 98% instances), <tt><a href="la_circse-dep-advmod-emph.html">advmod:emph</a></tt> (29; 2% instances), <tt><a href="la_circse-dep-advmod-neg.html">advmod:neg</a></tt> (2; 0% instances), <tt><a href="la_circse-dep-obj.html">obj</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="la_circse-dep-cc.html">cc</a></tt> (1817; 98% instances), <tt><a href="la_circse-dep-advmod-emph.html">advmod:emph</a></tt> (29; 2% instances), <tt><a href="la_circse-dep-advmod-neg.html">advmod:neg</a></tt> (2; 0% instances)
 
 Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (904; 49% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (602; 33% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (170; 9% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (80; 4% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (46; 2% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (21; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (3; 0% instances)
 

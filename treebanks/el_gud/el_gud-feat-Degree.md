@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (50; 100% of non-empty `Degree`): <em>πιο, αργότερα, καλύτερα, περισσότερο, λιγότερο, νωρίτερα</em>
-* `EMPTY` (1122): <em>τώρα, μετά, πώς, μαζί, πολύ, πού, αμέσως, μέσα, όπως, ακόμα</em>
+* `EMPTY` (1127): <em>τώρα, μετά, πώς, μαζί, πολύ, πού, αμέσως, μέσα, όπως, ακόμα</em>
 
 ### `NOUN`
 

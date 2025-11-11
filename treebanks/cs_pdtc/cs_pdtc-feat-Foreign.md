@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>en, propos</em>
-* `EMPTY` (163705): <em>tam, už, tak, jak, kde, pak, kdy, více, ještě, včera</em>
+* `EMPTY` (165191): <em>tam, už, tak, jak, kde, pak, kdy, více, ještě, včera</em>
 
 ### `NOUN`
 

@@ -25,7 +25,7 @@ The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3 1 nsubj	color:blue
 1	Skema	skema	NOUN	_	Number=Sing	3	nsubj	_	_
 2	ini	ini	DET	_	PronType=Dem	1	det	_	_
-3	menghasilkan	hasil	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	menghasilkan	hasil	VERB	_	Voice=Act	0	root	_	_
 4	uang	uang	NOUN	_	Number=Sing	3	obj	_	_
 5	melalui	lalu	ADP	_	_	6	case	_	_
 6	sponsor	sponsor	NOUN	_	Number=Sing	3	obl	_	_
@@ -47,7 +47,7 @@ The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 3	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	6	nsubj	_	_
 4	tetap	tetap	ADV	_	_	6	advmod	_	_
 5	akan	akan	AUX	_	_	6	aux	_	_
-6	masuk	masuk	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	masuk	masuk	VERB	_	Voice=Act	0	root	_	_
 7	penjara	penjara	NOUN	_	Number=Sing	6	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	semoga	moga	ADV	_	_	10	advmod	_	_
@@ -67,12 +67,12 @@ The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Suara	suara	NOUN	_	Number=Sing	4	nsubj	_	_
 3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
-4	menjangkau	jangkau	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	menjangkau	jangkau	VERB	_	Voice=Act	0	root	_	_
 5	seluruh	seluruh	DET	_	PronType=Tot	6	det	_	_
 6	dunia	dunia	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
 8	"	"	PUNCT	_	_	4	punct	_	_
-9	kata	kata	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
+9	kata	kata	VERB	_	Voice=Act	4	parataxis	_	_
 10	Leive	Leive	PROPN	_	_	9	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 

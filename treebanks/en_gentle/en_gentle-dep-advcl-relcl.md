@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 102	bgColor:blue
 # visual-style 102	fgColor:white
 # visual-style 102 105 advcl:relcl	color:blue
-1	Now	now	ADV	RB	_	48	advmod	48:advmod	Discourse=context-background:1->17:5:num-count-53
+1	Now	now	ADV	RB	_	48	advmod	48:advmod	Discourse=context-background:1->17:5:num-count-53-gold
 2	after	after	ADP	IN	_	7	case	7:case	_
 3	last	last	ADJ	JJ	Degree=Pos	4	amod	4:amod	Entity=(1-event-new-nnnnn-cf18-5,17,39-sgl(2-abstract-new-nnnnn-cf19-2-sgl
 4	episodes	episode	NOUN	NNS	Number=Plur	7	nmod:poss	7:nmod:poss	MSeg=episode-s
@@ -94,7 +94,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 19	Champions	Champion	PROPN	NNPS	Number=Plur	20	compound	20:compound	Entity=(7-event-new-sssss-cf24-1,2-coref-UEFA_Champions_League|MSeg=Champion-s
 20	League	League	PROPN	NNP	Number=Sing	21	compound	21:compound	Entity=7)
 21	quarter-finals	quarter-final	NOUN	NNS	Number=Plur	16	nmod	16:nmod:of	Entity=6)5)
-22	and	and	CCONJ	CC	_	25	cc	25:cc	Discourse=joint-sequence_m:3->2:0:dm-and-22+dm-then-23|PDTB=Explicit:Expansion.Conjunction:and:22:8-21:23-33
+22	and	and	CCONJ	CC	_	25	cc	25:cc	Discourse=joint-sequence_m:3->2:0:dm-and-22-_+dm-then-23-_|PDTB=Explicit:Expansion.Conjunction:and:22:8-21:23-33
 23	then	then	ADV	RB	PronType=Dem	25	advmod	25:advmod	PDTB=Explicit:Temporal.Asynchronous.Precedence:then:23:8-21:22,24-33
 24	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	nsubj	25:nsubj	Entity=(4-person-giv:act-nssss-cf1-1-ana)
 25	brought	bring	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	11	conj	7:acl:relcl|11:conj:and	_
@@ -106,7 +106,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 31	second	second	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	32	amod	32:amod	_
 32	leg	leg	NOUN	NN	Number=Sing	25	obl	25:obl:in	Entity=8)|SpaceAfter=No
 33	,	,	PUNCT	,	_	36	punct	36:punct	_
-34	and	and	CCONJ	CC	_	36	cc	36:cc	Discourse=joint-sequence_m:4->2:0:dm-and-34|PDTB=Explicit:Expansion.Conjunction:and:34:22-33:35-43;Implicit:Temporal.Asynchronous.Precedence:then:_:22-33:34-43
+34	and	and	CCONJ	CC	_	36	cc	36:cc	Discourse=joint-sequence_m:4->2:0:dm-and-34-_|PDTB=Explicit:Expansion.Conjunction:and:34:22-33:35-43;Implicit:Temporal.Asynchronous.Precedence:then:_:22-33:34-43
 35	now	now	ADV	RB	_	36	advmod	36:advmod	_
 36	advancing	advance	VERB	VBG	Tense=Pres|VerbForm=Part	11	conj	7:acl:relcl|11:conj:and	MSeg=advanc-ing
 37	into	into	ADP	IN	_	39	case	39:case	MSeg=in-to
@@ -144,7 +144,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 69	've	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	70	aux	70:aux	_
 70	had	have	VERB	VBN	Tense=Past|VerbForm=Part	65	acl:relcl	65:acl:relcl	Entity=16)14)|SpaceAfter=No
 71	,	,	PUNCT	,	_	72	punct	72:punct	_
-72	and	and	CCONJ	CC	_	81	cc	81:cc	Discourse=joint-sequence_m:10->1:2:dm-and-72+dm-then-73|PDTB=Explicit:Expansion.Conjunction:and:72:1-71:73-131
+72	and	and	CCONJ	CC	_	81	cc	81:cc	Discourse=joint-sequence_m:10->1:2:dm-and-72-_+dm-then-73-_|PDTB=Explicit:Expansion.Conjunction:and:72:1-71:73-131
 73	then	then	ADV	RB	PronType=Dem	81	advmod	81:advmod	PDTB=Explicit:Temporal.Asynchronous.Precedence:then:73:1-71:72,74-131
 74	on	on	ADP	IN	_	76	case	76:case	_
 75	uh	uh	INTJ	UH	_	76	discourse	76:discourse	_
@@ -188,7 +188,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 113	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	112	iobj	112:iobj	CxnElt=112:Ditransitive.Rec|Entity=(22-person-giv:act-sssss-cf2-1-ana)
 114	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	115	nmod:poss	115:nmod:poss	Entity=(23-event-new-nnnnn-cf10-2-sgl(4-person-giv:act-nssss-cf1-1-ana)
 115	game	game	NOUN	NN	Number=Sing	112	obj	112:obj	CxnElt=112:Ditransitive.Theme|Entity=23)
-116	and	and	CCONJ	CC	_	120	cc	120:cc	Discourse=explanation-justify:14->11:1:dm-because-109;joint-list:14->13:2:0:orp-and-116|PDTB=Explicit:Expansion.Conjunction:and:116:109-115:117-131
+116	and	and	CCONJ	CC	_	120	cc	120:cc	Discourse=explanation-justify:14->11:1:dm-because-109-_;joint-list:14->13:2:0:orp-and-116-_|PDTB=Explicit:Expansion.Conjunction:and:116:109-115:117-131
 117	Manchester	Manchester	PROPN	NNP	Number=Sing	118	compound	118:compound	Entity=(10-organization-giv:act-sssss-cf4-1,2-coref-Manchester_City_F.C.(11-place-giv:act-nnnnn-cf5-1-coref-Manchester)
 118	City	City	PROPN	NNP	Number=Sing	120	dislocated	120:dislocated	Entity=10)
 119	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	120	nsubj	120:nsubj	Entity=(22-person-giv:act-sssss-cf2-1-ana)

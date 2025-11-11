@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Amir Zeldes, Avner Algom, Noam Ordan, Yifat Ben Moshe, Shira Wigderson.
 
 Repository: [UD_Hebrew-IAHLTwiki](https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltwiki216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltwiki217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -95,7 +95,7 @@ url = {https://aclanthology.org/2022.emnlp-main.292/},
 
 ## Features
 
-[Abbr](he_iahltwiki-feat-Abbr.html) – [Aspect](he_iahltwiki-feat-Aspect.html) – [Case](he_iahltwiki-feat-Case.html) – [Definite](he_iahltwiki-feat-Definite.html) – [Foreign](he_iahltwiki-feat-Foreign.html) – [Gender](he_iahltwiki-feat-Gender.html) – [HebBinyan](he_iahltwiki-feat-HebBinyan.html) – [Mood](he_iahltwiki-feat-Mood.html) – [Number](he_iahltwiki-feat-Number.html) – [NumType](he_iahltwiki-feat-NumType.html) – [Person](he_iahltwiki-feat-Person.html) – [Polarity](he_iahltwiki-feat-Polarity.html) – [Poss](he_iahltwiki-feat-Poss.html) – [Prefix](he_iahltwiki-feat-Prefix.html) – [PronType](he_iahltwiki-feat-PronType.html) – [Reflex](he_iahltwiki-feat-Reflex.html) – [Tense](he_iahltwiki-feat-Tense.html) – [Typo](he_iahltwiki-feat-Typo.html) – [VerbForm](he_iahltwiki-feat-VerbForm.html) – [VerbType](he_iahltwiki-feat-VerbType.html) – [Voice](he_iahltwiki-feat-Voice.html)
+[Abbr](he_iahltwiki-feat-Abbr.html) – [Aspect](he_iahltwiki-feat-Aspect.html) – [Case](he_iahltwiki-feat-Case.html) – [Definite](he_iahltwiki-feat-Definite.html) – [ExtPos](he_iahltwiki-feat-ExtPos.html) – [Foreign](he_iahltwiki-feat-Foreign.html) – [Gender](he_iahltwiki-feat-Gender.html) – [HebBinyan](he_iahltwiki-feat-HebBinyan.html) – [Mood](he_iahltwiki-feat-Mood.html) – [Number](he_iahltwiki-feat-Number.html) – [NumType](he_iahltwiki-feat-NumType.html) – [Person](he_iahltwiki-feat-Person.html) – [Polarity](he_iahltwiki-feat-Polarity.html) – [Poss](he_iahltwiki-feat-Poss.html) – [Prefix](he_iahltwiki-feat-Prefix.html) – [PronType](he_iahltwiki-feat-PronType.html) – [Reflex](he_iahltwiki-feat-Reflex.html) – [Tense](he_iahltwiki-feat-Tense.html) – [Typo](he_iahltwiki-feat-Typo.html) – [VerbForm](he_iahltwiki-feat-VerbForm.html) – [VerbType](he_iahltwiki-feat-VerbType.html) – [Voice](he_iahltwiki-feat-Voice.html)
 
 ## Relations
 
@@ -654,6 +654,51 @@ url = {https://aclanthology.org/2022.emnlp-main.292/},
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADJ: נכון, סמוך</li>
+          <li>ADP: על, ב, מ, עד, מתחת, אל, ל, בניגוד, החל, תוך</li>
+          <li>ADV: יחד, במקביל, נכון, ב, יותר, יחסית, פחות</li>
+          <li>NOUN: מעבר</li>
+          <li>SCONJ: אשר, כש, מכיוון</li>
+          <li>VERB-Inf: להבדיל, בהתחשב</li>
+          <li>VERB-Part: כולל</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: נוסף, יתרה, קל, קרוב</li>
+          <li>ADP: ב, ל, כמו, לאחר, על, מ, עד, קרוב, אחר, בין</li>
+          <li>ADV: קודם, יותר, מאוחר, ב, עד, פחות, למעלה, על, אי, כ</li>
+          <li>DET: כל</li>
+          <li>NOUN: בד, סך</li>
+          <li>SCONJ: ככל, אי, אם</li>
+          <li>X: דה</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: כמו</li>
+          <li>CCONJ: ו</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: על, עד, לאחר, ב, אחרי, בעוד, לפני, מ, תוך, כדי</li>
+          <li>ADV: כך, אף, מאז</li>
+          <li>CCONJ: אף, אלא, קרי</li>
+          <li>PRON: מה</li>
+          <li>SCONJ: כפי, כיוון, אם, ככל, מאחר, משום, מכיוון, אף, בעוד, היות</li>
+          <li>VERB: היה</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -747,19 +792,16 @@ url = {https://aclanthology.org/2022.emnlp-main.292/},
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: אורינטליסטית, אמריקני, מונומטאלי, מזרחית, מינהלית, מקומית, עולמי, קשה, ששית</li>
-          <li>ADP: אחר, לפני, עמ</li>
-          <li>ADV: מיד, מינהלית, מספיקות</li>
+          <li>ADJ: מונומטאלי, מקומית, עולמי, קשה</li>
+          <li>ADP: לפני, אחר</li>
+          <li>ADV: מינהלית, מספיקות</li>
           <li>AUX: הייתה, היה, אמור</li>
           <li>CCONJ: אלה</li>
-          <li>DET: ב</li>
-          <li>NOUN: כל, לדה, מסים, מעין, נייטרון, נייטרליות, צד, אב, אמר, דוחו"ת</li>
-          <li>NUM: ארבע</li>
-          <li>PRON: הם, זה, אותם, ה, ו, ם, ן</li>
-          <li>PROPN: דפטריה, קרית</li>
+          <li>NOUN: נייטרון, נייטרליות, אב, דוחו"ת, המקמת, וועידה, יד, יוצרים, ישוב, כללי</li>
+          <li>PRON: זה</li>
           <li>PUNCT: '</li>
-          <li>VERB: איפשר, איפשרה, איפשרו, אירע, בוצע, הגיע, הובהר, הופרדה, היקנו, יאלצו</li>
-          <li>VERB-Part: מעידה, מקנה, נתמך</li>
+          <li>VERB: איפשר, איפשרה, איפשרו, אירע, הובהר, הופרדה, יהנה, מעידה, ניכנס, נכלל</li>
+          <li>VERB-Part: מעידה, נתמך</li>
           <li>X: א</li>
         </ul>
       </li>
@@ -806,14 +848,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (2264)</li>
+      <li>VERB--NOUN (2267)</li>
       <li>VERB--NOUN-ADP(את) (3)</li>
       <li>VERB--NOUN-ADP(מ) (1)</li>
       <li>VERB--NOUN-ADP(משום) (1)</li>
       <li>VERB--PRON (217)</li>
       <li>VERB-Inf--NOUN (115)</li>
       <li>VERB-Inf--PRON (19)</li>
-      <li>VERB-Part--NOUN (820)</li>
+      <li>VERB-Part--NOUN (821)</li>
       <li>VERB-Part--PRON (159)</li>
     </ul>
   </li>
@@ -822,26 +864,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (758)</li>
+      <li>VERB--NOUN (755)</li>
       <li>VERB--NOUN-ADP(אֶת) (1)</li>
       <li>VERB--NOUN-ADP(את) (571)</li>
       <li>VERB--NOUN-ADP(ב) (1)</li>
       <li>VERB--NOUN-ADP(יותר) (1)</li>
-      <li>VERB--NOUN-ADP(כמו)-ADP(את) (1)</li>
-      <li>VERB--NOUN-ADP(ל) (1)</li>
       <li>VERB--NOUN-ADP(מ) (2)</li>
       <li>VERB--PRON (13)</li>
       <li>VERB--PRON-ADP(את) (70)</li>
       <li>VERB--PRON-Acc (7)</li>
       <li>VERB--PRON-Acc-ADP(יד) (1)</li>
       <li>VERB--PRON-Gen-ADP(את) (2)</li>
-      <li>VERB-Inf--NOUN (354)</li>
-      <li>VERB-Inf--NOUN-ADP(את) (349)</li>
+      <li>VERB-Inf--NOUN (353)</li>
+      <li>VERB-Inf--NOUN-ADP(את) (348)</li>
       <li>VERB-Inf--NOUN-ADP(את)-ADP(כ) (1)</li>
       <li>VERB-Inf--PRON (21)</li>
       <li>VERB-Inf--PRON-ADP(את) (31)</li>
       <li>VERB-Inf--PRON-Acc (29)</li>
-      <li>VERB-Part--NOUN (304)</li>
+      <li>VERB-Part--NOUN (303)</li>
       <li>VERB-Part--NOUN-ADP(את) (238)</li>
       <li>VERB-Part--NOUN-ADP(ל) (1)</li>
       <li>VERB-Part--NOUN-ADP(מ) (1)</li>

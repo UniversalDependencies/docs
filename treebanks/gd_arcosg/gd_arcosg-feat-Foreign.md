@@ -91,7 +91,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (11; 100% of non-empty `Foreign`): <em>really, exactly, straight, absolutely, forward, still, totally</em>
-* `EMPTY` (4568): <em>an, a-mach, cho, a, dìreach, suas, cuideachd, ann, math, a-steach</em>
+* `EMPTY` (4576): <em>an, a-mach, cho, a, dìreach, suas, ann, cuideachd, math, a-steach</em>
 
 ### `NUM`
 

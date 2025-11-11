@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nap_rb-pos-PRON.htm
 
 ### `PRON`
 
-2 <tt><a href="nap_rb-pos-PRON.html">PRON</a></tt> tokens (12% of all `PRON` tokens) have a non-empty value of `Reflex`.
+2 <tt><a href="nap_rb-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="nap_rb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nap_rb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nap_rb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nap_rb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="nap_rb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nap_rb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nap_rb-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="nap_rb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (2; 100% of non-empty `Reflex`): <em>s'</em>
-* `EMPTY` (15): <em>Essă, issŏ, l', Chĕ, Tĕ, c', chi, cĕ, n'ată, nĕ</em>
+* `EMPTY` (17): <em>Essă, issŏ, l', Chĕ, Tĕ, ată, c', chi, cĕ, n'</em>
 

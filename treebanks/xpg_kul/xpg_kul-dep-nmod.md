@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 17 nmod	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845569|1|1
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM845569|1|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM845569|1|2
 3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|PronType=Dem	4	det	_	Ref=TM845569|1|3
 4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM845569|1|4

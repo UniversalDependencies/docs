@@ -51,7 +51,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 1	Πέντε	πέντε	NUM	NUM	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	2	nummod	_	_
 2	νεκροί	νεκρός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 3	σ	σε	ADP	ADP	_	5	case	_	_
-4	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
+4	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Καμπούλ	Καμπούλ	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
 
 ~~~

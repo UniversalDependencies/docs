@@ -23,19 +23,19 @@ The following 46 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 nsubj	color:blue
-1	ἔζησεν	ζάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-live
-2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	Σὴθ	Σήθ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Seth
-4	διακόσια	διακόσιοι	NUM	_	Case=Acc,Nom|Gender=Neut|Number=Plur|NumType=Card	7	nummod	_	Gloss=200
-5	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-6	πέντε	πέντε	NUM	_	NumType=Card	7	nummod	_	Gloss=five
-7	ἔτη	ἔτος	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Gloss=years|SpaceAfter=No
-8	·	·	PUNCT	_	_	9	punct	_	_
-9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-10	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-give-birth
-11	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the
-12	Ἐνώς	Ἐνώς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Gloss=Enosh|SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	_
+1	ἔζησεν	ζάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-live|Ref=GEN_5.6
+2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_5.6
+3	Σὴθ	Σήθ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Seth|Ref=GEN_5.6
+4	διακόσια	διακόσιοι	NUM	_	Case=Acc,Nom|Gender=Neut|Number=Plur|NumType=Card	7	nummod	_	Gloss=200|Ref=GEN_5.6
+5	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_5.6
+6	πέντε	πέντε	NUM	_	NumType=Card	7	nummod	_	Gloss=five|Ref=GEN_5.6
+7	ἔτη	ἔτος	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Gloss=years|Ref=GEN_5.6|SpaceAfter=No
+8	·	·	PUNCT	_	_	9	punct	_	Ref=GEN_5.6
+9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next|Ref=GEN_5.6
+10	ἐγέννησεν	γεννάω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-give-birth|Ref=GEN_5.6
+11	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the|Ref=GEN_5.6
+12	Ἐνώς	Ἐνώς	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Gloss=Enosh|Ref=GEN_5.6|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	Ref=GEN_5.6
 
 ~~~
 
@@ -46,17 +46,17 @@ The following 46 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 nsubj	color:blue
-1	Ἐν	ἐν	ADP	_	_	2	case	_	Gloss=in,on,by,with,to
-2	ἀρχῇ	ἀρχή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl:tmod	_	Gloss=beginning,ruler,office
-3	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-do,make
-4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh
-5	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=god
-6	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=the
-7	οὐρανὸν	οὐρανός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=heaven,sky
-8	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-9	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Gloss=the
-10	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	Gloss=earth|SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	_	_
+1	Ἐν	ἐν	ADP	_	_	2	case	_	Gloss=in,on,by,with,to|Ref=GEN_1.1
+2	ἀρχῇ	ἀρχή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl:tmod	_	Gloss=beginning,ruler,office|Ref=GEN_1.1
+3	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-do,make|Ref=GEN_1.1
+4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_1.1
+5	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=god|Ref=GEN_1.1
+6	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_1.1
+7	οὐρανὸν	οὐρανός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=heaven,sky|Ref=GEN_1.1
+8	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next|Ref=GEN_1.1
+9	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Gloss=the|Ref=GEN_1.1
+10	γῆν	γῆ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	Gloss=earth|Ref=GEN_1.1|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	Ref=GEN_1.1
 
 ~~~
 
@@ -67,13 +67,13 @@ The following 46 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nsubj	color:blue
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
-3	Ἁβραάμ	Ἁβραάμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Abraham|SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	ἐγὼ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=I
-6	ὀμοῦμαι	ὄμνυμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	2	ccomp	_	Gloss=to-swear|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_21.24
+2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_21.24
+3	Ἁβραάμ	Ἁβραάμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Abraham|Ref=GEN_21.24|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	Ref=GEN_21.24
+5	ἐγὼ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=I|Ref=GEN_21.24
+6	ὀμοῦμαι	ὄμνυμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	2	ccomp	_	Gloss=to-swear|Ref=GEN_21.24|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	Ref=GEN_21.24
 
 ~~~
 

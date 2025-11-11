@@ -10,10 +10,10 @@ This relation is universal.
 
 143 nodes (1%) are attached to their parents as `reparandum`.
 
-143 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.03496503496504.
+142 instances of `reparandum` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.83916083916084.
 
-The following 34 pairs of parts of speech are connected with `reparandum`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (28; 20% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (18; 13% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (14; 10% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (10; 7% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (8; 6% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (7; 5% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (7; 5% instances), <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> (7; 5% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (5; 3% instances), <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (3; 2% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 33 pairs of parts of speech are connected with `reparandum`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (28; 20% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (15; 10% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (13; 9% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (11; 8% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (9; 6% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (8; 6% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (7; 5% instances), <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> (7; 5% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (5; 3% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (3; 2% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,40 +24,39 @@ The following 34 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 7 3 reparandum	color:blue
 1	àmmaː	àmmaː	CCONJ	_	_	3	discourse	_	AlignBegin=31235|AlignEnd=31458|Gloss=but
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=31458|AlignEnd=31681|Gloss=PUNCT
-3	an	_	AUX	sun	Aspect=Perf|Person=4	7	reparandum	_	AlignBegin=31681|AlignEnd=31793|Gloss=4.Perf
+3	an	_	AUX	yaː	Aspect=Perf|Person=4	7	reparandum	_	AlignBegin=31681|AlignEnd=31793|Gloss=4.Perf
 4	||	||	PUNCT	_	_	3	punct	_	AlignBegin=31793|AlignEnd=31904|Gloss=PUNCT
-5	mutàːneː	mùtûm	NOUN	_	Number=Plur	7	nsubj	_	AlignBegin=32127|AlignEnd=32239|Gloss=person.Plur
-6	sun	_	AUX	sun	Aspect=Perf|Number=Plur|Person=3	7	aux	_	AlignBegin=32350|AlignEnd=32573|Gloss=3Plur.Perf
+5	mutàːneː	mùtûm	NOUN	_	Definite=Ind|Number=Plur	7	nsubj	_	AlignBegin=32127|AlignEnd=32239|Gloss=person.Plur
+6	sun	_	AUX	yaː	Aspect=Perf|Number=Plur|Person=3	7	aux	_	AlignBegin=32350|AlignEnd=32573|Gloss=3Plur.Perf
 7	fi	fi	VERB	_	_	0	root	_	AlignBegin=32573|AlignEnd=32796|Gloss=exceed
-8	kiràn	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	7	obj	_	AlignBegin=32796|AlignEnd=32870|Gloss=call.Vnoun.Cons
-9	=tà	=ta	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	8	nmod	_	AlignBegin=32944|AlignEnd=33019|Gloss=3Fem
-10	dà	dà	ADP	_	_	11	case	_	AlignBegin=33019|AlignEnd=33242|Gloss=with
-11	Mài	Mài	PROPN	_	_	8	obl:arg	_	AlignBegin=33242|AlignEnd=33465|Gloss=Mai
-12	Ƙoːsai	Ƙoːsai	PROPN	_	_	11	flat:name	_	AlignBegin=33465|AlignEnd=33688|Gloss=K'osai
-13	//	//	PUNCT	_	_	7	punct	_	AlignBegin=33688|AlignEnd=33908|Gloss=PUNCT
+8	kiràntà	kir-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|Person=3|VerbForm=Vnoun	7	obj	_	AlignBegin=32796|AlignEnd=32870|Gloss=call.Vnoun.Cons.3Fem|wordform=kiràn
+9	dà	dà	ADP	_	_	10	case	_	AlignBegin=33019|AlignEnd=33242|Gloss=with
+10	Mài	Mài	PROPN	_	_	8	obl:arg	_	AlignBegin=33242|AlignEnd=33465|Gloss=Mai
+11	Ƙoːsai	Ƙoːsai	PROPN	_	_	10	flat:name	_	AlignBegin=33465|AlignEnd=33688|Gloss=K'osai
+12	//	//	PUNCT	_	_	7	punct	_	AlignBegin=33688|AlignEnd=33908|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 reparandum	color:blue
-1	dabboːbiː	dabbàː	NOUN	_	Number=Plur	4	dislocated	_	AlignBegin=578788|AlignEnd=578930|Gloss=domestic_animals.Plur
-2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=579071|AlignEnd=579354|Gloss=PUNCT
-3	sukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=3	4	aux	_	AlignBegin=579354|AlignEnd=579590|Gloss=3Plur.Hab|Scrap=Yes
-4	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=579590|AlignEnd=579826|Gloss=come
-5	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	6	det	_	AlignBegin=579826|AlignEnd=580062|Gloss=some.Masc
-6	zubìː	zubìː	NOUN	_	_	4	obl	_	AlignBegin=580062|AlignEnd=580298|Gloss=time
-7	in	in	SCONJ	_	_	4	dep	_	AlignBegin=580298|AlignEnd=580534|Gloss=if
-8	mutàː~	mùtûm	NOUN	_	Number=Plur	10	reparandum	_	AlignBegin=580534|AlignEnd=580770|Gloss=person.Plur|Scrap=Yes
-9	||	||	PUNCT	_	_	8	punct	_	AlignBegin=580770|AlignEnd=581003|Gloss=PUNCT
-10	shaː~	sâː	NOUN	_	Number=Plur	7	dep	_	AlignBegin=581003|AlignEnd=581296|Gloss=cow.Plur
-11	dà	dà	SCONJ	_	_	12	mark	_	AlignBegin=581589|AlignEnd=581653|Gloss=COMP
-12	kèː	_	AUX	kèː/kà	Aspect=ProgBkg	10	acl:relcl	_	AlignBegin=581653|AlignEnd=581717|Background=Yes|Gloss=Prog.Bkg
-13	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=581717|AlignEnd=581782|Gloss=PUNCT
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 5 reparandum	color:blue
+1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	12	dislocated	_	AlignBegin=505639|AlignEnd=505904|Gloss=3Fem.Nom
+2	wânnan	wânnan	DET	_	Definite=Def|Number=Plur|PronType=Dem	3	det	_	AlignBegin=505904|AlignEnd=506169|Gloss=Def.Plur
+3	Bàːsa	Bàːsa	PROPN	_	_	1	appos	_	AlignBegin=506169|AlignEnd=506434|Gloss=Basa
+4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=506434|AlignEnd=506699|Gloss=PUNCT
+5	suːnantà	suːnaː	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=3	11	reparandum	_	AlignBegin=506699|AlignEnd=506765|Gloss=name.Cons.3Fem.Gen|wordform=suːnan
+6	||	||	PUNCT	_	_	7	punct	_	AlignBegin=506897|AlignEnd=506964|Gloss=PUNCT
+7	aʔàː	aʔàː	INTJ	_	_	11	discourse	_	AlignBegin=507229|AlignEnd=507494|Gloss=FILL
+8	<	<	PUNCT	_	_	7	punct	_	AlignBegin=507494|AlignEnd=507759|Gloss=PUNCT
+9	èːʔèː	èːʔèː	INTJ	_	_	11	discourse	_	AlignBegin=507759|AlignEnd=508024|Gloss=FILL
+10	<	<	PUNCT	_	_	9	punct	_	AlignBegin=508024|AlignEnd=508289|Gloss=PUNCT
+11	suːnantà	suːnaː	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=3	12	nsubj	_	AlignBegin=508554|AlignEnd=508642|Gloss=name.Cons.3Fem.Gen|wordform=suːnaː
+12	Bàːsa	Bàːsa	PROPN	_	_	0	root	_	AlignBegin=508819|AlignEnd=509084|Gloss=Basa
+13	//	//	PUNCT	_	_	12	punct	_	AlignBegin=509084|AlignEnd=509343|Gloss=PUNCT
 
 ~~~
 

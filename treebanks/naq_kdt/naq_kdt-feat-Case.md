@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Nom`, `Voc`.
 
-7239 tokens (25%) have a non-empty value of `Case`.
-1957 types (58%) occur at least once with a non-empty value of `Case`.
-1095 lemmas (49%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (3369; 12% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (2705; 9% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (437; 2% instances), <tt><a href="naq_kdt-pos-SCONJ.html">SCONJ</a></tt> (422; 1% instances), <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (130; 0% instances), <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> (52; 0% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (51; 0% instances), <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> (43; 0% instances), <tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (30; 0% instances).
+7234 tokens (25%) have a non-empty value of `Case`.
+1953 types (58%) occur at least once with a non-empty value of `Case`.
+1088 lemmas (48%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (3367; 12% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (2705; 9% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (438; 2% instances), <tt><a href="naq_kdt-pos-SCONJ.html">SCONJ</a></tt> (422; 1% instances), <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (130; 0% instances), <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> (50; 0% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (49; 0% instances), <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> (43; 0% instances), <tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (30; 0% instances).
 
 ### `NOUN`
 
-3369 <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Case`.
+3367 <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="naq_kdt-feat-Person.html">Person</a></tt><tt>=3</tt> (3232; 96%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2630; 78%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="naq_kdt-feat-Person.html">Person</a></tt><tt>=3</tt> (3231; 96%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2629; 78%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (1231; 37% of non-empty `Case`): <em>xū-e, khoeba, xūna, khoena, sîsen-e, ǃkhaisa, khoe-e, ǂhôana, ǁaeba, axaba</em>
-* `Nom` (2033; 60% of non-empty `Case`): <em>khoeb, xūn, khoen, xū-i, khoe-i, oms, ǁaeb, ǀgaub, ǃgôahesab, gangans</em>
+* `Acc` (1230; 37% of non-empty `Case`): <em>xū-e, khoeba, xūna, khoena, sîsen-e, ǃkhaisa, khoe-e, ǂhôana, ǁaeba, axaba</em>
+* `Nom` (2032; 60% of non-empty `Case`): <em>khoeb, xūn, khoen, xū-i, khoe-i, oms, ǁaeb, ǀgaub, ǃgôahesab, gangans</em>
 * `Voc` (105; 3% of non-empty `Case`): <em>ǃgôahesatse, ǃgôasatse, ǀgawiǃgôahesatse, ǀgôatse, Dadatse, khoetse, oome, ǀawaǃnamtse, ǁGauǃnâ-aotse, ǂNûǁkhae-aotse</em>
-* `EMPTY` (168): <em>dana, soort, auma, ǃkhai, baby, kuri, minste, ǂkhai, ǃhūǁî, ǃnôa</em>
+* `EMPTY` (170): <em>dana, soort, auma, ǃkhai, baby, kuri, minste, ǂkhai, ǃhūǁî, ǃnôa</em>
 
 <table>
   <tr><th>Paradigm <i>khoe</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Voc</tt></th></tr>
@@ -43,25 +43,25 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 2705 <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2265; 84%), <tt><a href="naq_kdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2246; 83%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="naq_kdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2298; 85%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2265; 84%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (528; 20% of non-empty `Case`): <em>te, tare-e, tsi, satsa, ǁîba, si, ba, bi, sa, -e</em>
-* `Nom` (2173; 80% of non-empty `Case`): <em>ta, ts, i, b, s, ǁîb, sats, n, ǁîn, ǁîs</em>
-* `Voc` (4; 0% of non-empty `Case`): <em>tse, ts</em>
+* `Nom` (2174; 80% of non-empty `Case`): <em>ta, ts, i, b, s, ǁîb, sats, n, ǁîn, ǁîs</em>
+* `Voc` (3; 0% of non-empty `Case`): <em>tse</em>
 * `EMPTY` (564): <em>tita, da, sida, sada, tare, sa, tari, ta, ǁî, nē</em>
 
 ### `PROPN`
 
-437 <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> tokens (53% of all `PROPN` tokens) have a non-empty value of `Case`.
+438 <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> tokens (53% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="naq_kdt-feat-Person.html">Person</a></tt><tt>=3</tt> (431; 99%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (429; 98%), <tt><a href="naq_kdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (294; 67%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="naq_kdt-feat-Person.html">Person</a></tt><tt>=3</tt> (432; 99%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (430; 98%), <tt><a href="naq_kdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (294; 67%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Acc` (104; 24% of non-empty `Case`): <em>Mariasa, Abela, Powersa, Amoba, Dawsonna, Pryora, skola, Germanyba, Petera, Rogerba</em>
-* `Nom` (328; 75% of non-empty `Case`): <em>Petrub, Abeli, Saras, Marias, Amob, Titanici, Soviets, Powersi, Pryori, States</em>
+* `Nom` (329; 75% of non-empty `Case`): <em>Petrub, Abeli, Saras, Marias, Amob, Soviets, Titanici, Powersi, Pryori, States</em>
 * `Voc` (5; 1% of non-empty `Case`): <em>ǃKhūtse, Awotse</em>
 * `EMPTY` (383): <em>Donovan, Jim, Jack, Rudolf, Vogel, Frederic, Gary, Rose, Abel, Brock</em>
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 * `Acc` (240; 57% of non-empty `Case`): <em>sa, ǃkhaisa, ǃkhaesa, s</em>
 * `Nom` (182; 43% of non-empty `Case`): <em>s, ǃkhais, sa, ǃkhaes</em>
-* `EMPTY` (494): <em>o, hîa, se, î, khami, hina, khama, want, -o, amaga</em>
+* `EMPTY` (495): <em>o, hîa, se, î, khami, hina, khama, want, -o, amaga</em>
 
 <table>
   <tr><th>Paradigm <i>s</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 * `Acc` (91; 70% of non-empty `Case`): <em>tsîna, ǀguisa, ona, ǁgona</em>
 * `Nom` (39; 30% of non-empty `Case`): <em>tsîn, on, Germanǁîn</em>
-* `EMPTY` (1548): <em>o, nēsisa, amase, nēpa, ǁnāpa, kaise, mâti, ǀgui, ǁnāti, nēsi</em>
+* `EMPTY` (1547): <em>o, nēsisa, amase, nēpa, ǁnāpa, kaise, mâti, ǀgui, ǁnāti, nēsi</em>
 
 <table>
   <tr><th>Paradigm <i>tsîn</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -104,14 +104,14 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 ### `DET`
 
-52 <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Case`.
+50 <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="naq_kdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="naq_kdt-feat-Person.html">Person</a></tt><tt>=3</tt> (45; 87%), <tt><a href="naq_kdt-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (44; 85%), <tt><a href="naq_kdt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (40; 77%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (28; 54%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="naq_kdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="naq_kdt-feat-Person.html">Person</a></tt><tt>=3</tt> (44; 88%), <tt><a href="naq_kdt-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (43; 86%), <tt><a href="naq_kdt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (40; 80%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (27; 54%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (22; 42% of non-empty `Case`): <em>hoana, hoa-e, hoasa, hoaba, ǁnā-e, ǁnāhâna</em>
-* `Nom` (30; 58% of non-empty `Case`): <em>hoan, hoa-i, ǁnān, hoab, hoadi, hoago, hoagu, naun, enige, naus</em>
+* `Acc` (22; 44% of non-empty `Case`): <em>hoana, hoa-e, hoasa, hoaba, ǁnā-e, ǁnāhâna</em>
+* `Nom` (28; 56% of non-empty `Case`): <em>hoan, hoa-i, ǁnān, hoab, hoadi, hoago, hoagu, naun, sago, taregu</em>
 * `EMPTY` (775): <em>nē, ǁnā, ti, sa, hoa, nau, ǀnî, hoaraga, mâ, tare</em>
 
 <table>
@@ -123,13 +123,13 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `ADJ`
 
-51 <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `Case`.
+49 <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Case`.
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (31; 61% of non-empty `Case`): <em>ǀguiba, ǀguisa, ǀguina, ǀgara, ǀgui-e, ǂansa, ǃnoesa, hoaragana, ǀAsa, ǀgamsa</em>
-* `Nom` (20; 39% of non-empty `Case`): <em>ǀguis, ǀguib, ǀgui-i, born, karin, tari-e, ǀgui-e, ǀguin</em>
-* `EMPTY` (723): <em>ǃgâi, kai, ǂhanu, ǂguro, ǀkhara, ǂoaǂamsa, ama, ǂhâǂhâsa, American, ǀgui</em>
+* `Acc` (31; 63% of non-empty `Case`): <em>ǀguiba, ǀguisa, ǀguina, ǀgara, ǀgui-e, ǂansa, ǃnoesa, hoaragana, ǀAsa, ǀgamsa</em>
+* `Nom` (18; 37% of non-empty `Case`): <em>ǀguis, ǀguib, ǀgui-i, karin, tari-e, ǀgui-e, ǀguin</em>
+* `EMPTY` (726): <em>ǃgâi, kai, ǂhanu, ǂguro, ǀkhara, ǂoaǂamsa, ama, ǂhâǂhâsa, American, ǀgui</em>
 
 <table>
   <tr><th>Paradigm <i>ǀgui</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -140,13 +140,13 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="naq_kdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ǀguin</em></td><td><em>ǀguina</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `ADJ`. 93% lemmas (13) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `ADJ`. 92% lemmas (12) occur only with one value of `Case`.
 
 ### `NUM`
 
 43 <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> tokens (23% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="naq_kdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (42; 98%), <tt><a href="naq_kdt-feat-Person.html">Person</a></tt><tt>=3</tt> (41; 95%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 86%), <tt><a href="naq_kdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (22; 51%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="naq_kdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (43; 100%), <tt><a href="naq_kdt-feat-Person.html">Person</a></tt><tt>=3</tt> (41; 95%), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 86%), <tt><a href="naq_kdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (22; 51%).
 
 `NUM` tokens may have the following values of `Case`:
 

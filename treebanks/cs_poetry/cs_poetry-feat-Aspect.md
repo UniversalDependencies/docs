@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-941 tokens (15%) have a non-empty value of `Aspect`.
-718 types (27%) occur at least once with a non-empty value of `Aspect`.
-510 lemmas (27%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (743; 12% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (136; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (61; 1% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+942 tokens (15%) have a non-empty value of `Aspect`.
+719 types (27%) occur at least once with a non-empty value of `Aspect`.
+511 lemmas (27%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (743; 12% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (136; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (62; 1% instances), <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
 743 <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (700; 94%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (637; 86%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (533; 72%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (503; 68%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (430; 58%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (406; 55%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (399; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (701; 94%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (637; 86%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (533; 72%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (503; 68%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (430; 58%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (406; 55%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (397; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -39,22 +39,22 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 ### `ADJ`
 
-61 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Aspect`.
+62 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (61; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (59; 97%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (49; 80%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 72%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (41; 67%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (39; 64%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (62; 100%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (60; 97%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (50; 81%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 73%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (42; 68%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (39; 63%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
-* `Imp` (25; 41% of non-empty `Aspect`): <em>Drážděné, Kypící, bijící, bičován, drtící, hořícího, hořícím, hynoucími, kající, mlčící</em>
-* `Perf` (36; 59% of non-empty `Aspect`): <em>Oněmlé, Podťata, Rozcuchán, Zsinalá, narozené, narozený, nepoznaným, nezvrácen, oblečeny, obnažená</em>
-* `EMPTY` (536): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
+* `Imp` (26; 42% of non-empty `Aspect`): <em>Drážděné, Kypící, bijící, bičován, budoucí, drtící, hořícího, hořícím, hynoucími, kající</em>
+* `Perf` (36; 58% of non-empty `Aspect`): <em>Oněmlé, Podťata, Rozcuchán, Zsinalá, narozené, narozený, nepoznaným, nezvrácen, oblečeny, obnažená</em>
+* `EMPTY` (535): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
 
 <table>
   <tr><th>Paradigm <i>otrávený</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
   <tr><td><tt></tt></td><td><em>otráven</em></td><td><em>otráven</em></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `ADJ`. 98% lemmas (57) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `ADJ`. 98% lemmas (58) occur only with one value of `Aspect`.
 
 ### `NOUN`
 

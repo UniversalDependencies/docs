@@ -23,12 +23,12 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:pass	color:blue
-1	і	и	CCONJ	C-	_	5	cc	_	ref=77.63
-2	дѣвъ-і	дѣва	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	nsubj:pass	_	ref=77.63
-3	мъ	и	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	ref=77.63
-4	не	не	ADV	Df	Polarity=Neg	5	advmod	_	ref=77.63
-5	посѣтованꙑ	посѣтовати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=77.63
-6	бꙑшѩ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	ref=77.63
+1	і	и	CCONJ	C-	_	5	cc	_	Ref=77.63
+2	дѣвъ-і	дѣва	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	nsubj:pass	_	Ref=77.63
+3	мъ	и	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	Ref=77.63
+4	не	не	ADV	Df	Polarity=Neg	5	advmod	_	Ref=77.63
+5	посѣтованꙑ	посѣтовати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=77.63
+6	бꙑшѩ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Ref=77.63
 
 ~~~
 
@@ -39,11 +39,11 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nsubj:pass	color:blue
-1	словесемь҆	слово	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	ref=19
-2	христосомъ	христ(ос)овъ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	amod	_	ref=19
-3	си	сь	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	ref=19
-4	о҄уловь҆ѥ҅ни	оуловити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=19
-5	бꙑшꙙ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	ref=19
+1	словесемь҆	слово	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	Ref=19
+2	христосомъ	христ(ос)овъ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	amod	_	Ref=19
+3	си	сь	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	Ref=19
+4	о҄уловь҆ѥ҅ни	оуловити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=19
+5	бꙑшꙙ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	Ref=19
 
 ~~~
 
@@ -54,11 +54,11 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 nsubj:pass	color:blue
-1	Въ	въ	ADP	R-	_	2	case	_	ref=104.17
-2	работѫ	работа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=104.17
-3	проданъ	продати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=104.17
-4	бъістъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=104.17
-5	їосіфъ	иосифъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	ref=104.17
+1	Въ	въ	ADP	R-	_	2	case	_	Ref=104.17
+2	работѫ	работа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	Ref=104.17
+3	проданъ	продати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=104.17
+4	бъістъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	Ref=104.17
+5	їосіфъ	иосифъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	Ref=104.17
 
 ~~~
 

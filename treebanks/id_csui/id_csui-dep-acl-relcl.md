@@ -25,7 +25,7 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	Tetapi	tetapi	CCONJ	CC	_	8	cc	_	_
 2	langkah	langkah	NOUN	NN	Number=Sing	8	obl	_	_
 3	dia	dia	PRON	PRP	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
-4	menuju	tuju	VERB	VB	Mood=Ind|Voice=Act	2	acl:relcl	_	_
+4	menuju	tuju	VERB	VB	Voice=Act	2	acl:relcl	_	_
 5	kesuksesan	sukses	NOUN	NN	Number=Sing	4	obj	_	_
 6	tidak	tidak	PART	RP	Polarity=Neg	8	advmod	_	_
 7	lah	lah	PART	RP	_	6	advmod:emph	_	_
@@ -42,7 +42,7 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 7 acl:relcl	color:blue
 1	Kami	kami	PRON	PRP	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	kira	kira	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+2	kira	kira	VERB	VB	Voice=Act	0	root	_	_
 3	itu	itu	DET	DT	PronType=Dem	5	det	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	_	_
 5	target	target	NOUN	NN	Number=Sing	2	obl	_	_
@@ -60,12 +60,12 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 7 8 acl:relcl	color:blue
 1	Saya	saya	PRON	PRP	Number=Sing|Person=1|Polite=Form|PronType=Prs	3	nsubj	_	_
 2	akan	akan	AUX	MD	_	3	aux	_	_
-3	meninggalkan	tinggal	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	meninggalkan	tinggal	VERB	VB	Voice=Act	0	root	_	_
 4	Indonesia	Indonesia	PROPN	NNP	_	3	obj	_	_
 5	pada	pada	ADP	IN	_	6	case	_	_
 6	28	28	NUM	CD	NumType=Card	3	obl:tmod	_	_
 7	Februari	Februari	PROPN	NNP	_	6	flat	_	_
-8	mendatang	datang	VERB	VB	Mood=Ind|Voice=Act	7	acl:relcl	_	_
+8	mendatang	datang	VERB	VB	Voice=Act	7	acl:relcl	_	_
 9	ke	ke	ADP	IN	_	10	case	_	_
 10	London	London	PROPN	NNP	_	3	obl	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_

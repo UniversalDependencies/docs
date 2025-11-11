@@ -41,7 +41,7 @@ The following 19 pairs of parts of speech are connected with `discourse`: <tt><a
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	sue	sue	VERB	VB	VerbForm=Inf	4	acl	4:acl:to	SpaceAfter=No
 7	;	;	PUNCT	:	_	12	punct	12:punct	_
-8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Discourse=adversative-contrast_m:47->46:0:sem-ngt-334|Entity=(23-person-giv:inact-nnnnn-cf1-2-coref
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Discourse=adversative-contrast_m:47->46:0:sem-ngt-334-_|Entity=(23-person-giv:inact-nnnnn-cf1-2-coref
 9	Does	Doe	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	Entity=23)|MSeg=Doe-s
 10	and	and	CCONJ	CC	_	11	cc	11:cc	_
 11	Hallford	Hallford	PROPN	NNP	Number=Sing	9	conj	9:conj:and|12:nsubj	Entity=(20-person-giv:inact-nnnnn-cf2-1-coref)

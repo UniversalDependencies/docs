@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="orv_ruthenian-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-405 nodes (0%) are attached to their parents as `nummod`.
+467 nodes (0%) are attached to their parents as `nummod`.
 
-388 instances of `nummod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11111111111111.
+438 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1134903640257.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (391; 97% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (449; 96% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,22 +63,23 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nummod	color:blue
-1	И	и	CCONJ	СС	_	4	cc	_	wf="И"
-2	вы	вы	PRON	PRP	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	wf="вы"
-3	нам	мы	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	iobj	_	wf="нам"
-4	ѡтлазитѣ	отлазити	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="ѡтлазитѣ"
-5	одным	одинъ	NUM	CD	Case=Ins|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	6	nummod	_	wf="одным"
-6	Юрьевом	Юрьевъ	PROPN	NPI	Case=Ins|Gender=Masc|NameType=Geo|Number=Sing	4	obl	_	wf="Юрьевом"
-7	противꙋ	противъ	ADP	IN	_	10	case	_	wf="противꙋ"
-8	всѣе	весь	DET	DT	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	10	det	_	wf="всѣе"
-9	нашее	нашъ	DET	PRP$	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	wf="нашее"
-10	дорогы	дорога	NOUN	NNI	Case=Gen|Gender=Fem|Number=Sing	4	obl	_	wf="дорогы"|SpaceAfter=No
-11	.	.	PUNCT	-PERIOD-	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 nummod	color:blue
+1	Десѧтъниковъ	десятникъ	NOUN	NNA	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	wf="Десѧтъниковъ"
+2	не	не	PART	NEG	Polarity=Neg	3	advmod	_	wf="не"
+3	надобе	надобе	VERB	PRED	_	0	root	_	wf="надобе"
+4	мети	мети	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	wf="мети"|SpaceAfter=No
+5	,	,	PUNCT	-COMMA-	_	6	punct	_	_
+6	мают(ь)	мети	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	wf="мають"
+7	быти	быти	AUX	VB	VerbForm=Inf|Voice=Act	11	cop	_	wf="быти"
+8	два	два	NUM	CD	Case=Nom|Gender=Masc|NumForm=Word|NumType=Card	9	nummod	_	wf="два"
+9	подвоискии	подвойский	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	nsubj	_	wf="подвоискии"
+10	по	по	ADP	IN	_	11	case	_	wf="по"
+11	давномꙋ	давний	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	xcomp	_	wf="давномꙋ"|SpaceAfter=No
+12	.	.	PUNCT	-PERIOD-	_	3	punct	_	_
 
 ~~~
 

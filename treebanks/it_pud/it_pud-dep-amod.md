@@ -22,7 +22,7 @@ The following 13 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 amod	color:blue
-1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	La	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cifra	cifra	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	massima	massimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
 4	consentita	consentire	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	2	acl	_	_
@@ -42,7 +42,7 @@ The following 13 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 amod	color:blue
-1	L'	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	SpaceAfter=No
+1	L'	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	Universiade	Universiade	PROPN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
 3	invernale	invernale	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
 4	di	di	ADP	IN	_	6	case	_	_
@@ -70,14 +70,14 @@ The following 13 pairs of parts of speech are connected with `amod`: <tt><a href
 5	tutto	tutto	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 6	questo	questo	PRON	PRP	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	2	punct	_	_
-8	i	il	DET	DT	Gender=Masc|Number=Plur	9	det	_	_
+8	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	Remi	Remi	PROPN	NNP	Gender=Masc|Number=Plur	11	nsubj	_	_
 10	si	si	PRON	SE	Number=Plur|Person=3	11	expl	_	_
 11	stabilirono	stabilire	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 12	in	in	ADP	IN	_	13	case	_	_
 13	Svizzera	Svizzera	PROPN	NNP	Gender=Fem|Number=Sing	11	obl	_	_
 14	per	per	ADP	IN	_	17	case	_	_
-15	la	il	DET	DT	Gender=Fem|Number=Sing	17	det	_	_
+15	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 16	maggior	maggiore	ADJ	JJS	Degree=Sup|Gender=Fem|Number=Sing	17	amod	_	_
 17	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
 18	di	di	ADP	IN	_	20	case	_	_

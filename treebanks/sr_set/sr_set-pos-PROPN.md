@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Turska</em> (<tt><a href="sr_set-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.292982 (the average of all parts of speech is 1.845258).
+The form / lemma ratio of `PROPN` is 1.292982 (the average of all parts of speech is 1.845341).
 
 The 1st highest number of forms (5) was observed with the lemma “Albanac”: <em>Albanac, Albanaca, Albance, Albanci, Albancima</em>.
 

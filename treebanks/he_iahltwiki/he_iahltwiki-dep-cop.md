@@ -77,7 +77,7 @@ The following 18 pairs of parts of speech are connected with `cop`: <tt><a href=
 7	בעיות	בעיה	NOUN	NOUN	Gender=Fem|Number=Plur	6	obj	_	_
 8	קודמות	קודם	ADJ	ADJ	Gender=Fem|Number=Plur	7	amod	_	_
 9	ש	ש	SCONJ	SCONJ	_	13	mark	_	_
-10	עד	עד	ADV	ADV	_	13	advmod	_	_
+10	עד	עד	ADV	ADV	ExtPos=ADV	13	advmod	_	_
 11	כה	כה	ADV	ADV	_	10	fixed	_	_
 12	היו	היה	AUX	AUX	Gender=Fem|HebBinyan=PAAL|Number=Plur|Person=3|Polarity=Pos|Tense=Past	13	cop	_	_
 13	חסרות	חסר	ADJ	ADJ	Definite=Cons|Gender=Fem|Number=Plur	7	acl:relcl	_	_

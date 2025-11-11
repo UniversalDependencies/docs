@@ -24,9 +24,9 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 14	fgColor:white
 # visual-style 14 13 obl:agent	color:blue
 1	Mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
-2	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
+2	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,Sg3
 3	di	di	CCONJ	CC	_	4	cc	_	_
-4	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+4	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	što	što	SCONJ	CS	_	9	mark	_	_
 7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	9	nsubj:pass	_	GTtags=Sg,Acc
@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 1 obl:agent	color:blue
 1	Suʹst	son	PRON	Pron	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	obl:agent	_	GTtags=Pers,Sg3,Loc
-2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	GTtags=IV,Ind,Prt,Sg3
+2	leäi	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	GTtags=IV,Ind,Prt,Sg3
 3	õlggâm	õlggâd	AUX	Aux	Aspect=Perf|VerbForm=Part	4	aux	_	GTtags=Act,PrfPrc
 4	leeʹd	leeʹd	AUX	V	VerbForm=Inf	0	root	_	GTtags=IV,Inf
 5	tõn	tõt	DET	Det	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
@@ -59,10 +59,10 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	leša	leša	CCONJ	CC	_	13	mark	_	_
 11	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	GTtags=Rel,Sg,Nom
-12	leežž	leeʹd	AUX	Aux	Mood=Pot|Number=Sing|Person=3	13	aux	_	GTtags=IV,Pot,Sg3
+12	leežž	leeʹd	AUX	Aux	Mood=Pot|Number=Sing|Person=3|VerbForm=Fin	13	aux	_	GTtags=IV,Pot,Sg3
 13	šõddâm	šõddâd	VERB	V	Aspect=Perf|VerbForm=Part	4	advcl	_	GTtags=Act,PrfPrc
 14	ǥu	ǥu	SCONJ	CS	_	18	mark	_	_
-15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	aux	_	GTtags=Neg,Ind,Sg3
+15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	18	aux	_	GTtags=Neg,Ind,Sg3
 16	tâʹl	tâʹl	ADV	Adv	AdvType=Tim	18	advmod	_	GTtags=Sem/Time
 17	ni	ni	PART	Pcle	_	18	advmod:neg	_	_
 18	vuäittam	vueiʹtted	VERB	V	Aspect=Perf|VerbForm=Part	13	advcl	_	GTtags=Act,PrfPrc|SpaceAfter=No

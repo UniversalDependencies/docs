@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 6	Posadas	Posadas	PROPN	_	_	4	flat:name	_	_
 7	Ocampo	Ocampo	PROPN	_	_	4	flat:name	_	_
 8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	SpaceAfter=No
-9	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	10	expl:subj	_	_
+9	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 10	mort	mourir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	?	?	PUNCT	_	_	10	punct	_	_
 

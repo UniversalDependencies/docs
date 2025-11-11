@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Marat M. Yavrumyan.
 
 Repository: [UD_Western_Armenian-ArmTDP](https://github.com/UniversalDependencies/UD_Western_Armenian-ArmTDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhyw_armtdp216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhyw_armtdp217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: blog, fiction, news, nonfiction, reviews, social, spoken, web, wiki
 Questions, comments?
 General annotation questions (either Western Armenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Western_Armenian-ArmTDP/issues).
-If you want to collaborate, please contact [marat&nbsp;•&nbsp;yavrumyan&nbsp;(æt)&nbsp;plus&nbsp;•&nbsp;ac&nbsp;•&nbsp;at].
+If you want to collaborate, please contact [marat&nbsp;•&nbsp;yavrumyan&nbsp;(æt)&nbsp;ysu&nbsp;•&nbsp;am].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -87,7 +87,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 
 ## Features
 
-[Abbr](hyw_armtdp-feat-Abbr.html) – [AdpType](hyw_armtdp-feat-AdpType.html) – [Animacy](hyw_armtdp-feat-Animacy.html) – [Aspect](hyw_armtdp-feat-Aspect.html) – [Case](hyw_armtdp-feat-Case.html) – [ConjType](hyw_armtdp-feat-ConjType.html) – [Connegative](hyw_armtdp-feat-Connegative.html) – [Definite](hyw_armtdp-feat-Definite.html) – [Degree](hyw_armtdp-feat-Degree.html) – [Deixis](hyw_armtdp-feat-Deixis.html) – [Deixis[psor]](hyw_armtdp-feat-Deixis-psor.html) – [Echo](hyw_armtdp-feat-Echo.html) – [Foreign](hyw_armtdp-feat-Foreign.html) – [Hyph](hyw_armtdp-feat-Hyph.html) – [LangId](hyw_armtdp-feat-LangId.html) – [Mood](hyw_armtdp-feat-Mood.html) – [NameType](hyw_armtdp-feat-NameType.html) – [Number](hyw_armtdp-feat-Number.html) – [Number[psor]](hyw_armtdp-feat-Number-psor.html) – [NumForm](hyw_armtdp-feat-NumForm.html) – [NumType](hyw_armtdp-feat-NumType.html) – [Person](hyw_armtdp-feat-Person.html) – [Person[psor]](hyw_armtdp-feat-Person-psor.html) – [Polarity](hyw_armtdp-feat-Polarity.html) – [Polite](hyw_armtdp-feat-Polite.html) – [Poss](hyw_armtdp-feat-Poss.html) – [PronType](hyw_armtdp-feat-PronType.html) – [Reflex](hyw_armtdp-feat-Reflex.html) – [Style](hyw_armtdp-feat-Style.html) – [Subcat](hyw_armtdp-feat-Subcat.html) – [Tense](hyw_armtdp-feat-Tense.html) – [Typo](hyw_armtdp-feat-Typo.html) – [VerbForm](hyw_armtdp-feat-VerbForm.html) – [Voice](hyw_armtdp-feat-Voice.html)
+[Abbr](hyw_armtdp-feat-Abbr.html) – [AdpType](hyw_armtdp-feat-AdpType.html) – [Animacy](hyw_armtdp-feat-Animacy.html) – [Aspect](hyw_armtdp-feat-Aspect.html) – [Case](hyw_armtdp-feat-Case.html) – [ConjType](hyw_armtdp-feat-ConjType.html) – [Connegative](hyw_armtdp-feat-Connegative.html) – [Definite](hyw_armtdp-feat-Definite.html) – [Degree](hyw_armtdp-feat-Degree.html) – [Deixis](hyw_armtdp-feat-Deixis.html) – [Deixis[psor]](hyw_armtdp-feat-Deixis-psor.html) – [Echo](hyw_armtdp-feat-Echo.html) – [ExtPos](hyw_armtdp-feat-ExtPos.html) – [Foreign](hyw_armtdp-feat-Foreign.html) – [Hyph](hyw_armtdp-feat-Hyph.html) – [LangId](hyw_armtdp-feat-LangId.html) – [Mood](hyw_armtdp-feat-Mood.html) – [NameType](hyw_armtdp-feat-NameType.html) – [Number](hyw_armtdp-feat-Number.html) – [Number[psor]](hyw_armtdp-feat-Number-psor.html) – [NumForm](hyw_armtdp-feat-NumForm.html) – [NumType](hyw_armtdp-feat-NumType.html) – [Person](hyw_armtdp-feat-Person.html) – [Person[psor]](hyw_armtdp-feat-Person-psor.html) – [Polarity](hyw_armtdp-feat-Polarity.html) – [Polite](hyw_armtdp-feat-Polite.html) – [Poss](hyw_armtdp-feat-Poss.html) – [PronType](hyw_armtdp-feat-PronType.html) – [Reflex](hyw_armtdp-feat-Reflex.html) – [Style](hyw_armtdp-feat-Style.html) – [Subcat](hyw_armtdp-feat-Subcat.html) – [Tense](hyw_armtdp-feat-Tense.html) – [Typo](hyw_armtdp-feat-Typo.html) – [VerbForm](hyw_armtdp-feat-VerbForm.html) – [Voice](hyw_armtdp-feat-Voice.html)
 
 ## Relations
 
@@ -97,11 +97,11 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 
 
 <ul>
-<li>This corpus contains 6656 sentences, 121583 tokens and 122907 syntactic words.</li>
+<li>This corpus contains 6644 sentences, 121432 tokens and 122752 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 22329 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 22302 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -113,8 +113,8 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 </ul>
 
 <ul>
-<li>This corpus contains 1323 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 536 types of multi-word tokens. Examples: ի՞նչ, ո՛չ, ինչո՞ւ, ի՛նչ, ո՞վ, թէ՛, ա՛լ, ինչպէ՞ս, ո՞ւր, չէ՞, այո՛, ո՞ր, ի՜նչ, մի՛, ի՞նչպէս, ե՞րբ, չէ՛, ե՛ւ, կա՛մ, ո՛ր, ա՜հ, ծօ՛, հո՛ն, ո՛, չե՞ս, ինչպէ՛ս, իրա՞ւ, կարելի՞, ո՛վ, որքա՛ն, որքա՜ն, քանի՞, Օ՜հ, ահա՛, արդեօ՞ք, աւելի՛ն, դո՛ւն, ըլլա՞յ, ի՛ր, կրնա՞մ, ո՛ւր, չէ՞ր, Ի՞նչը, Իրա՛ւ, ա՛յդ, ա՛յս, այնքա՜ն, բա՞ն, դո՞ւն, եկո՛ւր.</li>
+<li>This corpus contains 1319 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 536 types of multi-word tokens. Examples: ի՞նչ, ո՛չ, ինչո՞ւ, ի՛նչ, ո՞վ, թէ՛, ա՛լ, ինչպէ՞ս, ո՞ւր, չէ՞, այո՛, ո՞ր, ի՜նչ, մի՛, ե՞րբ, ի՞նչպէս, չէ՛, ե՛ւ, ա՜հ, ծօ՛, հո՛ն, ո՛, ո՛ր, չե՞ս, ինչպէ՛ս, իրա՞ւ, կարելի՞, ո՛վ, որքա՛ն, որքա՜ն, քանի՞, Օ՜հ, ահա՛, արդեօ՞ք, աւելի՛ն, դո՛ւն, ըլլա՞յ, ի՛ր, կա՛մ, կրնա՞մ, ո՛ւր, չէ՞ր, Ի՞նչը, Իրա՛ւ, ա՛յդ, ա՛յս, այնքա՜ն, բա՞ն, դո՞ւն, եկո՛ւր.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -126,19 +126,19 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 </ul>
 
 <ul>
-<li>This corpus contains 46 word types tagged as particles (PART): Առաւել, Ինչպէս, Յամենայնդէպս, Շիտակը, Ցաւոք, Ցաւօք, Փաստօրէն, ահա, ահաւասիկ, այդուհանդերձ, այսուհանդերձ, անշուշտ, անպայման, անպատճառ, անտարակոյս, արդեոք, արդեօք, արդէօք, աւելին, գէթ, գոնէ, գուցէ, էլ, ընդհակառակը, թերեւս, թէ, թէկուզ, թող, իրաւ, իրօք, կարծեմ, հարկաւ, հը, մանաւանդ, մի, միթէ, մինչեւ, նէ, ոչ, որ, ուրեմն, չէ, չը, չի, սակայն, տէ</li>
+<li>This corpus contains 51 word types tagged as particles (PART): Առաւել, Դժբախտաբար, Երեւի, Իցիւ, Յամենայնդէպս, Շիտակը, Ցաւոք, Ցաւօք, Փաստօրէն, ալ, ահա, ահաւասիկ, այդուհանդերձ, այսուհանդերձ, անշուշտ, անպայման, անպատճառ, անտարակոյս, արդեոք, արդեօք, արդէօք, աւելին, գէթ, գոնէ, գուցէ, էլ, ընդհակառակը, թերեւս, թէ, թէկուզ, թող, իբր, ինչպէս, իրաւ, իրօք, հարկաւ, հը, մանաւանդ, մի, միթէ, մինչեւ, նէ, նոյնիսկ, ոչ, որ, ուրեմն, չէ, չը, չի, սակայն, տէ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 81 lemmas tagged as pronouns (PRON): ամբողջը, ամենայն, ամէն, ամէնը, ամէնքը, այդ, այդպէս, այդտեղ, այդքան, այլ, այլն, այն, այնմ, այնպէս, այնտեղ, այնքան, այս, այսպէս, այսպիսի, այստեղ, այսքան, ան, անի, անիկա, անոնք, աս, ասի, ասիկա, ասինչ, ասոնցը, աստի, ատ, ատի, ատիկա, բոլորը, դու, դուն, դուք, ես, երբ, եւլն, էդ, էն, ինչ, ինչու, ինչպիսի, ինք, ինքզինք, ինքնիր, ինքնիրեն, իրար, իրենը, իրենցը|իրենցինը, իրենք, իւրաքանչիւրը, հոն, մենք, մերը|մերինը, մէկ, մէկզմէկ, միեւնոյն, մին, միւս, նա, նոյնը, նոյնինք, ոմանք, ոչինչ, ով, որ, որեւէ, որն, որպիսի, որտեղացի, որքան, ուրիշ, ուրտեղ, ոք, սա, քանի, քուկդ|քուկինդ</li>
+<li>This corpus contains 82 lemmas tagged as pronouns (PRON): ամբողջը, ամենայն, ամէն, ամէնը, ամէնքը, այդ, այդպէս, այդտեղ, այդքան, այլ, այլն, այն, այնմ, այնպէս, այնտեղ, այնքան, այս, այսպէս, այսպիսի, այստեղ, այսքան, ան, անի, անիկա, անոնք, աս, ասի, ասիկա, ասինչ, ասոնցը, աստի, ատ, ատի, ատիկա, բոլորը, դու, դուն, դուք, ես, երբ, եւլն, էդ, էն, ինչ, ինչու, ինչպիսի, ինք, ինքզինք, ինքնիր, ինքնիրեն, իրանք, իրար, իրենը, իրենցը|իրենցինը, իրենք, իւրաքանչիւրը, հոն, մենք, մերը|մերինը, մէկ, մէկզմէկ, միեւնոյն, մին, միւսը, նա, նոյնը, նոյնինք, ոմանք, ոչինչ, ով, որ, որեւէ, որն, որպիսի, որտեղացի, որքան, ուրիշ, ուրտեղ, ոք, սա, քանի, քուկդ|քուկինդ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 60 lemmas tagged as determiners (DET): Ն., ամբողջ, ամենայն, ամէն, այդ, այդպիսի, այդքան, այլ, այն, այնպիսի, այնքան, այս, այսչափ, այսպիսի, այսքան, ան, անանկ, անոնք, աս, ասանկ, ատ, ատանկ, բոլոր, բովանդակ, դու, դուն, դուք, ես, էն, էս, ինչ, ինչպիսի, ինչքան, ինք, իրենք, իւրաքանչիւր, լման, համայն, մենք, մէկ, մը, մի, միեւնոյն, միւս, մնացած, նա, նոյն, նորին, ո, ոեւէ, ողջ, որ, որեւէ, որոշ, որչափ, որքան, ուրիշ, սա, սոյն, քանի</li>
+<li>This corpus contains 63 lemmas tagged as determiners (DET): Դուք, Ն., ամբողջ, ամենայն, ամէն, այդ, այդպիսի, այդքան, այլ, այն, այնպիսի, այնքան, այս, այսչափ, այսպիսի, այսքան, ան, անանկ, անոնց, անոր, աս, ասանկ, ատ, ատանկ, բոլոր, բովանդակ, էն, էս, իմ, ինչ, ինչպիսի, ինչքան, իր, իրենց, իւրաքանչիւր, լման, համայն, ձեր, մենք, մեր, մէկ, մը, մի, միեւնոյն, միւս, մնացած, նա, նոյն, նրա, ո, ոեւէ, ողջ, որ, որեւէ, որոշ, որչափ, որքան, ուրիշ, սա, սոյն, քանի, քո, քու</li>
 </ul>
 
 <ul>
-<li>Out of the above, 34 lemmas occurred sometimes as PRON and sometimes as DET: ամենայն, ամէն, այդ, այդքան, այլ, այն, այնքան, այս, այսպիսի, այսքան, ան, անոնք, աս, ատ, դու, դուն, դուք, ես, էն, ինչ, ինչպիսի, ինք, իրենք, մենք, մէկ, միեւնոյն, միւս, նա, որ, որեւէ, որքան, ուրիշ, սա, քանի</li>
+<li>Out of the above, 26 lemmas occurred sometimes as PRON and sometimes as DET: ամենայն, ամէն, այդ, այդքան, այլ, այն, այնքան, այս, այսպիսի, այսքան, ան, աս, ատ, էն, ինչ, ինչպիսի, մենք, մէկ, միեւնոյն, նա, որ, որեւէ, որքան, ուրիշ, սա, քանի</li>
 </ul>
 
 <ul>
@@ -150,22 +150,14 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
-</ul>
-
-<ul>
-  <li>Conv
-  <ul>
-    <li>VERB: պաշտպանուեցաւ</li>
-  </ul>
-  </li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
     <li>AUX: է, էր, են, էին, չէ, եմ, չէր, չեմ, չեն, չի</li>
-    <li>VERB: կայ, ըսէ, ըսաւ, կրնայ, ունի, ըլլայ, ըսեմ, կրնան, կարծես, կան</li>
+    <li>VERB: կայ, ըսէ, կրնայ, ըսաւ, ունի, ըլլայ, ըսեմ, կրնան, կարծես, կան</li>
   </ul>
   </li>
 </ul>
@@ -200,7 +192,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
   <li>Hum
     <ul>
       <li>NOUN: հայ, մարդ, պատրիարք, մարդիկ, հայրս, մայրս, մարդոց, հայոց, Տ, հայրը</li>
-      <li>PRON: ես, մենք, մեզի, ինծի, ով, մեզ, զիս, դուն, դուք, քեզի</li>
+      <li>PRON: ով, ոք, ձեզ, դուք, ձեզի, ովքեր, ձեզմէ, ձեր, ոքի</li>
       <li>PROPN: Յակոբ, Սահակ, Խրիսթինա, Նուրհան, Տիգրանեան, Արամ, Գրիգոր, Կիւլպէնկեան, Գալուստ, Գարեգին</li>
     </ul>
   </li>
@@ -254,12 +246,11 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
   <li>Sing
     <ul>
       <li>AUX-Fin: է, էր, չէ, եմ, չէր, չեմ, չի, էի, ըլլայ, ես</li>
-      <li>DET: իր, անոր, իմ, քու, ձեր, նրա, քո</li>
+      <li>DET: իր, անոր, իմ, նորին, քու, ձեր, Յամենայն, նրա, քո</li>
       <li>NOUN: բան, ի, ին, օր, տարի, հայ, անգամ, ը, ատեն, տեղի</li>
-      <li>PRON: որ, ան, ինչ, որուն, անոր, ես, իրեն, իր, զայն, ինծի</li>
+      <li>PRON: որ, ինչ, ան, որուն, անոր, ես, իրեն, իր, զայն, ինծի</li>
       <li>PROPN: Հայաստանի, Թուրքիոյ, Արցախի, Հայաստան, Պոլսոյ, Յակոբ, Լիբանանի, Թուրքիան, Պոլիս, Սահակ</li>
-      <li>VERB-Conv: պաշտպանուեցաւ</li>
-      <li>VERB-Fin: կայ, ըսէ, ըսաւ, կրնայ, ունի, ըլլայ, ըսեմ, կարծես, կար, գայ</li>
+      <li>VERB-Fin: կայ, ըսէ, կրնայ, ըսաւ, ունի, ըլլայ, ըսեմ, կարծես, կար, գայ</li>
       <li>VERB-Inf: վերադառնալէս</li>
     </ul>
   </li>
@@ -272,7 +263,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Abl
     <ul>
-      <li>ADP: մէջէն, ընդմէջէն, վրայէն, ետեւէն, քովէն, առջեւէն, տակէն, ետեւէ, առաջքէն, ետեւից</li>
+      <li>ADP: մէջէն, ընդմէջէն, վրայէն, քովէն, ետեւէն, առջեւէն, տակէն, ետեւէ, առաջքէն, ետեւից</li>
       <li>NOUN: էն, կողմէ, տունէն, օրէն, արեւմտահայերէնով, պատերազմէն, տարիներէ, տեսակէտէ, կողմէն, հեռուէն</li>
       <li>PRON: ամէնէն, անկէ, ամենէն, ատկէ, իրմէ, անոնցմէ, ասկէ, որոնցմէ, իրարմէ, ինձմէ</li>
       <li>PROPN: Պոլսէն, Պոլիսէն, Երեւանէն, Եւրոպայէն, Իսթանպուլէն, Լիբանանէն, Հայաստանէն, Հրանտէն, Պօլիսէն, Փարիզէն</li>
@@ -285,7 +276,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
   <li>Acc
     <ul>
       <li>NOUN: դէպս, հեճուկս, Գաւառս, դէմս, զարմանս, թիւս, շարս</li>
-      <li>PRON: զայն, մեզ, զիս, զինքը, զոր, զինք, զանոնք, իրար, ձեզ, քեզ</li>
+      <li>PRON: զայն, մեզ, զինքը, զիս, զոր, զինք, զանոնք, իրար, ձեզ, քեզ</li>
     </ul>
   </li>
 </ul>
@@ -307,9 +298,9 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Gen
     <ul>
-      <li>DET: իր, մեր, իրենց, անոր, անոնց, իմ, ձեր, քու, մերին, նրա</li>
+      <li>DET: նորին, ձեր, մերին</li>
       <li>NOUN: եկեղեցւոյ, հայոց, վերջոյ, Աստուծոյ, գործոց, հիման, Նահատակաց, գրասենեակներու, Աթոռոյ, մահու</li>
-      <li>PRON: իր, անոնց, մեր, իմ, այլոց, անոր, քու, ձեր, ինքնիր</li>
+      <li>PRON: իր, անոնց, մեր, իմ, այլոց, անոր, քու, ձեր, ինքնիր, միւսներու</li>
       <li>PROPN: Վանայ, Գանատա, Մարատ, Քոբմա</li>
     </ul>
   </li>
@@ -324,7 +315,6 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       <li>PRON: որով, որոնցմով, բոլորով, ինչով, այդպէսով, այդպիսով, այնքանով, այսքանով, անով, ասով</li>
       <li>PROPN: Գուրթով, ԵուԹիւպով, Իսթանպուլով, Հայաստանով</li>
       <li>VERB: ըլլալով, առնելով, ըսելով, տեսնելով, տալով, ունենալով, պահելով, ջանալով, գալով, սպասելով</li>
-      <li>VERB-Fin: շարելով</li>
       <li>VERB-Inf: ըլլալով, առնելով, ըսելով, տեսնելով, տալով, ունենալով, պահելով, ջանալով, գալով, սպասելով</li>
     </ul>
   </li>
@@ -333,8 +323,9 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Loc
     <ul>
+      <li>DET: Յամենայն</li>
       <li>NOUN: դաշտումը, թուումն, կեանքում, քորիդորում</li>
-      <li>PRON: Յամենայն, ինչումն, որում</li>
+      <li>PRON: ինչումն, որում</li>
     </ul>
   </li>
 </ul>
@@ -359,9 +350,9 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Def
     <ul>
-      <li>ADP: մէջէն, ընդմէջէն, վրայէն, ետեւէն, քովէն, առջեւէն, տակէն, առաջքէն</li>
+      <li>ADP: մէջէն, ընդմէջէն, վրայէն, ետեւէն, առջեւէն, տակէն, առաջքէն</li>
       <li>NOUN: ին, ը, կեանքը, հայրը, օրը, երկրին, օրերուն, անունը, կինը, տունը</li>
-      <li>PRON: որուն, մէկը, մէկն, միւսը, մէկուն, ինչը, միւսին, ուրիշներուն, միւսները, որը</li>
+      <li>PRON: որուն, մէկը, մէկն, մէկուն, ինչը, ուրիշներուն, որը, որն, քանին, այսքանը</li>
       <li>PROPN: Թուրքիան, Միքքին, Խրիսթինային, Խրիսթինան, Պետրոսին, Ուիքիփետիան, Պոլսէն, Յարութը, Մանուկին, Նոպէլ</li>
       <li>VERB-Inf: ըլլալը, ըլլալուն, գրելը, ստանալը, դառնալէն, դառնալը, երթալէն, հասնիլը, այցելելը, գալուն</li>
     </ul>
@@ -377,7 +368,6 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       <li>PRON: որ, ինչ, որու, զոր, ոչինչ, որով, ուրիշներ, ուրիշ, զորս, ուրիշներու</li>
       <li>PROPN: Հայաստանի, Թուրքիոյ, Արցախի, Հայաստան, Պոլսոյ, Յակոբ, Լիբանանի, Պոլիս, Սահակ, Խրիսթինա</li>
       <li>VERB: ըլլալու, ըլլալով, ընելու, տալու, առնելու, առնելով, ըսելով, տեսնելու, ստեղծելու, տեսնելով</li>
-      <li>VERB-Fin: շարելով</li>
       <li>VERB-Inf: ըլլալու, ըլլալով, ընելու, տալու, առնելու, առնելով, ըսելով, տեսնելու, ստեղծելու, տեսնելով</li>
       <li>VERB-Part: քալեցնելու</li>
     </ul>
@@ -410,8 +400,8 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: մեծ, նոր, վերջին, տարբեր, կարեւոր, շատ, առաջին, երկար, աղուոր, պարզ</li>
-      <li>ADV: ուշ, արագ, լուրջ, արդիւնաւէտ, լայն, յստակ</li>
+      <li>ADJ: մեծ, նոր, վերջին, տարբեր, կարեւոր, առաջին, շատ, երկար, աղուոր, պարզ</li>
+      <li>ADV: ուշ, արագ, մեծ, լուրջ, դժուար, արդիւնաւէտ, լայն, յստակ</li>
     </ul>
   </li>
 </ul>
@@ -449,9 +439,8 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       <li>AUX-Fin: է, էր, են, էին, եմ, ենք, էի, ըլլայ, ես, էք</li>
       <li>AUX-Inf: ըլլալով, ըլլալ, տալ, ըլլալու, ըլլալնուս, տալով, տալու</li>
       <li>AUX-Part: եղած, տուած</li>
-      <li>VERB: կայ, ըսէ, ըսաւ, կրնայ, ունի, եղած, ըլլայ, ունեցած, ըսեմ, ըլլալ</li>
-      <li>VERB-Conv: պաշտպանուեցաւ</li>
-      <li>VERB-Fin: կայ, ըսէ, ըսաւ, կրնայ, ունի, ըլլայ, ըսեմ, կրնան, կարծես, կան</li>
+      <li>VERB: կայ, ըսէ, կրնայ, ըսաւ, ունի, եղած, ըլլայ, ունեցած, ըսեմ, ըլլալ</li>
+      <li>VERB-Fin: կայ, ըսէ, կրնայ, ըսաւ, ունի, ըլլայ, ըսեմ, կրնան, կարծես, կան</li>
       <li>VERB-Inf: ըլլալ, ըսել, ըլլալու, տալ, ընել, ունենալ, ըլլալով, ընելու, տալու, առնելու</li>
       <li>VERB-Part: եղած, ունեցած, սկսած, եկած, դարձած, ըրած, հասած, առած, կատարուած, ստեղծուած</li>
     </ul>
@@ -525,7 +514,6 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
     <ul>
       <li>AUX-Fin: եղաւ, տուաւ, չեղաւ, տուի, եղայ, եղան, տուիր</li>
       <li>AUX-Part: եղած, եղեր, տուեր, տուած</li>
-      <li>VERB-Conv: պաշտպանուեցաւ</li>
       <li>VERB-Fin: ըսաւ, եղաւ, ունեցաւ, եկաւ, սկսաւ, յայտնեց, ըսի, ելաւ, ըրաւ, պատասխանեց</li>
       <li>VERB-Part: եղած, ունեցած, սկսած, եկած, դարձած, ըրած, հասած, առած, կատարուած, ստեղծուած</li>
     </ul>
@@ -568,7 +556,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: եկուր, եկէք, ըսէ, առէք, գացէք, ըրէ, տես, առ, կեցիր, հաւատացէք</li>
+      <li>VERB-Fin: եկուր, եկէք, ըսէ, առէք, գացէք, տես, առ, ըրէ, կեցիր, հաւատացէք</li>
     </ul>
   </li>
 </ul>
@@ -578,8 +566,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
     <ul>
       <li>AUX: կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</li>
       <li>AUX-Fin: է, էր, են, էին, չէ, եմ, չէր, չեմ, չեն, չի</li>
-      <li>VERB-Conv: պաշտպանուեցաւ</li>
-      <li>VERB-Fin: կայ, ըսաւ, կրնայ, ունի, կրնան, կան, կար, ունէր, ունին, եղաւ</li>
+      <li>VERB-Fin: կայ, կրնայ, ըսաւ, ունի, կրնան, կան, կար, ունէր, ունին, եղաւ</li>
     </ul>
   </li>
 </ul>
@@ -618,7 +605,6 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
   <li>Past
     <ul>
       <li>AUX-Fin: եղաւ, տուաւ, չեղաւ, տուի, եղայ, եղան, տուիր</li>
-      <li>VERB-Conv: պաշտպանուեցաւ</li>
       <li>VERB-Fin: ըսաւ, եղաւ, ունեցաւ, եկաւ, սկսաւ, յայտնեց, ըսի, ելաւ, ըրաւ, պատասխանեց</li>
     </ul>
   </li>
@@ -675,7 +661,6 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Conv: պաշտպանուեցաւ</li>
       <li>VERB-Fin: ըսուի, խօսուի, առնուին, չափուի, գնահատուի, կազմուի, կատարուեցաւ, հիմնուեցաւ, յայտարարուի, ներկայացուին</li>
       <li>VERB-Inf: խմբագրուիլ, ենթարկուիլ, ընտրուիլը, շնորհուիլ, վերընտրուելու, ածուիլ, անարգուիլ, արդուկուելու, արձակուելէ, աքսորուելէ</li>
       <li>VERB-Part: կատարուած, ստեղծուած, պատրաստուած, գրուած, նախատեսուած, տրուած, դրուած, ուղղուած, արգիլուած, ենթարկուած</li>
@@ -712,8 +697,8 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: հոս, հոն, այսպէս, այնքան, այստեղ, այդպէս, այնպէս, այսքան, նոյնքան, այդքան</li>
-      <li>DET: այս, այդ, այն, նոյն, միւս, միեւնոյն, սա, նորին, այնպիսի, աս</li>
+      <li>ADV: հոս, հոն, այսպէս, այնքան, նոյնպէս, այստեղ, այդպէս, այնպէս, այսքան, նոյնքան</li>
+      <li>DET: այս, այդ, այն, միւս, նոյն, միեւնոյն, սա, նորին, այնպիսի, աս</li>
       <li>PRON: այն, զայն, այդ, անիկա, անոր, այս, ասիկա, անկէ, սա, միւսը</li>
     </ul>
   </li>
@@ -732,8 +717,8 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
   <li>Exc
     <ul>
       <li>ADV: ինչ, որքան, ինչպիսի</li>
-      <li>DET: ինչ, քանի, ինչպիսի, ինչքան, որ, որքան</li>
-      <li>PRON: ինչեր, ով</li>
+      <li>DET: ինչ, ինչպիսի, քանի, ինչքան, որ, որքան</li>
+      <li>PRON: ինչեր, Ինչ, ով</li>
     </ul>
   </li>
 </ul>
@@ -742,7 +727,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
   <li>Ind
     <ul>
       <li>ADV: որչափ</li>
-      <li>DET: քանի, մէկ, ուրիշ, այլ, որոշ, որեւէ, ո, ոեւէ, ինչ</li>
+      <li>DET: մէկ, ուրիշ, այլ, որոշ, որեւէ, ոեւէ, ինչ, ո</li>
       <li>PRON: մէկը, այլն, ինչ, մէկն, մէկուն, ոմանք, ոք, մին, ուրիշներ, ուրիշ</li>
     </ul>
   </li>
@@ -751,9 +736,9 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Int
     <ul>
-      <li>ADV: ինչպէս, ինչու, ուր, երբ, ինչ, որքան, ուրկէ, որչափ, ինտոր, ոնց</li>
-      <li>DET: ինչ, որ, քանի, որքան, Որչափ, ինչպիսի</li>
-      <li>PRON: ինչ, ով, երբ, ինչու, Ինչը, ինչով, ովքեր, որոնք, որուն, Որտեղացի</li>
+      <li>ADV: ինչու, ինչպէս, ուր, երբ, ինչ, որքան, ուրկէ, ինտոր, ոնց, որչափ</li>
+      <li>DET: քանի, ինչ, որ, որքան, Որչափ, ինչպիսի</li>
+      <li>PRON: ինչ, ով, երբ, ինչու, քանին, Ինչը, ինչով, ովքեր, որոնք, որուն</li>
     </ul>
   </li>
 </ul>
@@ -796,7 +781,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Tot
     <ul>
-      <li>DET: ամէն, բոլոր, ամբողջ, իւրաքանչիւր, ամեն, լման, ամենայն, բովանդակ, համայն, ողջ</li>
+      <li>DET: բոլոր, ամէն, ամբողջ, իւրաքանչիւր, ամեն, լման, ամենայն, բովանդակ, համայն, Յամենայն</li>
       <li>PRON: ամէնէն, բոլորը, բոլորին, ամենէն, բոլորն, ամբողջին, ամբողջը, ամէնուն, ամէնը, ամէնքն</li>
     </ul>
   </li>
@@ -893,7 +878,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       <li>AUX-Fin: ես, էք, չես, չէք, էիր, չէիր, էիք, ըլլաս, ըլլաք, չէիք</li>
       <li>DET: ձեր, քու, քո</li>
       <li>PRON: դուն, դուք, քեզի, քեզ, ձեզ, ձեզի, քու, դու, ձեր, ձեզմէ</li>
-      <li>VERB-Fin: կարծես, գիտէք, եկուր, ըսես, գիտես, ունիս, եկէք, ուզես, ուզէք, կրնաս</li>
+      <li>VERB-Fin: կարծես, գիտէք, եկուր, ըսես, գիտես, ունիս, եկէք, ուզէք, կրնաս, ուզես</li>
     </ul>
   </li>
 </ul>
@@ -904,8 +889,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       <li>AUX-Fin: է, էր, են, էին, չէ, չէր, չեն, չի, ըլլայ, չէին</li>
       <li>DET: իր, իրենց, անոր, անոնց, նրա</li>
       <li>PRON: ան, անոնք, իրեն, իր, անոր, իրենց, անոնց, ինք, զինք, իրենք</li>
-      <li>VERB-Conv: պաշտպանուեցաւ</li>
-      <li>VERB-Fin: կայ, ըսէ, ըսաւ, կրնայ, ունի, ըլլայ, կրնան, կան, կար, գայ</li>
+      <li>VERB-Fin: կայ, ըսէ, կրնայ, ըսաւ, ունի, ըլլայ, կրնան, կան, կար, գայ</li>
     </ul>
   </li>
 </ul>
@@ -946,7 +930,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
 <ul>
   <li>Sing
     <ul>
-      <li>ADP: քովս, հետս, մէջս, վրաս, հետդ, մասիդ, առջեւդ, դէմս, մէջդ, մօտս</li>
+      <li>ADP: քովէն, քովս, հետս, մէջս, վրաս, հետդ, մասիդ, առջեւդ, դէմս, մէջդ</li>
       <li>NOUN: հայրս, մայրս, հօրս, մօրս, պապս, սիրտս, գլուխս, մամաս, մօրաքոյրս, նայուածքս</li>
       <li>PROPN: Ճէյրանս, Մարիամս, աներմայրս</li>
       <li>VERB-Fin: ձեռնարկէ</li>
@@ -988,12 +972,12 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       </li>
       <li>Post
         <ul>
-          <li>ADP: մէջ, համար, վրայ, հետ, մասին, ետք, տակ, կողմէ, ընթացքին, դէմ</li>
+          <li>ADP: մէջ, համար, վրայ, հետ, մասին, ետք, տակ, կողմէ, ընթացքին, պէս</li>
         </ul>
       </li>
       <li>Prep
         <ul>
-          <li>ADP: ի, դէպի, մինչեւ, իբրեւ, առանց, որպէս, ըստ, քան, առ, ինչպէս</li>
+          <li>ADP: մինչեւ, դէպի, ի, իբրեւ, առանց, որպէս, ըստ, քան, առ, բացի</li>
         </ul>
       </li>
     </ul>
@@ -1005,7 +989,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
     <ul>
       <li>Comp
         <ul>
-          <li>CCONJ: այլ, ինչպէս, այլեւ, այդպէս</li>
+          <li>CCONJ: այլ, այլեւ, եւ</li>
         </ul>
       </li>
     </ul>
@@ -1018,6 +1002,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       <li>Yes
         <ul>
           <li>AUX-Part: տար</li>
+          <li>VERB-Fin: նմանիր</li>
           <li>VERB-Part: գիտեր, կրնար, ուզեր, յիշեր, ըներ, հասկնար, ճանչնար, ունենար, բաւեր, ըլլար</li>
         </ul>
       </li>
@@ -1039,13 +1024,14 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
         <ul>
           <li>ADV: հոս, այսպէս, այստեղ, այսքան, այսչափ, ասանկ, սանկ, հոսկէ, ասդին</li>
           <li>DET: այս, սա, աս, այսպիսի, այսքան, սոյն, Ասանկ, էս, այսչափ</li>
+          <li>NOUN: ներկայիս</li>
           <li>PRON: այս, ասիկա, սա, ասոր, ասոնք, ասկէ, ասոնց, աս, այսպէս, ասի</li>
         </ul>
       </li>
       <li>Remt
         <ul>
           <li>ADV: հոն, այնքան, այնպէս, նոյնքան, անդին, այնտեղ, հոնկէ, անանկ, այնչափ, հունա</li>
-          <li>DET: այն, նորին, այնպիսի, ան, այնքան, էն, Ն, անանկ, նա</li>
+          <li>DET: այն, նոյն, նորին, այնպիսի, ան, այնքան, էն, Ն, անանկ, նա</li>
           <li>PRON: այն, զայն, անիկա, անոր, անկէ, ան, անոնց, զանոնք, հոն, այստեղէն</li>
         </ul>
       </li>
@@ -1058,7 +1044,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
     <ul>
       <li>Prox
         <ul>
-          <li>NOUN: վերջերս, ներկայիս, թերթիս, օրս, մարդուս, աշխարհիս, քաղաքիս, Աթոռոյս, աշխարհքս, երկրիս</li>
+          <li>NOUN: վերջերս, թերթիս, օրս, մարդուս, աշխարհիս, ներկայիս, քաղաքիս, Աթոռոյս, աշխարհքս, երկրիս</li>
         </ul>
       </li>
     </ul>
@@ -1074,6 +1060,92 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
           <li>ADV: շիփ, ցփեղ</li>
           <li>NOUN: կապուստ, կապուստը, կապուստի, կապուստով, ձուն, պիլի, փուտով</li>
           <li>NUM: մէյ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADJ: շատ, խել, քչիկ</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: ի, քան, դէմ, դէպ</li>
+          <li>ADV: նախ</li>
+          <li>NOUN: հիման, զրկումը</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: մեծաւ</li>
+          <li>ADP: ի, առ, մինչեւ, դէմ, յետ</li>
+          <li>ADV: քիչ, ինչպէս, իբր, աւելի, երբ, քիչիկ, այնքան, որքան, հազիւ, բացէ</li>
+          <li>CCONJ: եւ, այլ</li>
+          <li>DET: նոյն, Ինչ</li>
+          <li>NOUN: ներկայիս, օրն</li>
+          <li>PART: ոչ, մի</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: ինչպէս, այդպէս, այնպէս</li>
+          <li>CCONJ: ոչ, բայց, կամ, այլ, եւ, թէ</li>
+          <li>PART: ոչ, չէ</li>
+          <li>SCONJ: եթէ</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: ամէն, քանի, մի, ո, մէկ, ինչ, այս, որ</li>
+          <li>PART: ոչ</li>
+          <li>PRON: ինքն</li>
+          <li>X: լէ</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: ափսոս, է, հը</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>ADP: ի, Ընդ</li>
+          <li>ADV: նախ, ոնց, աւելի, դժուար</li>
+          <li>DET: Յամենայն</li>
+          <li>NOUN: վերջ</li>
+          <li>PART: չէ, անշուշտ, իբր, Ինչպէս, Իցիւ, Ցաւօք, հարկաւ, Իրաւ, Մի, անպայման</li>
+          <li>PRON: ինչ</li>
+          <li>SCONJ: իբրեւ</li>
+          <li>VERB-Fin: կարծես, կարծեմ</li>
+          <li>VERB-Inf: ըսել</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>DET: ամէն, մի</li>
+          <li>PART: ոչ</li>
+          <li>PRON: ինչ, ինքն, իրենք, մէկ</li>
+        </ul>
+      </li>
+      <li>PROPN
+        <ul>
+          <li>X: Camilla</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADJ: Այսու</li>
+          <li>ADP: մինչեւ, վասն, հակառակ, որպէս, Չնայած</li>
+          <li>ADV: ինչպէս, այնպէս, Միայն</li>
+          <li>PART: չէ, Մանաւանդ, իբր</li>
+          <li>SCONJ: քանի, թէ, ապա, քան</li>
+          <li>VERB-Part: չնայած</li>
         </ul>
       </li>
     </ul>
@@ -1120,8 +1192,8 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
           <li>AUX: պիտի</li>
           <li>DET: նրա, քո</li>
           <li>NOUN: Ախպէր, ժամին, փլաւը, Թօփուզեանների, Ժիւսթիսից, Փլաւին, Քիրպիներին, աղջկերքը, արխիվ, արվեստ</li>
-          <li>PART: էլ</li>
-          <li>PRON: դու, նա, քեզ, ինչումն, մեզ, Էդ, իրանցից</li>
+          <li>PART: էլ, Երեւի</li>
+          <li>PRON: դու, ձեզ, նա, քեզ, ինչումն, մեզ, Էդ, իրանցից</li>
           <li>PROPN: Զուիցերիայից, Վիքիպեդիա</li>
           <li>VERB-Fin: ասա, Եկ, ասացիր, լինես, խանգարի, նայեմ, ունէք, պղաւեց, վառիր</li>
           <li>VERB-Inf: լինել, ներառել, ամաջելու, անելու, ասել, սովորել, տանել, տանելու</li>
@@ -1238,9 +1310,9 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       </li>
       <li>3
         <ul>
-          <li>ADP: ետքը, վրան, հետը, քովը, մէջն, ետեւը, վերջը, տակը, առջեւը, դիմացը</li>
+          <li>ADP: ետքը, վրան, հետը, քովէն, քովը, մէջն, դիմացը, ետեւը, տակը, առջեւը</li>
           <li>NOUN: գլուխնին, երեսնին, Աչքերնին, Տուներնին, առաջքնին, դիմացնին, թեւերնին, ծամերնին, հագուստնին, ձայներնին</li>
-          <li>PRON: զինքը, ինքն, ինքը, ինքզինքը, նոյնինքն</li>
+          <li>PRON: զինքը, ինքն, ինքը, ինքզինքը, ինքնիրեն, նոյնինքն, ինքնիրենը</li>
           <li>VERB-Inf: Ժողվըւելնուն, զարգանալով, ըլլալնուն, չգիտնալնուն, պահւելնուն</li>
         </ul>
       </li>
@@ -1253,12 +1325,13 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
     <ul>
       <li>Arch
         <ul>
-          <li>ADJ: հասարակաց, Հայաստանեայց, Սրբոց, Այսու, Մեծի, բնորոշեալ, նուազն, պատուոյ, սփիւռս</li>
-          <li>ADP: վասն, ընդ, հաշուոյն, յաչս, յաւարտ</li>
-          <li>ADV: յառաջ, կամայ, ցայսօր, ցարդ, Յուրախութիւն, ամենայնիւ, մեծաւ, յաւիտեանս, յընթացս, սերտիւ</li>
-          <li>DET: նորին, Ն</li>
+          <li>ADJ: հասարակաց, Հայաստանեայց, Սրբոց, Մեծի, բնորոշեալ, դերեւ, նուազն, պատուոյ, սփիւռս, Այսու</li>
+          <li>ADP: վասն, ընդ, հաշուոյն, յաչս, յաւարտ, յետ</li>
+          <li>ADV: յառաջ, կամայ, ցայսօր, ցարդ, բացէ, Յուրախութիւն, ամենայնիւ, յաւիտեանս, յընթացս, սերտիւ</li>
+          <li>DET: նորին, Ն, Յամենայն</li>
+          <li>INTJ: Քաւ</li>
           <li>NOUN: եկեղեցւոյ, տեղի, հայոց, վերջոյ, Աստուծոյ, նպաստ, գործոց, հարկէ, հիման, Նահատակաց</li>
-          <li>PRON: այլոց, Յամենայն, ամենայնի, այնմ, զձեզ, զմեզ, իս, որում, որս, որք</li>
+          <li>PRON: այլոց, ամենայնի, այնմ, զձեզ, զմեզ, իս, որում, որս, որք</li>
           <li>PROPN: Վանայ, եօթանասնից, Եսայեայ</li>
           <li>VERB-Fin: է, իցէ, լիցի, չիք, Հաւատամք, իմա, մատոյց</li>
         </ul>
@@ -1266,7 +1339,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       <li>Coll
         <ul>
           <li>ADJ: սաթիւռէ, մենծ, Թաշչը, ետքի, զալիմ, լամիս, կամարիլային, հարտ, հիսթերիք, սիյահի</li>
-          <li>ADP: ետեւը, վերջը, առջին</li>
+          <li>ADP: վերջը, ետեւը, առջին</li>
           <li>ADV: ասանկ, անանկ, սանկ, ոնց, աննորմալ, ատանկ, հեչ, սօլօ, ճիշտը</li>
           <li>AUX: կոր</li>
           <li>CCONJ: հա</li>
@@ -1283,9 +1356,10 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       </li>
       <li>Expr
         <ul>
-          <li>ADJ: անուշիկ, կարմրիկ, պճլիկ, քչիկ, պտըլիկ</li>
+          <li>ADJ: անուշիկ, կարմրիկ, պճլիկ, պտըլիկ, քչիկ</li>
           <li>ADP: քովիկը</li>
-          <li>ADV: քիչիկ, քչիկ</li>
+          <li>ADV: քչիկ</li>
+          <li>INTJ: Աաա, Աուուու, Դըննննն, Խրիսթինաաա, Հմմմ, Չէէ, Սըսսս, Օօհ, Օօօ</li>
           <li>NOUN: կտիկ, մարդուկը, քոյրիկս, Գորտիկն, Թոռնիկս, աթոռակին, անտառակին, անտառակներուն, աչուկներով, առուակին</li>
           <li>PRON: ինծիի</li>
           <li>PROPN: Խաչօն, Մարուշ, Խաչօ, Ակոն, Խաչոյին, Նազիկին, Սաղօ, Վասիլիկը</li>
@@ -1309,7 +1383,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       </li>
       <li>Slng
         <ul>
-          <li>NOUN: հօտը, պտտիկ</li>
+          <li>NOUN: Եումուրթա, հօտը, պտտիկ</li>
         </ul>
       </li>
       <li>Vrnc
@@ -1318,7 +1392,7 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
           <li>ADV: ուսկէ, ուսկից, տահա, հունա</li>
           <li>INTJ: Ծո</li>
           <li>NOUN: Ամմօ, տուտու, աղբար, եազմա, եզնիքը, տուտուն, ֆերաճէ, Կիղիցիկ, Սապոնով, Քաղքի</li>
-          <li>PRON: մին, իրանցից</li>
+          <li>PRON: մին</li>
           <li>PROPN: Ուսէփ, Ուսէփին, ՈՒՍԷՓ, Ուսէփը, Ուսէփի, Ուսէփն</li>
           <li>VERB-Fin: բաբաջեն, խրկէր, չնայիր</li>
           <li>VERB-Part: ինկել</li>
@@ -1334,7 +1408,6 @@ UD_Western_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependenci
       <li>Intr
         <ul>
           <li>VERB: կայ, կրնայ, եղած, ըլլայ, կրնար, ըլլալ, կրնան, եկած, կան, կար</li>
-          <li>VERB-Conv: պաշտպանուեցաւ</li>
           <li>VERB-Fin: կայ, կրնայ, ըլլայ, կրնան, կան, կար, գայ, եղաւ, չկայ, եկաւ</li>
           <li>VERB-Inf: ըլլալ, ըլլալու, ըլլալով, գալ, խօսիլ, դառնալ, երթալ, ըլլալէ, մնալ, ըլլալը</li>
           <li>VERB-Part: եղած, կրնար, եկած, դարձած, հասած, կատարուած, ստեղծուած, մնացած, կոչուած, պատրաստուած</li>
@@ -1396,21 +1469,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (2678)</li>
+      <li>VERB-Fin--NOUN-Nom (2680)</li>
       <li>VERB-Fin--PRON (22)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (955)</li>
+      <li>VERB-Fin--PRON-Nom (958)</li>
       <li>VERB-Inf--NOUN-Dat (3)</li>
       <li>VERB-Inf--NOUN-Nom (29)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
-      <li>VERB-Part--NOUN-Dat (53)</li>
-      <li>VERB-Part--NOUN-Nom (711)</li>
+      <li>VERB-Part--NOUN-Dat (54)</li>
+      <li>VERB-Part--NOUN-Nom (706)</li>
       <li>VERB-Part--PRON (8)</li>
       <li>VERB-Part--PRON-Dat (15)</li>
       <li>VERB-Part--PRON-Gen (29)</li>
-      <li>VERB-Part--PRON-Nom (284)</li>
+      <li>VERB-Part--PRON-Nom (283)</li>
     </ul>
   </li>
 </ul>
@@ -1421,36 +1494,37 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom (1)</li>
       <li>VERB-Fin--NOUN-Abl (1)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(բացի) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (359)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(մէջ) (3)</li>
+      <li>VERB-Fin--NOUN-Dat (356)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(մէջ) (2)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(պատճառաւ) (1)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (1959)</li>
+      <li>VERB-Fin--NOUN-Nom (1954)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ի) (1)</li>
       <li>VERB-Fin--PRON (13)</li>
       <li>VERB-Fin--PRON-Abl (1)</li>
-      <li>VERB-Fin--PRON-Acc (176)</li>
+      <li>VERB-Fin--PRON-Acc (175)</li>
       <li>VERB-Fin--PRON-Dat (116)</li>
-      <li>VERB-Fin--PRON-Nom (117)</li>
+      <li>VERB-Fin--PRON-Nom (116)</li>
       <li>VERB-Inf--NOUN-Abl (1)</li>
-      <li>VERB-Inf--NOUN-Dat (197)</li>
+      <li>VERB-Inf--NOUN-Dat (195)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(վրայ) (2)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Nom (1347)</li>
+      <li>VERB-Inf--NOUN-Nom (1346)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(առանց) (2)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(մինչեւ) (1)</li>
       <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-Acc (92)</li>
-      <li>VERB-Inf--PRON-Dat (24)</li>
-      <li>VERB-Inf--PRON-Nom (31)</li>
-      <li>VERB-Part--NOUN-Dat (164)</li>
+      <li>VERB-Inf--PRON-Dat (23)</li>
+      <li>VERB-Inf--PRON-Nom (30)</li>
+      <li>VERB-Part--NOUN-Dat (156)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(դէմ) (1)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Nom (688)</li>
+      <li>VERB-Part--NOUN-Nom (685)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (70)</li>
-      <li>VERB-Part--PRON-Dat (35)</li>
+      <li>VERB-Part--PRON-Dat (33)</li>
       <li>VERB-Part--PRON-Gen (2)</li>
-      <li>VERB-Part--PRON-Nom (33)</li>
+      <li>VERB-Part--PRON-Nom (34)</li>
     </ul>
   </li>
 </ul>
@@ -1459,20 +1533,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Dat (117)</li>
+      <li>VERB-Fin--NOUN-Dat (121)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(հետ) (1)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
-      <li>VERB-Fin--PRON-Acc (4)</li>
+      <li>VERB-Fin--PRON-Acc (5)</li>
       <li>VERB-Fin--PRON-Dat (62)</li>
       <li>VERB-Fin--PRON-Nom (4)</li>
-      <li>VERB-Inf--NOUN-Dat (72)</li>
+      <li>VERB-Inf--NOUN-Dat (73)</li>
       <li>VERB-Inf--NOUN-Nom (4)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Dat (24)</li>
-      <li>VERB-Part--NOUN-Dat (65)</li>
+      <li>VERB-Inf--PRON-Dat (25)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN-Dat (68)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
-      <li>VERB-Part--PRON-Dat (24)</li>
+      <li>VERB-Part--PRON-Dat (26)</li>
     </ul>
   </li>
 </ul>

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of root in UD_Kurmanji-MG'
+title:  'Statistics of root in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `root`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `root`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 754 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 7.41246684350133.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (518; 69% instances), -<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (121; 16% instances), -<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (44; 6% instances), -<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (31; 4% instances), -<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (13; 2% instances), -<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (13; 2% instances), -<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (518; 69% instances), -<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (121; 16% instances), -<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (44; 6% instances), -<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (31; 4% instances), -<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (13; 2% instances), -<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (13; 2% instances), -<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="kmr_kurmanji-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="kmr_kurmanji-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -95,13 +95,13 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5870; 93%),
-<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (4843; 97%),
+<tt>VERB --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> VERB</tt> (4844; 97%),
 <tt>VERB --[<tt><a href="orv_torot-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2251; 97%),
 <tt>VERB --[<tt><a href="orv_torot-dep-aux.html">aux</a></tt>]--> AUX</tt> (1070; 100%),
 <tt>VERB --[<tt><a href="orv_torot-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (465; 92%),
 <tt>VERB --[<tt><a href="orv_torot-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (401; 91%),
 <tt>VERB --[<tt><a href="orv_torot-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (201; 95%),
-<tt>VERB --[<tt><a href="orv_torot-dep-obj.html">obj</a></tt>]--> VERB</tt> (132; 79%),
+<tt>VERB --[<tt><a href="orv_torot-dep-obj.html">obj</a></tt>]--> VERB</tt> (131; 79%),
 <tt>VERB --[<tt><a href="orv_torot-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (103; 77%),
 <tt>AUX --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (90; 95%).
 

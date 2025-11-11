@@ -27,10 +27,10 @@ The feature is used with 2 part-of-speech tags: <tt><a href="gya_autogramm-pos-A
 
 3 <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="gya_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="gya_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="gya_autogramm-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Aug` (3; 100% of non-empty `Degree`): <em>zɔ̀m, zɔ̌m</em>
-* `EMPTY` (47): <em>ʔó, ʔá̰-nɛ̀, =ó, mà, =à, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, ʔá̰, ʔò</em>
+* `EMPTY` (46): <em>ʔó, ʔá̰-nɛ̀, =ó, mà, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, ʔá̰, ʔò</em>
 

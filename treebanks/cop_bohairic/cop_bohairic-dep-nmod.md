@@ -14,7 +14,7 @@ There are 2 language-specific subtypes of `nmod`: <tt><a href="cop_bohairic-dep-
 1221 instances of `nmod` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.79443079443079.
 
-The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (939; 77% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (68; 6% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (46; 4% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (37; 3% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (31; 3% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (28; 2% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (942; 77% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (67; 5% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (46; 4% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (37; 3% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (29; 2% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (28; 2% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲓ	ⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲓ	ⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
 6	ⲙⲏⲣ	ⲙⲏⲣ	NOUN	N	_	4	obl	_	Entity=(place
 7	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
@@ -51,7 +51,7 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲓ	ⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲓ	ⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
 6	ⲙⲏⲣ	ⲙⲏⲣ	NOUN	N	_	4	obl	_	Entity=(place
 7	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
@@ -76,12 +76,12 @@ The following 24 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	ⲉⲧ	ⲉⲧ	AUX	APREC	_	4	aux	_	Orig=ⲉ̀ⲧ
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-4	ϣⲉ	ϣⲉ	VERB	V	VerbForm=Fin	9	advcl	_	_
+4	ϣⲉ	ϣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	9	advcl	_	_
 5	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	9	advmod	_	OrigLang=grc
 6	ⲉϧⲟⲩⲛ	ⲉϧⲟⲩⲛ	ADV	ADV	_	4	advmod	_	Orig=ⲉ̀ϧⲟⲩⲛ
 7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_
 8	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-9	ϭⲓⲥⲙⲟⲩ	ϭⲓⲥⲙⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ϭⲓ-ⲥⲙⲟⲩ
+9	ϭⲓⲥⲙⲟⲩ	ϭⲓⲥⲙⲟⲩ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ϭⲓ-ⲥⲙⲟⲩ
 10	ⲛⲧⲟⲧ	ⲛⲧⲉⲛ	ADP	PREP	_	11	case	_	Orig=ⲛ̀ⲧⲟⲧ
 11	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
 12	ⲙ	ⲛ	ADP	PREP	_	14	case	_	Orig=ⲙ̀

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PDTC: POS Tags: `SCONJ`
 
-There are 44 `SCONJ` lemmas (0%), 44 `SCONJ` types (0%) and 78218 `SCONJ` tokens (2%).
+There are 43 `SCONJ` lemmas (0%), 43 `SCONJ` types (0%) and 78196 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>že, když, jako, aby, než, protože, jak, pokud, li, zda</em>
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>že</em> (<tt><a href="cs_pdtc-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.169157).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.169184).
 
 The 1st highest number of forms (1) was observed with the lemma “aby”: <em>aby</em>.
 
@@ -73,19 +73,19 @@ The 3rd highest number of forms (1) was observed with the lemma “ač”: <em>a
 `SCONJ` occurs with 3 feature-value pairs: `ExtPos=SCONJ`, `Style=Coll`, `Typo=Yes`
 
 `SCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (78209 tokens).
+The most frequent feature combination is `_` (78187 tokens).
 Examples: <em>že, když, jako, aby, než, protože, jak, pokud, li, zda</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="cs_pdtc-dep-mark.html">mark</a></tt> (76596; 98% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (1313; 2% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (290; 0% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="cs_pdtc-dep-mark.html">mark</a></tt> (76576; 98% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (1313; 2% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (290; 0% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="cs_pdtc-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="cs_pdtc-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="cs_pdtc-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (50501; 65% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (12282; 16% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (8734; 11% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (1720; 2% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (1156; 1% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (991; 1% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (713; 1% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (618; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (583; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (554; 1% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (244; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (68; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (41; 0% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (5; 0% instances),  (2; 0% instances)
+Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (50491; 65% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (12278; 16% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (8729; 11% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (1720; 2% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (1156; 1% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (991; 1% instances), <tt><a href="cs_pdtc-pos-PROPN.html">PROPN</a></tt> (713; 1% instances), <tt><a href="cs_pdtc-pos-PRON.html">PRON</a></tt> (618; 1% instances), <tt><a href="cs_pdtc-pos-NUM.html">NUM</a></tt> (583; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (553; 1% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (242; 0% instances), <tt><a href="cs_pdtc-pos-X.html">X</a></tt> (68; 0% instances), <tt><a href="cs_pdtc-pos-SYM.html">SYM</a></tt> (41; 0% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (5; 0% instances),  (2; 0% instances)
 
-78159 (100%) `SCONJ` nodes are leaves.
+78138 (100%) `SCONJ` nodes are leaves.
 
-48 (0%) `SCONJ` nodes have one child.
+47 (0%) `SCONJ` nodes have one child.
 
 4 (0%) `SCONJ` nodes have two children.
 
@@ -93,7 +93,7 @@ Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="cs
 
 The highest child degree of a `SCONJ` node is 5.
 
-Children of `SCONJ` nodes are attached using 10 different relations: <tt><a href="cs_pdtc-dep-punct.html">punct</a></tt> (56; 70% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (8; 10% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-dep-advmod-emph.html">advmod:emph</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-dep-dep.html">dep</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-dep-mark.html">mark</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 10 different relations: <tt><a href="cs_pdtc-dep-punct.html">punct</a></tt> (56; 71% instances), <tt><a href="cs_pdtc-dep-conj.html">conj</a></tt> (8; 10% instances), <tt><a href="cs_pdtc-dep-cc.html">cc</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-dep-fixed.html">fixed</a></tt> (3; 4% instances), <tt><a href="cs_pdtc-dep-advmod-emph.html">advmod:emph</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-dep-dep.html">dep</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="cs_pdtc-pos-PUNCT.html">PUNCT</a></tt> (56; 70% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (6; 8% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="cs_pdtc-pos-PUNCT.html">PUNCT</a></tt> (56; 71% instances), <tt><a href="cs_pdtc-pos-SCONJ.html">SCONJ</a></tt> (6; 8% instances), <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-pos-CCONJ.html">CCONJ</a></tt> (4; 5% instances), <tt><a href="cs_pdtc-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="cs_pdtc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="cs_pdtc-pos-DET.html">DET</a></tt> (1; 1% instances)
 

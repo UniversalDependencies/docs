@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (0%) are attached to their parents as `xcomp`.
+37 nodes (0%) are attached to their parents as `xcomp`.
 
-30 instances of `xcomp` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83870967741935.
+36 instances of `xcomp` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.7027027027027.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (21; 68% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (5; 16% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (26; 70% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -38,41 +38,39 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 xcomp	color:blue
-1	meger	meger	ADV	_	_	11	advmod	_	_
-2	kim	kim	SCONJ	_	_	1	mark	_	_
-3	eḥibbâ-yı	ḥabîb	NOUN	_	Case=Nom|Number=Plur|Person=3	6	nmod	_	_
-4	şeyḫden	şeyḫ	NOUN	_	Case=Abl|Number=Sing|Person=3	3	nmod:poss	_	_
-5	baʿżı	baʿżı	DET	Det	Definite=Ind|PronType=Art	6	det	_	_
-6	kimesneyi	kimesne	NOUN	_	Case=Acc|Number=Sing|Person=3	8	obj	_	_
-7	żiyâfet	żiyâfet	NOUN	_	Case=Nom|Number=Sing|Person=3	8	compound:lvc	_	_
-8	itmek	it	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	9	xcomp	_	_
-9	isteyüp	iste	VERB	Conv	Polarity=Pos|VerbForm=Conv	11	advcl	_	_
-10	terk	terk	NOUN	_	Case=Nom|Number=Sing|Person=3	11	compound:lvc	_	_
-11	eylemişler	eyle	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	imiş	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	11	cop	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 xcomp	color:blue
+1	ol	ol	DET	Demons	Definite=Def|PronType=Art	2	det	_	_
+2	gün	gün	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obl:tmod	_	_
+3	gice	gice	NOUN	_	Case=Nom|Number=Sing|Person=3	4	xcomp	_	_
+4	olınca	ol	VERB	Conv	Aspect=Perf|Polarity=Pos|VerbForm=Conv	5	advcl	_	_
+5	gitdiler	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 xcomp	color:blue
-1	hemân	hemân	CCONJ	_	_	4	cc	_	_
-2	islâm-ı	islâm	PROPN	_	Case=Nom|Number=Sing|Person=3	4	obl	_	_
-3	mecâzîden	mecâzî	ADJ	Adj	Case=Abl	2	amod	_	_
-4	çıḳmaḳ	çıḳ	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	6	xcomp	_	_
-5	küfr-i	küfr	NOUN	_	Case=Gen|Number=Sing|Person=3	7	nmod	_	_
-6	ḥaḳîkîye	ḥaḳîkî	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	5	amod	_	_
-7	girmek	gir	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	0	root	_	_
-8	dür	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	7	cop	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 xcomp	color:blue
+1	yine	yine	ADV	_	_	3	advmod	_	_
+2	aralarında	ara	ADJ	NAdj	Case=Loc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
+3	muṣâlaḥa	muṣâlaḥa	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+4	oldı	ol	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	3	compound:lvc	_	_
+5	barışdılar	barış	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	3	conj	_	_
+6	ve	ve	CCONJ	_	_	7	cc	_	_
+7	görüşdiler	görüş	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	conj	_	_
+8	ve	ve	CCONJ	_	_	13	cc	_	_
+9	mâlik	mâlik	NOUN	_	Case=Nom|Number=Sing|Person=3	10	nmod	_	_
+10	ʿanterüñ	ʿanter	PROPN	Pers	Case=Gen|NameType=Prs|Number=Sing|Person=3	11	nmod:poss	_	_
+11	ayaġın	ayaḳ	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	12	obj	_	_
+12	öpmek	öp	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	13	xcomp	_	_
+13	isdedi	isde	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	7	conj	_	_
 
 ~~~
 

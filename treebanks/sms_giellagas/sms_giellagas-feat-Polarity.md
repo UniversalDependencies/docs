@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 53 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (33% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (49; 92%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (48; 91%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 83%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (27; 51%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (50; 94%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (49; 92%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (48; 91%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 83%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (27; 51%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 2 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Polarity`:
 

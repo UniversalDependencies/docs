@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of obj in UD_Kurmanji-MG'
+title:  'Statistics of obj in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `obj`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `obj`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 318 instances of `obj` (95%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.0688622754491.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (266; 80% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (60; 18% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (266; 80% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (60; 18% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 9	fgColor:white
 # visual-style 9 10 compound	color:blue
 1	chanainn	canainn	VERB	V-h1s	Mood=Ind|Person=1|VerbForm=Fin	0	root	_	_
-2	gur	is	AUX	Wpdia	ExtPos=AUX|Polarity=Aff|Tense=Pres	7	cop	_	_
+2	gur	is	AUX	Wpdia	ExtPos=AUX|Mood=Ind|Polarity=Aff|Tense=Pres|VerbForm=Fin	7	cop	_	_
 3	an	an	ADP	Sp	_	2	fixed	_	_
 4	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	fixed	_	_
 5	air	air	ADP	Sp	_	7	case	_	_

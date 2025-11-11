@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (7; 6% of non-empty `Mood`): <em>el'gendaižiba, eläiži, kül'mäiži, muštaižiba, pagižižiba, tahtoižin, tehtas</em>
-* `Ind` (111; 94% of non-empty `Mood`): <em>eläba, radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, sain</em>
-* `EMPTY` (65): <em>tehta, eläda, el'geta, rata, Išttes, kaita, pagišta, panda, radmaha, sündnu</em>
+* `Cnd` (7; 6% of non-empty `Mood`): <em>eläiži, elʼgendaižiba, külʼmäiži, muštaižiba, pagižižiba, tahtoižin, tehtas</em>
+* `Ind` (111; 94% of non-empty `Mood`): <em>eläba, radoin, ajoin, seižub, abutab, elʼgenzin, meletan, muštan, pätin, sain</em>
+* `EMPTY` (65): <em>tehta, eläda, elʼgeta, rata, Išttes, kaita, pagišta, panda, radmaha, sündnu</em>
 
 <table>
   <tr><th>Paradigm <i>eläda</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th></tr>

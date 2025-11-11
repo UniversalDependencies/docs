@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Elvis de Souza, Cláudia Freitas, Aline Silveira, Tatiana Cavalcanti, Maria Clara Castro, Wograine Evelyn.
 
 Repository: [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -89,7 +89,7 @@ year={2022}
 
 ## Features
 
-[Case](pt_petrogold-feat-Case.html) – [Definite](pt_petrogold-feat-Definite.html) – [Foreign](pt_petrogold-feat-Foreign.html) – [Gender](pt_petrogold-feat-Gender.html) – [Mood](pt_petrogold-feat-Mood.html) – [Number](pt_petrogold-feat-Number.html) – [NumType](pt_petrogold-feat-NumType.html) – [Person](pt_petrogold-feat-Person.html) – [Polarity](pt_petrogold-feat-Polarity.html) – [PronType](pt_petrogold-feat-PronType.html) – [Tense](pt_petrogold-feat-Tense.html) – [Typo](pt_petrogold-feat-Typo.html) – [VerbForm](pt_petrogold-feat-VerbForm.html) – [Voice](pt_petrogold-feat-Voice.html)
+[Case](pt_petrogold-feat-Case.html) – [Definite](pt_petrogold-feat-Definite.html) – [ExtPos](pt_petrogold-feat-ExtPos.html) – [Foreign](pt_petrogold-feat-Foreign.html) – [Gender](pt_petrogold-feat-Gender.html) – [Mood](pt_petrogold-feat-Mood.html) – [Number](pt_petrogold-feat-Number.html) – [NumType](pt_petrogold-feat-NumType.html) – [Person](pt_petrogold-feat-Person.html) – [Polarity](pt_petrogold-feat-Polarity.html) – [PronType](pt_petrogold-feat-PronType.html) – [Tense](pt_petrogold-feat-Tense.html) – [Typo](pt_petrogold-feat-Typo.html) – [VerbForm](pt_petrogold-feat-VerbForm.html) – [Voice](pt_petrogold-feat-Voice.html)
 
 ## Relations
 
@@ -606,6 +606,51 @@ year={2022}
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: a, em, de, com, por, como</li>
+          <li>ADV: quanto, apesar, tal, Mesmo, junto, sempre</li>
+          <li>DET: tais, Uma</li>
+          <li>VERB-Part: devido</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: a, por, em, com, de, Para</li>
+          <li>ADV: cerca, além, não, assim, mesmo, junto, Tanto</li>
+          <li>AUX-Ger: sendo</li>
+          <li>DET: um, cada</li>
+          <li>NOUN: cada</li>
+          <li>SCONJ: caso</li>
+          <li>VERB-Part: feito</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: em, por</li>
+          <li>ADV: bem, além, assim, como</li>
+          <li>CCONJ: ou</li>
+          <li>PRON: isto</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: a, para, de, até, com, sem, em, desde, apesarem</li>
+          <li>ADV: além, já, apesar, enquanto, assim, quanto, sempre, ainda, mesmo, tal</li>
+          <li>AUX: sendo, é</li>
+          <li>AUX-Fin: é</li>
+          <li>AUX-Ger: sendo</li>
+          <li>DET: uma, Toda</li>
+          <li>VERB-Part: visto, devido</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -686,10 +731,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
       <li>VERB-Fin--PRON (43)</li>
       <li>VERB-Fin--PRON-Acc (48)</li>
-      <li>VERB-Ger--NOUN (928)</li>
+      <li>VERB-Ger--NOUN (927)</li>
       <li>VERB-Ger--PRON (5)</li>
       <li>VERB-Ger--PRON-Acc (13)</li>
-      <li>VERB-Inf--NOUN (1499)</li>
+      <li>VERB-Inf--NOUN (1498)</li>
       <li>VERB-Inf--PRON (11)</li>
       <li>VERB-Inf--PRON-Acc (38)</li>
       <li>VERB-Part--NOUN (119)</li>

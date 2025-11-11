@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1817 tokens (0%) have a non-empty value of `Typo`.
-1465 types (1%) occur at least once with a non-empty value of `Typo`.
-1169 lemmas (2%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 14 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (619; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (451; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (179; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (169; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (115; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (100; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (68; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (43; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+1818 tokens (0%) have a non-empty value of `Typo`.
+1466 types (1%) occur at least once with a non-empty value of `Typo`.
+1171 lemmas (2%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 14 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (620; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (451; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (179; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (169; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (115; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (100; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (68; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (43; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (26; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-619 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+620 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (488; 79%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (458; 74%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (352; 57%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (489; 79%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (459; 74%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (352; 57%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (619; 100% of non-empty `Typo`): <em>ге, рыбак-а, Глаза-а-а-а, атракционов, каратэ, ква-рабль, сел-о, слов-о, Тоффаришш, бла-алепие</em>
+* `Yes` (620; 100% of non-empty `Typo`): <em>ге, рыбак-а, Глаза-а-а-а, атракционов, каратэ, ква-рабль, сел-о, слов-о, Тоффаришш, бла-алепие</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (455) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (456) occur only with one value of `Typo`.
 
 ### `VERB`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 * `Yes` (451; 100% of non-empty `Typo`): <em>нравиться, знайт, Здраствуйте, Если, здрасьте, находиться, не, пере-прыг-ива-ть, связанно, бежив</em>
 
-`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (336) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (337) occur only with one value of `Typo`.
 
 ### `ADJ`
 

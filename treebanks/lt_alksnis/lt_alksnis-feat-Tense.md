@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="lt_alksnis-pos-VERB
 
 7482 <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6752; 90%), <tt><a href="lt_alksnis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6677; 89%), <tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5721; 76%), <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4649; 62%), <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4247; 57%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4246; 57%), <tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4246; 57%), <tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3750; 50%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3748; 50%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6752; 90%), <tt><a href="lt_alksnis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6677; 89%), <tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5721; 76%), <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4649; 62%), <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4247; 57%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4246; 57%), <tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4246; 57%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3750; 50%), <tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3750; 50%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -95,7 +95,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (841; 78%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (106; 60%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-acl.html">acl</a></tt>]--> VERB</tt> (7; 54%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-dep.html">dep</a></tt>]--> VERB</tt> (6; 67%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-obj.html">obj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-flat.html">flat</a></tt>]--> VERB</tt> (1; 100%).

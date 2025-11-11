@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ka_glc-feat-Person.html">Person</a></tt>, <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt>, <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt>.
 
-1243 tokens (2%) have a non-empty value of `Person`.
+1242 tokens (2%) have a non-empty value of `Person`.
 67 types (0%) occur at least once with a non-empty value of `Person`.
 26 lemmas (0%) occur at least once with a non-empty value of `Person`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1242; 2% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1241; 2% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-1242 <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> tokens (44% of all `PRON` tokens) have a non-empty value of `Person`.
+1241 <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> tokens (43% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (968; 78%), <tt><a href="ka_glc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (936; 75%), <tt><a href="ka_glc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (771; 62%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (967; 78%), <tt><a href="ka_glc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (937; 76%), <tt><a href="ka_glc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (816; 66%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (65; 5% of non-empty `Person`): <em>ჩვენ, ჩვენი, მე, ჩემი, თავიანთი, ჩემ, ჩვენს, მეც, ჩემს, ჩემა</em>
 * `2` (4; 0% of non-empty `Person`): <em>შენს, თქვენ, შენ</em>
-* `3` (1173; 94% of non-empty `Person`): <em>ამ, მისი, მათ, იგი, ეს, მათი, იმ, მის, მას, ის</em>
-* `EMPTY` (1607): <em>რომელიც, სხვა, ყველა, რომლებიც, რომლის, ერთ-ერთი, რომელსაც, რამდენიმე, რომელთა, ისეთი</em>
+* `3` (1172; 94% of non-empty `Person`): <em>ამ, მისი, მათ, იგი, ეს, მათი, იმ, მის, მას, ის</em>
+* `EMPTY` (1615): <em>რომელიც, სხვა, ყველა, რომლებიც, რომლის, ერთ-ერთი, რომელსაც, რამდენიმე, რომელთა, ისეთი</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (25) occur only with one value of `Person`.
 

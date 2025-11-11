@@ -61,7 +61,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (30; 0% of non-empty `Mood`): <em>Cessate, leggi, Ascolta, Finiamola, Inviate, Lasciatemi, Mandateci, Rassegnamo, Riparliamo, Ripetiamo</em>
 * `Ind` (7573; 96% of non-empty `Mood`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
 * `Sub` (107; 1% of non-empty `Mood`): <em>abbiano, abbia, fosse, sappiano, aprisse, avessi, avessimo, fossero, mancasse, ponesse</em>
-* `EMPTY` (13533): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
+* `EMPTY` (13534): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -92,7 +92,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `NOUN` tokens may have the following values of `Mood`:
 
 * `Ind` (2; 100% of non-empty `Mood`): <em>dice, vedo</em>
-* `EMPTY` (57880): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57881): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `CCONJ`
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `CCONJ` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>pesino</em>
-* `EMPTY` (8198): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8178): <em>e, ma, o, ed, sia, come, che, cioè, ovvero, nonché</em>
 
 ## Relations with Agreement in `Mood`
 

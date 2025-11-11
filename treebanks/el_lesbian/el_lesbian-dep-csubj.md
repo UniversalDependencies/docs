@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `csubj`.
+18 nodes (0%) are attached to their parents as `csubj`.
 
-5 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.2.
+18 instances of `csubj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.27777777777778.
 
-The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 20% instances).
+The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (14; 78% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -55,6 +55,41 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 12	τ’	η	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	αλλουνού	άλλους	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	11	nmod	_	_
 14	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 24 csubj	color:blue
+1	Από	απού	ADP	_	_	2	case	_	_
+2	μωρό	μουρό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+3	χρόνια	χρόνους	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obl	_	_
+4	φορούσα	φουρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	μαύρα	μαύρους	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	έπρεπε	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+8	να	να	SCONJ	_	_	9	mark	_	_
+9	φουρώ	φουρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	_
+10	τσαι	τσι	CCONJ	_	_	12	cc	_	_
+11	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+12	βρατσί	βρατσί	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+15	λέγαμι	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+16	‘μείς	ιγώ	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	_
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	τσαι	τσι	CCONJ	_	_	21	cc	_	_
+19	το	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
+20	βρατσί	βρατσί	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	dislocated	_	_
+21	έπρεπε	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+22	να	να	SCONJ	_	_	24	mark	_	_
+23	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	24	cop	_	_
+24	μαύρο	μαύρους	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	21	csubj	_	_
+25	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

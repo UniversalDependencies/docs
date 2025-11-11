@@ -112,8 +112,8 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (3465; 15% of non-empty `Case`): <em>quo, eo, quibus, qua, se, nobis, eis, ea, aliquo, seipso</em>
-* `Acc` (6294; 27% of non-empty `Case`): <em>se, quod, quam, aliquid, quae, ea, seipsum, id, quem, eam</em>
+* `Abl` (3466; 15% of non-empty `Case`): <em>quo, eo, quibus, qua, se, nobis, eis, ea, aliquo, seipso</em>
+* `Acc` (6293; 27% of non-empty `Case`): <em>se, quod, quam, aliquid, quae, ea, seipsum, id, quem, eam</em>
 * `Dat` (1542; 7% of non-empty `Case`): <em>ei, sibi, nobis, eis, cui, alicui, quibus, uobis, mihi, tibi</em>
 * `Gen` (2526; 11% of non-empty `Case`): <em>eius, eorum, cuius, quorum, alicuius, earum, sui, quarum, aliquorum, earumque</em>
 * `Nom` (9165; 40% of non-empty `Case`): <em>quae, quod, qui, aliquid, aliquis, id, ea, quis, quid, ego</em>

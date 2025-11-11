@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6 5 compound	color:blue
 1	Медводзсэ	водз	ADV	Adv	Clitic=So|Degree=Sup	3	advmod	_	GTtags=Superl,Clt/сӧ,Err/Dial
 2	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg1,Nom
-3	помалі	помавны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg1
+3	помалі	помавны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg1
 4	Красноборса	красноборса	ADJ	A	Case=Nom|Number=Sing	6	amod	_	GTtags=Sg,Nom
 5	шӧр	шӧр	NOUN	N	Case=Nom|NounType=Relat|Number=Sing	6	compound	_	GTtags=Relat,Sg,Nom
 6	школа	школа	NOUN	N	Case=Nom|Number=Sing	3	obj	_	GTtags=Sg,Nom|SpaceAfter=No
@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 9	вонас	во	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obl	_	GTtags=Sg,Ins,PxSg3,So/CP
 10	олэмад	овны	VERB	V	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=2|VerbForm=Vnoun	12	advcl	_	GTtags=Err/Dial,Der,Der/ӧм,Der/NomAct,N,Sg,Ine|PxSg2
 11	мый	мый	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	12	nsubj	_	GTtags=Interr,Sg,Nom
-12	лоис	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+12	лоис	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 13	?	?	PUNCT	PUNCT	_	12	punct	_	_
 
 ~~~

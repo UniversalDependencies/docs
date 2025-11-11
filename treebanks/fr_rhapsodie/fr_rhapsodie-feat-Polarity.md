@@ -21,16 +21,16 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-AD
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (743; 100% of non-empty `Polarity`): <em>pas, non, n', ne, plus, que, qu'</em>
-* `EMPTY` (2501): <em>donc, plus, très, alors, là, parce, bien, enfin, même, tout</em>
+* `EMPTY` (2486): <em>donc, plus, très, alors, là, parce, bien, enfin, même, tout</em>
 
 ### `SCONJ`
 
-4 <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
+4 <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
 
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>qu', que</em>
-* `EMPTY` (797): <em>que, qu', quand, si, comme, puisque, s', lorsqu', lorsque, puisqu'</em>
+* `EMPTY` (796): <em>que, qu', quand, si, comme, puisque, s', lorsqu', lorsque, puisqu'</em>
 
 ## Relations with Agreement in `Polarity`
 

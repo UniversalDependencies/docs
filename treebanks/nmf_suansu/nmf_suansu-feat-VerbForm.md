@@ -9,27 +9,26 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Vnoun`.
 
-743 tokens (24%) have a non-empty value of `VerbForm`.
-443 types (39%) occur at least once with a non-empty value of `VerbForm`.
-287 lemmas (35%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 6 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (623; 20% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (72; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (31; 1% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (2; 0% instances).
+754 tokens (24%) have a non-empty value of `VerbForm`.
+448 types (40%) occur at least once with a non-empty value of `VerbForm`.
+290 lemmas (36%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 6 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (634; 20% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (72; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (31; 1% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-623 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+634 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (312; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (322; 51%), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (320; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (53; 9% of non-empty `VerbForm`): <em>rungganan, theganan, yoanganan, bahnganan, laganan, lwaganan, malungphzganan, nyamganan, phanungganan, ruganan</em>
-* `Fin` (315; 51% of non-empty `VerbForm`): <em>dhohnte, nue, reha, wile, kanale, manungle, rae, rue, runge, rungha</em>
-* `Inf` (255; 41% of non-empty `VerbForm`): <em>la, the, rung, yoan, chari, mu, thungmi, dhohn, rike, ru</em>
-* `EMPTY` (12): <em>amahn, katha, nungaima, phanung, phrai, re, rema, rivaikapre, rung, szumahn</em>
+* `Conv` (53; 8% of non-empty `VerbForm`): <em>rungganan, theganan, yoanganan, bahnganan, laganan, lwaganan, malungphzganan, nyamganan, phanungganan, ruganan</em>
+* `Fin` (314; 50% of non-empty `VerbForm`): <em>dhohnte, nue, reha, wile, kanale, manungle, rae, rue, runge, rungha</em>
+* `Inf` (267; 42% of non-empty `VerbForm`): <em>la, the, rung, yoan, chari, mu, thungmi, dhohn, rike, ru</em>
 
 <table>
   <tr><th>Paradigm <i>the</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Conv</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>thema</em></td><td><em>the</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>the</em></td><td></td></tr>
   <tr><td><tt><tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nmf_suansu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>thema</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>thea, the, thee, thya</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>thele, the</em></td><td></td><td></td></tr>
@@ -72,7 +71,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (31; 100% of non-empty `VerbForm`): <em>runge, theyikke, phehnne, rungedi, runghapha, Tramahnne, dhohnphala, huppe, kathamme, laithiedi</em>
-* `EMPTY` (638): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
+* `EMPTY` (639): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (20) occur only with one value of `VerbForm`.
 
@@ -86,13 +85,13 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 
 * `Fin` (1; 11% of non-empty `VerbForm`): <em>lhia</em>
 * `Inf` (8; 89% of non-empty `VerbForm`): <em>rai, kai, chaszuma</em>
-* `EMPTY` (182): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, daichu, khakhahnnan</em>
+* `EMPTY` (184): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, daichu, khakhahnnan</em>
 
 ### `ADP`
 
 6 <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> tokens (21% of all `ADP` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADP` and `VerbForm` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `ADP` and `VerbForm` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 67%).
 
 `ADP` tokens may have the following values of `VerbForm`:
 
@@ -121,9 +120,9 @@ The most frequent other feature values with which `PART` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="nmf_suansu-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (27; 57%),
+<tt>VERB --[<tt><a href="nmf_suansu-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (28; 60%),
+<tt>VERB --[<tt><a href="nmf_suansu-dep-conj.html">conj</a></tt>]--> VERB</tt> (10; 77%),
 <tt>VERB --[<tt><a href="nmf_suansu-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 63%),
-<tt>VERB --[<tt><a href="nmf_suansu-dep-conj.html">conj</a></tt>]--> VERB</tt> (9; 69%),
 <tt>VERB --[<tt><a href="nmf_suansu-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (7; 54%),
 <tt>VERB --[<tt><a href="nmf_suansu-dep-compound-prt.html">compound:prt</a></tt>]--> ADV</tt> (7; 70%),
 <tt>NOUN --[<tt><a href="nmf_suansu-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (1; 100%),

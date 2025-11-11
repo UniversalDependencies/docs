@@ -16,11 +16,11 @@ Family: Austronesian
 
 This treebank has been part of Universal Dependencies since the UD v2.9 release.
 
-The following people have contributed to making this treebank part of UD: Ika Alfina, Arlisa Yuliawati, Dipta Tanaya, Arawinda Dinakaramani, Daniel Zeman, Putri Rizqiyah, Sri Hartati Wijono.
+The following people have contributed to making this treebank part of UD: Ika Alfina, Arlisa Yuliawati, Dipta Tanaya, Arawinda Dinakaramani, Daniel Zeman, Putri Rizqiyah, Sri Hartati Wijono, Rangga Prangwedana Prangwedana.
 
 Repository: [UD_Javanese-CSUI](https://github.com/UniversalDependencies/UD_Javanese-CSUI)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjv_csui216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjv_csui217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,7 +36,7 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | assigned by a program, with some manual corrections, but not a full manual verification |
 | XPOS | not available |
 | Features | assigned by a program, with some manual corrections, but not a full manual verification |
@@ -62,6 +62,7 @@ Javanese has several language levels, such as Ngoko, Krama, Krama Inggil, and Kr
 ## Acknowledgments
 * The contributors of the second version (v2.12): Ika Alfina, Arlisa Yuliawati, Dipta Tanaya, Arawinda Dinakaramani, and Daniel Zeman
 * The contributors of the first version (v2.9): Ika Alfina, Arlisa Yuliawati, Dipta Tanaya, Arawinda Dinakaramani, Putri Rizqiyah, and Sri Hartati Wijono
+* We thank Rangga Prangwedana Januwarsa for adding lemmas since the dataset for UD v2.17
 
 
 ## References
@@ -91,7 +92,7 @@ number = "5",
 
 ## Features
 
-[Abbr](jv_csui-feat-Abbr.html) – [Definite](jv_csui-feat-Definite.html) – [ExtPos](jv_csui-feat-ExtPos.html) – [Foreign](jv_csui-feat-Foreign.html) – [Mood](jv_csui-feat-Mood.html) – [Number](jv_csui-feat-Number.html) – [NumType](jv_csui-feat-NumType.html) – [Person](jv_csui-feat-Person.html) – [Polarity](jv_csui-feat-Polarity.html) – [Polite](jv_csui-feat-Polite.html) – [PronType](jv_csui-feat-PronType.html) – [Reflex](jv_csui-feat-Reflex.html) – [Typo](jv_csui-feat-Typo.html) – [Voice](jv_csui-feat-Voice.html)
+[Abbr](jv_csui-feat-Abbr.html) – [Definite](jv_csui-feat-Definite.html) – [ExtPos](jv_csui-feat-ExtPos.html) – [Foreign](jv_csui-feat-Foreign.html) – [Number](jv_csui-feat-Number.html) – [NumType](jv_csui-feat-NumType.html) – [Person](jv_csui-feat-Person.html) – [Polarity](jv_csui-feat-Polarity.html) – [Polite](jv_csui-feat-Polite.html) – [PronType](jv_csui-feat-PronType.html) – [Reflex](jv_csui-feat-Reflex.html) – [Typo](jv_csui-feat-Typo.html) – [Voice](jv_csui-feat-Voice.html)
 
 ## Relations
 
@@ -134,23 +135,23 @@ number = "5",
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 52 lemmas tagged as pronouns (PRON): aku, apa, awak, dak, dewe, dhekne, dhewe, dhewek, diri, e, endi, gene, iki, iku, ingkang, ingsun, ipun, jeneng, kabeh, kalih, kang, kene, ki, kita, kok, kono, kowe, ku, kula, kuwi, mangke, mangkono, mbok, mengkana, mu, niki, pak, panjenengan, perangan, piyambak, punapa, pundi, punika, rene, sapa, semana, sing, sinten, sir, tak, tapa, upa</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 37 lemmas tagged as determiners (DET): akeh, daya, dhewe, e, iki, iku, indeng, ingkang, ipun, kabeh, kae, kang, kene, ki, kuwi, mangke, mangkono, meh, menika, mono, niki, para, perangan, pinten, pira, pirang, piyambak, punika, rancak, saben, saindhenge, satunggal, sawetara, sawiji, semana, sing, teka</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: dhewe, e, iki, iku, ingkang, ipun, kabeh, kang, kene, ki, kuwi, mangke, mangkono, niki, perangan, piyambak, punika, semana, sing</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): arep, badhe, bakal, bisa, inggih, isa, kedah, kena, kudu, lagi, mesthi, saged, sampun, wis, yaiku</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: kena, mesthi</li>
 </ul>
 
 <ul>
@@ -169,7 +170,7 @@ number = "5",
 <ul>
   <li>Plur
     <ul>
-      <li>DET: saperangan, para, akeh, sawetara, pirang-pirang, maneka, Akeh-akehe, Pira-pira, pinten-pinten</li>
+      <li>DET: saperangan, para, akeh, sawetara, maneka, pirang-pirang, Akeh-akehe, Pira-pira, pinten-pinten</li>
       <li>NOUN: buku-buku, bocah-bocah, tembung-tembung, Sawah-sawah, kreket-kreket, wong-wong, Karakter-karakter, amalan-amalan, artis-artis, bangsa-bangsa</li>
       <li>PRON: awake, kita, Saperangan</li>
     </ul>
@@ -229,33 +230,6 @@ number = "5",
 
 
 
-<ul>
-  <li><a>Mood</a></li>
-</ul>
-
-<ul>
-  <li>Imp
-    <ul>
-      <li>VERB: Cekake, Kunceni, Resiki, ambakke, nyemayani, pethiki, wacanen</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ind
-    <ul>
-      <li>VERB: ana, dadi, gawe, nganggo, ujar, katon, melu, gelem, miturut, tekan</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Irr
-    <ul>
-      <li>VERB: Jupukna, Kandhanana, Tukokna, Wenehana, ombenana, sangonana, turokna, wadhahna</li>
-    </ul>
-  </li>
-</ul>
 
 
 <ul>
@@ -265,7 +239,7 @@ number = "5",
 <ul>
   <li>Act
     <ul>
-      <li>VERB: ana, dadi, gawe, nganggo, ujar, melu, gelem, miturut, tekan, duwe</li>
+      <li>VERB: ana, dadi, nganggo, gawe, ujar, melu, gelem, miturut, tekan, duwe</li>
     </ul>
   </li>
 </ul>
@@ -273,7 +247,7 @@ number = "5",
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: katon, kelingan, diripta, diarani, digawe, digunakake, ketemu, mapan, mesem, dienggo</li>
+      <li>VERB: diripta, katon, kelingan, mesem, disenengi, diarani, digambarake, digenjot, dikarepake, dikum</li>
     </ul>
   </li>
 </ul>
@@ -307,7 +281,8 @@ number = "5",
 <ul>
   <li>Emp
     <ul>
-      <li>DET: dhewe, dhewe-dhewe, piyambak</li>
+      <li>DET: dhewe, dhewe-dhewe, meh, piyambak</li>
+      <li>PRON: dewe, dhewe</li>
     </ul>
   </li>
 </ul>
@@ -315,7 +290,7 @@ number = "5",
 <ul>
   <li>Ind
     <ul>
-      <li>DET: saperangan, akeh, sawetara, maneka, Akeh-akehe, Pira-pira, pinten-pinten</li>
+      <li>DET: saperangan, akeh, sawetara, maneka, pirang-pirang, Akeh-akehe, Pira-pira, Rancake, pinten-pinten</li>
       <li>PRON: Saperangan</li>
     </ul>
   </li>
@@ -342,7 +317,7 @@ number = "5",
   <li>Rel
     <ul>
       <li>ADV: Kepriye, napa, ngapa</li>
-      <li>PRON: sing, kang, ingkang, sapa, apa, apa-apa, napa, sinten, upa</li>
+      <li>PRON: sing, kang, ingkang, sapa, apa, apa-apa, napa, sinten, upa, napa-napa</li>
     </ul>
   </li>
 </ul>
@@ -445,10 +420,10 @@ number = "5",
       <li>CCONJ: utawi, ugi</li>
       <li>DET: punika, ipun, menika, sedaya, ingkang, pinten-pinten, piyambak</li>
       <li>INTJ: Inggih</li>
-      <li>NOUN: dalem, tiyang, wanci, wulan, antawis, gesang, griya, kabudayan, nyamikan, pungkasan</li>
+      <li>NOUN: dalem, tiyang, wanci, wulan, antawis, gesang, griya, kabudayan, mawon, nyamikan</li>
       <li>NUM: tiga</li>
       <li>PART: mboten, boten</li>
-      <li>PRON: ingkang, ipun, piyambakipun, kula, punika, kekalihipun, mawon, napa, napa-napa, piyambake</li>
+      <li>PRON: ingkang, ipun, piyambakipun, kula, punika, napa, piyambake, pundi, sinten, sira</li>
       <li>SCONJ: menawi, kaliyan, kangge, manawi, saderengipun, Saking, ajrih, kados</li>
       <li>VERB: wonten, dados, dipunkenal, sowan, dhateng, dipunsebat, mangsuli, ndherek, wangsulan, damel</li>
     </ul>
@@ -559,11 +534,11 @@ number = "5",
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: yaiku.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 15 lemmas as auxiliaries (<a>aux</a>). Examples: wis, bisa, kudu, isa, arep, bakal, lagi, mesthi, saged, sampun, kena, badhe, yaiku, inggih, kedah.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -572,9 +547,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (325)</li>
-      <li>VERB--NOUN-ADP(_) (4)</li>
-      <li>VERB--PRON (363)</li>
+      <li>VERB--NOUN (327)</li>
+      <li>VERB--NOUN-ADP(jroning) (1)</li>
+      <li>VERB--NOUN-ADP(nalika) (2)</li>
+      <li>VERB--NOUN-ADP(seje) (1)</li>
+      <li>VERB--PRON (362)</li>
     </ul>
   </li>
 </ul>
@@ -582,8 +559,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (414)</li>
-      <li>VERB--NOUN-ADP(_) (1)</li>
+      <li>VERB--NOUN (412)</li>
+      <li>VERB--NOUN-ADP(tumrap) (1)</li>
       <li>VERB--PRON (38)</li>
     </ul>
   </li>
@@ -592,7 +569,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (3)</li>
+      <li>VERB--NOUN (4)</li>
       <li>VERB--PRON (2)</li>
     </ul>
   </li>
@@ -603,7 +580,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ diri, _ dhekne</li>
+  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bela diri, sebut dhekne</li>
+    <ul>
+      <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: bela</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

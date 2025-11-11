@@ -34,8 +34,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>cada</i></th><th><tt>Tot</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>cada</em></td><td><em>cada</em></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>cada</em></td></tr>
-  <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>cada</em></td><td><em>cada</em></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>cada</em></td></tr>
 </table>
 
 ### `PRON`
@@ -74,7 +75,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Rel` (211; 100% of non-empty `PronType`): <em>onde</em>
-* `EMPTY` (6230): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
+* `EMPTY` (6228): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
 
 ## Relations with Agreement in `PronType`
 

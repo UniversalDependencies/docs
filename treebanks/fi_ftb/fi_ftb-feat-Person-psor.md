@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADV` and `Person[psor]` co-oc
 
 271 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (271; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (222; 82%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (193; 71%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (271; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (222; 82%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (193; 71%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 

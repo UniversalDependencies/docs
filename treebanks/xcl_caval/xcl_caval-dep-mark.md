@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3030 nodes (3%) are attached to their parents as `mark`.
+3116 nodes (3%) are attached to their parents as `mark`.
 
-3027 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.88184818481848.
+3113 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.85301668806162.
 
-The following 31 pairs of parts of speech are connected with `mark`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (2009; 66% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (300; 10% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (256; 8% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (161; 5% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (80; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (44; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (40; 1% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (30; 1% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `mark`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (2015; 65% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (319; 10% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (300; 10% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (171; 5% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (81; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (44; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (40; 1% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (30; 1% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (18; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,8 +30,35 @@ The following 31 pairs of parts of speech are connected with `mark`: <tt><a href
 6	վաղվաղակի	վաղվաղակի	ADV	_	_	5	advmod	_	Translit=vałvałaki|LTranslit=vałvałaki|Gloss=suddenly
 7	ի	ի	ADP	_	_	8	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 8	ջրոյ	ջուր	NOUN	_	Case=Abl|Number=Sing	5	obl	_	Translit=ǰroy|LTranslit=ǰowr|Gloss=water
-9	անտի	անտի	ADP	_	Deixis=Remt|PronType=Dem	8	case	_	SpaceAfter=No|Translit=anti|LTranslit=anti|Gloss=from_there
+9	անտի	անտի	ADP	_	Deixis=Remt	8	case	_	SpaceAfter=No|Translit=anti|LTranslit=anti|Gloss=from_there
 10	՝	՝	PUNCT	_	_	5	punct	_	Translit=;|LTranslit=;
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 12 mark	color:blue
+1	Իսկ	իսկ	PART	_	_	9	discourse	_	Translit=Isk|LTranslit=isk|Gloss=but
+2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	Translit=or|LTranslit=or|Gloss=who
+3	ի	ի	ADP	_	ExtPos=ADP	5	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
+4	մէջ	մէջ	ADV	_	_	3	fixed	_	Translit=mēǰ|LTranslit=mēǰ|Gloss=in_between
+5	փշոց	փուշ	NOUN	_	Case=Gen|Number=Plur	7	obl	_	SpaceAfter=No|Translit=pʻšocʻ|LTranslit=pʻowš|Gloss=thorn
+6	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	5	det	_	Translit=n|LTranslit=n|Gloss=that
+7	սերմանեցան	սերմանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	9	csubj	_	SpaceAfter=No|Translit=sermanecʻan|LTranslit=sermanel|Gloss=sow
+8	՝	՝	PUNCT	_	_	7	punct	_	Translit=;|LTranslit=;
+9	նոքա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	0	root	_	Translit=nokʻa|LTranslit=na|Gloss=he/she/it
+10	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Translit=en|LTranslit=em|Gloss=be
+11	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	Translit=or|LTranslit=or|Gloss=who
+12	իբրեւ	իբրեւ	SCONJ	_	_	14	mark	_	Translit=ibrew|LTranslit=ibrew|Gloss=like
+13	զ	զ	ADP	_	Definite=Def	14	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+14	բան	բան	NOUN	_	Case=Acc|Number=Sing	16	advcl	_	SpaceAfter=No|Translit=ban|LTranslit=ban|Gloss=word
+15	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	14	det	_	Translit=n|LTranslit=n|Gloss=that
+16	լսեն	լսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	SpaceAfter=No|Translit=lsen|LTranslit=lsel|Gloss=hear
+17	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
 
 ~~~
 
@@ -54,31 +81,6 @@ The following 31 pairs of parts of speech are connected with `mark`: <tt><a href
 10	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	9	det	_	Translit=n|LTranslit=n|Gloss=that
 11	գինի	գինի	NOUN	_	Case=Acc|Number=Sing	7	xcomp	_	SpaceAfter=No|Translit=gini|LTranslit=gini|Gloss=wine
 12	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 mark	color:blue
-1	Ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asē|LTranslit=asel|Gloss=say
-2	ց	ց	ADP	_	_	3	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-3	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	1	obl:arg	_	Translit=na|LTranslit=na|Gloss=he/she/it
-4	կին	կին	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=kin|LTranslit=kin|Gloss=woman
-5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
-6	՝	՝	PUNCT	_	_	7	punct	_	Translit=;|LTranslit=;
-7	Տէր	Տէր	NOUN	_	Case=Nom|Number=Sing	9	vocative	_	SpaceAfter=No|Translit=Tēr|LTranslit=Tēr|Gloss=Lord
-8	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
-9	թուի	թուել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	ccomp	_	Translit=tʻowi|LTranslit=tʻowel|Gloss=number
-10	ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	Translit=inj|LTranslit=es|Gloss=I
-11	թե	թե	SCONJ	_	_	12	mark	_	Translit=tʻe|LTranslit=tʻe|Gloss=whether
-12	մարգարէ	մարգարէ	NOUN	_	Case=Nom|Number=Sing	9	ccomp	_	Translit=margarē|LTranslit=margarē|Gloss=prophet
-13	իցես	եմ	AUX	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	12	cop	_	Translit=icʻes|LTranslit=em|Gloss=be
-14	դու	դու	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	SpaceAfter=No|Translit=dow|LTranslit=dow|Gloss=you_(sg.)
-15	՝	՝	PUNCT	_	_	1	punct	_	Translit=;|LTranslit=;
 
 ~~~
 

@@ -77,9 +77,9 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> VERB</tt> (1333; 84%),
+<tt>VERB --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> VERB</tt> (1332; 84%),
 <tt>VERB --[<tt><a href="la_circse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (172; 65%),
-<tt>VERB --[<tt><a href="la_circse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (136; 71%),
+<tt>VERB --[<tt><a href="la_circse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (136; 72%),
 <tt>VERB --[<tt><a href="la_circse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (47; 59%),
 <tt>VERB --[<tt><a href="la_circse-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (41; 77%),
 <tt>VERB --[<tt><a href="la_circse-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (31; 69%),

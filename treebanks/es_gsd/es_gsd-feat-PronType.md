@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-75458 tokens (17%) have a non-empty value of `PronType`.
-348 types (1%) occur at least once with a non-empty value of `PronType`.
-125 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60884; 14% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (14046; 3% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (528; 0% instances).
+75457 tokens (17%) have a non-empty value of `PronType`.
+347 types (1%) occur at least once with a non-empty value of `PronType`.
+124 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60883; 14% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (14046; 3% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (528; 0% instances).
 
 ### `DET`
 
-60884 <tt><a href="es_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+60883 <tt><a href="es_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48311; 79%), <tt><a href="es_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (43543; 72%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (32137; 53%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48311; 79%), <tt><a href="es_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (43543; 72%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (32136; 53%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (51201; 84% of non-empty `PronType`): <em>el, la, los, un, las, una, unos, unas, the, a</em>
 * `Dem` (2168; 4% of non-empty `PronType`): <em>este, esta, ese, estos, esa, estas, esos, esas, aquellos, aquella</em>
-* `Ind` (2022; 3% of non-empty `PronType`): <em>otras, otros, cualquier, the, varios, otro, algunos, otra, varias, muchos</em>
+* `Ind` (2021; 3% of non-empty `PronType`): <em>otras, otros, cualquier, the, varios, otro, algunos, otra, varias, muchos</em>
 * `Int` (21; 0% of non-empty `PronType`): <em>qué, cuál</em>
 * `Int,Rel` (9; 0% of non-empty `PronType`): <em>cuantas, cuantos, cuan, cuán</em>
 * `Neg` (91; 0% of non-empty `PronType`): <em>ningún, ninguna, ningun</em>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>the</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 98% lemmas (87) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 98% lemmas (86) occur only with one value of `PronType`.
 
 ### `PRON`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 528 <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (528; 100%), <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (528; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (528; 100%), <tt><a href="es_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (528; 100%), <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (528; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -86,7 +86,8 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (40; 87%),
-<tt>DET --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> DET</tt> (10; 71%),
+<tt>DET --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> DET</tt> (11; 73%),
+<tt>DET --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 67%),
 <tt>DET --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%),
 <tt>PRON --[<tt><a href="es_gsd-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="es_gsd-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (1; 100%).

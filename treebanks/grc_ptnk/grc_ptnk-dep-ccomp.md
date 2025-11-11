@@ -22,18 +22,18 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
-4	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god|SpaceAfter=No
-5	·	·	PUNCT	_	_	6	punct	_	_
-6	γενηθήτω	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Gloss=to-become,come-to-be
-7	φῶς	φῶς	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	Gloss=light|SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
-9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next
-10	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-become,come-to-be
-11	φῶς	φῶς	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	Gloss=light|SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_1.3
+2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_1.3
+3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_1.3
+4	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god|Ref=GEN_1.3|SpaceAfter=No
+5	·	·	PUNCT	_	_	6	punct	_	Ref=GEN_1.3
+6	γενηθήτω	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Gloss=to-become,come-to-be|Ref=GEN_1.3
+7	φῶς	φῶς	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	Gloss=light|Ref=GEN_1.3|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	Ref=GEN_1.3
+9	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next|Ref=GEN_1.3
+10	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-become,come-to-be|Ref=GEN_1.3
+11	φῶς	φῶς	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	Gloss=light|Ref=GEN_1.3|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	Ref=GEN_1.3
 
 ~~~
 
@@ -44,14 +44,14 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 ccomp	color:blue
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	ccomp	_	Gloss=child,servant
-5	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod:poss	_	Gloss=Abraham
-6	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
-7	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Gloss=to-be|SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_24.34
+2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_24.34|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	Ref=GEN_24.34
+4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	ccomp	_	Gloss=child,servant|Ref=GEN_24.34
+5	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod:poss	_	Gloss=Abraham|Ref=GEN_24.34
+6	ἐγώ	ἐγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I|Ref=GEN_24.34
+7	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Gloss=to-be|Ref=GEN_24.34|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	Ref=GEN_24.34
 
 ~~~
 
@@ -62,17 +62,17 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 ccomp	color:blue
-1	εἴπαμεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-speak,say
-2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	1	iobj	_	Gloss=he,she,it,-self,same|SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	Εἰρηνικοί	εἰρηνικός	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	1	ccomp	_	Gloss=peaceable
-6	ἐσμεν	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Gloss=to-be|SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	οὔκ	οὐ	ADV	_	Polarity=Neg	10	advmod	_	Gloss=no,not
-9	ἐσμεν	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Gloss=to-be
-10	κατάσκοποι	κατάσκοπος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	parataxis	_	Gloss=spy|SpaceAfter=No
-11	·	·	PUNCT	_	_	10	punct	_	_
+1	εἴπαμεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-speak,say|Ref=GEN_42.31
+2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_42.31
+3	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	1	iobj	_	Gloss=he,she,it,-self,same|Ref=GEN_42.31|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	Ref=GEN_42.31
+5	Εἰρηνικοί	εἰρηνικός	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	1	ccomp	_	Gloss=peaceable|Ref=GEN_42.31
+6	ἐσμεν	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Gloss=to-be|Ref=GEN_42.31|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_42.31
+8	οὔκ	οὐ	ADV	_	Polarity=Neg	10	advmod	_	Gloss=no,not|Ref=GEN_42.31
+9	ἐσμεν	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Gloss=to-be|Ref=GEN_42.31
+10	κατάσκοποι	κατάσκοπος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	parataxis	_	Gloss=spy|Ref=GEN_42.31|SpaceAfter=No
+11	·	·	PUNCT	_	_	10	punct	_	Ref=GEN_42.31
 
 ~~~
 

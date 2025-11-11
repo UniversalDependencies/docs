@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (541; 100% of non-empty `Abbr`): <em>mj, apod, atd, resp, atp, popř, ap, tzv, kupř, popříp</em>
-* `EMPTY` (163166): <em>tam, už, tak, jak, kde, pak, kdy, více, ještě, včera</em>
+* `EMPTY` (164652): <em>tam, už, tak, jak, kde, pak, kdy, více, ještě, včera</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Abbr`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `PART` tokens may have the following values of `Abbr`:
 
 * `Yes` (458; 100% of non-empty `Abbr`): <em>např, cca, zejm</em>
-* `EMPTY` (65796): <em>i, tak, asi, také, ještě, jen, až, taky, ne, už</em>
+* `EMPTY` (64332): <em>i, tak, asi, také, ještě, jen, až, taky, ne, už</em>
 
 ### `NUM`
 

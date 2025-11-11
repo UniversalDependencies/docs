@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Flavio Massimiliano Cecchini, Giovanni Moretti, Marco Passarotti, Rachele Sprugnoli, Daniela Corbetta, Federica Favero, Federica Gamba, Martina de Laurentiis, Giulia Pedonese, Andrea Peverelli, Elena Vagnoni, Mirko Tavoni.
 
 Repository: [UD_Latin-UDante](https://github.com/UniversalDependencies/UD_Latin-UDante)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -93,13 +93,13 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 
 ## Relations
 
-[acl](la_udante-dep-acl.html) – [acl:relcl](la_udante-dep-acl-relcl.html) – [advcl](la_udante-dep-advcl.html) – [advcl:abs](la_udante-dep-advcl-abs.html) – [advcl:cmp](la_udante-dep-advcl-cmp.html) – [advcl:pred](la_udante-dep-advcl-pred.html) – [advcl:relcl](la_udante-dep-advcl-relcl.html) – [advmod](la_udante-dep-advmod.html) – [advmod:emph](la_udante-dep-advmod-emph.html) – [advmod:lmod](la_udante-dep-advmod-lmod.html) – [advmod:neg](la_udante-dep-advmod-neg.html) – [advmod:tmod](la_udante-dep-advmod-tmod.html) – [amod](la_udante-dep-amod.html) – [appos](la_udante-dep-appos.html) – [aux](la_udante-dep-aux.html) – [aux:pass](la_udante-dep-aux-pass.html) – [case](la_udante-dep-case.html) – [cc](la_udante-dep-cc.html) – [ccomp](la_udante-dep-ccomp.html) – [ccomp:relcl](la_udante-dep-ccomp-relcl.html) – [ccomp:reported](la_udante-dep-ccomp-reported.html) – [conj](la_udante-dep-conj.html) – [conj:expl](la_udante-dep-conj-expl.html) – [cop](la_udante-dep-cop.html) – [cop:outer](la_udante-dep-cop-outer.html) – [csubj](la_udante-dep-csubj.html) – [csubj:cleft](la_udante-dep-csubj-cleft.html) – [csubj:outer](la_udante-dep-csubj-outer.html) – [csubj:pass](la_udante-dep-csubj-pass.html) – [csubj:relcl](la_udante-dep-csubj-relcl.html) – [csubj:reported](la_udante-dep-csubj-reported.html) – [det](la_udante-dep-det.html) – [det:numgov](la_udante-dep-det-numgov.html) – [discourse](la_udante-dep-discourse.html) – [dislocated:ccomp](la_udante-dep-dislocated-ccomp.html) – [dislocated:csubj](la_udante-dep-dislocated-csubj.html) – [dislocated:obj](la_udante-dep-dislocated-obj.html) – [dislocated:obl](la_udante-dep-dislocated-obl.html) – [flat](la_udante-dep-flat.html) – [flat:foreign](la_udante-dep-flat-foreign.html) – [flat:gov](la_udante-dep-flat-gov.html) – [flat:name](la_udante-dep-flat-name.html) – [flat:redup](la_udante-dep-flat-redup.html) – [mark](la_udante-dep-mark.html) – [nmod](la_udante-dep-nmod.html) – [nmod:poss](la_udante-dep-nmod-poss.html) – [nsubj](la_udante-dep-nsubj.html) – [nsubj:cleft](la_udante-dep-nsubj-cleft.html) – [nsubj:outer](la_udante-dep-nsubj-outer.html) – [nsubj:pass](la_udante-dep-nsubj-pass.html) – [nummod](la_udante-dep-nummod.html) – [obj](la_udante-dep-obj.html) – [obl](la_udante-dep-obl.html) – [obl:agent](la_udante-dep-obl-agent.html) – [obl:arg](la_udante-dep-obl-arg.html) – [obl:cmp](la_udante-dep-obl-cmp.html) – [obl:lmod](la_udante-dep-obl-lmod.html) – [obl:tmod](la_udante-dep-obl-tmod.html) – [orphan](la_udante-dep-orphan.html) – [parataxis](la_udante-dep-parataxis.html) – [parataxis:reporting](la_udante-dep-parataxis-reporting.html) – [punct](la_udante-dep-punct.html) – [reparandum](la_udante-dep-reparandum.html) – [root](la_udante-dep-root.html) – [vocative](la_udante-dep-vocative.html) – [xcomp](la_udante-dep-xcomp.html) – [xcomp:relcl](la_udante-dep-xcomp-relcl.html)
+[acl](la_udante-dep-acl.html) – [acl:relcl](la_udante-dep-acl-relcl.html) – [advcl](la_udante-dep-advcl.html) – [advcl:abs](la_udante-dep-advcl-abs.html) – [advcl:cmp](la_udante-dep-advcl-cmp.html) – [advcl:pred](la_udante-dep-advcl-pred.html) – [advcl:relcl](la_udante-dep-advcl-relcl.html) – [advmod](la_udante-dep-advmod.html) – [advmod:emph](la_udante-dep-advmod-emph.html) – [advmod:lmod](la_udante-dep-advmod-lmod.html) – [advmod:neg](la_udante-dep-advmod-neg.html) – [advmod:tmod](la_udante-dep-advmod-tmod.html) – [amod](la_udante-dep-amod.html) – [appos](la_udante-dep-appos.html) – [aux](la_udante-dep-aux.html) – [aux:pass](la_udante-dep-aux-pass.html) – [case](la_udante-dep-case.html) – [cc](la_udante-dep-cc.html) – [ccomp](la_udante-dep-ccomp.html) – [ccomp:relcl](la_udante-dep-ccomp-relcl.html) – [ccomp:reported](la_udante-dep-ccomp-reported.html) – [conj](la_udante-dep-conj.html) – [conj:expl](la_udante-dep-conj-expl.html) – [cop](la_udante-dep-cop.html) – [cop:outer](la_udante-dep-cop-outer.html) – [csubj](la_udante-dep-csubj.html) – [csubj:cleft](la_udante-dep-csubj-cleft.html) – [csubj:outer](la_udante-dep-csubj-outer.html) – [csubj:pass](la_udante-dep-csubj-pass.html) – [csubj:relcl](la_udante-dep-csubj-relcl.html) – [csubj:reported](la_udante-dep-csubj-reported.html) – [det](la_udante-dep-det.html) – [det:numgov](la_udante-dep-det-numgov.html) – [discourse](la_udante-dep-discourse.html) – [dislocated:ccomp](la_udante-dep-dislocated-ccomp.html) – [dislocated:csubj](la_udante-dep-dislocated-csubj.html) – [dislocated:obj](la_udante-dep-dislocated-obj.html) – [dislocated:obl](la_udante-dep-dislocated-obl.html) – [flat](la_udante-dep-flat.html) – [flat:foreign](la_udante-dep-flat-foreign.html) – [flat:gov](la_udante-dep-flat-gov.html) – [flat:name](la_udante-dep-flat-name.html) – [flat:redup](la_udante-dep-flat-redup.html) – [iobj](la_udante-dep-iobj.html) – [mark](la_udante-dep-mark.html) – [nmod](la_udante-dep-nmod.html) – [nmod:poss](la_udante-dep-nmod-poss.html) – [nsubj](la_udante-dep-nsubj.html) – [nsubj:cleft](la_udante-dep-nsubj-cleft.html) – [nsubj:outer](la_udante-dep-nsubj-outer.html) – [nsubj:pass](la_udante-dep-nsubj-pass.html) – [nummod](la_udante-dep-nummod.html) – [obj](la_udante-dep-obj.html) – [obl](la_udante-dep-obl.html) – [obl:agent](la_udante-dep-obl-agent.html) – [obl:arg](la_udante-dep-obl-arg.html) – [obl:cmp](la_udante-dep-obl-cmp.html) – [obl:lmod](la_udante-dep-obl-lmod.html) – [obl:tmod](la_udante-dep-obl-tmod.html) – [orphan](la_udante-dep-orphan.html) – [parataxis](la_udante-dep-parataxis.html) – [parataxis:reporting](la_udante-dep-parataxis-reporting.html) – [punct](la_udante-dep-punct.html) – [reparandum](la_udante-dep-reparandum.html) – [root](la_udante-dep-root.html) – [vocative](la_udante-dep-vocative.html) – [xcomp](la_udante-dep-xcomp.html) – [xcomp:relcl](la_udante-dep-xcomp-relcl.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1723 sentences, 55286 tokens and 55552 syntactic words.</li>
+<li>This corpus contains 1723 sentences, 55286 tokens and 55553 syntactic words.</li>
 </ul>
 
 <ul>
@@ -115,8 +115,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-<li>This corpus contains 266 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 150 types of multi-word tokens. Examples: quare, nonne, etsi, cumque, mecum, nunquid, quinymo, Quidni, nonnullos, vobiscum, Romanorumque, eademque, eamque, eiusque, eodemque, hirteque, iamque, nobiscum, nonnulla, nonnulli, romanaque, secum, seipsum, sive, tecum, torquibusque, vosmetipsos, Cesarisque, Dantisque, Estne, Francorumque, Graiumque, Hiique, Hocne, Latinorumque, Niseque, Priamique, Quadrifluumne, Quodque, Romuleoque, Utque, Verumtamen, Vosne, abmotimque, accentibusque, alipedesque, aliusque, animusque, armentaque, armisque.</li>
+<li>This corpus contains 267 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 151 types of multi-word tokens. Examples: quare, nonne, etsi, cumque, mecum, nunquid, quinymo, Quidni, nonnullos, vobiscum, Romanorumque, eademque, eamque, eiusque, eodemque, hirteque, iamque, nobiscum, nonnulla, nonnulli, romanaque, secum, seipsum, sive, tecum, torquibusque, vosmetipsos, Cesarisque, Dantisque, Estne, Francorumque, Graiumque, Hiique, Hocne, Latinorumque, Niseque, Priamique, Quadrifluumne, Quodque, Romuleoque, Utque, Verumtamen, Vosne, abmotimque, accentibusque, alipedesque, aliusque, animusque, armentaque, armisque.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -137,11 +137,11 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-<li>This corpus contains 51 lemmas tagged as determiners (DET): aliqualis, aliqui, alius, alter, alteruter, ambo, ceterus, cunctus, hic, huiusmodi, idem, ille, ipse, iste, meus, multus, neuter, noster, nullus, omnis, paucus, plerusque, qua, qualis, quamplures, quantum, quantus, quantuslibet, qui, quicumque, quidam, quilibet, quispiam, quisquam, quisque, quot, reliquus, solus, suus, talis, tantus, tot, totidem, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uterque</li>
+<li>This corpus contains 51 lemmas tagged as determiners (DET): aliqualis, aliqui, alius, alter, alteruter, ambo, ceterus, cunctus, ego, hic, huiusmodi, idem, ille, ipse, iste, meus, multus, neuter, noster, nullus, omnis, paucus, plerusque, qualis, quamplures, quantum, quantus, quantuslibet, qui, quicumque, quidam, quilibet, quispiam, quisquam, quisque, quot, reliquus, solus, suus, talis, tantus, tot, totidem, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uterque</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: qui, quicumque</li>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: ego, qui, quicumque</li>
 </ul>
 
 <ul>
@@ -171,7 +171,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <ul>
     <li>AUX: esse, fuisse, fore</li>
     <li>NOUN: Ducatus, actu</li>
-    <li>VERB: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
+    <li>VERB: habere, facere, fieri, dici, posse, dicere, solvere, uti, velle, reduci</li>
   </ul>
   </li>
 </ul>
@@ -220,7 +220,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>ADJ-Part: secundo, secundus, secundi, secundum, altior, altiori, altissimi, alto, secundis, secundorum</li>
       <li>AUX-Part: futurum</li>
       <li>DET: omnes, ipse, ille, ipsum, alii, omnibus, quidam, aliis, illum, unum</li>
-      <li>NOUN: Dei, Deus, mundi, Deo, homo, finem, finis, homines, modo, hominem</li>
+      <li>NOUN: Dei, Deus, mundi, Deo, homo, finem, finis, modo, homines, hominem</li>
       <li>NOUN-Inf: Ducatus, actu</li>
       <li>NOUN-Part: soni, punctus, sonus, sponsum, coniugibus, legati, legato, legatos, legatus, obiectum</li>
       <li>NUM: duo, duos, duobus, tres, duorum, tribus</li>
@@ -496,7 +496,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Inf: esse</li>
       <li>AUX-Part: ens, ente</li>
       <li>VERB-Fin: potest, patet, habet, dicimus, videtur, dicit, dico, oportet, dicitur, dicunt</li>
-      <li>VERB-Inf: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
+      <li>VERB-Inf: habere, facere, fieri, dici, posse, dicere, solvere, uti, velle, reduci</li>
       <li>VERB-Part: consequens, existente, dicens, existens, presens, consequentis, dicentes, loquens, agentis, antecedentis</li>
     </ul>
   </li>
@@ -603,7 +603,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Act
     <ul>
       <li>VERB-Fin: potest, patet, habet, dicimus, dicit, dico, oportet, dicunt, possit, debet</li>
-      <li>VERB-Inf: habere, facere, dicere, posse, solvere, velle, ligare, agere, videre, dependere</li>
+      <li>VERB-Inf: habere, facere, posse, dicere, solvere, velle, ligare, agere, videre, dependere</li>
       <li>VERB-Part: consequens, existente, dicens, existens, presens, consequentis, dicentes, loquens, agentis, antecedentis</li>
     </ul>
   </li>
@@ -662,6 +662,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Int
     <ul>
       <li>ADV: quid</li>
+      <li>DET: quo</li>
       <li>PRON: quid, quis, quem, quo, cui, cuius, qua, que, qui, quos</li>
     </ul>
   </li>
@@ -687,6 +688,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Rel
     <ul>
+      <li>ADP: cum</li>
       <li>ADV: unde, quid, ubi, quando, quandoque, quam, quippe, qualiter, ubique, aliquando</li>
       <li>CCONJ: quapropter, quia</li>
       <li>DET: quantum, quodcunque, quicunque, qualis, quot, quanta, quale, qualem, quantis, cuiuscunque</li>
@@ -780,7 +782,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>1
     <ul>
       <li>AUX-Fin: sum, sumus, essemus, sim, eram, eramus, fueram, fuero, fui</li>
-      <li>PRON: nobis, me, nos, ego, michi, mi, memet, mihi, nostrum</li>
+      <li>PRON: nobis, me, nos, ego, michi, mi, memet, mihi</li>
       <li>VERB-Fin: dicimus, dico, videmus, vocamus, habemus, possumus, diximus, appellamus, intendimus, consideremus</li>
     </ul>
   </li>
@@ -815,7 +817,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Plur
     <ul>
-      <li>DET: nostra, nostri, nostre, noster, vestre, vestra, vestri, nostros, nostro, vestris</li>
+      <li>DET: nostra, nostri, nostre, noster, vestre, vestra, vestri, nostros, nostro, nostrum</li>
     </ul>
   </li>
 </ul>
@@ -957,7 +959,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>ADJ: humanum, manifestum, verum, primo, primum, romanorum, romanus, falsum, primi, secundo</li>
           <li>ADJ-Part: secundo, secundum, altius, secundus, altissimo, secundi, secundis, alta, altior, altiora</li>
           <li>DET: quantum, suo, suum, suis, nostri, sui, noster, multa, sua, cunctis</li>
-          <li>NOUN: Dei, Deus, mundi, Deo, imperium, celum, iudicium, modo, principium, verba</li>
+          <li>NOUN: Dei, Deus, mundi, Deo, imperium, celum, modo, iudicium, principium, verba</li>
           <li>NOUN-Part: subiectum, peccatum, subiecto, decreta, dicto, fluenta, peccati, soni, debitum, dicta</li>
           <li>NUM: duo, duorum, duobus, duos</li>
           <li>PROPN: Cristus, Petrus, Cristi, Petri, Cristum, Livius, Nicomacum, Lucanus, Mopsus, Alagherii</li>
@@ -1138,7 +1140,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>Rel
         <ul>
           <li>ADJ: Saturnia, cristiane, Cristiana, cristianam, cristianorum</li>
-          <li>NOUN: Dei, Deus, Deo, Deum, Angelos, El, Musa, Seraphin, Victoria</li>
+          <li>NOUN: Dei, Deus, Deo, Deum, Angelos, Domino, El, Musa, Seraphin, Victoria</li>
           <li>PROPN: Apollo, Amphitritis, Dardanus, Electra, Herculis, Acidis, Anubis, Apollini, Astrea, Chyron</li>
         </ul>
       </li>
@@ -1210,7 +1212,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
     <ul>
       <li>1
         <ul>
-          <li>DET: nostra, nostri, nostre, noster, mea, nostros, meam, mei, nostro, meis</li>
+          <li>DET: nostra, nostri, nostre, noster, mea, nostros, meam, mei, nostro, nostrum</li>
         </ul>
       </li>
       <li>2
@@ -1270,17 +1272,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (52)</li>
       <li>VERB-Fin--NOUN-Abl (5)</li>
       <li>VERB-Fin--NOUN-Acc (11)</li>
-      <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (889)</li>
+      <li>VERB-Fin--NOUN-Gen (2)</li>
+      <li>VERB-Fin--NOUN-Nom (890)</li>
       <li>VERB-Fin--PRON (9)</li>
       <li>VERB-Fin--PRON-Acc (10)</li>
-      <li>VERB-Fin--PRON-Nom (391)</li>
-      <li>VERB-Fin--PRON-Voc (1)</li>
+      <li>VERB-Fin--PRON-Nom (392)</li>
       <li>VERB-Inf--NOUN (5)</li>
       <li>VERB-Inf--NOUN-Acc (76)</li>
-      <li>VERB-Inf--NOUN-Nom (14)</li>
+      <li>VERB-Inf--NOUN-Nom (13)</li>
       <li>VERB-Inf--PRON-Acc (29)</li>
-      <li>VERB-Inf--PRON-Nom (6)</li>
+      <li>VERB-Inf--PRON-Nom (7)</li>
       <li>VERB-Part--NOUN (6)</li>
       <li>VERB-Part--NOUN-Abl (54)</li>
       <li>VERB-Part--NOUN-Acc (16)</li>
@@ -1298,24 +1299,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--NOUN-Abl (2)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(a) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (707)</li>
+      <li>VERB-Fin--NOUN-Acc (709)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(per) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (11)</li>
       <li>VERB-Fin--PRON (12)</li>
       <li>VERB-Fin--PRON-Abl (5)</li>
       <li>VERB-Fin--PRON-Acc (353)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (237)</li>
+      <li>VERB-Inf--NOUN-Acc (236)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--PRON (3)</li>
       <li>VERB-Inf--PRON-Abl (1)</li>
       <li>VERB-Inf--PRON-Acc (79)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN-Abl (1)</li>
-      <li>VERB-Part--NOUN-Acc (175)</li>
+      <li>VERB-Part--NOUN-Acc (174)</li>
       <li>VERB-Part--NOUN-Nom (3)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (22)</li>
@@ -1326,6 +1326,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Inf--NOUN-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -1343,5 +1344,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 39 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>cop:outer</a>, <a>csubj:cleft</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>csubj:reported</a>, <a>det:numgov</a>, <a>dislocated:ccomp</a>, <a>dislocated:csubj</a>, <a>dislocated:obj</a>, <a>dislocated:obl</a>, <a>flat:foreign</a>, <a>flat:gov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nmod:poss</a>, <a>nsubj:cleft</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>parataxis:reporting</a>, <a>xcomp:relcl</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>dislocated</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

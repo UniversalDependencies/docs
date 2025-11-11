@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-559 nodes (3%) are attached to their parents as `mark`.
+560 nodes (3%) are attached to their parents as `mark`.
 
-559 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.49731663685152.
+560 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.50178571428571.
 
-The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (250; 45% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (239; 43% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (19; 3% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (250; 45% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (239; 43% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (20; 4% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,7 +69,7 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9 1 mark	color:blue
 1	Because	because	SCONJ	IN	_	9	mark	9:mark	_
 2	series	series	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
-3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
+3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	flat	2:flat	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	6:advmod	_
 6	longer	long	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_

@@ -9,45 +9,46 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="ka_gnc-dep-det-poss.html">det:poss</a></tt>.
 
-340 nodes (2%) are attached to their parents as `det`.
+399 nodes (2%) are attached to their parents as `det`.
 
-339 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21176470588235.
+398 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19298245614035.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (237; 70% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (72; 21% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (9; 3% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (280; 70% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (85; 21% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	სეგედის	სეგედი	PROPN	N_Prop_Anthr_LastName_Dat_Dialect	Case=Dat|NameType=Prs	6	iobj	_	LMSeg:სეგედი
-2	ამ	ეს	PRON	Pron_Dem_Gen_Att	Case=Gen|PronType=Dem	3	det	_	LMSeg:ეს
-3	ფიგურის	ფიგურა	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	4	nmod	_	LMSeg:ფიგურ[ა]
-4	კეთება	კეთება	NOUN	N_VN_Dat_Sg_PP_PP:ში	Case=Dat|Number=Sing|VerbForm=Vnoun	6	obl	_	LMSeg:კეთებ[ა]/კეთ|SpaceAfter=No
-5	ში	_ში	ADP	Pp	_	4	case	_	LMSeg:_ში
-6	შევასწარი	შესწრება	VERB	V_Act_Aor_Pv_S:1Sg_DO:3_IO:3	Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=1|Tense=Past	0	root	_	LMSeg:შე·სწრებ[ა]/სწ[ა]რ|SpaceAfter=No
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	სტარტ	სტარტი	NOUN	N_Dat_Sg_PP_PP:ზე	Case=Dat|Number=Sing	6	obl	_	LMSeg:სტარტ·ი|SpaceAfter=No
+2	ზე	_ზე	ADP	Pp	_	1	case	_	LMSeg:_ზე
+3	ასეთ	ასეთი	PRON	Pron_Indef_Prox_Dat_Att	Case=Dat|PronType=Ind	4	det	_	LMSeg:ასეთ·ი
+4	ქარბუქს	ქარბუქი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	6	iobj	_	LMSeg:ქარბუქ·ი
+5	არ	არ	ADV	Adv_Neg	_	6	advmod:neg	_	LMSeg:არ
+6	მოვსწრებივარ	მოსწრება	VERB	V_Pass_Perf_Pv_S:1Sg_IO:3	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=1|Tense=PastPerf|VerbForm=Fin	0	root	_	LMSeg:მო·სწრებ[ა]/სწრ|SpaceAfter=No
 7	.	.	PUNCT	Punct_Period	_	6	punct	_	LMSeg:.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 det	color:blue
-1	ვცადე	ცდა	VERB	V_Act_Aor_S:1Sg_DO:3	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past	0	root	_	LMSeg:ცდ[ა]/ცად
-2	კიდეც	კიდეც	ADV	Adv_Foc	_	1	advmod	_	LMSeg:კიდეც|SpaceAfter=No
-3	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
-4	რამდენიმე	რამდენიმე	DET	A_Quant_Nom_Att	Case=Nom	5	det	_	LMSeg:რამდენიმე
-5	ფიგურა	ფიგურა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	7	obj	_	LMSeg:ფიგურ[ა]
-6	მაინც	მაინც	ADV	Adv_Foc	_	7	advmod	_	LMSeg:მაინც
-7	მეპოვნა	პოვნა	VERB	V_Act_PluPerf_S:1Sg_DO:3_Old	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pqp	1	ccomp	_	LMSeg:პოვნ[ა]/პოვ|SpaceAfter=No
-8	.	.	PUNCT	Punct_Period	_	1	punct	_	LMSeg:.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det	color:blue
+1	მერვე	მერვე	NUM	Num_Ord_Alpha_Dat_Att	Case=Dat|NumType=Ord	2	nummod	_	LMSeg:მერვ[ე]
+2	სართულ	სართული	NOUN	N_Dat_Sg_PP_PP:ზე	Case=Dat|Number=Sing	0	root	_	LMSeg:სართულ·ი|SpaceAfter=No
+3	ზე	_ზე	ADP	Pp	_	2	case	_	LMSeg:_ზე
+4	ვართ	ყოფნა	AUX	V_MedPass_Pres_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin	2	cop	_	LMSeg:ყოფნ[ა]/არ|SpaceAfter=No
+5	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
+6	მთელ	მთელი	DET	A_Quant_Dat_Att	Case=Dat	7	det	_	LMSeg:მთელ·ი
+7	ქალაქს	ქალაქი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	8	iobj	_	LMSeg:ქალაქ·ი
+8	დავყურებთ	დაყურება	VERB	V_Act_Pres_Pv_S:1Pl_IO:3	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	LMSeg:და·ყურებ[ა]/ყურ|SpaceAfter=No
+9	!	!	PUNCT	Punct_ExclPoint	_	2	punct	_	LMSeg:!
 
 ~~~
 
@@ -58,7 +59,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	მქონდა	ქონა	VERB	V_MedPass_Inv_Impf_S:1Sg_DO:3	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Imp|Voice=Inv	0	root	_	LMSeg:ქონ[ა]/ქონ
+1	მქონდა	ქონა	VERB	V_MedPass_Inv_Impf_S:1Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Imp|VerbForm=Fin|Voice=Inv	0	root	_	LMSeg:ქონ[ა]/ქონ
 2	რაღაც	რაღაც	PRON	Pron_Indef_Nonhum_Att	PronType=Ind	3	det	_	LMSeg:რაღაც
 3	ბუნდოვანი	ბუნდოვანი	ADJ	A_Nom_Sg	Case=Nom|Number=Sing	7	amod	_	LMSeg:ბუნდოვან·ი|SpaceAfter=No
 4	,	,	PUNCT	Punct_Comma	_	6	punct	_	LMSeg:,

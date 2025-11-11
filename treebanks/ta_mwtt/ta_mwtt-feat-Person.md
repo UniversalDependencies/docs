@@ -155,7 +155,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="ta_mwtt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (82; 63%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (71; 70%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (39; 56%),
-<tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj-nc.html">nsubj:nc</a></tt>]--> PROPN</tt> (20; 71%),
+<tt>VERB --[<tt><a href="ta_mwtt-dep-nsubj-nc.html">nsubj:nc</a></tt>]--> PROPN</tt> (20; 74%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (14; 82%),
 <tt>VERB --[<tt><a href="ta_mwtt-dep-obj.html">obj</a></tt>]--> PROPN</tt> (13; 76%),
 <tt>NOUN --[<tt><a href="ta_mwtt-dep-amod.html">amod</a></tt>]--> NOUN</tt> (9; 90%),

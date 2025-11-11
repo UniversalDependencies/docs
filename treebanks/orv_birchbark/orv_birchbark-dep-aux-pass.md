@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_birchbark-dep-aux.html">aux</a></tt>.
 
-3 nodes (0%) are attached to their parents as `aux:pass`.
+5 nodes (0%) are attached to their parents as `aux:pass`.
 
-3 instances of `aux:pass` (100%) are left-to-right (parent precedes child).
+5 instances of `aux:pass` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (5; 100% instances).
 
 
 ~~~ conllu

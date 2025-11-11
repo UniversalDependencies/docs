@@ -28,8 +28,8 @@ The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href
 4	луныс	лун	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj:cop	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	_
 6	—	—	PUNCT	_	_	8	punct	_	_
-7	ылӧстӧма	ылӧстны	VERB	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	advcl	_	_
-8	юаліс	юавны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	parataxis	_	_
+7	ылӧстӧма	ылӧстны	VERB	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	advcl	_	_
+8	юаліс	юавны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -61,7 +61,7 @@ The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	Тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj:cop	_	GTtags=Pers,Sg2,Nom
 2	али	али	CCONJ	_	_	3	cc	_	_
 3	ме	ме	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	GTtags=Pers,Sg1,Nom
-4	этö	этö	PRON	_	_	5	expl	_	_
+4	этö	этö	PRON	_	PronType=Dem	5	expl	_	_
 5	долженöсь	долженöсь	ADJ	_	_	0	root	_	_
 6	керны	керны	VERB	_	VerbForm=Inf	5	advcl	_	GTtags=Inf|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_

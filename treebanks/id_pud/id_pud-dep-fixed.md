@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 7 8 fixed	color:blue
 1	Yang	yang	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	belakangan	belakang	NOUN	_	Number=Sing	3	nsubj	_	_
-3	mengawasi	awas	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	mengawasi	awas	VERB	_	Voice=Act	0	root	_	_
 4	pemilihan	pilih	NOUN	_	Number=Sing	3	obj	_	_
 5	pendahuluan	dahulu	NOUN	_	Number=Sing	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	11	punct	_	_
@@ -32,7 +32,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 8	mana	mana	PRON	_	PronType=Dem	7	fixed	_	_
 9	Rachida	Rachida	PROPN	_	_	11	nsubj	_	_
 10	Dati	Dati	PROPN	_	_	9	flat:name	_	_
-11	mendukung	dukung	VERB	_	Mood=Ind|Voice=Act	4	acl	_	_
+11	mendukung	dukung	VERB	_	Voice=Act	4	acl	_	_
 12	pencalonan	calon	NOUN	_	Number=Sing	11	obj	_	_
 13	Nicolas	Nicolas	PROPN	_	_	12	nmod	_	_
 14	Sarkozy	Sarkozy	PROPN	_	_	13	flat:name	_	SpaceAfter=No
@@ -51,7 +51,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	dari	dari	ADP	_	_	1	fixed	_	_
 3	330	330	NUM	_	NumType=Card	4	nummod	_	_
 4	kru	kru	NOUN	_	Number=Sing	5	nsubj	_	_
-5	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	ada	ada	VERB	_	Voice=Act	0	root	_	_
 6	di	di	ADP	_	_	7	case	_	_
 7	kapal	kapal	NOUN	_	Number=Sing	5	obl	_	_
 8	itu	itu	DET	_	PronType=Dem	7	det	_	SpaceAfter=No

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Angelika Peljak-Łapińska, Daria Petrova, Yana Shishkina.
 
 Repository: [UD_Belarusian-HSE](https://github.com/UniversalDependencies/UD_Belarusian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbe_hse217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -988,7 +988,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(па) (2)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (7516)</li>
+      <li>VERB-Fin--NOUN-Nom (7517)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(а) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(на) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(па) (1)</li>
@@ -1031,7 +1031,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (21)</li>
       <li>VERB-Fin--NOUN-ADP(ад) (1)</li>
       <li>VERB-Fin--NOUN-ADP(да) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (5740)</li>
+      <li>VERB-Fin--NOUN-Acc (5738)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(а) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ад) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(да) (1)</li>
@@ -1043,7 +1043,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(праз) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(у) (7)</li>
       <li>VERB-Fin--NOUN-Dat (16)</li>
-      <li>VERB-Fin--NOUN-Gen (652)</li>
+      <li>VERB-Fin--NOUN-Gen (649)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ад) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(да) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(за) (10)</li>
@@ -1052,7 +1052,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(пад) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(пра) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(як) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (121)</li>
+      <li>VERB-Fin--NOUN-Ins (120)</li>
       <li>VERB-Fin--NOUN-Ins-ADP(з) (2)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(па) (1)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
@@ -1069,7 +1069,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(у) (2)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
-      <li>VERB-Inf--NOUN-Gen (107)</li>
+      <li>VERB-Inf--NOUN-Gen (105)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(да) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(за) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(каля) (2)</li>
@@ -1077,7 +1077,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Loc (1)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON-Acc (334)</li>
-      <li>VERB-Inf--PRON-Gen (29)</li>
+      <li>VERB-Inf--PRON-Gen (28)</li>
       <li>VERB-Inf--PRON-Ins (7)</li>
       <li>VERB-Part--NOUN-Acc (5)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
@@ -1103,8 +1103,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Dat (446)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(пра) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Ins (267)</li>
+      <li>VERB-Fin--NOUN-Gen (4)</li>
+      <li>VERB-Fin--NOUN-Ins (268)</li>
       <li>VERB-Fin--PRON-Dat (453)</li>
       <li>VERB-Fin--PRON-Dat-ADP(дзякуючы) (4)</li>
       <li>VERB-Fin--PRON-Dat-ADP(к) (1)</li>
@@ -1113,10 +1113,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Loc (1)</li>
       <li>VERB-Inf--NOUN-Dat (103)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(па) (1)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Inf--NOUN-Gen (3)</li>
       <li>VERB-Inf--NOUN-Ins (78)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON-Dat (83)</li>
+      <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Ins (7)</li>
       <li>VERB-Inf--PRON-Loc (1)</li>
       <li>VERB-Part--NOUN-Dat (79)</li>

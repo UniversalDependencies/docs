@@ -12,20 +12,20 @@ It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 2817 tokens (11%) have a non-empty value of `Tense`.
 1149 types (19%) occur at least once with a non-empty value of `Tense`.
 565 lemmas (12%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1832; 7% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (981; 4% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1831; 7% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (982; 4% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-1832 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Tense`.
+1831 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (81% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1335; 73%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (996; 54%), <tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (931; 51%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (931; 51%), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (931; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1335; 73%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (995; 54%), <tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (930; 51%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (930; 51%), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (930; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (28; 2% of non-empty `Tense`): <em>aura, devra, pourront, sera, accueillera, assisteront, augmentera, commercialiseront, concentrerons, continuera</em>
 * `Imp` (164; 9% of non-empty `Tense`): <em>avait, était, étaient, pouvait, comprenait, pensait, avaient, considérait, faisait, allait</em>
-* `Past` (925; 50% of non-empty `Tense`): <em>eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, reçu, utilisé</em>
-* `Pres` (715; 39% of non-empty `Tense`): <em>a, est, peut, pourrait, peuvent, sont, ont, pourraient, dit, va</em>
+* `Past` (925; 51% of non-empty `Tense`): <em>eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, reçu, utilisé</em>
+* `Pres` (714; 39% of non-empty `Tense`): <em>a, est, peut, pourrait, peuvent, sont, ont, pourraient, dit, va</em>
 * `EMPTY` (422): <em>faire, avoir, voir, devenir, partir, produire, aider, créer, donner, envoyer</em>
 
 <table>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-981 <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
+982 <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (875; 89%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (850; 87%), <tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (841; 86%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (745; 76%).
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 * `Fut` (5; 1% of non-empty `Tense`): <em>sera, seront</em>
 * `Imp` (130; 13% of non-empty `Tense`): <em>était, avait, avaient, étaient, avais, faisaient, faisait, étais, étions</em>
 * `Past` (140; 14% of non-empty `Tense`): <em>été, fut, furent, eut, fait</em>
-* `Pres` (706; 72% of non-empty `Tense`): <em>a, est, ont, sont, ai, aient, soit, auraient, aurait, serait</em>
+* `Pres` (707; 72% of non-empty `Tense`): <em>a, est, ont, sont, ai, aient, soit, auraient, aurait, serait</em>
 * `EMPTY` (47): <em>être, avoir, faire</em>
 
 <table>
@@ -66,7 +66,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sont</em></td><td><em>seront</em></td><td><em>furent</em></td><td><em>étaient</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>soit</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>soient, fussent</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>étant</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>étant, Etant</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `ADJ`

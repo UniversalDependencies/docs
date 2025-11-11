@@ -17,40 +17,34 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 obl:agent	color:blue
-1	Sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
-2	ǁama-ao-i	ǁama-ao	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obl:agent	5:obl:agent	_
-3	xa	xa	ADP	_	_	2	case	2:case	_
-4	ra	ra	AUX	IPFV	Aspect=Imp	5	aux	5:aux	_
-5	ǂnoabahe	ǂnoaba	VERB	_	Voice=Pass	0	root	0:root	_
-6	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	5:nsubj:pass	_
-7	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 obl:agent	color:blue
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	dīsi	dīsi	NUM	_	NumType=Card	4	nummod	4:nummod	_
+4	eurogu	euro	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obl:agent	6:obl:agent	_
+5	xa	xa	ADP	_	_	4	case	4:case	_
+6	ǃgaubahe	ǃgau	VERB	_	Voice=ApplPass	0	root	0:root	_
+7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpacesAfter=\n
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 4 obl:agent	color:blue
-1	ǀGaib	ǀgai	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	12:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	12	aux	12:aux	_
-3	ǀgui	ǀgui	NUM	_	NumType=Card	9	nummod	9:nummod	_
-4	Pratt	Pratt	PROPN	_	_	12	obl:agent	12:obl:agent	_
-5	tsî	tsî	CCONJ	_	_	6	cc	6:cc	_
-6	Whitney	Whitney	PROPN	_	_	4	conj	4:conj	_
-7	J57	J57	PROPN	_	_	4	flat:name	4:flat:name	_
-8	P-37	P-37	PROPN	_	_	4	flat:name	4:flat:name	_
-9	engine	engine	NOUN	_	_	4	flat:name	4:flat:name	_
-10	xa	xa	ADP	_	_	4	case	4:case	_
-11	ra	ra	AUX	IPFV	Aspect=Imp	12	aux	12:aux	_
-12	māhe	mā	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 obl:agent	color:blue
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Marias	Maria	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obl:agent	6:obl:agent	_
+4	xa	xa	ADP	_	_	3	case	3:case	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	mîǁamhe	mîǁam	VERB	_	Voice=Pass	0	root	0:root	SpacesAfter=\n
 
 ~~~
 

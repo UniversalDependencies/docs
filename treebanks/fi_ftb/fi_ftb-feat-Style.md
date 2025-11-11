@@ -18,7 +18,7 @@ The feature is used with 14 part-of-speech tags: <tt><a href="fi_ftb-pos-PRON.ht
 
 883 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (807; 91%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (724; 82%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (524; 59%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt> (478; 54%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (807; 91%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (741; 84%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (524; 59%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=1</tt> (478; 54%).
 
 `PRON` tokens may have the following values of `Style`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PRON` and `Style` co-occurred
 
 880 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (793; 90%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (768; 87%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (708; 80%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (596; 68%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (596; 68%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (593; 67%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (472; 54%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (454; 52%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (793; 90%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (768; 87%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (708; 80%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (596; 68%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (596; 68%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (593; 67%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (472; 54%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (456; 52%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `DET` and `Style` co-occurred:
 
 257 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (250; 97%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (239; 93%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (229; 89%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (195; 76%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (149; 58%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (132; 51%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (250; 97%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (239; 93%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (229; 89%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (195; 76%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (177; 69%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (132; 51%).
 
 `AUX` tokens may have the following values of `Style`:
 

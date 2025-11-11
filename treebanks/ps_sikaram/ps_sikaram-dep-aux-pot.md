@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-aux.html">aux</a></tt>.
 There are also 5 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="ps_sikaram-dep-aux-fut.html">aux:fut</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>.
 
-18 nodes (1%) are attached to their parents as `aux:pot`.
+26 nodes (1%) are attached to their parents as `aux:pot`.
 
-12 instances of `aux:pot` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+17 instances of `aux:pot` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.07692307692308.
 
-The following 1 pairs of parts of speech are connected with `aux:pot`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (18; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pot`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (26; 100% instances).
 
 
 ~~~ conllu

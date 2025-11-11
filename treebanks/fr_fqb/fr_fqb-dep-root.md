@@ -11,9 +11,9 @@ This relation is universal.
 2289 nodes (10%) are attached to their parents as `root`.
 
 2289 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.43381389252949.
+Average distance between parent and child is 3.42988204456094.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1366; 60% instances), -<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (538; 24% instances), -<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (187; 8% instances), -<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (178; 8% instances), -<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (20; 1% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1366; 60% instances), -<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (538; 24% instances), -<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (188; 8% instances), -<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (178; 8% instances), -<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (19; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	Puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	-je	il	PRON	_	Number=Sing|Person=1	1	nsubj	_	_
+2	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	avoir	avoir	VERB	_	VerbForm=Inf	1	xcomp	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	aide	aide	NOUN	_	Number=Sing	3	obj	_	_
@@ -62,13 +62,13 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1	4	nsubj	_	_
+1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	en	en	ADP	_	_	4	case	_	_
 4	colocation	colocation	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
-7	-je	il	PRON	_	Number=Sing|Person=1	6	nsubj	_	_
+7	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 8	bénéficier	bénéficier	VERB	_	VerbForm=Inf	6	xcomp	_	_
 9	d'	de	ADP	_	_	11	case	_	SpaceAfter=No
 10	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_

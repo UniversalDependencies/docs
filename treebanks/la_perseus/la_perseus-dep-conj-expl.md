@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_perseus-dep-conj.html">conj</a></tt>.
 
-8 nodes (0%) are attached to their parents as `conj:expl`.
+9 nodes (0%) are attached to their parents as `conj:expl`.
 
-8 instances of `conj:expl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.375.
+9 instances of `conj:expl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.44444444444444.
 
-The following 6 pairs of parts of speech are connected with `conj:expl`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (3; 38% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 13% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
+The following 7 pairs of parts of speech are connected with `conj:expl`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (3; 33% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -62,57 +62,26 @@ The following 6 pairs of parts of speech are connected with `conj:expl`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 15 conj:expl	color:blue
-1	Conveniunt	convenio	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=convenio1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-2	illuc	illic	ADV	d--------	_	1	advmod	_	LId=illic1
-3	popularia	popularis	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	amod	_	LId=popularis1
-4	flumina	flumen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	LId=flumen1
-5	primum	primus	ADV	d--------	_	1	advmod	_	SpaceAfter=No|LId=primus1
-6	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
-7	nescia	nescius	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	amod	_	SpaceAfter=No|LId=nescius1
-8	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
-9	gratentur	grator	VERB	v3ppsp---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	ccomp	_	LId=grator1|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-10	ne	ne	SCONJ	c--------	_	11	cc	_	LId=ne1
-11	consolentur	consolor	VERB	v3ppsp---	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	conj	_	LId=consolor1|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-12	parentem	parens	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No|LId=parens2
-13	,	,	PUNCT	u--------	_	7	punct	_	LId=comma1
-14	populifer	populifer	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	LId=populifer1
-15	Sperchios	Spercheos	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	conj:expl	_	LId=Spercheos1
-16	et	et	CCONJ	c--------	_	18	cc	_	LId=et1
-17	inrequietus	irrequietus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	amod	_	LId=irrequietus1
-18	Enipeus	Enipeus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Enipeus1
-19	Apidanus	Apidanus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	_
-20	que	que	CCONJ	c--------	_	19	cc	_	LId=que1
-21	senex	senex	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	amod	_	LId=senex1
-22	lenis	lenis	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	24	amod	_	_
-23	que	que	CCONJ	c--------	_	22	cc	_	LId=que1
-24	Amphrysos	Amphrysus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	LId=Amphrysus1
-25	et	et	CCONJ	c--------	_	26	cc	_	LId=et1
-26	Aeas	Aeas	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No|LId=Aeas1
-27	,	,	PUNCT	u--------	_	28	punct	_	LId=comma1
-28	mox	mox	ADV	d--------	_	30	advmod	_	_
-29	que	que	CCONJ	c--------	_	28	cc	_	LId=que1
-30	amnes	amnis	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	LId=amnis1
-31	alii	alius	DET	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur|PronType=Con	30	det	_	SpaceAfter=No|LId=alius2
-32	,	,	PUNCT	u--------	_	33	punct	_	LId=comma1
-33	qui	qui	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	42	nsubj	_	SpaceAfter=No|LId=quis2
-34	,	,	PUNCT	u--------	_	33	punct	_	LId=comma1
-35	qua	qua	ADV	d--------	AdvType=Loc	36	advmod:lmod	_	LId=qua1
-36	tulit	fero	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	42	advcl	_	LId=fero1|TraditionalMood=Indicativus|TraditionalTense=Perfectum
-37	impetus	impetus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	LId=impetus1
-38	illos	ille	DET	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	36	obj	_	SpaceAfter=No|LId=ille1
-39	,	,	PUNCT	u--------	_	36	punct	_	LId=comma1
-40	in	in	ADP	r--------	_	41	case	_	LId=in1
-41	mare	mare	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	42	obl	_	LId=mare1
-42	deducunt	deduco	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	acl:relcl	_	LId=deduco1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-43	fessas	fessus	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	45	amod	_	LId=fessus1
-44	erroribus	error	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	42	obl	_	LId=error1
-45	undas	unda	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	42	obj	_	SpaceAfter=No|LId=unda1
-46	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 conj:expl	color:blue
+1	et	et	CCONJ	c--------	_	2	cc	_	LId=et1
+2	audivi	audio	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=audio1|TraditionalMood=Indicativus|TraditionalTense=Perfectum
+3	numerum	numerus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	LId=numerus1
+4	signatorum	signator	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	LId=signator1
+5	centum	centum	NUM	m--------	NumForm=Word|NumType=Card	8	nummod	_	LId=centum1
+6	quadraginta	quadraginta	NUM	m--------	NumForm=Word|NumType=Card	5	flat	_	LId=quadraginta1
+7	quattuor	quattuor	NUM	m--------	NumForm=Word|NumType=Card	6	flat	_	LId=quattuor1
+8	milia	mille	NUM	m--------	NumForm=Word|NumType=Card	3	conj:expl	_	LId=mille1
+9	signati	signo	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	8	amod	_	LId=signo1|TraditionalMood=Participium|TraditionalTense=Perfectum
+10	ex	ex	ADP	r--------	_	12	case	_	LId=ex1
+11	omni	omnis	DET	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing|PronType=Tot	12	det	_	LId=omnis1
+12	tribu	tribus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	LId=tribus1
+13	filiorum	filius	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	LId=filius1
+14	Israhel	Israhel	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No|LId=Israhel1
+15	:	:	PUNCT	u--------	_	2	punct	_	LId=punc1
 
 ~~~
 

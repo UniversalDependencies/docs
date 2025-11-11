@@ -6,36 +6,32 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `SCONJ`
 
-There are 17 `SCONJ` lemmas (0%), 17 `SCONJ` types (0%) and 364 `SCONJ` tokens (2%).
+There are 17 `SCONJ` lemmas (0%), 17 `SCONJ` types (0%) and 384 `SCONJ` tokens (2%).
 Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>att, som, när, om, än, medan, då, eftersom, innan, fastän</em>
+The 10 most frequent `SCONJ` lemmas: <em>att, som, när, än, om, medan, då, eftersom, innan, fastän</em>
 
-The 10 most frequent `SCONJ` types:  <em>att, som, när, om, än, medan, då, eftersom, innan, fastän</em>
+The 10 most frequent `SCONJ` types:  <em>att, som, när, än, om, medan, då, eftersom, innan, fastän</em>
 
-The 10 most frequent ambiguous lemmas: <em>att</em> (<tt><a href="sv_pud-pos-PART.html">PART</a></tt> 313, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 139), <em>som</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 236, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 87, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 39, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 10), <em>när</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 4), <em>om</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 22), <em>än</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5), <em>då</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3), <em>sedan</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 2), <em>fast</em> (<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>förrän</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>så</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 40, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>att</em> (<tt><a href="sv_pud-pos-PART.html">PART</a></tt> 313, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 139), <em>som</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 238, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 89, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 39, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 6), <em>än</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 31, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5), <em>om</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 22), <em>då</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3), <em>sedan</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 2), <em>fast</em> (<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>förrän</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>så</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 40, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_pud-pos-PART.html">PART</a></tt> 312, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 139), <em>som</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 236, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 83, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 34, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 10), <em>när</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 4), <em>om</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 62, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17), <em>än</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5), <em>då</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3), <em>sedan</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Fast</em> (<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>förrän</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>så</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 36, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_pud-pos-PART.html">PART</a></tt> 312, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 139), <em>som</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 238, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 34, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 6), <em>än</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 31, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5), <em>om</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 62, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17), <em>då</em> (<tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3), <em>sedan</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 5, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Fast</em> (<tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>förrän</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>så</em> (<tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 36, <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 5, <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>att</em>
   * <tt><a href="sv_pud-pos-PART.html">PART</a></tt> 312: <em>Det finns paralleller <b>att</b> dra här mellan spel och våra vardagsliv .</em>
   * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 139: <em>Det är anledningen till <b>att</b> vi kommer tillbaka för att få mer .</em>
 * <em>som</em>
-  * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 236: <em>5 000 dollar per person , det högsta belopp <b>som</b> tillåts .</em>
-  * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 83: <em>Det är <b>som</b> en superkraft ibland .</em>
+  * <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 238: <em>5 000 dollar per person , det högsta belopp <b>som</b> tillåts .</em>
+  * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 85: <em>Det är <b>som</b> en superkraft ibland .</em>
   * <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 34: <em>Han var ytterst nådig och tog det <b>som</b> en karl , jag är bortom ursinnig .</em>
-  * <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 10: <em>Privat såväl <b>som</b> offentligt sökte Springer energiskt försoning med det judiska folket och företog många resor till Israel .</em>
-* <em>när</em>
-  * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 30: <em>Med detta kan du , i teorin , komma åt dina pengar <b>när</b> du än vill .</em>
-  * <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 4: <em>Konstnärer når människor i deras hjärtan , det är den enda gången <b>när</b> vi möts på en plats och lägger våra meningsskiljaktigheter åt sidan .</em>
+  * <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Privat såväl <b>som</b> offentligt sökte Springer energiskt försoning med det judiska folket och företog många resor till Israel .</em>
+* <em>än</em>
+  * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 31: <em>Våra mobiltelefoner är så mycket mer <b>än</b> telefoner numera .</em>
+  * <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5: <em>Med detta kan du , i teorin , komma åt dina pengar när du <b>än</b> vill .</em>
 * <em>om</em>
   * <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 62: <em>Detta är en fråga <b>om</b> inrikes säkerhet av det mest existentiella slaget .</em>
   * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Jag undrar också <b>om</b> Davis Cup spelade in .</em>
-* <em>än</em>
-  * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Fler <b>än</b> 330 besättningsmän är ombord på skeppet .</em>
-  * <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 14: <em>Våra mobiltelefoner är så mycket mer <b>än</b> telefoner numera .</em>
-  * <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 5: <em>Med detta kan du , i teorin , komma åt dina pengar när du <b>än</b> vill .</em>
 * <em>då</em>
   * <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> 8: <em>Kanske spelar det ingen roll <b>då</b> jag inte kommer oroas särskilt länge .</em>
   * <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> 3: <em>Och vad är <b>då</b> Australiens ståndpunkt ?</em>
@@ -56,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_pud-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.245991).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.245113).
 
 The 1st highest number of forms (1) was observed with the lemma “att”: <em>att</em>.
 
@@ -64,28 +60,28 @@ The 2nd highest number of forms (1) was observed with the lemma “då”: <em>d
 
 The 3rd highest number of forms (1) was observed with the lemma “eftersom”: <em>eftersom</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (46; 13% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`SCONJ` occurs with 3 features: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (50; 13% instances), <tt><a href="sv_pud-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 2 feature-value pairs: `Foreign=Yes`, `PronType=Int,Rel`
+`SCONJ` occurs with 3 feature-value pairs: `ExtPos=ADV`, `Foreign=Yes`, `PronType=Int,Rel`
 
-`SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (317 tokens).
-Examples: <em>att, som, om, än, medan, eftersom, innan, fastän, huruvida, då</em>
+`SCONJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (332 tokens).
+Examples: <em>att, som, än, om, medan, eftersom, innan, fastän, huruvida, då</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (351; 96% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (13; 4% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (355; 92% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (28; 7% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (225; 62% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (89; 24% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (21; 6% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (14; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (229; 60% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (98; 26% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (18; 5% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances)
 
-360 (99%) `SCONJ` nodes are leaves.
+379 (99%) `SCONJ` nodes are leaves.
 
-4 (1%) `SCONJ` nodes have one child.
+5 (1%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 75% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 25% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 60% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 20% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (1; 20% instances)
 
-Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (4; 100% instances)
+Children of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (5; 100% instances)
 

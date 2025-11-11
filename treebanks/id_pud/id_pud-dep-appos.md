@@ -24,9 +24,9 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4 9 appos	color:blue
 1	Kemudian	kemudian	ADV	_	_	3	advmod	_	_
 2	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	menghadapi	hadap	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	menghadapi	hadap	VERB	_	Voice=Act	0	root	_	_
 4	juara	juara	NOUN	_	Number=Sing	3	obj	_	_
-5	bertahan	tahan	VERB	_	Mood=Ind|Voice=Act	4	acl	_	_
+5	bertahan	tahan	VERB	_	Voice=Act	4	acl	_	_
 6	dan	dan	CCONJ	_	_	7	cc	_	_
 7	pemain	main	NOUN	_	Number=Sing	4	conj	_	_
 8	top	top	ADJ	_	_	7	amod	_	_
@@ -34,7 +34,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 10	Errani	Errani	PROPN	_	_	9	flat:name	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	namun	namun	CCONJ	_	_	13	cc	_	_
-13	kalah	kalah	VERB	_	Mood=Ind|Voice=Act	3	conj	_	SpaceAfter=No
+13	kalah	kalah	VERB	_	Voice=Act	3	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	tentu	tentu	ADV	_	_	6	advmod	_	_
 4	saja	saja	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
-6	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	ada	ada	VERB	_	Voice=Act	0	root	_	_
 7	Bob	Bob	PROPN	_	_	6	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	sumber	sumber	NOUN	_	Number=Sing	7	appos	_	_

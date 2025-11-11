@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya.
 
 Repository: [UD_Old_East_Slavic-Birchbark](https://github.com/UniversalDependencies/UD_Old_East_Slavic-Birchbark)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_birchbark216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_birchbark217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,17 +88,17 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 
 ## Features
 
-[Analyt](orv_birchbark-feat-Analyt.html) – [Animacy](orv_birchbark-feat-Animacy.html) – [Case](orv_birchbark-feat-Case.html) – [Clitic](orv_birchbark-feat-Clitic.html) – [Degree](orv_birchbark-feat-Degree.html) – [ExtPos](orv_birchbark-feat-ExtPos.html) – [Gender](orv_birchbark-feat-Gender.html) – [Mood](orv_birchbark-feat-Mood.html) – [NameType](orv_birchbark-feat-NameType.html) – [Number](orv_birchbark-feat-Number.html) – [NumForm](orv_birchbark-feat-NumForm.html) – [NumType](orv_birchbark-feat-NumType.html) – [Person](orv_birchbark-feat-Person.html) – [Poss](orv_birchbark-feat-Poss.html) – [PronType](orv_birchbark-feat-PronType.html) – [Reflex](orv_birchbark-feat-Reflex.html) – [Tense](orv_birchbark-feat-Tense.html) – [Typo](orv_birchbark-feat-Typo.html) – [Variant](orv_birchbark-feat-Variant.html) – [VerbForm](orv_birchbark-feat-VerbForm.html) – [Voice](orv_birchbark-feat-Voice.html)
+[Analyt](orv_birchbark-feat-Analyt.html) – [Animacy](orv_birchbark-feat-Animacy.html) – [Case](orv_birchbark-feat-Case.html) – [Clitic](orv_birchbark-feat-Clitic.html) – [Degree](orv_birchbark-feat-Degree.html) – [ExtPos](orv_birchbark-feat-ExtPos.html) – [Fragment](orv_birchbark-feat-Fragment.html) – [Gender](orv_birchbark-feat-Gender.html) – [Mood](orv_birchbark-feat-Mood.html) – [NameType](orv_birchbark-feat-NameType.html) – [Number](orv_birchbark-feat-Number.html) – [NumForm](orv_birchbark-feat-NumForm.html) – [NumType](orv_birchbark-feat-NumType.html) – [Person](orv_birchbark-feat-Person.html) – [Polarity](orv_birchbark-feat-Polarity.html) – [Poss](orv_birchbark-feat-Poss.html) – [PronType](orv_birchbark-feat-PronType.html) – [Reflex](orv_birchbark-feat-Reflex.html) – [Tense](orv_birchbark-feat-Tense.html) – [Typo](orv_birchbark-feat-Typo.html) – [Variant](orv_birchbark-feat-Variant.html) – [VerbForm](orv_birchbark-feat-VerbForm.html) – [Voice](orv_birchbark-feat-Voice.html)
 
 ## Relations
 
-[acl](orv_birchbark-dep-acl.html) – [acl:relcl](orv_birchbark-dep-acl-relcl.html) – [advcl](orv_birchbark-dep-advcl.html) – [advmod](orv_birchbark-dep-advmod.html) – [amod](orv_birchbark-dep-amod.html) – [appos](orv_birchbark-dep-appos.html) – [aux](orv_birchbark-dep-aux.html) – [aux:pass](orv_birchbark-dep-aux-pass.html) – [case](orv_birchbark-dep-case.html) – [cc](orv_birchbark-dep-cc.html) – [ccomp](orv_birchbark-dep-ccomp.html) – [compound](orv_birchbark-dep-compound.html) – [conj](orv_birchbark-dep-conj.html) – [cop](orv_birchbark-dep-cop.html) – [csubj](orv_birchbark-dep-csubj.html) – [dep](orv_birchbark-dep-dep.html) – [det](orv_birchbark-dep-det.html) – [dislocated](orv_birchbark-dep-dislocated.html) – [expl](orv_birchbark-dep-expl.html) – [fixed](orv_birchbark-dep-fixed.html) – [flat](orv_birchbark-dep-flat.html) – [flat:name](orv_birchbark-dep-flat-name.html) – [goeswith](orv_birchbark-dep-goeswith.html) – [iobj](orv_birchbark-dep-iobj.html) – [list](orv_birchbark-dep-list.html) – [mark](orv_birchbark-dep-mark.html) – [nmod](orv_birchbark-dep-nmod.html) – [nsubj](orv_birchbark-dep-nsubj.html) – [nsubj:pass](orv_birchbark-dep-nsubj-pass.html) – [nummod](orv_birchbark-dep-nummod.html) – [nummod:gov](orv_birchbark-dep-nummod-gov.html) – [obj](orv_birchbark-dep-obj.html) – [obl](orv_birchbark-dep-obl.html) – [obl:agent](orv_birchbark-dep-obl-agent.html) – [orphan](orv_birchbark-dep-orphan.html) – [parataxis](orv_birchbark-dep-parataxis.html) – [punct](orv_birchbark-dep-punct.html) – [reparandum](orv_birchbark-dep-reparandum.html) – [root](orv_birchbark-dep-root.html) – [vocative](orv_birchbark-dep-vocative.html) – [xcomp](orv_birchbark-dep-xcomp.html)
+[acl](orv_birchbark-dep-acl.html) – [acl:relcl](orv_birchbark-dep-acl-relcl.html) – [advcl](orv_birchbark-dep-advcl.html) – [advmod](orv_birchbark-dep-advmod.html) – [amod](orv_birchbark-dep-amod.html) – [appos](orv_birchbark-dep-appos.html) – [aux](orv_birchbark-dep-aux.html) – [aux:pass](orv_birchbark-dep-aux-pass.html) – [case](orv_birchbark-dep-case.html) – [cc](orv_birchbark-dep-cc.html) – [ccomp](orv_birchbark-dep-ccomp.html) – [compound](orv_birchbark-dep-compound.html) – [conj](orv_birchbark-dep-conj.html) – [cop](orv_birchbark-dep-cop.html) – [csubj](orv_birchbark-dep-csubj.html) – [dep](orv_birchbark-dep-dep.html) – [det](orv_birchbark-dep-det.html) – [dislocated](orv_birchbark-dep-dislocated.html) – [expl](orv_birchbark-dep-expl.html) – [fixed](orv_birchbark-dep-fixed.html) – [flat](orv_birchbark-dep-flat.html) – [flat:name](orv_birchbark-dep-flat-name.html) – [goeswith](orv_birchbark-dep-goeswith.html) – [iobj](orv_birchbark-dep-iobj.html) – [list](orv_birchbark-dep-list.html) – [mark](orv_birchbark-dep-mark.html) – [nmod](orv_birchbark-dep-nmod.html) – [nsubj](orv_birchbark-dep-nsubj.html) – [nsubj:pass](orv_birchbark-dep-nsubj-pass.html) – [nummod](orv_birchbark-dep-nummod.html) – [nummod:gov](orv_birchbark-dep-nummod-gov.html) – [obj](orv_birchbark-dep-obj.html) – [obl](orv_birchbark-dep-obl.html) – [obl:agent](orv_birchbark-dep-obl-agent.html) – [obl:float](orv_birchbark-dep-obl-float.html) – [orphan](orv_birchbark-dep-orphan.html) – [parataxis](orv_birchbark-dep-parataxis.html) – [punct](orv_birchbark-dep-punct.html) – [reparandum](orv_birchbark-dep-reparandum.html) – [root](orv_birchbark-dep-root.html) – [vocative](orv_birchbark-dep-vocative.html) – [xcomp](orv_birchbark-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 3114 sentences and 27269 tokens.</li>
+<li>This corpus contains 3184 sentences and 27907 tokens.</li>
 </ul>
 
 <ul>
@@ -110,7 +110,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
-<li>This corpus contains 4706 types of words that contain both letters and punctuation. Examples: ·в҃·, ·г҃·, :в҃:, :в:, ·г·, (ѿ), :г҃:, [а], ·ӏ҃·, (ѿ, [и, …а, …и, :е҃:, ·в·, а], :д҃:, ·д҃·, [ѿ], ·е҃·, [и], :ꙅ҃:, [а, ·е·, ·ѳ҃·, в…, н…, :е:, :ꙅ:, и], к[ъ], м…, (а, (къ), (ѹ), ·к·, ·ꙅ҃·, н[е], ѿ), …ъ, (и, (на), ·и҃·, ·ӏ·, п…, …е, (а), :г:, :з҃:, :ѕ҃:</li>
+<li>This corpus contains 4825 types of words that contain both letters and punctuation. Examples: ·в҃·, ·г҃·, :в҃:, :в:, ·г·, ·ӏ҃·, (ѿ), [а], :г҃:, …и, (ѿ, [и, …а, :е҃:, ·в·, а], :д҃:, [ѿ], ·д҃·, [и], ·е҃·, в…, :ꙅ҃:, [а, ·е·, ·ѳ҃·, н…, (а, :е:, :ꙅ:, и], к[ъ], м…, (къ), (на), (ѹ), ·к·, ·ꙅ҃·, н[е], ѿ), …ъ, (и, :г:, [н]а, ·и҃·, ·ӏ·, п…, …е, (а), :з҃:</li>
 </ul>
 
 <ul>
@@ -125,19 +125,19 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
-<li>This corpus contains 81 word types tagged as particles (PART): (н)[е], (н)е, (не, (с)[е], (с)е, (т)[и], -е, [ли, [н](е), [н]е, [н]и, [н]ѣ, [не, [не], [нь], [се, [сь, [т]и, [ти, бꙑ, васидъпизд[ъ]…, да, ж, ж(е, ж(е), ж[е], ж], же, жи, жо, жь, зе, зь, и, ка, ли, ли), ли], ль, лю·бо, любо, н(е), н<lbr/>е, н[е, н[е], н[и, н[ь, н[ь], не, не], ни, нь, нѣ, ото, па(къ, пако, пакъ, пакꙑ, пусти, се, се], си, сь, т)и, т[и, т[и], т]и, те, ти, ти<lbr/>…, ти…, то, толико, тъ, ть, хот[ѧ], хотѧ, ци, ѣда, …<lbr/>же, …ти</li>
+<li>This corpus contains 83 word types tagged as particles (PART): (н)[е], (н)е, (не, (с)[е], (с)е, (т)[и], -е, [ли, [н](е), [н]е, [н]и, [н]ѣ, [не, [не], [нь], [се, [си], [сь, [т]и, [ти, бꙑ, васидъпизд[ъ]…, да, ж, ж(е, ж(е), ж[е], ж], же, жи, жо, жь, зе, зь, и, ка, ли, ли), ли], ль, лю·бо, любо, н(е), н<lbr/>е, н[е, н[е], н[и, н[ь, н[ь], не, не), не], ни, нь, нѣ, ото, па(къ, пако, пакъ, пакꙑ, пусти, се, се], си, сь, т)и, т[и, т[и], т]и, те, ти, ти<lbr/>…, ти…, то, толико, тъ, ть, хот[ѧ], хотѧ, ци, ѣда, …<lbr/>же, …ти</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as pronouns (PRON): азъ, вы, вѣ, и, иже, кто, мы, ничто, себе, себя, сѧ, то, ты, что, чьто, ꙗ, ꙗзъ</li>
+<li>This corpus contains 20 lemmas tagged as pronouns (PRON): азъ, вы, вѣ, и, иже, кто, мы, никто, ничто, ничтоже, себе, себя, сѧ, то, ты, что, чьто, ӏ(хъ, ꙗ, ꙗзъ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 36 lemmas tagged as determiners (DET): азъ, вашь, весь, вохъ, всѧкии, всѧкыи, вы, другыи, же, и, иже, иныи, какыи, которыи, кыи, мои, нашь, никои, никто, ничто, нѣкто, нѣчто, онъ, самъ, свои, сеи, сь, такъ, такыи, твои, то, тотъ, ты, чии, что, ꙗзъ</li>
+<li>This corpus contains 37 lemmas tagged as determiners (DET): _, азъ, вашь, весь, вохъ, всѧкии, всѧкыи, вы, другыи, же, и, иже, иныи, какыи, которыи, кыи, мои, нашь, никои, никто, ничто, нѣкто, нѣчто, онъ, самъ, свои, сеи, сь, такъ, такыи, твои, то, тотъ, ты, чии, что, ꙗзъ</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: азъ, вы, и, иже, ничто, то, ты, что, ꙗзъ</li>
+<li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: азъ, вы, и, иже, никто, ничто, то, ты, что, ꙗзъ</li>
 </ul>
 
 <ul>
@@ -156,7 +156,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Fin
   <ul>
     <li>AUX: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, ѥсме, есме</li>
-    <li>VERB: даи, возми, възьми, пришли, посли, присъли, иди, кланѧюсѧ, купи, молови</li>
+    <li>VERB: возми, даи, възьми, пришли, посли, присъли, иди, кланѧюсѧ, купи, молови</li>
   </ul>
   </li>
 </ul>
@@ -164,7 +164,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: дати, ѧти, взѧти, возѧти, възѧти, дать, ити, взѧть, давати, давать</li>
+    <li>VERB: дати, ѧти, взѧти, дать, возѧти, възѧти, ити, взѧть, давати, давать</li>
   </ul>
   </li>
 </ul>
@@ -180,8 +180,8 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>PartRes
   <ul>
-    <li>AUX: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, ·є·смꙑ, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли, бꙑл</li>
-    <li>VERB: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, бꙑло, велѣлъ</li>
+    <li>AUX: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, [бꙑ]ло, б(ꙑло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли</li>
+    <li>VERB: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, взѧлъ, бꙑло</li>
   </ul>
   </li>
 </ul>
@@ -199,10 +199,10 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
       <li>ADJ: ст҃ѣ, бѣлонога, дворнюю, десѧтаꙗ, добре, другую, новаѧ, пуста, пѧте, пѧть</li>
       <li>AUX-PartRes: бꙑла</li>
       <li>DET: моѧ, свою, мою, ту, моѥи, сама, своеи, твоѧ, моѥӏ, своѥи</li>
-      <li>NOUN: ржи, кѹно, соли, кѹнъ, грамота, гривьнѣ, гривьнъ, рожи, гривено, гривна</li>
+      <li>NOUN: ржи, кѹно, соли, грамота, кѹнъ, гривьнѣ, гривьнъ, рожи, гривено, гривна</li>
       <li>NUM: три, двь, дви, дове, двѣ, дъвѣ, две, дови, полутори, в҃е</li>
       <li>PRON: ю, ее, …<lbr/>ю, е<lbr/>и, е]ѥ, еи, еѣ, єи, ѥи, ѥӏ</li>
-      <li>PROPN: мариѧ, ѧна, маренѣ, настасиѧ, куролѣ, лаидиколѣ, лугу, марие, мароѳу, милославь</li>
+      <li>PROPN: мариѧ, ѧна, маренѣ, настасиѧ, анѣ, куролѣ, лаидиколѣ, лугу, марие, мароѳу</li>
       <li>VERB-Part: пеюци, (се)[д]ѧци, [ѿ](им)ана, възьмъши, дан<lbr/>…, дана, дьланаꙗ, едѹц, едѹци, енюци</li>
       <li>VERB-PartRes: дала, задѣла, рекла, ѧла, (-)шьла, -----ила, [бꙑл]а, Рѣкла, б<lbr/>лодила, бꙑла</li>
     </ul>
@@ -212,17 +212,25 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: велика, гнѣд, пѧта, ст҃го, бж҃и, ворон, добра, добръ, желѣзен, зелоного</li>
+      <li>ADJ: ст҃го, велика, гнѣд, пѧта, бж҃и, виновате, ворон, добра, добръ, желѣзен</li>
       <li>AUX-Fin: былъ</li>
-      <li>AUX-PartRes: бꙑлъ, бꙑле, бꙑло, б]ꙑ[лъ], бꙑли, бꙑл</li>
+      <li>AUX-PartRes: бꙑлъ, бꙑле, бꙑло, б]ꙑ[лъ], бꙑли, бꙑл, …<lbr/>лъ</li>
       <li>DET: своѥму, мои, свои, твои, того, моѥго, моѥму, саме, самь, сего</li>
-      <li>NOUN: поклонъ, гн҃е, поклоно, конь, попа, рубль, сн҃а, кони, приказъ, господине</li>
-      <li>NUM: поло, полъ, пло, два, дова, полѹ, пол, три, (п)олъ, по</li>
-      <li>PRON: ѥго, его, емѹ, него, емꙋ, ѥму, нь, и, немь, нимо</li>
-      <li>PROPN: ивана, петра, бориса, евана, степана, павла, смена, завида, лѹкѣ, михалѧ</li>
-      <li>VERB: далъ, възѧле, дале, послале, въдале, взѧле, велѣлъ, взѧлъ, взѧлѣ, възѧлъ</li>
-      <li>VERB-Part: сътворѧ, водѧ, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, [зал]ѧко, [с]т[вор]ѧ, блг҃ословлено, боѧ</li>
-      <li>VERB-PartRes: далъ, възѧле, дале, послале, въдале, взѧле, велѣлъ, взѧлъ, взѧлѣ, възѧлъ</li>
+      <li>NOUN: поклонъ, поклоно, гн҃е, конь, попа, рубль, сн҃а, кони, приказъ, рублѧ</li>
+      <li>NUM: поло, полъ, пло, два, дова, полѹ, пол, три, полътора, (п)олъ</li>
+      <li>PRON: ѥго, его, емѹ, него, емꙋ, ѥму, нь, и, немъ, немь</li>
+      <li>PROPN: ивана, петра, бориса, евана, павла, степана, смена, завида, лѹкѣ, михалѧ</li>
+      <li>VERB: далъ, възѧле, дале, послале, въдале, взѧле, взѧлъ, велѣлъ, взѧлѣ, възѧлъ</li>
+      <li>VERB-Part: сътворѧ, водѧ, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, [зал]ѧко, [с]т[вор]ѧ, битъ, блг҃ословлено</li>
+      <li>VERB-PartRes: далъ, възѧле, дале, послале, въдале, взѧле, взѧлъ, велѣлъ, взѧлѣ, възѧлъ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc,Neut
+    <ul>
+      <li>ADJ: пътрово</li>
     </ul>
   </li>
 </ul>
@@ -231,12 +239,13 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Neut
     <ul>
       <li>ADJ: добро, проста, здорово, борзи, борзѣ, годьнъ, лживꙑѧ, (д)анилово, (до)ро[г]а[ѧ], (т)[о]тарьского</li>
-      <li>AUX-PartRes: бꙑло, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло</li>
-      <li>DET: то, томъ, того, томо, все, моего, томь, [т]о, вохо, мое</li>
-      <li>NOUN: покланѧние, жита, села, серебра, слово, село, челомъ, серебро, целомъ, цоломъ</li>
+      <li>AUX-PartRes: бꙑло, (бꙑ)<lbr/>ло, [бꙑ]ло, б(ꙑло, б[ꙑ]<lbr/>ло</li>
+      <li>DET: то, томъ, томо, того, все, моего, томь, [т]о, вохо, мое</li>
+      <li>NOUN: покланѧние, жита, села, серебра, слово, село, челомъ, целомъ, дети, серебро</li>
       <li>NUM: три, д[ъ]ва, два, дова, дъва, одиномо, сотъ</li>
-      <li>PRON: то, е, томъ, что, [ц]ьто, [ѥ]же, его, не, ничимо, томо</li>
-      <li>PROPN: городищи, ------<lbr/>скь, -----ина, --руньского, -остер…, [гр]од[и], [сл]а[в]…, бабине, бологожь, болъсинѣ</li>
+      <li>PRON: то, е, томъ, что, [ц]ьто, [цего], [цто, [ѥ]же, его, не</li>
+      <li>PROPN: городищи, курьѥго, ------<lbr/>скь, -----ина, --руньского, -остер…, [гр]од[и], [сл]а[в]…, бабине, бологожь</li>
+      <li>VERB: шло, бꙑло, пошло, (шло, диꙗлось, куплено, погибло, (пог)[ꙑб]ло, (соро)<lbr/>слосѧ, [п]окладено</li>
       <li>VERB-Part: куплено, [п]окладено, вода[н]о, водано, возѧто, возѧтъ, въда[но], възѧто, вѣлѣно, заглажьно</li>
       <li>VERB-PartRes: шло, бꙑло, пошло, (шло, диꙗлось, погибло, (пог)[ꙑб]ло, (соро)<lbr/>слосѧ, бꙑвало, деѧло</li>
     </ul>
@@ -277,7 +286,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
       <li>ADJ: б]ол[ъ]шии, виновата, ладьнѣ, лѹ<lbr/>боцеве, обои, пълънѣ, сморочьва, стова, сторова, сторова{а}</li>
       <li>AUX-Fin: есвѣ, еста, бꙑховь, е<lbr/>свѣ, есве, есевь, ѥсм[о</li>
       <li>DET: моѧ, мое, с<lbr/>ама, сама, тию, тѣ</li>
-      <li>NOUN: (бьрковьс)ка, [к]руж[ивѣ, бьрькъвьскѹ, г)осподина, гривен[е], гривна<lbr/>ма, гривнѣ, гривьнѹ, же<lbr/>-[ебе]цѧ, икѹнокѹ</li>
+      <li>NOUN: (бьрковьс)ка, [к]руж[ивѣ, бьрькъвьскѹ, во[з]ѹ, г)осподина, глазнѣца, гривен[е], гривна<lbr/>ма, гривнѣ, гривьнѹ</li>
       <li>NUM: дьсѧть, в҃е, десѧтьма, дъвои, дьсѧт…</li>
       <li>PRON: ва, (вꙑ, в[а]ю, ва:ма, вꙑ, на, нама, нѧ</li>
       <li>VERB-Fin: (исправит-), [б]ерита, [мъ](л)[ви]та, ведаета, водаита, восол[и]та, въдаита, вꙑправита, д]ьлаета, жѧлѹӏта</li>
@@ -291,15 +300,15 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Plur
     <ul>
       <li>ADJ: коневꙑхъ, лживꙑѧ, лоньскиѥ, страднꙑх, турабьѥвꙑх, (до)ро[г]а[ѧ], (ко)невꙑхъ, (л)юдними, (с)тар[ѣ]шимъ, (с)траднꙑх</li>
-      <li>AUX-Fin: есте, есме, ѥсме, ѥсте, есмꙑ, есть, ѥсми, ѥсмь, (ѥ)[с]ми, бѹдьть</li>
-      <li>AUX-PartRes: ·є·смꙑ, бꙑли</li>
+      <li>AUX-Fin: есте, есме, ѥсме, ѥсте, есмꙑ, есть, ѥсми, ѥсмь, (ѥ)[с]ми, ·є·смꙑ</li>
+      <li>AUX-PartRes: бꙑли</li>
       <li>DET: моӏ, свои, тѣ, вашь, вохе, всихъ, всѣхъ, которꙑѥ, мое, моими</li>
       <li>NOUN: кѹно, кѹнъ, гривьнъ, гривено, блъ, кони, гривьно, кно, грв҃нъ, деже</li>
       <li>NUM: двои, десѧте, десѧтъ, дьсѧ, дьсѧто, [д]-сѧтъ, дво<lbr/>и, двое, десѧ, десѧто</li>
-      <li>PRON: намъ, насъ, вꙑ, вамъ, вамо, мꙑ, васо, васъ, имъ, намо</li>
-      <li>PROPN: кшетахъ, мълъвотицѣхъ, озеревахъ, шидовицихъ, (д)[орож]иньжичь, [п]елем<lbr/>чѧхъ, алюѥвиць, братиловиць, бриханици, вавоцо</li>
+      <li>PRON: намъ, насъ, вамъ, вꙑ, вамо, мꙑ, васо, васъ, намо, имъ</li>
+      <li>PROPN: вожанъ, кшетахъ, мълъвотицѣхъ, озеревахъ, шидовицихъ, (д)[орож]иньжичь, [в](аси)<lbr/>левѣ, [п]елем<lbr/>чѧхъ, алюѥвиць, братиловиць</li>
       <li>VERB-Fin: бѹдѹ, хотѧ, бью, даите, дасте, даӏте, можемъ, поѣдите, пришлете, продаите</li>
-      <li>VERB-Part: платѧце, (полу)<lbr/>чеше, боѧць, вонемъшши, въдавоше, зоби]жонꙑ, изба<lbr/>влѧющес, изꙑм<lbr/>анꙑ, кѹпле<lbr/>нꙑ, мѧтꙑхъ</li>
+      <li>VERB-Part: платѧце, (полу)<lbr/>чеше, боѧць, водавоше, вонемъшши, въдавоше, зоби]жонꙑ, изба<lbr/>влѧющес, изъбижени, изꙑм<lbr/>анꙑ</li>
       <li>VERB-PartRes: взѧлѣ, послали, пришли, били, взѧли, дали, изловили, имали, крали, носилѣ</li>
     </ul>
   </li>
@@ -308,19 +317,19 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: добро, проста, велика, ст҃ѣ, гнѣд, добра, здорово, ст҃го, ѡстровескои, бж҃и</li>
-      <li>AUX: еси, ѥси, есмь, ѥсмь, есть, есемо, бꙑ, бꙑло, бꙑлъ, есте</li>
-      <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есть, есемо, бꙑ, есте, есьмъ, ѥсемь</li>
-      <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑл, е:с]и, е:си</li>
-      <li>DET: то, своѥму, того, томъ, мои, моѧ, свою, мою, моѥго, свои</li>
-      <li>NOUN: ржи, поклонъ, гн҃е, поклоно, соли, покланѧние, грамота, жита, конь, рожи</li>
+      <li>ADJ: добро, проста, велика, ст҃го, ст҃ѣ, гнѣд, добра, здорово, ѡстровескои, бж҃и</li>
+      <li>AUX: еси, ѥси, есмь, ѥсмь, есть, есемо, бꙑ, бꙑло, бꙑлъ, буде</li>
+      <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есть, есемо, бꙑ, буде, есте, есьмъ</li>
+      <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, [бꙑ]ло, б(ꙑло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑл</li>
+      <li>DET: то, своѥму, томъ, того, мои, моѧ, свою, томо, мою, моѥго</li>
+      <li>NOUN: ржи, поклонъ, поклоно, гн҃е, соли, грамота, покланѧние, жита, конь, рожи</li>
       <li>NUM: поло, полъ, пло, полѹ, десѧте, десѧть, пол, (п)олъ, двоѥ, одинои</li>
       <li>PRON: ми, тꙑ, ти, ѧ, мене, тобѣ, мнѣ, ѧзъ, мѧ, тѧ</li>
-      <li>PROPN: ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</li>
-      <li>VERB: даи, далъ, возми, шло, възьми, пришли, посли, присъли, възѧле, дале</li>
-      <li>VERB-Fin: даи, возми, възьми, пришли, посли, присъли, иди, кланѧюсѧ, молови, присли</li>
+      <li>PROPN: ивана, петра, бориса, евана, мариѧ, павла, степана, смена, завида, лѹкѣ</li>
+      <li>VERB: возми, даи, далъ, шло, възьми, пришли, посли, присъли, възѧле, дале</li>
+      <li>VERB-Fin: возми, даи, възьми, пришли, посли, присъли, иди, кланѧюсѧ, молови, присли</li>
       <li>VERB-Part: сътворѧ, водѧ, куплено, пеюци, створѧ, стоѧ, (п)[рисл]а[в]о, (се)[д]ѧци, [зал]ѧко, [п]окладено</li>
-      <li>VERB-PartRes: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, бꙑло, велѣлъ</li>
+      <li>VERB-PartRes: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, взѧлъ, бꙑло</li>
     </ul>
   </li>
 </ul>
@@ -334,7 +343,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
     <ul>
       <li>ADJ: дворнюю, другую, (в)ѣ[чьн](у), (д)анилово, --------<lbr/>вуѥва, --[х]имовѣ, [тре]<lbr/>теее, Вьцерьнѧѧ, бесудну<lbr/>(ю), бесудную</li>
       <li>DET: то, свои, свою, мою, ту, мое, твою, твоѥ, того, [т]о</li>
-      <li>NOUN: землю, конь, рубль, грамоту, село, грамотѹ, дворъ, коне, кони, слово</li>
+      <li>NOUN: землю, конь, рубль, грамоту, село, грамотѹ, дворъ, коне, кони, отрокъ</li>
       <li>NUM: три, поло, полъ, два, цетꙑри, дова, колико, двь, осмь, дви</li>
       <li>PRON: сѧ, мѧ, тѧ, мене, что, ю, цто, се, ѥго, его</li>
       <li>PROPN: евана, ѳедора, ивана, лугу, (с)[мо]на, ---[и]ж[ин](а), [сл]а[в]…, борана, бꙑковщи[н]у, в]игуѧ</li>
@@ -349,8 +358,8 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
       <li>ADJ: дро<lbr/>здова, ꙩнцифорова</li>
       <li>DET: моѥго, своѥго</li>
       <li>NOUN: брата<lbr/>на, исца, отро{ӏ}ка, родника, сꙑна, трет[ь], ѹѥча</li>
-      <li>PRON: ме, ѥго, васъ, насъ, нихъ</li>
-      <li>PROPN: вицка, ивана, иванца, мꙑсла…, орка, теретиѧ</li>
+      <li>PRON: ѥго, ме, насъ, васъ, его, не, нихъ</li>
+      <li>PROPN: вицка, ивана, иванца, кондратка, мꙑсла…, орка, павла, теретиѧ</li>
     </ul>
   </li>
 </ul>
@@ -358,7 +367,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Acc,Nom
     <ul>
-      <li>NOUN: гривнѣ</li>
+      <li>NOUN: гривнѣ, животъ</li>
       <li>NUM: (т)ри</li>
     </ul>
   </li>
@@ -367,12 +376,12 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: варѧж<lbr/>…, ст҃ѣ, турабьѥвѣ, (с)тар[ѣ]шимъ, -----<lbr/>скини, [ст҃](м)[у], Микулиньскому, бьсудьнои, вьликомѹ, вѣ<lbr/>ликее</li>
-      <li>DET: своѥму, моѥму, семѹ, моѥи, никому, никомѹ, тому, моѥӏ, своему, своѥи</li>
+      <li>ADJ: варѧж<lbr/>…, ст҃ѣ, турабьѥвѣ, (с)тар[ѣ]шимъ, -----<lbr/>скини, [ст҃](м)[у], бьсудьнои, вьликомѹ, вѣ<lbr/>ликее, гробенꙑимо</li>
+      <li>DET: своѥму, моѥму, моѥи, никому, никомѹ, семѹ, тому, моѥӏ, своему, своѥи</li>
       <li>NOUN: гн҃у, брату, кꙋне, матери, братѹ, бц҃и, дѣтемъ, дѣтемь, жене, жени</li>
       <li>NUM: бьма, полѹ, пѧти, двема, девѧти, десѧтьма, дъвѣма, дь)[в]ѧти, дьсѧти, одинои</li>
-      <li>PRON: ми, ти, тобѣ, мнѣ, собѣ, намъ, тобе, тоби, вамъ, емѹ</li>
-      <li>PROPN: ивану, максиму, сидору, юрью, гюргю, иванѹ, михаилу, петръкѹ, савѣ, смену</li>
+      <li>PRON: ми, ти, тобѣ, мнѣ, намъ, собѣ, тоби, тобе, вамъ, емѹ</li>
+      <li>PROPN: ивану, максиму, сидору, смену, юрью, гюргю, иванѹ, михаилу, петръкѹ, савѣ</li>
       <li>VERB-Part: воскрьсошь<lbr/>мѹ</li>
     </ul>
   </li>
@@ -381,12 +390,12 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: проста, трьтиѧ, велика, пѧта, добра, зелоного, пѧте, пѧть, пѧтѣ, семѣ</li>
+      <li>ADJ: проста, трьтиѧ, велика, пѧта, ст҃го, добра, зелоного, пѧте, пѧть, пѧтѣ</li>
       <li>DET: того, моего, моѥго, сего, твоѥго, всѣхъ, вхого, мъихъ, нашихо, св[о]…</li>
-      <li>NOUN: ржи, кѹно, кѹнъ, соли, жита, гривьнъ, гривено, рожи, серебра, села</li>
+      <li>NOUN: ржи, кѹно, кѹнъ, соли, жита, гривьнъ, гривено, рожи, села, серебра</li>
       <li>NUM: пѧти, полѹ, дву, девѧти, десѧтъ, довѹ, дьсѧ, дьсѧто, дьсѧть, шести</li>
       <li>PRON: мене, тебе, ѥго, его, мьнь, насъ, него, себе, кого, васъ</li>
-      <li>PROPN: петра, ивана, бориса, степана, смена, евана, завида, михалѧ, павла, стьпана</li>
+      <li>PROPN: петра, ивана, бориса, степана, павла, смена, евана, завида, михалѧ, стьпана</li>
       <li>VERB-Part: мѧтꙑхъ, рѹжьнꙑхо</li>
     </ul>
   </li>
@@ -396,11 +405,11 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Ins
     <ul>
       <li>ADJ: (л)юдними, [л]уговою, [с]ѣроӏ, болшимо, гу(р)ьѥвꙑм, доброю, добрꙑ<lbr/>мъ, дубницкимъ, желутковꙑмъ, илиӏн<lbr/>скимъ</li>
-      <li>DET: ницимъ, же, моими, своими, тими, (моӏ)мо, [т]вое[ӏ], вашимъ, всимо, вхим[и]</li>
+      <li>DET: ницимъ, же, моими, своими, тими, томо, (моӏ)мо, [т]вое[ӏ], вашимъ, всимо</li>
       <li>NOUN: челомъ, целомъ, цоломъ, (челомъ, людми, людьми, братьею, гривьною, дѣтми, женою</li>
       <li>NUM: :м҃:ми, [ос]м[ию, тримѧ</li>
       <li>PRON: мною, тобою, вами, мъною, нами, кꙑмъ, ними, нимо, нимь, собо<lbr/>ю</li>
-      <li>PROPN: ѥлбугою, (кл)имом, (ѡк)сент[и]ѥмо, -----(-)<lbr/>вичомꙑ, --<lbr/>аномо, асафъмь, борисоглибом<lbr/>о, борисомо, васил[ь]ѥмъ, воелавомо</li>
+      <li>PROPN: ѥлбугою, (кл)имом, (ѡк)сент[и]ѥмо, -----(-)<lbr/>вичомꙑ, --<lbr/>аномо, асафъмь, борисоглибом<lbr/>о, борисомо, васил[ь]ѥмъ, велицковѣ</li>
     </ul>
   </li>
 </ul>
@@ -411,9 +420,10 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
       <li>ADJ: борзи, борзѣ, коневꙑхъ, (с)[т]арои, б[ор](зи), бо)<lbr/>рзѣхо, борзе, борожь, борозе, борозѣ</li>
       <li>DET: томъ, томо, томь, своѥмь, своѥмъ, (т)омо, (то)<lbr/>мъ, [них, [т]омь, анихъ</li>
       <li>NOUN: животѣ, городѣ, дни, землѣ, кони, рꙑбахъ, соли, бозѣ, дн҃и, дорѣ</li>
-      <li>NUM: дьсѧть, десѧте, десѧть, довѹ, дьсѧте, наца, нацате, [десѧ]ти, д-сѧ]ть, д[е]</li>
+      <li>NUM: дьсѧть, довѹ, десѧте, десѧть, дьсѧте, наца, нацате, [десѧ]ти, д-сѧ]ть, д[е]</li>
       <li>PRON: собѣ, мнѣ, [соби], неи, немь, собе, томъ, в[а]ю, васо, васъ</li>
       <li>PROPN: городищи, куролѣ, кшетахъ, лаидиколѣ, мълъвотицѣхъ, м…, озеревахъ, рѹсѣ, сидоре, шидовицихъ</li>
+      <li>VERB: чимо, ꙑзьѣжьнои</li>
       <li>VERB-Part: ꙑзьѣжьнои</li>
     </ul>
   </li>
@@ -422,9 +432,9 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: добро, гнѣд, здорово, бж҃и, бѣла, бѣлонога, ворон, годьнъ, десѧтаꙗ, добръ</li>
+      <li>ADJ: добро, гнѣд, здорово, бж҃и, бѣла, бѣлонога, виновате, ворон, годьнъ, десѧтаꙗ</li>
       <li>DET: то, моѧ, мои, твои, саме, самь, сама, твоѧ, иже, само</li>
-      <li>NOUN: поклонъ, поклоно, покланѧние, грамота, гривна, кад, приказъ, землѧ, полтин, полтина</li>
+      <li>NOUN: поклонъ, поклоно, грамота, покланѧние, гривна, кад, приказъ, землѧ, полтин, полтина</li>
       <li>NUM: поло, полъ, три, пло, пѧть, два, двь, шьсть, дви, десѧте</li>
       <li>PRON: тꙑ, ѧ, ѧзъ, ѧзо, цто, что, азъ, вꙑ, ꙗзъ, мꙑ</li>
       <li>PROPN: мариѧ, сихаилъ, хрс҃тъ, иване, ѧна, давꙑдъ, настасиѧ, сихаїлъ, ѧкиме, ӏѡ҃</li>
@@ -465,11 +475,24 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: Микулиньскому</li>
+      <li>ADJ: бр<lbr/>оцкии, вели, виновате, п[авл]овꙑх[ъ], поса<lbr/>дница, пътрово, ст҃го, ст҃ого, сухꙑхъ, федорова</li>
+      <li>ADV: тако, здѣсе, мно[г]о, много, нꙑньча, семо, сьм[о]</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PART: не, ни, [н]е, н[ь], не)</li>
+      <li>VERB: (нету, нѣтъ, чимо</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Variant</a></li>
@@ -480,7 +503,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
     <ul>
       <li>ADJ: добро, проста, велика, гнѣд, добра, здорово, пѧта, борзи, борзѣ, бѣла</li>
       <li>DET: всѧка, таку</li>
-      <li>VERB-Part: (п)[рисл]а[в]о, въземо, вѣлѣно, вꙑведъ, дан<lbr/>…, заплачьно, налѣз[ъ], п[о]им[а]<lbr/>въ, пло[щ]…, погѹблене</li>
+      <li>VERB-Part: (п)[рисл]а[в]о, битъ, водавоше, въземо, вѣлѣно, вѧзанъ, вꙑведъ, дан<lbr/>…, заплачьно, изима·въ</li>
     </ul>
   </li>
 </ul>
@@ -508,9 +531,18 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: бꙋди, буди, бѫди</li>
-      <li>AUX-Fin: бꙋди, бѫди</li>
-      <li>VERB-Fin: даи, возми, възьми, пришли, посли, присъли, иди, молови, присли, въдаи</li>
+      <li>AUX: бꙋди, буди, бѫди, бѹ[ди]</li>
+      <li>AUX-Fin: бꙋди, бѫди, бѹ[ди]</li>
+      <li>VERB-Fin: возми, даи, възьми, пришли, посли, присъли, иди, молови, присли, въдаи</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: ѥсмь, буде, есмѧ, есте</li>
+      <li>VERB-Fin: (б)[у]демо, би<lbr/>ю, бие, бию), бь[ѥ](мъ), бѹши, д]оспиѥц, идеть, кланѧѥмсѧ, молви</li>
     </ul>
   </li>
 </ul>
@@ -523,7 +555,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Fut
     <ul>
       <li>AUX-Fin: буде, будешь, будь, бѹдѹ, бꙋде, б[уд]…, бу<lbr/>[де], бу[д]е, буд[еть], буде[ш]е</li>
-      <li>VERB-Fin: буду, буде, бѹде, бѹдѹ, бѹдьть, (бу)<lbr/>ду, (п)ришлю, будет[е], будете, будь</li>
+      <li>VERB-Fin: буду, буде, бѹде, бѹдѹ, бѹдьть, (б)[у]демо, (бу)<lbr/>ду, (п)ришлю, будет[е], будете</li>
     </ul>
   </li>
 </ul>
@@ -541,10 +573,10 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Past
     <ul>
       <li>AUX-Fin: бꙑ, бꙑхъ, былъ, б…, бꙑ[хъ], бꙑс, бꙑхо, бꙑховь, бꙑша</li>
-      <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли, бꙑл</li>
+      <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, [бꙑ]ло, б(ꙑло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли</li>
       <li>VERB-Fin: въ, въскрьсѣ, возѧ, ста, (пос)лахомъ, [бѣ], [въ]змути<lbr/>сѧ, [ц]ита, бл҃гви, бꙑ</li>
-      <li>VERB-Part: възьмъши, куплено, (п)[рисл]а[в]о, (полу)<lbr/>чеше, [зал]ѧко, [п]окладено, [ѿ](им)ана, блг҃ословлено, взьмъ, взѧв·ъ</li>
-      <li>VERB-PartRes: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, бꙑло, велѣлъ</li>
+      <li>VERB-Part: възьмъши, куплено, (п)[рисл]а[в]о, (полу)<lbr/>чеше, [зал]ѧко, [п]окладено, [ѿ](им)ана, битъ, блг҃ословлено, взьмъ</li>
+      <li>VERB-PartRes: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, взѧлъ, бꙑло</li>
     </ul>
   </li>
 </ul>
@@ -561,8 +593,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Pres
     <ul>
       <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, есме, есвѣ</li>
-      <li>AUX-PartRes: ·є·смꙑ, е:с]и, е:си, е[с]мь, ес…, си</li>
-      <li>VERB-Fin: кланѧюсѧ, покланѧю, бию, бью, бью), бѣю, дасть, пишю, дасте, даю</li>
+      <li>VERB-Fin: кланѧюсѧ, покланѧю, бию, бью, бью), бѣю, дасть, пишю, хоцеши, дасте</li>
       <li>VERB-Part: сътворѧ, водѧ, пеюци, платѧце, створѧ, стоѧ, (се)[д]ѧци, [с]т[вор]ѧ, бижа, боѧ</li>
     </ul>
   </li>
@@ -577,12 +608,12 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
     <ul>
       <li>AUX: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, бꙑло, ѥсме</li>
       <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, бꙑ, ѥсме, есме</li>
-      <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, ·є·смꙑ, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли, бꙑл</li>
-      <li>VERB: даи, далъ, возми, пришли, шло, възьми, посли, присъли, възѧле, дале</li>
-      <li>VERB-Fin: даи, возми, възьми, пришли, посли, присъли, иди, купи, молови, присли</li>
-      <li>VERB-Inf: дати, взѧти, ѧти, возѧти, възѧти, дать, ити, взѧть, давати, давать</li>
+      <li>AUX-PartRes: бꙑло, бꙑлъ, бꙑле, бꙑла, (бꙑ)<lbr/>ло, [бꙑ]ло, б(ꙑло, б[ꙑ]<lbr/>ло, б]ꙑ[лъ], бꙑли</li>
+      <li>VERB: возми, даи, далъ, пришли, шло, възьми, посли, присъли, възѧле, дале</li>
+      <li>VERB-Fin: возми, даи, възьми, пришли, посли, присъли, иди, купи, молови, присли</li>
+      <li>VERB-Inf: дати, взѧти, дать, ѧти, возѧти, възѧти, ити, взѧть, давати, давать</li>
       <li>VERB-Part: сътворѧ, водѧ, възьмъши, пеюци, платѧце, створѧ, стоѧ, (п)[рисл]а[в]о, (полу)<lbr/>чеше, (се)[д]ѧци</li>
-      <li>VERB-PartRes: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, бꙑло, велѣлъ</li>
+      <li>VERB-PartRes: далъ, шло, възѧле, дале, послале, въдале, дала, взѧле, взѧлъ, бꙑло</li>
     </ul>
   </li>
 </ul>
@@ -602,7 +633,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: куплено, [п]окладено, [ѿ](им)ана, блг҃ословлено, взѧтъ, вода[н]о, водано, возѧто, возѧтъ, восьѧно</li>
+      <li>VERB-Part: куплено, [п]окладено, [ѿ](им)ана, битъ, блг҃ословлено, взѧтъ, вода[н]о, водано, возѧто, возѧтъ</li>
     </ul>
   </li>
 </ul>
@@ -616,10 +647,27 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
+  <li>Dem
+    <ul>
+      <li>ADV: тако, здѣсе, нꙑньча, семо, сьм[о]</li>
+      <li>DET: семѹ, то, томо, с[е]мѹ, сеи, семъ, семꙋ, томъ, томѹ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Emp
+    <ul>
+      <li>DET: самомуо</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
       <li>DET: кото<lbr/>рому</li>
-      <li>PRON: цого, цто, цего, (ч)етъ, кого, ц[т]о, цега, цето, цимо, ць:то</li>
+      <li>PRON: цого, цто, цего, (ч)етъ, [цего], кого, ц[т]о, цега, цето, цимо</li>
     </ul>
   </li>
 </ul>
@@ -634,9 +682,18 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
+  <li>Neg
+    <ul>
+      <li>PRON: ни·ко·мѹ, ниц…</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Prs
     <ul>
-      <li>PRON: сѧ, (с)ѧ, [сѧ, мы, с(ѧ), сѧ]</li>
+      <li>DET: (сво)[ѥ]му, (тв<lbr/>оѥ), ваше, своего, т[в]…</li>
+      <li>PRON: сѧ, тоби, его, насъ, тебе, тꙑ, (с)ѧ, [сѧ, вамо, вамъ</li>
     </ul>
   </li>
 </ul>
@@ -652,13 +709,38 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
+  <li>Tot
+    <ul>
+      <li>ADV: мно[г]о, много</li>
+      <li>DET: всимъ, всимъ), вхо[ӏ], в…, другому, иного)</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NumType</a></li>
 </ul>
 
 <ul>
   <li>Card
     <ul>
-      <li>NUM: ·в҃·, три, ·г҃·, :в҃:, :в:, ·г·, в҃, ·ӏ҃·, :г҃:, г҃</li>
+      <li>NUM: ·в҃·, три, ·г҃·, :в҃:, :в:, ·г·, ·ӏ҃·, в҃, :г҃:, г҃</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: шести</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sets
+    <ul>
+      <li>NUM: ¦в¦и</li>
     </ul>
   </li>
 </ul>
@@ -671,6 +753,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>Yes
     <ul>
       <li>ADJ: (д)митрову, бж҃и, домажи[р]ова, петровѹ, савина, сменова, турабьѥвѣ, турабьѥвꙑх, тѹдорове, ѥванова</li>
+      <li>DET: (сво)[ѥ]му, (тв<lbr/>оѥ), ваше, своего, т[в]…</li>
     </ul>
   </li>
 </ul>
@@ -682,6 +765,7 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>Yes
     <ul>
+      <li>DET: (сво)[ѥ]му, своего</li>
       <li>PRON: сѧ, (с)ѧ, [сѧ, с(ѧ), себѣ, сѧ]</li>
     </ul>
   </li>
@@ -695,10 +779,8 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>1
     <ul>
       <li>AUX-Fin: есмь, ѥсмь, есемо, ѥсме, есме, есвѣ, есьмъ, ѥсемь, ѥсми, есмо</li>
-      <li>AUX-PartRes: ·є·смꙑ, е[с]мь</li>
-      <li>PRON: ми, ѧ, мене, мнѣ, ѧзъ, мѧ, ѧзо, намъ, мною, насъ</li>
+      <li>PRON: ми, ѧ, мене, мнѣ, ѧзъ, мѧ, ѧзо, намъ, насъ, мною</li>
       <li>VERB-Fin: кланѧюсѧ, буду, покланѧю, бию, бью), бѣю, пишю, даю, кланѧю, молю</li>
-      <li>VERB-PartRes: дала, дос)пѣле, послале</li>
     </ul>
   </li>
 </ul>
@@ -707,10 +789,8 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
   <li>2
     <ul>
       <li>AUX-Fin: еси, ѥси, есте, еста, ѥсте, будешь, е<lbr/>си, есть, (еси, (ѥ)[си]</li>
-      <li>AUX-PartRes: е:с]и, е:си, ес…, си</li>
-      <li>PRON: тꙑ, ти, тобѣ, тѧ, тебе, тобе, вꙑ, тоби, тобою, вамъ</li>
-      <li>VERB-Fin: даи, возми, възьми, пришли, посли, присъли, иди, купи, молови, присли</li>
-      <li>VERB-PartRes: (д)але, взѧла, помина<lbr/>[л]а, послалъ, пр](ислалъ), ѿда<lbr/>(л)…</li>
+      <li>PRON: тꙑ, ти, тобѣ, тѧ, тебе, тоби, тобе, вꙑ, вамъ, тобою</li>
+      <li>VERB-Fin: возми, даи, възьми, пришли, посли, присъли, иди, купи, молови, присли</li>
     </ul>
   </li>
 </ul>
@@ -718,12 +798,11 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li>3
     <ul>
-      <li>AUX: есть, бꙑ, есте, буде, е, будь, бꙋде, е<lbr/>сть, [бе]шь, б]ѹде</li>
-      <li>AUX-Fin: есть, бꙑ, есте, буде, е, будь, бꙋде, е<lbr/>сть, [бе]шь, б]ѹде</li>
-      <li>PRON: то, томъ, тебѣ, тобе, томо, ѥго</li>
+      <li>AUX: есть, бꙑ, буде, есте, е, будь, бꙋде, е<lbr/>сть, [бе]шь, б]ѹде</li>
+      <li>AUX-Fin: есть, бꙑ, буде, есте, е, будь, бꙋде, е<lbr/>сть, [бе]шь, б]ѹде</li>
+      <li>PRON: то, его, томъ, ѥго, немъ, тебѣ, тобе, томо</li>
       <li>VERB-Fin: буде, бѹде, въ, дасть, бѹдѹ, въскрьсѣ, дасте, поидеть, прода, хотѧ</li>
       <li>VERB-Part: въземо</li>
-      <li>VERB-PartRes: дале, ѧль</li>
     </ul>
   </li>
 </ul>
@@ -741,11 +820,11 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
         <ul>
           <li>AUX: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, бꙑ, есме</li>
           <li>AUX-Fin: еси, ѥси, есмь, ѥсмь, есте, есть, есемо, ѥсме, бꙑ, есме</li>
-          <li>AUX-PartRes: бꙑлъ, бꙑле, бꙑло, ·є·смꙑ, бꙑла, бꙑли, е:с]и, е:си, е[с]мь, ес…</li>
+          <li>AUX-PartRes: бꙑлъ, бꙑле, бꙑло, бꙑла, бꙑли</li>
           <li>PRON: сѧ, се, покланѧю</li>
           <li>VERB-Fin: бꙑ, е, приѧхо, ѥсть</li>
-          <li>VERB-Part: напс(ана, пр<lbr/>оклѧтъ</li>
-          <li>VERB-PartRes: въдале, торговала, (д)але, [в]ъзѧла, бꙑ[л](ъ), вел[ѣл](ъ), взѧла, возилесь, возѧлъ, въдалъ</li>
+          <li>VERB-Part: вѧзанъ, изъбижени, напс(ана, пр<lbr/>оклѧтъ</li>
+          <li>VERB-PartRes: въдале, дале, торговала, (д)але, [в]ъзѧла, бꙑ[л](ъ), вел[ѣл](ъ), взѧла, возилесь, возѧлъ</li>
         </ul>
       </li>
     </ul>
@@ -755,6 +834,11 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li><a>Clitic</a>
     <ul>
+      <li>No
+        <ul>
+          <li>PRON: тоби, вамо, вамъ, мне, намо, намъ, не, тебе, тоб(ѣ</li>
+        </ul>
+      </li>
       <li>Yes
         <ul>
           <li>PRON: сѧ, ми, ти, мѧ, тѧ, се, ва, вꙑ, нꙑ, та</li>
@@ -782,16 +866,39 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 </ul>
 
 <ul>
+  <li><a>Fragment</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: …[к]-, иѥ)<lbr/>[л]имъ, …[л]ому</li>
+          <li>ADP: к(о</li>
+          <li>AUX-PartRes: б(ꙑло, …<lbr/>лъ</li>
+          <li>DET: [в]…, (сво)[ѥ]му, в…, т[в]…</li>
+          <li>NOUN: (гр)амотѣ, (де)<lbr/>[ньг]и, (кор)<lbr/>(об)[иӏ], ---------оч[ьк]-, [це](тверка, [ч](аша), п](е)[ць]к[о]-, по…, протор(ово), с…</li>
+          <li>PRON: ниц…</li>
+          <li>PROPN: [в](аси)<lbr/>левѣ, молвот[и](цѣхъ), п-[п]--, ста[в](орови, …<lbr/>ръ, …<lbr/>тру</li>
+          <li>SCONJ: [ѥ](же)</li>
+          <li>VERB: вз…, дорѧд…, изꙑмал, бь[ѥ](мъ), вода)<lbr/>ти, во…, клани(сѧ), по)<lbr/>шеле, …<lbr/>[є]ди</li>
+          <li>VERB-Fin: бь[ѥ](мъ), клани(сѧ), …<lbr/>[є]ди</li>
+          <li>VERB-Inf: вода)<lbr/>ти, во…</li>
+          <li>VERB-PartRes: по)<lbr/>шеле</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NameType</a>
     <ul>
       <li>Geo
         <ul>
-          <li>PROPN: городищи, куролѣ, кшетахъ, лаидиколѣ, лугу, мълъвотицѣхъ, озеревахъ, рѹсѣ, торжеку, шидовицихъ</li>
+          <li>PROPN: вожанъ, городищи, куролѣ, курьѥго, кшетахъ, лаидиколѣ, лугу, мълъвотицѣхъ, озеревахъ, рѹсѣ</li>
         </ul>
       </li>
       <li>Giv
         <ul>
-          <li>PROPN: ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</li>
+          <li>PROPN: ивана, петра, бориса, евана, мариѧ, павла, степана, смена, завида, лѹкѣ</li>
         </ul>
       </li>
       <li>Hus
@@ -806,7 +913,12 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
       </li>
       <li>Pat
         <ul>
-          <li>PROPN: юрьѥвичю, (д)[орож]иньжичь, (ѻлекс)[а]ндровичю, (…)<lbr/>сѹ[щ]иць, (…)турки(нѣ), -----(-)<lbr/>вичомꙑ, ---[и]ж[ин](а), [во]дин[иц]-, [се]<lbr/>лекѹѥвица, [ю]рь·евицю</li>
+          <li>PROPN: юрьѥвичю, (д)[орож]иньжичь, (ѻлекс)[а]ндровичю, (…)<lbr/>сѹ[щ]иць, (…)турки(нѣ), -----(-)<lbr/>вичомꙑ, ---[и]ж[ин](а), [в](аси)<lbr/>левѣ, [во]дин[иц]-, [се]<lbr/>лекѹѥвица</li>
+        </ul>
+      </li>
+      <li>Prs
+        <ul>
+          <li>PROPN: [мику]<lbr/>линьскому, житкого, кѹбицѣ</li>
         </ul>
       </li>
     </ul>
@@ -816,9 +928,14 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
 <ul>
   <li><a>NumForm</a>
     <ul>
+      <li>Combi
+        <ul>
+          <li>NUM: ¦в¦и</li>
+        </ul>
+      </li>
       <li>Cyril
         <ul>
-          <li>NUM: :е҃:</li>
+          <li>NUM: ·ӏ҃·, :е҃:, ¦в¦, ӏ҃·, :в҃:, :г:, ·г·, ·ӏ҃, ӏ҃</li>
         </ul>
       </li>
       <li>Digit
@@ -829,7 +946,8 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
       </li>
       <li>Word
         <ul>
-          <li>NUM: полу</li>
+          <li>ADJ: шести</li>
+          <li>NUM: полътора, три, (т)<lbr/>ри, д)<lbr/>ви, довѹ, коликѣ, монаго, п[ѧти], полу</li>
         </ul>
       </li>
     </ul>
@@ -841,12 +959,15 @@ We thank the developers and annotators of the RNC Corpus of Birchbark Letters.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: жеѧ, иван{ав}ова, силв{н}а<lbr/>нова</li>
+          <li>ADJ: вели, жеѧ, иван{ав}ова, силв{н}а<lbr/>нова</li>
+          <li>ADP: ко{и}, педъ, ѡ</li>
           <li>CCONJ: ӏ</li>
           <li>DET: нее</li>
-          <li>NOUN: верх{о}ъ, лисид{н}ци<lbr/>никѣ, поклонъ{н}, поконо, р<lbr/>е, смедри</li>
+          <li>NOUN: верх{о}ъ, кѹ, лисид{н}ци<lbr/>никѣ, поклонъ{н}, поконо, р<lbr/>е, рубри, скотника, смедри</li>
+          <li>NUM: монаго</li>
           <li>PART: ти</li>
-          <li>PROPN: ивана, косноти{ти}ни, ме:ке, сепоне</li>
+          <li>PRON: не</li>
+          <li>PROPN: борицк, ивана, косноти{ти}ни, ме:ке, сепоне, ѥва</li>
           <li>SCONJ: ааи</li>
           <li>VERB-Inf: ѥ{д}здити</li>
         </ul>
@@ -874,21 +995,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Gen (11)</li>
+      <li>VERB--NOUN-Gen (12)</li>
       <li>VERB--NOUN-Nom (4)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB--PRON-Nom (8)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(по) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (9)</li>
-      <li>VERB-Fin--NOUN-Nom (89)</li>
+      <li>VERB-Fin--NOUN-Gen (10)</li>
+      <li>VERB-Fin--NOUN-Nom (91)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(по) (1)</li>
-      <li>VERB-Fin--PRON-Nom (149)</li>
+      <li>VERB-Fin--PRON-Nom (154)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
       <li>VERB-PartRes--NOUN-Dat-ADP(по) (2)</li>
       <li>VERB-PartRes--NOUN-Gen (22)</li>
-      <li>VERB-PartRes--NOUN-Nom (57)</li>
+      <li>VERB-PartRes--NOUN-Nom (59)</li>
       <li>VERB-PartRes--PRON-Nom (46)</li>
     </ul>
   </li>
@@ -897,50 +1018,50 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (7)</li>
-      <li>VERB--NOUN-Gen (2)</li>
-      <li>VERB--PRON-Dat (1)</li>
+      <li>VERB--NOUN-Acc (8)</li>
+      <li>VERB--NOUN-Gen (3)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB-Fin--NOUN (4)</li>
       <li>VERB-Fin--NOUN-ADP(съ) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (298)</li>
+      <li>VERB-Fin--NOUN-Acc (304)</li>
       <li>VERB-Fin--NOUN-Acc,Gen (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(въ) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(по) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(съ) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(у) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (2)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(по) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (114)</li>
+      <li>VERB-Fin--NOUN-Gen (115)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(по) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1)</li>
-      <li>VERB-Fin--PRON-Acc (61)</li>
+      <li>VERB-Fin--NOUN-Ins (36)</li>
+      <li>VERB-Fin--NOUN-Nom (2)</li>
+      <li>VERB-Fin--PRON-Acc (60)</li>
+      <li>VERB-Fin--PRON-Acc,Gen (2)</li>
       <li>VERB-Fin--PRON-Gen (13)</li>
       <li>VERB-Fin--PRON-Loc (1)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (30)</li>
+      <li>VERB-Inf--NOUN-Acc (32)</li>
       <li>VERB-Inf--NOUN-Gen (19)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
-      <li>VERB-Inf--NOUN-Nom (9)</li>
+      <li>VERB-Inf--NOUN-Nom (8)</li>
       <li>VERB-Inf--PRON-Acc (11)</li>
+      <li>VERB-Inf--PRON-Acc,Gen (1)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (34)</li>
-      <li>VERB-Part--NOUN-Gen (10)</li>
+      <li>VERB-Part--NOUN-Gen (11)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
       <li>VERB-PartRes--NOUN (7)</li>
-      <li>VERB-PartRes--NOUN-Acc (187)</li>
+      <li>VERB-PartRes--NOUN-Acc (191)</li>
       <li>VERB-PartRes--NOUN-Acc,Gen (1)</li>
       <li>VERB-PartRes--NOUN-Acc-ADP(въ) (1)</li>
-      <li>VERB-PartRes--NOUN-Acc-ADP(за) (1)</li>
-      <li>VERB-PartRes--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-PartRes--NOUN-Acc-ADP(у) (1)</li>
-      <li>VERB-PartRes--NOUN-Gen (68)</li>
-      <li>VERB-PartRes--NOUN-Nom (2)</li>
-      <li>VERB-PartRes--PRON-Acc (40)</li>
-      <li>VERB-PartRes--PRON-Acc,Gen (1)</li>
+      <li>VERB-PartRes--NOUN-Gen (67)</li>
+      <li>VERB-PartRes--NOUN-Ins (2)</li>
+      <li>VERB-PartRes--NOUN-Nom (1)</li>
+      <li>VERB-PartRes--PRON (1)</li>
+      <li>VERB-PartRes--PRON-Acc (39)</li>
+      <li>VERB-PartRes--PRON-Acc,Gen (2)</li>
       <li>VERB-PartRes--PRON-Dat-ADP(къ) (1)</li>
       <li>VERB-PartRes--PRON-Gen (5)</li>
     </ul>
@@ -953,30 +1074,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Dat (2)</li>
       <li>VERB--NOUN-Ins (1)</li>
-      <li>VERB--PRON-Dat (11)</li>
+      <li>VERB--PRON-Dat (12)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Acc (6)</li>
-      <li>VERB-Fin--NOUN-Dat (62)</li>
+      <li>VERB-Fin--NOUN-Dat (63)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(у) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(у) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (60)</li>
-      <li>VERB-Fin--PRON-Dat (156)</li>
+      <li>VERB-Fin--NOUN-Ins (26)</li>
+      <li>VERB-Fin--PRON-Dat (159)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Ins (7)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Dat (8)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
-      <li>VERB-Inf--PRON-Dat (38)</li>
+      <li>VERB-Inf--PRON-Dat (40)</li>
       <li>VERB-Inf--PRON-Ins (1)</li>
       <li>VERB-Part--NOUN-Dat (3)</li>
       <li>VERB-Part--NOUN-Ins (2)</li>
       <li>VERB-Part--PRON-Dat (4)</li>
-      <li>VERB-PartRes--NOUN-Acc (3)</li>
       <li>VERB-PartRes--NOUN-Dat (9)</li>
       <li>VERB-PartRes--NOUN-Gen (2)</li>
-      <li>VERB-PartRes--NOUN-Ins (10)</li>
-      <li>VERB-PartRes--PRON-Acc (1)</li>
+      <li>VERB-PartRes--NOUN-Ins (8)</li>
       <li>VERB-PartRes--PRON-Dat (55)</li>
     </ul>
   </li>
@@ -993,6 +1110,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:float</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>discourse</a>, <a>clf</a></li>
 </ul>

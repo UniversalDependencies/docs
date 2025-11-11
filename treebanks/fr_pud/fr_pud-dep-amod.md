@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1394 nodes (6%) are attached to their parents as `amod`.
+1395 nodes (6%) are attached to their parents as `amod`.
 
-960 instances of `amod` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21951219512195.
+961 instances of `amod` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22007168458781.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1357; 97% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1358; 97% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 amod	color:blue
 1	Peut-être	peut-être	ADV	RB	_	8	advmod	_	wordform=peut-être
-2	que	que	ADP	IN	_	1	fixed	_	_
+2	que	que	SCONJ	IN	_	8	mark	_	_
 3	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	code	code	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
 5	vestimentaire	vestimentaire	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 10 amod	color:blue
 1	Et	et	CCONJ	CC	_	6	cc	_	wordform=et
-2	bien	bien	ADV	RB	_	6	advmod	_	_
+2	bien	bien	ADV	RB	ExtPos=ADV	6	advmod	_	_
 3	sûr	sûr	ADJ	JJ	Gender=Masc|Number=Sing	2	fixed	_	_
 4	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_
 5	y	y	PRON	PRP	Person=3|PronType=Prs	6	expl:comp	_	_
@@ -68,7 +68,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	prestation	prestation	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 5	effective	effectif	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
 6	de	de	ADP	IN	_	9	case	_	_
-7	cette	ce	DET	DT	Gender=Fem|Number=Sing	9	det	_	_
+7	cette	ce	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
 8	première	premier	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	heure	heure	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 10	sera	être	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_

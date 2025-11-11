@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	kort	kort	ADV	AB|POS	Degree=Pos	3	advmod	3:advmod	_
 6	i	i	ADP	PP	_	9	case	9:case	_
 7	Disneys	Disney	PROPN	PM|GEN	Case=Gen	9	nmod:poss	9:nmod:poss	_
-8	The	the	DET	DT|DEF	Foreign=Yes	9	det	9:det	Lang=en
+8	The	the	DET	DT|DEF	Foreign=Yes|PronType=Art	9	det	9:det	Lang=en
 9	Muppets	muppet	NOUN	NN|PLU	Foreign=Yes	3	obl	3:obl:i	Lang=en|SpaceAfter=No
 10	,	,	PUNCT	MID	_	14	punct	14:punct	_
 11	som	som	SCONJ	KN	_	14	mark	14:mark	_

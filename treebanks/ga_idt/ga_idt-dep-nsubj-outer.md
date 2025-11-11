@@ -174,7 +174,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 57	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	58	det	_	_
 58	dearbhú	dearbhú	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	56	obj	_	_
 59	de	de	ADP	Simp	_	60	case	_	_
-60	bhun	bun	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	56	obl	_	_
+60	bhun	bun	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	56	obl	_	_
 61	Airteagal	airteagal	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	60	nmod	_	_
 62	IV	IV	NUM	Num	NumType=Card	61	nmod	_	_
 63	nó	nó	CCONJ	Coord	_	65	cc	_	_
@@ -185,7 +185,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 68	in	i	ADP	Simp	_	69	case	_	_
 69	iúl	iúl	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	65	obl	_	_
 70	de	de	ADP	Simp	_	71	case	_	_
-71	bhun	bun	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	65	obl	_	_
+71	bhun	bun	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	65	obl	_	_
 72	Airteagal	airteagal	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	71	nmod	_	_
 73	VI	VI	NUM	Num	NumType=Card	72	nmod	_	_
 74	agus	agus	CCONJ	Coord	_	76	cc	_	_

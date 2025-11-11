@@ -8,82 +8,81 @@ udver: '2'
 
 This relation is universal.
 
-738 nodes (2%) are attached to their parents as `advcl`.
+1441 nodes (2%) are attached to their parents as `advcl`.
 
-472 instances of `advcl` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.0040650406504.
+971 instances of `advcl` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.5093684941013.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (624; 85% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (71; 10% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (18; 2% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (12; 2% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `advcl`: <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (1160; 80% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (102; 7% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (60; 4% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (56; 4% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (31; 2% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 12 advcl	color:blue
-1	Il	il	PRON	_	PronType=Prs	3	expl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-2	y	y	PRON	_	PronType=Prs	3	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-3	a	avoir	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
-4	deulx	deux	NUM	_	NumType=Card	5	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
-5	ans	an	NOUN	_	Number=Plur	3	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
-6	que	que	SCONJ	_	_	12	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
-7	je	je	PRON	_	PronType=Prs	12	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-8	n'	ne	ADV	_	Polarity=Neg	12	advmod	_	gold_pos=ADV|prpos=Rp|SpaceAfter=No|uppos=NEG
-9	en	en	PRON	_	PronType=Prs	12	obl	_	gold_pos=PRON|join=left|prpos=Pp|uppos=PRO
-10	n*avoes	avoir	AUX	_	VerbForm=Fin	12	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
-11	auttant	autant	ADV	_	_	12	advmod	_	gold_pos=ADV|prpos=Rg|uppos=Q
-12	achapté	acheter	VERB	_	VerbForm=Part	3	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
-13	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
-14	»	»	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fs|uppos=PONFP
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 13 advcl	color:blue
+1	Pour	pour	ADP	P	_	2	case	_	prpos=S
+2	laquelle	lequel	PRON	WPRO	PronType=Rel	7	obl	_	prpos=Pr
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	plet	plet	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc
+5	ne	ne	ADV	NEG	_	7	advmod	_	prpos=Rp
+6	sera	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	7	aux:pass	_	prpos=Vuc
+7	delayé	délayer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge|SpaceAfter=No
+8	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+9	si	si	SCONJ	CONJS	_	13	mark	_	prpos=Cs
+10	le	le	DET	D	Definite=Def|PronType=Art	11	det	_	prpos=Da
+11	demandeur	demandeur	NOUN	NCS	Number=Sing	13	nsubj	_	prpos=Nc
+12	ne	ne	ADV	NEG	_	13	advmod	_	prpos=Rp
+13	veut	vouloir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	7	advcl	_	prpos=Vvc|SpaceAfter=No
+14	.	.	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 18 advcl	color:blue
-1	Collin	Collin	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-2	Thommes	Thommes	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-3	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-4	et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-5	raporte	rapporter	VERB	_	VerbForm=Fin	3	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-6	que	que	SCONJ	_	_	9	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
-7	il	il	PRON	_	PronType=Prs	9	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-8	se	se	PRON	_	PronType=Prs	9	expl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-9	trouva	trouver	VERB	_	VerbForm=Fin	3	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-10	en	en	ADP	_	_	12	case	_	gold_pos=ADP|prpos=S|uppos=P
-11	la	le	DET	_	Definite=Def	12	det	_	gold_pos=DET|prpos=Da|uppos=D
-12	maison	maison	NOUN	_	_	9	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-13	de	de	ADP	_	_	15	case	_	gold_pos=ADP|prpos=S|uppos=P
-14	ledit	ledit	DET	_	Definite=Ind	15	det	_	gold_pos=DET|prpos=Di|uppos=D
-15	Ferost	Ferost	PROPN	_	Number=Plur	12	nmod	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-16	estant	être	AUX	_	_	18	cop	_	gold_pos=AUX|prpos=Ga|uppos=EG
-17	fort	fort	ADV	_	_	18	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-18	malade	malade	ADJ	_	_	9	advcl	_	gold_pos=ADJ|prpos=Ag|SpaceAfter=No|uppos=ADJ
-19	,	,	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 advcl	color:blue
+1	et	et	CCONJ	CONJO	_	3	cc	_	prpos=Cc|wordform=[et]
+2	ne	ne	ADV	NEG	_	3	advmod	_	prpos=Rp
+3	reste	rester	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+4	qu'	que	ADV	ADV	_	6	advmod	_	prpos=Rg
+5	à	à	ADP	P	_	6	mark	_	join=left|prpos=S
+6	iuger	juger	VERB	VX	VerbForm=Inf	3	xcomp	_	prpos=Vvn
+7	s'	si	SCONJ	CONJS	_	10	mark	_	prpos=Cs
+8	ils	il	PRON	PRO	PronType=Prs	10	nsubj	_	join=left|prpos=Pp
+9	sont	être	AUX	EJ	Number=Plur|Person=3|VerbForm=Fin	10	cop	_	prpos=Vuc
+10	destructifs	destructif	ADJ	ADJ	_	6	advcl	_	prpos=Ag|SpaceAfter=No
+11	,	,	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
+12	ou	ou	CCONJ	CONJO	_	13	cc	_	prpos=Cc
+13	non	non	ADV	ADV	_	10	conj	_	prpos=Rg|SpaceAfter=No
+14	.	.	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 advcl	color:blue
-1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-2	estoet	être	AUX	_	VerbForm=Fin	3	cop	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
-3	presente	présent	ADJ	_	_	0	root	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
-4	quant	quand	SCONJ	_	_	8	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=WH
-5	ledit	ledit	DET	_	Definite=Ind	6	det	_	gold_pos=DET|prpos=Di|uppos=D
-6	Ferost	Ferost	PROPN	_	Number=Plur	8	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-7	fut	être	AUX	_	VerbForm=Fin	8	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
-8	enseveluy	ensevelir	VERB	_	VerbForm=Part	3	advcl	_	gold_pos=VERB|prpos=Ge|SpaceAfter=No|uppos=VPP
-9	,	,	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 advcl	color:blue
+1	Mais	mais	CCONJ	CONJO	_	10	cc	_	prpos=Cc
+2	s'	si	SCONJ	CONJS	_	4	mark	_	prpos=Cs
+3	il	il	PRON	PRO	PronType=Prs	4	nsubj	_	join=left|prpos=Pp
+4	vouloit	vouloir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	10	advcl	_	prpos=Vvc
+5	estre	être	AUX	EX	VerbForm=Inf	6	aux:pass	_	prpos=Vun
+6	defendu	défendre	VERB	VPP	Tense=Past|VerbForm=Part	4	xcomp	_	prpos=Ge|SpaceAfter=No
+7	,	,	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
+8	il	il	PRON	PRO	PronType=Prs	10	nsubj	_	prpos=Pp
+9	seroit	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	10	cop	_	prpos=Vuc
+10	suiet	sujet	ADJ	ADJ	_	0	root	_	prpos=Ag
+11	les	il	PRON	PRO	PronType=Prs	12	obj	_	prpos=Pp
+12	prouuer	prouver	VERB	VX	VerbForm=Inf	10	xcomp	_	prpos=Vvn|SpaceAfter=No
+13	.	.	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
 
 ~~~
 

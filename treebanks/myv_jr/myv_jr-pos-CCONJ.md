@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>ды</em> (<tt><a href="myv_jr-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 2.080547).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 2.079051).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 
@@ -61,7 +61,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ды”: <em>
 
 `CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="myv_jr-dep-cc.html">cc</a></tt> (387; 98% instances), <tt><a href="myv_jr-dep-cc-preconj.html">cc:preconj</a></tt> (5; 1% instances), <tt><a href="myv_jr-dep-mark.html">mark</a></tt> (3; 1% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (265; 67% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (75; 19% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (14; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 1% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (265; 67% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (75; 19% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (14; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (10; 3% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 395 (100%) `CCONJ` nodes are leaves.
 

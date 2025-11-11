@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Com`, `Dat`, `Loc`, `Nom`, `Tem`.
 
-230 tokens (23%) have a non-empty value of `Case`.
-106 types (29%) occur at least once with a non-empty value of `Case`.
-80 lemmas (28%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (128; 13% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (84; 8% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+232 tokens (23%) have a non-empty value of `Case`.
+107 types (29%) occur at least once with a non-empty value of `Case`.
+81 lemmas (28%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (129; 13% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (85; 9% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-128 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (43% of all `NOUN` tokens) have a non-empty value of `Case`.
+129 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (43% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (108; 84%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (102; 80%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (102; 80%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95; 74%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (90; 70%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (109; 84%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (103; 80%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (103; 80%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (96; 74%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (91; 71%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Com` (4; 3% of non-empty `Case`): <em>ytãnurukata, imiakurykata, iãkynykata, ũtanyrykata</em>
 * `Dat` (7; 5% of non-empty `Case`): <em>apikumunhi, aapukumunhi, sitatximunhi, ytanurumunhi</em>
 * `Loc` (13; 10% of non-empty `Case`): <em>kananeã, aapukutxiã, kawãryã, makiã, nytukarẽã, awinhinã, pawinhiã, ukinhiã, ãawinhinhĩã</em>
-* `Nom` (104; 81% of non-empty `Case`): <em>ximaky, aapuku, awiri, yky, kyky, aapukutxi, ãkiti, ũty, nynyru, pynyru</em>
+* `Nom` (105; 81% of non-empty `Case`): <em>ximaky, aapuku, awiri, yky, kyky, aapukutxi, ãkiti, ũty, nynyru, parĩkatxi</em>
 * `EMPTY` (170): <em>iãtã, awinhi, ywãtãa, maky, sytu, ũimiakury, iãkynytikinhi, kumyry, kãkity, nhipukury</em>
 
 <table>
@@ -43,22 +43,22 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-84 <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Case`.
+85 <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> tokens (80% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="apu_ufpa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (81; 96%), <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 80%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64; 76%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (43; 51%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="apu_ufpa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (84; 99%), <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 79%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64; 75%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (43; 51%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Dat` (4; 5% of non-empty `Case`): <em>athamunhi, Hĩthamunhi, ywamunhi</em>
+* `Dat` (5; 6% of non-empty `Case`): <em>athamunhi, hĩthamunhi, ywamunhi</em>
 * `Loc` (2; 2% of non-empty `Case`): <em>Ywã</em>
-* `Nom` (78; 93% of non-empty `Case`): <em>ywa, nynuwa, uwa, nuta, pitha, Kiripa</em>
+* `Nom` (78; 92% of non-empty `Case`): <em>ywa, nynuwa, uwa, nuta, pitha, Kiripa</em>
 * `EMPTY` (21): <em>ykynypuku, atha, kiripa, Kerupa, Athe, Ykynyk, pithe</em>
 
 <table>
   <tr><th>Paradigm <i>ywa</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td></td><td><em>Ywã</em></td></tr>
-  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="apu_ufpa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ywa</em></td><td><em>ywamunhi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="apu_ufpa-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ywa</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ywa</em></td><td><em>ywamunhi</em></td><td><em>Ywã</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ywa</em></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>Ywã</em></td></tr>
 </table>
 
 ### `PROPN`
@@ -76,14 +76,14 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 6 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (5; 83%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (5; 83%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Loc` (2; 33% of non-empty `Case`): <em>atamarakitinhitã, mitharyã</em>
 * `Nom` (2; 33% of non-empty `Case`): <em>naiatinhi, puturikinhi</em>
 * `Tem` (2; 33% of non-empty `Case`): <em>sykasaaky, Ĩkanapyryãkasaaky</em>
-* `EMPTY` (208): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, kamary, apukary, awama, kaiãapukury</em>
+* `EMPTY` (209): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, kamary, apukary, awama, kaiãapukury</em>
 
 ### `ADV`
 

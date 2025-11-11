@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>gase</em> (<tt><a href="nmf_suansu-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (1) was observed with the lemma “athoonge”: <em>athoongenahn</em>.
 
@@ -39,7 +39,7 @@ The 2nd highest number of forms (1) was observed with the lemma “dhohn”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “dyenan”: <em>dyenan</em>.
 
-`ADP` occurs with 5 features: <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt> (6; 21% instances), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt> (4; 14% instances), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt> (3; 11% instances), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt> (3; 11% instances), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt> (3; 11% instances)
+`ADP` occurs with 5 features: <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt> (6; 21% instances), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt> (4; 14% instances), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt> (3; 11% instances), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt> (3; 11% instances), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt> (2; 7% instances)
 
 `ADP` occurs with 7 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Loc`, `Mood=Ind`, `Tense=Past`, `VerbForm=Fin`, `VerbForm=Inf`
 

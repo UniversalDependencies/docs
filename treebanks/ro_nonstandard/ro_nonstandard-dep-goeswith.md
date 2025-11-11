@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	Ref=PART_III_CAP_3.3
 7	cumpărare	cumpărare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	conj	_	Ref=PART_III_CAP_3.3
 8	(	(	PUNCT	LPAR	_	11	punct	_	Ref=PART_III_CAP_3.3|SpaceAfter=No
-9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	Ref=PART_III_CAP_3.3
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	11	case	_	Ref=PART_III_CAP_3.3
 10	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	Ref=PART_III_CAP_3.3
 11	15	15	NUM	M	NumForm=Digit	3	nummod	_	Ref=PART_III_CAP_3.3|SpaceAfter=No
 12	,	,	PUNCT	COMMA	_	16	punct	_	Ref=PART_III_CAP_3.3
@@ -39,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 15	la	_	X	Spsa	_	14	goeswith	_	Ref=PART_III_CAP_3.3
 16	29	29	NUM	M	NumForm=Digit	11	conj	_	Ref=PART_III_CAP_3.3
 17	și	și	CCONJ	Ccssp	Polarity=Pos	20	cc	_	Ref=PART_III_CAP_3.3
-18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	Ref=PART_III_CAP_3.3
+18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	20	case	_	Ref=PART_III_CAP_3.3
 19	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	18	fixed	_	Ref=PART_III_CAP_3.3
 20	35	35	NUM	M	NumForm=Digit	11	conj	_	Ref=PART_III_CAP_3.3|SpaceAfter=No
 21	,	,	PUNCT	COMMA	_	25	punct	_	Ref=PART_III_CAP_3.3

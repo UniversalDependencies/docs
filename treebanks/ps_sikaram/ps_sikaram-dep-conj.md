@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-186 nodes (7%) are attached to their parents as `conj`.
+251 nodes (6%) are attached to their parents as `conj`.
 
-186 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.1021505376344.
+251 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.27888446215139.
 
-The following 18 pairs of parts of speech are connected with `conj`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (60; 32% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (56; 30% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (20; 11% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (13; 7% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (9; 5% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `conj`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (82; 33% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (75; 30% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (26; 10% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (14; 6% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (14; 6% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,9 +30,9 @@ The following 18 pairs of parts of speech are connected with `conj`: <tt><a href
 6	قضاوتونه	قضاوت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	Translit=qazâwatúna|LTranslit=qazâwát|Gloss=judgments
 7	او	او	CCONJ	_	_	8	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 8	اټکلونه	اټکل	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	Translit=aṭkalúna|LTranslit=aṭkál|Gloss=assumptions
-9	ناسم	ناسم	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	10	xcomp	_	Translit=nâsám|LTranslit=nâsám|Gloss=incorrect
+9	ناسم	ناسم	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg	10	xcomp	_	Translit=nấsam|LTranslit=nấsam|Gloss=incorrect
 10	خېژي	ختل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=xeží|LTranslit=xatë́l|Gloss=arise|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.
+11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 18 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 7 11 conj	color:blue
 1	هغۀ	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=haġë́|LTranslit=haġá|Gloss=he
 2	هڅه	هڅه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	Translit=háca|LTranslit=háca|Gloss=attempt
-3	وکړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Long|VerbForm=Fin	0	root	_	Translit=wë́kṛa|LTranslit=kawë́l|Gloss=did
+3	وکړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Short|VerbForm=Fin	0	root	_	Translit=wë́kṛa|LTranslit=kawë́l|Gloss=did
 4	چې	چې	SCONJ	_	_	13	mark	_	Translit=če|LTranslit=če|Gloss=that
 5	د	د	ADP	_	Case=Acc	7	case	_	Translit=dë|LTranslit=dë|Gloss=of
 6	سګرېټ	سګرېټ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=segréṭ|LTranslit=segréṭ|Gloss=cigarette
@@ -54,7 +54,7 @@ The following 18 pairs of parts of speech are connected with `conj`: <tt><a href
 9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|LTranslit=dë|Gloss=of
 10	شراب	شراب	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	nmod	_	Translit=šarấb|LTranslit=šarấb|Gloss=alcohol
 11	څښلو	څښل	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	7	conj	_	Translit=cx̌ë́lo|LTranslit=cx̌ël|Gloss=drinking
-12	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	compound	_	Translit=më́xa|LTranslit=më́xa|Gloss=way
+12	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	Translit=më́xa|LTranslit=më́xa|Gloss=way
 13	ونیسي	نیول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	3	ccomp	_	Translit=wë́nisi|LTranslit=niwë́l|Gloss=would-catch|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 

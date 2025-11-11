@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>na</em> (<tt><a href="sk_snk-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.216667 (the average of all parts of speech is 1.802472).
+The form / lemma ratio of `ADP` is 1.216667 (the average of all parts of speech is 1.802691).
 
 The 1st highest number of forms (3) was observed with the lemma “na”: <em>AN, ma, na</em>.
 
@@ -70,7 +70,7 @@ Examples: <em>v, na, po, o, pri, popri</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="sk_snk-dep-case.html">case</a></tt> (8550; 99% instances), <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (57; 1% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="sk_snk-dep-case.html">case</a></tt> (8550; 99% instances), <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (57; 1% instances), <tt><a href="sk_snk-dep-advcl-pred.html">advcl:pred</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (1; 0% instances)
 
 Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (6670; 77% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (739; 9% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (710; 8% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (281; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (68; 1% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (50; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

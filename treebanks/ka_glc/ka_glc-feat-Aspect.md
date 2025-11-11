@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-3444 tokens (6%) have a non-empty value of `Aspect`.
-1364 types (9%) occur at least once with a non-empty value of `Aspect`.
-704 lemmas (8%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3444; 6% instances).
+3449 tokens (6%) have a non-empty value of `Aspect`.
+1369 types (9%) occur at least once with a non-empty value of `Aspect`.
+703 lemmas (8%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3449; 6% instances).
 
 ### `VERB`
 
-3444 <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Aspect`.
+3449 <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3334; 97%), <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3219; 93%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (2888; 84%), <tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2785; 81%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2719; 79%), <tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1928; 56%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1747; 51%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3353; 97%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3353; 97%), <tt><a href="ka_glc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3353; 97%), <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3339; 97%), <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3223; 93%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (2891; 84%), <tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2788; 81%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2725; 79%), <tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1932; 56%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1751; 51%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (1716; 50% of non-empty `Aspect`): <em>შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება, უწოდებენ</em>
-* `Perf` (1728; 50% of non-empty `Aspect`): <em>შეისწავლის, წარმოადგენს, მოიცავს, ჩამოყალიბდა, დაიწყო, შედგება, შეიქმნა, გახდა, განსაზღვრავს, მიიღო</em>
-* `EMPTY` (426): <em>აქვს, აქვთ, შედის, დანალექი, იყოფა, გამოიყოფა, ჰქონდა, უზრუნველყოფს, ასახული, დამუხტული</em>
+* `Imp` (1726; 50% of non-empty `Aspect`): <em>შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება, უწოდებენ</em>
+* `Perf` (1723; 50% of non-empty `Aspect`): <em>შეისწავლის, წარმოადგენს, მოიცავს, ჩამოყალიბდა, დაიწყო, შედგება, შეიქმნა, გახდა, განსაზღვრავს, მიიღო</em>
+* `EMPTY` (606): <em>აქვს, აქვთ, დაკავშირებული, შესაძლებელი, შედის, დანალექი, იყოფა, აღსანიშნავი, გავრცელებული, გამოიყოფა</em>
 
 <table>
   <tr><th>Paradigm <i>სწავლობს</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -45,8 +45,6 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (222; 61%),
-<tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (80; 57%),
-<tt>VERB --[<tt><a href="ka_glc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="ka_glc-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (223; 58%),
+<tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (80; 54%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hy_bsut-dep-advcl.html">advcl</a></tt>.
 
-43 nodes (0%) are attached to their parents as `advcl:relcl`.
+53 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-23 instances of `advcl:relcl` (53%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.09302325581395.
+30 instances of `advcl:relcl` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.28301886792453.
 
-The following 8 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (29; 67% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (4; 9% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (34; 64% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (5; 9% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 3	սովորականի	սովորական	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	5	obl	_	Translit=sovorakani|LTranslit=sovorakan
 4	պես	պես	ADP	_	AdpType=Post	3	case	_	Translit=pes|LTranslit=pes
 5	սկսեցինք	սկսել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl:relcl	_	Translit=sksec’ink’|LTranslit=sksel
-6	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det:poss	_	Translit=mer|LTranslit=menk’
+6	մեր	մեր	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det:poss	_	Translit=mer|LTranslit=mer
 7	խաղը	խաղ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	obj	_	Translit=xaġë|LTranslit=xaġ|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
 9	Սերոբը	Սերոբ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	10	nsubj	_	Translit=Serobë|LTranslit=Serob
@@ -55,25 +55,45 @@ The following 8 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 6 advcl:relcl	color:blue
-1	Որովհետև	որովհետև	SCONJ	_	_	12	cc	_	Translit=Orovhetew|LTranslit=orovhetew
-2	քո	դու	DET	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	det:poss	_	Translit=k’o|LTranslit=dow
-3	սեփական	սեփական	ADJ	_	_	4	amod	_	Translit=sep’akan|LTranslit=sep’akan
-4	կյանքում	կյանք	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	12	obl	_	Translit=kyank’owm|LTranslit=kyank’
-5	ոնց	ոնց	ADV	_	PronType=Rel|Style=Coll	6	advmod	_	Translit=onc’|LTranslit=onc’
-6	շարժվում	շարժվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	12	advcl:relcl	_	Translit=šaržvowm|LTranslit=šaržvel
-7	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=es|LTranslit=em|SpaceAfter=No
-8	՝	՝	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
-9	փակուղի	փակուղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	10	obl	_	Translit=p’akowġi|LTranslit=p’akowġi
-10	տանող	տանել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	12	acl	_	Translit=tanoġ|LTranslit=tanel
-11	փոքր	փոքր	ADJ	_	Degree=Pos	12	amod	_	Translit=p’ok’r|LTranslit=p’ok’r
-12	ճանապարհ	ճանապարհ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=č̣anaparh|LTranslit=č̣anaparh
-13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
-14	:	:	PUNCT	_	Foreign=Yes	12	punct	_	Translit=.|LTranslit=.
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 31 29 advcl:relcl	color:blue
+1	Գալով	գալ	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	13	advcl	_	Translit=Galov|LTranslit=gal
+2	ստացած	ստանալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	5	acl	_	Translit=stac’aç|LTranslit=stanal
+3	և	և	CCONJ	_	_	4	cc	_	Translit=ew|LTranslit=ew
+4	ստանալիք	ստանալ	VERB	_	Aspect=Prosp|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	2	conj	_	Translit=stanalik’|LTranslit=stanal
+5	տհաճություններին	տհաճություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	1	obj	_	Translit=thač̣owt’yownnerin|LTranslit=thač̣owt’yown|SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
+7	ապա	ապա	SCONJ	_	_	13	mark	_	Translit=apa|LTranslit=apa
+8	ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	obj	_	Translit=inj|LTranslit=es
+9	և	և	CCONJ	_	_	11	cc	_	Translit=ew|LTranslit=ew
+10	մեր	մեր	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	det:poss	_	Translit=mer|LTranslit=mer
+11	երիտասարդներին	երիտասարդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	8	conj	_	Translit=eritasardnerin|LTranslit=eritasard
+12	պիտի	պիտի	AUX	_	Mood=Nec|Polarity=Pos	13	aux	_	Translit=piti|LTranslit=piti
+13	մխիթարեմ	մխիթարել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=mxit’arem|LTranslit=mxit’arel
+14	հին	հին	ADJ	_	Degree=Pos	17	amod	_	Translit=hin|LTranslit=hin
+15	և	և	CCONJ	_	_	16	cc	_	Translit=ew|LTranslit=ew
+16	հավիտենական	հավիտենական	ADJ	_	_	14	conj	_	Translit=havitenakan|LTranslit=havitenakan
+17	ճշմարտությամբ	ճշմարտություն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Coll	13	obl	_	Translit=č̣šmartowt’yamb|LTranslit=č̣šmartowt’yown|SpaceAfter=No
+18	.	.	PUNCT	_	Foreign=Yes	24	punct	_	Translit=.|LTranslit=.
+19	«	«	PUNCT	_	_	24	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+20	Ով	ով	PRON	_	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	_	Translit=Ov|LTranslit=ov
+21	կարող	կարող	ADJ	_	Degree=Pos	24	advcl:relcl	_	Translit=karoġ|LTranslit=karoġ
+22	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
+23	`	`	PUNCT	_	Foreign=Yes	24	punct	_	Translit=,|LTranslit=,
+24	անում	անել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	17	appos	_	Translit=anowm|LTranslit=anel
+25	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	24	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
+26	,	,	PUNCT	_	_	31	punct	_	Translit=,|LTranslit=,
+27	ով	ով	PRON	_	Case=Nom|Number=Sing|PronType=Rel	29	nsubj	_	Translit=ov|LTranslit=ov
+28	չի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	29	cop	_	Translit=či|LTranslit=em
+29	կարող	կարող	ADJ	_	Degree=Pos	31	advcl:relcl	_	Translit=karoġ|LTranslit=karoġ|SpaceAfter=No
+30	`	`	PUNCT	_	Foreign=Yes	31	punct	_	Translit=,|LTranslit=,
+31	ուսուցանում	ուսուցանել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	24	conj	_	Translit=owsowc’anowm|LTranslit=owsowc’anel
+32	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	31	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
+33	»	»	PUNCT	_	_	24	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+34	:	:	PUNCT	_	Foreign=Yes	13	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

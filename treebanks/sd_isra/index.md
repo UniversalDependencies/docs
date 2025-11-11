@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Mutee-u Rahman.
 
 Repository: [UD_Sindhi-Isra](https://github.com/UniversalDependencies/UD_Sindhi-Isra)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsd_isra216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsd_isra217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -84,21 +84,21 @@ Publication out for review.
 
 ## Features
 
-[Aspect](sd_isra-feat-Aspect.html) – [Case](sd_isra-feat-Case.html) – [Degree](sd_isra-feat-Degree.html) – [Gender](sd_isra-feat-Gender.html) – [Gender[obj]](sd_isra-feat-Gender-obj.html) – [Gender[subj]](sd_isra-feat-Gender-subj.html) – [Mood](sd_isra-feat-Mood.html) – [Number](sd_isra-feat-Number.html) – [Number[obj]](sd_isra-feat-Number-obj.html) – [Number[subj]](sd_isra-feat-Number-subj.html) – [PartType](sd_isra-feat-PartType.html) – [Person](sd_isra-feat-Person.html) – [Person[obj]](sd_isra-feat-Person-obj.html) – [Person[subj]](sd_isra-feat-Person-subj.html) – [Polarity](sd_isra-feat-Polarity.html) – [Tense](sd_isra-feat-Tense.html) – [VerbForm](sd_isra-feat-VerbForm.html) – [Voice](sd_isra-feat-Voice.html)
+[Aspect](sd_isra-feat-Aspect.html) – [Case](sd_isra-feat-Case.html) – [Degree](sd_isra-feat-Degree.html) – [ExtPos](sd_isra-feat-ExtPos.html) – [Gender](sd_isra-feat-Gender.html) – [Gender[obj]](sd_isra-feat-Gender-obj.html) – [Gender[subj]](sd_isra-feat-Gender-subj.html) – [Mood](sd_isra-feat-Mood.html) – [Number](sd_isra-feat-Number.html) – [Number[obj]](sd_isra-feat-Number-obj.html) – [Number[subj]](sd_isra-feat-Number-subj.html) – [PartType](sd_isra-feat-PartType.html) – [Person](sd_isra-feat-Person.html) – [Person[obj]](sd_isra-feat-Person-obj.html) – [Person[subj]](sd_isra-feat-Person-subj.html) – [Polarity](sd_isra-feat-Polarity.html) – [PronType](sd_isra-feat-PronType.html) – [Tense](sd_isra-feat-Tense.html) – [Typo](sd_isra-feat-Typo.html) – [VerbForm](sd_isra-feat-VerbForm.html) – [Voice](sd_isra-feat-Voice.html)
 
 ## Relations
 
-[acl](sd_isra-dep-acl.html) – [acl:relcl](sd_isra-dep-acl-relcl.html) – [advcl](sd_isra-dep-advcl.html) – [advmod](sd_isra-dep-advmod.html) – [advmod:emph](sd_isra-dep-advmod-emph.html) – [amod](sd_isra-dep-amod.html) – [appos](sd_isra-dep-appos.html) – [aux](sd_isra-dep-aux.html) – [case](sd_isra-dep-case.html) – [cc](sd_isra-dep-cc.html) – [ccomp](sd_isra-dep-ccomp.html) – [compound](sd_isra-dep-compound.html) – [conj](sd_isra-dep-conj.html) – [cop](sd_isra-dep-cop.html) – [dep](sd_isra-dep-dep.html) – [det](sd_isra-dep-det.html) – [discourse](sd_isra-dep-discourse.html) – [dislocated](sd_isra-dep-dislocated.html) – [fixed](sd_isra-dep-fixed.html) – [flat](sd_isra-dep-flat.html) – [iobj](sd_isra-dep-iobj.html) – [mark](sd_isra-dep-mark.html) – [nmod](sd_isra-dep-nmod.html) – [nsubj](sd_isra-dep-nsubj.html) – [nsubj:pass](sd_isra-dep-nsubj-pass.html) – [nummod](sd_isra-dep-nummod.html) – [obj](sd_isra-dep-obj.html) – [obl](sd_isra-dep-obl.html) – [parataxis](sd_isra-dep-parataxis.html) – [punct](sd_isra-dep-punct.html) – [root](sd_isra-dep-root.html) – [vocative](sd_isra-dep-vocative.html) – [xcomp](sd_isra-dep-xcomp.html)
+[acl](sd_isra-dep-acl.html) – [acl:relcl](sd_isra-dep-acl-relcl.html) – [advcl](sd_isra-dep-advcl.html) – [advmod](sd_isra-dep-advmod.html) – [advmod:emph](sd_isra-dep-advmod-emph.html) – [amod](sd_isra-dep-amod.html) – [appos](sd_isra-dep-appos.html) – [aux](sd_isra-dep-aux.html) – [case](sd_isra-dep-case.html) – [cc](sd_isra-dep-cc.html) – [ccomp](sd_isra-dep-ccomp.html) – [compound](sd_isra-dep-compound.html) – [compound:redup](sd_isra-dep-compound-redup.html) – [conj](sd_isra-dep-conj.html) – [cop](sd_isra-dep-cop.html) – [csubj](sd_isra-dep-csubj.html) – [dep](sd_isra-dep-dep.html) – [det](sd_isra-dep-det.html) – [discourse](sd_isra-dep-discourse.html) – [dislocated](sd_isra-dep-dislocated.html) – [fixed](sd_isra-dep-fixed.html) – [flat](sd_isra-dep-flat.html) – [iobj](sd_isra-dep-iobj.html) – [mark](sd_isra-dep-mark.html) – [nmod](sd_isra-dep-nmod.html) – [nmod:poss](sd_isra-dep-nmod-poss.html) – [nsubj](sd_isra-dep-nsubj.html) – [nsubj:pass](sd_isra-dep-nsubj-pass.html) – [nummod](sd_isra-dep-nummod.html) – [obj](sd_isra-dep-obj.html) – [obl](sd_isra-dep-obl.html) – [parataxis](sd_isra-dep-parataxis.html) – [punct](sd_isra-dep-punct.html) – [root](sd_isra-dep-root.html) – [vocative](sd_isra-dep-vocative.html) – [xcomp](sd_isra-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1342 sentences and 15741 tokens.</li>
+<li>This corpus contains 5756 sentences and 95227 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 203 tokens (1%) that are not followed by a space.</li>
+<li>This corpus contains 6742 tokens (7%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -106,7 +106,7 @@ Publication out for review.
 </ul>
 
 <ul>
-<li>This corpus does not contain words that contain both letters and punctuation.</li>
+<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: ’مـُون‘, B.T, D.I.G, http://www.cctv.com.pk, https://www.facebook.com/Birdsofsindh/, https://www.facebook.com/groups/499653667487200/, talpuraltaf@gmail.com, اي–ميل, اڻ-ڌريو, تخليق-, ن-ع, ’مون‘</li>
 </ul>
 
 <ul>
@@ -122,27 +122,27 @@ Publication out for review.
 </ul>
 
 <ul>
-<li>This corpus contains 15 word types tagged as particles (PART): ئي, به, ته, سهي, نا, نه, نہ, وغيره, ِئي, پڻ, ڀي, ڌ, ڪانه, ڪونه, ڪين</li>
+<li>This corpus contains 31 word types tagged as particles (PART): ءَ, ئي, به, بي, بہ, تـه, ته, تہ, ساڍا, سهي, في, نا, نه, نهين, نہ, هون, هين, و, وغيره, ِئي, ٻه, پڻ, ڀي, ڌ, ڪانه, ڪو, ڪون, ڪونه, ڪي, ڪين, ڪيڏانهن</li>
 </ul>
 
 <ul>
-<li>This corpus contains 61 lemmas tagged as pronouns (PRON): _, آء, آءٌ, آءَ, آئون, آهي, ائين, اسان, اسين, انهي, اهو, اوهان, اوهين, اُن, اُهي, تنهن, تنهنجو, تنهنجي, تو, تون, توهان, توھان, تي, تيڏا, جن, جنهن, جهڙو, جو, جي, جيئن, جيڪو, جھڙو, خود, سا, سـو, سندس, سندو, سو, سين, مان, منهنجو, مون, هو, هي, هُو, ٻيئي, پاڻ, پنهنجو, پنهنجي, پنهنجيءَ, ڇا, ڇو, کي, ڪا, ڪهڙو, ڪو, ڪيئن, ڪير, ڪٿي, ڪھڙو, ھي</li>
+<li>This corpus contains 83 lemmas tagged as pronouns (PRON): _, آء, آءٌ, آءَ, آءُ, آئون, آهي, ائين, اسانجو, اسين, ان, انهي, انھي, اهوئي, اوهان, اوهين, اُهي, تنهن, تنهنجو, تنهنجي, تنھن, تنھنجو, تهڙو, تو, توسان, تون, توهان, توھان, تي, تيڏا, جن, جنھن, جهڙو, جو, جوئي, جي, جيئن, جيو, جيڪو, جھڙو, خود, سا, ساڻس, سـو, سندس, سندو, سنڌي, سو, سي, سين, مان, منهنجو, مهنجو, مون, مونسان, ميري, هتي, هـُن, هوءَ, هي, هيءُ, هُو, ٻيئي, پاڻ, پاڻي, پنهنجو, پنهنجي, پنهنجيءَ, پنھنجو, ڄڻ, ڇا, ڇو, کي, ڪئين, ڪجهه, ڪـو, ڪهڙو, ڪو, ڪيئن, ڪير, ڪيڏانهن, ڪھڙو, ھي</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as determiners (DET): _, اسان, ان, اها, اهو, اهي, اهڙو, اُن, اِها, اھي, جهڙو, جي, جيڪو, جھڙو, سي, مان, هر, هرڪو, هن, هو, هوءَ, هي, هُو, هُوءَ, ڪا, ڪنهن, ڪو, ڪي, ھي</li>
+<li>This corpus contains 41 lemmas tagged as determiners (DET): _, اسين, ان, انهي, اها, اهو, اهڙو, اُن, اُها, اُهو, اِها, اِهو, اھا, اھو, اھڙو, جنهن, جهڙو, جو, جي, جيڪو, جھڙو, سي, مان, نه, هر, هرڪو, هـُن, هن, هو, هوءَ, هي, هيءُ, هُو, هُوءَ, هِن, پنهنجو, ڪهڙو, ڪو, ڪوبه, ڪي, ھي</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: _, اسان, اهو, اُن, جهڙو, جي, جيڪو, جھڙو, مان, هو, هي, هُو, ڪا, ڪو, ھي</li>
+<li>Out of the above, 20 lemmas occurred sometimes as PRON and sometimes as DET: _, اسين, ان, انهي, جهڙو, جو, جي, جيڪو, جھڙو, سي, مان, هـُن, هوءَ, هي, هيءُ, هُو, پنهنجو, ڪهڙو, ڪو, ھي</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): آهي, سگهي</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): _, آهي, سگهي</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: آهي, سگهي</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: _, آهي</li>
 </ul>
 
 <ul>
@@ -152,7 +152,7 @@ Publication out for review.
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: ڪري, اچي, وٺي, وڃي, کڻي, ڏسي, ويهي, چڙهي, ڏيئي, کائي</li>
+    <li>VERB: ڪري, اچي, کڻي, وٺي, ٻڌي, ڏسي, وڃي, کائي, چڙهي, نڪري</li>
   </ul>
   </li>
 </ul>
@@ -160,7 +160,8 @@ Publication out for review.
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: ڪرڻ, ڏيڻ, وڃڻ, ٿيڻ, اچڻ, رهڻ, هلڻ, ٻڌڻ, پوڻ, پيئڻ</li>
+    <li>AUX: سگهڻ, ٿيڻ</li>
+    <li>VERB: ڪرڻ, ٿيڻ, ڏيڻ, چوڻ, وڃڻ, ڏسڻ, اچڻ, کائڻ, رهڻ, رکڻ</li>
   </ul>
   </li>
 </ul>
@@ -168,7 +169,7 @@ Publication out for review.
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: لکندڙ, ايندڙ, نچندڙ, هلندڙ, ويندڙ, ڪندڙ, رهندڙ, رکندڙ, ملائيندڙ, نڪرندڙ</li>
+    <li>VERB: ڪندڙ, ٿيندڙ, ايندڙ, هلندڙ, رکندڙ, گذرندڙ, رهندڙ, لکندڙ, ويندڙ, هلائيندڙ</li>
   </ul>
   </li>
 </ul>
@@ -183,16 +184,16 @@ Publication out for review.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: بيگاري, سڄي, هڪڙي, سٺي, گھڻي, سهڻي, وڏي, پراڻي, ڏاڍي, آڳاٽي</li>
-      <li>ADP: جي, کي, واري, جون, سان, لاءِ, مطابق, کان, ئي, جو</li>
-      <li>ADV: تيئن, جيئن, ايئن, هڪدم, ڪڏهن, گھوري, اڄ, بس, جلدي, هت</li>
-      <li>AUX: ٿي, آهي, هئي, نٿي, ٿيون, هوندي, هيون, آ</li>
-      <li>DET: هوءَ, اها, ان, ڪنهن, اهڙي, اهڙيءَ, جهڙي, جيڪا, هن, هيءَ</li>
-      <li>NOUN: ماني, زندگي, ٻوڏ, دل, شينهڻ, پارليامينٽ, دنيا, زال, دائي, ساراهه</li>
-      <li>PRON: پنهنجي, منهنجي, تنهنجي, مونکي, تون, جا, سندن, پنهنجا, پنهنجيءَ, ڪا</li>
-      <li>PROPN: سنڌ, شازيه, نومبر, اُتر, آگسٽ, شام, رابيل, عائشه, فيبروري, مصر</li>
-      <li>VERB: ڪئي, ويئي, آئي, لڳي, پهتي, کاڌي, سهڪندي, ملي, وئي, رهي</li>
-      <li>VERB-Conv: لڳي, هلي, ڪانڊرجي</li>
+      <li>ADJ: ڏاڍي, سڄي, اهڙيءَ, اهڙي, وڏي, هڪڙي, پوري, سهڻي, گهڻي, بيگاري</li>
+      <li>ADP: جي, جون, واري, کي, وارين, واريون, بعد, سان, کان, جهڙيون</li>
+      <li>ADV: تيئن, جيئن, آهستي, ايئن, هڪدم, ڪالهه, ڪڏهن, گھوري, اڄ, اڳتي</li>
+      <li>AUX: ٿي, هئي, آهي, هيون, نٿي, ٿيون, ڪانهي, هوندي, سگهندي, سگهنديون</li>
+      <li>DET: اها, ڪا, جيڪا, هوءَ, ڪهڙي, اهڙي, هيءَ, اهڙيءَ, جهڙي, ان</li>
+      <li>NOUN: ڳالهه, حڪومت, پوليس, زال, دنيا, طرح, طور, خبر, دل, زمين</li>
+      <li>PRON: پنهنجي, منهنجي, تنهنجي, پنهنجيءَ, جهڙي, هوءَ, پنهنجون, جيڪا, مونکي, پنهنجيون</li>
+      <li>PROPN: سنڌ, پ, ڪابيرو, ڪمپا, بي, شام, ماليڪٽ, پارٽي, نومبر, بينظير</li>
+      <li>VERB: ڪئي, ويئي, آئي, ٿيندي, لڳي, ڏني, پيئي, ويون, هوندي, وئي</li>
+      <li>VERB-Conv: هلي, لڳي, ڪانڊرجي</li>
     </ul>
   </li>
 </ul>
@@ -200,16 +201,17 @@ Publication out for review.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: هڪڙو, سٺو, هڪڙي, گھڻو, وڏي, چڱو, ٻئي, ڏاڍو, وڏو, ٻيو</li>
-      <li>ADP: جو, جي, جا, سان, جون, وارن, واري, وارو, کان, بابت</li>
-      <li>ADV: اڄ, جهٽ, سڀاڻي, اصل, اڄڪلھ, نافذ, گڏوگڏ</li>
-      <li>AUX: ٿو, هو, آهي, هئا, ٿا, هوندو, نٿا, ٿي, آهيون, نٿو</li>
-      <li>DET: اهو, هُو, ڪو, هي, جيڪو, هو, اها, اهي, ان, انهن</li>
-      <li>NOUN: گدڙ, شينهن, پاڻي, ماڻهو, ڳوٺ, بئراج, بند, ڪتاب, بچاءُ, انسان</li>
-      <li>PRON: پنهنجي, سو, پنهنجو, تنهنجو, سندس, منهنجو, اسان, جو, جنهن, منهنجا</li>
-      <li>PROPN: ڪي, سکر, گڊو, جيڪب, علي, آغا, خدا, پاڪستان, اسلم, عزرائيل</li>
-      <li>VERB: ويو, ڪيو, رهيو, آيو, لڳو, ٿيو, هليو, بيٺو, لڳا, ويا</li>
-      <li>VERB-Conv: هليو, ڏيئي, ڪندو</li>
+      <li>ADJ: هڪڙي, وڏي, هڪڙو, نئين, وڏو, ڏاڍو, گهڻو, سٺو, ٿورو, ڪيترائي</li>
+      <li>ADP: جي, جو, جا, واري, وارو, وارا, وارن, جون, سان, کان</li>
+      <li>ADV: اڄ, جڏهن, جهٽ, سڀاڻي, اصل, ايتري, ايتريتائين, اڄڪلھ, نافذ, هوڏانهن</li>
+      <li>AUX: هو, ٿو, ٿيو, هئا, ٿي, ٿا, نٿو, سگهيو, آهي, نٿا</li>
+      <li>DET: اهو, ڪو, جيڪو, هو, اهڙو, هُو, ڪي, هي, ڪنهن, اُهو</li>
+      <li>NOUN: شينهن, ملڪ, گدڙ, وقت, ڏينهن, ماڻهو, پاڻي, وزير, بادشاهه, ماڻهن</li>
+      <li>PRON: پنهنجي, سندس, پنهنجو, سندن, پنهنجا, پنهنجن, ڪير, منهنجو, سو, جهڙو</li>
+      <li>PROPN: پاڪستان, علي, ڪراچي, محمد, آمريڪا, احمد, اسلام, الله, نواز, آباد</li>
+      <li>VERB: ويو, ڪيو, ويا, ڏنو, چيو, آيو, لڳو, ڇڏيو, رهيو, رهيا</li>
+      <li>VERB-Conv: ڏيئي</li>
+      <li>VERB-Vnoun: پرائيندڙ, ڪندڙن</li>
     </ul>
   </li>
 </ul>
@@ -222,16 +224,17 @@ Publication out for review.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: سڀ, سڀني, ٻين, ڪيترن, وڏن, ڪيترائي, ٻيا, اڌورا, سڀئي, ٻئي</li>
-      <li>ADP: جا, جون, وارن, کين, جي, ساڻن, وارا, واريون</li>
-      <li>ADV: هـُـنهين, مٿن</li>
-      <li>AUX: آهن, ٿا, هئا, آهيون, ٿيون, آھن, نٿا, سگھن, هوندا, هيون</li>
-      <li>DET: انهن, اهي, هنن, جيڪي, سي, اسان, ڪي, اھي, جن, ڪِن</li>
-      <li>NOUN: ماڻهو, ماڻهن, علائقن, بندن, شينهن, عوام, متاثرن, ججن, ماهي, ڪپڙا</li>
-      <li>PRON: اسان, توهان, جن, اوهان, اسين, سندن, پنهنجا, تن, پنهنجن, اوهين</li>
-      <li>VERB: ويا, ڪن, پيا, ڪريو, ڪندا, وڃن, ڪيا, لڳا, هلون, ويندا</li>
+      <li>ADJ: ٻين, سڀ, ٻنهي, ڪيترائي, ٻئي, ڪيترن, ٻيا, سمورن, نوان, وڏا</li>
+      <li>ADP: جا, جون, وارا, کين, وارن, واريون, وارين, جي, جهڙيون, ساڻن</li>
+      <li>ADV: مٿن, هـُـنهين, ايتريتائين, هيٺين</li>
+      <li>AUX: آهن, ٿا, هئا, آهيون, هيون, ٿيون, سگهن, هجن, نٿا, آھن</li>
+      <li>DET: اسان, انهن, اهي, هنن, ڪي, جيڪي, ڪن, ڪهڙا, جن, اُهي</li>
+      <li>NOUN: ماڻهن, ماڻهو, ٻارن, سالن, سيڪڙو, ادارن, دهشتگردن, علائقن, قيدين, ملڪن</li>
+      <li>NUM: هزارن, لکن, ٽن, چار</li>
+      <li>PRON: اوهان, جن, جيڪي, سندن, توهان, پنهنجا, پنهنجن, اسين, انهن, منهنجا</li>
+      <li>VERB: ويا, پيا, رهيا, ڪيا, ڪن, وڃن, ڪيون, ويندا, ويون, ڪندا</li>
       <li>VERB-Conv: وڻيوَ</li>
-      <li>VERB-Vnoun: ٺاهيندڙن</li>
+      <li>VERB-Vnoun: ويندڙن, ٺاهيندڙن, پرائيندڙ, پڙهندڙن, ڪرائيندڙن, ڪندڙن</li>
     </ul>
   </li>
 </ul>
@@ -239,18 +242,18 @@ Publication out for review.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: هڪڙي, هڪڙو, سٺو, وڏي, گھڻو, بيگاري, بهتر, سڄي, ڏاڍو, هڪ</li>
-      <li>ADP: جي, جو, واري, کي, سان, وارو, جا, کان, لاءِ, کانئس</li>
-      <li>ADV: اڄ, تيئن, جيئن, آهستي, ائين, ايئن, جهٽ, جڏهن, هڪدم, ڀلي</li>
-      <li>AUX: آهي, ٿي, ٿو, هو, هئي, آهيان, ٿئي, آ, آهين, ناهي</li>
-      <li>DET: هن, ان, هُو, هي, اهو, هر, انهيءَ, اها, ڪو, ڪنهن</li>
-      <li>NOUN: گدڙ, شينهن, پاڻي, ڳوٺ, بئراج, ماڻهو, بند, ٻوڏ, بچاءُ, ماني</li>
-      <li>NUM: سؤ, هڪ</li>
-      <li>PRON: پنهنجي, سو, جنهن, تون, مون, منهنجي, ڪنهن, مان, تنهنجي, سندس</li>
-      <li>PROPN: ڪي, آغا, احمد, ايس, جيلاني, خواجا, علي, چوڌري, آباد, جاويد</li>
-      <li>VERB: ويو, ڪيو, گھرجي, چيو, رهيو, ڪئي, پيو, ڇڏيو, آيو, رهي</li>
-      <li>VERB-Conv: هلي, ڏيئي, هليو, پئي, چئي, ڪانڊرجي, ڪندو</li>
-      <li>VERB-Vnoun: لکندڙ</li>
+      <li>ADJ: هڪڙي, وڏي, ٻئي, هڪڙو, نئين, سڄي, ڏاڍي, ڏاڍو, وڏو, اهڙي</li>
+      <li>ADP: جي, جو, واري, وارو, کيس, کي, سان, وارن, جا, کان</li>
+      <li>ADV: جڏهن, اڄ, تيئن, جيئن, آهستي, ايئن, جهٽ, هڪدم, پرتي, ڀلي</li>
+      <li>AUX: آهي, ٿي, هو, ٿو, هئي, ٿيو, ناهي, سگهي, آهيان, هجي</li>
+      <li>DET: هن, ان, اهو, جنهن, ڪنهن, هو, انهيءَ, اها, هر, ڪو</li>
+      <li>NOUN: شينهن, وقت, ملڪ, گدڙ, ڳالهه, ڏينهن, پاڻي, حڪومت, وزير, گهر</li>
+      <li>NUM: سؤ</li>
+      <li>PRON: پنهنجي, مون, تون, آءٌ, منهنجي, سندس, پنهنجو, سو, توکي, مان</li>
+      <li>PROPN: ماليڪٽ, آباد, ڪابيرو, ڪمپا, شريف, سوتون, ڪي, پيپلز, ايم, پارٽي</li>
+      <li>VERB: ويو, ڪيو, چيو, ڪئي, وڃي, ڏنو, ڇڏيو, آيو, لڳو, پيو</li>
+      <li>VERB-Conv: هلي, ڏيئي, ويندي, وٺي, پئي, چئي, ڏسي, ڪانڊرجي</li>
+      <li>VERB-Vnoun: لکندڙ, ڪندڙ, هلندڙ, وٺرائيندڙ, پچندڙ, ٿيندڙ, کيڏندڙ, ڪُن, ھلندڙ</li>
     </ul>
   </li>
 </ul>
@@ -262,7 +265,7 @@ Publication out for review.
 <ul>
   <li>Abl
     <ul>
-      <li>NOUN: اندران, مائيءَ, هنڌان, گھران</li>
+      <li>NOUN: اندران, هٿان, گهران, مائيءَ, نقصانن, هنڌان, گھران</li>
       <li>PROPN: احمد</li>
     </ul>
   </li>
@@ -271,14 +274,15 @@ Publication out for review.
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: هڪڙي, وڏي, ٻئي, سڀني, ٻين, ڪيترن, ايتري, وڏن, ستن, ننڍي</li>
-      <li>ADP: جي, واري, کي, سان, وارن, کيس, کين, لاءِ, کان, کانئس</li>
-      <li>ADV: تيئن, جيئن, ايئن, اڄ, اڳتي, اڄڪلھ, بس, مٿن, پاسي, پوءِ</li>
-      <li>DET: ان, هن, انهيءَ, ڪنهن, انهن, اُن, هنن, اها, هوءَ, اهو</li>
-      <li>NOUN: شينهن, گدڙ, بئراج, پاڻي, ٻوڏ, ڪئنال, جهنگ, دنيا, ماڻهن, انسان</li>
-      <li>PRON: اسان, پاڻ, مون, جنهن, ڪنهن, ڇا, اوهان, تنهن, توهان, جن</li>
-      <li>PROPN: پاڪستان, آباد, آگسٽ, خدا, سنڌين, شام, علي, ڪشمور</li>
-      <li>VERB: چيس, چين, اچيـَو, لڳين, ٻڌايس, پڇيس, پڇين, ٿيم, ڏينم, کنيائين</li>
+      <li>ADJ: هڪڙي, ٻين, ٻئي, وڏي, سڀني, ٻنهي, ڪيترن, نئين, پراڻي, ننڍي</li>
+      <li>ADP: جي, واري, کيس, وارن, کي, کين, سان, کان, وارين, کانئس</li>
+      <li>ADV: جڏهن, تيئن, جيئن, اڳتي, آهستي, ايئن, اڄ, ايتريتائين, اڄڪلھ, بس</li>
+      <li>DET: هن, ان, اسان, جنهن, انهن, ڪنهن, انهيءَ, هنن, ھن, انهي</li>
+      <li>NOUN: ملڪ, ماڻهن, دنيا, شينهن, گهر, گدڙ, بئراج, ڏينهن, حڪومت, زمين</li>
+      <li>NUM: ٻن, هزار, لک, هزارن, لکن, ٽن</li>
+      <li>PRON: مون, پاڻ, اوهان, جن, توهان, انهن, تنهن, ڇا, تو, سندن</li>
+      <li>PROPN: پاڪستان, ڪابيرو, سنڌ, ماليڪٽ, ڪراچي, پارٽي, شريف, پ, آباد, کام</li>
+      <li>VERB: چيس, چين, اچيـَو, لڳين, ويندس, ٻڌايس, پڇيس, پڇين, ٿيم, ڏينم</li>
     </ul>
   </li>
 </ul>
@@ -286,7 +290,8 @@ Publication out for review.
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: پنهنجي, منهنجي, تنهنجي, سندس, تنهنجو, منهنجو, پنهنجو, پنهنجا, تنهنجا, منهنجا</li>
+      <li>DET: پنهنجي</li>
+      <li>PRON: پنهنجي, منهنجي, سندس, پنهنجو, تنهنجي, سندن, پنهنجا, پنهنجن, منهنجو, پنهنجيءَ</li>
     </ul>
   </li>
 </ul>
@@ -294,15 +299,15 @@ Publication out for review.
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: خوش, هڪڙو, هڪ, سٺو, وڌيڪ, گھڻو, بيگاري, بهتر, سڀ, سڄي</li>
-      <li>ADP: جو, جي, جا, جون, وارو, واري, وارا, دا, بابت, کي</li>
-      <li>ADV: اڄ, ڪڏهن, ھتي, اصل, جلدي, نافذ, هت, گڏوگڏ, گھوري</li>
-      <li>DET: اهو, هر, هي, هُو, ڪو, اها, هو, اهي, هوءَ, جيڪو</li>
-      <li>NOUN: گدڙ, پاڻي, شينهن, ماڻهو, ڳوٺ, بند, بچاءُ, ماني, ڪتاب, پارليامينٽ</li>
-      <li>NUM: هڪ, سؤ</li>
-      <li>PRON: سو, تون, مان, آءٌ, آءَ, ڪير, ائين, آئون, اسين, توکي</li>
-      <li>PROPN: سنڌ, ڪي, سکر, گڊو, جيڪب, آغا, علي, محمد, اسلم, خدا</li>
-      <li>VERB: بيٺس</li>
+      <li>ADJ: وڌيڪ, ڪجهه, مختلف, سڀ, صرف, هڪڙو, موجود, خوش, سڄي, ڏاڍي</li>
+      <li>ADP: جو, جي, جا, جون, وارو, وارا, واري, واريون, دا, کي</li>
+      <li>ADV: اڄ, جڏهن, اڳتي, جلد, ڪالهه, ڪڏهن, ھتي, اصل, بلڪل, جلدي</li>
+      <li>DET: اهو, هو, اها, اهي, هر, ڪو, جيڪو, ڪا, هي, جيڪا</li>
+      <li>NOUN: ڳالهه, ماڻهو, وقت, شينهن, گدڙ, وزير, پاڻي, ڏينهن, ڪم, حڪومت</li>
+      <li>NUM: هزار, هزارين, لک, ارب, ملين, سؤ, چار</li>
+      <li>PRON: تون, آءٌ, جيڪي, سو, توکي, مان, ڪير, آئون, اسين, جهڙو</li>
+      <li>PROPN: سنڌ, علي, پاڪستان, ڪراچي, محمد, پ, آمريڪا, احمد, اسلام, نواز</li>
+      <li>VERB: ادا, بيٺس, ڏٺم</li>
     </ul>
   </li>
 </ul>
@@ -310,7 +315,9 @@ Publication out for review.
 <ul>
   <li>Voc
     <ul>
-      <li>NOUN: پلونگڙا, ڀائو</li>
+      <li>ADJ: چنڊا</li>
+      <li>NOUN: سائين, ڀائو, ڌيءَ, بابا, بادشاهه, سلامت, مائي, مالڪ, ميان, پلونگڙا</li>
+      <li>PROPN: ماليڪٽ</li>
     </ul>
   </li>
 </ul>
@@ -327,7 +334,7 @@ Publication out for review.
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: وڏو, وڏي, ساڳيو, بدترين, جيڏو, سارو, ساڳيا, سڀني, طويل, نئون</li>
+      <li>ADJ: وڏي, وڏو, سڄو, نئون, پراڻو, سمورو, ننڍڙو, ننڍو, ڪيترو, ساڳيو</li>
     </ul>
   </li>
 </ul>
@@ -335,7 +342,7 @@ Publication out for review.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: خوش, وڌيڪ, سٺو, گھڻو, بيگاري, بهتر, ڪجهه, سڄي, چڱو, گھڻي</li>
+      <li>ADJ: وڌيڪ, ڪجهه, نئين, خوش, سڄي, ڏاڍي, ڏاڍو, ختم, خودڪش, مختلف</li>
     </ul>
   </li>
 </ul>
@@ -343,7 +350,7 @@ Publication out for review.
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: وڏن, بهترين, ڏاڍو</li>
+      <li>ADJ: وڏن, اعليٰ, بهترين, ترين, سياسي, سپر, محترم, ڏاڍو</li>
     </ul>
   </li>
 </ul>
@@ -355,7 +362,7 @@ Publication out for review.
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: ناهي, نٿي, ڪونهي, نٿا, نٿو, ناهن, ڪونهن</li>
+      <li>AUX: ناهي, نٿو, ڪونهي, نٿي, نٿا, ناهن, ڪانهي, ناھي, ڪونهن, ناهيان</li>
     </ul>
   </li>
 </ul>
@@ -371,10 +378,12 @@ Publication out for review.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: هوندي, سگھندين, هوندو</li>
-      <li>VERB: ڪرڻ, ڪري, گھرجي, ڏيڻ, رهي, اچي, وڃي, ڪن, ڪندي, ملي</li>
-      <li>VERB-Inf: ڪرڻ, ڏيڻ, وڃڻ, ٿيڻ, اچڻ, رهڻ, هلڻ, ٻڌڻ, پوڻ, پيئڻ</li>
-      <li>VERB-Vnoun: ڪندڙ, ايندڙ, لکندڙ, ملائيندڙ, هلائيندڙ, ٺاهيندڙن, ٿيندڙ, گذرندڙ, ڳالهائيندي</li>
+      <li>AUX: ٿي, هوندو, سگهندا, سگهيو, هوندي, آ, سگهندو, سگهنديون, سگهيون, هجن</li>
+      <li>AUX-Inf: سگهڻ, ٿيڻ</li>
+      <li>VERB: ڪرڻ, ڪري, وڃي, پئي, ٿيڻ, رهي, ڪندي, ڏيڻ, اچي, چوڻ</li>
+      <li>VERB-Conv: ڪندي, بچي, منجهائي, ويندي, ڪري</li>
+      <li>VERB-Inf: ڪرڻ, ٿيڻ, ڏيڻ, چوڻ, وڃڻ, ڏسڻ, اچڻ, کائڻ, رهڻ, رکڻ</li>
+      <li>VERB-Vnoun: ٿيندڙ, ڪندڙ, ايندڙ, هلندڙ, گذرندڙ, رکندڙ, هلائيندڙ, آڻيندڙ, لکندڙ, ملھائجندڙ</li>
     </ul>
   </li>
 </ul>
@@ -382,10 +391,10 @@ Publication out for review.
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: ٿيس, سگھيس</li>
-      <li>VERB: چيو, ويو, ڪيو, ڪري, اچي, ويا, رهيو, ڪئي, چيس, ڇڏيو</li>
-      <li>VERB-Conv: ڪري, اچي, وٺي, وڃي, کڻي, ڏسي, ويهي, چڙهي, ڏيئي, کائي</li>
-      <li>VERB-Vnoun: هلندڙ, ويندڙ, ايندڙ, رهندڙ, رکندڙ, وهندڙ</li>
+      <li>AUX: ٿيو, سگهيو, ٿيس, ٿيا, سگھيس, هوس, هيون</li>
+      <li>VERB: چيو, ويو, ڪيو, ڪري, ڪئي, ويا, ٿيل, ڏنو, ڇڏيو, آيو</li>
+      <li>VERB-Conv: ڪري, اچي, کڻي, وٺي, ٻڌي, ڏسي, وڃي, کائي, چڙهي, نڪري</li>
+      <li>VERB-Vnoun: ايندڙ, ڪندڙ, هلندڙ, رهندڙ, ٿيندڙ, ويندڙ, رکندڙ, فوت, لڪيل, ملندڙ</li>
     </ul>
   </li>
 </ul>
@@ -418,8 +427,9 @@ Publication out for review.
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: هوندو, هوندا, هوندي</li>
-      <li>VERB: ايندس, پوندو, اينداسين, اڀري, اچجانءِ, اڇجانءِ, رهندي, هلندس, ويندس, ڏيندوسانءِ</li>
+      <li>AUX: هوندو, هوندي, هوندا</li>
+      <li>VERB: پوندو, اچجانءِ, هوندو, هوندي, ايندس, رهندي, ويندس, ويندي, پوندا, آرها</li>
+      <li>VERB-Conv: هلي</li>
     </ul>
   </li>
 </ul>
@@ -427,8 +437,10 @@ Publication out for review.
 <ul>
   <li>Past
     <ul>
-      <li>AUX: هو, هئي, هئا, ها, هيون, ھا, ھو, هئين, ھئو</li>
-      <li>VERB: ٽپي, آيو, رهيو, پئي, ٿيا, کيڏياسين, ڪيئي</li>
+      <li>AUX: هو, هئي, هئا, ها, هيون, هئس, هئين, هي, هيو, ھا</li>
+      <li>VERB: ڏنل, ڪيل, ٽپي, رهيو, لکيل, لکيو, هلندڙ, وئي, ورتل, ويا</li>
+      <li>VERB-Conv: ڪيل</li>
+      <li>VERB-Vnoun: هلندڙ</li>
     </ul>
   </li>
 </ul>
@@ -436,10 +448,10 @@ Publication out for review.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: آهي, ٿو, ٿي, آهن, ٿا, ناهي, آهيان, آهين, آ, آهيون</li>
-      <li>VERB: ڪري, پيو, ڪيو, ويو, ڇڏيو, ڪريو, اچي, رهي, ملي, پئي</li>
-      <li>VERB-Conv: ڪري, نڪري, ويندي, ڌوئي, کائي, کڻي</li>
-      <li>VERB-Vnoun: لکندڙ, هلندڙ</li>
+      <li>AUX: آهي, آهن, ٿي, ٿو, ٿا, ناهي, آهيان, آهيون, آھي, نٿو</li>
+      <li>VERB: ڪري, وڃي, ڪيو, رهي, پيو, ويو, چيو, ڇڏيو, اچي, ويندو</li>
+      <li>VERB-Conv: ڪري, وٺي, کڻي, رکي, نڪري, ويندي, ڌوئي, کائي, ڪندي</li>
+      <li>VERB-Vnoun: لکندڙ, هلندڙ, ڪندڙ</li>
     </ul>
   </li>
 </ul>
@@ -451,9 +463,9 @@ Publication out for review.
 <ul>
   <li>Act
     <ul>
-      <li>VERB: ڪري, چيو, اچي, رهي, وڃي, ڪيو, ملي, ڪن, پئي, ڏسي</li>
-      <li>VERB-Conv: ڪري, پهچي, اچي, نڪري, ڏئي, بيهي, رهي, لڳي, هلي, ويندي</li>
-      <li>VERB-Vnoun: ايندڙ, رکندڙ, لکندڙ, نڪرندڙ, هلائيندڙ, هلندڙ, ٿيندڙ, ڪندڙ, ڳالهائيندي</li>
+      <li>VERB: ڪري, وڃي, چيو, ٿيندو, رهي, ٿيندي, ڪندي, پئي, اچي, هوندو</li>
+      <li>VERB-Conv: ڪري, پهچي, وٺي, ڪندي, ڏسي, هلي, ڇڏي, ڏئي, کڻي, اچي</li>
+      <li>VERB-Vnoun: ڪندڙ, رکندڙ, ٿيندڙ, لکندڙ, هلندڙ, ايندڙ, لهندڙ, نڪرندڙ, هلائيندڙ, ويندڙ</li>
     </ul>
   </li>
 </ul>
@@ -461,9 +473,9 @@ Publication out for review.
 <ul>
   <li>Pass
     <ul>
-      <li>AUX: هجي, سگهجي</li>
-      <li>VERB: گھرجي, ڦاٿل, کائجي, ڪيل, رهجي, پئجي, بيهجي, پيئجي, چونڊيل, ڏسجن</li>
-      <li>VERB-Conv: پئجي, رهجي, سيٽجي, ٽنگجي, ڪانڊرجي</li>
+      <li>AUX: هجي, سگهجي, هجن, سگهبو, سگھبو, هجو, هجون, ھجن</li>
+      <li>VERB: گهرجي, ڪيل, گھرجي, بڻجي, پئجي, ڪجي, مارجي, گهرجن, ڏنل, گهٽجي</li>
+      <li>VERB-Conv: سيٽجي, پئجي, رهجي, ٽنگجي, ڪانڊرجي, ڪيل, گهٽجي</li>
     </ul>
   </li>
 </ul>
@@ -472,6 +484,25 @@ Publication out for review.
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: هن, ان, اهو, اسان, جنهن, انهن, ڪنهن, هو, انهيءَ, اها</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>ADJ: سڀني, سڀئي</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -483,9 +514,10 @@ Publication out for review.
 <ul>
   <li>1
     <ul>
-      <li>AUX: آهيان, آهين, آهيون, اٿم, ٿيس, آھيان, سگھيس, ٿي, ٿيو</li>
-      <li>PRON: پنهنجي, اسان, مون, منهنجي, مان, پاڻ, آءٌ, منهنجو, پنهنجو, آءَ</li>
-      <li>VERB: اچان, چيائين, هلون, ڏسان, ڪريان, ڪرين, ڪندس, آهيان, ايندس, اچجانءِ</li>
+      <li>AUX: آهيان, آهين, آهيون, سگهان, سگهون, اٿم, آھيان, سگهندس, سگھان, سگھون</li>
+      <li>DET: اسان, هنن, اُها, انهيءَ</li>
+      <li>PRON: پنهنجي, مون, آءٌ, منهنجي, پاڻ, اوهان, پنهنجو, مان, پنهنجا, پنهنجن</li>
+      <li>VERB: ڪر, ڪريان, وڃان, ڪندس, هل, ڪرين, اچان, چيائين, ڪنداسين, ويندس</li>
     </ul>
   </li>
 </ul>
@@ -493,9 +525,9 @@ Publication out for review.
 <ul>
   <li>2
     <ul>
-      <li>AUX: اٿئي, آهين, آھين, اٿو, اٿيئي, هئين, هجئي</li>
-      <li>PRON: تون, تنهنجي, تنهنجو, توهان, تو, توکي, اوهين, تنهنجا, اوهان, تنهن</li>
-      <li>VERB: ٻيٺاهين, ڪر, اچ, ترس, مار, هڪل, ويهارج, وڻيوَ, پيءُ, پيو</li>
+      <li>AUX: اٿئي, سگهين, آهين, هئين, ٿي, آهيو, آھين, اٿو, اٿيئي, سگهو</li>
+      <li>PRON: تون, توکي, تنهنجي, توهان, تو, تنهنجو, جيڪي, اوهين, پنهنجو, تنهنجا</li>
+      <li>VERB: ڪر, ٻيٺاهين, اچ, وٺ, ڏس, ڏي, کڻ, ايندينءَ, اچجانءِ, بخش</li>
       <li>VERB-Conv: وڻيوَ</li>
     </ul>
   </li>
@@ -504,14 +536,15 @@ Publication out for review.
 <ul>
   <li>3
     <ul>
-      <li>ADP: کيس, کين, کانئس, ساڻن, ساڻس, منجهانئس</li>
-      <li>ADV: مٿس, مٿن, ويجھس</li>
-      <li>AUX: آهي, هو, ٿو, ٿي, هئي, هئا, ٿئي, آهن, ناهي, ٿا</li>
-      <li>DET: هن, ان, انهيءَ</li>
-      <li>NOUN: مڙسس</li>
-      <li>PRON: جنهن, سندس, جن, اوهان, سندن, تن, تنهن, ٻين, پاڻ, ھو</li>
-      <li>VERB: ويو, ڪيو, گھرجي, رهيو, ڪئي, ڇڏيو, رهي, ٿيو, آيو, وڃي</li>
-      <li>VERB-Conv: هليو, چئي, ڪندو</li>
+      <li>ADP: کيس, کين, کانئس, ساڻس, ساڻن, منجهانئس, ڏانهس, کائونئس, کانئن</li>
+      <li>ADV: مٿن, مٿس, ويجھس</li>
+      <li>AUX: هو, هئي, آهي, ٿيو, هئا, سگهي, هجي, ٿي, ٿو, سگهجي</li>
+      <li>DET: جنهن, هن, هنن, ان, ھن, هو, اُهي, ڪنهن, انهن, انهي</li>
+      <li>NOUN: مڙسس, هاٿي, کيس</li>
+      <li>PRON: جن, سندس, اوهان, سندن, انهن, تنهن, توهان, پاڻ, تن, جنھن</li>
+      <li>VERB: ويو, ڪيو, وڃي, ڪئي, ڏنو, ڇڏيو, آيو, لڳو, رهيو, رهي</li>
+      <li>VERB-Conv: چئي, ڏسي</li>
+      <li>VERB-Vnoun: وٺرائيندڙ</li>
     </ul>
   </li>
 </ul>
@@ -523,16 +556,43 @@ Publication out for review.
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: کان</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>NOUN: ڏينهون</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: ڪو</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>SCONJ: ڇو, ڇاڪاڻ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Gender[obj]</a>
     <ul>
       <li>Fem
         <ul>
-          <li>VERB: رهي, لڳي, چاهي</li>
+          <li>VERB: رهي, لڳي, هلائي, وئي, چاهي</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>VERB: ورتو, ٻيٺاهين, ٿين, ڪن</li>
+          <li>VERB: ورتو, ويندو, ٻيٺاهين, پيو, ٿين, ڪن</li>
         </ul>
       </li>
     </ul>
@@ -544,12 +604,12 @@ Publication out for review.
     <ul>
       <li>Fem
         <ul>
-          <li>VERB: هلي, نڪتي, ڪنديس</li>
+          <li>VERB: هلي, نڪتي</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>VERB: رهندو, وينداسين, ٻيٺاهين, ڪندو</li>
+          <li>VERB: وينداسين, ڪنداسين, ٿينداسين, ادا, رهندو, سهگنداسين, لکيوسين, هلائينداسين, هياسين, هڻنداسين</li>
         </ul>
       </li>
     </ul>
@@ -567,7 +627,7 @@ Publication out for review.
       <li>Sing
         <ul>
           <li>AUX: ٿيس</li>
-          <li>VERB: چيس, ڏينم, رهي, لکانس, ورتس, ويس, ٻيٺاهين, ٻڌايس, پڄندس, پڇيائين</li>
+          <li>VERB: چيس, چيومانس, رهي, روڪيونس, لکانس, ورتس, ويس, ويندو, ويندين, ٻيٺاهين</li>
         </ul>
       </li>
     </ul>
@@ -579,13 +639,13 @@ Publication out for review.
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: اينداسين, وينداسين, ڇڏيائونس, ڇڏينداسين, ڏينداسين, ڏٺائون, کيڏون, کيڏياسين, ڪنداسين, ڪڍيائون</li>
+          <li>VERB: ڪنداسين, وينداسين, ٿينداسين, ڏينداسين, اينداسين, روڪيونس, سهگنداسين, لکيوسين, هئائون, هلائينداسين</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX: ٿيس, سگھندين</li>
-          <li>VERB: ايندس, ڏينم, چيائين, چيس, ڇڏيس, ڏيکاريانوَ, اچجانءِ, اڇجانءِ, سڏايائين, لکانس</li>
+          <li>AUX: ٿيس, سگهندس, سگھندين, هيس</li>
+          <li>VERB: ايندس, چيائين, چيس, چيومانس, ويس, ڇڏيس, ڏينم, ڏيکاريانوَ, اڇجانءِ, لکانس</li>
         </ul>
       </li>
     </ul>
@@ -597,7 +657,7 @@ Publication out for review.
     <ul>
       <li>Emp
         <ul>
-          <li>PART: ئي, نه, به, ڀي</li>
+          <li>PART: ئي, نه, به, نہ, ڀي</li>
         </ul>
       </li>
     </ul>
@@ -609,17 +669,17 @@ Publication out for review.
     <ul>
       <li>1
         <ul>
-          <li>VERB: ڏينم, ورتس, چوانس, ڇڏيائونس, ڏنس, ڏيکاريانوَ</li>
+          <li>VERB: ورتس, چوانس, ڇڏيائونس, ڏنس, ڏينم, ڏيکاريانوَ</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB: چيس, لکانس, چيومانو, ڏيکاريانوَ</li>
+          <li>VERB: لکانس, ويندين, چيس, چيومانو, ڏيکاريانوَ</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB: چيس, رهي, ويس, ويندا, ٻيٺاهين, ٻڌايس, چيائينس, چکايانس, ڇڏائينم, ڏنيس</li>
+          <li>VERB: چيس, چيومانس, رهي, روڪيونس, ويس, ويندا, ٻيٺاهين, ٻڌايس, چيائيس, چيائينس</li>
         </ul>
       </li>
     </ul>
@@ -631,19 +691,32 @@ Publication out for review.
     <ul>
       <li>1
         <ul>
-          <li>VERB: ايندس, پڄندس, ڏيکاريانوَ, اينداسين, اڇجانءِ, لکانس, لکنديس, وينداسين, وٺندومانس, پويس</li>
+          <li>AUX: سگهندس</li>
+          <li>VERB: ڪنداسين, ايندس, وينداسين, چيومانس, پڄندس, ٿينداسين, ڏينداسين, ڏيکاريانوَ, اينداسين, اڇجانءِ</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>AUX: سگھندين</li>
-          <li>VERB: ڏينم, اچجانءِ, ويس, ڏينس</li>
+          <li>VERB: ويس, ڏينس, ڏينم</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: ٿيس</li>
-          <li>VERB: چيائين, چيس, ڇڏيس, سڏايائين, هنيائين, هيس, وينداسين, پوندو, پيس, پٽيائين</li>
+          <li>AUX: ٿيس, هيس</li>
+          <li>VERB: چيائين, چيس, ڇڏيس, رهندي, هئائون, هنيائين, وينداسين, وڃي, پوندو, پيس</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>AUX: آُھي</li>
         </ul>
       </li>
     </ul>
@@ -659,7 +732,7 @@ Publication out for review.
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: آهي, سگهي.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: آهي, سگهي, _.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -668,41 +741,66 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (4)</li>
-      <li>VERB--NOUN-Acc-ADP(جو) (3)</li>
-      <li>VERB--NOUN-Acc-ADP(پاران) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کي) (9)</li>
-      <li>VERB--NOUN-Nom (579)</li>
-      <li>VERB--NOUN-Nom-ADP(ئي) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(جو) (2)</li>
-      <li>VERB--NOUN-Nom-ADP(جي) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(طرفان) (1)</li>
+      <li>VERB--NOUN-Acc (46)</li>
+      <li>VERB--NOUN-Acc-ADP(جو) (6)</li>
+      <li>VERB--NOUN-Acc-ADP(طرفان) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(لاءِ) (2)</li>
+      <li>VERB--NOUN-Acc-ADP(وارو) (3)</li>
+      <li>VERB--NOUN-Acc-ADP(پاران) (4)</li>
+      <li>VERB--NOUN-Acc-ADP(پڻ) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(کان) (2)</li>
+      <li>VERB--NOUN-Acc-ADP(کي) (37)</li>
+      <li>VERB--NOUN-Nom (2525)</li>
+      <li>VERB--NOUN-Nom-ADP(بجاءِ) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(جو) (7)</li>
+      <li>VERB--NOUN-Nom-ADP(جي) (6)</li>
+      <li>VERB--NOUN-Nom-ADP(طرفان) (3)</li>
+      <li>VERB--NOUN-Nom-ADP(وارو) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(پاران) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(پوءِ) (1)</li>
       <li>VERB--NOUN-Nom-ADP(کان) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(کي) (6)</li>
-      <li>VERB--NOUN-Voc (1)</li>
-      <li>VERB--PRON (3)</li>
-      <li>VERB--PRON-Acc (34)</li>
+      <li>VERB--NOUN-Nom-ADP(کي) (13)</li>
+      <li>VERB--NOUN-Nom-ADP(۾) (1)</li>
+      <li>VERB--NOUN-Voc (6)</li>
+      <li>VERB--PRON (8)</li>
+      <li>VERB--PRON-Acc (127)</li>
       <li>VERB--PRON-Acc-ADP(جو) (1)</li>
-      <li>VERB--PRON-Acc-ADP(کي) (6)</li>
-      <li>VERB--PRON-Nom (81)</li>
+      <li>VERB--PRON-Acc-ADP(کي) (30)</li>
+      <li>VERB--PRON-Acc-ADP(کي)-ADP(جي) (1)</li>
+      <li>VERB--PRON-Gen (4)</li>
+      <li>VERB--PRON-Nom (352)</li>
       <li>VERB--PRON-Nom-ADP(_) (1)</li>
-      <li>VERB-Conv--NOUN-Acc (1)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(کي) (2)</li>
-      <li>VERB-Conv--NOUN-Nom (49)</li>
+      <li>VERB--PRON-Nom-ADP(جو) (1)</li>
+      <li>VERB-Conv--NOUN-Acc (6)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(کان) (1)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(کي) (4)</li>
+      <li>VERB-Conv--NOUN-Nom (238)</li>
       <li>VERB-Conv--NOUN-Nom-ADP(بنا) (1)</li>
-      <li>VERB-Conv--PRON (2)</li>
+      <li>VERB-Conv--NOUN-Nom-ADP(تي) (1)</li>
+      <li>VERB-Conv--NOUN-Nom-ADP(جو) (1)</li>
+      <li>VERB-Conv--NOUN-Nom-ADP(ڪي) (1)</li>
+      <li>VERB-Conv--PRON (3)</li>
       <li>VERB-Conv--PRON-ADP(کيُ) (1)</li>
-      <li>VERB-Conv--PRON-Acc (6)</li>
-      <li>VERB-Conv--PRON-Acc-ADP(کي) (1)</li>
-      <li>VERB-Conv--PRON-Nom (15)</li>
-      <li>VERB-Inf--NOUN-Acc (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کي) (4)</li>
-      <li>VERB-Inf--NOUN-Nom (31)</li>
+      <li>VERB-Conv--PRON-Acc (11)</li>
+      <li>VERB-Conv--PRON-Gen (1)</li>
+      <li>VERB-Conv--PRON-Nom (68)</li>
+      <li>VERB-Inf--NOUN-Acc (4)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(جو) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(جي) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(طرفان) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(پاران) (3)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کي) (8)</li>
+      <li>VERB-Inf--NOUN-Nom (144)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(جو) (1)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(طرفان) (1)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(کي) (2)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(کي) (6)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (2)</li>
+      <li>VERB-Inf--PRON-Acc (6)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(کي) (4)</li>
+      <li>VERB-Inf--PRON-Nom (7)</li>
+      <li>VERB-Inf--PRON-Nom-ADP(پوءِ) (1)</li>
+      <li>VERB-Vnoun--NOUN-Nom (10)</li>
+      <li>VERB-Vnoun--NOUN-Nom-ADP(لاءِ) (1)</li>
     </ul>
   </li>
 </ul>
@@ -710,41 +808,75 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (3)</li>
-      <li>VERB--NOUN-Acc-ADP(جو) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(جي) (1)</li>
+      <li>VERB--NOUN-Abl (1)</li>
+      <li>VERB--NOUN-Acc (29)</li>
+      <li>VERB--NOUN-Acc-ADP(تي) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(جو) (3)</li>
+      <li>VERB--NOUN-Acc-ADP(جي) (3)</li>
+      <li>VERB--NOUN-Acc-ADP(خلاف)-ADP(کي) (1)</li>
       <li>VERB--NOUN-Acc-ADP(سان) (3)</li>
-      <li>VERB--NOUN-Acc-ADP(ڏانهن) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(لاءِ) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(وارو)-ADP(کي) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(پڻ) (2)</li>
+      <li>VERB--NOUN-Acc-ADP(ڏانهن) (2)</li>
       <li>VERB--NOUN-Acc-ADP(کان) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(کي) (87)</li>
-      <li>VERB--NOUN-Nom (254)</li>
-      <li>VERB--NOUN-Nom-ADP(کي) (3)</li>
-      <li>VERB--NOUN-Voc (1)</li>
-      <li>VERB--PRON (5)</li>
+      <li>VERB--NOUN-Acc-ADP(کي) (394)</li>
+      <li>VERB--NOUN-Nom (1693)</li>
+      <li>VERB--NOUN-Nom-ADP(جو) (8)</li>
+      <li>VERB--NOUN-Nom-ADP(جي) (2)</li>
+      <li>VERB--NOUN-Nom-ADP(کان) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(کي) (19)</li>
+      <li>VERB--NOUN-Voc (2)</li>
+      <li>VERB--PRON (34)</li>
       <li>VERB--PRON-ADP(جو) (1)</li>
-      <li>VERB--PRON-Acc (5)</li>
+      <li>VERB--PRON-Acc (8)</li>
       <li>VERB--PRON-Acc-ADP(سان) (1)</li>
-      <li>VERB--PRON-Acc-ADP(کي) (17)</li>
+      <li>VERB--PRON-Acc-ADP(کي) (72)</li>
       <li>VERB--PRON-Acc-ADP(کي)-ADP(_) (1)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB--PRON-Gen-ADP(سان) (1)</li>
-      <li>VERB--PRON-Nom (8)</li>
+      <li>VERB--PRON-Gen-ADP(کي) (1)</li>
+      <li>VERB--PRON-Nom (33)</li>
+      <li>VERB--PRON-Nom-ADP(کي) (1)</li>
       <li>VERB-Conv--NOUN (1)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(کي) (18)</li>
-      <li>VERB-Conv--NOUN-Nom (100)</li>
-      <li>VERB-Conv--NOUN-Nom-ADP(کي) (1)</li>
-      <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Conv--PRON-Acc-ADP(کي) (1)</li>
-      <li>VERB-Conv--PRON-Nom (1)</li>
+      <li>VERB-Conv--NOUN-Acc (6)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(تي) (2)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(وارو) (1)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(کان) (1)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(کـي) (1)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(کي) (105)</li>
+      <li>VERB-Conv--NOUN-Nom (475)</li>
+      <li>VERB-Conv--NOUN-Nom-ADP(جو) (4)</li>
+      <li>VERB-Conv--NOUN-Nom-ADP(کي) (6)</li>
+      <li>VERB-Conv--PRON (1)</li>
+      <li>VERB-Conv--PRON-Acc (7)</li>
+      <li>VERB-Conv--PRON-Acc-ADP(کي) (13)</li>
+      <li>VERB-Conv--PRON-Nom (9)</li>
+      <li>VERB-Inf--NOUN-Acc (4)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(تي) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(جي) (5)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(جو) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(جي) (12)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(سان) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کان) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کي) (31)</li>
-      <li>VERB-Inf--NOUN-Nom (80)</li>
-      <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(کي) (2)</li>
-      <li>VERB-Vnoun--NOUN-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(وارو) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(وٽ) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(پاران) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کان) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کي) (153)</li>
+      <li>VERB-Inf--NOUN-Nom (584)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(تي) (2)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(جي) (1)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(سواءِ) (2)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(کي) (4)</li>
+      <li>VERB-Inf--PRON (5)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(جو) (1)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(کي) (15)</li>
+      <li>VERB-Inf--PRON-Gen (3)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Vnoun--NOUN-Acc-ADP(کي) (2)</li>
+      <li>VERB-Vnoun--NOUN-Nom (24)</li>
+      <li>VERB-Vnoun--NOUN-Nom-ADP(کي) (1)</li>
+      <li>VERB-Vnoun--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -752,11 +884,31 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Acc-ADP(کي) (21)</li>
-      <li>VERB--NOUN-Nom-ADP(کي) (2)</li>
-      <li>VERB--PRON-Acc-ADP(کي) (8)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(کي) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(کي) (2)</li>
+      <li>VERB--NOUN-Acc (3)</li>
+      <li>VERB--NOUN-Acc-ADP(جو) (6)</li>
+      <li>VERB--NOUN-Acc-ADP(جي) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(کي) (170)</li>
+      <li>VERB--NOUN-Nom (5)</li>
+      <li>VERB--NOUN-Nom-ADP(جو) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(لاءِ) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(کي) (17)</li>
+      <li>VERB--PRON-Acc (2)</li>
+      <li>VERB--PRON-Acc-ADP(لاءِ) (1)</li>
+      <li>VERB--PRON-Acc-ADP(کي) (28)</li>
+      <li>VERB--PRON-Nom (5)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(کي) (15)</li>
+      <li>VERB-Conv--NOUN-Nom (1)</li>
+      <li>VERB-Conv--PRON-Acc-ADP(کي) (7)</li>
+      <li>VERB-Conv--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Acc (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(جو) (4)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(پاران) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(کي) (57)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(بنا) (1)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(کي) (2)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(کي) (5)</li>
+      <li>VERB-Vnoun--NOUN-Acc-ADP(کي) (1)</li>
     </ul>
   </li>
 </ul>
@@ -767,6 +919,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>nsubj:pass</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>compound:redup</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

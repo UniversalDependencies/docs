@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_pud-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.611111 (the average of all parts of speech is 1.245991).
+The form / lemma ratio of `DET` is 1.611111 (the average of all parts of speech is 1.245113).
 
 The 1st highest number of forms (3) was observed with the lemma “all”: <em>all, alla, allt</em>.
 
@@ -63,11 +63,11 @@ The 2nd highest number of forms (3) was observed with the lemma “denna”: <em
 
 The 3rd highest number of forms (3) was observed with the lemma “ingen”: <em>inga, ingen, inget</em>.
 
-`DET` occurs with 5 features: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (997; 98% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (996; 98% instances), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (981; 97% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (822; 81% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (19; 2% instances)
+`DET` occurs with 5 features: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (1016; 100% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (996; 98% instances), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (981; 97% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (822; 81% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (19; 2% instances)
 
 `DET` occurs with 13 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Foreign=Yes`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Tot`
 
-`DET` occurs with 23 feature combinations.
+`DET` occurs with 24 feature combinations.
 The most frequent feature combination is `Definite=Ind|Gender=Com|Number=Sing|PronType=Art` (314 tokens).
 Examples: <em>en, ett</em>
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Elena Badmaeva, Francis Tyers.
 
 Repository: [UD_Buryat-BDT](https://github.com/UniversalDependencies/UD_Buryat-BDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbxr_bdt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbxr_bdt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,7 +73,7 @@ year = 2017
 
 ## Features
 
-[Aspect](bxr_bdt-feat-Aspect.html) – [Case](bxr_bdt-feat-Case.html) – [Evident](bxr_bdt-feat-Evident.html) – [Gender](bxr_bdt-feat-Gender.html) – [Mood](bxr_bdt-feat-Mood.html) – [Number](bxr_bdt-feat-Number.html) – [Number[psor]](bxr_bdt-feat-Number-psor.html) – [NumType](bxr_bdt-feat-NumType.html) – [Person](bxr_bdt-feat-Person.html) – [Person[psor]](bxr_bdt-feat-Person-psor.html) – [PronType](bxr_bdt-feat-PronType.html) – [Reflex](bxr_bdt-feat-Reflex.html) – [Tense](bxr_bdt-feat-Tense.html) – [VerbForm](bxr_bdt-feat-VerbForm.html) – [Voice](bxr_bdt-feat-Voice.html)
+[Aspect](bxr_bdt-feat-Aspect.html) – [Case](bxr_bdt-feat-Case.html) – [Evident](bxr_bdt-feat-Evident.html) – [ExtPos](bxr_bdt-feat-ExtPos.html) – [Gender](bxr_bdt-feat-Gender.html) – [Mood](bxr_bdt-feat-Mood.html) – [Number](bxr_bdt-feat-Number.html) – [Number[psor]](bxr_bdt-feat-Number-psor.html) – [NumType](bxr_bdt-feat-NumType.html) – [Person](bxr_bdt-feat-Person.html) – [Person[psor]](bxr_bdt-feat-Person-psor.html) – [PronType](bxr_bdt-feat-PronType.html) – [Reflex](bxr_bdt-feat-Reflex.html) – [Tense](bxr_bdt-feat-Tense.html) – [VerbForm](bxr_bdt-feat-VerbForm.html) – [Voice](bxr_bdt-feat-Voice.html)
 
 ## Relations
 
@@ -83,7 +83,7 @@ year = 2017
 
 
 <ul>
-<li>This corpus contains 927 sentences and 10185 tokens.</li>
+<li>This corpus contains 927 sentences and 10187 tokens.</li>
 </ul>
 
 <ul>
@@ -347,7 +347,7 @@ year = 2017
   <li>Perf
     <ul>
       <li>AUX-Fin: байба, болобо</li>
-      <li>VERB-Fin: абаба, хэлэбэ, оробо, хүртэбэ, асарба, баалаба, бая-суулба, болобо, гараба, дэлгэбэ</li>
+      <li>VERB-Fin: абаба, хэлэбэ, оробо, хүртэбэ, асарба, баалаба, бая-суулба, болобо, бэшэбэ, гараба</li>
     </ul>
   </li>
 </ul>
@@ -605,6 +605,26 @@ year = 2017
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADJ: бага</li>
+          <li>ADV: эндэ, хойно, һүүлшын</li>
+          <li>PRON: Юуб, тэрэ</li>
+          <li>VERB: гэгшэд</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: гү</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Person[psor]</a>
     <ul>
       <li>3
@@ -654,12 +674,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Com (1)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--NOUN-Nom (131)</li>
+      <li>VERB-Fin--NOUN-Nom (132)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-Nom (16)</li>
       <li>VERB-Ger--NOUN-Dat (1)</li>
       <li>VERB-Ger--NOUN-Gen (3)</li>
-      <li>VERB-Ger--NOUN-Nom (24)</li>
+      <li>VERB-Ger--NOUN-Nom (23)</li>
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Gen (2)</li>
@@ -691,7 +711,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Abl (2)</li>
-      <li>VERB-Fin--NOUN-Acc (17)</li>
+      <li>VERB-Fin--NOUN-Acc (18)</li>
       <li>VERB-Fin--NOUN-Com (2)</li>
       <li>VERB-Fin--NOUN-Dat (13)</li>
       <li>VERB-Fin--NOUN-Nom (71)</li>
@@ -705,7 +725,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN-Acc (9)</li>
       <li>VERB-Ger--NOUN-Dat (4)</li>
       <li>VERB-Ger--NOUN-Gen (2)</li>
-      <li>VERB-Ger--NOUN-Nom (28)</li>
+      <li>VERB-Ger--NOUN-Nom (27)</li>
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Inf--NOUN-Acc (17)</li>

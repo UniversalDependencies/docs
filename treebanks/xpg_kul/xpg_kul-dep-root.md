@@ -49,9 +49,9 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Ref=TM984546|1|1
-2	σεμον	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing	5	orphan	_	Ref=TM984546|1|2
-3	το	τος	DET	_	Case=Dat|Gender=Neut|Number=Sing	2	det	_	Ref=TM984546|1|3
+1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM984546|1|1
+2	σεμον	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	orphan	_	Ref=TM984546|1|2
+3	το	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing	2	fixed	_	Ref=TM984546|1|3
 4	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM984546|1|4
 5	οδ̣[---]	οδ̣[---]	X	_	_	0	root	_	Ref=TM984546|1|5
 

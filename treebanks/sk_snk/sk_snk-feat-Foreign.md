@@ -23,7 +23,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (241; 100% of non-empty `Foreign`): <em>the, of, REUTERS, Energy, Evangelium, Film, Grazie, Harken, International, Lara</em>
-* `EMPTY` (255): <em>tzv, O, sv, po, česko, km, c, r, č, kr</em>
+* `EMPTY` (253): <em>tzv, O, sv, po, česko, km, c, r, č, kr</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (214) occur only with one value of `Foreign`.
 

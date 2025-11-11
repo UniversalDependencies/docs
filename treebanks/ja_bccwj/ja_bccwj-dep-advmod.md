@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17908 nodes (1%) are attached to their parents as `advmod`.
+17901 nodes (1%) are attached to their parents as `advmod`.
 
-17827 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.70180924726379.
+17820 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.70297748729121.
 
-The following 13 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (12261; 68% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2996; 17% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2079; 12% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (388; 2% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (74; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (61; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (12254; 68% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2997; 17% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2079; 12% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (387; 2% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (74; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (61; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 13 pairs of parts of speech are connected with `advmod`: <tt><a hr
 27	_	_	VERB	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=3|SpaceAfter=No|UI=2096
 28	_	_	AUX	_	_	27	aux	_	BBIL=I|BPT=3|LBIL=I|LPOS=3|PUDL=する|SpaceAfter=No|UI=3157
 29	_	_	AUX	_	_	27	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=7|SpaceAfter=No|UI=7
-30	_	_	PUNCT	_	_	27	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No|UI=2
+30	_	_	PUNCT	_	_	27	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|UI=2
 
 ~~~
 
@@ -110,7 +110,7 @@ The following 13 pairs of parts of speech are connected with `advmod`: <tt><a hr
 8	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
 9	_	_	NOUN	_	_	11	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=3739
 10	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
-11	_	_	NOUN	_	_	17	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=2624
+11	_	_	NOUN	_	_	17	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=2624
 12	_	_	ADP	_	_	11	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 13	_	_	NOUN	_	_	14	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=13190
 14	_	_	NOUN	_	_	17	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=13020

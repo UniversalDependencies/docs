@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>quoque</em> (<tt><a href="la_perseus-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.058824 (the average of all parts of speech is 2.101598).
+The form / lemma ratio of `PART` is 1.058824 (the average of all parts of speech is 2.101803).
 
 The 1st highest number of forms (2) was observed with the lemma “enim”: <em>enim, enimvero</em>.
 
@@ -62,7 +62,7 @@ Examples: <em>non, nam, autem, enim, quidem, igitur, haud, o, ecce, namque</em>
 
 `PART` nodes are attached to their parents using 3 different relations: <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt> (274; 57% instances), <tt><a href="la_perseus-dep-discourse.html">discourse</a></tt> (171; 36% instances), <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt> (32; 7% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (340; 71% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (40; 8% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (31; 6% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (27; 6% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (14; 3% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (340; 71% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (40; 8% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (32; 7% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (27; 6% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (14; 3% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 466 (98%) `PART` nodes are leaves.
 

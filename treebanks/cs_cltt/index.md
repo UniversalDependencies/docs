@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
 
 Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -95,7 +95,7 @@ http://hdl.handle.net/11234/1-2498.
 
 ## Relations
 
-[acl](cs_cltt-dep-acl.html) – [acl:relcl](cs_cltt-dep-acl-relcl.html) – [advcl](cs_cltt-dep-advcl.html) – [advmod](cs_cltt-dep-advmod.html) – [advmod:emph](cs_cltt-dep-advmod-emph.html) – [amod](cs_cltt-dep-amod.html) – [appos](cs_cltt-dep-appos.html) – [aux](cs_cltt-dep-aux.html) – [aux:pass](cs_cltt-dep-aux-pass.html) – [case](cs_cltt-dep-case.html) – [cc](cs_cltt-dep-cc.html) – [ccomp](cs_cltt-dep-ccomp.html) – [compound](cs_cltt-dep-compound.html) – [conj](cs_cltt-dep-conj.html) – [cop](cs_cltt-dep-cop.html) – [csubj](cs_cltt-dep-csubj.html) – [csubj:pass](cs_cltt-dep-csubj-pass.html) – [dep](cs_cltt-dep-dep.html) – [det](cs_cltt-dep-det.html) – [det:nummod](cs_cltt-dep-det-nummod.html) – [expl:pass](cs_cltt-dep-expl-pass.html) – [expl:pv](cs_cltt-dep-expl-pv.html) – [fixed](cs_cltt-dep-fixed.html) – [mark](cs_cltt-dep-mark.html) – [nmod](cs_cltt-dep-nmod.html) – [nsubj](cs_cltt-dep-nsubj.html) – [nsubj:pass](cs_cltt-dep-nsubj-pass.html) – [nummod](cs_cltt-dep-nummod.html) – [nummod:gov](cs_cltt-dep-nummod-gov.html) – [obj](cs_cltt-dep-obj.html) – [obl](cs_cltt-dep-obl.html) – [obl:arg](cs_cltt-dep-obl-arg.html) – [orphan](cs_cltt-dep-orphan.html) – [parataxis](cs_cltt-dep-parataxis.html) – [punct](cs_cltt-dep-punct.html) – [root](cs_cltt-dep-root.html) – [xcomp](cs_cltt-dep-xcomp.html)
+[acl](cs_cltt-dep-acl.html) – [acl:relcl](cs_cltt-dep-acl-relcl.html) – [advcl](cs_cltt-dep-advcl.html) – [advcl:pred](cs_cltt-dep-advcl-pred.html) – [advmod](cs_cltt-dep-advmod.html) – [advmod:emph](cs_cltt-dep-advmod-emph.html) – [amod](cs_cltt-dep-amod.html) – [appos](cs_cltt-dep-appos.html) – [aux](cs_cltt-dep-aux.html) – [aux:pass](cs_cltt-dep-aux-pass.html) – [case](cs_cltt-dep-case.html) – [cc](cs_cltt-dep-cc.html) – [ccomp](cs_cltt-dep-ccomp.html) – [compound](cs_cltt-dep-compound.html) – [conj](cs_cltt-dep-conj.html) – [cop](cs_cltt-dep-cop.html) – [csubj](cs_cltt-dep-csubj.html) – [csubj:pass](cs_cltt-dep-csubj-pass.html) – [dep](cs_cltt-dep-dep.html) – [det](cs_cltt-dep-det.html) – [det:nummod](cs_cltt-dep-det-nummod.html) – [expl:pass](cs_cltt-dep-expl-pass.html) – [expl:pv](cs_cltt-dep-expl-pv.html) – [fixed](cs_cltt-dep-fixed.html) – [iobj](cs_cltt-dep-iobj.html) – [mark](cs_cltt-dep-mark.html) – [nmod](cs_cltt-dep-nmod.html) – [nsubj](cs_cltt-dep-nsubj.html) – [nsubj:pass](cs_cltt-dep-nsubj-pass.html) – [nummod](cs_cltt-dep-nummod.html) – [nummod:gov](cs_cltt-dep-nummod-gov.html) – [obj](cs_cltt-dep-obj.html) – [obl](cs_cltt-dep-obl.html) – [obl:arg](cs_cltt-dep-obl-arg.html) – [orphan](cs_cltt-dep-orphan.html) – [parataxis](cs_cltt-dep-parataxis.html) – [punct](cs_cltt-dep-punct.html) – [root](cs_cltt-dep-root.html) – [xcomp](cs_cltt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -365,7 +365,7 @@ http://hdl.handle.net/11234/1-2498.
   <li>Acc
     <ul>
       <li>ADJ: účetní, výroční, českou, konsolidovanou, finanční, konsolidační, minulé, poskytnuté, dlouhodobé, dílčí</li>
-      <li>ADJ-Part: předcházející, konsolidující, týkající, vztahující, ověřenu, plynoucí, související, přejímajícího, nesoucí, následující</li>
+      <li>ADJ-Part: předcházející, konsolidující, týkající, vztahující, ověřenu, plynoucí, související, přejímajícího, budoucí, nesoucí</li>
       <li>ADP: na, pro, za, o, po, v, ve, mimo, mezi, pod</li>
       <li>DET: které, tuto, kterou, to, tyto, všechny, který, její, každou, tento</li>
       <li>NOUN: závěrku, závazky, období, účetnictví, položky, informace, majetek, ocenění, účely, dobu</li>
@@ -393,7 +393,7 @@ http://hdl.handle.net/11234/1-2498.
   <li>Gen
     <ul>
       <li>ADJ: účetní, účetních, účetního, konsolidované, jiných, obchodního, právních, zvláštního, dlouhodobého, právního</li>
-      <li>ADJ-Part: následujícího, konsolidující, zanikající, řídících, souvisejících, předcházejícího, upravujícího, doplňujících, vysvětlujících, odpovídající</li>
+      <li>ADJ-Part: následujícího, konsolidující, zanikající, řídících, souvisejících, předcházejícího, upravujícího, doplňujících, vysvětlujících, budoucích</li>
       <li>ADP: podle, do, z, u, od, včetně, ze, bez, ode, prostřednictvím</li>
       <li>DET: tohoto, této, těchto, všech, kterých, kterého, jejího, které, toho, své</li>
       <li>NOUN: majetku, závěrky, období, jednotky, závazků, jednotek, položek, společnosti, dne, odstavce</li>
@@ -407,7 +407,7 @@ http://hdl.handle.net/11234/1-2498.
   <li>Ins
     <ul>
       <li>ADJ: účetní, reálnou, účetními, podstatným, pořizovací, právními, společným, účetním, právnickou, vlastní</li>
-      <li>ADJ-Part: konsolidující, přejímajícím, ovládající, zaručujícím, jednajícími, nespadajícím, odpovídajícím, odpovídajícími, ovládajícími, plynoucími</li>
+      <li>ADJ-Part: konsolidující, přejímajícím, ovládající, zaručujícím, budoucím, jednajícími, nespadajícím, odpovídajícím, odpovídajícími, ovládajícími</li>
       <li>ADP: s, mezi, pod, se, před, za, nad, přede</li>
       <li>DET: kterým, tímto, tím, touto, kterými, jejím, jejímž, kterou, několika, svým</li>
       <li>NOUN: jednotkou, hodnotou, výjimkou, způsobem, dnem, vlivem, auditorem, cenou, osobou, zákonem</li>
@@ -598,6 +598,7 @@ http://hdl.handle.net/11234/1-2498.
 <ul>
   <li>Fut
     <ul>
+      <li>ADJ-Part: budoucích, budoucí, budoucím</li>
       <li>AUX-Fin: bude, budou</li>
     </ul>
   </li>
@@ -897,11 +898,6 @@ http://hdl.handle.net/11234/1-2498.
           <li>ADV: spolu, souvztažně, společně</li>
         </ul>
       </li>
-      <li>ADV
-        <ul>
-          <li>ADV: více</li>
-        </ul>
-      </li>
       <li>CCONJ
         <ul>
           <li>CCONJ: a</li>
@@ -988,7 +984,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (425)</li>
+      <li>VERB-Fin--NOUN-Acc (424)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
       <li>VERB-Fin--NOUN-Nom (87)</li>
       <li>VERB-Fin--PRON-Acc (12)</li>
@@ -1005,6 +1001,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -1030,7 +1027,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

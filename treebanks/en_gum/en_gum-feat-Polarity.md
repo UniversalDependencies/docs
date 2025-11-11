@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="en_gum-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (1703; 100% of non-empty `Polarity`): <em>not, n't, n’t, n`t</em>
-* `EMPTY` (4061): <em>to, 's, ’s, na, ', ’, ta, s, a, do</em>
+* `EMPTY` (4062): <em>to, 's, ’s, na, ', ’, ta, s, a, do</em>
 
 ### `INTJ`
 
@@ -31,7 +31,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="en_gum-pos-PART.htm
 
 * `Neg` (110; 25% of non-empty `Polarity`): <em>no, naw</em>
 * `Pos` (338; 75% of non-empty `Polarity`): <em>yeah, yes</em>
-* `EMPTY` (1881): <em>like, uh, oh, well, um, so, okay, alright, Mhm, hi</em>
+* `EMPTY` (1882): <em>like, uh, oh, well, um, so, okay, alright, Mhm, hi</em>
 
 ### `CCONJ`
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (22; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (11170): <em>so, just, when, then, also, how, now, more, here, really</em>
+* `EMPTY` (11176): <em>so, just, when, then, also, how, now, more, here, really</em>
 
 ## Relations with Agreement in `Polarity`
 

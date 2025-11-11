@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.htm
 
 7026 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7025; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6607; 94%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5919; 84%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5424; 77%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4163; 59%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7025; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6605; 94%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5919; 84%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5424; 77%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4163; 59%).
 
 `VERB` tokens may have the following values of `Mood`:
 

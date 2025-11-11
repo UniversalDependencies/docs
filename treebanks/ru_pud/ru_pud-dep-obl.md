@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-PUD: Relations: `obl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obl`: <tt><a href="ru_pud-dep-obl-agent.html">obl:agent</a></tt>.
+There are 2 language-specific subtypes of `obl`: <tt><a href="ru_pud-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="ru_pud-dep-obl-float.html">obl:float</a></tt>.
 
 1470 nodes (8%) are attached to their parents as `obl`.
 

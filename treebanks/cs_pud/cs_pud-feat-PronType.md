@@ -10,30 +10,29 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-1558 tokens (8%) have a non-empty value of `PronType`.
-250 types (3%) occur at least once with a non-empty value of `PronType`.
-68 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (827; 4% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (576; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (155; 1% instances).
+1572 tokens (8%) have a non-empty value of `PronType`.
+253 types (3%) occur at least once with a non-empty value of `PronType`.
+69 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (841; 5% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (576; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (155; 1% instances).
 
 ### `DET`
 
-827 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `PronType`.
+841 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (740; 89%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (732; 89%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (688; 83%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (688; 83%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (601; 73%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (517; 63%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (754; 90%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (746; 89%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (702; 83%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (702; 83%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (615; 73%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (517; 61%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (296; 36% of non-empty `PronType`): <em>to, toho, tím, tento, tohoto, toto, této, tomu, tyto, tato</em>
+* `Dem` (296; 35% of non-empty `PronType`): <em>to, toho, tím, tento, tohoto, toto, této, tomu, tyto, tato</em>
 * `Emp` (10; 1% of non-empty `PronType`): <em>sama, sám, sami, samo, samé, samého, samý</em>
-* `Ind` (66; 8% of non-empty `PronType`): <em>mnoho, několik, mnoha, někteří, některé, některých, několika, některá, jakoukoli, jakoukoliv</em>
+* `Ind` (80; 10% of non-empty `PronType`): <em>mnoho, několik, více, mnoha, někteří, některé, některých, víc, několika, některá</em>
 * `Int,Rel` (185; 22% of non-empty `PronType`): <em>který, které, která, kteří, kterou, kterého, kterém, kterých, jaké, jakým</em>
 * `Neg` (12; 1% of non-empty `PronType`): <em>žádná, žádné, žádný, žádném, žádným</em>
 * `Prs` (218; 26% of non-empty `PronType`): <em>jeho, jejich, své, její, n, svou, svého, svůj, svých, svým</em>
 * `Rel` (8; 1% of non-empty `PronType`): <em>jejichž, jehož, jejíž</em>
 * `Tot` (32; 4% of non-empty `PronType`): <em>každý, všech, všechny, každá, každého, všechno, všichni, každé, všeho, všemu</em>
-* `EMPTY` (14): <em>více, víc, méně</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (26) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (27) occur only with one value of `PronType`.
 
 ### `PRON`
 
@@ -81,7 +80,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>ADV --[<tt><a href="cs_pud-dep-obl-arg.html">obl:arg</a></tt>]--> DET</tt> (2; 100%),
+<tt>DET --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
 <tt>DET --[<tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (2; 67%),
-<tt>DET --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
 

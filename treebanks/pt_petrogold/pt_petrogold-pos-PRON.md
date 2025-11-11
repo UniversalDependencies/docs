@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.452422).
+The form / lemma ratio of `PRON` is 2.000000 (the average of all parts of speech is 1.452383).
 
 The 1st highest number of forms (8) was observed with the lemma “ele”: <em>ela, elas, ele, eles, lhe, lo, os, si</em>.
 
@@ -75,11 +75,11 @@ The 2nd highest number of forms (5) was observed with the lemma “este”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “aquele”: <em>aquela, aquelas, aquele, aqueles</em>.
 
-`PRON` occurs with 7 features: <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt> (5399; 100% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (3514; 65% instances), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (3508; 65% instances), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt> (421; 8% instances), <tt><a href="pt_petrogold-feat-Case.html">Case</a></tt> (218; 4% instances), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`PRON` occurs with 8 features: <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt> (5399; 100% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (3514; 65% instances), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (3508; 65% instances), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt> (421; 8% instances), <tt><a href="pt_petrogold-feat-Case.html">Case</a></tt> (218; 4% instances), <tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt> (39; 1% instances), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="pt_petrogold-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`PRON` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Typo=Yes`
+`PRON` occurs with 17 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `ExtPos=CCONJ`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Typo=Yes`
 
-`PRON` occurs with 44 feature combinations.
+`PRON` occurs with 45 feature combinations.
 The most frequent feature combination is `PronType=Prs` (1884 tokens).
 Examples: <em>se, eles, elas, ele, ela, si, a, o, lo, los</em>
 

@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 120 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 88%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (101; 84%), <tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (78; 65%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 88%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (100; 83%), <tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (78; 65%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -65,8 +65,8 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>तेन</td><td>तया</td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td>तत्</td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>स, सः, सह्</td><td>सा</td><td>तत्, तद्</td></tr>
-  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td>तौ</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>तौ</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>तौ</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>ते</td><td></td><td></td></tr>
 </table>
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 98 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (98; 100%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (97; 99%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (88; 90%), <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt> (85; 87%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (82; 84%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (67; 68%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (98; 100%), <tt><a href="sa_ufal-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (88; 90%), <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt> (85; 87%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (82; 84%), <tt><a href="sa_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (67; 68%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -207,7 +207,7 @@ The most frequent other feature values with which `PART` and `Gender` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="sa_ufal-dep-det.html">det</a></tt>]--> DET</tt> (42; 84%),
-<tt>NOUN --[<tt><a href="sa_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (32; 54%),
+<tt>NOUN --[<tt><a href="sa_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (32; 53%),
 <tt>PROPN --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> PROPN</tt> (13; 65%),
 <tt>NOUN --[<tt><a href="sa_ufal-dep-acl.html">acl</a></tt>]--> VERB</tt> (12; 75%),
 <tt>NOUN --[<tt><a href="sa_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7; 70%),

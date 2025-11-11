@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (1; 0% of non-empty `NumType`): <em>prima</em>
 * `Ord` (616; 100% of non-empty `NumType`): <em>primo, seconda, prima, secondo, terzo, prime, primi, quarto, quinto, II</em>
-* `EMPTY` (19558): <em>precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi, presente</em>
+* `EMPTY` (19557): <em>precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi, presente</em>
 
 <table>
   <tr><th>Paradigm <i>prima</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -55,7 +55,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>6</em>
-* `EMPTY` (57881): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57882): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ## Relations with Agreement in `NumType`
 

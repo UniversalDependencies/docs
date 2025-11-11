@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `ADJ`
 
-There are 1 `ADJ` lemmas (6%), 284 `ADJ` types (13%) and 647 `ADJ` tokens (7%).
-Out of 17 observed tags, the rank of `ADJ` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
+There are 284 `ADJ` lemmas (15%), 284 `ADJ` types (13%) and 647 `ADJ` tokens (7%).
+Out of 17 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>_</em>
+The 10 most frequent `ADJ` lemmas: <em>following, m, able, local, available, current, active, failed, new, continuous</em>
 
 The 10 most frequent `ADJ` types:  <em>following, M, able, local, available, current, active, failed, new, continuous</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>following</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 4), <em>m</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 24, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 9), <em>current</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>other</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 3), <em>standard</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>original</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>another</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 1), <em>first</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1), <em>minimum</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 3), <em>operating</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>following</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 4), <em>current</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>other</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 3), <em>displayed</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 3), <em>defined</em> (<tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 5, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 4), <em>original</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>selected</em> (<tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 5, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 4), <em>another</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 1), <em>cancelled</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 2), <em>first</em> (<tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1)
 
@@ -51,11 +51,21 @@ The 10 most frequent ambiguous types:  <em>following</em> (<tt><a href="en_ctete
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 284.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (284) was observed with the lemma “_”: <em>3D, Absolute, American, Asked, Asynchronous, Augmented, Axial, Billing, Buffered, COTS, Custom, Due, Eastern, Electrical, Enhanced, Fast, Federal, Handheld, Lateral, Longitudinal, M, Magnetic, Managed, National, O, Organizational, Partial, Radial, Regenerative, Relative, Responsible, Rremaining, Significant, Stable, Stand, Target, Vertical, able, abnormal, accepting, active, actual, adaptable, additional, adjacent, adjusted, affected, aggregate, air, algorithmic, allotted, alternative, animated, annotated, another, applicable, appropriate, assigned, astrometric, atmospheric, auto, available, beneficial, best, better, blank, broadcast, cancelled, capable, ceiling, centralized, certain, chief, closest, combined, common, compatible, compliant, computational, conformant, connected, consecutive, consistent, continuous, created, critical, cumulative, current, daily, default, defined, degraded, derived, descendant, desired, detailed, detected, diagnosed, different, digital, displayed, diurnal, down, driven, effective, el., electronic, environmental, equal, existing, expired, external, failed, faulty, filed, first, fixed, followed, following, forecasted, free, full, functional, generic, given, graphical, greater, gross, half, hard, hidden, high, higher, hot, inclusive, incoming, initial, instrumental, integrated, intended, intermediate, internal, international, interoperable, invalid, irrelevant, key, lapsed, larger, left, leftmost, lexical, local, long, low, lower, lunar, major, mass, max, max., maximum, mean, mechanical, minimum, minor, mobile, modified, modular, monitoring, mounted, multi, multiple, nearest, necessary, negative, new, next, nominal, normal, offending, old, on-going, ongoing, operating, operational, operative, optimum, optional, original, other, own, owning, parallel, parent, past, peak, pending, periodic, peripheral, permissive, permitted, physical, planned, positive, possible, pretty, previous, printed, probable, provided, quadruplex, quantized, ready, real, received, reclaimed, regular, removable, removed, reported, required, resonant, respective, restricted, retired, reuse, right, rolling, routine, running, same, secure, selected, serial, short, single, sinusoidal, solar, spare, special, specific, specified, standard, standardized, static, stationary, statistical, structural, successful, such, sufficient, sure, surviving, sustained, tactical, thermal, total, trainborne, transient, transparent, true, trusted, tunable, ultimate, unable, unacceptable, unauthorized, unfitted, unhidden, unique, unplanned, up, used, valid, validated, various, virtual, visible, visual, volatile, voted, walking, whole</em>.
+The 1st highest number of forms (1) was observed with the lemma “3d”: <em>3D</em>.
 
-`ADJ` does not occur with any features.
+The 2nd highest number of forms (1) was observed with the lemma “able”: <em>able</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “abnormal”: <em>abnormal</em>.
+
+`ADJ` occurs with 2 features: <tt><a href="en_ctetex-feat-Typo.html">Typo</a></tt> (3; 0% instances), <tt><a href="en_ctetex-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`ADJ` occurs with 2 feature-value pairs: `ExtPos=SCONJ`, `Typo=Yes`
+
+`ADJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (643 tokens).
+Examples: <em>following, M, able, local, available, current, active, failed, new, continuous</em>
 
 
 ## Relations

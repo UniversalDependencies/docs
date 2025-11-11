@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Javanese-CSUI: POS Tags: `X`
 
-There are 1 `X` lemmas (6%), 144 `X` types (4%) and 183 `X` tokens (1%).
-Out of 17 observed tags, the rank of `X` is: 17 in number of lemmas, 7 in number of types and 15 in number of tokens.
+There are 143 `X` lemmas (4%), 144 `X` types (4%) and 183 `X` tokens (1%).
+Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_</em>
+The 10 most frequent `X` lemmas: <em>rock, eutanasia, penerbangan, perpustakaan, pertengahan, metal, semifinalis, suku, turnamen, _</em>
 
 The 10 most frequent `X` types:  <em>rock, eutanasia, penerbangan, perpustakaan, pertengahan, metal, semifinalis, suku, turnamen, arbitrase</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 2867, <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> 2233, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1952, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1565, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 961, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 798, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 748, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 736, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 700, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 362, <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 340, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 314, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 306, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 234, <tt><a href="jv_csui-pos-X.html">X</a></tt> 183, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 32, <tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> 12)
+The 10 most frequent ambiguous lemmas: <em>rock</em> (<tt><a href="jv_csui-pos-X.html">X</a></tt> 5, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1), <em>penjajah</em> (<tt><a href="jv_csui-pos-X.html">X</a></tt> 2, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1), <em>association</em> (<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>bab</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 13, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>darah</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>grande</em> (<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>lenggah</em> (<tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 3, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>master</em> (<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>of</em> (<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>penting</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Association</em> (<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>bab</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 9, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>darah</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>daya</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>of</em> (<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>warga</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>à</em> (<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1)
 
@@ -42,9 +42,13 @@ The 10 most frequent ambiguous types:  <em>Association</em> (<tt><a href="jv_csu
 
 ## Morphology
 
-The form / lemma ratio of `X` is 144.000000 (the average of all parts of speech is 238.352941).
+The form / lemma ratio of `X` is 1.006993 (the average of all parts of speech is 1.145928).
 
-The 1st highest number of forms (144) was observed with the lemma “_”: <em>Airline, Association, Burger, European, Fares, House, Kriteria, Low, Mouse, Pesawat, administrasi, administratif, affun, akademis, all-aspect, all-weather, analisis, apartemen, arbitrase, arus, audhisi, audisi, bab, beasiswa, beroperasi, bisnis, black, combo, darah, daya, de, designated, domestik, drum, eksperimental, ekstrem, elektronis, etis, eutanasia, excess, facto, fasilitas, fermentasi, festival, finish, game, ghetto, grande, granul, haiku, hidrostatika, imigran, jamming, jaringan, jitu, kata, katalog, kekerasan, kelompok, kemoterapi, kepentingan, kevakuman, kibor, killer, komite, kompleks, konsekuensi-konsekuensi, kontrak, lenggahe, mahasiswa, marksman, master, meledak, metal, metropolitan, mode, njaba, non-fiksi, of, parlemen, partner, pendudukan, penerbangan, pengacara, pengacauan, penjahit, penjajah, penjajahan, penjualan, penumpang, penyebab, people, perancang, perawatan, perdamaian, perhatian, perpustakaan, pertahanan, pertama, pertanian, pertengahan, perumahan, poin, postingan, power, pro, protagonis, protokol, psychedelic, puisi, rapper, rasisme, realisme, remisi, reorganisasi, rock, rookie, semifinalis, seorang, seri, sharpshooter, show, snack, sniper, standar, subunit, suku, suwuk, taunn, tekanan, train, tujuan, turisme, turnamen, urea, vegan, vegetarian, vikaris, vitesse, warga, web, à, 東京, 爱情的三部曲</em>.
+The 1st highest number of forms (2) was observed with the lemma “_”: <em>daya, warga</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “administrasi”: <em>administrasi</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “administratif”: <em>administratif</em>.
 
 `X` occurs with 2 features: <tt><a href="jv_csui-feat-Foreign.html">Foreign</a></tt> (179; 98% instances), <tt><a href="jv_csui-feat-Typo.html">Typo</a></tt> (1; 1% instances)
 

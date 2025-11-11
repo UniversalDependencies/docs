@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3047 nodes (15%) are attached to their parents as `case`.
+3050 nodes (15%) are attached to their parents as `case`.
 
-3028 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18739744010502.
+3033 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1872131147541.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (2295; 75% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (394; 13% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (203; 7% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (56; 2% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (55; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (36; 1% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (2295; 75% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (394; 13% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (206; 7% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (56; 2% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (55; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (36; 1% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 case	color:blue
-1	تمول	مَوَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LId=مَوَّل_1
+1	تمول	مَوَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=مَوَّل_1
 2	النفقات	نَفَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj:pass	_	LId=نَفَقَة_1
 3	الجديدة	جَدِيد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=جَدِيد_1
-4	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
+4	من	مِن	ADP	IN	ExtPos=ADP	6	case	_	LId=مِن_1
 5	خلال	خِلَالَ	ADP	IN	_	4	fixed	_	LId=خِلال_1
 6	حساب	حِسَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=حِساب_1
 7	كلينتون	كلِينتُون	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	LId=كلِينْتُون_1
@@ -43,7 +43,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 9 case	color:blue
 1	أمام	أَمَامَ	ADP	IN	_	0	root	_	LId=أَمام_1|SpaceAfter=No
-2	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3	1	obj	_	_
+2	هم	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
 3	عائقٌ	عائِق	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	LId=عائِق_1
 4	واحدٌ	واحِد	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	amod	_	LId=واحِد_1
 5	ل	لِ	ADP	IN	_	6	case	_	SpaceAfter=No
@@ -67,11 +67,11 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 2	الأقصى	أَقصَى	ADJ	JJR	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	amod	_	LId=أَقْصَى_2
 3	المسموح	مَسمُوح	ADJ	VBN	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	ccomp	_	LId=مَسْمُوح_1
 4	ب	بِ	ADP	IN	_	5	case	_	LId=بِ_1|SpaceAfter=No
-5	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	3	obl	_	_
+5	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 6	ل	لِ	ADP	IN	_	7	case	_	SpaceAfter=No
 7	لشخص	شَخص	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obl	_	LId=شَخْص_1
 8	الواحد	وَاحِد	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	LId=واحِد_1
-9	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3	1	dep	_	LId=هُوَ_1
+9	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	dep	_	LId=هُوَ_1
 10	5000	5000	NUM	CD	_	11	nummod	_	LId=٥٠٠٠_0
 11	دولار	دُولَار	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=دُولار_1|SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	LId=._0

@@ -38,13 +38,13 @@ The 2nd highest number of forms (2) was observed with the lemma “уна”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “весь”: <em>всю</em>.
 
-`DET` occurs with 7 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (8; 80% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (8; 80% instances), <tt><a href="kpv_ikdp-feat-Degree.html">Degree</a></tt> (1; 10% instances), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt> (1; 10% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (1; 10% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (1; 10% instances), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt> (1; 10% instances)
+`DET` occurs with 7 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (8; 80% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (8; 80% instances), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt> (6; 60% instances), <tt><a href="kpv_ikdp-feat-Degree.html">Degree</a></tt> (1; 10% instances), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt> (1; 10% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (1; 10% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (1; 10% instances)
 
-`DET` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Nom`, `Degree=Cmp`, `NumType=Ord`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `PronType=Int`
+`DET` occurs with 10 feature-value pairs: `Case=Acc`, `Case=Nom`, `Degree=Cmp`, `NumType=Ord`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `PronType=Ind`, `PronType=Int`, `PronType=Tot`
 
-`DET` occurs with 7 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (4 tokens).
-Examples: <em>уна, Став, такое</em>
+`DET` occurs with 9 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Ind` (2 tokens).
+Examples: <em>уна</em>
 
 
 ## Relations

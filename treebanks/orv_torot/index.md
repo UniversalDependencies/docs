@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Hanne Eckhoff.
 
 Repository: [UD_Old_East_Slavic-TOROT](https://github.com/UniversalDependencies/UD_Old_East_Slavic-TOROT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_torot216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_torot217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -72,7 +72,7 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 
 ## Relations
 
-[acl](orv_torot-dep-acl.html) – [advcl](orv_torot-dep-advcl.html) – [advcl:cmp](orv_torot-dep-advcl-cmp.html) – [advmod](orv_torot-dep-advmod.html) – [amod](orv_torot-dep-amod.html) – [appos](orv_torot-dep-appos.html) – [aux](orv_torot-dep-aux.html) – [aux:pass](orv_torot-dep-aux-pass.html) – [case](orv_torot-dep-case.html) – [cc](orv_torot-dep-cc.html) – [ccomp](orv_torot-dep-ccomp.html) – [conj](orv_torot-dep-conj.html) – [cop](orv_torot-dep-cop.html) – [csubj](orv_torot-dep-csubj.html) – [csubj:pass](orv_torot-dep-csubj-pass.html) – [dep](orv_torot-dep-dep.html) – [det](orv_torot-dep-det.html) – [discourse](orv_torot-dep-discourse.html) – [dislocated](orv_torot-dep-dislocated.html) – [expl:pv](orv_torot-dep-expl-pv.html) – [fixed](orv_torot-dep-fixed.html) – [flat:name](orv_torot-dep-flat-name.html) – [mark](orv_torot-dep-mark.html) – [nmod](orv_torot-dep-nmod.html) – [nsubj](orv_torot-dep-nsubj.html) – [nsubj:outer](orv_torot-dep-nsubj-outer.html) – [nsubj:pass](orv_torot-dep-nsubj-pass.html) – [nummod](orv_torot-dep-nummod.html) – [obj](orv_torot-dep-obj.html) – [obl](orv_torot-dep-obl.html) – [obl:agent](orv_torot-dep-obl-agent.html) – [obl:arg](orv_torot-dep-obl-arg.html) – [orphan](orv_torot-dep-orphan.html) – [parataxis](orv_torot-dep-parataxis.html) – [root](orv_torot-dep-root.html) – [vocative](orv_torot-dep-vocative.html) – [xcomp](orv_torot-dep-xcomp.html)
+[acl](orv_torot-dep-acl.html) – [advcl](orv_torot-dep-advcl.html) – [advcl:cmp](orv_torot-dep-advcl-cmp.html) – [advmod](orv_torot-dep-advmod.html) – [amod](orv_torot-dep-amod.html) – [appos](orv_torot-dep-appos.html) – [aux](orv_torot-dep-aux.html) – [aux:pass](orv_torot-dep-aux-pass.html) – [case](orv_torot-dep-case.html) – [cc](orv_torot-dep-cc.html) – [ccomp](orv_torot-dep-ccomp.html) – [conj](orv_torot-dep-conj.html) – [cop](orv_torot-dep-cop.html) – [csubj](orv_torot-dep-csubj.html) – [csubj:pass](orv_torot-dep-csubj-pass.html) – [dep](orv_torot-dep-dep.html) – [det](orv_torot-dep-det.html) – [discourse](orv_torot-dep-discourse.html) – [dislocated](orv_torot-dep-dislocated.html) – [expl:pv](orv_torot-dep-expl-pv.html) – [fixed](orv_torot-dep-fixed.html) – [flat:name](orv_torot-dep-flat-name.html) – [iobj](orv_torot-dep-iobj.html) – [mark](orv_torot-dep-mark.html) – [nmod](orv_torot-dep-nmod.html) – [nsubj](orv_torot-dep-nsubj.html) – [nsubj:outer](orv_torot-dep-nsubj-outer.html) – [nsubj:pass](orv_torot-dep-nsubj-pass.html) – [nummod](orv_torot-dep-nummod.html) – [obj](orv_torot-dep-obj.html) – [obl](orv_torot-dep-obl.html) – [obl:agent](orv_torot-dep-obl-agent.html) – [obl:arg](orv_torot-dep-obl-arg.html) – [orphan](orv_torot-dep-orphan.html) – [parataxis](orv_torot-dep-parataxis.html) – [reparandum](orv_torot-dep-reparandum.html) – [root](orv_torot-dep-root.html) – [vocative](orv_torot-dep-vocative.html) – [xcomp](orv_torot-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -809,30 +809,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (5)</li>
-      <li>VERB-Fin--NOUN-Acc (3903)</li>
+      <li>VERB-Fin--NOUN-Acc (3904)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(на) (7)</li>
       <li>VERB-Fin--NOUN-Dat (4)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(по) (5)</li>
-      <li>VERB-Fin--NOUN-Gen (971)</li>
+      <li>VERB-Fin--NOUN-Gen (970)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(без) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(отъ) (7)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(у) (1)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(въ) (2)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(о) (6)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(о) (4)</li>
       <li>VERB-Fin--NOUN-Nom (6)</li>
       <li>VERB-Fin--PRON (21)</li>
-      <li>VERB-Fin--PRON-Acc (1590)</li>
+      <li>VERB-Fin--PRON-Acc (1588)</li>
       <li>VERB-Fin--PRON-Dat (5)</li>
       <li>VERB-Fin--PRON-Dat-ADP(по) (1)</li>
-      <li>VERB-Fin--PRON-Gen (796)</li>
+      <li>VERB-Fin--PRON-Gen (795)</li>
       <li>VERB-Fin--PRON-Gen-ADP(до) (1)</li>
       <li>VERB-Fin--PRON-Gen-ADP(отъ) (1)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Loc-ADP(о) (1)</li>
       <li>VERB-Fin--PRON-Nom (4)</li>
       <li>VERB-Inf--NOUN (14)</li>
-      <li>VERB-Inf--NOUN-Acc (947)</li>
+      <li>VERB-Inf--NOUN-Acc (945)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(на) (2)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(по) (3)</li>
       <li>VERB-Inf--NOUN-Gen (345)</li>
@@ -843,14 +843,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (289)</li>
       <li>VERB-Inf--PRON-Gen (262)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>
-      <li>VERB-Part--NOUN-Acc (1381)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(на) (5)</li>
+      <li>VERB-Part--NOUN-Acc (1380)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(на) (4)</li>
       <li>VERB-Part--NOUN-Dat-ADP(по) (2)</li>
       <li>VERB-Part--NOUN-Gen (309)</li>
       <li>VERB-Part--NOUN-Loc-ADP(въ) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(о) (2)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(о) (1)</li>
       <li>VERB-Part--NOUN-Nom (4)</li>
-      <li>VERB-Part--PRON-Acc (458)</li>
+      <li>VERB-Part--PRON-Acc (459)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
       <li>VERB-Part--PRON-Gen (215)</li>
       <li>VERB-Part--PRON-Gen-ADP(отъ) (1)</li>
@@ -876,6 +876,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--PRON-Acc (1)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -898,5 +900,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 9 relation subtypes: <a>advcl:cmp</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>punct</a></li>
 </ul>

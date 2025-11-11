@@ -23,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 csubj:pass	color:blue
-1	nč̣	nč̣	VERB	_	SubForm=AbstRel|Tense=Fut|VerbClass=2lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓐩|SPC=FutPass
+1	nč̣	nč̣	VERB	_	Mood=Ind|SubForm=AbstRel|Tense=Fut|VerbClass=2lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓐩|SPC=FutPass
 2	ꜥḳ	ꜥḳ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	1	csubj:pass	_	Hiero=𓅧
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-4	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Dem|Hiero=𓊪:𓈖
+4	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Hiero=𓊪:𓈖
 5	m	m	ADP	_	Case=Equ	6	case	_	Hiero=𓅓|Status=Cons
 6	mḥ.t(ꞽ)	mḥ.tꞽ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	Hiero=𓎔:𓏏
-7	Śḫ.(w)t	Śḫ.t	PROPN	_	Gender=Fem|Number=Plur	6	nmod:poss	_	Hiero=𓋴(𓐍:𓏏)𓇏𓇏𓇏|Hierocl=Yes|Name=Place
-8	ꞽꜣr.w	ꞽꜣr	NOUN	_	Gender=Masc|Number=Plur	7	nmod:poss	_	Hiero=𓇋𓄿𓃭UC_13E8B|Hierocl=Yes
+7	Śḫ.(w)t	Śḫ.t	PROPN	_	Gender=Fem|Number=Plur	6	nmod:poss	_	Hiero=𓋴(𓐍:𓏏)𓇏𓇏𓇏|Name=Place
+8	ꞽꜣr.w	ꞽꜣr	NOUN	_	Gender=Masc|Number=Plur	7	nmod:poss	_	Hiero=𓇋𓄿𓃭UC_13E8B|Hierocl=UC_13E8B
 
 ~~~
 

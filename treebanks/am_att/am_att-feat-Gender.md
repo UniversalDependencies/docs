@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="am_att-pos-PRON.htm
 
 1732 <tt><a href="am_att-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="am_att-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1730; 100%), <tt><a href="am_att-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1716; 99%), <tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt> (1561; 90%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="am_att-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1732; 100%), <tt><a href="am_att-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1716; 99%), <tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt> (1561; 90%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -38,6 +38,8 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 ### `DET`
 
 4 <tt><a href="am_att-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="am_att-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4; 100%).
 
 `DET` tokens may have the following values of `Gender`:
 

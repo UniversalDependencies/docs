@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pt_porttinari-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="pt_porttinari-dep-flat-name.html">flat:name</a></tt>.
 
-68 nodes (0%) are attached to their parents as `flat:foreign`.
+70 nodes (0%) are attached to their parents as `flat:foreign`.
 
-68 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16176470588235.
+70 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17142857142857.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (68; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (70; 100% instances).
 
 
 ~~~ conllu

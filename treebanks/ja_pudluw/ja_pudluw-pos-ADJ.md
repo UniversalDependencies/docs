@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  ない (<tt><a href="ja_pudluw-pos-AUX.ht
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.116838 (the average of all parts of speech is 1.079803).
+The form / lemma ratio of `ADJ` is 1.116838 (the average of all parts of speech is 1.079832).
 
 The 1st highest number of forms (5) was observed with the lemma “良い”: いい, よく, 良い, 良かっ, 良く.
 
@@ -64,13 +64,13 @@ The 3rd highest number of forms (3) was observed with the lemma “多い”: �
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 7 different relations: <tt><a href="ja_pudluw-dep-acl.html">acl</a></tt> (295; 46% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (217; 34% instances), <tt><a href="ja_pudluw-dep-root.html">root</a></tt> (39; 6% instances), <tt><a href="ja_pudluw-dep-amod.html">amod</a></tt> (37; 6% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (32; 5% instances), <tt><a href="ja_pudluw-dep-ccomp.html">ccomp</a></tt> (15; 2% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 7 different relations: <tt><a href="ja_pudluw-dep-acl.html">acl</a></tt> (295; 46% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (209; 33% instances), <tt><a href="ja_pudluw-dep-root.html">root</a></tt> (39; 6% instances), <tt><a href="ja_pudluw-dep-amod.html">amod</a></tt> (38; 6% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (32; 5% instances), <tt><a href="ja_pudluw-dep-ccomp.html">ccomp</a></tt> (15; 2% instances), <tt><a href="ja_pudluw-dep-obl.html">obl</a></tt> (8; 1% instances)
 
-Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (358; 56% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (191; 30% instances),  (39; 6% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (38; 6% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (357; 56% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (191; 30% instances),  (39; 6% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (38; 6% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
-133 (21%) `ADJ` nodes are leaves.
+132 (21%) `ADJ` nodes are leaves.
 
-319 (50%) `ADJ` nodes have one child.
+320 (50%) `ADJ` nodes have one child.
 
 76 (12%) `ADJ` nodes have two children.
 
@@ -78,7 +78,7 @@ Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="ja_pu
 
 The highest child degree of a `ADJ` node is 8.
 
-Children of `ADJ` nodes are attached using 15 different relations: <tt><a href="ja_pudluw-dep-aux.html">aux</a></tt> (380; 41% instances), <tt><a href="ja_pudluw-dep-punct.html">punct</a></tt> (118; 13% instances), <tt><a href="ja_pudluw-dep-nsubj.html">nsubj</a></tt> (90; 10% instances), <tt><a href="ja_pudluw-dep-case.html">case</a></tt> (83; 9% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (81; 9% instances), <tt><a href="ja_pudluw-dep-obl.html">obl</a></tt> (62; 7% instances), <tt><a href="ja_pudluw-dep-advmod.html">advmod</a></tt> (47; 5% instances), <tt><a href="ja_pudluw-dep-mark.html">mark</a></tt> (25; 3% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (14; 2% instances), <tt><a href="ja_pudluw-dep-nsubj-outer.html">nsubj:outer</a></tt> (10; 1% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (7; 1% instances), <tt><a href="ja_pudluw-dep-cc.html">cc</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 15 different relations: <tt><a href="ja_pudluw-dep-aux.html">aux</a></tt> (380; 41% instances), <tt><a href="ja_pudluw-dep-punct.html">punct</a></tt> (119; 13% instances), <tt><a href="ja_pudluw-dep-nsubj.html">nsubj</a></tt> (90; 10% instances), <tt><a href="ja_pudluw-dep-case.html">case</a></tt> (83; 9% instances), <tt><a href="ja_pudluw-dep-advcl.html">advcl</a></tt> (81; 9% instances), <tt><a href="ja_pudluw-dep-obl.html">obl</a></tt> (62; 7% instances), <tt><a href="ja_pudluw-dep-advmod.html">advmod</a></tt> (47; 5% instances), <tt><a href="ja_pudluw-dep-mark.html">mark</a></tt> (25; 3% instances), <tt><a href="ja_pudluw-dep-nmod.html">nmod</a></tt> (14; 2% instances), <tt><a href="ja_pudluw-dep-nsubj-outer.html">nsubj:outer</a></tt> (10; 1% instances), <tt><a href="ja_pudluw-dep-compound.html">compound</a></tt> (7; 1% instances), <tt><a href="ja_pudluw-dep-cc.html">cc</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 14 different parts of speech: <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (380; 41% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (159; 17% instances), <tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (118; 13% instances), <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (83; 9% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (47; 5% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (41; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (38; 4% instances), <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> (23; 2% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (16; 2% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> (2; 0% instances)
+Children of `ADJ` nodes belong to 14 different parts of speech: <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt> (380; 41% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (160; 17% instances), <tt><a href="ja_pudluw-pos-PUNCT.html">PUNCT</a></tt> (119; 13% instances), <tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (83; 9% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (47; 5% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (41; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (38; 4% instances), <tt><a href="ja_pudluw-pos-SCONJ.html">SCONJ</a></tt> (23; 2% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (16; 2% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="ja_pudluw-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-pos-PART.html">PART</a></tt> (2; 0% instances)
 

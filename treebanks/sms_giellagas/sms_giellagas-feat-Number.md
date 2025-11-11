@@ -12,15 +12,15 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt>, <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt>.
 
 1419 tokens (48%) have a non-empty value of `Number`.
-585 types (78%) occur at least once with a non-empty value of `Number`.
+584 types (78%) occur at least once with a non-empty value of `Number`.
 334 lemmas (66%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (538; 18% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (387; 13% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (298; 10% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (143; 5% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (538; 18% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (385; 13% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (295; 10% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (143; 5% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (22; 1% instances), <tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `VERB`
 
 538 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (82% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (537; 100%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (487; 91%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (459; 85%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (271; 50%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (536; 100%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (487; 91%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (459; 85%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (271; 50%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -35,14 +35,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `NOUN`
 
-387 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Number`.
+385 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (345; 89%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (345; 89%), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (285; 74%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (343; 89%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (343; 89%), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (283; 74%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (42; 11% of non-empty `Number`): <em>muõrid, kooʹddid, kåʹllkåʹđđnjõõzzid, oummu, peästtõõǥǥ, päärna, aaiʹtid, jurddi, järraz, kaappi</em>
-* `Sing` (345; 89% of non-empty `Number`): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, ääkka, eččad, niõđ, niõđâž</em>
+* `Plur` (40; 10% of non-empty `Number`): <em>muõrid, kooʹddid, kåʹllkåʹđđnjõõzzid, oummu, peästtõõǥǥ, päärna, aaiʹtid, jurddi, järraz, kaappi</em>
+* `Sing` (345; 90% of non-empty `Number`): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, ääkka, eččad, niõđ, niõđâž</em>
 * `EMPTY` (24): <em>kaavân, kämmǥižžen, triâŋggân, vuâra, kueʹllen, näuʹdden, eeʹǩǩed, heäppšen, låʹdden, ooumžen</em>
 
 <table>
@@ -53,20 +53,20 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Oummu</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 90% lemmas (133) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 91% lemmas (133) occur only with one value of `Number`.
 
 ### `PRON`
 
-298 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Number`.
+295 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (199; 67%), <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (158; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (196; 66%), <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (158; 54%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Dual` (4; 1% of non-empty `Number`): <em>suännast, muännaid, suäna</em>
 * `Plur` (32; 11% of non-empty `Number`): <em>miʹjjid, seeʹst, tõid, tuk, dõõk, jiijj, mij, måttam, sij, tõk</em>
-* `Sing` (262; 88% of non-empty `Number`): <em>son, tõt, tõn, ton, mon, suu, mii, muu, puk, dõõt</em>
-* `EMPTY` (13): <em>mâiʹd, måttam, jiânnai-a, mõõn</em>
+* `Sing` (259; 88% of non-empty `Number`): <em>son, tõt, tõn, ton, mon, suu, mii, muu, puk, dõõt</em>
+* `EMPTY` (12): <em>mâiʹd, måttam, jiânnai-a</em>
 
 <table>
   <tr><th>Paradigm <i>son</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 143 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (139; 97%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 69%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (92; 64%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (74; 52%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (141; 99%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (139; 97%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (98; 69%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (92; 64%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (74; 52%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -104,16 +104,16 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `ADJ`
 
-16 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (50% of all `ADJ` tokens) have a non-empty value of `Number`.
+22 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (56% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (15; 94%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 69%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (21; 95%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 73%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Sing` (16; 100% of non-empty `Number`): <em>jõnn, nuuʹbb, nuʹbb, tiõrvâs, jåʹttel, kuuʹǩǩ, lääʹđesmiõllsab, muʹvddem, occkaž, veeʹres</em>
-* `EMPTY` (16): <em>kuälmad, šiõǥǥ, nåkkam, ekksaž, jõnn, kaađâš, siõm, uʹcc, viʹlǧǧes, šoora</em>
+* `Sing` (22; 100% of non-empty `Number`): <em>nåkkam, nuuʹbb, jõnn, nuʹbb, tiõrvâs, jåʹttel, kuuʹǩǩ, lääʹđesmiõllsab, muʹvddem, nåkkam-a</em>
+* `EMPTY` (17): <em>kuälmad, šiõǥǥ, nåkkam, ekksaž, jõnn, kaađâš, måkam, siõm, uʹcc, viʹlǧǧes</em>
 
-`Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `Number`.
 
 ### `NUM`
 
@@ -139,15 +139,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `DET`
 
-7 <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> tokens (70% of all `DET` tokens) have a non-empty value of `Number`.
+6 <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (5; 71%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 57%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (5; 83%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (1; 14% of non-empty `Number`): <em>tok</em>
-* `Sing` (6; 86% of non-empty `Number`): <em>tõn, tõt, Tät, määŋg</em>
-* `EMPTY` (3): <em>jeeʹres, jäänab, måkam</em>
+* `Sing` (6; 100% of non-empty `Number`): <em>tõn, tõt, Tät, määŋg</em>
+* `EMPTY` (1): <em>jeeʹres</em>
 
 ### `ADV`
 
@@ -158,15 +157,15 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (2; 100% of non-empty `Number`): <em>mâʹst, mõõzz</em>
-* `EMPTY` (297): <em>âʹtte, âʹpet, de, kâʹl, mäʹhtt, tok, pâi, teâđast, še, tõʹst</em>
+* `EMPTY` (299): <em>âʹtte, âʹpet, de, kâʹl, tok, mäʹhtt, pâi, teâđast, še, tõʹst</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (230; 82%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (113; 82%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (91; 79%),
-<tt>NOUN --[<tt><a href="sms_giellagas-dep-det.html">det</a></tt>]--> PRON</tt> (46; 96%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (115; 82%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (89; 79%),
+<tt>NOUN --[<tt><a href="sms_giellagas-dep-det.html">det</a></tt>]--> PRON</tt> (46; 98%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-obl.html">obl</a></tt>]--> NOUN</tt> (41; 64%),
 <tt>NOUN --[<tt><a href="sms_giellagas-dep-cop.html">cop</a></tt>]--> AUX</tt> (14; 93%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (10; 100%),

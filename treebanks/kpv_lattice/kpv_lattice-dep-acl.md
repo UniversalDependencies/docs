@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 7 5 acl	color:blue
 1	Колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru
 2	ӧні	ӧні	ADV	Adv	_	3	advmod	_	_
-3	мунӧ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	мунӧ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	_
 5	воӧм	воны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
 6	озыр	озыр	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
@@ -44,8 +44,8 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 10 9 acl	color:blue
 1	Гу	гу	NOUN	N	Case=Nom|Number=Sing	3	obl	_	GTtags=Sg,Nom
 2	вылӧ	вылӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing	1	case	_	GTtags=Po,Sg,Ill
-3	воисны	воны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Pl3
-4	став	став	PRON	Pron	Case=Nom|Number=Sing	5	det	_	GTtags=Sg,Nom
+3	воисны	воны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Pl3
+4	став	став	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	5	det	_	GTtags=Sg,Nom
 5	дасьлунӧн	дасьлун	NOUN	N	Case=Ins|Number=Sing	3	obl	_	GTtags=Sg,Ins|SpaceAfter=No
 6	:	:	PUNCT	CLB	_	7	punct	_	_
 7	шыаӧсь	шыа	ADJ	A	Number[subj]=Plur	3	conj	_	GTtags=Cop,Pl|SpaceAfter=No
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	юӧм	юны	VERB	V	Case=Nom|Number=Sing|VerbForm=Vnoun	5	acl	_	GTtags=TV,Der,Der/ӧм,Der/NomAct,N,Sg,Nom
 3	бӧрын	бӧрын	ADP	Adp	Case=Ine	2	case	_	GTtags=Ine
 4	Павел	Павел	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	5	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-5	мустӧмтіс	мустӧмтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Sg3
+5	мустӧмтіс	мустӧмтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,Sg3
 6	асьсӧ	ас	PRON	Pron	Case=Acc|Number=Sing|Person=3|Reflex=Yes	5	obj	_	GTtags=Refl,Sg3,Acc
 7	тӧрытъясьыс	тӧрытъя	ADJ	A	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	GTtags=Sg,Ela,PxSg3|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	5	punct	_	_

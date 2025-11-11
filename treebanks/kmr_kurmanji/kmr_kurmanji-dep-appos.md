@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of appos in UD_Kurmanji-MG'
+title:  'Statistics of appos in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `appos`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `appos`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 30 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.73333333333333.
 
-The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (11; 37% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (10; 33% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 7% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (11; 37% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (10; 33% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-X.html">X</a></tt> (2; 7% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

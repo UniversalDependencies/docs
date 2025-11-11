@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 6 7 flat	color:blue
 1	୨୦୦ରୁ	୨୦୦	NUM	QT_QTC	_	3	nummod	_	Translit=200ru|LTranslit=200
 2	ଅଧିକ	ଅଧିକ	ADV	RB	_	1	advmod	_	Translit=adhika|LTranslit=adhika
-3	ଫିଲ୍ମରେ	ଫିଲ୍ମ	NOUN	N_NN	_	4	obl	_	Translit=philmare|LTranslit=philma
+3	ଫିଲ୍ମରେ	ଫିଲ୍ମ	NOUN	N_NN	_	4	nmod	_	Translit=philmare|LTranslit=philma
 4	ଅଭିନୟ	ଅଭିନୟ	NOUN	N_NN	_	5	obj	_	Translit=abhinaŷa|LTranslit=abhinaŷa
 5	କରିଥିବା	କରି	VERB	V_VM_VNG	_	6	acl	_	Translit=karithibā|LTranslit=kari
 6	ଅମ୍ବରିଶ	ଅମ୍ବରିଶ	NOUN	N_NN	_	10	nsubj	_	Translit=ambariśa|LTranslit=ambariśa

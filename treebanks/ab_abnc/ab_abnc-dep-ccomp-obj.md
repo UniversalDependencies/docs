@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 6 other language-specific subtypes of `ccomp`: <tt><a href="ab_abnc-dep-ccomp-iobj.html">ccomp:iobj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-lo.html">ccomp:lo</a></tt>, <tt><a href="ab_abnc-dep-ccomp-poss.html">ccomp:poss</a></tt>, <tt><a href="ab_abnc-dep-ccomp-purp.html">ccomp:purp</a></tt>, <tt><a href="ab_abnc-dep-ccomp-quote.html">ccomp:quote</a></tt>, <tt><a href="ab_abnc-dep-ccomp-ro.html">ccomp:ro</a></tt>.
 
-73 nodes (1%) are attached to their parents as `ccomp:obj`.
+81 nodes (1%) are attached to their parents as `ccomp:obj`.
 
-67 instances of `ccomp:obj` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3013698630137.
+73 instances of `ccomp:obj` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.35802469135802.
 
-The following 3 pairs of parts of speech are connected with `ccomp:obj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (71; 97% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `ccomp:obj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (79; 98% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,14 +43,14 @@ The following 3 pairs of parts of speech are connected with `ccomp:obj`: <tt><a 
 3	аҟәардә	а-ҟәа́рдә	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	6	xcomp	_	LMSeg:а-ҟәа́рдә
 4	ҟәымшәышәқәа	а-ҟәымшәы́шә	ADJ	Adj_Pl	Number=Plur	3	amod	_	LMSeg:а-ҟәымшәы́шә
 5	икҿагылаз	а-кҿагы́лазаара	VERB	V_Stat_NonFin_Impf_S:Rel_Rel	Dyn=No|Person[subj]=Rel|Tense=Imp|VerbForm=NonFin	3	ccomp:obj	_	LMSeg:а-кҿа·гы́ла-заа-ра
-6	ааиган	аа́гара	VERB	V_Dyn_Tr_Fin_PastIndef_S:3SgM_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Masc|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	13	advcl:seq	_	LMSeg:аа́·га-ра|SpaceAfter=No
+6	ааиган	аа́гара	VERB	V_Dyn_Tr_Fin_PastIndef_S:3SgM_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	13	advcl:seq	_	LMSeg:аа́·га-ра|SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	13	punct	_	LMSeg:,
 8	азал	а-за́л	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	13	obl	_	LMSeg:а-за́л
 9	агәҭаны	а-гәҭаны́	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	8	case	_	LMSeg:а-гәҭаны́
-10	ҩ-шьаҿак	а-шьаҿа́	NOUN	Noun_NH_Sg_Indet_NumPfx	Animacy=Nhum|Number=Card	11	obj:ro	_	LMSeg:а-шьаҿа́
+10	ҩ-шьаҿак	а-шьаҿа́	NOUN	Noun_NH_Sg_Indet_NumPfx	Animacy=Nhum|Number=Card	11	iobj:ro	_	LMSeg:а-шьаҿа́
 11	иазынаҧшуа	а-зы́наҧшра	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Pres_S:3_RO:3SgNH_Reln:For	Dyn=Yes|Gender[ro]=Neut|Number[ro]=Sing|Person[ro]=3|Person[subj]=3|Reln=Ben|Subcat=Intr|Tense=Pres|VerbForm=NonFin	12	advcl:conv	_	LMSeg:а-зы́·на·ҧш-ра
 12	набжьаҵаны	а-бжьаҵара́	VERB	V_Dyn_Tr_NonFin_Cnv_Abs_Aor_FPv:на_DO:3_DO:Ad_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[obj]=3|Subcat=Tran|Tense=Aor|VerbForm=NonFin	13	advcl:conv	_	LMSeg:а-бжьа·ҵа-ра́
-13	иаадиргылт	а́-дыргылара	VERB	V_Dyn_Intr_Caus_Fin_Aor_FPv:аа_S:3SgM_DO:3_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Gender[subj]=Masc|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin|Voice=Cau	0	root	_	LMSeg:а́-ды·р:гыла-ра|SpaceAfter=No
+13	иаадиргылт	а́-дыргылара	VERB	V_Dyn_Intr_Caus_Fin_Aor_FPv:аа_S:3SgM_DO:3_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Gender[subj]=Masc|Mood=Ind|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin|Voice=Cau	0	root	_	LMSeg:а́-ды·р:гыла-ра|SpaceAfter=No
 14	.	.	PUNCT	Punct_Period	_	13	punct	_	LMSeg:.
 
 ~~~

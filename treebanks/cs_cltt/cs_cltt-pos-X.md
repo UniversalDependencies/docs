@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_cltt-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.709027).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.709632).
 
 The 1st highest number of forms (1) was observed with the lemma “***Výsledek”: <em>***Výsledek</em>.
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (1) was observed with the lemma “1.ledna”: <
 
 ## Relations
 
-`X` nodes are attached to their parents using 9 different relations: <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (1317; 62% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (503; 24% instances), <tt><a href="cs_cltt-dep-root.html">root</a></tt> (130; 6% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (96; 5% instances), <tt><a href="cs_cltt-dep-dep.html">dep</a></tt> (69; 3% instances), <tt><a href="cs_cltt-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_cltt-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 9 different relations: <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (1378; 65% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (442; 21% instances), <tt><a href="cs_cltt-dep-root.html">root</a></tt> (130; 6% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (96; 5% instances), <tt><a href="cs_cltt-dep-dep.html">dep</a></tt> (69; 3% instances), <tt><a href="cs_cltt-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="cs_cltt-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
 Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="cs_cltt-pos-X.html">X</a></tt> (981; 46% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (740; 35% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (153; 7% instances),  (130; 6% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (80; 4% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (33; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 

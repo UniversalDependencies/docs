@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>ander</em> (<tt><a href="af_afribooms
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.132903 (the average of all parts of speech is 1.120600).
+The form / lemma ratio of `ADJ` is 1.132903 (the average of all parts of speech is 1.120578).
 
 The 1st highest number of forms (4) was observed with the lemma “doeltreffend”: <em>doeltreffend, doeltreffende, doeltreffender, doeltreffendste</em>.
 

@@ -23,18 +23,18 @@ The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux	color:blue
-1	Ils	eux	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	wordform=ils
+1	Ils	eux	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	wordform=ils
 2	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 3	voient	voir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	confier	confier	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	autre	autre	ADJ	_	Number=Sing	7	amod	_	Gender[ctxt]=Masc
-7	chargement	chargement	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
-8	partant	partir	VERB	_	Tense=Pres|VerbForm=Part	7	acl	_	_
+7	chargement	chargement	NOUN	_	Number=Sing	4	obj	_	Gender[lex]=Masc
+8	partant	partir	VERB	_	VerbForm=Part	7	acl	_	Tense[denom]=Pres
 9	de	de	ADP	_	_	10	case	_	_
-10	Baranquilla	Baranquilla	PROPN	_	_	8	obl:arg	_	_
+10	Baranquilla	Baranquilla	PROPN	_	_	8	obl:arg	_	Gender[lex]=Unknown
 11	en	en	ADP	_	_	12	case	_	_
-12	Colombie	Colombie	PROPN	_	_	8	obl:mod	_	SpaceAfter=No
+12	Colombie	Colombie	PROPN	_	_	8	obl:mod	_	Gender[lex]=Unknown|SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

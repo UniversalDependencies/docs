@@ -10,8 +10,8 @@ This relation is universal.
 
 1 nodes (0%) are attached to their parents as `dislocated`.
 
-1 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 25.
+1 instances of `dislocated` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
 The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
 
@@ -19,14 +19,14 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 30 5 dislocated	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 dislocated	color:blue
 1	_	_	SYM	_	_	30	dep	_	BBIL=B|BPT=4|SpaceAfter=No|UI=485
 2	_	_	NOUN	_	_	30	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=70643
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 4	_	_	PUNCT	_	_	5	punct	_	BBIL=B|BPT=2|SpaceAfter=No|UI=12
-5	_	_	NOUN	_	_	30	dislocated	_	BBIL=I|BPT=0|SpaceAfter=No|UI=10571
+5	_	_	NOUN	_	_	2	dislocated	_	BBIL=I|BPT=0|SpaceAfter=No|UI=10571
 6	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13
 7	_	_	ADP	_	_	5	fixed	_	BBIL=I|BPT=3|SpaceAfter=No|UI=4
 8	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
@@ -52,7 +52,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 28	_	_	ADP	_	_	26	case	_	BBIL=I|BPT=3|SpaceAfter=No|UI=32
 29	_	_	ADP	_	_	26	case	_	BBIL=I|BPT=3|SpaceAfter=No|UI=0
 30	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=4776
-31	_	_	PUNCT	_	_	30	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=2
+31	_	_	PUNCT	_	_	30	punct	_	BBIL=I|BPT=2|UI=2
 
 ~~~
 

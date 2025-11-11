@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-CTeTex: POS Tags: `ADV`
 
-There are 1 `ADV` lemmas (6%), 87 `ADV` types (4%) and 185 `ADV` tokens (2%).
-Out of 17 observed tags, the rank of `ADV` is: 3 in number of lemmas, 6 in number of types and 11 in number of tokens.
+There are 87 `ADV` lemmas (5%), 87 `ADV` types (4%) and 185 `ADV` tokens (2%).
+Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 11 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>_</em>
+The 10 most frequent `ADV` lemmas: <em>e.g., more, up, non, at, out, previously, no, off, on</em>
 
 The 10 most frequent `ADV` types:  <em>e.g., more, up, non, at, out, previously, no, off, on</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 2649, <tt><a href="en_ctetex-pos-PUNCT.html">PUNCT</a></tt> 1455, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 936, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 781, <tt><a href="en_ctetex-pos-VERB.html">VERB</a></tt> 721, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 647, <tt><a href="en_ctetex-pos-AUX.html">AUX</a></tt> 492, <tt><a href="en_ctetex-pos-NUM.html">NUM</a></tt> 317, <tt><a href="en_ctetex-pos-PROPN.html">PROPN</a></tt> 293, <tt><a href="en_ctetex-pos-CCONJ.html">CCONJ</a></tt> 267, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 185, <tt><a href="en_ctetex-pos-PART.html">PART</a></tt> 165, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 163, <tt><a href="en_ctetex-pos-SYM.html">SYM</a></tt> 98, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 83, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 17, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>more</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 9, <tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 1), <em>up</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 9, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 5, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 1), <em>at</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 17, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 6), <em>out</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 1), <em>no</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 14, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_ctetex-pos-INTJ.html">INTJ</a></tt> 1), <em>on</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 33, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 2), <em>where</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 2), <em>below</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 4, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 3), <em>i</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 2, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>when</em> (<tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 34, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>up</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 5, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_ctetex-pos-ADJ.html">ADJ</a></tt> 1), <em>at</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 16, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 6), <em>out</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 1), <em>no</em> (<tt><a href="en_ctetex-pos-DET.html">DET</a></tt> 12, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 5), <em>off</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_ctetex-pos-X.html">X</a></tt> 1), <em>on</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 32, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 3, <tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 2), <em>where</em> (<tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 1), <em>below</em> (<tt><a href="en_ctetex-pos-ADP.html">ADP</a></tt> 4, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 3), <em>I</em> (<tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 2, <tt><a href="en_ctetex-pos-NOUN.html">NOUN</a></tt> 1), <em>when</em> (<tt><a href="en_ctetex-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="en_ctetex-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_ctetex-pos-PRON.html">PRON</a></tt> 2)
 
@@ -55,9 +55,13 @@ The 10 most frequent ambiguous types:  <em>up</em> (<tt><a href="en_ctetex-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 87.000000 (the average of all parts of speech is 125.235294).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.138503).
 
-The 1st highest number of forms (87) was observed with the lemma “_”: <em>Frequently, How, However, I, Inter, Multi, Post, Why, above, actively, aft, also, always, am, any, at, automatically, away, back, below, clearly, congruently, currently, cyclically, de, directly, down, dynamically, e.g., eg, electronically, especially, exactly, externally, first, forward, i.e., ie, immediately, kind, last, left, less, likely, locally, long, longer, manually, more, most, near, necessarily, no, nominally, non, off, on, only, optionally, out, over, photochemically, pm, pre, previously, re, regardless, reliably, respectively, right, safely, self, significantly, silently, simultaneously, singly, still, strictly, structurally, subsequently, temporarily, then, typically, un, up, when, where</em>.
+The 1st highest number of forms (1) was observed with the lemma “above”: <em>above</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “actively”: <em>actively</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “aft”: <em>aft</em>.
 
 `ADV` does not occur with any features.
 

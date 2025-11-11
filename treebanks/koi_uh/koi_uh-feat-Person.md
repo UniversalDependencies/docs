@@ -13,14 +13,14 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 257 tokens (24%) have a non-empty value of `Person`.
 172 types (30%) occur at least once with a non-empty value of `Person`.
-111 lemmas (24%) occur at least once with a non-empty value of `Person`.
+111 lemmas (25%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (144; 13% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (86; 8% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `VERB`
 
 144 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (144; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (141; 98%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (121; 84%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (90; 63%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (144; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (141; 98%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (121; 84%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (90; 63%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 26 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 92%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (21; 81%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 73%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (15; 58%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 92%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24; 92%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (21; 81%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 73%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (15; 58%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -66,10 +66,10 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг</em></td><td><em>эн</em></td><td><em>эз</em></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ог</em></td><td><em>он</em></td><td><em>оз</em></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг, эгö</em></td><td><em>эд</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>озӧ</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эг</em></td><td><em>эн</em></td><td><em>эз</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ог</em></td><td><em>он</em></td><td><em>оз</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эг, эгö</em></td><td><em>эд</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>озӧ</em></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td></td><td><em>эз</em></td></tr>
 </table>
 

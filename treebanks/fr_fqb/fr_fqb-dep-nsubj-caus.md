@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:caus	color:blue
-1	J'	il	PRON	_	Number=Sing|Person=1	4	nsubj:caus	_	SpaceAfter=No
+1	J'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj:caus	_	SpaceAfter=No
 2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux:caus	_	_
 4	construire	construire	VERB	_	VerbForm=Inf	0	root	_	_
@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 6	maison	maison	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
-9	-je	il	PRON	_	Number=Sing|Person=1	8	nsubj	_	_
+9	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 10	droit	droit	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
 11	à	à	ADP	_	_	13	case	_	_
 12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_

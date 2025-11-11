@@ -22,16 +22,16 @@ The following 33 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 parataxis	color:blue
-1	λέγοντες	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-say
-2	Δεόμεθα	δέομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	1	ccomp	_	Gloss=to-implore,pray
-3	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Gloss=lord|SpaceAfter=No
-4	·	·	PUNCT	_	_	5	punct	_	_
-5	κατέβημεν	καταβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Gloss=to-come-down
-6	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the
-7	ἀρχὴν	ἀρχή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl:tmod	_	Gloss=beginning
-8	πρίασθαι	πρίαμαι	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	xcomp	_	Gloss=to-buy
-9	βρώματα	βρῶμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	Gloss=food,provisions|SpaceAfter=No
-10	·	·	PUNCT	_	_	9	punct	_	_
+1	λέγοντες	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_43.20
+2	Δεόμεθα	δέομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	1	ccomp	_	Gloss=to-implore,pray|Ref=GEN_43.20
+3	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Gloss=lord|Ref=GEN_43.20|SpaceAfter=No
+4	·	·	PUNCT	_	_	5	punct	_	Ref=GEN_43.20
+5	κατέβημεν	καταβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Gloss=to-come-down|Ref=GEN_43.20
+6	τὴν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_43.20
+7	ἀρχὴν	ἀρχή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl:tmod	_	Gloss=beginning|Ref=GEN_43.20
+8	πρίασθαι	πρίαμαι	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	xcomp	_	Gloss=to-buy|Ref=GEN_43.20
+9	βρώματα	βρῶμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	Gloss=food,provisions|Ref=GEN_43.20|SpaceAfter=No
+10	·	·	PUNCT	_	_	9	punct	_	Ref=GEN_43.20
 
 ~~~
 
@@ -42,17 +42,17 @@ The following 33 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 parataxis	color:blue
-1	Συμεὼν	Συμεών	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Simeon
-2	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next
-3	Λευὶ	Λευΐ	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	Gloss=Levi
-4	ἀδελφοί	ἀδελφός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	0	root	_	Gloss=brother|SpaceAfter=No
-5	·	·	PUNCT	_	_	6	punct	_	_
-6	συνετέλεσαν	συντελέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	Gloss=to-end,fulfill
-7	ἀδικίαν	ἀδικία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Gloss=injustice,iniquity
-8	ἐξ	ἐκ	ADP	_	_	9	case	_	Gloss=out,out-of
-9	αἱρέσεως	αἵρεσις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	Gloss=sect,heresy
-10	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	9	nmod:poss	_	Gloss=he,she,it,-self,same|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
+1	Συμεὼν	Συμεών	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Simeon|Ref=GEN_49.5
+2	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next|Ref=GEN_49.5
+3	Λευὶ	Λευΐ	PROPN	_	Gender=Masc|Number=Sing	1	conj	_	Gloss=Levi|Ref=GEN_49.5
+4	ἀδελφοί	ἀδελφός	NOUN	_	Case=Nom,Voc|Gender=Masc|Number=Plur	0	root	_	Gloss=brother|Ref=GEN_49.5|SpaceAfter=No
+5	·	·	PUNCT	_	_	6	punct	_	Ref=GEN_49.5
+6	συνετέλεσαν	συντελέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	Gloss=to-end,fulfill|Ref=GEN_49.5
+7	ἀδικίαν	ἀδικία	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Gloss=injustice,iniquity|Ref=GEN_49.5
+8	ἐξ	ἐκ	ADP	_	_	9	case	_	Gloss=out,out-of|Ref=GEN_49.5
+9	αἱρέσεως	αἵρεσις	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	Gloss=sect,heresy|Ref=GEN_49.5
+10	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	9	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_49.5|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	Ref=GEN_49.5
 
 ~~~
 
@@ -63,16 +63,16 @@ The following 33 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 parataxis	color:blue
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be
-3	ἑσπέρα	ἑσπέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=evening
-4	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next
-5	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-become,come-to-be
-6	πρωί	πρωΐ	ADV	_	_	5	nsubj	_	Gloss=morning|SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	ἡμέρα	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	Gloss=day
-9	τρίτη	τρίτος	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	8	nummod	_	Gloss=third|SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	_
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_1.13
+2	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be|Ref=GEN_1.13
+3	ἑσπέρα	ἑσπέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=evening|Ref=GEN_1.13
+4	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next|Ref=GEN_1.13
+5	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Gloss=to-become,come-to-be|Ref=GEN_1.13
+6	πρωί	πρωΐ	ADV	_	_	5	nsubj	_	Gloss=morning|Ref=GEN_1.13|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_1.13
+8	ἡμέρα	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	Gloss=day|Ref=GEN_1.13
+9	τρίτη	τρίτος	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	8	nummod	_	Gloss=third|Ref=GEN_1.13|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	Ref=GEN_1.13
 
 ~~~
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `ADP`, `ADV`, `CCONJ`, `NOUN`, `PRON`, `SCONJ`.
 
-987 tokens (0%) have a non-empty value of `ExtPos`.
+992 tokens (0%) have a non-empty value of `ExtPos`.
 90 types (0%) occur at least once with a non-empty value of `ExtPos`.
 61 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (710; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (171; 0% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (96; 0% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> (712; 0% instances), <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> (173; 0% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (96; 0% instances), <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_isdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-710 <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+712 <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (710; 100%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (712; 100%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (554; 78% of non-empty `ExtPos`): <em>prima, fino, insieme, davanti, oltre, vicino, intorno, fuori, attorno, come</em>
-* `ADV` (17; 2% of non-empty `ExtPos`): <em>più, or, quanto, Così, Poco, anche, meno, oltre, piano, piuttosto</em>
+* `ADP` (556; 78% of non-empty `ExtPos`): <em>prima, fino, insieme, davanti, oltre, vicino, intorno, come, fuori, attorno</em>
+* `ADV` (16; 2% of non-empty `ExtPos`): <em>più, or, quanto, Così, Poco, meno, oltre, piano, piuttosto, prima</em>
 * `CCONJ` (2; 0% of non-empty `ExtPos`): <em>oltre, piuttosto</em>
-* `SCONJ` (137; 19% of non-empty `ExtPos`): <em>anche, prima, dopo, fino, oltre, piuttosto, ecco, Tanto, come, così</em>
+* `SCONJ` (138; 19% of non-empty `ExtPos`): <em>anche, prima, dopo, fino, oltre, piuttosto, ecco, Tanto, come, eccetto</em>
 
 <table>
   <tr><th>Paradigm <i>oltre</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -34,18 +34,18 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `ADP`
 
-171 <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+173 <tt><a href="it_isdt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (33; 19% of non-empty `ExtPos`): <em>su, che, tra, per, senza, A, tranne</em>
-* `ADV` (46; 27% of non-empty `ExtPos`): <em>in, di, da, a, salvo, D', fin</em>
-* `PRON` (3; 2% of non-empty `ExtPos`): <em>di, da</em>
-* `SCONJ` (89; 52% of non-empty `ExtPos`): <em>salvo, a, da, senza, di, per, su, tranne</em>
+* `ADP` (41; 24% of non-empty `ExtPos`): <em>su, che, in, tra, per, senza, A, tranne</em>
+* `ADV` (16; 9% of non-empty `ExtPos`): <em>di, da, a, salvo, fin, in</em>
+* `PRON` (1; 1% of non-empty `ExtPos`): <em>da</em>
+* `SCONJ` (115; 66% of non-empty `ExtPos`): <em>salvo, in, a, da, senza, di, per, su, tranne, fin</em>
 
 <table>
-  <tr><th>Paradigm <i>di</i></th><th><tt>ADV</tt></th><th><tt>PRON</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>di</em></td><td><em>di</em></td><td><em>di</em></td></tr>
+  <tr><th>Paradigm <i>a</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>A</em></td><td><em>a</em></td><td><em>a</em></td></tr>
 </table>
 
 ### `NOUN`
@@ -57,8 +57,29 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 `NOUN` tokens may have the following values of `ExtPos`:
 
 * `ADP` (91; 95% of non-empty `ExtPos`): <em>grazie, rispetto, riguardo</em>
-* `ADV` (3; 3% of non-empty `ExtPos`): <em>man, Mano</em>
+* `ADV` (2; 2% of non-empty `ExtPos`): <em>Mano, man</em>
 * `NOUN` (2; 2% of non-empty `ExtPos`): <em>faccia</em>
+* `SCONJ` (1; 1% of non-empty `ExtPos`): <em>man</em>
+
+<table>
+  <tr><th>Paradigm <i>mano</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Mano, man</em></td><td><em>man</em></td></tr>
+</table>
+
+### `SCONJ`
+
+4 <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+
+`SCONJ` tokens may have the following values of `ExtPos`:
+
+* `ADP` (1; 25% of non-empty `ExtPos`): <em>come</em>
+* `ADV` (1; 25% of non-empty `ExtPos`): <em>se</em>
+* `SCONJ` (2; 50% of non-empty `ExtPos`): <em>se</em>
+
+<table>
+  <tr><th>Paradigm <i>se</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>se</em></td><td><em>se</em></td></tr>
+</table>
 
 ### `PRON`
 
@@ -69,20 +90,6 @@ The most frequent other feature values with which `PRON` and `ExtPos` co-occurre
 `PRON` tokens may have the following values of `ExtPos`:
 
 * `ADV` (3; 100% of non-empty `ExtPos`): <em>Ciò, Tutt', più</em>
-
-### `SCONJ`
-
-3 <tt><a href="it_isdt-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
-
-`SCONJ` tokens may have the following values of `ExtPos`:
-
-* `ADV` (1; 33% of non-empty `ExtPos`): <em>se</em>
-* `SCONJ` (2; 67% of non-empty `ExtPos`): <em>se</em>
-
-<table>
-  <tr><th>Paradigm <i>se</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>se</em></td><td><em>se</em></td></tr>
-</table>
 
 ### `ADJ`
 

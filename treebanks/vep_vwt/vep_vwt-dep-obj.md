@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Kut	kut	ADV	_	_	3	advmod	_	_
 2	elo-oza	elo-oza	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	vedi	vedada	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	Teid	tö	PRON	_	Case=Par|Number=Plur|Person=2|PronType=Prs	3	obj	_	_
+4	Teid	sinä	PRON	_	Case=Par|Number=Plur|Person=2|PronType=Prs	3	obj	_	_
 5	nügüdläižele	nügüdläine	ADJ	_	Case=All|Degree=Pos|Number=Sing	6	amod	_	_
 6	radsijale	radsija	NOUN	_	Case=All|Number=Sing	3	obl	_	_
 7	?	?	PUNCT	_	_	3	punct	_	_
@@ -60,13 +60,13 @@ The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="
 2	edel	edel	ADP	_	AdpType=Post	1	case	_	_
 3	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	tahtoin	tahtoida	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	el'geta	el'geta	VERB	_	VerbForm=Inf	4	xcomp	_	_
+5	elʼgeta	elʼgeta	VERB	_	VerbForm=Inf	4	xcomp	_	_
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	voin-ik	voida	AUX	_	Clitic=Ik|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	tehta	tehta	VERB	_	VerbForm=Inf	5	ccomp	_	_
-10	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing	11	nmod	_	_
-11	ut	uz'	ADJ	_	Case=Par|Degree=Pos|Number=Sing	9	obj	_	_
+10	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing|PronType=Ind	11	nmod	_	_
+11	ut	uzʼ	ADJ	_	Case=Par|Degree=Pos|Number=Sing	9	obj	_	_
 12	da	da	CCONJ	_	_	13	cc	_	_
 13	hüväd	hüvä	ADJ	_	Case=Par|Degree=Pos|Number=Sing	11	conj	_	_
 14	külän	külä	NOUN	_	Case=Gen|Number=Sing	15	nmod	_	_

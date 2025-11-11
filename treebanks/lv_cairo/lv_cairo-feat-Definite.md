@@ -28,7 +28,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 1 <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="lv_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="lv_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="lv_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="lv_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Definite`:
 

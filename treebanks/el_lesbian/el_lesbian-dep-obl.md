@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="el_lesbian-dep-obl-agent.html">obl:agent</a></tt>.
 
-190 nodes (6%) are attached to their parents as `obl`.
+304 nodes (5%) are attached to their parents as `obl`.
 
-139 instances of `obl` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.36315789473684.
+216 instances of `obl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.40789473684211.
 
-The following 13 pairs of parts of speech are connected with `obl`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (139; 73% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (9; 5% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (8; 4% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (8; 4% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (8; 4% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `obl`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (215; 71% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (18; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (15; 5% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (13; 4% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (10; 3% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,6 +42,25 @@ The following 13 pairs of parts of speech are connected with `obl`: <tt><a href=
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 obl	color:blue
+1	Όποιους	όποιους	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	_
+2	αμαρτάν’	αμαρτάνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	τρω	τρώγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=τρώ
+5	απ’	απού	ADP	_	_	7	case	_	_
+6	του	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Θιο	θιός	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	CorrectForm=Θιό
+8	καταμ’τσ’νιές	καταμτσνιά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 obl	color:blue
@@ -55,22 +74,6 @@ The following 13 pairs of parts of speech are connected with `obl`: <tt><a href=
 8	ήθιλις	θέλου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
 9	παντριγιά	παντρειγιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Typo=Yes	8	obj	_	CorrectForm=παντρειγιά
 10	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 obl	color:blue
-1	Μόλις	μόλις	ADV	_	_	3	advmod	_	_
-2	τουν	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	είδι	βλέπου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	πι	απί	ADP	_	_	5	case	_	_
-5	καρσί	καρσί	ADV	_	_	3	obl	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

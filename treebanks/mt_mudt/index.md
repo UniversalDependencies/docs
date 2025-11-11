@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.3 release.
 The following people have contributed to making this treebank part of UD: Slavomír Čéplö, Daniel Zeman.
 
 Repository: [UD_Maltese-MUDT](https://github.com/UniversalDependencies/UD_Maltese-MUDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmt_mudt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmt_mudt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -47,7 +47,7 @@ MUDT was designed as a balanced corpus with four major genres (see Splitting bel
 
 ## Origin
 This treebank is the product of the PhD thesis *Constituent order in Maltese: A quantitative analysis* by Slavomír Čéplö. The text (see References) contains a detailed description of the annotation decisions and composition of the treebank.
-The treebank was originally produced in accordance with UDv1, this version is brought up to the UDv2.5 standard.
+The treebank was originally produced in accordance with UDv1, then brought up to the UDv2.5 standard.
 
 ## Splitting
 MUDT contains 2074 sentences and 44,162 tokens (both defined orthographically) in the following text types:
@@ -87,7 +87,7 @@ The annotated sentences have been manually split into train, test and dev sets a
 
 ## Features
 
-
+[ExtPos](mt_mudt-feat-ExtPos.html) – [Typo](mt_mudt-feat-Typo.html)
 
 ## Relations
 
@@ -187,6 +187,62 @@ The annotated sentences have been manually split into train, test and dev sets a
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: qrib, favur</li>
+          <li>ADV: flimkien</li>
+          <li>NOUN: permezz</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: in</li>
+          <li>ADV: x', kif</li>
+          <li>PRON: x'</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: kif</li>
+          <li>CCONJ: kif</li>
+          <li>PRON: kif</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>ADV: lanqas</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: wara, waqt, minkejja, peress, qabel, mingħajr, bla, minħabba, sa, dment</li>
+          <li>ADV: hekk, aktar</li>
+          <li>PRON: jien, huma</li>
+          <li>SCONJ: filwaqt, li, Kull</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: quddiem</li>
+          <li>NOUN: follow</li>
+          <li>PROPN: gonzi-</li>
+          <li>VERB: followed</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 

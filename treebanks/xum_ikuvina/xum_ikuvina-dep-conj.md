@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (6%) are attached to their parents as `conj`.
+58 nodes (5%) are attached to their parents as `conj`.
 
-45 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.31111111111111.
+58 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.6551724137931.
 
-The following 5 pairs of parts of speech are connected with `conj`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (34; 76% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `conj`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (43; 74% instances), <tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (5; 9% instances), <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt>-<tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (5; 9% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt>-<tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 conj	color:blue
-1	este	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
+1	este	_	DET	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
 2	persklum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
 3	aves	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_

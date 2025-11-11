@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 det:predet	color:blue
-1	And	and	CCONJ	CC	_	4	cc	4:cc	Discourse=elaboration-additional:202->198:3:dm-and-1325|PDTB=Explicit:Expansion.Level-of-detail.Arg2-as-detail:and:1325:1299-1324:1326-1338
+1	And	and	CCONJ	CC	_	4	cc	4:cc	Discourse=elaboration-additional:202->198:3:dm-and-1325-_|PDTB=Explicit:Expansion.Level-of-detail.Arg2-as-detail:and:1325:1299-1324:1326-1338
 2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(132-object-new-nnnnn-cf2-2-sgl(1-animal-giv:act-sssss-cf1*-1-ana)
 3	eyes	eye	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	Entity=132)|MSeg=eye-s
 4	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_

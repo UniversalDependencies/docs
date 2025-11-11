@@ -23,15 +23,15 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 obj:agent	color:blue
-1	Elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wordform=elle
+1	Elle	lui	PRON	_	Case=Nom|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wordform=elle
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	aussi	aussi	ADV	_	_	4	advmod	_	_
-4	contribué	contribuer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	contribué	contribuer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
 5	à	à	ADP	_	_	7	mark	_	_
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	Subject=SubjRaising
 7	reculer	reculer	VERB	_	VerbForm=Inf	4	xcomp	_	Subject=ObjRaising
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	pauvreté	pauvreté	NOUN	_	Gender=Fem|Number=Sing	7	obj:agent	_	SpaceAfter=No
+9	pauvreté	pauvreté	NOUN	_	Number=Sing	7	obj:agent	_	Gender[lex]=Fem|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 8	largement	largement	ADV	_	_	7	advmod	_	_
 9	autour	autour	ADV	_	_	7	advmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
-11	vous	vous	PRON	_	Emph=Yes|Number=Plur|Person=2|PronType=Prs	9	obl:arg	_	_
+11	vous	vous	PRON	_	Emph=Yes|Number=Plur|Person=2|PronType=Prs	9	obl:arg	_	Polite=Unknown
 12	!	!	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -69,29 +69,29 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	si	si	SCONJ	_	_	6	mark	_	_
 4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
-5	supporters	supporter	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	supporters	supporter	NOUN	_	Number=Plur	6	nsubj	_	Gender[lex]=Masc
 6	veulent	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
 7	aider	aider	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	club	club	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	club	club	NOUN	_	Number=Sing	7	obj	_	Gender[lex]=Masc
 10	à	à	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	travers	travers	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
+12	travers	travers	NOUN	_	_	7	obl:mod	_	Gender[lex]=Masc|Number[ctxt]=Sing
 13	d'	de	ADP	_	_	15	case	_	SpaceAfter=No
 14	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	souscription	souscription	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+15	souscription	souscription	NOUN	_	Number=Sing	12	nmod	_	Gender[lex]=Fem
 16	pour	pour	ADP	_	_	18	mark	_	_
 17	faire	faire	AUX	_	VerbForm=Inf	18	aux:caus	_	Subject=SubjRaising
 18	revenir	revenir	VERB	_	VerbForm=Inf	7	advcl	_	Subject=ObjRaising
-19	Djibril	Djibril	PROPN	_	_	18	obj:agent	_	_
+19	Djibril	Djibril	PROPN	_	_	18	obj:agent	_	Gender[lex]=Unknown
 20	à	à	ADP	_	_	22	case	_	_
 21	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
-22	AJA	AJA	PROPN	_	Number=Sing	18	obl:arg	_	SpaceAfter=No
+22	AJA	AJA	PROPN	_	Number=Sing	18	obl:arg	_	Gender[lex]=Unknown|SpaceAfter=No
 23	,	,	PUNCT	_	_	6	punct	_	_
 24	qu'	que	SCONJ	_	_	29	mark	_	SpaceAfter=No
-25	ils	eux	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	nsubj:caus	_	_
-26	nous	nous	PRON	_	Emph=No|Number=Plur|Person=1|PronType=Prs	29	iobj:agent	_	_
-27	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	_
+25	ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	nsubj:caus	_	_
+26	nous	nous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=1|PronType=Prs	29	iobj:agent	_	_
+27	le	lui	PRON	_	Case=Acc|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	_
 28	fassent	faire	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux:caus	_	_
 29	savoir	savoir	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No|Subject=Generic
 30	.	.	PUNCT	_	_	29	punct	_	_

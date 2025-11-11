@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>indien</em> (<tt><a href="af_afriboom
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.032258 (the average of all parts of speech is 1.120600).
+The form / lemma ratio of `SCONJ` is 1.032258 (the average of all parts of speech is 1.120578).
 
 The 1st highest number of forms (2) was observed with the lemma “so”: <em>so, só</em>.
 
@@ -59,9 +59,9 @@ The 3rd highest number of forms (1) was observed with the lemma “aangesien”:
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (873; 85% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (93; 9% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (55; 5% instances), <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (874; 85% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (93; 9% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (55; 5% instances), <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (657; 64% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (196; 19% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (95; 9% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (25; 2% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (19; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (656; 64% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (196; 19% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (95; 9% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (25; 2% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (19; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances)
 
 928 (90%) `SCONJ` nodes are leaves.
 

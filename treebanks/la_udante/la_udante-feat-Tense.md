@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Fut` (247; 5% of non-empty `Tense`): <em>patebit, apparebit, movebitur, ostendetur, poterit, videbimus, constabit, demonstrabitur, Videbitis, conveniet</em>
 * `Past` (516; 11% of non-empty `Tense`): <em>posset, dicebatur, sequeretur, poterat, dicebat, diceret, haberet, vellet, loqueretur, arguebatur</em>
 * `Pres` (4036; 84% of non-empty `Tense`): <em>potest, patet, habet, dicimus, videtur, dicit, dico, oportet, dicitur, dicunt</em>
-* `EMPTY` (3431): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, dicere, existente, posse</em>
+* `EMPTY` (3435): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, posse, dicere, existente</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -91,14 +91,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (707; 77%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (453; 54%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (705; 77%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (452; 54%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (44; 81%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (43; 51%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (36; 61%),
 <tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (23; 74%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (16; 53%),
-<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (11; 55%),
+<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (11; 52%),
 <tt>AUX --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="la_udante-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 100%).
 

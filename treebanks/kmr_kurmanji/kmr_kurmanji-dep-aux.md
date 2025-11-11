@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of aux in UD_Kurmanji-MG'
+title:  'Statistics of aux in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `aux`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `aux`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 143 instances of `aux` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.47260273972603.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (142; 97% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (142; 97% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

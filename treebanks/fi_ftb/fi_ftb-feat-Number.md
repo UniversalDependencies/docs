@@ -51,7 +51,7 @@ The feature is used with 8 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.htm
 
 18947 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (69% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (18947; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17114; 90%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14061; 74%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (14061; 74%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14061; 74%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12485; 66%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (10425; 55%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (18947; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17114; 90%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14061; 74%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (14061; 74%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14061; 74%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12704; 67%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (10425; 55%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 10307 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5456; 53%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5299; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5456; 53%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5299; 51%), <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5155; 50%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -236,7 +236,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 9437 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9416; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9198; 97%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (7643; 81%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6527; 69%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5649; 60%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9416; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9198; 97%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8448; 90%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (7643; 81%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6527; 69%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -420,8 +420,8 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="fi_ftb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5375; 52%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5325; 92%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4986; 73%),
-<tt>NOUN --[<tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3258; 69%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4987; 73%),
+<tt>NOUN --[<tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3260; 69%),
 <tt>VERB --[<tt><a href="fi_ftb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3231; 76%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-det.html">det</a></tt>]--> DET</tt> (2400; 82%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1555; 73%),

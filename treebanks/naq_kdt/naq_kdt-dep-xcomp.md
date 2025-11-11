@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-277 nodes (1%) are attached to their parents as `xcomp`.
+278 nodes (1%) are attached to their parents as `xcomp`.
 
 256 instances of `xcomp` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74007220216607.
+Average distance between parent and child is 1.7410071942446.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (252; 91% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (13; 5% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (252; 91% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (13; 5% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,28 +33,17 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 xcomp	color:blue
-1	ǀNî	ǀnî	DET	_	PronType=Ind	2	det	2:det	_
-2	xūn	xū	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	7	obl	7:obl	_
-3	xa	xa	ADP	_	_	2	case	2:case	_
-4	s	_	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	nsubj	7:nsubj:xsubj|8:nsubj	_
-5	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-6	a	a	AUX	COP.PRS	Tense=Pres	8	cop	8:cop	_
-7	ǂkhîoǃnâ	ǂkhîoǃnâ	ADJ	_	_	8	xcomp	8:xcomp	_
-8	ǁkhā	ǁkhā	VERB	STAT	Voice=Act	0	root	0:root	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	10:punct	_
-10	Rose	Rose	PROPN	_	_	8	vocative	8:vocative	SpaceAfter=No
-11	,	,	PUNCT	_	_	10	punct	10:punct	_
-12	xawe	xawe	CCONJ	_	_	13	cc	13:conj	_
-13	Titanici	Titanic	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	conj	2:conj|7:obl	_
-14	xa	xa	ADP	_	_	13	case	13:case	_
-15	s	s	SCONJ	NMLZ	Case=Nom	13	mark	13:mark	_
-16	ose	ose	ADP	_	_	13	case	13:case	SpaceAfter=No
-17	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 xcomp	color:blue
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	5:nsubj:xsubj|6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	ǁnâuba	ǁnâuba	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	6:obj	_
+4	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
+5	gama	gama	ADJ	_	_	6	xcomp	6:xcomp	_
+6	kai	kai	VERB	_	Voice=Act	0	root	0:root	SpacesAfter=\n
 
 ~~~
 

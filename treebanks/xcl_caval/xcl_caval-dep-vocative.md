@@ -33,7 +33,7 @@ The following 24 pairs of parts of speech are connected with `vocative`: <tt><a 
 9	պիղծ	պիղծ	ADJ	_	Case=Nom|Number=Sing	7	amod	_	Translit=piłc|LTranslit=piłc|Gloss=foul
 10	ի	ի	ADP	_	_	11	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 11	մարդոյ	մարդ	NOUN	_	Case=Abl|Number=Sing	6	obl	_	Translit=mardoy|LTranslit=mard|Gloss=man
-12	այտի	այտի	ADP	_	Deixis=Med|PronType=Dem	11	case	_	SpaceAfter=No|Translit=ayti|LTranslit=ayti|Gloss=there
+12	այտի	այտի	ADP	_	Deixis=Med	11	case	_	SpaceAfter=No|Translit=ayti|LTranslit=ayti|Gloss=there
 13	՝	՝	PUNCT	_	_	2	punct	_	Translit=;|LTranslit=;
 
 ~~~

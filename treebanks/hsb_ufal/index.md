@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Anna Nedoluzhko.
 
 Repository: [UD_Upper_Sorbian-UFAL](https://github.com/UniversalDependencies/UD_Upper_Sorbian-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhsb_ufal216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhsb_ufal217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,16 +42,19 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-A small treebank of Upper Sorbian based mostly on Wikipedia.
+A small treebank of Upper Sorbian based mostly on Wikipedia, partly also on other Sorbian websites.
 
 
 
 
 The Upper Sorbian sentences are taken from the W2C corpus (Martin Majliš), which
 was further manually filtered, morphologically and syntactically annotated by
-Dan Zeman; lemmatization by Anna Nedoluzhko.
+Daniel Zeman; lemmatization by Anna Nedoluzhko.
 
-Sentences in the W2C corpus are shuffled.
+Paragraphs in the W2C corpus were shuffled but since UD v2.17, we restored their original order where possible, and
+added document boundaries and ids. Articles from Wikipedia have document ids starting with "wiki-". The remaining
+texts come mostly from the web of the Sorbian Institute, some of them also from the websites of Sorbian-speaking
+municipalities.
 
 
 ## Acknowledgments
@@ -64,7 +67,7 @@ Sentences in the W2C corpus are shuffled.
 
 ## Features
 
-[Abbr](hsb_ufal-feat-Abbr.html) – [AdvType](hsb_ufal-feat-AdvType.html) – [Animacy](hsb_ufal-feat-Animacy.html) – [Case](hsb_ufal-feat-Case.html) – [Degree](hsb_ufal-feat-Degree.html) – [Gender](hsb_ufal-feat-Gender.html) – [Gender[psor]](hsb_ufal-feat-Gender-psor.html) – [Hyph](hsb_ufal-feat-Hyph.html) – [Mood](hsb_ufal-feat-Mood.html) – [Number](hsb_ufal-feat-Number.html) – [Number[psor]](hsb_ufal-feat-Number-psor.html) – [NumType](hsb_ufal-feat-NumType.html) – [Person](hsb_ufal-feat-Person.html) – [Polarity](hsb_ufal-feat-Polarity.html) – [Poss](hsb_ufal-feat-Poss.html) – [PronType](hsb_ufal-feat-PronType.html) – [Reflex](hsb_ufal-feat-Reflex.html) – [Tense](hsb_ufal-feat-Tense.html) – [VerbForm](hsb_ufal-feat-VerbForm.html) – [VerbType](hsb_ufal-feat-VerbType.html) – [Voice](hsb_ufal-feat-Voice.html)
+[Abbr](hsb_ufal-feat-Abbr.html) – [AdvType](hsb_ufal-feat-AdvType.html) – [Animacy](hsb_ufal-feat-Animacy.html) – [Case](hsb_ufal-feat-Case.html) – [Degree](hsb_ufal-feat-Degree.html) – [ExtPos](hsb_ufal-feat-ExtPos.html) – [Foreign](hsb_ufal-feat-Foreign.html) – [Gender](hsb_ufal-feat-Gender.html) – [Gender[psor]](hsb_ufal-feat-Gender-psor.html) – [Hyph](hsb_ufal-feat-Hyph.html) – [Mood](hsb_ufal-feat-Mood.html) – [Number](hsb_ufal-feat-Number.html) – [Number[psor]](hsb_ufal-feat-Number-psor.html) – [NumType](hsb_ufal-feat-NumType.html) – [Person](hsb_ufal-feat-Person.html) – [Polarity](hsb_ufal-feat-Polarity.html) – [Poss](hsb_ufal-feat-Poss.html) – [PronType](hsb_ufal-feat-PronType.html) – [Reflex](hsb_ufal-feat-Reflex.html) – [Tense](hsb_ufal-feat-Tense.html) – [VerbForm](hsb_ufal-feat-VerbForm.html) – [VerbType](hsb_ufal-feat-VerbType.html) – [Voice](hsb_ufal-feat-Voice.html)
 
 ## Relations
 
@@ -74,11 +77,11 @@ Sentences in the W2C corpus are shuffled.
 
 
 <ul>
-<li>This corpus contains 646 sentences and 11196 tokens.</li>
+<li>This corpus contains 644 sentences and 11167 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2133 tokens (19%) that are not followed by a space.</li>
+<li>This corpus contains 2127 tokens (19%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -157,9 +160,9 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane, přełožena</li>
+    <li>ADJ: mj, mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane</li>
     <li>AUX: był, była</li>
-    <li>VERB: přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, ležo, mał</li>
+    <li>VERB: přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, mał, mjenował</li>
   </ul>
   </li>
 </ul>
@@ -174,11 +177,11 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: serbskeje, wulku, druhe, serbska, wotpowědne, dalše, druhich, hornjej, kruta, němskej</li>
+      <li>ADJ: serbskeje, druhe, wulku, serbska, wotpowědne, dalše, druhich, hornjej, kruta, němskej</li>
       <li>ADJ-Part: přełožena, přiběracu, rozdźělene, wušłe, Bywša, Namakane, Slědowace, běžace, charakerizowana, definowane</li>
       <li>ADV: wuchodne</li>
       <li>AUX-Part: była</li>
-      <li>DET: n, kotraž, kotrež, tuta, swoju, tute, tutej, tutu, kotrejž, někotrych</li>
+      <li>DET: n, kotraž, kotrež, tuta, swoju, tutej, tutu, tute, kotrejž, někotrych</li>
       <li>NOUN: l, rěč, woda, rěčow, stolica, rostliny, wody, rěče, knihi, biblioteki</li>
       <li>NUM: jedna, jednu, štyri, dwaj, dwě, dwěmaj, miliardow, woběmaj, štyrjoch</li>
       <li>PRON: wona, Jej, je, jeje, ju, njej, njeje, nju, wone</li>
@@ -193,7 +196,7 @@ Sentences in the W2C corpus are shuffled.
   <li>Masc
     <ul>
       <li>ADJ: serbski, prěni, Serbskeho, wulki, Ekscelentny, Serbskim, Třećeho, Zjednoćenych, ablawtowych, cyłym</li>
-      <li>ADJ-Part: mjenowany, mjenowanych, Zjednoćenych, listowany, namakane, waženy, wobmjezowany, znaty, Přizjewjene, Rozhałžkowany</li>
+      <li>ADJ-Part: mjenowany, mjenowanych, Zjednoćenych, listowany, mj, namakane, waženy, wobmjezowany, znaty, Přizjewjene</li>
       <li>AUX-Part: był</li>
       <li>DET: kotrež, kotryž, tutón, n, někotři, swoje, tute, tutym, kotrychž, někotre</li>
       <li>NOUN: př, kilometrow, nastawki, kraja, lěttysaca, čas, institut, stat, wobraz, časa</li>
@@ -209,12 +212,12 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: najwjetše, wulke, klinowe, wuznamne, prěnje, Kaspiske, Kaspiskeho, aktualne, bjezdawkowe, běłe</li>
+      <li>ADJ: najwjetše, wulke, klinowe, wuznamne, prěnje, Kaspiske, Kaspiskeho, aktualne, běłe, dołhe</li>
       <li>ADJ-Part: wupožčene, Přiběrace, Rozrostowace, barbjene, ekspandowaceho, florěrowace, mjenowane, nałožene, njeznate, nominowane</li>
       <li>DET: kotrež, tute, kóžde, žane, swoje, tajke, twojim, Wobě, kajke, kotrejž</li>
       <li>NOUN: město, lěta, lěće, mócnarstwo, pismo, słowo, lět, města, hospodarstwo, knjejstwa</li>
       <li>NUM: dwěmaj, jednym</li>
-      <li>PRON: to, toho, tym, wono, wone, čimž, t, tomu, něšto, štož</li>
+      <li>PRON: to, toho, tym, wone, wono, čimž, tomu, něšto, štož, nim</li>
       <li>PROPN: Commons, Esperanto, Nadu, Slepo, Łobjom, Aleppo, Baku, Bangalore, Bengaluru, Esperanće</li>
       <li>VERB-Part: móhli, poradźiło, předstajili, stali, stało, wočakowało</li>
     </ul>
@@ -228,8 +231,8 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Anim
     <ul>
-      <li>ADJ: prěni, Moderni, Přizjewjene, Recentne, Stari, cuzych, europskich, južnoafriscy, małych, měšniscy</li>
-      <li>ADJ-Part: Přizjewjene, njepřizjewjene, njewotemrěne, podćisnjeni, wuhnaći</li>
+      <li>ADJ: prěni, Moderni, Přizjewjene, Recentne, Stari, cuzych, europskich, južnoafriscy, małych, mj</li>
+      <li>ADJ-Part: Přizjewjene, mj, mjenowanych, njepřizjewjene, njewotemrěne, podćisnjeni, wuhnaći</li>
       <li>DET: někotři, kotřiž, wšěch, kotrymž, kotryž, někotrych, tutym, wšeho, wšitkim</li>
       <li>NOUN: krala, kralow, wobydlerjow, wužiwar, wužiwarjo, kral, ludźi, Historikarjo, wjerchow, Ratarjo</li>
       <li>NUM: jedny, jedyn</li>
@@ -243,8 +246,8 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: prěni, słowjanske, archeologiske, dalše, ekscelentne, hódne, listowany, měšćanske, najstarše, namakane</li>
-      <li>ADJ-Part: listowany, namakane, dalokosahace, deklarowane, koncentrowany, mjenowany, měnjace, nastajene, nastate, natwarjene</li>
+      <li>ADJ: prěni, słowjanske, archeologiske, dalše, ekscelentne, hódne, listowany, mjenowany, měšćanske, najstarše</li>
+      <li>ADJ-Part: listowany, mjenowany, namakane, dalokosahace, deklarowane, koncentrowany, mj, měnjace, nastajene, nastate</li>
       <li>DET: kotrež, tutón, kotryž, n, tute, kotrychž, někotre, swoje, tutym, wšě</li>
       <li>NOUN: př, kilometrow, nastawki, kraja, lěttysaca, čas, institut, stat, wobraz, časa</li>
       <li>NUM: jedyn, dwaj, Mio, dweju, jedneho, traje, štyrjoch</li>
@@ -290,8 +293,8 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: druhich, druhe, ablawtowych, dalše, wjacore, prěnje, wažne, wikowanske, wotpowědne, wulke</li>
-      <li>ADJ-Part: mjenowanych, namakane, rozdźělene, Zjednoćenych, natwarjene, wupožčene, wušłe, znate, Planowane, Přiběrace</li>
+      <li>ADJ: druhich, druhe, ablawtowych, dalše, wjacore, prěnje, wažne, wotpowědne, wědomostnych, Zjednoćenych</li>
+      <li>ADJ-Part: mjenowanych, namakane, rozdźělene, Zjednoćenych, mj, natwarjene, wupožčene, wušłe, znate, Planowane</li>
       <li>ADV: wuchodne</li>
       <li>AUX-Fin: su, buchu, njejsu, běchu, bychu, njebuchu, njesu</li>
       <li>DET: kotrež, tute, wšě, někotrych, swoje, kotrychž, někotre, tutych, wšěch, někotři</li>
@@ -324,7 +327,7 @@ Sentences in the W2C corpus are shuffled.
       <li>DET: n, kotryž, kotraž, tutón, tuta, swoju, kotrež, tute, tutej, tutu</li>
       <li>NOUN: l, př, město, rěč, woda, lěta, stolica, lěće, mócnarstwo, pismo</li>
       <li>NUM: jedyn, jedna, jednu, jednym, jedneho, jedny</li>
-      <li>PRON: to, toho, tym, wona, wón, wono, čimž, jón, t, tomu</li>
+      <li>PRON: to, toho, tym, wona, wón, wono, čimž, jón, tomu, jeho</li>
       <li>PROPN: Mezopotamiskeje, Mezopotamiska, Mezopotamiskej, Wikimedia, Łužicy, Europje, Assur, Assyriska, Aššur, Babylon</li>
       <li>VERB-Fin: ma, móže, wobsahuje, móžeš, hlej, leži, rěči, dyrbi, wužiwa, hodźi</li>
       <li>VERB-Part: započał, dodźeržała, ilustrował, mał, mjenował, móhła, měł, nastał, poradźił, poradźiło</li>
@@ -339,9 +342,9 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: wulku, druhe, wotpowědne, prěni, prěnje, wikowanske, wulke, Klemenowu, bohatu, cyłe</li>
-      <li>ADJ-Part: listowany, dalokosahace, florěrowace, koncentrowany, mjenowane, mjenowany, měnjace, njepřizjewjene, njeznate, pisane</li>
-      <li>DET: swoje, swoju, tute, tutu, swój, kóžde, kóždy, wšě, wšěch, žane</li>
+      <li>ADJ: druhe, wotpowědne, wulku, prěni, prěnje, wikowanske, wulke, Klemenowu, bohatu, cyłe</li>
+      <li>ADJ-Part: listowany, dalokosahace, florěrowace, koncentrowany, mj, mjenowane, mjenowany, měnjace, njepřizjewjene, njeznate</li>
+      <li>DET: swoje, swoju, tutu, tute, swój, kóžde, kóždy, wšě, wšěch, žane</li>
       <li>NOUN: př, rěč, nastawki, wobrazy, přikład, čas, dataje, lisćinu, móc, mócnarstwo</li>
       <li>NUM: dwaj, jednu, jedyn</li>
       <li>PRON: so, to, je, jeho, jón, něšto, ju, ničo, nju, wšitko</li>
@@ -367,7 +370,7 @@ Sentences in the W2C corpus are shuffled.
   <li>Gen
     <ul>
       <li>ADJ: druhich, serbskeje, Serbskeho, ablawtowych, wědomostnych, Třećeho, Zjednoćenych, delnjeho, mjenowanych, persiskeho</li>
-      <li>ADJ-Part: mjenowanych, Zjednoćenych, ekspandowaceho, mjenowaneje, nadrjadowanych, namjetowaceho, nastajeneho, normowanych, předstajeneho, předźěłaneje</li>
+      <li>ADJ-Part: mjenowanych, Zjednoćenych, ekspandowaceho, mj, mjenowaneje, nadrjadowanych, namjetowaceho, nastajeneho, normowanych, předstajeneho</li>
       <li>DET: tutych, tutoho, kotrychž, tych, kotrehož, kotrejež, kóždychžkuli, někajkeho, někotrych, swojeho</li>
       <li>NOUN: rěčow, lěta, kilometrow, wody, kraja, lěttysaca, lět, časa, biblioteki, instituta</li>
       <li>NUM: Mio, štyrjoch, dweju, jedneho, miliardow</li>
@@ -413,7 +416,7 @@ Sentences in the W2C corpus are shuffled.
       <li>DET: kotrež, kotraž, kotryž, tute, tutón, tuta, někotre, wšě, někotři, Naš</li>
       <li>NOUN: město, woda, stolica, rostliny, institut, pismo, rěč, stat, dołhosć, dźeń</li>
       <li>NUM: jedyn, dwaj, jedna, dwě, jedny</li>
-      <li>PRON: to, kiž, wona, wón, wone, wono, Woni, ty, štož, Wonej</li>
+      <li>PRON: to, wona, wón, kiž, wone, wono, Woni, ty, štož, Wonej</li>
       <li>PROPN: Mezopotamiska, Assur, Assyriska, Aššur, Hammurabi, Jakub, Ur, Wikipedija, Assyričenjo, Babylon</li>
     </ul>
   </li>
@@ -506,7 +509,6 @@ Sentences in the W2C corpus are shuffled.
     <ul>
       <li>AUX-Fin: je, su, bu, bě, buchu, njeje, njejsu, běchu, buštej, stej</li>
       <li>VERB-Fin: ma, leži, móže, wobsahuje, móžeš, su, maja, rěči, běchu, dyrbi</li>
-      <li>VERB-Part: ležo</li>
     </ul>
   </li>
 </ul>
@@ -530,7 +532,7 @@ Sentences in the W2C corpus are shuffled.
       <li>ADJ-Part: wušłe, Bywša, Namakane, potrjechena, potrjechene, redukowane, rozdźělene, rozpušćenej, rozpušćeno, wobdate</li>
       <li>AUX-Fin: bu, bě, buchu, běchu, buštej, běštej, njebuchu</li>
       <li>AUX-Part: był, była</li>
-      <li>VERB-Fin: běchu, móžachu, wužiwachu, bě, mjenowachu, měješe, naby, pisachu, skónči, wjedźechu</li>
+      <li>VERB-Fin: běchu, móžachu, wužiwachu, bě, mjenowachu, naby, pisachu, skónči, wjedźechu, załoži</li>
       <li>VERB-Part: přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, mał, mjenował</li>
     </ul>
   </li>
@@ -543,7 +545,6 @@ Sentences in the W2C corpus are shuffled.
       <li>AUX-Fin: je, su, njeje, njejsu, stej, sy, njesu, staj</li>
       <li>VERB-Conv: dajo, měnjo, prajo, wobsahujo, wothladajo, zjednoćejo</li>
       <li>VERB-Fin: ma, leži, móže, wobsahuje, móžeš, su, maja, rěči, dyrbi, wužiwa</li>
-      <li>VERB-Part: ležo</li>
     </ul>
   </li>
 </ul>
@@ -565,7 +566,7 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Pass
     <ul>
-      <li>ADJ-Part: mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane, přełožena</li>
+      <li>ADJ-Part: mj, mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane</li>
       <li>AUX-Fin: bu, buchu, buštej</li>
       <li>VERB-Fin: bu</li>
     </ul>
@@ -584,7 +585,7 @@ Sentences in the W2C corpus are shuffled.
   <li>Dem
     <ul>
       <li>ADV: tak, tu, potom, tam, nětko, potajkim, tohodla, Pódla, Tuchwilu, to</li>
-      <li>DET: tute, tutón, tuta, tutu, tutych, tutej, tutym, tutoho, tych, tajke</li>
+      <li>DET: tute, tutón, tuta, tutej, tutu, tutych, tutym, tutoho, tych, tajke</li>
       <li>PRON: to, toho, tym, tomu, t</li>
     </ul>
   </li>
@@ -621,7 +622,7 @@ Sentences in the W2C corpus are shuffled.
 <ul>
   <li>Prs
     <ul>
-      <li>DET: n, jeho, jich, swoje, swoju, jeje, swojich, swój, Naš, swojej</li>
+      <li>DET: n, jeho, jich, swoje, swoju, jeje, swojich, swojimi, swój, Naš</li>
       <li>PRON: so, wona, wón, je, wone, wono, jón, sej, Woni, jeho</li>
     </ul>
   </li>
@@ -735,7 +736,6 @@ Sentences in the W2C corpus are shuffled.
       <li>DET: jeho, jich, jeje, jeju</li>
       <li>PRON: wona, wón, je, wone, wono, jón, Woni, jeho, nim, Jej</li>
       <li>VERB-Fin: ma, leži, móže, wobsahuje, su, rěči, běchu, dyrbi, maja, wužiwa</li>
-      <li>VERB-Part: ležo</li>
     </ul>
   </li>
 </ul>
@@ -797,17 +797,17 @@ Sentences in the W2C corpus are shuffled.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: d, jendź, mj, z</li>
+          <li>ADJ: mj, d, jendź, z</li>
           <li>ADJ-Part: mj, z</li>
           <li>ADP: př, n</li>
-          <li>ADV: resp, atd, łać, jendź, t</li>
+          <li>ADV: resp, t, atd, łać, jendź</li>
           <li>DET: n</li>
           <li>NOUN: l, př, km, m, CEST, hodź, jan, dr, nakł, přir</li>
           <li>NUM: III, Mio, 02625</li>
           <li>PRON: t</li>
           <li>PROPN: C, GNU, CET, KPD, OZN, H, ISGV, NDR</li>
           <li>SYM: O2, O3</li>
-          <li>VERB-Fin: mj, r</li>
+          <li>VERB-Fin: r</li>
           <li>X: APG, DDR, PD, SORBISCHES, dr, m, mj</li>
         </ul>
       </li>
@@ -821,6 +821,60 @@ Sentences in the W2C corpus are shuffled.
       <li>Mod
         <ul>
           <li>ADV: móžno</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADV: tak, t</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: na, w</li>
+          <li>SCONJ: hač</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: na, n</li>
+          <li>ADV: wjace, přeco, mjeńše, tu</li>
+          <li>PART: nic</li>
+          <li>X: mj</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: tak</li>
+          <li>CCONJ: ale, a, abo</li>
+          <li>PART: Nic</li>
+          <li>PRON: t</li>
+          <li>SCONJ: kaž</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADV: mjeztym, podobnje, tak</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: al</li>
+          <li>CCONJ: et</li>
+          <li>X: de, embryophyta, jure</li>
         </ul>
       </li>
     </ul>
@@ -871,10 +925,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (5)</li>
+      <li>VERB-Fin--NOUN-Acc (4)</li>
       <li>VERB-Fin--NOUN-Gen (17)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(wokoło) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (328)</li>
+      <li>VERB-Fin--NOUN-Nom (327)</li>
       <li>VERB-Fin--PRON-Nom (28)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
@@ -889,7 +943,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (1)</li>
       <li>VERB-Conv--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Acc (176)</li>
+      <li>VERB-Fin--NOUN-Acc (175)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(na) (9)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(přez) (2)</li>
       <li>VERB-Fin--NOUN-Dat (2)</li>
@@ -901,7 +955,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Ins-ADP(nad) (1)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(na) (2)</li>
-      <li>VERB-Fin--NOUN-Nom (10)</li>
+      <li>VERB-Fin--NOUN-Nom (9)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(za) (1)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (15)</li>

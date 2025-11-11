@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>болон</em> (<tt><a href="bxr_bdt
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.638355).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.638739).
 
 The 1st highest number of forms (1) was observed with the lemma “аад”: <em>аад</em>.
 
@@ -60,7 +60,13 @@ The 2nd highest number of forms (1) was observed with the lemma “али”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “ба”: <em>ба</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="bxr_bdt-feat-ExtPos.html">ExtPos</a></tt> (1; 1% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (82 tokens).
+Examples: <em>ба, болон, аад, али, харин, хамта, Баһа, Тиигээд, гадна, и</em>
 
 
 ## Relations

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1589 nodes (2%) are attached to their parents as `amod`.
+2141 nodes (2%) are attached to their parents as `amod`.
 
-1303 instances of `amod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23977344241661.
+1737 instances of `amod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22139187295656.
 
-The following 21 pairs of parts of speech are connected with `amod`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1352; 85% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (112; 7% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (49; 3% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (28; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (18; 1% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `amod`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1859; 87% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (112; 5% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (56; 3% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (39; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,20 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
-1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_32_06589
-2	avoyent	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_06590
-3	une	un	DET	DETndf	Definite=Ind|PronType=Art	5	det	_	XmlId=w_32_06591
-4	grant	grand	ADJ	ADJqua	_	5	amod	_	XmlId=w_32_06592
-5	haye	haie1	NOUN	NOMcom	_	2	obj	_	XmlId=w_32_06593
-6	et	et	CCONJ	CONcoo	_	8	cc	_	XmlId=w_32_06594
-7	ung	un	DET	DETndf	Definite=Ind|PronType=Art	8	det	_	XmlId=w_32_06595
-8	fossé	fossé	NOUN	NOMcom	_	5	conj	_	XmlId=w_32_06596
-9	au	à.le	ADP	PRE.DETdef	_	10	case:det	_	XmlId=w_32_06597
-10	devant	devant	NOUN	NOMcom	_	12	obl	_	XmlId=w_32_06598
-11	d'	de	ADP	PRE	_	12	case	_	SpaceAfter=No|XmlId=w_32_06599
-12	eulx	eux	PRON	PROper	PronType=Prs	2	obl	_	XmlId=w_32_06600
-13	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_06601
+1	car	car	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_42_03930
+2	j'	je	PRON	PROper	PronType=Prs	3	nsubj	_	SpaceAfter=No|XmlId=w_42_03931
+3	ay	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_03932
+4	grant	grand	ADJ	ADJqua	_	5	amod	_	XmlId=w_42_03933
+5	desir	désir	NOUN	NOMcom	_	3	obj	_	XmlId=w_42_03934
+6	de	de	ADP	PRE	_	7	mark	_	XmlId=w_42_03935
+7	veoir	voir1	VERB	VERinf	VerbForm=Inf	5	acl	_	XmlId=w_42_03936
+8	ma	mon1	DET	DETpos	Poss=Yes	10	det	_	XmlId=w_42_03937
+9	treshonnoree	honorer	VERB	VERppe	Tense=Past|VerbForm=Part	10	amod	_	XmlId=w_42_03938
+10	dame	dame1	NOUN	NOMcom	_	7	obj	_	XmlId=w_42_03939
+11	la	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_42_03940
+12	royne	reine1	NOUN	NOMcom	_	10	flat	_	SpaceAfter=No|XmlId=w_42_03941
+13	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_03942
+14	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_42_03943
 
 ~~~
 
@@ -69,7 +70,7 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 1	Ledict	ledit	DET	DETcom	Definite=Com	2	det	_	XmlId=w_32_04014
 2	conte	comte	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_32_04015
 3	s'	se1	PRON	PROper	PronType=Prs	5	expl	_	SpaceAfter=No|XmlId=w_32_04016
-4	en	en2	ADV	PROadv	_	5	obl:advmod	_	XmlId=w_32_04017
+4	en	en2	ADV	PROadv	_	5	obl:mod	_	XmlId=w_32_04017
 5	retourna	retourner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_04018
 6	à	à	ADP	PRE	_	8	case	_	XmlId=w_32_04019
 7	Sainct	saint	ADJ	ADJqua	_	8	amod	_	XmlId=w_32_04020

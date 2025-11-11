@@ -138,7 +138,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 `ADP` tokens may have the following values of `Case`:
 
 * `Dat` (2; 100% of non-empty `Case`): <em>Uns, »Wem</em>
-* `EMPTY` (2640): <em>in, von, mit, für, auf, an, durch, zu, aus, nach</em>
+* `EMPTY` (2642): <em>in, von, mit, für, auf, an, durch, zu, aus, nach</em>
 
 ## Relations with Agreement in `Case`
 

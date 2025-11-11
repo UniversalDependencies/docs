@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Past` (193; 62% of non-empty `Tense`): <em>dhohnte, nue, rae, rue, runge, themate, thea, theate, bahnne, makhe</em>
 * `Pqp` (29; 9% of non-empty `Tense`): <em>reha, rungha, choklaha, chaha, jaazakha, kaprahate, khayeaha, khurumha, lahate, lailehnmaha</em>
 * `Pres` (90; 29% of non-empty `Tense`): <em>wile, kanale, manungle, thaile, chule, matrehnle, phabtale, rele, thele, woanle</em>
-* `EMPTY` (323): <em>la, the, rung, yoan, phabtama, chari, mu, thaima, thungmi, dhohn</em>
+* `EMPTY` (322): <em>la, the, rung, yoan, phabtama, chari, mu, thaima, thungmi, dhohn</em>
 
 <table>
   <tr><th>Paradigm <i>mi</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -56,7 +56,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 3 <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> tokens (11% of all `ADP` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADP` and `Tense` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 100%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2; 67%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 67%).
+The most frequent other feature values with which `ADP` and `Tense` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2; 67%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 67%).
 
 `ADP` tokens may have the following values of `Tense`:
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Pqp` (2; 100% of non-empty `Tense`): <em>runghapha</em>
-* `EMPTY` (667): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
+* `EMPTY` (668): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, neodi, baneodi, Szukhyate</em>
 
 ### `ADV`
 
@@ -102,5 +102,5 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 `ADV` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>lhia</em>
-* `EMPTY` (190): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
+* `EMPTY` (192): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
 

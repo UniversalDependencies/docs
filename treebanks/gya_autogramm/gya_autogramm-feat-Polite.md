@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (5; 100% of non-empty `Polite`): <em>ʔó</em>
-* `EMPTY` (45): <em>ʔó, ʔá̰-nɛ̀, =ó, mà, zɔ̀m, =à, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, zɔ̌m</em>
+* `EMPTY` (44): <em>ʔó, ʔá̰-nɛ̀, =ó, mà, zɔ̀m, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, zɔ̌m, ʔá̰</em>
 

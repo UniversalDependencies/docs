@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Dim` (8; 100% of non-empty `Degree`): <em>ǂkhariro, Oraro, kairaro, kairo, sîsenoro, toro, ǃgomro</em>
-* `EMPTY` (766): <em>ǃgâi, kai, ǂhanu, ǂguro, ǀkhara, ǂoaǂamsa, ama, ǂhâǂhâsa, American, ǀgui</em>
+* `EMPTY` (767): <em>ǃgâi, kai, ǂhanu, ǂguro, ǀkhara, ǂoaǂamsa, ama, ǂhâǂhâsa, American, ǀgui</em>
 
 ### `VERB`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Dim` (8; 100% of non-empty `Degree`): <em>dîǃgâro, khoero, xūro, ǀao-amǃnâro, ǀkhararo, ǁgâiro, ǂOaro, ǃgûro</em>
-* `EMPTY` (3934): <em>hâ, ūhâ, ī, mî, dī, sī, ǁkhā, ǂan, mû, kō</em>
+* `EMPTY` (3935): <em>hâ, ūhâ, ī, mî, dī, sī, ǁkhā, ǂan, mû, kō</em>
 
 ### `PRON`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>nee</em>
-* `EMPTY` (1677): <em>o, nēsisa, amase, nēpa, tsîna, ǁnāpa, kaise, mâti, ǀgui, ǁnāti</em>
+* `EMPTY` (1676): <em>o, nēsisa, amase, nēpa, tsîna, ǁnāpa, kaise, mâti, ǀgui, ǁnāti</em>
 
 ## Relations with Agreement in `Degree`
 

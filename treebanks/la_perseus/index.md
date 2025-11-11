@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman, Federica Gamba.
 
 Repository: [UD_Latin-Perseus](https://github.com/UniversalDependencies/UD_Latin-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -117,7 +117,7 @@ Further details can be found at:
 
 ## Relations
 
-[acl](la_perseus-dep-acl.html) – [acl:relcl](la_perseus-dep-acl-relcl.html) – [advcl](la_perseus-dep-advcl.html) – [advcl:abs](la_perseus-dep-advcl-abs.html) – [advcl:cmp](la_perseus-dep-advcl-cmp.html) – [advcl:pred](la_perseus-dep-advcl-pred.html) – [advmod](la_perseus-dep-advmod.html) – [advmod:emph](la_perseus-dep-advmod-emph.html) – [advmod:lmod](la_perseus-dep-advmod-lmod.html) – [advmod:neg](la_perseus-dep-advmod-neg.html) – [advmod:tmod](la_perseus-dep-advmod-tmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [aux:pass](la_perseus-dep-aux-pass.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [ccomp:reported](la_perseus-dep-ccomp-reported.html) – [conj](la_perseus-dep-conj.html) – [conj:expl](la_perseus-dep-conj-expl.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [csubj:pass](la_perseus-dep-csubj-pass.html) – [det](la_perseus-dep-det.html) – [det:numgov](la_perseus-dep-det-numgov.html) – [discourse](la_perseus-dep-discourse.html) – [flat](la_perseus-dep-flat.html) – [flat:name](la_perseus-dep-flat-name.html) – [flat:redup](la_perseus-dep-flat-redup.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nsubj:outer](la_perseus-dep-nsubj-outer.html) – [nsubj:pass](la_perseus-dep-nsubj-pass.html) – [nummod](la_perseus-dep-nummod.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [obl:arg](la_perseus-dep-obl-arg.html) – [orphan](la_perseus-dep-orphan.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
+[acl](la_perseus-dep-acl.html) – [acl:relcl](la_perseus-dep-acl-relcl.html) – [advcl](la_perseus-dep-advcl.html) – [advcl:abs](la_perseus-dep-advcl-abs.html) – [advcl:cmp](la_perseus-dep-advcl-cmp.html) – [advcl:pred](la_perseus-dep-advcl-pred.html) – [advmod](la_perseus-dep-advmod.html) – [advmod:emph](la_perseus-dep-advmod-emph.html) – [advmod:lmod](la_perseus-dep-advmod-lmod.html) – [advmod:neg](la_perseus-dep-advmod-neg.html) – [advmod:tmod](la_perseus-dep-advmod-tmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [aux:pass](la_perseus-dep-aux-pass.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [ccomp:reported](la_perseus-dep-ccomp-reported.html) – [conj](la_perseus-dep-conj.html) – [conj:expl](la_perseus-dep-conj-expl.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [csubj:pass](la_perseus-dep-csubj-pass.html) – [det](la_perseus-dep-det.html) – [det:numgov](la_perseus-dep-det-numgov.html) – [discourse](la_perseus-dep-discourse.html) – [flat](la_perseus-dep-flat.html) – [flat:name](la_perseus-dep-flat-name.html) – [flat:redup](la_perseus-dep-flat-redup.html) – [iobj](la_perseus-dep-iobj.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nsubj:outer](la_perseus-dep-nsubj-outer.html) – [nsubj:pass](la_perseus-dep-nsubj-pass.html) – [nummod](la_perseus-dep-nummod.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [obl:arg](la_perseus-dep-obl-arg.html) – [orphan](la_perseus-dep-orphan.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -209,7 +209,7 @@ Further details can be found at:
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: contentum, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati, munitus</li>
+    <li>ADJ: contentum, notus, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati</li>
     <li>AUX: futura, futuram</li>
     <li>NOUN: meriti</li>
     <li>VERB: dicens, dicentem, dicentes, sedentem, amantis, conscripti, scriptum, facta, falso, mota</li>
@@ -244,7 +244,7 @@ Further details can be found at:
   <li>Masc
     <ul>
       <li>ADJ: magno, primus, unus, fortis, magnum, liber, novo, primo, Romani, Romanus</li>
-      <li>ADJ-Part: contentum, contentus, doctior, irati, munitus, notus, parati, tutos</li>
+      <li>ADJ-Part: contentum, notus, contentus, doctior, irati, munitus, parati, tutos</li>
       <li>DET: ille, illi, ipse, illum, illos, illis, hic, hoc, omnes, omnium</li>
       <li>NOUN: amor, nemo, animus, hominum, senatus, amore, homines, loco, locum, more</li>
       <li>NUM: duo, duobus, uno, unum, duos, uni, unus, duorum, octingentos, trecentos</li>
@@ -300,7 +300,7 @@ Further details can be found at:
   <li>Sing
     <ul>
       <li>ADJ: magna, publicae, publicam, magno, magnum, magnam, publica, p, prima, dignum</li>
-      <li>ADJ-Part: contentum, auratum, contenta, contentus, conveniens, culta, doctior, munitus, notus, patiens</li>
+      <li>ADJ-Part: contentum, notus, auratum, contenta, contentus, conveniens, culta, doctior, munitus, patiens</li>
       <li>AUX-Fin: est, erat, fuit, sit, esset, erit, es, sum, eris, foret</li>
       <li>AUX-Part: futura, futuram</li>
       <li>DET: hoc, ille, illa, ipse, illi, mea, illum, hanc, haec, suo</li>
@@ -324,7 +324,7 @@ Further details can be found at:
   <li>Abl
     <ul>
       <li>ADJ: magna, magno, magnis, novo, primo, publica, simili, summa, argentea, bonis</li>
-      <li>DET: hoc, suis, his, suo, hac, mea, sua, illis, omni, illo</li>
+      <li>DET: hoc, suis, his, suo, hac, mea, sua, omni, illo, nostro</li>
       <li>NOUN: manu, caelo, die, urbe, voce, bello, re, amore, loco, more</li>
       <li>NUM: uno, duobus, una, duabus, milibus, tribus</li>
       <li>PRON: me, quo, se, te, qua, eo, nobis, quibus, ea, aliquo</li>
@@ -393,7 +393,7 @@ Further details can be found at:
   <li>Nom
     <ul>
       <li>ADJ: magna, primus, unus, ingens, publica, liber, melior, pares, prima, Romanus</li>
-      <li>ADJ-Part: tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati, munitus, notus</li>
+      <li>ADJ-Part: notus, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati, munitus</li>
       <li>AUX-Part: futura</li>
       <li>DET: ille, illa, ipse, haec, illi, hic, quis, mea, tua, hoc</li>
       <li>NOUN: res, amor, nemo, animus, consul, puer, deus, homo, civitas, fortuna</li>
@@ -702,7 +702,8 @@ Further details can be found at:
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: prima, primus, primo, quintum, secundum, primis, quartum, secunda, secundae, sextum</li>
+      <li>ADJ: prima, primus, primo, secundum, primis, quartum, quintum, secunda, secundae, Secundam</li>
+      <li>ADV: quintum, sextum</li>
     </ul>
   </li>
 </ul>
@@ -926,7 +927,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (5)</li>
-      <li>VERB-Fin--NOUN-Nom (726)</li>
+      <li>VERB-Fin--NOUN-Nom (723)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
@@ -950,21 +951,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Abl (69)</li>
-      <li>VERB-Fin--NOUN-Acc (1133)</li>
-      <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Nom (10)</li>
+      <li>VERB-Fin--NOUN-Abl (46)</li>
+      <li>VERB-Fin--NOUN-Acc (1123)</li>
+      <li>VERB-Fin--NOUN-Gen (8)</li>
+      <li>VERB-Fin--NOUN-Nom (7)</li>
       <li>VERB-Fin--PRON (9)</li>
-      <li>VERB-Fin--PRON-Acc (346)</li>
+      <li>VERB-Fin--PRON-Acc (345)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (4)</li>
-      <li>VERB-Inf--NOUN-Abl (22)</li>
+      <li>VERB-Inf--NOUN-Abl (18)</li>
       <li>VERB-Inf--NOUN-Acc (221)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--PRON (4)</li>
-      <li>VERB-Inf--PRON-Acc (36)</li>
+      <li>VERB-Inf--PRON-Acc (35)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Abl (102)</li>
+      <li>VERB-Part--NOUN-Abl (98)</li>
       <li>VERB-Part--NOUN-Acc (106)</li>
       <li>VERB-Part--NOUN-Gen (6)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
@@ -977,6 +978,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Acc (2)</li>
+      <li>VERB-Inf--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -996,5 +999,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 9 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

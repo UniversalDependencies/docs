@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 2	культураяс	культура	NOUN	N	Case=Nom|Number=Plur	5	nmod	_	OrigLang=ru
 3	план	план	NOUN	N	Case=Nom|Number=Sing	5	obl	_	OrigLang=ru
 4	дінӧ	дінын	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	3	case	_	_
-5	идралӧма	идравны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	идралӧма	идравны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	3	3	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	_
 7	прӧчент	прӧчент	NOUN	N	Case=Nom|Number=Sing	5	obl	_	OrigLang=ru
 8	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	7	case	_	SpaceAfter=No
@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 3	видзӧдігмоз	видзӧдны	VERB	V	Derivation=Igmoz|VerbForm=Conv	6	advcl	_	_
 4	весиг	весиг	PART	Pcle	_	6	advmod	_	_
 5	шуштӧм	шуштӧм	NOUN	N	Case=Abe|Number=Sing|Variant=Nomin	6	xcomp	_	_
-6	лолі	лолыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+6	лолі	лолыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	6	obl	_	_
 8	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	7	case	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	_
@@ -62,7 +62,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 8 9 case	color:blue
 1	Сідз	сідз	ADV	Adv	_	4	advmod	_	_
 2	жӧ	жӧ	ADV	Adv	_	1	advmod	_	OrigLang=ru
-3	колӧ	ковны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	_
+3	колӧ	ковны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	сетны	сетны	VERB	V	VerbForm=Inf	0	root	_	_
 5	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	6	amod	_	_
 6	тӧдчанлун	тӧдчанлун	NOUN	N	Case=Nom|Number=Sing	4	nmod:obj	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2181 nodes (5%) are attached to their parents as `mark`.
+3523 nodes (5%) are attached to their parents as `mark`.
 
-2180 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.45483723062815.
+3522 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.32500709622481.
 
-The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (1496; 69% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (398; 18% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (108; 5% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (81; 4% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (57; 3% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `mark`: <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (2092; 59% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (911; 26% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (160; 5% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (154; 4% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (123; 3% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (20; 1% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,24 +60,21 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 8 mark	color:blue
-1	Et	et	CCONJ	_	_	7	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-2	sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
-3	ce	ce	PRON	_	PronType=Dem	7	obl	_	gold_pos=PRON|prpos=Pd|uppos=PRO
-4	ladite	ledit	DET	_	Definite=Ind	5	det	_	gold_pos=DET|prpos=Di|uppos=D
-5	deposante	déposant	NOUN	_	_	7	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-6	luy	il	PRON	_	PronType=Prs	7	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-7	dyst	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-8	que	que	SCONJ	_	_	12	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
-9	c'	ce	PRON	_	PronType=Dem	12	nsubj	_	gold_pos=PRON|prpos=Pd|SpaceAfter=No|uppos=PRO
-10	estoet	être	AUX	_	VerbForm=Fin	12	cop	_	gold_pos=AUX|join=left|prpos=Vuc|uppos=EJ
-11	son	son	DET	_	_	12	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
-12	faict	fait	NOUN	_	_	7	ccomp	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
-13	,	,	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+# visual-style 8 1 mark	color:blue
+1	Ainsi	ainsi	ADV	ADV	ExtPos=SCONJ	8	mark	_	prpos=Rg
+2	que	que	SCONJ	CONJS	_	1	fixed	_	prpos=Cs
+3	mesmement	mêmement	ADV	ADV	_	8	advmod	_	prpos=Rg
+4	lad.	ledit	DET	D	Definite=Def|PronType=Art	5	det	_	prpos=Da
+5	l.	lex	NOUN	FW	_	8	nsubj	_	Lang=la|prpos=Xe
+6	fi.	finalis	ADJ	FW	_	5	amod	_	Lang=la|prpos=Xe
+7	le	il	PRON	PRO	PronType=Prs	9	obj	_	prpos=Pp
+8	semble	sembler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+9	innuer	innuer	VERB	VX	_	8	xcomp	_	prpos=Vvn|SpaceAfter=No
+10	,	,	PUNCT	PON	_	9	punct	_	join=left|prpos=Fw
 
 ~~~
 

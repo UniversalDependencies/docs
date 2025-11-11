@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 2 cop	color:blue
 1	Паськӧмӧй	паськӧм	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
-2	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	_
+2	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 3	брӧд	брӧд	ADV	Adv	_	4	advmod	_	_
 4	ва	ва	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -39,7 +39,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5 3 cop	color:blue
 1	Кӧть	кӧть	SCONJ	CS	_	5	mark	_	OrigLang=ru
 2	луныс	лун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
-3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	зэв	зэв	ADV	Adv	_	5	advmod:deg	_	_
 5	мича	мича	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Пукавны	пукавны	VERB	V	VerbForm=Inf	5	csubj	_	_
 2	вадорын	вадор	NOUN	N	Case=Ine|Number=Sing	1	obl	_	_
 3	водзӧ	водз	ADV	Adv	Case=Ill	5	advmod	_	_
-4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 5	весьшӧрӧ	весьшӧрӧ	ADV	Adv	Case=Ill	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 

@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 nsubj:pass	color:blue
-1	's	is	AUX	Wp-i	ExtPos=AUX|Tense=Pres	3	cop	_	_
+1	's	is	AUX	Wp-i	ExtPos=AUX|Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 3	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|CleftType=Nom|Gender=Masc|NounType=Prs	0	root	_	Anonymised=Yes
 4	a	a	PART	Q-r	PartType=Vb|PronType=Rel	7	nsubj:pass	_	_

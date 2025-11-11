@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-8662 tokens (14%) have a non-empty value of `Degree`.
-4940 types (27%) occur at least once with a non-empty value of `Degree`.
+8659 tokens (14%) have a non-empty value of `Degree`.
+4939 types (27%) occur at least once with a non-empty value of `Degree`.
 2380 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (5914; 9% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (2747; 4% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (5913; 9% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (2745; 4% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-5914 <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Degree`.
+5913 <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5127; 87%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4356; 74%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5126; 87%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4355; 74%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (147; 2% of non-empty `Degree`): <em>лучше, короче, дороже, хуже, звонче, выше, легче, милей, светлей, тише</em>
-* `Pos` (5741; 97% of non-empty `Degree`): <em>тихий, белый, равно, золотые, милая, последний, черный, белые, хорошо, чужой</em>
+* `Pos` (5740; 97% of non-empty `Degree`): <em>тихий, белый, равно, золотые, милая, последний, черный, белые, хорошо, чужой</em>
 * `Sup` (26; 0% of non-empty `Degree`): <em>лучшей, лучших, Высшая, Высшую, Легчайшею, Прекраснейший, Руссейший, Тягчайшего, Чудеснейшая, высшей</em>
 * `EMPTY` (107): <em>первый, I, первым, III, первая, пятый, II, второй, первые, первых</em>
 
@@ -60,14 +60,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-2747 <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> tokens (99% of all `ADV` tokens) have a non-empty value of `Degree`.
+2745 <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> tokens (99% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1699; 62%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1697; 62%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (131; 5% of non-empty `Degree`): <em>больше, дальше, скорей, выше, раньше, шире, ближе, лучше, сильнее, веселей</em>
-* `Pos` (2616; 95% of non-empty `Degree`): <em>так, еще, где, как, там, вдруг, вновь, снова, опять, тихо</em>
+* `Pos` (2614; 95% of non-empty `Degree`): <em>так, еще, где, как, там, вдруг, вновь, снова, опять, тихо</em>
 * `EMPTY` (35): <em>Видно, наверно, верно, впрочем, наверное, право, Во-первых, Знамо, Итак, Каково</em>
 
 <table>

@@ -11,12 +11,12 @@ It occurs with 6 different values: `Deg`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
 207 tokens (5%) have a non-empty value of `AdvType`.
 92 types (4%) occur at least once with a non-empty value of `AdvType`.
-75 lemmas (6%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (198; 5% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+75 lemmas (5%) occur at least once with a non-empty value of `AdvType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (198; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-198 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (47% of all `ADV` tokens) have a non-empty value of `AdvType`.
+198 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (46% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (171; 86%).
 

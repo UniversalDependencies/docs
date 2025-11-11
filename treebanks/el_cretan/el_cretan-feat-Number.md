@@ -228,7 +228,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (405; 99%),
 <tt>VERB --[<tt><a href="el_cretan-dep-conj.html">conj</a></tt>]--> VERB</tt> (170; 81%),
 <tt>PROPN --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> DET</tt> (136; 100%),
-<tt>VERB --[<tt><a href="el_cretan-dep-obj.html">obj</a></tt>]--> PRON</tt> (125; 83%),
+<tt>VERB --[<tt><a href="el_cretan-dep-obj.html">obj</a></tt>]--> PRON</tt> (125; 84%),
 <tt>VERB --[<tt><a href="el_cretan-dep-obj.html">obj</a></tt>]--> NOUN</tt> (113; 67%),
 <tt>NOUN --[<tt><a href="el_cretan-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (93; 70%),
 <tt>VERB --[<tt><a href="el_cretan-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (87; 97%),

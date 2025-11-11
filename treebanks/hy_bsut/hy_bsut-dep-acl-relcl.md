@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hy_bsut-dep-acl.html">acl</a></tt>.
 
-270 nodes (1%) are attached to their parents as `acl:relcl`.
+291 nodes (1%) are attached to their parents as `acl:relcl`.
 
-269 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.15925925925926.
+290 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.16838487972509.
 
-The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (174; 64% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (24; 9% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (20; 7% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (19; 7% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (16; 6% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (191; 66% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (23; 8% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (22; 8% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (19; 7% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (18; 6% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 7	որից	որ	PRON	_	Case=Abl|Definite=Ind|Number=Sing|PronType=Rel	9	obl	_	Translit=oric’|LTranslit=or
 8	հետո	հետո	ADP	_	AdpType=Post	7	case	_	Translit=heto|LTranslit=heto
 9	ներկայացրեց	ներկայացնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	Translit=nerkayac’rec’|LTranslit=nerkayac’nel
-10	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	11	det:poss	_	Translit=ir|LTranslit=ink’ë
+10	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	11	det:poss	_	Translit=ir|LTranslit=ir
 11	բացարկը	բացարկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	9	obj	_	Translit=bac’arkë|LTranslit=bac’ark|SpaceAfter=No
 12	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -51,7 +51,7 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=enk’|LTranslit=em
 6	այն	այն	PRON	_	Deixis=Remt|PronType=Dem	4	obj	_	Translit=ayn|LTranslit=ayn|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
-8	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|PronType=Rel	9	obj	_	Translit=inč|LTranslit=inč
+8	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	9	obj	_	Translit=inč|LTranslit=inč
 9	ուզում	ուզել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	6	acl:relcl	_	Translit=owzowm|LTranslit=owzel
 10	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	Translit=enk’|LTranslit=em
 11	տեսնել	տեսնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	9	xcomp	_	Translit=tesnel|LTranslit=tesnel|SpaceAfter=No

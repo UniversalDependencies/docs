@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>es</em> (<tt><a href="es_gsd-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 14.090909 (the average of all parts of speech is 1.291521).
+The form / lemma ratio of `AUX` is 14.090909 (the average of all parts of speech is 1.291536).
 
 The 1st highest number of forms (37) was observed with the lemma “poder”: <em>Podeis, Podriaís, podamos, podemos, poder, podes, podido, podras, podre, podremos, podrá, podrán, podrás, podréis, podría, podríamos, podrían, podéis, podía, podíamos, podían, pude, pudiendo, pudiera, pudieran, pudieras, pudieron, pudiesen, pudimos, pudo, pueda, puedan, puedas, puede, pueden, puedes, puedo</em>.
 

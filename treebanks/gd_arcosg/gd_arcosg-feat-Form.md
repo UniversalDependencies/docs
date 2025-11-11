@@ -11,7 +11,7 @@ It occurs with 1 different values: `Emp`.
 
 706 tokens (1%) have a non-empty value of `Form`.
 36 types (0%) occur at least once with a non-empty value of `Form`.
-30 lemmas (1%) occur at least once with a non-empty value of `Form`.
+28 lemmas (1%) occur at least once with a non-empty value of `Form`.
 The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (651; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (55; 0% instances).
 
 ### `PRON`

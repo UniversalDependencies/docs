@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>word</em> (<tt><a href="af_afribooms-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.583333 (the average of all parts of speech is 1.120600).
+The form / lemma ratio of `AUX` is 1.583333 (the average of all parts of speech is 1.120578).
 
 The 1st highest number of forms (4) was observed with the lemma “wees”: <em>gewees, is, was, wees</em>.
 
@@ -46,9 +46,9 @@ The 3rd highest number of forms (2) was observed with the lemma “moet”: <em>
 
 `AUX` occurs with 3 features: <tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt> (3144; 100% instances), <tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt> (3144; 100% instances), <tt><a href="af_afribooms-feat-VerbType.html">VerbType</a></tt> (3138; 100% instances)
 
-`AUX` occurs with 8 feature-value pairs: `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Fin,Inf`, `VerbType=Aux`, `VerbType=Cop`, `VerbType=Mod`, `VerbType=Pas`
+`AUX` occurs with 9 feature-value pairs: `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Fin,Inf`, `VerbForm=Inf`, `VerbType=Aux`, `VerbType=Cop`, `VerbType=Mod`, `VerbType=Pas`
 
-`AUX` occurs with 8 feature combinations.
+`AUX` occurs with 9 feature combinations.
 The most frequent feature combination is `Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod` (1144 tokens).
 Examples: <em>sal, moet, kan, wil, mag, behoort, hoef, durf, moenie</em>
 
@@ -69,7 +69,7 @@ Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="af_a
 
 The highest child degree of a `AUX` node is 9.
 
-Children of `AUX` nodes are attached using 15 different relations: <tt><a href="af_afribooms-dep-punct.html">punct</a></tt> (79; 31% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (36; 14% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (34; 14% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (32; 13% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (18; 7% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (12; 5% instances), <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (8; 3% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-aux.html">aux</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (1; 0% instances)
+Children of `AUX` nodes are attached using 15 different relations: <tt><a href="af_afribooms-dep-punct.html">punct</a></tt> (79; 31% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (36; 14% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (34; 13% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (32; 13% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (18; 7% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (13; 5% instances), <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (8; 3% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-aux.html">aux</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (1; 0% instances)
 
-Children of `AUX` nodes belong to 13 different parts of speech: <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (79; 31% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (45; 18% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (30; 12% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (19; 8% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (17; 7% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (17; 7% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (11; 4% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (10; 4% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (8; 3% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (5; 2% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `AUX` nodes belong to 13 different parts of speech: <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (79; 31% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (46; 18% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (30; 12% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (19; 8% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (17; 7% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (17; 7% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (11; 4% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (10; 4% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (8; 3% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (5; 2% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances)
 

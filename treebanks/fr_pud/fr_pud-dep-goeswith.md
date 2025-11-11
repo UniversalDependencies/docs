@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 8	aujourd	aujourd'hui	ADV	RB	Typo=Yes	7	obl:mod	_	CorrectForm=aujourd'hui
 9	hui	_	X	GW	_	8	goeswith	_	_
 10	de	de	ADP	IN	_	12	case	_	_
-11	ce	ce	DET	DT	Gender=Masc|Number=Sing	12	det	_	_
+11	ce	ce	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 12	refus	refus	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 13	pour	pour	ADP	IN	_	14	mark	_	_
 14	justifier	justifier	VERB	VB	VerbForm=Inf	7	advcl	_	_
@@ -60,11 +60,11 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	qui	qui	PRON	WP	PronType=Rel	11	nsubj	_	_
 10	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	long	long	ADJ	JJ	Gender=Masc|Number=Sing	3	acl:relcl	_	_
-12	de	de	ADP	IN	_	16	case	_	_
-13	plus	plus	ADV	RBR	_	15	advmod	_	_
-14	de	de	ADP	IN	_	13	fixed	_	_
+12	de	de	ADP	IN	_	13	case	_	_
+13	plus	plus	ADV	RBR	ExtPos=PRON	11	nmod	_	_
+14	de	de	ADP	IN	_	16	case	_	_
 15	quatre	quatre	NUM	CD	_	16	nummod	_	_
-16	kilomètres	kilomètre	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+16	kilomètres	kilomètre	NOUN	NN	Gender=Masc|Number=Plur	13	obl:arg	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	11	punct	_	_
 18	se	se	PRON	PRP	Person=3|PronType=Prs	19	obj	_	_
 19	trouvent	trouver	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

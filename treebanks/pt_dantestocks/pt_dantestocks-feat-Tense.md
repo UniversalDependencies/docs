@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pt_dantestocks-pos-
 
 3649 <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_dantestocks-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3648; 100%), <tt><a href="pt_dantestocks-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3296; 90%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3224; 88%), <tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt> (3175; 87%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="pt_dantestocks-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3647; 100%), <tt><a href="pt_dantestocks-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3296; 90%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3224; 88%), <tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt> (3175; 87%).
 
 `VERB` tokens may have the following values of `Tense`:
 

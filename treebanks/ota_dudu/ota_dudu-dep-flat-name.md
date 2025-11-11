@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ota_dudu-dep-flat.html">flat</a></tt>.
 
-55 nodes (1%) are attached to their parents as `flat:name`.
+96 nodes (1%) are attached to their parents as `flat:name`.
 
-55 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.41818181818182.
+96 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5625.
 
-The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (42; 76% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (9; 16% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (78; 81% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (15; 16% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 2 4 flat:name	color:blue
 1	andan	o	PRON	Pers	Case=Abl|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
 2	enes	enes	PROPN	Pers	Case=Nom|Gender=Masc|NameType=Prs|Number=Sing|Person=3	5	nmod:poss	_	_
-3	ibni	ibn	NOUN	_	Case=Nom|Number=Sing|Person=3	2	flat	_	_
+3	ibni	ibni	NOUN	_	Case=Nom|Number=Sing|Person=3	2	flat	_	_
 4	mudrikenüñ	mudrike	PROPN	Pers	Case=Gen|NameType=Prs|Number=Sing|Person=3	2	flat:name	_	_
 5	ḫaberin	ḫaber	NOUN	_	Case=Gen|Number=Sing|Person=3	6	obj	_	_
 6	ṣordı	ṣor	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -47,17 +47,31 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat:name	color:blue
-1	şeyḫ	şeyḫ	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
-2	sinân	sinân	NOUN	_	Case=Nom|Number=Sing|Person=3	1	flat:name	_	_
-3	beni	ben	PRON	Pers	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
-4	bu	bu	DET	Demons	Definite=Def|PronType=Art	5	det	_	_
-5	şeklde	şekl	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl	_	_
-6	görürmiş	gör	VERB	_	Aspect=Hab|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 15 flat:name	color:blue
+1	tâzeliginde	tâzelik	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obl	_	_
+2	muḥyi’d-dîn	muḥyi’d-dîn	PROPN	Pers	Case=Nom|Gender=Masc|NameType=Prs|Number=Sing|Person=3	5	obl	_	_
+3	muḥammed	muḥammed	PROPN	Pers	Case=Nom|Gender=Masc|NameType=Prs|Number=Sing|Person=3	2	flat:name	_	_
+4	es-samsunîden	es-samsunî	PROPN	Pers	Case=Abl|NameType=Prs|Number=Sing|Person=3	2	flat:name	_	_
+5	oḳıdı	oḳı	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+6	badehu	badehu	ADV	_	_	11	advmod	_	_
+7	ḳâḍî-zâde-i	ḳâḍî-zâde	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nmod	_	_
+8	rûmî	rûmî	ADJ	Adj	_	7	amod	_	_
+9	torunı	torun	NOUN	_	Case=Nom|Number=Sing|Person=3	10	nmod	_	_
+10	ḳuṭbü’d-dînden	ḳuṭbü’d-dîn	PROPN	Pers	Case=Abl|Gender=Masc|NameType=Prs|Number=Sing|Person=3	11	obl	_	_
+11	oḳıdı	oḳı	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	conj	_	_
+12	badehu	badehu	ADV	_	_	16	advmod	_	_
+13	fâżıl	fâżıl	ADJ	Adj	_	14	amod	_	_
+14	alî-i	alî	NOUN	_	Case=Nom|Number=Sing|Person=3	16	obl	_	_
+15	fenârîden	fenârî	PROPN	Pers	Case=Abl|NameType=Prs|Number=Sing|Person=3	13	flat:name	_	_
+16	oḳıdı	oḳı	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	conj	_	_
+17	badehu	badehu	ADV	_	_	20	advmod	_	_
+18	alî	alî	NOUN	_	Case=Nom|Number=Sing|Person=3	20	obl	_	_
+19	yegânîden	yegânî	PROPN	Pers	Case=Abl|NameType=Prs|Number=Sing|Person=3	18	flat:name	_	_
+20	oḳıdı	oḳı	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	conj	_	_
 
 ~~~
 

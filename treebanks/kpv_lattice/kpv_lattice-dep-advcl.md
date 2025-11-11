@@ -22,14 +22,14 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 advcl	color:blue
-1	Идралін	идравны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	advcl	_	_
+1	Идралін	идравны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	advcl	_	_
 2	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	1	obl	_	_
 3	–	–	PUNCT	PUNCT	_	4	punct	_	_
-4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	OrigLang=ru|SpaceAfter=No
+4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	OrigLang=ru|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
-6	сёрмӧдчин	сёрмӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	8	advcl	_	_
+6	сёрмӧдчин	сёрмӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	8	advcl	_	_
 7	–	–	PUNCT	PUNCT	_	8	punct	_	_
-8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	OrigLang=ru|SpaceAfter=No
+8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	conj	_	OrigLang=ru|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	,	,	PUNCT	CLB	_	7	punct	_	_
 4	бура	бура	ADV	Adv	_	7	advmod	_	_
 5	кӧ	кӧ	SCONJ	CS	_	7	mark	_	_
-6	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	7	aux	_	_
+6	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	тӧд	тӧдны	VERB	V	Connegative=Yes	2	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	10	punct	_	_
 9	кӧні	кӧні	ADV	Adv	Case=Ine|Number=Sing|PronType=Int	10	advmod	_	_
@@ -54,7 +54,7 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 11	и	и	CCONJ	CC	_	12	cc	_	_
 12	мый	мый	PRON	Pron	Case=Nom|PronType=Int	14	obj	_	_
 13	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	вӧчӧ	вӧчны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	advcl	_	SpaceAfter=No
+14	вӧчӧ	вӧчны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -73,7 +73,7 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	друг	друг	ADV	Adv	Case=Nom|Number=Sing	6	advmod	_	GTtags=Sg,Nom
 6	пуксьӧм	пуксьыны	VERB	V	Tense=Past|VerbForm=Part	7	advcl	_	GTtags=Refl,Der,Der/ӧм,Der/NomAct,N,Sg,Nom
 7	чӧвлӧняс	чӧвлӧняс	NOUN	N	_	8	obl	_	_
-8	юаліс	юавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+8	юаліс	юавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 9	председатель	председатель	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	8	punct	_	_
 

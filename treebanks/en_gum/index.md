@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUM](https://github.com/UniversalDependencies/UD_English-GUM)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gum217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -296,7 +296,7 @@ pages = "2575--2588"
   <li>Part
   <ul>
     <li>AUX: been, being, having, getting, doing, had</li>
-    <li>VERB: united, going, gon, doing, based, called, made, used, got, known</li>
+    <li>VERB: united, going, gon, called, doing, based, made, used, got, known</li>
   </ul>
   </li>
 </ul>
@@ -361,8 +361,8 @@ pages = "2575--2588"
 <ul>
   <li>Ptan
     <ul>
-      <li>NOUN: clothes, species, thanks, pants, means, glasses, newspapers, 1960s, politics, jeans</li>
-      <li>PROPN: Netherlands, Olympics, Commons, Paralympics, Philippines, Vans, Analytics, Forties, Maldives</li>
+      <li>NOUN: clothes, thanks, pants, means, glasses, 1960s, politics, jeans, surroundings, 1970s</li>
+      <li>PROPN: Netherlands, Olympics, Paralympics, Philippines, Vans, Analytics, Forties, Maldives</li>
     </ul>
   </li>
 </ul>
@@ -374,9 +374,9 @@ pages = "2575--2588"
       <li>AUX-Fin: is, was, 's, has, do, 'm, did, ’s, had, does</li>
       <li>DET: this, that, half</li>
       <li>NOUN: time, day, way, year, world, life, today, city, work, lot</li>
-      <li>NUM: half, Seven, Three</li>
+      <li>NUM: half</li>
       <li>PRON: i, it, you, he, that, his, your, my, this, she</li>
-      <li>PROPN: University, President, York, America, New, south, Warhol, State, figure, Scientology</li>
+      <li>PROPN: University, President, York, America, New, south, Warhol, State, figure, north</li>
       <li>SYM: %</li>
       <li>VERB-Fin: know, said, think, has, have, had, is, 's, want, mean</li>
     </ul>
@@ -535,7 +535,7 @@ pages = "2575--2588"
       <li>AUX-Fin: was, were, did, had, 'd, ’d, got, where</li>
       <li>AUX-Part: been, had</li>
       <li>VERB-Fin: said, had, got, came, made, took, went, was, did, wanted</li>
-      <li>VERB-Part: united, based, called, made, used, got, known, done, given, seen</li>
+      <li>VERB-Part: united, called, based, made, used, got, known, done, given, seen</li>
     </ul>
   </li>
 </ul>
@@ -558,7 +558,7 @@ pages = "2575--2588"
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: based, called, known, used, made, given, born, done, found, taken</li>
+      <li>VERB-Part: called, based, used, known, made, given, born, done, found, taken</li>
     </ul>
   </li>
 </ul>
@@ -774,7 +774,7 @@ pages = "2575--2588"
       <li>Yes
         <ul>
           <li>ADJ: OK, US, Eng., Epis., Jr., U., voc.</li>
-          <li>ADP: vs., vs</li>
+          <li>ADP: @, vs., vs</li>
           <li>ADV: e.g., i.e., c., ca., PS, approx.</li>
           <li>INTJ: OK</li>
           <li>NOUN: etc., AI, TV, a.m., DNA, GIS, p., p.m., No., Ph.D.</li>
@@ -793,8 +793,9 @@ pages = "2575--2588"
       <li>ADP
         <ul>
           <li>ADJ: such, due</li>
-          <li>ADP: out, because, as, off, up, On, instead</li>
+          <li>ADP: out, because, as, off, up, On</li>
           <li>ADV: instead, prior, as, out, next</li>
+          <li>SYM: –, -, /, :</li>
           <li>VERB-Part: according, depending</li>
         </ul>
       </li>
@@ -826,7 +827,7 @@ pages = "2575--2588"
           <li>ADJ: such</li>
           <li>ADP: in</li>
           <li>ADV: instead, rather, As</li>
-          <li>SCONJ: so, as, in, Instead</li>
+          <li>SCONJ: so, as, in</li>
         </ul>
       </li>
     </ul>
@@ -843,7 +844,6 @@ pages = "2575--2588"
           <li>ADV: Ne, pas</li>
           <li>DET: Une</li>
           <li>INTJ: sh-</li>
-          <li>NOUN: Comédie</li>
           <li>PROPN: Shobhajatra, Mangal, de, Cérebro, Escola, do, et, Catarin, Federal, Jim</li>
           <li>PUNCT: !, ,, -, ?, “, ”</li>
           <li>SYM: 33A, 56A</li>
@@ -905,7 +905,6 @@ pages = "2575--2588"
       <li>Vrnc
         <ul>
           <li>SCONJ: cause, cuz, 'cuz, ‘cuz</li>
-          <li>VERB: gon, wan, ai</li>
           <li>VERB-Fin: wan, ai</li>
           <li>VERB-Inf: wan</li>
           <li>VERB-Part: gon</li>
@@ -923,7 +922,7 @@ pages = "2575--2588"
           <li>ADJ: residential, 2D, I.=, Water, beautiful, completed, crowed, digital, first, flashest</li>
           <li>ADP: on, to, of, with, a, as, fro, from, in, than</li>
           <li>ADV: aka, all, before, Non, a, abaut, p, really, them, alr-</li>
-          <li>AUX-Fin: are, is, can, ll, was, will, get, has, have, s</li>
+          <li>AUX-Fin: are, is, can, was, will, get, has, have, were, where</li>
           <li>AUX-Inf: be</li>
           <li>AUX-Part: been</li>
           <li>CCONJ: and, n</li>
@@ -931,7 +930,7 @@ pages = "2575--2588"
           <li>INTJ: y-, Ca-, Ro-, T-, alreet, alroot, f-, i-, n-, plo-</li>
           <li>NOUN: lotos, etc, kind, nite, per, type, dodge, fisherman, m, order</li>
           <li>NUM: 1, 19, 6:00, fiftyfive, five, one, to</li>
-          <li>PART: s, 's, do, the, not</li>
+          <li>PART: do, the, not</li>
           <li>PRON: em, it, you, ya, i, it's, t, we, She, Who</li>
           <li>PROPN: sea, skittles, #langu, American, Chatnam, Fla., Hutter, JOHN, Misalette, Oija</li>
           <li>PUNCT: ., ", -, (, ;, [, |, ’</li>
@@ -966,8 +965,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--PRON-Nom (4)</li>
-      <li>VERB-Fin--NOUN (2195)</li>
+      <li>VERB--PRON-Nom (3)</li>
+      <li>VERB-Fin--NOUN (2175)</li>
       <li>VERB-Fin--PRON (838)</li>
       <li>VERB-Fin--PRON-Nom (4160)</li>
       <li>VERB-Ger--NOUN (17)</li>
@@ -976,10 +975,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (498)</li>
       <li>VERB-Inf--PRON (198)</li>
       <li>VERB-Inf--PRON-Nom (1735)</li>
-      <li>VERB-Part--NOUN (417)</li>
+      <li>VERB-Part--NOUN (416)</li>
       <li>VERB-Part--PRON (138)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Nom (1158)</li>
+      <li>VERB-Part--PRON-Nom (1159)</li>
     </ul>
   </li>
 </ul>
@@ -988,19 +987,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN (3241)</li>
-      <li>VERB-Fin--PRON (281)</li>
+      <li>VERB-Fin--NOUN (3243)</li>
+      <li>VERB-Fin--PRON (279)</li>
       <li>VERB-Fin--PRON-Acc (673)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Ger--NOUN (464)</li>
+      <li>VERB-Ger--NOUN (463)</li>
       <li>VERB-Ger--PRON (21)</li>
       <li>VERB-Ger--PRON-Acc (36)</li>
-      <li>VERB-Inf--NOUN (2418)</li>
+      <li>VERB-Inf--NOUN (2414)</li>
       <li>VERB-Inf--PRON (357)</li>
-      <li>VERB-Inf--PRON-Acc (508)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Part--NOUN (1240)</li>
-      <li>VERB-Part--PRON (132)</li>
+      <li>VERB-Inf--PRON-Acc (509)</li>
+      <li>VERB-Part--NOUN (1241)</li>
+      <li>VERB-Part--PRON (133)</li>
       <li>VERB-Part--PRON-Acc (156)</li>
     </ul>
   </li>

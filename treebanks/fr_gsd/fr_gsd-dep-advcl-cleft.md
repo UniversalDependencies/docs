@@ -22,16 +22,16 @@ The following 13 pairs of parts of speech are connected with `advcl:cleft`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 advcl:cleft	color:blue
-1	Elle	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=elle
+1	Elle	lui	PRON	_	Case=Nom|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=elle
 2	fonce	foncer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	et	et	CCONJ	_	_	7	cc	_	_
 4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	expl:subj	_	SpaceAfter=No
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
-7	audace	audace	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+7	audace	audace	NOUN	_	Number=Sing	2	conj	_	Gender[lex]=Fem
 8	qui	qui	PRON	_	PronType=Rel	10	nsubj:pass	_	_
-9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	récompensée	récompenser	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl:cleft	_	SpaceAfter=No
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Filler=subj
+10	récompensée	récompenser	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:cleft	_	SpaceAfter=No|Tense[denom]=Past
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -48,16 +48,16 @@ The following 13 pairs of parts of speech are connected with `advcl:cleft`: <tt>
 3	ainsi	ainsi	ADV	_	_	0	root	_	_
 4	que	que	SCONJ	_	_	6	mark	_	_
 5	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
-6	développe	développer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl:cleft	_	_
+6	développe	développer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl:cleft	_	Filler=mod
 7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	nouveau	nouveau	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
-9	quartier	quartier	NOUN	_	Gender=Masc|Number=Sing	6	nsubj:pass	_	SpaceAfter=No
+9	quartier	quartier	NOUN	_	Number=Sing	6	nsubj:pass	_	Gender[lex]=Masc|SpaceAfter=No
 10	--	--	PUNCT	_	_	12	punct	_	SpaceAfter=No
 11	ou	ou	CCONJ	_	_	12	cc	_	_
 12	ensanche	ensanche	X	_	Foreign=Yes	9	appos	_	Lang=es|SpaceAfter=No
 13	--	--	PUNCT	_	_	12	punct	_	SpaceAfter=No
 14	de	de	ADP	_	_	15	case	_	_
-15	Amara	Amara	PROPN	_	_	9	nmod	_	SpaceAfter=No
+15	Amara	Amara	PROPN	_	_	9	nmod	_	Gender[lex]=Unknown|SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -73,7 +73,7 @@ The following 13 pairs of parts of speech are connected with `advcl:cleft`: <tt>
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
 3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	expl:subj	_	wordform=ce
 4	qui	qui	PRON	_	PronType=Rel	5	nsubj	_	_
-5	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl:cleft	_	_
+5	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl:cleft	_	Filler=subj
 6	augmenter	augmenter	VERB	_	VerbForm=Inf	5	xcomp	_	Subject=SubjRaising
 7	?	?	PUNCT	_	_	1	punct	_	_
 

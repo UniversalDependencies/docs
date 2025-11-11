@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="orv_rnc-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.718310 (the average of all parts of speech is 2.481645).
+The form / lemma ratio of `SCONJ` is 1.718310 (the average of all parts of speech is 2.481722).
 
 The 1st highest number of forms (6) was observed with the lemma “что”: <em>то, ч[т]о, чт(о), что, чтѡ, што</em>.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Elisa Di Nuovo, Manuela Sanguinetti, Cristina Bosco, Alessandro Mazzei.
 
 Repository: [UD_Italian-Valico](https://github.com/UniversalDependencies/UD_Italian-Valico)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -459,7 +459,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
 <ul>
   <li>Prs
     <ul>
-      <li>DET: suo, sua, mio, mia, suoi, miei, nostra, nostro, sue, tuo</li>
+      <li>DET: suo, sua, mio, mia, suoi, miei, nostra, nostro, sue, sui</li>
       <li>PRON: mi, si, la, lui, lei, l', me, lo, gli, c'</li>
     </ul>
   </li>
@@ -647,14 +647,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (1)</li>
       <li>VERB-Fin--NOUN (99)</li>
-      <li>VERB-Fin--PRON (47)</li>
+      <li>VERB-Fin--PRON (45)</li>
       <li>VERB-Ger--NOUN (25)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Inf--NOUN (59)</li>
       <li>VERB-Inf--PRON (40)</li>
-      <li>VERB-Part--NOUN (92)</li>
+      <li>VERB-Part--NOUN (90)</li>
       <li>VERB-Part--NOUN-ADP(a) (1)</li>
-      <li>VERB-Part--PRON (67)</li>
+      <li>VERB-Part--PRON (65)</li>
     </ul>
   </li>
 </ul>
@@ -662,11 +662,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (30)</li>
+      <li>VERB-Fin--PRON (31)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Inf--PRON (3)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--PRON (23)</li>
+      <li>VERB-Part--PRON (24)</li>
     </ul>
   </li>
 </ul>

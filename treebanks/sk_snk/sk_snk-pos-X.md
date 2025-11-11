@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovak-SNK: POS Tags: `X`
 
-There are 318 `X` lemmas (2%), 319 `X` types (1%) and 496 `X` tokens (0%).
+There are 317 `X` lemmas (2%), 318 `X` types (1%) and 494 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>o, tzv, sv, po, česko, km, c, r, the, č</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>O</em> (<tt><a href="sk_snk-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.003145 (the average of all parts of speech is 1.802472).
+The form / lemma ratio of `X` is 1.003155 (the average of all parts of speech is 1.802691).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, Α</em>.
 
@@ -73,17 +73,17 @@ Examples: <em>the, of, REUTERS, Energy, Evangelium, Film, Grazie, Harken, Intern
 
 ## Relations
 
-`X` nodes are attached to their parents using 16 different relations: <tt><a href="sk_snk-dep-nmod.html">nmod</a></tt> (227; 46% instances), <tt><a href="sk_snk-dep-flat.html">flat</a></tt> (81; 16% instances), <tt><a href="sk_snk-dep-root.html">root</a></tt> (34; 7% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (32; 6% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (22; 4% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (22; 4% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (20; 4% instances), <tt><a href="sk_snk-dep-appos.html">appos</a></tt> (19; 4% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (13; 3% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (11; 2% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (8; 2% instances), <tt><a href="sk_snk-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 16 different relations: <tt><a href="sk_snk-dep-nmod.html">nmod</a></tt> (225; 46% instances), <tt><a href="sk_snk-dep-flat.html">flat</a></tt> (81; 16% instances), <tt><a href="sk_snk-dep-root.html">root</a></tt> (34; 7% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (32; 6% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (22; 4% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (22; 4% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (20; 4% instances), <tt><a href="sk_snk-dep-appos.html">appos</a></tt> (19; 4% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (13; 3% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (11; 2% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (8; 2% instances), <tt><a href="sk_snk-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-advcl-pred.html">advcl:pred</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (157; 32% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (133; 27% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (86; 17% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (37; 7% instances),  (34; 7% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (22; 4% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (21; 4% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (6; 1% instances)
+Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (157; 32% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (133; 27% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (86; 17% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (37; 7% instances),  (34; 7% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (21; 4% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (20; 4% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (6; 1% instances)
 
-178 (36%) `X` nodes are leaves.
+176 (36%) `X` nodes are leaves.
 
 199 (40%) `X` nodes have one child.
 
 72 (15%) `X` nodes have two children.
 
-47 (9%) `X` nodes have three or more children.
+47 (10%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 10.
 

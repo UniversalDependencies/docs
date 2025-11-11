@@ -17,64 +17,58 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 7 parataxis	color:blue
-1	Aššur	Aššur	PROPN	_	_	20	nsubj	_	SpaceAfter=No
-2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	bani	bani	PROPN	_	_	1	flat	_	SpaceAfter=No
-4	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
-5	apli	apli	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
-6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
-7	669	669	NUM	_	NumType=Card	1	parataxis	_	SpaceAfter=No
-8	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	627	627	NUM	_	NumType=Card	7	conj	_	_
-10	př	před	ADP	_	Abbr=Yes	14	case	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
-12	n	naš	DET	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	_
-14	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	_	SpaceAfter=No
-16	)	)	PUNCT	_	_	7	punct	_	_
-17	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	_
-18	posledni	posledni	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-19	wuznamny	wuznamny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
-20	knježićel	knježićel	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	20	punct	_	_
+# visual-style 1 6 parataxis	color:blue
+1	Jakub	Jakub	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+2	Bart	Bart	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	Ćišinski	Ćišinski	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
+5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	1856	1856	NUM	_	NumType=Card	1	parataxis	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	1909	1909	NUM	_	NumType=Card	6	conj	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	6	punct	_	_
+10	-	-	PUNCT	_	_	11	punct	_	_
+11	wobnowjer	wobnowjer	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+12	serbskeje	serbski	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	literatury	literatura	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 20 parataxis	color:blue
-1	Dalše	dalši	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
-2	namakanki	namakanki	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	5	nsubj	_	_
-5	mějachu	měć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	_
-6	za	za	ADP	_	_	7	case	_	_
-7	hospodarstwo	hospodarstwo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
-8	rozsudny	rozsudny	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
-9	wuznam	wuznam	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	5	punct	_	_
-11	běštej	być	AUX	_	Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
-12	koleso	koleso	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
-13	a	a	CCONJ	_	_	15	cc	_	_
-14	hornčerska	hornčerski	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
-15	tačel	tačel	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	_
-16	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
-17	pózdnja	pózdni	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
-18	Uruk	Uruk	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	compound	_	SpaceAfter=No
-19	-	-	PUNCT	_	_	20	punct	_	SpaceAfter=No
-20	doba	doba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	SpaceAfter=No
-21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 parataxis	color:blue
+1	W	w	ADP	_	_	4	case	_	_
+2	něhdyšej	něhdyši	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+3	romskej	romski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	4	amod	_	_
+4	protyce	protyka	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
+5	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+6	december	december	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+7	poprawom	poprawom	ADV	_	Degree=Pos	9	advmod	_	_
+8	dźesaty	dźesaty	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	měsac	měsac	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	přir	přir	NOUN	_	Abbr=Yes|Animacy=Anim|Gender=Masc|Number=Sing	9	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+13	łać	łać	ADV	_	Abbr=Yes	15	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+15	decem	decem	X	_	_	11	obj	_	_
+16	=	=	SYM	_	_	17	cc	_	_
+17	dźesać	dźesać	NUM	_	NumType=Card	15	appos	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	11	punct	_	_
+19	304	304	NUM	_	NumType=Card	20	nummod:gov	_	_
+20	dnjow	dźeń	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+21	trajaceho	trajacy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	23	amod	_	_
+22	měsačkoweho	měsačkowy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	23	amod	_	_
+23	kalendra	kalender	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

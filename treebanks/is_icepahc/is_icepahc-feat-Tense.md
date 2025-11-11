@@ -11,20 +11,20 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 125010 tokens (13%) have a non-empty value of `Tense`.
 8890 types (14%) occur at least once with a non-empty value of `Tense`.
-3037 lemmas (9%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 14 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (78436; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (44851; 5% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (374; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (337; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (310; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (196; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (116; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (53; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+3036 lemmas (9%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 14 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (78437; 8% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (44849; 5% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (375; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (337; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (310; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (196; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (116; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (53; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-78436 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Tense`.
+78437 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78436; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (78434; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78403; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (71027; 91%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (70996; 91%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (65368; 83%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61474; 78%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78437; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (78435; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78404; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (71028; 91%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (70997; 91%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (65369; 83%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61473; 78%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (47942; 61% of non-empty `Tense`): <em>sagði, kom, mælti, fór, tók, varð, gekk, lét, hafði, hét</em>
+* `Past` (47943; 61% of non-empty `Tense`): <em>sagði, kom, mælti, fór, tók, varð, gekk, lét, hafði, hét</em>
 * `Pres` (30494; 39% of non-empty `Tense`): <em>segir, kemur, fer, verður, svarar, heitir, veit, gengur, þykir, tekur</em>
-* `EMPTY` (50248): <em>fara, segja, sjá, taka, koma, sagt, láta, komið, ganga, kominn</em>
+* `EMPTY` (50252): <em>fara, segja, sjá, taka, koma, sagt, láta, komið, ganga, kominn</em>
 
 <table>
   <tr><th>Paradigm <i>segja</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -48,15 +48,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-44851 <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Tense`.
+44849 <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (44822; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (44799; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (38033; 85%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (36215; 81%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35592; 79%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (44820; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (44797; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (38031; 85%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (36213; 81%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35592; 79%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (23725; 53% of non-empty `Tense`): <em>var, voru, hafði, væri, hefði, skyldi, vildi, mundi, höfðu, mátti</em>
-* `Pres` (21126; 47% of non-empty `Tense`): <em>er, eru, mun, sé, hefir, hefur, skal, hafa, hafi, má</em>
-* `EMPTY` (6400): <em>vera, verið, hafa, verða, er, vilja, haft, mun, geta, em</em>
+* `Past` (23724; 53% of non-empty `Tense`): <em>var, voru, hafði, væri, hefði, skyldi, vildi, mundi, höfðu, mátti</em>
+* `Pres` (21125; 47% of non-empty `Tense`): <em>er, eru, mun, sé, hefir, hefur, skal, hafa, hafi, má</em>
+* `EMPTY` (6395): <em>vera, verið, hafa, verða, er, vilja, haft, mun, geta, em</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -81,15 +81,15 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `NOUN`
 
-374 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
+375 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (374; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (374; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (374; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (289; 77%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (375; 100%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (375; 100%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (375; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (290; 77%).
 
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Past` (108; 29% of non-empty `Tense`): <em>mætti, leið, lifnaði, liði, skildi, hóf, birti, naut, flugu, færi</em>
-* `Pres` (266; 71% of non-empty `Tense`): <em>vilja, friðar, kosti, miskunnar, kostar, tignar, verði, vilji, viti, boði</em>
-* `EMPTY` (145507): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `Pres` (267; 71% of non-empty `Tense`): <em>vilja, friðar, kosti, miskunnar, kostar, tignar, verði, vilji, viti, boði</em>
+* `EMPTY` (145504): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>stund</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>Stundu</em></td></tr>
 </table>
 
-`Tense` seems to be **lexical feature** of `NOUN`. 97% lemmas (203) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `NOUN`. 97% lemmas (204) occur only with one value of `Tense`.
 
 ### `ADV`
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (61; 22% of non-empty `Tense`): <em>var, átti, sétti, blessuðu, laust, réttu, sæti, volaði, útvöldu, Elsti</em>
 * `Pres` (222; 78% of non-empty `Tense`): <em>verður, fær, nær, ríkir, sannast, sanna, syndgir, varir, fegri, göfgir</em>
-* `EMPTY` (36878): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36880): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>sannur</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -226,7 +226,7 @@ The most frequent other feature values with which `PROPN` and `Tense` co-occurre
 
 * `Past` (2; 8% of non-empty `Tense`): <em>hvörri, hvört</em>
 * `Pres` (24; 92% of non-empty `Tense`): <em>er, eð, at, eru</em>
-* `EMPTY` (41864): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
+* `EMPTY` (41865): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
 
 ### `CCONJ`
 
@@ -255,7 +255,7 @@ The most frequent other feature values with which `NUM` and `Tense` co-occurred:
 `NUM` tokens may have the following values of `Tense`:
 
 * `Pres` (5; 100% of non-empty `Tense`): <em>Xii, fjörutigi, iiii, iiijr, vii</em>
-* `EMPTY` (4407): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
+* `EMPTY` (4408): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
 
 ### `PUNCT`
 
@@ -270,7 +270,7 @@ The most frequent other feature values with which `NUM` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (14764; 62%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-dep.html">dep</a></tt>]--> VERB</tt> (219; 64%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-dep.html">dep</a></tt>]--> VERB</tt> (218; 64%),
 <tt>AUX --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> AUX</tt> (12; 67%),
 <tt>AUX --[<tt><a href="is_icepahc-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (6; 75%),
 <tt>AUX --[<tt><a href="is_icepahc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 56%),

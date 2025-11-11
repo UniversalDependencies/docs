@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>fortsatt</em>
-* `EMPTY` (993): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
+* `EMPTY` (989): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
 
 ## Relations with Agreement in `VerbForm`
 
@@ -86,5 +86,5 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (38; 60%),
 <tt>VERB --[<tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (6; 75%),
 <tt>VERB --[<tt><a href="sv_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (3; 60%),
-<tt>VERB --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="sv_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (1; 100%).
 

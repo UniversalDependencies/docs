@@ -70,7 +70,7 @@ The following 39 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 2 case	color:blue
 1	Ispăseniia	ispășenie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	Ref=MATT19.26.content
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	Ref=MATT19.26.content
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	4	case	_	Ref=MATT19.26.content
 3	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	2	fixed	_	Ref=MATT19.26.content
 4	Dumnedzeu	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nmod	_	Ref=MATT19.26.content|SpaceAfter=No
 5	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT19.26.content

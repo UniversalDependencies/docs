@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADV`, `CCONJ`, `DET`, `PRON`, `SCONJ`.
 
-67 tokens (0%) have a non-empty value of `ExtPos`.
-16 types (1%) occur at least once with a non-empty value of `ExtPos`.
-10 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 4 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (33; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+69 tokens (0%) have a non-empty value of `ExtPos`.
+17 types (1%) occur at least once with a non-empty value of `ExtPos`.
+11 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 4 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (33; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `PART`
 
@@ -32,14 +32,15 @@ The most frequent other feature values with which `PART` and `ExtPos` co-occurre
 
 ### `ADV`
 
-24 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+26 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Man</tt> (24; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 71%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Man</tt> (26; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 65%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADV` (17; 71% of non-empty `ExtPos`): <em>yawé, Kutara, yawewara</em>
-* `DET` (7; 29% of non-empty `ExtPos`): <em>mayé</em>
+* `ADV` (17; 65% of non-empty `ExtPos`): <em>yawé, Kutara, yawewara</em>
+* `DET` (7; 27% of non-empty `ExtPos`): <em>mayé</em>
+* `PRON` (2; 8% of non-empty `ExtPos`): <em>Maí</em>
 
 ### `PRON`
 

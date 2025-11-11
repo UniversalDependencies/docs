@@ -18,12 +18,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html
 
 141 <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (141; 100%), <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (141; 100%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (105; 74%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 74%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (141; 100%), <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (141; 100%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (105; 74%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 74%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (141; 100% of non-empty `Poss`): <em>mon, mes, sa, ma, son, votre, ses, vos, leur, leurs</em>
-* `EMPTY` (3693): <em>le, la, l', les, quelle, quel, un, une, des, quelles</em>
+* `EMPTY` (3690): <em>le, la, l', les, quelle, quel, un, une, des, quelles</em>
 
 ### `NOUN`
 

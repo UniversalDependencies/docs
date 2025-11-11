@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 det	color:blue
-1	Kaiãapukury	kaiãapuku	DET	XPOS=muito-DISTR-M	_	2	det	_	gloss[pt]=muito-DISTR-M
+1	Kaiãapukury	kaiãapuku	DET	XPOS=muito-DISTR-M	PronType=Ind	2	det	_	gloss[pt]=muito-DISTR-M
 2	tiwitxi	tiwitxi	NOUN	XPOS=coisa.de	Possessed=No	3	nsubj	_	gloss[pt]=coisa.de-N.POSSD
 3	awa	awa	VERB	XPOS=existir	_	0	root	_	gloss[pt]=existir
 4	apaka	apaka	ADV	Adv	_	3	advmod	_	gloss[pt]=também
@@ -40,9 +40,9 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	Txamary	txa	AUX	XPOS=AUX-FRUSTR	Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	2	aux	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
+1	Txamary	txa	AUX	XPOS=AUX-FRUSTR	Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	2	aux	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
 2	aapanhika	awa	VERB	XPOS=existir-IPFTV-PRED	_	0	root	_	gloss[pt]=existir-IPFTV-PRED
-3	kaiãpukury	kaiãpuku	DET	XPOS=muito-DISTR-M	_	4	det	_	gloss[pt]=muito-DISTR-M
+3	kaiãpukury	kaiãpuku	DET	XPOS=muito-DISTR-M	PronType=Ind	4	det	_	gloss[pt]=muito-DISTR-M
 4	arẽka	herẽka	NOUN	N	Gender=Masc|Gender[psor]=Masc	5	nsubj	_	gloss[pt]=3SG.M-sangue.de
 5	awa	awa	VERB	XPOS=existir	_	2	conj	_	gloss[pt]=existir|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_

@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 12119 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9847; 81%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 77%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9196; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6593; 54%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (11515; 95%), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (11047; 91%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9196; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6593; 54%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -51,18 +51,12 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ο, O, το</em></td><td><em>τον, το</em></td><td></td><td><em>του</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>οι</em></td><td><em>τους</em></td><td></td><td><em>των</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>η</em></td><td><em>την, τη</em></td><td><em>τη</em></td><td><em>της, τις</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>οι</em></td><td><em>τις</em></td><td></td><td><em>των</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>το</em></td><td><em>το, τα</em></td><td><em>τω</em></td><td><em>του</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>τα</em></td><td><em>τα</em></td><td></td><td><em>των</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>τον, το</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>τους</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>την, τη</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>τις</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>το</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>τα</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ο, O, το</em></td><td><em>τον, το</em></td><td></td><td><em>του</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>οι</em></td><td><em>τους</em></td><td></td><td><em>των</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>η</em></td><td><em>την, τη</em></td><td><em>τη</em></td><td><em>της, τις</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>οι</em></td><td><em>τις</em></td><td></td><td><em>των</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>το</em></td><td><em>το, τα</em></td><td><em>τω</em></td><td><em>του</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>τα</em></td><td><em>τα</em></td><td></td><td><em>των</em></td></tr>
 </table>
 
 ### `ADJ`

@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt>, <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt>, <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt>.
 
-24133 tokens (57%) have a non-empty value of `Number`.
-13044 types (97%) occur at least once with a non-empty value of `Number`.
-8346 lemmas (95%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (9689; 23% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (5543; 13% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3372; 8% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2718; 6% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1380; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1115; 3% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (201; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (115; 0% instances).
+24103 tokens (57%) have a non-empty value of `Number`.
+13043 types (97%) occur at least once with a non-empty value of `Number`.
+8345 lemmas (95%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (9689; 23% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (5543; 13% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3372; 8% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2718; 6% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1385; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1077; 3% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (201; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (118; 0% instances).
 
 ### `NOUN`
 
@@ -103,14 +103,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `PRON`
 
-1380 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+1385 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (1322; 96%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (1322; 95%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (160; 12% of non-empty `Number`): <em>őket, akik, ezek, amelyek, ők, mi, akiknek, magukat, nálunk, közülük</em>
-* `Sing` (1220; 88% of non-empty `Number`): <em>azt, az, aki, ez, amely, ami, annak, arra, amelynek, ő</em>
+* `Plur` (162; 12% of non-empty `Number`): <em>őket, akik, ezek, amelyek, ők, mi, akiknek, magukat, nálunk, közülük</em>
+* `Sing` (1223; 88% of non-empty `Number`): <em>azt, az, aki, ez, amely, ami, annak, arra, amelynek, ő</em>
+* `EMPTY` (5): <em>többek, többet</em>
 
 <table>
   <tr><th>Paradigm <i>az</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -133,24 +134,21 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `NUM`
 
-1115 <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Number`.
+1077 <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1005; 90%), <tt><a href="hu_szeged-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1003; 90%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (970; 90%), <tt><a href="hu_szeged-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (965; 90%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (3; 0% of non-empty `Number`): <em>többek, sokak</em>
-* `Sing` (1112; 100% of non-empty `Number`): <em>két, milliárd, millió, egy, három, több, ezer, négy, 30, 10</em>
+* `Plur` (1; 0% of non-empty `Number`): <em>sokak</em>
+* `Sing` (1076; 100% of non-empty `Number`): <em>két, milliárd, millió, egy, három, ezer, négy, 30, 10, fél</em>
 
 <table>
-  <tr><th>Paradigm <i>több</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Cau</tt></tt></td><td><em>többért</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ess</tt></tt></td><td><em>többen</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>több</em></td><td><em>többek</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt></tt></td><td><em>többre</em></td><td></td></tr>
+  <tr><th>Paradigm <i>sok</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>sok</em></td><td><em>sokak</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NUM`. 99% lemmas (326) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (325) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -175,15 +173,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-115 <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Number`.
+118 <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (115; 100%), <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (115; 100%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (118; 100%), <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (115; 97%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (21; 18% of non-empty `Number`): <em>azokat, azokban, ezekben, azoknak, ezek, ezeket, azokkal, ezekből, ezeken, ezekkel</em>
-* `Sing` (94; 82% of non-empty `Number`): <em>ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, olyan</em>
-* `EMPTY` (5160): <em>a, az, egy, több, minden, egyik, néhány, sok, más, másik</em>
+* `Sing` (97; 82% of non-empty `Number`): <em>ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, olyan</em>
+* `EMPTY` (5161): <em>a, az, egy, több, minden, egyik, néhány, sok, más, másik</em>
 
 <table>
   <tr><th>Paradigm <i>az</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

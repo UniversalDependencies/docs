@@ -154,12 +154,12 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="bej_autogramm-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (177; 61%),
 <tt>VERB --[<tt><a href="bej_autogramm-dep-dep-conj.html">dep:conj</a></tt>]--> VERB</tt> (136; 68%),
-<tt>VERB --[<tt><a href="bej_autogramm-dep-obj.html">obj</a></tt>]--> PRON</tt> (130; 58%),
+<tt>VERB --[<tt><a href="bej_autogramm-dep-obj.html">obj</a></tt>]--> PRON</tt> (98; 56%),
 <tt>VERB --[<tt><a href="bej_autogramm-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (46; 57%),
+<tt>VERB --[<tt><a href="bej_autogramm-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (39; 53%),
 <tt>VERB --[<tt><a href="bej_autogramm-dep-dislocated-subj.html">dislocated:subj</a></tt>]--> PRON</tt> (10; 83%),
 <tt>AUX --[<tt><a href="bej_autogramm-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (7; 100%),
 <tt>PRON --[<tt><a href="bej_autogramm-dep-discourse.html">discourse</a></tt>]--> DET</tt> (7; 100%),
 <tt>NOUN --[<tt><a href="bej_autogramm-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (3; 60%),
-<tt>VERB --[<tt><a href="bej_autogramm-dep-dep-conj.html">dep:conj</a></tt>]--> AUX</tt> (3; 100%),
-<tt>VERB --[<tt><a href="bej_autogramm-dep-dep-redup.html">dep:redup</a></tt>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<tt><a href="bej_autogramm-dep-dep-conj.html">dep:conj</a></tt>]--> AUX</tt> (3; 100%).
 

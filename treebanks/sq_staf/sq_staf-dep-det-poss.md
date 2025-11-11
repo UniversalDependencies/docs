@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a h
 1	Mendja	mendje	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	end_char=594|start_char=588
 2	e	e	DET	_	Gender=Fem|Number=Sing	3	det	_	end_char=596|start_char=595
 3	kujt	kujt	PRON	_	Case=Gen|Number=Sing|PronType=Int	1	nmod	_	end_char=601|start_char=597
-4	flet	fles	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	end_char=606|start_char=602
+4	flet	fles	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=606|start_char=602
 5	me	me	ADP	_	_	6	case	_	end_char=609|start_char=607
 6	gojën	gojë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	end_char=615|start_char=610
 7	e	e	DET	_	Gender=Fem|Number=Sing	8	det	_	end_char=617|start_char=616
@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 8	fgColor:white
 # visual-style 8 7 det:poss	color:blue
 1	Sqota	sqotë	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	end_char=51|start_char=46
-2	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	3	aux	_	end_char=58|start_char=52
+2	kishte	kam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	end_char=58|start_char=52
 3	qullur	qulloj	VERB	_	VerbForm=Part	0	root	_	end_char=65|start_char=59
 4	betonin	beton	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	end_char=73|start_char=66
 5	e	e	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	6	det:poss	_	end_char=75|start_char=74
@@ -67,12 +67,12 @@ The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 15 14 det:poss	color:blue
 1	Le	le	PART	_	_	3	cc	_	end_char=708|start_char=706
 2	të	të	PART	_	_	3	mark	_	end_char=711|start_char=709
-3	jetë	jam	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	end_char=716|start_char=712
+3	jetë	jam	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=716|start_char=712
 4	emri	emër	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	end_char=721|start_char=717
 5	që	që	PRON	_	PronType=Rel	9	nsubj	_	end_char=724|start_char=722
 6	i	i	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	iobj	_	_
-7	e	e	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-8	keni	kam	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	9	aux	_	end_char=732|start_char=728
+7	e	e	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+8	keni	kam	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	end_char=732|start_char=728
 9	vënë	vëj	VERB	_	VerbForm=Part	4	acl:relcl	_	end_char=737|start_char=733
 10	bonum	bonum	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	end_char=743|start_char=738
 11	omen	omen	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	fixed	_	end_char=748|start_char=744

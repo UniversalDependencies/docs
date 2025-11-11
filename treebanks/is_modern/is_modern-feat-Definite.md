@@ -12,7 +12,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 19523 tokens (24%) have a non-empty value of `Definite`.
 7268 types (71%) occur at least once with a non-empty value of `Definite`.
 4176 lemmas (71%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 9 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13613; 17% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3369; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (378; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (109; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13613; 17% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3371; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (376; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (109; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -44,14 +44,14 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `ADJ`
 
-3369 <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> tokens (78% of all `ADJ` tokens) have a non-empty value of `Definite`.
+3371 <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> tokens (78% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2691; 80%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2660; 79%), <tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1748; 52%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2692; 80%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2662; 79%), <tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1749; 52%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (1097; 33% of non-empty `Definite`): <em>virðulegi, fyrsta, síðustu, síðasta, íslenska, næsta, næstu, besta, fyrri, vinstri</em>
-* `Ind` (2272; 67% of non-empty `Definite`): <em>hægt, gott, rétt, miklu, mikilvægt, sjálfsögðu, ljóst, erfitt, góð, nógu</em>
+* `Def` (1098; 33% of non-empty `Definite`): <em>virðulegi, fyrsta, síðustu, síðasta, íslenska, næsta, næstu, besta, fyrri, vinstri</em>
+* `Ind` (2273; 67% of non-empty `Definite`): <em>hægt, gott, rétt, miklu, mikilvægt, sjálfsögðu, ljóst, erfitt, góð, nógu</em>
 * `EMPTY` (949): <em>hv., hæstv., sammála, sama, mismunandi, 2., eigin, 1., fyrrverandi, núverandi</em>
 
 <table>
@@ -88,14 +88,14 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 ### `DET`
 
-378 <tt><a href="is_modern-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Definite`.
+376 <tt><a href="is_modern-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="is_modern-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (378; 100%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (259; 69%), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (219; 58%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="is_modern-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (376; 100%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (257; 68%), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (218; 58%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (165; 44% of non-empty `Definite`): <em>meiri, meira, fleiri, eina, eini, mesta, einu, fleira, miklu, minna</em>
-* `Ind` (213; 56% of non-empty `Definite`): <em>mikið, margir, mikil, miklu, margt, mörgu, einu, marga, margra, mörgum</em>
+* `Def` (164; 44% of non-empty `Definite`): <em>meiri, meira, fleiri, eina, eini, mesta, einu, fleira, miklu, minna</em>
+* `Ind` (212; 56% of non-empty `Definite`): <em>mikið, margir, mikil, miklu, margt, mörgu, einu, marga, margra, mörgum</em>
 * `EMPTY` (3324): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
 
 <table>
@@ -154,7 +154,7 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 
 * `Def` (28; 26% of non-empty `Definite`): <em>meira, fleiri, meiri, ytra, þyngra, endilega, eðlilega, hagfræðilega, miklu, minna</em>
 * `Ind` (81; 74% of non-empty `Definite`): <em>rétt, mikil, mikið, mörgum, veginn, dæmis, mikinn, skýrt, margir, mikla</em>
-* `EMPTY` (6851): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+* `EMPTY` (6850): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
 
 <table>
   <tr><th>Paradigm <i>mikið</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -186,7 +186,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 `VERB` tokens may have the following values of `Definite`:
 
 * `Ind` (7; 100% of non-empty `Definite`): <em>búið, Tilkynnt, afmörkuð, tiltekinn</em>
-* `EMPTY` (9288): <em>fara, gera, hringir, held, koma, taka, þakka, kemur, á, segja</em>
+* `EMPTY` (9289): <em>fara, gera, hringir, held, koma, taka, þakka, kemur, á, segja</em>
 
 ### `X`
 
@@ -213,14 +213,14 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> NOUN</tt> (891; 69%),
-<tt>NOUN --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> NOUN</tt> (616; 91%),
+<tt>NOUN --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> NOUN</tt> (893; 69%),
+<tt>NOUN --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> NOUN</tt> (619; 91%),
 <tt>NOUN --[<tt><a href="is_modern-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (607; 67%),
 <tt>PROPN --[<tt><a href="is_modern-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (258; 68%),
 <tt>NOUN --[<tt><a href="is_modern-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (168; 58%),
 <tt>PROPN --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> PROPN</tt> (143; 53%),
 <tt>ADJ --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> NOUN</tt> (122; 55%),
 <tt>ADJ --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> NOUN</tt> (119; 85%),
-<tt>NOUN --[<tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (94; 58%),
+<tt>NOUN --[<tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (95; 59%),
 <tt>ADJ --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> ADJ</tt> (88; 74%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2150 nodes (1%) are attached to their parents as `det`.
+1786 nodes (1%) are attached to their parents as `det`.
 
-1583 instances of `det` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72976744186047.
+1584 instances of `det` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21724524076148.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (2034; 95% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (42; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (38; 2% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ar_padt-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1722; 96% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (29; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ar_padt-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,29 +62,45 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 det	color:blue
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 32 31 det	color:blue
 1	و	وَ	CCONJ	C---------	_	0	root	0:root	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
-2	من	مِن	ADP	P---------	AdpType=Prep	3	case	3:case	Gloss=from|LTranslit=min|Root=min|Translit=min|Vform=مِن
-3	أبرز	أَبرَز	ADJ	A-----MS2R	Case=Gen|Definite=Cons|Gender=Masc|Number=Sing	1	parataxis	1:parataxis	Vform=أَبرَزِ|Gloss=more_/_most_prominent|Root=b r z|Translit=ʾabrazi|LTranslit=ʾabraz
-4	من	مَن	DET	S---------	_	3	det	3:det	Vform=مَن|Gloss=who|Root=man|Translit=man|LTranslit=man
-5	أفتوا	أَفتَى	VERB	VP-A-3MP--	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Act	3	acl	3:acl	Vform=أَفتَوا|Gloss=deliver_a_fatwa_(_legal_opinion_),opine|Root=f t w|Translit=ʾaftaw|LTranslit=ʾaftā
-6	ب	بِ	ADP	P---------	AdpType=Prep	7	case	7:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
-7	تكفير	تَكفِير	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	5	obl:arg	5:obl:arg:بِ:gen	Gloss=atonement,penance|LTranslit=takfīr|Root=k f r|Translit=takfīri|Vform=تَكفِيرِ
-8	البهائيين	بَهَائِيّ	ADJ	A-----MP2D	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	7	amod	7:amod	Vform=اَلبَهَائِيِّينَ|Gloss=Baha'i|Root=b h w|Translit=al-bahāʾīyīna|LTranslit=bahāʾīy
-9	شيخ	شَيخ	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	3	nsubj	3:nsubj	Vform=شَيخُ|Gloss=sheikh,chieftain,senators|Root=^s y _h|Translit=šayḫu|LTranslit=šayḫ
-10	الأزهر	أَزهَر	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	9	nmod	9:nmod:gen	Vform=اَلأَزهَرِ|Gloss=Azhar|Root=z h r|Translit=al-ʾazhari|LTranslit=ʾazhar
-11	السابق	سَابِق	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	amod	9:amod	Vform=اَلسَّابِقُ|Gloss=former,previous,preceding,early|Root=s b q|Translit=as-sābiqu|LTranslit=sābiq
-12	الدكتور	دُكتُور	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	17	nmod	17:nmod:nom	Vform=اَلدُّكتُورُ|Gloss=doctor|Root=d k t r|Translit=ad-duktūru|LTranslit=duktūr
-13	جاد	جاد	X	U---------	_	17	nmod	17:nmod	Vform=جاد|Root=OOV|Translit=ǧād
-14	الحق	الحق	X	U---------	_	17	nmod	17:nmod	Vform=الحق|Root=OOV|Translit=ālḥq
-15	علي	علي	X	U---------	_	17	nmod	17:nmod	Vform=علي|Root=OOV|Translit=ʿly
-16	جاد	جاد	X	U---------	_	17	nmod	17:nmod	Vform=جاد|Root=OOV|Translit=ǧād
-17	الحق	الحق	X	U---------	_	9	nmod	9:nmod	SpaceAfter=No|Vform=الحق|Root=OOV|Translit=ālḥq
-18	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
+2	أعلن	أَعلَن	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	1	parataxis	1:parataxis	Gloss=announce,declare|LTranslit=ʾaʿlan|Root=` l n|Translit=ʾaʿlana|Vform=أَعلَنَ
+3	البيان	بَيَان	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	2	nsubj	2:nsubj	Vform=اَلبَيَانُ|Gloss=communique,statement,declaration|Root=b y n|Translit=al-bayānu|LTranslit=bayān
+4	ان	أَنَّ	SCONJ	C---------	_	7	mark	7:mark	Vform=أَنَّ|Gloss=that|Root=' n|Translit=ʾanna|LTranslit=ʾanna
+5	"	"	PUNCT	G---------	_	7	punct	7:punct	SpaceAfter=No|Vform="|Translit="
+6	عبادي	عبادي	X	U---------	_	7	nsubj	7:nsubj	Vform=عبادي|Root=OOV|Translit=ʿbādy
+7	قالت	قَال	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	2	ccomp	2:ccomp	Vform=قَالَت|Gloss=say,tell|Root=q w l|Translit=qālat|LTranslit=qāl
+8	إن	إِنَّ	PART	F---------	_	10	mark	10:mark	Gloss=indeed|LTranslit=ʾinna|Root=' n|Translit=ʾinna|Vform=إِنَّ
+9	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	Gloss=he,she,it|LTranslit=huwa|Translit=hā|Vform=هَا
+10	تاسف	أَسِف	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	7	ccomp	7:ccomp	Vform=تَأسَفُ|Gloss=be_sorry,regret|Root=' s f|Translit=taʾsafu|LTranslit=ʾasif
+11	ب	بِ	ADP	P---------	AdpType=Prep	12	case	12:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
+12	شدة	شِدَّة	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	10	obl	10:obl:بِ:gen	Gloss=intensity,forcefulness|LTranslit=šiddat|Root=^s d d|Translit=šiddatin|Vform=شِدَّةٍ
+13	ل	لِ	ADP	P---------	AdpType=Prep	14	case	14:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
+14	ما	مَا	DET	S---------	PronType=Int	10	obl:arg	10:obl:arg:لِ:gen	Gloss=what,which|LTranslit=mā|Root=mA|Translit=mā|Vform=مَا
+15	قامت	قَام	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	14	acl	14:acl	Vform=قَامَت|Gloss=undertake,carry_out|Root=q w m|Translit=qāmat|LTranslit=qām
+16	ب	بِ	ADP	P---------	AdpType=Prep	17	case	17:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
+17	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	15:nmod:بِ:gen	Gloss=he,she,it|LTranslit=huwa|Translit=hi|Vform=هِ
+18	و	وَ	CCONJ	C---------	_	23	cc	23:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
+19	أن	أَنَّ	SCONJ	C---------	_	23	mark	23:mark	Gloss=that|LTranslit=ʾanna|Root=' n|Translit=ʾanna|Vform=أَنَّ
+20	اعداد	إِعدَاد	NOUN	N------S4R	Case=Acc|Definite=Cons|Number=Sing	23	nsubj	23:nsubj	Vform=إِعدَادَ|Gloss=preparation|Root=` d d|Translit=ʾiʿdāda|LTranslit=ʾiʿdād
+21	هذا	هٰذَا	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	22	det	22:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
+22	الشريط	شَرِيط	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	20	nmod	20:nmod:gen	Vform=اَلشَّرِيطِ|Gloss=tape,strip,ribbon|Root=^s r .t|Translit=aš-šarīṭi|LTranslit=šarīṭ
+23	جاء	جَاء	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	10	conj	7:ccomp|10:conj	Vform=جَاءَ|Gloss=arrive,come,occur|Root=^g y '|Translit=ǧāʾa|LTranslit=ǧāʾ
+24	ب	بِ	ADP	P---------	AdpType=Prep	25	case	25:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
+25	مبادرة	مُبَادَرَة	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	23	obl	23:obl:بِ:gen	Gloss=initiative,proposal|LTranslit=mubādarat|Root=b d r|Translit=mubādaratin|Vform=مُبَادَرَةٍ
+26	من	مِن	ADP	P---------	AdpType=Prep	27	case	27:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
+27	رحمي	رحمي	X	U---------	_	25	nmod	25:nmod:مِن:gen	Vform=رحمي|Root=OOV|Translit=rḥmy
+28	و	وَ	CCONJ	C---------	_	30	cc	30:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
+29	في	فِي	ADP	P---------	AdpType=Prep	30	case	30:case	Gloss=in|LTranslit=fī|Root=fI|Translit=fī|Vform=فِي
+30	مكتب	مَكتَب	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	25	conj	23:obl:بِ:gen|25:conj	Vform=مَكتَبِ|Gloss=bureau,office,department|Root=k t b|Translit=maktabi|LTranslit=maktab
+31	هذا	هٰذَا	DET	SD----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	32	det	32:det	Vform=هٰذَا|Gloss=this,these|Root=h|Translit=hāḏā|LTranslit=hāḏā
+32	الاخير	أَخِير	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	30	amod	30:amod	SpaceAfter=No|Vform=اَلأَخِيرِ|Gloss=last,latest,recent,latter|Root=' _h r|Translit=al-ʾaḫīri|LTranslit=ʾaḫīr
+33	"	"	PUNCT	G---------	_	7	punct	7:punct	SpaceAfter=No|Vform="|Translit="
+34	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
 ~~~
 

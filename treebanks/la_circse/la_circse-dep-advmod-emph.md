@@ -60,16 +60,16 @@ The following 20 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 advmod:emph	color:blue
-1	silentium	silentium	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	10	nsubj:pass	_	LiLaflcat=n2
-2	per	per	ADP	R	_	3	case	_	LiLaflcat=i
-3	sacerdotes	sacerdos	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	10	obl	_	LiLaflcat=n3
-4	quibus	qui	PRON	J	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	3	acl:relcl	_	LASLAVariant=1|LiLaflcat=p
-5	tum	tum	ADV	M	AdvType=Tim	4	advmod:tmod	_	LiLaflcat=i
-6	et	et	CCONJ	M	_	8	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
-7	coercendi	coerceo	VERB	B2	Aspect=Prosp|Case=Gen|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	8	acl	_	LiLaflcat=v2|TraditionalMood=Gerundium
-8	ius	ius	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	4	nsubj	_	LASLAVariant=1|LiLaflcat=n3
-9	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens
-10	imperatur	impero	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v1|TraditionalMood=Indicativus|TraditionalTense=Praesens
+1	silentium	silentium	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	10	nsubj:pass	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-67_1
+2	per	per	ADP	R	_	3	case	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-67_2
+3	sacerdotes	sacerdos	NOUN	A3	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	10	obl	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-67_3
+4	quibus	qui	PRON	J	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	3	acl:relcl	_	LASLAVariant=1|LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-67_4
+5	tum	tum	ADV	M	AdvType=Tim	4	advmod:tmod	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-67_5
+6	et	et	CCONJ	M	_	8	advmod:emph	_	LASLAVariant=1|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-67_6
+7	coercendi	coerceo	VERB	B2	Aspect=Prosp|Case=Gen|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	8	acl	_	LiLaflcat=v2|TraditionalMood=Gerundium|UniqueTokenId=TacGerma-Q-01-67_7
+8	ius	ius	NOUN	A3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	4	nsubj	_	LASLAVariant=1|LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-67_8
+9	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-67_9
+10	imperatur	impero	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v1|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-67_10
 
 ~~~
 

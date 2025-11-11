@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ondoren</em> (<tt><a href="eu_bdt-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.135088 (the average of all parts of speech is 2.170132).
+The form / lemma ratio of `ADV` is 1.135088 (the average of all parts of speech is 2.170046).
 
 The 1st highest number of forms (7) was observed with the lemma “gora”: <em>Goren, gora, gorago, goragoko, gorako, gorantz, goranzkoak</em>.
 

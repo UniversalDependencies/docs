@@ -11,7 +11,7 @@ It occurs with 13 different values: `Abl`, `Ade`, `All`, `Com`, `Ela`, `Ess`, `G
 
 619 tokens (48%) have a non-empty value of `Case`.
 386 types (65%) occur at least once with a non-empty value of `Case`.
-232 lemmas (61%) occur at least once with a non-empty value of `Case`.
+229 lemmas (61%) occur at least once with a non-empty value of `Case`.
 The feature is used with 6 part-of-speech tags: <tt><a href="vep_vwt-pos-NOUN.html">NOUN</a></tt> (310; 24% instances), <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> (168; 13% instances), <tt><a href="vep_vwt-pos-ADJ.html">ADJ</a></tt> (78; 6% instances), <tt><a href="vep_vwt-pos-PROPN.html">PROPN</a></tt> (45; 3% instances), <tt><a href="vep_vwt-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> (7; 1% instances).
 
 ### `NOUN`
@@ -22,17 +22,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (2; 1% of non-empty `Case`): <em>laps'aigaspäi, posadaspäi</em>
-* `Ade` (37; 12% of non-empty `Case`): <em>kelel, mal, randal, aigal, Homendesel, Kezal, Tal'vel, avtobusal, der'ounadme, kodikelel</em>
+* `Abl` (2; 1% of non-empty `Case`): <em>lapsʼaigaspäi, posadaspäi</em>
+* `Ade` (37; 12% of non-empty `Case`): <em>kelel, mal, randal, aigal, Homendesel, Kezal, Talʼvel, avtobusal, derʼounadme, kodikelel</em>
 * `All` (5; 2% of non-empty `Case`): <em>azjale, kodimale, lebupäivile, radsijale, ristituile</em>
 * `Com` (8; 3% of non-empty `Case`): <em>vepsläižidenke, kaluidenke, kiviradnikoidenke, pertidenno, sündundpäivänke, vanhembidenke, vellenke</em>
 * `Ela` (3; 1% of non-empty `Case`): <em>kanzaspäi, külišpäi, polespäi</em>
 * `Ess` (4; 1% of non-empty `Case`): <em>omblijan, opendajan, paštajan, ühtnikan</em>
-* `Gen` (47; 15% of non-empty `Case`): <em>külän, kanzan, kul'tursebran, aigan, elon, eläjiden, vepsläižiden, školan, Tatan, Valičusiden</em>
+* `Gen` (47; 15% of non-empty `Case`): <em>külän, kanzan, kulʼtursebran, aigan, elon, eläjiden, vepsläižiden, školan, Tatan, Valičusiden</em>
 * `Ill` (18; 6% of non-empty `Case`): <em>školha, agjaha, eloho, kivikarjeroihe, kodihe, kodimaha, konkursoihe, külähä, küzundoihe, maha</em>
 * `Ine` (31; 10% of non-empty `Case`): <em>kanzas, küläs, elos, internatas, mirus, muzejas, posadas, südäimes, školas, agjas</em>
-* `Nom` (88; 28% of non-empty `Case`): <em>lapsed, ristitud, rad, elo, aig, der'oun, eläjad, pagin, praznik, rahvaz</em>
-* `Par` (63; 20% of non-empty `Case`): <em>kel't, jurid, rahvast, vot, adivoid, elod, projektoid, ristituid, tedoid, väged</em>
+* `Nom` (88; 28% of non-empty `Case`): <em>lapsed, ristitud, rad, elo, aig, derʼoun, eläjad, pagin, praznik, rahvaz</em>
+* `Par` (63; 20% of non-empty `Case`): <em>kelʼt, jurid, rahvast, vot, adivoid, elod, projektoid, ristituid, tedoid, väged</em>
 * `Ter` (1; 0% of non-empty `Case`): <em>lophusai</em>
 * `Tra` (3; 1% of non-empty `Case`): <em>pämeheks, Ozutesikš</em>
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Gen` (24; 31% of non-empty `Case`): <em>vepsän, enččen, enččiden, suren, toižen, vepsläižen, vägevan</em>
 * `Ill` (1; 1% of non-empty `Case`): <em>verhaze</em>
 * `Ine` (3; 4% of non-empty `Case`): <em>erazvuiččiš, hüväs, vepsläižes</em>
-* `Nom` (29; 37% of non-empty `Case`): <em>hüvä, erazvuiččed, jüged, kebn, tärged, äi, čoma, bohat, kaks'keline, kulu</em>
+* `Nom` (29; 37% of non-empty `Case`): <em>hüvä, erazvuiččed, jüged, kebn, tärged, äi, čoma, bohat, kaksʼkeline, kulu</em>
 * `Par` (11; 14% of non-empty `Case`): <em>ezmäižid, hüväd, korktad, kovad, melentartuižid, rahvahališt, sijališt, sotovijad, ut, vepsläšt</em>
 
 <table>
@@ -100,10 +100,10 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Ade` (1; 2% of non-empty `Case`): <em>Venämal</em>
 * `Com` (1; 2% of non-empty `Case`): <em>Silakovanke</em>
 * `Ela` (2; 4% of non-empty `Case`): <em>Kaskezaspäi, Tožegespäi</em>
-* `Gen` (12; 27% of non-empty `Case`): <em>Piterin, Vepsän, Änižjärven, Karjalan, Kod'arven, Natalja, Päžarven, Vologdan, Änižen</em>
+* `Gen` (12; 27% of non-empty `Case`): <em>Piterin, Vepsän, Änižjärven, Karjalan, Kodʼarven, Natalja, Päžarven, Vologdan, Änižen</em>
 * `Ill` (4; 9% of non-empty `Case`): <em>Päžarvehe, Kaskezaha</em>
 * `Ine` (4; 9% of non-empty `Case`): <em>Kalages, Kaskezas, ORDas, Päžarves</em>
-* `Nom` (18; 40% of non-empty `Case`): <em>Kalag', Natalja, Kaskez, Silakova, Himjogi, Jevgenjevna, Kalarand, Päžar'</em>
+* `Nom` (18; 40% of non-empty `Case`): <em>Kalagʼ, Natalja, Kaskez, Silakova, Himjogi, Jevgenjevna, Kalarand, Päžarʼ</em>
 * `Par` (1; 2% of non-empty `Case`): <em>Jevgenjevnad</em>
 * `Ter` (1; 2% of non-empty `Case`): <em>Toižegehesai</em>
 
@@ -122,12 +122,12 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 * `Ade` (1; 9% of non-empty `Case`): <em>23.</em>
 * `Ine` (1; 9% of non-empty `Case`): <em>ühtes</em>
-* `Nom` (8; 73% of non-empty `Case`): <em>40, 15, 2017, kahesa, kaks', koume, üks'</em>
+* `Nom` (8; 73% of non-empty `Case`): <em>40, 15, 2017, kahesa, kaksʼ, koume, üksʼ</em>
 * `Par` (1; 9% of non-empty `Case`): <em>kaht</em>
 
 <table>
-  <tr><th>Paradigm <i>kaks'</i></th><th><tt>Nom</tt></th><th><tt>Par</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>kaks'</em></td><td><em>kaht</em></td></tr>
+  <tr><th>Paradigm <i>kaksʼ</i></th><th><tt>Nom</tt></th><th><tt>Par</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>kaksʼ</em></td><td><em>kaht</em></td></tr>
 </table>
 
 ### `VERB`
@@ -139,7 +139,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 `VERB` tokens may have the following values of `Case`:
 
 * `Ill` (7; 100% of non-empty `Case`): <em>radmaha, elämaha, kacmaha, opendamhas, rata, valitihe</em>
-* `EMPTY` (176): <em>tehta, eläba, eläda, radoin, ajoin, el'geta, seižub, Išttes, abutab, el'genzin</em>
+* `EMPTY` (176): <em>tehta, eläba, eläda, radoin, ajoin, elʼgeta, seižub, Išttes, abutab, elʼgenzin</em>
 
 ## Relations with Agreement in `Case`
 

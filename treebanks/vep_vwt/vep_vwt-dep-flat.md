@@ -25,8 +25,8 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Natalja	Natalja	PROPN	_	Case=Nom|Number=Sing	5	nsubj:cop	_	_
 2	Silakova	Silakova	PROPN	_	Case=Nom|Number=Sing	1	flat	_	_
 3	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-4	üks'	üks'	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod	_	_
-5	heišpäi	hö	PRON	_	Case=Ela|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+4	üksʼ	üksʼ	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod	_	_
+5	heišpäi	hän	PRON	_	Case=Ela|Number=Plur|Person=3|PronType=Prs	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

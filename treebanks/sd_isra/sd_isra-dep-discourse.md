@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `discourse`.
+100 nodes (0%) are attached to their parents as `discourse`.
 
-14 instances of `discourse` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.31578947368421.
+78 instances of `discourse` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.81.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (11; 58% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (3; 16% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (2; 11% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
+The following 14 pairs of parts of speech are connected with `discourse`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (48; 48% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (27; 27% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (7; 7% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 4 1 discourse	color:blue
 1	چڱو	چڱو	INTJ	INTJ	_	4	discourse	_	_
 2	آءٌ	آءٌ	PRON	PRP	Case=Nom|Number=Sing|Person=1	4	nsubj	_	_
-3	پاڻهي	_	DET	PRD	Case=Nom|Number=Sing	4	advmod	_	_
+3	پاڻهي	_	DET	PRD	Case=Nom|Number=Sing|PronType=Dem	4	advmod	_	_
 4	ڳولهي	ڳوله	VERB	VM	Aspect=Imp|Number=Sing	6	xcomp	_	_
 5	ٿو	آهي	AUX	VAUX	Gender=Masc|Number=Sing|Tense=Pres	4	aux	_	_
 6	ڏسانس	ڏس	VERB	VMX	Aspect=Imp|Number=Sing|Number[subj]=Sing|Person[subj]=3|Voice=Act	0	root	_	_

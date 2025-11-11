@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Tem`.
 
-7059 tokens (4%) have a non-empty value of `Case`.
-47 types (0%) occur at least once with a non-empty value of `Case`.
-33 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4336; 3% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (2585; 2% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (112; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (26; 0% instances).
+7058 tokens (4%) have a non-empty value of `Case`.
+46 types (0%) occur at least once with a non-empty value of `Case`.
+32 lemmas (0%) occur at least once with a non-empty value of `Case`.
+The feature is used with 4 part-of-speech tags: <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4335; 3% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (2585; 2% instances), <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> (112; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (26; 0% instances).
 
 ### `ADP`
 
-4336 <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> tokens (16% of all `ADP` tokens) have a non-empty value of `Case`.
+4335 <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> tokens (16% of all `ADP` tokens) have a non-empty value of `Case`.
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Acc` (1999; 46% of non-empty `Case`): את, את_, אתכם, אתו, אתם
+* `Acc` (1998; 46% of non-empty `Case`): את, את_, אתכם, אתם
 * `Gen` (2331; 54% of non-empty `Case`): של, של_, שלהם, שלו, שלה, _של_, שלנו
 * `Tem` (6; 0% of non-empty `Case`): כש, מ, מש
-* `EMPTY` (22250): ב, ל, _של_, מ, על, כ, עם, ל_, ב_, בין
+* `EMPTY` (22251): ב, ל, _של_, מ, על, כ, עם, ל_, ב_, בין
 
 ### `PRON`
 

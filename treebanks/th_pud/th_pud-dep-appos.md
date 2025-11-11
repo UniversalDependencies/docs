@@ -23,15 +23,15 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 9 appos	color:blue
 1	พวก	พวก	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
-2	เขา	เขา	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
+2	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	1	compound	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 3	จะ	จะ	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
-4	เล่น	เล่น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lé¹n|LTranslit=lé¹n
+4	เล่น	เล่น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lèːn|LTranslit=lèːn
 5	ใน	ใน	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-6	วัน	วัน	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=wân|LTranslit=wân
-7	เสาร์	เสาร์	NOUN	NN	_	6	appos	_	SpaceAfter=No|Translit=saor|LTranslit=saor
-8	ที่	ที่	NOUN	NN	_	6	compound	_	Translit=dʰí¹|LTranslit=dʰí¹
+6	วัน	วัน	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
+7	เสาร์	เสาร์	NOUN	NN	_	6	appos	_	SpaceAfter=No|Translit=saoːr|LTranslit=saoːr
+8	ที่	ที่	NOUN	NN	_	6	compound	_	Translit=dʰìː|LTranslit=dʰìː
 9	10	10	NUM	CD	_	6	appos	_	Translit=10|LTranslit=10
-10	มิถุนายน	มิถุนายน	NOUN	NN	_	9	obl:tmod	_	Translit=mitʰunáyn|LTranslit=mitʰunáyn
+10	มิถุนายน	มิถุนายน	NOUN	NN	_	9	obl:tmod	_	Translit=mitʰunaːyn|LTranslit=mitʰunaːyn
 
 ~~~
 
@@ -42,18 +42,18 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 appos	color:blue
-1	พระเจ้า	พระเจ้า	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=bʰračao²|LTranslit=bʰračao²
+1	พระเจ้า	พระเจ้า	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=bʰračaôː|LTranslit=bʰračaôː
 2	ฟิลิป	ฟิลิป	PROPN	NNP	_	1	appos	_	SpaceAfter=No|Translit=filip|LTranslit=filip
 3	ทรง	ทรง	VERB	MD	_	0	root	_	SpaceAfter=No|Translit=dʰrŋ|LTranslit=dʰrŋ
 4	ยก	ยก	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=yk|LTranslit=yk
-5	ทัพ	ทัพ	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=dʰâbʰ|LTranslit=dʰâbʰ
-6	ไป	ไป	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pai|LTranslit=pai
-7	ประจัญ	ประจัญ	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=pračâŷ|LTranslit=pračâŷ
-8	กับ	กับ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kâb|LTranslit=kâb
-9	ศัตรู	ศัตรู	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=śâtrú|LTranslit=śâtrú
-10	ทาง	ทาง	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=dʰáŋ|LTranslit=dʰáŋ
+5	ทัพ	ทัพ	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=dʰạbʰ|LTranslit=dʰạbʰ
+6	ไป	ไป	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
+7	ประจัญ	ประจัญ	VERB	VV	_	4	acl	_	SpaceAfter=No|Translit=pračạŷ|LTranslit=pračạŷ
+8	กับ	กับ	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
+9	ศัตรู	ศัตรู	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=śạtruː|LTranslit=śạtruː
+10	ทาง	ทาง	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=dʰaːŋ|LTranslit=dʰaːŋ
 11	ตอน	ตอน	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
-12	ใต้	ใต้	NOUN	NN	_	11	compound	_	Translit=tai²|LTranslit=tai²
+12	ใต้	ใต้	NOUN	NN	_	11	compound	_	Translit=taî|LTranslit=taî
 
 ~~~
 
@@ -65,15 +65,15 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 7 appos	color:blue
 1	พวก	พวก	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
-2	เขา	เขา	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
+2	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	1	compound	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 3	จะ	จะ	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
-4	เล่น	เล่น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lé¹n|LTranslit=lé¹n
+4	เล่น	เล่น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lèːn|LTranslit=lèːn
 5	ใน	ใน	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-6	วัน	วัน	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=wân|LTranslit=wân
-7	เสาร์	เสาร์	NOUN	NN	_	6	appos	_	SpaceAfter=No|Translit=saor|LTranslit=saor
-8	ที่	ที่	NOUN	NN	_	6	compound	_	Translit=dʰí¹|LTranslit=dʰí¹
+6	วัน	วัน	NOUN	NN	_	4	obl	_	SpaceAfter=No|Translit=wạn|LTranslit=wạn
+7	เสาร์	เสาร์	NOUN	NN	_	6	appos	_	SpaceAfter=No|Translit=saoːr|LTranslit=saoːr
+8	ที่	ที่	NOUN	NN	_	6	compound	_	Translit=dʰìː|LTranslit=dʰìː
 9	10	10	NUM	CD	_	6	appos	_	Translit=10|LTranslit=10
-10	มิถุนายน	มิถุนายน	NOUN	NN	_	9	obl:tmod	_	Translit=mitʰunáyn|LTranslit=mitʰunáyn
+10	มิถุนายน	มิถุนายน	NOUN	NN	_	9	obl:tmod	_	Translit=mitʰunaːyn|LTranslit=mitʰunaːyn
 
 ~~~
 

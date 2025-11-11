@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-80 nodes (3%) are attached to their parents as `root`.
+155 nodes (4%) are attached to their parents as `root`.
 
-80 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.3875.
+155 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.6387096774194.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (55; 69% instances), -<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (19; 24% instances), -<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), -<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 1% instances), -<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 1% instances), -<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (99; 64% instances), -<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (34; 22% instances), -<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), -<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (4; 3% instances), -<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (4; 3% instances), -<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), -<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), -<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 1% instances), -<tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,9 +56,9 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 8 root	color:blue
-1	زما	زما	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Translit=zmâ|LTranslit=zmâ|Gloss=my
+1	زما	زۀ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Translit=zmâ|LTranslit=zë|Gloss=my
 2	پلار	پلار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Translit=plâr|LTranslit=plâr|Gloss=father
-3	ستا	ستا	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Translit=stâ|LTranslit=stâ|Gloss=your
+3	ستا	تۀ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Translit=stâ|LTranslit=të|Gloss=your
 4	له	له	ADP	_	Case=Acc	5	case	_	Translit=la|LTranslit=la|Gloss=from
 5	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=plâr|LTranslit=plâr|Gloss=father
 6	څخه	څخه	ADP	_	Case=Acc	5	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from

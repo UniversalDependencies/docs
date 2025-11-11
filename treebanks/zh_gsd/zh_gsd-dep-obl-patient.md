@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `obl:patient`
 
 This relation is a language-specific subtype of <tt><a href="zh_gsd-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="zh_gsd-dep-obl-agent.html">obl:agent</a></tt>.
 
 196 nodes (0%) are attached to their parents as `obl:patient`.
 
@@ -68,13 +69,13 @@ The following 6 pairs of parts of speech are connected with `obl:patient`: <tt><
 11	高中	高中	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=gāozhōng|LTranslit=gāozhōng
 12	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	但	但	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
-14	他	他	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
+14	他	他	PRON	PRP	Person=3	21	nsubj:pass	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 15	又	又	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 16	因	因	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
 17	偷竊	偷竊	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=tōuqiè|LTranslit=tōuqiè
 18	而	而	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 19	被	被	AUX	BB	Voice=Pass	21	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-20	學校	學校	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=xuéxiào|LTranslit=xuéxiào
+20	學校	學校	NOUN	NN	_	21	obl:agent	_	SpaceAfter=No|Translit=xuéxiào|LTranslit=xuéxiào
 21	開除	開除	VERB	VV	_	10	parataxis	_	SpaceAfter=No|Translit=kāichú|LTranslit=kāichú
 22	。	。	PUNCT	.	_	10	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 

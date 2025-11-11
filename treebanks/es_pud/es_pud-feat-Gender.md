@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-11661 tokens (50%) have a non-empty value of `Gender`.
+11660 tokens (50%) have a non-empty value of `Gender`.
 4255 types (72%) occur at least once with a non-empty value of `Gender`.
 3457 lemmas (77%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4717; 20% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3331; 14% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1452; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (709; 3% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (613; 3% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (430; 2% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (394; 2% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (15; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (4717; 20% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3330; 14% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1452; 6% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (709; 3% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (613; 3% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (430; 2% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (394; 2% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (15; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (1998; 42% of non-empty `Gender`): <em>guerra, parte, ciudad, vez, personas, historia, región, mayoría, vida, veces</em>
 * `Masc` (2719; 58% of non-empty `Gender`): <em>años, año, lugar, gobierno, estado, millones, día, embargo, mar, mundo</em>
-* `EMPTY` (98): <em>internet, arte, Bank, GCA, Ground, News, North, Street, estudiantes, inmigrantes</em>
+* `EMPTY` (100): <em>internet, arte, Bank, GCA, Ground, News, North, Street, cápita, estudiantes</em>
 
 <table>
   <tr><th>Paradigm <i>todo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -36,14 +36,14 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-3331 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+3330 <tt><a href="es_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2985; 90%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2533; 76%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2529; 76%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2984; 90%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2532; 76%), <tt><a href="es_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2528; 76%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (1344; 40% of non-empty `Gender`): <em>la, las, una, esta, muchas, todas, otra, cada, varias, estas</em>
-* `Masc` (1987; 60% of non-empty `Gender`): <em>el, los, un, este, esto, ese, cada, muchos, eso, estos</em>
+* `Masc` (1986; 60% of non-empty `Gender`): <em>el, los, un, este, esto, ese, cada, muchos, eso, estos</em>
 * `EMPTY` (8): <em>The, a, That</em>
 
 <table>

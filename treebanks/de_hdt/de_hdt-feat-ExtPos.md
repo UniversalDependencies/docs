@@ -11,7 +11,7 @@ It occurs with 2 different values: `ADV`, `SCONJ`.
 
 64 tokens (0%) have a non-empty value of `ExtPos`.
 5 types (0%) occur at least once with a non-empty value of `ExtPos`.
-5 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+4 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
 The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (60; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADP`

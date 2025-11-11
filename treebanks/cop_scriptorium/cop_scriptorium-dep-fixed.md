@@ -25,7 +25,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	4	mark	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	ϫⲡⲟ	ϫⲡⲟ	VERB	V	VerbForm=Fin	0	root	_	Orig=ϫⲡⲟ̂
+4	ϫⲡⲟ	ϫⲡⲟ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ϫⲡⲟ̂
 5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	Orig=ⲛ̄
 6	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	4	obj	_	Entity=(person-Isaac)|Orig=ⲓ̈ⲥⲁⲁⲕ`|OrigLang=heb
 7	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	9	case	_	_
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=SCONJ	4	mark	_	_
 2	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	1	fixed	_	_
 3	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ϫⲱ	ϫⲱ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	_
 6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
@@ -72,7 +72,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	ⲉⲓⲥ	ⲉⲓⲥ	PART	PTC	ExtPos=ADV	4	advmod	_	_
 2	ϩⲏⲏⲧⲉ	ϩⲏⲏⲧⲉ	PART	PTC	_	1	fixed	_	_
 3	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-4	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	VerbForm=Fin	0	root	_	Orig=ϭⲱϣⲧ̅
+4	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ϭⲱϣⲧ̅
 5	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	4	advmod	_	_
 6	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	4	obj	_	_
 7	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	6	nmod:poss	_	Orig=ⲕ̅

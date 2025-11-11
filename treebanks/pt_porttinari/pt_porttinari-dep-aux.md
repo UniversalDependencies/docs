@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="pt_porttinari-dep-aux-pass.html">aux:pass</a></tt>.
 
-808 nodes (0%) are attached to their parents as `aux`.
+806 nodes (0%) are attached to their parents as `aux`.
 
-808 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27846534653465.
+806 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28660049627792.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (775; 96% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (14; 2% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (773; 96% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (14; 2% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	que	que	PRON	_	PronType=Rel	9	nsubj	4:ref	_
 6	não	não	ADV	_	_	9	advmod	9:advmod	_
 7	irão	ir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	9	aux	9:aux	_
-8	se	se	PRON	_	Case=Nom|Person=3|PronType=Prs	9	expl	9:expl	_
+8	se	se	PRON	_	Case=Acc|Person=3|PronType=Prs	9	expl	9:expl	_
 9	calar	calar	VERB	_	Number=Sing|Person=3|VerbForm=Inf	4	acl:relcl	4:acl:relcl	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	2:punct	_
 

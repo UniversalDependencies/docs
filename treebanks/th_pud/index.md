@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Rattima Nitisaroj, Yanin Sawanakunanon, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Thai-PUD](https://github.com/UniversalDependencies/UD_Thai-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 3.0
 
@@ -35,7 +35,7 @@ If you know the language and want to help, please consider adopting the treebank
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | assigned by a program, not checked manually |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | not available |
 | Features | annotated manually in non-UD style, automatically converted to UD |
@@ -88,7 +88,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Aspect](th_pud-feat-Aspect.html) – [Mood](th_pud-feat-Mood.html) – [Person](th_pud-feat-Person.html) – [Polarity](th_pud-feat-Polarity.html) – [PronType](th_pud-feat-PronType.html) – [Typo](th_pud-feat-Typo.html) – [Voice](th_pud-feat-Voice.html)
+[Aspect](th_pud-feat-Aspect.html) – [ExtPos](th_pud-feat-ExtPos.html) – [Foreign](th_pud-feat-Foreign.html) – [Person](th_pud-feat-Person.html) – [Polarity](th_pud-feat-Polarity.html) – [PronType](th_pud-feat-PronType.html) – [Reflex](th_pud-feat-Reflex.html) – [Typo](th_pud-feat-Typo.html) – [Voice](th_pud-feat-Voice.html)
 
 ## Relations
 
@@ -98,11 +98,11 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences and 22322 tokens.</li>
+<li>This corpus contains 1000 sentences and 22330 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19166 tokens (86%) that are not followed by a space.</li>
+<li>This corpus contains 19174 tokens (86%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -130,7 +130,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as pronouns (PRON): 'Ya, You, กัน, ข้าพเจ้า, คุณ, ฉัน, ตนเอง, ตัวเอง, ต่าง, ทั้งหมด, ที่, นั่น, นั้น, นาย, นี่, นี้, ผม, พระองค์, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์, มัน, มี, ยู, อะไร, อื่น, เขา, เธอ, เรา, เอง, ใคร, ไหน</li>
+<li>This corpus contains 29 lemmas tagged as pronouns (PRON): 'Ya, You, กัน, ข้าพเจ้า, คุณ, ฉัน, ตนเอง, ตัวเอง, ต่าง, ทั้งหมด, ที่, นั่น, นั้น, นาย, นี่, นี้, ผม, พระองค์, มัน, มี, ยู, อะไร, อื่น, เขา, เธอ, เรา, เอง, ใคร, ไหน</li>
 </ul>
 
 <ul>
@@ -204,17 +204,6 @@ employ ten-fold cross-validation.
   </li>
 </ul>
 
-<ul>
-  <li><a>Mood</a></li>
-</ul>
-
-<ul>
-  <li>Imp
-    <ul>
-      <li>VERB: ห้าม</li>
-    </ul>
-  </li>
-</ul>
 
 
 <ul>
@@ -239,18 +228,81 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: เดอะ, อะ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: นี้, นั้น, ดังกล่าว, นั่น, นั้นเอง, นี่</li>
+      <li>PRON: นี้, นี่, นั้น, นั่น, อื่น</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: หลาย, อีก, บาง, ใด, เกือบ</li>
+      <li>PRON: ต่าง</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Int
     <ul>
       <li>ADV: ทำไม, อย่างไร</li>
       <li>DET: อะไร</li>
       <li>PART: หรือเปล่า, หรือไม่, เหรอ, หรือ, ไหม</li>
-      <li>PRON: ใคร, อะไร, ไหน</li>
+      <li>PRON: อะไร, ใคร, ไหน</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: เขา, กัน, เธอ, เรา, ฉัน, มัน, พระองค์, ผม, คุณ, เอง</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>DET: ที่, ซึ่ง, อัน, ผู้, ไหน</li>
+      <li>PRON: ที่, ใคร, ไหน</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: ทุก, ทั้ง, ทั้งหมด, แต่ละ, คนละ, ละ</li>
+      <li>PRON: ทั้งหมด</li>
     </ul>
   </li>
 </ul>
 
 
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: เอง, ตนเอง, ตัวเอง</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -275,7 +327,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>3
     <ul>
-      <li>PRON: เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์</li>
+      <li>PRON: เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง</li>
     </ul>
   </li>
 </ul>
@@ -285,6 +337,61 @@ employ ten-fold cross-validation.
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: หลัง, จน, เนื่อง, โดย, นอก, แม้, จาก, ตั้ง, ตาม, ทาง</li>
+          <li>NOUN: ภาย, เช่น</li>
+          <li>VERB: เกี่ยว, ตั้ง, ได้, นับ</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: อย่าง</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: อย่าง, ถึง, นอก, แม้, แล้ว, โดย, ใน</li>
+          <li>ADV: ยิ่ง</li>
+          <li>CCONJ: อย่าง, จาก, นอก, ใน, ดัง, ถึง, หรือ, หลัง</li>
+          <li>DET: ทั้ง</li>
+          <li>NOUN: ท้าย</li>
+          <li>PART: ไม่</li>
+          <li>VERB: รวม, พร้อม</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: หลัง, เนื่อง, ก่อน, จน, ตาม, แม้, ถึง, ทั้ง, อย่าง, เพื่อ</li>
+          <li>ADV: ตาม, ทันที</li>
+          <li>PART: ไม่</li>
+          <li>VERB: ตั้ง, เว้น, เสีย, แทน</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: นิว</li>
+          <li>ADP: ออน, ออฟ</li>
+          <li>CCONJ: แอนด์</li>
+          <li>DET: เดอะ, อะ</li>
+          <li>NOUN: นาว, พาวเวอร์, วิง, เพรเยอร์, เอิร์ธ</li>
+          <li>PRON: 'Ya, You, มี, ยู</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Typo</a>
@@ -318,7 +425,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (566)</li>
-      <li>VERB--PRON (228)</li>
+      <li>VERB--PRON (229)</li>
     </ul>
   </li>
 </ul>
@@ -326,7 +433,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1243)</li>
+      <li>VERB--NOUN (1244)</li>
       <li>VERB--NOUN-ADP(ของ) (1)</li>
       <li>VERB--NOUN-ADP(อัน) (1)</li>
       <li>VERB--PRON (74)</li>
@@ -344,6 +451,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 5 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: ปกครอง ตนเอง, ป้องกัน ตัวเอง, สถาปนา ตนเอง, สน ตัวเอง, เคารพ ตัวเอง</li>
+</ul>
 
 <h3>Relations Overview</h3>
 

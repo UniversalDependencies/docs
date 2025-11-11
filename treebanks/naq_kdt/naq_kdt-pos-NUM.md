@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ǀgui</em> (<tt><a href="naq_kdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.392157 (the average of all parts of speech is 1.374017).
+The form / lemma ratio of `NUM` is 1.392157 (the average of all parts of speech is 1.375985).
 
 The 1st highest number of forms (6) was observed with the lemma “ǀgui”: <em>ǀgui, ǀgui-e, ǀgui-i, ǀguiba, ǀguis, ǀguiǀā</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (4) was observed with the lemma “haka”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “ǀgam”: <em>ǀgam, ǀgamkhoma, ǀgamna, ǀgams</em>.
 
-`NUM` occurs with 6 features: <tt><a href="naq_kdt-feat-NumType.html">NumType</a></tt> (188; 98% instances), <tt><a href="naq_kdt-feat-Case.html">Case</a></tt> (43; 23% instances), <tt><a href="naq_kdt-feat-Gender.html">Gender</a></tt> (43; 23% instances), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt> (43; 23% instances), <tt><a href="naq_kdt-feat-Person.html">Person</a></tt> (42; 22% instances), <tt><a href="naq_kdt-feat-Typo.html">Typo</a></tt> (1; 1% instances)
+`NUM` occurs with 6 features: <tt><a href="naq_kdt-feat-NumType.html">NumType</a></tt> (191; 100% instances), <tt><a href="naq_kdt-feat-Case.html">Case</a></tt> (43; 23% instances), <tt><a href="naq_kdt-feat-Gender.html">Gender</a></tt> (43; 23% instances), <tt><a href="naq_kdt-feat-Number.html">Number</a></tt> (43; 23% instances), <tt><a href="naq_kdt-feat-Person.html">Person</a></tt> (42; 22% instances), <tt><a href="naq_kdt-feat-Typo.html">Typo</a></tt> (1; 1% instances)
 
 `NUM` occurs with 12 feature-value pairs: `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Typo=Yes`
 
-`NUM` occurs with 14 feature combinations.
-The most frequent feature combination is `NumType=Card` (145 tokens).
+`NUM` occurs with 13 feature combinations.
+The most frequent feature combination is `NumType=Card` (147 tokens).
 Examples: <em>ǀgui, ǀgam, koro, ǀguis, ǃnona, dīsi, haka, korodīsi, ǃnanidīsi, hakadīsi</em>
 
 
@@ -88,5 +88,5 @@ The highest child degree of a `NUM` node is 8.
 
 Children of `NUM` nodes are attached using 22 different relations: <tt><a href="naq_kdt-dep-punct.html">punct</a></tt> (38; 26% instances), <tt><a href="naq_kdt-dep-flat-num.html">flat:num</a></tt> (21; 14% instances), <tt><a href="naq_kdt-dep-case.html">case</a></tt> (17; 11% instances), <tt><a href="naq_kdt-dep-aux.html">aux</a></tt> (11; 7% instances), <tt><a href="naq_kdt-dep-conj.html">conj</a></tt> (11; 7% instances), <tt><a href="naq_kdt-dep-parataxis.html">parataxis</a></tt> (9; 6% instances), <tt><a href="naq_kdt-dep-nsubj.html">nsubj</a></tt> (6; 4% instances), <tt><a href="naq_kdt-dep-det.html">det</a></tt> (5; 3% instances), <tt><a href="naq_kdt-dep-advmod.html">advmod</a></tt> (4; 3% instances), <tt><a href="naq_kdt-dep-cc.html">cc</a></tt> (4; 3% instances), <tt><a href="naq_kdt-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="naq_kdt-dep-cop.html">cop</a></tt> (3; 2% instances), <tt><a href="naq_kdt-dep-mark.html">mark</a></tt> (3; 2% instances), <tt><a href="naq_kdt-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="naq_kdt-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="naq_kdt-dep-nmod-poss.html">nmod:poss</a></tt> (2; 1% instances), <tt><a href="naq_kdt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="naq_kdt-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="naq_kdt-dep-list.html">list</a></tt> (1; 1% instances), <tt><a href="naq_kdt-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 1% instances), <tt><a href="naq_kdt-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="naq_kdt-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="naq_kdt-pos-PUNCT.html">PUNCT</a></tt> (38; 26% instances), <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> (33; 22% instances), <tt><a href="naq_kdt-pos-ADP.html">ADP</a></tt> (16; 11% instances), <tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> (14; 9% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (12; 8% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> (6; 4% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (6; 4% instances), <tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="naq_kdt-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="naq_kdt-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="naq_kdt-pos-PUNCT.html">PUNCT</a></tt> (38; 26% instances), <tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> (33; 22% instances), <tt><a href="naq_kdt-pos-ADP.html">ADP</a></tt> (16; 11% instances), <tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> (14; 9% instances), <tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (12; 8% instances), <tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (7; 5% instances), <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="naq_kdt-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="naq_kdt-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="naq_kdt-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	francisco	Francisco	PROPN	_	Number=Sing	8	flat	_	_
 10	with	with	ADP	_	_	14	case	_	_
 11	at	at	ADP	_	_	12	case	_	_
-12	least	least	ADJ	_	Degree=Sup	14	amod	_	_
+12	least	least	ADJ	_	Degree=Sup	14	nmod	_	_
 13	one	one	NUM	_	NumType=Card	14	nummod	_	_
 14	stop	stop	NOUN	_	Number=Sing	4	obl	_	_
 

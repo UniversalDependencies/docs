@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="ka_glc-dep-det-poss.html">det:poss</a></tt>.
 
-1102 nodes (2%) are attached to their parents as `det`.
+1105 nodes (2%) are attached to their parents as `det`.
 
-1090 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40290381125227.
+1093 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40452488687783.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (953; 86% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (67; 6% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (40; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (957; 87% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (66; 6% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (40; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 1	ამ	ეს	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	2	det	_	Translit=am
 2	ტრაქტატ	ტრაქტატი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=trakʻtat
 3	ში	ში	ADP	Post	AdpType=Post|Case=Dat	2	case	_	Translit=ši
-4	პირველადა	პირველად	ADV	Adv	AdvType=Tim	0	root	_	Translit=pirvelada
+4	პირველადა	პირვლად	ADV	Adv	AdvType=Tim	0	root	_	Translit=pirvelada
 5	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	4	cop	_	Translit=a
 6	შემოტანილი	შემოტანილი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=šemotanili
 7	მექანიკის	მექანიკა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=mekʻanikis
@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 2	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	5	advmod	_	SpaceAfter=No|Translit=šemdeg
 3	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 4	პარაზიტი	პარაზიტი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	5	nsubj	_	Translit=paraziti
-5	ხდება	ხდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|Voice=Act	0	root	_	Translit=xdeba
+5	ხდება	ხდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=xdeba
 6	თევზის	თევზი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	7	nmod	_	Translit=tʻevzis
 7	ენის	ენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=enis
 8	ნაწილი	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	xcomp	_	SpaceAfter=No|Translit=nacili

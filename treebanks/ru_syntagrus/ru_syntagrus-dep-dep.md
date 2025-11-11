@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 dep	color:blue
-1	Собственно	собственно	ADV	_	Degree=Pos	8	parataxis	8:parataxis	SpaceAfter=No
+1	Собственно	собственно	ADV	_	Degree=Pos	8	parataxis:discourse	8:parataxis:discourse	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	8:nsubj	_
 4	была	быть	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	8:cop	_

@@ -57,16 +57,16 @@ The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 obl:agent	color:blue
-1	You	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs|Typo=Yes	2	nmod:poss	2:nmod:poss	CorrectForm=Your
-2	company	company	NOUN	NN	Number=Sing	7	nsubj:pass	7:nsubj:pass	_
+1	You	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs|Typo=Yes	2	nmod:poss	2:nmod:poss	CorrectForm=Your|PRel[config]=possessive|PRel[gov]=2:company|Supersense[coding]=p.Gestalt|Supersense[scene]=p.SocialRel
+2	company	company	NOUN	NN	Number=Sing	7	nsubj:pass	7:nsubj:pass	Supersense=n.GROUP
 3	and	and	CCONJ	CC	_	4	cc	4:cc	_
-4	services	service	NOUN	NNS	Number=Plur	2	conj	2:conj:and|7:nsubj:pass	_
+4	services	service	NOUN	NNS	Number=Plur	2	conj	2:conj:and|7:nsubj:pass	Supersense=n.ACT
 5	will	will	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
 6	be	be	AUX	VB	VerbForm=Inf	7	aux:pass	7:aux:pass	_
-7	recommended	recommend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
-8	by	by	ADP	IN	_	9	case	9:case	_
+7	recommended	recommend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	Supersense=v.communication
+8	by	by	ADP	IN	_	9	case	9:case	PRel[config]=default|PRel[gov]=7:recommend|PRel[obj]=9:we|Supersense[coding]=p.Agent|Supersense[scene]=p.Originator
 9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	obl:agent	7:obl:agent	_
-10	to	to	ADP	IN	_	11	case	11:case	_
+10	to	to	ADP	IN	_	11	case	11:case	PRel[config]=default|PRel[gov]=7:recommend|PRel[obj]=11:everyone|Supersense[coding]=p.Goal|Supersense[scene]=p.Recipient
 11	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	7	obl	7:obl:to	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	7:punct	SpaceAfter=No
 13	"	"	PUNCT	''	_	7	punct	7:punct	_

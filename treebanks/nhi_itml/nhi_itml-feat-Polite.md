@@ -12,18 +12,18 @@ It occurs with 1 different values: `Form`.
 58 tokens (1%) have a non-empty value of `Polite`.
 48 types (2%) occur at least once with a non-empty value of `Polite`.
 42 lemmas (3%) occur at least once with a non-empty value of `Polite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (48; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (5; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (48; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (5; 0% instances).
 
 ### `VERB`
 
 48 <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="nhi_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (48; 100%), <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (42; 88%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (38; 79%), <tt><a href="nhi_itml-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (34; 71%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (33; 69%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt> (31; 65%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="nhi_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (48; 100%), <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (42; 88%), <tt><a href="nhi_itml-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (34; 71%).
 
 `VERB` tokens may have the following values of `Polite`:
 
-* `Form` (48; 100% of non-empty `Polite`): <em>xnechoncaquinih, xoncualani, Inmitzontlasoj, Inmitzontlatlawtia, Innamechonnonotzas, Itkomonikiltijtzinowa, Ixnechonmaka, cmopaleuilih, itconchiuas, itkonikis</em>
-* `EMPTY` (1725): <em>katki, quihtoh, nauat, yah, mota, katka, niquihtoz, peu, yuwi, nesi</em>
+* `Form` (48; 100% of non-empty `Polite`): <em>oxnechoncaquinih, xoncualani, Inmitzontlasoj, Inmitzontlatlawtia, Innamechonnonotzas, Itkomonikiltijtzinowa, Ixnechonmaka, itconchiuas, itkonikis, itkonkowas</em>
+* `EMPTY` (1723): <em>katki, oquihtoh, onauat, oyah, mota, niquihtoz, yuwi, nesi, niquihlnamiqui, niyaz</em>
 
 `Polite` seems to be **lexical feature** of `VERB`. 100% lemmas (40) occur only with one value of `Polite`.
 
@@ -31,12 +31,12 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 
 5 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="nhi_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt> (5; 100%).
+The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="nhi_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `NOUN` tokens may have the following values of `Polite`:
 
 * `Form` (5; 100% of non-empty `Polite`): <em>tonnomaman</em>
-* `EMPTY` (1479): <em>ich, itich, atl, ica, ika, itzcuintli, pueblo, telpukatl, topueblo, tonal</em>
+* `EMPTY` (1484): <em>ich, itich, atl, ica, ika, itzcuintli, pueblo, telpukatl, topueblo, tonal</em>
 
 ### `PRON`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (5; 100% of non-empty `Polite`): <em>touatzin</em>
-* `EMPTY` (503): <em>neh, yeh, tlen, non, nochi, teh, yej, tlenoh, tehwah, ye</em>
+* `EMPTY` (501): <em>neh, yeh, tlen, non, nochi, teh, yej, tlenoh, tehwah, ye</em>
 
 ## Relations with Agreement in `Polite`
 

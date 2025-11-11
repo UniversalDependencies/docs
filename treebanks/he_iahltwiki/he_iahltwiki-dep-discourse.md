@@ -103,7 +103,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	ה	ה	DET	DET	Definite=Def|PronType=Art	11	det	_	_
 11	חקיקה	חקיקה	NOUN	NOUN	Gender=Fem|Number=Sing	9	compound	_	_
 12	יעוצב	עוצב	VERB	VERB	Gender=Masc|HebBinyan=PUAL|Number=Sing|Person=3|Tense=Fut|Voice=Pass	7	acl	_	_
-13	כך	כך	ADV	ADV	_	15	mark	_	_
+13	כך	כך	ADV	ADV	ExtPos=SCONJ	15	mark	_	_
 14	ש	ש	SCONJ	SCONJ	_	13	fixed	_	_
 15	תינתן	ניתן	VERB	VERB	Gender=Fem|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Fut|Voice=Pass	12	advcl	_	_
 16	ל	ל	ADP	ADP	_	17	case	_	_
@@ -127,7 +127,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 34	חוק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	32	compound	_	_
 35	,	,	PUNCT	PUNCT	_	36	punct	_	_
 36	לשמוע	שמע	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	30	conj	_	_
-37	על	על	ADP	ADP	_	39	case	_	_
+37	על	על	ADP	ADP	ExtPos=ADP	39	case	_	_
 38	אודותי	אודות	ADP	ADP	_	37	fixed	_	_
 39	ה	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	obl	_	_
 40	ו	ו	CCONJ	CCONJ	_	41	cc	_	_
@@ -164,7 +164,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 71	מצומצם	מצומצם	ADJ	ADJ	Gender=Masc|Number=Sing	69	amod	_	_
 72	ביותר	ביותר	ADV	ADV	_	71	advmod	_	SpaceAfter=No
 73	,	,	PUNCT	PUNCT	_	76	punct	_	_
-74	בנוגע	בנוגע	ADP	ADP	_	76	case	_	_
+74	בנוגע	בנוגע	ADP	ADP	ExtPos=ADP	76	case	_	_
 75	ל	ל	ADP	ADP	_	74	fixed	_	_
 76	הצעת	הצעה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	62	obl	_	_
 77	ה	ה	DET	DET	Definite=Def|PronType=Art	78	det	_	_

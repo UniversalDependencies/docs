@@ -63,12 +63,12 @@ The 2nd highest number of forms (6) was observed with the lemma “ארוך”: 
 
 The 3rd highest number of forms (6) was observed with the lemma “פלסטיני”: פלסטיני, פלסטיניות, פלסטיניים, פלסטינים, פלסטינית, פלשתינאית.
 
-`ADJ` occurs with 6 features: <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (8672; 100% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (8659; 99% instances), <tt><a href="he_iahltwiki-feat-NumType.html">NumType</a></tt> (381; 4% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (128; 1% instances), <tt><a href="he_iahltwiki-feat-Abbr.html">Abbr</a></tt> (10; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (9; 0% instances)
+`ADJ` occurs with 7 features: <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (8672; 100% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (8659; 99% instances), <tt><a href="he_iahltwiki-feat-NumType.html">NumType</a></tt> (381; 4% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (128; 1% instances), <tt><a href="he_iahltwiki-feat-ExtPos.html">ExtPos</a></tt> (14; 0% instances), <tt><a href="he_iahltwiki-feat-Abbr.html">Abbr</a></tt> (10; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (4; 0% instances)
 
-`ADJ` occurs with 8 feature-value pairs: `Abbr=Yes`, `Definite=Cons`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
+`ADJ` occurs with 10 feature-value pairs: `Abbr=Yes`, `Definite=Cons`, `ExtPos=ADP`, `ExtPos=ADV`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
-`ADJ` occurs with 25 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (3541 tokens).
+`ADJ` occurs with 26 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing` (3530 tokens).
 Examples: עליון, נוסף, יהודי, גרעיני, בריטי, ישראלי, קצר, ראשון, גדול, צבאי
 
 

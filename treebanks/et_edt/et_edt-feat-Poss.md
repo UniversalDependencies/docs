@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (1599; 100% of non-empty `Poss`): <em>oma, omal, omad, omaks, omaenda, omaga, omalt, omast, omas, omadega</em>
-* `EMPTY` (21214): <em>ta, see, mis, ma, kes, seda, tema, mida, nad, selle</em>
+* `EMPTY` (21202): <em>ta, see, mis, ma, kes, seda, tema, mida, nad, selle</em>
 
 ## Relations with Agreement in `Poss`
 

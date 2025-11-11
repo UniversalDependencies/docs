@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Cnd`, `Imp`, `Ind`, `Nec`, `Sub`.
 
-17089 tokens (14%) have a non-empty value of `Mood`.
-3648 types (15%) occur at least once with a non-empty value of `Mood`.
-1296 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (8871; 7% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8218; 7% instances).
+17064 tokens (14%) have a non-empty value of `Mood`.
+3640 types (14%) occur at least once with a non-empty value of `Mood`.
+1291 lemmas (11%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (8858; 7% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8206; 7% instances).
 
 ### `AUX`
 
-8871 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Mood`.
+8858 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (8167; 92%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4459; 50%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (8154; 92%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4454; 50%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (8775; 99% of non-empty `Mood`): <em>կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</em>
+* `Ind` (8762; 99% of non-empty `Mood`): <em>կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</em>
 * `Nec` (1; 0% of non-empty `Mood`): <em>պիտի</em>
 * `Sub` (95; 1% of non-empty `Mood`): <em>ըլլայ, ըլլար, ըլլան, չըլլայ, չըլլար, ըլլային, տայ, ըլլաս, ըլլաք, ըլլանք</em>
 * `EMPTY` (95): <em>եղած, եղեր, ըլլալով, ըլլալու, ըլլալ, տալ, տուեր, ըլլալնուս, տալով, տալու</em>
@@ -36,17 +36,17 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `VERB`
 
-8218 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
+8206 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8218; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8218; 100%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8217; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7667; 93%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (6209; 76%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5723; 70%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt> (5262; 64%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4409; 54%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (4251; 52%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4238; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8206; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8206; 100%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8206; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7654; 93%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (6196; 76%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5711; 70%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt> (5251; 64%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4402; 54%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (4242; 52%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4229; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (2; 0% of non-empty `Mood`): <em>իցէ</em>
-* `Imp` (142; 2% of non-empty `Mood`): <em>եկուր, եկէք, ըսէ, առէք, գացէք, ըրէ, տես, առ, կեցիր, հաւատացէք</em>
-* `Ind` (2951; 36% of non-empty `Mood`): <em>կայ, ըսաւ, կրնայ, ունի, կրնան, կան, կար, ունէր, ունին, եղաւ</em>
-* `Sub` (5123; 62% of non-empty `Mood`): <em>ըսէ, ըլլայ, ըսեմ, կարծես, գայ, ուզեմ, ունենայ, ըլլար, ըսէր, սկսի</em>
-* `EMPTY` (7273): <em>եղած, ունեցած, գիտեր, ըլլալ, կրնար, սկսած, եկած, ըսել, դարձած, ըլլալու</em>
+* `Imp` (141; 2% of non-empty `Mood`): <em>եկուր, եկէք, ըսէ, առէք, գացէք, տես, առ, ըրէ, կեցիր, հաւատացէք</em>
+* `Ind` (2950; 36% of non-empty `Mood`): <em>կայ, կրնայ, ըսաւ, ունի, կրնան, կան, կար, ունէր, ունին, եղաւ</em>
+* `Sub` (5113; 62% of non-empty `Mood`): <em>ըսէ, ըլլայ, ըսեմ, կարծես, գայ, ուզեմ, ունենայ, ըլլար, ըսէր, սկսի</em>
+* `EMPTY` (7265): <em>եղած, ունեցած, գիտեր, ըլլալ, կրնար, սկսած, եկած, ըսել, դարձած, ըլլալու</em>
 
 <table>
   <tr><th>Paradigm <i>ըլլալ</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -76,8 +76,8 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1327; 70%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (62; 65%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1322; 71%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (67; 65%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (14; 100%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (4; 57%),
 <tt>AUX --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),

@@ -12,7 +12,7 @@ It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Pa
 731946 tokens (42%) have a non-empty value of `Case`.
 116653 types (77%) occur at least once with a non-empty value of `Case`.
 40916 lemmas (74%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (373634; 21% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (133624; 8% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (88080; 5% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (55708; 3% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (54576; 3% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (17274; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (9045; 1% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (373634; 21% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (133624; 8% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (88081; 5% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (55708; 3% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (54576; 3% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (17274; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (9044; 1% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
@@ -22,12 +22,12 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (72251; 19% of non-empty `Case`): <em>время, раз, день, голову, слово, руку, минуту, слова, глаза, место</em>
+* `Acc` (72249; 19% of non-empty `Case`): <em>время, раз, день, голову, слово, руку, минуту, слова, глаза, место</em>
 * `Dat` (18534; 5% of non-empty `Case`): <em>людям, человеку, словам, языку, детям, мере, дороге, слову, маме, богу</em>
 * `Gen` (97057; 26% of non-empty `Case`): <em>языка, слов, слова, искусства, лет, жизни, времени, человека, литературы, людей</em>
 * `Ins` (35261; 9% of non-empty `Case`): <em>образом, глазами, словами, словом, голосом, головой, помощью, руками, рукой, языком</em>
 * `Loc` (37989; 10% of non-empty `Case`): <em>языке, жизни, конце, месте, речи, случае, году, мире, искусстве, значении</em>
-* `Nom` (111958; 30% of non-empty `Case`): <em>слово, человек, мама, слова, люди, папа, девочка, язык, дело, правда</em>
+* `Nom` (111960; 30% of non-empty `Case`): <em>слово, человек, мама, слова, люди, папа, девочка, язык, дело, правда</em>
 * `Par` (422; 0% of non-empty `Case`): <em>разу, народу, виду, толку, дому, чаю, лесу, смеху, полу, голоду</em>
 * `Voc` (162; 0% of non-empty `Case`): <em>господи, боже, мам, ребят, бабуль, баб, Батоно, Отче, Сынка, господине</em>
 * `EMPTY` (4488): <em>в., г., гг., э., вв., с., т., тыс., ч., см</em>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 133624 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (86% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (127854; 96%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95328; 71%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (127817; 96%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95328; 71%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -70,18 +70,18 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-88080 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+88081 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66902; 76%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (63541; 72%), <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (62722; 71%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66903; 76%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (63541; 72%), <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (62722; 71%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (14722; 17% of non-empty `Case`): <em>его, меня, что, их, ее, себя, это, тебя, нас, то</em>
+* `Acc` (14724; 17% of non-empty `Case`): <em>его, меня, что, их, ее, себя, это, тебя, нас, то</em>
 * `Dat` (10758; 12% of non-empty `Case`): <em>мне, ему, ей, нам, тебе, себе, вам, им, тому, нему</em>
 * `Gen` (8977; 10% of non-empty `Case`): <em>нас, меня, ничего, него, них, того, всего, этого, чего, вас</em>
 * `Ins` (4754; 5% of non-empty `Case`): <em>тем, ним, собой, ними, ней, чем, им, нами, мной, этим</em>
 * `Loc` (3314; 4% of non-empty `Case`): <em>том, этом, нем, ней, чем, них, себе, чём, нём, многом</em>
-* `Nom` (45554; 52% of non-empty `Case`): <em>я, он, она, это, мы, они, ты, что, вы, все</em>
+* `Nom` (45553; 52% of non-empty `Case`): <em>я, он, она, это, мы, они, ты, что, вы, все</em>
 * `Par` (1; 0% of non-empty `Case`): <em>чего</em>
 * `EMPTY` (745): <em>т., пр., др., чего-л.</em>
 
@@ -179,7 +179,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ins` (1901; 11% of non-empty `Case`): <em>дрожащим, закрытыми, дрожащими, нечем, блестящими, горящими, раскрытыми, связанными, допускающим, сверкающими</em>
 * `Loc` (964; 6% of non-empty `Case`): <em>написанных, приведенном, связанном, написанном, обобщенном, приведенных, случившемся, вышедшем, изданном, называемой</em>
 * `Nom` (6663; 39% of non-empty `Case`): <em>связанные, созданные, называемая, посвященные, называемый, написанные, называемые, созданный, связанная, созданная</em>
-* `EMPTY` (194358): <em>есть, может, можно, сказал, надо, нет, сказала, значит, было, сказать</em>
+* `EMPTY` (194372): <em>есть, может, можно, сказал, надо, нет, сказала, значит, было, сказать</em>
 
 <table>
   <tr><th>Paradigm <i>сказать</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -192,13 +192,13 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `NUM`
 
-9045 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (70% of all `NUM` tokens) have a non-empty value of `Case`.
+9044 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (70% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (9017; 100%), <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8400; 93%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7144; 79%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4901; 54%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (9016; 100%), <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8399; 93%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7143; 79%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4900; 54%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (3251; 36% of non-empty `Case`): <em>несколько, два, много, три, один, одну, две, сколько, одно, пять</em>
+* `Acc` (3250; 36% of non-empty `Case`): <em>несколько, два, много, три, один, одну, две, сколько, одно, пять</em>
 * `Dat` (205; 2% of non-empty `Case`): <em>одному, одной, двум, обеим, обоим, пяти, трем, нескольку, шести, семи</em>
 * `Gen` (1232; 14% of non-empty `Case`): <em>двух, одного, одной, трех, нескольких, пяти, четырех, семи, шести, обеих</em>
 * `Ins` (414; 5% of non-empty `Case`): <em>двумя, одним, одной, тремя, несколькими, обеими, четырьмя, семью, пятью, обоими</em>

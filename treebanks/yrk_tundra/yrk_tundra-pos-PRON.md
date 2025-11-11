@@ -6,52 +6,60 @@ udver: '2'
 
 ## Treebank Statistics: UD_Nenets-Tundra: POS Tags: `PRON`
 
-There are 5 `PRON` lemmas (3%), 6 `PRON` types (2%) and 8 `PRON` tokens (1%).
-Out of 12 observed tags, the rank of `PRON` is: 7 in number of lemmas, 7 in number of types and 9 in number of tokens.
+There are 8 `PRON` lemmas (2%), 14 `PRON` types (3%) and 19 `PRON` tokens (1%).
+Out of 12 observed tags, the rank of `PRON` is: 6 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>нер-, мэ-, тикы, тэва-, ӈамгэ</em>
+The 10 most frequent `PRON` lemmas: <em>тикы, ӈамгэ, нянда, _, нер-, та, тюку, харта</em>
 
-The 10 most frequent `PRON` types:  <em>нерни, нерниʼ, мэваˮ, тикыʼ, тэвынаˮ, ӈавоʼ</em>
+The 10 most frequent `PRON` types:  <em>тикы, тикар, ӈамгэ, ваˮ, нерниʼ, няанда, нянда, та, тика, тикандоʼ?мэ?</em>
 
-The 10 most frequent ambiguous lemmas: <em>мэ-</em> (<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> 3, <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1), <em>тэва-</em> (<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> 5, <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>нер-</em> (<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> 2, <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1), <em>та</em> (<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> 2, <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>тэвынаˮ</em> (<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> 2, <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>нерниʼ</em> (<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1), <em>нянда</em> (<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1)
 
 
-* <em>тэвынаˮ</em>
-  * <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> 2: <em>ӈанонʼ <b>тэвынаˮ</b> <b_p></em>
-  * <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1: <em>пулʼ ӈэсондʼ <b>тэвынаˮ</b> <b_p></em>
+* <em>нерниʼ</em>
+  * <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> 1: <em>тадтикахад ӈаниʼ ялъяваˮ <p> <b>нерниʼ</b> няна пямʼ манэˮӈадмʼ <p></em>
+  * <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1: <em><b>нерниʼ</b> няна <p> пирця харадмʼ манэˮӈадмʼ <p></em>
+* <em>нянда</em>
+  * <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> 2: <em>хасава <p> козамʼ минрена <p> <b>нянда</b> хэвувна ӈобʼ тяха хая <p></em>
+  * <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> 1: <em>харадʼ няʼ хаяваˮ <p> <b>нянда</b> тэвˮмахаданаˮ <p> ядувнанда харданда пя <er>ядувна махалэянда ниʼ танэйнаˮ <p></em>
+  * <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> 1: <em>ӈопой ӈодямʼ <b>нянда</b> пуд <p> хасава <p> сепа мюʼ маˮламбида <p></em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.200000 (the average of all parts of speech is 1.567901).
+The form / lemma ratio of `PRON` is 1.750000 (the average of all parts of speech is 1.619469).
 
-The 1st highest number of forms (2) was observed with the lemma “нер-”: <em>нерни, нерниʼ</em>.
+The 1st highest number of forms (5) was observed with the lemma “тикы”: <em>тика, тикандоʼ?мэ?, тикар, тикы, тикыʼ</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “мэ-”: <em>мэваˮ</em>.
+The 2nd highest number of forms (2) was observed with the lemma “нянда”: <em>няанда, нянда</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “тикы”: <em>тикыʼ</em>.
+The 3rd highest number of forms (2) was observed with the lemma “ӈамгэ”: <em>ӈавоʼ, ӈамгэ</em>.
 
-`PRON` does not occur with any features.
+`PRON` occurs with 3 features: <tt><a href="yrk_tundra-feat-PronType.html">PronType</a></tt> (9; 47% instances), <tt><a href="yrk_tundra-feat-Number.html">Number</a></tt> (2; 11% instances), <tt><a href="yrk_tundra-feat-Person.html">Person</a></tt> (2; 11% instances)
+
+`PRON` occurs with 4 feature-value pairs: `Number=Plur`, `Number=Sing`, `Person=1`, `PronType=Dem`
+
+`PRON` occurs with 4 feature combinations.
+The most frequent feature combination is `PronType=Dem` (9 tokens).
+Examples: <em>тикы, тикар, та, тика, тюку</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 2 different relations: <tt><a href="yrk_tundra-dep-obl-arg.html">obl:arg</a></tt> (6; 75% instances), <tt><a href="yrk_tundra-dep-root.html">root</a></tt> (2; 25% instances)
+`PRON` nodes are attached to their parents using 5 different relations: <tt><a href="yrk_tundra-dep-nmod.html">nmod</a></tt> (6; 32% instances), <tt><a href="yrk_tundra-dep-obl-mod.html">obl:mod</a></tt> (6; 32% instances), <tt><a href="yrk_tundra-dep-nsubj.html">nsubj</a></tt> (5; 26% instances), <tt><a href="yrk_tundra-dep-det.html">det</a></tt> (1; 5% instances), <tt><a href="yrk_tundra-dep-obj.html">obj</a></tt> (1; 5% instances)
 
-Parents of `PRON` nodes belong to 2 different parts of speech: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (6; 75% instances),  (2; 25% instances)
+Parents of `PRON` nodes belong to 3 different parts of speech: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (10; 53% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (8; 42% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (1; 5% instances)
 
-0 (0%) `PRON` nodes are leaves.
+11 (58%) `PRON` nodes are leaves.
 
-2 (25%) `PRON` nodes have one child.
+4 (21%) `PRON` nodes have one child.
 
-5 (63%) `PRON` nodes have two children.
+4 (21%) `PRON` nodes have two children.
 
-1 (13%) `PRON` nodes have three or more children.
+The highest child degree of a `PRON` node is 2.
 
-The highest child degree of a `PRON` node is 4.
+Children of `PRON` nodes are attached using 5 different relations: <tt><a href="yrk_tundra-dep-discourse.html">discourse</a></tt> (5; 42% instances), <tt><a href="yrk_tundra-dep-case.html">case</a></tt> (4; 33% instances), <tt><a href="yrk_tundra-dep-nmod.html">nmod</a></tt> (1; 8% instances), <tt><a href="yrk_tundra-dep-parataxis.html">parataxis</a></tt> (1; 8% instances), <tt><a href="yrk_tundra-dep-punct.html">punct</a></tt> (1; 8% instances)
 
-Children of `PRON` nodes are attached using 6 different relations: <tt><a href="yrk_tundra-dep-case.html">case</a></tt> (6; 38% instances), <tt><a href="yrk_tundra-dep-discourse.html">discourse</a></tt> (4; 25% instances), <tt><a href="yrk_tundra-dep-parataxis.html">parataxis</a></tt> (2; 13% instances), <tt><a href="yrk_tundra-dep-punct.html">punct</a></tt> (2; 13% instances), <tt><a href="yrk_tundra-dep-nmod-poss.html">nmod:poss</a></tt> (1; 6% instances), <tt><a href="yrk_tundra-dep-obl-arg.html">obl:arg</a></tt> (1; 6% instances)
-
-Children of `PRON` nodes belong to 5 different parts of speech: <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (6; 38% instances), <tt><a href="yrk_tundra-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (2; 13% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (2; 13% instances)
+Children of `PRON` nodes belong to 6 different parts of speech: <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (4; 33% instances), <tt><a href="yrk_tundra-pos-INTJ.html">INTJ</a></tt> (3; 25% instances), <tt><a href="yrk_tundra-pos-X.html">X</a></tt> (2; 17% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (1; 8% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 8% instances)
 

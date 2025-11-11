@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 6589 tokens (18%) have a non-empty value of `Degree`.
 1601 types (35%) occur at least once with a non-empty value of `Degree`.
-691 lemmas (25%) occur at least once with a non-empty value of `Degree`.
+690 lemmas (25%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6313; 18% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (276; 1% instances).
 
 ### `ADJ`
@@ -61,12 +61,12 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>později, nejpozději</em></td><td><em>nejpozději</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (79) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (78) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (197; 93%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (196; 93%),
 <tt>ADV --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADV</tt> (14; 100%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (13; 87%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%),

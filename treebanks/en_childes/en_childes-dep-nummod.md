@@ -8,12 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-655 nodes (0%) are attached to their parents as `nummod`.
+876 nodes (0%) are attached to their parents as `nummod`.
 
-633 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15114503816794.
+849 instances of `nummod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14269406392694.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (594; 91% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (19; 3% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (19; 3% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (784; 89% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (22; 3% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (22; 3% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (19; 2% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 nummod	color:blue
+1	He	he	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	say	say	VERB	VBP	_	0	root	0:root	_
+3	stoy	stoy	DET	DT	_	4	compound	4:compound	_
+4	story	story	NOUN	NN	_	2	obj	2:obj	_
+5	two	two	NUM	CD	_	4	nummod	4:nummod	_
+6	it	it	PRON	PRP	_	9	nsubj	9:nsubj	_
+7	's	be	AUX	VBZ	_	9	cop	9:cop	_
+8	Toy	Toy	PROPN	NNP	_	9	compound	9:compound	_
+9	Story	Story	PROPN	NNP	_	2	parataxis	2:parataxis	_
+10	Two	two	NUM	CD	_	9	nummod	9:nummod	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,38 +43,32 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod	color:blue
-1	Only	only	ADV	RB	_	2	advmod	2:advmod	_
-2	got	get	VERB	VBD	_	0	root	0:root	_
+1	You	you	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	have	have	VERB	VBP	_	0	root	0:root	_
 3	one	one	NUM	CD	_	4	nummod	4:nummod	_
-4	eye	eye	NOUN	NN	_	2	obj	2:obj	SpaceAfter=No
-5	.	.	PUNCT	.	_	2	punct	2:punct	_
+4	more	more	ADJ	JJR	_	2	obj	2:obj	SpaceAfter=No
+5	?	?	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	One	one	NUM	CD	_	2	nummod	2:nummod	_
-2	more	more	ADJ	JJR	_	0	root	0:root	SpaceAfter=No
-3	.	.	PUNCT	.	_	2	punct	2:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	Two	two	NUM	CD	_	2	nummod	2:nummod	_
-2	Bobo	Bobo	PROPN	NNP	_	3	nsubj	3:nsubj	_
-3	dere	dere	PROPN	NNP	_	0	root	0:root	SpaceAfter=No
-4	.	.	PUNCT	.	_	3	punct	3:punct	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 nummod	color:blue
+1	He	he	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	say	say	VERB	VBP	_	0	root	0:root	_
+3	stoy	stoy	DET	DT	_	4	compound	4:compound	_
+4	story	story	NOUN	NN	_	2	obj	2:obj	_
+5	two	two	NUM	CD	_	4	nummod	4:nummod	_
+6	it	it	PRON	PRP	_	9	nsubj	9:nsubj	_
+7	's	be	AUX	VBZ	_	9	cop	9:cop	_
+8	Toy	Toy	PROPN	NNP	_	9	compound	9:compound	_
+9	Story	Story	PROPN	NNP	_	2	parataxis	2:parataxis	_
+10	Two	two	NUM	CD	_	9	nummod	9:nummod	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

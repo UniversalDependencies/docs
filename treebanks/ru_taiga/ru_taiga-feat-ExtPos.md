@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 13 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `NOUN`, `NUM`, `PART`, `PRON`, `PROPN`, `SCONJ`, `VERB`.
 
-12699 tokens (1%) have a non-empty value of `ExtPos`.
+12700 tokens (1%) have a non-empty value of `ExtPos`.
 343 types (0%) occur at least once with a non-empty value of `ExtPos`.
 172 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 15 part-of-speech tags: <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (3194; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (2750; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2103; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (1515; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1244; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1187; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (484; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (144; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (31; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (13; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The feature is used with 15 part-of-speech tags: <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (3194; 0% instances), <tt><a href="ru_taiga-pos-ADP.html">ADP</a></tt> (2750; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (2104; 0% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt> (1515; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (1244; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1187; 0% instances), <tt><a href="ru_taiga-pos-SCONJ.html">SCONJ</a></tt> (484; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (144; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (31; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (13; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `ADV`
 
@@ -57,20 +57,20 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `PRON`
 
-2103 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+2104 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2103; 100%), <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1310; 62%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1204; 57%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1136; 54%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1135; 54%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1135; 54%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2104; 100%), <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1310; 62%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1204; 57%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1136; 54%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1135; 54%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1135; 54%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
 * `ADP` (2; 0% of non-empty `ExtPos`): <em>что</em>
-* `ADV` (318; 15% of non-empty `ExtPos`): <em>тем, все, всё, тому, что, того, кто</em>
-* `CCONJ` (55; 3% of non-empty `ExtPos`): <em>то, тем, т., все</em>
+* `ADV` (319; 15% of non-empty `ExtPos`): <em>тем, все, всё, тому, что, того, кто</em>
+* `CCONJ` (43; 2% of non-empty `ExtPos`): <em>то, т., Тем, все</em>
 * `DET` (138; 7% of non-empty `ExtPos`): <em>что, чё</em>
 * `NOUN` (399; 19% of non-empty `ExtPos`): <em>т., все, то, что</em>
 * `PART` (4; 0% of non-empty `ExtPos`): <em>тем, все, того</em>
 * `PRON` (421; 20% of non-empty `ExtPos`): <em>друг, чем, что, кого, кому, то, чему</em>
-* `SCONJ` (717; 34% of non-empty `ExtPos`): <em>то, т., тем, все, всё</em>
+* `SCONJ` (729; 35% of non-empty `ExtPos`): <em>то, т., тем, все, всё</em>
 * `VERB` (49; 2% of non-empty `ExtPos`): <em>все, всё, т., того</em>
 
 <table>
@@ -79,7 +79,7 @@ The most frequent other feature values with which `PRON` and `ExtPos` co-occurre
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>то</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>тому</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>того</em></td><td></td><td></td><td><em>того</em></td><td></td><td></td><td><em>того</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>тем</em></td><td><em>тем</em></td><td></td><td><em>тем</em></td><td></td><td><em>тем</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>тем</em></td><td><em>Тем</em></td><td></td><td><em>тем</em></td><td></td><td><em>тем</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>то</em></td><td><em>то</em></td><td></td><td><em>то</em></td><td><em>то</em></td><td></td></tr>
 </table>
 
@@ -109,8 +109,8 @@ The most frequent other feature values with which `PART` and `ExtPos` co-occurre
 
 `PART` tokens may have the following values of `ExtPos`:
 
-* `ADV` (255; 20% of non-empty `ExtPos`): <em>только, хотя, ни, все, вот, нет, и, лишь, не, Ну</em>
-* `CCONJ` (717; 58% of non-empty `ExtPos`): <em>не, ну, то, ни</em>
+* `ADV` (261; 21% of non-empty `ExtPos`): <em>только, хотя, ни, все, не, вот, нет, и, лишь, Ну</em>
+* `CCONJ` (711; 57% of non-empty `ExtPos`): <em>не, ну, то, ни</em>
 * `DET` (1; 0% of non-empty `ExtPos`): <em>Вот</em>
 * `INTJ` (24; 2% of non-empty `ExtPos`): <em>ну, Ни</em>
 * `PART` (230; 18% of non-empty `ExtPos`): <em>хотя, лишь, хоть, будто, разве, и, вот, только, чуть, словно</em>

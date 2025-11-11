@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (378; 100% of non-empty `Abbr`): <em>t.ex., ca, t ex, bl.a., etc, bl a, dvs, osv, t o m, resp</em>
-* `EMPTY` (6596): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
+* `EMPTY` (6550): <em>också, så, hur, där, här, nu, bara, ut, mycket, även</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (21) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (347; 100% of non-empty `Abbr`): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
-* `EMPTY` (22651): <em>år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</em>
+* `EMPTY` (22648): <em>år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (51) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (57; 100% of non-empty `Abbr`): <em>s k, s.k., ev, resp, Kungl, Kungl., S:t, Teol, a., fil</em>
-* `EMPTY` (8491): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
+* `EMPTY` (8496): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
 
 ### `VERB`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>jfr</em>
-* `EMPTY` (9782): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
+* `EMPTY` (9783): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
 
 ### `ADP`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>f</em>
-* `EMPTY` (11238): <em>i, av, på, för, till, med, om, från, vid, under</em>
+* `EMPTY` (11175): <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 ## Relations with Agreement in `Abbr`
 

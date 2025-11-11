@@ -9,34 +9,52 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-315 tokens (17%) have a non-empty value of `PronType`.
+317 tokens (17%) have a non-empty value of `PronType`.
 115 types (11%) occur at least once with a non-empty value of `PronType`.
 37 lemmas (5%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (177; 10% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (70; 4% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (66; 4% instances), <tt><a href="sa_ufal-pos-PART.html">PART</a></tt> (2; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (179; 10% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (70; 4% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (66; 4% instances), <tt><a href="sa_ufal-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `PRON`
 
-177 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `PronType`.
+179 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (147; 83%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (103; 58%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (148; 83%), <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (103; 58%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (79; 45% of non-empty `PronType`): तत्, तस्य, स, सः, एतत्, अयम्, असौ, एतान्, तस्मात्, तस्मै
+* `Dem` (79; 44% of non-empty `PronType`): तत्, तस्य, स, सः, एतत्, अयम्, असौ, एतान्, तस्मात्, तस्मै
 * `Ind` (2; 1% of non-empty `PronType`): आत्मना, किंचिद्
 * `Int` (12; 7% of non-empty `PronType`): किम्, किं, को, कम्
-* `Prs` (66; 37% of non-empty `PronType`): अहम्, मम, भवान्, मया, अस्मत्, त्वम्, अस्माकम्, तव, त्वाम्, मे
+* `Prs` (68; 38% of non-empty `PronType`): अहम्, मम, भवान्, मया, अस्मत्, त्वम्, अस्माकम्, तव, त्वत्, त्वाम्
 * `Rel` (16; 9% of non-empty `PronType`): यस्या, यः, यत्, यस्य, य, यं, या, येन, यो
 * `Tot` (2; 1% of non-empty `PronType`): सर्व, सर्वेषाम्
-* `EMPTY` (2): तौ, त्वत्
 
 <table>
-  <tr><th>Paradigm <i>आत्मन्</i></th><th><tt>Prs</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sa_ufal-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td>आत्मानः</td><td></td></tr>
-  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td></td><td>आत्मना</td></tr>
+  <tr><th>Paradigm <i>तद्</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तस्मात्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तस्याः</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तस्मात्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तम्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>तान्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तत्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>तानि</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तस्मै</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तस्य</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>तस्य</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td>तस्य</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td>तयोर्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>तस्य</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>तेषाम्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तेन</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तया</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>स, सः, सह्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>तौ</td><td>तौ</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>ते</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>सा</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>तत्, तद्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>तत्</td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Compound.html">Compound</a></tt><tt>=Yes</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>तत्</td></tr>
 </table>
-
-`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (17) occur only with one value of `PronType`.
 
 ### `DET`
 

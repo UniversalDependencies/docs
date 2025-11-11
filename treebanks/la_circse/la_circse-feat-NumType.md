@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 71 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="la_circse-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (49; 69%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 55%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="la_circse-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (50; 70%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 55%).
 
 `DET` tokens may have the following values of `NumType`:
 

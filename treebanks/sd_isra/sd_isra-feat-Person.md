@@ -11,151 +11,183 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sd_isra-feat-Person.html">Person</a></tt>, <tt><a href="sd_isra-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="sd_isra-feat-Person-subj.html">Person[subj]</a></tt>.
 
-1790 tokens (11%) have a non-empty value of `Person`.
-433 types (14%) occur at least once with a non-empty value of `Person`.
-232 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1002; 6% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (409; 3% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (329; 2% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (3; 0% instances).
+8613 tokens (9%) have a non-empty value of `Person`.
+896 types (9%) occur at least once with a non-empty value of `Person`.
+397 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 7 part-of-speech tags: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4307; 5% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1961; 2% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1539; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (723; 1% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (72; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-1002 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Person`.
+4307 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (998; 100%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (850; 85%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (705; 70%), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (687; 69%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (503; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4303; 100%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3787; 88%), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3339; 78%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2379; 55%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2259; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (78; 8% of non-empty `Person`): <em>اچان, چيائين, هلون, ڏسان, ڪريان, ڪرين, ڪندس, آهيان, ايندس, اچجانءِ</em>
-* `2` (24; 2% of non-empty `Person`): <em>ٻيٺاهين, ڪر, اچ, ترس, مار, هڪل, ويهارج, وڻيوَ, پيءُ, پيو</em>
-* `3` (900; 90% of non-empty `Person`): <em>ويو, ڪيو, گھرجي, رهيو, ڪئي, ڇڏيو, رهي, ٿيو, آيو, وڃي</em>
-* `EMPTY` (1495): <em>ڪري, چيو, ڪرڻ, اچي, ويا, وٺي, کڻي, وڃي, ڏيڻ, ڪيو</em>
+* `1` (307; 7% of non-empty `Person`): <em>ڪر, ڪريان, وڃان, ڪندس, هل, ڪرين, اچان, چيائين, ڪنداسين, ويندس</em>
+* `2` (55; 1% of non-empty `Person`): <em>ڪر, ٻيٺاهين, اچ, وٺ, ڏس, ڏي, کڻ, ايندينءَ, اچجانءِ, بخش</em>
+* `3` (3945; 92% of non-empty `Person`): <em>ويو, ڪيو, وڃي, ڪئي, ڏنو, ڇڏيو, آيو, لڳو, رهيو, رهي</em>
+* `EMPTY` (8786): <em>ڪري, چيو, ڪرڻ, ويا, ڪيو, اچي, کڻي, وٺي, ڪندي, ٿيڻ</em>
 
 <table>
   <tr><th>Paradigm <i>ڪر</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ڪرين</em></td><td><em>ڪر</em></td><td><em>ڪري, ڪرين</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ڪري</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ڪنداسون</em></td><td></td><td><em>ڪريو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ڪر, ڪرين, ڪيان</em></td><td><em>ڪر</em></td><td><em>ڪري, ڪر, ڪرين</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ڪري, ڪريو</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ڪرين</em></td><td></td><td><em>ڪري, ڪر, ڪرين</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ڪريو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>ڪبو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ڪريو, ڪريون</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ڪريو, ڪريون</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ڪريونس</em></td><td></td><td><em>ڪريو, ڪريون</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ڪريون, ڪريونس</em></td><td></td><td><em>ڪريو, ڪريون</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ڪري</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ڪريو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ڪري, ڪيائون</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>ڪري</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ڪريو</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ڪر</em></td><td><em>ڪر</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ڪر</em></td><td><em>ڪر</em></td><td><em>ڪر</em></td></tr>
 </table>
 
 ### `PRON`
 
-409 <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
+1961 <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (278; 68%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (272; 67%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1384; 71%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1104; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (236; 58% of non-empty `Person`): <em>پنهنجي, اسان, مون, منهنجي, مان, پاڻ, آءٌ, منهنجو, پنهنجو, آءَ</em>
-* `2` (90; 22% of non-empty `Person`): <em>تون, تنهنجي, تنهنجو, توهان, تو, توکي, اوهين, تنهنجا, اوهان, تنهن</em>
-* `3` (83; 20% of non-empty `Person`): <em>جنهن, سندس, جن, اوهان, سندن, تن, تنهن, ٻين, پاڻ, ھو</em>
-* `EMPTY` (169): <em>سو, ڇا, ڪنهن, پاڻ, ائين, ڪير, جنهن, جو, ڪيئن, تنهن</em>
+* `1` (1257; 64% of non-empty `Person`): <em>پنهنجي, مون, آءٌ, منهنجي, پاڻ, اوهان, پنهنجو, مان, پنهنجا, پنهنجن</em>
+* `2` (364; 19% of non-empty `Person`): <em>تون, توکي, تنهنجي, توهان, تو, تنهنجو, جيڪي, اوهين, پنهنجو, تنهنجا</em>
+* `3` (340; 17% of non-empty `Person`): <em>جن, سندس, اوهان, سندن, انهن, تنهن, توهان, پاڻ, تن, جنھن</em>
+* `EMPTY` (584): <em>ڇا, ائين, جيڪي, سو, پاڻ, ڇو, ڪير, جهڙي, جهڙو, ڪهڙو</em>
 
 <table>
-  <tr><th>Paradigm <i>اوهان</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>اوهان</em></td><td></td><td><em>اوهان</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>اوهان</em></td><td><em>اوهان</em></td><td><em>اوهان</em></td></tr>
+  <tr><th>Paradigm <i>پنهنجو</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>پنهنجو, پنهنجون</em></td><td><em>پنهنجو</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>پنهنجا, پنهنجن, پنهنجين</em></td><td></td><td><em>پنهنجن</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>پنهنجون, پنهنجا</em></td><td><em>پنهنجيون</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>پنهنجا, پنهنجن</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>پنهنجا</em></td><td></td><td><em>پنهنجن</em></td></tr>
 </table>
 
 ### `AUX`
 
-329 <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> tokens (39% of all `AUX` tokens) have a non-empty value of `Person`.
+1539 <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> tokens (31% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (228; 69%), <tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (196; 60%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1184; 77%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (31; 9% of non-empty `Person`): <em>آهيان, آهين, آهيون, اٿم, ٿيس, آھيان, سگھيس, ٿي, ٿيو</em>
-* `2` (8; 2% of non-empty `Person`): <em>اٿئي, آهين, آھين, اٿو, اٿيئي, هئين, هجئي</em>
-* `3` (290; 88% of non-empty `Person`): <em>آهي, هو, ٿو, ٿي, هئي, هئا, ٿئي, آهن, ناهي, ٿا</em>
-* `EMPTY` (523): <em>آهي, ٿي, ٿو, آهن, ٿا, آ, ها, ناهي, نٿي, ڪونهي</em>
+* `1` (166; 11% of non-empty `Person`): <em>آهيان, آهين, آهيون, سگهان, سگهون, اٿم, آھيان, سگهندس, سگھان, سگھون</em>
+* `2` (26; 2% of non-empty `Person`): <em>اٿئي, سگهين, آهين, هئين, ٿي, آهيو, آھين, اٿو, اٿيئي, سگهو</em>
+* `3` (1347; 88% of non-empty `Person`): <em>هو, هئي, آهي, ٿيو, هئا, سگهي, هجي, ٿي, ٿو, سگهجي</em>
+* `EMPTY` (3379): <em>آهي, ٿي, آهن, ٿو, ٿا, ناهي, آھي, نٿو, ها, ڪونهي</em>
 
 <table>
   <tr><th>Paradigm <i>آهي</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>هوندي</em></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>ٿي</em></td><td><em>ٿي</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>هوندو, هوندي</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>هوندو</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>هوندي</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>هوندو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>هوندي</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>آ, هوندو, ٿئي, ٿو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td><em>ڪونهي</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>آ</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>هجن</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ٿيو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ٿيو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>هوس</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt></tt></td><td><em>ٿيس</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ٿيس</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ٿيو</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ناهي</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>هوندو</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>هئين</em></td><td><em>هو</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ٿو, آهي, آ</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>هوس</em></td><td><em>هئين</em></td><td><em>هو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>آهيان</em></td><td></td><td><em>ٿو, آهي, ٿي, آ</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ٿيو</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>هوندا</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>هئا</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>هئا</em></td><td><em>هئا, ھئا</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ٿا, آهن, آهيون, ٿيا</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ٿي</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>نٿي</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>هوندي</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>هئي</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ٿي</em></td><td></td><td><em>آهي, ٿي, آ</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>آهيان, ٿي</em></td><td></td><td><em>آهي, ٿي, آ</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>هيون</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ٿيون</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ٿي</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>ها</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>اٿم</em></td><td><em>اٿئي, اٿيئي, هجئي</em></td><td><em>ٿئي</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ناهي</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>هوندو, هوندي</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>ھئو</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>آهيان, آهين, اٿم, آھيان</em></td><td><em>آهين, آھين</em></td><td><em>آهي, ٿي, آھيس, ٿو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>اٿم, هيم, ٿيان, ٿيون</em></td><td><em>اٿئي, اٿيئي, هجئي</em></td><td><em>ٿئي, اٿس, هيس</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>هيس</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ناهيان</em></td><td></td><td><em>ناهي, ڪونهي</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>هوندو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>هئس</em></td><td></td><td><em>هئي, ھئو</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>آهيان, آهين, آھيان, آهيئي, اٿم, هومانس</em></td><td><em>آهين, آھين</em></td><td><em>آهي, ٿي, آھي, ٿو, آھيس</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>هجي</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ٿيو</em></td><td><em>اٿو</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>اٿو</em></td><td><em>اٿن</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>هوندا</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>آهيون</em></td><td></td><td><em>آهن, آهين, آھن, ٿا</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>آهيون, آھيون, هئاسين</em></td><td><em>آهيو</em></td><td><em>آهن, ٿا, آهين, آهيو, آھن</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>هجون</em></td><td><em>هجو</em></td><td><em>هجن, ھجن</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ناهي</em></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>ھو</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>آهي, ٿي, آهن, ٿو, ٿا</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>آهي, آهن, ٿي, ٿو, آھي, ٿا</em></td></tr>
+</table>
+
+### `DET`
+
+723 <tt><a href="sd_isra-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="sd_isra-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (723; 100%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (713; 99%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (711; 98%).
+
+`DET` tokens may have the following values of `Person`:
+
+* `1` (298; 41% of non-empty `Person`): <em>اسان, هنن, اُها, انهيءَ</em>
+* `3` (425; 59% of non-empty `Person`): <em>جنهن, هن, هنن, ان, ھن, هو, اُهي, ڪنهن, انهن, انهي</em>
+* `EMPTY` (3676): <em>هن, ان, اهو, انهن, ڪنهن, هو, انهيءَ, اها, هر, اهي</em>
+
+<table>
+  <tr><th>Paradigm <i>ان</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ان</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>انهيءَ</em></td><td><em>ان, انهي, انهيءَ</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>انهن</em></td></tr>
 </table>
 
 ### `ADP`
 
-22 <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Person`.
+72 <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (21; 95%).
+The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (71; 99%).
 
 `ADP` tokens may have the following values of `Person`:
 
-* `3` (22; 100% of non-empty `Person`): <em>کيس, کين, کانئس, ساڻن, ساڻس, منجهانئس</em>
-* `EMPTY` (2118): <em>جي, ۾, کي, جو, تي, سان, کان, لاءِ, جا, مان</em>
-
-### `DET`
-
-21 <tt><a href="sd_isra-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (21; 100%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 71%).
-
-`DET` tokens may have the following values of `Person`:
-
-* `3` (21; 100% of non-empty `Person`): <em>هن, ان, انهيءَ</em>
-* `EMPTY` (379): <em>ان, هن, اهو, هُو, هر, هي, ڪو, اها, انهيءَ, انهن</em>
+* `3` (72; 100% of non-empty `Person`): <em>کيس, کين, کانئس, ساڻس, ساڻن, منجهانئس, ڏانهس, کائونئس, کانئن</em>
+* `EMPTY` (14233): <em>جي, ۾, کي, جو, تي, سان, کان, لاءِ, جا, مان</em>
 
 ### `NOUN`
 
-4 <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
+7 <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 100%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3; 75%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 100%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 86%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (5; 71%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `3` (4; 100% of non-empty `Person`): <em>مڙسس</em>
-* `EMPTY` (4249): <em>گدڙ, شينهن, پاڻي, ماڻهو, ڳوٺ, بئراج, بند, ٻوڏ, ڪتاب, بچاءُ</em>
+* `3` (7; 100% of non-empty `Person`): <em>مڙسس, هاٿي, کيس</em>
+* `EMPTY` (26072): <em>شينهن, ملڪ, وقت, گدڙ, ڳالهه, ڏينهن, ماڻهو, پاڻي, وزير, حڪومت</em>
 
 ### `ADV`
 
-3 <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Person`.
+4 <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Person`.
 
 `ADV` tokens may have the following values of `Person`:
 
-* `3` (3; 100% of non-empty `Person`): <em>مٿس, مٿن, ويجھس</em>
-* `EMPTY` (635): <em>جڏهن, تمام, اڄ, هاڻي, وري, اتي, پوءِ, تڏهن, هوڏانهن, جاري</em>
+* `3` (4; 100% of non-empty `Person`): <em>مٿن, مٿس, ويجھس</em>
+* `EMPTY` (3114): <em>جڏهن, وري, اتي, هاڻي, پوءِ, اڄ, جيئن, جاري, ڏانهن, تمام</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>AUX --[<tt><a href="sd_isra-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%),
-<tt>AUX --[<tt><a href="sd_isra-dep-aux.html">aux</a></tt>]--> AUX</tt> (1; 100%),
-<tt>PRON --[<tt><a href="sd_isra-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<tt><a href="sd_isra-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="sd_isra-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (3; 100%),
+<tt>VERB --[<tt><a href="sd_isra-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="sd_isra-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="sd_isra-dep-vocative.html">vocative</a></tt>]--> VERB</tt> (1; 100%).
 

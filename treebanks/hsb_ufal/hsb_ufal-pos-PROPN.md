@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>Mezopotamiska</em> (<tt><a href="hsb_
   * <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> 7: <em><b>Mezopotamiska</b> wikowaše ze susodnymi krajemi .</em>
   * <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Mezopotamiska</b> ( grjeksce : Μεσοποταμία Mesopotamia , aramejsce : ܒܝܬܢܗܪܝܢ Beth Nahrin , kurdisce : Mezopotamya arabsce : بلاد مابين النهرين Bilād mā bain an - Nahrain ) woznamjenja ( kraj ) mjez ( dwěmaj ) rěkomaj abo tež krótko Mjezyrěčina a woznamjenja w historiskim zmysle kónčinu dólnych runinow mjez rěkomaj Eufratom a Tigrisom , w kotrejž měšćanske staty Sumeričanow , Babylonjanow , Aramejčanow a Assyričanow ležachu .</em>
 * <em>Babylon</em>
-  * <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> 4: <em>Po spadźe Assyriskeje <b>Babylon</b> zaso na mocy naby .</em>
+  * <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> 4: <em><b>Babylon</b> dobywachu w lěće 689 př . n . l .</em>
   * <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Babylon</b> připadny w lěće 31 krala Šamšu - ditana k Hetitam pod Muršili I .</em>
 * <em>Hammurabi</em>
   * <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> 4: <em>Hammurabi je znaty , dokelž spisa jednu z prěnich traděrowanych zběrkow zakonjow , tak mjenowany kodeks <b>Hammurabi</b> .</em>
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>Mezopotamiska</em> (<tt><a href="hsb_
   * <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> 3: <em>Tak wjele pozdźišo samo <b>Assyričenjo</b> w swojich stawiznach wo Sargonje rozprawichu .</em>
   * <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Assyričenjo</b> poněčim pismo a rěč wot Aramejčanow přejimachu .</em>
 * <em>Němskej</em>
-  * <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> 3: <em>Nětčiša serbšćina je jenički hač do dźensnišeho zachowany słowjanski idiom w <b>Němskej</b> . . . .</em>
+  * <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> 3: <em>Nětčiša serbšćina je jenički hač do dźensnišeho zachowany słowjanski idiom w <b>Němskej</b> .</em>
   * <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> 1: <em>Jeho tradicije jako zwonkauniwersitne slědźenišćo złožuja so na Institut za serbski ludospyt , kotryž bě so lěta 1951 załožił a wot 1952 do 1991 <b>Němskej</b> akademiji wědomosćow ( wot 1972 : Akademiji wědomosćow NDR ) přisłušał .</em>
 * <em>Ćišinski</em>
   * <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> 3: <em>Jakub Bart - <b>Ćišinski</b> ( 1856 - 1909 ) - wobnowjer serbskeje literatury</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Mezopotamiska</em> (<tt><a href="hsb_
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.146409 (the average of all parts of speech is 1.418889).
+The form / lemma ratio of `PROPN` is 1.146409 (the average of all parts of speech is 1.419479).
 
 The 1st highest number of forms (5) was observed with the lemma “Wikipedija”: <em>Wikipedija, Wikipedije, Wikipediji, Wikipedijow, Wikipediju</em>.
 
@@ -64,8 +64,8 @@ The 3rd highest number of forms (4) was observed with the lemma “Mezopotamiska
 `PROPN` occurs with 16 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Ptan`, `Number=Sing`
 
 `PROPN` occurs with 45 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Fem|Number=Sing` (81 tokens).
-Examples: <em>Mezopotamiska, Assyriska, Wikipedija, Braniborska, Kannada, Karnataka, Marilyn, Mjezyrěčina, Monroe, Niniwa</em>
+The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing` (81 tokens).
+Examples: <em>Hammurabi, Jakub, Aššur, Bart, Che, Ernesto, Guevara, Ćišinski, Adad, Assur</em>
 
 
 ## Relations
@@ -84,7 +84,7 @@ Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="hs
 
 The highest child degree of a `PROPN` node is 9.
 
-Children of `PROPN` nodes are attached using 19 different relations: <tt><a href="hsb_ufal-dep-punct.html">punct</a></tt> (162; 21% instances), <tt><a href="hsb_ufal-dep-case.html">case</a></tt> (136; 18% instances), <tt><a href="hsb_ufal-dep-conj.html">conj</a></tt> (104; 14% instances), <tt><a href="hsb_ufal-dep-flat.html">flat</a></tt> (88; 12% instances), <tt><a href="hsb_ufal-dep-cc.html">cc</a></tt> (55; 7% instances), <tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt> (47; 6% instances), <tt><a href="hsb_ufal-dep-amod.html">amod</a></tt> (44; 6% instances), <tt><a href="hsb_ufal-dep-appos.html">appos</a></tt> (31; 4% instances), <tt><a href="hsb_ufal-dep-parataxis.html">parataxis</a></tt> (20; 3% instances), <tt><a href="hsb_ufal-dep-nummod.html">nummod</a></tt> (18; 2% instances), <tt><a href="hsb_ufal-dep-acl.html">acl</a></tt> (14; 2% instances), <tt><a href="hsb_ufal-dep-advmod-emph.html">advmod:emph</a></tt> (11; 1% instances), <tt><a href="hsb_ufal-dep-list.html">list</a></tt> (11; 1% instances), <tt><a href="hsb_ufal-dep-advmod.html">advmod</a></tt> (8; 1% instances), <tt><a href="hsb_ufal-dep-mark.html">mark</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-dep-orphan.html">orphan</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="hsb_ufal-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="hsb_ufal-dep-flat-foreign.html">flat:foreign</a></tt> (2; 0% instances)
+Children of `PROPN` nodes are attached using 18 different relations: <tt><a href="hsb_ufal-dep-punct.html">punct</a></tt> (162; 21% instances), <tt><a href="hsb_ufal-dep-case.html">case</a></tt> (136; 18% instances), <tt><a href="hsb_ufal-dep-conj.html">conj</a></tt> (105; 14% instances), <tt><a href="hsb_ufal-dep-flat.html">flat</a></tt> (88; 12% instances), <tt><a href="hsb_ufal-dep-cc.html">cc</a></tt> (55; 7% instances), <tt><a href="hsb_ufal-dep-nmod.html">nmod</a></tt> (47; 6% instances), <tt><a href="hsb_ufal-dep-amod.html">amod</a></tt> (44; 6% instances), <tt><a href="hsb_ufal-dep-appos.html">appos</a></tt> (31; 4% instances), <tt><a href="hsb_ufal-dep-parataxis.html">parataxis</a></tt> (20; 3% instances), <tt><a href="hsb_ufal-dep-nummod.html">nummod</a></tt> (18; 2% instances), <tt><a href="hsb_ufal-dep-acl.html">acl</a></tt> (14; 2% instances), <tt><a href="hsb_ufal-dep-advmod-emph.html">advmod:emph</a></tt> (11; 1% instances), <tt><a href="hsb_ufal-dep-list.html">list</a></tt> (11; 1% instances), <tt><a href="hsb_ufal-dep-advmod.html">advmod</a></tt> (8; 1% instances), <tt><a href="hsb_ufal-dep-mark.html">mark</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-dep-orphan.html">orphan</a></tt> (4; 1% instances), <tt><a href="hsb_ufal-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="hsb_ufal-dep-dep.html">dep</a></tt> (2; 0% instances)
 
-Children of `PROPN` nodes belong to 12 different parts of speech: <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (211; 28% instances), <tt><a href="hsb_ufal-pos-PUNCT.html">PUNCT</a></tt> (162; 21% instances), <tt><a href="hsb_ufal-pos-ADP.html">ADP</a></tt> (138; 18% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (70; 9% instances), <tt><a href="hsb_ufal-pos-CCONJ.html">CCONJ</a></tt> (52; 7% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (48; 6% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (32; 4% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="hsb_ufal-pos-SCONJ.html">SCONJ</a></tt> (9; 1% instances), <tt><a href="hsb_ufal-pos-X.html">X</a></tt> (9; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (6; 1% instances)
+Children of `PROPN` nodes belong to 12 different parts of speech: <tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (211; 28% instances), <tt><a href="hsb_ufal-pos-PUNCT.html">PUNCT</a></tt> (162; 21% instances), <tt><a href="hsb_ufal-pos-ADP.html">ADP</a></tt> (138; 18% instances), <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (70; 9% instances), <tt><a href="hsb_ufal-pos-CCONJ.html">CCONJ</a></tt> (52; 7% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (49; 6% instances), <tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (32; 4% instances), <tt><a href="hsb_ufal-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="hsb_ufal-pos-SCONJ.html">SCONJ</a></tt> (9; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="hsb_ufal-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (6; 1% instances)
 

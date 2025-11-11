@@ -10,8 +10,8 @@ This relation is a language-specific subtype of <tt><a href="arh_chibergis-dep-n
 
 7 nodes (0%) are attached to their parents as `nmod:poss`.
 
-6 instances of `nmod:poss` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85714285714286.
+7 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.71428571428571.
 
 The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (4; 57% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (2; 29% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 14% instances).
 

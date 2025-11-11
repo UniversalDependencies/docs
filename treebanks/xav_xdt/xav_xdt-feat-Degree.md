@@ -34,5 +34,5 @@ The most frequent other feature values with which `PART` and `Degree` co-occurre
 `PART` tokens may have the following values of `Degree`:
 
 * `Dim` (3; 100% of non-empty `Degree`): <em>re, reb</em>
-* `EMPTY` (318): <em>za'ra, hã, e, ma, za, õ, norĩ, tô, norĩhã, aba</em>
+* `EMPTY` (319): <em>hã, za'ra, e, ma, za, õ, norĩ, tô, aba, norĩhã</em>
 

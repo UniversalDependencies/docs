@@ -46,16 +46,16 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 expl	color:blue
-1	Zdravljenje	zdravljenje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
-2	in	in	CCONJ	Cc	_	3	cc	_	_
-3	odziv	odziv	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
-4	na	na	ADP	Sa	Case=Acc	5	case	_	_
-5	zdravljenje	zdravljenje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
-6	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	_
-7	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	_
-8	tudi	tudi	PART	Q	_	9	advmod	_	_
-9	podobna	podoben	ADJ	Agpmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Z	_	9	punct	_	_
+1	Zdravljenje	zdravljenje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	NER=O
+2	in	in	CCONJ	Cc	_	3	cc	_	NER=O
+3	odziv	odziv	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	NER=O
+4	na	na	ADP	Sa	Case=Acc	5	case	_	NER=O
+5	zdravljenje	zdravljenje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	NER=O
+6	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	NER=O
+7	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	NER=O
+8	tudi	tudi	PART	Q	_	9	advmod	_	NER=O
+9	podobna	podoben	ADJ	Agpmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual	0	root	_	SpaceAfter=No|NER=O
+10	.	.	PUNCT	Z	_	9	punct	_	NER=O
 
 ~~~
 

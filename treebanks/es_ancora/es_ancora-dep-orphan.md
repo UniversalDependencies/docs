@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 13	Belgrado	Belgrado	PROPN	_	_	8	nmod	8:nmod	Entity=NOCOREF:Spec.organization)
 14	y	y	CCONJ	cc	_	22	cc	22:cc	SpaceAfter=No
 15	,	,	PUNCT	fc	PunctType=Comm	19	punct	19:punct	_
-16	a	a	ADP	sps00	_	19	case	19:case	MWE=a_partir_de|MWEPOS=ADP
+16	a	a	ADP	sps00	ExtPos=ADP	19	case	19:case	MWE=a_partir_de|MWEPOS=ADP
 17	partir	partir	NOUN	_	_	16	fixed	16:fixed	_
 18	de	de	ADP	_	_	16	fixed	16:fixed	_
 19	1981	1981	NOUN	_	_	22	orphan	20.1:obl	SpaceAfter=No|Entity=(NOCOREF:Spec.date-time-1-gstype:spec)

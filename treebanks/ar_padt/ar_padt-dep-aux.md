@@ -29,7 +29,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	الطائرة	طَائِرَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	3	nsubj	3:nsubj	Vform=اَلطَّائِرَةُ|Gloss=aircraft,airplane|Root=.t y r|Translit=aṭ-ṭāʾiratu|LTranslit=ṭāʾirat
 5	و	وَ	CCONJ	C---------	_	4	cc	4:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
 6	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	Gloss=he,she,it|LTranslit=huwa|Translit=hiya|Vform=هِيَ
-7	تصميم	تَصمِيم	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	4	xcomp	4:xcomp	Vform=تَصمِيمٌ|Gloss=plan,sketch,design|Root=.s m m|Translit=taṣmīmun|LTranslit=taṣmīm
+7	تصميم	تَصمِيم	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	4	advcl:pred	4:advcl:pred	Vform=تَصمِيمٌ|Gloss=plan,sketch,design|Root=.s m m|Translit=taṣmīmun|LTranslit=taṣmīm
 8	قديم	قَدِيم	ADJ	A-----MS1I	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	7	amod	7:amod	Vform=قَدِيمٌ|Gloss=old,ancient|Root=q d m|Translit=qadīmun|LTranslit=qadīm
 9	ل	لِ	ADP	P---------	AdpType=Prep	10	case	10:case	Gloss=for,to|LTranslit=li|Root=l|Translit=li|Vform=لِ
 10	طراز	طِرَاز	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	7	nmod	7:nmod:لِ:gen	Gloss=model,type,calibre|LTranslit=ṭirāz|Root=.t r z|Translit=ṭirāzi|Vform=طِرَازِ
@@ -86,7 +86,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 14	أحد	أَحَد	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	13	nmod	13:nmod:gen	Vform=أَحَدٍ|Gloss=one,someone|Root=' .h d|Translit=ʾaḥadin|LTranslit=ʾaḥad
 15	التدخل	تَدَخُّل	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	13	nsubj	13:nsubj	Vform=اَلتَّدَخُّلُ|Gloss=intervention,interference|Root=d _h l|Translit=at-tadaḫḫulu|LTranslit=tadaḫḫul
 16	في	فِي	ADP	P---------	AdpType=Prep	17	case	17:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
-17	شئون	شَأن	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	15	obl:arg	15:obl:arg:فِي:gen	Vform=شُؤُونِ|Gloss=matter,affair,concern,regard|Root=^s ' n|Translit=šuʾūni|LTranslit=šaʾn
+17	شئون	شَأن	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	15	nmod	15:nmod:فِي:gen	Vform=شُؤُونِ|Gloss=matter,affair,concern,regard|Root=^s ' n|Translit=šuʾūni|LTranslit=šaʾn
 18	المسلمين	مُسلِم	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	17	nmod	17:nmod:gen	SpaceAfter=No|Vform=اَلمُسلِمِينَ|Gloss=Muslim|Root=s l m|Translit=al-muslimīna|LTranslit=muslim
 19	"	"	PUNCT	G---------	_	6	punct	6:punct	Vform="|Translit="
 

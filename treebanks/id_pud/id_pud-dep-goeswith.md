@@ -37,7 +37,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 13	garis	garis	NOUN	_	Number=Sing	3	nmod	_	_
 14	imajiner	imajiner	NOUN	_	Number=Sing	13	nmod	_	_
 15	yang	yang	PRON	_	PronType=Rel	16	nsubj	_	_
-16	menghubungkan	hubung	VERB	_	Mood=Ind|Voice=Act	13	acl:relcl	_	_
+16	menghubungkan	hubung	VERB	_	Voice=Act	13	acl:relcl	_	_
 17	landmark	landmark	X	_	Foreign=Yes	16	obj	_	_
 18	mercu	mercu	NOUN	_	Typo=Yes	17	nmod	_	CorrectForm=mercusuar
 19	suar	_	X	_	_	18	goeswith	_	_
@@ -66,12 +66,12 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 1	Tujuan	tuju	NOUN	_	Number=Sing	7	nsubj	_	_
 2	dari	dari	ADP	_	_	3	case	_	_
 3	acara	acara	NOUN	_	Number=Sing	1	nmod	_	_
-4	dengar	dengar	VERB	_	Mood=Ind|Voice=Act	3	acl	_	_
+4	dengar	dengar	VERB	_	Voice=Act	3	acl	_	_
 5	pendapat	dapat	NOUN	_	Number=Sing	4	obl	_	_
 6	CRTC	CRTC	PROPN	_	Abbr=Yes	3	nmod	_	_
 7	adalah	adalah	AUX	_	_	0	root	_	_
 8	untuk	untuk	SCONJ	_	_	9	mark	_	_
-9	mengumpulkan	kumpul	VERB	_	Mood=Ind|Voice=Act	7	ccomp	_	_
+9	mengumpulkan	kumpul	VERB	_	Voice=Act	7	ccomp	_	_
 10	respons	respons	NOUN	_	Number=Sing	9	obj	_	_
 11	dari	dari	ADP	_	Typo=Yes	13	case	_	CorrectForm=daripada
 12	pada	_	X	_	_	11	goeswith	_	_

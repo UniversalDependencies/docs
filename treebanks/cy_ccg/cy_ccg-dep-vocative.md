@@ -23,11 +23,11 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 10 vocative	color:blue
 1	Gobeithiaf	gobeithio	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
-2	y	y	DET	art	_	3	det	_	_
+2	y	y	DET	art	PronType=Art	3	det	_	_
 3	gwnewch	gwneud	VERB	verb	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
 4	ystyried	ystyried	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	3	xcomp	_	_
 5	ymestyn	ymestyn	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	4	xcomp	_	_
-6	y	y	DET	art	_	7	det	_	_
+6	y	y	DET	art	PronType=Art	7	det	_	_
 7	cyfnod	cyfnod	NOUN	noun	Gender=Masc|Number=Sing	5	obj	_	_
 8	ymgynghori	ymgynghori	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	7	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	punct	_	8	punct	_	_
@@ -36,10 +36,10 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 12	i	i	ADP	prep	_	13	mark	_	_
 13	ganiatáu	caniatáu	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	4	ccomp	_	_
 14	i	i	ADP	prep	_	16	case	_	SpaceAfter=No
-15	'r	y	DET	art	_	16	det	_	_
+15	'r	y	DET	art	PronType=Art	16	det	_	_
 16	ymateb	ymateb	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	13	advcl	_	_
 17	ar	ar	ADP	prep	_	18	case	_	_
-18	lawr	llawr	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	16	obl	_	_
+18	lawr	llawr	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	16	nmod	_	_
 19	gwlad	gwlad	NOUN	noun	Gender=Fem|Number=Sing	18	nmod	_	_
 20	gael	cael	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	16	acl	_	_
 21	ei	ef	PRON	dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
@@ -50,8 +50,8 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 26	nag	na	ADP	prep	_	27	case	_	_
 27	ymgynghori	ymgynghori	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	22	advcl	_	_
 28	â	â	ADP	prep	_	30	case	_	SpaceAfter=No
-29	'r	y	DET	art	_	30	det	_	_
-30	mawrion	mawr	NOUN	noun	Gender=Masc|Number=Plur	27	obl	_	_
+29	'r	y	DET	art	PronType=Art	30	det	_	_
+30	mawrion	mawr	NOUN	noun	Gender=Masc|Number=Plur	27	nmod	_	_
 31	yn	yn	PART	pred	_	32	case:pred	_	_
 32	unig	unig	ADJ	pos	Degree=Pos	30	advmod	_	SpaceAfter=No
 33	.	.	PUNCT	punct	_	13	punct	_	SpacesAfter=\n

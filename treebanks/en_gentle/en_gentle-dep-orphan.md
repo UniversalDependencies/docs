@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(84-person-new-nnnns-cf5-3-sgl
 15	spinal	spinal	ADJ	JJ	Degree=Pos	16	amod	16:amod	MSeg=spin-al
 16	surgeon	surgeon	NOUN	NN	Number=Sing	7	conj	2:ccomp|7:conj:or	Entity=84)
-17	if	if	SCONJ	IN	_	20	mark	20:mark	Discourse=contingency-condition:54->53:0:dm-if-495|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:495:482-494:496-499
+17	if	if	SCONJ	IN	_	20	mark	20:mark	Discourse=contingency-condition:54->53:0:dm-if-495-_|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:495:482-494:496-499
 18	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	Entity=(81-abstract-giv:act-nnnns-cf3-2-coref(13-person-giv:act-sssss-cf2*-1-ana)
 19	symptoms	symptom	NOUN	NNS	Number=Plur	20	nsubj	20:nsubj	Entity=81)|MSeg=symptom-s
 20	progress	progress	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:if	CxnElt=7:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|SpaceAfter=No

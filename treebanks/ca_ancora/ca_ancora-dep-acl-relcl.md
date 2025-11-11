@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	assignessin	assignar	VERB	vmsi3p0	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	csubj	12:csubj	ArgTem=arg1:tem
 5	un	un	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Ind	6	det	6:det	Entity=(CESSCATAAP2000040222_ac20--2-CorefType:ident,gstype:gen
 6	paper	paper	NOUN	ncms000	Gender=Masc|Number=Sing	4	obj	4:obj	ArgTem=arg1:pat|Entity=CESSCATAAP2000040222_ac20)
-7	des	des	ADP	sps00	_	9	case	9:case	MWE=des_de|MWEPOS=ADP
+7	des	des	ADP	sps00	ExtPos=ADP	9	case	9:case	MWE=des_de|MWEPOS=ADP
 8	de	de	ADP	_	_	7	fixed	7:fixed	_
 9	fora	fora	ADV	rg	_	4	advmod	4:advmod	ArgTem=argM:loc
 10	no	no	ADV	rn	Polarity=Neg	12	advmod	12:advmod	_

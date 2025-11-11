@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-56279 tokens (11%) have a non-empty value of `Voice`.
-15585 types (25%) occur at least once with a non-empty value of `Voice`.
-5592 lemmas (20%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (30773; 6% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (13313; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (12193; 2% instances).
+56318 tokens (11%) have a non-empty value of `Voice`.
+15591 types (25%) occur at least once with a non-empty value of `Voice`.
+5593 lemmas (20%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (30773; 6% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (13313; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (12232; 2% instances).
 
 ### `VERB`
 
@@ -40,23 +40,23 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 ### `ADJ`
 
-12193 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Voice`.
+12232 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12193; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11913; 98%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9990; 82%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7270; 60%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6272; 51%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12232; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11952; 98%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10029; 82%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7286; 60%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6297; 51%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (2143; 18% of non-empty `Voice`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</em>
+* `Act` (2182; 18% of non-empty `Voice`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, budoucí, vyplývající</em>
 * `Pass` (10050; 82% of non-empty `Voice`): <em>uvedených, uvedené, řečeno, příslušné, dosaženo, plánovaných, spojené, věnována, příslušného, dána</em>
-* `EMPTY` (62027): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
+* `EMPTY` (61988): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
-`Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (2324) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (2325) occur only with one value of `Voice`.
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (4388; 97%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1384; 83%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1384; 82%),
 <tt>VERB --[<tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (796; 72%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (481; 50%),
 <tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (179; 80%),
@@ -64,5 +64,5 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (30; 97%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (20; 87%),
 <tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> AUX</tt> (19; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (17; 74%).
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl-pred.html">advcl:pred</a></tt>]--> VERB</tt> (17; 89%).
 

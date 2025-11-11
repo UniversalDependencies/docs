@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-V
 
 510 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (510; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (510; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (439; 86%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (401; 79%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (510; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (510; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (439; 86%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (401; 79%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 106 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (105; 99%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (101; 95%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (82; 77%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (75; 71%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (105; 99%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 99%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (101; 95%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (82; 77%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (75; 71%).
 
 `AUX` tokens may have the following values of `Tense`:
 

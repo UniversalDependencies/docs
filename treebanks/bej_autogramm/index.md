@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Martine Vanhove, Rayan Ziane, Sylvain Kahane, Bruno Guillaume.
 
 Repository: [UD_Beja-Autogramm](https://github.com/UniversalDependencies/UD_Beja-Autogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_autogramm216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_autogramm217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -725,7 +725,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (321)</li>
+      <li>VERB--NOUN (324)</li>
       <li>VERB--PRON (14)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Nom (71)</li>
@@ -736,10 +736,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (543)</li>
-      <li>VERB--PRON (110)</li>
-      <li>VERB--PRON-Acc (111)</li>
-      <li>VERB--PRON-Nom (8)</li>
+      <li>VERB--NOUN (520)</li>
+      <li>VERB--PRON (89)</li>
+      <li>VERB--PRON-Acc (82)</li>
+      <li>VERB--PRON-Nom (7)</li>
     </ul>
   </li>
 </ul>
@@ -747,9 +747,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (26)</li>
-      <li>VERB--PRON-Acc (2)</li>
+      <li>VERB--NOUN (19)</li>
+      <li>VERB--PRON (47)</li>
+      <li>VERB--PRON-Acc (25)</li>
       <li>VERB--PRON-Dat (3)</li>
+      <li>VERB--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>

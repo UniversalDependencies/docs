@@ -25,8 +25,8 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 2 1 nmod:poss	color:blue
 1	Менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	GTtags=Pers,Sg1,Gen
 2	лолӧй	лов	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	GTtags=Sg,Nom,PxSg1
-3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux:tense	_	GTtags=IV,Ind,Prt1,Sg3
-4	тырӧма	тырны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Der,Der/ӧм,PastPtc,N,Sg,Nom
+3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:tense	_	GTtags=IV,Ind,Prt1,Sg3
+4	тырӧма	тырны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Der,Der/ӧм,PastPtc,N,Sg,Nom
 5	удал	удал	ADJ	A	Case=Nom|Number=Sing	6	amod	_	GTtags=Sg,Nom
 6	кыпыдлунӧн	кыпыдлун	NOUN	N	Case=Ins|Number=Sing	4	obl	_	GTtags=Sg,Ins|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 3	ув	ув	NOUN	N	Case=Nom|NounType=Relat|Number=Sing	4	nmod	_	GTtags=Relat,Sg,Nom
 4	вож	вож	NOUN	N	Case=Nom|Number=Sing	6	obl	_	GTtags=Sg,Nom
 5	вылын	вылын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing	4	case	_	GTtags=Po,Sg,Ine
-6	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+6	пукаліс	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 7	лыдтӧм	лыдтӧм	ADJ	A	Case=Nom|Number=Sing	10	amod	_	GTtags=N,Der,Der/тӧм,Sg,Nom
 8	-	-	PUNCT	_	_	7	punct	_	_
 9	тшӧттӧм	тшӧттӧм	ADJ	A	_	7	conj	_	_

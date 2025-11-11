@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="en_gum-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.133333 (the average of all parts of speech is 1.243866).
+The form / lemma ratio of `CCONJ` is 1.133333 (the average of all parts of speech is 1.243967).
 
 The 1st highest number of forms (3) was observed with the lemma “and”: <em>and, n, n'</em>.
 
@@ -79,7 +79,7 @@ Examples: <em>and, or, but, both, &, either, yet, plus, n, minus</em>
 
 `CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="en_gum-dep-cc.html">cc</a></tt> (7674; 98% instances), <tt><a href="en_gum-dep-cc-preconj.html">cc:preconj</a></tt> (101; 1% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (29; 0% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (26; 0% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="en_gum-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3230; 41% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2597; 33% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (769; 10% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (598; 8% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (200; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (142; 2% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (114; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (43; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (29; 0% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (25; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (14; 0% instances),  (8; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3230; 41% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2593; 33% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (769; 10% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (602; 8% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (200; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (142; 2% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (114; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (43; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (29; 0% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (25; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (17; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (14; 0% instances),  (8; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 7456 (95%) `CCONJ` nodes are leaves.
 

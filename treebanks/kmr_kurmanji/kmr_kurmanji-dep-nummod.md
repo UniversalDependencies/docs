@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nummod in UD_Kurmanji-MG'
+title:  'Statistics of nummod in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `nummod`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `nummod`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 62 instances of `nummod` (79%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.30769230769231.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (67; 86% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (6; 8% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-SYM.html">SYM</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (67; 86% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (6; 8% instances), <tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="kmr_kurmanji-pos-SYM.html">SYM</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

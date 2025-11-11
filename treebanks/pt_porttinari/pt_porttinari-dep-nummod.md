@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1793 nodes (1%) are attached to their parents as `nummod`.
+1794 nodes (1%) are attached to their parents as `nummod`.
 
-1628 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08533184606804.
+1629 instances of `nummod` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08528428093645.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (1340; 75% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (429; 24% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (1336; 74% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (429; 24% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (6; 0% instances).
 
 
 ~~~ conllu

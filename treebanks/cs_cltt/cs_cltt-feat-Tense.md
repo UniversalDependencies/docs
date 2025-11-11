@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-2341 tokens (7%) have a non-empty value of `Tense`.
-501 types (11%) occur at least once with a non-empty value of `Tense`.
-291 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1507; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (547; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (287; 1% instances).
+2346 tokens (7%) have a non-empty value of `Tense`.
+504 types (11%) occur at least once with a non-empty value of `Tense`.
+292 lemmas (11%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1507; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (547; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (292; 1% instances).
 
 ### `VERB`
 
@@ -64,16 +64,17 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-287 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
+292 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (285; 99%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 62%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (172; 60%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (290; 99%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 61%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (173; 59%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Pres` (287; 100% of non-empty `Tense`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
-* `EMPTY` (6356): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
+* `Fut` (5; 2% of non-empty `Tense`): <em>budoucích, budoucí, budoucím</em>
+* `Pres` (287; 98% of non-empty `Tense`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
+* `EMPTY` (6351): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (50) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (51) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 

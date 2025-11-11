@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-854 tokens (4%) have a non-empty value of `NumType`.
+843 tokens (4%) have a non-empty value of `NumType`.
 240 types (4%) occur at least once with a non-empty value of `NumType`.
 222 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-DET.html">DET</a></tt> (454; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (356; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (44; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-DET.html">DET</a></tt> (443; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (356; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (44; 0% instances).
 
 ### `DET`
 
-454 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (15% of all `DET` tokens) have a non-empty value of `NumType`.
+443 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (14% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (442; 97%), <tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (442; 97%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (431; 95%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (431; 97%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (431; 97%), <tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (431; 97%).
 
 `DET` tokens may have the following values of `NumType`:
 
-* `Card` (454; 100% of non-empty `NumType`): <em>eine, ein, einer, einem, einen, eines, beiden, Beide, beider</em>
+* `Card` (443; 100% of non-empty `NumType`): <em>eine, ein, einer, einem, einen, eines, beiden, Beide, beider</em>
 * `EMPTY` (2652): <em>der, die, dem, den, das, des, seine, diese, dieser, ihre</em>
 
 ### `NUM`

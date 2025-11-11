@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (28307; 31% of non-empty `Number`): <em>años, millones, pesetas, personas, países, días, meses, elecciones, partidos, puntos</em>
 * `Sing` (64065; 69% of non-empty `Number`): <em>presidente, equipo, partido, país, año, parte, ministro, mundo, grupo, portavoz</em>
-* `EMPTY` (8163): <em>frente, respecto, vez, pese, año, partir, mayo, 1999, parte, junio</em>
+* `EMPTY` (8164): <em>frente, respecto, vez, pese, año, partir, mayo, 1999, parte, junio</em>
 
 <table>
   <tr><th>Paradigm <i>año</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 84354 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (72091; 85%), <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (62512; 74%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (46374; 55%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (71584; 85%), <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (62012; 74%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (46374; 55%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -47,10 +47,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>les</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td><em>les</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>el</em></td><td><em>los, els</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td><em>las</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>el</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>el</em></td><td><em>los, els</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la</em></td><td><em>las</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>el</em></td><td><em>los</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>la</em></td><td><em>las</em></td></tr>
 </table>
 
 ### `VERB`
@@ -119,6 +123,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>Es</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>sido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ser</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sería</em></td><td></td></tr>
@@ -146,25 +151,28 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 10153 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (40% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (9859; 97%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (6503; 64%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6153; 61%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (9859; 97%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (6503; 64%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5944; 59%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (2365; 23% of non-empty `Number`): <em>nos, les, ellos, unos, los, otros, todos, las, nosotros, algunos</em>
 * `Sing` (7788; 77% of non-empty `Number`): <em>lo, le, me, uno, quien, la, todo, él, eso, nada</em>
-* `EMPTY` (15031): <em>que, se, cómo, sí, como, consigo, adonde, qué, Atleti, Bellerofón</em>
+* `EMPTY` (15032): <em>que, se, cómo, sí, como, consigo, adonde, qué, Atleti, Bellerofón</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>él, ello</em></td><td><em>ellos</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ella</em></td><td><em>ellas</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>lo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>LO</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>lo</em></td><td><em>los</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>la</em></td><td><em>las</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>me</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>le</em></td><td><em>les</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Ella</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>él, ello</em></td><td><em>ellos</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ella</em></td><td><em>ellas</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>LO</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt><tt>=CCONJ</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>lo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo</em></td><td><em>los</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>la</em></td><td><em>las</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>me</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>le</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Ella</em></td><td></td></tr>
 </table>
 
 ### `NUM`
@@ -189,18 +197,18 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (3; 75% of non-empty `Number`): <em>Balears, Illes, Lletres</em>
 * `Sing` (1; 25% of non-empty `Number`): <em>Cuba</em>
-* `EMPTY` (42386): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
+* `EMPTY` (42385): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (65143; 97%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26238; 96%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (66194; 97%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (26311; 96%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13751; 57%),
 <tt>VERB --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11295; 87%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-acl.html">acl</a></tt>]--> VERB</tt> (4911; 60%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3759; 79%),
-<tt>VERB --[<tt><a href="es_ancora-dep-aux.html">aux</a></tt>]--> AUX</tt> (3398; 51%),
+<tt>VERB --[<tt><a href="es_ancora-dep-aux.html">aux</a></tt>]--> AUX</tt> (3397; 51%),
 <tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2805; 74%),
 <tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2617; 62%),
 <tt>ADJ --[<tt><a href="es_ancora-dep-cop.html">cop</a></tt>]--> AUX</tt> (2157; 90%).

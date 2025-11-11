@@ -9,25 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-172 tokens (0%) have a non-empty value of `Polarity`.
-5 types (0%) occur at least once with a non-empty value of `Polarity`.
-4 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (172; 0% instances).
+500 tokens (1%) have a non-empty value of `Polarity`.
+7 types (0%) occur at least once with a non-empty value of `Polarity`.
+5 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (497; 1% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
 
 ### `ADV`
 
-172 <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Polarity`.
+497 <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (162; 94%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (481; 97%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (172; 100% of non-empty `Polarity`): <em>pas, n', ne, non, qu'</em>
-* `EMPTY` (3353): <em>donc, pas, parce, enfin, plus, vraiment, là, très, tout, même</em>
+* `Neg` (497; 100% of non-empty `Polarity`): <em>pas, n', ne, que, non, plus, qu'</em>
+* `EMPTY` (2953): <em>donc, parce, enfin, vraiment, plus, là, tout, très, même, après</em>
+
+### `SCONJ`
+
+3 <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
+
+`SCONJ` tokens may have the following values of `Polarity`:
+
+* `Neg` (3; 100% of non-empty `Polarity`): <em>qu', que</em>
+* `EMPTY` (940): <em>que, qu', quand, si, comme, puisque, parce, puisqu', s', après</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>ADV --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
-<tt>ADV --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (1; 100%).
+<tt>ADV --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (2; 67%),
+<tt>ADV --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%).
 

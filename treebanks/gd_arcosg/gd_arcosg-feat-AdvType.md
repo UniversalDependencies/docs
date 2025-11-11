@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Loc`, `Man`, `Tim`.
 
-4579 tokens (5%) have a non-empty value of `AdvType`.
+4585 tokens (5%) have a non-empty value of `AdvType`.
 384 types (5%) occur at least once with a non-empty value of `AdvType`.
 337 lemmas (6%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (4579; 5% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (4585; 5% instances).
 
 ### `ADV`
 
-4579 <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `AdvType`.
+4585 <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (4024; 88%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (4028; 88%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Loc` (1627; 36% of non-empty `AdvType`): <em>a-mach, a-steach, suas, an, a-staigh, a, ann, sìos, seo, siud</em>
+* `Loc` (1633; 36% of non-empty `AdvType`): <em>a-mach, a-steach, suas, an, a-staigh, a, ann, sìos, seo, siud</em>
 * `Man` (1820; 40% of non-empty `AdvType`): <em>cho, dìreach, cuideachd, math, co-dhiubh, idir, còmhla, ma-thà, seachad, leòr</em>
 * `Tim` (1132; 25% of non-empty `AdvType`): <em>fhathast, an-diugh, an, a-rithist, a-nis, riamh, sin, toiseach, uair, a-nise</em>
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
 ## Relations with Agreement in `AdvType`
 
 The 10 most frequent relations where parent and child node agree in `AdvType`:
-<tt>ADV --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (711; 100%),
+<tt>ADV --[<tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (715; 100%),
 <tt>ADV --[<tt><a href="gd_arcosg-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (75; 62%),
 <tt>ADV --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> ADV</tt> (23; 100%),
 <tt>ADV --[<tt><a href="gd_arcosg-dep-compound.html">compound</a></tt>]--> ADV</tt> (2; 100%),

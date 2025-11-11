@@ -13,7 +13,7 @@ This relation is universal.
 4910 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.35091649694501.
 
-The following 16 pairs of parts of speech are connected with `root`: -<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3480; 71% instances), -<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (812; 17% instances), -<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (263; 5% instances), -<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (151; 3% instances), -<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (108; 2% instances), -<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (21; 0% instances), -<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (21; 0% instances), -<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (12; 0% instances), -<tt><a href="ga_idt-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), -<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (8; 0% instances), -<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), -<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `root`: -<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3480; 71% instances), -<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (823; 17% instances), -<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (263; 5% instances), -<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (151; 3% instances), -<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (99; 2% instances), -<tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (21; 0% instances), -<tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (21; 0% instances), -<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (12; 0% instances), -<tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), -<tt><a href="ga_idt-pos-X.html">X</a></tt> (9; 0% instances), -<tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (8; 0% instances), -<tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), -<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	'	'	PUNCT	Punct	_	2	punct	_	_
 7	a	a	PART	Vb	Form=Direct|PartType=Vb|PronType=Rel	8	mark:prt	_	_
 8	deir	abair	VERB	VTI	Mood=Ind|Tense=Pres	0	root	_	_
-9	Tom	Tom	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
+9	Tom	Tom	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
@@ -43,8 +43,8 @@ The following 16 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	Bean	bean	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	shuidhte	suidhte	ADJ	Adj	Form=Len|VerbForm=Part	1	amod	_	_
-3	dhéanta	déanta	ADJ	Adj	Degree=Pos|Form=Len	1	amod	_	SpaceAfter=No
+2	shuidhte	suite	ADJ	Adj	Case=Nom|Form=Len|Gender=Fem|Number=Sing	1	amod	_	_
+3	dhéanta	déanta	ADJ	Adj	Case=Nom|Form=Len|Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
 4	...	...	PUNCT	...	_	1	punct	_	_
 
 ~~~

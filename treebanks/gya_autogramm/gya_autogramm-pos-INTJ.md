@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>hó, wàá, káì, wùléé, ʔà, ʔà�
 
 The 10 most frequent `INTJ` types:  <em>hó, wàá, káì], wùléé, ʔà, ʔàà, ʔòóyèé, ʔówà</em>
 
-The 10 most frequent ambiguous lemmas: <em>ʔà</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 10, <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> 1, <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 1), <em>ʔòóyèé</em> (<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ʔà</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 10, <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 1), <em>ʔòóyèé</em> (<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>wàá</em> (<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 4, <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 2), <em>ʔàà</em> (<tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> 1), <em>ʔòóyèé</em> (<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gya_autogramm-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>wàá</em> (<tt><a href="gya_autogram
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.497585).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.513447).
 
 The 1st highest number of forms (1) was observed with the lemma “hó”: <em>hó</em>.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_perseus-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="la_perseus-dep-flat-redup.html">flat:redup</a></tt>.
 
-73 nodes (0%) are attached to their parents as `flat:name`.
+72 nodes (0%) are attached to their parents as `flat:name`.
 
-73 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.73972602739726.
+72 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.73611111111111.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (73; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (72; 100% instances).
 
 
 ~~~ conllu

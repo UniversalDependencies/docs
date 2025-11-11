@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 263889 tokens (8%) have a non-empty value of `Degree`.
 20549 types (11%) occur at least once with a non-empty value of `Degree`.
-8657 lemmas (6%) occur at least once with a non-empty value of `Degree`.
+8649 lemmas (6%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (246383; 7% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (16160; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1346; 0% instances).
 
 ### `ADJ`
@@ -64,7 +64,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>neu</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (8225) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (8223) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>wenig</em></td><td><em>weniger</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (22) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 92% lemmas (12) occur only with one value of `Degree`.
 
 ### `DET`
 

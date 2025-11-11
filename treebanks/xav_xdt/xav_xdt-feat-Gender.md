@@ -24,7 +24,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 * `Fem` (1; 50% of non-empty `Gender`): <em>Maze</em>
 * `Masc` (1; 50% of non-empty `Gender`): <em>Mare</em>
-* `EMPTY` (70): <em>di, wa'wa, ni, norĩ, 're, wamhã, zaʔra, ʔre, 'wa, da</em>
+* `EMPTY` (69): <em>di, wa'wa, ni, norĩ, 're, wamhã, zaʔra, ʔre, 'wa, da</em>
 
 <table>
   <tr><th>Paradigm <i>mare</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="de_gsd-pos-PRON.htm
 
 1696 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1696; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1696; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1595; 94%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (1595; 94%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1494; 88%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1696; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1696; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1595; 94%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (1595; 94%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1485; 88%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

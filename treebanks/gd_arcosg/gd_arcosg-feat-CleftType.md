@@ -11,7 +11,7 @@ It occurs with 5 different values: `Adj`, `Adv`, `Nom`, `Obl`, `Verb`.
 
 478 tokens (1%) have a non-empty value of `CleftType`.
 281 types (4%) occur at least once with a non-empty value of `CleftType`.
-259 lemmas (5%) occur at least once with a non-empty value of `CleftType`.
+258 lemmas (5%) occur at least once with a non-empty value of `CleftType`.
 The feature is used with 9 part-of-speech tags: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (270; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (96; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (79; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `CleftType` co-occu
 <table>
   <tr><th>Paradigm <i>e</i></th><th><tt>Nom</tt></th><th><tt>Obl</tt></th></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Form.html">Form</a></tt><tt>=Emp</tt></tt></td><td><em>esan</em></td><td><em>esan</em></td></tr>
-  <tr><td><tt></tt></td><td><em>e, h-e</em></td><td><em>e</em></td></tr>
+  <tr><td><tt></tt></td><td><em>e, h-e, è</em></td><td><em>e</em></td></tr>
 </table>
 
 ### `PROPN`

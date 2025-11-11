@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="hu_szeged-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.503840).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.504111).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -51,7 +51,7 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (5807; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3524; 61% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1058; 18% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (583; 10% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (323; 6% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (132; 2% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (71; 1% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (53; 1% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> (23; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="hu_szeged-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3524; 61% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1058; 18% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (583; 10% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (323; 6% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (136; 2% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (74; 1% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (46; 1% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> (23; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="hu_szeged-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-X.html">X</a></tt> (4; 0% instances)
 
 5805 (100%) `PUNCT` nodes are leaves.
 

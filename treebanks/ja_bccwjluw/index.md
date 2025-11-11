@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Masayuki Asahara, Yusuke Miyao, Takaaki Tanaka, Hiroshi Kanayama, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Yugo Murawaki.
 
 Repository: [UD_Japanese-BCCWJLUW](https://github.com/UniversalDependencies/UD_Japanese-BCCWJLUW)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwjluw216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_bccwjluw217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -121,7 +121,7 @@ and NINJAL Annotation Project.
 
 ## Relations
 
-[acl](ja_bccwjluw-dep-acl.html) – [advcl](ja_bccwjluw-dep-advcl.html) – [advmod](ja_bccwjluw-dep-advmod.html) – [amod](ja_bccwjluw-dep-amod.html) – [aux](ja_bccwjluw-dep-aux.html) – [case](ja_bccwjluw-dep-case.html) – [cc](ja_bccwjluw-dep-cc.html) – [ccomp](ja_bccwjluw-dep-ccomp.html) – [compound](ja_bccwjluw-dep-compound.html) – [cop](ja_bccwjluw-dep-cop.html) – [csubj](ja_bccwjluw-dep-csubj.html) – [csubj:outer](ja_bccwjluw-dep-csubj-outer.html) – [dep](ja_bccwjluw-dep-dep.html) – [det](ja_bccwjluw-dep-det.html) – [discourse](ja_bccwjluw-dep-discourse.html) – [dislocated](ja_bccwjluw-dep-dislocated.html) – [fixed](ja_bccwjluw-dep-fixed.html) – [mark](ja_bccwjluw-dep-mark.html) – [nmod](ja_bccwjluw-dep-nmod.html) – [nsubj](ja_bccwjluw-dep-nsubj.html) – [nsubj:outer](ja_bccwjluw-dep-nsubj-outer.html) – [nummod](ja_bccwjluw-dep-nummod.html) – [obj](ja_bccwjluw-dep-obj.html) – [obl](ja_bccwjluw-dep-obl.html) – [punct](ja_bccwjluw-dep-punct.html) – [reparandum](ja_bccwjluw-dep-reparandum.html) – [root](ja_bccwjluw-dep-root.html)
+[acl](ja_bccwjluw-dep-acl.html) – [advcl](ja_bccwjluw-dep-advcl.html) – [advmod](ja_bccwjluw-dep-advmod.html) – [amod](ja_bccwjluw-dep-amod.html) – [aux](ja_bccwjluw-dep-aux.html) – [case](ja_bccwjluw-dep-case.html) – [cc](ja_bccwjluw-dep-cc.html) – [ccomp](ja_bccwjluw-dep-ccomp.html) – [compound](ja_bccwjluw-dep-compound.html) – [cop](ja_bccwjluw-dep-cop.html) – [csubj](ja_bccwjluw-dep-csubj.html) – [csubj:outer](ja_bccwjluw-dep-csubj-outer.html) – [dep](ja_bccwjluw-dep-dep.html) – [det](ja_bccwjluw-dep-det.html) – [discourse](ja_bccwjluw-dep-discourse.html) – [dislocated](ja_bccwjluw-dep-dislocated.html) – [fixed](ja_bccwjluw-dep-fixed.html) – [iobj](ja_bccwjluw-dep-iobj.html) – [mark](ja_bccwjluw-dep-mark.html) – [nmod](ja_bccwjluw-dep-nmod.html) – [nsubj](ja_bccwjluw-dep-nsubj.html) – [nsubj:outer](ja_bccwjluw-dep-nsubj-outer.html) – [nummod](ja_bccwjluw-dep-nummod.html) – [obj](ja_bccwjluw-dep-obj.html) – [obl](ja_bccwjluw-dep-obl.html) – [punct](ja_bccwjluw-dep-punct.html) – [reparandum](ja_bccwjluw-dep-reparandum.html) – [root](ja_bccwjluw-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -131,7 +131,7 @@ and NINJAL Annotation Project.
 </ul>
 
 <ul>
-<li>This corpus contains 988964 tokens (99%) that are not followed by a space.</li>
+<li>This corpus contains 974557 tokens (98%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -260,7 +260,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(_) (26222)</li>
+      <li>VERB--NOUN-ADP(_) (26226)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_) (4)</li>
       <li>VERB--PRON-ADP(_) (2080)</li>
     </ul>
@@ -270,15 +270,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-ADP(_) (28007)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (494)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (35)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (12)</li>
+      <li>VERB--NOUN-ADP(_) (27854)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (470)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (31)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_) (6)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (4)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
-      <li>VERB--PRON-ADP(_) (714)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (2)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--PRON-ADP(_) (709)</li>
       <li>VERB--PRON-ADP(_)-ADP(_) (40)</li>
       <li>VERB--PRON-ADP(_)-ADP(_)-ADP(_) (3)</li>
     </ul>
@@ -288,6 +287,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB--NOUN-ADP(_) (48)</li>
+      <li>VERB--PRON-ADP(_) (5)</li>
     </ul>
   </li>
 </ul>
@@ -299,5 +300,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 2 relation subtypes: <a>csubj:outer</a>, <a>nsubj:outer</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>The following 11 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

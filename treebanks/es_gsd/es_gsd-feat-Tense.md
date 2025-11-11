@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Imp` (2534; 11% of non-empty `Tense`): <em>tenía, era, eran, había, pertenecían, estaba, tenían, encontraba, contaba, estaban</em>
 * `Past` (9629; 42% of non-empty `Tense`): <em>fue, tuvo, hizo, comenzó, nació, dijo, dio, ganó, convirtió, recibió</em>
 * `Pres` (10267; 44% of non-empty `Tense`): <em>tiene, es, encuentra, hay, hace, tienen, está, cuenta, da, dice</em>
-* `EMPTY` (13289): <em>hacer, ubicado, ver, debido, tener, decir, dar, partir, conocido, llegar</em>
+* `EMPTY` (13290): <em>hacer, ubicado, ver, debido, tener, decir, dar, partir, conocido, llegar</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>

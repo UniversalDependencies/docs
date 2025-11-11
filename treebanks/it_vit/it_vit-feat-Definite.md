@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-40258 tokens (14%) have a non-empty value of `Definite`.
+40264 tokens (14%) have a non-empty value of `Definite`.
 30 types (0%) occur at least once with a non-empty value of `Definite`.
 10 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-DET.html">DET</a></tt> (40250; 14% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-DET.html">DET</a></tt> (40256; 14% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `DET`
 
-40250 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Definite`.
+40256 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (40250; 100%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29586; 74%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20317; 50%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (40256; 100%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29589; 74%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20320; 50%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (36134; 90% of non-empty `Definite`): <em>il, la, l', i, le, gli, lo, un, the</em>
+* `Def` (36140; 90% of non-empty `Definite`): <em>il, la, l', i, le, gli, lo, un, the</em>
 * `Ind` (4116; 10% of non-empty `Definite`): <em>un, una, un', uno, delle</em>
-* `EMPTY` (3654): <em>questo, sua, suo, questa, loro, tutti, ogni, questi, tutte, nostro</em>
+* `EMPTY` (3648): <em>questo, sua, suo, questa, loro, tutti, ogni, questi, tutte, nostro</em>
 
 <table>
   <tr><th>Paradigm <i>uno</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

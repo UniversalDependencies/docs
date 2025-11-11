@@ -43,11 +43,11 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	Став	став	DET	Det	Case=Nom|Number=Sing	2	det	_	_
+1	Став	став	DET	Det	Case=Nom|Number=Sing|PronType=Tot	2	det	_	_
 2	вӧлэсьсэ	вӧлэсь	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	_
 3	километров	километр	NOUN	N	Case=Gen|Number=Plur	5	obl	_	Lang=ru
 4	четыреста	четыреста	NUM	Num	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	Lang=ru
-5	будет	быть	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Lang=ru|SpaceAfter=No
+5	будет	быть	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Lang=ru|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

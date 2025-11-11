@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Range`.
 
-1688 tokens (2%) have a non-empty value of `NumType`.
-554 types (3%) occur at least once with a non-empty value of `NumType`.
+1689 tokens (2%) have a non-empty value of `NumType`.
+555 types (3%) occur at least once with a non-empty value of `NumType`.
 422 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1403; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (282; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1403; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (283; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -42,14 +42,14 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-282 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
+283 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (282; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (282; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (282; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (277; 98%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (143; 51%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (283; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (283; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (283; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (278; 98%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (144; 51%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (2; 1% of non-empty `NumType`): <em>300, 700</em>
-* `Ord` (280; 99% of non-empty `NumType`): <em>esimene, esimese, 3., esimest, 27., teine, teises, 1., 2., 29.</em>
+* `Ord` (281; 99% of non-empty `NumType`): <em>esimene, esimese, 3., esimest, 27., teine, teises, 1., 2., 29.</em>
 * `EMPTY` (4975): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, lihtne</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (86) occur only with one value of `NumType`.

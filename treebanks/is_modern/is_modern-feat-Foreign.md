@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Djokovic, Millar</em>
-* `EMPTY` (6958): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+* `EMPTY` (6957): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
 
 ## Relations with Agreement in `Foreign`
 

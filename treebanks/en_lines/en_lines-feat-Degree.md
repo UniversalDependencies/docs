@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (49; 21% of non-empty `Degree`): <em>longer, farther, more, nearer, sooner, closer, faster, harder, higher</em>
 * `Pos` (161; 70% of non-empty `Degree`): <em>well, far, long, soon, close, hard, early, little, badly, fast</em>
 * `Sup` (19; 8% of non-empty `Degree`): <em>least, Whilst, best</em>
-* `EMPTY` (5512): <em>out, up, so, then, now, back, very, just, there, again</em>
+* `EMPTY` (5509): <em>out, up, so, then, now, back, very, just, there, again</em>
 
 <table>
   <tr><th>Paradigm <i>well</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (257; 95%),
-<tt>ADJ --[<tt><a href="en_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (39; 93%),
+<tt>ADJ --[<tt><a href="en_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (39; 95%),
 <tt>ADJ --[<tt><a href="en_lines-dep-acl.html">acl</a></tt>]--> ADJ</tt> (10; 100%),
 <tt>ADJ --[<tt><a href="en_lines-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (9; 90%),
 <tt>ADJ --[<tt><a href="en_lines-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (6; 86%),

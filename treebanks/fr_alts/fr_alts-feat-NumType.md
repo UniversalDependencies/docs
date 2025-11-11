@@ -9,36 +9,44 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-654 tokens (1%) have a non-empty value of `NumType`.
-97 types (3%) occur at least once with a non-empty value of `NumType`.
-77 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt> (573; 1% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (81; 0% instances).
+860 tokens (1%) have a non-empty value of `NumType`.
+191 types (3%) occur at least once with a non-empty value of `NumType`.
+123 lemmas (4%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt> (719; 1% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (141; 0% instances).
 
 ### `NUM`
 
-573 <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+719 <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt> tokens (98% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (573; 100% of non-empty `NumType`): <em>deulx, mille, troys, .iii., .vi., chinq, .iiii., .viii., .ii., .v.</em>
+* `Card` (719; 100% of non-empty `NumType`): <em>deulx, mille, troys, .iii., .vi., deux, quatre, chinq, .iiii., .viii.</em>
+* `EMPTY` (12): <em>i., .xxij., 2., 3, 4., 578, centum, ij., trois, vi.</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (49) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (89) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-81 <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `NumType`.
+141 <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (81; 100% of non-empty `NumType`): <em>premier, .ixe., .xxviiie., .viie., .xve., .xxixe., .xxxe., .ve., .vie., .xiie.</em>
-* `EMPTY` (653): <em>presentz, jeune, grant, mesme, aultre, grosse, bon, nommey, present, enssuyvant</em>
+* `Card` (5; 4% of non-empty `NumType`): <em>13., 16., 20., 21., 8.</em>
+* `Ord` (136; 96% of non-empty `NumType`): <em>premier, premiere, second, .ixe., .xxviiie., .viie., .xve., .xxixe., .xxxe., .ve.</em>
+* `EMPTY` (1527): <em>presentz, mesme, autre, jeune, grant, aultre, bon, present, telle, autres</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (28) occur only with one value of `NumType`.
+<table>
+  <tr><th>Paradigm <i>treizième</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>13.</em></td><td><em>.xiiie.</em></td></tr>
+</table>
+
+`NumType` seems to be **lexical feature** of `ADJ`. 94% lemmas (33) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="fr_alts-dep-flat.html">flat</a></tt>]--> NUM</tt> (55; 100%),
-<tt>NUM --[<tt><a href="fr_alts-dep-conj.html">conj</a></tt>]--> NUM</tt> (52; 100%),
+<tt>NUM --[<tt><a href="fr_alts-dep-conj.html">conj</a></tt>]--> NUM</tt> (62; 100%),
+<tt>NUM --[<tt><a href="fr_alts-dep-flat.html">flat</a></tt>]--> NUM</tt> (56; 100%),
+<tt>ADJ --[<tt><a href="fr_alts-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>NUM --[<tt><a href="fr_alts-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%).
 

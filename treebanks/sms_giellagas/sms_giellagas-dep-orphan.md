@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 5 orphan	color:blue
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
+2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt,Sg3
 3	aaut	autt	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
 4	da	da	CCONJ	CC	_	6	cc	_	_
 5	väʹst	väʹst	ADV	Adv	_	6	orphan	_	_
@@ -47,7 +47,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT|SpaceAfter=No
 5	Mâiʹd	mii	PRON	Pron	Case=Acc|Number=Sing|PronType=Int	7	obj	_	GTtags=Interr,Sg,Acc,@OBJ>
 6	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sem/Hum,Sg,Nom
-7	tätt	tättad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+7	tätt	tättad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 8	?	?	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
 9	”	”	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT
 
@@ -63,7 +63,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
 2	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time
 3	pâi	pâi	ADV	Adv	_	4	advmod	_	_
-4	mõõni	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3,@+FAUXV
+4	mõõni	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt,Sg3,@+FAUXV
 5	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
 6	teärmmaz	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	obl	_	GTtags=Sg,Nom
 7	årra	årra	ADP	Po	AdpType=Post|Case=Ill	6	case	_	GTtags=Ill

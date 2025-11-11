@@ -83,7 +83,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 38	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	39	aux	_	_
 39	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	advcl	_	_
 40	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
-41	discaount	discaount	NOUN	S	_	39	obj	_	_
+41	discaount	discaount	NOUN	S	_	39	dislocated	_	_
 42	di	di	ADP	E	_	45	case	_	_
 43	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
 44	10	10	NUM	N	NumType=Card	45	nummod	_	SpaceAfter=No

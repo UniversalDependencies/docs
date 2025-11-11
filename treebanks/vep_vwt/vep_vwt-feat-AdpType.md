@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="vep_vwt-pos-ADP.htm
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (16; 89% of non-empty `AdpType`): <em>täht, polhe, taga, abul, edel, jäl'ghe, keskes, möto, päle</em>
+* `Post` (16; 89% of non-empty `AdpType`): <em>täht, polhe, taga, abul, edel, jälʼghe, keskes, möto, päle</em>
 * `Prep` (2; 11% of non-empty `AdpType`): <em>Kacmata, ümbri</em>
 
 `AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (12) occur only with one value of `AdpType`.

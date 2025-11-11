@@ -11,21 +11,21 @@ It occurs with 4 different values: `Fin`, `Inf`, `Part`, `Sup`.
 
 173092 tokens (18%) have a non-empty value of `VerbForm`.
 13072 types (20%) occur at least once with a non-empty value of `VerbForm`.
-4219 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (120634; 12% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (50005; 5% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (557; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (557; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (451; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (359; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (202; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (184; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (76; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (29; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (2; 0% instances).
+4216 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 15 part-of-speech tags: <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (120639; 12% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (49998; 5% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (558; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (558; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (451; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (359; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (202; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (184; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (76; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (29; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-120634 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+120639 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (112217; 93%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (112215; 93%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (110083; 91%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (70981; 59%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68426; 57%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (65368; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (112223; 93%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (112221; 93%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (110088; 91%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (70982; 59%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68424; 57%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (65369; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (78403; 65% of non-empty `VerbForm`): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</em>
-* `Inf` (25505; 21% of non-empty `VerbForm`): <em>fara, segja, sjá, taka, koma, láta, ganga, gera, halda, vita</em>
-* `Part` (8820; 7% of non-empty `VerbForm`): <em>kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, gert, farið</em>
-* `Sup` (7906; 7% of non-empty `VerbForm`): <em>komið, séð, fengið, gert, sagt, tekið, farið, orðið, gjört, gefið</em>
+* `Fin` (78404; 65% of non-empty `VerbForm`): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</em>
+* `Inf` (25509; 21% of non-empty `VerbForm`): <em>fara, segja, sjá, taka, koma, láta, ganga, gera, halda, vita</em>
+* `Part` (8819; 7% of non-empty `VerbForm`): <em>kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, gert, farið</em>
+* `Sup` (7907; 7% of non-empty `VerbForm`): <em>komið, séð, fengið, gert, sagt, tekið, farið, orðið, gjört, gefið</em>
 * `EMPTY` (8050): <em>búið, búinn, á, segjandi, sér, lifandi, sá, búin, búnir, fallinn</em>
 
 <table>
@@ -67,22 +67,22 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>Segjum</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>segðu</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>segi</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>segja, sagða, seg, segða</em></td><td><em>sagt, sögð</em></td><td><em>segjandi</em></td></tr>
+  <tr><td><tt><tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>segja, sagða, seg, segia, segða</em></td><td><em>sagt, sögð</em></td><td><em>segjandi</em></td></tr>
   <tr><td><tt><tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td><em>segjast</em></td><td><em>sagst</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-50005 <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+49998 <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> tokens (98% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (49969; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (38033; 76%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (36187; 72%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35665; 71%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (49962; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=3</tt> (38031; 76%), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (36185; 72%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35665; 71%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (44822; 90% of non-empty `VerbForm`): <em>var, er, voru, hafði, væri, eru, mun, hefði, sé, hefir</em>
-* `Inf` (3677; 7% of non-empty `VerbForm`): <em>vera, hafa, verða, vilja, geta, mega, mundu, fá, hafast, hefi</em>
+* `Fin` (44820; 90% of non-empty `VerbForm`): <em>var, er, voru, hafði, væri, eru, mun, hefði, sé, hefir</em>
+* `Inf` (3673; 7% of non-empty `VerbForm`): <em>vera, hafa, verða, vilja, geta, mega, mundu, fá, hafast, hefi</em>
 * `Part` (132; 0% of non-empty `VerbForm`): <em>haft, hafður, hafðir, verið, hafandi, höfð, skylduð, hafið, getið, hafðar</em>
-* `Sup` (1374; 3% of non-empty `VerbForm`): <em>verið, haft, getað, mátt, viljað, getið, munt, fengið, hafið, munuð</em>
+* `Sup` (1373; 3% of non-empty `VerbForm`): <em>verið, haft, getað, mátt, viljað, getið, munt, fengið, hafið, munuð</em>
 * `EMPTY` (1246): <em>er, mun, em, skyldu, vóru, vera, var, vil, vilja, skyli</em>
 
 <table>
@@ -125,17 +125,17 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-557 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+558 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (557; 100%), <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (557; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (371; 67%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (371; 67%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (356; 64%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (558; 100%), <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (558; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (371; 66%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (371; 66%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (357; 64%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Fin` (283; 51% of non-empty `VerbForm`): <em>verður, var, fær, nær, ríkir, sannast, átti, sanna, syndgir, varir</em>
 * `Inf` (58; 10% of non-empty `VerbForm`): <em>sanna, breiða, helga, fegra, fullkomna, margfalda, yðra, Verra, auðga, bera</em>
-* `Part` (197; 35% of non-empty `VerbForm`): <em>vænst, leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint, dælt, fallin</em>
+* `Part` (198; 35% of non-empty `VerbForm`): <em>vænst, leitt, kunnigt, auðsýnt, skyldir, sýnt, auglýstur, beint, dælt, fallin</em>
 * `Sup` (19; 3% of non-empty `VerbForm`): <em>áminnst, greint, hlýðið, hrært, kunnigt, kært, lagt, leitt, ljósan, mein</em>
-* `EMPTY` (36604): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36605): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 <table>
   <tr><th>Paradigm <i>leiður</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
@@ -148,17 +148,17 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 ### `NOUN`
 
-557 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
+558 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (557; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (474; 85%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (474; 85%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (357; 64%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (558; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (475; 85%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (475; 85%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (358; 64%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
-* `Fin` (374; 67% of non-empty `VerbForm`): <em>vilja, mætti, leið, friðar, kosti, lifnaði, liði, miskunnar, skildi, hóf</em>
+* `Fin` (375; 67% of non-empty `VerbForm`): <em>vilja, mætti, leið, friðar, kosti, lifnaði, liði, miskunnar, skildi, hóf</em>
 * `Inf` (65; 12% of non-empty `VerbForm`): <em>skaða, vilja, anda, sjá, loka, líkama, skála, sóma, Trúa, athuga</em>
 * `Part` (95; 17% of non-empty `VerbForm`): <em>búandi, orðið, liðið, náð, gerð, ráðið, byggð, sæmd, talið, boðið</em>
 * `Sup` (23; 4% of non-empty `VerbForm`): <em>náð, búið, sótt, styrkt, Dýrð, Glott, Verk, erfð, fagnað, klæði</em>
-* `EMPTY` (145324): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145321): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>ráð</i></th><th><tt>Fin</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
@@ -167,7 +167,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
   <tr><td><tt></tt></td><td></td><td><em>ráðið</em></td><td></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `NOUN`. 90% lemmas (261) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `NOUN`. 90% lemmas (262) occur only with one value of `VerbForm`.
 
 ### `ADV`
 
@@ -292,7 +292,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 * `Fin` (26; 90% of non-empty `VerbForm`): <em>er, eð, at, eru, hvörri, hvört</em>
 * `Inf` (1; 3% of non-empty `VerbForm`): <em>nema</em>
 * `Part` (2; 7% of non-empty `VerbForm`): <em>hvört</em>
-* `EMPTY` (41861): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
+* `EMPTY` (41862): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
 
 <table>
   <tr><th>Paradigm <i>hvort</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
@@ -343,7 +343,7 @@ The most frequent other feature values with which `NUM` and `VerbForm` co-occurr
 `NUM` tokens may have the following values of `VerbForm`:
 
 * `Fin` (5; 100% of non-empty `VerbForm`): <em>Xii, fjörutigi, iiii, iiijr, vii</em>
-* `EMPTY` (4407): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
+* `EMPTY` (4408): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
 
 ### `PUNCT`
 
@@ -375,10 +375,10 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (18989; 73%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-dep.html">dep</a></tt>]--> VERB</tt> (952; 79%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (18990; 73%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-dep.html">dep</a></tt>]--> VERB</tt> (955; 79%),
 <tt>VERB --[<tt><a href="is_icepahc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (917; 64%),
-<tt>VERB --[<tt><a href="is_icepahc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (462; 62%),
+<tt>VERB --[<tt><a href="is_icepahc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (461; 62%),
 <tt>VERB --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> AUX</tt> (97; 63%),
 <tt>AUX --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (72; 53%),
 <tt>AUX --[<tt><a href="is_icepahc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (62; 53%),

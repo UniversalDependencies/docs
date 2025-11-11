@@ -43,7 +43,7 @@ The following 39 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	apa	apa	ADV	W--	PronType=Int	1	advmod	_	Morf=^apa<w>_W--$
 3	kah	kah	PART	T--	_	2	advmod:emph	_	Morf=^kah<t>_T--$
 4	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	Morf=^yang<s>_S--$
-5	tercium	cium	VERB	VSP	Mood=Ind|Voice=Pass	1	acl:relcl	_	Morf=^ter+cium<v>_VSP$
+5	tercium	cium	VERB	VSP	Voice=Pass	1	acl:relcl	_	Morf=^ter+cium<v>_VSP$
 6	oleh	oleh	ADP	R--	_	7	case	_	Morf=^oleh<r>_R--$
 7	ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	5	obl	_	Morf=^aku<p>_PS1$
 8	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
@@ -60,15 +60,15 @@ The following 39 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	Tuh	tuh	X	X--	Foreign=Yes	4	dep	_	SpaceAfter=No|Morf=^tuh<x>_X--$
 2	,	,	PUNCT	Z--	_	1	punct	_	Morf=^,<z>_Z--$
 3	kamu	kamu	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nsubj	_	Morf=^kamu<p>_PS2$
-4	lupa	lupa	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^lupa<v>_VSA$
+4	lupa	lupa	VERB	VSA	Voice=Act	0	root	_	Morf=^lupa<v>_VSA$
 5	lagi	lagi	ADV	D--	_	4	advmod	_	Morf=^lagi<d>_D--$
 6	kan	bukan	PART	F--	Abbr=Yes|Polarity=Neg	4	amod	_	SpaceAfter=No|Morf=^kan<f>_F--$
 7	?	?	PUNCT	Z--	_	4	punct	_	Morf=^?<z>_Z--$
 8	-	-	PUNCT	Z--	_	9	punct	_	Morf=^-<z>_Z--$
-9	Lihat	lihat	VERB	VSA	Mood=Ind|Voice=Act	4	parataxis	_	SpaceAfter=No|Morf=^lihat<v>_VSA$
+9	Lihat	lihat	VERB	VSA	Voice=Act	4	parataxis	_	SpaceAfter=No|Morf=^lihat<v>_VSA$
 10	,	,	PUNCT	Z--	_	12	punct	_	Morf=^,<z>_Z--$
 11	kamu	kamu	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	12	nsubj	_	Morf=^kamu<p>_PS2$
-12	lupa	lupa	VERB	VSA	Mood=Ind|Voice=Act	4	parataxis	_	Morf=^lupa<v>_VSA$
+12	lupa	lupa	VERB	VSA	Voice=Act	4	parataxis	_	Morf=^lupa<v>_VSA$
 13	lagi	lagi	ADV	D--	_	12	advmod	_	Morf=^lagi<d>_D--$
 14	bukan	bukan	PART	G--	Polarity=Neg	12	advmod	_	SpaceAfter=No|Morf=^bukan<g>_G--$
 15	?	?	PUNCT	Z--	_	4	punct	_	Morf=^?<z>_Z--$

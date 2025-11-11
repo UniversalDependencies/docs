@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (13; 100% of non-empty `Foreign`): <em>Towers, n-Og, Bay, Electric, From, Horizon, Jubilee, New, Picnic, Tiger</em>
-* `EMPTY` (2016): <em>Cymru, Nghymru, Gymru, Bangor, Gwynedd, Eryri, Jones, Wyddfa, Aberystwyth, Lloegr</em>
+* `EMPTY` (2110): <em>Cymru, Nghymru, Gymru, Bangor, Gwynedd, Eryri, Jones, Wyddfa, Aberystwyth, Lloegr</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (13) occur only with one value of `Foreign`.
 
@@ -36,16 +36,18 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Conradh, Croí, Féile, Gaeilge, Lady, Nation, caissons, emergency, irritating</em>
-* `EMPTY` (15985): <em>bod, cael, ôl, iaith, fod, Gymraeg, gael, ysgol, mynd, nifer</em>
+* `EMPTY` (16727): <em>bod, cael, ôl, iaith, fod, Gymraeg, gael, ysgol, nifer, mynd</em>
 
 ### `DET`
 
 4 <tt><a href="cy_ccg-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cy_ccg-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4; 100%).
+
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>na, The</em>
-* `EMPTY` (3304): <em>y, 'r, yr, pa, ba, An, P', mha</em>
+* `EMPTY` (3474): <em>y, 'r, yr, pa, ba, An, P', mha</em>
 
 ### `ADJ`
 
@@ -56,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Iron, pro-indy</em>
-* `EMPTY` (3597): <em>Cymraeg, newydd, Gymraeg, bob, mwy, lleol, eraill, pob, arall, genedlaethol</em>
+* `EMPTY` (3786): <em>newydd, Cymraeg, Gymraeg, bob, mwy, lleol, genedlaethol, mawr, eraill, pob</em>
 
 ## Relations with Agreement in `Foreign`
 

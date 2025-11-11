@@ -65,12 +65,12 @@ The 2nd highest number of forms (1) was observed with the lemma “1px”: <em>1
 
 The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-`X` occurs with 2 features: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt> (121; 39% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (2; 1% instances)
+`X` occurs with 2 features: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt> (121; 39% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `X` occurs with 2 feature-value pairs: `Foreign=Yes`, `Typo=Yes`
 
 `X` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (188 tokens).
+The most frequent feature combination is `_` (189 tokens).
 Examples: <em>-, sama, turut, beda, usul, bayangi, bulan, gerik, lahan, laksanakan</em>
 
 

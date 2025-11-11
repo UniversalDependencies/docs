@@ -25,9 +25,9 @@ The following 1 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 # visual-style 4 3 expl:comp	color:blue
 1	à	à	ADP	_	_	2	case	_	_
 2	combien	combien	ADV	_	PronType=Int	4	obl:arg	_	_
-3	s'	le/lui	PRON	_	Person=3|Reflex=Yes	4	expl:comp	_	SpaceAfter=No
+3	s'	le/lui	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:comp	_	SpaceAfter=No
 4	élève	élever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	mon	son	DET	_	Number=Sing|Poss=Yes	6	det	_	_
+5	mon	son	DET	_	Number=Sing|Poss=Yes|PronType=Prs	6	det	_	_
 6	aide	aide	NOUN	_	Number=Sing	4	nsubj	_	_
 7	à	à	ADP	_	_	9	case	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_

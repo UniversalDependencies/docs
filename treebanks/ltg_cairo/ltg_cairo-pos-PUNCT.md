@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `PUNCT`
 
 There are 5 `PUNCT` lemmas (5%), 5 `PUNCT` types (4%) and 33 `PUNCT` tokens (19%).
-Out of 11 observed tags, the rank of `PUNCT` is: 7 in number of lemmas, 7 in number of types and 2 in number of tokens.
+Out of 13 observed tags, the rank of `PUNCT` is: 7 in number of lemmas, 7 in number of types and 1 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, -, !</em>
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “-”: <em>–
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ltg_cairo-dep-punct.html">punct</a></tt> (33; 100% instances)
 
-Parents of `PUNCT` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (25; 76% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (6; 18% instances), <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (2; 6% instances)
+Parents of `PUNCT` nodes belong to 4 different parts of speech: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (22; 67% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (7; 21% instances), <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (1; 3% instances)
 
 33 (100%) `PUNCT` nodes are leaves.
 

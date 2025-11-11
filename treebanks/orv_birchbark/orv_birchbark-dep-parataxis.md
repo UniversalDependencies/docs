@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-292 nodes (1%) are attached to their parents as `parataxis`.
+305 nodes (1%) are attached to their parents as `parataxis`.
 
-170 instances of `parataxis` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.07876712328767.
+181 instances of `parataxis` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.04590163934426.
 
-The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (90; 31% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (46; 16% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (46; 16% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (24; 8% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (21; 7% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (93; 30% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (48; 16% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (46; 15% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (24; 8% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (23; 8% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (13; 4% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (8; 3% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (6; 2% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PART.html">PART</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,21 @@ The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 parataxis	color:blue
+1	+	+	SYM	_	_	5	parataxis	_	wf="+"|line_id=1|_
+2	ѿ	отъ	ADP	_	_	3	case	_	wf="ѿ"|addr="115:1"|_
+3	прокошь	Прокша	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	5	orphan	_	wf="прокошь"|addr="115:1"|_
+4	къ	къ	ADP	_	_	5	case	_	wf="къ"|addr="115:1"|_
+5	ньстьрѹ	Нестеръ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="ньстьрѹ"|addr="115:1"|_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 parataxis	color:blue
@@ -56,21 +71,6 @@ The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a
 10	ко	къ	ADP	_	_	11	case	_	wf="ко"|addr="067:1"|_
 11	ва<lbr/>сильеви·и	Васильѥваꙗ	PROPN	_	Case=Dat|Gender=Fem|NameType=Hus|Number=Sing	7	conj	_	wf="васильеви·и"|addr="067:1"|_
 12	:	:	PUNCT	_	_	2	punct	_	wf=":"|line_id=2|_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 parataxis	color:blue
-1	+	+	SYM	_	_	5	parataxis	_	wf="+"|line_id=1|_
-2	ѿ	отъ	ADP	_	_	3	case	_	wf="ѿ"|addr="115:1"|_
-3	прокошь	Прокша	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	5	orphan	_	wf="прокошь"|addr="115:1"|_
-4	къ	къ	ADP	_	_	5	case	_	wf="къ"|addr="115:1"|_
-5	ньстьрѹ	Нестеръ	PROPN	_	Case=Dat|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="ньстьрѹ"|addr="115:1"|_
 
 ~~~
 

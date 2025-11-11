@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="lt_alksnis-pos-VERB
 
 4231 <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3747; 89%), <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3637; 86%), <tt><a href="lt_alksnis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3636; 86%), <tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3104; 73%), <tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2279; 54%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="lt_alksnis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4231; 100%), <tt><a href="lt_alksnis-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3749; 89%), <tt><a href="lt_alksnis-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3637; 86%), <tt><a href="lt_alksnis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3636; 86%), <tt><a href="lt_alksnis-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3104; 73%), <tt><a href="lt_alksnis-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2279; 54%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="lt_alksnis-dep-conj.html">conj</a></tt>]--> VERB</tt> (613; 68%),
-<tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (286; 67%),
+<tt>VERB --[<tt><a href="lt_alksnis-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (285; 67%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (4; 67%),
 <tt>VERB --[<tt><a href="lt_alksnis-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%).
 

@@ -22,18 +22,18 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 acl:relcl	color:blue
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	διηγήσατο	διηγέομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-describe
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
-4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	nsubj	_	Gloss=child,servant
-5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	6	det	_	Gloss=the
-6	Ἰσαὰκ	Ἰσαάκ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Isaac
-7	πάντα	πᾶς	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	Gloss=all,every
-8	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	Gloss=the
-9	ῥήματα	ῥῆμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=words
-10	ἃ	ὅς	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	11	obj	_	Gloss=who,which,that
-11	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	Gloss=to-do,make|SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_24.66
+2	διηγήσατο	διηγέομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-describe|Ref=GEN_24.66
+3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_24.66
+4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	nsubj	_	Gloss=child,servant|Ref=GEN_24.66
+5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_24.66
+6	Ἰσαὰκ	Ἰσαάκ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Isaac|Ref=GEN_24.66
+7	πάντα	πᾶς	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	Gloss=all,every|Ref=GEN_24.66
+8	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	Gloss=the|Ref=GEN_24.66
+9	ῥήματα	ῥῆμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=words|Ref=GEN_24.66
+10	ἃ	ὅς	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	11	obj	_	Gloss=who,which,that|Ref=GEN_24.66
+11	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	Gloss=to-do,make|Ref=GEN_24.66|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	Ref=GEN_24.66
 
 ~~~
 
@@ -44,14 +44,14 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 acl:relcl	color:blue
-1	πλὴν	πλήν	ADV	_	_	2	advmod	_	Gloss=but,however|Unknown=Preposition/Conjunction
-2	κρέας	κρέας	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=flesh,meat
-3	ἐν	ἐν	ADP	_	_	4	case	_	Gloss=in,on,by,with,to
-4	αἵματι	αἷμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	acl:relcl	_	Gloss=blood
-5	ψυχῆς	ψυχή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=soul
-6	οὐ	οὐ	ADV	_	Polarity=Neg	7	advmod	_	Gloss=no,not
-7	φάγεσθε	ἐσθίω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-eat|SpaceAfter=No
-8	·	·	PUNCT	_	_	7	punct	_	_
+1	πλὴν	πλήν	ADV	_	_	2	advmod	_	Gloss=but,however|Ref=GEN_9.4|Unknown=Preposition/Conjunction
+2	κρέας	κρέας	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=flesh,meat|Ref=GEN_9.4
+3	ἐν	ἐν	ADP	_	_	4	case	_	Gloss=in,on,by,with,to|Ref=GEN_9.4
+4	αἵματι	αἷμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	acl:relcl	_	Gloss=blood|Ref=GEN_9.4
+5	ψυχῆς	ψυχή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=soul|Ref=GEN_9.4
+6	οὐ	οὐ	ADV	_	Polarity=Neg	7	advmod	_	Gloss=no,not|Ref=GEN_9.4
+7	φάγεσθε	ἐσθίω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-eat|Ref=GEN_9.4|SpaceAfter=No
+8	·	·	PUNCT	_	_	7	punct	_	Ref=GEN_9.4
 
 ~~~
 
@@ -62,18 +62,18 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 acl:relcl	color:blue
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-do,make
-3	Νῶε	Νῶε	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Noah
-4	πάντα	πᾶς	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Gloss=all,every|SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	7	obl	_	Gloss=all-who;-as-great-as
-7	ἐνετείλατο	ἐντέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	Gloss=to-command,order
-8	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	7	obj	_	Gloss=he,she,it,-self,same
-9	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=lord
-10	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh
-11	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	Gloss=god|SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_7.5
+2	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-do,make|Ref=GEN_7.5
+3	Νῶε	Νῶε	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Noah|Ref=GEN_7.5
+4	πάντα	πᾶς	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Gloss=all,every|Ref=GEN_7.5|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	Ref=GEN_7.5
+6	ὅσα	ὅσος	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	7	obl	_	Gloss=all-who;-as-great-as|Ref=GEN_7.5
+7	ἐνετείλατο	ἐντέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	Gloss=to-command,order|Ref=GEN_7.5
+8	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	7	obj	_	Gloss=he,she,it,-self,same|Ref=GEN_7.5
+9	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=lord|Ref=GEN_7.5
+10	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_7.5
+11	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	Gloss=god|Ref=GEN_7.5|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	Ref=GEN_7.5
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Paulette Roulon.
 
 Repository: [UD_Northwest_Gbaya-Autogramm](https://github.com/UniversalDependencies/UD_Northwest_Gbaya-Autogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgya_autogramm216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgya_autogramm217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -89,7 +89,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 
 
 <ul>
-<li>This corpus contains 403 sentences and 2693 tokens.</li>
+<li>This corpus contains 403 sentences and 2692 tokens.</li>
 </ul>
 
 <ul>
@@ -125,11 +125,11 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as determiners (DET): mà, mɛ̀, mɛ̀-nɛ́, zɔ̀m, ʔà, ʔá̰, ʔá̰-nɛ̀, ʔò, ʔó</li>
+<li>This corpus contains 8 lemmas tagged as determiners (DET): mà, mɛ̀, mɛ̀-nɛ́, zɔ̀m, ʔá̰, ʔá̰-nɛ̀, ʔò, ʔó</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: mà, ʔà, ʔò</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: mà, ʔò</li>
 </ul>
 
 <ul>
@@ -180,7 +180,6 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Sing
     <ul>
-      <li>DET: =à</li>
       <li>PRON: =à̰, =ám, ʔà̰, =à, =m, =éí, mɛ́, mɛ̀, =mɛ́, ʔám</li>
     </ul>
   </li>
@@ -367,7 +366,6 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>3
     <ul>
-      <li>DET: =à</li>
       <li>PRON: =à̰, ʔà̰, =wà, wà, =à, wàá, ʔà̰á̰, =wà-VH, =wà-VV, =à̰-ìí</li>
     </ul>
   </li>
@@ -409,7 +407,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (64)</li>
+      <li>VERB--NOUN (63)</li>
       <li>VERB--PRON (268)</li>
     </ul>
   </li>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-396 nodes (2%) are attached to their parents as `xcomp`.
+402 nodes (2%) are attached to their parents as `xcomp`.
 
-395 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.40909090909091.
+401 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.40547263681592.
 
-The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (264; 67% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (43; 11% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (36; 9% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (28; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (17; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (264; 66% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (43; 11% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (36; 9% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (28; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (17; 4% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,11 +30,11 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 6	pas	pas	ADV	RB	Polarity=Neg	5	advmod	_	_
 7	s'	se	PRON	PRP	Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
 8	élever	élever	VERB	VB	VerbForm=Inf	5	xcomp	_	_
-9	à	à	ADP	IN	_	13	case	_	_
-10	le	le	DET	_	Definite=Def|PronType=Art	9	fixed	_	_
-11	dessus	dessus	X	GW	_	9	fixed	_	_
-12	de	de	ADP	IN	_	9	fixed	_	_
-13	ça	ça	PRON	PDEM	PronType=Dem	8	obl	_	SpaceAfter=No
+9	à	à	ADP	IN	_	11	case	_	_
+10	le	le	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	dessus	dessus	NOUN	GW	Gender=Masc|Number=Sing	8	obl	_	_
+12	de	de	ADP	IN	_	13	case	_	_
+13	ça	ça	PRON	PDEM	PronType=Dem	11	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~

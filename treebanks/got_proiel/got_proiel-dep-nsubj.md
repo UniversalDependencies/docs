@@ -23,12 +23,12 @@ The following 34 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	iþ	iþ	CCONJ	C-	_	5	cc	_	ref=MATT_5.21
-2	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	ref=MATT_5.21
-3	maurþreiþ	maurþrjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	nsubj	_	ref=MATT_5.21
-4	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	ref=MATT_5.21
-5	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.21
-6	stauai	staua	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	ref=MATT_5.21|LId=1
+1	iþ	iþ	CCONJ	C-	_	5	cc	_	Ref=MATT_5.21
+2	saei	saei	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	Ref=MATT_5.21
+3	maurþreiþ	maurþrjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	nsubj	_	Ref=MATT_5.21
+4	skula	skula	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	Ref=MATT_5.21
+5	wairþiþ	wairþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.21
+6	stauai	staua	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	LId=1|Ref=MATT_5.21
 
 ~~~
 
@@ -39,15 +39,15 @@ The following 34 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 nsubj	color:blue
-1	sijai	wisan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.37|LId=1
-2	þ	-uh	ADV	Df	_	1	advmod	_	ref=MATT_5.37
-3	þan	þan	ADV	Df	_	1	discourse	_	ref=MATT_5.37
-4	waurd	waurd	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=MATT_5.37
-5	izwar	izwar	DET	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	det	_	ref=MATT_5.37
-6	ja	ja	INTJ	I-	_	1	xcomp	_	ref=MATT_5.37
-7	ja	ja	INTJ	I-	_	6	conj	_	ref=MATT_5.37
-8	ne	ne	INTJ	I-	_	6	conj	_	ref=MATT_5.37
-9	ne	ne	INTJ	I-	_	6	conj	_	ref=MATT_5.37
+1	sijai	wisan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=1|Ref=MATT_5.37
+2	þ	-uh	ADV	Df	_	1	advmod	_	Ref=MATT_5.37
+3	þan	þan	ADV	Df	_	1	discourse	_	Ref=MATT_5.37
+4	waurd	waurd	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	Ref=MATT_5.37
+5	izwar	izwar	DET	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	det	_	Ref=MATT_5.37
+6	ja	ja	INTJ	I-	_	1	xcomp	_	Ref=MATT_5.37
+7	ja	ja	INTJ	I-	_	6	conj	_	Ref=MATT_5.37
+8	ne	ne	INTJ	I-	_	6	conj	_	Ref=MATT_5.37
+9	ne	ne	INTJ	I-	_	6	conj	_	Ref=MATT_5.37
 
 ~~~
 
@@ -58,11 +58,11 @@ The following 34 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 nsubj	color:blue
-1	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_5.13
-2	uslaubida	us-laubjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.13
-3	im	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	ref=MARK_5.13
-4	Iesus	Iesus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MARK_5.13
-5	suns	suns	ADV	Df	_	2	advmod	_	ref=MARK_5.13
+1	jah	jah	CCONJ	C-	_	2	cc	_	Ref=MARK_5.13
+2	uslaubida	us-laubjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MARK_5.13
+3	im	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl:arg	_	Ref=MARK_5.13
+4	Iesus	Iesus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=MARK_5.13
+5	suns	suns	ADV	Df	_	2	advmod	_	Ref=MARK_5.13
 
 ~~~
 

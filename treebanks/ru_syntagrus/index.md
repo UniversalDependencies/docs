@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kira Droganova, Olga Lyashevskaya, Daniel Zeman.
 
 Repository: [UD_Russian-SynTagRus](https://github.com/UniversalDependencies/UD_Russian-SynTagRus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -101,17 +101,17 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 
 ## Relations
 
-[acl](ru_syntagrus-dep-acl.html) – [acl:relcl](ru_syntagrus-dep-acl-relcl.html) – [advcl](ru_syntagrus-dep-advcl.html) – [advmod](ru_syntagrus-dep-advmod.html) – [amod](ru_syntagrus-dep-amod.html) – [appos](ru_syntagrus-dep-appos.html) – [aux](ru_syntagrus-dep-aux.html) – [aux:pass](ru_syntagrus-dep-aux-pass.html) – [case](ru_syntagrus-dep-case.html) – [cc](ru_syntagrus-dep-cc.html) – [ccomp](ru_syntagrus-dep-ccomp.html) – [compound](ru_syntagrus-dep-compound.html) – [conj](ru_syntagrus-dep-conj.html) – [cop](ru_syntagrus-dep-cop.html) – [csubj](ru_syntagrus-dep-csubj.html) – [csubj:pass](ru_syntagrus-dep-csubj-pass.html) – [dep](ru_syntagrus-dep-dep.html) – [det](ru_syntagrus-dep-det.html) – [discourse](ru_syntagrus-dep-discourse.html) – [dislocated](ru_syntagrus-dep-dislocated.html) – [expl](ru_syntagrus-dep-expl.html) – [fixed](ru_syntagrus-dep-fixed.html) – [flat](ru_syntagrus-dep-flat.html) – [flat:foreign](ru_syntagrus-dep-flat-foreign.html) – [flat:name](ru_syntagrus-dep-flat-name.html) – [iobj](ru_syntagrus-dep-iobj.html) – [list](ru_syntagrus-dep-list.html) – [mark](ru_syntagrus-dep-mark.html) – [nmod](ru_syntagrus-dep-nmod.html) – [nsubj](ru_syntagrus-dep-nsubj.html) – [nsubj:outer](ru_syntagrus-dep-nsubj-outer.html) – [nsubj:pass](ru_syntagrus-dep-nsubj-pass.html) – [nummod](ru_syntagrus-dep-nummod.html) – [nummod:entity](ru_syntagrus-dep-nummod-entity.html) – [nummod:gov](ru_syntagrus-dep-nummod-gov.html) – [obj](ru_syntagrus-dep-obj.html) – [obl](ru_syntagrus-dep-obl.html) – [obl:agent](ru_syntagrus-dep-obl-agent.html) – [obl:depict](ru_syntagrus-dep-obl-depict.html) – [obl:float](ru_syntagrus-dep-obl-float.html) – [obl:pronmod](ru_syntagrus-dep-obl-pronmod.html) – [obl:tmod](ru_syntagrus-dep-obl-tmod.html) – [orphan](ru_syntagrus-dep-orphan.html) – [parataxis](ru_syntagrus-dep-parataxis.html) – [parataxis:discourse](ru_syntagrus-dep-parataxis-discourse.html) – [punct](ru_syntagrus-dep-punct.html) – [root](ru_syntagrus-dep-root.html) – [vocative](ru_syntagrus-dep-vocative.html) – [xcomp](ru_syntagrus-dep-xcomp.html)
+[acl](ru_syntagrus-dep-acl.html) – [acl:relcl](ru_syntagrus-dep-acl-relcl.html) – [advcl](ru_syntagrus-dep-advcl.html) – [advmod](ru_syntagrus-dep-advmod.html) – [amod](ru_syntagrus-dep-amod.html) – [appos](ru_syntagrus-dep-appos.html) – [aux](ru_syntagrus-dep-aux.html) – [aux:pass](ru_syntagrus-dep-aux-pass.html) – [case](ru_syntagrus-dep-case.html) – [cc](ru_syntagrus-dep-cc.html) – [ccomp](ru_syntagrus-dep-ccomp.html) – [compound](ru_syntagrus-dep-compound.html) – [conj](ru_syntagrus-dep-conj.html) – [cop](ru_syntagrus-dep-cop.html) – [csubj](ru_syntagrus-dep-csubj.html) – [csubj:pass](ru_syntagrus-dep-csubj-pass.html) – [dep](ru_syntagrus-dep-dep.html) – [det](ru_syntagrus-dep-det.html) – [discourse](ru_syntagrus-dep-discourse.html) – [dislocated](ru_syntagrus-dep-dislocated.html) – [expl](ru_syntagrus-dep-expl.html) – [fixed](ru_syntagrus-dep-fixed.html) – [flat](ru_syntagrus-dep-flat.html) – [flat:foreign](ru_syntagrus-dep-flat-foreign.html) – [flat:name](ru_syntagrus-dep-flat-name.html) – [iobj](ru_syntagrus-dep-iobj.html) – [list](ru_syntagrus-dep-list.html) – [mark](ru_syntagrus-dep-mark.html) – [nmod](ru_syntagrus-dep-nmod.html) – [nsubj](ru_syntagrus-dep-nsubj.html) – [nsubj:outer](ru_syntagrus-dep-nsubj-outer.html) – [nsubj:pass](ru_syntagrus-dep-nsubj-pass.html) – [nummod](ru_syntagrus-dep-nummod.html) – [nummod:gov](ru_syntagrus-dep-nummod-gov.html) – [obj](ru_syntagrus-dep-obj.html) – [obl](ru_syntagrus-dep-obl.html) – [obl:agent](ru_syntagrus-dep-obl-agent.html) – [obl:depict](ru_syntagrus-dep-obl-depict.html) – [obl:float](ru_syntagrus-dep-obl-float.html) – [obl:pronmod](ru_syntagrus-dep-obl-pronmod.html) – [obl:tmod](ru_syntagrus-dep-obl-tmod.html) – [orphan](ru_syntagrus-dep-orphan.html) – [parataxis](ru_syntagrus-dep-parataxis.html) – [parataxis:discourse](ru_syntagrus-dep-parataxis-discourse.html) – [punct](ru_syntagrus-dep-punct.html) – [root](ru_syntagrus-dep-root.html) – [vocative](ru_syntagrus-dep-vocative.html) – [xcomp](ru_syntagrus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 87337 sentences and 1515580 tokens.</li>
+<li>This corpus contains 87337 sentences and 1515559 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 265483 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 265458 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -119,7 +119,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 </ul>
 
 <ul>
-<li>This corpus contains 2219 types of words that contain both letters and punctuation. Examples: из-за, что-то, г., т., в., все-таки, А., как-то, кто-то, какой-то, во-первых, какие-то, м., во-вторых, по-прежнему, с., п., н., и., чем-то, когда-то, где-то, д., какое-то, почему-то, тыс., е., л., что-нибудь, каким-то, им., из-под, кого-то, 90-х, 1990-х, какой-нибудь, куда-то, по-видимому, Б., г-н, каких-то, гг., какая-то, Гран-при, Ф., кому-то, чего-то, по-моему, по-настоящему, см.</li>
+<li>This corpus contains 2216 types of words that contain both letters and punctuation. Examples: из-за, что-то, г., т., в., все-таки, А., как-то, кто-то, какой-то, во-первых, какие-то, м., во-вторых, по-прежнему, с., п., н., и., чем-то, когда-то, где-то, д., какое-то, почему-то, тыс., е., л., что-нибудь, каким-то, им., из-под, кого-то, 90-х, 1990-х, какой-нибудь, куда-то, по-видимому, Б., г-н, каких-то, гг., какая-то, Гран-при, Ф., кому-то, чего-то, по-моему, по-настоящему, см.</li>
 </ul>
 
 <ul>
@@ -134,7 +134,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 </ul>
 
 <ul>
-<li>This corpus contains 116 word types tagged as particles (PART): Ага, Итак, Ладненько, Не-а, Неужто, Ну-с, Ну-у, Пущай, Увы, а, абы, аж, аль, ар, бен, бишь, будто, бы, было, ван, ведь, вишь, вон, вот, все, все-таки, всего, всего-то, всё, всё-таки, да, даже, де, делла, дель, дескать, ди, душ, едва, единственно, ей-богу, еле, еле-еле, еще, ещё, ж, же, зато, и, ибн, именно, ишь, ка, как, кое, ла, ладно, ли, лишь, ль, минус, мол, нате, не, невесть, нет, нет-нет, неужели, нешто, ни, ни-ни, ничего, ну, о'кей, ох, плюс, попало, попросту, почти, просто, просто-напросто, просто-таки, прям, прямо, прямо-таки, пускай, пусть, разве, себе, словно, так, также, таки, там, то, того, тоже, только, только-только, точно, уж, уже, фон, хоть, хотя, черт-те, что, чуть, чуть-чуть, эвон, эль, этим, это, этого, этом, этому</li>
+<li>This corpus contains 120 word types tagged as particles (PART): Ага, Итак, Ладненько, Ле, Не-а, Неужто, Ну-с, Ну-у, ОК, Пущай, Сан, Увы, а, абы, аж, аль, ар, бен, бин, бишь, будто, бы, было, ван, ведь, вишь, вон, вот, все, все-таки, всего, всего-то, всё, всё-таки, да, даже, де, делла, дель, дескать, ди, душ, едва, единственно, ей-богу, еле, еле-еле, еще, ещё, ж, же, зато, и, ибн, именно, ишь, ка, как, кое, ла, ладно, ли, лишь, ль, минус, мол, нате, не, невесть, нет, нет-нет, неужели, нешто, ни, ни-ни, ничего, ну, о'кей, ох, плюс, попало, попросту, почти, просто, просто-напросто, просто-таки, прям, прямо, прямо-таки, пускай, пусть, разве, себе, словно, так, также, таки, там, то, того, тоже, только, только-только, точно, уж, уже, фон, хоть, хотя, черт-те, что, чуть, чуть-чуть, эвон, эль, этим, это, этого, этом, этому</li>
 </ul>
 
 <ul>
@@ -173,7 +173,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Fin
   <ul>
     <li>AUX: было, был, были, будет, была, будут, есть, будем, буду, будь</li>
-    <li>VERB: может, есть, было, сказал, могут, нет, стал, является, говорит, стали</li>
+    <li>VERB: может, есть, сказал, было, могут, нет, стал, является, говорит, стали</li>
   </ul>
   </li>
 </ul>
@@ -190,6 +190,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Part
   <ul>
+    <li>ADJ: открытой</li>
     <li>AUX: бывший, бывшие, бывшем</li>
     <li>VERB: связано, написано, связаны, сделано, сказано, принято, связанных, связан, окружающей, связана</li>
   </ul>
@@ -206,13 +207,14 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: российской, должна, новой, первую, политической, первой, государственной, большой, новая, второй</li>
+      <li>ADJ: российской, должна, новой, первую, политической, первой, большой, государственной, новая, второй</li>
+      <li>ADJ-Part: открытой</li>
       <li>AUX-Fin: была</li>
       <li>DET: этой, которая, своей, свою, которой, эта, эту, нашей, другой, которую</li>
       <li>NOUN: жизни, власти, страны, жизнь, деньги, работы, стороны, часть, экономики, стране</li>
       <li>NUM: одной, две, одна, одну, двух, обе, двумя, обеих, двум, обеими</li>
       <li>PRON: она, ее, ней, нее, ей, ею, её, нею, неё, тем</li>
-      <li>PROPN: России, Россия, Москве, Москвы, Германии, Россию, РФ, Европе, Европы, Земли</li>
+      <li>PROPN: России, Россия, Москве, Москвы, Германии, Россию, Европе, Европы, Земли, Франции</li>
       <li>VERB-Fin: стала, сказала, могла, была, оказалась, шла, началась, появилась, начала, пришла</li>
       <li>VERB-Part: окружающей, связана, создана, называемой, называемая, действующей, сложившейся, основана, существующей, разработана</li>
     </ul>
@@ -229,7 +231,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>NOUN: года, лет, году, человек, раз, людей, люди, человека, случае, год</li>
       <li>NUM: один, два, одного, двух, одним, одном, полтора, оба, двумя, одному</li>
       <li>PRON: он, его, ему, кто, него, никто, ним, нем, кого, кто-то</li>
-      <li>PROPN: СССР, Путин, Владимир, Сергей, Путина, Александр, Галилей, Медведев, Борис, Николай</li>
+      <li>PROPN: Путин, Владимир, Сергей, Путина, Александр, Галилей, Медведев, Борис, Николай, Илья</li>
       <li>VERB-Fin: сказал, стал, мог, заявил, говорил, был, видел, знал, оказался, спросил</li>
       <li>VERB-Part: связан, называемый, создан, имеющий, связанный, устроен, сделан, созданный, избран, найден</li>
     </ul>
@@ -245,7 +247,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>NOUN: время, дело, времени, развития, государства, место, числе, образования, общества, деле</li>
       <li>NUM: одно, два, одним, одного, двух, одном, одному, оба, двумя, полтора</li>
       <li>PRON: это, что, то, все, того, том, этом, тем, этого, всего</li>
-      <li>PROPN: МВД, Солнца, СНГ, Солнце, Минэкономразвития, НАТО, МЧС, Минобороны, Политбюро, НТВ</li>
+      <li>PROPN: Солнца, Солнце, Минэкономразвития, Минобороны, Политбюро, Минобрнауки, Косово, Возрождения, Подмосковье, Подмосковья</li>
       <li>VERB-Fin: было, стало, удалось, казалось, оказалось, пришлось, произошло, хотелось, могло, прошло</li>
       <li>VERB-Part: связано, написано, сделано, сказано, принято, решено, запрещено, исключено, происходящее, дано</li>
     </ul>
@@ -278,7 +280,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>NOUN: года, время, лет, году, раз, жизни, власти, дело, страны, времени</li>
       <li>NUM: несколько, два, три, один, две, четыре, обе, оба, двое, одни</li>
       <li>PRON: это, что, то, все, того, том, этом, тем, этого, ничего</li>
-      <li>PROPN: России, США, Россия, СССР, Москве, Москвы, Германии, Россию, РФ, Европе</li>
+      <li>PROPN: России, США, Россия, Москве, Москвы, Германии, Россию, Европе, Европы, Земли</li>
       <li>VERB-Part: называемые, называемый, полученные, связанные, существующий, возникающие, имеющиеся, направленные, идущие, написанный</li>
     </ul>
   </li>
@@ -298,7 +300,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>NOUN: лет, людей, люди, деньги, годы, тысяч, пор, человек, стран, рублей</li>
       <li>NUM: одни, одними</li>
       <li>PRON: мы, они, их, нас, них, вы, нам, им, все, вас</li>
-      <li>PROPN: США, Альпах, Игр, РКС, Сочи, ОАЭ, Поло, Нидерландов, Новости, ВВС</li>
+      <li>PROPN: США, Альпах, Новости, Игр, Сочи, Поло, Ведомости, Нидерландов, Играх, Игры</li>
       <li>VERB-Fin: могут, стали, есть, говорят, могли, имеют, скажем, были, являются, считают</li>
       <li>VERB-Part: связаны, связанных, погибших, связанные, называемые, полученные, называемых, работающих, вынуждены, приняты</li>
     </ul>
@@ -309,14 +311,15 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Sing
     <ul>
       <li>ADJ: нужно, должен, первый, второй, российской, должна, большой, известно, новой, невозможно</li>
+      <li>ADJ-Part: открытой</li>
       <li>AUX-Fin: было, был, будет, была, есть, буду, будь, будешь</li>
       <li>AUX-Part: бывший, бывшем</li>
       <li>DET: который, этот, этой, такой, которая, своей, это, этом, свою, этого</li>
       <li>NOUN: года, время, году, жизни, раз, дело, человека, времени, человек, жизнь</li>
       <li>NUM: один, одной, одного, одна, одно, одним, одну, одном, одному, одною</li>
       <li>PRON: он, это, я, что, его, она, то, мне, все, того</li>
-      <li>PROPN: России, Россия, СССР, Москве, Путин, Владимир, Москвы, Германии, Сергей, Путина</li>
-      <li>VERB-Fin: может, есть, было, сказал, нет, стал, является, говорит, стало, мог</li>
+      <li>PROPN: России, Россия, Москве, Путин, Владимир, Москвы, Германии, Сергей, Путина, Александр</li>
+      <li>VERB-Fin: может, есть, сказал, было, нет, стал, является, говорит, стало, мог</li>
       <li>VERB-Part: связано, написано, сделано, сказано, принято, связан, окружающей, связана, называемый, создана</li>
     </ul>
   </li>
@@ -349,8 +352,8 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>NUM: одному, одной, двум, обоим, трем, нескольку, обеим, десяти, нескольким, четырем</li>
       <li>PRON: мне, ему, нам, себе, им, тому, ей, вам, тебе, нему</li>
       <li>PROPN: России, Путину, Марсу, Владимиру, Москве, Сергею, Сталину, Александру, Германии, Европе</li>
-      <li>VERB: некому, желающим, живущим, находящимся, сказанному, заданной, правящей, принятому, связанным, действующей</li>
-      <li>VERB-Part: желающим, живущим, находящимся, сказанному, заданной, правящей, принятому, связанным, действующей, нуждающимся</li>
+      <li>VERB: некому, желающим, живущим, находящимся, принятому, сказанному, заданной, правящей, связанным, действующей</li>
+      <li>VERB-Part: желающим, живущим, находящимся, принятому, сказанному, заданной, правящей, связанным, действующей, нуждающимся</li>
     </ul>
   </li>
 </ul>
@@ -359,11 +362,12 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Gen
     <ul>
       <li>ADJ: российской, нового, новых, российских, первого, российского, разных, экономического, новой, государственного</li>
+      <li>ADJ-Part: открытой</li>
       <li>DET: этого, которых, тех, всех, других, этих, этой, своего, которого, таких</li>
       <li>NOUN: года, лет, людей, жизни, страны, человека, стороны, времени, экономики, власти</li>
       <li>NUM: двух, одного, одной, трех, нескольких, пяти, четырех, десяти, ста, двадцати</li>
       <li>PRON: того, нас, них, этого, ничего, всего, его, него, их, меня</li>
-      <li>PROPN: России, США, Москвы, СССР, Путина, РФ, Европы, Земли, Германии, РАН</li>
+      <li>PROPN: России, США, Москвы, Путина, Европы, Земли, Германии, Украины, Александра, Медведева</li>
       <li>VERB: нечего, связанных, погибших, окружающей, работающих, называемых, опрошенных, называемой, вооруженных, имеющих</li>
       <li>VERB-Part: связанных, погибших, окружающей, работающих, называемых, опрошенных, называемой, вооруженных, имеющих, полученных</li>
     </ul>
@@ -394,7 +398,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>NOUN: году, случае, числе, результате, стране, деле, мире, конце, качестве, условиях</li>
       <li>NUM: одном, одной, двух, нескольких, трех, обоих, четырех, десяти, пяти, обеих</li>
       <li>PRON: том, этом, нем, чем, ней, них, себе, многом, чем-то, всем</li>
-      <li>PROPN: России, Москве, Европе, США, Германии, Западе, Америке, СССР, Земле, Франции</li>
+      <li>PROPN: России, Москве, Европе, США, Германии, Западе, Америке, Земле, Франции, Китае</li>
       <li>VERB-Part: оккупированных, связанных, называемых, развитых, случившемся, изданном, посвященном, посвященных, происходящем, установленном</li>
     </ul>
   </li>
@@ -445,7 +449,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Cmp
     <ul>
       <li>ADJ: лучше, выше, хуже, больше, ниже, легче, меньше, проще, сложнее, ближе</li>
-      <li>ADV: более, больше, менее, раньше, дальше, лучше, чаще, позже, меньше, выше</li>
+      <li>ADV: более, больше, скорее, менее, раньше, дальше, лучше, чаще, ранее, далее</li>
       <li>NUM: больше, меньше</li>
     </ul>
   </li>
@@ -455,7 +459,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Pos
     <ul>
       <li>ADJ: нужно, должны, должен, первый, второй, новые, российской, последние, должна, большой</li>
-      <li>ADV: уже, можно, еще, так, очень, однако, надо, как, например, сегодня</li>
+      <li>ADV: уже, еще, так, очень, однако, как, например, сегодня, конечно, где</li>
     </ul>
   </li>
 </ul>
@@ -463,7 +467,8 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: важнейших, крупнейших, важнейшим, крупнейшие, важнейший, важнейшие, новейшие, крупнейший, ближайших, важнейшей</li>
+      <li>ADJ: ближайшие, дальнейшем, ближайшее, высшее, дальнейшее, дальнейшего, важнейших, лучшее, крупнейших, важнейшим</li>
+      <li>ADV: наиболее, высочайше</li>
     </ul>
   </li>
 </ul>
@@ -475,10 +480,9 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: несмотря, невзирая</li>
       <li>CCONJ: ни</li>
       <li>PART: не, ни, нет, Не-а, нет-нет</li>
-      <li>VERB: нет, нечего, не, нечем, некогда, некому, некуда, незачем, некого, нету</li>
+      <li>VERB: нельзя, нет, нечего, не, некуда, нечем, некогда, некому, невозможно, негде</li>
     </ul>
   </li>
 </ul>
@@ -518,6 +522,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Perf
     <ul>
+      <li>ADJ-Part: открытой</li>
       <li>VERB-Conv: получив, увидев, узнав, став, оставив, сделав, вернувшись, попав, пройдя, взяв</li>
       <li>VERB-Fin: сказал, стал, стали, стало, стала, удалось, заявил, станет, оказалось, пришлось</li>
       <li>VERB-Inf: сказать, сделать, получить, стать, понять, найти, создать, дать, принять, взять</li>
@@ -552,7 +557,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Ind
     <ul>
       <li>AUX-Fin: было, был, были, будет, была, будут, есть, будем, буду, будете</li>
-      <li>VERB-Fin: может, есть, было, сказал, могут, нет, стал, является, говорит, стали</li>
+      <li>VERB-Fin: может, есть, сказал, было, могут, нет, стал, является, говорит, стали</li>
     </ul>
   </li>
 </ul>
@@ -575,11 +580,12 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Past
     <ul>
+      <li>ADJ-Part: открытой</li>
       <li>AUX-Conv: Быв</li>
       <li>AUX-Fin: было, был, были, была</li>
       <li>AUX-Part: бывший, бывшие, бывшем</li>
       <li>VERB-Conv: получив, увидев, узнав, став, оставив, сделав, вернувшись, попав, пройдя, взяв</li>
-      <li>VERB-Fin: было, сказал, стал, стали, стало, мог, стала, могли, удалось, заявил</li>
+      <li>VERB-Fin: сказал, было, стал, стали, стало, мог, стала, могли, удалось, заявил</li>
       <li>VERB-Part: связано, написано, связаны, сделано, сказано, принято, связанных, связан, связана, погибших</li>
     </ul>
   </li>
@@ -609,7 +615,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>AUX-Inf: быть</li>
       <li>AUX-Part: бывший, бывшие, бывшем</li>
       <li>VERB-Conv: говоря, начиная, судя, глядя, учитывая, зная, исходя, имея, используя, получив</li>
-      <li>VERB-Fin: может, есть, было, сказал, могут, нет, говорит, мог, стоит, идет</li>
+      <li>VERB-Fin: может, есть, сказал, было, могут, нет, говорит, мог, стоит, идет</li>
       <li>VERB-Inf: быть, сказать, сделать, делать, говорить, работать, получить, жить, понять, иметь</li>
       <li>VERB-Part: окружающей, погибших, работающих, имеющих, действующих, имеющие, работающие, имеющий, существующих, действующей</li>
     </ul>
@@ -630,9 +636,10 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Pass
     <ul>
+      <li>ADJ-Part: открытой</li>
       <li>VERB-Conv: задумываясь, обращаясь, Оглядываясь, кооперируясь, ограничиваясь, ориентируясь, просыпаясь, Двигаясь, Знакомясь, Собираясь</li>
-      <li>VERB-Fin: считается, говорится, используется, используются, проводится, делается, проводятся, говорилось, считалось, наблюдается</li>
-      <li>VERB-Inf: использоваться, проводиться, считаться, применяться, рассматриваться, решаться, восприниматься, обсуждаться, выполняться, выплачиваться</li>
+      <li>VERB-Fin: говорится, считается, используется, используются, проводится, делается, проводятся, говорилось, наблюдается, определяется</li>
+      <li>VERB-Inf: использоваться, проводиться, применяться, рассматриваться, решаться, восприниматься, обсуждаться, выполняться, выплачиваться, определяться</li>
       <li>VERB-Part: связано, написано, связаны, сделано, сказано, принято, связанных, связан, связана, связанные</li>
     </ul>
   </li>
@@ -668,7 +675,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
   <li>Exc
     <ul>
       <li>ADV: как, куда, Сколько, Ка-ак, Насколько, где</li>
-      <li>DET: какой, Каково, какая, какое</li>
+      <li>DET: какой, Каково, какая, какие, какое</li>
     </ul>
   </li>
 </ul>
@@ -686,7 +693,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Int
     <ul>
-      <li>ADV: как, почему, где, зачем, куда, откуда, когда, насколько, что, отчего</li>
+      <li>ADV: как, почему, где, зачем, куда, откуда, что, когда, насколько, отчего</li>
       <li>DET: каково, каковы, какова, каков, какие, какой, какая, какого, Который, каких</li>
       <li>PRON: что, чего, кто, кому, чем, кого, кем</li>
     </ul>
@@ -724,7 +731,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: друг, друга, другу, другом, друге, дружку</li>
+      <li>PRON: друг, друга, другу, другом, друге, дружку, дружке</li>
     </ul>
   </li>
 </ul>
@@ -734,7 +741,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
     <ul>
       <li>ADV: как, где, когда, куда, почему, насколько, откуда, сколько, зачем, причем</li>
       <li>DET: которые, который, которых, которая, которой, которого, которое, которую, котором, которым</li>
-      <li>PRON: что, кто, кого, кому, чем, чего, чему, кем, ком</li>
+      <li>PRON: что, кто, чем, кого, кому, чего, чему, кем, ком</li>
     </ul>
   </li>
 </ul>
@@ -855,14 +862,14 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: гос, п., л., сельхоз, куб., Рос, военно, нем., психо, соц</li>
+          <li>ADJ: гос, п., л., сельхоз, куб., Б., Рос, Х., военно, нем.</li>
           <li>ADV: д., т., а.к.а.</li>
           <li>DET: пр., н., др.</li>
-          <li>NOUN: ВВП, НДС, млрд, НКО, г., СМИ, трлн, ЖКХ, ЕСН, НИИ</li>
+          <li>NOUN: ВВП, СМИ, НДС, млрд, РИА, ЕГЭ, НКО, г., ИТ, трлн</li>
           <li>PRON: т.</li>
-          <li>PROPN: В., А., СССР, США, М., С., И., Н., РАН, П.</li>
+          <li>PROPN: СССР, В., А., РФ, РАН, США, М., С., И., Н.</li>
           <li>VERB: е., и., см., н.</li>
-          <li>X: ХВ</li>
+          <li>X: H., ХВ</li>
         </ul>
       </li>
     </ul>
@@ -874,37 +881,39 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
     <ul>
       <li>ADJ
         <ul>
-          <li>ADV: так</li>
+          <li>ADV: так, т.</li>
         </ul>
       </li>
       <li>ADP
         <ul>
           <li>ADP: в, во, по, с, за, со, при, кроме</li>
           <li>ADV: вплоть, наравне, равно</li>
+          <li>DET: такие, таких</li>
           <li>PRON: все</li>
         </ul>
       </li>
       <li>ADV
         <ul>
           <li>ADP: в, до, прежде, по, с, за, между, на, кроме, без</li>
-          <li>ADV: вряд, едва, вроде, пока, хоть, чуть, сверху, снизу, почти, равно</li>
+          <li>ADV: несмотря, как, так, вряд, более, вроде, едва, пока, хоть, менее</li>
           <li>CCONJ: а</li>
-          <li>DET: само, никоим, один, то, сам, одна, сама, одно, сами, одну</li>
+          <li>DET: то, само, один, никоим, сам, одна, сама, сами, одно, одну</li>
           <li>NOUN: слава, рук, бок, глазу, плоть</li>
           <li>NUM: один</li>
-          <li>PART: хотя, все, только, разве, ни, будто, и, всё, лишь, словно</li>
+          <li>PART: хотя, все, только, разве, ни, будто, и, всё, не, лишь</li>
           <li>PRON: тем, все, тому, всё, что, того, кто</li>
           <li>SCONJ: как, что, хотя</li>
+          <li>VERB-Fin: почитай</li>
         </ul>
       </li>
       <li>CCONJ
         <ul>
           <li>ADP: в</li>
-          <li>ADV: где</li>
-          <li>CCONJ: а, но, да, или, и, либо, только</li>
-          <li>PART: не, хоть, ну, вот, да</li>
+          <li>ADV: так, где</li>
+          <li>CCONJ: но, а, да, или, и, либо, только</li>
+          <li>PART: не, хоть, ну, вот, да, тоже</li>
           <li>PRON: то, т., т</li>
-          <li>SCONJ: то, как, хотя</li>
+          <li>SCONJ: то, что, как, хотя</li>
           <li>VERB-Fin: будь</li>
         </ul>
       </li>
@@ -916,16 +925,17 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       </li>
       <li>INTJ
         <ul>
-          <li>INTJ: Ей</li>
+          <li>INTJ: Ай, Ей</li>
           <li>PART: Ну</li>
         </ul>
       </li>
       <li>NOUN
         <ul>
-          <li>ADV: так</li>
-          <li>NOUN: год, года, лет, пиетет</li>
+          <li>ADV: т., так</li>
+          <li>DET: одна, сам</li>
+          <li>NOUN: год, года, друг, лет, пиетет</li>
           <li>PART: нет</li>
-          <li>PRON: т.</li>
+          <li>PRON: т., друг, кем, то</li>
         </ul>
       </li>
       <li>NUM
@@ -935,7 +945,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       </li>
       <li>PART
         <ul>
-          <li>PART: не, нет-нет, нет, ни</li>
+          <li>PART: все, только, хотя, будто, и, разве, всё, лишь, не, нет-нет</li>
           <li>PRON: то</li>
         </ul>
       </li>
@@ -949,7 +959,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>SCONJ
         <ul>
           <li>ADP: с, по, в, до, при</li>
-          <li>ADV: прежде, Потому, даром</li>
+          <li>ADV: потому, так, прежде, тогда, оттого, т., более, даром, оттого,</li>
           <li>PART: лишь, разве, словно</li>
           <li>PRON: то, тем, т.</li>
           <li>SCONJ: как, будто, коль, лишь, если, хотя, разве, словно, в, хоть</li>
@@ -958,12 +968,13 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       <li>VERB
         <ul>
           <li>ADP: в, во, по</li>
-          <li>ADV: так, хоть</li>
-          <li>PART: Да</li>
-          <li>PRON: все, собой, том</li>
+          <li>ADV: т., так, хоть</li>
+          <li>PART: Да, не</li>
+          <li>PRON: все, собой, себе, том</li>
+          <li>VERB: представляет, представляют, представить, представляли, представлял, представляла, представлять, представляло, представляем, представляющие</li>
           <li>VERB-Fin: представляет, представляют, представляли, представлял, представляла, представляло, представляем, поди, представьте, являет</li>
-          <li>VERB-Inf: представить, представлять, Возбуждать, Говорить, Договориться, Иметь, Съесть, думать, знать, идти</li>
-          <li>VERB-Part: представляющая, представляющие, представляющий, представляющих, представлявших, представлявшую, представляющего, представляющее</li>
+          <li>VERB-Inf: представить, представлять, знать, Возбуждать, Говорить, Договориться, Иметь, Съесть, ведать, думать</li>
+          <li>VERB-Part: представляющие, представляющая, представляющий, представляющих, представлявших, представлявшую, представляющего, представляющее</li>
         </ul>
       </li>
     </ul>
@@ -977,8 +988,8 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
         <ul>
           <li>ADJ: daily</li>
           <li>NOUN: ББ</li>
-          <li>PART: делла, Бен, Да, Де</li>
-          <li>PROPN: А, 3D, Крэйн, АММ, Воронежэнерго, НИ, СФ, БСЖВ, ИК, Р</li>
+          <li>PART: бен, бин, Ле, Аль, Эль, делла, Ван, Да, Де, Сан</li>
+          <li>PROPN: А, Крэйн, АММ, Воронежэнерго, НИ, СФ, БСЖВ, 3D, В, ВШБ</li>
           <li>VERB: Воскресе</li>
           <li>X: MBA, the, of, ButtKicker, Facebook, FIA, Iridium, and, RoboCup, Apple</li>
         </ul>
@@ -1005,7 +1016,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
     <ul>
       <li>Com
         <ul>
-          <li>PROPN: РАН, МГУ, ЦК, ВТО, ООН, КПСС, Формулы, НАТО, ФСБ, МВД</li>
+          <li>PROPN: РАН, МГУ, ЦК, ООН, ВТО, КПСС, Формулы, НАТО, ФСБ, МВД</li>
         </ul>
       </li>
       <li>Geo
@@ -1030,7 +1041,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
       </li>
       <li>Pro
         <ul>
-          <li>PROPN: Сети, РБК, МК, КОС, МКС, Су, Фобос, Вечерки, НГ, Страны.Ru</li>
+          <li>PROPN: НИ, Сети, Фобос-Грунт, МК, РБК, НГ, КОС, МКС, Су, Фобос</li>
         </ul>
       </li>
       <li>Prs
@@ -1092,9 +1103,10 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
           <li>ADV: Ка-ак, Та-ак, ни-ког-да</li>
           <li>DET: тттвою</li>
           <li>INTJ: Мда-а</li>
-          <li>NOUN: Ка-шель, зе-е-млю, инка, по-ток, ррррадость</li>
+          <li>NOUN: Ка-шель, зе-е-млю, инка, капита-ан, по-ток, ррррадость, с-волочь, языка</li>
           <li>PRON: ни-че-го</li>
           <li>PROPN: Вер-монт</li>
+          <li>VERB-Fin: С-стоит</li>
         </ul>
       </li>
     </ul>
@@ -1121,52 +1133,48 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Gen (248)</li>
+      <li>VERB--NOUN-Gen (256)</li>
       <li>VERB--NOUN-Ins-ADP(с) (1)</li>
-      <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB--NOUN-Par (1)</li>
-      <li>VERB--PRON-Gen (46)</li>
-      <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN (77)</li>
-      <li>VERB-Fin--NOUN-ADP(около) (2)</li>
+      <li>VERB--NOUN-Nom (14)</li>
+      <li>VERB--NOUN-Par (2)</li>
+      <li>VERB--PRON-Gen (50)</li>
+      <li>VERB--PRON-Nom (20)</li>
+      <li>VERB-Fin--NOUN (167)</li>
       <li>VERB-Fin--NOUN-Acc (5)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(под) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(с) (2)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(по) (9)</li>
-      <li>VERB-Fin--NOUN-Gen (2564)</li>
+      <li>VERB-Fin--NOUN-Gen (2574)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(в) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(во) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(до) (16)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(около) (58)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(до) (15)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(около) (60)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(от) (6)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(по) (11)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(порядка) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(свыше) (10)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(на) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (41809)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(в) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (41689)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(во) (9)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(до) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(за) (2)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(из) (2)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(от) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(с) (4)</li>
       <li>VERB-Fin--NOUN-Par (13)</li>
       <li>VERB-Fin--PRON (6)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(на) (1)</li>
-      <li>VERB-Fin--PRON-Gen (347)</li>
+      <li>VERB-Fin--PRON-Gen (346)</li>
       <li>VERB-Fin--PRON-Gen-ADP(у) (1)</li>
       <li>VERB-Fin--PRON-Loc-ADP(в) (2)</li>
-      <li>VERB-Fin--PRON-Nom (21908)</li>
+      <li>VERB-Fin--PRON-Nom (21918)</li>
       <li>VERB-Inf--NOUN-Gen (12)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(около) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (528)</li>
+      <li>VERB-Inf--NOUN-Nom (529)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Nom (317)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Nom (20)</li>
+      <li>VERB-Part--NOUN-Nom (21)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
     </ul>
   </li>
@@ -1175,58 +1183,66 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Acc (2)</li>
+      <li>VERB--NOUN (2)</li>
+      <li>VERB--NOUN-Acc (8)</li>
+      <li>VERB--NOUN-Gen (8)</li>
+      <li>VERB--PRON-Acc (10)</li>
+      <li>VERB--PRON-Gen (4)</li>
       <li>VERB-Conv--NOUN (5)</li>
-      <li>VERB-Conv--NOUN-Acc (2023)</li>
-      <li>VERB-Conv--NOUN-Gen (91)</li>
-      <li>VERB-Conv--NOUN-Ins (22)</li>
+      <li>VERB-Conv--NOUN-Acc (2025)</li>
+      <li>VERB-Conv--NOUN-Gen (281)</li>
+      <li>VERB-Conv--NOUN-Gen-ADP(около) (3)</li>
+      <li>VERB-Conv--NOUN-Ins (55)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>
       <li>VERB-Conv--PRON-Acc (233)</li>
-      <li>VERB-Conv--PRON-Gen (11)</li>
+      <li>VERB-Conv--PRON-Gen (34)</li>
       <li>VERB-Conv--PRON-Nom (5)</li>
-      <li>VERB-Fin--NOUN (31)</li>
-      <li>VERB-Fin--NOUN-Acc (20741)</li>
+      <li>VERB-Fin--NOUN (55)</li>
+      <li>VERB-Fin--NOUN-Acc (20733)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(во) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(на) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(над) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (828)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (3229)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(до) (2)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(на) (2)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(около) (67)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(по) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(порядка) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ради) (3)</li>
-      <li>VERB-Fin--NOUN-Ins (106)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(свыше) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (406)</li>
       <li>VERB-Fin--NOUN-Ins-ADP(со) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (7)</li>
+      <li>VERB-Fin--NOUN-Nom (16)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(около) (1)</li>
       <li>VERB-Fin--NOUN-Par (1)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (5063)</li>
-      <li>VERB-Fin--PRON-Gen (262)</li>
-      <li>VERB-Fin--PRON-Ins (23)</li>
-      <li>VERB-Fin--PRON-Nom (37)</li>
-      <li>VERB-Inf--NOUN (21)</li>
-      <li>VERB-Inf--NOUN-Acc (12037)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(в) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(на) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(над) (2)</li>
+      <li>VERB-Fin--PRON-Acc (5064)</li>
+      <li>VERB-Fin--PRON-Gen (746)</li>
+      <li>VERB-Fin--PRON-Ins (43)</li>
+      <li>VERB-Fin--PRON-Nom (41)</li>
+      <li>VERB-Inf--NOUN (26)</li>
+      <li>VERB-Inf--NOUN-Acc (12045)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(над) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(со) (1)</li>
-      <li>VERB-Inf--NOUN-Gen (229)</li>
-      <li>VERB-Inf--NOUN-Ins (20)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(по) (1)</li>
+      <li>VERB-Inf--NOUN-Gen (989)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(до) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(около) (13)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(от) (1)</li>
+      <li>VERB-Inf--NOUN-Ins (122)</li>
       <li>VERB-Inf--NOUN-Loc-ADP(о) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (4)</li>
-      <li>VERB-Inf--PRON-Acc (2441)</li>
-      <li>VERB-Inf--PRON-Gen (84)</li>
-      <li>VERB-Inf--PRON-Ins (6)</li>
-      <li>VERB-Inf--PRON-Nom (20)</li>
-      <li>VERB-Part--NOUN (3)</li>
-      <li>VERB-Part--NOUN-Acc (1782)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(в) (1)</li>
+      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB-Inf--PRON-Acc (2446)</li>
+      <li>VERB-Inf--PRON-Gen (277)</li>
+      <li>VERB-Inf--PRON-Ins (19)</li>
+      <li>VERB-Inf--PRON-Nom (23)</li>
+      <li>VERB-Part--NOUN (6)</li>
+      <li>VERB-Part--NOUN-Acc (1789)</li>
       <li>VERB-Part--NOUN-Acc-ADP(во) (1)</li>
-      <li>VERB-Part--NOUN-Gen (50)</li>
-      <li>VERB-Part--NOUN-Ins (24)</li>
-      <li>VERB-Part--NOUN-Nom (2)</li>
-      <li>VERB-Part--PRON-Acc (155)</li>
-      <li>VERB-Part--PRON-Gen (5)</li>
-      <li>VERB-Part--PRON-Nom (8)</li>
+      <li>VERB-Part--NOUN-Gen (229)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(около) (2)</li>
+      <li>VERB-Part--NOUN-Ins (111)</li>
+      <li>VERB-Part--PRON-Acc (158)</li>
+      <li>VERB-Part--PRON-Gen (21)</li>
+      <li>VERB-Part--PRON-Ins (1)</li>
+      <li>VERB-Part--PRON-Nom (10)</li>
     </ul>
   </li>
 </ul>
@@ -1234,40 +1250,40 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat (12)</li>
-      <li>VERB--PRON-Dat (25)</li>
-      <li>VERB--PRON-Ins (1)</li>
+      <li>VERB--NOUN-Dat (52)</li>
+      <li>VERB--NOUN-Nom (1)</li>
+      <li>VERB--PRON-Dat (135)</li>
+      <li>VERB--PRON-Ins (2)</li>
       <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-Dat (117)</li>
       <li>VERB-Conv--NOUN-Gen (9)</li>
-      <li>VERB-Conv--NOUN-Ins (112)</li>
-      <li>VERB-Conv--PRON-Dat (48)</li>
-      <li>VERB-Conv--PRON-Ins (9)</li>
+      <li>VERB-Conv--NOUN-Ins (264)</li>
+      <li>VERB-Conv--PRON-Dat (50)</li>
+      <li>VERB-Conv--PRON-Ins (20)</li>
       <li>VERB-Conv--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN (5)</li>
-      <li>VERB-Fin--NOUN-Dat (2488)</li>
+      <li>VERB-Fin--NOUN (16)</li>
+      <li>VERB-Fin--NOUN-Dat (2458)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(во) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (57)</li>
-      <li>VERB-Fin--NOUN-Ins (773)</li>
-      <li>VERB-Fin--PRON-Dat (2987)</li>
+      <li>VERB-Fin--NOUN-Gen (62)</li>
+      <li>VERB-Fin--NOUN-Ins (2082)</li>
+      <li>VERB-Fin--PRON-Dat (3017)</li>
       <li>VERB-Fin--PRON-Gen (12)</li>
-      <li>VERB-Fin--PRON-Ins (112)</li>
-      <li>VERB-Fin--PRON-Nom (12)</li>
-      <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Dat (811)</li>
-      <li>VERB-Inf--NOUN-Gen (21)</li>
-      <li>VERB-Inf--NOUN-Ins (206)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
-      <li>VERB-Inf--PRON-Dat (623)</li>
-      <li>VERB-Inf--PRON-Ins (35)</li>
-      <li>VERB-Inf--PRON-Nom (6)</li>
-      <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Dat (480)</li>
+      <li>VERB-Fin--PRON-Ins (307)</li>
+      <li>VERB-Fin--PRON-Nom (13)</li>
+      <li>VERB-Inf--NOUN (3)</li>
+      <li>VERB-Inf--NOUN-Dat (816)</li>
+      <li>VERB-Inf--NOUN-Gen (23)</li>
+      <li>VERB-Inf--NOUN-Ins (752)</li>
+      <li>VERB-Inf--PRON-Dat (652)</li>
+      <li>VERB-Inf--PRON-Ins (119)</li>
+      <li>VERB-Inf--PRON-Nom (8)</li>
+      <li>VERB-Part--NOUN (5)</li>
+      <li>VERB-Part--NOUN-Dat (481)</li>
       <li>VERB-Part--NOUN-Gen (76)</li>
-      <li>VERB-Part--NOUN-Ins (215)</li>
-      <li>VERB-Part--PRON-Dat (203)</li>
+      <li>VERB-Part--NOUN-Ins (789)</li>
+      <li>VERB-Part--PRON-Dat (205)</li>
       <li>VERB-Part--PRON-Gen (2)</li>
-      <li>VERB-Part--PRON-Ins (11)</li>
+      <li>VERB-Part--PRON-Ins (35)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
     </ul>
   </li>
@@ -1278,15 +1294,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 388 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: чувствовать себя, позволить себе, вести себя, считать себя, ощущать себя, называть себя, сказать себе, найти себе, почувствовать себя, проявить себя, представить себе, повести себя, ставить себе, оправдать себя, говорить себе, купить себе, отдавать себе, позволять себе, помнить себя, исчерпать себя, подобный себе, покупать себе, причислять себя, вообразить себе, делать себе, защитить себя, защищать себя, именовать себя, отказывать себе, посвятить себя, судить себя, уважать себя, взять свое, видеть себя, выбирать себе, выдавать себя, готовить себе, зарекомендовать себя, изображать себя, искать себе, назвать себя, найти себя, объявить себя, оградить себя, позиционировать себя, поймать себя, представить себя, пробивать себе, ставить себя, брать себе</li>
+  <li>This corpus contains 406 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: чувствовать себя, вести себя, позволить себе, представить себе, считать себя, ощущать себя, представлять себе, называть себя, сказать себе, найти себе, почувствовать себя, проявить себя, оправдать себя, повести себя, говорить себе, купить себе, найти себя, отдавать себе, позволять себе, помнить себя, ставить себе, исчерпать себя, подобный себе, покупать себе, причислять себя, видеть себя, вообразить себе, защитить себя, защищать себя, именовать себя, отказывать себе, посвятить себя, судить себя, уважать себя, взять свое, выбирать себе, выдавать себя, готовить себе, зарекомендовать себя, изображать себя, искать себе, назвать себя, объявить себя, оградить себя, позиционировать себя, поймать себя, показать себя, поставить себе, представить себя, пробивать себе</li>
     <ul>
-      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: зарекомендовать, возомнить, поберечь</li>
+      <li>Out of those, 5 lemmas occurred more than once, but never without a reflexive dependent. Examples: зарекомендовать, утруждать, возомнить, запятнать, поберечь</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:pronmod</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:pronmod</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

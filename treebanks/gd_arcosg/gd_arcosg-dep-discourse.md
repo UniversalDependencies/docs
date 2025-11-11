@@ -37,7 +37,7 @@ The following 22 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
 1	uill	uill	INTJ	I	_	3	discourse	_	_
-2	chan	is	AUX	Wp-in	Polarity=Neg|Tense=Pres	3	cop	_	_
+2	chan	is	AUX	Wp-in	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	urrainn	urrainn	NOUN	Uf	_	0	root	_	_
 4	do	do	ADP	Sp	_	5	case	_	_
 5	mi	mi	PRON	Pp1s	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
@@ -52,7 +52,7 @@ The following 22 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 1 discourse	color:blue
 1	ò	ò	INTJ	I	_	4	discourse	_	_
-2	's	is	AUX	Wp-i	Tense=Pres	4	cop	_	_
+2	's	is	AUX	Wp-i	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	an	an	ADP	Sp	_	4	case	_	_
 4	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 

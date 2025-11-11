@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1466 nodes (1%) are attached to their parents as `nummod`.
+1446 nodes (1%) are attached to their parents as `nummod`.
 
-1401 instances of `nummod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40518417462483.
+1381 instances of `nummod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4073305670816.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1300; 89% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (106; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (30; 2% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1303; 90% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (106; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (23; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nummod	color:blue
-1	For	for	ADP	IN	_	3	case	3:case	Discourse=organization-preparation:69->73:3:num-count-522|PDTB=Implicit:Comparison.Concession.Arg2-as-denier:but:_:501-520:521-531
+1	For	for	ADP	IN	_	3	case	3:case	Discourse=organization-preparation:69->73:3:num-count-522-gold|PDTB=Implicit:Comparison.Concession.Arg2-as-denier:but:_:501-520:521-531
 2	one	one	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	thing	thing	NOUN	NN	Number=Sing	6	obl	6:obl:for	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_
@@ -56,24 +56,22 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nummod	color:blue
-1	A	A	PROPN	NNP	Number=Sing	0	root	0:root	Bridge=106<107|Discourse=elaboration-additional:69->67:1:sem-mrnym-609-615,617-619|Entity=(107-organization-acc:inf-nnnnn-cf2-1,3-sgl|SpaceAfter=No|XML=<hi rend:::"bold"><ref><w>
-2	-	-	PUNCT	HYPH	_	3	punct	3:punct	SpaceAfter=No
-3	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	flat	1:flat	Entity=107)|XML=</w></ref></hi>
-4	2470	2470	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	Entity=(108-place-new-nnnnn-cf3-2,3-sgl
-5	Lemoine	Lemoine	PROPN	NNP	Number=Sing	6	compound	6:compound	_
-6	Avenue	Avenue	PROPN	NNP	Number=Sing	1	list	1:list	Entity=108)|SpaceAfter=No
-7	,	,	PUNCT	,	_	8	punct	8:punct	_
-8	tel	telephone	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	Entity=(109-abstract-new-nnnnn-cf1-1-coref)|SpaceAfter=No
-9	:	:	PUNCT	:	_	8	punct	8:punct	_
-10	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	list	1:list	Discourse=elaboration-additional:70->69:0:sem-synym-624,626-628+grf-col-625|Entity=(109-abstract-giv:act-n____-cf1-1,2,3-coref
-11	201	201	NUM	CD	NumForm=Digit|NumType=Card	10	flat	10:flat	_
-12	944-3737	944-3737	NUM	CD	NumForm=Digit|NumType=Card	10	flat	10:flat	Entity=109)|SpaceAfter=No
-13	.	.	PUNCT	.	_	1	punct	1:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 nummod	color:blue
+1	8	8	X	LS	_	2	discourse	2:discourse	Discourse=joint-list_m:106->95:2:grf-seq-768,860-_|XML=<hi rend:::"bold"><ref target:::"https://en.wikivoyage.org/wiki/Isfahan#/maplink/7"></ref>
+2	Hasht	Hasht	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(149-place-new-nnnnn-cf1-1,2-coref-Hasht_Behesht
+3	Behesht	Behesht	PROPN	NNP	Number=Sing	2	flat	2:flat	Entity=149)|XML=</hi>
+4	(	(	PUNCT	-LRB-	_	6	punct	6:punct	Discourse=restatement-partial:107->106:0:sem-synym-861-862,864-868-_+grf-prn-863,869-_|SpaceAfter=No
+5	The	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(149-place-giv:act-nnnnn-cf1-2,5-appos-Hasht_Behesht|XML=<hi rend:::"italic">
+6	Palace	Palace	PROPN	NNP	Number=Sing	2	appos	2:appos	_
+7	of	of	ADP	IN	_	9	case	9:case	_
+8	Eight	eight	NUM	CD	NumForm=Word|NumType=Card	9	nummod	9:nummod	Entity=(150-abstract-new-nnnnn-cf2-2-sgl
+9	Paradises	Paradise	PROPN	NNPS	Number=Plur	6	nmod	6:nmod:of	Entity=150)149)|MSeg=Paradise-s|SpaceAfter=No|XML=</hi>
+10	)	)	PUNCT	-RRB-	_	6	punct	6:punct	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

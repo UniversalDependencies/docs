@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Javanese-CSUI: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (6%), 67 `SCONJ` types (2%) and 314 `SCONJ` tokens (2%).
-Out of 17 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 9 in number of types and 12 in number of tokens.
+There are 58 `SCONJ` lemmas (2%), 67 `SCONJ` types (2%) and 314 `SCONJ` tokens (2%).
+Out of 17 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>_</em>
+The 10 most frequent `SCONJ` lemmas: <em>yen, anggo, kaya, nalika, amarga, nganti, nek, supaya, tawa, karo</em>
 
 The 10 most frequent `SCONJ` types:  <em>yen, kanggo, kaya, nalika, amarga, nganti, nek, karo, supaya, kanthi</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 2867, <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> 2233, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1952, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1565, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 961, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 798, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 748, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 736, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 700, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 362, <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 340, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 314, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 306, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 234, <tt><a href="jv_csui-pos-X.html">X</a></tt> 183, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 32, <tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> 12)
+The 10 most frequent ambiguous lemmas: <em>yen</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 41, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1), <em>anggo</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 23, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 16, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 11), <em>kaya</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 37, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 3, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1), <em>nalika</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 27, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 2), <em>amarga</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 1), <em>nganti</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 24, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 15), <em>tawa</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1), <em>karo</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 40, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 5), <em>kanthi</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 30, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1), <em>wis</em> (<tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 105, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 2, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>yen</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 34, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1), <em>kanggo</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 15, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1), <em>kaya</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 35, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 24), <em>nalika</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 18), <em>nganti</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 22, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 14), <em>karo</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 40, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 5), <em>kanthi</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 27, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 7), <em>sawise</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 2, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 1), <em>tanpa</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 3), <em>saka</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 57, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 3)
 
@@ -54,9 +54,13 @@ The 10 most frequent ambiguous types:  <em>yen</em> (<tt><a href="jv_csui-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 67.000000 (the average of all parts of speech is 238.352941).
+The form / lemma ratio of `SCONJ` is 1.155172 (the average of all parts of speech is 1.145928).
 
-The 1st highest number of forms (67) was observed with the lemma “_”: <em>Memper, Sadurunge, Sajrone, Saking, Saliyane, Sasuwene, ajrih, amarga, amargi, amehe, anggere, anggone, awit, babagan, ben, biih, bilih, dene, guna, jalaran, kados, kaliyan, kangge, kanggo, kanthi, kareben, karo, katimbang, kaya, kaya-kaya, manawa, manawi, menawa, menawi, merga, mila, minangka, nalika, nalikane, nek, nganti, nggo, olehe, prasasat, saderengipun, saengga, sajak, sajroning, saka, sakbubare, saknalika, saksampune, sambi, sanadyan, sanajan, sawise, sawuse, sedhela, sedurung, sejene, sinambi, supaya, supayane, tanpa, tinimbang, wiwit, yen</em>.
+The 1st highest number of forms (3) was observed with the lemma “nalika”: <em>nalika, nalikane, saknalika</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “anggo”: <em>anggone, kanggo</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “bilih”: <em>biih, bilih</em>.
 
 `SCONJ` occurs with 2 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (245; 78% instances), <tt><a href="jv_csui-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 

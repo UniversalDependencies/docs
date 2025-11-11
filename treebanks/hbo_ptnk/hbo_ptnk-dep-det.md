@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5768 nodes (6%) are attached to their parents as `det`.
+9452 nodes (6%) are attached to their parents as `det`.
 
-5533 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04594313453537.
+8936 instances of `det` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06781633516716.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (4777; 83% instances), <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (234; 4% instances), <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (233; 4% instances), <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (227; 4% instances), <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (226; 4% instances), <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (58; 1% instances), <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt>-<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (7504; 79% instances), <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (515; 5% instances), <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (504; 5% instances), <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (404; 4% instances), <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (338; 4% instances), <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (154; 2% instances), <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt>-<tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt>-<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -23,69 +23,64 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
 1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_2.1|Ref[BHSA]=674|Ref[MACULA]=o010020010011|Translit=ṿa
-2	יְכֻלּ֛וּ	כלה	VERB	verb	Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=be complete|LId[SDBH]=003311001011000|LId[Strongs]=3615|Ref=GEN_2.1|Ref[BHSA]=675|Ref[MACULA]=o010020010012|Translit=yekhulu
+2	יְכֻלּ֛וּ	כלה	VERB	verb	Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Cantillation=Tevir|Gloss=be complete|LexDomain[SDBH]=002001001033|LId[SDBH]=003311001011000|LId[Strongs]=3615|Ref=GEN_2.1|Ref[BHSA]=675|Ref[MACULA]=o010020010012|Translit=yekhulu
 3	הַ	ה	DET	art	PronType=Art	4	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_2.1|Ref[BHSA]=676|Ref[MACULA]=o010020010021|Translit=ha
-4	שָּׁמַ֥יִם	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	2	nsubj	_	Gloss=heavens|LId[SDBH]=007459001001000|LId[Strongs]=8064|Ref=GEN_2.1|Ref[BHSA]=677|Ref[MACULA]=o010020010022|Translit=shamayim
+4	שָּׁמַ֥יִם	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	2	nsubj	_	Cantillation=Merkha|Gloss=heavens|LexDomain[SDBH]=001005002001|LId[SDBH]=007459001001000|LId[Strongs]=8064|Ref=GEN_2.1|Ref[BHSA]=677|Ref[MACULA]=o010020010022|Translit=shamayim
 5	וְ	ו	CCONJ	conj	_	7	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_2.1|Ref[BHSA]=678|Ref[MACULA]=o010020010031|Translit=ṿe
 6	הָ	ה	DET	art	PronType=Art	7	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_2.1|Ref[BHSA]=679|Ref[MACULA]=o010020010032|Translit=ha
-7	אָ֖רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	4	conj	_	Gloss=earth|LId[SDBH]=000715001001000|LId[Strongs]=776|Ref=GEN_2.1|Ref[BHSA]=680|Ref[MACULA]=o010020010033|Translit=ʼarets
+7	אָ֖רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	4	conj	_	Cantillation=Tipeha|Gloss=earth|LexDomain[SDBH]=001005002002001|LId[SDBH]=000715001001000|LId[Strongs]=776|Ref=GEN_2.1|Ref[BHSA]=680|Ref[MACULA]=o010020010033|Translit=ʼarets
 8	וְ	ו	CCONJ	conj	_	9	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_2.1|Ref[BHSA]=681|Ref[MACULA]=o010020010041|Translit=ṿe
 9	כָל	כל	NOUN	subs	Gender=Masc|Number=Sing	4	conj	_	Gloss=whole|LId[Strongs]=3605|Ref=GEN_2.1|Ref[BHSA]=682|Ref[MACULA]=o010020010042|Translit=kal
 10	־	־	PUNCT	punct	_	11	punct	_	Ref=GEN_2.1|SpaceAfter=No
-11	צְבָאָֽ	צבא	NOUN	subs	Gender=Masc|Number=Sing	9	compound:smixut	_	Gloss=service|LId[SDBH]=006101001005000|LId[Strongs]=6635a|Ref=GEN_2.1|Ref[BHSA]=683|Ref[MACULA]=o010020010051|Translit=tsevaʼa
-12	ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod:poss	_	LId[SDBH]=006101001005000|Ref=GEN_2.1|Ref[MACULA]=o010020010052|Translit=m
+11	צְבָאָֽ	צבא	NOUN	subs	Gender=Masc|Number=Sing	9	compound:smixut	_	Gloss=service|LexDomain[SDBH]=001005002001001|LId[SDBH]=006101001005000|LId[Strongs]=6635a|Ref=GEN_2.1|Ref[BHSA]=683|Ref[MACULA]=o010020010051|Translit=tsevaʼa
+12	ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod:poss	_	LexDomain[SDBH]=001005002001001|LId[SDBH]=006101001005000|Ref=GEN_2.1|Ref[MACULA]=o010020010052|Translit=m
 13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_2.1
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 det	color:blue
-1	עַ֚ל	על	ADP	prep	_	3	case	_	Gloss=upon|LId[Strongs]=5921a|Ref=LEV_24.4|Ref[BHSA]=66825|Ref[MACULA]=o030240040011|Translit=ʻal
-2	הַ	ה	DET	art	PronType=Art	3	det	_	Gloss=the|LId[Strongs]=d|Ref=LEV_24.4|Ref[BHSA]=66826|Ref[MACULA]=o030240040021|Translit=ha
-3	מְּנֹרָ֣ה	מנורה	NOUN	subs	Gender=Fem|Number=Sing	6	obl	_	Gloss=lamp stand|LId[SDBH]=004116001001000|LId[Strongs]=4501|Ref=LEV_24.4|Ref[BHSA]=66827|Ref[MACULA]=o030240040022|Translit=menorah
-4	הַ	ה	DET	art	PronType=Art	5	det	_	Gloss=the|LId[Strongs]=d|Ref=LEV_24.4|Ref[BHSA]=66828|Ref[MACULA]=o030240040031|Translit=ha
-5	טְּהֹרָ֔ה	טהר	ADJ	adjv	Gender=Fem|Number=Sing	3	amod	_	Gloss=pure|LId[SDBH]=002660001004000|LId[Strongs]=2889|Ref=LEV_24.4|Ref[BHSA]=66829|Ref[MACULA]=o030240040032|Translit=ṭehorah
-6	יַעֲרֹ֖ךְ	ערך	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=arrange|LId[Strongs]=6186a|Ref=LEV_24.4|Ref[BHSA]=66830|Ref[MACULA]=o030240040041|Translit=yaʻarokh
-7	אֶת	את	ADP	prep	_	10	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=LEV_24.4|Ref[BHSA]=66831|Ref[MACULA]=o030240040051|SpaceAfter=No|Translit=ʼet
-8	־	־	PUNCT	punct	_	7	punct	_	Ref=LEV_24.4|SpaceAfter=No
-9	הַ	ה	DET	art	PronType=Art	10	det	_	Gloss=the|LId[Strongs]=d|Ref=LEV_24.4|Ref[BHSA]=66832|Ref[MACULA]=o030240040061|Translit=ha
-10	נֵּרֹ֑ות	נר	NOUN	subs	Gender=Masc|Number=Plur	6	obj	_	Gloss=lamp|LId[SDBH]=004918001001000|LId[Strongs]=5216a|Ref=LEV_24.4|Ref[BHSA]=66833|Ref[MACULA]=o030240040062|Translit=nerot
-11	לִ	ל	ADP	prep	_	12	case	_	Gloss=to|LId[Strongs]=l|Ref=LEV_24.4|Ref[BHSA]=66834|Ref[MACULA]=o030240040071|Translit=li
-12	פְנֵ֥י	פנה	NOUN	subs	Gender=Masc|Number=Plur	6	obl	_	Gloss=face|LId[Strongs]=6440|Ref=LEV_24.4|Ref[BHSA]=66835|Ref[MACULA]=o030240040072|Translit=pene
-13	יְהוָ֖ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	12	compound:smixut	_	Gloss=YHWH|LId[SDBH]=002823001001000|LId[Strongs]=3068|Ref=LEV_24.4|Ref[BHSA]=66836|Ref[MACULA]=o030240040081|Translit=yehṿah
-14	תָּמִֽיד	תמיד	ADV	subs	_	6	advmod	_	Gloss=continuity|LId[Strongs]=8548|Ref=LEV_24.4|Ref[BHSA]=66837|Ref[MACULA]=o030240040091|SpaceAfter=No|Translit=tamid
-15	׃	׃	PUNCT	punct	_	6	punct	_	Ref=LEV_24.4
-16	פ	פ	PUNCT	punct	_	6	punct	_	Ref=LEV_24.4
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 det	color:blue
+1	וָ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|LId[Strongs]=c|Ref=DEUT_3.23|Ref[BHSA]=95008|Ref[MACULA]=o050030230011|Translit=ṿa
+2	אֶתְחַנַּ֖ן	חנן	VERB	verb	HebBinyan=HITPAEL|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Cantillation=Tipeha|Gloss=favour|LexDomain[SDBH]=002001002019|LId[SDBH]=002398001002000|LId[Strongs]=2603a|Ref=DEUT_3.23|Ref[BHSA]=95009|Ref[MACULA]=o050030230012|Translit=ʼetḥanan
+3	אֶל	אל	ADP	prep	_	5	case	_	Gloss=to|LId[Strongs]=413|Ref=DEUT_3.23|Ref[BHSA]=95010|Ref[MACULA]=o050030230021|SpaceAfter=No|Translit=ʼel
+4	־	־	PUNCT	punct	_	3	punct	_	Ref=DEUT_3.23|SpaceAfter=No
+5	יְהוָ֑ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Cantillation=Etnahta|Gloss=YHWH|LexDomain[SDBH]=003001004|LId[SDBH]=002823001001000|LId[Strongs]=3068|Ref=DEUT_3.23|Ref[BHSA]=95011|Ref[MACULA]=o050030230031|Translit=yehṿah
+6	בָּ	ב	ADP	prep	_	8	case	_	Gloss=in|LId[Strongs]=b|Ref=DEUT_3.23|Ref[BHSA]=95012|Ref[MACULA]=o050030230041|Translit=ba
+7	ה	ה	DET	art	PronType=Art	8	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_3.23|Ref[BHSA]=95013|Ref[MACULA]=o050030230041ה|Translit=
+8	עֵ֥ת	עת	NOUN	subs	Number=Sing	2	obl	_	Cantillation=Merkha|Gloss=time|LexDomain[SDBH]=002002002010|LId[SDBH]=005738001001000|LId[Strongs]=6256|Ref=DEUT_3.23|Ref[BHSA]=95014|Ref[MACULA]=o050030230042|Translit=ʻet
+9	הַ	ה	DET	art	PronType=Art	10	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_3.23|Ref[BHSA]=95015|Ref[MACULA]=o050030230051|Translit=ha
+10	הִ֖וא	היא	PRON	prps	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	det	_	Cantillation=Tipeha|Gloss=she|LId[Strongs]=1931|Ref=DEUT_3.23|Ref[BHSA]=95016|Ref[MACULA]=o050030230052|Translit=hiṿʼ
+11	לֵ	ל	ADP	prep	ExtPos=SCONJ	2	advcl	_	Gloss=to|LId[Strongs]=l|Ref=DEUT_3.23|Ref[BHSA]=95017|Ref[MACULA]=o050030230061|Translit=le
+12	אמֹֽר	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	11	fixed	_	Gloss=say|LexDomain[SDBH]=002004001009008|LId[SDBH]=000512001001000|LId[Strongs]=559|Ref=DEUT_3.23|Ref[BHSA]=95018|Ref[MACULA]=o050030230062|Translit=ʼmor
+13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=DEUT_3.23
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 det	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|LId[Strongs]=c|Ref=EXO_1.6|Ref[BHSA]=28808|Ref[MACULA]=o020010060011|Translit=ṿa
-2	יָּ֤מָת	מות	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=die|LId[SDBH]=003823001001000|LId[Strongs]=4191|Ref=EXO_1.6|Ref[BHSA]=28809|Ref[MACULA]=o020010060012|Translit=yamat
-3	יֹוסֵף֙	יוסף	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Joseph|LId[SDBH]=002862001001000|LId[Strongs]=3130|Ref=EXO_1.6|Ref[BHSA]=28810|Ref[MACULA]=o020010060021|Translit=yosef
-4	וְ	ו	CCONJ	conj	_	5	cc	_	Gloss=and|LId[Strongs]=c|Ref=EXO_1.6|Ref[BHSA]=28811|Ref[MACULA]=o020010060031|Translit=ṿe
-5	כָל	כל	NOUN	subs	Gender=Masc|Number=Sing	3	conj	_	Gloss=whole|LId[Strongs]=3605|Ref=EXO_1.6|Ref[BHSA]=28812|Ref[MACULA]=o020010060032|Translit=kal
-6	־	־	PUNCT	punct	_	7	punct	_	Ref=EXO_1.6|SpaceAfter=No
-7	אֶחָ֔י	אח	NOUN	subs	Gender=Masc|Number=Plur	5	compound:smixut	_	Gloss=brother|LId[SDBH]=000238001001000|LId[Strongs]=251|Ref=EXO_1.6|Ref[BHSA]=28813|Ref[MACULA]=o020010060041|Translit=ʼeḥa
-8	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	LId[SDBH]=000238001001000|Ref=EXO_1.6|Ref[MACULA]=o020010060042|Translit=ṿ
-9	וְ	ו	CCONJ	conj	_	10	cc	_	Gloss=and|LId[Strongs]=c|Ref=EXO_1.6|Ref[BHSA]=28814|Ref[MACULA]=o020010060051|Translit=ṿe
-10	כֹ֖ל	כל	NOUN	subs	Gender=Masc|Number=Sing	3	conj	_	Gloss=whole|LId[Strongs]=3605|Ref=EXO_1.6|Ref[BHSA]=28815|Ref[MACULA]=o020010060052|Translit=kol
-11	הַ	ה	DET	art	PronType=Art	12	det	_	Gloss=the|LId[Strongs]=d|Ref=EXO_1.6|Ref[BHSA]=28816|Ref[MACULA]=o020010060061|Translit=ha
-12	דֹּ֥ור	דור	NOUN	subs	Gender=Masc|Number=Sing	10	compound:smixut	_	Gloss=generation|LId[SDBH]=001613002001000|LId[Strongs]=1755|Ref=EXO_1.6|Ref[BHSA]=28817|Ref[MACULA]=o020010060062|Translit=dor
-13	הַ	ה	DET	art	PronType=Art	14	det	_	Gloss=the|LId[Strongs]=d|Ref=EXO_1.6|Ref[BHSA]=28818|Ref[MACULA]=o020010060071|Translit=ha
-14	הֽוּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	Gloss=he|LId[Strongs]=1931|Ref=EXO_1.6|Ref[BHSA]=28819|Ref[MACULA]=o020010060072|Translit=huʼ
-15	׃	׃	PUNCT	punct	_	2	punct	_	Ref=EXO_1.6
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 det	color:blue
+1	וָ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|LId[Strongs]=c|Ref=DEUT_3.23|Ref[BHSA]=95008|Ref[MACULA]=o050030230011|Translit=ṿa
+2	אֶתְחַנַּ֖ן	חנן	VERB	verb	HebBinyan=HITPAEL|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Cantillation=Tipeha|Gloss=favour|LexDomain[SDBH]=002001002019|LId[SDBH]=002398001002000|LId[Strongs]=2603a|Ref=DEUT_3.23|Ref[BHSA]=95009|Ref[MACULA]=o050030230012|Translit=ʼetḥanan
+3	אֶל	אל	ADP	prep	_	5	case	_	Gloss=to|LId[Strongs]=413|Ref=DEUT_3.23|Ref[BHSA]=95010|Ref[MACULA]=o050030230021|SpaceAfter=No|Translit=ʼel
+4	־	־	PUNCT	punct	_	3	punct	_	Ref=DEUT_3.23|SpaceAfter=No
+5	יְהוָ֑ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Cantillation=Etnahta|Gloss=YHWH|LexDomain[SDBH]=003001004|LId[SDBH]=002823001001000|LId[Strongs]=3068|Ref=DEUT_3.23|Ref[BHSA]=95011|Ref[MACULA]=o050030230031|Translit=yehṿah
+6	בָּ	ב	ADP	prep	_	8	case	_	Gloss=in|LId[Strongs]=b|Ref=DEUT_3.23|Ref[BHSA]=95012|Ref[MACULA]=o050030230041|Translit=ba
+7	ה	ה	DET	art	PronType=Art	8	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_3.23|Ref[BHSA]=95013|Ref[MACULA]=o050030230041ה|Translit=
+8	עֵ֥ת	עת	NOUN	subs	Number=Sing	2	obl	_	Cantillation=Merkha|Gloss=time|LexDomain[SDBH]=002002002010|LId[SDBH]=005738001001000|LId[Strongs]=6256|Ref=DEUT_3.23|Ref[BHSA]=95014|Ref[MACULA]=o050030230042|Translit=ʻet
+9	הַ	ה	DET	art	PronType=Art	10	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_3.23|Ref[BHSA]=95015|Ref[MACULA]=o050030230051|Translit=ha
+10	הִ֖וא	היא	PRON	prps	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	det	_	Cantillation=Tipeha|Gloss=she|LId[Strongs]=1931|Ref=DEUT_3.23|Ref[BHSA]=95016|Ref[MACULA]=o050030230052|Translit=hiṿʼ
+11	לֵ	ל	ADP	prep	ExtPos=SCONJ	2	advcl	_	Gloss=to|LId[Strongs]=l|Ref=DEUT_3.23|Ref[BHSA]=95017|Ref[MACULA]=o050030230061|Translit=le
+12	אמֹֽר	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	11	fixed	_	Gloss=say|LexDomain[SDBH]=002004001009008|LId[SDBH]=000512001001000|LId[Strongs]=559|Ref=DEUT_3.23|Ref[BHSA]=95018|Ref[MACULA]=o050030230062|Translit=ʼmor
+13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=DEUT_3.23
 
 ~~~
 

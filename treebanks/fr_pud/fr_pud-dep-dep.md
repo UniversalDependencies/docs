@@ -8,12 +8,49 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `dep`.
+4 nodes (0%) are attached to their parents as `dep`.
 
-2 instances of `dep` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+2 instances of `dep` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25.
 
-The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 50% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (2; 50% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 25% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+
+
+~~~ conllu
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 17 dep	color:blue
+1	À	à	ADP	IN	_	2	case	_	wordform=à
+2	cause	cause	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
+3	de	de	ADP	IN	_	5	case	_	_
+4	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	santé	santé	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
+6	défaillante	défaillant	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	5	punct	_	_
+8	Alfred	Alfred	PROPN	NNP	Gender=Masc|Number=Sing	11	nsubj	_	_
+9	Hitchcock	Hitchcock	PROPN	NNP	Gender=Masc|Number=Sing	8	flat:name	_	_
+10	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_
+11	réduit	réduire	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	production	production	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
+14	de	de	ADP	IN	_	15	case	_	_
+15	film	film	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
+16	à	à	ADP	INDT	_	18	case	_	_
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	dep	_	_
+18	cours	cours	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
+19	de	de	ADP	INDT	_	23	case	_	_
+20	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+21	deux	deux	NUM	CD	_	23	nummod	_	_
+22	dernières	dernier	ADJ	JJ	Gender=Fem|Number=Plur	23	amod	_	_
+23	décennies	décennie	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	_
+24	de	de	ADP	IN	_	26	case	_	_
+25	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	26	det	_	_
+26	vie	vie	NOUN	NN	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	.	_	11	punct	_	_
+
+~~~
 
 
 ~~~ conllu

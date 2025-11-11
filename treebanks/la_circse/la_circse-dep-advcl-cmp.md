@@ -39,15 +39,15 @@ The following 19 pairs of parts of speech are connected with `advcl:cmp`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 advcl:cmp	color:blue
-1	notum	notus	ADJ	C1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|VerbForm=Part	9	obj	_	LASLAVariant=2|LiLaflcat=n6
-2	ignotum	ignotus	ADJ	C1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	1	conj	_	LiLaflcat=n6
-3	que	que	CCONJ	S	_	2	cc	_	LiLaflcat=i
-4	quantum	quantum	ADV	N	NumType=Card|PronType=Rel	6	advmod	_	LASLAVariant=3|LiLaflcat=i
-5	ad	ad	ADP	R	_	6	case	_	LASLAVariant=2|LiLaflcat=i
-6	ius	ius	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	9	advcl:cmp	_	LASLAVariant=1|LiLaflcat=n3
-7	hospitis	hospes	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	6	nmod	_	LiLaflcat=n3
-8	nemo	nemo	PRON	L	Case=Nom|InflClass=IndEurX|Number=Sing|Polarity=Neg|PronType=Ind	9	nsubj	_	LiLaflcat=n7
-9	discernit	discerno	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens
+1	notum	notus	ADJ	C1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing|VerbForm=Part	9	obj	_	LASLAVariant=2|LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-130_1
+2	ignotum	ignotus	ADJ	C1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	1	conj	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-130_2
+3	que	que	CCONJ	S	_	2	cc	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-130_3
+4	quantum	quantum	ADV	N	NumType=Card|PronType=Rel	6	advmod	_	LASLAVariant=3|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-130_4
+5	ad	ad	ADP	R	_	6	case	_	LASLAVariant=2|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-130_5
+6	ius	ius	NOUN	A3	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	9	advcl:cmp	_	LASLAVariant=1|LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-130_6
+7	hospitis	hospes	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	6	nmod	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-130_7
+8	nemo	nemo	PRON	L	Case=Nom|InflClass=IndEurX|Number=Sing|Polarity=Neg|PronType=Ind	9	nsubj	_	LiLaflcat=n7|UniqueTokenId=TacGerma-Q-01-130_8
+9	discernit	discerno	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-130_9
 
 ~~~
 

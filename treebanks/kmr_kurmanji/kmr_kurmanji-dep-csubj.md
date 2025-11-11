@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of csubj in UD_Kurmanji-MG'
+title:  'Statistics of csubj in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `csubj`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `csubj`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `csubj` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.
 
-The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (1; 100% instances).
 
 
 ~~~ conllu

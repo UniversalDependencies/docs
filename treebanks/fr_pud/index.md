@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jana Strnadová, Gauthier Caron, Martin Popel, Daniel Zeman, Marie-Catherine de Marneffe, Bruno Guillaume.
 
 Repository: [UD_French-PUD](https://github.com/UniversalDependencies/UD_French-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 3.0
 
@@ -34,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | annotated manually |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | not available |
 | Features | annotated manually in non-UD style, automatically converted to UD |
@@ -88,7 +88,7 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](fr_pud-dep-acl.html) – [acl:relcl](fr_pud-dep-acl-relcl.html) – [advcl](fr_pud-dep-advcl.html) – [advmod](fr_pud-dep-advmod.html) – [amod](fr_pud-dep-amod.html) – [appos](fr_pud-dep-appos.html) – [aux:caus](fr_pud-dep-aux-caus.html) – [aux:pass](fr_pud-dep-aux-pass.html) – [aux:tense](fr_pud-dep-aux-tense.html) – [case](fr_pud-dep-case.html) – [cc](fr_pud-dep-cc.html) – [ccomp](fr_pud-dep-ccomp.html) – [conj](fr_pud-dep-conj.html) – [cop](fr_pud-dep-cop.html) – [csubj](fr_pud-dep-csubj.html) – [csubj:pass](fr_pud-dep-csubj-pass.html) – [dep](fr_pud-dep-dep.html) – [det](fr_pud-dep-det.html) – [discourse](fr_pud-dep-discourse.html) – [dislocated](fr_pud-dep-dislocated.html) – [expl:comp](fr_pud-dep-expl-comp.html) – [expl:subj](fr_pud-dep-expl-subj.html) – [fixed](fr_pud-dep-fixed.html) – [flat:foreign](fr_pud-dep-flat-foreign.html) – [flat:name](fr_pud-dep-flat-name.html) – [goeswith](fr_pud-dep-goeswith.html) – [iobj](fr_pud-dep-iobj.html) – [mark](fr_pud-dep-mark.html) – [nmod](fr_pud-dep-nmod.html) – [nsubj](fr_pud-dep-nsubj.html) – [nsubj:caus](fr_pud-dep-nsubj-caus.html) – [nsubj:pass](fr_pud-dep-nsubj-pass.html) – [nummod](fr_pud-dep-nummod.html) – [obj](fr_pud-dep-obj.html) – [obj:agent](fr_pud-dep-obj-agent.html) – [obl](fr_pud-dep-obl.html) – [obl:agent](fr_pud-dep-obl-agent.html) – [obl:mod](fr_pud-dep-obl-mod.html) – [orphan](fr_pud-dep-orphan.html) – [parataxis](fr_pud-dep-parataxis.html) – [punct](fr_pud-dep-punct.html) – [root](fr_pud-dep-root.html) – [vocative](fr_pud-dep-vocative.html) – [xcomp](fr_pud-dep-xcomp.html)
+[acl](fr_pud-dep-acl.html) – [acl:relcl](fr_pud-dep-acl-relcl.html) – [advcl](fr_pud-dep-advcl.html) – [advmod](fr_pud-dep-advmod.html) – [amod](fr_pud-dep-amod.html) – [appos](fr_pud-dep-appos.html) – [aux:caus](fr_pud-dep-aux-caus.html) – [aux:pass](fr_pud-dep-aux-pass.html) – [aux:tense](fr_pud-dep-aux-tense.html) – [case](fr_pud-dep-case.html) – [cc](fr_pud-dep-cc.html) – [ccomp](fr_pud-dep-ccomp.html) – [conj](fr_pud-dep-conj.html) – [cop](fr_pud-dep-cop.html) – [csubj](fr_pud-dep-csubj.html) – [csubj:pass](fr_pud-dep-csubj-pass.html) – [dep](fr_pud-dep-dep.html) – [det](fr_pud-dep-det.html) – [discourse](fr_pud-dep-discourse.html) – [dislocated](fr_pud-dep-dislocated.html) – [expl:comp](fr_pud-dep-expl-comp.html) – [expl:pv](fr_pud-dep-expl-pv.html) – [expl:subj](fr_pud-dep-expl-subj.html) – [fixed](fr_pud-dep-fixed.html) – [flat:foreign](fr_pud-dep-flat-foreign.html) – [flat:name](fr_pud-dep-flat-name.html) – [goeswith](fr_pud-dep-goeswith.html) – [iobj](fr_pud-dep-iobj.html) – [mark](fr_pud-dep-mark.html) – [nmod](fr_pud-dep-nmod.html) – [nsubj](fr_pud-dep-nsubj.html) – [nsubj:caus](fr_pud-dep-nsubj-caus.html) – [nsubj:pass](fr_pud-dep-nsubj-pass.html) – [nummod](fr_pud-dep-nummod.html) – [obj](fr_pud-dep-obj.html) – [obj:agent](fr_pud-dep-obj-agent.html) – [obl](fr_pud-dep-obl.html) – [obl:agent](fr_pud-dep-obl-agent.html) – [obl:arg](fr_pud-dep-obl-arg.html) – [obl:mod](fr_pud-dep-obl-mod.html) – [orphan](fr_pud-dep-orphan.html) – [parataxis](fr_pud-dep-parataxis.html) – [punct](fr_pud-dep-punct.html) – [root](fr_pud-dep-root.html) – [vocative](fr_pud-dep-vocative.html) – [xcomp](fr_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -131,7 +131,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 12 lemmas tagged as determiners (DET): aucun, ce, de, du, d’, la, le, ledit, quel, son, tout, un</li>
+<li>This corpus contains 9 lemmas tagged as determiners (DET): aucun, ce, du, le, ledit, quel, son, tout, un</li>
 </ul>
 
 <ul>
@@ -172,7 +172,7 @@ employ ten-fold cross-validation.
   <li>Part
   <ul>
     <li>ADJ: issu, issues, issus, ouverte</li>
-    <li>AUX: été, ayant, étant, fait</li>
+    <li>AUX: été, ayant, étant, Etant, fait</li>
     <li>VERB: eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</li>
   </ul>
   </li>
@@ -374,7 +374,7 @@ employ ten-fold cross-validation.
   <li>Pres
     <ul>
       <li>AUX-Fin: a, est, ont, sont, ai, aient, soit, auraient, aurait, serait</li>
-      <li>AUX-Part: ayant, étant</li>
+      <li>AUX-Part: ayant, étant, Etant</li>
       <li>VERB-Fin: a, est, peut, pourrait, peuvent, sont, ont, pourraient, dit, va</li>
       <li>VERB-Part: concernant, faisant, ayant, permettant, pouvant, utilisant, dépassant, jouant, laissant, modifiant</li>
     </ul>
@@ -401,6 +401,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Dem
     <ul>
+      <li>DET: cette, ce, ces, cet</li>
       <li>PRON: ce, c', cela, c’, ça, ceci, ceux, -ce, ca, celle</li>
     </ul>
   </li>
@@ -409,6 +410,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Ind
     <ul>
+      <li>DET: toute, tout, tous</li>
       <li>PRON: on, un, quelqu'un, -t-on, certaines</li>
     </ul>
   </li>
@@ -417,7 +419,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Int
     <ul>
-      <li>DET: quelle</li>
+      <li>DET: quelle, quel</li>
       <li>PRON: qui, quoi, où, que</li>
     </ul>
   </li>
@@ -529,9 +531,57 @@ employ ten-fold cross-validation.
 <ul>
   <li><a>ExtPos</a>
     <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: en</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: en, d', à, quant, A, D’, par</li>
+          <li>ADV: Lors</li>
+          <li>NOUN: grâce, suite, face</li>
+          <li>PRON: il</li>
+        </ul>
+      </li>
       <li>ADV
         <ul>
+          <li>ADP: à, en, de, afin, d', par, A, Après, Avant</li>
+          <li>ADV: bien, plus, quelque, autrement, moins, non, plutôt</li>
+          <li>DET: un, Une</li>
+          <li>NOUN: compte</li>
+          <li>SCONJ: quand</li>
+          <li>X: a</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: ainsi</li>
+          <li>CCONJ: ou</li>
+          <li>PRON: y</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>ADP: de, d’</li>
+          <li>ADV: bien</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
           <li>ADP: à</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>ADV: plus, beaucoup, peu, moins, près, trop, énormément</li>
+          <li>DET: l’, un</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: tandis</li>
+          <li>ADV: parce, tandis, bien, alors, lors</li>
         </ul>
       </li>
     </ul>
@@ -607,10 +657,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (360)</li>
-      <li>VERB-Fin--PRON (333)</li>
+      <li>VERB-Fin--NOUN (357)</li>
+      <li>VERB-Fin--PRON (334)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Part--NOUN (182)</li>
+      <li>VERB-Part--NOUN (181)</li>
       <li>VERB-Part--PRON (137)</li>
     </ul>
   </li>
@@ -619,12 +669,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (318)</li>
+      <li>VERB-Fin--NOUN (310)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--PRON (108)</li>
-      <li>VERB-Inf--NOUN (231)</li>
-      <li>VERB-Inf--PRON (53)</li>
-      <li>VERB-Part--NOUN (250)</li>
-      <li>VERB-Part--PRON (60)</li>
+      <li>VERB-Inf--NOUN (229)</li>
+      <li>VERB-Inf--PRON (52)</li>
+      <li>VERB-Part--NOUN (245)</li>
+      <li>VERB-Part--PRON (58)</li>
     </ul>
   </li>
 </ul>
@@ -633,19 +684,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--PRON (17)</li>
-      <li>VERB-Inf--PRON (5)</li>
+      <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Part--PRON (17)</li>
     </ul>
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 2 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: partager se, rendre se</li>
+</ul>
 
 
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>expl:comp</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:mod</a></li>
+<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>expl:comp</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
 <li>The following 3 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a>, <a>flat</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

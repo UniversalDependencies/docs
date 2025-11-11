@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-427 tokens (16%) have a non-empty value of `Number`.
+426 tokens (16%) have a non-empty value of `Number`.
 36 types (6%) occur at least once with a non-empty value of `Number`.
 13 lemmas (3%) occur at least once with a non-empty value of `Number`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (408; 15% instances), <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (19; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (408; 15% instances), <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (18; 1% instances).
 
 ### `PRON`
 
@@ -30,12 +30,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-19 <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> tokens (38% of all `DET` tokens) have a non-empty value of `Number`.
+18 <tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> tokens (37% of all `DET` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gya_autogramm-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (18; 100%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (18; 95% of non-empty `Number`): <em>ʔó, =ó</em>
-* `Sing` (1; 5% of non-empty `Number`): <em>=à</em>
+* `Plur` (18; 100% of non-empty `Number`): <em>ʔó, =ó</em>
 * `EMPTY` (31): <em>ʔá̰-nɛ̀, ʔó, mà, zɔ̀m, =á̰-nɛ̀, mɛ̀, mɛ̀-nɛ́, zɔ̌m, ʔá̰, ʔò</em>
 
 ## Relations with Agreement in `Number`

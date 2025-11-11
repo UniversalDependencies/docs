@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 7	pokuta	pokuta	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	6:nsubj:pass	_
 8	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	LId=do-1
 9	výše	výše	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod:do:gen	_
-10	a)	a)	X	X@-------------	_	11	obl	11:obl	_
+10	a)	a)	X	X@-------------	_	11	nmod	11:nmod	_
 11	6	6	NUM	C}-------------	NumForm=Roman|NumType=Card	9	nummod	9:nummod	_
 12	%	%	SYM	Z:-------------	_	11	nmod	11:nmod	_
 13	hodnoty	hodnota	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod:gen	_
@@ -94,7 +94,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 70	správní	správní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	71	amod	71:amod	_
 71	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	68	obl:arg	68:obl:arg:o:acc	_
 72	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	73	case	73:case	LId=podle-2
-73	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	71	obl	71:obl:podle:gen	_
+73	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	71	nmod	71:nmod:podle:gen	_
 74	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	73	nummod	73:nummod	_
 75	písm._k)	písm._k)	X	X@-------------	_	74	nmod	74:nmod	_
 76	a	a	CCONJ	J^-------------	_	81	cc	81:cc	LId=a-1

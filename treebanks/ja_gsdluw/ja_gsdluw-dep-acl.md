@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6966 nodes (5%) are attached to their parents as `acl`.
+6950 nodes (5%) are attached to their parents as `acl`.
 
-6963 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.61785816824577.
+6947 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.59856115107914.
 
-The following 19 pairs of parts of speech are connected with `acl`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (4754; 68% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1384; 20% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (366; 5% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (277; 4% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (64; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (46; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (22; 0% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `acl`: <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (4750; 68% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1381; 20% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (358; 5% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (277; 4% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (64; 1% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (46; 1% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt> (22; 0% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_gsdluw-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ja_gsdluw-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_gsdluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 19 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 15 14 acl	color:blue
 1	同僚教師	同僚教師	NOUN	名詞-普通名詞-一般	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ドウリョウ;キョウシ,同僚;教師,同僚;教師,同僚;教師,ドーリョー;キョーシ,;,;,ドウリョウ;キョウシ,ドウリョウキョウシ,同僚教師
 2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
-3	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
+3	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
 4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 5	彩	彩	PROPN	名詞-固有名詞-人名-名	_	10	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
@@ -37,7 +37,7 @@ The following 19 pairs of parts of speech are connected with `acl`: <tt><a href=
 13	を	を	ADP	助詞-格助詞	_	12	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ヲ,を,を,を,オ,,,ヲ,ヲ,を
 14	解決する	解決する	VERB	動詞-一般-サ行変格	_	15	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=カイケツ;スル,解決;為る,解決;する,解決;する,カイケツ;スル,;,;,カイケツ;スル,カイケツスル,解決する
 15	ため	為	NOUN	名詞-普通名詞-一般	_	20	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=タメ,為,ため,ため,タメ,,,タメ,タメ,為
-16	行動	行動	NOUN	名詞-普通名詞-一般	_	20	obj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コウドウ,行動,行動,行動,コードー,,,コウドウ,コウドウ,行動
+16	行動	行動	NOUN	名詞-普通名詞-一般	_	20	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コウドウ,行動,行動,行動,コードー,,,コウドウ,コウドウ,行動
 17	を	を	ADP	助詞-格助詞	_	16	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ヲ,を,を,を,オ,,,ヲ,ヲ,を
 18	共	共	NOUN	名詞-普通名詞-一般	_	20	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=トモ,共,共,共,トモ,,,トモ,トモ,共
 19	に	に	ADP	助詞-格助詞	_	18	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
@@ -55,7 +55,7 @@ The following 19 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3 1 acl	color:blue
 1	多彩	多彩	ADJ	形状詞-一般	_	3	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=タサイ,多彩,多彩,多彩,タサイ,,,タサイ,タサイ,多彩
 2	な	だ	AUX	助動詞-助動詞-ダ	_	1	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ダ,だ,な,だ,ナ,,,ダ,ダ,だ
-3	ライブアクト	ライブアクト	NOUN	名詞-普通名詞-一般	_	5	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,;,;,ライブ;アクト,ライブアクト,ライブアクト
+3	ライブアクト	ライブアクト	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,;,;,ライブ;アクト,ライブアクト,ライブアクト
 4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 5	とも	共	NOUN	名詞-普通名詞-一般	_	14	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=トモ,共,とも,とも,トモ,,,トモ,トモ,共
 6	に	に	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に

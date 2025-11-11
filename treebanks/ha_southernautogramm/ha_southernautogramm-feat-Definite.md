@@ -7,114 +7,106 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-SouthernAutogramm: Features: `Definite`
 
 This feature is universal but the values `Cons`, `Spec` are language-specific.
-It occurs with 3 different values: `Cons`, `Def`, `Spec`.
+It occurs with 4 different values: `Cons`, `Def`, `Ind`, `Spec`.
 
-1189 tokens (8%) have a non-empty value of `Definite`.
-306 types (18%) occur at least once with a non-empty value of `Definite`.
-288 lemmas (22%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 11 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (574; 4% instances), <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (214; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (140; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (97; 1% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (48; 0% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (48; 0% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (29; 0% instances), <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (1; 0% instances).
+2341 tokens (16%) have a non-empty value of `Definite`.
+775 types (44%) occur at least once with a non-empty value of `Definite`.
+556 lemmas (42%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (1752; 12% instances), <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (204; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (138; 1% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (94; 1% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (51; 0% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (48; 0% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (30; 0% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (7; 0% instances).
 
 ### `NOUN`
 
-574 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (32% of all `NOUN` tokens) have a non-empty value of `Definite`.
+1752 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Cons` (376; 66% of non-empty `Definite`): <em>àbin, gidan, suːnan, gàrin, irìn, sauran, loːkàcin, ruwan, goːnan, tsaːmiyan</em>
-* `Def` (198; 34% of non-empty `Definite`): <em>àbîn, loːkàcîn, àbin, irìn, wân, ƙanèn, daːjìn, dàliːlìn, yaːrinyàn, gidân</em>
-* `EMPTY` (1239): <em>mài, gidaː, zaːmàniː, àbù, ruwaː, zoːmoː, gàriː, àmfàːniː, aikìː, daːjìː</em>
+* `Cons` (455; 26% of non-empty `Definite`): <em>àbin, àbîn, gidan, irìn, loːkàcin, gàrin, dàliːlìn, ruwan, suːnan, tsaːmiyan</em>
+* `Def` (120; 7% of non-empty `Definite`): <em>loːkàcîn, wân, àbîn, ƙanèn, daːjìn, irìn, gidân, maːlàmîn, wajên, àboːkîn</em>
+* `Ind` (1177; 67% of non-empty `Definite`): <em>gidaː, zaːmàniː, àbù, ruwaː, zoːmoː, gàriː, àmfàːniː, aikìː, daːjìː, loːkàcîn</em>
+* `EMPTY` (39): <em>poison, police, kilaːs, lettìː, sùkûːl, Eːbìːyù, TV, bitch, bìr̃êːk, chemistry</em>
 
 <table>
-  <tr><th>Paradigm <i>àbù</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>àbîn, àbin</em></td><td><em>àbin</em></td></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td></td><td><em>àbin</em></td></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>abuːbuwàn</em></td></tr>
+  <tr><th>Paradigm <i>àbù</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>àbù, àbîn, àbin</em></td><td><em>àbîn</em></td><td><em>àbin, àbîn</em></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ha_southernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>àbinshi</em></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ha_southernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>àbintà</em></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>abuːbuwàː, abuːbuwàn, àbuːbuwàː</em></td><td></td><td><em>abuːbuwàn</em></td></tr>
 </table>
 
 ### `DET`
 
-214 <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> tokens (65% of all `DET` tokens) have a non-empty value of `Definite`.
+204 <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (212; 99%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (208; 97%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (166; 78%), <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (158; 74%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (204; 100%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (156; 76%), <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (153; 75%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (122; 60%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Cons` (2; 1% of non-empty `Definite`): <em>waɗànnan</em>
-* `Def` (161; 75% of non-empty `Definite`): <em>wânnan, nan, ɗîn, waɗànnan, wànè, wannàn, wànneː</em>
-* `Spec` (51; 24% of non-empty `Definite`): <em>wani, wasu, wata</em>
-* `EMPTY` (114): <em>su, nàn, wannàn, wata, duk, wasu, duy, wani, du', dug</em>
+* `Cons` (1; 0% of non-empty `Definite`): <em>waɗànnan</em>
+* `Def` (153; 75% of non-empty `Definite`): <em>wânnan, nan, ɗîn, waɗànnan</em>
+* `Spec` (50; 25% of non-empty `Definite`): <em>wani, wata, wasu</em>
+* `EMPTY` (116): <em>su, nàn, wannàn, wata, duk, wasu, duy, wani, du', dug</em>
 
 <table>
   <tr><th>Paradigm <i>waɗànnan</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>waɗànnan</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>waɗànnan</em></td><td><em>waɗànnan</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>waɗànnan</em></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>waɗànnan</em></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-140 <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Definite`.
+138 <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt> (133; 95%), <tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (133; 95%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (132; 96%), <tt><a href="ha_southernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt> (131; 95%).
 
 `VERB` tokens may have the following values of `Definite`:
 
-* `Cons` (139; 99% of non-empty `Definite`): <em>noːman, saːmùn, yîn, jîn, neːman, kiràn, sôn, cîn, ganin, saːran</em>
-* `Def` (1; 1% of non-empty `Definite`): <em>noːmân</em>
-* `EMPTY` (1903): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
+* `Cons` (138; 100% of non-empty `Definite`): <em>noːman, saːmùn, jîn, neːman, yîn, sôn, cîn, ganin, kiràntà, saːran</em>
+* `EMPTY` (1902): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
 
-<table>
-  <tr><th>Paradigm <i>noːm-</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt></tt></td><td></td><td><em>noːman</em></td></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>noːmân</em></td><td><em>noːman</em></td></tr>
-</table>
+`Definite` seems to be **lexical feature** of `VERB`. 100% lemmas (56) occur only with one value of `Definite`.
 
-`Definite` seems to be **lexical feature** of `VERB`. 98% lemmas (55) occur only with one value of `Definite`.
+### `ADP`
 
-### `PART`
+94 <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> tokens (15% of all `ADP` tokens) have a non-empty value of `Definite`.
 
-97 <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> tokens (8% of all `PART` tokens) have a non-empty value of `Definite`.
+`ADP` tokens may have the following values of `Definite`:
 
-The most frequent other feature values with which `PART` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (97; 100%).
+* `Cons` (94; 100% of non-empty `Definite`): <em>na, irìn, kân</em>
+* `EMPTY` (549): <em>dà, à, mài, kàman, cikin, dàgà, mà, wajen, ta, màːsu</em>
 
-`PART` tokens may have the following values of `Definite`:
+### `PRON`
 
-* `Cons` (95; 98% of non-empty `Definite`): <em>na, ɗin</em>
-* `Def` (2; 2% of non-empty `Definite`): <em>wàːtòn</em>
-* `EMPTY` (1079): <em>nèː, ba, kuma, maː, dai, gàː, kèːnan, àkwai, bàː, fa</em>
+51 <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="ha_southernautogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (50; 98%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (41; 80%), <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (40; 78%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt> (38; 75%).
+
+`PRON` tokens may have the following values of `Definite`:
+
+* `Def` (40; 78% of non-empty `Definite`): <em>wânnan, wànnan, waɗànnan</em>
+* `Spec` (11; 22% of non-empty `Definite`): <em>wani, wasu</em>
+* `EMPTY` (850): <em>shiː, shi, ita, wandà, shì, suː, mishì, tà, niː, mîn</em>
 
 ### `ADV`
 
 48 <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (48; 100%).
+The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (45; 94%).
 
 `ADV` tokens may have the following values of `Definite`:
 
-* `Cons` (2; 4% of non-empty `Definite`): <em>bana, yànzûn</em>
-* `Def` (46; 96% of non-empty `Definite`): <em>nan</em>
-* `EMPTY` (752): <em>sai, yànzu, dâː, hakà, ɗan, gàske, nân, ìnaː, yandà, sòːsai</em>
-
-### `PRON`
-
-48 <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="ha_southernautogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 98%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (38; 79%), <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (37; 77%).
-
-`PRON` tokens may have the following values of `Definite`:
-
-* `Def` (38; 79% of non-empty `Definite`): <em>wânnan, wànnan, waɗànnan</em>
-* `Spec` (10; 21% of non-empty `Definite`): <em>wani</em>
-* `EMPTY` (1019): <em>shiː, shi, ita, wandà, =shì, =tà, shì, =sù, suː, mishì</em>
+* `Cons` (3; 6% of non-empty `Definite`): <em>bana, kùr̃ùngùn, yànzûn</em>
+* `Def` (45; 94% of non-empty `Definite`): <em>nan</em>
+* `EMPTY` (806): <em>sai, yànzu, dâː, hakà, wai, ɗan, gàske, nân, ìnaː, yandà</em>
 
 ### `PROPN`
 
-29 <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> tokens (10% of all `PROPN` tokens) have a non-empty value of `Definite`.
+30 <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> tokens (10% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
 `PROPN` tokens may have the following values of `Definite`:
 
-* `Cons` (21; 72% of non-empty `Definite`): <em>Ùngwan, Gùndumàn, Fulàːniː, Bàtuːr̃èn, Maːlàn, Muːsa, Saːnin, Ɗan, Bàfilàːnin, Sakkwataːwaː</em>
-* `Def` (8; 28% of non-empty `Definite`): <em>Bàːsân, Filàːnîn, Ìsìlàːmiyàn, Fulàːnîn</em>
-* `EMPTY` (272): <em>Allàː, Basaːwaː, Basaːwa, Fulàːniː, Bàːsa, Dattì, Gwànjoː, Mângajàː, Maːlàmiː, Mài</em>
+* `Cons` (26; 87% of non-empty `Definite`): <em>Ùngwan, Bàːsân, Gùndumàn, Fulàːniː, Bàtuːr̃èn, Maːlàn, Muːsa, Saːnin, Ɗan, Bàfilàːnin</em>
+* `Def` (4; 13% of non-empty `Definite`): <em>Bàːsân, Filàːnîn, Ìsìlàːmiyàn, Fulàːnîn</em>
+* `EMPTY` (274): <em>Allàː, Basaːwaː, Basaːwa, Fulàːniː, Bàːsa, Dattì, Gwànjoː, Mângajàː, Maːlàmiː, Mài</em>
 
 <table>
   <tr><th>Paradigm <i>Fulàːniː</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
@@ -124,60 +116,34 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 `Definite` seems to be **lexical feature** of `PROPN`. 93% lemmas (14) occur only with one value of `Definite`.
 
-### `NUM`
-
-20 <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> tokens (21% of all `NUM` tokens) have a non-empty value of `Definite`.
-
-`NUM` tokens may have the following values of `Definite`:
-
-* `Cons` (7; 35% of non-empty `Definite`): <em>sìttin, tàlàːtin, àshìr̃in, ɗayan, ɗàr̃in, goːmàn</em>
-* `Def` (13; 65% of non-empty `Definite`): <em>àr̃bàʼin, àshìr̃in, mìliyàn, sàbà'in, sàbàʼin, sìttin</em>
-* `EMPTY` (74): <em>biyu, goːmà, ɗaya, bakwài, bìyar̃, dubuː, gùdaː, shâː, huɗu, nawà</em>
-
-<table>
-  <tr><th>Paradigm <i>àshìr̃in</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>àshìr̃in</em></td><td><em>àshìr̃in</em></td></tr>
-</table>
-
 ### `ADJ`
 
-16 <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> tokens (40% of all `ADJ` tokens) have a non-empty value of `Definite`.
+17 <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> tokens (38% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Cons` (16; 100% of non-empty `Definite`): <em>ainihin, farin, saːbon, baƙin, bàbban, kaurin, tsantsan, tsoːhon, tsòːfàffin</em>
-* `EMPTY` (24): <em>ɗan, ƴan, kalàː-kalàː, ƴar̃, baƙa-baƙaː, faraː, irìː-irìː, jan, jaː, kàzaː</em>
+* `Cons` (17; 100% of non-empty `Definite`): <em>ainihin, farin, saːbon, baƙin, bàbban, kaurin, tsantsan, tsoːhon, yawàn, tsòːfàffin</em>
+* `EMPTY` (28): <em>ɗan, ƴan, kalàː-kalàː, ƴar̃, baƙa-baƙaː, faraː, fir̃aːmar̃i, irìː-irìː, jan, jaː</em>
 
-### `ADP`
+### `NUM`
 
-2 <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Definite`.
+7 <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> tokens (7% of all `NUM` tokens) have a non-empty value of `Definite`.
 
-`ADP` tokens may have the following values of `Definite`:
+`NUM` tokens may have the following values of `Definite`:
 
-* `Cons` (2; 100% of non-empty `Definite`): <em>irìn</em>
-* `EMPTY` (493): <em>dà, à, kàman, cikin, dàgà, mà, wajen, ta, kân, baːyan</em>
-
-### `X`
-
-1 <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `X` and `Definite` co-occurred: <tt><a href="ha_southernautogramm-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`X` tokens may have the following values of `Definite`:
-
-* `Cons` (1; 100% of non-empty `Definite`): <em>kùr̃ùngùn</em>
-* `EMPTY` (92): <em>X, lìllaːhì, àlhamdù, galalan, k~, gar̃as, mut~, sùkûːl, tìr̃kaː, à~</em>
+* `Cons` (7; 100% of non-empty `Definite`): <em>sìttin, tàlàːtin, àshìr̃in, ɗayan, ɗàr̃in, goːmàn</em>
+* `EMPTY` (89): <em>biyu, goːmà, ɗaya, bakwài, bìyar̃, dubuː, gùdaː, àr̃bàʼin, shâː, huɗu</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (6; 75%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-conj.html">conj</a></tt>]--> NOUN</tt> (25; 61%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (13; 87%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11; 69%),
 <tt>ADV --[<tt><a href="ha_southernautogramm-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 100%),
-<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-dep.html">dep</a></tt>]--> DET</tt> (2; 67%),
-<tt>DET --[<tt><a href="ha_southernautogramm-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="ha_southernautogramm-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> PART</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ha_southernautogramm-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4; 100%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>PROPN --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> ADP</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (4461; 100% of non-empty `Poss`): <em>su, sus, mi, nuestra, cuya, nuestros, cuyo, nuestro, tu, mis</em>
-* `EMPTY` (56426): <em>el, la, los, un, las, una, este, esta, otras, otros</em>
+* `EMPTY` (56425): <em>el, la, los, un, las, una, este, esta, otras, otros</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
 

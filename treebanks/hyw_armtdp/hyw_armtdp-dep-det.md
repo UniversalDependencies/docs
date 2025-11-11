@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="hyw_armtdp-dep-det-poss.html">det:poss</a></tt>.
 
-4745 nodes (4%) are attached to their parents as `det`.
+4674 nodes (4%) are attached to their parents as `det`.
 
-2919 instances of `det` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24826132771338.
+2918 instances of `det` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25096277278562.
 
-The following 14 pairs of parts of speech are connected with `det`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4406; 93% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (127; 3% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (82; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (42; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (31; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `det`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4405; 94% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (126; 3% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (42; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (31; 1% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,22 +60,21 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 det	color:blue
-1	Անոնք	անոնք	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Translit=Anonk’|LTranslit=anonk’
-2	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	3	aux	_	Translit=kë|LTranslit=kë
-3	դատէին	դատել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=datēin|LTranslit=datel
-4	զայն	անիկա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	3	obj	_	Translit=zayn|LTranslit=anika|SpaceAfter=No
-5	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-6	քիչ	քիչ	ADV	_	_	8	advmod	_	Translit=k’ič|LTranslit=k’ič
-7	մը	մը	DET	_	PronType=Art	6	det	_	Translit=më|LTranslit=më
-8	փոքր	փոքր	ADV	_	_	3	advmod	_	Translit=p’ok’r|LTranslit=p’ok’r
-9	ու	ու	CCONJ	_	_	10	cc	_	Translit=ow|LTranslit=ow
-10	սկեպտիկ	սկեպտիկ	ADV	_	_	8	conj	_	Translit=skeptik|LTranslit=skeptik|SpaceAfter=No
-11	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+# visual-style 6 4 det	color:blue
+1	Բայց	բայց	CCONJ	_	_	8	cc	_	Translit=Bayc’|LTranslit=bayc’
+2	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	3	det	_	Translit=ayd|LTranslit=ayd
+3	գրութիւններէն	գրութիւն	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Number=Plur	6	nmod:npmod	_	Translit=growt’iwnnerēn|LTranslit=growt’iwn
+4	ոչ	ոչ	PART	_	ExtPos=DET|Polarity=Neg	6	det	_	Translit=oč|LTranslit=oč
+5	մէկ	մէկ	DET	_	PronType=Ind	4	fixed	_	Translit=mēk|LTranslit=mēk
+6	բան	բան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	obj	_	Translit=ban|LTranslit=ban
+7	չեմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	Translit=čem|LTranslit=em
+8	կրցած	կրնալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=krc’aç|LTranslit=krnal
+9	գտնել	գտնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	8	xcomp	_	Translit=gtnel|LTranslit=gtnel|SpaceAfter=No
+10	։	։	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -29,7 +29,7 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	vuotta	vuosi	NOUN	N,Sg,Par	Case=Par|Number=Sing	2	obl	_	_
 5	pytyssä	pytty	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	2	obl	_	_
 6	ell	jos	SCONJ	Pcle,CS	_	8	mark	_	Join=Yes
-7	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	ei	ei	AUX	V,Neg,Act,Sg3	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	anna	antaa	VERB	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
 9	ilmi	ilmi	ADV	Adv	_	8	compound:prt	_	_
 10	kavereitaan	kaveri	NOUN	N,Pl,Par,Px3	Case=Par|Number=Plur|Person[psor]=3	8	obj	_	_

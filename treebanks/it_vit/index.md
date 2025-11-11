@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Fabio Tamburini, Maria Simi, Cristina Bosco.
 
 Repository: [UD_Italian-VIT](https://github.com/UniversalDependencies/UD_Italian-VIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -516,7 +516,7 @@ September 2017, 248-254.
       <li>ADJ: altro, altra, mezzo, troppi</li>
       <li>ADV: meno</li>
       <li>DET: tutti, ogni, tutte, qualche, alcuni, più, tutto, alcune, tutta, pochi</li>
-      <li>PRON: tutti, più, tutto, uno, altro, nessuno, una, altri, nulla, niente</li>
+      <li>PRON: più, tutti, tutto, uno, altro, nessuno, una, altri, nulla, niente</li>
       <li>VERB: vale</li>
     </ul>
   </li>
@@ -677,26 +677,25 @@ September 2017, 248-254.
     <ul>
       <li>ADP
         <ul>
-          <li>ADP: come, su, che, fra, prima, senza, tra, di, dietro</li>
-          <li>ADV: fino, prima, davanti, oltre, insieme, attorno, intorno, vicino, fin, fuori</li>
-          <li>NOUN: rispetto, grazie, riguardo</li>
+          <li>ADP: come, su, in, che, fra, prima, senza, tra, dietro</li>
+          <li>ADV: fino, prima, davanti, oltre, insieme, attorno, intorno, come, vicino, fin</li>
+          <li>NOUN: rispetto, grazie, Riguardo</li>
           <li>SCONJ: purché</li>
         </ul>
       </li>
       <li>ADV
         <ul>
           <li>ADJ: tutt'</li>
-          <li>ADP: in, di, per, come, a</li>
-          <li>ADV: quanto, pur, perché, via, fin, lì, pari, più, sin</li>
+          <li>ADP: di, per, come, a</li>
+          <li>ADV: quanto, pur, perché, via, fin, Come, lì, pari, più, sin</li>
           <li>CCONJ: sia</li>
-          <li>NOUN: man</li>
           <li>PRON: tutt'</li>
           <li>SCONJ: se</li>
         </ul>
       </li>
       <li>CCONJ
         <ul>
-          <li>ADV: oltre, piuttosto, così, più</li>
+          <li>ADV: oltre, piuttosto, più</li>
           <li>CCONJ: sia</li>
         </ul>
       </li>
@@ -712,8 +711,9 @@ September 2017, 248-254.
       </li>
       <li>SCONJ
         <ul>
-          <li>ADP: a, come, da, per, senza, di, Salvo, prima, su</li>
-          <li>ADV: anche, prima, dopo, fino, così, pur, solo, tanto, fin, sempre</li>
+          <li>ADP: in, a, come, da, per, senza, di, Salvo, prima, su</li>
+          <li>ADV: anche, prima, dopo, fino, invece, pur, solo, tanto, così, ecco</li>
+          <li>NOUN: man</li>
           <li>SCONJ: quasi, se</li>
         </ul>
       </li>
@@ -757,14 +757,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (4)</li>
       <li>VERB--PRON (5)</li>
-      <li>VERB-Fin--NOUN (2816)</li>
-      <li>VERB-Fin--PRON (1665)</li>
+      <li>VERB-Fin--NOUN (2817)</li>
+      <li>VERB-Fin--PRON (1666)</li>
       <li>VERB-Ger--NOUN (42)</li>
       <li>VERB-Ger--PRON (32)</li>
       <li>VERB-Inf--NOUN (408)</li>
       <li>VERB-Inf--PRON (179)</li>
       <li>VERB-Part--NOUN (1239)</li>
-      <li>VERB-Part--PRON (536)</li>
+      <li>VERB-Part--PRON (535)</li>
     </ul>
   </li>
 </ul>
@@ -774,14 +774,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (91)</li>
       <li>VERB--PRON (5)</li>
-      <li>VERB-Fin--NOUN (2245)</li>
-      <li>VERB-Fin--PRON (544)</li>
+      <li>VERB-Fin--NOUN (2242)</li>
+      <li>VERB-Fin--PRON (538)</li>
       <li>VERB-Ger--NOUN (370)</li>
       <li>VERB-Ger--PRON (44)</li>
       <li>VERB-Inf--NOUN (2215)</li>
-      <li>VERB-Inf--PRON (263)</li>
-      <li>VERB-Part--NOUN (1267)</li>
-      <li>VERB-Part--PRON (335)</li>
+      <li>VERB-Inf--PRON (266)</li>
+      <li>VERB-Part--NOUN (1266)</li>
+      <li>VERB-Part--PRON (334)</li>
     </ul>
   </li>
 </ul>
@@ -793,7 +793,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (21)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--PRON (84)</li>
-      <li>VERB-Part--PRON (114)</li>
+      <li>VERB-Part--PRON (115)</li>
     </ul>
   </li>
 </ul>

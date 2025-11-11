@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>_, ne, ǀnowa</em>
 
 The 10 most frequent `X` types:  <em>re, kuri, ro, uerbehaupt, Potassium, ada, ao, auǃkh, cyanide, de</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> 2142, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 44, <tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 6), <em>ǀnowa</em> (<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> 6, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> 2154, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 44, <tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> 1), <em>ǀnowa</em> (<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> 6, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>re</em> (<tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> 322, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 11), <em>kuri</em> (<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 3), <em>ro</em> (<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 2), <em>ao</em> (<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> 1, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1), <em>de</em> (<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1), <em>e</em> (<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1), <em>mâ</em> (<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> 32, <tt><a href="naq_kdt-pos-DET.html">DET</a></tt> 11, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1), <em>n</em> (<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> 76, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1), <em>nēsis</em> (<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1), <em>t</em> (<tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> 1, <tt><a href="naq_kdt-pos-X.html">X</a></tt> 1)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>re</em> (<tt><a href="naq_kdt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `X` is 10.666667 (the average of all parts of speech is 1.374017).
+The form / lemma ratio of `X` is 10.666667 (the average of all parts of speech is 1.375985).
 
 The 1st highest number of forms (30) was observed with the lemma “_”: <em>Potassium, ada, ao, auǃkh, cyanide, de, doe-om, e, kuri, mâ, n, nēsis, om, ououou, ouxam, re, ro, sah, t, tiratira, tiôa, uerbehaupt, xam, ǀaeres, ǀapa, ǀnî, ǂ, ǃhūb, ǃhūba, ǃnahe</em>.
 

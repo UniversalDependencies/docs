@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Range`.
 
-11708 tokens (3%) have a non-empty value of `NumType`.
+11716 tokens (3%) have a non-empty value of `NumType`.
 2243 types (3%) occur at least once with a non-empty value of `NumType`.
-1873 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9016; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2659; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (26; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (7; 0% instances).
+1872 lemmas (4%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9021; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2662; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (26; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (7; 0% instances).
 
 ### `NUM`
 
-9016 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+9021 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5572; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5559; 62%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5548; 62%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (8352; 93% of non-empty `NumType`): <em>kaks, 1, üks, 10, 2, kolm, kahe, ühe, 3, miljonit</em>
-* `Frac` (222; 2% of non-empty `NumType`): <em>pool, poole, pooled, veerand, kolmandik, kolmandiku, 1/5, kolmandikku, viiendik, 1/2</em>
+* `Card` (8356; 93% of non-empty `NumType`): <em>kaks, 1, üks, 10, 2, kolm, ühe, kahe, 3, miljonit</em>
+* `Frac` (223; 2% of non-empty `NumType`): <em>pool, poole, pooled, veerand, kolmandik, kolmandiku, 1/5, kolmandikku, viiendik, 1/2</em>
 * `Ord` (12; 0% of non-empty `NumType`): <em>kolmandat, 18., 3., I, IX, Teine, XII, esimest, kolmas, sajas</em>
 * `Range` (430; 5% of non-empty `NumType`): <em>1-2, 1989-2001, 3-4, 1997-2000, 3-5, 1995-2000, 10-15, 1991-2001, 1998-2000, 2-3</em>
 
@@ -47,19 +47,19 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>pooleks</em></td><td><em>pooleks</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 99% lemmas (1472) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 99% lemmas (1471) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-2659 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
+2662 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2659; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2659; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2659; 100%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2648; 100%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1531; 58%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1531; 58%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2662; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2662; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2662; 100%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2651; 100%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1531; 58%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1531; 58%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (3; 0% of non-empty `NumType`): <em>17, 20, Teine</em>
-* `Ord` (2656; 100% of non-empty `NumType`): <em>esimene, 1., esimest, esimese, teine, 2000., 2., teise, 1997., 1999.</em>
-* `EMPTY` (34222): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
+* `Ord` (2659; 100% of non-empty `NumType`): <em>esimene, 1., esimest, esimese, teine, 2000., 2., teise, 1997., 1999.</em>
+* `EMPTY` (34195): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
 
 <table>
   <tr><th>Paradigm <i>teine</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 
 * `Card` (6; 23% of non-empty `NumType`): <em>GP-2, Sputnik-1, ZIL-130, 8, Kolme, MiG-29</em>
 * `Ord` (20; 77% of non-empty `NumType`): <em>Teist, Teise, Kolmanda, ADV, Esimene, Esimese, M, Neljanda, Neljandal, Teisel</em>
-* `EMPTY` (26256): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26255): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 `NumType` seems to be **lexical feature** of `PROPN`. 100% lemmas (12) occur only with one value of `NumType`.
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `SYM` and `NumType` co-occurre
 `SYM` tokens may have the following values of `NumType`:
 
 * `Card` (7; 100% of non-empty `NumType`): <em>%, ω-6-</em>
-* `EMPTY` (733): <em>%, %-l, =, %-ni, &, ω-3-, *, &amp;, %-lt, ?</em>
+* `EMPTY` (733): <em>%, %-l, &, =, %-ni, ω-3-, *, %-lt, ?, 1-</em>
 
 ## Relations with Agreement in `NumType`
 

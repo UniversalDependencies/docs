@@ -25,13 +25,13 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Кемоньшка	кемонь	NUM	Num	Case=Cmp|Number=Plur,Sing	3	nummod	_	_
 3	кизоня	киза	NOUN	N	Case=Nom|Definite=Ind|Degree=Dim|Number=Sing	4	nsubj	_	_
-4	ётай	ётамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	6	advcl	_	SpaceAfter=No
+4	ётай	ётамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	4	punct	_	_
-6	касат	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	SpaceAfter=No
+6	касат	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	10	punct	_	_
 8	козонга	козонга	ADV	Adv	Case=Ill|PronType=Ind	10	advmod	_	_
 9	аф	аф	AUX	Aux	Polarity=Neg	10	aux	_	_
-10	туят	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	6	conj	_	SpaceAfter=No
+10	туят	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Маряк	марямс	VERB	V	Connegative=Yes	0	root	_	CGdephead=#1-&gt;2|CGdeprel=@IMV|GTtags=ConNegII
 2	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	3	aux:neg	_	CGdephead=#2-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg
 3	стак	стак	ADV	Adv	_	4	advmod	_	CGdephead=#3-&gt;4|CGdeprel=@ADVL&gt;
-4	корхнихть	корхнемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	1	conj	_	CGdephead=#4-&gt;2|CGdeprel=@FMV|GTtags=Ind,Prs,ScPl3
+4	корхнихть	корхнемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	1	conj	_	CGdephead=#4-&gt;2|CGdeprel=@FMV|GTtags=Ind,Prs,ScPl3
 5	мокшетне	мокша	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	CGdephead=#5-&gt;4|CGdeprel=@SPRED|GTtags=Pl,Nom,Def|SpaceAfter=No
 6	:	:	PUNCT	CLB	_	12	punct	_	CGdephead=#6-&gt;2|CGdeprel=@X|GTtags=CLB
 7	«	«	PUNCT	PUNCT	PunctSide=Ini	12	punct	_	CGdephead=#7-&gt;8|CGdeprel=@X|GTtags=PUNCT,LEFT|SpaceAfter=No

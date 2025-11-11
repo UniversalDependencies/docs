@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-648 nodes (1%) are attached to their parents as `nummod`.
+647 nodes (1%) are attached to their parents as `nummod`.
 
-626 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08641975308642.
+625 instances of `nummod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08655332302937.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (608; 94% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (17; 3% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (608; 94% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (16; 2% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,23 +34,6 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 nummod	color:blue
-1	Breathnaigh	breathnaigh	VERB	VTI	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	Punct	_	3	punct	_	_
-3	míle	míle	NUM	Num	NumType=Card	1	obj	_	_
-4	is	agus	CCONJ	Coord	_	6	cc	_	_
-5	a	a	PART	Nm	PartType=Num	6	mark:prt	_	_
-6	haon	aon	NUM	Num	Form=HPref|NumType=Card	3	nummod	_	SpaceAfter=No
-7	!	!	PUNCT	!	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 7	bgColor:blue
@@ -65,6 +48,23 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	Euro	Euro	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 8	212,000	212,000	NUM	Num	_	7	nummod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 nummod	color:blue
+1	Breathnaigh	breathnaigh	VERB	VTI	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Punct	_	3	punct	_	_
+3	míle	míle	NUM	Num	NumType=Card	1	obj	_	_
+4	is	agus	CCONJ	Coord	_	6	cc	_	_
+5	a	a	PART	Nm	PartType=Num	6	mark:prt	_	_
+6	haon	aon	NUM	Num	Form=HPref|NumType=Card	3	nummod	_	SpaceAfter=No
+7	!	!	PUNCT	!	_	1	punct	_	_
 
 ~~~
 

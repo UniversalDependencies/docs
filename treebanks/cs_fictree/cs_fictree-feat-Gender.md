@@ -162,14 +162,13 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>těmi</em></td><td><em>těmi</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>té</em></td><td><em>tom</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>těch</em></td><td><em>těch</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-ExtPos.html">ExtPos</a></tt><tt>=ADJ</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>to</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ta</em></td><td><em>to</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ty</em></td><td><em>ta</em></td></tr>
 </table>
 
 ### `PRON`
 
-3591 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (26% of all `PRON` tokens) have a non-empty value of `Gender`.
+3591 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3591; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (2937; 82%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2937; 82%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2601; 72%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2512; 70%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (2028; 56%).
 
@@ -178,7 +177,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (1051; 29% of non-empty `Gender`): <em>ji, jí, ní, ona, je, ni, nich, níž, ně, jich</em>
 * `Masc` (2374; 66% of non-empty `Gender`): <em>ho, mu, kdo, je, on, nikdo, něj, někdo, ním, jim</em>
 * `Neut` (166; 5% of non-empty `Gender`): <em>je, ho, všecko, ně, něj, něm, co, jež, mu, ono</em>
-* `EMPTY` (10487): <em>se, si, mi, co, mě, já, nic, něco, nás, ti</em>
+* `EMPTY` (10496): <em>se, si, mi, co, mě, já, nic, něco, nás, ti</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

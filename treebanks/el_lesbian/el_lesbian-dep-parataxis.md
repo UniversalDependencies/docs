@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-82 nodes (2%) are attached to their parents as `parataxis`.
+128 nodes (2%) are attached to their parents as `parataxis`.
 
-82 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.67073170731707.
+122 instances of `parataxis` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.234375.
 
-The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (55; 67% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (6; 7% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (90; 70% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (8; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (8; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	fgColor:white
 # visual-style 1 6 parataxis	color:blue
 1	Έπισι	λέγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	πουτ’κός	πουτκός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	πουτ’κός	πουτκός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	μέσ’	μέσα	ADP	_	Typo=Yes	5	case	_	CorrectForm=μες
 4	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	λάδ’	λάδ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
@@ -41,10 +41,10 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 9 parataxis	color:blue
-1	Χρυσό	χρυσός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
-2	κορίτσ’	κορίτσ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+1	Χρυσό	κσός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	amod	_	_
+2	κορίτσ’	κουρίτσ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 3	η	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	κόρη	κόρη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	κόρη	κόρ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 5	σ’	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod	_	_
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	να	να	AUX	_	_	9	aux	_	_

@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 10	a	a	DET	IND-SG	Definite=Ind|PronType=Art	12	det	_	SpaceAfter=No
 11	...	...	PUNCT	Dots	_	10	punct	_	_
 12	faculty	faculty	NOUN	SG-NOM	Number=Sing	6	nsubj	_	_
-13	can	can	AUX	PRES-AUX	VerbForm=Fin	6	aux	_	_
+13	can	can	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	6	aux	_	_
 14	be	be	AUX	INF-AUX	VerbForm=Inf	6	cop	_	SpaceAfter=No
 15	.	.	PUNCT	Period	_	2	punct	_	_
 

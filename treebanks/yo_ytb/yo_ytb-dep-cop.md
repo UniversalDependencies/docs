@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (1%) are attached to their parents as `cop`.
+47 nodes (1%) are attached to their parents as `cop`.
 
-44 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28260869565217.
+45 instances of `cop` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27659574468085.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (36; 78% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 11% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (37; 79% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (5; 11% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 3	ìwò	ìwò	NOUN	_	_	2	obj	_	_
 4	ẹ̀fọ̀	ẹ̀fọ̀	ADJ	_	_	2	obj	_	_
 5	tí	tí	PRON	_	PronType=Rel	7	nsubj	_	_
-6	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+6	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	expl	_	_
 7	fi	fi	VERB	_	_	4	acl	_	_
 8	ṣe	ṣe	VERB	_	_	7	compound:svc	_	_
 9	ìwòjú	ìwòjú	NOUN	_	_	8	obj	_	_

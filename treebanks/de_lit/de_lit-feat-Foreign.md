@@ -45,7 +45,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (10; 100% of non-empty `Foreign`): <em>de, à, except, fra, in, jusqu', jusqu'au, sur</em>
-* `EMPTY` (2632): <em>in, von, mit, für, auf, an, durch, zu, aus, nach</em>
+* `EMPTY` (2634): <em>in, von, mit, für, auf, an, durch, zu, aus, nach</em>
 
 ### `ADJ`
 

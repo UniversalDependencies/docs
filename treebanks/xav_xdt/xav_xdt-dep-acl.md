@@ -17,21 +17,23 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 acl	color:blue
-1	Wanorĩhã	wanorĩhã	PRON	pron	Emph=Yes|Number=Coll|Person=1	3	nsubj	_	_
-2	wa	wa	PRON	ego	Person=1	3	dep	_	_
-3	sa'wari	sa'wari	VERB	v	_	0	root	_	pour;derramar,despejar
-4	za'ra	za'ra	PART	prcl	Number=Plur	3	dep	_	_
-5	ni	ni	X	x	Number=Dual	3	dep	_	_
-6	ö	ö	NOUN	n	_	3	obj	_	water;água
-7	,	,	PUNCT	punct	_	6	punct	_	_
-8	u'mre	u'mre	NOUN	n	_	6	acl	_	gourd;cabaça
-9	'remhã	'remhã	ADP	posp	_	8	case	_	inside,being.inside;dentro,estando.dentro
-10	.	.	PUNCT	punct	_	3	punct	_	_
+# visual-style 8 10 acl	color:blue
+1	Wa	wa	PRON	pron	Emph=Yes|Number=Coll|Person=1	5	nsubj	_	_
+2	norĩ	norĩ	PRON	pron	Number=Coll	1	dep	_	_
+3	hã	hã	PRON	pron	_	1	dep	_	_
+4	wa	wa	AUX	aux	Person=1	5	dep	_	_
+5	sa'wari	sa'wari	VERB	v	_	0	root	_	pour;derramar,despejar
+6	za'ra	za'ra	PART	prcl	Number=Plur	5	dep	_	_
+7	ni	ni	X	x	Number=Dual	5	dep	_	_
+8	ö	ö	NOUN	n	_	5	obj	_	water;água
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	u'mre	u'mre	NOUN	n	_	8	acl	_	gourd;cabaça
+11	'remhã	'remhã	ADP	posp	_	10	case	_	inside,being.inside;dentro,estando.dentro
+12	.	.	PUNCT	punct	_	5	punct	_	_
 
 ~~~
 

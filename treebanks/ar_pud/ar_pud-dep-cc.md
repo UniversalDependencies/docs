@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="ar_pud-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-652 nodes (3%) are attached to their parents as `cc`.
+759 nodes (4%) are attached to their parents as `cc`.
 
-647 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42484662576687.
+753 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.59025032938076.
 
-The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (308; 47% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (181; 28% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (87; 13% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (46; 7% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (15; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (332; 44% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (252; 33% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (89; 12% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (47; 6% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (16; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="a
 6	الألعاب	لَعب	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	nmod	_	LId=لَعْب_1
 7	و	وَ	CCONJ	CC	_	8	cc	_	SpaceAfter=No
 8	حيات	حَيَّة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	conj	_	LId=حَيَّة_1|SpaceAfter=No
-9	نا	هُوَ	PRON	PRP	Case=Gen|Number=Plur|Person=1	8	nmod	_	_
+9	نا	هُوَ	PRON	PRP	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	nmod	_	_
 10	اليومية	يَومِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	amod	_	LId=يَوْمِيّ_1|SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	LId=._0
 
@@ -52,10 +52,10 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="a
 6	,	,	PUNCT	,	_	8	punct	_	LId=,_0
 7	ثم	ثُمَّ	CCONJ	CC	_	8	cc	_	LId=ثُمَّ_1
 8	تبعت	تَبِع	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	LId=تَبِع-َ_1|SpaceAfter=No
-9	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	_	_
-10	إحدى	أَحَد	DET	PDT	Case=Nom	11	det	_	LId=أَحَد_1
+9	ها	هُوَ	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	إحدى	أَحَد	DET	PDT	Case=Nom|PronType=Ind	11	det	_	LId=أَحَد_1
 11	صديقات	صَدِيقَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	nsubj	_	LId=صَدِيق_1|SpaceAfter=No
-12	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	SpaceAfter=No
+12	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	_	LId=._0
 
 ~~~

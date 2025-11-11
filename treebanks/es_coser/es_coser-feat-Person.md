@@ -97,7 +97,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="es_coser-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (50; 98%),
 <tt>VERB --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (12; 86%),
 <tt>AUX --[<tt><a href="es_coser-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (10; 67%),
-<tt>VERB --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> PRON</tt> (10; 59%),
+<tt>VERB --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> PRON</tt> (9; 56%),
 <tt>PRON --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (8; 89%),
 <tt>AUX --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (7; 100%),
 <tt>VERB --[<tt><a href="es_coser-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (5; 100%).

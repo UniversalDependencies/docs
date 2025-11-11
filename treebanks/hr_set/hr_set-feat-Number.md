@@ -192,7 +192,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (2232; 30% of non-empty `Number`): <em>koji, koje, kojima, svoje, neki, koja, tih, svojim, oni, svojih</em>
 * `Sing` (5100; 70% of non-empty `Number`): <em>to, koji, koja, toga, ove, koje, koju, svoj, sve, tome</em>
-* `EMPTY` (362): <em>nekoliko, više, mnogo, pola, puno, posto, manje, malo, koliko, toliko</em>
+* `EMPTY` (352): <em>nekoliko, više, mnogo, pola, puno, manje, malo, koliko, toliko, dosta</em>
 
 <table>
   <tr><th>Paradigm <i>koji</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -228,7 +228,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (776; 49% of non-empty `Number`): <em>ih, im, njih, mi, nam, vam, nas, oni, njima, vas</em>
 * `Sing` (813; 51% of non-empty `Number`): <em>ga, mu, on, ona, mi, joj, ono, ja, je, njega</em>
-* `EMPTY` (3713): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
+* `EMPTY` (3711): <em>se, što, ništa, tko, nešto, nitko, čime, čega, sebe, sebi</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Number`.
 
@@ -267,11 +267,11 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17180; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17182; 95%),
 <tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9184; 62%),
 <tt>VERB --[<tt><a href="hr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (5315; 82%),
-<tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4897; 85%),
-<tt>VERB --[<tt><a href="hr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3829; 51%),
+<tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4898; 85%),
+<tt>VERB --[<tt><a href="hr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3848; 51%),
 <tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3213; 98%),
 <tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2864; 78%),
 <tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2390; 99%),

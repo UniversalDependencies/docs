@@ -9,19 +9,19 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADP`, `ADV`, `CCONJ`, `PRON`, `SCONJ`.
 
-217 tokens (0%) have a non-empty value of `ExtPos`.
-30 types (0%) occur at least once with a non-empty value of `ExtPos`.
-25 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (96; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (36; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (33; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
+220 tokens (0%) have a non-empty value of `ExtPos`.
+31 types (0%) occur at least once with a non-empty value of `ExtPos`.
+26 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 8 part-of-speech tags: <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (98; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (36; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (33; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `ADP`
 
-96 <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+98 <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
 * `ADP` (10; 10% of non-empty `ExtPos`): <em>because, in, As, instead, on</em>
-* `ADV` (75; 78% of non-empty `ExtPos`): <em>of, at, on, in, after, before</em>
+* `ADV` (77; 79% of non-empty `ExtPos`): <em>of, at, on, in, after, before</em>
 * `SCONJ` (11; 11% of non-empty `ExtPos`): <em>in, as</em>
 
 <table>
@@ -78,14 +78,14 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 
 ### `PRON`
 
-5 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+6 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="en_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Rcp</tt> (4; 80%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="en_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="en_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Rcp</tt> (4; 67%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
-* `ADV` (1; 20% of non-empty `ExtPos`): <em>all</em>
-* `PRON` (4; 80% of non-empty `ExtPos`): <em>one</em>
+* `ADV` (2; 33% of non-empty `ExtPos`): <em>all</em>
+* `PRON` (4; 67% of non-empty `ExtPos`): <em>one</em>
 
 ### `VERB`
 

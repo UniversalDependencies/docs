@@ -61,13 +61,13 @@ The 2nd highest number of forms (2) was observed with the lemma “después”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “abiertamente”: <em>abiertamente</em>.
 
-`ADV` occurs with 5 features: <tt><a href="es_pud-feat-Polarity.html">Polarity</a></tt> (126; 14% instances), <tt><a href="es_pud-feat-Degree.html">Degree</a></tt> (114; 13% instances), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (50; 6% instances), <tt><a href="es_pud-feat-Abbr.html">Abbr</a></tt> (16; 2% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (3; 0% instances)
+`ADV` occurs with 6 features: <tt><a href="es_pud-feat-Polarity.html">Polarity</a></tt> (126; 14% instances), <tt><a href="es_pud-feat-Degree.html">Degree</a></tt> (114; 13% instances), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (50; 6% instances), <tt><a href="es_pud-feat-ExtPos.html">ExtPos</a></tt> (35; 4% instances), <tt><a href="es_pud-feat-Abbr.html">Abbr</a></tt> (16; 2% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (3; 0% instances)
 
-`ADV` occurs with 5 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Foreign=Yes`, `Polarity=Neg`, `PronType=Rel`
+`ADV` occurs with 9 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Foreign=Yes`, `Polarity=Neg`, `PronType=Rel`
 
-`ADV` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (584 tokens).
-Examples: <em>también, después, ya, muy, tanto, antes, solo, poco, luego, además</em>
+`ADV` occurs with 11 feature combinations.
+The most frequent feature combination is `_` (550 tokens).
+Examples: <em>también, después, muy, tanto, antes, ya, solo, poco, luego, además</em>
 
 
 ## Relations

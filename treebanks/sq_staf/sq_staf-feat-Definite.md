@@ -45,7 +45,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 `DET` tokens may have the following values of `Definite`:
 
 * `Ind` (45; 100% of non-empty `Definite`): <em>një, Nja</em>
-* `EMPTY` (255): <em>e, të, i, së, një, nja, pak</em>
+* `EMPTY` (254): <em>e, të, i, së, një, nja, pak</em>
 
 ### `PROPN`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (10; 63% of non-empty `Definite`): <em>tjerë, Ç', ka, mi, njena, sajin, tjerash, tjerëve</em>
 * `Ind` (6; 38% of non-empty `Definite`): <em>tjetër, më, Asnjeri</em>
-* `EMPTY` (414): <em>e, i, më, që, unë, ai, kjo, tij, ky, ajo</em>
+* `EMPTY` (415): <em>e, i, më, që, unë, ai, kjo, tij, ky, ajo</em>
 
 <table>
   <tr><th>Paradigm <i>tjetër</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -90,10 +90,11 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="sq_staf-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (30; 67%),
-<tt>NOUN --[<tt><a href="sq_staf-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (29; 59%),
-<tt>NOUN --[<tt><a href="sq_staf-dep-conj.html">conj</a></tt>]--> NOUN</tt> (22; 76%),
-<tt>NOUN --[<tt><a href="sq_staf-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (4; 80%),
+<tt>NOUN --[<tt><a href="sq_staf-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (29; 58%),
+<tt>NOUN --[<tt><a href="sq_staf-dep-conj.html">conj</a></tt>]--> NOUN</tt> (23; 77%),
+<tt>NOUN --[<tt><a href="sq_staf-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (5; 83%),
 <tt>NOUN --[<tt><a href="sq_staf-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2; 67%),
+<tt>NOUN --[<tt><a href="sq_staf-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2; 67%),
 <tt>NOUN --[<tt><a href="sq_staf-dep-amod.html">amod</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="sq_staf-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1; 100%).
 

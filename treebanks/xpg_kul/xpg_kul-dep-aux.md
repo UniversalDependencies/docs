@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 14	fgColor:white
 # visual-style 14 15 aux	color:blue
 1	[ι]ος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM845568|5|1
-2	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing	3	det	_	Ref=TM845568|5|2
+2	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Ref=TM845568|5|2
 3	[κνο]υ̣μανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM845568|5|3
 4	κα[κου]ν̣	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM845568|5|4
 5	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	SpaceAfter=No|Ref=TM845568|5|5

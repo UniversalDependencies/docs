@@ -52,7 +52,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 7	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
 8	eu	avoir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
-10	ces	ce	DET	DT	Gender=Fem|Number=Plur	13	det	_	_
+10	ces	ce	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
 11	vingt	vingt	NUM	CD	_	13	nummod	_	_
 12	dernières	dernier	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 13	années	année	NOUN	NN	Gender=Fem|Number=Plur	8	obl:mod	_	SpaceAfter=No

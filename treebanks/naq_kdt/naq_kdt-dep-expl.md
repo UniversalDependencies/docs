@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 8 3 expl	color:blue
 1	Nēpa	nēpa	ADV	_	Deixis=Prox|PronType=Dem	8	obl	8:obl	_
 2	xu	xu	ADP	_	_	1	case	1:case	_
-3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	expl	8:expl	_
+3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	8:expl	_
 4	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
 5	ǂhawa	ǂhawa	ADJ	_	_	6	amod	6:amod	_
 6	ǃganna	ǃgan	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	nsubj	8:nsubj	_

@@ -27,8 +27,8 @@ The following 1 pairs of parts of speech are connected with `det:pron`: <tt><a h
 2	e	e	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	3	det:pron	_	end_char=1922|start_char=1921
 3	tij	tij	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	det:poss	_	end_char=1926|start_char=1923
 4	më	më	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	end_char=1929|start_char=1927
-5	e	ai	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	obj	_	end_char=1929|start_char=1927
-6	zhbënte	zhbë	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	end_char=1937|start_char=1930
+5	e	ai	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	expl	_	end_char=1929|start_char=1927
+6	zhbënte	zhbë	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=1937|start_char=1930
 7	edhe	edhe	ADV	_	_	6	advmod	_	end_char=1942|start_char=1938
 8	skutën	skutë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	end_char=1949|start_char=1943
 9	më	më	ADV	_	_	11	advmod	_	end_char=1952|start_char=1950

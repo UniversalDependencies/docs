@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 22 15 csubj	color:blue
 1	Ну	ну	PART	Pcle	_	3	cc	_	OrigLang=ru|SpaceAfter=No|Note=CheckAll
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	палялі	палявны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+3	палялі	палявны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	5	amod	_	_
 5	местэам	местӧ	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obl	_	OrigLang=ru|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 21	,	,	PUNCT	CLB	_	20	punct	_	_
 22	тытэн	тытэн	ADV	Adv	_	3	advcl	_	_
 23	нин	нин	ADV	Adv	_	22	advmod	_	_
-24	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	cop	_	SpaceAfter=No
+24	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	SpaceAfter=No
 25	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -61,15 +61,15 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	зэй	зэй	ADV	Adv	_	3	advmod:deg	_	_
 3	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	1	amod	_	_
 4	кор	кор	ADV	Adv	_	1	advmod	_	_
-5	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	cop	_	SpaceAfter=No
+5	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	дак	дак	SCONJ	CS	_	9	mark	_	OrigLang=ru
 8	берегсэ	берег	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obj	_	_
-9	жугедэді	жыгӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+9	жугедэді	жыгӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	9	punct	_	_
 11	сідз	сідз	ADV	Adv	_	13	mark	_	_
 12	и	и	PART	Pcle	_	13	advmod	_	OrigLang=ru
-13	смыло	смыть	VERB	V	Mood=Ind|Number=Sing|Tense=Past	9	conj	_	Lang=ru
+13	смыло	смыть	VERB	V	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	conj	_	Lang=ru
 14	всю	весь	DET	Det	Case=Acc|Number=Sing	15	det	_	Lang=ru
 15	деревню	деревня	NOUN	N	Case=Acc|Number=Sing	13	obj	_	Lang=ru|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	15	punct	_	_

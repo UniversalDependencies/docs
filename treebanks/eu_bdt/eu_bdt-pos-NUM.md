@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>batean</em> (<tt><a href="eu_bdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.415385 (the average of all parts of speech is 2.170132).
+The form / lemma ratio of `NUM` is 1.415385 (the average of all parts of speech is 2.170046).
 
 The 1st highest number of forms (21) was observed with the lemma “bat”: <em>bat, bata, batak, batean, bategatik, batek, batekin, bateko, batekoa, baten, batena, batengatik, batentzat, batera, baterako, baterantz, batetan, batetik, batez, bati, batik</em>.
 

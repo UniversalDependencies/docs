@@ -11,9 +11,9 @@ This relation is universal.
 4997 nodes (4%) are attached to their parents as `root`.
 
 4997 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.1801080648389.
+Average distance between parent and child is 12.1743045827497.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4112; 82% instances), -<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (570; 11% instances), -<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (116; 2% instances), -<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (103; 2% instances), -<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (53; 1% instances), -<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (21; 0% instances), -<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), -<tt><a href="zh_gsd-pos-X.html">X</a></tt> (9; 0% instances), -<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (4112; 82% instances), -<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (571; 11% instances), -<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (115; 2% instances), -<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (103; 2% instances), -<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (53; 1% instances), -<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (21; 0% instances), -<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), -<tt><a href="zh_gsd-pos-X.html">X</a></tt> (9; 0% instances), -<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

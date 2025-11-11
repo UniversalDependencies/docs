@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (1%) are attached to their parents as `flat`.
+15 nodes (1%) are attached to their parents as `flat`.
 
-5 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.6.
+15 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.2.
 
-The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (5; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xum_ikuvina-pos-PROPN.html">PROPN</a></tt> (15; 100% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 flat	color:blue
-1	kvestretie	_	NOUN	_	Case=Loc|Number=Sing	2	obl	_	Orig=kvestre:tie
-2	usaçe	_	VERB	_	_	0	root	_	Orig=usaie
-3	svesu	_	DET	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	nmod	_	_
-4	vuvçis	_	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+1	kvestretie	_	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	orphan	_	Orig=kvestre:tie
+2	usaçe	_	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	1	amod	_	Orig=usaie
+3	svesu	_	DET	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	det	_	_
+4	vuvçis	_	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 5	titis	_	PROPN	_	Case=Gen|Number=Sing	4	nmod	_	_
 6	teteies	_	PROPN	_	Case=Nom|Number=Sing	4	flat	_	_
 

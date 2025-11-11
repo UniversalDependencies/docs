@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Septina Dian Larasati, Ika Alfina.
 
 Repository: [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ The Indonesian-GSD treebank was originally converted from the content head versi
 
 ## Features
 
-[Abbr](id_gsd-feat-Abbr.html) – [Clusivity](id_gsd-feat-Clusivity.html) – [Definite](id_gsd-feat-Definite.html) – [Degree](id_gsd-feat-Degree.html) – [ExtPos](id_gsd-feat-ExtPos.html) – [Foreign](id_gsd-feat-Foreign.html) – [Mood](id_gsd-feat-Mood.html) – [Number](id_gsd-feat-Number.html) – [NumType](id_gsd-feat-NumType.html) – [Person](id_gsd-feat-Person.html) – [Polarity](id_gsd-feat-Polarity.html) – [Polite](id_gsd-feat-Polite.html) – [PronType](id_gsd-feat-PronType.html) – [Reflex](id_gsd-feat-Reflex.html) – [Typo](id_gsd-feat-Typo.html) – [Voice](id_gsd-feat-Voice.html)
+[Abbr](id_gsd-feat-Abbr.html) – [Clusivity](id_gsd-feat-Clusivity.html) – [Definite](id_gsd-feat-Definite.html) – [Degree](id_gsd-feat-Degree.html) – [ExtPos](id_gsd-feat-ExtPos.html) – [Foreign](id_gsd-feat-Foreign.html) – [Number](id_gsd-feat-Number.html) – [NumType](id_gsd-feat-NumType.html) – [Person](id_gsd-feat-Person.html) – [Polarity](id_gsd-feat-Polarity.html) – [Polite](id_gsd-feat-Polite.html) – [PronType](id_gsd-feat-PronType.html) – [Reflex](id_gsd-feat-Reflex.html) – [Typo](id_gsd-feat-Typo.html) – [Voice](id_gsd-feat-Voice.html)
 
 ## Relations
 
@@ -122,7 +122,7 @@ The Indonesian-GSD treebank was originally converted from the content head versi
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): PRON, aneka, banyak, beberapa, begini, begitu, berbagai, berdua, berikut, buah, demikian, dia, dibeberapa, ini, itu, jumlah, kebanyakan, kelompok, keseluruhan, macam, masing, nya, orang, para, per, ragam, rangkai, sang, seantero, sebagian, seekor, segala, segenap, sejumlah, sekelompok, sekumpulan, seluruh, semacam, semua, sendiri, sepucuk, serangkaian, sesuatu, setiap, si, suatu, tadi, tersebut, tertentu, tesebut, tiap, tsb, yang</li>
+<li>This corpus contains 54 lemmas tagged as determiners (DET): PRON, aneka, banyak, beberapa, begini, begitu, berbagai, berdua, berikut, buah, demikian, dia, dibeberapa, ini, itu, jumlah, kebanyakan, kelompok, keseluruhan, macam, masing, nya, orang, para, per, ragam, rangkai, sang, seantero, sebagian, seekor, segala, segenap, sejumlah, sekelompok, sekumpulan, seluruh, semacam, semua, sendiri, sepucuk, serangkaian, sesuatu, setiap, si, suatu, tadi, tersebut, tertentu, tesebut, the, tiap, tsb, yang</li>
 </ul>
 
 <ul>
@@ -224,25 +224,6 @@ The Indonesian-GSD treebank was originally converted from the content head versi
 
 
 
-<ul>
-  <li><a>Mood</a></li>
-</ul>
-
-<ul>
-  <li>Imp
-    <ul>
-      <li>VERB: Amankan, Ijinkan, Sukseskan</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ind
-    <ul>
-      <li>VERB: menjadi, memiliki, terletak, digunakan, berada, menggunakan, dikenal, terjadi, membuat, disebut</li>
-    </ul>
-  </li>
-</ul>
 
 
 <ul>
@@ -252,7 +233,7 @@ The Indonesian-GSD treebank was originally converted from the content head versi
 <ul>
   <li>Act
     <ul>
-      <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, adanya</li>
+      <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, melakukan, kembali, berasal</li>
     </ul>
   </li>
 </ul>
@@ -276,7 +257,7 @@ The Indonesian-GSD treebank was originally converted from the content head versi
 <ul>
   <li>Art
     <ul>
-      <li>DET: sebuah, nya, seorang, suatu, sang, si, seekor, yang, Sauatu, sepucuk</li>
+      <li>DET: sebuah, nya, seorang, suatu, sang, si, yang, seekor, The, Sauatu</li>
     </ul>
   </li>
 </ul>
@@ -304,7 +285,7 @@ The Indonesian-GSD treebank was originally converted from the content head versi
     <ul>
       <li>ADV: banyak</li>
       <li>DET: beberapa, para, berbagai, banyak, sejumlah, sekelompok, kebanyakan, sebagian, semacam, serangkaian</li>
-      <li>PRON: seseorang, sesuatu, seorang, sejumlah, beberapa, Banyak</li>
+      <li>PRON: seseorang, sesuatu, seorang, sejumlah, beberapa, Banyak, nya</li>
     </ul>
   </li>
 </ul>
@@ -330,6 +311,7 @@ The Indonesian-GSD treebank was originally converted from the content head versi
   <li>Rel
     <ul>
       <li>ADV: bagaimana, berapa, mengapa, kapan</li>
+      <li>DET: yang</li>
       <li>PRON: yang, siapa, yg, apa</li>
     </ul>
   </li>
@@ -529,7 +511,7 @@ The Indonesian-GSD treebank was originally converted from the content head versi
           <li>PROPN: Co</li>
           <li>SCONJ: dimana, darimana</li>
           <li>VERB: di, berbeda, berpura, bersama, berubah, dibayang, ke, kerje, terombang, terus</li>
-          <li>X: do, pendukun</li>
+          <li>X: do</li>
         </ul>
       </li>
     </ul>
@@ -561,7 +543,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(saat) (1)</li>
       <li>VERB--NOUN-ADP(seperti) (1)</li>
       <li>VERB--NOUN-ADP(untuk) (1)</li>
-      <li>VERB--PRON (2094)</li>
+      <li>VERB--PRON (2125)</li>
     </ul>
   </li>
 </ul>
@@ -569,7 +551,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4276)</li>
+      <li>VERB--NOUN (4268)</li>
       <li>VERB--NOUN-ADP(akan) (2)</li>
       <li>VERB--NOUN-ADP(atas) (2)</li>
       <li>VERB--NOUN-ADP(bahkan) (1)</li>
@@ -588,7 +570,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(seperti) (4)</li>
       <li>VERB--NOUN-ADP(untuk) (2)</li>
       <li>VERB--NOUN-ADP(yaitu) (1)</li>
-      <li>VERB--PRON (537)</li>
+      <li>VERB--PRON (480)</li>
     </ul>
   </li>
 </ul>
@@ -596,8 +578,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (6)</li>
-      <li>VERB--PRON (2)</li>
+      <li>VERB--NOUN (8)</li>
+      <li>VERB--PRON (7)</li>
     </ul>
   </li>
 </ul>

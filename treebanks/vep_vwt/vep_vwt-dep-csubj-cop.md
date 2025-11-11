@@ -27,13 +27,13 @@ The following 1 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 3	,	,	PUNCT	_	_	8	punct	_	_
 4	miše	miše	SCONJ	_	_	8	case	_	_
 5	elo	elo	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
-6	der'onas	der'oun	NOUN	_	Case=Ine|Number=Sing	5	nmod	_	_
+6	derʼonas	derʼoun	NOUN	_	Case=Ine|Number=Sing	5	nmod	_	_
 7	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	8	aux	_	_
-8	kül'mäiži	kül'mda	VERB	_	Connegative=Yes|Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj:cop	_	_
+8	külʼmäiži	külʼmda	VERB	_	Connegative=Yes|Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj:cop	_	_
 9	,	,	PUNCT	_	_	13	punct	_	_
 10	a	a	CCONJ	_	_	13	cc	_	_
 11	vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	12	amod	_	_
-12	kel'	kel'	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+12	kelʼ	kelʼ	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
 13	eläiži	eläda	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
 14	tägä	tägä	ADV	_	_	13	advmod	_	_
 15	igän	igän	ADV	_	_	13	advmod	_	_

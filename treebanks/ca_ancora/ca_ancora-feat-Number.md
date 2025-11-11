@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 261785 tokens (48%) have a non-empty value of `Number`.
 20436 types (63%) occur at least once with a non-empty value of `Number`.
 11481 lemmas (49%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (89723; 16% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (87168; 16% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (29667; 5% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (25265; 5% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (20479; 4% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (6820; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (2655; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (89723; 16% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (87168; 16% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (29667; 5% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (25263; 5% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (20481; 4% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (6820; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (2655; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
@@ -35,7 +35,7 @@ The feature is used with 8 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.
 
 87168 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (68418; 78%), <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (63638; 73%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (68259; 78%), <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (63482; 73%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -52,9 +52,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l'</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>el</em></td><td><em>els</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>el</em></td><td><em>els</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ca_ancora-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>la</em></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l'</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>l'</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -77,14 +80,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-25265 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Number`.
+25263 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18450; 73%), <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18450; 73%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (17604; 70%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16136; 64%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13043; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18449; 73%), <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18449; 73%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (17603; 70%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16135; 64%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13042; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (5346; 21% of non-empty `Number`): <em>tenen, fan, tenim, faran, volen, van, formen, consideren, destaquen, volem</em>
-* `Sing` (19919; 79% of non-empty `Number`): <em>té, ha, fa, fet, explicat, dit, considera, cal, farà, vol</em>
+* `Sing` (19917; 79% of non-empty `Number`): <em>té, ha, fa, fet, explicat, dit, considera, cal, farà, vol</em>
 * `EMPTY` (16633): <em>fer, dir, tenir, donar, arribar, aconseguir, veure, passar, presentar, deixar</em>
 
 <table>
@@ -110,14 +113,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-20479 <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
+20481 <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19829; 97%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (19284; 94%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18754; 92%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (17562; 86%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19830; 97%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (19285; 94%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18755; 92%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (17563; 86%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (4881; 24% of non-empty `Number`): <em>van, han, són, estan, hem, poden, havien, seran, podran, eren</em>
-* `Sing` (15598; 76% of non-empty `Number`): <em>va, ha, és, estat, està, havia, pot, serà, era, sigui</em>
+* `Sing` (15600; 76% of non-empty `Number`): <em>va, ha, és, estat, està, havia, pot, serà, era, sigui</em>
 * `EMPTY` (1573): <em>ser, haver, poder, estar, sent, saber, anar, essent, estant, havent</em>
 
 <table>
@@ -197,14 +200,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (65326; 96%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22825; 97%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (66577; 96%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22871; 97%),
 <tt>NOUN --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13623; 54%),
-<tt>VERB --[<tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (8233; 66%),
+<tt>VERB --[<tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (8231; 66%),
 <tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4055; 78%),
 <tt>NOUN --[<tt><a href="ca_ancora-dep-acl.html">acl</a></tt>]--> VERB</tt> (3985; 52%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-cop.html">cop</a></tt>]--> AUX</tt> (1672; 86%),
 <tt>VERB --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (1589; 68%),
-<tt>DET --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (1493; 98%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-cop.html">cop</a></tt>]--> AUX</tt> (1486; 70%).
+<tt>NOUN --[<tt><a href="ca_ancora-dep-cop.html">cop</a></tt>]--> AUX</tt> (1486; 70%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1373; 66%).
 

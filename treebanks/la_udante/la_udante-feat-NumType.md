@@ -12,7 +12,7 @@ It occurs with 4 different values: `Card`, `Dist`, `Mult`, `Ord`.
 972 tokens (2%) have a non-empty value of `NumType`.
 168 types (1%) occur at least once with a non-empty value of `NumType`.
 65 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (385; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (287; 1% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (150; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (119; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (31; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (385; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (287; 1% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (150; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (121; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (29; 0% instances).
 
 ### `DET`
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Dist` (3; 1% of non-empty `NumType`): <em>duodena, singulis, tredena</em>
 * `Ord` (284; 99% of non-empty `NumType`): <em>prima, primo, primum, primi, secundo, quarto, secunda, primus, tertio, tertium</em>
-* `EMPTY` (3687): <em>humanum, manifestum, necesse, verum, romanorum, illustre, romanus, falsum, inpossibile, propria</em>
+* `EMPTY` (3683): <em>humanum, manifestum, necesse, verum, romanorum, illustre, romanus, falsum, inpossibile, propria</em>
 
 <table>
   <tr><th>Paradigm <i>singuli</i></th><th><tt>Ord</tt></th><th><tt>Dist</tt></th></tr>
@@ -61,29 +61,29 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADV`
 
-119 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `NumType`.
+121 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (119; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (118; 99%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (110; 92%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (77; 65%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (121; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (120; 99%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (112; 93%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (77; 64%).
 
 `ADV` tokens may have the following values of `NumType`:
 
-* `Card` (58; 49% of non-empty `NumType`): <em>tantum, multum, plus, quantum, plurimum</em>
+* `Card` (60; 50% of non-empty `NumType`): <em>tantum, multum, plus, quantum, plurimum</em>
 * `Mult` (6; 5% of non-empty `NumType`): <em>semel, bis, dupliciter, ter, multotiens</em>
-* `Ord` (55; 46% of non-empty `NumType`): <em>primo, primum, tertio, secundo, quinto, Quarto, primitus, tertium</em>
-* `EMPTY` (2963): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
+* `Ord` (55; 45% of non-empty `NumType`): <em>primo, primum, tertio, secundo, quinto, Quarto, primitus, tertium</em>
+* `EMPTY` (2964): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (16) occur only with one value of `NumType`.
 
 ### `SCONJ`
 
-31 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `NumType`.
+29 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `SCONJ` and `NumType` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (31; 100%).
+The most frequent other feature values with which `SCONJ` and `NumType` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (29; 100%).
 
 `SCONJ` tokens may have the following values of `NumType`:
 
-* `Card` (31; 100% of non-empty `NumType`): <em>quantum</em>
-* `EMPTY` (2479): <em>ut, quod, cum, si, quia, quam, sicut, nisi, tanquam, quemadmodum</em>
+* `Card` (29; 100% of non-empty `NumType`): <em>quantum</em>
+* `EMPTY` (2476): <em>ut, quod, cum, si, quia, quam, sicut, nisi, tanquam, quemadmodum</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 15 different values: `Abl`, `Abs`, `All`, `Ben`, `Cau`, `Com`, `Dat`, `Erg`, `Ess`, `Gen`, `Ine`, `Ins`, `Lat`, `Loc`, `Par`.
 
 42348 tokens (35%) have a non-empty value of `Case`.
-17928 types (74%) occur at least once with a non-empty value of `Case`.
+17927 types (74%) occur at least once with a non-empty value of `Case`.
 7342 lemmas (67%) occur at least once with a non-empty value of `Case`.
 The feature is used with 11 part-of-speech tags: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (21509; 18% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (6417; 5% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (4703; 4% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (3976; 3% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (3530; 3% instances), <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> (1317; 1% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (332; 0% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (304; 0% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (226; 0% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="eu_bdt-pos-SYM.html">SYM</a></tt> (14; 0% instances).
 

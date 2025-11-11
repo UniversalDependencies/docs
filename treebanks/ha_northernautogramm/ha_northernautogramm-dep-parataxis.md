@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-55 nodes (1%) are attached to their parents as `parataxis`.
+77 nodes (2%) are attached to their parents as `parataxis`.
 
-35 instances of `parataxis` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.18181818181818.
+58 instances of `parataxis` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.5974025974026.
 
-The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (19; 35% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (12; 22% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (8; 15% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (5; 9% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (30; 39% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (11; 14% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (6; 8% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (6; 8% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (4; 5% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_northernautogramm-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,14 +26,14 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	Tudùː	Tudùː	PROPN	_	_	1	flat:name	_	AlignBegin=183409|AlignEnd=183586|Gloss=Tudu
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=183586|AlignEnd=183763|Gloss=PUNCT
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	13	dislocated	_	AlignBegin=183763|AlignEnd=183940|Gloss=3Masc.Nom
-5	kòː	kòː	PART	_	_	4	discourse	_	AlignBegin=183940|AlignEnd=184117|Gloss=as_for
+5	kòː	kùwa	PART	_	PartType=Top	4	discourse	_	AlignBegin=183940|AlignEnd=184117|Gloss=as_for
 6	<	<	PUNCT	_	_	4	punct	_	AlignBegin=184117|AlignEnd=184294|Gloss=PUNCT
 7	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	8	aux	_	AlignBegin=184294|AlignEnd=184471|Gloss=2Masc.Perf
 8	ji	jiyàː	VERB	_	_	13	parataxis	_	AlignBegin=184471|AlignEnd=184648|Gloss=hear
-9	|r	|r	PUNCT	_	_	11	punct	_	AlignBegin=184648|AlignEnd=184825|GE=[|Gloss=PUNCT
+9	|r	|r	PUNCT	_	_	11	punct	_	AlignBegin=184648|AlignEnd=184825|Gloss=PUNCT
 10	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	11	aux	_	AlignBegin=184825|AlignEnd=185002|Gloss=2Masc.Perf
 11	ji	jiyàː	VERB	_	_	8	conj	_	AlignBegin=185002|AlignEnd=185179|Gloss=hear
-12	anàː	_	AUX	nàː	Person=4	13	aux	_	AlignBegin=185179|AlignEnd=185356|Gloss=4.Imp
+12	anàː	_	AUX	nàː	Aspect=Prog|Person=4	13	aux	_	AlignBegin=185179|AlignEnd=185356|Gloss=4.Prog
 13	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	0	root	_	AlignBegin=185356|AlignEnd=185533|Gloss=say.Vnoun.Fem
 14	Tudùː	Tudùː	PROPN	_	_	13	nmod	_	AlignBegin=185533|AlignEnd=185710|Gloss=Tudu
 15	//	//	PUNCT	_	_	13	punct	_	AlignBegin=185710|AlignEnd=185887|Gloss=PUNCT
@@ -47,12 +47,12 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 parataxis	color:blue
-1	àkwai	àkwai	PART	_	_	5	parataxis	_	AlignBegin=356740|AlignEnd=356960|Gloss=there_is
+1	àkwai	àkwai	PART	_	PartType=Pred	5	parataxis	_	AlignBegin=356740|AlignEnd=356960|Gloss=there_is
 2	wata	wani	DET	_	Gender=Fem|PronType=Ind	3	det	_	AlignBegin=356960|AlignEnd=357180|Gloss=some.Fem
 3	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	1	nsubj	_	AlignBegin=357180|AlignEnd=357400|Gloss=arrive.Vnoun.Fem
 4	naː	_	AUX	yaː	Aspect=Perf|Number=Sing|Person=1	5	aux	_	AlignBegin=357400|AlignEnd=357620|Gloss=1Sing.Perf
 5	kaːwoː	kai	VERB	_	_	0	root	_	AlignBegin=357620|AlignEnd=357840|Gloss=carry
-6	turàːmeː	turmiː	NOUN	_	Number=Plur	5	obj	_	AlignBegin=357840|AlignEnd=358060|Gloss=cloth.Plur
+6	turàːmeː	turmiː	NOUN	_	Definite=Ind|Number=Plur	5	obj	_	AlignBegin=357840|AlignEnd=358060|Gloss=cloth.Plur
 7	//	//	PUNCT	_	_	5	punct	_	AlignBegin=358060|AlignEnd=358282|Gloss=PUNCT
 
 ~~~
@@ -64,14 +64,20 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 parataxis	color:blue
-1	aːràːyiː	aːràːyiː	NOUN	_	Gender=Masc	2	xcomp	_	AlignBegin=403221|AlignEnd=403359|Gloss=troup.Masc
-2	nàː	naː	PART	_	_	0	root	_	AlignBegin=403359|AlignEnd=403497|Gloss=Foc/Ident
-3	//=	//=	PUNCT	_	_	5	punct	_	AlignBegin=403497|AlignEnd=403635|Gloss=PUNCT
-4	yaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=3	5	aux	_	AlignBegin=403635|AlignEnd=403773|Gloss=3Masc.Perf
-5	hi	hi	VERB	_	_	2	parataxis	_	AlignBegin=403773|AlignEnd=403911|Gloss=exceed
-6	mùtun	mùtunèː	NOUN	_	Gender=Masc	5	obj	_	AlignBegin=403911|AlignEnd=404049|Gloss=human.Masc
-7	dàriː	dàriː	NUM	_	_	6	nmod	_	AlignBegin=404049|AlignEnd=404187|Gloss=hundred
-8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=404187|AlignEnd=404327|Gloss=PUNCT
+1	shinàː	_	AUX	nàː	Gender=Masc|Person=3	2	cop	_	AlignBegin=198780|AlignEnd=199021|Gloss=3Masc.Pred/Loc|wordform=shi
+2	nan	nan	ADV	_	Definite=Def|PronType=Dem	0	root	_	AlignBegin=199262|AlignEnd=199503|Gloss=Def
+3	//=	//=	PUNCT	_	_	5	punct	_	AlignBegin=199503|AlignEnd=199744|Gloss=PUNCT
+4	shinàː	_	AUX	nàː	Gender=Masc|Person=3	5	cop	_	AlignBegin=199744|AlignEnd=199985|Gloss=3Masc.Pred/Loc|wordform=shi
+5	nan	nan	ADV	_	Definite=Def|PronType=Dem	2	parataxis	_	AlignBegin=200226|AlignEnd=200467|Gloss=Def
+6	|c	|c	PUNCT	_	_	9	punct	_	AlignBegin=200467|AlignEnd=200708|Gloss=PUNCT
+7	sai	sai	CCONJ	_	_	9	cc	_	AlignBegin=200708|AlignEnd=200949|Gloss=until
+8	yag	_	AUX	yak	Aspect=PerfBkg|Gender=Masc|Person=3	9	aux	_	AlignBegin=200949|AlignEnd=201190|Background=Yes|Gloss=3Masc.PerfBkg
+9	ga	ganiː	VERB	_	_	5	conj	_	AlignBegin=201190|AlignEnd=201431|Gloss=see
+10	cikinsù	cikin	ADP	_	Case=Gen|Number=Plur|Person=3	12	dep	_	AlignBegin=201431|AlignEnd=201672|Gloss=inside.3Plur.Gen|wordform=cikin
+11	sunàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=3	12	aux	_	AlignBegin=201672|AlignEnd=201913|Gloss=3Plur.Prog
+12	aihùwaz	aih-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	ccomp	_	AlignBegin=201913|AlignEnd=202154|Gloss=give_birth.Vnoun.Fem.Cons
+13	zàːrùmmai	zaːrùmiː	NOUN	_	Definite=Ind|Number=Plur	12	nmod	_	AlignBegin=202154|AlignEnd=202395|Gloss=brave.Plur
+14	//	//	PUNCT	_	_	2	punct	_	AlignBegin=202395|AlignEnd=202637|Gloss=PUNCT
 
 ~~~
 

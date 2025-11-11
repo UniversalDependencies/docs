@@ -47,7 +47,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `Dat` (941; 31% of non-empty `Case`): <em>dem, der, den, einem, einer, ihrer, dieser, seiner, diesem, ihren</em>
 * `Gen` (437; 14% of non-empty `Case`): <em>der, des, eines, einer, seiner, dieser, ihrer, seines, ihres, anderer</em>
 * `Nom` (898; 29% of non-empty `Case`): <em>die, der, das, ein, eine, diese, seine, viele, ihr, dies</em>
-* `EMPTY` (34): <em>ein, the, a, El, Le, Los, That, al, all, anders</em>
+* `EMPTY` (23): <em>the, a, El, Le, Los, That, al, all, anders, keinerlei</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -146,7 +146,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 `ADP` tokens may have the following values of `Case`:
 
 * `Dat` (3; 100% of non-empty `Case`): <em>zu</em>
-* `EMPTY` (2040): <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
+* `EMPTY` (2104): <em>in, von, zu, an, mit, auf, für, nach, bei, aus</em>
 
 ## Relations with Agreement in `Case`
 

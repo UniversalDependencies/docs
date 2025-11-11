@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (290; 100% of non-empty `Abbr`): <em>jne, vms, nt, jms, ca, st, imo, jm, ntx, mh</em>
-* `EMPTY` (12383): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
+* `EMPTY` (12378): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (55) occur only with one value of `Abbr`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (21; 100% of non-empty `Abbr`): <em>nn, nn., prof., h., lp., orig.</em>
-* `EMPTY` (5236): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
+* `EMPTY` (5237): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
 
 ### `CCONJ`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (14; 100% of non-empty `Abbr`): <em>e., a, e, vs</em>
-* `EMPTY` (3376): <em>ja, aga, või, ning, kuid, ehk, vaid, ega, kui, ent</em>
+* `EMPTY` (3377): <em>ja, aga, või, ning, kuid, ehk, vaid, ega, kui, ent</em>
 
 ### `SYM`
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>smth, smth.</em>
-* `EMPTY` (6587): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
+* `EMPTY` (6584): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
 
 ### `VERB`
 

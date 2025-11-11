@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="fr_fqb-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="fr_fqb-dep-obl-arg.html">obl:arg</a></tt>.
 
-606 nodes (3%) are attached to their parents as `obl:mod`.
+611 nodes (3%) are attached to their parents as `obl:mod`.
 
-426 instances of `obl:mod` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.33993399339934.
+431 instances of `obl:mod` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.30441898527005.
 
-The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (340; 56% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (101; 17% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (47; 8% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (31; 5% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (30; 5% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (18; 3% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `obl:mod`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (344; 56% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (101; 17% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (47; 8% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (31; 5% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (30; 5% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (18; 3% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 4	adresser	adresser	VERB	_	VerbForm=Inf	0	root	_	_
 5	lord	lors_de	ADV	_	ExtPos=ADP	8	case	_	_
 6	de	_	ADP	_	_	5	fixed	_	_
-7	ma	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	8	det	_	_
+7	ma	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
 8	demande	demande	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
 9	?	?	PUNCT	_	_	4	punct	_	_
 
@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 obl:mod	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1	2	nsubj	_	_
+1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	partir	partir	VERB	_	VerbForm=Inf	2	xcomp	_	_
 4	en	en	ADP	_	_	5	case	_	_
@@ -50,9 +50,9 @@ The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 6	en	en	ADP	_	_	7	case	_	_
 7	France	France	PROPN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
 8	ou	ou	CCONJ	_	_	9	cc	_	_
-9	à	à_l'étranger	ADP	_	ExtPos=ADV	7	conj	_	_
-10	l'	_	DET	_	_	9	fixed	_	SpaceAfter=No
-11	étranger	_	NOUN	_	_	9	fixed	_	SpaceAfter=No
+9	à	à	ADP	_	_	11	case	_	_
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
+11	étranger	étranger	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 2	de	de	ADP	_	_	3	case	_	_
 3	condoms	condom	NOUN	_	Gender=Masc|Number=Plur	1	obl:arg	_	_
 4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	SpaceAfter=No
-5	-t-on	il	PRON	_	Number=Sing|Person=3	6	nsubj	_	_
+5	-t-on	il	PRON	_	Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_
 6	vendu	vendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	à	à	ADP	_	_	9	case	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_

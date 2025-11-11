@@ -9,36 +9,36 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-11421 tokens (3%) have a non-empty value of `NumForm`.
+11429 tokens (3%) have a non-empty value of `NumForm`.
 2115 types (3%) occur at least once with a non-empty value of `NumForm`.
-1781 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (8907; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2484; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (24; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (6; 0% instances).
+1780 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (8912; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2487; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (24; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (6; 0% instances).
 
 ### `NUM`
 
-8907 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
+8912 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8246; 93%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5516; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5516; 62%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8250; 93%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5516; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5516; 62%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (5548; 62% of non-empty `NumForm`): <em>1, 2, 10, 3, 4, 5, 15, 20, 6, 12</em>
 * `Roman` (3; 0% of non-empty `NumForm`): <em>I, IX, XII</em>
-* `Word` (3356; 38% of non-empty `NumForm`): <em>kaks, üks, kolm, kahe, ühe, miljonit, viis, miljoni, neli, kolme</em>
+* `Word` (3361; 38% of non-empty `NumForm`): <em>kaks, üks, kolm, kahe, ühe, miljonit, viis, miljoni, neli, kolme</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1436) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1435) occur only with one value of `NumForm`.
 
 ### `ADJ`
 
-2484 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumForm`.
+2487 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2484; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2484; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2484; 100%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2474; 100%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1531; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1531; 62%).
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2487; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2487; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2487; 100%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2477; 100%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1531; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1531; 62%).
 
 `ADJ` tokens may have the following values of `NumForm`:
 
 * `Digit` (1457; 59% of non-empty `NumForm`): <em>1., 2000., 2., 1997., 1999., 3., 1996., 1998., 1992., 1995.</em>
 * `Roman` (114; 5% of non-empty `NumForm`): <em>II, I, III, XI, VII, XX, VI, XII, IV, MDCXXXII</em>
-* `Word` (913; 37% of non-empty `NumForm`): <em>esimene, esimest, esimese, teine, teise, esimesel, esimesed, esimeses, teisel, kolmas</em>
+* `Word` (916; 37% of non-empty `NumForm`): <em>esimene, esimest, esimese, teine, teise, esimesel, esimesed, esimeses, teisel, kolmas</em>
 
 `NumForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (358) occur only with one value of `NumForm`.
 

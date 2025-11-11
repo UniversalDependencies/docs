@@ -44,9 +44,9 @@ The following 17 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 csubj:cop	color:blue
-1	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	4	obj	4:obj	_
+1	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	4	obj	3:nsubj|4:obj	_
 2	keegi	keegi	PRON	P	Case=Nom|Number=Sing|PronType=Ind	4	nsubj	4:nsubj	_
-3	autox	auto	NOUN	S	Case=Tra|Number=Sing|Typo=Yes	2	obl	2:obl	CorrectForm=autoks
+3	autox	auto	NOUN	S	Case=Tra|Number=Sing|Typo=Yes	4	xcomp	4:xcomp	CorrectForm=autoks
 4	loeb	lugema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj:cop	7:csubj	_
 5	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
 6	isiklik	isiklik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	7:amod	_

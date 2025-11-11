@@ -60,11 +60,11 @@ The 2nd highest number of forms (5) was observed with the lemma “mio”: <em>M
 
 The 3rd highest number of forms (5) was observed with the lemma “questo”: <em>Quest', questa, queste, questi, questo</em>.
 
-`DET` occurs with 5 features: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (1020; 100% instances), <tt><a href="it_valico-feat-Number.html">Number</a></tt> (1015; 99% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (1008; 99% instances), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt> (830; 81% instances), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt> (104; 10% instances)
+`DET` occurs with 5 features: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt> (1023; 100% instances), <tt><a href="it_valico-feat-Number.html">Number</a></tt> (1015; 99% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (1008; 99% instances), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt> (830; 81% instances), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt> (104; 10% instances)
 
 `DET` occurs with 14 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Exc`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`
 
-`DET` occurs with 28 feature combinations.
+`DET` occurs with 27 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (339 tokens).
 Examples: <em>il, l', lo, l</em>
 

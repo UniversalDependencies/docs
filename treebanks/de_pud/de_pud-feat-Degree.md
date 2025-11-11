@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-2326 tokens (11%) have a non-empty value of `Degree`.
-1363 types (21%) occur at least once with a non-empty value of `Degree`.
-1038 lemmas (19%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1386; 6% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (919; 4% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (21; 0% instances).
+2381 tokens (11%) have a non-empty value of `Degree`.
+1381 types (21%) occur at least once with a non-empty value of `Degree`.
+1054 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1386; 6% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (974; 5% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (21; 0% instances).
 
 ### `ADJ`
 
@@ -49,12 +49,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-919 <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> tokens (87% of all `ADV` tokens) have a non-empty value of `Degree`.
+974 <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> tokens (88% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (27; 3% of non-empty `Degree`): <em>mehr, später, besser, genauer, weniger, attraktiver, eher, früher, häufiger, lieber</em>
-* `Pos` (892; 97% of non-empty `Degree`): <em>auch, so, noch, nur, sehr, jedoch, immer, mehr, wieder, dann</em>
+* `Pos` (947; 97% of non-empty `Degree`): <em>auch, so, noch, nur, sehr, wieder, jedoch, immer, mehr, zurück</em>
 * `EMPTY` (132): <em>wie, davon, wo, dazu, damit, dafür, darauf, warum, darin, wobei</em>
 
 <table>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="de_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td><em>mehr</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 97% lemmas (311) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 97% lemmas (329) occur only with one value of `Degree`.
 
 ### `DET`
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 * `Cmp` (16; 76% of non-empty `Degree`): <em>mehr, mehrere, mehreren</em>
 * `Sup` (5; 24% of non-empty `Degree`): <em>meisten</em>
-* `EMPTY` (3085): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
+* `EMPTY` (3074): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
 
 ## Relations with Agreement in `Degree`
 

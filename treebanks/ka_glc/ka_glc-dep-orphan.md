@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `orphan`.
+21 nodes (0%) are attached to their parents as `orphan`.
 
-13 instances of `orphan` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.21052631578947.
+15 instances of `orphan` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.14285714285714.
 
-The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (7; 37% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 16% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 16% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (1; 5% instances).
+The following 9 pairs of parts of speech are connected with `orphan`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (7; 33% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	დან	დან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=kondensatoridan
 4	ჩვეულებრივ	ჩვეულებრივი	ADJ	Adj	Case=Ins|Number=Sing	5	amod	_	Translit=čʻveulebriv
 5	ტუმბოთი	ტუმბო	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	6	obl	_	Translit=tumbotʻi
-6	გაიწოვება	იწოვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Pass	0	root	_	SpaceAfter=No|Translit=gaicoveba
+6	გაიწოვება	იწოვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=gaicoveba
 7	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 8	ხოლო	ხოლო	CCONJ	Conj	_	10	cc	_	Translit=xolo
 9	არაკონდენსირებადი	არაკონდენსირებადი	ADJ	Adj	Case=Nom|Number=Sing	10	amod	_	Translit=arakondensirebadi
@@ -50,7 +50,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	ვიბრაციის	ვიბრაცია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	4	nmod	_	Translit=vibracʻiis
 4	ქონა-არქონის	ქონა-არქონა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=kʻona-arkʻonis
 5	მიხედვით	მიხედვით	ADV	Adv	AdvType=Man	6	advmod	_	Translit=mixedvitʻ
-6	განარჩევენ	არჩევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=ganarčʻeven
+6	განარჩევენ	არჩევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=ganarčʻeven
 7	მჟღერ	მჟღერი	ADJ	Adj	Case=Dat|Number=Sing	10	amod	_	Translit=mžġer
 8	და	და	CCONJ	Conj	_	9	cc	_	Translit=da
 9	ყრუ	ყრუ	ADJ	Adj	Case=Dat|Degree=Pos|Number=Sing	7	conj	_	Translit=qru
@@ -96,14 +96,14 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 13 orphan	color:blue
 1	პროტოპლაზმი	პროტოპლაზმი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	2	nsubj	_	Translit=protoplazmi
-2	დაფარული	დაფარული	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=dapʻaruli
+2	დაფარული	დაფარული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|VerbForm=Part	0	root	_	Translit=dapʻaruli
 3	ა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Pres	2	cop	_	Translit=a
 4	ციტოპლაზმური	ციტოპლაზმური	ADJ	Adj	Case=Ins|Number=Sing	5	amod	_	Translit=cʻitoplazmuri
 5	მემბრანით	მემბრანა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	2	obl	_	SpaceAfter=No|Translit=membranitʻ
 6	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 7	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	9	nsubj	_	Translit=romelsacʻ
 8	კავშირი	კავშირი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	obj	_	Translit=kavširi
-9	აქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres	5	acl	_	Translit=akʻvs
+9	აქვს	აქვს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	5	acl	_	Translit=akʻvs
 10	ნივთიერებების	ნივთიერება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	nmod	_	Translit=nivtʻierebebis
 11	შერჩევით	შერჩევითი	ADJ	Adj	Case=Gen|Number=Sing	12	amod	_	Translit=šerčʻevitʻ
 12	გამტარიანობის	გამტარიანობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	13	nmod	_	Translit=gamtarianobis

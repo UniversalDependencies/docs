@@ -1,20 +1,20 @@
 ---
 layout: base
-title:  'Statistics of compound:lvc in UD_Kurmanji-MG'
+title:  'Statistics of compound:lvc in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `compound:lvc`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `compound:lvc`
 
-This relation is a language-specific subtype of <tt><a href="kmr_mg-dep-compound.html">compound</a></tt>.
-There are also 1 other language-specific subtypes of `compound`: <tt><a href="kmr_mg-dep-compound-redup.html">compound:redup</a></tt>.
+This relation is a language-specific subtype of <tt><a href="kmr_kurmanji-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="kmr_kurmanji-dep-compound-redup.html">compound:redup</a></tt>.
 
 120 nodes (1%) are attached to their parents as `compound:lvc`.
 
 113 instances of `compound:lvc` (94%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.50833333333333.
 
-The following 7 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (70; 58% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (16; 13% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (12; 10% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (9; 8% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (2; 2% instances).
+The following 7 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (70; 58% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (16; 13% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (12; 10% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt> (9; 8% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (2; 2% instances).
 
 
 ~~~ conllu

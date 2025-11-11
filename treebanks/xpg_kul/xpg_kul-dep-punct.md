@@ -49,7 +49,7 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 12 punct	color:blue
-1	ιο[ς	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM932141|2|1
+1	ιο[ς	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM932141|2|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM932141|2|2
 3	σεμ]ουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM932141|2|3
 4	κ[νουμα]νει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM932141|2|4

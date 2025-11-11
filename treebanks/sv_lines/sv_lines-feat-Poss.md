@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (1495; 100% of non-empty `Poss`): <em>hans, sin, min, sina, sitt, hennes, er, deras, mina, mitt</em>
-* `EMPTY` (11044): <em>han, det, som, jag, sig, de, du, vi, hon, mig</em>
+* `EMPTY` (11040): <em>han, det, som, jag, sig, de, du, vi, hon, mig</em>
 
 `Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (16) occur only with one value of `Poss`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Poss` co-occurred:
 `NOUN` tokens may have the following values of `Poss`:
 
 * `Yes` (5; 100% of non-empty `Poss`): <em>min</em>
-* `EMPTY` (17834): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
+* `EMPTY` (17835): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
 
 ### `VERB`
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `VERB` and `Poss` co-occurred:
 `VERB` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>sitt</em>
-* `EMPTY` (12413): <em>sa, hade, kom, såg, gick, har, ta, göra, se, tog</em>
+* `EMPTY` (12414): <em>sa, hade, kom, såg, gick, har, ta, göra, se, tog</em>
 

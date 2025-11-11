@@ -8,66 +8,63 @@ udver: '2'
 
 This relation is universal.
 
-556 nodes (5%) are attached to their parents as `obl`.
+554 nodes (5%) are attached to their parents as `obl`.
 
-317 instances of `obl` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.60611510791367.
+316 instances of `obl` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.61552346570397.
 
-The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (419; 75% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (54; 10% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (43; 8% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (18; 3% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (10; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt> (417; 75% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PROPN.html">PROPN</a></tt> (54; 10% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-PRON.html">PRON</a></tt> (43; 8% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-NUM.html">NUM</a></tt> (18; 3% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (10; 2% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 obl	color:blue
-1	Pod	pod	ADP	_	_	2	case	_	_
-2	biologiju	biologija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
-3	móžemy	móc	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-4	dać	dać	VERB	_	VerbForm=Inf	3	xcomp	_	_
-5	dalše	dalši	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	_
-6	wědomosće	wědomosć	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 obl	color:blue
+1	Wotpowědny	wotpowědny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	podawk	podawk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	wospjetowaše	wospjetować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
+5	kóžde	kóždy	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	_
+6	wosme	wosmy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	7	amod	_	_
+7	lěto	lěto	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 obl	color:blue
+1	Stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+2	Aššur	Aššur	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	ležeše	ležeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	při	při	ADP	_	_	6	case	_	_
+5	hornim	horni	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	Tigrisu	Tigris	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 obl	color:blue
-1	W	w	ADP	_	_	2	case	_	_
-2	Etiopiskej	Etiopiska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
-3	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-4	rěči	rěčeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	84	84	NUM	_	NumType=Card	6	nummod:gov	_	_
-6	rěčow	rěč	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	nsubj	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 obl	color:blue
-1	Pomhaj	pomhać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	Wikipediju	Wikipedija	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	8	punct	_	_
-4	z	z	ADP	_	_	5	case	_	_
-5	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	_
-6	ty	ty	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
-7	jón	wón	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
-8	rozšěriš	rozšěrić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	_	_
-9	a	a	CCONJ	_	_	11	cc	_	_
-10	nětko	nětko	ADV	_	PronType=Dem	11	advmod	_	_
-11	wudospołniš	wudospołnić	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 obl	color:blue
+1	Organizacija	organizacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	trjebaše	trjebać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	za	za	ADP	_	_	4	case	_	_
+4	to	to	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obl	_	_
+5	wulki	wulki	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+6	zarjadniski	zarjadniski	ADJ	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	amod	_	_
+7	aparat	aparat	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

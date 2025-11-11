@@ -17,20 +17,22 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 7 compound	color:blue
-1	Tuchwilu	tuchwilu	ADV	_	PronType=Dem	2	advmod	_	_
-2	wobsahuje	wobsahować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	serbska	serbski	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
-4	wikipedija	wikipedija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-5	6	6	NUM	_	NumType=Card	8	nummod:gov	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
-7	741	741	NUM	_	NumType=Card	5	compound	_	_
-8	nastawkow	nastawk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 compound	color:blue
+1	Na	na	ADP	_	_	2	case	_	_
+2	swěće	swět	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+3	je	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	wokoło	wokoło	ADP	_	_	9	case	_	_
+5	24	24	NUM	_	NumType=Card	8	compound	_	_
+6	-	-	PUNCT	_	_	7	punct	_	_
+7	30	30	NUM	_	NumType=Card	5	conj	_	_
+8	tysac	tysac	NUM	_	NumType=Card	9	nummod:gov	_	_
+9	družinow	družina	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	nsubj	_	_
+10	rybow	ryba	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

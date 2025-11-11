@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14806 nodes (4%) are attached to their parents as `case`.
+14834 nodes (4%) are attached to their parents as `case`.
 
-14531 instances of `case` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8570849655545.
+14559 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85688283672644.
 
-The following 19 pairs of parts of speech are connected with `case`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (11462; 77% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1158; 8% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (773; 5% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (464; 3% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (225; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (195; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (144; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (122; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (81; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (60; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (36; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `case`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (11482; 77% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1160; 8% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (774; 5% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (465; 3% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (224; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (195; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (147; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (123; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (81; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (60; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (36; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,22 +50,18 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 case	color:blue
-1	Abi	abi	DET	pg0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	2	nsubj	2:nsubj	LvtbNodeId=a-d138-p408s1w1
-2	aiziet	aiziet	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d138-p408s1w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	5	punct	5:punct	LvtbNodeId=a-d138-p408s1w3
-4	Alfs	Alfs	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj|10:nsubj	LvtbNodeId=a-d138-p408s1w4
-5	pagriežas	pagriezties	VERB	vmyipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	2:conj	LvtbNodeId=a-d138-p408s1w5
-6	pret	pret	ADP	spsa	_	7	case	7:case	LvtbNodeId=a-d138-p408s1w6
-7	Augustu	Augusts	PROPN	npmsa1	Case=Acc|Gender=Masc|Number=Sing	5	iobj	5:iobj	LvtbNodeId=a-d138-p408s1w7
-8	un	un	CCONJ	cc	_	10	cc	10:cc	LvtbNodeId=a-d138-p408s1w8
-9	brīdi	brīdis	NOUN	ncmsa2	Case=Acc|Gender=Masc|Number=Sing	10	obl	10:obl:acc	LvtbNodeId=a-d138-p408s1w9
-10	klusē	klusēt	VERB	vmnipi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	5:conj	LvtbNodeId=a-d138-p408s1w10|SpaceAfter=No
-11	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d138-p408s1w11
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 case	color:blue
+1	Putni	putns	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	2:nsubj	LvtbNodeId=a-d1293-p1s2w1
+2	brīnās	brīnīties	VERB	vmyipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d1293-p1s2w2
+3	par	par	ADP	spsa	_	4	case	4:case	LvtbNodeId=a-d1293-p1s2w3
+4	Liepāju	Liepāja	PROPN	npfsa4	Case=Acc|Gender=Fem|Number=Sing	2	iobj	2:iobj	LvtbNodeId=a-d1293-p1s2w4
+5	(	(	PUNCT	zb	_	6	punct	6:punct	LvtbNodeId=a-d1293-p1s2w5|SpaceAfter=No
+6	2024	2024	NUM	xn	NumType=Card	2	parataxis	2:parataxis	LvtbNodeId=a-d1293-p1s2w6|SpaceAfter=No
+7	)	)	PUNCT	zb	_	6	punct	6:punct	LvtbNodeId=a-d1293-p1s2w7
 
 ~~~
 

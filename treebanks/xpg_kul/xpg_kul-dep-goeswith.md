@@ -22,14 +22,14 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 goeswith	color:blue
-1	[ι]ο̣ς	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM918556|2|1
+1	[ι]ο̣ς	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM918556|2|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM918556|2|2
 3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM918556|2|3
 4	κνου[μ]ανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM918556|2|4
 5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM918556|2|5
 6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM918556|2|6
 7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM918556|2|7
-8	α	ατεαμα	NOUN	_	Case=Dat|Number=Sing|Typo=Yes	4	conj	_	Ref=TM918556|2|8
+8	α	ατεαμα	NOUN	_	Case=Dat|Number=Plur|Typo=Yes	4	conj	_	Ref=TM918556|2|8
 9	[τεαμας?]	_	X	_	_	8	goeswith	_	Ref=TM918556|2|9
 
 ~~~
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 7	εσ?αν	_	X	_	_	6	goeswith	_	Ref=TM932138|1|7
 8	μανκαν	μανκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Ref=TM932138|1|8
 9	ιαν	ios	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	10	obj	_	Ref=TM932138|1|9
-10	εσταες	estaes	VERB	_	_	8	acl	_	Ref=TM932138|1|10
+10	εσταες	estaes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	Ref=TM932138|1|10
 11	βρατερε	braterais	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	Ref=TM932138|1|11
 12	μαιμαρηαν	μαιμαρηαν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	dislocated	_	SpaceAfter=No|Ref=TM932138|1|12
 13	,	,	PUNCT	_	_	16	punct	_	Ref=TM932138|1|13

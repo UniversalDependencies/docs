@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-134 nodes (8%) are attached to their parents as `nsubj`.
+135 nodes (8%) are attached to their parents as `nsubj`.
 
-128 instances of `nsubj` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.35074626865672.
+128 instances of `nsubj` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.32592592592593.
 
-The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (104; 78% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (9; 7% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (7; 5% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (104; 77% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (10; 7% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (7; 5% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 9 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj	color:blue
-1	ις	ios	PRON	_	Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM928661|2|1
+1	ις	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM928661|2|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM928661|2|2
 3	σεμου	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM928661|2|3
 4	κνο[υμανει]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM928661|2|4

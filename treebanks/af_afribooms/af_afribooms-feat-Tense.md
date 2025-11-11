@@ -48,20 +48,21 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin,Inf</tt>|<tt><a href="af_afribooms-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td><em>is, wees</em></td><td></td></tr>
   <tr><td><tt><tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin,Inf</tt>|<tt><a href="af_afribooms-feat-VerbType.html">VerbType</a></tt><tt>=Pas</tt></tt></td><td><em>wees</em></td><td></td></tr>
   <tr><td><tt><tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="af_afribooms-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td></td><td><em>was, gewees</em></td></tr>
-  <tr><td><tt><tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="af_afribooms-feat-VerbType.html">VerbType</a></tt><tt>=Pas</tt></tt></td><td></td><td><em>is, wees</em></td></tr>
+  <tr><td><tt><tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="af_afribooms-feat-VerbType.html">VerbType</a></tt><tt>=Pas</tt></tt></td><td></td><td><em>is</em></td></tr>
+  <tr><td><tt><tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="af_afribooms-feat-VerbType.html">VerbType</a></tt><tt>=Pas</tt></tt></td><td></td><td><em>wees</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="af_afribooms-dep-aux.html">aux</a></tt>]--> AUX</tt> (996; 67%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> VERB</tt> (414; 81%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-aux.html">aux</a></tt>]--> AUX</tt> (997; 67%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> VERB</tt> (415; 81%),
 <tt>VERB --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> VERB</tt> (301; 68%),
 <tt>VERB --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> VERB</tt> (249; 76%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (126; 70%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (117; 98%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (128; 70%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (118; 97%),
 <tt>VERB --[<tt><a href="af_afribooms-dep-cop.html">cop</a></tt>]--> AUX</tt> (37; 84%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-obj.html">obj</a></tt>]--> VERB</tt> (19; 86%),
 <tt>AUX --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> VERB</tt> (15; 79%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-obj.html">obj</a></tt>]--> VERB</tt> (13; 100%),
 <tt>VERB --[<tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (8; 100%).
 

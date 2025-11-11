@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `DET`
 
 There are 16 `DET` lemmas (0%), 48 `DET` types (0%) and 10400 `DET` tokens (15%).
-Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 11 in number of types and 3 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 3 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>le, un, son, ce, plusieurs, quelque, aucun, tout, certain, chaque</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="fr_sequoia-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.000000 (the average of all parts of speech is 1.407991).
+The form / lemma ratio of `DET` is 3.000000 (the average of all parts of speech is 1.408433).
 
 The 1st highest number of forms (12) was observed with the lemma “son”: <em>leur, leurs, ma, mes, mon, nos, notre, sa, ses, son, vos, votre</em>.
 
@@ -59,20 +59,20 @@ The 2nd highest number of forms (5) was observed with the lemma “un”: <em>d'
 
 The 3rd highest number of forms (4) was observed with the lemma “ce”: <em>ce, ces, cet, cette</em>.
 
-`DET` occurs with 7 features: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt> (10399; 100% instances), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt> (9760; 94% instances), <tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt> (9264; 89% instances), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt> (5867; 56% instances), <tt><a href="fr_sequoia-feat-Poss.html">Poss</a></tt> (531; 5% instances), <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`DET` occurs with 9 features: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt> (10400; 100% instances), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt> (10400; 100% instances), <tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt> (9274; 89% instances), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt> (5946; 57% instances), <tt><a href="fr_sequoia-feat-Number-psor.html">Number[psor]</a></tt> (531; 5% instances), <tt><a href="fr_sequoia-feat-Person-psor.html">Person[psor]</a></tt> (531; 5% instances), <tt><a href="fr_sequoia-feat-Poss.html">Poss</a></tt> (531; 5% instances), <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`DET` occurs with 14 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=ADV`, `ExtPos=PRON`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Int`, `PronType=Neg`, `Typo=Yes`
+`DET` occurs with 22 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=ADV`, `ExtPos=PRON`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Exc`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `Typo=Yes`
 
-`DET` occurs with 34 feature combinations.
-The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (2285 tokens).
-Examples: <em>le, l'</em>
+`DET` occurs with 44 feature combinations.
+The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (2286 tokens).
+Examples: <em>le</em>
 
 
 ## Relations
 
 `DET` nodes are attached to their parents using 7 different relations: <tt><a href="fr_sequoia-dep-det.html">det</a></tt> (10304; 99% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (84; 1% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (9635; 93% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (474; 5% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (97; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (78; 1% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (64; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (9634; 93% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (474; 5% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (97; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (78; 1% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (64; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (31; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
 10384 (100%) `DET` nodes are leaves.
 

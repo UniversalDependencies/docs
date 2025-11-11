@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-36 tokens (0%) have a non-empty value of `ExtPos`.
+40 tokens (0%) have a non-empty value of `ExtPos`.
 1 types (0) occur at least once with a non-empty value of `ExtPos`.
 1 lemmas (0) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 7 part-of-speech tags: <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `ADV`
 
@@ -45,6 +45,14 @@ The most frequent other feature values with which `VERB` and `ExtPos` co-occurre
 
 * `ADP` (3; 50% of non-empty `ExtPos`): <em>_</em>
 * `CCONJ` (3; 50% of non-empty `ExtPos`): <em>_</em>
+
+### `SYM`
+
+4 <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> tokens (8% of all `SYM` tokens) have a non-empty value of `ExtPos`.
+
+`SYM` tokens may have the following values of `ExtPos`:
+
+* `ADP` (4; 100% of non-empty `ExtPos`): <em>_</em>
 
 ### `SCONJ`
 

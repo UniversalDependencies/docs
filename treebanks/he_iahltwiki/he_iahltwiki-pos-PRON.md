@@ -70,13 +70,13 @@ The 2nd highest number of forms (7) was observed with the lemma “עצמו”: 
 
 The 3rd highest number of forms (6) was observed with the lemma “זה”: אלה, אלו, זאת, זה, זהו, זו.
 
-`PRON` occurs with 10 features: <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (5544; 98% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (5310; 94% instances), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt> (5302; 94% instances), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (5265; 93% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (2316; 41% instances), <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt> (2188; 39% instances), <tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt> (2132; 38% instances), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt> (264; 5% instances), <tt><a href="he_iahltwiki-feat-Reflex.html">Reflex</a></tt> (71; 1% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (9; 0% instances)
+`PRON` occurs with 11 features: <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (5544; 98% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (5310; 94% instances), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt> (5302; 94% instances), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (5265; 93% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (2316; 41% instances), <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt> (2188; 39% instances), <tt><a href="he_iahltwiki-feat-Poss.html">Poss</a></tt> (2132; 38% instances), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt> (264; 5% instances), <tt><a href="he_iahltwiki-feat-Reflex.html">Reflex</a></tt> (71; 1% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (2; 0% instances), <tt><a href="he_iahltwiki-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`PRON` occurs with 20 feature-value pairs: `Case=Acc`, `Case=Gen`, `Definite=Def`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Pos`, `Poss=Yes`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Reflex=Yes`, `Typo=Yes`
+`PRON` occurs with 21 feature-value pairs: `Case=Acc`, `Case=Gen`, `Definite=Def`, `ExtPos=SCONJ`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Pos`, `Poss=Yes`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Reflex=Yes`, `Typo=Yes`
 
-`PRON` occurs with 97 feature combinations.
-The most frequent feature combination is `Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs` (1095 tokens).
-Examples: ו, ם, וֹ, י, ן
+`PRON` occurs with 92 feature combinations.
+The most frequent feature combination is `Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs` (1096 tokens).
+Examples: ו, ם, הם, וֹ, י, ן
 
 
 ## Relations

@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>geen</em> (<tt><a href="af_afribooms-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.120600).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.120578).
 
 The 1st highest number of forms (1) was observed with the lemma “Tweehonderd”: <em>Tweehonderd</em>.
 
@@ -46,7 +46,7 @@ The 3rd highest number of forms (1) was observed with the lemma “agtien”: <e
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 9 different relations: <tt><a href="af_afribooms-dep-nummod.html">nummod</a></tt> (153; 70% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (25; 11% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (13; 6% instances), <tt><a href="af_afribooms-dep-root.html">root</a></tt> (10; 5% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (2; 1% instances)
+`NUM` nodes are attached to their parents using 9 different relations: <tt><a href="af_afribooms-dep-nummod.html">nummod</a></tt> (153; 70% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (25; 11% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (15; 7% instances), <tt><a href="af_afribooms-dep-root.html">root</a></tt> (10; 5% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (2; 1% instances)
 
 Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (167; 77% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (12; 6% instances),  (10; 5% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (10; 5% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (9; 4% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

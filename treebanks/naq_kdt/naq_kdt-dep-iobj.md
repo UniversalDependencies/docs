@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `iobj`: <tt><a href="naq_kdt-dep-iobj-appl.html">iobj:appl</a></tt>.
 
-64 nodes (0%) are attached to their parents as `iobj`.
+68 nodes (0%) are attached to their parents as `iobj`.
 
-43 instances of `iobj` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.671875.
+45 instances of `iobj` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.72058823529412.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (48; 75% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (12; 19% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt>-<tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (51; 75% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (12; 18% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt>-<tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt>-<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 iobj	color:blue
-1	i	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	expl:impers	16:expl:impers	_
+1	i	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl:impers	16:expl:impers	_
 2	ge	ge	AUX	DECL	Mood=Ind	16	aux	16:aux	_
 3	nēsisa	nēsisa	ADV	_	_	16	advmod	16:advmod	_
 4	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	5	det	5:det	_
@@ -64,21 +64,26 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 5 iobj	color:blue
-1	Kaikhoen	kaikhoe	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	8	nsubj	8:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-3	ǃhūb	ǃhū	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod:poss	5:nmod:poss	_
-4	di	di	ADP	5:POSS	_	3	case	3:case	_
-5	aoseni	aoseni	ADV	_	_	9	iobj	9:iobj	_
-6	ti	ti	PART	QUOT	_	5	case	5:case	_
-7	ra	ra	AUX	IPFV	Aspect=Imp	8	aux	8:aux	_
-8	mî	mî	VERB	_	Voice=Act	0	root	0:root	_
-9	în	_	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs|Typo=Yes	8	obj	8:obj	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 iobj	color:blue
+1	O	o	ADV	_	_	4	advmod	4:advmod	_
+2	satsa	sa	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+3	go	go	AUX	_	Tense=RecPast	4	aux	4:aux	_
+4	hā	hā	VERB	_	Voice=Act	0	root	0:root	_
+5	î	î	SCONJ	_	_	8	mark	8:mark	_
+6	ts	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+7	Jima	Jim	PROPN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	iobj	8:iobj	_
+8	ǂâihui	ǂâihui	VERB	_	Voice=Act	4	advcl	4:advcl	_
+9	ǁhōba	ǁhō	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obj	12:obj	_
+10	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+11	nî	nî	AUX	FUT	Tense=Fut	12	aux	12:aux	_
+12	ū	ū	VERB	_	Voice=Act	8	ccomp	8:ccomp	_
+13	sa	s	SCONJ	NMLZ	Case=Acc	12	mark	12:mark	_
+14	?	?	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 ~~~
 

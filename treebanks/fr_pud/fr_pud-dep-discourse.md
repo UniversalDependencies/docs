@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 10 1 discourse	color:blue
 1	Sinon	sinon	ADV	RB	_	10	discourse	_	SpaceAfter=No|wordform=sinon
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	ce	ce	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	ce	ce	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	tarif	tarif	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 5	normal	normal	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 6	ou	ou	CCONJ	CC	_	7	cc	_	_

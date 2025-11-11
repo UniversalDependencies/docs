@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 12 27 csubj:pass	color:blue
 1	Com	com	SCONJ	cs	_	5	mark	5:mark	_
 2	en	en	ADP	sps00	_	5	case	5:case	_
-3	totes	tot	DET	di0fp0	Gender=Fem|Number=Plur|PronType=Ind	4	det	4:det	Entity=(NOCOREF:Gen--3-gstype:gen
+3	totes	tot	DET	di0fp0	Gender=Fem|Number=Plur|PronType=Ind	5	det	5:det	Entity=(NOCOREF:Gen--3-gstype:gen
 4	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	5:det	_
 5	clausures	clausura	NOUN	ncfp000	Gender=Fem|Number=Plur	12	obl	12:obl	_
 6	de	de	ADP	sps00	_	8	case	8:case	_

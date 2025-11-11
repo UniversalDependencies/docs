@@ -24,20 +24,20 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 12 16 orphan	color:blue
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|10.1:nsubj|12:nsubj	_
 2	actually	actually	ADV	RB	_	3	advmod	3:advmod	_
-3	loss	lose	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	0:root	CorrectForm=lost
+3	loss	lose	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	0:root	CorrectForm=lost|Supersense=v.change
 4	4	4	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	_
-5	pounds	pound	NOUN	NNS	Number=Plur	3	obj	3:obj	_
-6	after	after	ADP	IN	_	9	case	9:case	_
-7	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+5	pounds	pound	NOUN	NNS	Number=Plur	3	obj	3:obj	Supersense=n.QUANTITY
+6	after	after	ADP	IN	_	9	case	9:case	PRel[config]=default|PRel[gov]=3:lose|PRel[obj]=9:treatment|Supersense=p.Time
+7	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	PRel[config]=possessive|PRel[gov]=9:treatment|Supersense[coding]=p.Gestalt|Supersense[scene]=p.Theme
 8	1st	1st	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	9	amod	9:amod	_
-9	treatment	treatment	NOUN	NN	Number=Sing	3	obl	3:obl:after	_
+9	treatment	treatment	NOUN	NN	Number=Sing	3	obl	3:obl:after	Supersense=n.EVENT
 10	and	and	CCONJ	CC	_	12	cc	10.1:cc|12:cc	_
 11	2	2	NUM	CD	NumForm=Digit|NumType=Card	12	nummod	12:nummod	_
-12	pounds	pound	NOUN	NNS	Number=Plur	3	conj	3:conj:and|10.1:obj	_
-13	after	after	ADP	IN	_	16	case	16:case	_
-14	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+12	pounds	pound	NOUN	NNS	Number=Plur	3	conj	3:conj:and|10.1:obj	Supersense=n.QUANTITY
+13	after	after	ADP	IN	_	16	case	16:case	PRel[config]=default|PRel[gov]=12:pound|PRel[obj]=16:treatment|Supersense=p.Time
+14	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	PRel[config]=possessive|PRel[gov]=16:treatment|Supersense[coding]=p.Gestalt|Supersense[scene]=p.Theme
 15	2nd	2nd	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	16	amod	16:amod	_
-16	treatment	treatment	NOUN	NN	Number=Sing	12	orphan	10.1:obl:after	SpaceAfter=No
+16	treatment	treatment	NOUN	NN	Number=Sing	12	orphan	10.1:obl:after	SpaceAfter=No|Supersense=n.EVENT
 17	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
@@ -50,21 +50,21 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 10	fgColor:white
 # visual-style 10 16 orphan	color:blue
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|7.1:nsubj	_
-2	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+2	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Supersense=v.cognition
+3	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	PRel[config]=possessive|PRel[gov]=5:selection|Supersense[coding]=p.Gestalt|Supersense[scene]=p.Agent
 4	initial	initial	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-5	selection	selection	NOUN	NN	Number=Sing	2	obj	2:obj|6:nsubj:xsubj	_
+5	selection	selection	NOUN	NN	Number=Sing	2	obj	2:obj|6:nsubj:xsubj	Supersense=n.COGNITION
 6	satisfactory	satisfactory	ADJ	JJ	Degree=Pos	2	xcomp	2:xcomp	_
 7	but	but	CCONJ	CC	_	10	cc	7.1:cc	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-9	wine	wine	NOUN	NN	Number=Sing	10	compound	10:compound	_
+9	wine	wine	NOUN	NN	Number=Sing	10	compound	10:compound	MWECat=N|MWELemma=wine flight|MWELen=2|Supersense=n.FOOD
 10	flight	flight	NOUN	NN	Number=Sing	2	conj	7.1:obj|12:obj|16:nsubj:xsubj	Promoted=Yes
 11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
-12	chose	choose	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	acl:relcl	10:acl:relcl	Cxn=rc-red-obj
+12	chose	choose	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	acl:relcl	10:acl:relcl	Cxn=rc-red-obj|Supersense=v.cognition
 13	to	to	PART	TO	_	16	mark	16:mark	_
-14	be	be	AUX	VB	VerbForm=Inf	16	aux:pass	16:aux:pass	_
+14	be	be	AUX	VB	VerbForm=Inf	16	aux:pass	16:aux:pass	Supersense=v.stative
 15	poorly	poorly	ADV	RB	_	16	advmod	16:advmod	_
-16	composed	compose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	orphan	7.1:xcomp	SpaceAfter=No
+16	composed	compose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	orphan	7.1:xcomp	SpaceAfter=No|Supersense=v.creation
 17	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~

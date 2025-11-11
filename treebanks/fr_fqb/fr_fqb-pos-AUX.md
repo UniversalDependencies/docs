@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 8.000000 (the average of all parts of speech is 1.164665).
+The form / lemma ratio of `AUX` is 8.000000 (the average of all parts of speech is 1.165243).
 
 The 1st highest number of forms (14) was observed with the lemma “être”: <em>est, furent, fut, sera, soient, soit, sont, suis, étaient, était, étant, été, êtes, être</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>est, a</em>
 
 `AUX` nodes are attached to their parents using 4 different relations: <tt><a href="fr_fqb-dep-cop.html">cop</a></tt> (947; 56% instances), <tt><a href="fr_fqb-dep-aux-tense.html">aux:tense</a></tt> (503; 30% instances), <tt><a href="fr_fqb-dep-aux-pass.html">aux:pass</a></tt> (247; 15% instances), <tt><a href="fr_fqb-dep-aux-caus.html">aux:caus</a></tt> (3; 0% instances)
 
-Parents of `AUX` nodes belong to 5 different parts of speech: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (747; 44% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (548; 32% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (206; 12% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (179; 11% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (20; 1% instances)
+Parents of `AUX` nodes belong to 5 different parts of speech: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (747; 44% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (548; 32% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (207; 12% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (179; 11% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (19; 1% instances)
 
 1699 (100%) `AUX` nodes are leaves.
 

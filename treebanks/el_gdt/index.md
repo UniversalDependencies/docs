@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Prokopis Prokopidis.
 
 Repository: [UD_Greek-GDT](https://github.com/UniversalDependencies/UD_Greek-GDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -354,7 +354,7 @@ National Technical University of Athens.
 <ul>
   <li>Def
     <ul>
-      <li>DET: την, της, το, η, του, των, ο, οι, τα, τη</li>
+      <li>DET: την, το, της, η, του, των, τη, τις, τα, ο</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +504,7 @@ National Technical University of Athens.
 <ul>
   <li>Art
     <ul>
-      <li>DET: την, της, το, η, του, των, ο, οι, τα, τη</li>
+      <li>DET: την, το, της, η, του, των, τη, τις, τα, ο</li>
     </ul>
   </li>
 </ul>
@@ -748,7 +748,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (1718)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
-      <li>VERB-Fin--PRON-Acc (330)</li>
+      <li>VERB-Fin--PRON-Acc (329)</li>
       <li>VERB-Fin--PRON-Gen (13)</li>
       <li>VERB-Inf--NOUN-Acc (62)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>

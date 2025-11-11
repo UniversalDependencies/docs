@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (54; 9% of non-empty `Degree`): <em>_</em>
 * `Pos` (502; 88% of non-empty `Degree`): <em>_</em>
 * `Sup` (14; 2% of non-empty `Degree`): <em>_</em>
-* `EMPTY` (536): <em>_</em>
+* `EMPTY` (535): <em>_</em>
 
 ## Relations with Agreement in `Degree`
 

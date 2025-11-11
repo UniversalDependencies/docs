@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-2519 tokens (8%) have a non-empty value of `Foreign`.
-550 types (27%) occur at least once with a non-empty value of `Foreign`.
-544 lemmas (30%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 13 part-of-speech tags: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (1135; 3% instances), <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (442; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (315; 1% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> (184; 1% instances), <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (149; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (122; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (108; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (51; 0% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="cop_bohairic-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+2527 tokens (8%) have a non-empty value of `Foreign`.
+557 types (27%) occur at least once with a non-empty value of `Foreign`.
+551 lemmas (31%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 13 part-of-speech tags: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (1141; 3% instances), <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (442; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (314; 1% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> (185; 1% instances), <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (151; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (108; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (51; 0% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="cop_bohairic-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1135 <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+1141 <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (1135; 100% of non-empty `Foreign`): ⲁⲡⲁ, ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲙⲁⲑⲏⲧⲏⲥ, ⲕⲟⲥⲙⲟⲥ, ⲥⲱⲙⲁ, ⲯⲩⲭⲏ, ⲇⲁⲓⲙⲱⲛ, ⲁⲣⲉⲧⲏ, ⲡⲣⲟⲫⲏⲧⲏⲥ
-* `EMPTY` (3899): ⲛⲟⲩϯ, ⲣⲏϯ, ⲣⲱⲙⲓ, ⲙⲏϣ, ⲧⲏⲣ, ⲓⲱⲧ, ϩⲏⲧ, ⲙⲁ, ⲥⲁϫⲓ, ϭⲟⲉⲓⲥ
+* `Yes` (1141; 100% of non-empty `Foreign`): ⲁⲡⲁ, ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲙⲁⲑⲏⲧⲏⲥ, ⲕⲟⲥⲙⲟⲥ, ⲥⲱⲙⲁ, ⲯⲩⲭⲏ, ⲇⲁⲓⲙⲱⲛ, ⲁⲣⲉⲧⲏ, ⲡⲣⲟⲫⲏⲧⲏⲥ
+* `EMPTY` (3895): ⲛⲟⲩϯ, ⲣⲏϯ, ⲣⲱⲙⲓ, ⲙⲏϣ, ⲧⲏⲣ, ⲓⲱⲧ, ϩⲏⲧ, ⲙⲁ, ⲥⲁϫⲓ, ϭⲟⲉⲓⲥ
 
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (314) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (317) occur only with one value of `Foreign`.
 
 ### `PART`
 
@@ -32,55 +32,55 @@ The feature is used with 13 part-of-speech tags: <tt><a href="cop_bohairic-pos-N
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (442; 100% of non-empty `Foreign`): ⲇⲉ, ⲅⲁⲣ, ⲟⲩⲛ, ⲙⲉⲛ, ⲱ, ⲁⲙⲏⲛ, ⲟⲩⲟⲓ, ϩⲁⲣⲁ, ⲁⲛ, ⲅⲉ
-* `EMPTY` (598): ⲛϫⲉ, ⲉ, ⲉⲧ, ⲁ, ⲛ, ⲓⲥ, ⲁⲣⲉ, ϫⲉ, ⲙⲙⲟⲛ, ϩⲏⲡⲡⲉ
+* `EMPTY` (593): ⲛϫⲉ, ⲉ, ⲉⲧ, ⲁ, ⲛ, ⲓⲥ, ⲁⲣⲉ, ϫⲉ, ⲙⲙⲟⲛ, ϩⲏⲡⲡⲉ
 
 `Foreign` seems to be **lexical feature** of `PART`. 100% lemmas (12) occur only with one value of `Foreign`.
 
 ### `PROPN`
 
-315 <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> tokens (70% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+314 <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> tokens (69% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (315; 100% of non-empty `Foreign`): ⲓⲏⲥⲟⲩⲥ, ⲓⲱⲁⲛⲛⲏⲥ, ⲓⲥⲁⲁⲕ, ⲏⲗⲓⲁⲥ, ⲓⲁⲕⲱⲃⲟⲥ, ⲡⲉⲧⲣⲟⲥ, ⲡⲁⲩⲗⲟⲥ, ⲅⲁⲗⲓⲗⲉⲁ, ⲥⲁⲧⲁⲛⲁⲥ, ⲥⲓⲙⲱⲛ
-* `EMPTY` (136): ϣⲉⲛⲟⲩϯ, ⲡϫⲱⲗ, ⲡϣⲟⲓ, ⲕⲩⲣⲓⲗⲗⲟⲥ, ϣⲓⲏⲧ, ⲭⲏⲙⲓ, ϣⲙⲓⲛ, ⲣⲁⲕⲟϯ, ⲃⲏⲥⲁ, ⲓⲱⲁⲛⲛⲏⲥ
+* `Yes` (314; 100% of non-empty `Foreign`): ⲓⲏⲥⲟⲩⲥ, ⲓⲱⲁⲛⲛⲏⲥ, ⲓⲥⲁⲁⲕ, ⲏⲗⲓⲁⲥ, ⲓⲁⲕⲱⲃⲟⲥ, ⲡⲉⲧⲣⲟⲥ, ⲡⲁⲩⲗⲟⲥ, ⲅⲁⲗⲓⲗⲉⲁ, ⲥⲁⲧⲁⲛⲁⲥ, ⲥⲓⲙⲱⲛ
+* `EMPTY` (139): ϣⲉⲛⲟⲩϯ, ⲡϫⲱⲗ, ⲡϣⲟⲓ, ⲕⲩⲣⲓⲗⲗⲟⲥ, ϣⲓⲏⲧ, ⲭⲏⲙⲓ, ϣⲙⲓⲛ, ⲃⲏⲥⲁ, ⲣⲁⲕⲟϯ, ⲓⲱⲁⲛⲛⲏⲥ
 
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (96) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (97) occur only with one value of `Foreign`.
 
 ### `CCONJ`
 
-184 <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> tokens (16% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
+185 <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> tokens (16% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
 
 `CCONJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (184; 100% of non-empty `Foreign`): ⲁⲗⲗⲁ, ⲟⲩⲇⲉ, ⲓⲧⲉ, ⲙⲏ, ⲕⲁⲓ, ⲕⲁⲛ, ϩⲱⲥ, ⲙⲏⲧⲓ, ⲟⲩⲭⲓ, ϩⲟⲡⲱⲥ
-* `EMPTY` (967): ⲟⲩⲟϩ, ⲓⲉ, ϫⲉ, ϣⲁⲛ, ⲉϣⲱⲡ, ⲓⲧⲁ, ϥ, ⲃⲏⲥⲁ, ⲡⲉϫⲉ
+* `Yes` (185; 100% of non-empty `Foreign`): ⲁⲗⲗⲁ, ⲟⲩⲇⲉ, ⲓⲧⲉ, ⲙⲏ, ⲕⲁⲓ, ⲕⲁⲛ, ϩⲟⲥⲟⲛ, ϩⲱⲥ, ⲙⲏⲧⲓ, ⲟⲩⲭⲓ
+* `EMPTY` (965): ⲟⲩⲟϩ, ⲓⲉ, ϫⲉ, ϣⲁⲛ, ⲉϣⲱⲡ, ⲓⲧⲁ, ϥ, ⲡⲉϫⲉ
 
 `Foreign` seems to be **lexical feature** of `CCONJ`. 100% lemmas (19) occur only with one value of `Foreign`.
 
 ### `SCONJ`
 
-149 <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `Foreign`.
+151 <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `Foreign`.
 
 `SCONJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (149; 100% of non-empty `Foreign`): ϩⲓⲛⲁ, ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲉⲡⲓⲇⲏ, ⲕⲁⲛ, ⲙⲏⲡⲱⲥ, ϩⲟⲡⲱⲥ, ϩⲟⲧⲉ, ⲉⲡⲉⲓⲇⲏ, ϩⲏⲇⲏ
-* `EMPTY` (1797): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲑ, ⲉⲧⲉ, ⲉⲣⲉ, ⲉϣⲱⲡ, ⲓⲥϫⲉ, ϩⲱⲥⲧⲉ, ⲓⲥϫⲉⲛ
+* `Yes` (151; 100% of non-empty `Foreign`): ϩⲓⲛⲁ, ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲉⲡⲓⲇⲏ, ⲕⲁⲛ, ⲙⲏⲡⲱⲥ, ϩⲟⲡⲱⲥ, ϩⲟⲧⲉ, ⲉⲡⲉⲓⲇⲏ, ϩⲏⲇⲏ
+* `EMPTY` (1800): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲑ, ⲉⲧⲉ, ⲉⲣⲉ, ⲉϣⲱⲡ, ⲓⲥϫⲉ, ⲓⲥϫⲉⲛ, ϩⲟⲧⲉ
 
 `Foreign` seems to be **lexical feature** of `SCONJ`. 100% lemmas (15) occur only with one value of `Foreign`.
 
 ### `VERB`
 
-122 <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Foreign`.
+123 <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="cop_bohairic-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (119; 98%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="cop_bohairic-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (120; 98%), <tt><a href="cop_bohairic-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (113; 92%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
-* `Yes` (122; 100% of non-empty `Foreign`): ⲉⲣⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉⲥⲑⲉ, ⲉⲣⲭⲣⲓⲁ, ⲉⲣⲁⲛⲁⲭⲱⲣⲓⲛ, ⲉⲣϩⲉⲗⲡⲓⲥ, ⲉⲣⲁⲡⲁⲛⲧⲁⲛ, ⲉⲣⲉⲧⲓⲛ, ⲉⲣⲉⲡⲓⲧⲓⲙⲁⲛ, ⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ, ⲉⲣⲡⲣⲟⲕⲟⲡⲧⲉⲓⲛ, ⲧⲟⲓ
-* `EMPTY` (3795): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ⲟⲩⲟⲛ, ⲉⲣ, ⲥⲱⲧⲉⲙ, ϣⲉ
+* `Yes` (123; 100% of non-empty `Foreign`): ⲉⲣⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉⲥⲑⲉ, ⲉⲣⲭⲣⲓⲁ, ⲉⲣⲁⲛⲁⲭⲱⲣⲓⲛ, ⲉⲣϩⲉⲗⲡⲓⲥ, ⲉⲣⲁⲡⲁⲛⲧⲁⲛ, ⲉⲣⲉⲧⲓⲛ, ⲉⲣⲉⲡⲓⲧⲓⲙⲁⲛ, ⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ, ⲉⲣⲡⲣⲟⲕⲟⲡⲧⲉⲓⲛ, ⲧⲟⲓ
+* `EMPTY` (3794): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ⲟⲩⲟⲛ, ⲉⲣ, ⲥⲱⲧⲉⲙ, ϣⲉ
 
-`Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (76) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (78) occur only with one value of `Foreign`.
 
 ### `ADV`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (51; 100% of non-empty `Foreign`): ⲕⲁⲧⲁ, ⲡⲁⲣⲁ, ⲡⲣⲟⲥ, ⲭⲱⲣⲓⲥ, ⲁⲡⲁ, ⲙⲉⲛ
-* `EMPTY` (5004): ⲛ, ⲙ, ϧⲉⲛ, ⲉ, ⲛⲉⲙ, ⲛⲧⲉ, ⲙⲙⲟ, ⲛⲁ, ⲛⲱ, ⲉⲣⲟ
+* `EMPTY` (5003): ⲛ, ⲙ, ϧⲉⲛ, ⲉ, ⲛⲉⲙ, ⲛⲧⲉ, ⲙⲙⲟ, ⲛⲁ, ⲛⲱ, ⲉⲣⲟ
 
 ### `X`
 
@@ -125,14 +125,14 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 
 ### `DET`
 
-2 <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cop_bohairic-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cop_bohairic-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cop_bohairic-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cop_bohairic-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cop_bohairic-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cop_bohairic-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cop_bohairic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cop_bohairic-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cop_bohairic-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cop_bohairic-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cop_bohairic-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cop_bohairic-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cop_bohairic-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cop_bohairic-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cop_bohairic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cop_bohairic-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Foreign`:
 
-* `Yes` (2; 100% of non-empty `Foreign`): ⲁⲡⲁ
-* `EMPTY` (4506): ⲡⲓ, ⲟⲩ, ⲛⲓ, ⲡ, ⲫ, ϯ, ϩⲁⲛ, ⲛⲏ, ⲡⲉϥ, ⲫⲏ
+* `Yes` (1; 100% of non-empty `Foreign`): ⲁⲡⲁ
+* `EMPTY` (4500): ⲡⲓ, ⲟⲩ, ⲛⲓ, ⲡ, ⲫ, ϯ, ϩⲁⲛ, ⲛⲏ, ⲡⲉϥ, ⲫⲏ
 
 ### `NUM`
 
@@ -154,13 +154,13 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): ⲓⲥⲁⲁⲕ
-* `EMPTY` (5354): ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ⲧⲉⲛ, ϯ, ⲛ
+* `EMPTY` (5357): ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ⲧⲉⲛ, ϯ, ⲛ
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>PROPN --[<tt><a href="cop_bohairic-dep-conj.html">conj</a></tt>]--> PROPN</tt> (30; 94%),
-<tt>PROPN --[<tt><a href="cop_bohairic-dep-appos.html">appos</a></tt>]--> NOUN</tt> (22; 58%),
+<tt>PROPN --[<tt><a href="cop_bohairic-dep-appos.html">appos</a></tt>]--> NOUN</tt> (22; 56%),
 <tt>PROPN --[<tt><a href="cop_bohairic-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8; 53%),
 <tt>PROPN --[<tt><a href="cop_bohairic-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (5; 100%),
 <tt>PROPN --[<tt><a href="cop_bohairic-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3; 100%),

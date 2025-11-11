@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pt_dantestocks-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.238183).
+The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.238049).
 
 The 1st highest number of forms (2) was observed with the lemma “porque”: <em>Porque, Pq</em>.
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-ParTUT: POS Tags: `SCONJ`
 
-There are 37 `SCONJ` lemmas (1%), 37 `SCONJ` types (0%) and 722 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
+There are 37 `SCONJ` lemmas (1%), 37 `SCONJ` types (0%) and 723 `SCONJ` tokens (1%).
+Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>that, as, if, when, because, while, whether, although, so, though</em>
 
 The 10 most frequent `SCONJ` types:  <em>that, as, if, when, because, while, whether, although, so, though</em>
 
-The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 325, <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> 217, <tt><a href="en_partut-pos-DET.html">DET</a></tt> 59, <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> 2), <em>as</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 241, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 43, <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1), <em>when</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 65, <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> 2, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 1), <em>because</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 8, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 1), <em>so</em> (<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 39, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 16), <em>though</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 2), <em>since</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 12, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 9), <em>until</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 4), <em>from</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 179, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>once</em> (<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 10, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 325, <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> 217, <tt><a href="en_partut-pos-DET.html">DET</a></tt> 59, <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> 2), <em>as</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 241, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 69, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 42, <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1), <em>when</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 65, <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> 2, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 1), <em>because</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 8, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 1), <em>so</em> (<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 39, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 16), <em>though</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 2), <em>since</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 12, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 9), <em>until</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 4), <em>from</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 179, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>once</em> (<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 10, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 5)
 
-The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 324, <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> 173, <tt><a href="en_partut-pos-DET.html">DET</a></tt> 34), <em>as</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 222, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 52, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 42, <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1), <em>when</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 41, <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> 2, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 1), <em>because</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 8), <em>so</em> (<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 32, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 15), <em>though</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 2), <em>since</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 8, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 7), <em>until</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 3), <em>from</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 173, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>once</em> (<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 10, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 324, <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> 173, <tt><a href="en_partut-pos-DET.html">DET</a></tt> 34), <em>as</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 222, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 53, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 41, <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1), <em>when</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 41, <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> 2, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 1), <em>because</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 8), <em>so</em> (<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 32, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 15), <em>though</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 2), <em>since</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 8, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 7), <em>until</em> (<tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 3), <em>from</em> (<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 173, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 6), <em>once</em> (<tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 10, <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 
 * <em>that</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_partut-pos
   * <tt><a href="en_partut-pos-DET.html">DET</a></tt> 34: <em>It 's <b>that</b> pyramid .</em>
 * <em>as</em>
   * <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> 222: <em>Creative Commons provides this information on an " <b>as</b> - is " basis .</em>
-  * <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 52: <em><b>as</b> Robb explained :</em>
-  * <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 42: <em>Inward FDI could increase by <b>as</b> much as 83 % annually by 2020 ;</em>
+  * <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 53: <em><b>as</b> Robb explained :</em>
+  * <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> 41: <em>Inward FDI could increase by <b>as</b> much as 83 % annually by 2020 ;</em>
   * <tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> 1: <em>" Balzac has received high praise from critics <b>as</b> diverse as Walter Benjamin and Camille Paglia .</em>
 * <em>when</em>
   * <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> 41: <em>For the time , the report grew too large <b>when</b> it was being debated .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.200760).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.205397).
 
 The 1st highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
 
@@ -68,17 +68,17 @@ The 3rd highest number of forms (1) was observed with the lemma “albeit”: <e
 `SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (712 tokens).
+The most frequent feature combination is `_` (713 tokens).
 Examples: <em>that, as, if, when, because, while, whether, although, though, whereas</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="en_partut-dep-mark.html">mark</a></tt> (702; 97% instances), <tt><a href="en_partut-dep-fixed.html">fixed</a></tt> (10; 1% instances), <tt><a href="en_partut-dep-case.html">case</a></tt> (5; 1% instances), <tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="en_partut-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="en_partut-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="en_partut-dep-mark.html">mark</a></tt> (703; 97% instances), <tt><a href="en_partut-dep-fixed.html">fixed</a></tt> (10; 1% instances), <tt><a href="en_partut-dep-case.html">case</a></tt> (5; 1% instances), <tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="en_partut-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="en_partut-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (555; 77% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (76; 11% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (67; 9% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (556; 77% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (76; 11% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (67; 9% instances), <tt><a href="en_partut-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-707 (98%) `SCONJ` nodes are leaves.
+708 (98%) `SCONJ` nodes are leaves.
 
 11 (2%) `SCONJ` nodes have one child.
 

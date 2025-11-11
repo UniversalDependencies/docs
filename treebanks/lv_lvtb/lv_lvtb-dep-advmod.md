@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `advmod`: <tt><a href="lv_lvtb-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="lv_lvtb-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-16121 nodes (5%) are attached to their parents as `advmod`.
+16155 nodes (5%) are attached to their parents as `advmod`.
 
-14127 instances of `advmod` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01953973078593.
+14158 instances of `advmod` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.02005571030641.
 
-The following 13 pairs of parts of speech are connected with `advmod`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (12001; 74% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1353; 8% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1137; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1077; 7% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (294; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (148; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (42; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (41; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `advmod`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (12032; 74% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1353; 8% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1139; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1078; 7% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (294; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (148; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (42; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (41; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,13 +39,15 @@ The following 13 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod	color:blue
-1	Mani	es	PRON	pp10san	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	2:obj	LvtbNodeId=a-d175-p9s1w1
-2	pamodina	pamodināt	VERB	vmnipt330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d175-p9s1w2
-3	ugunīgi	ugunīgi	ADV	rpn	Degree=Pos	4	advmod	4:advmod	LvtbNodeId=a-d175-p9s1w3
-4	sarkanu	sarkans	ADJ	afmpgnp	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	LvtbNodeId=a-d175-p9s1w4
-5	matu	mats	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	6	nmod	6:nmod:gen	LvtbNodeId=a-d175-p9s1w5
-6	sprādziens	sprādziens	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-d175-p9s1w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d175-p9s1w7
+1	Liepājā	Liepāja	PROPN	npfsl4	Case=Loc|Gender=Fem|Number=Sing	2	obl	2:obl:loc	LvtbNodeId=a-d1293-p2s4w1
+2	ir	būt	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d1293-p2s4w2
+3	daudz	daudz	ADV	rpn	Degree=Pos	4	advmod	4:advmod	LvtbNodeId=a-d1293-p2s4w3
+4	noslēpumaina	noslēpumains	ADJ	afmsgnp	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-d1293-p2s4w4|SpaceAfter=No
+5	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d1293-p2s4w5
+6	par	par	ADP	sppd	_	7	case	7:case	LvtbNodeId=a-d1293-p2s4w6
+7	ko	kas	PRON	pi000an	Case=Acc|PronType=Ind	8	iobj	8:iobj	LvtbNodeId=a-d1293-p2s4w7
+8	brīnīties	brīnīties	VERB	vmyn0i3000n	Polarity=Pos|Reflex=Yes|VerbForm=Inf	4	acl	4:acl	LvtbNodeId=a-d1293-p2s4w8|SpaceAfter=No
+9	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d1293-p2s4w9
 
 ~~~
 

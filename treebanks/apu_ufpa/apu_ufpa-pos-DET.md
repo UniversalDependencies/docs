@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `DET`
 
 There are 5 `DET` lemmas (2%), 7 `DET` types (2%) and 14 `DET` tokens (1%).
-Out of 16 observed tags, the rank of `DET` is: 7 in number of lemmas, 7 in number of types and 8 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ie, kaiãapuku, ithu, kaiãpuku, kaiãũ</em>
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>kaiãapukury</em> (<tt><a href="apu_u
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.247525).
+The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.250825).
 
 The 1st highest number of forms (2) was observed with the lemma “ie”: <em>iia, iie</em>.
 
@@ -42,13 +42,13 @@ The 2nd highest number of forms (2) was observed with the lemma “kaiãapuku”
 
 The 3rd highest number of forms (1) was observed with the lemma “ithu”: <em>ithu</em>.
 
-`DET` occurs with 1 features: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt> (6; 43% instances)
+`DET` occurs with 2 features: <tt><a href="apu_ufpa-feat-PronType.html">PronType</a></tt> (14; 100% instances), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt> (6; 43% instances)
 
-`DET` occurs with 1 feature-value pairs: `Gender=Masc`
+`DET` occurs with 3 feature-value pairs: `Gender=Masc`, `PronType=Dem`, `PronType=Ind`
 
-`DET` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (8 tokens).
-Examples: <em>Kaiãapukury, ithu, kaiãapuku, kaiãpukury, kaiãũpuku</em>
+`DET` occurs with 3 feature combinations.
+The most frequent feature combination is `PronType=Ind` (8 tokens).
+Examples: <em>kaiãapukury, ithu, kaiãapuku, kaiãpukury, kaiãũpuku</em>
 
 
 ## Relations

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-50 nodes (0%) are attached to their parents as `dislocated`.
+51 nodes (0%) are attached to their parents as `dislocated`.
 
-34 instances of `dislocated` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.08.
+35 instances of `dislocated` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.01960784313725.
 
-The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (45; 90% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (46; 90% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

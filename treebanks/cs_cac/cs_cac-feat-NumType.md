@@ -52,7 +52,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 * `Card` (651; 100% of non-empty `NumType`): <em>několik, mnoho, několika, mnoha, kolik, tolik, málo, nejeden, mála, nejednom</em>
 * `Ord` (3; 0% of non-empty `NumType`): <em>Kolikátý, kolikátá, kolikátém</em>
-* `EMPTY` (19157): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19156): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `ADV`
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (119; 71% of non-empty `NumType`): <em>dvakrát, nejednou, několikrát, třikrát, mnohokrát, kolikrát, desetkrát, stokrát, čtyřikrát, dvanáctkrát</em>
 * `Ord` (49; 29% of non-empty `NumType`): <em>poprvé, podruhé, potřetí, potřinácté</em>
-* `EMPTY` (27921): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (27907): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (33) occur only with one value of `NumType`.
 

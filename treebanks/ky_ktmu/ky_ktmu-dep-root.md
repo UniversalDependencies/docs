@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2480 nodes (10%) are attached to their parents as `root`.
+2530 nodes (10%) are attached to their parents as `root`.
 
-2480 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.50241935483871.
+2530 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.50197628458498.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (2284; 92% instances), -<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (169; 7% instances), -<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), -<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), -<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (5; 0% instances), -<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (2333; 92% instances), -<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (170; 7% instances), -<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), -<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), -<tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (5; 0% instances), -<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="ky_ktmu-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 3 root	color:blue
 1	Менин	Мен	PRON	PRP	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	машинам	машина	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	_
-3	бар	бар	VERB	VB	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+3	бар	бар	VERB	VB	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	PCT	_	3	punct	_	_
 
 ~~~

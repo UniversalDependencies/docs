@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of punct in UD_Kurmanji-MG'
+title:  'Statistics of punct in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `punct`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `punct`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 945 instances of `punct` (74%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.26661454261142.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (718; 56% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (323; 25% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (67; 5% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (48; 4% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (41; 3% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (28; 2% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (23; 2% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (718; 56% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (323; 25% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (67; 5% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (48; 4% instances), <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (41; 3% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (28; 2% instances), <tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (23; 2% instances), <tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="kmr_kurmanji-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_kurmanji-pos-X.html">X</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="kmr_kurmanji-pos-PART.html">PART</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="kmr_kurmanji-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kmr_kurmanji-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

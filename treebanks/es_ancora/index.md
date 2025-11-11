@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY 4.0
 
@@ -89,7 +89,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 ## Features
 
-[Abbr](es_ancora-feat-Abbr.html) – [Case](es_ancora-feat-Case.html) – [Definite](es_ancora-feat-Definite.html) – [Degree](es_ancora-feat-Degree.html) – [Foreign](es_ancora-feat-Foreign.html) – [Gender](es_ancora-feat-Gender.html) – [Mood](es_ancora-feat-Mood.html) – [Number](es_ancora-feat-Number.html) – [Number[psor]](es_ancora-feat-Number-psor.html) – [NumForm](es_ancora-feat-NumForm.html) – [NumType](es_ancora-feat-NumType.html) – [Person](es_ancora-feat-Person.html) – [Polarity](es_ancora-feat-Polarity.html) – [Polite](es_ancora-feat-Polite.html) – [Poss](es_ancora-feat-Poss.html) – [PrepCase](es_ancora-feat-PrepCase.html) – [PronType](es_ancora-feat-PronType.html) – [PunctSide](es_ancora-feat-PunctSide.html) – [PunctType](es_ancora-feat-PunctType.html) – [Reflex](es_ancora-feat-Reflex.html) – [Tense](es_ancora-feat-Tense.html) – [Typo](es_ancora-feat-Typo.html) – [VerbForm](es_ancora-feat-VerbForm.html)
+[Abbr](es_ancora-feat-Abbr.html) – [Case](es_ancora-feat-Case.html) – [Definite](es_ancora-feat-Definite.html) – [Degree](es_ancora-feat-Degree.html) – [ExtPos](es_ancora-feat-ExtPos.html) – [Foreign](es_ancora-feat-Foreign.html) – [Gender](es_ancora-feat-Gender.html) – [Mood](es_ancora-feat-Mood.html) – [Number](es_ancora-feat-Number.html) – [Number[psor]](es_ancora-feat-Number-psor.html) – [NumForm](es_ancora-feat-NumForm.html) – [NumType](es_ancora-feat-NumType.html) – [Person](es_ancora-feat-Person.html) – [Polarity](es_ancora-feat-Polarity.html) – [Polite](es_ancora-feat-Polite.html) – [Poss](es_ancora-feat-Poss.html) – [PrepCase](es_ancora-feat-PrepCase.html) – [PronType](es_ancora-feat-PronType.html) – [PunctSide](es_ancora-feat-PunctSide.html) – [PunctType](es_ancora-feat-PunctType.html) – [Reflex](es_ancora-feat-Reflex.html) – [Tense](es_ancora-feat-Tense.html) – [Typo](es_ancora-feat-Typo.html) – [VerbForm](es_ancora-feat-VerbForm.html)
 
 ## Relations
 
@@ -524,8 +524,8 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Dem
     <ul>
-      <li>DET: este, esta, esa, ese, estos, mismo, estas, misma, esos, esas</li>
-      <li>PRON: eso, esto, éste, ésta, mismo, este, misma, mismos, éstos, tal</li>
+      <li>DET: este, esta, el, esa, ese, estos, mismo, estas, misma, esos</li>
+      <li>PRON: eso, lo, esto, éste, ésta, mismo, este, misma, mismos, éstos</li>
     </ul>
   </li>
 </ul>
@@ -739,6 +739,60 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADJ: junto, debido</li>
+          <li>ADP: a, en, por, de, con, sin</li>
+          <li>ADV: además, acerca, detrás, dentro, después, aparte, alrededor, cerca, lejos, antes</li>
+          <li>NOUN: frente, respecto, pese, gracias, conforme, cara, fuera, merced, camino, enfrente</li>
+          <li>PRON: algo</li>
+          <li>SCONJ: como</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: rara, debido</li>
+          <li>ADP: en, por, a, de, sin, sobre, con, para, in, Hasta</li>
+          <li>ADV: más, poco, así, cerca, ahora, además, alrededor, Antes, asi, cuando</li>
+          <li>AUX-Fin: Es</li>
+          <li>CCONJ: ni, mientras, O</li>
+          <li>DET: un, una, la</li>
+          <li>NOUN: tal, tan, desde, es, hoy, nada, otra, frente, Pues, cuanto</li>
+          <li>PART: no</li>
+          <li>PRON: lo, todo</li>
+          <li>SCONJ: como</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADJ: junto, igual</li>
+          <li>ADP: en, a, sin</li>
+          <li>ADV: así, además, más, aparte, ya</li>
+          <li>CCONJ: sino, mientras, o</li>
+          <li>NOUN: es, esto, frente, Cuanto</li>
+          <li>PART: no</li>
+          <li>PRON: lo</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADJ: debido, igual, junto</li>
+          <li>ADP: a, en, con, de, por, para, hasta</li>
+          <li>ADV: ya, siempre, además, así, después, lejos, acerca, Aparte, mucho, Más</li>
+          <li>CCONJ: mientras, Pero</li>
+          <li>DET: una, el</li>
+          <li>NOUN: pese, puesto, tal, dado, gracias, aun, cada, tan, desde, respecto</li>
+          <li>PART: no</li>
+          <li>SCONJ: si, como, aunque, que</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -886,31 +940,38 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (10267)</li>
+      <li>VERB-Fin--NOUN (10268)</li>
       <li>VERB-Fin--NOUN-ADP(a) (5)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor)-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
       <li>VERB-Fin--PRON (5035)</li>
-      <li>VERB-Fin--PRON-Acc (4)</li>
+      <li>VERB-Fin--PRON-Acc (147)</li>
       <li>VERB-Fin--PRON-Acc,Nom (217)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(de) (4)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(por)-ADP(suponer) (1)</li>
       <li>VERB-Fin--PRON-Nom (98)</li>
       <li>VERB-Ger--NOUN (98)</li>
       <li>VERB-Ger--PRON (57)</li>
+      <li>VERB-Ger--PRON-Acc (4)</li>
       <li>VERB-Ger--PRON-Acc,Nom (6)</li>
       <li>VERB-Ger--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (769)</li>
       <li>VERB-Inf--NOUN-ADP(a) (2)</li>
       <li>VERB-Inf--PRON (278)</li>
+      <li>VERB-Inf--PRON-Acc (33)</li>
       <li>VERB-Inf--PRON-Acc,Nom (23)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(de) (1)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(para)-ADP(disponer) (1)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>
       <li>VERB-Part--NOUN (1776)</li>
       <li>VERB-Part--NOUN-ADP(a) (4)</li>
       <li>VERB-Part--NOUN-ADP(en) (1)</li>
       <li>VERB-Part--PRON (700)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Part--PRON-Acc (22)</li>
       <li>VERB-Part--PRON-Acc,Nom (34)</li>
+      <li>VERB-Part--PRON-Acc-ADP(por)-ADP(pagar) (1)</li>
       <li>VERB-Part--PRON-Nom (11)</li>
     </ul>
   </li>
@@ -919,8 +980,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (8897)</li>
+      <li>VERB-Fin--NOUN (8895)</li>
       <li>VERB-Fin--NOUN-ADP(a) (871)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (2)</li>
       <li>VERB-Fin--NOUN-ADP(en) (1)</li>
       <li>VERB-Fin--PRON (1526)</li>
       <li>VERB-Fin--PRON-ADP(a) (105)</li>
@@ -928,6 +990,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc,Nom (5)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (8)</li>
       <li>VERB-Fin--PRON-Acc-ADP(a) (11)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(para)-ADP(emplear) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(por)-ADP(instar) (1)</li>
       <li>VERB-Fin--PRON-Com (1)</li>
       <li>VERB-Ger--NOUN (523)</li>
       <li>VERB-Ger--NOUN-ADP(a) (59)</li>

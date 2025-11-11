@@ -29,7 +29,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	на	на	ADV	Adv	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
 7	дзикӧдз	дзик	ADV	Adv	Case=Ter	8	advmod:deg	_	_
-8	растеряйтчис	растеряйтчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+8	растеряйтчис	растеряйтчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
@@ -48,7 +48,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	0	root	_	GTtags=Interr,Pl,Nom|SpaceAfter=No
 6	?	?	PUNCT	CLB	_	5	punct	_	_
 7	—	—	PUNCT	PUNCT	_	8	punct	_	_
-8	индіс	индыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	parataxis	_	GTtags=TV,Ind,Prt1,Sg3
+8	индіс	индыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	GTtags=TV,Ind,Prt1,Sg3
 9	мамыс	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	GTtags=Sg,Nom,PxSg3
 10	воддза	воддза	ADV	Adv	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom
 11	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	12	nummod	_	GTtags=Card,Sg,Nom
@@ -72,7 +72,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	туриясӧн	тури	NOUN	N	Case=Ins|Number=Plur	6	obl	_	GTtags=Pl,Ins
 6	вайӧм	вайны	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	GTtags=TV,Der,Der/ӧм,PastPtc
 7	шудсӧ	шуд	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Acc,PxSg3
-8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Pl1
+8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,Pl1
 9	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	10	det	_	GTtags=Det,Refl,Abs
 10	ног	ног	NOUN	N	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	8	punct	_	_

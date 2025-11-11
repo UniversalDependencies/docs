@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.htm
 
 10876 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (9769; 90%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7955; 73%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6224; 57%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5673; 52%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5664; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (9769; 90%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7953; 73%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6224; 57%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5673; 52%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5664; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -131,13 +131,13 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 836 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (828; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (531; 64%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (478; 57%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (828; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (517; 62%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (478; 57%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (825; 99% of non-empty `VerbForm`): <em>huvitav, antud, teatud, erinevaid, ülejäänud, kasutatud, erinevate, tehtud, asetatud, karastatud</em>
 * `Sup` (11; 1% of non-empty `VerbForm`): <em>Tegemata, harmoniseerimata, katmata, lahendamata, niitmata, ostmata, poolitamata, tasumata, tasustamata, treenimata</em>
-* `EMPTY` (4421): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
+* `EMPTY` (4422): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (462) occur only with one value of `VerbForm`.
 

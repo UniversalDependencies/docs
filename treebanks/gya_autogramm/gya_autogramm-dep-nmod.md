@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (2%) are attached to their parents as `nmod`.
+62 nodes (2%) are attached to their parents as `nmod`.
 
-57 instances of `nmod` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.94915254237288.
+60 instances of `nmod` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.03225806451613.
 
-The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (44; 75% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (9; 15% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt> (3; 5% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (44; 71% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (11; 18% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt> (3; 5% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

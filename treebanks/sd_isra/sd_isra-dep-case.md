@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1953 nodes (12%) are attached to their parents as `case`.
+12869 nodes (14%) are attached to their parents as `case`.
 
-1951 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07834101382488.
+12764 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.10062941953532.
 
-The following 17 pairs of parts of speech are connected with `case`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1469; 75% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (154; 8% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (134; 7% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (95; 5% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (43; 2% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (15; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `case`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (9293; 72% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1346; 10% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1306; 10% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (459; 4% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (166; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (128; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (62; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (58; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (31; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,6 +40,31 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 case	color:blue
+1	انهيءَ	ان	DET	PRD	Case=Acc|Number=Sing|PronType=Dem	3	obl	_	_
+2	تي	تي	ADP	PSPL	_	1	case	_	_
+3	ٻڪرين	ٻڪر	VERB	VM	Number=Plur	9	nsubj	_	_
+4	،	،	PUNCT	PUNCT	_	3	punct	_	_
+5	گدڙ	گدڙ	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	_
+6	جي	جي	ADP	PSPG	Case=Nom|Gender=Fem|Number=Sing	5	case	_	_
+7	ساراهه	ساراهه	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	8	compound	_	_
+8	ڪندي	ڪن	VERB	VM	Aspect=Imp|Voice=Act	9	advcl	_	_
+9	چيو	چئو	VERB	VM	Aspect=Perf|Number=Sing	0	root	_	_
+10	ته	ته	SCONJ	CS	_	14	mark	_	_
+11	:	:	PUNCT	PUNCT	_	14	punct	_	_
+12	چنڻ	چن	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	14	nmod	_	_
+13	دا	دا	ADP	PSPG	Case=Nom	12	case	_	_
+14	چبوترا	چبوترو	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+15	،	،	PUNCT	PUNCT	_	14	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 9	bgColor:blue
@@ -57,31 +82,6 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 10	جو	جو	ADP	PSPG	Case=Nom|Gender=Masc|Number=Sing	9	case	_	_
 11	سڏائي	سڏاءِ	VERB	VM	Aspect=Perf|Number=Sing|Person=3	0	root	_	_
 12	،	،	PUNCT	PUNCT	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 case	color:blue
-1	ٻين	ٻيو	ADJ	JJO	Case=Acc|Gender=Masc|Number=Plur	2	amod	_	_
-2	گدڙن	گدڙ	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
-3	وٽ	وٽ	ADP	PSP	_	2	case	_	_
-4	آيو	آءَ	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-5	۽	۽	CCONJ	CC	_	14	cc	_	_
-6	ساڻن	ساڻو	ADP	PSPX	Case=Acc|Number=Plur|Person=3	8	obl	_	_
-7	صلاح	صلاح	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
-8	ڪري	ڪر	VERB	VM	Aspect=Perf|VerbForm=Conv	14	advcl	_	_
-9	پاڻ	پاڻ	PRON	PRP	Case=Acc	14	obj	_	_
-10	کي	کي	ADP	PSP	_	9	case	_	_
-11	سلطان	سلطان	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	_
-12	جو	جو	ADP	PSPG	Case=Nom|Gender=Masc|Number=Sing	11	case	_	_
-13	لقب	لقب	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	obj	_	_
-14	ڏيئي	ڏيئي	VERB	VM	Aspect=Perf|Number=Sing|VerbForm=Conv	4	conj	_	_
-15	،	،	PUNCT	PUNCT	_	14	punct	_	_
 
 ~~~
 

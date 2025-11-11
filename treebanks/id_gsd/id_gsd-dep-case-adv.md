@@ -29,7 +29,7 @@ The following 6 pairs of parts of speech are connected with `case:adv`: <tt><a h
 5	tari	tari	NOUN	NSD	Number=Sing	1	nmod	_	Morf=^tari<n>_NSD$
 6	ini	ini	DET	B--	PronType=Dem	1	det	_	Morf=^ini<b>_B--$
 7	tidak	tidak	PART	G--	Polarity=Neg	8	advmod	_	Morf=^tidak<g>_G--$
-8	diketahui	ketahui	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+ketahui<v>_VSP$
+8	diketahui	ketahui	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+ketahui<v>_VSP$
 9	secara	secara	ADP	R--	_	10	case:adv	_	Morf=^secara<r>_R--$
 10	jelas	jelas	ADJ	ASP	_	8	advmod	_	SpaceAfter=No|Morf=^jelas<a>_ASP$
 11	.	.	PUNCT	Z--	_	8	punct	_	Morf=^.<z>_Z--$
@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `case:adv`: <tt><a h
 3	polisakarida	polisakarida	NOUN	X--	_	6	nsubj:pass	_	Morf=^polisakarida<x>_X--$
 4	cadangan	cadang	NOUN	NSD	Number=Sing	3	compound	_	Morf=^cadang<v>+an_NSD$
 5	mudah	mudah	ADJ	ASP	_	6	amod	_	Morf=^mudah<a>_ASP$
-6	diurai	urai	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+urai<v>_VSP$
+6	diurai	urai	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+urai<v>_VSP$
 7	secara	secara	ADP	R--	_	6	case:adv	_	Morf=^secara<r>_R--$
 8	biologis	biologis	ADJ	NSD	_	6	amod	_	SpaceAfter=No|Morf=^biologis<n>_NSD$
 9	.	.	PUNCT	Z--	_	6	punct	_	Morf=^.<z>_Z--$
@@ -64,12 +64,12 @@ The following 6 pairs of parts of speech are connected with `case:adv`: <tt><a h
 # visual-style 10 9 case:adv	color:blue
 1	Data	data	NOUN	NSD	Number=Sing	3	nsubj:pass	_	Morf=^data<n>_NSD$
 2	ini	ini	DET	B--	PronType=Dem	1	det	_	Morf=^ini<b>_B--$
-3	didapatkan	dapat	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+dapat<v>+kan_VSP$
+3	didapatkan	dapat	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+dapat<v>+kan_VSP$
 4	dari	dari	ADP	R--	_	5	case	_	Morf=^dari<r>_R--$
 5	hasil	hasil	NOUN	NSD	Number=Sing	3	obl	_	Morf=^hasil<n>_NSD$
 6	sensus	sensus	NOUN	X--	_	5	compound	_	Morf=^sensus<x>_X--$
 7	yang	yang	PRON	S--	PronType=Rel	8	nsubj	_	Morf=^yang<s>_S--$
-8	dilakukan	laku	VERB	VSP	Mood=Ind|Voice=Pass	5	acl:relcl	_	Morf=^di+laku<a>+kan_VSP$
+8	dilakukan	laku	VERB	VSP	Voice=Pass	5	acl:relcl	_	Morf=^di+laku<a>+kan_VSP$
 9	secara	secara	ADP	R--	_	10	case:adv	_	Morf=^secara<r>_R--$
 10	teratur	teratur	ADV	ASP	_	8	xcomp	_	Morf=^teratur<a>_ASP$
 11	dan	dan	CCONJ	H--	_	12	cc	_	Morf=^dan<h>_H--$

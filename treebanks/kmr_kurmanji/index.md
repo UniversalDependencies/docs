@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Kurmanji-MG'
+title:  'UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
@@ -9,26 +9,26 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Kurmanji MG
+# UD Northern Kurdish Kurmanji
 
-Language: [Kurmanji](/kmr/index.html) (code: `kmr`)<br/>
+Language: [Northern Kurdish](/kmr/index.html) (code: `kmr`)<br/>
 Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Memduh Gökırmak, Francis Tyers.
 
-Repository: [UD_Kurmanji-MG](https://github.com/UniversalDependencies/UD_Kurmanji-MG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Repository: [UD_Northern_Kurdish-Kurmanji](https://github.com/UniversalDependencies/UD_Northern_Kurdish-Kurmanji)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_kurmanji217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
 Genre: fiction, wiki
 
 Questions, comments?
-General annotation questions (either Kurmanji-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Kurmanji-MG/issues).
+General annotation questions (either Northern Kurdish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Northern_Kurdish-Kurmanji/issues).
 If you want to collaborate, please contact [memduhg&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com ftyers&nbsp;(æt)&nbsp;hse&nbsp;•&nbsp;ru].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -44,12 +44,12 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The UD Kurmanji corpus is a corpus of Kurmanji Kurdish. It contains fiction and encyclopaedic texts in
+The treebank is a corpus of Kurmanji Kurdish. It contains fiction and encyclopaedic texts in
 roughly equal measure. It has been annotated natively in accordance with the UD annotation scheme.
 
 
 
-UD Kurmanji is a Kurmanji (Northern Kurdish) treebank developed with the UD framework. It consists of a Sherlock Holmes story, "The Adventure of the Speckled Band", translated in 1944 by Celadet Bedirxan in the magazine Ronahi, and sentences from the Kurmanji Wikipedia.
+This is a Kurmanji (Northern Kurdish) treebank developed with the UD framework. It consists of a Sherlock Holmes story, "The Adventure of the Speckled Band", translated in 1944 by Celadet Bedirxan in the magazine Ronahi, and sentences from the Kurmanji Wikipedia.
 
 ## Acknowledgments
 
@@ -64,19 +64,19 @@ year = 2017
 }
 
 
-# Statistics of UD Kurmanji MG
+# Statistics of UD Northern Kurdish Kurmanji
 
 ## POS Tags
 
-[ADJ](kmr_mg-pos-ADJ.html) – [ADP](kmr_mg-pos-ADP.html) – [ADV](kmr_mg-pos-ADV.html) – [AUX](kmr_mg-pos-AUX.html) – [CCONJ](kmr_mg-pos-CCONJ.html) – [DET](kmr_mg-pos-DET.html) – [INTJ](kmr_mg-pos-INTJ.html) – [NOUN](kmr_mg-pos-NOUN.html) – [NUM](kmr_mg-pos-NUM.html) – [PART](kmr_mg-pos-PART.html) – [PRON](kmr_mg-pos-PRON.html) – [PROPN](kmr_mg-pos-PROPN.html) – [PUNCT](kmr_mg-pos-PUNCT.html) – [SCONJ](kmr_mg-pos-SCONJ.html) – [SYM](kmr_mg-pos-SYM.html) – [VERB](kmr_mg-pos-VERB.html) – [X](kmr_mg-pos-X.html)
+[ADJ](kmr_kurmanji-pos-ADJ.html) – [ADP](kmr_kurmanji-pos-ADP.html) – [ADV](kmr_kurmanji-pos-ADV.html) – [AUX](kmr_kurmanji-pos-AUX.html) – [CCONJ](kmr_kurmanji-pos-CCONJ.html) – [DET](kmr_kurmanji-pos-DET.html) – [INTJ](kmr_kurmanji-pos-INTJ.html) – [NOUN](kmr_kurmanji-pos-NOUN.html) – [NUM](kmr_kurmanji-pos-NUM.html) – [PART](kmr_kurmanji-pos-PART.html) – [PRON](kmr_kurmanji-pos-PRON.html) – [PROPN](kmr_kurmanji-pos-PROPN.html) – [PUNCT](kmr_kurmanji-pos-PUNCT.html) – [SCONJ](kmr_kurmanji-pos-SCONJ.html) – [SYM](kmr_kurmanji-pos-SYM.html) – [VERB](kmr_kurmanji-pos-VERB.html) – [X](kmr_kurmanji-pos-X.html)
 
 ## Features
 
-[AdpType](kmr_mg-feat-AdpType.html) – [Aspect](kmr_mg-feat-Aspect.html) – [Case](kmr_mg-feat-Case.html) – [Definite](kmr_mg-feat-Definite.html) – [Degree](kmr_mg-feat-Degree.html) – [Evident](kmr_mg-feat-Evident.html) – [Gender](kmr_mg-feat-Gender.html) – [Mood](kmr_mg-feat-Mood.html) – [Number](kmr_mg-feat-Number.html) – [NumType](kmr_mg-feat-NumType.html) – [Person](kmr_mg-feat-Person.html) – [Polarity](kmr_mg-feat-Polarity.html) – [PronType](kmr_mg-feat-PronType.html) – [Reflex](kmr_mg-feat-Reflex.html) – [Tense](kmr_mg-feat-Tense.html) – [Typo](kmr_mg-feat-Typo.html) – [VerbForm](kmr_mg-feat-VerbForm.html)
+[AdpType](kmr_kurmanji-feat-AdpType.html) – [Aspect](kmr_kurmanji-feat-Aspect.html) – [Case](kmr_kurmanji-feat-Case.html) – [Definite](kmr_kurmanji-feat-Definite.html) – [Degree](kmr_kurmanji-feat-Degree.html) – [Evident](kmr_kurmanji-feat-Evident.html) – [Gender](kmr_kurmanji-feat-Gender.html) – [Mood](kmr_kurmanji-feat-Mood.html) – [Number](kmr_kurmanji-feat-Number.html) – [NumType](kmr_kurmanji-feat-NumType.html) – [Person](kmr_kurmanji-feat-Person.html) – [Polarity](kmr_kurmanji-feat-Polarity.html) – [PronType](kmr_kurmanji-feat-PronType.html) – [Reflex](kmr_kurmanji-feat-Reflex.html) – [Tense](kmr_kurmanji-feat-Tense.html) – [Typo](kmr_kurmanji-feat-Typo.html) – [VerbForm](kmr_kurmanji-feat-VerbForm.html)
 
 ## Relations
 
-[acl](kmr_mg-dep-acl.html) – [advcl](kmr_mg-dep-advcl.html) – [advmod](kmr_mg-dep-advmod.html) – [advmod:neg](kmr_mg-dep-advmod-neg.html) – [amod](kmr_mg-dep-amod.html) – [appos](kmr_mg-dep-appos.html) – [aux](kmr_mg-dep-aux.html) – [case](kmr_mg-dep-case.html) – [cc](kmr_mg-dep-cc.html) – [ccomp](kmr_mg-dep-ccomp.html) – [compound](kmr_mg-dep-compound.html) – [compound:lvc](kmr_mg-dep-compound-lvc.html) – [compound:redup](kmr_mg-dep-compound-redup.html) – [conj](kmr_mg-dep-conj.html) – [cop](kmr_mg-dep-cop.html) – [csubj](kmr_mg-dep-csubj.html) – [dep](kmr_mg-dep-dep.html) – [det](kmr_mg-dep-det.html) – [discourse](kmr_mg-dep-discourse.html) – [dislocated](kmr_mg-dep-dislocated.html) – [fixed](kmr_mg-dep-fixed.html) – [flat](kmr_mg-dep-flat.html) – [mark](kmr_mg-dep-mark.html) – [nmod](kmr_mg-dep-nmod.html) – [nmod:poss](kmr_mg-dep-nmod-poss.html) – [nsubj](kmr_mg-dep-nsubj.html) – [nummod](kmr_mg-dep-nummod.html) – [obj](kmr_mg-dep-obj.html) – [obl](kmr_mg-dep-obl.html) – [obl:dat](kmr_mg-dep-obl-dat.html) – [orphan](kmr_mg-dep-orphan.html) – [parataxis](kmr_mg-dep-parataxis.html) – [punct](kmr_mg-dep-punct.html) – [root](kmr_mg-dep-root.html) – [xcomp](kmr_mg-dep-xcomp.html)
+[acl](kmr_kurmanji-dep-acl.html) – [advcl](kmr_kurmanji-dep-advcl.html) – [advmod](kmr_kurmanji-dep-advmod.html) – [advmod:neg](kmr_kurmanji-dep-advmod-neg.html) – [amod](kmr_kurmanji-dep-amod.html) – [appos](kmr_kurmanji-dep-appos.html) – [aux](kmr_kurmanji-dep-aux.html) – [case](kmr_kurmanji-dep-case.html) – [cc](kmr_kurmanji-dep-cc.html) – [ccomp](kmr_kurmanji-dep-ccomp.html) – [compound](kmr_kurmanji-dep-compound.html) – [compound:lvc](kmr_kurmanji-dep-compound-lvc.html) – [compound:redup](kmr_kurmanji-dep-compound-redup.html) – [conj](kmr_kurmanji-dep-conj.html) – [cop](kmr_kurmanji-dep-cop.html) – [csubj](kmr_kurmanji-dep-csubj.html) – [dep](kmr_kurmanji-dep-dep.html) – [det](kmr_kurmanji-dep-det.html) – [discourse](kmr_kurmanji-dep-discourse.html) – [dislocated](kmr_kurmanji-dep-dislocated.html) – [fixed](kmr_kurmanji-dep-fixed.html) – [flat](kmr_kurmanji-dep-flat.html) – [mark](kmr_kurmanji-dep-mark.html) – [nmod](kmr_kurmanji-dep-nmod.html) – [nmod:poss](kmr_kurmanji-dep-nmod-poss.html) – [nsubj](kmr_kurmanji-dep-nsubj.html) – [nummod](kmr_kurmanji-dep-nummod.html) – [obj](kmr_kurmanji-dep-obj.html) – [obl](kmr_kurmanji-dep-obl.html) – [obl:dat](kmr_kurmanji-dep-obl-dat.html) – [orphan](kmr_kurmanji-dep-orphan.html) – [parataxis](kmr_kurmanji-dep-parataxis.html) – [punct](kmr_kurmanji-dep-punct.html) – [root](kmr_kurmanji-dep-root.html) – [xcomp](kmr_kurmanji-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 

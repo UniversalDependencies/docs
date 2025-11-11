@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Thai-PUD: POS Tags: `PRON`
 
-There are 30 `PRON` lemmas (1%), 30 `PRON` types (1%) and 683 `PRON` tokens (3%).
+There are 29 `PRON` lemmas (1%), 29 `PRON` types (1%) and 684 `PRON` tokens (3%).
 Out of 16 observed tags, the rank of `PRON` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: เขา, กัน, เธอ, เรา, ฉัน, มัน, ที่, นี้, นี่, นั้น
 
 The 10 most frequent `PRON` types:  เขา, กัน, เธอ, เรา, ฉัน, มัน, ที่, นี้, นี่, นั้น
 
-The 10 most frequent ambiguous lemmas: เขา (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 187, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 14), กัน (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 88, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 2), ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 495, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), นี่ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 22, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), ผม (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 17, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 3), พระองค์ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 16, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 5), คุณ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), นั่น (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: เขา (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 187, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 14), กัน (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 88, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 2), ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 496, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), นี่ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 22, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), พระองค์ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 18, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 5), ผม (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 17, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 3), คุณ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), นั่น (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  เขา (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 187, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 14), กัน (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 88, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 2), ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 495, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), นี่ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 22, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), ผม (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 17, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 3), พระองค์ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 16, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 5), คุณ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), นั่น (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  เขา (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 187, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 14), กัน (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 88, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 2), ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 496, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), นี่ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 22, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), พระองค์ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 18, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 5), ผม (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 17, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 3), คุณ (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), นั่น (<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1)
 
 
 * เขา
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  เขา (<tt><a href="th_pud-pos-PRON.h
   * <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 88: เขา เล่ม เกม หนัก ๆ ได้ แต่ ก็ เล่น เกม เบา ๆ ได้ เช่น <b>กัน</b>
   * <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 2: วินทัวร์ เอง โผล่ มา ช่วง สั้น ๆ และ ถูก ถ่าย วิดีโอ ให้ เห็น ว่า เธอ ใส่ แว่น <b>กัน</b> แดด ก่อน ให้ สัมภาษณ์
 * ที่
-  * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 495: 5,000 ดอลลาร์ ต่อ คน สูง สุด ตาม <b>ที่</b> ได้รับ อนุญาต
+  * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 496: 5,000 ดอลลาร์ ต่อ คน สูง สุด ตาม <b>ที่</b> ได้รับ อนุญาต
   * <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126: ไม่ ใช่ ทุก คน <b>ที่</b> สามารถ อยู่ เหนือ มัน ได้
   * <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102: วัน <b>ที่</b> สาม ฉัน ก็ กลับ มา ใช้ อีไมโคร
   * <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30: เท่า <b>ที่</b> ผ่าน มา ซีรีส์ สอง ยัง ใช้ ได้ หรือเปล่า
@@ -38,12 +38,12 @@ The 10 most frequent ambiguous types:  เขา (<tt><a href="th_pud-pos-PRON.h
 * นั้น
   * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 74: เห็น ได้ ชัด ที่สุด เมื่อ ชื่อ ของ ดารา <b>นั้น</b> หา ยาก ตั้ง แต่ แรก
   * <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20: เดนนีเวิร์ก อยู่ ใน ความครอบครอง ของ เยอรมัน นับ แต่ <b>นั้น</b> มา
+* พระองค์
+  * <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 18: พระเจ้า จอร์จ ทรง ตื่นกลัว สิ่ง ที่ <b>พระองค์</b> ทอดพระเนตรเห็น จาก ศีลธรรม อัน หละหลวม
+  * <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 5: กษัตริย์ <b>พระองค์</b> แรก คือ พระเจ้า มอจเมียร์ ที่ 1 ( ครอง ราชย์ ปี 830 - 846 )
 * ผม
   * <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 17: “ <b>ผม</b> ชอบ พวก สี เขต ร้อน ” เขา กล่าว
   * <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 3: ตั้ง แต่ ใน อดีต ตลาด เส้น <b>ผม</b> นานา ชาติ มี มิติ ทาง การ เมือง เกี่ยวเนื่อง ด้วย มา ตลอด ทาร์โล กล่าว
-* พระองค์
-  * <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 16: พระเจ้า จอร์จ ทรง ตื่นกลัว สิ่ง ที่ <b>พระองค์</b> ทอดพระเนตรเห็น จาก ศีลธรรม อัน หละหลวม
-  * <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 5: กษัตริย์ <b>พระองค์</b> แรก คือ พระเจ้า มอจเมียร์ ที่ 1 ( ครอง ราชย์ ปี 830 - 846 )
 * คุณ
   * <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 15: <b>คุณ</b> ตบตี กับ นาฬิกา ปลุก ของ <b>คุณ</b> หรือเปล่า
   * <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2: การไต่สวน เริ่ม ใน เดือน มิถุนายน โดย เน้น ไป ที่ <b>คุณ</b> วินเทอร์คอร์น และ เฮอร์เบิร์ต ดีส ประธาน เจ้าหน้าที่ บริหาร ฝ่าย แบรนด์ ซึ่ง ยังคง ทำ งาน อยู่ กับ บริษัท ผลิต รถยนต์ ดังกล่าว
@@ -61,22 +61,22 @@ The 2nd highest number of forms (1) was observed with the lemma “You”: You.
 
 The 3rd highest number of forms (1) was observed with the lemma “กัน”: กัน.
 
-`PRON` occurs with 2 features: <tt><a href="th_pud-feat-Person.html">Person</a></tt> (446; 65% instances), <tt><a href="th_pud-feat-PronType.html">PronType</a></tt> (4; 1% instances)
+`PRON` occurs with 4 features: <tt><a href="th_pud-feat-PronType.html">PronType</a></tt> (684; 100% instances), <tt><a href="th_pud-feat-Person.html">Person</a></tt> (447; 65% instances), <tt><a href="th_pud-feat-Reflex.html">Reflex</a></tt> (26; 4% instances), <tt><a href="th_pud-feat-Foreign.html">Foreign</a></tt> (4; 1% instances)
 
-`PRON` occurs with 4 feature-value pairs: `Person=1`, `Person=2`, `Person=3`, `PronType=Int`
+`PRON` occurs with 11 feature-value pairs: `Foreign=Yes`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
-`PRON` occurs with 5 feature combinations.
-The most frequent feature combination is `Person=3` (324 tokens).
-Examples: เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์
+`PRON` occurs with 14 feature combinations.
+The most frequent feature combination is `Person=3|PronType=Prs` (311 tokens).
+Examples: เขา, เธอ, มัน, พระองค์
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 16 different relations: <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (254; 37% instances), <tt><a href="th_pud-dep-obl.html">obl</a></tt> (112; 16% instances), <tt><a href="th_pud-dep-nmod-poss.html">nmod:poss</a></tt> (81; 12% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (74; 11% instances), <tt><a href="th_pud-dep-compound.html">compound</a></tt> (71; 10% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (21; 3% instances), <tt><a href="th_pud-dep-obl-poss.html">obl:poss</a></tt> (16; 2% instances), <tt><a href="th_pud-dep-xcomp.html">xcomp</a></tt> (14; 2% instances), <tt><a href="th_pud-dep-root.html">root</a></tt> (12; 2% instances), <tt><a href="th_pud-dep-nmod.html">nmod</a></tt> (11; 2% instances), <tt><a href="th_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (7; 1% instances), <tt><a href="th_pud-dep-acl-relcl.html">acl:relcl</a></tt> (4; 1% instances), <tt><a href="th_pud-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 16 different relations: <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (255; 37% instances), <tt><a href="th_pud-dep-obl.html">obl</a></tt> (112; 16% instances), <tt><a href="th_pud-dep-nmod-poss.html">nmod:poss</a></tt> (81; 12% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (74; 11% instances), <tt><a href="th_pud-dep-compound.html">compound</a></tt> (71; 10% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (21; 3% instances), <tt><a href="th_pud-dep-obl-poss.html">obl:poss</a></tt> (16; 2% instances), <tt><a href="th_pud-dep-xcomp.html">xcomp</a></tt> (14; 2% instances), <tt><a href="th_pud-dep-root.html">root</a></tt> (12; 2% instances), <tt><a href="th_pud-dep-nmod.html">nmod</a></tt> (11; 2% instances), <tt><a href="th_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (7; 1% instances), <tt><a href="th_pud-dep-acl-relcl.html">acl:relcl</a></tt> (4; 1% instances), <tt><a href="th_pud-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 13 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (416; 61% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (179; 26% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (34; 5% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (14; 2% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (12; 2% instances),  (12; 2% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 13 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (417; 61% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (179; 26% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (34; 5% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (14; 2% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (12; 2% instances),  (12; 2% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-501 (73%) `PRON` nodes are leaves.
+502 (73%) `PRON` nodes are leaves.
 
 152 (22%) `PRON` nodes have one child.
 

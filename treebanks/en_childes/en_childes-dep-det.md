@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="en_childes-dep-det-predet.html">det:predet</a></tt>.
 
-13506 nodes (6%) are attached to their parents as `det`.
+18680 nodes (6%) are attached to their parents as `det`.
 
-13441 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23071227602547.
+18589 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22553533190578.
 
-The following 25 pairs of parts of speech are connected with `det`: <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (12453; 92% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (305; 2% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (237; 2% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (181; 1% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (117; 1% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (104; 1% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (23; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-DET.html">DET</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-DET.html">DET</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-PART.html">PART</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-X.html">X</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-X.html">X</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `det`: <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (17198; 92% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (358; 2% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (344; 2% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (282; 2% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (192; 1% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (163; 1% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (42; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="en_childes-pos-DET.html">DET</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-DET.html">DET</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-PART.html">PART</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-SYM.html">SYM</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-X.html">X</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-X.html">X</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,48 +24,42 @@ The following 25 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
 1	A	a	DET	DT	_	2	det	2:det	_
-2	world	world	NOUN	NN	_	0	root	0:root	_
-3	of	of	ADP	IN	_	4	case	4:case	_
-4	Easter	Easter	PROPN	NNP	_	2	nmod	2:nmod:of	SpaceAfter=No
-5	.	.	PUNCT	.	_	2	punct	2:punct	_
+2	present	present	NOUN	NN	_	0	root	0:root	SpaceAfter=No
+3	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 det	color:blue
-1	Let	let	VERB	VB	_	0	root	0:root	_
-2	me	I	PRON	PRP	_	1	obj	1:obj|3:nsubj:xsubj	_
-3	see	see	VERB	VB	_	1	xcomp	1:xcomp	_
-4	let	let	VERB	VB	_	1	parataxis	1:parataxis	_
-5	me	I	PRON	PRP	_	4	obj	4:obj|6:nsubj:xsubj	_
-6	see	see	VERB	VB	_	4	xcomp	4:xcomp	_
-7	let	let	VERB	VB	_	1	parataxis	1:parataxis	_
-8	me	I	PRON	PRP	_	7	obj	7:obj|9:nsubj:xsubj	_
-9	see	see	VERB	VB	_	7	xcomp	7:xcomp	_
-10	just	just	ADV	RB	_	12	advmod	12:advmod	_
-11	the	the	DET	DT	_	12	det	12:det	_
-12	same	same	ADJ	JJ	_	9	advmod	9:advmod	SpaceAfter=No
-13	.	.	PUNCT	.	_	1	punct	1:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det	color:blue
+1	We	we	PRON	PRP	_	2	nsubj	2:nsubj|4:nsubj:xsubj	_
+2	get	get	VERB	VBP	_	0	root	0:root	_
+3	to	to	PART	TO	_	4	mark	4:mark	_
+4	play	play	VERB	VB	_	2	xcomp	2:xcomp	_
+5	with	with	ADP	IN	_	7	case	7:case	_
+6	each	each	DET	DT	_	7	det	7:det	_
+7	other	other	ADJ	JJ	_	4	obl	4:obl:with	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 det	color:blue
-1	It	it	PRON	PRP	_	4	nsubj	4:nsubj	_
-2	's	be	AUX	VBZ	_	4	cop	4:cop	_
-3	a	a	DET	DT	_	4	det	4:det	_
-4	Steve	Steve	PROPN	NNP	_	0	root	0:root	SpaceAfter=No
-5	.	.	PUNCT	.	_	4	punct	4:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 det	color:blue
+1	You	you	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	took	take	VERB	VBD	_	0	root	0:root	_
+3	them	them	PRON	PRP	_	2	obj	2:obj	_
+4	all	all	DET	DT	_	3	det	3:det	_
+5	down	down	ADV	RB	_	2	advmod	2:advmod	SpaceAfter=No
+6	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

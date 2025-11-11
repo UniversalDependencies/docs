@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-174 nodes (1%) are attached to their parents as `ccomp`.
+188 nodes (1%) are attached to their parents as `ccomp`.
 
-168 instances of `ccomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.6551724137931.
+182 instances of `ccomp` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.50531914893617.
 
-The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (142; 82% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (12; 7% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (142; 76% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (12; 6% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -63,32 +63,30 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 ccomp	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	wordform=il
-2	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
-3	apparemment	apparemment	ADV	RB	_	4	advmod	_	_
-4	dit	dire	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	que	que	SCONJ	IN	_	9	mark	_	_
-6	c’	ce	PRON	PDEM	PronType=Dem	9	nsubj	_	SpaceAfter=No|wordform=c'
-7	était	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
-8	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	processus	processus	NOUN	NN	Gender=Masc|Number=Sing	4	ccomp	_	_
-10	politique	politique	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
-11	et	et	CCONJ	CC	_	15	cc	_	_
-12	qu’	que	ADP	IN	_	15	mark	_	SpaceAfter=No|wordform=qu'
-13	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-14	avait	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux:tense	_	_
-15	décidé	décider	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
-16	de	de	ADP	IN	_	20	mark	_	_
-17	ne	ne	ADV	RB	Polarity=Neg	20	advmod	_	_
-18	pas	pas	ADV	RB	Polarity=Neg	20	advmod	_	_
-19	être	être	AUX	VB	VerbForm=Inf	20	cop	_	_
-20	présent	présent	ADJ	JJ	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
-21	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 13 ccomp	color:blue
+1	Ronald	Ronald	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Reagan	Reagan	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
+3	croyait	croire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	IN	_	7	mark	_	_
+5	Dieu	Dieu	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	avait	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux:tense	_	_
+7	épargné	épargner	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_
+8	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	9	det	_	_
+9	vie	vie	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
+10	afin	afin	ADV	IN	_	7	advmod	_	_
+11	qu'	que	SCONJ	IN	_	13	mark	_	SpaceAfter=No
+12	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	puisse	pouvoir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+14	accomplir	accomplir	VERB	VB	VerbForm=Inf	13	xcomp	_	_
+15	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	objectif	objectif	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
+17	plus	plus	ADV	RBR	_	18	advmod	_	_
+18	grand	grand	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

@@ -88,11 +88,11 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 9	nestanoví	stanovit	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	4:advcl:pokud	_
 10	jinak	jinak	ADV	Db-------------	_	9	advmod	9:advmod	SpaceAfter=No
 11	:	:	PUNCT	Z:-------------	_	44	punct	44:punct	_
-12	a)	a)	X	X@-------------	_	14	obl	14:obl|16:obl	_
+12	a)	a)	X	X@-------------	_	14	nmod	14:nmod|16:nmod	_
 13	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	14	case	14:case|16:case	LId=v-1
-14	deníku	deník	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	44	obl	23:obl:v:loc|32:obl:arg:ins|44:obl:v:loc|60:obl:v:loc|75:obl:v:loc	_
+14	deníku	deník	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	44	nmod	23:obl:v:loc|32:obl:arg:ins|44:nmod:v:loc|60:nmod:v:loc|75:nmod:v:loc	_
 15	(	(	PUNCT	Z:-------------	_	16	punct	16:punct	SpaceAfter=No
-16	denících	deník	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	conj	14:conj|23:obl:v:loc|32:obl:arg:ins|44:obl:v:loc|60:obl:v:loc|75:obl:v:loc	SpaceAfter=No
+16	denících	deník	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	conj	14:conj|23:obl:v:loc|32:obl:arg:ins|44:nmod:v:loc|60:nmod:v:loc|75:nmod:v:loc	SpaceAfter=No
 17	)	)	PUNCT	Z:-------------	_	16	punct	16:punct	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	23	punct	23:punct	_
 19	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	20	case	20:case	LId=v-1
@@ -117,7 +117,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 38	účetním	účetní	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	39	amod	39:amod	LId=účetní-1
 39	období	období	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing	33	nmod	33:nmod:v:loc	SpaceAfter=No
 40	,	,	PUNCT	Z:-------------	_	44	punct	44:punct	_
-41	b)	b)	X	X@-------------	_	44	obl	44:obl	_
+41	b)	b)	X	X@-------------	_	44	nmod	44:nmod	_
 42	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	44	case	44:case	LId=v-1
 43	hlavní	hlavní	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	44	amod	44:amod	_
 44	knize	kniha	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing	9	obl	9:obl:v:loc|50:obl:v:loc	SpaceAfter=No

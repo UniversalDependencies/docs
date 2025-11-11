@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-521 nodes (1%) are attached to their parents as `amod`.
+1121 nodes (2%) are attached to their parents as `amod`.
 
-348 instances of `amod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24568138195777.
+642 instances of `amod` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1935771632471.
 
-The following 4 pairs of parts of speech are connected with `amod`: <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (443; 85% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (66; 13% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The following 4 pairs of parts of speech are connected with `amod`: <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (1029; 92% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (69; 6% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (21; 2% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -64,31 +64,27 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 amod	color:blue
-1	Sur	sur	ADP	_	_	3	case	_	gold_pos=ADP|prpos=S|uppos=P
-2	laquelle	lequel	DET	_	_	3	det	_	gold_pos=DET|prpos=Dr|uppos=WD
-3	choze	chose	NOUN	_	_	7	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-4	ladite	ledit	DET	_	Definite=Ind	5	det	_	gold_pos=DET|prpos=Di|uppos=D
-5	Françoize	Françoise	PROPN	_	Number=Plur	7	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-6	luy	il	PRON	_	PronType=Prs	7	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-7	dyst	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-8	que	que	SCONJ	_	_	10	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
-9	elle	il	PRON	_	PronType=Prs	10	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-10	airoet	avoir	VERB	_	VerbForm=Fin	7	ccomp	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
-11	elle	il	PRON	_	PronType=Prs	10	dislocated	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-12	mesme	même	ADJ	_	_	11	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
-13	du	du	DET	_	Definite=Ind	14	det	_	gold_pos=DET|prpos=Dp|uppos=D
-14	travaill	travail	NOUN	_	_	10	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-15	assés	assez	ADV	_	_	10	advmod	_	gold_pos=ADV|prpos=Rg|uppos=Q
-16	pour	pour	ADP	_	_	19	case	_	gold_pos=ADP|prpos=S|uppos=P
-17	touttes	tout	DET	_	Definite=Ind	19	det	_	gold_pos=DET|prpos=Di|uppos=Q
-18	les	le	DET	_	Definite=Def	19	det	_	gold_pos=DET|prpos=Da|uppos=D
-19	aultres	autre	PRON	_	PronType=Ind	15	obl	_	gold_pos=PRON|prpos=Pi|SpaceAfter=No|uppos=PRO
-20	.	.	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 amod	color:blue
+1	Cest	ce	DET	D	PronType=Dem	2	det	_	prpos=Dd
+2	Aduocat	avocat	NOUN	NCS	Number=Sing	10	nsubj	_	prpos=Nc
+3	ny	ni	CCONJ	CONJO	_	4	cc	_	prpos=Cc
+4	autre	autre	PRON	PRO	_	2	conj	_	prpos=Pi
+5	quelconque	quelconque	ADJ	ADJ	_	4	amod	_	prpos=Ag
+6	de	de	ADP	P	_	8	case	_	prpos=S
+7	sa	son	DET	DZ	Poss=Yes	8	det	_	prpos=Ds
+8	qualité	qualité	NOUN	NCS	Number=Sing	4	nmod	_	prpos=Nc
+9	ne	ne	ADV	NEG	_	10	advmod	_	prpos=Rp
+10	doit	devoir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+11	se	se	PRON	PRO	PronType=Prs	12	expl	_	prpos=Pp
+12	complaindre	complaindre	VERB	VX	VerbForm=Inf	10	xcomp	_	prpos=Vvn
+13	de	de	ADP	P	_	15	case	_	prpos=S
+14	tel	tel	ADJ	ADJ	_	15	amod	_	prpos=Ag
+15	reglement	règlement	NOUN	NCS	Number=Sing	12	obl	_	prpos=Nc|SpaceAfter=No
+16	:	:	PUNCT	PON	_	10	punct	_	join=left|prpos=Fw
 
 ~~~
 

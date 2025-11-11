@@ -20,8 +20,8 @@ The feature is used with 7 part-of-speech tags: <tt><a href="en_gumreddit-pos-NO
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (688; 26% of non-empty `Number`): <em>_</em>
-* `Ptan` (13; 0% of non-empty `Number`): <em>_</em>
+* `Plur` (691; 26% of non-empty `Number`): <em>_</em>
+* `Ptan` (10; 0% of non-empty `Number`): <em>_</em>
 * `Sing` (1956; 74% of non-empty `Number`): <em>_</em>
 
 ### `PRON`
@@ -97,11 +97,11 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="en_gumreddit-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (403; 51%),
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (185; 66%),
-<tt>NOUN --[<tt><a href="en_gumreddit-dep-compound.html">compound</a></tt>]--> NOUN</tt> (181; 73%),
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (181; 69%),
-<tt>VERB --[<tt><a href="en_gumreddit-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (176; 66%),
+<tt>NOUN --[<tt><a href="en_gumreddit-dep-compound.html">compound</a></tt>]--> NOUN</tt> (180; 73%),
+<tt>VERB --[<tt><a href="en_gumreddit-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (177; 66%),
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-cop.html">cop</a></tt>]--> AUX</tt> (122; 66%),
-<tt>NOUN --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> NOUN</tt> (110; 76%),
+<tt>NOUN --[<tt><a href="en_gumreddit-dep-conj.html">conj</a></tt>]--> NOUN</tt> (111; 77%),
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (77; 79%),
 <tt>NOUN --[<tt><a href="en_gumreddit-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (70; 50%),
 <tt>PROPN --[<tt><a href="en_gumreddit-dep-flat.html">flat</a></tt>]--> PROPN</tt> (30; 100%).

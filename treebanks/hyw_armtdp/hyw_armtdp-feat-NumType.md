@@ -10,15 +10,15 @@ This feature is universal.
 It occurs with 4 different values: `Card`, `Dist`, `Frac`, `Ord`.
 
 1353 tokens (1%) have a non-empty value of `NumType`.
-319 types (1%) occur at least once with a non-empty value of `NumType`.
-286 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+318 types (1%) occur at least once with a non-empty value of `NumType`.
+285 lemmas (2%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1082; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (271; 0% instances).
 
 ### `NUM`
 
 1082 <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="hyw_armtdp-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (606; 56%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="hyw_armtdp-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (605; 56%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 * `Dist` (10; 1% of non-empty `NumType`): <em>8, մէյմէկ</em>
 * `Frac` (31; 3% of non-empty `NumType`): <em>կէս, երկուքուկէս, քառորդ, մէկուկէս, 1,3, 1,5, 1,62, 12,5, 203,2, 5,5</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (234) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (233) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 * `Card` (4; 1% of non-empty `NumType`): <em>եօթանասուննոց, երկուքուկէսնոց, ութսուննոց</em>
 * `Dist` (2; 1% of non-empty `NumType`): <em>մէկական</em>
 * `Ord` (265; 98% of non-empty `NumType`): <em>առաջին, երկրորդ, Բ, Ա, երրորդ, առջի, Գ, ԺԹ, չորրորդ, 113-րդ</em>
-* `EMPTY` (9358): <em>մեծ, նոր, կարելի, վերջին, ազգային, հայ, տարբեր, քաղաքական, կարեւոր, շատ</em>
+* `EMPTY` (9333): <em>մեծ, նոր, կարելի, վերջին, ազգային, հայ, տարբեր, քաղաքական, կարեւոր, շատ</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (53) occur only with one value of `NumType`.
 

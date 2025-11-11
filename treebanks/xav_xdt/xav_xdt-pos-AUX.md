@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Xavante-XDT: POS Tags: `AUX`
 
-There are 6 `AUX` lemmas (1%), 7 `AUX` types (1%) and 235 `AUX` tokens (11%).
+There are 6 `AUX` lemmas (1%), 7 `AUX` types (1%) and 239 `AUX` tokens (11%).
 Out of 15 observed tags, the rank of `AUX` is: 10 in number of lemmas, 9 in number of types and 5 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>te, di, wa, ma, ma'ãpé, mo</em>
 
 The 10 most frequent `AUX` types:  <em>te, di, wa, ma, ma'ãpé, wate, mo</em>
 
-The 10 most frequent ambiguous lemmas: <em>te</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 188, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 5, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>di</em> (<tt><a href="xav_xdt-pos-X.html">X</a></tt> 24, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 18, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2), <em>wa</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 47, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 13, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 32, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 20, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 2), <em>mo</em> (<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 21, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>te</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 188, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 5, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>di</em> (<tt><a href="xav_xdt-pos-X.html">X</a></tt> 23, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 19, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2), <em>wa</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 46, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 16, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 32, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 20, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 2), <em>mo</em> (<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 21, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 185, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 5, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>di</em> (<tt><a href="xav_xdt-pos-X.html">X</a></tt> 24, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 18, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2), <em>wa</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 25, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 13, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 31, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 13, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>wate</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>mo</em> (<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 21, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 185, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 5, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>di</em> (<tt><a href="xav_xdt-pos-X.html">X</a></tt> 23, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 19, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2), <em>wa</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 22, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 16, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 31, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 13, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>wate</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>mo</em> (<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 21, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 1)
 
 
 * <em>te</em>
@@ -25,12 +25,12 @@ The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="xav_xdt-pos-AUX
   * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1: <em>ĩĩmama <b>te</b> wapsã</em>
   * <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1: <em>Ane a'uwẽ marĩ ĩwẽ na <b>te</b> ĩhöibatéb ma te 're waihu'u za'ra , 're prédub za'ra da .</em>
 * <em>di</em>
-  * <tt><a href="xav_xdt-pos-X.html">X</a></tt> 24: <em>E te ĩsadanharĩ za'ra wa'wa warazu hã marĩ na ? Mare <b>di</b> .</em>
-  * <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 18: <em>baʔõtõ norĩ ma robzeiʔõ <b>di</b></em>
+  * <tt><a href="xav_xdt-pos-X.html">X</a></tt> 23: <em>E te ĩsadanharĩ za'ra wa'wa warazu hã marĩ na ? Mare <b>di</b> .</em>
+  * <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 19: <em>baʔõtõ norĩ ma robzeiʔõ <b>di</b></em>
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2: <em>Uwaj'rewawẽ zahadu tete <b>di</b></em>
 * <em>wa</em>
-  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 25: <em><b>wa</b> norĩ hã wa te sawi õ di</em>
-  * <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 13: <em>wa norĩ hã <b>wa</b> te sawi õ di</em>
+  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 22: <em><b>wa</b> norĩ hã wa te sawi õ di</em>
+  * <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 16: <em>wa norĩ hã <b>wa</b> te sawi õ di</em>
   * <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Tsô wara <b>wa</b> te tiwi wara .</em>
   * <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1: <em>Ni'wa aibö wei mori wamhã , uburé abaze hã te za tãma sõmri za'ra , sõpru <b>wa</b> .</em>
   * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1: <em>Taha <b>wa</b> te mararé 're sõtõ za'ra aptö'ö te .</em>
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>te</em> (<tt><a href="xav_xdt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.166667 (the average of all parts of speech is 1.232409).
+The form / lemma ratio of `AUX` is 1.166667 (the average of all parts of speech is 1.229787).
 
 The 1st highest number of forms (2) was observed with the lemma “te”: <em>te, wate</em>.
 
@@ -57,7 +57,7 @@ The 2nd highest number of forms (1) was observed with the lemma “di”: <em>di
 
 The 3rd highest number of forms (1) was observed with the lemma “ma”: <em>ma</em>.
 
-`AUX` occurs with 4 features: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt> (168; 71% instances), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt> (53; 23% instances), <tt><a href="xav_xdt-feat-Ergative.html">Ergative</a></tt> (8; 3% instances), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt> (3; 1% instances)
+`AUX` occurs with 4 features: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt> (171; 72% instances), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt> (53; 22% instances), <tt><a href="xav_xdt-feat-Ergative.html">Ergative</a></tt> (8; 3% instances), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt> (3; 1% instances)
 
 `AUX` occurs with 6 feature-value pairs: `Ergative=Yes`, `Number=Plur`, `Person=1`, `Person=Non1`, `Tense=Past`, `Tense=Pres`
 
@@ -68,11 +68,11 @@ Examples: <em>te, ma</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="xav_xdt-dep-dep.html">dep</a></tt> (118; 50% instances), <tt><a href="xav_xdt-dep-aux.html">aux</a></tt> (95; 40% instances), <tt><a href="xav_xdt-dep-cop.html">cop</a></tt> (15; 6% instances), <tt><a href="xav_xdt-dep-dislocated.html">dislocated</a></tt> (3; 1% instances), <tt><a href="xav_xdt-dep-flat.html">flat</a></tt> (2; 1% instances), <tt><a href="xav_xdt-dep-nsubj.html">nsubj</a></tt> (2; 1% instances)
+`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="xav_xdt-dep-dep.html">dep</a></tt> (121; 51% instances), <tt><a href="xav_xdt-dep-aux.html">aux</a></tt> (95; 40% instances), <tt><a href="xav_xdt-dep-cop.html">cop</a></tt> (15; 6% instances), <tt><a href="xav_xdt-dep-dislocated.html">dislocated</a></tt> (3; 1% instances), <tt><a href="xav_xdt-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="xav_xdt-dep-flat.html">flat</a></tt> (2; 1% instances)
 
-Parents of `AUX` nodes belong to 4 different parts of speech: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (222; 94% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (10; 4% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 4 different parts of speech: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (225; 94% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-232 (99%) `AUX` nodes are leaves.
+236 (99%) `AUX` nodes are leaves.
 
 3 (1%) `AUX` nodes have one child.
 

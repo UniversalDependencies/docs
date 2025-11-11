@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	information	information	NOUN	SG-NOM	Number=Sing	7	nsubj:pass	_	_
 3	about	about	ADP	_	_	4	case	_	_
 4	XML	XML	PROPN	SG-NOM	Number=Sing	2	nmod	_	_
-5	can	can	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+5	can	can	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	7	aux	_	_
 6	be	be	AUX	INF	VerbForm=Inf	7	aux:pass	_	_
 7	found	find	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 8	on	on	ADP	_	_	11	case	_	_

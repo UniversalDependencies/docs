@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Phrygian-KUL: POS Tags: `ADV`
 
 There are 6 `ADV` lemmas (2%), 12 `ADV` types (2%) and 16 `ADV` tokens (1%).
-Out of 15 observed tags, the rank of `ADV` is: 8 in number of lemmas, 12 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `ADV` is: 8 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>kakey, kan, υψοδαν, me2, εικ, ερα</em>
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>με</em> (<tt><a href="xpg_kul-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 2.000000 (the average of all parts of speech is 2.939024).
+The form / lemma ratio of `ADV` is 2.000000 (the average of all parts of speech is 2.934959).
 
 The 1st highest number of forms (5) was observed with the lemma “kakey”: <em>κα̣κε̣, κακε, κακεν, κακην, κακιν</em>.
 

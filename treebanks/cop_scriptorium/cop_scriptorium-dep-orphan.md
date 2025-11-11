@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 14 16 orphan	color:blue
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲙⲟⲩⲧⲉ	ⲙⲟⲩⲧⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+3	ⲙⲟⲩⲧⲉ	ⲙⲟⲩⲧⲉ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 4	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
 5	ⲙⲁⲁⲃⲧⲏ	ⲙⲁⲁⲃⲧⲏ	NUM	NUM	NumType=Card	7	nummod	_	Entity=(person|MSeg=ⲙⲁⲁⲃ-ⲧⲏ|Orig=ⲙⲁⲃⲧⲏ
 6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
@@ -67,7 +67,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 16	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	17	orphan	_	_
 17	ⲣⲉϥⲧⲱⲣⲡ	ⲣⲉϥⲧⲱⲣⲡ	NOUN	N	_	3	conj	_	Entity=(person)|MSeg=ⲣⲉϥ-ⲧⲱⲣⲡ
 18	ⲛⲁ	ⲛⲁ	AUX	FUT	_	19	aux	_	_
-19	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲓ|OrigLang=grc
+19	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲓ|OrigLang=grc
 20	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
 21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Entity=(abstract
 22	ⲙⲛⲧⲣⲣⲟ	ⲙⲛⲧⲣⲣⲟ	NOUN	N	_	19	obj	_	MSeg=ⲙⲛⲧ-ⲣⲣⲟ
@@ -89,7 +89,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 2	ⲟⲩⲛ	ⲟⲩⲛ	AUX	EXIST	_	5	aux	_	_
 3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	Entity=(person
 4	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	5	nsubj	_	Entity=person)
-5	ϫⲓϩⲁⲡ	ϫⲓϩⲁⲡ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ϫⲓ-ϩⲁⲡ
+5	ϫⲓϩⲁⲡ	ϫⲓϩⲁⲡ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ϫⲓ-ϩⲁⲡ
 6	ⲙⲛ	ⲙⲛ	ADP	PREP	_	8	case	_	_
 7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	Entity=(person
 8	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	5	obl	_	Entity=person)

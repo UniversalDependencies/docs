@@ -26,10 +26,10 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 2	Sektor	Sektor	NOUN	NN	Number=Sing	5	nsubj	_	_
 3	riil	riil	ADJ	JJ	_	2	amod	_	_
 4	sudah	sudah	AUX	MD	_	5	aux	_	_
-5	mulai	mulai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
-6	bangkit	bangkit	VERB	VB	Mood=Ind|Voice=Act	5	xcomp	_	_
+5	mulai	mulai	VERB	VB	Voice=Act	0	root	_	_
+6	bangkit	bangkit	VERB	VB	Voice=Act	5	xcomp	_	_
 7	yang	yang	PRON	IN	PronType=Rel	8	nsubj:pass	_	_
-8	tercermin	tercermin	VERB	VB	Mood=Ind|Voice=Pass	6	advcl	_	_
+8	tercermin	tercermin	VERB	VB	Voice=Pass	6	advcl	_	_
 9	dari	dari	ADP	IN	_	11	case	_	_
 10	berbagai	berbagai	DET	DT	Number=Plur|PronType=Ind	11	det	_	_
 11	indikator	indikator	NOUN	NN	Number=Sing	8	obl	_	_
@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 16	sektor	sektor	NOUN	NN	Number=Sing	13	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	5	punct	_	SpaceAfter=No
 18	"	"	PUNCT	''	_	5	punct	_	_
-19	kata	kata	VERB	VB	Mood=Ind|Voice=Act	5	parataxis	_	_
+19	kata	kata	VERB	VB	Voice=Act	5	parataxis	_	_
 20	Menko	Menko	PROPN	NNP	_	5	obl	_	_
 21	Perekonomian	Perekonomian	PROPN	NNP	_	20	flat:name	_	_
 22	Boediono	Boediono	PROPN	NNP	_	20	flat:name	_	SpaceAfter=No
@@ -79,14 +79,14 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	saham	saham	NOUN	NN	Number=Sing	2	nmod	_	_
 5	atau	atau	CCONJ	CC	_	7	cc	_	_
 6	yang	yang	PRON	IN	PronType=Rel	7	nsubj	_	_
-7	merupakan	rupa	VERB	VB	Mood=Ind|Voice=Act	4	conj	_	_
+7	merupakan	rupa	VERB	VB	Voice=Act	4	conj	_	_
 8	70	70	NUM	CD	NumType=Card	9	nummod	_	_
 9	persen	persen	NOUN	NN	Number=Sing	7	obj	_	_
 10	saham	saham	NOUN	NN	Number=Sing	9	nmod	_	_
 11	PT	PT	PROPN	NNP	_	10	nmod	_	_
 12	Chandra	Chandra	PROPN	NNP	_	11	flat:name	_	_
 13	Asri	Asri	PROPN	NNP	_	11	flat:name	_	_
-14	dilakukan	laku	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+14	dilakukan	laku	VERB	VB	Voice=Pass	0	root	_	_
 15	baik	baik	CCONJ	CC	_	17	cc:preconj	_	_
 16	melalui	lalu	ADP	IN	_	17	case	_	_
 17	pembelian	beli	NOUN	NN	Number=Sing	14	obl	_	_
@@ -96,7 +96,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 21	langsung	langsung	ADV	RB	_	17	conj	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	14	punct	_	SpaceAfter=No
 23	"	"	PUNCT	''	_	14	punct	_	_
-24	kata	kata	VERB	VB	Mood=Ind|Voice=Act	14	parataxis	_	_
+24	kata	kata	VERB	VB	Voice=Act	14	parataxis	_	_
 25	Direktur	Direktur	NOUN	NN	Number=Sing	24	nsubj	_	_
 26	Utama	Utama	ADJ	JJ	_	25	amod	_	_
 27	Barito	Barito	PROPN	NNP	_	25	nmod	_	_
@@ -128,7 +128,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	maupun	maupun	CCONJ	CC	_	6	cc	_	_
 6	Pinnacle	Pinnacle	PROPN	NNP	_	3	conj	_	_
 7	belum	belum	PART	RP	Polarity=Neg	8	advmod	_	_
-8	memberikan	beri	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+8	memberikan	beri	VERB	VB	Voice=Act	0	root	_	_
 9	keterangan	terang	NOUN	NN	Number=Sing	8	obj	_	_
 10	apa	apa	PRON	WP	PronType=Rel	9	nmod	_	_
 11	pun	pun	PART	RP	_	10	advmod:emph	_	SpaceAfter=No

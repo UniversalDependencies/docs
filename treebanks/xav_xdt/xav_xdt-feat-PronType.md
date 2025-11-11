@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-PRON.ht
 
 ### `PRON`
 
-34 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (27% of all `PRON` tokens) have a non-empty value of `PronType`.
+34 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (26% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (32; 94%), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (29; 85%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (26; 76%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25; 74%).
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (2; 6% of non-empty `PronType`): <em>'wa</em>
 * `Prs` (11; 32% of non-empty `PronType`): <em>wa, Õhã, Wahã, Waãma, anorĩ, wate</em>
 * `Tot` (8; 24% of non-empty `PronType`): <em>aihini, uburé</em>
-* `EMPTY` (94): <em>wa, wahã, aima, tãma, wanorĩhã, Taha, ahã, anorĩwa'wahã, hã, wama</em>
+* `EMPTY` (95): <em>wa, wahã, aima, tãma, hã, Taha, ahã, anorĩwa'wahã, wama, wanorĩhã</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 93% lemmas (14) occur only with one value of `PronType`.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-441 nodes (0%) are attached to their parents as `ccomp`.
+440 nodes (0%) are attached to their parents as `ccomp`.
 
-418 instances of `ccomp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.77097505668934.
+417 instances of `ccomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.725.
 
-The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (315; 71% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (36; 8% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (31; 7% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (23; 5% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (314; 71% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (36; 8% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (31; 7% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (23; 5% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,11 +24,11 @@ The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3 5 ccomp	color:blue
 1	Bahkan	bahkan	SCONJ	D--	_	3	mark	_	Morf=^bahkan<d>_D--$
 2	ia	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Morf=^ia<p>_PS3$
-3	menolak	tolak	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+tolak<v>_VSA$
+3	menolak	tolak	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+tolak<v>_VSA$
 4	telah	telah	AUX	D--	_	5	aux	_	Morf=^telah<d>_D--$
-5	menikah	nikah	VERB	VSA	Mood=Ind|Voice=Act	3	ccomp	_	Morf=^meN+nikah<v>_VSA$
+5	menikah	nikah	VERB	VSA	Voice=Act	3	ccomp	_	Morf=^meN+nikah<v>_VSA$
 6	dan	dan	CCONJ	H--	_	7	cc	_	Morf=^dan<h>_H--$
-7	memiliki	milik	VERB	VSA	Mood=Ind|Voice=Act	5	conj	_	Morf=^meN+milik<v>+i_VSA$
+7	memiliki	milik	VERB	VSA	Voice=Act	5	conj	_	Morf=^meN+milik<v>+i_VSA$
 8	anak	anak	NOUN	NSD	Number=Sing	7	obj	_	Morf=^anak<n>_NSD$
 9	dari	dari	ADP	R--	_	10	case	_	Morf=^dari<r>_R--$
 10	Sakuntala	sakuntala	PROPN	X--	_	8	nmod	_	SpaceAfter=No|Morf=^sakuntala<x>_X--$
@@ -58,7 +58,7 @@ The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 13	orang	orang	NOUN	NSD	Number=Sing	11	obl	_	Morf=^orang<n>_NSD$
 14	tua	tua	NOUN	ASP	_	13	compound	_	Morf=^tua<a>_ASP$
 15	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	14	nmod:poss	_	Morf=^dia<p>_PS3$
-16	bercerai	cerai	VERB	VSA	Mood=Ind|Voice=Act	14	ccomp	_	SpaceAfter=No|Morf=^ber+cerai<v>_VSA$
+16	bercerai	cerai	VERB	VSA	Voice=Act	14	ccomp	_	SpaceAfter=No|Morf=^ber+cerai<v>_VSA$
 17	.	.	PUNCT	Z--	_	11	punct	_	Morf=^.<z>_Z--$
 
 ~~~

@@ -9,10 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-7 tokens (0%) have a non-empty value of `Typo`.
-6 types (1%) occur at least once with a non-empty value of `Typo`.
-5 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+8 tokens (0%) have a non-empty value of `Typo`.
+7 types (1%) occur at least once with a non-empty value of `Typo`.
+6 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+
+### `NOUN`
+
+4 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 75%).
+
+`NOUN` tokens may have the following values of `Typo`:
+
+* `Yes` (4; 100% of non-empty `Typo`): <em>Tuõddâr, pääiʹǩi, villjâs, Čääʹʒʒid</em>
 
 ### `ADV`
 
@@ -24,21 +34,11 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>nuʹt, nuʹt-i</em>
 
-### `NOUN`
-
-3 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 67%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 67%).
-
-`NOUN` tokens may have the following values of `Typo`:
-
-* `Yes` (3; 100% of non-empty `Typo`): <em>Tuõddâr, villjâs, Čääʹʒʒid</em>
-
 ### `VERB`
 
 1 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Pot</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Pot</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Typo`:
 

@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `aux:ex`: <tt><a hre
 2	ընդլայնել	ընդլայնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ëndlaynel|LTranslit=ëndlaynel
 3	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux:ex	_	Translit=enk’|LTranslit=em
 4	արևմտահայերենով	արևմտահայերեն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Coll	6	nmod:npmod	_	Translit=arewmtahayerenov|LTranslit=arewmtahayeren
-5	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	Translit=mer|LTranslit=menk’
+5	մեր	մեր	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	Translit=mer|LTranslit=mer
 6	հաղորդումների	հաղորդում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	7	nmod:poss	_	Translit=haġordowmneri|LTranslit=haġordowm
 7	շարքը	շարք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	obj	_	Translit=šark’ë|LTranslit=šark’|SpaceAfter=No
 8	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.

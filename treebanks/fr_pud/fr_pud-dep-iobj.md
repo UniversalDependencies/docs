@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-40 nodes (0%) are attached to their parents as `iobj`.
+41 nodes (0%) are attached to their parents as `iobj`.
 
-40 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.575.
+41 instances of `iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5609756097561.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (39; 98% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (40; 98% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 15	fgColor:white
 # visual-style 15 12 iobj	color:blue
 1	A	à	ADP	IN	_	3	case	_	wordform=à
-2	cette	ce	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+2	cette	ce	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	époque	époque	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 4	-là	là	ADV	RP	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
@@ -61,7 +61,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 22	Southsea	Southsea	PROPN	NNP	Number=Sing	18	obl	_	_
 23	(	(	PUNCT	(	_	28	punct	_	SpaceAfter=No
 24	où	où	PRON	WP	PronType=Rel	28	iobj	_	_
-25	cette	ce	DET	DT	Gender=Fem|Number=Sing	26	det	_	_
+25	cette	ce	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	26	det	_	_
 26	dernière	dernier	ADJ	JJ	Gender=Fem|Number=Sing	28	nsubj:pass	_	_
 27	était	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	aux:pass	_	_
 28	revenue	revenir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	acl:relcl	_	SpaceAfter=No

@@ -17,22 +17,19 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 cop	color:blue
-1	Hoan	hoa	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Tot	4	nsubj	4:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	4	aux	4:aux	_
-3	a	a	AUX	COP.PRS	Tense=Pres	4	cop	4:cop	_
-4	ǃgâi	ǃgâi	ADJ	_	_	0	root	0:root	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	4:punct	_
-6	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	7	det	7:det	_
-7	ǃnā-omsa	ǃnā-om	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	8:obj	_
-8	ǁnaraǃnâ	ǁnaraǃnâ	VERB	_	Voice=Act	9	xcomp	9:xcomp	_
-9	tsoatsoa	tsoatsoa	VERB	_	Voice=Act	4	parataxis	4:parataxis	_
-10	re	re	AUX	PDIR	Mood=Imp	9	aux	9:aux	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 cop	color:blue
+1	Ti	ti	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	hems	hem	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	8:nsubj	_
+3	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
+4	sa	sa	DET	2SG.POSS	Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+5	sa	_	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=2,3|PronType=Prs	8	obl	8:obl	_
+6	xu	xu	ADP	_	_	5	case	5:case	_
+7	a	a	AUX	COP.PRS	Tense=Pres	8	cop	8:cop	_
+8	ǀkhara	ǀkhara	ADJ	_	_	0	root	0:root	SpacesAfter=\n
 
 ~~~
 

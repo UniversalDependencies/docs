@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 2	العملة	عُملَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	LId=عُمْلَة_1
 3	المعدنية	مَعدِنِيّ	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=مَعْدِنِيّ_1
 4	ل	لِ	ADP	IN	_	0	root	_	LId=لِ-_1|SpaceAfter=No
-5	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	4	obj	_	_
+5	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	علاقة	عَلَاقَة	NOUN	NN	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nsubj	_	LId=عَلاقَة_1
 7	ب	بِ	ADP	IN	_	8	case	_	SpaceAfter=No
 8	مسألة	مَسأَلَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	6	nmod	_	LId=مَسْأَلَة_1
@@ -38,7 +38,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 14	و	وَ	CCONJ	CC	_	15	cc	_	SpaceAfter=No
 15	بنية	بِنيَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	9	conj	_	LId=بِنْيَة_1
 16	بيع	بَيع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	LId=بَيْع_1|SpaceAfter=No
-17	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	16	nmod	_	_
+17	ها	هُوَ	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
 18	ل	لِ	ADP	IN	_	19	case	_	SpaceAfter=No
 19	هواة	هاوِي	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	16	nmod	_	LId=هاوِي_1
 20	جمع	جَمع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	nmod	_	LId=جَمْع_1
@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	أن	أَنَّ	SCONJ	IN	_	10	mark	_	LId=أَنَّ_1
 6	الفيلم	فِيلم	NOUN	NN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	dislocated	_	LId=فِيلْم_1
 7	ما	مَا	PART	RP	_	10	compound:prt	_	LId=ما_1
-8	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	LId=هُوَ_1
+8	هو	هُوَ	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	LId=هُوَ_1
 9	إلا	إِلَّا	PART	RP	_	10	compound:prt	_	LId=إِلّا_1
 10	توازنٌ	تَوازُن	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	1	csubj	_	LId=تَوازُن_1
 11	هشٌ	هَشّ	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	10	amod	_	LId=هَشّ_1
@@ -87,22 +87,22 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 15	fgColor:white
 # visual-style 15 2 dislocated	color:blue
 1	إن	إِنَّ	PART	RP	_	15	compound:prt	_	LId=إِنَّ_1
-2	ما	ما	PRON	WP	Case=Acc	15	dislocated	_	LId=ما_1
-3	تقول	قَال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	2	acl:relcl	_	LId=قال-ُ_1|SpaceAfter=No
-4	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	obj	_	_
+2	ما	ما	PRON	WP	Case=Acc|PronType=Int	15	dislocated	_	LId=ما_1
+3	تقول	قَال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	LId=قال-ُ_1|SpaceAfter=No
+4	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 5	و	وَ	CCONJ	CC	_	6	cc	_	SpaceAfter=No
-6	ما	ما	PRON	WP	Case=Acc	2	conj	_	LId=ما_1
-7	تفعل	فَعَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	6	acl:relcl	_	LId=فَعَل-َ_1|SpaceAfter=No
-8	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	_	SpaceAfter=No
+6	ما	ما	PRON	WP	Case=Acc|PronType=Int	2	conj	_	LId=ما_1
+7	تفعل	فَعَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	LId=فَعَل-َ_1|SpaceAfter=No
+8	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No
 9	...	...	PUNCT	...	_	2	punct	_	LId=..._0
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1
 11	الواقع	وَاقِع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	LId=واقِع_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	LId=,_0
 13	إن	إِنَّ	PART	RP	_	15	compound:prt	_	LId=إِنَّ_1|SpaceAfter=No
-14	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	15	nsubj	_	_
+14	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 15	أمرٌ	أَمر	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=أَمْر_1
 16	لا	لَا	PART	RP	Polarity=Neg	17	advmod	_	LId=لا_1
-17	يصدق	صَدَّق	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	15	acl:relcl	_	LId=صَدَّق_1|SpaceAfter=No
+17	يصدق	صَدَّق	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	acl:relcl	_	LId=صَدَّق_1|SpaceAfter=No
 18	.	.	PUNCT	.	_	15	punct	_	LId=._0
 
 ~~~

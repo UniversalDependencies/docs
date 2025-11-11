@@ -9,19 +9,19 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADP`, `ADV`, `CCONJ`, `PRON`, `SCONJ`.
 
-734 tokens (0%) have a non-empty value of `ExtPos`.
-46 types (0%) occur at least once with a non-empty value of `ExtPos`.
-30 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (212; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (188; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (114; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (75; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (58; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (17; 0% instances).
+829 tokens (0%) have a non-empty value of `ExtPos`.
+50 types (0%) occur at least once with a non-empty value of `ExtPos`.
+33 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 9 part-of-speech tags: <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (211; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (193; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (114; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (94; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (75; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (55; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (17; 0% instances).
 
 ### `ADP`
 
-212 <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+211 <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (129; 61% of non-empty `ExtPos`): <em>out, because, as, off, up, On, instead</em>
-* `ADV` (54; 25% of non-empty `ExtPos`): <em>of, up, in, As</em>
+* `ADP` (128; 61% of non-empty `ExtPos`): <em>out, because, as, off, up, On</em>
+* `ADV` (54; 26% of non-empty `ExtPos`): <em>of, up, in, As</em>
 * `SCONJ` (29; 14% of non-empty `ExtPos`): <em>in</em>
 
 <table>
@@ -31,16 +31,16 @@ The feature is used with 8 part-of-speech tags: <tt><a href="en_gum-pos-ADP.html
 
 ### `ADV`
 
-188 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+193 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (188; 100%), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (155; 82%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (193; 100%), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (160; 83%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (19; 10% of non-empty `ExtPos`): <em>instead, prior, as, out, next</em>
-* `ADV` (68; 36% of non-empty `ExtPos`): <em>as, more, less, just, close</em>
-* `CCONJ` (74; 39% of non-empty `ExtPos`): <em>as, rather</em>
-* `SCONJ` (27; 14% of non-empty `ExtPos`): <em>instead, rather, As</em>
+* `ADP` (20; 10% of non-empty `ExtPos`): <em>instead, prior, as, out, next</em>
+* `ADV` (68; 35% of non-empty `ExtPos`): <em>as, more, less, just, close</em>
+* `CCONJ` (75; 39% of non-empty `ExtPos`): <em>as, rather</em>
+* `SCONJ` (30; 16% of non-empty `ExtPos`): <em>instead, rather, As</em>
 
 <table>
   <tr><th>Paradigm <i>as</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -64,6 +64,14 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
   <tr><td><tt></tt></td><td><em>such</em></td><td><em>such</em></td></tr>
 </table>
 
+### `SYM`
+
+94 <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> tokens (28% of all `SYM` tokens) have a non-empty value of `ExtPos`.
+
+`SYM` tokens may have the following values of `ExtPos`:
+
+* `ADP` (94; 100% of non-empty `ExtPos`): <em>–, -, /, :</em>
+
 ### `NOUN`
 
 75 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
@@ -76,11 +84,11 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 
 ### `SCONJ`
 
-58 <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+55 <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
 `SCONJ` tokens may have the following values of `ExtPos`:
 
-* `SCONJ` (58; 100% of non-empty `ExtPos`): <em>so, as, in, Instead</em>
+* `SCONJ` (55; 100% of non-empty `ExtPos`): <em>so, as, in</em>
 
 ### `VERB`
 

@@ -36,7 +36,7 @@ The following 1 pairs of parts of speech are connected with `orphan:objobl`: <tt
 11	خپور	خپور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	12	compound:lvc	_	Translit=xpor|LTranslit=xpor|Gloss=spread
 12	کولو	کول	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	9	conj	_	Translit=kawë́lo|LTranslit=kawë́l|Gloss=do
 13	وسیلې	وسیله	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	Translit=wasilé|LTranslit=wasilá|Gloss=tools
-14	لرلاى	لرل	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	48	advcl	_	Translit=larë́lây|LTranslit=larë́l|Gloss=had|SpaceAfter=No
+14	لرلای	لرل	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	48	advcl	_	Translit=larë́lây|LTranslit=larë́l|Gloss=had|SpaceAfter=No
 15	،	،	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,|Gloss=,
 16	يا	يا	CCONJ	_	_	25	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 17	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	25	nsubj	_	Translit=ye|LTranslit=ye|Gloss=it
@@ -58,12 +58,12 @@ The following 1 pairs of parts of speech are connected with `orphan:objobl`: <tt
 33	په	پۀ	ADP	_	Case=Loc	35	case	_	Translit=pë|LTranslit=pë|Gloss=to
 34	نورو	نور	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	35	amod	_	Translit=nóro|LTranslit=nor|Gloss=others
 35	ژبو	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	36	obl	_	Translit=žë́bo|LTranslit=žë́ba|Gloss=languages
-36	ژباړلاى	ژباړل	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	25	conj	_	Translit=žbâṛë́lây|LTranslit=žbâṛë́l|Gloss=translated|SpaceAfter=No
+36	ژباړلای	ژباړل	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	25	conj	_	Translit=žbâṛë́lây|LTranslit=žbâṛë́l|Gloss=translated|SpaceAfter=No
 37	،	،	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,|Gloss=,
 38	نن	نن	ADV	_	_	48	advmod	_	Translit=nën|LTranslit=nën|Gloss=today
 39	به	بۀ	AUX	_	_	48	aux:cnd	_	Translit=bë|LTranslit=bë|Gloss=would
 40	د	د	ADP	_	Case=Acc	42	case	_	Translit=dë|LTranslit=dë|Gloss=of
-41	دغسې	دغسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Long	42	det	_	Translit=dáġase|LTranslit=dáġase|Gloss=like-that
+41	دغسې	دغسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Long	42	det	_	Translit=dáġase|LTranslit=dáġase|Gloss=like-this
 42	خرافاتو	خرافه	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	46	nmod	_	Translit=xirâfấto|LTranslit=xirâfá|Gloss=myths
 43	او	او	CCONJ	_	_	45	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 44	لارورکوونکو	لارورکوونکی	ADJ	_	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	45	amod	_	Translit=lârwrëkawúnko|LTranslit=lârwrëkawúnkay|Gloss=stray
@@ -71,9 +71,9 @@ The following 1 pairs of parts of speech are connected with `orphan:objobl`: <tt
 46	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	48	obj	_	Translit=më́xa|LTranslit=më́xa|Gloss=way
 47	هم	هم	ADV	_	_	48	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
 48	نیول	نیول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=niwë́l|LTranslit=niwë́l|Gloss=catch
-49	کېداى	کېدل	AUX	_	Aspect=Imp|Mood=Cnd|Variant=Short|VerbForm=Fin	48	aux:pass	_	Translit=kedấy|LTranslit=kedë́l|Gloss=could
-50	شواى	کېدل	AUX	_	Aspect=Perf|Mood=Cnd|Variant=Short|VerbForm=Fin	48	aux:pot	_	Translit=šwây|LTranslit=kedë́l|Gloss=happen|SpaceAfter=No
-51	.	.	PUNCT	_	_	48	punct	_	Translit=.|LTranslit=.|Gloss=.
+49	کېدای	کېدل	AUX	_	Aspect=Imp|Mood=Cnd|Variant=Short|VerbForm=Fin	48	aux:pass	_	Translit=kedấy|LTranslit=kedë́l|Gloss=could
+50	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Cnd|Variant=Short|VerbForm=Fin	48	aux:pot	_	Translit=šwây|LTranslit=kedë́l|Gloss=happen|SpaceAfter=No
+51	.	.	PUNCT	_	_	48	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

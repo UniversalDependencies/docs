@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3483 nodes (5%) are attached to their parents as `root`.
+4584 nodes (5%) are attached to their parents as `root`.
 
-3483 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.47229399942578.
+4584 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.49629144851658.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3148; 90% instances), -<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (152; 4% instances), -<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (116; 3% instances), -<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (23; 1% instances), -<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (15; 0% instances), -<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (11; 0% instances), -<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (10; 0% instances), -<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="frm_profiterole-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="frm_profiterole-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (4129; 90% instances), -<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (207; 5% instances), -<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (150; 3% instances), -<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (36; 1% instances), -<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (23; 1% instances), -<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (17; 0% instances), -<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="frm_profiterole-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), -<tt><a href="frm_profiterole-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva.
 
 Repository: [UD_Finnish-OOD](https://github.com/UniversalDependencies/UD_Finnish-OOD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -1134,11 +1134,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (353)</li>
       <li>VERB-Fin--NOUN-Par (27)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Nom (131)</li>
+      <li>VERB-Fin--PRON-Nom (132)</li>
       <li>VERB-Fin--PRON-Par (6)</li>
       <li>VERB-Inf--NOUN-Ess (1)</li>
       <li>VERB-Inf--NOUN-Gen (12)</li>
-      <li>VERB-Inf--NOUN-Nom (24)</li>
+      <li>VERB-Inf--NOUN-Nom (25)</li>
       <li>VERB-Inf--NOUN-Par (7)</li>
       <li>VERB-Inf--PRON-Gen (8)</li>
       <li>VERB-Inf--PRON-Nom (7)</li>
@@ -1163,11 +1163,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Par (195)</li>
       <li>VERB-Fin--PRON-Acc (8)</li>
       <li>VERB-Fin--PRON-Gen (13)</li>
-      <li>VERB-Fin--PRON-Nom (13)</li>
+      <li>VERB-Fin--PRON-Nom (12)</li>
       <li>VERB-Fin--PRON-Par (48)</li>
-      <li>VERB-Inf--NOUN-Ela (1)</li>
       <li>VERB-Inf--NOUN-Gen (29)</li>
-      <li>VERB-Inf--NOUN-Nom (38)</li>
+      <li>VERB-Inf--NOUN-Nom (37)</li>
       <li>VERB-Inf--NOUN-Par (128)</li>
       <li>VERB-Inf--PRON-Gen (6)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>

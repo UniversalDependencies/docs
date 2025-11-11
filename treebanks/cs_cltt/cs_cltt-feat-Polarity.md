@@ -11,7 +11,7 @@ It occurs with 2 different values: `Neg`, `Pos`.
 
 9289 tokens (26%) have a non-empty value of `Polarity`.
 2213 types (48%) occur at least once with a non-empty value of `Polarity`.
-1016 lemmas (37%) occur at least once with a non-empty value of `Polarity`.
+1015 lemmas (37%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6600; 18% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1819; 5% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (594; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (276; 1% instances).
 
 ### `ADJ`
@@ -123,13 +123,13 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
   <tr><td><tt></tt></td><td><em>přímo</em></td><td><em>nepřímo</em></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `ADV`. 99% lemmas (81) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADV`. 99% lemmas (80) occur only with one value of `Polarity`.
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>ADJ --[<tt><a href="cs_cltt-dep-cop.html">cop</a></tt>]--> AUX</tt> (239; 82%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (195; 89%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (194; 89%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (181; 86%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (105; 81%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (99; 86%),

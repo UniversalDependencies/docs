@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Junghyun Min, Jena Hwang, Nathan Schneider.
 
 Repository: [UD_Korean-LittlePrince](https://github.com/UniversalDependencies/UD_Korean-LittlePrince)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_littleprince216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_littleprince217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -35,10 +35,10 @@ Development of the treebank happens directly in the UD repository, so you may su
 | Annotation | Source |
 |------------|--------|
 | Lemmas | assigned by a program, not checked manually |
-| UPOS | annotated manually, natively in UD style |
+| UPOS | assigned by a program, not checked manually |
 | XPOS | assigned by a program, not checked manually |
 | Features | assigned by a program, not checked manually |
-| Relations | annotated manually, natively in UD style |
+| Relations | assigned by a program, not checked manually |
 
 ## Description
 

@@ -9,36 +9,28 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ota_dudu-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="ota_dudu-dep-compound-lvc.html">compound:lvc</a></tt>.
 
-17 nodes (0%) are attached to their parents as `compound:redup`.
+28 nodes (0%) are attached to their parents as `compound:redup`.
 
-17 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05882352941176.
+28 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03571428571429.
 
-The following 6 pairs of parts of speech are connected with `compound:redup`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (8; 47% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (5; 29% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ota_dudu-pos-DET.html">DET</a></tt>-<tt><a href="ota_dudu-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `compound:redup`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (12; 43% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (7; 25% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="ota_dudu-pos-DET.html">DET</a></tt>-<tt><a href="ota_dudu-pos-DET.html">DET</a></tt> (2; 7% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 compound:redup	color:blue
-1	hemân	hemân	ADV	_	_	16	advmod	_	_
-2	ol	ol	DET	Demons	Definite=Def|PronType=Art	3	det	_	_
-3	gün	gün	NOUN	_	Case=Nom|Number=Sing|Person=3	16	obl:tmod	_	_
-4	yir	yir	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obl	_	_
-5	yirden	yir	NOUN	_	Case=Abl|Number=Sing|Person=3	4	compound:redup	_	_
-6	nidâ	nidâ	NOUN	_	Case=Nom|Number=Sing|Person=3	16	obj	_	_
-7	ve	ve	CCONJ	_	_	14	cc	_	_
-8	bu	bu	DET	Demons	Definite=Def|PronType=Art	9	det	_	_
-9	gice	gice	NOUN	_	Case=Nom|Number=Sing|Person=3	11	obl:tmod	_	_
-10	muḥkem	muḥkem	ADJ	Adj	_	11	amod	_	_
-11	yüriyiş	yüriyiş	NOUN	_	Case=Nom|Number=Sing|Person=3	14	ccomp	_	_
-12	dür	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
-13	diyü	diyü	ADP	PCNom	_	11	mark	_	_
-14	ṣadâlar	ṣadâ	NOUN	_	Case=Nom|Number=Plur|Person=3	6	conj	_	_
-15	ıṣġâ	ıṣġâ	NOUN	_	Case=Nom|Number=Sing|Person=3	16	compound:lvc	_	_
-16	ḳılındı	ḳıl	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 compound:redup	color:blue
+1	ıraḳda	ıraḳ	NOUN	_	Case=Loc|Number=Sing|Person=3	4	obl	_	_
+2	yaḳında	yaḳın	NOUN	_	Case=Loc|Number=Sing|Person=3	1	compound:redup	_	_
+3	kim	kim	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	4	nsubj	_	_
+4	varısa	var	VERB	_	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+5	bunuñ	bu	PRON	Demons	Case=Gen|Number=Sing|Person=3|PronType=Dem	6	nmod:poss	_	_
+6	şerrinden	şerr	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
+7	iḥtiyâṭ	iḥtiyâṭ	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+8	iderdi	it	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	7	compound:lvc	_	_
 
 ~~~
 
@@ -49,30 +41,32 @@ The following 6 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound:redup	color:blue
-1	ve	ve	CCONJ	_	_	6	cc	_	_
+1	ve	ve	CCONJ	_	_	5	cc	_	_
 2	aġır	aġır	ADJ	Adj	_	4	amod	_	_
 3	aġır	aġır	ADJ	Adj	_	2	compound:redup	_	_
-4	binâlara	binâ	NOUN	_	Case=Dat|Number=Plur|Person=3	6	obl	_	_
-5	ṣarf	ṣarf	NOUN	_	Case=Nom|Number=Sing|Person=3	6	compound:lvc	_	_
-6	itmezlerdi	it	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
+4	binâlara	binâ	NOUN	_	Case=Dat|Number=Plur|Person=3	5	obl	_	_
+5	ṣarf	ṣarf	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+6	itmezlerdi	it	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	5	compound:lvc	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 compound:redup	color:blue
-1	üzerine	üzer	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	obl	_	_
-2	türbe	türbe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	_	_
-3	binâ	binâ	NOUN	_	Case=Nom|Number=Sing|Person=3	4	compound:lvc	_	_
-4	olunup	ol	VERB	Conv	Polarity=Pos|VerbForm=Conv|Voice=Pass	8	advcl	_	_
-5	ara	ara	ADV	NAdj	_	8	advmod	_	_
-6	ṣıra	ṣıra	NOUN	_	Case=Nom|Number=Sing|Person=3	5	compound:redup	_	_
-7	taʿmîr	taʿmîr	NOUN	_	Case=Nom|Number=Sing|Person=3	8	compound:lvc	_	_
-8	edilmektedir	et	VERB	_	Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Pass	0	root	_	_
+# visual-style 6 7 compound:redup	color:blue
+1	maşrıḳ	maşrıḳ	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
+2	beginüñ	beg	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod:poss	_	_
+3	adı	ad	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
+4	ʿazâz	ʿazâz	PROPN	Pers	Case=Nom|Gender=Masc|NameType=Prs|Number=Sing|Person=3	0	root	_	_
+5	idi	y	AUX	Overt	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	4	cop	_	_
+6	ġâyetde	ġâyet	ADV	_	_	8	advmod	_	_
+7	ġâyetde	ġâyet	ADV	_	_	6	compound:redup	_	_
+8	bahâdur	bahâdur	ADJ	Adj	_	9	amod	_	_
+9	kişi	kişi	NOUN	_	Case=Nom|Number=Sing|Person=3	4	conj	_	_
+10	yidi	y	AUX	Zero	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	9	cop	_	_
 
 ~~~
 

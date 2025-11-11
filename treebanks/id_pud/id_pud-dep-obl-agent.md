@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 2	baru	baru	ADJ	_	_	1	amod	_	_
 3	ini	ini	DET	_	PronType=Dem	1	det	_	_
-4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	dipasok	pasok	VERB	_	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	_	_	6	case	_	_
 6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
 7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_
@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	Dingin	Dingin	PROPN	_	_	1	flat:name	_	_
 4	2019	2019	NUM	_	NumType=Card	1	nummod	_	_
 5	akan	akan	AUX	_	_	6	aux	_	_
-6	diselenggarakan	selenggara	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+6	diselenggarakan	selenggara	VERB	_	Voice=Pass	0	root	_	_
 7	oleh	oleh	ADP	_	_	8	case	_	_
 8	Krasnoyarsk	Krasnoyarsk	PROPN	_	_	6	obl:agent	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
@@ -66,11 +66,11 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	ponsel	ponsel	NOUN	_	Number=Sing	1	nmod	_	_
 3	cerdas	cerdas	ADJ	_	_	2	amod	_	_
 4	ini	ini	DET	_	PronType=Dem	1	det	_	_
-5	menerima	terima	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	menerima	terima	VERB	_	Voice=Act	0	root	_	_
 6	aplikasi	aplikasi	NOUN	_	Number=Sing	5	obj	_	_
 7	yang	yang	PRON	_	PronType=Rel	8	nsubj	_	_
 8	layak	layak	ADJ	_	_	6	acl:relcl	_	_
-9	dimiliki	milik	VERB	_	Mood=Ind|Voice=Pass	8	xcomp	_	_
+9	dimiliki	milik	VERB	_	Voice=Pass	8	xcomp	_	_
 10	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	9	obl:agent	_	_
 11	,	,	PUNCT	_	_	5	punct	_	_
 12	di	di	ADP	_	ExtPos=SCONJ	22	mark	_	MWEPOS=SCONJ
@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 19	situasi	situasi	NOUN	_	Number=Sing	22	nsubj	_	_
 20	paling	paling	ADV	_	_	21	advmod	_	_
 21	bodoh	bodoh	ADJ	_	_	19	amod	_	_
-22	menerima	terima	VERB	_	Mood=Ind|Voice=Act	5	advcl	_	_
+22	menerima	terima	VERB	_	Voice=Act	5	advcl	_	_
 23	jutaan	juta	NUM	_	NumType=Card	24	nummod	_	_
 24	pemirsa	pirsa	NOUN	_	Number=Sing	22	obj	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	5	punct	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `appos`.
+6 nodes (0%) are attached to their parents as `appos`.
 
-5 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.4.
+6 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
-The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (1; 20% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (1; 20% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (1; 20% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 6 pairs of parts of speech are connected with `appos`: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (1; 17% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (1; 17% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -66,18 +66,23 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 6 appos	color:blue
-1	Ba	ba	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
-2	Parisda	Paris	PROPN	_	Case=Abl|Number=Sing	3	obl	3:obl	_
-3	mathaikaie	mathaika	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	6:punct	_
-5	Franceva	France	PROPN	_	Case=Gen|Number=Sing	6	nmod:poss	6:nmod:poss	_
-6	capitalda	capital	NOUN	_	Case=Abl|Number=Sing	2	appos	2:appos	OrigLang=en|SpaceAfter=No
-7	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\s\n
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 appos	color:blue
+1	Bunan	bu	PRON	_	Case=Erg|Number=Plur|Person=3|PronType=Prs	4	obj	4:obj	_
+2	Soviet	Soviet	NOUN	_	Number=Sing	1	appos	1:appos	OrigLang=en
+3	spy	spy	NOUN	_	Number=Sing	2	flat	2:flat	OrigLang=en
+4	choklaha	chokla	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pqp|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	9:punct	_
+6	nahnnan	nahn	PRON	_	Case=Erg|Number=Sing|Person=2|PronType=Prs	9	nsubj	9:nsubj	_
+7	badi	ba	PRON	_	Case=Top|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj	_
+8	defend	defend	VERB	_	VerbForm=Inf	9	xcomp	9:xcomp	OrigLang=en
+9	the	the	VERB	_	VerbForm=Inf	4	conj	4:conj	_
+10	rahn	rahn	AUX	_	Aspect=Imp|Mood=Irr	9	aux	9:aux	_
+11	reha	reha	ADV	_	_	9	advmod	9:advmod	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 ~~~
 

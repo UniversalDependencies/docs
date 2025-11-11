@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (108354; 53% of non-empty `Aspect`): <em>может, значит, есть, говорит, могут, делать, мог, стоит, знаю, хочу</em>
 * `Perf` (94782; 47% of non-empty `Aspect`): <em>сказал, сказала, сказать, стал, стало, стали, стала, сделать, спросил, произнесла</em>
-* `EMPTY` (8496): <em>можно, есть, надо, нет, было, быть, нельзя, см., е., будет</em>
+* `EMPTY` (8510): <em>можно, есть, надо, нет, было, быть, нельзя, см., е., будет</em>
 
 <table>
   <tr><th>Paradigm <i>сказать</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>сказать</em></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 98% lemmas (10527) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 98% lemmas (10534) occur only with one value of `Aspect`.
 
 ### `AUX`
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (26247; 81%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (26246; 81%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (8668; 63%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-acl.html">acl</a></tt>]--> VERB</tt> (150; 69%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-obj.html">obj</a></tt>]--> VERB</tt> (73; 59%),

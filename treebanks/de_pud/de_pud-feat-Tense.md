@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-VERB.htm
 
 ### `VERB`
 
-1497 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
+1497 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1066; 71%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1033; 69%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 53%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (1011; 68% of non-empty `Tense`): <em>sagte, verwendet, wurde, begann, genutzt, war, veröffentlicht, errichtet, gegeben, gewählt</em>
 * `Pres` (486; 32% of non-empty `Tense`): <em>ist, hat, gibt, sagt, haben, liegt, steht, hilft, sind, beträgt</em>
-* `EMPTY` (481): <em>an, auf, aus, zurück, haben, ab, machen, werden, finden, geben</em>
+* `EMPTY` (373): <em>haben, machen, werden, finden, geben, schaffen, sehen, verlassen, bekommen, besuchen</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

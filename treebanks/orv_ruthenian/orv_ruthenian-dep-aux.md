@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="orv_ruthenian-dep-aux-pass.html">aux:pass</a></tt>.
 
-1135 nodes (1%) are attached to their parents as `aux`.
+1254 nodes (1%) are attached to their parents as `aux`.
 
-681 instances of `aux` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.79383259911894.
+789 instances of `aux` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.9792663476874.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1107; 98% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1217; 97% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,34 +36,6 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 11	его	онъ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	wf="его"
 12	земля	земля	NOUN	NNI	Case=Nom|Gender=Fem|Number=Sing	3	acl	_	wf="земля"|SpaceAfter=No
 13	.	.	PUNCT	-PERIOD-	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 14 aux	color:blue
-1	А	а	CCONJ	СС	_	5	cc	_	wf="А"
-2	мы	мы	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	wf="мы"
-3	к	къ	ADP	IN	_	4	case	_	wf="к"
-4	вам	вы	PRON	PRP	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	obl	_	wf="вам"
-5	послали	послати	VERB	VBC	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="послали"
-6	истьцевъ	истецъ	NOUN	NNA	Case=Gen|Gender=Masc|Number=Plur	5	obj	_	wf="истьцевъ"|SpaceAfter=No
-7	,	,	PUNCT	-COMMA-	_	11	punct	_	_
-8	хто	хто	PRON	WP	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	wf="хто"
-9	кому	хто	PRON	WP	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	11	iobj	_	wf="кому"
-10	будеть	быти	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	cop	_	wf="будеть"
-11	виноват	виноватый	ADJ	JJH	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	acl	_	wf="виноват"|SpaceAfter=No
-12	,	,	PUNCT	-COMMA-	_	11	punct	_	_
-13	ино	ино	CCONJ	СС	_	17	cc	_	wf="ино"
-14	бы	бы	AUX	RP	Analyt=Yes|Mood=Cnd	17	aux	_	wf="бы"
-15	тому	то	PRON	DT	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	17	iobj	_	wf="тому"
-16	было	быти	AUX	VBC	Analyt=Yes|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	17	cop	_	wf="было"
-17	право	право	NOUN	NNI	Case=Nom|Gender=Neut|Number=Sing	5	advcl	_	wf="право"|SpaceAfter=No
-18	.	.	PUNCT	-PERIOD-	_	5	punct	_	_
 
 ~~~
 
@@ -92,6 +64,34 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 16	полоцкии	полоцкий	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	wf="полоцкии"
 17	Кортени	Кортени	PROPN	NPA	Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	15	appos	_	wf="Кортени"|SpaceAfter=No
 18	.	.	PUNCT	-PERIOD-	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 14 aux	color:blue
+1	А	а	CCONJ	СС	_	5	cc	_	wf="А"
+2	мы	мы	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	wf="мы"
+3	к	къ	ADP	IN	_	4	case	_	wf="к"
+4	вам	вы	PRON	PRP	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	obl	_	wf="вам"
+5	послали	послати	VERB	VBC	Aspect=Perf|Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="послали"
+6	истьцевъ	истецъ	NOUN	NNA	Case=Gen|Gender=Masc|Number=Plur	5	obj	_	wf="истьцевъ"|SpaceAfter=No
+7	,	,	PUNCT	-COMMA-	_	11	punct	_	_
+8	хто	хто	PRON	WP	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	wf="хто"
+9	кому	хто	PRON	WP	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	11	iobj	_	wf="кому"
+10	будеть	быти	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	cop	_	wf="будеть"
+11	виноват	виноватый	ADJ	JJH	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	acl	_	wf="виноват"|SpaceAfter=No
+12	,	,	PUNCT	-COMMA-	_	11	punct	_	_
+13	ино	ино	CCONJ	СС	_	17	cc	_	wf="ино"
+14	бы	бы	AUX	RP	Analyt=Yes|Mood=Cnd	17	aux	_	wf="бы"
+15	тому	то	PRON	DT	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	17	iobj	_	wf="тому"
+16	было	быти	AUX	VBC	Analyt=Yes|Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	17	cop	_	wf="было"
+17	право	право	NOUN	NNI	Case=Nom|Gender=Neut|Number=Sing	5	advcl	_	wf="право"|SpaceAfter=No
+18	.	.	PUNCT	-PERIOD-	_	5	punct	_	_
 
 ~~~
 

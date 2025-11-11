@@ -39,7 +39,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	relicta	relinquo	VERB	B3	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl:abs	_	LiLaflcat=v3
 3	Strophius	strophius	PROPN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	7	nsubj	_	LASLAVariant=N|LiLaflcat=n2
 4	Elea	eleus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing	6	amod	_	LASLAVariant=A|LiLaflcat=n6
-5	inclutus	inclutus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	7	xcomp	_	LiLaflcat=n6
+5	inclutus	inclutus	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	7	advcl:pred	_	LiLaflcat=n6
 6	palma	palma	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	5	obl	_	LiLaflcat=n1
 7	reuertor	reuertor	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
 

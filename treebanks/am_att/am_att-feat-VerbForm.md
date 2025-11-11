@@ -42,21 +42,21 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (149; 100% of non-empty `VerbForm`): መሄድ, መምጣት, መሆን, መሥራት, መግደል, መክፈል, መስራት, መቆየት, መታመም, መጻፍ
-* `EMPTY` (1337): ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና
+* `EMPTY` (1338): ቤት, ልጅ, ገንዘብ, ልብስ, ጊዜ, ልጆች, ሰው, አስተማሪ, መጽሐፍ, መኪና
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (82) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="am_att-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (220; 89%),
+<tt>VERB --[<tt><a href="am_att-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (221; 89%),
 <tt>VERB --[<tt><a href="am_att-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (73; 97%),
 <tt>VERB --[<tt><a href="am_att-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (54; 92%),
 <tt>VERB --[<tt><a href="am_att-dep-conj.html">conj</a></tt>]--> VERB</tt> (24; 92%),
 <tt>VERB --[<tt><a href="am_att-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (19; 56%),
 <tt>VERB --[<tt><a href="am_att-dep-compound.html">compound</a></tt>]--> VERB</tt> (17; 100%),
-<tt>VERB --[<tt><a href="am_att-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<tt><a href="am_att-dep-acl.html">acl</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="am_att-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="am_att-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="am_att-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 100%).
 

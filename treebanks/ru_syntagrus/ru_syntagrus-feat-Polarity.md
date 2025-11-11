@@ -9,41 +9,32 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-7466 tokens (0%) have a non-empty value of `Polarity`.
+21327 tokens (1%) have a non-empty value of `Polarity`.
 29 types (0%) occur at least once with a non-empty value of `Polarity`.
-13 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (6498; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (472; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (256; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (240; 0% instances).
+14 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (20188; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (899; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (240; 0% instances).
 
 ### `PART`
 
-6498 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (13% of all `PART` tokens) have a non-empty value of `Polarity`.
+20188 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (40% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (6498; 100% of non-empty `Polarity`): <em>не, ни, нет, Не-а, нет-нет</em>
-* `EMPTY` (43843): <em>не, и, же, только, даже, вот, ли, это, именно, лишь</em>
+* `Neg` (20188; 100% of non-empty `Polarity`): <em>не, ни, нет, Не-а, нет-нет</em>
+* `EMPTY` (30285): <em>и, же, только, даже, вот, ли, это, именно, лишь, просто</em>
 
 ### `VERB`
 
-472 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Polarity`.
+899 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (472; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (472; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (472; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (472; 100%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (472; 100%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (472; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (472; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (472; 100%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (899; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (899; 100%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (472; 100% of non-empty `Polarity`): <em>нет, нечего, не, нечем, некогда, некому, некуда, незачем, некого, нету</em>
-* `EMPTY` (172379): <em>может, есть, было, сказал, могут, нет, стал, является, быть, говорит</em>
+* `Neg` (899; 100% of non-empty `Polarity`): <em>нельзя, нет, нечего, не, некуда, нечем, некогда, некому, невозможно, негде</em>
+* `EMPTY` (175243): <em>может, можно, есть, надо, сказал, было, могут, нет, стал, является</em>
 
-### `ADV`
-
-256 <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (256; 100%), <tt><a href="ru_syntagrus-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (256; 100%).
-
-`ADV` tokens may have the following values of `Polarity`:
-
-* `Neg` (256; 100% of non-empty `Polarity`): <em>несмотря, невзирая</em>
-* `EMPTY` (76148): <em>так, уже, можно, еще, как, более, очень, где, однако, там</em>
+`Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Polarity`.
 
 ### `CCONJ`
 
@@ -52,12 +43,12 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (240; 100% of non-empty `Polarity`): <em>ни</em>
-* `EMPTY` (54848): <em>и, а, но, или, да, ни, либо, причем, зато, только</em>
+* `EMPTY` (54903): <em>и, а, но, или, да, ни, либо, причем, зато, только</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>PART --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PART</tt> (7; 100%),
+<tt>PART --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> PART</tt> (12; 100%),
 <tt>PART --[<tt><a href="ru_syntagrus-dep-cc.html">cc</a></tt>]--> PART</tt> (2; 100%),
 <tt>PART --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> PART</tt> (1; 100%),
 <tt>PART --[<tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>]--> PART</tt> (1; 100%).

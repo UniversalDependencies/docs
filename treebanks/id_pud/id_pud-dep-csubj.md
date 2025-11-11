@@ -23,21 +23,21 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 csubj	color:blue
-1	Ambruk	ambruk	VERB	_	Mood=Ind|Voice=Act	7	csubj	_	_
+1	Ambruk	ambruk	VERB	_	Voice=Act	7	csubj	_	_
 2	nya	nya	DET	_	Definite=Def|PronType=Art	1	det	_	_
 3	dan	dan	CCONJ	_	_	4	cc	_	_
 4	intervensi	intervensi	NOUN	_	Number=Sing	1	conj	_	_
 5	puluhan	puluh	NUM	_	NumType=Card	6	nummod	_	_
 6	bank	bank	NOUN	_	Number=Sing	1	nmod	_	_
-7	mengakibatkan	akibat	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+7	mengakibatkan	akibat	VERB	_	Voice=Act	0	root	_	_
 8	pelarian	lari	NOUN	_	Number=Sing	7	obj	_	_
 9	modal	modal	NOUN	_	Number=Sing	8	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	membuat	buat	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
+11	membuat	buat	VERB	_	Voice=Act	7	advcl	_	_
 12	banyak	banyak	DET	_	Number=Plur|PronType=Ind	13	det	_	_
 13	usaha	usaha	NOUN	_	Number=Sing	14	nsubj	_	_
-14	menjadi	jadi	VERB	_	Mood=Ind|Voice=Act	11	ccomp	_	_
-15	bangkrut	bangkrut	VERB	_	Mood=Ind|Voice=Act	14	xcomp	_	SpaceAfter=No
+14	menjadi	jadi	VERB	_	Voice=Act	11	ccomp	_	_
+15	bangkrut	bangkrut	VERB	_	Voice=Act	14	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 9	Persia	Persia	PROPN	_	_	7	conj	_	_
 10	yang	yang	PRON	_	PronType=Rel	12	nsubj	_	_
 11	saling	saling	ADV	_	_	12	advmod	_	_
-12	mengawini	kawin	VERB	_	Mood=Ind|Voice=Act	4	csubj	_	SpaceAfter=No
+12	mengawini	kawin	VERB	_	Voice=Act	4	csubj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -72,7 +72,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 csubj	color:blue
-1	Mengakhiri	akhir	VERB	_	Mood=Ind|Voice=Act	7	csubj	_	_
+1	Mengakhiri	akhir	VERB	_	Voice=Act	7	csubj	_	_
 2	karier	karier	NOUN	_	Number=Sing	1	obj	_	_
 3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
 4	di	di	ADP	_	_	5	case	_	_

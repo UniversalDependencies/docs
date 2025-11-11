@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ccomp in UD_Kurmanji-MG'
+title:  'Statistics of ccomp in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `ccomp`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `ccomp`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 137 instances of `ccomp` (99%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.16666666666667.
 
-The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (89; 64% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (20; 14% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (5; 4% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (89; 64% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (20; 14% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (5; 4% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

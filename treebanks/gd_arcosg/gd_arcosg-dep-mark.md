@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 4 mark	color:blue
 1	uill	uill	INTJ	I	_	3	discourse	_	_
-2	‘s	is	AUX	Wp-i	Tense=Pres	3	cop	_	_
+2	‘s	is	AUX	Wp-i	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	iongantach	iongantach	ADJ	Ap	_	0	root	_	_
 4	mar	mar	SCONJ	Cs	_	6	mark	_	_
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	mark:prt	_	_
@@ -68,7 +68,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 6	bliadhna	bliadhna	ADV	Rt	AdvType=Tim	5	fixed	_	_
 7	co-dhiubh	co-dhiubh	ADV	Rg	AdvType=Man	1	advmod	_	_
 8	ma	ma	SCONJ	Cs	_	10	mark	_	_
-9	is	is	AUX	Wp-i	Tense=Pres	10	cop	_	_
+9	is	is	AUX	Wp-i	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	advcl	_	_
 11	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	toiseach	toiseach	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_

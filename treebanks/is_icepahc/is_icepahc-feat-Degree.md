@@ -11,21 +11,21 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 51810 tokens (5%) have a non-empty value of `Degree`.
 13536 types (21%) occur at least once with a non-empty value of `Degree`.
-7041 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (31989; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (7287; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (5759; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (4458; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1124; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (446; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (302; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (214; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (69; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (25; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+7039 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (31990; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (7287; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (5759; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (4457; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1124; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (446; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (302; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (214; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (69; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (25; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
-31989 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (86% of all `ADJ` tokens) have a non-empty value of `Degree`.
+31990 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (86% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24487; 77%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (23966; 75%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17162; 54%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24487; 77%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (23966; 75%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17163; 54%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (1815; 6% of non-empty `Degree`): <em>nær, betra, fyrri, betri, fyrra, eldri, stærri, lengra, yngri, æðri</em>
-* `Pos` (27894; 87% of non-empty `Degree`): <em>gott, satt, góða, góður, stór, góð, góðum, heilaga, þriðja, góðu</em>
+* `Pos` (27895; 87% of non-empty `Degree`): <em>gott, satt, góða, góður, stór, góð, góðum, heilaga, þriðja, góðu</em>
 * `Sup` (2280; 7% of non-empty `Degree`): <em>fyrsta, fyrstu, næsta, besta, bestu, best, næst, næstu, fyrstur, síðustu</em>
-* `EMPTY` (5172): <em>sama, sömu, sami, 1., langt, víst, lengi, kongl., skammt, verður</em>
+* `EMPTY` (5173): <em>sama, sömu, sami, 1., langt, víst, lengi, kongl., skammt, verður</em>
 
 <table>
   <tr><th>Paradigm <i>góður</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -171,16 +171,16 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 ### `VERB`
 
-4458 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Degree`.
+4457 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4458; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4458; 100%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4458; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4458; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4458; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3409; 76%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2953; 66%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4457; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4457; 100%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4457; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4457; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4457; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3409; 76%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2952; 66%).
 
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (39; 1% of non-empty `Degree`): <em>heldur, endaðri, fremur, ver, fá, nær, víprar, Kunni, Lýsi, betra</em>
-* `Pos` (4300; 96% of non-empty `Degree`): <em>búið, búinn, lifandi, búin, búnir, fallinn, lifanda, þegjandi, búnu, grátandi</em>
+* `Pos` (4299; 96% of non-empty `Degree`): <em>búið, búinn, lifandi, búin, búnir, fallinn, lifanda, þegjandi, búnu, sagða</em>
 * `Sup` (119; 3% of non-empty `Degree`): <em>helst, fanst, verst, Þóttust, réttast, sannast, Rifjaðist, fyrfarast, gleðist, glíkjast</em>
-* `EMPTY` (124226): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
+* `EMPTY` (124232): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
 
 <table>
   <tr><th>Paradigm <i>halda</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -210,7 +210,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 * `Cmp` (45; 4% of non-empty `Degree`): <em>minni, síður, sakir, forvitri, allstaðar, bráðar, byggingarkúnstarinnar, engi, reiðara, réttara</em>
 * `Pos` (1060; 94% of non-empty `Degree`): <em>dauða, heit, góða, búið, vísu, skyld, föstum, synda, trúu, allskonar</em>
 * `Sup` (19; 2% of non-empty `Degree`): <em>tigu, Arkistratus, Mannanna, dýra, fyrstu, föstu, gæfastur, hjartans, háttu, kunnustu</em>
-* `EMPTY` (144757): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (144755): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>maður</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -288,7 +288,7 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 * `Cmp` (3; 1% of non-empty `Degree`): <em>vi, xii, átján</em>
 * `Pos` (209; 98% of non-empty `Degree`): <em>hálft, hálfan, hálfum, hálfa, hálfs, hálfu, hálfur, hvorntveggja, ij, tvennum</em>
 * `Sup` (2; 1% of non-empty `Degree`): <em>1., þrjátigi</em>
-* `EMPTY` (4198): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
+* `EMPTY` (4199): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
 
 `Degree` seems to be **lexical feature** of `NUM`. 100% lemmas (46) occur only with one value of `Degree`.
 
@@ -303,7 +303,7 @@ The most frequent other feature values with which `AUX` and `Degree` co-occurred
 * `Cmp` (1; 1% of non-empty `Degree`): <em>myni</em>
 * `Pos` (110; 96% of non-empty `Degree`): <em>var, vilda, vóru, væra, vert, fær, hafða, fekk, mætta, skyldir</em>
 * `Sup` (3; 3% of non-empty `Degree`): <em>vart, vildir, vorum</em>
-* `EMPTY` (51137): <em>var, er, voru, hafði, vera, væri, hafa, eru, mun, verið</em>
+* `EMPTY` (51130): <em>var, er, voru, hafði, vera, væri, hafa, eru, mun, verið</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -407,7 +407,7 @@ The most frequent other feature values with which `X` and `Degree` co-occurred: 
 `SCONJ` tokens may have the following values of `Degree`:
 
 * `Pos` (4; 100% of non-empty `Degree`): <em>hvört, ein, er</em>
-* `EMPTY` (41886): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
+* `EMPTY` (41887): <em>að, sem, er, en, ef, þegar, þó, nema, hvort, meðan</em>
 
 ### `INTJ`
 
@@ -422,7 +422,7 @@ The most frequent other feature values with which `X` and `Degree` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="is_icepahc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1923; 83%),
-<tt>ADJ --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (197; 63%),
+<tt>ADJ --[<tt><a href="is_icepahc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (198; 62%),
 <tt>ADJ --[<tt><a href="is_icepahc-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (34; 65%),
 <tt>ADJ --[<tt><a href="is_icepahc-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (32; 59%),
 <tt>ADJ --[<tt><a href="is_icepahc-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (12; 55%),

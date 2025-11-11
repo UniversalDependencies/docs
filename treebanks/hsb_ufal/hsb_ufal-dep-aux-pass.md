@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 15	a	a	CCONJ	_	_	17	cc	_	_
 16	pola	pola	ADP	_	_	17	case	_	_
 17	Hetitow	Hetit	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	conj	_	_
-18	kaž	kaž	SCONJ	_	_	22	cc	_	_
+18	kaž	kaž	SCONJ	_	ExtPos=CCONJ	22	cc	_	_
 19	tež	tež	ADV	_	_	18	fixed	_	_
 20	w	w	ADP	_	_	22	case	_	_
 21	diplomatiskich	diplomatiski	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	22	amod	_	_

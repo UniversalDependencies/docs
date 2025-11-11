@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (57; 76% of non-empty `Degree`): <em>седе, седеяк</em>
 * `Dim` (2; 3% of non-empty `Degree`): <em>парынестэ, сеске</em>
 * `Sup` (16; 21% of non-empty `Degree`): <em>весемеде, сехте, сех</em>
-* `EMPTY` (1594): <em>ансяк, кода, пек, истя, мейле, ней, уш, прок, яла, курок</em>
+* `EMPTY` (1598): <em>ансяк, кода, пек, истя, мейле, ней, уш, прок, яла, курок</em>
 
 ### `NOUN`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 * `Cmp` (2; 40% of non-empty `Degree`): <em>седе</em>
 * `Sup` (3; 60% of non-empty `Degree`): <em>сехте, весемеде</em>
-* `EMPTY` (133): <em>жо, бути, ли, прок, вана, буто, эно, ведь, ялатеке, Арази</em>
+* `EMPTY` (131): <em>жо, бути, ли, прок, вана, буто, эно, ведь, ялатеке, Арази</em>
 
 ### `ADJ`
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Dim` (4; 100% of non-empty `Degree`): <em>вишкинетне, вишкине, шождыне</em>
-* `EMPTY` (895): <em>од, паро, покш, кодамо, арась, якстере, мазый, сэрей, лембе, омбоце</em>
+* `EMPTY` (897): <em>од, паро, покш, кодамо, арась, якстере, мазый, сэрей, лембе, омбоце</em>
 
 ### `PROPN`
 

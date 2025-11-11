@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	საინჟინრო	საინჟინრო	ADJ	Adj	Case=Nom|Number=Sing	2	amod	_	Translit=sainžinro
 2	მეცნიერება	მეცნიერება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	21	nsubj	_	Translit=mecʻniereba
 3	(	(	PUNCT	F	PunctType=Brck	5	punct	_	SpaceAfter=No|Translit=(
-4	ფრანგულად	ფრანგული	ADV	Adv	AdvType=Man	5	advmod	_	Translit=pʻrangulad
+4	ფრანგულად	ფრანგულად	ADV	Adv	AdvType=Man	5	advmod	_	Translit=pʻrangulad
 5	ingénieur	ingénieur	X	Foreign	Foreign=Yes	2	appos	_	SpaceAfter=No|Translit=ingénieur
 6	,	,	PUNCT	F	PunctType=Comm	9	punct	_	Translit=,
 7	ლათინური	ლათინური	ADJ	Adj	Case=Ins|Number=Sing	9	obl	_	Translit=latʻinuri
@@ -59,7 +59,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	ნაწარმოები	ნაწარმოები	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	obj	_	Translit=nacarmoebi
 3	ტყის	ტყე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	appos	_	Translit=tqis
 4	კაცი	კაცი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	3	flat	_	Translit=kacʻi
-5	გამოაქვეყნა	აქვეყნებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=gamoakʻveqna
+5	გამოაქვეყნა	აქვეყნებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=gamoakʻveqna
 6	ჟურნალ	ჟურნალი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	nmod	_	Translit=žurnal
 7	„	„	PUNCT	F	PunctType=Quot	8	punct	_	SpaceAfter=No|Translit=„
 8	ცისკრის	ცისკარი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=cʻiskris
@@ -93,13 +93,13 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 9	იმედი	იმედი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	appos	_	Translit=imedi
 10	L	L	X	Foreign	Foreign=Yes	9	flat	_	SpaceAfter=No|Translit=L
 11	“	“	PUNCT	F	PunctType=Quot	10	punct	_	Translit=“
-12	შეიძინა	იძენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeiżina
+12	შეიძინა	იძენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=šeiżina
 13	,	,	PUNCT	F	PunctType=Comm	18	punct	_	Translit=,
 14	რომლის	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	15	det	_	Translit=romlis
 15	შედეგადაც	შედეგი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing|PartType=Emp	18	obl	_	Translit=šedegadacʻ
 16	კიდევ	კიდევ	ADV	Adv	AdvType=Man	18	advmod	_	Translit=kidev
 17	უფრო	უფრო	ADJ	Adj	Degree=Cmp	18	amod	_	Translit=upʻro
-18	გაიზარდა	იზრდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|Voice=Pass	12	parataxis	_	Translit=gaizarda
+18	გაიზარდა	იზრდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	12	parataxis	_	Translit=gaizarda
 19	კომპანიის	კომპანია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=kompaniis
 20	ბაზრის	ბაზარი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=bazris
 21	წილი	წილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	18	nsubj	_	SpaceAfter=No|Translit=cili

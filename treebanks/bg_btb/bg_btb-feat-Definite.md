@@ -203,7 +203,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="bg_btb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5775; 50%),
-<tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4928; 51%),
+<tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4929; 51%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1822; 83%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1744; 54%),
 <tt>PROPN --[<tt><a href="bg_btb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1538; 96%),

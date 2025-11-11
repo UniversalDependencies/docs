@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
 Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -111,7 +111,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 
 ## Relations
 
-[acl](cs_cac-dep-acl.html) – [acl:relcl](cs_cac-dep-acl-relcl.html) – [advcl](cs_cac-dep-advcl.html) – [advmod](cs_cac-dep-advmod.html) – [advmod:emph](cs_cac-dep-advmod-emph.html) – [amod](cs_cac-dep-amod.html) – [appos](cs_cac-dep-appos.html) – [aux](cs_cac-dep-aux.html) – [aux:pass](cs_cac-dep-aux-pass.html) – [case](cs_cac-dep-case.html) – [cc](cs_cac-dep-cc.html) – [ccomp](cs_cac-dep-ccomp.html) – [compound](cs_cac-dep-compound.html) – [conj](cs_cac-dep-conj.html) – [cop](cs_cac-dep-cop.html) – [csubj](cs_cac-dep-csubj.html) – [csubj:pass](cs_cac-dep-csubj-pass.html) – [dep](cs_cac-dep-dep.html) – [det](cs_cac-dep-det.html) – [det:numgov](cs_cac-dep-det-numgov.html) – [det:nummod](cs_cac-dep-det-nummod.html) – [discourse](cs_cac-dep-discourse.html) – [expl:pass](cs_cac-dep-expl-pass.html) – [expl:pv](cs_cac-dep-expl-pv.html) – [fixed](cs_cac-dep-fixed.html) – [flat](cs_cac-dep-flat.html) – [iobj](cs_cac-dep-iobj.html) – [mark](cs_cac-dep-mark.html) – [nmod](cs_cac-dep-nmod.html) – [nsubj](cs_cac-dep-nsubj.html) – [nsubj:pass](cs_cac-dep-nsubj-pass.html) – [nummod](cs_cac-dep-nummod.html) – [nummod:gov](cs_cac-dep-nummod-gov.html) – [obj](cs_cac-dep-obj.html) – [obl](cs_cac-dep-obl.html) – [obl:arg](cs_cac-dep-obl-arg.html) – [orphan](cs_cac-dep-orphan.html) – [parataxis](cs_cac-dep-parataxis.html) – [punct](cs_cac-dep-punct.html) – [root](cs_cac-dep-root.html) – [vocative](cs_cac-dep-vocative.html) – [xcomp](cs_cac-dep-xcomp.html)
+[acl](cs_cac-dep-acl.html) – [acl:relcl](cs_cac-dep-acl-relcl.html) – [advcl](cs_cac-dep-advcl.html) – [advcl:pred](cs_cac-dep-advcl-pred.html) – [advmod](cs_cac-dep-advmod.html) – [advmod:emph](cs_cac-dep-advmod-emph.html) – [amod](cs_cac-dep-amod.html) – [appos](cs_cac-dep-appos.html) – [aux](cs_cac-dep-aux.html) – [aux:pass](cs_cac-dep-aux-pass.html) – [case](cs_cac-dep-case.html) – [cc](cs_cac-dep-cc.html) – [ccomp](cs_cac-dep-ccomp.html) – [compound](cs_cac-dep-compound.html) – [conj](cs_cac-dep-conj.html) – [cop](cs_cac-dep-cop.html) – [csubj](cs_cac-dep-csubj.html) – [csubj:pass](cs_cac-dep-csubj-pass.html) – [dep](cs_cac-dep-dep.html) – [det](cs_cac-dep-det.html) – [det:numgov](cs_cac-dep-det-numgov.html) – [det:nummod](cs_cac-dep-det-nummod.html) – [discourse](cs_cac-dep-discourse.html) – [expl:pass](cs_cac-dep-expl-pass.html) – [expl:pv](cs_cac-dep-expl-pv.html) – [fixed](cs_cac-dep-fixed.html) – [flat](cs_cac-dep-flat.html) – [iobj](cs_cac-dep-iobj.html) – [mark](cs_cac-dep-mark.html) – [nmod](cs_cac-dep-nmod.html) – [nsubj](cs_cac-dep-nsubj.html) – [nsubj:pass](cs_cac-dep-nsubj-pass.html) – [nummod](cs_cac-dep-nummod.html) – [nummod:gov](cs_cac-dep-nummod-gov.html) – [obj](cs_cac-dep-obj.html) – [obl](cs_cac-dep-obl.html) – [obl:arg](cs_cac-dep-obl-arg.html) – [orphan](cs_cac-dep-orphan.html) – [parataxis](cs_cac-dep-parataxis.html) – [punct](cs_cac-dep-punct.html) – [root](cs_cac-dep-root.html) – [vocative](cs_cac-dep-vocative.html) – [xcomp](cs_cac-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -423,7 +423,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
   <li>Acc
     <ul>
       <li>ADJ: další, základní, první, pracovní, nové, jiné, různé, vlastní, celou, větší</li>
-      <li>ADJ-Part: rozhodující, pracující, odpovídající, uvedené, spojené, týkající, vyplývající, zvýšenou, vedoucí, stanovené</li>
+      <li>ADJ-Part: rozhodující, pracující, odpovídající, uvedené, budoucí, spojené, týkající, vyplývající, zvýšenou, vedoucí</li>
       <li>ADP: na, pro, o, za, v, přes, po, mimo, mezi, ve</li>
       <li>DET: to, které, své, tuto, kterou, tyto, svou, který, tento, několik</li>
       <li>NOUN: práci, dobu, rok, význam, podmínky, úkoly, činnost, pozornost, rozvoj, řadu</li>
@@ -439,7 +439,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
   <li>Dat
     <ul>
       <li>ADJ: dalšímu, jiným, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným, určitému</li>
-      <li>ADJ-Part: plánovaným, pracujícím, uvedeným, dosaženým, pracujícímu, příslušnému, stanovenému, zadaným, centralizovanému, cestujícím</li>
+      <li>ADJ-Part: plánovaným, pracujícím, uvedeným, dosaženým, pracujícímu, příslušnému, stanovenému, zadaným, budoucímu, centralizovanému</li>
       <li>ADP: k, ke, proti, vůči, naproti, díky, oproti, kvůli, dík, vstříc</li>
       <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</li>
       <li>NOUN: pracovníkům, práci, dispozici, výročí, lidem, řešení, dětem, rozvoji, zlepšení, skutečnosti</li>
@@ -649,7 +649,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, vyplývající</li>
+      <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, budoucí</li>
       <li>AUX-Conv: byvše, jsouc, jsouce</li>
       <li>AUX-Fin: je, jsou, by, bude, není, jsme, jsem, budou, bychom, nejsou</li>
       <li>AUX-Inf: být, býti, nebýt</li>
@@ -715,6 +715,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Fut
     <ul>
+      <li>ADJ-Part: budoucí, budoucích, budoucího, budoucím, budoucímu</li>
       <li>AUX-Fin: bude, budou, budeme, nebude, nebudou, budu, budete, nebudeme, nebudu, nebudete</li>
       <li>VERB-Fin: půjde, pojedu, půjdou, Nepůjde, Pojede, pocestuje, poletí, ponese, ponesou</li>
     </ul>
@@ -752,7 +753,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Act
     <ul>
-      <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</li>
+      <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, budoucí, vyplývající</li>
       <li>AUX-Conv: byvše, jsouc, jsouce</li>
       <li>AUX-Fin: je, jsou, bude, není, jsme, jsem, budou, nejsou, budeme, bývá</li>
       <li>AUX-Part: bylo, byl, byla, byly, byli, nebylo, nebyl, nebyla, nebyly, nebyli</li>
@@ -838,7 +839,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: přičemž, zato</li>
+      <li>ADV: přičemž, jak</li>
       <li>DET: jehož, jejichž, jejíž, jejímž, jejímuž, jejíchž, kterážto</li>
       <li>PRON: jež, nichž, což, níž, němž, jimiž, něhož, čímž, jenž, nimiž</li>
     </ul>
@@ -1075,7 +1076,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <ul>
       <li>ADJ
         <ul>
-          <li>DET: Ty, to</li>
+          <li>DET: Ty</li>
         </ul>
       </li>
       <li>ADP
@@ -1088,7 +1089,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </li>
       <li>ADV
         <ul>
-          <li>ADV: více, co, nejen, stejně</li>
+          <li>ADV: co, nejen, stejně</li>
           <li>NOUN: rok, večer</li>
           <li>PART: přece</li>
           <li>VERB-Conv: chtíc</li>
@@ -1395,28 +1396,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Gen (1)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-Acc (5644)</li>
+      <li>VERB-Fin--NOUN-Acc (5619)</li>
       <li>VERB-Fin--NOUN-Gen (149)</li>
-      <li>VERB-Fin--NOUN-Nom (102)</li>
+      <li>VERB-Fin--NOUN-Nom (85)</li>
       <li>VERB-Fin--PRON (18)</li>
-      <li>VERB-Fin--PRON-Acc (631)</li>
+      <li>VERB-Fin--PRON-Acc (629)</li>
       <li>VERB-Fin--PRON-Gen (4)</li>
       <li>VERB-Fin--PRON-Nom (6)</li>
       <li>VERB-Inf--NOUN (5)</li>
-      <li>VERB-Inf--NOUN-Acc (3557)</li>
+      <li>VERB-Inf--NOUN-Acc (3542)</li>
       <li>VERB-Inf--NOUN-Gen (34)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (27)</li>
+      <li>VERB-Inf--NOUN-Nom (23)</li>
       <li>VERB-Inf--PRON (6)</li>
-      <li>VERB-Inf--PRON-Acc (385)</li>
+      <li>VERB-Inf--PRON-Acc (383)</li>
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (20)</li>
-      <li>VERB-Part--NOUN-Acc (2820)</li>
+      <li>VERB-Part--NOUN-Acc (2814)</li>
       <li>VERB-Part--NOUN-Gen (124)</li>
-      <li>VERB-Part--NOUN-Nom (17)</li>
+      <li>VERB-Part--NOUN-Nom (14)</li>
       <li>VERB-Part--PRON (16)</li>
-      <li>VERB-Part--PRON-Acc (384)</li>
+      <li>VERB-Part--PRON-Acc (383)</li>
       <li>VERB-Part--PRON-Gen (5)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -1427,19 +1428,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-Acc (13)</li>
+      <li>VERB-Fin--NOUN-Acc (17)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
-      <li>VERB-Fin--PRON-Acc (8)</li>
+      <li>VERB-Fin--PRON-Acc (10)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Acc (5)</li>
+      <li>VERB-Inf--NOUN-Acc (7)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Nom (3)</li>
-      <li>VERB-Inf--PRON-Acc (3)</li>
+      <li>VERB-Inf--NOUN-Nom (4)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (15)</li>
+      <li>VERB-Part--NOUN-Acc (17)</li>
       <li>VERB-Part--NOUN-Nom (5)</li>
-      <li>VERB-Part--PRON-Acc (9)</li>
+      <li>VERB-Part--PRON-Acc (10)</li>
     </ul>
   </li>
 </ul>
@@ -1468,7 +1469,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

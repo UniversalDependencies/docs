@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Dim` are language-specific.
 It occurs with 3 different values: `Abs`, `Cmp`, `Dim`.
 
-1095 tokens (2%) have a non-empty value of `Degree`.
+1096 tokens (2%) have a non-empty value of `Degree`.
 449 types (4%) occur at least once with a non-empty value of `Degree`.
 225 lemmas (4%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (587; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (422; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (53; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (12; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (587; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (423; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (53; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (12; 0% instances).
 
 ### `ADJ`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Abs` (314; 53% of non-empty `Degree`): <em>optimum, potissima, ultimum, optima, gravissimum, maxima, summi, ultima, nobilissima, nobilissimum</em>
 * `Cmp` (269; 46% of non-empty `Degree`): <em>inferioribus, maior, altior, inferiora, melius, superioribus, superiorem, inferior, maioris, superiora</em>
 * `Dim` (4; 1% of non-empty `Degree`): <em>parvuli, parvulos, parvulus, recurvella</em>
-* `EMPTY` (3387): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
+* `EMPTY` (3383): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
 
 <table>
   <tr><th>Paradigm <i>bonus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -59,15 +59,15 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-422 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Degree`.
+423 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (422; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (419; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (381; 90%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (423; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (420; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (382; 90%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (153; 36% of non-empty `Degree`): <em>maxime, optime, ymo, potissime, minime, ultimo, demum, immo, carissime, evidentissime</em>
-* `Cmp` (269; 64% of non-empty `Degree`): <em>magis, superius, potius, prius, melius, inferius, minus, ulterius, iterum, amplius</em>
-* `EMPTY` (2660): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, solum</em>
+* `Cmp` (270; 64% of non-empty `Degree`): <em>magis, superius, potius, prius, melius, inferius, minus, ulterius, iterum, amplius</em>
+* `EMPTY` (2662): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, solum</em>
 
 <table>
   <tr><th>Paradigm <i>magis</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -83,7 +83,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (53; 100% of non-empty `Degree`): <em>capelle, circulus, navicula, tabernaculi, vascula, agellum, alveolus, areola, bacillo, calculo</em>
-* `EMPTY` (10092): <em>Dei, Deus, natura, terra, parte, mundi, genus, re, ratio, Deo</em>
+* `EMPTY` (10091): <em>Dei, Deus, natura, terra, parte, mundi, genus, re, ratio, Deo</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Degree`.
 
@@ -113,7 +113,6 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plurium</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plures</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plura</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>plus</em></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -126,7 +125,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 * `Abs` (8; 67% of non-empty `Degree`): <em>sanctissimo, perfectissimum, potentissimo, promptissima, promptissimam, volentissimo</em>
 * `Cmp` (4; 33% of non-empty `Degree`): <em>ardentiori, perfectior, perfectiori, sanctius</em>
-* `EMPTY` (8218): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
+* `EMPTY` (8222): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
 
 <table>
   <tr><th>Paradigm <i>sancio</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -138,7 +137,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADV --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADV</tt> (22; 65%),
+<tt>ADV --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADV</tt> (23; 66%),
 <tt>ADJ --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> ADJ</tt> (1; 100%),

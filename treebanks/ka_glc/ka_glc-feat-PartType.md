@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `PartType` co-occur
 
 45 <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `PRON` and `PartType` co-occurred: <tt><a href="ka_glc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="ka_glc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (38; 84%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 82%), <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Dat</tt> (36; 80%), <tt><a href="ka_glc-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (36; 80%).
+The most frequent other feature values with which `PRON` and `PartType` co-occurred: <tt><a href="ka_glc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (45; 100%), <tt><a href="ka_glc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (38; 84%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 82%), <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Dat</tt> (36; 80%), <tt><a href="ka_glc-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (35; 78%).
 
 `PRON` tokens may have the following values of `PartType`:
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADP` and `PartType` co-occurr
 
 5 <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `NUM` and `PartType` co-occurred: <tt><a href="ka_glc-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 80%), <tt><a href="ka_glc-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (4; 80%).
+The most frequent other feature values with which `NUM` and `PartType` co-occurred: <tt><a href="ka_glc-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 80%), <tt><a href="ka_glc-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (4; 80%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 60%).
 
 `NUM` tokens may have the following values of `PartType`:
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Käbi Laan.
 
 Repository: [UD_Veps-VWT](https://github.com/UniversalDependencies/UD_Veps-VWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvep_vwt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvep_vwt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,7 +93,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 </ul>
 
 <ul>
-<li>This corpus contains 49 types of words that contain both letters and punctuation. Examples: Kalag', nügüd', kel't, el'geta, kul'tursebran, der'oun, el'genzin, jäl'ghe, midä-se, sid', ved', Kod'arven, Muštat-ik, Oli-ik, Pagištihe-ik, Päžar', Päžar'laižed, Sil-žo, Tal'vel, der'onas, der'ounadme, der'ounan, el'gendaižiba, el'genzi, elo-oza, kaks', kaks'keline, kel', kodikel't, kul'turad, kuna-se, kut-se, kül'mäiži, laps'aigaspäi, oiktuz'tedon, pert', pidab-ik, pit'kha, počt-ki, pämez', radod-ki, sel'ged, sur', sügüz'kud, toine_tošt, venän-ki, voin-ik, Äjak-se, üks'</li>
+<li>This corpus contains 15 types of words that contain both letters and punctuation. Examples: midä-se, Muštat-ik, Oli-ik, Pagištihe-ik, Sil-žo, elo-oza, kuna-se, kut-se, pidab-ik, počt-ki, radod-ki, toine_tošt, venän-ki, voin-ik, Äjak-se</li>
 </ul>
 
 <ul>
@@ -109,11 +109,11 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 </ul>
 
 <ul>
-<li>This corpus contains 1 word types tagged as particles (PART): ved'</li>
+<li>This corpus contains 1 word types tagged as particles (PART): vedʼ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as pronouns (PRON): hän, hö, iče, kaik, kaik-se, ken, kudamb, mi, mi-se, minä, mitte, mugoine, mö, ne, nece, se, sinä, toine, toine_toise, tö</li>
+<li>This corpus contains 17 lemmas tagged as pronouns (PRON): hän, iče, kaik, kaik-se, ken, kudamb, mi, mi-se, minä, mitte, mugoine, ne, nece, se, sinä, toine, toine_toise</li>
 </ul>
 
 <ul>
@@ -147,7 +147,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Fin
   <ul>
     <li>AUX: om, oli, oma, pidab, ole, olend, voi, voiba, voigoi, olen</li>
-    <li>VERB: eläba, radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, sain</li>
+    <li>VERB: eläba, radoin, ajoin, seižub, abutab, elʼgenzin, meletan, muštan, pätin, sain</li>
   </ul>
   </li>
 </ul>
@@ -155,7 +155,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: tehta, eläda, el'geta, kaita, pagišta, panda, rata, vajehtada, vastatas, abutada</li>
+    <li>VERB: tehta, eläda, elʼgeta, kaita, pagišta, panda, rata, vajehtada, vastatas, abutada</li>
   </ul>
   </li>
 </ul>
@@ -188,12 +188,12 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: erazvuiččed, enččiden, erazvuiččiš, lämembad, melekahad, melentartuižid, sel'ged, tägälaižed, vepsläižid, vägevad</li>
+      <li>ADJ: erazvuiččed, enččiden, erazvuiččiš, lämembad, melekahad, melentartuižid, selʼged, tägälaižed, vepsläižid, vägevad</li>
       <li>AUX: ei, oma, voiba, voim, oliba</li>
       <li>AUX-Fin: oma, voiba, voim, oliba</li>
       <li>NOUN: lapsed, ristitud, jurid, adivoid, eläjiden, projektoid, ristituid, tedoid, vanhembad, vepsläižed</li>
       <li>PRON: meiden, mö, heiden, ičeze, Tö, kudambad, hö, ičetoi, Ned, Niiš</li>
-      <li>VERB-Fin: eläba, tegem, Muštat-ik, Toivotam, abutiba, ajelkoiš, ajoim, el'gendaižiba, eliba, eläškandeb</li>
+      <li>VERB-Fin: eläba, tegem, Muštat-ik, Toivotam, abutiba, ajelkoiš, ajoim, eliba, eläškandeb, elʼgendaižiba</li>
     </ul>
   </li>
 </ul>
@@ -204,10 +204,10 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
       <li>ADJ: vepsän, hüvä, surel, čomal, jüged, kebn, tärged, äi, čoma, aktivižen</li>
       <li>AUX: om, ei, oli, en, pidab, olen, Olin, ole, pidab-ik, pidi</li>
       <li>AUX-Fin: om, oli, pidab, olen, Olin, ole, pidab-ik, pidi, voin-ik</li>
-      <li>NOUN: kelel, külän, rad, elo, kel't, kanzan, kanzas, kul'tursebran, küläs, mal</li>
+      <li>NOUN: kelel, külän, rad, elo, kelʼt, kanzan, kanzas, kulʼtursebran, küläs, mal</li>
       <li>PRON: minä, nece, ičeze, minun, kaik, minei, hän, kaiken, se, ičein</li>
-      <li>PROPN: Kalag', Natalja, Päžarvehe, Kaskez, Kaskezaspäi, Piterin, Silakova, Vepsän, Änižjärven, Himjogi</li>
-      <li>VERB-Fin: radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, sain, tahtoin</li>
+      <li>PROPN: Kalagʼ, Natalja, Päžarvehe, Kaskez, Kaskezaspäi, Piterin, Silakova, Vepsän, Änižjärven, Himjogi</li>
+      <li>VERB-Fin: radoin, ajoin, seižub, abutab, elʼgenzin, meletan, muštan, pätin, sain, tahtoin</li>
     </ul>
   </li>
 </ul>
@@ -219,7 +219,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 <ul>
   <li>Abl
     <ul>
-      <li>NOUN: laps'aigaspäi, posadaspäi</li>
+      <li>NOUN: lapsʼaigaspäi, posadaspäi</li>
       <li>PROPN: Kaskezaspäi</li>
     </ul>
   </li>
@@ -229,7 +229,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Ade
     <ul>
       <li>ADJ: surel, čomal, armhal</li>
-      <li>NOUN: kelel, mal, randal, aigal, Homendesel, Kezal, Tal'vel, avtobusal, der'ounadme, kodikelel</li>
+      <li>NOUN: kelel, mal, randal, aigal, Homendesel, Kezal, Talʼvel, avtobusal, derʼounadme, kodikelel</li>
       <li>NUM: 23.</li>
       <li>PRON: Teil, kudambal, necil</li>
       <li>PROPN: Venämal</li>
@@ -279,9 +279,9 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Gen
     <ul>
       <li>ADJ: vepsän, enččen, enččiden, suren, toižen, vepsläižen, vägevan</li>
-      <li>NOUN: külän, kanzan, kul'tursebran, aigan, elon, eläjiden, vepsläižiden, školan, Tatan, Valičusiden</li>
+      <li>NOUN: külän, kanzan, kulʼtursebran, aigan, elon, eläjiden, vepsläižiden, školan, Tatan, Valičusiden</li>
       <li>PRON: ičeze, meiden, minun, kaiken, heiden, ičein, necen, sen, hänen, ičetoi</li>
-      <li>PROPN: Piterin, Vepsän, Änižjärven, Karjalan, Kod'arven, Natalja, Päžarven, Vologdan, Änižen</li>
+      <li>PROPN: Piterin, Vepsän, Änižjärven, Karjalan, Kodʼarven, Natalja, Päžarven, Vologdan, Änižen</li>
     </ul>
   </li>
 </ul>
@@ -313,11 +313,11 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: hüvä, erazvuiččed, jüged, kebn, tärged, äi, čoma, bohat, kaks'keline, kulu</li>
-      <li>NOUN: lapsed, ristitud, rad, elo, aig, der'oun, eläjad, pagin, praznik, rahvaz</li>
-      <li>NUM: 40, 15, 2017, kahesa, kaks', koume, üks'</li>
+      <li>ADJ: hüvä, erazvuiččed, jüged, kebn, tärged, äi, čoma, bohat, kaksʼkeline, kulu</li>
+      <li>NOUN: lapsed, ristitud, rad, elo, aig, derʼoun, eläjad, pagin, praznik, rahvaz</li>
+      <li>NUM: 40, 15, 2017, kahesa, kaksʼ, koume, üksʼ</li>
       <li>PRON: minä, nece, mö, kaik, hän, se, Tö, kudambad, hö, mitte</li>
-      <li>PROPN: Kalag', Natalja, Kaskez, Silakova, Himjogi, Jevgenjevna, Kalarand, Päžar'</li>
+      <li>PROPN: Kalagʼ, Natalja, Kaskez, Silakova, Himjogi, Jevgenjevna, Kalarand, Päžarʼ</li>
     </ul>
   </li>
 </ul>
@@ -326,7 +326,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Par
     <ul>
       <li>ADJ: ezmäižid, hüväd, korktad, kovad, melentartuižid, rahvahališt, sijališt, sotovijad, ut, vepsläšt</li>
-      <li>NOUN: kel't, jurid, rahvast, vot, adivoid, elod, projektoid, ristituid, tedoid, väged</li>
+      <li>NOUN: kelʼt, jurid, rahvast, vot, adivoid, elod, projektoid, ristituid, tedoid, väged</li>
       <li>NUM: kaht</li>
       <li>PRON: midä-se, mindai, necidä, Mittušt, Teid, ičtaze, ked, meid, midä, sidä</li>
       <li>PROPN: Jevgenjevnad</li>
@@ -401,7 +401,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Cnd
     <ul>
       <li>AUX-Fin: Oliži</li>
-      <li>VERB-Fin: el'gendaižiba, eläiži, kül'mäiži, muštaižiba, pagižižiba, tahtoižin, tehtas</li>
+      <li>VERB-Fin: eläiži, elʼgendaižiba, külʼmäiži, muštaižiba, pagižižiba, tahtoižin, tehtas</li>
     </ul>
   </li>
 </ul>
@@ -410,7 +410,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Ind
     <ul>
       <li>AUX-Fin: om, oli, oma, pidab, ole, olend, voi, voiba, voigoi, olen</li>
-      <li>VERB-Fin: eläba, radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, sain</li>
+      <li>VERB-Fin: eläba, radoin, ajoin, seižub, abutab, elʼgenzin, meletan, muštan, pätin, sain</li>
     </ul>
   </li>
 </ul>
@@ -423,7 +423,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Past
     <ul>
       <li>AUX-Fin: oli, olend, Olin, oliba, pidi, sand, voind</li>
-      <li>VERB-Fin: radoin, ajoin, el'genzin, sain, tahtoin, tuli, Oli-ik, Pagištihe-ik, abutiba, ajoim</li>
+      <li>VERB-Fin: radoin, ajoin, elʼgenzin, sain, tahtoin, tuli, Oli-ik, Pagištihe-ik, abutiba, ajoim</li>
       <li>VERB-Part: sündnu, omištadud, peittud, tehtud</li>
     </ul>
   </li>
@@ -446,7 +446,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Act
     <ul>
       <li>AUX-Fin: om, oli, oma, pidab, ole, olend, voi, voiba, voigoi, olen</li>
-      <li>VERB-Fin: eläba, radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, sain</li>
+      <li>VERB-Fin: eläba, radoin, ajoin, seižub, abutab, elʼgenzin, meletan, muštan, pätin, sain</li>
       <li>VERB-Part: sündnu, peittud</li>
       <li>VERB-Sup: radmaha, elämaha, kacmaha, opendamhas, rata</li>
     </ul>
@@ -475,6 +475,14 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
   <li>Dem
     <ul>
       <li>PRON: nece, se, necen, sen, neche, necidä, neciš, Ned, Niiš, necil</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: midä-se</li>
     </ul>
   </li>
 </ul>
@@ -510,7 +518,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
 <ul>
   <li>Card
     <ul>
-      <li>NUM: 40, 15, 2017, kahesa, kaht, kaks', koume, ühtes, üks'</li>
+      <li>NUM: 40, 15, 2017, kahesa, kaht, kaksʼ, koume, ühtes, üksʼ</li>
     </ul>
   </li>
 </ul>
@@ -547,7 +555,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
       <li>AUX: en, olen, voim, Olin, voin-ik</li>
       <li>AUX-Fin: olen, voim, Olin, voin-ik</li>
       <li>PRON: minä, meiden, minun, mö, minei, ičein, mindai, meid, meile</li>
-      <li>VERB-Fin: radoin, ajoin, el'genzin, meletan, muštan, pätin, sain, tahtoin, tegem, Toivotam</li>
+      <li>VERB-Fin: radoin, ajoin, elʼgenzin, meletan, muštan, pätin, sain, tahtoin, tegem, Toivotam</li>
     </ul>
   </li>
 </ul>
@@ -567,7 +575,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
       <li>AUX: om, ei, oli, oma, pidab, voiba, oliba, pidab-ik, pidi</li>
       <li>AUX-Fin: om, oli, oma, pidab, voiba, oliba, pidab-ik, pidi</li>
       <li>PRON: ičeze, hän, heiden, hänen, hö, heile, heišpäi, hänele, ičtaze</li>
-      <li>VERB-Fin: eläba, seižub, abutab, tuli, Oli-ik, Om, abutiba, ajelese, andoi, el'gendaižiba</li>
+      <li>VERB-Fin: eläba, seižub, abutab, tuli, Oli-ik, Om, abutiba, ajelese, andoi, eliba</li>
     </ul>
   </li>
 </ul>
@@ -583,7 +591,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
     <ul>
       <li>Post
         <ul>
-          <li>ADP: täht, polhe, taga, abul, edel, jäl'ghe, keskes, möto, päle</li>
+          <li>ADP: täht, polhe, taga, abul, edel, jälʼghe, keskes, möto, päle</li>
         </ul>
       </li>
       <li>Prep
@@ -625,7 +633,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
       <li>Yes
         <ul>
           <li>AUX-Fin: ole, olend, voi, voigoi, pida, sand, voind</li>
-          <li>VERB-Fin: ajelkoiš, azotade, koskend, kül'mäiži, navedind, tekoi</li>
+          <li>VERB-Fin: ajelkoiš, azotade, koskend, külʼmäiži, navedind, tekoi</li>
         </ul>
       </li>
     </ul>
@@ -643,7 +651,7 @@ opintoja varten XVII. Helsinki: Suomalais-Ugrilainen Seura.
       <li>Word
         <ul>
           <li>ADJ: ezmäižid</li>
-          <li>NUM: kahesa, kaht, kaks', koume, ühtes, üks'</li>
+          <li>NUM: kahesa, kaht, kaksʼ, koume, ühtes, üksʼ</li>
         </ul>
       </li>
     </ul>

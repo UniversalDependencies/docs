@@ -55,12 +55,12 @@ The following 2 pairs of parts of speech are connected with `nmod:bahuv`: <tt><a
 5	кичкор	кичкор	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	6	amod	_	_
 6	мадя	мадя	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nmod:bahuv	_	_
 7	Мишазе	Миша	PROPN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	8	nsubj	_	_
-8	кулось	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	csubj:cop	_	_
+8	кулось	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	2	csubj:cop	_	_
 9	геройкс	герой	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	мзярда	мзярда	ADV	Adv	_	13	mark	_	_
 12	пятналангста	пятналанга	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	13	obl	_	_
-13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	8	advcl	_	_
+13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	8	advcl	_	_
 14	парашютса	парашют	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	13	obl	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 

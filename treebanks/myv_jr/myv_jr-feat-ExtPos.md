@@ -12,18 +12,18 @@ It occurs with 5 different values: `ADJ`, `ADV`, `AUX`, `INTJ`, `PRON`.
 77 tokens (0%) have a non-empty value of `ExtPos`.
 43 types (1%) occur at least once with a non-empty value of `ExtPos`.
 32 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 11 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-23 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+22 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 74%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (16; 70%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 61%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 77%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (15; 68%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 64%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (12; 55%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
-* `ADV` (12; 52% of non-empty `ExtPos`): <em>секе, секень</em>
-* `PRON` (11; 48% of non-empty `ExtPos`): <em>месть, мезе, што, весементь, ки, мезень</em>
+* `ADV` (12; 55% of non-empty `ExtPos`): <em>секе, секень</em>
+* `PRON` (10; 45% of non-empty `ExtPos`): <em>месть, мезе, весементь, ки, мезень</em>
 
 ### `ADV`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 12 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 92%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (11; 92%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 92%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10; 83%).
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (12; 100%), <tt><a href="myv_jr-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 92%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (11; 92%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 92%).
 
 `DET` tokens may have the following values of `ExtPos`:
 
@@ -51,9 +51,8 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 <table>
   <tr><th>Paradigm <i>эрьва</i></th><th><tt>ADJ</tt></th><th><tt>ADV</tt></th><th><tt>PRON</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>эрьва</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>эрьва</em></td><td><em>эрьва</em></td><td><em>эрьва</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Tot</tt></tt></td><td><em>эрьва</em></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>эрьва</em></td><td></td></tr>
 </table>
 
 ### `NOUN`
@@ -70,7 +69,7 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 
 4 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `AUX` and `ExtPos` co-occurred: <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (4; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `ExtPos` co-occurred: <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (4; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `AUX` tokens may have the following values of `ExtPos`:
 
@@ -99,6 +98,14 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>истят</em></td><td></td></tr>
 </table>
 
+### `PART`
+
+3 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `ExtPos`.
+
+`PART` tokens may have the following values of `ExtPos`:
+
+* `ADV` (3; 100% of non-empty `ExtPos`): <em>карадо, што</em>
+
 ### `INTJ`
 
 2 <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> tokens (2% of all `INTJ` tokens) have a non-empty value of `ExtPos`.
@@ -117,14 +124,6 @@ The most frequent other feature values with which `NUM` and `ExtPos` co-occurred
 
 * `PRON` (2; 100% of non-empty `ExtPos`): <em>вейке</em>
 
-### `PART`
-
-2 <tt><a href="myv_jr-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `ExtPos`.
-
-`PART` tokens may have the following values of `ExtPos`:
-
-* `ADV` (2; 100% of non-empty `ExtPos`): <em>карадо</em>
-
 ### `ADP`
 
 1 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `ExtPos`.
@@ -139,7 +138,7 @@ The most frequent other feature values with which `ADP` and `ExtPos` co-occurred
 
 1 <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `SCONJ` and `ExtPos` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `SCONJ` and `ExtPos` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `SCONJ` tokens may have the following values of `ExtPos`:
 

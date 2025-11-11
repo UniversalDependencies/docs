@@ -40,13 +40,13 @@ Examples: <em>est</em>
 
 Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (105; 32% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (85; 26% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (73; 22% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (24; 7% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (23; 7% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (12; 4% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-326 (99%) `AUX` nodes are leaves.
+327 (100%) `AUX` nodes are leaves.
 
-2 (1%) `AUX` nodes have one child.
+1 (0%) `AUX` nodes have one child.
 
 The highest child degree of a `AUX` node is 1.
 
-Children of `AUX` nodes are attached using 2 different relations: <tt><a href="la_circse-dep-advmod-neg.html">advmod:neg</a></tt> (1; 50% instances), <tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt> (1; 50% instances)
+Children of `AUX` nodes are attached using 1 different relations: <tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt> (1; 100% instances)
 
-Children of `AUX` nodes belong to 2 different parts of speech: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 50% instances)
+Children of `AUX` nodes belong to 1 different parts of speech: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-489 nodes (2%) are attached to their parents as `amod`.
+501 nodes (2%) are attached to their parents as `amod`.
 
-279 instances of `amod` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38241308793456.
+287 instances of `amod` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.375249500998.
 
-The following 15 pairs of parts of speech are connected with `amod`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (430; 88% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (29; 6% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `amod`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (435; 87% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (31; 6% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,18 +50,20 @@ The following 15 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 amod	color:blue
-1	послало	послати	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="послало"|tense=perf|addr="259/265:_259:1а"|_
-2	ѥсьмо	быти	AUX	_	Analyt=Yes|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	wf="ѥсьмо"|addr="259/265:_259:2а"|line_id=2а|_
-3	к	къ	ADP	_	_	4	case	_	wf="к"|addr="259/265:_259:2а"|_
-4	тобѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2	1	obl	_	wf="тобѣ"|comment="clitic_ton"|addr="259/265:_259:2а"|_
-5	вѣ[дѣ]роко	вѣдерко	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	wf="вѣдѣроко"|addr="259/265:_259:2а"|_
-6	ѡ[се]тринѣ	осетрина	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	wf="ѡсетринѣ"|addr="259/265:_259:2а"|_
-7	зап[е]<lbr/>…	запечатати	VERB	_	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	wf="запе…"|comment=lemma_unsure|addr="259/265:_259:2а"|after:line_id=3а|_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 amod	color:blue
+1	ꙋ	у	ADP	_	_	2	case	_	wf="ꙋ"|addr="212/214/216/217:_212:1"|line_id=1|_
+2	попадеѥ	попадьꙗ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	0	root	_	wf="попадеѥ"|addr="212/214/216/217:_212:1"|_
+3	ꙋ	у	ADP	_	_	4	case	_	wf="ꙋ"|addr="212/214/216/217:_212:1"|_
+4	павловеѥ	Павловаꙗ	PROPN	_	Case=Gen|Gender=Fem|NameType=Hus|Number=Sing	2	amod	_	wf="павловеѥ"|addr="212/214/216/217:_212:1"|_
+5	з҃	·з҃·	NUM	_	NumForm=Digit|NumType=Card	6	nummod:gov	_	wf="з҃"|addr="212/214/216/217:_212:1"|_
+6	грив[ено	гривна	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	2	nsubj	_	wf="гривено"|addr="212/214/216/217:_212:1"|_
+7	и]	и	CCONJ	_	_	9	cc	_	wf="и"|addr="212/214/216/217:_212:1"|_
+8	(в҃)	·в҃·	NUM	_	NumForm=Digit|NumType=Card	9	nummod:gov	_	wf="в҃"|addr="212/214/216/217:_212:1"|_
+9	(бе)<lbr/>рковеска	берковескъ	NOUN	_	Gender=Masc	6	conj	_	wf="берковеска"|meaning="мера_веса"|addr="212/214/216/217:_212:1"|after:line_id=2|_
 
 ~~~
 

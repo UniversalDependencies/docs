@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `ADP`, `ADV`, `CCONJ`, `PRON`, `PROPN`, `SCONJ`.
 
-712 tokens (0%) have a non-empty value of `ExtPos`.
-78 types (0%) occur at least once with a non-empty value of `ExtPos`.
-63 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 13 part-of-speech tags: <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (176; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (150; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (142; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (56; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (52; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (50; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (38; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+869 tokens (0%) have a non-empty value of `ExtPos`.
+85 types (0%) occur at least once with a non-empty value of `ExtPos`.
+68 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 13 part-of-speech tags: <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (176; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (156; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (150; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (142; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (56; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (52; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (52; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (38; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -28,6 +28,17 @@ The feature is used with 13 part-of-speech tags: <tt><a href="en_ewt-pos-ADP.htm
   <tr><th>Paradigm <i>in</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
   <tr><td><tt></tt></td><td><em>in</em></td><td><em>in</em></td><td><em>in</em></td></tr>
 </table>
+
+### `SYM`
+
+156 <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> tokens (17% of all `SYM` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `SYM` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (156; 100%).
+
+`SYM` tokens may have the following values of `ExtPos`:
+
+* `ADP` (155; 99% of non-empty `ExtPos`): <em>-, @, /, x, ></em>
+* `PROPN` (1; 1% of non-empty `ExtPos`): <em>+</em>
 
 ### `ADJ`
 
@@ -92,15 +103,20 @@ The most frequent other feature values with which `NUM` and `ExtPos` co-occurred
 
 ### `VERB`
 
-50 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+52 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (50; 100%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (46; 92%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 92%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (46; 88%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 88%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 
-* `ADP` (46; 92% of non-empty `ExtPos`): <em>according</em>
+* `ADP` (46; 88% of non-empty `ExtPos`): <em>according</em>
 * `CCONJ` (3; 6% of non-empty `ExtPos`): <em>let</em>
-* `PROPN` (1; 2% of non-empty `ExtPos`): <em>Fighting</em>
+* `PROPN` (3; 6% of non-empty `ExtPos`): <em>Let, Fighting</em>
+
+<table>
+  <tr><th>Paradigm <i>let</i></th><th><tt>CCONJ</tt></th><th><tt>PROPN</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>let</em></td><td><em>Let</em></td></tr>
+</table>
 
 ### `X`
 
@@ -166,16 +182,6 @@ The most frequent other feature values with which `PROPN` and `ExtPos` co-occurr
 `PROPN` tokens may have the following values of `ExtPos`:
 
 * `PROPN` (1; 100% of non-empty `ExtPos`): <em>Amore</em>
-
-### `SYM`
-
-1 <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> tokens (0% of all `SYM` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `SYM` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`SYM` tokens may have the following values of `ExtPos`:
-
-* `PROPN` (1; 100% of non-empty `ExtPos`): <em>+</em>
 
 ## Relations with Agreement in `ExtPos`
 

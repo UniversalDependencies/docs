@@ -84,7 +84,7 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	も	も	ADP	助詞-係助詞	_	6	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=モ,も,も,も,モ,,,モ,モ,も
 8	26	26	NUM	名詞-数詞	_	10	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=ニ,二六,26,26,ニロク,,,ニロク,ニロクロク,26.6
 9	.	.	PUNCT	補助記号-句点	_	10	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=,．,.,.,,,,,ニロクロク,26.6
-10	6	6	NUM	名詞-数詞	_	18	compound	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=ロク,六,6,6,ロク,,,ロク,ニロクロク,26.6
+10	6	6	NUM	名詞-数詞	_	18	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=ロク,六,6,6,ロク,,,ロク,ニロクロク,26.6
 11	と	と	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 12	同	同	NOUN	名詞-普通名詞-一般	_	15	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ドウ,同,同,同,ドー,,,ドウ,ドウ,同
 13	47	47	NUM	名詞-数詞	_	15	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-数詞|SpaceAfter=No|UnidicInfo=ヨン,四七,47,47,ヨンナナ,,,ヨンナナ,ヨンナナニ,47.2

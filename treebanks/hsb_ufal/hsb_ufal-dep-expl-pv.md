@@ -18,25 +18,19 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 5 expl:pv	color:blue
-1	Kralojo	kral	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
-2	tuteje	tutón	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
-3	doby	doba	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
-4	mjenowachu	mjenować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
-6	lugal	lugal	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	_
-7	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
-8	=	=	PUNCT	_	_	11	punct	_	_
-9	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
-10	wulki	wulki	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
-11	čłowjek	čłowjek	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
-12	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
-13	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 expl:pv	color:blue
+1	Wotpowědny	wotpowědny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	podawk	podawk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	wospjetowaše	wospjetować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
+5	kóžde	kóždy	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	_
+6	wosme	wosmy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	7	amod	_	_
+7	lěto	lěto	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

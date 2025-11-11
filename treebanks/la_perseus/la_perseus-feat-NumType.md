@@ -11,8 +11,8 @@ It occurs with 3 different values: `Card`, `Dist`, `Ord`.
 
 317 tokens (1%) have a non-empty value of `NumType`.
 127 types (1%) occur at least once with a non-empty value of `NumType`.
-45 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (167; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (79; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (71; 0% instances).
+47 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (167; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (79; 0% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (69; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `NUM`
 
@@ -39,17 +39,28 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 ### `ADJ`
 
-71 <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
+69 <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (52; 73%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (50; 72%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Dist` (12; 17% of non-empty `NumType`): <em>singulas, singulos, binas, binos, quaternum, singula, singuli, singulis</em>
-* `Ord` (59; 83% of non-empty `NumType`): <em>prima, primus, primo, quintum, secundum, primis, quartum, secunda, secundae, sextum</em>
-* `EMPTY` (2061): <em>magna, publicae, publicam, magno, magnum, publica, magnam, mala, p, summa</em>
+* `Ord` (57; 83% of non-empty `NumType`): <em>prima, primus, primo, secundum, primis, quartum, quintum, secunda, secundae, Secundam</em>
+* `EMPTY` (2062): <em>magna, publicae, publicam, magno, magnum, publica, magnam, mala, p, summa</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (15) occur only with one value of `NumType`.
+
+### `ADV`
+
+2 <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="la_perseus-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`ADV` tokens may have the following values of `NumType`:
+
+* `Ord` (2; 100% of non-empty `NumType`): <em>quintum, sextum</em>
+* `EMPTY` (1849): <em>ne, iam, etiam, tamen, sic, nunc, ita, modo, tum, magis</em>
 
 ## Relations with Agreement in `NumType`
 

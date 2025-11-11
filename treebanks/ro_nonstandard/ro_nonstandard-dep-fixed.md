@@ -26,7 +26,7 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	Ref=MATT17.26
 3	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	Ref=MATT17.26|SpaceAfter=No
 4	:	:	PUNCT	COLON	_	7	punct	_	Ref=MATT17.26
-5	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT17.26
+5	De	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	7	case	_	Ref=MATT17.26
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	Ref=MATT17.26
 7	streini	străin	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	1	parataxis	_	Ref=MATT17.26|SpaceAfter=No
 8	.	.	PUNCT	PERIOD	_	1	punct	_	Ref=MATT17.26
@@ -45,7 +45,7 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	:	:	PUNCT	COLON	_	8	punct	_	Ref=MATT20.33
 4	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	8	vocative	_	Ref=MATT20.33|SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	4	punct	_	Ref=MATT20.33
-6	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	8	mark	_	Ref=MATT20.33
+6	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	8	mark	_	Ref=MATT20.33
 7	să	să	PART	Qs	PartType=Sub	6	fixed	_	Ref=MATT20.33
 8	deșchizi	deschide	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	Ref=MATT20.33
 9	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	obj	_	Ref=MATT20.33

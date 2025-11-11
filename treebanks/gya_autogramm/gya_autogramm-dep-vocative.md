@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	Wàntò	wàntò	PROPN	PRED	_	3	vocative	_	AlignBegin=137019|AlignEnd=137359|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=1|RX=NPR
+1	Wàntò	Wàntò	PROPN	PRED	_	3	vocative	_	AlignBegin=137019|AlignEnd=137359|Gloss=Wanto|MGloss=Wanto|MSeg=Wàntò|nWord=1|RX=NPR
 2	mɛ̀-nɛ́	_	AUX	PRED	_	3	cop	_	AlignBegin=137019|AlignEnd=137359|Gloss=C'EST|MGloss=C'EST|MSeg=mɛ̀-nɛ́|nWord=2|RX=PRED
 3	ʔò	ʔò	PRON	INTERR	_	0	root	_	AlignBegin=137359|AlignEnd=137699|Gloss=qui|MGloss=qui|MSeg=ʔò|nWord=3|RX=INTERR
 4	ʔùsà	ʔusi	VERB	V	_	3	advcl:cleft	_	AlignBegin=137699|AlignEnd=138039|Gloss=montrer|MGloss=ACC-montrer-MT|MSeg=BHa-ʔusi-H|nWord=4|RX=V

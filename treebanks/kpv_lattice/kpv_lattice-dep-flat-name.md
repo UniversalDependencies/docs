@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	вот	вот	ADV	Adv	_	5	advmod	_	GTtags=Adv,Parenthetic
 3	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	det	_	GTtags=Pron,Dem,Sg,Nom
 4	керкаясас	керка	NOUN	N	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obl	_	GTtags=N,Pl,Ine,PxSg3
-5	олісны	овны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Pl3
+5	олісны	овны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=V,IV,Ind,Prt1,Pl3
 6	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	GTtags=Num,Card,Sg,Nom
 7	вок	вок	NOUN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=N,Sg,Nom
 8	—	—	PUNCT	PUNCT	_	9	punct	_	GTtags=PUNCT
@@ -73,12 +73,12 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	томйӧзлӧн	томйӧзлӧн	NOUN	N	Case=Gen|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
 7	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	8	nsubj	_	_
-8	веськалӧны	веськавны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	acl:relcl	_	_
+8	веськалӧны	веськавны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 9	Краснӧй	Краснӧй	PROPN	N	Case=Nom|Number=Sing	11	nmod	_	_
 10	Армия	армия	NOUN	N	Case=Nom|Number=Sing	9	flat:name	_	OrigLang=ru
 11	радӧ	рад	NOUN	N	Case=Ill|Number=Sing	8	obl	_	_
 12	да	да	CCONJ	CC	_	13	cc	_	_
-13	новлӧдлӧны	новлӧдлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	conj	_	_
+13	новлӧдлӧны	новлӧдлыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 14	почетнӧй	почётнӧй	ADJ	A	Case=Nom|Number=Sing	15	amod	_	OrigLang=ru
 15	ним	ним	NOUN	N	Case=Nom|Number=Sing	13	obj	_	_
 16	–	–	PUNCT	PUNCT	_	20	punct	_	_

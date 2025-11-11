@@ -13,7 +13,7 @@ This relation is universal.
 398 instances of `nsubj` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.17085427135678.
 
-The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (268; 67% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (64; 16% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (53; 13% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (268; 67% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (63; 16% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt> (53; 13% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
 1	Wàntò	Wàntò	PROPN	NPR	_	2	nsubj	_	AlignBegin=6438|AlignEnd=7222|Gloss=Wàntò|MGloss=Wàntò|MSeg=Wàntò|nWord=1|RX=NPR
-2	dɛ̀ɛ̀	dɛ	VERB	V	_	0	root	_	AlignBegin=7222|AlignEnd=8006|Gloss=faire|MGloss=ACC-faire-MT|MSeg=Bha-dɛ-H|nWord=2|RX=V
+2	dɛ̀ɛ̀	dɛ	VERB	V	_	0	root	_	AlignBegin=7222|AlignEnd=8006|Gloss=faire|MGloss=ACC-faire-MT|MSeg=BHa-dɛ-H|nWord=2|RX=V
 3	gíà	gíà	NOUN	N	_	2	obj	_	AlignBegin=8006|AlignEnd=8790|Gloss=chasse_collective|MGloss=chasse_collective|MSeg=gíà|nWord=3|RX=N
 4	nɛ́nɛ́ɛ́ɛ́	nɛ́nɛ́	PART	MV	_	2	advmod	_	AlignBegin=8790|AlignEnd=9574|Gloss=en_allant|MGloss=en_allant-DUR|MSeg=nɛ́nɛ́-VV|nWord=4|RX=MV
 5	ʔín	ʔîn	ADP	FCT	Degree=Cmp	7	case	_	AlignBegin=9574|AlignEnd=10358|Gloss=COM|MGloss=COM-MT|MSeg=ʔîn-H|nWord=5|RX=FCT

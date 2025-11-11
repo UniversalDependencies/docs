@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Irish-IDT: POS Tags: `SCONJ`
 
 There are 35 `SCONJ` lemmas (0%), 45 `SCONJ` types (0%) and 1629 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 10 in number of types and 13 in number of tokens.
+Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ach, má, nuair, agus, mar, ná, go, dá, cé, mura</em>
 
@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>ach</em> (<tt><a href="ga_idt-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.285714 (the average of all parts of speech is 1.648496).
+The form / lemma ratio of `SCONJ` is 1.285714 (the average of all parts of speech is 1.651212).
 
 The 1st highest number of forms (5) was observed with the lemma “mura”: <em>Mur, mara, mura, murab, murar</em>.
 
@@ -85,7 +85,7 @@ Examples: <em>ach, nuair, má, mar, agus, ná, go, dá, cé, is</em>
 
 `SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="ga_idt-dep-mark.html">mark</a></tt> (1398; 86% instances), <tt><a href="ga_idt-dep-mark-prt.html">mark:prt</a></tt> (176; 11% instances), <tt><a href="ga_idt-dep-fixed.html">fixed</a></tt> (17; 1% instances), <tt><a href="ga_idt-dep-advmod.html">advmod</a></tt> (12; 1% instances), <tt><a href="ga_idt-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="ga_idt-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="ga_idt-dep-case.html">case</a></tt> (4; 0% instances), <tt><a href="ga_idt-dep-list.html">list</a></tt> (3; 0% instances), <tt><a href="ga_idt-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="ga_idt-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ga_idt-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1023; 63% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (383; 24% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (88; 5% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (66; 4% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (18; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (1023; 63% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (384; 24% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (88; 5% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (66; 4% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (18; 1% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 1455 (89%) `SCONJ` nodes are leaves.
 

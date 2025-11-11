@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_pud-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_pud-dep-aux-tense.html">aux:tense</a></tt>.
 
-225 nodes (1%) are attached to their parents as `aux:pass`.
+226 nodes (1%) are attached to their parents as `aux:pass`.
 
-225 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24.
+226 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23893805309735.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (223; 99% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (224; 99% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

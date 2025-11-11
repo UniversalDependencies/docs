@@ -59,12 +59,12 @@ The 2nd highest number of forms (3) was observed with the lemma “ועדה”: 
 
 The 3rd highest number of forms (3) was observed with the lemma “חברה”: חברה, חברות, חברת.
 
-`PROPN` occurs with 5 features: <tt><a href="he_iahltknesset-feat-Definite.html">Definite</a></tt> (272; 12% instances), <tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt> (109; 5% instances), <tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt> (107; 5% instances), <tt><a href="he_iahltknesset-feat-Abbr.html">Abbr</a></tt> (71; 3% instances), <tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`PROPN` occurs with 5 features: <tt><a href="he_iahltknesset-feat-Definite.html">Definite</a></tt> (272; 12% instances), <tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt> (109; 5% instances), <tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt> (107; 5% instances), <tt><a href="he_iahltknesset-feat-Abbr.html">Abbr</a></tt> (71; 3% instances), <tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `PROPN` occurs with 7 feature-value pairs: `Abbr=Yes`, `Definite=Cons`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
 `PROPN` occurs with 15 feature combinations.
-The most frequent feature combination is `_` (1912 tokens).
+The most frequent feature combination is `_` (1913 tokens).
 Examples: כנסת, ישראל, ירושלים, ברק, לבנון, אוצר, אל, חינוך, כספים, קורונה
 
 

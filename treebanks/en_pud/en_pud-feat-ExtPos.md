@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADP`, `ADV`, `CCONJ`, `PRON`, `SCONJ`.
 
-77 tokens (0%) have a non-empty value of `ExtPos`.
+76 tokens (0%) have a non-empty value of `ExtPos`.
 20 types (0%) occur at least once with a non-empty value of `ExtPos`.
 15 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
@@ -65,11 +65,11 @@ The most frequent other feature values with which `VERB` and `ExtPos` co-occurre
 
 ### `SCONJ`
 
-6 <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+5 <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
 `SCONJ` tokens may have the following values of `ExtPos`:
 
-* `SCONJ` (6; 100% of non-empty `ExtPos`): <em>as, so, Prior, in</em>
+* `SCONJ` (5; 100% of non-empty `ExtPos`): <em>so, Prior, as, in</em>
 
 ### `DET`
 

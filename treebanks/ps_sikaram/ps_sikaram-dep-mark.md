@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (2%) are attached to their parents as `mark`.
+93 nodes (2%) are attached to their parents as `mark`.
 
-60 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.95.
+93 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.59139784946237.
 
-The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> (46; 77% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> (7; 12% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> (4; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> (3; 5% instances).
+The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> (77; 83% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> (8; 9% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> (3; 3% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	کوم	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kawë́m|LTranslit=kawë́l|Gloss=I-do
 3	چې	چې	SCONJ	_	_	5	mark	_	Translit=če|LTranslit=če|Gloss=that
 4	باران	باران	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Translit=bârấn|LTranslit=bârấn|Gloss=rain
-5	ورېږي	ورېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Translit=wëreǧí|LTranslit=wëredë́l|Gloss=rains|SpaceAfter=No
+5	ورېږي	ورېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	Translit=wëréǧi|LTranslit=wëredë́l|Gloss=rains|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
@@ -52,18 +52,18 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 12	بشپړ	بشپړ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	13	amod	_	Translit=bë́špëṛ|LTranslit=bë́špëṛ|Gloss=complete
 13	مسئولیت	مسئولیت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	Translit=mas'ulyát|LTranslit=mas'ulyát|Gloss=responsibility
 14	ترسره	ترسره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	compound:lvc	_	Translit=tërsára|LTranslit=tërsára|Gloss=finished
-15	کولاى	کول	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	0	root	_	Translit=kawë́lây|LTranslit=kawë́l|Gloss=can
+15	کولای	کول	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	0	root	_	Translit=kawë́lây|LTranslit=kawë́l|Gloss=can
 16	شي	کېدل	AUX	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	15	aux:pot	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 17	،	،	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,|Gloss=,
 18	چې	چې	SCONJ	_	_	24	mark	_	Translit=če|LTranslit=če|Gloss=when
-19	پوهاوى	پوهاوى	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	Translit=pohấway|LTranslit=pohấway|Gloss=explanation|SpaceAfter=No
+19	پوهاوی	پوهاوی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	Translit=pohấway|LTranslit=pohấway|Gloss=explanation|SpaceAfter=No
 20	-	-	PUNCT	_	_	19	punct	_	Translit=-|LTranslit=-|Gloss=-
-21	راپوهاوى	راپوهاوى	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	compound	_	Translit=râpohấway|LTranslit=râpohấway|Gloss=understanding
+21	راپوهاوی	راپوهاوی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	compound	_	Translit=râpohấway|LTranslit=râpohấway|Gloss=understanding
 22	پر	پر	ADP	_	Case=Loc	23	case	_	Translit=për|LTranslit=për|Gloss=on
 23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	24	obl	_	Translit=ye|LTranslit=ye|Gloss=it
 24	اسانه	آسان	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	15	advcl	_	Translit=âsấna|LTranslit=âsấn|Gloss=easy
 25	وي	ول	AUX	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	24	cop	_	Translit=wi|LTranslit=wël|Gloss=is|SpaceAfter=No
-26	.	.	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.|Gloss=.
+26	.	.	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -85,14 +85,14 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 9	ټولنیز	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
 10	توپیر	توپیر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	Translit=tawpír|LTranslit=tawpír|Gloss=difference
 11	د	د	ADP	_	Case=Acc	12	case	_	Translit=dë|LTranslit=dë|Gloss=of
-12	هغوى	هغوى	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	15	obl	_	Translit=haġúy|LTranslit=haġúy|Gloss=them
+12	هغوی	هغوی	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|Person=3|PronType=Prs	15	obl	_	Translit=haġúy|LTranslit=haġúy|Gloss=them
 13	لپاره	لپاره	ADP	_	Case=Acc	12	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
 14	کوم	کوم	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	15	det	_	Translit=kum|LTranslit=kum|Gloss=any
 15	بريد	بريد	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	acl	_	Translit=brid|LTranslit=brid|Gloss=attack
 16	او	او	CCONJ	_	_	17	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 17	خنډ	خنډ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	conj	_	Translit=xanḍ|LTranslit=xanḍ|Gloss=obstacle
 18	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	15	cop	_	Translit=wi|LTranslit=wël|Gloss=would-be|SpaceAfter=No
-19	.	.	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.|Gloss=.
+19	.	.	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

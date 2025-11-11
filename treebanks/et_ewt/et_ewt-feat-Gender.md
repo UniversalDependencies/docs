@@ -36,5 +36,5 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 `PRON` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): <em>IT</em>
-* `EMPTY` (6590): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
+* `EMPTY` (6587): <em>ma, see, mis, seda, oma, kes, ta, sa, midagi, mida</em>
 

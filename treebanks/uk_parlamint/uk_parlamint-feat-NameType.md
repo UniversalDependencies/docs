@@ -9,37 +9,38 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Geo`, `Giv`, `Pat`, `Sur`.
 
-2845 tokens (3%) have a non-empty value of `NameType`.
-734 types (6%) occur at least once with a non-empty value of `NameType`.
-472 lemmas (7%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (2845; 3% instances).
+3857 tokens (4%) have a non-empty value of `NameType`.
+888 types (6%) occur at least once with a non-empty value of `NameType`.
+570 lemmas (8%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (3857; 4% instances).
 
 ### `PROPN`
 
-2845 <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `NameType`.
+3857 <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2833; 100%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1569; 55%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1565; 55%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3845; 100%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2175; 56%), <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (2134; 55%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Geo` (1272; 45% of non-empty `NameType`): <em>України, Україні, Криму, Україна, Росії, Крим, Україну, Росія, Тузла, Києві</em>
-* `Giv` (574; 20% of non-empty `NameType`): <em>Олександр, Сергій, Володимире, Михайло, Володимир, Олександре, Микола, Іван, Григорій, Юрій</em>
-* `Pat` (284; 10% of non-empty `NameType`): <em>Михайловичу, Валентиновичу, Миколайович, Івановичу, Віталійович, Іванович, Сергійович, Валентинович, Віталійовичу, Олексійович</em>
-* `Sur` (715; 25% of non-empty `NameType`): <em>Іванович, Цимбалюк, Михайлович, Кармазін, Мамка, Путіна, Крулько, Совсун, Януковича, Бакунець</em>
+* `Geo` (1714; 44% of non-empty `NameType`): <em>України, Україні, Україна, Криму, Росії, Україну, Крим, Києві, Росія, Тузла</em>
+* `Giv` (788; 20% of non-empty `NameType`): <em>Володимире, Олександр, Володимир, Михайло, Сергій, Микола, Іван, Петро, Олександре, Юрій</em>
+* `Pat` (395; 10% of non-empty `NameType`): <em>Михайловичу, Іванович, Миколайович, Валентиновичу, Івановичу, Сергійович, Віталійович, Михайлович, Олексійович, Івановича</em>
+* `Sur` (960; 25% of non-empty `NameType`): <em>Симоненко, Тимошенко, Цимбалюк, Михайлович, Януковича, Рудьковський, Кармазін, Ющенка, Мамка, Пинзеник</em>
 
 <table>
-  <tr><th>Paradigm <i>Іванович</i></th><th><tt>Pat</tt></th><th><tt>Sur</tt></th></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Івановича</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Івановичу</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Івановича</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Іванович</em></td><td><em>Іванович</em></td></tr>
-  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Voc</tt></tt></td><td><em>Івановичу</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Михайлович</i></th><th><tt>Pat</tt></th><th><tt>Sur</tt></th></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Михайловичу</em></td><td><em>Михайловичу</em></td></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Михайловича</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Михайлович</em></td><td><em>Михайлович</em></td></tr>
+  <tr><td><tt><tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Voc</tt></tt></td><td><em>Михайловичу</em></td><td><em>Михайловичу</em></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (465) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (564) occur only with one value of `NameType`.
 
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> PROPN</tt> (55; 90%).
+<tt>PROPN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> PROPN</tt> (115; 76%),
+<tt>PROPN --[<tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (2; 100%),
+<tt>PROPN --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> PROPN</tt> (1; 100%).
 

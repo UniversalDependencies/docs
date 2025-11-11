@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="bej_autogramm-dep-dislocated.html">dislocated</a></tt>.
 There are also 2 other language-specific subtypes of `dislocated`: <tt><a href="bej_autogramm-dep-dislocated-mod.html">dislocated:mod</a></tt>, <tt><a href="bej_autogramm-dep-dislocated-subj.html">dislocated:subj</a></tt>.
 
-61 nodes (1%) are attached to their parents as `dislocated:obj`.
+66 nodes (1%) are attached to their parents as `dislocated:obj`.
 
-37 instances of `dislocated:obj` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.81967213114754.
+37 instances of `dislocated:obj` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.59090909090909.
 
-The following 7 pairs of parts of speech are connected with `dislocated:obj`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (50; 82% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (6; 10% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `dislocated:obj`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (50; 76% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (11; 17% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -35,27 +35,18 @@ The following 7 pairs of parts of speech are connected with `dislocated:obj`: <t
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 15 dislocated:obj	color:blue
-1	tak	_	NOUN	N	Gender=Masc	8	nsubj	_	AlignBegin=0|AlignEnd=351|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=351|AlignEnd=1157|TokenType=Break
-3	ʔeːgirim	_	NOUN	CN	_	1	nmod	_	AlignBegin=1157|AlignEnd=1424|Gloss=elder|RX=[CN]|TokenType=Root
-4	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=1424|AlignEnd=2257|TokenType=Break
-5	ʔajaːj	_	NOUN	N	_	6	nmod	_	AlignBegin=2257|AlignEnd=2593|Gloss=relatives|RX=[N]|TokenType=Root
-6	tak	_	NOUN	N	Gender=Masc	7	dep:comp	_	AlignBegin=2593|AlignEnd=2761|Gloss=man|RX=[N].[M]|TokenType=Root
-7	=i	_	ADP	CASE	Case=Gen	1	dep	_	AlignBegin=2761|AlignEnd=2930|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
-8	iːfi	_	VERB	V1,IRG	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	12	dep:conj	_	AlignBegin=2930|AlignEnd=3154|Gloss=be_there\AOR|MGloss=3SG.M-be_there\AOR|MSeg=iː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-9	=t	_	CCONJ	CCONJ	_	8	cc	_	AlignBegin=3154|AlignEnd=3267|Gloss==COORD|RX==[CONJ]|TokenType=Clit
-10	amsi	_	ADV	ADV	_	12	advmod	_	AlignBegin=3267|AlignEnd=3603|Gloss=today|RX=[ADV]|TokenType=Root
-11	iraːnaj	_	INTJ	_	_	12	discourse	_	AlignBegin=3603|AlignEnd=3940|Gloss=gosh|RX=[EXCL]|TokenType=Root
-12	rhi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=3940|AlignEnd=4277|Gloss=see|MGloss=see-AOR.3SG.M|MSeg=rh-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
-13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=4277|AlignEnd=4764|TokenType=Break
-14	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	15	det	_	AlignBegin=4764|AlignEnd=4921|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-15	kna	_	PRON	PRO	Reflex=Yes	12	dislocated:obj	_	AlignBegin=4921|AlignEnd=5079|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
-16	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=5079|AlignEnd=5895|TokenType=Break
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 dislocated:obj	color:blue
+1	iri	_	ADV	ADV	_	5	advmod	_	AlignBegin=85746|AlignEnd=85933|Gloss=yesterday|RX=[ADV]|TokenType=Root
+2	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=85933|AlignEnd=86121|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
+3	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	5	dislocated:obj	_	AlignBegin=86121|AlignEnd=86309|Gloss=1SG.ACC|RX=[PRO]|TokenType=Root
+4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=86309|AlignEnd=86497|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+5	timwadaj	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=86497|AlignEnd=86754|Gloss=fix_appointment\PFV|MGloss=2SG.M-RECP-fix_appointment\PFV|MSeg=ti-m-wadaj|RX=[PNG]-[V1].[DER]-[V1]|TokenType=Root
+6	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	5	obj	_	AlignBegin=86754|AlignEnd=86840|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
+7	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=86840|AlignEnd=87696|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 ~~~
 

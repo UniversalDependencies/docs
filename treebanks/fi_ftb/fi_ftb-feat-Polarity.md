@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-AUX.html
 
 2910 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (28% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2910; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2910; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2910; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2799; 96%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2596; 89%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (2173; 75%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2910; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2910; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2910; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2799; 96%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2596; 89%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (2173; 75%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 228 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (228; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (228; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (219; 96%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (208; 91%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (191; 84%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (228; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (228; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (228; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (219; 96%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (208; 91%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (191; 84%).
 
 `VERB` tokens may have the following values of `Polarity`:
 

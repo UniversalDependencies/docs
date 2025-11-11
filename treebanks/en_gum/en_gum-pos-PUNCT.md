@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_gum-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.346154 (the average of all parts of speech is 1.243866).
+The form / lemma ratio of `PUNCT` is 1.346154 (the average of all parts of speech is 1.243967).
 
 The 1st highest number of forms (4) was observed with the lemma “"”: <em>", ``, “, ”</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>,, ., -, ", ?, (, ), —, :, [</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (31815; 100% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (13448; 42% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (6437; 20% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2711; 9% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2251; 7% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1909; 6% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1545; 5% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1369; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (605; 2% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (409; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (384; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (202; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (186; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (145; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (93; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (52; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (49; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (13448; 42% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (6418; 20% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2730; 9% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2250; 7% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1909; 6% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1547; 5% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1368; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (605; 2% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (409; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (384; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (202; 1% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (186; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (145; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (93; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (52; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (49; 0% instances), <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances)
 
 31805 (100%) `PUNCT` nodes are leaves.
 

@@ -57,7 +57,7 @@ The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 17	an	an	ADP	Sp	_	16	fixed	_	_
 18	sgìre	sgìre	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	Fi	_	25	punct	_	_
-20	is	is	AUX	Wp-i	ExtPos=AUX|Tense=Pres	25	cop	_	_
+20	is	is	AUX	Wp-i	ExtPos=AUX|Mood=Ind|Tense=Pres|VerbForm=Fin	25	cop	_	_
 21	an	an	ADP	Sp	_	20	fixed	_	_
 22	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	fixed	_	_
 23	ás	as	ADP	Sp	_	25	case	_	_

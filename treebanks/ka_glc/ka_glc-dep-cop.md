@@ -11,9 +11,9 @@ This relation is universal.
 1276 nodes (2%) are attached to their parents as `cop`.
 
 1100 instances of `cop` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28134796238245.
+Average distance between parent and child is 1.28369905956113.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (607; 48% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (549; 43% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (39; 3% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (23; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (607; 48% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (319; 25% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (253; 20% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (39; 3% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,12 +51,12 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 cop	color:blue
-1	ამბობენ	ამბობს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=amboben
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 13 cop	color:blue
+1	ამბობენ	ამბობს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=amboben
 2	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
 3	საინტერესო	საინტერესო	ADJ	Adj	Case=Erg|Number=Sing	1	ccomp	_	Translit=saintereso
 4	რამ	რა	PRON	Pron	Case=Erg|Number=Sing|PronType=Int	3	nsubj	_	Translit=ram

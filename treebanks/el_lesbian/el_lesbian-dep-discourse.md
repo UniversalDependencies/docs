@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-67 nodes (2%) are attached to their parents as `discourse`.
+98 nodes (2%) are attached to their parents as `discourse`.
 
-61 instances of `discourse` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26865671641791.
+82 instances of `discourse` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.70408163265306.
 
-The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (32; 48% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (14; 21% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (7; 10% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PART.html">PART</a></tt> (4; 6% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (3; 4% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (48; 49% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (20; 20% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (8; 8% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (6; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PART.html">PART</a></tt> (5; 5% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt>-<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 discourse	color:blue
-1	Τί	τί	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int|Typo=Yes	0	root	_	CorrectForm=Τι
+1	Τί	τι	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int|Typo=Yes	0	root	_	CorrectForm=Τι
 2	ένι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	_
 3	μαγευτήρας	μαγευτήρας	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	βρε	βρε	INTJ	_	_	5	discourse	_	_

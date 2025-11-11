@@ -15,19 +15,16 @@ The 10 most frequent `PUNCT` types:  <em>,, ., ", ?, “, -, ', ;, ..., –</em>
 
 The 10 most frequent ambiguous lemmas: <em>?</em> (<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> 375, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>?</em> (<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> 375, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 1), <em>‘</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 2, <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>?</em> (<tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> 375, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * <em>?</em>
   * <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> 375: <em>dè ghabh thu <b>?</b></em>
   * <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 1: <em>Tha Dé a-Nis <b>?</b> a’ frithealadh dhan an òigridh cuideachd air BBC 2 feasgar Diardaoin .</em>
-* <em>‘</em>
-  * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 2: <em>tha mise <b>‘</b> dol ag a fheuchainn co-dhiubh</em>
-  * <tt><a href="gd_arcosg-pos-PUNCT.html">PUNCT</a></tt> 1: <em>A thaobh an òrain a rinneadh an 1702 , chan urrainn nach e seo an t-òran do Shir lain MacGill-Eain a tha a' tòiseachadh ; B' i Anna a’ bhan-righinn oir tha an dara rann ag ràdh , <b>‘</b> Nam b' fhiosrach Ban-righ'nn Anna . '</em>
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.055556 (the average of all parts of speech is 1.311377).
+The form / lemma ratio of `PUNCT` is 1.055556 (the average of all parts of speech is 1.317448).
 
 The 1st highest number of forms (2) was observed with the lemma “'”: <em>', ‘</em>.
 
@@ -42,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (5392; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3196; 59% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1344; 25% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (297; 6% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (217; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (125; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (71; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (63; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (36; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3197; 59% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1343; 25% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (296; 5% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (217; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (125; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (72; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (63; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (36; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances)
 
 5392 (100%) `PUNCT` nodes are leaves.
 

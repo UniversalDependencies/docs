@@ -8,49 +8,44 @@ udver: '2'
 
 This relation is universal.
 
-32 nodes (1%) are attached to their parents as `nummod`.
+41 nodes (1%) are attached to their parents as `nummod`.
 
-27 instances of `nummod` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1875.
+36 instances of `nummod` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14634146341463.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (29; 91% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (37; 90% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (2; 5% instances), <tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nummod	color:blue
-1	niwi	niwi	PRON	_	Case=Nom	5	nsubj	_	AlignBegin=1670|AlignEnd=2470|GE=[1PL].[EXCL]|Gloss=1PL.EXCL|nWord=1|RX=[PRO]|TokenType=Root
-2	ma'keywa	ma'keywa	NUM	_	_	3	nummod	_	AlignBegin=2470|AlignEnd=3270|GE=four|Gloss=four|nWord=2|RX=[NUM]|TokenType=Root
-3	yuga	yuga	NOUN	_	_	5	obj	_	AlignBegin=3270|AlignEnd=4070|GE=little.brother|Gloss=little.brother|nWord=3|RX=[N]|TokenType=Root
-4	zʉn	zan	PART	_	_	3	advmod:emph	_	AlignBegin=4070|AlignEnd=4870|GE=[COP]|Gloss=COP|nWord=4|RX=[COP]|TokenType=Root
-5	agwaku'	gwak	VERB	_	_	0	root	_	AlignBegin=4870|AlignEnd=5670|GE=[NEG]|Gloss=1PL.SinformNEG|nWord=5|RX=[VERB]|TokenType=InflAff
-6	no	nan	AUX	_	_	5	aux	_	AlignBegin=5670|AlignEnd=6467|GE=[Q]|Gloss=auxQ|nWord=6|RX=[VERB]|TokenType=InflAff
+# visual-style 2 1 nummod	color:blue
+1	in'gwi	in'gwi	NUM	_	_	2	nummod	_	AlignBegin=30250|AlignEnd=30751|GE=one|Gloss=one|nWord=1|RX=[NUM]|TokenType=Root
+2	gwati	gwati	NOUN	_	_	5	obl:arg	_	AlignBegin=30751|AlignEnd=31252|GE=woman|Gloss=woman|nWord=2|RX=[N]|TokenType=Root
+3	ma'keywa	ma'keywa	NUM	_	_	4	nummod	_	AlignBegin=31252|AlignEnd=31753|GE=four|Gloss=four|nWord=3|RX=[NUM]|TokenType=Root
+4	abugʉmʉ	bugʉmʉ	NOUN	_	_	5	obj	_	AlignBegin=31753|AlignEnd=32254|GE=daughter|Gloss=3SG.POSSdaughter|nWord=4|RX=[N]|TokenType=Root
+5	kʉnʉna	kʉnʉ	VERB	_	Case=Abs	6	csubj	_	AlignBegin=32254|AlignEnd=32755|GE=[RMTPST]|Gloss=haveRMTPST|nWord=5|RX=[VERB]|TokenType=InflAff
+6	kwana	kwa	VERB	_	Case=Abs	7	ccomp	_	AlignBegin=32755|AlignEnd=33256|GE=[RMTPST]|Gloss=existRMTPST|nWord=6|RX=[VERB]|TokenType=InflAff
+7	awga	awga	VERB	_	_	8	advcl	_	AlignBegin=33256|AlignEnd=33757|GE=say|Gloss=say|nWord=7|RX=[V]|TokenType=Root
+8	ni	nan	PART	_	_	0	root	_	AlignBegin=33757|AlignEnd=34258|GE=[DECL]|Gloss=DECL|nWord=8|RX=[AUX]|TokenType=Root
+9	.	_	PUNCT	_	_	8	punct	_	AlignBegin=34258|AlignEnd=34760|Gloss=.|nWord=9
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 nummod	color:blue
-1	(	_	PUNCT	_	_	2	punct	_	AlignBegin=1886|AlignEnd=2495|nWord=1
-2	mhm	mhm	INTJ	_	_	12	discourse	_	AlignBegin=2495|AlignEnd=3104|GE=[HES]|Gloss=HES|nWord=2|RX=[INTERJ]|TokenType=Root
-3	)	_	PUNCT	_	_	2	punct	_	AlignBegin=3104|AlignEnd=3713|nWord=3
-4	nʉngwa	nan	AUX	_	_	12	discourse	_	AlignBegin=3713|AlignEnd=4119|GE=[FUT]|Gloss=AUXFUT|nWord=4|RX=[VERB]|TokenType=InflAff
-5	=ri	_	PART	_	_	4	advmod	_	AlignBegin=4119|AlignEnd=4322|GE=[TOP]|Gloss==TOP|nWord=4|RX=[PRT]|TokenType=Clit
-6	i'ngwi	i'ngwi	NUM	_	_	9	nummod	_	AlignBegin=4322|AlignEnd=4931|GE=one|Gloss=one|nWord=5|RX=[NUM]|TokenType=Root
-7	,	_	PUNCT	_	_	6	punct	_	AlignBegin=4931|AlignEnd=5540|nWord=6
-8	i'ngwi	i'ngwi	NUM	_	_	6	reparandum	_	AlignBegin=5540|AlignEnd=6149|GE=one|Gloss=one|nWord=7|RX=[NUM]|TokenType=Root
-9	achʉna	achʉna	ADJ	_	_	10	xcomp	_	AlignBegin=6149|AlignEnd=6758|GE=adult|Gloss=adult|nWord=8|RX=[N]|TokenType=Root
-10	kawa	kaw	VERB	_	Case=Abs	12	csubj	_	AlignBegin=6758|AlignEnd=7367|GE=seem|Gloss=seem|nWord=9|RX=[V]|TokenType=Root
-11	keywʉ	keywʉ	PART	_	_	10	discourse	_	AlignBegin=7367|AlignEnd=7976|GE=soon|Gloss=soon|nWord=10|RX=[PRT]|TokenType=Root
-12	cho'	cho'	VERB	_	_	0	root	_	AlignBegin=7976|AlignEnd=8585|GE=stand|Gloss=stand|nWord=11|RX=[V]|TokenType=Root
-13	,	_	PUNCT	_	_	12	punct	_	AlignBegin=8585|AlignEnd=9189|nWord=12
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	i'ngwi	i'ngwi	NUM	_	Case=Abs	2	nummod	_	AlignBegin=194827|AlignEnd=195445|GE=one|Gloss=one|nWord=1|RX=[NUM]|TokenType=Root
+2	aroma	aroma	ADJ	_	_	3	nsubj	_	AlignBegin=195445|AlignEnd=196063|GE=empty|Gloss=empty|nWord=2|RX=[ADJ]|TokenType=Root
+3	kicho'	cho'	VERB	_	_	0	root	_	AlignBegin=196063|AlignEnd=196681|GE=stand|Gloss=APPL3stand|nWord=3|RX=[V]|TokenType=Root
+4	ne'	nan	AUX	_	_	3	aux	_	AlignBegin=196681|AlignEnd=197093|GE=then|Gloss=auxthen|nWord=4|RX=[VERB]|TokenType=InflAff
+5	=ri	_	PART	_	_	3	advmod	_	AlignBegin=197093|AlignEnd=197298|GE=[TOP]|Gloss==TOP|nWord=4|RX=[PRT]|TokenType=Clit
 
 ~~~
 

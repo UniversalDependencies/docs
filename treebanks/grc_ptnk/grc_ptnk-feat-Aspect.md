@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="grc_ptnk-pos-VERB.h
 
 5272 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4677; 89%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4676; 89%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4383; 83%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4038; 77%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3973; 75%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3620; 69%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3612; 69%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (3172; 60%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4677; 89%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4676; 89%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4383; 83%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4038; 77%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3973; 75%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3622; 69%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3612; 69%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (3172; 60%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 156 <tt><a href="grc_ptnk-pos-AUX.html">AUX</a></tt> tokens (29% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (154; 99%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (151; 97%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (151; 97%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (148; 95%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (145; 93%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (129; 83%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (155; 99%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (154; 99%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=3</tt> (151; 97%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (151; 97%), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (148; 95%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (129; 83%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1287; 83%),
-<tt>VERB --[<tt><a href="grc_ptnk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (405; 62%),
+<tt>VERB --[<tt><a href="grc_ptnk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (406; 62%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (287; 57%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (111; 68%),
 <tt>VERB --[<tt><a href="grc_ptnk-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (89; 55%),

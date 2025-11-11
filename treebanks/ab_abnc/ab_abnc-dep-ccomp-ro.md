@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `ccomp:ro`: <tt><a h
 4	саргьы	сара́	PRON	Pron_Pers_1Sg_Encl:гьы	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	LMSeg:сара́
 5	илҳәаз	а-ҳәара́	VERB	V_Dyn_Tr_NonFin_PastIndef_S:3SgF_DO:Rel_Rel	Dyn=Yes|Gender[subj]=Fem|Number[subj]=Sing|Person[obj]=Rel|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=NonFin	7	ccomp:ro	_	LMSeg:а-ҳәа-ра́
 6	хырҩ	хры́ҩ	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	7	obj	_	LMSeg:хры́ҩ
-7	азызымуит	а-зура́	VERB	V_Dyn_Tr_Fin_Aor_Neg_S:1Sg_DO:3_DO:Ad_RO:3SgNH_Reln:For	Dyn=Yes|Gender[ro]=Neut|Number[ro]=Sing|Number[subj]=Sing|Person[obj]=3|Person[ro]=3|Person[subj]=1|Polarity=Neg|Reln=Ben|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-з·у-ра́|SpaceAfter=No
+7	азызымуит	а-зура́	VERB	V_Dyn_Tr_Fin_Aor_Neg_S:1Sg_DO:3_DO:Ad_RO:3SgNH_Reln:For	Dyn=Yes|Gender[ro]=Neut|Mood=Ind|Number[ro]=Sing|Number[subj]=Sing|Person[obj]=3|Person[ro]=3|Person[subj]=1|Polarity=Neg|Reln=Ben|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-з·у-ра́|SpaceAfter=No
 8	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 
 ~~~

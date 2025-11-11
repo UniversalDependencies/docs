@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Natalia Vlasova, Dmitri Sitchinava.
 
 Repository: [UD_Russian-Poetry](https://github.com/UniversalDependencies/UD_Russian-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,7 +88,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
 
 
 <ul>
-<li>This corpus contains 5086 sentences and 64112 tokens.</li>
+<li>This corpus contains 5085 sentences and 64112 tokens.</li>
 </ul>
 
 <ul>
@@ -219,7 +219,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
     <ul>
       <li>ADJ: равно, голубое, чужое, белое, гусиное, вечное, закатное, злое, синее, белом</li>
       <li>AUX-Fin: было</li>
-      <li>DET: мое, твое, все, свое, одно, всё, какое, такое, то, это</li>
+      <li>DET: мое, все, твое, свое, одно, всё, какое, такое, то, это</li>
       <li>NOUN: сердце, солнце, небо, слова, счастье, время, море, небе, лицо, небес</li>
       <li>NUM: два, двух, одним, одно</li>
       <li>PRON: что, все, это, всё, то, чем, оно, ничего, что-то, тем</li>
@@ -273,7 +273,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
       <li>AUX-Fin: были, будут, будем</li>
       <li>DET: все, эти, мои, твои, твоих, всех, тех, моих, этих, наших</li>
       <li>NOUN: глаза, руки, дни, лет, люди, слова, песни, цветы, слезы, дней</li>
-      <li>PRON: мы, нам, нас, них, их, вы, они, нами, вас, им</li>
+      <li>PRON: мы, нам, нас, них, вы, их, они, нами, вас, им</li>
       <li>PROPN: Александров, Атлантид, Гесперид, Гималаев, Жигулей, Жигули, Лемурий, Лимены, Пильняками, Фоблазами</li>
       <li>VERB-Fin: проходят, плывут, бегут, поют, идут, летят, стали, были, бывают, говорят</li>
       <li>VERB-Part: сверкающих, дремлющим, знавшие, опущенных, Минувших, Обручены, бегущие, живущие, забытые, знающие</li>
@@ -304,7 +304,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: последний, тихий, белый, черный, чужое, безумные, былые, звездный, легкий, серые</li>
+      <li>ADJ: последний, белый, тихий, черный, чужое, безумные, былые, звездный, легкий, серые</li>
       <li>DET: свой, все, свою, всю, этот, твой, эти, мой, мою, эту</li>
       <li>NOUN: ночь, глаза, час, руки, день, душу, землю, раз, сердце, дни</li>
       <li>NUM: много, сколько, пять, мало, три, два, две, двух, одно, сорок</li>
@@ -376,7 +376,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: милая, белый, золотые, тихий, белая, белые, первый, милый, старый, золотая</li>
+      <li>ADJ: милая, тихий, белый, золотые, белая, белые, первый, милый, старый, золотая</li>
       <li>DET: мой, моя, все, твой, тот, весь, вся, наш, этот, мои</li>
       <li>NOUN: жизнь, ветер, день, сердце, душа, солнце, ночь, мир, вечер, свет</li>
       <li>NUM: много, два, три, сколько, две, четыре, одна, двое, сто, один</li>
@@ -783,7 +783,7 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
   <li>3
     <ul>
       <li>AUX-Fin: будет, будут, есть</li>
-      <li>PRON: он, она, них, их, ней, они, его, им, ей, ним</li>
+      <li>PRON: он, она, них, ней, их, они, его, им, ей, ним</li>
       <li>VERB-Fin: может, стоит, есть, поет, кажется, проходят, знает, пахнет, проходит, будет</li>
     </ul>
   </li>
@@ -814,10 +814,58 @@ et al. (eds.), Nacional’nyj korpus russkogo jazyka: 2006–2008. Novye rezul�
 <ul>
   <li><a>ExtPos</a>
     <ul>
+      <li>ADJ
+        <ul>
+          <li>DET: Какого</li>
+          <li>PRON: то</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: Во, При, в, по</li>
+        </ul>
+      </li>
       <li>ADV
         <ul>
           <li>ADP: до, с, по</li>
-          <li>PRON: все, Всё, что</li>
+          <li>ADV: все, как, всё, едва, впрямь, вряд</li>
+          <li>DET: Сам</li>
+          <li>PART: Не</li>
+          <li>PRON: все, что, Всё</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: Да, То, Но, а, и</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>PRON: что</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>ADV: т.</li>
+          <li>DET: сам, самим</li>
+          <li>PRON: друг, т.</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>PART: хотя, Лишь, только</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: С</li>
+          <li>ADV: потому, Как, Так</li>
+          <li>SCONJ: как, будто, хотя</li>
+        </ul>
+      </li>
+      <li>VERB
+        <ul>
+          <li>PRON: все, всё</li>
         </ul>
       </li>
     </ul>
@@ -969,7 +1017,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Conv--NOUN-Nom (2)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Gen (31)</li>
+      <li>VERB-Fin--NOUN-Gen (32)</li>
       <li>VERB-Fin--NOUN-Nom (2323)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
       <li>VERB-Fin--PRON-Nom (1313)</li>
@@ -986,29 +1034,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Gen (7)</li>
       <li>VERB--PRON-Acc (3)</li>
-      <li>VERB-Conv--NOUN-Acc (209)</li>
+      <li>VERB-Conv--NOUN-Acc (207)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(вдоль) (1)</li>
-      <li>VERB-Conv--NOUN-Gen (14)</li>
+      <li>VERB-Conv--NOUN-Gen (13)</li>
       <li>VERB-Conv--NOUN-Ins (1)</li>
       <li>VERB-Conv--PRON-Acc (12)</li>
       <li>VERB-Conv--PRON-Gen (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc (1109)</li>
-      <li>VERB-Fin--NOUN-Gen (185)</li>
+      <li>VERB-Fin--NOUN-Acc (1097)</li>
+      <li>VERB-Fin--NOUN-Gen (172)</li>
       <li>VERB-Fin--NOUN-Ins (6)</li>
       <li>VERB-Fin--NOUN-Par (1)</li>
-      <li>VERB-Fin--PRON-Acc (308)</li>
+      <li>VERB-Fin--PRON-Acc (307)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Gen (12)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Acc (201)</li>
-      <li>VERB-Inf--NOUN-Gen (31)</li>
+      <li>VERB-Inf--NOUN-Acc (198)</li>
+      <li>VERB-Inf--NOUN-Gen (28)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
-      <li>VERB-Inf--PRON-Acc (62)</li>
+      <li>VERB-Inf--PRON-Acc (61)</li>
       <li>VERB-Inf--PRON-Gen (4)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (32)</li>
-      <li>VERB-Part--NOUN-Gen (13)</li>
+      <li>VERB-Part--NOUN-Gen (12)</li>
       <li>VERB-Part--PRON-Acc (7)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
@@ -1025,7 +1073,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Dat (11)</li>
       <li>VERB-Conv--NOUN-Ins (55)</li>
       <li>VERB-Conv--PRON-Dat (2)</li>
-      <li>VERB-Fin--NOUN-Dat (93)</li>
+      <li>VERB-Fin--NOUN-Dat (94)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(вопреки) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(к) (1)</li>
       <li>VERB-Fin--NOUN-Ins (427)</li>

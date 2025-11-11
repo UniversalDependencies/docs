@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 3785 <tt><a href="it_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2309; 61%), <tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2307; 61%), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2183; 58%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3493; 92%), <tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2309; 61%), <tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2183; 58%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -46,9 +46,9 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, l', lo</em></td><td><em>i, gli</em></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la, l'</em></td><td><em>le</em></td></tr>
-  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l'</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>il, l', lo</em></td><td><em>i, gli</em></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la, l'</em></td><td><em>le</em></td></tr>
+  <tr><td><tt><tt><a href="it_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>l'</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>il, l', lo</em></td><td><em>i, gli</em></td></tr>
   <tr><td><tt><tt><a href="it_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la, l'</em></td><td><em>le, la</em></td></tr>
 </table>

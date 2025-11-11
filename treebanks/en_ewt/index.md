@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, Ethan Chi, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith, John Bauer.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -59,7 +59,8 @@ hand-corrected to Universal Dependencies. All the basic dependency annotations h
 been single-annotated, a limited portion of them have been double-annotated,
 and subsequent correction has been done to improve consistency. Other aspects
 of the treebank, such as Universal POS, features and enhanced dependencies, has
-mainly been done automatically, with very limited hand-correction.
+mainly been done automatically, with very limited hand-correction initially
+(but substantial cleanup over the years).
 
 
 ## Acknowledgments
@@ -280,7 +281,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: me, it, you, them, him, us, her, yourself, myself, itself</li>
+      <li>PRON: it, me, you, them, him, us, her, yourself, myself, itself</li>
     </ul>
   </li>
 </ul>
@@ -473,7 +474,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>ADV: now, then, there, here, than, their, them, hear, that, thr</li>
       <li>DET: this, that, these, those, Thi$, dat, dthat, his, them</li>
-      <li>PRON: this, that, those, these</li>
+      <li>PRON: there, this, that, those, these, their, they</li>
     </ul>
   </li>
 </ul>
@@ -678,7 +679,8 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>PART: na, ta, nt, 2, a</li>
           <li>PRON: u, ur, any1, somethin, wht</li>
           <li>PROPN: Sept., Dec., Oct, Oct., feb, Jan, Nov, Nov., Sat., Fri</li>
-          <li>SCONJ: b/c, 4, bc, cos, cus, tho, w/out, coz</li>
+          <li>SCONJ: b/c, 4, bc, tho, w/out, cos, coz, cus</li>
+          <li>SYM: @</li>
           <li>VERB-Fin: wan, SMS, hav</li>
           <li>VERB-Ger: xferring, findin</li>
           <li>VERB-Inf: hav, Arrv., wan</li>
@@ -698,6 +700,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>ADP: because, as, in, b/c, on, becuse</li>
           <li>ADV: instead, next</li>
           <li>SCONJ: as</li>
+          <li>SYM: -, @, /, x, ></li>
           <li>VERB-Part: according</li>
         </ul>
       </li>
@@ -731,6 +734,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>PROPN: Amore</li>
           <li>SYM: +</li>
           <li>VERB-Ger: Fighting</li>
+          <li>VERB-Inf: Let</li>
           <li>X: Alberta, MEH-risk, ENRON, BLACKLINE, BRENNER, Percell,, Primary, Questar, REDLINE, Sanders</li>
         </ul>
       </li>
@@ -831,7 +835,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>DET: them</li>
           <li>NOUN: lovin'</li>
           <li>PRON: Ya'll</li>
-          <li>SCONJ: coz</li>
+          <li>SCONJ: cos, coz, cus</li>
           <li>VERB-Fin: c'm</li>
           <li>VERB-Ger: goin, playin</li>
           <li>VERB-Part: cookin', wagin, walkin</li>
@@ -858,7 +862,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>NOUN: mid, Compaq.com, area's, catagory, chnages, collages, e, ect, hamburguers, resturant</li>
           <li>NUM: 3,, on</li>
           <li>PART: s, nt, ', too, -s, `s, ot, the</li>
-          <li>PRON: you, there, it's, their, the, s, out, they, any, who's</li>
+          <li>PRON: you, there, it's, the, s, their, out, any, who's, my</li>
           <li>PROPN: John, Ken, David, Lorie, Sara, Nasim, Robert, Sear's, penines, Adnan</li>
           <li>PUNCT: 1?!?!?, =</li>
           <li>SCONJ: becuse, then, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse</li>
@@ -918,23 +922,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3519)</li>
+      <li>VERB-Fin--NOUN (3518)</li>
       <li>VERB-Fin--PRON (322)</li>
-      <li>VERB-Fin--PRON-Acc (794)</li>
-      <li>VERB-Fin--PRON-Nom (67)</li>
+      <li>VERB-Fin--PRON-Acc (861)</li>
       <li>VERB-Ger--NOUN (479)</li>
       <li>VERB-Ger--PRON (13)</li>
-      <li>VERB-Ger--PRON-Acc (43)</li>
-      <li>VERB-Ger--PRON-Nom (5)</li>
+      <li>VERB-Ger--PRON-Acc (48)</li>
       <li>VERB-Inf--NOUN (3151)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
       <li>VERB-Inf--PRON (332)</li>
-      <li>VERB-Inf--PRON-Acc (720)</li>
-      <li>VERB-Inf--PRON-Nom (89)</li>
+      <li>VERB-Inf--PRON-Acc (809)</li>
       <li>VERB-Part--NOUN (1326)</li>
       <li>VERB-Part--PRON (140)</li>
-      <li>VERB-Part--PRON-Acc (150)</li>
-      <li>VERB-Part--PRON-Nom (11)</li>
+      <li>VERB-Part--PRON-Acc (161)</li>
     </ul>
   </li>
 </ul>
@@ -944,18 +944,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (60)</li>
       <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Fin--PRON-Acc (288)</li>
-      <li>VERB-Fin--PRON-Nom (5)</li>
+      <li>VERB-Fin--PRON-Acc (293)</li>
       <li>VERB-Ger--NOUN (10)</li>
       <li>VERB-Ger--PRON-Acc (14)</li>
       <li>VERB-Inf--NOUN (36)</li>
       <li>VERB-Inf--PRON (6)</li>
-      <li>VERB-Inf--PRON-Acc (221)</li>
-      <li>VERB-Inf--PRON-Nom (9)</li>
+      <li>VERB-Inf--PRON-Acc (230)</li>
       <li>VERB-Part--NOUN (16)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (47)</li>
-      <li>VERB-Part--PRON-Nom (1)</li>
+      <li>VERB-Part--PRON-Acc (48)</li>
     </ul>
   </li>
 </ul>

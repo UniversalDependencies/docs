@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-61 nodes (0%) are attached to their parents as `compound`.
+69 nodes (0%) are attached to their parents as `compound`.
 
-58 instances of `compound` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.44262295081967.
+66 instances of `compound` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.42028985507246.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (47; 77% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (9; 15% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (4; 7% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (49; 71% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (11; 16% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (4; 6% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -80,7 +80,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 16	30	30	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 18	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	14	obl	_	_
-19	înainte	înainte	ADV	Rgp	Degree=Pos	23	mark	_	_
+19	înainte	înainte	ADV	Rgp	Degree=Pos|ExtPos=ADP	23	mark	_	_
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	fixed	_	_
 21	a	a	PART	Qn	PartType=Inf	23	mark	_	_
 22	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	23	expl:pv	_	_

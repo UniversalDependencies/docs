@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PoSTWITA](https://github.com/UniversalDependencies/UD_Italian-PoSTWITA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -634,13 +634,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1167)</li>
       <li>VERB-Fin--NOUN-ADP(di) (4)</li>
       <li>VERB-Fin--NOUN-ADP(senza) (1)</li>
-      <li>VERB-Fin--PRON (908)</li>
+      <li>VERB-Fin--PRON (909)</li>
       <li>VERB-Fin--PRON-ADP(a) (1)</li>
       <li>VERB-Fin--PRON-ADP(in) (1)</li>
       <li>VERB-Ger--NOUN (28)</li>
       <li>VERB-Ger--PRON (27)</li>
-      <li>VERB-Inf--NOUN (93)</li>
-      <li>VERB-Inf--PRON (74)</li>
+      <li>VERB-Inf--NOUN (92)</li>
+      <li>VERB-Inf--PRON (75)</li>
       <li>VERB-Inf--PRON-ADP(per) (1)</li>
       <li>VERB-Part--NOUN (177)</li>
       <li>VERB-Part--NOUN-ADP(oltre) (1)</li>
@@ -652,19 +652,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1674)</li>
+      <li>VERB-Fin--NOUN (1670)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(di) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(su) (1)</li>
-      <li>VERB-Fin--PRON (955)</li>
+      <li>VERB-Fin--PRON (947)</li>
       <li>VERB-Fin--PRON-ADP(contro) (1)</li>
       <li>VERB-Ger--NOUN (76)</li>
       <li>VERB-Ger--PRON (28)</li>
-      <li>VERB-Inf--NOUN (816)</li>
+      <li>VERB-Inf--NOUN (815)</li>
       <li>VERB-Inf--PRON (343)</li>
       <li>VERB-Inf--PRON-ADP(a) (1)</li>
       <li>VERB-Part--NOUN (351)</li>
-      <li>VERB-Part--PRON (151)</li>
+      <li>VERB-Part--PRON (150)</li>
     </ul>
   </li>
 </ul>
@@ -672,7 +671,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (682)</li>
+      <li>VERB-Fin--PRON (683)</li>
       <li>VERB-Fin--PRON-ADP(a) (3)</li>
       <li>VERB-Ger--PRON (12)</li>
       <li>VERB-Inf--NOUN-ADP(a) (1)</li>

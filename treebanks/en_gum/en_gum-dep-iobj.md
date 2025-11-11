@@ -22,12 +22,12 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 iobj	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|7:nsubj	Discourse=joint-other_m:14->2:3:_|Entity=(4-person-giv:act-nssss-cf1*-1-ana)|PDTB=Implicit:Expansion.Substitution.Arg2-as-subst:instead:_:65-74:75-83
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|7:nsubj	Discourse=joint-other_m:14->2:3:_|Entity=(11-person-giv:act-nssss-cf1*-1-ana)|PDTB=Implicit:Expansion.Substitution.Arg2-as-subst:instead:_:65-74:75-83
 2	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	home	home	ADV	RB	Degree=Pos	2	advmod	2:advmod	_
-4	last	last	ADJ	JJ	Degree=Pos	5	amod	5:amod	Entity=(7-time-giv:act-sssss-cf3-2-coref
-5	night	night	NOUN	NN	Number=Sing	2	obl:unmarked	2:obl:unmarked	Entity=7)
-6	and	and	CCONJ	CC	_	7	cc	7:cc	Discourse=joint-sequence_m:15->14:0:dm-and-80|PDTB=Explicit:Expansion.Conjunction:and:80:75-79:81-83;Implicit:Temporal.Asynchronous.Precedence:then:_:75-79:80-83
+3	home	home	ADV	RB	Degree=Pos	2	advmod	2:advmod	Bridge=11<13|Entity=(13-place-acc:inf-nnnns-cf4-1-coref)
+4	last	last	ADJ	JJ	Degree=Pos	5	amod	5:amod	Entity=(6-time-giv:act-sssss-cf3-2-coref
+5	night	night	NOUN	NN	Number=Sing	2	obl:unmarked	2:obl:unmarked	Entity=6)
+6	and	and	CCONJ	CC	_	7	cc	7:cc	Discourse=joint-sequence_m:15->14:0:dm-and-80-_|PDTB=Explicit:Expansion.Conjunction:and:80:75-79:81-83;Implicit:Temporal.Asynchronous.Precedence:then:_:75-79:80-83
 7	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	2:conj:and	MSeg=tol-d
 8	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	iobj	7:iobj	Entity=(12-person-giv:act-n____-cf2-1-ana)|SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 iobj	color:blue
-1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Discourse=topic-question:130->138:1:grf-qst-686+lex-indwd-733
+1	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Discourse=topic-question:130->138:1:grf-qst-686-_+lex-indwd-733-_
 2	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	Negation=Yes
 3	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Entity=(49-plant-giv:inact-nnnnn-cf2-1-ana)
 4	what	what	PRON	WP	PronType=Rel	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=4:Interrogative-Polar-Direct.Clause|Entity=(58-plant-new-sssss-cf5-1-coref
@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	tell	tell	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	_
 4	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	3:iobj	Entity=(64-person-giv:inact-nnnnn-cf1-1-ana)|SpaceAfter=No
 5	,	,	PUNCT	,	_	9	punct	9:punct	_
-6	or	or	CCONJ	CC	_	9	cc	9:cc	Discourse=joint-disjunction_m:161->160:0:dm-or-831|PDTB=Explicit:Expansion.Disjunction:or:831:826-830:832-836
+6	or	or	CCONJ	CC	_	9	cc	9:cc	Discourse=joint-disjunction_m:161->160:0:dm-or-831-_|PDTB=Explicit:Expansion.Disjunction:or:831:826-830:832-836
 7	do	do	AUX	VB	VerbForm=Inf	9	aux	9:aux	_
 8	n't	not	PART	RB	Polarity=Neg	9	advmod	9:advmod	Negation=Yes
 9	tell	tell	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	3	conj	3:conj:or	_

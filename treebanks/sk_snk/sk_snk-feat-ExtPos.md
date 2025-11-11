@@ -47,8 +47,6 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 7 <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `SCONJ` and `ExtPos` co-occurred: <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%).
-
 `SCONJ` tokens may have the following values of `ExtPos`:
 
 * `SCONJ` (7; 100% of non-empty `ExtPos`): <em>zatiaľ</em>

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Ag`, `Loc`.
 
-47 tokens (1%) have a non-empty value of `Nomzr`.
-44 types (1%) occur at least once with a non-empty value of `Nomzr`.
-42 lemmas (2%) occur at least once with a non-empty value of `Nomzr`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (39; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (8; 0% instances).
+48 tokens (1%) have a non-empty value of `Nomzr`.
+45 types (1%) occur at least once with a non-empty value of `Nomzr`.
+43 lemmas (2%) occur at least once with a non-empty value of `Nomzr`.
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (40; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (8; 0% instances).
 
 ### `VERB`
 
-39 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Nomzr`.
+40 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Nomzr`.
 
-The most frequent other feature values with which `VERB` and `Nomzr` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (36; 92%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (28; 72%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 64%).
+The most frequent other feature values with which `VERB` and `Nomzr` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (37; 93%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (29; 73%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 65%).
 
 `VERB` tokens may have the following values of `Nomzr`:
 
-* `Ag` (38; 97% of non-empty `Nomzr`): <em>сулалысь, дзирдалысь, локтысь, Вӧралысь, видзысьяс, воысьясӧс, вӧтчысь, вӧчысь, дзользьысь, индалысьясным</em>
+* `Ag` (39; 98% of non-empty `Nomzr`): <em>сулалысь, дзирдалысь, локтысь, Вӧралысь, видзысьяс, воысьясӧс, вӧтчысь, вӧчысь, дзользьысь, индалысьясным</em>
 * `Loc` (1; 3% of non-empty `Nomzr`): <em>чӧвтанінӧ</em>
 
 <table>
@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Nomzr` co-occurred
   <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>чӧвтысьяс</em></td><td></td></tr>
 </table>
 
-`Nomzr` seems to be **lexical feature** of `VERB`. 97% lemmas (33) occur only with one value of `Nomzr`.
+`Nomzr` seems to be **lexical feature** of `VERB`. 97% lemmas (34) occur only with one value of `Nomzr`.
 
 ### `NOUN`
 

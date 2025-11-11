@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-2051 tokens (11%) have a non-empty value of `Tense`.
-1109 types (15%) occur at least once with a non-empty value of `Tense`.
-674 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1426; 8% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (562; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (62; 0% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+2052 tokens (11%) have a non-empty value of `Tense`.
+1110 types (15%) occur at least once with a non-empty value of `Tense`.
+675 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1426; 8% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (562; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (63; 0% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -76,16 +76,17 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-62 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Tense`.
+63 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (62; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (62; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (62; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 63%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (33; 53%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (63; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (63; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (63; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (62; 98%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 63%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (34; 54%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Pres` (62; 100% of non-empty `Tense`): <em>vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</em>
-* `EMPTY` (2207): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `Fut` (1; 2% of non-empty `Tense`): <em>budoucího</em>
+* `Pres` (62; 98% of non-empty `Tense`): <em>vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</em>
+* `EMPTY` (2206): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (50) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (51) occur only with one value of `Tense`.
 
 ### `NOUN`
 

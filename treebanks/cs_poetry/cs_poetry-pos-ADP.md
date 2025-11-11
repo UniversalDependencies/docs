@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-Poetry: POS Tags: `ADP`
 
-There are 24 `ADP` lemmas (1%), 33 `ADP` types (1%) and 547 `ADP` tokens (9%).
+There are 24 `ADP` lemmas (1%), 33 `ADP` types (1%) and 548 `ADP` tokens (9%).
 Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>v, na, k, z, s, nad, do, pro, o, za</em>
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>s</em> (<tt><a href="cs_poetry-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.375000 (the average of all parts of speech is 1.400929).
+The form / lemma ratio of `ADP` is 1.375000 (the average of all parts of speech is 1.401136).
 
 The 1st highest number of forms (3) was observed with the lemma “k”: <em>k, ke, ku</em>.
 
@@ -35,22 +35,22 @@ The 2nd highest number of forms (2) was observed with the lemma “mezi”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “nad”: <em>nad, nade</em>.
 
-`ADP` occurs with 4 features: <tt><a href="cs_poetry-feat-AdpType.html">AdpType</a></tt> (545; 100% instances), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt> (545; 100% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (5; 1% instances), <tt><a href="cs_poetry-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+`ADP` occurs with 4 features: <tt><a href="cs_poetry-feat-AdpType.html">AdpType</a></tt> (546; 100% instances), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt> (546; 100% instances), <tt><a href="cs_poetry-feat-Style.html">Style</a></tt> (5; 1% instances), <tt><a href="cs_poetry-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
 `ADP` occurs with 9 feature-value pairs: `AdpType=Prep`, `AdpType=Voc`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `ExtPos=ADP`, `Style=Rare`
 
 `ADP` occurs with 15 feature combinations.
-The most frequent feature combination is `AdpType=Prep|Case=Loc` (185 tokens).
+The most frequent feature combination is `AdpType=Prep|Case=Loc` (186 tokens).
 Examples: <em>v, na, o, po, Při</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="cs_poetry-dep-case.html">case</a></tt> (546; 100% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="cs_poetry-dep-case.html">case</a></tt> (547; 100% instances), <tt><a href="cs_poetry-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (448; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (65; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (15; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (448; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (66; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (15; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
-546 (100%) `ADP` nodes are leaves.
+547 (100%) `ADP` nodes are leaves.
 
 1 (0%) `ADP` nodes have one child.
 

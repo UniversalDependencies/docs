@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-8196 tokens (8%) have a non-empty value of `Degree`.
+8197 tokens (8%) have a non-empty value of `Degree`.
 3081 types (20%) occur at least once with a non-empty value of `Degree`.
-2255 lemmas (21%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (7040; 7% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (1138; 1% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+2253 lemmas (21%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 5 part-of-speech tags: <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (7040; 7% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (1139; 1% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -43,21 +43,21 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-1138 <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> tokens (15% of all `ADV` tokens) have a non-empty value of `Degree`.
+1139 <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> tokens (15% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (191; 17% of non-empty `Degree`): <em>senare, mer, vidare, tidigare, längre, mindre, mera, bättre, närmare, snarare</em>
-* `Pos` (830; 73% of non-empty `Degree`): <em>mycket, helt, längre, länge, faktiskt, lite, väl, långt, gärna, lätt</em>
+* `Pos` (831; 73% of non-empty `Degree`): <em>mycket, helt, längre, länge, faktiskt, lite, väl, långt, gärna, lätt</em>
 * `Sup` (117; 10% of non-empty `Degree`): <em>helst, mest, minst, ytterst, sist, senast, längst, närmast, oftast, högst</em>
-* `EMPTY` (6593): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
+* `EMPTY` (6617): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
   <tr><td><tt></tt></td><td><em>mycket</em></td><td><em>mera, mer</em></td><td><em>mest</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 91% lemmas (142) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 90% lemmas (139) occur only with one value of `Degree`.
 
 ### `NOUN`
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (10; 100% of non-empty `Degree`): <em>vänster, baksidorna, dotter, död, sågspån</em>
-* `EMPTY` (17829): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
+* `EMPTY` (17830): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
 
 ### `VERB`
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Pos` (7; 100% of non-empty `Degree`): <em>förhörd, inhamrade, jordluktande, kallade, nersölade, slagen, uppdelad</em>
-* `EMPTY` (12407): <em>sa, hade, kom, såg, gick, har, ta, göra, se, tog</em>
+* `EMPTY` (12408): <em>sa, hade, kom, såg, gick, har, ta, göra, se, tog</em>
 
 ### `PROPN`
 
@@ -95,14 +95,14 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (314; 96%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (25; 76%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (8; 89%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (8; 73%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-acl.html">acl</a></tt>]--> ADJ</tt> (6; 100%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (6; 75%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (5; 71%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (315; 96%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-amod.html">amod</a></tt>]--> ADJ</tt> (23; 77%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (8; 80%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (8; 80%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-acl.html">acl</a></tt>]--> ADJ</tt> (7; 100%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (7; 88%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (4; 67%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (4; 80%),
-<tt>ADJ --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (4; 100%).
+<tt>ADJ --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="sv_lines-dep-appos.html">appos</a></tt>]--> ADJ</tt> (3; 100%).
 

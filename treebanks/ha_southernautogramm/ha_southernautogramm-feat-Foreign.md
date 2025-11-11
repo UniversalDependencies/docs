@@ -9,43 +9,32 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-72 tokens (0%) have a non-empty value of `Foreign`.
-48 types (3%) occur at least once with a non-empty value of `Foreign`.
-51 lemmas (4%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (29; 0% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (27; 0% instances), <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
-
-### `X`
-
-29 <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> tokens (31% of all `X` tokens) have a non-empty value of `Foreign`.
-
-`X` tokens may have the following values of `Foreign`:
-
-* `Yes` (29; 100% of non-empty `Foreign`): <em>lìllaːhì, àlhamdù, sùkûːl, Allàː, Riːmiː, bitch, dubuː, fir̃aːmar̃i, huɗu, hù</em>
-* `EMPTY` (64): <em>X, galalan, k~, gar̃as, mut~, tìr̃kaː, à~, ƙut, at~, a~</em>
-
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (21) occur only with one value of `Foreign`.
+63 tokens (0%) have a non-empty value of `Foreign`.
+41 types (2%) occur at least once with a non-empty value of `Foreign`.
+43 lemmas (3%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (34; 0% instances), <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> (16; 0% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-27 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+34 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (27; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (34; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (27; 100% of non-empty `Foreign`): <em>poison, police, kilaːs, Eːbìːyù, TV, bìr̃êːk, chemistry, drinks, inspector̃, juice</em>
-* `EMPTY` (1786): <em>àbin, àbîn, loːkàcîn, mài, gidan, gidaː, zaːmàniː, irìn, àbù, ruwaː</em>
+* `Yes` (34; 100% of non-empty `Foreign`): <em>poison, police, kilaːs, sùkûːl, Eːbìːyù, TV, bitch, bìr̃êːk, chemistry, drinks</em>
+* `EMPTY` (1757): <em>àbin, àbîn, loːkàcîn, gidaː, zaːmàniː, àbù, irìn, ruwaː, zoːmoː, gàriː</em>
 
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (26) occur only with one value of `Foreign`.
 
 ### `INTJ`
 
-5 <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> tokens (1% of all `INTJ` tokens) have a non-empty value of `Foreign`.
+16 <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> tokens (2% of all `INTJ` tokens) have a non-empty value of `Foreign`.
 
 `INTJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (5; 100% of non-empty `Foreign`): <em>OK</em>
-* `EMPTY` (874): <em>tòː, eː, ƙwar̃ai, ai, mː, na'àm, kâi, m̀ː, àː, tôː</em>
+* `Yes` (16; 100% of non-empty `Foreign`): <em>OK, lìllaːhì, àlhamdù, sòː</em>
+* `EMPTY` (904): <em>tòː, eː, ƙwar̃ai, ai, mː, na'àm, kâi, m̀ː, àː, tôː</em>
 
 ### `VERB`
 
@@ -56,18 +45,18 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>checking, escaping, pr̃etending</em>
-* `EMPTY` (2039): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
+* `EMPTY` (2036): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
 
-### `PART`
+### `ADJ`
 
-3 <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Foreign`.
+3 <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PART` and `Foreign` co-occurred: <tt><a href="ha_southernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%).
 
-`PART` tokens may have the following values of `Foreign`:
+`ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (3; 100% of non-empty `Foreign`): <em>sòː</em>
-* `EMPTY` (1173): <em>nèː, ba, na, kuma, maː, dai, gàː, kèːnan, àkwai, bàː</em>
+* `Yes` (3; 100% of non-empty `Foreign`): <em>fir̃aːmar̃i, jiːniyo, sakandir̃iː</em>
+* `EMPTY` (42): <em>ɗan, ainihin, ƴan, farin, kalàː-kalàː, saːbon, ƴar̃, baƙa-baƙaː, baƙin, bàbban</em>
 
 ### `PROPN`
 
@@ -76,7 +65,18 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Feːdar̃al, Gor̃illas</em>
-* `EMPTY` (299): <em>Allàː, Basaːwaː, Fulàːniː, Basaːwa, Ùngwan, Bàːsa, Dattì, Gwànjoː, Mângajàː, Bàːsân</em>
+* `EMPTY` (302): <em>Allàː, Basaːwaː, Fulàːniː, Basaːwa, Ùngwan, Bàːsa, Dattì, Gwànjoː, Mângajàː, Bàːsân</em>
+
+### `ADP`
+
+1 <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `ADP` and `Foreign` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADP` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>of</em>
+* `EMPTY` (642): <em>dà, à, na, mài, kàman, cikin, dàgà, mà, wajen, ta</em>
 
 ### `ADV`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>especia~</em>
-* `EMPTY` (799): <em>sai, yànzu, dâː, hakà, nan, ɗan, gàske, nân, ìnaː, yandà</em>
+* `EMPTY` (853): <em>sai, yànzu, dâː, hakà, nan, wai, ɗan, gàske, nân, ìnaː</em>
 
 ### `CCONJ`
 
@@ -96,11 +96,27 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>but</em>
-* `EMPTY` (178): <em>dà, koː, àmmaː, kuma, koːkòː, bàllàntànaː, sai</em>
+* `EMPTY` (195): <em>dà, koː, àmmaː, kuma, koːkòː, sai, wàːtòn, bàllàntànaː, wàːtòː</em>
+
+### `DET`
+
+1 <tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ha_southernautogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>the</em>
+* `EMPTY` (319): <em>wânnan, nan, wani, su, ɗîn, nàn, wannàn, wata, wasu, duk</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="ha_southernautogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (16; 100%),
-<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>INTJ --[<tt><a href="ha_southernautogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> INTJ</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="ha_southernautogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADP</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> DET</tt> (1; 100%).
 

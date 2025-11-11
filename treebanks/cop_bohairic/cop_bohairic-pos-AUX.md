@@ -13,9 +13,9 @@ The 10 most frequent `AUX` lemmas: ⲁ, ⲛⲁⲣⲉ, ⲛⲧⲉ, ⲛⲁ, ⲉⲧ,
 
 The 10 most frequent `AUX` types:  ⲁ, ⲛⲁ, ⲉⲧ, ⲛⲧⲉ, ⲛⲧ, ϣⲁ, ⲙⲡⲉ, ⲛⲉ, ⲛ, ⲙⲁⲣⲉ
 
-The 10 most frequent ambiguous lemmas: ⲁ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1136, <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 1), ⲛⲧⲉ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 340, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 242), ⲛⲁ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 331, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 215, <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 4), ⲙⲙⲟⲛ (<tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 42, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 6), ⲟⲩⲟⲛ (<tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 62, <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 4), ⲉⲣⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 517, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 3, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ⲁ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1136, <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 1), ⲛⲧⲉ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 340, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 242), ⲛⲁ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 331, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 215, <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 4), ⲙⲙⲟⲛ (<tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 42, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 6), ⲟⲩⲟⲛ (<tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 62, <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 4), ⲉⲣⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 522, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 3, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ⲁ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1134, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 21, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 1), ⲛⲁ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 396, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 179, <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 54, <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 4), ⲉⲧ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 389, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 169, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 23), ⲛⲧⲉ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 326, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 145), ⲛⲧ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 55, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1), ϣⲁ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 45, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 33), ⲛⲉ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 44, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 37), ⲛ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1078, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 91, <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 44, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 42, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 21, <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 13, <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> 2), ϣⲁⲧ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 2), ⲙⲙⲟⲛ (<tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 42, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 6)
+The 10 most frequent ambiguous types:  ⲁ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1134, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 21, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 1), ⲛⲁ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 396, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 179, <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 54, <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 4), ⲉⲧ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 390, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 169, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 22), ⲛⲧⲉ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 326, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 145), ⲛⲧ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 55, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1), ϣⲁ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 45, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 33), ⲛⲉ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 44, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 37), ⲛ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1078, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 91, <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 44, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 42, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 21, <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 13, <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> 2), ϣⲁⲧ (<tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 2), ⲙⲙⲟⲛ (<tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 42, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 7, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 6)
 
 
 * ⲁ
@@ -28,9 +28,9 @@ The 10 most frequent ambiguous types:  ⲁ (<tt><a href="cop_bohairic-pos-AUX.ht
   * <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 54: ⲟⲩⲟϩ ⲉⲧ ⲁ ϥ ⲉⲣⲟⲩⲱ ⲛⲱ ⲟⲩ ⲡⲉϫⲁ ϥ ϫⲉ ⲓⲥ ⲧⲁ ⲙⲁⲩ ⲛⲉⲙ <b>ⲛⲁ</b> ⲥⲛⲏⲟⲩ
   * <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 4: ϫⲉ ⲥⲉ <b>ⲛⲁ</b> ⲉϧⲟⲩⲛ ⲉ ⲡⲉϥ ϩⲏⲧ ⲁⲛ ⲁⲗⲗⲁ ⲧⲉϥ ⲛⲉϫⲓ ⲟⲩⲟϩ ϣⲁ ⲩ ϣⲉ ⲛⲱ ⲟⲩ ⲉ ⲛⲓ ⲙⲁ ⲛ ϩⲉⲙⲥⲓ ⲉ ϥ ⲧⲟⲩⲃⲟ ⲛ ⲛⲓ ϧⲣⲏⲟⲩⲓ ⲧⲏⲣ ⲟⲩ .
 * ⲉⲧ
-  * <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 389: ⲟⲩⲟϩ ⲛⲁ ϥ ϫⲟⲩϣⲧ ⲡⲉ ⲉ ⲛⲁⲩ ⲉ ⲑⲏ <b>ⲉⲧ</b> ⲁ ⲥ ⲉⲣ ⲫⲁⲓ
+  * <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 390: ⲟⲩⲟϩ ⲛⲁ ϥ ϫⲟⲩϣⲧ ⲡⲉ ⲉ ⲛⲁⲩ ⲉ ⲑⲏ <b>ⲉⲧ</b> ⲁ ⲥ ⲉⲣ ⲫⲁⲓ
   * <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 169: ⲟⲩⲟϩ <b>ⲉⲧ</b> ⲁ ϥ ⲛⲁⲩ ⲉ ⲓⲏⲥⲟⲩⲥ ⲓⲥϫⲉⲛ ϩⲓ ⲫ ⲟⲩⲉⲓ ⲁ ϥ ϭⲟϫⲓ ⲟⲩⲟϩ ⲁ ϥ ⲟⲩⲱϣⲧ ⲙⲙⲟ ϥ
-  * <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 23: ⲡⲉϫⲉ ⲁⲡⲁ ⲡϫⲱⲗ ⲛⲁ ϥ ϫⲉ <b>ⲉⲧ</b> ⲁ ⲕ ⲥⲟⲑⲙⲉ ⲥ ϫⲉ ⲟⲩ ;
+  * <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 22: ⲡⲉϫⲉ ⲁⲡⲁ ⲡϫⲱⲗ ⲛⲁ ϥ ϫⲉ <b>ⲉⲧ</b> ⲁ ⲕ ⲥⲟⲑⲙⲉ ⲥ ϫⲉ ⲟⲩ ;
 * ⲛⲧⲉ
   * <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 326: ⲟⲩⲟϩ ⲁ ϥ ⲓ ⲉ ⲙⲏⲣ ⲉ ⲫ ⲓⲟⲙ ⲉ ⲧ ⲭⲱⲣⲁ <b>ⲛⲧⲉ</b> ⲛⲓ ⲅⲉⲣⲅⲉⲥⲏⲛⲟⲥ
   * <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 145: ⲟⲩⲟϩ ⲛⲁ ϥ ϯϩⲟ ⲉⲣⲟ ϥ ⲛ ϩⲁⲛ ⲙⲏϣ ϩⲓⲛⲁ <b>ⲛⲧⲉ</b> ϥ ϣⲧⲉⲙ ⲟⲩⲟⲣⲡ ϥ ⲥⲁⲃⲟⲗ ⲛ ϯ ⲭⲱⲣⲁ .
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  ⲁ (<tt><a href="cop_bohairic-pos-AUX.ht
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.833333 (the average of all parts of speech is 1.145366).
+The form / lemma ratio of `AUX` is 1.833333 (the average of all parts of speech is 1.149363).
 
 The 1st highest number of forms (3) was observed with the lemma “ϣⲁⲧⲉ”: ϣⲁⲛⲧⲉ, ϣⲁⲧ, ϣⲁⲧⲉ.
 
@@ -69,9 +69,9 @@ The 2nd highest number of forms (3) was observed with the lemma “ⲙⲁⲣⲉ�
 
 The 3rd highest number of forms (3) was observed with the lemma “ⲛⲁ”: ⲁ, ⲛⲁ, ⲣⲁ.
 
-`AUX` occurs with 2 features: <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt> (125; 5% instances), <tt><a href="cop_bohairic-feat-VerbForm.html">VerbForm</a></tt> (27; 1% instances)
+`AUX` occurs with 3 features: <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt> (125; 5% instances), <tt><a href="cop_bohairic-feat-Mood.html">Mood</a></tt> (27; 1% instances), <tt><a href="cop_bohairic-feat-VerbForm.html">VerbForm</a></tt> (27; 1% instances)
 
-`AUX` occurs with 2 feature-value pairs: `Polarity=Neg`, `VerbForm=Fin`
+`AUX` occurs with 3 feature-value pairs: `Mood=Pot`, `Polarity=Neg`, `VerbForm=Fin`
 
 `AUX` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (2144 tokens).
@@ -82,7 +82,7 @@ Examples: ⲁ, ⲛⲁ, ⲉⲧ, ⲛⲧⲉ, ⲛⲧ, ϣⲁ, ⲛⲉ, ⲛ, ⲙⲁⲣ�
 
 `AUX` nodes are attached to their parents using 3 different relations: <tt><a href="cop_bohairic-dep-aux.html">aux</a></tt> (2294; 100% instances), <tt><a href="cop_bohairic-dep-obl-unmarked.html">obl:unmarked</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (2259; 98% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (20; 1% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (2261; 98% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (19; 1% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 2296 (100%) `AUX` nodes are leaves.
 

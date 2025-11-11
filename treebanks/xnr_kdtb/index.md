@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Shweta Chauhan, Shefali Saxena, Apoorva Jha, Philemon Daniel.
 
 Repository: [UD_Kangri-KDTB](https://github.com/UniversalDependencies/UD_Kangri-KDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxnr_kdtb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxnr_kdtb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,15 +49,6 @@ The Kangri UD Treebank (KDTB) consists of 2,249 tokens and 1108 vocabulary (288 
 
 
 ## Acknowledgments
-
-1. Mr. Bhupender Bhupi
-2. Dr. Rajeev Kumar Trigarti
-
-## References
-
-* (citation)
-
-
 
 # Statistics of UD Kangri KDTB
 

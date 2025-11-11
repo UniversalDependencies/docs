@@ -23,7 +23,7 @@ The following 15 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 csubj:cop	color:blue
-1	B'	is	AUX	Ws	Tense=Past	2	cop	_	_
+1	B'	is	AUX	Ws	Mood=Ind|Tense=Past|VerbForm=Fin	2	cop	_	_
 2	fhearr	fhearr	NOUN	Uf	_	0	root	_	_
 3	do	do	ADP	Sp	_	4	case	_	_
 4	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
@@ -42,7 +42,7 @@ The following 15 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 csubj:cop	color:blue
-1	's	is	AUX	Wp-i	Tense=Pres	2	cop	_	_
+1	's	is	AUX	Wp-i	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	dòcha	dòcha	NOUN	Uf	_	0	root	_	_
 3	gu	gu	PART	Qa	PartType=Cmpl	4	mark:prt	_	_
 4	robh	bi	VERB	V-s--d	Mood=Ind|Tense=Past|VerbForm=Fin	2	csubj:cop	_	_
@@ -57,7 +57,7 @@ The following 15 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 6 csubj:cop	color:blue
 1	uill	uill	INTJ	I	_	3	discourse	_	_
-2	‘s	is	AUX	Wp-i	Tense=Pres	3	cop	_	_
+2	‘s	is	AUX	Wp-i	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	iongantach	iongantach	ADJ	Ap	_	0	root	_	_
 4	mar	mar	SCONJ	Cs	_	6	mark	_	_
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	mark:prt	_	_

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-Talbanken: POS Tags: `CCONJ`
 
-There are 23 `CCONJ` lemmas (0%), 23 `CCONJ` types (0%) and 3703 `CCONJ` tokens (4%).
+There are 23 `CCONJ` lemmas (0%), 23 `CCONJ` types (0%) and 3670 `CCONJ` tokens (4%).
 Out of 17 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>och, eller, men, både, utan, som, dels, såväl, samt, varken</em>
 
 The 10 most frequent `CCONJ` types:  <em>och, eller, men, både, utan, som, dels, såväl, samt, varken</em>
 
-The 10 most frequent ambiguous lemmas: <em>men</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 367, <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> 1), <em>utan</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 101, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 61), <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1111, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 357, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 67, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 52, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 30), <em>ju</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 34, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 11), <em>för</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1208, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 34, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> 5), <em>såsom</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 5), <em>fast</em> (<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 8, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 4), <em>så</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 318, <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 2), <em>+</em> (<tt><a href="sv_talbanken-pos-SYM.html">SYM</a></tt> 7, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 1), <em>utom</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 12, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>men</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 367, <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> 1), <em>utan</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 101, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 61), <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1112, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 393, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 65, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 19), <em>ju</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 34, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 11), <em>för</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1208, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 34, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> 5), <em>såsom</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 5), <em>fast</em> (<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 8, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 4), <em>så</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 314, <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 2), <em>+</em> (<tt><a href="sv_talbanken-pos-SYM.html">SYM</a></tt> 7, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 1), <em>utom</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 12, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>men</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 178, <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> 1), <em>utan</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 94, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 60), <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1111, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 340, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 62, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 51, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 30, <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1), <em>ju</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 34, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 4), <em>för</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1101, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 33, <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> 6, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 4), <em>såsom</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 5), <em>vare</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> 3), <em>fast</em> (<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 2), <em>Så</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 32, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 2), <em>+</em> (<tt><a href="sv_talbanken-pos-SYM.html">SYM</a></tt> 7, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>men</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 178, <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> 1), <em>utan</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 94, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 60), <em>som</em> (<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1112, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 375, <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 60, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1), <em>ju</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 34, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 4), <em>för</em> (<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 1101, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 33, <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> 6, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 4), <em>såsom</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 5), <em>vare</em> (<tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> 3), <em>fast</em> (<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 2), <em>Så</em> (<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 32, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 2), <em>+</em> (<tt><a href="sv_talbanken-pos-SYM.html">SYM</a></tt> 7, <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>men</em>
@@ -25,11 +25,11 @@ The 10 most frequent ambiguous types:  <em>men</em> (<tt><a href="sv_talbanken-p
   * <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 94: <em>De kräver också att varje kvinna ska gifta sig nära nog <b>utan</b> undantag .</em>
   * <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 60: <em>Men den viktigaste frågan är inte lokalerna <b>utan</b> personalen .</em>
 * <em>som</em>
-  * <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1111: <em>Två huvudfaktorer kan urskiljas <b>som</b> förklarar men inte ursäktar :</em>
-  * <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 340: <em>Den olika könsrollen <b>som</b> barnavårdare och uppfostrare .</em>
-  * <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 62: <em>De som vill det är säkert lika lämpliga <b>som</b> kvinnorna .</em>
-  * <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 51: <em>Dom vågar i vilket fall <b>som</b> helst inte göra något från fackets sida .</em>
-  * <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 30: <em>Det är i detta sammanhang <b>som</b> aposteln Paulus yttrar sitt berömda :</em>
+  * <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> 1112: <em>Två huvudfaktorer kan urskiljas <b>som</b> förklarar men inte ursäktar :</em>
+  * <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> 375: <em>Den olika könsrollen <b>som</b> barnavårdare och uppfostrare .</em>
+  * <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> 60: <em>De som vill det är säkert lika lämpliga <b>som</b> kvinnorna .</em>
+  * <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 28: <em>Det är i detta sammanhang <b>som</b> aposteln Paulus yttrar sitt berömda :</em>
+  * <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> 19: <em>Såväl folkpensioneringen <b>som</b> ATP ger möjligheter till följande förmåner :</em>
   * <tt><a href="sv_talbanken-pos-X.html">X</a></tt> 1: <em>Allt efter <b>som</b> prisläget förändras , ändras också basbeloppet .</em>
 * <em>ju</em>
   * <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> 34: <em>Det är <b>ju</b> klart att man får gno hela tiden .</em>
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>men</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.428271).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.421561).
 
 The 1st highest number of forms (1) was observed with the lemma “+”: <em>+</em>.
 
@@ -67,28 +67,28 @@ The 2nd highest number of forms (1) was observed with the lemma “and”: <em>a
 
 The 3rd highest number of forms (1) was observed with the lemma “antingen”: <em>antingen</em>.
 
-`CCONJ` occurs with 3 features: <tt><a href="sv_talbanken-feat-ExtPos.html">ExtPos</a></tt> (21; 1% instances), <tt><a href="sv_talbanken-feat-Foreign.html">Foreign</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
+`CCONJ` occurs with 3 features: <tt><a href="sv_talbanken-feat-ExtPos.html">ExtPos</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-feat-Foreign.html">Foreign</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
 
 `CCONJ` occurs with 4 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`, `Foreign=Yes`, `Polarity=Neg`
 
 `CCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (3678 tokens).
-Examples: <em>och, eller, men, både, utan, som, dels, såväl, samt, varken</em>
+The most frequent feature combination is `_` (3657 tokens).
+Examples: <em>och, eller, men, både, utan, dels, som, såväl, samt, varken</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (3589; 97% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (75; 2% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (17; 0% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (10; 0% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (4; 0% instances)
+`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (3589; 98% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (52; 1% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (17; 0% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (1746; 47% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1077; 29% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (478; 13% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (118; 3% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (110; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (74; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (43; 1% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (7; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (1732; 47% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1077; 29% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (475; 13% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (116; 3% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (104; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (70; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (43; 1% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (6; 0% instances)
 
-3678 (99%) `CCONJ` nodes are leaves.
+3657 (100%) `CCONJ` nodes are leaves.
 
-25 (1%) `CCONJ` nodes have one child.
+13 (0%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (21; 84% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (4; 16% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (9; 69% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (4; 31% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (15; 60% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (6; 24% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (4; 16% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (6; 46% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (4; 31% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (3; 23% instances)
 

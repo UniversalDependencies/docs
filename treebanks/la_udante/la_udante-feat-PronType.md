@@ -12,21 +12,22 @@ It occurs with 8 different values: `Con`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Re
 9216 tokens (17%) have a non-empty value of `PronType`.
 565 types (5%) occur at least once with a non-empty value of `PronType`.
 136 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3643; 7% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2723; 5% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1850; 3% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (952; 2% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (34; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3643; 7% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2725; 5% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1845; 3% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (954; 2% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (34; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `DET`
 
 3643 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (3258; 89%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (3245; 89%), <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3147; 86%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3147; 86%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2521; 69%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (2501; 69%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (3258; 89%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (3245; 89%), <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3146; 86%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3146; 86%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2520; 69%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (2500; 69%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Con` (443; 12% of non-empty `PronType`): <em>aliud, alia, aliis, alii, aliorum, sola, alios, alterum, solus, solo</em>
 * `Dem` (1493; 41% of non-empty `PronType`): <em>hoc, illa, illud, hec, ipsum, huius, hiis, ipsa, ille, ipse</em>
 * `Ind` (655; 18% of non-empty `PronType`): <em>unum, quedam, quidam, una, nulla, nullo, uno, multa, aliqua, nullum</em>
-* `Prs` (496; 14% of non-empty `PronType`): <em>sua, suis, suam, suo, nostra, sue, suum, nostri, sui, nostre</em>
-* `Rel` (99; 3% of non-empty `PronType`): <em>quantum, quodcunque, quicunque, qualis, quot, quanta, quale, qualem, quantis, cuiuscunque</em>
+* `Int` (1; 0% of non-empty `PronType`): <em>quo</em>
+* `Prs` (497; 14% of non-empty `PronType`): <em>sua, suis, suam, suo, nostra, sue, suum, nostri, sui, nostre</em>
+* `Rel` (97; 3% of non-empty `PronType`): <em>quantum, quodcunque, quicunque, qualis, quot, quanta, quale, qualem, quantis, cuiuscunque</em>
 * `Tot` (457; 13% of non-empty `PronType`): <em>omnes, omnia, omnibus, totum, omne, omnis, omnium, totius, omni, tota</em>
 
 <table>
@@ -47,22 +48,22 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>utraque</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 96% lemmas (49) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 94% lemmas (48) occur only with one value of `PronType`.
 
 ### `PRON`
 
-2723 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+2725 <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (2042; 75%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1802; 66%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1698; 62%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (2045; 75%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1805; 66%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1701; 62%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (2; 0% of non-empty `PronType`): <em>Qua, Que</em>
 * `Ind` (129; 5% of non-empty `PronType`): <em>nichil, aliquid, nemo, alicuius, aliquo, nil, aliqua, neminem, aliquis, aliquorum</em>
 * `Int` (107; 4% of non-empty `PronType`): <em>quid, quis, quem, quo, cui, cuius, qua, que, qui, quos</em>
-* `Prs` (921; 34% of non-empty `PronType`): <em>se, eius, nobis, sibi, me, te, ea, nos, eo, eorum</em>
+* `Prs` (920; 34% of non-empty `PronType`): <em>se, eius, nobis, sibi, me, te, ea, nos, eo, eorum</em>
 * `Rcp` (9; 0% of non-empty `PronType`): <em>invicem</em>
-* `Rel` (1555; 57% of non-empty `PronType`): <em>quod, que, qui, quo, qua, quam, quem, cuius, quibus, quicquid</em>
+* `Rel` (1558; 57% of non-empty `PronType`): <em>quod, que, qui, quo, qua, quam, quem, cuius, quibus, quicquid</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -101,23 +102,23 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `SCONJ`
 
-1850 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (74% of all `SCONJ` tokens) have a non-empty value of `PronType`.
+1845 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (74% of all `SCONJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `SCONJ` and `PronType` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (1676; 91%).
+The most frequent other feature values with which `SCONJ` and `PronType` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (1672; 91%).
 
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Con` (13; 1% of non-empty `PronType`): <em>utrum</em>
-* `Rel` (1837; 99% of non-empty `PronType`): <em>ut, quod, cum, quia, quam, tanquam, quemadmodum, quantum, quoniam, quin</em>
+* `Rel` (1832; 99% of non-empty `PronType`): <em>ut, quod, cum, quia, quam, tanquam, quemadmodum, quantum, quoniam, quin</em>
 * `EMPTY` (660): <em>si, sicut, nisi, licet, velut, ne, prout, dum, ceu, dummodo</em>
 
 `PronType` seems to be **lexical feature** of `SCONJ`. 100% lemmas (28) occur only with one value of `PronType`.
 
 ### `ADV`
 
-952 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (31% of all `ADV` tokens) have a non-empty value of `PronType`.
+954 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (31% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (952; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (859; 90%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (643; 68%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (954; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (861; 90%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (645; 68%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -125,9 +126,9 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Dem` (554; 58% of non-empty `PronType`): <em>sic, tam, tamen, ita, tunc, tantum, hinc, ideo, tanto, hic</em>
 * `Ind` (13; 1% of non-empty `PronType`): <em>undique, nichil</em>
 * `Int` (1; 0% of non-empty `PronType`): <em>quid</em>
-* `Rel` (281; 30% of non-empty `PronType`): <em>unde, quid, ubi, quando, quandoque, quam, quippe, qualiter, ubique, aliquando</em>
+* `Rel` (283; 30% of non-empty `PronType`): <em>unde, quid, ubi, quando, quandoque, quam, quippe, qualiter, ubique, aliquando</em>
 * `Tot` (15; 2% of non-empty `PronType`): <em>omnino, totaliter</em>
-* `EMPTY` (2130): <em>ergo, etiam, vero, nunc, bene, iam, magis, maxime, semper, ibi</em>
+* `EMPTY` (2131): <em>ergo, etiam, vero, nunc, bene, iam, magis, maxime, semper, ibi</em>
 
 <table>
   <tr><th>Paradigm <i>quid</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -156,11 +157,20 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 * `Rel` (14; 100% of non-empty `PronType`): <em>quapropter, quia</em>
 * `EMPTY` (3021): <em>et, sed, vel, nec, que, sive, atque, scilicet, aut, ac</em>
 
+### `ADP`
+
+1 <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `PronType`.
+
+`ADP` tokens may have the following values of `PronType`:
+
+* `Rel` (1; 100% of non-empty `PronType`): <em>cum</em>
+* `EMPTY` (4161): <em>in, ad, de, per, a, ab, propter, ex, cum, secundum</em>
+
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> DET</tt> (61; 81%),
-<tt>PRON --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> PRON</tt> (12; 80%),
+<tt>PRON --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> PRON</tt> (11; 79%),
 <tt>DET --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> DET</tt> (2; 67%),
 <tt>DET --[<tt><a href="la_udante-dep-flat-redup.html">flat:redup</a></tt>]--> DET</tt> (2; 100%),
 <tt>ADV --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> SCONJ</tt> (1; 100%),

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-1435 tokens (3%) have a non-empty value of `Compound`.
+1434 tokens (3%) have a non-empty value of `Compound`.
 332 types (3%) occur at least once with a non-empty value of `Compound`.
 180 lemmas (3%) occur at least once with a non-empty value of `Compound`.
-The feature is used with 13 part-of-speech tags: <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (368; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (342; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (181; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (118; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (117; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (109; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (77; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (27; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 13 part-of-speech tags: <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (368; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (341; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (181; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (118; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (117; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (109; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (77; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (27; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `ADV`
 
@@ -28,13 +28,13 @@ The most frequent other feature values with which `ADV` and `Compound` co-occurr
 
 ### `SCONJ`
 
-342 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (14% of all `SCONJ` tokens) have a non-empty value of `Compound`.
+341 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (14% of all `SCONJ` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `SCONJ` and `Compound` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (174; 51%).
+The most frequent other feature values with which `SCONJ` and `Compound` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (173; 51%).
 
 `SCONJ` tokens may have the following values of `Compound`:
 
-* `Yes` (342; 100% of non-empty `Compound`): <em>sicut, velut, prout, tanquam, quemadmodum, quoniam, quasi, quamvis, postquam, dummodo</em>
+* `Yes` (341; 100% of non-empty `Compound`): <em>sicut, velut, prout, tanquam, quemadmodum, quoniam, quasi, quamvis, postquam, dummodo</em>
 
 `Compound` seems to be **lexical feature** of `SCONJ`. 100% lemmas (18) occur only with one value of `Compound`.
 
@@ -155,5 +155,6 @@ The most frequent other feature values with which `PROPN` and `Compound` co-occu
 ## Relations with Agreement in `Compound`
 
 The 10 most frequent relations where parent and child node agree in `Compound`:
+<tt>ADJ --[<tt><a href="la_udante-dep-obl-arg.html">obl:arg</a></tt>]--> DET</tt> (1; 100%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (1; 100%).
 

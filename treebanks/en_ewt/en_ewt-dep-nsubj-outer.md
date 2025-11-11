@@ -65,15 +65,15 @@ The following 16 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 # visual-style 12	fgColor:white
 # visual-style 12 2 nsubj:outer	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
-2	reason	reason	NOUN	NN	Number=Sing	12	nsubj:outer	4:obl|12:nsubj:outer	_
+2	reason	reason	NOUN	NN	Number=Sing	12	nsubj:outer	4:obl|12:nsubj:outer	Supersense=n.MOTIVE
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-4	go	go	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Cxn=rc-red-obl
-5	back	back	ADV	RB	_	4	advmod	4:advmod	_
-6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+4	go	go	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Cxn=rc-red-obl|Supersense=v.motion
+5	back	back	ADV	RB	_	4	advmod	4:advmod	PRel[config]=default|PRel[gov]=4:go|Supersense=p.Direction
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	Supersense=v.stative
 7	because	because	SCONJ	IN	_	12	mark	12:mark	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
-9	employees	employee	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj	_
-10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+9	employees	employee	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj	Supersense=n.PERSON
+10	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	Supersense=v.stative
 11	sooooo	so	ADV	RB	Style=Expr	12	advmod	12:advmod	CorrectForm=so
 12	nice	nice	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	12:punct	SpaceAfter=No

@@ -25,7 +25,7 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	"	"	PUNCT	Quote	_	2	punct	_	SpaceAfter=No
 2	Hittade	hitta	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	du	du	PRON	PERS-P2SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
-4	nånting	någonting	PRON	IND-SG	_	2	obj	_	SpaceAfter=No
+4	nånting	någonting	PRON	IND-SG	Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	Comma	_	6	punct	_	_
 6	pappa	pappa	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	vocative	_	SpaceAfter=No
 7	?	?	PUNCT	QuestionMark	_	2	punct	_	SpaceAfter=No

@@ -43,13 +43,13 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:prt	color:blue
-1	So	so	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:43->40:3:_;explanation-motivation:43->40:1:3:orp-so-259|PDTB=Explicit:Contingency.Cause.Result:so:259:238-258:260-280
+1	So	so	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:43->40:3:_;explanation-motivation:43->40:1:3:orp-so-259-_|PDTB=Explicit:Contingency.Cause.Result:so:259:238-258:260-280
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(1-person-giv:act-sssss-cf1*-1-ana)
 3	will	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	5	cop	5:cop	_
 5	better	good	ADJ	JJR	Degree=Cmp	0	root	0:root	MSeg=bett-er
 6	off	off	ADP	RP	_	5	compound:prt	5:compound:prt	_
-7	or	or	CCONJ	CC	_	10	cc	10:cc	Discourse=adversative-antithesis:44->43:0:dm-or-265|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:or:265:259-264:266-280
+7	or	or	CCONJ	CC	_	10	cc	10:cc	Discourse=adversative-antithesis:44->43:0:dm-or-265-_|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:or:265:259-264:266-280
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(8-person-giv:act-sssss-cf2-1-ana)
 9	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 10	do	do	VERB	VB	VerbForm=Inf	5	conj	5:conj:or	_

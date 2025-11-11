@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-271 nodes (0%) are attached to their parents as `goeswith`.
+272 nodes (0%) are attached to their parents as `goeswith`.
 
-271 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.06273062730627.
+272 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0625.
 
-The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (247; 91% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (14; 5% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (247; 91% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (14; 5% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

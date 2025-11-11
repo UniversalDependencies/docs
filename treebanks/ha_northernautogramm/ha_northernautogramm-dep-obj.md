@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-198 nodes (5%) are attached to their parents as `obj`.
+192 nodes (5%) are attached to their parents as `obj`.
 
-198 instances of `obj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33838383838384.
+192 instances of `obj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.32291666666667.
 
-The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (118; 60% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (47; 24% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (17; 9% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (7; 4% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt> (5; 3% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (118; 61% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (42; 22% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (16; 8% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (7; 4% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt> (6; 3% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (3; 2% instances).
 
 
 ~~~ conllu
@@ -22,15 +22,15 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 obj	color:blue
-1	à	_	AUX	shì	Aspect=Aor|Person=4	2	aux	_	AlignBegin=42940|AlignEnd=43722|Gloss=4.Aor
+1	à	_	AUX	ø	Aspect=Aor|Person=4	2	aux	_	AlignBegin=42940|AlignEnd=43722|Gloss=4.Aor
 2	baː	baː	VERB	_	_	0	root	_	AlignBegin=43722|AlignEnd=44504|Gloss=give
 3	sù	su	PRON	_	Number=Plur|Person=3|PronType=Prs	2	iobj	_	AlignBegin=44504|AlignEnd=45286|Gloss=3Plur
-4	taːsù	taːsù	PRON	_	Number=Plur|Person=3|PronType=Prs	5	nmod	_	AlignBegin=45286|AlignEnd=46068|Gloss=3Plur.Gen
-5	takàrdaː	takàrdaː	NOUN	_	_	2	obj	_	AlignBegin=46068|AlignEnd=46850|Gloss=paper
+4	taːsù	taːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	nmod	_	AlignBegin=45286|AlignEnd=46068|Gloss=3Plur.Gen
+5	takàrdaː	takàrdaː	NOUN	_	Definite=Ind	2	obj	_	AlignBegin=46068|AlignEnd=46850|Gloss=paper
 6	|c	|c	PUNCT	_	_	8	punct	_	AlignBegin=46850|AlignEnd=47632|Gloss=PUNCT
-7	sù	_	AUX	shì	Aspect=Aor|Number=Plur|Person=3	8	aux	_	AlignBegin=46850|AlignEnd=47632|Gloss=3Plur.Aor
+7	sù	_	AUX	ø	Aspect=Aor|Number=Plur|Person=3	8	aux	_	AlignBegin=46850|AlignEnd=47632|Gloss=3Plur.Aor
 8	zamnàː	zamn-	VERB	_	_	2	conj	_	AlignBegin=47632|AlignEnd=48414|Gloss=stay/sit
-9	Galmaːwaː	Galmaːwaː	PROPN	_	_	8	obl:arg	_	AlignBegin=48414|AlignEnd=49196|Gloss=Galmaːwaː
+9	Galmaːwaː	Galmaːwaː	PROPN	_	_	8	obl	_	AlignBegin=48414|AlignEnd=49196|Gloss=Galmaːwaː
 10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=49196|AlignEnd=49980|Gloss=PUNCT
 
 ~~~
@@ -46,14 +46,14 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 2	dâːmaː	dâːmaː	ADV	_	_	1	advmod	_	AlignBegin=175395|AlignEnd=175670|Gloss=formerly
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=175945|AlignEnd=176220|Gloss=PUNCT
 4	cikin	cikin	ADP	_	_	5	case	_	AlignBegin=176220|AlignEnd=176495|Gloss=inside
-5	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	9	obl	_	AlignBegin=176495|AlignEnd=176770|Gloss=world.Fem
+5	duːniyàː	duːniyàː	NOUN	_	Definite=Ind|Gender=Fem	9	obl	_	AlignBegin=176495|AlignEnd=176770|Gloss=world.Fem
 6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=176770|AlignEnd=177045|Gloss=PUNCT
 7	Allàː	Allàː	PROPN	_	_	9	discourse	_	AlignBegin=177045|AlignEnd=177320|Gloss=God
-8	bài	_	AUX	bài	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	9	aux	_	AlignBegin=177320|AlignEnd=177595|Gloss=3Masc.Perf.Neg
+8	bài	_	AUX	bài	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	9	aux	_	AlignBegin=177320|AlignEnd=177595|Gloss=3Masc.PerfNeg
 9	yoː	yi	VERB	_	_	0	root	_	AlignBegin=177595|AlignEnd=177870|Gloss=do
 10	sù	su	PRON	_	Number=Plur|Person=3|PronType=Prs	9	obj	_	AlignBegin=177870|AlignEnd=178145|Gloss=3Plur
 11	ɗai	ɗai	NUM	_	_	9	xcomp	_	AlignBegin=178145|AlignEnd=178420|Gloss=one
-12	ba	ba	PART	_	Polarity=Neg	9	advmod	_	AlignBegin=178420|AlignEnd=178695|Gloss=Neg
+12	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	advmod	_	AlignBegin=178420|AlignEnd=178695|Gloss=Neg
 13	//	//	PUNCT	_	_	9	punct	_	AlignBegin=178695|AlignEnd=178965|Gloss=PUNCT
 
 ~~~

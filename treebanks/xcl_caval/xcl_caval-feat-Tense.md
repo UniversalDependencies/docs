@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-12371 tokens (12%) have a non-empty value of `Tense`.
-2372 types (26%) occur at least once with a non-empty value of `Tense`.
-701 lemmas (18%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (10216; 10% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2155; 2% instances).
+12370 tokens (12%) have a non-empty value of `Tense`.
+2371 types (26%) occur at least once with a non-empty value of `Tense`.
+699 lemmas (18%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (10215; 10% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2155; 2% instances).
 
 ### `VERB`
 
-10216 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Tense`.
+10215 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8605; 84%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8604; 84%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8595; 84%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7349; 72%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (7072; 69%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8605; 84%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8604; 84%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8594; 84%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7349; 72%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (7071; 69%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (6572; 64% of non-empty `Tense`): <em>ետ, ասեին, եկն, ասաց, եկեալ, ել, ետես, առաքեաց, ասէր, արար</em>
-* `Pres` (3644; 36% of non-empty `Tense`): <em>ասէ, ասեն, ասեմ, գայ, ծնանի, կարէ, գիտեմ, գիտէք, առնէ, երթամ</em>
-* `EMPTY` (4398): <em>ասել, առնել, մտանել, տալ, երթ, եկեցէ, գալ, ունել, ունիցի, երթայք</em>
+* `Past` (6578; 64% of non-empty `Tense`): <em>ետ, ասեին, եկն, ասաց, եկեալ, ել, ետես, առաքեաց, ասէր, արար</em>
+* `Pres` (3637; 36% of non-empty `Tense`): <em>ասէ, ասեն, ասեմ, գայ, ծնանի, կարէ, գիտեմ, գիտէք, առնէ, երթամ</em>
+* `EMPTY` (4399): <em>ասել, առնել, մտանել, տալ, երթ, եկեցէ, գալ, ունել, ունիցի, երթայք</em>
 
 <table>
   <tr><th>Paradigm <i>ասել</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -92,14 +92,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (1606; 69%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (915; 52%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (1607; 69%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (933; 52%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (109; 74%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (23; 82%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (15; 60%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-acl.html">acl</a></tt>]--> VERB</tt> (14; 61%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-acl.html">acl</a></tt>]--> VERB</tt> (14; 56%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (13; 72%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (10; 91%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 91%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (9; 60%).
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 83%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (9; 56%).
 

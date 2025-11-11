@@ -10,10 +10,10 @@ This relation is universal.
 
 414 nodes (2%) are attached to their parents as `det`.
 
-244 instances of `det` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.67149758454106.
+296 instances of `det` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.96859903381643.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (371; 90% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (27; 7% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (353; 85% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (36; 9% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (12; 3% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,19 +23,19 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 9 det	color:blue
 1	เห็น	เห็น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen|LTranslit=hen
-2	ได้	ได้	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dai²|LTranslit=dai²
-3	ชัด	ชัด	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰâd|LTranslit=ćʰâd
-4	ที่สุด	ที่สุด	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰí¹sud|LTranslit=dʰí¹sud
-5	เมื่อ	เมื่อ	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=műá¹|LTranslit=műá¹
-6	ชื่อ	ชื่อ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰű¹'|LTranslit=ćʰű¹'
+2	ได้	ได้	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
+3	ชัด	ชัด	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰạd|LTranslit=ćʰạd
+4	ที่สุด	ที่สุด	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
+5	เมื่อ	เมื่อ	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
+6	ชื่อ	ชื่อ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-8	ดารา	ดารา	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=dárá|LTranslit=dárá
-9	นั้น	นั้น	DET	DT	_	8	det	_	SpaceAfter=No|Translit=nâ²n|LTranslit=nâ²n
-10	หา	หา	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=há|LTranslit=há
-11	ยาก	ยาก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yák|LTranslit=yák
-12	ตั้ง	ตั้ง	VERB	VV	_	14	case	_	SpaceAfter=No|Translit=tâ²ŋ|LTranslit=tâ²ŋ
-13	แต่	แต่	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tǽ¹|LTranslit=tǽ¹
-14	แรก	แรก	ADJ	JJ	_	10	xcomp	_	Translit=rǽk|LTranslit=rǽk
+8	ดารา	ดารา	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=daːraː|LTranslit=daːraː
+9	นั้น	นั้น	DET	DT	PronType=Dem	8	det	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
+10	หา	หา	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=haː|LTranslit=haː
+11	ยาก	ยาก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yaːk|LTranslit=yaːk
+12	ตั้ง	ตั้ง	VERB	VV	ExtPos=ADP	14	case	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
+13	แต่	แต่	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
+14	แรก	แรก	ADJ	JJ	_	10	xcomp	_	Translit=ræːk|LTranslit=ræːk
 
 ~~~
 
@@ -46,44 +46,40 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 det	color:blue
-1	นอร์ทแคโรไลนา	นอร์ทแคโรไลนา	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=nɔːrdʰgʰǽrólainá|LTranslit=nɔːrdʰgʰǽrólainá
+1	นอร์ทแคโรไลนา	นอร์ทแคโรไลนา	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=nɔːrdʰgʰæːroːlạinaː|LTranslit=nɔːrdʰgʰæːroːlạinaː
 2	เป็น	เป็น	AUX	VC	_	3	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-3	สนาม	สนาม	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=snám|LTranslit=snám
+3	สนาม	สนาม	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=snaːm|LTranslit=snaːm
 4	รบ	รบ	VERB	VV	_	3	acl	_	SpaceAfter=No|Translit=rb|LTranslit=rb
-5	สำคัญ	สำคัญ	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=sãgʰâŷ|LTranslit=sãgʰâŷ
+5	สำคัญ	สำคัญ	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=sãːgʰạŷ|LTranslit=sãːgʰạŷ
 6	ของ	ของ	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-7	การเลือกตั้ง	การเลือกตั้ง	VERB	VV	_	3	nmod:poss	_	SpaceAfter=No|Translit=kárlűáktâ²ŋ|LTranslit=kárlűáktâ²ŋ
-8	นี้	นี้	DET	DT	_	7	det	_	Translit=ní²|LTranslit=ní²
+7	การเลือกตั้ง	การเลือกตั้ง	VERB	VV	_	3	nmod:poss	_	SpaceAfter=No|Translit=kaːrlüaːktậŋ|LTranslit=kaːrlüaːktậŋ
+8	นี้	นี้	DET	DT	PronType=Dem	7	det	_	Gloss=this|Translit=nîː|LTranslit=nîː
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 det	color:blue
-1	แอนดีส	แอนดีส	PROPN	NNP	_	5	nsubj	_	SpaceAfter=No|Translit='ǽndís|LTranslit='ǽndís
-2	ตอน	ตอน	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=tɔːn|LTranslit=tɔːn
-3	กลาง	กลาง	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=kláŋ|LTranslit=kláŋ
-4	นั้น	นั้น	DET	DT	_	1	det	_	SpaceAfter=No|Translit=nâ²n|LTranslit=nâ²n
-5	เรียก	เรียก	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=ríák|LTranslit=ríák
-6	ว่า	ว่า	VERB	VV	_	5	xcomp	_	Translit=wá¹|LTranslit=wá¹
-7	‘	‘	PUNCT	``	_	8	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
-8	แอนดีสเดติโปอันดิโน	แอนดีสเดติโปอันดิโน	PROPN	NNP	_	6	obj	_	Translit='ǽndísdétipó'ândinó|LTranslit='ǽndísdétipó'ândinó
-9	’	’	PUNCT	''	_	11	punct	_	Translit=’|LTranslit=’
-10	ซึ่ง	ซึ่ง	DET	WDT	_	11	nsubj	_	Translit=cü¹ŋ|LTranslit=cü¹ŋ
-11	ก่อ	ก่อ	VERB	VV	_	8	acl:relcl	_	Translit=k¹'|LTranslit=k¹'
-12	ตัว	ตัว	NOUN	NN	_	11	obj	_	Translit=túá|LTranslit=túá
-13	จาก	จาก	ADP	IN	_	14	case	_	Translit=čák|LTranslit=čák
-14	มุด	มุด	VERB	VV	_	11	xcomp	_	Translit=mud|LTranslit=mud
-15	ตัว	ตัว	NOUN	NN	_	14	obj	_	Translit=túá|LTranslit=túá
-16	ของ	ของ	ADP	IN	_	17	case	_	Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-17	เปลือก	เปลือก	NOUN	NN	_	14	obl:poss	_	Translit=pélű'k|LTranslit=pélű'k
-18	โลก	โลก	PROPN	NNP	_	17	compound	_	Translit=lók|LTranslit=lók
-19	ใต้	ใต้	ADP	IN	_	20	case	_	Translit=tai²|LTranslit=tai²
-20	สมุทร	สมุทร	NOUN	NN	_	17	nmod	_	Translit=smudʰr|LTranslit=smudʰr
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	องค์กร	องค์กร	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit='ŋgʰkr|LTranslit='ŋgʰkr
+2	ทั้ง	ทั้ง	DET	DT	PronType=Tot	3	det	_	Gloss=both|SpaceAfter=No|Translit=dʰậŋ|LTranslit=dʰậŋ
+3	สอง	สอง	NUM	CD	_	1	nummod	_	SpaceAfter=No|Translit=sɔːŋ|LTranslit=sɔːŋ
+4	ยื่น	ยื่น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǜːn|LTranslit=yǜːn
+5	อุทธรณ์	อุทธรณ์	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit='udʰḏʰrṇ|LTranslit='udʰḏʰrṇ
+6	ซึ่ง	ซึ่ง	DET	WDT	PronType=Rel	12	obj	_	Gloss=which,that|SpaceAfter=No|Translit=cǜŋ|LTranslit=cǜŋ
+7	ศาล	ศาล	NOUN	NN	_	12	nsubj	_	Proper=True|SpaceAfter=No|Translit=śaːl|LTranslit=śaːl
+8	ยุติธรรม	ยุติธรรม	NOUN	NN	_	7	flat:name	_	Proper=True|SpaceAfter=No|Translit=yutiḏʰrrm|LTranslit=yutiḏʰrrm
+9	สูง	สูง	ADJ	JJ	_	7	amod	_	Proper=True|SpaceAfter=No|Translit=suːŋ|LTranslit=suːŋ
+10	สุด	สุด	ADV	RB	_	9	advmod	_	Proper=True|SpaceAfter=No|Translit=sud|LTranslit=sud
+11	ไม่	ไม่	PART	NEG	Polarity=Neg	12	advmod	_	SpaceAfter=No|Translit=mạì|LTranslit=mạì
+12	รับ	รับ	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
+13	เมื่อ	เมื่อ	ADP	IN	_	14	case	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
+14	วันที่	วันที่	NOUN	NN	_	12	obl	_	Translit=wạndʰìː|LTranslit=wạndʰìː
+15	12	12	NUM	CD	_	14	appos	_	Translit=12|LTranslit=12
+16	ตุลาคม	ตุลาคม	NOUN	NN	_	15	obl:tmod	_	Translit=tulaːgʰm|LTranslit=tulaːgʰm
 
 ~~~
 

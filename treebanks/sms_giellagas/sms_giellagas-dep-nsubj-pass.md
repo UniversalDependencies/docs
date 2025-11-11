@@ -24,9 +24,9 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 14	fgColor:white
 # visual-style 14 11 nsubj:pass	color:blue
 1	Mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
-2	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
+2	jåått	jååʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,Sg3
 3	di	di	CCONJ	CC	_	4	cc	_	_
-4	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+4	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	što	što	SCONJ	CS	_	9	mark	_	_
 7	tueʹllj	tueʹllj	NOUN	N	Case=Acc|Number=Sing	9	nsubj:pass	_	GTtags=Sg,Acc

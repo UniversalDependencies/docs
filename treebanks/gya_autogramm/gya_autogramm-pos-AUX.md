@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>nɛ́</em> (<tt><a href="gya_autogram
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.000000 (the average of all parts of speech is 1.497585).
+The form / lemma ratio of `AUX` is 6.000000 (the average of all parts of speech is 1.513447).
 
 The 1st highest number of forms (6) was observed with the lemma “_”: <em>mɛ̀-nɛ́, nɛ́, sɔ̰́, ʔá̰, ʔá̰-hı̰̀ı̰́, ʔá̰à̰</em>.
 

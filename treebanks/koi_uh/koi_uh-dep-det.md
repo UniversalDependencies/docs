@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 3	Ворошилов	Ворошилов	PROPN	_	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	6	obl	_	GTtags=Prop,Sem/Sur,Sem/Mal,Sg,Nom
 4	дынӧ	дынӧ	ADP	_	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	3	case	_	GTtags=Po,Spat,Sg,Ill
 5	ӧні	ӧні	ADV	Adv	AdvType=Tim	6	advmod	_	_
-6	кoтӧpтіcӧ	кoтӧpтіcӧ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
+6	кoтӧpтіcӧ	кoтӧpтіcӧ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Pl3
 7	oтиp	oтиp	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	GTtags=CLB
 
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 4	,	,	PUNCT	CLB	_	7	punct	_	_
 5	и	и	CCONJ	_	_	7	cc	_	_
 6	сійӧ	сія	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	obj	_	GTtags=Pers,Sg3,Acc
-7	вайисӧ	вайны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt1,Pl3
+7	вайисӧ	вайны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	GTtags=Ind,Prt1,Pl3
 8	тӧн	тӧн	ADV	_	AdvType=Tim	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	3	punct	_	_
 

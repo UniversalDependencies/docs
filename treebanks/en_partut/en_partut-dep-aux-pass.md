@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_
-10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	flat	_	_
+10	VIII	VIII	NUM	N	NumForm=Roman|NumType=Card	9	flat	_	_
 11	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
 12	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
 13	set	set	ADJ	A	Degree=Pos	7	ccomp	_	_

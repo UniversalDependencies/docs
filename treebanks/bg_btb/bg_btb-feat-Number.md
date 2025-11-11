@@ -246,7 +246,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4234; 93%),
 <tt>VERB --[<tt><a href="bg_btb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2782; 58%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2663; 82%),
-<tt>VERB --[<tt><a href="bg_btb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2632; 58%),
+<tt>VERB --[<tt><a href="bg_btb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2631; 58%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-det.html">det</a></tt>]--> DET</tt> (1946; 98%),
 <tt>VERB --[<tt><a href="bg_btb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1889; 98%),
 <tt>NOUN --[<tt><a href="bg_btb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1720; 78%),

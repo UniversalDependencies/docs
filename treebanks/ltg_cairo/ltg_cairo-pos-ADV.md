@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `ADV`
 
 There are 8 `ADV` lemmas (7%), 8 `ADV` types (7%) and 8 `ADV` tokens (5%).
-Out of 11 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
+Out of 13 observed tags, the rank of `ADV` is: 4 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>kai, kod, leidza, mudri, partū, puoruok, tod, vakar</em>
 
@@ -29,13 +29,13 @@ The 2nd highest number of forms (1) was observed with the lemma “kod”: <em>k
 
 The 3rd highest number of forms (1) was observed with the lemma “leidza”: <em>leidza</em>.
 
-`ADV` occurs with 2 features: <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt> (1; 13% instances), <tt><a href="ltg_cairo-feat-ExtPos.html">ExtPos</a></tt> (1; 13% instances)
+`ADV` occurs with 3 features: <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt> (3; 38% instances), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt> (1; 13% instances), <tt><a href="ltg_cairo-feat-ExtPos.html">ExtPos</a></tt> (1; 13% instances)
 
-`ADV` occurs with 2 feature-value pairs: `Degree=Pos`, `ExtPos=SCONJ`
+`ADV` occurs with 4 feature-value pairs: `Degree=Pos`, `ExtPos=SCONJ`, `PronType=Dem`, `PronType=Int`
 
-`ADV` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (6 tokens).
-Examples: <em>Kai, kod, leidza, puoruok, tod, vakar</em>
+`ADV` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (3 tokens).
+Examples: <em>leidza, puoruok, vakar</em>
 
 
 ## Relations

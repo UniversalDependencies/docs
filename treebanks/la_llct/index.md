@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Timo Korkiakangas, Flavio Massimiliano Cecchini, Marco Passarotti.
 
 Repository: [UD_Latin-LLCT](https://github.com/UniversalDependencies/UD_Latin-LLCT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -960,16 +960,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc (4)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN-Abl (2)</li>
-      <li>VERB-Fin--NOUN-Acc (2018)</li>
+      <li>VERB-Fin--NOUN-Acc (2009)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (105)</li>
-      <li>VERB-Fin--PRON-Acc (1089)</li>
+      <li>VERB-Fin--PRON-Acc (1081)</li>
       <li>VERB-Fin--PRON-Nom (14)</li>
-      <li>VERB-Inf--NOUN-Acc (1591)</li>
+      <li>VERB-Inf--NOUN-Acc (1589)</li>
       <li>VERB-Inf--NOUN-Nom (98)</li>
-      <li>VERB-Inf--PRON-Acc (322)</li>
+      <li>VERB-Inf--PRON-Acc (320)</li>
       <li>VERB-Inf--PRON-Nom (11)</li>
-      <li>VERB-Part--NOUN-Acc (820)</li>
+      <li>VERB-Part--NOUN-Acc (819)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
       <li>VERB-Part--PRON-Acc (89)</li>
     </ul>
@@ -980,8 +980,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Nom (6)</li>
+      <li>VERB-Fin--PRON-Acc (8)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
+      <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
     </ul>

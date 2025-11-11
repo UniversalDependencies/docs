@@ -22,22 +22,22 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound	color:blue
-1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	wordform=il
+1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	wordform=il
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
-3	disputé	disputer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+3	disputé	disputer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
 4	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	_
 5	premier	premier	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
-6	test	test	NOUN	_	Gender=Masc|Number=Sing	7	compound	_	_
-7	match	match	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	test	test	NOUN	_	Number=Sing	7	compound	_	Gender[lex]=Masc
+7	match	match	NOUN	_	Number=Sing	3	obj	_	Gender[lex]=Masc
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	16	16	NUM	_	Number=Sing	3	obl:mod	_	_
-10	janvier	janvier	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
-11	1988	1988	NUM	_	Number=Plur	10	nmod	_	_
+9	16	16	NUM	_	_	3	obl:mod	_	Number[lex]=Sing
+10	janvier	janvier	NOUN	_	Number=Sing	9	nmod	_	Gender[lex]=Masc
+11	1988	1988	NUM	_	_	10	nmod	_	Number[lex]=Sing
 12	contre	contre	ADP	_	_	14	case	_	_
-13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
-14	équipe	équipe	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	_
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	Gender[ctxt]=Fem|SpaceAfter=No
+14	équipe	équipe	NOUN	_	Number=Sing	3	obl:mod	_	Gender[lex]=Fem
 15	d'	de	ADP	_	_	16	case	_	SpaceAfter=No
-16	Irlande	Irlande	PROPN	_	_	14	nmod	_	SpaceAfter=No
+16	Irlande	Irlande	PROPN	_	_	14	nmod	_	Gender[lex]=Unknown|SpaceAfter=No
 17	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

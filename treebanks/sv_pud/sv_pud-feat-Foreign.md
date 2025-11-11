@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 19 <tt><a href="sv_pud-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (19; 100%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (18; 95%).
 
 `DET` tokens may have the following values of `Foreign`:
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>of, On, Over, de, in</em>
-* `EMPTY` (2439): <em>i, av, för, på, till, med, från, under, vid, om</em>
+* `EMPTY` (2425): <em>i, av, för, på, till, med, från, under, vid, om</em>
 
 ### `VERB`
 
@@ -86,12 +86,12 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 
 7 <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7; 100%), <tt><a href="sv_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 57%).
 
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>My, you, 'Ya, Her, Me</em>
-* `EMPTY` (1329): <em>som, det, han, de, sig, hans, jag, sin, den, hon</em>
+* `EMPTY` (1331): <em>som, det, han, de, sig, hans, jag, sin, den, hon</em>
 
 ### `ADV`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Really, Anyway, Now</em>
-* `EMPTY` (990): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
+* `EMPTY` (986): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
 
 ### `AUX`
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>and</em>
-* `EMPTY` (637): <em>och, men, eller, som, såsom, både, så, Fast, antingen, såväl</em>
+* `EMPTY` (633): <em>och, men, eller, såsom, både, så, som, Fast, antingen, såväl</em>
 
 ### `SCONJ`
 
@@ -144,7 +144,7 @@ The most frequent other feature values with which `SCONJ` and `Foreign` co-occur
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>if</em>
-* `EMPTY` (363): <em>att, som, när, om, än, medan, då, eftersom, innan, fastän</em>
+* `EMPTY` (383): <em>att, som, när, än, om, medan, då, eftersom, innan, fastän</em>
 
 ## Relations with Agreement in `Foreign`
 

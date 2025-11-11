@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `PROPN`
 
 There are 9 `PROPN` lemmas (8%), 11 `PROPN` types (9%) and 15 `PROPN` tokens (9%).
-Out of 11 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
+Out of 13 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Pīters, Mareja, Brauna, Džeina, Fraņceja, Igvasu, Parize, Sems, Smits</em>
 
@@ -40,21 +40,21 @@ Examples: <em>Pītera, Smita</em>
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 8 different relations: <tt><a href="ltg_cairo-dep-conj.html">conj</a></tt> (4; 27% instances), <tt><a href="ltg_cairo-dep-nsubj.html">nsubj</a></tt> (3; 20% instances), <tt><a href="ltg_cairo-dep-flat-name.html">flat:name</a></tt> (2; 13% instances), <tt><a href="ltg_cairo-dep-nmod.html">nmod</a></tt> (2; 13% instances), <tt><a href="ltg_cairo-dep-obj.html">obj</a></tt> (1; 7% instances), <tt><a href="ltg_cairo-dep-obl.html">obl</a></tt> (1; 7% instances), <tt><a href="ltg_cairo-dep-vocative.html">vocative</a></tt> (1; 7% instances), <tt><a href="ltg_cairo-dep-xcomp.html">xcomp</a></tt> (1; 7% instances)
+`PROPN` nodes are attached to their parents using 8 different relations: <tt><a href="ltg_cairo-dep-conj.html">conj</a></tt> (4; 27% instances), <tt><a href="ltg_cairo-dep-nsubj.html">nsubj</a></tt> (3; 20% instances), <tt><a href="ltg_cairo-dep-flat-name.html">flat:name</a></tt> (2; 13% instances), <tt><a href="ltg_cairo-dep-nmod.html">nmod</a></tt> (2; 13% instances), <tt><a href="ltg_cairo-dep-obj.html">obj</a></tt> (1; 7% instances), <tt><a href="ltg_cairo-dep-obl.html">obl</a></tt> (1; 7% instances), <tt><a href="ltg_cairo-dep-root.html">root</a></tt> (1; 7% instances), <tt><a href="ltg_cairo-dep-vocative.html">vocative</a></tt> (1; 7% instances)
 
-Parents of `PROPN` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (9; 60% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (4; 27% instances), <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (2; 13% instances)
+Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (7; 47% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (4; 27% instances), <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (3; 20% instances),  (1; 7% instances)
 
 6 (40%) `PROPN` nodes are leaves.
 
-5 (33%) `PROPN` nodes have one child.
+4 (27%) `PROPN` nodes have one child.
 
 0 (0%) `PROPN` nodes have two children.
 
-4 (27%) `PROPN` nodes have three or more children.
+5 (33%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 4.
+The highest child degree of a `PROPN` node is 5.
 
-Children of `PROPN` nodes are attached using 7 different relations: <tt><a href="ltg_cairo-dep-punct.html">punct</a></tt> (6; 33% instances), <tt><a href="ltg_cairo-dep-cc.html">cc</a></tt> (4; 22% instances), <tt><a href="ltg_cairo-dep-conj.html">conj</a></tt> (2; 11% instances), <tt><a href="ltg_cairo-dep-flat-name.html">flat:name</a></tt> (2; 11% instances), <tt><a href="ltg_cairo-dep-orphan.html">orphan</a></tt> (2; 11% instances), <tt><a href="ltg_cairo-dep-appos.html">appos</a></tt> (1; 6% instances), <tt><a href="ltg_cairo-dep-case.html">case</a></tt> (1; 6% instances)
+Children of `PROPN` nodes are attached using 9 different relations: <tt><a href="ltg_cairo-dep-punct.html">punct</a></tt> (7; 32% instances), <tt><a href="ltg_cairo-dep-cc.html">cc</a></tt> (4; 18% instances), <tt><a href="ltg_cairo-dep-conj.html">conj</a></tt> (3; 14% instances), <tt><a href="ltg_cairo-dep-flat-name.html">flat:name</a></tt> (2; 9% instances), <tt><a href="ltg_cairo-dep-orphan.html">orphan</a></tt> (2; 9% instances), <tt><a href="ltg_cairo-dep-appos.html">appos</a></tt> (1; 5% instances), <tt><a href="ltg_cairo-dep-case.html">case</a></tt> (1; 5% instances), <tt><a href="ltg_cairo-dep-cop.html">cop</a></tt> (1; 5% instances), <tt><a href="ltg_cairo-dep-nsubj.html">nsubj</a></tt> (1; 5% instances)
 
-Children of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="ltg_cairo-pos-PUNCT.html">PUNCT</a></tt> (6; 33% instances), <tt><a href="ltg_cairo-pos-CCONJ.html">CCONJ</a></tt> (4; 22% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (4; 22% instances), <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="ltg_cairo-pos-ADP.html">ADP</a></tt> (1; 6% instances)
+Children of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="ltg_cairo-pos-PUNCT.html">PUNCT</a></tt> (7; 32% instances), <tt><a href="ltg_cairo-pos-CCONJ.html">CCONJ</a></tt> (4; 18% instances), <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (4; 18% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (4; 18% instances), <tt><a href="ltg_cairo-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ltg_cairo-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 5% instances)
 

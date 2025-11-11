@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fa_perdt-pos-VERB.h
 
 54270 <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (50975; 94%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (48628; 90%), <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36629; 67%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (50975; 94%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (45995; 85%), <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36629; 67%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -29,10 +29,10 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>کرد</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکن</td><td>نکن, نشو</td><td>نکند</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>کن, بکن, مکن, کرده, برمکن, شو, مشو, کنید</td><td>کن, کرده</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکنیم</td><td>نکنید</td><td></td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کنیم</td><td>کنید, بکنید, کرده, برشوید, درکنید, مکنید</td><td>کنند</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکن</td><td>نکن, نشو</td><td>نکند</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>کن, بکن, مکن, کرده, برمکن, شو, مشو, کنید</td><td>کن, کرده</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکنیم</td><td>نکنید</td><td></td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کنیم</td><td>کنید, بکنید, کرده, برشوید, درکنید, مکنید</td><td>کنند</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>نکرده</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>نکردم</td><td>نکردی</td><td>نکرده, نکرد, نمی‌کرده, نکردی</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td>نشد</td></tr>
@@ -66,7 +66,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 16853 <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fa_perdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (11156; 66%), <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10006; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fa_perdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16853; 100%), <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10006; 59%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -77,15 +77,14 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>او</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt></tt></td><td>او</td><td>ش</td><td>او, ش, اش, و, یش, اویی</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td>ش, اش, یش</td></tr>
+  <tr><td><tt></tt></td><td>او</td><td>ش</td><td>او, ش, اش, یش, و, اویی</td></tr>
 </table>
 
 ### `AUX`
 
 16734 <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12757; 76%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12121; 72%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12757; 76%), <tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10793; 64%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10793; 64%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -96,8 +95,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>بود</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>باشم</td><td>باشی</td><td>باشد</td></tr>
-  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>باشیم</td><td>باشید</td><td>باشند</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>باشم</td><td>باشی</td><td>باشد</td></tr>
+  <tr><td><tt><tt><a href="fa_perdt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>باشیم</td><td>باشید</td><td>باشند</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>بودم, باشم, بوده‌ام, می‌باشم, بوده</td><td>باش, باشی, بودی, بوده‌ای</td><td>بود, باشد, بوده, می‌باشد, باد, بودم, می‌بود, مباد, باشم, باشی, بوده‌ام, بودی, شد, مباش</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td>نبودم, نباشم, نبوده‌ام</td><td>نباشی, نباش, نبودی</td><td>نبود, نباشد, نبوده, نمی‌باشد, نمی‌بود</td></tr>
   <tr><td><tt><tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fa_perdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td>بود</td></tr>
@@ -117,7 +116,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="fa_perdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3242; 81%),
 <tt>VERB --[<tt><a href="fa_perdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1824; 69%),
 <tt>VERB --[<tt><a href="fa_perdt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (816; 97%),
-<tt>PRON --[<tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (614; 92%),
+<tt>PRON --[<tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (618; 91%),
 <tt>VERB --[<tt><a href="fa_perdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (74; 91%),
 <tt>AUX --[<tt><a href="fa_perdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (45; 78%),
 <tt>VERB --[<tt><a href="fa_perdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (42; 57%).

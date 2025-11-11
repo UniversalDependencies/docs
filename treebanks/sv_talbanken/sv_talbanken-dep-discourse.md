@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-22 nodes (0%) are attached to their parents as `discourse`.
+23 nodes (0%) are attached to their parents as `discourse`.
 
-22 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.31818181818182.
+23 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.04347826086957.
 
-The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (14; 64% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (6; 27% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (2; 9% instances).
+The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (14; 61% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (6; 26% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (2; 9% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

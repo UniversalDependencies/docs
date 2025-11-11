@@ -128,6 +128,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>é</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>sido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>seria</em></td><td><em>seriam</em></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>será</em></td><td><em>serão</em></td></tr>
@@ -170,7 +171,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (44; 20% of non-empty `Number`): <em>onde</em>
 * `Sing` (171; 80% of non-empty `Number`): <em>onde, Antes, SIM, melhor</em>
-* `EMPTY` (6226): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
+* `EMPTY` (6224): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
 
 <table>
   <tr><th>Paradigm <i>onde</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -212,7 +213,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="pt_petrogold-dep-acl.html">acl</a></tt>]--> VERB</tt> (4088; 93%),
 <tt>PROPN --[<tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (3657; 96%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3652; 93%),
-<tt>NOUN --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3362; 77%),
+<tt>NOUN --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3363; 77%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (2703; 80%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (2492; 90%).
 

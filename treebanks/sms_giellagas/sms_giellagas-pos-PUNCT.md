@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.476015).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.476809).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “.”: <em>.</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="sms_giellagas-dep-punct.html">punct</a></tt> (702; 100% instances)
 
-Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (581; 83% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (50; 7% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (31; 4% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (581; 83% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (50; 7% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (27; 4% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 702 (100%) `PUNCT` nodes are leaves.
 

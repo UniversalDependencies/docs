@@ -36,7 +36,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (553; 100% of non-empty `Polarity`): <em>nach, ní, níor, nár, ná, chan, n', cha</em>
-* `EMPTY` (6423): <em>a, go, d', níos, is, ó, gur, ina, an, do</em>
+* `EMPTY` (6425): <em>a, go, d', níos, is, ó, gur, ina, an, do</em>
 
 ### `AUX`
 

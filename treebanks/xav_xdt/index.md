@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Ivan Roksandic, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Xavante-XDT](https://github.com/UniversalDependencies/UD_Xavante-XDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxav_xdt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxav_xdt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,7 +80,7 @@ The development of this treebank is supported by the by European Research Counci
 
 
 <ul>
-<li>This corpus contains 246 sentences, 2225 tokens and 2234 syntactic words.</li>
+<li>This corpus contains 248 sentences, 2229 tokens and 2239 syntactic words.</li>
 </ul>
 
 <ul>
@@ -92,12 +92,12 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus contains 120 types of words that contain both letters and punctuation. Examples: za'ra, 'watébrémi, wa'wa, a'uwẽ, pi'õ, 're, ba'õtõ, waihu'u, pe'a, pi’õ, 'ri, sõ're, wa'aba, ba'õno, ni'wa, 'wa, Asõhui'wa, anorĩwa'wahã, dza'ra, ma'ãpé, pi'uriwi, rowahutu'wa, rowasu'u, sa'ẽtẽ, sada'öbö, si'a, wahi'ratanorĩhã, 'rinho're, 'ré, Ti'ra, Tsa'ẽtẽ, ai'repudu, ai'uté, danho're, dawede'wai, pa'o, pi'õi, sada'ö, ta'a, ti'a, tinhohui'wai, ĩ'ahöri, ĩ'madö'ö, ĩ'rãzani, ĩ'upsõi, ĩta'are, 'Ritéi'wa, 'Watébrémire, 'madö'ö, 'mahö</li>
+<li>This corpus contains 119 types of words that contain both letters and punctuation. Examples: za'ra, 'watébrémi, wa'wa, a'uwẽ, pi'õ, 're, ba'õtõ, waihu'u, pe'a, pi’õ, 'ri, sa'ẽtẽ, sõ're, wa'aba, ba'õno, ni'wa, 'wa, Asõhui'wa, anorĩwa'wahã, dza'ra, ma'ãpé, pi'uriwi, rowahutu'wa, rowasu'u, sada'öbö, si'a, wahi'ratanorĩhã, 'rinho're, 'ré, Ti'ra, ai'repudu, ai'uté, danho're, dawede'wai, pa'o, pi'õi, sada'ö, ta'a, ti'a, tinhohui'wai, ĩ'ahöri, ĩ'madö'ö, ĩ'rãzani, ĩ'upsõi, ĩta'are, 'Ritéi'wa, 'Watébrémire, 'madö'ö, 'mahö, 'maipo'repu'umhã</li>
 </ul>
 
 <ul>
-<li>This corpus contains 9 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 9 types of multi-word tokens. Examples: 'rowipese, Mrap-te, Wawa'a-te, ropoto'wa, rowẽuptabi, warobreb, zöptete, ö'ré, Ĩhiñimiza'reseõ.</li>
+<li>This corpus contains 10 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 10 types of multi-word tokens. Examples: 'rowipese, Mrap-te, Wawa'a-te, norĩhã, ropoto'wa, rowẽuptabi, warobreb, zöptete, ö'ré, Ĩhiñimiza'reseõ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -114,7 +114,7 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): 'wa, _, a, ai, aihini, anorĩwa'wahã, asa, da, hã, ma, mari, marĩ, ni, ni'wa, o, siwi, ta, taha, te, ti, uburé, wa, waima, wanorĩhã, wasiwi, watsiwi, waʔaba, ãhã, õ, õhã, õhõ, õnorĩhã, ĩ, ĩĩ</li>
+<li>This corpus contains 35 lemmas tagged as pronouns (PRON): 'wa, _, a, ai, aihini, anorĩwa'wahã, asa, da, hã, ma, mari, marĩ, ni, ni'wa, norĩ, o, siwi, ta, taha, te, ti, uburé, wa, waima, wanorĩhã, wasiwi, watsiwi, waʔaba, ãhã, õ, õhã, õhõ, õnorĩhã, ĩ, ĩĩ</li>
 </ul>
 
 <ul>
@@ -170,7 +170,7 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>NOUN: norĩ, wahi'ratanorĩhã, Wahi'ratanorĩ, aba'wanorĩ, Ananorĩhã, ti'ranorĩ, ti'ranorĩhã, wa'ranorĩhã, wamamanorĩhã, Ĩ'ranorĩ</li>
       <li>PART: norĩ, aba, norĩhã, wa'aba</li>
-      <li>PRON: wanorĩhã, wanorĩ, wasiwi, anorĩwa'wahã, watsiwi</li>
+      <li>PRON: norĩ, wanorĩhã, Wa, wanorĩ, wasiwi, anorĩwa'wahã, watsiwi</li>
     </ul>
   </li>
 </ul>
@@ -463,7 +463,7 @@ The development of this treebank is supported by the by European Research Counci
       <li>AUX: wa, wate</li>
       <li>NOUN: ĩĩmama, waʔrata, ĩ'rã, 'ra, Wahitébré, Wasi'usu, Wawa'a, wa'ranorĩhã, warob, wasa</li>
       <li>PART: ni</li>
-      <li>PRON: wa, wahã, wanorĩhã, wama, wanorĩ, wasima, ĩma, ĩĩsima, wate, watsiwi</li>
+      <li>PRON: wa, wahã, wama, wanorĩhã, wanorĩ, wasima, ĩma, ĩĩsima, wate, watsiwi</li>
       <li>VERB: ĩ'ahöri, mõ, romhuri, Ĩĩsiupte, ĩĩwasutu, ĩĩzahi, ĩĩñoʔre</li>
     </ul>
   </li>
@@ -570,7 +570,7 @@ The development of this treebank is supported by the by European Research Counci
           <li>DET: Ãhã, Õhõ</li>
           <li>NOUN: wahi'ratanorĩhã, ahã, wa'ranorĩhã, wamamanorĩhã</li>
           <li>PART: hã, norĩhã</li>
-          <li>PRON: wahã, hã, wanorĩhã, õhã, ahã, anorĩwa'wahã, ohã</li>
+          <li>PRON: wahã, hã, õhã, ahã, wanorĩhã, Wa, anorĩwa'wahã, ohã</li>
         </ul>
       </li>
     </ul>

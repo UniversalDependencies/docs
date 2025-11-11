@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 22 compound	color:blue
-1	Más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
+1	Más	más	ADV	RBR	Degree=Cmp|ExtPos=ADV	4	advmod	_	_
 2	y	y	CCONJ	CC	_	1	fixed	_	_
 3	más	más	ADV	RBR	Degree=Cmp	1	fixed	_	_
 4	compañías	compañía	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
@@ -87,7 +87,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 15 compound	color:blue
-1	Más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
+1	Más	más	ADV	RBR	Degree=Cmp|ExtPos=ADV	4	advmod	_	_
 2	y	y	CCONJ	CC	_	1	fixed	_	_
 3	más	más	ADV	RBR	Degree=Cmp	1	fixed	_	_
 4	compañías	compañía	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_

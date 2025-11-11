@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Matthew Andrews, Çağrı Çöltekin.
 
 Repository: [UD_Gwichin-TueCL](https://github.com/UniversalDependencies/UD_Gwichin-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgwi_tuecl216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgwi_tuecl217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: grammar-examples
 Questions, comments?
 General annotation questions (either Gwichin-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Gwichin-TueCL/issues).
-If you want to collaborate, please contact [matthew&nbsp;•&nbsp;andrews&nbsp;(æt)&nbsp;student&nbsp;•&nbsp;uni-tuebingen&nbsp;•&nbsp;de, cagri&nbsp;•&nbsp;coeltekin&nbsp;(æt)&nbsp;uni-tuebingen&nbsp;•&nbsp;de].
+If you want to collaborate, please contact [m&nbsp;•&nbsp;kirkandrews&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, cagri&nbsp;•&nbsp;coeltekin&nbsp;(æt)&nbsp;uni-tuebingen&nbsp;•&nbsp;de].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |

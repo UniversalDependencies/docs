@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-132 nodes (1%) are attached to their parents as `expl`.
+162 nodes (1%) are attached to their parents as `expl`.
 
-123 instances of `expl` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18939393939394.
+154 instances of `expl` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11111111111111.
 
-The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (114; 86% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (10; 8% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (137; 85% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (15; 9% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,9 +56,9 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 expl	color:blue
 1	Kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:3
-2	fardamirĩ	farda	NOUN	N	Degree=Dim|Number=Sing	3	nsubj	_	OrigLang=por|TokenRange=4:13
+2	fardamirĩ	farda	NOUN	N	Degree=Dim|Number=Sing	3	nsubj	_	OrigLang=pt|TokenRange=4:13
 3	tausika	sika	VERB	V	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	TokenRange=14:21
-4	aluno	aluno	NOUN	N	Number=Sing	3	obl	_	OrigLang=por|TokenRange=22:27
+4	aluno	aluno	NOUN	N	Number=Sing	3	obl	_	OrigLang=pt|TokenRange=22:27
 5	ta	ta	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	expl	_	TokenRange=28:30
 6	supé	supé	ADP	ADP	AdpType=Post	4	case	_	TokenRange=31:35
 7	arã	arã	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=36:39

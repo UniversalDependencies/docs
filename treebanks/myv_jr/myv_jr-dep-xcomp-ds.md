@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `xcomp:ds`: <tt><a h
 # visual-style 7 6 xcomp:ds	color:blue
 1	Окойники	окойники	ADV	Adv	AdvType=Tim	3	advmod	_	GTtags=Sem/Time|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	велявтсть	велявтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
+3	велявтсть	велявтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,ScPl3
 4	лей	лей	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	nmod	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
 5	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=Relator,Relat,SP,Ela,Indef
 6	шлямо	шлямс	VERB	V	Case=Loc|VerbForm=Inf	7	xcomp:ds	_	GTtags=IV,Inf,Loc

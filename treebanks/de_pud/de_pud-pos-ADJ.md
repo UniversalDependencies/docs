@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>weitere</em> (<tt><a href="de_pud-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.269521 (the average of all parts of speech is 1.198185).
+The form / lemma ratio of `ADJ` is 1.269521 (the average of all parts of speech is 1.198787).
 
 The 1st highest number of forms (11) was observed with the lemma “groß”: <em>groß, große, großem, großen, großer, großes, größer, größere, größeren, größte, größten</em>.
 

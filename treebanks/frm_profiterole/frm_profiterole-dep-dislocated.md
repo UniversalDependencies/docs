@@ -8,31 +8,36 @@ udver: '2'
 
 This relation is universal.
 
-35 nodes (0%) are attached to their parents as `dislocated`.
+46 nodes (0%) are attached to their parents as `dislocated`.
 
-27 instances of `dislocated` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.51428571428571.
+36 instances of `dislocated` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.93478260869565.
 
-The following 10 pairs of parts of speech are connected with `dislocated`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (15; 43% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 20% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (5; 14% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 13 pairs of parts of speech are connected with `dislocated`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (20; 43% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (9; 20% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (6; 13% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 dislocated	color:blue
-1	«	«	PUNCT	PONpga	_	5	punct	_	XmlId=w_42_08351
-2	Et	et	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_42_08352
-3	que	que	PRON	PROint	PronType=Int	5	obj	_	XmlId=w_42_08353
-4	lui	lui	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_42_08354
-5	diray	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_08355
-6	je	je	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_42_08356
-7	qui	qui1	PRON	PROrel	PronType=Rel	5	dislocated	_	XmlId=w_42_08357
-8	vous	vous	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_42_08358
-9	estes	être	AUX	VERcjg	VerbForm=Fin	7	cop	_	XmlId=w_42_08359
-10	?	?	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_08361
-11	»	»	PUNCT	PONpdr	_	5	punct	_	XmlId=w_42_08360
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 2 dislocated	color:blue
+1	Car	car	CCONJ	CONcoo	_	9	cc:nc	_	XmlId=w_jouvencel1_7540
+2	ce	ce1	PRON	PROdem	PronType=Dem	9	dislocated	_	XmlId=w_jouvencel1_7541
+3	qu'	que	PRON	PROrel	PronType=Rel	5	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_7542
+4	ilz	il	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_jouvencel1_7543
+5	gaignent	gagner	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No|XmlId=w_jouvencel1_7544
+6	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_7545
+7	ilz	il	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_jouvencel1_7546
+8	le	le	PRON	PROper	PronType=Prs	9	obj	_	XmlId=w_jouvencel1_7547
+9	tiennent	tenir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_7548
+10	de	de	ADP	PRE	_	11	case	_	XmlId=w_jouvencel1_7549
+11	Dieu	Dieu	PROPN	NOMpro	_	9	obl	_	XmlId=w_jouvencel1_7550
+12	et	et	CCONJ	CONcoo	_	15	cc	_	XmlId=w_jouvencel1_7551
+13	de	de	ADP	PRE	_	15	case	_	XmlId=w_jouvencel1_7552
+14	l'	le	DET	DETdef	Definite=Def|PronType=Art	15	det	_	SpaceAfter=No|XmlId=w_jouvencel1_7553
+15	espée	épée	NOUN	NOMcom	_	11	conj	_	SpaceAfter=No|XmlId=w_jouvencel1_7554
+16	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_7555
 
 ~~~
 
@@ -74,7 +79,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 7	Paris	Paris	PROPN	NOMpro	_	5	flat	_	SpaceAfter=No|XmlId=w_42_12786
 8	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_12787
 9	d'	de	ADP	PRE	_	11	mark	_	SpaceAfter=No|XmlId=w_42_12789
-10	y	y2	ADV	PROadv	_	11	obl:advmod	_	XmlId=w_42_12790
+10	y	y2	ADV	PROadv	_	11	obl:mod	_	XmlId=w_42_12790
 11	aller	aller	VERB	VERinf	VerbForm=Inf	18	dislocated	_	XmlId=w_42_12791
 12	je	je	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_42_12792
 13	ne	ne1	ADV	ADVneg	PronType=Neg	14	advmod	_	XmlId=w_42_12793

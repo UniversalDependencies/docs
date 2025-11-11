@@ -9,36 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-153 tokens (0%) have a non-empty value of `Abbr`.
-72 types (1%) occur at least once with a non-empty value of `Abbr`.
-70 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 4 part-of-speech tags: <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (79; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (69; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+226 tokens (0%) have a non-empty value of `Abbr`.
+82 types (1%) occur at least once with a non-empty value of `Abbr`.
+80 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 4 part-of-speech tags: <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (120; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (101; 0% instances), <tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-79 <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> tokens (3% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+120 <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> tokens (3% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (79; 100%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (77; 97%), <tt><a href="uk_parlamint-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (56; 71%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Gen</tt> (51; 65%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (47; 59%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (120; 100%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (115; 96%), <tt><a href="uk_parlamint-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (97; 81%), <tt><a href="uk_parlamint-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (83; 69%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (79; 100% of non-empty `Abbr`): <em>НАТО, РНБО, ООН, РФ, ДНР, ЛНР, ОБСЄ, СРСР, СБУ, УДАР</em>
-* `EMPTY` (2946): <em>України, Україні, Криму, Україна, Росії, Іванович, Батьківщина, Крим, Михайловичу, Олександр</em>
+* `Yes` (120; 100% of non-empty `Abbr`): <em>НДП, НАТО, РНБО, СПУ, СДПУ(о), ООН, РФ, ДНР, ЛНР, ОБСЄ</em>
+* `EMPTY` (3964): <em>України, Україні, Україна, Криму, Михайловичу, Володимире, Росії, Олександр, Україну, Іванович</em>
 
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (32) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (41) occur only with one value of `Abbr`.
 
 ### `NOUN`
 
-69 <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+101 <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (59; 86%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 61%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Gen</tt> (39; 57%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="uk_parlamint-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (91; 90%), <tt><a href="uk_parlamint-feat-Number.html">Number</a></tt><tt>=Sing</tt> (72; 71%), <tt><a href="uk_parlamint-feat-Case.html">Case</a></tt><tt>=Gen</tt> (59; 58%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (69; 100% of non-empty `Abbr`): <em>МЗС, млн., тис., ЗМІ, ОСББ, ТСК, ВАТ, ВВП, ДЮСШ, МВС</em>
-* `EMPTY` (21349): <em>колеги, питання, ласка, рішення, ради, закону, проект, слово, час, фракція</em>
+* `Yes` (101; 100% of non-empty `Abbr`): <em>ЦВК, МЗС, млн., ЗМІ, тис., МВС, ОСББ, ТСК, ВАТ, ВВП</em>
+* `EMPTY` (26712): <em>колеги, ласка, питання, рішення, ради, закону, депутати, голосування, фракція, слово</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (40) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (42) occur only with one value of `Abbr`.
 
 ### `NUM`
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>млн., тис.</em>
-* `EMPTY` (865): <em>два, один, 3, двох, 5, 15, одну, одна, три, одне</em>
+* `EMPTY` (1153): <em>два, один, 3, три, 5, одну, 20, двох, 1, 15</em>
 
 ### `ADJ`
 
@@ -60,12 +60,12 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Обл</em>
-* `EMPTY` (8753): <em>шановні, Верховної, шановний, повинні, народні, готові, російської, народних, народний, реєстраційний</em>
+* `EMPTY` (10915): <em>шановні, Верховної, народні, шановний, повинні, народних, Верховна, готові, російської, народний</em>
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>PROPN --[<tt><a href="uk_parlamint-dep-conj.html">conj</a></tt>]--> PROPN</tt> (8; 89%),
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-compound.html">compound</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="uk_parlamint-dep-flat.html">flat</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="uk_parlamint-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="uk_parlamint-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (1; 100%).
 

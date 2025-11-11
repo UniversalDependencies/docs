@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (30109; 23% of non-empty `Tense`): <em>sagte, gab, erklärte, hieß, kündigte, meinte, teilte, stieg, betonte, ging</em>
 * `Pres` (102877; 77% of non-empty `Tense`): <em>gibt, geht, steht, bietet, kommt, sieht, stellt, liegt, heißt, stehen</em>
-* `EMPTY` (130600): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
+* `EMPTY` (130601): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
   <tr><th>Paradigm <i>geben</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

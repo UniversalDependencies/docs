@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 4 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3; 75%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=1</tt> (3; 75%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 75%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3; 75%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=1</tt> (3; 75%).
 
 `PRON` tokens may have the following values of `Poss`:
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `PROPN` and `Poss` co-occurred
 `PROPN` tokens may have the following values of `Poss`:
 
 * `Yes` (2; 100% of non-empty `Poss`): <em>SC, SYNODUS</em>
-* `EMPTY` (30415): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30414): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 

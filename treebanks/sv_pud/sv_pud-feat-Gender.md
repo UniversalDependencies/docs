@@ -11,7 +11,7 @@ It occurs with 2 different values: `Com`, `Neut`.
 
 5865 tokens (31%) have a non-empty value of `Gender`.
 3109 types (50%) occur at least once with a non-empty value of `Gender`.
-2470 lemmas (50%) occur at least once with a non-empty value of `Gender`.
+2474 lemmas (50%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 7 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3879; 20% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (822; 4% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (679; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (474; 2% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 
 ### `NOUN`
@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>val</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (2117) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (2121) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Com` (406; 60% of non-empty `Gender`): <em>han, jag, sin, den, hon, vi, honom, en, du, henne</em>
 * `Neut` (273; 40% of non-empty `Gender`): <em>det, detta, sitt, vilket, ett, allt, vårt, inget, något, alltihop</em>
-* `EMPTY` (657): <em>som, de, sig, hans, sina, dess, deras, hennes, vad, mer</em>
+* `EMPTY` (659): <em>som, de, sig, hans, sina, dess, deras, hennes, vad, mer</em>
 
 <table>
   <tr><th>Paradigm <i>den</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 5 <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (5; 100%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -128,13 +128,13 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (784; 83%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (384; 58%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (386; 58%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (141; 60%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (61; 55%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (32; 54%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (30; 52%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (23; 77%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (23; 51%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (22; 76%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (21; 62%),
-<tt>PRON --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (20; 54%).
+<tt>NOUN --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (20; 56%),
+<tt>ADJ --[<tt><a href="sv_pud-dep-expl.html">expl</a></tt>]--> PRON</tt> (12; 80%).
 

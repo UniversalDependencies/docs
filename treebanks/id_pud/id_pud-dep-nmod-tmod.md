@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 # visual-style 1	fgColor:white
 # visual-style 1 3 nmod:tmod	color:blue
 1	Periode	periode	NOUN	_	Number=Sing	7	nsubj	_	_
-2	tunggu	tunggu	VERB	_	Mood=Ind|Voice=Act	1	acl	_	_
+2	tunggu	tunggu	VERB	_	Voice=Act	1	acl	_	_
 3	saat	saat	NOUN	_	Number=Sing	1	nmod:tmod	_	_
 4	ini	ini	DET	_	PronType=Dem	3	det	_	_
 5	adalah	adalah	AUX	_	_	7	cop	_	_
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 # visual-style 5 6 nmod:tmod	color:blue
 1	Mereka	mereka	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 2	akan	akan	AUX	_	_	3	aux	_	_
-3	main	main	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	main	main	VERB	_	Voice=Act	0	root	_	_
 4	pada	pada	ADP	_	_	5	case	_	_
 5	hari	hari	NOUN	_	Number=Sing	3	obl:tmod	_	_
 6	Sabtu	Sabtu	PROPN	_	_	5	nmod:tmod	_	SpaceAfter=No
@@ -65,13 +65,13 @@ The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 2	saja	saja	ADV	_	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	5	nsubj	_	_
-5	mengerti	arti	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+5	mengerti	arti	VERB	_	Voice=Act	0	root	_	_
 6	bahwa	bahwa	SCONJ	_	_	11	mark	_	_
 7	Jerman	Jerman	PROPN	_	_	11	nsubj:pass	_	_
 8	masa	masa	NOUN	_	Number=Sing	7	nmod:tmod	_	_
 9	kini	kini	NOUN	_	Number=Sing	8	nmod:tmod	_	_
 10	harus	harus	AUX	_	_	11	aux	_	_
-11	dipisahkan	pisah	VERB	_	Mood=Ind|Voice=Pass	5	ccomp	_	_
+11	dipisahkan	pisah	VERB	_	Voice=Pass	5	ccomp	_	_
 12	dari	dari	ADP	_	_	13	case	_	_
 13	rezim	rezim	NOUN	_	Number=Sing	11	obl	_	_
 14	Nazi	Nazi	PROPN	_	_	13	nmod	_	SpaceAfter=No

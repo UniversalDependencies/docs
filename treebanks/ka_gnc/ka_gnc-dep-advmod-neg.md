@@ -8,30 +8,45 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ka_gnc-dep-advmod.html">advmod</a></tt>.
 
-292 nodes (2%) are attached to their parents as `advmod:neg`.
+352 nodes (2%) are attached to their parents as `advmod:neg`.
 
-271 instances of `advmod:neg` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19520547945205.
+325 instances of `advmod:neg` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19034090909091.
 
-The following 8 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (240; 82% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (31; 11% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (287; 82% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (40; 11% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (11; 3% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advmod:neg	color:blue
+1	თუმცა	თუმცა	SCONJ	Cj_Sub	_	8	cc	_	LMSeg:თუმცა
+2	ამჯერად	ამჯერად	ADV	Adv_Temp	AdvType=Tim	8	advmod	_	LMSeg:ამჯერად
+3	მის	ის	PRON	Pron_Pers_3_Gen_Sg_PP_PP:თვის	Case=Gen|Number=Sing|PronType=Prs	8	obl	_	LMSeg:ის|SpaceAfter=No
+4	თვის	_თვის	ADP	Pp	_	3	case	_	LMSeg:_თვის
+5	ამას	ეს	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	8	nsubj	_	LMSeg:ეს
+6	მნიშვნელობა	მნიშვნელობა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	8	obj	_	LMSeg:მნიშვნელობ[ა]
+7	არ	არ	ADV	Adv_Neg	_	8	advmod:neg	_	LMSeg:არ
+8	ჰქონდა	ქონა	VERB	V_MedPass_Inv_Impf_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Inv	0	root	_	LMSeg:ქონ[ა]/ქონ|SpaceAfter=No
+9	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
+
+~~~
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod:neg	color:blue
-1	ამიტომ	ამიტომ	ADV	Adv_Causal	_	5	advmod	_	LMSeg:ამიტომ
-2	კარგა	კარგა	ADJ	A_Dat_Att	Case=Dat	3	amod	_	LMSeg:კარგა
-3	ხანს	ხანი	NOUN	N_Temp_Dat_Sg	Case=Dat|Number=Sing	5	obl	_	LMSeg:ხ[ა]ნ·ი
-4	არ	არ	ADV	Adv_Neg	_	5	advmod:neg	_	LMSeg:არ
-5	ვიცოდი	ცოდნა	VERB	V_MedPass_Impf_S:1Sg_DO:3	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Imp	0	root	_	LMSeg:ცოდნ[ა]/ც|SpaceAfter=No
-6	,	,	PUNCT	Punct_Comma	_	9	punct	_	LMSeg:,
-7	როგორი	როგორი	PRON	Pron_Int_Nom_Att	Case=Nom	8	amod	_	LMSeg:როგორ·ი
-8	თვალები	თვალი	ADJ	A_Nom_Pl_NewPl_NonStand	Case=Nom|Number=Plur	9	obj	_	LMSeg:თვალ·ი
-9	ჰქონდა	ქონა	VERB	V_MedPass_Inv_Impf_S:3Sg_DO:3	Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Imp|Voice=Inv	5	ccomp	_	LMSeg:ქონ[ა]/ქონ|SpaceAfter=No
-10	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 advmod:neg	color:blue
+1	განა	განა	ADV	Adv_Sent	_	3	advmod	_	LMSeg:განა
+2	ეს	ეს	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	LMSeg:ეს
+3	ტრაგედია	ტრაგედია	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	LMSeg:ტრაგედი[ა]
+4	არ	არ	ADV	Adv_Neg	_	3	advmod:neg	_	LMSeg:არ
+5	არის	ყოფნა	AUX	V_MedPass_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	cop	_	LMSeg:ყოფნ[ა]/არ|SpaceAfter=No
+6	?	?	PUNCT	Punct_IntMark	_	3	punct	_	LMSeg:?
 
 ~~~
 
@@ -42,31 +57,11 @@ The following 8 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 advmod:neg	color:blue
-1	სხვა	სხვა	ADJ	A_Nom_Att	Case=Nom	2	amod	_	LMSeg:სხვ[ა]
-2	გზა	გზა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	LMSeg:გზ[ა]
-3	არ	არ	ADV	Adv_Neg	_	2	advmod:neg	_	LMSeg:არ
-4	არის	არის	AUX	V_MedPass_Pres_S:3Sg	Number[subj]=Sing|Person[subj]=3|Tense=Pres	2	cop	_	LMSeg:ყოფნ[ა]/არ|SpaceAfter=No
+1	პუპი	პუპი	PROPN	N_Prop_Anthr_FirstName_Nom	Case=Nom|NameType=Prs	2	nsubj	_	LMSeg:პუპი
+2	დასაწუნი	დასაწუნი	ADJ	A_Part_FutPart_Pv_Nom_Sg	Case=Nom|Number=Sing|Tense=Fut|VerbForm=Part	0	root	_	LMSeg:და·საწუნ·ი/წუნ
+3	არა	არ	ADV	Adv_Neg_L_Encl:Aux	_	2	advmod:neg	_	LMSeg:არ|SpaceAfter=No
+4	ა	ყოფნა	AUX	V_MedPass_Pres_S:3Sg_Encl	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	2	cop	_	LMSeg:ყოფნ[ა]/არ|SpaceAfter=No
 5	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 advmod:neg	color:blue
-1	სოფი	სოფი	PROPN	N_Prop_Anthr_FirstName_Nom_Att	Case=Nom|NameType=Prs	2	nmod:name	_	LMSeg:სოფი
-2	ამუნდსენი	ამუნდსენ	PROPN	N_Prop_Anthr_LastName_Nom	Case=Nom|NameType=Prs	6	nsubj	_	LMSeg:ამუნდსენ
-3	არც	არც	ADV	Adv_Deg_udMWE	ExtPos=ADV	6	advmod:neg	_	LMSeg:არც
-4	თუ	თუ	ADV	Adv	_	3	fixed	_	LMSeg:თუ
-5	ისე	ისე	ADV	Adv_Mann	_	3	fixed	_	LMSeg:ისე
-6	კმაყოფილი	კმაყოფილი	ADJ	A_Nom_Sg	Case=Nom|Number=Sing	0	root	_	LMSeg:კმაყოფილ·ი
-7	იყო	არის	AUX	V_Pass_Aor_S:3Sg	Number[subj]=Sing|Person[subj]=3|Tense=Past	6	cop	_	LMSeg:ყოფნ[ა]/ყ[ავ]
-8	თავისი	თავისი	PRON	Pron_Poss_Refl_Poss3Sg_Nom	Case=Nom|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	amod	_	LMSeg:თავის·ი
-9	გარეგნობით	გარეგნობით	ADV	Adv	_	6	obl	_	LMSeg:გარეგნობით|SpaceAfter=No
-10	.	.	PUNCT	Punct_Period	_	6	punct	_	LMSeg:.
 
 ~~~
 

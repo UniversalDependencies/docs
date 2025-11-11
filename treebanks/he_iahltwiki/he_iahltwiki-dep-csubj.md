@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 csubj	color:blue
-1	לפני	לפני	ADP	ADP	_	3	mark	_	_
+1	לפני	לפני	ADP	ADP	ExtPos=SCONJ	3	mark	_	_
 2	ש	ש	SCONJ	SCONJ	_	1	fixed	_	_
 3	ניתנת	ניתן	VERB	VERB	Gender=Fem|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Pass	6	advcl	_	_
 4	מנת	מנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
@@ -47,7 +47,7 @@ The following 11 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 csubj	color:blue
-1	על	על	ADV	ADV	_	3	advmod	_	_
+1	על	על	ADV	ADV	ExtPos=ADV	3	advmod	_	_
 2	כן	כן	ADV	ADV	_	1	fixed	_	_
 3	ברור	ברור	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
 4	ש	ש	SCONJ	SCONJ	_	7	mark	_	_

@@ -1,39 +1,42 @@
 ---
 layout: base
-title:  'Statistics of advcl in UD_Occitan-CorAG'
+title:  'Statistics of advcl in UD_Old_Occitan-CorAG'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Occitan-CorAG: Relations: `advcl`
+## Treebank Statistics: UD_Old_Occitan-CorAG: Relations: `advcl`
 
 This relation is universal.
 
-942 nodes (3%) are attached to their parents as `advcl`.
+1123 nodes (2%) are attached to their parents as `advcl`.
 
-497 instances of `advcl` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 15.567940552017.
+613 instances of `advcl` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 15.3410507569012.
 
-The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-VERB.html">VERB</a></tt> (860; 91% instances), <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-NOUN.html">NOUN</a></tt> (27; 3% instances), <tt><a href="oc_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oc_corag-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-ADJ.html">ADJ</a></tt> (15; 2% instances), <tt><a href="oc_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oc_corag-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="oc_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="oc_corag-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="oc_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oc_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="oc_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="oc_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advcl`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1025; 91% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (36; 3% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (20; 2% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 advcl	color:blue
-1	et	_	CCONJ	_	_	5	cc	_	_
-2	per	_	ADP	_	_	3	case	_	_
-3	so	_	PRON	_	_	5	obl	_	_
-4	es	_	AUX	_	_	5	aux	_	_
-5	mort	_	VERB	_	_	0	root	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	5	punct	_	_
-7	ayssicum	_	SCONJ	_	_	10	mark	_	_
-8	lodeyt	_	DET	_	_	9	det	_	_
-9	caperan	_	NOUN	_	_	10	nsubj	_	_
-10	dischut	_	VERB	_	_	5	advcl	_	_
-11	en	_	ADP	_	_	12	mark	_	_
-12	morien	_	VERB	_	_	10	advcl	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 14 advcl	color:blue
+1	en	_	ADP	_	_	3	case	_	_
+2	aqueg	_	DET	_	_	3	det	_	_
+3	caas	_	NOUN	_	_	6	obl	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	no	_	ADV	_	_	6	advmod	_	_
+6	pagas	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+7	la	_	DET	_	_	8	det	_	_
+8	ley	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	6	punct	_	_
+10	si	_	SCONJ	_	_	14	mark	_	_
+11	esdiser	_	VERB	_	VerbForm=Inf	14	xcomp	_	_
+12	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	11	expl	_	SpaceAfter=No
+13	en	_	ADV	_	_	11	obl	_	_
+14	pot	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -47,12 +50,12 @@ The following 11 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Et	_	CCONJ	_	_	9	cc	_	_
 2	si	_	SCONJ	_	_	3	mark	_	_
 3	obs	_	NOUN	_	_	9	advcl	_	_
-4	ere	_	AUX	_	_	3	cop	_	SpaceAfter=No
+4	ere	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	3	cop	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	3	punct	_	_
-6	que-u	_	PART	_	_	9	expl	_	_
-7	-u	_	PRON	_	_	9	nsubj	_	_
-8	ne	_	PRON	_	_	9	obl	_	_
-9	destrencos	_	VERB	_	_	0	root	_	_
+6	que	_	SCONJ	_	_	9	mark	_	_
+7	-u	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	ne	_	PRON	_	PronType=Prs	9	obl	_	_
+9	destrencos	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	lo	_	DET	_	_	11	det	_	_
 11	senhor	_	NOUN	_	_	9	obj	_	_
 12	de	_	ADP	_	_	14	case	_	_
@@ -62,32 +65,34 @@ The following 11 pairs of parts of speech are connected with `advcl`: <tt><a hre
 16	de	_	ADP	_	_	18	case	_	_
 17	la	_	DET	_	_	18	det	_	_
 18	femne	_	NOUN	_	_	14	conj	_	_
-19	qui	_	PRON	_	_	22	nsubj	_	_
+19	qui	_	PRON	_	PronType=Rel	22	nsubj	_	_
 20	tale	_	NOUN	_	_	22	obj	_	_
-21	aura	_	AUX	_	_	22	aux	_	_
-22	feyte	_	VERB	_	_	14	acl:relcl	_	SpaceAfter=No
+21	aura	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	22	aux	_	_
+22	feyte	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl:relcl	_	SpaceAfter=No
 23	.	_	PUNCT	_	_	9	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 6 advcl	color:blue
-1	Item	_	ADV	_	_	10	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	_	_	1	punct	_	_
-3	quant	_	SCONJ	_	_	6	mark	_	_
-4	lo	_	DET	_	_	5	det	_	_
-5	Rey	_	NOUN	_	_	6	nsubj	_	_
-6	fut	_	VERB	_	_	10	advcl	_	_
-7	bert	_	ADP	_	_	8	case	_	_
-8	Bordeu	_	PROPN	_	_	6	obl	_	_
-9	LX	_	NUM	_	_	10	nummod	_	_
-10	soudz	_	NOUN	_	_	0	root	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	10	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 advcl	color:blue
+1	et	_	CCONJ	_	_	3	cc	_	_
+2	suy	_	AUX	_	Number=Sing|Person=1|VerbForm=Fin	3	cop	_	_
+3	homicidi	_	NOUN	_	_	0	root	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	speciaumentz	_	ADV	_	ExtPos=SCONJ	9	mark	_	_
+6	si	_	SCONJ	_	_	5	fixed	_	_
+7	jo	_	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	me	_	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	9	expl	_	_
+9	geixi	_	VERB	_	Number=Sing|Person=1|VerbForm=Fin	3	advcl	_	_
+10	de	_	ADP	_	_	12	case	_	_
+11	la	_	DET	_	_	12	det	_	_
+12	biele	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

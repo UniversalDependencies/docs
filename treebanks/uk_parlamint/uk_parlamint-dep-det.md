@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `det`: <tt><a href="uk_parlamint-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="uk_parlamint-dep-det-nummod.html">det:nummod</a></tt>.
 
-2490 nodes (3%) are attached to their parents as `det`.
+3183 nodes (3%) are attached to their parents as `det`.
 
-2426 instances of `det` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27028112449799.
+3096 instances of `det` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26672950047125.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2372; 95% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (55; 2% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (29; 1% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (3002; 94% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (81; 3% instances), <tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (50; 2% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="uk_parlamint-pos-DET.html">DET</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-X.html">X</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="uk_parlamint-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="uk_parlamint-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,22 +56,23 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 det	color:blue
-1	Так	так	ADV	ADV	PronType=Dem	3	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	PUNCT	_	1	punct	_	_
-3	Сергій	Сергій	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	_
-4	Ратушняк	Ратушняк	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	6	punct	_	_
-6	фракція	фракція	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nmod	_	_
-7	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
-8	Наша	наш	DET	DET	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
-9	Україна	Україна	PROPN	PROPN	Animacy=Inan|Case=Nom|Gender=Fem|NameType=Geo|Number=Sing	6	appos	_	SpaceAfter=No
-10	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 det	color:blue
+1	Це	це	PRON	PRON	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	головні	головний	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	дії	дія	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+4	уряду	уряд	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	що	що	SCONJ	SCONJ	_	7	mark	_	_
+7	реалізуються	реалізуватися	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
+8	у	у	ADP	ADP	Case=Loc	9	case	_	_
+9	масштабах	масштаб	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	_
+10	усієї	увесь	DET	DET	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	11	det	_	_
+11	України	Україна	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

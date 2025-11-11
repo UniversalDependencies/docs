@@ -34,7 +34,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 10	färre	få	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp|Number=Plur	11	amod	11:amod	_
 11	kilometrar	kilometer	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	12	nmod	12:nmod	_
 12	tunnelbana	tunnelbana	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	obj	9:obj	_
-13	än	än	ADP	KN	_	14	case	14:case	_
+13	än	än	SCONJ	KN	_	14	case	14:case	_
 14	Madrid	Madrid	PROPN	PM|NOM	Case=Nom	10	obl	10:obl:än	SpaceAfter=No
 15	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 

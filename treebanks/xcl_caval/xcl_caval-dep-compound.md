@@ -23,14 +23,14 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 compound	color:blue
-1	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-2	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	Translit=ein|LTranslit=em|Gloss=be
+1	եւ	եւ	CCONJ	_	_	4	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+2	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Translit=ein|LTranslit=em|Gloss=be
 3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	Translit=or|LTranslit=or|Gloss=who
-4	կերան	ուտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	csubj	_	SpaceAfter=No|Translit=keran|LTranslit=owtel|Gloss=eat
+4	կերան	ուտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=keran|LTranslit=owtel|Gloss=eat
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
 6	՝	՝	PUNCT	_	_	4	punct	_	Translit=;|LTranslit=;
-7	իբրեւ	իբրեւ	ADP	_	_	8	case	_	Translit=ibrew|LTranslit=ibrew|Gloss=like
-8	արք	այր	NOUN	_	Case=Nom|Number=Plur	0	root	_	Translit=arkʻ|LTranslit=ayr|LId=այր-1|Gloss=man
+7	իբրեւ	իբրեւ	SCONJ	_	_	8	mark	_	Translit=ibrew|LTranslit=ibrew|Gloss=like
+8	արք	այր	NOUN	_	Case=Nom|Number=Plur	4	advcl	_	Translit=arkʻ|LTranslit=ayr|LId=այր-1|Gloss=man
 9	հինգ	հինգ	NUM	_	Case=Nom|Number=Sing|NumType=Card	11	compound	_	SpaceAfter=No|Translit=hing|LTranslit=hing|Gloss=five
 10	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 11	հազար	հազար	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	SpaceAfter=No|Translit=hazar|LTranslit=hazar|Gloss=thousand
@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 14	fgColor:white
 # visual-style 14 15 compound	color:blue
 1	Այր	այր	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	Translit=Ayr|LTranslit=ayr|LId=այր-1|Gloss=man
-2	մի	մի	DET	_	Case=Nom|Definite=Spec|Number=Sing	1	det	_	Translit=mi|LTranslit=mi|Gloss=certain
+2	մի	մի	DET	_	Case=Nom|Definite=Spec|Number=Sing|PronType=Art	1	det	_	Translit=mi|LTranslit=mi|Gloss=certain
 3	տնկեաց	տնկել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=tnkeacʻ|LTranslit=tnkel|Gloss=plant
 4	այգի	այգի	NOUN	_	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No|Translit=aygi|LTranslit=aygi|Gloss=vineyard
 5	.	.	PUNCT	_	_	7	punct	_	Translit=:|LTranslit=:

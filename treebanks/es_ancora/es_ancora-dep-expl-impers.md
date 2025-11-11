@@ -114,7 +114,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 7 expl:impers	color:blue
-1	Todas	todo	DET	di0fp0	Gender=Fem|Number=Plur|PronType=Tot	2	det	2:det	Entity=(CESSCASTP1999070126_ac20--3-gstype:gen
+1	Todas	todo	DET	di0fp0	Gender=Fem|Number=Plur|PronType=Tot	3	det	3:det	Entity=(CESSCASTP1999070126_ac20--3-gstype:gen
 2	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	3:det	_
 3	guerras	guerra	NOUN	ncfp000	Gender=Fem|Number=Plur	5	nsubj	5:nsubj	ArgTem=arg1:tem|Entity=CESSCASTP1999070126_ac20)
 4	son	ser	AUX	vsip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_

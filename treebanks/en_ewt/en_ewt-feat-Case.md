@@ -22,9 +22,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (3271; 17% of non-empty `Case`): <em>me, it, you, them, him, us, her, yourself, myself, itself</em>
+* `Acc` (3461; 18% of non-empty `Case`): <em>it, me, you, them, him, us, her, yourself, myself, itself</em>
 * `Gen` (3689; 20% of non-empty `Case`): <em>my, your, their, his, our, its, her, you, it's, there</em>
-* `Nom` (11794; 63% of non-empty `Case`): <em>i, you, it, they, we, he, she, u, the, There</em>
+* `Nom` (11604; 62% of non-empty `Case`): <em>i, you, it, they, we, he, she, u, the, There</em>
 * `EMPTY` (4312): <em>that, this, what, there, who, which, anyone, something, anything, nothing</em>
 
 <table>

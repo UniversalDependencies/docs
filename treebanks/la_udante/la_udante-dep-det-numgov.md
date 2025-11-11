@@ -36,7 +36,7 @@ The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a
 12	in	in	ADP	e	_	14	case	_	_
 13	hac	hic	DET	dpfsb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	14	det	_	_
 14	donatione	donatio	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	25	obl	_	_
-15	plus	multus	DET	r+	Case=Nom|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing|NumType=Card|PronType=Ind	20	det:numgov	_	_
+15	plus	multus	DET	r+	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing|NumType=Card|PronType=Ind	20	det:numgov	_	_
 16	dono	donum	NOUN	sns2d	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Sing	23	obl:arg	_	_
 17	quam	quam	SCONJ	c	PronType=Rel	18	mark	_	_
 18	domino	dominus	NOUN	sms2d	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing	23	advcl:cmp	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (2%) are attached to their parents as `cop`.
+20 nodes (1%) are attached to their parents as `cop`.
 
-16 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4375.
+20 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4.
 
-The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (9; 56% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (5; 31% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (11; 55% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (6; 30% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -66,60 +66,75 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cop	color:blue
-1	Planita	plani	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
-2	kiel	kiel	ADP	_	_	4	case	_	_
-3	universala	universala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
-4	komunikilo	komunikilo	NOUN	_	Case=Nom|Number=Plur	1	obl	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	1	punct	_	_
-6	Esperanto	Esperanto	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
-7	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	unu	unu	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
-9	el	el	ADP	_	_	13	case	_	_
-10	la	la	DET	_	Definite=Def|PronType=Art	13	det	_	_
-11	grandaj	granda	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
-12	funkciantaj	funkci	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	amod	_	_
-13	projektoj	projekto	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	_
-14	de	de	ADP	_	_	17	case	_	_
-15	la	la	DET	_	Definite=Def|PronType=Art	17	det	_	_
-16	homa	homa	ADJ	_	Case=Nom|Number=Sing	17	amod	_	_
-17	emancipiĝo	emancipiĝo	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
-18	-	-	PUNCT	_	_	19	punct	_	_
-19	projekto	projekto	NOUN	_	Case=Nom|Number=Sing	13	appos	_	_
-20	por	por	ADP	_	_	21	mark	_	_
-21	ebligi	ebligi	VERB	_	VerbForm=Inf	19	acl	_	_
-22	al	al	ADP	_	_	24	case	_	_
-23	ĉiu	ĉiu	DET	_	Case=Nom|Number=Sing|PronType=Tot	24	det	_	_
-24	homo	homo	NOUN	_	Case=Nom|Number=Sing	21	obl	_	_
-25	partopreni	partopreni	VERB	_	VerbForm=Inf	21	xcomp	_	_
-26	kiel	kiel	ADP	_	_	27	case	_	_
-27	individuo	individuo	NOUN	_	Case=Nom|Number=Sing	25	obl	_	_
-28	en	en	ADP	_	_	31	case	_	_
-29	la	la	DET	_	Definite=Def|PronType=Art	31	det	_	_
-30	homa	homa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	31	amod	_	_
-31	komunumo	komunumo	NOUN	_	Case=Nom|Number=Sing	25	obl	_	SpaceAfter=No
-32	,	,	PUNCT	_	_	35	punct	_	_
-33	kun	kun	ADP	_	_	35	case	_	_
-34	firmaj	firma	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	_
-35	radikoj	radiko	NOUN	_	Case=Nom|Number=Plur	25	obl	_	_
-36	ĉe	ĉe	ADP	_	_	42	case	_	_
-37	sia	sia	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	42	det	_	_
-38	loka	loka	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	42	amod	_	_
-39	kultura	kultura	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	42	amod	_	_
-40	kaj	kaj	CCONJ	_	_	41	cc	_	_
-41	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	39	conj	_	_
-42	identeco	identeco	NOUN	_	Case=Nom|Number=Sing	35	nmod	_	SpaceAfter=No
-43	,	,	PUNCT	_	_	46	punct	_	_
-44	sed	sed	SCONJ	_	_	46	mark	_	_
-45	ne	ne	ADV	_	_	46	advmod	_	_
-46	limigite	limigi	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	25	advcl	_	_
-47	de	de	ADP	_	_	48	case	_	_
-48	ili	ili	PRON	_	Case=Nom|Number=Plur|PronType=Prs	46	obl	_	SpaceAfter=No
-49	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 16 cop	color:blue
+1	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	konscias	konscii	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	17	punct	_	_
+4	ke	ke	SCONJ	_	_	17	mark	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	tiaj	tia	ADJ	_	Case=Nom|Number=Plur	7	amod	_	_
+7	lokoj	loko	NOUN	_	Case=Nom|Number=Plur	17	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	kie	kie	ADV	_	_	10	mark	_	_
+10	batalas	batali	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+11	inter	inter	ADP	_	_	12	case	_	_
+12	si	si	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	10	obl	_	_
+13	diversaj	diversa	ADJ	_	Case=Nom|Number=Plur	14	amod	_	_
+14	gentoj	gento	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	_
+17	dezirinde	dezirinde	ADV	_	_	2	ccomp	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	25	punct	_	_
+19	ke	ke	SCONJ	_	_	25	mark	_	_
+20	en	en	ADP	_	_	23	case	_	_
+21	la	la	DET	_	Definite=Def	23	det	_	_
+22	publikaj	publika	ADJ	_	Case=Nom|Number=Plur	23	amod	_	_
+23	institucioj	institucio	NOUN	_	Case=Nom|Number=Plur	25	obl	_	_
+24	estu	esti	AUX	_	Mood=Imp|VerbForm=Fin	25	aux	_	_
+25	uzata	uzi	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	17	csubj	_	_
+26	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	25	nsubj	_	_
+27	neŭtrale	neŭtrale	ADV	_	_	28	advmod	_	_
+28	homa	homa	ADJ	_	_	26	amod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	38	punct	_	_
+30	aŭ	aŭ	CCONJ	_	_	38	cc	_	_
+31	ke	ke	SCONJ	_	_	38	mark	_	_
+32	almenaŭ	almenaŭ	ADV	_	_	38	advmod	_	_
+33	krom	krom	ADP	_	_	36	case	_	_
+34	la	la	DET	_	Definite=Def	36	det	_	_
+35	gentlingvaj	gentlingva	ADJ	_	Case=Nom|Number=Plur	36	amod	_	_
+36	kulturejoj	kulturejo	NOUN	_	Case=Nom|Number=Plur	38	obl	_	_
+37	tie	tie	ADV	_	_	38	advmod	_	_
+38	ekzistu	esti	AUX	_	Mood=Imp|VerbForm=Fin	25	conj	_	_
+39	ankaŭ	ankaŭ	ADV	_	_	38	advmod	_	_
+40	specialaj	speciala	ADJ	_	Case=Nom|Number=Plur	41	amod	_	_
+41	lernejoj	lernejo	NOUN	_	Case=Nom|Number=Plur	38	nsubj	_	_
+42	kaj	kaj	CCONJ	_	_	44	cc	_	_
+43	kulturaj	kultura	ADJ	_	Case=Nom|Number=Plur	44	amod	_	_
+44	institucioj	institucio	NOUN	_	Case=Nom|Number=Plur	41	conj	_	_
+45	kun	kun	ADP	_	_	46	case	_	_
+46	lingvo	lingvo	NOUN	_	Case=Nom|Number=Sing	41	nmod	_	_
+47	neŭtrale-homa	neŭtrale-homa	ADJ	_	_	46	amod	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	53	punct	_	_
+49	por	por	ADP	_	_	53	mark	_	_
+50	ke	ke	SCONJ	_	_	53	mark	_	_
+51	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	52	det	_	_
+52	dezirantoj	deziranto	NOUN	_	Case=Nom|Number=Plur	53	nsubj	_	_
+53	povu	povi	VERB	_	Mood=Imp|VerbForm=Fin	38	advcl	_	_
+54	ĉerpi	ĉerpi	VERB	_	VerbForm=Inf	53	xcomp	_	_
+55	kulturon	kulturo	NOUN	_	Case=Acc|Number=Sing	54	obj	_	_
+56	kaj	kaj	CCONJ	_	_	57	cc	_	_
+57	eduki	eduki	VERB	_	VerbForm=Inf	54	conj	_	_
+58	siajn	sia	DET	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	59	nmod:poss	_	_
+59	infanojn	infano	NOUN	_	Case=Acc|Number=Plur	57	obj	_	_
+60	en	en	ADP	_	_	62	case	_	_
+61	senŝovinisma	senŝovinisma	ADJ	_	_	62	amod	_	_
+62	spirito	spirito	NOUN	_	Case=Nom|Number=Sing	57	obl	_	_
+63	neŭtrale-homa	neŭtrale-homa	ADJ	_	_	62	amod	_	SpaceAfter=No
+64	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="hy_bsut-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-712 nodes (2%) are attached to their parents as `acl`.
+789 nodes (2%) are attached to their parents as `acl`.
 
-528 instances of `acl` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.03792134831461.
+604 instances of `acl` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.86311787072243.
 
-The following 18 pairs of parts of speech are connected with `acl`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (588; 83% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (34; 5% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (28; 4% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (12; 2% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `acl`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (666; 84% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (33; 4% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (27; 3% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (22; 3% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (13; 2% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,21 +35,21 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 acl	color:blue
-1	Այն	այն	PRON	_	Deixis=Remt|PronType=Dem	11	nsubj	_	Translit=Ayn|LTranslit=ayn|SpaceAfter=No
-2	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
-3	որ	որ	SCONJ	_	_	6	mark	_	Translit=or|LTranslit=or
-4	նախկին	նախկին	ADJ	_	_	5	amod	_	Translit=naxkin|LTranslit=naxkin
-5	սեփականատերը	սեփականատեր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Translit=sep’akanaterë|LTranslit=sep’akanater
-6	թաքնվում	թաքնվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	1	acl	_	Translit=t’ak’nvowm|LTranslit=t’ak’nvel
-7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 acl	color:blue
+1	Ոչ	ոչ	PART	_	ExtPos=CCONJ|Polarity=Neg	3	cc	_	Translit=Oč|LTranslit=oč
+2	թե	թե	PART	_	_	1	fixed	_	Translit=t’e|LTranslit=t’e
+3	նրանց	նրանք	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	0	root	_	Translit=nranc’|LTranslit=nrank’|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+5	որ	որ	SCONJ	_	_	6	mark	_	Translit=or|LTranslit=or
+6	ձևացնում	ձևացնել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	3	acl	_	Translit=jewac’nowm|LTranslit=jewac’nel
+7	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=en|LTranslit=em|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
-9	հարցեր	հարց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	11	obj	_	Translit=harc’er|LTranslit=harc’
-10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=ē|LTranslit=em
-11	առաջացնում	առաջացնել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=aṙaǰac’nowm|LTranslit=aṙaǰac’nel|SpaceAfter=No
-12	:	:	PUNCT	_	Foreign=Yes	11	punct	_	Translit=.|LTranslit=.
+9	զարմացնելու	զարմացնել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	10	nmod:poss	_	Translit=zarmac’nelow|LTranslit=zarmac’nel
+10	մոլուցքով	մոլուցք	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Coll	11	obl	_	Translit=molowc’k’ov|LTranslit=molowc’k’
+11	տառապում	տառապել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	6	conj	_	Translit=taṙapowm|LTranslit=taṙapel|SpaceAfter=No
+12	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -43,7 +43,7 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 acl	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Discourse=ROOT:20:0;causal-cause:20->22:0:2:lex-altlex-180-183|Entity=(19-abstract-new-snnnn-cf5-11-disc(13-person-giv:inact-sssnn-cf3-2-coref
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Discourse=ROOT:20:0;causal-cause:20->22:0:2:lex-altlex-180-183-gold|Entity=(19-abstract-new-snnnn-cf5-11-disc(13-person-giv:inact-sssnn-cf3-2-coref
 2	angels	angel	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj|12:nsubj:xsubj	Entity=13)|MSeg=angel-s|SpaceAfter=No
 3	,	,	PUNCT	,	_	7	punct	7:punct	_
 4	not	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	Negation=Yes

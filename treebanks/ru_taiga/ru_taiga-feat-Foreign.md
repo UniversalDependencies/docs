@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-4241 tokens (0%) have a non-empty value of `Foreign`.
-2649 types (2%) occur at least once with a non-empty value of `Foreign`.
-2609 lemmas (5%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-X.html">X</a></tt> (3930; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (273; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+4240 tokens (0%) have a non-empty value of `Foreign`.
+2648 types (2%) occur at least once with a non-empty value of `Foreign`.
+2608 lemmas (5%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-X.html">X</a></tt> (3929; 0% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt> (273; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `X`
 
-3930 <tt><a href="ru_taiga-pos-X.html">X</a></tt> tokens (67% of all `X` tokens) have a non-empty value of `Foreign`.
+3929 <tt><a href="ru_taiga-pos-X.html">X</a></tt> tokens (67% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (3930; 100% of non-empty `Foreign`): <em>mademoiselle, maman, m-lle, RT, mesdames, a, b, picture, i, la</em>
+* `Yes` (3929; 100% of non-empty `Foreign`): <em>mademoiselle, maman, m-lle, RT, mesdames, a, b, picture, i, la</em>
 * `EMPTY` (1893): <em>то, а, о, у, с, з, и, бы, л, http://xxxxxx</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (2578) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (2577) occur only with one value of `Foreign`.
 
 ### `PART`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>мах</em>
-* `EMPTY` (84017): <em>так, как, уже, очень, еще, где, например, там, теперь, здесь</em>
+* `EMPTY` (84004): <em>так, как, уже, очень, еще, где, например, там, теперь, здесь</em>
 
 ### `INTJ`
 
@@ -104,19 +104,19 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>МАНДРУЕ</em>
-* `EMPTY` (211631): <em>есть, может, можно, сказал, надо, нет, сказала, значит, было, сказать</em>
+* `EMPTY` (211645): <em>есть, может, можно, сказал, надо, нет, сказала, значит, было, сказать</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (1225; 100%),
+<tt>X --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (1228; 100%),
 <tt>X --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> X</tt> (327; 92%),
 <tt>X --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> X</tt> (86; 92%),
 <tt>X --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> X</tt> (54; 87%),
 <tt>X --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> X</tt> (17; 85%),
 <tt>X --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> X</tt> (14; 88%),
 <tt>X --[<tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>]--> X</tt> (6; 100%),
-<tt>X --[<tt><a href="ru_taiga-dep-flat.html">flat</a></tt>]--> X</tt> (6; 100%),
 <tt>NOUN --[<tt><a href="ru_taiga-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (3; 100%),
-<tt>PART --[<tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>]--> PART</tt> (3; 100%).
+<tt>PART --[<tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>]--> PART</tt> (3; 100%),
+<tt>X --[<tt><a href="ru_taiga-dep-compound.html">compound</a></tt>]--> X</tt> (3; 100%).
 

@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 det	color:blue
-1	Ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	cop	_	_
+1	Ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
 2	pa	pa	ADP	_	_	3	case	_	_
 3	dyshim	dyshim	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	_
 4	dhe	dhe	ADV	_	_	5	advmod	_	_
@@ -65,7 +65,7 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 1	Mendja	mendje	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	end_char=594|start_char=588
 2	e	e	DET	_	Gender=Fem|Number=Sing	3	det	_	end_char=596|start_char=595
 3	kujt	kujt	PRON	_	Case=Gen|Number=Sing|PronType=Int	1	nmod	_	end_char=601|start_char=597
-4	flet	fles	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	end_char=606|start_char=602
+4	flet	fles	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	end_char=606|start_char=602
 5	me	me	ADP	_	_	6	case	_	end_char=609|start_char=607
 6	gojën	gojë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	4	obl	_	end_char=615|start_char=610
 7	e	e	DET	_	Gender=Fem|Number=Sing	8	det	_	end_char=617|start_char=616

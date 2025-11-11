@@ -22,18 +22,18 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 cop	color:blue
-1	Karya	_	NOUN	_	Number=Sing	7	nsubj	_	_
-2	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
-3	kang	_	PRON	_	Polite=Infm|PronType=Rel	5	nsubj	_	_
-4	paling	_	ADV	_	_	5	advmod	_	_
-5	wigati	_	ADJ	_	Polite=Infm	1	acl:relcl	_	_
-6	yaiku	_	AUX	_	Polite=Infm	7	cop	_	_
-7	Trilogi	_	PROPN	_	_	0	root	_	_
-8	Cinta	_	PROPN	_	_	7	flat:name	_	SpaceAfter=No
-9	(	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	爱情的三部曲	_	X	_	Foreign=Yes	7	appos	_	SpaceAfter=No
-11	)	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	7	punct	_	_
+1	Karya	karya	NOUN	_	Number=Sing	7	nsubj	_	_
+2	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	1	nmod:poss	_	_
+3	kang	kang	PRON	_	Polite=Infm|PronType=Rel	5	nsubj	_	_
+4	paling	paling	ADV	_	_	5	advmod	_	_
+5	wigati	wigati	ADJ	_	Polite=Infm	1	acl:relcl	_	_
+6	yaiku	yaiku	AUX	_	Polite=Infm	7	cop	_	_
+7	Trilogi	trilogi	PROPN	_	_	0	root	_	_
+8	Cinta	cinta	PROPN	_	_	7	flat:name	_	SpaceAfter=No
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	爱情的三部曲	爱情的三部曲	X	_	Foreign=Yes	7	appos	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -44,16 +44,16 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
-1	Star	_	PROPN	_	_	4	nsubj	_	_
-2	Movies	_	PROPN	_	_	1	flat:name	_	_
-3	yaiku	_	AUX	_	Polite=Infm	4	cop	_	_
-4	saluran	_	NOUN	_	Number=Sing	0	root	_	_
-5	mbayar	_	VERB	_	Mood=Ind|Voice=Act	4	acl	_	_
-6	kang	_	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
-7	pertama	_	X	_	Foreign=Yes	4	acl:relcl	_	_
-8	ing	_	ADP	_	Polite=Infm	9	case	_	_
-9	India	_	PROPN	_	_	7	obl	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	4	punct	_	_
+1	Star	star	PROPN	_	_	4	nsubj	_	_
+2	Movies	movies	PROPN	_	_	1	flat:name	_	_
+3	yaiku	yaiku	AUX	_	Polite=Infm	4	cop	_	_
+4	saluran	salur	NOUN	_	Number=Sing	0	root	_	_
+5	mbayar	bayar	VERB	_	Voice=Act	4	acl	_	_
+6	kang	kang	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
+7	pertama	pertama	X	_	Foreign=Yes	4	acl:relcl	_	_
+8	ing	ing	ADP	_	Polite=Infm	9	case	_	_
+9	India	india	PROPN	_	_	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -64,19 +64,19 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 8 cop	color:blue
-1	Nanging	_	ADV	_	Polite=Infm	12	advmod	_	_
-2	salah	_	ADJ	_	_	3	advmod	_	_
-3	siji	_	NUM	_	NumType=Card|Polite=Infm	5	nummod	_	_
-4	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	3	det	_	_
-5	crita	_	NOUN	_	Number=Sing	12	nsubj:outer	_	_
-6	kang	_	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
-7	kondhang	_	ADJ	_	_	5	acl:relcl	_	_
-8	yaiku	_	AUX	_	Polite=Infm	12	cop	_	_
-9	Ki	_	PROPN	_	_	12	nsubj	_	_
-10	Ageng	_	PROPN	_	_	9	flat:name	_	_
-11	Kutu	_	PROPN	_	_	9	flat:name	_	_
-12	mbalela	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	12	punct	_	_
+1	Nanging	nanging	ADV	_	Polite=Infm	12	advmod	_	_
+2	salah	salah	ADJ	_	_	3	advmod	_	_
+3	siji	siji	NUM	_	NumType=Card|Polite=Infm	5	nummod	_	_
+4	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	3	det	_	_
+5	crita	crita	NOUN	_	Number=Sing	12	nsubj:outer	_	_
+6	kang	kang	PRON	_	Polite=Infm|PronType=Rel	7	nsubj	_	_
+7	kondhang	kondhang	ADJ	_	_	5	acl:relcl	_	_
+8	yaiku	yaiku	AUX	_	Polite=Infm	12	cop	_	_
+9	Ki	ki	PROPN	_	_	12	nsubj	_	_
+10	Ageng	ageng	PROPN	_	_	9	flat:name	_	_
+11	Kutu	kutu	PROPN	_	_	9	flat:name	_	_
+12	mbalela	mbalela	VERB	_	Voice=Act	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

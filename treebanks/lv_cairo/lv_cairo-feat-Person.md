@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-46 tokens (27%) have a non-empty value of `Person`.
-36 types (31%) occur at least once with a non-empty value of `Person`.
-27 lemmas (26%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (23; 14% instances), <tt><a href="lv_cairo-pos-PRON.html">PRON</a></tt> (16; 10% instances), <tt><a href="lv_cairo-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> (3; 2% instances).
+47 tokens (28%) have a non-empty value of `Person`.
+37 types (32%) occur at least once with a non-empty value of `Person`.
+28 lemmas (27%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="lv_cairo-pos-VERB.html">VERB</a></tt> (23; 14% instances), <tt><a href="lv_cairo-pos-PRON.html">PRON</a></tt> (16; 10% instances), <tt><a href="lv_cairo-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> (4; 2% instances).
 
 ### `VERB`
 
@@ -61,14 +61,15 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `DET`
 
-3 <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> tokens (33% of all `DET` tokens) have a non-empty value of `Person`.
+4 <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> tokens (44% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="lv_cairo-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3; 100%), <tt><a href="lv_cairo-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2; 67%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="lv_cairo-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3; 75%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `3` (3; 100% of non-empty `Person`): <em>to, Šī</em>
-* `EMPTY` (6): <em>Mans, kurš, kāda, savai, savam, tavējais</em>
+* `2` (1; 25% of non-empty `Person`): <em>tavējais</em>
+* `3` (3; 75% of non-empty `Person`): <em>to, Šī</em>
+* `EMPTY` (5): <em>Mans, kurš, kāda, savai, savam</em>
 
 ## Relations with Agreement in `Person`
 

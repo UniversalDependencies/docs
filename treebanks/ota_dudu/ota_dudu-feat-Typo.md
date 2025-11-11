@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ota_dudu-pos-NOUN.h
 
 4 <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (4; 100%), <tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (4; 100%), <tt><a href="ota_dudu-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `Typo`:
 

@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 10072 tokens (10%) have a non-empty value of `Degree`.
 2961 types (20%) occur at least once with a non-empty value of `Degree`.
-1922 lemmas (18%) occur at least once with a non-empty value of `Degree`.
+1924 lemmas (18%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (8330; 9% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1742; 2% instances).
 
 ### `ADJ`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (604; 7% of non-empty `Degree`): <em>större, flera, högre, bättre, mindre, fler, äldre, längre, lättare, lägre</em>
 * `Pos` (7467; 90% of non-empty `Degree`): <em>olika, andra, nya, många, stora, stor, samma, vissa, hela, annan</em>
 * `Sup` (259; 3% of non-empty `Degree`): <em>flesta, bästa, största, närmaste, högsta, viktigaste, senaste, vanligaste, störst, främsta</em>
-* `EMPTY` (218): <em>första, s k, andra, s.k., tredje, fjärde, femte, European, III, S:t</em>
+* `EMPTY` (223): <em>första, s k, andra, s.k., tredje, fjärde, femte, European, III, S:t</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>stora</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (1712) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (1714) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (369; 21% of non-empty `Degree`): <em>mer, tidigare, mindre, mera, längre, senare, vidare, ytterligare, närmare, bättre</em>
 * `Pos` (1111; 64% of non-empty `Degree`): <em>mycket, helt, ofta, länge, långt, snabbt, relativt, direkt, bra, starkt</em>
 * `Sup` (262; 15% of non-empty `Degree`): <em>mest, minst, främst, högst, helst, bäst, oftast, längst, knappast, ytterst</em>
-* `EMPTY` (5232): <em>också, så, hur, där, här, nu, bara, ut, även, då</em>
+* `EMPTY` (5186): <em>också, så, hur, där, här, nu, bara, ut, även, då</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -61,14 +61,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (350; 94%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (350; 93%),
 <tt>ADV --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADV</tt> (36; 78%),
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (23; 77%),
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (20; 83%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (22; 85%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (21; 75%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (12; 80%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-obl.html">obl</a></tt>]--> ADJ</tt> (11; 69%),
-<tt>ADV --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (7; 54%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="sv_talbanken-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="sv_talbanken-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (1; 100%).
 

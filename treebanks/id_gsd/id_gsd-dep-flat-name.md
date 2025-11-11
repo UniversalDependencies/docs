@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="id_gsd-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="id_gsd-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-8080 nodes (7%) are attached to their parents as `flat:name`.
+8087 nodes (7%) are attached to their parents as `flat:name`.
 
-8080 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.19839108910891.
+8087 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19883764065785.
 
-The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (8072; 100% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (8077; 100% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,34 +36,25 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 flat:name	color:blue
-1	Panja	panja	PROPN	X--	_	5	nsubj:pass	_	Morf=^panja<x>_X--$
-2	RUU	ruu	PROPN	NSD	Abbr=Yes	1	flat:name	_	Morf=^ruu<n>_NSD$
-3	tentang	tentang	ADP	VSA	_	4	case	_	Morf=^tentang<v>_VSA$
-4	Pornografi	pornografi	NOUN	X--	_	1	nmod	_	Morf=^pornografi<x>_X--$
-5	dibentuk	bentuk	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+bentuk<n>_VSP$
-6	pada	pada	ADP	R--	_	7	case	_	Morf=^pada<r>_R--$
-7	akhir	akhir	NOUN	NSD	Number=Sing	5	obl	_	Morf=^akhir<n>_NSD$
-8	Masa	masa	NOUN	NSD	Number=Sing	7	compound	_	Morf=^masa<n>_NSD$
-9	Persidangan	sidang	NOUN	NSD	Number=Sing	8	compound	_	Morf=^per+sidang<n>+an_NSD$
-10	IV	iv	PROPN	F--	_	9	flat:name	_	Morf=^iv<f>_F--$
-11	Tahun	tahun	NOUN	NSD	Number=Sing	8	compound	_	Morf=^tahun<n>_NSD$
-12	Persidangan	persidangan	PROPN	NSD	_	11	nmod	_	Morf=^per+sidang<n>+an_NSD$
-13	2007	2007	NUM	CC-	NumType=Card	12	nummod	_	Morf=^2007<c>_CC-$
-14	-	-	PUNCT	Z--	_	15	punct	_	Morf=^-<z>_Z--$
-15	2008	2008	NUM	CC-	NumType=Card	12	nummod	_	SpaceAfter=No|Morf=^2008<c>_CC-$
-16	,	,	PUNCT	Z--	_	17	punct	_	Morf=^,<z>_Z--$
-17	tepatnya	tepat	ADV	ASP+PS3	_	5	advmod	_	Morf=^tepat<a>_ASP+dia<p>_PS3$
-18	pada	pada	ADP	R--	_	19	case	_	Morf=^pada<r>_R--$
-19	tanggal	tanggal	NOUN	VSA	_	5	obl:tmod	_	Morf=^tanggal<v>_VSA$
-20	29	29	NUM	CC-	NumType=Card	19	nummod	_	Morf=^29<c>_CC-$
-21	Mei	mei	PROPN	NSD	_	20	flat	_	Morf=^mei<n>_NSD$
-22	2008	2008	NUM	CC-	NumType=Card	20	flat	_	SpaceAfter=No|Morf=^2008<c>_CC-$
-23	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:name	color:blue
+1	Zaki	zaki	NOUN	X--	_	5	nsubj:pass	_	Morf=^zaki<x>_X--$
+2	al	al	PROPN	F--	_	1	flat:name	_	Morf=^al<f>_F--$
+3	-	-	PUNCT	Z--	_	2	punct	_	Morf=^-<z>_Z--$
+4	Arsuzi	arsuzi	PROPN	X--	_	1	flat:name	_	Morf=^arsuzi<x>_X--$
+5	dianggap	anggap	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+anggap<v>_VSP$
+6	sebagai	sebagai	ADP	R--	_	8	case	_	Morf=^sebagai<r>_R--$
+7	"	"	PUNCT	Z--	_	8	punct	_	SpaceAfter=No|Morf=^"<z>_Z--$
+8	Socrates	socrates	PROPN	X--	_	5	obl	_	SpaceAfter=No|Morf=^socrates<x>_X--$
+9	"	"	PUNCT	Z--	_	8	punct	_	Morf=^"<z>_Z--$
+10	Partai	partai	PROPN	NSD	_	8	flat:name	_	Morf=^partai<n>_NSD$
+11	Ba	ba	PROPN	F--	_	10	flat:name	_	Morf=^ba<f>_F--$
+12	'	_	PROPN	_	_	11	flat:name	_	SpaceAfter=No
+13	ath	ath	PROPN	X--	_	11	flat:name	_	SpaceAfter=No|Morf=^ath<x>_X--$
+14	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 
@@ -84,7 +75,7 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 8	48	48	NUM	CC-	NumType=Card	6	nummod	_	Morf=^48<c>_CC-$
 9	Kw	kw	PROPN	F--	_	8	flat:name	_	SpaceAfter=No|Morf=^kw<f>_F--$
 10	,	,	PUNCT	Z--	_	11	punct	_	Morf=^,<z>_Z--$
-11	menyusul	susul	VERB	VSA	Mood=Ind|Voice=Act	6	advcl	_	Morf=^meN+susul<v>_VSA$
+11	menyusul	susul	VERB	VSA	Voice=Act	6	advcl	_	Morf=^meN+susul<v>_VSA$
 12	terung	terung	NOUN	X--	_	11	obj	_	Morf=^terung<x>_X--$
 13	24	24	NUM	CC-	NumType=Card	12	nummod	_	Morf=^24<c>_CC-$
 14	Kw	kw	PROPN	F--	_	13	flat	_	Morf=^kw<f>_F--$
@@ -155,7 +146,7 @@ The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a 
 79	pala	pala	NOUN	NSD	Number=Sing	78	compound	_	Morf=^pala<n>_NSD$
 80	yang	yang	PRON	S--	PronType=Rel	82	acl	_	Morf=^yang<s>_S--$
 81	hanya	hanya	ADV	D--	_	82	advmod	_	Morf=^hanya<d>_D--$
-82	mencapai	capai	VERB	VSA	Mood=Ind|Voice=Act	78	acl:relcl	_	Morf=^meN+capai<v>_VSA$
+82	mencapai	capai	VERB	VSA	Voice=Act	78	acl:relcl	_	Morf=^meN+capai<v>_VSA$
 83	satu	satu	NUM	CC-	NumType=Card	84	nummod	_	Morf=^satu<c>_CC-$
 84	ton	ton	NOUN	F--	_	82	nummod	_	SpaceAfter=No|Morf=^ton<f>_F--$
 85	.	.	PUNCT	Z--	_	31	punct	_	Morf=^.<z>_Z--$

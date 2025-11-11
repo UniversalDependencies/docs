@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ka_glc-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ka_glc-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-379 nodes (1%) are attached to their parents as `flat:name`.
+380 nodes (1%) are attached to their parents as `flat:name`.
 
-379 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17414248021108.
+380 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17368421052632.
 
-The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (244; 64% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (102; 27% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (15; 4% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (244; 64% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (103; 27% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (15; 4% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	მექანიკამ	მექანიკა	NOUN	Noun	Animacy=Inan|Case=Erg|Number=Sing	4	nsubj	_	Translit=mekʻanikam
 2	მეცნიერული	მეცნიერული	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	Translit=mecʻnieruli
 3	სახე	სახე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	obj	_	Translit=saxe
-4	მიიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|Voice=Act	0	root	_	Translit=miiġo
+4	მიიღო	იღებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=miiġo
 5	გალილეო	გალილეო	PROPN	Prop	Case=Gen|NameType=Prs|Number=Sing	7	nmod	_	Translit=galileo
 6	გალილეის	გალილეი	PROPN	Prop	Case=Gen|NameType=Sur|Number=Sing	5	flat:name	_	Translit=galileis
 7	შრომებ	შრომა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	obl	_	Translit=šromeb

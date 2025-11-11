@@ -63,7 +63,7 @@ The following 21 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 nsubj:outer	color:blue
-1	And	and	CCONJ	CC	_	7	cc	7:cc	Discourse=elaboration-additional:34->32:1:ref-dem-190-193,196+dm-and-195|PDTB=Explicit:Expansion.Level-of-detail.Arg2-as-detail:and:195:155-194:196-202
+1	And	and	CCONJ	CC	_	7	cc	7:cc	Discourse=elaboration-additional:34->32:1:ref-dem-190-193,196-_+dm-and-195-_|PDTB=Explicit:Expansion.Level-of-detail.Arg2-as-detail:and:195:155-194:196-202
 2	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj:outer	7:nsubj:outer	Entity=(18-abstract-giv:act-nnnnn-cf1*-1-ana)
 3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 4	where	where	ADV	WRB	PronType=Int	7	advmod	7:advmod	_

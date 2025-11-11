@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5034 nodes (11%) are attached to their parents as `case`.
+7964 nodes (12%) are attached to their parents as `case`.
 
-5029 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.68057210965435.
+7959 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.66813159216474.
 
-The following 13 pairs of parts of speech are connected with `case`: <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (3161; 63% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (1068; 21% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (421; 8% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (166; 3% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (82; 2% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (77; 2% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (41; 1% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `case`: <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (5588; 70% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (1161; 15% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (710; 9% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (200; 3% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (95; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (77; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (53; 1% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (48; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_alts-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,22 +56,25 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 case	color:blue
-1	La	là	ADV	_	_	2	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-2	venés	venir	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-3	ouyr	ouïr	VERB	_	VerbForm=Inf	2	xcomp	_	gold_pos=VERB|prpos=Vvn|uppos=VX
-4	ce	ce	PRON	_	PronType=Dem	3	obj	_	gold_pos=PRON|prpos=Pd|uppos=PRO
-5	que	que	PRON	_	PronType=Rel	8	obj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
-6	lesdites	ledit	DET	_	Definite=Ind	7	det	_	gold_pos=DET|prpos=Di|uppos=D
-7	fames	femme	NOUN	_	Number=Plur	8	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
-8	dient	dire	VERB	_	VerbForm=Fin	4	acl:relcl	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-9	de	de	ADP	_	_	10	case	_	gold_pos=ADP|prpos=S|uppos=P
-10	vous	vous	PRON	_	PronType=Prs	8	obl	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
-11	,	,	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 case	color:blue
+1	Pour	pour	ADP	P	_	2	case	_	prpos=S
+2	laquelle	lequel	PRON	WPRO	PronType=Rel	7	obl	_	prpos=Pr
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	plet	plet	NOUN	NCS	Number=Sing	7	nsubj	_	prpos=Nc
+5	ne	ne	ADV	NEG	_	7	advmod	_	prpos=Rp
+6	sera	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	7	aux:pass	_	prpos=Vuc
+7	delayé	délayer	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge|SpaceAfter=No
+8	,	,	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
+9	si	si	SCONJ	CONJS	_	13	mark	_	prpos=Cs
+10	le	le	DET	D	Definite=Def|PronType=Art	11	det	_	prpos=Da
+11	demandeur	demandeur	NOUN	NCS	Number=Sing	13	nsubj	_	prpos=Nc
+12	ne	ne	ADV	NEG	_	13	advmod	_	prpos=Rp
+13	veut	vouloir	VERB	MDJ	Number=Sing|Person=3|VerbForm=Fin	7	advcl	_	prpos=Vvc|SpaceAfter=No
+14	.	.	PUNCT	PON	_	7	punct	_	join=left|prpos=Fw
 
 ~~~
 

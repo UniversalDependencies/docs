@@ -9,25 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Card`.
 
-22 tokens (1%) have a non-empty value of `NumType`.
-13 types (1%) occur at least once with a non-empty value of `NumType`.
-10 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (22; 1% instances).
+53 tokens (1%) have a non-empty value of `NumType`.
+26 types (1%) occur at least once with a non-empty value of `NumType`.
+22 lemmas (2%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (53; 1% instances).
 
 ### `NUM`
 
-22 <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+53 <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> tokens (96% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="el_lesbian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (17; 77%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="el_lesbian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (30; 57%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (22; 100% of non-empty `NumType`): <em>100, ένα, δυο, μια, 50, 2, 200, 3, δέκα, μιαν</em>
+* `Card` (53; 100% of non-empty `NumType`): <em>δυο, ένα, μια, 100, 1912, 9, τρία, 12, 120, 13</em>
+* `EMPTY` (2): <em>1954, 1970</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (10) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (22) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="el_lesbian-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="el_lesbian-dep-conj.html">conj</a></tt>]--> NUM</tt> (4; 100%),
+<tt>NUM --[<tt><a href="el_lesbian-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="el_lesbian-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).
 

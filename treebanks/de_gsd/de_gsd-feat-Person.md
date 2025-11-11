@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-32400 tokens (11%) have a non-empty value of `Person`.
-2929 types (6%) occur at least once with a non-empty value of `Person`.
+32404 tokens (11%) have a non-empty value of `Person`.
+2930 types (6%) occur at least once with a non-empty value of `Person`.
 1467 lemmas (3%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12429; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9877; 3% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (7688; 3% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2406; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12429; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9877; 3% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (7692; 3% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (2406; 1% instances).
 
 ### `VERB`
 
@@ -67,16 +67,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-7688 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
+7692 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7688; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5992; 78%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5094; 66%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5025; 65%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7692; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5996; 78%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5098; 66%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5027; 65%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (1267; 16% of non-empty `Person`): <em>ich, wir, uns, mir, mich, my, 's, We</em>
+* `1` (1271; 17% of non-empty `Person`): <em>ich, wir, uns, mir, mich, my, 's, Mit, We</em>
 * `2` (76; 1% of non-empty `Person`): <em>Sie, du, ihr, euch, Ihnen, You, Dir, dich, Your</em>
-* `3` (6345; 83% of non-empty `Person`): <em>er, sich, es, sie, ihm, ihn, ihnen, ihr, it, 's</em>
-* `EMPTY` (3156): <em>die, der, man, das, was, dem, deren, dessen, denen, nichts</em>
+* `3` (6345; 82% of non-empty `Person`): <em>er, sich, es, sie, ihm, ihn, ihnen, ihr, it, 's</em>
+* `EMPTY` (3152): <em>die, der, man, das, was, dem, deren, dessen, denen, nichts</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
 
@@ -96,9 +96,9 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2789; 58%),
+<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2790; 58%),
 <tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1063; 63%),
-<tt>VERB --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> PRON</tt> (1052; 62%),
+<tt>VERB --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> PRON</tt> (1044; 62%),
 <tt>VERB --[<tt><a href="de_gsd-dep-expl.html">expl</a></tt>]--> PRON</tt> (282; 79%),
 <tt>VERB --[<tt><a href="de_gsd-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (191; 88%),
 <tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (120; 51%),

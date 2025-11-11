@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Past` (1630; 43% of non-empty `Tense`): <em>dixit, vidi, inquit, audivi, fecit, iussit, coepit, dedit, potuit, vidit</em>
 * `Pqp` (214; 6% of non-empty `Tense`): <em>aperuisset, fecerat, dixerat, habuerat, iussisset, viderat, censuerat, ceperat, coeperat, discesserat</em>
 * `Pres` (1678; 44% of non-empty `Tense`): <em>habet, potest, iubet, dicit, fit, inquit, venit, ait, possit, licet</em>
-* `EMPTY` (2001): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
+* `EMPTY` (2003): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>

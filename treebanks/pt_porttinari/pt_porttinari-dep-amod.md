@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6643 nodes (4%) are attached to their parents as `amod`.
+6677 nodes (4%) are attached to their parents as `amod`.
 
-4956 instances of `amod` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17191028149932.
+4990 instances of `amod` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18915680694923.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (6207; 93% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (260; 4% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (143; 2% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
+The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (6251; 94% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (217; 3% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (145; 2% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (31; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,26 +61,21 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 amod	color:blue
-1	Dom	Dom	PROPN	_	_	4	nsubj	4:nsubj|8:nsubj	_
-2	Pedro	Pedro	PROPN	_	_	1	flat:name	1:flat:name	_
-3	1º	1º	ADJ	_	Gender=Masc|NumType=Ord	1	amod	1:amod	_
-4	levantou	levantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
-6	espada	espada	NOUN	_	Gender=Fem|Number=Sing	4	obj	4:obj	_
-7	e	e	CCONJ	_	_	8	cc	8:cc	_
-8	gritou	gritar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	4:conj:e	_
-9	"	"	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
-10	Fora	fora	ADV	_	_	8	ccomp:speech	8:ccomp:speech	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	12:punct	_
-12	Temer	Temer	PROPN	_	_	10	vocative	10:vocative	SpaceAfter=No
-13	!	!	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
-14	"	"	PUNCT	_	_	10	punct	10:punct	SpaceAfter=No
-15	.	.	PUNCT	_	_	4	punct	4:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 amod	color:blue
+1	Os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	2:det	_
+2	EUA	EUA	PROPN	_	_	7	nsubj	7:nsubj	_
+3	e	e	CCONJ	_	_	5	cc	5:cc	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
+5	Europa	Europa	PROPN	_	_	2	conj	2:conj:e|7:nsubj	_
+6	ocidental	ocidental	ADJ	_	Number=Sing	5	amod	5:amod	_
+7	representam	representar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+8	essa	esse	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	9:det	_
+9	legião	legião	NOUN	_	Gender=Fem|Number=Sing	7	obj	7:obj	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	7:punct	_
 
 ~~~
 

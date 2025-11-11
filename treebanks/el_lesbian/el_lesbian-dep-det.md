@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-468 nodes (14%) are attached to their parents as `det`.
+806 nodes (14%) are attached to their parents as `det`.
 
-466 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09615384615385.
+799 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13523573200993.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (345; 74% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (92; 20% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (21; 4% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (627; 78% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (120; 15% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (29; 4% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="el_lesbian-pos-X.html">X</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 det	color:blue
-1	Φτη	έφτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
+1	Φτη	εύτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
 2	θα	θα	AUX	_	Tense=Fut	8	aux	_	_
 3	ν	να	AUX	_	_	2	fixed	_	_
 4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
@@ -44,10 +44,10 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 11	fgColor:white
 # visual-style 11 10 det	color:blue
 1	Φουβάτι	φουβάμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	ccomp	_	_
-2	μι	μι	ADV	_	_	3	mark	_	_
+2	μι	μη	SCONJ	_	Typo=Yes	3	mark	_	CorrectForm=μη
 3	κριγιός	κρυγιώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	1	ccomp	_	CorrectForm=κρυγιώς
 4	γή	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Typo=Yes	5	det	_	CorrectForm=γη|MGloss=euphonic-the|MSeg=γ-η
-5	κόρη	κόρη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+5	κόρη	κόρ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 6	ντ	μ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Voicing=Voiced
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	είπι	λέγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_

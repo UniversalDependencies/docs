@@ -28,7 +28,7 @@ The following 22 pairs of parts of speech are connected with `dislocated`: <tt><
 4	ⲥϩⲓⲙⲓ	ⲥϩⲓⲙⲓ	NOUN	N	_	7	dislocated	_	Entity=person)
 5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
 6	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	ⲉⲣ	ⲓⲣⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲉⲣ	ⲓⲣⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 8	ⲓⲃ	ⲓⲃ	NUM	NUM	NumType=Card	10	nummod	_	Entity=(time
 9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲣⲟⲙⲡⲓ	ⲣⲟⲙⲡⲓ	NOUN	N	_	7	obj	_	Entity=time)
@@ -54,13 +54,13 @@ The following 22 pairs of parts of speech are connected with `dislocated`: <tt><
 3	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	6	mark	_	_
 4	ⲛⲁ	ⲛⲁⲣⲉ	AUX	CPRET	_	6	aux	_	_
 5	ⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
-6	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	2	acl:relcl	_	_
+6	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	Mood=Ind|VerbForm=Fin	2	acl:relcl	_	_
 7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
 8	ⲛⲓ	ⲡⲓ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	det	_	Entity=(object
 9	ⲱⲓⲕ	ⲱⲓⲕ	NOUN	N	_	6	obj	_	Entity=object)
 10	ⲛⲁ	ⲛⲁⲣⲉ	AUX	CPRET	_	12	aux	_	_
 11	ⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
-12	ⲉⲣ	ⲓⲣⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+12	ⲉⲣ	ⲓⲣⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 13	ⲛ	ⲓⲛⲓ	ADP	PREP	_	16	case	_	Orig=ⲉⲛ
 14	ϣⲟ	ϣⲟ	NUM	NUM	NumType=Card	16	nummod	_	Entity=(person)(abstract
 15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
@@ -79,19 +79,19 @@ The following 22 pairs of parts of speech are connected with `dislocated`: <tt><
 1	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	dislocated	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-4	ⲧⲱϫⲓ	ⲧⲱϫⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲧⲱϫⲓ	ⲧⲱϫⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲁⲡⲟⲗⲗⲱ	ⲁⲡⲟⲗⲗⲱ	PROPN	NPROP	Foreign=Yes	8	dislocated	_	Entity=(person-Apollos)|OrigLang=grc
 6	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
 7	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-8	ⲧⲥⲟ	ⲧⲥⲟ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+8	ⲧⲥⲟ	ⲧⲥⲟ	VERB	V	Mood=Ind|VerbForm=Fin	4	parataxis	_	_
 9	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	14	cc	_	OrigLang=grc
 10	ⲫ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(person
 11	ⲛⲟⲩϯ	ⲛⲟⲩϯ	NOUN	N	_	14	dislocated	_	Entity=person)
 12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
 13	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	ⲑⲣ	ⲑⲣⲉ	VERB	ACAUS	_	4	conj	_	_
+14	ⲑⲣ	ⲑⲣⲉ	VERB	ACAUS	Mood=Ind	4	conj	_	_
 15	ⲟⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
-16	ⲁⲓⲁⲓ	ⲁⲓⲁⲓ	VERB	V	VerbForm=Fin	14	xcomp	_	_
+16	ⲁⲓⲁⲓ	ⲁⲓⲁⲓ	VERB	V	Mood=Ind|VerbForm=Fin	14	xcomp	_	_
 17	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

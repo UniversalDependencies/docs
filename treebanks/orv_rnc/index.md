@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitri Sitchinava.
 
 Repository: [UD_Old_East_Slavic-RNC](https://github.com/UniversalDependencies/UD_Old_East_Slavic-RNC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -303,7 +303,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>NUM: два, 2, едино, 3, оба, дву, однем, три, 4, одно</li>
       <li>PRON: что, то, того, том, томъ, тому, чем, сего, семъ, еже</li>
       <li>PROPN: Кон(ь)кова, Павловском, Павловское, Предтечинскомъ, Тихоновского, Кон(ь)кове, Кан(ь)кова, Воронине, Ермолова, Исакове</li>
-      <li>VERB: смерено, взято, принето, написано, дано, велѣно, велено, умолочено, писано, было</li>
+      <li>VERB: смерено, взято, принето, написано, дано, велѣно, велено, умолочено, было, писано</li>
       <li>VERB-Part: смерено, взято, принето, написано, дано, велѣно, велено, умолочено, писано, послано</li>
       <li>VERB-PartRes: было, стало, прибыло, убыло, запустело, потѧгло, потягло, пошло, осталось, пришло</li>
     </ul>
@@ -397,7 +397,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>VERB: смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</li>
       <li>VERB-Fin: бысть, бью, бьет, будет, рече, пожалуй, вели, есть, стоитъ, пожалуи</li>
       <li>VERB-Part: смерено, взято, принето, написано, дано, велѣно, велено, умолочено, писано, послано</li>
-      <li>VERB-PartRes: велел, пожаловал, дал, писал, сказал, велѣлъ, послал, приложил, сказалъ, было</li>
+      <li>VERB-PartRes: велел, пожаловал, дал, писал, сказал, велѣлъ, послал, приложил, было, сказалъ</li>
     </ul>
   </li>
 </ul>
@@ -1134,7 +1134,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
           <li>ADV: 3, вънрѣть</li>
           <li>DET: всему, моек, свой</li>
           <li>NOUN: вочича, здоров, обрин, подать, полѣнолъ, поясни, пятнипу, сосупругою, сухарем, сыи</li>
-          <li>PRON: на, наж, совою, тол, іебѣ</li>
+          <li>PRON: на, наж, нами, совою, тол, іебѣ</li>
           <li>PROPN: Ловчика, Саомоиловичю, Фуникову</li>
           <li>VERB-Fin: приигли</li>
           <li>VERB-PartRes: нопала</li>
@@ -1199,10 +1199,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Nom (10)</li>
       <li>VERB-PartRes--NOUN (1)</li>
       <li>VERB-PartRes--NOUN-Acc (8)</li>
-      <li>VERB-PartRes--NOUN-Gen (106)</li>
+      <li>VERB-PartRes--NOUN-Gen (107)</li>
       <li>VERB-PartRes--NOUN-Gen-ADP(сверхъ) (1)</li>
       <li>VERB-PartRes--NOUN-Ins (3)</li>
-      <li>VERB-PartRes--NOUN-Nom (1112)</li>
+      <li>VERB-PartRes--NOUN-Nom (1111)</li>
       <li>VERB-PartRes--NOUN-Nom-ADP(за) (1)</li>
       <li>VERB-PartRes--NOUN-Nom-ADP(изъ) (2)</li>
       <li>VERB-PartRes--NOUN-Nom-ADP(подъ) (1)</li>
@@ -1228,14 +1228,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (1)</li>
       <li>VERB-Conv--PRON-Acc (35)</li>
       <li>VERB-Conv--PRON-Gen (11)</li>
-      <li>VERB-Fin--NOUN-Acc (858)</li>
+      <li>VERB-Fin--NOUN-Acc (857)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(въ) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(по) (1)</li>
       <li>VERB-Fin--NOUN-Dat (3)</li>
-      <li>VERB-Fin--NOUN-Gen (289)</li>
+      <li>VERB-Fin--NOUN-Gen (287)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(отъ) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(по) (2)</li>
-      <li>VERB-Fin--NOUN-Ins (160)</li>
+      <li>VERB-Fin--NOUN-Ins (159)</li>
       <li>VERB-Fin--NOUN-Nom (6)</li>
       <li>VERB-Fin--PRON-Acc (318)</li>
       <li>VERB-Fin--PRON-Gen (81)</li>
@@ -1244,23 +1244,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-ADP(въ) (1)</li>
-      <li>VERB-Inf--NOUN-Acc (676)</li>
+      <li>VERB-Inf--NOUN-Acc (671)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(по) (3)</li>
-      <li>VERB-Inf--NOUN-Dat (7)</li>
+      <li>VERB-Inf--NOUN-Dat (6)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(по) (3)</li>
-      <li>VERB-Inf--NOUN-Gen (342)</li>
+      <li>VERB-Inf--NOUN-Gen (335)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(изъ) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(на) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(о) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(по) (5)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(съ) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(у) (1)</li>
-      <li>VERB-Inf--NOUN-Ins (41)</li>
+      <li>VERB-Inf--NOUN-Ins (40)</li>
       <li>VERB-Inf--NOUN-Nom (42)</li>
-      <li>VERB-Inf--PRON-Acc (166)</li>
+      <li>VERB-Inf--PRON-Acc (164)</li>
       <li>VERB-Inf--PRON-Acc-ADP(про) (1)</li>
-      <li>VERB-Inf--PRON-Gen (59)</li>
-      <li>VERB-Inf--PRON-Ins (6)</li>
+      <li>VERB-Inf--PRON-Gen (58)</li>
+      <li>VERB-Inf--PRON-Ins (5)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN-Acc (52)</li>
       <li>VERB-Part--NOUN-Acc-ADP(аки) (1)</li>
@@ -1271,21 +1270,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Gen (7)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
       <li>VERB-PartRes--NOUN (6)</li>
-      <li>VERB-PartRes--NOUN-Acc (943)</li>
+      <li>VERB-PartRes--NOUN-Acc (939)</li>
       <li>VERB-PartRes--NOUN-Acc-ADP(за) (2)</li>
       <li>VERB-PartRes--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-PartRes--NOUN-Dat (1)</li>
       <li>VERB-PartRes--NOUN-Dat-ADP(по) (1)</li>
-      <li>VERB-PartRes--NOUN-Gen (215)</li>
+      <li>VERB-PartRes--NOUN-Gen (211)</li>
       <li>VERB-PartRes--NOUN-Gen-ADP(по) (3)</li>
       <li>VERB-PartRes--NOUN-Gen-ADP(съ) (2)</li>
       <li>VERB-PartRes--NOUN-Ins (44)</li>
       <li>VERB-PartRes--NOUN-Loc-ADP(по) (1)</li>
       <li>VERB-PartRes--NOUN-Nom (5)</li>
-      <li>VERB-PartRes--PRON-Acc (226)</li>
+      <li>VERB-PartRes--PRON-Acc (224)</li>
       <li>VERB-PartRes--PRON-Gen (38)</li>
       <li>VERB-PartRes--PRON-Ins (2)</li>
-      <li>VERB-PartRes--PRON-Nom (4)</li>
+      <li>VERB-PartRes--PRON-Nom (3)</li>
       <li>VERB-Sup--PRON-Acc (1)</li>
     </ul>
   </li>
@@ -1307,21 +1306,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat-ADP(къ) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(о) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(съ) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (4)</li>
+      <li>VERB-Fin--NOUN-Gen (3)</li>
       <li>VERB-Fin--NOUN-Ins (122)</li>
       <li>VERB-Fin--PRON-Dat (307)</li>
       <li>VERB-Fin--PRON-Dat-ADP(о) (1)</li>
       <li>VERB-Fin--PRON-Ins (28)</li>
-      <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Dat (248)</li>
+      <li>VERB-Inf--NOUN-Acc (2)</li>
+      <li>VERB-Inf--NOUN-Dat (249)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(въ) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(къ) (1)</li>
-      <li>VERB-Inf--NOUN-Gen (2)</li>
-      <li>VERB-Inf--NOUN-Ins (77)</li>
+      <li>VERB-Inf--NOUN-Gen (3)</li>
+      <li>VERB-Inf--NOUN-Ins (78)</li>
       <li>VERB-Inf--NOUN-Ins-ADP(въ) (1)</li>
       <li>VERB-Inf--NOUN-Loc (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (495)</li>
+      <li>VERB-Inf--PRON-Dat (496)</li>
       <li>VERB-Inf--PRON-Ins (20)</li>
       <li>VERB-Part--NOUN-Dat (67)</li>
       <li>VERB-Part--NOUN-Dat-ADP(въ) (1)</li>
@@ -1335,7 +1334,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-PartRes--NOUN (1)</li>
       <li>VERB-PartRes--NOUN-Acc (2)</li>
       <li>VERB-PartRes--NOUN-Dat (184)</li>
-      <li>VERB-PartRes--NOUN-Gen (2)</li>
+      <li>VERB-PartRes--NOUN-Gen (3)</li>
       <li>VERB-PartRes--NOUN-Ins (129)</li>
       <li>VERB-PartRes--PRON-Dat (283)</li>
       <li>VERB-PartRes--PRON-Ins (11)</li>

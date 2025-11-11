@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 3 expl:pv	color:blue
 1	L'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
-2	EBM	EBM	PROPN	_	Number=Sing	4	nsubj	_	_
+2	EBM	EBM	PROPN	_	Number=Sing	4	nsubj	_	Gender[lex]=Unknown
 3	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	SpaceAfter=No
 4	inclina	incliner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	devant	devant	ADP	_	_	6	case	_	_

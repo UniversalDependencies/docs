@@ -13,24 +13,22 @@ This relation is universal.
 3589 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.81554750626916.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (2339; 65% instances), -<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (438; 12% instances), -<tt><a href="naq_kdt-pos-INTJ.html">INTJ</a></tt> (250; 7% instances), -<tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (226; 6% instances), -<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (111; 3% instances), -<tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (91; 3% instances), -<tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (89; 2% instances), -<tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> (22; 1% instances), -<tt><a href="naq_kdt-pos-DET.html">DET</a></tt> (12; 0% instances), -<tt><a href="naq_kdt-pos-X.html">X</a></tt> (4; 0% instances), -<tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="naq_kdt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="naq_kdt-pos-VERB.html">VERB</a></tt> (2340; 65% instances), -<tt><a href="naq_kdt-pos-NOUN.html">NOUN</a></tt> (438; 12% instances), -<tt><a href="naq_kdt-pos-INTJ.html">INTJ</a></tt> (250; 7% instances), -<tt><a href="naq_kdt-pos-ADJ.html">ADJ</a></tt> (226; 6% instances), -<tt><a href="naq_kdt-pos-PRON.html">PRON</a></tt> (111; 3% instances), -<tt><a href="naq_kdt-pos-PROPN.html">PROPN</a></tt> (91; 3% instances), -<tt><a href="naq_kdt-pos-ADV.html">ADV</a></tt> (89; 2% instances), -<tt><a href="naq_kdt-pos-NUM.html">NUM</a></tt> (22; 1% instances), -<tt><a href="naq_kdt-pos-DET.html">DET</a></tt> (11; 0% instances), -<tt><a href="naq_kdt-pos-X.html">X</a></tt> (4; 0% instances), -<tt><a href="naq_kdt-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="naq_kdt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="naq_kdt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 8 root	color:blue
-1	Nēpa	nēpa	ADV	_	Deixis=Prox|PronType=Dem	8	obl	8:obl	_
-2	xu	xu	ADP	_	_	1	case	1:case	_
-3	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	expl	8:expl	_
-4	ge	ge	AUX	DECL	Mood=Ind	8	aux	8:aux	_
-5	ǂhawa	ǂhawa	ADJ	_	_	6	amod	6:amod	_
-6	ǃganna	ǃgan	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Person=3	8	nsubj	8:nsubj	_
-7	nî	nî	AUX	FUT	Tense=Fut	8	aux	8:aux	_
-8	sao	sao	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
+# visual-style 0 6 root	color:blue
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	dīsi	dīsi	NUM	_	NumType=Card	4	nummod	4:nummod	_
+4	eurogu	euro	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obl:agent	6:obl:agent	_
+5	xa	xa	ADP	_	_	4	case	4:case	_
+6	ǃgaubahe	ǃgau	VERB	_	Voice=ApplPass	0	root	0:root	_
+7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpacesAfter=\n
 
 ~~~
 

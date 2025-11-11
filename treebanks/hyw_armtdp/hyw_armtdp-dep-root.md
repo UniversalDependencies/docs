@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6656 nodes (5%) are attached to their parents as `root`.
+6644 nodes (5%) are attached to their parents as `root`.
 
-6656 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.15955528846154.
+6644 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.16240216736905.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (4774; 72% instances), -<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (992; 15% instances), -<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (524; 8% instances), -<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (141; 2% instances), -<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (91; 1% instances), -<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (82; 1% instances), -<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (26; 0% instances), -<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (8; 0% instances), -<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (4764; 72% instances), -<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (989; 15% instances), -<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (525; 8% instances), -<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (142; 2% instances), -<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (90; 1% instances), -<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (81; 1% instances), -<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (24; 0% instances), -<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (8; 0% instances), -<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (4; 0% instances), -<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
 1	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-
-2	Դուք	դուք	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Translit=Dowk’|LTranslit=dowk’
+2	Դուք	դուք	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Translit=Dowk’|LTranslit=dowk’
 3	հերոս	հերոս	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=heros|LTranslit=heros
 4	էք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=ēk’|LTranslit=em|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,|SpaceAfter=No

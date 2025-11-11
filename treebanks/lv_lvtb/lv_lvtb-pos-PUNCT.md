@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latvian-LVTB: POS Tags: `PUNCT`
 
-There are 25 `PUNCT` lemmas (0%), 42 `PUNCT` types (0%) and 57840 `PUNCT` tokens (18%).
+There are 25 `PUNCT` lemmas (0%), 42 `PUNCT` types (0%) and 57984 `PUNCT` tokens (18%).
 Out of 17 observed tags, the rank of `PUNCT` is: 14 in number of lemmas, 14 in number of types and 2 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: <em>,, ., ", -, –, ), (, ?, :, !</em>
+The 10 most frequent `PUNCT` lemmas: <em>,, ., ", –, -, ), (, ?, :, !</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", -, –, ), (, ?, ”, :</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.680000 (the average of all parts of speech is 2.341252).
+The form / lemma ratio of `PUNCT` is 1.680000 (the average of all parts of speech is 2.342913).
 
 The 1st highest number of forms (10) was observed with the lemma “"”: <em>", '", '', «, », ‘’, ’’, “, ”, „</em>.
 
@@ -34,17 +34,17 @@ The 3rd highest number of forms (4) was observed with the lemma “...”: <em>,
 `PUNCT` occurs with 1 feature-value pairs: `Typo=Yes`
 
 `PUNCT` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (57833 tokens).
+The most frequent feature combination is `_` (57977 tokens).
 Examples: <em>,, ., ", -, –, ), (, ?, ”, :</em>
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="lv_lvtb-dep-punct.html">punct</a></tt> (57834; 100% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (6; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="lv_lvtb-dep-punct.html">punct</a></tt> (57978; 100% instances), <tt><a href="lv_lvtb-dep-root.html">root</a></tt> (6; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (38473; 67% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (9054; 16% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2695; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2631; 5% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1559; 3% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (919; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (654; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (627; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (421; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (295; 1% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (267; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (145; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (39; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances),  (6; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (38575; 67% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (9065; 16% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2689; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (2635; 5% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1562; 3% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (919; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (656; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (624; 1% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (422; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (303; 1% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (281; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (151; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (40; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances),  (6; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances)
 
-57838 (100%) `PUNCT` nodes are leaves.
+57982 (100%) `PUNCT` nodes are leaves.
 
 0 (0%) `PUNCT` nodes have one child.
 

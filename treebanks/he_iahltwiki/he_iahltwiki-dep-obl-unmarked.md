@@ -71,7 +71,7 @@ The following 11 pairs of parts of speech are connected with `obl:unmarked`: <tt
 8	זכאים	זכאי	ADJ	ADJ	Gender=Masc|Number=Plur	0	root	_	_
 9	ל	ל	ADP	ADP	_	10	case	_	_
 10	פיצוי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	8	obl	_	_
-11	משום	משום	SCONJ	SCONJ	_	16	mark	_	_
+11	משום	משום	SCONJ	SCONJ	ExtPos=SCONJ	16	mark	_	_
 12	ש	ש	SCONJ	SCONJ	_	11	fixed	_	_
 13	היו	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=3|Polarity=Pos|Tense=Past	16	cop	_	_
 14	תחת	תחת	ADP	ADP	_	16	case	_	_

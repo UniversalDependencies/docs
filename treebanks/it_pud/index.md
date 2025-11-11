@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Antonio Stella, Davide Rovati, Martin Popel, Daniel Zeman, Maria Simi, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PUD](https://github.com/UniversalDependencies/UD_Italian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_pud216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_pud217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 3.0
 
@@ -34,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | assigned by a program, not checked manually |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | not available |
 | Features | annotated manually in non-UD style, automatically converted to UD |
@@ -430,7 +430,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Art
     <ul>
-      <li>DET: il, la, l', i, le, gli, lo</li>
+      <li>DET: il, la, l', i, le, un, una, gli, lo, un'</li>
     </ul>
   </li>
 </ul>

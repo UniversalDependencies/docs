@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1144 nodes (1%) are attached to their parents as `dislocated`.
+1413 nodes (1%) are attached to their parents as `dislocated`.
 
-1144 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.30332167832168.
+1413 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.3382873319179.
 
-The following 17 pairs of parts of speech are connected with `dislocated`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (489; 43% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (332; 29% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (140; 12% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (68; 6% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (40; 3% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (30; 3% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `dislocated`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (633; 45% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (440; 31% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (156; 11% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (88; 6% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (31; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,12 +26,12 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 2	수많은	수많+은	ADJ	VA+ETM	_	3	amod	_	_
 3	사람을	사람+을	NOUN	NNG+JKO	_	4	obj	_	_
 4	만난	만나+ㄴ	VERB	VV+ETM	_	9	advcl	_	_
-5	후에	후+에	ADV	NNG+JKB	_	4	mark	_	_
+5	후에	후+에	SCONJ	NNG+JKB	_	4	mark	_	_
 6	원래	원래	ADV	NNG	_	9	advmod	_	_
 7	주인을	주인+을	NOUN	NNG+JKO	_	9	obj	_	_
 8	다시	다시	ADV	MAG	_	9	advmod	_	_
 9	만났을	만나+았+을	VERB	VV+EP+ETM	_	13	advcl	_	_
-10	때	때	ADV	NNG	_	9	mark	_	_
+10	때	때	SCONJ	NNG	_	9	mark	_	_
 11	정말	정말	ADV	MAG	_	13	advmod	_	_
 12	마음이	마음+이	NOUN	NNG+JKS	_	13	nsubj	_	_
 13	찡했다	찡하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
@@ -48,7 +48,7 @@ The following 17 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 8 2 dislocated	color:blue
 1	아쉬운	아쉽+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
 2	것은	것+은	NOUN	NNB+JX	_	8	dislocated	_	_
-3	2014년에	2014+년+에	NOUN	SN+NNB+JKB	_	8	obl	_	_
+3	2014년에	2014+년+에	ADV	SN+NNB+JKB	_	8	obl	_	_
 4	마음에	마음+에	ADV	NNG+JKB	_	5	obl	_	_
 5	드는	들+는	VERB	VV+ETM	_	6	acl	_	_
 6	드라마가	드라마+가	NOUN	NNG+JKS	_	8	nsubj	_	_

@@ -10,25 +10,24 @@ This feature is universal.
 It occurs with 6 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rel`.
 Some words have combined values of the feature; 1 combinations have been observed: `Ind|Rel`.
 
-12744 tokens (20%) have a non-empty value of `PronType`.
+14412 tokens (23%) have a non-empty value of `PronType`.
 173 types (2%) occur at least once with a non-empty value of `PronType`.
 31 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (10451; 16% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="el_gdt-pos-DET.html">DET</a></tt> (12119; 19% instances), <tt><a href="el_gdt-pos-PRON.html">PRON</a></tt> (2293; 4% instances).
 
 ### `DET`
 
-10451 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `PronType`.
+12119 <tt><a href="el_gdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (9379; 90%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7913; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5642; 54%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (11047; 91%), <tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9196; 76%), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6593; 54%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (9847; 94% of non-empty `PronType`): <em>την, της, το, η, του, των, ο, οι, τα, τη</em>
-* `Dem` (391; 4% of non-empty `PronType`): <em>αυτή, αυτό, αυτές, αυτής, αυτά, αυτού, αυτών, αυτόν, τέτοιο, αυτήν</em>
+* `Art` (11515; 95% of non-empty `PronType`): <em>την, το, της, η, του, των, τη, τις, τα, ο</em>
+* `Dem` (391; 3% of non-empty `PronType`): <em>αυτή, αυτό, αυτές, αυτής, αυτά, αυτού, αυτών, αυτόν, τέτοιο, αυτήν</em>
 * `Ind` (196; 2% of non-empty `PronType`): <em>κάθε, άλλες, άλλα, άλλη, κάποια, καμία, κανένα, άλλο, άλλων, άλλοι</em>
 * `Ind,Rel` (16; 0% of non-empty `PronType`): <em>οποιαδήποτε, οποιασδήποτε, οποιοδήποτε, οτιδήποτε, Οποιεσδήποτε, οιονδήποτε</em>
 * `Rel` (1; 0% of non-empty `PronType`): <em>ης</em>
-* `EMPTY` (1668): <em>την, το, τη, τις, τον, τα, τους</em>
 
 <table>
   <tr><th>Paradigm <i>ένας</i></th><th><tt>Art</tt></th><th><tt>Ind</tt></th></tr>

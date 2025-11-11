@@ -35,7 +35,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (40; 100% of non-empty `NumType`): <em>muchos, muchas, ambos, poca, mucha, mucho, pocos, Ambas</em>
-* `EMPTY` (3299): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
+* `EMPTY` (3298): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
 
 ### `PRON`
 

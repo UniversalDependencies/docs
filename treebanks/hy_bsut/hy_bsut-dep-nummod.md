@@ -8,57 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-612 nodes (1%) are attached to their parents as `nummod`.
+497 nodes (1%) are attached to their parents as `nummod`.
 
-549 instances of `nummod` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.11437908496732.
+466 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.77665995975855.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (462; 75% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (92; 15% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (46; 8% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 nummod	color:blue
-1	1	1	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	Translit=1|LTranslit=1|SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
-3	Նյութի	նյութ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=Nyowt’i|LTranslit=nyowt’
-4	իսկություն	իսկություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	0	root	_	Translit=iskowt’yown|LTranslit=iskowt’yown|SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
-6	օրիգինալ	օրիգինալ	ADJ	_	Degree=Pos	4	appos	_	Translit=òriginal|LTranslit=òriginal
-7	՞	՞	PUNCT	_	_	6	punct	_	Translit=?|LTranslit=?
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=ē|LTranslit=em
-9	կոնտենտը	կոնտենտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Translit=kontentë|LTranslit=kontent|SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
-11	թե	թե	CCONJ	_	_	12	cc	_	Translit=t’e|LTranslit=t’e
-12	ոչ	ոչ	PART	_	Polarity=Neg	6	conj	_	Translit=oč|LTranslit=oč|SpaceAfter=No
-13	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
-
-~~~
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (438; 88% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (46; 9% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 nummod	color:blue
-1	ա	ա	NUM	_	NumForm=Armenian|NumType=Card	7	nummod	_	Translit=a|LTranslit=a|SpaceAfter=No
-2	.	․	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=․
-3	E	E	X	_	Foreign=Yes	6	nmod	_	Translit=E|LTranslit=E|SpaceAfter=No
-4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-5	draft	draft	X	_	Foreign=Yes	3	flat	_	Translit=draft|LTranslit=draft
-6	հարթակը	հարթակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj:pass	_	Translit=hart’akë|LTranslit=hart’ak
-7	ստեղծվել	ստեղծել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=steġçvel|LTranslit=steġçel
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
-9	շատ	շատ	ADV	_	Degree=Pos	10	advmod	_	Translit=šat|LTranslit=šat
-10	լուրջ	լուրջ	ADJ	_	Degree=Pos	11	amod	_	Translit=lowrǰ|LTranslit=lowrǰ
-11	խնդիր	խնդիր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	obj	_	Translit=xndir|LTranslit=xndir
-12	լուծելու	լուծել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	7	obl	_	Translit=lowçelow|LTranslit=lowçel
-13	համար	համար	ADP	_	AdpType=Post	12	case	_	Translit=hamar|LTranslit=hamar|SpaceAfter=No
-14	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	8	8	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	Translit=8|LTranslit=8
+2	հունիսի	հունիս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=hownisi|LTranslit=hownis
+3	2018	2018	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	Translit=2018|LTranslit=2018
+4	թվականի	թվական	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	nmod:poss	_	Translit=t’vakani|LTranslit=t’vakan
+5	N	N|№	SYM	_	_	0	root	_	Translit=N|LTranslit=N|№
+6	667	667	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	Translit=667|LTranslit=667|SpaceAfter=No
+7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+8	Լ	լ	ADJ	_	Abbr=Yes	6	flat	_	Translit=L|LTranslit=l
 
 ~~~
 
@@ -76,7 +47,32 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	N	N|№	SYM	_	_	0	root	_	Translit=N|LTranslit=N|№
 6	667	667	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	Translit=667|LTranslit=667|SpaceAfter=No
 7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-8	Լ	Լ	ADJ	_	Abbr=Yes	6	flat	_	Translit=L|LTranslit=L
+8	Լ	լ	ADJ	_	Abbr=Yes	6	flat	_	Translit=L|LTranslit=l
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 13 nummod	color:blue
+1	Կիբյոշին	կիբյոշի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	2	nsubj	_	Translit=Kibyošin|LTranslit=kibyoši
+2	բաղկացած	բաղկանալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=baġkac’aç|LTranslit=baġkanal
+3	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	2	aux	_	Translit=ēr|LTranslit=em
+4	հաջորդական	հաջորդական	ADJ	_	_	5	amod	_	Translit=haǰordakan|LTranslit=haǰordakan
+5	պատկերներից	պատկեր	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	2	obl	_	Translit=patkerneric’|LTranslit=patker|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+7	շարժման	շարժում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	8	nmod:poss	_	Translit=šaržman|LTranslit=šaržowm
+8	գծերից	գիծ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	5	conj	_	Translit=gçeric’|LTranslit=giç
+9	և	և	CCONJ	_	_	11	cc	_	Translit=ew|LTranslit=ew
+10	ձայնային	ձայնային	ADJ	_	_	11	amod	_	Translit=jaynayin|LTranslit=jaynayin
+11	էֆեկտներից	էֆեկտ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	5	conj	_	Translit=ēfektneric’|LTranslit=ēfekt|SpaceAfter=No
+12	[	[	PUNCT	_	_	13	punct	_	Translit=[|LTranslit=[|SpaceAfter=No
+13	3	3	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	Translit=3|LTranslit=3|SpaceAfter=No
+14	]	]	PUNCT	_	_	13	punct	_	Translit=]|LTranslit=]|SpaceAfter=No
+15	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 17 nsubj:pass	color:blue
-1	Tot	tot	PRON	rg	Gender=Masc|Number=Sing|PronType=Tot	9	advmod	9:advmod	MWE=Tot_i_amb_això|MWEPOS=ADV
+1	Tot	tot	PRON	rg	ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Tot	9	advmod	9:advmod	MWE=Tot_i_amb_això|MWEPOS=ADV
 2	i	i	CCONJ	_	_	1	fixed	1:fixed	_
 3	amb	amb	ADP	_	_	1	fixed	1:fixed	_
 4	això	això	NOUN	_	_	1	fixed	1:fixed	SpaceAfter=No

@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>δε</em> (<tt><a href="el_gud-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.674109).
+The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.674712).
 
 The 1st highest number of forms (2) was observed with the lemma “και”: <em>και, κι</em>.
 
@@ -44,7 +44,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ή”: <em>ή
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="el_gud-dep-cc.html">cc</a></tt> (1013; 97% instances), <tt><a href="el_gud-dep-fixed.html">fixed</a></tt> (22; 2% instances), <tt><a href="el_gud-dep-advmod.html">advmod</a></tt> (8; 1% instances), <tt><a href="el_gud-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="el_gud-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (632; 60% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (220; 21% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (52; 5% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (36; 3% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (29; 3% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (28; 3% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (24; 2% instances), <tt><a href="el_gud-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (633; 60% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (220; 21% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (52; 5% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (36; 3% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (29; 3% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (28; 3% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (23; 2% instances), <tt><a href="el_gud-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-X.html">X</a></tt> (1; 0% instances)
 
 1040 (99%) `CCONJ` nodes are leaves.
 

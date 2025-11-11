@@ -159,7 +159,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 613 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (612; 100%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (611; 100%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (488; 80%), <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (460; 75%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (454; 74%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (314; 51%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (612; 100%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (488; 80%), <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (460; 75%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (454; 74%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (314; 51%).
 
 `VERB` tokens may have the following values of `Gender`:
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt, Verena Blaschke, Nina Böbel, Leonie Weissweiler.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -153,7 +153,7 @@ publisher={Fachbereich Informatik}
 
 ## Relations
 
-[acl](de_hdt-dep-acl.html) – [acl:relcl](de_hdt-dep-acl-relcl.html) – [advcl](de_hdt-dep-advcl.html) – [advcl:relcl](de_hdt-dep-advcl-relcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [dep](de_hdt-dep-dep.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [fixed](de_hdt-dep-fixed.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
+[acl](de_hdt-dep-acl.html) – [acl:relcl](de_hdt-dep-acl-relcl.html) – [advcl](de_hdt-dep-advcl.html) – [advcl:relcl](de_hdt-dep-advcl-relcl.html) – [advmod](de_hdt-dep-advmod.html) – [amod](de_hdt-dep-amod.html) – [appos](de_hdt-dep-appos.html) – [aux](de_hdt-dep-aux.html) – [aux:pass](de_hdt-dep-aux-pass.html) – [case](de_hdt-dep-case.html) – [cc](de_hdt-dep-cc.html) – [ccomp](de_hdt-dep-ccomp.html) – [compound](de_hdt-dep-compound.html) – [compound:prt](de_hdt-dep-compound-prt.html) – [conj](de_hdt-dep-conj.html) – [cop](de_hdt-dep-cop.html) – [csubj](de_hdt-dep-csubj.html) – [csubj:pass](de_hdt-dep-csubj-pass.html) – [dep](de_hdt-dep-dep.html) – [det](de_hdt-dep-det.html) – [det:poss](de_hdt-dep-det-poss.html) – [discourse](de_hdt-dep-discourse.html) – [expl](de_hdt-dep-expl.html) – [expl:pv](de_hdt-dep-expl-pv.html) – [fixed](de_hdt-dep-fixed.html) – [flat](de_hdt-dep-flat.html) – [flat:name](de_hdt-dep-flat-name.html) – [iobj](de_hdt-dep-iobj.html) – [mark](de_hdt-dep-mark.html) – [nmod](de_hdt-dep-nmod.html) – [nmod:poss](de_hdt-dep-nmod-poss.html) – [nsubj](de_hdt-dep-nsubj.html) – [nsubj:pass](de_hdt-dep-nsubj-pass.html) – [nummod](de_hdt-dep-nummod.html) – [obj](de_hdt-dep-obj.html) – [obl](de_hdt-dep-obl.html) – [obl:arg](de_hdt-dep-obl-arg.html) – [orphan](de_hdt-dep-orphan.html) – [parataxis](de_hdt-dep-parataxis.html) – [punct](de_hdt-dep-punct.html) – [reparandum](de_hdt-dep-reparandum.html) – [root](de_hdt-dep-root.html) – [vocative](de_hdt-dep-vocative.html) – [xcomp](de_hdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -944,10 +944,11 @@ publisher={Fachbereich Informatik}
       <li>Yes
         <ul>
           <li>AUX: will.</li>
-          <li>DET: anderen, allen, das, der, andere</li>
+          <li>DET: anderen, allen, andere</li>
           <li>NOUN: Falls</li>
           <li>PRON: da</li>
           <li>SCONJ: das</li>
+          <li>VERB-Inf: Fallen, ausprechen</li>
         </ul>
       </li>
     </ul>
@@ -988,7 +989,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN-Nom (3)</li>
-      <li>VERB-Fin--NOUN (63221)</li>
+      <li>VERB-Fin--NOUN (63223)</li>
       <li>VERB-Fin--NOUN-Acc (3)</li>
       <li>VERB-Fin--NOUN-Dat (18)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
@@ -996,7 +997,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (136)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Nom (28009)</li>
+      <li>VERB-Fin--PRON-Nom (28010)</li>
       <li>VERB-Inf--NOUN (21329)</li>
       <li>VERB-Inf--NOUN-Dat (12)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
@@ -1021,189 +1022,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Acc (3)</li>
-      <li>VERB-Fin--NOUN (51689)</li>
-      <li>VERB-Fin--NOUN-ADP(An) (18)</li>
-      <li>VERB-Fin--NOUN-ADP(Auf) (37)</li>
-      <li>VERB-Fin--NOUN-ADP(Aus) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(Bei) (4)</li>
-      <li>VERB-Fin--NOUN-ADP(Für) (39)</li>
-      <li>VERB-Fin--NOUN-ADP(Gegen) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(In) (11)</li>
-      <li>VERB-Fin--NOUN-ADP(Mit) (20)</li>
-      <li>VERB-Fin--NOUN-ADP(Nach) (8)</li>
-      <li>VERB-Fin--NOUN-ADP(Von) (14)</li>
-      <li>VERB-Fin--NOUN-ADP(Zu) (95)</li>
-      <li>VERB-Fin--NOUN-ADP(als) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(an) (395)</li>
-      <li>VERB-Fin--NOUN-ADP(auf) (1350)</li>
-      <li>VERB-Fin--NOUN-ADP(auf)-ADP(hin) (8)</li>
-      <li>VERB-Fin--NOUN-ADP(auf)-ADP(zu) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(aus) (153)</li>
-      <li>VERB-Fin--NOUN-ADP(bei) (22)</li>
-      <li>VERB-Fin--NOUN-ADP(durch) (4)</li>
-      <li>VERB-Fin--NOUN-ADP(für) (362)</li>
-      <li>VERB-Fin--NOUN-ADP(gegen) (110)</li>
-      <li>VERB-Fin--NOUN-ADP(in) (272)</li>
-      <li>VERB-Fin--NOUN-ADP(mit) (559)</li>
-      <li>VERB-Fin--NOUN-ADP(nach) (108)</li>
-      <li>VERB-Fin--NOUN-ADP(um) (55)</li>
-      <li>VERB-Fin--NOUN-ADP(unter) (35)</li>
-      <li>VERB-Fin--NOUN-ADP(von) (310)</li>
-      <li>VERB-Fin--NOUN-ADP(von)-ADP(aus) (5)</li>
-      <li>VERB-Fin--NOUN-ADP(vor) (4)</li>
-      <li>VERB-Fin--NOUN-ADP(wie) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(zu) (835)</li>
-      <li>VERB-Fin--NOUN-ADP(zwischen) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(Über) (14)</li>
-      <li>VERB-Fin--NOUN-ADP(über) (532)</li>
-      <li>VERB-Fin--NOUN-Acc (2018)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(An) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(Auf) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(an) (8)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(auf) (68)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(durch) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(für) (12)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(gegen) (11)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(in) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(unter) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(Über) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(über) (11)</li>
+      <li>VERB-Fin--NOUN (51583)</li>
+      <li>VERB-Fin--NOUN-Acc (2017)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(An) (4)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(Auf) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(Bei) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(In) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(Mit) (5)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(Nach) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(Von) (4)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(Zu) (84)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(an) (21)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(auf) (11)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(aus) (47)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(bei) (3)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(in) (5)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(mit) (113)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(nach) (49)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(von) (65)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(von)-ADP(aus) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(vor) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(zu) (240)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(zwischen) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(über) (3)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(an) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(auf) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(um) (1)</li>
       <li>VERB-Fin--NOUN-Nom (29)</li>
       <li>VERB-Fin--PRON (229)</li>
-      <li>VERB-Fin--PRON-Acc (8273)</li>
+      <li>VERB-Fin--PRON-Acc (8204)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN (37084)</li>
-      <li>VERB-Inf--NOUN-ADP(An) (15)</li>
-      <li>VERB-Inf--NOUN-ADP(Auf) (22)</li>
-      <li>VERB-Inf--NOUN-ADP(Bei) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(Für) (11)</li>
-      <li>VERB-Inf--NOUN-ADP(In) (4)</li>
-      <li>VERB-Inf--NOUN-ADP(Mit) (32)</li>
-      <li>VERB-Inf--NOUN-ADP(Von) (7)</li>
-      <li>VERB-Inf--NOUN-ADP(Zu) (5)</li>
-      <li>VERB-Inf--NOUN-ADP(an) (225)</li>
-      <li>VERB-Inf--NOUN-ADP(auf) (578)</li>
-      <li>VERB-Inf--NOUN-ADP(aus) (27)</li>
-      <li>VERB-Inf--NOUN-ADP(bei) (34)</li>
-      <li>VERB-Inf--NOUN-ADP(durch) (2)</li>
-      <li>VERB-Inf--NOUN-ADP(für) (166)</li>
-      <li>VERB-Inf--NOUN-ADP(gegen) (16)</li>
-      <li>VERB-Inf--NOUN-ADP(in) (231)</li>
-      <li>VERB-Inf--NOUN-ADP(mit) (232)</li>
-      <li>VERB-Inf--NOUN-ADP(nach) (34)</li>
-      <li>VERB-Inf--NOUN-ADP(um) (10)</li>
-      <li>VERB-Inf--NOUN-ADP(unter) (8)</li>
-      <li>VERB-Inf--NOUN-ADP(von) (168)</li>
-      <li>VERB-Inf--NOUN-ADP(zu) (386)</li>
-      <li>VERB-Inf--NOUN-ADP(zwischen) (9)</li>
-      <li>VERB-Inf--NOUN-ADP(Über) (3)</li>
-      <li>VERB-Inf--NOUN-ADP(über) (148)</li>
-      <li>VERB-Inf--NOUN-Acc (1396)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(Auf) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(Für) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(an) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(auf) (20)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(für) (4)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(gegen) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(in) (9)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(über) (3)</li>
+      <li>VERB-Inf--NOUN (37044)</li>
+      <li>VERB-Inf--NOUN-Acc (1394)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(Mit) (8)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(Nach) (1)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(Von) (1)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(Zu) (4)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(an) (27)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(auf) (1)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(aus) (5)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(bei) (2)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(in) (4)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(mit) (56)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(nach) (19)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(von) (27)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(zu) (79)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(zwischen) (2)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--NOUN-Nom (16)</li>
       <li>VERB-Inf--PRON (313)</li>
-      <li>VERB-Inf--PRON-Acc (3458)</li>
+      <li>VERB-Inf--PRON-Acc (3442)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN (14659)</li>
-      <li>VERB-Part--NOUN-ADP(An) (3)</li>
-      <li>VERB-Part--NOUN-ADP(Auf) (18)</li>
-      <li>VERB-Part--NOUN-ADP(Für) (5)</li>
-      <li>VERB-Part--NOUN-ADP(In) (2)</li>
-      <li>VERB-Part--NOUN-ADP(Mit) (11)</li>
-      <li>VERB-Part--NOUN-ADP(Um) (2)</li>
-      <li>VERB-Part--NOUN-ADP(Von) (2)</li>
-      <li>VERB-Part--NOUN-ADP(Zu) (2)</li>
-      <li>VERB-Part--NOUN-ADP(an) (155)</li>
-      <li>VERB-Part--NOUN-ADP(auf) (287)</li>
-      <li>VERB-Part--NOUN-ADP(aus) (2)</li>
-      <li>VERB-Part--NOUN-ADP(bei) (2)</li>
-      <li>VERB-Part--NOUN-ADP(für) (87)</li>
-      <li>VERB-Part--NOUN-ADP(gegen) (58)</li>
-      <li>VERB-Part--NOUN-ADP(in) (174)</li>
-      <li>VERB-Part--NOUN-ADP(mit) (198)</li>
-      <li>VERB-Part--NOUN-ADP(nach) (23)</li>
-      <li>VERB-Part--NOUN-ADP(um) (25)</li>
-      <li>VERB-Part--NOUN-ADP(unter) (16)</li>
-      <li>VERB-Part--NOUN-ADP(von) (125)</li>
-      <li>VERB-Part--NOUN-ADP(zu) (339)</li>
-      <li>VERB-Part--NOUN-ADP(Über) (7)</li>
-      <li>VERB-Part--NOUN-ADP(über) (62)</li>
+      <li>VERB-Part--NOUN (14643)</li>
       <li>VERB-Part--NOUN-Acc (551)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(An) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(an) (6)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(auf) (18)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(für) (8)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(in) (9)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(unter) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(über) (4)</li>
-      <li>VERB-Part--NOUN-Dat (7)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(An) (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(Mit) (3)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(Nach) (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(Zu) (2)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(an) (3)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(aus) (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(in) (2)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(mit) (30)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(nach) (7)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(von) (19)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(zu) (65)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(zwischen) (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(über) (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(von) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(zu) (1)</li>
+      <li>VERB-Part--NOUN-Dat (6)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
       <li>VERB-Part--PRON (50)</li>
-      <li>VERB-Part--PRON-Acc (1868)</li>
+      <li>VERB-Part--PRON-Acc (1862)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -1212,6 +1052,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--NOUN (38)</li>
+      <li>VERB-Fin--PRON-Acc (12)</li>
+      <li>VERB-Inf--NOUN (26)</li>
+      <li>VERB-Inf--NOUN-Acc (2)</li>
+      <li>VERB-Inf--PRON-Acc (2)</li>
+      <li>VERB-Part--NOUN (9)</li>
+      <li>VERB-Part--PRON-Acc (2)</li>
     </ul>
   </li>
 </ul>
@@ -1219,16 +1066,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 504 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, beteiligen sich, finden sich, konzentrieren sich, einigen sich, entwickeln sich, halten sich, stellen sich, ändern sich, freuen sich, setzen sich, geben sich, eignen sich, kümmern sich, erweisen sich, trennen sich, melden sich, beschäftigen sich, ergeben sich, bewegen sich, beziehen sich, erhöhen sich, anmelden sich, sichern sich, durchsetzen sich, versprechen sich, unterscheiden sich, berufen sich, verdoppeln sich, vorstellen sich, bemühen sich, auswirken sich, beschränken sich, bewerben sich, informieren sich, stützen sich, treffen sich, wehren sich, lohnen sich, orientieren sich, verpflichten sich, zurückziehen sich, anschließen sich, entschließen sich, interessieren sich, befassen sich, herausstellen sich, etablieren sich, einwählen sich, verbreiten sich</li>
+  <li>This corpus contains 519 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, beteiligen sich, finden sich, konzentrieren sich, einigen sich, entwickeln sich, halten sich, stellen sich, ändern sich, freuen sich, setzen sich, geben sich, eignen sich, kümmern sich, erweisen sich, trennen sich, melden sich, beschäftigen sich, ergeben sich, bewegen sich, beziehen sich, erhöhen sich, anmelden sich, sichern sich, durchsetzen sich, versprechen sich, unterscheiden sich, berufen sich, verdoppeln sich, vorstellen sich, bemühen sich, auswirken sich, beschränken sich, bewerben sich, informieren sich, stützen sich, treffen sich, wehren sich, lohnen sich, orientieren sich, verpflichten sich, zurückziehen sich, anschließen sich, entschließen sich, interessieren sich, befassen sich, herausstellen sich, etablieren sich, einwählen sich, verbreiten sich</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 696 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, zeichnen sich, präsentieren sich, schließen sich, sprechen sich, erklären sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, nennen sich, verbessern sich, registrieren sich, schützen sich, tun sich, - sich, entpuppen sich, bezeichnen sich, schweigen sich, verkaufen sich, häufen sich, wirken sich, zusammentun sich, bestätigen sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, lesen sich, öffnen sich, verteidigen sich, verschärfen sich, üben sich</li>
+  <li>This corpus contains 695 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lassen sich, handeln sich, zeigen sich, äußern sich, sehen sich, wenden sich, machen sich, richten sich, belaufen sich, entscheiden sich, aussprechen sich, fühlen sich, zeichnen sich, schließen sich, präsentieren sich, sprechen sich, erklären sich, verändern sich, verhalten sich, verabschieden sich, fragen sich, verständigen sich, verbessern sich, registrieren sich, schützen sich, tun sich, - sich, entpuppen sich, bezeichnen sich, schweigen sich, verkaufen sich, häufen sich, wirken sich, zusammentun sich, bestätigen sich, gestalten sich, verringern sich, einloggen sich, streiten sich, fortsetzen sich, mehren sich, summieren sich, vorbereiten sich, finanzieren sich, lesen sich, öffnen sich, verteidigen sich, verschärfen sich, üben sich, bilden sich</li>
     <ul>
-      <li>Out of those, 40 lemmas occurred more than once, but never without a reflexive dependent. Examples: zusammentun, breiten, durchringen, zuwenden, zusammenfinden, auskennen, einpendeln, einschleichen, umschauen, herumschlagen, entledigen, hervortun, aufschwingen, herumsprechen, zurechtfinden, überschneiden, gegenübersehen, vorarbeiten, auftun, einfinden, herausreden, hinsetzen, hochschaukeln, klinken, nisten, zusammenraufen, abzeichnende, ausschweigen, einreihen, einschießen, erdreisten, hingeben, hocharbeiten, loggen, lossagen, materialisierten, schaukeln, umtun, verfestigen, überheben</li>
+      <li>Out of those, 40 lemmas occurred more than once, but never without a reflexive dependent. Examples: zusammentun, breiten, zuwenden, zusammenfinden, auskennen, durchringen, einpendeln, einschleichen, umschauen, herumschlagen, hervortun, aufschwingen, herumsprechen, zurechtfinden, überschneiden, gegenübersehen, vorarbeiten, auftun, einfinden, herausreden, hinsetzen, hochschaukeln, klinken, nisten, zusammenraufen, abzeichnende, ausschweigen, einreihen, einschießen, entledigen, erdreisten, hingeben, hocharbeiten, loggen, lossagen, materialisierten, schaukeln, umtun, verfestigen, überheben</li>
     </ul>
 </ul>
 
@@ -1236,5 +1083,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

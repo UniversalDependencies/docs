@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (2%) are attached to their parents as `cop`.
+3 nodes (1%) are attached to their parents as `cop`.
 
 3 instances of `cop` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.
@@ -17,19 +17,20 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 cop	color:blue
-1	Patĕmŏ	padre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
-2	è	essĕ	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	cchiù	più	ADV	_	Degree=Cmp	4	advmod	_	_
-4	ccalmŏ	calmo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-5	r	da	ADP	_	_	7	case	_	SpaceAfter=No
-6	'o	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	tuojŏ	tuo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 cop	color:blue
+1	Patĕ	patĕ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	mŏ	mŏ	ADJ	_	Gender=Masc|Number=Sing|Poss=Yes	1	amod	_	_
+3	è	essĕ	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	cchiù	cchiù	ADV	_	Degree=Cmp	5	advmod	_	_
+5	ccalmŏ	ccalmŏ	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+6	r	r	ADP	_	_	8	case	_	SpaceAfter=No
+7	'o	'o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	tuojŏ	tuojŏ	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -41,14 +42,14 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 4 cop	color:blue
 1	Ma	ma	CCONJ	_	_	6	cc	_	_
-2	l'	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
-3	Iguazy	Iguazu	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	l'	'o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	Iguazu	Iguazu	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 4	è	essĕ	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-5	'nu	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	paisĕ	paese	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-7	gruossŏ	grosso	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+5	'nu	'nu	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	paisĕ	paisĕ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	gruossŏ	gruossŏ	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
 8	o	o	CCONJ	_	_	9	cc	_	_
-9	piccirillŏ	piccolo	ADJ	_	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+9	piccirillŏ	piccirillŏ	ADJ	_	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 10	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -60,15 +61,15 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 cop	color:blue
-1	'Sta	questa	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	lettĕră	lettera	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+1	'Sta	'sta	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	lettĕră	lettĕră	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	è	essĕ	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	'e	di	ADP	_	_	5	case	_	_
-5	Pietrŏ	Pietro	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	'e	'e	ADP	_	_	5	case	_	_
+5	Pietrŏ	Pietrŏ	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	e	e	CCONJ	_	_	7	cc	_	_
-7	vvĕnettĕ	venire	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
-8	distribbuită	distribuire	VERB	_	VerbForm=Part	7	xcomp	_	_
-9	ajerĕ	ieri	ADV	_	_	7	advmod	_	SpaceAfter=No
+7	vvĕnettĕ	venì	AUX	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+8	distribbuită	distribbuì	VERB	_	VerbForm=Part	5	conj	_	_
+9	ajerĕ	ajerĕ	ADV	_	_	8	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

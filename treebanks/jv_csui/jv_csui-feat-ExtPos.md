@@ -11,7 +11,7 @@ It occurs with 3 different values: `ADP`, `ADV`, `SCONJ`.
 
 17 tokens (0%) have a non-empty value of `ExtPos`.
 5 types (0%) occur at least once with a non-empty value of `ExtPos`.
-1 lemmas (0) occur at least once with a non-empty value of `ExtPos`.
+5 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
 The feature is used with 4 part-of-speech tags: <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `AUX`
@@ -24,6 +24,11 @@ The most frequent other feature values with which `AUX` and `ExtPos` co-occurred
 
 * `ADP` (7; 88% of non-empty `ExtPos`): <em>inggih</em>
 * `SCONJ` (1; 13% of non-empty `ExtPos`): <em>inggih</em>
+
+<table>
+  <tr><th>Paradigm <i>inggih</i></th><th><tt>ADP</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>inggih</em></td><td><em>inggih</em></td></tr>
+</table>
 
 ### `ADV`
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-GSD: POS Tags: `DET`
 
-There are 53 `DET` lemmas (0%), 51 `DET` types (0%) and 3619 `DET` tokens (3%).
+There are 54 `DET` lemmas (0%), 52 `DET` types (0%) and 3628 `DET` tokens (3%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 9 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ini, itu, buah, tersebut, nya, orang, beberapa, para, berbagai, suatu</em>
@@ -15,7 +15,7 @@ The 10 most frequent `DET` types:  <em>ini, itu, sebuah, tersebut, nya, seorang,
 
 The 10 most frequent ambiguous lemmas: <em>ini</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 1154, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 13), <em>itu</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 402, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 38), <em>buah</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 365, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 31, <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> 4, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>tersebut</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 267, <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> 1), <em>nya</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 219, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 21, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 2), <em>orang</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 271, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 199, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 23, <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> 1), <em>beberapa</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 173, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 2), <em>para</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 141, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>suatu</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 94, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 15), <em>semua</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 66, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 31)
 
-The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 1141, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 8), <em>itu</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 399, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 32), <em>nya</em> (<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 1494, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 221), <em>seorang</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 193, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 5), <em>beberapa</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 156, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 2), <em>semua</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 60, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 27), <em>seluruh</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 51, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>sendiri</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 51, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 7, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>banyak</em> (<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 83, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 38, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 5), <em>masing-masing</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 20, <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 4, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 1141, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 8), <em>itu</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 399, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 32), <em>nya</em> (<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 1490, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 225), <em>seorang</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 193, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 5), <em>beberapa</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 156, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 2), <em>semua</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 60, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 27), <em>seluruh</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 51, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>sendiri</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 51, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 7, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>banyak</em> (<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 83, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 38, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 5), <em>masing-masing</em> (<tt><a href="id_gsd-pos-DET.html">DET</a></tt> 20, <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 4, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>ini</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_gsd-pos-DET
   * <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 399: <em>Sejak <b>itu</b> pula , nama Masao Kume dikenal sebagai penulis novel pop .</em>
   * <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 32: <em>Sesudah <b>itu</b> aku bertanya kepada nya : Anak siapa kah engkau ?</em>
 * <em>nya</em>
-  * <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 1494: <em>Titah <b>nya</b> , apa kah kabar Juragan ?</em>
-  * <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 221: <em>Dia dipanggil kembali oleh klub lama <b>nya</b> , Fulham pada 18 April 2013 .</em>
+  * <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 1490: <em>Titah <b>nya</b> , apa kah kabar Juragan ?</em>
+  * <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 225: <em>Dia dipanggil kembali oleh klub lama <b>nya</b> , Fulham pada 18 April 2013 .</em>
 * <em>seorang</em>
   * <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 193: <em>Eisenhower tidak yakin , apa kah Castro <b>seorang</b> komunis atau bukan .</em>
   * <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 5: <em>Yustianus adalah <b>seorang</b> yang dikenal sekali karena keorthodoksannya .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>ini</em> (<tt><a href="id_gsd-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 0.962264 (the average of all parts of speech is 1.122107).
+The form / lemma ratio of `DET` is 0.962963 (the average of all parts of speech is 1.122107).
 
 The 1st highest number of forms (2) was observed with the lemma “banyak”: <em>banyak, kebanyakan</em>.
 
@@ -63,9 +63,9 @@ The 2nd highest number of forms (2) was observed with the lemma “beberapa”: 
 
 The 3rd highest number of forms (2) was observed with the lemma “masing”: <em>masing, masing-masing</em>.
 
-`DET` occurs with 5 features: <tt><a href="id_gsd-feat-PronType.html">PronType</a></tt> (3611; 100% instances), <tt><a href="id_gsd-feat-Definite.html">Definite</a></tt> (920; 25% instances), <tt><a href="id_gsd-feat-Number.html">Number</a></tt> (454; 13% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (5; 0% instances), <tt><a href="id_gsd-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
+`DET` occurs with 5 features: <tt><a href="id_gsd-feat-PronType.html">PronType</a></tt> (3628; 100% instances), <tt><a href="id_gsd-feat-Definite.html">Definite</a></tt> (920; 25% instances), <tt><a href="id_gsd-feat-Number.html">Number</a></tt> (454; 13% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (5; 0% instances), <tt><a href="id_gsd-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
 
-`DET` occurs with 11 feature-value pairs: `Abbr=Yes`, `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Tot`, `Typo=Yes`
+`DET` occurs with 12 feature-value pairs: `Abbr=Yes`, `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Rel`, `PronType=Tot`, `Typo=Yes`
 
 `DET` occurs with 14 feature combinations.
 The most frequent feature combination is `PronType=Dem` (1854 tokens).
@@ -74,11 +74,11 @@ Examples: <em>ini, itu, tersebut, tertentu, begitu, berikut, tadi, begini, demik
 
 ## Relations
 
-`DET` nodes are attached to their parents using 13 different relations: <tt><a href="id_gsd-dep-det.html">det</a></tt> (3545; 98% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (30; 1% instances), <tt><a href="id_gsd-dep-amod.html">amod</a></tt> (13; 0% instances), <tt><a href="id_gsd-dep-fixed.html">fixed</a></tt> (10; 0% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="id_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 0% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="id_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 13 different relations: <tt><a href="id_gsd-dep-det.html">det</a></tt> (3553; 98% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (30; 1% instances), <tt><a href="id_gsd-dep-amod.html">amod</a></tt> (13; 0% instances), <tt><a href="id_gsd-dep-fixed.html">fixed</a></tt> (10; 0% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (7; 0% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="id_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 0% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="id_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2892; 80% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (282; 8% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (200; 6% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (125; 3% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (67; 2% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2892; 80% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (284; 8% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (204; 6% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (125; 3% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (67; 2% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-3541 (98%) `DET` nodes are leaves.
+3550 (98%) `DET` nodes are leaves.
 
 66 (2%) `DET` nodes have one child.
 

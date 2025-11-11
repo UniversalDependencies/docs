@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (1393; 30% of non-empty `Person`): <em>held, þakka, eigum, þurfum, tel, veit, hef, verðum, tek, verð</em>
 * `2` (42; 1% of non-empty `Person`): <em>Gripið, samanber, fyrirgefið, Afsaka, Munið, Vitið, aflar, athugið, bið, eyðir</em>
 * `3` (3267; 69% of non-empty `Person`): <em>hringir, kemur, á, finnst, þarf, verður, sagði, verði, segir, kom</em>
-* `EMPTY` (4593): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
+* `EMPTY` (4594): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -117,7 +117,7 @@ The most frequent other feature values with which `ADV` and `Person` co-occurred
 `ADV` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>lýtur</em>
-* `EMPTY` (6959): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+* `EMPTY` (6958): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
 
 ### `X`
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (347; 51%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (348; 51%),
 <tt>PRON --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> VERB</tt> (4; 57%),
 <tt>AUX --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),

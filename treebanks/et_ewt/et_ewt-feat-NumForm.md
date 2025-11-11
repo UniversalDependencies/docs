@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-1677 tokens (2%) have a non-empty value of `NumForm`.
-551 types (3%) occur at least once with a non-empty value of `NumForm`.
+1679 tokens (2%) have a non-empty value of `NumForm`.
+552 types (3%) occur at least once with a non-empty value of `NumForm`.
 420 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1399; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (275; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (1399; 2% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (277; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -37,15 +37,15 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 ### `ADJ`
 
-275 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumForm`.
+277 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (270; 98%).
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (277; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (277; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (277; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (272; 98%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (139; 50%).
 
 `ADJ` tokens may have the following values of `NumForm`:
 
 * `Digit` (138; 50% of non-empty `NumForm`): <em>3., 27., 1., 2., 29., 5., 8., 9., 15., 18.</em>
 * `Roman` (9; 3% of non-empty `NumForm`): <em>II, I, I-ne, II-st</em>
-* `Word` (128; 47% of non-empty `NumForm`): <em>esimene, esimese, esimest, teine, teises, teist, esimeses, esimesel, teisele, esimesed</em>
+* `Word` (130; 47% of non-empty `NumForm`): <em>esimene, esimese, esimest, teine, teises, teist, esimeses, esimesel, teisele, esimesed</em>
 
 <table>
   <tr><th>Paradigm <i>1</i></th><th><tt>Digit</tt></th><th><tt>Word</tt></th></tr>

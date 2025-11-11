@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `SCONJ`
 
 There are 2 `SCONJ` lemmas (2%), 2 `SCONJ` types (2%) and 3 `SCONJ` tokens (2%).
-Out of 11 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 11 in number of tokens.
+Out of 13 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ka, nakai</em>
 
@@ -34,7 +34,7 @@ The 2nd highest number of forms (1) was observed with the lemma “nakai”: <em
 
 `SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ltg_cairo-dep-mark.html">mark</a></tt> (2; 67% instances), <tt><a href="ltg_cairo-dep-fixed.html">fixed</a></tt> (1; 33% instances)
 
-Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 33% instances)
+Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="ltg_cairo-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (1; 33% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 33% instances)
 
 3 (100%) `SCONJ` nodes are leaves.
 

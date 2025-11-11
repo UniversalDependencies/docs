@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>amor</em> (<tt><a href="la_udante-pos
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.021127 (the average of all parts of speech is 2.129719).
+The form / lemma ratio of `X` is 1.021127 (the average of all parts of speech is 2.130133).
 
 The 1st highest number of forms (3) was observed with the lemma “l”: <em>'l, l, l'</em>.
 
@@ -71,15 +71,15 @@ Examples: <em>che, amor, per, lo, de, amore, non, donna, sì, d'</em>
 
 ## Relations
 
-`X` nodes are attached to their parents using 11 different relations: <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt> (365; 71% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (51; 10% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (32; 6% instances), <tt><a href="la_udante-dep-obj.html">obj</a></tt> (20; 4% instances), <tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt> (17; 3% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (10; 2% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (7; 1% instances), <tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-flat.html">flat</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-nmod.html">nmod</a></tt> (2; 0% instances)
+`X` nodes are attached to their parents using 11 different relations: <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt> (365; 71% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (51; 10% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (32; 6% instances), <tt><a href="la_udante-dep-obj.html">obj</a></tt> (20; 4% instances), <tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt> (17; 3% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (10; 2% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-flat.html">flat</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="la_udante-dep-appos.html">appos</a></tt> (2; 0% instances)
 
-Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="la_udante-pos-X.html">X</a></tt> (406; 79% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (45; 9% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (23; 4% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (16; 3% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (8; 2% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (3; 1% instances)
+Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="la_udante-pos-X.html">X</a></tt> (406; 79% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (44; 9% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (23; 4% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (16; 3% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (12; 2% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (8; 2% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (3; 1% instances)
 
 371 (72%) `X` nodes are leaves.
 
-55 (11%) `X` nodes have one child.
+54 (11%) `X` nodes have one child.
 
-10 (2%) `X` nodes have two children.
+11 (2%) `X` nodes have two children.
 
 76 (15%) `X` nodes have three or more children.
 

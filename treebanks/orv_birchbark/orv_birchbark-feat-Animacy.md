@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (3; 100% of non-empty `Animacy`): <em>(с)[н҃а], сиротокъ, хрѣстьꙗнъ</em>
-* `EMPTY` (4862): <em>ржи, поклонъ, гн҃е, поклоно, кѹно, покланѧние, соли, кѹнъ, грамота, жита</em>
+* `EMPTY` (4970): <em>ржи, поклонъ, поклоно, гн҃е, кѹно, покланѧние, соли, грамота, кѹнъ, жита</em>
 
 ### `DET`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 `DET` tokens may have the following values of `Animacy`:
 
 * `Anim` (2; 100% of non-empty `Animacy`): <em>моего, моӏхъ</em>
-* `EMPTY` (720): <em>то, своѥму, того, томъ, мои, моѧ, свои, свою, твои, мою</em>
+* `EMPTY` (737): <em>то, своѥму, томъ, того, мои, моѧ, свои, свою, томо, твои</em>
 
 ### `PROPN`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 `PROPN` tokens may have the following values of `Animacy`:
 
 * `Anim` (2; 100% of non-empty `Animacy`): <em>глѧденцевъ, зуба</em>
-* `EMPTY` (2763): <em>ивана, петра, бориса, евана, мариѧ, степана, павла, смена, завида, лѹкѣ</em>
+* `EMPTY` (2841): <em>ивана, петра, бориса, евана, мариѧ, павла, степана, смена, завида, лѹкѣ</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 `ADJ` tokens may have the following values of `Animacy`:
 
 * `Anim` (1; 100% of non-empty `Animacy`): <em>смирного</em>
-* `EMPTY` (939): <em>добро, проста, велика, ст҃ѣ, гнѣд, добра, здорово, пѧта, ст҃го, трьтиѧ</em>
+* `EMPTY` (951): <em>добро, проста, велика, ст҃го, ст҃ѣ, гнѣд, добра, здорово, пѧта, трьтиѧ</em>
 
 ## Relations with Agreement in `Animacy`
 

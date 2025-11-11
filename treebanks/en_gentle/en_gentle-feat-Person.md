@@ -30,8 +30,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 <table>
   <tr><th>Paradigm <i>I</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>me</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>I, me</em></td><td><em>PI</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="en_gentle-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>Ii</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>I, me</em></td><td><em>Ii, PI</em></td></tr>
 </table>
 
 ### `VERB`
@@ -73,8 +72,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>be</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td><td><em>was</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gentle-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>s</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'m, am</em></td><td><em>are, 're, ’re</em></td><td><em>is, 's</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'m, am</em></td><td><em>are, 're, ’re</em></td><td><em>is, 's, s</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gentle-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>art</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>were, was</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'re, are, ’re</em></td><td><em>'re, are</em></td><td><em>are, 're, Were, is</em></td></tr>

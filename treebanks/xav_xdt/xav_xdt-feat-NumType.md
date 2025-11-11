@@ -23,5 +23,5 @@ The most frequent other feature values with which `PART` and `NumType` co-occurr
 `PART` tokens may have the following values of `NumType`:
 
 * `Dist` (1; 100% of non-empty `NumType`): <em>mono</em>
-* `EMPTY` (320): <em>za'ra, hã, e, ma, za, õ, norĩ, tô, norĩhã, aba</em>
+* `EMPTY` (321): <em>hã, za'ra, e, ma, za, õ, norĩ, tô, aba, norĩhã</em>
 

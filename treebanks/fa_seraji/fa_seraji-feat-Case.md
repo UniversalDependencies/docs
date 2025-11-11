@@ -22,7 +22,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fa_seraji-pos-ADV.h
 
 * `Loc` (167; 15% of non-empty `Case`): بالا، اینجا، آنجا، پیش، بیرون، پایین، آن‌جا، زیر
 * `Tem` (941; 85% of non-empty `Case`): بعد، پس، پیش، حالا، امروز، قبل، اکنون، کنون، همیشه، دیروز
-* `EMPTY` (2777): خیلی، نه، حتی، بسیار، مثل، البته، چنین، چرا، چه، فقط
+* `EMPTY` (2778): خیلی، نه، حتی، بسیار، مثل، البته، چنین، چرا، چه، فقط
 
 <table>
   <tr><th>Paradigm <i>پیش</i></th><th><tt>Loc</tt></th><th><tt>Tem</tt></th></tr>
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Voc` (4; 100% of non-empty `Case`): پروردگارا، الهی، حافظا
-* `EMPTY` (57574): ایران، سال، مردم، کشور، روز، کار، قرار، دست، انقلاب، تهران
+* `EMPTY` (57575): ایران، سال، مردم، کشور، روز، کار، قرار، دست، انقلاب، تهران
 
 ## Relations with Agreement in `Case`
 

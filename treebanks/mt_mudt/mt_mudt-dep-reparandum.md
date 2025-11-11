@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 3	JOE	_	PROPN	NOUN_PROP	_	1	flat:name	_	_
 4	MIZZI	_	PROPN	NOUN_PROP	_	1	flat:name	_	SpaceAfter=No
 5	:	_	PUNCT	X_PUN	_	1	punct	_	_
-6	Filwaqt	_	SCONJ	CONJ_SUB	_	10	mark	_	_
+6	Filwaqt	_	SCONJ	CONJ_SUB	ExtPos=SCONJ	10	mark	_	_
 7	li	_	SCONJ	COMP	_	6	fixed	_	_
 8	l-	_	DET	DEF	_	9	det	_	SpaceAfter=No
 9	mistoqsijiet	_	NOUN	NOUN	_	10	nsubj	_	_

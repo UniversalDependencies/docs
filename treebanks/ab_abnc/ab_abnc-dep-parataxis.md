@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-58 nodes (1%) are attached to their parents as `parataxis`.
+77 nodes (1%) are attached to their parents as `parataxis`.
 
-53 instances of `parataxis` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.93103448275862.
+74 instances of `parataxis` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.22077922077922.
 
-The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (49; 84% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (66; 86% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 6	злаӡамыз	а́-лазаара	VERB	V_Stat_NonFin_Impf_Neg_Emph_S:3_S:Ad_LO:Rel_Rel	Dyn=No|Person[lo]=Rel|Person[subj]=3|Polarity=Neg|Tense=Imp|VerbForm=NonFin	7	acl:relcl	_	LMSeg:а́-ла-заа-ра
 7	аӡәы	аӡәы́	PRON	Pron_Indef_H_Sg	Animacy=Hum|Number=Sing|PronType=Ind	9	advcl	_	LMSeg:аӡәы́
 8	шиакәыз	а́кәзаара	AUX	V_Stat_NonFin_Cnv_Impf_How_S:3_IO:3SgM_Cop	Dyn=No|Gender[io]=Masc|Number[io]=Sing|Person[io]=3|Person[subj]=3|RelType=Mnr|Tense=Imp|VerbForm=NonFin	7	cop	_	LMSeg:а́кә-заа-ра
-9	ҩашьомызт	а-ҩа́шьара	VERB	V_Dyn_Intr_Fin_Impf_Neg_S:3_S:Ad	Dyn=Yes|Person[subj]=3|Polarity=Neg|Subcat=Intr|Tense=Imp|VerbForm=Fin	1	parataxis	_	LMSeg:а-ҩа́шьа-ра|SpaceAfter=No
+9	ҩашьомызт	а-ҩа́шьара	VERB	V_Dyn_Intr_Fin_Impf_Neg_S:3_S:Ad	Dyn=Yes|Mood=Ind|Person[subj]=3|Polarity=Neg|Subcat=Intr|Tense=Imp|VerbForm=Fin	1	parataxis	_	LMSeg:а-ҩа́шьа-ра|SpaceAfter=No
 10	.	.	PUNCT	Punct_Period	_	9	punct	_	LMSeg:.
 
 ~~~
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	?	?	PUNCT	Punct_IntMark	_	2	punct	_	LMSeg:?
 4	–	–	PUNCT	Punct_Dash	_	6	punct	_	LMSeg:–
 5	ашырҳәа	а́шырҳәа	ADV	Adv	_	6	advmod	_	LMSeg:а́шырҳәа
-6	даасҿаҧшит	а-ҿаҧшра́	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3SgH_LO:1Sg	Dyn=Yes|Gender[subj]=Com|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=1|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	2	parataxis	_	LMSeg:а-ҿа·ҧш-ра́|SpaceAfter=No
+6	даасҿаҧшит	а-ҿаҧшра́	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3SgH_LO:1Sg	Dyn=Yes|Gender[subj]=Com|Mood=Ind|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=1|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	2	parataxis	_	LMSeg:а-ҿа·ҧш-ра́|SpaceAfter=No
 7	.	.	PUNCT	Punct_Period	_	6	punct	_	LMSeg:.
 
 ~~~
@@ -59,12 +59,13 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 parataxis	color:blue
-1	Аха	аха́	CCONJ	Cj_Coord	_	2	cc	_	LMSeg:аха́
-2	инаҧшызар	а́-наҧшра	VERB	V_Dyn_Intr_NonFin_Aor_Conj-I_S:3	Dyn=Yes|Mood=Cnd|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=NonFin	0	root	_	LMSeg:а́-на·ҧш-ра
-3	–	–	PUNCT	Punct_Dash	_	2	punct	_	LMSeg:–
-4	абар	аба́р	ADV	Adv	_	5	advmod	_	LMSeg:аба́р
-5	акаамеҭ	а-кааме́ҭ	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	2	parataxis	_	LMSeg:а-кааме́ҭ|SpaceAfter=No
-6	!	!	PUNCT	Punct_ExclPoint	_	5	punct	_	LMSeg:!
+1	Агәра	а-гәра́	NOUN	Noun_NH_Sg_Poss:3SgNH	Animacy=Nhum|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	LMSeg:а-гәра́
+2	игеит	а-гара́	VERB	V_Dyn_Tr_Fin_Aor_S:3SgM_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-га-ра́
+3	–	–	PUNCT	Punct_Dash	_	5	punct	_	LMSeg:–
+4	Ахра	Ахра	PROPN	Noun_Prop_Anthr_M	NameType=Prs	5	nmod:poss	_	LMSeg:Ахра
+5	ибжьы	а-бжьы́	NOUN	Noun_NH_Sg_Poss:3SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	parataxis	_	LMSeg:а-бжьы́
+6	акәын	а́кәзаара	AUX	V_Stat_Fin_Impf_S:3_IO:3SgNH_Cop	Dyn=No|Gender[io]=Neut|Mood=Ind|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	5	cop	_	LMSeg:а́кә-заа-ра|SpaceAfter=No
+7	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
 
 ~~~
 

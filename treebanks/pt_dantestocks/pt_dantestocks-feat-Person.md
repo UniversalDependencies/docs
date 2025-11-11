@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-6301 tokens (8%) have a non-empty value of `Person`.
-1442 types (13%) occur at least once with a non-empty value of `Person`.
-510 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (4507; 6% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (1243; 2% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (551; 1% instances).
+6302 tokens (8%) have a non-empty value of `Person`.
+1443 types (13%) occur at least once with a non-empty value of `Person`.
+511 lemmas (6%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (4507; 6% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (1243; 2% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (552; 1% instances).
 
 ### `VERB`
 
 4507 <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pt_dantestocks-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4484; 99%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4030; 89%), <tt><a href="pt_dantestocks-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3300; 73%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pt_dantestocks-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4483; 99%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4030; 89%), <tt><a href="pt_dantestocks-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3300; 73%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -77,18 +77,18 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-551 <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Person`.
+552 <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (450; 82%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (399; 72%), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (360; 65%), <tt><a href="pt_dantestocks-feat-Case.html">Case</a></tt><tt>=Nom</tt> (359; 65%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (451; 82%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (399; 72%), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (361; 65%), <tt><a href="pt_dantestocks-feat-Case.html">Case</a></tt><tt>=Nom</tt> (360; 65%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (149; 27% of non-empty `Person`): <em>eu, me, nos, mim, nossa, nosso, minha, nóis, nós</em>
-* `2` (91; 17% of non-empty `Person`): <em>vc, você, te, vcs, vocês, tú, voces, ocê, ti</em>
-* `3` (311; 56% of non-empty `Person`): <em>se, o, ela, ele, a, eles, lhe, os, la, elas</em>
-* `EMPTY` (748): <em>que, quem, isso, q, o, nada, a, tudo, qual, alguém</em>
+* `2` (91; 16% of non-empty `Person`): <em>vc, você, te, vcs, vocês, tú, voces, ocê, ti</em>
+* `3` (312; 57% of non-empty `Person`): <em>se, o, ela, ele, a, eles, lhe, os, la, elas</em>
+* `EMPTY` (747): <em>que, quem, isso, q, o, nada, a, tudo, qual, alguém</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
@@ -96,7 +96,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (567; 64%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-conj.html">conj</a></tt>]--> VERB</tt> (313; 64%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (306; 59%),
-<tt>VERB --[<tt><a href="pt_dantestocks-dep-expl.html">expl</a></tt>]--> PRON</tt> (84; 70%),
+<tt>VERB --[<tt><a href="pt_dantestocks-dep-expl.html">expl</a></tt>]--> PRON</tt> (85; 71%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-discourse.html">discourse</a></tt>]--> AUX</tt> (28; 65%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-ccomp-speech.html">ccomp:speech</a></tt>]--> VERB</tt> (14; 64%),
 <tt>AUX --[<tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 83%),

@@ -68,12 +68,12 @@ The 2nd highest number of forms (1) was observed with the lemma “and”: and.
 
 The 3rd highest number of forms (1) was observed with the lemma “אבל”: אבל.
 
-`CCONJ` occurs with 1 features: <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`CCONJ` occurs with 2 features: <tt><a href="he_iahltwiki-feat-ExtPos.html">ExtPos</a></tt> (11; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+`CCONJ` occurs with 3 feature-value pairs: `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Typo=Yes`
 
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (4706 tokens).
+`CCONJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (4695 tokens).
 Examples: ו, או, אך, אולם, אלא, אבל, אף, אילו, וַ, למשל
 
 

@@ -30,10 +30,10 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 5	Гришлӧн	Гриш	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	4	flat	_	GTtags=Prop,Sem/Mal,Sg,Gen
 6	батьыс	бать	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	appos	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	6	punct	_	_
-8	дас	дас·кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom
-9	кык	_	NUM	Num	_	8	flat	_	_
+8	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom
+9	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	flat	_	_
 10	арӧсӧн	арӧс	NOUN	N	Case=Ins|Number=Sing	11	obl	_	GTtags=Sg,Ins
-11	заводитіс	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+11	заводитіс	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 12	вӧрын	вӧр	NOUN	N	Case=Ine|Number=Sing	13	obl	_	GTtags=Sg,Ine
 13	келавны	келавны	VERB	V	VerbForm=Inf	11	xcomp	_	GTtags=IV,Inf|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	11	punct	_	_
@@ -54,10 +54,10 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 5	Гришлӧн	Гриш	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	4	flat	_	GTtags=Prop,Sem/Mal,Sg,Gen
 6	батьыс	бать	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	appos	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	6	punct	_	_
-8	дас	дас·кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom
-9	кык	_	NUM	Num	_	8	flat	_	_
+8	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom
+9	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	8	flat	_	_
 10	арӧсӧн	арӧс	NOUN	N	Case=Ins|Number=Sing	11	obl	_	GTtags=Sg,Ins
-11	заводитіс	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+11	заводитіс	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 12	вӧрын	вӧр	NOUN	N	Case=Ine|Number=Sing	13	obl	_	GTtags=Sg,Ine
 13	келавны	келавны	VERB	V	VerbForm=Inf	11	xcomp	_	GTtags=IV,Inf|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	11	punct	_	_

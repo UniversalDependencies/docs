@@ -18,8 +18,6 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-VERB.htm
 
 2395 <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2395; 100%).
-
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (1891; 79% of non-empty `Voice`): <em>menjadi, ada, memiliki, membuat, mulai, mengatakan, merupakan, ujar, mendapatkan, bekerja</em>

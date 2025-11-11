@@ -54,7 +54,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>enterrar, queda, mató</em>
-* `EMPTY` (41895): <em>fer, té, ha, fa, fet, dir, tenir, donar, arribar, explicat</em>
+* `EMPTY` (41893): <em>fer, té, ha, fa, fet, dir, tenir, donar, arribar, explicat</em>
 
 ### `PRON`
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>es</em>
-* `EMPTY` (22051): <em>va, ha, és, van, han, ser, estat, són, està, havia</em>
+* `EMPTY` (22053): <em>va, ha, és, van, han, ser, estat, són, està, havia</em>
 
 ### `CCONJ`
 

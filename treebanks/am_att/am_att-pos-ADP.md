@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Amharic-ATT: POS Tags: `ADP`
 
-There are 37 `ADP` lemmas (2%), 37 `ADP` types (2%) and 681 `ADP` tokens (7%).
+There are 36 `ADP` lemmas (2%), 36 `ADP` types (2%) and 680 `ADP` tokens (7%).
 Out of 16 observed tags, the rank of `ADP` is: 5 in number of lemmas, 6 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: በ, ለ, የ, ከ, ወደ, ብ, ል, ላይ, እንደ, ጋር
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  በ (<tt><a href="am_att-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.029841).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.029860).
 
 The 1st highest number of forms (1) was observed with the lemma “ሁሉ”: ሁሉ.
 
@@ -72,23 +72,17 @@ The 3rd highest number of forms (1) was observed with the lemma “ላይ”: �
 `ADP` occurs with 5 feature-value pairs: `Case=Abl`, `Case=Ben`, `Case=Ins`, `Case=Loc`, `Case=Mal`
 
 `ADP` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (567 tokens).
+The most frequent feature combination is `_` (566 tokens).
 Examples: በ, የ, ለ, ከ, ወደ, ላይ, እንደ, ጋር, ብ, እስከ
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="am_att-dep-case.html">case</a></tt> (542; 80% instances), <tt><a href="am_att-dep-mark.html">mark</a></tt> (133; 20% instances), <tt><a href="am_att-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="am_att-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="am_att-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="am_att-dep-case.html">case</a></tt> (542; 80% instances), <tt><a href="am_att-dep-mark.html">mark</a></tt> (133; 20% instances), <tt><a href="am_att-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="am_att-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (350; 51% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (221; 32% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (42; 6% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (37; 5% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (350; 51% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (221; 33% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (42; 6% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (37; 5% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 680 (100%) `ADP` nodes are leaves.
 
-1 (0%) `ADP` nodes have one child.
-
-The highest child degree of a `ADP` node is 1.
-
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="am_att-dep-fixed.html">fixed</a></tt> (1; 100% instances)
-
-Children of `ADP` nodes belong to 1 different parts of speech: <tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 100% instances)
+The highest child degree of a `ADP` node is 0.
 

@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (1%) are attached to their parents as `appos`.
+1 nodes (0%) are attached to their parents as `appos`.
 
 1 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.
@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 appos	color:blue
-1	Essă	ella	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	criscettĕ	crescere	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Essă	essă	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	criscettĕ	créscĕ	VERB	_	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	_	_	4	case	_	_
-4	Ppariggĕ	Parigi	PROPN	Gender=Masc|Number=Sing	_	2	obl	_	SpaceAfter=No
+4	Ppariggĕ	Ppariggĕ	PROPN	Gender=Masc|Number=Sing	_	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	'a	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	capitalĕ	capitale	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
-8	francesĕ	francese	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+6	'a	'o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	capitalĕ	capitalĕ	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+8	francesĕ	francesĕ	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

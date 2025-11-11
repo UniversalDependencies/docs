@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.909091 (the average of all parts of speech is 2.180820).
+The form / lemma ratio of `PUNCT` is 0.909091 (the average of all parts of speech is 2.180703).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>,, ., -, ", :, (, ), ?, ', /</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="cs_cac-dep-punct.html">punct</a></tt> (60208; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (31620; 53% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (14509; 24% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (9164; 15% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1596; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1391; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (602; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (368; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (334; 1% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (253; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (247; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (77; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (31631; 53% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (14484; 24% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (9165; 15% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1602; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1391; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (605; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (366; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (335; 1% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (255; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (247; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (75; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances)
 
 60208 (100%) `PUNCT` nodes are leaves.
 

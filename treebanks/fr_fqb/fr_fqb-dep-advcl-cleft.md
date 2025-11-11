@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="fr_fqb-dep-advcl.ht
 17 nodes (0%) are attached to their parents as `advcl:cleft`.
 
 17 instances of `advcl:cleft` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.29411764705882.
+Average distance between parent and child is 5.23529411764706.
 
 The following 2 pairs of parts of speech are connected with `advcl:cleft`: <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (16; 94% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 # visual-style 1 7 advcl:cleft	color:blue
 1	Qu'	que	PRON	_	PronType=Int	0	root	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	-ce	ce	PRON	_	_	1	nsubj	_	_
+3	-ce	ce	PRON	_	PronType=Dem	1	nsubj	_	_
 4	que	que	PRON	_	PronType=Rel	7	obj	_	_
 5	Chostakovitch	Chostakovitch	PROPN	_	_	7	nsubj	_	_
 6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 # visual-style 1 6 advcl:cleft	color:blue
 1	Qu'	que	PRON	_	PronType=Int	0	root	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	-ce	ce	PRON	_	_	1	nsubj	_	_
+3	-ce	ce	PRON	_	PronType=Dem	1	nsubj	_	_
 4	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	_
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	responsable	responsable	NOUN	_	Number=Sing	1	advcl:cleft	_	_

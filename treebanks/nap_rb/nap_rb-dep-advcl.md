@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (1%) are attached to their parents as `advcl`.
+1 nodes (0%) are attached to their parents as `advcl`.
 
 1 instances of `advcl` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.
@@ -22,18 +22,18 @@ The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 10 advcl	color:blue
-1	Nun	non	ADV	_	Polarity=Neg	4	advmod	_	_
-2	cĕ	ci	PRON	_	_	4	expl	_	_
+1	Nun	nun	ADV	_	Polarity=Neg	4	advmod	_	_
+2	cĕ	cĕ	PRON	_	PronType=Dem	4	expl	_	_
 3	so	essĕ	AUX	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	riuscitŏ	riuscire	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+4	riuscitŏ	riuscì	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
 5	a	a	ADP	_	_	6	mark	_	_
-6	stà	stare	VERB	_	VerbForm=Inf	4	xcomp	_	_
-7	arretĕ	dietro	ADV	_	_	6	advmod	_	_
-8	pĕcché	perché	SCONJ	_	_	10	mark	_	_
-9	issŏ	egli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-10	currevĕ	correre	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
-11	assajĕ	assai	ADV	_	Degree=Cmp	12	advmod	_	_
-12	velocĕ	veloce	ADJ	_	Gender=Masc|Number=Sing	10	advmod	_	SpaceAfter=No
+6	stà	stà	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	arretĕ	arretĕ	ADV	_	_	6	advmod	_	_
+8	pĕcché	pĕcché	SCONJ	_	_	10	mark	_	_
+9	issŏ	issŏ	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	currevĕ	corrĕ	VERB	_	Mood=Ind|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
+11	assajĕ	assajĕ	ADV	_	Degree=Cmp	12	advmod	_	_
+12	velocĕ	velocĕ	ADJ	_	Gender=Masc|Number=Sing	10	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

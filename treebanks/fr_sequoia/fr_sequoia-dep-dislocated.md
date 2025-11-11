@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
 3	-ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	1	nsubj	_	_
 4	que	que	SCONJ	_	_	5	case	_	_
-5	Angiox	Angiox	PROPN	_	_	1	dislocated	_	_
+5	Angiox	Angiox	PROPN	_	_	1	dislocated	_	Gender[lex]=Unknown
 6	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -40,7 +40,7 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 9 1 dislocated	color:blue
 1	Ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	9	dislocated	_	_
 2	que	que	PRON	_	PronType=Rel	4	obj	_	_
-3	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+3	nous	nous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
 4	voulons	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
 5	surtout	surtout	ADV	_	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_
@@ -48,7 +48,7 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 9	économiser	économiser	VERB	_	VerbForm=Inf	0	root	_	_
 10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	combustibles	combustible	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+11	combustibles	combustible	NOUN	_	Number=Plur	9	obj	_	Gender[lex]=Masc
 12	fossiles	fossile	ADJ	_	Number=Plur	11	amod	_	Gender[ctxt]=Masc|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -67,9 +67,9 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
 5	enfants	enfant	NOUN	_	Number=Plur	3	obj:agent	_	_
 6	à	à	ADP	_	ExtPos=ADP	9	case	_	Idiom=Yes
-7	travers	travers	NOUN	_	Gender=Masc	6	fixed	_	InIdiom=Yes
+7	travers	travers	NOUN	_	_	6	fixed	_	Gender[lex]=Masc|InIdiom=Yes
 8	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
-9	activité	activité	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	SpaceAfter=No
+9	activité	activité	NOUN	_	Number=Sing	3	obl:mod	_	Gender[lex]=Fem|SpaceAfter=No
 10	,	,	PUNCT	_	_	3	punct	_	_
 11	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	13	nsubj	_	SpaceAfter=No
 12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_

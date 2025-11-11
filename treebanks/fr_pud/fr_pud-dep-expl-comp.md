@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: Relations: `expl:comp`
 
 This relation is a language-specific subtype of .
-There are also 1 other language-specific subtypes of `expl`: <tt><a href="fr_pud-dep-expl-subj.html">expl:subj</a></tt>.
+There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_pud-dep-expl-pv.html">expl:pv</a></tt>, <tt><a href="fr_pud-dep-expl-subj.html">expl:subj</a></tt>.
 
 28 nodes (0%) are attached to their parents as `expl:comp`.
 

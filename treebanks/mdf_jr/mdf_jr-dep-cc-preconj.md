@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	кати	кати	ADV	Adv	_	7	cc	_	_
 6	вишкста	вишкста	ADV	Adv	AdvType=Man|Case=Ela	7	advmod	_	_
 7	ардомась	ардомс	VERB	V	Case=Nom|Definite=Def|Number=Sing|VerbForm=Vnoun	3	conj	_	GTtags=IV,Der/NomAct,Sg,Nom,Def
-8	сизефтезе	сизефтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
+8	сизефтезе	сизефтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 9	Малининонь	Малинин	NOUN	N	Case=Gen|Definite=Ind|NameType=Sur|Number=Plur,Sing	8	obj	_	GTtags=Prop,Sem/Sur-Mal,SP,Gen,Indef|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	8	punct	_	_
 
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 1	Ня	ня	DET	Det	Number=Plur|PronType=Dem	3	det	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=Dem,Pl
 2	колма	колма	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	3	nummod	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=Card,Sg,Nom,Indef
 3	стирнятне	стирня	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	CGdephead=#3-&gt;4|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,Def
-4	кельгсазь	кельгомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=TV,Ind,Prs,ScPl3,OcPl3
+4	кельгсазь	кельгомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=TV,Ind,Prs,ScPl3,OcPl3
 5	аф	аф	AUX	V	ExtPos=CCONJ|Polarity=Neg|VerbType=Aux	7	cc:preconj	_	CGdephead=#5-&gt;5|CGdeprel=@-F&lt;AUXV|GTtags=Aux,Neg
 6	аньцек	аньцек	ADV	Adv	_	5	fixed	_	CGdephead=#6-&gt;5|CGdeprel=@&lt;ADVL|GTtags=
 7	покодемаснон	покодемс	VERB	V	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3|VerbForm=Vnoun	4	obj	_	CGdephead=#7-&gt;5|CGdeprel=@IMV|GTtags=IV,NomAct,SP,Gen,PxPl3|SpaceAfter=No

@@ -11,32 +11,32 @@ It occurs with 1 different values: `Neg`.
 
 1241 tokens (1%) have a non-empty value of `Polarity`.
 267 types (2%) occur at least once with a non-empty value of `Polarity`.
-55 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
+78 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 4 part-of-speech tags: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (809; 1% instances), <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (223; 0% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (192; 0% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (17; 0% instances).
 
 ### `VERB`
 
 809 <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="fa_seraji-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (684; 85%), <tt><a href="fa_seraji-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (637; 79%), <tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt> (627; 78%), <tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 70%), <tt><a href="fa_seraji-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (535; 66%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="fa_seraji-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (684; 85%), <tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt> (627; 78%), <tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 70%), <tt><a href="fa_seraji-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (535; 66%), <tt><a href="fa_seraji-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (512; 63%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (809; 100% of non-empty `Polarity`): نیست، نداشته، ندارند، نکرده، نشده، نمی‌کند، نمی‌کنند، نمی‌دانستند، نیستم، نمی‌دانم
-* `EMPTY` (11843): کرد، گفت، شد، شده، می‌شود، دارد، می‌کند، کرده، کنند، است
+* `EMPTY` (11844): کرد، گفت، شد، شده، می‌شود، دارد، می‌کند، کرده، کنند، است
 
-`Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (38) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (59) occur only with one value of `Polarity`.
 
 ### `AUX`
 
 223 <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt> (146; 65%), <tt><a href="fa_seraji-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (135; 61%), <tt><a href="fa_seraji-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (112; 50%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="fa_seraji-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (151; 68%), <tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt> (146; 65%), <tt><a href="fa_seraji-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (112; 50%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (223; 100% of non-empty `Polarity`): نباید، نیستند، نخواهد، نباشد، نمی‌تواند، نمی‌توانند، نبوده، نباشند، نمی‌توانیم، نبودند
-* `EMPTY` (4805): است، بود، باید، خواهد، باشد، بودند، ست، باشند، بوده، شده
+* `EMPTY` (4804): است، بود، باید، خواهد، باشد، بودند، ست، باشند، بوده، شده
 
 ### `ADV`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (192; 100% of non-empty `Polarity`): نه، غیر، هرگز، دیگر، هیچ، خیر، هیچ‌گاه
-* `EMPTY` (3693): پس، خیلی، پیش، بعد، حتی، بسیار، مثل، البته، چنین، چرا
+* `EMPTY` (3694): پس، خیلی، پیش، بعد، حتی، بسیار، مثل، البته، چنین، چرا
 
 ### `ADJ`
 

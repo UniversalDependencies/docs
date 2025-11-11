@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `ccomp:iobj`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 3 ccomp:iobj	color:blue
 1	–	–	PUNCT	Punct_Dash	_	10	punct	_	LMSeg:–
-2	Аҩны	а-ҩны́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj:lo	_	LMSeg:а-ҩны́
+2	Аҩны	а-ҩны́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	iobj:lo	_	LMSeg:а-ҩны́
 3	иҩноу	а-ҩна́заара	VERB	V_Stat_NonFin_Pres_S:Rel_LO:3SgNH_Rel	Dyn=No|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=Rel|Tense=Pres|VerbForm=NonFin	5	ccomp:iobj	_	LMSeg:а-ҩна́-заа-ра
 4	цәыӡ	а-цәы́ӡ	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	5	nsubj	_	LMSeg:а-цәы́ӡ
 5	иоур	а́ура	VERB	V_Dyn_Intr_NonFin_Conj-I_S:3_S:Ad_IO:3SgM	Dyn=Yes|Gender[io]=Masc|Mood=Cnd|Number[io]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|VerbForm=NonFin	8	advcl:cond	_	LMSeg:а́у-ра|SpaceAfter=No

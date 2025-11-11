@@ -8,27 +8,28 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="arh_chibergis-dep-advcl.html">advcl</a></tt>.
 
-7 nodes (0%) are attached to their parents as `advcl:purp`.
+11 nodes (0%) are attached to their parents as `advcl:purp`.
 
-6 instances of `advcl:purp` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57142857142857.
+10 instances of `advcl:purp` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45454545454545.
 
-The following 1 pairs of parts of speech are connected with `advcl:purp`: <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (7; 100% instances).
+The following 1 pairs of parts of speech are connected with `advcl:purp`: <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (11; 100% instances).
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 advcl:purp	color:blue
-1	in'gwi	in'gwi	NUM	_	_	2	nummod	_	AlignBegin=16520|AlignEnd=17472|GE=one|Gloss=one|nWord=1|RX=[NUM]|TokenType=Root
-2	cheyrwa	cheyrwa	NOUN	_	Case=Abs	7	nsubj	_	AlignBegin=17472|AlignEnd=18424|GE=man|Gloss=man|nWord=2|RX=[N]|TokenType=Root
-3	keywʉ	keywʉ	PART	_	_	2	discourse	_	AlignBegin=18424|AlignEnd=19376|GE=soon|Gloss=soon|nWord=3|RX=[PRT]|TokenType=Root
-4	ʉnkʉnig	nik	AUX	_	_	7	obl:lmod	_	AlignBegin=19376|AlignEnd=20090|GE=do|Gloss=MIDAPPL1do|nWord=4|RX=[AUX]|TokenType=Root
-5	=ekʉ	_	ADP	_	_	4	mark	_	AlignBegin=20090|AlignEnd=20328|GE=[LOC]|Gloss==LOC|nWord=4|RX=[N]|TokenType=Clit
-6	ʉnkʉzatakʉn	tak	VERB	_	_	7	advcl:purp	_	AlignBegin=20328|AlignEnd=21280|GE=[IPFV]|Gloss=MIDAPPL1ZAtakeIPFV|nWord=5|RX=[VERB]|TokenType=InflAff
-7	zoyana	zoy	VERB	_	_	0	root	_	AlignBegin=21280|AlignEnd=22230|GE=[RMTPST]|Gloss=goRMTPST|nWord=6|RX=[VERB]|TokenType=InflAff
+# visual-style 6 4 advcl:purp	color:blue
+1	kakʉ	kakʉ	NOUN	_	_	6	nsubj	_	AlignBegin=80989|AlignEnd=81476|GE=father|Gloss=father|nWord=1|RX=[N]|TokenType=Root
+2	Serankwa	Serankwa	PROPN	_	_	1	flat	_	AlignBegin=81476|AlignEnd=81720|GE=[Serankwa]|Gloss=Serankwa|nWord=2|RX=[NPROP]|TokenType=Root
+3	=se'	=se'	ADP	_	Animacy=Anim|Case=Erg|Definite=Def	1	case	_	AgentShift=yes|AlignBegin=81720|AlignEnd=81963|GE=[ERG]|Gloss==ERG|nWord=2|RX=[POST]|ShiftType=partial|TokenType=Clit|Topic=no
+4	ʉnde'nisi	nik	VERB	_	_	6	advcl:purp	_	AlignBegin=81963|AlignEnd=82450|GE=while|Gloss=MIDREFLproduceCONV.SIM|nWord=3|RX=[VERB]|TokenType=InflAff
+5	ʉnzweyngwa	zoy	AUX	_	_	4	aux	_	AlignBegin=82450|AlignEnd=82937|GE=[FUT]|Gloss=MIDgoFUT|nWord=4|RX=[VERB]|TokenType=InflAff
+6	ʉnde'gawi	gaw	VERB	_	_	0	root	_	AlignBegin=82937|AlignEnd=83424|GE=while|Gloss=MIDREFLmakeCONV.SIM|nWord=5|RX=[VERB]|TokenType=InflAff
+7	ʉnzoya	zoy	AUX	_	_	6	aux	_	AlignBegin=83424|AlignEnd=83911|GE=go|Gloss=MIDgo|nWord=6|RX=[VI]|TokenType=Root
+8	,	_	PUNCT	_	_	6	punct	_	AlignBegin=83911|AlignEnd=84400|nWord=7|wordform=,.
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pt_porttinari-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="pt_porttinari-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-97 nodes (0%) are attached to their parents as `nsubj:outer`.
+68 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-97 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.77319587628866.
+68 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.63235294117647.
 
-The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (67; 69% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (14; 14% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (7; 7% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (44; 65% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (10; 15% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (5; 7% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -67,26 +67,24 @@ The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 1 nsubj:outer	color:blue
-1	Um	um	NUM	_	Gender=Masc|NumType=Card	8	nsubj:outer	8:nsubj:outer	_
-2	de	de	ADP	_	_	4	case	4:case	_
-3	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	4:det	_
-4	motivos	motivo	NOUN	_	Gender=Masc|Number=Plur	1	nmod	1:nmod:de	_
-5	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	8:cop	_
-6	Lucas	Lucas	PROPN	_	_	8	nsubj	8:nsubj|9:nsubj	_
-7	Pratto	Pratto	PROPN	_	_	6	flat:name	6:flat:name	_
-8	ficar	ficar	VERB	_	Number=Sing|Person=3|VerbForm=Inf	0	root	0:root	_
-9	responsável	responsável	ADJ	_	Number=Sing	8	xcomp	8:xcomp	_
-10	por	por	ADP	_	_	11	mark	11:mark	_
-11	puxar	puxar	VERB	_	VerbForm=Inf	9	acl	9:acl:por	_
-12	alguns	algum	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	11	obj	11:obj	_
-13	de	de	ADP	_	_	14	case	14:case	_
-14	eles	ele	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nmod	12:nmod:de	_
-15	.	.	PUNCT	_	_	8	punct	8:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 3 nsubj:outer	color:blue
+1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	_
+2	grande	grande	ADJ	_	Number=Sing	3	amod	3:amod	_
+3	diferença	diferença	NOUN	_	Gender=Fem|Number=Sing	12	nsubj:outer	12:nsubj:outer	_
+4	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+5	que	que	SCONJ	_	_	12	mark	12:mark	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	7:punct	_
+7	coletivamente	coletivamente	ADV	_	_	12	advmod	12:advmod	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	7:punct	_
+9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	10:det	_
+10	Argentina	Argentina	PROPN	_	_	12	nsubj	12:nsubj	_
+11	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+12	arrasada	arrasado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	0:root	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	12:punct	_
 
 ~~~
 

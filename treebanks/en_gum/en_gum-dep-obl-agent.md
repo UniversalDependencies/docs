@@ -12,9 +12,9 @@ There are also 1 other language-specific subtypes of `obl`: <tt><a href="en_gum-
 404 nodes (0%) are attached to their parents as `obl:agent`.
 
 404 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.75742574257426.
+Average distance between parent and child is 3.76237623762376.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (284; 70% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (100; 25% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (282; 70% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (102; 25% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 obl:agent	color:blue
-1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	3:nsubj:pass	Discourse=joint-sequence_m:77->76:1:lex-altlex-596-597|Entity=(51-abstract-giv:act-sssss-cf1*-1-ana)
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj:pass	3:nsubj:pass	Discourse=joint-sequence_m:77->76:1:lex-altlex-596-597-_|Entity=(51-abstract-giv:act-sssss-cf1*-1-ana)
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=follow-ed|PDTB=AltLex:Temporal.Asynchronous.Precedence:followed by:596-597:579-593:594-595,598-606
 4	by	by	ADP	IN	_	6	case	6:case	_
@@ -55,7 +55,7 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 7	,	,	PUNCT	,	_	8	punct	8:punct	_
 8	Dave	Dave	PROPN	NNP	Number=Sing	4	appos	4:appos	Entity=(12-person-giv:act-sssns-cf1-1-appos)|SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	13:punct	_
-10	and	and	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-list_m:14->13:0:dm-and-74|PDTB=Explicit:Expansion.Conjunction:and:74:65-73:75-80
+10	and	and	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-list_m:14->13:0:dm-and-74-_|PDTB=Explicit:Expansion.Conjunction:and:74:65-73:75-80
 11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj:pass	13:nsubj:pass	Entity=(12-person-giv:act-sssns-cf1-1-ana)
 12	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	_
 13	joined	join	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	4:conj:and	MSeg=join-ed
@@ -72,10 +72,10 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 obl:agent	color:blue
-1	Professor	Professor	PROPN	NNP	Number=Sing	2	nmod:desc	2:nmod:desc	Discourse=attribution-positive:89->90:0:sem-atsrc-772-773+lex-indwd-774|Entity=(50-person-giv:inact-nsssn-cf1-1,2-coref-Creswell_Eastman|MSeg=Profess-or
+1	Professor	Professor	PROPN	NNP	Number=Sing	2	nmod:desc	2:nmod:desc	Discourse=attribution-positive:89->90:0:sem-atsrc-772-773-_+lex-indwd-774-_|Entity=(50-person-giv:inact-nsssn-cf1-1,2-coref-Creswell_Eastman|MSeg=Profess-or
 2	Eastman	Eastman	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	Entity=50)
 3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	MSeg=sai-d
-4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	Discourse=evaluation-comment:90->91:4:lex-indwd-777|Entity=(50-person-giv:act-nsssn-cf1-1-ana-Creswell_Eastman)
+4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:pass	6:nsubj:pass	Discourse=evaluation-comment:90->91:4:lex-indwd-777-_|Entity=(50-person-giv:act-nsssn-cf1-1-ana-Creswell_Eastman)
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
 6	alarmed	alarm	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	ccomp	3:ccomp	MSeg=alarm-ed
 7	by	by	ADP	IN	_	8	case	8:case	_

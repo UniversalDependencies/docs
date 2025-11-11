@@ -43,11 +43,11 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 5928 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3944; 67%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3943; 67%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3909; 66%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5180; 87%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3944; 67%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3943; 67%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (5180; 87% of non-empty `VerbForm`): <em>was, had, would, is, can, could, were, will, are, have</em>
+* `Fin` (5180; 87% of non-empty `VerbForm`): <em>was, had, is, were, would, are, can, could, have, 's</em>
 * `Inf` (402; 7% of non-empty `VerbForm`): <em>be, have, do, get</em>
 * `Part` (346; 6% of non-empty `VerbForm`): <em>been, being, having, had</em>
 * `EMPTY` (4): <em>'re, 'd, can</em>
@@ -55,7 +55,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>be</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td><em>be</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>be, were</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am, 'm</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td><td></td></tr>
@@ -63,8 +63,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 're, 'm, Be</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Sub</tt></tt></td><td><em>be</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>been</em></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>being</em></td></tr>
 </table>
@@ -73,8 +71,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1278; 76%),
-<tt>VERB --[<tt><a href="en_lines-dep-obj.html">obj</a></tt>]--> VERB</tt> (16; 67%),
 <tt>VERB --[<tt><a href="en_lines-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (15; 54%),
+<tt>VERB --[<tt><a href="en_lines-dep-obj.html">obj</a></tt>]--> VERB</tt> (14; 78%),
 <tt>VERB --[<tt><a href="en_lines-dep-appos.html">appos</a></tt>]--> VERB</tt> (13; 65%),
 <tt>VERB --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 64%),
 <tt>VERB --[<tt><a href="en_lines-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (6; 75%),

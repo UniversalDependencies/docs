@@ -6,43 +6,52 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-ParTUT: POS Tags: `SYM`
 
-There are 2 `SYM` lemmas (0%), 2 `SYM` types (0%) and 44 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 16 in number of tokens.
+There are 4 `SYM` lemmas (0%), 4 `SYM` types (0%) and 55 `SYM` tokens (0%).
+Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 16 in number of types and 16 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>%, $</em>
+The 10 most frequent `SYM` lemmas: <em>%, $, -, –</em>
 
-The 10 most frequent `SYM` types:  <em>%, $</em>
+The 10 most frequent `SYM` types:  <em>%, $, -, –</em>
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 348, <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> 7, <tt><a href="en_partut-pos-X.html">X</a></tt> 1), <em>–</em> (<tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 97, <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> 4)
 
-The 10 most frequent ambiguous types:  
+The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 348, <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> 7, <tt><a href="en_partut-pos-X.html">X</a></tt> 1), <em>–</em> (<tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 97, <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> 4)
 
 
+* <em>-</em>
+  * <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 348: <em>Attribution <b>-</b> ShareAlike 2.0 .</em>
+  * <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> 7: <em>Balzac ( 20 May 1799 <b>-</b> 18 August 1850 ) was a French novelist and playwright .</em>
+  * <tt><a href="en_partut-pos-X.html">X</a></tt> 1: <em>and the extension of the content of the technical and operational back <b>-</b> up to administrative support for active investigations , with intermediation by Europol .</em>
+* <em>–</em>
+  * <tt><a href="en_partut-pos-PUNCT.html">PUNCT</a></tt> 97: <em>Nothing good would ever happen <b>–</b> and certainly not for the US .</em>
+  * <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> 4: <em>Shakespeare continued to visit London during the years 1611 <b>–</b> 1614 .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.200760).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.205397).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
 `SYM` does not occur with any features.
 
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 7 different relations: <tt><a href="en_partut-dep-obl.html">obl</a></tt> (19; 43% instances), <tt><a href="en_partut-dep-nmod.html">nmod</a></tt> (13; 30% instances), <tt><a href="en_partut-dep-obj.html">obj</a></tt> (5; 11% instances), <tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt> (3; 7% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="en_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 2% instances), <tt><a href="en_partut-dep-root.html">root</a></tt> (1; 2% instances)
+`SYM` nodes are attached to their parents using 8 different relations: <tt><a href="en_partut-dep-obl.html">obl</a></tt> (19; 35% instances), <tt><a href="en_partut-dep-nmod.html">nmod</a></tt> (13; 24% instances), <tt><a href="en_partut-dep-case.html">case</a></tt> (11; 20% instances), <tt><a href="en_partut-dep-obj.html">obj</a></tt> (5; 9% instances), <tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt> (3; 5% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (2; 4% instances), <tt><a href="en_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 2% instances), <tt><a href="en_partut-dep-root.html">root</a></tt> (1; 2% instances)
 
-Parents of `SYM` nodes belong to 5 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (27; 61% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (13; 30% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (1; 2% instances),  (1; 2% instances)
+Parents of `SYM` nodes belong to 6 different parts of speech: <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (27; 49% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (13; 24% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (11; 20% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (1; 2% instances),  (1; 2% instances)
 
-2 (5%) `SYM` nodes are leaves.
+13 (24%) `SYM` nodes are leaves.
 
-9 (20%) `SYM` nodes have one child.
+9 (16%) `SYM` nodes have one child.
 
-24 (55%) `SYM` nodes have two children.
+24 (44%) `SYM` nodes have two children.
 
-9 (20%) `SYM` nodes have three or more children.
+9 (16%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 7.
 

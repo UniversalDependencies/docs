@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Alessandro Lenci, Simonetta Montemagni, Maria Simi.
 
 Repository: [UD_Italian-ISDT](https://github.com/UniversalDependencies/UD_Italian-ISDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -112,7 +112,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 </ul>
 
 <ul>
-<li>This corpus contains 101 lemmas tagged as pronouns (PRON): I, Quanta, alcunché, alcuno, alii, altrettanto, altri, altro, ambedue, ce, che, chi, chiunque, ci, ciascuna, ciascuno, ciò, codesto, colei, coloro, colui, cos', cosa, costoro, costui, cui, diverso, dove, egli, ella, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, le, lei, li, lo, loro, lui, me, medesimo, meno, mezzo, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, numeroso, ognuna, ognuno, più, poco, proprio, qual, qualcheduno, qualcosa, qualcun, qualcuno, quale, quali, qualunque, quando, quanto, quegli, quello, questa, questi, questo, s', se, si, stesso, suo, sè, sé, tale, taluno, tanto, te, terzo, ti, tu, tuo, tutte, tutti, tutto, uno, vi, voi</li>
+<li>This corpus contains 100 lemmas tagged as pronouns (PRON): I, Quanta, alcunché, alcuno, alii, altrettanto, altri, altro, ambedue, ce, che, chi, chiunque, ci, ciascuna, ciascuno, ciò, codesto, colei, coloro, colui, cos', cosa, costoro, costui, cui, diverso, dove, egli, ella, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, le, lei, li, lo, loro, lui, me, medesimo, meno, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, numeroso, ognuna, ognuno, più, poco, proprio, qual, qualcheduno, qualcosa, qualcun, qualcuno, quale, quali, qualunque, quando, quanto, quegli, quello, questa, questi, questo, s', se, si, stesso, suo, sè, sé, tale, taluno, tanto, te, terzo, ti, tu, tuo, tutte, tutti, tutto, uno, vi, voi</li>
 </ul>
 
 <ul>
@@ -205,7 +205,6 @@ We wish to thank all of the contributors to the original annotation efforts, as 
       <li>NOUN: anni, presidente, anno, fondo, diritto, film, stato, proprietario, mondo, caso</li>
       <li>NOUN-Part: partiti, previsto</li>
       <li>PRON: lo, quello, uno, li, questo, gli, lui, tutto, ciò, tutti</li>
-      <li>VERB-Fin: chiamati</li>
       <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</li>
       <li>X: mixer</li>
     </ul>
@@ -343,7 +342,6 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>Imp
     <ul>
       <li>AUX-Fin: devi, dovete, sii</li>
-      <li>VERB: v., Nomina, Dimmi, Elenca, vedi, Dammi, andate, clicca, ricorda, usa</li>
       <li>VERB-Fin: v., Nomina, Dimmi, Elenca, vedi, Dammi, clicca, ricorda, usa, vai</li>
     </ul>
   </li>
@@ -602,17 +600,18 @@ We wish to thank all of the contributors to the original annotation efforts, as 
     <ul>
       <li>ADP
         <ul>
-          <li>ADP: su, che, tra, per, senza, A, tranne</li>
-          <li>ADV: prima, fino, insieme, davanti, oltre, vicino, intorno, fuori, attorno, come</li>
+          <li>ADP: su, che, in, tra, per, senza, A, tranne</li>
+          <li>ADV: prima, fino, insieme, davanti, oltre, vicino, intorno, come, fuori, attorno</li>
           <li>NOUN: grazie, rispetto, riguardo</li>
+          <li>SCONJ: come</li>
         </ul>
       </li>
       <li>ADV
         <ul>
           <li>ADJ: tutt'</li>
-          <li>ADP: in, di, da, a, salvo, D', fin</li>
-          <li>ADV: più, or, quanto, Così, Poco, anche, meno, oltre, piano, piuttosto</li>
-          <li>NOUN: man, Mano</li>
+          <li>ADP: di, da, a, salvo, fin, in</li>
+          <li>ADV: più, or, quanto, Così, Poco, meno, oltre, piano, piuttosto, prima</li>
+          <li>NOUN: Mano, man</li>
           <li>PRON: Ciò, Tutt', più</li>
           <li>SCONJ: se</li>
           <li>VERB-Fin: vale</li>
@@ -630,14 +629,15 @@ We wish to thank all of the contributors to the original annotation efforts, as 
       </li>
       <li>PRON
         <ul>
-          <li>ADP: di, da</li>
+          <li>ADP: da</li>
         </ul>
       </li>
       <li>SCONJ
         <ul>
-          <li>ADP: salvo, a, da, senza, di, per, su, tranne</li>
-          <li>ADV: anche, prima, dopo, fino, oltre, piuttosto, ecco, Tanto, come, così</li>
+          <li>ADP: salvo, in, a, da, senza, di, per, su, tranne, fin</li>
+          <li>ADV: anche, prima, dopo, fino, oltre, piuttosto, ecco, Tanto, come, eccetto</li>
           <li>INTJ: sì</li>
+          <li>NOUN: man</li>
           <li>SCONJ: se</li>
         </ul>
       </li>
@@ -690,13 +690,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3773)</li>
+      <li>VERB-Fin--NOUN (3772)</li>
       <li>VERB-Fin--PRON (1881)</li>
       <li>VERB-Ger--NOUN (46)</li>
       <li>VERB-Ger--PRON (21)</li>
       <li>VERB-Inf--NOUN (605)</li>
       <li>VERB-Inf--PRON (187)</li>
-      <li>VERB-Part--NOUN (1299)</li>
+      <li>VERB-Part--NOUN (1300)</li>
       <li>VERB-Part--NOUN-ADP(di) (1)</li>
       <li>VERB-Part--PRON (560)</li>
     </ul>
@@ -706,15 +706,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3541)</li>
+      <li>VERB-Fin--NOUN (3540)</li>
       <li>VERB-Fin--PRON (777)</li>
       <li>VERB-Ger--NOUN (361)</li>
       <li>VERB-Ger--PRON (53)</li>
       <li>VERB-Inf--NOUN (2877)</li>
       <li>VERB-Inf--NOUN-ADP(in) (1)</li>
-      <li>VERB-Inf--PRON (452)</li>
+      <li>VERB-Inf--PRON (453)</li>
       <li>VERB-Part--NOUN (1337)</li>
-      <li>VERB-Part--PRON (317)</li>
+      <li>VERB-Part--PRON (316)</li>
     </ul>
   </li>
 </ul>

@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Cnd`, `Imp`, `Ind`, `Opt`, `Pot`.
 
-24104 tokens (15%) have a non-empty value of `Mood`.
-6290 types (14%) occur at least once with a non-empty value of `Mood`.
+27122 tokens (17%) have a non-empty value of `Mood`.
+6357 types (15%) occur at least once with a non-empty value of `Mood`.
 1844 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (16940; 11% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (7164; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (17159; 11% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (9963; 6% instances).
 
 ### `VERB`
 
-16940 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Mood`.
+17159 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16940; 100%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (16940; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (16940; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (16940; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15275; 90%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11821; 70%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (10234; 60%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9112; 54%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17159; 100%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (17159; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (17159; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17159; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15494; 90%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12021; 70%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (10425; 61%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9112; 53%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (902; 5% of non-empty `Mood`): <em>olisi, tulisi, haluaisin, luulisi, saisi, tekisi, haluaisi, kannattaisi, uskoisi, kertoisi</em>
 * `Imp` (672; 4% of non-empty `Mood`): <em>ota, tule, anna, tulkaa, kerro, sano, vie, mene, tee, ole</em>
-* `Ind` (15278; 90% of non-empty `Mood`): <em>on, oli, ole, tulee, tuli, saa, sanoi, ovat, sai, sanoo</em>
+* `Ind` (15497; 90% of non-empty `Mood`): <em>on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</em>
 * `Opt` (3; 0% of non-empty `Mood`): <em>Kuullos, Nukkuos</em>
-* `Pot` (85; 1% of non-empty `Mood`): <em>hypänne, luvanne, lienee, Saanen, joutunee, ratkennee, valmistunee, kertone, liene, päätettäneen</em>
-* `EMPTY` (10386): <em>olla, ei, ollut, tehdä, mennä, tulla, saanut, saada, ottaa, lähteä</em>
+* `Pot` (85; 0% of non-empty `Mood`): <em>hypänne, luvanne, lienee, Saanen, joutunee, ratkennee, valmistunee, kertone, liene, päätettäneen</em>
+* `EMPTY` (10167): <em>olla, ollut, tehdä, mennä, tulla, saanut, saada, ottaa, lähteä, sanoa</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>
@@ -113,18 +113,18 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-7164 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (69% of all `AUX` tokens) have a non-empty value of `Mood`.
+9963 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7164; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7053; 98%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7020; 98%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5556; 78%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (5479; 76%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4930; 69%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9963; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9819; 99%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8067; 81%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (7643; 77%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7053; 71%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (668; 9% of non-empty `Mood`): <em>olisi, pitäisi, voisi, olisin, olisivat, voisin, olis, olisit, ois, olisiko</em>
-* `Imp` (147; 2% of non-empty `Mood`): <em>älä, älkää, ole, olkoon, olkaa, olkoot, älköön, älkäämme, älkööt, äläkä</em>
-* `Ind` (6309; 88% of non-empty `Mood`): <em>on, oli, ovat, ole, voi, olen, olivat, olin, pitää, täytyy</em>
+* `Cnd` (668; 7% of non-empty `Mood`): <em>olisi, pitäisi, voisi, olisin, olisivat, voisin, olis, olisit, ois, olisiko</em>
+* `Imp` (147; 1% of non-empty `Mood`): <em>älä, älkää, ole, olkoon, olkaa, olkoot, älköön, älkäämme, älkööt, äläkä</em>
+* `Ind` (9108; 91% of non-empty `Mood`): <em>on, ei, oli, ovat, en, ole, voi, olen, eivät, eikä</em>
 * `Opt` (1; 0% of non-empty `Mood`): <em>Ollos</em>
-* `Pot` (39; 1% of non-empty `Mood`): <em>lienee, liene, täytynee, voinee, lieneekö, lienevät, Liekö, Mahtaneeko, lie, lieneekään</em>
-* `EMPTY` (3242): <em>ei, en, eivät, olla, eikä, et, ollut, eikö, emme, enkä</em>
+* `Pot` (39; 0% of non-empty `Mood`): <em>lienee, liene, täytynee, voinee, lieneekö, lienevät, Liekö, Mahtaneeko, lie, lieneekään</em>
+* `EMPTY` (443): <em>olla, ollut, olevan, voinut, olleet, olemaan, pitänyt, ollu, voitu, täytynyt</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th><th><tt>Opt</tt></th></tr>
@@ -234,8 +234,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1406; 72%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1490; 75%),
+<tt>AUX --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="fi_ftb-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="fi_ftb-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

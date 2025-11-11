@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 9.250000 (the average of all parts of speech is 1.709027).
+The form / lemma ratio of `PRON` is 9.250000 (the average of all parts of speech is 1.709632).
 
 The 1st highest number of forms (15) was observed with the lemma “on”: <em>ho, je, jej, jemu, ji, jim, jimi, jí, nich, nim, nimi, ní, ním, ně, něj</em>.
 
@@ -63,7 +63,7 @@ Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="cs_c
 
 The highest child degree of a `PRON` node is 3.
 
-Children of `PRON` nodes are attached using 7 different relations: <tt><a href="cs_cltt-dep-case.html">case</a></tt> (79; 82% instances), <tt><a href="cs_cltt-dep-cop.html">cop</a></tt> (4; 4% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (4; 4% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (2; 2% instances), <tt><a href="cs_cltt-dep-advmod.html">advmod</a></tt> (1; 1% instances)
+Children of `PRON` nodes are attached using 7 different relations: <tt><a href="cs_cltt-dep-case.html">case</a></tt> (79; 82% instances), <tt><a href="cs_cltt-dep-cop.html">cop</a></tt> (4; 4% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (4; 4% instances), <tt><a href="cs_cltt-dep-advcl-pred.html">advcl:pred</a></tt> (2; 2% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="cs_cltt-dep-advmod.html">advmod</a></tt> (1; 1% instances)
 
 Children of `PRON` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (79; 82% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 4% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 

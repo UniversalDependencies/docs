@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-A
 
 ### `ADJ`
 
-2 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Degree`.
+2 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="sms_giellagas-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (2; 100% of non-empty `Degree`): <em>lääʹđesmiõllsab, šuurab</em>
-* `EMPTY` (30): <em>kuälmad, jõnn, šiõǥǥ, nuuʹbb, nuʹbb, nåkkam, tiõrvâs, ekksaž, jåʹttel, kaađâš</em>
+* `EMPTY` (37): <em>nåkkam, kuälmad, jõnn, nuuʹbb, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš</em>
 
 ### `NOUN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (2; 100% of non-empty `Degree`): <em>vuõddjez, äʹrbbaaušu</em>
-* `EMPTY` (409): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
+* `EMPTY` (407): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
 

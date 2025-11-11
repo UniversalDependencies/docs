@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 6 different values: `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Rel`.
 
-1459 tokens (18%) have a non-empty value of `PronType`.
-113 types (8%) occur at least once with a non-empty value of `PronType`.
-104 lemmas (8%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 11 part-of-speech tags: <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1319; 16% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (120; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+1455 tokens (18%) have a non-empty value of `PronType`.
+110 types (8%) occur at least once with a non-empty value of `PronType`.
+101 lemmas (7%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 11 part-of-speech tags: <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (1316; 16% instances), <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> (120; 1% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="yo_ytb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-1319 <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `PronType`.
+1316 <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (15; 1% of non-empty `PronType`): <em>èyí</em>
 * `Emp` (15; 1% of non-empty `PronType`): <em>ara</em>
 * `Ind` (53; 4% of non-empty `PronType`): <em>ẹni, ẹnikẹ́ni, àwọn, ẹnì, Ibi, pọn, àworan, ẹnikẹni, ẹnìkan</em>
-* `Int` (9; 1% of non-empty `PronType`): <em>kí, Ta, méje, èwo, èéṣe, kín</em>
-* `Prs` (990; 75% of non-empty `PronType`): <em>ó, rẹ̀, wọn, a, ẹ, wọ́n, yín, ìwọ, mi, èmi</em>
+* `Int` (8; 1% of non-empty `PronType`): <em>kí, Ta, èwo, èéṣe, kín</em>
+* `Prs` (988; 75% of non-empty `PronType`): <em>ó, rẹ̀, wọn, a, ẹ, wọ́n, yín, ìwọ, mi, èmi</em>
 * `Rel` (237; 18% of non-empty `PronType`): <em>tí, ti, ohunkóhun, bi</em>
 * `EMPTY` (38): <em>náà, wọ́n, ẹ, ún, í, a, kòsí, naà, ti, tàbí</em>
 
@@ -35,7 +35,7 @@ The feature is used with 11 part-of-speech tags: <tt><a href="yo_ytb-pos-PRON.ht
   <tr><td><tt><tt><a href="yo_ytb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="yo_ytb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="yo_ytb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>àwọn</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 98% lemmas (91) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 98% lemmas (89) occur only with one value of `PronType`.
 
 ### `DET`
 
@@ -46,16 +46,16 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `DET` tokens may have the following values of `PronType`:
 
 * `Dem` (120; 100% of non-empty `PronType`): <em>àwọn</em>
-* `EMPTY` (159): <em>yìí, náà, gbogbo, Àwọn, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Imo</em>
+* `EMPTY` (158): <em>yìí, náà, gbogbo, Àwọn, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Orísìírísìí</em>
 
 ### `ADJ`
 
-5 <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `PronType`.
+4 <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
 `ADJ` tokens may have the following values of `PronType`:
 
-* `Prs` (5; 100% of non-empty `PronType`): <em>gidi, Bìrìtìkó, tíkòsi´</em>
-* `EMPTY` (191): <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, rere, mìíràn, tósòro, náà</em>
+* `Prs` (4; 100% of non-empty `PronType`): <em>gidi, tíkòsi´</em>
+* `EMPTY` (189): <em>ọ̀pọ̀, ńlá, Alábùkún, dára, irú, àìmọ́, rere, mìíràn, tósòro, náà</em>
 
 ### `AUX`
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `ADP` tokens may have the following values of `PronType`:
 
 * `Prs` (2; 100% of non-empty `PronType`): <em>Ni, bíi</em>
-* `EMPTY` (691): <em>ní, fún, sí, láti, nínú, ti, inú, kúrò, lẹ́yìn, nípa</em>
+* `EMPTY` (689): <em>ní, fún, sí, láti, nínú, ti, inú, kúrò, lẹ́yìn, nípa</em>
 
 ### `CCONJ`
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `NOUN` tokens may have the following values of `PronType`:
 
 * `Prs` (2; 100% of non-empty `PronType`): <em>Nnaji, Omi</em>
-* `EMPTY` (1514): <em>Ọlọ́run, ènìyàn, ohun, ọmọ, ilẹ̀, ilé, ọ̀run, ojú, ojúewé, àgùntàn</em>
+* `EMPTY` (1509): <em>Ọlọ́run, ènìyàn, ohun, ọmọ, ilẹ̀, ilé, ọ̀run, ojú, ojúewé, àgùntàn</em>
 
 ### `PROPN`
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `PROPN` tokens may have the following values of `PronType`:
 
 * `Prs` (2; 100% of non-empty `PronType`): <em>Alhaji, Naijiria</em>
-* `EMPTY` (163): <em>Jésù, olúwa, Júù, Màríà, Wikipédíà, Mátà, Lásárù, Jáírù, Yorùbá, Jòhánù</em>
+* `EMPTY` (182): <em>Jésù, olúwa, Wikipédíà, Júù, Màríà, Mátà, Lásárù, Jáírù, Yorùbá, Genevieve</em>
 
 ### `ADV`
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Ind` (1; 100% of non-empty `PronType`): <em>nìkan</em>
-* `EMPTY` (329): <em>nígbà, náà, bẹ́ẹ̀, tó, tún, pẹ̀lú, gẹ́gẹ́, níbẹ̀, ká, lóòótọ́</em>
+* `EMPTY` (324): <em>nígbà, náà, bẹ́ẹ̀, tó, tún, pẹ̀lú, gẹ́gẹ́, níbẹ̀, ká, lóòótọ́</em>
 
 ### `NUM`
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 `NUM` tokens may have the following values of `PronType`:
 
 * `Prs` (1; 100% of non-empty `PronType`): <em>2i</em>
-* `EMPTY` (74): <em>kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520</em>
+* `EMPTY` (77): <em>kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520</em>
 
 ### `SCONJ`
 

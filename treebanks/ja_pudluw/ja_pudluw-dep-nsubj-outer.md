@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ja_pudluw-dep-nsubj.html">nsubj</a></tt>.
 
-70 nodes (0%) are attached to their parents as `nsubj:outer`.
+71 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-70 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 12.3571428571429.
+71 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 12.2816901408451.
 
-The following 8 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (39; 56% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (15; 21% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (40; 56% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (15; 21% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

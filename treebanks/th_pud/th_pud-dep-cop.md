@@ -23,18 +23,18 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 5 cop	color:blue
 1	พวก	พวก	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
-2	เขา	เขา	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
-3	มัก	มัก	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=mâk|LTranslit=mâk
+2	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	1	compound	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
+3	มัก	มัก	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=mạk|LTranslit=mạk
 4	จะ	จะ	AUX	MD	_	6	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 5	เป็น	เป็น	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 6	ศิลปิน	ศิลปิน	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=śilpin|LTranslit=śilpin
-7	ที่	ที่	DET	WDT	_	8	nsubj	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
+7	ที่	ที่	DET	WDT	PronType=Rel	8	nsubj	_	Gloss=that,which|SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 8	ชอบ	ชอบ	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=ćʰɔːb|LTranslit=ćʰɔːb
-9	ทำ	ทำ	VERB	VV	_	8	xcomp	_	SpaceAfter=No|Translit=dʰã|LTranslit=dʰã
-10	เรื่อง	เรื่อง	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=rűá¹ŋ|LTranslit=rűá¹ŋ
-11	ต่าง	ต่าง	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=tá¹ŋ|LTranslit=tá¹ŋ
-12	ๆ	ๆ	SYM	SYM	_	11	dep	_	Translit=|LTranslit=
-13	อยู่แล้ว	อยู่แล้ว	ADV	RB	_	8	advmod	_	Translit='yú¹lǽ²w|LTranslit='yú¹lǽ²w
+9	ทำ	ทำ	VERB	VV	_	8	xcomp	_	SpaceAfter=No|Translit=dʰãː|LTranslit=dʰãː
+10	เรื่อง	เรื่อง	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
+11	ต่าง	ต่าง	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=tàːŋ|LTranslit=tàːŋ
+12	ๆ	ๆ	SYM	SYM	_	11	dep	_	Translit=.|LTranslit=.
+13	อยู่แล้ว	อยู่แล้ว	ADV	RB	_	8	advmod	_	Translit='yùːlæ̂ːw|LTranslit='yùːlæ̂ːw
 
 ~~~
 
@@ -46,16 +46,16 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
 1	เป็น	เป็น	AUX	VC	_	2	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-2	ความฝัน	ความฝัน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰwámfʰân|LTranslit=gʰwámfʰân
+2	ความฝัน	ความฝัน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰwaːmfʰạn|LTranslit=gʰwaːmfʰạn
 3	ของ	ของ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-4	เขา	เขา	PRON	PRP	Person=3	2	obl:poss	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
-5	ที่	ที่	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
+4	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	2	obl:poss	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
+5	ที่	ที่	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 6	จะ	จะ	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 7	หยุด	หยุด	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit=hyud|LTranslit=hyud
-8	หน้าที่	หน้าที่	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=hná²dʰí¹|LTranslit=hná²dʰí¹
-9	การงาน	การงาน	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=kárŋán|LTranslit=kárŋán
-10	ที่	ที่	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
-11	นี่	นี่	PRON	PRD	_	8	nmod	_	Translit=ní¹|LTranslit=ní¹
+8	หน้าที่	หน้าที่	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=hnâːdʰìː|LTranslit=hnâːdʰìː
+9	การงาน	การงาน	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=kaːrŋaːn|LTranslit=kaːrŋaːn
+10	ที่	ที่	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+11	นี่	นี่	PRON	PRD	PronType=Dem	8	nmod	_	Gloss=this|Translit=nìː|LTranslit=nìː
 
 ~~~
 
@@ -67,7 +67,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
 1	พวก	พวก	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=bʰwk|LTranslit=bʰwk
-2	เขา	เขา	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
+2	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	1	compound	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
 3	เป็น	เป็น	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
 4	ใคร	ใคร	PRON	WP	PronType=Int	0	root	_	Translit=gʰair|LTranslit=gʰair
 

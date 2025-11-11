@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  キュリー (<tt><a href="ja_pud-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.068660).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.068686).
 
 The 1st highest number of forms (1) was observed with the lemma “AKP”: AKP.
 
@@ -64,21 +64,21 @@ The 3rd highest number of forms (1) was observed with the lemma “Amin”: Amin
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (579; 42% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (325; 24% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (254; 19% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (139; 10% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (44; 3% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (11; 1% instances), <tt><a href="ja_pud-dep-nsubj-outer.html">nsubj:outer</a></tt> (6; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (2; 0% instances)
+`PROPN` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (590; 43% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (299; 22% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (253; 19% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (166; 12% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (44; 3% instances), <tt><a href="ja_pud-dep-nsubj-outer.html">nsubj:outer</a></tt> (6; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (2; 0% instances)
 
-Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (758; 56% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (413; 30% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (175; 13% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances),  (3; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (752; 55% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (414; 30% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (180; 13% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances),  (3; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
-582 (43%) `PROPN` nodes are leaves.
+594 (44%) `PROPN` nodes are leaves.
 
-415 (30%) `PROPN` nodes have one child.
+413 (30%) `PROPN` nodes have one child.
 
-173 (13%) `PROPN` nodes have two children.
+162 (12%) `PROPN` nodes have two children.
 
-193 (14%) `PROPN` nodes have three or more children.
+194 (14%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 10.
+The highest child degree of a `PROPN` node is 16.
 
-Children of `PROPN` nodes are attached using 16 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (781; 52% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (326; 22% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (182; 12% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (133; 9% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (46; 3% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (16; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (5; 0% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 14 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (782; 51% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (357; 23% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (196; 13% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (110; 7% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (47; 3% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (27; 2% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (6; 0% instances), <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (782; 52% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (203; 13% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (182; 12% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (175; 12% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (112; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (30; 2% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (782; 51% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (212; 14% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (196; 13% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (180; 12% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (113; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (30; 2% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ja_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

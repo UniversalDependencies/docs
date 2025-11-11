@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-46229 tokens (9%) have a non-empty value of `Tense`.
-10592 types (17%) occur at least once with a non-empty value of `Tense`.
-3807 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (30773; 6% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (13313; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (2143; 0% instances).
+46268 tokens (9%) have a non-empty value of `Tense`.
+10598 types (17%) occur at least once with a non-empty value of `Tense`.
+3808 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (30773; 6% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (13313; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (2182; 0% instances).
 
 ### `VERB`
 
@@ -94,17 +94,18 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-2143 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Tense`.
+2182 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2143; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2143; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2143; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2112; 99%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1119; 52%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1095; 51%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2182; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2182; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2151; 99%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2143; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1144; 52%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1118; 51%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
+* `Fut` (39; 2% of non-empty `Tense`): <em>budoucí, budoucích, budoucího, budoucím, budoucímu</em>
 * `Past` (2; 0% of non-empty `Tense`): <em>nastoupivšími, rozpadnuvší</em>
-* `Pres` (2141; 100% of non-empty `Tense`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</em>
-* `EMPTY` (72077): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
+* `Pres` (2141; 98% of non-empty `Tense`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</em>
+* `EMPTY` (72038): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (539) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (540) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 
@@ -114,7 +115,7 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (124; 55%),
 <tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (25; 81%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (19; 83%),
-<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (16; 70%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (15; 68%),
 <tt>AUX --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (11; 69%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 57%),
 <tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (6; 55%),

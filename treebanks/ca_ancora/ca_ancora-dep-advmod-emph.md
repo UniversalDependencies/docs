@@ -42,7 +42,7 @@ The following 1 pairs of parts of speech are connected with `advmod:emph`: <tt><
 18	Dalí	Dalí	PROPN	_	_	17	flat	17:flat	Entity=CESSCATAAP20031006102242c6)
 19	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	20:aux	_
 20	escriure	escriure	VERB	vmn0000	VerbForm=Inf	15	acl	15:acl	_
-21	des	des	ADP	sps00	_	23	case	23:case	MWE=des_de|MWEPOS=ADP
+21	des	des	ADP	sps00	ExtPos=ADP	23	case	23:case	MWE=des_de|MWEPOS=ADP
 22	de	de	ADP	_	_	21	fixed	21:fixed	_
 23	1919	1919	NOUN	_	_	20	obl	20:obl	SpaceAfter=No|ArgTem=argM:tmp|Entity=(CESSCATAAP20031006102242c43-time-1-gstype:spec
 24	,	,	PUNCT	fc	PunctType=Comm	26	punct	26:punct	_

@@ -18,7 +18,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="es_gsd-pos-ADV.html
 
 1723 <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1723; 100%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1723; 100%), <tt><a href="es_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1723; 100%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (39236): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `EMPTY` (39235): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 
 ### `X`
 
@@ -63,7 +63,7 @@ The most frequent other feature values with which `X` and `Polarity` co-occurred
 `X` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>no, so</em>
-* `EMPTY` (1860): <em>ex, hab, 's, ya, etc., C, x, i, mm, C.</em>
+* `EMPTY` (1858): <em>ex, hab, 's, ya, etc., C, x, i, mm, C.</em>
 
 ### `ADJ`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>gran</em>
-* `EMPTY` (24991): <em>primera, gran, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
+* `EMPTY` (24992): <em>primera, gran, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
 
 ### `ADP`
 

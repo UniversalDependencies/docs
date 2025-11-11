@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-125 nodes (4%) are attached to their parents as `nmod`.
+196 nodes (3%) are attached to their parents as `nmod`.
 
-120 instances of `nmod` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.256.
+179 instances of `nmod` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.29081632653061.
 
-The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (90; 72% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (12; 10% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (12; 10% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (138; 70% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (21; 11% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (15; 8% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (6; 3% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href=
 1	Πιάσα	πιάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	_
 3	τουπούζια	τουπούζ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
-4	τ’	η	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	τ’	η	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	Σουφέλ’	Σουφία	PROPN	_	Case=Gen|Degree=Dim|Gender=Neut|Number=Sing	3	nmod	_	_
 6	τσι	τσι	CCONJ	_	_	7	cc	_	_
 7	χουρουπήδα	χουρουπδώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_

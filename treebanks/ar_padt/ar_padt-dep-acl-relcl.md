@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="ar_padt-dep-acl.htm
 2203 nodes (1%) are attached to their parents as `acl:relcl`.
 
 2201 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.77939173853836.
+Average distance between parent and child is 3.77757603268271.
 
-The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (2055; 93% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (52; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (49; 2% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (2054; 93% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (52; 2% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (48; 2% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="ar_padt-pos-DET.html">DET</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ar_padt-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ar_padt-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-X.html">X</a></tt>-<tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_padt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_padt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ar_padt-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_padt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 7 acl:relcl	color:blue
 1	*	*	PUNCT	G---------	_	4	punct	4:punct	Vform=ذ|Translit=*
-2	ما	مَا	DET	S---------	_	4	nsubj	4:nsubj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
+2	ما	مَا	DET	S---------	PronType=Int	4	nsubj	4:nsubj	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
 3	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod:nom	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
 4	التهم	تُهمَة	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	0	root	0:root|7:nsubj:pass	Vform=اَلتُّهَمُ|Gloss=accusation,charge|Root=w h m|Translit=at-tuhamu|LTranslit=tuhmat
 5	التي	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj:pass	4:ref	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
@@ -55,7 +55,7 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	ألقت	أَلقَى	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	4	conj	0:root|4:conj	Gloss=deliver,throw,arrest|LTranslit=ʾalqā|Root=l q y|Translit=ʾalqat|Vform=أَلقَت
 7	القبض	قَبض	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	6	obj	6:obj	Vform=اَلقَبضَ|Gloss=arrest,seizure|Root=q b .d|Translit=al-qabḍa|LTranslit=qabḍ
 8	على	عَلَى	ADP	P---------	AdpType=Prep	9	case	9:case	Vform=عَلَى|Gloss=on,above|Root=` l w|Translit=ʿalā|LTranslit=ʿalā
-9	عادل	عادل	X	U---------	_	7	obl:arg	7:obl:arg:عَلَى:gen|11:nsubj:pass	Vform=عادل|Root=OOV|Translit=ʿādl
+9	عادل	عادل	X	U---------	_	7	nmod	7:nmod:عَلَى:gen|11:nsubj:pass	Vform=عادل|Root=OOV|Translit=ʿādl
 10	الذي	اَلَّذِي	DET	SR----MS2-	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj:pass	9:ref	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
 11	احيل	أَحَال	VERB	VP-P-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Pass	9	acl:relcl	9:acl:relcl	Vform=أُحِيلَ|Gloss=refer,assign,appear_(_in_court_)|Root=.h w l|Translit=ʾuḥīla|LTranslit=ʾaḥāl
 12	الى	إِلَى	ADP	P---------	AdpType=Prep	13	case	13:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
@@ -78,10 +78,10 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	الذي	اَلَّذِي	DET	SR----MS1-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	3:ref	Vform=اَلَّذِي|Gloss=that,which|Root=l|Translit=allaḏī|LTranslit=allaḏī
 5	أعلنت	أَعلَن	VERB	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	3	acl:relcl	3:acl:relcl	Gloss=announce,declare|LTranslit=ʾaʿlan|Root=` l n|Translit=ʾaʿlanat|Vform=أَعلَنَت
 6	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	5:obj	Gloss=he,she,it|LTranslit=huwa|Translit=hu|Vform=هُ
-7	الحكومة	حُكُومَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	5	nsubj	5:nsubj	Vform=اَلحُكُومَةُ|Gloss=government,administration|Root=.h k m|Translit=al-ḥukūmatu|LTranslit=ḥukūmat
+7	الحكومة	حُكُومَة	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	5	dep	5:dep	Vform=اَلحُكُومَةُ|Gloss=government,administration|Root=.h k m|Translit=al-ḥukūmatu|LTranslit=ḥukūmat
 8	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	9:obl:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
 9	3	3	NUM	Q---------	NumForm=Digit	1	parataxis	1:parataxis	Vform=٣|Translit=3
-10	ملايين	مِليُون	NUM	QM-----P2R	Case=Gen|Definite=Cons|Number=Plur|NumForm=Word	9	nummod	9:nummod	Vform=مَلَايِينِ|Gloss=million|Root=m l y n|Translit=malāyīni|LTranslit=milyūn
+10	ملايين	مِليُون	NUM	QM-----P2R	Case=Gen|Definite=Cons|Number=Plur|NumForm=Word	9	nmod	9:nmod:gen	Vform=مَلَايِينِ|Gloss=million|Root=m l y n|Translit=malāyīni|LTranslit=milyūn
 11	طن	طُنّ	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	10	nmod	10:nmod:gen	SpaceAfter=No|Vform=طُنٍّ|Gloss=ton|Root=.t n n|Translit=ṭunnin|LTranslit=ṭunn
 12	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 

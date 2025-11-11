@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 4	contented	contented	ADJ	PASS	Degree=Pos	6	amod	_	_
 5	little	little	ADJ	POS	Degree=Pos	6	amod	_	_
 6	minds	mind	NOUN	PL-NOM	Number=Plur	9	nsubj	_	_
-7	will	will	AUX	PRES-AUX	VerbForm=Fin	9	aux	_	_
+7	will	will	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	9	aux	_	_
 8	never	never	ADV	NEG	PronType=Neg	9	advmod	_	_
 9	know	know	VERB	INF	VerbForm=Inf	13	csubj:outer	_	_
 10	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
@@ -51,7 +51,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 26	,	,	PUNCT	Comma	_	30	punct	_	_
 27	and	and	CCONJ	_	_	30	cc	_	_
 28	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	_
-29	'll	will	AUX	PRES-AUX	VerbForm=Fin	30	aux	_	_
+29	'll	will	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	30	aux	_	_
 30	say	say	VERB	INF	VerbForm=Inf	13	conj	_	_
 31	it	it	PRON	PERS-SG	_	30	obj	_	_
 32	now	now	ADV	_	PronType=Dem	30	advmod	_	_

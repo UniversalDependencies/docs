@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>dve</em> (<tt><a href="sr_set-pos-NUM
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.035032 (the average of all parts of speech is 1.845258).
+The form / lemma ratio of `NUM` is 1.035032 (the average of all parts of speech is 1.845341).
 
 The 1st highest number of forms (10) was observed with the lemma “jedan”: <em>jedan, jedna, jedne, jedni, jednim, jedno, jednog, jednoj, jednom, jednu</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>tri, dva, jedan, pet, dve, četiri, 20, deset, šest, 50</em>
 
 `NUM` nodes are attached to their parents using 13 different relations: <tt><a href="sr_set-dep-nummod-gov.html">nummod:gov</a></tt> (642; 50% instances), <tt><a href="sr_set-dep-nummod.html">nummod</a></tt> (443; 35% instances), <tt><a href="sr_set-dep-obl.html">obl</a></tt> (53; 4% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (37; 3% instances), <tt><a href="sr_set-dep-flat.html">flat</a></tt> (34; 3% instances), <tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt> (23; 2% instances), <tt><a href="sr_set-dep-nmod.html">nmod</a></tt> (21; 2% instances), <tt><a href="sr_set-dep-parataxis.html">parataxis</a></tt> (11; 1% instances), <tt><a href="sr_set-dep-amod.html">amod</a></tt> (6; 0% instances), <tt><a href="sr_set-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="sr_set-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="sr_set-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="sr_set-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1056; 83% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (65; 5% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (48; 4% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (41; 3% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (28; 2% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (25; 2% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (1059; 83% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (65; 5% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (48; 4% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (41; 3% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (28; 2% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (25; 2% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 801 (63%) `NUM` nodes are leaves.
 

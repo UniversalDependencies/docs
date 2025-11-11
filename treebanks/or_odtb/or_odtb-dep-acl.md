@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 7 5 acl	color:blue
 1	ଭୁବନେଶ୍ୱର	_	PROPN	N_NNP	_	13	parataxis	_	SpaceAfter=No|Translit=bhubaneśrra
 2	:	_	PUNCT	RD_PUNC	_	1	punct	_	Translit=:
-3	ଦିନକୁ	_	NOUN	N_NN	_	4	obl	_	Translit=dinaku
+3	ଦିନକୁ	_	NOUN	N_NN	_	4	nmod	_	Translit=dinaku
 4	ଦିନ	_	NOUN	N_NN	_	5	obl	_	Translit=dina
 5	ବ୍ୟାପୁଥିବା	_	VERB	V_VM_VNF	_	7	acl	_	Translit=bŷāputhibā
 6	ମହାମାରୀ	_	ADJ	JJ	_	7	amod	_	Translit=mahāmārī

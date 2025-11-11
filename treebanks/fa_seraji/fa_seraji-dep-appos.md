@@ -22,15 +22,15 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 appos	color:blue
-1	اما	اما	CCONJ	CON	_	8	cc	_	Translit=āmā|LTranslit=āmā
-2	اکثریت	اکثریت	NOUN	N_SING	Number=Sing	8	nsubj	_	Translit=ākṯrīt|LTranslit=ākṯrīt
-3	مردم	مردم	NOUN	N_SING	Number=Sing	2	nmod:poss	_	SpaceAfter=No|Translit=mrdm|LTranslit=mrdm
-4	،	،	PUNCT	DELM	_	6	punct	_	Translit=,|LTranslit=,
-5	بویژه	بویژه	ADV	ADV	_	6	advmod	_	Translit=būīžh|LTranslit=būīžh
-6	بنی‌هاشم	بنی‌هاشم	NOUN	N_SING	Number=Sing	2	appos	_	Translit=bnīhāšm|LTranslit=bnīhāšm
-7	مقاومت	مقاومت	NOUN	N_SING	Number=Sing	8	compound:lvc	_	Translit=mqāūmt|LTranslit=mqāūmt
-8	می‌کنند	کرد	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No|Translit=mīknnd|LTranslit=krd
-9	.	.	PUNCT	DELM	_	8	punct	_	Translit=.|LTranslit=.
+1	اما	اما	CCONJ	CON	_	8	cc	_	LTranslit=āmā|Translit=āmā
+2	اکثریت	اکثریت	NOUN	N_SING	Number=Sing	8	nsubj	_	LTranslit=ākṯrīt|Translit=ākṯrīt
+3	مردم	مردم	NOUN	N_SING	Number=Sing	2	nmod:poss	_	LTranslit=mrdm|SpaceAfter=No|Translit=mrdm
+4	،	،	PUNCT	DELM	_	6	punct	_	LTranslit=,|Translit=,
+5	بویژه	بویژه	ADV	ADV	_	6	advmod	_	LTranslit=būīžh|Translit=būīžh
+6	بنی‌هاشم	بنی‌هاشم	NOUN	N_SING	Number=Sing	2	appos	_	LTranslit=bnīhāšm|Translit=bnīhāšm
+7	مقاومت	مقاومت	NOUN	N_SING	Number=Sing	8	compound:lvc	_	LTranslit=mqāūmt|Translit=mqāūmt
+8	می‌کنند	کرد	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=mīknnd
+9	.	.	PUNCT	DELM	_	8	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -41,21 +41,21 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 appos	color:blue
-1	این	این	DET	DET	_	2	det	_	Translit=āīn|LTranslit=āīn
-2	مورد	مورد	NOUN	N_SING	Number=Sing	10	obj	_	Translit=mūrd|LTranslit=mūrd
-3	را	را	PART	CLITIC	_	2	case	_	Translit=rā|LTranslit=rā
-4	که	که	SCONJ	CON	_	6	mark	_	Translit=kh|LTranslit=kh
-5	شما	شما	PRON	PRO	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Translit=šmā|LTranslit=šmā
-6	گفتید	_	VERB	V_PA	Number=Plur|Person=2|Tense=Past	2	acl:relcl	_	Translit=gftīd
-7	من	من	PRON	PRO	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Translit=mn|LTranslit=mn
-8	دو	دو	NUM	NUM	NumType=Card	9	nummod	_	Translit=dū|LTranslit=dū
-9	بخش	بخش	NOUN	N_SING	Number=Sing	10	compound:lvc	_	Translit=bḫš|LTranslit=bḫš
-10	می‌کنم	کرد	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No|Translit=mīknm|LTranslit=krd
-11	:	:	PUNCT	DELM	_	12	punct	_	Translit=:|LTranslit=:
-12	تصویربرداری	تصویربرداری	NOUN	N_SING	Number=Sing	10	appos	_	Translit=tṣūīrbrdārī|LTranslit=tṣūīrbrdārī
-13	و	و	CCONJ	CON	_	14	cc	_	Translit=ū|LTranslit=ū
-14	مونتاژ	مونتاژ	NOUN	N_SING	Number=Sing	12	conj	_	SpaceAfter=No|Translit=mūntāž|LTranslit=mūntāž
-15	.	.	PUNCT	DELM	_	10	punct	_	Translit=.|LTranslit=.
+1	این	این	DET	DET	_	2	det	_	LTranslit=āīn|Translit=āīn
+2	مورد	مورد	NOUN	N_SING	Number=Sing	10	obj	_	LTranslit=mūrd|Translit=mūrd
+3	را	را	PART	CLITIC	_	2	case	_	LTranslit=rā|Translit=rā
+4	که	که	SCONJ	CON	_	6	mark	_	LTranslit=kh|Translit=kh
+5	شما	شما	PRON	PRO	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	LTranslit=šmā|Translit=šmā
+6	گفتید	گفت	VERB	V_PA	Number=Plur|Person=2|Tense=Past	2	acl:relcl	_	LTranslit=gft|Translit=gftīd
+7	من	من	PRON	PRO	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	LTranslit=mn|Translit=mn
+8	دو	دو	NUM	NUM	NumType=Card	9	nummod	_	LTranslit=dū|Translit=dū
+9	بخش	بخش	NOUN	N_SING	Number=Sing	10	compound:lvc	_	LTranslit=bḫš|Translit=bḫš
+10	می‌کنم	کرد	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=mīknm
+11	:	:	PUNCT	DELM	_	12	punct	_	LTranslit=:|Translit=:
+12	تصویربرداری	تصویربرداری	NOUN	N_SING	Number=Sing	10	appos	_	LTranslit=tṣūīrbrdārī|Translit=tṣūīrbrdārī
+13	و	و	CCONJ	CON	_	14	cc	_	LTranslit=ū|Translit=ū
+14	مونتاژ	مونتاژ	NOUN	N_SING	Number=Sing	12	conj	_	LTranslit=mūntāž|SpaceAfter=No|Translit=mūntāž
+15	.	.	PUNCT	DELM	_	10	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -66,27 +66,27 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 17 appos	color:blue
-1	دلایل	دلیل	NOUN	N_PL	Number=Plur	5	nsubj	_	Translit=dlāīl|LTranslit=dlīl
-2	آسیب‌پذیری	آسیب‌پذیری	NOUN	N_SING	Number=Sing	1	nmod:poss	_	Translit=Āsībpḏīrī|LTranslit=Āsībpḏīrī
-3	نظام	نظام	NOUN	N_SING	Number=Sing	2	nmod:poss	_	Translit=nẓām|LTranslit=nẓām
-4	برنامه‌ریزی	برنامه‌ریزی	NOUN	N_SING	Number=Sing	3	nmod:poss	_	Translit=brnāmhrīzī|LTranslit=brnāmhrīzī
-5	این	این	PRON	PRO	Number=Sing|PronType=Dem	0	root	_	Translit=āīn|LTranslit=āīn
-6	بود	بود	AUX	V_PA	Number=Sing|Person=3|Tense=Past	5	cop	_	Translit=būd|LTranslit=būd
-7	که	که	SCONJ	CON	_	19	mark	_	Translit=kh|LTranslit=kh
-8	برنامه‌های	برنامه	NOUN	N_PL	Number=Plur	19	nsubj	_	Translit=brnāmhhāī|LTranslit=brnāmh
-9	عمرانی	عمرانی	ADJ	ADJ	Degree=Pos	8	amod	_	Translit=ʿmrānī|LTranslit=ʿmrānī
-10	و	و	CCONJ	CON	_	11	cc	_	Translit=ū|LTranslit=ū
-11	توسعه	توسعه	NOUN	N_SING	Number=Sing	8	conj	_	Translit=tūsʿh|LTranslit=tūsʿh
-12	سخت	سخت	ADV	ADV	_	19	advmod	_	Translit=sḫt|LTranslit=sḫt
-13	به	به	ADP	P	_	14	case	_	Translit=bh|LTranslit=bh
-14	متغیر	متغیر	ADJ	ADJ	Degree=Pos	19	advcl	_	Translit=mtġīr|LTranslit=mtġīr
-15	برون‌زا	برون‌زا	ADJ	ADJ	Degree=Pos	14	amod	_	Translit=brūnzā|LTranslit=brūnzā
-16	یعنی	یعنی	SCONJ	CON	_	14	mark	_	Translit=īʿnī|LTranslit=īʿnī
-17	قیمت	قیمت	NOUN	N_SING	Number=Sing	14	appos	_	Translit=qīmt|LTranslit=qīmt
-18	نفت	نفت	NOUN	N_SING	Number=Sing	17	nmod:poss	_	Translit=nft|LTranslit=nft
-19	متکی	متکی	ADJ	ADJ	Degree=Pos	5	ccomp	_	Translit=mtkī|LTranslit=mtkī
-20	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	19	cop	_	SpaceAfter=No|Translit=āst|LTranslit=āst
-21	.	.	PUNCT	DELM	_	5	punct	_	Translit=.|LTranslit=.
+1	دلایل	دلیل	NOUN	N_PL	Number=Plur	5	nsubj	_	LTranslit=dlīl|Translit=dlāīl
+2	آسیب‌پذیری	آسیب‌پذیری	NOUN	N_SING	Number=Sing	1	nmod:poss	_	LTranslit=Āsībpḏīrī|Translit=Āsībpḏīrī
+3	نظام	نظام	NOUN	N_SING	Number=Sing	2	nmod:poss	_	LTranslit=nẓām|Translit=nẓām
+4	برنامه‌ریزی	برنامه‌ریزی	NOUN	N_SING	Number=Sing	3	nmod:poss	_	LTranslit=brnāmhrīzī|Translit=brnāmhrīzī
+5	این	این	PRON	PRO	Number=Sing|PronType=Dem	0	root	_	LTranslit=āīn|Translit=āīn
+6	بود	بود	AUX	V_PA	Number=Sing|Person=3|Tense=Past	5	cop	_	LTranslit=būd|Translit=būd
+7	که	که	SCONJ	CON	_	19	mark	_	LTranslit=kh|Translit=kh
+8	برنامه‌های	برنامه	NOUN	N_PL	Number=Plur	19	nsubj	_	LTranslit=brnāmh|Translit=brnāmhhāī
+9	عمرانی	عمرانی	ADJ	ADJ	Degree=Pos	8	amod	_	LTranslit=ʿmrānī|Translit=ʿmrānī
+10	و	و	CCONJ	CON	_	11	cc	_	LTranslit=ū|Translit=ū
+11	توسعه	توسعه	NOUN	N_SING	Number=Sing	8	conj	_	LTranslit=tūsʿh|Translit=tūsʿh
+12	سخت	سخت	ADV	ADV	_	19	advmod	_	LTranslit=sḫt|Translit=sḫt
+13	به	به	ADP	P	_	14	case	_	LTranslit=bh|Translit=bh
+14	متغیر	متغیر	ADJ	ADJ	Degree=Pos	19	advcl	_	LTranslit=mtġīr|Translit=mtġīr
+15	برون‌زا	برون‌زا	ADJ	ADJ	Degree=Pos	14	amod	_	LTranslit=brūnzā|Translit=brūnzā
+16	یعنی	یعنی	SCONJ	CON	_	14	mark	_	LTranslit=īʿnī|Translit=īʿnī
+17	قیمت	قیمت	NOUN	N_SING	Number=Sing	14	appos	_	LTranslit=qīmt|Translit=qīmt
+18	نفت	نفت	NOUN	N_SING	Number=Sing	17	nmod:poss	_	LTranslit=nft|Translit=nft
+19	متکی	متکی	ADJ	ADJ	Degree=Pos	5	ccomp	_	LTranslit=mtkī|Translit=mtkī
+20	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	19	cop	_	LTranslit=āst|SpaceAfter=No|Translit=āst
+21	.	.	PUNCT	DELM	_	5	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

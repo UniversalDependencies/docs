@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-det.html">det</a></tt>.
 
-1723 nodes (1%) are attached to their parents as `det:poss`.
+1721 nodes (1%) are attached to their parents as `det:poss`.
 
-1715 instances of `det:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43528728961114.
+1713 instances of `det:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43404997094712.
 
-The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1692; 98% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1692; 98% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (14; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det:poss	color:blue
-1	Մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Mer|LTranslit=menk’
+1	Մեր	մեր	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Mer|LTranslit=mer
 2	եկամուտին	եկամուտ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	7	obl	_	Translit=ekamowtin|LTranslit=ekamowt
 3	համեմատ	համեմատ	ADP	_	AdpType=Ambi	2	case	_	Translit=hamemat|LTranslit=hamemat
-4	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	Translit=mer|LTranslit=menk’
+4	մեր	մեր	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	Translit=mer|LTranslit=mer
 5	ծախսածը	ծախսած	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Translit=çaxsaçë|LTranslit=çaxsaç
 6	անհամեմատ	անհամեմատ	ADV	_	_	7	advmod	_	Translit=anhamemat|LTranslit=anhamemat
 7	մեծ	մեծ	ADJ	_	Degree=Pos	0	root	_	Translit=meç|LTranslit=meç
@@ -60,14 +60,14 @@ The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a h
 2	՛	՛	PUNCT	_	_	1	punct	_	Translit=՛|LTranslit=՛
 3	միակ	միակ	ADJ	_	_	4	amod	_	Translit=miak|LTranslit=miak
 4	ընկերը	ընկեր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Translit=ënkerë|LTranslit=ënker
-5	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp	6	det:poss	_	Translit=ir|LTranslit=ink’
+5	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp	6	det:poss	_	Translit=ir|LTranslit=ir
 6	Ճէյրանն	Ճէյրան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	0	root	_	Translit=Č̣ēyrann|LTranslit=Č̣ēyran
 7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 8	՝	՝	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
 9	կարմիր	կարմիր	ADJ	_	Degree=Pos	10	amod	_	Translit=karmir|LTranslit=karmir
 10	կովը	կով	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	appos	_	Translit=kovë|LTranslit=kov|SpaceAfter=No
 11	,	,	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,
-12	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	13	det:poss	_	Translit=ir|LTranslit=ink’
+12	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	13	det:poss	_	Translit=ir|LTranslit=ir
 13	ողբերը	ողբ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	19	obj	_	Translit=oġberë|LTranslit=oġb
 14	ալ	ալ	ADV	_	_	19	advmod	_	Translit=al|LTranslit=al
 15	միայն	միայն	ADV	_	_	17	advmod:emph	_	Translit=miayn|LTranslit=miayn

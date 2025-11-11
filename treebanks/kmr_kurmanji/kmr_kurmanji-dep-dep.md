@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of dep in UD_Kurmanji-MG'
+title:  'Statistics of dep in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `dep`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `dep`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 26 instances of `dep` (74%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.57142857142857.
 
-The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (14; 40% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (6; 17% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (5; 14% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (5; 14% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-X.html">X</a></tt> (14; 40% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt> (6; 17% instances), <tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_kurmanji-pos-X.html">X</a></tt> (5; 14% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-X.html">X</a></tt> (5; 14% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_kurmanji-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

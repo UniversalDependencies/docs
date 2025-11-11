@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2160 nodes (0%) are attached to their parents as `nummod`.
+2382 nodes (0%) are attached to their parents as `nummod`.
 
-2160 instances of `nummod` (100%) are right-to-left (child precedes parent).
+2382 instances of `nummod` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (1055; 49% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (617; 29% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (384; 18% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (58; 3% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (31; 1% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (1099; 46% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (619; 26% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (465; 20% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (106; 4% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (58; 2% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (10; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	_	_	SYM	_	_	6	compound	_	BBIL=I|BPT=2|SpaceAfter=No|UI=67
 5	_	_	NUM	_	_	6	nummod	_	BBIL=I|BPT=2|SpaceAfter=No|UI=71
 6	_	_	NUM	_	_	0	root	_	BBIL=I|BPT=4|SpaceAfter=No|UI=65
-7	_	_	PUNCT	_	_	6	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=14
+7	_	_	PUNCT	_	_	6	punct	_	BBIL=I|BPT=2|UI=14
 
 ~~~
 

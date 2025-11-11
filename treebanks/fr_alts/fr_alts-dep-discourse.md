@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `discourse`.
+15 nodes (0%) are attached to their parents as `discourse`.
 
-11 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.09090909090909.
+12 instances of `discourse` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.93333333333333.
 
-The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (5; 45% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-INTJ.html">INTJ</a></tt> (3; 27% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (3; 27% instances).
+The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (7; 47% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-INTJ.html">INTJ</a></tt> (4; 27% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (4; 27% instances).
 
 
 ~~~ conllu
@@ -88,47 +88,33 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 discourse	color:blue
-1	Et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-2	aussy	aussi	ADV	_	_	3	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-3	ouyt	ouïr	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-4	come	comme	SCONJ	_	_	7	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=WH
-5	ledit	ledit	DET	_	Definite=Ind	6	det	_	gold_pos=DET|prpos=Di|uppos=D
-6	Bequet	Bequet	PROPN	_	Number=Plur	7	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-7	cryet	crier	VERB	_	VerbForm=Fin	3	ccomp	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-8	et	et	CCONJ	_	_	9	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-9	disoet	dire	VERB	_	VerbForm=Fin	7	conj	_	gold_pos=VERB|prpos=Vvc|SpaceAfter=No|uppos=VJ
-10	:	:	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
-11	«	«	PUNCT	_	_	7	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
-12	Que	que	PRON	_	PronType=Rel	15	obj	_	gold_pos=PRON|prpos=Pr|uppos=WPRO
-13	grant	grand	ADJ	_	_	14	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
-14	dyable	diable	NOUN	_	_	15	discourse	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-15	as	avoir	VERB	_	VerbForm=Fin	7	ccomp	_	gold_pos=VERB|prpos=Vuc|uppos=AJ
-16	tu	tu	PRON	_	PronType=Prs	15	nsubj	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
-17	?	?	PUNCT	_	_	15	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
-18	Je	je	PRON	_	PronType=Prs	19	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-19	sçavoes	savoir	VERB	_	VerbForm=Fin	15	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-20	bien	bien	ADV	_	_	19	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-21	que	que	SCONJ	_	_	23	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
-22	nous	nous	PRON	_	PronType=Prs	23	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-23	seroyons	être	VERB	_	VerbForm=Fin	19	ccomp	_	gold_pos=VERB|prpos=Vuc|uppos=EJ
-24	en	en	ADP	_	_	25	case	_	gold_pos=ADP|prpos=S|uppos=P
-25	cecy	ceci	PRON	_	PronType=Dem	23	obl	_	gold_pos=PRON|prpos=Pd|SpaceAfter=No|uppos=PRO
-26	!	!	PUNCT	_	_	19	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
-27	»	»	PUNCT	_	_	19	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
-28	luy	il	PRON	_	PronType=Prs	29	iobj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-29	disant	dire	VERB	_	_	7	advcl	_	gold_pos=VERB|prpos=Ga|SpaceAfter=No|uppos=VG
-30	:	:	PUNCT	_	_	29	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
-31	«	«	PUNCT	_	_	29	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
-32	Et	et	CCONJ	_	_	34	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-33	qu'	que	PRON	_	PronType=Rel	34	obj	_	gold_pos=PRON|prpos=Pr|SpaceAfter=No|uppos=WPRO
-34	as	avoir	VERB	_	VerbForm=Fin	29	ccomp	_	gold_pos=VERB|join=left|prpos=Vuc|uppos=AJ
-35	tu	tu	PRON	_	PronType=Prs	34	nsubj	_	gold_pos=PRON|prpos=Pp|SpaceAfter=No|uppos=PRO
-36	?	?	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|prpos=Fw|uppos=PON
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 18 discourse	color:blue
+1	A	A	ADP	P	_	3	case	_	prpos=S
+2	le	le	DET	D	Definite=Def|PronType=Art	3	det	_	prpos=Da
+3	surplus	surplus	NOUN	NCS	Number=Sing	0	root	_	prpos=Nc
+4	de	de	ADP	P	_	5	mark	_	prpos=S
+5	dire	dire	VERB	VX	VerbForm=Inf	3	acl	_	prpos=Vvn
+6	qu'	que	SCONJ	CONJS	_	8	mark	_	prpos=Cs
+7	on	on	PRON	PRO	PronType=Prs	8	nsubj	_	join=left|prpos=Pp
+8	baillera	bailler	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	5	ccomp	_	prpos=Vvc
+9	bien	bien	ADV	ADV	_	8	advmod	_	prpos=Rg
+10	coppie	copie	NOUN	NCS	Number=Sing	8	obj	_	prpos=Nc
+11	non	non	ADV	ADV	_	12	advmod	_	prpos=Rg
+12	signee	signer	ADJ	VPP	Tense=Past|VerbForm=Part	10	amod	_	prpos=Ge|SpaceAfter=No
+13	:	:	PUNCT	PON	_	5	punct	_	join=left|prpos=Fw
+14	qu'	que	SCONJ	WPRO	_	18	mark	_	prpos=Pt
+15	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	18	cop	_	join=left|prpos=Vuc
+16	ce	ce	PRON	PRO	PronType=Dem	18	nsubj	_	prpos=Pd
+17	autre	autre	ADJ	ADJ	_	18	amod	_	prpos=Ag
+18	chose	chose	NOUN	NCS	Number=Sing	5	discourse	_	prpos=Nc
+19	qu'	que	SCONJ	CONJS	_	21	mark	_	prpos=Cs
+20	vne	un	DET	D	Definite=Ind|PronType=Art	21	det	_	join=left|prpos=Dn
+21	illusion	illusion	NOUN	NCS	Number=Sing	18	acl	_	prpos=Nc|SpaceAfter=No
+22	?	?	PUNCT	PON	_	3	punct	_	join=left|prpos=Fw
 
 ~~~
 

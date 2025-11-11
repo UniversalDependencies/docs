@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
-1	دختر	دختربچه	NOUN	N_ANM	Number=Sing|Typo=Yes	5	nsubj	_	_
-2	بچه‌ای	_	X	N_ANM	_	1	goeswith	_	_
-3	دارد	داشت	AUX	V_ACT	Number=Sing|Person=3|Voice=Act	5	aux	_	OrigLemma=داشت#دار
-4	تاب‌بازی	تاب‌بازی	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
-5	می‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
-6	.	.	PUNCT	PUNC	_	5	punct	_	_
+1	دختر	دختربچه	NOUN	N_ANM	Number=Sing|Typo=Yes	5	nsubj	_	LTranslit=dḫtrbčh|Translit=dḫtr
+2	بچه‌ای	_	X	N_ANM	_	1	goeswith	_	Translit=bčhāī
+3	دارد	داشت	AUX	V_ACT	Number=Sing|Person=3|Voice=Act	5	aux	_	LTranslit=dāšt|OrigLemma=داشت#دار|Translit=dārd
+4	تاب‌بازی	تاب‌بازی	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=tābbāzī|Translit=tābbāzī
+5	می‌کند	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=mīknd
+6	.	.	PUNCT	PUNC	_	5	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

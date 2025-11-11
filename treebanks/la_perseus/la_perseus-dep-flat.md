@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="la_perseus-dep-flat-name.html">flat:name</a></tt>, <tt><a href="la_perseus-dep-flat-redup.html">flat:redup</a></tt>.
 
-16 nodes (0%) are attached to their parents as `flat`.
+15 nodes (0%) are attached to their parents as `flat`.
 
-16 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+15 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.53333333333333.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (10; 63% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (6; 38% instances).
+The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (9; 60% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (6; 40% instances).
 
 
 ~~~ conllu

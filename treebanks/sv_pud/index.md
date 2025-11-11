@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Bernadeta Griciūtė, Victor Norrman.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,7 +76,7 @@ Victor Norrman and Joakim Nivre.
 
 ## Relations
 
-[acl](sv_pud-dep-acl.html) – [acl:cleft](sv_pud-dep-acl-cleft.html) – [acl:relcl](sv_pud-dep-acl-relcl.html) – [advcl](sv_pud-dep-advcl.html) – [advmod](sv_pud-dep-advmod.html) – [amod](sv_pud-dep-amod.html) – [appos](sv_pud-dep-appos.html) – [aux](sv_pud-dep-aux.html) – [aux:pass](sv_pud-dep-aux-pass.html) – [case](sv_pud-dep-case.html) – [cc](sv_pud-dep-cc.html) – [ccomp](sv_pud-dep-ccomp.html) – [compound](sv_pud-dep-compound.html) – [compound:prt](sv_pud-dep-compound-prt.html) – [conj](sv_pud-dep-conj.html) – [cop](sv_pud-dep-cop.html) – [csubj](sv_pud-dep-csubj.html) – [csubj:pass](sv_pud-dep-csubj-pass.html) – [det](sv_pud-dep-det.html) – [discourse](sv_pud-dep-discourse.html) – [dislocated](sv_pud-dep-dislocated.html) – [expl](sv_pud-dep-expl.html) – [fixed](sv_pud-dep-fixed.html) – [flat](sv_pud-dep-flat.html) – [flat:name](sv_pud-dep-flat-name.html) – [iobj](sv_pud-dep-iobj.html) – [mark](sv_pud-dep-mark.html) – [nmod](sv_pud-dep-nmod.html) – [nmod:poss](sv_pud-dep-nmod-poss.html) – [nsubj](sv_pud-dep-nsubj.html) – [nsubj:outer](sv_pud-dep-nsubj-outer.html) – [nsubj:pass](sv_pud-dep-nsubj-pass.html) – [nummod](sv_pud-dep-nummod.html) – [obj](sv_pud-dep-obj.html) – [obl](sv_pud-dep-obl.html) – [obl:agent](sv_pud-dep-obl-agent.html) – [orphan](sv_pud-dep-orphan.html) – [parataxis](sv_pud-dep-parataxis.html) – [punct](sv_pud-dep-punct.html) – [root](sv_pud-dep-root.html) – [vocative](sv_pud-dep-vocative.html) – [xcomp](sv_pud-dep-xcomp.html)
+[acl](sv_pud-dep-acl.html) – [acl:cleft](sv_pud-dep-acl-cleft.html) – [acl:relcl](sv_pud-dep-acl-relcl.html) – [advcl](sv_pud-dep-advcl.html) – [advcl:relcl](sv_pud-dep-advcl-relcl.html) – [advmod](sv_pud-dep-advmod.html) – [amod](sv_pud-dep-amod.html) – [appos](sv_pud-dep-appos.html) – [aux](sv_pud-dep-aux.html) – [aux:pass](sv_pud-dep-aux-pass.html) – [case](sv_pud-dep-case.html) – [cc](sv_pud-dep-cc.html) – [ccomp](sv_pud-dep-ccomp.html) – [compound](sv_pud-dep-compound.html) – [compound:prt](sv_pud-dep-compound-prt.html) – [conj](sv_pud-dep-conj.html) – [cop](sv_pud-dep-cop.html) – [csubj](sv_pud-dep-csubj.html) – [csubj:pass](sv_pud-dep-csubj-pass.html) – [det](sv_pud-dep-det.html) – [discourse](sv_pud-dep-discourse.html) – [dislocated](sv_pud-dep-dislocated.html) – [expl](sv_pud-dep-expl.html) – [fixed](sv_pud-dep-fixed.html) – [flat](sv_pud-dep-flat.html) – [flat:name](sv_pud-dep-flat-name.html) – [iobj](sv_pud-dep-iobj.html) – [mark](sv_pud-dep-mark.html) – [nmod](sv_pud-dep-nmod.html) – [nmod:poss](sv_pud-dep-nmod-poss.html) – [nsubj](sv_pud-dep-nsubj.html) – [nsubj:outer](sv_pud-dep-nsubj-outer.html) – [nsubj:pass](sv_pud-dep-nsubj-pass.html) – [nummod](sv_pud-dep-nummod.html) – [obj](sv_pud-dep-obj.html) – [obl](sv_pud-dep-obl.html) – [obl:agent](sv_pud-dep-obl-agent.html) – [orphan](sv_pud-dep-orphan.html) – [parataxis](sv_pud-dep-parataxis.html) – [punct](sv_pud-dep-punct.html) – [root](sv_pud-dep-root.html) – [vocative](sv_pud-dep-vocative.html) – [xcomp](sv_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -383,8 +383,6 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, självstyrande, växande</li>
-      <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, växande, återstående</li>
       <li>AUX-Fin: är, var, har, hade, kan, skulle, kommer, kunde, måste, ville</li>
       <li>VERB-Fin: har, sade, finns, säger, började, hade, blev, gjorde, tog, kommer</li>
     </ul>
@@ -439,6 +437,7 @@ Victor Norrman and Joakim Nivre.
     <ul>
       <li>VERB-Fin: finns, användes, fanns, lyckades, anses, behövs, bildades, föddes, förstördes, gavs</li>
       <li>VERB-Inf: finnas, ses, tillämpas, bebyggas, behövas, erbjudas, firas, flockas, flygas, förvaras</li>
+      <li>VERB-Part: avskedad, besegrad, dödade, filmad, förbluffad, intervjuad, tvingade</li>
       <li>VERB-Sup: använts, lämnats, odlats, rapporterats, setts, skrivits, accepterats, administrerats, anklagats, betonats</li>
     </ul>
   </li>
@@ -455,7 +454,7 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Art
     <ul>
-      <li>DET: en, den, ett, de, det</li>
+      <li>DET: en, den, ett, de, det, the, a, Die, El, Le</li>
       <li>PRON: de</li>
     </ul>
   </li>
@@ -464,7 +463,7 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Dem
     <ul>
-      <li>DET: denna, den, dessa, detta, det</li>
+      <li>DET: denna, den, dessa, detta, det, That</li>
       <li>PRON: detta, dessa, denna, det, den, dennes</li>
     </ul>
   </li>
@@ -482,7 +481,7 @@ Victor Norrman and Joakim Nivre.
 <ul>
   <li>Int,Rel
     <ul>
-      <li>ADV: där, hur, varför, när, dit, var, varav, då</li>
+      <li>ADV: där, hur, varför, dit, var, varav, då</li>
       <li>DET: vilket, vilken</li>
       <li>PRON: som, vad, vilket, vilka, vem, vilken, vars, vilkas</li>
       <li>SCONJ: när, då</li>
@@ -596,8 +595,8 @@ Victor Norrman and Joakim Nivre.
       <li>ADV
         <ul>
           <li>ADV: så, till</li>
-          <li>CCONJ: som</li>
           <li>PART: icke</li>
+          <li>SCONJ: som</li>
         </ul>
       </li>
     </ul>
@@ -664,7 +663,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(On) (1)</li>
       <li>VERB-Fin--NOUN-Nom (362)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(runt) (1)</li>
-      <li>VERB-Fin--PRON (187)</li>
+      <li>VERB-Fin--PRON (188)</li>
       <li>VERB-Fin--PRON-Nom (180)</li>
       <li>VERB-Inf--NOUN-Nom (54)</li>
       <li>VERB-Inf--PRON (27)</li>
@@ -686,7 +685,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
       <li>VERB-Fin--NOUN-Nom (378)</li>
-      <li>VERB-Fin--PRON (27)</li>
+      <li>VERB-Fin--PRON (28)</li>
       <li>VERB-Fin--PRON-Acc (52)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Nom (249)</li>
@@ -719,6 +718,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

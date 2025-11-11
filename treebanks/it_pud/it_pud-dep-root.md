@@ -47,7 +47,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	La	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cifra	cifra	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	massima	massimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
 4	consentita	consentire	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	2	acl	_	_
@@ -67,11 +67,11 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 13 root	color:blue
-1	Le	il	DET	DT	Gender=Fem|Number=Plur	3	det	_	_
+1	Le	il	DET	DT	Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 2	sue	suo	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	3	det:poss	_	_
 3	affermazioni	affermazione	NOUN	NN	Gender=Fem|Number=Plur	13	nsubj	_	_
 4	e	e	CCONJ	CC	_	7	cc	_	_
-5	le	il	DET	DT	Gender=Fem|Number=Plur	7	det	_	_
+5	le	il	DET	DT	Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 6	sue	suo	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	7	det:poss	_	_
 7	azioni	azione	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
 8	sono	essere	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	13	cop	_	SpaceAfter=No

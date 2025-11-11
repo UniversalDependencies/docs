@@ -218,13 +218,13 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (285562; 99%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (232503; 94%),
-<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (61681; 87%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (232511; 94%),
+<tt>NOUN --[<tt><a href="cs_pdtc-dep-det.html">det</a></tt>]--> DET</tt> (61683; 87%),
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (38756; 93%),
-<tt>PROPN --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (27189; 90%),
+<tt>PROPN --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (27190; 90%),
 <tt>NOUN --[<tt><a href="cs_pdtc-dep-flat.html">flat</a></tt>]--> PROPN</tt> (17025; 99%),
 <tt>PRON --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (13992; 100%),
 <tt>PROPN --[<tt><a href="cs_pdtc-dep-flat.html">flat</a></tt>]--> PROPN</tt> (12445; 93%),
-<tt>DET --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (11082; 97%),
+<tt>DET --[<tt><a href="cs_pdtc-dep-case.html">case</a></tt>]--> ADP</tt> (11081; 97%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9138; 97%).
 

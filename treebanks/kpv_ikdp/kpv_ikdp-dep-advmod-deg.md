@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 5	сэн	сэн	ADV	Adv	AdvType=Loc	8	advmod	_	_
 6	самей	сам	ADV	Adv	_	8	advmod:deg	_	OrigLang=ru
 7	и	и	PART	Pcle	_	6	advmod	_	OrigLang=ru
-8	рӧдитти	рӧдиттьыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru|SpaceAfter=No
+8	рӧдитти	рӧдиттьыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	OrigLang=ru|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 1	Зэй	зэй	ADV	Adv	_	2	advmod:deg	_	GTtags=Adv
 2	частэ	частэ	ADV	Adv	_	4	advmod	_	GTtags=Adv|OrigLang=ru
 3	пыр	пыр	ADV	Adv	_	4	advmod	_	GTtags=Adv
-4	гӧститлыылім	гӧститлывлыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Pl1|SpaceAfter=No|OrigLang=ru
+4	гӧститлыылім	гӧститлывлыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	GTtags=V,IV,Ind,Prt1,Pl1|SpaceAfter=No|OrigLang=ru
 5	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 
 ~~~

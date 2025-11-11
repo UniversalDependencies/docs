@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="fr_alts-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-296 nodes (1%) are attached to their parents as `acl`.
+598 nodes (1%) are attached to their parents as `acl`.
 
-294 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+592 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.06020066889632.
 
-The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (237; 80% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (36; 12% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (510; 85% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (40; 7% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (16; 3% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,68 +39,64 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 11 acl	color:blue
-1	Johan	Jehan	PROPN	_	Number=Plur	3	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-2	Piquot	Piquot	PROPN	_	Number=Plur	1	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-3	dit	dire	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-4	et	et	CCONJ	_	_	5	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-5	raporte	rapporter	VERB	_	VerbForm=Fin	3	conj	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-6	que	que	SCONJ	_	_	15	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
-7	lesditz	ledit	DET	_	Definite=Ind	8	det	_	gold_pos=DET|prpos=Di|uppos=D
-8	Collas	Gallés	PROPN	_	Number=Plur	15	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRPL
-9	et	et	CCONJ	_	_	10	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-10	Jehan	Jehan	PROPN	_	Number=Plur	8	conj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-11	ditz	dire	VERB	_	VerbForm=Part	8	acl	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-12	le	le	PROPN	_	Number=Plur	11	obj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-13	Gallees	Gallées	PROPN	_	Number=Plur	12	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-14	ont	avoir	AUX	_	VerbForm=Fin	15	aux	_	gold_pos=AUX|prpos=Vuc|uppos=AJ
-15	menachy	menacer	VERB	_	VerbForm=Part	3	ccomp	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-16	sa	son	DET	_	_	17	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
-17	fame	femme	NOUN	_	_	15	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-18	pour	pour	ADP	_	_	20	mark	_	gold_pos=ADP|prpos=S|uppos=P
-19	la	il	PRON	_	PronType=Prs	20	obj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-20	battre	battre	VERB	_	VerbForm=Inf	15	advcl	_	gold_pos=VERB|prpos=Vvn|SpaceAfter=No|uppos=VX
-21	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 13 acl	color:blue
+1	Iugé	juger	VERB	VPP	Tense=Past|VerbForm=Part	0	root	_	prpos=Ge
+2	par	par	ADP	P	_	3	case	_	prpos=S
+3	arrest	arrêt	NOUN	NCS	Number=Sing	1	obl	_	prpos=Nc
+4	le	le	DET	D	Definite=Def|PronType=Art	5	det	_	prpos=Da
+5	13.	treizième	ADJ	ADJNUM	NumType=Card	1	obl	_	prpos=Mc
+6	de	de	ADP	P	_	7	case	_	prpos=S
+7	May	mai	NOUN	NCS	Number=Sing	5	nmod	_	prpos=Nc
+8	1513.	1513	NUM	NUM	NumType=Card	7	nmod	_	prpos=Mc
+9	entre	entre	ADP	P	_	10	case	_	prpos=S
+10	Iean	Jean	PROPN	NPRS	Number=Sing	1	obl	_	prpos=Np
+11	et	et	CCONJ	CONJO	_	12	cc	_	prpos=Cc|wordform=[et]
+12	Paul	Paul	PROPN	NPRS	Number=Sing	10	conj	_	prpos=Np
+13	dits	dire	VERB	VPP	Tense=Past|VerbForm=Part	10	acl	_	prpos=Ge
+14	Hamon	Hamon	PROPN	NPRS	Number=Sing	13	xcomp	_	prpos=Np
+15	freres	frère	NOUN	NCPL	Number=Plur	14	appos	_	prpos=Nc|SpaceAfter=No
+16	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 16 acl	color:blue
-1	et	et	CCONJ	_	_	3	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-2	y	y	PRON	_	PronType=Prs	3	obl	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-3	est	être	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vuc|uppos=EJ
-4	touchant	touchant	ADP	_	_	6	case	_	gold_pos=ADP|prpos=S|uppos=P
-5	leur	leur	DET	_	_	6	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
-6	comport	comport	NOUN	_	_	3	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-7	et	et	CCONJ	_	_	8	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-8	governe	gouverne	NOUN	_	_	6	conj	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
-9	,	,	PUNCT	_	_	6	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
-10	et	et	CCONJ	_	_	12	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-11	de	de	ADP	_	_	12	case	_	gold_pos=ADP|prpos=S|uppos=P
-12	ce	ce	PRON	_	PronType=Dem	6	conj	_	gold_pos=PRON|prpos=Pd|uppos=PRO
-13	que	que	SCONJ	_	_	16	mark	_	gold_pos=SCONJ|prpos=Cs|uppos=CONJS
-14	ilz	il	PRON	_	PronType=Prs	16	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-15	sont	être	AUX	_	VerbForm=Fin	16	aux:pass	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
-16	suspectés	suspecter	VERB	_	VerbForm=Part	12	acl	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-17	d'	de	ADP	_	_	19	mark	_	gold_pos=ADP|prpos=S|SpaceAfter=No|uppos=P
-18	avoir	avoir	AUX	_	VerbForm=Inf	19	aux	_	gold_pos=AUX|join=left|prpos=Vun|uppos=AX
-19	usé	user	VERB	_	VerbForm=Part	16	ccomp	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-20	de	de	ADP	_	_	21	case	_	gold_pos=ADP|prpos=S|uppos=P
-21	art	art	NOUN	_	_	19	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-22	et	et	CCONJ	_	_	23	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-23	sort	sort	NOUN	_	_	21	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-24	de	de	ADP	_	_	25	case	_	gold_pos=ADP|prpos=S|uppos=P
-25	sorcherie	sorcerie	NOUN	_	_	21	nmod	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
-26	.	.	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fs|uppos=PONFP
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 acl	color:blue
+1	L'	le	DET	D	Definite=Def|PronType=Art	2	det	_	prpos=Da
+2	vne	un	PRON	PRO	PronType=Ind	0	root	_	join=left|prpos=Pi
+3	quand	quand	SCONJ	CONJS	_	6	mark	_	prpos=Cs
+4	on	on	PRON	PRO	PronType=Prs	6	nsubj	_	prpos=Pp
+5	fait	faire	AUX	VJ	Number=Sing|Person=3|VerbForm=Fin	6	aux	_	prpos=Vvc
+6	iurer	jurer	VERB	VX	VerbForm=Inf	2	acl	_	prpos=Vvn
+7	langueur	langueur	NOUN	NCS	Number=Sing	6	obj	_	prpos=Nc
+8	à	à	ADP	P	_	9	case	_	prpos=S
+9	celuy	celui	PRON	PRO	PronType=Dem	6	obl	_	prpos=Pd
+10	qui	qui	PRON	WPRO	PronType=Rel	12	nsubj	_	prpos=Pr
+11	a	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	12	aux	_	prpos=Vuc
+12	eu	avoir	VERB	APP	Tense=Past|VerbForm=Part	9	acl:relcl	_	prpos=Ge
+13	toutes	tout	DET	Q	Definite=Ind	15	det	_	prpos=Di
+14	ses	son	DET	DZ	Poss=Yes	15	det	_	prpos=Ds
+15	exoines	essoine	NOUN	NCPL	Number=Plur	12	obj	_	prpos=Nc|SpaceAfter=No
+16	,	,	PUNCT	PON	_	21	punct	_	join=left|prpos=Fw
+17	de	de	ADP	P	_	18	case	_	prpos=S
+18	quoy	quoi	PRON	WPRO	PronType=Rel	21	obl	_	prpos=Pr
+19	a	avoir	AUX	AJ	Number=Sing|Person=3|VerbForm=Fin	21	aux	_	prpos=Vuc
+20	esté	être	AUX	EPP	Tense=Past|VerbForm=Part	21	aux:pass	_	prpos=Ge
+21	parlé	parler	VERB	VPP	Tense=Past|VerbForm=Part	2	acl:relcl	_	prpos=Ge
+22	à	à	ADP	P	_	24	case	_	prpos=S
+23	le	le	DET	P	Definite=Def|PronType=Art	24	det	_	prpos=Da
+24	titre	titre	NOUN	NCS	Number=Sing	21	obl	_	prpos=Nc
+25	De	de	ADP	P	_	26	case	_	prpos=S
+26	langueur	langueur	NOUN	NCS	Number=Sing	24	flat	_	prpos=Nc|SpaceAfter=No
+27	.	.	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
 
 ~~~
 

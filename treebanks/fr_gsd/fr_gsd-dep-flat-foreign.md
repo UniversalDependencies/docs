@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt>.
 
-1062 nodes (0%) are attached to their parents as `flat:foreign`.
+1075 nodes (0%) are attached to their parents as `flat:foreign`.
 
-1062 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.61111111111111.
+1075 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.6.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1062; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1075; 100% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	deuxième	deuxième	ADJ	_	Number=Sing	6	amod	_	Gender[ctxt]=Masc
-6	album	album	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	album	album	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Masc
 7	de	de	ADP	_	_	8	case	_	_
 8	Peter	Peter	X	_	Foreign=Yes	6	nmod	_	Lang=en
 9	Bjorn	Bjorn	X	_	Foreign=Yes	8	flat:foreign	_	Lang=en

@@ -30,13 +30,13 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	Laissez	laisser	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 7	Yeltsin	Yeltsin	PROPN	_	_	6	obj	_	_
 8	prendre	prendre	VERB	_	VerbForm=Inf	6	xcomp	_	_
-9	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	10	det	_	_
+9	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
 10	vodka	vodka	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
 11	et	et	CCONJ	_	_	13	cc	_	_
 12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	Tchétchénie	Tchétchénie	PROPN	_	_	6	conj	_	_
 14	obtenir	obtenir	VERB	_	VerbForm=Inf	13	orphan	_	_
-15	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	16	det	_	_
+15	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	_
 16	liberté	liberté	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
 17	"	"	PUNCT	_	_	6	punct	_	_
 18	?	?	PUNCT	_	_	3	punct	_	_

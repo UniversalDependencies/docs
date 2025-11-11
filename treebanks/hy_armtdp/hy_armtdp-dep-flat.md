@@ -7,70 +7,72 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-ArmTDP: Relations: `flat`
 
 This relation is universal.
+There are 3 language-specific subtypes of `flat`: <tt><a href="hy_armtdp-dep-flat-frac.html">flat:frac</a></tt>, <tt><a href="hy_armtdp-dep-flat-name.html">flat:name</a></tt>, <tt><a href="hy_armtdp-dep-flat-range.html">flat:range</a></tt>.
 
-522 nodes (1%) are attached to their parents as `flat`.
+720 nodes (1%) are attached to their parents as `flat`.
 
-522 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.37547892720307.
+720 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.16388888888889.
 
-The following 22 pairs of parts of speech are connected with `flat`: <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (265; 51% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (95; 18% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (37; 7% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (36; 7% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (24; 5% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (16; 3% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat	color:blue
-1	Ֆուադ	Ֆուադ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	nmod:poss	_	Translit=Fowad|LTranslit=Fowad
-2	Լարուիի	Լարուի	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	1	flat	_	Translit=Larowii|LTranslit=Larowi
-3	գրքերը	գիրք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	4	obj	_	Translit=grk’erë|LTranslit=girk’
-4	հայտնաբերելը	հայտնաբերելը	VERB	_	Case=Nom|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	9	nsubj	_	Translit=haytnaberelë|LTranslit=haytnaberelë
-5	հոբբիի	հոբբի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	obl	_	Translit=hobbii|LTranslit=hobbi
-6	նման	նման	ADJ	_	Degree=Pos	7	amod	_	Translit=nman|LTranslit=nman
-7	բան	բան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	xcomp	_	Translit=ban|LTranslit=ban
-8	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	9	aux	_	Translit=ēr|LTranslit=em
-9	դարձել	դառնալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=darjel|LTranslit=daṙnal|SpaceAfter=No
-10	։	։	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
-
-~~~
+The following 18 pairs of parts of speech are connected with `flat`: <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (477; 66% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (43; 6% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (35; 5% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (30; 4% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (26; 4% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (24; 3% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (21; 3% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (19; 3% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 flat	color:blue
-1	2	2	NUM	_	NumForm=Digit|NumType=Card	0	root	_	Translit=2|LTranslit=2
-2	Մայիսի	մայիս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	1	flat	_	Translit=Mayisi|LTranslit=mayis
-3	2019	2019	NUM	_	NumForm=Digit|NumType=Card	1	flat	_	Translit=2019|LTranslit=2019|SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
-5	517	517	NUM	_	NumForm=Digit|NumType=Card	1	parataxis	_	Translit=517|LTranslit=517
-6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-
-7	Ա	անհատական	ADJ	_	Abbr=Yes	5	flat	_	Translit=A|LTranslit=anhatakan
-
-~~~
-
-
-~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
+# visual-style 4 5 flat	color:blue
+1	Այն	այն	PRON	_	Deixis=Remt|PronType=Dem	2	nsubj	_	Translit=Ayn|LTranslit=ayn
+2	ունի	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=owni|LTranslit=ownem
+3	շուրջ	շուրջ	ADV	_	_	4	advmod	_	Translit=šowrǰ|LTranslit=šowrǰ
+4	մեկ	մեկ	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	Translit=mek|LTranslit=mek
+5	հազար	հազար	NUM	_	NumForm=Word|NumType=Card	4	flat	_	Translit=hazar|LTranslit=hazar
+6	բնակիչ	բնակիչ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	2	obj	_	Translit=bnakič|LTranslit=bnakič|SpaceAfter=No
+7	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat	color:blue
+1	ԹՌԻՉՔԻ	թռիչք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=T’ṘIČK’I|LTranslit=t’ṙičk’
+2	ԿԱՌԱՎԱՐՄԱՆ	կառավարում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	3	nmod:poss	_	Translit=KAṘAVARMAN|LTranslit=kaṙavarowm
+3	ԿԵՆՏՐՈՆ	կենտրոն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=KENTRON|LTranslit=kentron|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+5	17	17	NUM	_	NumForm=Digit|NumType=Card	3	parataxis	_	Translit=17|LTranslit=17
+6	սեպտեմբերի	սեպտեմբեր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	flat	_	Translit=septemberi|LTranslit=september
+7	(	(	PUNCT	_	_	8	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
+8	ՏԱՍՍ	ՏԱՍՍ	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	3	parataxis	_	Translit=TASS|LTranslit=TASS|SpaceAfter=No
+9	)	)	PUNCT	_	_	8	punct	_	Translit=)|LTranslit=)|SpaceAfter=No
+10	:	:	PUNCT	_	Foreign=Yes	3	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 flat	color:blue
+# visual-style 2 6 flat	color:blue
 1	«	«	PUNCT	_	_	2	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Օ	օ	X	_	_	0	root	_	Translit=Ò|LTranslit=ò|SpaceAfter=No
-3	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-4	քեյ	քեյ	X	_	_	2	flat	_	Translit=k’ey|LTranslit=k’ey|SpaceAfter=No
-5	»	»	PUNCT	_	_	2	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-6	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
-7	ասում	ասել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	2	parataxis	_	Translit=asowm|LTranslit=asel
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
-9	աշխարհ	աշխարհ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	10	compound:lvc	_	Translit=ašxarh|LTranslit=ašxarh
-10	տեսած	տեսնել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	11	acl	_	Translit=tesaç|LTranslit=tesnel
-11	ձուկը	ձուկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Translit=jowkë|LTranslit=jowk|SpaceAfter=No
-12	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+2	Տրուդ	Տրուդ	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Oth|Number=Sing	0	root	_	Translit=Trowd|LTranslit=Trowd|SpaceAfter=No
+3	»	»	PUNCT	_	_	2	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+4	—	—	PUNCT	_	_	6	punct	_	Translit=—|LTranslit=—|SpaceAfter=No
+5	«	«	PUNCT	_	_	6	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+6	Վոլգա	Վոլգա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Oth|Number=Sing	2	flat	_	Translit=Volga|LTranslit=Volga|SpaceAfter=No
+7	»	»	PUNCT	_	_	6	punct	_	Translit=»|LTranslit=»
+8	Կալ	Կալ.	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	6	flat:name	_	Translit=Kal|LTranslit=Kal.|SpaceAfter=No
+9	.	.	PUNCT	_	Foreign=Yes	8	punct	_	Translit=.|LTranslit=.|SpaceAfter=No
+10	՝	՝	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
+11	0	0	NUM	_	NumForm=Digit|NumType=Card	2	parataxis	_	Translit=0|LTranslit=0|SpaceAfter=No
+12	։	։	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.|SpaceAfter=No
+13	1	1	NUM	_	NumForm=Digit|NumType=Card	11	flat	_	Translit=1|LTranslit=1
 
 ~~~
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Dim` are language-specific.
 It occurs with 1 different values: `Dim`.
 
-62 tokens (1%) have a non-empty value of `Degree`.
-33 types (1%) occur at least once with a non-empty value of `Degree`.
-30 lemmas (2%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (3; 0% instances).
+69 tokens (1%) have a non-empty value of `Degree`.
+37 types (1%) occur at least once with a non-empty value of `Degree`.
+33 lemmas (2%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 5 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
 33 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="nhi_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (24; 73%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (24; 73%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 55%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="nhi_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 88%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 55%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
-* `Dim` (33; 100% of non-empty `Degree`): <em>tenantzin, isihtzin, tipitzin, guitarritas, moawitzin, namokniwantzitzin, nisijtzin, nowewetzin, tesihtzin, totlaoltzin</em>
-* `EMPTY` (1451): <em>ich, itich, atl, ica, ika, itzcuintli, pueblo, telpukatl, topueblo, tonal</em>
+* `Dim` (33; 100% of non-empty `Degree`): <em>isihtzin, tenantzin, tipitzin, Nosintitzin, guitarritas, moawitzin, namokniwantzitzin, nisihtzin, nisijtzin, nowewetzin</em>
+* `EMPTY` (1456): <em>ich, itich, atl, ica, ika, itzcuintli, pueblo, telpukatl, topueblo, tonal</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (20) occur only with one value of `Degree`.
 
@@ -38,14 +38,14 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 ### `ADJ`
 
-6 <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Degree`.
+13 <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="nhi_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 54%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Dim` (6; 100% of non-empty `Degree`): <em>chihchikichih, hueyihtzin, kualtzin, tzocotzin, titzocotzitzin, tzocotzitzin</em>
-* `EMPTY` (131): <em>cualli, kwale, kwaltsih, weyi, igual, kwali, Nuevo, atrasado, chihchikichih, chikawak</em>
+* `Dim` (13; 100% of non-empty `Degree`): <em>chihchikichih, kwaltsih, kualtzin, tzocotzin, hueyihtzin, nitzotzocotzi, titzocotzitzin, tlacualtzincan, tzocotzitzin</em>
+* `EMPTY` (118): <em>cualli, kwale, weyi, igual, kwali, Nuevo, atrasado, kwaltsih, chikawak, cocolisohqueh</em>
 
 ### `ADV`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Dim` (5; 100% of non-empty `Degree`): <em>tzocotzin, kwaltsin, tipitzin, tzokotzitzin</em>
-* `EMPTY` (1337): <em>amo, ya, ompa, nikah, y, simi, ohcon, san, después, ok</em>
+* `EMPTY` (1333): <em>amo, ya, ompa, nikah, y, simi, ohcon, san, después, axan</em>
 
 ### `PRON`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Dim` (3; 100% of non-empty `Degree`): <em>namejwantzitzin, mowisiotzin</em>
-* `EMPTY` (505): <em>neh, yeh, tlen, non, nochi, teh, yej, tlenoh, tehwah, ye</em>
+* `EMPTY` (503): <em>neh, yeh, tlen, non, nochi, teh, yej, tlenoh, tehwah, ye</em>
 
 ## Relations with Agreement in `Degree`
 

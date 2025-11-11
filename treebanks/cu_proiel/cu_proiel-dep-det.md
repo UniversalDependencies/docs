@@ -39,12 +39,12 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 det	color:blue
-1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=77.4
-2	оутаі	оутаити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=77.4
-3	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	ref=77.4
-4	отъ	отъ	ADP	R-	_	5	case	_	ref=77.4
-5	чѩдъ	чѧдо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	2	obl	_	ref=77.4
-6	іхъ	и	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=77.4
+1	Не	не	ADV	Df	Polarity=Neg	2	advmod	_	Ref=77.4
+2	оутаі	оутаити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=77.4
+3	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	Ref=77.4
+4	отъ	отъ	ADP	R-	_	5	case	_	Ref=77.4
+5	чѩдъ	чѧдо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	2	obl	_	Ref=77.4
+6	іхъ	и	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	Ref=77.4
 
 ~~~
 
@@ -55,12 +55,12 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 det	color:blue
-1	Ї	и	CCONJ	C-	_	5	cc	_	ref=77.58
-2	въ	въ	ADP	R-	_	3	case	_	ref=77.58
-3	істоуканьнꙑхъ	истоуканьнꙑи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	5	advmod	_	ref=77.58
-4	своіхъ	свои	DET	Pt	Case=Loc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	det	_	ref=77.58
-5	раздражішѩ	раздражити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.58
-6	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	ref=77.58
+1	Ї	и	CCONJ	C-	_	5	cc	_	Ref=77.58
+2	въ	въ	ADP	R-	_	3	case	_	Ref=77.58
+3	істоуканьнꙑхъ	истоуканьнꙑи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	5	advmod	_	Ref=77.58
+4	своіхъ	свои	DET	Pt	Case=Loc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	det	_	Ref=77.58
+5	раздражішѩ	раздражити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=77.58
+6	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Ref=77.58
 
 ~~~
 

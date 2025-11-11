@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-84777 tokens (50%) have a non-empty value of `Number`.
-14450 types (76%) occur at least once with a non-empty value of `Number`.
-8122 lemmas (63%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (31276; 19% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (24207; 14% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (12992; 8% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (8462; 5% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (4308; 3% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (3532; 2% instances).
+84681 tokens (50%) have a non-empty value of `Number`.
+14412 types (75%) occur at least once with a non-empty value of `Number`.
+8113 lemmas (63%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (31136; 19% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (24244; 14% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (12862; 8% instances), <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (8559; 5% instances), <tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (4308; 3% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (3491; 2% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (81; 0% instances).
 
 ### `NOUN`
 
-31276 <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+31136 <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (8769; 28% of non-empty `Number`): <em>anos, pessoas, dias, empresas, milhões, meses, vezes, bilhões, clientes, pontos</em>
-* `Sing` (22507; 72% of non-empty `Number`): <em>presidente, ano, dia, país, vez, tempo, parte, governo, empresa, casa</em>
+* `Plur` (8718; 28% of non-empty `Number`): <em>anos, pessoas, dias, empresas, milhões, meses, vezes, bilhões, clientes, pontos</em>
+* `Sing` (22418; 72% of non-empty `Number`): <em>presidente, ano, dia, país, vez, tempo, parte, governo, empresa, casa</em>
 * `EMPTY` (126): <em>km, ônibus, vírus, ml, pop, min, km/h, km², m, pênis</em>
 
 <table>
@@ -31,14 +31,14 @@ The feature is used with 6 part-of-speech tags: <tt><a href="pt_porttinari-pos-N
 
 ### `DET`
 
-24207 <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+24244 <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (21177; 87%), <tt><a href="pt_porttinari-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (18892; 78%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12915; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (21217; 88%), <tt><a href="pt_porttinari-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (18936; 78%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12937; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (4428; 18% of non-empty `Number`): <em>os, as, seus, suas, outros, todos, essas, esses, outras, alguns</em>
-* `Sing` (19779; 82% of non-empty `Number`): <em>o, a, um, uma, sua, seu, esse, essa, este, esta</em>
+* `Plur` (4430; 18% of non-empty `Number`): <em>os, as, seus, suas, outros, todos, essas, esses, outras, alguns</em>
+* `Sing` (19814; 82% of non-empty `Number`): <em>o, a, um, uma, sua, seu, esse, essa, este, esta</em>
 * `EMPTY` (118): <em>mais, que, menos</em>
 
 <table>
@@ -50,15 +50,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-12992 <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
+12862 <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11264; 87%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10725; 83%), <tt><a href="pt_porttinari-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10573; 81%), <tt><a href="pt_porttinari-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9785; 75%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (9726; 75%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11054; 86%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10721; 83%), <tt><a href="pt_porttinari-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10569; 82%), <tt><a href="pt_porttinari-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9781; 76%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (9724; 76%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (2949; 23% of non-empty `Number`): <em>podem, têm, temos, devem, tiveram, dizem, passaram, querem, ficaram, tinham</em>
-* `Sing` (10043; 77% of non-empty `Number`): <em>diz, tem, há, disse, pode, afirma, deve, teve, afirmou, tinha</em>
-* `EMPTY` (4240): <em>fazer, ter, ver, dar, partir, dizer, ficar, chegar, entender, ajudar</em>
+* `Plur` (2899; 23% of non-empty `Number`): <em>podem, têm, temos, devem, tiveram, dizem, passaram, querem, ficaram, tinham</em>
+* `Sing` (9963; 77% of non-empty `Number`): <em>diz, tem, há, disse, pode, afirma, deve, teve, afirmou, tinha</em>
+* `EMPTY` (4242): <em>fazer, ter, ver, dar, partir, dizer, ficar, chegar, entender, ajudar</em>
 
 <table>
   <tr><th>Paradigm <i>ter</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -86,15 +86,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-8462 <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
+8559 <tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7538; 89%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7510; 88%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (2476; 29% of non-empty `Number`): <em>sociais, grandes, últimos, maiores, diferentes, principais, muitos, muitas, importantes, anteriores</em>
-* `Sing` (5986; 71% of non-empty `Number`): <em>maior, grande, melhor, possível, primeira, importante, difícil, novo, primeiro, principal</em>
-* `EMPTY` (94): <em>simples, 1º, 1ª, 2º, 11º, 12ª, 17º, 24ª, 2ª, 3º</em>
+* `Plur` (2522; 29% of non-empty `Number`): <em>sociais, grandes, últimos, maiores, diferentes, principais, muitos, muitas, importantes, anteriores</em>
+* `Sing` (6037; 71% of non-empty `Number`): <em>maior, grande, melhor, possível, importante, primeira, difícil, novo, principal, atual</em>
+* `EMPTY` (32): <em>simples, pop, sexy, solo, 102°, 50°, OK, alto-astral, anti-gay, machê</em>
 
 <table>
   <tr><th>Paradigm <i>novo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -134,15 +134,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-3532 <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> tokens (55% of all `PRON` tokens) have a non-empty value of `Number`.
+3491 <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> tokens (55% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2131; 60%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (1871; 53%), <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1780; 50%), <tt><a href="pt_porttinari-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1770; 50%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2109; 60%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (1828; 52%), <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1780; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (752; 21% of non-empty `Number`): <em>eles, os, nos, elas, nós, as, todos, outros, muitos, alguns</em>
-* `Sing` (2780; 79% of non-empty `Number`): <em>o, ele, isso, ela, eu, a, me, você, nada, algo</em>
-* `EMPTY` (2880): <em>que, se, quem, tudo, quê, Muito</em>
+* `Plur` (750; 21% of non-empty `Number`): <em>eles, os, nos, elas, nós, as, todos, outros, muitos, alguns</em>
+* `Sing` (2741; 79% of non-empty `Number`): <em>o, ele, isso, ela, eu, a, me, você, nada, algo</em>
+* `EMPTY` (2877): <em>que, se, quem, tudo, quê, Muito</em>
 
 <table>
   <tr><th>Paradigm <i>ele</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -150,17 +150,37 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ela</em></td><td><em>elas</em></td></tr>
 </table>
 
+### `NUM`
+
+81 <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="pt_porttinari-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (81; 100%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (55; 68%).
+
+`NUM` tokens may have the following values of `Number`:
+
+* `Plur` (3; 4% of non-empty `Number`): <em>primeiros</em>
+* `Sing` (78; 96% of non-empty `Number`): <em>primeiro, primeira, 1º, segundo, segunda, terceiro, 2ª, 3º, quinto, terceira</em>
+* `EMPTY` (3218): <em>um, dois, uma, três, duas, mil, 20, quatro, 30, 2016</em>
+
+<table>
+  <tr><th>Paradigm <i>primeiro</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>primeiro</em></td><td><em>primeiros</em></td></tr>
+  <tr><td><tt><tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>primeira</em></td><td></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `NUM`. 93% lemmas (13) occur only with one value of `Number`.
+
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="pt_porttinari-dep-det.html">det</a></tt>]--> DET</tt> (20227; 99%),
-<tt>NOUN --[<tt><a href="pt_porttinari-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6116; 99%),
-<tt>NOUN --[<tt><a href="pt_porttinari-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4792; 61%),
-<tt>VERB --[<tt><a href="pt_porttinari-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3464; 92%),
-<tt>VERB --[<tt><a href="pt_porttinari-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3259; 53%),
-<tt>NOUN --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1258; 81%),
-<tt>NOUN --[<tt><a href="pt_porttinari-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1059; 85%),
-<tt>NOUN --[<tt><a href="pt_porttinari-dep-cop.html">cop</a></tt>]--> AUX</tt> (1033; 81%),
-<tt>VERB --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> VERB</tt> (902; 84%),
-<tt>ADJ --[<tt><a href="pt_porttinari-dep-cop.html">cop</a></tt>]--> AUX</tt> (899; 91%).
+<tt>NOUN --[<tt><a href="pt_porttinari-dep-det.html">det</a></tt>]--> DET</tt> (20154; 99%),
+<tt>NOUN --[<tt><a href="pt_porttinari-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6195; 99%),
+<tt>NOUN --[<tt><a href="pt_porttinari-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4759; 61%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3430; 92%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3190; 53%),
+<tt>NOUN --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1250; 81%),
+<tt>NOUN --[<tt><a href="pt_porttinari-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1050; 86%),
+<tt>NOUN --[<tt><a href="pt_porttinari-dep-cop.html">cop</a></tt>]--> AUX</tt> (1030; 81%),
+<tt>ADJ --[<tt><a href="pt_porttinari-dep-cop.html">cop</a></tt>]--> AUX</tt> (903; 91%),
+<tt>VERB --[<tt><a href="pt_porttinari-dep-conj.html">conj</a></tt>]--> VERB</tt> (903; 84%).
 

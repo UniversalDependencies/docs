@@ -23,13 +23,13 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 nsubj:pass	color:blue
-1	et	et	CCONJ	C-	_	3	cc	_	ref=MARK_5.29
-2	confestim	confestim	ADV	Df	_	3	advmod	_	ref=MARK_5.29
-3	siccatus	sicco	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MARK_5.29
-4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	ref=MARK_5.29
-5	fons	fons	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	ref=MARK_5.29
-6	sanguinis	sanguis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=MARK_5.29
-7	eius	is	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=MARK_5.29
+1	et	et	CCONJ	C-	_	3	cc	_	Ref=MARK_5.29
+2	confestim	confestim	ADV	Df	_	3	advmod	_	Ref=MARK_5.29
+3	siccatus	sicco	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Ref=MARK_5.29
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	Ref=MARK_5.29
+5	fons	fons	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	Ref=MARK_5.29
+6	sanguinis	sanguis	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Ref=MARK_5.29
+7	eius	is	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	det	_	Ref=MARK_5.29
 
 ~~~
 
@@ -40,15 +40,15 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nsubj:pass	color:blue
-1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.6
-2	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	3	nsubj	_	ref=MATT_5.6
-3	esuriunt	esurio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	nsubj	_	ref=MATT_5.6
-4	et	et	CCONJ	C-	_	5	cc	_	ref=MATT_5.6
-5	sitiunt	sitio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=MATT_5.6
-6	iustitiam	iustitia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.6
-7	quoniam	quoniam	SCONJ	G-	_	9	mark	_	ref=MATT_5.6
-8	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj:pass	_	ref=MATT_5.6
-9	saturabuntur	saturo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	1	advcl	_	ref=MATT_5.6
+1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	Ref=MATT_5.6
+2	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	3	nsubj	_	Ref=MATT_5.6
+3	esuriunt	esurio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	nsubj	_	Ref=MATT_5.6
+4	et	et	CCONJ	C-	_	5	cc	_	Ref=MATT_5.6
+5	sitiunt	sitio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Ref=MATT_5.6
+6	iustitiam	iustitia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Ref=MATT_5.6
+7	quoniam	quoniam	SCONJ	G-	_	9	mark	_	Ref=MATT_5.6
+8	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj:pass	_	Ref=MATT_5.6
+9	saturabuntur	saturo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	1	advcl	_	Ref=MATT_5.6
 
 ~~~
 
@@ -59,10 +59,10 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nsubj:pass	color:blue
-1	et	et	CCONJ	C-	_	4	cc	_	ref=ACTS_9.40
-2	viso	video	VERB	V-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	ref=ACTS_9.40
-3	Petro	Petrus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	2	nsubj:pass	_	ref=ACTS_9.40
-4	resedit	resideo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_9.40
+1	et	et	CCONJ	C-	_	4	cc	_	Ref=ACTS_9.40
+2	viso	video	VERB	V-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	Ref=ACTS_9.40
+3	Petro	Petrus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	2	nsubj:pass	_	Ref=ACTS_9.40
+4	resedit	resideo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=ACTS_9.40
 
 ~~~
 

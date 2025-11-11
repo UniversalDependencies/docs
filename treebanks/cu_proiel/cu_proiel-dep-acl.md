@@ -39,12 +39,12 @@ The following 43 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 acl	color:blue
-1	и҅	и	CCONJ	C-	_	2	cc	_	ref=19
-2	нѣстъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=19
-3	никтоже	никътоже	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=19
-4	противꙙи	противити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	ref=19
-5	сꙙ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	ref=19
-6	тебѣ	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl:arg	_	ref=19
+1	и҅	и	CCONJ	C-	_	2	cc	_	Ref=19
+2	нѣстъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=19
+3	никтоже	никътоже	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=19
+4	противꙙи	противити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	Ref=19
+5	сꙙ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	Ref=19
+6	тебѣ	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl:arg	_	Ref=19
 
 ~~~
 
@@ -55,14 +55,14 @@ The following 43 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 acl	color:blue
-1	Посъла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=104.26
-2	мосѣа	моси	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	ref=104.26
-3	раба	рабъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	ref=104.26
-4	своего	свои	DET	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	det	_	ref=104.26
-5	Арона	аронъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	ref=104.26
-6	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	7	obj	_	ref=104.26
-7	избъра	избьрати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	ref=104.26
-8	себѣ	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	obl	_	ref=104.26
+1	Посъла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=104.26
+2	мосѣа	моси	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	Ref=104.26
+3	раба	рабъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	Ref=104.26
+4	своего	свои	DET	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	det	_	Ref=104.26
+5	Арона	аронъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	Ref=104.26
+6	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	7	obj	_	Ref=104.26
+7	избъра	избьрати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	Ref=104.26
+8	себѣ	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	obl	_	Ref=104.26
 
 ~~~
 

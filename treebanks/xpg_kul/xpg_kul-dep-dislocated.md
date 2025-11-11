@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 7	εσ?αν	_	X	_	_	6	goeswith	_	Ref=TM932138|1|7
 8	μανκαν	μανκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Ref=TM932138|1|8
 9	ιαν	ios	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	10	obj	_	Ref=TM932138|1|9
-10	εσταες	estaes	VERB	_	_	8	acl	_	Ref=TM932138|1|10
+10	εσταες	estaes	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	Ref=TM932138|1|10
 11	βρατερε	braterais	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	Ref=TM932138|1|11
 12	μαιμαρηαν	μαιμαρηαν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	dislocated	_	SpaceAfter=No|Ref=TM932138|1|12
 13	,	,	PUNCT	_	_	16	punct	_	Ref=TM932138|1|13

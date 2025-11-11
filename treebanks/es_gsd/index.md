@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Miguel Ballesteros, Héctor Martínez Alonso, Ryan McDonald, Elena Pascual, Natalia Silveira, Daniel Zeman, Joakim Nivre.
 
 Repository: [UD_Spanish-GSD](https://github.com/UniversalDependencies/UD_Spanish-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 
 ## Features
 
-[Abbr](es_gsd-feat-Abbr.html) – [Case](es_gsd-feat-Case.html) – [Definite](es_gsd-feat-Definite.html) – [Degree](es_gsd-feat-Degree.html) – [Foreign](es_gsd-feat-Foreign.html) – [Gender](es_gsd-feat-Gender.html) – [Mood](es_gsd-feat-Mood.html) – [Number](es_gsd-feat-Number.html) – [Number[psor]](es_gsd-feat-Number-psor.html) – [NumForm](es_gsd-feat-NumForm.html) – [NumType](es_gsd-feat-NumType.html) – [Person](es_gsd-feat-Person.html) – [Polarity](es_gsd-feat-Polarity.html) – [Polite](es_gsd-feat-Polite.html) – [Poss](es_gsd-feat-Poss.html) – [PrepCase](es_gsd-feat-PrepCase.html) – [PronType](es_gsd-feat-PronType.html) – [PunctSide](es_gsd-feat-PunctSide.html) – [PunctType](es_gsd-feat-PunctType.html) – [Reflex](es_gsd-feat-Reflex.html) – [Tense](es_gsd-feat-Tense.html) – [Typo](es_gsd-feat-Typo.html) – [VerbForm](es_gsd-feat-VerbForm.html)
+[Abbr](es_gsd-feat-Abbr.html) – [Case](es_gsd-feat-Case.html) – [Definite](es_gsd-feat-Definite.html) – [Degree](es_gsd-feat-Degree.html) – [ExtPos](es_gsd-feat-ExtPos.html) – [Foreign](es_gsd-feat-Foreign.html) – [Gender](es_gsd-feat-Gender.html) – [Mood](es_gsd-feat-Mood.html) – [Number](es_gsd-feat-Number.html) – [Number[psor]](es_gsd-feat-Number-psor.html) – [NumForm](es_gsd-feat-NumForm.html) – [NumType](es_gsd-feat-NumType.html) – [Person](es_gsd-feat-Person.html) – [Polarity](es_gsd-feat-Polarity.html) – [Polite](es_gsd-feat-Polite.html) – [Poss](es_gsd-feat-Poss.html) – [PrepCase](es_gsd-feat-PrepCase.html) – [PronType](es_gsd-feat-PronType.html) – [PunctSide](es_gsd-feat-PunctSide.html) – [PunctType](es_gsd-feat-PunctType.html) – [Reflex](es_gsd-feat-Reflex.html) – [Tense](es_gsd-feat-Tense.html) – [Typo](es_gsd-feat-Typo.html) – [VerbForm](es_gsd-feat-VerbForm.html)
 
 ## Relations
 
@@ -89,7 +89,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus contains 46427 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 46429 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -122,7 +122,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus contains 89 lemmas tagged as determiners (DET): a, ae, alguno, all, ambos, apenas, aquel, aquél, as, bastante, cada, cierto, cualquier, cualquiera, cuan, cuanta, cuanto, cuantos, cuyo, cuàles, cuál, cuán, da, de, del, dema, demasiado, demás, den, des, dicha, dicho, die, distinto, diverso, e, el, ela, ese, esta, este, estós, ha, ir, johnson, kentrocapros, l', le, ls, lso, mes, mi, mucho, muchísimo, my, ninguno, nuestro, o, otro, our, perino, plas, poco, pocos, que, qué, s., sendo, sendos, ser, su, sus, suyo, tal, tanto, the, todas, todo, tu, tus, unir, uno, vaario, varios, varía, vuestra, vuestro, ﻿el, ﻿la</li>
+<li>This corpus contains 88 lemmas tagged as determiners (DET): a, ae, alguno, all, ambos, apenas, aquel, aquél, as, bastante, cada, cierto, cualquier, cualquiera, cuan, cuanta, cuanto, cuantos, cuyo, cuàles, cuál, cuán, da, de, del, dema, demasiado, demás, den, des, dicha, dicho, die, distinto, diverso, e, el, ela, ese, esta, este, estós, ha, ir, johnson, kentrocapros, l', le, ls, lso, mes, mi, mucho, muchísimo, my, ninguno, nuestro, o, otro, our, plas, poco, pocos, que, qué, s., sendo, sendos, ser, su, sus, suyo, tal, tanto, the, todas, todo, tu, tus, unir, uno, vaario, varios, varía, vuestra, vuestro, ﻿el, ﻿la</li>
 </ul>
 
 <ul>
@@ -783,6 +783,62 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADJ: junto, detrás, previo, salvo, Anterior, Aparte, Contrario, justo</li>
+          <li>ADJ-Part: previo</li>
+          <li>ADP: a, en, Al, por, con, de, dentro, Después, ante, aparte</li>
+          <li>ADV: después, dentro, junto, antes, cerca, además, alrededor, luego, fuera, debajo</li>
+          <li>CCONJ: como</li>
+          <li>NOUN: frente, gracias, respecto, aparte, merced, rumbo, fruto</li>
+          <li>VERB-Fin: debido, pese</li>
+          <li>VERB-Ger: debido, pese</li>
+          <li>VERB-Inf: pese</li>
+          <li>VERB-Part: debido</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: sin, en, a, por, Al, desde, De, Mientras, sobre</li>
+          <li>ADV: después, antes, además, dentro, cerca, fuera, no, mientras, alrededor, debajo</li>
+          <li>CCONJ: ni, o</li>
+          <li>VERB-Fin: es</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADJ: igual</li>
+          <li>ADP: sin, a, en</li>
+          <li>ADV: así, no, además, mientras, ya, sólo, antes, después, más, sino</li>
+          <li>CCONJ: mientras, o, sino, Es, Pero, ainsi</li>
+          <li>PRON: esto</li>
+          <li>VERB-Fin: es, vale</li>
+          <li>VERB-Ger: Pese</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADJ: junto</li>
+          <li>ADP: para, a, con, de, por, en, sin, como, desde, Hasta</li>
+          <li>ADV: ya, después, antes, mientras, así, luego, además, siempre, tal, como</li>
+          <li>CCONJ: mientras, si, como, para, y</li>
+          <li>DET: una, toda</li>
+          <li>NOUN: puesto, vez</li>
+          <li>NOUN-Part: puesto</li>
+          <li>PRON: nada, tanto</li>
+          <li>SCONJ: mientras, si, como, cómo, ni, para, por, puesto</li>
+          <li>VERB-Fin: puesto, pese, debido, es, por</li>
+          <li>VERB-Ger: pese, Debido</li>
+          <li>VERB-Part: dado, debido, dada, puesto</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -792,6 +848,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
           <li>AUX: can, is, 's, Am, Do, Was, Were, be, ist</li>
           <li>AUX-Fin: is, 's, Am, Do, Was, Were, ist</li>
           <li>AUX-Inf: be</li>
+          <li>CCONJ: et, que, ainsi</li>
           <li>DET: the, a, o, ha, la</li>
           <li>NOUN: Apostoli, Bass, Boy, Dioecesis, Yu, gao, guang, kapellmeister, nǚxìng, nɔrsk</li>
           <li>NUM: Five, One, Six, eins</li>
@@ -915,11 +972,11 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
         <ul>
           <li>ADJ: dificil, politica, facil, fria, historico, AUTENTICAS, agonico, agricolas, aleman, amplisimo</li>
           <li>ADJ-Ger: agricolas</li>
-          <li>ADV: mas, tambien, ademas, como, asi, despues, alli, aqui, alla, rapidamente</li>
+          <li>ADV: mas, tambien, como, ademas, asi, despues, alli, aqui, alla, rapidamente</li>
           <li>AUX: esta, estan, a, sera, e, estas, Podeis, deberias, erán, estabamos</li>
           <li>AUX-Fin: esta, estan, sera, estas, Podeis, deberias, erán, estabamos, este, habeis</li>
           <li>CCONJ: 0, sinó</li>
-          <li>DET: a, al, en, ningun, está, que, algun, me, muchisimas</li>
+          <li>DET: a, al, en, ningun, está, que, algun, me, muchisimas, un</li>
           <li>NOUN: video, periodo, guion, dia, dias, periodos, videos, clinica, numero, menu</li>
           <li>NOUN-Inf: bebe</li>
           <li>NOUN-Part: perdidas</li>
@@ -929,7 +986,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
           <li>PUNCT: .ç</li>
           <li>SCONJ: sí</li>
           <li>VERB-Fin: esta, tenia, hacia, tenian, cambio, dejo, habia, llego, llevo, paso</li>
-          <li>VERB-Part: bloquedao, confundido, conocido, creido, dirigda, leido, unido</li>
+          <li>VERB-Part: bloquedao, confundido, conocido, creido, dada, dirigda, leido, unido</li>
         </ul>
       </li>
     </ul>
@@ -964,7 +1021,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(más) (1)</li>
       <li>VERB-Fin--NOUN-ADP(por)-ADP(málaga) (1)</li>
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
-      <li>VERB-Fin--PRON (725)</li>
+      <li>VERB-Fin--PRON (726)</li>
       <li>VERB-Fin--PRON-ADP(con) (1)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-Acc (27)</li>
@@ -1023,10 +1080,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc (89)</li>
       <li>VERB-Ger--PRON-Acc,Dat (4)</li>
       <li>VERB-Ger--PRON-Dat (3)</li>
-      <li>VERB-Inf--NOUN (2611)</li>
+      <li>VERB-Inf--NOUN (2612)</li>
       <li>VERB-Inf--NOUN-ADP(a) (243)</li>
       <li>VERB-Inf--NOUN-ADP(baer) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(entre) (1)</li>
       <li>VERB-Inf--PRON (74)</li>
       <li>VERB-Inf--PRON-ADP(a) (18)</li>
       <li>VERB-Inf--PRON-Acc (267)</li>

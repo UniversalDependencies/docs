@@ -12,18 +12,28 @@ It occurs with 2 different values: `Def`, `Ind`.
 6 tokens (4%) have a non-empty value of `Definite`.
 6 types (5%) occur at least once with a non-empty value of `Definite`.
 6 lemmas (6%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 ### `ADJ`
 
-5 <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Definite`.
+4 <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 80%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4; 80%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3; 75%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 75%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (1; 20% of non-empty `Definite`): <em>tovejais</em>
-* `Ind` (4; 80% of non-empty `Definite`): <em>foršuoks, lela, moza, sorkonā</em>
+* `Ind` (4; 100% of non-empty `Definite`): <em>foršuoks, lela, moza, sorkonā</em>
+
+### `DET`
+
+1 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ltg_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="ltg_cairo-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Definite`:
+
+* `Def` (1; 100% of non-empty `Definite`): <em>tovejais</em>
+* `EMPTY` (7): <em>Itei, Muns, kaida, kurs, sovai, sovam, tamā</em>
 
 ### `VERB`
 
@@ -34,7 +44,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 `VERB` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>pīguoduota</em>
-* `EMPTY` (34): <em>ir, pīraksteja, Navarēja, apgrīzt, apsaskuove, atmest, attaisi, atīt, ceņtēs, dabuoja</em>
+* `EMPTY` (31): <em>pīraksteja, Navarēja, apgrīzt, apsaskuove, atmest, attaisi, atīt, ceņtēs, dabuoja, dūmoj</em>
 
 ## Relations with Agreement in `Definite`
 

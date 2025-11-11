@@ -26,7 +26,7 @@ The following 50 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	craiului	crai	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	Ref=MATT18.25.content
 3	luînd	lua	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	2	acl	_	Ref=MATT18.25.content
 4	samă	seamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	3	fixed	_	Ref=MATT18.25.content
-5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	Ref=MATT18.25.content
+5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	7	case	_	Ref=MATT18.25.content
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	Ref=MATT18.25.content
 7	slugile	slugă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	Ref=MATT18.25.content
 8	sale	său	DET	Ds3fp-s	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	Ref=MATT18.25.content|SpaceAfter=No

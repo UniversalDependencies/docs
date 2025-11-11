@@ -6,34 +6,34 @@ udver: '2'
 
 ## Treebank Statistics: UD_Coptic-Bohairic: POS Tags: `SCONJ`
 
-There are 26 `SCONJ` lemmas (1%), 30 `SCONJ` types (1%) and 1946 `SCONJ` tokens (6%).
+There are 26 `SCONJ` lemmas (1%), 30 `SCONJ` types (1%) and 1951 `SCONJ` tokens (6%).
 Out of 15 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: ⲉⲧⲉ, ⲉⲣⲉ, ϫⲉ, ϩⲓⲛⲁ, ⲉϣⲱⲡ, ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲓⲥϫⲉ, ϩⲟⲧⲉ, ⲉⲡⲓⲇⲏ
 
 The 10 most frequent `SCONJ` types:  ϫⲉ, ⲉ, ⲉⲧ, ⲉⲑ, ⲉⲧⲉ, ϩⲓⲛⲁ, ⲉⲣⲉ, ⲉϣⲱⲡ, ϩⲱⲥⲧⲉ, ϩⲱⲥ
 
-The 10 most frequent ambiguous lemmas: ⲉⲧⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 716, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1), ⲉⲣⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 517, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 3, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1), ϫⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 490, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 8), ⲉϣⲱⲡ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 2), ϩⲱⲥ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 2), ⲓⲥϫⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1), ⲕⲁⲛ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 4), ⲓⲥϫⲉⲛ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 15, <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1), ϩⲟⲡⲱⲥ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 1), ⲁⲛ (<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 178, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 3, <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 3)
+The 10 most frequent ambiguous lemmas: ⲉⲧⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 717, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1), ⲉⲣⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 522, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 3, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1), ϫⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 490, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 8), ⲉϣⲱⲡ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 2), ϩⲱⲥ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 2), ⲓⲥϫⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1), ⲕⲁⲛ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 4), ⲓⲥϫⲉⲛ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 15, <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1), ϩⲟⲡⲱⲥ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 1), ⲁⲛ (<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 178, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 4, <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  ϫⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 490, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 8, <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 2), ⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 466, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 452, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 211, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 5, <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> 4, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1), ⲉⲧ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 389, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 169, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 23), ⲉⲧⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 137, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1), ⲉⲣⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 4), ⲉϣⲱⲡ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 2), ϩⲱⲥ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 2), ⲓⲥϫⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1), ⲕⲁⲛ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 4), ⲓⲥϫⲉⲛ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 15, <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  ϫⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 490, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 8, <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 3), ⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 471, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 452, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 206, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 5, <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> 4, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1), ⲉⲧ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 390, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 169, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 22), ⲉⲧⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 137, <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1), ⲉⲣⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 4), ⲉϣⲱⲡ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 2), ϩⲱⲥ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 2), ⲓⲥϫⲉ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 1), ⲕⲁⲛ (<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 4), ⲓⲥϫⲉⲛ (<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 15, <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1)
 
 
 * ϫⲉ
   * <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 490: ⲛⲁ ϥ ϫⲱ ⲅⲁⲣ ⲙⲙⲟ ⲥ ⲡⲉ <b>ϫⲉ</b> ⲁⲙⲟⲩ ⲉⲃⲟⲗ ⲡⲓ ⲡⲛⲉⲩⲙⲁ ⲛ ⲁⲕⲁⲑⲁⲣⲧⲟⲛ ϧⲉⲛ ⲡⲓ ⲣⲱⲙⲓ .
-  * <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 13: ⲛⲁ ⲩ ϫⲉⲙⲁⲣⲓⲕⲓ ⲁⲛ ⲡⲓ ϫⲁⲓ ⲉⲃⲏⲗ <b>ϫⲉ</b> ϧⲉⲛ ⲟⲩ ⲙⲉⲑⲙⲏⲓ ⲁ ϥ ⲟⲩⲱⲙ ⲟⲩⲟϩ ⲁ ϥ ⲥⲱ .
-  * <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 8: ϯⲛⲟⲩ <b>ϫⲉ</b> ⲙⲁ ⲧⲁⲙⲟ ⲓ ϫⲉ ⲉ ⲕ ⲟⲩⲱϣ ⲛ ⲧⲁ ⲉⲣ ⲟⲩ ϩⲓⲛⲁ ⲛⲧⲉ ⲡ ϭⲟⲉⲓⲥ ϣⲁⲛⲁ ϩⲑⲏ ϥ ϧⲁⲣⲟ ⲓ ⲟⲩⲟϩ ⲛⲧⲉ ϥ ⲭⲁ ⲛⲁ ⲛⲟⲃⲓ ⲛⲏ ⲓ ⲉⲃⲟⲗ .
-  * <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 2: ⲟⲩⲟϩ ⲉⲧ ⲁ ϥ ⲁⲙⲟⲛⲓ ⲛ ⲧ ϫⲓϫ ⲛ ϯ ⲁⲗⲟⲩ ⲡⲉϫⲁ ϥ ⲛⲁ ⲥ ϫⲉ ⲧⲁⲗⲓⲑⲁ ⲕⲟⲩⲙ ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ ϫⲉ ϯ ⲁⲗⲟⲩ ⲁ ⲓ <b>ϫⲉ</b> ⲉⲣⲟ ⲧⲱⲛ ⲓ
+  * <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 12: ⲛⲁ ⲩ ϫⲉⲙⲁⲣⲓⲕⲓ ⲁⲛ ⲡⲓ ϫⲁⲓ ⲉⲃⲏⲗ <b>ϫⲉ</b> ϧⲉⲛ ⲟⲩ ⲙⲉⲑⲙⲏⲓ ⲁ ϥ ⲟⲩⲱⲙ ⲟⲩⲟϩ ⲁ ϥ ⲥⲱ .
+  * <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 8: ϯⲛⲟⲩ <b>ϫⲉ</b> ⲙⲁⲧⲁⲙⲟ ⲓ ϫⲉ ⲉ ⲕ ⲟⲩⲱϣ ⲛ ⲧⲁ ⲉⲣ ⲟⲩ ϩⲓⲛⲁ ⲛⲧⲉ ⲡ ϭⲟⲉⲓⲥ ϣⲁⲛⲁ ϩⲑⲏ ϥ ϧⲁⲣⲟ ⲓ ⲟⲩⲟϩ ⲛⲧⲉ ϥ ⲭⲁ ⲛⲁ ⲛⲟⲃⲓ ⲛⲏ ⲓ ⲉⲃⲟⲗ .
+  * <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> 3: ⲟⲩⲟϩ ⲉⲧ ⲁ ϥ ⲁⲙⲟⲛⲓ ⲛ ⲧ ϫⲓϫ ⲛ ϯ ⲁⲗⲟⲩ ⲡⲉϫⲁ ϥ ⲛⲁ ⲥ ϫⲉ ⲧⲁⲗⲓⲑⲁ ⲕⲟⲩⲙ ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ ϫⲉ ϯ ⲁⲗⲟⲩ ⲁ ⲓ <b>ϫⲉ</b> ⲉⲣⲟ ⲧⲱⲛ ⲓ
 * ⲉ
-  * <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 466: ⲛⲉ ⲟⲩⲟⲛ ⲟⲩ ⲁⲅⲉⲗⲏ ⲇⲉ ⲛ ⲣⲓⲣ <b>ⲉ</b> ⲥ ⲟϣ ⲙⲙⲁⲩ ⲡⲉ <b>ⲉ</b> ⲥ ⲙⲟⲛⲓ ϧⲁⲧⲉⲛ ⲡⲓ ⲧⲱⲟⲩ
+  * <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 471: ⲛⲉ ⲟⲩⲟⲛ ⲟⲩ ⲁⲅⲉⲗⲏ ⲇⲉ ⲛ ⲣⲓⲣ <b>ⲉ</b> ⲥ ⲟϣ ⲙⲙⲁⲩ ⲡⲉ <b>ⲉ</b> ⲥ ⲙⲟⲛⲓ ϧⲁⲧⲉⲛ ⲡⲓ ⲧⲱⲟⲩ
   * <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> 452: ⲟⲩⲟϩ ⲁ ϥ ⲓ <b>ⲉ</b> ⲙⲏⲣ <b>ⲉ</b> ⲫ ⲓⲟⲙ <b>ⲉ</b> ⲧ ⲭⲱⲣⲁ ⲛⲧⲉ ⲛⲓ ⲅⲉⲣⲅⲉⲥⲏⲛⲟⲥ
-  * <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 211: ⲟⲩⲟϩ ⲛⲁ ϥ ϫⲟⲩϣⲧ ⲡⲉ <b>ⲉ</b> ⲛⲁⲩ ⲉ ⲑⲏ ⲉⲧ ⲁ ⲥ ⲉⲣ ⲫⲁⲓ
+  * <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 206: ⲟⲩⲟϩ ⲛⲁ ϥ ϫⲟⲩϣⲧ ⲡⲉ <b>ⲉ</b> ⲛⲁⲩ ⲉ ⲑⲏ ⲉⲧ ⲁ ⲥ ⲉⲣ ⲫⲁⲓ
   * <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 5: ⲟⲩⲟϩ ⲡⲉϫⲁ ϥ ⲛⲁ ⲥ ϫⲉ ⲉⲑⲃⲉ ⲡⲁⲓ ⲥⲁϫⲓ ⲙⲁϣⲉ ⲛ <b>ⲉ</b> ⲁ ϥ ϣⲉ ⲛⲁ ϥ ⲉⲃⲟⲗ ϩⲓ ⲧⲉ ϣⲉⲣⲓ ⲛϫⲉ ⲡⲓ ⲇⲁⲓⲙⲱⲛ .
   * <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> 4: ⲙ ⲡⲓ <b>ⲉ</b> ⲛ ⲱⲓⲕ ⲉⲧ ⲁ ⲓ ⲫⲁϣ ⲟⲩ ⲉϩⲣⲉⲛ ⲡⲓ <b>ⲉ</b> ⲛ ϣⲟ ϫⲉ ⲁ ⲧⲉⲧⲉⲛ ⲉⲗ ⲟⲩⲏⲣ ⲛ ⲕⲟⲧ ⲛ ⲗⲁⲕϩ ⲉ ⲩ ⲙⲉϩ ⲡⲉϫⲱ ⲟⲩ ⲛⲁ ϥ ϫⲉ ⲓⲃ .
-  * <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1: ⲁ ⲥ ϣⲱⲡⲓ ⲇⲉ ⲟⲛ ⲛ ⲟⲩ ⲉϩⲟⲟⲩ ⲉ ϥ ϩⲉⲙⲥⲓ ⲛϫⲉ ⲡⲉⲛ ⲓⲱⲧ ⲁⲡⲁ ϣⲉⲛⲟⲩϯ ϧⲁⲧⲉⲛ ⲡⲓ ⲗⲁⲕϩ ⲙ ⲡⲉⲧⲣⲁ ⲛⲑⲟϥ ⲛⲉⲙ ⲡⲉⲛ ϭⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡ ⲭⲣⲓⲥⲧⲟⲥ ⲉ ⲩ ⲥⲁϫⲓ ⲛⲉⲙ ⲛⲟⲩ ⲉⲣⲏⲟⲩ ⲧⲟⲧⲉ ⲡⲉϫⲉ ⲡⲁ ⲓⲱⲧ ⲙ ⲡⲣⲟⲫⲏⲧⲏⲥ ⲛⲁ ϥ ϫⲉ ⲡⲁ ϭⲟⲉⲓⲥ ⲉ ⲓ ⲉⲣⲉⲡⲓⲑⲩⲙⲓⲛ ⲉ ⲛⲁⲩ ⲉ ⲟⲩ ϫⲟⲉⲓ <b>ⲉ</b> ϥ ⲉⲣϩⲱⲧ ⲙ ⲡⲁⲓ ⲙⲁ .
+  * <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1: ⲁ ⲥ ϣⲱⲡⲓ ⲇⲉ ⲟⲛ ⲛ ⲟⲩ ⲉϩⲟⲟⲩ ⲉ ϥ ϩⲉⲙⲥⲓ ⲛϫⲉ ⲡⲉⲛ ⲓⲱⲧ ⲁⲡⲁ ϣⲉⲛⲟⲩϯ ϧⲁⲧⲉⲛ ⲡⲓ ⲗⲁⲕϩ ⲙ ⲡⲉⲧⲣⲁ ⲛⲑⲟϥ ⲛⲉⲙ ⲡⲉⲛ ϭⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡ ⲭⲣⲓⲥⲧⲟⲥ ⲉ ⲩ ⲥⲁϫⲓ ⲛⲉⲙ ⲛⲟⲩ ⲉⲣⲏⲟⲩ ⲧⲟⲧⲉ ⲡⲉϫⲉ ⲡⲁ ⲓⲱⲧ ⲙ ⲡⲣⲟⲫⲏⲧⲏⲥ ⲛⲁ ϥ ϫⲉ ⲡⲁ ϭⲟⲉⲓⲥ ⲉ ⲓ ⲉⲣⲉⲡⲓⲑⲩⲙⲓⲛ ⲉ ⲛⲁⲩ ⲉ ⲟⲩ ϫⲟⲓ <b>ⲉ</b> ϥ ⲉⲣϩⲱⲧ ⲙ ⲡⲁⲓ ⲙⲁ .
 * ⲉⲧ
-  * <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 389: ⲟⲩⲟϩ ⲛⲁ ϥ ϫⲟⲩϣⲧ ⲡⲉ ⲉ ⲛⲁⲩ ⲉ ⲑⲏ <b>ⲉⲧ</b> ⲁ ⲥ ⲉⲣ ⲫⲁⲓ
+  * <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 390: ⲟⲩⲟϩ ⲛⲁ ϥ ϫⲟⲩϣⲧ ⲡⲉ ⲉ ⲛⲁⲩ ⲉ ⲑⲏ <b>ⲉⲧ</b> ⲁ ⲥ ⲉⲣ ⲫⲁⲓ
   * <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 169: ⲟⲩⲟϩ <b>ⲉⲧ</b> ⲁ ϥ ⲛⲁⲩ ⲉ ⲓⲏⲥⲟⲩⲥ ⲓⲥϫⲉⲛ ϩⲓ ⲫ ⲟⲩⲉⲓ ⲁ ϥ ϭⲟϫⲓ ⲟⲩⲟϩ ⲁ ϥ ⲟⲩⲱϣⲧ ⲙⲙⲟ ϥ
-  * <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 23: ⲡⲉϫⲉ ⲁⲡⲁ ⲡϫⲱⲗ ⲛⲁ ϥ ϫⲉ <b>ⲉⲧ</b> ⲁ ⲕ ⲥⲟⲑⲙⲉ ⲥ ϫⲉ ⲟⲩ ;
+  * <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 22: ⲡⲉϫⲉ ⲁⲡⲁ ⲡϫⲱⲗ ⲛⲁ ϥ ϫⲉ <b>ⲉⲧ</b> ⲁ ⲕ ⲥⲟⲑⲙⲉ ⲥ ϫⲉ ⲟⲩ ;
 * ⲉⲧⲉ
   * <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> 137: ⲫⲏ ⲉⲑ ⲛⲁ ⲓⲣⲓ ⲙ ⲡ <b>ⲉⲧⲉ</b> ϩⲛⲉ ⲫ ⲛⲟⲩϯ ⲫⲁⲓ ⲡⲉ ⲡⲁ ⲥⲟⲛ ⲛⲉⲙ ⲧⲁ ⲥⲱⲛⲓ ⲛⲉⲙ ⲧⲁ ⲙⲁⲩ .
   * <tt><a href="cop_bohairic-pos-AUX.html">AUX</a></tt> 1: ⲁ ⲥ ϣⲱⲡⲓ ⲇⲉ ⲛ ⲟⲩⲁⲓ ⲛ ⲛⲓ ⲉϩⲟⲟⲩ ⲁ ϥ ⲙⲟⲩϯ ⲛϫⲉ ⲡⲓ ⲁⲣⲭⲱⲛ ⲉ ⲙⲉⲛⲉⲥⲱⲛ ⲉ ϥ ⲟⲩⲱϣ ⲉ ⲥϧⲏⲧ ⲟⲩ ⲉⲡⲓⲥⲧⲟⲗⲏ ⲛ ⲁⲛⲁⲅⲕⲁⲓⲟⲛ ϩⲱⲥ ⲛⲑⲟϥ ⲡⲉ ⲡⲓ ⲛⲓϣϯ ⲛ ⲛⲟⲧⲁⲣⲓⲟⲥ ⲟⲩⲟϩ <b>ⲉⲧⲉ</b> ⲙⲡⲉ ϥ ϫⲉⲙ ϥ ⲡⲣⲟⲥ ⲡⲓ ⲛⲁⲩ ⲁ ϥ ⲙⲃⲟⲛ ϧⲉⲛ ⲟⲩ ⲛⲓϣϯ ⲛ ϫⲱⲛⲧ .
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  ϫⲉ (<tt><a href="cop_bohairic-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.153846 (the average of all parts of speech is 1.145366).
+The form / lemma ratio of `SCONJ` is 1.153846 (the average of all parts of speech is 1.149363).
 
 The 1st highest number of forms (5) was observed with the lemma “ⲉⲧⲉ”: ⲉ, ⲉⲑ, ⲉⲧ, ⲉⲧⲉ, ⲉⲧⲉⲣⲉ.
 
@@ -68,22 +68,22 @@ The 2nd highest number of forms (4) was observed with the lemma “ⲉⲣⲉ”:
 
 The 3rd highest number of forms (1) was observed with the lemma “ϩⲏⲇⲏ”: ϩⲏⲇⲏ.
 
-`SCONJ` occurs with 2 features: <tt><a href="cop_bohairic-feat-Foreign.html">Foreign</a></tt> (149; 8% instances), <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
+`SCONJ` occurs with 2 features: <tt><a href="cop_bohairic-feat-Foreign.html">Foreign</a></tt> (151; 8% instances), <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt> (1; 0% instances)
 
 `SCONJ` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
 
 `SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1797 tokens).
-Examples: ϫⲉ, ⲉ, ⲉⲧ, ⲉⲑ, ⲉⲧⲉ, ⲉⲣⲉ, ⲉϣⲱⲡ, ⲓⲥϫⲉ, ϩⲱⲥⲧⲉ, ⲓⲥϫⲉⲛ
+The most frequent feature combination is `_` (1800 tokens).
+Examples: ϫⲉ, ⲉ, ⲉⲧ, ⲉⲑ, ⲉⲧⲉ, ⲉⲣⲉ, ⲉϣⲱⲡ, ⲓⲥϫⲉ, ⲓⲥϫⲉⲛ, ϩⲟⲧⲉ
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="cop_bohairic-dep-mark.html">mark</a></tt> (1936; 99% instances), <tt><a href="cop_bohairic-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="cop_bohairic-dep-nsubj.html">nsubj</a></tt> (2; 0% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="cop_bohairic-dep-mark.html">mark</a></tt> (1941; 99% instances), <tt><a href="cop_bohairic-dep-case.html">case</a></tt> (8; 0% instances), <tt><a href="cop_bohairic-dep-nsubj.html">nsubj</a></tt> (2; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (1648; 85% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (129; 7% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (77; 4% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (32; 2% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (26; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (1654; 85% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (127; 7% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (78; 4% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (32; 2% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (26; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt> (2; 0% instances)
 
-1946 (100%) `SCONJ` nodes are leaves.
+1951 (100%) `SCONJ` nodes are leaves.
 
 The highest child degree of a `SCONJ` node is 0.
 

@@ -9,27 +9,26 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="arh_chibergis-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-28 nodes (1%) are attached to their parents as `nmod`.
+26 nodes (0%) are attached to their parents as `nmod`.
 
-19 instances of `nmod` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.89285714285714.
+19 instances of `nmod` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (15; 54% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (4; 14% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `nmod`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (16; 62% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 nmod	color:blue
-1	niwi	niwi	PRON	_	Case=Nom	3	nsubj	_	AlignBegin=65630|AlignEnd=65815|GE=[1PL].[EXCL]|Gloss=1PL.EXCL|nWord=1|RX=[PRO]|TokenType=Root
-2	=ri	_	PART	_	_	1	advmod	_	AlignBegin=65815|AlignEnd=66000|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit
-3	ʉnkikumu'	i	VERB	_	_	0	root	_	AlignBegin=66000|AlignEnd=66370|GE=[NEG]|Gloss=MIDAPPL1knitANTICNEG|nWord=2|RX=[VERB]|TokenType=InflAff
-4	no	nan	AUX	_	_	3	aux	_	AlignBegin=66370|AlignEnd=66740|GE=[Q]|Gloss=auxQ|nWord=3|RX=[VERB]|TokenType=InflAff
-5	bechʉ	bechʉ	NOUN	_	_	3	obj	_	AlignBegin=66740|AlignEnd=67110|GE=agave|Gloss=agave|nWord=4|RX=[N]|TokenType=Root
-6	tutu	tutu	NOUN	_	_	5	nmod	_	AlignBegin=67110|AlignEnd=67480|GE=traditional.bag|Gloss=traditional.bag|nWord=5|RX=[N]|TokenType=Root
-7	neki	neki	PART	_	_	6	advmod:emph	_	AlignBegin=67480|AlignEnd=67850|GE=[CNTR]|Gloss=CNTR|nWord=6|RX=[PRT]|TokenType=Root
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nmod	color:blue
+1	ichʉ	ichʉ	NOUN	_	Case=Abs	3	obj	_	AlignBegin=219333|AlignEnd=219990|GE=bean|Gloss=bean|nWord=1|RX=[N]|TokenType=Root
+2	zʉria	zʉria	NOUN	_	_	1	nmod	_	AlignBegin=219990|AlignEnd=220647|GE=soup|Gloss=soup|nWord=2|RX=[N]|TokenType=Root
+3	ʉnkʉɉokwe'	ɉokw	VERB	_	_	5	ccomp	_	AlignBegin=220647|AlignEnd=221171|GE=then|Gloss=MIDAPPL1cookthen|nWord=3|RX=[VERB]|TokenType=InflAff
+4	=ri	_	PART	_	_	3	advmod	_	AlignBegin=221171|AlignEnd=221304|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
+5	me'zanʉndi	'zan	VERB	_	_	0	root	_	AlignBegin=221304|AlignEnd=221961|GE=[COND]|Gloss=2SG.OthinkCOND|nWord=4|RX=[V:ANY]|TokenType=InflAff
+6	.	_	PUNCT	_	_	5	punct	_	AlignBegin=221961|AlignEnd=222620|Gloss=.|nWord=5
 
 ~~~
 
@@ -47,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `nmod`: <tt><a href
 5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=54036|AlignEnd=54487|nWord=4
 6	a'mia	a'mia	NOUN	_	_	2	nsubj	_	AlignBegin=54487|AlignEnd=54637|GE=woman|Gloss=woman|nWord=5|RX=[N]|TokenType=Root
 7	=ɉina	_	PART	_	_	6	advmod	_	AlignBegin=54637|AlignEnd=54787|GE=many[animated]|Gloss==many[animated]|nWord=5|RX=[DET]|TokenType=Clit
-8	=se'	=se'	ADP	_	Animacy=Anim|Case=Erg|Definite=Def	6	case	_	AgentShift=no|AlignBegin=54787|AlignEnd=54938|GE=[ERG]|Gloss==ERG|nWord=5|RX=[POST]|TokenType=Clit|Topic=yes
+8	=se'	=se'	ADP	_	Animacy=Anim|Case=Erg|Definite=Def	6	case	_	AgentShift=yes|AlignBegin=54787|AlignEnd=54938|GE=[ERG]|Gloss==ERG|nWord=5|RX=[POST]|TokenType=Clit|Topic=yes
 9	ikʉ	ikʉ	PROPN	_	_	6	nmod	_	AlignBegin=54938|AlignEnd=55088|GE=[Ika]|Gloss=Ika|nWord=6|RX=[NPROP]|TokenType=Root
 10	=se'	_	ADP	_	_	9	case	_	AlignBegin=55088|AlignEnd=55238|GE=[ERG]|Gloss==ERG|nWord=6|RX=[POST]|TokenType=Clit
 11	=ri	_	PART	_	_	9	advmod	_	AlignBegin=55238|AlignEnd=55389|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit

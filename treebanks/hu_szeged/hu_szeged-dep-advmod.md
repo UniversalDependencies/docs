@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 7 language-specific subtypes of `advmod`: <tt><a href="hu_szeged-dep-advmod-locy.html">advmod:locy</a></tt>, <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt>, <tt><a href="hu_szeged-dep-advmod-que.html">advmod:que</a></tt>, <tt><a href="hu_szeged-dep-advmod-tfrom.html">advmod:tfrom</a></tt>, <tt><a href="hu_szeged-dep-advmod-tlocy.html">advmod:tlocy</a></tt>, <tt><a href="hu_szeged-dep-advmod-to.html">advmod:to</a></tt>, <tt><a href="hu_szeged-dep-advmod-tto.html">advmod:tto</a></tt>.
 
-431 nodes (1%) are attached to their parents as `advmod`.
+453 nodes (1%) are attached to their parents as `advmod`.
 
-409 instances of `advmod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49883990719258.
+431 instances of `advmod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.58278145695364.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (301; 70% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (56; 13% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (44; 10% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (12; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (3; 1% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (302; 67% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (62; 14% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (57; 13% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (12; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (3; 1% instances).
 
 
 ~~~ conllu
@@ -38,6 +38,22 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 advmod	color:blue
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	természet	természet	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	nem	nem	ADV	_	PronType=Neg	5	advmod	_	_
+4	könnyű	könnyű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod:att	_	_
+5	ellenfél	ellenfél	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod	color:blue
@@ -51,22 +67,6 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 8	is	is	CCONJ	_	_	7	cc	_	ToDo=cc-without-conj
 9	foglalkozik	foglalkozik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 advmod	color:blue
-1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	természet	természet	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-3	nem	nem	ADV	_	PronType=Neg	5	advmod	_	_
-4	könnyű	könnyű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod:att	_	_
-5	ellenfél	ellenfél	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

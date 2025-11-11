@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	entire	entire	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	article	article	NOUN	NN	Number=Sing	1	obj	1:obj	SpaceAfter=No
 5	;	;	PUNCT	,	_	7	punct	7:punct	_
-6	there	there	PRON	EX	_	7	expl	7:expl	_
+6	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 7	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	Cxn=Existential-CopPred-ThereExpl
 8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
 9	punchline	punchline	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	CxnElt=7:Existential-CopPred-ThereExpl.Pivot|SpaceAfter=No
@@ -67,17 +67,17 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 13 6 expl	color:blue
 1	When	when	ADV	WRB	PronType=Int	3	advmod	3:advmod	_
 2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
-3	sound	sound	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	13:advcl	_
+3	sound	sound	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	13:advcl	MWECat=V.VPC.full|MWELemma=sound off|MWELen=2|Supersense=v.stative
 4	off	off	ADP	RP	_	3	compound:prt	3:compound:prt	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	3:punct	_
 6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	expl	13:expl	_
-7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	Supersense=v.stative
 8	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	_
 9	true	true	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 10	audio	audio	ADJ	JJ	Degree=Pos	12	amod	12:amod	SpaceAfter=No
 11	/	/	PUNCT	HYPH	_	10	punct	10:punct	SpaceAfter=No
 12	visual	visual	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
-13	experience	experience	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+13	experience	experience	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No|Supersense=n.EVENT
 14	.	.	PUNCT	.	_	13	punct	13:punct	_
 
 ~~~

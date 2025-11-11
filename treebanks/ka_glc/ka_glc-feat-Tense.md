@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal but the values `PastPerf` are language-specific.
 It occurs with 6 different values: `Fut`, `Imp`, `Past`, `PastPerf`, `Pqp`, `Pres`.
 
-5093 tokens (8%) have a non-empty value of `Tense`.
-1486 types (10%) occur at least once with a non-empty value of `Tense`.
-748 lemmas (8%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3765; 6% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1328; 2% instances).
+5015 tokens (8%) have a non-empty value of `Tense`.
+1435 types (9%) occur at least once with a non-empty value of `Tense`.
+696 lemmas (8%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3687; 6% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1328; 2% instances).
 
 ### `VERB`
 
-3765 <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Tense`.
+3687 <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3751; 100%), <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3484; 93%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (3196; 85%), <tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (3003; 80%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2806; 75%), <tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2014; 53%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1957; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3673; 100%), <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3634; 99%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3634; 99%), <tt><a href="ka_glc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3634; 99%), <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3486; 95%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (3116; 85%), <tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (3004; 81%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2809; 76%), <tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2015; 55%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1958; 53%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (766; 20% of non-empty `Tense`): <em>შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ</em>
-* `Imp` (243; 6% of non-empty `Tense`): <em>ჰქონდა, ხდებოდა, გამოიყენებოდა, იყენებდნენ, ვითარდებოდა, თვლიდა, არსებობდა, გულისხმობდა, იყენებდა, მდებარეობდა</em>
-* `Past` (955; 25% of non-empty `Tense`): <em>ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, მიიღო, დაარსდა, ჩაისახა, გაჩნდა, წარმოიშვა, შექმნა</em>
-* `PastPerf` (41; 1% of non-empty `Tense`): <em>უკავია, შეუძლია, შეუძლიათ, უკავიათ, შექმნილა, აღმოუჩენია, გადაჭრილიყო, გამოჩენილა, დადგენილა, დამკვიდრებულა</em>
+* `Fut` (757; 21% of non-empty `Tense`): <em>შეისწავლის, წარმოადგენს, მოიცავს, შეიცავს, განსაზღვრავს, მიეკუთვნება, შედგება, განარჩევენ, განასხვავებენ, წარმოადგენენ</em>
+* `Imp` (243; 7% of non-empty `Tense`): <em>ჰქონდა, ხდებოდა, გამოიყენებოდა, იყენებდნენ, ვითარდებოდა, თვლიდა, არსებობდა, გულისხმობდა, იყენებდა, მდებარეობდა</em>
+* `Past` (894; 24% of non-empty `Tense`): <em>ჩამოყალიბდა, დაიწყო, შეიქმნა, გახდა, მიიღო, დაარსდა, ჩაისახა, გაჩნდა, წარმოიშვა, შექმნა</em>
+* `PastPerf` (35; 1% of non-empty `Tense`): <em>უკავია, უკავიათ, შექმნილა, აღმოუჩენია, გადაჭრილიყო, გამოჩენილა, დადგენილა, დამკვიდრებულა, დაუდასტურებია, დაუკარგავთ</em>
 * `Pqp` (59; 2% of non-empty `Tense`): <em>ჩაეყარა, გამოეყო, მიეცა, დაედო, მიეცათ, მიეძღვნა, აეყვანა, აეხსნათ, ამოეგდო, აღმოეჩინათ</em>
-* `Pres` (1701; 45% of non-empty `Tense`): <em>აქვს, შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება</em>
-* `EMPTY` (105): <em>გამოსხივების, დარაიონება, იხ., გამოსხივებას, დაგეგმარების, დაკრისტალების, დაპროექტებისა, დაუსწრებელი, მოკვლევისა, მორწყვის</em>
+* `Pres` (1699; 46% of non-empty `Tense`): <em>აქვს, შეიძლება, გამოიყენება, არსებობს, სწავლობს, იყენებენ, იკვლევს, ხდება, იყენებს, ეწოდება</em>
+* `EMPTY` (368): <em>დაკავშირებული, შესაძლებელი, აღსანიშნავი, გავრცელებული, დაფარული, მიმართული, განპირობებული, დაკავებული, ასახული, მიღებული</em>
 
 <table>
   <tr><th>Paradigm <i>სწავლობს</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th><th><tt>PastPerf</tt></th></tr>
@@ -69,11 +69,9 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (262; 71%),
-<tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (82; 58%),
-<tt>VERB --[<tt><a href="ka_glc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (263; 68%),
+<tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (81; 54%),
 <tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

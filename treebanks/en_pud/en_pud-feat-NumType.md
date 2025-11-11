@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Mult`, `Ord`.
 
-539 tokens (3%) have a non-empty value of `NumType`.
+544 tokens (3%) have a non-empty value of `NumType`.
 254 types (5%) occur at least once with a non-empty value of `NumType`.
 245 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (464; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (56; 0% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (464; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (61; 0% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -29,14 +29,14 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-56 <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
+61 <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (56; 100%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (61; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (56; 100% of non-empty `NumType`): <em>first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th</em>
-* `EMPTY` (1498): <em>new, many, more, other, such, last, great, high, own, several</em>
+* `Ord` (61; 100% of non-empty `NumType`): <em>first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th</em>
+* `EMPTY` (1505): <em>new, many, more, other, such, last, great, high, own, several</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `NumType`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (14; 100% of non-empty `NumType`): <em>1960s, 1970s, 1990s, 1350s, 1950s, 1980s, 2000s, 60s, mid-1970s, mid-1980s</em>
-* `EMPTY` (4006): <em>time, people, years, year, government, city, state, century, world, day</em>
+* `EMPTY` (4001): <em>time, people, years, year, government, city, state, century, world, day</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `NumType`.
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (4; 100% of non-empty `NumType`): <em>once, twice</em>
-* `EMPTY` (812): <em>also, when, so, only, more, where, however, well, most, as</em>
+* `EMPTY` (809): <em>also, when, so, only, more, where, however, well, most, as</em>
 
 ### `DET`
 
@@ -78,8 +78,9 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="en_pud-dep-compound.html">compound</a></tt>]--> NUM</tt> (16; 100%),
+<tt>NUM --[<tt><a href="en_pud-dep-compound.html">compound</a></tt>]--> NUM</tt> (17; 100%),
+<tt>NUM --[<tt><a href="en_pud-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (11; 100%),
+<tt>NUM --[<tt><a href="en_pud-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<tt><a href="en_pud-dep-conj.html">conj</a></tt>]--> NUM</tt> (7; 100%),
-<tt>NUM --[<tt><a href="en_pud-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (6; 100%),
-<tt>NUM --[<tt><a href="en_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (6; 100%).
+<tt>NUM --[<tt><a href="en_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (3; 100%).
 

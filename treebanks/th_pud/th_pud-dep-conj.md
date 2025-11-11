@@ -22,21 +22,21 @@ The following 24 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 9 conj	color:blue
-1	เขา	เขา	PRON	PRP	Person=3	2	nsubj	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
-2	เล่ม	เล่ม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lé¹m|LTranslit=lé¹m
-3	เกม	เกม	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=kém|LTranslit=kém
-4	หนัก	หนัก	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=hnâk|LTranslit=hnâk
-5	ๆ	ๆ	SYM	SYM	_	4	dep	_	Translit=|LTranslit=
-6	ได้	ได้	AUX	MD	_	2	aux	_	Translit=dai²|LTranslit=dai²
-7	แต่	แต่	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=tǽ¹|LTranslit=tǽ¹
-8	ก็	ก็	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
-9	เล่น	เล่น	VERB	VV	_	2	conj	_	SpaceAfter=No|Translit=lé¹n|LTranslit=lé¹n
-10	เกม	เกม	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=kém|LTranslit=kém
-11	เบา	เบา	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=bao|LTranslit=bao
-12	ๆ	ๆ	SYM	SYM	_	11	dep	_	Translit=|LTranslit=
-13	ได้	ได้	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=dai²|LTranslit=dai²
-14	เช่น	เช่น	VERB	VC	_	9	acl	_	SpaceAfter=No|Translit=ćʰé¹n|LTranslit=ćʰé¹n
-15	กัน	กัน	PRON	PRP	_	14	xcomp	_	Translit=kân|LTranslit=kân
+1	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	2	nsubj	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
+2	เล่ม	เล่ม	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lèːm|LTranslit=lèːm
+3	เกม	เกม	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=keːm|LTranslit=keːm
+4	หนัก	หนัก	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=hnạk|LTranslit=hnạk
+5	ๆ	ๆ	SYM	SYM	_	4	dep	_	Translit=.|LTranslit=.
+6	ได้	ได้	AUX	MD	_	2	aux	_	Translit=dạî|LTranslit=dạî
+7	แต่	แต่	CCONJ	CC	_	9	cc	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
+8	ก็	ก็	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
+9	เล่น	เล่น	VERB	VV	_	2	conj	_	SpaceAfter=No|Translit=lèːn|LTranslit=lèːn
+10	เกม	เกม	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=keːm|LTranslit=keːm
+11	เบา	เบา	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=baoː|LTranslit=baoː
+12	ๆ	ๆ	SYM	SYM	_	11	dep	_	Translit=.|LTranslit=.
+13	ได้	ได้	AUX	MD	_	9	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
+14	เช่น	เช่น	VERB	VC	_	9	acl	_	SpaceAfter=No|Translit=ćʰèːn|LTranslit=ćʰèːn
+15	กัน	กัน	PRON	PRP	PronType=Prs	14	xcomp	_	Gloss=it|Translit=kạn|LTranslit=kạn
 
 ~~~
 
@@ -48,17 +48,17 @@ The following 24 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 12 conj	color:blue
 1	ใน	ใน	ADP	IN	_	2	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-2	จำนวน	จำนวน	NOUN	NN	_	5	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=čãnwn|LTranslit=čãnwn
-3	นั้น	นั้น	DET	DT	_	2	det	_	SpaceAfter=No|Translit=nâ²n|LTranslit=nâ²n
+2	จำนวน	จำนวน	NOUN	NN	_	5	nmod	_	SpaceAfter=No|ToDo=nmod|Translit=čãːnwn|LTranslit=čãːnwn
+3	นั้น	นั้น	DET	DT	PronType=Dem	2	det	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
 4	เป็น	เป็น	AUX	VC	_	5	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-5	อาราม	อาราม	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit='árám|LTranslit='árám
-6	เก่า	เก่า	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=kao¹|LTranslit=kao¹
-7	จาก	จาก	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=čák|LTranslit=čák
-8	โบสถ์	โบสถ์	NOUN	NN	_	5	nmod	_	Proper=True|SpaceAfter=No|ToDo=nmod|Translit=bóstʰ|LTranslit=bóstʰ
-9	เซนต์	เซนต์	NOUN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No|Translit=cént|LTranslit=cént
-10	ปีเตอร์	ปีเตอร์	PROPN	NNP	_	9	appos	_	SpaceAfter=No|Translit=pítóér|LTranslit=pítóér
+5	อาราม	อาราม	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit='aːraːm|LTranslit='aːraːm
+6	เก่า	เก่า	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=kaòː|LTranslit=kaòː
+7	จาก	จาก	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
+8	โบสถ์	โบสถ์	NOUN	NN	_	5	nmod	_	Proper=True|SpaceAfter=No|ToDo=nmod|Translit=boːstʰ|LTranslit=boːstʰ
+9	เซนต์	เซนต์	NOUN	NN	_	8	flat:name	_	Proper=True|SpaceAfter=No|Translit=ceːnt|LTranslit=ceːnt
+10	ปีเตอร์	ปีเตอร์	PROPN	NNP	_	9	appos	_	SpaceAfter=No|Translit=piːtœːr|LTranslit=piːtœːr
 11	และ	และ	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-12	เซนต์	เซนต์	NOUN	NN	_	9	conj	_	Proper=True|SpaceAfter=No|Translit=cént|LTranslit=cént
+12	เซนต์	เซนต์	NOUN	NN	_	9	conj	_	Proper=True|SpaceAfter=No|Translit=ceːnt|LTranslit=ceːnt
 13	ปอล	ปอล	PROPN	NNP	_	12	appos	_	Translit=pɔːl|LTranslit=pɔːl
 
 ~~~
@@ -70,19 +70,19 @@ The following 24 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 conj	color:blue
-1	ไวส์	ไวส์	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=wais|LTranslit=wais
-2	ได้	ได้	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=dai²|LTranslit=dai²
-3	รับ	รับ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=râb|LTranslit=râb
-4	การเชิดชู	การเชิดชู	VERB	VV	_	3	obj	_	SpaceAfter=No|Translit=kárćʰéidćʰú|LTranslit=kárćʰéidćʰú
-5	เกียรติ	เกียรติ	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=kíárti|LTranslit=kíárti
-6	ด้วย	ด้วย	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=d²wy|LTranslit=d²wy
-7	รางวัล	รางวัล	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=ráŋwâl|LTranslit=ráŋwâl
+1	ไวส์	ไวส์	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=wạis|LTranslit=wạis
+2	ได้	ได้	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
+3	รับ	รับ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rạb|LTranslit=rạb
+4	การเชิดชู	การเชิดชู	VERB	VV	_	3	obj	_	SpaceAfter=No|Translit=kaːrćʰeidćʰuː|LTranslit=kaːrćʰeidćʰuː
+5	เกียรติ	เกียรติ	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=kiaːrti|LTranslit=kiaːrti
+6	ด้วย	ด้วย	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=də̂wy|LTranslit=də̂wy
+7	รางวัล	รางวัล	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=raːŋwạl|LTranslit=raːŋwạl
 8	วรรณกรรม	วรรณกรรม	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=wrrṇkrrm|LTranslit=wrrṇkrrm
-9	จาก	จาก	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=čák|LTranslit=čák
-10	เมือง	เมือง	NOUN	NN	_	7	nmod	_	Proper=True|SpaceAfter=No|Translit=műáŋ|LTranslit=műáŋ
-11	โคโลญจ์	โคโลญจ์	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No|Translit=gʰólóŷč|LTranslit=gʰólóŷč
+9	จาก	จาก	ADP	IN	_	10	case	_	SpaceAfter=No|Translit=čaːk|LTranslit=čaːk
+10	เมือง	เมือง	NOUN	NN	_	7	nmod	_	Proper=True|SpaceAfter=No|Translit=müaːŋ|LTranslit=müaːŋ
+11	โคโลญจ์	โคโลญจ์	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No|Translit=gʰoːloːŷč|LTranslit=gʰoːloːŷč
 12	และ	และ	CCONJ	CC	_	13	cc	_	SpaceAfter=No|Translit=læ|LTranslit=læ
-13	เบรเมน	เบรเมน	PROPN	NNP	_	11	conj	_	Translit=bérmén|LTranslit=bérmén
+13	เบรเมน	เบรเมน	PROPN	NNP	_	11	conj	_	Translit=beːrmeːn|LTranslit=beːrmeːn
 
 ~~~
 

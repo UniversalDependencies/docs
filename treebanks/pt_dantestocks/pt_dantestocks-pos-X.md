@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>RT</em> (<tt><a href="pt_dantestocks-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.055233 (the average of all parts of speech is 1.238183).
+The form / lemma ratio of `X` is 1.055233 (the average of all parts of speech is 1.238049).
 
 The 1st highest number of forms (18) was observed with the lemma “_”: <em>6, 64, BROKER, Bancotario, abertura, bonificação, diretor, feira, final, lenga, market, niquel, onda, petr4, provento, sal, sena, side</em>.
 

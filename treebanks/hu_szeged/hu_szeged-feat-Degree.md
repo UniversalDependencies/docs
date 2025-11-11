@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (31; 10% of non-empty `Degree`): <em>korábban, inkább, továbbra, előbb, jobban, kevésbé, közelebb, utóbb</em>
 * `Pos` (268; 89% of non-empty `Degree`): <em>ki, fel, be, le, elő, vissza, végül, össze, először, jól</em>
 * `Sup` (2; 1% of non-empty `Degree`): <em>leginkább, legjobban</em>
-* `EMPTY` (2810): <em>nem, már, még, csak, el, sem, is, úgy, például, akkor</em>
+* `EMPTY` (2834): <em>nem, már, még, csak, el, sem, is, úgy, például, akkor</em>
 
 <table>
   <tr><th>Paradigm <i>jól</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

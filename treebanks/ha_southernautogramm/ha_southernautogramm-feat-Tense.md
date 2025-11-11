@@ -16,15 +16,15 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ha_southernautogram
 
 ### `AUX`
 
-174 <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> tokens (9% of all `AUX` tokens) have a non-empty value of `Tense`.
+174 <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> tokens (8% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ha_southernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (174; 100%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (116; 67%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ha_southernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (174; 100%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (115; 66%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (167; 96% of non-empty `Tense`): <em>zâi, zân, zaːkà, zaːsù, zaːʼà, zaːtà, zaː'à, zaːkì, zaːmù, zaːʔà</em>
 * `Pred` (7; 4% of non-empty `Tense`): <em>kyâː, kâː, mwâː, tâː, âː</em>
-* `EMPTY` (1855): <em>ya, yaː, kaː, kà, ta, akà, à, an, sukà, yà</em>
+* `EMPTY` (1986): <em>ya, nèː, yaː, kaː, kà, ta, akà, à, an, sukà</em>
 
 ## Relations with Agreement in `Tense`
 

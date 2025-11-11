@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 782 tokens (60%) have a non-empty value of `Number`.
 472 types (80%) occur at least once with a non-empty value of `Number`.
-275 lemmas (72%) occur at least once with a non-empty value of `Number`.
+272 lemmas (72%) occur at least once with a non-empty value of `Number`.
 The feature is used with 6 part-of-speech tags: <tt><a href="vep_vwt-pos-NOUN.html">NOUN</a></tt> (310; 24% instances), <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> (168; 13% instances), <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> (107; 8% instances), <tt><a href="vep_vwt-pos-ADJ.html">ADJ</a></tt> (77; 6% instances), <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> (75; 6% instances), <tt><a href="vep_vwt-pos-PROPN.html">PROPN</a></tt> (45; 3% instances).
 
 ### `NOUN`
@@ -21,7 +21,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="vep_vwt-pos-NOUN.ht
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (102; 33% of non-empty `Number`): <em>lapsed, ristitud, jurid, adivoid, eläjiden, projektoid, ristituid, tedoid, vanhembad, vepsläižed</em>
-* `Sing` (208; 67% of non-empty `Number`): <em>kelel, külän, rad, elo, kel't, kanzan, kanzas, kul'tursebran, küläs, mal</em>
+* `Sing` (208; 67% of non-empty `Number`): <em>kelel, külän, rad, elo, kelʼt, kanzan, kanzas, kulʼtursebran, küläs, mal</em>
 
 <table>
   <tr><th>Paradigm <i>elo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -44,11 +44,11 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 * `Sing` (120; 71% of non-empty `Number`): <em>minä, nece, ičeze, minun, kaik, minei, hän, kaiken, se, ičein</em>
 
 <table>
-  <tr><th>Paradigm <i>iče</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>ičein</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>ičetoi</em></td></tr>
-  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ičeze</em></td><td><em>ičeze</em></td></tr>
-  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ičtaze</em></td><td></td></tr>
+  <tr><th>Paradigm <i>minä</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=All</tt></tt></td><td><em>minei</em></td><td><em>meile</em></td></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>minun</em></td><td><em>meiden</em></td></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>minä</em></td><td><em>mö</em></td></tr>
+  <tr><td><tt><tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>mindai</em></td><td><em>meid</em></td></tr>
 </table>
 
 ### `VERB`
@@ -59,9 +59,9 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (45; 42% of non-empty `Number`): <em>eläba, tegem, Muštat-ik, Toivotam, abutiba, ajelkoiš, ajoim, el'gendaižiba, eliba, eläškandeb</em>
-* `Sing` (62; 58% of non-empty `Number`): <em>radoin, ajoin, seižub, abutab, el'genzin, meletan, muštan, pätin, sain, tahtoin</em>
-* `EMPTY` (76): <em>tehta, eläda, el'geta, rata, Išttes, kaita, pagišta, panda, radmaha, sündnu</em>
+* `Plur` (45; 42% of non-empty `Number`): <em>eläba, tegem, Muštat-ik, Toivotam, abutiba, ajelkoiš, ajoim, eliba, eläškandeb, elʼgendaižiba</em>
+* `Sing` (62; 58% of non-empty `Number`): <em>radoin, ajoin, seižub, abutab, elʼgenzin, meletan, muštan, pätin, sain, tahtoin</em>
+* `EMPTY` (76): <em>tehta, eläda, elʼgeta, rata, Išttes, kaita, pagišta, panda, radmaha, sündnu</em>
 
 <table>
   <tr><th>Paradigm <i>eläda</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -79,7 +79,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (12; 16% of non-empty `Number`): <em>erazvuiččed, enččiden, erazvuiččiš, lämembad, melekahad, melentartuižid, sel'ged, tägälaižed, vepsläižid, vägevad</em>
+* `Plur` (12; 16% of non-empty `Number`): <em>erazvuiččed, enččiden, erazvuiččiš, lämembad, melekahad, melentartuižid, selʼged, tägälaižed, vepsläižid, vägevad</em>
 * `Sing` (65; 84% of non-empty `Number`): <em>vepsän, hüvä, surel, čomal, jüged, kebn, tärged, äi, čoma, aktivižen</em>
 * `EMPTY` (1): <em>ezmäižid</em>
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Sing` (45; 100% of non-empty `Number`): <em>Kalag', Natalja, Päžarvehe, Kaskez, Kaskezaspäi, Piterin, Silakova, Vepsän, Änižjärven, Himjogi</em>
+* `Sing` (45; 100% of non-empty `Number`): <em>Kalagʼ, Natalja, Päžarvehe, Kaskez, Kaskezaspäi, Piterin, Silakova, Vepsän, Änižjärven, Himjogi</em>
 
 `Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (21) occur only with one value of `Number`.
 
@@ -132,8 +132,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="vep_vwt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (36; 82%),
 <tt>NOUN --[<tt><a href="vep_vwt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24; 89%),
 <tt>VERB --[<tt><a href="vep_vwt-dep-conj.html">conj</a></tt>]--> VERB</tt> (22; 81%),
-<tt>NOUN --[<tt><a href="vep_vwt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (19; 95%),
+<tt>NOUN --[<tt><a href="vep_vwt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (19; 90%),
 <tt>NOUN --[<tt><a href="vep_vwt-dep-cop.html">cop</a></tt>]--> AUX</tt> (16; 84%),
-<tt>NOUN --[<tt><a href="vep_vwt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13; 54%),
+<tt>NOUN --[<tt><a href="vep_vwt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (15; 54%),
 <tt>NOUN --[<tt><a href="vep_vwt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (9; 90%).
 

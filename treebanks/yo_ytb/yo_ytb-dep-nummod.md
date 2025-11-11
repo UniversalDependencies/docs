@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (0%) are attached to their parents as `nummod`.
+27 nodes (0%) are attached to their parents as `nummod`.
 
-21 instances of `nummod` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.79166666666667.
+24 instances of `nummod` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.7037037037037.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (21; 88% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 8% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (24; 89% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (2; 7% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt>-<tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

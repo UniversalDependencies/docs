@@ -9,9 +9,9 @@ udver: '2'
 There are 43 `ADV` lemmas (11%), 44 `ADV` types (7%) and 103 `ADV` tokens (8%).
 Out of 13 observed tags, the rank of `ADV` is: 3 in number of lemmas, 5 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>konz, lujas, sid', tägä, ka, nügüd', völ, kut, paksus, vaiše</em>
+The 10 most frequent `ADV` lemmas: <em>konz, lujas, sidʼ, tägä, ka, nügüdʼ, völ, kut, paksus, vaiše</em>
 
-The 10 most frequent `ADV` types:  <em>konz, lujas, tägä, ka, nügüd', völ, kut, paksus, vaiše, hüvin</em>
+The 10 most frequent `ADV` types:  <em>konz, lujas, tägä, ka, nügüdʼ, völ, kut, paksus, vaiše, hüvin</em>
 
 The 10 most frequent ambiguous lemmas: <em>edel</em> (<tt><a href="vep_vwt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="vep_vwt-pos-ADV.html">ADV</a></tt> 1)
 
@@ -19,17 +19,17 @@ The 10 most frequent ambiguous types:  <em>edel</em> (<tt><a href="vep_vwt-pos-A
 
 
 * <em>edel</em>
-  * <tt><a href="vep_vwt-pos-ADP.html">ADP</a></tt> 1: <em>Valičusiden <b>edel</b> minä tahtoin el'geta , voin-ik minä tehta midä-se ut da hüväd külän eläjiden täht .</em>
-  * <tt><a href="vep_vwt-pos-ADV.html">ADV</a></tt> 1: <em>Minei tuli oza vastatas Natalja Silakovanke Kalages , ani hänen jubilejan <b>edel</b> , mitte om 23. sügüz'kud .</em>
+  * <tt><a href="vep_vwt-pos-ADP.html">ADP</a></tt> 1: <em>Valičusiden <b>edel</b> minä tahtoin elʼgeta , voin-ik minä tehta midä-se ut da hüväd külän eläjiden täht .</em>
+  * <tt><a href="vep_vwt-pos-ADV.html">ADV</a></tt> 1: <em>Minei tuli oza vastatas Natalja Silakovanke Kalages , ani hänen jubilejan <b>edel</b> , mitte om 23. sügüzʼkud .</em>
 * <em>kerdan</em>
   * <tt><a href="vep_vwt-pos-ADV.html">ADV</a></tt> 1: <em>Ken tuleb Päžarvehe , ka kaičeb necen tahon südäimes i pördase tänna völ <b>kerdan</b> .</em>
   * <tt><a href="vep_vwt-pos-NOUN.html">NOUN</a></tt> 1: <em>Jo toižen <b>kerdan</b> meiden posadas oli tehtud " Kalarand " - praznik .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.023256 (the average of all parts of speech is 1.538660).
+The form / lemma ratio of `ADV` is 1.023256 (the average of all parts of speech is 1.550649).
 
-The 1st highest number of forms (3) was observed with the lemma “sid'”: <em>sid', sil, siš</em>.
+The 1st highest number of forms (3) was observed with the lemma “sidʼ”: <em>sidʼ, sil, siš</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “ani”: <em>ani</em>.
 
@@ -41,7 +41,7 @@ The 3rd highest number of forms (1) was observed with the lemma “edahan”: <e
 
 `ADV` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (100 tokens).
-Examples: <em>konz, lujas, tägä, ka, nügüd', völ, kut, paksus, vaiše, hüvin</em>
+Examples: <em>konz, lujas, tägä, ka, nügüdʼ, völ, kut, paksus, vaiše, hüvin</em>
 
 
 ## Relations

@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  それ (<tt><a href="ja_pud-pos-PRON.html
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.166667 (the average of all parts of speech is 1.068660).
+The form / lemma ratio of `PRON` is 1.166667 (the average of all parts of speech is 1.068686).
 
 The 1st highest number of forms (2) was observed with the lemma “何”: なん, 何.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (2) was observed with the lemma “彼”: か�
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (184; 42% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (156; 35% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (61; 14% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (23; 5% instances), <tt><a href="ja_pud-dep-nsubj-outer.html">nsubj:outer</a></tt> (12; 3% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (2; 0% instances)
+`PRON` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (184; 42% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (154; 35% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (64; 14% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (23; 5% instances), <tt><a href="ja_pud-dep-nsubj-outer.html">nsubj:outer</a></tt> (12; 3% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
 
 Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (239; 54% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (183; 41% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances),  (2; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

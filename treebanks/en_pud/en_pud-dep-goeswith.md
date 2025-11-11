@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 11	Talking	talk	VERB	VBG	VerbForm=Ger	12	amod	12:amod	_
 12	Dead	dead	NOUN	NN	Number=Sing	6	appos	6:appos	SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	12:punct	SpaceAfter=No
-14	"	"	PUNCT	''	_	12	punct	12:punct	_
+14	"	"	PUNCT	''	_	4	punct	4:punct	_
 
 ~~~
 

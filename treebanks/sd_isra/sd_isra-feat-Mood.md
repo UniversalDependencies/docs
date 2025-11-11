@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Sub`.
 
-13 tokens (0%) have a non-empty value of `Mood`.
+42 tokens (0%) have a non-empty value of `Mood`.
 5 types (0%) occur at least once with a non-empty value of `Mood`.
 4 lemmas (0%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (39; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (3; 0% instances).
 
 ### `AUX`
 
-10 <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Mood`.
+39 <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10; 100%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 90%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sd_isra-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (39; 100%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (38; 97%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 67%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23; 59%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Sub` (10; 100% of non-empty `Mood`): <em>ها, ھا</em>
-* `EMPTY` (842): <em>آهي, ٿي, ٿو, آهن, هو, ٿا, هئي, ناهي, هئا, آهيان</em>
+* `Sub` (39; 100% of non-empty `Mood`): <em>ها, ھا</em>
+* `EMPTY` (4879): <em>آهي, ٿي, آهن, هو, ٿو, ٿا, هئي, ٿيو, ناهي, هئا</em>
 
 ### `VERB`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Sub` (3; 100% of non-empty `Mood`): <em>اڇجانءِ, وينداسين, پيئجي</em>
-* `EMPTY` (2494): <em>ڪري, چيو, ڪرڻ, ويو, اچي, ڪيو, وڃي, گھرجي, رهيو, ويا</em>
+* `EMPTY` (13090): <em>ڪري, چيو, ڪرڻ, ويو, ڪيو, وڃي, ڪئي, اچي, ويا, پيو</em>
 

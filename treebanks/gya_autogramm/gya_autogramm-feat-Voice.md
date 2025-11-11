@@ -43,5 +43,5 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `VERB` tokens may have the following values of `Voice`:
 
 * `Mid` (1; 100% of non-empty `Voice`): <em>yɔ̀á</em>
-* `EMPTY` (584): <em>ndák, dɛ́, nɛ́, gbó, kpèè, ngbòì, ʔá, bá, ɲɔ̀ŋá, ʔɔ́</em>
+* `EMPTY` (582): <em>ndák, dɛ́, nɛ́, gbó, kpèè, ngbòì, ʔá, bá, ɲɔ̀ŋá, ʔɔ́</em>
 

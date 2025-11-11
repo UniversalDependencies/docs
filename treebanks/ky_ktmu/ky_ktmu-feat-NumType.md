@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-1517 tokens (6%) have a non-empty value of `NumType`.
+1535 tokens (6%) have a non-empty value of `NumType`.
 291 types (4%) occur at least once with a non-empty value of `NumType`.
 283 lemmas (8%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (1508; 6% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (9; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (1526; 6% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (9; 0% instances).
 
 ### `NUM`
 
-1508 <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumType`.
+1526 <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1420; 94% of non-empty `NumType`): <em>млрд, млн, бир, миң, эки, 3, 6, ,5, 4, 5</em>
+* `Card` (1438; 94% of non-empty `NumType`): <em>млрд, млн, бир, миң, эки, 3, 6, ,5, 4, 5</em>
 * `Ord` (88; 6% of non-empty `NumType`): <em>биринчи, 1-, дыйкан-, экинчи, 11-, 29-, 3, 10-, 15, 17-</em>
 * `EMPTY` (21): <em>млрд, экөө, үчөө, 10дон, Батышты, ЖЭБи, бирөө, бойдон, бюджети, жетекчи</em>
 
@@ -40,11 +40,11 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (9; 100% of non-empty `NumType`): <em>млрд, VI, Мекендеш, күч, миңден</em>
-* `EMPTY` (9086): <em>сом, шаарында, эл, салык, банк, жыл, иштери, суу, айда, жол</em>
+* `EMPTY` (9296): <em>сом, шаарында, эл, салык, иштери, банк, жыл, суу, айда, жол</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> NUM</tt> (499; 99%),
+<tt>NUM --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> NUM</tt> (504; 99%),
 <tt>NUM --[<tt><a href="ky_ktmu-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (3; 100%).
 

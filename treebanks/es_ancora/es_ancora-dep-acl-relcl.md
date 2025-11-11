@@ -87,7 +87,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 10	de	de	ADP	sps00	_	12	mark	12:mark	_
 11	que	que	SCONJ	cs	_	12	mark	12:mark	_
 12	sabemos	saber	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	acl	9:acl	_
-13	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	14	det	14:det	Entity=(CESSCASTA2000021511977c28--3-CorefType:ident,gstype:gen,HomoDD
+13	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	15	det	15:det	Entity=(CESSCASTA2000021511977c28--3-CorefType:ident,gstype:gen,HomoDD
 14	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	15:det	_
 15	detalles	detalle	NOUN	ncmp000	Gender=Masc|Number=Plur	12	obj	12:obj	SpaceAfter=No|ArgTem=arg1:pat
 16	,	,	PUNCT	fc	PunctType=Comm	18	punct	18:punct	_

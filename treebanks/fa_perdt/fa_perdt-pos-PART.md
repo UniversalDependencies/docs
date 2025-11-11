@@ -53,7 +53,7 @@ The 3rd highest number of forms (1) was observed with the lemma “مگر”: م
 
 ## Relations
 
-`PART` nodes are attached to their parents using 6 different relations: <tt><a href="fa_perdt-dep-mark.html">mark</a></tt> (372; 82% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (74; 16% instances), <tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="fa_perdt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt><a href="fa_perdt-dep-mark.html">mark</a></tt> (372; 82% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (43; 10% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (34; 8% instances), <tt><a href="fa_perdt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (1; 0% instances)
 
 Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (354; 78% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (33; 7% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (26; 6% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (22; 5% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 

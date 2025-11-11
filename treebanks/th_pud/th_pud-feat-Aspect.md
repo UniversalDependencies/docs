@@ -32,7 +32,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="th_pud-pos-AUX.html
 
 * `Perf` (4; 4% of non-empty `Aspect`): การได้, อยู่, แลัว
 * `Prog` (87; 96% of non-empty `Aspect`): อยู่, ยัง, ยังคง, ค่อนข้าง
-* `EMPTY` (4560): มี, ให้, ใช้, ทำ, อยู่, รับ, กล่าว, ทำให้, เกิด, คือ
+* `EMPTY` (4563): มี, ให้, ใช้, ทำ, อยู่, รับ, กล่าว, ทำให้, เกิด, คือ
 
 <table>
   <tr><th>Paradigm <i>อยู่</i></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th></tr>

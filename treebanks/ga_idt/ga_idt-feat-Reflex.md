@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (255; 100% of non-empty `Reflex`): <em>féin, fhéin, fein</em>
-* `EMPTY` (3366): <em>sé, é, sin, iad, siad, sí, mé, í, seo, tú</em>
+* `EMPTY` (3364): <em>sé, é, sin, iad, siad, sí, mé, seo, í, tú</em>
 
 ### `PROPN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PROPN` and `Reflex` co-occurr
 `PROPN` tokens may have the following values of `Reflex`:
 
 * `Yes` (6; 100% of non-empty `Reflex`): <em>Féin, Fein</em>
-* `EMPTY` (5720): <em>Átha, cliath, Bhaile, Gaeltachta, Gaeilge, hÉireann, Údarás, Ghaeltacht, Éirinn, Baile</em>
+* `EMPTY` (5472): <em>Átha, cliath, Bhaile, Gaeltachta, Gaeilge, hÉireann, Ghaeltacht, Éirinn, Baile, Ghaeilge</em>
 

@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ka_glc-feat-Person.html">Person</a></tt>, <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt>, <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt>.
 
-4957 tokens (8%) have a non-empty value of `Person[subj]`.
-1397 types (9%) occur at least once with a non-empty value of `Person[subj]`.
-668 lemmas (7%) occur at least once with a non-empty value of `Person[subj]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3630; 6% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1327; 2% instances).
+4958 tokens (8%) have a non-empty value of `Person[subj]`.
+1398 types (9%) occur at least once with a non-empty value of `Person[subj]`.
+664 lemmas (7%) occur at least once with a non-empty value of `Person[subj]`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3631; 6% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1327; 2% instances).
 
 ### `VERB`
 
-3630 <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `Person[subj]`.
+3631 <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Person[subj]`.
 
-The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3616; 100%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (3062; 84%), <tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (3003; 83%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2803; 77%), <tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2013; 55%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1956; 54%).
+The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3631; 100%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3631; 100%), <tt><a href="ka_glc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3631; 100%), <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3617; 100%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (3061; 84%), <tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (3004; 83%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2806; 77%), <tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2014; 55%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1957; 54%).
 
 `VERB` tokens may have the following values of `Person[subj]`:
 
@@ -67,12 +67,12 @@ The most frequent other feature values with which `AUX` and `Person[subj]` co-oc
 ## Relations with Agreement in `Person[subj]`
 
 The 10 most frequent relations where parent and child node agree in `Person[subj]`:
-<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (349; 95%),
-<tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (124; 88%),
-<tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (117; 81%),
-<tt>VERB --[<tt><a href="ka_glc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (102; 86%),
-<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (27; 90%),
-<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> VERB</tt> (26; 76%),
+<tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (350; 91%),
+<tt>VERB --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (124; 83%),
+<tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (118; 77%),
+<tt>VERB --[<tt><a href="ka_glc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (102; 80%),
+<tt>VERB --[<tt><a href="ka_glc-dep-aux.html">aux</a></tt>]--> AUX</tt> (27; 87%),
+<tt>VERB --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> VERB</tt> (26; 65%),
 <tt>VERB --[<tt><a href="ka_glc-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (6; 86%),
 <tt>VERB --[<tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (4; 100%),
 <tt>VERB --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),

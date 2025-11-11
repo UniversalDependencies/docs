@@ -54,6 +54,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>é</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>é, È, Ǻ</em></td><td><em>será</em></td><td><em>foi</em></td><td><em>era</em></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>são</em></td><td><em>serão</em></td><td></td><td><em>eram</em></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>seja</em></td><td><em>for, sera</em></td><td></td><td><em>fosse</em></td></tr>

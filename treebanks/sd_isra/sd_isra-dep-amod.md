@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-635 nodes (4%) are attached to their parents as `amod`.
+4615 nodes (5%) are attached to their parents as `amod`.
 
-620 instances of `amod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25354330708661.
+4547 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28645720476706.
 
-The following 19 pairs of parts of speech are connected with `amod`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (543; 86% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (26; 4% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (10; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 35 pairs of parts of speech are connected with `amod`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (3996; 87% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (190; 4% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (85; 2% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (57; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (42; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (41; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (40; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (22; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (20; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,27 +40,19 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod	color:blue
-1	وري	وري	ADV	ADM	_	4	advmod	_	_
-2	ڪجهه	ڪجهه	ADJ	JJ	Case=Nom|Degree=Pos	3	amod	_	_
-3	اڳتي	اڳ	ADJ	JJ	Case=Nom|Degree=Pos|Number=Sing	4	xcomp	_	_
-4	ويا	ويو	VERB	VM	Aspect=Perf|Number=Plur	7	advcl	_	_
-5	ته	ته	SCONJ	CS	_	7	mark	_	_
-6	گدڙ	گدڙ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-7	چيو	چئو	VERB	VM	Aspect=Perf	0	root	_	_
-8	ته	ته	SCONJ	CS	_	14	mark	_	_
-9	:	:	PUNCT	PUNCT	_	14	punct	_	_
-10	هڪ	هڪ	NUM	NUM	_	11	nummod	_	_
-11	سؤ	سؤ	NUM	NUM	Case=Nom|Number=Sing	14	nsubj	_	_
-12	ٻيو	ٻيو	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	14	xcomp	_	_
-13	به	به	PART	PART	_	12	advmod:emph	_	_
-14	وسري	وسر	VERB	VM	Aspect=Perf|VerbForm=Conv	7	advcl	_	_
-15	ويو	ويو	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
-16	.	.	PUNCT	PUNCT	_	7	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 amod	color:blue
+1	گدڙ	گدڙ	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	پنهنجي	پنهنجي	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=1	3	nmod	_	_
+3	ساراهه	ساراهه	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	_
+4	ٻڌي	ٻڌ	VERB	VM	Aspect=Perf|VerbForm=Conv	6	advcl	_	_
+5	ڏاڍو	ڏاڍو	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
+6	خوش	خوش	ADJ	JJ	Case=Nom|Degree=Pos	0	root	_	_
+7	ٿيو	آهي	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	6	cop	_	_
+8	،	،	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 
@@ -71,11 +63,11 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
-1	تعليم	تعليم	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
-2	انسان	انسان	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	_
-3	جي	جي	ADP	PSPG	Case=Nom|Gender=Fem|Number=Sing	2	case	_	_
-4	ٽين	ٽين	NUM	NUM	_	5	amod	_	_
-5	اک	اک	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+1	گلاب	گلاب	PROPN	NNP	Case=Nom|Gender=Masc	3	nmod	_	_
+2	جو	جو	ADP	PSPG	Case=Nom|Gender=Masc|Number=Sing	1	case	_	_
+3	گل	گل	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	بهترين	بهتر	ADJ	JJ	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
+5	گلاب	گلاب	PROPN	NNP	Case=Nom|Gender=Masc	0	root	_	_
 6	آهي	آهي	AUX	VAUX	Number=Sing|Tense=Pres	5	cop	_	_
 7	.	.	PUNCT	PUNCT	_	5	punct	_	_
 

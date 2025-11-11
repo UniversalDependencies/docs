@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `dislocated`.
+56 nodes (0%) are attached to their parents as `dislocated`.
 
-9 instances of `dislocated` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.33333333333333.
+49 instances of `dislocated` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 12.1964285714286.
 
-The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (5; 42% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (4; 33% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 8% instances).
+The following 11 pairs of parts of speech are connected with `dislocated`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (25; 45% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (11; 20% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 11 dislocated	color:blue
-1	هن	هن	DET	PRD	Case=Acc|Number=Sing	5	nsubj	_	_
+1	هن	هن	DET	PRD	Case=Acc|Number=Sing|PronType=Dem	5	nsubj	_	_
 2	کي	کي	ADP	PSP	_	1	case	_	_
 3	عجب	عجب	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	5	compound	_	_
 4	به	به	PART	PART	_	3	advmod:emph	_	_
@@ -41,44 +41,44 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 dislocated	color:blue
-1	سو	سو	PRON	PRL	Case=Nom|Number=Sing	4	dislocated	_	_
-2	کيس	کي	ADP	PSPX	Case=Acc|Person=3	4	iobj	_	_
-3	ماني	ماني	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	_
-4	ڏي	ڏي	VERB	VM	Aspect=Imp|Number=Sing|Person=3	6	advcl	_	_
-5	ته	ته	SCONJ	CS	_	6	mark	_	_
-6	کائي	کاءِ	VERB	VM	Aspect=Imp|Number=Sing|Person=3	0	root	_	_
-7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 1 dislocated	color:blue
+1	سيارو	_	PROPN	NNP	Case=Nom|Gender=Masc	14	dislocated	_	SpaceAfter=No
+2	،	،	PUNCT	PUNCT	_	3	punct	_	_
+3	اونهارو	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+4	،	،	PUNCT	PUNCT	_	3	punct	_	_
+5	بهار	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+6	،	،	PUNCT	PUNCT	_	5	punct	_	_
+7	خزان	_	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+8	،	،	PUNCT	PUNCT	_	7	punct	_	_
+9	مطلب	مطلب	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	14	obl	_	_
+10	ته	ته	SCONJ	CS	_	14	mark	_	_
+11	ڏينهن	ڏينهن	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	12	nmod	_	_
+12	رات	رات	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	obl	_	_
+13	هو	هو	DET	PRD	Case=Nom|Number=Sing|PronType=Dem	14	nsubj	_	_
+14	هلندو	هل	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing	0	root	_	_
+15	رهيو	رهيو	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	14	compound	_	SpaceAfter=No
+16	،	،	PUNCT	PUNCT	_	14	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 3 dislocated	color:blue
-1	تاريخي	تاريخي	ADJ	JJ	Case=Nom|Degree=Pos	2	amod	_	_
-2	ساڌ	ساڌ	PROPN	NNP	Case=Nom|Gender=Masc	3	nmod	_	_
-3	ٻيلو	ٻيلو	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	16	dislocated	_	_
-4	،	،	PUNCT	PUNCT	_	3	punct	_	_
-5	جيڪو	جيڪو	PRON	PRWH	Gender=Masc|Number=Sing	16	nsubj	_	_
-6	سنڌو	سنڌو	PROPN	NNP	Case=Nom|Gender=Masc	7	nmod	_	_
-7	وچ	وچ	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	_
-8	۾	۾	ADP	PSPL	_	7	case	_	_
-9	سکر	سکر	PROPN	NNP	Case=Nom|Gender=Masc	10	compound	_	_
-10	بئراج	بئراج	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	_
-11	کان	کان	ADP	PSPL	_	10	case	_	_
-12	صرف	صرف	ADJ	JJ	Case=Nom|Degree=Pos	14	amod	_	_
-13	هڪ	هڪ	NUM	NUM	_	14	nummod	_	_
-14	ڪلوميٽر	ڪلوميٽر	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	16	nmod	_	_
-15	مٿين	مٿي	ADV	ADP	_	16	advmod	_	_
-16	پاسي	پاسو	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
-17	آهي	آهي	AUX	VAUX	Gender=Masc|Number=Sing|Person=3|Tense=Pres	16	cop	_	_
-18	،	،	PUNCT	PUNCT	_	16	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 dislocated	color:blue
+1	بابا	بابا	NOUN	NN	Case=Voc|Gender=Masc|Number=Sing	7	dislocated	_	SpaceAfter=No
+2	!	!	PUNCT	PUNCT	_	1	punct	_	_
+3	اتي	اتي	ADV	ADT	_	7	advmod	_	_
+4	ته	ته	PART	PART	_	3	advmod:emph	_	_
+5	ڪو	ڪو	DET	PRD	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+6	به	به	PART	PART	_	5	advmod:emph	_	_
+7	ديوتا	ديوتا	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	ڪونهي	آهي	AUX	VAUX	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	7	cop	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 

@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (662; 3% of non-empty `Person`): <em>tenemos, creo, vamos, estamos, voy, pedimos, tengo, quiero, recomiendo, encontramos</em>
 * `2` (99; 0% of non-empty `Person`): <em>tienes, sabes, sientes, estás, llevas, añade, mira, perdais, quieres, viste</em>
 * `3` (19693; 96% of non-empty `Person`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</em>
-* `EMPTY` (15911): <em>hacer, ubicado, ver, conocido, debido, tener, decir, dar, partir, llegar</em>
+* `EMPTY` (15912): <em>hacer, ubicado, ver, conocido, debido, tener, decir, dar, partir, llegar</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -134,7 +134,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (323; 7% of non-empty `Person`): <em>mi, nuestra, nuestros, nuestro, mis, nuestras, vuestra, Dichos, My, me</em>
 * `2` (33; 1% of non-empty `Person`): <em>tu, tus, L'</em>
 * `3` (4005; 92% of non-empty `Person`): <em>su, sus, tus, the, Tu, suyo, Era, l', suyos</em>
-* `EMPTY` (56526): <em>el, la, los, un, las, una, este, esta, otras, otros</em>
+* `EMPTY` (56525): <em>el, la, los, un, las, una, este, esta, otras, otros</em>
 
 <table>
   <tr><th>Paradigm <i>tu</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -153,7 +153,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 * `1` (12; 14% of non-empty `Person`): <em>'s, mi, hoc, lobster, ne, of, què, sulo, to</em>
 * `2` (10; 12% of non-empty `Person`): <em>'s, des, £, s, t, x</em>
 * `3` (64; 74% of non-empty `Person`): <em>'s, es, and, oa, of, Fauve, Kage, League, Reguleses, Tsurugi</em>
-* `EMPTY` (1777): <em>ex, hab, ya, etc., C, 's, x, i, mm, C.</em>
+* `EMPTY` (1775): <em>ex, hab, ya, etc., C, 's, x, i, mm, C.</em>
 
 <table>
   <tr><th>Paradigm <i>'s</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -172,7 +172,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 * `2` (53; 87% of non-empty `Person`): <em>², º, m</em>
 * `3` (8; 13% of non-empty `Person`): <em>$, ª, º, #, &, ²</em>
-* `EMPTY` (1600): <em>%, ², km, $, º, °, €, h, /, a</em>
+* `EMPTY` (1599): <em>%, ², km, $, º, °, €, h, /, m</em>
 
 <table>
   <tr><th>Paradigm <i>²</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

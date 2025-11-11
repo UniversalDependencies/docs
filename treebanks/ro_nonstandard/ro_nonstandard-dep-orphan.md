@@ -77,7 +77,7 @@ The following 26 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	,	,	PUNCT	COMMA	_	2	punct	_	Ref=MARC6.47
 5	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Ref=MARC6.47
 6	corabiia	corabie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	Ref=MARC6.47
-7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	Ref=MARC6.47
+7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	9	case	_	Ref=MARC6.47
 8	mijlocul	mijloc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	fixed	_	Ref=MARC6.47
 9	mării	mare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	Ref=MARC6.47
 10	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	Ref=MARC6.47

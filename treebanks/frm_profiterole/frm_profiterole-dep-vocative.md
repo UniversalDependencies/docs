@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-160 nodes (0%) are attached to their parents as `vocative`.
+185 nodes (0%) are attached to their parents as `vocative`.
 
-130 instances of `vocative` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.825.
+149 instances of `vocative` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.85405405405405.
 
-The following 16 pairs of parts of speech are connected with `vocative`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (117; 73% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (15; 9% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `vocative`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (131; 71% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (16; 9% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (15; 8% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -61,26 +61,26 @@ The following 16 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 4 vocative	color:blue
-1	«	«	PUNCT	PONpga	_	9	punct	_	XmlId=w_42_20306
-2	Hee	hé1	INTJ	INJ	_	9	discourse	_	SpaceAfter=No|XmlId=w_42_20307
-3	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_20308
-4	Dieu	dieu	PROPN	NOMpro	_	9	vocative	_	XmlId=w_42_20309
-5	de	de	ADP	PRE	_	6	case	_	XmlId=w_42_20310
-6	paradis	paradis	NOUN	NOMcom	_	4	nmod	_	SpaceAfter=No|XmlId=w_42_20311
-7	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_20312
-8	y	y2	ADV	PROadv	_	9	obl:advmod	_	XmlId=w_42_20313
-9	a	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_20314
-10	il	il	PRON	PROimp	PronType=Prs	9	expl	_	XmlId=w_42_20315
-11	encores	encore	ADV	ADVgen	_	9	advmod	_	XmlId=w_42_20316
-12	de	de	ADP	PRE	_	13	case	_	XmlId=w_42_20317
-13	gensdarmes	gendarme	NOUN	NOMcom	_	9	obl	_	XmlId=w_42_20318
-14	?	?	PUNCT	PONfrt	_	9	punct	_	XmlId=w_42_20319
-15	»	»	PUNCT	PONpdr	_	9	punct	_	XmlId=w_42_20320
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 9 vocative	color:blue
+1	-	-	PUNCT	PONfbl	_	13	punct	_	XmlId=w_jouvencel1_20895
+2	«	«	PUNCT	PONpga	_	13	punct	_	XmlId=w_jouvencel1_20896
+3	Ha	ha	INTJ	INJ	_	13	discourse	_	XmlId=w_jouvencel1_20897
+4	!	!	PUNCT	PONfrt	_	13	punct	_	XmlId=w_jouvencel1_20898
+5	dist	dire1	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_jouvencel1_20899
+6	le	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_jouvencel1_20900
+7	Cappitaine	capitaine	NOUN	NOMcom	_	5	nsubj	_	SpaceAfter=No|XmlId=w_jouvencel1_20901
+8	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_20902
+9	Jouvencel	jouvenceau	PROPN	NOMpro	_	13	vocative	_	SpaceAfter=No|XmlId=w_jouvencel1_20903
+10	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_20904
+11	ne	ne1	ADV	ADVneg	PronType=Neg	13	advmod	_	XmlId=w_jouvencel1_20905
+12	vous	vous	PRON	PROper	PronType=Prs	13	expl	_	XmlId=w_jouvencel1_20906
+13	hastés	hâter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_20907
+14	pas	pas1	ADV	ADVneg	PronType=Neg	13	advmod	_	XmlId=w_jouvencel1_20908
+15	;	;	PUNCT	PONfbl	_	13	punct	_	XmlId=w_jouvencel1_20909
 
 ~~~
 

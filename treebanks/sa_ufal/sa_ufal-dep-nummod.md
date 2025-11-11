@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="sa_ufal-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-13 nodes (1%) are attached to their parents as `nummod`.
+14 nodes (1%) are attached to their parents as `nummod`.
 
-11 instances of `nummod` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07692307692308.
+11 instances of `nummod` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07142857142857.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt> (13; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt> (14; 100% instances).
 
 
 ~~~ conllu

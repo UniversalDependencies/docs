@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:nsubj`: 
 10	meo	meus	DET	F1|grn1|casF|gen3|vgr1	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	2	punct	_	_
 12	ille	ille	DET	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	14	nsubj	_	_
-13	uos	uos	PRON	F1|grn1|casM|gen1|vgr1	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs	14	obj	_	_
+13	uos	uos	PRON	F1|grn1|casM|gen1|vgr1	Case=Acc|InflClass=LatAnom|Number=Plur|Person=2|PronType=Prs	14	iobj	_	_
 14	docebit	doceo	VERB	K3|modA|tem3|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 15	omnia	omnis	DET	C1|grn1|casM|gen3	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Plur|PronType=Tot	14	obj	_	SpaceAfter=No
 16	.	.	PUNCT	Punc	_	14	punct	_	_

@@ -51,7 +51,7 @@ The following 6 pairs of parts of speech are connected with `discourse:participa
 4	ná	ná	PART	_	_	1	discourse:sp	_	AlignBegin=61777|AlignEnd=62039|Gloss=DISC|MGloss=DISC|MSeg=ná|nWord=11|RX=DISC
 5	ʔéí	ʔéí	PRON	PERS	Number=Sing|PronType=Prs	6	nsubj	_	AlignBegin=62039|AlignEnd=62238|Gloss=LOGSG|Logophoric=Yes|MGloss=LOGSG|MSeg=ʔéí|nWord=12|RX=PERS
 6	nɛ̀ɛ̀	nɛ	VERB	V	_	0	root	_	AlignBegin=62238|AlignEnd=62437|Gloss=aller|MGloss=ACC-aller-MT|MSeg=BHa-nɛ-H|nWord=13|RX=V
-7	kpéé	kpe	VERB	V	_	6	compound:svc	_	AlignBegin=62437|AlignEnd=62569|Gloss=fermer|MGloss=INF-INAC--fermer|MSeg=Háá-kpe|nWord=14|RX=V
+7	kpéé	kpe	VERB	V	_	6	compound:svc	_	AlignBegin=62437|AlignEnd=62569|Gloss=fermer|MGloss=INF-INAC--fermer|MSeg=HHa-kpe|nWord=14|RX=V
 8	yì	yì	NOUN	N	_	7	obj	_	AlignBegin=62636|AlignEnd=62834|Gloss=rivière|MGloss=rivière|MSeg=yì|nWord=15|RX=N
 
 ~~~

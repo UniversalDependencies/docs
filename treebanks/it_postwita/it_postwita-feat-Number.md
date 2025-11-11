@@ -196,5 +196,5 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="it_postwita-dep-cop.html">cop</a></tt>]--> AUX</tt> (755; 78%),
 <tt>ADJ --[<tt><a href="it_postwita-dep-cop.html">cop</a></tt>]--> AUX</tt> (691; 93%),
 <tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (643; 74%),
-<tt>NOUN --[<tt><a href="it_postwita-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (448; 81%).
+<tt>VERB --[<tt><a href="it_postwita-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (451; 50%).
 

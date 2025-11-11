@@ -14,19 +14,19 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 394 tokens (18%) have a non-empty value of `Person`.
 135 types (27%) occur at least once with a non-empty value of `Person`.
 87 lemmas (23%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (168; 8% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (85; 4% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (81; 4% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (40; 2% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (171; 8% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (82; 4% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (81; 4% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (40; 2% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `AUX`
 
-168 <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> tokens (71% of all `AUX` tokens) have a non-empty value of `Person`.
+171 <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (121; 72%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (124; 73%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (16; 10% of non-empty `Person`): <em>wa, wate</em>
-* `Non1` (152; 90% of non-empty `Person`): <em>te, ma</em>
-* `EMPTY` (67): <em>te, di, ma, ma'ãpé, mo</em>
+* `1` (19; 11% of non-empty `Person`): <em>wa, wate</em>
+* `Non1` (152; 89% of non-empty `Person`): <em>te, ma</em>
+* `EMPTY` (68): <em>te, di, ma, ma'ãpé, mo</em>
 
 <table>
   <tr><th>Paradigm <i>te</i></th><th><tt>1</tt></th><th><tt>Non1</tt></th></tr>
@@ -37,16 +37,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-85 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Person`.
+82 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (76; 89%), <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (63; 74%), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (60; 71%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (50; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (73; 89%), <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (60; 73%), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (57; 70%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (47; 57%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (54; 64% of non-empty `Person`): <em>wa, wahã, wanorĩhã, wama, wanorĩ, wasima, ĩma, ĩĩsima, wate, watsiwi</em>
+* `1` (51; 62% of non-empty `Person`): <em>wa, wahã, wama, wanorĩhã, wanorĩ, wasima, ĩma, ĩĩsima, wate, watsiwi</em>
 * `2` (15; 18% of non-empty `Person`): <em>aima, ahã, anorĩwa'wahã, a, anorĩ, asina</em>
-* `3` (16; 19% of non-empty `Person`): <em>tãma, õhã, õnorĩhã, dawi, ohã</em>
-* `EMPTY` (43): <em>aihini, ni'wa, uburé, Taha, hã, 'wa, Ta, dama, ma, ni</em>
+* `3` (16; 20% of non-empty `Person`): <em>tãma, õhã, õnorĩhã, dawi, ohã</em>
+* `EMPTY` (47): <em>hã, aihini, ni'wa, uburé, Taha, 'wa, Ta, dama, ma, ni</em>
 
 <table>
   <tr><th>Paradigm <i>a</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -126,7 +126,7 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 
 * `1` (1; 50% of non-empty `Person`): <em>ni</em>
 * `2` (1; 50% of non-empty `Person`): <em>wa'wa</em>
-* `EMPTY` (319): <em>za'ra, hã, e, ma, za, õ, norĩ, tô, norĩhã, aba</em>
+* `EMPTY` (320): <em>hã, za'ra, e, ma, za, õ, norĩ, tô, aba, norĩhã</em>
 
 ## Relations with Agreement in `Person`
 

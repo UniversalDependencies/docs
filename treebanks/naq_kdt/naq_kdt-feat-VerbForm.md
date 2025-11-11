@@ -24,5 +24,5 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin,Inf` (2; 100% of non-empty `VerbForm`): <em>klim, soek</em>
-* `EMPTY` (3940): <em>hâ, ūhâ, ī, mî, dī, sī, ǁkhā, ǂan, mû, kō</em>
+* `EMPTY` (3941): <em>hâ, ūhâ, ī, mî, dī, sī, ǁkhā, ǂan, mû, kō</em>
 

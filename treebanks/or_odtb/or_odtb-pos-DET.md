@@ -65,7 +65,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ଅନେକ�
 
 ## Relations
 
-`DET` nodes are attached to their parents using 2 different relations: <tt><a href="or_odtb-dep-det.html">det</a></tt> (38; 97% instances), <tt><a href="or_odtb-dep-obl.html">obl</a></tt> (1; 3% instances)
+`DET` nodes are attached to their parents using 2 different relations: <tt><a href="or_odtb-dep-det.html">det</a></tt> (38; 97% instances), <tt><a href="or_odtb-dep-nmod.html">nmod</a></tt> (1; 3% instances)
 
 Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (30; 77% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt> (4; 10% instances), <tt><a href="or_odtb-pos-NUM.html">NUM</a></tt> (3; 8% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

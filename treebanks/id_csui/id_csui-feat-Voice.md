@@ -18,8 +18,6 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_csui-pos-VERB.ht
 
 2981 <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_csui-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2981; 100%).
-
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (2310; 77% of non-empty `Voice`): <em>kata, menjadi, mencapai, mengatakan, ada, meningkat, naik, lalu, merupakan, turun</em>

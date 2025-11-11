@@ -25,14 +25,14 @@ The following 36 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 14 16 nmod	color:blue
 1	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	3	mark	_	_
 2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	ⲧⲛⲧⲱⲛ	ⲧⲟⲛⲧⲛ	VERB	VSTAT	VerbForm=Fin	0	root	_	Orig=ⲧ︤ⲛ︥ⲧⲱⲛ`
+3	ⲧⲛⲧⲱⲛ	ⲧⲟⲛⲧⲛ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲧ︤ⲛ︥ⲧⲱⲛ`
 4	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
 5	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Entity=(object
 6	ϩⲏⲃⲥ	ϩⲏⲃⲥ	NOUN	N	_	3	obl	_	Orig=ϩⲏⲃ︤ⲥ︥`
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
-10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
+10	ϫⲉⲣⲱ	ϫⲉⲣⲱ	VERB	V	Mood=Ind|VerbForm=Fin	6	acl:relcl	_	_
 11	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	obj	_	Orig=ⲟⲩ`
 12	ϩⲛ	ϩⲛ	ADP	PREP	_	14	case	_	Orig=ϩ︤ⲛ︥
 13	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(place
@@ -53,7 +53,7 @@ The following 36 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
 6	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place
 7	ⲕⲣⲟ	ⲕⲣⲟ	NOUN	N	_	4	obl	_	_
@@ -77,7 +77,7 @@ The following 36 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 8	fgColor:white
 # visual-style 8 10 nmod	color:blue
 1	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Orig=ⲧ︤ⲛ︥
-2	ⲇⲟⲅⲙⲁⲧⲓⲍⲉ	ⲇⲟⲅⲙⲁⲧⲓⲍⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
+2	ⲇⲟⲅⲙⲁⲧⲓⲍⲉ	ⲇⲟⲅⲙⲁⲧⲓⲍⲉ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	0	root	_	OrigLang=grc
 3	ϩⲙ	ϩⲛ	ADP	PREP	_	5	case	_	Orig=ϩ︤ⲙ︥
 4	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Entity=(place
 5	ⲕⲟⲥⲙⲟⲥ	ⲕⲟⲥⲙⲟⲥ	NOUN	N	Foreign=Yes	2	obl	_	Entity=place)|OrigLang=grc
@@ -87,7 +87,7 @@ The following 36 pairs of parts of speech are connected with `nmod`: <tt><a href
 9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	Orig=ⲛ̄
 10	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	nmod	_	Entity=(person
 11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
-12	ⲟⲛϩ	ⲱⲛϩ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	Entity=person)|Orig=ⲟⲛ︤ϩ︥
+12	ⲟⲛϩ	ⲱⲛϩ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	10	acl:relcl	_	Entity=person)|Orig=ⲟⲛ︤ϩ︥
 13	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

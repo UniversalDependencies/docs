@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (1446; 100% of non-empty `NumType`): <em>jednou, dvakrát, třikrát, několikrát, čtyřikrát, pětkrát, kolikrát, desetkrát, šestkrát, mnohokrát</em>
-* `EMPTY` (162261): <em>tam, už, tak, jak, kde, pak, kdy, více, ještě, včera</em>
+* `EMPTY` (163747): <em>tam, už, tak, jak, kde, pak, kdy, více, ještě, včera</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (46) occur only with one value of `NumType`.
 

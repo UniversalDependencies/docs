@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	gbó	gbo	VERB	V	_	0	root	_	AlignBegin=122984|AlignEnd=123535|Gloss=arriver|MGloss=INAC-arriver|MSeg=H-gbo|nWord=5|RX=V
 6	hɛ̌n	hɛ̀n	ADP	FCT	_	7	case	_	AlignBegin=123535|AlignEnd=124086|Gloss=dans|MGloss=dans-MT|MSeg=hɛ̀n-H|nWord=6|RX=FCT
 7	zǎŋ	zàŋ	NOUN	N	_	5	obl:arg	_	AlignBegin=124086|AlignEnd=124637|Gloss=continuité|MGloss=continuité-MT|MSeg=zàŋ-H|nWord=7|RX=N
-8	kòlèɲáà	kòlèɲáà	PROPN	NPR	_	7	obj	_	AlignBegin=124637|AlignEnd=125185|Gloss=village sp|MGloss=village sp|MSeg=kòlèɲáà|nWord=8|RX=NPR
+8	kòlèɲáà	kòlèɲáà	PROPN	NPR	_	7	obj	_	AlignBegin=124637|AlignEnd=125185|Gloss=village_sp|MGloss=village_sp|MSeg=kòlèɲáà|nWord=8|RX=NPR
 
 ~~~
 

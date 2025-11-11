@@ -44,8 +44,8 @@ The 3rd highest number of forms (1) was observed with the lemma “janone”: <e
 `SCONJ` occurs with 4 feature-value pairs: `Int=Yes`, `Mood=Cnd`, `Rel=NCont`, `Tense=Fut`
 
 `SCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (2 tokens).
-Examples: <em>janone, jepe</em>
+The most frequent feature combination is `Rel=NCont` (2 tokens).
+Examples: <em>ijaβe, janone</em>
 
 
 ## Relations

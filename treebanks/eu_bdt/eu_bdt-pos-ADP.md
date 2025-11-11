@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>artean</em> (<tt><a href="eu_bdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.943662 (the average of all parts of speech is 2.170132).
+The form / lemma ratio of `ADP` is 1.943662 (the average of all parts of speech is 2.170046).
 
 The 1st highest number of forms (38) was observed with the lemma “_”: <em>Aldeko, Aurkako, Gabeko, Kontrako, aitzina, aitzinetik, aldamenetik, alderat, antzean, at, aurkaa, azpitik, baitan, barnera, barruetatik, batera, bestaldean, bezalakoa, bezalakoen, bitarterako, bitartez, eskutik, gaineko, gisara, gorakoen, inguruetan, inguruetara, ingurura, irian, landara, menpe, menpera, ondora, partean, partez, pean, zai, zehar</em>.
 

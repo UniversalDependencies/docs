@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Mo Shen, Ryan McDonald, Daniel Zeman, Peng Qi.
 
 Repository: [UD_Chinese-GSD](https://github.com/UniversalDependencies/UD_Chinese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -57,21 +57,21 @@ Google.
 
 ## Features
 
-[Aspect](zh_gsd-feat-Aspect.html) – [Case](zh_gsd-feat-Case.html) – [Number](zh_gsd-feat-Number.html) – [NumType](zh_gsd-feat-NumType.html) – [PartType](zh_gsd-feat-PartType.html) – [Person](zh_gsd-feat-Person.html) – [Polarity](zh_gsd-feat-Polarity.html) – [Voice](zh_gsd-feat-Voice.html)
+[Aspect](zh_gsd-feat-Aspect.html) – [Case](zh_gsd-feat-Case.html) – [Foreign](zh_gsd-feat-Foreign.html) – [Number](zh_gsd-feat-Number.html) – [NumType](zh_gsd-feat-NumType.html) – [PartType](zh_gsd-feat-PartType.html) – [Person](zh_gsd-feat-Person.html) – [Polarity](zh_gsd-feat-Polarity.html) – [Voice](zh_gsd-feat-Voice.html)
 
 ## Relations
 
-[acl](zh_gsd-dep-acl.html) – [acl:relcl](zh_gsd-dep-acl-relcl.html) – [advcl](zh_gsd-dep-advcl.html) – [advmod](zh_gsd-dep-advmod.html) – [amod](zh_gsd-dep-amod.html) – [appos](zh_gsd-dep-appos.html) – [aux](zh_gsd-dep-aux.html) – [aux:pass](zh_gsd-dep-aux-pass.html) – [case](zh_gsd-dep-case.html) – [cc](zh_gsd-dep-cc.html) – [ccomp](zh_gsd-dep-ccomp.html) – [clf](zh_gsd-dep-clf.html) – [compound](zh_gsd-dep-compound.html) – [compound:ext](zh_gsd-dep-compound-ext.html) – [conj](zh_gsd-dep-conj.html) – [cop](zh_gsd-dep-cop.html) – [csubj](zh_gsd-dep-csubj.html) – [csubj:pass](zh_gsd-dep-csubj-pass.html) – [det](zh_gsd-dep-det.html) – [discourse](zh_gsd-dep-discourse.html) – [discourse:sp](zh_gsd-dep-discourse-sp.html) – [dislocated](zh_gsd-dep-dislocated.html) – [flat:foreign](zh_gsd-dep-flat-foreign.html) – [flat:name](zh_gsd-dep-flat-name.html) – [iobj](zh_gsd-dep-iobj.html) – [mark](zh_gsd-dep-mark.html) – [mark:adv](zh_gsd-dep-mark-adv.html) – [mark:rel](zh_gsd-dep-mark-rel.html) – [nmod](zh_gsd-dep-nmod.html) – [nmod:tmod](zh_gsd-dep-nmod-tmod.html) – [nsubj](zh_gsd-dep-nsubj.html) – [nsubj:pass](zh_gsd-dep-nsubj-pass.html) – [nummod](zh_gsd-dep-nummod.html) – [obj](zh_gsd-dep-obj.html) – [obl](zh_gsd-dep-obl.html) – [obl:patient](zh_gsd-dep-obl-patient.html) – [orphan](zh_gsd-dep-orphan.html) – [parataxis](zh_gsd-dep-parataxis.html) – [punct](zh_gsd-dep-punct.html) – [reparandum](zh_gsd-dep-reparandum.html) – [root](zh_gsd-dep-root.html) – [vocative](zh_gsd-dep-vocative.html) – [xcomp](zh_gsd-dep-xcomp.html)
+[acl](zh_gsd-dep-acl.html) – [acl:relcl](zh_gsd-dep-acl-relcl.html) – [advcl](zh_gsd-dep-advcl.html) – [advmod](zh_gsd-dep-advmod.html) – [amod](zh_gsd-dep-amod.html) – [appos](zh_gsd-dep-appos.html) – [aux](zh_gsd-dep-aux.html) – [aux:pass](zh_gsd-dep-aux-pass.html) – [case](zh_gsd-dep-case.html) – [cc](zh_gsd-dep-cc.html) – [ccomp](zh_gsd-dep-ccomp.html) – [clf](zh_gsd-dep-clf.html) – [compound](zh_gsd-dep-compound.html) – [compound:ext](zh_gsd-dep-compound-ext.html) – [conj](zh_gsd-dep-conj.html) – [cop](zh_gsd-dep-cop.html) – [csubj](zh_gsd-dep-csubj.html) – [csubj:pass](zh_gsd-dep-csubj-pass.html) – [det](zh_gsd-dep-det.html) – [discourse](zh_gsd-dep-discourse.html) – [discourse:sp](zh_gsd-dep-discourse-sp.html) – [dislocated](zh_gsd-dep-dislocated.html) – [flat](zh_gsd-dep-flat.html) – [flat:foreign](zh_gsd-dep-flat-foreign.html) – [flat:name](zh_gsd-dep-flat-name.html) – [iobj](zh_gsd-dep-iobj.html) – [mark](zh_gsd-dep-mark.html) – [mark:adv](zh_gsd-dep-mark-adv.html) – [mark:rel](zh_gsd-dep-mark-rel.html) – [nmod](zh_gsd-dep-nmod.html) – [nmod:tmod](zh_gsd-dep-nmod-tmod.html) – [nsubj](zh_gsd-dep-nsubj.html) – [nsubj:outer](zh_gsd-dep-nsubj-outer.html) – [nsubj:pass](zh_gsd-dep-nsubj-pass.html) – [nummod](zh_gsd-dep-nummod.html) – [obj](zh_gsd-dep-obj.html) – [obl](zh_gsd-dep-obl.html) – [obl:agent](zh_gsd-dep-obl-agent.html) – [obl:patient](zh_gsd-dep-obl-patient.html) – [orphan](zh_gsd-dep-orphan.html) – [parataxis](zh_gsd-dep-parataxis.html) – [punct](zh_gsd-dep-punct.html) – [reparandum](zh_gsd-dep-reparandum.html) – [root](zh_gsd-dep-root.html) – [vocative](zh_gsd-dep-vocative.html) – [xcomp](zh_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 4997 sentences and 123291 tokens.</li>
+<li>This corpus contains 4997 sentences and 123289 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 122962 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 122960 tokens (100%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -103,7 +103,7 @@ Google.
 </ul>
 
 <ul>
-<li>This corpus contains 137 lemmas tagged as determiners (DET): $5,000, A330, AEG, AK-47, Activision, Advance, Android, CRH380C, Eve, Ghost, Google, JAXA, KKR, Kekal, Kilpatrick, M1, NDS, OROCHI, PSP, Rivers, The, WHO, Wheeler, g(x), iPhone, iPod, km/h, p, 一切, 上, 下, 以上, 以下, 任, 任何, 佔領, 何, 全, 全套, 全部, 全體, 其他, 其它, 其餘, 別, 前, 前任, 另, 另外, 各, 各個, 各州, 各式, 各種, 各種各樣, 各級, 各項, 各類, 同, 同年, 夕拾, 後, 所有, 整, 整個, 整場, 整塊, 整套, 整所, 整架, 整片, 整顆, 是次, 有的, 本, 本屆, 本班, 某, 某些, 某個, 某種, 此, 此套, 此次, 此種, 此等, 此項, 此類, 歷屆, 毎年, 每, 每位, 每個, 每元, 每卡, 每周, 每天, 每年, 每座, 每戶, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每組, 每週, 每邊, 每間, 每隊, 每集, 當屆, 發售, 眾, 該, 該屆, 該批, 該族, 該條, 該段, 該組, 該集, 諸, 近, 這, 這些, 這次, 這種, 那, 那些, 關於, 首, 首任, 首條, 首部</li>
+<li>This corpus contains 122 lemmas tagged as determiners (DET): $5,000, AEG, AK-47, Activision, Android, Eve, JAXA, KKR, Kekal, Kilpatrick, NDS, PSP, Rivers, WHO, Wheeler, g(x), iPhone, p, 一切, 上, 下, 以上, 以下, 任, 任何, 何, 全, 全套, 全部, 全體, 其他, 其它, 其餘, 別, 前, 前任, 另, 另外, 各, 各個, 各州, 各式, 各種, 各種各樣, 各級, 各項, 各類, 同, 同年, 後, 所有, 整, 整個, 整場, 整塊, 整套, 整所, 整架, 整片, 整顆, 是次, 有的, 本, 本屆, 本班, 某, 某些, 某個, 某種, 此, 此套, 此次, 此種, 此等, 此項, 此類, 歷屆, 毎年, 每, 每位, 每個, 每元, 每卡, 每周, 每天, 每年, 每座, 每戶, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每組, 每週, 每邊, 每間, 每隊, 每集, 當屆, 眾, 該, 該屆, 該批, 該族, 該條, 該段, 該組, 該集, 諸, 這, 這些, 這次, 這種, 那, 那些, 首, 首任, 首條, 首部</li>
 </ul>
 
 <ul>
@@ -242,7 +242,7 @@ Google.
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 第16, 第一</li>
+      <li>ADJ: 2nd, 第16, 第一</li>
       <li>NUM: 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位</li>
     </ul>
   </li>
@@ -285,6 +285,18 @@ Google.
 
 
 <ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: the, A, NBA, JR, of, B, Google, County, Game, John</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>PartType</a>
     <ul>
       <li>Int
@@ -305,7 +317,7 @@ Google.
 </ul>
 
 <ul>
-<li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 想、 應、 需、 需要、 得、 須、 應該、 欲、 願、 願意、 必、 肯、 應當、 敢、 該.</li>
+<li>This corpus uses 27 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 想、 應、 需、 需要、 得、 須、 應該、 欲、 願、 願意、 必、 肯、 應當、 敢、 是、 該.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為.</li>
 </ul>
 
@@ -315,7 +327,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (4044)</li>
+      <li>VERB--NOUN (3999)</li>
       <li>VERB--NOUN-ADP(上) (6)</li>
       <li>VERB--NOUN-ADP(下) (2)</li>
       <li>VERB--NOUN-ADP(不) (1)</li>
@@ -330,7 +342,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(原) (5)</li>
       <li>VERB--NOUN-ADP(和)-ADP(的) (1)</li>
       <li>VERB--NOUN-ADP(在)-ADP(的) (6)</li>
-      <li>VERB--NOUN-ADP(大) (18)</li>
+      <li>VERB--NOUN-ADP(大) (17)</li>
       <li>VERB--NOUN-ADP(寬) (1)</li>
       <li>VERB--NOUN-ADP(對)-ADP(的) (9)</li>
       <li>VERB--NOUN-ADP(對於)-ADP(的) (2)</li>
@@ -338,7 +350,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(強) (1)</li>
       <li>VERB--NOUN-ADP(彎) (1)</li>
       <li>VERB--NOUN-ADP(微) (1)</li>
-      <li>VERB--NOUN-ADP(新) (14)</li>
+      <li>VERB--NOUN-ADP(新) (13)</li>
       <li>VERB--NOUN-ADP(暗) (1)</li>
       <li>VERB--NOUN-ADP(有關)-ADP(的) (3)</li>
       <li>VERB--NOUN-ADP(期間)-ADP(的) (1)</li>
@@ -354,7 +366,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(里) (1)</li>
       <li>VERB--NOUN-ADP(間) (1)</li>
       <li>VERB--NOUN-ADP(關於)-ADP(的) (3)</li>
-      <li>VERB--PRON (736)</li>
+      <li>VERB--PRON (734)</li>
       <li>VERB--PRON-ADP(之間) (2)</li>
     </ul>
   </li>
@@ -451,7 +463,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

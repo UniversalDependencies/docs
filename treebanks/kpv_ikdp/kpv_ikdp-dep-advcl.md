@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 advcl	color:blue
-1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru
+1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	OrigLang=ru
 2	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	вӧрзялыгдырйи	вӧрзявны	VERB	V	Derivation=Igdyrji|VerbForm=Conv	1	advcl	_	SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	_
@@ -37,9 +37,9 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 advcl	color:blue
 1	Сэсся	сэсся	ADV	Adv	_	2	advcl	_	_
-2	кыскаліс	кыскавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+2	кыскаліс	кыскавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
-4	вердіс	вердны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+4	вердіс	вердны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
@@ -55,7 +55,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	гашке	гашкӧ	PART	Pcle	_	6	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	_
+5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No

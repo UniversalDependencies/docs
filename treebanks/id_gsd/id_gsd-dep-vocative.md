@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	,	,	PUNCT	Z--	_	4	punct	_	Morf=^,<z>_Z--$
 7	mengapa	mengapa	ADV	W--	PronType=Int	9	advmod	_	Morf=^mengapa<w>_W--$
 8	Engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	9	nsubj	_	Morf=^engkau<p>_PS2$
-9	meninggalkan	tinggal	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+tinggal<v>+kan_VSA$
+9	meninggalkan	tinggal	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+tinggal<v>+kan_VSA$
 10	aku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	9	obj	_	SpaceAfter=No|Morf=^aku<p>_PS1$
 11	?	?	PUNCT	Z--	_	9	punct	_	Morf=^?<z>_Z--$
 
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 7	maksud	maksud	NOUN	NSD	Number=Sing	6	acl	_	Morf=^maksud<n>_NSD$
 8	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Morf=^dia<p>_PS3$
 9	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	7	nmod:poss	_	Morf=^engkau<p>_PS2$
-10	bermulut	mulut	VERB	VSA	Mood=Ind|Voice=Act	9	acl	_	Morf=^ber+mulut<n>_VSA$
+10	bermulut	mulut	VERB	VSA	Voice=Act	9	acl	_	Morf=^ber+mulut<n>_VSA$
 11	besar	besar	ADJ	ASP	_	10	amod	_	Morf=^besar<a>_ASP$
 12	terhadap	terhadap	ADP	R--	_	13	case	_	Morf=^terhadap<r>_R--$
 13	kami	kami	PRON	PP1	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	10	obl	_	SpaceAfter=No|Morf=^kami<p>_PP1$
@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 11	fgColor:white
 # visual-style 11 5 vocative	color:blue
 1	MBC	mbc	PROPN	X--	_	2	nsubj	_	Morf=^mbc<x>_X--$
-2	berkata	kata	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	SpaceAfter=No|Morf=^ber+kata<n>_VSA$
+2	berkata	kata	VERB	VSA	Voice=Act	0	root	_	SpaceAfter=No|Morf=^ber+kata<n>_VSA$
 3	,	,	PUNCT	Z--	_	11	punct	_	Morf=^,<z>_Z--$
 4	``	``	PUNCT	Z--	_	11	punct	_	SpaceAfter=No|Morf=^``<z>_Z--$
 5	Anda	anda	PRON	PS2	Number=Sing|Person=2|Polite=Form|PronType=Prs	11	vocative	_	SpaceAfter=No|Morf=^anda<p>_PS2$
@@ -77,7 +77,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 8	kah	kah	PART	T--	_	7	advmod:emph	_	Morf=^kah<t>_T--$
 9	Anda	anda	PRON	PS2	Number=Sing|Person=2|Polite=Form|PronType=Prs	11	nsubj	_	Morf=^anda<p>_PS2$
 10	akan	akan	AUX	M--	_	11	aux	_	Morf=^akan<m>_M--$
-11	menonton	tonton	VERB	VSA	Mood=Ind|Voice=Act	2	advcl	_	Morf=^meN+tonton<v>_VSA$
+11	menonton	tonton	VERB	VSA	Voice=Act	2	advcl	_	Morf=^meN+tonton<v>_VSA$
 12	'	'	PUNCT	Z--	_	13	punct	_	SpaceAfter=No
 13	Home	home	PROPN	F--	_	11	obj	_	Morf=^home<f>_F--$
 14	Alone	alone	PROPN	X--	_	13	flat:name	_	SpaceAfter=No|Morf=^alone<x>_X--$

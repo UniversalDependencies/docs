@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Fut` (760; 11% of non-empty `Tense`): <em>будет, станет, придет, скажет, отдам, поймет, вспомним, забуду, придут, бросит</em>
 * `Past` (3000; 44% of non-empty `Tense`): <em>стал, был, видел, сказал, жил, забыл, любил, было, казалось, стала</em>
 * `Pres` (3006; 44% of non-empty `Tense`): <em>знаю, может, стоит, есть, люблю, вижу, могу, поет, хочу, иду</em>
-* `EMPTY` (1468): <em>нет, надо, быть, жить, прости, любить, можно, идти, дай, найти</em>
+* `EMPTY` (1470): <em>нет, надо, быть, жить, прости, любить, можно, идти, дай, найти</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

@@ -75,12 +75,12 @@ The 2nd highest number of forms (11) was observed with the lemma “pe”: <em>p
 
 The 3rd highest number of forms (10) was observed with the lemma “întru”: <em>-ntr, -ntr-, -ntru, intr-, ntr, ntr-, pe, într, într-, întru</em>.
 
-`ADP` occurs with 5 features: <tt><a href="ro_nonstandard-feat-AdpType.html">AdpType</a></tt> (66980; 100% instances), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt> (66980; 100% instances), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt> (9977; 15% instances), <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADP` occurs with 6 features: <tt><a href="ro_nonstandard-feat-AdpType.html">AdpType</a></tt> (66980; 100% instances), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt> (66980; 100% instances), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt> (9977; 15% instances), <tt><a href="ro_nonstandard-feat-ExtPos.html">ExtPos</a></tt> (2904; 4% instances), <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADP` occurs with 7 feature-value pairs: `AdpType=Prep`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Compound=Yes`, `Polarity=Pos`, `Typo=Yes`
+`ADP` occurs with 8 feature-value pairs: `AdpType=Prep`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Compound=Yes`, `ExtPos=ADP`, `Polarity=Pos`, `Typo=Yes`
 
-`ADP` occurs with 8 feature combinations.
-The most frequent feature combination is `AdpType=Prep|Case=Acc` (56360 tokens).
+`ADP` occurs with 9 feature combinations.
+The most frequent feature combination is `AdpType=Prep|Case=Acc` (53456 tokens).
 Examples: <em>de, cu, la, în, pre, pe, ca, întru, -n, spre</em>
 
 

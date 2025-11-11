@@ -9,12 +9,30 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="eo_prago-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-55 nodes (7%) are attached to their parents as `nsubj`.
+221 nodes (7%) are attached to their parents as `nsubj`.
 
-55 instances of `nsubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.27272727272727.
+207 instances of `nsubj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.08597285067873.
 
-The following 10 pairs of parts of speech are connected with `nsubj`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (20; 36% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (18; 33% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (7; 13% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `nsubj`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (109; 49% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (70; 32% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (16; 7% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nsubj	color:blue
+1	3	3	NUM	_	_	4	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	4	punct	_	_
+3	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	naskiĝis	naskiĝi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	la	la	DET	_	Definite=Def	7	det	_	_
+7	jaro	jaro	NOUN	_	Case=Nom|Number=Sing	4	obl	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -32,30 +50,6 @@ The following 10 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 7	per	per	ADP	_	_	8	case	_	_
 8	memstudado	memstudado	NOUN	_	Case=Nom|Number=Sing	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nsubj	color:blue
-1	Nur	nur	ADV	_	_	2	advmod	_	_
-2	malgranda	malgranda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
-3	procentaĵo	procentaĵo	NOUN	_	Case=Nom|Number=Sing	12	nsubj	_	_
-4	el	el	ADP	_	_	5	case	_	_
-5	tiuj	tiu	PRON	_	Case=Nom|Number=Plur|PronType=Dem	3	nmod	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	kiuj	kiu	PRON	_	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	_
-8	studas	studi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
-9	fremdan	fremda	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	10	amod	_	_
-10	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	8	obj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	ekmastras	ekmastri	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	ĝin	ĝi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="el_lesbian-dep-acl.html">acl</a></tt>.
 
-18 nodes (1%) are attached to their parents as `acl:relcl`.
+36 nodes (1%) are attached to their parents as `acl:relcl`.
 
-18 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.55555555555556.
+35 instances of `acl:relcl` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.75.
 
-The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (10; 56% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (6; 33% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (14; 39% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (14; 39% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -57,27 +57,21 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 15 acl:relcl	color:blue
-1	Έχε	έχου	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass	8	ccomp	_	_
-2	γιε	γιος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	_
-3	μ	μ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
-4	τν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	ιφστ	ιφστή	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
-6	ήμ	μ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs|Typo=Yes	5	nmod	_	CorrectForm=ιμ|MGloss=euphonic-my|MSeg=ι-μ
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	είπι	λέγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-9	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
-10	Φρουσήν	Φρουσύν	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing|Typo=Yes	8	nsubj	_	CorrectForm=Φρουσύν
-11	πού	που	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel|Typo=Yes	15	nsubj	_	CorrectForm=που
-12	ταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	cop	_	_
-13	γη	η	DET	_	Case=Nom|Gender=Fem|Number=Sing	15	det	_	MGloss=euphonic-the|MSeg=γ-η
-14	πιο	πιο	ADV	_	Degree=Cmp	15	advmod	_	_
-15	μιγάλ	μιγάλους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	10	acl:relcl	_	_
-16	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 acl:relcl	color:blue
+1	Για	για	INTJ	_	_	2	discourse	_	_
+2	έλα	έρχουμι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	έδουνα	έδουνα	ADV	_	_	2	advmod	_	_
+4	κυρ	κύριους	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	amod	_	_
+5	Θιμιστουκλή	Θιμιστουκλής	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	_
+6	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
+7	μ’	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+8	ήθιλις	θέλου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+9	παντριγιά	παντρειγιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Typo=Yes	8	obj	_	CorrectForm=παντρειγιά
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

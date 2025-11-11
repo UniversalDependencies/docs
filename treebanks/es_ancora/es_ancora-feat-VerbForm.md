@@ -77,6 +77,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>sea</em></td><td><em>ser</em></td><td></td><td><em>siendo</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Es</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ser</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>sido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sería</em></td><td></td><td></td><td></td></tr>
@@ -134,7 +135,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (9; 82% of non-empty `VerbForm`): <em>parte, alusión, banda, capitulo, cara, hincapié, punto, vergüenza</em>
 * `Inf` (1; 9% of non-empty `VerbForm`): <em>leña</em>
 * `Part` (1; 9% of non-empty `VerbForm`): <em>heredado</em>
-* `EMPTY` (100524): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
+* `EMPTY` (100525): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `VerbForm`.
 
@@ -145,10 +146,10 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2761; 65%),
 <tt>AUX --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (309; 60%),
 <tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (129; 66%),
-<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (96; 87%),
+<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (93; 87%),
 <tt>AUX --[<tt><a href="es_ancora-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (70; 65%),
 <tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (59; 75%),
 <tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (42; 79%),
-<tt>VERB --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (38; 67%),
-<tt>AUX --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (32; 73%).
+<tt>VERB --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (37; 66%),
+<tt>AUX --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (31; 72%).
 

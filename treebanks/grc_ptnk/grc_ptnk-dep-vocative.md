@@ -22,18 +22,18 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 8 vocative	color:blue
-1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
-2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	πρὸς	πρός	ADP	_	_	4	case	_	Gloss=+D=at;-+A=to,toward
-4	αὐτούς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	1	obl	_	Gloss=he,she,it,-self,same|SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	μηδαμῶς	μηδαμῶς	ADV	_	_	11	advmod	_	Gloss=by-no-means|SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	ἀδελφοί	ἀδελφός	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	11	vocative	_	Gloss=brother|SpaceAfter=No
-9	,	,	PUNCT	_	_	8	punct	_	_
-10	μὴ	μή	ADV	_	Polarity=Neg	11	advmod	_	Gloss=no,not
-11	πονηρεύσησθε	πονηρεύομαι	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	1	ccomp	_	Gloss=to-be-evil,wicked|SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
+1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_19.7
+2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_19.7
+3	πρὸς	πρός	ADP	_	_	4	case	_	Gloss=+D=at;-+A=to,toward|Ref=GEN_19.7
+4	αὐτούς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	1	obl	_	Gloss=he,she,it,-self,same|Ref=GEN_19.7|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	Ref=GEN_19.7
+6	μηδαμῶς	μηδαμῶς	ADV	_	_	11	advmod	_	Gloss=by-no-means|Ref=GEN_19.7|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	Ref=GEN_19.7
+8	ἀδελφοί	ἀδελφός	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	11	vocative	_	Gloss=brother|Ref=GEN_19.7|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_19.7
+10	μὴ	μή	ADV	_	Polarity=Neg	11	advmod	_	Gloss=no,not|Ref=GEN_19.7
+11	πονηρεύσησθε	πονηρεύομαι	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	1	ccomp	_	Gloss=to-be-evil,wicked|Ref=GEN_19.7|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	Ref=GEN_19.7
 
 ~~~
 
@@ -44,21 +44,21 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 vocative	color:blue
-1	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	3	nsubj	_	Gloss=the
-2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however
-3	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	Οὐχί	οὐχί	ADV	_	Polarity=Neg	3	ccomp	_	Gloss=no-indeed|SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=lord|SpaceAfter=No
-8	·	·	PUNCT	_	_	9	punct	_	_
-9	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Gloss=the
-10	παῖδές	παῖς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	Gloss=child,servant
-11	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	Gloss=you,your
-12	ἤλθομεν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Gloss=to-come,go
-13	πρίασθαι	πρίαμαι	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	xcomp	_	Gloss=to-buy
-14	βρώματα	βρῶμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	Gloss=food,provisions|SpaceAfter=No
-15	·	·	PUNCT	_	_	14	punct	_	_
+1	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	3	nsubj	_	Gloss=the|Ref=GEN_42.10
+2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however|Ref=GEN_42.10
+3	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_42.10|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	Ref=GEN_42.10
+5	Οὐχί	οὐχί	ADV	_	Polarity=Neg	3	ccomp	_	Gloss=no-indeed|Ref=GEN_42.10|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_42.10
+7	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=lord|Ref=GEN_42.10|SpaceAfter=No
+8	·	·	PUNCT	_	_	9	punct	_	Ref=GEN_42.10
+9	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Gloss=the|Ref=GEN_42.10
+10	παῖδές	παῖς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	Gloss=child,servant|Ref=GEN_42.10
+11	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	Gloss=you,your|Ref=GEN_42.10
+12	ἤλθομεν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Gloss=to-come,go|Ref=GEN_42.10
+13	πρίασθαι	πρίαμαι	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	12	xcomp	_	Gloss=to-buy|Ref=GEN_42.10
+14	βρώματα	βρῶμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	Gloss=food,provisions|Ref=GEN_42.10|SpaceAfter=No
+15	·	·	PUNCT	_	_	14	punct	_	Ref=GEN_42.10
 
 ~~~
 
@@ -69,21 +69,21 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 vocative	color:blue
-1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
-2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however
-3	Ἡσαῦ	Ἡσαῦ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Esau|SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-be
-6	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	Gloss=me
-7	πολλά	πολύς	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	Gloss=many,much|SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	ἄδελφε	ἀδελφός	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=brother|SpaceAfter=No
-10	·	·	PUNCT	_	_	11	punct	_	_
-11	ἔστω	εἰμί	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Gloss=to-be
-12	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	parataxis	_	Gloss=you
-13	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	14	nsubj	_	Gloss=the
-14	σά	σός	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	12	csubj	_	Gloss=you|SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	_	_
+1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_33.9
+2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_33.9
+3	Ἡσαῦ	Ἡσαῦ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Esau|Ref=GEN_33.9|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	Ref=GEN_33.9
+5	ἔστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-be|Ref=GEN_33.9
+6	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	Gloss=me|Ref=GEN_33.9
+7	πολλά	πολύς	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	Gloss=many,much|Ref=GEN_33.9|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	Ref=GEN_33.9
+9	ἄδελφε	ἀδελφός	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=brother|Ref=GEN_33.9|SpaceAfter=No
+10	·	·	PUNCT	_	_	11	punct	_	Ref=GEN_33.9
+11	ἔστω	εἰμί	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Gloss=to-be|Ref=GEN_33.9
+12	σοί	σός	PRON	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	parataxis	_	Gloss=you|Ref=GEN_33.9
+13	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	14	nsubj	_	Gloss=the|Ref=GEN_33.9
+14	σά	σός	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	12	csubj	_	Gloss=you|Ref=GEN_33.9|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	Ref=GEN_33.9
 
 ~~~
 

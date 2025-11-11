@@ -22,16 +22,16 @@ The following 27 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 discourse	color:blue
-1	Da	da	PART	Q	_	6	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-4	zid	zid	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-5	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	aux	_	_
-6	padel	pasti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-7	po	po	ADP	Sl	Case=Loc	9	case	_	_
-8	vsej	ves	DET	Pg-fsl	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	9	det	_	_
-9	Evropi	Evropa	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-10	.	.	PUNCT	Z	_	6	punct	_	_
+1	Da	da	PART	Q	_	6	discourse	_	SpaceAfter=No|NER=O
+2	,	,	PUNCT	Z	_	1	punct	_	NER=O
+3	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	NER=O
+4	zid	zid	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	NER=O
+5	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	aux	_	NER=O
+6	padel	pasti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	NER=O
+7	po	po	ADP	Sl	Case=Loc	9	case	_	NER=O
+8	vsej	ves	DET	Pg-fsl	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	9	det	_	NER=O
+9	Evropi	Evropa	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No|NER=B-loc
+10	.	.	PUNCT	Z	_	6	punct	_	NER=O
 
 ~~~
 

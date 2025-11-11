@@ -72,7 +72,7 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_ewt-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.954545 (the average of all parts of speech is 1.243237).
+The form / lemma ratio of `DET` is 1.954545 (the average of all parts of speech is 1.243456).
 
 The 1st highest number of forms (10) was observed with the lemma “the”: <em>da, he, te, teh, the, then, ther, thes, to, tttthhhhh</em>.
 
@@ -80,11 +80,11 @@ The 2nd highest number of forms (4) was observed with the lemma “a”: <em>a, 
 
 The 3rd highest number of forms (4) was observed with the lemma “that”: <em>dat, dthat, that, those</em>.
 
-`DET` occurs with 9 features: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt> (20094; 100% instances), <tt><a href="en_ewt-feat-Definite.html">Definite</a></tt> (16380; 82% instances), <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (1402; 7% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (20; 0% instances), <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt> (19; 0% instances), <tt><a href="en_ewt-feat-NumForm.html">NumForm</a></tt> (9; 0% instances), <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt> (9; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (3; 0% instances), <tt><a href="en_ewt-feat-Style.html">Style</a></tt> (1; 0% instances)
+`DET` occurs with 9 features: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt> (20096; 100% instances), <tt><a href="en_ewt-feat-Definite.html">Definite</a></tt> (16380; 82% instances), <tt><a href="en_ewt-feat-Number.html">Number</a></tt> (1402; 7% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (20; 0% instances), <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt> (19; 0% instances), <tt><a href="en_ewt-feat-NumForm.html">NumForm</a></tt> (9; 0% instances), <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt> (9; 0% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (3; 0% instances), <tt><a href="en_ewt-feat-Style.html">Style</a></tt> (1; 0% instances)
 
 `DET` occurs with 19 feature-value pairs: `Abbr=Yes`, `Definite=Def`, `Definite=Ind`, `ExtPos=ADV`, `ExtPos=PRON`, `NumForm=Word`, `NumType=Frac`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`, `Style=Vrnc`, `Typo=Yes`
 
-`DET` occurs with 22 feature combinations.
+`DET` occurs with 20 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (11017 tokens).
 Examples: <em>the</em>
 
@@ -93,7 +93,7 @@ Examples: <em>the</em>
 
 `DET` nodes are attached to their parents using 25 different relations: <tt><a href="en_ewt-dep-det.html">det</a></tt> (19371; 96% instances), <tt><a href="en_ewt-dep-det-predet.html">det:predet</a></tt> (221; 1% instances), <tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt> (100; 0% instances), <tt><a href="en_ewt-dep-obj.html">obj</a></tt> (89; 0% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (80; 0% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (45; 0% instances), <tt><a href="en_ewt-dep-nmod.html">nmod</a></tt> (37; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (31; 0% instances), <tt><a href="en_ewt-dep-nmod-unmarked.html">nmod:unmarked</a></tt> (26; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (24; 0% instances), <tt><a href="en_ewt-dep-nsubj-outer.html">nsubj:outer</a></tt> (17; 0% instances), <tt><a href="en_ewt-dep-nsubj-pass.html">nsubj:pass</a></tt> (15; 0% instances), <tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt> (13; 0% instances), <tt><a href="en_ewt-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="en_ewt-dep-obl-unmarked.html">obl:unmarked</a></tt> (5; 0% instances), <tt><a href="en_ewt-dep-obl-agent.html">obl:agent</a></tt> (3; 0% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-vocative.html">vocative</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (17792; 89% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1423; 7% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (362; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (296; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (65; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (55; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (27; 0% instances),  (24; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances)
+Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (17793; 89% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1422; 7% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (362; 2% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (296; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (65; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (55; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (27; 0% instances),  (24; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances)
 
 19713 (98%) `DET` nodes are leaves.
 

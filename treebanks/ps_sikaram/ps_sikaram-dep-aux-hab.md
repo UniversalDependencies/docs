@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `aux:hab`: <tt><a hr
 12	سمه	سم	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	Translit=sáma|LTranslit=sam|Gloss=right
 13	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 14	نه	نۀ	PART	_	Polarity=Neg	15	advmod	_	Translit=në́|LTranslit=në|Gloss=not
-15	درلوده	درلودل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=darlowda|LTranslit=darlowdë́l|Gloss=had|SpaceAfter=No
+15	درلوده	درلودل	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Short|VerbForm=Fin	0	root	_	Translit=darlowda|LTranslit=darlowdë́l|Gloss=had|SpaceAfter=No
 16	،	،	PUNCT	_	_	27	punct	_	Translit=,|LTranslit=,|Gloss=,
 17	د	د	ADP	_	Case=Acc	18	case	_	Translit=dë|LTranslit=dë|Gloss=of
 18	خطر	خطر	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	nmod	_	Translit=xatár|LTranslit=xatár|Gloss=danger
@@ -97,8 +97,8 @@ The following 1 pairs of parts of speech are connected with `aux:hab`: <tt><a hr
 72	اوسنۍ	اوسنۍ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	73	amod	_	Translit=osanë́y|LTranslit=osanë́y|Gloss=current
 73	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	75	obj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 74	دود	دود	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	75	compound:lvc	_	Translit=dod|LTranslit=dod|Gloss=tradition
-75	کړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	60	acl:relcl	_	Translit=kṛa|LTranslit=kawë́l|Gloss=did|SpaceAfter=No
-76	.	.	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.|Gloss=.
+75	کړه	کول	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Short|VerbForm=Fin	60	acl:relcl	_	Translit=kṛa|LTranslit=kawë́l|Gloss=did|SpaceAfter=No
+76	.	.	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

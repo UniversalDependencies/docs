@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	kah	kah	PART	T--	_	1	advmod:emph	_	Morf=^kah<t>_T--$
 3	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	Morf=^yang<s>_S--$
 4	akan	akan	AUX	M--	_	5	aux	_	Morf=^akan<m>_M--$
-5	terjadi	terjadi	VERB	VSP	Mood=Ind|Voice=Pass	1	acl:relcl	_	Morf=^terjadi<v>_VSP$
+5	terjadi	terjadi	VERB	VSP	Voice=Pass	1	acl:relcl	_	Morf=^terjadi<v>_VSP$
 6	selanjutnya	selanjutnya	ADJ	D--	_	5	amod	_	SpaceAfter=No|Morf=^selanjutnya<d>_D--$
 7	?	?	PUNCT	Z--	_	1	punct	_	Morf=^?<z>_Z--$
 
@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	itu	itu	DET	B--	PronType=Dem	1	det	_	Morf=^itu<b>_B--$
 3	pada	pada	ADP	R--	_	4	case	_	Morf=^pada<r>_R--$
 4	akhirnya	akhirnya	NOUN	B--	_	5	obl	_	Morf=^akhirnya<b>_B--$
-5	dipandang	pandang	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+pandang<v>_VSP$
+5	dipandang	pandang	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+pandang<v>_VSP$
 6	sebagai	sebagai	ADP	R--	_	8	case	_	Morf=^sebagai<r>_R--$
 7	sebuah	buah	DET	B--	Definite=Ind|PronType=Art	8	det	_	Morf=^sebuah<b>_B--$
 8	isyarat	isyarat	NOUN	NSD	Number=Sing	5	obl	_	Morf=^isyarat<n>_NSD$
@@ -75,7 +75,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 16	tempat	tempat	NOUN	NSD	Number=Sing	8	acl	_	Morf=^tempat<n>_NSD$
 17	tiang-tiang	tiang	NOUN	NSD	Number=Plur	19	nsubj	_	Morf=^tiang<n>_NSD$
 18	itu	itu	DET	B--	PronType=Dem	16	det	_	Morf=^itu<b>_B--$
-19	berada	ada	VERB	VSA	Mood=Ind|Voice=Act	16	acl:relcl	_	Morf=^ber+ada<a>_VSA$
+19	berada	ada	VERB	VSA	Voice=Act	16	acl:relcl	_	Morf=^ber+ada<a>_VSA$
 20	sekarang	sekarang	ADV	D--	_	19	advmod	_	SpaceAfter=No|Morf=^sekarang<d>_D--$
 21	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
 

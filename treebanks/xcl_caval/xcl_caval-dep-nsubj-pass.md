@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="xcl_caval-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-155 nodes (0%) are attached to their parents as `nsubj:pass`.
+164 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-123 instances of `nsubj:pass` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7741935483871.
+131 instances of `nsubj:pass` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.85975609756098.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (65; 42% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (65; 42% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (70; 43% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (69; 42% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -76,7 +76,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	առ	առ	ADP	_	_	4	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
 4	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it
 5	դիւահար	դիւահար	ADJ	_	Case=Nom|Number=Sing	2	nsubj:pass	_	Translit=diwahar|LTranslit=diwahar|Gloss=possessed
-6	մի	մի	DET	_	Case=Nom|Definite=Spec|Number=Sing	5	det	_	Translit=mi|LTranslit=mi|Gloss=certain
+6	մի	մի	DET	_	Case=Nom|Definite=Spec|Number=Sing|PronType=Art	5	det	_	Translit=mi|LTranslit=mi|Gloss=certain
 7	կոյր	կոյր	ADJ	_	Case=Nom|Number=Sing	5	amod	_	Translit=koyr|LTranslit=koyr|Gloss=blind
 8	եւ	եւ	CCONJ	_	_	9	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 9	համր	համր	ADJ	_	Case=Nom|Number=Sing	7	conj	_	SpaceAfter=No|Translit=hamr|LTranslit=hamr|Gloss=dumb

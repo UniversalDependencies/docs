@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25083 nodes (10%) are attached to their parents as `cc`.
+25085 nodes (10%) are attached to their parents as `cc`.
 
-25039 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.40517481959893.
+25041 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.40510265098665.
 
-The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (14668; 58% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (6662; 27% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (1562; 6% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (966; 4% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (349; 1% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (326; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (310; 1% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (237; 1% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (14668; 58% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (6663; 27% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (1563; 6% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (966; 4% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (349; 1% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (326; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (310; 1% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (237; 1% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-DET.html">DET</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

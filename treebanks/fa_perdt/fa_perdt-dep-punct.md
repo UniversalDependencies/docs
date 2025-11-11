@@ -22,20 +22,20 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 14 punct	color:blue
-1	یعنی	یعنی	INTJ	PSUS	_	13	obl	_	_
-2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	13	nsubj	_	_
-3	به	به	ADP	PREP	_	5	case	_	_
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	_
-5	ترتیب	ترتیب	NOUN	N_IANM	Number=Sing	13	obl	_	_
-6	فقط	فقط	ADV	ADV_SADV	_	7	advmod	_	_
-7	یک	یک	NUM	PRENUM	_	8	nummod	_	_
-8	سطل	سطل	NOUN	N_IANM	Number=Sing	13	obj	_	_
-9	آب	آب	NOUN	N_IANM	Number=Sing	8	nmod	_	_
-10	را	را	ADP	POSTP	_	8	case	_	_
-11	در	در	ADP	PREP	_	12	case	_	_
-12	کویر	کویر	NOUN	N_IANM	Number=Sing	13	obl:arg	_	_
-13	پاشیده‌ایم	پاشید	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=پاشید#پاش|SpaceAfter=No
-14	.	.	PUNCT	PUNC	_	13	punct	_	_
+1	یعنی	یعنی	INTJ	PSUS	_	13	obl	_	LTranslit=īʿnī|Translit=īʿnī
+2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	LTranslit=mā|Translit=mā
+3	به	به	ADP	PREP	_	5	case	_	LTranslit=bh|Translit=bh
+4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+5	ترتیب	ترتیب	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=trtīb|Translit=trtīb
+6	فقط	فقط	ADV	ADV_SADV	_	7	advmod	_	LTranslit=fqṭ|Translit=fqṭ
+7	یک	یک	NUM	PRENUM	_	8	nummod	_	LTranslit=īk|Translit=īk
+8	سطل	سطل	NOUN	N_IANM	Number=Sing	13	obj	_	LTranslit=sṭl|Translit=sṭl
+9	آب	آب	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=Āb|Translit=Āb
+10	را	را	ADP	POSTP	_	8	case	_	LTranslit=rā|Translit=rā
+11	در	در	ADP	PREP	_	12	case	_	LTranslit=dr|Translit=dr
+12	کویر	کویر	NOUN	N_IANM	Number=Sing	13	obl:arg	_	LTranslit=kūīr|Translit=kūīr
+13	پاشیده‌ایم	پاشید	VERB	V_ACT	Number=Plur|Person=1|VerbForm=Part|Voice=Act	0	root	_	LTranslit=pāšīd|OrigLemma=پاشید#پاش|SpaceAfter=No|Translit=pāšīdhāīm
+14	.	.	PUNCT	PUNC	_	13	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -46,19 +46,19 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 punct	color:blue
-1	او	او	PRON	PR_SEPER	Number=Sing|Person=3	12	nsubj	_	_
-2	برای	برای	ADP	PREP	_	3	case	_	_
-3	حسین	حسین	PROPN	N_ANM	Number=Sing	12	obl:arg	_	_
-4	(	(	PUNCT	PUNC	_	5	punct	_	SpaceAfter=No
-5	ع	ع	NOUN	N_IANM	Number=Sing	3	obl:arg	_	SpaceAfter=No
-6	)	)	PUNCT	PUNC	_	5	punct	_	_
-7	پس	پس	ADP	PREP	_	9	case	_	_
-8	از	از	ADP	PREP	_	9	case	_	_
-9	شهادت	شهادت	NOUN	N_IANM	Number=Sing	12	obl	_	_
-10	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
-11	سوگواری	سوگواری	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	_
-12	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	OrigLemma=کرد#کن|SpaceAfter=No
-13	.	.	PUNCT	PUNC	_	12	punct	_	_
+1	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	LTranslit=āū|Translit=āū
+2	برای	برای	ADP	PREP	_	3	case	_	LTranslit=brāī|Translit=brāī
+3	حسین	حسین	PROPN	N_ANM	Number=Sing	12	obl:arg	_	LTranslit=ḥsīn|Translit=ḥsīn
+4	(	(	PUNCT	PUNC	_	5	punct	_	LTranslit=(|SpaceAfter=No|Translit=(
+5	ع	ع	NOUN	N_IANM	Number=Sing	3	nmod	_	LTranslit=ʿ|SpaceAfter=No|Translit=ʿ
+6	)	)	PUNCT	PUNC	_	5	punct	_	LTranslit=)|Translit=)
+7	پس	پس	ADP	PREP	_	9	case	_	LTranslit=ps|Translit=ps
+8	از	از	ADP	PREP	_	9	case	_	LTranslit=āz|Translit=āz
+9	شهادت	شهادت	NOUN	N_IANM	Number=Sing	12	obl	_	LTranslit=šhādt|Translit=šhādt
+10	ش	او	PRON	PR_JOPER	Number=Sing|Person=3|PronType=Prs	9	nmod	_	LTranslit=āū|Translit=š
+11	سوگواری	سوگواری	NOUN	N_IANM	Number=Sing	12	compound:lvc	_	LTranslit=sūgūārī|Translit=sūgūārī
+12	کرد	کرد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	LTranslit=krd|OrigLemma=کرد#کن|SpaceAfter=No|Translit=krd
+13	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -69,19 +69,19 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 punct	color:blue
-1	می‌گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	OrigLemma=گفت#گو
-2	این	این	DET	PREM_DEMAJ	_	4	det	_	_
-3	سرکار	سرکار	PROPN	IDEN	Number=Sing	4	nmod	_	_
-4	خانم	خانم	NOUN	N_ANM	Number=Sing	11	nsubj	_	_
-5	محترمه	محترمه	ADJ	ADJ_AJP	_	4	amod	_	SpaceAfter=No
-6	،	،	PUNCT	PUNC	_	5	punct	_	_
-7	از	از	ADP	PREP	_	8	case	_	_
-8	نویسندگان	نویسنده	NOUN	N_ANM	Number=Plur	11	xcomp	_	_
-9	همان	همان	DET	PREM_DEMAJ	_	10	det	_	_
-10	نشریه	نشریه	NOUN	N_IANM	Number=Sing	8	nmod	_	_
-11	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	OrigLemma=بود#باش
-12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	OrigLemma=#است|SpaceAfter=No
-13	.	.	PUNCT	PUNC	_	1	punct	_	_
+1	می‌گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=mīgft
+2	این	این	DET	PREM_DEMAJ	_	4	det	_	LTranslit=āīn|Translit=āīn
+3	سرکار	سرکار	PROPN	IDEN	Number=Sing	4	nmod	_	LTranslit=srkār|Translit=srkār
+4	خانم	خانم	NOUN	N_ANM	Number=Sing	11	nsubj	_	LTranslit=ḫānm|Translit=ḫānm
+5	محترمه	محترمه	ADJ	ADJ_AJP	_	4	amod	_	LTranslit=mḥtrmh|SpaceAfter=No|Translit=mḥtrmh
+6	،	،	PUNCT	PUNC	_	5	punct	_	LTranslit=,|Translit=,
+7	از	از	ADP	PREP	_	8	case	_	LTranslit=āz|Translit=āz
+8	نویسندگان	نویسنده	NOUN	N_ANM	Number=Plur	11	xcomp	_	LTranslit=nūīsndh|Translit=nūīsndgān
+9	همان	همان	DET	PREM_DEMAJ	_	10	det	_	LTranslit=hmān|Translit=hmān
+10	نشریه	نشریه	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=nšrīh|Translit=nšrīh
+11	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	LTranslit=būd|OrigLemma=بود#باش|Translit=būdh
+12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
+13	.	.	PUNCT	PUNC	_	1	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

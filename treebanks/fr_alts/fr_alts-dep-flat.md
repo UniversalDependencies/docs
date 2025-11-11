@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2239 nodes (5%) are attached to their parents as `flat`.
+2377 nodes (3%) are attached to their parents as `flat`.
 
-2239 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22331397945511.
+2377 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26167437946992.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (2104; 94% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (79; 4% instances), <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_alts-pos-NUM.html">NUM</a></tt> (55; 2% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (2145; 90% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (92; 4% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (62; 3% instances), <tt><a href="fr_alts-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_alts-pos-NUM.html">NUM</a></tt> (56; 2% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,39 +54,24 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 12 13 flat	color:blue
-1	Faict	faire	VERB	_	VerbForm=Part	0	root	_	gold_pos=VERB|prpos=Ge|uppos=VPP
-2	ce	ce	DET	_	_	4	det	_	gold_pos=DET|prpos=Dd|uppos=D
-3	.xxviiie.	vingt-huitième	ADJ	_	NumType=Ord	4	amod	_	gold_pos=ADJ|prpos=Mo|uppos=ADJ
-4	jour	jour	NOUN	_	_	1	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-5	de	de	ADP	_	_	7	case	_	gold_pos=ADP|prpos=S|uppos=P
-6	le	le	DET	_	Definite=Def	7	det	_	gold_pos=DET|prpos=Da|uppos=D
-7	moes	mois	NOUN	_	_	4	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-8	de	de	ADP	_	_	9	case	_	gold_pos=ADP|prpos=S|uppos=P
-9	apvryll	avril	NOUN	_	_	7	nmod	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-10	l'	le	DET	_	Definite=Def	11	det	_	gold_pos=DET|prpos=Da|SpaceAfter=No|uppos=D
-11	an	an	NOUN	_	_	1	obl	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
-12	mille	mille	NUM	_	NumType=Card	11	nummod	_	gold_pos=NUM|prpos=Mc|uppos=NUM
-13	.vcclxv.	565	NUM	_	NumType=Card	12	flat	_	gold_pos=NUM|prpos=Mc|uppos=NUM
-14	de	de	ADP	_	_	18	case	_	gold_pos=ADP|prpos=S|uppos=P
-15	par	par	ADP	_	_	18	case	_	gold_pos=ADP|prpos=S|uppos=P
-16	voz	votre	DET	_	_	18	det	_	gold_pos=DET|prpos=Ds|uppos=DZ
-17	humblez	humble	ADJ	_	_	18	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
-18	serviteurs	serviteur	NOUN	_	Number=Plur	1	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
-19	,	,	PUNCT	_	_	18	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
-20	baillyff	bailli	NOUN	_	_	18	appos	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-21	et	et	CCONJ	_	_	22	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-22	jurés	juré	NOUN	_	Number=Plur	20	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
-23	de	de	ADP	_	_	25	case	_	gold_pos=ADP|prpos=S|uppos=P
-24	l'	le	DET	_	Definite=Def	25	det	_	gold_pos=DET|prpos=Da|SpaceAfter=No|uppos=D
-25	isle	île	NOUN	_	_	20	nmod	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
-26	de	de	ADP	_	_	27	case	_	gold_pos=ADP|prpos=S|uppos=P
-27	Guernesey	Guernesey	PROPN	_	Number=Plur	25	nmod	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
-28	.	.	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 12 flat	color:blue
+1	Comme	comme	ADP	CONJS	_	3	case	_	prpos=Cs
+2	de	de	ADP	P	_	3	case	_	prpos=S
+3	telle	tel	PRON	PRO	_	0	root	_	prpos=Pi
+4	dont	dont	PRON	WPRO	PronType=Rel	7	nmod	_	prpos=Pr
+5	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	6	aux:pass	_	prpos=Vuc
+6	faite	faire	VERB	VPP	Tense=Past|VerbForm=Part	3	acl:relcl	_	prpos=Ge
+7	mention	mention	NOUN	NCS	Number=Sing	6	nsubj	_	prpos=Nc
+8	in	in	ADP	FW	_	9	case	_	Lang=la|prpos=Xe
+9	l.	lex	NOUN	FW	_	6	obl	_	Lang=la|prpos=Xe
+10	si	si	SCONJ	FW	_	12	mark	_	Lang=la|prpos=Xe
+11	quis	quis	PRON	FW	_	12	dislocated	_	Lang=la|prpos=Xe
+12	filio	filius	NOUN	FW	_	9	flat	_	Lang=la|prpos=Xe|SpaceAfter=No
+13	.	.	PUNCT	PON	_	12	punct	_	join=left|prpos=Fw
 
 ~~~
 

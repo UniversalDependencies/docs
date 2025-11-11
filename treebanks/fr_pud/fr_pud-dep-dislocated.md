@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 29	fgColor:white
 # visual-style 29 20 dislocated	color:blue
 1	«	«	PUNCT	``	_	29	punct	_	_
-2	Alors	alors	ADV	RB	_	12	mark	_	wordform=alors
+2	Alors	alors	ADV	RB	ExtPos=SCONJ	12	mark	_	wordform=alors
 3	que	que	SCONJ	IN	_	2	fixed	_	_
 4	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 5	plus	plus	ADV	RBR	_	6	advmod	_	_
@@ -84,7 +84,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 44	dans	dans	ADP	IN	_	46	case	_	_
 45	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
 46	blog	blog	NOUN	NN	Gender=Masc|Number=Sing	35	obl	_	_
-47	ce	ce	DET	DT	Gender=Masc|Number=Sing	48	det	_	_
+47	ce	ce	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	48	det	_	_
 48	lundi	lundi	NOUN	NNP	Gender=Masc|Number=Sing	35	obl:mod	_	SpaceAfter=No
 49	.	.	PUNCT	.	_	35	punct	_	_
 

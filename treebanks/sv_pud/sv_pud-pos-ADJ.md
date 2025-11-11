@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>andra</em> (<tt><a href="sv_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.226365 (the average of all parts of speech is 1.245991).
+The form / lemma ratio of `ADJ` is 1.226365 (the average of all parts of speech is 1.245113).
 
 The 1st highest number of forms (6) was observed with the lemma “god”: <em>bäst, bästa, bättre, god, goda, gott</em>.
 
@@ -61,11 +61,11 @@ The 2nd highest number of forms (5) was observed with the lemma “hög”: <em>
 
 The 3rd highest number of forms (5) was observed with the lemma “stor”: <em>stor, stora, stort, större, största</em>.
 
-`ADJ` occurs with 11 features: <tt><a href="sv_pud-feat-Case.html">Case</a></tt> (1545; 99% instances), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt> (1513; 97% instances), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (1265; 81% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (857; 55% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (474; 30% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (220; 14% instances), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (220; 14% instances), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt> (89; 6% instances), <tt><a href="sv_pud-feat-NumType.html">NumType</a></tt> (46; 3% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (18; 1% instances), <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (3; 0% instances)
+`ADJ` occurs with 10 features: <tt><a href="sv_pud-feat-Case.html">Case</a></tt> (1545; 99% instances), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt> (1513; 97% instances), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (1265; 81% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (857; 55% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (474; 30% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (220; 14% instances), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (220; 14% instances), <tt><a href="sv_pud-feat-NumType.html">NumType</a></tt> (46; 3% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (18; 1% instances), <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (3; 0% instances)
 
-`ADJ` occurs with 18 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Foreign=Yes`, `Gender=Com`, `Gender=Neut`, `Mood=Ind`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`
+`ADJ` occurs with 17 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Foreign=Yes`, `Gender=Com`, `Gender=Neut`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`
 
-`ADJ` occurs with 35 feature combinations.
+`ADJ` occurs with 33 feature combinations.
 The most frequent feature combination is `Case=Nom|Definite=Def|Degree=Pos` (357 tokens).
 Examples: <em>hela, nya, brittiska, norra, södra, andra, egna, franska, förra, grekiska</em>
 

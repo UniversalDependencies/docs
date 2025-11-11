@@ -9,9 +9,9 @@ udver: '2'
 There are 9 `NUM` lemmas (2%), 10 `NUM` types (2%) and 11 `NUM` tokens (1%).
 Out of 13 observed tags, the rank of `NUM` is: 8 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>40, kaks', 15, 2017, 23., kahesa, koume, üks, üks'</em>
+The 10 most frequent `NUM` lemmas: <em>40, kaksʼ, 15, 2017, 23., kahesa, koume, üks, üksʼ</em>
 
-The 10 most frequent `NUM` types:  <em>40, 15, 2017, 23., kahesa, kaht, kaks', koume, ühtes, üks'</em>
+The 10 most frequent `NUM` types:  <em>40, 15, 2017, 23., kahesa, kaht, kaksʼ, koume, ühtes, üksʼ</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -21,9 +21,9 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.111111 (the average of all parts of speech is 1.538660).
+The form / lemma ratio of `NUM` is 1.111111 (the average of all parts of speech is 1.550649).
 
-The 1st highest number of forms (2) was observed with the lemma “kaks'”: <em>kaht, kaks'</em>.
+The 1st highest number of forms (2) was observed with the lemma “kaksʼ”: <em>kaht, kaksʼ</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “15”: <em>15</em>.
 
@@ -35,7 +35,7 @@ The 3rd highest number of forms (1) was observed with the lemma “2017”: <em>
 
 `NUM` occurs with 5 feature combinations.
 The most frequent feature combination is `Case=Nom|NumForm=Word|NumType=Card` (4 tokens).
-Examples: <em>kahesa, kaks', koume, üks'</em>
+Examples: <em>kahesa, kaksʼ, koume, üksʼ</em>
 
 
 ## Relations

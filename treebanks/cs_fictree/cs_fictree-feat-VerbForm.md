@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-32096 tokens (19%) have a non-empty value of `VerbForm`.
-10926 types (40%) occur at least once with a non-empty value of `VerbForm`.
-4009 lemmas (29%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (23980; 14% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (7534; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (582; 0% instances).
+32106 tokens (19%) have a non-empty value of `VerbForm`.
+10930 types (40%) occur at least once with a non-empty value of `VerbForm`.
+4010 lemmas (29%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (23980; 14% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (7534; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (592; 0% instances).
 
 ### `VERB`
 
@@ -132,25 +132,25 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-582 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+592 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (575; 99%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (446; 77%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (319; 55%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (316; 54%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (303; 52%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (585; 99%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (454; 77%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (329; 56%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (316; 53%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (308; 52%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (582; 100% of non-empty `VerbForm`): <em>přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</em>
-* `EMPTY` (10317): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
+* `Part` (592; 100% of non-empty `VerbForm`): <em>přesvědčen, řečeno, budoucí, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající</em>
+* `EMPTY` (10307): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (406) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (407) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4664; 93%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1223; 77%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1224; 77%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (102; 74%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (51; 77%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (30; 81%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (49; 77%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (31; 82%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (22; 85%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (19; 90%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (13; 100%),

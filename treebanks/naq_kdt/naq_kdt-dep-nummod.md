@@ -17,17 +17,18 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nummod	color:blue
-1	Î	î	INTJ	_	Polarity=Pos	5	discourse	5:discourse	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	1:punct	_
-3	nē	nē	DET	PROX	Deixis=Prox|PronType=Dem	5	det	5:det	_
-4	koro	koro	NUM	_	NumType=Card	5	nummod	5:nummod	_
-5	xūna	xū	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	0	root	0:root	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
+# visual-style 4 3 nummod	color:blue
+1	Petrub	Petru	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	6:nsubj:pass	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	dīsi	dīsi	NUM	_	NumType=Card	4	nummod	4:nummod	_
+4	eurogu	euro	NOUN	_	Gender=Masc|Number=Plur|Person=3	6	obl:agent	6:obl:agent	_
+5	xa	xa	ADP	_	_	4	case	4:case	_
+6	ǃgaubahe	ǃgau	VERB	_	Voice=ApplPass	0	root	0:root	_
+7	hâ	hâ	AUX	PFV	Aspect=Perf	6	aux	6:aux	SpacesAfter=\n
 
 ~~~
 
@@ -54,18 +55,20 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 nummod	color:blue
-1	Amob	Amo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
-2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
-3	go	go	AUX	_	Tense=RecPast	6	aux	6:aux	_
-4	ǀgamdisi	ǀgamdīsi	NUM	_	NumType=Card|Typo=Yes	6	nummod	6:nummod	_
-5	ǀguiǀā	ǀgui	NUM	_	NumType=Card	4	flat:num	4:flat:num	_
-6	kurixa	kurixa	ADJ	_	_	0	root	0:root	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
+# visual-style 4 5 nummod	color:blue
+1	B	B	PROPN	_	_	0	root	0:root	_
+2	ǃkhōǁnā-ūdas	ǃkhōǁnā-ūda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	flat:name	1:flat:name	SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	8:punct	_
+4	Reverse	reverse	ADJ	_	_	8	amod	8:amod	_
+5	8	8	NUM	_	NumType=Card	4	nummod	4:nummod	_
+6	modelsa	model	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	nummod	8:nummod	_
+7	40	40	NUM	_	NumType=Card	6	nummod	6:nummod	_
+8	magazine	magazi	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|Typo=Yes	2	list	2:list	SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 ~~~
 

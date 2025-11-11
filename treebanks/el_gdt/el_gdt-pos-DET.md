@@ -60,12 +60,12 @@ The 2nd highest number of forms (13) was observed with the lemma “άλλος�
 
 The 3rd highest number of forms (12) was observed with the lemma “αυτός”: <em>αυτά, αυτές, αυτή, αυτήν, αυτής, αυτοί, αυτού, αυτούς, αυτό, αυτόν, αυτός, αυτών</em>.
 
-`DET` occurs with 6 features: <tt><a href="el_gdt-feat-Case.html">Case</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt> (10451; 86% instances), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt> (9847; 81% instances), <tt><a href="el_gdt-feat-Person.html">Person</a></tt> (604; 5% instances)
+`DET` occurs with 6 features: <tt><a href="el_gdt-feat-Case.html">Case</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-Gender.html">Gender</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-Number.html">Number</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-PronType.html">PronType</a></tt> (12119; 100% instances), <tt><a href="el_gdt-feat-Definite.html">Definite</a></tt> (11515; 95% instances), <tt><a href="el_gdt-feat-Person.html">Person</a></tt> (604; 5% instances)
 
 `DET` occurs with 17 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Rel`, `PronType=Rel`
 
-`DET` occurs with 78 feature combinations.
-The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art` (1683 tokens).
+`DET` occurs with 72 feature combinations.
+The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art` (2423 tokens).
 Examples: <em>την, τη, τον/την</em>
 
 

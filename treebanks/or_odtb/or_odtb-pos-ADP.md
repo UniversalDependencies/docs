@@ -57,7 +57,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ପକ୍ଷ�
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="or_odtb-dep-case.html">case</a></tt> (25; 64% instances), <tt><a href="or_odtb-dep-obl.html">obl</a></tt> (11; 28% instances), <tt><a href="or_odtb-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="or_odtb-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="or_odtb-dep-nsubj.html">nsubj</a></tt> (1; 3% instances)
+`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="or_odtb-dep-case.html">case</a></tt> (25; 64% instances), <tt><a href="or_odtb-dep-obl.html">obl</a></tt> (10; 26% instances), <tt><a href="or_odtb-dep-nmod.html">nmod</a></tt> (2; 5% instances), <tt><a href="or_odtb-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="or_odtb-dep-nsubj.html">nsubj</a></tt> (1; 3% instances)
 
 Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (17; 44% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (14; 36% instances), <tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (3; 8% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="or_odtb-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 

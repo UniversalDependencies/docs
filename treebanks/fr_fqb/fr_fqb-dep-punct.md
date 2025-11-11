@@ -11,7 +11,7 @@ This relation is universal.
 2816 nodes (12%) are attached to their parents as `punct`.
 
 2601 instances of `punct` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.05220170454545.
+Average distance between parent and child is 6.05149147727273.
 
 The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (1411; 50% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (552; 20% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (360; 13% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (185; 7% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (176; 6% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (115; 4% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 9 punct	color:blue
 1	Puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	-je	il	PRON	_	Number=Sing|Person=1	1	nsubj	_	_
+2	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	avoir	avoir	VERB	_	VerbForm=Inf	1	xcomp	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	aide	aide	NOUN	_	Number=Sing	3	obj	_	_
@@ -62,17 +62,17 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 13 punct	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1	3	nsubj	_	_
+1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	étudiant	étudiant	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	et	et	CCONJ	_	_	6	cc	_	_
-5	je	il	PRON	_	Number=Sing|Person=1	6	nsubj	_	_
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	aide	aide	NOUN	_	Number=Sing	6	obj	_	_
 9	pour	pour	ADP	_	_	10	mark	_	_
 10	payer	payer	VERB	_	VerbForm=Inf	8	acl	_	_
-11	mon	son	DET	_	Number=Sing|Poss=Yes	12	det	_	_
+11	mon	son	DET	_	Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
 12	logement	logement	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 

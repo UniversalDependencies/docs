@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 7	že	že	SCONJ	J,-------------	_	9	mark	9:mark	LId=že-1
 8	je	být	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
 9	třeba	třeba	ADV	Db-------------	_	5	ccomp	5:ccomp	LId=třeba-2
-10	více	hodně	DET	Dg-------2A----	Degree=Cmp|Polarity=Pos	11	det:numgov	11:det:numgov	LId=hodně-2
+10	více	hodně	DET	Dg-------2A----	Degree=Cmp|Polarity=Pos|PronType=Ind	11	det:numgov	11:det:numgov	LId=hodně-2
 11	dárců	dárce	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nsubj	9:nsubj	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 

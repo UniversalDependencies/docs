@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_ruthenian-dep-expl.html">expl</a></tt>.
 
-32 nodes (0%) are attached to their parents as `expl:pv`.
+61 nodes (0%) are attached to their parents as `expl:pv`.
 
-30 instances of `expl:pv` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.9375.
+55 instances of `expl:pv` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.9344262295082.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (31; 97% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (60; 98% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

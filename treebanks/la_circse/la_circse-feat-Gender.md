@@ -229,9 +229,9 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2206; 98%),
 <tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> DET</tt> (733; 96%),
-<tt>NOUN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (415; 93%),
+<tt>NOUN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (416; 93%),
 <tt>PROPN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (207; 93%),
-<tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (155; 95%),
+<tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (154; 95%),
 <tt>VERB --[<tt><a href="la_circse-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (126; 52%),
 <tt>ADJ --[<tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (83; 93%),
 <tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> PRON</tt> (79; 85%),

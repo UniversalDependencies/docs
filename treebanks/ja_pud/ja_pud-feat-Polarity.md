@@ -30,7 +30,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ja_pud-pos-AUX.html
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (30; 100% of non-empty `Polarity`): 不, なし, 未, 非, 反, 無
-* `EMPTY` (7394): こと, 年, 人, 者, 月, ら, ため, 後, 日, つ
+* `EMPTY` (7387): こと, 年, 人, 者, 月, ら, ため, 後, 日, つ
 
 ### `SCONJ`
 

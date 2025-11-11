@@ -23,21 +23,21 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 advcl	color:blue
-1	Το	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-2	κατάλαβα	καταλαβαίνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	,	,	PUNCT	PUNCT	_	6	punct	_	PunctType=Comm
-4	όταν	όταν	SCONJ	CjSb	_	6	mark	_	_
-5	μου	εγώ	PRON	PnPe	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
-6	είπε	λέω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
-7	εκείνο	εκείνος	DET	PnDm	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	_
-8	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
-9	“	“	PUNCT	OPUNCT	_	10	punct	_	PunctType=Quot
-10	καλύτερα	καλά	ADV	AdCp	Degree=Cmp	6	advmod	_	_
-11	να	να	AUX	PtSj	_	13	aux	_	_
-12	μην	μην	PART	PtNg	Polarity=Neg	13	advmod	_	_
-13	ξέρεις	ξέρω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
-14	”	”	PUNCT	CPUNCT	_	10	punct	_	PunctType=Quot|SpaceAfter=No
-15	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
+1	Το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	κατάλαβα	καταλαβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	_	_	6	punct	_	PunctType=Comm
+4	όταν	όταν	SCONJ	_	_	6	mark	_	_
+5	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+6	είπε	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+7	εκείνο	εκείνος	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	_
+8	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+9	“	“	PUNCT	_	_	10	punct	_	PunctType=Quot
+10	καλύτερα	καλά	ADV	_	Degree=Cmp	6	advmod	_	_
+11	να	να	AUX	_	_	13	aux	_	_
+12	μην	μην	PART	_	Polarity=Neg	13	advmod	_	_
+13	ξέρεις	ξέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+14	”	”	PUNCT	_	_	10	punct	_	PunctType=Quot|SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	PunctType=Peri
 
 ~~~
 
@@ -48,15 +48,15 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 advcl	color:blue
-1	Αυτό	αυτός	DET	PnDm	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	ήταν	είμαι	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	_
-3	το	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	κίνητρό	κίνητρο	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-5	μας	μου	PRON	PnPo	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
-6	για	για	ADP	AsPpSp	_	8	mark	_	_
-7	να	να	SCONJ	CjSb	_	6	fixed	_	_
-8	επιστρέφουμε	επιστρέφω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No
-9	.	.	PUNCT	PTERMP	_	4	punct	_	PunctType=Peri
+1	Αυτό	αυτός	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	ήταν	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	cop	_	_
+3	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	κίνητρό	κίνητρο	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	μας	εγώ	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod	_	_
+6	για	για	ADP	_	_	8	mark	_	_
+7	να	να	SCONJ	_	_	6	fixed	_	_
+8	επιστρέφουμε	επιστρέφω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	PunctType=Peri
 
 ~~~
 
@@ -67,10 +67,10 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 advcl	color:blue
-1	Με	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
-2	κοιτάζει	κοιτάζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	αμίλητος	αμίλητος	ADJ	AjBa	Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
-4	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
+1	Με	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+2	κοιτάζει	κοιτάζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	αμίλητος	αμίλητος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	PunctType=Peri
 
 ~~~
 

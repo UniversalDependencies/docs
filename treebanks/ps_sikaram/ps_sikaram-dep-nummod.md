@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-30 nodes (1%) are attached to their parents as `nummod`.
+45 nodes (1%) are attached to their parents as `nummod`.
 
-30 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.53333333333333.
+45 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.51111111111111.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (27; 90% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (2; 7% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (41; 91% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-SYM.html">SYM</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,13 +23,13 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
 1	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	2	nummod	_	Translit=yaw|LTranslit=yaw|Gloss=one
-2	ښوونځى	ښوونځى	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Translit=x̌owanżáy|LTranslit=x̌owanżáy|Gloss=school
+2	ښوونځی	ښوونځی	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Translit=x̌owanżáy|LTranslit=x̌owanżáy|Gloss=school
 3	هم	هم	ADV	_	_	7	advmod	_	Translit=ham|LTranslit=ham|Gloss=too
 4	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 5	لوست	لوست	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	obj	_	Translit=lwast|LTranslit=lwast|Gloss=lesson
-6	نه	نۀ	PART	_	Polarity=Neg	7	advmod	_	Translit=në|LTranslit=në|Gloss=no
-7	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=warkawí|LTranslit=warkawë́l|Gloss=gives|SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.
+6	نه	نۀ	PART	_	Polarity=Neg	7	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+7	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=warkawi|LTranslit=warkawë́l|Gloss=gives|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 16	کې	کې	ADP	_	Case=Loc	15	case	_	Translit=ke|LTranslit=ke|Gloss=in
 17	انسانان	انسان	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	Translit=insânấn|LTranslit=insấn|Gloss=human
 18	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	21	nummod	_	Translit=yaw|LTranslit=yaw|Gloss=one
-19	بل	بل	PRON	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	Translit=bël|LTranslit=bël|Gloss=another
+19	بل	بل	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	Translit=bël|LTranslit=bël|Gloss=another
 20	ته	ته	ADP	_	Case=Acc	19	case	_	Translit=ta|LTranslit=ta|Gloss=to
 21	لازم	لازم	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	Translit=lâzím|LTranslit=lâzím|Gloss=necessary
 22	او	او	CCONJ	_	_	23	cc	_	Translit=aw|LTranslit=aw|Gloss=and
@@ -71,14 +71,14 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 29	او	او	CCONJ	_	_	34	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 30	يا	يا	CCONJ	_	_	34	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 31	یو	یو	NUM	_	Case=Nom|Gender=Masc|NumType=Card	34	nummod	_	Translit=yaw|LTranslit=yaw|Gloss=one
-32	بل	بل	PRON	_	Case=Acc|Gender=Masc|Number=Sing	34	nmod	_	Translit=bël|LTranslit=bël|Gloss=another
+32	بل	بل	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	34	nmod	_	Translit=bël|LTranslit=bël|Gloss=another
 33	ته	ته	ADP	_	Case=Acc	32	case	_	Translit=ta|LTranslit=ta|Gloss=to
 34	ضرورت	ضرورت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	conj	_	Translit=zarurát|LTranslit=zarurát|Gloss=necessity|SpaceAfter=No
 35	،	،	PUNCT	_	_	38	punct	_	Translit=,|LTranslit=,|Gloss=,
 36	انساني	انساني	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	37	amod	_	Translit=insâní|LTranslit=insâní|Gloss=human
 37	ټولنه	ټولنه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	38	obj	_	Translit=ṭolë́na|LTranslit=ṭolë́na|Gloss=society
 38	پالي	پالل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	Translit=pâlí|LTranslit=pâlë́l|Gloss=takes-care|SpaceAfter=No
-39	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.|Gloss=.
+39	.	.	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -91,8 +91,8 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8 7 nummod	color:blue
 1	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 2	په	پۀ	ADP	_	Case=Loc	4	case	_	Translit=pë|LTranslit=pë|Gloss=at
-3	دوه	دوه	NUM	_	Case=Loc|Gender=Masc|NumType=Card	4	nummod	_	Translit=dwa|LTranslit=dwa|Gloss=two
-4	ډوله	ډول	NOUN	_	Case=Loc|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Translit=ḍáwla|LTranslit=ḍawl|Gloss=kind
+3	دوه	دوه	NUM	_	Case=Nom|Gender=Masc|NumType=Card	4	nummod	_	Translit=dwa|LTranslit=dwa|Gloss=two
+4	ډوله	ډول	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Translit=ḍáwla|LTranslit=ḍawl|Gloss=kind
 5	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=da|LTranslit=wël|Gloss=is|SpaceAfter=No
 6	:	:	PUNCT	_	_	8	punct	_	Translit=:|LTranslit=:|Gloss=:
 7	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	8	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
@@ -125,7 +125,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 34	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	36	obl	_	Translit=war|LTranslit=war|Gloss=it
 35	باندې	باندې	ADP	_	Case=Loc	34	case	_	Translit=bấnde|LTranslit=bấnde|Gloss=on
 36	وپوهېږي	پوهېدل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	8	conj	_	Translit=wë́poheǧi|LTranslit=pohedë́l|Gloss=understand|SpaceAfter=No
-37	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.
+37	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

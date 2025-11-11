@@ -18,25 +18,27 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nummod	color:blue
-1	Nimo	nimo	ADP	_	_	2	case	_	_
-2	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
-3	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	štyri	štyri	NUM	_	NumType=Card	5	nummod	_	_
-5	diftongi	diftong	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
-6	:	:	PUNCT	_	_	7	punct	_	_
-7	ae	ae	X	_	_	5	appos	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	oe	oe	X	_	_	7	conj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	eu	eu	X	_	_	7	conj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	au	au	X	_	_	7	conj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 4 2 nummod	color:blue
+1	W	w	ADP	_	_	4	case	_	_
+2	14	14	NUM	_	NumType=Card	4	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	lětstotku	lětstotk	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	_
+5	př	před	ADP	_	Abbr=Yes	9	case	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+7	n	naš	DET	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+9	l	lětoličba	NOUN	_	Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+11	Assyriska	Assyriska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+12	zaso	zaso	ADV	_	_	15	advmod	_	_
+13	na	na	ADP	_	_	14	case	_	_
+14	mocy	moc	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	15	obl	_	_
+15	naby	nabyć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
 
 ~~~
 

@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (744; 1% of non-empty `Mood`): <em>siehe, sprich, update, Stimm, Bleibt, lies, Mach, Mehr, schaut, vgl.</em>
 * `Ind` (133686; 99% of non-empty `Mood`): <em>sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</em>
-* `EMPTY` (129156): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
+* `EMPTY` (129157): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
   <tr><th>Paradigm <i>geben</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -81,7 +81,7 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>AUX --[<tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (455; 70%),
 <tt>AUX --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (407; 57%),
 <tt>VERB --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (324; 56%),
-<tt>VERB --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (319; 59%),
+<tt>VERB --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (307; 59%),
 <tt>AUX --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (136; 54%),
 <tt>AUX --[<tt><a href="de_hdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (65; 58%),
 <tt>AUX --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (43; 84%),

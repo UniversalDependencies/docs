@@ -22,14 +22,14 @@ The following 16 pairs of parts of speech are connected with `compound:lvc`: <tt
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound:lvc	color:blue
-1	مشابه	مشابه	NOUN	N_IANM	Number=Sing	6	nsubj	_	_
-2	این	این	DET	PREM_DEMAJ	_	3	det	_	_
-3	کارها	کار	NOUN	N_IANM	Number=Plur	1	nmod	_	_
-4	هم	هم	ADV	ADV_SADV	_	3	dep	_	_
-5	نهی	نهی	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	_
-6	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	OrigLemma=شد#شو
-7	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	OrigLemma=#است|SpaceAfter=No
-8	.	.	PUNCT	PUNC	_	6	punct	_	_
+1	مشابه	مشابه	NOUN	N_IANM	Number=Sing	6	nsubj	_	LTranslit=mšābh|Translit=mšābh
+2	این	این	DET	PREM_DEMAJ	_	3	det	_	LTranslit=āīn|Translit=āīn
+3	کارها	کار	NOUN	N_IANM	Number=Plur	1	nmod	_	LTranslit=kār|Translit=kārhā
+4	هم	هم	ADV	ADV_SADV	_	3	dep	_	LTranslit=hm|Translit=hm
+5	نهی	نهی	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=nhī|Translit=nhī
+6	شده	شد	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	LTranslit=šd|OrigLemma=شد#شو|Translit=šdh
+7	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	6	aux	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
+8	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -40,13 +40,13 @@ The following 16 pairs of parts of speech are connected with `compound:lvc`: <tt
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound:lvc	color:blue
-1	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1	6	nsubj	_	_
-2	ماهی	ماهی	NOUN	N_IANM	Number=Sing	6	obj	_	_
-3	و	و	CCONJ	CONJ	_	4	cc	_	_
-4	استیک	استیک	NOUN	N_IANM	Number=Sing	2	conj	_	_
-5	لازم	لازم	ADJ	ADJ_AJP	_	6	compound:lvc	_	_
-6	داریم	داشت	VERB	V_ACT	Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	OrigLemma=داشت#دار|SpaceAfter=No
-7	.	.	PUNCT	PUNC	_	6	punct	_	_
+1	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	LTranslit=mā|Translit=mā
+2	ماهی	ماهی	NOUN	N_IANM	Number=Sing	6	obj	_	LTranslit=māhī|Translit=māhī
+3	و	و	CCONJ	CONJ	_	4	cc	_	LTranslit=ū|Translit=ū
+4	استیک	استیک	NOUN	N_IANM	Number=Sing	2	conj	_	LTranslit=āstīk|Translit=āstīk
+5	لازم	لازم	ADJ	ADJ_AJP	_	6	compound:lvc	_	LTranslit=lāzm|Translit=lāzm
+6	داریم	داشت	VERB	V_ACT	Number=Plur|Person=1|Tense=Pres|Voice=Act	0	root	_	LTranslit=dāšt|OrigLemma=داشت#دار|SpaceAfter=No|Translit=dārīm
+7	.	.	PUNCT	PUNC	_	6	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -57,18 +57,18 @@ The following 16 pairs of parts of speech are connected with `compound:lvc`: <tt
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound:lvc	color:blue
-1	در	در	ADP	PREP	_	2	case	_	_
-2	فکر	فکر	NOUN	N_IANM	Number=Sing	0	root	_	_
-3	از	از	ADP	PREP	_	4	case	_	_
-4	دست	دست	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	_
-5	دادن	دادن	NOUN	N_IANM	Number=Sing	2	nmod	_	_
-6	شغل	شغل	NOUN	N_IANM	Number=Sing	5	nmod	_	_
-7	جدید	جدید	ADJ	ADJ_AJP	_	6	amod	_	_
-8	و	و	CCONJ	CONJ	_	9	cc	_	_
-9	مزد	مزد	NOUN	N_IANM	Number=Sing	6	conj	_	_
-10	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	9	nmod	_	_
-11	بودم	بود	AUX	AUX	Number=Sing|Person=1	2	cop	_	OrigLemma=بود#باش|SpaceAfter=No
-12	.	.	PUNCT	PUNC	_	2	punct	_	_
+1	در	در	ADP	PREP	_	2	case	_	LTranslit=dr|Translit=dr
+2	فکر	فکر	NOUN	N_IANM	Number=Sing	0	root	_	LTranslit=fkr|Translit=fkr
+3	از	از	ADP	PREP	_	4	case	_	LTranslit=āz|Translit=āz
+4	دست	دست	NOUN	N_IANM	Number=Sing	5	compound:lvc	_	LTranslit=dst|Translit=dst
+5	دادن	دادن	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=dādn|Translit=dādn
+6	شغل	شغل	NOUN	N_IANM	Number=Sing	5	nmod	_	LTranslit=šġl|Translit=šġl
+7	جدید	جدید	ADJ	ADJ_AJP	_	6	amod	_	LTranslit=jdīd|Translit=jdīd
+8	و	و	CCONJ	CONJ	_	9	cc	_	LTranslit=ū|Translit=ū
+9	مزد	مزد	NOUN	N_IANM	Number=Sing	6	conj	_	LTranslit=mzd|Translit=mzd
+10	م	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	9	nmod	_	LTranslit=mn|Translit=m
+11	بودم	بود	AUX	AUX	Number=Sing|Person=1	2	cop	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=būdm
+12	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

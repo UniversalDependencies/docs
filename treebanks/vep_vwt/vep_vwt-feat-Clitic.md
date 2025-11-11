@@ -26,7 +26,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="vep_vwt-pos-ADV.htm
 
 3 <tt><a href="vep_vwt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Par</tt> (2; 67%), <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="vep_vwt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="vep_vwt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="vep_vwt-feat-Case.html">Case</a></tt><tt>=Par</tt> (2; 67%), <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Clitic`:
 

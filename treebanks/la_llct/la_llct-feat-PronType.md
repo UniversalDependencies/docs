@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Con` are language-specific.
 It occurs with 7 different values: `Con`, `Dem`, `Ind`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-41912 tokens (17%) have a non-empty value of `PronType`.
-482 types (5%) occur at least once with a non-empty value of `PronType`.
-78 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="la_llct-pos-DET.html">DET</a></tt> (20065; 8% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (18276; 8% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (2510; 1% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (1031; 0% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt> (18; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances).
+41914 tokens (17%) have a non-empty value of `PronType`.
+483 types (5%) occur at least once with a non-empty value of `PronType`.
+79 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 6 part-of-speech tags: <tt><a href="la_llct-pos-DET.html">DET</a></tt> (20065; 8% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (18278; 8% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (2510; 1% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (1031; 0% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt> (18; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances).
 
 ### `DET`
 
@@ -49,18 +49,18 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-18276 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+18278 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13769; 75%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9808; 54%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9730; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13769; 75%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9808; 54%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (178; 1% of non-empty `PronType`): <em>aliquo, aliquid, quis, quit, nihil, quid, aliquit, aliquis, alico, nihel</em>
-* `Prs` (15010; 82% of non-empty `PronType`): <em>ego, me, nos, tibi, eius, mihi, vobis, id, eas, nobis</em>
+* `Prs` (15012; 82% of non-empty `PronType`): <em>ego, me, nos, tibi, eius, mihi, vobis, id, eas, nobis</em>
 * `Rel` (3088; 17% of non-empty `PronType`): <em>qui, quas, que, quod, cui, quam, quo, quem, quibus, qua</em>
-* `EMPTY` (3): <em>nosmedipsos, [pronoun]</em>
+* `EMPTY` (1): <em>[pronoun]</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (14) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `PronType`.
 
 ### `ADV`
 

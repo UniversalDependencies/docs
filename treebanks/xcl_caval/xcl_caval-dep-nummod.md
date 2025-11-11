@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-366 nodes (0%) are attached to their parents as `nummod`.
+360 nodes (0%) are attached to their parents as `nummod`.
 
-246 instances of `nummod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29781420765027.
+245 instances of `nummod` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28611111111111.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (309; 84% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (17; 5% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (13; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (12; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (303; 84% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (17; 5% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (13; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (12; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -62,14 +62,14 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
-1	Եւ	եւ	CCONJ	_	_	8	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	Translit=ein|LTranslit=em|Gloss=be
+1	Եւ	եւ	CCONJ	_	_	4	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
+2	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Translit=ein|LTranslit=em|Gloss=be
 3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	Translit=or|LTranslit=or|Gloss=who
-4	կերան	ուտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	csubj	_	SpaceAfter=No|Translit=keran|LTranslit=owtel|Gloss=eat
+4	կերան	ուտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=keran|LTranslit=owtel|Gloss=eat
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	Translit=n|LTranslit=n|Gloss=that
 6	իբրեւ	իբրեւ	ADP	_	_	8	case	_	Translit=ibrew|LTranslit=ibrew|Gloss=like
 7	չորք	չորք	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	Translit=čʻorkʻ|LTranslit=čʻorkʻ|Gloss=four
-8	հազարք	հազար	NUM	_	Case=Nom|Number=Plur|NumType=Card	0	root	_	SpaceAfter=No|Translit=hazarkʻ|LTranslit=hazar|Gloss=thousand
+8	հազարք	հազար	NUM	_	Case=Nom|Number=Plur|NumType=Card	4	advcl	_	SpaceAfter=No|Translit=hazarkʻ|LTranslit=hazar|Gloss=thousand
 9	.	.	PUNCT	_	_	11	punct	_	Translit=:|LTranslit=:
 10	եւ	եւ	CCONJ	_	_	11	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 11	արձակեաց	արձակել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=arjakeacʻ|LTranslit=arjakel|Gloss=release

@@ -18,15 +18,15 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-VERB.htm
 
 24735 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (21417; 87%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15658; 63%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14630; 59%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14512; 59%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (21398; 87%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15677; 63%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14647; 59%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14525; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (10105; 41% of non-empty `VerbForm`): <em>have, know, said, think, had, has, are, want, is, get</em>
-* `Ger` (1343; 5% of non-empty `VerbForm`): <em>following, using, going, doing, growing, working, coming, making, getting, living</em>
-* `Inf` (6432; 26% of non-empty `VerbForm`): <em>have, do, make, get, go, know, see, take, say, find</em>
-* `Part` (6855; 28% of non-empty `VerbForm`): <em>united, going, gon, doing, based, called, made, used, got, known</em>
-* `EMPTY` (5): <em>Pre, gon, questi, se, under</em>
+* `Fin` (10088; 41% of non-empty `VerbForm`): <em>have, know, said, think, had, has, are, want, is, get</em>
+* `Ger` (1341; 5% of non-empty `VerbForm`): <em>following, using, going, doing, growing, working, coming, making, getting, living</em>
+* `Inf` (6429; 26% of non-empty `VerbForm`): <em>have, do, make, get, go, know, see, take, say, find</em>
+* `Part` (6877; 28% of non-empty `VerbForm`): <em>united, going, gon, called, doing, based, made, used, got, known</em>
+* `EMPTY` (4): <em>Pre, questi, se, under</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -74,8 +74,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'re, are, ’re</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_gum-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>was, where</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's, ’s, S’</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gum-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>is, s</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's, ’s, S’, s</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gum-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>is</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were, was</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 're, ’re</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td><td></td></tr>
@@ -96,8 +96,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> VERB</tt> (1885; 78%),
-<tt>VERB --[<tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (373; 54%),
+<tt>VERB --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> VERB</tt> (1887; 78%),
+<tt>VERB --[<tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (373; 53%),
 <tt>VERB --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (74; 78%),
 <tt>AUX --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (19; 100%),
 <tt>AUX --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 100%),

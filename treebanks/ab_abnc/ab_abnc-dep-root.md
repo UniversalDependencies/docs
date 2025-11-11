@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1221 nodes (13%) are attached to their parents as `root`.
+1316 nodes (12%) are attached to their parents as `root`.
 
-1221 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.10647010647011.
+1316 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.1306990881459.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1145; 94% instances), -<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (26; 2% instances), -<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (24; 2% instances), -<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (15; 1% instances), -<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), -<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1236; 94% instances), -<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (28; 2% instances), -<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (24; 2% instances), -<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (17; 1% instances), -<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), -<tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 5	Лакоба	Лакоба	PROPN	Noun_Prop_Anthr_LastName	NameType=Prs	6	nsubj	_	LMSeg:Лакоба
 6	исиҭаз	а́-ҭара	VERB	V_Dyn_Tr_NonFin_PastIndef_S:3SgM_DO:Rel_IO:1Sg_Rel	Dyn=Yes|Gender[subj]=Masc|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[obj]=Rel|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=NonFin	7	acl:relcl	_	LMSeg:а́-ҭа-ра
 7	адҵа	а-дҵа́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	8	obj	_	LMSeg:а-дҵа́
-8	насыгӡон	а́-нагӡара	VERB	V_Dyn_Tr_Fin_Impf_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-на·гӡа-ра|SpaceAfter=No
+8	насыгӡон	а́-нагӡара	VERB	V_Dyn_Tr_Fin_Impf_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-на·гӡа-ра|SpaceAfter=No
 9	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
 
 ~~~
@@ -48,7 +48,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 5	атроцкист	а-троцки́ст	NOUN	Noun_H_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	7	nmod:poss	_	LMSeg:а-троцки́ст
 6	Лакоба	Лакоба	PROPN	Noun_Prop_Anthr_LastName	NameType=Prs	5	appos	_	LMSeg:Лакоба
 7	иҩнаҿ	а-ҩны́	NOUN	Noun_NH_Sg_Poss:3SgM_Cop_PP:ҿы́	Animacy=Nhum|Case=Ine|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	LMSeg:а-ҩны́|SpaceAfter=No
-8	оуп	а́кәзаара	AUX	V_Stat_Fin_Pres_S:3_IO:3SgNH_EnclCop	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	cop	_	LMSeg:а́кә-заа-ра|SpaceAfter=No
+8	оуп	а́кәзаара	AUX	V_Stat_Fin_Pres_S:3_IO:3SgNH_EnclCop	Dyn=No|Gender[io]=Neut|Mood=Ind|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	cop	_	LMSeg:а́кә-заа-ра|SpaceAfter=No
 9	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 
 ~~~

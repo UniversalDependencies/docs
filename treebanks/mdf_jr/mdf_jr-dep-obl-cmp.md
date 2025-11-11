@@ -59,7 +59,7 @@ The following 8 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 2	урокта	урок	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	3	obl:cmp	_	GTtags=SP,Abl,Indef
 3	меле	меле	ADV	Adv	AdvType=Tim	5	advmod	_	_
 4	учительскяи	учительскяй	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Lat,Indef
-5	сувасть	сувамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
+5	сувасть	сувамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
 6	кафцьке	кафцьке	DET	Det	NumType=Sets|PronType=Tot	7	det	_	GTtags=Coll,Sg,Nom,Indef
 7	стирнятне	стирь	NOUN	N	Case=Nom|Definite=Def|Degree=Dim|Number=Plur	5	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	5	punct	_	_

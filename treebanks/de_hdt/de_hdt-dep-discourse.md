@@ -22,11 +22,11 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 discourse	color:blue
-1	Bitte	Bitte	INTJ	ITJ	_	2	discourse	_	_
+1	Bitte	bitte	INTJ	ITJ	_	2	discourse	_	_
 2	nennen	nennen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	Sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 4	uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	obl:arg	_	_
-5	Ihren	Ihr	DET	PPOSAT	Case=Acc|Gender=Masc|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs	6	det	_	_
+5	Ihren	ihr	DET	PPOSAT	Case=Acc|Gender=Masc|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs	6	det	_	_
 6	Provider	Provider	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 7	!	!	PUNCT	$.	PunctType=Peri	2	punct	_	_
 
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 13	fgColor:white
 # visual-style 13 12 discourse	color:blue
 1	"	"	PUNCT	$(	PunctType=Brck	13	punct	_	_
-2	Wenn	Wenn	SCONJ	KOUS	_	9	mark	_	_
+2	Wenn	wenn	SCONJ	KOUS	_	9	mark	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	BI	BI	PROPN	NE	_	9	nsubj	_	_
 5	(	(	PUNCT	$(	PunctType=Brck	6	punct	_	_

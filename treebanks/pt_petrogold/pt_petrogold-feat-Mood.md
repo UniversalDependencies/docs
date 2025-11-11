@@ -58,6 +58,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>é</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>será</em></td><td></td><td><em>for, sera</em></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td><em>fosse</em></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>foi</em></td><td></td><td></td></tr>

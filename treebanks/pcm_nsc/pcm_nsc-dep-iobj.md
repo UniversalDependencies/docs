@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-504 nodes (0%) are attached to their parents as `iobj`.
+509 nodes (0%) are attached to their parents as `iobj`.
 
-504 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01587301587302.
+509 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02357563850688.
 
-The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (504; 100% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (507; 100% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,29 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 17	our	our	PRON	_	Number=Plur|Person=1|Poss=Yes	18	nmod:poss	_	AlignBegin=61442|AlignEnd=61671|Gloss=PL.1.POSS
 18	money	money	NOUN	_	_	14	obj	_	AlignBegin=61671|AlignEnd=61971|Gloss=money
 19	//	//	PUNCT	_	_	14	punct	_	AlignBegin=61971|AlignEnd=61971|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 iobj	color:blue
+1	see	see	VERB	_	_	0	root	_	AlignBegin=589738|AlignEnd=589955|Gloss=see
+2	as	as	ADP	_	_	4	mark	_	AlignBegin=589955|AlignEnd=590171|Gloss=as
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=590171|AlignEnd=590388|Gloss=NOM.SG.1
+4	dey	dey	VERB	_	VerbType=Cop	1	ccomp	_	AlignBegin=590388|AlignEnd=590604|Gloss=be2
+5	so	so	ADV	_	_	4	xcomp	_	AlignBegin=590604|AlignEnd=590821|Gloss=so
+6	ehn	ehn	INTJ	_	_	1	discourse	_	AlignBegin=590821|AlignEnd=591037|Gloss=ehn
+7	//=	//=	PUNCT	_	_	1	punct	_	AlignBegin=591037|AlignEnd=591037|Gloss=PUNCT
+8	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=591037|AlignEnd=591254|Gloss=NOM.SG.1
+9	sabi	sabi	VERB	_	_	1	parataxis:conj	_	AlignBegin=591254|AlignEnd=591470|Gloss=know
+10	take	take	VERB	_	_	9	xcomp	_	AlignBegin=591470|AlignEnd=591687|Gloss=take
+11	care	care	NOUN	_	_	10	obj:lvc	_	AlignBegin=591687|AlignEnd=591903|Gloss=care
+12	lady	lady	NOUN	_	_	10	iobj	_	AlignBegin=591903|AlignEnd=592120|Gloss=lady
+13	//	//	PUNCT	_	_	9	punct	_	AlignBegin=592120|AlignEnd=592120|Gloss=PUNCT
 
 ~~~
 

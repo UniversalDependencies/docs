@@ -13,7 +13,7 @@ The 10 most frequent `PART` lemmas: <em>არ, კი, არა, მაინ�
 
 The 10 most frequent `PART` types:  <em>არ, კი, არა, მაინც, ვერ, არც, ო, ალბათ, აღარ, ხომ</em>
 
-The 10 most frequent ambiguous lemmas: <em>არა</em> (<tt><a href="ka_glc-pos-PART.html">PART</a></tt> 50, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 1), <em>რა</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 43, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ka_glc-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>არა</em> (<tt><a href="ka_glc-pos-PART.html">PART</a></tt> 50, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 1), <em>რა</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 45, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ka_glc-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>არა</em> (<tt><a href="ka_glc-pos-PART.html">PART</a></tt> 50, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 1), <em>რა</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 26, <tt><a href="ka_glc-pos-PART.html">PART</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>არა</em> (<tt><a href="ka_glc-p
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.677821).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.674782).
 
 The 1st highest number of forms (1) was observed with the lemma “ალბათ”: <em>ალბათ</em>.
 
@@ -46,21 +46,21 @@ Examples: <em>არ, არა, ვერ, აღარ</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 4 different relations: <tt><a href="ka_glc-dep-advmod.html">advmod</a></tt> (242; 96% instances), <tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt> (5; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ka_glc-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 6 different relations: <tt><a href="ka_glc-dep-advmod.html">advmod</a></tt> (239; 95% instances), <tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt> (5; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ka_glc-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="ka_glc-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (149; 59% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (45; 18% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (35; 14% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (156; 62% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (43; 17% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (30; 12% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-230 (92%) `PART` nodes are leaves.
+228 (91%) `PART` nodes are leaves.
 
 15 (6%) `PART` nodes have one child.
 
 4 (2%) `PART` nodes have two children.
 
-2 (1%) `PART` nodes have three or more children.
+4 (2%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 4.
 
-Children of `PART` nodes are attached using 10 different relations: <tt><a href="ka_glc-dep-cop.html">cop</a></tt> (7; 23% instances), <tt><a href="ka_glc-dep-cc.html">cc</a></tt> (6; 19% instances), <tt><a href="ka_glc-dep-punct.html">punct</a></tt> (6; 19% instances), <tt><a href="ka_glc-dep-advmod.html">advmod</a></tt> (3; 10% instances), <tt><a href="ka_glc-dep-mark.html">mark</a></tt> (3; 10% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="ka_glc-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="ka_glc-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (1; 3% instances)
+Children of `PART` nodes are attached using 12 different relations: <tt><a href="ka_glc-dep-punct.html">punct</a></tt> (9; 24% instances), <tt><a href="ka_glc-dep-cop.html">cop</a></tt> (7; 18% instances), <tt><a href="ka_glc-dep-cc.html">cc</a></tt> (6; 16% instances), <tt><a href="ka_glc-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="ka_glc-dep-mark.html">mark</a></tt> (3; 8% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (2; 5% instances), <tt><a href="ka_glc-dep-orphan.html">orphan</a></tt> (2; 5% instances), <tt><a href="ka_glc-dep-amod.html">amod</a></tt> (1; 3% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="ka_glc-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="ka_glc-dep-nummod.html">nummod</a></tt> (1; 3% instances)
 
-Children of `PART` nodes belong to 8 different parts of speech: <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 23% instances), <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (6; 19% instances), <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (6; 19% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 10% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 6% instances)
+Children of `PART` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (9; 24% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (7; 18% instances), <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (6; 16% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (5; 13% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 8% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (1; 3% instances)
 

@@ -105,7 +105,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 8 ccomp	color:blue
-1	_	_	PUNCT	_	_	11	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=13
+1	_	_	PUNCT	_	_	2	punct	_	BBIL=B|BPT=1|LBIL=B|LPOS=14|SpaceAfter=No|UI=13
 2	_	_	PRON	_	_	11	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=22|SpaceAfter=No|UI=2296
 3	_	_	PUNCT	_	_	2	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
 4	_	_	PROPN	_	_	8	nsubj	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=518
@@ -118,7 +118,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 11	_	_	VERB	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=23|SpaceAfter=No|UI=176
 12	_	_	PART	_	_	11	mark	_	BBIL=I|BPT=2|LBIL=B|LPOS=29|SpaceAfter=No|UI=20
 13	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No|UI=36
-14	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|SpaceAfter=No|UI=14
+14	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|UI=14
 
 ~~~
 

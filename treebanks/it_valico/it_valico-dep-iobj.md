@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (1%) are attached to their parents as `iobj`.
+61 nodes (1%) are attached to their parents as `iobj`.
 
-52 instances of `iobj` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40677966101695.
+54 instances of `iobj` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40983606557377.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (58; 98% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (60; 98% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -24,16 +24,14 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3 1 iobj	color:blue
 1	Mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
 2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	di	di	ADP	E	_	5	case	_	_
-5	no	no	ADV	BN	PronType=Neg	3	advmod	_	_
-6	intrometer	intrometere	VERB	V	VerbForm=Inf	3	xcomp	_	_
-7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
-8	in	in	ADP	E	_	11	case	_	_
-9	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det:poss	_	_
-11	discussione	discussione	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
+3	sorpreso	sorprendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	forma	forma	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	come	come	ADV	B	_	9	advmod	_	_
+7	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	colpito	colpire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n
 
 ~~~
 

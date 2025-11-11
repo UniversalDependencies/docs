@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2808 nodes (4%) are attached to their parents as `obj`.
+3825 nodes (4%) are attached to their parents as `obj`.
 
-1760 instances of `obj` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.38710826210826.
+2488 instances of `obj` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.33333333333333.
 
-The following 13 pairs of parts of speech are connected with `obj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1637; 58% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1074; 38% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (39; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `obj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2303; 60% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1400; 37% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (51; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,17 +33,25 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 obj	color:blue
-1	mais	mais1	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_32_05071
-2	je	je	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_32_05072
-3	ne	ne1	ADV	ADVneg	PronType=Neg	5	advmod	_	XmlId=w_32_05073
-4	le	le	PRON	PROper	PronType=Prs	5	obj	_	XmlId=w_32_05074
-5	sceuz	savoir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_05075
-6	oncques	onques	ADV	ADVgen	_	5	advmod	_	XmlId=w_32_05076
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 obj	color:blue
+1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_grchron_j2c5_2102
+2	le	le	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_grchron_j2c5_2103
+3	fist	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_2104
+4	duc	duc1	NOUN	NOMcom	_	3	xcomp	_	XmlId=w_grchron_j2c5_2105
+5	tant	tant	ADV	ADVgen	_	7	advmod	_	XmlId=w_grchron_j2c5_2106
+6	de	de	ADP	PRE	_	7	case	_	XmlId=w_grchron_j2c5_2107
+7	Tristemare	Trastamare	PROPN	NOMpro	_	4	nmod	_	XmlId=w_grchron_j2c5_2108
+8	comme	comme	SCONJ	CONsub	_	11	mark	_	XmlId=w_grchron_j2c5_2109
+9	de	de	ADP	PRE	_	11	case	_	XmlId=w_grchron_j2c5_2110
+10	la	le	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_grchron_j2c5_2111
+11	terre	terre1	NOUN	NOMcom	_	5	obl	_	XmlId=w_grchron_j2c5_2112
+12	d'	de	ADP	PRE	_	13	case	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2113
+13	Esture	Esture	PROPN	NOMpro	_	11	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2114
+14	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_grchron_j2c5_2115
 
 ~~~
 
@@ -55,7 +63,7 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 5 obj	color:blue
 1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_grchron_j2c5_1963
-2	y	y2	ADV	PROadv	_	3	obl:advmod	_	XmlId=w_grchron_j2c5_1964
+2	y	y2	ADV	PROadv	_	3	obl:mod	_	XmlId=w_grchron_j2c5_1964
 3	tuerent	tuer1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_1965
 4	aucuns	aucun	DET	DETind	PronType=Ind	5	det	_	XmlId=w_grchron_j2c5_1966
 5	Juyfz	juif	PROPN	NOMpro	_	3	obj	_	XmlId=w_grchron_j2c5_1967

@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	такылдап	такыл	VERB	VB	Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Conv	8	advcl	_	_
 6	турганы	тур	VERB	VB	Number=Sing|Person=3|Person[psor]=2|Polarity=Pos|Tense=Past|VerbForm=Conv	8	ccomp	_	_
 7	да	да	CCONJ	CCONJ	_	6	mark	_	_
-8	эсимде	эсимде	NOUN	NN	Aspect=Perf|Case=Gen,Loc|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+8	эсимде	эсимде	NOUN	NN	Aspect=Perf|Case=Gen,Loc|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PCT	_	8	punct	_	_
 
 ~~~
@@ -52,7 +52,7 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 9	,	,	PUNCT	PCT	_	8	punct	_	_
 10	тил	тил	NOUN	NN	Case=Nom|Number=Sing|Person=3	12	nmod	_	_
 11	алышым	алыш	VERB	VB	Case=Gen|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Part	12	compound	_	_
-12	керек	керек	VERB	VB	Aspect=Prog|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	керек	керек	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	PCT	_	12	punct	_	_
 
 ~~~
@@ -66,13 +66,13 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 1 2 mark	color:blue
 1	Анан	анан	ADV	ADV	_	9	advmod	_	_
 2	да	да	CCONJ	CCONJ	_	1	mark	_	_
-3	кайсы	кайсы	DET	DET	_	4	det	_	_
+3	кайсы	кайсы	PRON	PRP	PronType=Int	4	det	_	_
 4	жерден	жер	NOUN	NN	Case=Abl|Number=Sing|Person=3	9	obl	_	_
 5	төрт	төрт	NUM	NUM	NumType=Card	6	nummod	_	_
 6	живец	живец	NOUN	NN	Case=Nom|Number=Sing|Person=3	9	nmod	_	_
 7	таба	тап	VERB	VB	Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	8	advcl	_	_
 8	аларымды	ала	ADV	ADV	Person=1	9	compound	_	_
-9	билем	бил	NOUN	NN	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+9	билем	бил	NOUN	NN	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	PCT	_	9	punct	_	_
 
 ~~~

@@ -9,9 +9,9 @@ udver: '2'
 There are 1 `PART` lemmas (0%), 1 `PART` types (0%) and 2 `PART` tokens (0%).
 Out of 13 observed tags, the rank of `PART` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>ved'</em>
+The 10 most frequent `PART` lemmas: <em>vedʼ</em>
 
-The 10 most frequent `PART` types:  <em>ved'</em>
+The 10 most frequent `PART` types:  <em>vedʼ</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -21,9 +21,9 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.538660).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.550649).
 
-The 1st highest number of forms (1) was observed with the lemma “ved'”: <em>ved'</em>.
+The 1st highest number of forms (1) was observed with the lemma “vedʼ”: <em>vedʼ</em>.
 
 `PART` does not occur with any features.
 

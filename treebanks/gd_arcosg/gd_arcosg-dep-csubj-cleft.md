@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 4	fgColor:white
 # visual-style 4 6 csubj:cleft	color:blue
 1	àidh	àidh	INTJ	I	_	4	discourse	_	_
-2	‘s	is	AUX	Wp-i	ExtPos=AUX|Tense=Pres	4	cop	_	_
+2	‘s	is	AUX	Wp-i	ExtPos=AUX|Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	fixed	_	_
 4	bug	bug	NOUN	Xfe	CleftType=Nom|Foreign=Yes	0	root	_	_
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	nsubj	_	_
@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 csubj:cleft	color:blue
-1	‘s	is	AUX	Wp-i	Tense=Pres	2	cop	_	_
+1	‘s	is	AUX	Wp-i	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	e	e	PRON	Pp3sm	CleftType=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 3	a	a	PART	Q-r	PartType=Vb|PronType=Rel	4	nsubj	_	_
 4	sgrìobh	sgrìobh	VERB	V-s	Mood=Ind|Tense=Past|VerbForm=Fin	2	csubj:cleft	_	_
@@ -59,7 +59,7 @@ The following 14 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 csubj:cleft	color:blue
-1	an	is	AUX	Wpdqa	ExtPos=AUX|Mood=Int|Polarity=Aff|Tense=Pres	3	cop	_	_
+1	an	is	AUX	Wpdqa	ExtPos=AUX|Mood=Int|Polarity=Aff|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 3	[Name]	[Name]	PROPN	Nn	CleftType=Nom|NounType=Prs	0	root	_	Anonymised=Yes
 4	[Name]	[Name]	PROPN	Nn	NounType=Prs	3	flat:name	_	Anonymised=Yes|FlatType=Name

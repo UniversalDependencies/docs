@@ -22,16 +22,16 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 discourse	color:blue
-1	«	«	PUNCT	OPUNCT	_	5	punct	_	PunctType=Quot
-2	Όχι	όχι	INTJ	AdBa	Polarity=Neg	5	discourse	_	_
-3	,	,	PUNCT	PUNCT	_	2	punct	_	PunctType=Comm
-4	έχουν	έχω	AUX	VbMn	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-5	πεθάνει	πεθαίνω	VERB	VbMn	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
-6	και	και	CCONJ	CjCo	_	8	cc	_	_
-7	οι	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	δύο	δύο	NUM	NmCd	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	5	nsubj	_	_
-9	»	»	PUNCT	CPUNCT	_	5	punct	_	PunctType=Quot|SpaceAfter=No
-10	.	.	PUNCT	PTERMP	_	5	punct	_	PunctType=Peri
+1	«	«	PUNCT	_	_	5	punct	_	PunctType=Quot
+2	Όχι	όχι	INTJ	_	Polarity=Neg	5	discourse	_	_
+3	,	,	PUNCT	_	_	2	punct	_	PunctType=Comm
+4	έχουν	έχω	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	πεθάνει	πεθαίνω	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+6	και	και	CCONJ	_	_	8	cc	_	_
+7	οι	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	δύο	δύο	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	5	nsubj	_	_
+9	»	»	PUNCT	_	_	5	punct	_	PunctType=Quot|SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	PunctType=Peri
 
 ~~~
 
@@ -42,19 +42,19 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 2 discourse	color:blue
-1	«	«	PUNCT	OPUNCT	_	9	punct	_	PunctType=Quot
-2	Αλήθεια	αλήθεια	ADV	AdBa	_	9	discourse	_	_
-3	,	,	PUNCT	PUNCT	_	5	punct	_	PunctType=Comm
-4	ρε	ρε	INTJ	Ij	_	5	discourse	_	_
-5	μαμά	μαμά	NOUN	NoCm	Case=Voc|Gender=Fem|Number=Sing	9	vocative	_	_
-6	,	,	PUNCT	PUNCT	_	5	punct	_	PunctType=Comm
-7	τι	τι	ADV	PnIr	_	9	advmod	_	_
-8	τα	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
-9	ήθελες	θέλω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-10	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
-11	ορεκτικά	ορεκτικός	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
-12	;	;	PUNCT	PTERM	_	9	punct	_	PunctType=Qest
-13	»	»	PUNCT	CPUNCT	_	9	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot
+2	Αλήθεια	αλήθεια	ADV	_	_	9	discourse	_	_
+3	,	,	PUNCT	_	_	5	punct	_	PunctType=Comm
+4	ρε	ρε	INTJ	_	_	5	discourse	_	_
+5	μαμά	μαμά	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	9	vocative	_	_
+6	,	,	PUNCT	_	_	5	punct	_	PunctType=Comm
+7	τι	τι	ADV	_	_	9	advmod	_	_
+8	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
+9	ήθελες	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
+11	ορεκτικά	ορεκτικός	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+12	;	;	PUNCT	_	_	9	punct	_	PunctType=Qest
+13	»	»	PUNCT	_	_	9	punct	_	PunctType=Quot
 
 ~~~
 
@@ -65,19 +65,19 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 discourse	color:blue
-1	«	«	PUNCT	OPUNCT	_	9	punct	_	PunctType=Quot
-2	Αλήθεια	αλήθεια	ADV	AdBa	_	9	discourse	_	_
-3	,	,	PUNCT	PUNCT	_	5	punct	_	PunctType=Comm
-4	ρε	ρε	INTJ	Ij	_	5	discourse	_	_
-5	μαμά	μαμά	NOUN	NoCm	Case=Voc|Gender=Fem|Number=Sing	9	vocative	_	_
-6	,	,	PUNCT	PUNCT	_	5	punct	_	PunctType=Comm
-7	τι	τι	ADV	PnIr	_	9	advmod	_	_
-8	τα	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
-9	ήθελες	θέλω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-10	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
-11	ορεκτικά	ορεκτικός	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
-12	;	;	PUNCT	PTERM	_	9	punct	_	PunctType=Qest
-13	»	»	PUNCT	CPUNCT	_	9	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot
+2	Αλήθεια	αλήθεια	ADV	_	_	9	discourse	_	_
+3	,	,	PUNCT	_	_	5	punct	_	PunctType=Comm
+4	ρε	ρε	INTJ	_	_	5	discourse	_	_
+5	μαμά	μαμά	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	9	vocative	_	_
+6	,	,	PUNCT	_	_	5	punct	_	PunctType=Comm
+7	τι	τι	ADV	_	_	9	advmod	_	_
+8	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
+9	ήθελες	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
+11	ορεκτικά	ορεκτικός	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+12	;	;	PUNCT	_	_	9	punct	_	PunctType=Qest
+13	»	»	PUNCT	_	_	9	punct	_	PunctType=Quot
 
 ~~~
 

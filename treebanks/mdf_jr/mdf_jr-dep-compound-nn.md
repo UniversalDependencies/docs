@@ -24,8 +24,8 @@ The following 2 pairs of parts of speech are connected with `compound:nn`: <tt><
 # visual-style 2 1 compound:nn	color:blue
 1	Анна	Анна	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	compound:nn	_	GTtags=Prop,Sg,Nom,Indef
 2	баба	баба	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj:cop	_	GTtags=Sg,Nom,Indef
-3	эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	4	det	_	GTtags=Sg,Nom,Indef
-4	тевс	тев	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	5	nmod	_	GTtags=SP,Ill,Indef
+3	эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	4	det	_	GTtags=Sg,Nom,Indef
+4	тевс	тев	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Ill,Indef
 5	анок	анок	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 

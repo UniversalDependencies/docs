@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	yang	yang	PRON	IN	PronType=Rel	9	nsubj	_	_
 8	lebih	lebih	ADV	RB	_	9	advmod	_	_
 9	tinggi	tinggi	ADJ	JJ	_	4	acl:relcl	_	_
-10	berasal	asal	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+10	berasal	asal	VERB	VB	Voice=Act	0	root	_	_
 11	dari	dari	ADP	IN	_	12	case	_	_
 12	penjualan	jual	NOUN	NN	Number=Sing	10	obl	_	_
 13	obligasi	obligasi	NOUN	NN	Number=Sing	12	nmod	_	_
@@ -56,7 +56,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	nya	nya	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 6	pasokan	pasok	NOUN	NN	Number=Sing	4	nsubj	_	_
 7	gas	gas	NOUN	NN	Number=Sing	6	nmod	_	_
-8	menyebabkan	sebab	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+8	menyebabkan	sebab	VERB	VB	Voice=Act	0	root	_	_
 9	produksi	produksi	NOUN	NN	Number=Sing	12	nsubj	_	_
 10	urea	urea	NOUN	NN	Number=Sing	9	nmod	_	_
 11	tidak	tidak	PART	RP	Polarity=Neg	12	advmod	_	_
@@ -74,14 +74,14 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 11 12 fixed	color:blue
 1	Jajak	jajak	NOUN	NN	Number=Sing	3	nsubj	_	_
 2	pendapat	dapat	NOUN	NN	Number=Sing	1	nmod	_	_
-3	memperlihatkan	lihat	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	memperlihatkan	lihat	VERB	VB	Voice=Act	0	root	_	_
 4	badut	badut	NOUN	NN	Number=Sing	10	nsubj	_	_
 5	itu	itu	DET	DT	PronType=Dem	4	det	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	4	punct	_	_
 7	Tiririca	Tiririca	PROPN	NNP	_	4	appos	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	4	punct	_	_
 9	akan	akan	AUX	MD	_	10	aux	_	_
-10	meraih	raih	VERB	VB	Mood=Ind|Voice=Act	3	ccomp	_	_
+10	meraih	raih	VERB	VB	Voice=Act	3	ccomp	_	_
 11	lebih	lebih	ADJ	JJ	ExtPos=ADV	15	advmod	_	_
 12	dari	dari	SCONJ	IN	_	11	fixed	_	_
 13	satu	satu	NUM	CD	NumType=Card	15	nummod	_	_

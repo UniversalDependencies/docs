@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-30 tokens (0%) have a non-empty value of `Typo`.
-30 types (0%) occur at least once with a non-empty value of `Typo`.
+31 tokens (0%) have a non-empty value of `Typo`.
+31 types (0%) occur at least once with a non-empty value of `Typo`.
 30 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 7 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -26,6 +26,16 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 `Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Typo`.
 
+### `PRON`
+
+6 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5; 83%).
+
+`PRON` tokens may have the following values of `Typo`:
+
+* `Yes` (6; 100% of non-empty `Typo`): <em>на, наж, нами, совою, тол, іебѣ</em>
+
 ### `ADJ`
 
 5 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
@@ -35,16 +45,6 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 `ADJ` tokens may have the following values of `Typo`:
 
 * `Yes` (5; 100% of non-empty `Typo`): <em>Вкакасиискиа, Пречистные, великии, началном, провожаты</em>
-
-### `PRON`
-
-5 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="orv_rnc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4; 80%).
-
-`PRON` tokens may have the following values of `Typo`:
-
-* `Yes` (5; 100% of non-empty `Typo`): <em>на, наж, совою, тол, іебѣ</em>
 
 ### `DET`
 

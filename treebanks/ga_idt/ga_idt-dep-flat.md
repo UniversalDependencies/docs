@@ -9,12 +9,33 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="ga_idt-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="ga_idt-dep-flat-name.html">flat:name</a></tt>.
 
-223 nodes (0%) are attached to their parents as `flat`.
+291 nodes (0%) are attached to their parents as `flat`.
 
-223 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.39013452914798.
+291 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.3573883161512.
 
-The following 15 pairs of parts of speech are connected with `flat`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (52; 23% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (46; 21% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (32; 14% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (31; 14% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (19; 9% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (17; 8% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (12; 5% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `flat`: <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (92; 32% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (55; 19% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (44; 15% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (31; 11% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (19; 7% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (17; 6% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (12; 4% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat	color:blue
+1	Níor	níor	PART	Vb	PartType=Vb|Polarity=Neg|Tense=Past	2	advmod	_	_
+2	rith	rith	VERB	VTI	Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
+3	Storm	Storm	PROPN	Noun	Case=Nom|Definite=Def|Foreign=Yes|Number=Sing	2	nsubj	_	NamedEntity=Yes
+4	Alert	Alert	PROPN	Noun	Case=Nom|Definite=Def|Foreign=Yes|Number=Sing	3	flat	_	NamedEntity=Yes
+5	ag	ag	ADP	Simp	_	6	case	_	_
+6	Ascot	Ascot	PROPN	Noun	Case=Nom|Definite=Def|Number=Sing	2	obl	_	_
+7	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
+8	tseachain	seachtain	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	2	obl:tmod	_	_
+9	seo	seo	DET	Det	PronType=Dem	8	det	_	_
+10	caite	caite	ADJ	Adj	VerbForm=Part	9	fixed	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -51,29 +72,6 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 5	Bealtaine	Bealtaine	PROPN	Noun	Definite=Def|Gender=Fem|Number=Sing	4	flat	_	NamedEntity=Yes
 6	1986	1986	NUM	Num	_	4	flat	_	NamedEntity=Yes|SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 flat	color:blue
-1	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-2	moladh	moladh	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	saothraithe	saothraithe	ADJ	Adj	VerbForm=Part	1	xcomp:pred	_	_
-4	ag	ag	ADP	Simp	_	6	case	_	_
-5	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
-6	Uasal	uasal	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	3	obl	_	NamedEntity=Yes
-7	Maskey	Maskey	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	6	flat	_	NamedEntity=Yes
-8	ó	ó	ADP	Simp	_	10	case	_	_
-9	gach	gach	DET	Det	Definite=Def	10	det	_	_
-10	taobh	taobh	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-11	den	de	ADP	Art	Number=Sing|PronType=Art	12	case	_	_
-12	phobal	pobal	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

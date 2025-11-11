@@ -78,12 +78,12 @@ The most frequent other feature values with which `DET` and `NumForm` co-occurre
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="en_ewt-dep-list.html">list</a></tt>]--> NUM</tt> (207; 100%),
+<tt>NUM --[<tt><a href="en_ewt-dep-list.html">list</a></tt>]--> NUM</tt> (210; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (149; 99%),
 <tt>NUM --[<tt><a href="en_ewt-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (96; 100%),
-<tt>NUM --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> NUM</tt> (79; 98%),
-<tt>NUM --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NUM</tt> (68; 97%),
-<tt>NUM --[<tt><a href="en_ewt-dep-appos.html">appos</a></tt>]--> NUM</tt> (11; 85%),
+<tt>NUM --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> NUM</tt> (82; 98%),
+<tt>NUM --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NUM</tt> (71; 97%),
+<tt>NUM --[<tt><a href="en_ewt-dep-appos.html">appos</a></tt>]--> NUM</tt> (10; 83%),
 <tt>NOUN --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (6; 60%),
 <tt>NUM --[<tt><a href="en_ewt-dep-acl-relcl.html">acl:relcl</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-obl.html">obl</a></tt>]--> NUM</tt> (2; 100%),

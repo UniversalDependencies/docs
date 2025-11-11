@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_taiga-dep-flat.html">flat</a></tt>.
 There are also 2 other language-specific subtypes of `flat`: <tt><a href="ru_taiga-dep-flat-goeswith.html">flat:goeswith</a></tt>, <tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>.
 
-1264 nodes (0%) are attached to their parents as `flat:foreign`.
+1267 nodes (0%) are attached to their parents as `flat:foreign`.
 
-1264 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.96518987341772.
+1267 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.96053670086819.
 
-The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1254; 99% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1257; 99% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-X.html">X</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -70,7 +70,7 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 25	понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	parataxis	_	_
 26	подскажите	подсказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	25	parataxis	_	_
 27	за	за	ADP	_	_	28	case	_	_
-28	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	37	obl	_	_
+28	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	37	obl:tmod	_	_
 29	2013	2013	ADJ	_	NumForm=Digit|NumType=Ord	28	amod	_	SpaceAfter=No
 30	-	-	PUNCT	_	_	31	punct	_	SpaceAfter=No
 31	2020	2020	ADJ	_	NumForm=Digit|NumType=Ord	29	nmod	_	_

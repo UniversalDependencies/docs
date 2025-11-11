@@ -22,17 +22,17 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj:pass	color:blue
-1	Συνεπώς	συνεπής	ADV	AdBa	_	3	advmod	_	_
-2	,	,	PUNCT	PUNCT	_	3	punct	_	PunctType=Comm
-3	αποκλείεται	αποκλείω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-4	να	να	SCONJ	PtSj	_	5	mark	_	_
-5	παίζεται	παίζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	csubj:pass	_	_
-6	βρόμικο	βρόμικος	ADJ	AjBa	Case=Nom|Gender=Neut|Number=Sing	7	amod	_	_
-7	παιχνίδι	παιχνίδι	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
-8	με	με	ADP	AsPpSp	_	10	case	_	_
-9	την	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	ασφάλεια	ασφάλεια	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
+1	Συνεπώς	συνεπής	ADV	_	_	3	advmod	_	_
+2	,	,	PUNCT	_	_	3	punct	_	PunctType=Comm
+3	αποκλείεται	αποκλείω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	να	να	SCONJ	_	_	5	mark	_	_
+5	παίζεται	παίζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	csubj:pass	_	_
+6	βρόμικο	βρόμικος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	7	amod	_	_
+7	παιχνίδι	παιχνίδι	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+8	με	με	ADP	_	_	10	case	_	_
+9	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ασφάλεια	ασφάλεια	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	PunctType=Peri
 
 ~~~
 

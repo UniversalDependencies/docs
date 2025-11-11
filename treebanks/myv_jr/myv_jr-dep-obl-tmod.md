@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 1 obl:tmod	color:blue
 1	Читькак	чить	NOUN	Adv	AdvType=Tim|Case=Nom|Clitic=Add|Definite=Ind|Number=Plur	2	obl:tmod	_	GTtags=Sem/Time,Clt/Gak
-2	лиснить	лиснемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScPl3|SpaceAfter=No
+2	лиснить	лиснемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prs,ScPl3|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	8	punct	_	_
 4	но	но	PART	Pcle	_	8	cc	_	_
 5	сехте	сех	ADV	Adv	Case=Abl|Definite=Ind|Degree=Sup	6	advmod	_	GTtags=Degree=Sup,Abl,Indef

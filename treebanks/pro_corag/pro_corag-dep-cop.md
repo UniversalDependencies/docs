@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of cop in UD_Occitan-CorAG'
+title:  'Statistics of cop in UD_Old_Occitan-CorAG'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Occitan-CorAG: Relations: `cop`
+## Treebank Statistics: UD_Old_Occitan-CorAG: Relations: `cop`
 
 This relation is universal.
 
-216 nodes (1%) are attached to their parents as `cop`.
+247 nodes (1%) are attached to their parents as `cop`.
 
-167 instances of `cop` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39351851851852.
+188 instances of `cop` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.42105263157895.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="oc_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oc_corag-pos-AUX.html">AUX</a></tt> (115; 53% instances), <tt><a href="oc_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oc_corag-pos-AUX.html">AUX</a></tt> (76; 35% instances), <tt><a href="oc_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="oc_corag-pos-AUX.html">AUX</a></tt> (21; 10% instances), <tt><a href="oc_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="oc_corag-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-AUX.html">AUX</a></tt> (2; 1% instances).
+The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (139; 56% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (80; 32% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (26; 11% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -39,17 +39,28 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 cop	color:blue
-1	quar	_	CCONJ	_	_	3	cc	_	_
-2	fut	_	AUX	_	_	3	cop	_	_
-3	malaus	_	ADJ	_	_	0	root	_	_
-4	continuadament	_	ADV	_	_	3	advmod	_	_
-5	enpres	_	ADV	_	_	3	advmod	_	SpaceAfter=No
-6	;	_	PUNCT	_	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cop	color:blue
+1	et	_	CCONJ	_	_	9	cc	_	_
+2	si	_	SCONJ	_	_	4	mark	_	_
+3	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	4	cop	_	_
+4	mort	_	ADJ	_	_	9	advcl	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	que	_	SCONJ	_	_	9	mark	_	_
+7	lo	_	DET	_	_	8	det	_	_
+8	senhor	_	NOUN	_	_	9	nsubj	_	_
+9	doni	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	ades	_	ADV	_	_	9	advmod	_	_
+11	die	_	NOUN	_	_	9	obj	_	_
+12	de	_	ADP	_	_	13	case	_	_
+13	cort	_	NOUN	_	_	11	nmod	_	_
+14	de-	_	ADP	_	_	16	case	_	_
+15	-lo	_	DET	_	_	16	det	_	_
+16	vic	_	NOUN	_	_	13	nmod	_	SpaceAfter=No
+17	;	_	PUNCT	_	_	9	punct	_	_
 
 ~~~
 
@@ -65,8 +76,8 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 3	maneyra	_	NOUN	_	_	7	nsubj	_	_
 4	de	_	ADP	_	_	5	case	_	_
 5	alienation	_	NOUN	_	_	3	nmod	_	_
-6	fut	_	AUX	_	_	7	cop	_	_
-7	questa	_	PRON	_	_	0	root	_	SpaceAfter=No
+6	fut	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	7	cop	_	_
+7	questa	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	0	root	_	SpaceAfter=No
 8	:	_	PUNCT	_	_	7	punct	_	_
 
 ~~~

@@ -28,7 +28,7 @@ The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a
 3	de	de	ADP	Sp	_	5	case	_	_
 4	an	an	DET	Tds	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	chlas	clas	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	_
-6	gur	is	AUX	Wpdia	ExtPos=AUX|Polarity=Aff|Tense=Pres	8	cop	_	_
+6	gur	is	AUX	Wpdia	ExtPos=AUX|Mood=Ind|Polarity=Aff|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	fixed	_	_
 8	uncle	uncle	NOUN	Xfe	Foreign=Yes	1	ccomp	_	_
 9	do	do	ADP	Sp	_	10	case	_	_

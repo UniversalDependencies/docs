@@ -9,12 +9,47 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="en_childes-dep-compound-prt.html">compound:prt</a></tt>.
 
-2081 nodes (1%) are attached to their parents as `compound`.
+2932 nodes (1%) are attached to their parents as `compound`.
 
-1917 instances of `compound` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.0446900528592.
+2700 instances of `compound` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04160982264666.
 
-The following 31 pairs of parts of speech are connected with `compound`: <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1586; 76% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (119; 6% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (87; 4% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (85; 4% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (63; 3% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (24; 1% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (21; 1% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 38 pairs of parts of speech are connected with `compound`: <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (2181; 74% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (162; 6% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (109; 4% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (98; 3% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (92; 3% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (83; 3% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (49; 2% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (23; 1% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (19; 1% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-ADP.html">ADP</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NUM.html">NUM</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 compound	color:blue
+1	Mom	mom	NOUN	NN	_	3	vocative	3:vocative	_
+2	here	here	ADV	RB	_	3	reparandum	3:reparandum	repetition
+3	here	here	ADV	RB	_	0	root	0:root	_
+4	's	be	AUX	VBZ	_	3	cop	3:cop	_
+5	the	the	DET	DT	_	7	det	7:det	_
+6	paint	paint	NOUN	NN	_	7	compound	7:compound	_
+7	things	thing	NOUN	NNS	_	3	nsubj	3:nsubj	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 compound	color:blue
+1	Wan	want	VERB	VBP	_	0	root	0:root	_
+2	na	to	PART	TO	_	3	mark	3:mark	_
+3	go	go	VERB	VB	_	1	xcomp	1:xcomp	_
+4	get	get	VERB	VB	_	3	compound	3:compound	_
+5	your	you	PRON	PRP$	_	6	nmod:poss	6:nmod:poss	_
+6	cards	card	NOUN	NNS	_	4	obj	4:obj	SpaceAfter=No
+7	?	?	PUNCT	?	_	1	punct	1:punct	_
+
+~~~
 
 
 ~~~ conllu
@@ -23,43 +58,11 @@ The following 31 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound	color:blue
-1	Dat	that	ADP	IN	_	4	nsubj	4:nsubj	_
-2	a	a	DET	DT	_	4	det	4:det	_
-3	bunny	bunny	NOUN	NN	_	4	compound	4:compound	_
-4	rabbit	rabbit	NOUN	NN	_	0	root	0:root	SpaceAfter=No
-5	.	.	PUNCT	.	_	4	punct	4:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 compound	color:blue
-1	Go	go	VERB	VB	_	0	root	0:root	_
-2	get	get	VERB	VB	_	1	compound	1:compound	_
-3	it	it	PRON	PRP	_	2	obj	2:obj	_
-4	all	all	DET	DT	_	3	det	3:det	SpaceAfter=No
-5	.	.	PUNCT	.	_	1	punct	1:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 compound	color:blue
-1	Daddy	Daddy	PROPN	NNP	_	4	vocative	4:vocative	_
-2	can	can	AUX	MD	_	4	aux	4:aux	_
-3	I	I	PRON	PRP	_	4	nsubj	4:nsubj	_
-4	wear	wear	VERB	VB	_	0	root	0:root	_
-5	bluejean	bluejean	ADJ	JJ	_	6	compound	6:compound	_
-6	shorts	short	NOUN	NNS	_	4	obj	4:obj	SpaceAfter=No
-7	?	?	PUNCT	?	_	4	punct	4:punct	_
+1	We	we	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	got	get	VERB	VBD	_	0	root	0:root	_
+3	Christmas	Christmas	PROPN	NNP	_	4	compound	4:compound	_
+4	packages	package	NOUN	NNS	_	2	obj	2:obj	SpaceAfter=No
+5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

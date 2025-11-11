@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Cmp`, `Sup`.
 
-2 tokens (0%) have a non-empty value of `Degree`.
-2 types (0%) occur at least once with a non-empty value of `Degree`.
-2 lemmas (0%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+3 tokens (0%) have a non-empty value of `Degree`.
+3 types (0%) occur at least once with a non-empty value of `Degree`.
+3 lemmas (0%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 ### `ADV`
 
-2 <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Degree`.
+3 <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (1; 50% of non-empty `Degree`): <em>daha</em>
-* `Sup` (1; 50% of non-empty `Degree`): <em>en</em>
-* `EMPTY` (406): <em>baʿdehu, yine, ḥattâ, hemân, pes, bile, egerçi, elbette, evvelâ, hep</em>
+* `Cmp` (2; 67% of non-empty `Degree`): <em>daha, daḫı</em>
+* `Sup` (1; 33% of non-empty `Degree`): <em>en</em>
+* `EMPTY` (714): <em>baʿdehu, yine, ḥattâ, pes, hemân, bile, nâ-gâh, andan, hep, ziyâde</em>
 

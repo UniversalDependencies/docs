@@ -22,15 +22,15 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	Galileo	_	PROPN	_	_	5	nsubj	_	_
-2	Galilei	_	PROPN	_	_	1	flat:name	_	_
-3	inggih	_	AUX	_	ExtPos=ADP|Polite=Form	5	case	_	_
-4	punika	_	DET	_	Polite=Form|PronType=Dem	3	fixed	_	_
-5	bapak	_	NOUN	_	Number=Sing	0	root	_	_
-6	ageng	_	ADJ	_	Polite=Form	5	amod	_	_
-7	ing	_	ADP	_	Polite=Infm	8	case	_	_
-8	hidrostatika	_	X	_	Foreign=Yes	5	nmod	_	SpaceAfter=No
-9	.	_	PUNCT	_	_	5	punct	_	_
+1	Galileo	galileo	PROPN	_	_	5	nsubj	_	_
+2	Galilei	galilei	PROPN	_	_	1	flat:name	_	_
+3	inggih	inggih	AUX	_	ExtPos=ADP|Polite=Form	5	case	_	_
+4	punika	punika	DET	_	Polite=Form|PronType=Dem	3	fixed	_	_
+5	bapak	bapak	NOUN	_	Number=Sing	0	root	_	_
+6	ageng	ageng	ADJ	_	Polite=Form	5	amod	_	_
+7	ing	ing	ADP	_	Polite=Infm	8	case	_	_
+8	hidrostatika	hidrostatika	X	_	Foreign=Yes	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -41,15 +41,15 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Kena	_	ADV	_	ExtPos=ADV|PronType=Int	5	advmod	_	_
-2	ngapa	_	PRON	_	Polite=Infm|PronType=Int	1	fixed	_	_
-3	Simbah	_	NOUN	_	Number=Sing	5	nsubj	_	_
-4	kok	_	ADV	_	Polite=Infm|PronType=Int	5	advmod	_	_
-5	tega	_	ADJ	_	_	0	root	_	_
-6	lunga	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	5	xcomp	_	_
-7	ninggalake	_	VERB	_	Mood=Ind|Voice=Act	5	xcomp	_	_
-8	aku	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	7	obj	_	SpaceAfter=No
-9	?	_	PUNCT	_	_	5	punct	_	SpacesAfter=\n
+1	Kena	kena	ADV	_	ExtPos=ADV|PronType=Int	5	advmod	_	_
+2	ngapa	apa	PRON	_	Polite=Infm|PronType=Int	1	fixed	_	_
+3	Simbah	simbah	NOUN	_	Number=Sing	5	nsubj	_	_
+4	kok	kok	ADV	_	Polite=Infm|PronType=Int	5	advmod	_	_
+5	tega	tega	ADJ	_	_	0	root	_	_
+6	lunga	lunga	VERB	_	Polite=Infm|Voice=Act	5	xcomp	_	_
+7	ninggalake	tinggal	VERB	_	Voice=Act	5	xcomp	_	_
+8	aku	aku	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	7	obj	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	5	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -60,17 +60,17 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	Wabah	_	NOUN	_	Number=Sing	8	nsubj	_	_
-2	Covid-19	_	PROPN	_	_	1	nmod	_	_
-3	ing	_	ADP	_	Polite=Infm	4	case	_	_
-4	taun	_	NOUN	_	Number=Sing	1	nmod	_	_
-5	2021	_	NUM	_	NumType=Card	4	nummod	_	_
-6	kaya	_	ADP	_	ExtPos=ADP|Polite=Infm	8	case	_	_
-7	dene	_	ADP	_	_	6	fixed	_	_
-8	pageblug	_	NOUN	_	Number=Sing	0	root	_	_
-9	kang	_	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
-10	saknyatane	_	ADJ	_	_	8	acl:relcl	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	8	punct	_	SpacesAfter=\n
+1	Wabah	wabah	NOUN	_	Number=Sing	8	nsubj	_	_
+2	Covid-19	covid-19	PROPN	_	_	1	nmod	_	_
+3	ing	ing	ADP	_	Polite=Infm	4	case	_	_
+4	taun	taun	NOUN	_	Number=Sing	1	nmod	_	_
+5	2021	2021	NUM	_	NumType=Card	4	nummod	_	_
+6	kaya	kaya	ADP	_	ExtPos=ADP|Polite=Infm	8	case	_	_
+7	dene	dene	ADP	_	_	6	fixed	_	_
+8	pageblug	pageblug	NOUN	_	Number=Sing	0	root	_	_
+9	kang	kang	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
+10	saknyatane	nyata	ADJ	_	_	8	acl:relcl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n
 
 ~~~
 

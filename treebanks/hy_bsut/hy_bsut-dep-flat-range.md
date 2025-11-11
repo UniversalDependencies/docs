@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-BSUT: Relations: `flat:range`
 
 This relation is a language-specific subtype of <tt><a href="hy_bsut-dep-flat.html">flat</a></tt>.
-There are also 2 other language-specific subtypes of `flat`: <tt><a href="hy_bsut-dep-flat-dist.html">flat:dist</a></tt>, <tt><a href="hy_bsut-dep-flat-name.html">flat:name</a></tt>.
+There are also 3 other language-specific subtypes of `flat`: <tt><a href="hy_bsut-dep-flat-dist.html">flat:dist</a></tt>, <tt><a href="hy_bsut-dep-flat-frac.html">flat:frac</a></tt>, <tt><a href="hy_bsut-dep-flat-name.html">flat:name</a></tt>.
 
-60 nodes (0%) are attached to their parents as `flat:range`.
+56 nodes (0%) are attached to their parents as `flat:range`.
 
-60 instances of `flat:range` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.33333333333333.
+56 instances of `flat:range` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.55357142857143.
 
-The following 6 pairs of parts of speech are connected with `flat:range`: <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (46; 77% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 3% instances).
+The following 5 pairs of parts of speech are connected with `flat:range`: <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (47; 84% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `flat:range`: <tt><a
 6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 7	338	338	NUM	_	NumForm=Digit|NumType=Card	5	flat:range	_	Translit=338|LTranslit=338
 8	թթ	թթ.	NOUN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	3	obl	_	Translit=t’t’|LTranslit=t’t’.|SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.|SpaceAfter=No
+9	.	.	PUNCT	_	Foreign=Yes	8	punct	_	Translit=.|LTranslit=.|SpaceAfter=No
 10	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -63,19 +63,26 @@ The following 6 pairs of parts of speech are connected with `flat:range`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 flat:range	color:blue
-1	Ռուս	ռուս	ADJ	_	Hyph=Yes	4	amod	_	Translit=Ṙows|LTranslit=ṙows|SpaceAfter=No
-2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-3	ուկրաինական	ուկրաինական	ADJ	_	NameType=Geo	1	flat:range	_	Translit=owkrainakan|LTranslit=owkrainakan
-4	պատերազմն	պատերազմ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Translit=paterazmn|LTranslit=paterazm
-5	ամբողջովին	ամբողջովին	ADV	_	_	6	advmod	_	Translit=amboġǰovin|LTranslit=amboġǰovin
-6	փոխեց	փոխել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=p’oxec’|LTranslit=p’oxel
-7	կյանքը	կյանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	obj	_	Translit=kyank’ë|LTranslit=kyank’|SpaceAfter=No
-8	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 flat:range	color:blue
+1	Ելնելով	ելնել	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	15	obl	_	Translit=Elnelov|LTranslit=elnel
+2	վերոգրյալից	վերոգրյալ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	1	obl	_	Translit=verogryalic’|LTranslit=verogryal
+3	և	և	CCONJ	_	_	4	cc	_	Translit=ew|LTranslit=ew
+4	ղեկավարվելով	ղեկավարվել	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	1	conj	_	Translit=ġekavarvelov|LTranslit=ġekavarvel
+5	ՀՀ	ՀՀ	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	8	nmod	_	Translit=HH|LTranslit=HH
+6	քաղաքացիական	քաղաքացիական	ADJ	_	_	7	amod	_	Translit=k’aġak’ac’iakan|LTranslit=k’aġak’ac’iakan
+7	դատավարության	դատավարություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	8	nmod:poss	_	Translit=datavarowt’yan|LTranslit=datavarowt’yown
+8	օրենսգրքի	օրենսգիրք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	12	nmod:poss	_	Translit=òrensgrk’i|LTranslit=òrensgirk’
+9	240	240	NUM	_	NumForm=Digit|NumType=Card	12	amod	_	Translit=240|LTranslit=240|SpaceAfter=No
+10	-	-	PUNCT	_	_	11	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+11	241.2-րդ	241.2-րդ	ADJ	_	NumForm=Combi|NumType=Ord	9	flat:range	_	Translit=241.2-rd|LTranslit=241.2-rd
+12	հոդվածներով	հոդված	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	4	obl	_	Translit=hodvaçnerov|LTranslit=hodvaç|SpaceAfter=No
+13	`	`	PUNCT	_	Foreign=Yes	15	punct	_	Translit=,|LTranslit=,
+14	Վճռաբեկ	վճռաբեկ	ADJ	_	_	15	amod	_	Translit=Vč̣ṙabek|LTranslit=vč̣ṙabek
+15	դատարանը	դատարան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=dataranë|LTranslit=dataran
 
 ~~~
 

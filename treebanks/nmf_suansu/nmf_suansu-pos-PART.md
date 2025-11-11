@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Naga-Suansu: POS Tags: `PART`
 
 There are 9 `PART` lemmas (1%), 14 `PART` types (1%) and 50 `PART` tokens (2%).
-Out of 16 observed tags, the rank of `PART` is: 14 in number of lemmas, 12 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 13 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>re, garhe, reha, khama, gala, dinan, la, lagu, zahai</em>
 
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>re</em> (<tt><a href="nmf_suansu-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.555556 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `PART` is 1.555556 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (6) was observed with the lemma “re”: <em>re, reganan, reha, rehate, rema, remale</em>.
 

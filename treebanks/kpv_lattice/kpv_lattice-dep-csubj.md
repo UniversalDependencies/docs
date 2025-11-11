@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3 8 csubj	color:blue
 1	Колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl	_	OrigLang=ru
 2	ӧні	ӧні	ADV	Adv	_	3	advmod	_	_
-3	мунӧ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	мунӧ	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	_
 5	воӧм	воны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	_
 6	озыр	озыр	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	Пукавны	пукавны	VERB	V	VerbForm=Inf	5	csubj	_	_
 2	вадорын	вадор	NOUN	N	Case=Ine|Number=Sing	1	obl	_	_
 3	водзӧ	водз	ADV	Adv	Case=Ill	5	advmod	_	_
-4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+4	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 5	весьшӧрӧ	весьшӧрӧ	ADV	Adv	Case=Ill	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -60,9 +60,9 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6 2 csubj	color:blue
 1	Латвияса	Латвия	PROPN	N	Case=Loc|Number=Sing	2	nmod	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Der,Der/LocMod,A,Nom
 2	му	му	NOUN	N	Case=Nom|Number=Sing	6	csubj	_	GTtags=Sg,Nom
-3	нинӧмӧн	нинӧм	PRON	Pron	Case=Ins|Number=Sing|Polarity=Neg	6	obl	_	GTtags=Neg,Sg,Ins
+3	нинӧмӧн	нинӧм	PRON	Pron	Case=Ins|Number=Sing|Polarity=Neg|PronType=Ind	6	obl	_	GTtags=Neg,Sg,Ins
 4	ёнасӧ	ёна	ADV	Adv	Clitic=So	6	advmod	_	GTtags=Clt/сӧ
-5	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	GTtags=Neg,Ind,Prs,Sg3
+5	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	GTtags=Neg,Ind,Prs,Sg3
 6	торъяв	торъявны	VERB	V	Connegative=Yes	0	root	_	GTtags=IV,ConNeg
 7	Литваысь	Литва	NOUN	N	Case=Ela|Number=Sing	6	obl	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Ela|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	_

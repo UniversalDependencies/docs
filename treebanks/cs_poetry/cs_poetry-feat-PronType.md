@@ -9,26 +9,25 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-819 tokens (13%) have a non-empty value of `PronType`.
-226 types (8%) occur at least once with a non-empty value of `PronType`.
-63 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (378; 6% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (287; 5% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (154; 2% instances).
+824 tokens (13%) have a non-empty value of `PronType`.
+230 types (9%) occur at least once with a non-empty value of `PronType`.
+67 lemmas (4%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (381; 6% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (289; 5% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (154; 2% instances).
 
 ### `PRON`
 
-378 <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `PronType`.
+381 <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (316; 84%), <tt><a href="cs_poetry-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (269; 71%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (268; 71%), <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (256; 68%), <tt><a href="cs_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (220; 58%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (207; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (318; 83%), <tt><a href="cs_poetry-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (271; 71%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (270; 71%), <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (259; 68%), <tt><a href="cs_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (223; 59%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (209; 55%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (4; 1% of non-empty `PronType`): <em>cosi, kdo, něco, číms</em>
 * `Int` (11; 3% of non-empty `PronType`): <em>co, Kdo, Komu</em>
 * `Neg` (4; 1% of non-empty `PronType`): <em>nikdo, Nic</em>
-* `Prs` (294; 78% of non-empty `PronType`): <em>se, mi, si, já, ty, tě, tobě, mu, jí, nás</em>
+* `Prs` (297; 78% of non-empty `PronType`): <em>se, mi, si, já, ty, tě, tobě, mu, jí, nás</em>
 * `Rel` (61; 16% of non-empty `PronType`): <em>jež, jenž, co, níž, jimž, již, kdo, nimž, němž, něž</em>
 * `Tot` (4; 1% of non-empty `PronType`): <em>všecko, všecka, všecky</em>
-* `EMPTY` (3): <em>Ego, naň, te</em>
 
 <table>
   <tr><th>Paradigm <i>kdo</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -38,21 +37,20 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-287 <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `PronType`.
+289 <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (236; 82%), <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (224; 78%), <tt><a href="cs_poetry-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (210; 73%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (207; 72%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 62%), <tt><a href="cs_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (148; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (238; 82%), <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (226; 78%), <tt><a href="cs_poetry-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (212; 73%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (209; 72%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 62%), <tt><a href="cs_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (150; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (88; 31% of non-empty `PronType`): <em>to, ty, ta, ten, té, ti, tom, těm, tolik, tolika</em>
+* `Dem` (88; 30% of non-empty `PronType`): <em>to, ty, ta, ten, té, ti, tom, těm, tolik, tolika</em>
 * `Emp` (7; 2% of non-empty `PronType`): <em>sám, Samo, samém, samý</em>
-* `Ind` (3; 1% of non-empty `PronType`): <em>tolika, nějaké</em>
+* `Ind` (5; 2% of non-empty `PronType`): <em>tolika, málo, nějaké, více</em>
 * `Int` (4; 1% of non-empty `PronType`): <em>Kteří, jakou, jaké, kolik</em>
 * `Neg` (4; 1% of non-empty `PronType`): <em>žádné, žádný</em>
 * `Prs` (139; 48% of non-empty `PronType`): <em>jeho, své, tvé, náš, jejich, svých, moje, svou, jich, svůj</em>
 * `Rel` (11; 4% of non-empty `PronType`): <em>která, které, jehožto, jejichž, jichž, který, kteří</em>
 * `Tot` (31; 11% of non-empty `PronType`): <em>každý, vše, všechny, všem, vším, každou, všech, všechna, všechno, každé</em>
-* `EMPTY` (2): <em>málo, více</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -106,5 +104,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>ADV --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
-<tt>DET --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_poetry-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs_poetry-dep-compound.html">compound</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs_poetry-dep-flat.html">flat</a></tt>]--> PRON</tt> (1; 100%).
 

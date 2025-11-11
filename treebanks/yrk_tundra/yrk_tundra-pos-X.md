@@ -6,47 +6,47 @@ udver: '2'
 
 ## Treebank Statistics: UD_Nenets-Tundra: POS Tags: `X`
 
-There are 4 `X` lemmas (2%), 4 `X` types (2%) and 38 `X` tokens (6%).
-Out of 12 observed tags, the rank of `X` is: 9 in number of lemmas, 9 in number of types and 6 in number of tokens.
+There are 3 `X` lemmas (1%), 4 `X` types (1%) and 41 `X` tokens (3%).
+Out of 12 observed tags, the rank of `X` is: 12 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em><s_p>, <b_p>, X, тодоʼ</em>
+The 10 most frequent `X` lemmas: <em><p>, X, <d></em>
 
-The 10 most frequent `X` types:  <em><s_p>, <b_p>, xxx, тодоʼ</em>
+The 10 most frequent `X` types:  <em><p>, <d>, <f>тивы, <un>?хан?</em>
 
-The 10 most frequent ambiguous lemmas: <em><s_p></em> (<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 47, <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 21, <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 1), <em><b_p></em> (<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 68, <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 15, <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em><p></em> (<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 205, <tt><a href="yrk_tundra-pos-INTJ.html">INTJ</a></tt> 52, <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 38, <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 2), <em>X</em> (<tt><a href="yrk_tundra-pos-X.html">X</a></tt> 2, <tt><a href="yrk_tundra-pos-INTJ.html">INTJ</a></tt> 1), <em><d></em> (<tt><a href="yrk_tundra-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em><s_p></em> (<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 47, <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 21, <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 1), <em><b_p></em> (<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 68, <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 15, <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 2)
+The 10 most frequent ambiguous types:  <em><p></em> (<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 205, <tt><a href="yrk_tundra-pos-INTJ.html">INTJ</a></tt> 52, <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 38, <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 2), <em><d></em> (<tt><a href="yrk_tundra-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 1)
 
 
-* <em><s_p></em>
-  * <tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 47: <em><s_p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <b><s_p></b> сюртев <b_p></em>
-  * <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 21: <em><b><s_p></b> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <s_p> сюртев <b_p></em>
-  * <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 1: <em>лабята <b><s_p></b> яхамʼ тяханяюʼ мадаваˮ <b_p></em>
-* <em><b_p></em>
-  * <tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 68: <em><s_p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <s_p> сюртев <b><b_p></b></em>
-  * <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 15: <em>пямʼ сятаняӈы хэвувна -да махаʼняю <b><b_p></b> яляʼ серʼ сюртев <s_p></em>
-  * <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 2: <em>яхаʼ лаӈгʼ маханяӈы тирмана -нда <b><b_p></b> тасиʼ хаˮавраваˮ <s_p></em>
+* <em><p></em>
+  * <tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> 205: <em><p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <b><p></b> сюртев <b><p></b></em>
+  * <tt><a href="yrk_tundra-pos-INTJ.html">INTJ</a></tt> 52: <em>ӈопой ӈодямʼ нянда пуд <b><p></b> хасава <b><p></b> сепа мюʼ маˮламбида <p></em>
+  * <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 38: <em><b><p></b> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <p> сюртев <p></em>
+  * <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> 2: <em>лабята <b><p></b> яхамʼ тяханяюʼ мадаваˮ <p></em>
+* <em><d></em>
+  * <tt><a href="yrk_tundra-pos-INTJ.html">INTJ</a></tt> 3: <em>марядʼ <b><d></b> <pr>маря<un> <er>марядʼ мюня нудмʼ</em>
+  * <tt><a href="yrk_tundra-pos-X.html">X</a></tt> 1: <em>маханяӈы хэвувнанда хаямаʼ <n> ядувнанда <b><d></b> харданда пя ядувна тюˮуʼ танэйвˮ <p></em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.567901).
+The form / lemma ratio of `X` is 1.333333 (the average of all parts of speech is 1.619469).
 
-The 1st highest number of forms (1) was observed with the lemma “<b_p>”: <em><b_p></em>.
+The 1st highest number of forms (2) was observed with the lemma “X”: <em><f>тивы, <un>?хан?</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “<s_p>”: <em><s_p></em>.
+The 2nd highest number of forms (1) was observed with the lemma “<d>”: <em><d></em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “X”: <em>xxx</em>.
+The 3rd highest number of forms (1) was observed with the lemma “<p>”: <em><p></em>.
 
 `X` does not occur with any features.
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 3 different relations: <tt><a href="yrk_tundra-dep-discourse.html">discourse</a></tt> (36; 95% instances), <tt><a href="yrk_tundra-dep-obl-arg.html">obl:arg</a></tt> (1; 3% instances), <tt><a href="yrk_tundra-dep-orphan.html">orphan</a></tt> (1; 3% instances)
+`X` nodes are attached to their parents using 2 different relations: <tt><a href="yrk_tundra-dep-discourse.html">discourse</a></tt> (40; 98% instances), <tt><a href="yrk_tundra-dep-reparandum.html">reparandum</a></tt> (1; 2% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (23; 61% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (8; 21% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (4; 11% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 3% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (19; 46% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (11; 27% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (6; 15% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (1; 2% instances)
 
-38 (100%) `X` nodes are leaves.
+41 (100%) `X` nodes are leaves.
 
 The highest child degree of a `X` node is 0.
 

@@ -24,10 +24,10 @@ The following 5 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 4 expl:subj	color:blue
 1	Comment	comment	ADV	_	PronType=Int	5	advmod	_	_
-2	Angiox	Angiox	PROPN	_	_	5	nsubj:pass	_	_
+2	Angiox	Angiox	PROPN	_	_	5	nsubj:pass	_	Gender[lex]=Unknown
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	SpaceAfter=No
 4	-il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
-5	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -39,18 +39,18 @@ The following 5 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 expl:subj	color:blue
-1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_
+1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	nécessaire	nécessaire	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Masc
 4	d'	de	ADP	_	_	5	mark	_	SpaceAfter=No
 5	augmenter	augmenter	VERB	_	VerbForm=Inf	3	csubj	_	Subject=Generic
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	dotation	dotation	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+7	dotation	dotation	NOUN	_	Number=Sing	5	obj	_	Gender[lex]=Fem
 8	et	et	CCONJ	_	_	10	cc	_	_
 9	de	de	ADP	_	_	10	mark	_	_
 10	créer	créer	VERB	_	VerbForm=Inf	5	conj	_	Subject=Generic
 11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	poste	poste	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
+12	poste	poste	NOUN	_	Number=Sing	10	obj	_	Gender[lex]=Masc
 13	budgétaire	budgétaire	ADJ	_	Number=Sing	12	amod	_	Gender[ctxt]=Masc
 14	;	;	PUNCT	_	_	3	punct	_	_
 
@@ -63,11 +63,11 @@ The following 5 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 expl:subj	color:blue
-1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
+1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
 2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 3	alors	alors	ADV	_	_	5	advmod	_	_
 4	20	20	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
-5	h	h	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	h	h	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Fem|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

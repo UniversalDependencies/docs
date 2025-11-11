@@ -29,7 +29,13 @@ The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech
 
 The 1st highest number of forms (1) was observed with the lemma “no”: <em>no</em>.
 
-`PART` does not occur with any features.
+`PART` occurs with 1 features: <tt><a href="ca_ancora-feat-ExtPos.html">ExtPos</a></tt> (119; 81% instances)
+
+`PART` occurs with 3 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`
+
+`PART` occurs with 4 feature combinations.
+The most frequent feature combination is `ExtPos=ADV` (72 tokens).
+Examples: <em>no</em>
 
 
 ## Relations

@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Dist` (2; 10% of non-empty `NumType`): <em>кодама-кодама</em>
 * `Ord` (18; 90% of non-empty `NumType`): <em>васенце, омбоце, омбоцеть, 14-це, Нильгемонце, ветеце, кемонце, колмоце, колмоцесь, сизьгемонце</em>
-* `EMPTY` (205): <em>оцю, од, тяфтама, мазы, пара, сире, цебярь, акша, кодама, козя</em>
+* `EMPTY` (208): <em>оцю, од, тяфтама, мазы, пара, сире, цебярь, акша, кодама, козя</em>
 
 ### `ADV`
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Card` (1; 33% of non-empty `NumType`): <em>кафтонь</em>
 * `Mult` (2; 67% of non-empty `NumType`): <em>весть</em>
-* `EMPTY` (421): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
+* `EMPTY` (428): <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
 
 ### `DET`
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Sets` (3; 100% of non-empty `NumType`): <em>кафцьке</em>
-* `EMPTY` (34): <em>эрь, лама, ня, сембе, Тя, ся, Мъзяра, Сяка, иля, кодама-бъди</em>
+* `EMPTY` (37): <em>тя, эрь, лама, ня, сембе, сяка, ся, Мъзяра, иля, кодама-бъди</em>
 
 ### `NOUN`
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Sets` (2; 100% of non-empty `NumType`): <em>шинек-венек</em>
-* `EMPTY` (1112): <em>лангс, ломаттне, тячи, шиня, шись, ава, паксянь, пингть, Тишка, каршес</em>
+* `EMPTY` (1132): <em>лангс, ломаттне, шись, тячи, шиня, ава, лангса, паксянь, пингть, Тишка</em>
 
 ### `PRON`
 
@@ -88,5 +88,5 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Sets` (2; 100% of non-empty `NumType`): <em>кафонест, кафцьке</em>
-* `EMPTY` (215): <em>сон, мон, тя, сонь, синь, ся, минь, тон, мезевок, монь</em>
+* `EMPTY` (226): <em>сон, мон, сонь, тя, синь, минь, ся, мезе, тон, тейнза</em>
 

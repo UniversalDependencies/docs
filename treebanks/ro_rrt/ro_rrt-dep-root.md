@@ -11,9 +11,9 @@ This relation is universal.
 9524 nodes (4%) are attached to their parents as `root`.
 
 9524 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.09890802183956.
+Average distance between parent and child is 7.1010079798404.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (8129; 85% instances), -<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (710; 7% instances), -<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (316; 3% instances), -<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (171; 2% instances), -<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (58; 1% instances), -<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (39; 0% instances), -<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (30; 0% instances), -<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (22; 0% instances), -<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), -<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (14; 0% instances), -<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (7; 0% instances), -<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), -<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (8129; 85% instances), -<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (716; 8% instances), -<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (317; 3% instances), -<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (171; 2% instances), -<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (56; 1% instances), -<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (41; 0% instances), -<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (30; 0% instances), -<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (22; 0% instances), -<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), -<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (9; 0% instances), -<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (7; 0% instances), -<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), -<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,14 +27,14 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	dedesubt	dedesubt	ADV	Rgp	Degree=Pos	1	advmod	_	_
 4	suna	suna	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	:	:	PUNCT	COLON	_	4	punct	_	_
-6	FRATELE	frate	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
+6	FRATELE	frate	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	11	nsubj	_	_
 7	CEL	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	det	_	_
 8	MARE	mare	ADJ	Afp-s-n	Definite=Ind|Degree=Pos|Number=Sing	6	amod	_	_
-9	ESTE	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
-10	CU	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	_
-11	OCHII	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	9	fixed	_	_
+9	ESTE	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	CU	cu	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
+11	OCHII	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	4	parataxis	_	_
 12	PE	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
-13	TINE	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	9	obl:pmod	_	SpaceAfter=No
+13	TINE	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	11	obl:pmod	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~

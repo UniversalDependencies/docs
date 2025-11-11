@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_old-dep-aux.html">aux</a></tt>.
 
-443 nodes (0%) are attached to their parents as `aux:pass`.
+444 nodes (0%) are attached to their parents as `aux:pass`.
 
-389 instances of `aux:pass` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.73814898419865.
+388 instances of `aux:pass` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.73648648648649.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (440; 99% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (443; 100% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,75 +22,22 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 aux:pass	color:blue
-1	Per	per	ADP	epskr	_	3	case	_	Canto=33|Verso=118
-2	cotal	cotale	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	Canto=33|Verso=118
-3	priego	prego	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obl	_	Canto=33|Verso=118
-4	detto	dire	VERB	vtp*3irs3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Canto=33|Verso=118
-5	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	4	iobj	_	Canto=33|Verso=118
-6	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	Canto=33|SpaceAfter=No|Verso=118
-7	:	:	PUNCT	_	_	9	punct	_	_
-8	«	«	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	Priega	pregare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp:reported	_	Canto=33|Verso=118
-10	Matelda	Matelda	PROPN	np	_	9	obj	_	Canto=33|Verso=119
-11	che	che	SCONJ	cssb	_	14	mark	_	Canto=33|Verso=119
-12	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	Canto=33|Verso=119
-13	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	14	iobj	_	Canto=33|Verso=119
-14	dica	dire	VERB	vta3cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	Canto=33|SpaceAfter=No|Verso=119
-15	»	»	PUNCT	_	_	9	punct	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 26 aux:pass	color:blue
-1	Quale	quale	PRON	pt2ms	Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	_
-2	savesse	sapere	VERB	vta2cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	23	csubj	_	Canto=21|Verso=19
-3	qual	quale	PRON	pt2fs	Gender=Fem|Number=Sing|PronType=Int	6	nsubj	_	Canto=21|Verso=19
-4	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	Canto=21|Verso=19
-5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Canto=21|Verso=19
-6	pastura	pastura	NOUN	sf1fs	Gender=Fem|Number=Sing	2	ccomp	_	Canto=21|Verso=19
-7	di	di	ADP	_	_	9	case	_	_
-8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	viso	viso	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nmod	_	Canto=21|Verso=20
-10	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	Canto=21|Verso=20
-11	ne	in	ADP	epakr	_	13	case	_	Canto=21|Verso=20
-12	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Canto=21|Verso=20
-13	aspetto	aspetto	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl:lmod	_	Canto=21|Verso=20
-14	beato	beato	ADJ	a1ms	Gender=Masc|Number=Sing	13	amod	_	Canto=21|Verso=20
-15	quand'	quando	SCONJ	csst	_	18	mark	_	Canto=21|Verso=21
-16	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	18	nsubj	_	Canto=21|Verso=21
-17	mi	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	18	obj	_	Canto=21|Verso=21
-18	trasmutai	trasmutare	VERB	vta+1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	Canto=21|Verso=21
-19	ad	a	ADP	epskml	_	21	case	_	Canto=21|Verso=21
-20	altra	altro	DET	ai	PronType=Ind	21	det	_	Canto=21|Verso=21
-21	cura	cura	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obl:lmod	_	Canto=21|Verso=21|SpaceAfter=No
-22	,	,	PUNCT	_	_	2	punct	_	_
-23	conoscerebbe	conoscere	VERB	vta2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Canto=21|Verso=22
-24	quanto	quanto	ADV	b	_	28	mark	_	Canto=21|Verso=22
-25	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	28	iobj	_	Canto=21|Verso=22
-26	era	essere	AUX	vi*4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux:pass	_	Canto=21|Verso=22
-27	a	a	ADP	_	_	28	case	_	_
-28	grato	grato	ADJ	_	Gender=Masc|Number=Sing	23	ccomp	_	_
-29	ubidire	ubbidire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	28	csubj	_	Canto=21|Verso=23
-30	a	a	ADP	eps	_	34	case	_	Canto=21|Verso=23
-31	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	Canto=21|Verso=23
-32	mia	mio	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	34	det:poss	_	Canto=21|Verso=23
-33	celeste	celeste	ADJ	a2fs	Gender=Fem|Number=Sing	34	amod	_	Canto=21|Verso=23
-34	scorta	scorta	NOUN	sf1fs	Gender=Fem|Number=Sing	29	obl	_	Canto=21|Verso=23|SpaceAfter=No
-35	,	,	PUNCT	_	_	36	punct	_	_
-36	contrapesando	contrappesare	VERB	vta1gp	VerbForm=Conv|Voice=Act	28	advcl	_	Canto=21|Verso=24
-37	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	Canto=21|Verso=24
-38	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	36	obj	_	Canto=21|Verso=24
-39	con	con	ADP	epskw	_	42	case	_	Canto=21|Verso=24
-40	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	Canto=21|Verso=24
-41	altro	altro	DET	ai	PronType=Ind	42	det	_	Canto=21|Verso=24
-42	lato	lato	NOUN	sm2ms	Gender=Masc|Number=Sing	36	obl	_	Canto=21|Verso=24|SpaceAfter=No
-43	.	.	PUNCT	_	_	23	punct	_	_
+1	Per	per	ADP	epskr	_	3	case	3:case	Canto=33|Verso=118|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_1
+2	cotal	cotale	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Ind	3	det	3:det	Canto=33|Verso=118|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_2
+3	priego	prego	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obl	4:obl	Canto=33|Verso=118|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_3
+4	detto	dire	VERB	vtp*3irs3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	Canto=33|Verso=118|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_4
+5	mi	mi	PRON	pp1syda	Person=1|Poss=Yes|PronType=Prs	4	iobj	4:iobj	Canto=33|Clitic=Yes|Verso=118|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_5
+6	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	Canto=33|SpaceAfter=No|Verso=118|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_6
+7	:	:	PUNCT	_	_	9	punct	9:punct	_
+8	«	«	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_8
+9	Priega	pregare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp:reported	4:ccomp:reported	Canto=33|Verso=118|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_9
+10	Matelda	Matelda	PROPN	np	_	9	obj	9:obj	Canto=33|Verso=119|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_10
+11	che	che	SCONJ	cssb	_	14	mark	14:mark	Canto=33|Verso=119|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_11
+12	'l	il	PRON	pp3msyac	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	14:obj	Canto=33|Clitic=Yes|Verso=119|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_12
+13	ti	ti	PRON	pp2syda	Person=2|Poss=Yes|PronType=Prs	14	iobj	14:iobj	Canto=33|Clitic=Yes|Verso=119|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_13
+14	dica	dire	VERB	vta3cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	9:advcl	Canto=33|SpaceAfter=No|Verso=119|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_14
+15	»	»	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Purgatorio-1168_15
+16	.	.	PUNCT	_	_	9	punct	9:punct	_
 
 ~~~
 
@@ -101,58 +48,58 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 48	bgColor:blue
 # visual-style 48	fgColor:white
 # visual-style 48 47 aux:pass	color:blue
-1	Da	da	ADP	_	_	3	case	_	Canto=13|Verso=34
-2	che	che	SCONJ	_	_	3	mark	_	Canto=13|Verso=34
-3	fatto	fare	VERB	vi1its3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	10	advcl	_	Canto=13|Verso=34
-4	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	Canto=13|Verso=34
-5	poi	poi	ADV	b	_	3	advmod:tmod	_	Canto=13|Verso=34
-6	di	di	ADP	epskw	_	7	case	_	Canto=13|Verso=34
-7	sangue	sangue	NOUN	sm3ms	Gender=Masc|Number=Sing	8	obl	_	Canto=13|Verso=34
-8	bruno	bruno	ADJ	a1msxc5	Gender=Masc|Number=Sing	3	xcomp	_	Canto=13|SpaceAfter=No|Verso=34
-9	,	,	PUNCT	_	_	3	punct	_	_
-10	ricominciò	ricominciare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=13|Verso=35
-11	a	a	ADP	epsb	_	12	mark	_	Canto=13|Verso=35
-12	dir	dire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	_	Canto=13|SpaceAfter=No|Verso=35
-13	:	:	PUNCT	_	_	17	punct	_	_
-14	«	«	PUNCT	_	_	17	punct	_	SpaceAfter=No
-15	Perché	perché	ADV	b	_	17	advmod	_	Canto=13|Verso=35
-16	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	obj	_	Canto=13|Verso=35
-17	scerpi	scerpare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp:reported	_	Canto=13|SpaceAfter=No|Verso=35
-18	?	?	PUNCT	_	_	17	punct	_	_
-19	non	non	ADV	b	PronType=Neg	20	advmod:neg	_	Canto=13|Verso=36
-20	hai	avere	VERB	vta5ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	Canto=13|Verso=36
-21	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	20	nsubj	_	Canto=13|Verso=36
-22	spirto	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	20	obj	_	Canto=13|Verso=36
-23	di	di	ADP	epskg	_	24	case	_	Canto=13|Verso=36
-24	pietade	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	22	nmod	_	Canto=13|Verso=36
-25	alcuno	alcuno	DET	ai	Gender=Masc|Number=Sing|PronType=Ind	22	det	_	Canto=13|SpaceAfter=No|Verso=36
-26	?	?	PUNCT	_	_	20	punct	_	_
-27	Uomini	uomo	NOUN	sm2mp	Gender=Masc|Number=Plur	17	parataxis	_	Canto=13|Verso=37
-28	fummo	essere	AUX	vi4irp1	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	27	cop	_	Canto=13|SpaceAfter=No|Verso=37
-29	,	,	PUNCT	_	_	33	punct	_	_
-30	e	e	CCONJ	cscc	_	33	cc	_	Canto=13|Verso=37
-31	or	ora	ADV	b	_	33	advmod:tmod	_	Canto=13|Verso=37
-32	siam	essere	AUX	vi4ipp1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	33	aux:pass	_	Canto=13|Verso=37
-33	fatti	fare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	27	conj	_	Canto=13|Comment=fa-tti|Verso=37
-34	sterpi	sterpo	NOUN	sm2mp	Gender=Masc|Number=Plur	33	obj	_	Canto=13|SpaceAfter=No|Verso=37
-35	:	:	PUNCT	_	_	43	punct	_	_
-36	ben	bene	ADV	b	_	43	advmod	_	Canto=13|Verso=38
-37	dovrebb'	dovere	AUX	vta2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	43	aux	_	Canto=13|SpaceAfter=No|Verso=38
-38	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	43	cop	_	Canto=13|Verso=38
-39	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Canto=13|Verso=38
-40	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	41	det:poss	_	Canto=13|Verso=38
-41	man	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	43	nsubj	_	Canto=13|Verso=38
-42	più	più	ADV	b	_	43	advmod	_	Canto=13|Verso=38
-43	pia	pio	ADJ	a1fsc+	Gender=Fem|Number=Sing	17	parataxis	_	Canto=13|SpaceAfter=No|Verso=38
-44	,	,	PUNCT	_	_	48	punct	_	_
-45	se	se	SCONJ	cssv	_	48	mark	_	Canto=13|Verso=39
-46	state	essere	AUX	vi4ctp1	Aspect=Perf|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	48	cop	_	Canto=13|Verso=39
-47	fossimo	essere	AUX	vi4ctp1	Aspect=Perf|Gender=Masc|Number=Plur|Person=1|Tense=Past|VerbForm=Part	48	aux:pass	_	Canto=13|Verso=39
-48	anime	anima	NOUN	sf1fp	Gender=Fem|Number=Plur	43	advcl	_	Canto=13|Verso=39
-49	di	di	ADP	epskg	_	50	case	_	Canto=13|Verso=39
-50	serpi	serpe	NOUN	sf3fp	Gender=Fem|Number=Plur	48	nmod	_	Canto=13|SpaceAfter=No|Verso=39
-51	»	»	PUNCT	_	_	17	punct	_	SpaceAfter=No
-52	.	.	PUNCT	_	_	10	punct	_	_
+1	Da	da	ADP	_	_	3	case	3:case	Canto=13|Verso=34|UniqueTokenId=OldItalian_Dante_Inferno-458_1
+2	che	che	SCONJ	_	_	3	mark	3:mark	Canto=13|Verso=34|UniqueTokenId=OldItalian_Dante_Inferno-458_2
+3	fatto	fare	VERB	vi1its3	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	10	advcl	10:advcl	Canto=13|Verso=34|UniqueTokenId=OldItalian_Dante_Inferno-458_3
+4	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	Canto=13|Verso=34|UniqueTokenId=OldItalian_Dante_Inferno-458_4
+5	poi	poi	ADV	b	_	3	advmod:tmod	3:advmod:tmod	Canto=13|Verso=34|UniqueTokenId=OldItalian_Dante_Inferno-458_5
+6	di	di	ADP	epskw	_	7	case	7:case	Canto=13|Verso=34|UniqueTokenId=OldItalian_Dante_Inferno-458_6
+7	sangue	sangue	NOUN	sm3ms	Gender=Masc|Number=Sing	8	obl	8:obl	Canto=13|Verso=34|UniqueTokenId=OldItalian_Dante_Inferno-458_7
+8	bruno	bruno	ADJ	a1msxc5	Gender=Masc|Number=Sing	3	xcomp	3:xcomp	Canto=13|SpaceAfter=No|Verso=34|UniqueTokenId=OldItalian_Dante_Inferno-458_8
+9	,	,	PUNCT	_	_	3	punct	3:punct	UniqueTokenId=OldItalian_Dante_Inferno-458_9
+10	ricominciò	ricominciare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Canto=13|Verso=35|UniqueTokenId=OldItalian_Dante_Inferno-458_10
+11	a	a	ADP	epsb	_	12	mark	12:mark	Canto=13|Verso=35|UniqueTokenId=OldItalian_Dante_Inferno-458_11
+12	dir	dire	VERB	vta3fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	10:ccomp	Canto=13|SpaceAfter=No|Verso=35|UniqueTokenId=OldItalian_Dante_Inferno-458_12
+13	:	:	PUNCT	_	_	17	punct	17:punct	UniqueTokenId=OldItalian_Dante_Inferno-458_13
+14	«	«	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Inferno-458_14
+15	Perché	perché	ADV	b	_	17	advmod	17:advmod	Canto=13|Verso=35|UniqueTokenId=OldItalian_Dante_Inferno-458_15
+16	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	obj	17:obj	Canto=13|Verso=35|UniqueTokenId=OldItalian_Dante_Inferno-458_16
+17	scerpi	scerpare	VERB	vta1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp:reported	12:ccomp:reported	Canto=13|SpaceAfter=No|Verso=35|UniqueTokenId=OldItalian_Dante_Inferno-458_17
+18	?	?	PUNCT	_	_	17	punct	17:punct	UniqueTokenId=OldItalian_Dante_Inferno-458_18
+19	non	non	ADV	b	PronType=Neg	20	advmod:neg	20:advmod:neg	Canto=13|Verso=36|UniqueTokenId=OldItalian_Dante_Inferno-458_19
+20	hai	avere	VERB	vta5ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	17:parataxis	Canto=13|Verso=36|UniqueTokenId=OldItalian_Dante_Inferno-458_20
+21	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	20	nsubj	20:nsubj	Canto=13|Verso=36|UniqueTokenId=OldItalian_Dante_Inferno-458_21
+22	spirto	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	20	obj	20:obj	Canto=13|Verso=36|UniqueTokenId=OldItalian_Dante_Inferno-458_22
+23	di	di	ADP	epskg	_	24	case	24:case	Canto=13|Verso=36|UniqueTokenId=OldItalian_Dante_Inferno-458_23
+24	pietade	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	22	nmod	22:nmod	Canto=13|Verso=36|UniqueTokenId=OldItalian_Dante_Inferno-458_24
+25	alcuno	alcuno	DET	ai	Gender=Masc|Number=Sing|PronType=Ind	22	det	22:det	Canto=13|SpaceAfter=No|Verso=36|UniqueTokenId=OldItalian_Dante_Inferno-458_25
+26	?	?	PUNCT	_	_	20	punct	20:punct	UniqueTokenId=OldItalian_Dante_Inferno-458_26
+27	Uomini	uomo	NOUN	sm2mp	Gender=Masc|Number=Plur	17	parataxis	17:parataxis	Canto=13|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-458_27
+28	fummo	essere	AUX	vi4irp1	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	27	cop	27:cop	Canto=13|SpaceAfter=No|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-458_28
+29	,	,	PUNCT	_	_	33	punct	33:punct	UniqueTokenId=OldItalian_Dante_Inferno-458_29
+30	e	e	CCONJ	cscc	_	33	cc	33:cc	Canto=13|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-458_30
+31	or	ora	ADV	b	_	33	advmod:tmod	33:advmod:tmod	Canto=13|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-458_31
+32	siam	essere	AUX	vi4ipp1	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	33	aux:pass	33:aux:pass	Canto=13|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-458_32
+33	fatti	fare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	27	conj	27:conj	Canto=13|Comment=fa-tti|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-458_33
+34	sterpi	sterpo	NOUN	sm2mp	Gender=Masc|Number=Plur	33	obj	33:obj	Canto=13|SpaceAfter=No|Verso=37|UniqueTokenId=OldItalian_Dante_Inferno-458_34
+35	:	:	PUNCT	_	_	43	punct	43:punct	UniqueTokenId=OldItalian_Dante_Inferno-458_35
+36	ben	bene	ADV	b	_	43	advmod	43:advmod	Canto=13|Verso=38|UniqueTokenId=OldItalian_Dante_Inferno-458_36
+37	dovrebb'	dovere	AUX	vta2dps3	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	43	aux	43:aux	Canto=13|SpaceAfter=No|Verso=38|UniqueTokenId=OldItalian_Dante_Inferno-458_37
+38	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	43	cop	43:cop	Canto=13|Verso=38|UniqueTokenId=OldItalian_Dante_Inferno-458_38
+39	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	41:det	Canto=13|Verso=38|UniqueTokenId=OldItalian_Dante_Inferno-458_39
+40	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	41	det:poss	41:det:poss	Canto=13|Verso=38|UniqueTokenId=OldItalian_Dante_Inferno-458_40
+41	man	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	43	nsubj	43:nsubj	Canto=13|Verso=38|UniqueTokenId=OldItalian_Dante_Inferno-458_41
+42	più	più	ADV	b	_	43	advmod	43:advmod	Canto=13|Verso=38|UniqueTokenId=OldItalian_Dante_Inferno-458_42
+43	pia	pio	ADJ	a1fsc+	Gender=Fem|Number=Sing	17	parataxis	17:parataxis	Canto=13|SpaceAfter=No|Verso=38|UniqueTokenId=OldItalian_Dante_Inferno-458_43
+44	,	,	PUNCT	_	_	48	punct	48:punct	UniqueTokenId=OldItalian_Dante_Inferno-458_44
+45	se	se	SCONJ	cssv	_	48	mark	48:mark	Canto=13|Verso=39|UniqueTokenId=OldItalian_Dante_Inferno-458_45
+46	state	essere	AUX	vi4ctp1	Aspect=Perf|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	48	cop	48:cop	Canto=13|Verso=39|UniqueTokenId=OldItalian_Dante_Inferno-458_46
+47	fossimo	essere	AUX	vi4ctp1	Aspect=Perf|Gender=Masc|Number=Plur|Person=1|Tense=Past|VerbForm=Part	48	aux:pass	48:aux:pass	Canto=13|Verso=39|UniqueTokenId=OldItalian_Dante_Inferno-458_47
+48	anime	anima	NOUN	sf1fp	Gender=Fem|Number=Plur	43	advcl	43:advcl	Canto=13|Verso=39|UniqueTokenId=OldItalian_Dante_Inferno-458_48
+49	di	di	ADP	epskg	_	50	case	50:case	Canto=13|Verso=39|UniqueTokenId=OldItalian_Dante_Inferno-458_49
+50	serpi	serpe	NOUN	sf3fp	Gender=Fem|Number=Plur	48	nmod	48:nmod	Canto=13|SpaceAfter=No|Verso=39|UniqueTokenId=OldItalian_Dante_Inferno-458_50
+51	»	»	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No|UniqueTokenId=OldItalian_Dante_Inferno-458_51
+52	.	.	PUNCT	_	_	10	punct	10:punct	UniqueTokenId=OldItalian_Dante_Inferno-458_52
 
 ~~~
 

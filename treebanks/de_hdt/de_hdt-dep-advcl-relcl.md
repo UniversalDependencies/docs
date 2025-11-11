@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 18 advcl:relcl	color:blue
-1	Nur	Nur	ADV	ADV	_	4	advmod	_	_
+1	Nur	nur	ADV	ADV	_	4	advmod	_	_
 2	in	in	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
 3	den	der	DET	ART	Case=Dat|Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	Bezirken	Bezirk	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	_

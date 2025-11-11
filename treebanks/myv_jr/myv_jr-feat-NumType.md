@@ -13,38 +13,38 @@ Some words have combined values of the feature; 2 combinations have been observe
 251 tokens (1%) have a non-empty value of `NumType`.
 103 types (2%) occur at least once with a non-empty value of `NumType`.
 61 lemmas (2%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (139; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (132; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (39; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (35; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-139 <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> tokens (78% of all `NUM` tokens) have a non-empty value of `NumType`.
+132 <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> tokens (78% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (85; 61%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (85; 61%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 58%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (85; 64%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (78; 59%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (74; 56%).
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Appr` (4; 3% of non-empty `NumType`): <em>кавто-колмо, колмо-ниле</em>
-* `Card` (126; 91% of non-empty `NumType`): <em>кавто, ве, колмо, вейке, вейкесь, ниле, колоньгеменьшка, Комсь, вейкеде, вейксэ</em>
+* `Card` (119; 90% of non-empty `NumType`): <em>кавто, ве, колмо, вейке, ниле, колоньгеменьшка, Комсь, вейкеде, вейксэ, вете</em>
 * `Dist` (3; 2% of non-empty `NumType`): <em>Колмонь-колмонь, кавтонь-кавтонь, сядонь-сядонь</em>
 * `Ord,Sets` (3; 2% of non-empty `NumType`): <em>омбонст, Омбонстнэ, колмоценстнэ</em>
 * `Sets` (3; 2% of non-empty `NumType`): <em>веенст, Веенстнэнь</em>
-* `EMPTY` (39): <em>вейке, кавто, вейкеть, ниле, Кавонстонь-кавонстонь, Кеветеешка, Сисемь, ве, вейкекс, вейкесь</em>
+* `EMPTY` (38): <em>вейке, кавто, вейкеть, ниле, Кавонстонь-кавонстонь, Кеветеешка, Сисемь, ве, вейкекс, ветешка</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (28) occur only with one value of `NumType`.
 
 ### `ADV`
 
-38 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `NumType`.
+39 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (38; 100%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (32; 84%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29; 76%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (33; 85%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 77%).
 
 `ADV` tokens may have the following values of `NumType`:
 
-* `Dist` (3; 8% of non-empty `NumType`): <em>вейкень-вейкень, рядс-рядс, косто-косто</em>
-* `Mult` (26; 68% of non-empty `NumType`): <em>весть, сеедьстэ, Ламоксть, колмоксть, зярыяксть, Чуросто, вестькак, кавксть, кеменьшкаксть, Кавкстешкаксть</em>
+* `Dist` (4; 10% of non-empty `NumType`): <em>вейкень-вейкень, вейте-вейте, рядс-рядс, косто-косто</em>
+* `Mult` (26; 67% of non-empty `NumType`): <em>весть, сеедьстэ, Ламоксть, колмоксть, зярыяксть, Чуросто, вестькак, кавксть, кеменьшкаксть, Кавкстешкаксть</em>
 * `Mult,Ord` (7; 18% of non-empty `NumType`): <em>омбоцеде, колмоцеде, васенцеде</em>
 * `Ord` (2; 5% of non-empty `NumType`): <em>васенцеде, васняяк</em>
-* `EMPTY` (1631): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
+* `EMPTY` (1634): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
 
 <table>
   <tr><th>Paradigm <i>васенцеде</i></th><th><tt>Mult,Ord</tt></th><th><tt>Ord</tt></th></tr>
@@ -52,7 +52,22 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
   <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>васенцеде</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `ADV`. 94% lemmas (15) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADV`. 94% lemmas (16) occur only with one value of `NumType`.
+
+### `PRON`
+
+35 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (22; 63%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (22; 63%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (22; 63%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt> (20; 57%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=3</tt> (20; 57%).
+
+`PRON` tokens may have the following values of `NumType`:
+
+* `Card` (9; 26% of non-empty `NumType`): <em>вейкесь, вейкеськак</em>
+* `Dist` (4; 11% of non-empty `NumType`): <em>Конат-конат, Мезе-мезе, кинь-кинь, кона-кона</em>
+* `Sets` (22; 63% of non-empty `NumType`): <em>кавонест, колмонест, ськамонзо, ламонест, ниленест, ськамон, ськамонк</em>
+* `EMPTY` (1164): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
+
+`NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -63,35 +78,19 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (33; 100% of non-empty `NumType`): <em>омбоце, васенце, омбоцесь, колмоцесь, Васенценть, Колмоце, Колмоцекс, васень, кеменце, омбоценть</em>
-* `EMPTY` (866): <em>од, паро, покш, кодамо, арась, якстере, мазый, сэрей, лембе, пиже</em>
-
-### `PRON`
-
-28 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `NumType`.
-
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (22; 79%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (22; 79%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (21; 75%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt> (20; 71%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=3</tt> (20; 71%).
-
-`PRON` tokens may have the following values of `NumType`:
-
-* `Card` (2; 7% of non-empty `NumType`): <em>вейкесь</em>
-* `Dist` (4; 14% of non-empty `NumType`): <em>Конат-конат, Мезе-мезе, кинь-кинь, кона-кона</em>
-* `Sets` (22; 79% of non-empty `NumType`): <em>кавонест, колмонест, ськамонзо, ламонест, ниленест, ськамон, ськамонк</em>
-* `EMPTY` (1147): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
-
-`NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `NumType`.
+* `EMPTY` (868): <em>од, паро, покш, кодамо, арась, якстере, мазый, сэрей, лембе, пиже</em>
 
 ### `DET`
 
-12 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `NumType`.
+11 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (11; 92%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="myv_jr-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10; 91%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (10; 91%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10; 91%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (10; 91%).
 
 `DET` tokens may have the following values of `NumType`:
 
-* `Card` (10; 83% of non-empty `NumType`): <em>ве</em>
-* `Dist` (1; 8% of non-empty `NumType`): <em>вейте-вейте</em>
-* `Ord` (1; 8% of non-empty `NumType`): <em>васенце</em>
-* `EMPTY` (244): <em>те, эрьва, эсь, ламо, се, истямо, лия, кона, не, зяро</em>
+* `Card` (10; 91% of non-empty `NumType`): <em>ве</em>
+* `Ord` (1; 9% of non-empty `NumType`): <em>васенце</em>
+* `EMPTY` (217): <em>те, эрьва, эсь, се, истямо, лия, ламо, кона, не, зяро</em>
 
 ### `NOUN`
 

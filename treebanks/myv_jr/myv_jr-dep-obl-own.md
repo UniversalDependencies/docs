@@ -49,11 +49,11 @@ The following 4 pairs of parts of speech are connected with `obl:own`: <tt><a hr
 6	таркастонть	тарка	NOUN	N	Case=Ela|Definite=Def|Number=Sing	4	obl	_	GTtags=Sem/Plc,Sg,Ela,Def|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
 8	ледемадонть	ледемс	VERB	V	Case=Abl|Definite=Def|Number=Sing|VerbForm=Vnoun	9	obl	_	GTtags=NomAct,Sg,Abl,Def
-9	сизесь	сиземс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,ScSg3
+9	сизесь	сиземс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	2	conj	_	GTtags=Ind,Prt1,ScSg3
 10	нучк-пачк	нучк-пачк	ADV	Adv	_	9	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	_
-12	чулксетить	чулгсетемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,ScPl3
-13	весе	весе	DET	Det	_	14	det	_	_
+12	чулксетить	чулгсетемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	2	conj	_	GTtags=Ind,Prs,ScPl3
+13	весе	весе	DET	Det	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	14	det	_	_
 14	кедензэ-пильгензэ	кедензэ-пильгензэ	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=Pl,Nom,PxSg3|SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `obl:own`: <tt><a hr
 1	Астай	Астай	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	2	compound:nn	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
 2	покштянть	покштя	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obl:own	_	CGdephead=#2-&gt;2|CGdeprel=@-FOBJ&gt;|GTtags=Sg,Gen,Def
 3	сестэ	сестэ	ADV	Adv	AdvType=Tim	4	advmod	_	CGdephead=#3-&gt;4|CGdeprel=@ADVL&gt;|GTtags=
-4	ульнесть	ульнемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScPl3
+4	ульнесть	ульнемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScPl3
 5	вете	вете	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	6	nummod	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=Card,Sg,Nom,Indef
 6	цёранзо	цёра	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	CGdephead=#6-&gt;4|CGdeprel=@&lt;SUBJ|GTtags=Pl,Nom,PxSg3
 7	пек	пек	ADV	Adv	AdvType=Deg	8	advmod	_	CGdephead=#7-&gt;8|CGdeprel=@&gt;A|GTtags=Deg

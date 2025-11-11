@@ -26,7 +26,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Prs` (16475; 89% of non-empty `PronType`): <em>сѧ, его, ѥго, и, ся, ихъ, имъ, ѥму, я, мнѣ</em>
 * `Rcp` (64; 0% of non-empty `PronType`): <em>дроуга, другъ, дроугъ, дрѹгъ, друга, дроуг, другу, дрѹга, дрꙋгъ, дрѹг҃</em>
 * `Rel` (1571; 8% of non-empty `PronType`): <em>иже, еже, что, ѥже, елико, юже, ꙗже, ѥгоже, же, кто</em>
-* `EMPTY` (5552): <em>то, се, того, же, кто, самъ, ѡн, все, сего, томѹ</em>
+* `EMPTY` (5551): <em>то, се, того, же, кто, самъ, ѡн, все, сего, томѹ</em>
 
 <table>
   <tr><th>Paradigm <i>чьто</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -68,5 +68,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>ADV --[<tt><a href="orv_torot-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (19; 79%),
 <tt>ADV --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> ADV</tt> (7; 100%),
 <tt>ADV --[<tt><a href="orv_torot-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 75%),
-<tt>PRON --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (2; 100%).
+<tt>PRON --[<tt><a href="orv_torot-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<tt><a href="orv_torot-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (1; 100%).
 

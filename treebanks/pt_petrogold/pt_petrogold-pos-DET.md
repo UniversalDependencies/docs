@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="pt_petrogold-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.486486 (the average of all parts of speech is 1.452422).
+The form / lemma ratio of `DET` is 2.486486 (the average of all parts of speech is 1.452383).
 
 The 1st highest number of forms (6) was observed with the lemma “este”: <em>Deste, esta, estas, este, estes, está</em>.
 
@@ -72,11 +72,11 @@ The 2nd highest number of forms (5) was observed with the lemma “o”: <em>a, 
 
 The 3rd highest number of forms (5) was observed with the lemma “pouco”: <em>menos, pouca, poucas, pouco, poucos</em>.
 
-`DET` occurs with 4 features: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (36327; 100% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (36327; 100% instances), <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt> (36326; 100% instances), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt> (31767; 87% instances)
+`DET` occurs with 5 features: <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (36327; 100% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (36327; 100% instances), <tt><a href="pt_petrogold-feat-PronType.html">PronType</a></tt> (36326; 100% instances), <tt><a href="pt_petrogold-feat-Definite.html">Definite</a></tt> (31767; 87% instances), <tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt> (119; 0% instances)
 
-`DET` occurs with 14 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
+`DET` occurs with 17 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 36 feature combinations.
+`DET` occurs with 44 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Fem|Number=Sing|PronType=Art` (11702 tokens).
 Examples: <em>a, µ, á</em>
 

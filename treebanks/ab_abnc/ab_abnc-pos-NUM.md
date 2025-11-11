@@ -6,25 +6,25 @@ udver: '2'
 
 ## Treebank Statistics: UD_Abkhaz-AbNC: POS Tags: `NUM`
 
-There are 22 `NUM` lemmas (1%), 32 `NUM` types (1%) and 46 `NUM` tokens (0%).
+There are 23 `NUM` lemmas (1%), 33 `NUM` types (1%) and 48 `NUM` tokens (0%).
 Out of 13 observed tags, the rank of `NUM` is: 8 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>ҩба́, ҩы́џьа, хҩы́, бжьҩы́, жәаба́, хәҩы́, акы́, 12, 33-тәи, 40</em>
+The 10 most frequent `NUM` lemmas: <em>ҩба́, ҩы́џьа, хҩы́, бжьҩы́, жәаба́, хәҩы́, а́-ҩбатәи, акы́, 12, 33-тәи</em>
 
-The 10 most frequent `NUM` types:  <em>аҩбагьы, хәҩык, ҩыџьа, акы, ахҩыкгьы, быжьҩык, хҩык, ҩба, ҳҩыџьагь, 12</em>
+The 10 most frequent `NUM` types:  <em>аҩбагьы, хәҩык, ҩыџьа, акы, ахҩыкгьы, аҩбатәи, быжьҩык, хҩык, ҩба, ҳҩыџьагь</em>
 
-The 10 most frequent ambiguous lemmas: <em>акы́</em> (<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> 31, <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>акы́</em> (<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> 36, <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>акы</em> (<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> 8, <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>акы</em> (<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> 9, <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> 1)
 
 
 * <em>акы</em>
-  * <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> 8: <em>Мкан иҧшәма <b>акы</b> леиҳәон .</em>
+  * <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> 9: <em>Мкан иҧшәма <b>акы</b> леиҳәон .</em>
   * <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> 1: <em>Лгәы шны дыҟоуп , лхы <b>акы</b> азылур ҟалоит .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.454545 (the average of all parts of speech is 2.290899).
+The form / lemma ratio of `NUM` is 1.434783 (the average of all parts of speech is 2.324324).
 
 The 1st highest number of forms (4) was observed with the lemma “ҩба́”: <em>аҩбагьы, рыҩбагьы, ҩба, ҩбаҟа</em>.
 
@@ -32,7 +32,7 @@ The 2nd highest number of forms (4) was observed with the lemma “ҩы́џьа�
 
 The 3rd highest number of forms (3) was observed with the lemma “жәаба́”: <em>Жәаба, жәабаҟа, жәабаҿы</em>.
 
-`NUM` occurs with 6 features: <tt><a href="ab_abnc-feat-NumType.html">NumType</a></tt> (44; 96% instances), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt> (40; 87% instances), <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt> (7; 15% instances), <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt> (5; 11% instances), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt> (5; 11% instances), <tt><a href="ab_abnc-feat-Case.html">Case</a></tt> (1; 2% instances)
+`NUM` occurs with 6 features: <tt><a href="ab_abnc-feat-NumType.html">NumType</a></tt> (46; 96% instances), <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt> (40; 83% instances), <tt><a href="ab_abnc-feat-Definite.html">Definite</a></tt> (7; 15% instances), <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt> (5; 10% instances), <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt> (5; 10% instances), <tt><a href="ab_abnc-feat-Case.html">Case</a></tt> (1; 2% instances)
 
 `NUM` occurs with 11 feature-value pairs: `Animacy=Hum`, `Animacy=Nhum`, `Case=Ine`, `Definite=Def`, `NumType=Card`, `NumType=Ord`, `NumType=Range`, `Number[psor]=Plur`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
 
@@ -43,11 +43,11 @@ Examples: <em>акы, ҩба, 40-ҟа, 45-ҟа, Жәаба, Хышәҟа, Хҧа
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="ab_abnc-dep-nummod.html">nummod</a></tt> (22; 48% instances), <tt><a href="ab_abnc-dep-nsubj.html">nsubj</a></tt> (11; 24% instances), <tt><a href="ab_abnc-dep-obj.html">obj</a></tt> (3; 7% instances), <tt><a href="ab_abnc-dep-amod.html">amod</a></tt> (2; 4% instances), <tt><a href="ab_abnc-dep-obl.html">obl</a></tt> (2; 4% instances), <tt><a href="ab_abnc-dep-advcl-conv.html">advcl:conv</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-iobj.html">iobj</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-obj-lo.html">obj:lo</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-root.html">root</a></tt> (1; 2% instances)
+`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="ab_abnc-dep-nummod.html">nummod</a></tt> (22; 46% instances), <tt><a href="ab_abnc-dep-nsubj.html">nsubj</a></tt> (11; 23% instances), <tt><a href="ab_abnc-dep-amod.html">amod</a></tt> (4; 8% instances), <tt><a href="ab_abnc-dep-obj.html">obj</a></tt> (3; 6% instances), <tt><a href="ab_abnc-dep-obl.html">obl</a></tt> (2; 4% instances), <tt><a href="ab_abnc-dep-advcl-conv.html">advcl:conv</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-compound.html">compound</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-iobj.html">iobj</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-iobj-lo.html">iobj:lo</a></tt> (1; 2% instances), <tt><a href="ab_abnc-dep-root.html">root</a></tt> (1; 2% instances)
 
-Parents of `NUM` nodes belong to 5 different parts of speech: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (21; 46% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (20; 43% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (3; 7% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 2% instances),  (1; 2% instances)
+Parents of `NUM` nodes belong to 5 different parts of speech: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (23; 48% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (20; 42% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt> (3; 6% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 2% instances),  (1; 2% instances)
 
-37 (80%) `NUM` nodes are leaves.
+39 (81%) `NUM` nodes are leaves.
 
 6 (13%) `NUM` nodes have one child.
 

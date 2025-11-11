@@ -30,7 +30,7 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 5	Mojmír	Mojmír	PROPN	_	_	0	root	_	_
 6	I	I	PROPN	_	_	5	flat:name	_	_
 7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
-8	berkuasa	kuasa	VERB	_	Mood=Ind|Voice=Act	5	parataxis	_	_
+8	berkuasa	kuasa	VERB	_	Voice=Act	5	parataxis	_	_
 9	830	830	NUM	_	NumType=Card	8	obl:tmod	_	_
 10	–	–	PUNCT	_	_	11	punct	_	_
 11	846	846	NUM	_	NumType=Card	9	flat	_	SpaceAfter=No
@@ -48,7 +48,7 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 8 9 flat	color:blue
 1	Mereka	mereka	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 2	akan	akan	AUX	_	_	3	aux	_	_
-3	main	main	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	main	main	VERB	_	Voice=Act	0	root	_	_
 4	pada	pada	ADP	_	_	5	case	_	_
 5	hari	hari	NOUN	_	Number=Sing	3	obl:tmod	_	_
 6	Sabtu	Sabtu	PROPN	_	_	5	nmod:tmod	_	SpaceAfter=No
@@ -73,7 +73,7 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 5	Agustus	Agustus	PROPN	_	_	3	nmod:tmod	_	_
 6	2010	2010	NUM	_	NumType=Card	3	flat	_	_
 7	kelaparan	lapar	NOUN	_	Number=Sing	8	nsubj	_	_
-8	melanda	landa	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	melanda	landa	VERB	_	Voice=Act	0	root	_	_
 9	Sahel	Sahel	PROPN	_	_	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 

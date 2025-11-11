@@ -29,7 +29,7 @@ The following 30 pairs of parts of speech are connected with `compound`: <tt><a 
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	Ref=MARC3.12
 6	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	4	obl:pmod	_	Ref=MARC3.12|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	12	punct	_	Ref=MARC3.12
-8	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	12	mark	_	Ref=MARC3.12
+8	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	12	mark	_	Ref=MARC3.12
 9	să	să	PART	Qs	PartType=Sub	8	fixed	_	Ref=MARC3.12
 10	nu	nu	ADV	Qz	Polarity=Neg	12	advmod	_	Ref=MARC3.12|SpaceAfter=No
 11	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	12	obj	_	Ref=MARC3.12

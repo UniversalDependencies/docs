@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  ይ (<tt><a href="am_att-pos-PRON.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.300000 (the average of all parts of speech is 1.029841).
+The form / lemma ratio of `PRON` is 2.300000 (the average of all parts of speech is 1.029860).
 
 The 1st highest number of forms (29) was observed with the lemma “እሱ”: ሁ, ህ, ት, ኝ, ኡ, ኡት, ኢ, ኣ, ኣ_ት, ኣት, ኣቸው, ኣች, ኣችሁ, ኣው, ኤ, እ, እሱ, እሷ, እነሱ, ኦ, ኧ, ኧሁ, ኧት, ኧች, ኧው, ኸ, ዋ, ው, ይ.
 
@@ -65,18 +65,18 @@ The 2nd highest number of forms (23) was observed with the lemma “እኔ”: �
 
 The 3rd highest number of forms (15) was observed with the lemma “አንተ”: ህ, ሽ, ት, አንተ, ኡ, ኢ, ኣችሁ, ኣችን, ኧ, ኧህ, ኧሽ, ክ, ዋ, ው, ዎ.
 
-`PRON` occurs with 6 features: <tt><a href="am_att-feat-Number.html">Number</a></tt> (2421; 95% instances), <tt><a href="am_att-feat-Person.html">Person</a></tt> (2419; 95% instances), <tt><a href="am_att-feat-PronType.html">PronType</a></tt> (2419; 95% instances), <tt><a href="am_att-feat-Gender.html">Gender</a></tt> (1732; 68% instances), <tt><a href="am_att-feat-Poss.html">Poss</a></tt> (205; 8% instances), <tt><a href="am_att-feat-Typo.html">Typo</a></tt> (9; 0% instances)
+`PRON` occurs with 6 features: <tt><a href="am_att-feat-PronType.html">PronType</a></tt> (2550; 100% instances), <tt><a href="am_att-feat-Number.html">Number</a></tt> (2421; 95% instances), <tt><a href="am_att-feat-Person.html">Person</a></tt> (2419; 95% instances), <tt><a href="am_att-feat-Gender.html">Gender</a></tt> (1732; 68% instances), <tt><a href="am_att-feat-Poss.html">Poss</a></tt> (205; 8% instances), <tt><a href="am_att-feat-Typo.html">Typo</a></tt> (9; 0% instances)
 
-`PRON` occurs with 11 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Prs`, `Typo=Yes`
+`PRON` occurs with 17 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Exc`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rcp`, `Typo=Yes`
 
-`PRON` occurs with 34 feature combinations.
+`PRON` occurs with 41 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing|Person=3|PronType=Prs` (1068 tokens).
 Examples: ኧ, ይ, ኦ, ት, ው, ኧት, ኡ, እሱ, ኧው, ኣ
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 17 different relations: <tt><a href="am_att-dep-expl.html">expl</a></tt> (1152; 45% instances), <tt><a href="am_att-dep-nsubj.html">nsubj</a></tt> (953; 37% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (221; 9% instances), <tt><a href="am_att-dep-obj.html">obj</a></tt> (93; 4% instances), <tt><a href="am_att-dep-obl.html">obl</a></tt> (47; 2% instances), <tt><a href="am_att-dep-nsubj-pass.html">nsubj:pass</a></tt> (33; 1% instances), <tt><a href="am_att-dep-det.html">det</a></tt> (12; 0% instances), <tt><a href="am_att-dep-iobj.html">iobj</a></tt> (12; 0% instances), <tt><a href="am_att-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="am_att-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="am_att-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="am_att-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="am_att-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="am_att-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="am_att-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="am_att-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 17 different relations: <tt><a href="am_att-dep-expl.html">expl</a></tt> (1227; 48% instances), <tt><a href="am_att-dep-nsubj.html">nsubj</a></tt> (880; 35% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (224; 9% instances), <tt><a href="am_att-dep-obj.html">obj</a></tt> (92; 4% instances), <tt><a href="am_att-dep-obl.html">obl</a></tt> (44; 2% instances), <tt><a href="am_att-dep-nsubj-pass.html">nsubj:pass</a></tt> (32; 1% instances), <tt><a href="am_att-dep-det.html">det</a></tt> (12; 0% instances), <tt><a href="am_att-dep-iobj.html">iobj</a></tt> (12; 0% instances), <tt><a href="am_att-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="am_att-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="am_att-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="am_att-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="am_att-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="am_att-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="am_att-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="am_att-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
 Parents of `PRON` nodes belong to 10 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2168; 85% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (309; 12% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (35; 1% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (14; 1% instances),  (8; 0% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

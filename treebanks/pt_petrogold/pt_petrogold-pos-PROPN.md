@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Bacia</em> (<tt><a href="pt_petrogold
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.006061 (the average of all parts of speech is 1.452422).
+The form / lemma ratio of `PROPN` is 1.006061 (the average of all parts of speech is 1.452383).
 
 The 1st highest number of forms (3) was observed with the lemma “Ceará”: <em>C, Ceará, ceara</em>.
 

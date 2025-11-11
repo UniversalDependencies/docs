@@ -36,10 +36,10 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 12	anni	anno	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	_
 13	Sessanta	Sessanta	NUM	CD	_	12	nummod	_	_
 14	recitando	recitare	VERB	VBG	Voice=Act	2	advcl	_	_
-15	il	il	DET	DT	Gender=Masc|Number=Sing	16	det	_	_
+15	il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	ruolo	ruolo	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
 17	di	di	ADP	IN	_	19	case	_	_
-18	una	uno	DET	DT	Gender=Fem|Number=Sing	19	det	_	_
+18	una	uno	DET	DT	Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	paziente	paziente	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
 20	di	di	ADP	IN	_	22	case	_	_
 21	l'	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_

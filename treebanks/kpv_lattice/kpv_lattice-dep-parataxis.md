@@ -26,13 +26,13 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	Мыйла	мыйла	SCONJ	CS	_	7	cc	_	_
 3	нӧ	нӧ	PART	Pcle	_	7	advmod	_	_
 4	водзджык	водз	ADV	Adv	Degree=Cmp	7	advmod	_	_
-5	эн	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Past	7	aux	_	_
+5	эн	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Past|VerbForm=Fin	7	aux	_	_
 6	вермы	вермыны	AUX	V	Connegative=Yes	7	aux	_	_
 7	кайны	кайны	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	_
 9	—	—	PUNCT	PUNCT	_	11	punct	_	_
 10	жалитӧмпырысь	жалитӧмпырысь	ADV	Adv	_	11	advmod	_	Note=Check
-11	шуис	шуны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	parataxis	_	_
+11	шуис	шуны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
 12	меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	obl	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	7	punct	_	_
 
@@ -52,7 +52,7 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 5	?	?	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 6	—	—	PUNCT	PUNCT	_	8	punct	_	GTtags=PUNCT
 7	йӧйсямӧмӧн	йӧйсямны	VERB	V	Derivation=Omon|VerbForm=Conv	8	advcl	_	GTtags=Ex/V,IV,Der/ӧм,Der/NomAct,N,Sg,Ins
-8	юаліс	юавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	parataxis	_	GTtags=V,TV,Ind,Prt1,Sg3
+8	юаліс	юавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	GTtags=V,TV,Ind,Prt1,Sg3
 9	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	GTtags=Pron,Pers,Sg3,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 
@@ -73,7 +73,7 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	табакыс	табак	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	parataxis	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 7	?	?	PUNCT	CLB	_	6	punct	_	_
 8	—	—	PUNCT	PUNCT	_	9	punct	_	_
-9	горӧдіс	горӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+9	горӧдіс	горӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 10	кодкӧ	кодкӧ	PRON	Pron	Case=Nom|Derivation=Ko|Number=Sing|PronType=Ind	9	nsubj	_	GTtags=Indef,Sg,Nom,Der/кӧ|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	9	punct	_	_
 

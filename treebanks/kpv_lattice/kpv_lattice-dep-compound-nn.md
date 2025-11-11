@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `compound:nn`: <tt><
 2	даснаныс	даснаныс	PRON	Pron	Case=Nom|Number=Sing|NumType=Sets|Person=3|PronType=Tot	1	det	_	GTtags=AssocColl,Sg,Nom,PxSg3
 3	Понгорттуй	Понгорттуй	NOUN	N	Case=Nom|Number=Sing	4	compound:nn	_	GTtags=Prop,Sg,Nom
 4	сиктӧдз	сикт	NOUN	N	Case=Ter|Number=Sing	5	obl	_	GTtags=Sg,Ter
-5	локтісны	локны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Pl3|SpaceAfter=No
+5	локтісны	локны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Pl3|SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
@@ -41,14 +41,14 @@ The following 4 pairs of parts of speech are connected with `compound:nn`: <tt><
 1	Джуджыд	джуджыд	ADJ	A	Case=Nom|Number=Sing	2	amod	_	GTtags=Sg,Nom
 2	кырта	кырта	NOUN	N	Case=Nom|Number=Sing	4	obl	_	GTtags=Sg,Nom
 3	йылын	йылын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing	2	case	_	GTtags=Po,Sg,Ine
-4	тыдовтчис	тыдовтчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Refl,Ind,Prt1,Sg3
+4	тыдовтчис	тыдовтчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Refl,Ind,Prt1,Sg3
 5	Югыд-Ляга	Югыд-Ляга	PROPN	Prop	Case=Nom|Number=Sing	6	compound:nn	_	_
 6	сикт	сикт	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	12	punct	_	_
 8	и	и	CCONJ	CC	_	12	cc	_	_
 9	вӧлись	вӧлись	ADV	Adv	_	12	advmod	_	_
 10	Виринея	Виринея	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	12	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-11	кутіс	кутны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux	_	GTtags=TV,Ind,Prt1,Sg3
+11	кутіс	кутны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	GTtags=TV,Ind,Prt1,Sg3
 12	нёджъявны	нёджъявны	VERB	V	VerbForm=Inf	4	conj	_	GTtags=TV,Inf
 13	ю	ю	NOUN	N	Case=Nom|Number=Sing	14	nmod	_	GTtags=Sg,Nom
 14	пӧлӧнъяссӧ	пӧлӧнъяссӧ	NOUN	N	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obj	_	GTtags=Pl,Acc,PxSg3|SpaceAfter=No
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `compound:nn`: <tt><
 4	бой	бой	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom
 5	жӧ	жӧ	ADV	Adv	_	4	advmod	_	GTtags=Parenthetic
 6	нин	нин	ADV	Adv	AdvType=Tim	7	advmod	_	GTtags=Sem/Time
-7	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
+7	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	12	punct	_	_
 9	«	«	PUNCT	PUNCT	_	10	punct	_	GTtags=LEFT|SpaceAfter=No
 10	ура	ура	INTJ	Interj	_	12	compound:nn	_	SpaceAfter=No

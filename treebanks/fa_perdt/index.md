@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Mohammad Sadegh Rasooli, Pegah Safari, Amirsaeid Moloodi, Alireza Nourian.
 
 Repository: [UD_Persian-PerDT](https://github.com/UniversalDependencies/UD_Persian-PerDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_perdt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_perdt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -142,7 +142,8 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: خواهد, خواهند, خواهم, خواهیم, خواهید, نخواهد, خواهی, نخواهم, نخواهند, نخواهیم</li>
+    <li>AUX: خواهد, خواهند, باشد, خواهم, خواهیم, باشند, خواهید, نخواهد, باشم, باشید</li>
+    <li>VERB: کنید, کن, نکنید, بکنید, بزنید, شود, بدهید, دهید, بگیرید, نکن</li>
   </ul>
   </li>
 </ul>
@@ -168,12 +169,13 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
   <li>Plur
     <ul>
       <li>AUX: خواهند, بودند, باشند, خواهیم, باشید, بودیم, خواهید, باشیم, بودید, نخواهند</li>
-      <li>AUX-Fin: خواهند, خواهیم, خواهید, نخواهند, نخواهیم, نخواهید, درخواهند, برخواهند, بازخواهند, برخواهیم</li>
+      <li>AUX-Fin: خواهند, خواهیم, باشند, خواهید, باشید, باشیم, نخواهند, نخواهیم, نخواهید, درخواهند</li>
       <li>NOUN: مردم, همهٔ, تمام, همه, کسانی, دیگران, افراد, حقوق, بسیاری, کشورهای</li>
       <li>NUM: هزار, میلیون</li>
       <li>PRON: ما, آنها, شما, شان, تان, مان, آنان, خود, ایشان, آن‌ها</li>
       <li>PROPN: ملل, طالبان, امور, ایالات, علوم, منافقین, پاسداران, اطلاعات, دختران, تیم‌های</li>
       <li>VERB: کنید, می‌کنند, کرده‌اند, کردند, کنند, می‌کنیم, می‌کردند, هستند, کنیم, می‌کنید</li>
+      <li>VERB-Fin: کنید, نکنید, بکنید, بزنید, بدهید, دهید, بگیرید, بگذارید, ندهید, بیایید</li>
       <li>VERB-Part: کرده‌اند, کرده‌ایم, کرده‌اید, شده‌اند, داده‌اند, داشته‌اند, گرفته‌اند, زده‌اند, داده‌ایم, کرده</li>
     </ul>
   </li>
@@ -185,7 +187,7 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
       <li>ADJ: نوزادی‌</li>
       <li>ADP: جلوی, حدود, پیش</li>
       <li>AUX: است, بود, خواهد, باشد, خواهم, ست, بودم, نبود, باشم, نخواهد</li>
-      <li>AUX-Fin: خواهد, خواهم, نخواهد, خواهی, نخواهم, درخواهد, فروخواهد, برخواهد, بازخواهد, بازخواهم</li>
+      <li>AUX-Fin: خواهد, باشد, خواهم, نخواهد, باشم, خواهی, نخواهم, باشی, درخواهد, فروخواهد</li>
       <li>NOUN: سال, کار, کسی, دست, روز, خدا, سر, صورت, کشور, بار</li>
       <li>NUM: هزار, میلیون, میلیارد, صد, 251, 950, بیلیون</li>
       <li>PRON: آن, او, ش, این, من, م, تو, ت, خود, وی</li>
@@ -193,6 +195,7 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
       <li>PUNCT: سطح, چیزی</li>
       <li>SCONJ: اگر</li>
       <li>VERB: کرد, کرده, می‌کند, شد, کند, شده, می‌کرد, می‌شود, داد, داشت</li>
+      <li>VERB-Fin: کن, شود, نکن, بیا, بگو, بگذار, برو, بزن, بکن, بده</li>
       <li>VERB-Part: کرده, شده, داده, کرده‌ام, داشته, آمده, زده, گرفته, بوده, آورده</li>
     </ul>
   </li>
@@ -215,6 +218,7 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
       <li>AUX: نباید, نمی‌توان, نبود, نخواهد, نخواهم, نیست, نخواهند, نباشد, نخواهیم, نبودند</li>
       <li>AUX-Fin: نخواهد, نخواهم, نخواهند, نخواهیم, نخواهید, برنخواهند, نخواهی, برنخواهد, خواهد, نمی‌خواهد</li>
       <li>VERB: نیست, نکنید, ندارد, نمی‌تواند, نکرده, نمی‌شود, نکند, نداشته, نداشت, نشده</li>
+      <li>VERB-Fin: نکنید, نکن, ندهید, نزنید, نگیرید, نشوید, نورزید, نکشید, نبرید, نخورید</li>
       <li>VERB-Part: نکرده, نشده, نداشته, نکرده‌اند, نداده, نبوده, نداشته‌اند, نتوانسته, نکرده‌ام, نکرده‌ایم</li>
     </ul>
   </li>
@@ -232,7 +236,15 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: کنید, کن, نکنید, بکنید, بزنید, بدهید, دهید, بگیرید, نکن, بگذارید</li>
+      <li>VERB-Fin: کنید, کن, نکنید, بکنید, بزنید, بدهید, دهید, بگیرید, نکن, بگذارید</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: خواهد, خواهند, خواهم, خواهیم, خواهید, نخواهد, خواهی, نخواهم, نخواهند, نخواهیم</li>
     </ul>
   </li>
 </ul>
@@ -240,8 +252,8 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: باشد, باشند, باشم, باشید, باشیم, باشی</li>
-      <li>VERB: شود, شوند, نشود, بشود, بماند, شوید, شویم</li>
+      <li>AUX-Fin: باشد, باشند, باشم, باشید, باشیم, باشی</li>
+      <li>VERB-Fin: شود, شوند, نشود, بشود, بماند, شوید, شویم</li>
     </ul>
   </li>
 </ul>
@@ -263,6 +275,7 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
     <ul>
       <li>AUX: بود, بودند, بودم, بودیم, بودی, بودید, بوده, شد</li>
       <li>VERB: کرد, کرده, شد, شده, داد, کردند, داشت, داده, داشته, زد</li>
+      <li>VERB-Fin: داشته, نداشته</li>
       <li>VERB-Part: کرده, شده, داده, داشته, بوده, زده, گرفته, آمده, آورده, رفته</li>
     </ul>
   </li>
@@ -272,7 +285,9 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
   <li>Pres
     <ul>
       <li>AUX: است, باشد, باشند, باشم, باشید, باشیم, باشی, باش, می‌گردند</li>
+      <li>AUX-Fin: باشد, باشند, باشم, باشید, باشیم, باشی</li>
       <li>VERB: می‌کند, می‌کنند, می‌شود, کنید, دارد, می‌کنیم, می‌کنید, می‌کنم, کن, نکنید</li>
+      <li>VERB-Fin: کنید, کن, نکنید, بکنید, بزنید, شود, بدهید, دهید, بگیرید, نکن</li>
     </ul>
   </li>
 </ul>
@@ -286,6 +301,7 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
     <ul>
       <li>AUX: دارد, داشت, دارید, دارم, داریم, داشتم, داری, دارند, داشتند, داشتیم</li>
       <li>VERB: کرد, کرده, می‌کند, شد, کنید, می‌کنند, کند, می‌کرد, شده, کرده‌اند</li>
+      <li>VERB-Fin: کنید, کن, نکنید, بکنید, بزنید, بدهید, دهید, بگیرید, نکن, بگذارید</li>
       <li>VERB-Part: کرده, کرده‌اند, شده, کرده‌ام, کرده‌ایم, داده, داشته, کرده‌اید, آمده, زده</li>
     </ul>
   </li>
@@ -311,7 +327,7 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ش, م, شان, تان, مان, ت, اش, ام, یش, ات</li>
+      <li>PRON: او, ش, ما, من, م, شما, آنها, تو, شان, خود</li>
     </ul>
   </li>
 </ul>
@@ -327,9 +343,10 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
   <li>1
     <ul>
       <li>AUX: خواهم, خواهیم, بودم, بودیم, باشم, باشیم, نخواهم, نخواهیم, دارم, داریم</li>
-      <li>AUX-Fin: خواهم, خواهیم, نخواهم, نخواهیم, بازخواهم, برخواهم, برخواهیم, درخواهیم, درخواهم, فراخواهیم</li>
+      <li>AUX-Fin: خواهم, خواهیم, باشم, باشیم, نخواهم, نخواهیم, بازخواهم, برخواهم, برخواهیم, درخواهیم</li>
       <li>PRON: ما, من, م, مان, خود, ام, یم, یمان, او, بنده</li>
       <li>VERB: می‌کنیم, کردم, کنیم, می‌کنم, کردیم, کرده‌ام, کنم, کرده‌ایم, می‌کردم, م</li>
+      <li>VERB-Fin: بخواهیم, بسوزانیم, بموییم, بیاوریم, شویم, نداریم, ندهیم, نکن, نکنیم, کنیم</li>
       <li>VERB-Part: کرده‌ام, کرده‌ایم, داده‌ایم, داده‌ام, داشته‌ام, داشته‌ایم, شده‌ام, آورده‌ام, زده‌ام, گرفته‌ایم</li>
     </ul>
   </li>
@@ -339,9 +356,10 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
   <li>2
     <ul>
       <li>AUX: باشید, خواهید, خواهی, بودی, بودید, باش, باشی, دارید, داری, نباشید</li>
-      <li>AUX-Fin: خواهید, خواهی, نخواهید, برخواهی, بازخواهی, برخواهید, نخواهی, درخواهی, درخواهید</li>
+      <li>AUX-Fin: خواهید, باشید, خواهی, باشی, نخواهید, برخواهی, بازخواهی, برخواهید, نخواهی, درخواهی</li>
       <li>PRON: شما, تو, تان, ت, خود, ات, یت, یتان, شماها, شماهایی</li>
       <li>VERB: کنید, می‌کنید, نکنید, بکنید, کن, بزنید, کرده‌اید, بدهید, می‌توانید, کردی</li>
+      <li>VERB-Fin: کنید, کن, نکنید, بکنید, بزنید, بدهید, دهید, بگیرید, نکن, بگذارید</li>
       <li>VERB-Part: کرده‌اید, داده‌اید, زده‌اید, کرده‌ای, گرفته‌اید, آورده‌اید, داشته‌اید, دیده‌اید, شده‌اید, شنیده‌اید</li>
     </ul>
   </li>
@@ -351,9 +369,10 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
   <li>3
     <ul>
       <li>AUX: است, بود, خواهد, خواهند, باشد, بودند, باشند, ست, نبود, بوده</li>
-      <li>AUX-Fin: خواهد, خواهند, نخواهد, نخواهند, درخواهد, فروخواهد, برخواهد, درخواهند, بازخواهد, برخواهند</li>
+      <li>AUX-Fin: خواهد, خواهند, باشد, باشند, نخواهد, نخواهند, درخواهد, فروخواهد, برخواهد, درخواهند</li>
       <li>PRON: او, ش, آنها, شان, وی, آنان, خود, اش, ایشان, یش</li>
       <li>VERB: کرد, کرده, می‌کند, شد, می‌کنند, کند, شده, می‌کرد, می‌شود, کرده‌اند</li>
+      <li>VERB-Fin: شود, داشته, شوند, بروید, نشود, کن, بشود, دارند, نترسید, نورزید</li>
       <li>VERB-Part: کرده, کرده‌اند, شده, داده, داشته, آمده, شده‌اند, زده, داده‌اند, گرفته</li>
     </ul>
   </li>
@@ -395,13 +414,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (13875)</li>
+      <li>VERB--NOUN (13845)</li>
       <li>VERB--NOUN-ADP(در) (1)</li>
       <li>VERB--NOUN-ADP(مثل) (1)</li>
       <li>VERB--NOUN-ADP(میان) (1)</li>
       <li>VERB--NOUN-ADP(همراه) (1)</li>
       <li>VERB--NOUN-ADP(پیش)-ADP(از) (1)</li>
-      <li>VERB--PRON (3531)</li>
+      <li>VERB--PRON (3458)</li>
+      <li>VERB-Fin--NOUN (30)</li>
+      <li>VERB-Fin--PRON (73)</li>
       <li>VERB-Part--NOUN (2018)</li>
       <li>VERB-Part--PRON (468)</li>
     </ul>
@@ -411,7 +432,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4779)</li>
+      <li>VERB--NOUN (4556)</li>
       <li>VERB--NOUN-ADP(از)-ADP(را) (3)</li>
       <li>VERB--NOUN-ADP(بین)-ADP(را) (1)</li>
       <li>VERB--NOUN-ADP(تا)-ADP(را) (5)</li>
@@ -419,20 +440,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(جز)-ADP(را) (1)</li>
       <li>VERB--NOUN-ADP(جلو)-ADP(را) (7)</li>
       <li>VERB--NOUN-ADP(جلوی)-ADP(را) (2)</li>
-      <li>VERB--NOUN-ADP(را) (10446)</li>
-      <li>VERB--NOUN-ADP(را)-ADP(و) (4)</li>
+      <li>VERB--NOUN-ADP(را) (9698)</li>
+      <li>VERB--NOUN-ADP(را)-ADP(و) (3)</li>
       <li>VERB--NOUN-ADP(را)-ADP(که) (1)</li>
-      <li>VERB--NOUN-ADP(رو) (4)</li>
+      <li>VERB--NOUN-ADP(رو) (3)</li>
       <li>VERB--NOUN-ADP(روی)-ADP(را) (1)</li>
       <li>VERB--NOUN-ADP(سوء)-ADP(را) (1)</li>
-      <li>VERB--PRON (181)</li>
+      <li>VERB--PRON (171)</li>
       <li>VERB--PRON-ADP(بین)-ADP(را) (2)</li>
-      <li>VERB--PRON-ADP(جز)-ADP(را) (2)</li>
-      <li>VERB--PRON-ADP(جلو)-ADP(را) (2)</li>
-      <li>VERB--PRON-ADP(را) (1786)</li>
-      <li>VERB--PRON-ADP(را)-ADP(و) (3)</li>
+      <li>VERB--PRON-ADP(جز)-ADP(را) (1)</li>
+      <li>VERB--PRON-ADP(جلو)-ADP(را) (1)</li>
+      <li>VERB--PRON-ADP(را) (1643)</li>
+      <li>VERB--PRON-ADP(را)-ADP(و) (2)</li>
       <li>VERB--PRON-ADP(روی)-ADP(را) (1)</li>
       <li>VERB--PRON-ADP(میان)-ADP(را) (1)</li>
+      <li>VERB-Fin--NOUN (223)</li>
+      <li>VERB-Fin--NOUN-ADP(را) (748)</li>
+      <li>VERB-Fin--NOUN-ADP(را)-ADP(و) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(رو) (1)</li>
+      <li>VERB-Fin--PRON (10)</li>
+      <li>VERB-Fin--PRON-ADP(جز)-ADP(را) (1)</li>
+      <li>VERB-Fin--PRON-ADP(جلو)-ADP(را) (1)</li>
+      <li>VERB-Fin--PRON-ADP(را) (143)</li>
+      <li>VERB-Fin--PRON-ADP(را)-ADP(و) (1)</li>
       <li>VERB-Part--NOUN (530)</li>
       <li>VERB-Part--NOUN-ADP(را) (1287)</li>
       <li>VERB-Part--NOUN-ADP(مورد)-ADP(را) (1)</li>

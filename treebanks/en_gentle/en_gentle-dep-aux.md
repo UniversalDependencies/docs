@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 aux	color:blue
-1	After	after	SCONJ	IN	_	2	mark	2:mark	Discourse=context-circumstance:78->79:0:dm-after-480|PDTB=Explicit:Temporal.Asynchronous.Succession:after:480:485-491:481-484;NoRel:NoRel:_:_:452-479:480-491
+1	After	after	SCONJ	IN	_	2	mark	2:mark	Discourse=context-circumstance:78->79:0:dm-after-480-_|PDTB=Explicit:Temporal.Asynchronous.Succession:after:480:485-491:481-484;NoRel:NoRel:_:_:452-479:480-491
 2	completing	complete	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	10:advcl:after	MSeg=complet-ing
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	Entity=(1-abstract-giv:act-sssss-cf1*-2-coref
 4	course	course	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=1)|SpaceAfter=No

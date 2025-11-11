@@ -7,60 +7,65 @@ udver: '2'
 ## Treebank Statistics: UD_Nenets-Tundra: Relations: `obl:mod`
 
 This relation is a language-specific subtype of .
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="yrk_tundra-dep-obl-arg.html">obl:arg</a></tt>.
 
-2 nodes (0%) are attached to their parents as `obl:mod`.
+129 nodes (10%) are attached to their parents as `obl:mod`.
 
-2 instances of `obl:mod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.
+129 instances of `obl:mod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.05426356589147.
 
-The following 2 pairs of parts of speech are connected with `obl:mod`: <tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 6 pairs of parts of speech are connected with `obl:mod`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (117; 91% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 3 obl:mod	color:blue
-1	Тадтикахавахад	тадтикахавахад	ADV	_	_	9	obl:arg	_	AlignBegin=50606.7418763|AlignEnd=51728.6156375|Gloss=afterwards|Translit=Tadťikaxawaxad|LTranslit=tadťikaxawaxad
-2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=51728.6156375|AlignEnd=54649.3234326|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
-3	маха<a>	маха	NOUN	_	_	9	obl:mod	_	AlignBegin=54649.3234326|AlignEnd=55244.2816745|Gloss=back|Translit=maxa<a>|LTranslit=maxa
-4	харадмʼ	харад	NOUN	_	_	9	obj	_	AlignBegin=55244.2816745|AlignEnd=55683.5491889|Gloss=house-acc|Translit=xaradmʔ|LTranslit=xarad
-5	<f_s>сюрт<u_l>	сюрте	ADP	_	_	9	obl:arg	_	AlignBegin=55683.5491889|AlignEnd=56004.541037|Gloss=around|Translit=<f_s>śurt<u_l>|LTranslit=śurťe
-6	сятаняӈы	сятаняӈы	ADJ	_	_	7	amod	_	AlignBegin=56004.541037|AlignEnd=56506.4632633|Gloss=to.the.left.adj|Translit=śatańaŋi|LTranslit=śatańaŋi
-7	хэвувнанда	хэв	NOUN	_	_	5	reparandum	_	AlignBegin=56506.4632633|AlignEnd=56972.3912384|Gloss=side-prol-poss.3sg|Translit=xæwuwnanda|LTranslit=xæw
-8	сюрте	сюрте	ADP	_	_	7	case	_	AlignBegin=56972.3912384|AlignEnd=57793.7432415|Gloss=around|Translit=śurťe|LTranslit=śurťe
-9	<m_l>хэя<b_p>	хэ-<b_p>	PUNCT	_	_	0	root	_	AlignBegin=56972.3912384|AlignEnd=58380.4204161|Gloss=goSIL|Translit=<m_l>xæja<b_p>|LTranslit=xæ-<b_p>
-10	хойʼ	хой	NOUN	_	_	12	nmod:poss	_	AlignBegin=58380.4204161|AlignEnd=58582.401827|Gloss=hill-gen|Translit=xojʔ|LTranslit=xoj
-11	<u_w>ниӈа	ниня	ADP	_	_	10	case	_	AlignBegin=58582.401827|AlignEnd=59179.9403164|Gloss=at.loc|Translit=<u_w>ńiŋa|LTranslit=ńińa
-12	тирʼ	тир	NOUN	_	_	14	obl:arg	_	AlignBegin=59179.9403164|AlignEnd=59439.1332951|Gloss=edge-gen|Translit=ťirʔ|LTranslit=ťir
-13	серʼ	серʼ	ADP	_	_	12	case	_	AlignBegin=59439.1332951|AlignEnd=59686.1362838|Gloss=at.the.time.of|Translit=śerʔ|LTranslit=śerʔ
-14	ялъянаˮ	ялъя-	VERB	_	_	9	parataxis	_	AlignBegin=59686.1362838|AlignEnd=60451.3848451|Gloss=walk-1pl.refl|Translit=jal"janaʡ|LTranslit=jal"ja-
-15	<s_p>	<s_p>	PUNCT	_	_	9	punct	_	AlignBegin=60451.3848451|AlignEnd=60789.1369941|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 obl:mod	color:blue
+1	<p>	<p>	X	_	_	5	discourse	_	AlignBegin=0|AlignEnd=979.856581104|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
+2	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	3	nmod:poss	_	AlignBegin=979.856581104|AlignEnd=1364.09832867|LTranslit=marʡ|MGloss=fence-poss.gen.2sg|MSeg=маря-дʼ|Translit=maŕadʔ
+3	нёʼ	нё	NOUN	_	_	4	nmod:poss	_	AlignBegin=1364.09832867|AlignEnd=1685.14242038|LTranslit=ńo|MGloss=door-gen|MSeg=нё-ʼ|Translit=ńoʔ
+4	сивня	си	NOUN	_	_	5	obl:mod	_	AlignBegin=1685.14242038|AlignEnd=236.5213869|LTranslit=śi|MGloss=hole-prol|MSeg=си-вня|Translit=śiwńa
+5	мятюдмʼ	мятю-	VERB	_	_	0	root	_	AlignBegin=2036.5213869|AlignEnd=2898.53741269|LTranslit=ḿaťu-|MGloss=tent.step.in-1sg|MSeg=мятю-дмʼ|Translit=ḿaťudmʔ
+6	сятаняюʼ	сятаняюʼ	ADV	_	_	7	advmod	_	AlignBegin=2898.53741269|AlignEnd=3908.94746873|Gloss=to.the.left.pol|LTranslit=śatańajuʔ|Translit=śatańajuʔ
+7	мэв	мэ-	VERB	_	_	5	parataxis	_	AlignBegin=3908.94746873|AlignEnd=4618.46112064|LTranslit=mæ-|MGloss=take-1sg.sg|MSeg=мэ-в|Translit=mæw
+8	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=4618.46112064|AlignEnd=5738.34719428|Gloss=SIL|LTranslit=<p>|Translit=<p>
+9	сюртев	сюрте-	VERB	_	_	5	parataxis	_	AlignBegin=5738.34719428|AlignEnd=6359.53818393|LTranslit=śurťe-|MGloss=go.around-1sg.sg|MSeg=сюрте-в|Translit=śurťew
+10	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=6359.53818393|AlignEnd=6711.90672276|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 8 obl:mod	color:blue
-1	таремʼ	таремʼ	ADV	_	_	2	obl:arg	_	AlignBegin=56781.9280695|AlignEnd=57060.5585621|Gloss=this.way|Translit=taŕemʔ|LTranslit=taŕemʔ
-2	пэр-ӈава	пэр-	VERB	_	_	0	root	_	AlignBegin=57060.5585621|AlignEnd=57717.1864717|Gloss=do-co-1sg.refl|Translit=pær-ŋawa|LTranslit=pær-
-3	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=57717.1864717|AlignEnd=58981.3998959|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
-4	яхаʼ	яха	NOUN	_	_	5	nmod:poss	_	AlignBegin=58981.3998959|AlignEnd=59250.8721919|Gloss=river-gen|Translit=jaxaʔ|LTranslit=jaxa
-5	варувна	вар	NOUN	_	_	12	obl:arg	_	AlignBegin=59250.8721919|AlignEnd=59843.6957575|Gloss=shore-prol|Translit=waruwna|LTranslit=war
-6	<s_p>	<s_p>	X	_	_	5	discourse	_	AlignBegin=59843.6957575|AlignEnd=60077.538703|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
-7	яхаʼ	яха	NOUN	_	_	8	nmod:poss	_	AlignBegin=60077.538703|AlignEnd=60272.679267|Gloss=river-gen|Translit=jaxaʔ|LTranslit=jaxa
-8	лаӈгʼ	лаӈг	NOUN	_	_	12	obl:mod	_	AlignBegin=60272.679267|AlignEnd=60517.5542162|Gloss=steep.riverbank-gen|Translit=laŋgʔ|LTranslit=laŋg
-9	сятаняюмна	сятаняю	ADJ	_	_	12	obl:arg	_	AlignBegin=60517.5542162|AlignEnd=61331.3154805|Gloss=to.the.left.adj-prol|Translit=śatańajumna|LTranslit=śatańaju
-10	ӈобʼ	ӈобʼ	ADV	_	_	11	obl:arg	_	AlignBegin=61331.3154805|AlignEnd=61561.2590304|Gloss=once, and|Translit=ŋobʔ|LTranslit=ŋobʔ
-11	яда	яда	ADV	_	_	12	obl:arg	_	AlignBegin=61561.2590304|AlignEnd=61888.2566761|Gloss=on.foot|Translit=jada|LTranslit=jada
-12	нэкал-ӈав	нэкал-	VERB	_	_	2	parataxis	_	AlignBegin=61888.2566761|AlignEnd=62546.2706197|Gloss=pull-co-1sg.sg|Translit=nækal-ŋaw|LTranslit=nækal-
-13	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=62546.2706197|AlignEnd=63077.3578044|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 obl:mod	color:blue
+1	ӈавоʼ	ӈамгэ	PRON	_	_	5	obl:mod	_	AlignBegin=60628.7794315|AlignEnd=61168.7965189|Gloss=what.gen.pl|LTranslit=ŋamgæ|Translit=ŋawoʔ
+2	пиркаˮнаˮ	пиркана	ADP	_	_	1	case	_	AlignBegin=61168.7965189|AlignEnd=61888.1397788|LTranslit=ṕirkana|MGloss=until.pl.loc-pl|MSeg=пиркаˮна-ˮ|Translit=ṕirkaʡnaʡ
+3	нёнда	нё	NOUN	_	Number=Sing|Person=3	4	nmod:poss	_	AlignBegin=61888.1397788|AlignEnd=62251.2559215|LTranslit=ńo|MGloss=door-poss.gen.3sg|MSeg=нё-нда|Translit=ńonda
+4	синʼ	си	NOUN	_	_	5	obl:mod	_	AlignBegin=62251.2559215|AlignEnd=62544.3330073|LTranslit=śi|MGloss=hole-dat|MSeg=си-нʼ|Translit=śinʔ
+5	тэвывʼ	тэва-	VERB	_	_	0	root	_	AlignBegin=62544.3330073|AlignEnd=62970.4986255|LTranslit=tæwa-|MGloss=arrive-1sg.refl|MSeg=тэвы-вʼ|Translit=tæwiwʔ
+6	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=62970.4986255|AlignEnd=63317.6735539|Gloss=SIL|LTranslit=<p>|Translit=<p>
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 obl:mod	color:blue
+1	тадтикахад	тадтикахад	ADV	_	_	7	advmod	_	AlignBegin=85608.2363685|AlignEnd=86178.7670915|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
+2	сятанякубтаʼ	сятанякубта	NOUN	_	_	3	obl:mod	_	AlignBegin=86178.7670915|AlignEnd=86881.7424467|LTranslit=śatańakubta|MGloss=left.side-gen|MSeg=сятанякубта-ʼ|Translit=śatańakubtaʔ
+3	мэхэя	мэ-	ADV	_	_	7	advmod	_	AlignBegin=86881.7424467|AlignEnd=87520.8550405|LTranslit=mæ-|MGloss=take-intens.cvb|MSeg=мэ-хэя|Translit=mæxæja
+4	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=87520.8550405|AlignEnd=88257.1290112|Gloss=SIL|LTranslit=<p>|Translit=<p>
+5	тамна	тамна	ADV	_	_	6	advmod	_	AlignBegin=88257.1290112|AlignEnd=88445.6079108|Gloss=even|LTranslit=tamna|Translit=tamna
+6	тяхаʼ	тяхаʼ	ADV	_	_	7	advmod	_	AlignBegin=88445.6079108|AlignEnd=88578.0525429|Gloss=further|LTranslit=ťaxaʔ|Translit=ťaxaʔ
+7	ялъявʼ	ялъя-	VERB	_	_	0	root	_	AlignBegin=88578.0525429|AlignEnd=89062.3063082|LTranslit=jal"ja-|MGloss=walk-1sg.refl|MSeg=ялъя-вʼ|Translit=jal"jawʔ
+8	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=89062.3063082|AlignEnd=89947.8724775|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 ~~~
 

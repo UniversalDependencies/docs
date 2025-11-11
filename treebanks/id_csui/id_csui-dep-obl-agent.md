@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	tekanan	tekan	NOUN	NN	Number=Sing	6	nsubj	_	_
 4	inflasi	inflasi	NOUN	NN	Number=Sing	3	nmod	_	_
 5	sendiri	sendiri	DET	DT	PronType=Emp	3	det	_	_
-6	didorong	dorong	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+6	didorong	dorong	VERB	VB	Voice=Pass	0	root	_	_
 7	oleh	oleh	ADP	IN	_	8	case	_	_
 8	kenaikan	naik	NOUN	NN	Number=Sing	6	obl:agent	_	_
 9	harga	harga	NOUN	NN	Number=Sing	8	nmod	_	_
@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Sisa	sisa	NOUN	NN	Number=Sing	4	nsubj:pass	_	_
 2	nya	nya	DET	DT	Definite=Def|PronType=Art	1	det	_	_
 3	,	,	PUNCT	,	_	4	punct	_	_
-4	dimiliki	milik	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+4	dimiliki	milik	VERB	VB	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	IN	_	6	case	_	_
 6	PT	PT	PROPN	NNP	_	4	obl:agent	_	_
 7	Multi	Multi	PROPN	NNP	_	6	flat:name	_	_
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obl:agent	color:blue
-1	Disebutkan	sebut	VERB	VB	Mood=Ind|Voice=Pass	15	parataxis	_	_
+1	Disebutkan	sebut	VERB	VB	Voice=Pass	15	parataxis	_	_
 2	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	1	obl:agent	_	_
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	keuangan	uang	NOUN	NN	Number=Sing	15	nsubj	_	_

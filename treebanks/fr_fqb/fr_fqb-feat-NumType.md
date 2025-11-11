@@ -29,11 +29,12 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 ### `NUM`
 
-115 <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+115 <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (115; 100% of non-empty `NumType`): <em>deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</em>
+* `EMPTY` (1): <em>17 451</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (66) occur only with one value of `NumType`.
 
@@ -52,7 +53,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 1 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `NumType`:
 

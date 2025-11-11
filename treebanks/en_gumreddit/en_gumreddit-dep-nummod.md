@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	Lem=happen|Len=8|MSeg=happen-ed
 5	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=2
 6	_	_	PROPN	NNP	Number=Sing	4	obl	4:obl:in|13:obl	Entity=(60-place-new-nnnnn-cf3-1-coref-Zimbabwe)|Lem=_|Len=8
-7	_	_	ADV	WRB	PronType=Rel	13	advmod	6:ref|13:advmod	Discourse=elaboration-attribute:55->54:0:syn-mdf-357+syn-relcl-358,364|Lem=_|Len=5
+7	_	_	ADV	WRB	PronType=Rel	13	advmod	6:ref|13:advmod	Discourse=elaboration-attribute:55->54:0:syn-mdf-357-_+syn-relcl-358,364-_|Lem=_|Len=5
 8	_	_	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(61-event-new-nnnnn-cf2-4-sgl|Lem=_|Len=1
 9	_	_	NUM	CD	NumForm=Word|NumType=Card	10	nummod	10:nummod	Entity=(62-abstract-new-nnnnn-cf5-2-sgl|Lem=_|Len=7
 10	_	_	NOUN	NN	Number=Sing	11	compound	11:compound	Entity=62)|Lem=_|Len=6
@@ -51,14 +51,14 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 14 nummod	color:blue
-1	_	_	CCONJ	CC	_	11	cc	11:cc	Discourse=context-circumstance:48->49:0:_;adversative-concession:48->49:0:0:orp-and-315|Lem=*LOWER*|Len=3|PDTB=Explicit:Comparison.Contrast:but:308:292-307:309-329
+1	_	_	CCONJ	CC	_	11	cc	11:cc	Discourse=context-circumstance:48->49:0:_;adversative-concession:48->49:0:0:orp-and-315-gold|Lem=*LOWER*|Len=3|PDTB=Explicit:Comparison.Contrast:but:308:292-307:309-329
 2	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Entity=(23-organization-giv:inact-nnsss-cf2-2-coref|Lem=_|Len=3
 3	_	_	NOUN	NN	Number=Sing|Typo=Yes	4	nsubj	4:nsubj|5:nsubj:xsubj	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
 4	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=keep|Len=5|MSeg=keep-s
 5	_	_	VERB	VBG	VerbForm=Ger	4	xcomp	4:xcomp	Lem=issue|Len=7|MSeg=issu-ing
 6	_	_	ADJ	JJR	Degree=Cmp	7	amod	7:amod	Entity=(56-abstract-new-nnnnn-cf4-2-sgl|Lem=_|Len=4
 7	_	_	NOUN	NN	Number=Sing	5	obj	5:obj	Entity=56)|Lem=_|Len=4
-8	_	_	CCONJ	CC	_	11	cc	11:cc	Discourse=adversative-antithesis:49->46:1:dm-but-308|Lem=_|Len=3|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:and:315:316-327:308-314
+8	_	_	CCONJ	CC	_	11	cc	11:cc	Discourse=adversative-antithesis:49->46:1:dm-but-308-gold|Lem=_|Len=3|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:and:315:316-327:308-314
 9	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	11:nsubj	Entity=(32-person-acc:com-nnnnn-cf3-1-ana)|Lem=_|Len=2
 10	_	_	ADV	RB	Degree=Pos	11	advmod	11:advmod	Lem=_|Len=5
 11	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	conj	4:conj:and	Lem=_|Len=4
@@ -83,10 +83,10 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 14 nummod	color:blue
-1	_	_	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Discourse=elaboration-additional:18->16:2:ref-prop-85-105+dm-this means-105-106+grf-prn-138,141|Entity=(17-event-giv:act-nnnnn-cf1*-1-coref)|Lem=*LOWER*|Len=4|PDTB=Explicit:Expansion.Conjunction:this means:105-106:85-104:107-142
+1	_	_	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Discourse=elaboration-additional:18->16:2:ref-prop-85-105-_+dm-this means-105-106-gold+grf-prn-138,141-_|Entity=(17-event-giv:act-nnnnn-cf1*-1-coref)|Lem=*LOWER*|Len=4|PDTB=Explicit:Expansion.Conjunction:this means:105-106:85-104:107-142
 2	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=mean|Len=5|MSeg=mean-s
 3	_	_	SCONJ	IN	_	31	mark	31:mark	Lem=_|Len=4
-4	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=contingency-condition:19->22:0:dm-if-108+mrf-md-133|Entity=(22-event-new-nnnnn-cf6-28-disc|Lem=_|Len=2|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:108:105-107,128-137:109-127
+4	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=contingency-condition:19->22:0:dm-if-108-gold+mrf-md-133-_|Entity=(22-event-new-nnnnn-cf6-28-disc|Lem=_|Len=2|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:108:105-107,128-137:109-127
 5	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=3<23|Entity=(23-organization-acc:inf-nnsss-cf3-2-coref|Lem=_|Len=3
 6	_	_	NOUN	NN	Number=Sing|Typo=Yes	7	nsubj	7:nsubj|9:nsubj:xsubj	CorrectForm=government|Entity=23)|Lem=government|Len=4|XML=<sic ana:::"government"></sic>
 7	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	advcl	31:advcl:if	CxnElt=31:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|Lem=decide|Len=7|MSeg=decid-ed
@@ -94,7 +94,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	_	_	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	Lem=_|Len=5
 10	_	_	SYM	$	_	9	obj	9:obj	Entity=(24-abstract-new-nnnnn-cf2-1-coref|Lem=_|Len=1
 11	_	_	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	10:nummod	Entity=24)|Lem=100000000000000000|Len=23
-12	_	_	PUNCT	-LRB-	_	15	punct	15:punct	Discourse=restatement-partial:20->19:0:sem-synym-114-115,117-119+grf-prn-116,120|Lem=_|Len=1|SpaceAfter=No
+12	_	_	PUNCT	-LRB-	_	15	punct	15:punct	Discourse=restatement-partial:20->19:0:sem-synym-114-115,117-119-_+grf-prn-116,120-_|Lem=_|Len=1|SpaceAfter=No
 13	_	_	NUM	CD	NumForm=Digit|NumType=Card	14	compound	14:compound	Entity=(24-abstract-giv:act-nnnnn-cf2-3-appos|Lem=_|Len=1
 14	_	_	NOUN	NN	Number=Sing	15	nummod	15:nummod	Lem=_|Len=11
 15	_	_	NOUN	NNS	Number=Plur	10	appos	10:appos	Entity=24)|Lem=dollar|Len=7|MSeg=dollar-s|SpaceAfter=No
@@ -116,7 +116,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 31	_	_	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=31:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|Lem=_|Len=5
 32	_	_	ADV	RB	_	33	advmod	33:advmod	Lem=_|Len=6
 33	_	_	ADV	RB	Degree=Pos	31	advmod	31:advmod	Lem=_|Len=4
-34	_	_	PUNCT	-LRB-	_	35	punct	35:punct	Discourse=evaluation-comment:23->18:1:lex-indwd-139|Lem=_|Len=1|SpaceAfter=No
+34	_	_	PUNCT	-LRB-	_	35	punct	35:punct	Discourse=evaluation-comment:23->18:1:lex-indwd-139-_|Lem=_|Len=1|SpaceAfter=No
 35	_	_	ADV	RB	Degree=Pos	31	advmod	31:advmod	Lem=_|Len=8|MSeg=probab-ly
 36	_	_	PUNCT	:	_	35	punct	35:punct	Lem=…|Len=3|SpaceAfter=No
 37	_	_	PUNCT	-RRB-	_	35	punct	35:punct	Entity=22)|Lem=_|Len=1|SpaceAfter=No

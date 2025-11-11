@@ -201,7 +201,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1472; 88%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (881; 62%),
 <tt>VERB --[<tt><a href="ru_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (569; 53%),
-<tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (540; 93%),
+<tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (541; 93%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-det.html">det</a></tt>]--> DET</tt> (329; 73%),
 <tt>VERB --[<tt><a href="ru_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (324; 92%),
 <tt>NOUN --[<tt><a href="ru_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (262; 71%),

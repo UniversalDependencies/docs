@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	con	con	ADP	IN	_	5	case	_	_
 5	premi	premio	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
 6	per	per	ADP	IN	_	8	case	_	_
-7	la	il	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+7	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	letteratura	letteratura	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
 9	da	da	ADP	IN	_	11	case	_	_
 10	le	il	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_

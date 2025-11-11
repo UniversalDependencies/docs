@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-PART
 `PART` tokens may have the following values of `Case`:
 
 * `Gen` (3285; 100% of non-empty `Case`): 的、 之、 地
-* `EMPTY` (6597): 人、 大、 者、 市、 区、 会、 军、 的、 省、 家
+* `EMPTY` (6596): 人、 大、 者、 市、 区、 会、 的、 军、 省、 家
 
 ### `ADP`
 
@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-PART
 `ADP` tokens may have the following values of `Case`:
 
 * `Gen` (1; 100% of non-empty `Case`): 之外
-* `EMPTY` (5628): 在、 于、 中、 与、 后、 时、 上、 对、 因、 从
+* `EMPTY` (5631): 在、 于、 中、 与、 后、 时、 上、 对、 因、 从
 

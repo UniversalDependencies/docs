@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (330; 100%),
+<tt>NUM --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (331; 100%),
 <tt>NUM --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (321; 100%),
 <tt>NUM --[<tt><a href="de_hdt-dep-appos.html">appos</a></tt>]--> NUM</tt> (49; 100%),
 <tt>NUM --[<tt><a href="de_hdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (21; 100%),

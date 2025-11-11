@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="es_gsd-pos-ADV.
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.034234 (the average of all parts of speech is 1.291521).
+The form / lemma ratio of `ADV` is 1.034234 (the average of all parts of speech is 1.291536).
 
 The 1st highest number of forms (4) was observed with the lemma “mucho”: <em>muchas, mucho, muchos, muy</em>.
 
@@ -69,13 +69,13 @@ The 2nd highest number of forms (3) was observed with the lemma “ahí”: <em>
 
 The 3rd highest number of forms (3) was observed with the lemma “tanto”: <em>tan, tanta, tanto</em>.
 
-`ADV` occurs with 4 features: <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt> (1723; 14% instances), <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt> (1568; 13% instances), <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt> (528; 4% instances), <tt><a href="es_gsd-feat-Typo.html">Typo</a></tt> (149; 1% instances)
+`ADV` occurs with 5 features: <tt><a href="es_gsd-feat-Polarity.html">Polarity</a></tt> (1723; 14% instances), <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt> (1568; 13% instances), <tt><a href="es_gsd-feat-ExtPos.html">ExtPos</a></tt> (1285; 10% instances), <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt> (528; 4% instances), <tt><a href="es_gsd-feat-Typo.html">Typo</a></tt> (149; 1% instances)
 
-`ADV` occurs with 8 feature-value pairs: `Degree=Cmp`, `Polarity=Neg`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Rel`, `Typo=Yes`
+`ADV` occurs with 12 feature-value pairs: `Degree=Cmp`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Rel`, `Typo=Yes`
 
-`ADV` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (8531 tokens).
-Examples: <em>también, muy, ya, además, así, después, sólo, bien, antes, luego</em>
+`ADV` occurs with 18 feature combinations.
+The most frequent feature combination is `_` (7265 tokens).
+Examples: <em>también, muy, ya, además, sólo, bien, así, entonces, solo, hoy</em>
 
 
 ## Relations
@@ -86,15 +86,15 @@ Parents of `ADV` nodes belong to 17 different parts of speech: <tt><a href="es_g
 
 9275 (74%) `ADV` nodes are leaves.
 
-2689 (22%) `ADV` nodes have one child.
+2690 (22%) `ADV` nodes have one child.
 
-397 (3%) `ADV` nodes have two children.
+396 (3%) `ADV` nodes have two children.
 
 138 (1%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 7.
 
-Children of `ADV` nodes are attached using 25 different relations: <tt><a href="es_gsd-dep-fixed.html">fixed</a></tt> (1324; 33% instances), <tt><a href="es_gsd-dep-punct.html">punct</a></tt> (707; 18% instances), <tt><a href="es_gsd-dep-case.html">case</a></tt> (546; 14% instances), <tt><a href="es_gsd-dep-advmod.html">advmod</a></tt> (461; 12% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (377; 9% instances), <tt><a href="es_gsd-dep-cc.html">cc</a></tt> (195; 5% instances), <tt><a href="es_gsd-dep-det.html">det</a></tt> (89; 2% instances), <tt><a href="es_gsd-dep-conj.html">conj</a></tt> (79; 2% instances), <tt><a href="es_gsd-dep-advcl.html">advcl</a></tt> (52; 1% instances), <tt><a href="es_gsd-dep-appos.html">appos</a></tt> (18; 0% instances), <tt><a href="es_gsd-dep-dep.html">dep</a></tt> (18; 0% instances), <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (17; 0% instances), <tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (15; 0% instances), <tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt> (14; 0% instances), <tt><a href="es_gsd-dep-amod.html">amod</a></tt> (13; 0% instances), <tt><a href="es_gsd-dep-cop.html">cop</a></tt> (13; 0% instances), <tt><a href="es_gsd-dep-obl.html">obl</a></tt> (9; 0% instances), <tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="es_gsd-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="es_gsd-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="es_gsd-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="es_gsd-dep-nummod.html">nummod</a></tt> (3; 0% instances), <tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 25 different relations: <tt><a href="es_gsd-dep-fixed.html">fixed</a></tt> (1324; 33% instances), <tt><a href="es_gsd-dep-punct.html">punct</a></tt> (707; 18% instances), <tt><a href="es_gsd-dep-case.html">case</a></tt> (546; 14% instances), <tt><a href="es_gsd-dep-advmod.html">advmod</a></tt> (461; 12% instances), <tt><a href="es_gsd-dep-nmod.html">nmod</a></tt> (377; 9% instances), <tt><a href="es_gsd-dep-cc.html">cc</a></tt> (194; 5% instances), <tt><a href="es_gsd-dep-det.html">det</a></tt> (89; 2% instances), <tt><a href="es_gsd-dep-conj.html">conj</a></tt> (79; 2% instances), <tt><a href="es_gsd-dep-advcl.html">advcl</a></tt> (52; 1% instances), <tt><a href="es_gsd-dep-appos.html">appos</a></tt> (18; 0% instances), <tt><a href="es_gsd-dep-dep.html">dep</a></tt> (18; 0% instances), <tt><a href="es_gsd-dep-mark.html">mark</a></tt> (17; 0% instances), <tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (15; 0% instances), <tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt> (14; 0% instances), <tt><a href="es_gsd-dep-amod.html">amod</a></tt> (13; 0% instances), <tt><a href="es_gsd-dep-cop.html">cop</a></tt> (13; 0% instances), <tt><a href="es_gsd-dep-obl.html">obl</a></tt> (9; 0% instances), <tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt> (8; 0% instances), <tt><a href="es_gsd-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="es_gsd-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="es_gsd-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="es_gsd-dep-nummod.html">nummod</a></tt> (3; 0% instances), <tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="es_gsd-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 15 different parts of speech: <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (1415; 36% instances), <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (707; 18% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (536; 13% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (484; 12% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (257; 6% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (137; 3% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (136; 3% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (88; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (86; 2% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (41; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (39; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (5; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (1415; 36% instances), <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (707; 18% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (536; 13% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (483; 12% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (257; 6% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt> (137; 3% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (136; 3% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (88; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (86; 2% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (41; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (39; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (5; 0% instances)
 

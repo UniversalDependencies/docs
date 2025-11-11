@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sd_isra-dep-nsubj.html">nsubj</a></tt>.
 
-19 nodes (0%) are attached to their parents as `nsubj:pass`.
+81 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-19 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.63157894736842.
+80 instances of `nsubj:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.18518518518519.
 
-The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (16; 84% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (3; 16% instances).
+The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (66; 81% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (5; 6% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,13 +23,28 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 6 nsubj:pass	color:blue
 1	سو	سو	CCONJ	CC	_	7	cc	_	_
-2	انهن	ان	DET	PRD	Case=Acc|Number=Plur	7	obl	_	_
+2	انهن	ان	DET	PRD	Case=Acc|Number=Plur|PronType=Dem	7	obl	_	_
 3	لاءِ	لاءِ	ADP	PSP	_	2	case	_	_
 4	شينهن	شينهن	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	_
 5	جي	جي	ADP	PSPG	Case=Nom|Gender=Fem|Number=Sing	4	case	_	_
 6	کل	کل	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
 7	گهرجي	گهرجي	VERB	VM	Aspect=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	_
 8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj:pass	color:blue
+1	جيڪو	جيڪو	DET	PRD	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj:pass	_	_
+2	عمل	عمل	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+3	وسيلي	وسيلي	ADP	PSP	_	2	case	_	_
+4	ڪمائجي	ڪماءِ	VERB	VM	Aspect=Imp|Number=Sing|Person=3|Voice=Pass	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

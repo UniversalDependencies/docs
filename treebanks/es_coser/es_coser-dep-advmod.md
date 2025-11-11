@@ -60,7 +60,7 @@ The following 25 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 9 3 advmod	color:blue
 1	Pero	pero	CCONJ	cc	_	9	cc	_	SpaceAfter=No
 2	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
-3	aun	aun	ADV	rg	_	9	advmod	_	_
+3	aun	aun	ADV	rg	ExtPos=ADV	9	advmod	_	_
 4	así	así	ADV	rg	_	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 6	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_

@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (9937; 16% of non-empty `Person`): <em>знаю, хочу, могу, говорю, говорим, думаю, люблю, можем, понимаю, вижу</em>
 * `2` (9837; 16% of non-empty `Person`): <em>знаешь, хочешь, давай, здравствуйте, можете, знаете, дай, можешь, смотри, иди</em>
 * `3` (43504; 69% of non-empty `Person`): <em>может, есть, значит, говорит, могут, стоит, говорят, имеет, является, следует</em>
-* `EMPTY` (148354): <em>можно, сказал, надо, нет, сказала, было, сказать, стал, стало, стали</em>
+* `EMPTY` (148368): <em>можно, сказал, надо, нет, сказала, было, сказать, стал, стало, стали</em>
 
 <table>
   <tr><th>Paradigm <i>мочь</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (21149; 35% of non-empty `Person`): <em>я, мы, мне, меня, нас, нам, нами, мной, мною, мене</em>
 * `2` (8280; 14% of non-empty `Person`): <em>ты, вы, тебя, тебе, вас, вам, тобой, вами, тобою, те</em>
 * `3` (30750; 51% of non-empty `Person`): <em>он, она, они, его, их, ему, ее, них, него, ей</em>
-* `EMPTY` (28646): <em>это, что, все, то, кто, себя, себе, ничего, всё, того</em>
+* `EMPTY` (28647): <em>это, что, все, то, кто, себя, себе, ничего, всё, того</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
 
@@ -80,10 +80,10 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (7534; 64%),
+<tt>VERB --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> VERB</tt> (7533; 64%),
 <tt>PRON --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> PRON</tt> (94; 58%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-acl.html">acl</a></tt>]--> VERB</tt> (68; 56%),
-<tt>PRON --[<tt><a href="ru_taiga-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (23; 100%),
+<tt>PRON --[<tt><a href="ru_taiga-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (24; 100%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-flat.html">flat</a></tt>]--> VERB</tt> (8; 100%),
 <tt>PRON --[<tt><a href="ru_taiga-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (4; 100%),
 <tt>VERB --[<tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>]--> VERB</tt> (2; 100%),

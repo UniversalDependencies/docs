@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 8 different values: `Com`, `Geo`, `Giv`, `Pat`, `Pro`, `Prs`, `Sur`, `Zoo`.
 
-588 tokens (1%) have a non-empty value of `NameType`.
+589 tokens (1%) have a non-empty value of `NameType`.
 449 types (2%) occur at least once with a non-empty value of `NameType`.
 375 lemmas (4%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (588; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (589; 1% instances).
 
 ### `PROPN`
 
-588 <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
+589 <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (519; 88%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (334; 57%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (326; 55%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (520; 88%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (335; 57%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (327; 56%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
 * `Com` (9; 2% of non-empty `NameType`): <em>ВХУТЕМАСУ, Госиздат, Квисисаны, Кима, Резинотресте, Современник, Трэдинг, Турксиб, Турксиба</em>
 * `Geo` (191; 32% of non-empty `NameType`): <em>Волге, Москва, Москве, Русь, Восток, Париж, Россию, Россия, Руси, Петроград</em>
-* `Giv` (206; 35% of non-empty `NameType`): <em>А., В., Анжелина, Иуда, Ара, Изабелла, М., Сулико, оголива, Анат.</em>
+* `Giv` (207; 35% of non-empty `NameType`): <em>А., В., Анжелина, Иуда, Ара, Изабелла, М., Сулико, оголива, Анат.</em>
 * `Pat` (22; 4% of non-empty `NameType`): <em>А., Н., П., С., Д., В., Ильич, Леонидович, О., Сергеич</em>
 * `Pro` (5; 1% of non-empty `NameType`): <em>Дукат, Искра, Коран, Лучину, Титаник</em>
 * `Prs` (7; 1% of non-empty `NameType`): <em>Т., Христу, ВИНЧИ, Калите, Христа, Христос</em>

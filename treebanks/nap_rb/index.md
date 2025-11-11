@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.9 release.
 
-The following people have contributed to making this treebank part of UD: Rodolfo Basile.
+The following people have contributed to making this treebank part of UD: Rodolfo Basile, Daniel Zeman, Ludovica Pannitto, Arianna Masciolini.
 
 Repository: [UD_Neapolitan-RB](https://github.com/UniversalDependencies/UD_Neapolitan-RB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnap_rb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnap_rb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -68,21 +68,21 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 
 ## Features
 
-[Definite](nap_rb-feat-Definite.html) – [Degree](nap_rb-feat-Degree.html) – [Gender](nap_rb-feat-Gender.html) – [Mood](nap_rb-feat-Mood.html) – [Number](nap_rb-feat-Number.html) – [Person](nap_rb-feat-Person.html) – [Polarity](nap_rb-feat-Polarity.html) – [PronType](nap_rb-feat-PronType.html) – [Reflex](nap_rb-feat-Reflex.html) – [Tense](nap_rb-feat-Tense.html) – [VerbForm](nap_rb-feat-VerbForm.html)
+[Definite](nap_rb-feat-Definite.html) – [Degree](nap_rb-feat-Degree.html) – [Gender](nap_rb-feat-Gender.html) – [Mood](nap_rb-feat-Mood.html) – [Number](nap_rb-feat-Number.html) – [Person](nap_rb-feat-Person.html) – [Polarity](nap_rb-feat-Polarity.html) – [Poss](nap_rb-feat-Poss.html) – [PronType](nap_rb-feat-PronType.html) – [Reflex](nap_rb-feat-Reflex.html) – [Tense](nap_rb-feat-Tense.html) – [VerbForm](nap_rb-feat-VerbForm.html)
 
 ## Relations
 
-[acl](nap_rb-dep-acl.html) – [advcl](nap_rb-dep-advcl.html) – [advmod](nap_rb-dep-advmod.html) – [amod](nap_rb-dep-amod.html) – [appos](nap_rb-dep-appos.html) – [aux](nap_rb-dep-aux.html) – [case](nap_rb-dep-case.html) – [cc](nap_rb-dep-cc.html) – [ccomp](nap_rb-dep-ccomp.html) – [conj](nap_rb-dep-conj.html) – [cop](nap_rb-dep-cop.html) – [det](nap_rb-dep-det.html) – [expl](nap_rb-dep-expl.html) – [flat](nap_rb-dep-flat.html) – [iobj](nap_rb-dep-iobj.html) – [mark](nap_rb-dep-mark.html) – [nmod](nap_rb-dep-nmod.html) – [nsubj](nap_rb-dep-nsubj.html) – [obj](nap_rb-dep-obj.html) – [obl](nap_rb-dep-obl.html) – [orphan](nap_rb-dep-orphan.html) – [punct](nap_rb-dep-punct.html) – [root](nap_rb-dep-root.html) – [vocative](nap_rb-dep-vocative.html) – [xcomp](nap_rb-dep-xcomp.html)
+[acl](nap_rb-dep-acl.html) – [advcl](nap_rb-dep-advcl.html) – [advmod](nap_rb-dep-advmod.html) – [amod](nap_rb-dep-amod.html) – [appos](nap_rb-dep-appos.html) – [aux](nap_rb-dep-aux.html) – [aux:pass](nap_rb-dep-aux-pass.html) – [case](nap_rb-dep-case.html) – [cc](nap_rb-dep-cc.html) – [ccomp](nap_rb-dep-ccomp.html) – [conj](nap_rb-dep-conj.html) – [cop](nap_rb-dep-cop.html) – [det](nap_rb-dep-det.html) – [expl](nap_rb-dep-expl.html) – [flat](nap_rb-dep-flat.html) – [mark](nap_rb-dep-mark.html) – [nmod](nap_rb-dep-nmod.html) – [nsubj](nap_rb-dep-nsubj.html) – [obj](nap_rb-dep-obj.html) – [obl](nap_rb-dep-obl.html) – [orphan](nap_rb-dep-orphan.html) – [punct](nap_rb-dep-punct.html) – [root](nap_rb-dep-root.html) – [vocative](nap_rb-dep-vocative.html) – [xcomp](nap_rb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 20 sentences, 197 tokens and 199 syntactic words.</li>
+<li>This corpus contains 20 sentences, 198 tokens and 201 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 34 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 35 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -90,12 +90,12 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 </ul>
 
 <ul>
-<li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: 'e, 'a, 'o, l', 'na, s', 'Sta, 'nu, c', n'ată, ppo'</li>
+<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: 'e, 'a, 'o, l', 'na, s', 'Sta, 'nu, c', n', ppo', ’a</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 2 types of multi-word tokens. Examples: all', ă'o.</li>
+<li>This corpus contains 3 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 3 types of multi-word tokens. Examples: Patĕmŏ, all', ă'o.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -111,22 +111,23 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as pronouns (PRON): che, chi, ci, egli, ella, il, lo, ne, si, ti, un'altra</li>
+<li>This corpus contains 13 lemmas tagged as pronouns (PRON): 'nu, 'o, ată, chi, chĕ, cĕ, essă, issŏ, lo, nĕ, si, tuojŏ, tĕ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as determiners (DET): il, quello, questa, un</li>
+<li>This corpus contains 5 lemmas tagged as determiners (DET): 'a, 'nu, 'o, 'sta, chillu</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: il</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: 'nu, 'o</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): avé, essĕ</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): avé, essĕ, puté, stà, venì</li>
 </ul>
 
 <ul>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: stà, venì</li>
 </ul>
 
 <ul>
@@ -136,8 +137,8 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: è, so, afossĕ, avia, avissĕ, ha, hannĕ, sta, stajĕ</li>
-    <li>VERB: Penzĕ, accattajĕ, arapĕ, criscettĕ, currevĕ, facettĕ, pienzĕ, pittajĕ, putettĕrĕ, scrivettĕ</li>
+    <li>AUX: è, so, afossĕ, avia, avissĕ, ha, hannĕ, putettĕrĕ, sta, stajĕ</li>
+    <li>VERB: Penzĕ, accattajĕ, arapĕ, criscettĕ, currevĕ, facettĕ, pienzĕ, pittajĕ, scrivettĕ, tenĕnĕ</li>
   </ul>
   </li>
 </ul>
@@ -153,7 +154,7 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: accuncià, fummà, jí, lavà, scegliĕ, stà, vvevĕrĕ, vĕnì</li>
+    <li>VERB: accuncià, fummà, jì, lavà, scegliĕ, stà, vvevĕrĕ, vĕnì</li>
   </ul>
   </li>
 </ul>
@@ -180,8 +181,8 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
       <li>ADJ: francesĕ, sojă</li>
       <li>DET: 'a, 'na, 'Sta, la, na</li>
       <li>NOUN: lettĕră, machină, amica, biciclettă, cammără, capitalĕ, casă, foră, fĕnestă, ideă</li>
-      <li>PRON: Essă, n'ată</li>
-      <li>PROPN: Mariă, Giuvannă, Marronĕ</li>
+      <li>PRON: Essă, ată, n'</li>
+      <li>PROPN: Mariă, Giuvanna, Marronĕ</li>
     </ul>
   </li>
 </ul>
@@ -189,11 +190,11 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: ccalmŏ, gruossŏ, piccirillŏ, russŏ, suojŏ, velocĕ</li>
+      <li>ADJ: ccalmŏ, gruossŏ, mŏ, piccirillŏ, russŏ, suojŏ, velocĕ</li>
       <li>DET: 'o, l', 'e, 'nu, chillu</li>
-      <li>NOUN: Patĕmŏ, argientŏ, bbrunzŏ, capillĕ, fratĕ, juornŏ, maritŏ, orŏ, paisĕ, sticcatŏ</li>
-      <li>PRON: issŏ, l'</li>
-      <li>PROPN: Pietrŏ, Ferrarŏ, Iguazy</li>
+      <li>NOUN: Patĕ, argientŏ, bbrunzŏ, capillĕ, fratĕ, juornŏ, maritŏ, orŏ, paisĕ, sticcatŏ</li>
+      <li>PRON: issŏ, l', tuojŏ</li>
+      <li>PROPN: Pietrŏ, Ferrarŏ, Iguazu</li>
     </ul>
   </li>
 </ul>
@@ -215,11 +216,11 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ccalmŏ, francesĕ, gruossŏ, piccirillŏ, russŏ, sojă, suojŏ, velocĕ</li>
+      <li>ADJ: ccalmŏ, francesĕ, gruossŏ, mŏ, piccirillŏ, russŏ, sojă, suojŏ, velocĕ</li>
       <li>DET: 'a, 'o, 'na, l', 'Sta, 'nu, chillu, la, na</li>
-      <li>NOUN: lettĕră, machină, Patĕmŏ, amica, argientŏ, bbrunzŏ, biciclettă, cammără, capitalĕ, casă</li>
-      <li>PRON: Essă, issŏ, Tĕ, l', n'ată</li>
-      <li>PROPN: Pietrŏ, Mariă, Ferrarŏ, Giuvannă, Iguazy, Marronĕ</li>
+      <li>NOUN: lettĕră, machină, Patĕ, amica, argientŏ, bbrunzŏ, biciclettă, cammără, capitalĕ, casă</li>
+      <li>PRON: Essă, issŏ, Tĕ, ată, l', n', tuojŏ</li>
+      <li>PROPN: Pietrŏ, Mariă, Ferrarŏ, Giuvanna, Iguazu, Marronĕ</li>
       <li>VERB-Fin: arapĕ</li>
     </ul>
   </li>
@@ -294,8 +295,8 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: è, so, avia, ha, hannĕ, sta, stajĕ</li>
-      <li>VERB-Fin: Penzĕ, accattajĕ, criscettĕ, currevĕ, facettĕ, pienzĕ, pittajĕ, putettĕrĕ, scrivettĕ, tenĕnĕ</li>
+      <li>AUX-Fin: è, so, avia, ha, hannĕ, putettĕrĕ, sta, stajĕ, vvĕnettĕ</li>
+      <li>VERB-Fin: Penzĕ, accattajĕ, criscettĕ, currevĕ, facettĕ, pienzĕ, pittajĕ, scrivettĕ, tenĕnĕ, vincettĕ</li>
     </ul>
   </li>
 </ul>
@@ -324,8 +325,8 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: afossĕ, avissĕ, ha</li>
-      <li>VERB-Fin: accattajĕ, criscettĕ, facettĕ, pittajĕ, putettĕrĕ, scrivettĕ, vincettĕ, vvĕnettĕ</li>
+      <li>AUX-Fin: afossĕ, avissĕ, ha, putettĕrĕ, vvĕnettĕ</li>
+      <li>VERB-Fin: accattajĕ, criscettĕ, facettĕ, pittajĕ, scrivettĕ, vincettĕ</li>
       <li>VERB-Part: abbracciatĕ, asciutĕ, pruvatĕ, riuscitŏ</li>
     </ul>
   </li>
@@ -361,6 +362,7 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
   <li>Dem
     <ul>
       <li>DET: 'Sta, chillu</li>
+      <li>PRON: c', cĕ, nĕ</li>
     </ul>
   </li>
 </ul>
@@ -368,7 +370,7 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: n'ată</li>
+      <li>PRON: ată, n'</li>
     </ul>
   </li>
 </ul>
@@ -385,12 +387,23 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: Essă, issŏ, Tĕ, l'</li>
+      <li>PRON: Essă, issŏ, l', s', Tĕ, tuojŏ</li>
     </ul>
   </li>
 </ul>
 
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>ADJ: mŏ</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Reflex</a></li>
@@ -420,7 +433,7 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
   <li>2
     <ul>
       <li>AUX-Fin: stajĕ</li>
-      <li>PRON: Tĕ</li>
+      <li>PRON: Tĕ, tuojŏ</li>
       <li>VERB-Fin: arapĕ, pienzĕ, vuò</li>
     </ul>
   </li>
@@ -429,9 +442,9 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: è, so, afossĕ, avia, avissĕ, ha, hannĕ, sta</li>
-      <li>PRON: Essă, issŏ, l'</li>
-      <li>VERB-Fin: accattajĕ, criscettĕ, currevĕ, facettĕ, pittajĕ, putettĕrĕ, scrivettĕ, tenĕnĕ, vincettĕ, vvĕnettĕ</li>
+      <li>AUX-Fin: è, so, afossĕ, avia, avissĕ, ha, hannĕ, putettĕrĕ, sta, vvĕnettĕ</li>
+      <li>PRON: Essă, issŏ, l', s'</li>
+      <li>VERB-Fin: accattajĕ, criscettĕ, currevĕ, facettĕ, pittajĕ, scrivettĕ, tenĕnĕ, vincettĕ</li>
     </ul>
   </li>
 </ul>
@@ -451,7 +464,8 @@ Cerruti, Massimo. 2016. L'italianizzazione dei dialetti: una rassegna. _Quaderns
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avé, essĕ.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: avé, essĕ, stà, puté.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: venì.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -474,7 +488,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (6)</li>
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Part--PRON (2)</li>
+      <li>VERB-Part--PRON (3)</li>
     </ul>
   </li>
 </ul>
@@ -482,7 +496,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (1)</li>
     </ul>
   </li>
 </ul>
@@ -492,12 +505,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: abbracciare s'</li>
+  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: abbraccià s'</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 12 relation types are not used in this corpus at all: <a>csubj</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 1 relation subtypes: <a>aux:pass</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

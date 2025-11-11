@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADP` and `Person[psor]` co-oc
 
 1 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 

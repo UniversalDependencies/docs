@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Mehmet Oguz Derin, Takahiro Harada.
 
 Repository: [UD_Old_Turkish-Clausal](https://github.com/UniversalDependencies/UD_Old_Turkish-Clausal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udotk_clausal216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udotk_clausal217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC0 1.0
 

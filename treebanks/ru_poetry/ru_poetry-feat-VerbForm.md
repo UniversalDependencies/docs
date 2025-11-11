@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Fin` (5758; 72% of non-empty `VerbForm`): <em>знаю, может, стоит, есть, люблю, вижу, могу, поет, хочу, прости</em>
 * `Inf` (800; 10% of non-empty `VerbForm`): <em>быть, жить, любить, идти, найти, сказать, слушать, знать, петь, умереть</em>
 * `Part` (962; 12% of non-empty `VerbForm`): <em>дано, сказано, звенящий, приказано, рожденный, сверкающих, дремлющим, занят, знавшие, лишен</em>
-* `EMPTY` (183): <em>нет, надо, можно, пора, нельзя, нету, жаль, некуда, лень, незачем</em>
+* `EMPTY` (185): <em>нет, надо, можно, пора, нельзя, нету, жаль, некуда, Довольно, лень</em>
 
 <table>
   <tr><th>Paradigm <i>знать</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1737; 92%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1736; 92%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (255; 79%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (91; 69%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (34; 81%),

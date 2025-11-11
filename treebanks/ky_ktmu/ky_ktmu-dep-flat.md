@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-190 nodes (1%) are attached to their parents as `flat`.
+194 nodes (1%) are attached to their parents as `flat`.
 
-190 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15263157894737.
+194 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14948453608247.
 
-The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (172; 91% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (8; 4% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (176; 91% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (8; 4% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	Ташиев	Ташиев	PROPN	PROP	Case=Nom|Number=Sing|Person=3	1	flat	_	_
 3	депутаттык	депутаттык	ADJ	ADJ	Case=Ins|Number=Sing|Person=3	4	amod	_	_
 4	мандатын	мандат	NOUN	NN	Case=Acc|Number=Sing|Person=3	5	obj	_	_
-5	тапшырбайт	тапшыр	VERB	VB	Aspect=Perf|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+5	тапшырбайт	тапшыр	VERB	VB	Aspect=Perf|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	PCT	_	5	punct	_	_
 
 ~~~
@@ -41,9 +41,9 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Медер	Медер	NOUN	NN	Case=Nom|Number=Plur|Person=3	8	nsubj	_	_
 2	Айкымбаев	Айкымбаев	PROPN	NN	Case=Nom|Number=Sing|Person=3	1	flat	_	_
 3	каза	каза	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
-4	болгон	бол	VERB	VB	Aspect=Prog|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	acl	_	_
+4	болгон	бол	VERB	VB	Aspect=Prog|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	acl	_	_
 5	апасына	апа	NOUN	NN	Case=Acc,Dat|Number=Sing	8	obl	_	_
-6	арналган	арна	VERB	VB	Aspect=Perf|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	7	acl	_	_
+6	арналган	арна	VERB	VB	Aspect=Perf|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	7	acl	_	_
 7	клибин	клип	NOUN	NN	Case=Gen|Number=Sing|Person=3	8	obj	_	_
 8	тартуулады	тартуула	VERB	VB	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	PCT	_	8	punct	_	_
@@ -66,7 +66,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 7	млн	млн	NUM	NUM	NumType=Card	8	nummod	_	_
 8	чабагы	чабак	NOUN	NN	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nmod	_	_
 9	коё	коё	NOUN	NN	Case=Nom|Number=Sing|Person=3	10	nsubj	_	_
-10	берилди	бер	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
+10	берилди	бер	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	PCT	_	10	punct	_	_
 
 ~~~

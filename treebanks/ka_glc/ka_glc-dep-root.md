@@ -11,9 +11,9 @@ This relation is universal.
 3164 nodes (5%) are attached to their parents as `root`.
 
 3164 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.70132743362832.
+Average distance between parent and child is 6.70101137800253.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2010; 64% instances), -<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (783; 25% instances), -<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (345; 11% instances), -<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (11; 0% instances), -<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2148; 68% instances), -<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (784; 25% instances), -<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (206; 7% instances), -<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (11; 0% instances), -<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	საქმის	საქმე	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=sakʻmis
 3	სპეციალისტებს	სპეციალისტი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	5	iobj	_	Translit=specʻialistebs
 4	ინჟინრებს	ინჟინერი	NOUN	Noun	Animacy=Anim|Case=Dat|Number=Plur	5	obj	_	Translit=inžinrebs
-5	უწოდებენ	უწოდებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=ucodeben
+5	უწოდებენ	უწოდებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=ucodeben
 6	.	.	PUNCT	F	PunctType=Peri	5	punct	_	Translit=.
 
 ~~~

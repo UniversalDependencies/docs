@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of orphan in UD_Kurmanji-MG'
+title:  'Statistics of orphan in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `orphan`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `orphan`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `orphan` (50%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.
 
-The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 50% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (1; 50% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-SCONJ.html">SCONJ</a></tt> (1; 50% instances).
 
 
 ~~~ conllu

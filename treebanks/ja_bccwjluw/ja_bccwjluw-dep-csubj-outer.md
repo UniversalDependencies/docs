@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ja_bccwjluw-dep-csubj.html">csubj</a></tt>.
 
-29 nodes (0%) are attached to their parents as `csubj:outer`.
+27 nodes (0%) are attached to their parents as `csubj:outer`.
 
-29 instances of `csubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 14.5862068965517.
+27 instances of `csubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 14.7407407407407.
 
-The following 8 pairs of parts of speech are connected with `csubj:outer`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (18; 62% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (4; 14% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `csubj:outer`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (18; 67% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (4; 15% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 32 21 csubj:outer	color:blue
 1	_	_	NUM	_	_	3	compound	_	BBIL=B|BPT=2|SpaceAfter=No|UI=7515
 2	_	_	SYM	_	_	3	compound	_	BBIL=I|BPT=2|SpaceAfter=No|UI=119
-3	_	_	NUM	_	_	5	compound	_	BBIL=I|BPT=0|SpaceAfter=No|UI=7515
+3	_	_	NUM	_	_	5	obl	_	BBIL=I|BPT=0|SpaceAfter=No|UI=7515
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 5	_	_	NOUN	_	_	8	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=6236
 6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
@@ -90,7 +90,7 @@ The following 8 pairs of parts of speech are connected with `csubj:outer`: <tt><
 23	_	_	ADP	_	_	22	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=4
 24	_	_	NOUN	_	_	26	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1671
 25	_	_	ADP	_	_	24	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
-26	_	_	NOUN	_	_	28	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=840
+26	_	_	NOUN	_	_	28	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=840
 27	_	_	ADP	_	_	26	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=9876
 28	_	_	NOUN	_	_	30	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=20438
 29	_	_	ADP	_	_	28	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=5

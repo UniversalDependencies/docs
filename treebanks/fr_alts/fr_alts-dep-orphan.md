@@ -8,44 +8,66 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `orphan`.
+43 nodes (0%) are attached to their parents as `orphan`.
 
-15 instances of `orphan` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.47826086956522.
+22 instances of `orphan` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 10 pairs of parts of speech are connected with `orphan`: <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (9; 39% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (3; 13% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 12 pairs of parts of speech are connected with `orphan`: <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (22; 51% instances), <tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="fr_alts-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="fr_alts-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
-# visual-style 19 23 orphan	color:blue
-1	et	et	CCONJ	_	_	10	cc	_	gold_pos=CCONJ|prpos=Cc|SpaceAfter=No|uppos=CONJO
-2	,	,	PUNCT	_	_	1	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
-3	ayantz	avoir	AUX	_	_	4	aux	_	gold_pos=AUX|prpos=Ga|uppos=AG
-4	estey	être	VERB	_	VerbForm=Part	10	advcl	_	gold_pos=VERB|prpos=Ge|uppos=EPP
-5	la	là	ADV	_	_	4	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-6	bien	bien	ADV	_	_	4	advmod	_	gold_pos=ADV|prpos=Rg|uppos=ADV
-7	.viii.	huit	NUM	_	NumType=Card	8	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
-8	sepmainnes	semaine	NOUN	_	Number=Plur	4	obl	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCPL
-9	,	,	PUNCT	_	_	4	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
-10	arryverent	arriver	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-11	cappitaine	capitaine	NOUN	_	_	10	nsubj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-12	Linsingan	Lusignan	PROPN	_	Number=Plur	11	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-13	et	et	CCONJ	_	_	14	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-14	Corbet	Corbet	PROPN	_	Number=Plur	11	conj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-15	en	en	ADP	_	_	17	case	_	gold_pos=ADP|prpos=S|uppos=P
-16	ung	un	DET	_	Definite=Ind	17	det	_	gold_pos=DET|prpos=Dn|uppos=D
-17	navire	navire	NOUN	_	_	10	obl	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-18	et	et	CCONJ	_	_	19	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-19	cappitaine	capitaine	NOUN	_	_	10	conj	_	gold_pos=NOUN|prpos=Nc|uppos=NCS
-20	Abselley	Apseley	PROPN	_	Number=Plur	19	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-21	en	en	ADP	_	_	23	case	_	gold_pos=ADP|prpos=S|uppos=P
-22	une	un	DET	_	Definite=Ind	23	det	_	gold_pos=DET|prpos=Dn|uppos=D
-23	barque	barque	NOUN	_	_	19	orphan	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
-24	,	,	PUNCT	_	_	10	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 19 orphan	color:blue
+1	Il	il	PRON	PRO	PronType=Prs	2	nsubj	_	prpos=Pp
+2	prend	prendre	VERB	VJ	Number=Sing|Person=3|VerbForm=Fin	0	root	_	prpos=Vvc
+3	icy	ici	ADV	ADV	_	2	advmod	_	prpos=Rg
+4	plainte	plainte	NOUN	NCS	Number=Sing	2	obj	_	prpos=Nc|SpaceAfter=No
+5	,	,	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
+6	pour	pour	ADP	P	_	8	case	_	prpos=S
+7	toute	tout	DET	Q	Definite=Ind	8	det	_	prpos=Di
+8	demande	demande	NOUN	NCS	Number=Sing	2	obl	_	prpos=Nc
+9	ou	ou	CCONJ	CONJO	_	10	cc	_	prpos=Cc
+10	querelle	querelle	NOUN	NCS	Number=Sing	8	conj	_	prpos=Nc|SpaceAfter=No
+11	,	,	PUNCT	PON	_	8	punct	_	join=left|prpos=Fw
+12	et	et	CCONJ	CONJO	_	14	cc	_	prpos=Cc|wordform=[et]
+13	le	le	DET	D	Definite=Def|PronType=Art	14	det	_	prpos=Da
+14	plaintif	plaintif	NOUN	NCS	Number=Sing	2	conj	_	prpos=Nc
+15	et	et	CCONJ	CONJO	_	16	cc	_	prpos=Cc|wordform=[et]
+16	querellé	querellé	NOUN	NCS	Number=Sing	14	conj	_	prpos=Nc
+17	pour	pour	ADP	P	_	19	case	_	prpos=S
+18	tout	tout	DET	Q	Definite=Ind	19	det	_	prpos=Di
+19	demandeur	demandeur	NOUN	NCS	Number=Sing	14	orphan	_	prpos=Nc|wordform=dema[n]deur
+20	et	et	CCONJ	CONJO	_	21	cc	_	prpos=Cc|wordform=[et]
+21	defendeur	défendeur	NOUN	NCS	Number=Sing	19	conj	_	prpos=Nc|SpaceAfter=No
+22	.	.	PUNCT	PON	_	2	punct	_	join=left|prpos=Fw
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 11 orphan	color:blue
+1	Telle	tel	ADJ	ADJ	_	0	root	_	prpos=Ag
+2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	1	cop	_	prpos=Vuc
+3	l'	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	opinion	opinion	NOUN	NCS	Number=Sing	1	nsubj	_	join=left|prpos=Nc|wordform=opinio[n]
+5	de	de	ADP	P	_	7	case	_	prpos=S
+6	la	le	DET	D	Definite=Def|PronType=Art	7	det	_	prpos=Da
+7	glo.	glose	NOUN	NCS	Number=Sing	4	flat	_	prpos=Nc
+8	in	in	ADP	FW	_	9	case	_	Lang=la|prpos=Xe
+9	l.	lex	NOUN	FW	_	7	nmod	_	Lang=la|prpos=Xe
+10	fi.	finalis	ADJ	FW	_	9	amod	_	Lang=la|prpos=Xe
+11	C.	codex	NOUN	FW	_	13	orphan	_	Lang=la|prpos=Xe
+12	de	de	ADP	FW	_	13	case	_	Lang=la|prpos=Xe
+13	postul	postulo	ADJ	FW	_	9	nmod	_	Lang=la|prpos=Xe|SpaceAfter=No
+14	.	.	PUNCT	PON	_	1	punct	_	join=left|prpos=Fw
 
 ~~~
 
@@ -133,41 +155,6 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 75	de	de	PROPN	_	Number=Plur	74	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
 76	Gersy	Jersey	PROPN	_	Number=Plur	74	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
 77	,	,	PUNCT	_	_	3	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
-
-~~~
-
-
-~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 18 orphan	color:blue
-1	Et	et	CCONJ	_	_	2	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-2	donnoet	donner	VERB	_	VerbForm=Fin	0	root	_	gold_pos=VERB|prpos=Vvc|uppos=VJ
-3	ledit	ledit	DET	_	Definite=Ind	4	det	_	gold_pos=DET|prpos=Di|uppos=D
-4	Jehan	Jehan	PROPN	_	Number=Plur	2	nsubj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-5	le	le	PROPN	_	Number=Plur	4	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-6	Gallés	Gallées	PROPN	_	Number=Plur	4	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-7	.vi.	six	NUM	_	NumType=Card	8	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
-8	gros	gros	NOUN	_	Number=Plur	2	obj	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
-9	a	à	ADP	_	_	11	case	_	gold_pos=ADP|prpos=S|uppos=P|wordform=à
-10	ledit	ledit	DET	_	Definite=Ind	11	det	_	gold_pos=DET|prpos=Di|uppos=D
-11	Vasse	Vasse	PROPN	_	Number=Plur	2	obl	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-12	et	et	CCONJ	_	_	14	cc	_	gold_pos=CCONJ|prpos=Cc|uppos=CONJO
-13	ledit	ledit	DET	_	Definite=Ind	14	det	_	gold_pos=DET|prpos=Di|uppos=D
-14	Collas	Collas	PROPN	_	Number=Plur	2	conj	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-15	le	le	PROPN	_	Number=Plur	14	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-16	Gallés	Gallées	PROPN	_	Number=Plur	14	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-17	.iii.	trois	NUM	_	NumType=Card	18	nummod	_	gold_pos=NUM|prpos=Mc|uppos=ADJNUM
-18	gros	gros	NOUN	_	Number=Plur	14	orphan	_	gold_pos=NOUN|prpos=Nc|uppos=NCPL
-19	d'	de	ADP	_	_	20	case	_	gold_pos=ADP|prpos=S|SpaceAfter=No|uppos=P
-20	argent	argent	NOUN	_	_	18	nmod	_	gold_pos=NOUN|join=left|prpos=Nc|uppos=NCS
-21	a	à	ADP	_	_	22	case	_	gold_pos=ADP|prpos=S|uppos=P
-22	Collas	Collas	PROPN	_	Number=Plur	14	orphan	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-23	le	le	PROPN	_	Number=Plur	22	flat	_	gold_pos=PROPN|prpos=Np|uppos=NPRS
-24	Prunier	Prunier	PROPN	_	Number=Plur	22	flat	_	gold_pos=PROPN|prpos=Np|SpaceAfter=No|uppos=NPRS
-25	.	.	PUNCT	_	_	2	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
 
 ~~~
 

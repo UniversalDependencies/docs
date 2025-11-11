@@ -45,7 +45,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 1	fgColor:white
 # visual-style 1 9 obl:agent	color:blue
 1	Agorwyd	agor	VERB	verb	Mood=Ind|Person=0|Tense=Past|VerbForm=Fin	0	root	_	_
-2	y	y	DET	art	_	3	det	_	_
+2	y	y	DET	art	PronType=Art	3	det	_	_
 3	llwybr	llwybr	NOUN	noun	Gender=Masc|Number=Sing	1	obj	_	_
 4	yn	yn	PART	pred	_	5	case:pred	_	_
 5	swyddogol	swyddogol	ADJ	pos	Degree=Pos	1	advmod	_	_
@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	William	William	PROPN	person	Gender=Masc|Number=Sing	1	obl:agent	_	_
 10	Gladstone	Gladstone	PROPN	person	_	9	flat:name	_	SpaceAfter=No
 11	,	,	PUNCT	punct	_	14	punct	_	_
-12	y	y	DET	art	_	14	det	_	_
+12	y	y	DET	art	PronType=Art	14	det	_	_
 13	Prif	prif	ADJ	pos	Degree=Pos	14	amod	_	_
 14	Weinidog	gweinidog	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	9	appos	_	SpaceAfter=No
 15	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
@@ -77,13 +77,13 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	5	nmod	_	_
 7	beidio	peidio	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	3	ccomp	_	_
 8	â	â	ADP	prep	_	9	case	_	_
-9	thrafod	trafod	NOUN	noun	Gender=Masc|Mutation=AM|Number=Sing	7	obl	_	_
+9	thrafod	trafod	NOUN	noun	Gender=Masc|Mutation=AM|Number=Sing	7	nmod	_	_
 10	o	o	ADP	prep	_	11	case	_	_
 11	gwbl	cwbl	ADJ	pos	Degree=Pos|Mutation=SM	7	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	punct	_	15	punct	_	_
 13	am	am	ADP	prep	_	15	case	_	_
-14	y	y	DET	art	_	15	det	_	_
-15	rheswm	rheswm	NOUN	noun	Gender=Masc|Number=Sing	7	obl	_	_
+14	y	y	DET	art	PronType=Art	15	det	_	_
+15	rheswm	rheswm	NOUN	noun	Gender=Masc|Number=Sing	7	nmod	_	_
 16	eu	hwy	PRON	dep	Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 17	bod	bod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	15	acl	_	_
 18	nhw	hwy	PRON	indep	Number=Plur|Person=3|PronType=Prs	17	nmod:redup	_	SpaceAfter=No
@@ -92,11 +92,11 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 21	bod	bod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	20	ccomp	_	_
 22	sgitsoffrenia	sgitsoffrenia	NOUN	noun	Gender=Fem|Number=Sing	21	nsubj	_	_
 23	tros	tros	ADP	prep	_	25	case	_	_
-24	y	y	DET	art	_	25	det	_	_
+24	y	y	DET	art	PronType=Art	25	det	_	_
 25	pwnc	pwnc	NOUN	noun	Gender=Masc|Number=Sing	22	nmod	_	_
 26	o	o	ADP	prep	ExtPos=ADP	29	case	_	_
 27	fewn	mewn	ADP	prep	Mutation=SM	26	fixed	_	_
-28	y	y	DET	art	_	29	det	_	_
+28	y	y	DET	art	PronType=Art	29	det	_	_
 29	Blaid	plaid	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	25	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	punct	_	3	punct	_	SpacesAfter=\n
 

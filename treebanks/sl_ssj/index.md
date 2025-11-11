@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
 Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -949,7 +949,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (50)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN-Acc (682)</li>
-      <li>VERB-Inf--NOUN-Dat (23)</li>
+      <li>VERB-Inf--NOUN-Dat (22)</li>
       <li>VERB-Inf--NOUN-Gen (220)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON (8)</li>
@@ -983,7 +983,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (30)</li>
       <li>VERB-Fin--PRON-Dat (289)</li>
       <li>VERB-Inf--NOUN-Acc (15)</li>
-      <li>VERB-Inf--NOUN-Dat (67)</li>
+      <li>VERB-Inf--NOUN-Dat (68)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (5)</li>

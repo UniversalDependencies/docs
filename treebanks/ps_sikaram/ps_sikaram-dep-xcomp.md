@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `xcomp`.
+20 nodes (0%) are attached to their parents as `xcomp`.
 
-9 instances of `xcomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.22222222222222.
+20 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (5; 56% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (3; 33% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (12; 60% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (6; 30% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -30,9 +30,9 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	قضاوتونه	قضاوت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	Translit=qazâwatúna|LTranslit=qazâwát|Gloss=judgments
 7	او	او	CCONJ	_	_	8	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 8	اټکلونه	اټکل	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	Translit=aṭkalúna|LTranslit=aṭkál|Gloss=assumptions
-9	ناسم	ناسم	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	10	xcomp	_	Translit=nâsám|LTranslit=nâsám|Gloss=incorrect
+9	ناسم	ناسم	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg	10	xcomp	_	Translit=nấsam|LTranslit=nấsam|Gloss=incorrect
 10	خېژي	ختل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=xeží|LTranslit=xatë́l|Gloss=arise|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.
+11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 17	fgColor:white
 # visual-style 17 15 xcomp	color:blue
 1	تر	تر	ADP	_	Case=Abl	3	case	_	Translit=tër|LTranslit=tër|Gloss=until
-2	هغه	هغه	DET	_	Case=Abl|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
+2	هغه	هغه	DET	_	Case=Abl|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Translit=háġë|LTranslit=háġa|Gloss=that
 3	وخته	وخت	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	22	obl	_	Translit=wáxta|LTranslit=waxt|Gloss=time
 4	چې	چې	SCONJ	_	_	17	mark	_	Translit=če|LTranslit=če|Gloss=that
 5	پښتو	پښتو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
@@ -58,15 +58,15 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 13	او	او	CCONJ	_	_	14	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 14	دولت	دولت	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	Translit=dawlát|LTranslit=dawlát|Gloss=state
 15	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	xcomp	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
-16	نه	نۀ	PART	_	Polarity=Neg	17	advmod	_	Translit=në|LTranslit=në|Gloss=not
+16	نه	نۀ	PART	_	Polarity=Neg	17	advmod	_	Translit=në́|LTranslit=në|Gloss=not
 17	شي	کېدل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	3	acl	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
 18	،	،	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,|Gloss=,
 19	وده	وده	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	Translit=wáda|LTranslit=wáda|Gloss=growth
 20	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	19	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
 21	هم	هم	ADV	_	_	22	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
-22	ناشونې	شونى	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	0	root	_	Translit=nấšwëne|LTranslit=šwë́nay|Gloss=impossible
+22	ناشونې	شونی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg	0	root	_	Translit=nấšwëne|LTranslit=šwë́nay|Gloss=impossible
 23	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	Translit=da|LTranslit=wël|Gloss=is|SpaceAfter=No
-24	.	.	PUNCT	_	_	22	punct	_	Translit=.|LTranslit=.|Gloss=.
+24	.	.	PUNCT	_	_	22	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -89,10 +89,10 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 10	طالبانو	طالب	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	nmod	_	Translit=tâlibấno|LTranslit=tâlíb|Gloss=Taliban
 11	تېښته	تېښته	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	appos	_	Translit=téx̌ta|LTranslit=téx̌ta|Gloss=escape|SpaceAfter=No
 12	]	]	PUNCT	_	_	11	punct	_	Translit=]|LTranslit=]|Gloss=]
-13	نومى	نومى	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	Translit=númay|LTranslit=númay|Gloss=called
-14	هندى	هندى	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	Translit=hindí|LTranslit=hindí|Gloss=Hindi
+13	نومی	نومی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	Translit=númay|LTranslit=númay|Gloss=called
+14	هندی	هندی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	Translit=hindí|LTranslit=hindí|Gloss=Hindi
 15	فلم	فلم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=film|LTranslit=film|Gloss=movie
-16	دى	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
+16	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
 17	،	،	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,|Gloss=,
 18	چې	چې	PRON	_	PronType=Rel	24	nsubj	_	Translit=če|LTranslit=če|Gloss=which
 19	په	پۀ	ADP	_	Case=Loc	21	case	_	Translit=pë|LTranslit=pë|Gloss=at
@@ -117,7 +117,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 38	شوي	کېدل	AUX	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	37	aux:pass	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=done|SpaceAfter=No
 39	،	،	PUNCT	_	_	48	punct	_	Translit=,|LTranslit=,|Gloss=,
 40	د	د	ADP	_	Case=Acc	41	case	_	Translit=dë|LTranslit=dë|Gloss=of
-41	دوى	دوى	PRON	_	Case=Acc|Deixis=Prox|Number=Plur|Person=3|PronType=Prs	43	nmod	_	Translit=duy|LTranslit=duy|Gloss=their
+41	دوی	دوی	PRON	_	Case=Acc|Deixis=Prox|Number=Plur|Person=3|PronType=Prs	43	nmod	_	Translit=duy|LTranslit=duy|Gloss=they
 42	ټولنیزو	ټولنیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur|Typo=Yes	43	amod	_	Translit=ṭolanízo|LTranslit=ṭolaníz|Gloss=social|CFTranslit=ṭolaníz|CorrectForm=ټولنیز
 43	ارزښتونه	ارزښت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	48	nsubj	_	Translit=arzëx̌túna|LTranslit=arzë́x̌t|Gloss=values
 44	او	او	CCONJ	_	_	45	cc	_	Translit=aw|LTranslit=aw|Gloss=and
@@ -141,7 +141,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 62	غاړه	غاړه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	63	nmod	_	Translit=ġấṛa|LTranslit=ġấṛa|Gloss=neck
 63	غړۍ	غړۍ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	51	acl	_	Translit=ġëṛë́y|LTranslit=ġëṛë́y|Gloss=organ
 64	دي	ول	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	62	cop	_	Translit=di|LTranslit=wël|Gloss=are|SpaceAfter=No
-65	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.
+65	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal but the values `Hort`, `Int`, `Irr` are language-specific.
 It occurs with 7 different values: `Des`, `Hort`, `Imp`, `Ind`, `Int`, `Irr`, `Jus`.
 
-450 tokens (14%) have a non-empty value of `Mood`.
+449 tokens (14%) have a non-empty value of `Mood`.
 255 types (23%) occur at least once with a non-empty value of `Mood`.
 179 lemmas (22%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 5 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (314; 10% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (131; 4% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (314; 10% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (131; 4% instances), <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-314 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Mood`.
+314 <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (314; 100%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (228; 73%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (193; 61%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (2; 1% of non-empty `Mood`): <em>mia, shamma</em>
 * `Ind` (312; 99% of non-empty `Mood`): <em>dhohnte, nue, reha, wile, kanale, manungle, rae, rue, runge, rungha</em>
-* `EMPTY` (321): <em>la, the, rung, yoan, phabtama, chari, mu, thaima, thungmi, dhohn</em>
+* `EMPTY` (320): <em>la, the, rung, yoan, phabtama, chari, mu, thaima, thungmi, dhohn</em>
 
 <table>
   <tr><th>Paradigm <i>mi</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -68,14 +68,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `ADP`
 
-3 <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> tokens (11% of all `ADP` tokens) have a non-empty value of `Mood`.
+2 <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> tokens (7% of all `ADP` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `ADP` and `Mood` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 100%), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2; 67%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 67%).
+The most frequent other feature values with which `ADP` and `Mood` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%).
 
 `ADP` tokens may have the following values of `Mood`:
 
-* `Ind` (3; 100% of non-empty `Mood`): <em>dhohnte, thai, zwehnne</em>
-* `EMPTY` (25): <em>thohn, lohnda, maramda, dyenan, gase, athoongenahn, maka, mathaknahn, nan, per</em>
+* `Ind` (2; 100% of non-empty `Mood`): <em>dhohnte, zwehnne</em>
+* `EMPTY` (26): <em>thohn, lohnda, maramda, dyenan, gase, athoongenahn, maka, mathaknahn, nan, per</em>
 
 ### `ADV`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADV` and `Mood` co-occurred: 
 `ADV` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>lhia</em>
-* `EMPTY` (190): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
+* `EMPTY` (192): <em>li, re, bathanahn, gare, dre, hano, reganan, szuraire, rai, daichu</em>
 
 ### `PART`
 

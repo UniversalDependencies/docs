@@ -11,23 +11,23 @@ It occurs with 7 different values: `Direct`, `Ecl`, `Emp`, `HPref`, `Indirect`, 
 Some words have combined values of the feature; 5 combinations have been observed: `Direct|Emp`, `Ecl|Emp`, `Ecl|Indirect`, `Ecl|VF`, `Emp|Len`.
 
 19802 tokens (17%) have a non-empty value of `Form`.
-4858 types (32%) occur at least once with a non-empty value of `Form`.
-2813 lemmas (32%) occur at least once with a non-empty value of `Form`.
-The feature is used with 13 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (10043; 9% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4511; 4% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2333; 2% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1373; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (926; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (261; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (180; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (66; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (2; 0% instances).
+4857 types (32%) occur at least once with a non-empty value of `Form`.
+2811 lemmas (32%) occur at least once with a non-empty value of `Form`.
+The feature is used with 12 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (10099; 9% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4511; 4% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2334; 2% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1318; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (926; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (261; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (180; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (66; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
-10043 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (30% of all `NOUN` tokens) have a non-empty value of `Form`.
+10099 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (30% of all `NOUN` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `NOUN` and `Form` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8138; 81%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6629; 66%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6534; 65%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5203; 52%).
+The most frequent other feature values with which `NOUN` and `Form` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8199; 81%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6670; 66%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6588; 65%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5174; 51%).
 
 `NOUN` tokens may have the following values of `Form`:
 
-* `Ecl` (2546; 25% of non-empty `Form`): <em>bhfeidhm, dtí, gcuid, gceist, gcás, gcomhairle, mbliana, gcónaí, ndiaidh, gcúirt</em>
+* `Ecl` (2569; 25% of non-empty `Form`): <em>bhfeidhm, dtí, gcuid, gceist, gcás, gcomhairle, mbliana, gcónaí, ndiaidh, gcúirt</em>
 * `Emp` (4; 0% of non-empty `Form`): <em>Roinnse, achomharcsa, leithscéalsa, liostasa</em>
 * `Emp,Len` (5; 0% of non-empty `Form`): <em>thuairimse, chroíse, ghrúpa-san, mháthairse</em>
 * `HPref` (517; 5% of non-empty `Form`): <em>haghaidh, haois, heagraíochtaí, hathruithe, hinstitiúidí, húdaráis, healaíona, hoíche, háite, hAirteagal</em>
-* `Len` (6971; 69% of non-empty `Form`): <em>chur, dhéanamh, bheith, chuid, chéile, thabhairt, bhliain, chomhairle, fhorbairt, fháil</em>
+* `Len` (7004; 69% of non-empty `Form`): <em>chur, dhéanamh, bheith, chuid, chéile, thabhairt, bhliain, chomhairle, fhorbairt, fháil</em>
 
 <table>
   <tr><th>Paradigm <i>tuairim</i></th><th><tt>Ecl</tt></th><th><tt>Emp,Len</tt></th><th><tt>Len</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Form` co-occurred:
 
 4511 <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `VERB` and `Form` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3932; 87%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3877; 86%).
+The most frequent other feature values with which `VERB` and `Form` co-occurred: <tt><a href="ga_idt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3932; 87%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3876; 86%).
 
 `VERB` tokens may have the following values of `Form`:
 
@@ -104,13 +104,13 @@ The most frequent other feature values with which `VERB` and `Form` co-occurred:
 
 ### `PART`
 
-2333 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (33% of all `PART` tokens) have a non-empty value of `Form`.
+2334 <tt><a href="ga_idt-pos-PART.html">PART</a></tt> tokens (33% of all `PART` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `PART` and `Form` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (2314; 99%), <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (2160; 93%).
+The most frequent other feature values with which `PART` and `Form` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (2315; 99%), <tt><a href="ga_idt-feat-PartType.html">PartType</a></tt><tt>=Vb</tt> (2161; 93%).
 
 `PART` tokens may have the following values of `Form`:
 
-* `Direct` (1839; 79% of non-empty `Form`): <em>a, nach, nár, do, ná</em>
+* `Direct` (1840; 79% of non-empty `Form`): <em>a, nach, nár, do, ná</em>
 * `Ecl,Indirect` (2; 0% of non-empty `Form`): <em>n-a</em>
 * `Indirect` (473; 20% of non-empty `Form`): <em>a, ina, lena, ar, nach, dá, inar, faoina, DA, go</em>
 * `Len` (11; 0% of non-empty `Form`): <em>Mhic, Mhac</em>
@@ -123,29 +123,31 @@ The most frequent other feature values with which `PART` and `Form` co-occurred:
 
 ### `PROPN`
 
-1373 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (24% of all `PROPN` tokens) have a non-empty value of `Form`.
+1318 <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> tokens (24% of all `PROPN` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `PROPN` and `Form` co-occurred: <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1370; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1304; 95%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (716; 52%).
+The most frequent other feature values with which `PROPN` and `Form` co-occurred: <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1282; 97%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1266; 96%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (666; 51%).
 
 `PROPN` tokens may have the following values of `Form`:
 
-* `Ecl` (223; 16% of non-empty `Form`): <em>mBaile, nGall, gCoimisiún, nGaeilge, gConamara, gClár, nDún, nGaillimh, bhFrainc, gCeathrú</em>
-* `HPref` (179; 13% of non-empty `Form`): <em>hÉireann, hEorpa, hÉirinn, hEaglaise, hAlban, hAoine, h-Íde, hOstaire, hAlbain, hAthbheochana</em>
-* `Len` (971; 71% of non-empty `Form`): <em>Bhaile, Ghaeltacht, Ghaeilge, Ghaeltachta, Chathair, Mháire, Chiarraí, Dhún, Shráid, Choiste</em>
+* `Ecl` (201; 15% of non-empty `Form`): <em>mBaile, nGall, nGaeilge, gConamara, nDún, nGaillimh, bhFrainc, gCeathrú, nGaeltacht, bParlaimint</em>
+* `HPref` (180; 14% of non-empty `Form`): <em>hÉireann, hEorpa, hÉirinn, hEaglaise, hAlban, hAoine, h-Íde, hOstaire, hAlbain, hAthbheochana</em>
+* `Len` (937; 71% of non-empty `Form`): <em>Bhaile, Ghaeltacht, Ghaeilge, Ghaeltachta, Chathair, Mháire, Chiarraí, Dhún, Shráid, Bhéal</em>
 
 <table>
   <tr><th>Paradigm <i>Gaeltacht</i></th><th><tt>Ecl</tt></th><th><tt>Len</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nGaeltachtaí</em></td><td><em>Ghaeltachtaí</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nGaeltachtaí</em></td><td><em>Ghaeltachtaí</em></td></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Ghaeltachta</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nGaeltacht</em></td><td><em>Ghaeltacht</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Ghaeltacht</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nGaeltacht</em></td><td><em>Ghaeltacht</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Ghaeltacht</em></td></tr>
 </table>
+
+`Form` seems to be **lexical feature** of `PROPN`. 91% lemmas (359) occur only with one value of `Form`.
 
 ### `ADJ`
 
 926 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `ADJ` and `Form` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (920; 99%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (833; 90%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (612; 66%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (539; 58%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (509; 55%).
+The most frequent other feature values with which `ADJ` and `Form` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (921; 99%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (832; 90%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (613; 66%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (541; 58%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (511; 55%).
 
 `ADJ` tokens may have the following values of `Form`:
 
@@ -166,7 +168,7 @@ The most frequent other feature values with which `ADJ` and `Form` co-occurred: 
 
 261 <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> tokens (13% of all `NUM` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `NUM` and `Form` co-occurred: <tt><a href="ga_idt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (152; 58%).
+The most frequent other feature values with which `NUM` and `Form` co-occurred: <tt><a href="ga_idt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (149; 57%).
 
 `NUM` tokens may have the following values of `Form`:
 
@@ -258,17 +260,6 @@ The most frequent other feature values with which `ADP` and `Form` co-occurred: 
 `ADV` tokens may have the following values of `Form`:
 
 * `Len` (6; 100% of non-empty `Form`): <em>bheith</em>
-
-### `X`
-
-2 <tt><a href="ga_idt-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Form`.
-
-The most frequent other feature values with which `X` and `Form` co-occurred: <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (2; 100%).
-
-`X` tokens may have the following values of `Form`:
-
-* `Ecl` (1; 50% of non-empty `Form`): <em>nAll</em>
-* `HPref` (1; 50% of non-empty `Form`): <em>hamazon</em>
 
 ## Relations with Agreement in `Form`
 

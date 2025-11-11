@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (2%) are attached to their parents as `det`.
+44 nodes (2%) are attached to their parents as `det`.
 
-30 instances of `det` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8.
+30 instances of `det` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.81818181818182.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (40; 89% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (39; 89% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="gya_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

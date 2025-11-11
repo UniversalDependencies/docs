@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-7656 tokens (18%) have a non-empty value of `PronType`.
-453 types (3%) occur at least once with a non-empty value of `PronType`.
+7696 tokens (18%) have a non-empty value of `PronType`.
+457 types (3%) occur at least once with a non-empty value of `PronType`.
 204 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (5275; 13% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1378; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1003; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (5279; 13% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1390; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1027; 2% instances).
 
 ### `DET`
 
-5275 <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+5279 <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="hu_szeged-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4870; 92%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Art` (4936; 94% of non-empty `PronType`): <em>a, az, egy</em>
 * `Dem` (115; 2% of non-empty `PronType`): <em>ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</em>
-* `Ind` (171; 3% of non-empty `PronType`): <em>több, egyik, néhány, sok, más, másik, többek, kevesebb, mindkét, sokat</em>
+* `Ind` (175; 3% of non-empty `PronType`): <em>több, egyik, néhány, sok, más, másik, többek, kevesebb, mindkét, sokat</em>
 * `Int` (4; 0% of non-empty `PronType`): <em>milyen, Mekkora</em>
 * `Neg` (7; 0% of non-empty `PronType`): <em>semmi, semmiféle</em>
 * `Prs` (7; 0% of non-empty `PronType`): <em>saját</em>
@@ -51,21 +51,20 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-1378 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1390 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (1320; 96%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1218; 88%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (1322; 95%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1223; 88%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (583; 42% of non-empty `PronType`): <em>azt, az, ez, annak, arra, ezt, ennek, arról, ezzel, azzal</em>
-* `Ind` (88; 6% of non-empty `PronType`): <em>egyik, néhány, más, másik, valaki, mások, egyebek, mást, egyéb, ki</em>
+* `Ind` (98; 7% of non-empty `PronType`): <em>egyik, néhány, többek, más, másik, valaki, mások, egyebek, mást, egyéb</em>
 * `Int` (23; 2% of non-empty `PronType`): <em>mi, milyen, mit, Ki, mire, hány, kik, kivel, melyik, mennyit</em>
 * `Neg` (9; 1% of non-empty `PronType`): <em>semmi, senki, semmibe, semmit</em>
-* `Prs` (301; 22% of non-empty `PronType`): <em>ő, én, őket, maga, hozzá, magát, saját, őt, vele, nekem</em>
+* `Prs` (303; 22% of non-empty `PronType`): <em>ő, én, őket, maga, hozzá, magát, saját, őt, vele, nekem</em>
 * `Rcp` (15; 1% of non-empty `PronType`): <em>egymás, egymást, egymással, egymásba, egymásnak</em>
 * `Rel` (314; 23% of non-empty `PronType`): <em>aki, amely, ami, amelynek, amit, akik, amelyben, akit, amelyek, mely</em>
 * `Tot` (45; 3% of non-empty `PronType`): <em>minden, mindenki, mindenkinek, mindent, senki, valamennyi, mindegyik, semmi, bárki, bármelyik</em>
-* `EMPTY` (2): <em>magát, önmagát</em>
 
 <table>
   <tr><th>Paradigm <i>mi</i></th><th><tt>Prs</tt></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Tot</tt></th></tr>
@@ -78,18 +77,18 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>mire</em></td><td></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 96% lemmas (90) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 96% lemmas (91) occur only with one value of `PronType`.
 
 ### `ADV`
 
-1003 <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> tokens (32% of all `ADV` tokens) have a non-empty value of `PronType`.
+1027 <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> tokens (33% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (309; 31% of non-empty `PronType`): <em>úgy, akkor, így, ezért, ott, ugyanakkor, azért, eddig, itt, azóta</em>
-* `Ind` (15; 1% of non-empty `PronType`): <em>egyrészt, másrészt, olykor, Valamikor, máskor, némileg, valahol, Sokáig</em>
+* `Dem` (309; 30% of non-empty `PronType`): <em>úgy, akkor, így, ezért, ott, ugyanakkor, azért, eddig, itt, azóta</em>
+* `Ind` (39; 4% of non-empty `PronType`): <em>több, egyrészt, másrészt, olykor, Valamikor, máskor, némileg, valahol, Sokáig</em>
 * `Int` (60; 6% of non-empty `PronType`): <em>-e, hogyan, miért, mikor, miként, vajon, hová, meddig, Hol, mennyire</em>
-* `Neg` (441; 44% of non-empty `PronType`): <em>nem, sem, name, soha, se, sehova, semmiképpen</em>
+* `Neg` (441; 43% of non-empty `PronType`): <em>nem, sem, name, soha, se, sehova, semmiképpen</em>
 * `Rel` (140; 14% of non-empty `PronType`): <em>amikor, ahol, míg, mint, miközben, ahogy, ahogyan, amint, amíg, mire</em>
 * `Tot` (38; 4% of non-empty `PronType`): <em>mindig, soha, mindenképpen, mind, mindenhol, mindenáron, mindenütt, bármikor</em>
 * `EMPTY` (2108): <em>már, még, csak, ki, el, is, fel, például, ma, be</em>
@@ -99,7 +98,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt></tt></td><td><em>soha</em></td><td><em>soha</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `ADV`. 98% lemmas (91) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `ADV`. 98% lemmas (92) occur only with one value of `PronType`.
 
 ## Relations with Agreement in `PronType`
 

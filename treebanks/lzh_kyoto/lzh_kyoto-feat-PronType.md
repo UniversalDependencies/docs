@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dem`, `Int`, `Prs`.
 
-20798 tokens (5%) have a non-empty value of `PronType`.
+20797 tokens (5%) have a non-empty value of `PronType`.
 55 types (1%) occur at least once with a non-empty value of `PronType`.
 53 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (20798; 5% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (20797; 5% instances).
 
 ### `PRON`
 
-20798 <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+20797 <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="lzh_kyoto-feat-Person.html">Person</a></tt><tt>=3</tt> (11102; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="lzh_kyoto-feat-Person.html">Person</a></tt><tt>=3</tt> (11101; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (4197; 20% of non-empty `PronType`): 是、 此、 彼、 斯、 某、 他、 夫、 焉、 惟、 茲
 * `Int` (1362; 7% of non-empty `PronType`): 何、 孰、 誰、 奚、 曷、 害、 瑕、 甚
-* `Prs` (15239; 73% of non-empty `PronType`): 之、 其、 吾、 自、 我、 或、 子、 諸、 己、 予
+* `Prs` (15238; 73% of non-empty `PronType`): 之、 其、 吾、 自、 我、 或、 子、 諸、 己、 予
 
 <table>
   <tr><th>Paradigm <i>爾</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

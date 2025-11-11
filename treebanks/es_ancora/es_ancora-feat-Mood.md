@@ -69,6 +69,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Es</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>seré</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fui</em></td><td></td><td></td><td></td></tr>
@@ -97,10 +98,10 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2119; 51%),
 <tt>AUX --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (256; 51%),
 <tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (118; 62%),
-<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (87; 80%),
+<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (84; 79%),
 <tt>AUX --[<tt><a href="es_ancora-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (63; 60%),
 <tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (50; 65%),
 <tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (37; 73%),
 <tt>VERB --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (28; 52%),
-<tt>AUX --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (25; 61%).
+<tt>AUX --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (24; 60%).
 

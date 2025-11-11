@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (37; 100% of non-empty `Foreign`): <em>Organization, Reactor, Water, companionship, family, Agriculture, Association, Authority, Children, Clearinghouse</em>
-* `EMPTY` (22961): <em>år, barn, del, äktenskapet, procent, barnen, människor, kr, tid, sätt</em>
+* `EMPTY` (22958): <em>år, barn, del, äktenskapet, procent, barnen, människor, kr, tid, sätt</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (14; 100% of non-empty `Foreign`): <em>European, American, Boiling, Economic, Free, Intermittent, International, National, New, North</em>
-* `EMPTY` (8534): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
+* `EMPTY` (8539): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, första</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>of, in, for, under</em>
-* `EMPTY` (11232): <em>i, av, på, för, till, med, om, från, vid, under</em>
+* `EMPTY` (11169): <em>i, av, på, för, till, med, om, från, vid, under</em>
 
 ### `CCONJ`
 
@@ -56,18 +56,18 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>and</em>
-* `EMPTY` (3700): <em>och, eller, men, både, utan, som, dels, såväl, samt, varken</em>
+* `EMPTY` (3667): <em>och, eller, men, både, utan, som, dels, såväl, samt, varken</em>
 
 ### `DET`
 
 2 <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>the</em>
-* `EMPTY` (4892): <em>en, den, ett, de, det, alla, denna, varje, dessa, någon</em>
+* `EMPTY` (4891): <em>en, den, ett, de, det, alla, denna, varje, dessa, någon</em>
 
 ### `PROPN`
 

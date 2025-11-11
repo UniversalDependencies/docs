@@ -9,64 +9,65 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-481 tokens (14%) have a non-empty value of `Tense`.
-363 types (28%) occur at least once with a non-empty value of `Tense`.
-192 lemmas (22%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (408; 12% instances), <tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (73; 2% instances).
+872 tokens (15%) have a non-empty value of `Tense`.
+599 types (30%) occur at least once with a non-empty value of `Tense`.
+221 lemmas (20%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (723; 12% instances), <tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (149; 3% instances).
 
 ### `VERB`
 
-408 <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Tense`.
+723 <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="el_lesbian-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (408; 100%), <tt><a href="el_lesbian-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (408; 100%), <tt><a href="el_lesbian-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (343; 84%), <tt><a href="el_lesbian-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (343; 84%), <tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (332; 81%), <tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt> (273; 67%), <tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (235; 58%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="el_lesbian-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (723; 100%), <tt><a href="el_lesbian-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (723; 100%), <tt><a href="el_lesbian-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (623; 86%), <tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (545; 75%), <tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt> (489; 68%), <tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (484; 67%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (241; 59% of non-empty `Tense`): <em>ήρτι, είπι, είχι, πήγι, είδι, Έπριπι, Έφαγα, έκλαψι, έφγει, έφγι</em>
-* `Pres` (167; 41% of non-empty `Tense`): <em>έχ’, λέγ’ς, ξέρ’ς, κάν’, έχου, έχουμι, θέλου, λέγου, μπουρώ, ξέρ’</em>
-* `EMPTY` (163): <em>έλα, κάνου, γυρίσ’, δω, Κάτσι, Σώπα, άγι, βάλι, βάλου, βρει</em>
+* `Past` (443; 61% of non-empty `Tense`): <em>είχε, έπρεπε, είχαν, έπρεπ’, ήρτι, είπε, είπι, είχι, πήγι, έκανε</em>
+* `Pres` (280; 39% of non-empty `Tense`): <em>έχ’, λέει, έχουν, λέγ’ς, ξέρ’ς, θέλου, κάν’, λέγου, ξέρ’, έχου</em>
+* `EMPTY` (254): <em>έλα, πάρ’, πω, κάνου, κάν’, κάτσι, πα, γυρίσ’, δει, δω</em>
 
 <table>
-  <tr><th>Paradigm <i>λέγου</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>λέγου</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>λέγ’ς, λέγς, λεγς, λες</em></td><td><em>ίλιγις</em></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>λέγ’, λεγ’</em></td><td><em>έλιγι</em></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>λέγ, λέγιν, λέγ’ν</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_lesbian-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>ίπι, είπει</em></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>είπι, είπε, Έπισι, είπ, πι</em></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>είπαν</em></td></tr>
+  <tr><th>Paradigm <i>έχου</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>έχου, έχω, χου, χουμι</em></td><td><em>Είχα</em></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>έχς, ’χ’ς</em></td><td><em>είχες</em></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_lesbian-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>έχει</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>έχ’, είχ’, έχει, εχ’</em></td><td><em>είχε, είχι, είχ’, ‘χε</em></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_lesbian-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>έχουμη</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>έχουμι, έχουμ’, ‘χουμε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>χιτι</em></td><td><em>‘χιτε</em></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>έχουν, έχουνε, έχ’ν</em></td><td><em>είχαν, χαν</em></td></tr>
 </table>
 
 ### `AUX`
 
-73 <tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Tense`.
+149 <tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (50; 68%), <tt><a href="el_lesbian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (39; 53%), <tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (39; 53%), <tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (39; 53%), <tt><a href="el_lesbian-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (39; 53%), <tt><a href="el_lesbian-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (39; 53%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="el_lesbian-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (98; 66%), <tt><a href="el_lesbian-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (98; 66%), <tt><a href="el_lesbian-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (90; 60%), <tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt> (85; 57%), <tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (80; 54%), <tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (77; 52%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (39; 53% of non-empty `Tense`): <em>θα, α</em>
-* `Past` (11; 15% of non-empty `Tense`): <em>ήνταν, ήταν, ένι, ήμν-ταν, ταν</em>
-* `Pres` (23; 32% of non-empty `Tense`): <em>είνι, είναι, είμι, είνη, ένι, είμη, ν’, ’μαστι, ’νι</em>
-* `EMPTY` (24): <em>να, ν, ας, νά, ν’</em>
+* `Fut` (51; 34% of non-empty `Tense`): <em>θα, α</em>
+* `Past` (48; 32% of non-empty `Tense`): <em>ήνταν, ήταν, είχε, ένι, ήμν-ταν, ταν</em>
+* `Pres` (50; 34% of non-empty `Tense`): <em>είνι, είναι, είν’, είμαι, είμι, είνη, Έχεις, Έχουν, Έχς, ένι</em>
+* `EMPTY` (41): <em>να, ν, ας, ν’, νά</em>
 
 <table>
   <tr><th>Paradigm <i>είμι</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>είμι</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>είμαι, είμι</em></td><td></td></tr>
   <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_lesbian-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>είνη</em></td><td><em>ήμν-ταν</em></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>είνι, ένι, είναι</em></td><td><em>ήνταν, ήταν, ταν</em></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>είνι</em></td><td><em>ήνταν</em></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>είνι, είν’, είναι, ένι</em></td><td><em>ήνταν, ήταν, ταν</em></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>είμαστε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Είναι, είμαι, είνι</em></td><td><em>ήνταν, ήταν</em></td></tr>
   <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_lesbian-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>είμη</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>είμι</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>είμαι, είμι</em></td><td></td></tr>
   <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_lesbian-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>είνη</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>είναι, είνι</em></td><td><em>ένι</em></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>είναι, είνι, είμ’, ‘ναι</em></td><td><em>ένι, ήταν</em></td></tr>
   <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>’μαστι</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ν’, ’νι</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_lesbian-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>είναι, ν’, ’νι</em></td><td><em>ήταν</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="el_lesbian-dep-conj.html">conj</a></tt>]--> VERB</tt> (60; 75%),
-<tt>VERB --[<tt><a href="el_lesbian-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (25; 51%).
+<tt>VERB --[<tt><a href="el_lesbian-dep-conj.html">conj</a></tt>]--> VERB</tt> (96; 79%).
 

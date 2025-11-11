@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Georgian-GLC: POS Tags: `SCONJ`
 
-There are 36 `SCONJ` lemmas (0%), 48 `SCONJ` types (0%) and 699 `SCONJ` tokens (1%).
+There are 36 `SCONJ` lemmas (0%), 49 `SCONJ` types (0%) and 701 `SCONJ` tokens (1%).
 Out of 16 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>როგორც, რომ, რაც, თუმცა, თუ, როგორი, როდესაც, სადაც, რომელი, ამიტომ</em>
+The 10 most frequent `SCONJ` lemmas: <em>როგორც, რომ, რაც, თუმცა, თუ, როგორი, როდესაც, რომელი, სადაც, ამიტომ</em>
 
 The 10 most frequent `SCONJ` types:  <em>როგორც, რომ, რაც, თუმცა, თუ, როდესაც, როგორიცა, სადაც, რათა, ვიდრე</em>
 
-The 10 most frequent ambiguous lemmas: <em>როგორც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 194, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1), <em>თუ</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 49, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 44), <em>როგორი</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 2), <em>სადაც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 5), <em>რომელი</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 341, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 21), <em>რა</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 43, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ka_glc-pos-PART.html">PART</a></tt> 1), <em>როგორ</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 1), <em>საიდან</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1), <em>რამდენი</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>ხოლო</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>როგორც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 194, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1), <em>თუ</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 49, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 44), <em>როგორი</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 2), <em>რომელი</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 339, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 23), <em>სადაც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 5), <em>რა</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 45, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ka_glc-pos-PART.html">PART</a></tt> 1), <em>როგორ</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 1), <em>საიდან</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1), <em>რამდენი</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 4, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>ხოლო</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>როგორც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 196, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1), <em>რომ</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 116, <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> 1), <em>თუ</em> (<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 49, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 44), <em>როგორიცა</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 1), <em>სადაც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 5), <em>რომლითაც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 1), <em>რასაც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>რის</em> (<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 13, <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 4), <em>როგორ</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 1), <em>რამდენადაც</em> (<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 1)
 
@@ -52,9 +52,9 @@ The 10 most frequent ambiguous types:  <em>როგორც</em> (<tt><a href=
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.333333 (the average of all parts of speech is 1.677821).
+The form / lemma ratio of `SCONJ` is 1.361111 (the average of all parts of speech is 1.674782).
 
-The 1st highest number of forms (7) was observed with the lemma “რომელი”: <em>რომელზედაც, რომელი, რომლებ, რომლებმაც, რომლითაც, რომლისგანაც, რომლისთვისაც</em>.
+The 1st highest number of forms (8) was observed with the lemma “რომელი”: <em>რომელზედაც, რომელზეც, რომელი, რომლებ, რომლებმაც, რომლითაც, რომლისგანაც, რომლისთვისაც</em>.
 
 The 2nd highest number of forms (4) was observed with the lemma “როგორი”: <em>როგორ, როგორებიცა, როგორიც, როგორიცა</em>.
 
@@ -65,19 +65,19 @@ The 3rd highest number of forms (3) was observed with the lemma “ამიტ�
 `SCONJ` occurs with 1 feature-value pairs: `Abbr=Yes`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (689 tokens).
+The most frequent feature combination is `_` (691 tokens).
 Examples: <em>როგორც, რომ, რაც, თუმცა, თუ, როდესაც, როგორიცა, სადაც, რათა, ვიდრე</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="ka_glc-dep-mark.html">mark</a></tt> (651; 93% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (38; 5% instances), <tt><a href="ka_glc-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="ka_glc-dep-mark.html">mark</a></tt> (653; 93% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (38; 5% instances), <tt><a href="ka_glc-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (333; 48% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (247; 35% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (86; 12% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (354; 50% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (247; 35% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (67; 10% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 0% instances)
 
-620 (89%) `SCONJ` nodes are leaves.
+621 (89%) `SCONJ` nodes are leaves.
 
-39 (6%) `SCONJ` nodes have one child.
+40 (6%) `SCONJ` nodes have one child.
 
 3 (0%) `SCONJ` nodes have two children.
 
@@ -85,7 +85,7 @@ Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ka_
 
 The highest child degree of a `SCONJ` node is 4.
 
-Children of `SCONJ` nodes are attached using 9 different relations: <tt><a href="ka_glc-dep-punct.html">punct</a></tt> (75; 47% instances), <tt><a href="ka_glc-dep-cop.html">cop</a></tt> (39; 25% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (33; 21% instances), <tt><a href="ka_glc-dep-advmod.html">advmod</a></tt> (3; 2% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (3; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="ka_glc-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="ka_glc-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 9 different relations: <tt><a href="ka_glc-dep-punct.html">punct</a></tt> (76; 48% instances), <tt><a href="ka_glc-dep-cop.html">cop</a></tt> (39; 24% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (33; 21% instances), <tt><a href="ka_glc-dep-advmod.html">advmod</a></tt> (3; 2% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (3; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="ka_glc-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="ka_glc-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (75; 47% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (39; 25% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (36; 23% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (76; 48% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (39; 24% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (36; 23% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

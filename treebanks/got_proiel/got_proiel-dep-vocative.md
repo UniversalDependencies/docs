@@ -22,14 +22,14 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 vocative	color:blue
-1	atta	atta	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	ref=MATT_6.9
-2	unsar	unsar	DET	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	ref=MATT_6.9
-3	þu	þu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	appos	_	ref=MATT_6.9
-4	in	in	ADP	R-	_	5	case	_	ref=MATT_6.9
-5	himinam	himins	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	nmod	_	ref=MATT_6.9
-6	weihnai	weihnan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.9
-7	namo	namo	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_6.9
-8	þein	þeins	DET	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	7	det	_	ref=MATT_6.9
+1	atta	atta	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	Ref=MATT_6.9
+2	unsar	unsar	DET	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	det	_	Ref=MATT_6.9
+3	þu	þu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	appos	_	Ref=MATT_6.9
+4	in	in	ADP	R-	_	5	case	_	Ref=MATT_6.9
+5	himinam	himins	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	nmod	_	Ref=MATT_6.9
+6	weihnai	weihnan	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_6.9
+7	namo	namo	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Ref=MATT_6.9
+8	þein	þeins	DET	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	7	det	_	Ref=MATT_6.9
 
 ~~~
 
@@ -40,11 +40,11 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 vocative	color:blue
-1	Seimon	Seimon	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=LUKE_7.40
-2	skal	skulan*	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.40
-3	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl:arg	_	ref=LUKE_7.40
-4	ƕa	ƕas	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=LUKE_7.40
-5	qiþan	qiþan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=LUKE_7.40
+1	Seimon	Seimon	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	Ref=LUKE_7.40
+2	skal	skulan*	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_7.40
+3	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl:arg	_	Ref=LUKE_7.40
+4	ƕa	ƕas	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=LUKE_7.40
+5	qiþan	qiþan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	Ref=LUKE_7.40
 
 ~~~
 
@@ -55,16 +55,16 @@ The following 15 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
-1	frauja	frauja	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=LUKE_19.20
-2	sai	sai	INTJ	I-	_	4	discourse	_	ref=LUKE_19.20
-3	sa	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=LUKE_19.20
-4	skatts	skatts	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_19.20
-5	þeins	þeins	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	det	_	ref=LUKE_19.20
-6	þanei	saei	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	7	obj	_	ref=LUKE_19.20
-7	habaida	haban	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	ref=LUKE_19.20
-8	galagidana	ga-lagjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	_	ref=LUKE_19.20
-9	in	in	ADP	R-	_	10	case	_	ref=LUKE_19.20
-10	fanin	fana	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	ref=LUKE_19.20
+1	frauja	frauja	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	Ref=LUKE_19.20
+2	sai	sai	INTJ	I-	_	4	discourse	_	Ref=LUKE_19.20
+3	sa	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	Ref=LUKE_19.20
+4	skatts	skatts	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=LUKE_19.20
+5	þeins	þeins	DET	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	det	_	Ref=LUKE_19.20
+6	þanei	saei	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	7	obj	_	Ref=LUKE_19.20
+7	habaida	haban	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	Ref=LUKE_19.20
+8	galagidana	ga-lagjan	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	_	Ref=LUKE_19.20
+9	in	in	ADP	R-	_	10	case	_	Ref=LUKE_19.20
+10	fanin	fana	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	Ref=LUKE_19.20
 
 ~~~
 

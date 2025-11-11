@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
-The following people have contributed to making this treebank part of UD: Mojgan Seraji, Filip Ginter, Joakim Nivre, Martin Popel, Daniel Zeman.
+The following people have contributed to making this treebank part of UD: Mojgan Seraji, Filip Ginter, Joakim Nivre, Martin Popel, Daniel Zeman, Minoo Nassajian.
 
 Repository: [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -87,11 +87,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 
 
 <ul>
-<li>This corpus contains 5997 sentences, 151625 tokens and 152920 syntactic words.</li>
+<li>This corpus contains 5997 sentences, 151627 tokens and 152923 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13133 tokens (9%) that are not followed by a space.</li>
+<li>This corpus contains 13135 tokens (9%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -99,11 +99,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 </ul>
 
 <ul>
-<li>This corpus contains 2 types of words that contain both letters and punctuation. Examples: بود؛, می‌زد؛</li>
+<li>This corpus does not contain words that contain both letters and punctuation.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1291 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 1292 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 715 types of multi-word tokens. Examples: خودش، خودشان، خودم، مرا، معتقدند، بدین، برایش، خودت، دلم، اوست، چیست، کشورمان، ماست، پیداست، خودمان، پدرش، درین، بدان، سرش، مادرش، همسرم، پدرم، آخرش، آن‌هاست، امیدواریم، خانواده‌اش، نامه‌ات، ازین، امیدوارم، امیدوارند، بهش، دستش، دلش، همه‌اش، پایش، کارش، کجاست، آزادند، ارزشهاست، برخوردارند، توست، خانه‌اش، خداست، خودتان، رویش، زین، صدایش، قبلی‌اش، مدتهاست، منظورم.</li>
 </ul>
 
@@ -121,7 +121,7 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 </ul>
 
 <ul>
-<li>This corpus contains 54 lemmas tagged as pronouns (PRON): _, آن, آنرا, آنها, آنچه, آن‌ها, ات, ام, او, ایشان, این, اینو, اینگونه, برخی, بسیاری, بعضی, تمام, تو, تک‌تک, جنابعالی, حضرتعالی, خود, خودت, خودم, خودمو, خوی, خویش, خویشتن, دیگر, دیگری, شما, ما, من, منم, هرکدام, هرکس, هرکه, هم, همان, همانی, همدیگر, همه, همه‌, همگان, همگی, همین, هیچکدام, هیچکس, هیچیک, هیچ‌یک, وی, کی, یک, یکدیگر</li>
+<li>This corpus contains 55 lemmas tagged as pronouns (PRON): آن, آنان, آنرا, آنها, آنچه, آن‌ها, ات, ام, او, ایشان, این, اینو, اینگونه, برخی, بسیاری, بعضی, تمام, تو, تک‌تک, جنابعالی, حضرتعالی, خود, خودت, خودم, خودمو, خوی, خویش, خویشتن, دیگر, دیگری, شما, ما, من, منم, هرکدام, هرکس, هرکه, هم, همان, همانها, همانی, همدیگر, همه, همه‌, همگان, همگی, همین, هیچکدام, هیچکس, هیچیک, هیچ‌یک, وی, کی, یک, یکدیگر</li>
 </ul>
 
 <ul>
@@ -133,11 +133,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): _, است, بایست, بود, توان, توانست, خواست, داشت, کرد, گردید, گشت</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): است, بایست, بود, توان, توانست, خواست, داشت, شد, هست, کرد, گردید, گشت</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: _, است, بود, توانست, خواست, داشت, کرد, گشت</li>
+<li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: است, بود, توانست, خواست, داشت, شد, هست, کرد, گردید, گشت</li>
 </ul>
 
 <ul>
@@ -147,7 +147,8 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: خواهد, خواهند, نخواهد, بتواند, دارد, بتوانند, داریم, دارند, می‌باید, خواهم</li>
+    <li>AUX: خواهد, باشد, باشند, خواهند, باشیم, شود, نخواهد, گردد, نباشد, بتواند</li>
+    <li>VERB: کنند, کند, شود, کنیم, کنم, دهد, بشود, کنید, باشد, شوند</li>
   </ul>
   </li>
 </ul>
@@ -183,11 +184,12 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
   <li>Plur
     <ul>
       <li>AUX: بودند, باشند, خواهند, می‌توانند, نیستند, باشیم, بوده‌اند, نمی‌توانند, می‌خواهند, می‌خواهیم</li>
-      <li>AUX-Fin: خواهند, بتوانند, داریم, دارند, خواهیم, نتوانند, نخواهند, بتوانیم, خواهید, دارن</li>
+      <li>AUX-Fin: باشند, خواهند, باشیم, باشید, بشوند, بتوانند, داریم, دارند, بخواهیم, نباشند</li>
       <li>AUX-Part: بوده‌اند, شده‌اند, بوده‌ایم, توانسته‌اند, شده‌اید, شده‌ایم, نتوانسته‌اند, نگردیده‌اند</li>
       <li>NOUN: انتخابات, افراد, مواد, کسانی, کشورهای, برنامه‌های, اصلاحات, حدود, مطبوعات, آثار</li>
       <li>PRON: ما, آن‌ها, شان, شما, آنان, این‌ها, مان, ایشان, تان, اینان</li>
       <li>VERB: کنند, می‌کنند, هستند, دارند, کردند, ند, کرده‌اند, می‌شوند, کنیم, داشتند</li>
+      <li>VERB-Fin: کنند, کنیم, کنید, شوند, دهند, بکنند, بگذارند, بگیرند, بدهند, بیایند</li>
       <li>VERB-Part: کرده‌اند, شده‌اند, داده‌اند, داشته‌اند, گرفته‌اند, گفته‌اند, نشده‌اند, نکرده‌اند, آمده‌اند, نوشته‌اند</li>
     </ul>
   </li>
@@ -198,11 +200,12 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
     <ul>
       <li>ADJ-Part: آمده, ساخته, یادشده, بسته, توقیف‌شده, ناخواسته, انجام‌شده, عقب‌افتاده, کاسته, کشته</li>
       <li>AUX: است, بود, خواهد, باشد, ست, بوده, شده, می‌تواند, می‌شود, نبود</li>
-      <li>AUX-Fin: خواهد, نخواهد, بتواند, دارد, خواهم, دارم, نخواهم, بتوانم, خواهی, داره</li>
+      <li>AUX-Fin: خواهد, باشد, شود, نخواهد, گردد, نباشد, بتواند, باشم, دارد, خواهم</li>
       <li>AUX-Part: بوده, شده, نبوده, گردیده, نشده, شده‌ای, می‌شده, نمی‌توانسته, نگردیده, بوده‌ام</li>
       <li>NOUN: ایران, سال, مردم, کشور, روز, کار, قرار, دست, انقلاب, تهران</li>
       <li>PRON: خود, آن, او, این, ش, من, وی, تو, م, اش</li>
       <li>VERB: کرد, گفت, شد, شده, می‌شود, دارد, می‌کند, کرده, نیست, است</li>
+      <li>VERB-Fin: کند, شود, کنم, دهد, بشود, باشد, کن, گیرد, بگیرد, گو</li>
       <li>VERB-Part: شده, کرده, داشته, داده, گرفته, آمده, نوشته, دیده, ساخته, رسیده</li>
     </ul>
   </li>
@@ -280,10 +283,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
       <li>ADJ-Part: ناخواسته, نیاورده, ناخواسته‌ای, نبوده, نجنگیده, نمرده, نیفزوده, پرداخت‌نشده, کشف‌ناشده‌ای</li>
       <li>ADV: نه, غیر, هرگز, دیگر, هیچ, خیر, هیچ‌گاه</li>
       <li>AUX: نباید, نیستند, نخواهد, نباشد, نمی‌تواند, نمی‌توانند, نبوده, نباشند, نمی‌توانیم, نبودند</li>
-      <li>AUX-Fin: نخواهد, نتوانند, نخواهم, نخواهند, نخواهی, نخواهیم, نمی‌باید</li>
+      <li>AUX-Fin: نخواهد, نباشد, نباشند, نتوانند, نخواهم, نخواهند, نباشم, نشود, نباشید, نشوند</li>
       <li>AUX-Inf: نباید, نبایستی, نمی‌بایست, نمی‌شود</li>
       <li>AUX-Part: نبوده, نشده, نمی‌توانسته, نگردیده, نتوانسته, نتوانسته‌اند, نگردیده‌اند</li>
       <li>VERB: نیست, نداشته, ندارند, نکرده, نشده, نمی‌کند, نمی‌کنند, نمی‌دانستند, نیستم, نمی‌دانم</li>
+      <li>VERB-Fin: نشود, نکند, نکنند, نباشد, نکنید, نیاید, مکن, نداند, ندهد, نماند</li>
       <li>VERB-Part: نداشته, نکرده, نشده, نیامده, نداده, نشده‌اند, نکرده‌اند, نرسیده, نمانده, نتوانسته</li>
     </ul>
   </li>
@@ -301,8 +305,16 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: باش</li>
-      <li>VERB: کن, گو, بگو, بگیر, بده, ببین, برو, بیا, بدانید, بزن</li>
+      <li>AUX-Fin: باش</li>
+      <li>VERB-Fin: کن, گو, بگو, بگیر, بده, ببین, برو, بیا, بدانید, بزن</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: خواهد, خواهند, نخواهد, دارد, داریم, دارند, خواهم, دارم, خواهیم, می‌باید</li>
     </ul>
   </li>
 </ul>
@@ -310,9 +322,8 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: باشد, باشند, باشیم, شود, گردد, نباشد, بتواند, باشم, باشید, بشوند</li>
-      <li>AUX-Fin: بتواند, بتوانند, نتوانند, بتوانم, بتوانیم</li>
-      <li>VERB: کنند, کند, شود, کنیم, کنم, دهد, بشود, کنید, باشد, شوند</li>
+      <li>AUX-Fin: باشد, باشند, باشیم, شود, گردد, نباشد, بتواند, باشم, باشید, بشوند</li>
+      <li>VERB-Fin: کنند, کند, شود, کنیم, کنم, دهد, بشود, کنید, باشد, شوند</li>
     </ul>
   </li>
 </ul>
@@ -343,8 +354,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
   <li>Pres
     <ul>
       <li>AUX: است, باشد, ست, باشند, می‌تواند, می‌شود, می‌باشد, می‌توانند, می‌خواهد, نیستند</li>
-      <li>AUX-Fin: بتواند, دارد, بتوانند, داریم, دارند, دارم, نتوانند, بتوانم, بتوانیم, داره</li>
+      <li>AUX-Fin: باشد, باشند, باشیم, شود, گردد, نباشد, بتواند, باشم, دارد, باشید</li>
       <li>VERB: می‌شود, دارد, می‌کند, کنند, نیست, است, کند, می‌کنند, هستند, دارند</li>
+      <li>VERB-Fin: کنند, کند, شود, کنیم, کنم, دهد, بشود, کنید, باشد, شوند</li>
     </ul>
   </li>
 </ul>
@@ -466,10 +478,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
   <li>1
     <ul>
       <li>AUX: بودم, باشیم, باشم, می‌خواهیم, می‌خواهم, داریم, بودیم, می‌توانم, بخواهیم, خواهم</li>
-      <li>AUX-Fin: داریم, خواهم, دارم, خواهیم, نخواهم, بتوانم, بتوانیم, نخواهیم</li>
+      <li>AUX-Fin: باشیم, باشم, داریم, بخواهیم, خواهم, دارم, خواهیم, نخواهم, بتوانم, بتوانیم</li>
       <li>AUX-Part: بوده‌ایم, بوده‌ام, شده‌ایم</li>
       <li>PRON: ما, من, م, مان, ام, منم, خودم, خودمو, منِ</li>
       <li>VERB: می‌کنم, کنیم, کردیم, کنم, کردم, می‌کنیم, دارم, داریم, هستیم, گفتم</li>
+      <li>VERB-Fin: کنیم, کنم, بگویم, بدهیم, بگوییم, ببینم, باشیم, بدهم, برسیم, برویم</li>
       <li>VERB-Part: کرده‌ایم, کرده‌ام, آمده‌ام, آمده‌ایم, دیده‌ایم, شده‌ایم, خوانده‌ام, داده‌ام, دیده‌ام, شده‌ام</li>
     </ul>
   </li>
@@ -479,10 +492,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
   <li>2
     <ul>
       <li>AUX: باشید, می‌توانید, می‌خواهید, باش, باشی, بودید, خواستید, خواهی, نمی‌توانید, شده‌ای</li>
-      <li>AUX-Fin: خواهی, خواهید, داری, نخواهی</li>
+      <li>AUX-Fin: باشید, باش, باشی, خواهی, نباشید, بخواهی, خواهید, داری, شوید, نخواهی</li>
       <li>AUX-Part: شده‌ای, بوده‌ای, شده‌اید</li>
       <li>PRON: تو, شما, ت, تان, ات, جنابعالی, شماها, خود, خودت</li>
       <li>VERB: کنید, کن, گو, بگو, دارید, کنی, نیستی, هستی, کردید, ببینید</li>
+      <li>VERB-Fin: کنید, کن, گو, بگو, کنی, ببینید, بگیر, بده, بدهید, ببین</li>
       <li>VERB-Part: شنیده‌اید, کرده‌ای, کرده‌اید, نوشته‌ای, داده‌ای, ساخته‌ای, آمده‌ای, آمده‌اید, افکنده‌ای, بوده‌اید</li>
     </ul>
   </li>
@@ -493,10 +507,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
     <ul>
       <li>ADJ-Part: آمده, ساخته, یادشده, بسته, توقیف‌شده, ناخواسته, انجام‌شده, عقب‌افتاده, کاسته, کشته</li>
       <li>AUX: است, بود, خواهد, باشد, بودند, ست, باشند, بوده, شده, می‌تواند</li>
-      <li>AUX-Fin: خواهد, خواهند, نخواهد, بتواند, دارد, بتوانند, دارند, نتوانند, نخواهند, داره</li>
+      <li>AUX-Fin: خواهد, باشد, باشند, خواهند, شود, نخواهد, گردد, نباشد, بتواند, دارد</li>
       <li>AUX-Part: بوده, شده, بوده‌اند, نبوده, گردیده, شده‌اند, نشده, می‌شده, نمی‌توانسته, نگردیده</li>
       <li>PRON: خود, او, ش, وی, شان, اش, ایشان, خویش, حضرتعالی, و</li>
       <li>VERB: کرد, گفت, شد, شده, می‌شود, دارد, می‌کند, کرده, کنند, نیست</li>
+      <li>VERB-Fin: کنند, کند, شود, دهد, بشود, باشد, شوند, دهند, گیرد, بگیرد</li>
       <li>VERB-Part: شده, کرده, داشته, داده, گرفته, آمده, کرده‌اند, نوشته, دیده, ساخته</li>
     </ul>
   </li>
@@ -513,11 +528,11 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: است، بود، _.</li>
+<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: است، بود، شد، گردید، هست.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: است، خواست، بود، بایست، توانست، توان، داشت، کرد، _.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: است، خواست، بود، بایست، توانست، توان، داشت، کرد.</li>
 <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: کرد، گشت، بود، گردید.</li>
 </ul>
 
@@ -527,12 +542,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (3977)</li>
-      <li>VERB--NOUN-ADP(ای) (3)</li>
-      <li>VERB--NOUN-ADP(را) (10)</li>
-      <li>VERB--PRON (904)</li>
-      <li>VERB--PRON-ADP(را) (1)</li>
-      <li>VERB-Part--NOUN (819)</li>
+      <li>VERB--NOUN (3513)</li>
+      <li>VERB--NOUN-ADP(ای) (2)</li>
+      <li>VERB--NOUN-ADP(را) (8)</li>
+      <li>VERB--PRON (774)</li>
+      <li>VERB-Fin--NOUN (463)</li>
+      <li>VERB-Fin--NOUN-ADP(ای) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(را) (2)</li>
+      <li>VERB-Fin--PRON (130)</li>
+      <li>VERB-Fin--PRON-ADP(را) (1)</li>
+      <li>VERB-Part--NOUN (820)</li>
       <li>VERB-Part--PRON (118)</li>
       <li>VERB-Part--PRON-ADP(را) (1)</li>
     </ul>
@@ -542,14 +561,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1047)</li>
-      <li>VERB--NOUN-ADP(را) (1683)</li>
-      <li>VERB--NOUN-ADP(را)-ADP(را) (1)</li>
-      <li>VERB--NOUN-ADP(رو) (2)</li>
-      <li>VERB--PRON (30)</li>
-      <li>VERB--PRON-ADP(را) (260)</li>
+      <li>VERB--NOUN (813)</li>
+      <li>VERB--NOUN-ADP(را) (1172)</li>
+      <li>VERB--PRON (21)</li>
+      <li>VERB--PRON-ADP(را) (175)</li>
+      <li>VERB-Fin--NOUN (234)</li>
+      <li>VERB-Fin--NOUN-ADP(را) (510)</li>
+      <li>VERB-Fin--NOUN-ADP(را)-ADP(را) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(رو) (2)</li>
+      <li>VERB-Fin--PRON (9)</li>
+      <li>VERB-Fin--PRON-ADP(را) (85)</li>
       <li>VERB-Part--NOUN (220)</li>
-      <li>VERB-Part--NOUN-ADP(را) (331)</li>
+      <li>VERB-Part--NOUN-ADP(را) (332)</li>
       <li>VERB-Part--PRON (6)</li>
       <li>VERB-Part--PRON-ADP(را) (35)</li>
     </ul>
@@ -568,7 +591,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 13 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: کرد خود، دانست خود، _ خود، داد خود، زد خود، رساند خود، رسانید خود، بست خود، حلیم خود، دید خود، دیدار خود، پوشاند خود، کشید خود</li>
+  <li>This corpus contains 15 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: کرد خود، دانست خود، داد خود، زد خود، دید خود، رساند خود، رسانید خود، آورد خود، افکند خود، بست خود، حلیم خود، دیدار خود، نامید خود، پوشاند خود، کشید خود</li>
 </ul>
 
 <h3>Relations Overview</h3>

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-65615 tokens (15%) have a non-empty value of `Voice`.
-12829 types (16%) occur at least once with a non-empty value of `Voice`.
-4637 lemmas (11%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (39117; 9% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (18220; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (7928; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (336; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (14; 0% instances).
+65619 tokens (15%) have a non-empty value of `Voice`.
+12831 types (16%) occur at least once with a non-empty value of `Voice`.
+4643 lemmas (11%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (39115; 9% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (18222; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (7932; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (336; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (14; 0% instances).
 
 ### `VERB`
 
-39117 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (82% of all `VERB` tokens) have a non-empty value of `Voice`.
+39115 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (82% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (31438; 80%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (29768; 76%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (21163; 54%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (31436; 80%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (29766; 76%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (21161; 54%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (34795; 89% of non-empty `Voice`): <em>tuleb, on, ütles, sai, saanud, tuli, saab, jääb, läks, ütleb</em>
+* `Act` (34793; 89% of non-empty `Voice`): <em>tuleb, on, ütles, sai, saanud, tuli, saab, jääb, läks, ütleb</em>
 * `Pass` (4322; 11% of non-empty `Voice`): <em>kasutatakse, seotud, tehtud, peetakse, toodud, tehti, leitud, tehakse, antud, hakati</em>
-* `EMPTY` (8740): <em>teha, saada, teada, võtta, näha, öelda, minna, kasutada, leida, panna</em>
+* `EMPTY` (8743): <em>teha, saada, teada, võtta, näha, öelda, minna, kasutada, leida, panna</em>
 
 <table>
   <tr><th>Paradigm <i>saama</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -64,13 +64,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-18220 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Voice`.
+18222 <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17686; 97%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (17104; 94%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16251; 89%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (14215; 78%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (13547; 74%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11457; 63%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17688; 97%), <tt><a href="et_edt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (17106; 94%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16254; 89%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (14217; 78%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (13548; 74%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11459; 63%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (18178; 100% of non-empty `Voice`): <em>on, oli, pole, võib, ole, olid, oleks, olnud, peaks, olen</em>
+* `Act` (18180; 100% of non-empty `Voice`): <em>on, oli, pole, võib, ole, olid, oleks, olnud, peaks, olen</em>
 * `Pass` (42; 0% of non-empty `Voice`): <em>ollakse, võidakse, oldi, olda, oldud, võidi, ollaksegi</em>
 * `EMPTY` (4230): <em>ei, olla, olles, are, tunduda, näikse, 's, es, is, paista</em>
 
@@ -121,15 +121,15 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 ### `ADJ`
 
-7928 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (21% of all `ADJ` tokens) have a non-empty value of `Voice`.
+7932 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (22% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7912; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7818; 99%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4069; 51%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7916; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7822; 99%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4069; 51%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (4922; 62% of non-empty `Voice`): <em>erinevate, möödunud, erinevad, erinevaid, ülejäänud, jäänud, toimunud, saanud, ilmunud, erinev</em>
-* `Pass` (3006; 38% of non-empty `Voice`): <em>seotud, teatud, tehtud, antud, tuntud, nimetatud, loodud, saadud, suunatud, avatud</em>
-* `EMPTY` (28953): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
+* `Act` (4911; 62% of non-empty `Voice`): <em>erinevate, möödunud, erinevad, erinevaid, ülejäänud, jäänud, toimunud, saanud, ilmunud, erinev</em>
+* `Pass` (3021; 38% of non-empty `Voice`): <em>seotud, teatud, tehtud, antud, tuntud, nimetatud, loodud, saadud, suunatud, avatud</em>
+* `EMPTY` (28925): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
 
 <table>
   <tr><th>Paradigm <i>huvitav</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -145,7 +145,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
   <tr><td><tt></tt></td><td></td><td><em>Huvitav</em></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `ADJ`. 99% lemmas (2353) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (2365) occur only with one value of `Voice`.
 
 ### `NOUN`
 
@@ -155,9 +155,9 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 `NOUN` tokens may have the following values of `Voice`:
 
-* `Act` (193; 57% of non-empty `Voice`): <em>uuritavat, surnu, uuritavad, uuritavatel, allakirjutanu, osalenute, vastanuist, juhtunu, kinnipeetavate, olemasolevaid</em>
-* `Pass` (143; 43% of non-empty `Voice`): <em>hõivatute, hõivatud, hõivatuist, Eeltoodu, hõivatutest, nähtu, ravituil, eeltoodust, etnofutu, loodu</em>
-* `EMPTY` (115374): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `Act` (191; 57% of non-empty `Voice`): <em>uuritavat, surnu, uuritavad, uuritavatel, allakirjutanu, osalenute, vastanuist, juhtunu, kinnipeetavate, olemasolevaid</em>
+* `Pass` (145; 43% of non-empty `Voice`): <em>hõivatute, hõivatud, hõivatuist, Eeltoodu, hõivatutest, nähtu, ravituil, eeltoodust, etnofutu, loodu</em>
+* `EMPTY` (115363): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 <table>
   <tr><th>Paradigm <i>uuri=tav</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -172,7 +172,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>uuritavat, uuritav</em></td><td></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `NOUN`. 98% lemmas (123) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `NOUN`. 98% lemmas (124) occur only with one value of `Voice`.
 
 ### `PROPN`
 
@@ -184,7 +184,7 @@ The most frequent other feature values with which `PROPN` and `Voice` co-occurre
 
 * `Act` (8; 57% of non-empty `Voice`): <em>Ühinenud, Hukkunud, Iseseisva, Sõltuvas</em>
 * `Pass` (6; 43% of non-empty `Voice`): <em>Avatud, Relvastatud</em>
-* `EMPTY` (26268): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
+* `EMPTY` (26267): <em>eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Maa, Vene, Jan, Venemaa</em>
 
 ## Relations with Agreement in `Voice`
 
@@ -197,6 +197,6 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>AUX --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="et_edt-dep-acl.html">acl</a></tt>]--> ADJ</tt> (3; 75%),
 <tt>VERB --[<tt><a href="et_edt-dep-csubj-cop.html">csubj:cop</a></tt>]--> VERB</tt> (3; 60%),
-<tt>VERB --[<tt><a href="et_edt-dep-mark.html">mark</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="et_edt-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>VERB --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="et_edt-dep-mark.html">mark</a></tt>]--> VERB</tt> (2; 100%).
 

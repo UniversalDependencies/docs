@@ -140,7 +140,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PRON</tt> (15; 100%),
 <tt>ADV --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADV</tt> (10; 77%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (9; 64%),
-<tt>PRON --[<tt><a href="orv_rnc-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (5; 100%),
+<tt>PRON --[<tt><a href="orv_rnc-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (5; 83%),
 <tt>DET --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> DET</tt> (4; 57%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (4; 100%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (3; 100%),

@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ǥu</em> (<tt><a href="sms_giellagas-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.090909 (the average of all parts of speech is 1.476015).
+The form / lemma ratio of `SCONJ` is 1.090909 (the average of all parts of speech is 1.476809).
 
 The 1st highest number of forms (2) was observed with the lemma “što”: <em>što, štõ</em>.
 
@@ -48,7 +48,7 @@ Examples: <em>što, ko, ǥu, jos, mäʹhtt, Håʹt, Leša, diǥu, että, ku</em>
 
 `SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="sms_giellagas-dep-mark.html">mark</a></tt> (53; 91% instances), <tt><a href="sms_giellagas-dep-fixed.html">fixed</a></tt> (4; 7% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (1; 2% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (41; 71% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 9% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (41; 71% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 9% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 5% instances), <tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
 58 (100%) `SCONJ` nodes are leaves.
 

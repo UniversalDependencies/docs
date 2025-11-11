@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Jana Bajorat, Natalia Cáceres Arandia.
 
 Repository: [UD_Ika-ChibErgIS](https://github.com/UniversalDependencies/UD_Ika-ChibErgIS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udarh_chibergis216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udarh_chibergis217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -65,7 +65,7 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 
 ## POS Tags
 
-[ADJ](arh_chibergis-pos-ADJ.html) – [ADP](arh_chibergis-pos-ADP.html) – [ADV](arh_chibergis-pos-ADV.html) – [AUX](arh_chibergis-pos-AUX.html) – [CCONJ](arh_chibergis-pos-CCONJ.html) – [DET](arh_chibergis-pos-DET.html) – [INTJ](arh_chibergis-pos-INTJ.html) – [NOUN](arh_chibergis-pos-NOUN.html) – [NUM](arh_chibergis-pos-NUM.html) – [PART](arh_chibergis-pos-PART.html) – [PRON](arh_chibergis-pos-PRON.html) – [PROPN](arh_chibergis-pos-PROPN.html) – [PUNCT](arh_chibergis-pos-PUNCT.html) – [VERB](arh_chibergis-pos-VERB.html) – [X](arh_chibergis-pos-X.html)
+[ADJ](arh_chibergis-pos-ADJ.html) – [ADP](arh_chibergis-pos-ADP.html) – [ADV](arh_chibergis-pos-ADV.html) – [AUX](arh_chibergis-pos-AUX.html) – [CCONJ](arh_chibergis-pos-CCONJ.html) – [DET](arh_chibergis-pos-DET.html) – [INTJ](arh_chibergis-pos-INTJ.html) – [NOUN](arh_chibergis-pos-NOUN.html) – [NUM](arh_chibergis-pos-NUM.html) – [PART](arh_chibergis-pos-PART.html) – [PRON](arh_chibergis-pos-PRON.html) – [PROPN](arh_chibergis-pos-PROPN.html) – [PUNCT](arh_chibergis-pos-PUNCT.html) – [SCONJ](arh_chibergis-pos-SCONJ.html) – [VERB](arh_chibergis-pos-VERB.html) – [X](arh_chibergis-pos-X.html)
 
 ## Features
 
@@ -79,7 +79,7 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 
 
 <ul>
-<li>This corpus contains 439 sentences and 3706 tokens.</li>
+<li>This corpus contains 628 sentences and 5307 tokens.</li>
 </ul>
 
 <ul>
@@ -91,7 +91,7 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 </ul>
 
 <ul>
-<li>This corpus contains 212 types of words that contain both letters and punctuation. Examples: =se', zʉ'ʉn, na', i'ngwi, uye', =a'ba', ikʉnha', ka'a, a'nʉ, nane', umʉ'n, ka'gʉmʉ, ʉwe', a'mia, a'zʉna, unige', uwe', in'gwi, nuse', =a'ba, ga', ga'kʉnamʉ, kau', ma'keywa, za'ka, ánu'gwe, =ta', cho', manʉnka', me'zanʉndi, na'me', ne', nuge', uwa'me', za'ki, a'chwi, au', kiwa'na, kizu'na, me'zari, zʉne', ɉwia', a'gusi, a'gékwʉya, a'kusʉya, a'mʉchʉsi, a'we, a'zari, agwaku', aniku'</li>
+<li>This corpus contains 272 types of words that contain both letters and punctuation. Examples: =se', zʉ'ʉn, na', i'ngwi, uye', =a'ba', ikʉnha', ka'a, uwe', ánu'gwe, ka'gʉmʉ, umʉ'n, na'me', ʉwe', ne', nane', nuse', za'ka, a'nʉ, a'zari, a'mia, a'zʉna, unige', =a'ba, in'gwi, ma'keywa, manʉnka', nuge', uwa'me', a'chwi, cho', cho'kumʉya, ga'kʉnamʉ, kau', zanu', ʉnka'si, aná'nuga, au', ga', kiwa'na, me'zanʉndi, nu'na, za'ki, =ta', agwaku', aniku', anʉnmi'ri, kizu'na, ko', kʉ'ku</li>
 </ul>
 
 <ul>
@@ -102,24 +102,24 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: SCONJ, SYM</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
 </ul>
 
 <ul>
-<li>This corpus contains 26 word types tagged as particles (PART): =di, =gʉma, =ki, =kʉ, =kʉchʉ, =ri, =te, =ɉina, awe', awi, ewey, ey, gu, keywʉ, ki, kinka, kinki, neki, nekʉ, ni, pana, una, zan, zʉ'ʉn, zʉn, ʉwe'</li>
+<li>This corpus contains 28 word types tagged as particles (PART): =di, =gʉma, =ki, =kʉ, =kʉchʉ, =ri, =te, =ɉina, awe', awi, ewey, ey, gu, gwawa, keywʉ, ki, kinka, kinki, neki, nekʉ, ni, pʉn, pʉne', una, zan, zʉ'ʉn, zʉn, ʉwe'</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as pronouns (PRON): a, be, bekʉ, bema, ema, eyma, eymi, ikʉndi, ikʉnha', in'gweti, inʉ, manʉnka, manʉnka', nan, niwi, pinna, sʉmʉ, yow, yów, ʉy, ʉya</li>
+<li>This corpus contains 22 lemmas tagged as pronouns (PRON): a, be, bekʉ, bema, ema, eyma, eymi, ikʉndi, ikʉnha', in'gweti, ingweti, inʉ, manʉnka, manʉnka', nan, niwi, pinna, sʉmʉ, yow, yów, ʉy, ʉya</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as determiners (DET): aɉwa, bin, ema, eyma, pinna, yow, yów, ʉya</li>
+<li>This corpus contains 10 lemmas tagged as determiners (DET): aɉwa, bema, bin, ema, eyma, pinna, yama, yow, yów, ʉya</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: ema, eyma, pinna, yow, yów, ʉya</li>
+<li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: bema, ema, eyma, pinna, yow, yów, ʉya</li>
 </ul>
 
 <ul>
@@ -147,12 +147,11 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
     <ul>
       <li>ADP: =se', =si'</li>
       <li>ADV: umʉ'n</li>
-      <li>AUX: nʉnkwʉra</li>
-      <li>NOUN: gʉmʉsinʉ, kawʉ, azaku, buti, ikʉ, mamʉ, niwipaw, pera, zʉpaw, ɉwi</li>
+      <li>NOUN: gʉmʉsinʉ, kawʉ, a'mia, achʉna, ati, azaku, buti, cheyrwa, ikʉ, kakʉ</li>
       <li>NUM: in'gwi</li>
-      <li>PRON: ikʉnha', eyma, a, eymi, ikʉndi, yów, ʉya</li>
-      <li>PROPN: Paw, ikʉ</li>
-      <li>VERB: ʉnɉú</li>
+      <li>PRON: ikʉnha', eyma, a, eymi, yów, ʉya</li>
+      <li>PROPN: ikʉ, Paw</li>
+      <li>VERB: a'chunha</li>
     </ul>
   </li>
 </ul>
@@ -160,12 +159,14 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 <ul>
   <li>Inan
     <ul>
-      <li>ADP: =zey</li>
-      <li>AUX: neyka, kawa, na, nanay</li>
-      <li>NOUN: pera, ga'kʉnamʉ, ka'a, ga', goru, in, kʉnzʉwa, sʉmbrenu, zamʉ, ánu'gwe</li>
-      <li>NUM: i'ngwi, mowga</li>
+      <li>ADP: =a'ba', =zey</li>
+      <li>ADV: gunti</li>
+      <li>AUX: neyka, na, kawa, nanay</li>
+      <li>NOUN: pera, ka'a, ga', ga'kʉnamʉ, goru, in, kʉnzʉwa, sʉmbrenu, za'ka, zamʉ</li>
+      <li>NUM: i'ngwi</li>
       <li>PRON: inʉ, eyma, eymi</li>
-      <li>PROPN: tenʉ</li>
+      <li>PROPN: tenʉ, arwaku</li>
+      <li>VERB: a'chwi, a'kʉ, ana'gusi, awga, kawa, ʉnɉú</li>
     </ul>
   </li>
 </ul>
@@ -178,14 +179,16 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 <ul>
   <li>Abs
     <ul>
-      <li>ADJ: du, ingeygwi</li>
-      <li>ADP: =zey</li>
-      <li>AUX: neyka, nuga, kawa, na, nanay</li>
-      <li>NOUN: ikʉ, pera, bunsi, ɉwa, ɉe, sʉmbrenu, ɉuna, in, ka'gʉmʉ, kʉku</li>
-      <li>NUM: i'ngwi, mowga</li>
-      <li>PRON: eyma, ikʉnha', inʉ, yow, a, eymi, ikʉndi, pinna, sʉmʉ, yów</li>
-      <li>PROPN: ikʉ, tenʉ, kankwamʉ, kogwi, misakʉ, wiwa, Paw</li>
-      <li>VERB: isa, kawa, kʉnʉna, ʉnɉú</li>
+      <li>ADJ: ati, bʉkana, du, ingeygwi</li>
+      <li>ADP: =ze', =a'ba', =zey</li>
+      <li>ADV: ʉndi, gunti</li>
+      <li>AUX: neyka, nʉnno, kawa, na, nuga, awkweyka, inuga, na'me', niwingwa, nu'na</li>
+      <li>NOUN: pera, bunsi, ikʉ, ɉwa, zamʉ, kʉn, za'ka, in, sʉmbrenu, ichʉ</li>
+      <li>NUM: i'ngwi, ma'keywa</li>
+      <li>PART: ni</li>
+      <li>PRON: eyma, ʉya, inʉ, yow, ikʉnha', eymi, a, pinna, sʉmʉ, yów</li>
+      <li>PROPN: ikʉ, tenʉ, gwirwa, kankwamʉ, kogwi, misakʉ, wiwa, Paw, arwaku</li>
+      <li>VERB: kawa, kwana, kʉnʉna, a'cho'sʉye', a'kusʉya, a'pa, a'zanʉngwa, anaka, anisi, awanʉkwi</li>
     </ul>
   </li>
 </ul>
@@ -194,6 +197,7 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
   <li>Dat
     <ul>
       <li>ADP: =se'</li>
+      <li>AUX: nʉnkwʉra</li>
       <li>NOUN: gʉmʉsinʉ</li>
     </ul>
   </li>
@@ -204,11 +208,11 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
     <ul>
       <li>ADP: =se', =si'</li>
       <li>ADV: umʉ'n</li>
-      <li>AUX: nʉnkwʉra</li>
-      <li>NOUN: gʉmʉsinʉ, kawʉ, atinkʉnʉ, ikʉ, ka'a, kwimʉkʉnʉ, mamʉ, niwipaw, zamʉ, zʉpaw</li>
+      <li>NOUN: gʉmʉsinʉ, kawʉ, a'mia, achʉna, ati, atinkʉnʉ, cheyrwa, ikʉ, ka'a, kakʉ</li>
       <li>NUM: in'gwi</li>
-      <li>PRON: ikʉnha', eyma, a, eymi, ikʉndi, inʉ, ʉya</li>
-      <li>PROPN: ikʉ</li>
+      <li>PRON: ikʉnha', eyma, a, eymi, inʉ, ʉya</li>
+      <li>PROPN: ikʉ, tenʉ</li>
+      <li>VERB: kawa</li>
     </ul>
   </li>
 </ul>
@@ -216,9 +220,10 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 <ul>
   <li>Nom
     <ul>
+      <li>ADP: =se'</li>
       <li>AUX: nʉn</li>
       <li>NOUN: amipaw</li>
-      <li>PRON: manʉnka', niwi, manʉnka, nʉn</li>
+      <li>PRON: manʉnka', niwi, eyma, manʉnka, nʉn</li>
     </ul>
   </li>
 </ul>
@@ -231,13 +236,13 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 <ul>
   <li>Def
     <ul>
-      <li>ADP: =se', =si', =zey</li>
+      <li>ADP: =se', =a'ba', =si', =zey</li>
       <li>ADV: umʉ'n</li>
-      <li>AUX: kawa, nanay, neyka, nʉnkwʉra</li>
-      <li>NOUN: gʉmʉsinʉ, goru, in, ka'a, kawʉ, pera, sʉmbrenu, zamʉ, azaku, buti</li>
-      <li>PRON: eyma, ikʉnha', a, eymi, ikʉndi, yów, ʉya</li>
-      <li>PROPN: tenʉ, Paw, ikʉ</li>
-      <li>VERB: ʉnɉú</li>
+      <li>AUX: neyka, kawa, na, nanay</li>
+      <li>NOUN: gʉmʉsinʉ, pera, goru, in, ka'a, kakʉ, kawʉ, sʉmbrenu, zamʉ, a'mia</li>
+      <li>PRON: eyma, ikʉnha', eymi, a, yów, ʉya</li>
+      <li>PROPN: tenʉ, ikʉ, Paw</li>
+      <li>VERB: kawa</li>
     </ul>
   </li>
 </ul>
@@ -247,9 +252,9 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
     <ul>
       <li>ADP: =se'</li>
       <li>AUX: na, neyka</li>
-      <li>NOUN: pera, kʉnzʉwa, ánu'gwe, eywʉ, ga'kʉnamʉ, ikʉ, kasta, kunsamʉ, kʉmʉ, sey</li>
-      <li>NUM: mowga</li>
+      <li>NOUN: za'ka, ánu'gwe, aniga, eywʉ, ga'kʉnamʉ, ikʉ, kasta, kunsamʉ, kʉmʉ, sey</li>
       <li>PRON: inʉ</li>
+      <li>VERB: ʉnɉú</li>
     </ul>
   </li>
 </ul>
@@ -258,9 +263,12 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
   <li>Spec
     <ul>
       <li>ADP: =se'</li>
-      <li>NOUN: pera, atinkʉnʉ, ga', ga'kʉnamʉ, ka'a, kanasta, kwimʉkʉnʉ</li>
+      <li>ADV: gunti</li>
+      <li>NOUN: pera, kʉnzʉwa, atinkʉnʉ, cheyrwa, ga', ka'a, kanasta, kwimʉkʉnʉ</li>
       <li>NUM: i'ngwi, in'gwi</li>
       <li>PRON: inʉ</li>
+      <li>PROPN: arwaku</li>
+      <li>VERB: a'chunha, a'chwi, a'kʉ, ana'gusi, awga</li>
     </ul>
   </li>
 </ul>
@@ -298,11 +306,11 @@ Finally, I would like to express my heartfelt thanks to the Ika native speakers 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: nan, kaw, zan, nik.</li>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: nan, kaw, zan, nik, aw, nuk.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: nan, aw, nik, zoy, nuk, kaw, zan, niwingwa.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: nan, aw, zoy, nik, nuk, zan, kaw, niwingwa.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -311,18 +319,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-ADP(=se') (19)</li>
+      <li>VERB--NOUN (4)</li>
+      <li>VERB--NOUN-ADP(=se') (24)</li>
       <li>VERB--NOUN-ADP(_) (1)</li>
-      <li>VERB--NOUN-Abs (45)</li>
-      <li>VERB--NOUN-Erg (10)</li>
+      <li>VERB--NOUN-Abs (57)</li>
+      <li>VERB--NOUN-Erg (14)</li>
       <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB--PRON (5)</li>
-      <li>VERB--PRON-ADP(=se') (13)</li>
-      <li>VERB--PRON-ADP(_) (1)</li>
-      <li>VERB--PRON-Abs (15)</li>
+      <li>VERB--PRON (4)</li>
+      <li>VERB--PRON-ADP(=se') (16)</li>
+      <li>VERB--PRON-Abs (21)</li>
       <li>VERB--PRON-Erg (15)</li>
-      <li>VERB--PRON-Nom (6)</li>
+      <li>VERB--PRON-Nom (7)</li>
     </ul>
   </li>
 </ul>
@@ -330,11 +337,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (100)</li>
-      <li>VERB--NOUN-Abs (43)</li>
-      <li>VERB--PRON (34)</li>
+      <li>VERB--NOUN (13)</li>
+      <li>VERB--NOUN-Abs (173)</li>
+      <li>VERB--PRON (5)</li>
+      <li>VERB--PRON-ADP(=a'ba') (1)</li>
       <li>VERB--PRON-ADP(=zey) (1)</li>
-      <li>VERB--PRON-Abs (9)</li>
+      <li>VERB--PRON-ADP(_) (2)</li>
+      <li>VERB--PRON-Abs (51)</li>
     </ul>
   </li>
 </ul>
@@ -342,7 +351,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (7)</li>
+      <li>VERB--PRON (11)</li>
     </ul>
   </li>
 </ul>

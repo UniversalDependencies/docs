@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="xpg_kul-pos-NOUN.ht
 
 1 <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Typo`:
 

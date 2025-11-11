@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	τώρα	τώρα	ADV	_	_	1	advmod	_	_
 4	να	να	SCONJ	_	_	5	mark	_	_
 5	τκαλιάσου	τκαλιάσου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	1	advcl	_	_
-6	τς	τς	CCONJ	_	_	8	cc	_	_
+6	τς	τσι	CCONJ	_	_	8	cc	_	_
 7	ένα	ένας	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
 8	τσκαλέλ	τσκαλέλ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
 9	κτσιά	κτσί	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	nmod	_	_

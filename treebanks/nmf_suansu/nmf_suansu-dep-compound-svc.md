@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 4 3 compound:svc	color:blue
 1	Peter	Peter	PROPN	_	Number=Sing	3	nsubj	3:nsubj	_
 2	Mariadi	Maria	PROPN	_	Case=Top|Number=Sing	3	obj	3:obj	_
-3	phanung	phanung	VERB	_	_	4	compound:svc	4:compound:svc	_
+3	phanung	phanung	VERB	_	VerbForm=Inf	4	compound:svc	4:compound:svc	_
 4	woanle	woan	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	SpacesAfter=\n
 
 ~~~

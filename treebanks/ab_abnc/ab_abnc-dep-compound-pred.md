@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `compound:pred`: <tt
 2	шықәса	а́-шықәса	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	3	obl	_	LMSeg:а́-шықәса
 3	ирықәу	а́-қәзаара	VERB	V_Stat_NonFin_Pres_S:Rel_LO:3Pl_Rel	Dyn=No|Number[lo]=Plur|Person[lo]=3|Person[subj]=Rel|Tense=Pres|VerbForm=NonFin	4	acl:relcl	_	LMSeg:а́-қә-заа-ра
 4	ҩны	а-ҩны́	VERB	Noun_NH_Sg_Pred_LHP_S:3_S:Ad	Animacy=Nhum|Dyn=No|Number=Sing|Person[subj]=3	0	root	_	LMSeg:а-ҩны́
-5	ҧҳәысуп	а-ҧҳәы́с	VERB	Noun_H_F_Sg_Pred_RHP_Fin_Pres	Animacy=Hum|Dyn=No|Number=Sing|Tense=Pres|VerbForm=Fin	4	compound:pred	_	LMSeg:а-ҧҳәы́с|SpaceAfter=No
+5	ҧҳәысуп	а-ҧҳәы́с	VERB	Noun_H_F_Sg_Pred_RHP_Fin_Pres	Animacy=Hum|Dyn=No|Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	4	compound:pred	_	LMSeg:а-ҧҳәы́с|SpaceAfter=No
 6	.	.	PUNCT	Punct_Period	_	4	punct	_	LMSeg:.
 
 ~~~

@@ -8,37 +8,39 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-obl.html">obl</a></tt>.
 
-38 nodes (0%) are attached to their parents as `obl:agent`.
+47 nodes (0%) are attached to their parents as `obl:agent`.
 
-35 instances of `obl:agent` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.63157894736842.
+39 instances of `obl:agent` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.70212765957447.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (34; 89% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 5% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (42; 89% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 4% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 obl:agent	color:blue
-1	2016	2016	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	Translit=2016|LTranslit=2016
-2	թվականին	թվական	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	5	obl	_	Translit=t’vakanin|LTranslit=t’vakan
-3	ազգային	ազգային	ADJ	_	Degree=Pos	4	amod	_	Translit=azgayin|LTranslit=azgayin
-4	հայտատուներից	հայտատու	NOUN	_	Animacy=Hum|Case=Abl|Definite=Ind|Number=Plur	5	obl:agent	_	Translit=haytatowneric’|LTranslit=haytatow
-5	ստացվել	ստանալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=stac’vel|LTranslit=stanal
-6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=ē|LTranslit=em
-7	1261	1261	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	Translit=1261|LTranslit=1261
-8	հայտ	հայտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	nsubj:pass	_	Translit=hayt|LTranslit=hayt|SpaceAfter=No
-9	,	,	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,
-10	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	14	nsubj:pass	_	Translit=orë|LTranslit=or
-11	2015	2015	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	Translit=2015|LTranslit=2015
-12	թվականի	թվական	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	13	nmod:poss	_	Translit=t’vakani|LTranslit=t’vakan
-13	համեմատությամբ	համեմատություն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	14	obl	_	Translit=hamematowt’yamb|LTranslit=hamematowt’yown
-14	նվազել	նվազել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	8	acl:relcl	_	Translit=nvazel|LTranslit=nvazel
-15	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=ē|LTranslit=em
-16	79-ով	79	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing|NumForm=Digit	14	obl	_	Translit=79-ov|LTranslit=79|SpaceAfter=No
-17	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+# visual-style 4 1 obl:agent	color:blue
+1	Տրորողի	տրորող	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	4	obl:agent	_	Translit=Troroġi|LTranslit=troroġ
+2	կողմից	կողմից	ADP	_	AdpType=Post	1	case	_	Translit=koġmic’|LTranslit=koġmic’
+3	էլ	էլ	ADV	_	_	1	advmod:emph	_	Translit=ēl|LTranslit=ēl
+4	մոռացվում	մոռանալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=moṙac’vowm|LTranslit=moṙanal
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=ē|LTranslit=em
+6	նրա	նրա	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	Translit=nra|LTranslit=nra
+7	գոյությունը	գոյություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	4	nsubj:pass	_	Translit=goyowt’yownë|LTranslit=goyowt’yown|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
+9	իսկ	իսկ	CCONJ	_	_	12	cc	_	Translit=isk|LTranslit=isk
+10	նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=na|LTranslit=na
+11	ժամանակին	ժամանակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|ExtPos=ADV|Number=Sing	12	advmod	_	Translit=žamanakin|LTranslit=žamanak
+12	ցորեն	ցորեն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	4	conj	_	Translit=c’oren|LTranslit=c’oren
+13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	Translit=ē|LTranslit=em
+14	եղել	լինել	AUX	_	Aspect=Perf|VerbForm=Part	12	aux	_	Translit=eġel|LTranslit=linel|SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
+16	հետո	հետո	ADV	_	_	18	advmod	_	Translit=heto|LTranslit=heto|SpaceAfter=No
+17	՝	՝	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
+18	հաց	հաց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	conj	_	Translit=hac’|LTranslit=hac’|SpaceAfter=No
+19	...	...	PUNCT	_	_	4	punct	_	Translit=...|LTranslit=...
 
 ~~~
 
@@ -59,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
 9	այնպիսի	այնպիսի	DET	_	Deixis=Remt|PronType=Dem	10	det	_	Translit=aynpisi|LTranslit=aynpisi
 10	զգացմունքներ	զգացմունք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	11	obj	_	Translit=zgac’mownk’ner|LTranslit=zgac’mownk’
-11	հարուցելուն	հարուցել	VERB	_	Case=Dat|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	7	obl	_	Translit=harowc’elown|LTranslit=harowc’el|SpaceAfter=No
+11	հարուցելուն	հարուցել	VERB	_	Case=Dat|Definite=Def|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	7	iobj	_	Translit=harowc’elown|LTranslit=harowc’el|SpaceAfter=No
 12	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
 13	որոնք	որ	PRON	_	Case=Nom|Number=Plur|PronType=Rel	22	nsubj:pass	_	Translit=oronk’|LTranslit=or
 14	բազմիցս	բազմիցս	ADV	_	_	22	advmod	_	Translit=bazmic’s|LTranslit=bazmic’s
@@ -67,8 +69,8 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 16	զանգվածաբար	զանգվածաբար	ADV	_	_	14	conj	_	Translit=zangvaçabar|LTranslit=zangvaçabar
 17	նույն	նույն	DET	_	Deixis=Remt|PronType=Dem	18	det	_	Translit=nowyn|LTranslit=nowyn
 18	եղանակներով	եղանակ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	22	obl	_	Translit=eġanaknerov|LTranslit=eġanak
-19	ի	ի	ADP	_	AdpType=Prep	20	case	_	Translit=i|LTranslit=i
-20	հայտ	հայտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	22	compound:lvc	_	Translit=hayt|LTranslit=hayt
+19	ի	ի	ADP	_	AdpType=Prep|ExtPos=ADV	22	compound:lvc	_	Translit=i|LTranslit=i
+20	հայտ	հայտ	ADJ	_	Style=Arch	19	fixed	_	Translit=hayt|LTranslit=hayt
 21	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	aux	_	Translit=en|LTranslit=em
 22	բերվել	բերել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	10	acl:relcl	_	Translit=bervel|LTranslit=berel|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,
@@ -93,7 +95,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=em|LTranslit=em
 7	ցույց	ցույց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	compound:lvc	_	Translit=c’owyc’|LTranslit=c’owyc’
 8	տալ	տալ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	5	xcomp	_	Translit=tal|LTranslit=tal
-9	ինչպես	ինչպես	ADV	_	PronType=Int	20	advmod	_	Translit=inčpes|LTranslit=inčpes
+9	ինչպես	ինչպես	ADV	_	PronType=Rel	20	advmod	_	Translit=inčpes|LTranslit=inčpes
 10	2008-ի	2008	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing|NumForm=Digit	11	nmod:poss	_	Translit=2008-i|LTranslit=2008
 11	շարժման	շարժում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	14	nmod:poss	_	Translit=šaržman|LTranslit=šaržowm
 12	ազատական	ազատական	ADJ	_	Degree=Pos	14	amod	_	Translit=azatakan|LTranslit=azatakan
@@ -119,7 +121,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 32	եղանակով	եղանակ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	28	obl	_	Translit=eġanakov|LTranslit=eġanak|SpaceAfter=No
 33	,	,	PUNCT	_	_	46	punct	_	Translit=,|LTranslit=,
 34	ու	ու	CCONJ	_	_	46	cc	_	Translit=ow|LTranslit=ow
-35	հենց	հենց	ADV	_	_	37	advmod	_	Translit=henc’|LTranslit=henc’
+35	հենց	հենց	ADV	_	ExtPos=SCONJ	37	mark	_	Translit=henc’|LTranslit=henc’
 36	որ	որ	PART	_	_	35	fixed	_	Translit=or|LTranslit=or
 37	տեսան	տեսնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	46	advcl	_	Translit=tesan|LTranslit=tesnel
 38	Նիկոլի	Նիկոլ	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Giv|Number=Sing	39	obl:agent	_	Translit=Nikoli|LTranslit=Nikol
@@ -133,7 +135,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 46	հոսեցին	հոսել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	20	conj	_	Translit=hosec’in|LTranslit=hosel
 47	ստորգետնից	ստորգետին	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Coll	46	obl	_	Translit=storgetnic’|LTranslit=storgetin
 48	մակերես	մակերես	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	46	obl	_	Translit=makeres|LTranslit=makeres|SpaceAfter=No
-49	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+49	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

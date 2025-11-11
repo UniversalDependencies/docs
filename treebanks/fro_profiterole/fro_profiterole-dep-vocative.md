@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1212 nodes (1%) are attached to their parents as `vocative`.
+1213 nodes (1%) are attached to their parents as `vocative`.
 
 1045 instances of `vocative` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.71039603960396.
+Average distance between parent and child is 5.7040395713108.
 
-The following 22 pairs of parts of speech are connected with `vocative`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (837; 69% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (160; 13% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (65; 5% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (29; 2% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (25; 2% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (20; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (20; 2% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `vocative`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (838; 69% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (160; 13% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (65; 5% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (29; 2% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (25; 2% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (20; 2% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (20; 2% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,14 +23,14 @@ The following 22 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 4 vocative	color:blue
 1	«	_	PUNCT	PONpga	_	2	punct	_	XmlId=w_58_00128
-2	Oez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_58_00129
+2	Oez	_	VERB	VERcjg	_	0	root	_	SpaceAfter=No|XmlId=w_58_00129
 3	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_58_00130
 4	seignurs	_	NOUN	NOMcom	_	2	vocative	_	SpaceAfter=No|XmlId=w_58_00131
 5	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_58_00132
-6	quel	_	DET	DETint	PronType=Int	7	det	_	XmlId=w_58_00133
+6	quel	_	DET	DETint	_	7	det	_	XmlId=w_58_00133
 7	pecchet	_	NOUN	NOMcom	_	9	nsubj	_	XmlId=w_58_00134
-8	nus	_	PRON	PROper	PronType=Prs	9	obj	_	XmlId=w_58_00135
-9	encumbret	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	SpaceAfter=No|XmlId=w_58_00136
+8	nus	_	PRON	PROper	_	9	obj	_	XmlId=w_58_00135
+9	encumbret	_	VERB	VERcjg	_	2	ccomp	_	SpaceAfter=No|XmlId=w_58_00136
 10	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_00137
 
 ~~~
@@ -45,7 +45,7 @@ The following 22 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	«	_	PUNCT	PONpga	_	4	punct	_	XmlId=w_58_02853
 2	Guenes	_	PROPN	NOMpro	_	4	vocative	_	SpaceAfter=No|XmlId=w_58_02854
 3	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_58_02855
-4	venez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02856
+4	venez	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_02856
 5	avant	_	ADV	ADVgen	_	4	advmod	_	SpaceAfter=No|XmlId=w_58_02857
 6	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_58_02858
 
@@ -62,8 +62,8 @@ The following 22 pairs of parts of speech are connected with `vocative`: <tt><a 
 2	Rois	_	NOUN	NOMcom	_	6	vocative	_	SpaceAfter=No|XmlId=w_26_03749
 3	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_26_03750
 4	por	_	ADP	PRE	_	5	case	_	XmlId=w_26_03751
-5	li	_	DET	DETdef	Definite=Def|PronType=Art	6	obl	_	XmlId=w_26_03752
-6	vois	_	NOUN	NOMcom	Morph=VFin	0	root	_	SpaceAfter=No|XmlId=w_26_03753
+5	li	_	DET	DETdef	_	6	obl	_	XmlId=w_26_03752
+6	vois	_	NOUN	NOMcom	_	0	root	_	SpaceAfter=No|XmlId=w_26_03753
 7	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_26_03754
 8	»	_	PUNCT	PONpdr	_	6	punct	_	XmlId=w_26_03755
 

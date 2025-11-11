@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1103): <em>_</em>
+* `EMPTY` (1102): <em>_</em>
 
 ### `CCONJ`
 
@@ -51,5 +51,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (519): <em>_</em>
+* `EMPTY` (520): <em>_</em>
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-12947 tokens (29%) have a non-empty value of `Number`.
+12956 tokens (29%) have a non-empty value of `Number`.
 1406 types (26%) occur at least once with a non-empty value of `Number`.
-859 lemmas (20%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (6199; 14% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (3146; 7% instances), <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (1668; 4% instances), <tt><a href="wo_wtb-pos-AUX.html">AUX</a></tt> (1425; 3% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (449; 1% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (44; 0% instances), <tt><a href="wo_wtb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
+860 lemmas (20%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="wo_wtb-pos-PRON.html">PRON</a></tt> (6199; 14% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (3155; 7% instances), <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (1668; 4% instances), <tt><a href="wo_wtb-pos-AUX.html">AUX</a></tt> (1425; 3% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt> (449; 1% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (44; 0% instances), <tt><a href="wo_wtb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
 
 ### `PRON`
 
@@ -28,7 +28,6 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>mu</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>nu</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ma</em></td><td><em>nu</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>nga</em></td><td><em>ngeen, Yeen</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>mu, ma</em></td><td><em>ñu</em></td></tr>
@@ -40,15 +39,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-3146 <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+3155 <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2800; 89%), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2797; 89%), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2297; 73%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2809; 89%), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2806; 89%), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2306; 73%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (1054; 34% of non-empty `Number`): <em>yi, ay, i, ñi, yooyu, yépp, yii, yeneen, ya, seeni</em>
-* `Sing` (2092; 66% of non-empty `Number`): <em>bi, ag, gi, mi, ab, seen, wi, si, sunu, ba</em>
-* `EMPTY` (9): <em>Le, les</em>
+* `Plur` (1055; 33% of non-empty `Number`): <em>yi, ay, i, ñi, yooyu, yépp, yii, yeneen, ya, seeni</em>
+* `Sing` (2100; 67% of non-empty `Number`): <em>bi, ag, gi, mi, ab, seen, wi, si, sunu, ba</em>
 
 <table>
   <tr><th>Paradigm <i>bi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

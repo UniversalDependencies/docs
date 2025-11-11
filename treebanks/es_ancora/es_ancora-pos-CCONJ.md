@@ -64,12 +64,12 @@ The 2nd highest number of forms (1) was observed with the lemma “I”: <em>I</
 
 The 3rd highest number of forms (1) was observed with the lemma “O”: <em>O</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (4; 0% instances)
+`CCONJ` occurs with 2 features: <tt><a href="es_ancora-feat-ExtPos.html">ExtPos</a></tt> (186; 1% instances), <tt><a href="es_ancora-feat-Foreign.html">Foreign</a></tt> (4; 0% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+`CCONJ` occurs with 4 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Foreign=Yes`
 
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (15100 tokens).
+`CCONJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (14914 tokens).
 Examples: <em>y, pero, o, e, ni, sino, mientras, i, u, bien</em>
 
 

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ska</em> (<tt><a href="nmf_suansu-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.636364 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `NUM` is 1.636364 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (4) was observed with the lemma “phange”: <em>Phangema, phange, phangenahn, phangenahndi</em>.
 

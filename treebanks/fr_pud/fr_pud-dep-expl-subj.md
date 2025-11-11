@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: Relations: `expl:subj`
 
 This relation is a language-specific subtype of .
-There are also 1 other language-specific subtypes of `expl`: <tt><a href="fr_pud-dep-expl-comp.html">expl:comp</a></tt>.
+There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_pud-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_pud-dep-expl-pv.html">expl:pv</a></tt>.
 
 83 nodes (0%) are attached to their parents as `expl:subj`.
 
@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 10 9 expl:subj	color:blue
 1	Sinon	sinon	ADV	RB	_	10	discourse	_	SpaceAfter=No|wordform=sinon
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	ce	ce	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	ce	ce	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	tarif	tarif	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 5	normal	normal	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 6	ou	ou	CCONJ	CC	_	7	cc	_	_

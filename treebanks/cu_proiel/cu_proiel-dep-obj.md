@@ -22,11 +22,11 @@ The following 29 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obj	color:blue
-1	помѣнѫхъ	помѧнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=76.4
-2	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	ref=76.4
-3	і	и	CCONJ	C-	_	4	cc	_	ref=76.4
-4	възвеселихъ	възвеселити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=76.4
-5	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	ref=76.4
+1	помѣнѫхъ	помѧнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=76.4
+2	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obj	_	Ref=76.4
+3	і	и	CCONJ	C-	_	4	cc	_	Ref=76.4
+4	възвеселихъ	възвеселити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Ref=76.4
+5	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	Ref=76.4
 
 ~~~
 
@@ -49,10 +49,10 @@ The following 29 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obj	color:blue
-1	Прогнѣвашѩ	прогнѣвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.17
-2	вꙑшьнѣго	вꙑшьнь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	obj	_	ref=77.17
-3	въ	въ	ADP	R-	_	4	case	_	ref=77.17
-4	безводьнѣ	безводьна	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	ref=77.17
+1	Прогнѣвашѩ	прогнѣвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=77.17
+2	вꙑшьнѣго	вꙑшьнь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	obj	_	Ref=77.17
+3	въ	въ	ADP	R-	_	4	case	_	Ref=77.17
+4	безводьнѣ	безводьна	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	Ref=77.17
 
 ~~~
 

@@ -12,18 +12,18 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 3612 tokens (14%) have a non-empty value of `Tense`.
 1410 types (31%) occur at least once with a non-empty value of `Tense`.
 516 lemmas (19%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (2891; 11% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (721; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (2889; 11% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (723; 3% instances).
 
 ### `VERB`
 
-2891 <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Tense`.
+2889 <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="el_gud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2886; 100%), <tt><a href="el_gud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2884; 100%), <tt><a href="el_gud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2516; 87%), <tt><a href="el_gud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2328; 81%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2193; 76%), <tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt> (1741; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="el_gud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2884; 100%), <tt><a href="el_gud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2882; 100%), <tt><a href="el_gud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2514; 87%), <tt><a href="el_gud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2326; 81%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2191; 76%), <tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt> (1741; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (892; 31% of non-empty `Tense`): <em>είχε, είπε, έκανε, έγινε, ήρθε, είπα, έπρεπε, έκαναν, έλεγε, ήθελε</em>
-* `Pres` (1999; 69% of non-empty `Tense`): <em>λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει, έχουμε</em>
+* `Past` (891; 31% of non-empty `Tense`): <em>είχε, είπε, έκανε, έγινε, ήρθε, είπα, έπρεπε, έκαναν, έλεγε, ήθελε</em>
+* `Pres` (1998; 69% of non-empty `Tense`): <em>λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει, έχουμε</em>
 * `EMPTY` (960): <em>πω, κάνει, πει, κάνω, βρω, πάρει, έρθει, δώσει, κάνουμε, πεις</em>
 
 <table>
@@ -44,15 +44,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-721 <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
+723 <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="el_gud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (504; 70%), <tt><a href="el_gud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (500; 69%), <tt><a href="el_gud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (499; 69%), <tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt> (416; 58%), <tt><a href="el_gud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (404; 56%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (370; 51%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="el_gud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (506; 70%), <tt><a href="el_gud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (502; 69%), <tt><a href="el_gud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (499; 69%), <tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt> (416; 58%), <tt><a href="el_gud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (404; 56%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (372; 51%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (217; 30% of non-empty `Tense`): <em>θα, θ', Θ</em>
-* `Past` (130; 18% of non-empty `Tense`): <em>ήταν, είχε, είχαν, είχα, είχαμε, έχει, ήμουν, είχατε, είχες</em>
-* `Pres` (374; 52% of non-empty `Tense`): <em>είναι, έχει, είμαι, είμαστε, έχουν, έχω, είσαι, είστε, έχουμε, έχεις</em>
+* `Past` (131; 18% of non-empty `Tense`): <em>ήταν, είχε, είχαν, είχα, είχαμε, έχει, ήμουν, είχατε, είχες</em>
+* `Pres` (375; 52% of non-empty `Tense`): <em>είναι, έχει, είμαι, είμαστε, έχουν, έχω, είσαι, είστε, έχουμε, έχεις</em>
 * `EMPTY` (46): <em>να, ας, ν', έχει</em>
 
 <table>

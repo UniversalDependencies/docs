@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EDT: POS Tags: `X`
 
-There are 225 `X` lemmas (1%), 301 `X` types (0%) and 764 `X` tokens (0%).
+There are 225 `X` lemmas (1%), 302 `X` types (0%) and 765 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 9 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>_, al, et, of, in, ceteris, de, paribus, F, a</em>
@@ -55,9 +55,9 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="et_edt-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.337778 (the average of all parts of speech is 1.913238).
+The form / lemma ratio of `X` is 1.342222 (the average of all parts of speech is 1.914231).
 
-The 1st highest number of forms (76) was observed with the lemma “_”: <em>'is, -1,5, -2, -3-rasvhapete, -45,8, -5, -6,5, -9,9, -aastased, -aastaselt, -kilobaidine, /1995, 000, 000-100, 000-l, 000-naelasele, 000-objektise, 000kroonine, 000ni, 000st, 02, 04, 083*1012, 090, 100, 150, 17, 17.00, 2, 20, 203, 257, 357, 371, 400, 402, 44, 479, 496, 500, 50aastased, 522, 547, 60, 600, 690, 692, 700, 756, 780, 782, 800, 83, 890, 892, 90, 900, 914, 930, 950, 950-kroonise, 951, 981, 996, Angeles-klassi, Angeles-klassile, aastased, arhitektuurides, e, keelsessegi, kroonine, mehelises, o, rian, trulli, °C</em>.
+The 1st highest number of forms (77) was observed with the lemma “_”: <em>'is, -1,5, -2, -3-rasvhapete, -45,8, -5, -6,5, -9,9, -aastased, -aastaselt, -kilobaidine, /1995, 000, 000-100, 000-l, 000-naelasele, 000-objektise, 000kroonine, 000ni, 000st, 02, 04, 083*1012, 090, 100, 150, 17, 17.00, 2, 20, 203, 257, 357, 371, 400, 402, 44, 479, 496, 500, 50aastased, 522, 547, 60, 600, 690, 692, 700, 756, 780, 782, 800, 83, 890, 892, 90, 900, 914, 930, 950, 950-kroonise, 951, 981, 996, Angeles-klassi, Angeles-klassile, aastased, arhitektuurides, e, keelsessegi, kroonine, läbi, mehelises, o, rian, trulli, °C</em>.
 
 The 2nd highest number of forms (2) was observed with the lemma “al”: <em>al, al.</em>.
 
@@ -74,11 +74,11 @@ Examples: <em>al., et, ceteris, de, paribus, in, tõ, Helicobacter, Marsa, khorj
 
 ## Relations
 
-`X` nodes are attached to their parents using 17 different relations: <tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt> (271; 35% instances), <tt><a href="et_edt-dep-flat-foreign.html">flat:foreign</a></tt> (211; 28% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (135; 18% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (39; 5% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (22; 3% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (21; 3% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (18; 2% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (16; 2% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (8; 1% instances), <tt><a href="et_edt-dep-dep.html">dep</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 17 different relations: <tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt> (272; 36% instances), <tt><a href="et_edt-dep-flat-foreign.html">flat:foreign</a></tt> (211; 28% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (135; 18% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (39; 5% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (22; 3% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (21; 3% instances), <tt><a href="et_edt-dep-appos.html">appos</a></tt> (18; 2% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (16; 2% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (8; 1% instances), <tt><a href="et_edt-dep-dep.html">dep</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-nsubj-cop.html">nsubj:cop</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="et_edt-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (254; 33% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (239; 31% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (116; 15% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (76; 10% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (32; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (22; 3% instances),  (22; 3% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (254; 33% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (239; 31% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (116; 15% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (76; 10% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (32; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (22; 3% instances),  (22; 3% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-535 (70%) `X` nodes are leaves.
+536 (70%) `X` nodes are leaves.
 
 129 (17%) `X` nodes have one child.
 

@@ -44,7 +44,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	να	να	AUX	AUX	_	5	aux	_	_
 5	τεθεί	θέτω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	2	csubj	_	_
 6	σ	σε	ADP	ADP	_	9	case	_	_
-7	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
+7	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	ημερήσια	ημερήσιος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
 9	διάταξη	διάταξη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
 10	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_

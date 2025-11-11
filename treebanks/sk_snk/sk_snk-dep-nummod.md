@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	okien	okno	NOUN	SSnp2	Case=Gen|Gender=Neut|Number=Plur	6	nmod	6:nmod:z:gen	_
 3	mali	mať	VERB	VLepcm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
 4	60	60	NUM	0	NumForm=Digit	6	nummod	6:nummod	_
-5	°	°	X	#	_	4	nmod	4:nmod	_
+5	°	°	SYM	#	_	4	nmod	4:nmod	_
 6	výhľad	výhľad	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	3:obj	SpaceAfter=No
 7	.	.	PUNCT	Z	_	3	punct	3:punct	_
 

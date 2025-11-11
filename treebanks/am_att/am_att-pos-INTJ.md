@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  ስ (<tt><a href="am_att-pos-SCONJ.html">
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.029841).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.029860).
 
 The 1st highest number of forms (1) was observed with the lemma “ማ”: ማ.
 
@@ -75,7 +75,7 @@ Examples: ስ, ኣ, እንዴ, ምነው, ማ, ሳ, ወይ, እንደሆን, እ
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 2 different relations: <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (65; 98% instances), <tt><a href="am_att-dep-advmod.html">advmod</a></tt> (1; 2% instances)
+`INTJ` nodes are attached to their parents using 1 different relations: <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (66; 100% instances)
 
 Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (41; 62% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (14; 21% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (8; 12% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 2% instances)
 
@@ -89,7 +89,7 @@ Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="am_a
 
 The highest child degree of a `INTJ` node is 3.
 
-Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="am_att-dep-punct.html">punct</a></tt> (2; 25% instances), <tt><a href="am_att-dep-case.html">case</a></tt> (1; 13% instances), <tt><a href="am_att-dep-det.html">det</a></tt> (1; 13% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (1; 13% instances), <tt><a href="am_att-dep-fixed.html">fixed</a></tt> (1; 13% instances), <tt><a href="am_att-dep-goeswith.html">goeswith</a></tt> (1; 13% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (1; 13% instances)
+Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="am_att-dep-punct.html">punct</a></tt> (2; 25% instances), <tt><a href="am_att-dep-case.html">case</a></tt> (1; 13% instances), <tt><a href="am_att-dep-compound.html">compound</a></tt> (1; 13% instances), <tt><a href="am_att-dep-det.html">det</a></tt> (1; 13% instances), <tt><a href="am_att-dep-discourse.html">discourse</a></tt> (1; 13% instances), <tt><a href="am_att-dep-goeswith.html">goeswith</a></tt> (1; 13% instances), <tt><a href="am_att-dep-nmod.html">nmod</a></tt> (1; 13% instances)
 
 Children of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="am_att-pos-PUNCT.html">PUNCT</a></tt> (2; 25% instances), <tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 13% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="am_att-pos-X.html">X</a></tt> (1; 13% instances)
 

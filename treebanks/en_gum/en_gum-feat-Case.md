@@ -18,14 +18,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_gum-pos-PRON.htm
 
 15360 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15323; 100%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12248; 80%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11552; 75%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10178; 66%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15323; 100%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12249; 80%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11552; 75%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10178; 66%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2582; 17% of non-empty `Case`): <em>it, you, me, them, us, him, her, 's, itself, yourself</em>
-* `Gen` (3107; 20% of non-empty `Case`): <em>his, your, my, our, their, its, her, it's, he, it</em>
-* `Nom` (9671; 63% of non-empty `Case`): <em>i, you, it, we, they, he, she, him, me, them</em>
-* `EMPTY` (4620): <em>that, what, this, there, which, who, something, those, everything, anything</em>
+* `Acc` (2584; 17% of non-empty `Case`): <em>it, you, me, them, us, him, her, 's, itself, yourself</em>
+* `Gen` (3106; 20% of non-empty `Case`): <em>his, your, my, our, their, its, her, it's, he, it</em>
+* `Nom` (9670; 63% of non-empty `Case`): <em>i, you, it, we, they, he, she, him, me, them</em>
+* `EMPTY` (4621): <em>that, what, this, there, which, who, something, those, everything, anything</em>
 
 <table>
   <tr><th>Paradigm <i>I</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

@@ -26,7 +26,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	SQL	SQL	PROPN	SG-NOM	Number=Sing	4	compound	_	_
 3	Server	server	NOUN	SG-NOM	Number=Sing	2	flat	_	_
 4	database	database	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
-5	must	must	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+5	must	must	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	7	aux	_	_
 6	be	be	AUX	INF	VerbForm=Inf	7	aux	_	_
 7	running	run	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
 8	on	on	ADP	_	_	12	case	_	_
@@ -50,7 +50,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	Windows	Windows	PROPN	SG-NOM	Number=Sing	5	compound	_	_
 4	NT	NT	PROPN	SG-NOM	Number=Sing	3	flat	_	_
 5	user	user	NOUN	SG-NOM	Number=Sing	9	nsubj	_	_
-6	must	must	AUX	PRES-AUX	VerbForm=Fin	9	aux	_	_
+6	must	must	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	9	aux	_	_
 7	be	be	AUX	INF	VerbForm=Inf	9	cop	_	_
 8	an	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
 9	Administrator	administrator	NOUN	SG-NOM	Number=Sing	0	root	_	_

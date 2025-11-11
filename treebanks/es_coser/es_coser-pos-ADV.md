@@ -61,13 +61,13 @@ The 2nd highest number of forms (2) was observed with the lemma “ahí”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “arriba”: <em>arriba, rriba</em>.
 
-`ADV` occurs with 3 features: <tt><a href="es_coser-feat-Polarity.html">Polarity</a></tt> (166; 24% instances), <tt><a href="es_coser-feat-Degree.html">Degree</a></tt> (40; 6% instances), <tt><a href="es_coser-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`ADV` occurs with 4 features: <tt><a href="es_coser-feat-Polarity.html">Polarity</a></tt> (166; 24% instances), <tt><a href="es_coser-feat-Degree.html">Degree</a></tt> (40; 6% instances), <tt><a href="es_coser-feat-ExtPos.html">ExtPos</a></tt> (13; 2% instances), <tt><a href="es_coser-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`ADV` occurs with 3 feature-value pairs: `Degree=Cmp`, `Polarity=Neg`, `PronType=Int`
+`ADV` occurs with 6 feature-value pairs: `Degree=Cmp`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Int`
 
-`ADV` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (494 tokens).
-Examples: <em>ya, aquí, ahora, ahí, así, entonces, luego, muy, antes, bien</em>
+`ADV` occurs with 8 feature combinations.
+The most frequent feature combination is `_` (482 tokens).
+Examples: <em>ya, aquí, ahora, ahí, entonces, luego, muy, así, antes, bien</em>
 
 
 ## Relations

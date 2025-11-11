@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="nmf_suansu-pos-DET.
 
 ### `DET`
 
-122 <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> tokens (90% of all `DET` tokens) have a non-empty value of `Deixis`.
+122 <tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> tokens (91% of all `DET` tokens) have a non-empty value of `Deixis`.
 
 The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (122; 100%).
 

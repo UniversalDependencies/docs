@@ -22,12 +22,12 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Ο	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	Ζαχαράκης	Ζαχαράκης	PROPN	NoPr	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	το	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-4	σκέφτεται	σκέφτομαι	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-5	λίγο	λίγο	ADV	AdBa	_	4	advmod	_	SpaceAfter=No
-6	.	.	PUNCT	PTERMP	_	4	punct	_	PunctType=Peri
+1	Ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Ζαχαράκης	Ζαχαράκης	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	σκέφτεται	σκέφτομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	λίγο	λίγο	ADV	_	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	PunctType=Peri
 
 ~~~
 
@@ -38,11 +38,11 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Αλλά	αλλά	CCONJ	CjCo	_	4	cc	_	_
-2	για	για	ADP	AsPpSp	_	4	case	_	_
-3	τη	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	δουλειά	δουλειά	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
-5	;	;	PUNCT	PTERM	_	4	punct	_	PunctType=Qest
+1	Αλλά	αλλά	CCONJ	_	_	4	cc	_	_
+2	για	για	ADP	_	_	4	case	_	_
+3	τη	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	δουλειά	δουλειά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+5	;	;	PUNCT	_	_	4	punct	_	PunctType=Qest
 
 ~~~
 
@@ -53,18 +53,18 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Είναι	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
-2	προφανές	προφανής	ADJ	AjBa	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-3	ότι	ότι	SCONJ	CjSb	_	6	mark	_	_
-4	το	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
-5	βίντεο	βίντεο	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-6	προέρχεται	προέρχομαι	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	csubj	_	_
-7	από	από	ADP	AsPpSp	_	9	case	_	_
-8	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
-9	κινητό	κινητό	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
-10	του	ο	DET	AtDf	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	Σωτηρόπουλου	Σωτηρόπουλος	PROPN	NoPr	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
+1	Είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
+2	προφανές	προφανής	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	ότι	ότι	SCONJ	_	_	6	mark	_	_
+4	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	βίντεο	βίντεο	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	προέρχεται	προέρχομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	csubj	_	_
+7	από	από	ADP	_	_	9	case	_	_
+8	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	κινητό	κινητό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+10	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Σωτηρόπουλου	Σωτηρόπουλος	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	PunctType=Peri
 
 ~~~
 

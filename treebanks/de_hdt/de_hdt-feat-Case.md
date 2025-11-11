@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
-1120237 tokens (32%) have a non-empty value of `Case`.
+1120239 tokens (32%) have a non-empty value of `Case`.
 35564 types (19%) occur at least once with a non-empty value of `Case`.
-27326 lemmas (19%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (489411; 14% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (345545; 10% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (93577; 3% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (78735; 2% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (61547; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (50239; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1074; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (61; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (48; 0% instances).
+27266 lemmas (19%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (489413; 14% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (345545; 10% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (93577; 3% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (78735; 2% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (61547; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (50239; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1074; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (61; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (48; 0% instances).
 
 ### `DET`
 
-489411 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
+489413 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (428867; 88%), <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (419510; 86%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (393605; 80%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (359940; 74%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (428869; 88%), <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (419512; 86%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (393607; 80%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (359942; 74%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Acc` (129758; 27% of non-empty `Case`): <em>die, den, das, eine, einen, ein, ihre, seine, keine, diese</em>
 * `Dat` (152320; 31% of non-empty `Case`): <em>dem, der, den, einem, einer, diesem, allem, anderem, seiner, anderen</em>
-* `Gen` (71957; 15% of non-empty `Case`): <em>der, des, eines, einer, dieser, seiner, dieses, aller, ihrer, seines</em>
-* `Nom` (135376; 28% of non-empty `Case`): <em>die, der, das, ein, eine, diese, dies, alle, viele, keine</em>
-* `EMPTY` (4956): <em>andere, mehr, anderen, viel, all, keinerlei, einig, wenig, meisten, anderes</em>
+* `Gen` (71958; 15% of non-empty `Case`): <em>der, des, eines, einer, dieser, seiner, dieses, aller, ihrer, seines</em>
+* `Nom` (135377; 28% of non-empty `Case`): <em>die, der, das, ein, eine, diese, dies, alle, viele, keine</em>
+* `EMPTY` (4954): <em>andere, mehr, anderen, viel, all, keinerlei, einig, wenig, meisten, anderes</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -66,10 +66,10 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (25216; 27% of non-empty `Case`): <em>sich, die, das, sie, es, den, was, ihn, uns, mich</em>
+* `Acc` (25215; 27% of non-empty `Case`): <em>sich, die, das, sie, es, den, was, ihn, uns, mich</em>
 * `Dat` (8854; 9% of non-empty `Case`): <em>sich, dem, denen, der, ihm, ihnen, uns, mir, ihr, wem</em>
 * `Gen` (1624; 2% of non-empty `Case`): <em>deren, dessen, derer, der, jedermanns</em>
-* `Nom` (57883; 62% of non-empty `Case`): <em>es, die, man, sie, er, das, der, wir, was, wer</em>
+* `Nom` (57884; 62% of non-empty `Case`): <em>es, die, man, sie, er, das, der, wir, was, wer</em>
 * `EMPTY` (1270): <em>nichts, etwas, sich, nix, irgendetwas, irgendjemand, was, irgendwas, E-irgendwas, einander</em>
 
 <table>
@@ -88,15 +88,15 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 78735 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (11% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43268; 55%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43267; 55%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (7013; 9% of non-empty `Case`): <em>Internet, Mark, Server, Ende, US-Dollar, Markt, Kunden, Version, Zugang, Anfang</em>
+* `Acc` (7015; 9% of non-empty `Case`): <em>Internet, Mark, Server, Ende, US-Dollar, Markt, Kunden, Version, Zugang, Anfang</em>
 * `Dat` (38585; 49% of non-empty `Case`): <em>Jahren, Monaten, Tagen, Ländern, Mitarbeitern, Kunden, Geräten, Computern, Bereichen, Internet</em>
-* `Gen` (24378; 31% of non-empty `Case`): <em>Jahres, Unternehmens, Konzerns, Geschäftsjahres, Systems, Herstellers, Vorjahres, Marktes, Netzes, Quartals</em>
-* `Nom` (8759; 11% of non-empty `Case`): <em>Internet, Name, Vorsitzende, Vorsitzender, Riese, Vorstandsvorsitzender, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</em>
-* `EMPTY` (650366): <em>Prozent, Millionen, Internet, Unternehmen, Mark, US-Dollar, Milliarden, Jahr, Firma, Euro</em>
+* `Gen` (24377; 31% of non-empty `Case`): <em>Jahres, Unternehmens, Konzerns, Geschäftsjahres, Systems, Herstellers, Vorjahres, Marktes, Netzes, Quartals</em>
+* `Nom` (8758; 11% of non-empty `Case`): <em>Internet, Name, Vorsitzende, Vorsitzender, Riese, Vorstandsvorsitzender, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</em>
+* `EMPTY` (650365): <em>Prozent, Millionen, Internet, Unternehmen, Mark, US-Dollar, Milliarden, Jahr, Firma, Euro</em>
 
 <table>
   <tr><th>Paradigm <i>Jahr</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -233,7 +233,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>DET --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (357; 58%),
 <tt>ADP --[<tt><a href="de_hdt-dep-fixed.html">fixed</a></tt>]--> DET</tt> (57; 95%),
 <tt>DET --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> DET</tt> (47; 55%),
-<tt>PRON --[<tt><a href="de_hdt-dep-appos.html">appos</a></tt>]--> DET</tt> (45; 92%),
+<tt>PRON --[<tt><a href="de_hdt-dep-appos.html">appos</a></tt>]--> DET</tt> (45; 90%),
 <tt>PRON --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> PRON</tt> (43; 93%),
 <tt>PRON --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (31; 79%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-amod.html">amod</a></tt>]--> NOUN</tt> (22; 65%).

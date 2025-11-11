@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (106; 100% of non-empty `Animacy`): <em>ooumaž, nijdd, ääkka, eččad, niõđ, kaavân, kåʹddpäärnaž, päʹrnn, ääkkaž, jeäʹnn</em>
-* `EMPTY` (305): <em>tueʹllj, mieʹccest, heävaš, stäʹlmmstääll, vuâra, niõđâž, Peʹll, bieʹss, källsaž, muõrid</em>
+* `EMPTY` (303): <em>tueʹllj, mieʹccest, heävaš, stäʹlmmstääll, vuâra, niõđâž, Peʹll, bieʹss, källsaž, muõrid</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (18) occur only with one value of `Animacy`.
 

@@ -56,14 +56,14 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 11	fgColor:white
 # visual-style 11 7 mark	color:blue
 1	In	in	ADP	IN	_	3	case	_	_
-2	un	uno	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+2	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	episodio	episodio	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	si	si	PRON	SE	Number=Sing|Person=3	6	expl	_	_
 6	rivela	rivelare	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 7	che	che	SCONJ	IN	_	11	mark	_	_
 8	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	11	cop	_	_
-9	un	uno	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+9	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 10	abile	abile	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
 11	chitarrista	chitarrista	NOUN	NN	Gender=Masc|Number=Sing	6	ccomp	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	6	punct	_	_

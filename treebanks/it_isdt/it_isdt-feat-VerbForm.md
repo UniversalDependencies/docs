@@ -18,14 +18,14 @@ The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.ht
 
 25248 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17113; 68%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14735; 58%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14734; 58%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13540; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17113; 68%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14735; 58%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14732; 58%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13540; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (10517; 42% of non-empty `VerbForm`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</em>
+* `Fin` (10516; 42% of non-empty `VerbForm`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</em>
 * `Ger` (699; 3% of non-empty `VerbForm`): <em>considerando, facendo, portando, cercando, lasciando, seguendo, tenendo, dando, parlando, passando</em>
 * `Inf` (5670; 22% of non-empty `VerbForm`): <em>fare, far, vedere, avere, dire, dare, pagare, andare, chiedere, usare</em>
-* `Part` (8362; 33% of non-empty `VerbForm`): <em>fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</em>
+* `Part` (8363; 33% of non-empty `VerbForm`): <em>fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</em>
 * `EMPTY` (1): <em>andate</em>
 
 <table>
@@ -122,12 +122,12 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): <em>partiti, previsto</em>
-* `EMPTY` (59475): <em>anni, presidente, parte, anno, fondo, diritto, persone, legge, città, stato</em>
+* `EMPTY` (59476): <em>anni, presidente, parte, anno, fondo, diritto, persone, legge, città, stato</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1887; 80%),
+<tt>VERB --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1886; 80%),
 <tt>VERB --[<tt><a href="it_isdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (134; 56%),
 <tt>AUX --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),

@@ -150,7 +150,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 612 <tt><a href="grc_ptnk-pos-VERB.html">VERB</a></tt> tokens (11% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (612; 100%), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (611; 100%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (487; 80%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (453; 74%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (407; 67%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (314; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (612; 100%), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (487; 80%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (453; 74%), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (407; 67%), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (314; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -228,7 +228,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (3736; 97%),
 <tt>PROPN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (490; 95%),
 <tt>NOUN --[<tt><a href="grc_ptnk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (374; 83%),
-<tt>NOUN --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (359; 84%),
+<tt>NOUN --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (362; 85%),
 <tt>PROPN --[<tt><a href="grc_ptnk-dep-appos.html">appos</a></tt>]--> NOUN</tt> (267; 90%),
 <tt>ADJ --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (215; 88%),
 <tt>NOUN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> PRON</tt> (147; 97%),

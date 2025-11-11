@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 Some words have combined values of the feature; 1 combinations have been observed: `Fem|Masc`.
 
-27741 tokens (41%) have a non-empty value of `Gender`.
+27740 tokens (41%) have a non-empty value of `Gender`.
 5941 types (79%) occur at least once with a non-empty value of `Gender`.
 3529 lemmas (76%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (12993; 19% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (5548; 8% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt> (4879; 7% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (3090; 5% instances), <tt><a href="he_iahltknesset-pos-AUX.html">AUX</a></tt> (648; 1% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (439; 1% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (107; 0% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt> (18; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (12992; 19% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (5548; 8% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt> (4879; 7% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (3090; 5% instances), <tt><a href="he_iahltknesset-pos-AUX.html">AUX</a></tt> (648; 1% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (439; 1% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (107; 0% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt> (18; 0% instances).
 
 ### `NOUN`
 
-12993 <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+12992 <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="he_iahltknesset-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (10285; 79%), <tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9629; 74%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="he_iahltknesset-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (10284; 79%), <tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9628; 74%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (4969; 38% of non-empty `Gender`): ממשלה, מדינה, וועדה, מדינת, שנים, שנה, ידי, דרך, בעיה, פעם
 * `Fem,Masc` (14; 0% of non-empty `Gender`): פני, אוכלוסייה, אנוש, טבע, ישע, סופ, עצם, פנים, ציפורי
-* `Masc` (8010; 62% of non-empty `Gender`): ראש, חוק, דבר, יושב, חברי, שר, חבר, נושא, אדונ, דברים
+* `Masc` (8009; 62% of non-empty `Gender`): ראש, חוק, דבר, יושב, חברי, שר, חבר, נושא, אדונ, דברים
 
 <table>
   <tr><th>Paradigm <i>פנים</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>פני, פנים</td><td>פנים, פני</td><td>פני</td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (2051) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (2052) occur only with one value of `Gender`.
 
 ### `PRON`
 
@@ -69,8 +69,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>הוא, ו, יו</td><td>היא, ה</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>אנחנו, נו</td><td>אנחנו, נו, אנו</td><td>נו, אנחנו</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td>אתם, כם</td><td></td></tr>
-  <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>הם, ם, המה, נו</td><td>הן, ן</td></tr>
-  <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>ה</td></tr>
+  <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>הם, ם, המה, נו</td><td>הן, ן, ה</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td>ך</td><td></td></tr>
 </table>
 
@@ -240,7 +239,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="he_iahltknesset-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2179; 100%),
+<tt>NOUN --[<tt><a href="he_iahltknesset-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2180; 100%),
 <tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1425; 83%),
 <tt>NOUN --[<tt><a href="he_iahltknesset-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1070; 52%),
 <tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (887; 62%),

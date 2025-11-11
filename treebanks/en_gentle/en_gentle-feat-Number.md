@@ -105,8 +105,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 're, ’re</em></td><td><em>'re, are</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>art</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td><em>were, was</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gentle-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>s</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's</em></td><td><em>are, 're, Were, is</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's, s</em></td><td><em>are, 're, Were, is</em></td></tr>
 </table>
 
 ### `DET`
@@ -130,15 +129,17 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 7 <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> tokens (4% of all `SYM` tokens) have a non-empty value of `Number`.
 
+The most frequent other feature values with which `SYM` and `Number` co-occurred: <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (7; 100%).
+
 `SYM` tokens may have the following values of `Number`:
 
 * `Sing` (7; 100% of non-empty `Number`): <em>%</em>
-* `EMPTY` (161): <em>⪯, ∈, =, -, ⋅, /, +, $, ≤, ></em>
+* `EMPTY` (162): <em>⪯, ∈, =, -, ⋅, /, +, $, ≤, ></em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> NOUN</tt> (309; 89%),
+<tt>NOUN --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> NOUN</tt> (310; 89%),
 <tt>NOUN --[<tt><a href="en_gentle-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (305; 73%),
 <tt>NOUN --[<tt><a href="en_gentle-dep-compound.html">compound</a></tt>]--> NOUN</tt> (275; 71%),
 <tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (235; 52%),

@@ -8,12 +8,39 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `orphan`.
+5 nodes (0%) are attached to their parents as `orphan`.
 
-4 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+5 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.8.
 
-The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 25% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (2; 40% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 orphan	color:blue
+1	Pucinskaite	Pucinskaite	PROPN	_	_	3	nsubj	_	_
+2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
+3	adjudica	adjudicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	también	también	ADV	_	_	3	advmod	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	clasificación	clasificación	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	montaña	montaña	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+10	y	y	CCONJ	_	_	11	cc	_	_
+11	Ljungskog	Ljungskog	PROPN	_	_	3	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	orphan	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	puntos	punto	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -121,57 +148,6 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 44	mil	mil	NUM	_	NumForm=Word|NumType=Card	45	nummod	_	_
 45	millones	millón	NOUN	_	Gender=Masc|Number=Plur	42	nummod	_	SpaceAfter=No
 46	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 36	bgColor:blue
-# visual-style 36	fgColor:white
-# visual-style 33	bgColor:blue
-# visual-style 33	fgColor:white
-# visual-style 33 36 orphan	color:blue
-1	En	en	ADP	_	_	3	case	_	_
-2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	práctica	práctica	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
-4	de	de	ADP	_	_	5	case	_	_
-5	artes	arte	NOUN	_	Number=Plur	3	nmod	_	_
-6	marciales	marcial	ADJ	_	Number=Plur	5	amod	_	SpaceAfter=No
-7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-8	cuando	cuando	SCONJ	_	_	11	mark	_	_
-9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-10	practicantes	practicante	NOUN	_	Number=Plur	11	nsubj	_	_
-11	trabajan	trabajar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
-12	por	por	ADP	_	_	13	case	_	_
-13	parejas	pareja	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
-14	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-15	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
-16	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-17	nage	nage	PROPN	_	Gender=Masc|Number=Sing	16	xcomp	_	SpaceAfter=No
-18	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-19	o	o	CCONJ	_	_	22	cc	_	_
-20	en	en	ADP	_	_	22	case	_	_
-21	algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	22	det	_	_
-22	disciplinas	disciplina	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	_
-23	tori	tori	PROPN	_	_	22	conj	_	SpaceAfter=No
-24	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-25	a	a	ADP	_	_	26	case	_	_
-26	aquel	aquel	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	16	obl:arg	_	_
-27	que	que	SCONJ	_	_	28	mark	_	_
-28	aplica	aplicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	_
-29	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
-30	técnica	técnica	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	_
-31	determinada	determinado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	30	amod	_	_
-32	y	y	CCONJ	_	_	33	cc	_	_
-33	uke	uke	PROPN	_	_	16	conj	_	SpaceAfter=No
-34	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
-35	a	a	ADP	_	_	36	case	_	_
-36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	orphan	_	_
-37	que	que	PRON	_	PronType=Rel	38	nsubj	_	_
-38	recibe	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	acl:relcl	_	_
-39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
-40	técnica	técnica	NOUN	_	Gender=Fem|Number=Sing	38	obj	_	SpaceAfter=No
-41	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
 
 ~~~
 

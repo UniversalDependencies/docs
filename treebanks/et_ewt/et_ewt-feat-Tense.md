@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-VERB.htm
 
 7930 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7178; 91%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7020; 89%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (6824; 86%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6224; 78%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4161; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7176; 90%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7020; 89%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (6824; 86%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6224; 78%), <tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4161; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -106,13 +106,13 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 825 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (825; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (817; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (520; 63%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (825; 100%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (817; 99%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (506; 61%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (347; 42% of non-empty `Tense`): <em>antud, teatud, ülejäänud, kasutatud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud</em>
 * `Pres` (478; 58% of non-empty `Tense`): <em>huvitav, erinevaid, erinevate, erinevad, erinevatel, erinevatest, huvitavad, leviv, mõeldav, olevast</em>
-* `EMPTY` (4432): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
+* `EMPTY` (4433): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (451) occur only with one value of `Tense`.
 

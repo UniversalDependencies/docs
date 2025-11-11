@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Rhapsodie: POS Tags: `SCONJ`
 
-There are 9 `SCONJ` lemmas (0%), 13 `SCONJ` types (0%) and 801 `SCONJ` tokens (2%).
+There are 8 `SCONJ` lemmas (0%), 12 `SCONJ` types (0%) and 800 `SCONJ` tokens (2%).
 Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 13 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>que, quand, si, comme, puisque, lorsque, parce, pa~, quoique</em>
+The 10 most frequent `SCONJ` lemmas: <em>que, quand, si, comme, puisque, lorsque, parce, quoique</em>
 
 The 10 most frequent `SCONJ` types:  <em>que, qu', quand, si, comme, puisque, s', lorsqu', lorsque, puisqu'</em>
 
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_rhapsodie-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.444444 (the average of all parts of speech is 1.355420).
+The form / lemma ratio of `SCONJ` is 1.500000 (the average of all parts of speech is 1.357880).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 
@@ -53,24 +53,24 @@ The 2nd highest number of forms (2) was observed with the lemma “puisque”: <
 
 The 3rd highest number of forms (2) was observed with the lemma “que”: <em>qu', que</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt> (44; 5% instances), <tt><a href="fr_rhapsodie-feat-Polarity.html">Polarity</a></tt> (4; 0% instances)
+`SCONJ` occurs with 2 features: <tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt> (44; 6% instances), <tt><a href="fr_rhapsodie-feat-Polarity.html">Polarity</a></tt> (4; 1% instances)
 
 `SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Polarity=Neg`
 
 `SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (753 tokens).
+The most frequent feature combination is `_` (752 tokens).
 Examples: <em>que, qu', si, quand, comme, puisque, s', lorsqu', lorsque, puisqu'</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="fr_rhapsodie-dep-mark.html">mark</a></tt> (574; 72% instances), <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (117; 15% instances), <tt><a href="fr_rhapsodie-dep-advmod.html">advmod</a></tt> (40; 5% instances), <tt><a href="fr_rhapsodie-dep-case.html">case</a></tt> (23; 3% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (10; 1% instances), <tt><a href="fr_rhapsodie-dep-dep-comp.html">dep:comp</a></tt> (9; 1% instances), <tt><a href="fr_rhapsodie-dep-root.html">root</a></tt> (5; 1% instances), <tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="fr_rhapsodie-dep-mark.html">mark</a></tt> (574; 72% instances), <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (117; 15% instances), <tt><a href="fr_rhapsodie-dep-advmod.html">advmod</a></tt> (40; 5% instances), <tt><a href="fr_rhapsodie-dep-case.html">case</a></tt> (23; 3% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-dep-dep-comp.html">dep:comp</a></tt> (9; 1% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (9; 1% instances), <tt><a href="fr_rhapsodie-dep-root.html">root</a></tt> (5; 1% instances), <tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (497; 62% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (103; 13% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (70; 9% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (61; 8% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (30; 4% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (5; 1% instances),  (5; 1% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (495; 62% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (103; 13% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (71; 9% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (61; 8% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (30; 4% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (5; 1% instances),  (5; 1% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 729 (91%) `SCONJ` nodes are leaves.
 
-43 (5%) `SCONJ` nodes have one child.
+42 (5%) `SCONJ` nodes have one child.
 
 19 (2%) `SCONJ` nodes have two children.
 
@@ -78,7 +78,7 @@ Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="fr
 
 The highest child degree of a `SCONJ` node is 6.
 
-Children of `SCONJ` nodes are attached using 14 different relations: <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (44; 38% instances), <tt><a href="fr_rhapsodie-dep-punct.html">punct</a></tt> (27; 23% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (14; 12% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (7; 6% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (6; 5% instances), <tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt> (4; 3% instances), <tt><a href="fr_rhapsodie-dep-advmod.html">advmod</a></tt> (3; 3% instances), <tt><a href="fr_rhapsodie-dep-acl-relcl.html">acl:relcl</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-ccomp.html">ccomp</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-dep-comp.html">dep:comp</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 14 different relations: <tt><a href="fr_rhapsodie-dep-fixed.html">fixed</a></tt> (44; 38% instances), <tt><a href="fr_rhapsodie-dep-punct.html">punct</a></tt> (26; 22% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (14; 12% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (7; 6% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (6; 5% instances), <tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt> (4; 3% instances), <tt><a href="fr_rhapsodie-dep-advmod.html">advmod</a></tt> (3; 3% instances), <tt><a href="fr_rhapsodie-dep-acl-relcl.html">acl:relcl</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-ccomp.html">ccomp</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-dep-comp.html">dep:comp</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (50; 43% instances), <tt><a href="fr_rhapsodie-pos-PUNCT.html">PUNCT</a></tt> (27; 23% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (11; 9% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (8; 7% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (6; 5% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (50; 43% instances), <tt><a href="fr_rhapsodie-pos-PUNCT.html">PUNCT</a></tt> (26; 22% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (11; 9% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (8; 7% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (6; 5% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (1; 1% instances)
 

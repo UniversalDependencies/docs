@@ -36,7 +36,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 12	bhith	bi	NOUN	Nv	VerbForm=Inf	3	xcomp	_	_
 13	roinnte	roinn	ADJ	Av	_	12	xcomp:pred	_	_
 14	na	an	DET	Tdpf	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
-15	dualchainntean	dualchainnt	NOUN	Ncpfd	Case=Dat|Gender=Fem|Number=Plur	13	obl	_	_
+15	dualchainntean	dualchainn	NOUN	Ncpfd	Case=Dat|Gender=Fem|Number=Plur	13	obl	_	_
 16	o	bho	ADP	Sp	_	17	case	_	_
 17	sgìr	sgìr	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
 18	gu	gu	ADP	Sp	_	19	case	_	_

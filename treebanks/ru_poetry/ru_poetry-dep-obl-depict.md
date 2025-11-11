@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_poetry-dep-obl.html">obl</a></tt>.
 There are also 4 other language-specific subtypes of `obl`: <tt><a href="ru_poetry-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="ru_poetry-dep-obl-float.html">obl:float</a></tt>, <tt><a href="ru_poetry-dep-obl-pronmod.html">obl:pronmod</a></tt>, <tt><a href="ru_poetry-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-21 nodes (0%) are attached to their parents as `obl:depict`.
+23 nodes (0%) are attached to their parents as `obl:depict`.
 
-12 instances of `obl:depict` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.66666666666667.
+13 instances of `obl:depict` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.39130434782609.
 
-The following 5 pairs of parts of speech are connected with `obl:depict`: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (12; 57% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (4; 19% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `obl:depict`: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (13; 57% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (4; 17% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (4; 17% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -29,6 +29,23 @@ The following 5 pairs of parts of speech are connected with `obl:depict`: <tt><a
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	весенней	весенний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	before=<rhyme-zone/>|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	</se><br/>
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 obl:depict	color:blue
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	obl:float	_	before=<se><line_meter="Х5ж"/>
+2	в	в	ADP	_	_	3	case	_	_
+3	свету	свет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl:depict	_	_
+4	проходят	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	тучи	туча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+6	мимо	мимо	ADV	_	Degree=Pos	4	advmod	_	before=<rhyme-zone/>|SpaceAfter=No
+7	...	...	PUNCT	_	_	4	punct	_	</se><br/>
 
 ~~~
 
@@ -56,36 +73,6 @@ The following 5 pairs of parts of speech are connected with `obl:depict`: <tt><a
 15	железные	железный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	16	amod	_	_
 16	цветы	цветок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	obj	_	before=<rhyme-zone/>|SpaceAfter=No
 17	.	.	PUNCT	_	_	1	punct	_	</se></p><p_class="date"><noindex>&lt;1917&gt;</noindex></p>
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 15 obl:depict	color:blue
-1	А	а	CCONJ	_	_	3	cc	_	before=<se><line_meter="Я6м"/>
-2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	18	punct	_	_
-5	когда	когда	SCONJ	_	_	18	mark	_	_
-6	по	по	ADP	_	_	7	case	_	_
-7	комнате	комната	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
-10	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	vocative	_	before=<rhyme-zone/>|SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	<br/>
-12	Смеясь	смеяться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	18	advcl	_	before=<line_meter="Я6м"/>|SpaceAfter=No
-13	,	,	PUNCT	_	_	15	punct	_	_
-14	балдой	балда	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	15	nmod	_	_
-15	балда	балда	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	18	obl:depict	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	15	punct	_	_
-17	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	_
-18	закружишься	закружиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	3	ccomp	_	_
-19	вдруг	вдруг	ADV	_	Degree=Pos	18	advmod	_	before=<rhyme-zone/>|SpaceAfter=No
-20	.	.	PUNCT	_	_	3	punct	_	</se><br/>
 
 ~~~
 

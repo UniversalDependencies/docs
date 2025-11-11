@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-694 nodes (4%) are attached to their parents as `obj`.
+4246 nodes (4%) are attached to their parents as `obj`.
 
-669 instances of `obj` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.38760806916427.
+4092 instances of `obj` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.58455016486105.
 
-The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (597; 86% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (47; 7% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (12; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `obj`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (3569; 84% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (216; 5% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (202; 5% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (99; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (65; 2% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (25; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,26 +40,18 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 9 obj	color:blue
-1	ٻين	ٻيو	ADJ	JJO	Case=Acc|Gender=Masc|Number=Plur	2	amod	_	_
-2	گدڙن	گدڙ	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
-3	وٽ	وٽ	ADP	PSP	_	2	case	_	_
-4	آيو	آءَ	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-5	۽	۽	CCONJ	CC	_	14	cc	_	_
-6	ساڻن	ساڻو	ADP	PSPX	Case=Acc|Number=Plur|Person=3	8	obl	_	_
-7	صلاح	صلاح	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	8	obl	_	_
-8	ڪري	ڪر	VERB	VM	Aspect=Perf|VerbForm=Conv	14	advcl	_	_
-9	پاڻ	پاڻ	PRON	PRP	Case=Acc	14	obj	_	_
-10	کي	کي	ADP	PSP	_	9	case	_	_
-11	سلطان	سلطان	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	_
-12	جو	جو	ADP	PSPG	Case=Nom|Gender=Masc|Number=Sing	11	case	_	_
-13	لقب	لقب	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	obj	_	_
-14	ڏيئي	ڏيئي	VERB	VM	Aspect=Perf|Number=Sing|VerbForm=Conv	4	conj	_	_
-15	،	،	PUNCT	PUNCT	_	14	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 obj	color:blue
+1	تن	تون	PRON	PRP	Case=Acc|Number=Plur|Person=3	6	obj	_	_
+2	کي	کي	ADP	PSP	_	1	case	_	_
+3	به	به	PART	PART	_	1	advmod:emph	_	_
+4	اچي	اچ	VERB	VM	Aspect=Perf|VerbForm=Conv	6	advcl	_	_
+5	اُڃ	اُڃ	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	تپايو	تپايو	VERB	VM	Aspect=Perf|Number=Sing	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 
@@ -70,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 obj	color:blue
-1	اهي	اهي	DET	PRD	Case=Nom|Number=Plur	4	obj	_	_
+1	اهي	اهو	DET	PRD	Case=Nom|Number=Plur|PronType=Dem	4	obj	_	_
 2	جي	جي	SCONJ	CS	_	4	mark	_	_
 3	عزرائيل	عزرائيل	PROPN	NNP	Case=Nom|Gender=Masc	4	nsubj	_	_
 4	ڏٺيون	ڏٺو	VERB	VM	Aspect=Perf|Gender=Masc|Number=Plur	8	advcl	_	_

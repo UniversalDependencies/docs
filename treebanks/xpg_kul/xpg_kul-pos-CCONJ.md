@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 4.800000 (the average of all parts of speech is 2.939024).
+The form / lemma ratio of `CCONJ` is 4.800000 (the average of all parts of speech is 2.934959).
 
 The 1st highest number of forms (10) was observed with the lemma “ke”: <em>[κ]ε, [κε, κ', κ]ε, κ̣ε, κε, κε], κε̣, κη, κ’</em>.
 

@@ -65,16 +65,16 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 11	in	in	ADP	IN	_	12	case	12:case	_
 12	prison	prison	NOUN	NN	Number=Sing	10	obl	10:obl:in	Entity=(6-place-giv:act-sssss-cf7-1-coref-Prison)
 13	for	for	ADP	IN	_	16	case	16:case	_
-14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(13-abstract-new-nnnnn-cf18-3-sgl
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(13-abstract-new-nnnnn-cf17-3-sgl
 15	store	store	NOUN	NN	Number=Sing	16	compound	16:compound	Entity=(14-place-new-nnnnn-cf22-1-sgl)
 16	holdup	holdup	NOUN	NN	Number=Sing	10	obl	10:obl:for	_
 17	on	on	ADP	IN	_	18	case	18:case	_
-18	blacks	black	NOUN	NNS	Number=Plur	16	nmod	16:nmod:on	Entity=(15-person-new-nnnnn-cf16-1-sgl)13)|MSeg=black-s
+18	blacks	black	NOUN	NNS	Number=Plur	16	nmod	16:nmod:on	Entity=(15-person-new-nnnnn-cf15-1-sgl)13)|MSeg=black-s
 19	or	or	CCONJ	CC	_	21	cc	21:cc	_
-20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	Entity=(16-person-new-nnnnn-cf17-2-sgl
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	Entity=(16-person-new-nnnnn-cf16-2-sgl
 21	black	black	NOUN	NN	Number=Sing	16	conj	10:obl:for|16:conj:or	Entity=16)
-22	and	and	CCONJ	CC	_	68	cc	68:cc	Discourse=evaluation-comment:10->2:2:_;mode-manner:10->15:1:1:orp-likewise-133;causal-result:10->8:1:1:orp-and-82|PDTB=Explicit:Contingency.Cause.Result:and:82:61-81:83-129
-23	if	if	SCONJ	IN	_	29	mark	29:mark	Discourse=contingency-condition:11->14:0:dm-if then-83,126|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if then:83,126:82,125,127-129:84-124
+22	and	and	CCONJ	CC	_	68	cc	68:cc	Discourse=evaluation-comment:10->2:2:_;mode-manner:10->15:1:1:orp-likewise-133-_;causal-result:10->8:1:1:orp-and-82-_|PDTB=Explicit:Contingency.Cause.Result:and:82:61-81:83-129
+23	if	if	SCONJ	IN	_	29	mark	29:mark	Discourse=contingency-condition:11->14:0:dm-if then-83,126-_|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if then:83,126:82,125,127-129:84-124
 24	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	28	discourse	28:discourse	Entity=(7-person-giv:act-sssss-cf4-5-coref
 25	White	White	ADJ	JJ	Degree=Pos	28	amod	28:amod	_
 26	American	American	ADJ	JJ	Degree=Pos	28	amod	28:amod	MSeg=America-n
@@ -86,14 +86,14 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 32	racially	racially	ADV	RB	Degree=Pos	33	advmod	33:advmod	_
 33	motivated	motivated	ADJ	JJ	Degree=Pos	31	xcomp	31:xcomp	MSeg=motiv-at-ed
 34	with	with	ADP	IN	_	35	case	35:case	_
-35	justice	justice	NOUN	NN	Number=Sing	31	obl	31:obl:with	Entity=(18-abstract-undefined-undefined-cf11-1-coref)|MSeg=just-ice
+35	justice	justice	NOUN	NN	Number=Sing	31	obl	31:obl:with	Entity=(18-abstract-new-nnnnn-cf18-1-coref)|MSeg=just-ice
 36	in	in	ADP	IN	_	40	case	40:case	_
 37	a	a	DET	DT	Definite=Ind|PronType=Art	40	det	40:det	Entity=(19-abstract-new-nnnnn-cf19-4-sgl
 38	double	double	ADJ	JJ	Degree=Pos	39	advmod	39:advmod	_
 39	sided	sided	ADJ	JJ	Degree=Pos	40	amod	40:amod	MSeg=sid-ed
 40	way	way	NOUN	NN	Number=Sing	31	obl	31:obl:in	Entity=19)
 41	dropping	drop	VERB	VBG	Tense=Pres|VerbForm=Part	31	advcl	31:advcl	Discourse=mode-manner:12->11:0:_|MSeg=dropp-ing|PDTB=Implicit:Expansion.Manner.Arg2-as-manner:by:_:83-100:101-124
-42	the	the	DET	DT	Definite=Def|PronType=Art	44	det	44:det	Entity=(20-abstract-new-nnnnn-cf13-3,7,11-sgl
+42	the	the	DET	DT	Definite=Def|PronType=Art	44	det	44:det	Entity=(20-abstract-new-nnnnn-cf12-3,7,11-sgl
 43	"	"	PUNCT	``	_	44	punct	44:punct	SpaceAfter=No
 44	I	I	NOUN	NN	Number=Sing	41	obj	41:obj	SpaceAfter=No
 45	"	"	PUNCT	''	_	44	punct	44:punct	SpaceAfter=No
@@ -121,7 +121,7 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 67	so	so	ADV	RB	_	68	advmod	68:advmod	_
 68	become	become	VERB	VB	VerbForm=Inf	7	conj	7:conj:and	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=68:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|MSeg=be-come
 69	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	68	xcomp	68:xcomp	Entity=(17-abstract-giv:act-nnnnn-cf3-1-coref)
-70	Ii	I	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs|Typo=Yes	72	nsubj	72:nsubj	CorrectForm=I|Discourse=organization-preparation:15->20:2:_|Entity=(23-abstract-new-nnnnn-cf2-3-disc(1-person-giv:act-ssssn-cf1*-1-ana)|XML=<sic ana:::"I"></sic>
+70	Ii	I	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	72	nsubj	72:nsubj	CorrectForm=I|Discourse=organization-preparation:15->20:2:_|Entity=(23-abstract-new-nnnnn-cf2-3-disc(1-person-giv:act-ssssn-cf1*-1-ana)|XML=<sic ana:::"I"></sic>
 71	'll	will	AUX	MD	VerbForm=Fin	72	aux	72:aux	_
 72	play	play	VERB	VB	VerbForm=Inf	68	parataxis	68:parataxis	_
 73	likewise	likewise	ADV	RB	_	72	advmod	72:advmod	PDTB=Explicit:Expansion.Conjunction:likewise:133:82-129:130-132,134-154
@@ -130,12 +130,12 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 76	judges	judge	NOUN	NNS	Number=Plur	72	obl	72:obl:with	Entity=7)23)|MSeg=judge-s
 77	from	from	ADP	IN	_	82	case	82:case	_
 78	a	a	DET	DT	Definite=Ind|PronType=Art	82	det	82:det	Entity=(24-abstract-new-nnnss-cf20-4,5-sgl
-79	Koranic	Koranic	ADJ	NNP	Degree=Pos	82	amod	82:amod	Entity=(25-abstract-new-nnnnn-cf14-1-sgl)
+79	Koranic	Koranic	ADJ	NNP	Degree=Pos	82	amod	82:amod	Entity=(25-abstract-new-nnnnn-cf13-1-sgl)
 80	and	and	CCONJ	CC	_	81	cc	81:cc	_
-81	Torooh	Torah	PROPN	NNP	Number=Sing|Typo=Yes	79	conj	79:conj:and|82:compound	CorrectForm=Torah|Entity=(26-abstract-new-nnnnn-cf15-1-sgl-Torah)|XML=<sic ana:::"Torah"></sic>
+81	Torooh	Torah	PROPN	NNP	Number=Sing|Typo=Yes	79	conj	79:conj:and|82:compound	CorrectForm=Torah|Entity=(26-abstract-new-nnnnn-cf14-1-sgl-Torah)|XML=<sic ana:::"Torah"></sic>
 82	perspective	perspective	NOUN	NN	Number=Sing	86	obl	86:obl:from	Entity=24)|MSeg=perspect-ive
 83	that	that	PRON	DT	Number=Sing|PronType=Dem	86	nsubj	86:nsubj|91:nsubj	Discourse=evaluation-comment:16->15:0:_|Entity=(23-abstract-giv:act-nnnnn-cf2-1-coref)|XML=<w>
-84	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	86	cop	86:cop	CorrectForm='s|XML=<sic ana:::"'s"></sic></w>
+84	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	86	cop	86:cop	CorrectForm='s|XML=<sic ana:::"'s"></sic></w>
 85	an	a	DET	DT	Definite=Ind|PronType=Art	86	det	86:det	Entity=(23-abstract-giv:act-nnnnn-cf2-2-coref
 86	eye	eye	NOUN	NN	Number=Sing	68	parataxis	68:parataxis|96:nsubj	Entity=23)
 87	for	for	ADP	IN	_	89	case	89:case	_
@@ -148,8 +148,8 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 94	life	life	NOUN	NN	Number=Sing	91	nmod	91:nmod:for	Entity=17)
 95	which	which	PRON	WDT	PronType=Rel	96	nsubj	86:ref	Discourse=attribution-positive:17->20:1:_
 96	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	86	acl:relcl	86:acl:relcl	MSeg=mean-s
-97	if	if	SCONJ	IN	_	102	mark	102:mark	Discourse=contingency-condition:18->20:0:dm-if-157+dm-if-166|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:157:176-196:158-175
-98	just	just	ADJ	JJ	Degree=Pos	99	amod	99:amod	Entity=(27-event-new-nnssn-cf12-2-coref
+97	if	if	SCONJ	IN	_	102	mark	102:mark	Discourse=contingency-condition:18->20:0:dm-if-157-_+dm-if-166-_|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:157:176-196:158-175
+98	just	just	ADJ	JJ	Degree=Pos	99	amod	99:amod	Entity=(27-event-new-nnssn-cf11-2-coref
 99	treatment	treatment	NOUN	NN	Number=Sing	102	nsubj:pass	102:nsubj:pass	Entity=27)|MSeg=treat-ment
 100	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	102	aux:pass	102:aux:pass	_
 101	not	not	PART	RB	Polarity=Neg	102	advmod	102:advmod	Negation=Yes

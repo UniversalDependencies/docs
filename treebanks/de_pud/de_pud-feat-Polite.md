@@ -34,7 +34,7 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): <em>Ihrem</em>
-* `EMPTY` (3105): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
+* `EMPTY` (3094): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
 
 ### `VERB`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): <em>Schimpfen</em>
-* `EMPTY` (1977): <em>sagte, ist, an, hat, haben, gibt, wurde, sagt, auf, begann</em>
+* `EMPTY` (1869): <em>sagte, ist, hat, haben, gibt, wurde, sagt, begann, war, hatte</em>
 

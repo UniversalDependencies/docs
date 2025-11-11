@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-572 nodes (2%) are attached to their parents as `mark`.
+601 nodes (2%) are attached to their parents as `mark`.
 
-569 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.06293706293706.
+598 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.08818635607321.
 
-The following 15 pairs of parts of speech are connected with `mark`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (356; 62% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (131; 23% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (41; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `mark`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (363; 60% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (156; 26% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (35; 6% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (14; 2% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (10; 2% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 15 pairs of parts of speech are connected with `mark`: <tt><a href
 6	n’	ne	ADV	RB	Polarity=Neg	7	advmod	_	SpaceAfter=No|wordform=n'
 7	ait	avoir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
 8	pas	pas	ADV	RB	Polarity=Neg	7	advmod	_	_
-9	d’	de	DET	DT	Gender=Fem|Number=Sing	10	det	_	SpaceAfter=No|wordform=d'
+9	d’	de	ADP	DT	_	10	case	_	SpaceAfter=No|wordform=d'
 10	importance	importance	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -62,7 +62,7 @@ The following 15 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 11 3 mark	color:blue
 1	C’	ce	PRON	PDEM	PronType=Dem	2	expl:subj	_	SpaceAfter=No|wordform=c'
 2	est	être	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	parce	parce	ADV	IN	_	11	mark	_	_
+3	parce	parce	ADV	IN	ExtPos=SCONJ	11	mark	_	_
 4	que	que	SCONJ	IN	_	3	fixed	_	_
 5	chaque	chaque	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 6	miracle	miracle	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_

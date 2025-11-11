@@ -22,15 +22,15 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 aux	color:blue
-1	ልጅ	ልጅ	NOUN	NOUN	_	7	iobj	_	Translit=lədžə|LTranslit=lədžə
-2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
-3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	Translit=śəra|LTranslit=śəra
-5	ው	ው	DET	DET	_	4	det	_	Translit=wə|LTranslit=wə
-6	ን	ን	PART	ACC	_	4	case	_	Translit=nə|LTranslit=nə
-7	አስጨርስ	አስጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='äsəćärəsə|LTranslit='äsəćärəsə
+1	ልጅ	ልጅ	NOUN	NOUN	_	7	iobj	_	LTranslit=lədžə|Translit=lədžə
+2	ኡ	ኡ	DET	DET	PronType=Art	1	det	_	LTranslit='u|Translit='u
+3	ን	ን	PART	ACC	_	1	case	_	LTranslit=nə|Translit=nə
+4	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	LTranslit=śəra|Translit=śəra
+5	ው	ው	DET	DET	PronType=Art	4	det	_	LTranslit=wə|Translit=wə
+6	ን	ን	PART	ACC	_	4	case	_	LTranslit=nə|Translit=nə
+7	አስጨርስ	አስጨርስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	LTranslit='äsəćärəsə|Translit='äsəćärəsə
 8	ኧው	እሱ	PRON	SUBJC	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ăwə
-9	ኣል	ኣል	AUX	AUX	_	7	aux	_	Translit='alə|LTranslit='alə
+9	ኣል	ኣል	AUX	AUX	_	7	aux	_	LTranslit='alə|Translit='alə
 10	ኧሁ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	7	expl	_	LTranslit='əne|Translit='ăhu
 11	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -44,11 +44,11 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 5 aux	color:blue
 1	ጉዞ	ጉዞ	NOUN	NOUN	_	4	nsubj	_	Translit=guzo|LTranslit=guzo
-2	በ	በ	ADP	ADP	_	3	case	_	Translit=bä|LTranslit=bä
-3	ጠዋት	ጠዋት	NOUN	NOUN	_	4	obl	_	Translit=ţäwatə|LTranslit=ţäwatə
+2	በ	በ	ADP	ADP	_	3	case	_	LTranslit=bä|Translit=bä
+3	ጠዋት	ጠዋት	NOUN	NOUN	_	4	obl	_	LTranslit=ţäwatə|Translit=ţäwatə
 4	መሆን	መሆን	NOUN	NOUN	VerbForm=Vnoun	0	root	_	Translit=mähonə|LTranslit=mähonə
-5	ኣለ	ኣለ	AUX	AUX	_	4	aux	_	Translit='alä|LTranslit='alä
-6	ብ	ብ	ADP	ADP	Case=Mal	4	case	_	Translit=bə|LTranslit=bə
+5	ኣለ	ኣለ	AUX	AUX	_	4	aux	_	LTranslit='alä|Translit='alä
+6	ብ	ብ	ADP	ADP	Case=Mal	4	case	_	LTranslit=bə|Translit=bə
 7	ኧት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='ătə
 8	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
 
@@ -62,18 +62,18 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 1	fgColor:white
 # visual-style 1 2 aux	color:blue
 1	ሰነፍ	ሰነፍ	ADJ	ADJ	_	4	ccomp	_	Translit=sänäfə|LTranslit=sänäfə
-2	ን	ን	AUX	AUX	_	1	aux	_	Translit=nə|LTranslit=nə
+2	ን	ን	AUX	AUX	_	1	aux	_	LTranslit=nə|Translit=nə
 3	ኧህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	LTranslit='änətä|Translit='ăhə
-4	ብል	ብል	VERB	VERB	Mood=Ind|VerbForm=Fin	8	ccomp	_	Translit=bələ|LTranslit=bələ
+4	ብል	ብል	VERB	VERB	Mood=Ind|VerbForm=Fin	8	ccomp	_	LTranslit=bələ|Translit=bələ
 5	ኧህ	አንተ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	expl	_	LTranslit='änətä|Translit='ăhə
-6	ል	ል	SCONJ	SCONJ	_	8	mark	_	Translit=lə|LTranslit=lə
+6	ል	ል	SCONJ	SCONJ	_	8	mark	_	LTranslit=lə|Translit=lə
 7	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	LTranslit='əsu|Translit=tə
-8	ወቅስ	ወቅስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=wäqəsə|LTranslit=wäqəsə
+8	ወቅስ	ወቅስ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	LTranslit=wäqəsə|Translit=wäqəsə
 9	ኧኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	8	obj	_	LTranslit='əne|Translit='ăňə
-10	ኣል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	Translit='alə|LTranslit='alə
+10	ኣል	ኣል	PART	NEG	Polarity=Neg	8	advmod	_	LTranslit='alə|Translit='alə
 11	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit=tə
-12	ችል	ችል	AUX	AUX	_	8	aux	_	Translit=čələ|LTranslit=čələ
-13	ም	ም	PART	NCM	_	8	discourse	_	Translit=mə|LTranslit=mə
+12	ችል	ችል	AUX	AUX	_	8	aux	_	LTranslit=čələ|Translit=čələ
+13	ም	ም	PART	NCM	_	8	discourse	_	LTranslit=mə|Translit=mə
 14	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~

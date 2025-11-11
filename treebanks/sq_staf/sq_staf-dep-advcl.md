@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 4 advcl	color:blue
 1	Profeti	profet	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	end_char=1484|start_char=1477
-2	përgjigjet	përgjigjem	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Mid	0	root	_	end_char=1495|start_char=1485
+2	përgjigjet	përgjigjem	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	end_char=1495|start_char=1485
 3	pa	pa	SCONJ	_	_	4	mark	_	end_char=1498|start_char=1496
 4	shikuar	shikoj	VERB	_	VerbForm=Part	2	advcl	_	end_char=1506|start_char=1499
 5	kënd	kënd	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
@@ -59,7 +59,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 19	gjendje	gjendje	NOUN	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	_	13	advcl	_	_
 20	të	të	PART	_	_	23	mark	_	_
 21	u	u	AUX	_	_	23	aux	_	_
-22	e	e	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	23	obj	_	_
+22	e	e	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	23	expl	_	_
 23	gjente	gjej	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	19	xcomp	_	_
 24	as	as	CCONJ	_	_	25	cc	_	_
 25	fillin	fill	NOUN	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	_	23	obj	_	_
@@ -82,11 +82,11 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 2	këtë	ky	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	pikë	pikë	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	5	obl	_	_
 4	e	e	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
-5	shoh	shoj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+5	shoh	shoj	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	të	ë	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	7	det:adj	_	_
 7	nevojshme	nevojshëm	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	xcomp	_	_
 8	të	të	PART	_	_	9	mark	_	_
-9	hap	hap	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	advcl	_	_
+9	hap	hap	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
 10	parantezën	parantezë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	obj	_	_
 11	e	e	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	12	det:adj	_	_
 12	parë	parë	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No

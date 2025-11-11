@@ -12,7 +12,7 @@ It occurs with 3 different values: `ADJ`, `ADP`, `ADV`.
 17 tokens (0%) have a non-empty value of `ExtPos`.
 10 types (0%) occur at least once with a non-empty value of `ExtPos`.
 7 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -43,11 +43,13 @@ The most frequent other feature values with which `PART` and `ExtPos` co-occurre
 
 * `ADV` (2; 100% of non-empty `ExtPos`): <em>icke</em>
 
-### `CCONJ`
+### `SCONJ`
 
-1 <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
+1 <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
-`CCONJ` tokens may have the following values of `ExtPos`:
+The most frequent other feature values with which `SCONJ` and `ExtPos` co-occurred: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`SCONJ` tokens may have the following values of `ExtPos`:
 
 * `ADV` (1; 100% of non-empty `ExtPos`): <em>som</em>
 

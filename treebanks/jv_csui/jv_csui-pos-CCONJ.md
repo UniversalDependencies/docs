@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Javanese-CSUI: POS Tags: `CCONJ`
 
-There are 1 `CCONJ` lemmas (6%), 9 `CCONJ` types (0%) and 306 `CCONJ` tokens (2%).
-Out of 17 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 16 in number of types and 13 in number of tokens.
+There are 9 `CCONJ` lemmas (0%), 9 `CCONJ` types (0%) and 306 `CCONJ` tokens (2%).
+Out of 17 observed tags, the rank of `CCONJ` is: 16 in number of lemmas, 16 in number of types and 13 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>_</em>
+The 10 most frequent `CCONJ` lemmas: <em>lan, utawa, nanging, sarta, karo, utawi, tur, saha, ugi</em>
 
 The 10 most frequent `CCONJ` types:  <em>lan, utawa, nanging, sarta, karo, utawi, tur, saha, ugi</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 2867, <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> 2233, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1952, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1565, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 961, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 798, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 748, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 736, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 700, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 362, <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 340, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 314, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 306, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 234, <tt><a href="jv_csui-pos-X.html">X</a></tt> 183, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 32, <tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> 12)
+The 10 most frequent ambiguous lemmas: <em>nanging</em> (<tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 33, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 11), <em>sarta</em> (<tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1), <em>karo</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 40, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 5), <em>ugi</em> (<tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 7, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>karo</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 40, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 5), <em>ugi</em> (<tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 7, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -28,9 +28,13 @@ The 10 most frequent ambiguous types:  <em>karo</em> (<tt><a href="jv_csui-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 9.000000 (the average of all parts of speech is 238.352941).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.145928).
 
-The 1st highest number of forms (9) was observed with the lemma “_”: <em>karo, lan, nanging, saha, sarta, tur, ugi, utawa, utawi</em>.
+The 1st highest number of forms (1) was observed with the lemma “karo”: <em>karo</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “lan”: <em>lan</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “nanging”: <em>nanging</em>.
 
 `CCONJ` occurs with 1 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (303; 99% instances)
 

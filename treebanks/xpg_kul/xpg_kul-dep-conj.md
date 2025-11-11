@@ -53,7 +53,7 @@ The following 14 pairs of parts of speech are connected with `conj`: <tt><a href
 11	κε	ke	CCONJ	_	_	13	cc	_	Ref=TM984525|2|11
 12	ακαλα	ακκαλος	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	Ref=TM984525|2|12
 13	οουιτετου	οουιτετου	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Ref=TM984525|2|13
-14	ουα	va	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes	12	det	_	Ref=TM984525|2|14
+14	ουα	va	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	Ref=TM984525|2|14
 15	❧	❧	SYM	_	_	8	dep	_	Ref=TM984525|2|15
 
 ~~~

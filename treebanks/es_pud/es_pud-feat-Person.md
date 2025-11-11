@@ -100,7 +100,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `1` (17; 94% of non-empty `Person`): <em>nuestro, mi, nuestra, nuestras, nuestros, mis</em>
 * `2` (1; 6% of non-empty `Person`): <em>tu</em>
-* `EMPTY` (3321): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
+* `EMPTY` (3320): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
 
 ## Relations with Agreement in `Person`
 

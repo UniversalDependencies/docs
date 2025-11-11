@@ -98,7 +98,7 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 * `Imp` (5; 11% of non-empty `Mood`): <em>EVTA, Kambodschas, Verzeih, aG, flieg</em>
 * `Ind` (35; 80% of non-empty `Mood`): <em>ist, 1st, Gibt, Glaube, Sankt, Verden, ausnutzen, bru, colt, corde</em>
 * `Sub` (4; 9% of non-empty `Mood`): <em>Kemble, Roden, fläke, régime</em>
-* `EMPTY` (30373): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30372): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 
 `Mood` seems to be **lexical feature** of `PROPN`. 100% lemmas (41) occur only with one value of `Mood`.
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 `X` tokens may have the following values of `Mood`:
 
 * `Imp` (2; 100% of non-empty `Mood`): <em>isl., s.</em>
-* `EMPTY` (310): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (309): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ## Relations with Agreement in `Mood`
 

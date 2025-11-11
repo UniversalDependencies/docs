@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (57; 23% of non-empty `Degree`): <em>mer, senare, tidigare, längre, mindre, bättre, hellre, snarare, närmare, vidare</em>
 * `Pos` (168; 67% of non-empty `Degree`): <em>helt, ofta, väldigt, djupt, långt, mycket, väl, faktiskt, snart, direkt</em>
 * `Sup` (24; 10% of non-empty `Degree`): <em>mest, främst, värst, Minst, helst, sist, ytterst, knappast</em>
-* `EMPTY` (745): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
+* `EMPTY` (741): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 7 <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 100%), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 100%), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (7; 100%).
 
 `VERB` tokens may have the following values of `Degree`:
 

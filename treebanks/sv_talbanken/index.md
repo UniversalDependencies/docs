@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Aaron Smith, Victor Norrman.
 
 Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -103,13 +103,13 @@ Department of Linguistics.
 
 ## Relations
 
-[acl](sv_talbanken-dep-acl.html) – [acl:cleft](sv_talbanken-dep-acl-cleft.html) – [acl:relcl](sv_talbanken-dep-acl-relcl.html) – [advcl](sv_talbanken-dep-advcl.html) – [advmod](sv_talbanken-dep-advmod.html) – [amod](sv_talbanken-dep-amod.html) – [appos](sv_talbanken-dep-appos.html) – [aux](sv_talbanken-dep-aux.html) – [aux:pass](sv_talbanken-dep-aux-pass.html) – [case](sv_talbanken-dep-case.html) – [cc](sv_talbanken-dep-cc.html) – [ccomp](sv_talbanken-dep-ccomp.html) – [compound](sv_talbanken-dep-compound.html) – [compound:prt](sv_talbanken-dep-compound-prt.html) – [conj](sv_talbanken-dep-conj.html) – [cop](sv_talbanken-dep-cop.html) – [csubj](sv_talbanken-dep-csubj.html) – [csubj:outer](sv_talbanken-dep-csubj-outer.html) – [csubj:pass](sv_talbanken-dep-csubj-pass.html) – [dep](sv_talbanken-dep-dep.html) – [det](sv_talbanken-dep-det.html) – [discourse](sv_talbanken-dep-discourse.html) – [dislocated](sv_talbanken-dep-dislocated.html) – [expl](sv_talbanken-dep-expl.html) – [fixed](sv_talbanken-dep-fixed.html) – [flat](sv_talbanken-dep-flat.html) – [flat:name](sv_talbanken-dep-flat-name.html) – [goeswith](sv_talbanken-dep-goeswith.html) – [iobj](sv_talbanken-dep-iobj.html) – [list](sv_talbanken-dep-list.html) – [mark](sv_talbanken-dep-mark.html) – [nmod](sv_talbanken-dep-nmod.html) – [nmod:poss](sv_talbanken-dep-nmod-poss.html) – [nsubj](sv_talbanken-dep-nsubj.html) – [nsubj:outer](sv_talbanken-dep-nsubj-outer.html) – [nsubj:pass](sv_talbanken-dep-nsubj-pass.html) – [nummod](sv_talbanken-dep-nummod.html) – [obj](sv_talbanken-dep-obj.html) – [obl](sv_talbanken-dep-obl.html) – [obl:agent](sv_talbanken-dep-obl-agent.html) – [orphan](sv_talbanken-dep-orphan.html) – [parataxis](sv_talbanken-dep-parataxis.html) – [punct](sv_talbanken-dep-punct.html) – [root](sv_talbanken-dep-root.html) – [vocative](sv_talbanken-dep-vocative.html) – [xcomp](sv_talbanken-dep-xcomp.html)
+[acl](sv_talbanken-dep-acl.html) – [acl:cleft](sv_talbanken-dep-acl-cleft.html) – [acl:relcl](sv_talbanken-dep-acl-relcl.html) – [advcl](sv_talbanken-dep-advcl.html) – [advcl:relcl](sv_talbanken-dep-advcl-relcl.html) – [advmod](sv_talbanken-dep-advmod.html) – [amod](sv_talbanken-dep-amod.html) – [appos](sv_talbanken-dep-appos.html) – [aux](sv_talbanken-dep-aux.html) – [aux:pass](sv_talbanken-dep-aux-pass.html) – [case](sv_talbanken-dep-case.html) – [cc](sv_talbanken-dep-cc.html) – [ccomp](sv_talbanken-dep-ccomp.html) – [compound](sv_talbanken-dep-compound.html) – [compound:prt](sv_talbanken-dep-compound-prt.html) – [conj](sv_talbanken-dep-conj.html) – [cop](sv_talbanken-dep-cop.html) – [csubj](sv_talbanken-dep-csubj.html) – [csubj:outer](sv_talbanken-dep-csubj-outer.html) – [csubj:pass](sv_talbanken-dep-csubj-pass.html) – [dep](sv_talbanken-dep-dep.html) – [det](sv_talbanken-dep-det.html) – [discourse](sv_talbanken-dep-discourse.html) – [dislocated](sv_talbanken-dep-dislocated.html) – [expl](sv_talbanken-dep-expl.html) – [fixed](sv_talbanken-dep-fixed.html) – [flat](sv_talbanken-dep-flat.html) – [flat:name](sv_talbanken-dep-flat-name.html) – [goeswith](sv_talbanken-dep-goeswith.html) – [iobj](sv_talbanken-dep-iobj.html) – [list](sv_talbanken-dep-list.html) – [mark](sv_talbanken-dep-mark.html) – [nmod](sv_talbanken-dep-nmod.html) – [nmod:poss](sv_talbanken-dep-nmod-poss.html) – [nsubj](sv_talbanken-dep-nsubj.html) – [nsubj:outer](sv_talbanken-dep-nsubj-outer.html) – [nsubj:pass](sv_talbanken-dep-nsubj-pass.html) – [nummod](sv_talbanken-dep-nummod.html) – [obj](sv_talbanken-dep-obj.html) – [obl](sv_talbanken-dep-obl.html) – [obl:agent](sv_talbanken-dep-obl-agent.html) – [orphan](sv_talbanken-dep-orphan.html) – [parataxis](sv_talbanken-dep-parataxis.html) – [punct](sv_talbanken-dep-punct.html) – [root](sv_talbanken-dep-root.html) – [vocative](sv_talbanken-dep-vocative.html) – [xcomp](sv_talbanken-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 6026 sentences and 96820 tokens.</li>
+<li>This corpus contains 6038 sentences and 96820 tokens.</li>
 </ul>
 
 <ul>
@@ -326,7 +326,7 @@ Department of Linguistics.
       <li>ADJ: olika, andra, nya, många, stora, stor, samma, större, vissa, första</li>
       <li>ADJ-Part: följande, beroende, särskild, särskilda, ökad, motsvarande, liknande, ökade, gifta, nuvarande</li>
       <li>NOUN: år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</li>
-      <li>NUM: två, tre, 1, en, 20, 2, ett, 1970, 3, 10</li>
+      <li>NUM: två, tre, en, 1, 20, 2, ett, 1970, 3, 10</li>
       <li>PRON: man, de, vi, du, han, jag, hon, ni, bägge, en</li>
       <li>PROPN: Sverige, EEC, Stockholm, USA, ATP, Gud, Göteborg, Horn, Danmark, Indien</li>
       <li>VERB: påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</li>
@@ -504,7 +504,7 @@ Department of Linguistics.
       <li>VERB: kallas, användas, behövs, anses, beräknas, tas, används, ges, användes, förändras</li>
       <li>VERB-Fin: behövs, kallas, beräknas, används, anses, användes, föds, ges, görs, tvingas</li>
       <li>VERB-Inf: användas, göras, tas, ses, anses, sägas, utnyttjas, hållas, kallas, kompletteras</li>
-      <li>VERB-Part: påverkade, vald, vänd, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade, förbjudet</li>
+      <li>VERB-Part: påverkade, vald, vänd, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade, frusterade</li>
       <li>VERB-Sup: gjorts, nämnts, förändrats, framhållits, sagts, ansetts, inlämnats, byggts, givits, införts</li>
     </ul>
   </li>
@@ -521,7 +521,7 @@ Department of Linguistics.
 <ul>
   <li>Art
     <ul>
-      <li>DET: en, den, ett, de, det, dom</li>
+      <li>DET: en, den, ett, de, det, dom, the</li>
     </ul>
   </li>
 </ul>
@@ -549,6 +549,14 @@ Department of Linguistics.
     <ul>
       <li>DET: vilka, vilken, vilket, vad</li>
       <li>PRON: vad, vem, vilka, vilken, vilket, Vems</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int,Rel
+    <ul>
+      <li>PRON: som</li>
     </ul>
   </li>
 </ul>
@@ -603,7 +611,7 @@ Department of Linguistics.
 <ul>
   <li>Card
     <ul>
-      <li>NUM: två, tre, 1, en, 20, 2, ett, 1970, 3, 10</li>
+      <li>NUM: två, tre, en, 1, 20, 2, ett, 1970, 3, 10</li>
     </ul>
   </li>
 </ul>
@@ -674,6 +682,7 @@ Department of Linguistics.
           <li>NOUN: vice, Poste, stick</li>
           <li>PART: Icke</li>
           <li>PRON: det</li>
+          <li>SCONJ: som</li>
           <li>VERB-Fin: låt, vill</li>
         </ul>
       </li>
@@ -742,10 +751,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (11)</li>
-      <li>VERB-Fin--NOUN-Nom (2039)</li>
+      <li>VERB-Fin--NOUN-Nom (2040)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (2)</li>
-      <li>VERB-Fin--PRON (1052)</li>
-      <li>VERB-Fin--PRON-Nom (1026)</li>
+      <li>VERB-Fin--PRON (1053)</li>
+      <li>VERB-Fin--PRON-Nom (1027)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Nom (489)</li>
       <li>VERB-Inf--PRON (192)</li>
@@ -761,10 +770,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB--NOUN-Nom (1)</li>
       <li>VERB-Fin--NOUN (32)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1784)</li>
+      <li>VERB-Fin--NOUN-Nom (1785)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
       <li>VERB-Fin--PRON (174)</li>
@@ -776,7 +786,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (149)</li>
       <li>VERB-Sup--NOUN (2)</li>
       <li>VERB-Sup--NOUN-Nom (259)</li>
-      <li>VERB-Sup--PRON (29)</li>
+      <li>VERB-Sup--PRON (30)</li>
       <li>VERB-Sup--PRON-Acc (33)</li>
     </ul>
   </li>
@@ -803,6 +813,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>

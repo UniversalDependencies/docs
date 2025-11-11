@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-65 tokens (0%) have a non-empty value of `Typo`.
-39 types (0%) occur at least once with a non-empty value of `Typo`.
-35 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+67 tokens (0%) have a non-empty value of `Typo`.
+40 types (0%) occur at least once with a non-empty value of `Typo`.
+36 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 ### `SCONJ`
 
@@ -34,13 +34,13 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 ### `NOUN`
 
-9 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+10 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 67%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 70%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (9; 100% of non-empty `Typo`): <em>Bröchten, Schimpereien, ambiente, essen, freundin, hotel, preis, sahne, sterne</em>
+* `Yes` (10; 100% of non-empty `Typo`): <em>essen, Bröchten, Schimpereien, ambiente, freundin, hotel, preis, sahne, sterne</em>
 
 ### `DET`
 
@@ -67,6 +67,16 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 `ADV` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>er, würklich, darzu</em>
+
+### `PRON`
+
+3 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt> (2; 67%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 67%).
+
+`PRON` tokens may have the following values of `Typo`:
+
+* `Yes` (3; 100% of non-empty `Typo`): <em>Ihr, Mit, des</em>
 
 ### `ADJ`
 
@@ -95,16 +105,6 @@ The most frequent other feature values with which `AUX` and `Typo` co-occurred: 
 `CCONJ` tokens may have the following values of `Typo`:
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>sonden, uns</em>
-
-### `PRON`
-
-2 <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%), <tt><a href="de_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`PRON` tokens may have the following values of `Typo`:
-
-* `Yes` (2; 100% of non-empty `Typo`): <em>Ihr, des</em>
 
 ## Relations with Agreement in `Typo`
 

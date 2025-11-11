@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `NUM`
 
-There are 26 `NUM` lemmas (1%), 27 `NUM` types (1%) and 66 `NUM` tokens (1%).
+There are 24 `NUM` lemmas (1%), 27 `NUM` types (1%) and 66 `NUM` tokens (1%).
 Out of 15 observed tags, the rank of `NUM` is: 8 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>кык, ӧти, ветымын, дас, комын, куим, ӧт, 12-20, 16, 18</em>
 
 The 10 most frequent `NUM` types:  <em>кык, ӧти, дас, ветымынъяс, комын, куим, 12-20, 16, 18, 1940</em>
 
-The 10 most frequent ambiguous lemmas: <em>ӧти</em> (<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 14, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2), <em>_</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> 5, <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2, <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1, <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> 1), <em>кыкӧн</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ӧти</em> (<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 14, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2), <em>кыкӧн</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ӧти</em> (<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 11, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ӧти</em> (<tt><a href="kpv_lattice
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.038462 (the average of all parts of speech is 1.468725).
+The form / lemma ratio of `NUM` is 1.125000 (the average of all parts of speech is 1.476307).
 
 The 1st highest number of forms (2) was observed with the lemma “ветымын”: <em>ветымын, ветымынъяс</em>.
 
@@ -32,12 +32,12 @@ The 2nd highest number of forms (2) was observed with the lemma “кык”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “ӧт”: <em>Ӧтнам, ӧтнад</em>.
 
-`NUM` occurs with 5 features: <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt> (63; 95% instances), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (60; 91% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (60; 91% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (4; 6% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (4; 6% instances)
+`NUM` occurs with 5 features: <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt> (64; 97% instances), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (61; 92% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (61; 92% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (4; 6% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (4; 6% instances)
 
 `NUM` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Ins`, `Case=Nom`, `NumType=Appr`, `NumType=Card`, `NumType=Dist`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
 
-`NUM` occurs with 11 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|NumType=Card` (51 tokens).
+`NUM` occurs with 10 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|NumType=Card` (52 tokens).
 Examples: <em>кык, ӧти, дас, комын, куим, 12-20, 16, 18, 1940, 29</em>
 
 

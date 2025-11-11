@@ -45,7 +45,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	hidup	hidup	NOUN	NSD	Number=Sing	6	obl	_	Morf=^hidup<n>_NSD$
 4	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	Morf=^dia<p>_PS3$
 5	Whistler	whistler	PROPN	F--	_	6	nsubj	_	Morf=^whistler<f>_F--$
-6	tinggal	tinggal	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^tinggal<v>_VSA$
+6	tinggal	tinggal	VERB	VSA	Voice=Act	0	root	_	Morf=^tinggal<v>_VSA$
 7	dan	dan	CCONJ	H--	_	8	cc	_	Morf=^dan<h>_H--$
 8	hidup	hidup	VERB	NSD	_	6	conj	_	Morf=^hidup<n>_NSD$
 9	di	di	ADP	R--	_	10	case	_	Morf=^di<r>_R--$

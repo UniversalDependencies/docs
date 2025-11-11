@@ -22,10 +22,10 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (311; 12% of non-empty `Case`): <em>o, lo, me, nos, se, a, la, los, os, as</em>
-* `Dat` (181; 7% of non-empty `Case`): <em>me, mim, si, nos, lhe, se, lhes, te</em>
-* `Nom` (2001; 80% of non-empty `Case`): <em>se, ele, ela, eu, eles, você, elas, nós, vocês, Tu</em>
-* `EMPTY` (3919): <em>que, o, isso, quem, a, tudo, os, nada, algo, ninguém</em>
+* `Acc` (850; 34% of non-empty `Case`): <em>se, o, me, lo, nos, a, la, los, os, as</em>
+* `Dat` (173; 7% of non-empty `Case`): <em>me, mim, si, nos, lhe, se, lhes, te</em>
+* `Nom` (1470; 59% of non-empty `Case`): <em>ele, ela, eu, se, eles, você, elas, nós, vocês, Tu</em>
+* `EMPTY` (3875): <em>que, o, isso, quem, tudo, a, os, nada, algo, ninguém</em>
 
 <table>
   <tr><th>Paradigm <i>se</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>

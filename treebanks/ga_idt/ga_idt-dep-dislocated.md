@@ -13,7 +13,7 @@ This relation is universal.
 48 instances of `dislocated` (87%) are left-to-right (parent precedes child).
 Average distance between parent and child is 13.4727272727273.
 
-The following 13 pairs of parts of speech are connected with `dislocated`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (25; 45% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (11; 20% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `dislocated`: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (25; 45% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (12; 22% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -37,32 +37,34 @@ The following 13 pairs of parts of speech are connected with `dislocated`: <tt><
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 15 dislocated	color:blue
-1	Bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	seacht	seacht	NUM	Num	NumType=Card	4	nummod	_	_
-3	déag	déag	NOUN	Subst	Case=Nom|Number=Sing	2	nmod	_	_
-4	bainisteoir	bainisteoir	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-5	cúnta	cúnta	ADJ	Adj	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
-6	maoinithe	maoinithe	ADJ	Adj	VerbForm=Part	1	xcomp:pred	_	_
-7	faoin	faoi	ADP	Art	Number=Sing|PronType=Art	8	case	_	_
-8	scéim	scéim	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	_
-9	seo	seo	DET	Det	PronType=Dem	8	det	_	_
-10	ag	ag	ADP	Simp	_	11	case	_	_
-11	deireadh	deireadh	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl:tmod	_	_
-12	na	an	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	bliana	bliain	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	Punct	_	15	punct	_	_
-15	cúigear	cúigear	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	4	dislocated	_	_
-16	acu	ag	ADP	Prep	Number=Plur|Person=3	15	obl:prep	_	_
-17	fostaithe	fostaithe	ADJ	Adj	VerbForm=Part	15	xcomp:pred	_	_
-18	le	le	ADP	Simp	_	19	case	_	_
-19	comharchumainn	comharchumann	NOUN	Noun	Case=Nom|Gender=Masc|Number=Plur	17	obl	_	_
-20	oileánda	oileánda	ADJ	Adj	Case=Nom|Gender=Masc|NounType=Slender|Number=Plur	19	amod	_	SpaceAfter=No
-21	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 16 dislocated	color:blue
+1	Is	is	AUX	Cop	Tense=Pres|VerbForm=Cop	10	cop	_	_
+2	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+3	atá	bí	VERB	PresInd	Form=Direct|Mood=Ind|PronType=Rel|Tense=Pres	2	acl:relcl	_	_
+4	sa	i	ADP	Art	Number=Sing|PronType=Art	5	case	_	_
+5	Chlár	clár	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	3	obl	_	_
+6	Right	Right	X	Foreign	Foreign=Yes	5	nmod	_	_
+7	to	to	X	Foreign	Foreign=Yes	6	flat:foreign	_	_
+8	Read	Read	X	Foreign	Foreign=Yes	6	flat:foreign	_	_
+9	ná	ná	SCONJ	Subord	_	10	mark:prt	_	_
+10	tionscnamh	tionscnamh	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+11	faoi	faoi	ADP	Simp	_	12	case	_	_
+12	Opportunities	Opportunities	X	Foreign	Foreign=Yes	10	nmod	_	NamedEntity=Yes
+13	for	for	X	Foreign	Foreign=Yes	12	flat:foreign	_	NamedEntity=Yes
+14	All	All	X	Foreign	Foreign=Yes	12	flat:foreign	_	NamedEntity=Yes|SpaceAfter=No
+15	,	,	PUNCT	Punct	_	16	punct	_	_
+16	Straitéis	straitéis	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	10	dislocated	_	_
+17	um	um	ADP	Simp	_	18	case	_	_
+18	Leabharlanna	leabharlann	NOUN	Noun	Case=Nom|Gender=Fem|Number=Plur	16	nmod	_	_
+19	Poiblí	poiblí	ADJ	Adj	Case=Nom|Gender=Fem|NounType=NotSlender|Number=Plur	18	amod	_	_
+20	2013	2013	NUM	Num	_	16	nmod	_	SpaceAfter=No
+21	-	-	PUNCT	Punct	_	22	punct	_	SpaceAfter=No
+22	2017	2017	NUM	Num	_	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
 

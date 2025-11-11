@@ -24,10 +24,10 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 iobj	color:blue
 1	Cela	cela	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	wordform=cela
-2	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+2	lui	lui	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 3	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	aspect	aspect	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	aspect	aspect	NOUN	_	Number=Sing	3	obj	_	Gender[lex]=Masc
 6	«	«	PUNCT	_	_	7	punct	_	_
 7	formel	formel	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 8	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 iobj	color:blue
-1	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
+1	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No
 2	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	5	iobj	_	_
 3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	très	très	ADV	_	_	5	advmod	_	_

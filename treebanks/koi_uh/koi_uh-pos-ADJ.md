@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.111111 (the average of all parts of speech is 1.247379).
+The form / lemma ratio of `ADJ` is 1.111111 (the average of all parts of speech is 1.250000).
 
 The 1st highest number of forms (2) was observed with the lemma “бур”: <em>бур, буржык</em>.
 

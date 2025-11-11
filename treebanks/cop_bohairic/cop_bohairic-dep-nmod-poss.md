@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="cop_bohairic-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="cop_bohairic-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
-962 nodes (3%) are attached to their parents as `nmod:poss`.
+963 nodes (3%) are attached to their parents as `nmod:poss`.
 
-715 instances of `nmod:poss` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02494802494802.
+716 instances of `nmod:poss` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02492211838006.
 
-The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (708; 74% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (234; 24% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (710; 74% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (234; 24% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,17 +26,17 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲉⲣ	ⲓⲣⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲣ	ⲓⲣⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ϩⲏⲧ	ϩⲏ	NOUN	N	_	4	obj	_	_
 6	ⲥ	ⲛⲑⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 7	ⲛ	ⲛ	PART	PREP	_	8	mark	_	_
-8	ϯϩⲟ	ϯϩⲟ	VERB	V	VerbForm=Fin	4	xcomp	_	MSeg=ϯ-ϩⲟ
+8	ϯϩⲟ	ϯϩⲟ	VERB	V	Mood=Ind|VerbForm=Fin	4	xcomp	_	MSeg=ϯ-ϩⲟ
 9	ⲉⲣⲟ	ⲉ	ADP	PREP	_	10	case	_	_
 10	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	14	mark	_	_
 12	ⲛⲧⲉ	ⲛⲧⲉ	AUX	ACONJ	_	14	aux	_	_
 13	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	ϣⲉ	ϣⲉ	VERB	V	VerbForm=Fin	8	ccomp	_	_
+14	ϣⲉ	ϣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	8	ccomp	_	_
 15	ⲛⲁ	ⲛⲁ	ADP	PREP	_	16	case	_	_
 16	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
 17	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	20	case	_	_
@@ -56,17 +56,17 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲉⲣ	ⲓⲣⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲣ	ⲓⲣⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ϩⲏⲧ	ϩⲏ	NOUN	N	_	4	obj	_	_
 6	ⲥ	ⲛⲑⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 7	ⲛ	ⲛ	PART	PREP	_	8	mark	_	_
-8	ϯϩⲟ	ϯϩⲟ	VERB	V	VerbForm=Fin	4	xcomp	_	MSeg=ϯ-ϩⲟ
+8	ϯϩⲟ	ϯϩⲟ	VERB	V	Mood=Ind|VerbForm=Fin	4	xcomp	_	MSeg=ϯ-ϩⲟ
 9	ⲉⲣⲟ	ⲉ	ADP	PREP	_	10	case	_	_
 10	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	14	mark	_	_
 12	ⲛⲧⲉ	ⲛⲧⲉ	AUX	ACONJ	_	14	aux	_	_
 13	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	ϣⲉ	ϣⲉ	VERB	V	VerbForm=Fin	8	ccomp	_	_
+14	ϣⲉ	ϣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	8	ccomp	_	_
 15	ⲛⲁ	ⲛⲁ	ADP	PREP	_	16	case	_	_
 16	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
 17	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	20	case	_	_
@@ -91,13 +91,13 @@ The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 6	ⲣⲱⲙⲓ	ⲣⲱⲙⲓ	NOUN	N	_	0	root	_	_
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
 8	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	VerbForm=Fin	6	acl:relcl	_	_
-10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	6	cop	_	_
+9	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	6	acl:relcl	_	_
+10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	6	cop	_	_
 11	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	13	mark	_	_
 12	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-13	ⲙⲟϣⲓ	ⲙⲟϣⲓ	VERB	V	VerbForm=Fin	6	acl:relcl	_	_
+13	ⲙⲟϣⲓ	ⲙⲟϣⲓ	VERB	V	Mood=Ind|VerbForm=Fin	6	acl:relcl	_	_
 14	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	15	case	_	_
-15	ⲛⲁ	ⲫⲁ	DET	PPOS	_	13	obl	_	_
+15	ⲛⲁ	ⲫⲁ	DET	PPOS	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	13	obl	_	_
 16	ⲫ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	ⲛⲟⲩϯ	ⲛⲟⲩϯ	NOUN	N	_	15	nmod:poss	_	Orig=ϯ
 

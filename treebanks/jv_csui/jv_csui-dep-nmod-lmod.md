@@ -23,17 +23,17 @@ The following 6 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 nmod:lmod	color:blue
-1	Sarasehan	_	NOUN	_	Number=Sing	3	nsubj	_	_
-2	bisa	_	AUX	_	Polite=Infm	3	aux	_	_
-3	dadi	_	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	_
-4	wadhah	_	NOUN	_	Number=Sing	3	xcomp	_	_
-5	tukar	_	VERB	_	Mood=Ind|Voice=Act	4	acl	_	_
-6	kawruh	_	NOUN	_	Number=Sing	5	obj	_	_
-7	antara	_	NOUN	_	Number=Sing|Polite=Infm	10	nmod:lmod	_	_
-8	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
-9	para	_	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-10	rawuh	_	NOUN	_	Number=Sing|Polite=Elev	5	obl	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	5	punct	_	_
+1	Sarasehan	sarasehan	NOUN	_	Number=Sing	3	nsubj	_	_
+2	bisa	bisa	AUX	_	Polite=Infm	3	aux	_	_
+3	dadi	dadi	VERB	_	Polite=Infm|Voice=Act	0	root	_	_
+4	wadhah	wadhah	NOUN	_	Number=Sing	3	xcomp	_	_
+5	tukar	tukar	VERB	_	Voice=Act	4	acl	_	_
+6	kawruh	kawruh	NOUN	_	Number=Sing	5	obj	_	_
+7	antara	antara	NOUN	_	Number=Sing|Polite=Infm	10	nmod:lmod	_	_
+8	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	7	det	_	_
+9	para	para	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
+10	rawuh	rawuh	NOUN	_	Number=Sing|Polite=Elev	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -44,21 +44,21 @@ The following 6 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nmod:lmod	color:blue
-1	Dak	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	2	nsubj	_	_
-2	sawang	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-3	bocah	_	NOUN	_	Number=Sing|Polite=Infm	11	nsubj	_	_
-4	wadon	_	NOUN	_	Number=Sing|Polite=Infm	3	nmod	_	_
-5	sing	_	PRON	_	Polite=Infm|PronType=Rel	6	nsubj	_	_
-6	lungguh	_	VERB	_	Mood=Ind|Voice=Act	3	acl:relcl	_	_
-7	neng	_	ADP	_	Polite=Infm	9	case	_	_
-8	sanding	_	NOUN	_	Number=Sing	9	nmod:lmod	_	_
-9	ku	_	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	6	obl	_	_
-10	iki	_	DET	_	Polite=Infm|PronType=Dem	3	det	_	_
-11	nyambi	_	VERB	_	Mood=Ind|Voice=Act	2	ccomp	_	_
-12	ngelusi	_	VERB	_	Mood=Ind|Voice=Act	11	advcl	_	_
-13	buku-buku	_	NOUN	_	Number=Plur	12	obj	_	_
-14	e	_	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	12	nmod:poss	_	_
-15	.	_	PUNCT	_	_	2	punct	_	SpacesAfter=\s\n
+1	Dak	dak	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	2	nsubj	_	_
+2	sawang	sawang	VERB	_	Voice=Act	0	root	_	_
+3	bocah	bocah	NOUN	_	Number=Sing|Polite=Infm	11	nsubj	_	_
+4	wadon	wadon	NOUN	_	Number=Sing|Polite=Infm	3	nmod	_	_
+5	sing	sing	PRON	_	Polite=Infm|PronType=Rel	6	nsubj	_	_
+6	lungguh	lungguh	VERB	_	Voice=Act	3	acl:relcl	_	_
+7	neng	neng	ADP	_	Polite=Infm	9	case	_	_
+8	sanding	sanding	NOUN	_	Number=Sing	9	nmod:lmod	_	_
+9	ku	ku	PRON	_	Number=Sing|Person=1|Polite=Infm|PronType=Prs	6	obl	_	_
+10	iki	iki	DET	_	Polite=Infm|PronType=Dem	3	det	_	_
+11	nyambi	nyambi	VERB	_	Voice=Act	2	ccomp	_	_
+12	ngelusi	elus	VERB	_	Voice=Act	11	advcl	_	_
+13	buku-buku	buku	NOUN	_	Number=Plur	12	obj	_	_
+14	e	e	PRON	_	Number=Sing|Person=3|Polite=Infm|PronType=Prs	12	nmod:poss	_	_
+15	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\s\n
 
 ~~~
 
@@ -69,16 +69,16 @@ The following 6 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 nmod:lmod	color:blue
-1	Kita	_	PRON	_	Number=Plur|Person=1|Polite=Infm|PronType=Prs	3	nsubj	_	_
-2	kudu	_	AUX	_	Polite=Infm	3	aux	_	_
-3	mong-kinemong	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-4	antara	_	NOUN	_	Number=Sing|Polite=Infm	6	nmod:lmod	_	_
-5	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	4	det	_	_
-6	siji	_	NUM	_	NumType=Card|Polite=Infm	3	obl	_	_
-7	lan	_	CCONJ	_	Polite=Infm	8	cc	_	_
-8	siji	_	NUM	_	NumType=Card|Polite=Infm	6	conj	_	_
-9	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	8	det	_	_
-10	.	_	PUNCT	_	_	3	punct	_	_
+1	Kita	kita	PRON	_	Number=Plur|Person=1|Polite=Infm|PronType=Prs	3	nsubj	_	_
+2	kudu	kudu	AUX	_	Polite=Infm	3	aux	_	_
+3	mong-kinemong	mong	VERB	_	Voice=Act	0	root	_	_
+4	antara	antara	NOUN	_	Number=Sing|Polite=Infm	6	nmod:lmod	_	_
+5	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	4	det	_	_
+6	siji	siji	NUM	_	NumType=Card|Polite=Infm	3	obl	_	_
+7	lan	lan	CCONJ	_	Polite=Infm	8	cc	_	_
+8	siji	siji	NUM	_	NumType=Card|Polite=Infm	6	conj	_	_
+9	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	8	det	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

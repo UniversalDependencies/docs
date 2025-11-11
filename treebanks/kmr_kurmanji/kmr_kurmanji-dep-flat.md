@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of flat in UD_Kurmanji-MG'
+title:  'Statistics of flat in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `flat`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `flat`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 123 instances of `flat` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.26829268292683.
 
-The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (40; 33% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (36; 29% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (14; 11% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (14; 11% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (40; 33% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (36; 29% instances), <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (14; 11% instances), <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (14; 11% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kmr_kurmanji-pos-X.html">X</a></tt>-<tt><a href="kmr_kurmanji-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `conj`: <tt><a href="gya_autogramm-dep-conj-redup.html">conj:redup</a></tt>.
 
-46 nodes (2%) are attached to their parents as `conj`.
+45 nodes (2%) are attached to their parents as `conj`.
 
-46 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.84782608695652.
+45 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.82222222222222.
 
-The following 3 pairs of parts of speech are connected with `conj`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (44; 96% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `conj`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (43; 96% instances), <tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -44,6 +44,23 @@ The following 3 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 conj	color:blue
+1	ká	ká	CCONJ	SUB	_	3	cc	_	AlignBegin=135340|AlignEnd=135765|GE=alors|Gloss=alors|MGloss=alors|MSeg=ká|nWord=1|RX=SUB
+2	yérè	yérè	NOUN	MV	_	3	nsubj	_	AlignBegin=135765|AlignEnd=135907|GE=buffle|Gloss=buffle|MGloss=buffle|MSeg=yérè|nWord=2|RX=N
+3	ʔèá_ʔèá_ʔèá	ʔèá-ʔèá	ADV	V	_	0	root	_	AlignBegin=135907|AlignEnd=136190|GE=longtemps|Gloss=longtemps|MGloss=longtemps--DUR|MSeg=ʔèá-ʔèá-VV|nWord=3|RX=ADV
+4	ká	kà	CCONJ	N	_	5	cc	_	AlignBegin=136190|AlignEnd=136332|GE=alors|Gloss=alors|MGloss=alors|MSeg=kà|nWord=4|RX=SUB
+5	zṵ̀ṵ̀	zṵ	VERB	MN	_	3	conj	_	AlignBegin=136332|AlignEnd=137040|GE=enfoncer|Gloss=enfoncer|MGloss=ACC--enfoncer--D|MSeg=BHa-zṵ-H|nWord=5|RX=V
+6	ʔɔ́m	ʔɔ́m	NOUN	N	_	5	obj	_	AlignBegin=137040|AlignEnd=137677|GE=poitrail|Gloss=poitrail|MGloss=poitrail--D|MSeg=ʔɔ́m-H|nWord=6|RX=N|wordform=ʔɔ́m-H
+7	=à̰	ʔà̰	PRON	MN	Number=Sing|Person=3	6	obj	_	AlignBegin=137677|AlignEnd=137890|GE=3SG|Gloss=-3SG|MGloss=-3SG|MSeg==à̰|nWord=6|RX=MN|Word=ʔɔ́máà
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 conj	color:blue
 1	ʔó	ʔó	DET	MN	_	3	det	_	AlignBegin=2100|AlignEnd=2641|GE=PL|Gloss=PL|MGloss=PL|MSeg=ʔó|nWord=1|RX=MN
 2	mà	mà	DET	MN	_	3	det	_	AlignBegin=2641|AlignEnd=3182|GE=INDF|Gloss=INDF|MGloss=INDF|MSeg=mà|nWord=2|RX=MN
 3	bókóbêm	bókóbêm	NOUN	N	_	8	dislocated	_	AlignBegin=3182|AlignEnd=3723|GE=fille|Gloss=fille|MGloss=fille|MSeg=bókóbêm|nWord=3|RX=N
@@ -58,28 +75,6 @@ The following 3 pairs of parts of speech are connected with `conj`: <tt><a href=
 12	ʔín	ʔîn	ADP	FCT	_	13	case	_	AlignBegin=7510|AlignEnd=8051|GE=COM|Gloss=COM|MGloss=COM--MT|MSeg=ʔîn-H|nWord=11|RX=FCT
 13	bókáɲá	bókáɲá	NOUN	N	_	10	obl:arg	_	AlignBegin=8051|AlignEnd=8321|GE=soeur|Gloss=soeur|MGloss=soeur-MT|MSeg=bókáɲá-H|nWord=12|RX=N|wordform=bókáɲá-H
 14	=à	ʔà̰	PRON	MN	Number=Sing|Person=3	13	obj	_	AlignBegin=8321|AlignEnd=8590|GE=3SG|Gloss=-3SG|MGloss=-3SG|MSeg==à|nWord=12|RX=MN|Word=bókáɲáà
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 8 conj	color:blue
-1	wà	wà	PRON	PERS	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	AlignBegin=288231|AlignEnd=288461|Gloss=3P|MGloss=3P|MSeg=wà|nWord=1|RX=PR
-2	dɛ́	dɛ	VERB	V	_	0	root	_	AlignBegin=288461|AlignEnd=288691|Gloss=faire|MGloss=INAC-faire|MSeg=H-dɛ|nWord=2|RX=V
-3	nɛ̀	nɛ̀	PART	MV	_	2	advmod	_	AlignBegin=288691|AlignEnd=288921|GE=CIRC|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=3|RX=MV
-4	sádàkà	sádàkà	NOUN	N	_	2	obj	_	AlignBegin=288921|AlignEnd=289151|Gloss=fête|MGloss=fête|MSeg=sádàkà|nWord=4|RX=N
-5	kɔ́	kɔ́	ADP	FCT	_	6	case	_	AlignBegin=289151|AlignEnd=289266|Gloss=de|MGloss=de|MSeg=kɔ́|nWord=5|RX=FCT
-6	=à̰	ʔà̰	PRON	PERS	Number=Sing|Person=3|PronType=Prs	4	nmod	_	AlignBegin=289266|AlignEnd=289381|Gloss=3SG|MGloss=3SG|MSeg==à̰|nWord=5|RX=PERS|Word=kɔ̰́à̰
-7	ʔèá	ʔèá	ADV	ADV	_	2	advmod	_	AlignBegin=289381|AlignEnd=289613|Gloss=seulement|MGloss=seulement|MSeg=ʔèá|nWord=6|RX=ADV
-8	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	hɔ̰́gɔ̰́ɔ̰́ɔ̰́	ADV	_	_	2	conj	_	AlignBegin=289613|AlignEnd=290617|Gloss=longtemps|MGloss=longtemps|MSeg=hɔ̰́gɔ̰́ɔ̰́ɔ̰́|nWord=7
-9	yɔ́	yɔ	VERB	V	_	2	conj	_	AlignBegin=290617|AlignEnd=290894|Gloss=danser|MGloss=INAC-danser|MSeg=H-yɔ|nWord=8|RX=V
-10	nɛ̀	nɛ̀	PART	MV	_	9	advmod	_	AlignBegin=290894|AlignEnd=291171|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=9|RX=MV
-11	mɔ̀	mɔ̀	NOUN	N	_	9	obj	_	AlignBegin=291171|AlignEnd=291448|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=10|RX=N
-12	káɗí	káɗí	ADV	ADV	_	9	advmod	_	AlignBegin=291448|AlignEnd=291725|Gloss=totalement|MGloss=totalement|MSeg=káɗí|nWord=11|RX=ADV
 
 ~~~
 

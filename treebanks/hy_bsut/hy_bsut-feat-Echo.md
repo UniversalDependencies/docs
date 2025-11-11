@@ -9,20 +9,30 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Ech`.
 
-3 tokens (0%) have a non-empty value of `Echo`.
-3 types (0%) occur at least once with a non-empty value of `Echo`.
-3 lemmas (0%) occur at least once with a non-empty value of `Echo`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+6 tokens (0%) have a non-empty value of `Echo`.
+5 types (0%) occur at least once with a non-empty value of `Echo`.
+5 lemmas (0%) occur at least once with a non-empty value of `Echo`.
+The feature is used with 4 part-of-speech tags: <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-1 <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Echo`.
+2 <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `ADJ` and `Echo` co-occurred: <tt><a href="hy_bsut-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Echo` co-occurred: <tt><a href="hy_bsut-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADJ` tokens may have the following values of `Echo`:
 
-* `Ech` (1; 100% of non-empty `Echo`): <em>լեփ</em>
+* `Ech` (2; 100% of non-empty `Echo`): <em>լեփ, մոլոր</em>
+
+### `X`
+
+2 <tt><a href="hy_bsut-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Echo`.
+
+The most frequent other feature values with which `X` and `Echo` co-occurred: <tt><a href="hy_bsut-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_bsut-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`X` tokens may have the following values of `Echo`:
+
+* `Ech` (2; 100% of non-empty `Echo`): <em>շուռումուռ</em>
 
 ### `INTJ`
 

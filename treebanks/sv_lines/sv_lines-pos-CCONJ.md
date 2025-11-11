@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-LinES: POS Tags: `CCONJ`
 
-There are 21 `CCONJ` lemmas (0%), 21 `CCONJ` types (0%) and 3949 `CCONJ` tokens (4%).
+There are 21 `CCONJ` lemmas (0%), 21 `CCONJ` types (0%) and 3943 `CCONJ` tokens (4%).
 Out of 17 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>och, men, eller, utan, både, för, så, fast, samt, ty</em>
+The 10 most frequent `CCONJ` lemmas: <em>och, men, eller, utan, både, för, fast, samt, så, ty</em>
 
-The 10 most frequent `CCONJ` types:  <em>och, men, eller, utan, både, för, så, fast, samt, ty</em>
+The 10 most frequent `CCONJ` types:  <em>och, men, eller, utan, både, för, fast, samt, så, ty</em>
 
-The 10 most frequent ambiguous lemmas: <em>och</em> (<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 3050, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 6), <em>utan</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 86, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 1), <em>för</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1032, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 39, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 3), <em>så</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 377, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="sv_lines-pos-PART.html">PART</a></tt> 17, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 2), <em>fast</em> (<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 14, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 6), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1240, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 446, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 185, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 9), <em>liksom</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 1), <em>respektive</em> (<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2), <em>vare</em> (<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 12, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sv_lines-pos-X.html">X</a></tt> 1), <em>mellan</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 96, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>och</em> (<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 3050, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 6), <em>utan</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 86, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 1), <em>för</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 1032, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 39, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 3), <em>fast</em> (<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 14, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 6), <em>så</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 400, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 2), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1239, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 446, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 186, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 9), <em>liksom</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 1), <em>respektive</em> (<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2), <em>vare</em> (<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 12, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sv_lines-pos-X.html">X</a></tt> 1), <em>mellan</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 96, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>och</em> (<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2933, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 6), <em>utan</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 85, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 1), <em>för</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 972, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 39, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 5, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 2), <em>så</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 354, <tt><a href="sv_lines-pos-PART.html">PART</a></tt> 16, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 8), <em>fast</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 14, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 5), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1239, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 436, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 178, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 9), <em>liksom</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 6, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 1), <em>respektive</em> (<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2), <em>vare</em> (<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 13, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sv_lines-pos-X.html">X</a></tt> 1), <em>mellan</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 96, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>och</em> (<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2933, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 6), <em>utan</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 85, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 1), <em>för</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 972, <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 39, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 5, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 2), <em>fast</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 14, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 5), <em>så</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 376, <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 8), <em>som</em> (<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1238, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 436, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 179, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 9), <em>liksom</em> (<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 7, <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 6, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 1), <em>respektive</em> (<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2), <em>vare</em> (<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 13, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="sv_lines-pos-X.html">X</a></tt> 1), <em>mellan</em> (<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 96, <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>och</em>
@@ -32,21 +32,20 @@ The 10 most frequent ambiguous types:  <em>och</em> (<tt><a href="sv_lines-pos-C
   * <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 5: <em>Navrozov <b>för</b> denna inställning vidare .</em>
   * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Inte <b>för</b> att dom nånsin har ansträngt sig .</em>
   * <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 2: <em>I fråga om att undanta den energikrävande industrin ser vi både <b>för</b> - och nackdelar med kommissionens förslag .</em>
-* <em>så</em>
-  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 354: <em>Blir det bra <b>så</b> ? undrade Auster .</em>
-  * <tt><a href="sv_lines-pos-PART.html">PART</a></tt> 16: <em>Eftersom checken är i mitt namn <b>så</b> kan jag lösa in den åt er .</em>
-  * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 15: <em>På tal om resurser , ny teknik och talartid <b>så</b> är min tid ute .</em>
-  * <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 10: <em>i <b>så</b> fall har du mer eller mindre hunnit komma i ordning när hon kommer ner .</em>
-  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 8: <em>" Det kan jag inte , vi har inte <b>så</b> det räcker åt dem " , säger hon .</em>
 * <em>fast</em>
   * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 14: <em>Ändå håller han <b>fast</b> vid bägaren .</em>
   * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 8: <em>" Då ska jag ge er en smörgås , <b>fast</b> bara på ett villkor .</em>
   * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 6: <em>Och dessutom kommer jag att beordra statsåklagaren att inskrida <b>fast</b> jag helst inte hade velat det .</em>
   * <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 5: <em>De tycks betrakta sig själva som en <b>fast</b> och orubblig makt .</em>
+* <em>så</em>
+  * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 376: <em>Eftersom checken är i mitt namn <b>så</b> kan jag lösa in den åt er .</em>
+  * <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 10: <em>i <b>så</b> fall har du mer eller mindre hunnit komma i ordning när hon kommer ner .</em>
+  * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 9: <em>Hon hade varit mycket envis , <b>så</b> han hoppades att det gick bra .</em>
+  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 8: <em>" Det kan jag inte , vi har inte <b>så</b> det räcker åt dem " , säger hon .</em>
 * <em>som</em>
-  * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1239: <em>Identifiera filter <b>som</b> är igång</em>
+  * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 1238: <em>Identifiera filter <b>som</b> är igång</em>
   * <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> 436: <em>SQL Server måste köras på samma dator <b>som</b> Access-projektet .</em>
-  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 178: <em>Författare ? Quinn uttalade ordet <b>som</b> vore det en veklagan .</em>
+  * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 179: <em>Författare ? Quinn uttalade ordet <b>som</b> vore det en veklagan .</em>
   * <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> 9: <em>Man har undersökt såväl barn <b>som</b> anställda på elverk .</em>
 * <em>liksom</em>
   * <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> 7: <em>Den spred <b>liksom</b> ett ljus över allting omkring mig och över mina egna tankar .</em>
@@ -66,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>och</em> (<tt><a href="sv_lines-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.415109).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.415505).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 
@@ -79,27 +78,27 @@ The 3rd highest number of forms (1) was observed with the lemma “både”: <em
 `CCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (3943 tokens).
-Examples: <em>och, men, eller, utan, både, för, så, fast, samt, ty</em>
+The most frequent feature combination is `_` (3937 tokens).
+Examples: <em>och, men, eller, utan, både, för, fast, samt, så, ty</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (3893; 99% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (31; 1% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (12; 0% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (5; 0% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="sv_lines-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (3888; 99% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (31; 1% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (12; 0% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (5; 0% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="sv_lines-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1999; 51% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1128; 29% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (400; 10% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (133; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (125; 3% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (75; 2% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (35; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1994; 51% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1128; 29% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (400; 10% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (132; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (125; 3% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (75; 2% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (35; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
-3936 (100%) `CCONJ` nodes are leaves.
+3931 (100%) `CCONJ` nodes are leaves.
 
 8 (0%) `CCONJ` nodes have one child.
 
-4 (0%) `CCONJ` nodes have two children.
+3 (0%) `CCONJ` nodes have two children.
 
 1 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (11; 58% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (6; 32% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (2; 11% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (10; 59% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (6; 35% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (1; 6% instances)
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (11; 58% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (5; 26% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 5% instances)
+Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (10; 59% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (5; 29% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 6% instances)
 

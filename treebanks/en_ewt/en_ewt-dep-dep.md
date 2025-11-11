@@ -50,27 +50,27 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 18 dep	color:blue
-1	In	in	ADP	IN	_	3	case	3:case	_
+1	In	in	ADP	IN	_	3	case	3:case	MWECat=P|MWELemma=in this day|MWELen=3|PRel[config]=default|PRel[gov]=6:rare|PRel[obj]=3:day|Supersense=??
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	3:det	_
 3	day	day	NOUN	NN	Number=Sing	6	obl	6:obl:in	_
 4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	6:expl	_
-5	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	6	cop	6:cop	CorrectForm='s
+5	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	6	cop	6:cop	CorrectForm='s|Supersense=v.stative
 6	rare	rare	ADJ	JJ	Degree=Pos	0	root	0:root	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
-8	find	find	VERB	VB	VerbForm=Inf	6	csubj	6:csubj	_
+8	find	find	VERB	VB	VerbForm=Inf	6	csubj	6:csubj	Supersense=v.cognition
 9	such	such	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 10	wonderful	wonderful	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
-11	people	people	NOUN	NNS	Number=Plur	8	obj	8:obj|13:nsubj	_
+11	people	people	NOUN	NNS	Number=Plur	8	obj	8:obj|13:nsubj	Supersense=n.PERSON
 12	who	who	PRON	WP	PronType=Rel	13	nsubj	11:ref	_
-13	CARE	care	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Cxn=rc-wh-nsubj
+13	CARE	care	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Cxn=rc-wh-nsubj|Supersense=v.emotion
 14	,	,	PUNCT	,	_	17	punct	17:punct	_
 15	Not	not	PART	RB	Polarity=Neg	17	advmod	17:advmod	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
-17	kind	kind	NOUN	NN	Number=Sing	11	conj	11:conj|19:obl	_
-18	of	of	ADP	IN	_	17	dep	17:dep	_
-19	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	17:acl:relcl	Cxn=rc-red-obl
+17	kind	kind	NOUN	NN	Number=Sing	11	conj	11:conj|19:obl	Supersense=n.COGNITION
+18	of	of	ADP	IN	_	17	dep	17:dep	PRel[config]=default|PRel[gov]=17:kind|Supersense=p.Species
+19	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	17:acl:relcl	Cxn=rc-red-obl|Supersense=v.cognition
 20	to	to	PART	TO	_	21	mark	21:mark	_
-21	make	make	VERB	VB	VerbForm=Inf	19	xcomp	19:xcomp	_
+21	make	make	VERB	VB	VerbForm=Inf	19	xcomp	19:xcomp	MWECat=V.VID|MWELemma=make cash|MWELen=2|Supersense=v.possession
 22	cash	cash	NOUN	NN	Number=Sing	21	obj	21:obj	SpaceAfter=No
 23	.	.	PUNCT	.	_	6	punct	6:punct	_
 

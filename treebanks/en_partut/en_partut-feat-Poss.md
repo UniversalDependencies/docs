@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (640; 100% of non-empty `Poss`): <em>his, their, its, our, your, my, her</em>
-* `EMPTY` (4674): <em>the, a, this, an, any, these, no, all, such, that</em>
+* `EMPTY` (4676): <em>the, a, this, an, any, these, all, no, such, that</em>
 
 ### `PRON`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (8; 100% of non-empty `Poss`): <em>his, our, ours</em>
-* `EMPTY` (2039): <em>it, I, we, that, which, he, you, they, this, there</em>
+* `EMPTY` (2034): <em>it, I, we, that, which, he, you, they, this, there</em>
 

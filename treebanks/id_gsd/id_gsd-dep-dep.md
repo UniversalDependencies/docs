@@ -26,7 +26,7 @@ The following 41 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	kah	kah	PART	T--	_	1	advmod:emph	_	Morf=^kah<t>_T--$
 3	Ukasyah	ukasyah	PROPN	X--	_	5	nsubj	_	Morf=^ukasyah<x>_X--$
 4	juga	juga	ADV	D--	_	5	advmod	_	Morf=^juga<d>_D--$
-5	melihat	lihat	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+lihat<v>_VSA$
+5	melihat	lihat	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+lihat<v>_VSA$
 6	bahwa	bahwa	SCONJ	S--	_	7	mark	_	Morf=^bahwa<s>_S--$
 7	Rasulullah	rasulullah	PROPN	NSD	_	5	ccomp	_	Morf=^rasulullah<n>_NSD$
 8	saw	saw	PROPN	F--	_	7	flat:name	_	SpaceAfter=No|Morf=^saw<f>_F--$
@@ -34,7 +34,7 @@ The following 41 pairs of parts of speech are connected with `dep`: <tt><a href=
 10	saat	saat	NOUN	NSD	Number=Sing	13	obl	_	Morf=^saat<n>_NSD$
 11	itu	itu	DET	B--	PronType=Dem	10	det	_	Morf=^itu<b>_B--$
 12	sudah	sudah	AUX	VSA	_	13	aux	_	Morf=^sudah<v>_VSA$
-13	berusia	usia	VERB	VSA	Mood=Ind|Voice=Act	5	dep	_	Morf=^ber+usia<n>_VSA$
+13	berusia	usia	VERB	VSA	Voice=Act	5	dep	_	Morf=^ber+usia<n>_VSA$
 14	enam	enam	NUM	CC-	NumType=Card	17	nummod	_	Morf=^enam<c>_CC-$
 15	puluh	puluh	NUM	CC-	NumType=Card	14	nummod	_	Morf=^puluh<c>_CC-$
 16	tiga	tiga	NUM	CC-	NumType=Card	14	nummod	_	Morf=^tiga<c>_CC-$
@@ -58,7 +58,7 @@ The following 41 pairs of parts of speech are connected with `dep`: <tt><a href=
 6	pada	pada	ADP	R--	_	7	case	_	Morf=^pada<r>_R--$
 7	bagian	bagi	NOUN	NSD	Number=Sing	9	obl	_	Morf=^bagi<v>+an_NSD$
 8	header-nya	headernya	NOUN	X--	_	7	compound	_	Morf=^headernya<x>_X--$
-9	dikasih	kasih	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+kasih<n>_VSP$
+9	dikasih	kasih	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+kasih<n>_VSP$
 10	ikon	ikon	NOUN	X--	_	9	nsubj:pass	_	Morf=^ikon<x>_X--$
 11	bagimana	bagimana	ADV	X--	_	9	advmod	_	SpaceAfter=No|Morf=^bagimana<x>_X--$
 12	?	?	PUNCT	Z--	_	9	punct	_	SpaceAfter=No|Morf=^?<z>_Z--$
@@ -79,7 +79,7 @@ The following 41 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	XAU	xau	PROPN	X--	_	0	root	_	SpaceAfter=No|Morf=^xau<x>_X--$
 5	.	.	PUNCT	Z--	_	4	punct	_	Morf=^.<z>_Z--$
 6	Emas	emas	PROPN	NSD	_	7	nsubj	_	Morf=^emas<n>_NSD$
-7	melebur	lebur	VERB	VSA	Mood=Ind|Voice=Act	4	dep	_	Morf=^meN+lebur<v>_VSA$
+7	melebur	lebur	VERB	VSA	Voice=Act	4	dep	_	Morf=^meN+lebur<v>_VSA$
 8	dalam	dalam	ADP	ASP	_	9	case	_	Morf=^dalam<a>_ASP$
 9	bentuk	bentuk	NOUN	NSD	Number=Sing	7	obl	_	Morf=^bentuk<n>_NSD$
 10	cair	cair	ADJ	ASP	_	9	amod	_	Morf=^cair<a>_ASP$

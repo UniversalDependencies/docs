@@ -59,11 +59,11 @@ The 2nd highest number of forms (4) was observed with the lemma “bajo”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “británico”: <em>británica, británicas, británico, británicos</em>.
 
-`ADJ` occurs with 6 features: <tt><a href="es_pud-feat-Number.html">Number</a></tt> (1472; 99% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (1452; 98% instances), <tt><a href="es_pud-feat-Degree.html">Degree</a></tt> (39; 3% instances), <tt><a href="es_pud-feat-Hyph.html">Hyph</a></tt> (4; 0% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (3; 0% instances), <tt><a href="es_pud-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
+`ADJ` occurs with 7 features: <tt><a href="es_pud-feat-Number.html">Number</a></tt> (1472; 99% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (1452; 98% instances), <tt><a href="es_pud-feat-Degree.html">Degree</a></tt> (39; 3% instances), <tt><a href="es_pud-feat-Hyph.html">Hyph</a></tt> (4; 0% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (3; 0% instances), <tt><a href="es_pud-feat-Abbr.html">Abbr</a></tt> (1; 0% instances), <tt><a href="es_pud-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 11 feature-value pairs: `Abbr=Yes`, `Degree=Abs`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Number=Plur`, `Number=Sing`
+`ADJ` occurs with 12 feature-value pairs: `Abbr=Yes`, `Degree=Abs`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADV`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Hyph=Yes`, `Number=Plur`, `Number=Sing`
 
-`ADJ` occurs with 18 feature combinations.
+`ADJ` occurs with 19 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (553 tokens).
 Examples: <em>gran, primer, nacional, Unido, mismo, nuevo, I, San, claro, increíble</em>
 

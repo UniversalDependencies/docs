@@ -68,11 +68,11 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 44	huise	huis	NOUN	NSM	Number=Plur	55	obl	_	SpaceAfter=No
 45	,	,	PUNCT	ZM	_	44	punct	_	_
 46	op	op	ADP	SVS	AdpType=Prep	47	case	_	_
-47	straat	straat	NOUN	NSE	Number=Sing	44	obl	_	_
+47	straat	straat	NOUN	NSE	Number=Sing	44	conj	_	_
 48	en	en	CCONJ	KN	_	51	cc	_	_
 49	op	op	ADP	SVS	AdpType=Prep	51	case	_	_
 50	die	die	DET	LB	Definite=Def|PronType=Art	51	det	_	_
-51	pad	pad	NOUN	NSE	Number=Sing	46	conj	_	_
+51	pad	pad	NOUN	NSE	Number=Sing	44	conj	_	_
 52	in	in	ADP	SVS	AdpType=Prep	54	case	_	_
 53	voortdurende	voortdurend	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	54	amod	_	_
 54	angs	angs	NOUN	NA	Number=Sing	55	obl	_	_

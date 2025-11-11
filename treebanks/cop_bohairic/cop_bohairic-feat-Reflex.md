@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (8; 100% of non-empty `Reflex`): ⲙⲙⲓⲛⲙⲙⲟ
-* `EMPTY` (5026): ⲛⲟⲩϯ, ⲣⲏϯ, ⲣⲱⲙⲓ, ⲙⲏϣ, ⲧⲏⲣ, ⲓⲱⲧ, ϩⲏⲧ, ⲙⲁ, ⲁⲡⲁ, ⲥⲁϫⲓ
+* `EMPTY` (5028): ⲛⲟⲩϯ, ⲣⲏϯ, ⲣⲱⲙⲓ, ⲙⲏϣ, ⲧⲏⲣ, ⲓⲱⲧ, ϩⲏⲧ, ⲙⲁ, ⲁⲡⲁ, ⲥⲁϫⲓ
 

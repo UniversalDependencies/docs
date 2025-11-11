@@ -23,7 +23,7 @@ The following 52 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 5 parataxis	color:blue
 1	"	"	PUNCT	fe	PunctType=Quot	7	punct	7:punct	SpaceAfter=No
-2	No	no	PART	rg	_	7	cc	7:cc	MWE=No_sólo|MWEPOS=ADV
+2	No	no	PART	rg	ExtPos=CCONJ	7	cc	7:cc	MWE=No_sólo|MWEPOS=ADV
 3	sólo	sólo	ADV	_	_	2	fixed	2:fixed	_
 4	nos	yo	PRON	pp1cp000	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obl:arg	5:obl:arg	ArgTem=arg1:pat|Entity=(CESSCASTP2002080117c5-organization-1-CorefType:ident,gstype:spec)
 5	insultan	insultar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	7:parataxis	SpaceAfter=No

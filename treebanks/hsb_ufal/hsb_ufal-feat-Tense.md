@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-995 tokens (9%) have a non-empty value of `Tense`.
-500 types (12%) occur at least once with a non-empty value of `Tense`.
-317 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (686; 6% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (276; 2% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (33; 0% instances).
+990 tokens (9%) have a non-empty value of `Tense`.
+499 types (12%) occur at least once with a non-empty value of `Tense`.
+316 lemmas (10%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (682; 6% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (275; 2% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt> (33; 0% instances).
 
 ### `VERB`
 
-686 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
+682 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (630; 92%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (629; 92%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (595; 87%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (431; 63%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (626; 92%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (626; 92%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (591; 87%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (428; 63%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (4; 1% of non-empty `Tense`): <em>budźe, budu</em>
-* `Past` (242; 35% of non-empty `Tense`): <em>běchu, móžachu, wužiwachu, bě, mjenowachu, měješe, naby, pisachu, skónči, wjedźechu</em>
-* `Pres` (440; 64% of non-empty `Tense`): <em>ma, leži, móže, wobsahuje, móžeš, su, maja, rěči, dyrbi, wužiwa</em>
+* `Past` (240; 35% of non-empty `Tense`): <em>běchu, móžachu, wužiwachu, bě, mjenowachu, naby, pisachu, skónči, wjedźechu, załoži</em>
+* `Pres` (438; 64% of non-empty `Tense`): <em>ma, leži, móže, wobsahuje, móžeš, su, maja, rěči, dyrbi, wužiwa</em>
 * `EMPTY` (136): <em>hlej, nastać, měć, pisać, přełožować, wobkedźbować, čitać, Pomhaj, dać, definować</em>
 
 <table>
@@ -38,15 +38,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-276 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Tense`.
+275 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (274; 99%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (274; 99%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (272; 99%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (232; 84%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 64%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hsb_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (273; 99%), <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (273; 99%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (271; 99%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (231; 84%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (176; 64%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (2; 1% of non-empty `Tense`): <em>budu, budźe</em>
-* `Past` (80; 29% of non-empty `Tense`): <em>bu, bě, buchu, běchu, buštej, běštej, był, była, njebuchu</em>
-* `Pres` (194; 70% of non-empty `Tense`): <em>je, su, njeje, njejsu, stej, sy, njesu, staj</em>
+* `Past` (79; 29% of non-empty `Tense`): <em>bu, bě, buchu, běchu, buštej, běštej, był, była, njebuchu</em>
+* `Pres` (194; 71% of non-empty `Tense`): <em>je, su, njeje, njejsu, stej, sy, njesu, staj</em>
 * `EMPTY` (13): <em>by, bychu, być, buchu</em>
 
 <table>
@@ -74,7 +74,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (11; 33% of non-empty `Tense`): <em>wušłe, Bywša, Namakane, potrjechena, potrjechene, redukowane, rozdźělene, rozpušćenej, rozpušćeno, wobdate</em>
 * `Pres` (22; 67% of non-empty `Tense`): <em>přiběracu, Přiběrace, Rozrostowace, Slědowace, běžace, dalokosahace, ekspandowaceho, florěrowace, měnjace, namjetowaceho</em>
-* `EMPTY` (1388): <em>serbski, druhe, druhich, najwjetše, prěni, prěnje, serbskeje, Serbskeho, wulke, wulki</em>
+* `EMPTY` (1386): <em>serbski, druhe, druhich, najwjetše, prěni, prěnje, serbskeje, Serbskeho, wulki, ablawtowych</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (25) occur only with one value of `Tense`.
 

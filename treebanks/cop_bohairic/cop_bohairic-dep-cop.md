@@ -28,7 +28,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
 5	ⲡⲓ	ⲡⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Entity=(time
 6	ⲥⲁⲃⲃⲁⲧⲟⲛ	ⲥⲁⲃⲃⲁⲧⲟⲛ	NOUN	N	Foreign=Yes	3	nmod	_	Entity=time)person)|OrigLang=heb
-7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	3	cop	_	_
+7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
 8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(person
 9	ϣⲏⲣⲓ	ϣⲏⲣⲓ	NOUN	N	_	3	nsubj	_	_
 10	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_
@@ -54,12 +54,12 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 7	ⲣⲓⲣ	ⲣⲓⲣ	NOUN	N	_	4	nmod	_	Entity=animal)
 8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 9	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-10	ⲟϣ	ⲁϣⲁⲓ	VERB	VSTAT	VerbForm=Fin	4	acl:relcl	_	_
+10	ⲟϣ	ⲁϣⲁⲓ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	4	acl:relcl	_	_
 11	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	10	advmod	_	_
-12	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
+12	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	_
 13	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
 14	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	ⲙⲟⲛⲓ	ⲙⲟⲛⲓ	VERB	V	VerbForm=Fin	4	acl:relcl	_	_
+15	ⲙⲟⲛⲓ	ⲙⲟⲛⲓ	VERB	V	Mood=Ind|VerbForm=Fin	4	acl:relcl	_	_
 16	ϧⲁⲧⲉⲛ	ϧⲁⲧⲉⲛ	ADP	PREP	_	18	case	_	_
 17	ⲡⲓ	ⲡⲓ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(place
 18	ⲧⲱⲟⲩ	ⲧⲱⲟⲩ	NOUN	N	_	15	obl	_	Entity=place)
@@ -76,13 +76,13 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	ⲧⲟⲧⲉ	ⲧⲟⲧⲉ	ADV	ADV	Foreign=Yes	4	advmod	_	OrigLang=grc
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲉⲣⲟⲩⲱ	ⲉⲣⲟⲩⲱ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ⲉⲣ-ⲟⲩⲱ
-5	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	4	parataxis	_	_
+4	ⲉⲣⲟⲩⲱ	ⲉⲣⲟⲩⲱ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ⲉⲣ-ⲟⲩⲱ
+5	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	4	parataxis	_	_
 6	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	8	mark	_	_
 8	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	5	ccomp	_	_
-9	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	8	cop	_	_
-10	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	8	nsubj	_	OrigLang=heb
+9	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	8	cop	_	_
+10	ⲓⲥⲁⲁⲕ	ⲓⲥⲁⲁⲕ	PROPN	NPROP	Foreign=Yes	8	nsubj	_	Entity=(person)|OrigLang=heb
 11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

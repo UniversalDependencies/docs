@@ -29,7 +29,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	туриясӧн	тури	NOUN	N	Case=Ins|Number=Plur	6	obl:agent	_	GTtags=Pl,Ins
 6	вайӧм	вайны	VERB	V	VerbForm=Vnoun	7	acl:relcl	_	GTtags=TV,Der,Der/ӧм,PastPtc
 7	шудсӧ	шуд	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Acc,PxSg3
-8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Pl1
+8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,Pl1
 9	ас	ас	PRON	Pron	Case=Nom|Number=Sing	10	det	_	GTtags=Sg,Nom
 10	ног	ног	NOUN	N	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	8	punct	_	_
@@ -55,9 +55,9 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 10	медым	медым	SCONJ	CS	_	14	mark	_	_
 11	му	му	NOUN	N	Case=Nom|Number=Sing	14	obl	_	_
 12	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	11	case	_	_
-13	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	14	aux	_	_
+13	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	14	aux	_	_
 14	коль	кольны	VERB	V	Connegative=Yes	7	acl:relcl	_	_
-15	ниӧти	ниӧти	PRON	Pro	Case=Nom|Number=Sing|Polarity=Neg	16	det	_	_
+15	ниӧти	ниӧти	DET	Det	Case=Nom|Number=Sing|Polarity=Neg|PronType=Ind	16	det	_	_
 16	шеп	шеп	NOUN	N	Case=Nom|Number=Sing	14	nsubj	_	SpaceAfter=No
 17	,	,	PUNCT	CLB	_	21	punct	_	_
 18	быдӧнлы	быдӧн	PRON	Pron	Case=Dat|Number=Sing|PronType=Tot	21	obl	_	_
@@ -69,12 +69,12 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 24	быд	быд	PRON	Pron	PronType=Tot	25	det	_	_
 25	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	27	nsubj	_	_
 26	шеп	шеп	NOUN	N	Case=Nom|Number=Sing	25	compound	_	_
-27	сьӧктаммӧдӧ	сьӧктаммӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	acl:relcl	_	_
+27	сьӧктаммӧдӧ	сьӧктаммӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 28	колхозниклысь	колхозник	NOUN	N	Case=Abl|Number=Sing	29	nmod	_	OrigLang=ru
 29	трудоденьсӧ	трудодень	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	27	obj	_	OrigLang=ru|SpaceAfter=No
 30	,	,	PUNCT	CLB	_	32	punct	_	_
 31	унджык	унджык	ADV	Adv	_	32	advmod	_	_
-32	воӧ	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	conj	_	_
+32	воӧ	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
 33	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	32	nsubj	_	_
 34	трудодень	трудодень	NOUN	N	Case=Nom|Number=Sing	32	obl	_	OrigLang=ru
 35	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
@@ -93,7 +93,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 2	жӧ	жӧ	ADV	Adv	_	1	advmod	_	_
 3	книгаас	книга	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
 4	ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-5	висьталам	висьтавны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
+5	висьталам	висьтавны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	сӧмын	сӧмын	ADV	Adv	_	5	advmod	_	_
 7	нёль	нёль	NUM	Num	Case=Nom|Number=Sing|NumType=Card	11	nummod	_	_
 8	самӧй	самӧй	PART	Pcle	_	9	advmod:deg	_	_
@@ -109,7 +109,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 18	война	война	NOUN	N	Case=Nom|Number=Sing	19	nmod	_	_
 19	лунъясын	лун	NOUN	N	Case=Ine|Number=Plur	15	appos	_	SpaceAfter=No
 20	,	,	PUNCT	CLB	_	22	punct	_	_
-21	вӧвліны	вӧвлыны	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	22	cop	_	_
+21	вӧвліны	вӧвлыны	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	_
 22	фронт	фронт	NOUN	N	Case=Nom|Number=Sing	11	acl:relcl	_	_
 23	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	22	case	_	_
 24	Климент	Климент	PROPN	N	Case=Nom|Number=Sing	22	obl	_	_

@@ -76,7 +76,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Neg` (4; 3% of non-empty `PronType`): <em>never, nowhere</em>
 * `Rel` (20; 16% of non-empty `PronType`): <em>where, when, why, whenever</em>
 * `Tot` (6; 5% of non-empty `PronType`): <em>always</em>
-* `EMPTY` (691): <em>also, so, only, more, however, well, most, as, about, just</em>
+* `EMPTY` (688): <em>also, so, only, more, however, well, most, as, about, just</em>
 
 <table>
   <tr><th>Paradigm <i>when</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

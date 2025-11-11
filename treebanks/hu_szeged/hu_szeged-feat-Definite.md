@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `2` are language-specific.
 It occurs with 3 different values: `2`, `Def`, `Ind`.
 
-8683 tokens (21%) have a non-empty value of `Definite`.
-2078 types (15%) occur at least once with a non-empty value of `Definite`.
+8684 tokens (21%) have a non-empty value of `Definite`.
+2079 types (15%) occur at least once with a non-empty value of `Definite`.
 1146 lemmas (13%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (5160; 12% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3322; 8% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (201; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (5161; 12% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (3322; 8% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (201; 0% instances).
 
 ### `DET`
 
-5160 <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Definite`.
+5161 <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4936; 96%).
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (4870; 94% of non-empty `Definite`): <em>a, az, egyik, saját, mindkét, milyen, mindhárom, semmiféle, valamennyi</em>
-* `Ind` (290; 6% of non-empty `Definite`): <em>egy, több, minden, néhány, sok, más, másik, többek, semmi, kevesebb</em>
-* `EMPTY` (115): <em>ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</em>
+* `Ind` (291; 6% of non-empty `Definite`): <em>egy, több, minden, néhány, sok, más, másik, semmi, többek, kevesebb</em>
+* `EMPTY` (118): <em>ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</em>
 
 <table>
   <tr><th>Paradigm <i>milyen</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -82,10 +82,10 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>VERB --[<tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (135; 53%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (28; 76%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (25; 54%),
-<tt>VERB --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> DET</tt> (5; 63%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-obj.html">obj</a></tt>]--> DET</tt> (4; 80%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 100%),
 <tt>DET --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt>]--> DET</tt> (1; 100%).
+<tt>VERB --[<tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt>]--> DET</tt> (1; 100%),
+<tt>VERB --[<tt><a href="hu_szeged-dep-ccomp-obl.html">ccomp:obl</a></tt>]--> AUX</tt> (1; 100%).
 

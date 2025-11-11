@@ -62,9 +62,9 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
-1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:45->46:0:sem-atsrc-336|Entity=(31-person-giv:inact-nnnnn-cf2-1-ana)
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:45->46:0:sem-atsrc-336-gold|Entity=(31-person-giv:inact-nnnnn-cf2-1-ana)
 2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	that	that	SCONJ	IN	_	6	mark	6:mark	Discourse=explanation-evidence:46->51:1:dm-therefore-358
+3	that	that	SCONJ	IN	_	6	mark	6:mark	Discourse=explanation-evidence:46->51:1:dm-therefore-358-_
 4	AC	AC	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	Entity=(5-abstract-giv:inact-nsnnn-cf3-1-coref)
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	incommensurable	incommensurable	ADJ	JJ	Degree=Pos	2	ccomp	2:ccomp	MSeg=in-commensur-able|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Incommensurable_in_Length">

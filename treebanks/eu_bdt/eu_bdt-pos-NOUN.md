@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `NOUN`
 
-There are 4700 `NOUN` lemmas (40%), 10822 `NOUN` types (43%) and 29713 `NOUN` tokens (24%).
+There are 4700 `NOUN` lemmas (40%), 10821 `NOUN` types (43%) and 29713 `NOUN` tokens (24%).
 Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>talde, urte, behar, nahi, partidu, herri, lan, egun, jokalari, gobernu</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>behar</em> (<tt><a href="eu_bdt-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.302553 (the average of all parts of speech is 2.170132).
+The form / lemma ratio of `NOUN` is 2.302340 (the average of all parts of speech is 2.170046).
 
 The 1st highest number of forms (29) was observed with the lemma “talde”: <em>Taldez, talde, taldea, taldeak, taldean, taldearekin, taldearen, taldearengan, taldeari, taldeei, taldeek, taldeen, taldeetako, taldeetan, taldeetara, taldeetatik, taldeez, taldek, taldeko, taldekoa, taldekoek, taldeok, taldera, talderako, talderen, talderik, taldetan, taldetik, taldetzat</em>.
 

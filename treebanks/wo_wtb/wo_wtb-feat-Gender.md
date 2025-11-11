@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-70 tokens (0%) have a non-empty value of `Gender`.
+79 tokens (0%) have a non-empty value of `Gender`.
 61 types (1%) occur at least once with a non-empty value of `Gender`.
-59 lemmas (1%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 4 part-of-speech tags: <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (51; 0% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="wo_wtb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+60 lemmas (1%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 4 part-of-speech tags: <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (51; 0% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="wo_wtb-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -30,18 +30,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-10 <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Gender`.
+19 <tt><a href="wo_wtb-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="wo_wtb-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 90%), <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 90%), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (9; 90%), <tt><a href="wo_wtb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (8; 80%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="wo_wtb-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="wo_wtb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (18; 95%), <tt><a href="wo_wtb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (17; 89%), <tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 89%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (5; 50% of non-empty `Gender`): <em>l', les, sa</em>
-* `Masc` (5; 50% of non-empty `Gender`): <em>le, un</em>
-* `EMPTY` (3145): <em>yi, bi, ay, ag, gi, mi, seen, ab, wi, i</em>
+* `Fem` (5; 26% of non-empty `Gender`): <em>l', les, sa</em>
+* `Masc` (14; 74% of non-empty `Gender`): <em>le, les, un</em>
+* `EMPTY` (3136): <em>yi, bi, ay, ag, gi, mi, seen, ab, wi, i</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="wo_wtb-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Le</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>le</em></td><td><em>l'</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>les</em></td></tr>
 </table>
@@ -71,7 +72,5 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="wo_wtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 89%),
-<tt>NOUN --[<tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7; 70%),
-<tt>DET --[<tt><a href="wo_wtb-dep-flat.html">flat</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>DET --[<tt><a href="wo_wtb-dep-flat.html">flat</a></tt>]--> ADP</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="wo_wtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (7; 70%).
 

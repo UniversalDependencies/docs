@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2004 nodes (4%) are attached to their parents as `amod`.
+1991 nodes (4%) are attached to their parents as `amod`.
 
-1279 instances of `amod` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40369261477046.
+1272 instances of `amod` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39377197388247.
 
-The following 13 pairs of parts of speech are connected with `amod`: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1821; 91% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (87; 4% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (22; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (18; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1818; 91% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (88; 4% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,21 +57,27 @@ The following 13 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 amod	color:blue
-1	Dantes	dantes	PROPN	Sms3n	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Sing	0	root	_	_
-2	Alagherii	alagherius	PROPN	Sms2g	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Sur|Number=Sing	1	nmod	_	_
-3	florentinus	florentinus	ADJ	ams1n	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	1	appos	_	_
-4	et	et	CCONJ	co	_	5	cc	_	_
-5	exul	exul	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	3	conj	_	_
-6	inmeritus	immeritus	ADJ	ams1n	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|Polarity=Neg	5	amod	_	_
-7	scelestissimis	scelestus	ADJ	amp1ds	Case=Dat|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Plur	8	amod	_	_
-8	Florentinis	florentinus	ADJ	Smp2d	Case=Dat|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	1	orphan	_	_
-9	intrinsecis	intrinsecus	ADJ	amp1d	Case=Dat|Compound=Yes|Gender=Masc|InflClass=IndEurO|Number=Plur	8	amod	_	SpaceAfter=No
-10	.	.	PUNCT	Pu	_	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 amod	color:blue
+1	Qua	qui	PRON	r	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	2	det	_	_
+2	re	res	NOUN	r	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Sing	15	obl	_	_
+3	,	,	PUNCT	Pu	_	7	punct	_	_
+4	si	si	SCONJ	cs	_	7	mark	_	_
+5	latium	latius	ADJ	ans1a	Case=Acc|Gender=Neut|InflClass=IndEurO|NameType=Geo|Number=Sing	7	obj	_	_
+6	illustre	illustris	ADJ	ans2a	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	5	amod	_	_
+7	venamur	uenor	VERB	vd1ipp1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	15	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+8	,	,	PUNCT	Pu	_	7	punct	_	_
+9	quod	qui	PRON	presna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	10	obj	_	_
+10	venamur	uenor	VERB	vd1ipp1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	13	csubj:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+11	in	in	ADP	e	_	12	case	_	_
+12	illis	ille	DET	ddipfb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Dem	13	obl	_	_
+13	inveniri	inuenio	VERB	vp4fp	Aspect=Imp|InflClass=LatI|VerbForm=Inf|Voice=Pass	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	non	non	PART	r	Polarity=Neg	15	advmod:neg	_	_
+15	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+16	.	.	PUNCT	Pu	_	15	punct	_	_
 
 ~~~
 

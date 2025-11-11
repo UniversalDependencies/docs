@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-50186 <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> tokens (31% of all `ADV` tokens) have a non-empty value of `Degree`.
+50186 <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> tokens (30% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (50186; 100%), <tt><a href="cs_pdtc-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (48760; 97%).
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (8164; 16% of non-empty `Degree`): <em>více, méně, víc, později, dříve, lépe, dřív, výše, dál, níže</em>
 * `Pos` (40223; 80% of non-empty `Degree`): <em>stále, dobře, často, dost, dlouho, stejně, doma, přibližně, úplně, rychle</em>
 * `Sup` (1799; 4% of non-empty `Degree`): <em>nejvíce, nejméně, nejvíc, nejdříve, nejlépe, nejdřív, nejčastěji, nejpozději, nejraději, nejrychleji</em>
-* `EMPTY` (113521): <em>tam, už, tak, jak, kde, pak, kdy, ještě, včera, potom</em>
+* `EMPTY` (115007): <em>tam, už, tak, jak, kde, pak, kdy, ještě, včera, potom</em>
 
 <table>
   <tr><th>Paradigm <i>často</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -127,5 +127,5 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-dep.html">dep</a></tt>]--> ADJ</tt> (125; 62%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (122; 84%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-obl-arg.html">obl:arg</a></tt>]--> ADJ</tt> (115; 81%),
-<tt>ADJ --[<tt><a href="cs_pdtc-dep-advcl-pred.html">advcl:pred</a></tt>]--> ADJ</tt> (68; 84%).
+<tt>ADJ --[<tt><a href="cs_pdtc-dep-advcl-pred.html">advcl:pred</a></tt>]--> ADJ</tt> (85; 82%).
 

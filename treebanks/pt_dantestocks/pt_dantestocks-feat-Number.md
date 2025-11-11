@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-28457 tokens (35%) have a non-empty value of `Number`.
-5115 types (47%) occur at least once with a non-empty value of `Number`.
-2753 lemmas (31%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (11960; 15% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (6673; 8% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (4973; 6% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (2825; 3% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (1248; 2% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (751; 1% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+28456 tokens (35%) have a non-empty value of `Number`.
+5116 types (47%) occur at least once with a non-empty value of `Number`.
+2754 lemmas (31%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (11960; 15% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (6672; 8% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (4973; 6% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (2825; 3% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (1248; 2% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (751; 1% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -33,14 +33,14 @@ The feature is used with 9 part-of-speech tags: <tt><a href="pt_dantestocks-pos-
 
 ### `DET`
 
-6673 <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+6672 <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5898; 88%), <tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5516; 83%), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3800; 57%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5897; 88%), <tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5515; 83%), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3799; 57%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (964; 14% of non-empty `Number`): <em>os, as, quais, suas, minhas, outros, outras, seus, algumas, alguns</em>
-* `Sing` (5709; 86% of non-empty `Number`): <em>a, o, uma, um, sua, essa, esse, esta, este, seu</em>
+* `Sing` (5708; 86% of non-empty `Number`): <em>a, o, uma, um, sua, essa, esse, esta, este, seu</em>
 * `EMPTY` (49): <em>que, mais, menos, q</em>
 
 <table>
@@ -57,7 +57,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 4973 <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pt_dantestocks-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4484; 90%), <tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt> (3932; 79%), <tt><a href="pt_dantestocks-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3299; 66%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pt_dantestocks-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4483; 90%), <tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt> (3932; 79%), <tt><a href="pt_dantestocks-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3299; 66%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -146,8 +146,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
-  <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
 </table>
 
@@ -159,7 +159,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (3; 15% of non-empty `Number`): <em>as</em>
 * `Sing` (17; 85% of non-empty `Number`): <em>a</em>
-* `EMPTY` (8739): <em>de, em, a, com, para, por, c/, pra, sobre, até</em>
+* `EMPTY` (8740): <em>de, em, a, com, para, por, c/, pra, sobre, até</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -184,7 +184,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 `NUM` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>uma</em>
-* `EMPTY` (5020): <em>13, 5, 3, 10, 15, 2, 1, 4, 31/12/2013, 6</em>
+* `EMPTY` (5022): <em>13, 5, 3, 10, 15, 2, 1, 4, 31/12/2013, 6</em>
 
 ## Relations with Agreement in `Number`
 
@@ -192,8 +192,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="pt_dantestocks-dep-det.html">det</a></tt>]--> DET</tt> (4449; 98%),
 <tt>NOUN --[<tt><a href="pt_dantestocks-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2260; 96%),
 <tt>NOUN --[<tt><a href="pt_dantestocks-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1834; 64%),
-<tt>VERB --[<tt><a href="pt_dantestocks-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1075; 56%),
-<tt>VERB --[<tt><a href="pt_dantestocks-dep-obl.html">obl</a></tt>]--> NOUN</tt> (835; 56%),
+<tt>VERB --[<tt><a href="pt_dantestocks-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1072; 56%),
+<tt>VERB --[<tt><a href="pt_dantestocks-dep-obl.html">obl</a></tt>]--> NOUN</tt> (837; 56%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (738; 85%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (608; 66%),
 <tt>VERB --[<tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (472; 68%),

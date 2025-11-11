@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Georg Rehm, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Michael Mandl, Sebastian Bank, Martin Popel, Daniel Zeman.
 
 Repository: [UD_German-PUD](https://github.com/UniversalDependencies/UD_German-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 3.0
 
@@ -157,7 +157,6 @@ employ ten-fold cross-validation.
   <li>Fin
   <ul>
     <li>AUX: war</li>
-    <li>VERB: bleiben</li>
   </ul>
   </li>
 </ul>
@@ -357,7 +356,7 @@ employ ten-fold cross-validation.
   <li>Pos
     <ul>
       <li>ADJ: ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</li>
-      <li>ADV: auch, so, noch, nur, sehr, jedoch, immer, mehr, wieder, dann</li>
+      <li>ADV: auch, so, noch, nur, sehr, wieder, jedoch, immer, mehr, zurück</li>
     </ul>
   </li>
 </ul>
@@ -769,7 +768,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Nom (538)</li>
       <li>VERB--PRON-Nom (445)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>

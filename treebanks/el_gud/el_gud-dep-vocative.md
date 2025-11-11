@@ -22,19 +22,19 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 vocative	color:blue
-1	«	«	PUNCT	OPUNCT	_	9	punct	_	PunctType=Quot
-2	Αλήθεια	αλήθεια	ADV	AdBa	_	9	discourse	_	_
-3	,	,	PUNCT	PUNCT	_	5	punct	_	PunctType=Comm
-4	ρε	ρε	INTJ	Ij	_	5	discourse	_	_
-5	μαμά	μαμά	NOUN	NoCm	Case=Voc|Gender=Fem|Number=Sing	9	vocative	_	_
-6	,	,	PUNCT	PUNCT	_	5	punct	_	PunctType=Comm
-7	τι	τι	ADV	PnIr	_	9	advmod	_	_
-8	τα	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
-9	ήθελες	θέλω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-10	τα	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
-11	ορεκτικά	ορεκτικός	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
-12	;	;	PUNCT	PTERM	_	9	punct	_	PunctType=Qest
-13	»	»	PUNCT	CPUNCT	_	9	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot
+2	Αλήθεια	αλήθεια	ADV	_	_	9	discourse	_	_
+3	,	,	PUNCT	_	_	5	punct	_	PunctType=Comm
+4	ρε	ρε	INTJ	_	_	5	discourse	_	_
+5	μαμά	μαμά	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	9	vocative	_	_
+6	,	,	PUNCT	_	_	5	punct	_	PunctType=Comm
+7	τι	τι	ADV	_	_	9	advmod	_	_
+8	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	9	expl	_	_
+9	ήθελες	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
+11	ορεκτικά	ορεκτικός	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+12	;	;	PUNCT	_	_	9	punct	_	PunctType=Qest
+13	»	»	PUNCT	_	_	9	punct	_	PunctType=Quot
 
 ~~~
 
@@ -45,16 +45,16 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 vocative	color:blue
-1	«	«	PUNCT	OPUNCT	_	3	punct	_	PunctType=Quot
-2	Τι	τι	PRON	PnIr	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
-3	λέει	λέω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	παροιμία	παροιμία	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-6	,	,	PUNCT	PUNCT	_	8	punct	_	PunctType=Comm
-7	κυρία	κύριος	ADJ	NoCm	Case=Voc|Gender=Fem|Number=Sing	8	amod	_	_
-8	Αδριανή	Αδριανή	PROPN	NoPr	Case=Voc|Gender=Fem|Number=Sing	3	vocative	_	_
-9	;	;	PUNCT	PTERM	_	3	punct	_	PunctType=Qest
-10	»	»	PUNCT	CPUNCT	_	3	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	3	punct	_	PunctType=Quot
+2	Τι	τι	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
+3	λέει	λέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	παροιμία	παροιμία	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	PunctType=Comm
+7	κυρία	κύριος	ADJ	_	Case=Voc|Gender=Fem|Number=Sing	8	amod	_	_
+8	Αδριανή	Αδριανή	PROPN	_	Case=Voc|Gender=Fem|Number=Sing	3	vocative	_	_
+9	;	;	PUNCT	_	_	3	punct	_	PunctType=Qest
+10	»	»	PUNCT	_	_	3	punct	_	PunctType=Quot
 
 ~~~
 
@@ -65,16 +65,16 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 vocative	color:blue
-1	«	«	PUNCT	OPUNCT	_	4	punct	_	PunctType=Quot
-2	Από	από	ADP	AsPpSp	_	4	case	_	_
-3	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	κέντρο	κέντρο	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
-5	επιχειρήσεων	επιχείρηση	NOUN	NoCm	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
-6	,	,	PUNCT	PUNCT	_	8	punct	_	PunctType=Comm
-7	κύριε	κύριος	ADJ	NoCm	Case=Voc|Gender=Masc|Number=Sing	8	amod	_	_
-8	αστυνόμε	αστυνόμος	NOUN	NoPr	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
-9	»	»	PUNCT	CPUNCT	_	4	punct	_	PunctType=Quot|SpaceAfter=No
-10	.	.	PUNCT	PTERMP	_	4	punct	_	PunctType=Peri
+1	«	«	PUNCT	_	_	4	punct	_	PunctType=Quot
+2	Από	από	ADP	_	_	4	case	_	_
+3	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	κέντρο	κέντρο	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+5	επιχειρήσεων	επιχείρηση	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+6	,	,	PUNCT	_	_	8	punct	_	PunctType=Comm
+7	κύριε	κύριος	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	8	amod	_	_
+8	αστυνόμε	αστυνόμος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
+9	»	»	PUNCT	_	_	4	punct	_	PunctType=Quot|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	PunctType=Peri
 
 ~~~
 

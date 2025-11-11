@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Magali Sanches Duran, Lucelene Lopes, Maria das Graças Volpe Nunes, Thiago Alexandre Salgueiro Pardo.
 
 Repository: [UD_Portuguese-Porttinari](https://github.com/UniversalDependencies/UD_Portuguese-Porttinari)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_porttinari216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_porttinari217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY 4.0
 
@@ -179,9 +179,9 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: passado, passada, errado, premiada, preso, aberta, privado, aberto, elevada, presos</li>
+    <li>ADJ: passado, passada, errado, premiada, preso, privado, aberta, morto, presos, aberto</li>
     <li>AUX: sido</li>
-    <li>VERB: feito, feita, devido, feitas, usado, visto, apresentado, chamado, conhecido, preso</li>
+    <li>VERB: feito, feita, devido, feitas, usado, preso, visto, apresentado, chamado, recebido</li>
   </ul>
   </li>
 </ul>
@@ -196,11 +196,11 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: primeira, nova, brasileira, segunda, muitas, última, política, boa, novas, pública</li>
-      <li>ADJ-Part: passada, premiada, aberta, elevada, privadas, adequada, conhecida, fechada, premiadas, privada</li>
+      <li>ADJ: primeira, nova, brasileira, muitas, última, segunda, política, boa, novas, pública</li>
+      <li>ADJ-Part: passada, premiada, aberta, elevada, iniciada, privadas, adequada, conhecida, destinada, fechada</li>
       <li>DET: a, as, uma, sua, essa, esta, suas, essas, minha, outras</li>
       <li>NOUN: pessoas, vez, parte, empresa, casa, cidade, história, empresas, gente, forma</li>
-      <li>NUM: uma, duas, meia</li>
+      <li>NUM: uma, duas, primeira, segunda, meia, 2ª, terceira, 71ª</li>
       <li>PRON: ela, a, elas, as, essa, la, esta, algumas, outra, outras</li>
       <li>VERB-Part: feita, feitas, realizada, procurada, chamada, criada, seguida, usadas, considerada, dada</li>
     </ul>
@@ -210,14 +210,14 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: novo, primeiro, últimos, segundo, muitos, bom, preciso, passado, último, brasileiro</li>
-      <li>ADJ-Part: passado, errado, preso, privado, aberto, presos, acelerado, conhecidos, dispostos, equilibrado</li>
+      <li>ADJ: novo, últimos, primeiro, muitos, bom, passado, preciso, último, segundo, brasileiro</li>
+      <li>ADJ-Part: passado, errado, preso, privado, morto, presos, aberto, ligados, acelerado, conhecido</li>
       <li>AUX-Part: sido</li>
       <li>DET: o, os, um, seu, esse, este, seus, outros, mesmo, todos</li>
       <li>NOUN: anos, ano, dia, país, tempo, governo, mercado, caso, mundo, acordo</li>
-      <li>NUM: um, dois, meio</li>
+      <li>NUM: um, dois, primeiro, 1º, segundo, meio, terceiro, primeiros, 3º, quinto</li>
       <li>PRON: o, ele, isso, eles, os, nada, algo, lo, outro, um</li>
-      <li>VERB-Part: feito, devido, usado, visto, apresentado, chamado, conhecido, preso, recebido, apontado</li>
+      <li>VERB-Part: feito, devido, usado, preso, visto, apresentado, chamado, recebido, apontado, conhecido</li>
     </ul>
   </li>
 </ul>
@@ -231,11 +231,12 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
   <li>Plur
     <ul>
       <li>ADJ: sociais, grandes, últimos, maiores, diferentes, principais, muitos, muitas, importantes, anteriores</li>
-      <li>ADJ-Part: presos, privadas, conhecidos, dispostos, premiadas, supostos, abertas, animados, avançadas, fechadas</li>
+      <li>ADJ-Part: presos, ligados, privadas, conhecidos, dispostos, envolvidos, ligadas, premiadas, supostos, abertas</li>
       <li>AUX-Fin: são, foram, estão, serão, estamos, eram, vão, estavam, vamos, haviam</li>
       <li>AUX-Inf: serem, terem, estarem, sermos</li>
       <li>DET: os, as, seus, suas, outros, todos, essas, esses, outras, alguns</li>
       <li>NOUN: anos, pessoas, dias, empresas, milhões, meses, vezes, bilhões, clientes, pontos</li>
+      <li>NUM: primeiros</li>
       <li>PRON: eles, os, nos, elas, nós, as, todos, outros, muitos, alguns</li>
       <li>VERB-Fin: podem, têm, temos, devem, tiveram, dizem, passaram, querem, ficaram, tinham</li>
       <li>VERB-Inf: termos, chegarem, crescerem, oferecerem, parecerem, tentarem, terem, acharem, acompanharem, adaptarem</li>
@@ -247,17 +248,18 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: maior, grande, melhor, possível, primeira, importante, difícil, novo, primeiro, principal</li>
-      <li>ADJ-Part: passado, passada, errado, premiada, preso, aberta, privado, aberto, elevada, acelerado</li>
+      <li>ADJ: maior, grande, melhor, possível, importante, primeira, difícil, novo, principal, atual</li>
+      <li>ADJ-Part: passado, passada, errado, premiada, preso, privado, aberta, morto, aberto, elevada</li>
       <li>AUX-Fin: é, foi, está, era, será, estava, vai, seria, seja, tem</li>
       <li>AUX-Inf: ser, estar, ter</li>
       <li>AUX-Part: sido</li>
       <li>DET: o, a, um, uma, sua, seu, esse, essa, este, esta</li>
       <li>NOUN: presidente, ano, dia, país, vez, tempo, parte, governo, empresa, casa</li>
+      <li>NUM: primeiro, primeira, 1º, segundo, segunda, terceiro, 2ª, 3º, quinto, terceira</li>
       <li>PRON: o, ele, isso, ela, eu, a, me, você, nada, algo</li>
       <li>VERB-Fin: diz, tem, há, disse, pode, afirma, deve, teve, afirmou, tinha</li>
       <li>VERB-Inf: ficar, sair, começar, virar, apresentar, atingir, entrar, livrar, receber, trabalhar</li>
-      <li>VERB-Part: feito, feita, devido, usado, visto, apresentado, chamado, conhecido, preso, recebido</li>
+      <li>VERB-Part: feito, feita, devido, usado, preso, visto, apresentado, chamado, recebido, apontado</li>
     </ul>
   </li>
 </ul>
@@ -269,7 +271,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: o, lo, me, nos, se, a, la, los, os, as</li>
+      <li>PRON: se, o, me, lo, nos, a, la, los, os, as</li>
     </ul>
   </li>
 </ul>
@@ -285,7 +287,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: se, ele, ela, eu, eles, você, elas, nós, vocês, Tu</li>
+      <li>PRON: ele, ela, eu, se, eles, você, elas, nós, vocês, Tu</li>
     </ul>
   </li>
 </ul>
@@ -415,7 +417,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: feito, feita, feitas, realizada, chamado, conhecido, considerado, criado, formado, preso</li>
+      <li>VERB-Part: feito, feita, feitas, preso, chamado, realizada, apontado, conhecido, considerado, criado</li>
     </ul>
   </li>
 </ul>
@@ -488,7 +490,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Card
     <ul>
-      <li>NUM: três, mil, um, dois, 20, uma, quatro, 30, 2016, 2018</li>
+      <li>NUM: três, mil, um, dois, uma, 20, quatro, 30, 2016, 2018</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +506,8 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: primeira, primeiro, segundo, segunda, terceiro, 1º, terceira, primeiros, primeiras, quarta</li>
+      <li>ADJ: primeira, primeiro, segundo, segunda, terceira, primeiras, quarta, terceiro, primeiros, quarto</li>
+      <li>NUM: primeiro, primeira, 1º, segundo, segunda, terceiro, primeiros, 2ª, 3º, quinto</li>
     </ul>
   </li>
 </ul>
@@ -591,7 +594,8 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
         <ul>
           <li>ADP: em, por, de, para</li>
           <li>ADV: quanto, Frente</li>
-          <li>DET: tal</li>
+          <li>NOUN: frente</li>
+          <li>VERB-Part: devido</li>
         </ul>
       </li>
       <li>ADV
@@ -599,6 +603,9 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
           <li>ADP: a, por, de, em</li>
           <li>ADV: mais, cerca, ainda, menos, Enquanto, onde</li>
           <li>DET: cada, um, o</li>
+          <li>NOUN: volta</li>
+          <li>NUM: um</li>
+          <li>VERB-Fin: vai</li>
         </ul>
       </li>
       <li>CCONJ
@@ -606,12 +613,8 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
           <li>ADP: em, de</li>
           <li>ADV: tanto, bem, só, assim</li>
           <li>CCONJ: ou</li>
+          <li>NOUN: Caso</li>
           <li>PRON: Isto</li>
-        </ul>
-      </li>
-      <li>NOUN
-        <ul>
-          <li>NOUN: volta</li>
         </ul>
       </li>
       <li>PRON
@@ -623,7 +626,9 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
         <ul>
           <li>ADP: de, a, para, com, desde, até, sem, em, por</li>
           <li>ADV: assim, ainda, depois, já, mesmo, antes, sempre, logo, tanto</li>
-          <li>DET: uma, Cada, tal</li>
+          <li>DET: uma, Cada</li>
+          <li>NUM: uma</li>
+          <li>PRON: tal</li>
           <li>SCONJ: como, quanto, que</li>
           <li>VERB-Part: dado, visto</li>
         </ul>
@@ -637,9 +642,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: off-line, on-line, habitués, premium, gospel, workaholic</li>
-          <li>NOUN: internet, e-mail, fintechs, deficit, chef, hits, recall, funk, hip-hop, publisher</li>
-          <li>X: bitcoin, car, safety, ale, bitcoins, pale, rohingyas, capita, corpus, country</li>
+          <li>X: internet, e-mail, bitcoin, fintechs, deficit, car, chef, on-line, safety, ale</li>
         </ul>
       </li>
     </ul>
@@ -665,20 +668,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3390)</li>
+      <li>VERB-Fin--NOUN (3378)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON (1386)</li>
+      <li>VERB-Fin--PRON (1378)</li>
       <li>VERB-Fin--PRON-Nom (777)</li>
-      <li>VERB-Ger--NOUN (80)</li>
+      <li>VERB-Ger--NOUN (82)</li>
       <li>VERB-Ger--PRON (40)</li>
       <li>VERB-Ger--PRON-Nom (23)</li>
-      <li>VERB-Inf--NOUN (156)</li>
-      <li>VERB-Inf--PRON (48)</li>
+      <li>VERB-Inf--NOUN (179)</li>
+      <li>VERB-Inf--PRON (50)</li>
       <li>VERB-Inf--PRON-Nom (45)</li>
-      <li>VERB-Part--NOUN (120)</li>
-      <li>VERB-Part--NOUN-ADP(a) (1)</li>
-      <li>VERB-Part--PRON (32)</li>
-      <li>VERB-Part--PRON-Nom (21)</li>
+      <li>VERB-Part--NOUN (99)</li>
+      <li>VERB-Part--PRON (27)</li>
+      <li>VERB-Part--PRON-Nom (19)</li>
     </ul>
   </li>
 </ul>
@@ -686,20 +688,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3611)</li>
-      <li>VERB-Fin--PRON (424)</li>
-      <li>VERB-Fin--PRON-Acc (155)</li>
+      <li>VERB-Fin--NOUN (3591)</li>
+      <li>VERB-Fin--PRON (422)</li>
+      <li>VERB-Fin--PRON-Acc (161)</li>
       <li>VERB-Fin--PRON-Dat (14)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
-      <li>VERB-Ger--NOUN (289)</li>
+      <li>VERB-Ger--NOUN (285)</li>
       <li>VERB-Ger--PRON (38)</li>
-      <li>VERB-Ger--PRON-Acc (11)</li>
-      <li>VERB-Inf--NOUN (1792)</li>
+      <li>VERB-Ger--PRON-Acc (10)</li>
+      <li>VERB-Inf--NOUN (1781)</li>
       <li>VERB-Inf--PRON (121)</li>
-      <li>VERB-Inf--PRON-Acc (122)</li>
+      <li>VERB-Inf--PRON-Acc (128)</li>
       <li>VERB-Inf--PRON-Dat (6)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (147)</li>
+      <li>VERB-Part--NOUN (146)</li>
       <li>VERB-Part--PRON (11)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
@@ -710,7 +712,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON-Dat (73)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
+      <li>VERB-Fin--PRON-Dat (76)</li>
       <li>VERB-Ger--PRON-Dat (3)</li>
       <li>VERB-Inf--PRON-Dat (17)</li>
       <li>VERB-Part--PRON-Dat (3)</li>

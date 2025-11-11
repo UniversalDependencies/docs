@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Olga Rudina, Natalia Vlasova, Anna Zhuravleva.
 
 Repository: [UD_Russian-Taiga](https://github.com/UniversalDependencies/UD_Russian-Taiga)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_taiga216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_taiga217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,11 +88,11 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 
 
 <ul>
-<li>This corpus contains 121967 sentences and 1758939 tokens.</li>
+<li>This corpus contains 121967 sentences and 1758937 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 349088 tokens (20%) that are not followed by a space.</li>
+<li>This corpus contains 349086 tokens (20%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -460,7 +460,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Sup
     <ul>
       <li>ADJ: лучшие, лучших, дальнейшем, лучший, крупнейших, лучшее, древнейших, древнейшие, лучшего, высшей</li>
-      <li>ADV: наиболее, всемилостивейше, лютейше, наименее</li>
+      <li>ADV: наиболее, строжайше, ближайше, всемилостивейше, лютейше, наименее</li>
     </ul>
   </li>
 </ul>
@@ -915,7 +915,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
           <li>DET: то, сами, один, одна, одно, само, одну, все, одного, сама</li>
           <li>INTJ: ох, ахти</li>
           <li>NOUN: слава, бок, время, боку, нога, нос, слово, страсть, чин</li>
-          <li>PART: только, хотя, ни, все, вот, нет, и, лишь, не, Ну</li>
+          <li>PART: только, хотя, ни, все, не, вот, нет, и, лишь, Ну</li>
           <li>PRON: тем, все, всё, тому, что, того, кто</li>
           <li>SCONJ: как, что, если, разве, хотя</li>
           <li>SYM: +</li>
@@ -929,7 +929,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
           <li>ADV: так, Также, точно</li>
           <li>CCONJ: но, а, да, то, или, и, однако, либо</li>
           <li>PART: не, ну, то, ни</li>
-          <li>PRON: то, тем, т., все</li>
+          <li>PRON: то, т., Тем, все</li>
           <li>SCONJ: как, когда, что, хотя</li>
           <li>VERB-Fin: будь</li>
         </ul>
@@ -1187,10 +1187,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Gen (718)</li>
       <li>VERB--NOUN-Gen-ADP(до) (1)</li>
       <li>VERB--NOUN-Ins (1)</li>
-      <li>VERB--NOUN-Nom (48)</li>
+      <li>VERB--NOUN-Nom (50)</li>
       <li>VERB--NOUN-Par (7)</li>
       <li>VERB--PRON-Gen (154)</li>
-      <li>VERB--PRON-Nom (45)</li>
+      <li>VERB--PRON-Nom (46)</li>
       <li>VERB-Conv--NOUN-Nom (6)</li>
       <li>VERB-Conv--PRON-Nom (5)</li>
       <li>VERB-Fin--NOUN (60)</li>
@@ -1200,7 +1200,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(под) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(с) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(по) (5)</li>
-      <li>VERB-Fin--NOUN-Gen (1593)</li>
+      <li>VERB-Fin--NOUN-Gen (1594)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(во) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(около) (26)</li>
@@ -1222,7 +1222,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc-ADP(про) (1)</li>
       <li>VERB-Fin--PRON-Dat (2)</li>
       <li>VERB-Fin--PRON-Gen (292)</li>
-      <li>VERB-Fin--PRON-Nom (31014)</li>
+      <li>VERB-Fin--PRON-Nom (31019)</li>
       <li>VERB-Fin--PRON-Nom-ADP(плюс) (1)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Gen (5)</li>
@@ -1263,7 +1263,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Ins (7)</li>
       <li>VERB-Conv--PRON-Nom (17)</li>
       <li>VERB-Fin--NOUN (52)</li>
-      <li>VERB-Fin--NOUN-Acc (25516)</li>
+      <li>VERB-Fin--NOUN-Acc (25512)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(в) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(из) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(к) (1)</li>
@@ -1289,11 +1289,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (103)</li>
       <li>VERB-Fin--NOUN-Par (52)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (8093)</li>
+      <li>VERB-Fin--PRON-Acc (8091)</li>
       <li>VERB-Fin--PRON-Acc-ADP(в) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(у) (1)</li>
       <li>VERB-Fin--PRON-Dat (2)</li>
-      <li>VERB-Fin--PRON-Gen (708)</li>
+      <li>VERB-Fin--PRON-Gen (707)</li>
       <li>VERB-Fin--PRON-Ins (40)</li>
       <li>VERB-Fin--PRON-Nom (80)</li>
       <li>VERB-Inf--NOUN (27)</li>
@@ -1308,8 +1308,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen-ADP(по) (2)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(порядка) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(у) (1)</li>
-      <li>VERB-Inf--NOUN-Ins (95)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(в) (1)</li>
+      <li>VERB-Inf--NOUN-Ins (93)</li>
       <li>VERB-Inf--NOUN-Nom (29)</li>
       <li>VERB-Inf--NOUN-Par (13)</li>
       <li>VERB-Inf--PRON (1)</li>
@@ -1340,9 +1339,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat (60)</li>
+      <li>VERB--NOUN-Dat (61)</li>
       <li>VERB--NOUN-Ins (12)</li>
-      <li>VERB--PRON-Dat (358)</li>
+      <li>VERB--PRON-Dat (360)</li>
       <li>VERB--PRON-Ins (2)</li>
       <li>VERB-Conv--NOUN-Dat (168)</li>
       <li>VERB-Conv--NOUN-Gen (3)</li>
@@ -1358,12 +1357,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat-ADP(благодаря) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(в) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(соответственно) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (31)</li>
-      <li>VERB-Fin--NOUN-Ins (4363)</li>
+      <li>VERB-Fin--NOUN-Gen (33)</li>
+      <li>VERB-Fin--NOUN-Ins (4361)</li>
       <li>VERB-Fin--NOUN-Nom (5)</li>
       <li>VERB-Fin--NOUN-Par (2)</li>
-      <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Dat (4826)</li>
+      <li>VERB-Fin--PRON-Acc (4)</li>
+      <li>VERB-Fin--PRON-Dat (4827)</li>
       <li>VERB-Fin--PRON-Ins (405)</li>
       <li>VERB-Fin--PRON-Nom (31)</li>
       <li>VERB-Inf--NOUN (4)</li>
@@ -1371,7 +1370,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Dat (711)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(к) (1)</li>
       <li>VERB-Inf--NOUN-Gen (10)</li>
-      <li>VERB-Inf--NOUN-Ins (999)</li>
+      <li>VERB-Inf--NOUN-Ins (1001)</li>
       <li>VERB-Inf--NOUN-Ins-ADP(за) (1)</li>
       <li>VERB-Inf--NOUN-Ins-ADP(около) (1)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>

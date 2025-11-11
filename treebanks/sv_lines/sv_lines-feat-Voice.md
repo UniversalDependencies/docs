@@ -12,17 +12,17 @@ It occurs with 2 different values: `Act`, `Pass`.
 17101 tokens (17%) have a non-empty value of `Voice`.
 3401 types (22%) occur at least once with a non-empty value of `Voice`.
 1687 lemmas (16%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (12199; 12% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4881; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (21; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (12200; 12% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4880; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (21; 0% instances).
 
 ### `VERB`
 
-12199 <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
+12200 <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7654; 63%), <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7390; 61%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7654; 63%), <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7391; 61%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (10987; 90% of non-empty `Voice`): <em>sa, hade, kom, såg, gick, har, ta, göra, se, tog</em>
+* `Act` (10988; 90% of non-empty `Voice`): <em>sa, hade, kom, såg, gick, har, ta, göra, se, tog</em>
 * `Pass` (1212; 10% of non-empty `Voice`): <em>visas, kändes, används, tvungen, talas, hördes, tycktes, flyttas, skapats, döljs</em>
 * `EMPTY` (215): <em>fanns, finns, vare, finnas, höll, åt, Avslöja, Hjälp, bestämma, förhörd</em>
 
@@ -39,13 +39,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-4881 <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+4880 <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4347; 89%), <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4319; 88%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4346; 89%), <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4318; 88%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (4881; 100% of non-empty `Voice`): <em>var, är, hade, skulle, kan, har, kunde, vara, måste, varit</em>
+* `Act` (4880; 100% of non-empty `Voice`): <em>var, är, hade, skulle, kan, har, kunde, vara, måste, varit</em>
 * `EMPTY` (7): <em>var, haft, bli, skola</em>
 
 `Voice` seems to be **lexical feature** of `AUX`. 100% lemmas (12) occur only with one value of `Voice`.
@@ -68,12 +68,12 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="sv_lines-dep-aux.html">aux</a></tt>]--> AUX</tt> (2184; 89%),
 <tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1729; 90%),
-<tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1023; 81%),
-<tt>VERB --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (676; 80%),
-<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (648; 84%),
-<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (262; 89%),
-<tt>VERB --[<tt><a href="sv_lines-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (62; 91%),
-<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (16; 100%),
-<tt>AUX --[<tt><a href="sv_lines-dep-aux.html">aux</a></tt>]--> AUX</tt> (13; 93%),
-<tt>VERB --[<tt><a href="sv_lines-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (11; 85%).
+<tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1020; 81%),
+<tt>VERB --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (673; 79%),
+<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (651; 84%),
+<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (259; 88%),
+<tt>VERB --[<tt><a href="sv_lines-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (61; 91%),
+<tt>VERB --[<tt><a href="sv_lines-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (17; 74%),
+<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (17; 100%),
+<tt>AUX --[<tt><a href="sv_lines-dep-aux.html">aux</a></tt>]--> AUX</tt> (13; 93%).
 

@@ -26,7 +26,7 @@ The following 20 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 2	зэв	зэв	ADV	Adv	_	3	advmod:deg	_	_
 3	шаньӧсь	шань	ADJ	A	Number[subj]=Plur	0	root	_	GTtags=Cop,Pl|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	любитӧны	любитны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	parataxis	_	GTtags=TV,Ind,Prs,Pl3
+5	любитӧны	любитны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	GTtags=TV,Ind,Prs,Pl3
 6	каньӧс	кань	NOUN	N	Case=Acc|Number=Sing	5	obj	_	GTtags=Sg,Acc|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 

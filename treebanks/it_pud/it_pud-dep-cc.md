@@ -27,10 +27,10 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	Internet	Internet	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 4	non	non	ADV	RB	Polarity=Neg	7	advmod	_	_
 5	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	cop	_	_
-6	un	uno	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	lusso	lusso	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 8	ma	ma	CCONJ	CC	_	10	cc	_	_
-9	uno	uno	DET	DT	Gender=Masc|Number=Sing	10	det	_	_
+9	uno	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	strumento	strumento	NOUN	NN	Gender=Masc|Number=Sing	7	conj	_	_
 11	essenziale	essenziale	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
@@ -46,7 +46,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5 1 cc	color:blue
 1	E	e	CCONJ	CC	_	5	cc	_	_
 2	poi	poi	ADV	RB	_	5	advmod	_	_
-3	lo	il	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	lo	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	spot	spot	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 5	finisce	finire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	5	punct	_	_

@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (52; 100% of non-empty `Degree`): <em>карденя, очконять, досканят, коволнятнень, ловнясь, пацяняц, стирнятне, Бабанять, Лефкскятнень, Луганятне</em>
-* `EMPTY` (1062): <em>лангс, ломаттне, тячи, шиня, шись, ава, паксянь, пингть, Тишка, каршес</em>
+* `EMPTY` (1082): <em>лангс, ломаттне, шись, тячи, шиня, ава, лангса, паксянь, пингть, Тишка</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `Degree`.
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Dim` (2; 67% of non-empty `Degree`): <em>аруняста, саворне</em>
 * `Sup` (1; 33% of non-empty `Degree`): <em>Сембода</em>
-* `EMPTY` (421): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
+* `EMPTY` (428): <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
 
 ### `PART`
 
@@ -57,5 +57,5 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Dim` (1; 100% of non-empty `Degree`): <em>кельгомнян</em>
-* `EMPTY` (819): <em>архт, марявсь, моли, лиссь, сась, улема, варжакстсь, кармась, мольсь, рамась</em>
+* `EMPTY` (827): <em>архт, марявсь, моли, лиссь, сась, улема, варжакстсь, кармась, мольсь, рамась</em>
 

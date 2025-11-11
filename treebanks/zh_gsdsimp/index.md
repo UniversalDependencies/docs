@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Peng Qi, Koichi Yasuoka.
 
 Repository: [UD_Chinese-GSDSimp](https://github.com/UniversalDependencies/UD_Chinese-GSDSimp)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsdsimp216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsdsimp217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -59,21 +59,21 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 
 ## Features
 
-[Aspect](zh_gsdsimp-feat-Aspect.html) – [Case](zh_gsdsimp-feat-Case.html) – [Number](zh_gsdsimp-feat-Number.html) – [NumType](zh_gsdsimp-feat-NumType.html) – [PartType](zh_gsdsimp-feat-PartType.html) – [Person](zh_gsdsimp-feat-Person.html) – [Polarity](zh_gsdsimp-feat-Polarity.html) – [Voice](zh_gsdsimp-feat-Voice.html)
+[Aspect](zh_gsdsimp-feat-Aspect.html) – [Case](zh_gsdsimp-feat-Case.html) – [Foreign](zh_gsdsimp-feat-Foreign.html) – [Number](zh_gsdsimp-feat-Number.html) – [NumType](zh_gsdsimp-feat-NumType.html) – [PartType](zh_gsdsimp-feat-PartType.html) – [Person](zh_gsdsimp-feat-Person.html) – [Polarity](zh_gsdsimp-feat-Polarity.html) – [Voice](zh_gsdsimp-feat-Voice.html)
 
 ## Relations
 
-[acl](zh_gsdsimp-dep-acl.html) – [acl:relcl](zh_gsdsimp-dep-acl-relcl.html) – [advcl](zh_gsdsimp-dep-advcl.html) – [advmod](zh_gsdsimp-dep-advmod.html) – [amod](zh_gsdsimp-dep-amod.html) – [appos](zh_gsdsimp-dep-appos.html) – [aux](zh_gsdsimp-dep-aux.html) – [aux:pass](zh_gsdsimp-dep-aux-pass.html) – [case](zh_gsdsimp-dep-case.html) – [cc](zh_gsdsimp-dep-cc.html) – [ccomp](zh_gsdsimp-dep-ccomp.html) – [clf](zh_gsdsimp-dep-clf.html) – [compound](zh_gsdsimp-dep-compound.html) – [compound:ext](zh_gsdsimp-dep-compound-ext.html) – [conj](zh_gsdsimp-dep-conj.html) – [cop](zh_gsdsimp-dep-cop.html) – [csubj](zh_gsdsimp-dep-csubj.html) – [csubj:pass](zh_gsdsimp-dep-csubj-pass.html) – [det](zh_gsdsimp-dep-det.html) – [discourse](zh_gsdsimp-dep-discourse.html) – [discourse:sp](zh_gsdsimp-dep-discourse-sp.html) – [dislocated](zh_gsdsimp-dep-dislocated.html) – [flat:foreign](zh_gsdsimp-dep-flat-foreign.html) – [flat:name](zh_gsdsimp-dep-flat-name.html) – [iobj](zh_gsdsimp-dep-iobj.html) – [mark](zh_gsdsimp-dep-mark.html) – [mark:adv](zh_gsdsimp-dep-mark-adv.html) – [mark:rel](zh_gsdsimp-dep-mark-rel.html) – [nmod](zh_gsdsimp-dep-nmod.html) – [nmod:tmod](zh_gsdsimp-dep-nmod-tmod.html) – [nsubj](zh_gsdsimp-dep-nsubj.html) – [nsubj:pass](zh_gsdsimp-dep-nsubj-pass.html) – [nummod](zh_gsdsimp-dep-nummod.html) – [obj](zh_gsdsimp-dep-obj.html) – [obl](zh_gsdsimp-dep-obl.html) – [obl:patient](zh_gsdsimp-dep-obl-patient.html) – [orphan](zh_gsdsimp-dep-orphan.html) – [parataxis](zh_gsdsimp-dep-parataxis.html) – [punct](zh_gsdsimp-dep-punct.html) – [reparandum](zh_gsdsimp-dep-reparandum.html) – [root](zh_gsdsimp-dep-root.html) – [vocative](zh_gsdsimp-dep-vocative.html) – [xcomp](zh_gsdsimp-dep-xcomp.html)
+[acl](zh_gsdsimp-dep-acl.html) – [acl:relcl](zh_gsdsimp-dep-acl-relcl.html) – [advcl](zh_gsdsimp-dep-advcl.html) – [advmod](zh_gsdsimp-dep-advmod.html) – [amod](zh_gsdsimp-dep-amod.html) – [appos](zh_gsdsimp-dep-appos.html) – [aux](zh_gsdsimp-dep-aux.html) – [aux:pass](zh_gsdsimp-dep-aux-pass.html) – [case](zh_gsdsimp-dep-case.html) – [cc](zh_gsdsimp-dep-cc.html) – [ccomp](zh_gsdsimp-dep-ccomp.html) – [clf](zh_gsdsimp-dep-clf.html) – [compound](zh_gsdsimp-dep-compound.html) – [compound:ext](zh_gsdsimp-dep-compound-ext.html) – [conj](zh_gsdsimp-dep-conj.html) – [cop](zh_gsdsimp-dep-cop.html) – [csubj](zh_gsdsimp-dep-csubj.html) – [csubj:pass](zh_gsdsimp-dep-csubj-pass.html) – [det](zh_gsdsimp-dep-det.html) – [discourse](zh_gsdsimp-dep-discourse.html) – [discourse:sp](zh_gsdsimp-dep-discourse-sp.html) – [dislocated](zh_gsdsimp-dep-dislocated.html) – [flat](zh_gsdsimp-dep-flat.html) – [flat:foreign](zh_gsdsimp-dep-flat-foreign.html) – [flat:name](zh_gsdsimp-dep-flat-name.html) – [iobj](zh_gsdsimp-dep-iobj.html) – [mark](zh_gsdsimp-dep-mark.html) – [mark:adv](zh_gsdsimp-dep-mark-adv.html) – [mark:rel](zh_gsdsimp-dep-mark-rel.html) – [nmod](zh_gsdsimp-dep-nmod.html) – [nmod:tmod](zh_gsdsimp-dep-nmod-tmod.html) – [nsubj](zh_gsdsimp-dep-nsubj.html) – [nsubj:outer](zh_gsdsimp-dep-nsubj-outer.html) – [nsubj:pass](zh_gsdsimp-dep-nsubj-pass.html) – [nummod](zh_gsdsimp-dep-nummod.html) – [obj](zh_gsdsimp-dep-obj.html) – [obl](zh_gsdsimp-dep-obl.html) – [obl:agent](zh_gsdsimp-dep-obl-agent.html) – [obl:patient](zh_gsdsimp-dep-obl-patient.html) – [orphan](zh_gsdsimp-dep-orphan.html) – [parataxis](zh_gsdsimp-dep-parataxis.html) – [punct](zh_gsdsimp-dep-punct.html) – [reparandum](zh_gsdsimp-dep-reparandum.html) – [root](zh_gsdsimp-dep-root.html) – [vocative](zh_gsdsimp-dep-vocative.html) – [xcomp](zh_gsdsimp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 4997 sentences and 123291 tokens.</li>
+<li>This corpus contains 4997 sentences and 123289 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 122962 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 122960 tokens (100%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -105,7 +105,7 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 </ul>
 
 <ul>
-<li>This corpus contains 135 lemmas tagged as determiners (DET): $5,000, A330, AEG, AK-47, Activision, Advance, Android, CRH380C, Eve, Ghost, Google, JAXA, KKR, Kekal, Kilpatrick, M1, NDS, OROCHI, PSP, Rivers, The, WHO, Wheeler, g(x), iPhone, iPod, km/h, p, 一切, 上, 下, 以上, 以下, 任, 任何, 众, 何, 全, 全体, 全套, 全部, 关于, 其他, 其余, 其它, 别, 前, 前任, 占领, 历届, 发售, 另, 另外, 各, 各个, 各州, 各式, 各种, 各种各样, 各类, 各级, 各项, 同, 同年, 后, 夕拾, 当届, 所有, 整, 整个, 整场, 整块, 整套, 整所, 整架, 整片, 整颗, 是次, 有的, 本, 本届, 本班, 某, 某个, 某些, 某种, 此, 此套, 此次, 此种, 此等, 此类, 此项, 每, 每个, 每位, 每元, 每卡, 每周, 每天, 每年, 每座, 每户, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每组, 每边, 每间, 每队, 每集, 该, 该届, 该批, 该族, 该条, 该段, 该组, 该集, 诸, 近, 这, 这些, 这次, 这种, 那, 那些, 首, 首任, 首条, 首部</li>
+<li>This corpus contains 120 lemmas tagged as determiners (DET): $5,000, AEG, AK-47, Activision, Android, Eve, JAXA, KKR, Kekal, Kilpatrick, NDS, PSP, Rivers, WHO, Wheeler, g(x), iPhone, p, 一切, 上, 下, 以上, 以下, 任, 任何, 众, 何, 全, 全体, 全套, 全部, 其他, 其余, 其它, 别, 前, 前任, 历届, 另, 另外, 各, 各个, 各州, 各式, 各种, 各种各样, 各类, 各级, 各项, 同, 同年, 后, 当届, 所有, 整, 整个, 整场, 整块, 整套, 整所, 整架, 整片, 整颗, 是次, 有的, 本, 本届, 本班, 某, 某个, 某些, 某种, 此, 此套, 此次, 此种, 此等, 此类, 此项, 每, 每个, 每位, 每元, 每卡, 每周, 每天, 每年, 每座, 每户, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每组, 每边, 每间, 每队, 每集, 该, 该届, 该批, 该族, 该条, 该段, 该组, 该集, 诸, 这, 这些, 这次, 这种, 那, 那些, 首, 首任, 首条, 首部</li>
 </ul>
 
 <ul>
@@ -244,7 +244,7 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 第16, 第一</li>
+      <li>ADJ: 2nd, 第16, 第一</li>
       <li>NUM: 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位</li>
     </ul>
   </li>
@@ -287,6 +287,18 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 
 
 <ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: the, A, NBA, JR, of, B, Google, County, Game, John</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>PartType</a>
     <ul>
       <li>Int
@@ -307,7 +319,7 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 </ul>
 
 <ul>
-<li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 会、 可以、 着、 可、 能、 要、 过、 可能、 必须、 能够、 想、 应、 需、 需要、 得、 须、 应该、 愿、 愿意、 欲、 必、 肯、 应当、 敢、 该.</li>
+<li>This corpus uses 27 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 会、 可以、 着、 可、 能、 要、 过、 可能、 必须、 能够、 想、 应、 需、 需要、 得、 须、 应该、 愿、 愿意、 欲、 必、 肯、 应当、 敢、 是、 该.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 为.</li>
 </ul>
 
@@ -317,7 +329,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (4044)</li>
+      <li>VERB--NOUN (3999)</li>
       <li>VERB--NOUN-ADP(上) (6)</li>
       <li>VERB--NOUN-ADP(下) (2)</li>
       <li>VERB--NOUN-ADP(不) (1)</li>
@@ -335,7 +347,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(原) (5)</li>
       <li>VERB--NOUN-ADP(和)-ADP(的) (1)</li>
       <li>VERB--NOUN-ADP(在)-ADP(的) (6)</li>
-      <li>VERB--NOUN-ADP(大) (18)</li>
+      <li>VERB--NOUN-ADP(大) (17)</li>
       <li>VERB--NOUN-ADP(宽) (1)</li>
       <li>VERB--NOUN-ADP(对)-ADP(的) (9)</li>
       <li>VERB--NOUN-ADP(对于)-ADP(的) (2)</li>
@@ -344,7 +356,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(强) (1)</li>
       <li>VERB--NOUN-ADP(微) (1)</li>
       <li>VERB--NOUN-ADP(总) (5)</li>
-      <li>VERB--NOUN-ADP(新) (14)</li>
+      <li>VERB--NOUN-ADP(新) (13)</li>
       <li>VERB--NOUN-ADP(旧) (2)</li>
       <li>VERB--NOUN-ADP(暗) (1)</li>
       <li>VERB--NOUN-ADP(有关)-ADP(的) (3)</li>
@@ -355,7 +367,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(老) (5)</li>
       <li>VERB--NOUN-ADP(里) (2)</li>
       <li>VERB--NOUN-ADP(间) (1)</li>
-      <li>VERB--PRON (736)</li>
+      <li>VERB--PRON (734)</li>
       <li>VERB--PRON-ADP(之间) (2)</li>
     </ul>
   </li>
@@ -451,7 +463,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

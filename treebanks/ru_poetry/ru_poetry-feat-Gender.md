@@ -11,20 +11,20 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 25361 tokens (40%) have a non-empty value of `Gender`.
 13577 types (75%) occur at least once with a non-empty value of `Gender`.
-7150 lemmas (72%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (15618; 24% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (4420; 7% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (2263; 4% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1243; 2% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (1122; 2% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (529; 1% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (105; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (61; 0% instances).
+7149 lemmas (72%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (15618; 24% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (4419; 7% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (2263; 4% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1244; 2% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (1121; 2% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (530; 1% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (105; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (61; 0% instances).
 
 ### `NOUN`
 
 15618 <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14002; 90%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11309; 72%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14003; 90%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11310; 72%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (6515; 42% of non-empty `Gender`): <em>жизнь, ночь, руки, жизни, любовь, любви, душа, земли, душе, ночи</em>
-* `Masc` (6711; 43% of non-empty `Gender`): <em>день, ветер, мир, вечер, свет, глаза, час, дни, лет, люди</em>
-* `Neut` (2392; 15% of non-empty `Gender`): <em>сердце, солнце, небо, слова, счастье, время, море, небе, лицо, небес</em>
+* `Masc` (6710; 43% of non-empty `Gender`): <em>день, ветер, мир, вечер, свет, глаза, час, дни, лет, люди</em>
+* `Neut` (2393; 15% of non-empty `Gender`): <em>сердце, солнце, небо, слова, счастье, время, море, небе, лицо, небес</em>
 * `EMPTY` (7): <em>Кн., г., СБ., громом, пр.</em>
 
 <table>
@@ -32,19 +32,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt></tt></td><td><em>полчаса</em></td><td><em>полчаса</em></td><td><em>полчаса</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (3988) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (3987) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-4420 <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> tokens (73% of all `ADJ` tokens) have a non-empty value of `Gender`.
+4419 <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> tokens (73% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4415; 100%), <tt><a href="ru_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4340; 98%), <tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3736; 85%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4414; 100%), <tt><a href="ru_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4339; 98%), <tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3735; 85%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (1588; 36% of non-empty `Gender`): <em>милая, белая, милой, золотая, полна, святая, теплой, черной, голубая, осенней</em>
 * `Masc` (2267; 51% of non-empty `Gender`): <em>тихий, белый, последний, первый, черный, хорошо, холодный, милый, синий, старый</em>
-* `Neut` (565; 13% of non-empty `Gender`): <em>равно, голубое, чужое, белое, гусиное, вечное, закатное, злое, синее, белом</em>
+* `Neut` (564; 13% of non-empty `Gender`): <em>равно, голубое, чужое, белое, гусиное, вечное, закатное, злое, синее, белом</em>
 * `EMPTY` (1601): <em>золотые, белые, лучше, белых, I, тихие, синие, зеленые, серые, темные</em>
 
 <table>
@@ -69,7 +69,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (743; 33% of non-empty `Gender`): <em>стала, шла, пела, легла, любила, ушла, могла, пришла, стояла, была</em>
 * `Masc` (1250; 55% of non-empty `Gender`): <em>стал, был, видел, сказал, жил, забыл, любил, знал, мог, шел</em>
 * `Neut` (270; 12% of non-empty `Gender`): <em>было, казалось, стало, бывало, дано, сказано, хотелось, приказано, показалось, Било</em>
-* `EMPTY` (5971): <em>нет, знаю, может, надо, стоит, быть, жить, есть, люблю, вижу</em>
+* `EMPTY` (5973): <em>нет, знаю, может, надо, стоит, быть, жить, есть, люблю, вижу</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -78,16 +78,16 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `DET`
 
-1243 <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> tokens (69% of all `DET` tokens) have a non-empty value of `Gender`.
+1244 <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> tokens (69% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1243; 100%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1100; 88%), <tt><a href="ru_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (658; 53%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1244; 100%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1100; 88%), <tt><a href="ru_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (659; 53%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (501; 40% of non-empty `Gender`): <em>моя, моей, свою, вся, своей, всю, какая, этой, твоя, твоей</em>
 * `Masc` (571; 46% of non-empty `Gender`): <em>мой, твой, тот, этот, свой, весь, каждый, наш, сам, один</em>
-* `Neut` (171; 14% of non-empty `Gender`): <em>мое, твое, все, свое, одно, всё, какое, такое, то, это</em>
-* `EMPTY` (563): <em>их, все, его, эти, ее, мои, твои, твоих, всех, тех</em>
+* `Neut` (172; 14% of non-empty `Gender`): <em>мое, все, твое, свое, одно, всё, какое, такое, то, это</em>
+* `EMPTY` (564): <em>их, все, его, эти, ее, мои, твои, твоих, всех, тех</em>
 
 <table>
   <tr><th>Paradigm <i>мой</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -102,16 +102,16 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PRON`
 
-1122 <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> tokens (32% of all `PRON` tokens) have a non-empty value of `Gender`.
+1121 <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> tokens (32% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1122; 100%), <tt><a href="ru_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (659; 59%), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (634; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1121; 100%), <tt><a href="ru_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (658; 59%), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (634; 57%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (167; 15% of non-empty `Gender`): <em>она, ней, ей, ее, нее, нею, ею</em>
 * `Masc` (405; 36% of non-empty `Gender`): <em>он, кто, его, ему, ним, нем, кого, кто-то, никто, него</em>
-* `Neut` (550; 49% of non-empty `Gender`): <em>что, все, это, всё, то, чем, оно, ничего, что-то, тем</em>
-* `EMPTY` (2411): <em>я, ты, мне, мы, меня, тебя, нам, нас, тебе, них</em>
+* `Neut` (549; 49% of non-empty `Gender`): <em>что, все, это, всё, то, чем, оно, ничего, что-то, тем</em>
+* `EMPTY` (2410): <em>я, ты, мне, мы, меня, тебя, нам, нас, тебе, них</em>
 
 <table>
   <tr><th>Paradigm <i>что</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -128,6 +128,8 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td><em>чем, чём</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>чем</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>что</em></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Exc</tt></tt></td><td></td><td><em>Что</em></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>что</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Exc</tt></tt></td><td></td><td><em>что</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td><em>что</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>что</em></td></tr>
@@ -135,24 +137,23 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `PROPN`
 
-529 <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Gender`.
+530 <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (519; 98%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (326; 62%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (520; 98%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (327; 62%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (192; 36% of non-empty `Gender`): <em>Волге, Анжелина, Москва, Москве, Русь, Россию, Россия, Руси, Сулико, Изабелла</em>
-* `Masc` (334; 63% of non-empty `Gender`): <em>Воронский, Восток, Иуда, Париж, Ара, Петроград, ВЛАДИМИРА, Владимир, Геркулес, Гинсбург</em>
+* `Masc` (335; 63% of non-empty `Gender`): <em>Воронский, Восток, Иуда, Париж, Ара, Петроград, ВЛАДИМИРА, Владимир, Геркулес, Гинсбург</em>
 * `Neut` (3; 1% of non-empty `Gender`): <em>Замоскворечья, Монако, Полесьем</em>
 * `EMPTY` (59): <em>А., В., Н., М., П., С., Т., Д., И., К.</em>
 
 <table>
-  <tr><th>Paradigm <i>Лакримоза</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-NameType.html">NameType</a></tt><tt>=Giv</tt></tt></td><td></td><td><em>Лакримоза</em></td></tr>
-  <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_poetry-feat-NameType.html">NameType</a></tt><tt>=Geo</tt></tt></td><td><em>Лакримоза</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Кастусь</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Кастусь</em></td><td><em>Кастусь</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (349) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (348) occur only with one value of `Gender`.
 
 ### `AUX`
 
@@ -204,8 +205,8 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>ADJ --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (255; 68%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> VERB</tt> (197; 62%),
 <tt>NOUN --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> VERB</tt> (185; 63%),
-<tt>NOUN --[<tt><a href="ru_poetry-dep-appos.html">appos</a></tt>]--> NOUN</tt> (123; 71%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-appos.html">appos</a></tt>]--> NOUN</tt> (124; 70%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (74; 61%),
 <tt>PROPN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (58; 97%),
-<tt>ADJ --[<tt><a href="ru_poetry-dep-det.html">det</a></tt>]--> DET</tt> (44; 100%).
+<tt>ADJ --[<tt><a href="ru_poetry-dep-det.html">det</a></tt>]--> DET</tt> (45; 100%).
 

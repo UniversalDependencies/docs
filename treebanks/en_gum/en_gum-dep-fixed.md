@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-781 nodes (0%) are attached to their parents as `fixed`.
+783 nodes (0%) are attached to their parents as `fixed`.
 
-781 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0640204865557.
+783 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06513409961686.
 
-The following 18 pairs of parts of speech are connected with `fixed`: <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (147; 19% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (135; 17% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (114; 15% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (83; 11% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (76; 10% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (75; 10% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (46; 6% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (33; 4% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (25; 3% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (20; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (13; 2% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `fixed`: <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (152; 19% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (134; 17% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (114; 15% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (84; 11% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (76; 10% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (75; 10% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (46; 6% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (33; 4% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (22; 3% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (20; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (13; 2% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,18 +22,18 @@ The following 18 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 fixed	color:blue
-1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	Discourse=causal-result:37->23:3:_|Entity=(73-person-acc:com-nnnnn-cf3-1-sgl)
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	Discourse=causal-result:37->23:3:_|Entity=(72-person-acc:com-nnnnn-cf3-1-sgl)
 2	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux	3:aux	_
 3	laughing	laugh	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	MSeg=laugh-ing
 4	at	at	ADP	IN	_	6	case	6:case	_
-5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(74-person-new-nnnnn-cf4-2,8-coref(58-person-giv:inact-n____-cf2-2-coref
-6	chemist	chemist	NOUN	NN	Number=Sing	3	obl	3:obl:at	Entity=58)
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(73-person-new-nnnnn-cf4-2,8-coref(57-person-giv:inact-nnnnn-cf2-2-coref
+6	chemist	chemist	NOUN	NN	Number=Sing	3	obl	3:obl:at	Entity=57)
 7	as	as	ADV	RB	ExtPos=CCONJ	12	cc	12:cc	_
 8	well	well	ADV	RB	Degree=Pos	7	fixed	7:fixed	_
 9	as	as	ADP	IN	_	7	fixed	7:fixed	_
 10	at	at	ADP	IN	_	12	case	12:case	_
-11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(64-person-giv:act-sssss-cf1*-2-coref
-12	traveler	traveler	NOUN	NN	Number=Sing	6	conj	3:obl:at|6:conj:as_well_as	Entity=64)74)|MSeg=travel-er|SpaceAfter=No
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(63-person-giv:act-sssss-cf1*-2-coref
+12	traveler	traveler	NOUN	NN	Number=Sing	6	conj	3:obl:at|6:conj:as_well_as	Entity=63)73)|MSeg=travel-er|SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
@@ -46,8 +46,8 @@ The following 18 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4	fgColor:white
 # visual-style 4 5 fixed	color:blue
 1	Get	get	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=joint-other_m:9->2:3:_
-2	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(11-object-new-nnnnn-cf2-2-coref(4-person-acc:com-nssss-cf1-1-ana)
-3	feet	foot	NOUN	NNS	Number=Plur	1	obj	1:obj	Entity=11)
+2	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(10-object-new-nnnnn-cf2-2-coref(11-person-acc:com-nssss-cf1-1-ana)
+3	feet	foot	NOUN	NNS	Number=Plur	1	obj	1:obj	Entity=10)
 4	off	off	ADP	IN	ExtPos=ADP	6	case	6:case	_
 5	of	of	ADP	IN	_	4	fixed	4:fixed	_
 6	there	there	ADV	RB	PronType=Dem	1	obl	1:obl:off_of	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 18 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Due	due	ADJ	JJ	Degree=Pos|ExtPos=ADP	3	case	3:case	Discourse=causal-result:7->6:0:lex-altlex-61-62|PDTB=Implicit:Contingency.Cause.Result:so:_:38-60:61-70
+1	Due	due	ADJ	JJ	Degree=Pos|ExtPos=ADP	3	case	3:case	Discourse=causal-result:7->6:0:lex-altlex-61-62-_|PDTB=Implicit:Contingency.Cause.Result:so:_:38-60:61-70
 2	to	to	ADP	IN	_	1	fixed	1:fixed	_
 3	that	that	PRON	DT	Number=Sing|PronType=Dem	9	obl	9:obl:due_to	Entity=(10-event-acc:com-nnsnn-cf2-1-coref)|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_

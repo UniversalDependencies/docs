@@ -23,11 +23,11 @@ The following 2 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 advmod	color:blue
-1	Kai	kai	ADV	r0n	_	3	advmod	3:advmod	LvtbNodeId=a-ltg-Cairo-p14s1w1
+1	Kai	kai	ADV	r0n	PronType=Int	3	advmod	3:advmod	LvtbNodeId=a-ltg-Cairo-p14s1w1
 2	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	LvtbNodeId=a-ltg-Cairo-p14s1w2
 3	dūmoj	dūmuot	VERB	vmnipi22san	Evident=Fh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p14s1w3|SpaceAfter=No
 4	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-ltg-Cairo-p14s1w4
-5	kod	kod	ADV	r0n	_	7	advmod	7:advmod	LvtbNodeId=a-ltg-Cairo-p14s1w5
+5	kod	kod	ADV	r0n	PronType=Int	7	advmod	7:advmod	LvtbNodeId=a-ltg-Cairo-p14s1w5
 6	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj|8:nsubj	LvtbNodeId=a-ltg-Cairo-p14s1w6
 7	variesi	varēt	VERB	vonifi32san	Evident=Fh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	3	ccomp	3:ccomp	LvtbNodeId=a-ltg-Cairo-p14s1w7
 8	atīt	atīt	VERB	vmnn0i1000n	Polarity=Pos|VerbForm=Inf	7	xcomp	7:xcomp	LvtbNodeId=a-ltg-Cairo-p14s1w8|SpaceAfter=No

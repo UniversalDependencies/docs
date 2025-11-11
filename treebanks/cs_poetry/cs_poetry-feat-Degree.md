@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-ADJ.h
 
 571 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (553; 97%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (530; 93%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (490; 86%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (489; 86%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (408; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (350; 61%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (553; 97%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (529; 93%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (489; 86%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (488; 85%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (408; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (350; 61%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 3 <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_poetry-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_poetry-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="cs_poetry-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2; 67%).
 
 `DET` tokens may have the following values of `Degree`:
 

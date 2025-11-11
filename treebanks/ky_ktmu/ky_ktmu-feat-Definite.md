@@ -16,12 +16,12 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ky_ktmu-pos-DET.htm
 
 ### `DET`
 
-4 <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Definite`.
+4 <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> tokens (21% of all `DET` tokens) have a non-empty value of `Definite`.
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (4; 100% of non-empty `Definite`): <em>ар, тең</em>
-* `EMPTY` (28): <em>кайсы, бул, деле, беле, эми, Керемет, берет, болбосун, ден, ошо</em>
+* `EMPTY` (15): <em>кайсы, бул, беле, болбосун, ошо</em>
 
 ### `NOUN`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (4; 100% of non-empty `Definite`): <em>ар</em>
-* `EMPTY` (9091): <em>сом, шаарында, эл, салык, банк, жыл, иштери, суу, айда, жол</em>
+* `EMPTY` (9301): <em>сом, шаарында, эл, салык, иштери, банк, жыл, суу, айда, жол</em>
 
 ### `ADJ`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>катар</em>
-* `EMPTY` (776): <em>жаңы, улуттук, аралык, жарым, айрым, туруктуу, катар, кичи, чоң, көп</em>
+* `EMPTY` (782): <em>жаңы, улуттук, аралык, жарым, айрым, туруктуу, катар, кичи, чоң, көп</em>
 

@@ -173,7 +173,7 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 107	,	,	PUNCT	fc	PunctType=Comm	106	punct	_	_
 108	por	por	ADP	sps00	_	112	case	_	_
 109	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	112	obl	_	_
-110	igual	igual	ADJ	rg	Number=Sing	112	mark	_	_
+110	igual	igual	ADJ	rg	ExtPos=SCONJ|Number=Sing	112	mark	_	_
 111	que	que	SCONJ	cs	_	110	fixed	_	_
 112	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	106	advcl	_	_
 113	y	y	CCONJ	cc	_	114	cc	_	_

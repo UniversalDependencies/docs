@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-144 nodes (0%) are attached to their parents as `list`.
+146 nodes (0%) are attached to their parents as `list`.
 
-144 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.11111111111111.
+146 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.92465753424658.
 
-The following 13 pairs of parts of speech are connected with `list`: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (105; 73% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (21; 15% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `list`: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (100; 68% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (28; 19% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -52,9 +52,9 @@ The following 13 pairs of parts of speech are connected with `list`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 30 list	color:blue
-1	Marina	Marina	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=joint-other_m:146->143:2:_|Entity=(218-place-new-nnnnn-cf3-1-sgl)|MSeg=Marin-a|SpaceAfter=No|XML=<hi rend:::"italic">
+1	Marina	Marina	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=joint-other_m:146->143:2:_|Entity=(219-place-new-nnnnn-cf3-1-sgl)|MSeg=Marin-a|SpaceAfter=No|XML=<hi rend:::"italic">
 2	:	:	PUNCT	:	_	4	punct	4:punct	_
-3	54	54	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Discourse=elaboration-additional:147->146:0:grf-col-1125|Entity=(219-place-new-nnnnn-cf4-2,4,7,9-sgl|SpaceAfter=No|XML=<w>
+3	54	54	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Discourse=elaboration-additional:147->146:0:grf-col-1125-_|Entity=(220-place-new-nnnnn-cf4-2,4,7,9-sgl|SpaceAfter=No|XML=<w>
 4	º	º	NOUN	NNS	Number=Plur	1	parataxis	1:parataxis	XML=</w>
 5	55,7	55,7	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	SpaceAfter=No|XML=<w>
 6	'	'	NOUN	NNS	Number=Plur	4	conj	4:conj	XML=</w>
@@ -63,25 +63,25 @@ The following 13 pairs of parts of speech are connected with `list`: <tt><a href
 9	º	º	NOUN	NNS	Number=Plur	4	conj	4:conj	XML=</w>
 10	30,0	30,0	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	SpaceAfter=No|XML=<w>
 11	'	'	NOUN	NNS	Number=Plur	9	conj	4:conj|9:conj	XML=</w>
-12	E	E	ADV	RB	Degree=Pos	9	advmod	9:advmod	Entity=219)|SpaceAfter=No
+12	E	E	ADV	RB	Degree=Pos	9	advmod	9:advmod	Entity=220)|SpaceAfter=No
 13	;	;	PUNCT	:	_	14	punct	14:punct	_
-14	VHF	VHF	NOUN	NN	Number=Sing	4	list	4:list	Discourse=joint-other_m:148->147:0:grf-semcol-1136,1138|Entity=(220-abstract-new-nnnnn-cf5-1-sgl)|SpaceAfter=No
+14	VHF	VHF	NOUN	NN	Number=Sing	4	list	4:list	Discourse=joint-other_m:148->147:0:grf-semcol-1136,1138-_|Entity=(221-abstract-new-nnnnn-cf5-1-sgl)|SpaceAfter=No
 15	;	;	PUNCT	:	_	17	punct	17:punct	_
-16	10	10	NUM	CD	NumForm=Digit|NumType=Card	17	nummod	17:nummod	Discourse=joint-other_m:149->147:0:grf-semcol-1144|Entity=(221-place-new-nnnnn-cf6-2-sgl
-17	berths	berth	NOUN	NNS	Number=Plur	4	list	4:list	Entity=221)|MSeg=berth-s
+16	10	10	NUM	CD	NumForm=Digit|NumType=Card	17	nummod	17:nummod	Discourse=joint-other_m:149->147:0:grf-semcol-1144-_|Entity=(222-place-new-nnnnn-cf6-2-sgl
+17	berths	berth	NOUN	NNS	Number=Plur	4	list	4:list	Entity=222)|MSeg=berth-s
 18	at	at	ADP	IN	_	20	case	20:case	SpaceAfter=No
-19	?	?	SYM	SYM	_	20	nummod	20:nummod	Entity=(222-abstract-new-nnnnn-cf9-2-sgl
-20	DKK	DKK	SYM	$	_	17	nmod	17:nmod:at	Entity=222)|SpaceAfter=No
+19	?	?	SYM	SYM	_	20	nummod	20:nummod	Entity=(223-abstract-new-nnnnn-cf9-2-sgl
+20	DKK	DKK	SYM	$	_	17	nmod	17:nmod:at	Entity=223)|SpaceAfter=No
 21	;	;	PUNCT	:	_	22	punct	22:punct	_
-22	Depth	depth	NOUN	NN	Number=Sing	25	nsubj	25:nsubj	Discourse=organization-preparation:150->151:0:grf-col-1146|Entity=(223-abstract-new-nnnnn-cf1-1-sgl)|MSeg=Dep-th|SpaceAfter=No|XML=<w>
+22	Depth	depth	NOUN	NN	Number=Sing	25	nsubj	25:nsubj	Discourse=organization-preparation:150->151:0:grf-col-1146-_|Entity=(224-abstract-new-nnnnn-cf1-1-sgl)|MSeg=Dep-th|SpaceAfter=No|XML=<w>
 23	:	:	PUNCT	:	_	22	punct	22:punct	SpaceAfter=No
-24	2	2	NUM	CD	NumForm=Digit|NumType=Card	25	nummod	25:nummod	Discourse=joint-other_m:151->147:0:grf-semcol-1149|Entity=(224-abstract-new-nnnnn-cf7-2-sgl|SpaceAfter=No
-25	m	meter	NOUN	NNS	Number=Plur	4	list	4:list	Entity=224)|SpaceAfter=No|XML=</w>
+24	2	2	NUM	CD	NumForm=Digit|NumType=Card	25	nummod	25:nummod	Discourse=joint-other_m:151->147:0:grf-semcol-1149-_|Entity=(225-abstract-new-nnnnn-cf7-2-sgl|SpaceAfter=No
+25	m	meter	NOUN	NNS	Number=Plur	4	list	4:list	Entity=225)|SpaceAfter=No|XML=</w>
 26	;	;	PUNCT	:	_	27	punct	27:punct	_
-27	Speed	speed	NOUN	NN	Number=Sing	30	nsubj	30:nsubj	Discourse=organization-preparation:152->153:0:grf-col-1151|Entity=(225-abstract-new-nnnnn-cf2-1-sgl)|SpaceAfter=No
+27	Speed	speed	NOUN	NN	Number=Sing	30	nsubj	30:nsubj	Discourse=organization-preparation:152->153:0:grf-col-1151-_|Entity=(226-abstract-new-nnnnn-cf2-1-sgl)|SpaceAfter=No
 28	:	:	PUNCT	:	_	27	punct	27:punct	_
-29	3	3	NUM	CD	NumForm=Digit|NumType=Card	30	nummod	30:nummod	Discourse=joint-other_m:153->147:0:_|Entity=(226-abstract-new-nnnnn-cf8-2-sgl
-30	knots	knot	NOUN	NNS	Number=Plur	4	list	4:list	Entity=226)|MSeg=knot-s|SpaceAfter=No
+29	3	3	NUM	CD	NumForm=Digit|NumType=Card	30	nummod	30:nummod	Discourse=joint-other_m:153->147:0:_|Entity=(227-abstract-new-nnnnn-cf8-2-sgl
+30	knots	knot	NOUN	NNS	Number=Plur	4	list	4:list	Entity=227)|MSeg=knot-s|SpaceAfter=No
 31	.	.	PUNCT	.	_	1	punct	1:punct	XML=</hi>
 
 ~~~

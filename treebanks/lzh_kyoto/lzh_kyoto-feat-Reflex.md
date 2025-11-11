@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1041; 100% of non-empty `Reflex`): 自、 己
-* `EMPTY` (19757): 之、 其、 是、 此、 何、 吾、 我、 子、 或、 彼
+* `EMPTY` (19756): 之、 其、 是、 此、 何、 吾、 我、 子、 或、 彼
 

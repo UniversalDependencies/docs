@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ALTS: Relations: `csubj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `csubj`: <tt><a href="fr_alts-dep-csubj-outer.html">csubj:outer</a></tt>.
 
 2 nodes (0%) are attached to their parents as `csubj`.
 

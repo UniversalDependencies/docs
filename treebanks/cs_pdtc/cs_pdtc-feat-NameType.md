@@ -74,5 +74,5 @@ The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (49; 60%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-flat.html">flat</a></tt>]--> PROPN</tt> (34; 97%),
 <tt>PROPN --[<tt><a href="cs_pdtc-dep-obl.html">obl</a></tt>]--> PROPN</tt> (34; 74%),
-<tt>ADJ --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (32; 57%).
+<tt>ADJ --[<tt><a href="cs_pdtc-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (32; 56%).
 

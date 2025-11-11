@@ -29,7 +29,13 @@ The 2nd highest number of forms (1) was observed with the lemma “e”: <em>e</
 
 The 3rd highest number of forms (1) was observed with the lemma “ni”: <em>ni</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="es_pud-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (581 tokens).
+Examples: <em>y, pero, o, e, ni, and</em>
 
 
 ## Relations

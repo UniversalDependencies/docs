@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="af_afribooms-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.333333 (the average of all parts of speech is 1.120600).
+The form / lemma ratio of `CCONJ` is 1.333333 (the average of all parts of speech is 1.120578).
 
 The 1st highest number of forms (2) was observed with the lemma “en”: <em>en, én</em>.
 
@@ -48,9 +48,9 @@ Examples: <em>en, of, maar, asook, want, én, óf, plus</em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (1833; 94% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (62; 3% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (40; 2% instances), <tt><a href="af_afribooms-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (2; 0% instances)
+`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (1834; 94% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (62; 3% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (39; 2% instances), <tt><a href="af_afribooms-dep-fixed.html">fixed</a></tt> (9; 0% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (992; 51% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (479; 25% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (176; 9% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (111; 6% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (53; 3% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (40; 2% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (32; 2% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (17; 1% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (990; 51% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (479; 25% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (176; 9% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (111; 6% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (53; 3% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (40; 2% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (33; 2% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (17; 1% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances)
 
 1927 (99%) `CCONJ` nodes are leaves.
 

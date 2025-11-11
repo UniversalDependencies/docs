@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of advmod:neg in UD_Kurmanji-MG'
+title:  'Statistics of advmod:neg in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `advmod:neg`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `advmod:neg`
 
-This relation is a language-specific subtype of <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt>.
+This relation is a language-specific subtype of <tt><a href="kmr_kurmanji-dep-advmod.html">advmod</a></tt>.
 
 5 nodes (0%) are attached to their parents as `advmod:neg`.
 
 5 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.2.
 
-The following 3 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (3; 60% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt> (3; 60% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt> (1; 20% instances).
 
 
 ~~~ conllu

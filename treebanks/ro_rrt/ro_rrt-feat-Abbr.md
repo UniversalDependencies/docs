@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1295; 100% of non-empty `Abbr`): <em>art., a., nr., CE, b., mg, lit., alin., ml, CEE</em>
-* `EMPTY` (52963): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
+* `EMPTY` (52961): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (293) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (19; 100% of non-empty `Abbr`): <em>etc., cca, pm, p.m., v</em>
-* `EMPTY` (8847): <em>mai, când, cum, iar, astfel, nici, decât, numai, mult, înainte</em>
+* `EMPTY` (8849): <em>mai, când, cum, iar, astfel, nici, decât, numai, mult, înainte</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (18; 100% of non-empty `Abbr`): <em>n., e-, am, P.S., a.m., univ.</em>
-* `EMPTY` (15280): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
+* `EMPTY` (15279): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
 
 ### `X`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>mp, 5a, K., Rev, ș.a.</em>
-* `EMPTY` (152): <em>000, 500, 100, 0, 2, American, alia, dată, in, inter</em>
+* `EMPTY` (154): <em>000, 500, 100, 0, 2, American, alia, dată, in, inter</em>
 
 ### `PRON`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (8; 100% of non-empty `Abbr`): <em>ș.a., dvs., Î.P.S.</em>
-* `EMPTY` (11799): <em>se, care, ce, s-, el, le, o, își, -și, -l</em>
+* `EMPTY` (11800): <em>se, care, ce, s-, el, le, o, își, -și, -l</em>
 
 ### `CCONJ`
 
@@ -86,9 +86,8 @@ The most frequent other feature values with which `CCONJ` and `Abbr` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (56; 66%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (24; 63%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (29; 67%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (7; 88%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (5; 100%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-list.html">list</a></tt>]--> NOUN</tt> (5; 63%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%).
 

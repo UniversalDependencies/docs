@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-NorthernAutogramm: POS Tags: `NUM`
 
 There are 9 `NUM` lemmas (2%), 9 `NUM` types (1%) and 26 `NUM` tokens (1%).
-Out of 16 observed tags, the rank of `NUM` is: 13 in number of lemmas, 15 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 13 in number of lemmas, 14 in number of types and 15 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>ɗai, huɗu, ukkù, biyu, tàlàːtin, bakwài, dàriː, àrbà'in, sìttin</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ɗai</em> (<tt><a href="ha_northernau
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.465753).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.523810).
 
 The 1st highest number of forms (1) was observed with the lemma “bakwài”: <em>bakwài</em>.
 
@@ -37,19 +37,21 @@ The 3rd highest number of forms (1) was observed with the lemma “dàriː”: <
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 3 different relations: <tt><a href="ha_northernautogramm-dep-nmod.html">nmod</a></tt> (18; 69% instances), <tt><a href="ha_northernautogramm-dep-obl.html">obl</a></tt> (4; 15% instances), <tt><a href="ha_northernautogramm-dep-xcomp.html">xcomp</a></tt> (4; 15% instances)
+`NUM` nodes are attached to their parents using 6 different relations: <tt><a href="ha_northernautogramm-dep-nummod.html">nummod</a></tt> (16; 62% instances), <tt><a href="ha_northernautogramm-dep-nmod.html">nmod</a></tt> (4; 15% instances), <tt><a href="ha_northernautogramm-dep-xcomp.html">xcomp</a></tt> (3; 12% instances), <tt><a href="ha_northernautogramm-dep-dislocated.html">dislocated</a></tt> (1; 4% instances), <tt><a href="ha_northernautogramm-dep-obl.html">obl</a></tt> (1; 4% instances), <tt><a href="ha_northernautogramm-dep-root.html">root</a></tt> (1; 4% instances)
 
-Parents of `NUM` nodes belong to 4 different parts of speech: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (14; 54% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (9; 35% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (2; 8% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 4% instances)
+Parents of `NUM` nodes belong to 4 different parts of speech: <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (15; 58% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (9; 35% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 4% instances),  (1; 4% instances)
 
-21 (81%) `NUM` nodes are leaves.
+22 (85%) `NUM` nodes are leaves.
 
-4 (15%) `NUM` nodes have one child.
+2 (8%) `NUM` nodes have one child.
 
 1 (4%) `NUM` nodes have two children.
 
-The highest child degree of a `NUM` node is 2.
+1 (4%) `NUM` nodes have three or more children.
 
-Children of `NUM` nodes are attached using 4 different relations: <tt><a href="ha_northernautogramm-dep-case.html">case</a></tt> (2; 33% instances), <tt><a href="ha_northernautogramm-dep-punct.html">punct</a></tt> (2; 33% instances), <tt><a href="ha_northernautogramm-dep-advmod.html">advmod</a></tt> (1; 17% instances), <tt><a href="ha_northernautogramm-dep-det.html">det</a></tt> (1; 17% instances)
+The highest child degree of a `NUM` node is 10.
 
-Children of `NUM` nodes belong to 3 different parts of speech: <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (3; 50% instances), <tt><a href="ha_northernautogramm-pos-PUNCT.html">PUNCT</a></tt> (2; 33% instances), <tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 17% instances)
+Children of `NUM` nodes are attached using 9 different relations: <tt><a href="ha_northernautogramm-dep-advmod.html">advmod</a></tt> (3; 21% instances), <tt><a href="ha_northernautogramm-dep-case.html">case</a></tt> (2; 14% instances), <tt><a href="ha_northernautogramm-dep-dislocated.html">dislocated</a></tt> (2; 14% instances), <tt><a href="ha_northernautogramm-dep-punct.html">punct</a></tt> (2; 14% instances), <tt><a href="ha_northernautogramm-dep-cop.html">cop</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-dep-det.html">det</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-dep-discourse.html">discourse</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-dep-nsubj.html">nsubj</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-dep-obl.html">obl</a></tt> (1; 7% instances)
+
+Children of `NUM` nodes belong to 10 different parts of speech: <tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> (2; 14% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (2; 14% instances), <tt><a href="ha_northernautogramm-pos-PUNCT.html">PUNCT</a></tt> (2; 14% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-pos-INTJ.html">INTJ</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 7% instances)
 

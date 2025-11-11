@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 8 appos	color:blue
 1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+2	рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	сорок	сорок	NUM	Num	Case=Nom|NumType=Card	4	nummod	_	Lang=ru
 4	первом	первый	ADJ	A	Case=Ins|Number=Sing	5	amod	_	Lang=ru
 5	году	год	NOUN	N	Case=Dat|Number=Sing	2	obl	_	Lang=ru|SpaceAfter=No

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 179 tokens (1%) have a non-empty value of `Foreign`.
 141 types (4%) occur at least once with a non-empty value of `Foreign`.
-1 lemmas (0) occur at least once with a non-empty value of `Foreign`.
+140 lemmas (5%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 1 part-of-speech tags: <tt><a href="jv_csui-pos-X.html">X</a></tt> (179; 1% instances).
 
 ### `X`
@@ -22,6 +22,8 @@ The feature is used with 1 part-of-speech tags: <tt><a href="jv_csui-pos-X.html"
 
 * `Yes` (179; 100% of non-empty `Foreign`): <em>rock, eutanasia, penerbangan, perpustakaan, pertengahan, metal, semifinalis, suku, turnamen, arbitrase</em>
 * `EMPTY` (4): <em>administratif, daya, taunn, warga</em>
+
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (140) occur only with one value of `Foreign`.
 
 ## Relations with Agreement in `Foreign`
 

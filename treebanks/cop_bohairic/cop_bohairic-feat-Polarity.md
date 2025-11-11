@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 51 <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cop_bohairic-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (51; 100%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cop_bohairic-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="cop_bohairic-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (51; 100%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `CCONJ` and `Polarity` co-occu
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (42; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
-* `EMPTY` (1109): ⲟⲩⲟϩ, ⲁⲗⲗⲁ, ⲓⲉ, ⲓⲧⲉ, ϫⲉ, ϣⲁⲛ, ⲙⲏ, ⲕⲁⲓ, ⲕⲁⲛ, ⲓⲧⲁ
+* `EMPTY` (1108): ⲟⲩⲟϩ, ⲁⲗⲗⲁ, ⲓⲉ, ⲓⲧⲉ, ϫⲉ, ϣⲁⲛ, ⲙⲏ, ⲕⲁⲓ, ⲕⲁⲛ, ⲓⲧⲁ
 
 ### `PART`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): ⲙⲙⲟⲛ
-* `EMPTY` (1034): ⲛϫⲉ, ⲇⲉ, ⲉ, ⲅⲁⲣ, ⲉⲧ, ⲁ, ⲛ, ⲟⲩⲛ, ⲙⲉⲛ, ⲱ
+* `EMPTY` (1029): ⲛϫⲉ, ⲇⲉ, ⲉ, ⲅⲁⲣ, ⲉⲧ, ⲁ, ⲛ, ⲟⲩⲛ, ⲙⲉⲛ, ⲱ
 
 ### `SCONJ`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
-* `EMPTY` (1945): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲑ, ⲉⲧⲉ, ϩⲓⲛⲁ, ⲉⲣⲉ, ⲉϣⲱⲡ, ϩⲱⲥⲧⲉ, ϩⲱⲥ
+* `EMPTY` (1950): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲑ, ⲉⲧⲉ, ϩⲓⲛⲁ, ⲉⲣⲉ, ⲉϣⲱⲡ, ϩⲱⲥⲧⲉ, ϩⲱⲥ
 
 ### `X`
 

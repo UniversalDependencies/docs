@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Mariam Nakhlé, Chunxiao Yan, Aline Etienne, Marine Courtin.
 
 Repository: [UD_French-Rhapsodie](https://github.com/UniversalDependencies/UD_French-Rhapsodie)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_rhapsodie216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_rhapsodie217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -46,11 +46,10 @@ A Universal Dependencies corpus for spoken French.
 
 
 
-The corpus was converted automatically from the [Rhapsodie treebank](http://www.projet-rhapsodie.fr/) with manual corrections.
+The corpus was converted automatically from the [Rhapsodie treebank](https://rhapsodie.modyco.fr/) with manual corrections.
+The treebank in maintained in the repository [SUD_French-Rhapsodie](https://github.com/surfacesyntacticud/SUD_French-Rhapsodie) in the [SUD](https://surfacesyntacticud.github.io/) annotation schema.
 
-Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be added to future versions of this treebank as they are encoded in the Rhapsodie treebank.
-
-
+The SUD version is also available with prosodic annotation (see [SUD README.md](https://github.com/surfacesyntacticud/SUD_French-Rhapsodie/blob/master/README.md)).
 
 ## Acknowledgments
 
@@ -62,11 +61,11 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 
 ## Features
 
-[Definite](fr_rhapsodie-feat-Definite.html) – [Emph](fr_rhapsodie-feat-Emph.html) – [ExtPos](fr_rhapsodie-feat-ExtPos.html) – [Foreign](fr_rhapsodie-feat-Foreign.html) – [Gender](fr_rhapsodie-feat-Gender.html) – [Mood](fr_rhapsodie-feat-Mood.html) – [Number](fr_rhapsodie-feat-Number.html) – [Number[psor]](fr_rhapsodie-feat-Number-psor.html) – [NumType](fr_rhapsodie-feat-NumType.html) – [Person](fr_rhapsodie-feat-Person.html) – [Person[psor]](fr_rhapsodie-feat-Person-psor.html) – [Polarity](fr_rhapsodie-feat-Polarity.html) – [Poss](fr_rhapsodie-feat-Poss.html) – [PronType](fr_rhapsodie-feat-PronType.html) – [Reflex](fr_rhapsodie-feat-Reflex.html) – [Tense](fr_rhapsodie-feat-Tense.html) – [VerbForm](fr_rhapsodie-feat-VerbForm.html)
+[Case](fr_rhapsodie-feat-Case.html) – [Definite](fr_rhapsodie-feat-Definite.html) – [Emph](fr_rhapsodie-feat-Emph.html) – [ExtPos](fr_rhapsodie-feat-ExtPos.html) – [Foreign](fr_rhapsodie-feat-Foreign.html) – [Gender](fr_rhapsodie-feat-Gender.html) – [Mood](fr_rhapsodie-feat-Mood.html) – [Number](fr_rhapsodie-feat-Number.html) – [Number[psor]](fr_rhapsodie-feat-Number-psor.html) – [NumType](fr_rhapsodie-feat-NumType.html) – [Person](fr_rhapsodie-feat-Person.html) – [Person[psor]](fr_rhapsodie-feat-Person-psor.html) – [Polarity](fr_rhapsodie-feat-Polarity.html) – [Poss](fr_rhapsodie-feat-Poss.html) – [PronType](fr_rhapsodie-feat-PronType.html) – [Reflex](fr_rhapsodie-feat-Reflex.html) – [Tense](fr_rhapsodie-feat-Tense.html) – [VerbForm](fr_rhapsodie-feat-VerbForm.html) – [Voice](fr_rhapsodie-feat-Voice.html)
 
 ## Relations
 
-[acl](fr_rhapsodie-dep-acl.html) – [acl:relcl](fr_rhapsodie-dep-acl-relcl.html) – [advcl](fr_rhapsodie-dep-advcl.html) – [advcl:cleft](fr_rhapsodie-dep-advcl-cleft.html) – [advmod](fr_rhapsodie-dep-advmod.html) – [amod](fr_rhapsodie-dep-amod.html) – [appos](fr_rhapsodie-dep-appos.html) – [aux](fr_rhapsodie-dep-aux.html) – [aux:caus](fr_rhapsodie-dep-aux-caus.html) – [aux:pass](fr_rhapsodie-dep-aux-pass.html) – [aux:tense](fr_rhapsodie-dep-aux-tense.html) – [case](fr_rhapsodie-dep-case.html) – [cc](fr_rhapsodie-dep-cc.html) – [ccomp](fr_rhapsodie-dep-ccomp.html) – [compound](fr_rhapsodie-dep-compound.html) – [conj](fr_rhapsodie-dep-conj.html) – [cop](fr_rhapsodie-dep-cop.html) – [csubj](fr_rhapsodie-dep-csubj.html) – [csubj:pass](fr_rhapsodie-dep-csubj-pass.html) – [dep](fr_rhapsodie-dep-dep.html) – [dep:comp](fr_rhapsodie-dep-dep-comp.html) – [det](fr_rhapsodie-dep-det.html) – [discourse](fr_rhapsodie-dep-discourse.html) – [dislocated](fr_rhapsodie-dep-dislocated.html) – [expl:comp](fr_rhapsodie-dep-expl-comp.html) – [expl:pass](fr_rhapsodie-dep-expl-pass.html) – [expl:subj](fr_rhapsodie-dep-expl-subj.html) – [fixed](fr_rhapsodie-dep-fixed.html) – [flat](fr_rhapsodie-dep-flat.html) – [flat:name](fr_rhapsodie-dep-flat-name.html) – [iobj](fr_rhapsodie-dep-iobj.html) – [mark](fr_rhapsodie-dep-mark.html) – [nmod](fr_rhapsodie-dep-nmod.html) – [nmod:appos](fr_rhapsodie-dep-nmod-appos.html) – [nsubj](fr_rhapsodie-dep-nsubj.html) – [nsubj:caus](fr_rhapsodie-dep-nsubj-caus.html) – [nsubj:pass](fr_rhapsodie-dep-nsubj-pass.html) – [nummod](fr_rhapsodie-dep-nummod.html) – [obj](fr_rhapsodie-dep-obj.html) – [obj:lvc](fr_rhapsodie-dep-obj-lvc.html) – [obl](fr_rhapsodie-dep-obl.html) – [obl:agent](fr_rhapsodie-dep-obl-agent.html) – [obl:arg](fr_rhapsodie-dep-obl-arg.html) – [obl:mod](fr_rhapsodie-dep-obl-mod.html) – [orphan](fr_rhapsodie-dep-orphan.html) – [parataxis](fr_rhapsodie-dep-parataxis.html) – [parataxis:insert](fr_rhapsodie-dep-parataxis-insert.html) – [parataxis:parenth](fr_rhapsodie-dep-parataxis-parenth.html) – [punct](fr_rhapsodie-dep-punct.html) – [reparandum](fr_rhapsodie-dep-reparandum.html) – [root](fr_rhapsodie-dep-root.html) – [vocative](fr_rhapsodie-dep-vocative.html) – [xcomp](fr_rhapsodie-dep-xcomp.html)
+[acl](fr_rhapsodie-dep-acl.html) – [acl:relcl](fr_rhapsodie-dep-acl-relcl.html) – [advcl](fr_rhapsodie-dep-advcl.html) – [advcl:cleft](fr_rhapsodie-dep-advcl-cleft.html) – [advmod](fr_rhapsodie-dep-advmod.html) – [amod](fr_rhapsodie-dep-amod.html) – [appos](fr_rhapsodie-dep-appos.html) – [aux](fr_rhapsodie-dep-aux.html) – [aux:caus](fr_rhapsodie-dep-aux-caus.html) – [aux:pass](fr_rhapsodie-dep-aux-pass.html) – [aux:tense](fr_rhapsodie-dep-aux-tense.html) – [case](fr_rhapsodie-dep-case.html) – [cc](fr_rhapsodie-dep-cc.html) – [ccomp](fr_rhapsodie-dep-ccomp.html) – [compound](fr_rhapsodie-dep-compound.html) – [conj](fr_rhapsodie-dep-conj.html) – [cop](fr_rhapsodie-dep-cop.html) – [csubj](fr_rhapsodie-dep-csubj.html) – [csubj:pass](fr_rhapsodie-dep-csubj-pass.html) – [dep](fr_rhapsodie-dep-dep.html) – [dep:comp](fr_rhapsodie-dep-dep-comp.html) – [det](fr_rhapsodie-dep-det.html) – [discourse](fr_rhapsodie-dep-discourse.html) – [dislocated](fr_rhapsodie-dep-dislocated.html) – [expl:comp](fr_rhapsodie-dep-expl-comp.html) – [expl:pass](fr_rhapsodie-dep-expl-pass.html) – [expl:subj](fr_rhapsodie-dep-expl-subj.html) – [fixed](fr_rhapsodie-dep-fixed.html) – [flat](fr_rhapsodie-dep-flat.html) – [flat:foreign](fr_rhapsodie-dep-flat-foreign.html) – [flat:name](fr_rhapsodie-dep-flat-name.html) – [iobj](fr_rhapsodie-dep-iobj.html) – [mark](fr_rhapsodie-dep-mark.html) – [nmod](fr_rhapsodie-dep-nmod.html) – [nmod:appos](fr_rhapsodie-dep-nmod-appos.html) – [nsubj](fr_rhapsodie-dep-nsubj.html) – [nsubj:caus](fr_rhapsodie-dep-nsubj-caus.html) – [nsubj:outer](fr_rhapsodie-dep-nsubj-outer.html) – [nsubj:pass](fr_rhapsodie-dep-nsubj-pass.html) – [nummod](fr_rhapsodie-dep-nummod.html) – [obj](fr_rhapsodie-dep-obj.html) – [obj:lvc](fr_rhapsodie-dep-obj-lvc.html) – [obl](fr_rhapsodie-dep-obl.html) – [obl:agent](fr_rhapsodie-dep-obl-agent.html) – [obl:arg](fr_rhapsodie-dep-obl-arg.html) – [obl:mod](fr_rhapsodie-dep-obl-mod.html) – [orphan](fr_rhapsodie-dep-orphan.html) – [parataxis](fr_rhapsodie-dep-parataxis.html) – [parataxis:insert](fr_rhapsodie-dep-parataxis-insert.html) – [parataxis:parenth](fr_rhapsodie-dep-parataxis-parenth.html) – [punct](fr_rhapsodie-dep-punct.html) – [reparandum](fr_rhapsodie-dep-reparandum.html) – [root](fr_rhapsodie-dep-root.html) – [vocative](fr_rhapsodie-dep-vocative.html) – [xcomp](fr_rhapsodie-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -105,15 +104,15 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 </ul>
 
 <ul>
-<li>This corpus contains 42 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, certain, chacun, ci, dont, en, eux, j~, le, lequel, lui, lui-même, moi, moi-même, nous, on, où, personne, plusieurs, que, quel, quelqu'un, qui, quoi, qu~, rien, sien, soi, soi-même, tel, toi, tout, un, vous, vous-même, y, ça</li>
+<li>This corpus contains 40 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, certain, chacun, ci, dont, en, eux, le, lequel, lui, lui-même, moi, moi-même, nous, on, où, personne, plusieurs, que, quel, quelqu'un, qui, quoi, rien, sien, soi, soi-même, tel, toi, tout, un, vous, vous-même, y, ça</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as determiners (DET): A, aucun, autre, ce, certain, chaque, de, des, du, d~, le, les, l~, plusieurs, quel, quelque, son, tel, tout, toute, un, un~, u~</li>
+<li>This corpus contains 17 lemmas tagged as determiners (DET): aucun, ce, certain, chaque, de, des, du, le, les, plusieurs, quel, quelque, son, tel, tout, toute, un</li>
 </ul>
 
 <ul>
-<li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: aucun, autre, ce, certain, le, plusieurs, quel, tel, tout, un</li>
+<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, le, plusieurs, quel, tel, tout, un</li>
 </ul>
 
 <ul>
@@ -151,7 +150,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
   <ul>
     <li>ADJ: entendu, étonnée</li>
     <li>AUX: été, fait, ayant, faisant, étant</li>
-    <li>VERB: dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</li>
+    <li>VERB: dit, fait, eu, pu, travaillé, arrivé, vu, compris, vécu, été</li>
   </ul>
   </li>
 </ul>
@@ -166,13 +165,12 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: jeune, grande, petite, magique, autre, bonne, toutes, première, toute, même</li>
+      <li>ADJ: bonne, petite, toutes, grande, toute, droite, première, certaine, chrétienne, différentes</li>
       <li>ADJ-Part: étonnée</li>
       <li>DET: la, une, cette, sa, ma, toute, aucune, quelle, certaines, ta</li>
-      <li>NOUN: place, vie, fille, chose, gauche, rue, droite, fois, boule, choses</li>
       <li>PRON: elle, elles, une, la, celle, laquelle, celles, chacune, aucune, elle-même</li>
       <li>PROPN: Nef, Beauce, Seine, CGC, France, Marne, Mort, Rolex, Shoah, Vire</li>
-      <li>VERB-Part: arrivée, née, venue, rentrée, restée, étonnée, obligée, partie, renforcée, revenue</li>
+      <li>VERB-Part: faite, mise, prise, prises, comprise, dites, faites, ouverte, produites</li>
     </ul>
   </li>
 </ul>
@@ -180,14 +178,13 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: tout, petit, tous, vrai, droit, premier, sûr, même, bon, grand</li>
-      <li>ADJ-Part: entendu</li>
+      <li>ADJ: tout, tous, petit, droit, français, premier, bon, petits, gros, grand</li>
       <li>AUX-Part: été, fait</li>
-      <li>DET: le, un, ce, cet, du, aucun, quel, certains, tel, tous</li>
-      <li>NOUN: fait, moment, ans, gens, temps, art, côté, monde, accord, cas</li>
+      <li>DET: le, un, ce, mon, son, cet, du, aucun, quel, certains</li>
+      <li>NOUN: Argentins, Beaucerons, Français</li>
       <li>PRON: c', il, on, ça, ils, ce, le, -ce, lui, rien</li>
-      <li>PROPN: Kenya, Maître, Gâtinais, Figaro, Beauceron, Argentins, Beaucerons, Chinois, Christ, Conseil</li>
-      <li>VERB-Part: dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</li>
+      <li>PROPN: Kenya, Maître, Gâtinais, Figaro, Beauceron, Chinois, Christ, Conseil, Général, Hommes</li>
+      <li>VERB-Part: dit, fait, pu, compris, été, pris, mis, assis, fallu, mort</li>
     </ul>
   </li>
 </ul>
@@ -200,16 +197,16 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: tous, toutes, grands, autres, jeunes, petits, grandes, bons, différentes, nombreux</li>
+      <li>ADJ: grands, grandes, chers, normaux, sociaux, autres, bonnes, derniers, énormes, Dernières</li>
       <li>AUX-Fin: sont, ont, avez, êtes, avons, étaient, sommes, avaient, étiez, soient</li>
       <li>DET: les, des, ces, ses, vos, nos, mes, de, d', plusieurs</li>
-      <li>NOUN: ans, gens, choses, enfants, années, heures, études, livres, fonctions, hommes</li>
-      <li>NUM: deux, mille, cent, neuf, dix-huit, trois, trente, quatre, cinquante, douze</li>
+      <li>NOUN: gens, fois, yeux, cas, cours, mois, journaux, pays, animaux, bus</li>
+      <li>NUM: cent, neuf, mille, dix-huit, deux, cinquante-six, six, cents, cinq, cinquante</li>
       <li>PRON: vous, ils, nous, les, ceux, autres, elles, -vous, tous, eux</li>
-      <li>PROPN: Antilles, Mines, Argentins, Beaucerons, Français, Hommes, Portugais</li>
+      <li>PROPN: Antilles, Mines, Hommes, Portugais</li>
       <li>VERB: allez, ont, avez, continuez, disons, voulez, voyez, sont, pouvez, savez</li>
       <li>VERB-Fin: allez, ont, avez, continuez, disons, voulez, voyez, sont, pouvez, savez</li>
-      <li>VERB-Part: partis, données, eus, passées, passés, prises, rentrés, repartis, touchés, vues</li>
+      <li>VERB-Part: cagoulés</li>
     </ul>
   </li>
 </ul>
@@ -217,21 +214,47 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: tout, petit, jeune, grande, vrai, autre, droit, même, premier, grand</li>
-      <li>ADJ-Part: entendu, étonnée</li>
-      <li>AUX-Fin: est, a, ai, était, suis, avait, étais, sera, soit, aurais</li>
+      <li>ADJ: grande, grand, premier, nouveau, première, social, national, normal, nouvelle, spécial</li>
+      <li>AUX-Fin: est, a, ai, était, suis, avait, étais, soit, sera, aurais</li>
       <li>AUX-Part: été, fait</li>
       <li>DET: le, la, l', un, une, ce, cette, mon, votre, sa</li>
-      <li>NOUN: fait, moment, place, art, côté, monde, vie, fille, chose, accord</li>
+      <li>NOUN: temps, fois, mal, monsieur, pays, hôpital, sens, cas, internet, procès</li>
       <li>NUM: un, zéro</li>
       <li>PRON: c', je, il, on, ça, j', ce, tu, elle, me</li>
       <li>PROPN: Nef, Kenya, Maître, Beauce, Gâtinais, Ethiopie, Figaro, Beauceron, Seine, Église</li>
       <li>VERB-Fin: a, est, va, faut, ai, peut, avait, crois, sais, vais</li>
-      <li>VERB-Part: dit, fait, eu, pu, travaillé, vu, arrivé, vécu, été, choisi</li>
+      <li>VERB-Part: pu, été, fallu, délate, relivré</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: le, vous, l', les, m', nous, me, la, t', te</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dat
+    <ul>
+      <li>PRON: me, m', vous, nous, lui, leur, te, t'</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: je, il, vous, on, j', ils, tu, nous, elle, elles</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -345,7 +368,6 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
       <li>AUX-Fin: fut</li>
       <li>AUX-Part: été, fait</li>
       <li>VERB-Fin: durent</li>
-      <li>VERB-Part: dit, fait, eu, pu, travaillé, vu, arrivé, compris, vécu, été</li>
     </ul>
   </li>
 </ul>
@@ -356,11 +378,29 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
       <li>AUX-Fin: est, a, ai, sont, suis, ont, avez, êtes, avons, soit</li>
       <li>AUX-Part: ayant, faisant, étant</li>
       <li>VERB-Fin: a, est, va, faut, ai, allez, peut, crois, sais, vais</li>
-      <li>VERB-Part: attendant, disant, parlant, restant, allant, croyant, donnant, entendant, faisant, longeant</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Act
+    <ul>
+      <li>VERB-Part: dit, eu, fait, pu, travaillé, vu, vécu, été, arrivé, choisi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>VERB-Part: fait, venue, devenu, obligée, rentrée, revenue, abîmée, attifée, contré, développée</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -400,7 +440,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
     <ul>
       <li>ADJ: autres</li>
       <li>DET: quelque, chaque, quelques, plusieurs, toute, certains, tel, tous, certaines, toutes</li>
-      <li>PRON: on, tout, autres, un, quoi, quelqu'un, l'on, autre, tous, une</li>
+      <li>PRON: on, tout, autres, un, quelqu'un, l'on, autre, tous, une, chacun</li>
     </ul>
   </li>
 </ul>
@@ -408,10 +448,10 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Int
     <ul>
-      <li>ADJ: quel, quelles, quels</li>
+      <li>ADJ: quelles, quels, quel</li>
       <li>ADV: comment, pourquoi, combien, quand, où</li>
       <li>DET: quel, quelle</li>
-      <li>PRON: qu', qui, où, quel, quoi, quelles</li>
+      <li>PRON: qu', quoi, qui, où, quel, quelles</li>
     </ul>
   </li>
 </ul>
@@ -439,7 +479,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
   <li>Rel
     <ul>
       <li>ADJ: quelle</li>
-      <li>PRON: qui, que, où, qu', dont, lequel, laquelle, lesquelles</li>
+      <li>PRON: qui, que, où, qu', dont, lequel, laquelle, quoi, lesquelles</li>
     </ul>
   </li>
 </ul>
@@ -508,7 +548,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: est, a, était, sont, ont, avait, étaient, sera, soit, fait</li>
+      <li>AUX-Fin: est, a, était, sont, ont, avait, étaient, soit, sera, fait</li>
       <li>PRON: c', il, on, ça, y, ce, ils, se, elle, s'</li>
       <li>VERB-Fin: a, est, va, faut, peut, avait, fait, ont, dit, voit</li>
     </ul>
@@ -546,12 +586,12 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
     <ul>
       <li>No
         <ul>
-          <li>PRON: le, l', la, elle</li>
+          <li>PRON: je, il, vous, on, j', ils, nous, tu, elle, le</li>
         </ul>
       </li>
       <li>Yes
         <ul>
-          <li>PRON: lui, elle</li>
+          <li>PRON: moi, lui, eux, toi, -nous, lui-même, vous-même, -vous, elle, elle-même</li>
         </ul>
       </li>
     </ul>
@@ -565,12 +605,14 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
         <ul>
           <li>ADP: à</li>
           <li>ADV: bien</li>
+          <li>X: aus~, ex~, frai~, hédo~, portu~, qu~, éner~</li>
         </ul>
       </li>
       <li>ADP
         <ul>
           <li>ADP: d', en, à, pour</li>
           <li>PRON: il, y</li>
+          <li>X: a~, dep~, de~</li>
         </ul>
       </li>
       <li>ADV
@@ -584,17 +626,20 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
           <li>PRON: rien</li>
           <li>SCONJ: quand</li>
           <li>VERB-Fin: sais</li>
+          <li>X: n~, beau~, tou~, ass~, au~, déj~, maint~, peut~, pra~, s~</li>
         </ul>
       </li>
       <li>CCONJ
         <ul>
           <li>CCONJ: et, c'est-à-dire, ou, sauf</li>
+          <li>X: c'est~</li>
         </ul>
       </li>
       <li>DET
         <ul>
           <li>ADP: de</li>
           <li>ADV: n'</li>
+          <li>X: l~, u~, un~, d~</li>
         </ul>
       </li>
       <li>INTJ
@@ -612,21 +657,27 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
           <li>NOUN: chef, face</li>
           <li>VERB-Fin: disons, sais</li>
           <li>VERB-Inf: dire</li>
-          <li>X: XXX</li>
+          <li>X: XXX, ca~, dis~, entour~, ex~, ma~, ar~, ch~, desc~, déb~</li>
+        </ul>
+      </li>
+      <li>NUM
+        <ul>
+          <li>X: vingt~</li>
         </ul>
       </li>
       <li>PRON
         <ul>
           <li>ADJ: grand</li>
           <li>ADV: beaucoup, n', combien, quand</li>
+          <li>X: j~, qu~</li>
         </ul>
       </li>
       <li>PROPN
         <ul>
-          <li>NOUN: Barrage, Amant, Maladie, Photographie, jeux, reflet</li>
+          <li>NOUN: Barrage, Amant, Photographie, jeux, reflet, Maladie</li>
           <li>PROPN: Kafka, Voix</li>
           <li>VERB-Part: lus</li>
-          <li>X: XXX</li>
+          <li>X: XXX, A~, Bel~, Ch~, Emmanu~, Fran~, Gu~, M~, Ora~, Sor~</li>
         </ul>
       </li>
       <li>SCONJ
@@ -634,13 +685,14 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
           <li>ADV: parce, alors, plus, plutôt, ainsi, encore, peut-être, surtout</li>
           <li>CCONJ: sauf</li>
           <li>DET: une</li>
+          <li>X: pa~</li>
         </ul>
       </li>
       <li>VERB
         <ul>
           <li>PRON: s'</li>
           <li>VERB-Fin: sait</li>
-          <li>X: XXX</li>
+          <li>X: f~, XXX, p~, a~, sa~, ét~, é~, ai~, arri~, conti~</li>
         </ul>
       </li>
     </ul>
@@ -652,9 +704,9 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Small, flying</li>
-          <li>DET: A</li>
-          <li>NOUN: World, aisthesis, poïésis, doctors</li>
+          <li>ADJ: flying</li>
+          <li>NOUN: doctors</li>
+          <li>X: A, Small, World, aisthesis, poïésis</li>
         </ul>
       </li>
     </ul>
@@ -704,13 +756,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--PRON (33)</li>
-      <li>VERB-Fin--NOUN (181)</li>
-      <li>VERB-Fin--PRON (1879)</li>
+      <li>VERB--PRON-Nom (5)</li>
+      <li>VERB-Fin--NOUN (183)</li>
+      <li>VERB-Fin--PRON (443)</li>
+      <li>VERB-Fin--PRON-Nom (1418)</li>
       <li>VERB-Inf--NOUN (6)</li>
       <li>VERB-Inf--PRON (13)</li>
-      <li>VERB-Part--NOUN (40)</li>
-      <li>VERB-Part--PRON (389)</li>
+      <li>VERB-Part--NOUN (42)</li>
+      <li>VERB-Part--PRON (86)</li>
+      <li>VERB-Part--PRON-Nom (309)</li>
     </ul>
   </li>
 </ul>
@@ -719,21 +773,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (5)</li>
-      <li>VERB--PRON (5)</li>
-      <li>VERB-Fin--NOUN (547)</li>
+      <li>VERB-Fin--NOUN (543)</li>
       <li>VERB-Fin--NOUN-ADP(dans) (2)</li>
       <li>VERB-Fin--NOUN-ADP(de) (17)</li>
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
-      <li>VERB-Fin--PRON (300)</li>
+      <li>VERB-Fin--PRON (188)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN (232)</li>
+      <li>VERB-Fin--PRON-Acc (103)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN (233)</li>
       <li>VERB-Inf--NOUN-ADP(de) (2)</li>
-      <li>VERB-Inf--PRON (134)</li>
+      <li>VERB-Inf--PRON (71)</li>
+      <li>VERB-Inf--PRON-Acc (60)</li>
       <li>VERB-Part--NOUN (144)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(sur) (1)</li>
-      <li>VERB-Part--PRON (86)</li>
+      <li>VERB-Part--PRON (43)</li>
       <li>VERB-Part--PRON-ADP(à) (1)</li>
+      <li>VERB-Part--PRON-Acc (41)</li>
     </ul>
   </li>
 </ul>
@@ -741,10 +798,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--PRON (92)</li>
-      <li>VERB-Inf--PRON (39)</li>
-      <li>VERB-Part--PRON (45)</li>
+      <li>VERB-Fin--PRON (24)</li>
+      <li>VERB-Fin--PRON-Acc (3)</li>
+      <li>VERB-Fin--PRON-Dat (69)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--PRON (16)</li>
+      <li>VERB-Inf--PRON-Dat (26)</li>
+      <li>VERB-Part--PRON (10)</li>
+      <li>VERB-Part--PRON-Dat (37)</li>
     </ul>
   </li>
 </ul>
@@ -760,7 +821,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 20 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:subj</a>, <a>flat:name</a>, <a>nmod:appos</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:parenth</a></li>
+<li>This corpus uses 22 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:appos</a>, <a>nsubj:caus</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:parenth</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

@@ -11,7 +11,7 @@ It occurs with 15 different values: `Abe`, `Acc`, `Apr`, `Cmp`, `Com`, `Dat`, `E
 
 409 tokens (38%) have a non-empty value of `Case`.
 288 types (50%) occur at least once with a non-empty value of `Case`.
-217 lemmas (48%) occur at least once with a non-empty value of `Case`.
+216 lemmas (48%) occur at least once with a non-empty value of `Case`.
 The feature is used with 9 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (233; 22% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (102; 9% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (27; 2% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `NOUN`
@@ -46,7 +46,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 102 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (92; 90%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (83; 81%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (92; 90%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (84; 82%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -142,7 +142,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 3 <tt><a href="koi_uh-pos-DET.html">DET</a></tt> tokens (50% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2; 67%).
 
 `DET` tokens may have the following values of `Case`:
 

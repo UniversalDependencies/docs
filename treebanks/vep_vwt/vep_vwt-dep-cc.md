@@ -23,14 +23,14 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="v
 # visual-style 5	fgColor:white
 # visual-style 5 1 cc	color:blue
 1	No	no	CCONJ	_	_	5	cc	_	_
-2	meile	mö	PRON	_	Case=All|Number=Plur|Person=1|PronType=Prs	5	obl	_	_
+2	meile	minä	PRON	_	Case=All|Number=Plur|Person=1|PronType=Prs	5	obl	_	_
 3	ei	ei	AUX	_	Number=Sing|Person=3|Polarity=Neg	5	aux	_	_
 4	pida	pidada	AUX	_	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 5	unohtada	unohtada	VERB	_	VerbForm=Inf	0	root	_	_
 6	ičeze	iče	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	nmod	_	_
-7	jurid	jur'	NOUN	_	Case=Par|Number=Plur	5	obj	_	_
+7	jurid	jurʼ	NOUN	_	Case=Par|Number=Plur	5	obj	_	_
 8	da	da	CCONJ	_	_	9	cc	_	_
-9	kodikel't	kodikel'	NOUN	_	Case=Par|Number=Sing	7	conj	_	_
+9	kodikelʼt	kodikelʼ	NOUN	_	Case=Par|Number=Sing	7	conj	_	_
 10	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -70,7 +70,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="v
 9	om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
 10	lujas	lujas	ADV	_	_	11	advmod	_	_
 11	tärged	tärged	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	conj	_	_
-12	meiden	mö	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	obl	_	_
+12	meiden	minä	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	obl	_	_
 13	täht	täht	ADP	_	AdpType=Post	12	case	_	_
 14	.	.	PUNCT	_	_	5	punct	_	_
 

@@ -12,18 +12,18 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 9453 tokens (12%) have a non-empty value of `Mood`.
 1155 types (11%) occur at least once with a non-empty value of `Mood`.
 434 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4766; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4668; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4767; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4668; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-4766 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Mood`.
+4767 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4702; 99%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4260; 89%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3494; 73%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3487; 73%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3267; 69%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4702; 99%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4260; 89%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3495; 73%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3487; 73%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3267; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (30; 1% of non-empty `Mood`): <em>Gripið, samanber, fyrirgefið, Afsaka, athugið, bið, fyrirgef, komið, leyfðu</em>
-* `Ind` (4057; 85% of non-empty `Mood`): <em>hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</em>
+* `Ind` (4058; 85% of non-empty `Mood`): <em>hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</em>
 * `Sub` (679; 14% of non-empty `Mood`): <em>verði, eigi, ætti, fari, þurfi, ættum, komi, yrði, eigum, fái</em>
 * `EMPTY` (4529): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
 
@@ -79,13 +79,13 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `ADV`
 
-13 <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Mood`.
+12 <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `ADV` and `Mood` co-occurred: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (13; 100%).
+The most frequent other feature values with which `ADV` and `Mood` co-occurred: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (12; 100%).
 
 `ADV` tokens may have the following values of `Mood`:
 
-* `Ind` (12; 92% of non-empty `Mood`): <em>varðar, kunna, líkar, lýtur, tekur, verður, viðkemur</em>
+* `Ind` (11; 92% of non-empty `Mood`): <em>varðar, kunna, líkar, lýtur, tekur, verður</em>
 * `Sub` (1; 8% of non-empty `Mood`): <em>telji</em>
 * `EMPTY` (6947): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
 
@@ -124,7 +124,7 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (419; 60%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (420; 60%),
 <tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (40; 65%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),

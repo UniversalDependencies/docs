@@ -89,7 +89,7 @@ The following 11 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 14	iacuit	iaceo	VERB	B2	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	LiLaflcat=v2
 15	et	et	ADV	M	Degree=Pos	17	advmod:emph	_	LASLAVariant=1|LiLaflcat=i
 16	poenae	poena	NOUN	A1	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	17	nmod	_	LiLaflcat=n1
-17	comes	comes	NOUN	A3	Case=Nom|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	14	advcl:pred	_	LiLaflcat=n3
+17	comes	comes	NOUN	A3	Case=Nom|Gender=Fem,Masc|InflClass=IndEurX|Number=Sing	11	conj	_	LiLaflcat=n3
 
 ~~~
 

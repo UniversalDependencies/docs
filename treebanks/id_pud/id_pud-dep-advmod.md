@@ -28,7 +28,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 3	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	6	nsubj	_	_
 4	tetap	tetap	ADV	_	_	6	advmod	_	_
 5	akan	akan	AUX	_	_	6	aux	_	_
-6	masuk	masuk	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	masuk	masuk	VERB	_	Voice=Act	0	root	_	_
 7	penjara	penjara	NOUN	_	Number=Sing	6	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	semoga	moga	ADV	_	_	10	advmod	_	_
@@ -47,7 +47,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6 1 advmod	color:blue
 1	Mungkin	mungkin	ADV	_	_	6	advmod	_	_
 2	kode	kode	NOUN	_	Number=Sing	6	nsubj	_	_
-3	berpakaian	pakai	VERB	_	Mood=Ind|Voice=Act	2	acl	_	_
+3	berpakaian	pakai	VERB	_	Voice=Act	2	acl	_	_
 4	nya	nya	DET	_	Definite=Def|PronType=Art	2	det	_	_
 5	terlalu	lalu	ADV	_	_	6	advmod	_	_
 6	sesak	sesak	ADJ	_	_	0	root	_	SpaceAfter=No
@@ -65,11 +65,11 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	Namun	namun	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	masih	masih	ADV	_	_	4	advmod	_	_
-4	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	ada	ada	VERB	_	Voice=Act	0	root	_	_
 5	pertanyaan	tanya	NOUN	_	Number=Sing	4	nsubj	_	_
 6	yang	yang	PRON	_	PronType=Rel	8	nsubj:pass	_	_
 7	tak	tak	PART	_	Polarity=Neg	8	advmod	_	_
-8	terjawab	jawab	VERB	_	Mood=Ind|Voice=Pass	5	acl:relcl	_	SpaceAfter=No
+8	terjawab	jawab	VERB	_	Voice=Pass	5	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

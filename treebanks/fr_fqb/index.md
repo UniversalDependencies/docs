@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Djamé Seddah, Marie Candito, Bruno Guillaume.
 
 Repository: [UD_French-FQB](https://github.com/UniversalDependencies/UD_French-FQB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: LGPL-LR
 
@@ -86,11 +86,11 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 
 <ul>
-<li>This corpus contains 2289 sentences, 23347 tokens and 23899 syntactic words.</li>
+<li>This corpus contains 2289 sentences, 23345 tokens and 23897 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2285 tokens (10%) that are not followed by a space.</li>
+<li>This corpus contains 2283 tokens (10%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -98,7 +98,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 </ul>
 
 <ul>
-<li>This corpus contains 121 types of words that contain both letters and punctuation. Examples: l', d', qu', -ce, -t-il, -il, -je, -t-elle, États-Unis, -t-on, -elle, s', -ils, -on, j', n', 's, -elles, -vous, Croix-Rouge, C., lorsqu', D., B., J., Sainte-Hélène, afro-américain, m', S., vice-président, 'n, -moi, Dr., E., F., Grande-Bretagne, Nouvelle-Zélande, O', Viêt-nam, W., Wal-Mart, nouveau-né, outre-mer, plus-value, quelqu'un, t-il, A., Ben-Hur, Blanche-Neige, E.coli</li>
+<li>This corpus contains 122 types of words that contain both letters and punctuation. Examples: l', d', qu', -ce, -t-il, -il, -je, -t-elle, États-Unis, -t-on, -elle, s', -ils, -on, j', n', 's, -elles, -vous, Croix-Rouge, C., lorsqu', D., B., J., Sainte-Hélène, afro-américain, m', S., vice-président, 'n, -moi, Dr., E., F., Grande-Bretagne, Nouvelle-Zélande, O', Viêt-nam, W., Wal-Mart, l'on, nouveau-né, outre-mer, plus-value, quelqu'un, t-il, A., Ben-Hur, Blanche-Neige</li>
 </ul>
 
 <ul>
@@ -119,15 +119,15 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as pronouns (PRON): 2000, _, autre, ce, cela, celui, celui-ci, dont, il, il_y_a, le, le/lui, lequel, où, que, quelqu'un, quels, qui, quoi, soi, t-il, tout, un, y, y_compris</li>
+<li>This corpus contains 26 lemmas tagged as pronouns (PRON): 2000, _, autre, ce, cela, celui, celui-ci, dont, il, il_y_a, l'on, le, le/lui, lequel, où, que, quelqu'un, quels, qui, quoi, soi, t-il, tout, un, y, y_compris</li>
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as determiners (DET): 17 451, _, ce, certain, chaque, du, il, le, plusieurs, quel, quelque_chose, son, tout, un, un_peu</li>
+<li>This corpus contains 12 lemmas tagged as determiners (DET): _, ce, certain, chaque, du, le, plusieurs, quel, quelque, son, tout, un</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: _, ce, il, le, tout, un</li>
+<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: _, ce, le, tout, un</li>
 </ul>
 
 <ul>
@@ -197,7 +197,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       <li>AUX-Part: fait</li>
       <li>DET: le, quel, un, les, quels, ce, cet, du, tout</li>
       <li>NOUN: nom, pays, président, état, lieu, logement, film, prix, corps, temps</li>
-      <li>PRON: -t-il, -il, -ils, il, lequel, le, un, quelqu'un, celui, celui-ci</li>
+      <li>PRON: -t-il, -il, -ils, il, lequel, le, un, l'on, quelqu'un, celui</li>
       <li>PROPN: Alaska, John, York, Charles, Kentucky, Jackson, Japon, Mississippi, Londres, Reims</li>
       <li>VERB-Part: inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</li>
     </ul>
@@ -227,7 +227,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: quel, quelle, premier, célèbre, première, américain, grand, autre, américaine, islamique</li>
+      <li>ADJ: quel, quelle, premier, première, célèbre, américain, grand, autre, américaine, islamique</li>
       <li>ADP: de</li>
       <li>AUX-Fin: est, a, était, fut, ai, suis, soit, ait, sera</li>
       <li>AUX-Part: fait</li>
@@ -308,7 +308,6 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
   <li>Ind
     <ul>
       <li>AUX-Fin: est, a, était, fut, sont, ai, ont, suis, étaient, avez</li>
-      <li>PRON: Il</li>
       <li>VERB-Fin: trouve, est, a, signifie, puis, eut, dois, fait, ai, nomme</li>
     </ul>
   </li>
@@ -389,7 +388,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Art
     <ul>
-      <li>DET: le, la, l', les, un, une, des, de, d', tout</li>
+      <li>DET: le, la, l', les, un, une, des, de, d', du</li>
     </ul>
   </li>
 </ul>
@@ -398,7 +397,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
   <li>Dem
     <ul>
       <li>DET: ce, ces, cet, cette</li>
-      <li>PRON: cela, celle, celle-ci, celui, celui-ci, ceux</li>
+      <li>PRON: -ce, cela, ce, celle, celle-ci, celui, celui-ci, ceux</li>
     </ul>
   </li>
 </ul>
@@ -406,7 +405,8 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: quelqu'un</li>
+      <li>DET: chaque, certaines, plusieurs, quelqu'</li>
+      <li>PRON: -t-on, -on, un, autre, autres, l'on, quelqu'un, une, on, tout</li>
     </ul>
   </li>
 </ul>
@@ -424,7 +424,8 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: eux, moi</li>
+      <li>DET: mon, mes, sa, ma, son, votre, ses, vos, leur, leurs</li>
+      <li>PRON: -t-il, se, -il, -je, -t-elle, je, -elle, s', y, -ils</li>
     </ul>
   </li>
 </ul>
@@ -512,8 +513,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
   <li>3
     <ul>
       <li>AUX-Fin: est, a, était, fut, sont, ont, étaient, furent, soit, ait</li>
-      <li>DET: l'</li>
-      <li>PRON: -t-il, se, -il, -t-elle, y, -t-on, -elle, s', -ils, -on</li>
+      <li>PRON: -t-il, se, -il, -t-elle, -t-on, -elle, s', -ils, -on, y</li>
       <li>VERB-Fin: trouve, est, a, signifie, eut, fait, nomme, appelle, peut, avait</li>
     </ul>
   </li>
@@ -543,9 +543,8 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       </li>
       <li>ADV
         <ul>
-          <li>ADP: en, pour, à</li>
+          <li>ADP: en, pour</li>
           <li>ADV: aujourd', ne</li>
-          <li>DET: un</li>
         </ul>
       </li>
       <li>CCONJ
@@ -566,7 +565,8 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       </li>
       <li>PRON
         <ul>
-          <li>DET: l', quelqu'</li>
+          <li>ADV: moins, plus</li>
+          <li>DET: le, quelqu', un</li>
         </ul>
       </li>
       <li>SCONJ
@@ -623,8 +623,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (343)</li>
-      <li>VERB-Fin--PRON (291)</li>
+      <li>VERB-Fin--NOUN (342)</li>
+      <li>VERB-Fin--PRON (293)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Part--NOUN (109)</li>
       <li>VERB-Part--PRON (140)</li>
@@ -635,13 +635,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (266)</li>
+      <li>VERB-Fin--NOUN (254)</li>
       <li>VERB-Fin--NOUN-ADP(de) (4)</li>
       <li>VERB-Fin--PRON (71)</li>
-      <li>VERB-Inf--NOUN (137)</li>
-      <li>VERB-Inf--NOUN-ADP(de) (1)</li>
+      <li>VERB-Inf--NOUN (135)</li>
       <li>VERB-Inf--PRON (29)</li>
-      <li>VERB-Part--NOUN (193)</li>
+      <li>VERB-Part--NOUN (192)</li>
       <li>VERB-Part--PRON (14)</li>
     </ul>
   </li>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1368 nodes (1%) are attached to their parents as `det`.
+1867 nodes (1%) are attached to their parents as `det`.
 
-1363 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07529239766082.
+1860 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07980717728977.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1019; 74% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (271; 20% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (30; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (28; 2% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1429; 77% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (404; 22% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,18 +46,24 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	그	그	PRON	MM	_	2	det	_	_
-2	후에	후+에	ADP	NNG+JKB	_	5	obl	_	_
-3	여자는	여자+는	NOUN	NNG+JX	_	5	nsubj	_	_
-4	집에서	집+에서	ADV	NNG+JKB	_	5	obl	_	_
-5	기다려야	기다리+어야	VERB	VV+EC	_	0	root	_	_
-6	했다	하	AUX	VX+EP+EF	_	5	aux	_	SpaceAfter=No
-7	.	.	PUNCT	SF	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	친구하고	친구+하고	ADV	NNG+JKB	_	5	obl	_	_
+2	같이	같이	ADV	MAG	_	5	advmod	_	_
+3	어떤	어떤	DET	MM	_	4	det	_	_
+4	어려움을	어렵+ㅁ+을	ADJ	VA+ETN+JKO	_	5	obj	_	_
+5	경험할	경험+하+ㄹ	VERB	NNG+XSV+ETM	_	12	advcl	_	_
+6	때	때	SCONJ	NNG	_	5	mark	_	_
+7	까지	까지	ADP	JX	_	5	case	_	_
+8	진짜	진짜	NOUN	NNG	_	9	nmod	_	_
+9	친구인	친구+이+ㄴ	ADJ	NNG+VCP+ETM	_	10	acl	_	_
+10	줄	줄	NOUN	NNB	_	12	obj	_	_
+11	못	못	ADV	MAG	_	12	advmod	_	_
+12	압니다	알+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
 
 ~~~
 

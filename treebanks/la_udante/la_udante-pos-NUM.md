@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>tribus</em> (<tt><a href="la_udante-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.476190 (the average of all parts of speech is 2.129719).
+The form / lemma ratio of `NUM` is 1.476190 (the average of all parts of speech is 2.130133).
 
 The 1st highest number of forms (8) was observed with the lemma “duo”: <em>duabus, duarum, duas, due, duo, duobus, duorum, duos</em>.
 

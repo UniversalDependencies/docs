@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (1%) are attached to their parents as `appos`.
+21 nodes (0%) are attached to their parents as `appos`.
 
-17 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.58823529411765.
+21 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.61904761904762.
 
-The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (8; 47% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (8; 38% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -48,16 +48,16 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 2	καλή	καλός	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	4	amod	_	_
 3	ντ	μ	PRON	_	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod	_	Voicing=Voiced
 4	τύχ’	τύχ	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
-5	έγτσιν	έγιτσεινους	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem|Typo=Yes	7	det	_	έγτσειν=
+5	έγτσιν	έγιτσεινους	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem|Typo=Yes	7	det	_	_
 6	τν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	ώρα	ώρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
 8	πέρνα	πιρνώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 9	ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	άθριπους	άθριπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+10	άθριπους	άνθρουπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 11	Χατζικουμής	Χατζικουμής	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
 12	,	,	PUNCT	_	_	14	punct	_	_
 13	ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	άθριπους	άθριπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+14	άθριπους	άνθρουπους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
 15	καλός	καλός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	14	amod	_	_
 16	αγισμένους	αγισμένους	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	14	advcl	_	_
 17	.	.	PUNCT	_	_	8	punct	_	_

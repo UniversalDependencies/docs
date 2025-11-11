@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (2%) are attached to their parents as `discourse`.
+47 nodes (2%) are attached to their parents as `discourse`.
 
-29 instances of `discourse` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.51111111111111.
+30 instances of `discourse` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.5531914893617.
 
-The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (16; 36% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (16; 36% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (5; 11% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (5; 11% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (3; 7% instances).
+The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (17; 36% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (16; 34% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (6; 13% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (5; 11% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (3; 6% instances).
 
 
 ~~~ conllu
@@ -60,19 +60,17 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 discourse	color:blue
-1	Duréi	_	ADV	adv	_	8	advmod	_	_
-2	hã	hã	PART	prcl	_	1	discourse	_	_
-3	warazu	warazu	NOUN	n	_	8	nsubj	_	_
-4	ma	ma	AUX	aux	Tense=Past	3	dep	_	_
-5	te	te	AUX	aux	_	8	aux	_	_
-6	tiʔa	tiʔa	NOUN	n	_	8	obj	_	_
-7	siwi	siwi	ADV	adv	_	8	advmod	_	_
-8	ʔrepuʔu	ʔrepuʔu	VERB	v	Number=Plur|Person=3	0	root	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 discourse	color:blue
+1	Ĩhe	ĩhe	INTJ	intj	_	5	discourse	_	yes;sim
+2	te	te	AUX	aux	Person=Non1	5	dep	_	_
+3	za	za	PART	prcl	Aspect=Prosp	5	dep	_	future.marker;marcador.de.futuro
+4	apö	apö	ADV	adv	_	5	advmod	_	back,again;de.volta,outra.vez
+5	mo	mo	VERB	v	_	0	root	_	go;ir
+6	.	.	PUNCT	punct	_	5	punct	_	_
 
 ~~~
 

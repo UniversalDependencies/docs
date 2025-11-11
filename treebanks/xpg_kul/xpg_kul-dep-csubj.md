@@ -41,14 +41,14 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 6 csubj	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984529|1|1
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984529|1|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984529|1|2
 3	σεμουν	σεμουν	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984529|1|3
 4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984529|1|4
 5	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM984529|1|5
 6	αδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	csubj	_	Ref=TM984529|1|6
 7	αινι	aini	CCONJ	_	_	8	cc	_	Ref=TM984529|1|7
-8	τιαμας	ατεαμα	NOUN	_	Case=Dat|Number=Sing	4	conj	_	SpaceAfter=No|Ref=TM984529|1|8
+8	τιαμας	ατεαμα	NOUN	_	Case=Dat|Number=Plur	4	conj	_	SpaceAfter=No|Ref=TM984529|1|8
 9	,	,	PUNCT	_	_	12	punct	_	Ref=TM984529|1|9
 10	α	ad	ADP	_	_	11	case	_	Ref=TM984529|1|10
 11	τι	τιε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	Ref=TM984529|1|11

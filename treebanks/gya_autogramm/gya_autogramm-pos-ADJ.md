@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>bé</em> (<tt><a href="gya_autogramm-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.200000 (the average of all parts of speech is 1.497585).
+The form / lemma ratio of `ADJ` is 1.200000 (the average of all parts of speech is 1.513447).
 
 The 1st highest number of forms (3) was observed with the lemma “zù”: <em>zù, zú, zúà</em>.
 
@@ -52,7 +52,7 @@ The 3rd highest number of forms (2) was observed with the lemma “húʋúʋú�
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 8 different relations: <tt><a href="gya_autogramm-dep-amod.html">amod</a></tt> (46; 57% instances), <tt><a href="gya_autogramm-dep-advcl.html">advcl</a></tt> (18; 22% instances), <tt><a href="gya_autogramm-dep-root.html">root</a></tt> (7; 9% instances), <tt><a href="gya_autogramm-dep-obl-arg.html">obl:arg</a></tt> (5; 6% instances), <tt><a href="gya_autogramm-dep-xcomp.html">xcomp</a></tt> (2; 2% instances), <tt><a href="gya_autogramm-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-obj.html">obj</a></tt> (1; 1% instances)
+`ADJ` nodes are attached to their parents using 9 different relations: <tt><a href="gya_autogramm-dep-amod.html">amod</a></tt> (46; 57% instances), <tt><a href="gya_autogramm-dep-advcl.html">advcl</a></tt> (18; 22% instances), <tt><a href="gya_autogramm-dep-root.html">root</a></tt> (7; 9% instances), <tt><a href="gya_autogramm-dep-obl-arg.html">obl:arg</a></tt> (4; 5% instances), <tt><a href="gya_autogramm-dep-xcomp.html">xcomp</a></tt> (2; 2% instances), <tt><a href="gya_autogramm-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-obj.html">obj</a></tt> (1; 1% instances)
 
 Parents of `ADJ` nodes belong to 5 different parts of speech: <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (47; 58% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (25; 31% instances),  (7; 9% instances), <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances)
 

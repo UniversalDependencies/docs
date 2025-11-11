@@ -60,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Non	non	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	lo	lo	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	obj	_	_
 3	definisco	definire	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
-4	una	uno	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+4	una	uno	DET	DT	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	bestia	bestia	NOUN	NN	Gender=Fem|Number=Sing	3	xcomp	_	_
 6	con	con	ADP	IN	_	7	case	_	_
 7	leggerezza	leggerezza	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No

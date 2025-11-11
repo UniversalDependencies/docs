@@ -22,12 +22,12 @@ The following 80 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 4 reparandum	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=explanation-justify:194->192:1:_|Entity=(10-person-giv:inact-sssss-cf1-1-ana)
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=explanation-justify:194->192:1:_|Entity=(9-person-giv:inact-sssss-cf1-1-ana)
 2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	Negation=Yes
 4	re-	re-	VERB	VB	VerbForm=Inf	9	reparandum	9:reparandum	MSeg=re-
 5	–	-	PUNCT	:	_	4	punct	4:punct	_
-6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Discourse=restatement-repetition_m:195->194:0:ref-prs-1023,1028|Entity=(10-person-giv:act-sssss-cf1-1-ana)
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Discourse=restatement-repetition_m:195->194:0:ref-prs-1023,1028-_|Entity=(9-person-giv:act-sssss-cf1-1-ana)
 7	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 8	n't	not	PART	RB	Polarity=Neg	9	advmod	9:advmod	Negation=Yes
 9	remember	remember	VERB	VB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
@@ -42,17 +42,17 @@ The following 80 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 reparandum	color:blue
-1	Did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	6	reparandum	6:reparandum	Discourse=topic-question:231->232:1:syn-sbinv-1213+grf-qst-1221
-2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	Entity=(95-person-giv:inact-sssss-cf1-1-ana)
+1	Did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	6	reparandum	6:reparandum	Discourse=topic-question:231->232:1:syn-sbinv-1213-_+grf-qst-1221-_
+2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	Entity=(98-person-giv:inact-sssss-cf1-1-ana)
 3	—	—	PUNCT	:	_	1	punct	1:punct	_
 4	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	6	aux	6:aux	_
-5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(95-person-giv:act-sssss-cf1-1-ana)
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(98-person-giv:act-sssss-cf1-1-ana)
 6	put	put	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=6:Interrogative-Polar-Direct.Clause
-7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj	Entity=(96-substance-giv:inact-sssnn-cf2-1-ana)
+7	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj	Entity=(99-substance-giv:inact-sssnn-cf2-1-ana)
 8	in	in	ADP	IN	_	11	case	11:case	_
-9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(106-object-new-nnnnn-cf3-3-sgl
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(109-object-new-nnnnn-cf3-3-sgl
 10	trash	trash	NOUN	NN	Number=Sing	11	compound	11:compound	_
-11	bag	bag	NOUN	NN	Number=Sing	6	obl	6:obl:in	Entity=106)|SpaceAfter=No
+11	bag	bag	NOUN	NN	Number=Sing	6	obl	6:obl:in	Entity=109)|SpaceAfter=No
 12	?	?	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
@@ -64,11 +64,11 @@ The following 80 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 reparandum	color:blue
-1	What	what	PRON	WP	PronType=Int	3	reparandum	3:reparandum	Discourse=organization-preparation:208->210:0:ref-prs-1099,1107|SpaceAfter=No
+1	What	what	PRON	WP	PronType=Int	3	reparandum	3:reparandum	Discourse=organization-preparation:208->210:0:ref-prs-1099,1107-_|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
 3	what	what	PRON	WP	PronType=Int	6	obj	6:obj	CxnElt=6:Interrogative-WHInfo-Direct.WHWord
 4	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
-5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(95-person-acc:com-sssss-cf1-1-ana)
+5	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(98-person-acc:com-sssss-cf1-1-ana)
 6	g-	g-	INTJ	UH	_	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|CxnElt=6:Interrogative-WHInfo-Direct.Clause
 7	—	—	PUNCT	:	_	6	punct	6:punct	_
 

@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (29; 97% of non-empty `Definite`): <em>the, der</em>
 * `Ind` (1; 3% of non-empty `Definite`): <em>A</em>
-* `EMPTY` (7151): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
+* `EMPTY` (7183): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
 
 ### `ADJ`
 
@@ -35,5 +35,5 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>Labas</em>
-* `EMPTY` (36880): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
+* `EMPTY` (36856): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, esimene, oluline</em>
 

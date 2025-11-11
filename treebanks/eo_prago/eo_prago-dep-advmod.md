@@ -8,32 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-38 nodes (5%) are attached to their parents as `advmod`.
+200 nodes (6%) are attached to their parents as `advmod`.
 
-33 instances of `advmod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.34210526315789.
+168 instances of `advmod` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.705.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (18; 47% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (10; 26% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (3; 8% instances), <tt><a href="eo_prago-pos-ADP.html">ADP</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt>-<tt><a href="eo_prago-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PART.html">PART</a></tt> (1; 3% instances).
+The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (106; 53% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (30; 15% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (26; 13% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (22; 11% instances), <tt><a href="eo_prago-pos-ADP.html">ADP</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt>-<tt><a href="eo_prago-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-ADP.html">ADP</a></tt>-<tt><a href="eo_prago-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advmod	color:blue
-1	Intertempe	Intertempe	ADV	_	_	8	advmod	_	_
-2	la	la	DET	_	Definite=Def|PronType=Art	3	det	_	_
-3	celoj	celo	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	ĝiaj	ĝi	PRON	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
-6	parolantoj	paroli	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Ger|Voice=Act	3	nmod	_	_
-7	ne	ne	ADV	_	_	8	advmod	_	_
-8	perdis	perdi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-9	gravecon	graveco	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
-10	kaj	kaj	CCONJ	_	_	11	cc	_	_
-11	aktualecon	aktualeco	NOUN	_	Case=Acc|Number=Sing	9	conj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	La	la	DET	_	Definite=Def	5	det	_	_
+2	ĉi	ĉi	PART	_	_	3	advmod	_	_
+3	tie	tie	ADV	_	_	4	advmod	_	_
+4	donata	doni	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	amod	_	_
+5	Deklaracio	deklaracio	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+6	prezentas	prezenti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	mian	mi	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+8	politika-religian	politika-religia	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	9	amod	_	_
+9	kredon	kredo	NOUN	_	Case=Acc|Number=Sing	6	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -63,28 +61,15 @@ The following 8 pairs of parts of speech are connected with `advmod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 5 advmod	color:blue
-1	Por	por	ADP	_	_	3	case	_	_
-2	la	la	DET	_	Definite=Def|PronType=Art	3	det	_	_
-3	esperanto-komunumo	esperanto-komunumo	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	14	punct	_	_
-5	tamen	tamen	ADV	_	_	14	advmod	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	14	punct	_	_
-7	la	la	DET	_	Definite=Def|PronType=Art	9	det	_	_
-8	lingva	lingva	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
-9	diverseco	diverseco	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	_
-10	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	_
-11	konstanta	konstanta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
-12	kaj	kaj	CCONJ	_	_	13	cc	_	_
-13	nemalhavebla	nemalhavebla	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	_
-14	fonto	fonto	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
-15	de	de	ADP	_	_	16	case	_	_
-16	riĉeco	riĉeco	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	14	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 advmod	color:blue
+1	a	a	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	)	)	PUNCT	_	_	3	punct	_	_
+3	Regno	regno	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

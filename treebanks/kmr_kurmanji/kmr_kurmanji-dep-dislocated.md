@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of dislocated in UD_Kurmanji-MG'
+title:  'Statistics of dislocated in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `dislocated`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `dislocated`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 2 instances of `dislocated` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 12.5.
 
-The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (1; 50% instances).
 
 
 ~~~ conllu

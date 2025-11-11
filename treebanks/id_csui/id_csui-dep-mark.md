@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 3 2 mark	color:blue
 1	Kera	kera	NOUN	NN	Number=Sing	0	root	_	_
 2	untuk	untuk	SCONJ	IN	_	3	mark	_	_
-3	amankan	aman	VERB	VB	Mood=Ind|Voice=Act	1	acl	_	_
+3	amankan	aman	VERB	VB	Voice=Act	1	acl	_	_
 4	pesta	pesta	NOUN	NN	Number=Sing	3	obj	_	_
 5	olahraga	olahraga	NOUN	NN	Number=Sing	4	nmod	_	_
 
@@ -41,14 +41,14 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	Ini	ini	PRON	PRP	PronType=Dem	0	root	_	_
 3	lah	lah	PART	RP	_	2	advmod:emph	_	_
 4	yang	yang	PRON	IN	PronType=Rel	5	nsubj:pass	_	_
-5	terjadi	jadi	VERB	VB	Mood=Ind|Voice=Pass	2	acl:relcl	_	_
+5	terjadi	jadi	VERB	VB	Voice=Pass	2	acl:relcl	_	_
 6	kalau	kalau	SCONJ	IN	_	7	mark	_	_
 7	siaran	siar	NOUN	NN	Number=Sing	5	advcl	_	_
 8	TV	TV	NOUN	NN	Number=Sing	7	nmod	_	_
 9	langsung	langsung	ADJ	JJ	_	7	amod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	2	punct	_	SpaceAfter=No
 11	"	"	PUNCT	''	_	2	punct	_	_
-12	kata	kata	VERB	VB	Mood=Ind|Voice=Act	2	parataxis	_	_
+12	kata	kata	VERB	VB	Voice=Act	2	parataxis	_	_
 13	Sarah	Sarah	PROPN	NNP	_	12	nsubj	_	_
 14	Murdoch	Murdoch	PROPN	NNP	_	13	flat:name	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
@@ -65,7 +65,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 1	Kita	kita	PRON	PRP	Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
 2	kan	kan	ADV	RB	_	1	advmod	_	_
 3	sudah	sudah	AUX	MD	_	4	aux	_	_
-4	masuk	masuk	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+4	masuk	masuk	VERB	VB	Voice=Act	0	root	_	_
 5	'	'	PUNCT	``	_	6	punct	_	SpaceAfter=No
 6	middle	middle	X	FW	Foreign=Yes	4	obj	_	_
 7	income	income	X	FW	Foreign=Yes	6	flat:foreign	_	_

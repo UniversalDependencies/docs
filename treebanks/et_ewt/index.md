@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Dage Särg, Sandra Eiche, Andriela Rääbis.
 
 Repository: [UD_Estonian-EWT](https://github.com/UniversalDependencies/UD_Estonian-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_ewt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_ewt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -394,7 +394,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>ADJ: suure, uue, hea, esimese, vana, viimase, eelmise, erinevate, korraliku, suurte</li>
       <li>ADJ-Part: erinevate, olevate, vastava, eelneva, erineva, huvitava, valitseva, Lälisevate, arvestatava, asetseva</li>
-      <li>DET: selle, mingi, iga, sellise, ühe, mõne, nende, sama, selliste, teise</li>
+      <li>DET: selle, mingi, iga, sellise, ühe, nende, mõne, sama, selliste, teise</li>
       <li>NOUN: aasta, inimese, auto, teema, elu, inimeste, nime, viiruse, koha, maailma</li>
       <li>NOUN-Part: nakatunu, nakatunute, eeltoodu, haigestunute, hukkunute, nakatanute, sisserännanute, surnu, surnute, tarbitu</li>
       <li>NUM: ühe, kahe, paari, miljoni, poole, nelja, viie, kolmandiku, kolme, 9nda</li>
@@ -454,7 +454,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Par
     <ul>
-      <li>ADJ: head, suurt, erinevaid, esimest, sellist, häid, uut, uusi, erilist, teist</li>
+      <li>ADJ: head, sellist, suurt, erinevaid, esimest, häid, uut, uusi, erilist, teist</li>
       <li>ADJ-Part: erinevaid, huvitavaid, huvitavat, õitsvat, olevaid, söödavaid, Püsivat, asuvaid, edasiliikuvat, edutatavaid</li>
       <li>DET: seda, mingit, neid, sellist, mingeid, mõnda, selliseid, kõiki, teisi, sama</li>
       <li>NOUN: aru, aastat, aega, inimesi, raha, korda, asju, asja, autot, inimest</li>
@@ -691,9 +691,9 @@ This work was financed by the [National Programme for Estonian Language Technolo
 <ul>
   <li>Dem
     <ul>
-      <li>ADJ: selline, sama, sellist, sellised, samad, samasugune, esimesele, niisugune, samasugused, samasugust</li>
+      <li>ADJ: selline, sama, sellist, sellised, samad, samasugune, niisugune, samasugused, sedasama, sellise</li>
       <li>DET: see, selle, seda, need, selline, sama, neid, sellest, sellist, teine</li>
-      <li>PRON: see, seda, selle, neid, need, sellest, selles, sellega, selleks, nende</li>
+      <li>PRON: see, seda, selle, neid, need, sellest, selles, sellega, selleks, sellele</li>
       <li>PROPN: Sama</li>
     </ul>
   </li>
@@ -864,7 +864,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
   <li>3
     <ul>
       <li>AUX-Fin: on, oli, võib, saab, peab, olid, ongi, sai, pidi, võivad</li>
-      <li>PRON: ta, nad, tema, talle, neile, nende, tal, teda, neil, nemad</li>
+      <li>PRON: ta, nad, tema, nende, talle, neile, tal, teda, neil, nemad</li>
       <li>VERB-Fin: on, tuleb, saab, läheb, tuli, läks, teeb, teab, jääb, ütles</li>
     </ul>
   </li>

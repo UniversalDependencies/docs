@@ -31,7 +31,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 7	(	(	PUNCT	-LRB-	_	8	punct	_	SpaceAfter=No
 8	ANZ	ANZ	PROPN	NNP	_	1	appos	_	SpaceAfter=No
 9	)	)	PUNCT	-RRB-	_	8	punct	_	_
-10	membeli	beli	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+10	membeli	beli	VERB	VB	Voice=Act	0	root	_	_
 11	29,02	29,02	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
 12	%	%	SYM	SYM	_	10	obj	_	_
 13	saham	saham	NOUN	NN	Number=Sing	11	nmod	_	_
@@ -50,14 +50,14 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4 7 appos	color:blue
 1	Jajak	jajak	NOUN	NN	Number=Sing	3	nsubj	_	_
 2	pendapat	dapat	NOUN	NN	Number=Sing	1	nmod	_	_
-3	memperlihatkan	lihat	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	memperlihatkan	lihat	VERB	VB	Voice=Act	0	root	_	_
 4	badut	badut	NOUN	NN	Number=Sing	10	nsubj	_	_
 5	itu	itu	DET	DT	PronType=Dem	4	det	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	4	punct	_	_
 7	Tiririca	Tiririca	PROPN	NNP	_	4	appos	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	4	punct	_	_
 9	akan	akan	AUX	MD	_	10	aux	_	_
-10	meraih	raih	VERB	VB	Mood=Ind|Voice=Act	3	ccomp	_	_
+10	meraih	raih	VERB	VB	Voice=Act	3	ccomp	_	_
 11	lebih	lebih	ADJ	JJ	ExtPos=ADV	15	advmod	_	_
 12	dari	dari	SCONJ	IN	_	11	fixed	_	_
 13	satu	satu	NUM	CD	NumType=Card	15	nummod	_	_
@@ -78,7 +78,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	hujan	hujan	NOUN	NN	Number=Sing	1	nmod	_	_
 3	yang	yang	PRON	IN	PronType=Rel	4	nsubj	_	_
 4	tinggi	tinggi	ADJ	JJ	_	1	acl:relcl	_	_
-5	menyebabkan	sebab	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+5	menyebabkan	sebab	VERB	VB	Voice=Act	0	root	_	_
 6	banyak	banyak	DET	DT	Number=Plur|PronType=Ind	7	det	_	_
 7	genangan	genang	NOUN	NN	Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
@@ -87,8 +87,8 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 11	bagi	bagi	ADP	IN	_	12	case	_	_
 12	nyamuk	nyamuk	NOUN	NN	Number=Sing	9	nmod	_	_
 13	aedes	aedes	PROPN	NNP	_	12	nmod	_	_
-14	berkembang	kembang	VERB	VB	Mood=Ind|Voice=Act	9	acl:relcl	_	_
-15	biak	biak	VERB	VB	Mood=Ind|Voice=Act	14	xcomp	_	SpaceAfter=No
+14	berkembang	kembang	VERB	VB	Voice=Act	9	acl:relcl	_	_
+15	biak	biak	VERB	VB	Voice=Act	14	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~

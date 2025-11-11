@@ -25,11 +25,11 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	Namun	namun	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	masih	masih	ADV	_	_	4	advmod	_	_
-4	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	ada	ada	VERB	_	Voice=Act	0	root	_	_
 5	pertanyaan	tanya	NOUN	_	Number=Sing	4	nsubj	_	_
 6	yang	yang	PRON	_	PronType=Rel	8	nsubj:pass	_	_
 7	tak	tak	PART	_	Polarity=Neg	8	advmod	_	_
-8	terjawab	jawab	VERB	_	Mood=Ind|Voice=Pass	5	acl:relcl	_	SpaceAfter=No
+8	terjawab	jawab	VERB	_	Voice=Pass	5	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 2	Heinrich	Heinrich	PROPN	_	_	1	flat:name	_	_
 3	Kramer	Kramer	PROPN	_	_	1	flat:name	_	_
 4	yang	yang	PRON	_	PronType=Rel	5	nsubj	_	_
-5	berkebangsaan	bangsa	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
+5	berkebangsaan	bangsa	VERB	_	Voice=Act	1	acl:relcl	_	_
 6	Dominika	Dominika	PROPN	_	_	5	obl	_	_
 7	adalah	adalah	AUX	_	_	8	cop	_	_
 8	asisten	asisten	NOUN	_	Number=Sing	0	root	_	_

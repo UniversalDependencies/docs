@@ -68,12 +68,12 @@ The 2nd highest number of forms (2) was observed with the lemma “pada”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “agar”: <em>agar</em>.
 
-`ADP` occurs with 2 features: <tt><a href="id_gsd-feat-ExtPos.html">ExtPos</a></tt> (84; 1% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (38; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="id_gsd-feat-ExtPos.html">ExtPos</a></tt> (84; 1% instances), <tt><a href="id_gsd-feat-Typo.html">Typo</a></tt> (37; 0% instances)
 
 `ADP` occurs with 4 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Typo=Yes`
 
 `ADP` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (11253 tokens).
+The most frequent feature combination is `_` (11254 tokens).
 Examples: <em>di, pada, dari, dengan, dalam, sebagai, oleh, untuk, ke, seperti</em>
 
 

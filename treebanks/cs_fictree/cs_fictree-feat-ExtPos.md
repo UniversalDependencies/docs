@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-FicTree: Features: `ExtPos`
 
 This feature is language-specific.
-It occurs with 5 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `SCONJ`.
+It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-174 tokens (0%) have a non-empty value of `ExtPos`.
-23 types (0%) occur at least once with a non-empty value of `ExtPos`.
-17 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 6 part-of-speech tags: <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (92; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (25; 0% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 0% instances).
+173 tokens (0%) have a non-empty value of `ExtPos`.
+22 types (0%) occur at least once with a non-empty value of `ExtPos`.
+16 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 5 part-of-speech tags: <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (92; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (25; 0% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (16; 0% instances).
 
 ### `CCONJ`
 
@@ -62,14 +62,4 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 * `ADP` (12; 75% of non-empty `ExtPos`): <em>spolu, společně</em>
 * `ADV` (4; 25% of non-empty `ExtPos`): <em>nejen</em>
-
-### `DET`
-
-1 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1; 100%).
-
-`DET` tokens may have the following values of `ExtPos`:
-
-* `ADJ` (1; 100% of non-empty `ExtPos`): <em>to</em>
 

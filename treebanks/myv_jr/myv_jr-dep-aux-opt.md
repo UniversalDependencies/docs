@@ -26,8 +26,8 @@ The following 2 pairs of parts of speech are connected with `aux:opt`: <tt><a hr
 1	Кадык	кадык	AUX	Pcle	Mood=Opt	4	aux:opt	_	GTtags=Opt
 2	уш	уш	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time
 3	аватне	ава	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	GTtags=Sem/Kin,Pl,Nom,Def
-4	пулькить	пулькамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3
-5	те	те	DET	Det	Case=Nom|Definite=Ind|Number=Sing	7	det	_	GTtags=Sg,Nom,Indef
+4	пулькить	пулькамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScPl3
+5	те	те	DET	Det	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	7	det	_	GTtags=Sg,Nom,Indef
 6	стяконь	стяко	ADJ	A	Case=Gen|Definite=Ind|Number=Plur,Sing	7	amod	_	GTtags=SP,Gen,Indef
 7	тевсэнть	тев	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl	_	GTtags=Sg,Ine,Def|SpaceAfter=No
 8	...	...	PUNCT	CLB	_	4	punct	_	_

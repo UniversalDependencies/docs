@@ -41,7 +41,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
-1	is	is	AUX	Wp-i	ExtPos=AUX|Tense=Pres	5	cop	_	_
+1	is	is	AUX	Wp-i	ExtPos=AUX|Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 2	an	an	ADP	Sp	_	1	fixed	_	_
 3	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 4	à	à	ADP	Sp	_	5	case	_	_

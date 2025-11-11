@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  1 (<tt><a href="ja_pud-pos-NUM.html">NUM<
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.014634 (the average of all parts of speech is 1.068660).
+The form / lemma ratio of `NUM` is 1.014634 (the average of all parts of speech is 1.068686).
 
 The 1st highest number of forms (2) was observed with the lemma “一”: 一, １.
 
@@ -49,21 +49,21 @@ The 3rd highest number of forms (2) was observed with the lemma “二”: 二, 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (432; 66% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (199; 30% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (10; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 7 different relations: <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (432; 66% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (202; 31% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (10; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (622; 95% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (621; 95% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances),  (1; 0% instances)
 
-629 (96%) `NUM` nodes are leaves.
+632 (96%) `NUM` nodes are leaves.
 
 3 (0%) `NUM` nodes have one child.
 
-13 (2%) `NUM` nodes have two children.
+10 (2%) `NUM` nodes have two children.
 
 10 (2%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 9.
 
-Children of `NUM` nodes are attached using 7 different relations: <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (28; 40% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (27; 39% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (10; 14% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (2; 3% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 7 different relations: <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (28; 44% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (27; 42% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (4; 6% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (2; 3% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (1; 2% instances)
 
-Children of `NUM` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (27; 39% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (20; 29% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 14% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (7; 10% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (27; 42% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (20; 31% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (7; 11% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 6% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

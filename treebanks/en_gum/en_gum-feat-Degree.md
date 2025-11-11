@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-20617 tokens (9%) have a non-empty value of `Degree`.
-3587 types (20%) occur at least once with a non-empty value of `Degree`.
-3192 lemmas (22%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (15081; 6% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (5536; 2% instances).
+20613 tokens (9%) have a non-empty value of `Degree`.
+3582 types (20%) occur at least once with a non-empty value of `Degree`.
+3186 lemmas (22%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (15075; 6% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (5538; 2% instances).
 
 ### `ADJ`
 
-15081 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
+15075 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (572; 4% of non-empty `Degree`): <em>more, better, greater, larger, further, higher, lower, smaller, older, easier</em>
-* `Pos` (14113; 94% of non-empty `Degree`): <em>other, new, many, good, little, first, same, different, last, own</em>
+* `Pos` (14107; 94% of non-empty `Degree`): <em>other, new, many, good, little, first, same, different, last, own</em>
 * `Sup` (396; 3% of non-empty `Degree`): <em>most, best, least, largest, worst, greatest, highest, biggest, latest, smallest</em>
 * `EMPTY` (131): <em>such</em>
 
@@ -30,20 +30,20 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_gum-pos-ADJ.html
   <tr><td><tt></tt></td><td><em>good</em></td><td><em>better</em></td><td><em>best</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (2562) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (2559) occur only with one value of `Degree`.
 
 ### `ADV`
 
-5536 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (49% of all `ADV` tokens) have a non-empty value of `Degree`.
+5538 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (49% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5536; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5538; 100%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (455; 8% of non-empty `Degree`): <em>more, later, less, longer, better, earlier, further, sooner, slower, closer</em>
-* `Pos` (4936; 89% of non-empty `Degree`): <em>really, well, back, still, again, too, much, actually, probably, away</em>
+* `Pos` (4938; 89% of non-empty `Degree`): <em>really, well, back, still, again, too, much, actually, probably, away</em>
 * `Sup` (145; 3% of non-empty `Degree`): <em>most, best, least, longest, fastest, foremost</em>
-* `EMPTY` (5656): <em>so, just, when, then, also, how, now, here, where, very</em>
+* `EMPTY` (5660): <em>so, just, when, then, also, how, now, here, where, very</em>
 
 <table>
   <tr><th>Paradigm <i>well</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
   <tr><td><tt><tt><a href="en_gum-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>well</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 98% lemmas (650) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 98% lemmas (648) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 

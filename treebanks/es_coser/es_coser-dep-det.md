@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-743 nodes (9%) are attached to their parents as `det`.
+741 nodes (9%) are attached to their parents as `det`.
 
-723 instances of `det` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11843876177658.
+723 instances of `det` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11336032388664.
 
-The following 17 pairs of parts of speech are connected with `det`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (606; 82% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (19; 3% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (16; 2% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (13; 2% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (12; 2% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `det`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (606; 82% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (19; 3% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (16; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (16; 2% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (15; 2% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (13; 2% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (12; 2% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,20 +59,18 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 4 det	color:blue
-1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
-2	Cómo	cómo	PRON	pt000000	PronType=Int	6	obl	_	_
-3	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
-4	lo	él	PRON	da0ns0	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	det	_	_
-5	de	de	ADP	sps00	_	6	case	_	_
-6	recoger	recoger	VERB	vmn0000	VerbForm=Inf	0	root	_	_
-7	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	cerezas	cereza	NOUN	ncfp000	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
-9	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	6	punct	_	_
+# visual-style 6 5 det	color:blue
+1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	agua	agua	NOUN	nccs000	Gender=Fem|Number=Sing	0	root	_	_
+3	caliente	caliente	ADJ	aq0cs0	Number=Sing	2	amod	_	_
+4	a	a	ADP	sps00	_	6	case	_	_
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cáustica	cáustica	ADJ	aq0fs0	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
 ~~~
 

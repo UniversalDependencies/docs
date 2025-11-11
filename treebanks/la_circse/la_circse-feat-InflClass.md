@@ -281,7 +281,7 @@ The 10 most frequent relations where parent and child node agree in `InflClass`:
 <tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (85; 52%),
 <tt>PRON --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> PRON</tt> (10; 91%),
 <tt>PRON --[<tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (9; 90%),
-<tt>DET --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> DET</tt> (8; 100%),
+<tt>DET --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> DET</tt> (7; 100%),
 <tt>DET --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> DET</tt> (6; 60%),
 <tt>PRON --[<tt><a href="la_circse-dep-flat-redup.html">flat:redup</a></tt>]--> PRON</tt> (6; 100%),
 <tt>VERB --[<tt><a href="la_circse-dep-flat-redup.html">flat:redup</a></tt>]--> VERB</tt> (5; 100%),

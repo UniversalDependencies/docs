@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sk_snk-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.033333 (the average of all parts of speech is 1.802472).
+The form / lemma ratio of `CCONJ` is 1.033333 (the average of all parts of speech is 1.802691).
 
 The 1st highest number of forms (2) was observed with the lemma “síce”: <em>sice, síce</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>a, ale, alebo, aj, i, ani, či, však, lebo, no</em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (3167; 94% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (129; 4% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (57; 2% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (22; 1% instances), <tt><a href="sk_snk-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (2; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (3201; 95% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (130; 4% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (22; 1% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (22; 1% instances), <tt><a href="sk_snk-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (2; 0% instances)
 
 Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (1752; 52% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (963; 28% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (309; 9% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (198; 6% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (63; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (36; 1% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (6; 0% instances),  (4; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

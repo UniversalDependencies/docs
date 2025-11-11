@@ -27,8 +27,8 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 3	mo	mo	VERB	v	_	0	root	_	go;ir
 4	buru	buru	NOUN	n	_	3	obl	_	slash;roça
 5	u	u	ADP	posp	_	4	case	_	to;a,para
-6	.	.	PUNCT	punct	_	3	punct	_	_
-7	Tame	tame	ADV	adv	_	9	advcl	_	there;lá
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	tame	tame	ADV	adv	_	9	advcl	_	there;lá
 8	te	te	AUX	aux	Person=Non1	9	dep	_	_
 9	wapa	wapari	VERB	v	_	3	parataxis	_	hear;escutar
 10	aibö	aibö	NOUN	n	_	11	nmod	_	man;homem

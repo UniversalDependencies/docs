@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>garhe</em> (<tt><a href="nmf_suansu-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.969697 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `INTJ` is 0.969697 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (1) was observed with the lemma “Good”: <em>Good</em>.
 

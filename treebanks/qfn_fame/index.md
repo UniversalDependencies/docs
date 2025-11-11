@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Anouck Braggaar, Rob van der Goot.
 
 Repository: [UD_Frisian_Dutch-Fame](https://github.com/UniversalDependencies/UD_Frisian_Dutch-Fame)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqfn_fame216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqfn_fame217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -235,7 +235,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (63)</li>
       <li>VERB--NOUN-ADP(_) (9)</li>
       <li>VERB--NOUN-ADP(_)-ADP(_) (1)</li>
-      <li>VERB--PRON (42)</li>
+      <li>VERB--PRON (41)</li>
       <li>VERB--PRON-ADP(_) (1)</li>
     </ul>
   </li>

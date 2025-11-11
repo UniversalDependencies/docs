@@ -22,7 +22,7 @@ The following 20 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 appos	color:blue
-1	is	is	AUX	Wp-i	ExtPos=AUX|Tense=Pres	5	cop	_	_
+1	is	is	AUX	Wp-i	ExtPos=AUX|Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 2	an	an	ADP	Sp	_	1	fixed	_	_
 3	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 4	aig	aig	ADP	Sp	_	5	case	_	_
@@ -48,7 +48,7 @@ The following 20 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 appos	color:blue
-1	chan	is	AUX	Wp-in	ExtPos=AUX|Polarity=Neg|Tense=Pres	6	cop	_	_
+1	chan	is	AUX	Wp-in	ExtPos=AUX|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	cop	_	_
 2	an	an	ADP	Sp	_	1	fixed	_	_
 3	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 4	ach	ach	ADP	Sp	_	6	case	_	_

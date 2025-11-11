@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
 
 13 <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 92%), <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 77%), <tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8; 62%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8; 62%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="ky_ktmu-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ky_ktmu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 92%), <tt><a href="ky_ktmu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12; 92%), <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 77%), <tt><a href="ky_ktmu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8; 62%), <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="ky_ktmu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8; 62%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
@@ -77,14 +77,14 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 3 <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 67%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="ky_ktmu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 100%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 
 
 ### `ADP`
 
-2 <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt> tokens (14% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
+2 <tt><a href="ky_ktmu-pos-ADP.html">ADP</a></tt> tokens (15% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
 The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="ky_ktmu-feat-Case.html">Case</a></tt><tt>=Loc</tt> (2; 100%), <tt><a href="ky_ktmu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ky_ktmu-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="ky_ktmu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (2; 100%).
 

@@ -22,12 +22,12 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (14881; 21% of non-empty `Case`): <em>дзень, час, год, гады, мову, людзей, раз, каранавірус, дні, тыдзень</em>
+* `Acc` (14880; 21% of non-empty `Case`): <em>дзень, час, год, гады, мову, людзей, раз, каранавірус, дні, тыдзень</em>
 * `Dat` (1276; 2% of non-empty `Case`): <em>людзям, беларусам, сябрам, вуліцы, карэспандэнту, жанчынам, спасылцы, абаронцам, журналістам, народу</em>
 * `Gen` (23150; 32% of non-empty `Case`): <em>гадоў, года, людзей, чалавек, году, сакавіка, красавіка, мовы, лістапада, абароны</em>
 * `Ins` (4774; 7% of non-empty `Case`): <em>часам, чынам, заканадаўствам, каранавірусам, днём, людзьмі, назвай, мовай, удзелам, мяжой</em>
 * `Loc` (7669; 11% of non-empty `Case`): <em>годзе, сiтуацыях, цэнтры, краіне, выніку, горадзе, месцы, сайце, сядзібе, варце</em>
-* `Nom` (19643; 28% of non-empty `Case`): <em>людзі, сядзіба, сябры, дзень, арт, гурт, відэа, фота, варта, беларусы</em>
+* `Nom` (19644; 28% of non-empty `Case`): <em>людзі, сядзіба, сябры, дзень, арт, гурт, відэа, фота, варта, беларусы</em>
 * `Voc` (12; 0% of non-empty `Case`): <em>дружа, божа, браце, Госпадзі, Ойча, краю, саколе, чалавеча</em>
 * `EMPTY` (1291): <em>Арт, г., вул., км, смі, ст., BYN, АМАП, рэж., АЭС</em>
 
@@ -277,6 +277,6 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1004; 96%),
 <tt>ADJ --[<tt><a href="be_hse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (650; 97%),
 <tt>NOUN --[<tt><a href="be_hse-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (628; 51%),
-<tt>NOUN --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (438; 62%),
+<tt>NOUN --[<tt><a href="be_hse-dep-acl.html">acl</a></tt>]--> VERB</tt> (439; 62%),
 <tt>PROPN --[<tt><a href="be_hse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (435; 86%).
 

@@ -55,12 +55,12 @@ The 2nd highest number of forms (1) was observed with the lemma “аль”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “вновь”: <em>Вновь</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="ru_poetry-feat-Polarity.html">Polarity</a></tt> (64; 2% instances)
+`CCONJ` occurs with 2 features: <tt><a href="ru_poetry-feat-Polarity.html">Polarity</a></tt> (64; 2% instances), <tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt> (9; 0% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `Polarity=Neg`
+`CCONJ` occurs with 2 feature-value pairs: `ExtPos=CCONJ`, `Polarity=Neg`
 
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3001 tokens).
+`CCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (2992 tokens).
 Examples: <em>и, а, но, да, или, иль, то, только, Аль, зато</em>
 
 

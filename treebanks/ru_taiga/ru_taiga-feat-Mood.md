@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (6008; 4% of non-empty `Mood`): <em>давай, здравствуйте, дай, смотри, иди, слушай, подскажите, скажи, помогите, скажите</em>
 * `Ind` (137621; 96% of non-empty `Mood`): <em>может, есть, сказал, сказала, значит, было, стал, стало, стали, говорит</em>
-* `EMPTY` (68003): <em>можно, надо, нет, сказать, быть, делать, нельзя, см., сделать, говорить</em>
+* `EMPTY` (68017): <em>можно, надо, нет, сказать, быть, делать, нельзя, см., сделать, говорить</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -105,7 +105,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `SCONJ` tokens may have the following values of `Mood`:
 
 * `Cnd` (1940; 100% of non-empty `Mood`): <em>чтобы, чтоб, что, дабы, кабы, что-бы, шобы, Чтоп</em>
-* `EMPTY` (23201): <em>что, как, если, когда, то, чем, хотя, пока, словно, будто</em>
+* `EMPTY` (23200): <em>что, как, если, когда, то, чем, хотя, пока, словно, будто</em>
 
 ## Relations with Agreement in `Mood`
 

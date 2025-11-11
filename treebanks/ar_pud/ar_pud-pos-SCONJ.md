@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  أن (<tt><a href="ar_pud-pos-SCONJ.html"
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.000000 (the average of all parts of speech is 1.381137).
+The form / lemma ratio of `SCONJ` is 2.000000 (the average of all parts of speech is 1.380334).
 
 The 1st highest number of forms (3) was observed with the lemma “أَنَّ”: أ, ألا, أن.
 

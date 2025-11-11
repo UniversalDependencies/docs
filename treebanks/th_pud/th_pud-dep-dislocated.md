@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 dislocated	color:blue
-1	สิ่ง	สิ่ง	NOUN	NN	_	4	dislocated	_	SpaceAfter=No|Translit=si¹ŋ|LTranslit=si¹ŋ
-2	นี้	นี้	DET	DT	_	1	det	_	SpaceAfter=No|Translit=ní²|LTranslit=ní²
+1	สิ่ง	สิ่ง	NOUN	NN	_	4	dislocated	_	SpaceAfter=No|Translit=sìŋ|LTranslit=sìŋ
+2	นี้	นี้	DET	DT	PronType=Dem	1	det	_	Gloss=this|SpaceAfter=No|Translit=nîː|LTranslit=nîː
 3	จะ	จะ	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
-4	นำ	นำ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=nã|LTranslit=nã
-5	ไป	ไป	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pai|LTranslit=pai
-6	ประเมิน	ประเมิน	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=praméin|LTranslit=praméin
+4	นำ	นำ	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=nãː|LTranslit=nãː
+5	ไป	ไป	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
+6	ประเมิน	ประเมิน	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=pramein|LTranslit=pramein
 7	ผล	ผล	NOUN	NN	_	6	obj	_	Translit=pʰl|LTranslit=pʰl
 
 ~~~

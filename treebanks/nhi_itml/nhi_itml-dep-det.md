@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-923 nodes (9%) are attached to their parents as `det`.
+923 nodes (10%) are attached to their parents as `det`.
 
 923 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05200433369447.
+Average distance between parent and child is 1.0465872156013.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (783; 85% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (61; 7% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (38; 4% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (14; 2% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (790; 86% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (61; 7% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (38; 4% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (14; 2% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,15 +23,15 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
 1	Nikah	nikah	ADV	_	_	2	advmod	2:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
-2	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	7	obl	7:obl	NormalizedForm=itich|NormalizedLemma=tich
+2	itich	tich	NOUN	_	Number=Sing	7	obl	7:obl	NormalizedForm=itich|NormalizedLemma=tich|NounType=Relat|Number[psor]=Sing|Person[psor]=3
 3	n	in	DET	_	_	4	det	4:det	NormalizedForm=n|NormalizedLemma=n
-4	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	2	nmod	2:nmod	SpaceAfter=No|NormalizedForm=pueblo|NormalizedLemma=pueblo
+4	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	2	nmod	2:nmod	NormalizedForm=pueblo|NormalizedLemma=pueblo|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	2:punct	NormalizedForm=,|NormalizedLemma=,
 6	mikeh	miak	PRON	_	_	7	det	7:det	NormalizedForm=mikeh|NormalizedLemma=miak
-7	timanimaroa	animaroa	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Reflex=Yes|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=timanimaroa|NormalizedLemma=animaroa
+7	timanimaroa	animaroa	VERB	_	Mood=Ind|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=timanimaroa|NormalizedLemma=animaroa|Number[subj]=Plur|Person[subj]=1|Subcat=Tran
 8	para	para	SCONJ	_	_	9	mark	9:mark	NormalizedForm=para|NormalizedLemma=para
-9	tiyaskeh	yowi	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Fut|VerbForm=Fin	7	advcl	7:advcl	NormalizedForm=tiyaskeh|NormalizedLemma=yowi
-10	canadá	canada	PROPN	_	_	9	obl	9:obl	SpaceAfter=No|NormalizedForm=canadá|NormalizedLemma=canada
+9	tiyaskeh	yowi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	7	advcl	7:advcl	NormalizedForm=tiyaskeh|NormalizedLemma=yowi|Number[subj]=Plur|Person[subj]=1|Subcat=Intr
+10	canadá	canada	PROPN	_	_	9	obl	9:obl	NormalizedForm=canadá|NormalizedLemma=canada|SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	7:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
@@ -45,32 +45,35 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 7 6 det	color:blue
 1	solamente	solamente	ADV	_	_	8	advmod	8:advmod	NormalizedForm=solamente|NormalizedLemma=solamente
 2	cada	cada	DET	_	Foreign=Yes	3	det	3:det	NormalizedForm=cada|NormalizedLemma=cada
-3	semeh	semeh	PRON	_	_	8	iobj	8:iobj	NormalizedForm=semeh|NormalizedLemma=semeh
+3	semeh	semeh	PRON	_	_	8	obj	8:obj	NormalizedForm=semeh|NormalizedLemma=semeh
 4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
 5	tehwah	tehwah	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nmod	3:nmod	NormalizedForm=tehwah|NormalizedLemma=tehwah
 6	n	in	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
 7	dios	dios	PROPN	_	Foreign=Yes	8	nsubj	8:nsubj	NormalizedForm=dios|NormalizedLemma=dios
-8	techmaka	maka	VERB	_	Mood=Ind|Number[dat]=Plur|Number[subj]=Sing|Person[dat]=1|Person[subj]=3|Subcat=Tran|VerbForm=Fin	0	root	0:root	SpaceAfter=No|NormalizedForm=techmaka|NormalizedLemma=maka
+8	techmaka	maka	VERB	_	Mood=Ind|VerbForm=Fin	0	root	0:root	NormalizedForm=techmaka|NormalizedLemma=maka|Number[dat]=Plur|Number[subj]=Sing|Person[dat]=1|Person[subj]=3|SpaceAfter=No|Subcat=Tran
 9	.	.	PUNCT	_	_	8	punct	8:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	solamente	solamente	ADV	_	_	8	advmod	8:advmod	NormalizedForm=solamente|NormalizedLemma=solamente
-2	cada	cada	DET	_	Foreign=Yes	3	det	3:det	NormalizedForm=cada|NormalizedLemma=cada
-3	semeh	semeh	PRON	_	_	8	iobj	8:iobj	NormalizedForm=semeh|NormalizedLemma=semeh
-4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
-5	tehwah	tehwah	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nmod	3:nmod	NormalizedForm=tehwah|NormalizedLemma=tehwah
-6	n	in	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
-7	dios	dios	PROPN	_	Foreign=Yes	8	nsubj	8:nsubj	NormalizedForm=dios|NormalizedLemma=dios
-8	techmaka	maka	VERB	_	Mood=Ind|Number[dat]=Plur|Number[subj]=Sing|Person[dat]=1|Person[subj]=3|Subcat=Tran|VerbForm=Fin	0	root	0:root	SpaceAfter=No|NormalizedForm=techmaka|NormalizedLemma=maka
-9	.	.	PUNCT	_	_	8	punct	8:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 det	color:blue
+1	keh	keh	SCONJ	_	_	3	mark	3:mark	NormalizedForm=keh|NormalizedLemma=keh
+2	amo	amo	ADV	_	Polarity=Neg	3	advmod	3:advmod	NormalizedForm=amo|NormalizedLemma=amo
+3	kwale	kwali	ADJ	_	Number=Sing	0	root	0:root	NormalizedForm=kwale|NormalizedLemma=kwali
+4	niwalmokopas	walmokopa	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	3	csubj	3:csubj	Movement=Ven|NormalizedForm=niwalmokopas|NormalizedLemma=walmokopa|Number[subj]=Sing|Person[subj]=1|SpaceAfter=No|Subcat=Tran
+5	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,|NormalizedLemma=,
+6	siempre	siempre	ADV	_	Foreign=Yes	7	advmod	7:advmod	NormalizedForm=siempre|NormalizedLemma=siempre
+7	onikpix	piya	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	NormalizedForm=nikpix|NormalizedLemma=piya|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|wordform=nikpix
+8	n	in	DET	_	_	9	det	9:det	NormalizedForm=n|NormalizedLemma=n
+9	pakilis	pakilis	NOUN	_	Number=Sing	7	obj	7:obj	NormalizedForm=pakilis|NormalizedLemma=pakilis
+10	n	in	DET	_	_	11	det	11:det	NormalizedForm=n|NormalizedLemma=n
+11	nehwatl	nehwatl	PRON	_	Number=Sing|PronType=Prs	7	nsubj	7:nsubj	NormalizedForm=nehwatl|NormalizedLemma=nehwatl|SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	7:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
 

@@ -26,11 +26,11 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	In	in	ADP	IN	_	2	case	_	_
 2	precedenza	precedenza	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
-4	i	il	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+4	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	blogger	blogger	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	avevano	avere	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	7	aux	_	_
 7	visto	vedere	VERB	VBN	Tense=Past	0	root	_	_
-8	i	il	DET	DT	Gender=Masc|Number=Plur	9	det	_	_
+8	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	jet	jet	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -52,7 +52,7 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	provai	provare	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	_
 8	a	a	ADP	IN	_	9	mark	_	_
 9	svelare	svelare	VERB	VB	Voice=Act	7	xcomp	_	_
-10	un	uno	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	etimo	etimo	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
 

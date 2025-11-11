@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_fqb-pos-PRON.htm
 
 151 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (9% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (151; 100%), <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (151; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (147; 97%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt> (147; 97%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (151; 100%), <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (151; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (147; 97%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt> (147; 97%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

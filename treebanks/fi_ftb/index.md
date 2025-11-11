@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Jussi Piitulainen, Hanna Nurmi, Jack Rueter.
 
 Repository: [UD_Finnish-FTB](https://github.com/UniversalDependencies/UD_Finnish-FTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY 4.0
 
@@ -538,8 +538,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: on, oli, ovat, ole, voi, olen, olivat, olin, pitää, täytyy</li>
-      <li>VERB-Fin: on, oli, ole, tulee, tuli, saa, sanoi, ovat, sai, sanoo</li>
+      <li>AUX-Fin: on, ei, oli, ovat, en, ole, voi, olen, eivät, eikä</li>
+      <li>VERB-Fin: on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</li>
     </ul>
   </li>
 </ul>
@@ -657,7 +657,7 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Prs
     <ul>
-      <li>DET: meidän</li>
+      <li>DET: itse, itsensä, itseensä, meidän</li>
       <li>PRON: hän, minä, mä, hänen, sinä, he, me, minun, sä, minulla</li>
     </ul>
   </li>
@@ -1001,15 +1001,20 @@ training set, 1 into development set, and 1 into test set.
       <li>ADV
         <ul>
           <li>ADJ: pikku, kumma</li>
-          <li>ADP: ilman</li>
-          <li>ADV: ikään, niin, silloin, näin, enemmän, ennen, pitkin, taas, vähän, ylös</li>
-          <li>NOUN: alun, loppujen, iät, vuosi, kerta, kesät, päivä, rinta, yötä, Ihme</li>
-          <li>NUM: yksi</li>
-          <li>PART: totta, aika, sen, hädin, juuri, nipin, Kas, melko, niin, ties</li>
-          <li>PRON: saman, sen, tätä, samaa, tämän</li>
+          <li>ADP: ennen, ilman</li>
+          <li>ADV: ikään, niin, silloin, taas, vähän, näin, enemmän, ennen, pitkin, ylös</li>
+          <li>NOUN: alun, loppujen, iät, vuosi, aika, ikävä, kerta, kesät, puolin, päivä</li>
+          <li>NUM: yhtä, yksi</li>
+          <li>PART: totta, aika, nipin, sen, hädin, juuri, niin, Kas, melko, ties</li>
+          <li>PRON: saman, sen, tätä, Siitä, missään, samaa, sillä, tähän, tämän</li>
           <li>SCONJ: ett</li>
-          <li>VERB-Fin: ei, tiiät, vuosi</li>
+          <li>VERB-Fin: ei, tiedä, tiiät, vuosi</li>
           <li>VERB-Inf: mennen</li>
+        </ul>
+      </li>
+      <li>AUX
+        <ul>
+          <li>PRON: mikä</li>
         </ul>
       </li>
       <li>CCONJ
@@ -1017,11 +1022,13 @@ training set, 1 into development set, and 1 into test set.
           <li>ADV: mukaan</li>
           <li>AUX-Fin: ei</li>
           <li>CCONJ: saati</li>
+          <li>PRON: sen</li>
         </ul>
       </li>
       <li>DET
         <ul>
-          <li>PRON: joka</li>
+          <li>NUM: kolkyt</li>
+          <li>PRON: joka, harva</li>
         </ul>
       </li>
       <li>INTJ
@@ -1029,6 +1036,7 @@ training set, 1 into development set, and 1 into test set.
           <li>ADV: Johan, Jopas</li>
           <li>INTJ: voi, No</li>
           <li>PART: tota, Kas</li>
+          <li>PRON: Mikäs</li>
           <li>VERB-Fin: ei</li>
         </ul>
       </li>
@@ -1041,7 +1049,7 @@ training set, 1 into development set, and 1 into test set.
         <ul>
           <li>ADV: ennen, niin, ilman, paitsi, vasta, silloin, aivan, ihan, ikään, siksi</li>
           <li>PART: niin, Entä, sen</li>
-          <li>PRON: sen, sitä, siitä, sillä, siltä</li>
+          <li>PRON: sen, sitä, siitä, siinä, sillä, siltä</li>
           <li>SCONJ: kun, jos</li>
         </ul>
       </li>
@@ -1254,7 +1262,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-All (1)</li>
       <li>VERB-Fin--NOUN-Ela (92)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Nom (4225)</li>
+      <li>VERB-Fin--NOUN-Nom (4226)</li>
       <li>VERB-Fin--NOUN-Par (1054)</li>
       <li>VERB-Fin--PRON-Acc (7)</li>
       <li>VERB-Fin--PRON-All (1)</li>
@@ -1291,7 +1299,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Ela (17)</li>
       <li>VERB-Fin--NOUN-Gen (889)</li>
       <li>VERB-Fin--NOUN-Ill (2)</li>
-      <li>VERB-Fin--NOUN-Nom (727)</li>
+      <li>VERB-Fin--NOUN-Nom (726)</li>
       <li>VERB-Fin--NOUN-Par (1990)</li>
       <li>VERB-Fin--NOUN-Par-ADP(paitsi) (3)</li>
       <li>VERB-Fin--NOUN-Par-ADP(vaille) (1)</li>

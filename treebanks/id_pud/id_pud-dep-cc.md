@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	tentu	tentu	ADV	_	_	6	advmod	_	_
 4	saja	saja	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
-6	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	ada	ada	VERB	_	Voice=Act	0	root	_	_
 7	Bob	Bob	PROPN	_	_	6	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	sumber	sumber	NOUN	_	Number=Sing	7	appos	_	_
@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 8 7 cc	color:blue
 1	Skema	skema	NOUN	_	Number=Sing	3	nsubj	_	_
 2	ini	ini	DET	_	PronType=Dem	1	det	_	_
-3	menghasilkan	hasil	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	menghasilkan	hasil	VERB	_	Voice=Act	0	root	_	_
 4	uang	uang	NOUN	_	Number=Sing	3	obj	_	_
 5	melalui	lalu	ADP	_	_	6	case	_	_
 6	sponsor	sponsor	NOUN	_	Number=Sing	3	obl	_	_

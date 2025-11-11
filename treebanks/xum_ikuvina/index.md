@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Mathieu Dehouck.
 
 Repository: [UD_Umbrian-IKUVINA](https://github.com/UniversalDependencies/UD_Umbrian-IKUVINA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxum_ikuvina216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxum_ikuvina217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -62,8 +62,8 @@ Specific information about the analysis can be found on the language doc page.
 |-------|-------|------|----------|------|-----------|
 |I | Part | Done | Part | Done | Done |
 |II | | | | | |
-|III | | | | | |
-|IV | | | | | |
+|III | Part | Done | Done | Done | Done |
+|IV | Part | Done | Done | Done | Done |
 |V um | Part | Done | Done | Done | Done |
 |V la | | | | | |
 |VI | | | | | |
@@ -100,7 +100,7 @@ This treebank is maintained by Mathieu Dehouck.
 
 
 <ul>
-<li>This corpus contains 133 sentences, 733 tokens and 786 syntactic words.</li>
+<li>This corpus contains 202 sentences, 1077 tokens and 1162 syntactic words.</li>
 </ul>
 
 <ul>
@@ -116,8 +116,8 @@ This treebank is maintained by Mathieu Dehouck.
 </ul>
 
 <ul>
-<li>This corpus contains 53 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 27 types of multi-word tokens. Examples: tutaper, ukriper, preveres, pusveres, ahtimem, eikvasese, pupluper, rupiname, vukukum, akeřuniamem, avieklufe, esunesku, esunume, funtlere, nertruku, purtatulu, pustertiu, satame, svepis, svepu, termnesku, testruku, ukripe, uraku, vapefem, vaçetumi, verufe.</li>
+<li>This corpus contains 85 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 51 types of multi-word tokens. Examples: tutaper, ukriper, ereçluma, preveres, pusveres, skalçeta, ahtimem, ahtisper, eikvasese, pupluper, rupiname, svepis, trefiper, vukukum, akeřuniamem, arvamen, arven, asama, asamař, avieklufe, ereçlamař, eruk, eruku, esuku, esunesku, esunume, esunumen, etrama, fratruspe, fratrusper, funtlere, neiřhabas, nertruku, persklumař, peřume, purtatulu, pustertiu, satame, spantimař, svepu, termnesku, tertiama, testruku, tutape, ukripe, uraku, uvikum, vapefem, vaçetumi, verufe.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -176,7 +176,7 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Part
   <ul>
-    <li>VERB: kutef, kuratu, kumate, purtitaf, anzeriates, kutep, purtitu, restef, spafu, çersnatur</li>
+    <li>VERB: kutef, kuratu, kumate, purtitaf, anzeriates, frehtu, kutep, pelsanu, purtitu, purtupite</li>
   </ul>
   </li>
 </ul>
@@ -199,9 +199,11 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: mestru, atiieřier, etraf, panta, plenasier, sakref, urnasier, asiane, erahunt, esuna</li>
+      <li>ADJ: iiuvina, sakre, mestru, atiieřier, etraf, panta, plenasier, sakref, urnasier, aseçetes</li>
       <li>DET: ura</li>
-      <li>NOUN: karu, eikvases, muta, ri, uhtretie, akeřuniam, avef, kapiř, parfam, perkaf</li>
+      <li>NOUN: uvem, karu, arvam, asa, asam, eikvases, kletra, muta, puntes, ri</li>
+      <li>PRON: erak</li>
+      <li>PROPN: vesune, turse</li>
       <li>VERB-Part: purtitaf</li>
     </ul>
   </li>
@@ -210,11 +212,11 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: atiieřiu, atiieřiur, ikuvinus, prever, aviekluf, etantu, ikuvinu, krapuvi, tripler, tupler</li>
-      <li>NOUN: fratru, ařfertur, ařferture, frater, numer, fratreks, kastruvu, kastruvuf, kvestur, ařputrati</li>
-      <li>PRON: pure, ulu, pisi, ere, erek, pis, uru</li>
-      <li>PROPN: kastruçiie, kluviier, marte</li>
-      <li>VERB-Part: restef, çersnatur</li>
+      <li>ADJ: atiieřiu, kunikaz, atiieřiur, eikvasatis, ikuvinus, prever, sevakni, testru, atiieřie, atiieřies</li>
+      <li>NOUN: fratru, frater, ařfertur, ařferture, numer, ahtis, fratreks, fratrus, kastruvu, kastruvuf</li>
+      <li>PRON: pure, ulu, pis, pisi, ere, erek, ererek, esu, putrespe, uru</li>
+      <li>PROPN: puemune, puemunes, pupřike, pupřikes, pupřiçes, iuvepatre, kastruçiie, kluviier, marte, pupřiçe</li>
+      <li>VERB-Part: frehtu, pelsanu, purtupite, restef, taçez, çersnatur</li>
     </ul>
   </li>
 </ul>
@@ -222,9 +224,11 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: atiieřie, perakneu, sakreu, vepurus</li>
-      <li>NOUN: esunu, ehvelklu, supa, esune, esunes, felsva, kumnahkle, kumne, persklum, stafliiuv</li>
-      <li>PRON: eřek, este, peře, piře, puře</li>
+      <li>ADJ: sevakne, ahesnes, asnates, atiieřie, mersuva, perakneu, pruzuře, sakreu, sevaknis, snates</li>
+      <li>DET: este</li>
+      <li>NOUN: esunu, ereçlum, tefra, ehvelklu, ereçle, ereçlu, huntak, kumnakle, pir, skalçe</li>
+      <li>NUM: tuva, triia, tuves</li>
+      <li>PRON: eřek, eru, puře, peře, piře</li>
       <li>VERB: kuratu, purtitu, spafu</li>
       <li>VERB-Part: kuratu, purtitu, spafu</li>
     </ul>
@@ -239,11 +243,12 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: atiieřiu, atiieřier, atiieřiur, etraf, ikuvinus, plenasier, prever, sakref, tesenakes, treplanes</li>
+      <li>ADJ: atiieřiu, ahesnes, atiieřier, atiieřiur, eikvasatis, etraf, ikuvinus, plenasier, prever, sakref</li>
       <li>AUX: furent, sis</li>
-      <li>NOUN: arves, arviu, ařepes, veres, arvia, fratru, vatuva, buf, frater, numer</li>
-      <li>PRON: pure, eru</li>
-      <li>VERB: benurent, eitipes, pesnimu, prusikurent, purtitaf, anzeriates, emantu, emantur, habetutu, hatutu</li>
+      <li>NOUN: arves, arviu, ařepes, fratru, veres, arvia, vatuva, frater, buf, numer</li>
+      <li>NUM: tris, tuves</li>
+      <li>PRON: pure, eru, etres</li>
+      <li>VERB: benurent, eitipes, pesnimu, prusikurent, purtitaf, aituta, anzeriates, emantu, emantur, etuta</li>
       <li>VERB-Part: purtitaf, anzeriates, çersnatur</li>
     </ul>
   </li>
@@ -252,15 +257,15 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ikuvina, fisiu, iuvie, mestru, krapuvi, panta, asiane, atiieřie, erahunt, esuna</li>
-      <li>AUX: fust, si, fuiest</li>
-      <li>DET: svesu, ura</li>
-      <li>NOUN: puni, tuta, ukri, ferine, ařfertur, ařferture, esunu, karu, muneklu, puplu</li>
-      <li>PRON: ulu, eřek, pisi, ere, erek, este, peře, pis, piře, puře</li>
-      <li>PROPN: hunte, iuve, kastruçiie, kluviier, marte, rupinam, sate, tefri, teteies, titis</li>
-      <li>VERB: fetu, feitu, ustentu, habia, herte, kuratu, ustetu, aitu, feia, purtitu</li>
+      <li>ADJ: ikuvina, fisiu, iiuvina, sakre, sevakne, iuvie, kunikaz, mestru, sevakni, krapuvi</li>
+      <li>AUX: fust, si, fuia, fuiest, futu</li>
+      <li>DET: este, svesu, ura, ures</li>
+      <li>NOUN: puni, tuta, ukri, ferine, esunu, uvem, ařfertur, ařferture, ereçlum, karu</li>
+      <li>PRON: eřek, ulu, eru, pis, pisi, puře, erak, ere, erek, ererek</li>
+      <li>PROPN: puemune, vesune, puemunes, pupřike, pupřikes, pupřiçes, hule, hunte, iuve, iuvepatre</li>
+      <li>VERB: fetu, feitu, ustentu, antentu, purtuvitu, persnihmu, ařveitu, etu, habetu, habia</li>
       <li>VERB-Fin: fetu, feitu, ustentu, ustetu, aitu, sumtu, vetu, enetu, steplatu</li>
-      <li>VERB-Part: kuratu, purtitu, restef, spafu</li>
+      <li>VERB-Part: kuratu, frehtu, pelsanu, purtitu, purtupite, restef, spafu, taçez</li>
     </ul>
   </li>
 </ul>
@@ -272,10 +277,11 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: ikuvina, fisiu, plenasier, prever, tesenakes, treplanes, urnasier, vehiies, erahunt, esuna</li>
+      <li>ADJ: ikuvina, fisiu, iiuvina, sevakne, ahesnes, eikvasatis, plenasier, prever, tesenakes, treplanes</li>
       <li>DET: ura</li>
-      <li>NOUN: puni, tuta, arves, ukri, ařepes, veres, numer, vinu, ařepe, ařeper</li>
-      <li>PRON: uru</li>
+      <li>NOUN: puni, tuta, arves, ukri, ařepes, veres, numer, skalçe, vinu, ahtis</li>
+      <li>NUM: tris, tuves</li>
+      <li>PRON: eru, erak, esu, etres, uru</li>
       <li>VERB-Part: anzeriates</li>
     </ul>
   </li>
@@ -284,12 +290,13 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: etraf, sakref, aviekluf, feliuf, kaleřuf, kumiaf, perakneu, pernaiaf, pustnaiaf, sakra</li>
-      <li>NOUN: arviu, arvia, vatuva, buf, muneklu, ehvelklu, esunu, esunum, kastruvu, kastruvuf</li>
-      <li>NUM: tuf</li>
-      <li>PRON: ulu, este, eřek, sevum</li>
+      <li>ADJ: sakre, sevakni, etraf, sakref, sevakne, testru, aviekluf, etram, feliuf, kaleřuf</li>
+      <li>DET: este</li>
+      <li>NOUN: arviu, arvia, uvem, vatuva, esunu, feřehtru, buf, ereçlum, esunum, muneklu</li>
+      <li>NUM: tuf, tuva, triia</li>
+      <li>PRON: ulu, eřek, sevum</li>
       <li>PROPN: rupinam</li>
-      <li>VERB-Part: purtitaf</li>
+      <li>VERB-Part: purtitaf, frehtu, pelsanu</li>
     </ul>
   </li>
 </ul>
@@ -297,9 +304,10 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: iuvie, krapuvi, esune, iuvi, çerfi</li>
-      <li>NOUN: ařferture, ri, tefre</li>
-      <li>PROPN: fisuvi, hunte, iuve, marte, tefri, trebe, tuse</li>
+      <li>ADJ: iuvie, krapuvi, esune, iuvi, urtes, çerfi</li>
+      <li>NOUN: ařferture, persuntre, puntis, ri, tefre</li>
+      <li>PROPN: puemune, vesune, pupřike, fisuvi, hule, hunte, iuve, iuvepatre, marte, pupřiçe</li>
+      <li>VERB-Part: purtupite</li>
     </ul>
   </li>
 </ul>
@@ -307,10 +315,11 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: atiieřiu, iiuvinas, atiieřiur</li>
-      <li>NOUN: fratru, tutas, kureties, nuřpener, pihaklu, puniçate, sehmeniar</li>
-      <li>PRON: eru</li>
-      <li>PROPN: kastruçiie, kluviier, titis</li>
+      <li>ADJ: atiieřiu, iiuvinas, atiieřiur, erarunt, sakre, urnasiaru</li>
+      <li>DET: ures</li>
+      <li>NOUN: fratru, tutas, fratrum, kureties, nuřpener, pihaklu, punes, puniçate, sehmeniar, sestentasiaru</li>
+      <li>PRON: ererek, eru, putrespe</li>
+      <li>PROPN: puemunes, pupřikes, pupřiçes, kastruçiie, kluviier, titis</li>
     </ul>
   </li>
 </ul>
@@ -318,9 +327,9 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: atiieřier, asiane, atiieřie</li>
+      <li>ADJ: atiieřier, asiane, atiieřie, sume, usaçe</li>
       <li>DET: svesu</li>
-      <li>NOUN: ferine, eikvases, uhtretie, esune, esunu, kumnahkle, kumne, kvestretie, puste, ukre</li>
+      <li>NOUN: ferine, eikvases, ereçle, kumnakle, uhtretie, vuke, ase, esune, esunu, kletre</li>
       <li>PROPN: sate</li>
     </ul>
   </li>
@@ -329,12 +338,12 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: mestru, ikuvinus, panta, atiieřiur, etantu, ikuvinu</li>
-      <li>NOUN: ařfertur, frater, karu, fratreks, kvestur, muta, prinuvatu, mutu, tribřiçu, ukar</li>
-      <li>PRON: pure, pisi, ere, erek, eřek, peře, pis, piře, puře</li>
+      <li>ADJ: kunikaz, mestru, ikuvinus, panta, atiieřiur, etantu, ikuvinu, urtas</li>
+      <li>NOUN: frater, ařfertur, karu, fratreks, kvestur, muta, prinuvatu, puntes, uhtur, mutu</li>
+      <li>PRON: eřek, pure, pis, pisi, puře, ere, erek, peře, piře</li>
       <li>PROPN: teteies, vuvçis</li>
-      <li>VERB: kuratu, purtitu, restef, spafu, çersnatur</li>
-      <li>VERB-Part: kuratu, purtitu, restef, spafu, çersnatur</li>
+      <li>VERB: kuratu, purtitu, restef, spafu, taçez, çersnatur</li>
+      <li>VERB-Part: kuratu, purtitu, restef, spafu, taçez, çersnatur</li>
     </ul>
   </li>
 </ul>
@@ -357,7 +366,7 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Perf
     <ul>
-      <li>VERB: benurent, prusikurent, amprefus, apelust, ateřafust, pepurkurent, purtinçus</li>
+      <li>VERB: benurent, prusikurent, amprefus, apelust, ateřafust, fakust, pepurkurent, purtinçus</li>
     </ul>
   </li>
 </ul>
@@ -369,7 +378,8 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: fetu, feitu, ustentu, ustetu, aitu, pesnimu, revestu, sumtu, vetu, enetu</li>
+      <li>AUX: futu</li>
+      <li>VERB: fetu, feitu, ustentu, antentu, purtuvitu, persnihmu, ařveitu, etu, habetu, prusekatu</li>
       <li>VERB-Fin: fetu, feitu, ustentu, ustetu, aitu, sumtu, vetu, enetu, steplatu</li>
     </ul>
   </li>
@@ -379,7 +389,7 @@ This treebank is maintained by Mathieu Dehouck.
   <li>Ind
     <ul>
       <li>AUX: fust, fuiest, furent</li>
-      <li>VERB: benurent, eitipes, prusikurent, apelust, heries, menes, pepurkurent, teřte</li>
+      <li>VERB: benurent, eitipes, prusikurent, apelust, fakust, heri, heries, kukehes, menes, pepurkurent</li>
     </ul>
   </li>
 </ul>
@@ -387,8 +397,8 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: si, sis</li>
-      <li>VERB: habia, feia, emantu, emantur, kuraia, prehabia, prehubia, teřa</li>
+      <li>AUX: si, fuia, sis</li>
+      <li>VERB: habia, feia, ařhabas, emantu, emantur, kuraia, prehabia, prehubia, terkantur, teřa</li>
     </ul>
   </li>
 </ul>
@@ -419,11 +429,11 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: si, eru, sis</li>
+      <li>AUX: si, eru, fuia, sis</li>
       <li>AUX-Inf: eru</li>
-      <li>VERB: kutef, habia, feia, emantu, emantur, herifi, kuraia, kutep, prehabia, prehubia</li>
+      <li>VERB: kutef, habia, feia, ařhabas, emantu, emantur, heri, herifi, kuraia, kutep</li>
       <li>VERB-Inf: herifi</li>
-      <li>VERB-Part: kutef, kutep, restef</li>
+      <li>VERB-Part: kutef, kutep, purtupite, restef</li>
     </ul>
   </li>
 </ul>
@@ -435,7 +445,7 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: herte, kuratu, pesnimu, emantu, emantur, herifi, purtitu, spafu, teřte, çersnatur</li>
+      <li>VERB: persnihmu, herte, kuratu, persnimu, pesnimu, emantu, emantur, herifi, herter, purtitu</li>
       <li>VERB-Inf: herifi</li>
       <li>VERB-Part: kuratu, purtitu, spafu, çersnatur</li>
     </ul>
@@ -457,7 +467,7 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>2
     <ul>
-      <li>VERB: fetu, feitu, ustentu, ustetu, aitu, sumtu, vetu, enetu, etu, heries</li>
+      <li>VERB: fetu, feitu, ustentu, ustetu, aitu, sumtu, vetu, ařhabas, enetu, etu</li>
       <li>VERB-Fin: fetu, feitu, ustentu, ustetu, aitu, sumtu, vetu, enetu, steplatu</li>
     </ul>
   </li>
@@ -466,8 +476,8 @@ This treebank is maintained by Mathieu Dehouck.
 <ul>
   <li>3
     <ul>
-      <li>AUX: fust, si, fuiest, furent, sis</li>
-      <li>VERB: benurent, habia, herte, eitipes, feia, pesnimu, prusikurent, revestu, amprefus, apelust</li>
+      <li>AUX: fust, si, fuia, fuiest, furent, futu, sis</li>
+      <li>VERB: antentu, purtuvitu, persnihmu, ařveitu, benurent, feitu, habetu, habia, herte, prusekatu</li>
     </ul>
   </li>
 </ul>
@@ -532,9 +542,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB--NOUN-Nom (12)</li>
+      <li>VERB--NOUN-Nom (17)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Nom (5)</li>
+      <li>VERB--PRON-Nom (9)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
     </ul>
   </li>
@@ -544,10 +554,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (15)</li>
-      <li>VERB--NOUN-Acc (12)</li>
+      <li>VERB--NOUN-Abl (1)</li>
+      <li>VERB--NOUN-Acc (54)</li>
+      <li>VERB--NOUN-Acc-ADP(_) (1)</li>
       <li>VERB--NOUN-Acc-ADP(e) (1)</li>
       <li>VERB--NOUN-Loc (1)</li>
-      <li>VERB--PRON-Acc (3)</li>
+      <li>VERB--PRON-Acc (5)</li>
       <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--NOUN-Acc (35)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
@@ -559,6 +571,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB--NOUN-Dat (1)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>

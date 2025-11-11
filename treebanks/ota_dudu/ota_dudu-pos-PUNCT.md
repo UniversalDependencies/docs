@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ottoman_Turkish-DUDU: POS Tags: `PUNCT`
 
 There are 4 `PUNCT` lemmas (0%), 4 `PUNCT` types (0%) and 34 `PUNCT` tokens (0%).
-Out of 15 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, !</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.556278).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.708972).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “.”: <em>.</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ota_dudu-dep-punct.html">punct</a></tt> (34; 100% instances)
 
-Parents of `PUNCT` nodes belong to 6 different parts of speech: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (18; 53% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (11; 32% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Parents of `PUNCT` nodes belong to 6 different parts of speech: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (15; 44% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (14; 41% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
 
 34 (100%) `PUNCT` nodes are leaves.
 

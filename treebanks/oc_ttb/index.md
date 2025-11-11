@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Aleksandra Miletić, Myriam Bras, Louise Esher, Clamença Poujade, Jean Sibille, Marianne Vergez-Couret.
 
 Repository: [UD_Occitan-TTB](https://github.com/UniversalDependencies/UD_Occitan-TTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udoc_ttb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udoc_ttb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 

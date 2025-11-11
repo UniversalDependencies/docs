@@ -17,20 +17,19 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 8 orphan	color:blue
-1	Huan	huan	CCONJ	_	_	5	cc	5:cc	NormalizedForm=wan|NormalizedLemma=wan
-2	yeh	yehhuatl	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	NormalizedForm=yeh|NormalizedLemma=yehwatl
-3	noyohqui	noyohqui	ADV	_	_	5	advmod	5:advmod	NormalizedForm=noyohki|NormalizedLemma=noyohki
-4	o	o	AUX	_	_	5	aux	5:aux	NormalizedForm=o|NormalizedLemma=o
-5	quipactaya	pactia	VERB	_	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=kipaktaya|NormalizedLemma=paktia
-6	huan	huan	CCONJ	_	_	7	cc	7:cc	NormalizedForm=wan|NormalizedLemma=wan
-7	nomama	maman	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	5	conj	5:conj	NormalizedForm=nomama|NormalizedLemma=maman
-8	noyohqui	noyohqui	ADV	_	_	7	orphan	8.1:nsubj	SpaceAfter=No|NormalizedForm=noyohki|NormalizedLemma=noyohki
-9	.	.	PUNCT	_	_	5	punct	5:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 orphan	color:blue
+1	Huan	huan	CCONJ	_	_	4	cc	4:cc	NormalizedForm=wan|NormalizedLemma=wan
+2	yeh	yehhuatl	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	NormalizedForm=yeh|NormalizedLemma=yehwatl
+3	noyohqui	noyohqui	ADV	_	_	4	advmod	4:advmod	NormalizedForm=noyohki|NormalizedLemma=noyohki
+4	oquipactaya	pactia	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=kipaktaya|NormalizedLemma=paktia|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|wordform=quipactaya
+5	huan	huan	CCONJ	_	_	6	cc	6:cc	NormalizedForm=wan|NormalizedLemma=wan
+6	nomama	maman	NOUN	_	Number=Sing	4	conj	4:conj	NormalizedForm=nomama|NormalizedLemma=maman|Number[psor]=Sing|Person[psor]=1
+7	noyohqui	noyohqui	ADV	_	_	6	orphan	7.1:nsubj	NormalizedForm=noyohki|NormalizedLemma=noyohki|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
 

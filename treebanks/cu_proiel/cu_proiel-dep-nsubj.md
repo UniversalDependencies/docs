@@ -43,11 +43,11 @@ The following 62 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	Къто	къто	PRON	Pi	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	2	nsubj	_	ref=89.11
-2	съвѣстъ	съвѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=89.11
-3	дръжавѫ	дрьжава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	ref=89.11
-4	гнѣва	гнѣвъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=89.11
-5	твоего	твои	DET	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	det	_	ref=89.11
+1	Къто	къто	PRON	Pi	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	2	nsubj	_	Ref=89.11
+2	съвѣстъ	съвѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=89.11
+3	дръжавѫ	дрьжава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	Ref=89.11
+4	гнѣва	гнѣвъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Ref=89.11
+5	твоего	твои	DET	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	det	_	Ref=89.11
 
 ~~~
 
@@ -58,11 +58,11 @@ The following 62 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nsubj	color:blue
-1	И	и	CCONJ	C-	_	2	cc	_	ref=104.23
-2	въніде	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=104.23
-3	їи҃ль	издраиль	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=104.23
-4	вь	въ	ADP	R-	_	5	case	_	ref=104.23
-5	егуптъ	егѵпьтъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=104.23
+1	И	и	CCONJ	C-	_	2	cc	_	Ref=104.23
+2	въніде	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=104.23
+3	їи҃ль	издраиль	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=104.23
+4	вь	въ	ADP	R-	_	5	case	_	Ref=104.23
+5	егуптъ	егѵпьтъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	Ref=104.23
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `AUX` lemmas: היה, אינו, _, הינו
 
 The 10 most frequent `AUX` types:  היה, היו, היתה, אינו, להיות, יהיה, אינה, אינם, תהיה, אינן
 
-The 10 most frequent ambiguous lemmas: היה (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 774, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 146), _ (<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> 365, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 326, <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> 230, <tt><a href="he_htb-pos-ADV.html">ADV</a></tt> 192, <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 169, <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> 109, <tt><a href="he_htb-pos-X.html">X</a></tt> 76, <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> 57, <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="he_htb-pos-DET.html">DET</a></tt> 33)
+The 10 most frequent ambiguous lemmas: היה (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 774, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 146), _ (<tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> 365, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 325, <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> 230, <tt><a href="he_htb-pos-ADV.html">ADV</a></tt> 192, <tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 169, <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> 109, <tt><a href="he_htb-pos-X.html">X</a></tt> 76, <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> 57, <tt><a href="he_htb-pos-SCONJ.html">SCONJ</a></tt> 46, <tt><a href="he_htb-pos-DET.html">DET</a></tt> 33)
 
 The 10 most frequent ambiguous types:  היה (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 382, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 38, <tt><a href="he_htb-pos-X.html">X</a></tt> 1), היו (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 139, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 46), היתה (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 132, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 22), יהיה (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 85, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 24), תהיה (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 37, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 14), יהיו (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 24, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 22), היינו (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="he_htb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="he_htb-pos-ADV.html">ADV</a></tt> 1), הייה (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 2, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 1), נהיה (<tt><a href="he_htb-pos-AUX.html">AUX</a></tt> 2, <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> 1)
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  היה (<tt><a href="he_htb-pos-AUX.html"
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.750000 (the average of all parts of speech is 1.702584).
+The form / lemma ratio of `AUX` is 6.750000 (the average of all parts of speech is 1.702737).
 
 The 1st highest number of forms (14) was observed with the lemma “היה”: היה, היו, הייה, היינו, היית, הייתי, הייתם, היתה, יהיה, יהיו, להיות, נהיה, תהיה, תהייה.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-68 nodes (7%) are attached to their parents as `obl`.
+57 nodes (6%) are attached to their parents as `obl`.
 
-67 instances of `obl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.80882352941176.
+56 instances of `obl` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.91228070175439.
 
-The following 14 pairs of parts of speech are connected with `obl`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (22; 32% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (10; 15% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (9; 13% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (5; 7% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (22; 39% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (10; 18% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (9; 16% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (6; 11% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="or_odtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 14 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	ପ୍ରଧାନମନ୍ତ୍ରୀ	ପ୍ରଧାନମନ୍ତ୍ରୀ	NOUN	N_NN	_	6	nsubj	_	Translit=pradhānamantrī|LTranslit=pradhānamantrī
 2	ଆସନ୍ତାକାଲି	ଆସନ୍ତାକାଲି	ADV	RB	_	3	advmod	_	Translit=āsantākāli|LTranslit=āsantākāli
 3	ସକାଳେ	ସକାଳ	ADV	RB	_	6	advmod	_	Translit=sakāḷe|LTranslit=sakāḷa
-4	ଗୌହାଟୀରୁ	ଗୌହାଟୀ	PROPN	N_NNP	_	5	obl	_	Translit=gauhāṭīru|LTranslit=gauhāṭī
+4	ଗୌହାଟୀରୁ	ଗୌହାଟୀ	PROPN	N_NNP	_	5	nmod	_	Translit=gauhāṭīru|LTranslit=gauhāṭī
 5	ଇଟାନଗରରେ	ଇଟାନଗର	PROPN	N_NNP	_	6	obl	_	Translit=iṭānagarare|LTranslit=iṭānagara
 6	ପହଂଚିବେ	ପହଂଚି	VERB	V_VM_VF	_	0	root	_	Translit=pahaṁcibe|LTranslit=pahaṁci
 7	।	।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.

@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 2	ensin	ensin	ADV	_	_	5	advmod	_	_
 3	ollut	olla	AUX	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	5	cop	_	_
 4	punainen	punainen	ADJ	_	Case=Nom|Degree=Pos|Derivation=Inen|Number=Sing	5	amod	_	_
-5	terrorismi	terrorismi	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	terrorismi	terrorismi	NOUN	_	Case=Nom|Number=Sing	0	root	_	candidate=nsubj:exist|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	1918-1941	1918-1941	NUM	_	NumType=Card	5	parataxis	_	_
 8	Venäjällä	Venäjä	PROPN	_	Case=Ade|Number=Sing	7	obl	_	SpacesAfter=\n

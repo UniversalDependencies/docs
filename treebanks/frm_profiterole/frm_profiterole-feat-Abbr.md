@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="frm_profiterole-pos
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>mons</em>
-* `EMPTY` (25): <em>que, qu', Amen, veilleusement</em>
+* `EMPTY` (26): <em>que, qu', Amen, veilleusement</em>
 

@@ -34,12 +34,12 @@ The most frequent other feature values with which `VERB` and `Subcat` co-occurre
 ## Relations with Agreement in `Subcat`
 
 The 10 most frequent relations where parent and child node agree in `Subcat`:
-<tt>VERB --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> VERB</tt> (345; 67%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> VERB</tt> (346; 67%),
 <tt>VERB --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> VERB</tt> (315; 72%),
 <tt>VERB --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> VERB</tt> (283; 86%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (120; 67%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (96; 80%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-obj.html">obj</a></tt>]--> VERB</tt> (12; 55%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (120; 65%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (98; 80%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-obj.html">obj</a></tt>]--> VERB</tt> (8; 62%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (2; 67%),
+<tt>VERB --[<tt><a href="af_afribooms-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%).
 

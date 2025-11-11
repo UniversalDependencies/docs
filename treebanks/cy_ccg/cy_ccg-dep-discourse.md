@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	wedi	wedi	AUX	ante	_	5	aux	_	_
 5	gweithio	gweithio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	3	xcomp	_	_
 6	i	i	ADP	prep	_	7	case	_	_
-7	Lywodraeth	llywodraeth	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	5	obl	_	_
+7	Lywodraeth	llywodraeth	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	5	nmod	_	_
 8	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 9	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\n
 
@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 18	fgColor:white
 # visual-style 18 3 discourse	color:blue
 1	Ar	ar	ADP	prep	_	3	case	_	_
-2	y	y	DET	art	_	3	det	_	_
+2	y	y	DET	art	PronType=Art	3	det	_	_
 3	llaw	llaw	NOUN	noun	Gender=Masc|Number=Sing	18	discourse	_	_
 4	arall	arall	ADJ	pos	Degree=Pos	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	punct	_	18	punct	_	_
@@ -82,7 +82,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	paratoadau	paratoad	NOUN	noun	Gender=Masc|Number=Plur	4	nsubj	_	_
 6	ar	ar	ADP	prep	_	7	case	_	_
 7	gyfer	cyfer	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	5	nmod	_	_
-8	y	y	DET	art	_	9	det	_	_
+8	y	y	DET	art	PronType=Art	9	det	_	_
 9	Nadolig	Nadolig	NOUN	noun	Gender=Masc|Number=Sing	7	nmod	_	_
 10	wedi	wedi	AUX	ante	_	12	aux	_	_
 11	hen	hen	ADJ	pos	Degree=Pos	12	advmod	_	_
@@ -95,13 +95,13 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 18	dechrau	dechrau	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	16	xcomp	_	_
 19	agosáu	agosáu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	18	xcomp	_	_
 20	at	at	ADP	prep	_	21	case	_	_
-21	derfyn	terfyn	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	19	obl	_	_
+21	derfyn	terfyn	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	19	nmod	_	_
 22	ein	ni	PRON	dep	Number=Plur|Person=1|Poss=Yes|PronType=Prs	23	nmod:poss	_	_
 23	hamser	amser	NOUN	noun	Gender=Masc|Mutation=AM|Number=Sing	21	nmod	_	_
 24	fel	fel	ADP	prep	_	25	case	_	_
 25	llysgenhadon	llysgennad	NOUN	noun	Gender=Masc|Number=Plur	21	nmod	_	_
 26	i	i	ADP	prep	_	28	case	_	SpaceAfter=No
-27	'r	y	DET	art	_	28	det	_	_
+27	'r	y	DET	art	PronType=Art	28	det	_	_
 28	Coleg	coleg	NOUN	noun	Gender=Masc|Number=Sing	25	nmod	_	_
 29	Cymraeg	Cymraeg	ADJ	pos	Degree=Pos	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	punct	_	16	punct	_	SpacesAfter=\n

@@ -32,9 +32,9 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	l'	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
 8	Italie	Italie	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
 9	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
-10	moins	moins	ADV	RBR	_	12	advmod	_	_
-11	de	de	ADP	IN	_	10	fixed	_	_
-12	kilomètres	kilomètre	NOUN	NN	Gender=Masc|Number=Plur	9	obj	_	_
+10	moins	moins	ADV	RBR	ExtPos=PRON	9	obj	_	_
+11	de	de	ADP	IN	_	12	case	_	_
+12	kilomètres	kilomètre	NOUN	NN	Gender=Masc|Number=Plur	10	obl:arg	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	ligne	ligne	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
 15	de	de	ADP	IN	_	16	case	_	_
@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 5 csubj	color:blue
 1	Dans	dans	ADP	IN	_	3	case	_	wordform=dans
-2	ce	ce	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+2	ce	ce	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	contexte	contexte	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	fulminer	fulminer	VERB	VB	VerbForm=Inf	9	csubj	_	_

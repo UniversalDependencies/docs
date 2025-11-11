@@ -18,11 +18,11 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 
 The following people have contributed to making this treebank part of UD: Kira Tulchynska, Alena Witzlack-Makarevich, Sylvanus Job, Michael Hahn.
 
-Repository: [UD_Khoekhoe-KDT](https://github.com/UniversalDependencies/UD_Khoekhoe-KDT)<br/>
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnaq_kdt216)<br/>
-Download all treebanks: [UD 2.16](/#download)
+Repository: [UD_Khoekhoe-KDT](https://github.com/UniversalDependencies/UD_Khoekhoe-KDT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnaq_kdt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
-License: CC BY-SA 4.0
+License: CC BY-NC-SA 4.0
 
 Genre: fiction, grammar-examples, spoken
 
@@ -52,8 +52,8 @@ UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoe lang
 
 The UD\_Khoekhoe-KDT treebank consists of various texts translated into Khoekhoe by native speakers, then glossed and annotated. The included texts are:
 
-- **grammar\_Cairo**: 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt)
-- **grammar\_BivalTyp**: [BivalTyp](https://www.bivaltyp.info/languages/descriptions/Khoekhoe.html) dataset.
+- **grammar\_Cairo**: 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt))
+- **grammar\_BivalTyp**: [BivalTyp](https\://www\.bivaltyp.info/languages/descriptions/Khoekhoe.html) dataset.
 - **film\_Bridge**: Subtitles from *Bridge of Spies* (2015).
 - **film\_Titanic**: A section of subtitles from *Titanic* (1997).
 - **book\_Khomai**: Chapters from the school book *Khomai* (1971), with shuffled sentences.
@@ -128,11 +128,11 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as pronouns (PRON): Soviet, _, daarso, go, ha, ham, hoa, i, jy, mâ, nau, nē, sa, si, tare, tari, ti, ts, â, ǀnî, ǁnā, ǁî, ǂgui</li>
+<li>This corpus contains 19 lemmas tagged as pronouns (PRON): _, daarso, ha, ham, hoa, jy, mâ, nau, nē, sa, si, tare, tari, ti, â, ǀnî, ǁnā, ǁî, ǂgui</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as determiners (DET): enige, hoa, hoaraga, kōǃgâ, mâ, mâtikō, mâǃnôa, nau, nē, sa, tare, ti, xare, ǀnî, ǀoasa, ǁnā, ǂgui, ǂû</li>
+<li>This corpus contains 17 lemmas tagged as determiners (DET): enige, hoa, hoaraga, mâ, mâtikō, mâǃnôa, nau, nē, sa, tare, ti, xare, ǀnî, ǀoasa, ǁnā, ǂgui, ǂû</li>
 </ul>
 
 <ul>
@@ -140,7 +140,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as auxiliaries (AUX): a, ga, gara, ge, gere, go, goro, hâ, hā, i, ka, kha, kom, koma, moet, nî, nîra, o, ra, re, tite, tā, ǀkhī</li>
+<li>This corpus contains 24 lemmas tagged as auxiliaries (AUX): _, a, ga, gara, ge, gere, go, goro, hâ, hā, i, ka, kha, kom, koma, moet, nî, nîra, o, ra, re, tite, tā, ǀkhī</li>
 </ul>
 
 <ul>
@@ -170,9 +170,9 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>Fem
     <ul>
       <li>ADJ: ǀguis, ǀguisa, ǂansa, ǃnoesa, ǀAsa, ǀgamsa, ǀguide, ǃkhūsa</li>
-      <li>DET: hoasa, hoadi, naus</li>
+      <li>DET: hoasa, hoadi</li>
       <li>NOUN: oms, gangans, aiǂoas, ǃkhais, ǃkhaisa, mamas, aumas, khoes, audosa, omsa</li>
-      <li>NUM: ǀguis, hakaǀas, khoeses, dīsiǀoadīsis, hakas, hûdīsiǀoadīsis, khoeseǀab, ǀgams, ǀgamǀoadīsis, ǃnanide</li>
+      <li>NUM: ǀguis, Hakaǀas, Khoeses, dīsiǀoadīsis, hakas, hûdīsiǀoadīsis, khoeseǀab, ǀgams, ǀgamǀoadīsis, ǃnanide</li>
       <li>PRON: s, ǁîs, ǁnās, si, nēs, sa, ǁnāsa, ǁîsa, nēsa, ra</li>
       <li>PROPN: Mariasa, Saras, Marias, Soviets, States, Maras, Fransfonteins, Marys, Roses, Coronas</li>
     </ul>
@@ -193,7 +193,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>Masc
     <ul>
       <li>ADJ: ǀguiba, ǀguib, ǁkhāba</li>
-      <li>DET: hoab, hoaba, hoago, hoagu, enige, sago, taregu, ǂûb</li>
+      <li>DET: hoab, hoaba, hoago, hoagu, sago, taregu, ǂûb</li>
       <li>NOUN: khoeb, ǃgôahesatse, khoeba, ǁaeb, ǀgaub, ǃgôahesab, ǃgôasatse, ǃhūb, ǀkhāb, ǂhanub</li>
       <li>NUM: dīsiǃnaniǀab, ǀguiba, ǀGamǀagu, ǀgamkhoma, ǁkhaisab</li>
       <li>PRON: ts, b, ǁîb, sats, tsi, satsa, ǁîba, khom, ba, bi</li>
@@ -205,7 +205,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: ǀgui-e, ǀgui-i, ǀguina, born, hoaragana, karin, tari-e, ǀguin, ǁnâuǂûna</li>
+      <li>ADJ: ǀgui-e, ǀgui-i, ǀguina, hoaragana, karin, tari-e, ǀguin, ǁnâuǂûna</li>
       <li>DET: hoana, hoa-e, hoan, hoa-i, hoada, ǁnān, naun, xare-i, ǁnā-e, ǁnāhâna</li>
       <li>NOUN: xū-e, xūn, khoen, xūna, xū-i, khoe-i, khoena, sîsen-e, khoe-e, kaikhoen</li>
       <li>NUM: ǀgui-e, ǀgamna, ǀgui-i, ama-e, haka-e, haka-i</li>
@@ -235,8 +235,8 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: ǀguina, born, hoaragana, karin, ǀguide, ǀguin, ǁnâuǂûna</li>
-      <li>DET: hoana, hoan, hoada, ǁnān, hoadi, hoago, hoagu, naun, enige, sago</li>
+      <li>ADJ: ǀguina, hoaragana, karin, ǀguide, ǀguin, ǁnâuǂûna</li>
+      <li>DET: hoana, hoan, hoada, ǁnān, hoadi, hoago, hoagu, naun, sago, taregu</li>
       <li>NOUN: xūn, khoen, xūna, khoena, kaikhoen, ǂhôana, ǀgôan, ǀgoan, Russianǁîn, khoegu</li>
       <li>NUM: ǀgamna, ǀGamǀagu, ǃnanide</li>
       <li>PRON: da, n, sida, sada, ǁîn, du, na, sadu, hoan, go</li>
@@ -249,11 +249,11 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>Sing
     <ul>
       <li>ADJ: ǀguiba, ǀguis, ǀguisa, ǀguib, ǀgui-e, ǀgui-i, ǂansa, ǃnoesa, tari-e, ǀAsa</li>
-      <li>DET: ti, sa, hoa-e, hoa-i, hoasa, hoab, hoaba, naus, xare-i, ǁnā-e</li>
+      <li>DET: ti, sa, hoa-e, hoa-i, hoasa, hoab, hoaba, xare-i, ǁnā-e, ǂûb</li>
       <li>NOUN: khoeb, xū-e, ǃgôahesatse, khoeba, xū-i, khoe-i, oms, ǁaeb, ǀgaub, ǃgôahesab</li>
       <li>NUM: ǀguis, ǀgui-e, dīsiǃnaniǀab, ǀgui-i, ǀguiba, Hakaǀas, Khoeses, ama-e, dīsiǀoadīsis, haka-e</li>
       <li>PRON: ta, ts, tita, i, b, s, te, ǁîb, sats, tare-e</li>
-      <li>PROPN: Petrub, Mariasa, Abela, Abeli, Saras, Marias, Amob, Titanici, Soviets, Powersa</li>
+      <li>PROPN: Petrub, Mariasa, Abela, Abeli, Saras, Marias, Amob, Soviets, Titanici, Powersa</li>
     </ul>
   </li>
 </ul>
@@ -280,14 +280,14 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: ǀguis, ǀguib, ǀgui-i, born, karin, tari-e, ǀgui-e, ǀguin</li>
+      <li>ADJ: ǀguis, ǀguib, ǀgui-i, karin, tari-e, ǀgui-e, ǀguin</li>
       <li>ADV: tsîn, on, Germanǁîn</li>
-      <li>DET: hoan, hoa-i, ǁnān, hoab, hoadi, hoago, hoagu, naun, enige, naus</li>
+      <li>DET: hoan, hoa-i, ǁnān, hoab, hoadi, hoago, hoagu, naun, sago, taregu</li>
       <li>NOUN: khoeb, xūn, khoen, xū-i, khoe-i, oms, ǁaeb, ǀgaub, ǃgôahesab, gangans</li>
       <li>NUM: ǀguis, dīsiǃnaniǀab, Hakaǀas, Khoeses, dīsiǀoadīsis, hakas, hûdīsiǀoadīsis, ǀGamǀagu, ǀgams, ǀgamǀoadīsis</li>
       <li>PART: s</li>
       <li>PRON: ta, ts, i, b, s, ǁîb, sats, n, ǁîn, ǁîs</li>
-      <li>PROPN: Petrub, Abeli, Saras, Marias, Amob, Titanici, Soviets, Powersi, Pryori, States</li>
+      <li>PROPN: Petrub, Abeli, Saras, Marias, Amob, Soviets, Titanici, Powersi, Pryori, States</li>
       <li>SCONJ: s, ǃkhais, sa, ǃkhaes</li>
     </ul>
   </li>
@@ -297,7 +297,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>Voc
     <ul>
       <li>NOUN: ǃgôahesatse, ǃgôasatse, ǀgawiǃgôahesatse, ǀgôatse, Dadatse, khoetse, oome, ǀawaǃnamtse, ǁGauǃnâ-aotse, ǂNûǁkhae-aotse</li>
-      <li>PRON: tse, ts</li>
+      <li>PRON: tse</li>
       <li>PROPN: ǃKhūtse, Awotse</li>
     </ul>
   </li>
@@ -364,7 +364,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: ra, ta, gere, gara, goro, ge, a, go, ru, nîra</li>
+      <li>AUX: ra, ta, gere, gara, goro, ge, A, go, ru, nîra</li>
     </ul>
   </li>
 </ul>
@@ -408,7 +408,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: re, ǀkhī, a, hā, ra, o, ta</li>
+      <li>AUX: re, ǀkhī, a, hā, ra, ta</li>
     </ul>
   </li>
 </ul>
@@ -468,7 +468,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Past
     <ul>
-      <li>AUX: ge, gere, go</li>
+      <li>AUX: ge, gere</li>
     </ul>
   </li>
 </ul>
@@ -505,7 +505,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Appl
     <ul>
-      <li>VERB: mîba, sîsenba, ǃoaba, ūhâba, ǁguiǃāba, ǁamaba, ǃgâiba, ǃkhoeba, dâba</li>
+      <li>VERB: mîba, sîsenba, ǃoaba, ūhâba, ǁGuiǃāba, ǁamaba, ǃgâiba, ǃkhoeba, Dâba, Murphyba</li>
     </ul>
   </li>
 </ul>
@@ -537,7 +537,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Rcp
     <ul>
-      <li>VERB: ǀgoragu, ǂangu, ǁnâugu, saogu, dāǃangu, mâǃoagu, mûǃāgu, saurugu, ǀhuru-ūgu, ǁkhonagu</li>
+      <li>VERB: ǀgoragu, ǂangu, ǁnâugu, Saogu, dāǃangu, mâǃoagu, mûǃāgu, saurugu, ǀhuru-ūgu, ǁkhonagu</li>
     </ul>
   </li>
 </ul>
@@ -573,7 +573,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>Dem
     <ul>
       <li>ADV: nēpa, ǁnāpa, ǁnāti, nē, nēti, ǁnā, nau, naupa, nē-ao, nēsisa</li>
-      <li>DET: nē, ǁnā, nau, ǁnān, naun, naus, ǁnā-e, ǁnāhâna</li>
+      <li>DET: nē, ǁnā, nau, ǁnān, naun, ǁnā-e, ǁnāhâna</li>
       <li>PRON: ǁnās, nēs, ǁnāsa, nēb, nēsa, nēn, ǁnā-e, ǁnā-i, nē-i, ǁnāb</li>
     </ul>
   </li>
@@ -591,7 +591,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>Ind
     <ul>
       <li>DET: ǀnî, ǂgui, enige</li>
-      <li>PRON: ǀnîba, ǂguina</li>
+      <li>PRON: ǀnîba, ǂGuina</li>
     </ul>
   </li>
 </ul>
@@ -599,8 +599,8 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Int
     <ul>
-      <li>ADV: mâti, mâpa, mati, mâtikō, mâǁae, mâtikōse, mapa</li>
-      <li>DET: mâ, tare, mâǃnôa, mâtikō, taregu</li>
+      <li>ADV: mâti, mâpa, mati, mâtikō, mâǁae, Mâtikōse, mapa</li>
+      <li>DET: mâ, tare, mâtikō, mâǃnôa, taregu</li>
       <li>PRON: tare-e, tare-i, tare, tari, tari-e, tarena, tari-i, tareba, Tariba, ham-i</li>
     </ul>
   </li>
@@ -617,7 +617,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>Prs
     <ul>
-      <li>DET: ti, sa, enige</li>
+      <li>DET: ti, sa</li>
       <li>PRON: ta, ts, tita, da, i, b, s, te, ǁîb, sats</li>
     </ul>
   </li>
@@ -682,8 +682,8 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>1
     <ul>
-      <li>DET: ti, hoada, enige</li>
-      <li>NOUN: Bridge, aota, xoa-aota, ôage, ǁgarage, ǂnoaba-aota, ǃhūǁîta</li>
+      <li>DET: ti, hoada</li>
+      <li>NOUN: aota, xoa-aota, ôage, ǁgarage, ǂnoaba-aota, ǃhūǁîta</li>
       <li>NUM: ǀgamkhoma</li>
       <li>PRON: ta, tita, da, te, sida, sada, m, khom, ge, sim</li>
     </ul>
@@ -694,8 +694,8 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
   <li>2
     <ul>
       <li>DET: sa, hoago, sago</li>
-      <li>NOUN: ǃgôahesatse, ǃgôasatse, ǀgawiǃgôahesatse, ǃgôahesas, ǃgôasas, ǀgôatse, ǃnari-aogo, Dadatse, khoetsa, khoetse</li>
-      <li>PRON: ts, sats, tsi, du, satsa, sadu, sa, sago, s, go</li>
+      <li>NOUN: ǃgôahesatse, ǃgôasatse, ǀgawiǃgôahesatse, ǃGôahesas, ǃgôasas, ǀgôatse, ǃnari-aogo, Dadatse, khoetsa, khoetse</li>
+      <li>PRON: ts, sats, tsi, du, satsa, sadu, sago, sa, s, go</li>
       <li>PROPN: ǃKhūtse, Awotse</li>
     </ul>
   </li>
@@ -712,12 +712,12 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 <ul>
   <li>3
     <ul>
-      <li>ADJ: ǀguiba, ǀguis, ǀguisa, ǀguib, ǀgui-e, ǀgui-i, ǀguina, born, ǀgara, ǂansa</li>
+      <li>ADJ: ǀguiba, ǀguis, ǀguisa, ǀguib, ǀgui-e, ǀgui-i, ǀguina, ǀgara, ǂansa, ǃnoesa</li>
       <li>DET: hoana, hoa-e, hoan, hoa-i, hoasa, hoab, hoaba, hoadi, hoagu, naun</li>
       <li>NOUN: khoeb, xū-e, xūn, khoen, khoeba, xūna, xū-i, khoe-i, oms, ǁaeb</li>
       <li>NUM: ǀguis, ǀgui-e, ǀgamna, dīsiǃnaniǀab, ǀgui-i, ǀguiba, Hakaǀas, Khoeses, ama-e, dīsiǀoadīsis</li>
       <li>PRON: i, b, ǁîb, n, tare-e, ǁîn, ǁîs, tare-i, ǁnās, ǁîba</li>
-      <li>PROPN: Petrub, Mariasa, Abela, Abeli, Saras, Marias, Amob, Titanici, Soviets, Powersa</li>
+      <li>PROPN: Petrub, Mariasa, Abela, Abeli, Saras, Marias, Amob, Soviets, Titanici, Powersa</li>
     </ul>
   </li>
 </ul>
@@ -779,13 +779,13 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
       <li>Contr
         <ul>
           <li>ADV: nau</li>
-          <li>DET: nau, naun, naus</li>
-          <li>PRON: naun, Nausa, nau, nau-i, nauts</li>
+          <li>DET: nau, naun</li>
+          <li>PRON: naun, Nausa, nau, nau-i, naus, nauts</li>
         </ul>
       </li>
       <li>Prox
         <ul>
-          <li>ADV: nēpa, nē, nēti, naupa, nē-ao, nēsisa, pa</li>
+          <li>ADV: nēpa, nē, nēti, naupa, nē-ao, nēsisa</li>
           <li>DET: nē</li>
           <li>PRON: nēs, nēb, nēsa, nēn, nē-i, nē-e, nēba, nē, nēde, nēga</li>
         </ul>
@@ -902,7 +902,7 @@ Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea
 </ul>
 
 <ul>
-<li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: ge, ra, hâ, nî, go, re, a, ga, i, gere, tite, gara, tā, ǀkhī, goro, kom, o, koma, moet, hā, kha, nîra.</li>
+<li>This corpus uses 23 lemmas as auxiliaries (<a>aux</a>). Examples: ge, ra, hâ, nî, go, re, a, ga, i, gere, tite, gara, tā, ǀkhī, goro, kom, o, koma, moet, hā, kha, _, nîra.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -913,13 +913,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (5)</li>
       <li>VERB--NOUN-Acc (138)</li>
-      <li>VERB--NOUN-Nom (353)</li>
+      <li>VERB--NOUN-Nom (354)</li>
       <li>VERB--PRON (329)</li>
       <li>VERB--PRON-Acc (89)</li>
       <li>VERB--PRON-Acc-ADP(ǃnâ) (1)</li>
-      <li>VERB--PRON-Nom (1288)</li>
+      <li>VERB--PRON-Nom (1289)</li>
       <li>VERB--PRON-Nom-ADP(ǀkha) (1)</li>
-      <li>VERB--PRON-Voc (1)</li>
       <li>VERB-Fin,Inf--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -930,15 +929,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (7)</li>
       <li>VERB--NOUN-ADP(xa) (1)</li>
-      <li>VERB--NOUN-Acc (767)</li>
+      <li>VERB--NOUN-Acc (766)</li>
       <li>VERB--NOUN-Acc-ADP(di) (1)</li>
-      <li>VERB--NOUN-Nom (95)</li>
+      <li>VERB--NOUN-Nom (94)</li>
       <li>VERB--NOUN-Nom-ADP(ti) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(xa) (1)</li>
-      <li>VERB--PRON (25)</li>
+      <li>VERB--PRON (24)</li>
       <li>VERB--PRON-Acc (241)</li>
-      <li>VERB--PRON-Acc-ADP(ǃgom) (1)</li>
-      <li>VERB--PRON-Nom (21)</li>
+      <li>VERB--PRON-Nom (20)</li>
       <li>VERB-Fin,Inf--NOUN (1)</li>
     </ul>
   </li>
@@ -949,9 +946,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (11)</li>
       <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB--PRON (5)</li>
-      <li>VERB--PRON-Acc (41)</li>
-      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB--PRON (6)</li>
+      <li>VERB--PRON-Acc (42)</li>
+      <li>VERB--PRON-Nom (3)</li>
     </ul>
   </li>
 </ul>

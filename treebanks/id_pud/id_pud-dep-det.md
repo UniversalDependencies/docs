@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 2	baru	baru	ADJ	_	_	1	amod	_	_
 3	ini	ini	DET	_	PronType=Dem	1	det	_	_
-4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	dipasok	pasok	VERB	_	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	_	_	6	case	_	_
 6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
 7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_
@@ -45,14 +45,14 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Selain	selain	ADP	_	_	2	case	_	_
 2	itu	itu	PRON	_	PronType=Dem	11	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	terjadi	jadi	VERB	_	Mood=Ind|Voice=Pass	11	csubj:pass	_	_
+4	terjadi	jadi	VERB	_	Voice=Pass	11	csubj:pass	_	_
 5	nya	nya	DET	_	Definite=Def|PronType=Art	4	det	_	_
 6	badai	badai	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 7	di	di	ADP	_	_	8	case	_	_
 8	pulau	pulau	NOUN	_	Number=Sing	6	nmod	_	_
 9	ini	ini	DET	_	PronType=Dem	8	det	_	_
 10	mungkin	mungkin	AUX	_	_	11	aux	_	_
-11	terjadi	jadi	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+11	terjadi	jadi	VERB	_	Voice=Pass	0	root	_	_
 12	selama	lama	ADP	_	_	13	case	_	_
 13	musim	musim	NOUN	_	Number=Sing	11	obl:tmod	_	_
 14	panas	panas	ADJ	_	_	13	amod	_	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 4 det	color:blue
 1	Dua	dua	NUM	_	NumType=Card	2	nsubj	_	_
-2	mengukur	ukur	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+2	mengukur	ukur	VERB	_	Voice=Act	0	root	_	_
 3	lama	lama	ADJ	_	_	2	ccomp	_	_
 4	nya	nya	DET	_	Definite=Def|PronType=Art	3	det	_	_
 5	bulan-bulan	bulan	NOUN	_	Number=Plur	3	nsubj	_	_

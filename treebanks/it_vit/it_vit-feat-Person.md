@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-19767 tokens (7%) have a non-empty value of `Person`.
+19766 tokens (7%) have a non-empty value of `Person`.
 3174 types (14%) occur at least once with a non-empty value of `Person`.
 1140 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8097; 3% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7861; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (3806; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8097; 3% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7861; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (3805; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `AUX`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (807; 10% of non-empty `Person`): <em>credo, abbiamo, so, veda, penso, sia, ho, vedremo, sento, avevo</em>
 * `2` (176; 2% of non-empty `Person`): <em>vai, mangi, hai, preferisci, andate, fai, vieni, pensi, andresti, metti</em>
 * `3` (6878; 87% of non-empty `Person`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
-* `EMPTY` (13533): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
+* `EMPTY` (13534): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -76,16 +76,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-3806 <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
+3805 <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3805; 100%), <tt><a href="it_vit-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (3249; 85%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2978; 78%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2001; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3804; 100%), <tt><a href="it_vit-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (3248; 85%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2977; 78%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2001; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (673; 18% of non-empty `Person`): <em>c', mi, ci, io, noi, me, ce</em>
+* `1` (672; 18% of non-empty `Person`): <em>c', mi, ci, io, noi, me, ce</em>
 * `2` (110; 3% of non-empty `Person`): <em>ti, vi, voi, te, tu</em>
 * `3` (3023; 79% of non-empty `Person`): <em>si, lo, la, l', gli, li, lui, le, loro, essi</em>
-* `EMPTY` (5988): <em>che, cui, quello, ne, quella, quale, dove, chi, ci, quelli</em>
+* `EMPTY` (5989): <em>che, cui, quello, ne, quella, quale, dove, chi, ci, quelli</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (38) occur only with one value of `Person`.
 
@@ -99,7 +99,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 * `1` (1; 50% of non-empty `Person`): <em>vedo</em>
 * `3` (1; 50% of non-empty `Person`): <em>dice</em>
-* `EMPTY` (57880): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57881): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `CCONJ`
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `CCONJ` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>pesino</em>
-* `EMPTY` (8198): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8178): <em>e, ma, o, ed, sia, come, che, cioè, ovvero, nonché</em>
 
 ## Relations with Agreement in `Person`
 

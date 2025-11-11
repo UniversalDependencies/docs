@@ -405,13 +405,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fi_tdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (9270; 94%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7947; 61%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7948; 61%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5501; 85%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4906; 54%),
+<tt>VERB --[<tt><a href="fi_tdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4905; 54%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (4525; 68%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (3301; 97%),
 <tt>VERB --[<tt><a href="fi_tdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (3185; 65%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3086; 78%),
 <tt>NOUN --[<tt><a href="fi_tdt-dep-det.html">det</a></tt>]--> PRON</tt> (2994; 94%),
-<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2575; 84%).
+<tt>VERB --[<tt><a href="fi_tdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2576; 84%).
 

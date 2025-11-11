@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-47 nodes (2%) are attached to their parents as `parataxis`.
+44 nodes (2%) are attached to their parents as `parataxis`.
 
-47 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.46808510638298.
+44 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.59090909090909.
 
-The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (23; 49% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (10; 21% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (5; 11% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (3; 6% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (23; 52% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (9; 20% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (5; 11% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (2; 5% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -25,12 +25,12 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Wapté	wapté	NOUN	n	_	3	nsubj	_	teenager;adolescente
 2	te	te	AUX	aux	Person=Non1	3	dep	_	_
 3	wara	wara	VERB	v	_	0	root	_	run;correr
-4	.	.	PUNCT	punct	_	3	punct	_	_
-5	Tsa'ẽtẽ	sa'ẽtẽ	ADV	adv	_	7	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	sa'ẽtẽ	sa'ẽtẽ	ADV	adv	_	7	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
 6	te	te	AUX	aux	Person=Non1	7	dep	_	_
 7	wara	wara	VERB	v	_	3	parataxis	_	run;correr
-8	.	.	PUNCT	punct	_	7	punct	_	_
-9	Uhödö	uhödö	NOUN	n	_	11	nsubj	_	tapir;anta
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	uhödö	uhödö	NOUN	n	_	11	nsubj	_	tapir;anta
 10	te	te	AUX	aux	Person=Non1	11	dep	_	_
 11	wara	wara	VERB	v	_	3	parataxis	_	run;correr
 12	.	.	PUNCT	punct	_	11	punct	_	_

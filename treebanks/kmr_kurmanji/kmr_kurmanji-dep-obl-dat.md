@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of obl:dat in UD_Kurmanji-MG'
+title:  'Statistics of obl:dat in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `obl:dat`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `obl:dat`
 
-This relation is a language-specific subtype of <tt><a href="kmr_mg-dep-obl.html">obl</a></tt>.
+This relation is a language-specific subtype of <tt><a href="kmr_kurmanji-dep-obl.html">obl</a></tt>.
 
 115 nodes (1%) are attached to their parents as `obl:dat`.
 
 114 instances of `obl:dat` (99%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.08695652173913.
 
-The following 5 pairs of parts of speech are connected with `obl:dat`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (79; 69% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (16; 14% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (16; 14% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `obl:dat`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (79; 69% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (16; 14% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (16; 14% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="kmr_kurmanji-pos-DET.html">DET</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

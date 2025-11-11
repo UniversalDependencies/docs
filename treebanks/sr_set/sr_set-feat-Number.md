@@ -11,18 +11,18 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sr_set-feat-Number.html">Number</a></tt>, <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt>.
 
-60460 tokens (62%) have a non-empty value of `Number`.
-18111 types (99%) occur at least once with a non-empty value of `Number`.
-8554 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23811; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7771; 8% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (6054; 6% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3486; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (684; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (279; 0% instances).
+60459 tokens (62%) have a non-empty value of `Number`.
+18110 types (99%) occur at least once with a non-empty value of `Number`.
+8553 lemmas (89%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7771; 8% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (6054; 6% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3486; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (684; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (279; 0% instances).
 
 ### `NOUN`
 
-23811 <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+23810 <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (6409; 27% of non-empty `Number`): <em>evra, godina, poslova, ljudi, zemalja, miliona, prava, vlasti, dana, zemlje</em>
+* `Plur` (6408; 27% of non-empty `Number`): <em>evra, godina, poslova, ljudi, zemalja, miliona, prava, vlasti, dana, zemlje</em>
 * `Sing` (17402; 73% of non-empty `Number`): <em>godine, predsednik, ministar, zemlje, vlada, ponedeljak, premijer, vlade, zemlja, sredu</em>
 * `EMPTY` (7): <em>km, br., cm, m</em>
 
@@ -258,10 +258,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4026; 64%),
 <tt>VERB --[<tt><a href="sr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (2975; 87%),
 <tt>VERB --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2788; 86%),
-<tt>VERB --[<tt><a href="sr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2311; 60%),
+<tt>VERB --[<tt><a href="sr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2313; 60%),
 <tt>NOUN --[<tt><a href="sr_set-dep-det.html">det</a></tt>]--> DET</tt> (1675; 99%),
-<tt>VERB --[<tt><a href="sr_set-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1449; 53%),
+<tt>VERB --[<tt><a href="sr_set-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1447; 53%),
 <tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1411; 73%),
 <tt>PROPN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1312; 99%),
-<tt>NOUN --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1183; 75%).
+<tt>NOUN --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1185; 75%).
 

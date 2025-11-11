@@ -12,10 +12,10 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_cac-feat-Number.html">Number</a></tt>, <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt>.
 
-287029 tokens (58%) have a non-empty value of `Number`.
+287027 tokens (58%) have a non-empty value of `Number`.
 63356 types (101%) occur at least once with a non-empty value of `Number`.
-25933 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (135048; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (73928; 15% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (31221; 6% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (17097; 3% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (13688; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7869; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (5707; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2471; 0% instances).
+25932 lemmas (91%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (135048; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (73928; 15% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (31221; 6% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (17096; 3% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (13688; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7869; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (5706; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2471; 0% instances).
 
 ### `NOUN`
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 73928 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (71063; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (67612; 91%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (61735; 84%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (61735; 84%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (44965; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (71063; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (67612; 91%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (61696; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (61696; 83%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (44965; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -114,15 +114,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-17097 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Number`.
+17096 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15241; 89%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15241; 89%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (14670; 86%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13801; 81%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15240; 89%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15240; 89%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (14669; 86%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13800; 81%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (5; 0% of non-empty `Number`): <em>mýma, našima, těma</em>
 * `Plur` (4873; 29% of non-empty `Number`): <em>které, těchto, tyto, kteří, některých, některé, svých, své, našich, ty</em>
-* `Sing` (12219; 71% of non-empty `Number`): <em>to, který, která, tím, této, tom, toho, tento, tohoto, tomu</em>
+* `Sing` (12218; 71% of non-empty `Number`): <em>to, který, která, tím, této, tom, toho, tento, tohoto, tomu</em>
 * `EMPTY` (2714): <em>jejich, jeho, několik, mnoho, jehož, jejichž, několika, mnoha, kolik, tolik</em>
 
 <table>
@@ -148,7 +148,6 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>té</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td><em>tý</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td></td><td><em>těch</em></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-ExtPos.html">ExtPos</a></tt><tt>=ADJ</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>to</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-ExtPos.html">ExtPos</a></tt><tt>=CCONJ</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>to</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ten</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ta</em></td><td></td><td><em>ty</em></td></tr>
@@ -234,15 +233,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `PRON`
 
-5707 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (36% of all `PRON` tokens) have a non-empty value of `Number`.
+5706 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (36% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5706; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5217; 91%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3455; 61%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3143; 55%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5706; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5217; 91%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3454; 61%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3142; 55%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (3300; 58% of non-empty `Number`): <em>všech, nás, je, všechny, nám, nich, nichž, jim, jež, všichni</em>
-* `Sing` (2407; 42% of non-empty `Number`): <em>ji, mu, ho, níž, všechno, němž, ní, jej, mi, já</em>
-* `EMPTY` (10276): <em>se, si, co, což, sebe, něco, nic, kdo, sobě, sebou</em>
+* `Sing` (2406; 42% of non-empty `Number`): <em>ji, mu, ho, níž, všechno, němž, ní, jej, mi, já</em>
+* `EMPTY` (10280): <em>se, si, co, což, sebe, něco, nic, kdo, sobě, sebou</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -315,13 +314,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59237; 99%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (27175; 61%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (11640; 81%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (27282; 61%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (11599; 81%),
 <tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (10205; 85%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-det.html">det</a></tt>]--> DET</tt> (8843; 81%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-det.html">det</a></tt>]--> DET</tt> (8842; 81%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> AUX</tt> (3965; 87%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3718; 93%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3717; 93%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (3670; 80%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2678; 70%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> AUX</tt> (2514; 76%).
+<tt>NOUN --[<tt><a href="cs_cac-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2679; 70%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> AUX</tt> (2513; 76%).
 

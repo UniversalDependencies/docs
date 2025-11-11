@@ -70,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 6	på	på	ADP	PP	_	7	case	7:case	_
 7	Plaza	plaza	NOUN	NN|SIN	Foreign=Yes	3	obl	3:obl:på	Lang=es
 8	de	de	ADP	PP	Foreign=Yes	10	case	10:case	Lang=es
-9	las	las	DET	DT|DEF	Foreign=Yes	10	det	10:det	Lang=es
+9	las	las	DET	DT|DEF	Foreign=Yes|PronType=Art	10	det	10:det	Lang=es
 10	Victorias	victorias	PROPN	PM|PLU	Foreign=Yes	7	nmod	7:nmod	Lang=es|SpaceAfter=No
 11	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 

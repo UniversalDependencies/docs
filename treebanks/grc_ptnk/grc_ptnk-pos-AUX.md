@@ -25,12 +25,12 @@ The form / lemma ratio of `AUX` is 43.000000 (the average of all parts of speech
 
 The 1st highest number of forms (43) was observed with the lemma “εἰμί”: <em>εἰμι, εἰμὶ, εἰσίν, εἰσιν, εἰσὶν, εἴ, εἴη, εἶ, εἶναί, εἶναι, οὖσα, ἐσμέν, ἐσμεν, ἐσμὲν, ἐσομένου, ἐστίν, ἐστε, ἐστιν, ἐστὲ, ἐστὶν, ἐσόμεθα, ἔσεσθε, ἔσομαι, ἔσονταί, ἔσονται, ἔσται, ἔστιν, ἔστω, ἔστωσαν, ἔσῃ, ἦν, ἦς, ἦσαν, ἦσθα, ὂν, ὄντας, ὄντες, ὄντι, ὄντος, ὢν, ὦσίν, ὦσιν, ᾖ</em>.
 
-`AUX` occurs with 9 features: <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt> (533; 100% instances), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt> (531; 99% instances), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (522; 98% instances), <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt> (506; 95% instances), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt> (504; 94% instances), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt> (504; 94% instances), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt> (156; 29% instances), <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (18; 3% instances), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (18; 3% instances)
+`AUX` occurs with 9 features: <tt><a href="grc_ptnk-feat-VerbForm.html">VerbForm</a></tt> (535; 100% instances), <tt><a href="grc_ptnk-feat-Tense.html">Tense</a></tt> (533; 100% instances), <tt><a href="grc_ptnk-feat-Voice.html">Voice</a></tt> (531; 99% instances), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (522; 98% instances), <tt><a href="grc_ptnk-feat-Mood.html">Mood</a></tt> (504; 94% instances), <tt><a href="grc_ptnk-feat-Person.html">Person</a></tt> (504; 94% instances), <tt><a href="grc_ptnk-feat-Aspect.html">Aspect</a></tt> (156; 29% instances), <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (18; 3% instances), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (18; 3% instances)
 
 `AUX` occurs with 28 feature-value pairs: `Aspect=Imp`, `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Ind,Sub`, `Mood=Opt`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Mid`
 
-`AUX` occurs with 41 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (136 tokens).
+`AUX` occurs with 36 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (145 tokens).
 Examples: <em>ἐστιν, ἔστιν, ἐστὶν, ἐστίν</em>
 
 

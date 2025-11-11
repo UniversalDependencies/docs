@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Ariani Di Felippo, Norton Trevisan Roman, Thiago Alexandre Salgueiro Pardo, Bryan Khelven da Silva Barbosa, Maria das Graças Volpe Nunes.
 
 Repository: [UD_Portuguese-DANTEStocks](https://github.com/UniversalDependencies/UD_Portuguese-DANTEStocks)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_dantestocks216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_dantestocks217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY 4.0
 
@@ -73,7 +73,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 
 
 <ul>
-<li>This corpus contains 4042 sentences, 77576 tokens and 80996 syntactic words.</li>
+<li>This corpus contains 4042 sentences, 77576 tokens and 80998 syntactic words.</li>
 </ul>
 
 <ul>
@@ -89,8 +89,8 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
 </ul>
 
 <ul>
-<li>This corpus contains 3420 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 56 types of multi-word tokens. Examples: da, do, na, no, à, ao, dos, das, nos, aos, pelo, pela, neste, nas, nesta, nessa, às, daqui, desta, nesse, dela, dessa, num, pelos, pro, numa, nela, pelas, desse, deste, disso, daí, né, pra, nisso, naquela, nesses, dai, daquele, delas, deles, saber-se, QUEBRÁ-LA, a., aonde, contigo, d'água, dele, destes, dois.</li>
+<li>This corpus contains 3422 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 57 types of multi-word tokens. Examples: da, do, na, no, à, ao, dos, das, nos, aos, pelo, pela, neste, nas, nesta, nessa, às, daqui, desta, nesse, dela, dessa, num, pelos, pro, numa, nela, pelas, desse, deste, disso, daí, né, pra, nisso, naquela, nesses, 2x, dai, daquele, delas, deles, saber-se, QUEBRÁ-LA, a., aonde, contigo, d'água, dele, destes.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -181,7 +181,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
       <li>ADP: a, as</li>
       <li>DET: a, as, uma, sua, essa, esta, suas, minha, alguma, nossa</li>
       <li>NOUN: ações, indicação, venda, compra, MM21, alta, 16h, resistências, semana, queda</li>
-      <li>NUM: uma, duas</li>
+      <li>NUM: uma, duas, 2</li>
       <li>PRON: ela, a, essa, uma, as, outras, outra, todas, la, elas</li>
       <li>PROPN: #PETR4, ITUB4, República, siderurgia</li>
       <li>VERB: ajustadas, administrada, capitalizada, coberta, divulgada, instalada, realizada, alugadas, controladas, feita</li>
@@ -244,7 +244,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
       <li>PROPN: ocidental, #PETR4, ITUB4, República, siderurgia</li>
       <li>VERB: romper, analise, confira, resultou, tem, fechou, sobe, indicado, pode, vai</li>
       <li>VERB-Fin: romper, analise, confira, resultou, tem, fechou, sobe, pode, vai, veja</li>
-      <li>VERB-Inf: ficar, achar, borrar, continuar, devolver, dizer, elevar, mostrar, responder, vir</li>
+      <li>VERB-Inf: ficar, achar, borrar, continuar, devolver, dizer, e, elevar, mostrar, responder</li>
       <li>VERB-Part: indicado, comprado, postado, vendido, feito, administrada, cancelado, capitalizada, negociado, ajustado</li>
     </ul>
   </li>
@@ -400,6 +400,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
       <li>AUX-Fin: é, vai, está, tá, estão, ta, vou, vamos, estou, =</li>
       <li>VERB: tem, sobe, pode, diz, vai, vale, cai, faz, quer, vem</li>
       <li>VERB-Fin: tem, sobe, pode, diz, vai, vale, cai, faz, quer, vem</li>
+      <li>VERB-Inf: e</li>
     </ul>
   </li>
 </ul>
@@ -475,7 +476,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
   <li>Rel
     <ul>
       <li>DET: que</li>
-      <li>PRON: que, q, quem, q., quê, qq, qual, quer</li>
+      <li>PRON: que, q, quem, pq, q., quê, qq, qual, quer</li>
     </ul>
   </li>
 </ul>
@@ -548,7 +549,7 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
       <li>PRON: se, o, ela, ele, a, eles, lhe, os, la, elas</li>
       <li>VERB: romper, analise, confira, resultou, tem, sobe, fechou, pode, diz, vai</li>
       <li>VERB-Fin: romper, analise, confira, resultou, tem, sobe, fechou, pode, diz, vai</li>
-      <li>VERB-Inf: tomarem, apresentarem, borrar, continuar, desabarem, devolver, dizer, elevar, fazerem, mostrar</li>
+      <li>VERB-Inf: tomarem, apresentarem, borrar, continuar, desabarem, devolver, dizer, e, elevar, fazerem</li>
       <li>VERB-Part: programa</li>
     </ul>
   </li>
@@ -644,13 +645,13 @@ This work was carried out at the Center for Artificial Intelligence of the Unive
           <li>DET: Awuele, e, s, varias, varios, às</li>
           <li>NOUN: demonstracoes, Distribuicao, alteracao, Ingles, dataex, acoes, papeis, Disposicao, Calendario, indice</li>
           <li>NUM: 10,, Iii, cindo</li>
-          <li>PRON: ninguem, sem, tú, voces, Qm, Qum, alguem, la, mo, nóis</li>
+          <li>PRON: ninguem, tú, voces, Qm, Qum, alguem, la, mo, nóis, qq</li>
           <li>PROPN: petrobrás, #Petrobrás, #Eletrobrás, Eletrobrás, Eletr, Graca, mega, #, #HOME, @</li>
           <li>SCONJ: pelo</li>
           <li>VERB: fêz, comprado, vamu, da, ve, analisár, devlveu, ligarm, separemo, FUDER</li>
           <li>VERB-Fin: fêz, vamu, da, ve, ligarm, separemo, FUDER, FUDERAM, a, chora</li>
           <li>VERB-Ger: administrando, deixnado, rompento, subondo</li>
-          <li>VERB-Inf: analisár, comecar, pasar</li>
+          <li>VERB-Inf: analisár, comecar, e, pasar</li>
           <li>VERB-Part: comprado, comparada, concluidas, extendida, olhada, programa, tomado</li>
         </ul>
       </li>
@@ -677,14 +678,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (754)</li>
+      <li>VERB-Fin--NOUN (753)</li>
       <li>VERB-Fin--NOUN-ADP(para) (1)</li>
       <li>VERB-Fin--PRON (225)</li>
       <li>VERB-Fin--PRON-Nom (138)</li>
       <li>VERB-Ger--NOUN (52)</li>
       <li>VERB-Ger--PRON (17)</li>
       <li>VERB-Ger--PRON-Nom (11)</li>
-      <li>VERB-Inf--NOUN (48)</li>
+      <li>VERB-Inf--NOUN (49)</li>
       <li>VERB-Inf--PRON (23)</li>
       <li>VERB-Inf--PRON-Nom (16)</li>
       <li>VERB-Part--NOUN (15)</li>
@@ -698,7 +699,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (2)</li>
-      <li>VERB-Fin--NOUN (1417)</li>
+      <li>VERB-Fin--NOUN (1412)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(em) (1)</li>
       <li>VERB-Fin--PRON (117)</li>
@@ -709,8 +710,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (15)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN (341)</li>
-      <li>VERB-Inf--NOUN-ADP(às) (2)</li>
+      <li>VERB-Inf--NOUN (343)</li>
       <li>VERB-Inf--PRON (19)</li>
       <li>VERB-Inf--PRON-Acc (4)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>

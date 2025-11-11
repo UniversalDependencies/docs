@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `CCONJ`
 
-There are 8 `CCONJ` lemmas (0%), 8 `CCONJ` types (0%) and 576 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 11 in number of tokens.
+There are 7 `CCONJ` lemmas (0%), 7 `CCONJ` types (0%) and 575 `CCONJ` tokens (3%).
+Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 11 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>and, but, or, both, either, &, /, yet</em>
+The 10 most frequent `CCONJ` lemmas: <em>and, but, or, both, either, &, yet</em>
 
-The 10 most frequent `CCONJ` types:  <em>and, but, or, both, either, &, /, yet</em>
+The 10 most frequent `CCONJ` types:  <em>and, but, or, both, either, &, yet</em>
 
 The 10 most frequent ambiguous lemmas: <em>but</em> (<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> 70, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1), <em>both</em> (<tt><a href="en_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> 7), <em>either</em> (<tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 1), <em>yet</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -33,24 +33,24 @@ The 10 most frequent ambiguous types:  <em>but</em> (<tt><a href="en_pud-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.149901).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.151116).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “/”: <em>/</em>.
+The 2nd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
+The 3rd highest number of forms (1) was observed with the lemma “both”: <em>both</em>.
 
 `CCONJ` does not occur with any features.
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="en_pud-dep-cc.html">cc</a></tt> (566; 98% instances), <tt><a href="en_pud-dep-cc-preconj.html">cc:preconj</a></tt> (10; 2% instances)
+`CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="en_pud-dep-cc.html">cc</a></tt> (565; 98% instances), <tt><a href="en_pud-dep-cc-preconj.html">cc:preconj</a></tt> (10; 2% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (212; 37% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (207; 36% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (83; 14% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (44; 8% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (11; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (212; 37% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (207; 36% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (80; 14% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (45; 8% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-576 (100%) `CCONJ` nodes are leaves.
+575 (100%) `CCONJ` nodes are leaves.
 
 The highest child degree of a `CCONJ` node is 0.
 

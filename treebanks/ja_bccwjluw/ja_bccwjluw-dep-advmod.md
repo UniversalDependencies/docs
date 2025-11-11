@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18660 nodes (2%) are attached to their parents as `advmod`.
+18662 nodes (2%) are attached to their parents as `advmod`.
 
-18580 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.13601286173633.
+18582 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.13631979423427.
 
-The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (13076; 70% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (2391; 13% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (2377; 13% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (328; 2% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (291; 2% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (101; 1% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (65; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (13077; 70% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (2391; 13% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (2378; 13% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (328; 2% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (291; 2% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (101; 1% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (65; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 9	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=14
 10	_	_	NOUN	_	_	5	compound	_	BBIL=I|BPT=2|SpaceAfter=No|UI=443
 11	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
-12	_	_	NOUN	_	_	14	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=15807
+12	_	_	NOUN	_	_	14	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=15807
 13	_	_	ADP	_	_	12	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=91
 14	_	_	NOUN	_	_	17	obj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=66641
 15	_	_	ADP	_	_	14	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=32
@@ -64,9 +64,9 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=5
 6	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=3|SpaceAfter=No|UI=4
 7	_	_	PUNCT	_	_	4	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
-8	_	_	NOUN	_	_	10	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2978
+8	_	_	NOUN	_	_	10	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2979
 9	_	_	ADP	_	_	8	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
-10	_	_	NOUN	_	_	14	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2125
+10	_	_	NOUN	_	_	14	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2125
 11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 12	_	_	NOUN	_	_	14	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=9706
 13	_	_	ADP	_	_	12	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0

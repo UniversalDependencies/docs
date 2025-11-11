@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>.
 There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fr_parisstories-dep-nsubj-caus.html">nsubj:caus</a></tt>, <tt><a href="fr_parisstories-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-42 nodes (0%) are attached to their parents as `nsubj:pass`.
+41 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-42 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.71428571428571.
+41 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.75609756097561.
 
-The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (40; 95% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 5% instances).
+The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (39; 95% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj:pass	_	_
 2	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	obj	_	SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	vues	voir	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	vues	voir	VERB	_	VerbForm=Part|Voice=Pass	0	root	_	Gender[ctxt]=Fem|Number[ctxt]=Plur|SpaceAfter=No|Tense[denom]=Past
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -42,31 +42,31 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	comme	comme	SCONJ	_	_	10	mark	_	_
 3	à	à	ADP	_	_	5	case	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	Réunion	Réunion	PROPN	_	_	10	obl:mod	_	SpaceAfter=No
+5	Réunion	Réunion	PROPN	_	_	10	obl:mod	_	Gender[lex]=Unknown|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	saisons	saison	NOUN	_	Gender=Fem|Number=Plur	10	nsubj:pass	_	_
+8	saisons	saison	NOUN	_	_	10	nsubj:pass	_	Gender[lex]=Fem|Number[ctxt]=Plur
 9	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	inversées	inverser	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	27	advcl	_	_
+10	inversées	inverser	VERB	_	VerbForm=Part|Voice=Pass	27	advcl	_	Gender[ctxt]=Fem|Number[ctxt]=Plur|Tense[denom]=Past
 11	par	par	ADP	_	_	12	case	_	_
-12	rapport	rapport	NOUN	_	Gender=Masc|Number=Sing	10	obl:mod	_	_
+12	rapport	rapport	NOUN	_	_	10	obl:mod	_	Gender[lex]=Masc|Number[ctxt]=Sing
 13	à	à	ADP	_	_	15	case	_	_
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	métropole	métropole	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	métropole	métropole	NOUN	_	_	12	nmod	_	Gender[lex]=Fem|Number[ctxt]=Sing|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	euh	euh	INTJ	_	_	10	discourse	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	10	punct	_	_
 19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	période	période	NOUN	_	Gender=Fem|Number=Sing	27	dislocated	_	_
+20	période	période	NOUN	_	_	27	dislocated	_	Gender[lex]=Fem|Number[ctxt]=Sing
 21	de	de	ADP	_	_	22	case	_	_
-22	Noël	Noël	PROPN	_	_	20	nmod	_	SpaceAfter=No
+22	Noël	Noël	PROPN	_	_	20	nmod	_	Gender[lex]=Unknown|SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	_
 24	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	27	nsubj	_	SpaceAfter=No
 25	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
-26	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	27	det	_	SpaceAfter=No
-27	été	été	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+26	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	27	det	_	Gender[ctxt]=Masc|SpaceAfter=No
+27	été	été	NOUN	_	_	0	root	_	Gender[lex]=Masc|Number[ctxt]=Sing
 28	pour	pour	ADP	_	_	29	case	_	_
-29	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	27	obl:mod	_	SpaceAfter=No
+29	nous	nous	PRON	_	Case=Acc|Emph=No|Number=Plur|Person=1|PronType=Prs	27	obl:mod	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	27	punct	_	_
 
 ~~~

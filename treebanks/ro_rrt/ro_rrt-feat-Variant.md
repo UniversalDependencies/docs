@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 575 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADP` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (575; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (574; 100%).
+The most frequent other feature values with which `ADP` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (575; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (574; 100%), <tt><a href="ro_rrt-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (555; 97%).
 
 `ADP` tokens may have the following values of `Variant`:
 
@@ -88,7 +88,7 @@ The most frequent other feature values with which `ADV` and `Variant` co-occurre
 
 ### `SCONJ`
 
-11 <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Variant`.
+11 <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Variant`.
 
 The most frequent other feature values with which `SCONJ` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11; 100%).
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Donovan</em> (<tt><a href="nmf_suansu
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.265625 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `PROPN` is 1.265625 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (5) was observed with the lemma “Maria”: <em>Maria, Mariadi, Mariala, Marianahn, Marianan</em>.
 

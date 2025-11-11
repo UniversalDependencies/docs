@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-55 nodes (2%) are attached to their parents as `aux`.
+90 nodes (2%) are attached to their parents as `aux`.
 
-53 instances of `aux` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50909090909091.
+88 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.42222222222222.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (51; 93% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (3; 5% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (86; 96% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 aux	color:blue
-1	Φτη	έφτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
+1	Φτη	εύτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
 2	θα	θα	AUX	_	Tense=Fut	8	aux	_	_
 3	ν	να	AUX	_	_	2	fixed	_	_
 4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_

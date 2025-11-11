@@ -13,7 +13,7 @@ This relation is universal.
 81 instances of `flat` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (74; 91% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_bohairic-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt>-<tt><a href="cop_bohairic-pos-X.html">X</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (75; 93% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_bohairic-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt>-<tt><a href="cop_bohairic-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
-1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
+1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	1	nsubj	_	OrigLang=heb
 3	ⲡϣⲟⲓ	ⲡϣⲟⲓ	PROPN	NPROP	_	2	flat	_	_
 4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̀
@@ -47,11 +47,11 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	11	obl	_	_
 5	ⲛⲓⲃⲉⲛ	ⲛⲓⲃⲉⲛ	PRON	PINT	PronType=Ind	4	det	_	_
 6	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	8	case	_	_
-7	ϯ	ⲡⲓ	DET	ART	_	8	det	_	_
+7	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	ⲙⲉⲧⲉⲩⲥⲉⲃⲏⲥ	ⲙⲉⲧⲉⲩⲥⲉⲃⲏⲥ	NOUN	N	Foreign=Yes	4	nmod	_	MSeg=ⲙⲉⲧ-ⲉⲩⲥⲉⲃⲏⲥ|OrigLang=grc
 9	ⲉ	ⲁⲣⲉ	PART	CFOC	_	11	mark	_	_
 10	ⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
-11	ϣⲟⲩϣⲟⲩ	ϣⲟⲩϣⲟⲩ	VERB	V	VerbForm=Fin	0	root	_	_
+11	ϣⲟⲩϣⲟⲩ	ϣⲟⲩϣⲟⲩ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 12	ⲙⲙⲱ	ⲛ	ADP	PREP	_	13	case	_	_
 13	ⲟⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	11	obj	_	_
 14	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	16	case	_	_
@@ -62,7 +62,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 19	ⲛⲁϩϯ	ⲛⲁϩϯ	NOUN	N	_	16	conj	_	_
 20	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	22	mark	_	_
 21	ⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
-22	ⲉⲣⲑⲁⲣⲓⲛ	ⲉⲣⲑⲁⲣⲣⲓⲛ	VERB	V	Foreign=Yes|VerbForm=Fin	11	advcl	_	MSeg=ⲉⲣ-ⲑⲁⲣⲓⲛ|OrigLang=grc
+22	ⲉⲣⲑⲁⲣⲓⲛ	ⲉⲣⲑⲁⲣⲣⲓⲛ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	11	advcl	_	MSeg=ⲉⲣ-ⲑⲁⲣⲓⲛ|OrigLang=grc
 23	ⲙⲙⲱ	ⲛ	ADP	PREP	_	24	case	_	_
 24	ⲟⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	obj	_	_
 25	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	27	case	_	_
@@ -78,35 +78,56 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 35	ϩⲁⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	36	det	_	_
 36	ϫⲓⲛϭⲟϫⲓ	ϫⲓⲛϭⲟϫⲓ	NOUN	N	_	27	conj	_	MSeg=ϫⲓⲛ-ϭⲟϫⲓ
 37	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	39	case	_	_
-38	ϯ	ⲡⲓ	DET	ART	_	39	det	_	_
+38	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 39	ⲁⲅⲁⲡⲏ	ⲁⲅⲁⲡⲏ	NOUN	N	Foreign=Yes	36	nmod	_	OrigLang=grc
 40	ⲉⲧ	ⲉⲧⲉ	SCONJ	CREL	_	41	mark	_	_
-41	ⲥⲟⲧⲡ	ⲥⲱⲧⲡ	VERB	VSTAT	VerbForm=Fin	39	acl:relcl	_	_
+41	ⲥⲟⲧⲡ	ⲥⲱⲧⲡ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	39	acl:relcl	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	dislocated	_	_
-2	ⲉⲑ	ⲉⲧⲉ	SCONJ	CREL	_	3	mark	_	_
-3	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	VerbForm=Fin	1	acl:relcl	_	_
-4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	7	advmod	_	OrigLang=grc
-5	ⲁⲡⲁ	ⲁⲡⲁ	DET	PPOS	Foreign=Yes	1	appos	_	OrigLang=heb
-6	ϣⲉⲛⲟⲩϯ	ϣⲉⲛⲟⲩϯ	PROPN	NPROP	_	5	flat	_	_
-7	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
-8	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-9	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
-10	ⲁⲛⲓⲧ	ⲓⲛⲓ	VERB	VIMP	VerbForm=Fin	7	ccomp	_	_
-11	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
-12	ⲛⲏ	ⲛⲁ	ADP	PREP	_	13	case	_	_
-13	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	10	obl	_	_
-14	ⲉϧⲟⲩⲛ	ⲉϧⲟⲩⲛ	ADV	ADV	_	10	advmod	_	Orig=ⲉ̀ϧⲟⲩⲛ
-15	.	.	PUNCT	PUNCT	_	7	punct	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 21 flat	color:blue
+1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
+2	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	ϣⲱⲡⲓ	ϣⲱⲡⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
+5	ⲟⲛ	ⲟⲛ	ADV	ADV	_	3	advmod	_	_
+6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̀
+7	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
+8	ⲉϩⲟⲟⲩ	ⲉϩⲟⲟⲩ	NOUN	N	_	3	obl	_	Orig=ⲉ̀ϩⲟⲟⲩ
+9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
+10	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	ⲓ	ⲓ	VERB	V	Mood=Ind|VerbForm=Fin	3	parataxis	_	Orig=ⲓ̀
+12	ⲛϫⲉ	ⲛϫⲉ	PART	PTC	_	14	case	_	Orig=ⲛ̀ϫⲉ
+13	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
+14	ⲣⲱⲙⲓ	ⲣⲱⲙⲓ	NOUN	N	_	11	dislocated	_	_
+15	ϣⲁ	ϣⲁ	ADP	PREP	_	17	case	_	_
+16	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	_
+17	ⲓⲱⲧ	ⲓⲱⲧ	NOUN	N	_	11	obl	_	Orig=ⲓ̀ⲱⲧ
+18	ⲙ	ⲛ	ADP	PREP	_	19	case	_	Orig=ⲙ̀
+19	ⲡⲣⲟⲫⲏⲧⲏⲥ	ⲡⲣⲟⲫⲏⲧⲏⲥ	NOUN	N	Foreign=Yes	17	nmod	_	OrigLang=grc
+20	ⲁⲡⲁ	ⲁⲡⲁ	ADP	PREP	Foreign=Yes	17	appos	_	OrigLang=heb
+21	ϣⲉⲛⲟⲩϯ	ϣⲉⲛⲟⲩϯ	PROPN	NPROP	_	20	flat	_	_
+22	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	24	mark	_	_
+23	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+24	ⲏⲡ	ⲱⲡ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	11	advcl	_	_
+25	ⲉ	ⲉ	ADP	PREP	_	27	case	_	Orig=ⲉ̀
+26	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
+27	ϯⲙⲓ	ϯⲙⲓ	NOUN	N	_	24	obl	_	_
+28	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	29	mark	_	_
+29	ⲡⲥⲉⲛϧⲱⲟⲩⲧ	ⲡⲥⲉⲛϧⲱⲟⲩⲧ	PROPN	NPROP	_	27	acl	_	_
+30	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	32	case	_	_
+31	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	ⲑⲟϣ	ⲑⲟϣ	NOUN	N	_	27	nmod	_	_
+33	ⲡⲥⲟⲓ	ⲡⲥⲟⲓ	PROPN	NPROP	_	32	nmod:unmarked	_	_
+34	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
+35	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	33	appos	_	OrigLang=grc
+36	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

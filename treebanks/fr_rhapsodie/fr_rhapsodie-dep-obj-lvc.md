@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_rhapsodie-dep-obj.html">obj</a></tt>.
 
-72 nodes (0%) are attached to their parents as `obj:lvc`.
+68 nodes (0%) are attached to their parents as `obj:lvc`.
 
-68 instances of `obj:lvc` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76388888888889.
+68 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.80882352941176.
 
-The following 2 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (66; 92% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (6; 8% instances).
+The following 2 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (66; 97% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -22,35 +22,45 @@ The following 2 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 obj:lvc	color:blue
-1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Overlap=Rhap_D0006-5
-2	n'	ne	ADV	_	Polarity=Neg	3	advmod	_	Overlap=Rhap_D0006-5|SpaceAfter=No
-3	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D0006-5
-4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
-5	autour	autour	ADV	_	_	3	advmod	_	_
-6	de	de	ADP	_	_	7	case	_	_
-7	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	obl:arg	_	_
-8	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
-9	impression	impression	NOUN	_	Gender=Fem|Number=Sing	3	obj:lvc	_	_
-10	que	que	SCONJ	_	_	9	dep	_	Scrap=Yes|SpaceAfter=No
-11	…	…	PUNCT	_	_	3	punct	_	_
+1	vous	vous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	AlignBegin=18470|AlignEnd=18712|Overlap=Rhap_D0006-7|Polite=Unknown
+2	n'	ne	ADV	_	Polarity=Neg	3	advmod	_	AlignBegin=18712|AlignEnd=18756|Overlap=Rhap_D0006-7|SpaceAfter=No
+3	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=18756|AlignEnd=19068|Overlap=Rhap_D0006-7
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	AlignBegin=19068|AlignEnd=19203
+5	autour	autour	ADV	_	_	3	advmod	_	AlignBegin=19203|AlignEnd=19493
+6	de	de	ADP	_	_	7	case	_	AlignBegin=19493|AlignEnd=19603
+7	vous	vous	PRON	_	Case=Acc|Emph=No|Number=Plur|Person=2|PronType=Prs	5	obl:arg	_	AlignBegin=19603|AlignEnd=19981|Polite=Unknown
+8	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	AlignBegin=19981|AlignEnd=20180
+9	impression	impression	NOUN	_	_	3	obj:lvc	_	AlignBegin=20180|AlignEnd=20905|Gender[lex]=Fem|Number[ctxt]=Sing
+10	que	que	SCONJ	_	_	9	dep	_	AlignBegin=20905|AlignEnd=21246|Scrap=Yes|SpaceAfter=No
+11	…	…	PUNCT	_	_	3	punct	_	AlignBegin=21246|AlignEnd=21246
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 obj:lvc	color:blue
-1	et	et	CCONJ	_	_	6	cc	_	_
-2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
-3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
-4	vraiment	vraiment	ADV	_	_	5	advmod	_	_
-5	mal	mal	ADV	_	_	6	obj:lvc	_	_
-6	vécu	vivre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	obj	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 obj:lvc	color:blue
+1	parce	parce	ADV	_	ExtPos=SCONJ	8	mark	_	AlignBegin=274488|AlignEnd=274617|Idiom=Yes
+2	que	que	SCONJ	_	_	1	fixed	_	AlignBegin=274617|AlignEnd=274840|InIdiom=Yes
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	AlignBegin=275442|AlignEnd=275687
+4	mamans	maman	NOUN	_	_	8	dislocated	_	AlignBegin=275687|AlignEnd=276163|Gender[lex]=Fem|Number[ctxt]=Plur
+5	africaines	africain	ADJ	_	Gender=Fem	4	amod	_	AlignBegin=276163|AlignEnd=276717|Number[ctxt]=Plur|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	AlignBegin=276717|AlignEnd=276717
+7	elles	lui	PRON	_	Case=Nom|Emph=No|Gender=Fem|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	AlignBegin=276717|AlignEnd=276867
+8	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=276867|AlignEnd=276957
+9	beaucoup	beaucoup	ADV	_	ExtPos=PRON	8	obj:lvc	_	AlignBegin=276957|AlignEnd=277147
+10	de	de	ADP	_	_	11	case	_	AlignBegin=277147|AlignEnd=277177
+11	mal	mal	NOUN	_	Number=Sing	9	obl:arg	_	AlignBegin=277177|AlignEnd=277377|Gender[lex]=Masc
+12	à	à	ADP	_	_	14	mark	_	AlignBegin=277377|AlignEnd=277447
+13	se	soi	PRON	_	Person=3|PronType=Prs	14	obj	_	AlignBegin=277447|AlignEnd=277517
+14	séparer	séparer	VERB	_	VerbForm=Inf	11	xcomp	_	AlignBegin=277517|AlignEnd=277917|Subject=SubjRaising
+15	de	de	ADP	_	_	17	case	_	AlignBegin=277917|AlignEnd=277967
+16	leurs	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	17	det	_	AlignBegin=277967|AlignEnd=278087
+17	petits	petit	NOUN	_	_	14	obl:arg	_	AlignBegin=278087|AlignEnd=278582|Gender[lex]=Masc|Number[ctxt]=Plur|SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	AlignBegin=278582|AlignEnd=278582
 
 ~~~
 

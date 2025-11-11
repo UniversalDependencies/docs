@@ -22,19 +22,19 @@ The following 54 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 11 ccomp	color:blue
-1	می‌گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	OrigLemma=گفت#گو
-2	این	این	DET	PREM_DEMAJ	_	4	det	_	_
-3	سرکار	سرکار	PROPN	IDEN	Number=Sing	4	nmod	_	_
-4	خانم	خانم	NOUN	N_ANM	Number=Sing	11	nsubj	_	_
-5	محترمه	محترمه	ADJ	ADJ_AJP	_	4	amod	_	SpaceAfter=No
-6	،	،	PUNCT	PUNC	_	5	punct	_	_
-7	از	از	ADP	PREP	_	8	case	_	_
-8	نویسندگان	نویسنده	NOUN	N_ANM	Number=Plur	11	xcomp	_	_
-9	همان	همان	DET	PREM_DEMAJ	_	10	det	_	_
-10	نشریه	نشریه	NOUN	N_IANM	Number=Sing	8	nmod	_	_
-11	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	OrigLemma=بود#باش
-12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	OrigLemma=#است|SpaceAfter=No
-13	.	.	PUNCT	PUNC	_	1	punct	_	_
+1	می‌گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=mīgft
+2	این	این	DET	PREM_DEMAJ	_	4	det	_	LTranslit=āīn|Translit=āīn
+3	سرکار	سرکار	PROPN	IDEN	Number=Sing	4	nmod	_	LTranslit=srkār|Translit=srkār
+4	خانم	خانم	NOUN	N_ANM	Number=Sing	11	nsubj	_	LTranslit=ḫānm|Translit=ḫānm
+5	محترمه	محترمه	ADJ	ADJ_AJP	_	4	amod	_	LTranslit=mḥtrmh|SpaceAfter=No|Translit=mḥtrmh
+6	،	،	PUNCT	PUNC	_	5	punct	_	LTranslit=,|Translit=,
+7	از	از	ADP	PREP	_	8	case	_	LTranslit=āz|Translit=āz
+8	نویسندگان	نویسنده	NOUN	N_ANM	Number=Plur	11	xcomp	_	LTranslit=nūīsndh|Translit=nūīsndgān
+9	همان	همان	DET	PREM_DEMAJ	_	10	det	_	LTranslit=hmān|Translit=hmān
+10	نشریه	نشریه	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=nšrīh|Translit=nšrīh
+11	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	LTranslit=būd|OrigLemma=بود#باش|Translit=būdh
+12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
+13	.	.	PUNCT	PUNC	_	1	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -45,20 +45,20 @@ The following 54 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 ccomp	color:blue
-1	صلاح	صلاح	NOUN	N_IANM	Number=Sing	2	xcomp	_	_
-2	ندیدم	دید	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Act	0	root	_	OrigLemma=دید#بین
-3	که	که	SCONJ	SUBR	_	2	ccomp	_	_
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	_
-5	کتاب	کتاب	NOUN	N_IANM	Number=Sing	9	obj	_	_
-6	را	را	ADP	POSTP	_	5	case	_	_
-7	وقف	وقف	NOUN	N_IANM	Number=Sing	9	xcomp	_	_
-8	خواص	خاص	NOUN	N_ANM	Number=Plur	7	nmod	_	_
-9	کنم	کرد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	3	ccomp	_	OrigLemma=کرد#کن
-10	و	و	CCONJ	CONJ	_	13	cc	_	_
-11	عامه	عام	NOUN	N_ANM	Number=Plur	13	obj	_	_
-12	را	را	ADP	POSTP	_	11	case	_	_
-13	فرونهم	نهاد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	9	conj	_	OrigLemma=فرو#نهاد|SpaceAfter=No
-14	.	.	PUNCT	PUNC	_	2	punct	_	_
+1	صلاح	صلاح	NOUN	N_IANM	Number=Sing	2	xcomp	_	LTranslit=ṣlāḥ|Translit=ṣlāḥ
+2	ندیدم	دید	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Act	0	root	_	LTranslit=dīd|OrigLemma=دید#بین|Translit=ndīdm
+3	که	که	SCONJ	SUBR	_	2	ccomp	_	LTranslit=kh|Translit=kh
+4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+5	کتاب	کتاب	NOUN	N_IANM	Number=Sing	9	obj	_	LTranslit=ktāb|Translit=ktāb
+6	را	را	ADP	POSTP	_	5	case	_	LTranslit=rā|Translit=rā
+7	وقف	وقف	NOUN	N_IANM	Number=Sing	9	xcomp	_	LTranslit=ūqf|Translit=ūqf
+8	خواص	خاص	NOUN	N_ANM	Number=Plur	7	nmod	_	LTranslit=ḫāṣ|Translit=ḫūāṣ
+9	کنم	کرد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	3	ccomp	_	LTranslit=krd|OrigLemma=کرد#کن|Translit=knm
+10	و	و	CCONJ	CONJ	_	13	cc	_	LTranslit=ū|Translit=ū
+11	عامه	عام	NOUN	N_ANM	Number=Plur	13	obj	_	LTranslit=ʿām|Translit=ʿāmh
+12	را	را	ADP	POSTP	_	11	case	_	LTranslit=rā|Translit=rā
+13	فرونهم	نهاد	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	9	conj	_	LTranslit=nhād|OrigLemma=فرو#نهاد|SpaceAfter=No|Translit=frūnhm
+14	.	.	PUNCT	PUNC	_	2	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -69,15 +69,15 @@ The following 54 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 ccomp	color:blue
-1	آیا	آیا	PART	PART	_	2	mark	_	_
-2	ممکن	ممکن	ADJ	ADJ_AJP	_	0	root	_	_
-3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	OrigLemma=#است
-4	پشت	پشت	NOUN	N_IANM	Number=Sing	8	obj	_	_
-5	صندلی‌	صندلی	NOUN	N_IANM	Number=Sing	4	nmod	_	_
-6	ام	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
-7	را	را	ADP	POSTP	_	4	case	_	_
-8	بخوابانم	خواباند	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	2	ccomp	_	OrigLemma=خواباند#خوابان|SpaceAfter=No
-9	؟	؟	PUNCT	PUNC	_	2	punct	_	_
+1	آیا	آیا	PART	PART	_	2	mark	_	LTranslit=Āīā|Translit=Āīā
+2	ممکن	ممکن	ADJ	ADJ_AJP	_	0	root	_	LTranslit=mmkn|Translit=mmkn
+3	است	است	AUX	AUX	Number=Sing|Person=3	2	cop	_	LTranslit=āst|OrigLemma=#است|Translit=āst
+4	پشت	پشت	NOUN	N_IANM	Number=Sing	8	obj	_	LTranslit=pšt|Translit=pšt
+5	صندلی‌	صندلی	NOUN	N_IANM	Number=Sing	4	nmod	_	LTranslit=ṣndlī|Translit=ṣndlī
+6	ام	من	PRON	PR_JOPER	Number=Sing|Person=1|PronType=Prs	5	nmod	_	LTranslit=mn|Translit=ām
+7	را	را	ADP	POSTP	_	4	case	_	LTranslit=rā|Translit=rā
+8	بخوابانم	خواباند	VERB	V_ACT	Number=Sing|Person=1|Voice=Act	2	ccomp	_	LTranslit=ḫūābānd|OrigLemma=خواباند#خوابان|SpaceAfter=No|Translit=bḫūābānm
+9	؟	؟	PUNCT	PUNC	_	2	punct	_	LTranslit=?|Translit=?
 
 ~~~
 

@@ -22,12 +22,12 @@ The 10 most frequent ambiguous types:  <em>oli</em> (<tt><a href="vep_vwt-pos-AU
   * <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 8: <em>Nece <b>oli</b> puine , kulu škol , kus openzihe kahesa klassad .</em>
   * <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1: <em>I muga <b>oli</b> kaikes rados .</em>
 * <em>pidab</em>
-  * <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 4: <em>Natalja Silakova johtutab ristituile , kut <b>pidab</b> armastada ičeze rahvast , kel't da kodimad .</em>
-  * <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1: <em>Ristitud paksus küzuba , pakičeba meid , no kaikile pidab el'geta , miše ei voi pätta kaik problemad ühtes päiväs , sen täht <b>pidab</b> aigad .</em>
+  * <tt><a href="vep_vwt-pos-AUX.html">AUX</a></tt> 4: <em>Natalja Silakova johtutab ristituile , kut <b>pidab</b> armastada ičeze rahvast , kelʼt da kodimad .</em>
+  * <tt><a href="vep_vwt-pos-VERB.html">VERB</a></tt> 1: <em>Ristitud paksus küzuba , pakičeba meid , no kaikile pidab elʼgeta , miše ei voi pätta kaik problemad ühtes päiväs , sen täht <b>pidab</b> aigad .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.400000 (the average of all parts of speech is 1.538660).
+The form / lemma ratio of `AUX` is 4.400000 (the average of all parts of speech is 1.550649).
 
 The 1st highest number of forms (9) was observed with the lemma “olda”: <em>Olin, Oliži, ole, olen, olend, oli, oliba, om, oma</em>.
 

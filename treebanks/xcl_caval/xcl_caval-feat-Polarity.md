@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1677 tokens (2%) have a non-empty value of `Polarity`.
-8 types (0%) occur at least once with a non-empty value of `Polarity`.
+1678 tokens (2%) have a non-empty value of `Polarity`.
+9 types (0%) occur at least once with a non-empty value of `Polarity`.
 3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1666; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (11; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1666; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (12; 0% instances).
 
 ### `PART`
 
@@ -21,16 +21,16 @@ The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PART.
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (1666; 100% of non-empty `Polarity`): <em>ոչ, մի, չ</em>
-* `EMPTY` (366): <em>իսկ, ապաքէն, գուցէ, եթե, թէ, թե, եթէ, զիարդ, մի, ոչ</em>
+* `EMPTY` (365): <em>իսկ, ապաքէն, գուցէ, եթե, թէ, թե, եթէ, զիարդ, մի, ոչ</em>
 
 ### `PRON`
 
-11 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
+12 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 91%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 100%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (12; 100%).
 
 `PRON` tokens may have the following values of `Polarity`:
 
-* `Neg` (11; 100% of non-empty `Polarity`): <em>չիք, չիկ</em>
-* `EMPTY` (10510): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, իւր</em>
+* `Neg` (12; 100% of non-empty `Polarity`): <em>չիք, չիկ</em>
+* `EMPTY` (10491): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, իւր</em>
 

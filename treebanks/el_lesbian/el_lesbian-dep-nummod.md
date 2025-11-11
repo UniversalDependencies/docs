@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `nummod`.
+34 nodes (1%) are attached to their parents as `nummod`.
 
-16 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.375.
+34 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41176470588235.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (16; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (34; 100% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
-1	Φτη	έφτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
+1	Φτη	εύτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
 2	θα	θα	AUX	_	Tense=Fut	8	aux	_	_
 3	ν	να	AUX	_	_	2	fixed	_	_
 4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_

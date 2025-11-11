@@ -11,21 +11,23 @@ It occurs with 4 different values: `Elev`, `Form`, `Humb`, `Infm`.
 
 4919 tokens (34%) have a non-empty value of `Polite`.
 705 types (19%) occur at least once with a non-empty value of `Polite`.
-1 lemmas (0) occur at least once with a non-empty value of `Polite`.
-The feature is used with 13 part-of-speech tags: <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (946; 7% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (646; 5% instances), <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> (622; 4% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (513; 4% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (442; 3% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (421; 3% instances), <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> (338; 2% instances), <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> (303; 2% instances), <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (245; 2% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (209; 1% instances), <tt><a href="jv_csui-pos-PART.html">PART</a></tt> (165; 1% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (65; 0% instances), <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> (4; 0% instances).
+466 lemmas (15%) occur at least once with a non-empty value of `Polite`.
+The feature is used with 13 part-of-speech tags: <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (945; 7% instances), <tt><a href="jv_csui-pos-DET.html">DET</a></tt> (646; 5% instances), <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> (622; 4% instances), <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> (513; 4% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> (442; 3% instances), <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (422; 3% instances), <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> (338; 2% instances), <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> (303; 2% instances), <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> (245; 2% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> (209; 1% instances), <tt><a href="jv_csui-pos-PART.html">PART</a></tt> (165; 1% instances), <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (65; 0% instances), <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> (4; 0% instances).
 
 ### `PRON`
 
-946 <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Polite`.
+945 <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="jv_csui-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (487; 51%), <tt><a href="jv_csui-feat-Number.html">Number</a></tt><tt>=Sing</tt> (482; 51%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="jv_csui-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (488; 52%), <tt><a href="jv_csui-feat-Number.html">Number</a></tt><tt>=Sing</tt> (482; 51%).
 
 `PRON` tokens may have the following values of `Polite`:
 
 * `Elev` (8; 1% of non-empty `Polite`): <em>panjenenganipun, panjenengan, panjenengane</em>
-* `Form` (91; 10% of non-empty `Polite`): <em>ingkang, ipun, piyambakipun, kula, punika, kekalihipun, mawon, napa, napa-napa, piyambake</em>
+* `Form` (90; 10% of non-empty `Polite`): <em>ingkang, ipun, piyambakipun, kula, punika, napa, piyambake, pundi, sinten, sira</em>
 * `Infm` (847; 90% of non-empty `Polite`): <em>sing, e, kang, aku, ku, dak, dheweke, apa, mu, iki</em>
 * `EMPTY` (15): <em>Sapa, diri, Rene, Saperangan, dewe, dhekne, ingsun, mengkana, niki, niku</em>
+
+`Polite` seems to be **lexical feature** of `PRON`. 100% lemmas (42) occur only with one value of `Polite`.
 
 ### `DET`
 
@@ -39,6 +41,8 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 * `Infm` (596; 92% of non-empty `Polite`): <em>e, iku, kuwi, iki, saben, dhewe, kabeh, akeh, semana, sawijining</em>
 * `EMPTY` (54): <em>saperangan, para, sawetara, maneka, niku, pirang-pirang, satunggaling, meh, niki, sakabehing</em>
 
+`Polite` seems to be **lexical feature** of `DET`. 100% lemmas (29) occur only with one value of `Polite`.
+
 ### `ADP`
 
 622 <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> tokens (83% of all `ADP` tokens) have a non-empty value of `Polite`.
@@ -49,6 +53,13 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 * `Form` (27; 4% of non-empty `Polite`): <em>saking, kaliyan, kados, dumugi, Saderengipun, dugi, kadosta, kangge, ngantos, saksampune</em>
 * `Infm` (568; 91% of non-empty `Polite`): <em>ing, saka, karo, kaya, kanthi, dening, nganti, marang, neng, kanggo</em>
 * `EMPTY` (126): <em>minangka, bab, jroning, menyang, babagan, wiwit, mring, ning, sacara, aneng</em>
+
+<table>
+  <tr><th>Paradigm <i>liya</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>saliyane</em></td><td><em>kaliyan</em></td></tr>
+</table>
+
+`Polite` seems to be **lexical feature** of `ADP`. 97% lemmas (28) occur only with one value of `Polite`.
 
 ### `ADV`
 
@@ -63,11 +74,16 @@ The most frequent other feature values with which `ADV` and `Polite` co-occurred
 * `Infm` (454; 88% of non-empty `Polite`): <em>uga, banjur, maneh, isih, mung, wae, mau, rada, kok, saiki</em>
 * `EMPTY` (285): <em>luwih, pancen, dene, paling, Mula, malah, tetep, kurang, sansaya, tansah</em>
 
+<table>
+  <tr><th>Paradigm <i>pungkas</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>sakpungkasane</em></td><td><em>Pungkasanipun</em></td></tr>
+</table>
+
+`Polite` seems to be **lexical feature** of `ADV`. 98% lemmas (81) occur only with one value of `Polite`.
+
 ### `VERB`
 
 442 <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Polite`.
-
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="jv_csui-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (430; 97%).
 
 `VERB` tokens may have the following values of `Polite`:
 
@@ -75,30 +91,41 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 * `Form` (114; 26% of non-empty `Polite`): <em>wonten, dados, dipunkenal, sowan, dhateng, dipunsebat, mangsuli, ndherek, wangsulan, damel</em>
 * `Humb` (6; 1% of non-empty `Polite`): <em>nyuwun, matur, nyaosi</em>
 * `Infm` (310; 70% of non-empty `Polite`): <em>dadi, gawe, katon, kelingan, nggawa, diarani, digawe, digunakake, ketemu, mapan</em>
-* `EMPTY` (1510): <em>ana, nganggo, ujar, melu, gelem, miturut, tekan, duwe, nggambarake, beda</em>
+* `EMPTY` (1512): <em>ana, nganggo, ujar, melu, gelem, miturut, tekan, duwe, nggambarake, beda</em>
+
+<table>
+  <tr><th>Paradigm <i>eling</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><td><tt><tt><a href="jv_csui-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>ngelingi</em></td></tr>
+  <tr><td><tt><tt><a href="jv_csui-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>kelingan</em></td><td></td></tr>
+</table>
+
+`Polite` seems to be **lexical feature** of `VERB`. 98% lemmas (162) occur only with one value of `Polite`.
 
 ### `NOUN`
 
-421 <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> tokens (15% of all `NOUN` tokens) have a non-empty value of `Polite`.
+422 <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> tokens (15% of all `NOUN` tokens) have a non-empty value of `Polite`.
 
 The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="jv_csui-feat-Number.html">Number</a></tt><tt>=Sing</tt> (402; 95%).
 
 `NOUN` tokens may have the following values of `Polite`:
 
 * `Elev` (10; 2% of non-empty `Polite`): <em>asma, asta, grana, lancingan, rawuh, rayi</em>
-* `Form` (53; 13% of non-empty `Polite`): <em>dalem, tiyang, wanci, wulan, antawis, gesang, griya, kabudayan, nyamikan, pungkasan</em>
+* `Form` (54; 13% of non-empty `Polite`): <em>dalem, tiyang, wanci, wulan, antawis, gesang, griya, kabudayan, mawon, nyamikan</em>
 * `Infm` (358; 85% of non-empty `Polite`): <em>wong, warga, bocah, ati, dina, jeneng, omah, antara, bocah-bocah, awak</em>
 * `EMPTY` (2446): <em>taun, bathik, tembang, basa, pusaka, tembung, buku, rasa, tanggal, anak</em>
 
+`Polite` seems to be **lexical feature** of `NOUN`. 100% lemmas (95) occur only with one value of `Polite`.
+
 ### `AUX`
 
-338 <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Polite`.
+338 <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Polite`.
 
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (31; 9% of non-empty `Polite`): <em>mesthi, saged, sampun, inggih, badhe, nggih, kedah</em>
 * `Infm` (307; 91% of non-empty `Polite`): <em>wis, bisa, yaiku, kudu, wus, arep, lagi, bakal, isa, kena</em>
-* `EMPTY` (2): <em>sida</em>
+
+`Polite` seems to be **lexical feature** of `AUX`. 100% lemmas (15) occur only with one value of `Polite`.
 
 ### `CCONJ`
 
@@ -121,6 +148,13 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 * `Infm` (208; 85% of non-empty `Polite`): <em>yen, kanggo, kaya, amarga, nganti, nek, karo, supaya, kanthi, manawa</em>
 * `EMPTY` (69): <em>sanajan, jalaran, tanpa, anggone, menawa, sanadyan, ben, sajak, amargi, dene</em>
 
+<table>
+  <tr><th>Paradigm <i>liya</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Saliyane</em></td><td><em>kaliyan</em></td></tr>
+</table>
+
+`Polite` seems to be **lexical feature** of `SCONJ`. 97% lemmas (28) occur only with one value of `Polite`.
+
 ### `ADJ`
 
 209 <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> tokens (28% of all `ADJ` tokens) have a non-empty value of `Polite`.
@@ -130,6 +164,13 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 * `Form` (50; 24% of non-empty `Polite`): <em>pungkasan, ageng, gerah, kaping, sae, sepuh, suweng, kuwatos, salajengipun, sanes</em>
 * `Infm` (159; 76% of non-empty `Polite`): <em>padha, liya, akeh, bungah, apik, cilik, kepungkur, tuwa, gedhe, lara</em>
 * `EMPTY` (527): <em>salah, krama, kebak, suwe, kondhang, bingung, ngoko, pinter, putih, sejati</em>
+
+<table>
+  <tr><th>Paradigm <i>bungah</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>bungah</em></td><td><em>bungahing</em></td></tr>
+</table>
+
+`Polite` seems to be **lexical feature** of `ADJ`. 98% lemmas (55) occur only with one value of `Polite`.
 
 ### `PART`
 
@@ -155,6 +196,8 @@ The most frequent other feature values with which `NUM` and `Polite` co-occurred
 * `Infm` (62; 95% of non-empty `Polite`): <em>siji, rong, telung, lima, papat, Kapindho, patang, siji-siji, telu, loro</em>
 * `EMPTY` (297): <em>sak, 15, 16, 2022, 1, 3, 6, 1946, 7, 10</em>
 
+`Polite` seems to be **lexical feature** of `NUM`. 100% lemmas (13) occur only with one value of `Polite`.
+
 ### `INTJ`
 
 4 <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> tokens (13% of all `INTJ` tokens) have a non-empty value of `Polite`.
@@ -164,6 +207,11 @@ The most frequent other feature values with which `NUM` and `Polite` co-occurred
 * `Form` (1; 25% of non-empty `Polite`): <em>Inggih</em>
 * `Humb` (3; 75% of non-empty `Polite`): <em>Nggih, Kulanuwun</em>
 * `EMPTY` (28): <em>lha, hla, Ya, oh, Ah, Alhamdulillah, Astaghfirullah, Halah, Insyaallah, Istighfar</em>
+
+<table>
+  <tr><th>Paradigm <i>inggih</i></th><th><tt>Form</tt></th><th><tt>Humb</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Inggih</em></td><td><em>Nggih</em></td></tr>
+</table>
 
 ## Relations with Agreement in `Polite`
 

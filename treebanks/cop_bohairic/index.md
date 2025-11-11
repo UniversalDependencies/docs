@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Amir Zeldes, Nina Speransky.
 
 Repository: [UD_Coptic-Bohairic](https://github.com/UniversalDependencies/UD_Coptic-Bohairic)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_bohairic216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_bohairic217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY 4.0
 
@@ -69,7 +69,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 
 ## Features
 
-[Definite](cop_bohairic-feat-Definite.html) – [ExtPos](cop_bohairic-feat-ExtPos.html) – [Foreign](cop_bohairic-feat-Foreign.html) – [Gender](cop_bohairic-feat-Gender.html) – [Gender[psor]](cop_bohairic-feat-Gender-psor.html) – [Number](cop_bohairic-feat-Number.html) – [Number[psor]](cop_bohairic-feat-Number-psor.html) – [NumType](cop_bohairic-feat-NumType.html) – [Person](cop_bohairic-feat-Person.html) – [Polarity](cop_bohairic-feat-Polarity.html) – [Poss](cop_bohairic-feat-Poss.html) – [PronType](cop_bohairic-feat-PronType.html) – [Reflex](cop_bohairic-feat-Reflex.html) – [VerbForm](cop_bohairic-feat-VerbForm.html)
+[Definite](cop_bohairic-feat-Definite.html) – [ExtPos](cop_bohairic-feat-ExtPos.html) – [Foreign](cop_bohairic-feat-Foreign.html) – [Gender](cop_bohairic-feat-Gender.html) – [Gender[psor]](cop_bohairic-feat-Gender-psor.html) – [Mood](cop_bohairic-feat-Mood.html) – [Number](cop_bohairic-feat-Number.html) – [Number[psor]](cop_bohairic-feat-Number-psor.html) – [NumType](cop_bohairic-feat-NumType.html) – [Person](cop_bohairic-feat-Person.html) – [Polarity](cop_bohairic-feat-Polarity.html) – [Poss](cop_bohairic-feat-Poss.html) – [PronType](cop_bohairic-feat-PronType.html) – [Reflex](cop_bohairic-feat-Reflex.html) – [VerbForm](cop_bohairic-feat-VerbForm.html)
 
 ## Relations
 
@@ -79,7 +79,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 
 
 <ul>
-<li>This corpus contains 1001 sentences, 15264 tokens and 32724 syntactic words.</li>
+<li>This corpus contains 1001 sentences, 15255 tokens and 32723 syntactic words.</li>
 </ul>
 
 <ul>
@@ -96,7 +96,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 
 <ul>
 <li>This corpus contains 10307 multi-word tokens. On average, one multi-word token consists of 2.69 syntactic words.</li>
-<li>There are 5601 types of multi-word tokens. Examples: ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲑⲟⲩⲁⲃ, ⲛⲱⲟⲩ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲙⲱⲟⲩ, ⲛⲧⲉⲫⲛⲟⲩϯ, ⲧⲏⲣⲟⲩ, ⲉⲣⲱⲟⲩ, ⲙⲫⲣⲏϯ, ⲛⲁⲕ, ⲛⲉⲙⲁϥ, ⲁϥⲓ, ⲉϥϫⲱ, ⲛⲏⲓ, ⲙⲫⲛⲟⲩϯ, ⲛϧⲏⲧϥ, ⲡⲭⲣⲓⲥⲧⲟⲥ, ⲙⲡⲁⲓⲣⲏϯ, ⲛϩⲏⲧ, ⲛⲁϥϫⲱ, ⲛⲱⲧⲉⲛ, ⲛⲉⲙⲛⲏ, ⲥⲁⲧⲟⲧϥ, ⲡⲁⲓⲣⲏϯ, ⲁⲥϣⲱⲡⲓ, ⲉⲧⲁϥⲓ, ⲛⲛⲏ, ⲙⲙⲟⲓ, ⲙⲙⲟⲕ, ⲛⲉϩⲟⲟⲩ, ⲛⲧⲟⲧϥ, ⲕⲁⲧⲁⲫⲣⲏϯ, ⲛϧⲏⲧⲟⲩ, ⲡⲁⲓⲱⲧ, ⲡⲓⲟⲩⲁⲓ, ϫⲉⲟⲩ, ϫⲉⲟⲩⲏⲓ, ⲁⲩⲓ, ⲉⲧⲉⲙⲙⲁⲩ, ⲛⲉⲙⲱⲟⲩ, ⲛⲥⲱϥ, ϧⲉⲛⲑⲏⲛⲟⲩ, ⲁϥϣⲉ, ⲉⲧϣⲟⲡ, ⲙⲫⲏ, ⲛⲉⲥⲱⲟⲩ, ⲟⲩⲙⲏϣ.</li>
+<li>There are 5601 types of multi-word tokens. Examples: ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲑⲟⲩⲁⲃ, ⲛⲱⲟⲩ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲙⲱⲟⲩ, ⲛⲧⲉⲫⲛⲟⲩϯ, ⲧⲏⲣⲟⲩ, ⲉⲣⲱⲟⲩ, ⲙⲫⲣⲏϯ, ⲛⲁⲕ, ⲛⲉⲙⲁϥ, ⲁϥⲓ, ⲉϥϫⲱ, ⲛⲏⲓ, ⲙⲫⲛⲟⲩϯ, ⲛϧⲏⲧϥ, ⲡⲭⲣⲓⲥⲧⲟⲥ, ⲙⲡⲁⲓⲣⲏϯ, ⲛϩⲏⲧ, ⲛⲁϥϫⲱ, ⲛⲱⲧⲉⲛ, ⲛⲉⲙⲛⲏ, ⲥⲁⲧⲟⲧϥ, ⲡⲁⲓⲣⲏϯ, ⲁⲥϣⲱⲡⲓ, ⲉⲧⲁϥⲓ, ⲛⲛⲏ, ⲙⲙⲟⲓ, ⲙⲙⲟⲕ, ⲛⲉϩⲟⲟⲩ, ⲛⲧⲟⲧϥ, ⲕⲁⲧⲁⲫⲣⲏϯ, ⲛϧⲏⲧⲟⲩ, ⲡⲓⲟⲩⲁⲓ, ϫⲉⲟⲩ, ϫⲉⲟⲩⲏⲓ, ⲁⲩⲓ, ⲉⲧⲉⲙⲙⲁⲩ, ⲛⲉⲙⲱⲟⲩ, ⲛⲥⲱϥ, ϧⲉⲛⲑⲏⲛⲟⲩ, ⲁϥϣⲉ, ⲉⲧϣⲟⲡ, ⲙⲫⲏ, ⲛⲉⲥⲱⲟⲩ, ⲟⲩⲙⲏϣ, ⲫⲛⲟⲩϯ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -148,7 +148,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: ⲉⲣ, ⲛⲁⲩ, ϯ, ϣⲱⲡⲓ, ϭⲓ, ϫⲟ, ⲉⲙⲓ, ⲥⲁϫⲓ, ⲥⲱⲧⲉⲙ, ⲧⲁⲙⲟ</li>
+    <li>VERB: ⲉⲣ, ⲛⲁⲩ, ϯ, ϣⲱⲡⲓ, ϭⲓ, ϫⲟ, ⲉⲙⲓ, ⲥⲁϫⲓ, ⲥⲱⲧⲉⲙ, ϧⲟⲑⲃⲉ</li>
   </ul>
   </li>
 </ul>
@@ -163,7 +163,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>Fem
     <ul>
-      <li>DET: ⲧ, ⲧⲉϥ, ⲧⲉⲕ, ⲑⲏ, ⲧⲁⲓ, ⲧⲁ, ⲑⲁⲓ, ⲧⲉⲥ, ⲑ, ⲧⲟⲩ</li>
+      <li>DET: ϯ, ⲧ, ⲧⲉϥ, ⲧⲉⲕ, ⲧⲁ, ⲑⲏ, ⲧⲁⲓ, ⲑ, ⲑⲁⲓ, ⲧⲉⲥ</li>
       <li>PRON: ⲥ, ⲧⲉ, ⲉ, ⲉⲥⲉ, ⲁⲥϣⲁⲛ, ⲓ, ϥ, ⲁⲣⲉ, ⲉⲣⲟ, ⲧⲉⲣ</li>
     </ul>
   </li>
@@ -186,8 +186,8 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>Plur
     <ul>
-      <li>DET: ⲛⲓ, ⲛⲏ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲛⲟⲩ, ⲛⲉⲕ, ⲛ, ⲛⲉⲛ, ⲛⲟⲩϥ</li>
-      <li>PRON: ⲩ, ⲟⲩ, ⲥⲉ, ⲛ, ⲛⲉ, ⲉⲩⲉ, ⲧⲉⲛ, ⲁⲛⲟⲛ, ⲛⲑⲱⲟⲩ, ⲁⲩϣⲁⲛ</li>
+      <li>DET: ⲛⲓ, ⲛⲏ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲛⲟⲩ, ⲛⲉⲕ, ⲛ, ⲛⲉⲛ, ⲛⲉⲧⲉⲛ</li>
+      <li>PRON: ⲩ, ⲟⲩ, ⲧⲉⲛ, ⲥⲉ, ⲛ, ⲑⲏⲛⲟⲩ, ⲧⲉⲧⲉⲛ, ⲛⲉ, ⲉⲩⲉ, ⲛⲑⲱⲧⲉⲛ</li>
     </ul>
   </li>
 </ul>
@@ -195,7 +195,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>Sing
     <ul>
-      <li>DET: ⲡⲓ, ⲟⲩ, ⲡ, ⲫ, ϩⲁⲛ, ⲡⲉϥ, ⲫⲏ, ⲡⲁⲓ, ⲡⲁ, ⲧ</li>
+      <li>DET: ⲡⲓ, ⲟⲩ, ⲡ, ⲫ, ϯ, ϩⲁⲛ, ⲡⲉϥ, ⲫⲏ, ⲡⲁⲓ, ⲡⲁ</li>
       <li>PRON: ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲁⲛⲟⲕ, ⲛⲑⲟϥ, ⲉϥⲉ, ⲡ</li>
     </ul>
   </li>
@@ -210,9 +210,9 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>Def
     <ul>
-      <li>DET: ⲡⲓ, ⲛⲓ, ⲡ, ⲫ, ⲛⲏ, ⲡⲉϥ, ⲫⲏ, ⲡⲁⲓ, ⲛⲉϥ, ⲡⲁ</li>
+      <li>DET: ⲡⲓ, ⲛⲓ, ⲡ, ⲫ, ϯ, ⲛⲏ, ⲡⲉϥ, ⲫⲏ, ⲡⲁⲓ, ⲛⲉϥ</li>
       <li>NOUN: ⲙⲙⲓⲛⲙⲙⲟ</li>
-      <li>PRON: ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ϯ, ⲛ, ⲥⲉ, ⲁⲛⲟⲕ</li>
+      <li>PRON: ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ⲧⲉⲛ, ϯ, ⲛ, ⲥⲉ</li>
     </ul>
   </li>
 </ul>
@@ -252,6 +252,59 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Cnd
+    <ul>
+      <li>VERB-Fin: ϫⲟ, ϣⲱⲡⲓ, ϫⲉⲙϩⲏⲟⲩ, ϭⲓ, ⲓ, ⲥⲱⲧⲉⲙ, ⲫⲟϩ, ϩⲉⲛ, ϫⲟⲟ, ϭⲓϩⲟ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: ⲙⲁϣⲉ, ⲁⲛⲁⲩ, ⲙⲁ, ⲁⲙⲟⲩ, ϣⲱⲡⲓ, ⲁⲙⲱⲓⲛⲓ, ⲁⲛⲓⲧ, ϫⲟϫ, ⲁϫⲟ, ⲁⲣⲓⲉⲙⲓ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>VERB: ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ϣⲉ, ⲑⲣⲉ, ⲉⲣ, ⲟⲓ</li>
+      <li>VERB-Fin: ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ϣⲉ, ⲟⲓ, ⲉⲣ, ⲥⲱⲧⲉⲙ</li>
+      <li>VERB-Inf: ⲉⲣ, ⲛⲁⲩ, ϯ, ϣⲱⲡⲓ, ϭⲓ, ϫⲟ, ⲉⲙⲓ, ⲥⲁϫⲓ, ⲥⲱⲧⲉⲙ, ϧⲟⲑⲃⲉ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Jus
+    <ul>
+      <li>VERB-Fin: ϣⲱⲡⲓ, ⲭⲁ, ⲙⲟϣⲓ, ⲥⲱⲧⲉⲙ, ϣⲟⲩϣⲟⲩ, ϭⲓ, ϯ, ⲙⲟⲩⲛⲕ, ⲟϩⲓ, ϣⲉⲛ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Opt
+    <ul>
+      <li>VERB-Fin: ϣⲱⲡⲓ, ⲓ, ϯ, ⲛⲁⲩ, ϩⲟⲃⲥ, ⲉⲙⲓ, ⲉⲣ, ⲑⲱⲟⲩϯ, ⲙⲟϣⲓ, ⲟⲩⲛⲟϥ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pot
+    <ul>
+      <li>AUX-Fin: ϣ, ⲉϣ</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -266,7 +319,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>Art
     <ul>
-      <li>DET: ⲡⲓ, ⲟⲩ, ⲛⲓ, ⲡ, ⲫ, ϩⲁⲛ, ⲕⲉ, ⲧ, ⲩ, ⲛ</li>
+      <li>DET: ⲡⲓ, ⲟⲩ, ⲛⲓ, ⲡ, ⲫ, ϯ, ϩⲁⲛ, ⲕⲉ, ⲧ, ⲩ</li>
     </ul>
   </li>
 </ul>
@@ -275,6 +328,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
   <li>Dem
     <ul>
       <li>DET: ⲛⲏ, ⲫⲏ, ⲡⲁⲓ, ⲫⲁⲓ, ⲛⲁⲓ, ⲑⲏ, ⲧⲁⲓ, ⲑⲁⲓ, ⲛⲓ, ⲡⲓ</li>
+      <li>PRON: ⲡⲉ, ⲛⲉ, ⲡ, ⲧⲉ</li>
     </ul>
   </li>
 </ul>
@@ -301,7 +355,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
     <ul>
       <li>DET: ⲡⲉϥ, ⲛⲉϥ, ⲡⲁ, ⲧⲉϥ, ⲛⲁ, ⲡⲉⲕ, ⲡⲟⲩ, ⲡⲉⲛ, ⲛⲟⲩ, ⲧⲉⲕ</li>
       <li>NOUN: ⲙⲙⲓⲛⲙⲙⲟ</li>
-      <li>PRON: ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ϯ, ⲛ, ⲥⲉ, ⲁⲛⲟⲕ</li>
+      <li>PRON: ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ⲧⲉⲛ, ϯ, ⲛ, ⲥⲉ</li>
     </ul>
   </li>
 </ul>
@@ -366,7 +420,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>1
     <ul>
-      <li>DET: ⲡⲁ, ⲡⲉⲛ, ⲛⲁ, ⲛⲉⲛ, ⲧⲁ, ⲧⲉⲛ</li>
+      <li>DET: ⲡⲁ, ⲡⲉⲛ, ⲛⲁ, ⲧⲁ, ⲛⲉⲛ, ⲧⲉⲛ</li>
       <li>PRON: ⲓ, ϯ, ⲛ, ⲁⲛⲟⲕ, ⲧⲉⲛ, ⲁⲛⲟⲛ, ⲧⲁ, ⲧ, ϩⲱ, ϧⲁⲧⲟⲧ</li>
     </ul>
   </li>
@@ -375,8 +429,8 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>2
     <ul>
-      <li>DET: ⲡⲉⲕ, ⲡⲟⲩ, ⲛⲟⲩ, ⲧⲉⲕ, ⲛⲉⲕ, ⲧⲟⲩ, ⲛⲟⲩⲧⲉⲛ, ⲛⲟⲩⲕ, ⲛⲉⲧⲛ</li>
-      <li>PRON: ⲕ, ⲭ, ⲛⲑⲟⲕ, ⲉⲕⲉ, ⲁⲕϣⲁⲛ, ⲉ, ⲓ, ⲁⲣⲉ, ⲅ, ⲉⲣⲟ</li>
+      <li>DET: ⲡⲉⲕ, ⲡⲟⲩ, ⲛⲟⲩ, ⲧⲉⲕ, ⲛⲉⲕ, ⲛⲉⲧⲉⲛ, ⲡⲉⲧⲉⲛ, ⲧⲟⲩ, ⲛⲟⲩⲧⲉⲛ, ⲛⲟⲩⲕ</li>
+      <li>PRON: ⲕ, ⲧⲉⲛ, ⲑⲏⲛⲟⲩ, ⲧⲉⲧⲉⲛ, ⲛⲑⲱⲧⲉⲛ, ⲭ, ⲛⲑⲟⲕ, ⲉⲕⲉ, ⲁⲕϣⲁⲛ, ⲉ</li>
     </ul>
   </li>
 </ul>
@@ -418,7 +472,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 <ul>
   <li>Plur
     <ul>
-      <li>DET: ⲡⲉⲛ, ⲛⲉⲛ, ⲛⲟⲩⲧⲉⲛ, ⲧⲉⲛ, ⲛⲉⲧⲛ, ⲛⲟⲩⲟⲩ</li>
+      <li>DET: ⲡⲉⲛ, ⲛⲉⲛ, ⲛⲉⲧⲉⲛ, ⲡⲉⲧⲉⲛ, ⲛⲟⲩⲧⲉⲛ, ⲧⲉⲛ, ⲧⲉⲧⲉⲛ, ⲛⲉⲧⲛ, ⲛⲟⲩⲟⲩ</li>
     </ul>
   </li>
 </ul>
@@ -461,7 +515,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
           <li>ADJ: ϩⲁⲅⲓⲟⲥ, ϩⲟⲥⲟⲛ</li>
           <li>ADP: ⲕⲁⲧⲁ, ⲡⲁⲣⲁ, ⲡⲣⲟⲥ, ⲭⲱⲣⲓⲥ, ⲁⲡⲁ, ⲙⲉⲛ</li>
           <li>ADV: ⲧⲟⲧⲉ, ⲙⲁⲗⲗⲟⲛ, ⲕⲁⲗⲱⲥ, ⲡⲁⲗⲓⲛ, ⲡⲱⲥ, ⲗⲟⲓⲡⲟⲛ, ϩⲏⲇⲏ, ⲉⲧⲓ, ϩⲟⲗⲱⲥ, ⲁⲗⲏⲑⲱⲥ</li>
-          <li>CCONJ: ⲁⲗⲗⲁ, ⲟⲩⲇⲉ, ⲓⲧⲉ, ⲙⲏ, ⲕⲁⲓ, ⲕⲁⲛ, ϩⲱⲥ, ⲙⲏⲧⲓ, ⲟⲩⲭⲓ, ϩⲟⲡⲱⲥ</li>
+          <li>CCONJ: ⲁⲗⲗⲁ, ⲟⲩⲇⲉ, ⲓⲧⲉ, ⲙⲏ, ⲕⲁⲓ, ⲕⲁⲛ, ϩⲟⲥⲟⲛ, ϩⲱⲥ, ⲙⲏⲧⲓ, ⲟⲩⲭⲓ</li>
           <li>DET: ⲁⲡⲁ</li>
           <li>NOUN: ⲁⲡⲁ, ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲙⲁⲑⲏⲧⲏⲥ, ⲕⲟⲥⲙⲟⲥ, ⲥⲱⲙⲁ, ⲯⲩⲭⲏ, ⲇⲁⲓⲙⲱⲛ, ⲁⲣⲉⲧⲏ, ⲡⲣⲟⲫⲏⲧⲏⲥ</li>
           <li>NUM: ⲇ</li>
@@ -498,8 +552,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (94)</li>
       <li>VERB--PRON (13)</li>
-      <li>VERB-Fin--NOUN (281)</li>
-      <li>VERB-Fin--PRON (2609)</li>
+      <li>VERB-Fin--NOUN (282)</li>
+      <li>VERB-Fin--PRON (2611)</li>
     </ul>
   </li>
 </ul>
@@ -511,8 +565,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(ⲛ) (4)</li>
       <li>VERB--PRON (32)</li>
       <li>VERB--PRON-ADP(ⲛ) (1)</li>
-      <li>VERB-Fin--NOUN (154)</li>
-      <li>VERB-Fin--NOUN-ADP(ⲛ) (267)</li>
+      <li>VERB-Fin--NOUN (155)</li>
+      <li>VERB-Fin--NOUN-ADP(ⲛ) (266)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ)-ADP(ⲛ) (4)</li>
       <li>VERB-Fin--NOUN-ADP(ⲥⲁⲃⲟⲗ) (2)</li>
       <li>VERB-Fin--PRON (385)</li>
@@ -532,9 +586,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON (18)</li>
       <li>VERB--PRON-ADP(ⲛ) (3)</li>
       <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--PRON (9)</li>
+      <li>VERB-Fin--PRON (10)</li>
       <li>VERB-Fin--PRON-ADP(ⲛ) (1)</li>
-      <li>VERB-Inf--PRON (1)</li>
     </ul>
   </li>
 </ul>

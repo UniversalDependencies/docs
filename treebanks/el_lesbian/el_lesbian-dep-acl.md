@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3 5 acl	color:blue
 1	Έχ’	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	ασλί	ασλί	NOUN	_	_	1	obj	_	_
-3	έφτου	έφτους	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	έφτου	εύτους	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
 4	π’	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	_
 5	λέγ’ς	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
 6	.	.	PUNCT	_	_	1	punct	_	_
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Τουν	ιγώ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 2	απουμώρανι	απουμουραίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	η	η	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	Θιος	Θιος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Θιος	θιος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	τσι	τσι	CCONJ	_	_	7	cc	_	_
 6	δεν	δεν	PART	_	Polarity=Neg	7	advmod	_	_
 7	έκανι	κάνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_

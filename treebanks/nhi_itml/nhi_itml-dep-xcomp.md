@@ -25,32 +25,31 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Después	después	ADV	_	Foreign=Yes	4	advmod	4:advmod	NormalizedForm=Después|NormalizedLemma=después
 2	n	in	DET	_	_	3	det	3:det	NormalizedForm=n|NormalizedLemma=in
 3	itskwintli	itskwintli	NOUN	_	Case=Abs|Number=Sing	4	nsubj	4:nsubj	NormalizedForm=itskwintli|NormalizedLemma=itskwintli
-4	kiseguiroa	seguiroa	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kiseguiroa|NormalizedLemma=segwiroa
-5	kiwahwia	wahwia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	4	xcomp	4:xcomp	NormalizedForm=kiwahwia|NormalizedLemma=wahwia
+4	kiseguiroa	seguiroa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kiseguiroa|NormalizedLemma=segwiroa|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran
+5	kiwahwia	wahwia	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	xcomp	4:xcomp	NormalizedForm=kiwahwia|NormalizedLemma=wahwia|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran
 6	non	non	DET	_	_	7	det	7:det	NormalizedForm=non|NormalizedLemma=non
-7	ceraokwilimeh	ceraokwilin	NOUN	_	Number=Plur	5	obj	5:obj	SpaceAfter=No|NormalizedForm=seraokwilimeh|NormalizedLemma=seraokwilin
-8	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,|NormalizedLemma=,
-9	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No|NormalizedForm=.|NormalizedLemma=.
-10	.	.	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No|NormalizedForm=.|NormalizedLemma=.
+7	ceraokwilimeh	ceraokwilin	NOUN	_	Number=Plur	5	obj	5:obj	NormalizedForm=seraokwilimeh|NormalizedLemma=seraokwilin|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,|NormalizedLemma=,|SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.|NormalizedLemma=.|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.|NormalizedLemma=.|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 5 xcomp	color:blue
-1	Akmo	akmo	ADV	_	_	4	advmod	4:advmod	Orig=Ākmo|Gloss=no.longer|Morf=ākmo|NormalizedForm=akmo|NormalizedLemma=akmo
-2	milâk	milawak	ADV	_	_	4	advmod	4:advmod	Orig=milâk|Gloss=right|Morf=milāwak|NormalizedForm=milâk|NormalizedLemma=milawak
-3	o	o	AUX	_	_	4	aux	4:aux	Orig=ō|Gloss=PST|Morf=o|NormalizedForm=o|NormalizedLemma=o
-4	kichiwkeh	chiwa	VERB	_	Aspect=Perf|Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	0:root	Orig=kichı̄wkeh|Gloss=3S-3SG.O-make-PRF.PL.S|NormalizedForm=kichiwkeh|NormalizedLemma=chiwa
-5	kwale	kwali	ADJ	_	_	4	xcomp	4:xcomp	Orig=kwale|Gloss=good|Morf=kwale|NormalizedForm=kwale|NormalizedLemma=kwali
-6	n	in	DET	_	_	7	det	7:det	Orig=n|Gloss=DEF|Morf=n|NormalizedForm=n|NormalizedLemma=in
-7	intikih	tikitl	NOUN	_	Number=Sing|Number[psor]=Plur|Person[psor]=3	4	obj	4:obj	Gloss=3PL.P-work-POS.SG|Morf=ı̄m-tiki-w|Orig=ı̄ntikih|SpaceAfter=No|NormalizedForm=intikih|NormalizedLemma=tikitl
-8	.	.	PUNCT	_	_	4	punct	4:punct	Orig=.|Gloss=.|Morf=.|NormalizedForm=.|NormalizedLemma=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
+1	Akmo	akmo	ADV	_	_	3	advmod	3:advmod	Gloss=no.longer|Morf=ākmo|NormalizedForm=akmo|NormalizedLemma=akmo|Orig=Ākmo
+2	milâk	milawak	ADV	_	_	3	advmod	3:advmod	Gloss=right|Morf=milāwak|NormalizedForm=milâk|NormalizedLemma=milawak|Orig=milâk
+3	okichiwkeh	chiwa	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	Gloss=3S-3SG.O-make-PRF.PL.S|NormalizedForm=kichiwkeh|NormalizedLemma=chiwa|Number[obj]=Sing|Number[subj]=Plur|Orig=kichı̄wkeh|Person[obj]=3|Person[subj]=3|Subcat=Tran|wordform=kichiwkeh
+4	kwale	kwali	ADJ	_	Number=Sing	3	xcomp	3:xcomp	Gloss=good|Morf=kwale|NormalizedForm=kwale|NormalizedLemma=kwali|Orig=kwale
+5	n	in	DET	_	_	6	det	6:det	Gloss=DEF|Morf=n|NormalizedForm=n|NormalizedLemma=in|Orig=n
+6	intikih	tikitl	NOUN	_	Number=Sing	3	obj	3:obj	Gloss=3PL.P-work-POS.SG|Morf=ı̄m-tiki-w|NormalizedForm=intikih|NormalizedLemma=tikitl|Number[psor]=Plur|Orig=ı̄ntikih|Person[psor]=3|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	3:punct	Gloss=.|Morf=.|NormalizedForm=.|NormalizedLemma=.|Orig=.
 
 ~~~
 
@@ -72,20 +71,20 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 9	como	como	SCONJ	_	Foreign=Yes	12	mark	12:mark	NormalizedForm=como|NormalizedLemma=como
 10	para	para	SCONJ	_	Foreign=Yes	12	mark	12:mark	NormalizedForm=para|NormalizedLemma=para
 11	ompa	ompa	ADV	_	_	12	advmod	12:advmod	NormalizedForm=ompa|NormalizedLemma=ompa
-12	cechanchihuaz	chanchihua	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Fut|VerbForm=Fin	8	xcomp	8:xcomp	NormalizedForm=sechanchiwas|NormalizedLemma=chanchiwa
+12	cechanchihuaz	chanchihua	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	8	xcomp	8:xcomp	NormalizedForm=sechanchiwas|NormalizedLemma=chanchiwa|Number[subj]=Plur|Person[subj]=1|Subcat=Intr
 13	o	o	CCONJ	_	_	15	cc	15:cc	NormalizedForm=o|NormalizedLemma=o
 14	para	para	ADP	_	Foreign=Yes	15	case	15:case	NormalizedForm=para|NormalizedLemma=para
-15	cetiquitiz	tiquiti	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Fut|VerbForm=Fin	12	conj	12:conj	NormalizedForm=setikitis|NormalizedLemma=tikiti
+15	cetiquitiz	tiquiti	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	12	conj	12:conj	NormalizedForm=setikitis|NormalizedLemma=tikiti|Number[subj]=Plur|Person[subj]=1|Subcat=Intr
 16	ompa	ompa	ADV	_	_	15	advmod	15:advmod	NormalizedForm=ompa|NormalizedLemma=ompa
 17	ye	ye	PRON	_	Number=Sing|Person=3|PronType=Prs	18	obl	18:obl	NormalizedForm=ye|NormalizedLemma=ye
-18	motlani	tlani	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|VerbForm=Fin	15	conj	15:conj	NormalizedForm=motlani|NormalizedLemma=tlani
+18	motlani	tlani	VERB	_	Mood=Ind|Reflex=Yes|VerbForm=Fin	15	conj	15:conj	NormalizedForm=motlani|NormalizedLemma=tlani|Number[subj]=Sing|Person[subj]=3|Subcat=Tran
 19	cimi	cimi	ADV	_	_	20	advmod	20:advmod	NormalizedForm=simi|NormalizedLemma=simi
 20	tzocopintzi	tzocopintzi	ADJ	_	_	21	amod	21:amod	NormalizedForm=tsokopintsi|NormalizedLemma=tsokopintsi
-21	tomen	tomen	NOUN	_	Number=Sing	18	nsubj	18:nsubj	SpaceAfter=No|NormalizedForm=tomen|NormalizedLemma=tomen
+21	tomen	tomen	NOUN	_	Number=Sing	18	nsubj	18:nsubj	NormalizedForm=tomen|NormalizedLemma=tomen|SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	25:punct	NormalizedForm=,|NormalizedLemma=,
 23	huan	huan	CCONJ	_	_	25	cc	25:cc	NormalizedForm=wan|NormalizedLemma=wan
 24	nochi	nochi	NOUN	_	Number=Sing	25	nsubj	25:nsubj	NormalizedForm=nochi|NormalizedLemma=nochi
-25	patiyo	patiyo	ADJ	_	Number=Sing	18	conj	18:conj	SpaceAfter=No|NormalizedForm=patiyo|NormalizedLemma=patiyo
+25	patiyo	patiyo	ADJ	_	Number=Sing	18	conj	18:conj	NormalizedForm=patiyo|NormalizedLemma=patiyo|SpaceAfter=No
 26	.	.	PUNCT	_	_	25	punct	25:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~

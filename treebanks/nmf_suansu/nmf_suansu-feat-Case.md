@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Loc` (50; 19% of non-empty `Case`): <em>clientnahn, rhuinahn, gaenahn, maganahn, maramnahn, marketnahn, Airportnahn, Biknahn, CIAnahn, Dukannahn</em>
 * `LocTop` (2; 1% of non-empty `Case`): <em>desknahndi, rungenahndi</em>
 * `Top` (118; 44% of non-empty `Case`): <em>neodi, baneodi, kelasdi, rhuidi, miszudi, rungedi, badi, jehndi, letterdi, lhaidi</em>
-* `EMPTY` (400): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, sir</em>
+* `EMPTY` (401): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, sir</em>
 
 <table>
   <tr><th>Paradigm <i>neo</i></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>ErgTop</tt></th><th><tt>Top</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 139 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (45% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (118; 85%), <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (118; 85%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (119; 86%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (118; 85%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -132,7 +132,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 4 <tt><a href="nmf_suansu-pos-ADP.html">ADP</a></tt> tokens (14% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `ADP` tokens may have the following values of `Case`:
 

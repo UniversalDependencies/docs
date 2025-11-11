@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of amod in UD_Kurmanji-MG'
+title:  'Statistics of amod in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `amod`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `amod`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 290 instances of `amod` (96%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.31229235880399.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (287; 95% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (287; 95% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

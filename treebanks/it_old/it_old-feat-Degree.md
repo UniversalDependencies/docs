@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Abs` (31; 17% of non-empty `Degree`): <em>altissimo, dolcissimo, lenta, lento, alto, bassissimo, chiarissima, famoso, giustissimo, illustri</em>
 * `Cmp` (131; 74% of non-empty `Degree`): <em>maggior, alto, dolce, tardo, bella, cara, maggiori, grande, grata, mai</em>
 * `Sup` (16; 9% of non-empty `Degree`): <em>basso, bella, alte, alto, cara, caro, dia, lontan, lontana, luculenta</em>
-* `EMPTY` (4998): <em>gran, dolce, primo, prima, alto, buon, bella, alta, etterno, grande</em>
+* `EMPTY` (5021): <em>gran, dolce, primo, prima, alto, buon, bella, alta, etterno, grande</em>
 
 <table>
   <tr><th>Paradigm <i>alto</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th><th><tt>Abs</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (135; 100% of non-empty `Degree`): <em>più, men, tosto, meglio, oltre, sù, avanti, forte, giù, mei</em>
-* `EMPTY` (10267): <em>non, sì, come, più, poi, così, là, già, tanto, qui</em>
+* `EMPTY` (10246): <em>non, sì, come, più, poi, così, là, già, tanto, qui</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Degree`.
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 * `Abs` (1; 25% of non-empty `Degree`): <em>poco</em>
 * `Cmp` (3; 75% of non-empty `Degree`): <em>men, troppa</em>
-* `EMPTY` (14965): <em>il, la, l', 'l, le, li, lo, un, i, mio</em>
+* `EMPTY` (14964): <em>il, la, l', 'l, le, li, lo, un, i, mio</em>
 
 ## Relations with Agreement in `Degree`
 

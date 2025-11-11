@@ -37,7 +37,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 17 cop	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867135|2|1
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867135|2|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867135|2|2
 3	σεμιντ	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867135|2|3
 4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867135|2|4
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 cop	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM867072|2|1
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM867072|2|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867072|2|2
 3	σαι	σεμουν	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Ref=TM867072|2|3
 4	κακουν	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM867072|2|4
@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 7	,	,	PUNCT	_	_	5	punct	_	Ref=TM867072|2|7
 8	ας	as	ADP	_	_	9	case	_	Ref=TM867072|2|8
 9	ανανκαι	ανανκαι	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	Ref=TM867072|2|9
-10	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	Ref=TM867072|2|10
+10	οι	ιοι	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	12	iobj	_	Ref=TM867072|2|10
 11	παντα	panta	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	Ref=TM867072|2|11
 12	κενα	κενα	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	Ref=TM867072|2|12
 13	⟨ι⟩ννου	ituv	AUX	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	SpaceAfter=No|Ref=TM867072|2|13

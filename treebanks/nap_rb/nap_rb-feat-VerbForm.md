@@ -10,39 +10,41 @@ This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 44 tokens (22%) have a non-empty value of `VerbForm`.
-41 types (34%) occur at least once with a non-empty value of `VerbForm`.
-29 lemmas (28%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="nap_rb-pos-VERB.html">VERB</a></tt> (31; 16% instances), <tt><a href="nap_rb-pos-AUX.html">AUX</a></tt> (13; 7% instances).
+41 types (33%) occur at least once with a non-empty value of `VerbForm`.
+30 lemmas (28%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="nap_rb-pos-VERB.html">VERB</a></tt> (29; 14% instances), <tt><a href="nap_rb-pos-AUX.html">AUX</a></tt> (15; 7% instances).
 
 ### `VERB`
 
-31 <tt><a href="nap_rb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+29 <tt><a href="nap_rb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="nap_rb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17; 55%), <tt><a href="nap_rb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17; 55%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="nap_rb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17; 59%), <tt><a href="nap_rb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (14; 45% of non-empty `VerbForm`): <em>Penzĕ, accattajĕ, arapĕ, criscettĕ, currevĕ, facettĕ, pienzĕ, pittajĕ, putettĕrĕ, scrivettĕ</em>
-* `Ger` (2; 6% of non-empty `VerbForm`): <em>chiuvennĕ, guaddannĕ</em>
-* `Inf` (8; 26% of non-empty `VerbForm`): <em>accuncià, fummà, jí, lavà, scegliĕ, stà, vvevĕrĕ, vĕnì</em>
-* `Part` (7; 23% of non-empty `VerbForm`): <em>distribbuită, fattŏ, scrittŏ, abbracciatĕ, asciutĕ, pruvatĕ, riuscitŏ</em>
+* `Fin` (12; 41% of non-empty `VerbForm`): <em>Penzĕ, accattajĕ, arapĕ, criscettĕ, currevĕ, facettĕ, pienzĕ, pittajĕ, scrivettĕ, tenĕnĕ</em>
+* `Ger` (2; 7% of non-empty `VerbForm`): <em>chiuvennĕ, guaddannĕ</em>
+* `Inf` (8; 28% of non-empty `VerbForm`): <em>accuncià, fummà, jì, lavà, scegliĕ, stà, vvevĕrĕ, vĕnì</em>
+* `Part` (7; 24% of non-empty `VerbForm`): <em>distribbuită, fattŏ, scrittŏ, abbracciatĕ, asciutĕ, pruvatĕ, riuscitŏ</em>
 
 <table>
-  <tr><th>Paradigm <i>fare</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>fattŏ</em></td></tr>
-  <tr><td><tt><tt><a href="nap_rb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nap_rb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="nap_rb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>facettĕ</em></td><td></td></tr>
+  <tr><th>Paradigm <i>scrivĕ</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>scrittŏ</em></td></tr>
+  <tr><td><tt><tt><a href="nap_rb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nap_rb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="nap_rb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>scrivettĕ</em></td><td></td></tr>
 </table>
+
+`VerbForm` seems to be **lexical feature** of `VERB`. 96% lemmas (26) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
-13 <tt><a href="nap_rb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+15 <tt><a href="nap_rb-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="nap_rb-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 85%), <tt><a href="nap_rb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10; 77%), <tt><a href="nap_rb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8; 62%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="nap_rb-feat-Person.html">Person</a></tt><tt>=3</tt> (13; 87%), <tt><a href="nap_rb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12; 80%), <tt><a href="nap_rb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8; 53%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (12; 92% of non-empty `VerbForm`): <em>è, so, afossĕ, avia, avissĕ, ha, hannĕ, sta, stajĕ</em>
-* `Part` (1; 8% of non-empty `VerbForm`): <em>avutŏ</em>
+* `Fin` (14; 93% of non-empty `VerbForm`): <em>è, so, afossĕ, avia, avissĕ, ha, hannĕ, putettĕrĕ, sta, stajĕ</em>
+* `Part` (1; 7% of non-empty `VerbForm`): <em>avutŏ</em>
 
 <table>
   <tr><th>Paradigm <i>avé</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>

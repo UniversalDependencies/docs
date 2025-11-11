@@ -43,10 +43,10 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	Сен	сен	PRON	PRP	Case=Gen|Number=Sing|Person=2|Person[psor]=2|PronType=Prs	13	nmod	_	_
 2	чын	чын	ADV	ADV	_	13	advmod	_	_
 3	эле	эле	ADV	ADV	_	2	compound	_	_
-4	мунун	муну	PRON	PRP	Case=Acc|Number=Sing|Person=3	6	csubj	_	_
-5	баарын	баары	PRON	PRP	Case=Acc|Number=Sing|PronType=Ind	6	obj	_	_
+4	мунун	муну	PRON	PRP	Case=Acc|Number=Sing|Person=3|PronType=Dem	6	csubj	_	_
+5	баарын	баары	PRON	PRP	Case=Acc|Number=Sing|PronType=Prs	6	obj	_	_
 6	унута	унут	VERB	VB	Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Conv	13	ccomp	_	_
-7	элексиңби	элек	DET	DET	Case=Acc|Number=Sing|Person=2	6	compound:svc	_	_
+7	элексиңби	элек	ADV	ADV	_	6	compound:svc	_	_
 8	же	же	ADV	ADV	_	13	advmod	_	_
 9	мен	мен	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 10	сага	сен	PRON	PRP	Case=Dat|Number=Sing|Person=2|PronType=Prs	13	obl	_	_

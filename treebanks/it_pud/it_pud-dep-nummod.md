@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod	color:blue
-1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	La	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cifra	cifra	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	massima	massimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
 4	consentita	consentire	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	2	acl	_	_
@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 nummod	color:blue
-1	Le	il	DET	DT	Gender=Fem|Number=Plur	2	det	_	_
+1	Le	il	DET	DT	Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	fonti	fonte	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	consultate	consultare	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|Voice=Pass	2	acl	_	_
 4	hanno	avere	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	5	aux	_	_
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	il	il	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	1987	1987	NUM	CD	_	13	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	il	il	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+5	il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	numero	numero	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
 7	di	di	ADP	IN	_	8	case	_	_
 8	beni	bene	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_

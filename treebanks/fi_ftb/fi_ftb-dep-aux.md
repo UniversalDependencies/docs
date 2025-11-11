@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 aux	color:blue
-1	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
+1	ei	ei	AUX	V,Neg,Act,Sg3	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
 2	voi	voida	AUX	V,Act,Ind,Pres,ConNeg	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	ajatellakhaa	ajatella	VERB	V,Act,InfA,Lat,Kaan	Case=Lat|Clitic=Kaan|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	0	root	_	_
 4	varhmaan	varmaan	ADV	Adv	Style=Coll	3	advmod	_	_
@@ -48,7 +48,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	kiusallista	kiusallinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	0	root	_	_
 5	,	,	PUNCT	Pun	_	4	punct	_	_
 6	mutta	mutta	CCONJ	Pcle,CC	_	9	cc	_	_
-7	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	9	aux	_	_
+7	ei	ei	AUX	V,Neg,Act,Sg3	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	vielä	vielä	ADV	Adv,Pcle	_	9	advmod	_	_
 9	vaarallista	vaarallinen	ADJ	A,Sg,Par	Case=Par|Number=Sing	4	conj	_	_
 10	.	.	PUNCT	Pun	_	9	punct	_	_
@@ -63,12 +63,12 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 aux	color:blue
 1	Siinä	se	PRON	Pron,Dem,Sg,Ine	Case=Ine|Number=Sing|PronType=Dem	3	obl	_	_
-2	ei	ei	AUX	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
+2	ei	ei	AUX	V,Neg,Act,Sg3	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	3	aux	_	_
 3	ollut	olla	VERB	V,Act,Ind,Past,Sg,ConNeg	Connegative=Yes|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	yhtään	yhtään	ADV	Adv	_	5	advmod	_	_
 5	aggressiivisuutta	aggressiivisuus	NOUN	N,Sg,Par	Case=Par|Number=Sing	3	nsubj	_	_
 6	,	,	PUNCT	Pun	_	5	punct	_	_
-7	eikä	ei	AUX	V,Neg,Act,Sg3,Ka	Clitic=Ka|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	eikä	ei	AUX	V,Neg,Act,Sg3,Ka	Clitic=Ka|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	taklauksia	taklaus	NOUN	N,Pl,Par	Case=Par|Number=Plur	5	conj	_	_
 9	.	.	PUNCT	Pun	_	8	punct	_	_
 

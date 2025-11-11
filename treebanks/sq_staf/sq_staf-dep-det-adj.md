@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `det:adj`: <tt><a hr
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 det:adj	color:blue
-1	Ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	cop	_	_
+1	Ishte	jam	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
 2	pa	pa	ADP	_	_	3	case	_	_
 3	dyshim	dyshim	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	_
 4	dhe	dhe	ADV	_	_	5	advmod	_	_

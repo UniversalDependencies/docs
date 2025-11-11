@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-130 nodes (1%) are attached to their parents as `amod`.
+167 nodes (1%) are attached to their parents as `amod`.
 
-117 instances of `amod` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03846153846154.
+153 instances of `amod` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03592814371257.
 
-The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (127; 98% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (162; 97% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,8 +43,8 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4 3 amod	color:blue
 1	Reyukwakú	yukwakú	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:9
 2	kurí	kurí	PART	FUT	Tense=Fut	1	advmod	_	TokenRange=10:14
-3	Santa	santa	ADJ	A	_	4	amod	_	OrigLang=por|TokenRange=15:20
-4	Igreja	igreja	PROPN	PROPN	_	5	nsubj	_	OrigLang=por|TokenRange=21:27
+3	Santa	santa	ADJ	A	_	4	amod	_	OrigLang=pt|TokenRange=15:20
+4	Igreja	igreja	PROPN	PROPN	_	5	nsubj	_	OrigLang=pt|TokenRange=21:27
 5	umundú	mundú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	advcl	_	TokenRange=28:34
 6	ramé	ramé	SCONJ	SCONJ	_	5	mark	_	SpaceAfter=No|TokenRange=35:39
 7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=39:40

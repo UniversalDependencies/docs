@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Puneet Dwivedi, Daniel Zeman, Erica Biagetti.
 
 Repository: [UD_Sanskrit-UFAL](https://github.com/UniversalDependencies/UD_Sanskrit-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_ufal216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_ufal217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -492,7 +492,6 @@ analysis of the text.
     <ul>
       <li>AUX-Fin: अस्ति, अस्मि, भवति</li>
       <li>VERB-Fin: अब्रवीत्, आह, भवति, करिष्यामि, उच्यते, करोमि, प्रोवाच, उवाच, करिष्यति, तिष्ठति</li>
-      <li>VERB-Part: आरब्धौ</li>
     </ul>
   </li>
 </ul>
@@ -665,7 +664,7 @@ analysis of the text.
   <li>Prs
     <ul>
       <li>DET: एनम्, स्व</li>
-      <li>PRON: अहम्, मम, भवान्, मया, अस्मत्, त्वम्, अस्माकम्, तव, त्वाम्, मे</li>
+      <li>PRON: अहम्, मम, भवान्, मया, अस्मत्, त्वम्, अस्माकम्, तव, त्वत्, त्वाम्</li>
     </ul>
   </li>
 </ul>
@@ -753,7 +752,7 @@ analysis of the text.
   <li>2
     <ul>
       <li>ADJ-Fin: वह</li>
-      <li>PRON: त्वम्, तव, त्वाम्, ते, त्वत्, त्वयि, भवाम्, यूयम्, वः</li>
+      <li>PRON: त्वम्, तव, त्वत्, त्वाम्, ते, त्वयि, भवाम्, यूयम्, वः</li>
       <li>VERB-Fin: गृहाण, अनुभविष्यसि, आगच्छ, इच्छसि, करिष्यसि, कुरु, तिष्ठ, तिष्ठत, तिष्ठसि, पश्यसि</li>
     </ul>
   </li>
@@ -764,7 +763,7 @@ analysis of the text.
     <ul>
       <li>AUX-Fin: अस्ति, अस्तु, भवति, स्यात्</li>
       <li>DET: एनम्, तत्, तया, तस्य</li>
-      <li>PRON: तत्, भवान्, तस्य, एनम्, एनाम्, तौ, भवतः, भवत्, भवद्भिः, भवन्तम्</li>
+      <li>PRON: तत्, भवान्, तस्य, तौ, एनम्, एनाम्, भवतः, भवत्, भवद्भिः, भवन्तम्</li>
       <li>VERB-Fin: अब्रवीत्, आह, भवति, उच्यते, प्रोवाच, अनुष्ठीयताम्, उवाच, करिष्यति, तिष्ठति, प्राह</li>
     </ul>
   </li>
@@ -799,7 +798,7 @@ analysis of the text.
           <li>NOUN: मास, वणिक्, शास्त्र, सिंह, अर्थ, उदक, कर्म, काल, गुण, नगर</li>
           <li>NOUN-Part: जीवित</li>
           <li>NUM: अशीति, एक, त्रि, षट्, सप्त</li>
-          <li>PRON: त्वत्, अस्मत्, तत्, भवत्, मत्, मद्, सर्व</li>
+          <li>PRON: अस्मत्, त्वत्, तत्, भवत्, मत्, मद्, सर्व</li>
           <li>PROPN: सरस्वती, अदिति, अर्थ, अर्थशास्त्र, काकोलूकीय, गणपति, चन्द्र, धर्म, नन्दक, नयशास्त्र</li>
           <li>VERB-Inf: वक्तु</li>
           <li>VERB-Part: कृत, मृत, उपार्जित, प्रभूत, भक्षित, मूढ, लब्ध, व्यावृत्त, सिद्धि</li>

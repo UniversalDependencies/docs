@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_pud-feat-Number.html">Number</a></tt>, <tt><a href="fr_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
-14718 tokens (60%) have a non-empty value of `Number`.
+14715 tokens (60%) have a non-empty value of `Number`.
 5135 types (86%) occur at least once with a non-empty value of `Number`.
-3888 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4672; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3875; 16% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1737; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1624; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1221; 5% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (974; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (611; 2% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances).
+3885 lemmas (84%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4672; 19% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3872; 16% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1737; 7% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1624; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1221; 5% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (974; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (611; 2% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
@@ -34,22 +34,23 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-3875 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+3872 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3449; 89%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2783; 72%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2019; 52%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3453; 89%), <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2783; 72%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2019; 52%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (1010; 26% of non-empty `Number`): <em>les, des, ses, ces, de, leurs, d', nos, d’, mes</em>
-* `Sing` (2865; 74% of non-empty `Number`): <em>le, la, l', un, une, l’, son, sa, cette, leur</em>
+* `Sing` (2862; 74% of non-empty `Number`): <em>le, la, l', un, une, l’, son, sa, cette, leur</em>
 * `EMPTY` (3): <em>d', le, les</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le, l', l’, les, l‘</em></td><td><em>les</em></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la, l', l’, l‘</em></td><td><em>les</em></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l'</em></td><td><em>les</em></td></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>L’</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>l’</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>le, l', l’, les, l‘</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la, l', l’, l‘</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>l'</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>La, L’</em></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -62,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (402; 23% of non-empty `Number`): <em>peuvent, sont, ont, pourraient, étaient, devons, font, avaient, commencent, devraient</em>
 * `Sing` (1335; 77% of non-empty `Number`): <em>a, est, peut, dit, eu, déclaré, fait, avait, pourrait, était</em>
-* `EMPTY` (517): <em>faire, avoir, voir, devenir, partir, concernant, faisant, produire, aider, ayant</em>
+* `EMPTY` (516): <em>faire, avoir, voir, devenir, partir, concernant, faisant, produire, aider, ayant</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -124,7 +125,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (229; 24% of non-empty `Number`): <em>ont, sont, avaient, étaient, furent, aient, auraient, avons, sommes, soient</em>
 * `Sing` (745; 76% of non-empty `Number`): <em>a, est, été, était, avait, fut, ai, soit, aurait, serait</em>
-* `EMPTY` (54): <em>être, avoir, ayant, faire, étant</em>
+* `EMPTY` (55): <em>être, avoir, ayant, faire, étant, Etant</em>
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -154,6 +155,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt>|<tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>je, J’, j'</em></td><td><em>nous</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il, -il, -t-il</em></td><td><em>ils, -ils</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>elle, -elle</em></td><td><em>elles</em></td></tr>
@@ -173,14 +175,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_pud-dep-det.html">det</a></tt>]--> DET</tt> (3464; 100%),
-<tt>NOUN --[<tt><a href="fr_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1352; 100%),
-<tt>NOUN --[<tt><a href="fr_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (768; 60%),
-<tt>VERB --[<tt><a href="fr_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (559; 57%),
-<tt>VERB --[<tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (474; 87%),
+<tt>NOUN --[<tt><a href="fr_pud-dep-det.html">det</a></tt>]--> DET</tt> (3476; 100%),
+<tt>NOUN --[<tt><a href="fr_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1353; 100%),
+<tt>NOUN --[<tt><a href="fr_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (787; 60%),
+<tt>VERB --[<tt><a href="fr_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (544; 57%),
+<tt>VERB --[<tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (471; 87%),
 <tt>VERB --[<tt><a href="fr_pud-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (440; 79%),
 <tt>VERB --[<tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (296; 63%),
 <tt>PROPN --[<tt><a href="fr_pud-dep-det.html">det</a></tt>]--> DET</tt> (251; 98%),
-<tt>NOUN --[<tt><a href="fr_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (233; 71%),
+<tt>NOUN --[<tt><a href="fr_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (234; 72%),
 <tt>PROPN --[<tt><a href="fr_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (211; 98%).
 

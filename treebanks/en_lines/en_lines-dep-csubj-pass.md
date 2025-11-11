@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	how	how	ADV	WH	PronType=Int	10	advmod	_	_
 6	private	private	ADJ	POS	Degree=Pos	7	amod	_	_
 7	copying	copy	VERB	ING	Tense=Pres|VerbForm=Part	10	csubj:pass	_	_
-8	should	should	AUX	PAST-AUX	VerbForm=Fin	10	aux	_	_
+8	should	should	AUX	PAST-AUX	Mood=Ind|VerbForm=Fin	10	aux	_	_
 9	be	be	AUX	INF	VerbForm=Inf	10	aux:pass	_	_
 10	regulated	regulate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	3	csubj	_	_
 11	in	in	ADP	_	_	14	case	_	_
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Whatever	whatever	PRON	WH-IND	PronType=Int	7	csubj:pass	_	_
 2	it	it	PRON	PERS-SG	_	1	nsubj	_	_
 3	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	cop	_	_
-4	could	could	AUX	PAST-AUX	VerbForm=Fin	7	aux	_	_
+4	could	could	AUX	PAST-AUX	Mood=Ind|VerbForm=Fin	7	aux	_	_
 5	never	never	ADV	NEG	PronType=Neg	7	advmod	_	_
 6	be	be	AUX	INF	VerbForm=Inf	7	aux:pass	_	_
 7	found	find	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No

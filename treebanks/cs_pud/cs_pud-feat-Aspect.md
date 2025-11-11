@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-1925 tokens (10%) have a non-empty value of `Aspect`.
-1077 types (14%) occur at least once with a non-empty value of `Aspect`.
-716 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1059; 6% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (682; 4% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (183; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+1926 tokens (10%) have a non-empty value of `Aspect`.
+1078 types (14%) occur at least once with a non-empty value of `Aspect`.
+717 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1059; 6% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (682; 4% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (184; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -46,17 +46,17 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 ### `ADJ`
 
-183 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Aspect`.
+184 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (183; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (183; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (121; 66%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (121; 66%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (121; 66%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (118; 64%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95; 52%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (184; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (184; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (122; 66%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (121; 66%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (121; 66%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (118; 64%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (96; 52%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 
-* `Imp` (104; 57% of non-empty `Aspect`): <em>vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budovány</em>
+* `Imp` (105; 57% of non-empty `Aspect`): <em>vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budoucího</em>
 * `Perf` (79; 43% of non-empty `Aspect`): <em>nabídnuto, označen, prodán, rozděleno, vytvořen, vytvořena, založena, zamítnuto, dovoleno, namontován</em>
-* `EMPTY` (2086): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2085): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
-`Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (142) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (143) occur only with one value of `Aspect`.
 
 ### `NOUN`
 

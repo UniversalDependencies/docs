@@ -49,13 +49,13 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 25	,	,	PUNCT	,	_	7	punct	_	_
 26	rientrava	rientrare	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 27	tra	tra	ADP	IN	_	31	case	_	_
-28	i	il	DET	DT	Gender=Masc|Number=Plur	31	det	_	_
+28	i	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
 29	primi	primo	ADJ	JJ	Gender=Masc|Number=Plur	31	amod	_	_
 30	50	50	NUM	CD	_	31	nummod	_	_
 31	nomi	nome	NOUN	NN	Gender=Masc|Number=Plur	26	obl	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	33	punct	_	_
 33	triplicando	triplicare	VERB	VBG	Voice=Act	26	advcl	_	_
-34	il	il	DET	DT	Gender=Masc|Number=Sing	35	det	_	_
+34	il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	numero	numero	NOUN	NN	Gender=Masc|Number=Sing	33	obj	_	_
 36	di	di	ADP	IN	_	37	case	_	_
 37	neonate	neonato	NOUN	NN	Gender=Fem|Number=Plur	35	nmod	_	_

@@ -22,16 +22,16 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
-1	ak	ak	CCONJ	C-	_	3	cc	_	ref=MATT_5.15
-2	ana	ana	ADP	R-	_	3	case	_	ref=MATT_5.15
-3	lukarnastaþin	lukarnastaþa	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.15
-4	jah	jah	CCONJ	C-	_	5	cc	_	ref=MATT_5.15
-5	liuteiþ	liuhtjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=MATT_5.15
-6	allaim	alls	DET	Px	Case=Dat|Number=Plur	10	det	_	ref=MATT_5.15
-7	þaim	sa	DET	Pd	Case=Dat|Number=Plur	10	det	_	ref=MATT_5.15
-8	in	in	ADP	R-	_	10	case	_	ref=MATT_5.15
-9	þamma	sa	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	10	det	_	ref=MATT_5.15
-10	garda	gards	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	ref=MATT_5.15
+1	ak	ak	CCONJ	C-	_	3	cc	_	Ref=MATT_5.15
+2	ana	ana	ADP	R-	_	3	case	_	Ref=MATT_5.15
+3	lukarnastaþin	lukarnastaþa	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_5.15
+4	jah	jah	CCONJ	C-	_	5	cc	_	Ref=MATT_5.15
+5	liuteiþ	liuhtjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Ref=MATT_5.15
+6	allaim	alls	DET	Px	Case=Dat|Number=Plur	10	det	_	Ref=MATT_5.15
+7	þaim	sa	DET	Pd	Case=Dat|Number=Plur	10	det	_	Ref=MATT_5.15
+8	in	in	ADP	R-	_	10	case	_	Ref=MATT_5.15
+9	þamma	sa	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	10	det	_	Ref=MATT_5.15
+10	garda	gards	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	Ref=MATT_5.15
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 cc	color:blue
-1	ak	ak	CCONJ	C-	_	3	cc	_	ref=MATT_5.15
-2	ana	ana	ADP	R-	_	3	case	_	ref=MATT_5.15
-3	lukarnastaþin	lukarnastaþa	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.15
-4	jah	jah	CCONJ	C-	_	5	cc	_	ref=MATT_5.15
-5	liuteiþ	liuhtjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=MATT_5.15
-6	allaim	alls	DET	Px	Case=Dat|Number=Plur	10	det	_	ref=MATT_5.15
-7	þaim	sa	DET	Pd	Case=Dat|Number=Plur	10	det	_	ref=MATT_5.15
-8	in	in	ADP	R-	_	10	case	_	ref=MATT_5.15
-9	þamma	sa	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	10	det	_	ref=MATT_5.15
-10	garda	gards	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	ref=MATT_5.15
+1	ak	ak	CCONJ	C-	_	3	cc	_	Ref=MATT_5.15
+2	ana	ana	ADP	R-	_	3	case	_	Ref=MATT_5.15
+3	lukarnastaþin	lukarnastaþa	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_5.15
+4	jah	jah	CCONJ	C-	_	5	cc	_	Ref=MATT_5.15
+5	liuteiþ	liuhtjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Ref=MATT_5.15
+6	allaim	alls	DET	Px	Case=Dat|Number=Plur	10	det	_	Ref=MATT_5.15
+7	þaim	sa	DET	Pd	Case=Dat|Number=Plur	10	det	_	Ref=MATT_5.15
+8	in	in	ADP	R-	_	10	case	_	Ref=MATT_5.15
+9	þamma	sa	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	10	det	_	Ref=MATT_5.15
+10	garda	gards	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	Ref=MATT_5.15
 
 ~~~
 
@@ -62,12 +62,12 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cc	color:blue
-1	jah	jah	CCONJ	C-	_	2	cc	_	ref=LUKE_7.8
-2	anþaramma	anþar	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=LUKE_7.8
-3	qim	qiman	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	ref=LUKE_7.8
-4	her	her	ADV	Df	_	3	advmod	_	ref=LUKE_7.8
-5	jah	jah	CCONJ	C-	_	6	cc	_	ref=LUKE_7.8
-6	qimid	qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=LUKE_7.8
+1	jah	jah	CCONJ	C-	_	2	cc	_	Ref=LUKE_7.8
+2	anþaramma	anþar	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	Ref=LUKE_7.8
+3	qim	qiman	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	Ref=LUKE_7.8
+4	her	her	ADV	Df	_	3	advmod	_	Ref=LUKE_7.8
+5	jah	jah	CCONJ	C-	_	6	cc	_	Ref=LUKE_7.8
+6	qimid	qiman	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	Ref=LUKE_7.8
 
 ~~~
 

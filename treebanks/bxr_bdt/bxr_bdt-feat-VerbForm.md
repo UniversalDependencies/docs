@@ -18,13 +18,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.ht
 
 935 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (622; 67%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (622; 67%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (604; 65%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (510; 55%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (622; 67%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (622; 67%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (603; 64%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (509; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (8; 1% of non-empty `VerbForm`): <em>болобол, гэбэл, байбал, оруулбал, хэлэбэл, шиидхэбэл</em>
-* `Fin` (417; 45% of non-empty `VerbForm`): <em>бии, бэлэй, гээшэ, байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно</em>
-* `Ger` (196; 21% of non-empty `VerbForm`): <em>гэхэдэ, дүүргээд, үзэе, дүүргээ, һананам, байхада, ерэхэб, ошоходоо, хэлэхэдэ, абанги</em>
+* `Fin` (418; 45% of non-empty `VerbForm`): <em>бии, бэлэй, гээшэ, байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно</em>
+* `Ger` (195; 21% of non-empty `VerbForm`): <em>гэхэдэ, дүүргээд, үзэе, дүүргээ, һананам, байхада, ерэхэб, ошоходоо, хэлэхэдэ, абанги</em>
 * `Inf` (314; 34% of non-empty `VerbForm`): <em>гэжэ, хэжэ, боложо, ошожо, хүдэлжэ, заажа, һуража, абажа, дүүргэжэ, ерэжэ</em>
 * `EMPTY` (595): <em>байгаа, ажаһуудаг, эхилээ, ябаа, ябаха, гээшэб, хэлсэдэг, байдаг, болонхой, болоо</em>
 

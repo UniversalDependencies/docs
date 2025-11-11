@@ -13,9 +13,9 @@ The 10 most frequent `SCONJ` lemmas: <em>wamhã, da, tahawa, wa, ma, nherẽ, wa
 
 The 10 most frequent `SCONJ` types:  <em>wamhã, Tahawa, da, wa, dama, nherẽ, wamha, zarina, zô</em>
 
-The 10 most frequent ambiguous lemmas: <em>wamhã</em> (<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>da</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 16, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>wa</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 47, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 13, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 32, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 20, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 2), <em>zô</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 8, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>wamhã</em> (<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>da</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 16, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>wa</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 46, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 16, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 32, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 20, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 2), <em>zô</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 8, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>wamhã</em> (<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>da</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 16, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>wa</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 25, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 13, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>dama</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1), <em>zô</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 8, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>wamhã</em> (<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>da</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 16, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>wa</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 22, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 16, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>dama</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1), <em>zô</em> (<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 8, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>wamhã</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>wamhã</em> (<tt><a href="xav_xdt-pos
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1: <em>Awẽm hã wa za aiʔabaʔré ni mararé romhuri hã wate wasiwi ʔrãsutuwẽ <b>da</b></em>
   * <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1: <em>Ni'wa te tsawi õ wamhã titsiré hã , õ norĩ hawi , <b>da</b> te tsawi dza'ra õ di .</em>
 * <em>wa</em>
-  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 25: <em><b>wa</b> norĩ hã wa te sawi õ di</em>
-  * <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 13: <em>wa norĩ hã <b>wa</b> te sawi õ di</em>
+  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 22: <em><b>wa</b> norĩ hã wa te sawi õ di</em>
+  * <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 16: <em>wa norĩ hã <b>wa</b> te sawi õ di</em>
   * <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Tsô wara <b>wa</b> te tiwi wara .</em>
   * <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1: <em>Ni'wa aibö wei mori wamhã , uburé abaze hã te za tãma sõmri za'ra , sõpru <b>wa</b> .</em>
   * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1: <em>Taha <b>wa</b> te mararé 're sõtõ za'ra aptö'ö te .</em>
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>wamhã</em> (<tt><a href="xav_xdt-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.232409).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.229787).
 
 The 1st highest number of forms (1) was observed with the lemma “da”: <em>da</em>.
 

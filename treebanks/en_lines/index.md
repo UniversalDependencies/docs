@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -145,7 +145,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: was, had, would, is, can, could, were, will, are, have</li>
+    <li>AUX: was, had, is, were, would, are, can, could, have, 's</li>
     <li>VERB: said, was, had, is, came, seemed, looked, went, made, felt</li>
   </ul>
   </li>
@@ -351,7 +351,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: do, be</li>
       <li>VERB: let, see, come, look, Note, click, Go, Imagine, have, make</li>
       <li>VERB-Fin: let, come, look, see, Note, click, Imagine, have, make, remember</li>
       <li>VERB-Inf: Go</li>
@@ -362,7 +361,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: was, had, is, were, are, have, 's, did, do, has</li>
+      <li>AUX-Fin: was, had, is, were, would, are, can, could, have, 's</li>
       <li>VERB: said, was, had, is, came, seemed, looked, went, made, felt</li>
       <li>VERB-Fin: said, was, had, is, came, seemed, looked, went, made, felt</li>
       <li>VERB-Inf: Land, filter, hurt, march, trouble</li>
@@ -374,7 +373,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: be, were</li>
       <li>VERB-Fin: were, get, lost, post</li>
     </ul>
   </li>
@@ -692,7 +690,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1285)</li>
       <li>VERB-Fin--PRON (691)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (2387)</li>
+      <li>VERB-Fin--PRON-Nom (2388)</li>
       <li>VERB-Fin--PRON-Nom-ADP(as) (1)</li>
       <li>VERB-Inf--NOUN (213)</li>
       <li>VERB-Inf--PRON (136)</li>
@@ -720,21 +718,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(out) (1)</li>
       <li>VERB-Fin--NOUN-ADP(to) (3)</li>
       <li>VERB-Fin--NOUN-ADP(up) (1)</li>
-      <li>VERB-Fin--PRON (287)</li>
-      <li>VERB-Fin--PRON-Acc (296)</li>
+      <li>VERB-Fin--PRON (286)</li>
+      <li>VERB-Fin--PRON-Acc (295)</li>
       <li>VERB-Fin--PRON-Acc-ADP(with) (1)</li>
       <li>VERB-Fin--PRON-Gen (18)</li>
-      <li>VERB-Fin--PRON-Nom (11)</li>
-      <li>VERB-Inf--NOUN (1010)</li>
+      <li>VERB-Fin--PRON-Nom (10)</li>
+      <li>VERB-Inf--NOUN (1009)</li>
       <li>VERB-Inf--PRON (228)</li>
       <li>VERB-Inf--PRON-ADP(as) (1)</li>
-      <li>VERB-Inf--PRON-Acc (197)</li>
+      <li>VERB-Inf--PRON-Acc (195)</li>
       <li>VERB-Inf--PRON-Gen (16)</li>
-      <li>VERB-Inf--PRON-Nom (10)</li>
+      <li>VERB-Inf--PRON-Nom (9)</li>
       <li>VERB-Part--NOUN (799)</li>
-      <li>VERB-Part--NOUN-ADP(through) (1)</li>
       <li>VERB-Part--NOUN-ADP(to) (1)</li>
-      <li>VERB-Part--PRON (118)</li>
+      <li>VERB-Part--PRON (117)</li>
       <li>VERB-Part--PRON-ADP(at) (1)</li>
       <li>VERB-Part--PRON-ADP(by) (1)</li>
       <li>VERB-Part--PRON-ADP(into) (1)</li>
@@ -750,10 +747,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (38)</li>
+      <li>VERB-Fin--PRON-Acc (39)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Inf--NOUN (7)</li>
-      <li>VERB-Inf--PRON-Acc (22)</li>
+      <li>VERB-Inf--PRON-Acc (24)</li>
       <li>VERB-Part--NOUN (3)</li>
       <li>VERB-Part--PRON-Acc (7)</li>
     </ul>

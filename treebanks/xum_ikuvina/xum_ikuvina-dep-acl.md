@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 acl	color:blue
-1	este	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
+1	este	_	DET	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
 2	persklum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
 3	aves	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_

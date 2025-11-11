@@ -23,17 +23,17 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 13 expl:pass	color:blue
-1	en	en	ADP	_	_	2	case	_	_
-2	fait	fait	NOUN	_	Gender=Masc|Number=Sing	14	discourse	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
+1	en	en	ADP	_	ExtPos=ADV	14	discourse	_	Idiom=Yes
+2	fait	fait	NOUN	_	_	1	fixed	_	Gender[lex]=Masc|InIdiom=Yes|Number[ctxt]=Sing|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
 4	quand	quand	SCONJ	_	_	6	mark	_	_
-5	tu	toi	PRON	_	Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+5	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 6	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	farine	farine	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	farine	farine	NOUN	_	_	6	obj	_	Gender[lex]=Fem|Number[ctxt]=Sing
 9	à	à	ADP	_	_	11	case	_	_
 10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	final	final	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_
+11	final	final	NOUN	_	_	6	obl:mod	_	Gender[lex]=Masc|Number[ctxt]=Sing
 12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_
 13	se	soi	PRON	_	Person=3|PronType=Prs	14	expl:pass	_	_
 14	décolle	décoller	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No

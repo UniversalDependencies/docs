@@ -22,15 +22,15 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 aux:pass	color:blue
-1	а͑ште	аще	SCONJ	G-	_	4	mark	_	ref=5
-2	бо	бо	ADV	Df	_	8	discourse	_	ref=5
-3	быхъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	ref=5
-4	и͑мѢлъ	имѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	8	dislocated	_	ref=5
-5	то	то	ADV	Df	_	8	advmod	_	ref=5
-6	не	не	ADV	Df	Polarity=Neg	8	advmod	_	ref=5
-7	быхъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	aux:pass	_	ref=5
-8	побѢжденъ	побѣдити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=5
-9	былъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	8	cop	_	ref=5
+1	а͑ште	аще	SCONJ	G-	_	4	mark	_	Ref=5
+2	бо	бо	ADV	Df	_	8	discourse	_	Ref=5
+3	быхъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	Ref=5
+4	и͑мѢлъ	имѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	8	dislocated	_	Ref=5
+5	то	то	ADV	Df	_	8	advmod	_	Ref=5
+6	не	не	ADV	Df	Polarity=Neg	8	advmod	_	Ref=5
+7	быхъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	aux:pass	_	Ref=5
+8	побѢжденъ	побѣдити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Ref=5
+9	былъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	8	cop	_	Ref=5
 
 ~~~
 

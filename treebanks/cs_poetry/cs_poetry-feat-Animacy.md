@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-1093 tokens (17%) have a non-empty value of `Animacy`.
+1094 tokens (17%) have a non-empty value of `Animacy`.
 839 types (31%) occur at least once with a non-empty value of `Animacy`.
 619 lemmas (32%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (636; 10% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (230; 4% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (62; 1% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (55; 1% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (51; 1% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt> (636; 10% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (230; 4% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> (63; 1% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (55; 1% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (51; 1% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -58,19 +58,20 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `PRON`
 
-62 <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Animacy`.
+63 <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt> tokens (17% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="cs_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (57; 92%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (47; 76%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 65%), <tt><a href="cs_poetry-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (32; 52%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_poetry-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="cs_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (58; 92%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (48; 76%), <tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 63%), <tt><a href="cs_poetry-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (32; 51%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (34; 55% of non-empty `Animacy`): <em>mu, kdo, jemu, nikdo, ním, Němu, jej, jenž, Komu, On</em>
-* `Inan` (28; 45% of non-empty `Animacy`): <em>co, jež, něho, cosi, jenž, nějž, něm, němž, všecky, číms</em>
-* `EMPTY` (319): <em>se, jež, mi, si, já, ty, tě, tobě, jí, nás</em>
+* `Anim` (34; 54% of non-empty `Animacy`): <em>mu, kdo, jemu, nikdo, ním, Němu, jej, jenž, Komu, On</em>
+* `Inan` (29; 46% of non-empty `Animacy`): <em>co, jež, něho, cosi, jenž, něj, nějž, něm, němž, všecky</em>
+* `EMPTY` (318): <em>se, jež, mi, si, já, ty, tě, tobě, jí, nás</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_poetry-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jej</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_poetry-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>něj</em></td></tr>
   <tr><td><tt><tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_poetry-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ho</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_poetry-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>něj</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_poetry-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_poetry-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_poetry-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jemu, mu</em></td><td></td></tr>
@@ -160,7 +161,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (157; 91%),
+<tt>NOUN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (158; 91%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 89%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 58%),
 <tt>PROPN --[<tt><a href="cs_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6; 100%),

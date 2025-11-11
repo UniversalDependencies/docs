@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Hajič, Alevtina Bémová, Eva Buráňová, Eva Hajičová, Jiří Havelka, Jaroslava Hlaváčová, Jiří Kárník, Veronika Kolářová, Lucie Kučová, Markéta Lopatková, Marie Mikulová, Jiří Mírovský, Anna Nedoluzhko, Michal Novák, Petr Pajas, Jarmila Panevová, Petr Sgall, Milan Straka, Magda Ševčíková, Jan Štěpánek, Barbora Štěpánková, Zdeňka Urešová, Barbora Vidová Hladká, Zdeněk Žabokrtský.
 
 Repository: [UD_Czech-PDTC](https://github.com/UniversalDependencies/UD_Czech-PDTC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdtc216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdtc217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -158,7 +158,7 @@ Data/software, LINDAT/CLARIAH-CZ digital library, Praha, Czechia,
 </ul>
 
 <ul>
-<li>This corpus contains 156 word types tagged as particles (PART): Bodejť, Což, Cožpak, Díkybohu, Fajn, Jestlipak, Ještěže, Jistěť, Nashle, Nejenomže, Nu, Perfekt, Zaplaťpánbůh, akorát, ale, alespoň, ani, ano, arciť, asi, aspoň, ať, až, ba, bezesporu, beztak, bohudík, bohužel, budiž, byť, bůhsuď, bůhví, cca, cirka, co, copak, div, dobrá, dobře, doopravdy, fakt, hlavně, hned, houby, i, jako, jakoby, jakože, jakto, jasně, jen, jenom, ještě, jistě, jistěže, již, jo, kdepak, kdoví, když, kdyžtak, klidně, koneckonců, konečně, kupodivu, kurva, kéž, leda, li, možná, nakonec, naneštěstí, naopak, např, například, natož, nazdařbůh, naštěstí, ne, nechť, nejenže, nejspíš, nejspíše, nesporně, netto, nikoli, nikoliv, no, nuže, obzvláště, obzvlášť, ono, opravdu, ovšem, ovšemže, patrně, pouze, prakticky, pranic, pravda, prostě, proto, právě, právěže, prý, přece, přeci, především, přesně, přímo, relativně, rovněž, rozhodně, samozřejmě, sbohem, sice, skutečně, snad, sotva, spíš, spíše, stejně, stěží, tak, taky, také, takříkajíc, teda, tedy, to, totiž, tož, též, třeba, určitě, už, viď, viďte, vlastně, vole, však, vůbec, vždyť, zaplaťpánbu, zas, zase, zejm, zejména, zjevně, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že, žel</li>
+<li>This corpus contains 153 word types tagged as particles (PART): Bodejť, Což, Cožpak, Díkybohu, Fajn, Jestlipak, Ještěže, Jistěť, Nashle, Nejenomže, Nu, Perfekt, Zaplaťpánbůh, akorát, ale, alespoň, ani, ano, arciť, asi, aspoň, ať, až, ba, bezesporu, beztak, bohudík, bohužel, budiž, byť, bůhsuď, bůhví, cca, cirka, co, copak, div, dobrá, dobře, doopravdy, fakt, hlavně, hned, houby, i, jako, jakože, jakto, jasně, jen, jenom, ještě, jistě, jistěže, již, jo, kdepak, kdoví, když, kdyžtak, klidně, koneckonců, konečně, kupodivu, kurva, kéž, leda, li, možná, nakonec, naneštěstí, naopak, např, například, natož, nazdařbůh, naštěstí, ne, nechť, nejenže, nejspíš, nejspíše, nesporně, netto, nikoli, nikoliv, no, nuže, obzvláště, obzvlášť, ono, opravdu, ovšem, ovšemže, patrně, pouze, prakticky, pranic, pravda, prostě, proto, právě, právěže, prý, přece, přeci, především, přesně, přímo, relativně, rovněž, rozhodně, samozřejmě, sbohem, sice, skutečně, snad, sotva, spíš, spíše, stěží, tak, taky, také, takříkajíc, teda, to, totiž, tož, též, třeba, určitě, už, viď, viďte, vlastně, vole, však, vůbec, vždyť, zaplaťpánbu, zas, zase, zejm, zejména, zjevně, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že, žel</li>
 </ul>
 
 <ul>
@@ -1438,43 +1438,43 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-Acc (42)</li>
       <li>VERB-Conv--PRON-Acc (3)</li>
-      <li>VERB-Fin--NOUN (162)</li>
-      <li>VERB-Fin--NOUN-Acc (31538)</li>
-      <li>VERB-Fin--NOUN-Gen (1608)</li>
+      <li>VERB-Fin--NOUN (160)</li>
+      <li>VERB-Fin--NOUN-Acc (31410)</li>
+      <li>VERB-Fin--NOUN-Gen (1606)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (7)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(o) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(pod) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (335)</li>
+      <li>VERB-Fin--NOUN-Nom (291)</li>
       <li>VERB-Fin--NOUN-Voc (4)</li>
       <li>VERB-Fin--PRON (28)</li>
-      <li>VERB-Fin--PRON-Acc (5223)</li>
+      <li>VERB-Fin--PRON-Acc (5213)</li>
       <li>VERB-Fin--PRON-Gen (25)</li>
       <li>VERB-Fin--PRON-Nom (26)</li>
       <li>VERB-Inf--NOUN (82)</li>
-      <li>VERB-Inf--NOUN-Acc (18744)</li>
+      <li>VERB-Inf--NOUN-Acc (18699)</li>
       <li>VERB-Inf--NOUN-Gen (601)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(na) (5)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (108)</li>
+      <li>VERB-Inf--NOUN-Nom (93)</li>
       <li>VERB-Inf--NOUN-Voc (1)</li>
       <li>VERB-Inf--PRON (2)</li>
-      <li>VERB-Inf--PRON-Acc (3213)</li>
+      <li>VERB-Inf--PRON-Acc (3204)</li>
       <li>VERB-Inf--PRON-Gen (5)</li>
       <li>VERB-Inf--PRON-Nom (50)</li>
-      <li>VERB-Part--NOUN (160)</li>
-      <li>VERB-Part--NOUN-Acc (36192)</li>
-      <li>VERB-Part--NOUN-Gen (1877)</li>
+      <li>VERB-Part--NOUN (156)</li>
+      <li>VERB-Part--NOUN-Acc (36088)</li>
+      <li>VERB-Part--NOUN-Gen (1875)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
       <li>VERB-Part--NOUN-Gen-ADP(z) (2)</li>
-      <li>VERB-Part--NOUN-Nom (272)</li>
+      <li>VERB-Part--NOUN-Nom (235)</li>
       <li>VERB-Part--NOUN-Voc (9)</li>
       <li>VERB-Part--PRON (54)</li>
-      <li>VERB-Part--PRON-Acc (6587)</li>
+      <li>VERB-Part--PRON-Acc (6542)</li>
       <li>VERB-Part--PRON-Gen (21)</li>
-      <li>VERB-Part--PRON-Nom (11)</li>
+      <li>VERB-Part--PRON-Nom (10)</li>
     </ul>
   </li>
 </ul>
@@ -1482,30 +1482,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6)</li>
-      <li>VERB-Fin--NOUN-Acc (123)</li>
-      <li>VERB-Fin--NOUN-Gen (9)</li>
+      <li>VERB-Fin--NOUN (7)</li>
+      <li>VERB-Fin--NOUN-Acc (134)</li>
+      <li>VERB-Fin--NOUN-Gen (10)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (9)</li>
       <li>VERB-Fin--NOUN-Nom (30)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (49)</li>
+      <li>VERB-Fin--PRON-Acc (55)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Inf--NOUN (9)</li>
-      <li>VERB-Inf--NOUN-Acc (98)</li>
+      <li>VERB-Inf--NOUN-Acc (104)</li>
       <li>VERB-Inf--NOUN-Gen (11)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Nom (12)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (33)</li>
-      <li>VERB-Part--NOUN (28)</li>
-      <li>VERB-Part--NOUN-Acc (245)</li>
-      <li>VERB-Part--NOUN-Gen (16)</li>
+      <li>VERB-Inf--PRON-Acc (42)</li>
+      <li>VERB-Part--NOUN (32)</li>
+      <li>VERB-Part--NOUN-Acc (262)</li>
+      <li>VERB-Part--NOUN-Gen (18)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (8)</li>
-      <li>VERB-Part--NOUN-Nom (23)</li>
+      <li>VERB-Part--NOUN-Nom (25)</li>
       <li>VERB-Part--PRON (4)</li>
-      <li>VERB-Part--PRON-Acc (123)</li>
+      <li>VERB-Part--PRON-Acc (168)</li>
     </ul>
   </li>
 </ul>

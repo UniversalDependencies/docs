@@ -29,7 +29,7 @@ The following 57 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	gozo	gozo	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	ArgTem=arg2:atr
 6	puesto	puesto	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	5:amod	_
 7	y	y	CCONJ	cc	_	11	cc	11:cc	_
-8	a	a	ADP	sps00	_	11	mark	11:mark	MWE=a_punto_de|MWEPOS=ADP
+8	a	a	ADP	sps00	ExtPos=SCONJ	11	mark	11:mark	MWE=a_punto_de|MWEPOS=ADP
 9	punto	punto	NOUN	_	_	8	fixed	8:fixed	_
 10	de	de	ADP	_	_	8	fixed	8:fixed	_
 11	ganar	ganar	VERB	vmn0000	VerbForm=Inf	5	conj	5:conj	SpaceAfter=No
@@ -51,7 +51,7 @@ The following 57 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	gozo	gozo	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	ArgTem=arg2:atr
 6	puesto	puesto	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	5:amod	_
 7	y	y	CCONJ	cc	_	11	cc	11:cc	_
-8	a	a	ADP	sps00	_	11	mark	11:mark	MWE=a_punto_de|MWEPOS=ADP
+8	a	a	ADP	sps00	ExtPos=SCONJ	11	mark	11:mark	MWE=a_punto_de|MWEPOS=ADP
 9	punto	punto	NOUN	_	_	8	fixed	8:fixed	_
 10	de	de	ADP	_	_	8	fixed	8:fixed	_
 11	ganar	ganar	VERB	vmn0000	VerbForm=Inf	5	conj	5:conj	SpaceAfter=No
@@ -69,7 +69,7 @@ The following 57 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	-	-	PUNCT	fg	PunctType=Dash	3	punct	3:punct	_
 2	No	no	ADV	rn	Polarity=Neg	3	advmod	3:advmod	_
 3	murió	morir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	en	en	ADP	rg	_	3	advmod	3:advmod	MWE=en_el_acto|MWEPOS=ADV|ArgTem=argM:tmp
+4	en	en	ADP	rg	ExtPos=ADV	3	advmod	3:advmod	MWE=en_el_acto|MWEPOS=ADV|ArgTem=argM:tmp
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	4:fixed	_
 6	acto	acto	NOUN	_	_	4	fixed	4:fixed	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_

@@ -61,20 +61,20 @@ The 2nd highest number of forms (1) was observed with the lemma “будто”
 
 The 3rd highest number of forms (1) was observed with the lemma “ведь”: <em>Ведь</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="ru_poetry-feat-Mood.html">Mood</a></tt> (78; 8% instances)
+`SCONJ` occurs with 2 features: <tt><a href="ru_poetry-feat-Mood.html">Mood</a></tt> (78; 8% instances), <tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt> (8; 1% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `Mood=Cnd`
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=SCONJ`, `Mood=Cnd`
 
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (898 tokens).
-Examples: <em>как, что, когда, если, словно, чем, хоть, пока, точно, хотя</em>
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (890 tokens).
+Examples: <em>как, что, когда, если, словно, чем, хоть, пока, точно, покуда</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="ru_poetry-dep-mark.html">mark</a></tt> (596; 61% instances), <tt><a href="ru_poetry-dep-case.html">case</a></tt> (355; 36% instances), <tt><a href="ru_poetry-dep-fixed.html">fixed</a></tt> (16; 2% instances), <tt><a href="ru_poetry-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="ru_poetry-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="ru_poetry-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-obl.html">obl</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="ru_poetry-dep-mark.html">mark</a></tt> (595; 61% instances), <tt><a href="ru_poetry-dep-case.html">case</a></tt> (356; 36% instances), <tt><a href="ru_poetry-dep-fixed.html">fixed</a></tt> (16; 2% instances), <tt><a href="ru_poetry-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="ru_poetry-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="ru_poetry-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (436; 45% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (379; 39% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (74; 8% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (41; 4% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (26; 3% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (435; 45% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (380; 39% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (74; 8% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (41; 4% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (26; 3% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ru_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 968 (99%) `SCONJ` nodes are leaves.
 

@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 # visual-style 13 8 obl:cmp	color:blue
 1	Но	но	INTJ	Interj	_	3	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
-3	позе	позьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Sg3
+3	позе	позьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,Err/Dial,Sg3
 4	висьтооны	висьтавны	VERB	V	VerbForm=Inf	3	xcomp	_	GTtags=Err/Dial,Inf|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	12	punct	_	_
 6	мый	мый	SCONJ	CS	_	12	mark	_	_
@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 9	да	да	CCONJ	CC	_	10	cc	_	_
 10	рочысь	роч	NOUN	N	Case=Ela|Number=Sing	8	conj	_	GTtags=Sg,Ela
 11	ӧтдор	ӧтдор	ADV	Adv	_	8	advmod	_	_
-12	сёрнита	сёрнитны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	ccomp	_	GTtags=Ind,Prs,Sg1
+12	сёрнита	сёрнитны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	GTtags=Ind,Prs,Sg1
 13	английскеен	английскӧй	ADJ	A	Case=Ins|Number=Sing	12	obl	_	GTtags=Err/Dial,Sg,Ins
 14	бурджыка	бурджыка	ADV	Adv	_	12	advmod	_	SpaceAfter=No
 15	,	,	PUNCT	PUNCT	_	16	punct	_	_

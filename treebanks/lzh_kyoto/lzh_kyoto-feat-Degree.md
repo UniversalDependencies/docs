@@ -22,7 +22,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="lzh_kyoto-pos-VERB.
 
 * `Equ` (1783; 7% of non-empty `Degree`): 如、 若、 猶、 奈、 柰、 云、 區、 如來、 亞、 如耳
 * `Pos` (22368; 93% of non-empty `Degree`): 大、 太、 重、 善、 明、 同、 多、 可、 然、 和
-* `EMPTY` (113209): 曰、 以、 有、 無、 謂、 使、 得、 為、 至、 知
+* `EMPTY` (113207): 曰、 以、 有、 無、 謂、 使、 得、 為、 至、 知
 
 <table>
   <tr><th>Paradigm <i>若</i></th><th><tt>Pos</tt></th><th><tt>Equ</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Equ` (116; 2% of non-empty `Degree`): 如、 若、 猶、 奈、 區、 恰
 * `Pos` (4542; 94% of non-empty `Degree`): 大、 然、 獨、 凡、 甚、 善、 多、 難、 誠、 久
 * `Sup` (154; 3% of non-empty `Degree`): 實、 最、 頗、 愼、 已、 酷、 了、 報、 寔、 慎
-* `EMPTY` (37387): 不、 以、 則、 必、 皆、 故、 乃、 非、 亦、 未
+* `EMPTY` (37390): 不、 以、 則、 必、 皆、 故、 乃、 非、 亦、 未
 
 <table>
   <tr><th>Paradigm <i>若</i></th><th><tt>Pos</tt></th><th><tt>Equ</tt></th></tr>

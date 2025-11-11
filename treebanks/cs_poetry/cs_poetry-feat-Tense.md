@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-767 tokens (12%) have a non-empty value of `Tense`.
-580 types (22%) occur at least once with a non-empty value of `Tense`.
-427 lemmas (22%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (639; 10% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (104; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (24; 0% instances).
+768 tokens (12%) have a non-empty value of `Tense`.
+581 types (22%) occur at least once with a non-empty value of `Tense`.
+428 lemmas (22%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (639; 10% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (104; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (25; 0% instances).
 
 ### `VERB`
 
 639 <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (635; 99%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (599; 94%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (506; 79%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (433; 68%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (399; 62%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (399; 62%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (398; 62%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (635; 99%), <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (600; 94%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (506; 79%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (433; 68%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (399; 62%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (398; 62%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (397; 62%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -78,17 +78,18 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-24 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
+25 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (24; 100%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (24; 100%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21; 88%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20; 83%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (20; 83%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (20; 83%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 63%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (14; 58%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_poetry-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (25; 100%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (25; 100%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22; 88%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 84%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (21; 84%), <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 64%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (14; 56%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Past` (5; 21% of non-empty `Tense`): <em>Oněmlé, odvrácené, seto, vypráhlé, ztuhlá</em>
-* `Pres` (19; 79% of non-empty `Tense`): <em>Kypící, bijící, drtící, hořícího, hořícím, hynoucími, kající, mlčící, rušících, smilnící</em>
-* `EMPTY` (573): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
+* `Fut` (1; 4% of non-empty `Tense`): <em>budoucí</em>
+* `Past` (5; 20% of non-empty `Tense`): <em>Oněmlé, odvrácené, seto, vypráhlé, ztuhlá</em>
+* `Pres` (19; 76% of non-empty `Tense`): <em>Kypící, bijící, drtící, hořícího, hořícím, hynoucími, kající, mlčící, rušících, smilnící</em>
+* `EMPTY` (572): <em>věčné, bílé, celý, plný, bílý, jiné, kamenném, nové, tiché, tmavou</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (24) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 

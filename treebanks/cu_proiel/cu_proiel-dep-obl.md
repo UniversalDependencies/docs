@@ -63,11 +63,11 @@ The following 54 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 obl	color:blue
-1	Ї	и	CCONJ	C-	_	2	cc	_	ref=77.5
-2	въздвіже	въздвигнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.5
-3	съвѣдѣніе	съвѣдѣниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	ref=77.5
-4	въ	въ	ADP	R-	_	5	case	_	ref=77.5
-5	іѣковѣ	иꙗковъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=77.5
+1	Ї	и	CCONJ	C-	_	2	cc	_	Ref=77.5
+2	въздвіже	въздвигнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=77.5
+3	съвѣдѣніе	съвѣдѣниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Ref=77.5
+4	въ	въ	ADP	R-	_	5	case	_	Ref=77.5
+5	іѣковѣ	иꙗковъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	Ref=77.5
 
 ~~~
 

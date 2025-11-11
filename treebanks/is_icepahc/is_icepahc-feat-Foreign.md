@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 5170 tokens (1%) have a non-empty value of `Foreign`.
 2524 types (4%) occur at least once with a non-empty value of `Foreign`.
-2376 lemmas (7%) occur at least once with a non-empty value of `Foreign`.
+2375 lemmas (7%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 14 part-of-speech tags: <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (2304; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (2108; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (317; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (107; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (99; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (46; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (34; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (25; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `PROPN`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 * `Yes` (2304; 100% of non-empty `Foreign`): <em>Erasmus, Metternich, Darius, Dominus, Pelissier, Moyses, Menon, Petrus, Thiers, Georgíus</em>
 * `EMPTY` (39080): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1004) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1003) occur only with one value of `Foreign`.
 
 ### `X`
 
@@ -47,9 +47,9 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (317; 100% of non-empty `Foreign`): <em>son, anno, dal, kap, Majestets, hold, hertug, leon, von, altera</em>
-* `EMPTY` (145564): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145562): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (215) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (214) occur only with one value of `Foreign`.
 
 ### `VERB`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (107; 100% of non-empty `Foreign`): <em>Bar, Gessovel, Vita, Komu, Tel, talt, Sest, Stend, Vil, do</em>
-* `EMPTY` (128577): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
+* `EMPTY` (128582): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (72) occur only with one value of `Foreign`.
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (51; 100% of non-empty `Foreign`): <em>ij, iij, iiij, iiii, xii, vii, ccc, ix, xi, xiii</em>
-* `EMPTY` (4361): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
+* `EMPTY` (4362): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
 
 `Foreign` seems to be **lexical feature** of `NUM`. 100% lemmas (16) occur only with one value of `Foreign`.
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (46; 100% of non-empty `Foreign`): <em>Vant, Aum, Darius, Heil, iiii, Besti, Gamall, Heili, Italiani, Ofanvert</em>
-* `EMPTY` (37115): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (37117): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (38) occur only with one value of `Foreign`.
 
@@ -123,7 +123,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (26; 100% of non-empty `Foreign`): <em>Vil, man, myni, Munu, Vilda, emk, er, hefir, hefoi</em>
-* `EMPTY` (51225): <em>var, er, voru, hafði, vera, væri, hafa, eru, mun, verið</em>
+* `EMPTY` (51218): <em>var, er, voru, hafði, vera, væri, hafa, eru, mun, verið</em>
 
 ### `PRON`
 

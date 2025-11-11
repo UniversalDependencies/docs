@@ -51,5 +51,6 @@ The most frequent other feature values with which `DET` and `Variant` co-occurre
 The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (796; 76%),
 <tt>ADJ --[<tt><a href="cs_pdtc-dep-csubj-pass.html">csubj:pass</a></tt>]--> ADJ</tt> (18; 82%),
-<tt>ADJ --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> ADJ</tt> (14; 54%).
+<tt>ADJ --[<tt><a href="cs_pdtc-dep-appos.html">appos</a></tt>]--> ADJ</tt> (14; 54%),
+<tt>PRON --[<tt><a href="cs_pdtc-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (2; 67%).
 

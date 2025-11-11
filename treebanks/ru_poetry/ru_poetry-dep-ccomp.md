@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 9 ccomp	color:blue
 1	В	в	ADP	_	_	2	case	_	before=<se><line_meter="Д3м~Д3м"/>
-2	веке	век	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+2	веке	век	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl:tmod	_	_
 3	прогресса	прогресс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
 5	скажи	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No

@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
 1	uill	uill	INTJ	I	_	3	discourse	_	_
-2	chan	is	AUX	Wp-in	Polarity=Neg|Tense=Pres	3	cop	_	_
+2	chan	is	AUX	Wp-in	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	urrainn	urrainn	NOUN	Uf	_	0	root	_	_
 4	do	do	ADP	Sp	_	5	case	_	_
 5	mi	mi	PRON	Pp1s	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
@@ -37,7 +37,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
-1	an	is	AUX	Wpdqa	Mood=Int|Polarity=Aff|Tense=Pres	2	cop	_	_
+1	an	is	AUX	Wpdqa	Mood=Int|Polarity=Aff|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	Fg	_	2	punct	_	_
 
@@ -51,7 +51,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
 1	uill	uill	INTJ	I	_	3	discourse	_	_
-2	‘s	is	AUX	Wp-i	Tense=Pres	3	cop	_	_
+2	‘s	is	AUX	Wp-i	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	iongantach	iongantach	ADJ	Ap	_	0	root	_	_
 4	mar	mar	SCONJ	Cs	_	6	mark	_	_
 5	a	a	PART	Q-r	PartType=Vb|PronType=Rel	6	mark:prt	_	_

@@ -8,40 +8,76 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (1%) are attached to their parents as `xcomp`.
+28 nodes (1%) are attached to their parents as `xcomp`.
 
-7 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.85714285714286.
+27 instances of `xcomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.39285714285714.
 
-The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (6; 86% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 14% instances).
+The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (20; 71% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (4; 14% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 xcomp	color:blue
-1	La	la	DET	_	Definite=Def|PronType=Art	3	det	_	_
-2	naciaj	nacia	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
-3	registaroj	registaro	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
-4	emas	emi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	konsideri	konsideri	VERB	_	VerbForm=Inf	4	xcomp	_	_
-6	la	la	DET	_	Definite=Def|PronType=Art	8	det	_	_
-7	grandan	granda	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
-8	diversecon	diverseco	NOUN	_	Case=Acc|Number=Plur	5	obj	_	_
-9	de	de	ADP	_	_	10	case	_	_
-10	lingvoj	lingvo	NOUN	_	Case=Acc|Number=Plur	8	nmod	_	_
-11	en	en	ADP	_	_	13	case	_	_
-12	la	la	DET	_	Definite=Def|PronType=Art	13	det	_	_
-13	mondo	mondo	NOUN	_	Case=Nom|Number=Plur	10	nmod	_	_
-14	kiel	kiel	ADP	_	_	15	case	_	_
-15	baron	baro	NOUN	_	Case=Acc|Number=Sing	5	obl	_	_
-16	al	al	ADP	_	_	17	case	_	_
-17	komunikado	komunikado	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	_
-18	kaj	kaj	CCONJ	_	_	19	cc	_	_
-19	evoluigo	evoluigo	NOUN	_	Case=Nom|Number=Sing	17	conj	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 xcomp	color:blue
+1	Mi	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	aprobas	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	la	_	DET	_	Definite=Def	4	det	_	_
+4	esencon	_	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
+5	de	_	ADP	_	_	7	case	_	_
+6	la	_	DET	_	Definite=Def	7	det	_	_
+7	Homaranismo	_	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
+8	kaj	_	CCONJ	_	_	10	cc	_	_
+9	mi	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	petas	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	enskribi	_	VERB	_	VerbForm=Inf	10	xcomp	_	_
+12	min	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+13	en	_	ADP	_	_	15	case	_	_
+14	la	_	DET	_	Definite=Def	15	det	_	_
+15	adresaron	_	NOUN	_	Case=Acc|Number=Sing	11	nmod	_	_
+16	de	_	ADP	_	_	18	case	_	_
+17	la	_	DET	_	Definite=Def	18	det	_	_
+18	Homaranoj	_	NOUN	_	Case=Nom|Number=Plur	15	nmod	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 19 xcomp	color:blue
+1	Tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	la	la	DET	_	Definite=Def	4	det	_	_
+4	kaŭzo	kaŭzo	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	13	punct	_	_
+6	pro	pro	ADP	_	_	7	case	_	_
+7	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	13	nmod	_	_
+8	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+9	dum	dum	ADP	_	_	12	case	_	_
+10	tre	tre	ADV	_	_	11	advmod	_	_
+11	longa	longa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod	_	_
+12	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
+13	havis	havi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	4	advcl:relcl	_	_
+14	la	la	DET	_	Definite=Def	15	det	_	_
+15	intencon	intenco	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+16	aŭ	aŭ	CCONJ	_	_	19	cc	_	_
+17	tute	tute	ADV	_	_	18	advmod	_	_
+18	ne	ne	ADV	_	_	19	advmod	_	_
+19	publikigi	publikigi	VERB	_	VerbForm=Inf	15	xcomp	_	_
+20	mian	mi	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	nmod:poss	_	_
+21	kredon	kredo	NOUN	_	Case=Acc|Number=Sing	19	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	aŭ	aŭ	CCONJ	_	_	24	cc	_	_
+24	publikigi	publikigi	VERB	_	VerbForm=Inf	19	conj	_	_
+25	ĝin	ĝi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+26	anonime	anonime	ADV	_	_	24	advmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

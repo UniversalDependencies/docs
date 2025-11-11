@@ -7,104 +7,44 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-SouthernAutogramm: Features: `ExtPos`
 
 This feature is language-specific.
-It occurs with 7 different values: `ADJ`, `ADP`, `ADV`, `NOUN`, `PRON`, `SCONJ`, `VERB`.
+It occurs with 4 different values: `ADP`, `ADV`, `NOUN`, `PRON`.
 
-453 tokens (3%) have a non-empty value of `ExtPos`.
-170 types (10%) occur at least once with a non-empty value of `ExtPos`.
-144 lemmas (11%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (351; 2% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (41; 0% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (32; 0% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+373 tokens (3%) have a non-empty value of `ExtPos`.
+167 types (9%) occur at least once with a non-empty value of `ExtPos`.
+131 lemmas (10%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 6 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (346; 2% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-351 <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+346 <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (332; 95%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (332; 96%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 
-* `ADV` (12; 3% of non-empty `ExtPos`): <em>zàune, kwànce</em>
-* `NOUN` (336; 96% of non-empty `ExtPos`): <em>noːman, noːmaː, yîː, zuwàː, saːmùn, yîn, jîn, cîː, sôː, tunàːwaː</em>
-* `VERB` (3; 1% of non-empty `ExtPos`): <em>ci</em>
+* `ADV` (11; 3% of non-empty `ExtPos`): <em>zàune, kwànce</em>
+* `NOUN` (335; 97% of non-empty `ExtPos`): <em>noːmaː, noːman, yîː, zuwàː, saːmùn, cîː, jîn, sôː, tunàːwaː, neːman</em>
 
 <table>
-  <tr><th>Paradigm <i>ci</i></th><th><tt>NOUN</tt></th><th><tt>VERB</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>ci</em></td></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=Cons</tt>|<tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>cîn</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>cîː</em></td><td></td></tr>
+  <tr><th>Paradigm <i>zaun-</i></th><th><tt>ADV</tt></th><th><tt>NOUN</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>zàune</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=Cons</tt>|<tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td><em>zaman</em></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ha_southernautogramm-feat-Voice.html">Voice</a></tt><tt>=Stat</tt></tt></td><td><em>zàune</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td><em>zamaː, zaunàː</em></td></tr>
 </table>
 
-`ExtPos` seems to be **lexical feature** of `VERB`. 97% lemmas (106) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `VERB`. 98% lemmas (109) occur only with one value of `ExtPos`.
 
 ### `NOUN`
 
-41 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (31; 76%).
+20 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
-* `ADJ` (6; 15% of non-empty `ExtPos`): <em>mài</em>
-* `ADP` (1; 2% of non-empty `ExtPos`): <em>kàmaː</em>
-* `ADV` (3; 7% of non-empty `ExtPos`): <em>gàbaː, gidan</em>
-* `NOUN` (30; 73% of non-empty `ExtPos`): <em>mài, tsoːhuwaː, har̃kàn, niːsaː, noːmân, sigàː, yawàː, zoːmoː, zufàː, ƙùllun</em>
-* `PRON` (1; 2% of non-empty `ExtPos`): <em>àbin</em>
+* `ADP` (1; 5% of non-empty `ExtPos`): <em>kàmaːnaː</em>
+* `NOUN` (19; 95% of non-empty `ExtPos`): <em>har̃kàn, noːmân, tsoːhuwaː, girman, goːnan, gàːrin, gìne-gìne, niːsaː, noːman, sigàː</em>
 
-<table>
-  <tr><th>Paradigm <i>mài</i></th><th><tt>ADJ</tt></th><th><tt>NOUN</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>mài</em></td><td><em>mài</em></td></tr>
-</table>
-
-`ExtPos` seems to be **lexical feature** of `NOUN`. 95% lemmas (19) occur only with one value of `ExtPos`.
-
-### `ADP`
-
-32 <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> tokens (6% of all `ADP` tokens) have a non-empty value of `ExtPos`.
-
-`ADP` tokens may have the following values of `ExtPos`:
-
-* `ADP` (29; 91% of non-empty `ExtPos`): <em>à, har̃, ta</em>
-* `ADV` (2; 6% of non-empty `ExtPos`): <em>had, à</em>
-* `SCONJ` (1; 3% of non-empty `ExtPos`): <em>kàman</em>
-
-<table>
-  <tr><th>Paradigm <i>à</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>à</em></td><td><em>à</em></td></tr>
-</table>
-
-### `PART`
-
-9 <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="ha_southernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%).
-
-`PART` tokens may have the following values of `ExtPos`:
-
-* `ADJ` (2; 22% of non-empty `ExtPos`): <em>mài</em>
-* `NOUN` (7; 78% of non-empty `ExtPos`): <em>mài</em>
-
-<table>
-  <tr><th>Paradigm <i>mài</i></th><th><tt>ADJ</tt></th><th><tt>NOUN</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>mài</em></td><td><em>mài</em></td></tr>
-</table>
-
-### `ADV`
-
-7 <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (7; 100%).
-
-`ADV` tokens may have the following values of `ExtPos`:
-
-* `ADV` (7; 100% of non-empty `ExtPos`): <em>sai, keː, tàːre</em>
-
-### `SCONJ`
-
-7 <tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
-
-`SCONJ` tokens may have the following values of `ExtPos`:
-
-* `ADV` (3; 43% of non-empty `ExtPos`): <em>dà, kàman, wai</em>
-* `SCONJ` (4; 57% of non-empty `ExtPos`): <em>in, koː, koːdà</em>
+`ExtPos` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `ExtPos`.
 
 ### `PRON`
 
@@ -125,11 +65,19 @@ The most frequent other feature values with which `PRON` and `ExtPos` co-occurre
 
 * `NOUN` (2; 100% of non-empty `ExtPos`): <em>Basaːwaː</em>
 
+### `ADV`
+
+1 <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `ExtPos`:
+
+* `ADV` (1; 100% of non-empty `ExtPos`): <em>zàune</em>
+
 ### `NUM`
 
 1 <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `NUM` and `ExtPos` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=Cons</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `ExtPos`:
 
@@ -139,7 +87,6 @@ The most frequent other feature values with which `NUM` and `ExtPos` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `ExtPos`:
 <tt>VERB --[<tt><a href="ha_southernautogramm-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (5; 100%),
-<tt>VERB --[<tt><a href="ha_southernautogramm-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 60%),
-<tt>PART --[<tt><a href="ha_southernautogramm-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).
 

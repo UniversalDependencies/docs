@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-654 nodes (1%) are attached to their parents as `iobj`.
+852 nodes (1%) are attached to their parents as `iobj`.
 
-641 instances of `iobj` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42813455657492.
+837 instances of `iobj` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40492957746479.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (629; 96% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (819; 96% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (20; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,16 +63,13 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 iobj	color:blue
-1	par	par1	ADP	PRE	_	2	case	_	XmlId=w_32_14825
-2	quoy	quoi	PRON	PROrel	PronType=Rel	5	obl	_	XmlId=w_32_14826
-3	luy	lui	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_32_14827
-4	estoit	être	AUX	VERcjg	VerbForm=Fin	5	cop	_	XmlId=w_32_14828
-5	besoing	besoin	NOUN	NOMcom	_	0	root	_	XmlId=w_32_14829
-6	d'	de	ADP	PRE	_	8	mark	_	SpaceAfter=No|XmlId=w_32_14830
-7	estre	être	AUX	VERinf	VerbForm=Inf	8	aux	_	XmlId=w_32_14831
-8	venu	venir	VERB	VERppe	Tense=Past|VerbForm=Part	5	csubj	_	XmlId=w_32_14832
-9	accompaigné	accompagner	VERB	VERppe	Tense=Past|VerbForm=Part	8	advcl	_	SpaceAfter=No|XmlId=w_32_14833
-10	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_32_14834
+1	Et	et	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_jouvencel1_3341
+2	ce	ce1	PRON	PROdem	PronType=Dem	5	nsubj	_	XmlId=w_jouvencel1_3342
+3	nous	nous	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_jouvencel1_3343
+4	est	être	AUX	VERcjg	VerbForm=Fin	5	cop	_	XmlId=w_jouvencel1_3344
+5	exemple	exemple	NOUN	NOMcom	_	0	root	_	XmlId=w_jouvencel1_3345
+6	famillier	familier	ADJ	ADJqua	_	5	amod	_	XmlId=w_jouvencel1_3346
+7	;	;	PUNCT	PONfbl	_	5	punct	_	XmlId=w_jouvencel1_3347
 
 ~~~
 

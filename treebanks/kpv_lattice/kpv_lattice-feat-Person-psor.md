@@ -81,16 +81,16 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 21 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 86%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 81%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 57%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 86%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (14; 67%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 57%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
 
 ### `DET`
 
-6 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (14% of all `DET` tokens) have a non-empty value of `Person[psor]`.
+6 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 83%), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 83%), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (4; 67%).
 
 `DET` tokens may have the following values of `Person[psor]`:
 
@@ -123,7 +123,7 @@ The most frequent other feature values with which `ADV` and `Person[psor]` co-oc
 
 1 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Person[psor]`:
 

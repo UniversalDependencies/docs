@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 28	bgColor:blue
 # visual-style 28	fgColor:white
 # visual-style 28 32 obl:agent	color:blue
-1	A	a	ADP	_	_	15	mark	_	_
+1	A	a	ADP	_	ExtPos=SCONJ	15	mark	_	_
 2	pesar	pesar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	1	fixed	_	_
 3	que	que	SCONJ	_	_	1	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_

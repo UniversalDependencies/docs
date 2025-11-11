@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Bamba Dione.
 
 Repository: [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwo_wtb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwo_wtb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -68,7 +68,7 @@ The treebank is developed by Cheikh Bamba Dione. The syntactic annotation was ch
 
 ## Features
 
-[Aspect](wo_wtb-feat-Aspect.html) – [Case](wo_wtb-feat-Case.html) – [Definite](wo_wtb-feat-Definite.html) – [Deixis](wo_wtb-feat-Deixis.html) – [DeixisRef](wo_wtb-feat-DeixisRef.html) – [FocusType](wo_wtb-feat-FocusType.html) – [Gender](wo_wtb-feat-Gender.html) – [Mood](wo_wtb-feat-Mood.html) – [NounClass](wo_wtb-feat-NounClass.html) – [Number](wo_wtb-feat-Number.html) – [NumType](wo_wtb-feat-NumType.html) – [Person](wo_wtb-feat-Person.html) – [Polarity](wo_wtb-feat-Polarity.html) – [Poss](wo_wtb-feat-Poss.html) – [PronType](wo_wtb-feat-PronType.html) – [Reflex](wo_wtb-feat-Reflex.html) – [Tense](wo_wtb-feat-Tense.html) – [VerbForm](wo_wtb-feat-VerbForm.html)
+[Aspect](wo_wtb-feat-Aspect.html) – [Case](wo_wtb-feat-Case.html) – [Definite](wo_wtb-feat-Definite.html) – [Deixis](wo_wtb-feat-Deixis.html) – [DeixisRef](wo_wtb-feat-DeixisRef.html) – [ExtPos](wo_wtb-feat-ExtPos.html) – [FocusType](wo_wtb-feat-FocusType.html) – [Foreign](wo_wtb-feat-Foreign.html) – [Gender](wo_wtb-feat-Gender.html) – [Mood](wo_wtb-feat-Mood.html) – [NounClass](wo_wtb-feat-NounClass.html) – [Number](wo_wtb-feat-Number.html) – [NumType](wo_wtb-feat-NumType.html) – [Person](wo_wtb-feat-Person.html) – [Polarity](wo_wtb-feat-Polarity.html) – [Poss](wo_wtb-feat-Poss.html) – [PronType](wo_wtb-feat-PronType.html) – [Reflex](wo_wtb-feat-Reflex.html) – [Tense](wo_wtb-feat-Tense.html) – [VerbForm](wo_wtb-feat-VerbForm.html)
 
 ## Relations
 
@@ -175,7 +175,7 @@ The treebank is developed by Cheikh Bamba Dione. The syntactic annotation was ch
     <ul>
       <li>ADJ: verts</li>
       <li>ADP: des</li>
-      <li>DET: le, un</li>
+      <li>DET: le, les, un</li>
       <li>NOUN: Africains, Livres, Monde, adolescents, animisme, bourreaux, centre, conseils, croissants, cœur</li>
     </ul>
   </li>
@@ -365,7 +365,6 @@ The treebank is developed by Cheikh Bamba Dione. The syntactic annotation was ch
     <ul>
       <li>AUX: di, na, a, da, la, lañu, nañu, doon, du, daan</li>
       <li>AUX-Fin: di, la, doon, lañu, du, dee, ngi, dul, duñu, laa</li>
-      <li>PRON: mu, nu</li>
       <li>VERB-Fin: am, ne, xam, war, nekk, gën, mel, mën, def, tax</li>
     </ul>
   </li>
@@ -672,6 +671,42 @@ The treebank is developed by Cheikh Bamba Dione. The syntactic annotation was ch
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: ci, lu, ca</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: ba, naka, lu, ci</li>
+          <li>ADV: gën, lu, naka, fu, amul</li>
+          <li>DET: as</li>
+          <li>NOUN: diiroo, Gannaaw, kemm, waxi</li>
+          <li>NUM: benn</li>
+          <li>PRON: bu, lu, Ku</li>
+          <li>SCONJ: Bu, Ba, Su</li>
+          <li>VERB-Fin: Am, gën</li>
+          <li>VERB-Inf: Wax, gën, neex</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: Alaa, Allaahu, Bismil, Ey, Waaw, gàcce, lawla</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: lu, ci</li>
+          <li>SCONJ: su, ba</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>FocusType</a>
     <ul>
       <li>Compl
@@ -687,6 +722,18 @@ The treebank is developed by Cheikh Bamba Dione. The syntactic annotation was ch
       <li>Verb
         <ul>
           <li>AUX: da, nañu</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>DET: Le, les</li>
         </ul>
       </li>
     </ul>
@@ -813,7 +860,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (954)</li>
+      <li>VERB-Fin--NOUN (953)</li>
       <li>VERB-Fin--NOUN-ADP(Dans) (1)</li>
       <li>VERB-Fin--NOUN-ADP(bu) (1)</li>
       <li>VERB-Fin--NOUN-ADP(ca) (1)</li>
@@ -836,7 +883,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (123)</li>
+      <li>VERB-Fin--NOUN (124)</li>
       <li>VERB-Fin--NOUN-ADP(d') (1)</li>
       <li>VERB-Fin--NOUN-Gen (31)</li>
       <li>VERB-Fin--PRON (52)</li>

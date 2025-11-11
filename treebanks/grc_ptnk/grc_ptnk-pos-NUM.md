@@ -9,7 +9,7 @@ udver: '2'
 There are 47 `NUM` lemmas (2%), 92 `NUM` types (2%) and 492 `NUM` tokens (1%).
 Out of 15 observed tags, the rank of `NUM` is: 7 in number of lemmas, 7 in number of types and 13 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>ἑπτά, δύο, εἷς, ἑκατόν, δέκα, πέντε, τρεῖς, τριάκοντα, δεύτερος, τεσσαράκοντα</em>
+The 10 most frequent `NUM` lemmas: <em>ἑπτά, δύο, εἷς, ἑκατόν, δέκ᾿, πέντε, τρεῖς, τριάκοντα, δεύτερος, τεσσαράκοντα</em>
 
 The 10 most frequent `NUM` types:  <em>δύο, ἑπτὰ, ἑκατὸν, δέκα, πέντε, τριάκοντα, τεσσαράκοντα, τρεῖς, εἴκοσι, πεντήκοντα</em>
 

@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gentle-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.148568).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.148610).
 
 The 1st highest number of forms (1) was observed with the lemma “-uːl”: <em>-uːl</em>.
 
@@ -61,7 +61,7 @@ Examples: <em>fucking, please, ah, well, So, oh, okay, uh, Ha, Welcome</em>
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (46; 77% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (10; 17% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (2; 3% instances), <tt><a href="en_gentle-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-flat.html">flat</a></tt> (1; 2% instances)
+`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (46; 77% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (10; 17% instances), <tt><a href="en_gentle-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-flat.html">flat</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
 Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (25; 42% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (14; 23% instances),  (10; 17% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (5; 8% instances), <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> (4; 7% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 
@@ -75,7 +75,7 @@ Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="en_g
 
 The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 8 different relations: <tt><a href="en_gentle-dep-punct.html">punct</a></tt> (21; 66% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (3; 9% instances), <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (2; 6% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (2; 6% instances), <tt><a href="en_gentle-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="en_gentle-dep-flat.html">flat</a></tt> (1; 3% instances), <tt><a href="en_gentle-dep-nmod-poss.html">nmod:poss</a></tt> (1; 3% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (1; 3% instances)
+Children of `INTJ` nodes are attached using 8 different relations: <tt><a href="en_gentle-dep-punct.html">punct</a></tt> (21; 66% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (3; 9% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (2; 6% instances), <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (2; 6% instances), <tt><a href="en_gentle-dep-advcl.html">advcl</a></tt> (1; 3% instances), <tt><a href="en_gentle-dep-flat.html">flat</a></tt> (1; 3% instances), <tt><a href="en_gentle-dep-nmod-poss.html">nmod:poss</a></tt> (1; 3% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (1; 3% instances)
 
 Children of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (21; 66% instances), <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> (4; 13% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (4; 13% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

@@ -48,9 +48,9 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>suo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>suo</em></td><td><em>sua</em></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>suo</em></td><td><em>sua</em></td></tr>
+  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>suoi</em></td><td><em>sue, suoe</em></td></tr>
   <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>sui</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>suoi</em></td><td><em>sue, suoe</em></td></tr>
 </table>
 
 ### `VERB`

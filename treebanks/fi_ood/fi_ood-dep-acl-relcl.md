@@ -63,7 +63,7 @@ The following 20 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 3 8 acl:relcl	color:blue
 1	Minulla	minä	PRON	_	Case=Ade|Number=Sing|Person=1|PronType=Prs	0	root	_	_
 2	on	olla	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop:own	_	_
-3	kaikki	kaikki	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	nsubj:cop	_	_
+3	kaikki	kaikki	PRON	_	Case=Nom|Number=Sing|PronType=Ind	1	nsubj:cop	_	candidate=nsubj:exist
 4	tallessa	tallessa	ADV	_	_	1	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	jotka	joka	PRON	_	Case=Nom|Number=Plur|PronType=Rel	8	obj	_	_

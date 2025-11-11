@@ -11,7 +11,7 @@ It occurs with 3 different values: `Inf`, `Res`, `Vbp`.
 
 37200 tokens (1%) have a non-empty value of `PartType`.
 169 types (0%) occur at least once with a non-empty value of `PartType`.
-169 lemmas (0%) occur at least once with a non-empty value of `PartType`.
+154 lemmas (0%) occur at least once with a non-empty value of `PartType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (20484; 1% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (16679; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (37; 0% instances).
 
 ### `ADP`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADP` and `PartType` co-occurr
 
 * `Vbp` (20484; 100% of non-empty `PartType`): <em>an, aus, vor, ein, auf, ab, mit, bekannt, zurück, zu</em>
 
-`PartType` seems to be **lexical feature** of `ADP`. 100% lemmas (164) occur only with one value of `PartType`.
+`PartType` seems to be **lexical feature** of `ADP`. 100% lemmas (152) occur only with one value of `PartType`.
 
 ### `PART`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6052 nodes (1%) are attached to their parents as `det`.
+6053 nodes (1%) are attached to their parents as `det`.
 
-6034 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14755452742895.
+6035 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14769535767388.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (5779; 95% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (109; 2% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (72; 1% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (38; 1% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (5779; 95% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (110; 2% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (72; 1% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (38; 1% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 10	_	_	AUX	_	_	8	aux	_	BBIL=I|BPT=2|PUDL=よう|SpaceAfter=No|UI=34
 11	_	_	PUNCT	_	_	8	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=24
 12	_	_	VERB	_	_	13	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=25991
-13	_	_	NOUN	_	_	16	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=26495
+13	_	_	NOUN	_	_	16	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=26495
 14	_	_	ADP	_	_	13	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 15	_	_	DET	_	_	16	det	_	BBIL=B|BPT=0|SpaceAfter=No|UI=33
 16	_	_	NOUN	_	_	18	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1005
@@ -53,7 +53,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 20 det	color:blue
-1	_	_	NOUN	_	_	3	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2759
+1	_	_	NOUN	_	_	3	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2759
 2	_	_	ADP	_	_	1	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=118
 3	_	_	NOUN	_	_	16	nsubj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=595
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=4
@@ -73,12 +73,12 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 18	_	_	AUX	_	_	16	aux	_	BBIL=I|BPT=3|SpaceAfter=No|UI=132
 19	_	_	PUNCT	_	_	16	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=24
 20	_	_	DET	_	_	21	det	_	BBIL=B|BPT=0|SpaceAfter=No|UI=33
-21	_	_	NUM	_	_	30	compound	_	BBIL=B|BPT=0|SpaceAfter=No|UI=229
+21	_	_	NUM	_	_	30	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=229
 22	_	_	ADP	_	_	21	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=49
 23	_	_	PUNCT	_	_	21	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=24
-24	_	_	NOUN	_	_	26	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=28108
+24	_	_	NOUN	_	_	26	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=28108
 25	_	_	ADP	_	_	24	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
-26	_	_	NOUN	_	_	28	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=34186
+26	_	_	NOUN	_	_	28	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=34186
 27	_	_	ADP	_	_	26	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=91
 28	_	_	NOUN	_	_	30	nsubj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=44556
 29	_	_	ADP	_	_	28	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=6

@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `advcl:cmp`: <tt><a 
 1	Ярсамодо	ярсамо	VERB	N	Case=Abl|Definite=Ind|Number=Plur,Sing|VerbForm=Vnoun	2	advcl:cmp	_	CGdephead=#1-&gt;1|CGdeprel=@CMP-STD|GTtags=SP,Abl,Indef
 2	мейле	мейле	ADV	Adv	_	4	advmod	_	CGdephead=#2-&gt;4|CGdeprel=@ADVL&gt;|GTtags=
 3	Обран	Обран	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	CGdephead=#3-&gt;4|CGdeprel=@SUBJ&gt;|GTtags=Prop,Sg,Nom,Indef
-4	сяворсь	сяворемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScSg3
+4	сяворсь	сяворемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScSg3
 5	эземс	эзем	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	4	obl	_	CGdephead=#5-&gt;4|CGdeprel=@&lt;ADVL|GTtags=SP,Ill,Indef
 6	рунгонзо	рунго	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	nmod:gobj	_	CGdephead=#6-&gt;7|CGdeprel=@-FOBJ&gt;|GTtags=Pl,Gen,PxSg3
 7	оймавтомо	оймавтомс	VERB	V	Case=Loc|VerbForm=Inf	4	xcomp	_	CGdephead=#7-&gt;4|CGdeprel=@IMV|GTtags=TV,Inf,Loc|SpaceAfter=No

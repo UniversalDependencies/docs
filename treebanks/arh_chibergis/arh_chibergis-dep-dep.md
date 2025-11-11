@@ -8,12 +8,50 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `dep`.
+19 nodes (0%) are attached to their parents as `dep`.
 
-5 instances of `dep` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+11 instances of `dep` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.89473684210526.
 
-The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="arh_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (2; 22% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-AUX.html">AUX</a></tt> (1; 11% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (1; 11% instances), <tt><a href="arh_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt> (1; 11% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 11% instances).
+The following 12 pairs of parts of speech are connected with `dep`: <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (4; 21% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt> (3; 16% instances), <tt><a href="arh_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (2; 11% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (2; 11% instances), <tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt>-<tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="arh_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="arh_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 5% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 dep	color:blue
+1	a'chwi	a'chwi	VERB	_	_	8	discourse	_	AlignBegin=30951|AlignEnd=31435|GE=consider|Gloss=consider|nWord=1|RX=[V]|TokenType=Root
+2	(	_	PUNCT	_	_	3	punct	_	AlignBegin=31435|AlignEnd=31919|nWord=2
+3	na'	nan	AUX	_	_	7	advcl	_	AlignBegin=31919|AlignEnd=32403|GE=[AUX]|Gloss=AUX|nWord=3|RX=[AUX]|TokenType=Root
+4	),	_	PUNCT	_	_	3	punct	_	AlignBegin=32403|AlignEnd=32887|nWord=4
+5	tasi	tas	VERB	_	_	3	reparandum	_	AlignBegin=32887|AlignEnd=33371|GE=while|Gloss=takeCONV.SIM|nWord=5|RX=[VERB]|TokenType=InflAff
+6	zoyana	zoy	AUX	_	_	3	aux	_	AlignBegin=33371|AlignEnd=33855|GE=[RMTPST]|Gloss=goRMTPST|nWord=6|RX=[VERB]|TokenType=InflAff
+7	ni	nan	PART	_	_	8	dep	_	AlignBegin=33855|AlignEnd=34339|GE=[DECL]|Gloss=DECL|nWord=7|RX=[AUX]|TokenType=Root
+8	aguga'me'	agug	VERB	_	_	0	root	_	AlignBegin=34339|AlignEnd=34823|GE=[CAUSE]|Gloss=sayCAUSE|nWord=8|RX=[VERB]|TokenType=InflAff
+9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=34823|AlignEnd=35308|nWord=9|wordform=,.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 dep	color:blue
+1	eymi	eymi	PRON	_	_	8	advcl	_	AlignBegin=57440|AlignEnd=57861|GE=that|Gloss=that|nWord=1|RX=[DET]|TokenType=Root
+2	n	nan	AUX	_	_	1	cop	_	AlignBegin=57861|AlignEnd=58001|GE=aux|Gloss=aux|nWord=2|RX=[AUX]|TokenType=Root
+3	=a'ba'	_	ADP	_	_	1	dep	_	AlignBegin=58001|AlignEnd=58141|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit
+4	=ri	_	PART	_	_	3	advmod	_	AlignBegin=58141|AlignEnd=58282|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+5	,	_	PUNCT	_	_	1	punct	_	AlignBegin=58282|AlignEnd=58703|nWord=3
+6	ikʉ	ikʉ	NOUN	_	Case=Abs	7	nsubj	_	AlignBegin=58703|AlignEnd=59124|GE=people|Gloss=people|nWord=4|RX=[N]|TokenType=Root
+7	ikinkumʉya	kinkumʉ	VERB	_	_	8	advcl	_	AlignBegin=59124|AlignEnd=59545|GE=[NONEGO]|Gloss=APPL2arriveNONEGO|nWord=5|RX=[V:ANY]|TokenType=InflAff
+8	ni	nan	PART	_	_	0	root	_	AlignBegin=59545|AlignEnd=59966|GE=[DECL]|Gloss=DECL|nWord=6|RX=[AUX]|TokenType=Root
+9	.	_	PUNCT	_	_	8	punct	_	AlignBegin=59966|AlignEnd=60390|Gloss=.|nWord=7
+
+~~~
 
 
 ~~~ conllu
@@ -45,51 +83,6 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 21	aya	ya	VERB	_	_	0	root	_	AlignBegin=96383|AlignEnd=96745|GE=say|Gloss=1PL.Ssay|nWord=18|RX=[VI]|TokenType=Root
 22	nʉn	nan	AUX	_	_	21	aux	_	AlignBegin=96745|AlignEnd=96929|GE=cop|Gloss=cop|nWord=19|RX=[COP]|TokenType=Root
 23	=di	_	PART	_	_	21	advmod	_	AlignBegin=96929|AlignEnd=97114|GE=[TOP]|Gloss==TOP|nWord=19|RX=[PRT]|TokenType=Clit
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 dep	color:blue
-1	eyma	eyma	DET	_	_	2	det	_	AlignBegin=213920|AlignEnd=214632|GE=this|Gloss=this|nWord=1|RX=[DEM]|TokenType=Root
-2	ikʉ	ikʉ	NOUN	_	Case=Abs	7	reparandum	_	AlignBegin=214632|AlignEnd=214988|GE=person|Gloss=person|nWord=2|RX=[N]|TokenType=Root
-3	=ri	_	PART	_	_	2	advmod	_	AlignBegin=214988|AlignEnd=215344|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
-4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=215344|AlignEnd=216056|nWord=3
-5	eyma	eyma	DET	_	_	7	det	_	AlignBegin=216056|AlignEnd=216768|GE=this|Gloss=this|nWord=4|RX=[DEM]|TokenType=Root
-6	máykʉnʉ	máykʉnʉ	NUM	_	_	7	nummod	_	AlignBegin=216768|AlignEnd=217480|GE=three|Gloss=three|nWord=5|RX=[NUM]|TokenType=Root
-7	ikʉ	ikʉ	NOUN	_	Case=Abs	12	nsubj	_	AlignBegin=217480|AlignEnd=217836|GE=person|Gloss=person|nWord=6|RX=[N]|TokenType=Root
-8	=ri	_	PART	_	_	7	advmod	_	AlignBegin=217836|AlignEnd=218192|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit
-9	acheynʉn	cheynʉn	NOUN	_	_	12	obl:arg	_	AlignBegin=218192|AlignEnd=218548|GE=on.the.side.of|Gloss=3SG.POSSon.the.side.of|nWord=7|RX=[POST]|TokenType=Root
-10	=ke'	ekʉ	ADP	_	_	9	case	_	AlignBegin=218548|AlignEnd=218726|GE=[LOC]|Gloss=LOC|nWord=7|RX=[N]|TokenType=Clit
-11	=ta'	=ta'	ADP	_	_	9	dep	_	AlignBegin=218726|AlignEnd=218904|GE=PER|Gloss=PER|nWord=7|RX=[POST]|TokenType=Clit
-12	kʉzag	zag	VERB	_	_	0	root	_	AlignBegin=218904|AlignEnd=219378|GE=pass.by|Gloss=APPL1pass.by|nWord=8|RX=[V]|TokenType=Root
-13	=wi	=gwi	ADV	_	_	12	advmod	_	AlignBegin=219378|AlignEnd=219616|GE=also|Gloss=also|nWord=8|RX=[ADV]|TokenType=InflAff
-14	zʉ'ʉn	zan	PART	_	_	13	advmod:emph	_	AlignBegin=219616|AlignEnd=220328|GE=[COP]|Gloss=COP|nWord=9|RX=[COP]|TokenType=Root
-15	una	aw	AUX	_	_	12	aux	_	AlignBegin=220328|AlignEnd=221040|GE=[RMTPST]|Gloss=auxRMTPST|nWord=10|RX=[VERB]|TokenType=InflAff
-16	.	_	PUNCT	_	_	12	punct	_	AlignBegin=221040|AlignEnd=221753|Gloss=.|nWord=11
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 dep	color:blue
-1	kwa	kwa	CCONJ	_	_	8	cc	_	AlignBegin=214330|AlignEnd=214745|GE=or|Gloss=or|nWord=1|RX=[COORDCONN]|TokenType=Root
-2	wimʉ	wimʉ	NOUN	_	_	5	obl:arg	_	AlignBegin=214745|AlignEnd=215160|GE=meat|Gloss=meat|nWord=2|RX=[N]|TokenType=Root
-3	gu-	_	AUX	_	_	2	dep	_	AlignBegin=215160|AlignEnd=215575|GE=[GUN]|Gloss=GUN|nWord=3|RX=[V:ANY]|TokenType=InflAff
-4	umʉ'n	umʉ'n	ADV	_	_	5	advmod	_	AlignBegin=215575|AlignEnd=215990|GE=more|Gloss=more|nWord=4|RX=[ADV]|TokenType=Root
-5	du	du	ADJ	_	_	7	ccomp	_	AlignBegin=215990|AlignEnd=216405|GE=good|Gloss=good|nWord=5|RX=[ADJ]|TokenType=Root
-6	kawa	kaw	AUX	_	_	5	cop	_	AlignBegin=216405|AlignEnd=216820|GE=seem|Gloss=seem|nWord=6|RX=[AUX]|TokenType=Root
-7	ka'sʉko	a'sʉ	VERB	_	_	8	ccomp	_	AlignBegin=216820|AlignEnd=217235|GE=[Q]|Gloss=APPL1serve foodOBLQ|nWord=7|RX=[VERB]|TokenType=InflAff
-8	ʉnkey	y	VERB	_	_	0	root	_	AlignBegin=217235|AlignEnd=217547|GE=say|Gloss=MIDAPPL1say|nWord=8|RX=[VI]|TokenType=Root
-9	=ri	_	PART	_	_	8	advmod	_	AlignBegin=217547|AlignEnd=217653|GE=[TOP]|Gloss==TOP|nWord=8|RX=[PRT]|TokenType=Clit
 
 ~~~
 

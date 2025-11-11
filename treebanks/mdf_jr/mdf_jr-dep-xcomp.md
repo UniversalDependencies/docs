@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	мялезень	мяль	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	_	_
 3	петемс	петемс	VERB	V	VerbForm=Inf	5	xcomp	_	_
 4	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	_
+5	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	самолёткя	самолёт	NOUN	N	Case=Nom|Definite=Ind|Degree=Dim|Number=Sing	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -40,11 +40,11 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 8 xcomp	color:blue
 1	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	симсь	симомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
+2	симсь	симомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 3	чайда	чай	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	2	obj	_	GTtags=SP,Abl,Indef
 4	—	—	PUNCT	PUNCT	_	6	punct	_	_
 5	ведняське	ведь	NOUN	N	Case=Nom|Clitic=AddGA|Definite=Def|Degree=Dim|Number=Sing	6	nsubj	_	GTtags=Der/Dimin,N,Sg,Nom,Def,Foc
-6	марявсь	марявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	conj	_	GTtags=IV,Ind,Prt1,ScSg3
+6	марявсь	марявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	2	conj	_	GTtags=IV,Ind,Prt1,ScSg3
 7	танцти	танцти	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	8	amod	_	GTtags=Sg,Nom,Indef
 8	симомбялькс	симомбяль	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	6	xcomp	_	GTtags=SP,Tra,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_

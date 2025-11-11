@@ -7,21 +7,21 @@ udver: '2'
 ## Treebank Statistics: UD_Xavante-XDT: POS Tags: `DET`
 
 There are 5 `DET` lemmas (1%), 7 `DET` types (1%) and 71 `DET` tokens (3%).
-Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 10 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 10 in number of types and 9 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>hã, õ, ã, o, tahata</em>
 
 The 10 most frequent `DET` types:  <em>hã, õ, Tahata, o, Ãhã, Õhõ, ã</em>
 
-The 10 most frequent ambiguous lemmas: <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 48, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>o</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 49, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 4), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>o</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 50, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 4), <em>Ãhã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 51, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 5), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 4), <em>Ãhã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 1, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>hã</em>
-  * <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61: <em>Pi'õ te mo buru u . Tame te wapa aibö mreme <b>hã</b> .</em>
-  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 50: <em>wa norĩ <b>hã</b> wa te sawi õ di</em>
-  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3: <em>Õ <b>hã</b> te mo .</em>
+  * <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61: <em>Pi'õ te mo buru u , tame te wapa aibö mreme <b>hã</b> .</em>
+  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 51: <em>wa norĩ <b>hã</b> wa te sawi õ di</em>
+  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 5: <em>Õ <b>hã</b> te mo .</em>
 * <em>õ</em>
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22: <em>wa norĩ hã wa te sawi <b>õ</b> di</em>
   * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4: <em>Nimame dawedezé hã iwẽ uptabi hã we te sãmra <b>õ</b> di</em>
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.232409).
+The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.229787).
 
 The 1st highest number of forms (2) was observed with the lemma “ã”: <em>Ãhã, ã</em>.
 

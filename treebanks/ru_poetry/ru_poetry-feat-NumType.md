@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (103; 100% of non-empty `NumType`): <em>первый, I, первым, III, первая, пятый, II, второй, первые, первых</em>
-* `EMPTY` (5918): <em>тихий, белый, равно, золотые, милая, последний, черный, белые, лучше, хорошо</em>
+* `EMPTY` (5917): <em>тихий, белый, равно, золотые, милая, последний, черный, белые, лучше, хорошо</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (38) occur only with one value of `NumType`.
 

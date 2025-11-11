@@ -25,13 +25,13 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲧⲁⲗⲉ	ⲧⲁⲗⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲧⲁⲗⲉ	ⲧⲁⲗⲉ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
 6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(object
 7	ϫⲟⲉⲓ	ϫⲟⲉⲓ	NOUN	N	_	4	obl	_	Entity=object)
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
-10	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	4	parataxis	_	_
+10	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	Mood=Ind|VerbForm=Fin	4	parataxis	_	_
 11	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	NOUN	IMOD	_	10	obl:unmarked	_	_
 12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 13	ⲉ	ⲉ	ADP	PREP	_	15	case	_	_
@@ -52,7 +52,7 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3 9 parataxis	color:blue
 1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	3	aux	_	Orig=ⲛ̄ⲧⲉⲣⲉ
 2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Orig=ⲓ̈
-3	ⲙⲟϣⲧ	ⲙⲟϣⲧ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲙⲟϣⲧ︤
+3	ⲙⲟϣⲧ	ⲙⲟϣⲧ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲙⲟϣⲧ︤
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Orig=ϥ︥
 5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
 6	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	7	det	_	Entity=(time
@@ -61,7 +61,7 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 9	ⲏⲓ	ⲏⲓ	NOUN	N	_	3	parataxis	_	Entity=place)|Orig=ⲏⲓ̈
 10	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	12	aux	_	Orig=ⲙ̄ⲡ
 11	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-12	ϭⲛ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	9	parataxis	_	Orig=ϭ︤ⲛ︥
+12	ϭⲛ	ϭⲓⲛⲉ	VERB	V	Mood=Ind|VerbForm=Fin	9	parataxis	_	Orig=ϭ︤ⲛ︥
 13	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	12	obj	_	Entity=(object
 14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	Orig=ⲛ̄
 15	ⲉⲓⲇⲱⲗⲟⲛ	ⲉⲓⲇⲱⲗⲟⲛ	NOUN	N	Foreign=Yes	13	nmod	_	Entity=object)|OrigLang=grc
@@ -78,7 +78,7 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 12 parataxis	color:blue
-1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
+1	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲁ
 2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	ⲛⲁ	ⲛⲁ	ADP	PREP	_	4	case	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_

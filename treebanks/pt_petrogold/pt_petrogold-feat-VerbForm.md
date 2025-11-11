@@ -67,6 +67,9 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>ser</em></td><td><em>sido</em></td><td><em>sendo</em></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td></td><td></td><td></td><td><em>sendo</em></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt></tt></td><td></td><td></td><td></td><td><em>sendo</em></td></tr>
+  <tr><td><tt><tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt>|<tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>é</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>sido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>seria</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>seriam</em></td><td></td><td></td><td></td></tr>

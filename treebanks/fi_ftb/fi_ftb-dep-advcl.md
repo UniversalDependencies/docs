@@ -57,7 +57,7 @@ The following 42 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	paavillisempi	paavillinen	ADJ	A,Cmp,Sg,Nom	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	_
 2	kuin	kuin	SCONJ	Pcle,CS	_	3	mark	_	FTB-Sub=comparator
 3	paavi	paavi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	1	advcl	_	FTB-Sub=comparison
-4	itse	itse	PRON	Pron,Refl,Sg,Nom	Case=Nom|Number=Sing|Reflex=Yes	3	nmod	_	_
+4	itse	itse	PRON	Pron,Refl,Sg,Nom	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	3	nmod	_	_
 
 ~~~
 

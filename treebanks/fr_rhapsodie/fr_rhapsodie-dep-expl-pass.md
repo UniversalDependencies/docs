@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 expl:pass	color:blue
-1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
-2	se	soi	PRON	_	Person=3|PronType=Prs	3	expl:pass	_	_
-3	saurait	savoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	AlignBegin=81185|AlignEnd=81375
+2	se	soi	PRON	_	Person=3|PronType=Prs	3	expl:pass	_	AlignBegin=81375|AlignEnd=81465
+3	saurait	savoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=81465|AlignEnd=81755|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	AlignBegin=81755|AlignEnd=81755
 
 ~~~
 

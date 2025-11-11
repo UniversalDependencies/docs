@@ -73,7 +73,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PART` tokens may have the following values of `Foreign`:
 
 * `Yes` (14; 100% of non-empty `Foreign`): <em>La, das, des, non, Le, el, quo, Al</em>
-* `EMPTY` (3418): <em>jen, li, až, nejen, to, asi, ovšem, ne, jenom, přece</em>
+* `EMPTY` (3415): <em>jen, li, až, nejen, to, asi, ovšem, ne, jenom, přece</em>
 
 ### `X`
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>explicite, quo, defacto, expost, innuce, ipsofacto, theory</em>
-* `EMPTY` (28080): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
+* `EMPTY` (28066): <em>tak, také, jak, proto, již, už, ještě, pak, kde, tedy</em>
 
 ### `PRON`
 
@@ -103,7 +103,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>eo, ipso, Tous, er, qua, they</em>
-* `EMPTY` (15975): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
+* `EMPTY` (15978): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
 
 ### `VERB`
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>sui, hoc, quem</em>
-* `EMPTY` (19806): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19805): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `CCONJ`
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>et, and</em>
-* `EMPTY` (24216): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
+* `EMPTY` (24212): <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
 
 ## Relations with Agreement in `Foreign`
 

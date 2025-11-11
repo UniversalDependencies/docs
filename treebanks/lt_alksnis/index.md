@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Andrius Utka, Erika Rimkutė, Agnė Bielinskienė, Jolanta Kovalevskaitė, Loïc Boizou, Gabrielė Aleksandravičiūtė, Kristina Brokaitė, Daniel Zeman, Natalia Perkova, Bernadeta Griciūtė.
 
 Repository: [UD_Lithuanian-ALKSNIS](https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -103,7 +103,7 @@ doi:10.3233/978-1-61499-701-6-107
 
 ## Relations
 
-[acl](lt_alksnis-dep-acl.html) – [acl:relcl](lt_alksnis-dep-acl-relcl.html) – [advcl](lt_alksnis-dep-advcl.html) – [advmod](lt_alksnis-dep-advmod.html) – [advmod:emph](lt_alksnis-dep-advmod-emph.html) – [amod](lt_alksnis-dep-amod.html) – [appos](lt_alksnis-dep-appos.html) – [case](lt_alksnis-dep-case.html) – [cc](lt_alksnis-dep-cc.html) – [ccomp](lt_alksnis-dep-ccomp.html) – [compound](lt_alksnis-dep-compound.html) – [conj](lt_alksnis-dep-conj.html) – [cop](lt_alksnis-dep-cop.html) – [csubj](lt_alksnis-dep-csubj.html) – [csubj:pass](lt_alksnis-dep-csubj-pass.html) – [dep](lt_alksnis-dep-dep.html) – [det](lt_alksnis-dep-det.html) – [discourse](lt_alksnis-dep-discourse.html) – [flat](lt_alksnis-dep-flat.html) – [flat:foreign](lt_alksnis-dep-flat-foreign.html) – [iobj](lt_alksnis-dep-iobj.html) – [mark](lt_alksnis-dep-mark.html) – [nmod](lt_alksnis-dep-nmod.html) – [nsubj](lt_alksnis-dep-nsubj.html) – [nsubj:pass](lt_alksnis-dep-nsubj-pass.html) – [nummod](lt_alksnis-dep-nummod.html) – [nummod:gov](lt_alksnis-dep-nummod-gov.html) – [obj](lt_alksnis-dep-obj.html) – [obl](lt_alksnis-dep-obl.html) – [obl:arg](lt_alksnis-dep-obl-arg.html) – [orphan](lt_alksnis-dep-orphan.html) – [parataxis](lt_alksnis-dep-parataxis.html) – [punct](lt_alksnis-dep-punct.html) – [root](lt_alksnis-dep-root.html) – [xcomp](lt_alksnis-dep-xcomp.html)
+[acl](lt_alksnis-dep-acl.html) – [acl:relcl](lt_alksnis-dep-acl-relcl.html) – [advcl](lt_alksnis-dep-advcl.html) – [advcl:pred](lt_alksnis-dep-advcl-pred.html) – [advmod](lt_alksnis-dep-advmod.html) – [advmod:emph](lt_alksnis-dep-advmod-emph.html) – [amod](lt_alksnis-dep-amod.html) – [appos](lt_alksnis-dep-appos.html) – [case](lt_alksnis-dep-case.html) – [cc](lt_alksnis-dep-cc.html) – [ccomp](lt_alksnis-dep-ccomp.html) – [compound](lt_alksnis-dep-compound.html) – [conj](lt_alksnis-dep-conj.html) – [cop](lt_alksnis-dep-cop.html) – [csubj](lt_alksnis-dep-csubj.html) – [csubj:pass](lt_alksnis-dep-csubj-pass.html) – [dep](lt_alksnis-dep-dep.html) – [det](lt_alksnis-dep-det.html) – [discourse](lt_alksnis-dep-discourse.html) – [flat](lt_alksnis-dep-flat.html) – [iobj](lt_alksnis-dep-iobj.html) – [mark](lt_alksnis-dep-mark.html) – [nmod](lt_alksnis-dep-nmod.html) – [nsubj](lt_alksnis-dep-nsubj.html) – [nsubj:pass](lt_alksnis-dep-nsubj-pass.html) – [nummod](lt_alksnis-dep-nummod.html) – [nummod:gov](lt_alksnis-dep-nummod-gov.html) – [obj](lt_alksnis-dep-obj.html) – [obl](lt_alksnis-dep-obl.html) – [obl:arg](lt_alksnis-dep-obl-arg.html) – [orphan](lt_alksnis-dep-orphan.html) – [parataxis](lt_alksnis-dep-parataxis.html) – [punct](lt_alksnis-dep-punct.html) – [root](lt_alksnis-dep-root.html) – [xcomp](lt_alksnis-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -956,20 +956,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Dat (7)</li>
       <li>VERB-Fin--NOUN-Gen (19)</li>
-      <li>VERB-Fin--NOUN-Nom (1564)</li>
+      <li>VERB-Fin--NOUN-Nom (1562)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(iš) (1)</li>
       <li>VERB-Fin--PRON (6)</li>
       <li>VERB-Fin--PRON-Dat (2)</li>
-      <li>VERB-Fin--PRON-Nom (383)</li>
+      <li>VERB-Fin--PRON-Nom (381)</li>
       <li>VERB-Ger--NOUN-Dat (2)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (4)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Nom (317)</li>
+      <li>VERB-Part--NOUN-Nom (299)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Nom (43)</li>
+      <li>VERB-Part--PRON-Nom (42)</li>
     </ul>
   </li>
 </ul>
@@ -981,15 +981,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (4)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (803)</li>
+      <li>VERB-Fin--NOUN-Acc (802)</li>
       <li>VERB-Fin--NOUN-Nom (7)</li>
       <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Fin--PRON-Acc (142)</li>
+      <li>VERB-Fin--PRON-Acc (141)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Ger--NOUN-Acc (216)</li>
       <li>VERB-Ger--PRON-Acc (4)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (771)</li>
+      <li>VERB-Inf--NOUN-Acc (770)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (77)</li>
@@ -1006,6 +1006,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Acc (2)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
     </ul>
   </li>
@@ -1022,6 +1023,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

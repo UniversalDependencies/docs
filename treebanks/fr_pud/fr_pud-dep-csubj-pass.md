@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_pud-dep-csubj.html">csubj</a></tt>.
 
-1 nodes (0%) are attached to their parents as `csubj:pass`.
+2 nodes (0%) are attached to their parents as `csubj:pass`.
 
-1 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
+2 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.
 
-The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

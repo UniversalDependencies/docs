@@ -25,12 +25,12 @@ The following 4 pairs of parts of speech are connected with `advmod`: <tt><a hre
 1	Wapté	wapté	NOUN	n	_	3	nsubj	_	teenager;adolescente
 2	te	te	AUX	aux	Person=Non1	3	dep	_	_
 3	wara	wara	VERB	v	_	0	root	_	run;correr
-4	.	.	PUNCT	punct	_	3	punct	_	_
-5	Tsa'ẽtẽ	sa'ẽtẽ	ADV	adv	_	7	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	sa'ẽtẽ	sa'ẽtẽ	ADV	adv	_	7	advmod	_	in.a.hurry,quickly,loud;depressa,em.voz.alta
 6	te	te	AUX	aux	Person=Non1	7	dep	_	_
 7	wara	wara	VERB	v	_	3	parataxis	_	run;correr
-8	.	.	PUNCT	punct	_	7	punct	_	_
-9	Uhödö	uhödö	NOUN	n	_	11	nsubj	_	tapir;anta
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	uhödö	uhödö	NOUN	n	_	11	nsubj	_	tapir;anta
 10	te	te	AUX	aux	Person=Non1	11	dep	_	_
 11	wara	wara	VERB	v	_	3	parataxis	_	run;correr
 12	.	.	PUNCT	punct	_	11	punct	_	_

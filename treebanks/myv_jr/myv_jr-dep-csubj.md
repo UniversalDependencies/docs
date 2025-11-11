@@ -25,10 +25,10 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3 6 csubj	color:blue
 1	Мелезэст	мель	NOUN	N	Case=Ill|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	3	obl	_	CGdephead=#1-&gt;3|CGdeprel=@ADVL&gt;|CGdephead=#1-&gt;3|CGdeprel=@ADVL&gt;|GTtags=SP,Ill,PxPl3
 2	а	а	AUX	V	Polarity=Neg|VerbType=Aux	3	aux	_	CGdephead=#2-&gt;0|CGdeprel=@IAUX|CGdephead=#2-&gt;0|CGdeprel=@IAUX|GTtags=Aux,Neg
-3	сы	самс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#3-&gt;0|CGdeprel=@FMV|CGdephead=#3-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg3|SpaceAfter=No
+3	сы	самс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	CGdephead=#3-&gt;0|CGdeprel=@FMV|CGdephead=#3-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=CLB
 5	кие	кие	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	CGdephead=#5-&gt;6|CGdeprel=@SUBJ&gt;|CGdephead=#5-&gt;6|CGdeprel=@SUBJ&gt;|GTtags=Rel,Sg,Nom
-6	сёрмадызе	сёрмадомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	3	csubj	_	CGdephead=#6-&gt;3|CGdeprel=@FS-N&lt;|CGdephead=#6-&gt;3|CGdeprel=@FS-N&lt;|GTtags=Ind,Prt1,ScSg3,OcSg3|SpaceAfter=No
+6	сёрмадызе	сёрмадомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	3	csubj	_	CGdephead=#6-&gt;3|CGdeprel=@FS-N&lt;|CGdephead=#6-&gt;3|CGdeprel=@FS-N&lt;|GTtags=Ind,Prt1,ScSg3,OcSg3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	CGdephead=#7-&gt;2|CGdeprel=@X|CGdephead=#7-&gt;2|CGdeprel=@X|GTtags=CLB
 
 ~~~
@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 3 csubj	color:blue
 1	Стака	стака	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
-2	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	1	cop	_	GTtags=IV,Ind,Prt1,ScSg3
+2	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	1	cop	_	GTtags=IV,Ind,Prt1,ScSg3
 3	велявтомс	велявтомс	VERB	V	VerbForm=Inf	1	csubj	_	GTtags=IV,Inf
 4	вейке	вейке	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	5	nummod	_	GTtags=Card,Sg,Nom,Indef
 5	бока	бока	NOUN	N	Case=Nom|Definite=Ind|NounType=Relat|Number=Sing	6	nmod	_	GTtags=Relator,Sg,Nom,Indef

@@ -36,7 +36,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (20; 100% of non-empty `Foreign`): <em>the, a, El, Le, Los, Nostrum, That, al, las, una</em>
-* `EMPTY` (3086): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
+* `EMPTY` (3075): <em>der, die, dem, den, das, eine, des, ein, einer, einem</em>
 
 ### `ADP`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>of, de, On, Over, a</em>
-* `EMPTY` (2034): <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
+* `EMPTY` (2098): <em>in, von, zu, an, mit, auf, für, nach, bei, aus</em>
 
 ### `VERB`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>like, Breaking, Buck, Go, Knew, Knuck, Metti, Thought</em>
-* `EMPTY` (1970): <em>sagte, ist, an, hat, haben, gibt, wurde, sagt, auf, begann</em>
+* `EMPTY` (1862): <em>sagte, ist, hat, haben, gibt, wurde, sagt, begann, war, hatte</em>
 
 ### `PRON`
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Now, anyway</em>
-* `EMPTY` (1049): <em>auch, so, noch, nur, sehr, mehr, jedoch, wie, davon, immer</em>
+* `EMPTY` (1104): <em>auch, so, noch, nur, sehr, mehr, wieder, davon, jedoch, wie</em>
 
 ### `AUX`
 

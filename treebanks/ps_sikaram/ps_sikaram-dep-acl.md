@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="ps_sikaram-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-21 nodes (1%) are attached to their parents as `acl`.
+33 nodes (1%) are attached to their parents as `acl`.
 
-21 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.3809523809524.
+28 instances of `acl` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.21212121212121.
 
-The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (8; 38% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (8; 38% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 14% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 10% instances).
+The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (15; 45% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (13; 39% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 9% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 6% instances).
 
 
 ~~~ conllu
@@ -25,8 +25,8 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2 12 acl	color:blue
 1	دولت	دولت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=dawlát|LTranslit=dawlát|Gloss=state
 2	اجازه	اجازه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	Translit=iǰâzá|LTranslit=iǰâzá|Gloss=permission
-3	نه	نۀ	PART	_	Polarity=Neg	4	advmod	_	Translit=në|LTranslit=në|Gloss=no
-4	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=warkawí|LTranslit=warkawë́l|Gloss=gives|SpaceAfter=No
+3	نه	نۀ	PART	_	Polarity=Neg	4	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+4	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=warkawi|LTranslit=warkawë́l|Gloss=gives|SpaceAfter=No
 5	،	،	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,|Gloss=,
 6	چې	چې	SCONJ	_	_	12	mark	_	Translit=če|LTranslit=če|Gloss=that
 7	کومه	کوم	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	Translit=kúma|LTranslit=kum|Gloss=any
@@ -36,43 +36,32 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 11	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	12	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 12	واړول	اړول	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	2	acl	_	Translit=wâṛawë́l|LTranslit=aṛawë́l|Gloss=changed
 13	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	12	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.
+14	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 25 acl	color:blue
-1	زموږ	زموږ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod	_	Translit=zmuǧ|LTranslit=zmuǧ|Gloss=our
-2	موخه	موخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=múxa|LTranslit=múxa|Gloss=purpose
-3	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
-4	ژباړې	ژباړه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Translit=žbấṛe|LTranslit=žbấṛa|Gloss=translation
-5	له	له	ADP	_	Case=Abl	6	case	_	Translit=la|LTranslit=la|Gloss=from
-6	اړخه	اړخ	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	Translit=áṛxa|LTranslit=aṛx|Gloss=side
-7	د	د	ADP	_	Case=Acc	8	case	_	Translit=dë|LTranslit=dë|Gloss=of
-8	پښتو	پښتو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
-9	پیاوړي	پیاوړی	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	10	xcomp	_	Translit=pyâwë́ṛi|LTranslit=pyâwë́ṛay|Gloss=strong
-10	کول	کول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	2	nsubj	_	Translit=kawë́l|LTranslit=kawë́l|Gloss=do
-11	دي	ول	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=di|LTranslit=wël|Gloss=are|SpaceAfter=No
-12	،	،	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,|Gloss=,
-13	غوره	غوره	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=ġwë́ra|LTranslit=ġwë́ra|Gloss=great
-14	به	بۀ	AUX	_	_	13	aux:fut	_	Translit=bë|LTranslit=bë|Gloss=would
-15	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	13	nsubj	_	Translit=dâ|LTranslit=dâ|Gloss=this
-16	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	13	cop	_	Translit=wi|LTranslit=wël|Gloss=be|SpaceAfter=No
-17	،	،	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,|Gloss=,
-18	چې	چې	SCONJ	_	_	25	mark	_	Translit=če|LTranslit=če|Gloss=that
-19	پر	پر	ADP	_	Case=Loc	21	case	_	Translit=për|LTranslit=për|Gloss=on
-20	نورو	نور	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	21	amod	_	Translit=nóro|LTranslit=nor|Gloss=other
-21	خواوو	خوا	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	25	obl	_	Translit=xwấwo|LTranslit=xwâ|Gloss=sides
-22	زياتې	زيات	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	23	amod	_	Translit=zyấte|LTranslit=zyât|Gloss=more
-23	څرګندونې	څرګندونه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	25	obj	_	Translit=cërgandawë́ne|LTranslit=cërgandawë́na|Gloss=research
-24	ونه	ونۀ	AUX	_	Aspect=Perf|Polarity=Neg	25	aux	_	Translit=wënë́|LTranslit=wënë́|Gloss=not
-25	کړو	کول	VERB	_	Mood=Sub|Number=Plur|Person=1|VerbForm=Fin	15	acl	_	Translit=kṛu|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-26	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.|Gloss=.
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 10 acl	color:blue
+1	د	د	ADP	_	Case=Acc	2	case	_	Translit=dë|LTranslit=dë|Gloss=of
+2	ژباړن	ژباړن	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	Translit=žbâṛán|LTranslit=žbâṛán|Gloss=translator
+3	موخه	موخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=móxa|LTranslit=móxa|Gloss=intention
+4	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	3	nsubj	_	Translit=dâ|LTranslit=dâ|Gloss=this
+5	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	3	cop	_	Translit=wi|LTranslit=wël|Gloss=is|SpaceAfter=No
+6	،	،	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,|Gloss=,
+7	چې	چې	SCONJ	_	_	10	mark	_	Translit=če|LTranslit=če|Gloss=that
+8	وحید	وحید	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=wahíd|LTranslit=wahíd|Gloss=Wahid
+9	راولاړ	راولاړ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	compound:lvc	_	Translit=râwalấṛ|LTranslit=râwalấṛ|Gloss=standing-up
+10	شو	کېدل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	Translit=šu|LTranslit=kedë́l|Gloss=became|SpaceAfter=No
+11	،	،	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,|Gloss=,
+12	احمد	احمد	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	obj	_	Translit=ahmád|LTranslit=ahmád|Gloss=Ahmad
+13	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	14	nsubj	_	Translit=ye|LTranslit=ye|Gloss=he
+14	وواهه	وهل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	Translit=wë́wâhë|LTranslit=wahë́l|Gloss=beat|SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -85,7 +74,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3 10 acl	color:blue
 1	ستره	ستر	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	Translit=stë́ra|LTranslit=stër|Gloss=big
 2	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=stúnza|LTranslit=stúnza|Gloss=problem
-3	همدغه	همدغه	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	2	nsubj	_	Translit=hamdáġa|LTranslit=hamdáġa|Gloss=this
+3	همدغه	همدغه	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	2	nsubj	_	Translit=hamdáġa|LTranslit=hamdáġa|Gloss=this
 4	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=da|LTranslit=wël|Gloss=is
 5	چې	چې	SCONJ	_	_	10	mark	_	Translit=če|LTranslit=če|Gloss=that
 6	کله	کله	ADV	_	ExtPos=ADV	10	advmod	_	Translit=kë́la|LTranslit=kë́la|Gloss=when|SpaceAfter=No
@@ -111,7 +100,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 26	اثر	اثر	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	Translit=asár|LTranslit=asár|Gloss=work
 27	که	کۀ	SCONJ	_	_	30	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 28	په	پۀ	ADP	_	Case=Loc	30	case	_	Translit=pë|LTranslit=pë|Gloss=at
-29	هره	هر	DET	_	Case=Loc|Gender=Fem|Number=Sing	30	det	_	Translit=hára|LTranslit=har|Gloss=each
+29	هره	هر	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	30	det	_	Translit=hára|LTranslit=har|Gloss=each
 30	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	38	advcl	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 31	کې	کې	ADP	_	Case=Loc	30	case	_	Translit=ke|LTranslit=ke|Gloss=in
 32	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	30	cop	_	Translit=wi|LTranslit=wël|Gloss=is|SpaceAfter=No
@@ -124,7 +113,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 39	او	او	CCONJ	_	_	40	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 40	پټ	پټ	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	38	conj	_	Translit=pëṭ|LTranslit=pëṭ|Gloss=hidden
 41	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	38	cop	_	Translit=wi|LTranslit=wël|Gloss=is|SpaceAfter=No
-42	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.|Gloss=
+42	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

@@ -113,7 +113,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 18262 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15010; 82%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9792; 54%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15012; 82%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9792; 54%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -216,10 +216,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="la_llct-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7012; 58%),
 <tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (6799; 96%),
 <tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6323; 99%),
-<tt>NOUN --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6225; 77%),
+<tt>NOUN --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6227; 77%),
 <tt>NOUN --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (5787; 95%),
 <tt>PROPN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> PRON</tt> (4782; 98%),
-<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4334; 78%),
+<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4336; 78%),
 <tt>VERB --[<tt><a href="la_llct-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (4117; 85%),
 <tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (3823; 85%).
 

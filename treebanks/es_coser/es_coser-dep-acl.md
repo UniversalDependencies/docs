@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 7	te	tú	PRON	pc2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obj	_	_
 8	ponían	poner	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	reparandum	_	_
 9	pues	pues	SCONJ	cs	_	13	discourse	_	_
-10	a	a	ADP	sps00	_	13	advmod	_	_
+10	a	a	ADP	sps00	ExtPos=ADV	13	advmod	_	_
 11	veces	vez	NOUN	ncfp000	Gender=Fem|Number=Plur	10	fixed	_	_
 12	te	tú	PRON	pc2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	13	obj	_	_
 13	ponían	poner	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_

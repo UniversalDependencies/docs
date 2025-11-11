@@ -22,15 +22,15 @@ The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 parataxis	color:blue
-1	Да	да	ADV	Df	_	2	advmod	_	ref=106.2
-2	рекѫтъ	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=106.2
-3	избавленіі	избавити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	nsubj	_	ref=106.2
-4	гм҃ъ	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl:agent	_	ref=106.2
-5	ѩже	иже	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	6	obj	_	ref=106.2
-6	избаві	избавити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	ref=106.2
-7	из-д	из	ADP	R-	_	8	case	_	ref=106.2
-8	рѫкъі	рѫка	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	ref=106.2
-9	вражьеѩ	вражии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	ref=106.2
+1	Да	да	ADV	Df	_	2	advmod	_	Ref=106.2
+2	рекѫтъ	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=106.2
+3	избавленіі	избавити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	nsubj	_	Ref=106.2
+4	гм҃ъ	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl:agent	_	Ref=106.2
+5	ѩже	иже	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	6	obj	_	Ref=106.2
+6	избаві	избавити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	Ref=106.2
+7	из-д	из	ADP	R-	_	8	case	_	Ref=106.2
+8	рѫкъі	рѫка	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	Ref=106.2
+9	вражьеѩ	вражии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	Ref=106.2
 
 ~~~
 
@@ -41,16 +41,16 @@ The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 parataxis	color:blue
-1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=LUKE_8.30
-2	же	же	ADV	Df	_	3	discourse	_	ref=LUKE_8.30
-3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_8.30
-4	леꙉеонъ	легеонъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	ref=LUKE_8.30
-5	ѣко	ꙗко	SCONJ	G-	_	8	mark	_	ref=LUKE_8.30
-6	бѣси	бѣсъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=LUKE_8.30
-7	мъноѕи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	6	amod	_	ref=LUKE_8.30
-8	вънидѫ	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=LUKE_8.30
-9	во	въ	ADP	R-	_	10	case	_	ref=LUKE_8.30
-10	нь	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	ref=LUKE_8.30
+1	онъ	онъ	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=LUKE_8.30
+2	же	же	ADV	Df	_	3	discourse	_	Ref=LUKE_8.30
+3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_8.30
+4	леꙉеонъ	легеонъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	Ref=LUKE_8.30
+5	ѣко	ꙗко	SCONJ	G-	_	8	mark	_	Ref=LUKE_8.30
+6	бѣси	бѣсъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	Ref=LUKE_8.30
+7	мъноѕи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	6	amod	_	Ref=LUKE_8.30
+8	вънидѫ	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	Ref=LUKE_8.30
+9	во	въ	ADP	R-	_	10	case	_	Ref=LUKE_8.30
+10	нь	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	Ref=LUKE_8.30
 
 ~~~
 
@@ -61,11 +61,11 @@ The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 parataxis	color:blue
-1	Законъ	законъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=18.8
-2	гн҃ъ	господьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	amod	_	ref=18.8
-3	непореченъ	непорочьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=18.8
-4	обраштаѩі	обращати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	parataxis	_	ref=18.8
-5	дш҃ѩ	доуша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	ref=18.8
+1	Законъ	законъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Ref=18.8
+2	гн҃ъ	господьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	amod	_	Ref=18.8
+3	непореченъ	непорочьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	Ref=18.8
+4	обраштаѩі	обращати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	parataxis	_	Ref=18.8
+5	дш҃ѩ	доуша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	Ref=18.8
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24079 nodes (14%) are attached to their parents as `det`.
+24123 nodes (14%) are attached to their parents as `det`.
 
-24024 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09352547863283.
+24068 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09339634373834.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (20411; 85% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (3393; 14% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (121; 1% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (81; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (59; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (20338; 84% instances), <tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (3393; 14% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (156; 1% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (121; 1% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (101; 0% instances), <tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,19 +66,22 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	Em	em	ADP	_	_	3	case	3:case	_
-2	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Ind	3	det	3:det	_
-3	eles	ele	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl	6:obl:em	_
-4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	5:det	_
-5	lei	lei	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
-6	determina	determinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-7	reclusão	reclusão	NOUN	_	Gender=Fem|Number=Sing	6	obj	6:obj	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	6:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det	color:blue
+1	Deputado	deputado	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	3:nsubj|8:nsubj|9:nsubj	_
+2	que	que	PRON	_	PronType=Rel	3	nsubj	1:ref	_
+3	propôs	propor	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
+4	censura	censura	NOUN	_	Gender=Fem|Number=Sing	3	obj	3:obj	_
+5	a	a	ADP	_	_	7	case	7:case	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	_
+7	internet	internet	X	_	Foreign=Yes	4	nmod	4:nmod:a	_
+8	quer	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+9	regular	regular	VERB	_	VerbForm=Inf	8	xcomp	8:xcomp	_
+10	bitcoin	bitcoin	X	_	Foreign=Yes	9	obj	9:obj	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 

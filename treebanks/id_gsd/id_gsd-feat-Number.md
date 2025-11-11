@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-24557 tokens (20%) have a non-empty value of `Number`.
+24553 tokens (20%) have a non-empty value of `Number`.
 3886 types (20%) occur at least once with a non-empty value of `Number`.
 2552 lemmas (16%) occur at least once with a non-empty value of `Number`.
-The feature is used with 3 part-of-speech tags: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (21243; 17% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (2860; 2% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (454; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (21243; 17% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (2856; 2% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (454; 0% instances).
 
 ### `NOUN`
 
@@ -31,15 +31,15 @@ The feature is used with 3 part-of-speech tags: <tt><a href="id_gsd-pos-NOUN.htm
 
 ### `PRON`
 
-2860 <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> tokens (45% of all `PRON` tokens) have a non-empty value of `Number`.
+2856 <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> tokens (45% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="id_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2819; 99%), <tt><a href="id_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (2473; 86%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="id_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2815; 99%), <tt><a href="id_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (2469; 86%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (466; 16% of non-empty `Number`): <em>mereka, kita, kami, kalian, apa-apa, beberapa</em>
-* `Sing` (2394; 84% of non-empty `Number`): <em>nya, ia, dia, ku, kamu, aku, mu, engkau, seseorang, beliau</em>
-* `EMPTY` (3562): <em>yang, apa, diri, siapa, mana, itu, demikian, semua, ini, sini</em>
+* `Sing` (2390; 84% of non-empty `Number`): <em>nya, ia, dia, ku, kamu, aku, mu, engkau, seseorang, beliau</em>
+* `EMPTY` (3552): <em>yang, apa, diri, siapa, mana, itu, demikian, semua, ini, sini</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `Number`.
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (453; 100% of non-empty `Number`): <em>beberapa, para, berbagai, banyak, sejumlah, kebanyakan, serangkaian, aneka, beragam, sekelompok</em>
 * `Sing` (1; 0% of non-empty `Number`): <em>sesuatu</em>
-* `EMPTY` (3165): <em>ini, itu, sebuah, tersebut, nya, seorang, suatu, semua, setiap, seluruh</em>
+* `EMPTY` (3174): <em>ini, itu, sebuah, tersebut, nya, seorang, suatu, semua, setiap, seluruh</em>
 
 `Number` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Number`.
 
@@ -61,13 +61,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="id_gsd-dep-compound.html">compound</a></tt>]--> NOUN</tt> (4094; 66%),
-<tt>NOUN --[<tt><a href="id_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1557; 66%),
-<tt>NOUN --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (964; 69%),
+<tt>NOUN --[<tt><a href="id_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1559; 66%),
+<tt>NOUN --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (966; 69%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (964; 71%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (123; 64%),
-<tt>NOUN --[<tt><a href="id_gsd-dep-amod.html">amod</a></tt>]--> NOUN</tt> (77; 62%),
-<tt>NOUN --[<tt><a href="id_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt>]--> NOUN</tt> (50; 74%),
-<tt>NOUN --[<tt><a href="id_gsd-dep-acl.html">acl</a></tt>]--> NOUN</tt> (31; 72%),
+<tt>NOUN --[<tt><a href="id_gsd-dep-amod.html">amod</a></tt>]--> NOUN</tt> (76; 61%),
+<tt>NOUN --[<tt><a href="id_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt>]--> NOUN</tt> (51; 74%),
+<tt>NOUN --[<tt><a href="id_gsd-dep-acl.html">acl</a></tt>]--> NOUN</tt> (32; 73%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-clf.html">clf</a></tt>]--> NOUN</tt> (11; 100%),
 <tt>NOUN --[<tt><a href="id_gsd-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (8; 53%).
 

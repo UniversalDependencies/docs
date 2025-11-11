@@ -20,7 +20,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.h
 
 31 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Gender[subj]`.
 
-The most frequent other feature values with which `VERB` and `Gender[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (31; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (30; 97%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (30; 97%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (26; 84%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (26; 84%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (26; 84%).
+The most frequent other feature values with which `VERB` and `Gender[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (31; 100%), <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30; 97%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (30; 97%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (30; 97%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30; 97%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (26; 84%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (26; 84%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (26; 84%).
 
 `VERB` tokens may have the following values of `Gender[subj]`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Gender[subj]` co-o
 
 9 <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Gender[subj]`.
 
-The most frequent other feature values with which `AUX` and `Gender[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (9; 100%).
+The most frequent other feature values with which `AUX` and `Gender[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (9; 100%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9; 100%).
 
 `AUX` tokens may have the following values of `Gender[subj]`:
 

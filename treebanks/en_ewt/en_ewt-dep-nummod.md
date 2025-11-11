@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1877 nodes (1%) are attached to their parents as `nummod`.
+1794 nodes (1%) are attached to their parents as `nummod`.
 
-1582 instances of `nummod` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42088438998402.
+1499 instances of `nummod` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39353400222965.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1439; 77% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (342; 18% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (75; 4% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1413; 79% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (342; 19% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (20; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (17; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	in	in	ADP	IN	_	14	case	14:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
 9	$	$	SYM	$	_	14	compound	14:compound	SpaceAfter=No
-10	3,	3000	NUM	CD	NumForm=Digit|NumType=Card|Typo=Yes	9	nummod	9:nummod	CorrectForm=3,000|MissingSpaceAfter=Yes|SpaceAfter=No
+10	3,	3000	NUM	CD	NumForm=Digit|NumType=Card|Typo=Yes	9	nummod	9:nummod	CorrectForm=3,000|SpaceAfter=No
 11	to	to	ADP	IN	_	12	case	12:case	_
 12	$	$	SYM	$	_	9	nmod	9:nmod:to	SpaceAfter=No
 13	5,000	5000	NUM	CD	NumForm=Digit|NumType=Card	12	nummod	12:nummod	_

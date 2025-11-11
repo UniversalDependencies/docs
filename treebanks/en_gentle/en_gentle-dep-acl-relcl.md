@@ -59,7 +59,7 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 acl:relcl	color:blue
-1	But	but	CCONJ	CC	_	3	cc	3:cc	Discourse=causal-cause:9->14:2:dm-and-103|PDTB=Explicit:Comparison.Concession.Arg2-as-denier:but:71:54-70:72-82
+1	But	but	CCONJ	CC	_	3	cc	3:cc	Discourse=causal-cause:9->14:2:dm-and-103-_|PDTB=Explicit:Comparison.Concession.Arg2-as-denier:but:71:54-70:72-82
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	Entity=(10-abstract-new-sssss-cf1-2-disc(11-person-acc:com-nnnnn-cf2-1-ana)
 3	loved	love	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	MSeg=lov-ed
 4	with	with	ADP	IN	_	6	case	6:case	_

@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.211538 (the average of all parts of speech is 1.452422).
+The form / lemma ratio of `ADP` is 1.211538 (the average of all parts of speech is 1.452383).
 
 The 1st highest number of forms (4) was observed with the lemma “de”: <em>de, des, e, se</em>.
 
@@ -74,7 +74,13 @@ The 2nd highest number of forms (3) was observed with the lemma “a”: <em>a, 
 
 The 3rd highest number of forms (2) was observed with the lemma “até”: <em>ate, até</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt> (1448; 3% instances)
+
+`ADP` occurs with 4 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`
+
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (41837 tokens).
+Examples: <em>de, em, a, para, por, com, como, entre, sobre, até</em>
 
 
 ## Relations

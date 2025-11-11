@@ -22,11 +22,11 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=76.15
-2	есі	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=76.15
-3	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=76.15
-4	творѩї	творити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	ref=76.15
-5	чюдеса	чоудо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	ref=76.15
+1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Ref=76.15
+2	есі	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Ref=76.15
+3	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=76.15
+4	творѩї	творити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	Ref=76.15
+5	чюдеса	чоудо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	Ref=76.15
 
 ~~~
 
@@ -37,16 +37,16 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 cop	color:blue
-1	Рѫкама	рѫка	NOUN	Nb	Case=Ins|Gender=Fem|Number=Dual	4	orphan	_	ref=76.3
-2	моіма	рѫка	DET	Ps	Case=Ins|Gender=Fem|Number=Dual|Person=1|Poss=Yes	1	det	_	ref=76.3
-3	ноштьѭ	нощь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	4	orphan	_	ref=76.3
-4	оутѣшеніе	оутѣшениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=76.3
-5	прѣдъ	прѣдъ	ADP	R-	_	6	case	_	ref=76.3
-6	німь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	orphan	_	ref=76.3
-7	і	и	CCONJ	C-	_	9	cc	_	ref=76.3
-8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	ref=76.3
-9	прѣльштенъ	прѣльстити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	ref=76.3
-10	бꙑхъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=76.3
+1	Рѫкама	рѫка	NOUN	Nb	Case=Ins|Gender=Fem|Number=Dual	4	orphan	_	Ref=76.3
+2	моіма	рѫка	DET	Ps	Case=Ins|Gender=Fem|Number=Dual|Person=1|Poss=Yes	1	det	_	Ref=76.3
+3	ноштьѭ	нощь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	4	orphan	_	Ref=76.3
+4	оутѣшеніе	оутѣшениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	Ref=76.3
+5	прѣдъ	прѣдъ	ADP	R-	_	6	case	_	Ref=76.3
+6	німь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	orphan	_	Ref=76.3
+7	і	и	CCONJ	C-	_	9	cc	_	Ref=76.3
+8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	Ref=76.3
+9	прѣльштенъ	прѣльстити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	Ref=76.3
+10	бꙑхъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	Ref=76.3
 
 ~~~
 
@@ -57,12 +57,12 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 cop	color:blue
-1	Подвіжа	подвижати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=76.19
-2	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	ref=76.19
-3	ї	и	CCONJ	C-	_	4	cc	_	ref=76.19
-4	трепетьна	трепетьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	1	conj	_	ref=76.19
-5	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	ref=76.19
-6	землѣ	землꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=76.19
+1	Подвіжа	подвижати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=76.19
+2	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=76.19
+3	ї	и	CCONJ	C-	_	4	cc	_	Ref=76.19
+4	трепетьна	трепетьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	1	conj	_	Ref=76.19
+5	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	Ref=76.19
+6	землѣ	землꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=76.19
 
 ~~~
 

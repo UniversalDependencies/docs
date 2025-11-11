@@ -41,7 +41,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 aux:pass	color:blue
-1	Doch	Doch	CCONJ	KON	_	10	cc	_	_
+1	Doch	doch	CCONJ	KON	_	10	cc	_	_
 2	billiger	billig	ADJ	ADJD	Degree=Cmp|Variant=Short	10	advmod	_	_
 3	sei	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 4	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_

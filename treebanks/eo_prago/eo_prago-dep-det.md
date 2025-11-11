@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-78 nodes (9%) are attached to their parents as `det`.
+249 nodes (8%) are attached to their parents as `det`.
 
-78 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35897435897436.
+249 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.42971887550201.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (72; 92% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (3; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (3; 4% instances).
+The following 4 pairs of parts of speech are connected with `det`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (237; 95% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (3; 1% instances).
 
 
 ~~~ conllu
@@ -38,37 +38,33 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 7 det	color:blue
-1	Ekzemple	ekzemple	ADV	_	_	9	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	9	punct	_	_
-3	la	la	DET	_	Definite=Def|PronType=Art	4	det	_	_
-4	lernejano	lernejano	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
-5	kiu	kiu	PRON	_	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	_
-6	studas	studi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
-7	la	la	DET	_	Definite=Def|PronType=Art	8	det	_	_
-8	anglan	angla	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	6	obj	_	_
-9	lernas	lerni	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-10	pri	pri	ADP	_	_	12	case	_	_
-11	la	la	DET	_	Definite=Def|PronType=Art	12	det	_	_
-12	kulturo	kulturo	NOUN	_	Case=Nom|Number=Sing	9	obl	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
-14	geografio	geografio	NOUN	_	Case=Nom|Number=Sing	12	conj	_	_
-15	kaj	kaj	CCONJ	_	_	16	cc	_	_
-16	politiko	politiko	NOUN	_	Case=Nom|Number=Sing	14	conj	_	_
-17	de	de	ADP	_	_	20	case	_	_
-18	la	la	DET	_	Definite=Def|PronType=Art	20	det	_	_
-19	anglalingvaj	anglalingva	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	20	amod	_	_
-20	landoj	lando	NOUN	_	Case=Nom|Number=Plur	16	nmod	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	22	punct	_	_
-22	precipe	precipe	ADV	_	_	20	advmod	_	_
-23	Usono	Usono	NOUN	_	Case=Nom|Number=Sing	22	nmod	_	_
-24	kaj	kaj	CCONJ	_	_	25	cc	_	_
-25	Britio	Britio	NOUN	_	Case=Nom|Number=Sing	23	conj	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	9	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 det	color:blue
+1	Por	por	ADP	_	_	5	mark	_	_
+2	ke	ke	SCONJ	_	_	5	mark	_	_
+3	la	la	DET	_	Definite=Def	4	det	_	_
+4	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
+5	sciu	scii	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+6	unuj	unu	ADV	_	Number=Plur|NumForm=Word|NumType=Card	5	advmod	_	_
+7	pri	pri	ADP	_	_	9	case	_	_
+8	la	la	DET	_	Definite=Def	9	det	_	_
+9	aliaj	alia	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	6	amod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	17	punct	_	_
+11	la	la	DET	_	Definite=Def	12	det	_	_
+12	adresoj	adreso	NOUN	_	Case=Nom|Number=Plur	17	nsubj	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	la	la	DET	_	Definite=Def	15	det	_	_
+15	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	12	nmod	_	_
+16	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	17	aux	_	_
+17	publikigataj	publikigi	VERB	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
+18	en	en	ADP	_	_	20	case	_	_
+19	la	la	DET	_	Definite=Def	20	det	_	_
+20	revuo	revuo	NOUN	_	Case=Nom|Number=Sing	17	nmod	_	_
+21	Homaro	Homaro	NOUN	_	Case=Nom|Number=Sing	20	appos	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	17	punct	_	_
 
 ~~~
 

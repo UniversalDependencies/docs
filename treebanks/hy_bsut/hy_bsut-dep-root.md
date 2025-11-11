@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2300 nodes (6%) are attached to their parents as `root`.
+2523 nodes (5%) are attached to their parents as `root`.
 
-2300 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.16695652173913.
+2523 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.23939754260801.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1574; 68% instances), -<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (385; 17% instances), -<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (209; 9% instances), -<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (41; 2% instances), -<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (39; 2% instances), -<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (20; 1% instances), -<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (11; 0% instances), -<tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), -<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), -<tt><a href="hy_bsut-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt> (1712; 68% instances), -<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (434; 17% instances), -<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (226; 9% instances), -<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (52; 2% instances), -<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (41; 2% instances), -<tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt> (24; 1% instances), -<tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt> (11; 0% instances), -<tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), -<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (5; 0% instances), -<tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), -<tt><a href="hy_bsut-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="hy_bsut-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

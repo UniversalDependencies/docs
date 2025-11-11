@@ -42,18 +42,18 @@ The following 21 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 advmod	color:blue
-1	ї	и	CCONJ	C-	_	5	cc	_	ref=77.30
-2	одъначе	ѥдьначе	ADV	Df	_	5	advmod	_	ref=77.30
-3	брашьноу	брашьно	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	nsubj	_	ref=77.30
-4	сѫштю	бꙑти	AUX	V-	Case=Dat|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	cop	_	ref=77.30
-5	оустѣхъ	оуста	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	0	root	_	ref=77.30
-6	іхъ	и	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=77.30
-7	Ї	и	CCONJ	C-	_	10	cc	_	ref=77.31
-8	гнѣвъ	гнѣвъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=77.31
-9	бж҃і	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	_	ref=77.31
-10	възіде	възити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=77.31
-11	на	на	ADP	R-	_	12	case	_	ref=77.31
-12	нѩ	и	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	10	obl	_	ref=77.31
+1	ї	и	CCONJ	C-	_	5	cc	_	Ref=77.30
+2	одъначе	ѥдьначе	ADV	Df	_	5	advmod	_	Ref=77.30
+3	брашьноу	брашьно	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	nsubj	_	Ref=77.30
+4	сѫштю	бꙑти	AUX	V-	Case=Dat|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	cop	_	Ref=77.30
+5	оустѣхъ	оуста	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	0	root	_	Ref=77.30
+6	іхъ	и	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	Ref=77.30
+7	Ї	и	CCONJ	C-	_	10	cc	_	Ref=77.31
+8	гнѣвъ	гнѣвъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Ref=77.31
+9	бж҃і	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	amod	_	Ref=77.31
+10	възіде	възити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Ref=77.31
+11	на	на	ADP	R-	_	12	case	_	Ref=77.31
+12	нѩ	и	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	10	obl	_	Ref=77.31
 
 ~~~
 
@@ -64,18 +64,18 @@ The following 21 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 advmod	color:blue
-1	да	да	ADV	Df	_	12	advmod	_	ref=2
-2	а͑	а	SCONJ	G-	_	6	mark	_	ref=2
-3	бы	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	ref=2
-4	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=2
-5	былъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	6	cop	_	ref=2
-6	влъхвъ	влъхвъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	advcl	_	ref=2
-7	и͑	и	ADV	Df	_	8	advmod	_	ref=2
-8	насъ	мꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	obj	_	ref=2
-9	бы	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	ref=2
-10	о͑гн̑ь	огнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=2
-11	тъ	тъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	10	det	_	ref=2
-12	пожеглъ	пожещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=2
+1	да	да	ADV	Df	_	12	advmod	_	Ref=2
+2	а͑	а	SCONJ	G-	_	6	mark	_	Ref=2
+3	бы	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	Ref=2
+4	не	не	ADV	Df	Polarity=Neg	6	advmod	_	Ref=2
+5	былъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	6	cop	_	Ref=2
+6	влъхвъ	влъхвъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	advcl	_	Ref=2
+7	и͑	и	ADV	Df	_	8	advmod	_	Ref=2
+8	насъ	мꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	obj	_	Ref=2
+9	бы	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	Ref=2
+10	о͑гн̑ь	огнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	Ref=2
+11	тъ	тъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	10	det	_	Ref=2
+12	пожеглъ	пожещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	Ref=2
 
 ~~~
 

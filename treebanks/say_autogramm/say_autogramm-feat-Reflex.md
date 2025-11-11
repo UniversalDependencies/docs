@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-10 tokens (0%) have a non-empty value of `Reflex`.
-7 types (0%) occur at least once with a non-empty value of `Reflex`.
-7 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 1 part-of-speech tags: <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (10; 0% instances).
+15 tokens (0%) have a non-empty value of `Reflex`.
+8 types (0%) occur at least once with a non-empty value of `Reflex`.
+9 lemmas (1%) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 1 part-of-speech tags: <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (15; 0% instances).
 
 ### `PRON`
 
-10 <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
+15 <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (10; 100%), <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt> (6; 60%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (14; 93%), <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (10; 67%), <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 53%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (10; 100% of non-empty `Reflex`): <em>=kí, =mí, =ʃí, =tə, =ɣə, gamatn, ɣə</em>
-* `EMPTY` (1328): <em>=tə, ɣáy, =ʃí, gòs, =mí, gíː, =mə, tə, gáy, =tə̀</em>
+* `Yes` (15; 100% of non-empty `Reflex`): <em>gamaʃi, gamaː, kí, mí, ɣə, ʃí, gamawopíː, tə</em>
+* `EMPTY` (1367): <em>tə, ɣáy, gòs, ʃí, mí, gíː, tíː, gáy, ɣə, tə̀</em>
 

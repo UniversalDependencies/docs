@@ -11,20 +11,20 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 22205 tokens (7%) have a non-empty value of `Tense`.
 2496 types (8%) occur at least once with a non-empty value of `Tense`.
-1563 lemmas (6%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (12786; 4% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (9419; 3% instances).
+1560 lemmas (6%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (12782; 4% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (9423; 3% instances).
 
 ### `VERB`
 
-12786 <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Tense`.
+12782 <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12786; 100%), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9375; 73%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12782; 100%), <tt><a href="nl_lassysmall-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12630; 99%), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9371; 73%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (7775; 61% of non-empty `Tense`): <em>kwam, werd, had, was, ging, kreeg, begon, nam, bleef, hadden</em>
-* `Pres` (5011; 39% of non-empty `Tense`): <em>heeft, zie, is, komt, zijn, gaat, staat, hebben, wordt, bestaat</em>
-* `EMPTY` (12934): <em>maken, genoemd, gaan, volgende, gemaakt, zien, gebruikt, laten, gezien, komen</em>
+* `Past` (7773; 61% of non-empty `Tense`): <em>kwam, werd, had, was, ging, kreeg, begon, nam, bleef, hadden</em>
+* `Pres` (5009; 39% of non-empty `Tense`): <em>heeft, zie, is, komt, zijn, gaat, staat, hebben, wordt, bestaat</em>
+* `EMPTY` (12932): <em>maken, genoemd, gaan, volgende, gemaakt, zien, gebruikt, laten, gezien, komen</em>
 
 <table>
   <tr><th>Paradigm <i>hebben</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -34,14 +34,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-9419 <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Tense`.
+9423 <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9419; 100%), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7085; 75%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="nl_lassysmall-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9423; 100%), <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9423; 100%), <tt><a href="nl_lassysmall-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7089; 75%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (5378; 57% of non-empty `Tense`): <em>was, werd, werden, waren, zou, had, kon, moest, hadden, zouden</em>
-* `Pres` (4041; 43% of non-empty `Tense`): <em>is, wordt, zijn, heeft, worden, kan, zal, moet, kunnen, hebben</em>
+* `Past` (5380; 57% of non-empty `Tense`): <em>was, werd, werden, waren, zou, had, kon, moest, hadden, zouden</em>
+* `Pres` (4043; 43% of non-empty `Tense`): <em>is, wordt, zijn, heeft, worden, kan, zal, moet, kunnen, hebben</em>
 * `EMPTY` (819): <em>worden, zijn, kunnen, geweest, moeten, hebben, mogen, zijnde, gehad, zullen</em>
 
 <table>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> VERB</tt> (1206; 62%),
+<tt>VERB --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> VERB</tt> (1205; 62%),
 <tt>AUX --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<tt><a href="nl_lassysmall-dep-csubj-outer.html">csubj:outer</a></tt>]--> VERB</tt> (2; 67%).
 

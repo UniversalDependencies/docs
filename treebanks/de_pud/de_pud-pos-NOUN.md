@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>mehr</em> (<tt><a href="de_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.135046 (the average of all parts of speech is 1.198185).
+The form / lemma ratio of `NOUN` is 1.135046 (the average of all parts of speech is 1.198787).
 
 The 1st highest number of forms (5) was observed with the lemma “Land”: <em>Land, Lande, Landes, Länder, Ländern</em>.
 

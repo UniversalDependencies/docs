@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>volt</em> (<tt><a href="hu_szeged-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.250000 (the average of all parts of speech is 1.503840).
+The form / lemma ratio of `AUX` is 6.250000 (the average of all parts of speech is 1.504111).
 
 The 1st highest number of forms (12) was observed with the lemma “lesz”: <em>legyen, legyenek, lehet, lenne, lenni, lennének, lesz, leszek, lesznek, leszünk, lett, lettem</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>volt, lett, lehetett</em>
 
 `AUX` nodes are attached to their parents using 7 different relations: <tt><a href="hu_szeged-dep-cop.html">cop</a></tt> (163; 81% instances), <tt><a href="hu_szeged-dep-aux.html">aux</a></tt> (32; 16% instances), <tt><a href="hu_szeged-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-ccomp-obl.html">ccomp:obl</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="hu_szeged-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (77; 38% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (66; 33% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (34; 17% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (3; 1% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (77; 38% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (66; 33% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (34; 17% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (11; 5% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 195 (97%) `AUX` nodes are leaves.
 

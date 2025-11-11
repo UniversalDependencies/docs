@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (641; 17% of non-empty `Person`): <em>vidi, audivi, potui, puto, cogor, habemus, possum, quaeso, coepi, volo</em>
 * `2` (443; 12% of non-empty `Person`): <em>potes, putes, vides, cave, facias, vis, habes, aspice, cunctamini, iaces</em>
 * `3` (2702; 71% of non-empty `Person`): <em>habet, inquit, dixit, coepit, dedit, fecit, iussit, potest, venit, dicit</em>
-* `EMPTY` (2001): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
+* `EMPTY` (2003): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

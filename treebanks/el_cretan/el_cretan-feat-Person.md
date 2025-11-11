@@ -107,10 +107,10 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="el_cretan-dep-conj.html">conj</a></tt>]--> VERB</tt> (195; 93%),
-<tt>VERB --[<tt><a href="el_cretan-dep-obj.html">obj</a></tt>]--> PRON</tt> (80; 53%),
+<tt>VERB --[<tt><a href="el_cretan-dep-obj.html">obj</a></tt>]--> PRON</tt> (79; 53%),
 <tt>VERB --[<tt><a href="el_cretan-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (49; 66%),
 <tt>VERB --[<tt><a href="el_cretan-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (46; 70%),
-<tt>VERB --[<tt><a href="el_cretan-dep-expl.html">expl</a></tt>]--> PRON</tt> (10; 91%),
+<tt>VERB --[<tt><a href="el_cretan-dep-expl.html">expl</a></tt>]--> PRON</tt> (11; 92%),
 <tt>VERB --[<tt><a href="el_cretan-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (8; 89%),
 <tt>VERB --[<tt><a href="el_cretan-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (5; 83%),
 <tt>VERB --[<tt><a href="el_cretan-dep-det.html">det</a></tt>]--> PRON</tt> (1; 100%),

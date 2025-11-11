@@ -275,13 +275,13 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fi_ood-dep-amod.html">amod</a></tt>]--> ADJ</tt> (740; 94%),
-<tt>VERB --[<tt><a href="fi_ood-dep-obl.html">obl</a></tt>]--> NOUN</tt> (705; 69%),
-<tt>VERB --[<tt><a href="fi_ood-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (479; 84%),
-<tt>VERB --[<tt><a href="fi_ood-dep-obj.html">obj</a></tt>]--> NOUN</tt> (473; 62%),
+<tt>VERB --[<tt><a href="fi_ood-dep-obl.html">obl</a></tt>]--> NOUN</tt> (706; 69%),
+<tt>VERB --[<tt><a href="fi_ood-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (480; 84%),
+<tt>VERB --[<tt><a href="fi_ood-dep-obj.html">obj</a></tt>]--> NOUN</tt> (471; 62%),
 <tt>VERB --[<tt><a href="fi_ood-dep-aux.html">aux</a></tt>]--> AUX</tt> (265; 62%),
 <tt>VERB --[<tt><a href="fi_ood-dep-conj.html">conj</a></tt>]--> VERB</tt> (246; 81%),
 <tt>NOUN --[<tt><a href="fi_ood-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (236; 68%),
 <tt>NOUN --[<tt><a href="fi_ood-dep-conj.html">conj</a></tt>]--> NOUN</tt> (231; 75%),
 <tt>NOUN --[<tt><a href="fi_ood-dep-det.html">det</a></tt>]--> PRON</tt> (222; 90%),
-<tt>VERB --[<tt><a href="fi_ood-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (175; 90%).
+<tt>VERB --[<tt><a href="fi_ood-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (176; 90%).
 

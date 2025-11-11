@@ -8,30 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `det`.
+6 nodes (1%) are attached to their parents as `det`.
 
-3 instances of `det` (100%) are right-to-left (child precedes parent).
+5 instances of `det` (83%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `det`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-DET.html">DET</a></tt> (2; 67% instances), <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-PRON.html">PRON</a></tt> (1; 33% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 det	color:blue
-1	sve	_	SCONJ	_	_	5	mark	_	_
-2	pu	_	PRON	_	_	5	nsubj	_	_
-3	esumek	_	DET	_	_	4	det	_	_
-4	esunu	_	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	obj	_	_
-5	antervakaze	_	VERB	_	_	6	advcl	_	(anter:vakaze)
-6	vaçetum	_	NOUN	_	Case=Acc	0	root	_	_
-7	i	e	ADP	_	_	6	case	_	_
-8	se	_	AUX	_	_	6	cop	_	obscure
-
-~~~
+The following 1 pairs of parts of speech are connected with `det`: <tt><a href="xum_ikuvina-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xum_ikuvina-pos-DET.html">DET</a></tt> (6; 100% instances).
 
 
 ~~~ conllu
@@ -40,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	este	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
+1	este	_	DET	_	Case=Acc|Gender=Neut|Number=Sing	2	det	_	_
 2	persklum	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
 3	aves	_	NOUN	_	Case=Abl|Number=Plur	5	obl	_	_
 4	anzeriates	_	VERB	_	Case=Abl|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_

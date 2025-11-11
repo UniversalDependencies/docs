@@ -147,12 +147,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="it_valico-dep-det.html">det</a></tt>]--> DET</tt> (854; 97%),
 <tt>VERB --[<tt><a href="it_valico-dep-aux.html">aux</a></tt>]--> AUX</tt> (354; 80%),
-<tt>VERB --[<tt><a href="it_valico-dep-obl.html">obl</a></tt>]--> NOUN</tt> (186; 61%),
-<tt>VERB --[<tt><a href="it_valico-dep-obj.html">obj</a></tt>]--> NOUN</tt> (165; 60%),
+<tt>VERB --[<tt><a href="it_valico-dep-obl.html">obl</a></tt>]--> NOUN</tt> (185; 60%),
+<tt>VERB --[<tt><a href="it_valico-dep-obj.html">obj</a></tt>]--> NOUN</tt> (165; 61%),
 <tt>NOUN --[<tt><a href="it_valico-dep-amod.html">amod</a></tt>]--> ADJ</tt> (160; 95%),
 <tt>VERB --[<tt><a href="it_valico-dep-conj.html">conj</a></tt>]--> VERB</tt> (155; 84%),
 <tt>VERB --[<tt><a href="it_valico-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (138; 88%),
 <tt>NOUN --[<tt><a href="it_valico-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (99; 97%),
-<tt>VERB --[<tt><a href="it_valico-dep-obj.html">obj</a></tt>]--> PRON</tt> (75; 50%),
+<tt>VERB --[<tt><a href="it_valico-dep-obj.html">obj</a></tt>]--> PRON</tt> (73; 50%),
 <tt>ADJ --[<tt><a href="it_valico-dep-cop.html">cop</a></tt>]--> AUX</tt> (64; 94%).
 

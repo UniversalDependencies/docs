@@ -26,8 +26,8 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 1	Revenons	revenir	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	-en	en	PRON	_	Person=3|PronType=Prs	1	expl:comp	_	_
 3	à	à	ADP	_	_	5	case	_	_
-4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
-5	actualité	actualité	NOUN	_	Gender=Fem|Number=Sing	1	obl:arg	_	SpaceAfter=No
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	Gender[ctxt]=Fem|SpaceAfter=No
+5	actualité	actualité	NOUN	_	Number=Sing	1	obl:arg	_	Gender[lex]=Fem|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -41,16 +41,16 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 # visual-style 18 15 expl:comp	color:blue
 1	Si	si	SCONJ	_	_	4	mark	_	_
 2	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
-3	réalisation	réalisation	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	réalisation	réalisation	NOUN	_	Number=Sing	4	nsubj	_	Gender[lex]=Fem
 4	permet	permettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 5	en	en	ADP	_	ExtPos=ADV	4	advmod	_	Idiom=Yes
 6	plus	plus	ADV	_	_	5	fixed	_	InIdiom=Yes
 7	d'	de	ADP	_	_	8	mark	_	SpaceAfter=No
 8	améliorer	améliorer	VERB	_	VerbForm=Inf	4	ccomp	_	Subject=Generic
 9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-10	dessertes	desserte	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	dessertes	desserte	NOUN	_	Number=Plur	8	obj	_	Gender[lex]=Fem
 11	de	de	ADP	_	_	12	case	_	_
-12	voiries	voirie	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
+12	voiries	voirie	NOUN	_	Number=Plur	10	nmod	_	Gender[lex]=Fem
 13	cela	cela	PRON	_	Number=Sing|Person=3|PronType=Dem	18	nsubj	_	_
 14	n'	ne	ADV	_	Polarity=Neg	18	advmod	_	SpaceAfter=No
 15	en	en	PRON	_	Person=3|PronType=Prs	18	expl:comp	_	_

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ас</em> (<tt><a href="koi_uh-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.247379).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.250000).
 
 The 1st highest number of forms (1) was observed with the lemma “ас”: <em>ас</em>.
 
@@ -32,12 +32,12 @@ The 2nd highest number of forms (1) was observed with the lemma “быд”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “кык”: <em>Кыкнан</em>.
 
-`DET` occurs with 3 features: <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (3; 50% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (3; 50% instances), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (2; 33% instances)
+`DET` occurs with 3 features: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (6; 100% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (3; 50% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (3; 50% instances)
 
-`DET` occurs with 3 feature-value pairs: `Case=Nom`, `Number=Sing`, `PronType=Tot`
+`DET` occurs with 5 feature-value pairs: `Case=Nom`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`, `PronType=Tot`
 
-`DET` occurs with 4 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (2 tokens).
+`DET` occurs with 5 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Ind` (2 tokens).
 Examples: <em>Мукӧд, ас</em>
 
 

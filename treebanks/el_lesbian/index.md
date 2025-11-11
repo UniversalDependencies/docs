@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Stavros Bompolas, Stella Markantonatou, Antonios Anastasopoulos, Vivian Stamou.
 
 Repository: [UD_Greek-Lesbian](https://github.com/UniversalDependencies/UD_Greek-Lesbian)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_lesbian216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_lesbian217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,7 +42,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource living Northern variety of Modern Greek. The treebank currently contains 270 sentences with manual annotations following the Universal Dependencies framework, representing the first UD treebank for a Northern Modern Greek dialect.
+A Universal Dependencies (UD) treebank for the dialect of Lesbos, a low-resource living Northern variety of Modern Greek. The treebank currently contains 540 sentences with manual annotations following the Universal Dependencies framework, representing the first UD treebank for a Northern Modern Greek dialect.
 
 
 
@@ -82,11 +82,10 @@ The treebank follows the UD annotation guidelines established for UD_Greek-GUD, 
 
 ### Special Annotations
 
-* Voicing and euphonic annotations in the MISC column using MSeg|MGloss format to document these phenomena explicitly
-
-* Orthographic standardization integrated with annotations, preserving original dialectal forms in the FORM column while providing standardized forms in the MISC column
-
-* Parallel translations of each sentence in SMG to facilitate comparative research
+* Voicing and euphonic annotations appear in the `MISC` column using the `MSeg|MGloss` format to explicitly document these phenomena.
+* Orthographic standardization is integrated with annotations, preserving original dialectal forms in the `FORM` column while providing standardized forms in `MISC`.
+* Parallel translations of each sentence in SMG facilitate comparative research.
+* Metadata fields such as `sent_id` and `source` identify whether a sentence originates from written or oral data.
 
 ## Data Sources
 
@@ -102,11 +101,17 @@ The corpus draws from six main sources representing different text types and dia
 
 ### Contemporary Lesbian Literature
 
-* Tsokarou-Mitsioni, E. (1998). Palies Istories ap tn Agiasiou [Old Stories from Agiasio], 2nd edition. Private Edition, Mytilene.
+* Tsokarou-Mitsioni, E. (1998). Palies Istories ap tn Agiasiou [Old Stories from Agiaso], 2nd edition. Private Edition, Mytilene.
 
 * Anagnostou, V. T. (2014). Tsi sta th'ka mas: Komodia sta k'stariot'ka [Tsi sta th'ka mas: Comedy in the K'stariot'ka Dialect], first edition. Estia Technon Skoutarou "T'Apono to Scholio".
 
 * Tsokarou-Mitsioni, E. (2019). Prosfygiá [Refugeehood], first edition. D. Doukas & Sia O.V.E.E.
+
+### Oral Corpus (Field Research 2023–2024)
+
+In addition to written sources, the dataset includes **oral sentences transcribed from recordings collected during fieldwork conducted across multiple villages of Lesbos between 2023 and 2024**.
+These recordings capture speakers of different ages and local varieties, reflecting the living use and intra-island variation of the dialect.
+
 
 ## Acknowledgments
 
@@ -125,13 +130,13 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 
 ## Relations
 
-[acl](el_lesbian-dep-acl.html) – [acl:relcl](el_lesbian-dep-acl-relcl.html) – [advcl](el_lesbian-dep-advcl.html) – [advcl:relcl](el_lesbian-dep-advcl-relcl.html) – [advmod](el_lesbian-dep-advmod.html) – [amod](el_lesbian-dep-amod.html) – [appos](el_lesbian-dep-appos.html) – [aux](el_lesbian-dep-aux.html) – [case](el_lesbian-dep-case.html) – [cc](el_lesbian-dep-cc.html) – [ccomp](el_lesbian-dep-ccomp.html) – [compound](el_lesbian-dep-compound.html) – [compound:redup](el_lesbian-dep-compound-redup.html) – [conj](el_lesbian-dep-conj.html) – [cop](el_lesbian-dep-cop.html) – [csubj](el_lesbian-dep-csubj.html) – [det](el_lesbian-dep-det.html) – [discourse](el_lesbian-dep-discourse.html) – [dislocated](el_lesbian-dep-dislocated.html) – [expl](el_lesbian-dep-expl.html) – [fixed](el_lesbian-dep-fixed.html) – [flat](el_lesbian-dep-flat.html) – [goeswith](el_lesbian-dep-goeswith.html) – [iobj](el_lesbian-dep-iobj.html) – [mark](el_lesbian-dep-mark.html) – [nmod](el_lesbian-dep-nmod.html) – [nsubj](el_lesbian-dep-nsubj.html) – [nsubj:pass](el_lesbian-dep-nsubj-pass.html) – [nummod](el_lesbian-dep-nummod.html) – [obj](el_lesbian-dep-obj.html) – [obl](el_lesbian-dep-obl.html) – [obl:agent](el_lesbian-dep-obl-agent.html) – [orphan](el_lesbian-dep-orphan.html) – [parataxis](el_lesbian-dep-parataxis.html) – [punct](el_lesbian-dep-punct.html) – [root](el_lesbian-dep-root.html) – [vocative](el_lesbian-dep-vocative.html) – [xcomp](el_lesbian-dep-xcomp.html)
+[acl](el_lesbian-dep-acl.html) – [acl:relcl](el_lesbian-dep-acl-relcl.html) – [advcl](el_lesbian-dep-advcl.html) – [advcl:relcl](el_lesbian-dep-advcl-relcl.html) – [advmod](el_lesbian-dep-advmod.html) – [amod](el_lesbian-dep-amod.html) – [appos](el_lesbian-dep-appos.html) – [aux](el_lesbian-dep-aux.html) – [case](el_lesbian-dep-case.html) – [cc](el_lesbian-dep-cc.html) – [ccomp](el_lesbian-dep-ccomp.html) – [compound](el_lesbian-dep-compound.html) – [compound:redup](el_lesbian-dep-compound-redup.html) – [conj](el_lesbian-dep-conj.html) – [cop](el_lesbian-dep-cop.html) – [csubj](el_lesbian-dep-csubj.html) – [det](el_lesbian-dep-det.html) – [discourse](el_lesbian-dep-discourse.html) – [dislocated](el_lesbian-dep-dislocated.html) – [expl](el_lesbian-dep-expl.html) – [fixed](el_lesbian-dep-fixed.html) – [flat](el_lesbian-dep-flat.html) – [goeswith](el_lesbian-dep-goeswith.html) – [iobj](el_lesbian-dep-iobj.html) – [mark](el_lesbian-dep-mark.html) – [nmod](el_lesbian-dep-nmod.html) – [nsubj](el_lesbian-dep-nsubj.html) – [nsubj:pass](el_lesbian-dep-nsubj-pass.html) – [nummod](el_lesbian-dep-nummod.html) – [obj](el_lesbian-dep-obj.html) – [obl](el_lesbian-dep-obl.html) – [obl:agent](el_lesbian-dep-obl-agent.html) – [orphan](el_lesbian-dep-orphan.html) – [parataxis](el_lesbian-dep-parataxis.html) – [punct](el_lesbian-dep-punct.html) – [reparandum](el_lesbian-dep-reparandum.html) – [root](el_lesbian-dep-root.html) – [vocative](el_lesbian-dep-vocative.html) – [xcomp](el_lesbian-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 270 sentences, 3200 tokens and 3333 syntactic words.</li>
+<li>This corpus contains 540 sentences, 5733 tokens and 5926 syntactic words.</li>
 </ul>
 
 <ul>
@@ -143,12 +148,12 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 </ul>
 
 <ul>
-<li>This corpus contains 243 types of words that contain both letters and punctuation. Examples: τ’, μ’, απ’, τ’ς, τσ’, σ’, τ’ν, π’, γ’, ντ’, έχ’, ’γώ, κάν’, λέγ’ς, ξέρ’ς, γι’, κόρ’, λάδ’, μέσ’, ν’, γυρίσ’, γ’ναίκα, δ’λειά, κουμάτ’, ν-του, ν-τουν, ξέρ’, ούλ’, πάγ’, σπίτ’, Β’ναριώτις, Γιάνν’, Γιάνν’ς, Γιώργ’, ανοίγ’, γέμ’σι, γι-Απουστόλ’ς, θέλ’, θέλ’ς, θρώπ’, καζάντ’σι, κουμμάτ’, ουλ’, πάρ’, τιλιώσ’, τσιφάλ’, φέρ’, φ’λάγου, χέρ’, χουργ-ιό</li>
+<li>This corpus contains 379 types of words that contain both letters and punctuation. Examples: τ’, απ’, μ’, τσ’, σ’, τ’ς, έχ’, όχ’, ντ’, π’, τ’ν, σπίτ’, κάν’, γ’, γι’, είν’, ν’, χέρ’, ότ’, ‘γού, ‘μείς, ’γώ, έτσ’, ανθρώπ’, λάδ’, λέγ’ς, ξέρ’ς, πάρ’, σπίκ’, ‘δώ, έπρεπ’, είχ’, κουμμάτ’, κόρ’, μέσ’, ξέρ’, ούλ’, ό,τ’, Σίγρ’, αθρώπ’, βλέπ’, γυρίσ’, γ’ναίκα, δ’λειά, θέλ’, κουμάτ’, μέχρ’, μεγάλ’, ν-του, ν-τουν</li>
 </ul>
 
 <ul>
-<li>This corpus contains 133 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 80 types of multi-word tokens. Examples: στου, στα, στ’, γιεμ, κουρούδαμ, κόρημ, μπάτσι, πας, στη, στουν, στ’ν, τνώρα, τόχιτι, Πατέρασιτς, ήξιρειντα, ίσιαμ, ίσιαμι, αμί, απόξου, βρακουζώνς, γιομ, είπντα, εμπουρεί, εμπουρώ, ηφτσήμ, θκάς, θκος, ιφστήμ, κοντάμ, κόρηντ, λέγαντα, μάτιασ’, μήπι, μουρέλιμ, μουρφιάτσ, μουρόμ, νάβγει, νάν’, νάρτ, νέρτ, νήνταν, νανάψουν, νανοίξειν, ναπουμείνουμι, να’ρθείς, νείνη, ντάκανι, ντιπέρνη, πάγεντου, πάς.</li>
+<li>This corpus contains 193 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 86 types of multi-word tokens. Examples: στου, στο, στα, στ’, στη, στς, γιεμ, κουρούδαμ, κόρημ, μπάτσι, πας, στον, στουν, στους, στ’ν, τνώρα, τόχιτι, Πατέρασιτς, ήξιρειντα, ίσιαμ, ίσιαμι, αμί, απόξου, βρακουζώνς, γιομ, είπντα, εμπουρεί, εμπουρώ, ηφτσήμ, θκάς, θκος, ιφστήμ, κοντάμ, κόρηντ, λέγαντα, μάναμ, μάτιασ’, μήπι, μουρέλιμ, μουρφιάτσ, μουρόμ, νάβγει, νάν’, νάρτ, νέρτ, νήνταν, νανάψουν, νανοίξειν, ναπουμείνουμι, να’ρθείς.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -161,26 +166,27 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 </ul>
 
 <ul>
-<li>This corpus contains 15 word types tagged as particles (PART): Ένι, Μπα, Οχ, ένη, δα, δε, δεν, ε, εν, μη, μην, μπά, να, όχ’, ’εν</li>
+<li>This corpus contains 17 word types tagged as particles (PART): Ένι, Δηλαδή, Μπα, Οχ, ένη, δα, δε, δεν, δ’, ε, εν, μη, μην, μπά, να, όχ’, ’εν</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as pronouns (PRON): ιγώ, μ, ν-του, π, ποιος, που, ς, τί, τι, τις</li>
+<li>This corpus contains 7 lemmas tagged as pronouns (PRON): ιγώ, μ, μι, ποιος, που, τι, τις</li>
 </ul>
 
 <ul>
-<li>This corpus contains 27 lemmas tagged as determiners (DET): άλλος, άλλους, έγιουτους, έγιτουτους, έγιτσεινους, ένας, έφτους, αυτός, η, κάθα, κάθε, κάθι, κάτι, καθένας, κανένας, ο, ου, ούλους, πουλύς, τίπουτα, τα, τι, τις, του, τούτους, όποιους, όσους</li>
+<li>This corpus contains 31 lemmas tagged as determiners (DET): άλλους, έγιουτους, έγιτσεινους, ένας, αυτός, εύτους, η, κάθα, κάθι, κάτ, καθένας, κανένας, μ, μιρκός, ου, ούλους, πάν, πουλύς, πόθα, πόσους, τέτοιους, τίπουτα, τι, τις, του, τούτους, τόσους, ό,τ, όλους, όποιους, όσους</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: τι, τις</li>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: μ, τι, τις</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): ας, είμι, θα, να</li>
+<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): έχου, ας, είμι, θα, να</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: έχου</li>
 </ul>
 
 <ul>
@@ -198,8 +204,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: είνι, ήνταν, ήταν, είναι, ένι, είμι, είνη, ήμν-ταν, είμη, ν’</li>
-    <li>VERB: έλα, έχ’, κάν’, λέγ’ς, ξέρ’ς, ήρτι, είπι, είχι, κάνου, πήγι</li>
+    <li>AUX: ήνταν, ήταν, είνι, είναι, είν’, είμαι, ένι, είμι, είνη, είχε</li>
+    <li>VERB: είχε, έχ’, λέει, κάν’, έχουν, έλα, έπρεπε, είχαν, κάνου, λέγ’ς</li>
   </ul>
   </li>
 </ul>
@@ -207,7 +213,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: πέρνη</li>
+    <li>VERB: ακούσ’, διαβάσ’, μείν’, πάει, πάρ’, πέρνη, φύγ’</li>
   </ul>
   </li>
 </ul>
@@ -215,7 +221,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Part
   <ul>
-    <li>VERB: αγαπμέν, αγισμένους, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους, σπασμένα, στιναχουρημέν, συκλινσμέν, τσ’στάμινους</li>
+    <li>VERB: Ευχαριστημέν’, Παντρεμένος, αγαπμέν, αγισμένους, γεννμέν’, καμωμένα, καμωμένο, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους</li>
   </ul>
   </li>
 </ul>
@@ -230,14 +236,14 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: καλή, αγιά, κυρά, Αγ’, Ρήνιω, αχριγιάννα, καημέν’, καλουσνάτ’, κατάβαρ’, κατακότσιν</li>
-      <li>DET: η, γη, τ’, τ’ς, μια, τ’ν, τν, τη, ντ’, ντ</li>
+      <li>ADJ: καλή, μεγάλ’, αγιά, κυρά, φτουχές, Αγ’, Μικρά, Μικράς, Ρήνιω, έγκυος</li>
+      <li>DET: η, τ’, γη, μια, τ’ς, τς, τη, τ’ν, τν, ντ’</li>
       <li>INTJ: μουρή, βουρή, Καληνύχτα, μουρ</li>
-      <li>NOUN: μέρα, μάνα, ώρα, κόρη, κόρ’, γναίτσις, γ’ναίκα, δ’λειά, νύχτα, αλήθεια</li>
-      <li>NUM: μια, 2, 3, μιαν, τρεις</li>
-      <li>PRON: τ’ς, που, πού, τσ’, τ’, Ποια, ιτζ, ιτς, ντι, ντουν</li>
-      <li>PROPN: Ανθή, Αντρόνα, Παναγιά, Ρουζαλία, Ανάστασ, Αφρουδίτ, Βαρβάρα, Θουδώρα, Καλλουνή, Κατιρίνα</li>
-      <li>VERB-Part: αγαπμέν, στιναχουρημέν, συκλινσμέν</li>
+      <li>NOUN: μάνα, μέρα, ώρα, γναίκα, κόρη, κόρ’, νύχτα, βαλανιδιά, γιαγιά, γναίτσις</li>
+      <li>NUM: μια, δυο, 2, 3, μιαν, τρεις</li>
+      <li>PRON: που, τ’ς, τς, τ’, ντουν, πού, τν, τσ’, Ποια, ιτζ</li>
+      <li>PROPN: Ανθή, Αντρόνα, Γκαλλονή, Ερσσό, Μυτιλήν, Μυτιλήν’, Παναγιά, Ρουζαλία, Άγρας, Αμερική</li>
+      <li>VERB-Part: Ευχαριστημέν’, αγαπμέν, γεννμέν’, στιναχουρημέν, συκλινσμέν</li>
     </ul>
   </li>
 </ul>
@@ -245,15 +251,15 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: καημένους, Αγιού, Ελληνις, Ζουντανοί, Κύριοι, Πιδέξους, έρμου, έρμους, ήσυχους, αγαπσκό</li>
-      <li>DET: του, γιου, τουν, η, ένας, τ’, γ’, γι, γη, ι</li>
+      <li>ADJ: καημένους, Τούρκους, κακός, καλός, μεγάλου, Άγιο, Αγιού, Ελληνις, Ζουντανοί, Κύριοι</li>
+      <li>DET: του, η, οι, τουν, γιου, ένας, ο, τ’, γη, τον</li>
       <li>INTJ: Βούρ’, μουρ, μουρέ</li>
-      <li>NOUN: άθριπους, γιε, γιατρός, άντρα, γιο, γιος, θρώπ’, κάμπου, καφινέ, κόσμους</li>
-      <li>NUM: ένα</li>
-      <li>PRON: τουν, τ’, ντ, ιμ, ιτ, μ, ν-τουν, Τις, ήμ, ημ</li>
+      <li>NOUN: άθριπους, άντρα, ανθρώπ’, γιε, κόσμους, άντρας, αθρώπ’, γιατρός, γιο, πατέρα</li>
+      <li>NUM: ένα, δυο</li>
+      <li>PRON: τ’, τουν, ντ, ιμ, που, ιτ, μ, ν-τουν, ντον, ντουν</li>
       <li>PROPN: Β’ναριώτις, Γιάνν’, Γιάνν’ς, Γιώργ’, Δησέφ, Χατζικουμής, γι-Απουστόλ’ς, 15, Απουστόλς, Βαγγέλ’</li>
-      <li>VERB: αγισμένους, κουλουξυρ’σμένους, λοιμ’τσιασμένους, μιτσ’μένους, τσ’στάμινους, ψουφμένοι</li>
-      <li>VERB-Part: αγισμένους, λοιμ’τσιασμένους, μιτσ’μένους, τσ’στάμινους</li>
+      <li>VERB: Παντρεμένος, αγισμένους, κουλουξυρ’σμένους, λοιμ’τσιασμένους, μιτσ’μένους, μπαντρεμένος, παντρεμέν’, τσ’στάμινους, ψουφμένοι</li>
+      <li>VERB-Part: Παντρεμένος, αγισμένους, λοιμ’τσιασμένους, μιτσ’μένους, μπαντρεμένος, παντρεμέν’, τσ’στάμινους</li>
     </ul>
   </li>
 </ul>
@@ -261,15 +267,15 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: καλό, κακό, ξύλου, Αγροτικό, Β’ναριώτ’κου, Χρυσό, αξ’πόλ’του, απανουγυρισ’κά, αύριγιου, γεμάτου</li>
-      <li>DET: του, τα, τ’, ούλα, αυτό, έγιουτα, το, ένα, έφτα, έφτου</li>
+      <li>ADJ: καλό, μαύρα, θκα, θκο, κακό, λίγα, μσό, ξύλου, Αγροτικό, Β’ναριώτ’κου</li>
+      <li>DET: του, τα, το, τ’, αυτό, ούλα, ένα, πουλλά, άλλου, έγιουτα</li>
       <li>INTJ: μουρά</li>
-      <li>NOUN: χουριό, μουρό, λάδ’, μουρά, πουρνό, βράδ, σπίτ’, χέρ, αλιφουρείου, κτσιά</li>
-      <li>NUM: δυο, ένα, 100, 200, δέκα, τριγιά</li>
-      <li>PRON: τα, τι, του, ντα, π’, τό, ντου, τά, ν-του, ντ’</li>
-      <li>PROPN: Μπουτέλ, Ατζιλικό, Ακλιδιού, Ασπασέλ’, Ατζιλικο, Γιουργή, Γληγουρέλ’, Κατιρίνη, Μαριγώ, Ν’κουλέλ’</li>
+      <li>NOUN: σπίτ’, μουρό, χουριό, χρόνια, πράμα, χωριό, μουρά, πράματα, χέρ’, λάδ’</li>
+      <li>NUM: ένα, δυο, τρία, 100, 200, δέκα, τριγιά</li>
+      <li>PRON: τα, του, τι, το, που, ντα, π’, τ’, ντου, τό</li>
+      <li>PROPN: Μπουτέλ, Σίγρ’, Ατζιλικό, Χίδερα, Ακλιδιού, Ασπασέλ’, Ατζιλικο, Αϊβαλί, Γιουργή, Γληγουρέλ’</li>
       <li>SCONJ: τι</li>
-      <li>VERB-Part: λαδουμένου, σπασμένα</li>
+      <li>VERB-Part: καμωμένα, καμωμένο, λαδουμένου, μπαντρεμένα, ξετσλιασμένου, σπασμένα, στρμωγμένα</li>
     </ul>
   </li>
 </ul>
@@ -282,17 +288,17 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: Ελληνις, Ζουντανοί, Κύριοι, απανουγυρισ’κά, θκά, ιμκρά, καημένοι, καυτά, μιγάλα, μιγάλις</li>
-      <li>AUX-Fin: ήνταν, είνι, ν’, ’μαστι, ’νι</li>
-      <li>DET: τα, ούλα, τ’ς, έγιουτα, γη, τσ’, οι, τ’, έφτα, γι</li>
+      <li>ADJ: μαύρα, θκα, λίγα, φτουχές, Ελληνις, Ζουντανοί, Κύριοι, Τούρτσ’, απανουγυρισ’κά, αρχαία</li>
+      <li>AUX-Fin: ήνταν, ήταν, είναι, Έχουν, έχουμ’, είμαι, είμαστε, είνι, ν’, ’μαστι</li>
+      <li>DET: τα, οι, ούλα, τ’ς, τς, πουλλά, έγιουτα, γη, τσ’, τ’</li>
       <li>INTJ: μουρά</li>
-      <li>NOUN: γναίτσις, μουρά, αυγές, βδουμάδις, θρώπ’, ιλιές, κτσιά, μέρις, μπούτσια, πουδάρια</li>
-      <li>NUM: δυο, 100, 2, 200, 3, δέκα, τρεις, τριγιά</li>
-      <li>PRON: τα, μας, ντα, σας, τά, μεις, ντουν, πού, ντά, ντούν</li>
-      <li>PROPN: Β’ναριώτις, Ατζιλικο, Στρατήγς</li>
-      <li>VERB: έχουμι, ήβραν, ήρταν, κάναν, κάνιτι, λουγιάζαν, ξέρουμι, πιάσιν, χιτι, Ήρτα</li>
-      <li>VERB-Fin: έχουμι, ήβραν, ήρταν, κάναν, κάνιτι, λουγιάζαν, ξέρουμι, πιάσιν, χιτι, Ήρτα</li>
-      <li>VERB-Part: σπασμένα</li>
+      <li>NOUN: χρόνια, πράματα, ανθρώπ’, μουρά, χωριά, αδέρφια, αθρώπ’, γναίτσις, χουράφια, αυγές</li>
+      <li>NUM: δυο, τρία, 100, 2, 200, 3, δέκα, τρεις, τριγιά</li>
+      <li>PRON: τα, μας, που, ‘μείς, ντα, ντουν, σας, τά, μεις, πού</li>
+      <li>PROPN: Β’ναριώτις, Χίδερα, Ατζιλικο, Μαλάματα, Παράκοιλα, Χάνια, Χουχλιά</li>
+      <li>VERB: έχουν, είχαν, έχουμι, κάναν, πήραν, φύγαν, ήβραν, ήρταν, βάλουμε, είπαν</li>
+      <li>VERB-Fin: έχουν, είχαν, έχουμι, κάναν, πήραν, φύγαν, ήβραν, ήρταν, βάλουμε, είπαν</li>
+      <li>VERB-Part: καμωμένα, μπαντρεμένα, παντρεμέν’, σπασμένα, στρμωγμένα</li>
     </ul>
   </li>
 </ul>
@@ -300,17 +306,17 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: καημένους, καλή, καλό, αγιά, κακό, κυρά, ξύλου, Αγιού, Αγροτικό, Αγ’</li>
-      <li>AUX-Fin: είνι, ήνταν, ήταν, είναι, ένι, είμι, είνη, ήμν-ταν, είμη, ταν</li>
-      <li>DET: του, τ’, η, γη, γιου, μια, τουν, τ’ν, αυτό, τν</li>
+      <li>ADJ: καλή, καημένους, καλό, Τούρκους, μεγάλ’, αγιά, θκο, κακό, κακός, καλός</li>
+      <li>AUX-Fin: ήνταν, ήταν, είνι, είναι, είν’, είμαι, ένι, είμι, είνη, είχε</li>
+      <li>DET: του, η, το, τ’, γη, αυτό, μια, τουν, γιου, τη</li>
       <li>INTJ: μουρή, βουρή, μουρ, Βούρ’, Καληνύχτα, μουρέ</li>
-      <li>NOUN: μέρα, χουριό, άθριπους, μάνα, μουρό, ώρα, γιε, κόρη, κόρ’, λάδ’</li>
+      <li>NOUN: μάνα, μέρα, σπίτ’, μουρό, χουριό, πράμα, χωριό, ώρα, χέρ’, άθριπους</li>
       <li>NUM: ένα, μια, μιαν</li>
-      <li>PRON: μ’, τ’, τουν, μι, μ, σ’, τι, του, γω, ντ</li>
-      <li>PROPN: Ανθή, Μπουτέλ, Αντρόνα, Ατζιλικό, Γιάνν’, Γιάνν’ς, Γιώργ’, Δησέφ, Μαριγώ, Παναγιά</li>
+      <li>PRON: μ’, τ’, του, τουν, σ’, τι, μι, το, μ, που</li>
+      <li>PROPN: Ανθή, Μπουτέλ, Σίγρ’, Αντρόνα, Ατζιλικό, Γιάνν’, Γιάνν’ς, Γιώργ’, Γκαλλονή, Δησέφ</li>
       <li>SCONJ: τι</li>
-      <li>VERB-Fin: έλα, έχ’, κάν’, λέγ’ς, ξέρ’ς, ήρτι, είπι, είχι, κάνου, πήγι</li>
-      <li>VERB-Part: αγαπμέν, αγισμένους, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους, στιναχουρημέν, συκλινσμέν, τσ’στάμινους</li>
+      <li>VERB-Fin: είχε, έχ’, λέει, κάν’, έλα, έπρεπε, κάνου, λέγ’ς, ξέρ’ς, πα</li>
+      <li>VERB-Part: Ευχαριστημέν’, Παντρεμένος, αγαπμέν, αγισμένους, γεννμέν’, καμωμένο, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους, μπαντρεμένος</li>
     </ul>
   </li>
 </ul>
@@ -322,16 +328,16 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: κακό, καλό, ξύλου, Αγροτικό, Αγ’, Β’ναριώτ’κου, Ελληνις, έρμου, αγαπσκό, αγιά</li>
-      <li>DET: του, τα, τ’, τουν, τ’ν, τν, αυτό, μια, ούλα, τ’ς</li>
+      <li>ADJ: μαύρα, θκα, κακό, καλό, λίγα, μεγάλου, μεγάλ’, ξύλου, φτουχές, Άγιο</li>
+      <li>DET: του, τα, τ’, το, τουν, μια, αυτό, τη, ούλα, τ’ν</li>
       <li>INTJ: Καληνύχτα</li>
-      <li>NOUN: μέρα, χουριό, λάδ’, ώρα, βράδ, δ’λειά, νύχτα, πουρνό, σπίτ’, χέρ</li>
-      <li>NUM: ένα, δυο, 100, 2, 200, 3, δέκα, μια, μιαν, τρεις</li>
-      <li>PRON: τουν, τα, μι, τι, του, μας, μ’, σι, ντα, που</li>
-      <li>PROPN: Δησέφ, Ακλιδιού, Ατζιλικό, Βαγγέλ’, Βασίλ’, Γιάνν’, Γιουργή, Γιώργ’, Δικαπινταύγουστου, Θεμιστουκλή</li>
+      <li>NOUN: μέρα, σπίτ’, χρόνια, χουριό, χέρ’, ώρα, λάδ’, πράματα, σπίκ’, χωριό</li>
+      <li>NUM: ένα, δυο, μια, τρία, 100, 2, 200, 3, δέκα, μιαν</li>
+      <li>PRON: τα, του, τι, τουν, μι, το, μας, μ’, που, σι</li>
+      <li>PROPN: Γκαλλονή, Δησέφ, Μυτιλήν, Μυτιλήν’, Σίγρ’, Χίδερα, Ακλιδιού, Ατζιλικό, Βαγγέλ’, Βασίλ’</li>
       <li>SCONJ: τι</li>
-      <li>VERB: κουλουξυρ’σμένους, λαδουμένου, σπασμένα</li>
-      <li>VERB-Part: λαδουμένου, σπασμένα</li>
+      <li>VERB: καμωμένο, κουλουξυρ’σμένους, λαδουμένου, μπαντρεμένα, ξετσλιασμένου, σπασμένα</li>
+      <li>VERB-Part: καμωμένο, λαδουμένου, μπαντρεμένα, ξετσλιασμένου, σπασμένα</li>
     </ul>
   </li>
 </ul>
@@ -339,11 +345,11 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: Αγιού</li>
-      <li>DET: τ’, τ’ς, αλλουνού, τ, του, τσ’</li>
-      <li>NOUN: ακκλησάς, ιγτουνιάσ’, καβγά, μηχανής, σπιτιού, φαγιού, χρουνό</li>
-      <li>PRON: μ’, τ’, μ, σ’, ντ, τ’ς, ιμ, μας, ς, ιτ</li>
-      <li>PROPN: Βασ’λειού, Γιάνν’, Θιού, Κουλουμαρίγιας, Μιλπουμέν’ς, Παναγιάς, Πληγουνιάτ’, Ρουζαλίας, Σουφέλ’, Στρατ</li>
+      <li>ADJ: Αγιού, Μικράς</li>
+      <li>DET: τ’, τ’ς, τς, του, αλλουνού, τ, της, τσ’</li>
+      <li>NOUN: σπιτιού, χρονών, ακκλησάς, αντρού, θειά, ιγτουνιάσ’, καβγά, μάνα, μάνας, μηχανής</li>
+      <li>PRON: μ’, τ’, μας, σ’, μ, ντ, τ’ς, ιμ, ς, ντουν</li>
+      <li>PROPN: Άγρας, Ασίας, Βασ’λειού, Γιάνν’, Γώγου, Θιού, Ιουλίου, Καλλονής, Κουλουμαρίγιας, Μιλπουμέν’ς</li>
     </ul>
   </li>
 </ul>
@@ -351,16 +357,16 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: καημένους, Καλή, Ζουντανοί, Καλό, Πιδέξους, Χρυσό, έρμους, ήσυχους, αδιάντροπους, ακάλιστους</li>
-      <li>DET: η, του, γη, γιου, τα, γ’, ένας, γι, μια, ούλα</li>
+      <li>ADJ: καημένους, καλή, Τούρκους, Καλό, κακός, καλός, μσό, Ζουντανοί, Μικρά, Πιδέξους</li>
+      <li>DET: η, του, τα, γη, οι, γιου, το, ένας, ο, αυτό</li>
       <li>INTJ: μουρή</li>
-      <li>NOUN: άθριπους, γιατρός, γναίτσις, κόρ’, μουρό, αλήθεια, γιος, κόρη, κόσμους, μάνα</li>
-      <li>NUM: μια</li>
-      <li>PRON: γω, συ, ’γώ, μεις, που, πού, π’, Ποια, Τί, Τις</li>
-      <li>PROPN: Μπουτέλ, Ανθή, Αντρόνα, Β’ναριώτις, Γιάνν’ς, Χατζικουμής, γι-Απουστόλ’ς, 15, Ανάστασ, Απουστόλς</li>
+      <li>NOUN: μάνα, άθριπους, ανθρώπ’, κόσμους, μουρό, πράμα, άντρας, αθρώπ’, γιαγιά, γιατρός</li>
+      <li>NUM: δυο, μια</li>
+      <li>PRON: που, γω, συ, ‘γού, ‘μείς, ’γώ, π’, εσύ, μεις, πού</li>
+      <li>PROPN: Μπουτέλ, Ανθή, Αντρόνα, Β’ναριώτις, Γιάνν’ς, Ερσσό, Χατζικουμής, γι-Απουστόλ’ς, 15, Αμερική</li>
       <li>SCONJ: τι</li>
-      <li>VERB: αγαπμέν, αγισμένους, λοιμ’τσιασμένους, μιτσ’μένους, στιναχουρημέν, συκλινσμέν, τσ’στάμινους, ψουφμένοι</li>
-      <li>VERB-Part: αγαπμέν, αγισμένους, λοιμ’τσιασμένους, μιτσ’μένους, στιναχουρημέν, συκλινσμέν, τσ’στάμινους</li>
+      <li>VERB: Ευχαριστημέν’, Παντρεμένος, αγαπμέν, αγισμένους, γεννμέν’, καμωμένα, λοιμ’τσιασμένους, μιτσ’μένους, μπαντρεμένος, παντρεμέν’</li>
+      <li>VERB-Part: Ευχαριστημέν’, Παντρεμένος, αγαπμέν, αγισμένους, γεννμέν’, καμωμένα, λοιμ’τσιασμένους, μιτσ’μένους, μπαντρεμένος, παντρεμέν’</li>
     </ul>
   </li>
 </ul>
@@ -370,7 +376,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
     <ul>
       <li>ADJ: κυρά, Αγιά, Κύριοι, Ρήνιω, απρόκουφτι, αχριγιάννα, κυρ, κ’μπάρι</li>
       <li>INTJ: μουρή, βουρή, μουρ, Βούρ’, μουρά, μουρέ</li>
-      <li>NOUN: γιε, θρώπ’, μάνα, άθρουπι, άντρα, γ’ναίκα, θειά, θεια, κόρη, κόρ’</li>
+      <li>NOUN: γιε, μάνα, θρώπ’, άθρουπι, άντρα, γναίκα, γ’ναίκα, θειά, θεια, κόρη</li>
       <li>PROPN: Ρουζαλία, Ανθή, Ατζιλικο, Βαρβάρα, Γιώργ’, Δημητρό, Θιέ, Θιμιστουκλή, Κόπ’, Μαριγώ</li>
     </ul>
   </li>
@@ -384,7 +390,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Def
     <ul>
-      <li>DET: του, τα, τ’, η, γη, τ’ς, γιου, τουν, τ’ν, τν</li>
+      <li>DET: του, τα, η, τ’, το, γη, οι, τουν, γιου, τ’ς</li>
     </ul>
   </li>
 </ul>
@@ -392,7 +398,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Ind
     <ul>
-      <li>DET: μια, ένας, ένα, καμιά</li>
+      <li>DET: μια, ένα, ένας, έναν, έν’, καμιά</li>
     </ul>
   </li>
 </ul>
@@ -407,6 +413,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Aug
     <ul>
+      <li>ADJ: λίγα</li>
       <li>ADV: ταχτέρ, ίσια, γύρου</li>
       <li>NOUN: πουρνό, άνια, μπέλι, μπούτσια, παλιουπουτανάρα, χειρούκλις</li>
     </ul>
@@ -424,7 +431,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Dim
     <ul>
-      <li>NOUN: κουρούδα, ακκλησιούδα, γαβανέλ, καμαρούδα, καφιδέλ, κουπηλούδια, κουπιλούδια, κουπιλούδ’, μισαλέλε, μουρέλ</li>
+      <li>ADV: λιγάκ’</li>
+      <li>NOUN: κουρούδα, ακκλησιούδα, γαβανέλ, εκκλησέλ, καμαρούδα, καφιδέλ, κουπηλούδια, κουπιλούδια, κουπιλούδ’, λιμανέλ</li>
       <li>PROPN: Μπουτέλ, Ατζιλικό, Ασπασέλ’, Ατζιλικο, Γληγουρέλ’, Κατιρίνη, Μαριγώ, Ν’κουλέλ’, Ξινέλ’, Πιρσιφόν</li>
     </ul>
   </li>
@@ -437,8 +445,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Neg
     <ul>
-      <li>INTJ: Όχ’</li>
-      <li>PART: δεν, δε, ε, μη, εν, μην, Ένι, όχ’, ’εν, Οχ</li>
+      <li>INTJ: όχ’, Όχι, Όχ</li>
+      <li>PART: δεν, δε, εν, ε, μη, όχ’, μην, Ένι, δ’, ’εν</li>
     </ul>
   </li>
 </ul>
@@ -462,9 +470,9 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: είνι, ήνταν, ήταν, ένι, ήμν-ταν, είμι, είναι, είνη, ταν</li>
+      <li>AUX-Fin: ήνταν, ήταν, είνι, είν’, είμαι, είναι, είχε, ένι, ήμν-ταν, είμαστε</li>
       <li>VERB-Conv: γιλώντας, κλέγουντας, τραγδώντας</li>
-      <li>VERB-Fin: έχ’, λέγ’ς, ξέρ’ς, είχι, κάν’, έχου, έχουμι, θέλου, λέγου, μπουρώ</li>
+      <li>VERB-Fin: είχε, έχ’, λέει, έχουν, έπρεπε, είχαν, λέγ’ς, ξέρ’ς, έπρεπ’, είχι</li>
     </ul>
   </li>
 </ul>
@@ -472,8 +480,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Perf
     <ul>
-      <li>VERB-Fin: έλα, ήρτι, είπι, κάνου, πήγι, γυρίσ’, δω, είδι, Έφαγα, Κάτσι</li>
-      <li>VERB-Inf: πέρνη</li>
+      <li>VERB-Fin: έλα, πω, ήρτι, είπε, είπι, κάνου, κάν’, κάτσι, πάρ’, πήγι</li>
+      <li>VERB-Inf: ακούσ’, διαβάσ’, μείν’, πάει, πάρ’, πέρνη, φύγ’</li>
     </ul>
   </li>
 </ul>
@@ -485,7 +493,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: έλα, Κάτσι, Σώπα, άγι, βάλι, πάνι, Έχε, Ακ’σι, Απόβγαζί, Ας</li>
+      <li>VERB-Fin: έλα, κάτσι, Σώπα, άγι, βάλι, πάνι, στρώσε, Άκου, Έχε, Ακ’σι</li>
     </ul>
   </li>
 </ul>
@@ -493,8 +501,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: είνι, ήνταν, ήταν, είναι, ένι, είμι, είνη, ήμν-ταν, είμη, ν’</li>
-      <li>VERB-Fin: έχ’, κάν’, λέγ’ς, ξέρ’ς, ήρτι, είπι, είχι, κάνου, πήγι, έχου</li>
+      <li>AUX-Fin: ήνταν, ήταν, είνι, είναι, είν’, είμαι, ένι, είμι, είνη, είχε</li>
+      <li>VERB-Fin: είχε, έχ’, λέει, κάν’, έχουν, έπρεπε, είχαν, κάνου, λέγ’ς, ξέρ’ς</li>
     </ul>
   </li>
 </ul>
@@ -514,8 +522,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: ήνταν, ήταν, ένι, ήμν-ταν, ταν</li>
-      <li>VERB-Fin: ήρτι, είπι, είχι, πήγι, είδι, Έπριπι, Έφαγα, έκλαψι, έφγει, έφγι</li>
+      <li>AUX-Fin: ήνταν, ήταν, είχε, ένι, ήμν-ταν, ταν</li>
+      <li>VERB-Fin: είχε, έπρεπε, είχαν, έπρεπ’, ήρτι, είπε, είπι, είχι, πήγι, έκανε</li>
     </ul>
   </li>
 </ul>
@@ -523,8 +531,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: είνι, είναι, είμι, είνη, ένι, είμη, ν’, ’μαστι, ’νι</li>
-      <li>VERB-Fin: έχ’, λέγ’ς, ξέρ’ς, κάν’, έχου, έχουμι, θέλου, λέγου, μπουρώ, ξέρ’</li>
+      <li>AUX-Fin: είνι, είναι, είν’, είμαι, είμι, είνη, Έχεις, Έχουν, Έχς, ένι</li>
+      <li>VERB-Fin: έχ’, λέει, έχουν, λέγ’ς, ξέρ’ς, θέλου, κάν’, λέγου, ξέρ’, έχου</li>
     </ul>
   </li>
 </ul>
@@ -536,9 +544,10 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Act
     <ul>
+      <li>AUX-Fin: είχε, Έχεις, Έχουν, Έχς, έχουμ’, ‘χω</li>
       <li>VERB-Conv: γιλώντας, κλέγουντας, τραγδώντας</li>
-      <li>VERB-Fin: έχ’, κάν’, λέγ’ς, ξέρ’ς, είπι, είχι, κάνου, πήγι, έχου, έχουμι</li>
-      <li>VERB-Inf: πέρνη</li>
+      <li>VERB-Fin: είχε, έχ’, λέει, κάν’, έχουν, έπρεπε, είχαν, κάνου, λέγ’ς, ξέρ’ς</li>
+      <li>VERB-Inf: ακούσ’, διαβάσ’, μείν’, πάει, πάρ’, πέρνη, φύγ’</li>
     </ul>
   </li>
 </ul>
@@ -546,9 +555,9 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Pass
     <ul>
-      <li>AUX-Fin: είνι, ήνταν, ήταν, είναι, ένι, είμι, είνη, ήμν-ταν, είμη, ν’</li>
-      <li>VERB-Fin: έλα, ήρτι, Κάτσι, ήρτα, ήρταν, τσμούντου, φαίνητι, Έγινι, Έχε, Αθουώθ’κα</li>
-      <li>VERB-Part: αγαπμέν, αγισμένους, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους, σπασμένα, στιναχουρημέν, συκλινσμέν, τσ’στάμινους</li>
+      <li>AUX-Fin: ήνταν, ήταν, είνι, είναι, είν’, είμαι, ένι, είμι, είνη, ήμν-ταν</li>
+      <li>VERB-Fin: έλα, ήρτι, κάτσι, ήρτα, ήρταν, γίνται, γίνταν, γίν’, γεννήθκα, θμάσαι</li>
+      <li>VERB-Part: Ευχαριστημέν’, Παντρεμένος, αγαπμέν, αγισμένους, γεννμέν’, καμωμένα, καμωμένο, λαδουμένου, λοιμ’τσιασμένους, μιτσ’μένους</li>
     </ul>
   </li>
 </ul>
@@ -564,7 +573,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Art
     <ul>
-      <li>DET: του, τα, τ’, η, γη, τ’ς, γιου, μια, τουν, τ’ν</li>
+      <li>DET: του, τα, η, τ’, το, γη, οι, μια, τουν, γιου</li>
     </ul>
   </li>
 </ul>
@@ -573,7 +582,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
   <li>Dem
     <ul>
       <li>ADV: τόσου</li>
-      <li>DET: αυτό, έγιουτα, έφτα, έφτου, τούτους, φτος, Αυτός, Φτη, Εγίτιου, Τούτ’</li>
+      <li>DET: αυτό, αυτός, φτος, έγιουτα, έφτου, έφτα, αυτή, τούτους, φκοι, Φτη</li>
     </ul>
   </li>
 </ul>
@@ -581,8 +590,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: άλλου, που</li>
-      <li>DET: κανέ, πουλλά, άλλοι, άλλου, πουλλοί</li>
+      <li>ADV: πουλύ, που, άλλου, λίγου</li>
+      <li>DET: πουλλά, άλλου, κάκ’, κάτ’, άλλους, κανέ, άλλα, άλλο, άλλοι, άλλος</li>
     </ul>
   </li>
 </ul>
@@ -590,9 +599,9 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Int
     <ul>
-      <li>ADV: πότι, πού, τίλιγια, πώς, τι</li>
-      <li>DET: τι, αλλουνού, τη</li>
-      <li>PRON: τι, τί, Ποια, Τις, ποιον, ποιος</li>
+      <li>ADV: πού, πότι, γιατί, πώς, τίλιγια, τι, Τίλια</li>
+      <li>DET: τι, αλλουνού, πόθα, πόσα, τη</li>
+      <li>PRON: τι, τί, Ποια, Τις, κι, ποιον, ποιος</li>
       <li>SCONJ: τι</li>
     </ul>
   </li>
@@ -601,7 +610,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Neg
     <ul>
-      <li>DET: κανέναν, κανείς, τίπουτα, κανέ</li>
+      <li>ADV: πουτέ</li>
+      <li>DET: κανείς, καμιά, κανέναν, τίπουτα, κάνα, κίποτα, καμιάν, κανέ, κανένας, ντου</li>
     </ul>
   </li>
 </ul>
@@ -609,7 +619,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: μ’, τ’, τουν, τα, μας, μι, μ, σ’, του, γω</li>
+      <li>PRON: μ’, τ’, τα, μας, του, τουν, σ’, μι, το, μ</li>
     </ul>
   </li>
 </ul>
@@ -617,8 +627,8 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: που, Όσου</li>
-      <li>DET: όποιους, Όσις, όσα</li>
+      <li>ADV: που, όπως, Όσου</li>
+      <li>DET: ό,τ’, όποιους, Όσις, όποιος, όσα</li>
       <li>PRON: που, π’, πού</li>
       <li>SCONJ: που, π’</li>
     </ul>
@@ -629,7 +639,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
   <li>Tot
     <ul>
       <li>ADV: ούλου, πάντα</li>
-      <li>DET: ούλα, ούλ, ούλου, ούλ’, κάθι, ουλ’, κάθα, κάθε, καθένας, ούλους</li>
+      <li>DET: ούλα, ούλ’, ούλ, ούλου, πάντα, κάθι, ουλ’, κάθα, κάθε, καθένας</li>
     </ul>
   </li>
 </ul>
@@ -641,7 +651,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Card
     <ul>
-      <li>NUM: 100, ένα, δυο, μια, 50, 2, 200, 3, δέκα, μιαν</li>
+      <li>NUM: δυο, ένα, μια, 100, 1912, 9, τρία, 12, 120, 13</li>
     </ul>
   </li>
 </ul>
@@ -653,7 +663,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: μ’, τ’, μ, ντ, σ’, ιμ, τ’ς, μας, ς, ιτ</li>
+      <li>PRON: μ’, τ’, μας, μ, σ’, ντ, ιμ, ς, τ’ς, ντουν</li>
     </ul>
   </li>
 </ul>
@@ -666,9 +676,9 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: είμι, είμη, ’μαστι</li>
-      <li>PRON: μ’, μας, μι, μ, γω, ιμ, ’γώ, μεις, ήμ, γώ</li>
-      <li>VERB-Fin: κάνου, έχου, έχουμι, δω, θέλου, λέγου, μπουρώ, Έφαγα, ήρτα, βάλου</li>
+      <li>AUX-Fin: είμαι, είμι, έχουμ’, είμαστε, είμη, ‘χω, ’μαστι</li>
+      <li>PRON: μ’, μας, μι, μ, γω, ιμ, ‘γού, ‘μείς, ’γώ, μένα</li>
+      <li>VERB-Fin: κάνου, πω, θέλου, λέγου, έχου, έχουμι, δω, μπουρώ, ξέρου, Έφαγα</li>
     </ul>
   </li>
 </ul>
@@ -676,8 +686,9 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>2
     <ul>
-      <li>PRON: σ’, σι, συ, ς, σ, σας, μ’, ση, ισύ, σένα</li>
-      <li>VERB-Fin: έλα, λέγ’ς, ξέρ’ς, Κάτσι, Σώπα, άγι, βάλι, θέλ’ς, κάνιτι, ξερς</li>
+      <li>AUX-Fin: Έχεις, Έχς</li>
+      <li>PRON: σ’, συ, σι, ς, σ, σας, σε, εσύ, μ’, ση</li>
+      <li>VERB-Fin: έλα, λέγ’ς, ξέρ’ς, κάτσι, θες, λες, ξέρς, πεις, Σώπα, άγι</li>
     </ul>
   </li>
 </ul>
@@ -685,10 +696,10 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: είνι, ήνταν, ήταν, είναι, ένι, είνη, ήμν-ταν, ν’, ταν, ’νι</li>
-      <li>DET: φτος, Αυτός, έφτοι, έφτου</li>
-      <li>PRON: τ’, τουν, τα, του, ντ, τ’ς, ντα, τό, ιτ, ν-τουν</li>
-      <li>VERB-Fin: έχ’, κάν’, ήρτι, είπι, είχι, πήγι, γυρίσ’, είδι, ξέρ’, πα</li>
+      <li>AUX-Fin: ήνταν, ήταν, είνι, είναι, είν’, ένι, είνη, είχε, Έχουν, έχ’</li>
+      <li>DET: αυτός, φτος, έφτοι, έφτου, αυτοί</li>
+      <li>PRON: τ’, τα, του, τουν, το, ντ, τ’ς, τς, ντα, ντουν</li>
+      <li>VERB-Fin: είχε, έχ’, λέει, κάν’, έχουν, έπρεπε, είχαν, πα, έπρεπ’, ήρτι</li>
     </ul>
   </li>
 </ul>
@@ -704,17 +715,23 @@ This work has been carried out within the Archimedes Research Unit of the Athena
     <ul>
       <li>ADP
         <ul>
-          <li>ADP: απ</li>
-          <li>ADV: ίσια, πα, πριν, Ύστιρα, Απάνου, ανάμισα, ιδώ, πά</li>
+          <li>ADP: απ, μες, χωρίς</li>
+          <li>ADV: ίσια, μέσα, μες, πάν’, πα, πριν, Ύστιρα, Απάνου, ανάμισα, ιδώ</li>
+          <li>VERB: πάν’</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADV: Σαν, Σιγά, άλλου, μο</li>
-          <li>NOUN: καλού</li>
+          <li>ADJ: καλού</li>
+          <li>ADV: Λίγου, Σαν, Σιγά, άλλου, μες, μο</li>
           <li>NUM: 100</li>
           <li>PART: μπά, Μπα</li>
           <li>SCONJ: π’</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: ακόμα</li>
         </ul>
       </li>
       <li>INTJ
@@ -725,7 +742,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
       <li>SCONJ
         <ul>
           <li>ADP: για</li>
-          <li>SCONJ: που</li>
+          <li>SCONJ: παρόλο, που</li>
         </ul>
       </li>
     </ul>
@@ -756,11 +773,11 @@ This work has been carried out within the Archimedes Research Unit of the Athena
           <li>CCONJ: τσί, τσι’</li>
           <li>DET: τσ’, γη, γι, ι, κατ’, Φτη, έγτσιν, γή, πουλι, τα</li>
           <li>INTJ: άγντη</li>
-          <li>NOUN: Αφουρμί, γ-κόσμου, δλεια, δυουλιά, ηφτσή, καφαλτή, κουπηλούδια, μ-προυκουπή, μάννα, μιθύσς</li>
+          <li>NOUN: Αφουρμί, γ-κόσμου, δλεια, δυουλιά, δ’λιά, ηφτσή, καφαλτή, κουπηλούδια, μ-προυκουπή, μάννα</li>
           <li>PART: Οχ, ένη</li>
           <li>PRON: ’γώ, τό, ν-τουν, πού, τά, ση, τί, τσ, Γω, ήμ</li>
           <li>PROPN: 15, Ατζιλικο, Γνάτσ, Θρασίβουλου, Κατιρίνη, Ξυνόφς, Σμυρν’, Φρουσήν, τσιριατσή</li>
-          <li>SCONJ: νά</li>
+          <li>SCONJ: μι, νά</li>
           <li>VERB-Conv: κλέγουντας</li>
           <li>VERB-Fin: έφγει, λόγιαζει, ξερς, πήγει, πιάσει, φαίνητι, φώναζει, Ανέβτσει, Κοίτιτι, έδξει</li>
           <li>VERB-Inf: πέρνη</li>
@@ -780,7 +797,7 @@ This work has been carried out within the Archimedes Research Unit of the Athena
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: θα, να, ας.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: θα, να, έχου, ας.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -789,9 +806,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (12)</li>
-      <li>VERB-Fin--NOUN-Nom (57)</li>
-      <li>VERB-Fin--PRON-Nom (32)</li>
+      <li>VERB-Fin--NOUN-Acc (14)</li>
+      <li>VERB-Fin--NOUN-Nom (116)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(σι) (1)</li>
+      <li>VERB-Fin--PRON-Nom (56)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN-Nom (2)</li>
     </ul>
   </li>
 </ul>
@@ -800,12 +820,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Acc (117)</li>
-      <li>VERB-Fin--NOUN-Nom (5)</li>
-      <li>VERB-Fin--PRON-Acc (86)</li>
+      <li>VERB-Fin--NOUN-Acc (210)</li>
+      <li>VERB-Fin--NOUN-Nom (8)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Acc (143)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Inf--PRON-Acc (1)</li>
+      <li>VERB-Inf--PRON-Acc (2)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -813,8 +835,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON-Acc (12)</li>
-      <li>VERB-Fin--PRON-Gen (7)</li>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
+      <li>VERB-Fin--PRON-Acc (16)</li>
+      <li>VERB-Fin--PRON-Gen (12)</li>
     </ul>
   </li>
 </ul>
@@ -826,5 +849,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>compound:redup</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>dep</a></li>
 </ul>

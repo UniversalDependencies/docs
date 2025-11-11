@@ -72,7 +72,7 @@ The following 3 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 3	Wild	Wild	X	FW	Foreign=Yes	2	appos	_	Proper=True
 4	West	West	X	FW	Foreign=Yes	3	flat:foreign	_	Proper=True
 5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
-6	1981	1981	NUM	CD	_	2	obl:mod	_	SpaceAfter=No
+6	1981	1981	NUM	CD	_	2	nmod	_	SpaceAfter=No
 7	)	)	PUNCT	)	_	6	punct	_	_
 8	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_
 9	été	être	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	cop	_	_

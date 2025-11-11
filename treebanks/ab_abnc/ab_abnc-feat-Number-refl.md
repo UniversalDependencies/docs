@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ab_abnc-feat-Number.html">Number</a></tt>, <tt><a href="ab_abnc-feat-Number-cs.html">Number[cs]</a></tt>, <tt><a href="ab_abnc-feat-Number-io.html">Number[io]</a></tt>, <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt>, <tt><a href="ab_abnc-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="ab_abnc-feat-Number-po.html">Number[po]</a></tt>, <tt><a href="ab_abnc-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="ab_abnc-feat-Number-refl.html">Number[refl]</a></tt>, <tt><a href="ab_abnc-feat-Number-ro.html">Number[ro]</a></tt>, <tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt>.
 
-21 tokens (0%) have a non-empty value of `Number[refl]`.
-21 types (1%) occur at least once with a non-empty value of `Number[refl]`.
-15 lemmas (1%) occur at least once with a non-empty value of `Number[refl]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (21; 0% instances).
+24 tokens (0%) have a non-empty value of `Number[refl]`.
+24 types (1%) occur at least once with a non-empty value of `Number[refl]`.
+17 lemmas (1%) occur at least once with a non-empty value of `Number[refl]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (24; 0% instances).
 
 ### `VERB`
 
-21 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Number[refl]`.
+24 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Number[refl]`.
 
-The most frequent other feature values with which `VERB` and `Number[refl]` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (21; 100%), <tt><a href="ab_abnc-feat-Number-io.html">Number[io]</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (19; 90%), <tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17; 81%), <tt><a href="ab_abnc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (16; 76%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (14; 67%), <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt><tt>=EMPTY</tt> (14; 67%).
+The most frequent other feature values with which `VERB` and `Number[refl]` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (24; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (22; 92%), <tt><a href="ab_abnc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (18; 75%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (17; 71%), <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt><tt>=EMPTY</tt> (17; 71%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (17; 71%), <tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt> (15; 63%).
 
 `VERB` tokens may have the following values of `Number[refl]`:
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `VERB` and `Number[refl]` co-o
   <tr><td><tt><tt><a href="ab_abnc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ab_abnc-feat-Number-refl.html">Number[refl]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ab_abnc-feat-Person-refl.html">Person[refl]</a></tt><tt>=2</tt>|<tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>шәҽаанышәкыл</em></td><td></td></tr>
 </table>
 
-`Number[refl]` seems to be **lexical feature** of `VERB`. 93% lemmas (14) occur only with one value of `Number[refl]`.
+`Number[refl]` seems to be **lexical feature** of `VERB`. 94% lemmas (16) occur only with one value of `Number[refl]`.
 

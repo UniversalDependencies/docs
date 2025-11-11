@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-208 nodes (1%) are attached to their parents as `compound`.
+223 nodes (1%) are attached to their parents as `compound`.
 
-194 instances of `compound` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.43269230769231.
+160 instances of `compound` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.79820627802691.
 
-The following 24 pairs of parts of speech are connected with `compound`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (57; 27% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (33; 16% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (29; 14% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (26; 13% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (19; 9% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (10; 5% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `compound`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (44; 20% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (36; 16% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (34; 15% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (29; 13% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (22; 10% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (13; 6% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (12; 5% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (11; 5% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,6 +34,30 @@ The following 24 pairs of parts of speech are connected with `compound`: <tt><a 
 10	てき	てくる	AUX	助動詞-カ行変格	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=テ;クル,て;来る,て;き,て;くる,テ;キ,;,;,テ;クル,テクル,てくる
 11	た	た	AUX	助動詞-助動詞-タ	_	9	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=タ,た,た,た,タ,,,タ,タ,た
 12	。	。	PUNCT	補助記号-句点	_	9	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,。,。,。,,,,,,。
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 compound	color:blue
+1	彼ら	彼等	PRON	代名詞	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=カレ;ラ,彼;等,彼;ら,彼;ら,カレ;ラ,;,;,カレ;ラ,カレラ,彼等
+2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
+3	初代国王	初代国王	NOUN	名詞-普通名詞-一般	_	6	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ショダイ;コクオウ,初代;国王,初代;国王,初代;国王,ショダイ;コクオー,;,;,ショダイ;コクオウ,ショダイコクオウ,初代国王
+4	は	は	ADP	助詞-係助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
+5	モイミール	モイミール	PROPN	名詞-固有名詞-人名-一般	_	6	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=モイミール,モイミール,モイミール,モイミール,モイミール,,,モイミール,モイミール,モイミール
+6	1世	1世	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=I|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=イチ;セイ,一;世,1;世,1;世,イッ;セー,;,;,イチ;セイ,イッセイ,1世
+7	（	（	PUNCT	補助記号-括弧開	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,（,（,（,,,,,,（
+8	830年	830年	NUM	名詞-数詞	_	6	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=ハチ;サン;ゼロ;ネン,八;三;ゼロ;年,8;3;0;年,8;3;0;年,ハチ;サン;ゼロ;ネン,;;;,;;;,ハチ;サン;ゼロ;ネン,ハチサンゼロネン,830年
+9	–	–	SYM	補助記号-一般	_	6	dep	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,–,–,–,,,,,,–
+10	846年統治	846年統治	NOUN	名詞-普通名詞-一般	_	6	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=ハチ;ヨン;ロク;ネン;トウチ,八;四;六;年;統治,8;4;6;年;統治,8;4;6;年;統治,ハチ;ヨン;ロク;ネン;トーチ,;;;;,;;;;,ハチ;ヨン;ロク;ネン;トウチ,ハチヨンロクネントウチ,846年統治
+11	）	）	PUNCT	補助記号-括弧閉	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,）,）,）,,,,,,）
+12	でし	です	AUX	助動詞-助動詞-デス	_	6	cop	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|PrevUDLemma=だ|SpaceAfter=No|UnidicInfo=デス,です,でし,です,デシ,,,デス,デス,です
+13	た	た	AUX	助動詞-助動詞-タ	_	6	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=タ,た,た,た,タ,,,タ,タ,た
+14	。	。	PUNCT	補助記号-句点	_	6	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -61,31 +85,6 @@ The following 24 pairs of parts of speech are connected with `compound`: <tt><a 
 15	れ	れる	AUX	助動詞-助動詞-レル	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=レル,れる,れ,れる,レ,,,レル,レル,れる
 16	た	た	AUX	助動詞-助動詞-タ	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=タ,た,た,た,タ,,,タ,タ,た
 17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,。,。,。,,,,,,。
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 compound	color:blue
-1	彼ら	彼等	PRON	代名詞	_	13	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=カレ;ラ,彼;等,彼;ら,彼;ら,カレ;ラ,;,;,カレ;ラ,カレラ,彼等
-2	は	は	ADP	助詞-係助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
-3	、	、	PUNCT	補助記号-読点	_	1	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
-4	全国平均グレード	全国平均グレード	NOUN	名詞-普通名詞-一般	_	5	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=ゼンコク;ヘイキン;グレード,全国;平均;グレード,全国;平均;グレード,全国;平均;グレード,ゼンコク;ヘーキン;グレード,;;,;;,ゼンコク;ヘイキン;グレード,ゼンコクヘイキングレード,全国平均グレード
-5	4	4	NUM	名詞-数詞	_	7	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ヨン,四,4,4,ヨン,,,ヨン,ヨン,4
-6	に	に	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
-7	位置し	位置する	VERB	動詞-一般-サ行変格	_	13	advcl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=イチ;スル,位置;為る,位置;し,位置;する,イチ;シ,;,;,イチ;スル,イチスル,位置する
-8	、	、	PUNCT	補助記号-読点	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
-9	全国平均グレード	全国平均グレード	NOUN	名詞-普通名詞-一般	_	10	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=ゼンコク;ヘイキン;グレード,全国;平均;グレード,全国;平均;グレード,全国;平均;グレード,ゼンコク;ヘーキン;グレード,;;,;;,ゼンコク;ヘイキン;グレード,ゼンコクヘイキングレード,全国平均グレード
-10	8	8	NUM	名詞-数詞	_	13	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ハチ,八,8,8,ハチ,,,ハチ,ハチ,8
-11	より	より	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ヨリ,より,より,より,ヨリ,,,ヨリ,ヨリ,より
-12	も	も	ADP	助詞-係助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=モ,も,も,も,モ,,,モ,モ,も
-13	優れ	優れる	VERB	動詞-一般-下一段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=スグレル,優れる,優れ,優れる,スグレ,,,スグレル,スグレル,優れる
-14	ている	ている	AUX	助動詞-上一段-ア行	_	13	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=テ;イル,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
-15	。	。	PUNCT	補助記号-句点	_	13	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

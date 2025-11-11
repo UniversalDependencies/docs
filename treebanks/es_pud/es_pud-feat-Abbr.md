@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>EE.</em>
-* `EMPTY` (4814): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
+* `EMPTY` (4816): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
 
 ## Relations with Agreement in `Abbr`
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: POS Tags: `SCONJ`
 
 There are 37 `SCONJ` lemmas (2%), 37 `SCONJ` types (1%) and 292 `SCONJ` tokens (3%).
-Out of 15 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 9 in number of types and 9 in number of tokens.
+Out of 15 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 9 in number of types and 8 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>que, para, porque, tla, in, cuando, ihcuac, como, nic, tlen</em>
 
@@ -21,41 +21,41 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="nhi_itml-pos-S
 * <em>que</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 38: <em>Me imagino <b>que</b> de non motrataroa .</em>
   * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2: <em>Neh niniqui cachi xitlaixmati <b>que</b> neh .</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2: <em>Huan o tiyayah o titlapiyayah ich ce lugar <b>que</b> itoca Cohtla , huan occe lugar <b>que</b> itoca Zaloncuatlauhco .</em>
+  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 2: <em>Huan otiyayah otitlapiyayah ich ce lugar <b>que</b> itoca Cohtla , huan occe lugar <b>que</b> itoca Zaloncuatlauhco .</em>
 * <em>para</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 37: <em>Nikah itich n pueblo , mikeh timanimaroa <b>para</b> tiyaskeh canadá .</em>
   * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 34: <em>Mota yas <b>para</b> que ya motekas n telpukatl .</em>
 * <em>n</em>
   * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 411: <em>Nikah itich <b>n</b> pueblo , mikeh timanimaroa para tiyaskeh canadá .</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 24: <em>Ya mikeh <b>n</b> poliwtokeh n tlahpiyalmeh .</em>
-  * <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1: <em>Nikah ich n parque , kwaltsih <b>n</b> o moyehyektlaleh .</em>
+  * <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1: <em>Nikah ich n parque , kwaltsih <b>n</b> omoyehyektlaleh .</em>
 * <em>cuando</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 14: <em>Huan neh niquihlnamiqui <b>cuando</b> nomama o mocahuaya sin tomen</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4: <em>Huan <b>cuando</b> o nipiyaya veintinueve años o niquihtoh , “ Neh niyaz in escuela .</em>
+  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 14: <em>Huan neh niquihlnamiqui <b>cuando</b> nomama omocahuaya sin tomen</em>
+  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4: <em>Huan <b>cuando</b> onipiyaya veintinueve años oniquihtoh , “ Neh niyaz in escuela .</em>
 * <em>ihcuac</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 7: <em>Y o tlaocox , huan icompa ya cniqui tzahtzic , <b>ihcuac</b> o peuh icyolhuia :</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3: <em>Huehca y o yaya , <b>ihcuac</b> o chualitac ce tapalcatihuilotl ica atl .</em>
+  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 7: <em>Y otlaocox , huan icompa ya cniqui tzahtzic , <b>ihcuac</b> peuh oicyolhuia :</em>
+  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3: <em>Huehca y oyaya , <b>ihcuac</b> ochualitac ce tapalcatihuilotl ica atl .</em>
 * <em>como</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Después telpukatl yuwi n bohtlah , <b>como</b> n ichah katki itenko n bohtlah .</em>
-  * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1: <em>Techtrataroa kwale n gente , gente ompa amables , amo malos , simplemente <b>como</b> notewah o semopartaroh kwale .</em>
+  * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1: <em>Techtrataroa kwale n gente , gente ompa amables , amo malos , simplemente <b>como</b> notewah osemopartaroh kwale .</em>
   * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1: <em>Pero <b>como</b> a veces México es cimi difícil como para ompa cechanchihuaz o para cetiquitiz ompa ye motlani cimi tzocopintzi tomen , huan nochi patiyo .</em>
 * <em>nic</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Uan ihcuacon in pollito simi o pac <b>nic</b> o cahsic nimaman .</em>
+  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Uan ihcuacon in pollito simi opac <b>nic</b> ocahsic nimaman .</em>
   * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3: <em>Yeh icmatoc <b>nic</b> ohueh cahciz atl .</em>
 * <em>tlen</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 51: <em>Ya después n iskwintli amo kimati <b>tlen</b> o kichih .</em>
+  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 51: <em>Ya después n iskwintli amo kimati <b>tlen</b> okichih .</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Entonces n telpukatl kwalani <b>tlen</b> kitlapana n frasco .</em>
   * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1: <em>¿ Max amo itmati <b>tlen</b> edad ikpia ?</em>
 * <em>ijkwak</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Ixpiya kwidado <b>ijkwak</b> ikompa tiyoj .</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1: <em>San <b>ijkwak</b> o tlalolinti kis chikawak .</em>
+  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1: <em>San <b>ijkwak</b> otlalolinti kis chikawak .</em>
 * <em>keh</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 5: <em><b>keh</b> amo kwale niwalmokopas , siempre o nikpix n pakilis n nehwatl .</em>
-  * <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1: <em>Ompa o seahsik wan sa <b>keh</b> dos , tres danzas n o sekitak .</em>
+  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 5: <em><b>keh</b> amo kwale niwalmokopas , siempre onikpix n pakilis n nehwatl .</em>
+  * <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1: <em>Ompa oseahsik wan sa <b>keh</b> dos , tres danzas n osekitak .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.474576).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.468205).
 
 The 1st highest number of forms (3) was observed with the lemma “porque”: <em>Porkeh, porke, porque</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>para, que, tla, n, porque, ihcuac, nic, tlen, cuando, ijkwak</em>
 
 `SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="nhi_itml-dep-mark.html">mark</a></tt> (259; 89% instances), <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (13; 4% instances), <tt><a href="nhi_itml-dep-case.html">case</a></tt> (6; 2% instances), <tt><a href="nhi_itml-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="nhi_itml-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="nhi_itml-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="nhi_itml-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="nhi_itml-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (236; 81% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (14; 5% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (10; 3% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (9; 3% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (236; 81% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (14; 5% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (13; 4% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (11; 4% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (9; 3% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances),  (1; 0% instances)
 
 289 (99%) `SCONJ` nodes are leaves.
 

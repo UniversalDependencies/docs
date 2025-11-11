@@ -24,17 +24,17 @@ The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 aux	color:blue
 1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	participants	participant	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+2	participants	participant	NOUN	_	Number=Plur	8	nsubj	_	Gender[lex]=Masc
 3	à	à	ADP	_	_	5	case	_	_
 4	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
-5	manifestation	manifestation	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	manifestation	manifestation	NOUN	_	Number=Sing	2	nmod	_	Gender[lex]=Fem
 6	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 7	verront	voir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
 8	offrir	offrir	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	_
-10	lunettes	lunette	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
+10	lunettes	lunette	NOUN	_	Number=Plur	8	obj	_	Gender[lex]=Fem
 11	de	de	ADP	_	_	12	case	_	_
-12	protection	protection	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	protection	protection	NOUN	_	Number=Sing	10	nmod	_	Gender[lex]=Fem|SpaceAfter=No
 13	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~

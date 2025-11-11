@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (118; 3% of non-empty `Mood`): <em>cave, aspice, noli, proficiscere, refer, Credite, crede, da, desine, dic</em>
 * `Ind` (2985; 79% of non-empty `Mood`): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, iussit, potest</em>
 * `Sub` (683; 18% of non-empty `Mood`): <em>possit, posset, audiat, faceret, aperuisset, facias, diceret, haberet, possent, putes</em>
-* `EMPTY` (2001): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
+* `EMPTY` (2003): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>

@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4485; 68% of non-empty `VerbForm`): <em>romper, analise, confira, resultou, tem, sobe, fechou, pode, vai, veja</em>
+* `Fin` (4483; 68% of non-empty `VerbForm`): <em>romper, analise, confira, resultou, tem, sobe, fechou, pode, vai, veja</em>
 * `Ger` (519; 8% of non-empty `VerbForm`): <em>caindo, subindo, comprando, falando, fazendo, dando, fechando, chegando, testando, saindo</em>
-* `Inf` (1109; 17% of non-empty `VerbForm`): <em>comprar, ver, vender, subir, fazer, saber, entrar, dar, investir, cair</em>
+* `Inf` (1111; 17% of non-empty `VerbForm`): <em>comprar, ver, vender, subir, fazer, saber, entrar, dar, investir, cair</em>
 * `Part` (467; 7% of non-empty `VerbForm`): <em>indicado, ajustadas, comprado, postado, vendido, feito, administrada, cancelado, capitalizada, negociado</em>
 * `EMPTY` (6): <em>CHUPAA, bombar, compra, devlveu, fêz, vêem</em>
 

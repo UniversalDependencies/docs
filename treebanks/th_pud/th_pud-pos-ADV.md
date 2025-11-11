@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Thai-PUD: POS Tags: `ADV`
 
-There are 160 `ADV` lemmas (4%), 160 `ADV` types (4%) and 951 `ADV` tokens (4%).
+There are 160 `ADV` lemmas (4%), 160 `ADV` types (4%) and 952 `ADV` tokens (4%).
 Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, เลย, อีก
+The 10 most frequent `ADV` lemmas: ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, อีก, เลย
 
-The 10 most frequent `ADV` types:  ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, เลย, อีก
+The 10 most frequent `ADV` types:  ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, อีก, เลย
 
-The 10 most frequent ambiguous lemmas: มาก (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 64, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 18), ที่สุด (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 34, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 12), ด้วย (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 33), ขึ้น (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 72, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 29, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 9), ไว้ (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 3), ไป (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 125, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 24), กว่า (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 40, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 23), เลย (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 1), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1), ตาม (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 43, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 7)
+The 10 most frequent ambiguous lemmas: มาก (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 64, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 18), ที่สุด (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 34, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 12), ด้วย (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 33), ขึ้น (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 72, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 29, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 9), ไว้ (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 3), ไป (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 125, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 24), กว่า (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 40, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 23), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21), เลย (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 1), ตาม (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 43, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 7)
 
-The 10 most frequent ambiguous types:  มาก (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 64, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 18), ที่สุด (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 34, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 12), ด้วย (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 33), ขึ้น (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 72, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 29, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 9), ไว้ (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 3), ไป (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 125, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 24), กว่า (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 40, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 23), เลย (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 1), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1), ตาม (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 43, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 7)
+The 10 most frequent ambiguous types:  มาก (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 64, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 18), ที่สุด (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 34, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 12), ด้วย (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 63, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 33), ขึ้น (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 72, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 29, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 9), ไว้ (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 3), ไป (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 125, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 24), กว่า (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 40, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 23), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21), เลย (<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 1), ตาม (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 43, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 19, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 7)
 
 
 * มาก
@@ -41,13 +41,12 @@ The 10 most frequent ambiguous types:  มาก (<tt><a href="th_pud-pos-ADV.ht
 * กว่า
   * <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 40: ทุก วัน นี้ โทรศัพท์ มือถือ ของ เรา เป็น มาก <b>กว่า</b> โทรศัพท์
   * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 23: มี ลูกเรือ <b>กว่า</b> 330 นาย บน เรือ
+* อีก
+  * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 30: อย่างน้อย 330,000 คน รวม ช่าง เทคนิค <b>อีก</b> 10,000 คน มี ส่วน เกี่ยวข้อง ด้วย
+  * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21: นี่ คือ สิ่ง ที่ ทำให้ เรา กลับ มา <b>อีก</b>
 * เลย
   * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21: นี่ ไม่ ได้ ทำให้ นัก ลง ทุน หยุด แห่ กัน เอา เงิน ไป ลง ใน กองทุน <b>เลย</b>
   * <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 1: ฟาโรห์ อียิปต์ พบ ว่า ตัว พระองค์ ประทับ อยู่ ที่ อามูร์รู ตอน เหนือ <b>เลย</b> คาเดช ไป ใน ตูนิป ซึ่ง ไม่ พบ เห็น ทหาร อียิปต์ นาย ใด เลย นับ แต่ รัชสมัย ของ พระเจ้า ทุตโมส ที่ 3 เมื่อ 120 ปี ก่อนหน้า
-* อีก
-  * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 30: อย่างน้อย 330,000 คน รวม ช่าง เทคนิค <b>อีก</b> 10,000 คน มี ส่วน เกี่ยวข้อง ด้วย
-  * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 20: นี่ คือ สิ่ง ที่ ทำให้ เรา กลับ มา <b>อีก</b>
-  * <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1: ใน ช่วง ชีวิต ของ เขา ที่ นั่น คิปลิง พบ และ ตกหลุมรัก กับ ฟลอเรนซ์ การ์ราร์ด ที่ ล่อง เรือ ไป กับ ทริกซ์ ที่ ทะเล ใต้ ( ซึ่ง ทริกซ์ ได้ กลับ มา <b>อีก</b> )
 * ตาม
   * <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 43: 5,000 ดอลลาร์ ต่อ คน สูง สุด <b>ตาม</b> ที่ ได้รับ อนุญาต
   * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 19: อย่าง ไร ก็ <b>ตาม</b> การจัดการ ของ มัน ก็ ไม่ ได้ ปราศจาก คำ วิจารณ์
@@ -63,22 +62,22 @@ The 2nd highest number of forms (1) was observed with the lemma “กว่า�
 
 The 3rd highest number of forms (1) was observed with the lemma “กว้าง”: กว้าง.
 
-`ADV` occurs with 1 features: <tt><a href="th_pud-feat-PronType.html">PronType</a></tt> (2; 0% instances)
+`ADV` occurs with 2 features: <tt><a href="th_pud-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances), <tt><a href="th_pud-feat-PronType.html">PronType</a></tt> (2; 0% instances)
 
-`ADV` occurs with 1 feature-value pairs: `PronType=Int`
+`ADV` occurs with 3 feature-value pairs: `ExtPos=CCONJ`, `ExtPos=SCONJ`, `PronType=Int`
 
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (949 tokens).
-Examples: ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, เลย, อีก
+`ADV` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (947 tokens).
+Examples: ก็, มาก, ที่สุด, ด้วย, ขึ้น, ไว้, ไป, กว่า, อีก, เลย
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (873; 92% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (61; 6% instances), <tt><a href="th_pud-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="th_pud-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="th_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-root.html">root</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (874; 92% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (61; 6% instances), <tt><a href="th_pud-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="th_pud-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="th_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (608; 64% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (104; 11% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (89; 9% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (51; 5% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (37; 4% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (35; 4% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (18; 2% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (609; 64% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (104; 11% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (89; 9% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (51; 5% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (37; 4% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (35; 4% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (18; 2% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances),  (1; 0% instances)
 
-792 (83%) `ADV` nodes are leaves.
+793 (83%) `ADV` nodes are leaves.
 
 130 (14%) `ADV` nodes have one child.
 

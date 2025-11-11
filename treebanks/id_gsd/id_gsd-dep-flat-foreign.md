@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 3	ini	ini	DET	B--	PronType=Dem	2	det	_	SpaceAfter=No|Morf=^ini<b>_B--$
 4	,	,	PUNCT	Z--	_	6	punct	_	Morf=^,<z>_Z--$
 5	seperti	seperti	SCONJ	R--	_	6	mark	_	Morf=^seperti<r>_R--$
-6	menganggap	anggap	VERB	VSA	Mood=Ind|Voice=Act	1	acl	_	Morf=^meN+anggap<v>_VSA$
+6	menganggap	anggap	VERB	VSA	Voice=Act	1	acl	_	Morf=^meN+anggap<v>_VSA$
 7	seluruh	seluruh	DET	B--	PronType=Tot	8	det	_	Morf=^seluruh<b>_B--$
 8	Perancis	perancis	PROPN	NSD	_	6	obj	_	Morf=^perancis<n>_NSD$
 9	sebagai	sebagai	ADP	R--	_	10	case	_	Morf=^sebagai<r>_R--$
@@ -36,8 +36,8 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 11	province	province	X	F--	Foreign=Yes	10	flat:foreign	_	SpaceAfter=No|Morf=^province<f>_F--$
 12	,	,	PUNCT	Z--	_	6	punct	_	Morf=^,<z>_Z--$
 13	kadang-kadang	kadang	ADV	D--	_	14	advmod	_	Morf=^kadang<d>_D--$
-14	dianggap	anggap	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+anggap<v>_VSP$
-15	merendahkan	rendah	VERB	VSA	Mood=Ind|Voice=Act	14	amod	_	SpaceAfter=No|Morf=^meN+rendah<a>+kan_VSA$
+14	dianggap	anggap	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+anggap<v>_VSP$
+15	merendahkan	rendah	VERB	VSA	Voice=Act	14	amod	_	SpaceAfter=No|Morf=^meN+rendah<a>+kan_VSA$
 16	.	.	PUNCT	Z--	_	14	punct	_	Morf=^.<z>_Z--$
 
 ~~~

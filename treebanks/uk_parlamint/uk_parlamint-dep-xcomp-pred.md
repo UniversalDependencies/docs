@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-xcomp.html">xcomp</a></tt>.
 
-2 nodes (0%) are attached to their parents as `xcomp:pred`.
+3 nodes (0%) are attached to their parents as `xcomp:pred`.
 
-1 instances of `xcomp:pred` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+2 instances of `xcomp:pred` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 2 pairs of parts of speech are connected with `xcomp:pred`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (1; 50% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `xcomp:pred`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt> (2; 67% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
 
 
 ~~~ conllu

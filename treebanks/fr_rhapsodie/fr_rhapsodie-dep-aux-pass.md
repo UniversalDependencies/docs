@@ -23,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux:pass	color:blue
-1	et	et	CCONJ	_	_	5	cc	_	_
-2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj:pass	_	_
-3	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	_
-4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
-5	payé	payer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	en	en	ADP	_	_	7	case	_	_
-7	plus	plus	ADV	_	_	5	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	_
+1	et	et	CCONJ	_	_	5	cc	_	AlignBegin=284832|AlignEnd=284862
+2	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj:pass	_	AlignBegin=284862|AlignEnd=284892
+3	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	AlignBegin=284892|AlignEnd=285062
+4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	AlignBegin=285062|AlignEnd=285172
+5	payé	payer	VERB	_	VerbForm=Part|Voice=Pass	0	root	_	AlignBegin=285172|AlignEnd=285382|Gender[ctxt]=Masc|Number[ctxt]=Sing|Tense[denom]=Past
+6	en	en	ADP	_	_	7	case	_	AlignBegin=285382|AlignEnd=285442
+7	plus	plus	ADV	_	_	5	advmod	_	AlignBegin=285442|AlignEnd=285638|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	AlignBegin=285638|AlignEnd=285638
 
 ~~~
 

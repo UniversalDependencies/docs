@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="gya_autogramm-pos-V
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (7; 100% of non-empty `VerbForm`): <em>dáŋáà, HHa-ba, dɛ́ɛ́, gɔ́má, kóáà, mbɛ́rá</em>
-* `EMPTY` (578): <em>ndák, dɛ́, nɛ́, gbó, kpèè, ngbòì, ʔá, bá, ɲɔ̀ŋá, ʔɔ́</em>
+* `EMPTY` (576): <em>ndák, dɛ́, nɛ́, gbó, kpèè, ngbòì, ʔá, bá, ɲɔ̀ŋá, ʔɔ́</em>
 
 ### `PART`
 

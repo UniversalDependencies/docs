@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-198 nodes (1%) are attached to their parents as `flat`.
+220 nodes (1%) are attached to their parents as `flat`.
 
-198 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16666666666667.
+220 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (163; 82% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (13; 7% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (9; 5% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-X.html">X</a></tt> (7; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `flat`: <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (174; 79% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (17; 8% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (9; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (9; 4% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,26 +60,21 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 flat	color:blue
-1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|14:nsubj:pass	_
-2	next	next	ADV	RB	_	3	advmod	3:advmod	_
-3	faced	face	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	defending	defend	VERB	VBG	VerbForm=Ger	5	amod	5:amod	_
-5	champion	champion	NOUN	NN	Number=Sing	3	obj	3:obj	_
-6	and	and	CCONJ	CC	_	8	cc	8:cc	_
-7	top	top	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
-8	seed	seed	NOUN	NN	Number=Sing	5	conj	3:obj|5:conj:and	_
-9	Sara	Sara	PROPN	NNP	Number=Sing	8	flat	8:flat	_
-10	Errani	Errani	PROPN	NNP	Number=Sing	8	flat	8:flat	SpaceAfter=No
-11	,	,	PUNCT	,	_	14	punct	14:punct	_
-12	but	but	CCONJ	CC	_	14	cc	14:cc	_
-13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	14:aux:pass	_
-14	defeated	defeat	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	3:conj:but	SpaceAfter=No
-15	.	.	PUNCT	.	_	3	punct	3:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	Day	day	NOUN	NN	Number=Sing	6	nmod:unmarked	6:nmod:unmarked	TemporalNPAdjunct=Yes
+2	three	three	NUM	CD	NumForm=Word|NumType=Card	1	flat	1:flat	SpaceAfter=No
+3	,	,	PUNCT	,	_	6	punct	6:punct	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+6	back	back	ADV	RB	_	0	root	0:root	_
+7	on	on	ADP	IN	_	9	case	9:case	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+9	EMicro	EMicro	PROPN	NNP	Number=Sing	6	obl	6:obl:on	SpaceAfter=No
+10	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 

@@ -13,16 +13,16 @@ The 10 most frequent `SCONJ` lemmas: <em>кда, што, кода, хоть, б�
 
 The 10 most frequent `SCONJ` types:  <em>кда, што, кода, хоть, Сясы, бта, къда, мъзярда, то</em>
 
-The 10 most frequent ambiguous lemmas: <em>кда</em> (<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>кода</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 15, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 2), <em>хоть</em> (<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 2, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 2), <em>бта</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 3, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1), <em>мзярда</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 4, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1), <em>сяс</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 5, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>кда</em> (<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>кода</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 16, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 2), <em>хоть</em> (<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 2, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 2), <em>бта</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 3, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1), <em>мзярда</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 4, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1), <em>сяс</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 5, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>кда</em> (<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>кода</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 11, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 2), <em>хоть</em> (<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 2, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Сясы</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1), <em>бта</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 3, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>кда</em> (<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>кода</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 12, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 2), <em>хоть</em> (<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 2, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Сясы</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1), <em>бта</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 3, <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>кда</em>
   * <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 9: <em>А мезе <b>кда</b> рамась , аньцек налхксемс , а мон ёран лиендемс .</em>
   * <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1: <em>Лугать ётазь туманть вишке пингстонза , а <b>кда</b> кармасть куцема пандонява вяри , туманць ушедсь шурокстомома .</em>
 * <em>кода</em>
-  * <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 11: <em>И уендихть сенем менельть потмоса , <b>кода</b> оцю морява .</em>
+  * <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 12: <em>И уендихть сенем менельть потмоса , <b>кода</b> оцю морява .</em>
   * <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Сонь равжа сельмонза цифтордсть , <b>кода</b> заря тяштенят .</em>
 * <em>хоть</em>
   * <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 2: <em>Васенце сентябрсь <b>хоть</b> маниель , а менельть песа шарондсть туцянят .</em>
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>кда</em> (<tt><a href="mdf_jr-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.125000 (the average of all parts of speech is 1.547887).
+The form / lemma ratio of `SCONJ` is 1.125000 (the average of all parts of speech is 1.555478).
 
 The 1st highest number of forms (2) was observed with the lemma “кда”: <em>кда, къда</em>.
 

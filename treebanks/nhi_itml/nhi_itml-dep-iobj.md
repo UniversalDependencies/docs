@@ -8,73 +8,76 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `iobj`.
+11 nodes (0%) are attached to their parents as `iobj`.
 
-15 instances of `iobj` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.78947368421053.
+6 instances of `iobj` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45454545454545.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (12; 63% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (6; 32% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (7; 64% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (3; 27% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 iobj	color:blue
-1	Wan	wan	CCONJ	_	_	2	cc	2:cc	NormalizedForm=wan|NormalizedLemma=wan
-2	kitsahtsilihtok	tsahtsilia	VERB	_	Aspect=Prog|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kitsahtsilihtok|NormalizedLemma=tsahtsilia
-3	n	in	DET	_	_	4	det	4:det	NormalizedForm=n|NormalizedLemma=in
-4	irana	rana	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	iobj	2:iobj	NormalizedForm=irana|NormalizedLemma=rana
-5	mach	mach	AUX	_	_	7	aux	7:aux	NormalizedForm=mach|NormalizedLemma=mach
-6	kanih	kani	ADV	_	_	7	advmod	7:advmod	NormalizedForm=kanih|NormalizedLemma=kani
-7	kah	katki	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	SpaceAfter=No|NormalizedForm=kah|NormalizedLemma=katki
-8	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 iobj	color:blue
+1	—	—	PUNCT	_	_	3	punct	3:punct	NormalizedForm=—|NormalizedLemma=—|SpaceAfter=No
+2	Porque	porque	ADV	_	_	3	advmod	3:advmod	NormalizedForm=Porque|NormalizedLemma=porque
+3	oncincac	caqui	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=nsinkak|NormalizedLemma=kaki|Number[subj]=Sing|Person[subj]=1|Subcat=Tran|wordform=ncincac
+4	ictohtoqueh	ihtoa	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	NormalizedForm=iktohtokeh|NormalizedLemma=ihtoa|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|SpaceAfter=No|Subcat=Tran
+5	:	:	PUNCT	_	_	12	punct	12:punct	NormalizedForm=:|NormalizedLemma=:
+6	"	"	PUNCT	_	_	12	punct	12:punct	NormalizedForm="|NormalizedLemma="|SpaceAfter=No
+7	A	a	ADP	_	Foreign=Yes	9	case	9:case	NormalizedForm=a|NormalizedLemma=a
+8	las	la	DET	_	_	9	det	9:det	NormalizedForm=las|NormalizedLemma=la
+9	pulgas	pulga	NOUN	_	Foreign=Yes|Gender=Fem|Number=Plur	12	iobj	12:iobj	NormalizedForm=pulgas|NormalizedLemma=pulga
+10	hay	haber	AUX	_	_	12	aux	12:aux	NormalizedForm=hay|NormalizedLemma=haber
+11	que	que	SCONJ	_	_	12	mark	12:mark	NormalizedForm=que|NormalizedLemma=que
+12	dar	dar	VERB	_	Foreign=Yes|Mood=Ind|VerbForm=Inf	4	parataxis	4:parataxis	NormalizedForm=dar|NormalizedLemma=dar|Subcat=Tran
+13	les	les	PRON	_	_	12	iobj	12:iobj	NormalizedForm=les|NormalizedLemma=les
+14	Raid	raid	PROPN	_	_	12	obj	12:obj	NormalizedForm=raid|NormalizedLemma=raid|SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.|SpaceAfter=No
+16	”	”	PUNCT	_	_	3	punct	3:punct	NormalizedForm=”|NormalizedLemma=”
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 3 iobj	color:blue
-1	solamente	solamente	ADV	_	_	8	advmod	8:advmod	NormalizedForm=solamente|NormalizedLemma=solamente
-2	cada	cada	DET	_	Foreign=Yes	3	det	3:det	NormalizedForm=cada|NormalizedLemma=cada
-3	semeh	semeh	PRON	_	_	8	iobj	8:iobj	NormalizedForm=semeh|NormalizedLemma=semeh
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 iobj	color:blue
+1	Me	yo	PRON	_	_	2	iobj	2:iobj	NormalizedForm=Me|NormalizedLemma=yo
+2	imagino	imaginar	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=imagino|NormalizedLemma=imaginar|Number[subj]=Sing|Person[subj]=1
+3	que	que	SCONJ	_	_	6	mark	6:mark	NormalizedForm=que|NormalizedLemma=que
 4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
-5	tehwah	tehwah	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nmod	3:nmod	NormalizedForm=tehwah|NormalizedLemma=tehwah
-6	n	in	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
-7	dios	dios	PROPN	_	Foreign=Yes	8	nsubj	8:nsubj	NormalizedForm=dios|NormalizedLemma=dios
-8	techmaka	maka	VERB	_	Mood=Ind|Number[dat]=Plur|Number[subj]=Sing|Person[dat]=1|Person[subj]=3|Subcat=Tran|VerbForm=Fin	0	root	0:root	SpaceAfter=No|NormalizedForm=techmaka|NormalizedLemma=maka
-9	.	.	PUNCT	_	_	8	punct	8:punct	NormalizedForm=.|NormalizedLemma=.
+5	non	non	PRON	_	_	6	obl	6:obl	NormalizedForm=non|NormalizedLemma=non
+6	motrataroa	motrataroa	VERB	_	Mood=Ind|Reflex=Yes|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	NormalizedForm=motrataroa|NormalizedLemma=motrataroa|Number[subj]=Sing|Person[subj]=3|SpaceAfter=No|Subcat=Tran
+7	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 iobj	color:blue
-1	O	o	AUX	_	_	2	aux	2:aux	Orig=Oktlahtlanitoj|NormalizedForm=o|NormalizedLemma=o
-2	ktlahtlanitoj	tlahtlani	VERB	_	Aspect=Perf|Mood=Prp|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=ktlahtlanitoh|NormalizedLemma=tlahtlani
-3	in	in	DET	_	_	4	det	4:det	Orig=in|NormalizedForm=in|NormalizedLemma=in
-4	Pilato	pilato	PROPN	_	_	2	iobj	2:iobj	Orig=Pilato|NormalizedForm=pilato|NormalizedLemma=pilato
-5	ma	ma	AUX	_	_	6	aux	6:aux	Orig=makkajkaua|NormalizedForm=ma|NormalizedLemma=ma
-6	kkajkaua	kajkaua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	NormalizedForm=kkahkawa|NormalizedLemma=kahkawa
-7	se	se	DET	_	_	9	det	9:det	Orig=se|NormalizedForm=se|NormalizedLemma=se
-8	n	nakin	DET	_	_	9	det	9:det	Orig=nakin|NormalizedForm=n|NormalizedLemma=nakin
-9	akin	akin	PRON	_	_	6	obj	6:obj	NormalizedForm=akin|NormalizedLemma=_
-10	tzakwtok	tzakwtok	ADJ	_	_	9	amod	9:amod	Orig=tzakwtok,|SpaceAfter=No|NormalizedForm=tsakwtok|NormalizedLemma=tsakwtok
-11	,	,	PUNCT	_	_	15	punct	15:punct	Orig=,|Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,
-12	ojkon	ohkon	ADV	_	_	15	advmod	15:advmod	Orig=ojkon|NormalizedForm=ohkon|NormalizedLemma=ohkon
-13	ken	ken	ADV	_	_	14	advmod	14:advmod	Orig=ken|NormalizedForm=ken|NormalizedLemma=ken
-14	nochipa	nochipa	ADV	_	_	15	advmod	15:advmod	Orig=nochipa|NormalizedForm=nochipa|NormalizedLemma=nochipa
-15	walchiwtiwitz	chiwa	VERB	_	Mood=Ind|Movement=Ven|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|VerbForm=Fin	6	advcl	6:advcl	Orig=walchiwtiwitz|SpaceAfter=No|NormalizedForm=walchiwtiwits|NormalizedLemma=chiwa
-16	.	.	PUNCT	_	_	2	punct	2:punct	Orig=.|NormalizedForm=.|NormalizedLemma=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 iobj	color:blue
+1	N	in	DET	_	_	2	det	2:det	NormalizedForm=n|NormalizedLemma=n|Orig=Natentli
+2	atentli	atentli	NOUN	_	Case=Abs|Number=Sing	11	dislocated	11:dislocated	NormalizedForm=atentli|NormalizedLemma=atentli
+3	non	non	PRON	_	_	5	obj	5:obj	NormalizedForm=non|NormalizedLemma=non|Orig=non
+4	nipa	nipan	ADV	_	_	5	advmod	5:advmod	NormalizedForm=nipa|NormalizedLemma=nipan|Orig=nipa
+5	itkilwia	ilwia	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl	2:acl	NormalizedForm=itkilwia|NormalizedLemma=ilwia|Number[dat]=Sing|Number[subj]=Sing|Orig=itkilwia|Person[dat]=3|Person[subj]=2|Subcat=Tran
+6	Towapan	towapan	PROPN	_	_	5	iobj	5:iobj	NormalizedForm=towapan|NormalizedLemma=towapan|Orig=Towapan,|SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	5:punct	Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,|Orig=,|SpaceAfter=No
+8	...	...	PUNCT	_	_	5	punct	5:punct	NormalizedForm=...|NormalizedLemma=...|Orig=...
+9	yej	yejuatl	PRON	_	Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj	NormalizedForm=yeh|NormalizedLemma=yehwatl|Orig=yej
+10	milawak	milawak	ADV	_	_	11	advmod	11:advmod	NormalizedForm=milawak|NormalizedLemma=milawak|Orig=milawak
+11	weyi	weyi	ADJ	_	Number=Sing	0	root	0:root	NormalizedForm=weyi|NormalizedLemma=weyi|Orig=weyi
+12	temojtij	temojtij	ADV	_	_	11	advmod	11:advmod	NormalizedForm=temohtih|NormalizedLemma=temohtih|Orig=temojtij|SpaceAfter=No
+13	.	.	PUNCT	_	_	11	punct	11:punct	NormalizedForm=.|NormalizedLemma=.|Orig=.
 
 ~~~
 

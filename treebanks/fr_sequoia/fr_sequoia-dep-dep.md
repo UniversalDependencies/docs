@@ -24,21 +24,21 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 13	fgColor:white
 # visual-style 13 16 dep	color:blue
 1	S'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	SpaceAfter=No
-2	agissant	agir	VERB	_	Tense=Pres|VerbForm=Part	13	advcl	_	_
+2	agissant	agir	VERB	_	VerbForm=Part	13	advcl	_	Tense[denom]=Pres
 3	de	de	ADP	_	_	5	case	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	maladie	maladie	NOUN	_	Gender=Fem|Number=Sing	2	obl:arg	_	_
+5	maladie	maladie	NOUN	_	Number=Sing	2	obl:arg	_	Gender[lex]=Fem
 6	de	de	ADP	_	_	7	case	_	_
 7	Paget	Paget	PROPN	_	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	_
-9	Aclasta	Aclasta	PROPN	_	_	13	nsubj	_	_
+9	Aclasta	Aclasta	PROPN	_	_	13	nsubj	_	Gender[lex]=Unknown
 10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
-11	été	être	AUX	_	Tense=Past|VerbForm=Part	13	cop	_	_
+11	été	être	AUX	_	VerbForm=Part	13	cop	_	Tense[denom]=Past
 12	plus	plus	ADV	_	_	13	advmod	_	_
 13	efficace	efficace	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Masc
 14	que	que	SCONJ	_	_	16	case	_	_
 15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	risédronate	risédronate	NOUN	_	Gender=Masc|Number=Sing	13	dep	_	SpaceAfter=No
+16	risédronate	risédronate	NOUN	_	Number=Sing	13	dep	_	Gender[lex]=Masc|SpaceAfter=No
 17	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~
@@ -51,26 +51,26 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 12	fgColor:white
 # visual-style 12 18 dep	color:blue
 1	L'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
-2	estimation	estimation	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
+2	estimation	estimation	NOUN	_	Number=Sing	7	nsubj	_	Gender[lex]=Fem
 3	financière	financier	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	projet	projet	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	projet	projet	NOUN	_	Number=Sing	2	nmod	_	Gender[lex]=Masc
 7	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	valable	valable	ADJ	_	Number=Sing	7	xcomp	_	Gender[ctxt]=Fem
 9	tant	tant	ADV	_	_	12	advmod	_	_
 10	sur	sur	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	plan	plan	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_
+12	plan	plan	NOUN	_	Number=Sing	8	obl:mod	_	Gender[lex]=Masc
 13	de	de	ADP	_	_	14	case	_	_
-14	financement	financement	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+14	financement	financement	NOUN	_	Number=Sing	12	nmod	_	Gender[lex]=Masc
 15	que	que	SCONJ	_	_	18	mark	_	_
 16	pour	pour	ADP	_	_	18	case	_	_
-17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
-18	évolution	évolution	NOUN	_	Gender=Fem|Number=Sing	12	dep	_	_
+17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	Gender[ctxt]=Fem|SpaceAfter=No
+18	évolution	évolution	NOUN	_	Number=Sing	12	dep	_	Gender[lex]=Fem
 19	de	de	ADP	_	_	21	case	_	_
 20	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	dette	dette	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	dette	dette	NOUN	_	Number=Sing	18	nmod	_	Gender[lex]=Fem|SpaceAfter=No
 22	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -89,14 +89,14 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	moins	moins	ADV	_	_	3	fixed	_	InIdiom=Yes
 6	telle	tel	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
 7	que	que	SCONJ	_	_	10	mark	_	_
-8	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
-9	la	lui	PRON	_	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+8	nous	nous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+9	la	lui	PRON	_	Case=Acc|Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 10	concevons	concevoir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	dep	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	6	punct	_	_
 12	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	comporter	comporter	VERB	_	VerbForm=Inf	12	xcomp	_	Subject=SubjRaising
-14	deux	deux	NUM	_	NumType=Card	15	nummod	_	_
-15	éléments	élément	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	SpaceAfter=No
+14	deux	deux	NUM	_	NumType=Card	15	nummod	_	Number[lex]=Plur
+15	éléments	élément	NOUN	_	Number=Plur	13	obj	_	Gender[lex]=Masc|SpaceAfter=No
 16	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~

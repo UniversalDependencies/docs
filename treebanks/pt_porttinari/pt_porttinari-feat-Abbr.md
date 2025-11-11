@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (131; 100% of non-empty `Abbr`): <em>segunda, quarta, sexta, quinta, sr., terça, km, tel., min, nº</em>
-* `EMPTY` (31271): <em>anos, ano, pessoas, dia, país, vez, presidente, tempo, parte, governo</em>
+* `EMPTY` (31131): <em>anos, ano, pessoas, dia, país, vez, presidente, tempo, parte, governo</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Abbr`.
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Tadinhos</em>
-* `EMPTY` (8555): <em>maior, primeira, grande, melhor, novo, primeiro, nova, últimos, brasileira, possível</em>
+* `EMPTY` (8590): <em>maior, grande, melhor, primeira, novo, nova, últimos, brasileira, primeiro, possível</em>
 
 ## Relations with Agreement in `Abbr`
 

@@ -143,7 +143,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (116; 4% of non-empty `Polarity`): <em>nenápadně, nechápavě, netrpělivě, nesměle, nejistě, nerozhodně, nebezpečně, neochotně, nedůvěřivě, nevzrušeně</em>
 * `Pos` (3011; 96% of non-empty `Polarity`): <em>vždycky, dobře, často, víc, dlouho, konečně, rychle, brzy, stejně, náhle</em>
-* `EMPTY` (7704): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
+* `EMPTY` (7825): <em>už, tak, jak, ještě, pak, tam, proč, teď, nikdy, kde</em>
 
 <table>
   <tr><th>Paradigm <i>dlouho</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -160,12 +160,12 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4295; 86%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-aux.html">aux</a></tt>]--> AUX</tt> (2475; 62%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1617; 78%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1590; 78%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1358; 79%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1301; 82%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1302; 82%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-cop.html">cop</a></tt>]--> AUX</tt> (1025; 85%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (493; 91%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (195; 87%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (193; 81%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (189; 69%).
+<tt>VERB --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (189; 69%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-advcl-pred.html">advcl:pred</a></tt>]--> ADJ</tt> (173; 87%).
 

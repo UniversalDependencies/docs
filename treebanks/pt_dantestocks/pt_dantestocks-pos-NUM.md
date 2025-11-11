@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-DANTEStocks: POS Tags: `NUM`
 
-There are 2375 `NUM` lemmas (26%), 2379 `NUM` types (21%) and 5021 `NUM` tokens (6%).
+There are 2375 `NUM` lemmas (26%), 2379 `NUM` types (21%) and 5023 `NUM` tokens (6%).
 Out of 16 observed tags, the rank of `NUM` is: 1 in number of lemmas, 1 in number of types and 7 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>13, 5, 3, 10, 15, um, 2, 1, 4, 31/12/2013</em>
+The 10 most frequent `NUM` lemmas: <em>13, 5, 3, 10, 15, 2, um, 1, 4, 31/12/2013</em>
 
 The 10 most frequent `NUM` types:  <em>13, 5, 3, 10, 15, 2, 1, 4, 31/12/2013, 6</em>
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>4</em> (<tt><a href="pt_dantestocks-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.001684 (the average of all parts of speech is 1.238183).
+The form / lemma ratio of `NUM` is 1.001684 (the average of all parts of speech is 1.238049).
 
 The 1st highest number of forms (2) was observed with the lemma “cinco”: <em>cinco, cindo</em>.
 
@@ -58,7 +58,7 @@ The 2nd highest number of forms (2) was observed with the lemma “dois”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “um”: <em>um, uma</em>.
 
-`NUM` occurs with 4 features: <tt><a href="pt_dantestocks-feat-NumType.html">NumType</a></tt> (5018; 100% instances), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt> (61; 1% instances), <tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt> (1; 0% instances)
+`NUM` occurs with 4 features: <tt><a href="pt_dantestocks-feat-NumType.html">NumType</a></tt> (5020; 100% instances), <tt><a href="pt_dantestocks-feat-Gender.html">Gender</a></tt> (63; 1% instances), <tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt> (1; 0% instances)
 
 `NUM` occurs with 5 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Sing`, `Typo=Yes`
 
@@ -69,11 +69,11 @@ Examples: <em>13, 5, 3, 10, 15, 2, 1, 4, 31/12/2013, 6</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 21 different relations: <tt><a href="pt_dantestocks-dep-nummod.html">nummod</a></tt> (2290; 46% instances), <tt><a href="pt_dantestocks-dep-nmod.html">nmod</a></tt> (1826; 36% instances), <tt><a href="pt_dantestocks-dep-obl.html">obl</a></tt> (326; 6% instances), <tt><a href="pt_dantestocks-dep-conj.html">conj</a></tt> (325; 6% instances), <tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt> (71; 1% instances), <tt><a href="pt_dantestocks-dep-obj.html">obj</a></tt> (52; 1% instances), <tt><a href="pt_dantestocks-dep-appos.html">appos</a></tt> (29; 1% instances), <tt><a href="pt_dantestocks-dep-list.html">list</a></tt> (24; 0% instances), <tt><a href="pt_dantestocks-dep-nsubj.html">nsubj</a></tt> (22; 0% instances), <tt><a href="pt_dantestocks-dep-root.html">root</a></tt> (19; 0% instances), <tt><a href="pt_dantestocks-dep-flat.html">flat</a></tt> (14; 0% instances), <tt><a href="pt_dantestocks-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="pt_dantestocks-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-dep-flat-name.html">flat:name</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-dep-reparandum.html">reparandum</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-dep-ccomp-speech.html">ccomp:speech</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 21 different relations: <tt><a href="pt_dantestocks-dep-nummod.html">nummod</a></tt> (2292; 46% instances), <tt><a href="pt_dantestocks-dep-nmod.html">nmod</a></tt> (1826; 36% instances), <tt><a href="pt_dantestocks-dep-obl.html">obl</a></tt> (326; 6% instances), <tt><a href="pt_dantestocks-dep-conj.html">conj</a></tt> (325; 6% instances), <tt><a href="pt_dantestocks-dep-parataxis.html">parataxis</a></tt> (71; 1% instances), <tt><a href="pt_dantestocks-dep-obj.html">obj</a></tt> (52; 1% instances), <tt><a href="pt_dantestocks-dep-appos.html">appos</a></tt> (29; 1% instances), <tt><a href="pt_dantestocks-dep-list.html">list</a></tt> (24; 0% instances), <tt><a href="pt_dantestocks-dep-nsubj.html">nsubj</a></tt> (22; 0% instances), <tt><a href="pt_dantestocks-dep-root.html">root</a></tt> (19; 0% instances), <tt><a href="pt_dantestocks-dep-flat.html">flat</a></tt> (14; 0% instances), <tt><a href="pt_dantestocks-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="pt_dantestocks-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-dep-flat-name.html">flat:name</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-dep-reparandum.html">reparandum</a></tt> (3; 0% instances), <tt><a href="pt_dantestocks-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-dep-ccomp-speech.html">ccomp:speech</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="pt_dantestocks-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 12 different parts of speech: <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (1691; 34% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1381; 28% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1174; 23% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (376; 7% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (296; 6% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (21; 0% instances),  (19; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 12 different parts of speech: <tt><a href="pt_dantestocks-pos-SYM.html">SYM</a></tt> (1691; 34% instances), <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (1383; 28% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (1174; 23% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (376; 7% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (296; 6% instances), <tt><a href="pt_dantestocks-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="pt_dantestocks-pos-X.html">X</a></tt> (21; 0% instances),  (19; 0% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_dantestocks-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-3023 (60%) `NUM` nodes are leaves.
+3025 (60%) `NUM` nodes are leaves.
 
 1744 (35%) `NUM` nodes have one child.
 

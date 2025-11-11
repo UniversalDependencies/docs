@@ -22,13 +22,13 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
-1	Report	_	VERB	_	_	0	root	_	_
-2	all	_	PRON	_	_	6	det	_	_
-3	out	_	ADV	_	_	5	case	_	_
-4	of	_	ADP	_	_	3	fixed	_	_
-5	tolerance	_	NOUN	_	_	6	nmod	_	_
-6	conditions	_	NOUN	_	_	1	obj	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	1	punct	_	_
+1	Report	report	VERB	_	_	0	root	_	_
+2	all	all	PRON	_	_	6	det	_	_
+3	out	out	ADV	_	_	5	case	_	_
+4	of	of	ADP	_	_	3	fixed	_	_
+5	tolerance	tolerance	NOUN	_	Number=Sing	6	nmod	_	_
+6	conditions	condition	NOUN	_	Number=Plur	1	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -39,24 +39,24 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 15 fixed	color:blue
-1	The	_	DET	_	_	3	det	_	_
-2	utility	_	NOUN	_	_	3	compound	_	_
-3	timer	_	NOUN	_	_	8	nsubj	_	_
-4	shall	_	AUX	_	_	8	aux	_	_
-5	[	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	SRS256	_	PROPN	_	_	3	appos	_	SpaceAfter=No
-7	]	_	PUNCT	_	_	6	punct	_	_
-8	have	_	VERB	_	_	0	root	_	_
-9	a	_	DET	_	_	10	det	_	_
-10	resolution	_	NOUN	_	_	8	obj	_	_
-11	equal	_	ADJ	_	_	16	advmod	_	_
-12	to	_	ADP	_	_	11	fixed	_	_
-13	or	_	CCONJ	_	_	14	cc	_	_
-14	better	_	ADJ	_	_	11	conj	_	_
-15	than	_	SCONJ	_	_	14	fixed	_	_
-16	60.6	_	NUM	_	_	17	nummod	_	_
-17	nanoseconds	_	NOUN	_	_	10	nmod	_	SpaceAfter=No
-18	.	_	PUNCT	_	_	8	punct	_	_
+1	The	the	DET	_	_	3	det	_	_
+2	utility	utility	NOUN	_	Number=Sing	3	compound	_	_
+3	timer	timer	NOUN	_	Number=Sing	8	nsubj	_	_
+4	shall	shall	AUX	_	_	8	aux	_	_
+5	[	[	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	SRS256	SRS256	PROPN	_	_	3	appos	_	SpaceAfter=No
+7	]	]	PUNCT	_	_	6	punct	_	_
+8	have	have	VERB	_	_	0	root	_	_
+9	a	a	DET	_	_	10	det	_	_
+10	resolution	resolution	NOUN	_	Number=Sing	8	obj	_	_
+11	equal	equal	ADJ	_	_	16	advmod	_	_
+12	to	to	ADP	_	_	11	fixed	_	_
+13	or	or	CCONJ	_	_	14	cc	_	_
+14	better	better	ADJ	_	_	11	conj	_	_
+15	than	than	SCONJ	_	_	14	fixed	_	_
+16	60.6	60.6	NUM	_	_	17	nummod	_	_
+17	nanoseconds	nanosecond	NOUN	_	Number=Plur	10	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -67,21 +67,21 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	Gate	_	NOUN	_	_	2	nmod	_	_
-2	activation	_	NOUN	_	_	12	nsubj:pass	_	_
-3	and	_	CCONJ	_	_	5	cc	_	_
-4	signal	_	NOUN	_	_	5	nmod	_	_
-5	loss	_	NOUN	_	_	2	conj	_	_
-6	due	_	ADP	_	_	9	case	_	_
-7	to	_	ADP	_	_	6	fixed	_	_
-8	window	_	NOUN	_	_	9	nmod	_	_
-9	cutoff	_	NOUN	_	_	5	nmod	_	_
-10	must	_	AUX	_	_	12	aux	_	_
-11	be	_	AUX	_	_	12	aux:pass	_	_
-12	taken	_	VERB	_	_	0	root	_	_
-13	into	_	ADP	_	_	14	case	_	_
-14	account	_	NOUN	_	_	12	obl	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	12	punct	_	_
+1	Gate	gate	NOUN	_	Number=Sing	2	nmod	_	_
+2	activation	activation	NOUN	_	Number=Sing	12	nsubj:pass	_	_
+3	and	and	CCONJ	_	_	5	cc	_	_
+4	signal	signal	NOUN	_	Number=Sing	5	nmod	_	_
+5	loss	loss	NOUN	_	Number=Sing	2	conj	_	_
+6	due	due	ADP	_	_	9	case	_	_
+7	to	to	ADP	_	_	6	fixed	_	_
+8	window	window	NOUN	_	Number=Sing	9	nmod	_	_
+9	cutoff	cutoff	NOUN	_	Number=Sing	5	nmod	_	_
+10	must	must	AUX	_	_	12	aux	_	_
+11	be	be	AUX	_	Number=Sing|Tense=Pres	12	aux:pass	_	_
+12	taken	take	VERB	_	_	0	root	_	_
+13	into	into	ADP	_	_	14	case	_	_
+14	account	account	NOUN	_	Number=Sing	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

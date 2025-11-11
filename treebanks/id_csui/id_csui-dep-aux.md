@@ -25,13 +25,13 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	"	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
 2	Mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 3	akan	akan	AUX	MD	_	4	aux	_	_
-4	mulai	mulai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
-5	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	4	xcomp	_	_
+4	mulai	mulai	VERB	VB	Voice=Act	0	root	_	_
+5	merokok	rokok	VERB	VB	Voice=Act	4	xcomp	_	_
 6	kalau	kalau	SCONJ	IN	_	7	mark	_	_
-7	melihat	lihat	VERB	VB	Mood=Ind|Voice=Act	5	advcl	_	_
+7	melihat	lihat	VERB	VB	Voice=Act	5	advcl	_	_
 8	idola	idola	NOUN	NN	Number=Sing	10	nsubj	_	_
 9	mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	8	nmod:poss	_	_
-10	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	7	ccomp	_	SpaceAfter=No
+10	merokok	rokok	VERB	VB	Voice=Act	7	ccomp	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
 12	"	"	PUNCT	''	_	4	punct	_	_
 
@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	motor	motor	NOUN	NN	Number=Sing	2	nmod	_	_
 4	yang	yang	PRON	IN	PronType=Rel	7	nsubj	_	_
 5	tahun	tahun	NOUN	NN	Number=Sing	9	nmod:tmod	_	_
-6	lalu	lalu	VERB	VB	Mood=Ind|Voice=Act	5	acl	_	_
+6	lalu	lalu	VERB	VB	Voice=Act	5	acl	_	_
 7	minus	minus	ADJ	JJ	_	2	acl:relcl	_	_
 8	30	30	NUM	CD	NumType=Card	9	nummod	_	_
 9	persen	persen	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No

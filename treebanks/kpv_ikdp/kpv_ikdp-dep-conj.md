@@ -23,9 +23,9 @@ The following 22 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 4 conj	color:blue
 1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	_
-2	велэдчи	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
+2	велэдчи	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
-4	быдтіс	быдтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	_
+4	быдтіс	быдтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 5	баб	баб	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	OrigLang=ru
 6	миянумес	ми	PRON	Pron	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -47,7 +47,7 @@ The following 22 pairs of parts of speech are connected with `conj`: <tt><a href
 6	,	,	PUNCT	CLB	_	7	punct	_	_
 7	телестанция	телестанция	NOUN	N	Case=Nom|Number=Sing	1	conj	_	Lang=ru
 8	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	7	case	_	_
-9	рӧбиті	рӧбитны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru
+9	рӧбиті	рӧбитны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	OrigLang=ru
 10	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	11	nummod	_	_
 11	во	во	NOUN	N	Case=Nom|Number=Sing	9	obl	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	9	punct	_	_
@@ -70,7 +70,7 @@ The following 22 pairs of parts of speech are connected with `conj`: <tt><a href
 7	на	на	ADV	Adv	_	8	advmod	_	_
 8	лооя	ловъя	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
-10	ветлалэ	ветлыны	VERB	V	Derivation=Al|Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	GTtags=Der/ал,Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+10	ветлалэ	ветлыны	VERB	V	Derivation=Al|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	GTtags=Der/ал,Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
 11	!	!	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~

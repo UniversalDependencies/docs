@@ -26,9 +26,9 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 1	Коркӧ	коркӧ	ADV	Adv	PronType=Ind	4	advmod	_	_
 2	век	век	ADV	Adv	_	4	advmod	_	_
 3	нин	нин	ADV	Adv	_	2	advmod:emph	_	_
-4	гымалас	гымавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+4	гымалас	гымавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 5	и	и	CCONJ	CC	_	6	cc	_	_
-6	зэрас	зэрны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	conj	_	SpaceAfter=No
+6	зэрас	зэрны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -40,7 +40,7 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 advmod:emph	color:blue
-1	Эг	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past	5	aux	_	_
+1	Эг	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin	5	aux	_	_
 2	нин	нин	ADV	Adv	_	5	advmod:emph	_	_
 3	сэтшӧма	сэтшӧма	ADV	Adv	_	5	advmod	_	_
 4	кут	кутны	AUX	V	Connegative=Yes	5	aux	_	_
@@ -62,7 +62,7 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 4	нин	нин	ADV	Adv	_	3	advmod:emph	_	_
 5	кыськӧ	кысь	ADV	Adv	Case=Ela	7	obl	_	_
 6	шур-шар	шур-шар	ADV	Adv	_	7	advmod	_	_
-7	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+7	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	неыджыд	неыджыд	ADJ	A	Case=Nom|Number=Sing|Polarity=Neg	9	amod	_	_
 9	тӧвру	тӧвру	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	7	punct	_	_

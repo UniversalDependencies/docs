@@ -60,12 +60,12 @@ The 2nd highest number of forms (6) was observed with the lemma “laku”: <em>
 
 The 3rd highest number of forms (6) was observed with the lemma “tinggal”: <em>ditinggal, ditinggalkan, ketinggalan, meninggal, meninggalkan, tinggal</em>.
 
-`VERB` occurs with 2 features: <tt><a href="id_pud-feat-Mood.html">Mood</a></tt> (2395; 100% instances), <tt><a href="id_pud-feat-Voice.html">Voice</a></tt> (2395; 100% instances)
+`VERB` occurs with 1 features: <tt><a href="id_pud-feat-Voice.html">Voice</a></tt> (2395; 100% instances)
 
-`VERB` occurs with 3 feature-value pairs: `Mood=Ind`, `Voice=Act`, `Voice=Pass`
+`VERB` occurs with 2 feature-value pairs: `Voice=Act`, `Voice=Pass`
 
 `VERB` occurs with 2 feature combinations.
-The most frequent feature combination is `Mood=Ind|Voice=Act` (1891 tokens).
+The most frequent feature combination is `Voice=Act` (1891 tokens).
 Examples: <em>menjadi, ada, memiliki, membuat, mulai, mengatakan, merupakan, ujar, mendapatkan, bekerja</em>
 
 

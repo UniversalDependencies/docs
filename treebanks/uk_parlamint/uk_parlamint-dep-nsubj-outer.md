@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="uk_parlamint-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-17 nodes (0%) are attached to their parents as `nsubj:outer`.
+26 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-17 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.4705882352941.
+26 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 10.7307692307692.
 
-The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (7; 41% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (5; 29% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (11; 42% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (8; 31% instances), <tt><a href="uk_parlamint-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="uk_parlamint-pos-ADV.html">ADV</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="uk_parlamint-pos-PRON.html">PRON</a></tt>-<tt><a href="uk_parlamint-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -79,7 +79,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 16	-	-	PUNCT	PUNCT	_	19	punct	_	_
 17	ці	цей	DET	DET	Case=Nom|Number=Plur|PronType=Dem	18	det	_	_
 18	порядки	порядок	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
-19	передбачають	передбачати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	appos	_	SpaceAfter=No
+19	передбачають	передбачати	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	parataxis	_	SpaceAfter=No
 20	,	,	PUNCT	PUNCT	_	26	punct	_	_
 21	що	що	SCONJ	SCONJ	_	26	mark	_	_
 22	підприємства	підприємство	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	26	nsubj	_	_

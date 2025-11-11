@@ -22,17 +22,17 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 ccomp	color:blue
-1	Вьсѣ	вьсь	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=103.27
-2	отъ	отъ	ADP	R-	_	3	case	_	ref=103.27
-3	тебе	тꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	ref=103.27
-4	чаѭтъ	чаꙗти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=103.27
-5	Да	да	SCONJ	G-	_	6	mark	_	ref=103.27
-6	дасі	дати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	ref=103.27
-7	пищѫ	пища	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	ref=103.27
-8	імъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl:arg	_	ref=103.27
-9	въ	въ	ADP	R-	_	11	case	_	ref=103.27
-10	благо	благъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	amod	_	ref=103.27
-11	врѣмѩ	врѣмѧ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=103.27
+1	Вьсѣ	вьсь	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=103.27
+2	отъ	отъ	ADP	R-	_	3	case	_	Ref=103.27
+3	тебе	тꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	Ref=103.27
+4	чаѭтъ	чаꙗти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=103.27
+5	Да	да	SCONJ	G-	_	6	mark	_	Ref=103.27
+6	дасі	дати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	Ref=103.27
+7	пищѫ	пища	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Ref=103.27
+8	імъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl:arg	_	Ref=103.27
+9	въ	въ	ADP	R-	_	11	case	_	Ref=103.27
+10	благо	благъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	amod	_	Ref=103.27
+11	врѣмѩ	врѣмѧ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	Ref=103.27
 
 ~~~
 
@@ -43,14 +43,14 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 ccomp	color:blue
-1	и҅	и	CCONJ	C-	_	5	cc	_	ref=19
-2	нѣкотории	нѣкоторꙑи	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=19
-3	о҅тъ	отъ	ADP	R-	_	4	case	_	ref=19
-4	е҅линъ	елинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	ref=19
-5	о҅бадише	обадити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=19
-6	е҅пископа	епискоупъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obj	_	ref=19
-7	глагол҄ѫште	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	ref=19
-8	ꙗ҅ко	ꙗко	SCONJ	G-	_	7	ccomp	_	ref=19
+1	и҅	и	CCONJ	C-	_	5	cc	_	Ref=19
+2	нѣкотории	нѣкоторꙑи	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Ref=19
+3	о҅тъ	отъ	ADP	R-	_	4	case	_	Ref=19
+4	е҅линъ	елинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	Ref=19
+5	о҅бадише	обадити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=19
+6	е҅пископа	епискоупъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obj	_	Ref=19
+7	глагол҄ѫште	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	Ref=19
+8	ꙗ҅ко	ꙗко	SCONJ	G-	_	7	ccomp	_	Ref=19
 
 ~~~
 
@@ -61,17 +61,17 @@ The following 31 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 ccomp	color:blue
-1	Ї	и	CCONJ	C-	_	2	cc	_	ref=77.39
-2	помѣнѫ	помѧнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=77.39
-3	ѣко	ꙗко	SCONJ	G-	_	4	mark	_	ref=77.39
-4	плоть	плъть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	ref=77.39
-5	сѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=77.39
-6	дх҃ъ	доухъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=77.39
-7	ходѩ	ходити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	ref=77.39
-8	ї	и	CCONJ	C-	_	10	cc	_	ref=77.39
-9	не	не	ADV	Df	Polarity=Neg	10	advmod	_	ref=77.39
-10	обраштаѩ	обращати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	conj	_	ref=77.39
-11	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	ref=77.39
+1	Ї	и	CCONJ	C-	_	2	cc	_	Ref=77.39
+2	помѣнѫ	помѧнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=77.39
+3	ѣко	ꙗко	SCONJ	G-	_	4	mark	_	Ref=77.39
+4	плоть	плъть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	Ref=77.39
+5	сѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=77.39
+6	дх҃ъ	доухъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	Ref=77.39
+7	ходѩ	ходити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	acl	_	Ref=77.39
+8	ї	и	CCONJ	C-	_	10	cc	_	Ref=77.39
+9	не	не	ADV	Df	Polarity=Neg	10	advmod	_	Ref=77.39
+10	обраштаѩ	обращати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	conj	_	Ref=77.39
+11	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	Ref=77.39
 
 ~~~
 

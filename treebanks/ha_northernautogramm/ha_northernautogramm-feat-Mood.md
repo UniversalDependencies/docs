@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Jus` (20; 100% of non-empty `Mood`): <em>bàri, shìga, dìːba, i, rùmaː, tàhi, wùceː, saː, shìryaː, ƙàːraː</em>
-* `EMPTY` (709): <em>cèː, yi, cêː, zakà, zoː, ga, tàhiyàː, yîː, ji, taɓà</em>
+* `EMPTY` (707): <em>cèː, yi, cêː, zakà, zoː, ga, tàhiyàː, yîː, ji, taɓà</em>
 
 `Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (12) occur only with one value of `Mood`.
 

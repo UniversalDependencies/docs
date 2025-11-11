@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Ika Alfina, Jessica Naraiswari Arwidarasti, Muhammad Yudistira Hanifmuti, Arawinda Dinakaramani, Ruli Manurung, Fam Rashel, Andry Luthfi.
 
 Repository: [UD_Indonesian-CSUI](https://github.com/UniversalDependencies/UD_Indonesian-CSUI)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_csui216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_csui217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,7 +77,7 @@ Other characteristics of the treebank:
 
 ## Features
 
-[Clusivity](id_csui-feat-Clusivity.html) – [Definite](id_csui-feat-Definite.html) – [Degree](id_csui-feat-Degree.html) – [ExtPos](id_csui-feat-ExtPos.html) – [Foreign](id_csui-feat-Foreign.html) – [Mood](id_csui-feat-Mood.html) – [Number](id_csui-feat-Number.html) – [NumType](id_csui-feat-NumType.html) – [Person](id_csui-feat-Person.html) – [Polarity](id_csui-feat-Polarity.html) – [Polite](id_csui-feat-Polite.html) – [PronType](id_csui-feat-PronType.html) – [Reflex](id_csui-feat-Reflex.html) – [Voice](id_csui-feat-Voice.html)
+[Clusivity](id_csui-feat-Clusivity.html) – [Definite](id_csui-feat-Definite.html) – [Degree](id_csui-feat-Degree.html) – [ExtPos](id_csui-feat-ExtPos.html) – [Foreign](id_csui-feat-Foreign.html) – [Number](id_csui-feat-Number.html) – [NumType](id_csui-feat-NumType.html) – [Person](id_csui-feat-Person.html) – [Polarity](id_csui-feat-Polarity.html) – [Polite](id_csui-feat-Polite.html) – [PronType](id_csui-feat-PronType.html) – [Reflex](id_csui-feat-Reflex.html) – [Voice](id_csui-feat-Voice.html)
 
 ## Relations
 
@@ -225,17 +225,6 @@ Other characteristics of the treebank:
 
 
 
-<ul>
-  <li><a>Mood</a></li>
-</ul>
-
-<ul>
-  <li>Ind
-    <ul>
-      <li>VERB: kata, menjadi, mencapai, mengatakan, ada, meningkat, naik, dibandingkan, lalu, merupakan</li>
-    </ul>
-  </li>
-</ul>
 
 
 <ul>

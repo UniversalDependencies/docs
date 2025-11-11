@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_partut-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="en_partut-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
-141 nodes (0%) are attached to their parents as `nmod:desc`.
+142 nodes (0%) are attached to their parents as `nmod:desc`.
 
-141 instances of `nmod:desc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02836879432624.
+142 instances of `nmod:desc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02816901408451.
 
-The following 3 pairs of parts of speech are connected with `nmod:desc`: <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (77; 55% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (45; 32% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (19; 13% instances).
+The following 3 pairs of parts of speech are connected with `nmod:desc`: <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (77; 54% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (45; 32% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (20; 14% instances).
 
 
 ~~~ conllu

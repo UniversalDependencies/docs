@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `VERB`
 
-There are 131 `VERB` lemmas (27%), 168 `VERB` types (28%) and 191 `VERB` tokens (18%).
+There are 131 `VERB` lemmas (28%), 168 `VERB` types (28%) and 191 `VERB` tokens (18%).
 Out of 15 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>локны, мунны, зэрны, краситны, юавны, адззыны, быдмыны, видзӧтны, петны, тшӧктыны</em>
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>вермы</em> (<tt><a href="koi_uh-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.282443 (the average of all parts of speech is 1.247379).
+The form / lemma ratio of `VERB` is 1.282443 (the average of all parts of speech is 1.250000).
 
 The 1st highest number of forms (6) was observed with the lemma “мунны”: <em>Мунан, мун, мунö, муна, муніс, мунісӧ</em>.
 
@@ -38,12 +38,12 @@ The 2nd highest number of forms (4) was observed with the lemma “локны”
 
 The 3rd highest number of forms (3) was observed with the lemma “адззыны”: <em>адззö, адзза, адззис</em>.
 
-`VERB` occurs with 11 features: <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (151; 79% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (147; 77% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (144; 75% instances), <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (144; 75% instances), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (32; 17% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (15; 8% instances), <tt><a href="koi_uh-feat-Evident.html">Evident</a></tt> (9; 5% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (8; 4% instances), <tt><a href="koi_uh-feat-Derivation.html">Derivation</a></tt> (8; 4% instances), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (1; 1% instances)
+`VERB` occurs with 11 features: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (176; 92% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (151; 79% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (147; 77% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (144; 75% instances), <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (144; 75% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (15; 8% instances), <tt><a href="koi_uh-feat-Evident.html">Evident</a></tt> (9; 5% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (8; 4% instances), <tt><a href="koi_uh-feat-Derivation.html">Derivation</a></tt> (8; 4% instances), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (1; 1% instances)
 
-`VERB` occurs with 24 feature-value pairs: `Case=Ill`, `Case=Nom`, `Connegative=Yes`, `Derivation=Ana`, `Derivation=CompMod`, `Derivation=Ik`, `Derivation=Omon`, `Derivation=VAbe`, `Evident=Nfh`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Inf`, `VerbForm=Part`
+`VERB` occurs with 25 feature-value pairs: `Case=Ill`, `Case=Nom`, `Connegative=Yes`, `Derivation=Ana`, `Derivation=CompMod`, `Derivation=Ik`, `Derivation=Omon`, `Derivation=VAbe`, `Evident=Nfh`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
 `VERB` occurs with 25 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past` (52 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin` (52 tokens).
 Examples: <em>быдмис, босьтіс, высьтіс, гижис, котӧртіс, пондыліс, тшӧктіс, юаліс, Окаліс, Чулаліс</em>
 
 

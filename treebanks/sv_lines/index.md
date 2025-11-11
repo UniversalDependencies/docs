@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_Swedish-LinES](https://github.com/UniversalDependencies/UD_Swedish-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -78,7 +78,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 ## Relations
 
-[acl](sv_lines-dep-acl.html) – [acl:cleft](sv_lines-dep-acl-cleft.html) – [acl:relcl](sv_lines-dep-acl-relcl.html) – [advcl](sv_lines-dep-advcl.html) – [advmod](sv_lines-dep-advmod.html) – [amod](sv_lines-dep-amod.html) – [appos](sv_lines-dep-appos.html) – [aux](sv_lines-dep-aux.html) – [aux:pass](sv_lines-dep-aux-pass.html) – [case](sv_lines-dep-case.html) – [cc](sv_lines-dep-cc.html) – [ccomp](sv_lines-dep-ccomp.html) – [compound](sv_lines-dep-compound.html) – [compound:prt](sv_lines-dep-compound-prt.html) – [conj](sv_lines-dep-conj.html) – [cop](sv_lines-dep-cop.html) – [csubj](sv_lines-dep-csubj.html) – [csubj:pass](sv_lines-dep-csubj-pass.html) – [dep](sv_lines-dep-dep.html) – [det](sv_lines-dep-det.html) – [discourse](sv_lines-dep-discourse.html) – [dislocated](sv_lines-dep-dislocated.html) – [expl](sv_lines-dep-expl.html) – [fixed](sv_lines-dep-fixed.html) – [flat](sv_lines-dep-flat.html) – [iobj](sv_lines-dep-iobj.html) – [mark](sv_lines-dep-mark.html) – [nmod](sv_lines-dep-nmod.html) – [nmod:poss](sv_lines-dep-nmod-poss.html) – [nsubj](sv_lines-dep-nsubj.html) – [nsubj:pass](sv_lines-dep-nsubj-pass.html) – [nummod](sv_lines-dep-nummod.html) – [obj](sv_lines-dep-obj.html) – [obl](sv_lines-dep-obl.html) – [obl:agent](sv_lines-dep-obl-agent.html) – [orphan](sv_lines-dep-orphan.html) – [parataxis](sv_lines-dep-parataxis.html) – [punct](sv_lines-dep-punct.html) – [reparandum](sv_lines-dep-reparandum.html) – [root](sv_lines-dep-root.html) – [vocative](sv_lines-dep-vocative.html) – [xcomp](sv_lines-dep-xcomp.html)
+[acl](sv_lines-dep-acl.html) – [acl:cleft](sv_lines-dep-acl-cleft.html) – [acl:relcl](sv_lines-dep-acl-relcl.html) – [advcl](sv_lines-dep-advcl.html) – [advcl:relcl](sv_lines-dep-advcl-relcl.html) – [advmod](sv_lines-dep-advmod.html) – [amod](sv_lines-dep-amod.html) – [appos](sv_lines-dep-appos.html) – [aux](sv_lines-dep-aux.html) – [aux:pass](sv_lines-dep-aux-pass.html) – [case](sv_lines-dep-case.html) – [cc](sv_lines-dep-cc.html) – [ccomp](sv_lines-dep-ccomp.html) – [compound](sv_lines-dep-compound.html) – [compound:prt](sv_lines-dep-compound-prt.html) – [conj](sv_lines-dep-conj.html) – [cop](sv_lines-dep-cop.html) – [csubj](sv_lines-dep-csubj.html) – [csubj:pass](sv_lines-dep-csubj-pass.html) – [dep](sv_lines-dep-dep.html) – [det](sv_lines-dep-det.html) – [discourse](sv_lines-dep-discourse.html) – [dislocated](sv_lines-dep-dislocated.html) – [expl](sv_lines-dep-expl.html) – [fixed](sv_lines-dep-fixed.html) – [flat](sv_lines-dep-flat.html) – [iobj](sv_lines-dep-iobj.html) – [mark](sv_lines-dep-mark.html) – [nmod](sv_lines-dep-nmod.html) – [nmod:poss](sv_lines-dep-nmod-poss.html) – [nsubj](sv_lines-dep-nsubj.html) – [nsubj:pass](sv_lines-dep-nsubj-pass.html) – [nummod](sv_lines-dep-nummod.html) – [obj](sv_lines-dep-obj.html) – [obl](sv_lines-dep-obl.html) – [obl:agent](sv_lines-dep-obl-agent.html) – [orphan](sv_lines-dep-orphan.html) – [parataxis](sv_lines-dep-parataxis.html) – [punct](sv_lines-dep-punct.html) – [reparandum](sv_lines-dep-reparandum.html) – [root](sv_lines-dep-root.html) – [vocative](sv_lines-dep-vocative.html) – [xcomp](sv_lines-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -111,11 +111,11 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus contains 7 word types tagged as particles (PART): 's, att, ej, icke, inte, så, to</li>
+<li>This corpus contains 6 word types tagged as particles (PART): 's, att, ej, icke, inte, to</li>
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as pronouns (PRON): all, allesammans, allihop, allihopa, alltihop, allting, alltsammans, annan, bägge, båda, bådadera, de, den, denna, densamma, drag, du, en, ena, ens, ett, han, hon, ingen, ingenting, intet, jag, lera, litet, man, mycket, många, ni, någon, någondera, någonting, någotdera, sig, sin, själv, som, somlig, sådan, te, tenn, vad, var, varandra, vars, vart, vem, vi, vilken</li>
+<li>This corpus contains 51 lemmas tagged as pronouns (PRON): all, allesammans, allihop, allihopa, alltihop, allting, alltsammans, annan, bägge, båda, bådadera, de, den, denna, densamma, drag, du, en, ena, ens, ett, han, hon, ingen, ingenting, intet, jag, litet, man, mycket, många, ni, någon, någondera, någonting, någotdera, sig, sin, som, somlig, sådan, te, tenn, vad, var, varandra, vars, vart, vem, vi, vilken</li>
 </ul>
 
 <ul>
@@ -205,7 +205,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>DET: ett, det, något, detta, inget, allt, vilket, nåt, intet, vartenda</li>
       <li>NOUN: sätt, år, fält, barn, data, ögon, liv, ansikte, exempel, huvudet</li>
       <li>NUM: ett, Beckett</li>
-      <li>PRON: det, vad, sitt, detta, allt, något, ingenting, mitt, vilket, allting</li>
+      <li>PRON: det, vad, sitt, detta, allt, något, ingenting, mitt, vilket, någonting</li>
       <li>PROPN: Cunards, Jung, Kolonakitorget, Venezuela</li>
       <li>VERB: genomkorsat, sitt</li>
       <li>X: alium, coniunctis, internum</li>
@@ -221,7 +221,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: andra, många, flera, olika, små, vita, vissa, stora, sådana, nya</li>
+      <li>ADJ: andra, många, flera, olika, små, vita, vissa, sådana, nya, stora</li>
       <li>ADJ-Part: grupperade, dolda, kapslade, relaterade, villkorsstyrda, civiliserade, fördefinierade, kanderade, kasserade, lagrade</li>
       <li>DET: de, alla, några, dessa, inga, båda, vilka, dom, bägge, somliga</li>
       <li>NOUN: år, människor, data, ögon, fält, frågor, barn, saker, män, ögonen</li>
@@ -284,7 +284,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>DET: ena</li>
       <li>NOUN: sätt, år, gång, far, fält, man, sidan, del, väg, tiden</li>
       <li>NUM: U</li>
-      <li>PRON: han, jag, de, du, vi, hon, man, ni, allting, ena</li>
+      <li>PRON: han, jag, de, du, vi, hon, man, ni, någonting, allting</li>
       <li>PROPN: Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Ron, Weasley, Mweta</li>
       <li>VERB: höll, oberoende, råkar, förhörd, genomkorsat, inhamrade, jordluktande, kallade, nersölade, slagen</li>
       <li>VERB-Part: förhörd, inhamrade, jordluktande, nersölade, slagen, uppdelad, uppslukad</li>
@@ -301,7 +301,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: hela, gamla, stora, nya, andra, själva, egna, europeiska, lilla, vita</li>
+      <li>ADJ: hela, stora, gamla, nya, andra, själva, egna, europeiska, lilla, vita</li>
       <li>ADJ-Part: flyttade, oväntade, rostade, XML-baserade, avtalade, chockade, civiliserade, dolda, gångna, inspelade</li>
       <li>DET: den, det, de, denna, detta, dessa, ena, dom, the, Le</li>
       <li>NOUN: sidan, tiden, mannen, huvudet, linjen, rummet, fältet, informationen, stället, vägen</li>
@@ -317,7 +317,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>ADJ: själv, samma, andra, annat, stor, flera, många, annan, liten, egen</li>
       <li>ADJ-Part: taget, intresserad, beredd, grupperade, komplicerat, anpassad, dolda, särskilt, uppslagen, övertygad</li>
-      <li>DET: en, ett, någon, något, några, varje, ingen, inget, inga, varenda</li>
+      <li>DET: en, ett, någon, något, några, varje, ingen, inget, varenda, inga</li>
       <li>NOUN: sätt, år, gång, far, fält, man, del, väg, mor, människor</li>
       <li>NUM: en, ett</li>
       <li>PRON: man, vad, allt, något, en, någon, ingenting, alla, vilket, ingen</li>
@@ -410,7 +410,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>AUX-Sup: velat</li>
       <li>VERB: sa, hade, såg, gick, kom, har, tog, sade, gjorde, fanns</li>
       <li>VERB-Fin: sa, hade, såg, gick, kom, har, tog, sade, gjorde, fanns</li>
-      <li>VERB-Inf: fyllt, lyckas, inställd, klädd, avslutad, skuggad, fylld, gjord, minnas, sett</li>
+      <li>VERB-Inf: fyllt, inställd, klädd, lyckas, avslutad, skuggad, fylld, gjord, minnas, sett</li>
       <li>VERB-Part: tvungen, tvungna, taget, gjort, baserat, dödade, gående, installerad, installerat, kallad</li>
       <li>VERB-Sup: lyckats, funnits, träffats, färdats, hoppats, misslyckats, mörknat, ordats</li>
     </ul>
@@ -520,7 +520,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>ADJ: samma, sån</li>
       <li>DET: någon, något, några, nåt, nån, somliga</li>
-      <li>PRON: man, något, någon, en, andra, annat, mycket, ens, några, mer</li>
+      <li>PRON: man, något, någon, någonting, en, andra, annat, mycket, ens, några</li>
     </ul>
   </li>
 </ul>
@@ -530,7 +530,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>ADV: hur, varför, var, vart, varifrån, när, vari</li>
       <li>DET: vilka, vilken, vilket, vad</li>
-      <li>PRON: vad, vem, vilka, vilket, vilken</li>
+      <li>PRON: vad, vem, vilka, vilken, Vilket</li>
     </ul>
   </li>
 </ul>
@@ -577,8 +577,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Tot
     <ul>
-      <li>DET: alla, varje, all, allt, ena, varenda, båda, var, bägge, vartenda</li>
-      <li>PRON: allt, alla, allting, båda, ena, var, ene, allas, vem, alltsammans</li>
+      <li>DET: alla, varje, all, ena, varenda, allt, båda, var, bägge, vartenda</li>
+      <li>PRON: allt, alla, alltihop, allting, båda, allesammans, alltsammans, ena, allihop, var</li>
     </ul>
   </li>
 </ul>
@@ -678,6 +678,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
         <ul>
           <li>ADJ: Extensible, Wide, Visual, Advanced, Advertising, Arabic, Central, Grand, Political, Universal</li>
           <li>ADP: ad, for</li>
+          <li>DET: du</li>
           <li>NOUN: Language, Stylesheet, Transformation, Consortium, World, calme, Station, Web, Morituri, Protocol</li>
           <li>PRON: te</li>
           <li>PROPN: Web</li>
@@ -712,14 +713,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1346)</li>
+      <li>VERB-Fin--NOUN-Nom (1349)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(efter) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(med) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(som) (1)</li>
-      <li>VERB-Fin--PRON (978)</li>
-      <li>VERB-Fin--PRON-Nom (2882)</li>
+      <li>VERB-Fin--PRON (976)</li>
+      <li>VERB-Fin--PRON-Nom (2885)</li>
       <li>VERB-Fin--PRON-Nom-ADP(framför) (1)</li>
       <li>VERB-Inf--NOUN-Nom (211)</li>
       <li>VERB-Inf--PRON (120)</li>
@@ -729,8 +730,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Nom (13)</li>
       <li>VERB-Sup--NOUN (1)</li>
       <li>VERB-Sup--NOUN-Nom (174)</li>
-      <li>VERB-Sup--PRON (150)</li>
-      <li>VERB-Sup--PRON-Nom (468)</li>
+      <li>VERB-Sup--PRON (148)</li>
+      <li>VERB-Sup--PRON-Nom (470)</li>
     </ul>
   </li>
 </ul>
@@ -743,34 +744,32 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Nom (1734)</li>
+      <li>VERB-Fin--NOUN-Nom (1732)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(emot) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-      <li>VERB-Fin--PRON (405)</li>
+      <li>VERB-Fin--PRON (391)</li>
       <li>VERB-Fin--PRON-ADP(med) (1)</li>
       <li>VERB-Fin--PRON-ADP(på) (1)</li>
       <li>VERB-Fin--PRON-Acc (664)</li>
       <li>VERB-Fin--PRON-Gen (9)</li>
-      <li>VERB-Fin--PRON-Nom (9)</li>
+      <li>VERB-Fin--PRON-Nom (20)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Nom (1120)</li>
-      <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
+      <li>VERB-Inf--NOUN-Nom (1119)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(på) (2)</li>
-      <li>VERB-Inf--PRON (220)</li>
+      <li>VERB-Inf--PRON (205)</li>
       <li>VERB-Inf--PRON-ADP(som) (1)</li>
       <li>VERB-Inf--PRON-Acc (327)</li>
       <li>VERB-Inf--PRON-Gen (15)</li>
-      <li>VERB-Inf--PRON-Nom (4)</li>
+      <li>VERB-Inf--PRON-Nom (17)</li>
       <li>VERB-Part--NOUN-Nom (4)</li>
       <li>VERB-Sup--NOUN-Nom (265)</li>
-      <li>VERB-Sup--NOUN-Nom-ADP(än) (1)</li>
-      <li>VERB-Sup--PRON (111)</li>
+      <li>VERB-Sup--PRON (109)</li>
       <li>VERB-Sup--PRON-ADP(med) (1)</li>
       <li>VERB-Sup--PRON-Acc (115)</li>
       <li>VERB-Sup--PRON-Gen (1)</li>
-      <li>VERB-Sup--PRON-Nom (1)</li>
+      <li>VERB-Sup--PRON-Nom (3)</li>
     </ul>
   </li>
 </ul>
@@ -779,7 +778,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Nom (7)</li>
-      <li>VERB-Fin--PRON (3)</li>
+      <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Acc (63)</li>
       <li>VERB-Fin--PRON-Gen (6)</li>
       <li>VERB-Inf--NOUN-Nom (11)</li>
@@ -800,6 +799,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

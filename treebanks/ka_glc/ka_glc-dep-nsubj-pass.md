@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="ka_gl
 98 instances of `nsubj:pass` (54%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.22777777777778.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (147; 82% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (23; 13% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (150; 83% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (23; 13% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	ნეოლითის	ნეოლითი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=neolitʻis
 2	ხანი	ხანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	obl	_	Translit=xani
 3	დან	დან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=dan
-4	აღინიშნება	ინიშნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|Voice=Pass	0	root	_	Translit=aġinišneba
+4	აღინიშნება	ინიშნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Translit=aġinišneba
 5	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	6	nmod	_	Translit=adamianis
 6	არსებობა	არსებობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj:pass	_	Translit=arseboba
-7	კავკასია	კავკასია	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	6	obl	_	Translit=kavkasia
+7	კავკასია	კავკასია	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	4	obl	_	Translit=kavkasia
 8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
 9	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
@@ -47,36 +47,34 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	წინადადების	წინადადება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=cinadadebis
 4	მთავარ	მთავარი	ADJ	Adj	Case=Ess|Degree=Pos|Number=Sing	5	amod	_	Translit=mtʻavar
 5	წევრად	წევრი	ADJ	Adj	Case=Ess|Number=Sing	6	amod	_	Translit=cevrad
-6	მიიჩნევა	ამჩნევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No|Translit=miičʻneva
+6	მიიჩნევა	ამჩნევს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=miičʻneva
 7	.	.	PUNCT	F	PunctType=Peri	6	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 nsubj:pass	color:blue
-1	საქართველოს	საქართველო	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	2	nmod	_	Translit=sakʻartʻvelos
-2	სისხლის	სისხლი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	3	nmod	_	Translit=sisxlis
-3	სამართლის	სამართალი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	5	nmod	_	Translit=samartʻlis
-4	საპროცესო	საპროცესო	ADJ	Adj	Case=Nom|Number=Sing	5	amod	_	Translit=saprocʻeso
-5	კოდექსი	კოდექსი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj:pass	_	Translit=kodekʻsi
-6	—	—	PUNCT	F	PunctType=Dash	5	punct	_	Translit=—
-7	მიღებულ	მიღებული	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	Translit=miġebul
-8	იქნა	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	7	cop	_	Translit=ikʻna
-9	2009	2009	NUM	Num	NumForm=Digit|NumType=Card	10	nummod	_	Translit=2009
-10	წლის	წელი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	12	nmod	_	Translit=clis
-11	9	9	NUM	Num	NumForm=Digit|NumType=Card	12	nummod	_	Translit=9
-12	ოქტომბერს	ოქტომბერი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl:tmod	_	Translit=okʻtombers
-13	საქართველოს	საქართველო	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	12	nmod	_	Translit=sakʻartʻvelos
-14	უმაღლესი	მაღალი	ADJ	Adj	Case=Gen|Degree=Sup|Number=Sing	16	amod	_	Translit=umaġlesi
-15	საკანონმდებლო	საკანონმდებლო	ADJ	Adj	Case=Gen|Number=Sing	16	amod	_	Translit=sakanonmdeblo
-16	ორგანოს	ორგანო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	7	obl	_	Translit=organos
-17	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	16	case	_	SpaceAfter=No|Translit=mier
-18	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 1 nsubj:pass	color:blue
+1	ხსნარს	ხსნარი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	nsubj:pass	_	SpaceAfter=No|Translit=xsnars
+2	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+3	რომელ	რომელი	PRON	Pron	Case=Dat|Number=Sing|PartType=Emp|PronType=Int	8	obl	_	Translit=romel
+4	შიც	ში	ADP	Post	AdpType=Post|Case=Dat	3	case	_	Translit=šicʻ
+5	არ	არ	PART	Part	PartType=Neg	8	advmod	_	Translit=ar
+6	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	8	cop	_	Translit=aris
+7	არც	არც	PART	Part	PartType=Emp	8	advmod	_	Translit=arcʻ
+8	მჟავა	მჟავა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	1	acl:relcl	_	Translit=mžava
+9	და	და	CCONJ	Conj	_	11	cc	_	Translit=da
+10	არც	არც	PART	Part	PartType=Emp	11	advmod	_	Translit=arcʻ
+11	ტუტე	ტუტე	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	conj	_	SpaceAfter=No|Translit=tute
+12	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
+13	ნეიტრალური	ნეიტრალური	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	Translit=neitraluri
+14	ხსნარი	ხსნარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	obj	_	Translit=xsnari
+15	ეწოდება	ეწოდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ecodeba
+16	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
 
 ~~~
 

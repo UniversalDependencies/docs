@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	dana	dana	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
 3	tersebut	sebut	DET	DT	PronType=Dem	2	det	_	_
 4	baru	baru	ADV	RB	_	5	advmod	_	_
-5	terpakai	pakai	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+5	terpakai	pakai	VERB	VB	Voice=Pass	0	root	_	_
 6	168	168	NUM	CD	NumType=Card	8	nummod	_	_
 7	juta	juta	NUM	CD	NumType=Card	6	flat	_	_
 8	dolar	dolar	NOUN	NN	Number=Sing	5	obl	_	_
@@ -45,12 +45,12 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 6 7 flat	color:blue
 1	Saya	saya	PRON	PRP	Number=Sing|Person=1|Polite=Form|PronType=Prs	3	nsubj	_	_
 2	akan	akan	AUX	MD	_	3	aux	_	_
-3	meninggalkan	tinggal	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	meninggalkan	tinggal	VERB	VB	Voice=Act	0	root	_	_
 4	Indonesia	Indonesia	PROPN	NNP	_	3	obj	_	_
 5	pada	pada	ADP	IN	_	6	case	_	_
 6	28	28	NUM	CD	NumType=Card	3	obl:tmod	_	_
 7	Februari	Februari	PROPN	NNP	_	6	flat	_	_
-8	mendatang	datang	VERB	VB	Mood=Ind|Voice=Act	7	acl:relcl	_	_
+8	mendatang	datang	VERB	VB	Voice=Act	7	acl:relcl	_	_
 9	ke	ke	ADP	IN	_	10	case	_	_
 10	London	London	PROPN	NNP	_	3	obl	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 18	fgColor:white
 # visual-style 18 19 flat	color:blue
 1	Kredit	kredit	NOUN	NN	Number=Sing	20	nsubj	_	_
-2	bermasalah	masalah	VERB	VB	Mood=Ind|Voice=Act	1	acl	_	_
+2	bermasalah	masalah	VERB	VB	Voice=Act	1	acl	_	_
 3	(	(	PUNCT	-LRB-	_	4	punct	_	SpaceAfter=No
 4	non-performing	non-performing	X	FW	Foreign=Yes	1	appos	_	_
 5	loan	loan	X	FW	Foreign=Yes	4	flat:foreign	_	_
@@ -83,12 +83,12 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 17	pada	pada	ADP	IN	_	18	case	_	_
 18	Maret	Maret	PROPN	NNP	_	20	obl:tmod	_	_
 19	2007	2007	NUM	CD	NumType=Card	18	flat	_	_
-20	mencapai	capai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+20	mencapai	capai	VERB	VB	Voice=Act	0	root	_	_
 21	23,37	23,37	NUM	CD	NumType=Card	22	nummod	_	_
 22	persen	persen	NOUN	NN	Number=Sing	20	obj	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	25	punct	_	_
 24	demikian	demikian	PRON	PRP	PronType=Dem	25	obl	_	_
-25	dikemukakan	dikemukakan	VERB	VB	Mood=Ind|Voice=Pass	20	parataxis	_	_
+25	dikemukakan	dikemukakan	VERB	VB	Voice=Pass	20	parataxis	_	_
 26	Deputi	Deputi	NOUN	NN	Number=Sing	25	nsubj:pass	_	_
 27	Gubernur	Gubernur	NOUN	NN	Number=Sing	26	nmod	_	_
 28	Bank	Bank	PROPN	NNP	_	26	nmod	_	_

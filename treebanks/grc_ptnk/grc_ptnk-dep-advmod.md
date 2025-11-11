@@ -22,17 +22,17 @@ The following 18 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 advmod	color:blue
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
-4	ὄφις	ὄφις	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=snake,serpent
-5	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
-6	γυναικί	γυνή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	Gloss=wife,woman|SpaceAfter=No
-7	·	·	PUNCT	_	_	8	punct	_	_
-8	οὐ	οὐ	ADV	_	Polarity=Neg	10	advmod	_	Gloss=no,not
-9	θανάτῳ	θάνατος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Gloss=death
-10	ἀποθανεῖσθε	ἀποθνήσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	2	ccomp	_	Gloss=to-die|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_3.4
+2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_3.4
+3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_3.4
+4	ὄφις	ὄφις	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=snake,serpent|Ref=GEN_3.4
+5	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_3.4
+6	γυναικί	γυνή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	Gloss=wife,woman|Ref=GEN_3.4|SpaceAfter=No
+7	·	·	PUNCT	_	_	8	punct	_	Ref=GEN_3.4
+8	οὐ	οὐ	ADV	_	Polarity=Neg	10	advmod	_	Gloss=no,not|Ref=GEN_3.4
+9	θανάτῳ	θάνατος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	Gloss=death|Ref=GEN_3.4
+10	ἀποθανεῖσθε	ἀποθνήσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	2	ccomp	_	Gloss=to-die|Ref=GEN_3.4|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	Ref=GEN_3.4
 
 ~~~
 
@@ -43,14 +43,14 @@ The following 18 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
-1	πλὴν	πλήν	ADV	_	_	2	advmod	_	Gloss=but,however|Unknown=Preposition/Conjunction
-2	κρέας	κρέας	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=flesh,meat
-3	ἐν	ἐν	ADP	_	_	4	case	_	Gloss=in,on,by,with,to
-4	αἵματι	αἷμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	acl:relcl	_	Gloss=blood
-5	ψυχῆς	ψυχή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=soul
-6	οὐ	οὐ	ADV	_	Polarity=Neg	7	advmod	_	Gloss=no,not
-7	φάγεσθε	ἐσθίω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-eat|SpaceAfter=No
-8	·	·	PUNCT	_	_	7	punct	_	_
+1	πλὴν	πλήν	ADV	_	_	2	advmod	_	Gloss=but,however|Ref=GEN_9.4|Unknown=Preposition/Conjunction
+2	κρέας	κρέας	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=flesh,meat|Ref=GEN_9.4
+3	ἐν	ἐν	ADP	_	_	4	case	_	Gloss=in,on,by,with,to|Ref=GEN_9.4
+4	αἵματι	αἷμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	acl:relcl	_	Gloss=blood|Ref=GEN_9.4
+5	ψυχῆς	ψυχή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=soul|Ref=GEN_9.4
+6	οὐ	οὐ	ADV	_	Polarity=Neg	7	advmod	_	Gloss=no,not|Ref=GEN_9.4
+7	φάγεσθε	ἐσθίω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-eat|Ref=GEN_9.4|SpaceAfter=No
+8	·	·	PUNCT	_	_	7	punct	_	Ref=GEN_9.4
 
 ~~~
 
@@ -61,32 +61,32 @@ The following 18 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 10 advmod	color:blue
-1	πῶς	πῶς	ADV	_	PronType=Int	3	advmod	_	Gloss=how?-in-what-way?
-2	γὰρ	γάρ	SCONJ	_	_	3	mark	_	Gloss=for,because
-3	ἀναβήσομαι	ἀναβαίνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-ascend,mount
-4	πρὸς	πρός	ADP	_	_	6	case	_	Gloss=+D=at;-+A=to,toward
-5	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=the
-6	πατέρα	πατήρ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	Gloss=father|SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the
-9	παιδίου	παιδίον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nsubj	_	Gloss=child
-10	μὴ	μή	ADV	_	Polarity=Neg	13	advmod	_	Gloss=no,not
-11	ὄντος	εἰμί	AUX	_	Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	cop	_	Gloss=to-be
-12	μεθ᾿	μετά	ADP	_	_	13	case	_	Gloss=+G=with,+A=after
-13	ἡμῶν	ἡμεῖς	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	advcl	_	Gloss=us,our|SpaceAfter=No
-14	;	;	PUNCT	_	_	15	punct	_	_
-15	ἵνα	ἵνα	SCONJ	_	_	17	mark	_	Gloss=in-order-that
-16	μὴ	μή	ADV	_	Polarity=Neg	17	advmod	_	Gloss=no,not
-17	ἴδω	εἴδω	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	Gloss=to-see
-18	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	19	det	_	Gloss=the
-19	κακά	κακός	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	17	obj	_	Gloss=bad,evil,ugly|SpaceAfter=No
-20	,	,	PUNCT	_	_	21	punct	_	_
-21	ἃ	ὅς	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	22	nsubj	_	Gloss=who,which,that
-22	εὑρήσει	εὑρίσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	acl:relcl	_	Gloss=to-find
-23	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	Gloss=the
-24	πατέρα	πατήρ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	Gloss=father
-25	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	24	nmod:poss	_	Gloss=me,my|SpaceAfter=No
-26	.	.	PUNCT	_	_	25	punct	_	_
+1	πῶς	πῶς	ADV	_	PronType=Int	3	advmod	_	Gloss=how?-in-what-way?|Ref=GEN_44.34
+2	γὰρ	γάρ	SCONJ	_	_	3	mark	_	Gloss=for,because|Ref=GEN_44.34
+3	ἀναβήσομαι	ἀναβαίνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-ascend,mount|Ref=GEN_44.34
+4	πρὸς	πρός	ADP	_	_	6	case	_	Gloss=+D=at;-+A=to,toward|Ref=GEN_44.34
+5	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_44.34
+6	πατέρα	πατήρ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	Gloss=father|Ref=GEN_44.34|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_44.34
+8	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the|Ref=GEN_44.34
+9	παιδίου	παιδίον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nsubj	_	Gloss=child|Ref=GEN_44.34
+10	μὴ	μή	ADV	_	Polarity=Neg	13	advmod	_	Gloss=no,not|Ref=GEN_44.34
+11	ὄντος	εἰμί	AUX	_	Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	cop	_	Gloss=to-be|Ref=GEN_44.34
+12	μεθ᾿	μετά	ADP	_	_	13	case	_	Gloss=+G=with,+A=after|Ref=GEN_44.34
+13	ἡμῶν	ἡμεῖς	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	advcl	_	Gloss=us,our|Ref=GEN_44.34|SpaceAfter=No
+14	;	;	PUNCT	_	_	15	punct	_	Ref=GEN_44.34
+15	ἵνα	ἵνα	SCONJ	_	_	17	mark	_	Gloss=in-order-that|Ref=GEN_44.34
+16	μὴ	μή	ADV	_	Polarity=Neg	17	advmod	_	Gloss=no,not|Ref=GEN_44.34
+17	ἴδω	εἴδω	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	Gloss=to-see|Ref=GEN_44.34
+18	τὰ	ὁ	DET	_	Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	19	det	_	Gloss=the|Ref=GEN_44.34
+19	κακά	κακός	ADJ	_	Case=Acc,Nom|Gender=Neut|Number=Plur	17	obj	_	Gloss=bad,evil,ugly|Ref=GEN_44.34|SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	Ref=GEN_44.34
+21	ἃ	ὅς	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	22	nsubj	_	Gloss=who,which,that|Ref=GEN_44.34
+22	εὑρήσει	εὑρίσκω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	acl:relcl	_	Gloss=to-find|Ref=GEN_44.34
+23	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	Gloss=the|Ref=GEN_44.34
+24	πατέρα	πατήρ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	Gloss=father|Ref=GEN_44.34
+25	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	24	nmod:poss	_	Gloss=me,my|Ref=GEN_44.34|SpaceAfter=No
+26	.	.	PUNCT	_	_	25	punct	_	Ref=GEN_44.34
 
 ~~~
 

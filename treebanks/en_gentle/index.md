@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Tatsuya Aoyama, Shabnam Behzad, Luke Gessler, Lauren Levine, Yi-Ju Jessica Lin, Yang Janet Liu, Siyao Logan Peng, Yilun Zhu, Amir Zeldes.
 
 Repository: [UD_English-GENTLE](https://github.com/UniversalDependencies/UD_English-GENTLE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gentle216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gentle217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -635,6 +635,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
           <li>ADJ: such</li>
           <li>ADP: out, as, because</li>
           <li>ADV: prior</li>
+          <li>SYM: -, ⋅, /, ∩</li>
           <li>VERB-Part: according, depending</li>
         </ul>
       </li>
@@ -732,12 +733,12 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
         <ul>
           <li>ADJ: Africanner</li>
           <li>ADV: justl, than, to</li>
-          <li>AUX-Fin: s, 'ed, d</li>
+          <li>AUX-Fin: 'ed</li>
           <li>CCONJ: an</li>
           <li>DET: all, know</li>
           <li>NOUN: visiter, p, principal</li>
           <li>PART: too</li>
-          <li>PRON: what, Ii, it, some, the, wich, you</li>
+          <li>PRON: what, it, some, the, wich, you</li>
           <li>PROPN: Pharoah, Torooh, israelities</li>
           <li>VERB: Be, here, Trying, arranged, broke, deem, know, pick, ran, reverse</li>
           <li>VERB-Fin: deem, here, pick, reverse</li>
@@ -796,7 +797,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (162)</li>
       <li>VERB-Inf--PRON (13)</li>
       <li>VERB-Inf--PRON-Acc (45)</li>
-      <li>VERB-Part--NOUN (88)</li>
+      <li>VERB-Part--NOUN (87)</li>
       <li>VERB-Part--PRON (7)</li>
       <li>VERB-Part--PRON-Acc (11)</li>
     </ul>

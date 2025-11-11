@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 268 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (261; 97%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (250; 93%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (173; 65%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (171; 64%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (257; 96%), <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (250; 93%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (173; 65%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (171; 64%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -55,11 +55,11 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>ветлыны</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_ikdp-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt></tt></td><td><em>ветлысь</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Derivation.html">Derivation</a></tt><tt>=Al</tt>|<tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ветлалэ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ветлі</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ветлала</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ветліс</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>ветлэныс, ветлӧны</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Derivation.html">Derivation</a></tt><tt>=Al</tt>|<tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ветлалэ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ветлі</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ветлала</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ветліс</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>ветлэныс, ветлӧны</em></td></tr>
 </table>
 
 ### `PRON`
@@ -120,7 +120,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 35 <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (31; 89%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (26; 74%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (26; 74%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 71%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (31; 89%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (28; 80%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (26; 74%), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (26; 74%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (25; 71%).
 
 `AUX` tokens may have the following values of `Number`:
 

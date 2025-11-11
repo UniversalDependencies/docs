@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Neapolitan-RB: POS Tags: `PROPN`
 
-There are 8 `PROPN` lemmas (8%), 8 `PROPN` types (6%) and 14 `PROPN` tokens (7%).
-Out of 12 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 8 in number of types and 8 in number of tokens.
+There are 8 `PROPN` lemmas (7%), 8 `PROPN` types (6%) and 14 `PROPN` tokens (7%).
+Out of 12 observed tags, the rank of `PROPN` is: 6 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Pietro, Maria, Ferraro, Giovanna, Iguazu, Marrone, Parigi, Samuele</em>
+The 10 most frequent `PROPN` lemmas: <em>Pietrŏ, Mariă, Ferrarŏ, Giuvanna, Iguazu, Marronĕ, Ppariggĕ, Samuelĕ</em>
 
-The 10 most frequent `PROPN` types:  <em>Pietrŏ, Mariă, Ferrarŏ, Giuvannă, Iguazy, Marronĕ, Ppariggĕ, Samuè</em>
+The 10 most frequent `PROPN` types:  <em>Pietrŏ, Mariă, Ferrarŏ, Giuvanna, Iguazu, Marronĕ, Ppariggĕ, Samuè</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.180952).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.123894).
 
-The 1st highest number of forms (1) was observed with the lemma “Ferraro”: <em>Ferrarŏ</em>.
+The 1st highest number of forms (1) was observed with the lemma “Ferrarŏ”: <em>Ferrarŏ</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Giovanna”: <em>Giuvannă</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Giuvanna”: <em>Giuvanna</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Iguazu”: <em>Iguazy</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Iguazu”: <em>Iguazu</em>.
 
 `PROPN` occurs with 2 features: <tt><a href="nap_rb-feat-Gender.html">Gender</a></tt> (12; 86% instances), <tt><a href="nap_rb-feat-Number.html">Number</a></tt> (12; 86% instances)
 
@@ -35,7 +35,7 @@ The 3rd highest number of forms (1) was observed with the lemma “Iguazu”: <e
 
 `PROPN` occurs with 3 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (7 tokens).
-Examples: <em>Pietrŏ, Ferrarŏ, Iguazy</em>
+Examples: <em>Pietrŏ, Ferrarŏ, Iguazu</em>
 
 
 ## Relations

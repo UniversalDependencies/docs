@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Vnoun`.
 
-3068 tokens (16%) have a non-empty value of `VerbForm`.
-1852 types (24%) occur at least once with a non-empty value of `VerbForm`.
-1213 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1719; 9% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (682; 4% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (415; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (252; 1% instances).
+3069 tokens (16%) have a non-empty value of `VerbForm`.
+1853 types (24%) occur at least once with a non-empty value of `VerbForm`.
+1214 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1719; 9% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (682; 4% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (416; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (252; 1% instances).
 
 ### `VERB`
 
@@ -95,16 +95,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-415 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (18% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+416 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (18% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (406; 98%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (353; 85%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (351; 85%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (260; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (224; 54%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (407; 98%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (353; 85%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (352; 85%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (260; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225; 54%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (415; 100% of non-empty `VerbForm`): <em>Spojených, řečeno, propuštěn, vedoucí, Spojené, Spojeným, kvalifikovaných, nabídnuto, následující, otevřenou</em>
-* `EMPTY` (1854): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `Part` (416; 100% of non-empty `VerbForm`): <em>Spojených, řečeno, propuštěn, vedoucí, Spojené, Spojeným, kvalifikovaných, nabídnuto, následující, otevřenou</em>
+* `EMPTY` (1853): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (295) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (296) occur only with one value of `VerbForm`.
 
 ### `NOUN`
 

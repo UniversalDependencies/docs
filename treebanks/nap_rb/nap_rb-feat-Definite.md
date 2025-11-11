@@ -11,7 +11,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 22 tokens (11%) have a non-empty value of `Definite`.
 10 types (8%) occur at least once with a non-empty value of `Definite`.
-2 lemmas (2%) occur at least once with a non-empty value of `Definite`.
+3 lemmas (3%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="nap_rb-pos-DET.html">DET</a></tt> (22; 11% instances).
 
 ### `DET`

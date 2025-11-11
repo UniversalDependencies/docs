@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cc:preconj	color:blue
-1	Neither	neither	CCONJ	CC	Polarity=Neg	2	cc:preconj	2:cc:preconj	Discourse=joint-list_m:93->91:1:dm-also-672|PDTB=NoRel:NoRel:_:_:672-673:674-684
+1	Neither	neither	CCONJ	CC	Polarity=Neg	2	cc:preconj	2:cc:preconj	Discourse=joint-list_m:93->91:1:dm-also-672-_|PDTB=NoRel:NoRel:_:_:672-673:674-684
 2	DM	DM	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	Entity=(44-abstract-giv:inact-nnnnn-cf1-1-coref)
 3	nor	nor	CCONJ	CC	Polarity=Neg	4	cc	4:cc	_
 4	MG	MG	NOUN	NN	Number=Sing	2	conj	2:conj:nor|6:nsubj	Entity=(24-abstract-giv:inact-nnnnn-cf2-1-coref)
@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc:preconj	color:blue
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|6:nsubj:xsubj|7:nsubj:xsubj	Discourse=elaboration-additional:24->22:1:dm-also-197|Entity=(11-person-giv:inact-sssss-cf2-1-ana)
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|6:nsubj:xsubj|7:nsubj:xsubj	Discourse=elaboration-additional:24->22:1:dm-also-197-_|Entity=(11-person-giv:inact-sssss-cf2-1-ana)
 2	also	also	ADV	RB	_	3	advmod	3:advmod	PDTB=Explicit:Expansion.Conjunction:also:197:183-195:196,198-210
 3	appeared	appear	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	MSeg=appear-ed
 4	to	to	PART	TO	_	6	mark	6:mark	_
@@ -89,7 +89,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 19	grade	grade	NOUN	NN	Number=Sing	21	compound	21:compound	Entity=(273-abstract-new-nnnnn-cf14-1-sgl)|SpaceAfter=No
 20	)	)	PUNCT	-RRB-	_	19	punct	19:punct	_
 21	penalty	penalty	NOUN	NN	Number=Sing	13	obl	13:obl:in	Discourse=same-unit_m:186->184:1:_|Entity=272)|MSeg=penal-ty
-22	and	and	CCONJ	CC	_	24	cc	24:cc	Discourse=joint-list_m:187->184:2:dm-and-1059|PDTB=Explicit:Expansion.Conjunction:and:1059:1052-1058:1060-1089
+22	and	and	CCONJ	CC	_	24	cc	24:cc	Discourse=joint-list_m:187->184:2:dm-and-1059-_|PDTB=Explicit:Expansion.Conjunction:and:1059:1052-1058:1060-1089
 23	(2)	(2)	X	LS	_	24	discourse	24:discourse	_
 24	reporting	report	VERB	VBG	Tense=Pres|VerbForm=Part	21	conj	13:obl:in|21:conj:and	MSeg=report-ing
 25	to	to	ADP	IN	_	27	case	27:case	_

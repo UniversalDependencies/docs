@@ -256,7 +256,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `ADV`
 
-50186 <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> tokens (31% of all `ADV` tokens) have a non-empty value of `Polarity`.
+50186 <tt><a href="cs_pdtc-pos-ADV.html">ADV</a></tt> tokens (30% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="cs_pdtc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (50186; 100%), <tt><a href="cs_pdtc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (40223; 80%).
 
@@ -264,7 +264,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 * `Neg` (1426; 3% of non-empty `Polarity`): <em>nedávno, nezávisle, nesprávně, nepřímo, neobyčejně, nesmírně, neúspěšně, neúměrně, neuvěřitelně, nevyhnutelně</em>
 * `Pos` (48760; 97% of non-empty `Polarity`): <em>více, stále, dobře, často, dost, méně, dlouho, stejně, víc, později</em>
-* `EMPTY` (113521): <em>tam, už, tak, jak, kde, pak, kdy, ještě, včera, potom</em>
+* `EMPTY` (115007): <em>tam, už, tak, jak, kde, pak, kdy, ještě, včera, potom</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>

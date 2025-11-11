@@ -59,15 +59,15 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 aux	color:blue
-1	Leta	leto	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
-2	1994	1994	NUM	Mdc	NumForm=Digit|NumType=Card	1	nummod	_	_
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	_
-4	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	7	cop	_	_
-5	Lizbona	Lizbona	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
-6	evropska	evropski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	prestolnica	prestolnica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-8	kulture	kultura	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	Z	_	7	punct	_	_
+1	Leta	leto	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	NER=O
+2	1994	1994	NUM	Mdc	NumForm=Digit|NumType=Card	1	nummod	_	NER=O
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	NER=O
+4	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	7	cop	_	NER=O
+5	Lizbona	Lizbona	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	NER=B-loc
+6	evropska	evropski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	NER=O
+7	prestolnica	prestolnica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	NER=O
+8	kulture	kultura	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No|NER=O
+9	.	.	PUNCT	Z	_	7	punct	_	NER=O
 
 ~~~
 

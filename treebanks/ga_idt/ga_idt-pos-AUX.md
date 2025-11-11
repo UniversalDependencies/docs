@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="ga_idt-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 32.000000 (the average of all parts of speech is 1.648496).
+The form / lemma ratio of `AUX` is 32.000000 (the average of all parts of speech is 1.651212).
 
 The 1st highest number of forms (32) was observed with the lemma “is”: <em>ab, an, ar, arb, arbh, b', ba, b’, chan, dar, darb, darbh, gur, gurb, gurbh, inar, is, lenar, mb', mba, nach, nách, nár, nárbh, ní, níor, níorbh, sea, seadh, seo, sin, sé</em>.
 
@@ -71,7 +71,7 @@ The 1st highest number of forms (32) was observed with the lemma “is”: <em>a
 `AUX` occurs with 16 feature-value pairs: `Dialect=Ulster`, `Form=Ecl`, `Form=Ecl,VF`, `Form=Len`, `Form=VF`, `Gender=Masc`, `Mood=Cnd`, `Mood=Int`, `Number=Sing`, `Person=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Rel`, `Tense=Past`, `Tense=Pres`, `VerbForm=Cop`
 
 `AUX` occurs with 26 feature combinations.
-The most frequent feature combination is `Tense=Pres|VerbForm=Cop` (792 tokens).
+The most frequent feature combination is `Tense=Pres|VerbForm=Cop` (794 tokens).
 Examples: <em>is, gur, ar, sea, dar, inar, lenar, seadh</em>
 
 
@@ -79,7 +79,7 @@ Examples: <em>is, gur, ar, sea, dar, inar, lenar, seadh</em>
 
 `AUX` nodes are attached to their parents using 8 different relations: <tt><a href="ga_idt-dep-cop.html">cop</a></tt> (1538; 99% instances), <tt><a href="ga_idt-dep-root.html">root</a></tt> (8; 1% instances), <tt><a href="ga_idt-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="ga_idt-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="ga_idt-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ga_idt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 14 different parts of speech: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (834; 54% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (463; 30% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (119; 8% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (62; 4% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (19; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (9; 1% instances),  (8; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 14 different parts of speech: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (842; 54% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (463; 30% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (119; 8% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (54; 3% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (19; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (9; 1% instances),  (8; 1% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (1; 0% instances)
 
 1531 (98%) `AUX` nodes are leaves.
 

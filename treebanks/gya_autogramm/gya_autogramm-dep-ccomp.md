@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `ccomp`.
+11 nodes (0%) are attached to their parents as `ccomp`.
 
-10 instances of `ccomp` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.25.
+9 instances of `ccomp` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.45454545454545.
 
-The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (7; 58% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `ccomp`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (1; 9% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (1; 9% instances).
 
 
 ~~~ conllu

@@ -8,70 +8,73 @@ udver: '2'
 
 This relation is universal.
 
-1946 nodes (1%) are attached to their parents as `ccomp`.
+2817 nodes (1%) are attached to their parents as `ccomp`.
 
-1928 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.25745118191161.
+2786 instances of `ccomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.21583244586439.
 
-The following 35 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1222; 63% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (195; 10% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (127; 7% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (111; 6% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (51; 3% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (50; 3% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (49; 3% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (37; 2% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (21; 1% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 39 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1748; 62% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (296; 11% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (190; 7% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (176; 6% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (95; 3% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (67; 2% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (56; 2% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (53; 2% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (21; 1% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (12; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_childes-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 ccomp	color:blue
+1	Do	do	AUX	VBP	_	3	aux	3:aux	_
+2	you	you	PRON	PRP	_	3	nsubj	3:nsubj	_
+3	remember	remember	VERB	VB	_	0	root	0:root	_
+4	where	where	SCONJ	WRB	_	6	mark	6:mark	_
+5	you	you	PRON	PRP	_	6	nsubj	6:nsubj	_
+6	played	play	VERB	VBD	_	3	ccomp	3:ccomp	_
+7	with	with	ADP	IN	_	8	case	8:case	_
+8	them	they	PRON	PRP	_	6	obl	6:obl:with	SpaceAfter=No
+9	?	?	PUNCT	?	_	3	punct	3:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 6 ccomp	color:blue
+# visual-style 2 7 ccomp	color:blue
 1	I	I	PRON	PRP	_	2	nsubj	2:nsubj	_
-2	hope	hope	VERB	VBP	_	0	root	0:root	_
-3	he	he	PRON	PRP	_	6	nsubj	6:nsubj	_
-4	wo	will	AUX	MD	_	6	aux	6:aux	_
-5	n't	not	PART	RB	_	6	advmod	6:advmod	_
-6	bother	bother	VERB	VB	_	2	ccomp	2:ccomp	_
-7	you	you	PRON	PRP	_	6	obj	6:obj	SpaceAfter=No
+2	think	think	VERB	VBP	_	0	root	0:root	_
+3	Awww	awww	INTJ	UH	_	7	nsubj	7:nsubj	_
+4	is	be	AUX	VBZ	_	7	cop	7:cop	_
+5	Laura	Laura	PROPN	NNP	_	7	nmod:poss	7:nmod:poss	_
+6	's	's	PART	POS	_	5	case	5:case	_
+7	friend	friend	NOUN	NN	_	2	ccomp	2:ccomp	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 10 ccomp	color:blue
-1	Do	do	AUX	VBP	_	4	aux	4:aux	_
-2	n't	not	PART	RB	_	4	advmod	4:advmod	_
-3	you	you	PRON	PRP	_	4	nsubj	4:nsubj	_
-4	think	think	VERB	VB	_	0	root	0:root	_
-5	you	you	PRON	PRP	_	10	nsubj	10:nsubj	_
-6	're	be	AUX	VBP	_	10	cop	10:cop	_
-7	all	all	ADV	RB	_	10	advmod	10:advmod	_
-8	over	over	ADP	IN	_	10	case	10:case	_
-9	the	the	DET	DT	_	10	det	10:det	_
-10	place	place	NOUN	NN	_	4	ccomp	4:ccomp	_
-11	a	a	DET	DT	_	13	det	13:det	_
-12	little	little	ADJ	JJ	_	13	amod	13:amod	_
-13	bit	bit	NOUN	NN	_	10	obl:npmod	10:obl:npmod	SpaceAfter=No
-14	?	?	PUNCT	?	_	4	punct	4:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 ccomp	color:blue
-1	I	I	PRON	PRP	_	4	nsubj	4:nsubj	_
-2	do	do	AUX	VBP	_	4	aux	4:aux	_
-3	n't	not	PART	RB	_	4	advmod	4:advmod	_
-4	know	know	VERB	VB	_	0	root	0:root	_
-5	what	what	PRON	WP	_	4	ccomp	4:ccomp	_
-6	it	it	PRON	PRP	_	5	nsubj	5:nsubj	_
-7	is	be	AUX	VBZ	_	5	cop	5:cop	SpaceAfter=No
-8	.	.	PUNCT	.	_	4	punct	4:punct	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 ccomp	color:blue
+1	You	you	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	tell	tell	VERB	VBP	_	0	root	0:root	_
+3	me	me	PRON	PRP	_	2	iobj	2:iobj	_
+4	what	what	PRON	WP	_	6	obl	6:obl:like	_
+5	they	they	PRON	PRP	_	6	nsubj	6:nsubj	_
+6	look	look	VERB	VBP	_	2	ccomp	2:ccomp	_
+7	like	like	ADP	IN	_	4	case	4:case	_
+8	and	and	CCONJ	CC	_	11	cc	11:cc	_
+9	I	I	PRON	PRP	_	11	nsubj	11:nsubj	_
+10	'll	will	AUX	MD	_	11	aux	11:aux	_
+11	tell	tell	VERB	VB	_	2	conj	2:conj:and	_
+12	you	you	PRON	PRP	_	11	iobj	11:iobj	_
+13	what	what	PRON	WP	_	11	ccomp	11:ccomp	_
+14	they	they	PRON	PRP	_	13	nsubj	13:nsubj	_
+15	are	be	AUX	VBP	_	13	cop	13:cop	SpaceAfter=No
+16	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

@@ -18,10 +18,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="xpg_kul-pos-PRON.ht
 
 1 <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>οεαυται</em>
-* `EMPTY` (150): <em>ιος, [ιος, οι, [ι]ος, ις, τος, ιοι, κος, ταν, [ιο]ς</em>
+* `EMPTY` (149): <em>ιος, [ιος, οι, [ι]ος, ις, τος, ιοι, κος, ταν, [ιο]ς</em>
 

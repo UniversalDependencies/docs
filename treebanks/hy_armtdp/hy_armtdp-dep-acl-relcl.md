@@ -8,34 +8,32 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hy_armtdp-dep-acl.html">acl</a></tt>.
 
-308 nodes (1%) are attached to their parents as `acl:relcl`.
+649 nodes (1%) are attached to their parents as `acl:relcl`.
 
-306 instances of `acl:relcl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.72077922077922.
+645 instances of `acl:relcl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.56394453004622.
 
-The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (192; 62% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (38; 12% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (28; 9% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (17; 6% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (13; 4% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (431; 66% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (57; 9% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (46; 7% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (44; 7% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (35; 5% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 acl:relcl	color:blue
-1	Միակ	միակ	ADJ	_	_	2	amod	_	Translit=Miak|LTranslit=miak
-2	վայրն	վայր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=vayrn|LTranslit=vayr
-3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=ē|LTranslit=em
-4	որտեղ	որտեղ	ADV	_	PronType=Rel	9	advmod	_	Translit=orteġ|LTranslit=orteġ
-5	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=es|LTranslit=es
-6	ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	Translit=inj|LTranslit=es
-7	մարդ	մարդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	9	xcomp	_	Translit=mard|LTranslit=mard
-8	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	Translit=em|LTranslit=em
-9	զգում	զգալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	2	acl:relcl	_	Translit=zgowm|LTranslit=zgal|SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
-11	ասում	ասել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	2	parataxis	_	Translit=asowm|LTranslit=asel
-12	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=ē|LTranslit=em
-13	նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Translit=na|LTranslit=na|SpaceAfter=No
-14	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 10 acl:relcl	color:blue
+1	—	—	PUNCT	_	_	3	punct	_	Translit=—|LTranslit=—
+2	Այն	այն	DET	_	Deixis=Remt|PronType=Dem	3	det	_	Translit=Ayn|LTranslit=ayn
+3	աշխատանքը	աշխատանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=ašxatank’ë|LTranslit=ašxatank’|SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
+5	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	10	nsubj	_	Translit=orë|LTranslit=or
+6	ավելի	ավելի	ADV	_	Degree=Cmp	7	advmod	_	Translit=aveli|LTranslit=aveli
+7	շատ	շատ	ADV	_	Degree=Pos	10	advmod	_	Translit=šat|LTranslit=šat
+8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	Translit=ē|LTranslit=em
+9	օգուտ	օգուտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	10	compound:lvc	_	Translit=ògowt|LTranslit=ògowt
+10	տալիս	տալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	3	acl:relcl	_	Translit=talis|LTranslit=tal
+11	կոլեկտիվին	կոլեկտիվ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	10	iobj	_	Translit=kolektivin|LTranslit=kolektiv|SpaceAfter=No
+12	:	:	PUNCT	_	Foreign=Yes	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -62,22 +60,24 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 acl:relcl	color:blue
-1	Դու	դու	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nsubj	_	Translit=Dow|LTranslit=dow
-2	պիտի	պիտի	AUX	_	Polarity=Pos	4	aux	_	Translit=piti|LTranslit=piti
-3	այն	այն	PRON	_	Deixis=Remt|Number=Sing|PronType=Dem	4	obj	_	Translit=ayn|LTranslit=ayn
-4	անես	անել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=anes|LTranslit=anel|SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
-6	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	7	obj	_	Translit=inč|LTranslit=inč
-7	անում	անել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	3	acl:relcl	_	Translit=anowm|LTranslit=anel
-8	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=en|LTranslit=em
-9	պարտված	պարտվել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	10	acl	_	Translit=partvaç|LTranslit=partvel
-10	բանակները	բանակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	7	nsubj	_	Translit=banaknerë|LTranslit=banak|SpaceAfter=No
-11	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 acl:relcl	color:blue
+1	Վլասովը	Վլասով	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	12	nsubj	_	Translit=Vlasovë|LTranslit=Vlasov|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
+3	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	4	nsubj	_	Translit=orë|LTranslit=or
+4	դարձել	դառնալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	1	acl:relcl	_	Translit=darjel|LTranslit=daṙnal
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=ē|LTranslit=em
+6	հայտնի	հայտնի	ADJ	_	Degree=Pos	7	amod	_	Translit=haytni|LTranslit=haytni
+7	գրող	գրող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	4	xcomp	_	Translit=groġ|LTranslit=groġ|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
+9	արտաքուստ	արտաքուստ	ADV	_	_	12	advmod	_	Translit=artak’owst|LTranslit=artak’owst
+10	շատ	շատ	ADV	_	Degree=Pos	12	advmod	_	Translit=šat|LTranslit=šat
+11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	Translit=ē|LTranslit=em
+12	փոխվել	փոխվել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=p’oxvel|LTranslit=p’oxvel|SpaceAfter=No
+13	։	։	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

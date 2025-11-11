@@ -23,15 +23,15 @@ The following 5 pairs of parts of speech are connected with `obl:poss`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 obl:poss	color:blue
-1	เหล่า	เหล่า	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=hélá¹|LTranslit=hélá¹
-2	นัก	นัก	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=nâk|LTranslit=nâk
-3	อนุรักษ์	อนุรักษ์	VERB	VV	_	2	acl	_	SpaceAfter=No|Translit='nurâkš|LTranslit='nurâkš
-4	ยินดี	ยินดี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yindí|LTranslit=yindí
-5	กับ	กับ	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=kâb|LTranslit=kâb
-6	การประกาศ	การประกาศ	VERB	VV	_	4	obl	_	SpaceAfter=No|Translit=kárprakáś|LTranslit=kárprakáś
+1	เหล่า	เหล่า	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=heːlàː|LTranslit=heːlàː
+2	นัก	นัก	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=nạk|LTranslit=nạk
+3	อนุรักษ์	อนุรักษ์	VERB	VV	_	2	acl	_	SpaceAfter=No|Translit='nurạkš|LTranslit='nurạkš
+4	ยินดี	ยินดี	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yindiː|LTranslit=yindiː
+5	กับ	กับ	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=kạb|LTranslit=kạb
+6	การประกาศ	การประกาศ	VERB	VV	_	4	obl	_	SpaceAfter=No|Translit=kaːrprakaːś|LTranslit=kaːrprakaːś
 7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
 8	คณะ	คณะ	NOUN	NN	_	6	obl:poss	_	SpaceAfter=No|Translit=gʰṇa|LTranslit=gʰṇa
-9	กรรมาธิการ	กรรมาธิการ	NOUN	NN	_	8	compound	_	Translit=krrmáḏʰikár|LTranslit=krrmáḏʰikár
+9	กรรมาธิการ	กรรมาธิการ	NOUN	NN	_	8	compound	_	Translit=krrmaːḏʰikaːr|LTranslit=krrmaːḏʰikaːr
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 5 pairs of parts of speech are connected with `obl:poss`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 obl:poss	color:blue
-1	เดนนีเวิร์ก	เดนนีเวิร์ก	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dénníwéirk|LTranslit=dénníwéirk
-2	อยู่	อยู่	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='yú¹|LTranslit='yú¹
+1	เดนนีเวิร์ก	เดนนีเวิร์ก	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=deːnniːweirk|LTranslit=deːnniːweirk
+2	อยู่	อยู่	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='yùː|LTranslit='yùː
 3	ใน	ใน	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=nai|LTranslit=nai
-4	ความครอบครอง	ความครอบครอง	VERB	VV	_	2	obl	_	SpaceAfter=No|Translit=gʰwámgʰrɔːbgʰrɔːŋ|LTranslit=gʰwámgʰrɔːbgʰrɔːŋ
+4	ความครอบครอง	ความครอบครอง	VERB	VV	_	2	obl	_	SpaceAfter=No|Translit=gʰwaːmgʰrɔːbgʰrɔːŋ|LTranslit=gʰwaːmgʰrɔːbgʰrɔːŋ
 5	ของ	ของ	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-6	เยอรมัน	เยอรมัน	PROPN	NNP	_	4	obl:poss	_	SpaceAfter=No|Translit=yóérmân|LTranslit=yóérmân
-7	นับ	นับ	VERB	VV	_	2	acl	_	SpaceAfter=No|Translit=nâb|LTranslit=nâb
-8	แต่	แต่	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=tǽ¹|LTranslit=tǽ¹
-9	นั้น	นั้น	PRON	PRD	_	7	obl	_	SpaceAfter=No|Translit=nâ²n|LTranslit=nâ²n
-10	มา	มา	PART	RP	_	7	compound:prt	_	Translit=má|LTranslit=má
+6	เยอรมัน	เยอรมัน	PROPN	NNP	_	4	obl:poss	_	SpaceAfter=No|Translit=yœːrmạn|LTranslit=yœːrmạn
+7	นับ	นับ	VERB	VV	_	2	acl	_	SpaceAfter=No|Translit=nạb|LTranslit=nạb
+8	แต่	แต่	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
+9	นั้น	นั้น	PRON	PRD	PronType=Dem	7	obl	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
+10	มา	มา	PART	RP	_	7	compound:prt	_	Translit=maː|LTranslit=maː
 
 ~~~
 
@@ -63,16 +63,16 @@ The following 5 pairs of parts of speech are connected with `obl:poss`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 4 obl:poss	color:blue
 1	เป็น	เป็น	AUX	VC	_	2	cop	_	SpaceAfter=No|Translit=pen|LTranslit=pen
-2	ความฝัน	ความฝัน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰwámfʰân|LTranslit=gʰwámfʰân
+2	ความฝัน	ความฝัน	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gʰwaːmfʰạn|LTranslit=gʰwaːmfʰạn
 3	ของ	ของ	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-4	เขา	เขา	PRON	PRP	Person=3	2	obl:poss	_	SpaceAfter=No|Translit=kʰao|LTranslit=kʰao
-5	ที่	ที่	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
+4	เขา	เขา	PRON	PRP	Person=3|PronType=Prs	2	obl:poss	_	Gloss=he,she|SpaceAfter=No|Translit=kʰaoː|LTranslit=kʰaoː
+5	ที่	ที่	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
 6	จะ	จะ	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=ča|LTranslit=ča
 7	หยุด	หยุด	VERB	VV	_	2	advcl	_	SpaceAfter=No|Translit=hyud|LTranslit=hyud
-8	หน้าที่	หน้าที่	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=hná²dʰí¹|LTranslit=hná²dʰí¹
-9	การงาน	การงาน	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=kárŋán|LTranslit=kárŋán
-10	ที่	ที่	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=dʰí¹|LTranslit=dʰí¹
-11	นี่	นี่	PRON	PRD	_	8	nmod	_	Translit=ní¹|LTranslit=ní¹
+8	หน้าที่	หน้าที่	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=hnâːdʰìː|LTranslit=hnâːdʰìː
+9	การงาน	การงาน	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=kaːrŋaːn|LTranslit=kaːrŋaːn
+10	ที่	ที่	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=dʰìː|LTranslit=dʰìː
+11	นี่	นี่	PRON	PRD	PronType=Dem	8	nmod	_	Gloss=this|Translit=nìː|LTranslit=nìː
 
 ~~~
 

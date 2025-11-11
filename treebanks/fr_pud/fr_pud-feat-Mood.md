@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (5; 1% of non-empty `Mood`): <em>Disons, Laisse, Tiens, Voilà</em>
 * `Ind` (825; 92% of non-empty `Mood`): <em>a, est, peut, avait, était, peuvent, sont, ont, dit, va</em>
 * `Sub` (12; 1% of non-empty `Mood`): <em>puisse, ait, aperçoive, chante, donne, décide, fasse, finisse, fût</em>
-* `EMPTY` (1353): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
+* `EMPTY` (1352): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -55,7 +55,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `Cnd` (16; 2% of non-empty `Mood`): <em>auraient, aurait, serait, serais</em>
 * `Ind` (841; 96% of non-empty `Mood`): <em>a, est, ont, sont, était, avait, fut, avaient, étaient, ai</em>
 * `Sub` (18; 2% of non-empty `Mood`): <em>aient, soit, soient, ait, fussent</em>
-* `EMPTY` (153): <em>été, être, avoir, ayant, faire, étant, fait</em>
+* `EMPTY` (154): <em>été, être, avoir, ayant, faire, étant, Etant, fait</em>
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

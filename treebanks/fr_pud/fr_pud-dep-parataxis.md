@@ -54,7 +54,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	énergie	énergie	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
 7	?	?	PUNCT	.	_	3	punct	_	_
 8	Et	et	CCONJ	CC	_	10	cc	_	wordform=et
-9	cette	ce	DET	DT	Gender=Fem|Number=Sing	10	det	_	_
+9	cette	ce	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
 10	voix	voix	NOUN	NN	Gender=Fem|Number=Sing	3	parataxis	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	qui	qui	PRON	WP	PronType=Rel	13	nsubj	_	_

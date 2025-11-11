@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	культураяс	культура	NOUN	N	Case=Nom|Number=Plur	5	nmod	_	OrigLang=ru
 3	план	план	NOUN	N	Case=Nom|Number=Sing	5	obl	_	OrigLang=ru
 4	дінӧ	дінын	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	3	case	_	_
-5	идралӧма	идравны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	идралӧма	идравны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	3	3	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	_
 7	прӧчент	прӧчент	NOUN	N	Case=Nom|Number=Sing	5	obl	_	OrigLang=ru
 8	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	7	case	_	SpaceAfter=No
@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5 4 nummod	color:blue
 1	Доктор	доктор	NOUN	N	Case=Nom|Number=Sing	3	obl	_	_
 2	ордӧ	ордӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	1	case	_	_
-3	воӧмаӧсь	воны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+3	воӧмаӧсь	воны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
 5	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	6	amod	_	_
 6	ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No

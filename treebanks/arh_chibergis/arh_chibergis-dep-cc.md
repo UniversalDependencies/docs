@@ -8,33 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-34 nodes (1%) are attached to their parents as `cc`.
+43 nodes (1%) are attached to their parents as `cc`.
 
-34 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.32352941176471.
+43 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.46511627906977.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (12; 35% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (8; 24% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (7; 21% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (2; 6% instances), <tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (15; 35% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (8; 19% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (7; 16% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-PART.html">PART</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="arh_chibergis-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="arh_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 1 cc	color:blue
-1	iwa	iwa	CCONJ	_	_	10	cc	_	AlignBegin=38869|AlignEnd=39492|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]|TokenType=Root
-2	ikʉ	ikʉ	PROPN	_	Animacy=Anim|Case=Erg|Definite=Def	10	nsubj	_	AgentShift=yes|AlignBegin=39492|AlignEnd=39804|GE=[Ika]|Gloss=Ika|nWord=2|RX=[NPROP]|ShiftType=partial|TokenType=Root|Topic=yes
-3	=ri	_	PART	_	_	2	advmod	_	AlignBegin=39804|AlignEnd=40115|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
-4	(	_	PUNCT	_	_	5	punct	_	AlignBegin=40115|AlignEnd=40738|nWord=3
-5	mhm	mhm	INTJ	_	_	7	discourse	_	AlignBegin=40738|AlignEnd=41361|GE=[HES]|Gloss=HES|nWord=4|RX=[INTERJ]|TokenType=Root
-6	)	_	PUNCT	_	_	5	punct	_	AlignBegin=41361|AlignEnd=41984|nWord=5
-7	mʉkʉ	mʉkʉ	NOUN	_	_	9	nmod	_	AlignBegin=41984|AlignEnd=42296|GE=cloth|Gloss=cloth|nWord=6|RX=[N]|TokenType=Root
-8	=ri	_	PART	_	_	7	advmod	_	AlignBegin=42296|AlignEnd=42607|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit
-9	mowga	mowga	NUM	_	Animacy=Inan|Case=Abs|Definite=Ind	10	obj	_	AlignBegin=42607|AlignEnd=43230|GE=two|Gloss=two|nWord=7|RX=[NUM]|TokenType=Root|Topic=no
-10	mikʉnʉsi	nʉsi	VERB	_	_	0	root	_	AlignBegin=43230|AlignEnd=43853|ArgumentOrder=SOV|GE=stand|Gloss=2SG.OAPPL1stand|nWord=8|RX=[V]|TokenType=Root|Transitivity=transitive
-11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=43853|AlignEnd=44476|nWord=9
-12	a'mia	a'mia	NOUN	_	_	10	appos	_	AlignBegin=44476|AlignEnd=44788|GE=woman|Gloss=woman|nWord=10|RX=[N]|TokenType=Root
-13	=ri	_	PART	_	_	12	advmod	_	AlignBegin=44788|AlignEnd=45100|GE=[TOP]|Gloss==TOP|nWord=10|RX=[PRT]|TokenType=Clit
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 cc	color:blue
+1	ey	ey	PART	_	_	5	discourse	_	AlignBegin=110066|AlignEnd=110388|GE=so|Gloss=so|nWord=1|RX=[PRT]|TokenType=Root
+2	ʉndi	ʉndi	ADV	_	_	1	advmod	_	AlignBegin=110388|AlignEnd=110710|GE=so|Gloss=so|nWord=2|RX=[ADV]|TokenType=Root
+3	iwa	iwa	CCONJ	_	_	5	cc	_	AlignBegin=110710|AlignEnd=111032|GE=and|Gloss=and|nWord=3|RX=[COORDCONN]|TokenType=Root
+4	bunsi	bunsi	NOUN	_	Case=Abs	5	nsubj	_	AlignBegin=111032|AlignEnd=111354|GE=dawn|Gloss=dawn|nWord=4|RX=[N]|TokenType=Root
+5	chanu'	chan	VERB	_	_	0	root	_	AlignBegin=111354|AlignEnd=111514|GE=[NEG]|Gloss=dawnNEG|nWord=5|RX=[VERB]|TokenType=InflAff
+6	=gwi	_	ADV	_	_	5	advmod	_	AlignBegin=111514|AlignEnd=111594|GE=also|Gloss==also|nWord=5|RX=[ADV]|TokenType=Clit
+7	=ri	_	PART	_	_	6	advmod	_	AlignBegin=111594|AlignEnd=111676|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=111676|AlignEnd=111999|nWord=6
 
 ~~~
 
@@ -45,16 +40,13 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 cc	color:blue
-1	awi	aw	PART	_	_	6	cc	_	AlignBegin=67850|AlignEnd=68170|GE=aux|Gloss=auxand|nWord=1|RX=[AUX]|TokenType=Root
-2	=ri	_	PART	_	_	6	advmod	_	AlignBegin=68170|AlignEnd=68329|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit
-3	bechʉ	bechʉ	NOUN	_	_	6	dislocated	_	AlignBegin=68329|AlignEnd=68808|GE=agave|Gloss=agave|nWord=2|RX=[N]|TokenType=Root
-4	tutu	tutu	NOUN	_	_	3	nmod	_	AlignBegin=68808|AlignEnd=69048|GE=traditional.bag|Gloss=traditional.bag|nWord=3|RX=[N]|TokenType=Root
-5	=ri	_	PART	_	_	4	advmod	_	AlignBegin=69048|AlignEnd=69287|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
-6	gow	gow	VERB	_	_	0	root	_	AlignBegin=69287|AlignEnd=69766|GE=build|Gloss=build|nWord=4|RX=[V]|TokenType=Root
-7	be	be	PRON	_	_	9	obl:lmod	_	AlignBegin=69766|AlignEnd=70006|GE=where|Gloss=where|nWord=5|RX=[INTERROG]|TokenType=Root
-8	=ki	_	PART	_	_	7	advmod	_	AlignBegin=70006|AlignEnd=70245|GE=[CNTR]|Gloss==CNTR|nWord=5|RX=[PRT]|TokenType=Clit
-9	dibuju	dibuju	NOUN	_	_	6	obj	_	AlignBegin=70245|AlignEnd=70724|GE=[SPA_drawing]|Gloss=SPA_drawing|nWord=6|RX=[N]|TokenType=Root
-10	neki	neki	PART	_	_	9	advmod:emph	_	AlignBegin=70724|AlignEnd=71200|GE=[CNTR]|Gloss=CNTR|nWord=7|RX=[PRT]|TokenType=Root
+1	awe'	aw	PART	_	_	6	cc	_	AlignBegin=372770|AlignEnd=373064|GE=then|Gloss=auxthen|nWord=1|RX=[VERB]|TokenType=InflAff
+2	=ri	_	PART	_	_	6	advmod	_	AlignBegin=373064|AlignEnd=373210|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit
+3	misakʉ	misakʉ	PROPN	_	Case=Abs	6	nsubj	_	AlignBegin=373210|AlignEnd=373430|GE=[Misak (people)]|Gloss=Misak (people)|nWord=2|RX=[NPROP]|TokenType=Root
+4	=ri	_	PART	_	_	3	advmod	_	AlignBegin=373430|AlignEnd=373650|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+5	du	du	ADJ	_	_	6	xcomp	_	AlignBegin=373650|AlignEnd=374090|GE=good|Gloss=good|nWord=3|RX=[ADJ]|TokenType=Root
+6	ʉnwinasey	asey	VERB	_	_	0	root	_	AlignBegin=374090|AlignEnd=374530|GE=speak|Gloss=MID3PL.Sspeak|nWord=4|RX=[V]|TokenType=Root
+7	.	_	PUNCT	_	_	6	punct	_	AlignBegin=374530|AlignEnd=374969|Gloss=.|nWord=5
 
 ~~~
 

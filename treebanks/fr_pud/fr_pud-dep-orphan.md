@@ -83,7 +83,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 8 11 orphan	color:blue
 1	Durán	Durán	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	agit	agir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	en	en	ADP	IN	_	6	case	_	_
+3	en	en	ADP	IN	ExtPos=ADP	6	case	_	_
 4	tant	tant	ADV	RB	_	3	fixed	_	_
 5	que	que	SCONJ	IN	_	3	fixed	_	_
 6	porte-parole	porte-parole	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_

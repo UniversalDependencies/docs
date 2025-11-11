@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-nsubj.html">nsubj</a></tt>.
 
-16 nodes (1%) are attached to their parents as `nsubj:pass`.
+35 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-16 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.6875.
+35 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.71428571428571.
 
-The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (12; 75% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (3; 19% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (26; 74% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (4; 11% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 9% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (2; 6% instances).
 
 
 ~~~ conllu
@@ -24,8 +24,8 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 12 8 nsubj:pass	color:blue
 1	دولت	دولت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=dawlát|LTranslit=dawlát|Gloss=state
 2	اجازه	اجازه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	Translit=iǰâzá|LTranslit=iǰâzá|Gloss=permission
-3	نه	نۀ	PART	_	Polarity=Neg	4	advmod	_	Translit=në|LTranslit=në|Gloss=no
-4	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=warkawí|LTranslit=warkawë́l|Gloss=gives|SpaceAfter=No
+3	نه	نۀ	PART	_	Polarity=Neg	4	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+4	ورکوي	ورکول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=warkawi|LTranslit=warkawë́l|Gloss=gives|SpaceAfter=No
 5	،	،	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,|Gloss=,
 6	چې	چې	SCONJ	_	_	12	mark	_	Translit=če|LTranslit=če|Gloss=that
 7	کومه	کوم	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	Translit=kúma|LTranslit=kum|Gloss=any
@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 11	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	12	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 12	واړول	اړول	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	2	acl	_	Translit=wâṛawë́l|LTranslit=aṛawë́l|Gloss=changed
 13	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	12	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.
+14	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -63,76 +63,22 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 45	bgColor:blue
-# visual-style 45	fgColor:white
-# visual-style 50	bgColor:blue
-# visual-style 50	fgColor:white
-# visual-style 50 45 nsubj:pass	color:blue
-1	له	له	ADP	_	Case=Abl	3	case	_	Translit=la|LTranslit=la|Gloss=from
-2	همدې	همدا	DET	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Translit=hamdé|LTranslit=hamdấ|Gloss=this
-3	کبله	کبله	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	32	obl	_	Translit=kabála|LTranslit=kabála|Gloss=reason
-4	زيات	زيات	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	Translit=zyât|LTranslit=zyât|Gloss=many
-5	پښتوضد	پښتوضد	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	Translit=pax̌tózid|LTranslit=pax̌tózid|Gloss=anti-Pashto
-6	او	او	CCONJ	_	_	7	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-7	پښتون	پښتون‌ضد	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	5	conj	_	Translit=pax̌tún|LTranslit=pax̌túnzid|Gloss=anti-Pashtun
-8	ضد	_	X	_	_	7	goeswith	_	Translit=zid|LTranslit=|Gloss=
-9	کسان	کس	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	32	nsubj	_	Translit=kasấn|LTranslit=kas|Gloss=people
-10	چې	چې	PRON	_	PronType=Rel	12	nmod	_	Translit=če|LTranslit=če|Gloss=who
-11	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	12	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
-12	موخه	موخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	acl:relcl	_	Translit=móxa|LTranslit=móxa|Gloss=purpose
-13	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	10	nmod	_	Translit=ye|LTranslit=ye|Gloss=their
-14	د	د	ADP	_	Case=Acc	15	case	_	Translit=dë|LTranslit=dë|Gloss=of
-15	پیسو	پیسه	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	16	nmod	_	Translit=paysó|LTranslit=paysá|Gloss=money
-16	ګټل	ګټل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	12	nsubj	_	Translit=gaṭë́l|LTranslit=gaṭë́l|Gloss=win
-17	وي	ول	AUX	_	Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	12	cop	_	Translit=wi|LTranslit=wël|Gloss=is|SpaceAfter=No
-18	،	،	PUNCT	_	_	30	punct	_	Translit=,|LTranslit=,|Gloss=,
-19	د	د	ADP	_	Case=Acc	21	case	_	Translit=dë|LTranslit=dë|Gloss=of
-20	افغاني	افغاني	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	21	amod	_	Translit=afġâní|LTranslit=afġâní|Gloss=afghani
-21	ټولنې	ټولنه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	nmod	_	Translit=ṭolë́ne|LTranslit=ṭolë́na|Gloss=communities
-22	ارزښتونو	ارزښت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	28	nmod	_	Translit=arzëx̌túno|LTranslit=arzë́x̌t|Gloss=values|SpaceAfter=No
-23	،	،	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,|Gloss=,
-24	دود	دود	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	conj	_	Translit=dod|LTranslit=dod|Gloss=tradition
-25	او	او	CCONJ	_	_	26	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-26	روايتونو	روايت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	22	conj	_	Translit=rawâyatúno|LTranslit=rawâyát|Gloss=narratives
-27	ته	ته	ADP	_	Case=Acc	22	case	_	Translit=ta|LTranslit=ta|Gloss=to
-28	پام	پام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	obj	_	Translit=pâm|LTranslit=pâm|Gloss=attention
-29	نه	نۀ	PART	_	Polarity=Neg	30	advmod	_	Translit=në|LTranslit=në|Gloss=not
-30	کړي	کول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	12	conj	_	Translit=kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-31	،	،	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,|Gloss=,
-32	راولاړېږي	راولاړېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=râwalâṛeǧí|LTranslit=râwalâṛedë́l|Gloss=comes-up
-33	او	او	CCONJ	_	_	37	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-34	داسې	داسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Short	35	det	_	Translit=dấse|LTranslit=dấse|Gloss=such
-35	فلمونه	فلم	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	37	obj	_	Translit=filmúna|LTranslit=film|Gloss=movies
-36	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	37	compound:lvc	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
-37	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	conj	_	Translit=kawí|LTranslit=kawë́l|Gloss=make
-38	،	،	PUNCT	_	_	43	punct	_	Translit=,|LTranslit=,|Gloss=,
-39	يا	يا	CCONJ	_	_	43	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
-40	داسې	داسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Short	42	det	_	Translit=dấse|LTranslit=dấse|Gloss=such
-41	مطبوعاتي	مطبوعاتي	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	42	amod	_	Translit=matboâtí|LTranslit=matboâtí|Gloss=press
-42	خپرونې	خپرونه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	43	obj	_	Translit=xpërawë́ne|LTranslit=xpërawë́na|Gloss=releases
-43	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	conj	_	Translit=kawí|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
-44	،	،	PUNCT	_	_	50	punct	_	Translit=,|LTranslit=,|Gloss=,
-45	چې	چې	PRON	_	_	50	nsubj:pass	_	Translit=če|LTranslit=če|Gloss=which
-46	په	پۀ	ADP	_	Case=Loc	47	case	_	Translit=pë|LTranslit=pë|Gloss=at
-47	افغانستان	افغانستان	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	50	obl	_	Translit=afġânistấn|LTranslit=afġânistấn|Gloss=Afghanistan
-48	کې	کې	ADP	_	Case=Loc	47	case	_	Translit=ke|LTranslit=ke|Gloss=in
-49	نه	نۀ	PART	_	Polarity=Neg	50	advmod	_	Translit=në|LTranslit=në|Gloss=not
-50	وېشل	وېشل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	35	acl:relcl	_	Translit=wešë́l|LTranslit=wešë́l|Gloss=distribution
-51	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	50	aux:pass	_	Translit=keǧí|LTranslit=kedë́l|Gloss=is-done|SpaceAfter=No
-52	،	،	PUNCT	_	_	59	punct	_	Translit=,|LTranslit=,|Gloss=,
-53	بلکې	بلکې	CCONJ	_	_	59	cc	_	Translit=balké|LTranslit=balké|Gloss=but
-54	امريکا	امريکا	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	59	obl	_	Translit=amrikấ|LTranslit=amrikấ|Gloss=America
-55	يا	يا	CCONJ	_	_	57	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
-56	نورو	نور	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	57	amod	_	Translit=nóro|LTranslit=nor|Gloss=others
-57	هېوادونو	هېواد	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	54	conj	_	Translit=hewâdúno|LTranslit=hewấd|Gloss=countries
-58	ته	ته	ADP	_	Case=Acc	54	case	_	Translit=ta|LTranslit=ta|Gloss=to
-59	لېږل	لېږل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	50	conj	_	Translit=leǧë́l|LTranslit=leǧë́l|Gloss=sending
-60	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	59	aux:pass	_	Translit=keǧí|LTranslit=kedë́l|Gloss=is done
-61	او	او	CCONJ	_	_	64	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-62	هلته	هلته	ADV	_	Deixis=Remt	64	advmod	_	Translit=hálta|LTranslit=hálta|Gloss=there
-63	خپور	خپور	ADJ	_	_	64	compound:lvc	_	Translit=xpor|LTranslit=xpor|Gloss=spread
-64	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	59	conj	_	Translit=keǧí|LTranslit=kedë́l|Gloss=becomes
-65	.	.	PUNCT	_	_	32	punct	_	Translit=.|LTranslit=.|Gloss=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 2 nsubj:pass	color:blue
+1	–	–	PUNCT	_	_	9	punct	_	Translit=–|LTranslit=–|Gloss=–
+2	غمجنه	غمجن	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	Translit=ġamǰána|LTranslit=ġamǰán|Gloss=sad
+3	د	د	ADP	_	Case=Acc	4	case	_	Translit=dë|LTranslit=dë|Gloss=of
+4	اغېزمن	اغېزمن	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=aġezmán|LTranslit=aġezmán|Gloss=effective
+5	(	(	PUNCT	_	_	6	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
+6	متاثر	متاثر	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	4	appos	_	Translit=mutâsír|LTranslit=mutâsír|Gloss=effective|SpaceAfter=No
+7	)	)	PUNCT	_	_	6	punct	_	Translit=)|LTranslit=)|Gloss=)
+8	لپاره	لپاره	ADP	_	Case=Acc	4	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
+9	کارول	کارول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=kârawë́l|LTranslit=kârawë́l|Gloss=to-use
+10	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=is done|SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

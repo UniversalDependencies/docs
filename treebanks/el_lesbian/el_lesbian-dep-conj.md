@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-124 nodes (4%) are attached to their parents as `conj`.
+217 nodes (4%) are attached to their parents as `conj`.
 
-124 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.05645161290323.
+217 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.02304147465438.
 
-The following 16 pairs of parts of speech are connected with `conj`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (91; 73% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (9; 7% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-X.html">X</a></tt> (1; 1% instances).
+The following 27 pairs of parts of speech are connected with `conj`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (141; 65% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (17; 8% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,25 +35,21 @@ The following 16 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 conj	color:blue
-1	Τα	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
-2	κουπιλούδια	κουπέλα	NOUN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Plur	11	nsubj	_	_
-3	πάλι	πάλι	ADV	_	_	2	advmod	_	_
-4	τσι	τσι	CCONJ	_	_	6	cc	_	_
-5	γι	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	CorrectForm=γοι|MGloss=euphonic-the|MSeg=γ-οι
-6	γναίτσις	γναίκα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	_
-7	πού	που	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel|Typo=Yes	8	nsubj	_	CorrectForm=που
-8	χαν	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
-9	ιμκρά	ιμκρός	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	10	amod	_	_
-10	μουρά	μουρό	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
-11	ανιβέναν	ανιβαίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-12	κάθε	κάθε	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	13	det	_	_
-13	βράδ	βράδ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
-14	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 6 9 conj	color:blue
+1	Του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	κέσκες	κέσκες	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	obj	_	_
+3	του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+4	κάντε	κάνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	με	μι	ADP	_	_	6	case	_	_
+6	ρβύθια	ριβύθ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obl	_	_
+7	ή	ή	CCONJ	_	_	9	cc	_	_
+8	με	μι	ADP	_	_	9	case	_	_
+9	στάρ’	στάρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	_
+10	;	;	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -64,7 +60,7 @@ The following 16 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 conj	color:blue
-1	Ακλούθα	ακλούθα	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Ακλούθα	ακλουθώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	γιου	ου	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	MGloss=euphonic-the|MSeg=γι-ου
 3	Κόπς	Κόπς	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	ήσυχους	ήσυχους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	advcl	_	_

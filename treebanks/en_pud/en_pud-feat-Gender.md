@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_pud-pos-PRON.htm
 
 482 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (46% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (482; 100%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (482; 100%), <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (482; 100%), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (311; 65%), <tt><a href="en_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (244; 51%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (482; 100%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (482; 100%), <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (482; 100%), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (311; 65%).
 
 `PRON` tokens may have the following values of `Gender`:
 

@@ -35,9 +35,9 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 10	اغېزناکه	اغېزناک	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	Translit=aġeznấka|LTranslit=aġeznấk|Gloss=effective
 11	وسیله	وسیله	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	obl:arg	_	Translit=wasíla|LTranslit=wasíla|Gloss=instrument
 12	ګڼل	ګڼل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=gaṇë́l|LTranslit=gaṇë́l|Gloss=considered
-13	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	Translit=keǧí|LTranslit=kedë́l|Gloss=becomes|SpaceAfter=No
+13	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=becomes|SpaceAfter=No
 14	،	،	PUNCT	_	_	29	punct	_	Translit=,|LTranslit=,|Gloss=,
-15	چې	چې	PRON	_	PronType=Rel	29	obj	_	Translit=če|LTranslit=če|Gloss=which
+15	چې	چې	PRON	_	PronType=Rel	29	obl	_	Translit=če|LTranslit=če|Gloss=which
 16	انسانانو	انسان	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	29	nsubj	_	Translit=insânấno|LTranslit=insấn|Gloss=human
 17	د	د	ADP	_	Case=Acc	19	case	_	Translit=dë|LTranslit=dë|Gloss=of
 18	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
@@ -48,12 +48,12 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 23	دې	دا	DET	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	Translit=de|LTranslit=dâ|Gloss=this
 24	دمه	دمه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	29	obl	_	Translit=dáma|LTranslit=dáma|Gloss=moment
 25	تر	تر	ADP	_	Case=Abl	26	case	_	Translit=tër|LTranslit=tër|Gloss=from
-26	یې	یې	PRON	_	Person=3|PronType=Prs|Variant=Weak	29	obl	_	Translit=ye|LTranslit=ye|Gloss=it
+26	یې	یې	PRON	_	Person=3|PronType=Prs|Variant=Weak	15	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
 27	ګټه	ګټه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	29	obj	_	Translit=gáṭa|LTranslit=gáṭa|Gloss=benefit
 28	اوچته	اوچت	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	29	compound:lvc	_	Translit=učáta|LTranslit=učát|Gloss=taken
 29	کړې	کول	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	Translit=kë́ṛe|LTranslit=kawë́l|Gloss=done
 30	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	Translit=da|LTranslit=wël|Gloss=is|SpaceAfter=No
-31	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.|Gloss=.
+31	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

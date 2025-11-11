@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt>.
 
-1881 nodes (2%) are attached to their parents as `nmod:poss`.
+2475 nodes (2%) are attached to their parents as `nmod:poss`.
 
-1879 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24774056353004.
+2473 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24686868686869.
 
-The following 22 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (991; 53% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (371; 20% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (170; 9% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (129; 7% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (124; 7% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (42; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (22; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1393; 56% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (429; 17% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (245; 10% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (177; 7% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (133; 5% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (41; 2% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 22 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 3	직장에서의	직장+에서+의	NOUN	NNG+JKB+JKG	_	4	nmod:poss	_	_
 4	사생활	사생활	NOUN	NNG	_	5	nmod	_	_
 5	침해도	침해+도	NOUN	NNG+JX	_	6	nsubj	_	_
-6	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	SF	_	6	punct	_	_
 
 ~~~
@@ -48,21 +48,29 @@ The following 22 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 nmod:poss	color:blue
-1	난	나+ㄴ	PRON	NP+JX	_	8	nsubj	_	_
-2	한국의	한국+의	NOUN	NNP+JKG	_	4	nmod:poss	_	_
-3	정치와	정치+와	NOUN	NNG+JC	_	6	obl	_	_
-4	경제에	경제+에	ADV	NNG+JKB	_	3	conj	_	_
-5	관심이	관심+이	NOUN	NNG+JKS	_	6	nsubj	_	_
-6	많아서	많+아서	VERB	VA+EC	_	8	advcl	_	_
-7	한국어를	한국어+를	NOUN	NNG+JKO	_	8	obj	_	_
-8	배우게	배우+게	VERB	VV+EC	_	0	root	_	_
-9	됐어	되+었+어	VERB	VX+EP+EF	_	8	advcl	_	SpaceAfter=No
-10	.	.	PUNCT	SF	_	8	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nmod:poss	color:blue
+1	그러므로	그러므로	CCONJ	MAJ	_	17	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+3	항상	항상	ADV	MAG	_	7	advmod	_	_
+4	자기의	자기+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	건강에	건강+에	ADV	NNG+JKB	_	6	obl	_	_
+6	대해서	대하+아서	VERB	VV+EC	_	7	advcl	_	_
+7	생각해면	생각+하+아+면	VERB	NNG+XSV+EC+EC	_	12	advcl	_	_
+8	스트레스를	스트레스+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	해소할	해소+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있고	있	AUX	VX+EC	_	0	root	_	_
+13	가끔	가끔	ADV	MAG	_	15	advmod	_	_
+14	스트레스를	스트레스+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	피할	피하+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수도	수+도	NOUN	NNB+JX	_	17	nsubj	_	_
+17	있다	있	AUX	VX+EF	_	12	conj	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
 
 ~~~
 

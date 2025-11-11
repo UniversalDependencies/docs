@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Act` (8389; 93% of non-empty `Voice`): <em>fara, gera, hringir, held, koma, taka, kemur, á, þakka, segja</em>
 * `Mid` (671; 7% of non-empty `Voice`): <em>finnst, komast, virðist, komist, hefst, komst, gerst, gerist, snýst, fannst</em>
-* `EMPTY` (235): <em>búið, Gripið, búin, búinn, þakka, leið, merktir, búnir, fer, fljótandi</em>
+* `EMPTY` (236): <em>búið, Gripið, búin, búinn, þakka, leið, merktir, búnir, fer, fljótandi</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Act</tt></th><th><tt>Mid</tt></th></tr>
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADV` and `Voice` co-occurred:
 `ADV` tokens may have the following values of `Voice`:
 
 * `Act` (4; 100% of non-empty `Voice`): <em>segja, lýtur</em>
-* `EMPTY` (6956): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+* `EMPTY` (6955): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
 
 ### `ADP`
 
@@ -104,7 +104,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Act` (1; 100% of non-empty `Voice`): <em>rökstutt</em>
-* `EMPTY` (4317): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
+* `EMPTY` (4319): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
 
 ### `X`
 
@@ -122,12 +122,12 @@ The most frequent other feature values with which `X` and `Voice` co-occurred: <
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="is_modern-dep-aux.html">aux</a></tt>]--> AUX</tt> (1216; 91%),
 <tt>VERB --[<tt><a href="is_modern-dep-acl.html">acl</a></tt>]--> VERB</tt> (966; 87%),
-<tt>VERB --[<tt><a href="is_modern-dep-cop.html">cop</a></tt>]--> AUX</tt> (874; 90%),
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (674; 83%),
+<tt>VERB --[<tt><a href="is_modern-dep-cop.html">cop</a></tt>]--> AUX</tt> (873; 90%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (682; 83%),
 <tt>VERB --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (521; 88%),
-<tt>VERB --[<tt><a href="is_modern-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (299; 84%),
+<tt>VERB --[<tt><a href="is_modern-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (300; 85%),
 <tt>VERB --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> VERB</tt> (237; 81%),
-<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (128; 86%),
+<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (120; 86%),
 <tt>AUX --[<tt><a href="is_modern-dep-aux.html">aux</a></tt>]--> AUX</tt> (114; 100%),
 <tt>VERB --[<tt><a href="is_modern-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (67; 80%).
 

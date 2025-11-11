@@ -12,26 +12,27 @@ There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fro_p
 88 nodes (0%) are attached to their parents as `nsubj:obj`.
 
 88 instances of `nsubj:obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44318181818182.
+Average distance between parent and child is 1.38636363636364.
 
 The following 1 pairs of parts of speech are connected with `nsubj:obj`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (88; 100% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nsubj:obj	color:blue
-1	Or	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_58_02942
-2	irez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02943
-3	vos	_	PRON	PROper	PronType=Prs	2	nsubj	_	XmlId=w_58_02944
-4	certes	_	ADV	ADVgen	_	2	advmod	_	SpaceAfter=No|XmlId=w_58_02945
-5	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_58_02946
-6	quant	_	SCONJ	CONsub	_	8	mark	_	XmlId=w_58_02947
-7	jol	_	PRON	PROper.PROper	PronType=Prs	8	nsubj:obj	_	XmlId=w_58_02948
-8	cumant	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	SpaceAfter=No|XmlId=w_58_02949
-9	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_02950
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nsubj:obj	color:blue
+1	S'	_	SCONJ	CONsub	_	2	mark	_	SpaceAfter=No|XmlId=w_58_01026
+2	est	_	VERB	VERcjg	_	8	advcl	_	XmlId=w_58_01027
+3	kil	_	PRON	PROrel.PROper	_	4	nsubj:obj	_	XmlId=w_58_01028
+4	demandet	_	VERB	VERcjg	_	2	csubj	_	SpaceAfter=No|XmlId=w_58_01029
+5	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_58_01030
+6	ne	_	ADV	ADVneg	_	8	advmod	_	XmlId=w_58_01031
+7	l'	_	PRON	PROper	_	8	obj	_	SpaceAfter=No|XmlId=w_58_01032
+8	estoet	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_01033
+9	enseigner	_	VERB	VERinf	_	8	xcomp	_	SpaceAfter=No|XmlId=w_58_01034
+10	.	_	PUNCT	PONfrt	_	8	punct	_	XmlId=w_58_01035
 
 ~~~
 

@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 5	շատերու	շատ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	7	obj	_	Translit=šaterow|LTranslit=šat
 6	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	7	aux	_	Translit=kë|LTranslit=kë
 7	յիշեցնէ	յիշեցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	Translit=yišec’nē|LTranslit=yišec’nel
-8	մեզի	մենք	PRON	_	Animacy=Hum|Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj:agent	_	Translit=mezi|LTranslit=menk’|SpaceAfter=No
+8	մեզի	մենք	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj:agent	_	Translit=mezi|LTranslit=menk’|SpaceAfter=No
 9	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -49,14 +49,14 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 5	որ	որ	SCONJ	_	_	14	mark	_	Translit=or|LTranslit=or
 6	այսօր	այսօր	ADV	_	_	14	advmod	_	Translit=aysòr|LTranslit=aysòr
 7	նոյնիսկ	նոյնիսկ	ADV	_	_	10	advmod:emph	_	Translit=noynisk|LTranslit=noynisk
-8	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	det:poss	_	Translit=mer|LTranslit=menk’
+8	մեր	մեր	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	det:poss	_	Translit=mer|LTranslit=mer
 9	վարժարաններու	վարժարան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	10	nmod:poss	_	Translit=varžarannerow|LTranslit=varžaran
 10	վարիչները	վարիչ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	14	nsubj	_	Translit=varičnerë|LTranslit=varič
-11	իրենց	իրենք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	12	det:poss	_	Translit=irenc’|LTranslit=irenk’
+11	իրենց	իրենց	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	12	det:poss	_	Translit=irenc’|LTranslit=irenc’
 12	զաւակները	զաւակ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	14	obj	_	Translit=zawaknerë|LTranslit=zawak
 13	չեն	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=čen|LTranslit=em
 14	ուղարկեր	ուղարկել	VERB	_	Aspect=Imp|Connegative=Yes|Subcat=Tran|VerbForm=Part|Voice=Act	2	ccomp	_	Translit=owġarker|LTranslit=owġarkel
-15	իրենց	իրենք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	16	nsubj	_	Translit=irenc’|LTranslit=irenk’
+15	իրենց	իրենց	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	16	nsubj	_	Translit=irenc’|LTranslit=irenc’
 16	ղեկավարած	ղեկավարել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	17	acl	_	Translit=ġekavaraç|LTranslit=ġekavarel
 17	դպրոցը	դպրոց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	14	obl	_	Translit=dproc’ë|LTranslit=dproc’|SpaceAfter=No
 18	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 28	bgColor:blue
 # visual-style 28	fgColor:white
 # visual-style 28 27 nsubj:caus	color:blue
-1	Անոնց	անոնք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Anonc’|LTranslit=anonk’
+1	Անոնց	անոնց	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Anonc’|LTranslit=anonc’
 2	հեռաստանին	հեռաստան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	4	obl	_	Translit=heṙastanin|LTranslit=heṙastan
 3	կրնամ	կրնալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=krnam|LTranslit=krnal
 4	դնել	դնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	3	xcomp	_	Translit=dnel|LTranslit=dnel
@@ -81,19 +81,19 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 9	իբրեւ	իբրեւ	ADP	_	AdpType=Prep	11	case	_	Translit=ibrew|LTranslit=ibrew
 10	յանգման	յանգում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	11	nmod:poss	_	Translit=yangman|LTranslit=yangowm
 11	կէտը	կէտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	8	nmod:npmod	_	Translit=kētë|LTranslit=kēt
-12	միւսներուն	միւս	PRON	_	Case=Dat|Definite=Def|Number=Plur|PronType=Dem	11	nmod:npmod	_	Translit=miwsnerown|LTranslit=miws|SpaceAfter=No
+12	միւսներուն	միւսը	PRON	_	Case=Dat|Number=Plur|PronType=Dem	11	nmod:npmod	_	Translit=miwsnerown|LTranslit=miwsë|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
 14	յետոյ	յետոյ	ADV	_	_	16	advmod	_	Translit=yetoy|LTranslit=yetoy
 15	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	16	aux	_	Translit=kë|LTranslit=kë
 16	փոխեմ	փոխել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Translit=p’oxem|LTranslit=p’oxel
-17	անոնց	անոնք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=anonc’|LTranslit=anonk’
+17	անոնց	անոնց	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	Translit=anonc’|LTranslit=anonc’
 18	կարգը	կարգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	16	obj	_	Translit=kargë|LTranslit=karg|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
 20	մտովին	մտովին	ADV	_	_	22	advmod	_	Translit=mtovin|LTranslit=mtovin
 21	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	22	aux	_	Translit=kë|LTranslit=kë
 22	մկրատեմ	մկրատել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Translit=mkratem|LTranslit=mkratel
-23	մի	մի	DET	_	PronType=Art	22	obj	_	Translit=mi|LTranslit=mi
-24	քանին	քանի	PRON	_	Case=Nom|Definite=Def|PronType=Ind	23	fixed	_	Translit=k’anin|LTranslit=k’ani|SpaceAfter=No
+23	մի	մի	DET	_	ExtPos=PRON|PronType=Art	22	obj	_	Translit=mi|LTranslit=mi
+24	քանին	քանի	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Int	23	fixed	_	Translit=k’anin|LTranslit=k’ani|SpaceAfter=No
 25	,	,	PUNCT	_	_	28	punct	_	Translit=,|LTranslit=,
 26	ինչպէս	ինչպէս	ADV	_	PronType=Rel	28	advmod	_	Translit=inčpēs|LTranslit=inčpēs
 27	Էլմոն	Էլմոն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	28	nsubj:caus	_	Translit=Ēlmon|LTranslit=Ēlmon
@@ -113,7 +113,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 41	,	,	PUNCT	_	_	42	punct	_	Translit=,|LTranslit=,
 42	հաստատեր	հաստատել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	39	conj	_	Translit=hastater|LTranslit=hastatel
 43	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	42	aux	_	Translit=ē|LTranslit=em
-44	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	45	det:poss	_	Translit=ir|LTranslit=ink’
+44	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	45	det:poss	_	Translit=ir|LTranslit=ir
 45	ցանկութիւնը	ցանկութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	42	obj	_	Translit=c’ankowt’iwnë|LTranslit=c’ankowt’iwn
 46	եւ	եւ	CCONJ	_	_	48	cc	_	Translit=ew|LTranslit=ew
 47	Ծաղկանոյշը	Ծաղկանոյշ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	48	iobj:agent	_	Translit=Çaġkanoyšë|LTranslit=Çaġkanoyš
@@ -127,7 +127,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 55	.	.	PUNCT	_	_	58	punct	_	Translit=.|LTranslit=.
 56	այդպէս	այդպէս	ADV	_	Deixis=Med|PronType=Dem	58	advmod:emph	_	Translit=aydpēs|LTranslit=aydpēs
 57	ալ	ալ	ADV	_	_	56	advmod	_	Translit=al|LTranslit=al
-58	ես	ես	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	28	conj	_	Translit=es|LTranslit=es|SpaceAfter=No
+58	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	conj	_	Translit=es|LTranslit=es|SpaceAfter=No
 59	՝	՝	PUNCT	_	_	61	punct	_	Translit=,|LTranslit=,
 60	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	61	aux	_	Translit=kë|LTranslit=kë
 61	կտրեմ	կտրել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	58	acl	_	Translit=ktrem|LTranslit=ktrel
@@ -177,7 +177,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 105	ասդին	ասդին	ADV	_	Deixis=Prox|PronType=Dem	106	advmod:emph	_	Translit=asdin|LTranslit=asdin
 106	Անթիքան	Անթիքա	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	95	conj	_	Translit=Ant’ik’an|LTranslit=Ant’ik’a
 107	եւ	եւ	CCONJ	_	_	110	cc	_	Translit=ew|LTranslit=ew
-108	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp	110	det:poss	_	Translit=ir|LTranslit=ink’
+108	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp	110	det:poss	_	Translit=ir|LTranslit=ir
 109	անանուն	անանուն	ADJ	_	_	110	amod	_	Translit=ananown|LTranslit=ananown
 110	աղջիկը	աղջիկ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	106	conj	_	Translit=aġǰikë|LTranslit=aġǰik|SpaceAfter=No
 111	:	:	PUNCT	_	Foreign=Yes	3	punct	_	Translit=.|LTranslit=.

@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sms_giellagas-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.476015).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.476809).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -49,7 +49,7 @@ Examples: <em>de, di, da, ja, a, mutta, No, leša, avi, tai</em>
 
 `CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="sms_giellagas-dep-cc.html">cc</a></tt> (174; 98% instances), <tt><a href="sms_giellagas-dep-mark.html">mark</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances)
 
-Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (148; 83% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (13; 7% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 1% instances)
+Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (148; 83% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (13; 7% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 1% instances)
 
 177 (99%) `CCONJ` nodes are leaves.
 

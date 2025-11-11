@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1269 nodes (3%) are attached to their parents as `root`.
+2026 nodes (3%) are attached to their parents as `root`.
 
-1269 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.13553979511426.
+2026 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.68953603158934.
 
-The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (1250; 99% instances), -<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), -<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), -<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="fr_alts-pos-VERB.html">VERB</a></tt> (1879; 93% instances), -<tt><a href="fr_alts-pos-ADJ.html">ADJ</a></tt> (76; 4% instances), -<tt><a href="fr_alts-pos-NOUN.html">NOUN</a></tt> (45; 2% instances), -<tt><a href="fr_alts-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="fr_alts-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="fr_alts-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -60,17 +60,19 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 5 root	color:blue
-1	Je	je	PRON	_	PronType=Prs	5	nsubj	_	gold_pos=PRON|prpos=Pp|uppos=PRO
-2	suys	être	AUX	_	VerbForm=Fin	5	cop	_	gold_pos=AUX|prpos=Vuc|uppos=EJ
-3	ung	un	DET	_	Definite=Ind	5	det	_	gold_pos=DET|prpos=Di|uppos=D
-4	paupvre	pauvre	ADJ	_	_	5	amod	_	gold_pos=ADJ|prpos=Ag|uppos=ADJ
-5	louagier	louagier	NOUN	_	_	0	root	_	gold_pos=NOUN|prpos=Nc|SpaceAfter=No|uppos=NCS
-6	,	,	PUNCT	_	_	5	punct	_	gold_pos=PUNCT|join=left|prpos=Fw|uppos=PON
+# visual-style 0 4 root	color:blue
+1	C'	ce	PRON	PRO	PronType=Dem	4	nsubj	_	prpos=Pd
+2	est	être	AUX	EJ	Number=Sing|Person=3|VerbForm=Fin	4	cop	_	join=left|prpos=Vuc
+3	le	le	DET	D	Definite=Def|PronType=Art	4	det	_	prpos=Da
+4	fondement	fondement	NOUN	NCS	Number=Sing	0	root	_	prpos=Nc
+5	de	de	ADP	P	_	7	case	_	prpos=S
+6	le	le	DET	P	Definite=Def|PronType=Art	7	det	_	prpos=Da
+7	iugement	jugement	NOUN	NCS	Number=Sing	4	nmod	_	prpos=Nc|SpaceAfter=No
+8	,	,	PUNCT	PON	_	4	punct	_	join=left|prpos=Fw
 
 ~~~
 

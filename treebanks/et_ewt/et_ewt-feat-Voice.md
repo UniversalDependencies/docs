@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (7955; 91% of non-empty `Voice`): <em>on, tuleb, saab, tea, läheb, pole, saa, saanud, tuli, olemas</em>
-* `Pass` (745; 9% of non-empty `Voice`): <em>tehtud, pandud, antud, tehakse, kirjutatud, lisatud, loodud, öeldud, hakatakse, mõeldud</em>
+* `Act` (7953; 91% of non-empty `Voice`): <em>on, tuleb, saab, tea, läheb, pole, saa, saanud, tuli, olemas</em>
+* `Pass` (747; 9% of non-empty `Voice`): <em>tehtud, pandud, antud, tehakse, kirjutatud, lisatud, loodud, öeldud, hakatakse, mõeldud</em>
 * `EMPTY` (2176): <em>teha, saada, minna, teada, öelda, panna, osta, näha, võtta, kirjutada</em>
 
 <table>
@@ -80,9 +80,9 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (531; 64% of non-empty `Voice`): <em>huvitav, erinevaid, ülejäänud, erinevate, erinevad, tulnud, erinevatel, erinevatest, huvitavad, leviv</em>
-* `Pass` (305; 36% of non-empty `Voice`): <em>antud, teatud, kasutatud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud, tuntud</em>
-* `EMPTY` (4421): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
+* `Act` (517; 62% of non-empty `Voice`): <em>huvitav, erinevaid, ülejäänud, erinevate, erinevad, tulnud, erinevatel, erinevatest, huvitavad, leviv</em>
+* `Pass` (319; 38% of non-empty `Voice`): <em>antud, teatud, kasutatud, tehtud, asetatud, karastatud, mainitud, peidetud, seotud, tuntud</em>
+* `EMPTY` (4422): <em>hea, suur, võimalik, õige, head, parem, vana, uus, esimene, lihtne</em>
 
 <table>
   <tr><th>Paradigm <i>huvitav</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>huvitavaks</em></td><td></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `ADJ`. 99% lemmas (459) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `ADJ`. 99% lemmas (456) occur only with one value of `Voice`.
 
 ### `NOUN`
 

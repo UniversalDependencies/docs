@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-44 nodes (0%) are attached to their parents as `discourse`.
+81 nodes (0%) are attached to their parents as `discourse`.
 
-23 instances of `discourse` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+45 instances of `discourse` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69135802469136.
 
-The following 14 pairs of parts of speech are connected with `discourse`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (7; 16% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (7; 16% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (6; 14% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (6; 14% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (5; 11% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (3; 7% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 16 pairs of parts of speech are connected with `discourse`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (19; 23% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (17; 21% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (11; 14% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (7; 9% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (6; 7% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (6; 7% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -31,38 +31,37 @@ The following 14 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 1 discourse	color:blue
-1	evet	evet	INTJ	_	_	11	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	Comma	_	1	punct	_	_
-3	biraz	biraz	ADV	_	_	5	amod	_	_
-4	da	da	PART	Emph	_	3	advmod:emph	_	_
-5	ʿaşḳtan	ʿaşḳ	NOUN	_	Case=Abl|Number=Sing|Person=3	11	obl	_	SpaceAfter=No
-6	,	,	PUNCT	Comma	_	5	punct	_	_
-7	daha	daha	ADV	_	Degree=Cmp	8	advmod	_	_
-8	doġrusu	doġru	ADJ	NAdj	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	amod	_	_
-9	yine	yine	ADV	_	_	10	advmod	_	_
-10	ʿaşḳtan	ʿaşḳ	NOUN	_	Case=Abl|Number=Sing|Person=3	5	appos	_	_
-11	baḥsedelim	baḥset	VERB	_	Mood=Opt|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 discourse	color:blue
+1	ʿablenüñ	ʿable	PROPN	Pers	Case=Gen|NameType=Prs|Number=Sing|Person=3	2	nmod:poss	_	_
+2	anasına	ana	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
+3	eyitdi	eyit	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+4	yâ	yâ	INTJ	_	_	5	discourse	_	_
+5	sittâh	sittâh	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	6	parataxis	_	_
+6	nedür	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3|PronType=Int	3	ccomp	_	nullcop=3s
+7	ḥâlüñ	ḥâl	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	obl	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 discourse	color:blue
-1	ḳapuaġası	ḳapuaġası	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
-2	ise	i	PART	Topic	_	1	discourse	_	_
-3	her	her	DET	Det	Definite=Def|PronType=Art	4	det	_	_
-4	ḫidmete	ḫidmet	NOUN	_	Case=Dat|Number=Sing|Person=3	5	obl	_	_
-5	fermân-berdâr	fermân-berdâr	ADJ	Adj	_	0	root	_	nullcop=3s
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 discourse	color:blue
+1	aġca	aġca	ADJ	Adj	_	2	amod	_	_
+2	ḳoyunlar	ḳoyun	NOUN	_	Case=Nom|Number=Plur|Person=3	3	nsubj	_	_
+3	olan	ol	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	4	acl	_	_
+4	yerde	yer	NOUN	_	Case=Loc|Number=Sing|Person=3	7	obl	_	_
+5	bir	bir	DET	Indef	Definite=Ind|PronType=Art	6	det	_	_
+6	ḳuzıcaġı	ḳuzucuḳ	NOUN	_	Case=Acc|Number=Sing|Person=3	7	nsubj	_	_
+7	olmaz	ol	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+8	mı	mi	AUX	Ques	Aspect=Imp|Number=Sing|Person=3|Tense=Pres	7	discourse	_	_
+9	olur	ol	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 
 ~~~
 

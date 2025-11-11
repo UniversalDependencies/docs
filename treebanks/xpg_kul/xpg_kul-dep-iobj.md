@@ -39,7 +39,7 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 iobj	color:blue
-1	ις	ios	PRON	_	Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM928661|2|1
+1	ις	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM928661|2|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM928661|2|2
 3	σεμου	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM928661|2|3
 4	κνο[υμανει]	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	Ref=TM928661|2|4

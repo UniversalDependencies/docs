@@ -69,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	самолётса	самолёт	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	3	obl	_	_
 3	лиендемась	лиендема	NOUN	N	Case=Nom|Definite=Def|Number=Sing	5	csubj	_	_
 4	прясон	пря	NOUN	N	Case=Ine|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=1	5	obl	_	_
-5	шарсь	шаромс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3	0	root	_	_
+5	шарсь	шаромс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	0	root	_	_
 6	мадомста	мадомс	VERB	V	Case=Ela|VerbForm=Conv	5	advcl	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
 

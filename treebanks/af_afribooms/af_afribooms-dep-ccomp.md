@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-908 nodes (2%) are attached to their parents as `ccomp`.
+913 nodes (2%) are attached to their parents as `ccomp`.
 
-877 instances of `ccomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.14537444933921.
+878 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.16429353778751.
 
-The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (651; 72% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (180; 20% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (43; 5% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (651; 71% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (184; 20% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (44; 5% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,31 +63,25 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 ccomp	color:blue
-1	Indien	indien	SCONJ	KO	_	19	amod	_	_
-2	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
-3	of	of	CCONJ	KN	_	2	cc	_	_
-4	iemand	iemand	PRON	PO	PronType=Ind	2	conj	_	_
-5	wat	wat	PRON	PB	PronType=Rel	7	obj	_	_
-6	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
-7	ken	ken	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	4	ccomp	_	_
-8	hierdie	hierdie	DET	PA	PronType=Dem	10	det	_	_
-9	soort	soort	NOUN	NSE	Number=Sing	10	nmod	_	_
-10	mishandeling	mishandeling	NOUN	NA	Number=Sing	11	obj	_	_
-11	beleef	beleef	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	19	dep	_	SpaceAfter=No
-12	,	,	PUNCT	ZM	_	11	punct	_	_
-13	kan	kan	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	19	aux	_	_
-14	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	_
-15	om	om	ADP	SVS	AdpType=Prep	17	case	_	_
-16	'n	'n	DET	LO	Definite=Ind|PronType=Art	17	det	_	_
-17	beskermingsbevel	beskermingsbevel	NOUN	NSE	Number=Sing	19	obl	_	_
-18	aansoek	aansoek	NOUN	NSE	Number=Sing	19	obj	_	_
-19	doen	doen	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	SpaceAfter=No
-20	.	.	PUNCT	ZE	_	19	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 ccomp	color:blue
+1	Dit	dit	PRON	PDOENP	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+3	veral	veral	ADV	BS	Degree=Pos	4	advmod	_	_
+4	belangrik	belangrik	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	_
+5	in	in	ADP	SVS	AdpType=Prep	7	case	_	_
+6	die	die	DET	LB	Definite=Def|PronType=Art	7	det	_	_
+7	Grondslagfase	grondslagfase	NOUN	NSE	Number=Sing	4	obl	_	_
+8	wanneer	wanneer	PRON	PB	PronType=Rel	7	amod	_	_
+9	kinders	kind	NOUN	NSM	Number=Plur	8	obj	_	_
+10	leer	leer	VERB	VTUOA	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	8	ccomp	_	_
+11	lees	lees	NOUN	NA	Number=Sing	10	obj	_	_
+12	en	en	CCONJ	KN	_	11	cc	_	_
+13	skryf	skryf	VERB	VTHOO	Subcat=Intr|Tense=Pres|VerbForm=Fin,Inf	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	ZE	_	8	punct	_	_
 
 ~~~
 

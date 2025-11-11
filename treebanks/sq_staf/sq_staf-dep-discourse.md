@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 4 5 discourse	color:blue
 1	Ç'	Ç'	PRON	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
 2	të	të	PART	_	_	4	mark	_	end_char=2460|start_char=2456
-3	ketë	kam	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	aux	_	end_char=2465|start_char=2461
+3	ketë	kam	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	end_char=2465|start_char=2461
 4	pasur	kam	VERB	_	VerbForm=Part	0	root	_	end_char=2471|start_char=2466
 5	vallë	vallë	ADV	_	AdvType=Deg	4	discourse	_	end_char=2477|start_char=2472
 6	midis	midis	ADP	_	_	7	case	_	end_char=2483|start_char=2478
@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	Ja	Ja	INTJ	_	_	4	discourse	_	end_char=2216|SpaceAfter=No|start_char=2214
 2	,	,	PUNCT	_	_	1	punct	_	end_char=2217|start_char=2216
 3	përsëri	përsëri	ADV	_	AdvType=Tim	4	advmod	_	end_char=2225|start_char=2218
-4	rashë	ras	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	0	root	_	end_char=2231|start_char=2226
+4	rashë	ras	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	end_char=2231|start_char=2226
 5	brenda	brenda	ADV	_	AdvType=Loc	4	advmod	_	end_char=2238|start_char=2232
 6	me	me	ADP	_	_	7	case	_	end_char=2241|start_char=2239
 7	këmbët	këmbë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	4	obl	_	end_char=2248|start_char=2242
@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 9	mia	ime	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det:poss	_	end_char=2254|SpaceAfter=No|start_char=2251
 10	,	,	PUNCT	_	_	4	punct	_	end_char=2255|start_char=2254
 11	siç	siç	SCONJ	_	_	12	mark	_	end_char=2259|start_char=2256
-12	bie	bie	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	advcl	_	end_char=2263|start_char=2260
+12	bie	bie	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	end_char=2263|start_char=2260
 13	miza	mizë	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	nsubj	_	end_char=2268|start_char=2264
 14	në	në	ADP	_	_	15	case	_	end_char=2271|start_char=2269
 15	rrjetën	rrjetë	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	12	obl	_	end_char=2279|start_char=2272

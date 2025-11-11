@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 obl:tmod	color:blue
-1	I	il	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
+1	I	il	DET	DT	Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 2	primi	primo	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 3	testi	testo	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	greci	greco	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	Proper=True
@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 22	fgColor:white
 # visual-style 22 23 obl:tmod	color:blue
 1	Probabilmente	probabilmente	ADV	RB	_	13	advmod	_	_
-2	la	il	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+2	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	13	nsubj	_	_
 4	più	più	ADV	RBS	_	5	advmod	_	_
 5	celebre	celebre	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 12	è	essere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	13	cop	_	_
 13	Ötzi	Ötzi	PROPN	NNP	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	_
-15	la	il	DET	DT	Gender=Fem|Number=Sing	16	det	_	_
+15	la	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	mummia	mummia	NOUN	NN	Gender=Fem|Number=Sing	13	appos	_	_
 17	congelata	congelare	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
 18	che	che	PRON	WP	Gender=Fem|Number=Sing	19	nsubj	_	_
@@ -85,7 +85,7 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 6	di	di	ADP	IN	_	8	case	_	_
 7	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	8	det:poss	_	_
 8	padre	padre	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
-9	il	il	DET	DT	Gender=Masc|Number=Sing	10	det	_	_
+9	il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	giorno	giorno	NOUN	NN	Gender=Masc|Number=Sing	5	obl:tmod	_	_
 11	di	di	ADP	IN	_	13	case	_	_
 12	la	il	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-12347 tokens (12%) have a non-empty value of `Mood`.
+12346 tokens (12%) have a non-empty value of `Mood`.
 2065 types (13%) occur at least once with a non-empty value of `Mood`.
 1294 lemmas (12%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (7990; 8% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4356; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (7990; 8% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4355; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
 7990 <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7562; 95%), <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6928; 87%), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5167; 65%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7563; 95%), <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6928; 87%), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5167; 65%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (157; 2% of non-empty `Mood`): <em>låt, se, tänk, lägg, Exportera, klicka, kom, Ändra, Filtrera, Flytta</em>
 * `Ind` (7827; 98% of non-empty `Mood`): <em>sa, hade, såg, gick, kom, har, tog, sade, gjorde, fanns</em>
 * `Sub` (6; 0% of non-empty `Mood`): <em>förbanne, LEVE, ginge, vare, vete</em>
-* `EMPTY` (4424): <em>ta, göra, se, gå, komma, få, bli, ha, använda, säga</em>
+* `EMPTY` (4425): <em>ta, göra, se, gå, komma, få, bli, ha, använda, säga</em>
 
 <table>
   <tr><th>Paradigm <i>gå</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -40,14 +40,14 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-4356 <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Mood`.
+4355 <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4353; 100%), <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4350; 100%), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2415; 55%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4352; 100%), <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4349; 100%), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2415; 55%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (8; 0% of non-empty `Mood`): <em>var</em>
-* `Ind` (4322; 99% of non-empty `Mood`): <em>var, är, hade, skulle, kan, har, kunde, måste, vill, kommer</em>
+* `Ind` (4321; 99% of non-empty `Mood`): <em>var, är, hade, skulle, kan, har, kunde, måste, vill, kommer</em>
 * `Sub` (26; 1% of non-empty `Mood`): <em>vore, måtte, finge</em>
 * `EMPTY` (532): <em>vara, varit, ha, kunna, få, kunnat, fått, vilja, bli, blivit</em>
 
@@ -75,13 +75,13 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1275; 84%),
-<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (167; 60%),
+<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (165; 60%),
 <tt>VERB --[<tt><a href="sv_lines-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (95; 71%),
 <tt>VERB --[<tt><a href="sv_lines-dep-cop.html">cop</a></tt>]--> AUX</tt> (36; 55%),
+<tt>VERB --[<tt><a href="sv_lines-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (14; 64%),
+<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (9; 56%),
 <tt>AUX --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 73%),
-<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (8; 53%),
 <tt>AUX --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<tt><a href="sv_lines-dep-acl.html">acl</a></tt>]--> VERB</tt> (4; 57%),
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 57%),
-<tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 57%).
 

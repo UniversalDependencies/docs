@@ -68,7 +68,7 @@ The following 16 pairs of parts of speech are connected with `reparandum`: <tt><
 8	сестри	сестра	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	conj	_	wf="сестри"|addr="Ст._Р._40:5"|_
 9	моѥӏ	мои	DET	_	Case=Dat|Gender=Fem|Number=Sing	8	det	_	wf="моѥӏ"|addr="Ст._Р._40:6"|line_id=6|_
 10	много	много	ADV	_	_	12	advmod	_	wf="много"|addr="Ст._Р._40:6"|_
-11	целомъ	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	12	iobj	_	wf="целомъ"|addr="Ст._Р._40:6"|_
+11	целомъ	чело	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	12	obj	_	wf="целомъ"|addr="Ст._Р._40:6"|_
 12	бию	бити	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="бию"|comment="tense_nonpast"|addr="Ст._Р._40:6"|_
 
 ~~~

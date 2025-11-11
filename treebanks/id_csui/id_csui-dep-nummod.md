@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	dana	dana	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
 3	tersebut	sebut	DET	DT	PronType=Dem	2	det	_	_
 4	baru	baru	ADV	RB	_	5	advmod	_	_
-5	terpakai	pakai	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+5	terpakai	pakai	VERB	VB	Voice=Pass	0	root	_	_
 6	168	168	NUM	CD	NumType=Card	8	nummod	_	_
 7	juta	juta	NUM	CD	NumType=Card	6	flat	_	_
 8	dolar	dolar	NOUN	NN	Number=Sing	5	obl	_	_
@@ -52,7 +52,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	persen	persen	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	SpaceAfter=No
 10	"	"	PUNCT	''	_	8	punct	_	_
-11	kata	kata	VERB	VB	Mood=Ind|Voice=Act	8	parataxis	_	_
+11	kata	kata	VERB	VB	Voice=Act	8	parataxis	_	_
 12	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 13	.	.	PUNCT	.	_	8	punct	_	_
 

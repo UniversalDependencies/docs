@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (19; 95% of non-empty `Degree`): <em>салыштырмалуу, эстүү, арзаныраак, жакшылап, кымбаттаган, көбүрөөк, көтөрүү, кирешелүү, кырсыктуу, көбөйүп</em>
 * `Sup` (1; 5% of non-empty `Degree`): <em>Эң</em>
-* `EMPTY` (757): <em>жаңы, улуттук, аралык, жарым, айрым, катар, туруктуу, кичи, чоң, көп</em>
+* `EMPTY` (763): <em>жаңы, улуттук, аралык, жарым, айрым, катар, туруктуу, кичи, чоң, көп</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `Degree`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (3; 33% of non-empty `Degree`): <em>азыраак, бетер, муздагандан</em>
 * `Sup` (6; 67% of non-empty `Degree`): <em>эң</em>
-* `EMPTY` (832): <em>боюнча, үчүн, карата, бери, ашык, тууралуу, чейин, дээрлик, дагы, тарта</em>
+* `EMPTY` (866): <em>боюнча, үчүн, карата, бери, ашык, тууралуу, чейин, дээрлик, дагы, тарта</em>
 
 ### `VERB`
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (2; 100% of non-empty `Degree`): <em>кеңейип, көбөйгөн</em>
-* `EMPTY` (4392): <em>өттү, берилди, ачылды, түздү, талкууланды, алып, бар, алды, берди, өтүүдө</em>
+* `EMPTY` (4471): <em>өттү, берилди, ачылды, түздү, талкууланды, алып, бар, алды, өтүүдө, берди</em>
 

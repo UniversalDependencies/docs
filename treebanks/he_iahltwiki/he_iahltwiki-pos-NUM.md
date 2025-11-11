@@ -62,11 +62,11 @@ The 2nd highest number of forms (5) was observed with the lemma “שתיים”
 
 The 3rd highest number of forms (4) was observed with the lemma “עשר”: עשר, עשרה, עשרות, עשרת.
 
-`NUM` occurs with 6 features: <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (858; 27% instances), <tt><a href="he_iahltwiki-feat-NumType.html">NumType</a></tt> (756; 24% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (451; 14% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (246; 8% instances), <tt><a href="he_iahltwiki-feat-Prefix.html">Prefix</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`NUM` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt> (858; 27% instances), <tt><a href="he_iahltwiki-feat-NumType.html">NumType</a></tt> (756; 24% instances), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt> (451; 14% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (246; 8% instances), <tt><a href="he_iahltwiki-feat-Prefix.html">Prefix</a></tt> (3; 0% instances)
 
-`NUM` occurs with 10 feature-value pairs: `Definite=Cons`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `NumType=Card`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Prefix=Yes`, `Typo=Yes`
+`NUM` occurs with 9 feature-value pairs: `Definite=Cons`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `NumType=Card`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Prefix=Yes`
 
-`NUM` occurs with 33 feature combinations.
+`NUM` occurs with 32 feature combinations.
 The most frequent feature combination is `_` (2241 tokens).
 Examples: 2, 1, 2017, 15, 20, 3, 7, 5, 1948, 4
 

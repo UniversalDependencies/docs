@@ -139,6 +139,6 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (72; 66%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (5; 71%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (2; 67%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-advcl-pred.html">advcl:pred</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt>]--> ADJ</tt> (1; 100%).
 

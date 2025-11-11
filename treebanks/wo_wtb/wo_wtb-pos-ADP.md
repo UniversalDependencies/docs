@@ -72,13 +72,13 @@ The 2nd highest number of forms (3) was observed with the lemma “bi”: <em>ba
 
 The 3rd highest number of forms (2) was observed with the lemma “ak”: <em>ag, ak</em>.
 
-`ADP` occurs with 6 features: <tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt> (47; 2% instances), <tt><a href="wo_wtb-feat-Number.html">Number</a></tt> (44; 1% instances), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt> (43; 1% instances), <tt><a href="wo_wtb-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="wo_wtb-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`ADP` occurs with 7 features: <tt><a href="wo_wtb-feat-ExtPos.html">ExtPos</a></tt> (102; 3% instances), <tt><a href="wo_wtb-feat-NounClass.html">NounClass</a></tt> (47; 2% instances), <tt><a href="wo_wtb-feat-Number.html">Number</a></tt> (44; 1% instances), <tt><a href="wo_wtb-feat-Person.html">Person</a></tt> (43; 1% instances), <tt><a href="wo_wtb-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="wo_wtb-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`ADP` occurs with 15 feature-value pairs: `Definite=Ind`, `Gender=Masc`, `NounClass=Wol10`, `NounClass=Wol12`, `NounClass=Wol3`, `NounClass=Wol4`, `NounClass=Wol5`, `NounClass=Wol6`, `NounClass=Wol7`, `NounClass=Wol8`, `NounClass=Wol9`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`
+`ADP` occurs with 18 feature-value pairs: `Definite=Ind`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Gender=Masc`, `NounClass=Wol10`, `NounClass=Wol12`, `NounClass=Wol3`, `NounClass=Wol4`, `NounClass=Wol5`, `NounClass=Wol6`, `NounClass=Wol7`, `NounClass=Wol8`, `NounClass=Wol9`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`
 
-`ADP` occurs with 11 feature combinations.
-The most frequent feature combination is `_` (3032 tokens).
-Examples: <em>ci, ca, ba, ak, ngir, ni, bu, gu, lu, dul</em>
+`ADP` occurs with 14 feature combinations.
+The most frequent feature combination is `_` (2930 tokens).
+Examples: <em>ci, ca, ba, ak, ngir, ni, bu, gu, dul, niki</em>
 
 
 ## Relations

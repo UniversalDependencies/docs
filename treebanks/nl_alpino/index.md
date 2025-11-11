@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Zdeněk Žabokrtský, Gosse Bouma, Gertjan van Noord.
 
 Repository: [UD_Dutch-Alpino](https://github.com/UniversalDependencies/UD_Dutch-Alpino)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnl_alpino217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,11 +73,11 @@ The (Go and XQuery) conversion script is available for download at https://githu
 
 ## Features
 
-[Abbr](nl_alpino-feat-Abbr.html) – [Case](nl_alpino-feat-Case.html) – [Definite](nl_alpino-feat-Definite.html) – [Degree](nl_alpino-feat-Degree.html) – [Foreign](nl_alpino-feat-Foreign.html) – [Gender](nl_alpino-feat-Gender.html) – [Number](nl_alpino-feat-Number.html) – [Person](nl_alpino-feat-Person.html) – [Poss](nl_alpino-feat-Poss.html) – [PronType](nl_alpino-feat-PronType.html) – [Reflex](nl_alpino-feat-Reflex.html) – [Tense](nl_alpino-feat-Tense.html) – [VerbForm](nl_alpino-feat-VerbForm.html)
+[Abbr](nl_alpino-feat-Abbr.html) – [Case](nl_alpino-feat-Case.html) – [Definite](nl_alpino-feat-Definite.html) – [Degree](nl_alpino-feat-Degree.html) – [ExtPos](nl_alpino-feat-ExtPos.html) – [Foreign](nl_alpino-feat-Foreign.html) – [Gender](nl_alpino-feat-Gender.html) – [Mood](nl_alpino-feat-Mood.html) – [Number](nl_alpino-feat-Number.html) – [Person](nl_alpino-feat-Person.html) – [Poss](nl_alpino-feat-Poss.html) – [PronType](nl_alpino-feat-PronType.html) – [Reflex](nl_alpino-feat-Reflex.html) – [Tense](nl_alpino-feat-Tense.html) – [VerbForm](nl_alpino-feat-VerbForm.html)
 
 ## Relations
 
-[acl](nl_alpino-dep-acl.html) – [acl:relcl](nl_alpino-dep-acl-relcl.html) – [advcl](nl_alpino-dep-advcl.html) – [advmod](nl_alpino-dep-advmod.html) – [amod](nl_alpino-dep-amod.html) – [appos](nl_alpino-dep-appos.html) – [aux](nl_alpino-dep-aux.html) – [aux:pass](nl_alpino-dep-aux-pass.html) – [case](nl_alpino-dep-case.html) – [cc](nl_alpino-dep-cc.html) – [cc:preconj](nl_alpino-dep-cc-preconj.html) – [ccomp](nl_alpino-dep-ccomp.html) – [compound:prt](nl_alpino-dep-compound-prt.html) – [conj](nl_alpino-dep-conj.html) – [cop](nl_alpino-dep-cop.html) – [csubj](nl_alpino-dep-csubj.html) – [csubj:outer](nl_alpino-dep-csubj-outer.html) – [det](nl_alpino-dep-det.html) – [expl](nl_alpino-dep-expl.html) – [expl:pv](nl_alpino-dep-expl-pv.html) – [fixed](nl_alpino-dep-fixed.html) – [flat](nl_alpino-dep-flat.html) – [iobj](nl_alpino-dep-iobj.html) – [mark](nl_alpino-dep-mark.html) – [nmod](nl_alpino-dep-nmod.html) – [nmod:poss](nl_alpino-dep-nmod-poss.html) – [nsubj](nl_alpino-dep-nsubj.html) – [nsubj:outer](nl_alpino-dep-nsubj-outer.html) – [nsubj:pass](nl_alpino-dep-nsubj-pass.html) – [nummod](nl_alpino-dep-nummod.html) – [obj](nl_alpino-dep-obj.html) – [obl](nl_alpino-dep-obl.html) – [obl:agent](nl_alpino-dep-obl-agent.html) – [obl:arg](nl_alpino-dep-obl-arg.html) – [orphan](nl_alpino-dep-orphan.html) – [parataxis](nl_alpino-dep-parataxis.html) – [punct](nl_alpino-dep-punct.html) – [root](nl_alpino-dep-root.html) – [xcomp](nl_alpino-dep-xcomp.html)
+[acl](nl_alpino-dep-acl.html) – [acl:relcl](nl_alpino-dep-acl-relcl.html) – [advcl](nl_alpino-dep-advcl.html) – [advmod](nl_alpino-dep-advmod.html) – [amod](nl_alpino-dep-amod.html) – [appos](nl_alpino-dep-appos.html) – [aux](nl_alpino-dep-aux.html) – [aux:pass](nl_alpino-dep-aux-pass.html) – [case](nl_alpino-dep-case.html) – [cc](nl_alpino-dep-cc.html) – [cc:preconj](nl_alpino-dep-cc-preconj.html) – [ccomp](nl_alpino-dep-ccomp.html) – [compound:prt](nl_alpino-dep-compound-prt.html) – [conj](nl_alpino-dep-conj.html) – [cop](nl_alpino-dep-cop.html) – [csubj](nl_alpino-dep-csubj.html) – [csubj:outer](nl_alpino-dep-csubj-outer.html) – [csubj:pass](nl_alpino-dep-csubj-pass.html) – [det](nl_alpino-dep-det.html) – [expl](nl_alpino-dep-expl.html) – [expl:pv](nl_alpino-dep-expl-pv.html) – [fixed](nl_alpino-dep-fixed.html) – [flat](nl_alpino-dep-flat.html) – [iobj](nl_alpino-dep-iobj.html) – [mark](nl_alpino-dep-mark.html) – [nmod](nl_alpino-dep-nmod.html) – [nmod:poss](nl_alpino-dep-nmod-poss.html) – [nsubj](nl_alpino-dep-nsubj.html) – [nsubj:outer](nl_alpino-dep-nsubj-outer.html) – [nsubj:pass](nl_alpino-dep-nsubj-pass.html) – [nummod](nl_alpino-dep-nummod.html) – [obj](nl_alpino-dep-obj.html) – [obl](nl_alpino-dep-obl.html) – [obl:agent](nl_alpino-dep-obl-agent.html) – [obl:arg](nl_alpino-dep-obl-arg.html) – [orphan](nl_alpino-dep-orphan.html) – [parataxis](nl_alpino-dep-parataxis.html) – [punct](nl_alpino-dep-punct.html) – [root](nl_alpino-dep-root.html) – [xcomp](nl_alpino-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -120,7 +120,7 @@ The (Go and XQuery) conversion script is available for download at https://githu
 </ul>
 
 <ul>
-<li>This corpus contains 82 lemmas tagged as determiners (DET): 1/2, 1/3, 1/4, 1/8, 1000, 2.392, 2/3, 20.000, 22,1, 2500, 33, 37,7, 47, 5.001, 5000, 9.000, al, allerlei, anderhalf, andermans, beide, bijna, circa, dat, datzelfde, de, deze, dezelfde, die, diezelfde, dit, dll, een, eenzelfde, elk, elkaar, enig, enkel, ettelijk, flo, geen, genoeg, helemaal, het, hetzelfde, hoe, ieder, maar, meerdere, menig, min, net, niemand, niet, nog, nogal, onvoldoende, reeds, slechts, sommig, steeds, te, teveel, the, veel, voldoende, vrijwel, wat, weinig, wel, welhaast, welk, weten, wie, x, zeer, zes-, zestig-, zijn/haar, zo, zo'n, zulk</li>
+<li>This corpus contains 59 lemmas tagged as determiners (DET): 1/2, 1/3, 1/4, 1/8, 2.392, 2/3, 20.000, 33, 37,7, 5.001, 5000, 9.000, al, allerlei, anderhalf, andermans, beide, circa, dat, datzelfde, de, deze, dezelfde, die, diezelfde, dit, dll, een, eenzelfde, elk, elkaar, enig, enkel, ettelijk, flo, geen, het, hetzelfde, ieder, meerdere, menig, niemand, niet, onvoldoende, sommig, teveel, the, veel, voldoende, wat, weinig, welk, wie, x, zes-, zestig-, zijn/haar, zo'n, zulk</li>
 </ul>
 
 <ul>
@@ -294,7 +294,7 @@ The (Go and XQuery) conversion script is available for download at https://githu
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: verder, beter, later, eerder, jongeren, vroeger, langer, groter, grotere, hoger</li>
+      <li>ADJ: verder, beter, later, eerder, jongeren, meer, vroeger, langer, groter, grotere</li>
     </ul>
   </li>
 </ul>
@@ -302,7 +302,7 @@ The (Go and XQuery) conversion script is available for download at https://githu
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: nieuwe, grote, andere, goed, Nederlandse, heel, groot, Amerikaanse, eigen, goede</li>
+      <li>ADJ: nieuwe, grote, andere, goed, Nederlandse, heel, groot, eigen, goede, Amerikaanse</li>
     </ul>
   </li>
 </ul>
@@ -321,6 +321,27 @@ The (Go and XQuery) conversion script is available for download at https://githu
 
 
 
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: Wees</li>
+      <li>VERB-Fin: Noem, Geef, kom, zie, Kijk, Doe, Laat, Neem, Wacht, bewaar</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: is, was, heeft, zijn, werd, wordt, zal, zou, kan, hebben</li>
+      <li>VERB-Fin: heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, hebben</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Tense</a></li>
@@ -354,9 +375,26 @@ The (Go and XQuery) conversion script is available for download at https://githu
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: de, het, een, der, 's, 't, 'n, des, den, en</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
-      <li>PRON: dat, dit, er, die, deze, zo'n, degenen, datgene, degene, d'r</li>
+      <li>DET: deze, dit, die, dat, diens, dezer, dien</li>
+      <li>PRON: dat, dit, die, er, deze, zo'n, degenen, datgene, degene, d'r</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Exc
+    <ul>
+      <li>PRON: wat</li>
     </ul>
   </li>
 </ul>
@@ -364,6 +402,7 @@ The (Go and XQuery) conversion script is available for download at https://githu
 <ul>
   <li>Ind
     <ul>
+      <li>DET: enkele, veel, enige, zo'n, meer, weinig, sommige, enig, minder, enkel</li>
       <li>PRON: meer, iets, niets, veel, alles, wat, enige, minder, iedereen, weinig</li>
     </ul>
   </li>
@@ -372,7 +411,16 @@ The (Go and XQuery) conversion script is available for download at https://githu
 <ul>
   <li>Int
     <ul>
+      <li>DET: welke, welk, Welek</li>
       <li>PRON: wat, wie, welke, welk</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: geen</li>
     </ul>
   </li>
 </ul>
@@ -396,7 +444,16 @@ The (Go and XQuery) conversion script is available for download at https://githu
 <ul>
   <li>Rel
     <ul>
+      <li>DET: wiens, wier, welk</li>
       <li>PRON: die, dat, hetgeen, hetgene</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: alle, beide, elke, ieder, elk, iedere, al, ieders, beider</li>
     </ul>
   </li>
 </ul>
@@ -473,11 +530,105 @@ The (Go and XQuery) conversion script is available for download at https://githu
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: in, op, aan, van, te, achter, ter, voor</li>
+          <li>ADV: te</li>
+          <li>X: total</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADJ: dicht, korte, makkelijk, nieuw, terwille</li>
+          <li>ADP: in, op, ten, van, met, ter, aan, tot, onder, naar</li>
+          <li>ADV: omwille, tengevolge, temidden</li>
+          <li>DET: de, het, een</li>
+          <li>NOUN: dank, IJs, paal, preludia, relief</li>
+          <li>NUM: comite-31</li>
+          <li>SCONJ: als</li>
+          <li>X: in, a, ad, uit</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: rustig, geleidelijk</li>
+          <li>ADP: voor, ten, onder, op, met, in, tot, bij, ter, af</li>
+          <li>ADV: dan, nu, min, niet, al, maar, zo, her, ook, verre</li>
+          <li>DET: het, 's, een, des, 't</li>
+          <li>INTJ: ja, o</li>
+          <li>NOUN: hals, heden, keer, koste, stap, woord</li>
+          <li>PRON: meer, minder, zijns, ons, wat</li>
+          <li>PROPN: God</li>
+          <li>SCONJ: als</li>
+          <li>VERB-Fin: Zegge</li>
+          <li>X: nota, En, ad, con, im, linea, per</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: tot, Ten</li>
+          <li>ADV: dan</li>
+          <li>CCONJ: en, maar</li>
+          <li>SCONJ: als</li>
+          <li>VERB-Fin: laat</li>
+          <li>X: t</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>ADV: hoe</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>ADJ: half, Vierde</li>
+          <li>ADP: van</li>
+          <li>DET: flo, dll, een, de</li>
+          <li>NOUN: kwart, Watvoor</li>
+          <li>NUM: 1, 2, 3, 15, 12, 30, 8, een, 6, 10</li>
+          <li>PRON: wat, zich</li>
+          <li>SYM: flo, -, 10.000,-, 130.000,-, 5,-, 1/2, 10,-, 100.000,-, 1500,-, 20.000,-</li>
+        </ul>
+      </li>
+      <li>PROPN
+        <ul>
+          <li>ADJ: Integraal, Internationale, Binnenlandse, Eerste, Buitenlandse, Economische, Nederlandse, Nieuwe, Sociale, Algemene</li>
+          <li>ADP: van, Achterlangs, Door, Op</li>
+          <li>ADV: Hier, Vandaag</li>
+          <li>DET: De, Het</li>
+          <li>INTJ: Ja, hallo</li>
+          <li>NOUN: Basistakenpakket, Wet, Dm, Oom, verkeer, AVRO's, Akademie, Aktie, Bericht, Bestemming</li>
+          <li>NUM: Drie, Duizend, Vijf</li>
+          <li>PROPN: Olympia's, Ulster, Adam, Balkum, Fiat, GOD, Josef, Máxima, Porsche, Sydney</li>
+          <li>VERB-Inf: Denken</li>
+          <li>VERB-Part: Verwoeste</li>
+          <li>X: the, Grand, Le, A, All, Caland-, Die, Financial, Guinness, I</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: aan, voor, in, te</li>
+          <li>ADV: Zo</li>
+          <li>CCONJ: maar, en</li>
+          <li>NOUN: Inplaats</li>
+          <li>PRON: dat</li>
+          <li>SCONJ: of</li>
+          <li>VERB-Fin: zij, laat</li>
+          <li>X: in</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>X: the, fancy, ad, a, in, of, Grand, fiction, to, world</li>
+          <li>X: fancy, the, ad, of, a, in, fiction, to, world, de</li>
         </ul>
       </li>
     </ul>
@@ -503,14 +654,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3748)</li>
-      <li>VERB-Fin--NOUN-ADP(op) (1)</li>
-      <li>VERB-Fin--PRON (1785)</li>
-      <li>VERB-Fin--PRON-Nom (2618)</li>
+      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB-Fin--NOUN (3746)</li>
+      <li>VERB-Fin--NOUN-ADP(van) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
+      <li>VERB-Fin--PRON (1783)</li>
+      <li>VERB-Fin--PRON-Nom (2617)</li>
       <li>VERB-Inf--NOUN (594)</li>
       <li>VERB-Inf--PRON (314)</li>
       <li>VERB-Inf--PRON-Nom (554)</li>
-      <li>VERB-Part--NOUN (807)</li>
+      <li>VERB-Part--NOUN (805)</li>
       <li>VERB-Part--PRON (284)</li>
       <li>VERB-Part--PRON-Nom (514)</li>
     </ul>
@@ -520,13 +673,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2776)</li>
+      <li>VERB-Fin--NOUN (2777)</li>
+      <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
       <li>VERB-Fin--PRON (528)</li>
-      <li>VERB-Fin--PRON-Acc (211)</li>
-      <li>VERB-Inf--NOUN (1429)</li>
+      <li>VERB-Fin--PRON-Acc (210)</li>
+      <li>VERB-Inf--NOUN (1428)</li>
+      <li>VERB-Inf--NOUN-ADP(rond) (1)</li>
       <li>VERB-Inf--NOUN-ADP(voor) (1)</li>
       <li>VERB-Inf--PRON (265)</li>
-      <li>VERB-Inf--PRON-Acc (103)</li>
+      <li>VERB-Inf--PRON-Acc (102)</li>
       <li>VERB-Part--NOUN (721)</li>
       <li>VERB-Part--PRON (183)</li>
       <li>VERB-Part--PRON-Acc (48)</li>
@@ -556,14 +711,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 169 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, voor_doen zich, bewust zich, voelen zich, af_vragen zich, laten zich, maken zich, tonen zich, melden zich, ontwikkelen zich, plaatsen zich, af_spelen zich, bewegen zich, mee_brengen zich, richten zich, uit_spreken zich, aan_melden zich, begeven zich, beraden zich, concentreren zich, houden zich, op_stellen zich, vergissen zich, af_scheiden zich, af_vragen me, gedragen zich, herstellen zich, stellen zich, voelen me, voelen ons, voltrekken zich, wagen zich, wreken zich, af_vragen ons, begeven ons, beperken zich, buigen zich, mengen zich, permitteren zich, schamen je, schamen zich, terug_vechten zich, toe_leggen zich, verzetten zich, aan_sluiten zich, aan_trekken zich, af_wenden zich, beklagen me, bemoeien zich, bloot_geven zich</li>
+  <li>This corpus contains 171 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, voor_doen zich, bewust zich, voelen zich, af_vragen zich, laten zich, maken zich, tonen zich, melden zich, ontwikkelen zich, plaatsen zich, af_spelen zich, bewegen zich, mee_brengen zich, richten zich, uit_spreken zich, aan_melden zich, begeven zich, beraden zich, concentreren zich, houden zich, op_stellen zich, vergissen zich, af_scheiden zich, af_vragen me, gedragen zich, herstellen zich, stellen zich, voelen me, voelen ons, voltrekken zich, wagen zich, wreken zich, af_vragen ons, begeven ons, beperken zich, buigen zich, mengen zich, permitteren zich, schamen je, schamen zich, terug_vechten zich, toe_leggen zich, verzetten zich, aan_sluiten zich, aan_trekken zich, af_wenden zich, beklagen me, bemoeien zich, bloot_geven zich</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 85 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bezig_houden zich, stellen zich, houden zich, aan_sluiten zich, handhaven zich, laten zich, maken zich, uit_breiden zich, voor_bereiden zich, aan_schaffen zich, achten zich, interesseren zich, noemen zich, om_vormen zich, prikken zichzelf, redden zich, uit_strekken zich, versterken zich, verwonden zichzelf, wassen zich, wringen zich, zien zich, aan_bieden zich, aan_kondigen zich, aan_stellen zichzelf, aaneen_sluiten zich, afficheren zich, bekeren zich, belasten zich, beschermen zich, binden zich, blesseren zich, chanteren zich, dekken zich, doen zichzelf, dringen zich, dupliceren zich, emanciperen zich, forceren zich, fêteren zich, geven zich, herhalen zichzelf, in_kapselen zich, installeren zich, intimideren zich, kennen zich, los_maken zich, misbruiken zich, nemen zich, noemen zichzelf</li>
+  <li>This corpus contains 84 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bezig_houden zich, stellen zich, houden zich, aan_sluiten zich, handhaven zich, laten zich, maken zich, uit_breiden zich, voor_bereiden zich, aan_schaffen zich, achten zich, interesseren zich, noemen zich, om_vormen zich, prikken zichzelf, redden zich, uit_strekken zich, versterken zich, verwonden zichzelf, wassen zich, wringen zich, zien zich, aan_bieden zich, aan_kondigen zich, aan_stellen zichzelf, aaneen_sluiten zich, afficheren zich, bekeren zich, belasten zich, beschermen zich, binden zich, blesseren zich, chanteren zich, dekken zich, doen zichzelf, dringen zich, dupliceren zich, emanciperen zich, forceren zich, fêteren zich, geven zich, herhalen zichzelf, in_kapselen zich, installeren zich, intimideren zich, kennen zich, los_maken zich, misbruiken zich, nemen zich, noemen zichzelf</li>
     <ul>
       <li>Out of those, 4 lemmas occurred more than once, but never without a reflexive dependent. Examples: aan_schaffen, om_vormen, uit_strekken, wringen</li>
     </ul>
@@ -572,7 +727,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

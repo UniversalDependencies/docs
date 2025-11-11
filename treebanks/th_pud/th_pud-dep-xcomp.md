@@ -22,16 +22,16 @@ The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 xcomp	color:blue
-1	ข้อ	ข้อ	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=kʰ²'|LTranslit=kʰ²'
-2	กำหนด	กำหนด	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=kãhnd|LTranslit=kãhnd
-3	เรื่อง	เรื่อง	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=rűá¹ŋ|LTranslit=rűá¹ŋ
-4	การแต่ง	การแต่ง	VERB	VV	_	3	compound	_	SpaceAfter=No|Translit=kártǽ¹ŋ|LTranslit=kártǽ¹ŋ
-5	กาย	กาย	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=káy|LTranslit=káy
-6	อาจ	อาจ	VERB	MD	_	0	root	_	SpaceAfter=No|Translit='áč|LTranslit='áč
-7	ล้า	ล้า	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=lá²|LTranslit=lá²
-8	สมัย	สมัย	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=smây|LTranslit=smây
-9	ไป	ไป	PART	RP	_	7	compound:prt	_	SpaceAfter=No|Translit=pai|LTranslit=pai
-10	หน่อย	หน่อย	ADV	RB	_	6	advmod	_	Translit=hn¹'y|LTranslit=hn¹'y
+1	ข้อ	ข้อ	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=kʰɔ̂ː|LTranslit=kʰɔ̂ː
+2	กำหนด	กำหนด	VERB	VV	_	1	acl	_	SpaceAfter=No|Translit=kãːhnd|LTranslit=kãːhnd
+3	เรื่อง	เรื่อง	NOUN	NN	_	1	compound	_	SpaceAfter=No|Translit=rüàːŋ|LTranslit=rüàːŋ
+4	การแต่ง	การแต่ง	VERB	VV	_	3	compound	_	SpaceAfter=No|Translit=kaːrtæ̀ːŋ|LTranslit=kaːrtæ̀ːŋ
+5	กาย	กาย	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=kaːy|LTranslit=kaːy
+6	อาจ	อาจ	VERB	MD	_	0	root	_	SpaceAfter=No|Translit='aːč|LTranslit='aːč
+7	ล้า	ล้า	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=lâː|LTranslit=lâː
+8	สมัย	สมัย	NOUN	NN	_	6	obl	_	SpaceAfter=No|Translit=smạy|LTranslit=smạy
+9	ไป	ไป	PART	RP	_	7	compound:prt	_	SpaceAfter=No|Translit=pại|LTranslit=pại
+10	หน่อย	หน่อย	ADV	RB	_	6	advmod	_	Translit=hnɔ̀ːy|LTranslit=hnɔ̀ːy
 
 ~~~
 
@@ -42,12 +42,12 @@ The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 xcomp	color:blue
-1	บาง	บาง	DET	DT	_	2	det	_	SpaceAfter=No|Translit=báŋ|LTranslit=báŋ
-2	ครั้ง	ครั้ง	NOUN	NNB	_	4	obl:tmod	_	SpaceAfter=No|Translit=gʰrâ²ŋ|LTranslit=gʰrâ²ŋ
-3	ก็	ก็	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔ|LTranslit=kɔ
-4	คล้าย	คล้าย	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰlá²y|LTranslit=gʰlá²y
-5	พลัง	พลัง	NOUN	NN	_	4	xcomp	_	SpaceAfter=No|Translit=bʰlâŋ|LTranslit=bʰlâŋ
-6	พิเศษ	พิเศษ	ADJ	JJ	_	5	amod	_	Translit=bʰiśéš|LTranslit=bʰiśéš
+1	บาง	บาง	DET	DT	PronType=Ind	2	det	_	Gloss=some,a_few|SpaceAfter=No|Translit=baːŋ|LTranslit=baːŋ
+2	ครั้ง	ครั้ง	NOUN	NNB	_	4	obl:tmod	_	SpaceAfter=No|Translit=gʰrậŋ|LTranslit=gʰrậŋ
+3	ก็	ก็	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=kɔʔ|LTranslit=kɔʔ
+4	คล้าย	คล้าย	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=gʰlâːy|LTranslit=gʰlâːy
+5	พลัง	พลัง	NOUN	NN	_	4	xcomp	_	SpaceAfter=No|Translit=bʰlạŋ|LTranslit=bʰlạŋ
+6	พิเศษ	พิเศษ	ADJ	JJ	_	5	amod	_	Translit=bʰiśeːš|LTranslit=bʰiśeːš
 
 ~~~
 
@@ -59,19 +59,19 @@ The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 14 xcomp	color:blue
 1	เห็น	เห็น	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=hen|LTranslit=hen
-2	ได้	ได้	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dai²|LTranslit=dai²
-3	ชัด	ชัด	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰâd|LTranslit=ćʰâd
-4	ที่สุด	ที่สุด	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰí¹sud|LTranslit=dʰí¹sud
-5	เมื่อ	เมื่อ	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=műá¹|LTranslit=műá¹
-6	ชื่อ	ชื่อ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰű¹'|LTranslit=ćʰű¹'
+2	ได้	ได้	AUX	MD	_	1	aux	_	SpaceAfter=No|Translit=dạî|LTranslit=dạî
+3	ชัด	ชัด	ADV	RB	_	1	advmod	_	SpaceAfter=No|Translit=ćʰạd|LTranslit=ćʰạd
+4	ที่สุด	ที่สุด	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=dʰìːsud|LTranslit=dʰìːsud
+5	เมื่อ	เมื่อ	ADP	IN	_	10	mark	_	SpaceAfter=No|Translit=müàː|LTranslit=müàː
+6	ชื่อ	ชื่อ	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=ćʰǜː'|LTranslit=ćʰǜː'
 7	ของ	ของ	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=kʰɔːŋ|LTranslit=kʰɔːŋ
-8	ดารา	ดารา	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=dárá|LTranslit=dárá
-9	นั้น	นั้น	DET	DT	_	8	det	_	SpaceAfter=No|Translit=nâ²n|LTranslit=nâ²n
-10	หา	หา	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=há|LTranslit=há
-11	ยาก	ยาก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yák|LTranslit=yák
-12	ตั้ง	ตั้ง	VERB	VV	_	14	case	_	SpaceAfter=No|Translit=tâ²ŋ|LTranslit=tâ²ŋ
-13	แต่	แต่	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tǽ¹|LTranslit=tǽ¹
-14	แรก	แรก	ADJ	JJ	_	10	xcomp	_	Translit=rǽk|LTranslit=rǽk
+8	ดารา	ดารา	NOUN	NN	_	6	nmod:poss	_	SpaceAfter=No|Translit=daːraː|LTranslit=daːraː
+9	นั้น	นั้น	DET	DT	PronType=Dem	8	det	_	Gloss=that|SpaceAfter=No|Translit=nận|LTranslit=nận
+10	หา	หา	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=haː|LTranslit=haː
+11	ยาก	ยาก	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yaːk|LTranslit=yaːk
+12	ตั้ง	ตั้ง	VERB	VV	ExtPos=ADP	14	case	_	SpaceAfter=No|Translit=tậŋ|LTranslit=tậŋ
+13	แต่	แต่	ADP	IN	_	12	fixed	_	SpaceAfter=No|Translit=tæ̀ː|LTranslit=tæ̀ː
+14	แรก	แรก	ADJ	JJ	_	10	xcomp	_	Translit=ræːk|LTranslit=ræːk
 
 ~~~
 

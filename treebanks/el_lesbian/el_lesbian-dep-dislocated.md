@@ -8,12 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `dislocated`.
+9 nodes (0%) are attached to their parents as `dislocated`.
 
-3 instances of `dislocated` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.2.
+6 instances of `dislocated` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 20% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 20% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 20% instances).
+The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (4; 44% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (1; 11% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 dislocated	color:blue
+1	Ένας	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	καλός	καλός	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+3	τζουμπάνς	τσουπάνς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	dislocated	_	Voicing=Voiced
+4	πρέπ’	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	να	να	SCONJ	_	_	7	mark	_	_
+6	τα	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	7	expl	_	_
+7	ξέρ’	ξέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	_
+8	ούλα	ούλους	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	7	obj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -23,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 17	fgColor:white
 # visual-style 17 16 dislocated	color:blue
 1	Πράγματι	πράγματι	ADV	_	_	7	advmod	_	_
-2	σε	σε	ADP	_	_	6	case	_	_
+2	σε	σι	ADP	_	_	6	case	_	_
 3	2	2	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	6	nummod	_	_
 4	-	-	PUNCT	_	_	3	punct	_	_
 5	3	3	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	6	nummod	_	_
@@ -62,7 +81,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 1 dislocated	color:blue
-1	Φτη	έφτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
+1	Φτη	εύτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
 2	θα	θα	AUX	_	Tense=Fut	8	aux	_	_
 3	ν	να	AUX	_	_	2	fixed	_	_
 4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_
@@ -73,32 +92,6 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 9	γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	MGloss=euphonic-the|MSeg=γ-η
 10	κατσίκα	κατσίκα	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
 11	.	.	PUNCT	_	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 dislocated	color:blue
-1	Γη	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	MGloss=euphonic-the|MSeg=γ-η
-2	καημέν’	καημένους	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	έφγει	φεύγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=έφγι
-4	όμους	όμους	CCONJ	_	_	3	cc	_	_
-5	γιου	ου	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	MGloss=euphonic-the|MSeg=γι-ου
-6	στύλους	στύλους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	dislocated	_	_
-7	τ’	η	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
-8	σπιτιού	σπίτ	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
-9	μ’	μ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod	_	_
-10	τσι	τσι	CCONJ	_	_	12	cc	_	_
-11	δε	δεν	PART	_	Polarity=Neg	12	advmod	_	_
-12	θέλου	θέλου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
-13	πλια	πλια	ADV	_	_	12	advmod	_	_
-14	να	να	SCONJ	_	_	15	mark	_	_
-15	ζήσου	ζω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	ccomp	_	_
-16	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

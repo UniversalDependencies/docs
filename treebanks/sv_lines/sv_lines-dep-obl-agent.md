@@ -72,8 +72,8 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 10	av	av	ADP	_	_	12	case	_	_
 11	bättre	bra	ADJ	CMP	Case=Nom|Degree=Cmp	12	amod	_	_
 12	kvalitet	kvalitet	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	ccomp	_	_
-13	än	än	ADP	CMP	_	14	case	_	_
-14	den	den	PRON	PERS-P3SG	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	12	nmod	_	_
+13	än	än	SCONJ	CMP	_	14	case	_	_
+14	den	den	PRON	PERS-P3SG	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	11	obl	_	_
 15	de	de	PRON	PERS-P3PL-NOM	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	16	nsubj	_	_
 16	får	få	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
 17	av	av	ADP	_	_	18	case	_	_

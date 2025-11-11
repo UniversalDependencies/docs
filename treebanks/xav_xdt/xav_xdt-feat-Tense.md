@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="xav_xdt-pos-AUX.htm
 
 ### `AUX`
 
-53 <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Tense`.
+53 <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> tokens (22% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=Non1</tt> (47; 89%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (11; 21% of non-empty `Tense`): <em>ma</em>
 * `Pres` (42; 79% of non-empty `Tense`): <em>te</em>
-* `EMPTY` (182): <em>te, di, wa, ma'ãpé, wate, ma, mo</em>
+* `EMPTY` (186): <em>te, di, wa, ma'ãpé, wate, ma, mo</em>
 
 ### `PART`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 
 * `Imp` (2; 6% of non-empty `Tense`): <em>éré</em>
 * `Past` (32; 94% of non-empty `Tense`): <em>ma</em>
-* `EMPTY` (287): <em>za'ra, hã, e, za, õ, norĩ, tô, norĩhã, aba, 're</em>
+* `EMPTY` (288): <em>hã, za'ra, e, za, õ, norĩ, tô, aba, norĩhã, 're</em>
 
 ### `X`
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `X` and `Tense` co-occurred: <
 `X` tokens may have the following values of `Tense`:
 
 * `Imp` (2; 100% of non-empty `Tense`): <em>'re</em>
-* `EMPTY` (70): <em>di, wa'wa, ni, norĩ, wamhã, zaʔra, ʔre, 'wa, Mare, Maze</em>
+* `EMPTY` (69): <em>di, wa'wa, ni, norĩ, wamhã, zaʔra, ʔre, 'wa, Mare, Maze</em>
 

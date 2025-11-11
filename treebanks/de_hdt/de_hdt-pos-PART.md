@@ -13,7 +13,7 @@ The 10 most frequent `PART` lemmas: <em>nicht, zu</em>
 
 The 10 most frequent `PART` types:  <em>nicht, zu</em>
 
-The 10 most frequent ambiguous lemmas: <em>nicht</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 18383, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1), <em>zu</em> (<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 23436, <tt><a href="de_hdt-pos-PART.html">PART</a></tt> 16648, <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1004)
+The 10 most frequent ambiguous lemmas: <em>nicht</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 18723, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1), <em>zu</em> (<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 24129, <tt><a href="de_hdt-pos-PART.html">PART</a></tt> 16679, <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1039)
 
 The 10 most frequent ambiguous types:  <em>nicht</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 18383, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1), <em>zu</em> (<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 22416, <tt><a href="de_hdt-pos-PART.html">PART</a></tt> 16648, <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1004)
 
@@ -28,13 +28,11 @@ The 10 most frequent ambiguous types:  <em>nicht</em> (<tt><a href="de_hdt-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.295646).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.295657).
 
-The 1st highest number of forms (1) was observed with the lemma “Nicht”: <em>Nicht</em>.
+The 1st highest number of forms (1) was observed with the lemma “nicht”: <em>nicht</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Zu”: <em>Zu</em>.
-
-The 3rd highest number of forms (1) was observed with the lemma “nicht”: <em>nicht</em>.
+The 2nd highest number of forms (1) was observed with the lemma “zu”: <em>zu</em>.
 
 `PART` occurs with 2 features: <tt><a href="de_hdt-feat-Polarity.html">Polarity</a></tt> (18723; 53% instances), <tt><a href="de_hdt-feat-PartType.html">PartType</a></tt> (16679; 47% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-442 nodes (0%) are attached to their parents as `discourse`.
+444 nodes (0%) are attached to their parents as `discourse`.
 
-432 instances of `discourse` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.97285067873303.
+434 instances of `discourse` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.96846846846847.
 
-The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (222; 50% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (109; 25% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (38; 9% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (35; 8% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (10; 2% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (10; 2% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (9; 2% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (224; 50% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (109; 25% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (38; 9% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (35; 8% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (10; 2% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (10; 2% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (9; 2% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 discourse	color:blue
-1	_	_	PUNCT	_	_	5	punct	_	BBIL=B|BPT=2|SpaceAfter=No|UI=12
+1	_	_	PUNCT	_	_	2	punct	_	BBIL=B|BPT=0|SpaceAfter=No|UI=12
 2	_	_	INTJ	_	_	5	discourse	_	BBIL=B|BPT=0|SpaceAfter=No|UI=8535
 3	_	_	PUNCT	_	_	2	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
 4	_	_	ADV	_	_	5	advmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=628
@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 7	_	_	AUX	_	_	5	aux	_	BBIL=I|BPT=3|SpaceAfter=No|UI=23
 8	_	_	SCONJ	_	_	5	mark	_	BBIL=I|BPT=3|SpaceAfter=No|UI=6
 9	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=2
-10	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13
+10	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=2|UI=13
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 14	_	_	AUX	_	_	13	aux	_	BBIL=I|BPT=1|SpaceAfter=No|UI=17
 15	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=282
 16	_	_	AUX	_	_	15	cop	_	BBIL=I|BPT=1|SpaceAfter=No|UI=31
-17	_	_	PUNCT	_	_	15	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13
+17	_	_	PUNCT	_	_	15	punct	_	BBIL=I|BPT=2|UI=13
 
 ~~~
 
@@ -83,7 +83,7 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 12	_	_	AUX	_	_	11	aux	_	BBIL=I|BPT=1|SpaceAfter=No|UI=16
 13	_	_	SCONJ	_	_	11	mark	_	BBIL=I|BPT=3|SpaceAfter=No|UI=0
 14	_	_	PART	_	_	11	mark	_	BBIL=I|BPT=3|SpaceAfter=No|UI=59
-15	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13
+15	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=2|UI=13
 
 ~~~
 

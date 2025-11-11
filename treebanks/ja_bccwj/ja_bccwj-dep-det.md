@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6053 nodes (0%) are attached to their parents as `det`.
+6464 nodes (1%) are attached to their parents as `det`.
 
-6035 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32397158433834.
+6423 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38397277227723.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (5851; 97% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (61; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (50; 1% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (38; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (6252; 97% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (61; 1% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (53; 1% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (38; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (33; 1% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 15	_	_	VERB	_	_	18	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=3|SpaceAfter=No|UI=13211
 16	_	_	AUX	_	_	15	aux	_	BBIL=I|BPT=2|LBIL=I|LPOS=3|PUDL=する|SpaceAfter=No|UI=48728
 17	_	_	NOUN	_	_	18	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=41326
-18	_	_	NOUN	_	_	21	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=44978
+18	_	_	NOUN	_	_	21	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=44978
 19	_	_	ADP	_	_	18	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 20	_	_	DET	_	_	21	det	_	BBIL=B|BPT=1|LBIL=B|LPOS=27|SpaceAfter=No|UI=34
 21	_	_	NOUN	_	_	24	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1222

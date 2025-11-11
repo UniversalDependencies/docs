@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="zh_gsdsimp-dep-aux-pass.html">aux:pass</a></tt>.
 
-1827 nodes (1%) are attached to their parents as `aux`.
+1828 nodes (1%) are attached to their parents as `aux`.
 
 953 instances of `aux` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.76135741652983.
+Average distance between parent and child is 1.7609409190372.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (1788; 98% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (1789; 98% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -61,8 +61,8 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 21 20 aux	color:blue
 1	当	当	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
 2	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-3	Game	Game	X	FW	_	6	nsubj	_	Translit=Game|LTranslit=Game
-4	Informer	Informer	X	FW	_	3	flat:foreign	_	SpaceAfter=No|Translit=Informer|LTranslit=Informer
+3	Game	Game	X	FW	Foreign=Yes	6	nsubj	_	Translit=Game|LTranslit=Game
+4	Informer	Informer	X	FW	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No|Translit=Informer|LTranslit=Informer
 5	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 6	提到	提到	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=tídào|LTranslit=tídào
 7	游戏	游戏	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì

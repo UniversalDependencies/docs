@@ -11,7 +11,7 @@ It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 
 96700 tokens (38%) have a non-empty value of `Number`.
 15356 types (79%) occur at least once with a non-empty value of `Number`.
-11465 lemmas (74%) occur at least once with a non-empty value of `Number`.
+11462 lemmas (74%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (43084; 17% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (16904; 7% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (16087; 6% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9651; 4% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (9475; 4% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1402; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (97; 0% instances).
 
 ### `NOUN`
@@ -33,7 +33,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="en_ewt-pos-NOUN.htm
 
 16904 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15152; 90%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14032; 83%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12067; 71%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9611; 57%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15152; 90%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14032; 83%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12067; 71%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9495; 56%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt></tt></td><td><em>State</em></td><td><em>states</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (4766) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 97% lemmas (4764) occur only with one value of `Number`.
 
 ### `AUX`
 
@@ -150,25 +150,27 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `SYM`
 
-97 <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> tokens (11% of all `SYM` tokens) have a non-empty value of `Number`.
+97 <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> tokens (10% of all `SYM` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `SYM` and `Number` co-occurred: <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (97; 100%).
 
 `SYM` tokens may have the following values of `Number`:
 
 * `Plur` (1; 1% of non-empty `Number`): <em>$</em>
 * `Sing` (96; 99% of non-empty `Number`): <em>#, %, 1%P701!.doc</em>
-* `EMPTY` (815): <em>$, /, -, :), +, :(, :-), A, :D, x</em>
+* `EMPTY` (843): <em>$, /, -, :), @, +, :(, :-), A, :D</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_ewt-dep-compound.html">compound</a></tt>]--> NOUN</tt> (3842; 71%),
+<tt>NOUN --[<tt><a href="en_ewt-dep-compound.html">compound</a></tt>]--> NOUN</tt> (3849; 71%),
 <tt>NOUN --[<tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2996; 60%),
 <tt>NOUN --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1950; 78%),
-<tt>PROPN --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1840; 100%),
+<tt>PROPN --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1866; 100%),
 <tt>NOUN --[<tt><a href="en_ewt-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1839; 51%),
 <tt>VERB --[<tt><a href="en_ewt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1714; 59%),
-<tt>PROPN --[<tt><a href="en_ewt-dep-compound.html">compound</a></tt>]--> PROPN</tt> (1529; 88%),
+<tt>PROPN --[<tt><a href="en_ewt-dep-compound.html">compound</a></tt>]--> PROPN</tt> (1437; 86%),
 <tt>NOUN --[<tt><a href="en_ewt-dep-cop.html">cop</a></tt>]--> AUX</tt> (1418; 71%),
-<tt>NOUN --[<tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1069; 69%),
-<tt>NOUN --[<tt><a href="en_ewt-dep-compound.html">compound</a></tt>]--> PROPN</tt> (959; 74%).
+<tt>NOUN --[<tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1068; 69%),
+<tt>NOUN --[<tt><a href="en_ewt-dep-compound.html">compound</a></tt>]--> PROPN</tt> (958; 74%).
 

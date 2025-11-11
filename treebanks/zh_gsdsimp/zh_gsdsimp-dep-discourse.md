@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `discourse`: <tt><a href="zh_gsdsimp-d
 189 nodes (0%) are attached to their parents as `discourse`.
 
 187 instances of `discourse` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.98412698412698.
+Average distance between parent and child is 3.97883597883598.
 
 The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (141; 75% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (35; 19% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_gsdsimp-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (1; 1% instances).
 
@@ -52,8 +52,8 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 21 22 discourse	color:blue
 1	当	当	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
 2	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-3	Game	Game	X	FW	_	6	nsubj	_	Translit=Game|LTranslit=Game
-4	Informer	Informer	X	FW	_	3	flat:foreign	_	SpaceAfter=No|Translit=Informer|LTranslit=Informer
+3	Game	Game	X	FW	Foreign=Yes	6	nsubj	_	Translit=Game|LTranslit=Game
+4	Informer	Informer	X	FW	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No|Translit=Informer|LTranslit=Informer
 5	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 6	提到	提到	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=tídào|LTranslit=tídào
 7	游戏	游戏	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì

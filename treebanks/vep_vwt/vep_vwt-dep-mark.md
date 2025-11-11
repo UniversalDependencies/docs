@@ -23,10 +23,10 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 4 mark	color:blue
 1	Om	olda	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-2	sel'ged	sel'ge	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	_
+2	selʼged	selʼge	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	0	root	_	_
 3	,	,	PUNCT	_	_	8	punct	_	_
 4	miše	miše	SCONJ	_	_	8	mark	_	_
-5	meiden	mö	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+5	meiden	minä	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
 6	vepsän	vepsän	ADJ	_	Case=Gen|Number=Sing	7	amod	_	_
 7	mal	ma	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
 8	eläba	eläda	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_

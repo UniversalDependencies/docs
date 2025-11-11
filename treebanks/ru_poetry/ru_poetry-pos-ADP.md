@@ -59,12 +59,12 @@ The 2nd highest number of forms (2) was observed with the lemma “сквозь�
 
 The 3rd highest number of forms (1) was observed with the lemma “без”: <em>без</em>.
 
-`ADP` occurs with 2 features: <tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt> (9; 0% instances), <tt><a href="ru_poetry-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADP` occurs with 2 features: <tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt> (14; 0% instances), <tt><a href="ru_poetry-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`ADP` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Typo=Yes`
+`ADP` occurs with 4 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Typo=Yes`
 
-`ADP` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (5060 tokens).
+`ADP` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (5055 tokens).
 Examples: <em>в, на, с, к, за, от, по, из, у, над</em>
 
 

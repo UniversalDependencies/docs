@@ -56,12 +56,12 @@ The 2nd highest number of forms (1) was observed with the lemma “et”: <em>et
 
 The 3rd highest number of forms (1) was observed with the lemma “i”: <em>i</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`CCONJ` occurs with 2 features: <tt><a href="ca_ancora-feat-ExtPos.html">ExtPos</a></tt> (150; 1% instances), <tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+`CCONJ` occurs with 4 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Foreign=Yes`
 
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (15048 tokens).
+`CCONJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (14898 tokens).
 Examples: <em>i, o, però, ni, sinó, mentre, y, que, bé</em>
 
 
@@ -69,7 +69,7 @@ Examples: <em>i, o, però, ni, sinó, mentre, y, que, bé</em>
 
 `CCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (14249; 95% instances), <tt><a href="ca_ancora-dep-fixed.html">fixed</a></tt> (395; 3% instances), <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (196; 1% instances), <tt><a href="ca_ancora-dep-root.html">root</a></tt> (153; 1% instances), <tt><a href="ca_ancora-dep-mark.html">mark</a></tt> (16; 0% instances), <tt><a href="ca_ancora-dep-flat.html">flat</a></tt> (13; 0% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (8; 0% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="ca_ancora-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (5334; 35% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (4500; 30% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (2471; 16% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1184; 8% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (389; 3% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (357; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (346; 2% instances),  (153; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (115; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (96; 1% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (45; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (36; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (5334; 35% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (4500; 30% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (2471; 16% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1184; 8% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (389; 3% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (357; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (346; 2% instances),  (153; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (116; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (95; 1% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (45; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (36; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 14647 (97%) `CCONJ` nodes are leaves.
 

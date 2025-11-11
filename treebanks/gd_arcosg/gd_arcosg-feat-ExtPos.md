@@ -12,7 +12,7 @@ It occurs with 11 different values: `ADJ`, `ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, 
 2608 tokens (3%) have a non-empty value of `ExtPos`.
 70 types (1%) occur at least once with a non-empty value of `ExtPos`.
 42 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 11 part-of-speech tags: <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (977; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (555; 1% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (535; 1% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (220; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (100; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (84; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (71; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (60; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (977; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (558; 1% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (535; 1% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (220; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (100; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (81; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (71; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (60; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -31,21 +31,21 @@ The feature is used with 11 part-of-speech tags: <tt><a href="gd_arcosg-pos-ADP.
 
 ### `ADV`
 
-555 <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+558 <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="gd_arcosg-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (314; 57%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="gd_arcosg-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (316; 57%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADV` (555; 100% of non-empty `ExtPos`): <em>an, ann, a, air, mu, 'n, am, ma, dè, mar</em>
+* `ADV` (558; 100% of non-empty `ExtPos`): <em>an, ann, a, air, mu, 'n, am, ma, có, dè</em>
 
-`ExtPos` seems to be **lexical feature** of `ADV`. 100% lemmas (15) occur only with one value of `ExtPos`.
+`ExtPos` seems to be **lexical feature** of `ADV`. 100% lemmas (16) occur only with one value of `ExtPos`.
 
 ### `AUX`
 
 535 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (39% of all `AUX` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `AUX` and `ExtPos` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (535; 100%), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (508; 95%), <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (463; 87%), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (365; 68%).
+The most frequent other feature values with which `AUX` and `ExtPos` co-occurred: <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (535; 100%), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (508; 95%), <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (463; 87%), <tt><a href="gd_arcosg-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (365; 68%).
 
 `AUX` tokens may have the following values of `ExtPos`:
 
@@ -75,21 +75,19 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 ### `PRON`
 
-84 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+81 <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (84; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (81; 96%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (81; 96%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (81; 100%), <tt><a href="gd_arcosg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (78; 96%), <tt><a href="gd_arcosg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (78; 96%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
-* `ADV` (8; 10% of non-empty `ExtPos`): <em>dè, có</em>
-* `PRON` (76; 90% of non-empty `ExtPos`): <em>a, an, gu, car, cia, cò, Ge, ann, dè, dé</em>
+* `ADV` (7; 9% of non-empty `ExtPos`): <em>dè</em>
+* `PRON` (74; 91% of non-empty `ExtPos`): <em>a, an, gu, car, cia, cò, Ge, dè, dé, 'n</em>
 
 <table>
   <tr><th>Paradigm <i>dè</i></th><th><tt>ADV</tt></th><th><tt>PRON</tt></th></tr>
   <tr><td><tt></tt></td><td><em>dè</em></td><td><em>dè</em></td></tr>
 </table>
-
-`ExtPos` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `ExtPos`.
 
 ### `PART`
 

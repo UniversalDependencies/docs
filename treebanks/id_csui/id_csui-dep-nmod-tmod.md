@@ -73,13 +73,13 @@ The following 12 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 8	TBS	TBS	PROPN	NNP	_	7	nmod	_	_
 9	AALI	AALI	PROPN	NNP	_	7	nmod	_	_
 10	yang	yang	PRON	IN	PronType=Rel	11	nsubj:pass	_	_
-11	dipanen	dipanen	VERB	VB	Mood=Ind|Voice=Pass	7	acl:relcl	_	_
-12	mencapai	capai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+11	dipanen	dipanen	VERB	VB	Voice=Pass	7	acl:relcl	_	_
+12	mencapai	capai	VERB	VB	Voice=Act	0	root	_	_
 13	2.618.080	2.618.080	NUM	CD	NumType=Card	14	nummod	_	_
 14	ton	ton	NOUN	NN	Number=Sing	12	obj	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	12	punct	_	SpaceAfter=No
 16	"	"	PUNCT	''	_	12	punct	_	_
-17	jelas	jelas	VERB	VB	Mood=Ind|Voice=Act	12	parataxis	_	_
+17	jelas	jelas	VERB	VB	Voice=Act	12	parataxis	_	_
 18	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
 19	.	.	PUNCT	.	_	12	punct	_	_
 

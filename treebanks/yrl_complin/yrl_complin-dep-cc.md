@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-107 nodes (0%) are attached to their parents as `cc`.
+122 nodes (0%) are attached to their parents as `cc`.
 
-91 instances of `cc` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.97196261682243.
+96 instances of `cc` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.89344262295082.
 
-The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (71; 66% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (21; 20% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (73; 60% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (33; 27% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (6; 5% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="y
 3	iké	iké	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	2	advmod	_	TokenRange=15:18
 4	u	u	CCONJ	CCONJ	_	5	cc	_	TokenRange=19:20
 5	remurari	murari	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	2	conj	_	TokenRange=21:29
-6	interior	interior	NOUN	N	Number=Sing	5	obl	_	OrigLang=por|TokenRange=30:38
+6	interior	interior	NOUN	N	Number=Sing	5	obl	_	OrigLang=pt|TokenRange=30:38
 7	kití	kití	ADP	ADP	AdpType=Post	6	case	_	TokenRange=39:43
 8	[...]	[...]	PUNCT	ELIP	PunctType=Elip	5	punct	_	TokenRange=44:49
 
@@ -58,31 +58,26 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="y
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 15 cc	color:blue
-1	Pemusatambika	musatambika	VERB	V	Mood=Imp,Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:13
-2	pe	pe	PRON	PRON2	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=14:16
-3	ipí	ipí	NOUN	N	Number=Sing	4	nmod:poss	_	TokenRange=17:19
-4	rapé	pé	NOUN	N	Number=Sing|Rel=Cont	1	obj	_	TokenRange=20:24
-5	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	8	advmod	_	TokenRange=25:27
-6	arama	arama	SCONJ	SCONJ	_	8	mark	_	TokenRange=28:33
-7	kurí	kurí	PART	FUT	Tense=Fut	8	advmod	_	TokenRange=34:38
-8	uyeréu	yeréu	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	advcl	_	TokenRange=39:45
-9	uyumuapiri	muapiri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin|Voice=Mid,Pass	8	advcl	_	TokenRange=46:56
-10	waá	waá	PRON	REL	ExtPos=SCONJ|Number=Sing|PronType=Rel	9	mark	_	TokenRange=57:60
-11	upé	upé	ADP	ADP	AdpType=Post	10	fixed	_	TokenRange=61:64
-12	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	13	det	_	TokenRange=65:68
-13	alejadu	alejadu	NOUN	N	Number=Sing	9	nsubj	_	Orig=aleijado|OrigLang=por|SpaceAfter=No|TokenRange=69:76
-14	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=76:77
-15	ma	ma	CCONJ	CCONJ	_	16	cc	_	TokenRange=78:80
-16	puranga	puranga	ADJ	A	_	8	conj	_	TokenRange=81:88
-17	arama	arama	SCONJ	SCONJ	_	16	mark	_	TokenRange=89:94
-18	kurí	kurí	PART	FUT	Tense=Fut	16	advmod	_	TokenRange=95:99
-19	aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	SpaceAfter=No|TokenRange=100:102
-20	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=102:103
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 8 cc	color:blue
+1	Hapuderi	puderi	AUX	AUXFR	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	aux	_	TokenRange=0:8
+2	hamunhã	munhã	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=9:16
+3	panhẽ	panhẽ	DET	TOT	PronType=Tot	4	det	_	TokenRange=17:22
+4	maã	maã	PRON	RELF	PronType=Rel	2	obj	_	TokenRange=23:26
+5	haputari	putari	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	4	acl:relcl	_	TokenRange=27:35
+6	hamunhã	munhã	VERB	V	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	5	xcomp	_	SpaceAfter=No|TokenRange=36:43
+7	,	,	PUNCT	PUNCT	_	12	punct	_	TokenRange=43:44
+8	ma	ma	CCONJ	CCONJ	_	12	cc	_	TokenRange=45:47
+9	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	12	advmod	_	TokenRange=48:50
+10	panhẽ	panhẽ	PRON	TOT	PronType=Tot	12	nsubj	_	TokenRange=51:56
+11	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	10	acl	_	TokenRange=57:63
+12	puranga	puranga	ADJ	A	_	2	conj	_	TokenRange=64:71
+13	ixé	ixé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	12	obl	_	TokenRange=72:75
+14	arama	arama	ADP	ADP	AdpType=Post	13	case	_	SpaceAfter=No|TokenRange=76:81
+15	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=81:82
 
 ~~~
 

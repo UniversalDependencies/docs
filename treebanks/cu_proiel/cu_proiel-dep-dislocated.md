@@ -22,18 +22,18 @@ The following 36 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 dislocated	color:blue
-1	Егда	ѥгда	ADV	Dq	PronType=Rel	2	advcl	_	ref=27
-2	слꙑша	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	dislocated	_	ref=27
-3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	ref=27
-4	їс꙯	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=27
-5	тъгда	тъгда	ADV	Df	_	6	advmod	_	ref=27
-6	прѣбꙑ	прѣбꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=27
-7	на	на	ADP	R-	_	10	case	_	ref=27
-8	н҄емъже	иже	PRON	Pr	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	10	acl	_	ref=27
-9	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	ref=27
-10	мѣстѣ	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	6	xcomp	_	ref=27
-11	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	12	nummod	_	ref=27
-12	дь҆ни	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	6	obl	_	ref=27
+1	Егда	ѥгда	ADV	Dq	PronType=Rel	2	advcl	_	Ref=27
+2	слꙑша	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	dislocated	_	Ref=27
+3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	Ref=27
+4	їс꙯	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=27
+5	тъгда	тъгда	ADV	Df	_	6	advmod	_	Ref=27
+6	прѣбꙑ	прѣбꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=27
+7	на	на	ADP	R-	_	10	case	_	Ref=27
+8	н҄емъже	иже	PRON	Pr	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	10	acl	_	Ref=27
+9	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	Ref=27
+10	мѣстѣ	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	6	xcomp	_	Ref=27
+11	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	12	nummod	_	Ref=27
+12	дь҆ни	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	6	obl	_	Ref=27
 
 ~~~
 
@@ -44,15 +44,15 @@ The following 36 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 dislocated	color:blue
-1	Враѕи	врагъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	dislocated	_	ref=36.20
-2	же	же	ADV	Df	_	5	discourse	_	ref=36.20
-3	гн҃і	господьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	1	amod	_	ref=36.20
-4	коупьно	коупьно	ADV	Df	_	5	advmod	_	ref=36.20
-5	прославити	прославити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=36.20
-6	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	ref=36.20
-7	їмъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	ref=36.20
-8	ї	и	CCONJ	C-	_	9	cc	_	ref=36.20
-9	вьзнесті	възнести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=36.20
+1	Враѕи	врагъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	dislocated	_	Ref=36.20
+2	же	же	ADV	Df	_	5	discourse	_	Ref=36.20
+3	гн҃і	господьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	1	amod	_	Ref=36.20
+4	коупьно	коупьно	ADV	Df	_	5	advmod	_	Ref=36.20
+5	прославити	прославити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	Ref=36.20
+6	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	Ref=36.20
+7	їмъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Ref=36.20
+8	ї	и	CCONJ	C-	_	9	cc	_	Ref=36.20
+9	вьзнесті	възнести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	Ref=36.20
 
 ~~~
 
@@ -63,17 +63,17 @@ The following 36 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 4 dislocated	color:blue
-1	и҅	и	CCONJ	C-	_	10	cc	_	ref=19
-2	ꙁа	занѥже	SCONJ	G-	_	4	mark	_	ref=19
-3	н҄еже	н҄еже	SCONJ	G-	_	2	fixed	_	ref=19
-4	тождеи҅менитъ	тождеименитъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	dislocated	_	ref=19
-5	ѥ҅си	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=19
-6	то	то	ADV	Df	_	10	advmod	_	ref=19
-7	тѣмъ	тъ	PRON	Pd	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	ref=19
-8	ти	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl:arg	_	ref=19
-9	ѥ҅стъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	ref=19
-10	дала	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=19
-11	животъ	животъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	ref=19
+1	и҅	и	CCONJ	C-	_	10	cc	_	Ref=19
+2	ꙁа	занѥже	SCONJ	G-	_	4	mark	_	Ref=19
+3	н҄еже	н҄еже	SCONJ	G-	_	2	fixed	_	Ref=19
+4	тождеи҅менитъ	тождеименитъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	10	dislocated	_	Ref=19
+5	ѥ҅си	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=19
+6	то	то	ADV	Df	_	10	advmod	_	Ref=19
+7	тѣмъ	тъ	PRON	Pd	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	Ref=19
+8	ти	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl:arg	_	Ref=19
+9	ѥ҅стъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	Ref=19
+10	дала	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	Ref=19
+11	животъ	животъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Ref=19
 
 ~~~
 

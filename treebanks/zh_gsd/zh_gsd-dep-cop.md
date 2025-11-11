@@ -11,9 +11,9 @@ This relation is universal.
 1630 nodes (1%) are attached to their parents as `cop`.
 
 1630 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.41533742331288.
+Average distance between parent and child is 5.41656441717791.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1153; 71% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (241; 15% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (93; 6% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (65; 4% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (51; 3% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1154; 71% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (241; 15% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (93; 6% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (64; 4% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (51; 3% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

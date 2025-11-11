@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `aux:aspect`: <tt><a
 # visual-style 4 3 aux:aspect	color:blue
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Сынст	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	obj	_	GTtags=Pers,Pl3,Gen
-3	карми	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	4	aux:aspect	_	GTtags=IV,Ind,Prs,ScSg3
+3	карми	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	4	aux:aspect	_	GTtags=IV,Ind,Prs,ScSg3
 4	ускомаст	ускомс	VERB	V	Case=Loc|Number[psor]=Plur|Person[psor]=3|VerbForm=Inf	0	root	_	GTtags=Err/Orth,TV,Inf,Loc,PxPl3
 5	тия	тия	ADV	Adv	Case=Prl	4	advmod	_	GTtags=Prl|SpaceAfter=No
 6	...	...	PUNCT	CLB	_	4	punct	_	_
@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `aux:aspect`: <tt><a
 2	киниганть	кинига	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	nmod	_	GTtags=Sg,Gen,Def|Gloss=book
 3	ловныцянзо	ловныця	NOUN	N	Case=Nom|Nomzr=Ag|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	nsubj	_	GTtags=Pl,Nom,PxSg3|Gloss=reader
 4	улеме	улемс	AUX	V	Case=Loc|VerbForm=Inf	7	cop	_	GTtags=IV,Inf,Loc|Gloss=be
-5	кармить	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	7	aux:aspect	_	GTtags=IV,Ind,Prs,ScPl3|Gloss=begin
+5	кармить	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	aux:aspect	_	GTtags=IV,Ind,Prs,ScPl3|Gloss=begin
 6	аволь	аволь	AUX	Pcle	PartType=Emp|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Intensive|Gloss=other-than
 7	аламо	аламо	ADV	Det	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Qnt,N,Sg,Nom,Indef|Gloss=a-little|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
@@ -58,11 +58,11 @@ The following 3 pairs of parts of speech are connected with `aux:aspect`: <tt><a
 # visual-style 8	fgColor:white
 # visual-style 8 6 aux:aspect	color:blue
 1	Сторужось	сторож	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
-2	лиссь	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+2	лиссь	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 3	алтарьстэнть	алтарь	NOUN	N	Case=Ela|Definite=Def|Number=Sing	2	obl	_	GTtags=Sg,Ela,Def|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	8	punct	_	_
 5	попось	поп	NOUN	N	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	GTtags=Sg,Nom,Def
-6	кармась	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	8	aux:aspect	_	GTtags=IV,Ind,Prt1,ScSg3
+6	кармась	кармамс	AUX	V	Aspect=Inch|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	8	aux:aspect	_	GTtags=IV,Ind,Prt1,ScSg3
 7	обеднянь	обедня	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	8	obj	_	GTtags=SP,Gen,Indef
 8	служамо	служамо	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_

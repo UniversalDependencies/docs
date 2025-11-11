@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 clf	color:blue
 1	Ia	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Morf=^ia<p>_PS3$
-2	mempunyai	punya	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+punya<v>+i_VSA$
+2	mempunyai	punya	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+punya<v>+i_VSA$
 3	seorang	orang	DET	B--	Definite=Ind|PronType=Art	4	det	_	Morf=^seorang<b>_B--$
 4	istri	istri	NOUN	NSD	Number=Sing	2	obj	_	Morf=^istri<n>_NSD$
 5	dan	dan	CCONJ	H--	_	8	cc	_	Morf=^dan<h>_H--$

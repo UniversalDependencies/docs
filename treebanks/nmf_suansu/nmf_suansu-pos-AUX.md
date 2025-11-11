@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="nmf_suansu-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.846154 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `AUX` is 1.846154 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (9) was observed with the lemma “la”: <em>la, laha, laia, lala, lalama, lalate, lale, lama, late</em>.
 
@@ -81,5 +81,5 @@ The highest child degree of a `AUX` node is 5.
 
 Children of `AUX` nodes are attached using 12 different relations: <tt><a href="nmf_suansu-dep-nsubj.html">nsubj</a></tt> (12; 27% instances), <tt><a href="nmf_suansu-dep-punct.html">punct</a></tt> (9; 20% instances), <tt><a href="nmf_suansu-dep-advmod.html">advmod</a></tt> (7; 16% instances), <tt><a href="nmf_suansu-dep-advcl.html">advcl</a></tt> (3; 7% instances), <tt><a href="nmf_suansu-dep-obl.html">obl</a></tt> (3; 7% instances), <tt><a href="nmf_suansu-dep-aux.html">aux</a></tt> (2; 4% instances), <tt><a href="nmf_suansu-dep-obj.html">obj</a></tt> (2; 4% instances), <tt><a href="nmf_suansu-dep-vocative.html">vocative</a></tt> (2; 4% instances), <tt><a href="nmf_suansu-dep-xcomp.html">xcomp</a></tt> (2; 4% instances), <tt><a href="nmf_suansu-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 11 different parts of speech: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (10; 22% instances), <tt><a href="nmf_suansu-pos-PUNCT.html">PUNCT</a></tt> (9; 20% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (7; 16% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 9% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (4; 9% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (3; 7% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 11 different parts of speech: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (11; 24% instances), <tt><a href="nmf_suansu-pos-PUNCT.html">PUNCT</a></tt> (9; 20% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (7; 16% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 9% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (3; 7% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="nmf_suansu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

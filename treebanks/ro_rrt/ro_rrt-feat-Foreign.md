@@ -32,7 +32,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.ht
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (31; 100% of non-empty `Foreign`): <em>alia, A­, Book, IN, LEARNING, Mode, OUT, Records, Road, Sybir</em>
-* `EMPTY` (130): <em>000, 500, 100, mp, 0, 2, 5a, American, K., dată</em>
+* `EMPTY` (132): <em>000, 500, 100, mp, 0, 2, 5a, American, K., dată</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (30) occur only with one value of `Foreign`.
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (22; 100% of non-empty `Foreign`): <em>of, Flag, goldies, mail, Corner, Design, Deum, End, Forum, Play</em>
-* `EMPTY` (54236): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
+* `EMPTY` (54234): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Foreign`.
 
@@ -58,13 +58,13 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>Dance, Felin, Industrial, admirari, normal, poetica</em>
-* `EMPTY` (15292): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
+* `EMPTY` (15291): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
 
 ### `ADP`
 
 1 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADP` and `Foreign` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (1; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%).
+The most frequent other feature values with which `ADP` and `Foreign` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (1; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="ro_rrt-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADP` tokens may have the following values of `Foreign`:
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Face</em>
-* `EMPTY` (22998): <em>poate, trebuie, pot, putea, avea, are, face, avut, prevăzute, era</em>
+* `EMPTY` (22989): <em>poate, trebuie, pot, putea, avea, are, face, avut, prevăzute, era</em>
 
 ## Relations with Agreement in `Foreign`
 

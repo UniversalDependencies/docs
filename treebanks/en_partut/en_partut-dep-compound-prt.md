@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	turns	turn	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 4	out	out	ADV	B	_	3	compound:prt	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
-6	there	there	PRON	_	_	7	expl	_	_
+6	there	there	PRON	_	PronType=Dem	7	expl	_	_
 7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	some	some	DET	DI	PronType=Ind	9	det	_	_
 9	truth	truth	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -75,7 +75,7 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_
-10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	flat	_	_
+10	VIII	VIII	NUM	N	NumForm=Roman|NumType=Card	9	flat	_	_
 11	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
 12	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
 13	set	set	ADJ	A	Degree=Pos	7	ccomp	_	_

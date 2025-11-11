@@ -9,73 +9,72 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-786 tokens (47%) have a non-empty value of `Gender`.
-397 types (56%) occur at least once with a non-empty value of `Gender`.
-105 lemmas (46%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (311; 18% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (147; 9% instances), <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (105; 6% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (100; 6% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (97; 6% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt> (6; 0% instances).
+798 tokens (47%) have a non-empty value of `Gender`.
+398 types (56%) occur at least once with a non-empty value of `Gender`.
+104 lemmas (46%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (309; 18% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (148; 9% instances), <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (104; 6% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (100; 6% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (97; 6% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="xpg_kul-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
-311 <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> tokens (90% of all `NOUN` tokens) have a non-empty value of `Gender`.
+309 <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> tokens (89% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (251; 81%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (162; 52%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (249; 81%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (160; 52%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (49; 16% of non-empty `Gender`): <em>ουταν, μανκα, μανκαι, μανκαν, ευκιν, σορου, ανανκαι, ατεαμα, ζ̣ει[ραι], ζειρα</em>
+* `Fem` (47; 15% of non-empty `Gender`): <em>ουταν, μανκα, μανκαι, μανκαν, ευκιν, σορου, ανανκαι, ζ̣ει[ραι], ζειρα, ζειραι</em>
 * `Masc` (66; 21% of non-empty `Gender`): <em>ζεμελως, δεως, διως, δεος, ειροι, ζεμελος, σζεμελως, [δ]ε[ω]ς, [δ]ε̣[ως, [δεως]</em>
 * `Neut` (196; 63% of non-empty `Gender`): <em>κακουν, κνουμανει, κακον, κνουμανε, κνουμανι, βεκος, [κνουμανει], κακ[ου]ν, κακο[υν, κακου]ν̣</em>
-* `EMPTY` (36): <em>ουεβαν, αργου, γουμειε, α, ακροδμαν, ατ̣ι̣αμα, ατεαμα, ατεαμας, δ̣[α?]κ̣ερης, δακαρ</em>
+* `EMPTY` (38): <em>ουεβαν, αργου, ατεαμα, γουμειε, α, ακροδμαν, ατ̣ι̣αμα, ατεαμας, δ̣[α?]κ̣ερης, δακαρ</em>
 
 <table>
   <tr><th>Paradigm <i>ουταν</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt></tt></td><td><em>ουτον</em></td><td><em>ουταν, ουαν, ουτ[αν, ουτ[αν]</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (42) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (41) occur only with one value of `Gender`.
 
 ### `PRON`
 
-147 <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Gender`.
+148 <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (146; 99%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt> (117; 80%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (97; 66%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (147; 99%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt> (119; 80%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (105; 71%), <tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (79; 53%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (9; 6% of non-empty `Gender`): <em>ταν, αυταη, ιαν, ιοι, οαν, οεαυται, ται</em>
-* `Masc` (131; 89% of non-empty `Gender`): <em>ιος, [ιος, [ι]ος, οι, τος, ις, κος, ιοι, [ιο]ς, αυτος</em>
+* `Masc` (132; 89% of non-empty `Gender`): <em>ιος, [ιος, [ι]ος, οι, ις, τος, κος, ιοι, [ιο]ς, αυτος</em>
 * `Neut` (7; 5% of non-empty `Gender`): <em>σεμον, ουα, σε[μουν, σεμουν, σεμυν, του</em>
-* `EMPTY` (4): <em>[ιος, ιου, ις, οι</em>
+* `EMPTY` (2): <em>ιου, οι</em>
 
 <table>
   <tr><th>Paradigm <i>τος</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>ταν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>ταν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>ται</em></td><td><em>του</em></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>το</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>τος</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>τος, τ̣[ος], τ̣ο̣ς̣, το[ς]</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>τος, τ̣[ος], τ̣ο̣ς̣, το[ς]</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>τος</em></td><td></td><td></td></tr>
 </table>
 
 ### `DET`
 
-105 <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Gender`.
+104 <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (104; 99%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (97; 92%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (88; 84%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (102; 98%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (100; 96%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (96; 92%), <tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (91; 88%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (22; 21% of non-empty `Gender`): <em>σα, σας, ουα, σαι, [τ]αι, οι, σ]α, σαν, τ[ο]υ, τα̣ν</em>
+* `Fem` (23; 22% of non-empty `Gender`): <em>σα, σας, ουα, σαι, [τ]αι, οι, σ]α, σαν, τα̣ν, ται</em>
 * `Masc` (1; 1% of non-empty `Gender`): <em>τι</em>
-* `Neut` (82; 78% of non-empty `Gender`): <em>σεμουν, σεμον, σεμου, σεμ[ουν, σεμουν], [σ]εμον, [σε]μ̣ου̣ν, [σεμουν, {σεμον}, κιν</em>
-* `EMPTY` (6): <em>σως, οι, σεμ]ον, ται, τας</em>
+* `Neut` (80; 77% of non-empty `Gender`): <em>σεμουν, σεμον, σεμου, σεμ[ουν, σεμουν], [σ]εμον, [σε]μ̣ου̣ν, [σεμουν, {σεμον}, κιν</em>
+* `EMPTY` (4): <em>σως, οι, σεμ]ον</em>
 
 <table>
-  <tr><th>Paradigm <i>τος</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>τα̣ν</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td></td><td><em>το</em></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>τι</em></td><td><em>[τ]αι, τ[ο]υ</em></td><td><em>τ̣ο</em></td></tr>
+  <tr><th>Paradigm <i>σεμουν</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>{σεμον}, σεμουν</em></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σα, σας</em></td><td><em>σεμον, σεμουν, [σεμουν, σ[εμ]ον, σεμ[ουν, σεμ̣[ουν]</em></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σα, σαι, σ]α, σαν, σας</em></td><td><em>σεμουν, σεμον, σεμου, σεμουν], [σ]εμον, [σε]μ̣ου̣ν, σ[εμουν, σ]εμ̣ουν, σ̣[εμουν, σ̣εμον, σε]μ̣ον, σε]μον, σεμ[ουν, σεμ[υ]ν, σεμ]ουν, σεμ̣[ουν, σεμ̣ιν, σεμιν, σεμιντ, σεμο]υ̣ν, σεμον̣, σεμου[ν, σεμου]ν, σεμουν̣, σεμ⟨ου⟩ν, σιμουν, ⟨σ⟩εμ̣[ουν</em></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>σεμουν</em></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>σας</em></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -132,6 +131,26 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 `Gender` seems to be **lexical feature** of `ADJ`. 100% lemmas (15) occur only with one value of `Gender`.
 
+### `PART`
+
+14 <tt><a href="xpg_kul-pos-PART.html">PART</a></tt> tokens (16% of all `PART` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `PART` and `Gender` co-occurred: <tt><a href="xpg_kul-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 100%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (13; 93%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (11; 79%).
+
+`PART` tokens may have the following values of `Gender`:
+
+* `Masc` (1; 7% of non-empty `Gender`): <em>το</em>
+* `Neut` (13; 93% of non-empty `Gender`): <em>του, τι, τ[ο]υ, τ[ου], τ̣ο, το, του]</em>
+* `EMPTY` (72): <em>νι, [νι, με, ν[ι, ν̣[ι, ν̣ι̣, υ</em>
+
+<table>
+  <tr><th>Paradigm <i>τος</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>τι</em></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>το</em></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>του, τ[ο]υ, τ[ου], τ̣ο, του]</em></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>το</em></td><td></td></tr>
+</table>
+
 ### `X`
 
 6 <tt><a href="xpg_kul-pos-X.html">X</a></tt> tokens (7% of all `X` tokens) have a non-empty value of `Gender`.
@@ -152,14 +171,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="xpg_kul-dep-det.html">det</a></tt>]--> DET</tt> (96; 98%),
+<tt>NOUN --[<tt><a href="xpg_kul-dep-det.html">det</a></tt>]--> DET</tt> (95; 97%),
 <tt>VERB --[<tt><a href="xpg_kul-dep-obl.html">obl</a></tt>]--> PROPN</tt> (43; 88%),
 <tt>VERB --[<tt><a href="xpg_kul-dep-obl.html">obl</a></tt>]--> NOUN</tt> (25; 78%),
 <tt>NOUN --[<tt><a href="xpg_kul-dep-conj.html">conj</a></tt>]--> NOUN</tt> (20; 53%),
 <tt>NOUN --[<tt><a href="xpg_kul-dep-amod.html">amod</a></tt>]--> VERB</tt> (9; 100%),
+<tt>DET --[<tt><a href="xpg_kul-dep-fixed.html">fixed</a></tt>]--> PART</tt> (8; 62%),
 <tt>NOUN --[<tt><a href="xpg_kul-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6; 100%),
-<tt>NOUN --[<tt><a href="xpg_kul-dep-det.html">det</a></tt>]--> PRON</tt> (5; 63%),
+<tt>NOUN --[<tt><a href="xpg_kul-dep-det.html">det</a></tt>]--> PRON</tt> (5; 71%),
 <tt>PROPN --[<tt><a href="xpg_kul-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="xpg_kul-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3; 100%),
-<tt>NOUN --[<tt><a href="xpg_kul-dep-conj.html">conj</a></tt>]--> PROPN</tt> (3; 100%).
+<tt>ADJ --[<tt><a href="xpg_kul-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3; 100%).
 

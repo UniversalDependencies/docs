@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-971 nodes (5%) are attached to their parents as `amod`.
+1148 nodes (5%) are attached to their parents as `amod`.
 
-968 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24613800205973.
+1143 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25783972125436.
 
-The following 19 pairs of parts of speech are connected with `amod`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (865; 89% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (29; 3% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `amod`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1018; 89% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (32; 3% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (25; 2% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (23; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,44 +22,47 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	მარტოხელა	მარტოხელა	ADJ	A_Nom_Att	Case=Nom	2	amod	_	LMSeg:მარტოხელა
-2	კაცი	კაცი	NOUN	N_Hum_Nom_Sg	Animacy=Anim|Case=Nom|Number=Sing	0	root	_	LMSeg:კაც·ი
-3	იყო	არის	AUX	V_Pass_Aor_S:3Sg	Number[subj]=Sing|Person[subj]=3|Tense=Past	2	cop	_	LMSeg:ყოფნ[ა]/ყ[ავ]|SpaceAfter=No
-4	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
+1	მეზობელ	მეზობელი	ADJ	A_Dat_Att	Case=Dat	2	amod	_	LMSeg:მეზობ[ე]ლ·ი
+2	ოთახ	ოთახი	NOUN	N_Dat_Sg_PP_PP:ში	Case=Dat|Number=Sing	5	obl	_	LMSeg:ოთახ·ი|SpaceAfter=No
+3	ში	_ში	ADP	Pp	_	2	case	_	LMSeg:_ში
+4	სიცილი	სიცილი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	5	nsubj	_	LMSeg:სიცილ·ი
+5	გაისმა	გასმენა	VERB	V_Pass_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	LMSeg:გა·სმენ[ა]/სმ
+6	და	და	CCONJ	Cj_Coord	_	8	cc	_	LMSeg:და
+7	მაშინვე	მაშინვე	ADV	Adv_Temp	AdvType=Tim	8	advmod	_	LMSeg:მაშინვე
+8	შეწყდა	შეწყდომა	VERB	V_Pass_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	5	conj	_	LMSeg:შე·წყდომ[ა]/წყდ|SpaceAfter=No
+9	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 amod	color:blue
+1	რა	რა	PRON	Pron_Int_Nonhum_Nom_Att	Case=Nom	3	amod	_	LMSeg:რ[ა]
+2	სულელური	სულელური	ADJ	A_Nom_Att	Case=Nom	3	amod	_	LMSeg:სულელურ·ი
+3	შეგრძნება	შეგრძნება	NOUN	N_Nom_Sg_Encl:Aux	Case=Nom|Number=Sing	0	root	_	LMSeg:შეგრძნებ[ა]|SpaceAfter=No
+4	ა	ყოფნა	AUX	V_MedPass_Pres_S:3Sg_Encl	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	cop	_	LMSeg:ყოფნ[ა]/არ|SpaceAfter=No
+5	!	!	PUNCT	Punct_ExclPoint	_	3	punct	_	LMSeg:!
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 amod	color:blue
-1	დაზარალებულის	დაზარალებული	ADJ	A_Part_PastPart_Pv_Gen_Sg	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part	2	nmod	_	LMSeg:და·ზარალებულ·ი/ზარალ
-2	კითხვა	კითხვა	NOUN	N_VN_Nom_Sg	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	LMSeg:კითხვ[ა]/კითხ|SpaceAfter=No
-3	:	:	PUNCT	Punct_Colon	_	2	punct	_	LMSeg::
-4	რა	რა	PRON	Pron_Int_Nonhum_Nom_Att	Case=Nom	5	amod	_	LMSeg:რ[ა]
-5	სასჯელი	სასჯელი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	nsubj	_	LMSeg:სასჯელ·ი
-6	ელის	ლოდინი	VERB	V_MedAct_Pres_S:3Sg_IO:3	Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres	2	parataxis	_	LMSeg:ლოდინ·ი/ლ
-7	დათა	დათა	PROPN	N_Prop_Anthr_FirstName_Dat_Att	Case=Dat|NameType=Prs	8	nmod:name	_	LMSeg:დათა
-8	თუთაშხიას	თუთაშხია	PROPN	N_Prop_Anthr_LastName_Dat	Case=Dat|NameType=Prs	6	iobj	_	LMSeg:თუთაშხია|SpaceAfter=No
-9	?	?	PUNCT	Punct_IntMark	_	6	punct	_	LMSeg:?
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 amod	color:blue
-1	–	–	PUNCT	Punct_Dash	_	3	punct	_	LMSeg:–
-2	საწყენი	საწყენი	ADJ	A_Part_FutPart_Nom_Sg	Case=Nom|Number=Sing|Tense=Fut|VerbForm=Part	4	amod	_	LMSeg:საწყენ·ი/წყენ
-3	გითხარი	თქმა	VERB	V_Act_Aor_S:1Sg_DO:3_IO:2Sg	Number[io]=Sing|Number[subj]=Sing|Person[io]=2|Person[obj]=3|Person[subj]=1|Tense=Past	0	root	_	LMSeg:თქმ[ა]/თხ[ა]რ
-4	რამე	რამე	PRON	Pron_SIndef_Nonhum_Nom	Case=Nom	3	obj	_	LMSeg:რამ[ე]|SpaceAfter=No
-5	?	?	PUNCT	Punct_IntMark	_	3	punct	_	LMSeg:?
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 amod	color:blue
+1	ასეთთა	ასეთი	PRON	Pron_Indef_Prox_Gen_Pl_OldPl	Case=Gen|Number=Plur|PronType=Ind	2	nmod	_	LMSeg:ასეთ·ი
+2	რიცხვ	რიცხვი	NOUN	N_Dat_Sg_PP_PP:ში	Case=Dat|Number=Sing	0	root	_	LMSeg:რიცხვ·ი|SpaceAfter=No
+3	ში	_ში	ADP	Pp	_	2	case	_	LMSeg:_ში
+4	იყო	ყოფნა	AUX	V_Pass_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	2	cop	_	LMSeg:ყოფნ[ა]/ყ[ავ]
+5	ხსენებული	ხსენებული	ADJ	A_Part_PastPart_Nom_Att	Case=Nom|Tense=Past|VerbForm=Part	6	amod	_	LMSeg:ხსენებულ·ი/ხსენ
+6	ბიბილეიშვილიც	ბიბილეიშვილი	PROPN	N_Prop_Anthr_LastName_Nom_Encl:ც_Foc	Case=Nom|Encl=C|NameType=Prs	2	nsubj	_	LMSeg:ბიბილეიშვილ·ი|SpaceAfter=No
+7	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
 
 ~~~
 

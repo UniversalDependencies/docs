@@ -29,7 +29,8 @@ The most frequent other feature values with which `AUX` and `VerbType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>wees</i></th><th><tt>Cop</tt></th><th><tt>Pas</tt></th></tr>
-  <tr><td><tt><tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>was, gewees</em></td><td><em>is, wees</em></td></tr>
+  <tr><td><tt><tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>was, gewees</em></td><td><em>is</em></td></tr>
+  <tr><td><tt><tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td><em>wees</em></td></tr>
   <tr><td><tt><tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin,Inf</tt></tt></td><td><em>is, wees</em></td><td><em>wees</em></td></tr>
 </table>
 

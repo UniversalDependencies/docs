@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (57; 100% of non-empty `Abbr`): <em>А., В., Н., М., П., С., Д., И., К., Т.</em>
-* `EMPTY` (531): <em>Воронский, Волге, Анжелина, Москва, Москве, Русь, Восток, Иуда, Париж, Россию</em>
+* `EMPTY` (532): <em>Воронский, Волге, Анжелина, Москва, Москве, Русь, Восток, Иуда, Париж, Россию</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (24) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>д., т.</em>
-* `EMPTY` (2780): <em>так, где, как, там, еще, здесь, вдруг, вновь, снова, теперь</em>
+* `EMPTY` (2778): <em>так, где, как, там, еще, здесь, вдруг, вновь, снова, теперь</em>
 
 ### `ADJ`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>п.</em>
-* `EMPTY` (6020): <em>тихий, белый, равно, золотые, милая, последний, первый, черный, белые, лучше</em>
+* `EMPTY` (6019): <em>тихий, белый, равно, золотые, милая, последний, первый, черный, белые, лучше</em>
 
 ### `PRON`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>т.</em>
-* `EMPTY` (3532): <em>я, ты, мне, он, что, мы, меня, все, тебя, нам</em>
+* `EMPTY` (3530): <em>я, ты, мне, он, что, мы, меня, все, тебя, нам</em>
 
 ## Relations with Agreement in `Abbr`
 

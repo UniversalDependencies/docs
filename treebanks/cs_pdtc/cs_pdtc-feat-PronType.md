@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Neg` (1196; 3% of non-empty `PronType`): <em>nikdy, nijak, nikde, nikam, odnikud</em>
 * `Rel` (2; 0% of non-empty `PronType`): <em>jak</em>
 * `Tot` (922; 2% of non-empty `PronType`): <em>vždy, všude, navždy, odjakživa, všudy, odevšad</em>
-* `EMPTY` (120700): <em>už, pak, více, ještě, včera, potom, dnes, velmi, stále, moc</em>
+* `EMPTY` (122186): <em>už, pak, více, ještě, včera, potom, dnes, velmi, stále, moc</em>
 
 <table>
   <tr><th>Paradigm <i>jak</i></th><th><tt>Int,Rel</tt></th><th><tt>Rel</tt></th></tr>

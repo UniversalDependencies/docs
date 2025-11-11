@@ -23,7 +23,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_gsd-pos-ADJ.html
 * `Cmp` (1138; 5% of non-empty `Degree`): <em>später, weitere, weiteren, besser, weiter, früher, stärker, höher, länger, früheren</em>
 * `Pos` (20095; 93% of non-empty `Degree`): <em>gut, ersten, bekannt, erste, kurz, freundlich, schnell, lang, super, neu</em>
 * `Sup` (465; 2% of non-empty `Degree`): <em>nächsten, besten, größten, beste, größte, höchste, bester, wichtigsten, nächste, ältesten</em>
-* `EMPTY` (42): <em>genügend, New, Strange, ein, 60-er, Associate, Catholic, Civil, Communist, Deep</em>
+* `EMPTY` (44): <em>genügend, New, Strange, ein, sog, 60-er, Associate, Catholic, Civil, Communist</em>
 
 <table>
   <tr><th>Paradigm <i>gut</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

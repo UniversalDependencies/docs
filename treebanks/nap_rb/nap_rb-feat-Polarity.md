@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-5 tokens (3%) have a non-empty value of `Polarity`.
+5 tokens (2%) have a non-empty value of `Polarity`.
 2 types (2%) occur at least once with a non-empty value of `Polarity`.
-1 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nap_rb-pos-ADV.html">ADV</a></tt> (5; 3% instances).
+2 lemmas (2%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nap_rb-pos-ADV.html">ADV</a></tt> (5; 2% instances).
 
 ### `ADV`
 

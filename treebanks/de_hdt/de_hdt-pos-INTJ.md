@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-HDT: POS Tags: `INTJ`
 
-There are 13 `INTJ` lemmas (0%), 13 `INTJ` types (0%) and 74 `INTJ` tokens (0%).
+There are 12 `INTJ` lemmas (0%), 13 `INTJ` types (0%) and 74 `INTJ` tokens (0%).
 Out of 16 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>bitte, ja, nein, Ha, Aha, AHA, Ach, Hey, Hü, Pah</em>
+The 10 most frequent `INTJ` lemmas: <em>bitte, ja, nein, aha, ha, ach, hey, hü, pah, tja</em>
 
 The 10 most frequent `INTJ` types:  <em>bitte, ja, nein, Ha, Aha, AHA, Ach, Hey, Hü, Pah</em>
 
-The 10 most frequent ambiguous lemmas: <em>bitte</em> (<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 10, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 5), <em>ja</em> (<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 387, <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 9), <em>Hey</em> (<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="de_hdt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>bitte</em> (<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 24, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 5), <em>ja</em> (<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 387, <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 19), <em>hey</em> (<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="de_hdt-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>bitte</em> (<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 10, <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> 9, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 5), <em>ja</em> (<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 387, <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 9), <em>Ach</em> (<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 1), <em>Hey</em> (<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="de_hdt-pos-X.html">X</a></tt> 1)
 
@@ -35,13 +35,13 @@ The 10 most frequent ambiguous types:  <em>bitte</em> (<tt><a href="de_hdt-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.295646).
+The form / lemma ratio of `INTJ` is 1.083333 (the average of all parts of speech is 1.295657).
 
-The 1st highest number of forms (1) was observed with the lemma “AHA”: <em>AHA</em>.
+The 1st highest number of forms (2) was observed with the lemma “aha”: <em>AHA, Aha</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Ach”: <em>Ach</em>.
+The 2nd highest number of forms (1) was observed with the lemma “ach”: <em>Ach</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Aha”: <em>Aha</em>.
+The 3rd highest number of forms (1) was observed with the lemma “bitte”: <em>bitte</em>.
 
 `INTJ` occurs with 1 features: <tt><a href="de_hdt-feat-PartType.html">PartType</a></tt> (37; 50% instances)
 

@@ -13,9 +13,9 @@ The 10 most frequent `X` lemmas: ⲁⲡⲗⲱⲥ, ⲉⲡⲫⲁⲑⲁ, ⲕⲁⲓ,
 
 The 10 most frequent `X` types:  ⲁⲡⲗⲱⲥ, ⲉⲡⲫⲁⲑⲁ, ⲕⲉ, ⲕⲟⲩⲙ, ⲙⲟⲛⲟⲛ, ⲟⲩ, ⲣⲁⲃⲃⲓ, ⲧⲁⲩⲧⲁ
 
-The 10 most frequent ambiguous lemmas: ⲕⲁⲓ (<tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1), ⲙⲟⲛⲟⲛ (<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1), ⲟⲩ (<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 772, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 55, <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: ⲕⲁⲓ (<tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1), ⲙⲟⲛⲟⲛ (<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1), ⲟⲩ (<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 771, <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 56, <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  ⲕⲉ (<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 61, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1), ⲙⲟⲛⲟⲛ (<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1), ⲟⲩ (<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 616, <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 560, <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  ⲕⲉ (<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 61, <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> 1, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1), ⲙⲟⲛⲟⲛ (<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1), ⲟⲩ (<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 617, <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 559, <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1)
 
 
 * ⲕⲉ
@@ -26,14 +26,14 @@ The 10 most frequent ambiguous types:  ⲕⲉ (<tt><a href="cop_bohairic-pos-DET
   * <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 2: ⲓⲏⲥⲟⲩⲥ ⲇⲉ ⲉⲧ ⲁ ϥ ⲥⲱⲧⲉⲙ ⲉ ⲡⲓ ⲥⲁϫⲓ ⲉⲧ ⲟⲩ ϫⲱ ⲙⲙⲟ ϥ ⲡⲉϫⲁ ϥ ⲙ ⲡⲓ ⲁⲣⲭⲏⲥⲩⲛⲁⲅⲱⲅⲟⲥ ϫⲉ ⲙⲡⲉⲣ ⲉⲣϩⲟϯ <b>ⲙⲟⲛⲟⲛ</b> ⲛⲁϩϯ
   * <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1: ⲁ ϥ ⲉⲣⲟⲩⲱ ⲛϫⲉ ⲡⲓ ⲁⲗⲟⲩ ⲉⲑ ⲟⲩⲁⲃ ⲓⲥⲁⲁⲕ ⲉ ϥ ϫⲱ ⲙⲙⲟ ⲥ ϫⲉ ⲕⲁⲗⲱⲥ ⲙⲉⲛ ⲁ ⲕ ϯⲥⲃⲱ ⲛⲏ ⲓ ⲱ ⲡⲁ ⲓⲱⲧ ⲉⲑ ⲟⲩⲁⲃ ⲟⲩ <b>ⲙⲟⲛⲟⲛ</b> ⲉ ϭⲟϫⲓ ⲛⲥⲱ ⲕ ⲁⲗⲗⲁ ϯ ⲥⲉⲃⲧⲱⲧ ⲉ ⲙⲟⲩ ⲉϫⲉⲛ ⲫ ⲣⲁⲛ ⲙ ⲡⲉⲛ ϭⲟⲉⲓⲥ ⲓⲏⲥⲟⲩⲥ ⲡ ⲭⲣⲓⲥⲧⲟⲥ ⲫⲁⲓ ⲉⲧ ⲁ ⲓ ⲭⲁ ϩⲱⲃ ⲛⲓⲃⲉⲛ ⲛⲥⲱ ⲓ ⲟⲩⲟϩ ⲁ ⲓ ⲟⲩⲁϩ ⲅ ⲛⲥⲱ ϥ ⲉϣⲱⲡ ϯ ⲛⲁ ⲉⲣ ⲡⲉ ⲙⲡϣⲁ ⲙ ⲡⲓ ⲱⲛϧ ⲛ ⲉⲛⲉϩ ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ ⲧⲉϥ ⲙⲉⲧⲁⲅⲁⲑⲟⲥ .
 * ⲟⲩ
-  * <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 616: ⲟⲩⲟϩ ⲁ ⲩ ϣⲉ ⲛⲱ <b>ⲟⲩ</b> ϩⲓ ⲡⲓ ϫⲟⲉⲓ ⲉ ⲟⲩ ⲙⲁ ⲛ ϣⲁϥⲉ ⲥⲁ ⲡ ⲥⲁ .
-  * <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 560: ⲛⲉ ⲟⲩⲟⲛ <b>ⲟⲩ</b> ⲁⲅⲉⲗⲏ ⲇⲉ ⲛ ⲣⲓⲣ ⲉ ⲥ ⲟϣ ⲙⲙⲁⲩ ⲡⲉ ⲉ ⲥ ⲙⲟⲛⲓ ϧⲁⲧⲉⲛ ⲡⲓ ⲧⲱⲟⲩ
+  * <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> 617: ⲟⲩⲟϩ ⲁ ⲩ ϣⲉ ⲛⲱ <b>ⲟⲩ</b> ϩⲓ ⲡⲓ ϫⲟⲉⲓ ⲉ ⲟⲩ ⲙⲁ ⲛ ϣⲁϥⲉ ⲥⲁ ⲡ ⲥⲁ .
+  * <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> 559: ⲛⲉ ⲟⲩⲟⲛ <b>ⲟⲩ</b> ⲁⲅⲉⲗⲏ ⲇⲉ ⲛ ⲣⲓⲣ ⲉ ⲥ ⲟϣ ⲙⲙⲁⲩ ⲡⲉ ⲉ ⲥ ⲙⲟⲛⲓ ϧⲁⲧⲉⲛ ⲡⲓ ⲧⲱⲟⲩ
   * <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> 4: <b>ⲟⲩ</b> ⲅⲁⲣ ⲙⲡ ⲟⲩ ⲕⲁϯ ⲉϫⲉⲛ ⲛⲓ ⲱⲓⲕ ⲁⲗⲗⲁ ⲛⲁⲣⲉ ⲡⲟⲩ ϩⲏⲧ ⲑⲏⲙ ⲡⲉ
   * <tt><a href="cop_bohairic-pos-X.html">X</a></tt> 1: <b>ⲟⲩ</b> ⲅⲁⲣ ⲙⲙⲟⲛ ⲡ ⲉⲧ ϩⲏⲡ ⲁ ϥ ϣⲧⲉⲙ ⲟⲩⲱⲛϩ ⲉⲃⲟⲗ ⲟⲩⲇⲉ ⲙⲡⲁ ϥ ϣⲱⲡⲓ ⲉ ϥ ϩⲏⲡ ⲉⲃⲏⲗ ϫⲉ ϩⲓⲛⲁ ⲛⲧⲉ ϥ ⲓ ⲉ ϥ ⲟⲩⲱⲛϩ .
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.145366).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.149363).
 
 The 1st highest number of forms (1) was observed with the lemma “ⲁⲡⲗⲱⲥ”: ⲁⲡⲗⲱⲥ.
 

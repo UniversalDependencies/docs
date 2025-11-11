@@ -9,12 +9,32 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>.
 There are also 2 other language-specific subtypes of `advcl`: <tt><a href="la_perseus-dep-advcl-abs.html">advcl:abs</a></tt>, <tt><a href="la_perseus-dep-advcl-cmp.html">advcl:cmp</a></tt>.
 
-8 nodes (0%) are attached to their parents as `advcl:pred`.
+13 nodes (0%) are attached to their parents as `advcl:pred`.
 
-5 instances of `advcl:pred` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.875.
+9 instances of `advcl:pred` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.46153846153846.
 
-The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (3; 38% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2; 25% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 13% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 13% instances).
+The following 8 pairs of parts of speech are connected with `advcl:pred`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (3; 23% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2; 15% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 advcl:pred	color:blue
+1	Patriciorum	patricius	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+2	numerum	numerus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+3	auxi	augeo	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+4	consul	consul	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	advcl:pred	_	_
+5	quintum	quintum	ADV	a-s---ma-	NumType=Ord	4	advmod	_	LId=quintus1
+6	iussu	iussus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	3	obl	_	LId=jussus2
+7	populi	populus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	LId=populus1
+8	et	et	CCONJ	c--------	_	9	cc	_	_
+9	senatus	senatus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
+
+~~~
 
 
 ~~~ conllu
@@ -55,32 +75,6 @@ The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 6	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
 7	labori	labor	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	3	obl:arg	_	SpaceAfter=No|LId=labor2
 8	.	.	PUNCT	u--------	_	3	punct	_	LId=punc1
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 10 advcl:pred	color:blue
-1	Mons	mons	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LId=mons1
-2	ibi	ibi	ADV	d--------	AdvType=Loc	4	advmod:lmod	_	LId=ibi1
-3	verticibus	vertex	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	4	obl	_	LId=vertex1
-4	petit	peto	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=peto1|TraditionalMood=Indicativus|TraditionalTense=Praesens
-5	arduus	arduus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	amod	_	LId=arduus1
-6	astra	astrum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	LId=astrum1
-7	duobus	duo	NUM	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	SpaceAfter=No|LId=duo1
-8	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
-9	nomine	nomen	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	LId=nomen1
-10	Parnasus	Parnasus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	advcl:pred	_	SpaceAfter=No|LId=Parnasus1
-11	,	,	PUNCT	u--------	_	12	punct	_	LId=comma1
-12	superant	supero	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-13	que	que	CCONJ	c--------	_	12	cc	_	LId=que1
-14	cacumina	cacumen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	LId=cacumen1
-15	nubes	nubes	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No|LId=nubes1
-16	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
 
 ~~~
 

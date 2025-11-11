@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of cop in UD_Kurmanji-MG'
+title:  'Statistics of cop in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `cop`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `cop`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 236 instances of `cop` (92%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.43190661478599.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (159; 62% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (56; 22% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (16; 6% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (13; 5% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (7; 3% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (159; 62% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (56; 22% instances), <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (16; 6% instances), <tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (13; 5% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (7; 3% instances), <tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kmr_kurmanji-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

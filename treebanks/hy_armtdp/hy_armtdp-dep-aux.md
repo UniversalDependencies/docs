@@ -7,46 +7,48 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-ArmTDP: Relations: `aux`
 
 This relation is universal.
-There are 2 language-specific subtypes of `aux`: <tt><a href="hy_armtdp-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="hy_armtdp-dep-aux-ex.html">aux:ex</a></tt>.
+There are 1 language-specific subtypes of `aux`: <tt><a href="hy_armtdp-dep-aux-caus.html">aux:caus</a></tt>.
 
-2646 nodes (5%) are attached to their parents as `aux`.
+4717 nodes (5%) are attached to their parents as `aux`.
 
-1550 instances of `aux` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1307634164777.
+2834 instances of `aux` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11469154123383.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2577; 97% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (38; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="hy_armtdp-pos-X.html">X</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (4633; 98% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (50; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (29; 1% instances), <tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hy_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 aux	color:blue
-1	Բախն	Բախ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	5	nsubj	_	Translit=Baxn|LTranslit=Bax
-2	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	4	det:poss	_	Translit=ir|LTranslit=ink’ë
-3	լավագույն	լավ	ADJ	_	Degree=Sup	4	amod	_	Translit=lavagowyn|LTranslit=lav
-4	կանտատները	կանտատ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	5	obj	_	Translit=kantatnerë|LTranslit=kantat
-5	գրել	գրել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=grel|LTranslit=grel
-6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=ē|LTranslit=em
-7	երիտասարդ	երիտասարդ	ADJ	_	Degree=Pos	8	amod	_	Translit=eritasard|LTranslit=eritasard
-8	տարիքում	տարիք	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	5	obl	_	Translit=tarik’owm|LTranslit=tarik’|SpaceAfter=No
-9	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 aux	color:blue
+1	Էջմիածնի	Էջմիածին	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	Translit=Ēǰmiaçni|LTranslit=Ēǰmiaçin
+2	մասնակցությունն	մասնակցություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	7	nsubj	_	Translit=masnakc’owt’yownn|LTranslit=masnakc’owt’yown
+3	էլ	էլ	ADV	_	_	2	advmod:emph	_	Translit=ēl|LTranslit=ēl
+4	ձևական	ձևական	ADJ	_	_	5	amod	_	Translit=jewakan|LTranslit=jewakan
+5	բնույթ	բնույթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	compound:lvc	_	Translit=bnowyt’|LTranslit=bnowyt’
+6	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	7	aux	_	Translit=ēr|LTranslit=em
+7	կրում	կրել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=krowm|LTranslit=krel|SpaceAfter=No
+8	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 aux	color:blue
-1	Ուժասպառ	ուժասպառ	ADJ	_	_	0	root	_	Translit=OWžaspaṙ|LTranslit=owžaspaṙ
-2	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	Translit=em|LTranslit=em
-3	եղել	լինել	AUX	_	Aspect=Perf|VerbForm=Part	1	aux	_	Translit=eġel|LTranslit=linel
-4	Ֆինլանդիայում	Ֆինլանդիա	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	1	obl	_	Translit=Finlandiayowm|LTranslit=Finlandia|SpaceAfter=No
-5	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+# visual-style 1 2 aux	color:blue
+1	Հաճելի	հաճելի	ADJ	_	Degree=Pos	0	root	_	Translit=Hač̣eli|LTranslit=hač̣eli
+2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=ē|LTranslit=em
+3	երազել	երազել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	csubj	_	Translit=erazel|LTranslit=erazel|SpaceAfter=No
+4	՝	՝	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+5	Երևան	Երևան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	3	parataxis	_	Translit=Erewan|LTranslit=Erewan|SpaceAfter=No
+6	—	—	PUNCT	_	_	7	punct	_	Translit=—|LTranslit=—|SpaceAfter=No
+7	Ջերմուկ	Ջերմուկ	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	5	flat:range	_	Translit=J̌ermowk|LTranslit=J̌ermowk|SpaceAfter=No
+8	...	...	PUNCT	_	_	1	punct	_	Translit=...|LTranslit=...
 
 ~~~
 

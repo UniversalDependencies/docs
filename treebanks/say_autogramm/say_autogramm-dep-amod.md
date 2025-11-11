@@ -8,81 +8,74 @@ udver: '2'
 
 This relation is universal.
 
-70 nodes (0%) are attached to their parents as `amod`.
+95 nodes (0%) are attached to their parents as `amod`.
 
-56 instances of `amod` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07142857142857.
+73 instances of `amod` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.01052631578947.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (64; 91% instances), <tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (87; 92% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 amod	color:blue
-1	tsə́tngə́n	tsə́tn	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	dislocated	_	AlignBegin=51277|AlignEnd=51436|Gloss=sit
-2	də̀n	də̀n	NOUN	_	_	1	dep	_	AlignBegin=51595|AlignEnd=51913|Gloss=house
-3	máː	máː	PART	_	_	1	advmod	_	AlignBegin=51913|AlignEnd=52231|Gloss=even
-4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=52231|AlignEnd=52549|Gloss=PUNCT
-5	myáː	_	AUX	yáː	Aspect=Imp|Number=Sing|Person=1	6	aux	_	AlignBegin=52549|AlignEnd=52732|Gloss=1Sing.Imp
-6	yel	yel	VERB	_	_	7	parataxis	_	AlignBegin=52732|AlignEnd=52915|Gloss=see
-7	nə	nə	PART	_	_	0	root	_	AlignBegin=52915|AlignEnd=53098|Gloss=be
-8	lǎː	laː	NOUN	_	Definite=Cons	7	xcomp	_	AlignBegin=53098|AlignEnd=53190|Gloss=work
-9	bàptàk	bàptàk	ADJ	_	_	8	amod	_	AlignBegin=53281|AlignEnd=53464|Gloss=useless|Ideophon=Yes
-10	ɓas	ɓas	ADP	_	_	11	case	_	AlignBegin=53464|AlignEnd=53556|Gloss=of
-11	=mí	=mí	PRON	_	Number=Plur|Person=1|PronType=Prs	7	dep	_	AlignBegin=53556|AlignEnd=53647|Gloss=1Plur.Obj
-12	//	//	PUNCT	_	_	7	punct	_	AlignBegin=53647|AlignEnd=53829|Gloss=PUNCT
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 amod	color:blue
+1	yǎː	_	AUX	yáː	Mood=Cnd|Number=Plur|Person=3	2	aux	_	AlignBegin=162844|AlignEnd=163093|Gloss=3Plur.Cnd
+2	yêl	yel	VERB	_	_	9	advcl	_	AlignBegin=163093|AlignEnd=163342|Gloss=see
+3	zǎːr	zaːr	NOUN	_	Definite=Cons	2	obj	_	AlignBegin=163342|AlignEnd=163466|Gloss=human
+4	ʒèlì	ʒèlì	ADJ	_	_	3	amod	_	AlignBegin=163591|AlignEnd=163715|Gloss=red
+5	àː	ŋaː	PART	_	Mood=Irr|PartType=Illoc	2	advmod	_	AlignBegin=163715|AlignEnd=163840|Gloss=Irr
+6	<	<	PUNCT	_	_	2	punct	_	AlignBegin=163840|AlignEnd=164089|Gloss=PUNCT
+7	tu	tu	SCONJ	_	_	9	discourse	_	AlignBegin=164089|AlignEnd=164253|Gloss=Qot
+8	ʧàː	_	AUX	yáː	Aspect=Imp|Number=Plur|Person=3	9	aux	_	AlignBegin=164253|AlignEnd=164417|Gloss=3Plur.Imp
+9	súː	súː	VERB	_	_	0	root	_	AlignBegin=164417|AlignEnd=164499|Gloss=want
+10	tə	tə	PRON	_	Number=Sing|Person=3|PronType=Prs	9	obj	_	AlignBegin=164499|AlignEnd=164581|Gloss=3Sing.Obj|Object=ObjRaising|wordform==tə
+11	yélɣə́nì	yel	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	9	obl	_	AlignBegin=164745|AlignEnd=164827|Gloss=see.Vnoun|Object=ObjRaising
+12	òː	oː	PART	_	Mood=Ast|PartType=Illoc	9	advmod	_	AlignBegin=164909|AlignEnd=165073|Gloss=Assert
+13	//	//	PUNCT	_	_	9	punct	_	AlignBegin=165237|AlignEnd=165405|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 amod	color:blue
-1	tôː	tòː	PART	_	_	3	discourse	_	AlignBegin=217541|AlignEnd=217757|Gloss=DM
-2	mətá	_	AUX	taa	Number=Sing|Person=1|Tense=Rem	3	aux	_	AlignBegin=217757|AlignEnd=217973|Gloss=1Sing.Rem
-3	ɗakás	ɗakás	VERB	_	_	0	root	_	AlignBegin=217973|AlignEnd=218081|Gloss=be_unfinished
-4	=mə	=mə	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obj	_	AlignBegin=218081|AlignEnd=218189|Gloss=1Sing.Obj
-5	ŋaː	ŋaː	ADJ	_	_	6	amod	_	AlignBegin=218189|AlignEnd=218405|Gloss=small
-6	nʤwâːtn	nʤwâːtn	ADJ	_	_	3	advcl	_	AlignBegin=218405|AlignEnd=218621|Gloss=small
-7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=218621|AlignEnd=218840|Gloss=PUNCT
+# visual-style 5 4 amod	color:blue
+1	séː	séː	ADV	_	_	3	advmod	_	AlignBegin=65047|AlignEnd=65225|Gloss=then
+2	tə́	_	AUX	ø	Aspect=Aor|Number=Plur|Person=3	3	aux	_	AlignBegin=65225|AlignEnd=65403|Gloss=3Plur.Aor
+3	fî	fi	VERB	_	_	0	root	_	AlignBegin=65403|AlignEnd=65581|Gloss=do
+4	ŋaː	ŋaː	ADJ	_	_	5	amod	_	AlignBegin=65581|AlignEnd=65759|Gloss=little
+5	gón	gón	PRON	_	Definite=Spec	3	obj	_	AlignBegin=65759|AlignEnd=65937|Gloss=Spec
+6	nə	nə	ADP	_	_	10	case	_	AlignBegin=65937|AlignEnd=66115|Gloss=DER
+7	ʒèy	ʒà	NOUN	_	Definite=Ind|ExtPos=ADJ	10	compound	_	AlignBegin=66115|AlignEnd=66292|Gloss=honey|wordform=ʒà
+8	kwaː	kuwa	PART	_	Foreign=Yes|PartType=Top	7	discourse	_	AlignBegin=66292|AlignEnd=66506|Gloss=also|Lang=ha
+9	ŋaː	ŋaː	ADJ	_	_	10	amod	_	AlignBegin=66506|AlignEnd=66720|Gloss=small
+10	gwaɬkay	gwaɬka	NOUN	_	ExtPos=ADJ	5	nmod	_	AlignBegin=66720|AlignEnd=66934|Gloss=quartzite|wordform=gwaɬka
+11	máy	máy	X	_	Foreign=Yes	10	nmod	_	AlignBegin=66934|AlignEnd=67148|Gloss=with|Lang=ha
+12	kyâw	kyâw	X	_	Foreign=Yes	11	flat:foreign	_	AlignBegin=67148|AlignEnd=67362|Gloss=goodness|Lang=ha
+13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=67362|AlignEnd=67573|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 15 amod	color:blue
-1	ngaːláy	ngaːlá	ADV	_	Aspect=Res|ExtPos=ADV	14	advmod	_	AlignBegin=297847|AlignEnd=298098|Gloss=spend_time-Res|wordform=ngaːlá
-2	naːkâm	naːkâm	NOUN	_	_	6	reparandum	_	AlignBegin=298098|AlignEnd=298349|Gloss=friend
-3	gə́	kə́	ADP	_	_	4	case	_	AlignBegin=298600|AlignEnd=298851|Gloss=of
-4	də̌ːr	də̌ːr	NOUN	_	_	2	nmod	_	AlignBegin=298851|AlignEnd=299102|Gloss=lizard
-5	||	||	PUNCT	_	_	2	punct	_	AlignBegin=299102|AlignEnd=299354|Gloss=PUNCT
-6	naːkâm	naːkâm	NOUN	_	_	14	obl	_	AlignBegin=299354|AlignEnd=299559|Gloss=friend
-7	gə́	kə́	ADP	_	_	8	case	_	AlignBegin=299764|AlignEnd=299969|Gloss=of
-8	də̌ːr	də̌ːr	NOUN	_	_	6	nmod	_	AlignBegin=299969|AlignEnd=300174|Gloss=lizard
-9	káwây	káwây	ADV	_	_	6	advmod	_	AlignBegin=300174|AlignEnd=300379|Gloss=merely
-10	|a	|a	PUNCT	_	_	11	punct	_	AlignBegin=300379|AlignEnd=300584|Gloss=PUNCT
-11	longa	longa	NOUN	_	_	6	appos	_	AlignBegin=300856|AlignEnd=301070|Gloss=rabbit
-12	<	<	PUNCT	_	_	6	punct	_	AlignBegin=301070|AlignEnd=301285|Gloss=PUNCT
-13	àː	_	AUX	àː	Aspect=Perf|Number=Sing|Person=3	14	aux	_	AlignBegin=302042|AlignEnd=302329|Gloss=3Sing.Perf
-14	náːt	nat	VERB	_	Number=Plur	0	root	_	AlignBegin=302329|AlignEnd=302616|Gloss=tie.Plur
-15	ʃéːgè	ʃéːgè	NOUN	_	ExtPos=ADJ	17	amod	_	AlignBegin=302616|AlignEnd=302903|Gloss=bastard|Lang=ha
-16	nâs	nâs	ADJ	_	_	17	amod	_	AlignBegin=302903|AlignEnd=303190|Gloss=big
-17	gingə́ri	gingə́ri	NOUN	_	_	14	obj	_	AlignBegin=303190|AlignEnd=303286|Gloss=baobab_cake
-18	=wòs	=wos	PRON	_	Number=Sing|Person=3|PronType=Prs	17	nmod:poss	_	AlignBegin=303286|AlignEnd=303382|Gloss=3Sing.Gen
-19	=ɗi	=ɗi	PART	_	_	14	compound:prt	_	AlignBegin=303382|AlignEnd=303477|Gloss=Ctp
-20	á	ká	ADP	_	_	21	case	_	AlignBegin=303477|AlignEnd=303764|Gloss=at
-21	yáːsəŋ	yáːsəŋ	NOUN	_	_	14	obl:arg	_	AlignBegin=303764|AlignEnd=304051|Gloss=leg
-22	//	//	PUNCT	_	_	14	punct	_	AlignBegin=304051|AlignEnd=304341|Gloss=PUNCT
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	dzàŋ	dzàŋ	NOUN	_	_	5	obl	_	AlignBegin=823960|AlignEnd=824147|Gloss=day
+2	gêːs	gíː	DET	_	Deixis=Remt|PronType=Dem	1	det	_	AlignBegin=824147|AlignEnd=824241|Gloss=Rmt.Def|PrevRef=Yes|wordform=gíː
+3	ɗə́kés	ɗə̂ɣn	NOUN	_	Definite=Def	5	nsubj	_	AlignBegin=824900|AlignEnd=825018|Gloss=world.Def|wordform=ɗə̂ɣn
+4	wò	_	AUX	a	Number=Sing|Person=3|Tense=Fut	5	aux	_	AlignBegin=825137|AlignEnd=825374|Gloss=3Sing.Fut
+5	vuː	vuː	VERB	_	_	0	root	_	AlignBegin=825374|AlignEnd=825611|Gloss=suffer
+6	kúskə̀	kúskə̀	ADJ	_	_	7	amod	_	AlignBegin=825611|AlignEnd=825848|Gloss=evil
+7	vùːɣə̀n	vuː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	obj	_	AlignBegin=825848|AlignEnd=825966|Gloss=suffer-Vnoun|wordform=vuː
+8	//	//	PUNCT	_	_	5	punct	_	AlignBegin=826085|AlignEnd=826320|Gloss=PUNCT
 
 ~~~
 

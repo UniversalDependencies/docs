@@ -14,35 +14,35 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 8689 tokens (20%) have a non-empty value of `Person`.
 785 types (17%) occur at least once with a non-empty value of `Person`.
 382 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4617; 10% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (2549; 6% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1523; 3% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4617; 10% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (2523; 6% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1549; 4% instances).
 
 ### `PRON`
 
 4617 <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3331; 72%), <tt><a href="fr_rhapsodie-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3062; 66%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3331; 72%), <tt><a href="fr_rhapsodie-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3062; 66%), <tt><a href="fr_rhapsodie-feat-Emph.html">Emph</a></tt><tt>=No</tt> (2735; 59%), <tt><a href="fr_rhapsodie-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2354; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1094; 24% of non-empty `Person`): <em>je, j', nous, me, moi, m', -moi, -nous, moi-même</em>
 * `2` (564; 12% of non-empty `Person`): <em>vous, tu, -vous, te, t', toi, -tu, vous-même, -toi</em>
 * `3` (2959; 64% of non-empty `Person`): <em>c', il, on, ça, y, ce, ils, se, elle, s'</em>
-* `EMPTY` (739): <em>qui, que, où, qu', dont, rien, j~, lequel, laquelle, personne</em>
+* `EMPTY` (721): <em>qui, que, où, qu', dont, rien, lequel, laquelle, personne, aucun</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (31) occur only with one value of `Person`.
 
 ### `VERB`
 
-2549 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Person`.
+2523 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2549; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2544; 100%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2372; 93%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2193; 86%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1938; 76%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_rhapsodie-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2523; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2518; 100%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2349; 93%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2168; 86%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1912; 76%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (602; 24% of non-empty `Person`): <em>ai, crois, sais, vais, avais, pense, veux, vois, disons, aime</em>
 * `2` (401; 16% of non-empty `Person`): <em>allez, avez, continuez, voulez, voyez, pouvez, savez, passez, prenez, arrives</em>
-* `3` (1546; 61% of non-empty `Person`): <em>a, est, va, faut, peut, avait, fait, ont, dit, voit</em>
-* `EMPTY` (1668): <em>dire, voilà, faire, dit, fait, avoir, aller, eu, voir, passer</em>
+* `3` (1520; 60% of non-empty `Person`): <em>a, est, va, faut, peut, avait, fait, ont, dit, voit</em>
+* `EMPTY` (1626): <em>dire, voilà, faire, dit, fait, avoir, aller, eu, voir, passer</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -57,15 +57,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-1523 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
+1549 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1523; 100%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1483; 97%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1339; 88%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1287; 85%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1549; 100%), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1507; 97%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1364; 88%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1313; 85%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (240; 16% of non-empty `Person`): <em>ai, suis, étais, avons, sommes, aurais, avais, serais, serons, aurai</em>
+* `1` (240; 15% of non-empty `Person`): <em>ai, suis, étais, avons, sommes, aurais, avais, serais, serons, aurai</em>
 * `2` (67; 4% of non-empty `Person`): <em>avez, êtes, étiez, as, aviez, ayez, es, seras, sois, soyez</em>
-* `3` (1216; 80% of non-empty `Person`): <em>est, a, était, sont, ont, avait, étaient, sera, soit, fait</em>
+* `3` (1242; 80% of non-empty `Person`): <em>est, a, était, sont, ont, avait, étaient, soit, sera, fait</em>
 * `EMPTY` (117): <em>être, été, faire, avoir, fait, ayant, faisant, étant</em>
 
 <table>
@@ -89,14 +89,14 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1612; 71%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (297; 93%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (253; 87%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1594; 72%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (291; 91%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (256; 87%),
 <tt>AUX --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (110; 93%),
-<tt>PRON --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (92; 84%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (83; 64%),
-<tt>PRON --[<tt><a href="fr_rhapsodie-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (62; 65%),
-<tt>PRON --[<tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt>]--> AUX</tt> (56; 58%),
+<tt>PRON --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (92; 97%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (83; 73%),
+<tt>PRON --[<tt><a href="fr_rhapsodie-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (61; 65%),
+<tt>PRON --[<tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt>]--> AUX</tt> (56; 57%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> VERB</tt> (53; 70%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (52; 66%).
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (48; 62%).
 

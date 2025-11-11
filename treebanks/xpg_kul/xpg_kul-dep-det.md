@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-116 nodes (7%) are attached to their parents as `det`.
+114 nodes (7%) are attached to their parents as `det`.
 
-110 instances of `det` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22413793103448.
+109 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23684210526316.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (102; 88% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (8; 7% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-DET.html">DET</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (102; 89% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (7; 6% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt>-<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984539|1|1
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM984539|1|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM984539|1|2
 3	σεμυν	σεμουν	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM984539|1|3
 4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM984539|1|4
@@ -66,9 +66,9 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 21 det	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867070|2|1
+1	ιος	ios	PRON	_	Case=Nom|ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Ref=TM867070|2|1
 2	νι	ni	PART	_	_	1	fixed	_	Ref=TM867070|2|2
-3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing	4	det	_	Ref=TM867070|2|3
+3	σεμουν	σεμουν	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	Ref=TM867070|2|3
 4	κνουμανει	κνουμανει	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	Ref=TM867070|2|4
 5	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=TM867070|2|5
 6	αδδακετ	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	_	SpaceAfter=No|Ref=TM867070|2|6
@@ -86,7 +86,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 18	❧	❧	SYM	_	_	9	dep	_	Ref=TM867070|2|18
 19	αυτος	αυτος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	26	nsubj	_	Ref=TM867070|2|19
 20	κε	ke	CCONJ	_	_	26	cc	_	Ref=TM867070|2|20
-21	ουα	va	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes	22	det	_	Ref=TM867070|2|21
+21	ουα	va	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	Ref=TM867070|2|21
 22	κο̣?ροκα	κο?ροκα	X	_	_	26	dep	_	Ref=TM867070|2|22
 23	γεγαριτμενος	γεγαριτμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	19	amod	_	Ref=TM867070|2|23
 24	ας	as	ADP	_	_	25	case	_	Ref=TM867070|2|24

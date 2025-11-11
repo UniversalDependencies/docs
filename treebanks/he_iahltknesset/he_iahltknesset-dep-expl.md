@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 29 27 expl	color:blue
 1	גם	גם	ADV	ADV	_	2	advmod	_	_
 2	הצלחת	הצלחה	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=2|Tense=Past|Voice=Act	0	root	_	_
-3	תוך	תוך	ADP	ADP	_	5	case	_	_
+3	תוך	תוך	ADP	ADP	ExtPos=ADP	5	case	_	_
 4	כדי	כדי	ADP	ADP	_	3	fixed	_	_
 5	עבודה	עבודה	NOUN	NOUN	Gender=Fem|Number=Sing	2	obl	_	_
 6	לעשות	עשה	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	2	xcomp	_	_
@@ -105,7 +105,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	ש	ש	SCONJ	SCONJ	_	8	mark	_	_
 7	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj:pass	_	_
 8	נעשה	נעשה	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	ccomp	_	_
-9	על	על	ADP	ADP	_	12	case	_	SpaceAfter=No
+9	על	על	ADP	ADP	ExtPos=ADP	12	case	_	SpaceAfter=No
 10	-	-	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
 11	יד	יד	NOUN	NOUN	Gender=Fem|Number=Sing	9	fixed	_	_
 12	ך	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
@@ -124,7 +124,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 25	את	את	ADP	ADP	Case=Acc	28	case	_	_
 26	כל	כול	DET	DET	Definite=Cons|PronType=Tot	28	det	_	_
 27	ה	ה	DET	DET	Definite=Def|PronType=Art	28	det	_	_
-28	ידע	ידע	NOUN	NOUN	Gender=Masc|Number=Sing	21	obj	_	_
+28	ידע	ידע	NOUN	NOUN	Gender=Masc|Number=Sing	22	appos	_	_
 29	ה	ה	DET	DET	Definite=Def|PronType=Art	30	det	_	_
 30	פילוסופי	פילוסופי	ADJ	ADJ	Gender=Masc|Number=Sing	28	amod	_	_
 31	של	של	ADP	ADP	Case=Gen	32	case	_	_
@@ -180,7 +180,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 81	ו	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	82	obl	_	_
 82	לימדו	לימד	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Plur|Person=3|Tense=Past|Voice=Act	78	acl:relcl	_	_
 83	אות	את	ADP	ADP	Case=Acc	84	case	_	_
-84	נו	הוא	PRON	PRON	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	82	obj	_	_
+84	נו	הוא	PRON	PRON	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	82	iobj	_	_
 85	אות	את	ADP	ADP	Case=Acc	86	case	_	_
 86	ם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	82	obj	_	_
 87	גרם	גרם	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	75	acl:relcl	_	_

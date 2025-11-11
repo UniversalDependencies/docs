@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	tá	estar	AUX	_	Abbr=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	saindo	sair	VERB	_	VerbForm=Ger	0	root	0:root	_
 5	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
-6	enterrinho	enterrinho	NOUN	_	Gender=Masc|Number=Sing	4	obj	4:obj	_
+6	enterrinho	enterrinho	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	_
 7	ali	ali	ADV	_	_	4	advmod	4:advmod	_
 8	agora	agora	ADV	_	_	4	advmod	4:advmod	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	4:punct	_
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 10 12 vocative	color:blue
 1	Dom	Dom	PROPN	_	_	4	nsubj	4:nsubj|8:nsubj	_
 2	Pedro	Pedro	PROPN	_	_	1	flat:name	1:flat:name	_
-3	1º	1º	ADJ	_	Gender=Masc|NumType=Ord	1	amod	1:amod	_
+3	1º	1º	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	1	nmod	1:nmod	_
 4	levantou	levantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
 6	espada	espada	NOUN	_	Gender=Fem|Number=Sing	4	obj	4:obj	_

@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sv_lines-pos-PART.h
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (765; 100% of non-empty `Polarity`): <em>inte, ej, icke</em>
-* `EMPTY` (1542): <em>att, inte, så, 's, to</em>
+* `EMPTY` (1525): <em>att, inte, 's, to</em>
 
 ### `ADV`
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (124; 100% of non-empty `Polarity`): <em>aldrig, ingalunda, knappast</em>
-* `EMPTY` (7607): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
+* `EMPTY` (7632): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
 

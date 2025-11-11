@@ -8,29 +8,24 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hy_bsut-dep-case.html">case</a></tt>.
 
-29 nodes (0%) are attached to their parents as `case:loc`.
+27 nodes (0%) are attached to their parents as `case:loc`.
 
-29 instances of `case:loc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.48275862068966.
+27 instances of `case:loc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.51851851851852.
 
-The following 5 pairs of parts of speech are connected with `case:loc`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (23; 79% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `case:loc`: <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (23; 85% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 case:loc	color:blue
-1	Կոմիքս	կոմիքս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Komik’s|LTranslit=komik’s
-2	կամ	կամ	CCONJ	_	_	3	cc	_	Translit=kam|LTranslit=kam
-3	ծաղրաշար	ծաղրաշար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	conj	_	Translit=çaġrašar|LTranslit=çaġrašar|SpaceAfter=No
-4	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-5	պատկերների	պատկեր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	7	obl	_	Translit=patkerneri|LTranslit=patker
-6	միջոցով	միջոցով	ADP	_	AdpType=Post	5	case:loc	_	Translit=miǰoc’ov|LTranslit=miǰoc’ov
-7	ստեղծվող	ստեղծել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	8	acl	_	Translit=steġçvoġ|LTranslit=steġçel
-8	պատմություն	պատմություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	appos	_	Translit=patmowt’yown|LTranslit=patmowt’yown|SpaceAfter=No
-9	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 case:loc	color:blue
+1	Թաքնվել	թաքնվել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	0	root	_	Translit=T’ak’nvel|LTranslit=t’ak’nvel
+2	աշխատանքի	աշխատանք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	1	obl	_	Translit=ašxatank’i|LTranslit=ašxatank’
+3	հետևում	հետև	ADP	_	AdpType=Post|Case=Loc	2	case:loc	_	Translit=hetewowm|LTranslit=hetew|SpaceAfter=No
+4	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -59,16 +54,17 @@ The following 5 pairs of parts of speech are connected with `case:loc`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 case:loc	color:blue
-1	Թաքնվել	թաքնվել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	0	root	_	Translit=T’ak’nvel|LTranslit=t’ak’nvel
-2	գիրք	գիրք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	Translit=girk’|LTranslit=girk’
-3	կարդալու	կարդալ	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	obl	_	Translit=kardalow|LTranslit=kardal
-4	հետևում	հետև	ADP	_	AdpType=Post|Case=Loc	3	case:loc	_	Translit=hetewowm|LTranslit=hetew|SpaceAfter=No
-5	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 case:loc	color:blue
+1	Pegasus	Pegasus	X	_	ExtPos=PROPN|Foreign=Yes	4	nmod:poss	_	Translit=Pegasus|LTranslit=Pegasus|SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+3	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	1	dep	_	Translit=i|LTranslit=ë
+4	թռիչքը	թռիչք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=t’ṙičk’ë|LTranslit=t’ṙičk’
+5	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	4	nmod:npmod	_	Translit=Hayastani|LTranslit=Hayastan
+6	վրայով	վրա	ADP	_	AdpType=Post|Case=Ins	5	case:loc	_	Translit=vrayov|LTranslit=vra
 
 ~~~
 

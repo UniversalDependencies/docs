@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `flat:num`: <tt><a h
 # visual-style 5 6 flat:num	color:blue
 1	Тадзи	тадзи	ADV	Adv	AdvType=Man	3	advmod	_	GTtags=Manner
 2	и	и	ADV	Adv	_	1	discourse	_	_
-3	уджавліс	уджавлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+3	уджавліс	уджавлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 4	во	во	NOUN	N	Case=Nom|Number=Sing	3	obl	_	GTtags=Sg,Nom
 5	дас	дас	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	GTtags=Card,Pl,Nom
 6	витъяс	вит	NUM	_	Case=Nom|Number=Plur|NumType=Card	5	flat:num	_	_

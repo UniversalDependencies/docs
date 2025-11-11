@@ -95,7 +95,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 11	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
 12	realizado	realizar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	ArgTem=arg2:atr
 13	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	15:det	Entity=(CESSCASTP20001201104c11--3-CorefType:dx.type
-14	mismo	mismo	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Dem	13	det	13:det	_
+14	mismo	mismo	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Dem	15	det	15:det	_
 15	proceso	proceso	NOUN	ncms000	Gender=Masc|Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No|ArgTem=arg1:pat|Entity=CESSCASTP20001201104c11)
 16	,	,	PUNCT	fc	PunctType=Comm	20	punct	20:punct	_
 17	pero	pero	CCONJ	cc	_	20	cc	20:cc	_

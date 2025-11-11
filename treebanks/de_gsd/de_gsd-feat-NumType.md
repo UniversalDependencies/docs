@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (4; 0% of non-empty `NumType`): <em>3, 60-er, siebenhundert, zehntausend</em>
 * `Ord` (814; 100% of non-empty `NumType`): <em>ersten, erste, zweiten, zweite, dritten, erster, dritte, erstes, 5., fünften</em>
-* `EMPTY` (20922): <em>später, gut, weitere, neue, bekannt, neuen, großen, große, deutschen, kurz</em>
+* `EMPTY` (20924): <em>später, gut, weitere, neue, bekannt, neuen, großen, große, deutschen, kurz</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (43) occur only with one value of `NumType`.
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (415; 100% of non-empty `NumType`): <em>II, 1, 2, 3, III, 4, Sieben, 2000, 6, 90</em>
-* `EMPTY` (30002): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30001): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 
 `NumType` seems to be **lexical feature** of `PROPN`. 100% lemmas (224) occur only with one value of `NumType`.
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 `X` tokens may have the following values of `NumType`:
 
 * `Card` (5; 100% of non-empty `NumType`): <em>2n, 60m, 7Fe0, 9S8, S8</em>
-* `EMPTY` (307): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (306): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ### `ADV`
 

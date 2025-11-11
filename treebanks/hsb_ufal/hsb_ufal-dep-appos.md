@@ -41,20 +41,15 @@ The following 30 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 8 appos	color:blue
-1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	wotpowědne	wotpowědny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	3	amod	_	_
-3	dataje	dataja	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	_
-4	we	w	ADP	_	_	5	case	_	_
-5	Wikimedia	Wikimedia	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
-6	Commons	Commons	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	5	flat	_	SpaceAfter=No
-7	:	:	PUNCT	_	_	8	punct	_	_
-8	Marilyn	Marilyn	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
-9	Monroe	Monroe	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	flat	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 appos	color:blue
+1	Kamera	kamera	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	3	punct	_	_
+3	Tadas	Tadas	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Šlajus	Šlajus	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat	_	_
 
 ~~~
 
@@ -62,23 +57,20 @@ The following 30 pairs of parts of speech are connected with `appos`: <tt><a hre
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 appos	color:blue
-1	Nimo	nimo	ADP	_	_	2	case	_	_
-2	toho	to	PRON	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
-3	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	štyri	štyri	NUM	_	NumType=Card	5	nummod	_	_
-5	diftongi	diftong	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 appos	color:blue
+1	1	1	NUM	_	NumType=Card	4	amod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	ablawtowy	ablawtowy	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
+4	rjad	rjad	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	němčiny	němčina	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	7	punct	_	_
-7	ae	ae	X	_	_	5	appos	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	oe	oe	X	_	_	7	conj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	eu	eu	X	_	_	7	conj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	au	au	X	_	_	7	conj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
+7	ei	ei	X	_	_	4	appos	_	_
+8	-	-	PUNCT	_	_	9	punct	_	_
+9	i	i	X	_	_	7	conj	_	_
+10	-	-	PUNCT	_	_	11	punct	_	_
+11	i	i	X	_	_	7	conj	_	_
 
 ~~~
 

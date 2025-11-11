@@ -11,9 +11,9 @@ This relation is universal.
 2226 nodes (11%) are attached to their parents as `punct`.
 
 1521 instances of `punct` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.31176999101527.
+Average distance between parent and child is 9.30817610062893.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (1181; 53% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (500; 22% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (236; 11% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (120; 5% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (74; 3% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (49; 2% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (37; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (24; 1% instances), <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ar_pud-pos-PART.html">PART</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (1182; 53% instances), <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (499; 22% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (238; 11% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (121; 5% instances), <tt><a href="ar_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (71; 3% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (49; 2% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (38; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (24; 1% instances), <tt><a href="ar_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 10 punct	color:blue
-1	تمول	مَوَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LId=مَوَّل_1
+1	تمول	مَوَّل	VERB	VBC	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LId=مَوَّل_1
 2	النفقات	نَفَقَة	NOUN	NN	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	1	nsubj:pass	_	LId=نَفَقَة_1
 3	الجديدة	جَدِيد	ADJ	JJ	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	amod	_	LId=جَدِيد_1
-4	من	مِن	ADP	IN	_	6	case	_	LId=مِن_1
+4	من	مِن	ADP	IN	ExtPos=ADP	6	case	_	LId=مِن_1
 5	خلال	خِلَالَ	ADP	IN	_	4	fixed	_	LId=خِلال_1
 6	حساب	حِسَاب	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	LId=حِساب_1
 7	كلينتون	كلِينتُون	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	LId=كلِينْتُون_1
@@ -43,22 +43,22 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 11	fgColor:white
 # visual-style 11 12 punct	color:blue
 1	إن	إِنَّ	PART	RP	_	15	compound:prt	_	LId=إِنَّ_1
-2	ما	ما	PRON	WP	Case=Acc	15	dislocated	_	LId=ما_1
-3	تقول	قَال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	2	acl:relcl	_	LId=قال-ُ_1|SpaceAfter=No
-4	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	obj	_	_
+2	ما	ما	PRON	WP	Case=Acc|PronType=Int	15	dislocated	_	LId=ما_1
+3	تقول	قَال	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	LId=قال-ُ_1|SpaceAfter=No
+4	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 5	و	وَ	CCONJ	CC	_	6	cc	_	SpaceAfter=No
-6	ما	ما	PRON	WP	Case=Acc	2	conj	_	LId=ما_1
-7	تفعل	فَعَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	6	acl:relcl	_	LId=فَعَل-َ_1|SpaceAfter=No
-8	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	_	SpaceAfter=No
+6	ما	ما	PRON	WP	Case=Acc|PronType=Int	2	conj	_	LId=ما_1
+7	تفعل	فَعَل	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	LId=فَعَل-َ_1|SpaceAfter=No
+8	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No
 9	...	...	PUNCT	...	_	2	punct	_	LId=..._0
 10	في	فِي	ADP	IN	_	11	case	_	LId=فِي_1
 11	الواقع	وَاقِع	NOUN	NN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	LId=واقِع_1|SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	LId=,_0
 13	إن	إِنَّ	PART	RP	_	15	compound:prt	_	LId=إِنَّ_1|SpaceAfter=No
-14	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	15	nsubj	_	_
+14	ه	هُوَ	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 15	أمرٌ	أَمر	NOUN	NN	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	LId=أَمْر_1
 16	لا	لَا	PART	RP	Polarity=Neg	17	advmod	_	LId=لا_1
-17	يصدق	صَدَّق	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	15	acl:relcl	_	LId=صَدَّق_1|SpaceAfter=No
+17	يصدق	صَدَّق	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	acl:relcl	_	LId=صَدَّق_1|SpaceAfter=No
 18	.	.	PUNCT	.	_	15	punct	_	LId=._0
 
 ~~~

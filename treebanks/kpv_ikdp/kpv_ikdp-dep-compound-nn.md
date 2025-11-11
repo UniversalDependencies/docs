@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `compound:nn`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 compound:nn	color:blue
-1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	GTtags=Refl,Ind,Prt1,Err/Dial,Sg3
+1	Рӧдитчи	рӧдитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Refl,Ind,Prt1,Err/Dial,Sg3
 2	Пустыня	Пустыня	NOUN	N	Case=Nom|Number=Sing	3	compound:nn	_	GTtags=Prop,Sem/Plc,Sem/Plc,Sg,Nom
 3	грездын	грезд	NOUN	N	Case=Ine|Number=Sing	1	obl	_	GTtags=Sg,Ine|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	6	punct	_	_
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `compound:nn`: <tt><
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 19 compound:nn	color:blue
-1	Удиті	удитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Err/Dial,Sg3
+1	Удиті	удитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Err/Dial,Sg3
 2	сэтэн	сэтӧн	ADV	Adv	AdvType=Loc	1	advmod	_	GTtags=Err/Dial
 3	на	на	ADV	Adv	AdvType=Tim	4	advmod	_	GTtags=Sem/Time
 4	велэдчыны	велӧдчыны	VERB	V	VerbForm=Inf	1	xcomp	_	GTtags=Err/Dial,Refl,Inf
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `compound:nn`: <tt><
 10	,	,	PUNCT	PUNCT	_	13	punct	_	_
 11	а	а	CCONJ	CC	_	13	cc	_	_
 12	таво	таво	ADV	Adv	AdvType=Tim	13	advmod	_	GTtags=Sem/Time
-13	помалі	помавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt1,Err/Dial,Sg3
+13	помалі	помавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	GTtags=Ind,Prt1,Err/Dial,Sg3
 14	Сыктывкарса	сыктывкарса	ADJ	A	Case=Nom|Number=Sing	16	amod	_	GTtags=Sg,Nom
 15	канму	канму	NOUN	N	Case=Nom|Number=Sing	16	compound	_	GTtags=Sg,Nom
 16	университет	университет	NOUN	N	Case=Nom|Number=Sing	13	obj	_	GTtags=Sg,Nom|SpaceAfter=No

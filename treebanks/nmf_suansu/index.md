@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Jessica K. Ivani, Kira Tulchynska.
 
 Repository: [UD_Naga-Suansu](https://github.com/UniversalDependencies/UD_Naga-Suansu)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnmf_suansu216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnmf_suansu217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -89,7 +89,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 
 ## Features
 
-[Abbr](nmf_suansu-feat-Abbr.html) – [Aspect](nmf_suansu-feat-Aspect.html) – [Case](nmf_suansu-feat-Case.html) – [Degree](nmf_suansu-feat-Degree.html) – [Deixis](nmf_suansu-feat-Deixis.html) – [Evident](nmf_suansu-feat-Evident.html) – [ExtPos](nmf_suansu-feat-ExtPos.html) – [Foreign](nmf_suansu-feat-Foreign.html) – [Modal](nmf_suansu-feat-Modal.html) – [Mood](nmf_suansu-feat-Mood.html) – [Number](nmf_suansu-feat-Number.html) – [NumForm](nmf_suansu-feat-NumForm.html) – [NumType](nmf_suansu-feat-NumType.html) – [Person](nmf_suansu-feat-Person.html) – [Polarity](nmf_suansu-feat-Polarity.html) – [PronType](nmf_suansu-feat-PronType.html) – [Reflex](nmf_suansu-feat-Reflex.html) – [Tense](nmf_suansu-feat-Tense.html) – [VerbForm](nmf_suansu-feat-VerbForm.html)
+[Abbr](nmf_suansu-feat-Abbr.html) – [Aspect](nmf_suansu-feat-Aspect.html) – [Case](nmf_suansu-feat-Case.html) – [Degree](nmf_suansu-feat-Degree.html) – [Deixis](nmf_suansu-feat-Deixis.html) – [Evident](nmf_suansu-feat-Evident.html) – [ExtPos](nmf_suansu-feat-ExtPos.html) – [Foreign](nmf_suansu-feat-Foreign.html) – [Modal](nmf_suansu-feat-Modal.html) – [Mood](nmf_suansu-feat-Mood.html) – [Number](nmf_suansu-feat-Number.html) – [NumForm](nmf_suansu-feat-NumForm.html) – [NumType](nmf_suansu-feat-NumType.html) – [Person](nmf_suansu-feat-Person.html) – [Polarity](nmf_suansu-feat-Polarity.html) – [PronType](nmf_suansu-feat-PronType.html) – [Tense](nmf_suansu-feat-Tense.html) – [VerbForm](nmf_suansu-feat-VerbForm.html)
 
 ## Relations
 
@@ -137,7 +137,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as determiners (DET): drekhalai, gare, hai, khalailehnda, mazohn, mwe, rigatratrahn, tye, za</li>
+<li>This corpus contains 7 lemmas tagged as determiners (DET): gare, hai, mazohn, mwe, rigatratrahn, tye, za</li>
 </ul>
 
 <ul>
@@ -377,8 +377,8 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
   <li>Cmp
     <ul>
       <li>ADV: szumahnnan</li>
-      <li>VERB: amahn, szumahn, szumahnle</li>
       <li>VERB-Fin: szumahnle</li>
+      <li>VERB-Inf: szumahn</li>
     </ul>
   </li>
 </ul>
@@ -411,10 +411,9 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
       <li>NUM: Phangema</li>
       <li>PART: garhe, rema, khama, garhema</li>
       <li>SCONJ: dime</li>
-      <li>VERB: phabtama, thaima, thema, themate, lama, rema, thaithema, muma, nungaima, re</li>
       <li>VERB-Conv: ngammaganan, nungaikhama, rehama, szammaganan, thengammaganan, yinglamaganan</li>
       <li>VERB-Fin: themate, katomszumale, keikapmate, mumate, nungaimate, rumale, theate, thekhamate, thelate, thema</li>
-      <li>VERB-Inf: phabtama, thaima, lama, thaithema, thema, muma, rungma, Kajahnma, Thekhamzama, banma</li>
+      <li>VERB-Inf: phabtama, thaima, thema, lama, thaithema, muma, rema, rungma, Kajahnma, Thekhamzama</li>
     </ul>
   </li>
 </ul>
@@ -505,7 +504,6 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 <ul>
   <li>Ind
     <ul>
-      <li>ADP: dhohnte, thai, zwehnne</li>
       <li>ADP-Fin: dhohnte, zwehnne</li>
       <li>ADV-Fin: lhia</li>
       <li>AUX-Fin: lale, laha, lalate, laia, late</li>
@@ -664,17 +662,6 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 </ul>
 
 
-<ul>
-  <li><a>Reflex</a></li>
-</ul>
-
-<ul>
-  <li>Yes
-    <ul>
-      <li>DET: drekhalai, khalailehnda</li>
-    </ul>
-  </li>
-</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -859,26 +846,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (3)</li>
-      <li>VERB--PRON-Top (1)</li>
       <li>VERB-Conv--NOUN (14)</li>
       <li>VERB-Conv--NOUN-Top (6)</li>
       <li>VERB-Conv--PRON (2)</li>
       <li>VERB-Conv--PRON-Top (1)</li>
-      <li>VERB-Fin--NOUN (76)</li>
+      <li>VERB-Fin--NOUN (75)</li>
       <li>VERB-Fin--NOUN-Abl (1)</li>
       <li>VERB-Fin--NOUN-Top (56)</li>
       <li>VERB-Fin--PRON (6)</li>
       <li>VERB-Fin--PRON-Erg (3)</li>
       <li>VERB-Fin--PRON-Top (2)</li>
-      <li>VERB-Inf--NOUN (29)</li>
+      <li>VERB-Inf--NOUN (32)</li>
       <li>VERB-Inf--NOUN-ADP(re) (1)</li>
       <li>VERB-Inf--NOUN-ADP(thri) (1)</li>
       <li>VERB-Inf--NOUN-Abl (1)</li>
       <li>VERB-Inf--NOUN-Top (17)</li>
       <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-GenTop (2)</li>
-      <li>VERB-Inf--PRON-Top (7)</li>
+      <li>VERB-Inf--PRON-Top (8)</li>
     </ul>
   </li>
 </ul>
@@ -886,14 +871,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Dat (5)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Top (1)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Dat (2)</li>
+      <li>VERB-Inf--NOUN-Dat (3)</li>
       <li>VERB-Inf--PRON-Dat (3)</li>
       <li>VERB-Inf--PRON-Loc (1)</li>
     </ul>

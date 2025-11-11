@@ -6,22 +6,22 @@ udver: '2'
 
 ## Treebank Statistics: UD_Xavante-XDT: POS Tags: `PART`
 
-There are 32 `PART` lemmas (7%), 35 `PART` types (6%) and 321 `PART` tokens (14%).
+There are 32 `PART` lemmas (7%), 35 `PART` types (6%) and 322 `PART` tokens (14%).
 Out of 15 observed tags, the rank of `PART` is: 6 in number of lemmas, 6 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>za'ra, hã, e, ma, norĩ, za, õ, aba, tô, _</em>
 
-The 10 most frequent `PART` types:  <em>za'ra, hã, e, ma, za, õ, norĩ, tô, norĩhã, aba</em>
+The 10 most frequent `PART` types:  <em>hã, za'ra, e, ma, za, õ, norĩ, tô, aba, norĩhã</em>
 
-The 10 most frequent ambiguous lemmas: <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 48, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 32, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 20, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 2), <em>norĩ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 27, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 3), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>tô</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 11, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>_</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 7, <tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> 7, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>'re</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 6, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>te</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 188, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 5, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>zaʔra</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>re</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 3, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 49, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 4), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 32, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 20, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> 2), <em>norĩ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 27, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>tô</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 11, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>_</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 7, <tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>'re</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 6, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>te</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 188, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 5, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>zaʔra</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>re</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 3, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 50, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 31, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 13, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 4), <em>norĩ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 18, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 3), <em>tô</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 11, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>'re</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 8, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>te</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 185, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 5, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>zaʔra</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>di</em> (<tt><a href="xav_xdt-pos-X.html">X</a></tt> 24, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 18, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 51, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 5), <em>ma</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 31, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 13, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 12, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 4), <em>norĩ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 19, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>tô</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 11, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>'re</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 8, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>te</em> (<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 185, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 5, <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>zaʔra</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>di</em> (<tt><a href="xav_xdt-pos-X.html">X</a></tt> 23, <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 19, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2)
 
 
 * <em>hã</em>
-  * <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61: <em>Pi'õ te mo buru u . Tame te wapa aibö mreme <b>hã</b> .</em>
-  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 50: <em>wa norĩ <b>hã</b> wa te sawi õ di</em>
-  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3: <em>Õ <b>hã</b> te mo .</em>
+  * <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 61: <em>Pi'õ te mo buru u , tame te wapa aibö mreme <b>hã</b> .</em>
+  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 51: <em>wa norĩ <b>hã</b> wa te sawi õ di</em>
+  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 5: <em>Õ <b>hã</b> te mo .</em>
 * <em>ma</em>
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 31: <em>Aibö <b>ma</b> wei wi .</em>
   * <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> 13: <em>Wapté marĩ na hã pi'uriwi te tinha tinhohui'wai <b>ma</b> .</em>
@@ -32,9 +32,10 @@ The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DE
   * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4: <em>Nimame dawedezé hã iwẽ uptabi hã we te sãmra <b>õ</b> di</em>
   * <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 4: <em><b>õ</b> norĩ te we aiʔabaʔré dawedeʔwa norĩ sihutu wapsi</em>
 * <em>norĩ</em>
-  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 18: <em>Ba'õtõ <b>norĩ</b> , e te ĩ'madö'ö 'wa ai'uté hã ? Ĩhe !</em>
+  * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 19: <em>Ba'õtõ <b>norĩ</b> , e te ĩ'madö'ö 'wa ai'uté hã ? Ĩhe !</em>
   * <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 7: <em>wa <b>norĩ</b> hã wa te sawi õ di</em>
   * <tt><a href="xav_xdt-pos-X.html">X</a></tt> 3: <em>baʔõtõ <b>norĩ</b> ma robzeiʔõ di</em>
+  * <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2: <em>Wa <b>norĩ</b> hã wa sa'wari za'ra ni ö , u'mre 'remhã .</em>
 * <em>tô</em>
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 11: <em>E <b>tô</b> sena aimreme . Ĩhe !</em>
   * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1: <em>Õhõ si <b>tô</b> ropotoʔwa</em>
@@ -55,13 +56,13 @@ The 10 most frequent ambiguous types:  <em>hã</em> (<tt><a href="xav_xdt-pos-DE
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2: <em>Ĩhi ñimiza'reseõ tô darob mono <b>bö</b> te höimana za'ra tô</em>
   * <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1: <em>Ĩprédu 'maipo'repu'umhã te za te tãma 'manho're , a'uwẽ norĩ ma te rowẽ za'ra da . Tahawa te nasi sõ're bötö <b>bö</b> .</em>
 * <em>di</em>
-  * <tt><a href="xav_xdt-pos-X.html">X</a></tt> 24: <em>E te ĩsadanharĩ za'ra wa'wa warazu hã marĩ na ? Mare <b>di</b> .</em>
-  * <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 18: <em>baʔõtõ norĩ ma robzeiʔõ <b>di</b></em>
+  * <tt><a href="xav_xdt-pos-X.html">X</a></tt> 23: <em>E te ĩsadanharĩ za'ra wa'wa warazu hã marĩ na ? Mare <b>di</b> .</em>
+  * <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> 19: <em>baʔõtõ norĩ ma robzeiʔõ <b>di</b></em>
   * <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2: <em>Uwaj'rewawẽ zahadu tete <b>di</b></em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.093750 (the average of all parts of speech is 1.232409).
+The form / lemma ratio of `PART` is 1.093750 (the average of all parts of speech is 1.229787).
 
 The 1st highest number of forms (6) was observed with the lemma “_”: <em>'re, dzahuré, hã, norĩ, za, za'ra</em>.
 
@@ -69,22 +70,22 @@ The 2nd highest number of forms (2) was observed with the lemma “aba”: <em>a
 
 The 3rd highest number of forms (2) was observed with the lemma “norĩ”: <em>norĩ, norĩhã</em>.
 
-`PART` occurs with 12 features: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt> (106; 33% instances), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt> (37; 12% instances), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt> (34; 11% instances), <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt> (32; 10% instances), <tt><a href="xav_xdt-feat-Int.html">Int</a></tt> (32; 10% instances), <tt><a href="xav_xdt-feat-Aspect.html">Aspect</a></tt> (28; 9% instances), <tt><a href="xav_xdt-feat-Fact.html">Fact</a></tt> (9; 3% instances), <tt><a href="xav_xdt-feat-Polarity.html">Polarity</a></tt> (7; 2% instances), <tt><a href="xav_xdt-feat-Degree.html">Degree</a></tt> (3; 1% instances), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt> (2; 1% instances), <tt><a href="xav_xdt-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="xav_xdt-feat-NumType.html">NumType</a></tt> (1; 0% instances)
+`PART` occurs with 12 features: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt> (106; 33% instances), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt> (36; 11% instances), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt> (34; 11% instances), <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt> (32; 10% instances), <tt><a href="xav_xdt-feat-Int.html">Int</a></tt> (32; 10% instances), <tt><a href="xav_xdt-feat-Aspect.html">Aspect</a></tt> (28; 9% instances), <tt><a href="xav_xdt-feat-Fact.html">Fact</a></tt> (9; 3% instances), <tt><a href="xav_xdt-feat-Polarity.html">Polarity</a></tt> (7; 2% instances), <tt><a href="xav_xdt-feat-Degree.html">Degree</a></tt> (3; 1% instances), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt> (2; 1% instances), <tt><a href="xav_xdt-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="xav_xdt-feat-NumType.html">NumType</a></tt> (1; 0% instances)
 
 `PART` occurs with 19 feature-value pairs: `Aspect=Iter`, `Aspect=Perf`, `Aspect=Prog`, `Aspect=Prosp`, `Degree=Dim`, `Emph=Yes`, `Fact=Yes`, `Htp=Yes`, `Int=Yes`, `Mood=Sub`, `NumType=Dist`, `Number=Coll`, `Number=Dual`, `Number=Plur`, `Person=1`, `Person=2`, `Polarity=Neg`, `Tense=Imp`, `Tense=Past`
 
 `PART` occurs with 22 feature combinations.
-The most frequent feature combination is `_` (71 tokens).
+The most frequent feature combination is `_` (72 tokens).
 Examples: <em>hã, õ, 're, e, te, bö, di, tõ, bété, ni</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: <tt><a href="xav_xdt-dep-dep.html">dep</a></tt> (276; 86% instances), <tt><a href="xav_xdt-dep-discourse.html">discourse</a></tt> (40; 12% instances), <tt><a href="xav_xdt-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="xav_xdt-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="xav_xdt-dep-obj.html">obj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt><a href="xav_xdt-dep-dep.html">dep</a></tt> (276; 86% instances), <tt><a href="xav_xdt-dep-discourse.html">discourse</a></tt> (41; 13% instances), <tt><a href="xav_xdt-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="xav_xdt-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="xav_xdt-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (211; 66% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (74; 23% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (19; 6% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (11; 3% instances), <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (211; 66% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (75; 23% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (19; 6% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (11; 3% instances), <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt> (1; 0% instances)
 
-320 (100%) `PART` nodes are leaves.
+321 (100%) `PART` nodes are leaves.
 
 1 (0%) `PART` nodes have one child.
 

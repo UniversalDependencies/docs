@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 expl	color:blue
-1	Pel	pel	ADP	sps00	_	6	case	6:case	MWE=Pel_que_fa_a|MWEPOS=ADP
+1	Pel	pel	ADP	sps00	ExtPos=ADP	6	case	6:case	MWE=Pel_que_fa_a|MWEPOS=ADP
 2	que	que	SCONJ	_	_	1	fixed	1:fixed	_
 3	fa	fa	NOUN	_	_	1	fixed	1:fixed	_
 4	a	a	ADP	_	_	1	fixed	1:fixed	_
@@ -90,12 +90,12 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 41	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	cop	42:cop	_
 42	controlar	controlar	VERB	vmn0000	VerbForm=Inf	6	conj	6:conj	ArgTem=arg2:atr
 43	això	això	PRON	pd0ns000	Number=Sing|PronType=Dem	42	obj	42:obj	ArgTem=arg1:pat|Entity=(CESSCATA2001031627750c23--1-CorefType:dx.type)
-44	a	a	ADP	sps00	_	48	case	48:case	MWE=a_partir_de|MWEPOS=ADP
+44	a	a	ADP	sps00	ExtPos=ADP	48	case	48:case	MWE=a_partir_de|MWEPOS=ADP
 45	partir	partir	NOUN	_	_	44	fixed	44:fixed	_
 46	de	de	ADP	_	_	44	fixed	44:fixed	_
 47	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	48:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
 48	frontera	frontera	NOUN	ncfs000	Gender=Fem|Number=Sing	42	obl	42:obl	ArgTem=argM:loc
-49	cap	cap	NOUN	sps00	_	52	case	52:case	MWE=cap_a|MWEPOS=ADP
+49	cap	cap	NOUN	sps00	ExtPos=ADP	52	case	52:case	MWE=cap_a|MWEPOS=ADP
 50	a	a	ADP	_	_	49	fixed	49:fixed	_
 51	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	52	det	52:det	SpaceAfter=No|Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
 52	interior	interior	NOUN	ncms000	Gender=Masc|Number=Sing	48	nmod	48:nmod	_

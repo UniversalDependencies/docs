@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-221 nodes (0%) are attached to their parents as `nummod`.
+222 nodes (0%) are attached to their parents as `nummod`.
 
-216 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.80542986425339.
+217 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80630630630631.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (212; 96% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (213; 96% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8 7 nummod	color:blue
 1	Il	il	PRON	PROimp	PronType=Prs	5	expl	_	XmlId=w_32_07087
 2	n'	ne1	ADV	ADVneg	PronType=Neg	5	advmod	_	SpaceAfter=No|XmlId=w_32_07088
-3	y	y2	ADV	PROadv	_	5	obl:advmod	_	XmlId=w_32_07089
+3	y	y2	ADV	PROadv	_	5	obl:mod	_	XmlId=w_32_07089
 4	en	en2	ADV	PROadv	_	5	obl	_	XmlId=w_32_07090
 5	avoit	avoir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_07091
 6	pas	pas1	ADV	ADVneg	PronType=Neg	5	advmod	_	XmlId=w_32_07092

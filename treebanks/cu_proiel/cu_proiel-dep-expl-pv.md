@@ -22,12 +22,12 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 expl:pv	color:blue
-1	Ѡтъвръже	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=76.3
-2	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	ref=76.3
-3	оутѣшіті	оутѣшити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=76.3
-4	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	ref=76.3
-5	дш҃а	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=76.3
-6	моѣ	мои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	det	_	ref=76.3
+1	Ѡтъвръже	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=76.3
+2	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=76.3
+3	оутѣшіті	оутѣшити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	Ref=76.3
+4	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	Ref=76.3
+5	дш҃а	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=76.3
+6	моѣ	мои	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	det	_	Ref=76.3
 
 ~~~
 
@@ -38,12 +38,12 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 expl:pv	color:blue
-1	готови	готовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	ref=18
-2	сꙙ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	ref=18
-3	на	на	ADP	R-	_	4	case	_	ref=18
-4	пѫть҆о҄утросиѭ҄	пѫтьоутросиꙗ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=18
-5	къ	къ	ADP	R-	_	4	nmod	_	ref=18
-6	цѣсару	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	ref=18
+1	готови	готовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Ref=18
+2	сꙙ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=18
+3	на	на	ADP	R-	_	4	case	_	Ref=18
+4	пѫть҆о҄утросиѭ҄	пѫтьоутросиꙗ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	Ref=18
+5	къ	къ	ADP	R-	_	4	nmod	_	Ref=18
+6	цѣсару	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	Ref=18
 
 ~~~
 
@@ -54,8 +54,8 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 expl:pv	color:blue
-1	кнꙙꙁ	кънѧѕь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=9
-2	сꙙ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	ref=9
+1	кнꙙꙁ	кънѧѕь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=9
+2	сꙙ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	Ref=9
 
 ~~~
 

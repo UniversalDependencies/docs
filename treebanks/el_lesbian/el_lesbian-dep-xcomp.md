@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33 nodes (1%) are attached to their parents as `xcomp`.
+47 nodes (1%) are attached to their parents as `xcomp`.
 
-29 instances of `xcomp` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.42424242424242.
+43 instances of `xcomp` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.29787234042553.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (21; 64% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (8; 24% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (4; 12% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (29; 62% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (11; 23% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (7; 15% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	μπρόφτινι	προυφταίνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 7	να	να	SCONJ	_	_	8	mark	_	_
 8	πάγ’	πγαίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	xcomp	_	_
-9	σ	σ	ADP	_	_	11	case	_	_
+9	σ	σι	ADP	_	_	11	case	_	_
 10	τουν	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	απόπατου	απόπατους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
 12	.	.	PUNCT	_	_	2	punct	_	_

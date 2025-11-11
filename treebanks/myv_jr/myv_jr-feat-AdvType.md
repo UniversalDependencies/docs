@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 7 different values: `Deg`, `Ideoph`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
-1056 tokens (5%) have a non-empty value of `AdvType`.
+1051 tokens (5%) have a non-empty value of `AdvType`.
 263 types (4%) occur at least once with a non-empty value of `AdvType`.
 184 lemmas (6%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (876; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (126; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (5; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (876; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (126; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances).
 
 ### `ADV`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
 
 ### `ADP`
 
-126 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (27% of all `ADP` tokens) have a non-empty value of `AdvType`.
+126 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (26% of all `ADP` tokens) have a non-empty value of `AdvType`.
 
 The most frequent other feature values with which `ADP` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (102; 81%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (97; 77%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (97; 77%).
 
@@ -73,8 +73,6 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 
 20 <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> tokens (30% of all `SCONJ` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `SCONJ` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (20; 100%).
-
 `SCONJ` tokens may have the following values of `AdvType`:
 
 * `Man` (3; 15% of non-empty `AdvType`): <em>кода</em>
@@ -85,16 +83,6 @@ The most frequent other feature values with which `SCONJ` and `AdvType` co-occur
   <tr><td><tt>_</tt></td><td><em>кода</em></td><td><em>кода</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>кода</em></td><td></td></tr>
 </table>
-
-### `PRON`
-
-5 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `AdvType`.
-
-The most frequent other feature values with which `PRON` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5; 100%).
-
-`PRON` tokens may have the following values of `AdvType`:
-
-* `Loc` (5; 100% of non-empty `AdvType`): <em>мельганзо, мельгаст</em>
 
 ## Relations with Agreement in `AdvType`
 

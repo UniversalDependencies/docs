@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>daar, hier, oor, skierlik, nee</em>
-* `EMPTY` (1673): <em>o, nēsisa, amase, nēpa, tsîna, ǁnāpa, kaise, mâti, ǀgui, ǁnāti</em>
+* `EMPTY` (1672): <em>o, nēsisa, amase, nēpa, tsîna, ǁnāpa, kaise, mâti, ǀgui, ǁnāti</em>
 
 ### `X`
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>klim, soek</em>
-* `EMPTY` (3940): <em>hâ, ūhâ, ī, mî, dī, sī, ǁkhā, ǂan, mû, kō</em>
+* `EMPTY` (3941): <em>hâ, ūhâ, ī, mî, dī, sī, ǁkhā, ǂan, mû, kō</em>
 
 ### `ADJ`
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>young</em>
-* `EMPTY` (773): <em>ǃgâi, kai, ǂhanu, ǂguro, ǀkhara, ǂoaǂamsa, ama, ǂhâǂhâsa, American, ǀgui</em>
+* `EMPTY` (774): <em>ǃgâi, kai, ǂhanu, ǂguro, ǀkhara, ǂoaǂamsa, ama, ǂhâǂhâsa, American, ǀgui</em>
 
 ### `CCONJ`
 

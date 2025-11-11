@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html
 
 156 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (150; 96%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (87; 56%).
+The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (156; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (150; 96%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 67%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (87; 56%).
 
 `AUX` tokens may have the following values of `VerbType`:
 

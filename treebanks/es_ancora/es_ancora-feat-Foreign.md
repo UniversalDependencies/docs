@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (18; 100% of non-empty `Foreign`): <em>Comerç, Conselleria, Flors, Indústria, Institució, Mercat, Monde, Turisme, Boulevard, Ciències</em>
-* `EMPTY` (100517): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
+* `EMPTY` (100518): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (14) occur only with one value of `Foreign`.
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Lletres, Crime, Frederick, Generalitat, Glòries, Balears, Illes, Inc</em>
-* `EMPTY` (42381): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
+* `EMPTY` (42380): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
 
 ### `ADJ`
 

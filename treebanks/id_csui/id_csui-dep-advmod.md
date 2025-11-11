@@ -27,7 +27,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	dana	dana	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
 3	tersebut	sebut	DET	DT	PronType=Dem	2	det	_	_
 4	baru	baru	ADV	RB	_	5	advmod	_	_
-5	terpakai	pakai	VERB	VB	Mood=Ind|Voice=Pass	0	root	_	_
+5	terpakai	pakai	VERB	VB	Voice=Pass	0	root	_	_
 6	168	168	NUM	CD	NumType=Card	8	nummod	_	_
 7	juta	juta	NUM	CD	NumType=Card	6	flat	_	_
 8	dolar	dolar	NOUN	NN	Number=Sing	5	obl	_	_

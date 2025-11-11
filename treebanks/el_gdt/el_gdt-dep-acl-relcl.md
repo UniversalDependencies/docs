@@ -47,7 +47,7 @@ The following 22 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	Είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
 2	κάτι	κάτι	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind	0	root	_	_
 3	σ	σε	ADP	ADP	_	5	case	_	_
-4	το	ο	DET	DET	Case=Acc|Gender=Neut|Number=Sing	5	det	_	_
+4	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	οποίο	οποίος	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	8	obl	_	_
 6	πρέπει	πρέπει	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
 7	να	να	AUX	AUX	_	8	aux	_	_
@@ -72,7 +72,7 @@ The following 22 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	πόλεις	πόλη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
 7	σ	σε	ADP	ADP	_	9	case	_	_
-8	τα	ο	DET	DET	Case=Acc|Gender=Neut|Number=Plur	9	det	_	_
+8	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
 9	ανατολικά	ανατολικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	6	amod	_	_
 10	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	Λιβύης	Λιβύη	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No

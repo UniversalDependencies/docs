@@ -22,7 +22,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 appos	color:blue
-1	_	_	VERB	VB	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=context-background:98->122:3:sem-rpt-611-612,773-784|Lem=*LOWER*|Len=5|PDTB=NoRel:NoRel:_:_:582-608:609-628|SpaceAfter=No
+1	_	_	VERB	VB	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=context-background:98->122:3:sem-rpt-611-612,773-784-_|Lem=*LOWER*|Len=5|PDTB=NoRel:NoRel:_:_:582-608:609-628|SpaceAfter=No
 2	_	_	PUNCT	,	_	4	punct	4:punct	Lem=_|Len=1
 3	_	_	NOUN	NN	Number=Sing	4	compound	4:compound	Entity=(16-abstract-giv:inact-snsns-cf1-2-coref|Lem=_|Len=4
 4	_	_	NOUN	NN	Number=Sing	1	nsubj	1:nsubj	Entity=16)|Lem=_|Len=8|MSeg=currenc-y|SpaceAfter=No
@@ -31,12 +31,12 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 7	_	_	NOUN	NN	Number=Sing	4	appos	4:appos|11:nsubj|12:nmod:except	Lem=_|Len=5
 8	_	_	ADP	IN	_	9	case	9:case	Lem=_|Len=2
 9	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Lem=_|Len=5
-10	_	_	PRON	WDT	PronType=Rel	11	nsubj	7:ref	Discourse=elaboration-attribute:99->98:0:syn-mdf-615+syn-relcl-618-619,622,625|Lem=_|Len=4|PDTB=AltLex:Expansion.Level-of-detail.Arg2-as-detail:that means:618-619:609-617:620-628
+10	_	_	PRON	WDT	PronType=Rel	11	nsubj	7:ref	Discourse=elaboration-attribute:99->98:0:syn-mdf-615-_+syn-relcl-618-619,622,625-_|Lem=_|Len=4|PDTB=AltLex:Expansion.Level-of-detail.Arg2-as-detail:that means:618-619:609-617:620-628
 11	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Lem=mean|Len=5|MSeg=mean-s
 12	_	_	PRON	NN	Number=Sing|PronType=Neg	11	obj	11:obj	Entity=(92-abstract-new-nnnnn-cf3-1-sgl|Lem=_|Len=7|MSeg=no-thing|Negation=Yes
-13	_	_	ADP	IN	_	14	case	14:case	Discourse=adversative-antithesis:100->99:0:dm-except-621|Lem=_|Len=6|PDTB=Explicit:Expansion.Exception.Arg2-as-except:except:621:618-620:622-628
+13	_	_	ADP	IN	_	14	case	14:case	Discourse=adversative-antithesis:100->99:0:dm-except-621-gold|Lem=_|Len=6|PDTB=Explicit:Expansion.Exception.Arg2-as-except:except:621:618-620:622-628
 14	_	_	PRON	WP	PronType=Rel	12	nmod	7:ref	Lem=_|Len=4
-15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Discourse=attribution-positive:101->102:0:sem-atsrc-623-624+lex-indwd-625+syn-rpr-626|Entity=(23-organization-giv:inact-nnsss-cf2-2-coref|Lem=_|Len=3
+15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Discourse=attribution-positive:101->102:0:sem-atsrc-623-624-_+lex-indwd-625-_+syn-rpr-626-_|Entity=(23-organization-giv:inact-nnsss-cf2-2-coref|Lem=_|Len=3
 16	_	_	NOUN	NN	Number=Sing|Typo=Yes	17	nsubj	17:nsubj	CorrectForm=government|Entity=23)|Lem=government|Len=5|XML=<sic ana:::"government"></sic>
 17	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	14:acl:relcl	Lem=say|Len=4|MSeg=say-s
 18	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	19:nsubj	Discourse=same-unit_m:102->100:0:_|Entity=(16-abstract-giv:act-snsns-cf1-1-ana)|Lem=_|Len=2
@@ -74,7 +74,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 18 appos	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=elaboration-additional:97->95:1:sem-rpt-705-708,717-720|Entity=(92-abstract-giv:inact-nnnns-cf1-3-coref|Lem=*LOWER*|Len=3|PDTB=EntRel:EntRel:_:_:710-716:717-740
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=elaboration-additional:97->95:1:sem-rpt-705-708,717-720-_|Entity=(92-abstract-giv:inact-nnnns-cf1-3-coref|Lem=*LOWER*|Len=3|PDTB=EntRel:EntRel:_:_:710-716:717-740
 2	_	_	PUNCT	``	_	3	punct	3:punct	Lem=_|Len=1|SpaceAfter=No
 3	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Lem=_|Len=2|SpaceAfter=No
 4	_	_	PUNCT	''	_	3	punct	3:punct	Entity=92)|Lem=_|Len=1
@@ -88,15 +88,15 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 12	_	_	NOUN	NN	Number=Sing	0	root	0:root	Entity=92)|Lem=_|Len=13|MSeg=pronunci-ation
 13	_	_	SCONJ	IN	_	16	mark	16:mark	Lem=_|Len=2
 14	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
-15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Entity=(98-abstract-new-nnnnn-cf2-2-coref|Lem=_|Len=3
-16	_	_	NOUN	NN	Number=Sing	12	acl	12:acl:as	Entity=98)|Lem=_|Len=4
-17	_	_	PUNCT	``	_	18	punct	18:punct	Entity=(98-abstract-giv:act-n____-cf2-6-coref|Lem=_|Len=1|SpaceAfter=No
-18	_	_	VERB	VB	VerbForm=Inf	16	appos	16:appos	Entity=(99-abstract-new-nnnnn-cf4-1-sgl)|Lem=_|Len=4|SpaceAfter=No
+15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Entity=(97-abstract-new-nnnnn-cf2-2-coref|Lem=_|Len=3
+16	_	_	NOUN	NN	Number=Sing	12	acl	12:acl:as	Entity=97)|Lem=_|Len=4
+17	_	_	PUNCT	``	_	18	punct	18:punct	Entity=(97-abstract-giv:act-nnnnn-cf2-6-coref|Lem=_|Len=1|SpaceAfter=No
+18	_	_	VERB	VB	VerbForm=Inf	16	appos	16:appos	Entity=(98-abstract-new-nnnnn-cf4-1-sgl)|Lem=_|Len=4|SpaceAfter=No
 19	_	_	PUNCT	''	_	18	punct	18:punct	Lem=_|Len=1
 20	_	_	CCONJ	CC	_	22	cc	22:cc	Lem=_|Len=2
 21	_	_	PUNCT	``	_	22	punct	22:punct	Lem=_|Len=1|SpaceAfter=No
-22	_	_	NOUN	NN	Number=Sing	16	conj	12:acl:as|16:conj:or	Entity=(100-abstract-new-nnnnn-cf3-1-sgl)|Lem=_|Len=4|SpaceAfter=No
-23	_	_	PUNCT	''	_	22	punct	22:punct	Entity=98)|Lem=_|Len=1|SpaceAfter=No
+22	_	_	NOUN	NN	Number=Sing	16	conj	12:acl:as|16:conj:or	Entity=(99-abstract-new-nnnnn-cf3-1-sgl)|Lem=_|Len=4|SpaceAfter=No
+23	_	_	PUNCT	''	_	22	punct	22:punct	Entity=97)|Lem=_|Len=1|SpaceAfter=No
 24	_	_	PUNCT	.	_	12	punct	12:punct	Lem=_|Len=1
 
 ~~~

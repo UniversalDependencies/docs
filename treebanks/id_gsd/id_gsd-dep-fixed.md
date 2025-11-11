@@ -45,7 +45,7 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4 5 fixed	color:blue
 1	Film	film	NOUN	NSD	Number=Sing	3	nsubj:pass	_	Morf=^film<n>_NSD$
 2	ini	ini	DET	B--	PronType=Dem	1	det	_	Morf=^ini<b>_B--$
-3	dibintangi	bintang	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+bintang<n>+i_VSP$
+3	dibintangi	bintang	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+bintang<n>+i_VSP$
 4	antara	antara	ADP	R--	ExtPos=ADP	7	case	_	Morf=^antara<r>_R--$
 5	lain	lain	ADJ	ASP	_	4	fixed	_	Morf=^lain<a>_ASP$
 6	oleh	oleh	ADP	R--	_	7	case	_	Morf=^oleh<r>_R--$
@@ -66,7 +66,7 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4 5 fixed	color:blue
 1	Penduduk	penduduk	NOUN	NSD	Number=Sing	3	nsubj	_	Morf=^penduduk<n>_NSD$
 2	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	Morf=^dia<p>_PS3$
-3	berjumlah	jumlah	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+jumlah<n>_VSA$
+3	berjumlah	jumlah	VERB	VSA	Voice=Act	0	root	_	Morf=^ber+jumlah<n>_VSA$
 4	kurang	kurang	ADV	ASP	ExtPos=ADV	7	advmod	_	Morf=^kurang<a>_ASP$
 5	lebih	lebih	ADV	D--	_	4	fixed	_	Morf=^lebih<d>_D--$
 6	500	500	NUM	CC-	NumType=Card	7	nummod	_	Morf=^500<c>_CC-$

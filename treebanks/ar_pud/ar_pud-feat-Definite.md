@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-7881 tokens (38%) have a non-empty value of `Definite`.
-4441 types (65%) occur at least once with a non-empty value of `Definite`.
-2916 lemmas (61%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (5529; 27% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (2019; 10% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (323; 2% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="ar_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+7882 tokens (38%) have a non-empty value of `Definite`.
+4442 types (65%) occur at least once with a non-empty value of `Definite`.
+2917 lemmas (61%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 6 part-of-speech tags: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (5529; 27% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (2019; 10% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (323; 2% instances), <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="ar_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ar_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 * `Def` (4293; 78% of non-empty `Definite`): عام، الوقت، اسم، العديد، القرن، الأمر، العالم، النسبة، الكثير، المنطقة
 * `Ind` (1236; 22% of non-empty `Definite`): شكلٍ، جنيه، مرة، شكل، دولار، وقتٍ، سنوات، عاماً، فترة، وفقاً
-* `EMPTY` (49): وضع، عمل، تبعت، حكم، دار، درس، زحف، أسمي، أعما، ألعب
+* `EMPTY` (46): وضع، عمل، تبعت، حكم، دار، درس، زحف، أعما، ألف، أملت
 
 <table>
   <tr><th>Paradigm <i>عَام</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 * `Def` (1255; 62% of non-empty `Definite`): الأول، الخاصة، المتحدة، الثاني، الأولى، الجديدة، البريطانية، الثالث، الأمريكية، الشمالية
 * `Ind` (764; 38% of non-empty `Definite`): أكثر، كبيرة، أخرى، أول، أكبر، إسترليني، جديدة، كبير، كبيراً، آخر
-* `EMPTY` (7): أحدث، آمن، أفضل، ألحقا، سافر، عادل
+* `EMPTY` (6): أحدث، آمن، ألحقا، سافر، عادل
 
 <table>
   <tr><th>Paradigm <i>أَوَّل</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -84,29 +84,40 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 8 <tt><a href="ar_pud-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 75%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 75%).
 
 `VERB` tokens may have the following values of `Definite`:
 
 * `Def` (5; 63% of non-empty `Definite`): إلباس، اعتبار، الغاية، جعل، ذكرا
 * `Ind` (3; 38% of non-empty `Definite`): أملاً، انتقادات، مهتمٌ
-* `EMPTY` (1742): يمكن، كان، قال، كانت، يكون، تم، بدأت، قالت، يكن، بدأ
+* `EMPTY` (1746): يمكن، كان، قال، كانت، يكون، تم، بدأت، قالت، يكن، بدأ
 
 ### `AUX`
 
 2 <tt><a href="ar_pud-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Definite`:
 
 * `Def` (2; 100% of non-empty `Definite`): كون
 * `EMPTY` (184): كان، كانت، يكون، كانوا، تكن، تكون، كنت، ليس، ليست، يكن
 
+### `DET`
+
+1 <tt><a href="ar_pud-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ar_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Definite`:
+
+* `Def` (1; 100% of non-empty `Definite`): لو
+* `EMPTY` (165): كل، أحد، بعض، إحدى، أي، عدة، آخر، معظم، جميع، شبه
+
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1575; 83%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1592; 82%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1357; 99%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (240; 91%),
 <tt>ADJ --[<tt><a href="ar_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (160; 58%),

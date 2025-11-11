@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Silvie Cinková.
 
 Repository: [UD_Czech-Poetry](https://github.com/UniversalDependencies/UD_Czech-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_poetry216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_poetry217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,7 +80,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 
 
 <ul>
-<li>This corpus contains 297 sentences, 6273 tokens and 6288 syntactic words.</li>
+<li>This corpus contains 297 sentences, 6273 tokens and 6289 syntactic words.</li>
 </ul>
 
 <ul>
@@ -96,8 +96,8 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 </ul>
 
 <ul>
-<li>This corpus contains 15 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 12 types of multi-word tokens. Examples: aby, Abychom, Došels, abych, cítil's, kdybys, musil’s, nač, naň, si’s, tys, že’s.</li>
+<li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 12 types of multi-word tokens. Examples: aby, naň, Abychom, Došels, abych, cítil's, kdybys, musil’s, nač, si’s, tys, že’s.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -114,7 +114,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as pronouns (PRON): co, cos, cosi, což, ego, jenž, já, kdo, naň, nic, nikdo, něco, on, se, si, ten, tu, ty, vlast, všecek</li>
+<li>This corpus contains 19 lemmas tagged as pronouns (PRON): co, cos, cosi, což, ego, jenž, já, kdo, nic, nikdo, něco, on, se, si, ten, tu, ty, vlast, všecek</li>
 </ul>
 
 <ul>
@@ -216,7 +216,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
       <li>PRON: jenž, mu, jež, ho, jej, kdo, ním, Němu, jemu, nikdo</li>
       <li>PROPN: Armand, Sion, Angelico, Armandovi, Azték, Bajušáku, Baudelaira, Chodováci, Diderota, Dudákovi</li>
       <li>VERB-Conv: Poslouchaje, cítě, hyna, podávaje, věře, žehnaje</li>
-      <li>VERB-Fin: vzbudil</li>
       <li>VERB-Part: měl, chtěl, poznali, viděl, ctil, šel, cítil, dal, klečel, kmital</li>
     </ul>
   </li>
@@ -226,7 +225,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
   <li>Neut
     <ul>
       <li>ADJ: nesmírném, pozlátkové, smilnící, tichém, umdlená, věčné, Astartiných, Lepší, Oněmlé, bledé</li>
-      <li>ADJ-Part: umdlená, Oněmlé, hořícího, hořícím, nepoznaným, obnažená, odevzdáno, potopená, rozhodnuto, roztoužená</li>
+      <li>ADJ-Part: umdlená, Oněmlé, budoucí, hořícího, hořícím, nepoznaným, obnažená, odevzdáno, potopená, rozhodnuto</li>
       <li>AUX-Part: bylo</li>
       <li>DET: to, tom, ty, své, vše, vším, svá, svého, tvé, tím</li>
       <li>NOUN: žití, oči, srdce, štěstí, nebes, těla, dítě, jaro, moře, očima</li>
@@ -267,7 +266,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
       <li>ADJ-Part: hynoucími, nalité, narozené, narozený, odervaném, odsouzený, odvrácené, roznícenými, rozrývaným, rušících</li>
       <li>DET: svůj, každý, které, náš, svém, ten, tvé, žádné, její, který</li>
       <li>NOUN: den, svět, květ, oheň, sen, život, dub, sny, života, hlas</li>
-      <li>PRON: co, jež, něho, cosi, jenž, nějž, něm, němž, všecky, číms</li>
+      <li>PRON: co, jež, něho, cosi, jenž, něj, nějž, něm, němž, všecky</li>
       <li>PROPN: Sion, Bajušáku, Garizim, Israele, Kamčadále, Kanaán, Londýn, Lumíru, Nilu, Řím</li>
       <li>VERB-Part: ctily, daly, hlučel, otvíraly, rozchvívaly, slívaly, voněly, vraždily, zdvíhaly, zjasnily</li>
     </ul>
@@ -319,7 +318,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
       <li>NUM: jeden, Deset, dvacet, jedna, jednom, jednou, jedné, tisícem</li>
       <li>PRON: mi, jež, já, ty, tě, jenž, mu, jí, ti, tobě</li>
       <li>PROPN: Maria, Armand, Labe, Sion, Svitava, Vltavy, Angelico, Armandovi, Azték, Bajušáku</li>
-      <li>VERB: měl, letí, chce, jde, zdá, chcem, chtěl, hledá, mám, viděl</li>
       <li>VERB-Conv: Poslouchaje, cítě, hyna, koře, podávaje, věře, řkouc, žehnaje</li>
       <li>VERB-Fin: letí, chce, jde, zdá, chcem, hledá, mám, vím, čeká, Plyň</li>
       <li>VERB-Part: měl, chtěl, viděl, ctil, šel, Rozhučela, cítil, dal, klečel, kmital</li>
@@ -335,7 +333,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
   <li>Acc
     <ul>
       <li>ADJ: drobné, mnohé, pestré, pozlátkové, tmavou, Dobrou, Dobrý, Drážděné, Egyptské, Kypící</li>
-      <li>ADJ-Part: Drážděné, Kypící, Neslýchané, Oněmlé, kající, narozené, obnažená, odvrácené, roztoužená, schýlená</li>
+      <li>ADJ-Part: Drážděné, Kypící, Neslýchané, Oněmlé, budoucí, kající, narozené, obnažená, odvrácené, roztoužená</li>
       <li>ADP: v, na, pro, přes, o, za, nad, mezi, mimo, po</li>
       <li>DET: to, své, svou, svůj, svoje, tvé, všechny, každou, moji, svoji</li>
       <li>NOUN: bohy, den, duši, štěstí, chvíli, hlavu, tvář, pravdu, ruce, ruku</li>
@@ -450,7 +448,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 <ul>
   <li>Pre
     <ul>
-      <li>PRON: nich, ním, níž, Němu, ni, nimž, něho, něj, němž, něž</li>
+      <li>PRON: nich, ním, níž, Němu, něj, ni, nimž, něho, němž, něž</li>
     </ul>
   </li>
 </ul>
@@ -555,7 +553,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 <ul>
   <li>Imp
     <ul>
-      <li>ADJ-Part: Drážděné, Kypící, bijící, bičován, drtící, hořícího, hořícím, hynoucími, kající, mlčící</li>
+      <li>ADJ-Part: Drážděné, Kypící, bijící, bičován, budoucí, drtící, hořícího, hořícím, hynoucími, kající</li>
       <li>AUX: by, je, jsem, jste, jsi, jest, byl, jsou, budeš, bylo</li>
       <li>AUX-Fin: je, by, jsem, jste, jest, jsi, jsou, budeš, bude, bych</li>
       <li>AUX-Inf: být</li>
@@ -573,7 +571,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
   <li>Perf
     <ul>
       <li>ADJ-Part: Oněmlé, Podťata, Rozcuchán, Zsinalá, narozené, narozený, nepoznaným, nezvrácen, oblečeny, obnažená</li>
-      <li>VERB: poznali, stojí, dáš, nech, padne, stát, Rozhučela, dal, dej, dejte</li>
       <li>VERB-Fin: stojí, dáš, nech, padne, dej, dejte, dám, povede, vstane, Dejž</li>
       <li>VERB-Inf: stát, říci, dopomoci, dát, naplnit, obléct, pomyslit, pozvednout, promluvit, prostřít</li>
       <li>VERB-Part: poznali, Rozhučela, dal, nechali, povylétla, vstal, vzrostla, zůstaly, Došel, Sklesl</li>
@@ -606,8 +603,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
   <li>Ind
     <ul>
       <li>AUX-Fin: je, jsem, jste, jest, jsi, jsou, budeš, bude, jsme, nejsem</li>
-      <li>VERB: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
-      <li>VERB-Conv: hyna, koře</li>
       <li>VERB-Fin: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
     </ul>
   </li>
@@ -620,6 +615,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 <ul>
   <li>Fut
     <ul>
+      <li>ADJ-Part: budoucí</li>
       <li>AUX-Fin: budeš, bude</li>
     </ul>
   </li>
@@ -630,7 +626,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
     <ul>
       <li>ADJ-Part: Oněmlé, odvrácené, seto, vypráhlé, ztuhlá</li>
       <li>AUX-Part: byl, bylo, Nebyla, byla, byli, byly, bývaly, jsi</li>
-      <li>VERB-Fin: vzbudil</li>
       <li>VERB-Part: měl, chtěl, poznali, viděl, ctil, šel, Rozhučela, cítil, dal, klečel</li>
     </ul>
   </li>
@@ -641,7 +636,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
     <ul>
       <li>ADJ-Part: Kypící, bijící, drtící, hořícího, hořícím, hynoucími, kající, mlčící, rušících, smilnící</li>
       <li>AUX-Fin: je, jsem, jste, jest, jsou, jsi, jsme, nejsem, nejsou, není</li>
-      <li>VERB: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
       <li>VERB-Conv: Poslouchaje, cítě, hyna, koře, podávaje, věře, řkouc, žehnaje</li>
       <li>VERB-Fin: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
     </ul>
@@ -655,10 +649,9 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
 <ul>
   <li>Act
     <ul>
-      <li>ADJ-Part: Kypící, Oněmlé, Zsinalá, bijící, drtící, hořícího, hořícím, hynoucími, kající, mlčící</li>
+      <li>ADJ-Part: Kypící, Oněmlé, Zsinalá, bijící, budoucí, drtící, hořícího, hořícím, hynoucími, kající</li>
       <li>AUX-Fin: je, jsem, jste, jest, jsou, budeš, jsi, bude, jsme, nejsem</li>
       <li>AUX-Part: byl, bylo, Nebyla, byla, byli, byly, bývaly, jsi</li>
-      <li>VERB: jdou, letí, měl, chce, jde, zdá, chcem, chtěl, hledá, mám</li>
       <li>VERB-Conv: Poslouchaje, cítě, koře, podávaje, věře, řkouc, žehnaje</li>
       <li>VERB-Fin: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
       <li>VERB-Inf: stát</li>
@@ -704,7 +697,7 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
   <li>Ind
     <ul>
       <li>ADV: kdys, kdes, kdysi, někdy, odkuds</li>
-      <li>DET: tolika, nějaké</li>
+      <li>DET: tolika, málo, nějaké, více</li>
       <li>PRON: cosi, kdo, něco, číms</li>
     </ul>
   </li>
@@ -846,7 +839,6 @@ This work has used the tools and data provided by the LINDAT/CLARIAH-CZ project 
       <li>AUX-Fin: je, jest, jsou, bude, nejsou, není, buď</li>
       <li>DET: jeho, jejich, jich, její, jehožto, jejichž, jejích</li>
       <li>PRON: mu, jí, je, ji, ho, jej, nich, ním, jich, Němu</li>
-      <li>VERB-Conv: hyna, koře</li>
       <li>VERB-Fin: jdou, letí, chce, jde, zdá, hledá, stojí, čeká, duje, hoří</li>
     </ul>
   </li>
@@ -1076,10 +1068,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (140)</li>
+      <li>VERB-Fin--NOUN-Nom (141)</li>
       <li>VERB-Fin--PRON-Nom (41)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Nom (80)</li>
@@ -1093,15 +1084,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Conv--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Acc (89)</li>
-      <li>VERB-Fin--PRON-Acc (34)</li>
+      <li>VERB-Fin--PRON-Acc (33)</li>
       <li>VERB-Inf--NOUN-Acc (24)</li>
-      <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Part--NOUN-Acc (51)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON-Acc (23)</li>
+      <li>VERB-Part--PRON-Acc (24)</li>
     </ul>
   </li>
 </ul>

@@ -12,22 +12,22 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt>, <tt><a href="de_hdt-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-1236230 tokens (36%) have a non-empty value of `Gender`.
-116363 types (62%) occur at least once with a non-empty value of `Gender`.
-93344 lemmas (64%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (684409; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (395436; 11% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (84146; 2% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (44113; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (27734; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (188; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (178; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (26; 0% instances).
+1236231 tokens (36%) have a non-empty value of `Gender`.
+116362 types (62%) occur at least once with a non-empty value of `Gender`.
+93342 lemmas (64%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (684408; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (395438; 11% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (84146; 2% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (44113; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (27734; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (188; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (178; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (26; 0% instances).
 
 ### `NOUN`
 
-684409 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
+684408 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (608206; 89%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (450013; 66%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (608205; 89%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (450011; 66%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (270252; 39% of non-empty `Gender`): <em>Millionen, Mark, Milliarden, Firma, Angaben, Software, Zeit, Firmen, Version, Informationen</em>
 * `Masc` (249767; 36% of non-empty `Gender`): <em>US-Dollar, Euro, Markt, Dollar, Hersteller, Computer, Umsatz, Preis, Anfang, Mitarbeiter</em>
-* `Neut` (164390; 24% of non-empty `Gender`): <em>Prozent, Internet, Unternehmen, Jahr, Ende, Quartal, Jahres, Jahren, Netz, Daten</em>
+* `Neut` (164389; 24% of non-empty `Gender`): <em>Prozent, Internet, Unternehmen, Jahr, Ende, Quartal, Jahres, Jahren, Netz, Daten</em>
 * `EMPTY` (44692): <em>Kunden, Teil, Pentium, Kunde, Teile, Steuern, Befragten, Beschäftigten, informations-, Angestellten</em>
 
 <table>
@@ -37,21 +37,21 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt></tt></td><td></td><td><em>Deutsche, Deutscher</em></td><td><em>Deutsch, Deutsche, Deutschen</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (85728) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (85727) occur only with one value of `Gender`.
 
 ### `DET`
 
-395436 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (80% of all `DET` tokens) have a non-empty value of `Gender`.
+395438 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (80% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (394886; 100%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (356611; 90%), <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (326524; 83%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (287697; 73%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (394888; 100%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (356613; 90%), <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (326526; 83%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (287699; 73%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (158052; 40% of non-empty `Gender`): <em>die, der, eine, einer, diese, seiner, seine, dieser, keine, ihre</em>
+* `Fem` (158053; 40% of non-empty `Gender`): <em>die, der, eine, einer, diese, seiner, seine, dieser, keine, ihre</em>
 * `Masc` (108580; 27% of non-empty `Gender`): <em>der, den, des, dem, einen, ein, einem, eines, diesem, seinen</em>
 * `Masc,Neut` (47860; 12% of non-empty `Gender`): <em>dem</em>
-* `Neut` (80944; 20% of non-empty `Gender`): <em>das, ein, des, dem, einem, allem, dies, dieses, eines, diesem</em>
-* `EMPTY` (98931): <em>die, der, den, alle, ihre, diese, keine, viele, anderen, seine</em>
+* `Neut` (80945; 20% of non-empty `Gender`): <em>das, ein, des, dem, einem, allem, dies, dieses, eines, diesem</em>
+* `EMPTY` (98929): <em>die, der, den, alle, ihre, diese, keine, viele, anderen, seine</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -202,7 +202,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (297197; 67%),
 <tt>DET --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1262; 65%),
 <tt>ADJ --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (592; 77%),
-<tt>NOUN --[<tt><a href="de_hdt-dep-expl.html">expl</a></tt>]--> PRON</tt> (251; 61%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-expl.html">expl</a></tt>]--> PRON</tt> (250; 61%),
 <tt>DET --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (50; 52%),
 <tt>DET --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> DET</tt> (44; 54%),
 <tt>DET --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (44; 54%),

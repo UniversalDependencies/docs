@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt>, <tt><a href="sk_snk-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-52552 tokens (50%) have a non-empty value of `Gender`.
+52552 tokens (49%) have a non-empty value of `Gender`.
 23376 types (90%) occur at least once with a non-empty value of `Gender`.
 11904 lemmas (84%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9466; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (9002; 8% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4391; 4% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (2079; 2% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (730; 1% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (620; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
@@ -261,7 +261,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `AUX`
 
-730 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `Gender`.
+730 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (18% of all `AUX` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (730; 100%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (730; 100%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (730; 100%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (730; 100%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (730; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (675; 92%), <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (614; 84%).
 
@@ -270,7 +270,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (240; 33% of non-empty `Gender`): <em>bola, boli, nebola, neboli, bývali, bývala</em>
 * `Masc` (341; 47% of non-empty `Gender`): <em>bol, boli, nebol, neboli, býval, bývali</em>
 * `Neut` (149; 20% of non-empty `Gender`): <em>bolo, nebolo, boli</em>
-* `EMPTY` (2993): <em>som, je, sme, by, sú, bude, si, ste, byť, budú</em>
+* `EMPTY` (3268): <em>som, je, by, sme, sú, bude, si, ste, byť, budú</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -330,7 +330,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (34; 100% of non-empty `Gender`): <em>raz, ráz, razy</em>
-* `EMPTY` (4410): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4374): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, nikdy, teraz</em>
 
 ## Relations with Agreement in `Gender`
 

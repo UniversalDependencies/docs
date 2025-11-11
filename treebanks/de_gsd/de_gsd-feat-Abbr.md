@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-48 tokens (0%) have a non-empty value of `Abbr`.
+49 tokens (0%) have a non-empty value of `Abbr`.
 40 types (0%) occur at least once with a non-empty value of `Abbr`.
-40 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 9 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (1; 0% instances).
+41 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 9 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>GT, P, TD, Chr, FK, FOSs, PD</em>
-* `EMPTY` (30410): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30409): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 
 ### `ADP`
 
@@ -45,6 +45,15 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 * `Yes` (5; 100% of non-empty `Abbr`): <em>bzgl, lt., v., z</em>
 * `EMPTY` (32091): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
+### `ADJ`
+
+4 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+
+`ADJ` tokens may have the following values of `Abbr`:
+
+* `Yes` (4; 100% of non-empty `Abbr`): <em>sog, lat</em>
+* `EMPTY` (21738): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
+
 ### `CCONJ`
 
 4 <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Abbr`.
@@ -53,17 +62,6 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>bzw, od, u</em>
 * `EMPTY` (8819): <em>und, oder, sowie, aber, sondern, als, wie, sowohl, doch, and</em>
-
-### `ADJ`
-
-3 <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="de_gsd-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 67%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 67%).
-
-`ADJ` tokens may have the following values of `Abbr`:
-
-* `Yes` (3; 100% of non-empty `Abbr`): <em>sog, lat</em>
-* `EMPTY` (21737): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
 
 ### `ADV`
 
@@ -105,7 +103,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>og</em>
-* `EMPTY` (311): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
+* `EMPTY` (310): <em>'s, B., u.a., %, etc., z.B., a, z., †, u</em>
 
 ## Relations with Agreement in `Abbr`
 

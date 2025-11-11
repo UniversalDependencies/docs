@@ -12,13 +12,13 @@ It occurs with 6 different values: `Conv`, `Fin`, `Inf`, `Part`, `PartRes`, `Sup
 15895 tokens (9%) have a non-empty value of `VerbForm`.
 6936 types (22%) occur at least once with a non-empty value of `VerbForm`.
 2280 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (14677; 9% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1218; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (14678; 9% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1217; 1% instances).
 
 ### `VERB`
 
-14677 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+14678 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12971; 88%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12493; 85%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11659; 79%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9676; 66%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9665; 66%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9644; 66%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7610; 52%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7477; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12972; 88%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12494; 85%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11660; 79%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9677; 66%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9666; 66%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9644; 66%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7611; 52%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7478; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Fin` (5001; 34% of non-empty `VerbForm`): <em>бысть, бью, бьет, будет, рече, есть, пожалуй, вели, стоитъ, пожалуи</em>
 * `Inf` (2814; 19% of non-empty `VerbForm`): <em>имати, дати, взять, ѣхати, быть, писать, дать, жити, платить, велеть</em>
 * `Part` (2205; 15% of non-empty `VerbForm`): <em>смерено, взято, принето, написано, дано, велѣно, велено, умолочено, писано, построены</em>
-* `PartRes` (3980; 27% of non-empty `VerbForm`): <em>велел, пожаловал, дал, писал, сказал, велѣлъ, послал, пришли, пошли, приложил</em>
+* `PartRes` (3981; 27% of non-empty `VerbForm`): <em>велел, пожаловал, дал, писал, сказал, велѣлъ, послал, пришли, пошли, приложил</em>
 * `Sup` (1; 0% of non-empty `VerbForm`): <em>записыватъ</em>
 * `EMPTY` (175): <em>нет, нѣтъ, надобе, нѣт, нетъ, нельзя, нелзе, надобет, надобетъ, негде</em>
 
@@ -54,9 +54,9 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-1218 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+1217 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1218; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (1200; 99%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (954; 78%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (860; 71%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (742; 61%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1217; 100%), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (1199; 99%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (954; 78%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (859; 71%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (742; 61%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Fin` (776; 64% of non-empty `VerbForm`): <em>будет, есть, есми, бысть, будетъ, есмь, еси, суть, есмя, есте</em>
 * `Inf` (78; 6% of non-empty `VerbForm`): <em>быти, быть, быт(ь), быт[и], быт, быти], есть</em>
 * `Part` (20; 2% of non-empty `VerbForm`): <em>сущу, бывше, бывшу, бывша, бывши, бывших, бывшіꙗ, сушу, сущаа, сущемь</em>
-* `PartRes` (328; 27% of non-empty `VerbForm`): <em>было, были, былъ, была, был, былѡ</em>
+* `PartRes` (327; 27% of non-empty `VerbForm`): <em>было, были, былъ, была, был, былѡ</em>
 * `EMPTY` (255): <em>бы, б, бъ, [б], бь</em>
 
 <table>

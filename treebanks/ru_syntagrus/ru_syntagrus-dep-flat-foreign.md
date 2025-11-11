@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>.
 
-2428 nodes (0%) are attached to their parents as `flat:foreign`.
+1163 nodes (0%) are attached to their parents as `flat:foreign`.
 
-2428 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.10831960461285.
+1163 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.1676698194325.
 
-The following 21 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1574; 65% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (387; 16% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (158; 7% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (136; 6% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (42; 2% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (39; 2% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (34; 1% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (11; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1139; 98% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,30 +23,48 @@ The following 21 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat:foreign	color:blue
-1	И	и	CCONJ	_	_	6	cc	6:cc	_
-2	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	3	det	3:det	_
-3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-4	в	в	ADP	_	_	5	case	5:case	_
-5	названии	название	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	6:obl:в:loc	_
-6	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-7	слово	слово	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
-8	algoritmi	algoritmi	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	_
-9	или	или	CCONJ	_	_	7	cc	7:cc	_
-10	algorismi	algorismi	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	6:punct	_
+1	1857	1857	ADJ	_	NumForm=Digit|NumType=Ord	0	root	0:root	pos="ANUM"|_
+2	-	-	PUNCT	_	_	3	punct	3:punct	_
+3	Основание	основание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	parataxis	1:parataxis	_
+4	Альпийского	альпийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
+5	клуба	клуб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
+6	(	(	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+7	Alpine	Alpine	X	_	Foreign=Yes	5	parataxis	5:parataxis	_
+8	Club	Club	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	SpaceAfter=No
+9	)	)	PUNCT	_	_	7	punct	7:punct	_
+10	в	в	ADP	_	_	11	case	11:case	_
+11	Лондоне	Лондон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	3	nmod	3:nmod:в:loc	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat:foreign	color:blue
-1	Big	Big	X	_	Foreign=Yes	0	root	0:root	_
-2	Wall	Wall	X	_	Foreign=Yes	1	flat:foreign	1:flat:foreign	SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	1:punct	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 18 flat:foreign	color:blue
+1	В	в	ADP	_	_	2	case	2:case	_
+2	разгар	разгар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	12:obl:в:acc	_
+3	Гражданской	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	_
+4	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	2:nmod:gen	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	7:punct	_
+6	в	в	ADP	_	_	7	case	7:case	_
+7	октябре	октябрь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	conj	2:conj|12:obl:в:acc	_
+8	1919	1919	ADJ	_	NumForm=Digit|NumType=Ord	9	amod	9:amod	pos="ANUM"|_
+9	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	9:punct	_
+11	Ленин	Ленин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	12	nsubj	12:nsubj	_
+12	дал	дать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+13	интервью	интервью	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|InflClass=Ind|Number=Sing	12	obj	12:obj	_
+14	газете	газета	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	nmod	13:nmod:dat	_
+15	"	"	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
+16	Чикаго	Чикаго	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|InflClass=Ind|NameType=Geo|Number=Sing	14	appos	14:appos	_
+17	дейли	дейли	X	_	Foreign=Yes	16	flat:foreign	16:flat:foreign	_
+18	ньюс	ньюс	X	_	Foreign=Yes	16	flat:foreign	16:flat:foreign	SpaceAfter=No
+19	"	"	PUNCT	_	_	16	punct	16:punct	SpaceAfter=No
+20	.	.	PUNCT	_	_	12	punct	12:punct	_
 
 ~~~
 
@@ -57,17 +75,18 @@ The following 21 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat:foreign	color:blue
-1	Заменим	заменить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	1:obj	_
-3	на	на	ADP	_	_	6	case	6:case	_
-4	"	"	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
-5	фондовых	фондовый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	6	amod	6:amod	_
-6	брокеров	брокер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	1	obl	1:obl:на:acc	SpaceAfter=No
-7	"	"	PUNCT	_	_	6	punct	6:punct	_
-8	и	и	CCONJ	_	_	9	cc	9:cc	_
-9	получим	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	0:root|1:conj	_
-10	NASDAQ	NASDAQ	X	_	Foreign=Yes	9	flat:foreign	9:flat:foreign	SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	1:punct	_
+1	А	а	CCONJ	_	_	3	cc	3:cc	_
+2	еще	еще	ADV	_	Degree=Pos	3	advmod	3:advmod	_
+3	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	0:root	_
+4	для	для	ADP	_	_	5	case	5:case	_
+5	иностранцев	иностранец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	obl	3:obl:для:gen	_
+6	было	быть	AUX	_	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	SpaceAfter=No
+7	:	:	PUNCT	_	_	9	punct	3:punct	_
+8	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
+9	2012	2012	NOUN	_	_	3	parataxis	3:parataxis	_
+10	PUTINPUTOUT	PUTINPUTOUT	X	_	Foreign=Yes	9	flat:foreign	9:flat:foreign	SpaceAfter=No
+11	"	"	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

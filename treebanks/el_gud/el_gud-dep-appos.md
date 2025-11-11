@@ -22,20 +22,20 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 10 appos	color:blue
-1	Η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	αγαπημένη	αγαπημένος	VERB	VbMnPp	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	amod	_	_
-3	θέση	θέση	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
-4	του	ο	DET	AtDf	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	Ζήση	Ζήσης	PROPN	NoPr	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
-6	,	,	PUNCT	PUNCT	_	7	punct	_	PunctType=Comm
-7	δίπλα	δίπλα	ADV	AdBa	_	10	case	_	_
-8	σ	σε	ADP	AsPpSp	_	7	fixed	_	_
-9	την	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	είσοδο	είσοδος	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	3	appos	_	_
-11	,	,	PUNCT	PUNCT	_	10	punct	_	PunctType=Comm
-12	είναι	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	cop	_	_
-13	άδεια	άδειος	ADJ	NoCm	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-14	.	.	PUNCT	PTERMP	_	13	punct	_	PunctType=Peri
+1	Η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	αγαπημένη	αγαπημένος	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	θέση	θέση	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+4	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Ζήση	Ζήσης	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	PunctType=Comm
+7	δίπλα	δίπλα	ADV	_	_	10	case	_	_
+8	σ	σε	ADP	_	_	7	fixed	_	_
+9	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	είσοδο	είσοδος	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	appos	_	_
+11	,	,	PUNCT	_	_	10	punct	_	PunctType=Comm
+12	είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	cop	_	_
+13	άδεια	άδειος	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	PunctType=Peri
 
 ~~~
 
@@ -46,18 +46,18 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 appos	color:blue
-1	«	«	PUNCT	OPUNCT	_	2	punct	_	PunctType=Quot
-2	Μπράβο	μπράβο	INTJ	Ij	_	9	ccomp	_	_
-3	,	,	PUNCT	PUNCT	_	4	punct	_	PunctType=Comm
-4	Ούλι	Ούλι	PROPN	Ij	_	2	vocative	_	_
-5	,	,	PUNCT	PUNCT	_	6	punct	_	PunctType=Comm
-6	παιδί	παιδί	NOUN	NoCm	Case=Voc|Gender=Neut|Number=Sing	4	appos	_	_
-7	μου	μου	PRON	PnPe	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	_
-8	»	»	PUNCT	CPUNCT	_	6	punct	_	PunctType=Quot
-9	ενθουσιάζεται	ενθουσιάζω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-10	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	Αδριανή	Αδριανή	PROPN	NoPr	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	PTERMP	_	9	punct	_	PunctType=Peri
+1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot
+2	Μπράβο	μπράβο	INTJ	_	_	9	ccomp	_	_
+3	,	,	PUNCT	_	_	4	punct	_	PunctType=Comm
+4	Ούλι	Ούλι	PROPN	_	_	2	vocative	_	_
+5	,	,	PUNCT	_	_	6	punct	_	PunctType=Comm
+6	παιδί	παιδί	NOUN	_	Case=Voc|Gender=Neut|Number=Sing	4	appos	_	_
+7	μου	εγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	_
+8	»	»	PUNCT	_	_	6	punct	_	PunctType=Quot
+9	ενθουσιάζεται	ενθουσιάζω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Αδριανή	Αδριανή	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	PunctType=Peri
 
 ~~~
 
@@ -68,20 +68,20 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 appos	color:blue
-1	Σ	σε	ADP	AsPpSp	_	3	case	_	_
-2	το	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
-3	τέλος	τέλος	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
-4	θα	θα	AUX	PtFu	Tense=Fut	5	aux	_	_
-5	μπει	μπαίνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	root	_	_
-6	το	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
-7	γνωστό	γνωστός	ADJ	AjBa	Case=Nom|Gender=Neut|Number=Sing	8	amod	_	_
-8	ερώτημα	ερώτημα	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
-9	:	:	PUNCT	PTERM	_	8	punct	_	PunctType=Colo
-10	τι	τι	PRON	PnIr	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	11	obj	_	_
-11	κάνει	κάνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	appos	_	_
-12	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	αστυνομία	αστυνομία	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
-14	;	;	PUNCT	PTERM	_	5	punct	_	PunctType=Qest
+1	Σ	σε	ADP	_	_	3	case	_	_
+2	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	τέλος	τέλος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+4	θα	θα	AUX	_	Tense=Fut	5	aux	_	_
+5	μπει	μπαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	root	_	_
+6	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+7	γνωστό	γνωστός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	8	amod	_	_
+8	ερώτημα	ερώτημα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+9	:	:	PUNCT	_	_	8	punct	_	PunctType=Colo
+10	τι	τι	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	11	obj	_	_
+11	κάνει	κάνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	appos	_	_
+12	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	αστυνομία	αστυνομία	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+14	;	;	PUNCT	_	_	5	punct	_	PunctType=Qest
 
 ~~~
 

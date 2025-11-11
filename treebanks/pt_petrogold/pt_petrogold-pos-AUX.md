@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="pt_petrogold-po
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 12.400000 (the average of all parts of speech is 1.452422).
+The form / lemma ratio of `AUX` is 12.400000 (the average of all parts of speech is 1.452383).
 
 The 1st highest number of forms (24) was observed with the lemma “ser”: <em>e, era, eram, foi, for, foram, forem, fosse, fossem, seja, sejam, sendo, ser, sera, serem, seria, seriam, será, serão, sido, são, È, é, Ǻ</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (19) was observed with the lemma “estar”: <e
 
 The 3rd highest number of forms (12) was observed with the lemma “ter”: <em>tem, tendo, tenha, tenham, ter, terem, teria, teriam, teve, tiver, tivesse, têm</em>.
 
-`AUX` occurs with 6 features: <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt> (6571; 100% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (5434; 83% instances), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt> (5428; 83% instances), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt> (5341; 81% instances), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt> (4725; 72% instances), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (4; 0% instances)
+`AUX` occurs with 7 features: <tt><a href="pt_petrogold-feat-VerbForm.html">VerbForm</a></tt> (6571; 100% instances), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt> (5434; 83% instances), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt> (5428; 83% instances), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt> (5341; 81% instances), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt> (4725; 72% instances), <tt><a href="pt_petrogold-feat-ExtPos.html">ExtPos</a></tt> (60; 1% instances), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt> (4; 0% instances)
 
-`AUX` occurs with 15 feature-value pairs: `Gender=Masc`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 17 feature-value pairs: `ExtPos=ADV`, `ExtPos=SCONJ`, `Gender=Masc`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 26 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (2128 tokens).
+`AUX` occurs with 30 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (2127 tokens).
 Examples: <em>é, está, tem, vai, esta, È, Ǻ</em>
 
 

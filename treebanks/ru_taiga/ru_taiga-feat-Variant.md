@@ -11,7 +11,7 @@ It occurs with 1 different values: `Short`.
 
 19053 tokens (1%) have a non-empty value of `Variant`.
 4643 types (3%) occur at least once with a non-empty value of `Variant`.
-2337 lemmas (4%) occur at least once with a non-empty value of `Variant`.
+2335 lemmas (4%) occur at least once with a non-empty value of `Variant`.
 The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (13128; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (5623; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (302; 0% instances).
 
 ### `ADJ`
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Variant` co-occurr
 
 * `Short` (5623; 100% of non-empty `Variant`): <em>связано, связаны, написано, связана, связан, сказано, созданы, образовано, представлены, написаны</em>
 
-`Variant` seems to be **lexical feature** of `VERB`. 100% lemmas (1034) occur only with one value of `Variant`.
+`Variant` seems to be **lexical feature** of `VERB`. 100% lemmas (1032) occur only with one value of `Variant`.
 
 ### `DET`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7098 nodes (0%) are attached to their parents as `cop`.
+7101 nodes (0%) are attached to their parents as `cop`.
 
-4767 instances of `cop` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85686108763032.
+4769 instances of `cop` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85663990987185.
 
-The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3082; 43% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (2388; 34% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (786; 11% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (307; 4% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (213; 3% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (123; 2% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (113; 2% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (72; 1% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3109; 44% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (2388; 34% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (520; 7% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (311; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (308; 4% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (213; 3% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (123; 2% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (115; 2% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -62,11 +62,11 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	пуд	пуд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	7:obl:за:acc	_
 3	медных	медный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	4:amod	_
 4	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	2:nmod:gen	_
-5	можно	можно	ADV	_	Degree=Pos	0	root	0:root	_
+5	можно	можно	VERB	_	_	0	root	0:root	_
 6	было	быть	AUX	_	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
 7	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	5:csubj	_
 8	от	от	ADP	_	_	9	case	9:case	_
-9	32	32	NUM	_	NumForm=Digit|NumType=Card	7	obl	7:obl:от:gen	_
+9	32	32	NUM	_	NumForm=Digit|NumType=Card	7	obl:tmod	7:obl:от:gen	_
 10	до	до	ADP	_	_	12	case	12:case	_
 11	40	40	NUM	_	NumForm=Digit|NumType=Card	12	nummod	12:nummod	_
 12	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	9:nmod:до:gen	SpaceAfter=No

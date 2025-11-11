@@ -68,12 +68,12 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 mark	color:blue
-1	Fir	_	ADP	_	_	6	advmod	_	GermanLemma=für
-2	des	_	DET	_	_	1	fixed	_	GermanLemma=das
+1	Fir	_	ADP	_	_	2	case	_	GermanLemma=für
+2	des	_	PRON	_	_	13	obl	_	GermanLemma=das
 3	das	_	SCONJ	_	_	6	mark	_	GermanLemma=dass|SpaceAfter=No
 4	'a	_	PRON	_	_	6	nsubj	_	GermanLemma=er
 5	su	_	ADV	_	_	6	advmod	_	GermanLemma=so
-6	olt	_	ADJ	_	_	13	advcl	_	GermanLemma=alt
+6	olt	_	ADJ	_	_	2	ccomp	_	GermanLemma=alt
 7	is	_	AUX	_	_	6	cop	_	GermanLemma=sein|SpaceAfter=No
 8	,	_	PUNCT	_	_	6	punct	_	GermanLemma=,
 9	is	_	AUX	_	_	13	cop	_	GermanLemma=sein|SpaceAfter=No

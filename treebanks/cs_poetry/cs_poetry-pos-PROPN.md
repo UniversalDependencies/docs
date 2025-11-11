@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Světice</em> (<tt><a href="cs_poetry
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.014493 (the average of all parts of speech is 1.400929).
+The form / lemma ratio of `PROPN` is 1.014493 (the average of all parts of speech is 1.401136).
 
 The 1st highest number of forms (2) was observed with the lemma “Armand”: <em>Armand, Armandovi</em>.
 

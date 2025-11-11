@@ -23,27 +23,27 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 6 csubj:outer	color:blue
-1	Kamangka	_	ADV	_	_	14	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	_	_	1	punct	_	_
-3	supaya	_	SCONJ	_	Polite=Infm	4	mark	_	_
-4	tekan	_	VERB	_	Mood=Ind|Voice=Act	14	advcl	_	_
-5	anggone	_	SCONJ	_	_	6	mark	_	_
-6	nuju	_	VERB	_	Mood=Ind|Voice=Act	14	csubj:outer	_	_
-7	katentremaning	_	NOUN	_	Number=Sing	6	obl	_	_
-8	urip	_	NOUN	_	Number=Sing	7	nmod	_	_
-9	kang	_	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
-10	sejati	_	ADJ	_	_	8	advcl	_	SpaceAfter=No
-11	,	_	PUNCT	_	_	14	punct	_	_
-12	manungsa	_	NOUN	_	Number=Sing	14	nsubj	_	_
-13	kudu	_	AUX	_	Polite=Infm	14	aux	_	_
-14	nyingkiri	_	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-15	rasa	_	NOUN	_	Number=Sing	14	obj	_	_
-16	tresna	_	NOUN	_	Number=Sing	15	nmod	_	_
-17	e	_	DET	_	Definite=Def|Polite=Infm|PronType=Art	16	det	_	_
-18	marang	_	ADP	_	Polite=Infm	19	case	_	_
-19	bandha	_	NOUN	_	Number=Sing	14	obl	_	_
-20	donya	_	NOUN	_	Number=Sing	19	nmod	_	SpaceAfter=No
-21	.	_	PUNCT	_	_	14	punct	_	_
+1	Kamangka	kamangka	ADV	_	_	14	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	supaya	supaya	SCONJ	_	Polite=Infm	4	mark	_	_
+4	tekan	tekan	VERB	_	Voice=Act	14	advcl	_	_
+5	anggone	anggo	SCONJ	_	_	6	mark	_	_
+6	nuju	tuju	VERB	_	Voice=Act	14	csubj:outer	_	_
+7	katentremaning	tentrem	NOUN	_	Number=Sing	6	obl	_	_
+8	urip	urip	NOUN	_	Number=Sing	7	nmod	_	_
+9	kang	kang	PRON	_	Polite=Infm|PronType=Rel	10	nsubj	_	_
+10	sejati	jati	ADJ	_	_	8	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	manungsa	manungsa	NOUN	_	Number=Sing	14	nsubj	_	_
+13	kudu	kudu	AUX	_	Polite=Infm	14	aux	_	_
+14	nyingkiri	singkir	VERB	_	Voice=Act	0	root	_	_
+15	rasa	rasa	NOUN	_	Number=Sing	14	obj	_	_
+16	tresna	tresna	NOUN	_	Number=Sing	15	nmod	_	_
+17	e	e	DET	_	Definite=Def|Polite=Infm|PronType=Art	16	det	_	_
+18	marang	arang	ADP	_	Polite=Infm	19	case	_	_
+19	bandha	bandha	NOUN	_	Number=Sing	14	obl	_	_
+20	donya	donya	NOUN	_	Number=Sing	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 

@@ -28,11 +28,11 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 3	asal	asal	NOUN	_	Number=Sing	1	nmod	_	_
 4	usul	usul	NOUN	_	Number=Sing	3	compound	_	_
 5	musik	musik	NOUN	_	Number=Sing	3	nmod	_	_
-6	bergantung	gantung	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	bergantung	gantung	VERB	_	Voice=Act	0	root	_	_
 7	pada	pada	SCONJ	_	_	10	mark	_	_
 8	bagaimana	bagaimana	ADV	_	PronType=Rel	10	advmod	_	_
 9	musik	musik	NOUN	_	Number=Sing	10	nsubj:pass	_	_
-10	didefinisikan	definisi	VERB	_	Mood=Ind|Voice=Pass	6	xcomp	_	SpaceAfter=No
+10	didefinisikan	definisi	VERB	_	Voice=Pass	6	xcomp	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 12 13 compound	color:blue
 1	Orang	orang	NOUN	_	Number=Sing	3	nsubj	_	_
 2	tidak	tidak	PART	_	Polarity=Neg	3	advmod	_	_
-3	tahu	tahu	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	tahu	tahu	VERB	_	Voice=Act	0	root	_	_
 4	dengan	dengan	ADP	_	_	5	case	_	_
 5	cara	cara	NOUN	_	Number=Sing	12	obl	_	_
 6	apa	apa	PRON	_	PronType=Rel	5	nmod	_	_
@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 9	drama	drama	NOUN	_	Number=Sing	8	nmod	_	_
 10	itu	itu	DET	_	PronType=Dem	8	det	_	_
 11	telah	telah	AUX	_	_	12	aux	_	_
-12	bekerja	kerja	VERB	_	Mood=Ind|Voice=Act	3	advcl	_	_
+12	bekerja	kerja	VERB	_	Voice=Act	3	advcl	_	_
 13	sama	sama	ADJ	_	_	12	compound	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 

@@ -18,7 +18,7 @@ The feature is used with 12 part-of-speech tags: <tt><a href="hyw_armtdp-pos-PRO
 
 64 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt> (50; 78%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt> (50; 78%).
 
 `PRON` tokens may have the following values of `Typo`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 29 <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (29; 100%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (29; 100%), <tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (29; 100%).
 
 `DET` tokens may have the following values of `Typo`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 3 <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PART` and `Typo` co-occurred: <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `PART` and `Typo` co-occurred: <tt><a href="hyw_armtdp-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `PART` tokens may have the following values of `Typo`:
 

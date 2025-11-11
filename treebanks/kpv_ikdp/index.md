@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -149,13 +149,22 @@ The transcription is also published in Zenodo:
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Conv
   <ul>
     <li>VERB: велӧдчигӧныс, вӧрзялыгдырйи, локтігӧныс, мунігӧныс</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: вӧлі, из, оз, вӧліс, ог, выйым, он, кута, куча</li>
+    <li>VERB: кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, висьтоо, воедіс, мунэма</li>
   </ul>
   </li>
 </ul>
@@ -198,9 +207,11 @@ The transcription is also published in Zenodo:
     <ul>
       <li>ADJ: Даддяяс, большие, кӧреннэйяс, ыдзыдэсь</li>
       <li>AUX: были, оз</li>
+      <li>AUX-Fin: оз</li>
       <li>NOUN: кыыяс, ваяс, дадюуяс, кокъясэ, курсъяс, ребята, Гожемъясын, Керкаяс, Кӧръяс, авкоясэн</li>
       <li>PRON: миян, ми, нас, ная, меам, миянлы, миянумес, миянэс, мукедъясыс, мӧдъясыслэн</li>
       <li>VERB: воедісныс, колэныс, мунэныс, пондісны, чечченыс, ваедісны, вайӧдісны, велӧдчӧны, ветлэныс, ветлӧны</li>
+      <li>VERB-Fin: воедісныс, колэныс, мунэныс, пондісны, чечченыс, ваедісны, вайӧдісны, велӧдчӧны, ветлэныс, ветлӧны</li>
       <li>VERB-Vnoun: тӧдэмъяссэ</li>
     </ul>
   </li>
@@ -213,6 +224,7 @@ The transcription is also published in Zenodo:
       <li>ADP: вылын, бӧрын, вылэ, вывті, доре, йылысь, сае, сайын, бӧрас, вылас</li>
       <li>ADV: вӧдзӧ, бӧрӧ, Неуна, бура, бӧр, водз, дзикедз</li>
       <li>AUX: вӧлі, выйым, из, вӧліс, было, кута, куча, оз</li>
+      <li>AUX-Fin: вӧлі, из, вӧліс, выйым, кута, куча, оз</li>
       <li>DET: уна, Став, всю, мӧд, ставыс, такое, унджык</li>
       <li>INTJ: эта</li>
       <li>NOUN: во, ае, вок, коми, туй, чой, Пустыня, год, кыы, кӧр</li>
@@ -220,6 +232,7 @@ The transcription is also published in Zenodo:
       <li>PRON: ме, сыа, сы, сія, менам, менэ, мый, мыйке, сіе, сіен</li>
       <li>PROPN: Иван, Из, Тимкалэн, Азии, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный</li>
       <li>VERB: кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, висьтоо, воедіс, мунэма</li>
+      <li>VERB-Fin: кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, висьтоо, воедіс, мунэма</li>
       <li>VERB-Part: закончитэм</li>
       <li>VERB-Vnoun: Велэдчем, босьтӧм, велэдчемысь, закончитэм, олэмад</li>
     </ul>
@@ -466,6 +479,7 @@ The transcription is also published in Zenodo:
     <ul>
       <li>ADV: невозможнэ, никучем, ничего</li>
       <li>AUX: абу, из, оз, ог, он</li>
+      <li>AUX-Fin: из, оз, ог, он</li>
       <li>PART: не</li>
       <li>PRON: никод, никодэс, нинӧм</li>
     </ul>
@@ -503,7 +517,7 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: висьтоо, Считай, видед, нӧревитлы, расскажит</li>
+      <li>VERB-Fin: висьтоо, Считай, видед, нӧревитлы, расскажит</li>
     </ul>
   </li>
 </ul>
@@ -512,7 +526,8 @@ The transcription is also published in Zenodo:
   <li>Ind
     <ul>
       <li>AUX: вӧлі, из, оз, вӧліс, ог, были, выйым, он, было, кута</li>
-      <li>VERB: кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, воедіс, мунэма, мӧдэма</li>
+      <li>AUX-Fin: вӧлі, из, оз, вӧліс, ог, выйым, он, кута, куча</li>
+      <li>VERB-Fin: кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, воедіс, мунэма, мӧдэма</li>
     </ul>
   </li>
 </ul>
@@ -524,7 +539,7 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: лоас, мӧдасы, ортсаласны, сетасныс</li>
+      <li>VERB-Fin: лоас, мӧдасы, ортсаласны, сетасныс</li>
     </ul>
   </li>
 </ul>
@@ -533,7 +548,8 @@ The transcription is also published in Zenodo:
   <li>Past
     <ul>
       <li>AUX: вӧлі, из, вӧліс, были, было</li>
-      <li>VERB: сетіс, рӧдитчи, босьтіс, вежсис, ветлі, воедіс, мунэма, мӧдэма, примитіс, пукаліс</li>
+      <li>AUX-Fin: вӧлі, из, вӧліс</li>
+      <li>VERB-Fin: сетіс, рӧдитчи, босьтіс, вежсис, ветлі, воедіс, мунэма, мӧдэма, примитіс, пукаліс</li>
       <li>VERB-Part: закончитэм</li>
       <li>VERB-Vnoun: босьтӧм, закончитэм</li>
     </ul>
@@ -543,8 +559,8 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: оз, ог, выйым, он, кута, куча</li>
-      <li>VERB: кӧсъя, любита, велэда, висьталэ, вӧтлэ, интересуйтэ, кажитче, колэныс, локтэ, мунэныс</li>
+      <li>AUX-Fin: оз, ог, выйым, он, кута, куча</li>
+      <li>VERB-Fin: кӧсъя, любита, велэда, висьталэ, вӧтлэ, интересуйтэ, кажитче, колэныс, локтэ, мунэныс</li>
     </ul>
   </li>
 </ul>
@@ -568,7 +584,7 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Nfh
     <ul>
-      <li>VERB: мунэма, мӧдэма, висьталэма, Пургамема, бергедчема, волэма, воома, воссема, вурема, вӧрземаась</li>
+      <li>VERB-Fin: мунэма, мӧдэма, висьталэма, Пургамема, бергедчема, волэма, воома, воссема, вурема, вӧрземаась</li>
     </ul>
   </li>
 </ul>
@@ -593,7 +609,8 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: мыйке, кодке, мыйкесэ</li>
+      <li>DET: уна, унджык</li>
+      <li>PRON: мыйке, кодке, мукедъясыс, мыйкесэ, никод, никодэс, нинӧм</li>
     </ul>
   </li>
 </ul>
@@ -628,7 +645,8 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: быд, быдӧнӧс, куимнансэ</li>
+      <li>DET: Став, ставыс</li>
+      <li>PRON: быд, ставыс, быдӧнӧс, куимнансэ</li>
     </ul>
   </li>
 </ul>
@@ -691,9 +709,9 @@ The transcription is also published in Zenodo:
 <ul>
   <li>1
     <ul>
-      <li>AUX: ог, кута, куча</li>
+      <li>AUX-Fin: ог, кута, куча</li>
       <li>PRON: ме, миян, ми, менам, менэ, ачум, мен, меня, нас, Ассюм</li>
-      <li>VERB: кӧсъя, любита, рӧдитчи, ветлі, рӧдитчылі, велэда, кочегариті, рӧбиті, тӧда, эштӧді</li>
+      <li>VERB-Fin: кӧсъя, любита, рӧдитчи, ветлі, рӧдитчылі, велэда, кочегариті, рӧбиті, тӧда, эштӧді</li>
     </ul>
   </li>
 </ul>
@@ -701,9 +719,9 @@ The transcription is also published in Zenodo:
 <ul>
   <li>2
     <ul>
-      <li>AUX: он</li>
+      <li>AUX-Fin: он</li>
       <li>PRON: тэ, Тэнэ, аслад, ассьыд, тэн, тэнад</li>
-      <li>VERB: висьтоо, велэдін, помалін, тӧдан, Считай, велэдчин, видед, висьталін, занимайтчан, казьоолан</li>
+      <li>VERB-Fin: висьтоо, велэдін, помалін, тӧдан, Считай, велэдчин, видед, висьталін, занимайтчан, казьоолан</li>
     </ul>
   </li>
 </ul>
@@ -711,9 +729,10 @@ The transcription is also published in Zenodo:
 <ul>
   <li>3
     <ul>
-      <li>AUX: вӧлі, из, оз, вӧліс, выйым</li>
+      <li>AUX-Fin: вӧлі, из, оз, вӧліс, выйым</li>
       <li>PRON: сыа, сы, сія, сіе, сіен, сіес, сійӧ, ачыс, Ная, Сылэн</li>
       <li>VERB: сетіс, босьтіс, вежсис, воедіс, мунэма, примитіс, пукаліс, чеччис, xывнитіс, ветліс</li>
+      <li>VERB-Fin: сетіс, босьтіс, вежсис, воедіс, мунэма, примитіс, пукаліс, чеччис, xывнитіс, ветліс</li>
     </ul>
   </li>
 </ul>
@@ -819,7 +838,7 @@ The transcription is also published in Zenodo:
     <ul>
       <li>Al
         <ul>
-          <li>VERB: ветлалэ</li>
+          <li>VERB-Fin: ветлалэ</li>
         </ul>
       </li>
       <li>Ig
@@ -982,12 +1001,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Ill (1)</li>
-      <li>VERB--NOUN-Nom (48)</li>
-      <li>VERB--PRON (7)</li>
-      <li>VERB--PRON-Dat (1)</li>
-      <li>VERB--PRON-Gen (2)</li>
-      <li>VERB--PRON-Nom (49)</li>
+      <li>VERB--NOUN-Nom (3)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB--PRON-Nom (4)</li>
+      <li>VERB-Fin--NOUN-Ill (1)</li>
+      <li>VERB-Fin--NOUN-Nom (45)</li>
+      <li>VERB-Fin--PRON (6)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
+      <li>VERB-Fin--PRON-Nom (45)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
     </ul>
   </li>
@@ -996,12 +1018,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (23)</li>
-      <li>VERB--NOUN-Dat-ADP(по) (1)</li>
-      <li>VERB--NOUN-Nom (27)</li>
-      <li>VERB--PRON-Acc (10)</li>
-      <li>VERB--PRON-Dat (1)</li>
-      <li>VERB--PRON-Nom (6)</li>
+      <li>VERB--NOUN-Acc (1)</li>
+      <li>VERB--NOUN-Nom (1)</li>
+      <li>VERB--PRON-Acc (2)</li>
+      <li>VERB-Fin--NOUN-Acc (22)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(по) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (26)</li>
+      <li>VERB-Fin--PRON-Acc (8)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Nom (6)</li>
       <li>VERB-Inf--NOUN-Acc (8)</li>
       <li>VERB-Inf--NOUN-Nom (5)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>

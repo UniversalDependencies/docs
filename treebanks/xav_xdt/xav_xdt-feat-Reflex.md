@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (6; 100% of non-empty `Reflex`): <em>siwi, wasima, ĩĩsima, asina</em>
-* `EMPTY` (122): <em>wa, wahã, aima, tãma, wanorĩhã, õhã, aihini, ni'wa, uburé, Taha</em>
+* `EMPTY` (123): <em>wa, wahã, aima, tãma, hã, õhã, aihini, ni'wa, uburé, Taha</em>
 
 ### `NOUN`
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-21331 tokens (26%) have a non-empty value of `Gender`.
-3423 types (32%) occur at least once with a non-empty value of `Gender`.
-2164 lemmas (25%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (11577; 14% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (6616; 8% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (2104; 3% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (478; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (467; 1% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (61; 0% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
+21332 tokens (26%) have a non-empty value of `Gender`.
+3425 types (32%) occur at least once with a non-empty value of `Gender`.
+2166 lemmas (25%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 9 part-of-speech tags: <tt><a href="pt_dantestocks-pos-NOUN.html">NOUN</a></tt> (11577; 14% instances), <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> (6615; 8% instances), <tt><a href="pt_dantestocks-pos-ADJ.html">ADJ</a></tt> (2104; 3% instances), <tt><a href="pt_dantestocks-pos-PRON.html">PRON</a></tt> (478; 1% instances), <tt><a href="pt_dantestocks-pos-VERB.html">VERB</a></tt> (467; 1% instances), <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> (63; 0% instances), <tt><a href="pt_dantestocks-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="pt_dantestocks-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="pt_dantestocks-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
@@ -34,17 +34,17 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>acoes, açõe, açoes</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (1626) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (1627) occur only with one value of `Gender`.
 
 ### `DET`
 
-6616 <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
+6615 <tt><a href="pt_dantestocks-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5898; 89%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5677; 86%), <tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5516; 83%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5897; 89%), <tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5676; 86%), <tt><a href="pt_dantestocks-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5515; 83%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (3800; 57% of non-empty `Gender`): <em>a, as, uma, sua, essa, esta, suas, minha, alguma, nossa</em>
+* `Fem` (3799; 57% of non-empty `Gender`): <em>a, as, uma, sua, essa, esta, suas, minha, alguma, nossa</em>
 * `Masc` (2816; 43% of non-empty `Gender`): <em>o, os, um, esse, este, seu, meu, mesmo, outros, todo</em>
 * `EMPTY` (106): <em>que, quais, mais, qual, cada, qualquer, tal, qq, demais, menos</em>
 
@@ -99,8 +99,8 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt>|<tt><a href="pt_dantestocks-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>mo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>o</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>a</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>a</em></td></tr>
+  <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>a</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o</em></td><td><em>a</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_dantestocks-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>os</em></td><td><em>as</em></td></tr>
   <tr><td><tt><tt><a href="pt_dantestocks-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_dantestocks-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>os</em></td><td><em>as</em></td></tr>
@@ -125,14 +125,14 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `NUM`
 
-61 <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Gender`.
+63 <tt><a href="pt_dantestocks-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="pt_dantestocks-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (60; 98%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="pt_dantestocks-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (62; 98%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (27; 44% of non-empty `Gender`): <em>uma, duas</em>
-* `Masc` (34; 56% of non-empty `Gender`): <em>um, dois</em>
+* `Fem` (29; 46% of non-empty `Gender`): <em>uma, duas, 2</em>
+* `Masc` (34; 54% of non-empty `Gender`): <em>um, dois</em>
 * `EMPTY` (4960): <em>13, 5, 3, 10, 15, 2, 1, 4, 31/12/2013, 6</em>
 
 <table>
@@ -148,7 +148,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 `ADP` tokens may have the following values of `Gender`:
 
 * `Fem` (19; 100% of non-empty `Gender`): <em>a, as</em>
-* `EMPTY` (8740): <em>de, em, a, com, para, por, c/, pra, sobre, até</em>
+* `EMPTY` (8741): <em>de, em, a, com, para, por, c/, pra, sobre, até</em>
 
 ### `AUX`
 

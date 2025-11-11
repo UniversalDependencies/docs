@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (498; 100% of non-empty `NumType`): <em>first, second, third, 19th, fourth, 20th, fifth, 30th, 3rd, 10th</em>
-* `EMPTY` (14714): <em>other, new, many, good, little, more, such, same, different, last</em>
+* `EMPTY` (14708): <em>other, new, many, good, little, more, such, same, different, last</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (64) occur only with one value of `NumType`.
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Frac` (4; 2% of non-empty `NumType`): <em>half</em>
 * `Mult` (51; 31% of non-empty `NumType`): <em>once, twice</em>
 * `Ord` (108; 66% of non-empty `NumType`): <em>first, second, third, 135th, Fifth, Fourth, 15th, sixth</em>
-* `EMPTY` (11029): <em>so, just, when, then, also, how, now, more, here, really</em>
+* `EMPTY` (11035): <em>so, just, when, then, also, how, now, more, here, really</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `NumType`.
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 * `Card` (37; 32% of non-empty `NumType`): <em>1960s, 1970s, 1830s, 1950s, 1980s, 1990s, 1920s, 1930s, 1940s, 2000s</em>
 * `Frac` (80; 68% of non-empty `NumType`): <em>half, quarter, third, thirds, quarters, fifths, halves, hundredths, millionth, tenth</em>
-* `EMPTY` (38778): <em>people, time, day, way, years, year, world, life, today, city</em>
+* `EMPTY` (38787): <em>people, time, day, way, years, year, world, life, today, city</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `NumType`.
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Frac` (12; 100% of non-empty `NumType`): <em>half</em>
-* `EMPTY` (19066): <em>the, a, this, an, all, some, that, these, no, any</em>
+* `EMPTY` (19065): <em>the, a, this, an, all, some, that, these, no, any</em>
 
 ### `PROPN`
 
@@ -90,19 +90,19 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>EIGHT, One</em>
-* `EMPTY` (13278): <em>States, University, President, York, America, New, south, Warhol, State, figure</em>
+* `EMPTY` (13283): <em>States, University, President, York, America, New, south, Warhol, State, figure</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> NUM</tt> (198; 94%),
+<tt>NUM --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> NUM</tt> (233; 95%),
 <tt>NUM --[<tt><a href="en_gum-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (138; 99%),
 <tt>NUM --[<tt><a href="en_gum-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (136; 100%),
-<tt>NUM --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> NUM</tt> (108; 96%),
-<tt>NUM --[<tt><a href="en_gum-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (14; 74%),
+<tt>NUM --[<tt><a href="en_gum-dep-compound.html">compound</a></tt>]--> NUM</tt> (121; 95%),
+<tt>NUM --[<tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (14; 100%),
 <tt>NUM --[<tt><a href="en_gum-dep-flat.html">flat</a></tt>]--> NUM</tt> (13; 100%),
-<tt>NUM --[<tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (9; 100%),
 <tt>ADJ --[<tt><a href="en_gum-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%),
-<tt>NUM --[<tt><a href="en_gum-dep-dep.html">dep</a></tt>]--> NUM</tt> (5; 100%),
-<tt>NUM --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> NUM</tt> (2; 100%).
+<tt>NUM --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> NUM</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="en_gum-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADV --[<tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (1; 100%).
 

@@ -133,7 +133,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (29; 17% of non-empty `Number`): <em>amables, apretás, diferentes, grandes, medicinales, naturales, patronales, viejas, viejos, antiguos</em>
-* `Sing` (142; 83% of non-empty `Number`): <em>grande, natural, buen, diferente, joven, buena, bueno, igual, criollo, mismo</em>
+* `Sing` (142; 83% of non-empty `Number`): <em>grande, natural, buen, diferente, joven, buena, bueno, criollo, igual, mismo</em>
 * `EMPTY` (2): <em>acotumago, posiblemente</em>
 
 <table>
@@ -181,7 +181,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (594; 98%),
 <tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (116; 57%),
-<tt>VERB --[<tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (98; 70%),
+<tt>VERB --[<tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (99; 70%),
 <tt>VERB --[<tt><a href="es_coser-dep-obl.html">obl</a></tt>]--> NOUN</tt> (96; 52%),
 <tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (93; 62%),
 <tt>VERB --[<tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (77; 77%),

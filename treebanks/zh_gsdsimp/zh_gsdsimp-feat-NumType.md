@@ -12,15 +12,15 @@ It occurs with 2 different values: `Card`, `Ord`.
 6661 tokens (5%) have a non-empty value of `NumType`.
 1255 types (6%) occur at least once with a non-empty value of `NumType`.
 1255 lemmas (6%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-NUM.html">NUM</a></tt> (6659; 5% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-NUM.html">NUM</a></tt> (6658; 5% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
 
 ### `NUM`
 
-6659 <tt><a href="zh_gsdsimp-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+6658 <tt><a href="zh_gsdsimp-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (6258; 94% of non-empty `NumType`): 一、 两、 三、 1、 3、 12、 5、 2、 8、 10
+* `Card` (6257; 94% of non-empty `NumType`): 一、 两、 三、 1、 3、 12、 5、 2、 8、 10
 * `Ord` (401; 6% of non-empty `NumType`): 第一、 第二、 第三、 首次、 第四、 第五、 第1、 第六、 第七、 首位
 * `EMPTY` (1): 8.17
 
@@ -29,16 +29,16 @@ The feature is used with 2 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-NUM.
   <tr><td><tt></tt></td><td>三</td><td>三</td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1252) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1251) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-2 <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumType`.
+3 <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (2; 100% of non-empty `NumType`): 第16、 第一
-* `EMPTY` (3028): 不同、 一些、 重要、 主要、 一般、 最高、 最大、 唯一、 一样、 大量
+* `Ord` (3; 100% of non-empty `NumType`): 2nd、 第16、 第一
+* `EMPTY` (3030): 不同、 一些、 重要、 主要、 一般、 最高、 最大、 唯一、 一样、 大量
 
 ## Relations with Agreement in `NumType`
 

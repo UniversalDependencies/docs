@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>ერთი</em> (<tt><a href="ka_gl
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.298077 (the average of all parts of speech is 1.677821).
+The form / lemma ratio of `NUM` is 1.298077 (the average of all parts of speech is 1.674782).
 
 The 1st highest number of forms (11) was observed with the lemma “ერთი”: <em>ერთ, ერთი, ერთიცა, ერთ–, პირველ, პირველად, პირველთაგანი, პირველი, პირველივე, პირველმა, პირველსა</em>.
 
@@ -45,20 +45,20 @@ The 2nd highest number of forms (11) was observed with the lemma “ორი”
 
 The 3rd highest number of forms (5) was observed with the lemma “20”: <em>20, 20-, 20-იან, XX, მე-20</em>.
 
-`NUM` occurs with 5 features: <tt><a href="ka_glc-feat-NumType.html">NumType</a></tt> (1024; 100% instances), <tt><a href="ka_glc-feat-NumForm.html">NumForm</a></tt> (660; 64% instances), <tt><a href="ka_glc-feat-Case.html">Case</a></tt> (388; 38% instances), <tt><a href="ka_glc-feat-Number.html">Number</a></tt> (366; 36% instances), <tt><a href="ka_glc-feat-PartType.html">PartType</a></tt> (5; 0% instances)
+`NUM` occurs with 5 features: <tt><a href="ka_glc-feat-NumType.html">NumType</a></tt> (1024; 100% instances), <tt><a href="ka_glc-feat-NumForm.html">NumForm</a></tt> (660; 64% instances), <tt><a href="ka_glc-feat-Case.html">Case</a></tt> (388; 38% instances), <tt><a href="ka_glc-feat-Number.html">Number</a></tt> (158; 15% instances), <tt><a href="ka_glc-feat-PartType.html">PartType</a></tt> (5; 0% instances)
 
 `NUM` occurs with 14 feature-value pairs: `Case=Dat`, `Case=Erg`, `Case=Ess`, `Case=Gen`, `Case=Ins`, `Case=Nom`, `NumForm=Digit`, `NumForm=Roman`, `NumType=Card`, `NumType=Mult`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `PartType=Emp`
 
-`NUM` occurs with 29 feature combinations.
+`NUM` occurs with 41 feature combinations.
 The most frequent feature combination is `NumForm=Digit|NumType=Card` (469 tokens).
 Examples: <em>1992, 1999, 2, 1, 2008, 30-იან, 11, 20, 2001, 2005</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 13 different relations: <tt><a href="ka_glc-dep-nummod.html">nummod</a></tt> (904; 88% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (51; 5% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (23; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (16; 2% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (7; 1% instances), <tt><a href="ka_glc-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="ka_glc-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-obl-tmod.html">obl:tmod</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="ka_glc-dep-nummod.html">nummod</a></tt> (916; 89% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (50; 5% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (22; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (16; 2% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (7; 1% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-obl-tmod.html">obl:tmod</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (806; 79% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (104; 10% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (30; 3% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (26; 3% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (9; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (8; 1% instances),  (7; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (6; 1% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (804; 78% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (102; 10% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (30; 3% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (29; 3% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (9; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (8; 1% instances),  (7; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 800 (78%) `NUM` nodes are leaves.
 

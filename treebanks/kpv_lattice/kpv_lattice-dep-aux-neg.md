@@ -29,7 +29,7 @@ The following 6 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 4	йылысь	йылысь	ADP	Po	AdpType=Post|Case=Ela|Number=Sing	3	case	_	_
 5	абу	абу	AUX	Pcle	Polarity=Neg	7	aux:neg	_	_
 6	весиг	весиг	PART	Pcle	_	7	advmod	_	_
-7	тӧдлӧмаӧсь	тӧдлыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+7	тӧдлӧмаӧсь	тӧдлыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
@@ -61,7 +61,7 @@ The following 6 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 3	ӧд	ӧд	ADV	Adv	Case=Nom|Number=Sing	4	advmod	_	GTtags=Sg,Nom
 4	ныв	ныв	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	8	punct	_	_
-6	абу	абу	AUX	_	Mood=Ind|Number=Sing|Polarity=Neg	8	aux:neg	_	GTtags=Neg,Cop,Ind,Sg
+6	абу	абу	AUX	_	Mood=Ind|Number=Sing|Polarity=Neg|VerbForm=Fin	8	aux:neg	_	GTtags=Neg,Cop,Ind,Sg
 7	и	и	ADV	Adv	_	8	advmod	_	_
 8	мича	мича	ADJ	A	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom
 9	сылы	сійӧ	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obl	_	GTtags=Pers,Sg3,Dat

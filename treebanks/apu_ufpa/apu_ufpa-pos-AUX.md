@@ -24,18 +24,18 @@ The 10 most frequent ambiguous types:  <em>itxa</em> (<tt><a href="apu_ufpa-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.500000 (the average of all parts of speech is 1.247525).
+The form / lemma ratio of `AUX` is 4.500000 (the average of all parts of speech is 1.250825).
 
 The 1st highest number of forms (8) was observed with the lemma “txa”: <em>itxa, itxawa, nhitxawa, pitxa, pitxawa, txamary, utxawa, ytxa</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “amu”: <em>Amu</em>.
 
-`AUX` occurs with 7 features: <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt> (17; 94% instances), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt> (12; 67% instances), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt> (12; 67% instances), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt> (9; 50% instances), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt> (6; 33% instances), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt> (6; 33% instances), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt> (4; 22% instances)
+`AUX` occurs with 9 features: <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt> (17; 94% instances), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt> (17; 94% instances), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt> (17; 94% instances), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt> (12; 67% instances), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt> (12; 67% instances), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt> (9; 50% instances), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt> (6; 33% instances), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt> (6; 33% instances), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt> (4; 22% instances)
 
-`AUX` occurs with 12 feature-value pairs: `Gender[obj]=Masc`, `Gender[subj]=Fem`, `Gender[subj]=Masc`, `Number[obj]=Plur`, `Number[obj]=Sing`, `Number[subj]=Sing`, `Person[obj]=1`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Tense=Past,Pres`
+`AUX` occurs with 14 feature-value pairs: `Gender[obj]=Masc`, `Gender[subj]=Fem`, `Gender[subj]=Masc`, `Mood=Ind`, `Number[obj]=Plur`, `Number[obj]=Sing`, `Number[subj]=Sing`, `Person[obj]=1`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Tense=Past,Pres`, `VerbForm=Fin`
 
 `AUX` occurs with 8 feature combinations.
-The most frequent feature combination is `Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3|Tense=Past,Pres` (8 tokens).
+The most frequent feature combination is `Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past,Pres|VerbForm=Fin` (8 tokens).
 Examples: <em>itxa, itxawa, ytxa</em>
 
 

@@ -26,11 +26,11 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	Jadi	Jadi	SCONJ	IN	_	5	mark	_	_
 3	belum	belum	PART	RP	Polarity=Neg	5	advmod	_	_
 4	bisa	bisa	AUX	MD	_	5	aux	_	_
-5	ada	ada	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+5	ada	ada	VERB	VB	Voice=Act	0	root	_	_
 6	ekspansi	ekspansi	NOUN	NN	Number=Sing	5	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	5	punct	_	SpaceAfter=No
 8	"	"	PUNCT	''	_	5	punct	_	_
-9	kata	kata	VERB	VB	Mood=Ind|Voice=Act	5	parataxis	_	_
+9	kata	kata	VERB	VB	Voice=Act	5	parataxis	_	_
 10	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 11	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -53,7 +53,7 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 8	persen	persen	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	SpaceAfter=No
 10	"	"	PUNCT	''	_	8	punct	_	_
-11	kata	kata	VERB	VB	Mood=Ind|Voice=Act	8	parataxis	_	_
+11	kata	kata	VERB	VB	Voice=Act	8	parataxis	_	_
 12	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 13	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -72,12 +72,12 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	sepakat	sepakat	ADJ	JJ	_	0	root	_	_
 5	untuk	untuk	SCONJ	IN	_	7	mark	_	_
 6	semakin	semakin	ADV	RB	_	7	advmod	_	_
-7	mempererat	mempererat	VERB	VB	Mood=Ind|Voice=Act	4	advcl	_	_
+7	mempererat	mempererat	VERB	VB	Voice=Act	4	advcl	_	_
 8	hubungan	hubung	NOUN	NN	Number=Sing	7	obj	_	_
 9	itu	itu	DET	DT	PronType=Dem	8	det	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	4	punct	_	SpaceAfter=No
 11	"	"	PUNCT	''	_	4	punct	_	_
-12	ujar	ujar	VERB	VB	Mood=Ind|Voice=Act	4	parataxis	_	_
+12	ujar	ujar	VERB	VB	Voice=Act	4	parataxis	_	_
 13	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 14	.	.	PUNCT	.	_	4	punct	_	_
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-1977 tokens (10%) have a non-empty value of `Mood`.
-728 types (12%) occur at least once with a non-empty value of `Mood`.
-536 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1242; 7% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (646; 3% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (89; 0% instances).
+1888 tokens (10%) have a non-empty value of `Mood`.
+657 types (11%) occur at least once with a non-empty value of `Mood`.
+466 lemmas (9%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1242; 7% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (646; 3% instances).
 
 ### `VERB`
 
@@ -48,19 +48,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `EMPTY` (85): <em>vara, ha, varit, kunna, blivit, Did, Do, bli, få, kunnat</em>
 
 `Mood` seems to be **lexical feature** of `AUX`. 100% lemmas (11) occur only with one value of `Mood`.
-
-### `ADJ`
-
-89 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `ADJ` and `Mood` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (89; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (89; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (67; 75%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (67; 75%).
-
-`ADJ` tokens may have the following values of `Mood`:
-
-* `Ind` (89; 100% of non-empty `Mood`): <em>betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, självstyrande, växande</em>
-* `EMPTY` (1476): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, samma</em>
-
-`Mood` seems to be **lexical feature** of `ADJ`. 100% lemmas (70) occur only with one value of `Mood`.
 
 ## Relations with Agreement in `Mood`
 

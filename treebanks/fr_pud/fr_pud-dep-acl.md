@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="fr_pud-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-150 nodes (1%) are attached to their parents as `acl`.
+152 nodes (1%) are attached to their parents as `acl`.
 
-148 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.89333333333333.
+150 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.94078947368421.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (148; 99% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (149; 98% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,35 +37,31 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 16 acl	color:blue
-1	On	on	PRON	PRP	Number=Sing|Person=3|PronType=Ind	4	nsubj	_	wordform=on
-2	lui	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
-3	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
-4	conféré	conférer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	quelques	quelque	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
-6	droits	droit	NOUN	NN	Gender=Masc|Number=Plur	4	obj	_	_
-7	car	car	CCONJ	CC	_	10	cc	_	_
-8	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-9	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	un	un	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	4	conj	_	_
-11	de	de	ADP	INDT	_	13	case	_	_
-12	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	hommes	homme	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
-14	très	très	ADV	RB	_	15	advmod	_	_
-15	haut	haut	ADV	RB	_	16	advmod	_	_
-16	placés	placer	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
-17	de	de	ADP	IN	_	18	case	_	_
-18	Negan	Negan	PROPN	NNP	Gender=Masc|Number=Sing	16	obl	_	_
-19	(	(	PUNCT	(	_	20	punct	_	SpaceAfter=No
-20	Jeffery	Jeffery	PROPN	NNP	Gender=Masc|Number=Sing	18	appos	_	_
-21	Dean	Dean	PROPN	NNP	Gender=Masc|Number=Sing	20	flat:name	_	_
-22	Morgan	Morgan	PROPN	NNP	Gender=Masc|Number=Sing	20	flat:name	_	SpaceAfter=No
-23	)	)	PUNCT	)	_	20	punct	_	SpaceAfter=No
-24	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 19 acl	color:blue
+1	Leur	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=leur
+2	expansion	expansion	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+3	fut	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+4	cependant	cependant	ADV	RB	_	5	advmod	_	_
+5	retardée	retarder	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	jusqu'	jusqu'	ADP	IN	_	8	case	_	SpaceAfter=No
+7	à	à	ADP	IN	_	8	case	_	_
+8	ce	ce	PRON	PDEM	PronType=Dem	5	obl	_	_
+9	que	que	ADP	IN	_	19	mark	_	_
+10	des	un	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	navires	navire	NOUN	NN	Gender=Masc|Number=Plur	19	nsubj:pass	_	_
+12	assez	assez	ADV	RB	_	13	advmod	_	_
+13	robustes	robuste	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+14	pour	pour	ADP	IN	_	15	mark	_	_
+15	traverser	traverser	VERB	VB	VerbForm=Inf	13	advcl	_	_
+16	les	le	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	mers	mer	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
+18	soient	être	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux:pass	_	_
+19	construits	construire	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	SpaceAfter=No
+20	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

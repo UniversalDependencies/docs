@@ -8,31 +8,62 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `acl`.
+4 nodes (0%) are attached to their parents as `acl`.
 
-1 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.
+2 instances of `acl` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5.
 
-The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (2; 50% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 acl	color:blue
-1	ʉnzoy	zoy	VERB	_	_	4	acl	_	AlignBegin=35600|AlignEnd=35896|GE=go|Gloss=MIDgo|nWord=1|RX=[V]|TokenType=Root
-2	=a'ba'	_	ADP	_	_	1	mark	_	AlignBegin=35896|AlignEnd=36044|GE=[NOM]|Gloss==NOM|nWord=1|RX=[POST]|TokenType=Clit
-3	zʉ'ʉn	zan	PART	_	_	1	advmod:emph	_	AlignBegin=36044|AlignEnd=36488|GE=[COP]|Gloss=COP|nWord=2|RX=[COP]|TokenType=Root
-4	eyma	eyma	PRON	_	_	6	iobj	_	AlignBegin=36488|AlignEnd=36710|GE=this|Gloss=this|nWord=3|RX=[DEM]|TokenType=Root
-5	=ri	_	PART	_	_	4	advmod	_	AlignBegin=36710|AlignEnd=36932|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
-6	diwʉn	diwʉn	ADJ	_	_	10	advcl	_	AlignBegin=36932|AlignEnd=37376|GE=different|Gloss=different|nWord=4|RX=[ADJ]|TokenType=Root
-7	anʉkawi	kaw	AUX	_	_	6	cop	_	AlignBegin=37376|AlignEnd=37820|GE=seem|Gloss=MIDseemand|nWord=5|RX=[AUX]|TokenType=Root
-8	zʉ'ʉn	zan	PART	_	_	6	advmod:emph	_	AlignBegin=37820|AlignEnd=38264|GE=[COP]|Gloss=COP|nWord=6|RX=[COP]|TokenType=Root
-9	ʉnzoya	zoy	AUX	_	_	6	aux	_	AlignBegin=38264|AlignEnd=38708|GE=go|Gloss=MIDgo|nWord=7|RX=[VI]|TokenType=Root
-10	ni	nan	PART	_	_	0	root	_	AlignBegin=38708|AlignEnd=39152|GE=[DECL]|Gloss=DECL|nWord=8|RX=[AUX]|TokenType=Root
-11	.	_	PUNCT	_	_	10	punct	_	AlignBegin=39152|AlignEnd=39600|Gloss=.|nWord=9
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 acl	color:blue
+1	du	du	ADJ	_	_	3	acl	_	AlignBegin=60111|AlignEnd=60399|GE=good|Gloss=good|nWord=1|RX=[ADJ]|TokenType=Root
+2	kawi	kaw	AUX	_	_	1	cop	_	AlignBegin=60399|AlignEnd=60687|GE=while|Gloss=seemCONV.SIM|nWord=2|RX=[VERB]|TokenType=InflAff
+3	warunha'	warunha'	NOUN	_	_	0	root	_	AlignBegin=60687|AlignEnd=60975|GE=work|Gloss=work|nWord=3|RX=[N]|TokenType=Root
+4	awkwa	aw	AUX	_	_	3	cop	_	AlignBegin=60975|AlignEnd=61263|GE=[ABLE]|Gloss=auxABLE|nWord=4|RX=[VERB]|TokenType=InflAff
+5	nʉndi	nan	AUX	_	_	3	aux	_	AlignBegin=61263|AlignEnd=61551|GE=[COND]|Gloss=auxCOND|nWord=5|RX=[V:ANY]|TokenType=InflAff
+6	,	_	PUNCT	_	_	3	punct	_	AlignBegin=61551|AlignEnd=61838|nWord=6|wordform=,.
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 acl	color:blue
+1	na'me'	nan	AUX	_	_	9	discourse	_	AlignBegin=337357|AlignEnd=337830|GE=[CAUSE]|Gloss=auxCAUSE|nWord=1|RX=[VERB]|TokenType=InflAff
+2	zʉn	zan	PART	_	_	1	advmod:emph	_	AlignBegin=337830|AlignEnd=338303|GE=[COP]|Gloss=COP|nWord=2|RX=[COP]|TokenType=Root
+3	eymi	eymi	ADV	_	_	1	obl:lmod	_	AlignBegin=338303|AlignEnd=338539|GE=there|Gloss=there|nWord=3|RX=[ADV]|TokenType=Root
+4	=ri	_	PART	_	_	3	advmod	_	AlignBegin=338539|AlignEnd=338776|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
+5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=338776|AlignEnd=339249|nWord=4
+6	eymi	eymi	ADV	_	_	8	acl	_	AlignBegin=339249|AlignEnd=339722|GE=there|Gloss=there|nWord=5|RX=[ADV]|TokenType=Root
+7	nani	nan	AUX	_	_	6	cop	_	AlignBegin=339722|AlignEnd=340195|GE=while|Gloss=AUXCONV.SIM|nWord=6|RX=[VERB]|TokenType=InflAff
+8	kunsamʉ	kunsamʉ	NOUN	_	Case=Abs	9	obj	_	AlignBegin=340195|AlignEnd=340668|GE=nature's.law|Gloss=nature's.law|nWord=7|RX=[N]|TokenType=Root
+9	niwikʉchukumana	chu	VERB	_	_	10	advcl	_	AlignBegin=340668|AlignEnd=341141|GE=[RMTPST]|Gloss=1PL.OAPPL1leaveKUMARMTPST|nWord=8|RX=[VERB]|TokenType=InflAff
+10	ni	nan	PART	_	_	0	root	_	AlignBegin=341141|AlignEnd=341614|GE=[DECL]|Gloss=DECL|nWord=9|RX=[AUX]|TokenType=Root
+11	.	_	PUNCT	_	_	10	punct	_	AlignBegin=341614|AlignEnd=342088|Gloss=.|nWord=10
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 acl	color:blue
+1	sʉmbrenu	sʉmbrenu	NOUN	_	Case=Abs	3	obj	_	AlignBegin=105252|AlignEnd=105580|GE=hat|Gloss=hat|nWord=1|RX=[N]|TokenType=Root
+2	apa	apa	VERB	_	_	1	acl	_	AlignBegin=105580|AlignEnd=105908|GE=round|Gloss=round|nWord=2|RX=[ADJ]|TokenType=Root
+3	nʉnna	nan	AUX	_	_	0	root	_	AlignBegin=105908|AlignEnd=106126|GE=[RMTPST]|Gloss=copRMTPST|nWord=3|RX=[VERB]|TokenType=InflAff
+4	=ri	_	PART	_	_	3	advmod	_	AlignBegin=106126|AlignEnd=106236|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
+5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=106236|AlignEnd=106563|nWord=4
 
 ~~~
 

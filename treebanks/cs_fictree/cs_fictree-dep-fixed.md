@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-181 nodes (0%) are attached to their parents as `fixed`.
+180 nodes (0%) are attached to their parents as `fixed`.
 
-181 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03867403314917.
+180 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03888888888889.
 
-The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (80; 44% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (25; 14% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (17; 9% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (16; 9% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (12; 7% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (12; 7% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (80; 44% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (25; 14% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (17; 9% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (16; 9% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (12; 7% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (12; 7% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (8; 4% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (3; 2% instances).
 
 
 ~~~ conllu

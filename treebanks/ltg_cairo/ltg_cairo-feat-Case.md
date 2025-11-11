@@ -12,7 +12,7 @@ It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Voc`.
 73 tokens (43%) have a non-empty value of `Case`.
 63 types (54%) occur at least once with a non-empty value of `Case`.
 53 lemmas (49%) occur at least once with a non-empty value of `Case`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (26; 15% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (27; 16% instances), <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> (19; 11% instances), <tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> (8; 5% instances), <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 ### `NOUN`
 
@@ -37,17 +37,16 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-26 <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+19 <tt><a href="ltg_cairo-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 92%), <tt><a href="ltg_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (23; 88%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (19; 73%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 54%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 89%), <tt><a href="ltg_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (16; 84%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 63%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (3; 12% of non-empty `Case`): <em>kuo, tuo, tū</em>
-* `Dat` (6; 23% of non-empty `Case`): <em>Jai, Jim, Maņ, jam, sovai, sovam</em>
-* `Gen` (2; 8% of non-empty `Case`): <em>juo, kaida</em>
-* `Loc` (1; 4% of non-empty `Case`): <em>tamā</em>
-* `Nom` (14; 54% of non-empty `Case`): <em>jis, tu, jei, Es, Itei, Muns, kurs</em>
+* `Acc` (3; 16% of non-empty `Case`): <em>kuo, tuo, tū</em>
+* `Dat` (4; 21% of non-empty `Case`): <em>Jai, Jim, Maņ, jam</em>
+* `Gen` (1; 5% of non-empty `Case`): <em>juo</em>
+* `Nom` (11; 58% of non-empty `Case`): <em>jis, tu, jei, Es</em>
 
 <table>
   <tr><th>Paradigm <i>jis</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -75,16 +74,29 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
   <tr><td><tt></tt></td><td><em>Pīters</em></td><td><em>Pītera</em></td></tr>
 </table>
 
+### `DET`
+
+8 <tt><a href="ltg_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="ltg_cairo-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5; 63%), <tt><a href="ltg_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 63%).
+
+`DET` tokens may have the following values of `Case`:
+
+* `Dat` (2; 25% of non-empty `Case`): <em>sovai, sovam</em>
+* `Gen` (1; 13% of non-empty `Case`): <em>kaida</em>
+* `Loc` (1; 13% of non-empty `Case`): <em>tamā</em>
+* `Nom` (4; 50% of non-empty `Case`): <em>Itei, Muns, kurs, tovejais</em>
+
 ### `ADJ`
 
-5 <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
+4 <tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="ltg_cairo-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4; 80%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4; 80%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ltg_cairo-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4; 100%), <tt><a href="ltg_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="ltg_cairo-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3; 75%), <tt><a href="ltg_cairo-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 75%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Loc` (1; 20% of non-empty `Case`): <em>sorkonā</em>
-* `Nom` (4; 80% of non-empty `Case`): <em>foršuoks, lela, moza, tovejais</em>
+* `Loc` (1; 25% of non-empty `Case`): <em>sorkonā</em>
+* `Nom` (3; 75% of non-empty `Case`): <em>foršuoks, lela, moza</em>
 
 ### `VERB`
 
@@ -95,16 +107,18 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 `VERB` tokens may have the following values of `Case`:
 
 * `Nom` (1; 100% of non-empty `Case`): <em>pīguoduota</em>
-* `EMPTY` (34): <em>ir, pīraksteja, Navarēja, apgrīzt, apsaskuove, atmest, attaisi, atīt, ceņtēs, dabuoja</em>
+* `EMPTY` (31): <em>pīraksteja, Navarēja, apgrīzt, apsaskuove, atmest, attaisi, atīt, ceņtēs, dabuoja, dūmoj</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ltg_cairo-dep-det.html">det</a></tt>]--> PRON</tt> (6; 100%),
+<tt>NOUN --[<tt><a href="ltg_cairo-dep-det.html">det</a></tt>]--> DET</tt> (6; 100%),
 <tt>NOUN --[<tt><a href="ltg_cairo-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>PROPN --[<tt><a href="ltg_cairo-dep-conj.html">conj</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>PROPN --[<tt><a href="ltg_cairo-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="ltg_cairo-dep-advcl.html">advcl</a></tt>]--> DET</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="ltg_cairo-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="ltg_cairo-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="ltg_cairo-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="ltg_cairo-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%).
 

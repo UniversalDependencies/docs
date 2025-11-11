@@ -23,16 +23,16 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj:pass	color:blue
-1	Mau	_	ADV	_	Polite=Infm|PronType=Dem	4	advmod	_	_
-2	anak	_	NOUN	_	Number=Sing	4	nsubj:pass	_	_
-3	mu	_	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	2	nmod:poss	_	_
-4	turokna	_	VERB	_	Mood=Irr|Polite=Infm|Voice=Pass	0	root	_	_
-5	neng	_	ADP	_	Polite=Infm	6	case	_	_
-6	kamar	_	NOUN	_	Number=Sing	4	obl	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	4	punct	_	_
-8	ora	_	PART	_	Polarity=Neg|Polite=Infm	9	advmod	_	_
-9	kebribinen	_	VERB	_	Mood=Ind|Voice=Pass	4	advcl	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	4	punct	_	_
+1	Mau	mau	ADV	_	Polite=Infm|PronType=Dem	4	advmod	_	_
+2	anak	anak	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	mu	mu	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	2	nmod:poss	_	_
+4	turokna	turu	VERB	_	Polite=Infm|Voice=Pass	0	root	_	_
+5	neng	neng	ADP	_	Polite=Infm	6	case	_	_
+6	kamar	kamar	NOUN	_	Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	ora	ora	PART	_	Polarity=Neg|Polite=Infm	9	advmod	_	_
+9	kebribinen	bribin	VERB	_	Voice=Pass	4	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -43,14 +43,14 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj:pass	color:blue
-1	Panjenenganipun	_	PRON	_	Number=Sing|Person=3|Polite=Elev|PronType=Prs	2	nsubj:pass	_	_
-2	miyos	_	VERB	_	Mood=Ind|Polite=Form|Voice=Pass	0	root	_	_
-3	kanthi	_	ADP	_	Polite=Infm	4	case	_	_
-4	asma	_	NOUN	_	Number=Sing|Polite=Elev	2	obl	_	_
-5	asli	_	ADJ	_	_	4	amod	_	_
-6	Joko	_	PROPN	_	_	4	nmod	_	_
-7	Widodo	_	PROPN	_	_	6	flat:name	_	SpaceAfter=No
-8	.	_	PUNCT	_	_	2	punct	_	_
+1	Panjenenganipun	panjenengan	PRON	_	Number=Sing|Person=3|Polite=Elev|PronType=Prs	2	nsubj:pass	_	_
+2	miyos	wiyos	VERB	_	Polite=Form|Voice=Pass	0	root	_	_
+3	kanthi	kanthi	ADP	_	Polite=Infm	4	case	_	_
+4	asma	asma	NOUN	_	Number=Sing|Polite=Elev	2	obl	_	_
+5	asli	asli	ADJ	_	_	4	amod	_	_
+6	Joko	joko	PROPN	_	_	4	nmod	_	_
+7	Widodo	widodo	PROPN	_	_	6	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -61,14 +61,14 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:pass	color:blue
-1	Raden	_	PROPN	_	_	3	nsubj:pass	_	_
-2	Gathotkaca	_	PROPN	_	_	1	flat:name	_	_
-3	kaparingan	_	VERB	_	Mood=Ind|Polite=Form|Voice=Pass	0	root	_	_
-4	pusaka	_	NOUN	_	Number=Sing	3	obl	_	_
-5	dening	_	ADP	_	Polite=Infm	7	case	_	_
-6	ingkang	_	DET	_	Definite=Def|Polite=Form|PronType=Art	7	det	_	_
-7	Rama	_	PROPN	_	_	3	obl	_	SpaceAfter=No
-8	.	_	PUNCT	_	_	3	punct	_	_
+1	Raden	raden	PROPN	_	_	3	nsubj:pass	_	_
+2	Gathotkaca	gathotkaca	PROPN	_	_	1	flat:name	_	_
+3	kaparingan	paring	VERB	_	Polite=Form|Voice=Pass	0	root	_	_
+4	pusaka	pusaka	NOUN	_	Number=Sing	3	obl	_	_
+5	dening	dening	ADP	_	Polite=Infm	7	case	_	_
+6	ingkang	ingkang	DET	_	Definite=Def|Polite=Form|PronType=Art	7	det	_	_
+7	Rama	rama	PROPN	_	_	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

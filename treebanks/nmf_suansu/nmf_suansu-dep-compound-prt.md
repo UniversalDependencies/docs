@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 3 4 compound:prt	color:blue
 1	Peter	Peter	PROPN	_	Number=Sing	3	nsubj	3:nsubj	_
 2	sugar	sugar	NOUN	_	Number=Sing	3	obj	3:obj	OrigLang=en
-3	phrai	phrai	VERB	_	_	0	root	0:root	_
+3	phrai	phrai	VERB	_	VerbForm=Inf	0	root	0:root	_
 4	dhohnte	dhohn	ADP	COMPL	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	compound:prt	3:compound:prt	SpacesAfter=\n
 
 ~~~

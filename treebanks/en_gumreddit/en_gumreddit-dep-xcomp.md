@@ -29,7 +29,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	_	_	VERB	VBG	VerbForm=Ger	4	xcomp	4:xcomp	Lem=print|Len=8|MSeg=print-ing
 6	_	_	ADJ	JJR	Degree=Cmp	7	amod	7:amod	Entity=(54-object-new-nnnnn-cf1-2-coref|Lem=_|Len=4
 7	_	_	NOUN	NN	Number=Sing	5	obj	5:obj	Entity=54)|Lem=_|Len=5
-8	_	_	CCONJ	CC	_	15	cc	15:cc	Discourse=explanation-justify:47->46:0:_;adversative-antithesis:47->46:0:0:orp-or else-299-300|Lem=_|Len=2|PDTB=Explicit:Comparison.Contrast:or else:299-300:292-298:301-307
+8	_	_	CCONJ	CC	_	15	cc	15:cc	Discourse=explanation-justify:47->46:0:_;adversative-antithesis:47->46:0:0:orp-or else-299-300-gold|Lem=_|Len=2|PDTB=Explicit:Comparison.Contrast:or else:299-300:292-298:301-307
 9	_	_	ADV	RB	Degree=Pos	15	advmod	15:advmod	Lem=_|Len=4
 10	_	_	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(55-abstract-new-nnnnn-cf3-2-sgl|Lem=_|Len=3
 11	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	Lem=_|Len=5
@@ -48,12 +48,12 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 19 xcomp	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	Bridge=60<64|Discourse=causal-cause:56->59:1:dm-so-391|Entity=(64-person-acc:inf-nnnnn-cf2-1-coref)|Lem=*LOWER*|Len=4|PDTB=Implicit:Expansion.Conjunction:but:_:352-370:371-390
+1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	Bridge=60<64|Discourse=causal-cause:56->59:1:dm-so-391-gold|Entity=(64-person-acc:inf-nnnnn-cf2-1-coref)|Lem=*LOWER*|Len=4|PDTB=Implicit:Expansion.Conjunction:but:_:352-370:371-390
 2	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Lem=print|Len=7|MSeg=print-ed
 3	_	_	ADV	RB	_	4	advmod	4:advmod	Entity=(65-object-new-nnnnn-cf1-3-coref|Lem=_|Len=2
 4	_	_	ADJ	JJ	Degree=Pos	5	amod	5:amod	Lem=_|Len=4
 5	_	_	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=65)|Lem=_|Len=5
-6	_	_	PUNCT	-LRB-	_	10	punct	10:punct	Discourse=mode-manner:57->56:0:dm-without-377|Lem=_|Len=1|SpaceAfter=No
+6	_	_	PUNCT	-LRB-	_	10	punct	10:punct	Discourse=mode-manner:57->56:0:dm-without-377-gold|Lem=_|Len=1|SpaceAfter=No
 7	_	_	ADP	IN	_	10	case	10:case	Lem=_|Len=7|MSeg=with-out
 8	_	_	ADJ	JJ	Degree=Pos	10	amod	10:amod	Entity=(66-abstract-new-nnnnn-cf4-3-sgl|Lem=_|Len=6
 9	_	_	ADJ	JJ	Degree=Pos	10	amod	10:amod	Lem=_|Len=6
@@ -101,7 +101,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 21	_	_	NUM	CD	NumForm=Digit|NumType=Card	20	nummod	20:nummod	Lem=100000|Len=7
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2
 23	_	_	NOUN	NN	Number=Sing	20	nmod	20:nmod:in	Entity=(99-substance-giv:act-snnnn-cf1*-1-coref)143)|Lem=_|Len=4
-24	_	_	CCONJ	CC	_	28	cc	28:cc	Discourse=joint-list_m:146->145:0:dm-and-954+lex-indwd-961|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:954:931-953:955-962
+24	_	_	CCONJ	CC	_	28	cc	28:cc	Discourse=joint-list_m:146->145:0:dm-and-954-gold+lex-indwd-961-_|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:954:931-953:955-962
 25	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
 26	_	_	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	Lem=_|Len=1
 27	_	_	NOUN	NN	Number=Sing	28	obl:unmarked	28:obl:unmarked	Lem=_|Len=3

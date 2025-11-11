@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (105; 7% of non-empty `Animacy`): <em>predsednika, kandidata, ministra, premijera, komesara, savetnika, sekretara, svedoka, direktora, generala</em>
 * `Inan` (1392; 93% of non-empty `Animacy`): <em>ponedeljak, utorak, petak, četvrtak, način, napredak, proces, razvoj, sporazum, rad</em>
-* `EMPTY` (22321): <em>godine, zemlje, evra, predsednik, godina, ministar, poslova, ljudi, vlada, miliona</em>
+* `EMPTY` (22320): <em>godine, zemlje, evra, predsednik, godina, ministar, poslova, ljudi, vlada, miliona</em>
 
 <table>
   <tr><th>Paradigm <i>ministar</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

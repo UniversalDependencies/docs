@@ -9,10 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADP`, `ADV`, `CCONJ`, `PRON`, `SCONJ`.
 
-56 tokens (0%) have a non-empty value of `ExtPos`.
-19 types (1%) occur at least once with a non-empty value of `ExtPos`.
-16 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+87 tokens (0%) have a non-empty value of `ExtPos`.
+23 types (1%) occur at least once with a non-empty value of `ExtPos`.
+20 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 9 part-of-speech tags: <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+
+### `SYM`
+
+31 <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> tokens (18% of all `SYM` tokens) have a non-empty value of `ExtPos`.
+
+`SYM` tokens may have the following values of `ExtPos`:
+
+* `ADP` (31; 100% of non-empty `ExtPos`): <em>-, ⋅, /, ∩</em>
 
 ### `ADV`
 

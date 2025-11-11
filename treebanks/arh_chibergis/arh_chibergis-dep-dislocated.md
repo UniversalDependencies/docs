@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `dislocated`.
+14 nodes (0%) are attached to their parents as `dislocated`.
 
-12 instances of `dislocated` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.38461538461539.
+11 instances of `dislocated` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.28571428571429.
 
-The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (3; 23% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (4; 29% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="arh_chibergis-pos-ADP.html">ADP</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 dislocated	color:blue
+1	ingʉ	ingʉ	ADJ	_	_	2	amod	_	AlignBegin=132919|AlignEnd=133379|GE=few|Gloss=few|nWord=1|RX=[ADJ]|TokenType=Root
+2	dinhey	dinhey	ADJ	_	_	6	advcl	_	AlignBegin=133379|AlignEnd=133839|GE=similar|Gloss=similar|nWord=2|RX=[ADJ]|TokenType=Root
+3	kawi	kaw	AUX	_	_	2	cop	_	AlignBegin=133839|AlignEnd=134145|GE=while|Gloss=seemCONV.SIM|nWord=3|RX=[VERB]|TokenType=InflAff
+4	=gwi	_	ADV	_	_	2	advmod	_	AlignBegin=134145|AlignEnd=134299|GE=also|Gloss==also|nWord=3|RX=[ADV]|TokenType=Clit
+5	zʉ'ʉn	zan	PART	_	_	4	advmod:emph	_	AlignBegin=134299|AlignEnd=134759|GE=[COP]|Gloss=COP|nWord=4|RX=[COP]|TokenType=Root
+6	winʉkanikʉya	nikʉ	VERB	_	_	0	root	_	AlignBegin=134759|AlignEnd=135219|GE=[NONEGO]|Gloss=3PL.SAPPL1be.inNONEGO|nWord=5|RX=[V:ANY]|TokenType=InflAff
+7	nʉn	nan	AUX	_	_	6	aux	_	AlignBegin=135219|AlignEnd=135449|GE=cop|Gloss=cop|nWord=6|RX=[COP]|TokenType=Root
+8	=di	_	PART	_	_	6	advmod	_	AlignBegin=135449|AlignEnd=135679|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit
+9	ikʉnha'	ikʉnha'	PRON	_	_	6	dislocated	_	AlignBegin=135679|AlignEnd=135907|GE=[3PL]|Gloss=3PL|nWord=7|RX=[PRO]|TokenType=Root
+10	=ri	_	PART	_	_	9	advmod	_	AlignBegin=135907|AlignEnd=136136|GE=[TOP]|Gloss==TOP|nWord=7|RX=[PRT]|TokenType=Clit
+
+~~~
 
 
 ~~~ conllu
@@ -43,35 +63,14 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 dislocated	color:blue
-1	winisʉya	isʉ	VERB	_	_	0	root	_	AlignBegin=67354|AlignEnd=67734|GE=[NONEGO]|Gloss=3PL.SknitNONEGO|nWord=1|RX=[V:ANY]|TokenType=InflAff
-2	nanʉn	nan	AUX	_	_	1	aux	_	Gloss=copIPFV|TokenType=InflAff
-3	=di	_	PART	_	_	1	advmod	_	AlignBegin=67924|AlignEnd=68114|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
-4	ikʉnha'	ikʉnha'	PRON	_	_	1	dislocated	_	AlignBegin=68114|AlignEnd=68304|GE=[3PL]|Gloss=3PL|nWord=3|RX=[PRO]|TokenType=Root
-5	=ri	_	PART	_	_	4	advmod	_	AlignBegin=68304|AlignEnd=68494|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
-6	.	_	PUNCT	_	_	5	punct	_	AlignBegin=68494|AlignEnd=68873|Gloss=.|nWord=4
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 dislocated	color:blue
-1	awi	aw	PART	_	_	6	cc	_	AlignBegin=67850|AlignEnd=68170|GE=aux|Gloss=auxand|nWord=1|RX=[AUX]|TokenType=Root
-2	=ri	_	PART	_	_	6	advmod	_	AlignBegin=68170|AlignEnd=68329|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit
-3	bechʉ	bechʉ	NOUN	_	_	6	dislocated	_	AlignBegin=68329|AlignEnd=68808|GE=agave|Gloss=agave|nWord=2|RX=[N]|TokenType=Root
-4	tutu	tutu	NOUN	_	_	3	nmod	_	AlignBegin=68808|AlignEnd=69048|GE=traditional.bag|Gloss=traditional.bag|nWord=3|RX=[N]|TokenType=Root
-5	=ri	_	PART	_	_	4	advmod	_	AlignBegin=69048|AlignEnd=69287|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
-6	gow	gow	VERB	_	_	0	root	_	AlignBegin=69287|AlignEnd=69766|GE=build|Gloss=build|nWord=4|RX=[V]|TokenType=Root
-7	be	be	PRON	_	_	9	obl:lmod	_	AlignBegin=69766|AlignEnd=70006|GE=where|Gloss=where|nWord=5|RX=[INTERROG]|TokenType=Root
-8	=ki	_	PART	_	_	7	advmod	_	AlignBegin=70006|AlignEnd=70245|GE=[CNTR]|Gloss==CNTR|nWord=5|RX=[PRT]|TokenType=Clit
-9	dibuju	dibuju	NOUN	_	_	6	obj	_	AlignBegin=70245|AlignEnd=70724|GE=[SPA_drawing]|Gloss=SPA_drawing|nWord=6|RX=[N]|TokenType=Root
-10	neki	neki	PART	_	_	9	advmod:emph	_	AlignBegin=70724|AlignEnd=71200|GE=[CNTR]|Gloss=CNTR|nWord=7|RX=[PRT]|TokenType=Root
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 dislocated	color:blue
+1	yow	yow	PRON	_	Case=Abs	2	nsubj	_	AlignBegin=113655|AlignEnd=114198|GE=all|Gloss=all|nWord=1|RX=[QUANT]|TokenType=Root
+2	anʉkizu'na	zu'n	VERB	_	_	0	root	_	AlignBegin=114198|AlignEnd=114741|GE=[PFV]|Gloss=MIDAPPL3spillPFV|nWord=2|RX=[V:ANY]|TokenType=InflAff
+3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=114741|AlignEnd=115284|nWord=3
+4	pera	pera	NOUN	_	_	2	dislocated	_	AlignBegin=115284|AlignEnd=115556|GE=pear|Gloss=pear|nWord=4|RX=[N]|TokenType=Root
+5	=ri	_	PART	_	_	4	advmod	_	AlignBegin=115556|AlignEnd=115827|GE=[TOP]|Gloss==TOP|nWord=4|RX=[PRT]|TokenType=Clit
 
 ~~~
 

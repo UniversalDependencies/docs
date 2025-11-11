@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Javanese-CSUI: POS Tags: `INTJ`
 
-There are 1 `INTJ` lemmas (6%), 19 `INTJ` types (0%) and 32 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 13 in number of types and 16 in number of tokens.
+There are 18 `INTJ` lemmas (1%), 19 `INTJ` types (0%) and 32 `INTJ` tokens (0%).
+Out of 17 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>_</em>
+The 10 most frequent `INTJ` lemmas: <em>lha, hla, inggih, oh, ya, ah, alhamdulillah, astaghfirullah, dasar, dhuh</em>
 
 The 10 most frequent `INTJ` types:  <em>lha, hla, Nggih, Ya, oh, Ah, Alhamdulillah, Astaghfirullah, Halah, Inggih</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 2867, <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> 2233, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1952, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1565, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 961, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 798, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 748, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 736, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 700, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 362, <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 340, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 314, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 306, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 234, <tt><a href="jv_csui-pos-X.html">X</a></tt> 183, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 32, <tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> 12)
+The 10 most frequent ambiguous lemmas: <em>inggih</em> (<tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 10, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 3), <em>ya</em> (<tt><a href="jv_csui-pos-PART.html">PART</a></tt> 37, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 2), <em>kulanuwun</em> (<tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Ya</em> (<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 2)
 
@@ -25,9 +25,13 @@ The 10 most frequent ambiguous types:  <em>Ya</em> (<tt><a href="jv_csui-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 19.000000 (the average of all parts of speech is 238.352941).
+The form / lemma ratio of `INTJ` is 1.055556 (the average of all parts of speech is 1.145928).
 
-The 1st highest number of forms (19) was observed with the lemma “_”: <em>Ah, Alhamdulillah, Astaghfirullah, Halah, Inggih, Insyaallah, Istighfar, Kulanuwun, Nggih, Owalah, Wah, Weehh, Ya, dasar, dhuh, dhuuhh, hla, lha, oh</em>.
+The 1st highest number of forms (2) was observed with the lemma “inggih”: <em>Inggih, Nggih</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “ah”: <em>Ah</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “alhamdulillah”: <em>Alhamdulillah</em>.
 
 `INTJ` occurs with 1 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (4; 13% instances)
 

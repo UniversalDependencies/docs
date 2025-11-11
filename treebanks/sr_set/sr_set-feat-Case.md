@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-57759 tokens (59%) have a non-empty value of `Case`.
+57758 tokens (59%) have a non-empty value of `Case`.
 15434 types (84%) occur at least once with a non-empty value of `Case`.
 7674 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23811; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (9376; 10% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3490; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2403; 2% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (304; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (9376; 10% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3490; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2403; 2% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (304; 0% instances).
 
 ### `NOUN`
 
-23811 <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+23810 <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17402; 73%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (5126; 22% of non-empty `Case`): <em>ponedeljak, sredu, utorak, podršku, petak, četvrtak, nedelju, vreme, pomoć, članstvo</em>
+* `Acc` (5125; 22% of non-empty `Case`): <em>ponedeljak, sredu, utorak, podršku, petak, četvrtak, nedelju, vreme, pomoć, članstvo</em>
 * `Dat` (608; 3% of non-empty `Case`): <em>novinarima, građanima, zemlji, premijeru, članstvu, institucijama, grupi, reformama, savetu, uniji</em>
 * `Gen` (8158; 34% of non-empty `Case`): <em>godine, evra, godina, zemlje, poslova, miliona, zemalja, vlade, nedelje, dana</em>
 * `Ins` (1085; 5% of non-empty `Case`): <em>obzirom, predsednikom, kolegom, premijerom, sporazumom, nazivom, zemljama, ljudima, predstavnicima, sudom</em>
@@ -196,7 +196,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8292; 93%),
 <tt>NOUN --[<tt><a href="sr_set-dep-case.html">case</a></tt>]--> ADP</tt> (6956; 97%),
 <tt>NOUN --[<tt><a href="sr_set-dep-det.html">det</a></tt>]--> DET</tt> (1674; 99%),
-<tt>NOUN --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1447; 92%),
+<tt>NOUN --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1449; 92%),
 <tt>PROPN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1298; 98%),
 <tt>PROPN --[<tt><a href="sr_set-dep-case.html">case</a></tt>]--> ADP</tt> (1214; 89%),
 <tt>NOUN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (702; 85%),

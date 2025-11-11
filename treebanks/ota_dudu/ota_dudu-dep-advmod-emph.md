@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ota_dudu-dep-advmod.html">advmod</a></tt>.
 
-101 nodes (1%) are attached to their parents as `advmod:emph`.
+171 nodes (1%) are attached to their parents as `advmod:emph`.
 
-98 instances of `advmod:emph` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18811881188119.
+168 instances of `advmod:emph` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18713450292398.
 
-The following 10 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (40; 40% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (22; 22% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (18; 18% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (8; 8% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (64; 37% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (40; 23% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (38; 22% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (9; 5% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-DET.html">DET</a></tt>-<tt><a href="ota_dudu-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -28,8 +28,8 @@ The following 10 pairs of parts of speech are connected with `advmod:emph`: <tt>
 4	iki	iki	NUM	ANum	NumType=Card	5	nummod	_	_
 5	dizi	dizi	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
 6	inci	inci	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-7	dir	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-8	.	.	PUNCT	Punc	_	6	punct	_	_
+7	dir	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+8	.	.	PUNCT	Stop	_	6	punct	_	_
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 10 pairs of parts of speech are connected with `advmod:emph`: <tt>
 2	daḫı	daḫı	PART	Emph	_	1	advmod:emph	_	_
 3	ʿırâḳ	ʿırâḳ	PROPN	Place	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Person=3	4	nmod:poss	_	_
 4	şehrlerinden	şehr	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3	0	root	_	_
-5	dür	i	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
+5	dür	y	AUX	Zero	Aspect=Perf|Number=Sing|Person=3|Tense=Pres	4	cop	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 10 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 2	fgColor:white
 # visual-style 2 3 advmod:emph	color:blue
 1	keẕâlik	keẕâlik	ADV	_	_	5	advmod	_	_
-2	sürḫ-serân	sürḫ-ser	PROPN	_	Case=Nom|Number=Plur|Person=3	5	nsubj	_	_
+2	sürḫ-serân	sürḫ-serân	PROPN	_	Case=Nom|NameType=Com|Number=Plur|Person=3	5	nsubj	_	_
 3	daḫı	daḫı	PART	Emph	_	2	advmod:emph	_	_
 4	alayların	alay	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	5	obj	_	_
 5	baġladı	baġla	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_

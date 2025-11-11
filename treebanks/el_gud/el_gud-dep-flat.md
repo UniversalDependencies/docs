@@ -22,17 +22,17 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat	color:blue
-1	«	«	PUNCT	OPUNCT	_	3	punct	_	PunctType=Quot
-2	Θα	θα	AUX	PtFu	Tense=Fut	3	aux	_	_
-3	μιλήσεις	μιλώ	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	10	ccomp	_	_
-4	με	με	ADP	AsPpSp	_	6	case	_	_
-5	τον	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	Λευτέρη	Λευτέρης	PROPN	NoPr	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
-7	Κυριαζίδη	Κυριαζίδης	PROPN	NoPr	Case=Acc|Gender=Masc|Number=Sing	6	flat	_	_
-8	»	»	PUNCT	CPUNCT	_	3	punct	_	PunctType=Quot
-9	μου	εγώ	PRON	PnPe	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
-10	ανακοινώνει	ανακοινώνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	PTERMP	_	10	punct	_	PunctType=Peri
+1	«	«	PUNCT	_	_	3	punct	_	PunctType=Quot
+2	Θα	θα	AUX	_	Tense=Fut	3	aux	_	_
+3	μιλήσεις	μιλώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+4	με	με	ADP	_	_	6	case	_	_
+5	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Λευτέρη	Λευτέρης	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+7	Κυριαζίδη	Κυριαζίδης	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	flat	_	_
+8	»	»	PUNCT	_	_	3	punct	_	PunctType=Quot
+9	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+10	ανακοινώνει	ανακοινώνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	PunctType=Peri
 
 ~~~
 
@@ -43,18 +43,18 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
-1	«	«	PUNCT	OPUNCT	_	9	punct	_	PunctType=Quot
-2	Δεν	δεν	PART	PtNg	Polarity=Neg	3	advmod	_	_
-3	υπάρχουν	υπάρχω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
-4	πια	πια	ADV	AdBa	_	3	advmod	_	_
-5	capital	capital	X	RgFwOr	Foreign=Yes	3	nsubj	_	_
-6	controls	controls	X	RgFwOr	Foreign=Yes	5	flat	_	_
-7	»	»	PUNCT	CPUNCT	_	9	punct	_	PunctType=Quot
-8	του	εγώ	PRON	PnPe	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
-9	εξηγεί	εξηγώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	Κατερίνα	Κατερίνα	PROPN	NoPr	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	PTERMP	_	9	punct	_	PunctType=Peri
+1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot
+2	Δεν	δεν	PART	_	Polarity=Neg	3	advmod	_	_
+3	υπάρχουν	υπάρχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+4	πια	πια	ADV	_	_	3	advmod	_	_
+5	capital	capital	X	_	Foreign=Yes	3	nsubj	_	_
+6	controls	controls	X	_	Foreign=Yes	5	flat	_	_
+7	»	»	PUNCT	_	_	9	punct	_	PunctType=Quot
+8	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	εξηγεί	εξηγώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Κατερίνα	Κατερίνα	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	PunctType=Peri
 
 ~~~
 
@@ -65,16 +65,16 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 flat	color:blue
-1	Ο	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	πλοηγός	πλοηγός	NOUN	NoCm	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	με	εγώ	PRON	PnPe	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
-4	κατευθύνει	κατευθύνω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	σ	σε	ADP	AsPpSp	_	7	case	_	_
-6	τη	ο	DET	AtDf	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	λεωφόρο	λεωφόρος	NOUN	NoCm	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
-8	Σοφοκλή	Σοφοκλή	PROPN	NoPr	Case=Gen|Gender=Masc|Number=Sing	9	compound	_	_
-9	Βενιζέλου	Βενιζέλου	PROPN	NoPr	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	SpaceAfter=No
-10	.	.	PUNCT	PTERMP	_	4	punct	_	PunctType=Peri
+1	Ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	πλοηγός	πλοηγός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	με	εγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+4	κατευθύνει	κατευθύνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	σ	σε	ADP	_	_	7	case	_	_
+6	τη	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	λεωφόρο	λεωφόρος	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+8	Σοφοκλή	Σοφοκλή	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	compound	_	_
+9	Βενιζέλου	Βενιζέλου	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	PunctType=Peri
 
 ~~~
 

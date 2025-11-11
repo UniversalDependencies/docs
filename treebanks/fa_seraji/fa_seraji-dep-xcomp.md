@@ -22,14 +22,14 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 xcomp	color:blue
-1	و	و	CCONJ	CON	_	7	cc	_	Translit=ū|LTranslit=ū
-2	تو	تو	PRON	PRO	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=tū|LTranslit=tū
-3	به	به	ADP	P	_	4	case	_	Translit=bh|LTranslit=bh
-4	خود	خود	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	nmod	_	Translit=ḫūd|LTranslit=ḫūd
-5	ت	تو	PRON	PRO	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	Translit=t|LTranslit=tū
-6	بیناتر	بیناتر	ADJ	ADJ	Degree=Pos	7	xcomp	_	Translit=bīnātr|LTranslit=bīnātr
-7	ی	هست	VERB	V_PRS	Number=Sing|Person=2|Tense=Pres	0	root	_	Translit=ī|LTranslit=hst
-8	!	!	PUNCT	DELM	_	7	punct	_	Translit=!|LTranslit=!
+1	و	و	CCONJ	CON	_	7	cc	_	LTranslit=ū|Translit=ū
+2	تو	تو	PRON	PRO	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	LTranslit=tū|Translit=tū
+3	به	به	ADP	P	_	4	case	_	LTranslit=bh|Translit=bh
+4	خود	خود	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	nmod	_	LTranslit=ḫūd|Translit=ḫūd
+5	ت	تو	PRON	PRO	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	LTranslit=tū|Translit=t
+6	بیناتر	بیناتر	ADJ	ADJ	Degree=Pos	7	xcomp	_	LTranslit=bīnātr|Translit=bīnātr
+7	ی	هست	VERB	V_PRS	Number=Sing|Person=2|Tense=Pres	0	root	_	LTranslit=hst|Translit=ī
+8	!	!	PUNCT	DELM	_	7	punct	_	LTranslit=!|Translit=!
 
 ~~~
 
@@ -40,12 +40,12 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 xcomp	color:blue
-1	آیا	آیا	SCONJ	CON	_	5	mark	_	Translit=Āīā|LTranslit=Āīā
-2	تو	تو	PRON	PRO	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Translit=tū|LTranslit=tū
-3	قاتل	قاتل	NOUN	N_SING	Number=Sing	5	xcomp	_	Translit=qātl|LTranslit=qātl
-4	حضرمی	حضرمی	NOUN	N_SING	Number=Sing	3	nmod:poss	_	Translit=ḥḍrmī|LTranslit=ḥḍrmī
-5	نیستی	هست	VERB	V_PRS	Number=Sing|Person=2|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No|Translit=nīstī|LTranslit=hst
-6	؟	؟	PUNCT	DELM	_	5	punct	_	Translit=?|LTranslit=?
+1	آیا	آیا	SCONJ	CON	_	5	mark	_	LTranslit=Āīā|Translit=Āīā
+2	تو	تو	PRON	PRO	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	LTranslit=tū|Translit=tū
+3	قاتل	قاتل	NOUN	N_SING	Number=Sing	5	xcomp	_	LTranslit=qātl|Translit=qātl
+4	حضرمی	حضرمی	NOUN	N_SING	Number=Sing	3	nmod:poss	_	LTranslit=ḥḍrmī|Translit=ḥḍrmī
+5	نیستی	هست	VERB	V_PRS	Number=Sing|Person=2|Polarity=Neg|Tense=Pres	0	root	_	LTranslit=hst|SpaceAfter=No|Translit=nīstī
+6	؟	؟	PUNCT	DELM	_	5	punct	_	LTranslit=?|Translit=?
 
 ~~~
 
@@ -56,18 +56,18 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 xcomp	color:blue
-1	ما	ما	PRON	PRO	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	Translit=mā|LTranslit=mā
-2	بهتر	به	ADJ	ADJ_CMPR	Degree=Cmp	7	xcomp	_	Translit=bhtr|LTranslit=bh
-3	و	و	CCONJ	CON	_	4	cc	_	Translit=ū|LTranslit=ū
-4	بیشتر	بیش	ADJ	ADJ_CMPR	Degree=Cmp	2	conj	_	Translit=bīštr|LTranslit=bīš
-5	از	از	ADP	P	_	6	case	_	Translit=āz|LTranslit=āz
-6	قبل	قبل	ADV	ADV_TIME	Case=Tem	4	advcl	_	Translit=qbl|LTranslit=qbl
-7	متوجه	متوجه	NOUN	N_SING	Number=Sing	0	root	_	Translit=mtūjh|LTranslit=mtūjh
-8	این	این	DET	DET	_	9	det	_	Translit=āīn|LTranslit=āīn
-9	محور	محور	NOUN	N_SING	Number=Sing	7	nmod:poss	_	Translit=mḥūr|LTranslit=mḥūr
-10	مهم	مهم	ADJ	ADJ	Degree=Pos	9	amod	_	Translit=mhm|LTranslit=mhm
-11	شده‌ایم	_	AUX	V_PP	Number=Plur|Person=1|VerbForm=Part	7	cop	_	SpaceAfter=No|Translit=šdhāīm
-12	.	.	PUNCT	DELM	_	7	punct	_	Translit=.|LTranslit=.
+1	ما	ما	PRON	PRO	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	LTranslit=mā|Translit=mā
+2	بهتر	به	ADJ	ADJ_CMPR	Degree=Cmp	7	xcomp	_	LTranslit=bh|Translit=bhtr
+3	و	و	CCONJ	CON	_	4	cc	_	LTranslit=ū|Translit=ū
+4	بیشتر	بیش	ADJ	ADJ_CMPR	Degree=Cmp	2	conj	_	LTranslit=bīš|Translit=bīštr
+5	از	از	ADP	P	_	6	case	_	LTranslit=āz|Translit=āz
+6	قبل	قبل	ADV	ADV_TIME	Case=Tem	4	advcl	_	LTranslit=qbl|Translit=qbl
+7	متوجه	متوجه	NOUN	N_SING	Number=Sing	0	root	_	LTranslit=mtūjh|Translit=mtūjh
+8	این	این	DET	DET	_	9	det	_	LTranslit=āīn|Translit=āīn
+9	محور	محور	NOUN	N_SING	Number=Sing	7	nmod:poss	_	LTranslit=mḥūr|Translit=mḥūr
+10	مهم	مهم	ADJ	ADJ	Degree=Pos	9	amod	_	LTranslit=mhm|Translit=mhm
+11	شده‌ایم	شد	AUX	V_PP	Number=Plur|Person=1|VerbForm=Part	7	cop	_	LTranslit=šd|SpaceAfter=No|Translit=šdhāīm
+12	.	.	PUNCT	DELM	_	7	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

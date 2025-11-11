@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-149 nodes (14%) are attached to their parents as `nmod`.
+160 nodes (16%) are attached to their parents as `nmod`.
 
-139 instances of `nmod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85906040268456.
+150 instances of `nmod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.95625.
 
-The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (59; 40% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (41; 28% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (10; 7% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (10; 7% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="or_odtb-pos-ADV.html">ADV</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="or_odtb-pos-PRON.html">PRON</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-PART.html">PART</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `nmod`: <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (63; 39% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (41; 26% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (14; 9% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="or_odtb-pos-ADV.html">ADV</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="or_odtb-pos-PRON.html">PRON</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-PART.html">PART</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -51,21 +51,21 @@ The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod	color:blue
-1	ଶାନ୍ତି	ଶାନ୍ତି	NOUN	N_NN	_	3	obj	_	Translit=śānti|LTranslit=śānti
-2	ବଜାୟ	ବଜାୟ	NOUN	N_NN	_	3	obl	_	Translit=bajāŷa|LTranslit=bajāŷa
-3	ରଖିବାକୁ	ରଖ	VERB	V_VM_VNF	_	9	advcl	_	Translit=rakhibāku|LTranslit=rakha
-4	ପ୍ରଶାସନ	ପ୍ରଶାସନ	NOUN	N_NN	_	5	nmod	_	Translit=praśāsana|LTranslit=praśāsana
-5	ପକ୍ଷରୁ	ପକ୍ଷ	ADP	PSP	_	9	obl	_	Translit=pakṣaru|LTranslit=pakṣa
-6	ଶାନ୍ତି	ଶାନ୍ତି	NOUN	N_NN	_	7	nmod	_	Translit=śānti|LTranslit=śānti
-7	କମିଟି	କମିଟି	NOUN	N_NN	_	8	compound	_	Translit=kamiṭi|LTranslit=kamiṭi
-8	ଗଠନ	ଗଠନ	NOUN	N_NN	_	9	obj	_	Translit=gaṭhana|LTranslit=gaṭhana
-9	କରାଯାଇଛି	କରା	VERB	V_VM_VF	_	0	root	_	Translit=karājāichi|LTranslit=karā
-10	।	।	PUNCT	RD_PUNC	_	9	punct	_	Translit=.|LTranslit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 nmod	color:blue
+1	ଏହି	_	DET	DM_DMD	_	2	det	_	Translit=ehi
+2	ଫିଲ୍ମ	_	NOUN	N_NN	_	9	nsubj	_	Translit=philma
+3	ସଲମାନ	_	PROPN	N_NNP	_	6	nmod	_	Translit=salamāna
+4	ଖାନ	_	PROPN	N_NNP	_	3	flat	_	Translit=khāna
+5	ପ୍ରଡକ୍ସନ	_	NOUN	N_NN	_	6	nmod	_	Translit=praḍaksana
+6	ହାଉସ	_	NOUN	N_NN	_	9	compound	_	Translit=hāusa
+7	ଦ୍ୱାରା	_	ADP	PSP	_	6	case	_	Translit=dୱାrā
+8	ନିର୍ମାଣ	_	NOUN	N_NN	_	9	obj	_	Translit=nirmāṇa
+9	କରାଯିବ	_	VERB	V_VM_VF	_	0	root	_	Translit=karāyiba
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n|Translit=.
 
 ~~~
 

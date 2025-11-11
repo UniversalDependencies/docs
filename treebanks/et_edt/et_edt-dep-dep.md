@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	:	:	PUNCT	Z	_	8	punct	8:punct	_
 8	tööraha	töö_raha	NOUN	S	Case=Nom|Number=Sing	6	appos	6:appos	_
 9	pluss	pluss	NOUN	S	Case=Nom|Number=Sing	13	dep	13:dep	_
-10	Feeri	Feer	PROPN	S	Case=Gen|Number=Sing	12	obl	12:obl	NE=B-Org
+10	Feeri	Feer	PROPN	S	Case=Gen|Number=Sing	12	obl:agent	12:obl:agent	NE=B-Org
 11	poolt	poolt	ADP	K	AdpType=Post	10	case	10:case	_
 12	lisatud	lisa=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	13:acl	_
 13	protsendid	protsent	NOUN	S	Case=Nom|Number=Plur	8	conj	8:conj	SpaceAfter=No

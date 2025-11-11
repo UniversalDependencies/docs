@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-19810 tokens (7%) have a non-empty value of `Degree`.
-3902 types (12%) occur at least once with a non-empty value of `Degree`.
-2542 lemmas (10%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (19810; 7% instances).
+19820 tokens (7%) have a non-empty value of `Degree`.
+3903 types (12%) occur at least once with a non-empty value of `Degree`.
+2545 lemmas (10%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (19820; 7% instances).
 
 ### `ADJ`
 
-19810 <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> tokens (94% of all `ADJ` tokens) have a non-empty value of `Degree`.
+19820 <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> tokens (94% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (1107; 6% of non-empty `Degree`): <em>later, verder, eerder, beter, latere, groter, vroeger, langer, vroegere, verdere</em>
-* `Pos` (18073; 91% of non-empty `Degree`): <em>andere, grote, nieuwe, Duitse, Vlaamse, belgische, eigen, Franse, groot, verschillende</em>
+* `Pos` (18083; 91% of non-empty `Degree`): <em>andere, grote, nieuwe, Duitse, belgische, Vlaamse, eigen, Franse, groot, verschillende</em>
 * `Sup` (630; 3% of non-empty `Degree`): <em>laatste, grootste, belangrijkste, beste, oudste, hoogste, voornaamste, bekendste, mooiste, sterkste</em>
-* `EMPTY` (1195): <em>eerste, tweede, eerst, derde, 19e, vierde, 20e, 18e, 17e, twintigste</em>
+* `EMPTY` (1197): <em>eerste, tweede, eerst, derde, 19e, vierde, 20e, 18e, 17e, twintigste</em>
 
 <table>
   <tr><th>Paradigm <i>groot</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -31,19 +31,19 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-A
   <tr><td><tt><tt><a href="nl_lassysmall-feat-ExtPos.html">ExtPos</a></tt><tt>=PROPN</tt></tt></td><td><em>Grote, Groot</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (2419) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (2422) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> ADJ</tt> (479; 97%),
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (452; 92%),
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-amod.html">amod</a></tt>]--> ADJ</tt> (33; 79%),
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt>]--> ADJ</tt> (32; 73%),
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> ADJ</tt> (480; 97%),
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (450; 92%),
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-amod.html">amod</a></tt>]--> ADJ</tt> (37; 80%),
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt>]--> ADJ</tt> (34; 76%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-obl.html">obl</a></tt>]--> ADJ</tt> (18; 90%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (15; 94%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (12; 75%),
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (7; 78%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (5; 71%),
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (4; 100%).
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (3; 75%).
 

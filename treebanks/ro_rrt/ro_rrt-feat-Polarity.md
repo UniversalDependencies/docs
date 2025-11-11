@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-10760 tokens (5%) have a non-empty value of `Polarity`.
+10759 tokens (5%) have a non-empty value of `Polarity`.
 59 types (0%) occur at least once with a non-empty value of `Polarity`.
 28 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (6929; 3% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (2201; 1% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1626; 1% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (4; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (6929; 3% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (2200; 1% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1626; 1% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (4; 0% instances).
 
 ### `CCONJ`
 
@@ -27,11 +27,11 @@ The feature is used with 4 part-of-speech tags: <tt><a href="ro_rrt-pos-CCONJ.ht
 
 ### `SCONJ`
 
-2201 <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> tokens (100% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
+2200 <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> tokens (100% of all `SCONJ` tokens) have a non-empty value of `Polarity`.
 
 `SCONJ` tokens may have the following values of `Polarity`:
 
-* `Pos` (2201; 100% of non-empty `Polarity`): <em>că, dacă, ca, până, încât, deoarece, deși, fără, fiindcă, întrucât</em>
+* `Pos` (2200; 100% of non-empty `Polarity`): <em>că, dacă, ca, încât, deoarece, până, deși, fiindcă, fără, întrucât</em>
 
 `Polarity` seems to be **lexical feature** of `SCONJ`. 100% lemmas (12) occur only with one value of `Polarity`.
 
@@ -55,15 +55,14 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>ne, non, non-</em>
-* `EMPTY` (8862): <em>mai, când, cum, iar, astfel, nici, decât, numai, mult, înainte</em>
+* `EMPTY` (8864): <em>mai, când, cum, iar, astfel, nici, decât, numai, mult, înainte</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>CCONJ --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> CCONJ</tt> (17; 100%),
 <tt>SCONJ --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> CCONJ</tt> (13; 100%),
-<tt>CCONJ --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> CCONJ</tt> (4; 100%),
-<tt>CCONJ --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> SCONJ</tt> (2; 100%),
+<tt>CCONJ --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> CCONJ</tt> (2; 100%),
 <tt>PART --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> PART</tt> (1; 100%),
 <tt>SCONJ --[<tt><a href="ro_rrt-dep-cc.html">cc</a></tt>]--> CCONJ</tt> (1; 100%),
 <tt>SCONJ --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> SCONJ</tt> (1; 100%),

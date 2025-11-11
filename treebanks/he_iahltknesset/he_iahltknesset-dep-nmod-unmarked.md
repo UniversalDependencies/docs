@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="he_iahltknesset-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="he_iahltknesset-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-41 nodes (0%) are attached to their parents as `nmod:unmarked`.
+45 nodes (0%) are attached to their parents as `nmod:unmarked`.
 
-40 instances of `nmod:unmarked` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+44 instances of `nmod:unmarked` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.93333333333333.
 
-The following 12 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (11; 27% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (7; 17% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (7; 17% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (6; 15% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="he_iahltknesset-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (11; 24% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (7; 16% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (7; 16% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (6; 13% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (4; 9% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="he_iahltknesset-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltknesset-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt>-<tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 12 pairs of parts of speech are connected with `nmod:unmarked`: <t
 4	אף	אף	DET	DET	Definite=Cons|PronType=Neg	5	det	_	_
 5	פעם	פעם	NOUN	NOUN	Gender=Fem|Number=Sing	9	nmod:unmarked	_	TemporalNPAdjunct=Yes
 6	לא	לא	ADV	ADV	Polarity=Neg	9	advmod	_	_
-7	מחוץ	מחוץ	ADP	ADP	_	9	case	_	_
+7	מחוץ	מחוץ	ADP	ADP	ExtPos=ADP	9	case	_	_
 8	ל	ל	ADP	ADP	Definite=Def|PronType=Art	7	fixed	_	_
 9	מים	מים	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	_
 10	ה	ה	DET	DET	Definite=Def|PronType=Art	11	det	_	_

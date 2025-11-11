@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="fr_pud-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="fr_pud-dep-obl-mod.html">obl:mod</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="fr_pud-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_pud-dep-obl-mod.html">obl:mod</a></tt>.
 
 1 nodes (0%) are attached to their parents as `obl:agent`.
 

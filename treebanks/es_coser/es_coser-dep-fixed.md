@@ -25,7 +25,7 @@ The following 28 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	Sí	sí	INTJ	rg	_	9	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
 3	bueno	bueno	INTJ	i	_	9	discourse	_	_
-4	a	a	ADP	sps00	_	9	advmod	_	MWE=a_menudo|MWEPOS=ADV
+4	a	a	ADP	sps00	ExtPos=ADV	9	advmod	_	MWE=a_menudo|MWEPOS=ADV
 5	menudo	menudo	NOUN	_	_	4	fixed	_	_
 6	no	no	ADV	rn	Polarity=Neg	9	advmod	_	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	9	punct	_	_

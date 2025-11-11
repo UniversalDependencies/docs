@@ -6,21 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Georgian-GNC: Features: `Evident`
 
-This feature is universal.
-It occurs with 1 different values: `Nfh`.
+This feature is universal but the values `Fh` are language-specific.
+It occurs with 2 different values: `Fh`, `Nfh`.
 
-76 tokens (0%) have a non-empty value of `Evident`.
+85 tokens (0%) have a non-empty value of `Evident`.
 2 types (0%) occur at least once with a non-empty value of `Evident`.
 2 lemmas (0%) occur at least once with a non-empty value of `Evident`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (76; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (85; 0% instances).
 
 ### `PART`
 
-76 <tt><a href="ka_gnc-pos-PART.html">PART</a></tt> tokens (100% of all `PART` tokens) have a non-empty value of `Evident`.
-
-The most frequent other feature values with which `PART` and `Evident` co-occurred: <tt><a href="ka_gnc-feat-Person.html">Person</a></tt><tt>=3</tt> (69; 91%).
+85 <tt><a href="ka_gnc-pos-PART.html">PART</a></tt> tokens (100% of all `PART` tokens) have a non-empty value of `Evident`.
 
 `PART` tokens may have the following values of `Evident`:
 
-* `Nfh` (76; 100% of non-empty `Evident`): <em>ო, -მეთქი</em>
+* `Fh` (10; 12% of non-empty `Evident`): <em>-მეთქი</em>
+* `Nfh` (75; 88% of non-empty `Evident`): <em>ო</em>
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (4%) are attached to their parents as `obj`.
+58 nodes (4%) are attached to their parents as `obj`.
 
-51 instances of `obj` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.78333333333333.
+49 instances of `obj` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.8448275862069.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (30; 50% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (22; 37% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-X.html">X</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (30; 52% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (22; 38% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt>-<tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt>-<tt><a href="gsw_uzh-pos-X.html">X</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

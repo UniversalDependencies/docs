@@ -95,7 +95,7 @@ The most frequent other feature values with which `PROPN` and `Tense` co-occurre
 
 * `Past` (10; 26% of non-empty `Tense`): <em>corde, ergoss, estate, handelte, las, plb, schweiz, semisecco, spring, war</em>
 * `Pres` (29; 74% of non-empty `Tense`): <em>ist, 1st, Gibt, Glaube, Kemble, Roden, Sankt, Verden, ausnutzen, bru</em>
-* `EMPTY` (30378): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (30377): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (3; 100% of non-empty `Tense`): <em>engangierte, kombiniert, verschleppten</em>
-* `EMPTY` (21737): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
+* `EMPTY` (21739): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
 
 ## Relations with Agreement in `Tense`
 

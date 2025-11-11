@@ -9,35 +9,35 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-128 tokens (16%) have a non-empty value of `Tense`.
-46 types (13%) occur at least once with a non-empty value of `Tense`.
-2 lemmas (15%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (114; 15% instances), <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> (14; 2% instances).
+137 tokens (12%) have a non-empty value of `Tense`.
+54 types (10%) occur at least once with a non-empty value of `Tense`.
+3 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> (121; 10% instances), <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> (16; 1% instances).
 
 ### `VERB`
 
-114 <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Tense`.
+121 <tt><a href="xum_ikuvina-pos-VERB.html">VERB</a></tt> tokens (44% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="xum_ikuvina-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 82%), <tt><a href="xum_ikuvina-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (72; 63%), <tt><a href="xum_ikuvina-feat-Person.html">Person</a></tt><tt>=2</tt> (71; 62%), <tt><a href="xum_ikuvina-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (68; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="xum_ikuvina-feat-Number.html">Number</a></tt><tt>=Sing</tt> (98; 81%), <tt><a href="xum_ikuvina-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (72; 60%), <tt><a href="xum_ikuvina-feat-Person.html">Person</a></tt><tt>=2</tt> (72; 60%), <tt><a href="xum_ikuvina-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (68; 56%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (84; 74% of non-empty `Tense`): <em>fetu, feitu, ustentu, benurent, ustetu, aitu, prusikurent, revestu, sumtu, vetu</em>
-* `Past` (9; 8% of non-empty `Tense`): <em>kuratu, eitipes, anzeriates, purtitu, spafu, çersnatur</em>
-* `Pres` (21; 18% of non-empty `Tense`): <em>kutef, habia, feia, emantu, emantur, herifi, kuraia, kutep, prehabia, prehubia</em>
-* `EMPTY` (83): <em>pesnimu, taçez, etutu, herte, kuvertu, purtiius, zeřef, etatu, kumate, persnimu</em>
+* `Fut` (87; 72% of non-empty `Tense`): <em>fetu, feitu, ustentu, benurent, ustetu, aitu, prusikurent, revestu, sumtu, vetu</em>
+* `Past` (9; 7% of non-empty `Tense`): <em>kuratu, eitipes, anzeriates, purtitu, spafu, çersnatur</em>
+* `Pres` (25; 21% of non-empty `Tense`): <em>kutef, habia, feia, ařhabas, emantu, emantur, heri, herifi, kuraia, kutep</em>
+* `EMPTY` (154): <em>pesnimu, antentu, purtuvitu, taçez, persnihmu, persnimu, ařveitu, etu, etutu, feitu</em>
 
 ### `AUX`
 
-14 <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> tokens (70% of all `AUX` tokens) have a non-empty value of `Tense`.
+16 <tt><a href="xum_ikuvina-pos-AUX.html">AUX</a></tt> tokens (70% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="xum_ikuvina-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 79%), <tt><a href="xum_ikuvina-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11; 79%), <tt><a href="xum_ikuvina-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 64%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="xum_ikuvina-feat-Person.html">Person</a></tt><tt>=3</tt> (13; 81%), <tt><a href="xum_ikuvina-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (13; 81%), <tt><a href="xum_ikuvina-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 69%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (6; 43% of non-empty `Tense`): <em>fust, fuiest, furent</em>
-* `Pres` (8; 57% of non-empty `Tense`): <em>si, eru, sis</em>
-* `EMPTY` (6): <em>est, fust, se, si</em>
+* `Fut` (7; 44% of non-empty `Tense`): <em>fust, fuiest, furent</em>
+* `Pres` (9; 56% of non-empty `Tense`): <em>si, eru, fuia, sis</em>
+* `EMPTY` (7): <em>est, fust, futu, se, si</em>
 
 ## Relations with Agreement in `Tense`
 

@@ -9,16 +9,14 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-189 tokens (0%) have a non-empty value of `Typo`.
-92 types (0%) occur at least once with a non-empty value of `Typo`.
-89 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 11 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (54; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (38; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (34; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+187 tokens (0%) have a non-empty value of `Typo`.
+91 types (0%) occur at least once with a non-empty value of `Typo`.
+88 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 11 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (54; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (34; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
 
 54 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="id_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (28; 52%).
 
 `VERB` tokens may have the following values of `Typo`:
 
@@ -28,11 +26,11 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 ### `ADP`
 
-38 <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
+37 <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
 `ADP` tokens may have the following values of `Typo`:
 
-* `Yes` (38; 100% of non-empty `Typo`): <em>dibawah, dimana, diatas, didalam, diluar, dibelakang, dimuka, s</em>
+* `Yes` (37; 100% of non-empty `Typo`): <em>dibawah, dimana, diatas, didalam, diluar, dibelakang, dimuka, s</em>
 
 ### `NOUN`
 
@@ -78,7 +76,7 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 5 <tt><a href="id_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="id_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 80%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="id_gsd-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="id_gsd-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (4; 80%).
 
 `DET` tokens may have the following values of `Typo`:
 
@@ -93,16 +91,6 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 `NUM` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>beribu, Delapn, satu</em>
-
-### `X`
-
-2 <tt><a href="id_gsd-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`X` tokens may have the following values of `Typo`:
-
-* `Yes` (2; 100% of non-empty `Typo`): <em>do, pendukun</em>
 
 ### `CCONJ`
 
@@ -119,4 +107,14 @@ The most frequent other feature values with which `X` and `Typo` co-occurred: <t
 `PROPN` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>Co</em>
+
+### `X`
+
+1 <tt><a href="id_gsd-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="id_gsd-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`X` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>do</em>
 

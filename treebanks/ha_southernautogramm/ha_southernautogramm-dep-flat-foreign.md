@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ha_southernautogramm-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="ha_southernautogramm-dep-flat-name.html">flat:name</a></tt>.
 
-16 nodes (0%) are attached to their parents as `flat:foreign`.
+14 nodes (0%) are attached to their parents as `flat:foreign`.
 
-16 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+14 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.28571428571429.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (16; 100% instances).
+The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> (5; 36% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 14% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (2; 14% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -25,13 +25,69 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 3 4 flat:foreign	color:blue
 1	yâwwaː	yâwwaː	INTJ	_	_	7	discourse	_	AlignBegin=89355|AlignEnd=89557|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=89557|AlignEnd=89759|Gloss=PUNCT
-3	àlhamdù	àlhamdù	X	_	Foreign=Yes	7	discourse	_	AlignBegin=89759|AlignEnd=89961|Gloss=alhamdu|Lang=ar
-4	lìllaːhì	lìllaːhì	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=89961|AlignEnd=90163|Gloss=lillahi|Lang=ar
+3	àlhamdù	àlhamdù	INTJ	_	Foreign=Yes	7	discourse	_	AlignBegin=89759|AlignEnd=89961|Gloss=alhamdu|Lang=ar
+4	lìllaːhì	lìllaːhì	INTJ	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=89961|AlignEnd=90163|Gloss=lillahi|Lang=ar
 5	<	<	PUNCT	_	_	3	punct	_	AlignBegin=90163|AlignEnd=90366|Gloss=PUNCT
 6	akàn	_	AUX	kàn	Aspect=Hab|Person=4	7	aux	_	AlignBegin=90366|AlignEnd=90556|Gloss=4.Hab
 7	dafàː	daf-	VERB	_	_	0	root	_	AlignBegin=90556|AlignEnd=90746|Gloss=cook
-8	nèː	neː/naː	PART	_	_	7	advmod	_	AlignBegin=90746|AlignEnd=90936|Gloss=Ident/Foc
+8	nèː	neː	PART	_	PartType=Foc	7	discourse	_	AlignBegin=90746|AlignEnd=90936|Gloss=Emph
 9	//	//	PUNCT	_	_	7	punct	_	AlignBegin=90936|AlignEnd=91124|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 28 29 flat:foreign	color:blue
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=198860|AlignEnd=198967|Gloss=3Masc.Nom
+2	kèː	_	AUX	kèː	Aspect=ProgBkg	3	aux	_	AlignBegin=198967|AlignEnd=199074|Background=Yes|Gloss=ProgBkg
+3	cîː	ci	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	1	advcl:cleft	_	AlignBegin=199074|AlignEnd=199181|Gloss=eat.Vnoun
+4	dà	dà	ADP	_	_	5	case	_	AlignBegin=199181|AlignEnd=199288|Gloss=with
+5	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	obl:arg	_	AlignBegin=199288|AlignEnd=199395|Gloss=1Sing.Nom
+6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=199395|AlignEnd=199502|Gloss=PUNCT
+7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	1	parataxis	_	AlignBegin=199502|AlignEnd=199651|Gloss=3Masc.Nom
+8	kèː	_	AUX	kèː	Aspect=ProgBkg	7	advcl:cleft	_	AlignBegin=199651|AlignEnd=199800|Background=Yes|Gloss=ProgBkg
+9	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	AlignBegin=199800|AlignEnd=199949|Gloss=1Sing.Dat
+10	àbîn	àbù	NOUN	_	Definite=Cons	8	obj	_	AlignBegin=199949|AlignEnd=200023|Gloss=thing.Cons
+11	nân	nân	DET	_	Deixis=Prox|PronType=Dem	10	det	_	AlignBegin=200098|AlignEnd=200247|Gloss=Prox
+12	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=200247|AlignEnd=200396|Gloss=PUNCT
+13	kuma	kuma	CCONJ	_	_	15	cc	_	AlignBegin=200396|AlignEnd=200602|Gloss=also
+14	yakèː	_	AUX	kèː	Aspect=ProgBkg|Gender=Masc|Person=3	15	aux	_	AlignBegin=200602|AlignEnd=200808|Background=Yes|Gloss=3Masc.ProgBkg
+15	tallàfaː	tallàfaː	VERB	_	_	8	conj	_	AlignBegin=200808|AlignEnd=201014|Gloss=support
+16	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	15	iobj	_	AlignBegin=201014|AlignEnd=201220|Gloss=1Sing.Dat
+17	wajen	wajen	ADP	_	_	18	case	_	AlignBegin=201220|AlignEnd=201426|Gloss=around
+18	har̃kàn	har̃kàː	NOUN	_	Definite=Cons	15	obl	_	AlignBegin=201426|AlignEnd=201529|Gloss=affair.Cons
+19	kàr̃àːtuː	kàr̃àːtuː	NOUN	_	Definite=Ind	18	nmod	_	AlignBegin=201632|AlignEnd=201838|Gloss=education
+20	dà	dà	CCONJ	_	_	21	cc	_	AlignBegin=201838|AlignEnd=202044|Gloss=and
+21	sauransù	sauraː	NOUN	_	Definite=Cons|Number=Plur|Person=3	18	conj	_	AlignBegin=202044|AlignEnd=202113|Gloss=remainder.Cons.+3Plur|wordform=sauraː
+22	har̃	hat	SCONJ	_	_	25	mark	_	AlignBegin=202716|AlignEnd=202853|Gloss=up_to
+23	Allàː	Allàː	PROPN	_	_	25	nsubj	_	AlignBegin=202853|AlignEnd=202990|Gloss=God
+24	ya	_	AUX	(n)kà	Aspect=PerfBkg|Gender=Masc|Person=3	25	aux	_	AlignBegin=202990|AlignEnd=203127|Background=Yes|Gloss=3Masc.Perf.Bkg
+25	sâː	sâː	VERB	_	_	15	advcl	_	AlignBegin=203127|AlignEnd=203264|Gloss=put
+26	na	_	AUX	(n)kà	Aspect=PerfBkg|Number=Sing|Person=1	27	aux	_	AlignBegin=203264|AlignEnd=203401|Background=Yes|Gloss=1Sing.Perf.Bkg
+27	gamà	gamàː	VERB	_	_	25	ccomp	_	AlignBegin=203401|AlignEnd=203538|Gloss=finish
+28	sakandir̃iː	sakandir̃iː	ADJ	_	Foreign=Yes	27	obj	_	AlignBegin=203675|AlignEnd=203812|Gloss=secondary|Lang=en
+29	sùkûːl	sùkûːl	NOUN	_	Foreign=Yes	28	flat:foreign	_	AlignBegin=203812|AlignEnd=203949|Gloss=school|Lang=en
+30	//	//	PUNCT	_	_	1	punct	_	AlignBegin=204086|AlignEnd=204227|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 flat:foreign	color:blue
+1	akà	_	AUX	(n)kà	Aspect=PerfBkg|Person=4	2	aux	_	AlignBegin=421712|AlignEnd=421904|Background=Yes|Gloss=4.Perf.Bkg
+2	kai	kai	VERB	_	_	0	root	_	AlignBegin=421904|AlignEnd=422096|Gloss=carry
+3	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	obj	_	AlignBegin=422096|AlignEnd=422288|Gloss=3Masc
+4	police	police	NOUN	_	Foreign=Yes	2	obl	_	AlignBegin=422288|AlignEnd=422480|Gloss=police|Lang=en
+5	station	station	NOUN	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=422480|AlignEnd=422672|Gloss=station|Lang=en
+6	<	<	PUNCT	_	_	2	punct	_	AlignBegin=422672|AlignEnd=422863|Gloss=PUNCT
 
 ~~~
 

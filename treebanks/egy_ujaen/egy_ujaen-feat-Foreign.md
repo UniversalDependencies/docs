@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="egy_ujaen-pos-X.htm
 
 ### `X`
 
-29 <tt><a href="egy_ujaen-pos-X.html">X</a></tt> tokens (30% of all `X` tokens) have a non-empty value of `Foreign`.
+29 <tt><a href="egy_ujaen-pos-X.html">X</a></tt> tokens (29% of all `X` tokens) have a non-empty value of `Foreign`.
 
 The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="egy_ujaen-feat-Typo.html">Typo</a></tt><tt>=EMPTY</tt> (29; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (29; 100% of non-empty `Foreign`): <em>ꜣꜣꜣ, hꞽ, kbb, phtꞽ, pčtꞽ, ꞽmḥw, bś, bꞽ, bꞽtꞽ, hnw</em>
-* `EMPTY` (67): <em>[...], {nb}, {n}, {k}, {r}, {⸗ꞽ}, ḫwrr, ꜣꞽ, bbnč, bsꜣ.t</em>
+* `EMPTY` (70): <em>[...], {nb}, {n}, {⸗ꞽ}, ḫwrr, {r}, {k}, ꜣꞽ, bbnč, bsꜣ.t</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (18) occur only with one value of `Foreign`.
 
@@ -31,12 +31,12 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 
 1 <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="egy_ujaen-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (1; 100%), <tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-SubForm.html">SubForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="egy_ujaen-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (1; 100%), <tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-SubForm.html">SubForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%), <tt><a href="egy_ujaen-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>ꜣꜣꜣ</em>
-* `EMPTY` (3796): <em>č̣(ṭ), m, pr, rč̣.n, č̣i̯, ꜥḥꜥ, ꜥnḫ, č̣ꜣ, fꜣ.t, ꞽr</em>
+* `EMPTY` (4453): <em>č̣(ṭ), m, pr, č̣i̯, ꞽꞽ, rč̣.n, ꜥnḫ, ꜥḥꜥ, ꞽr, č̣ꜣ</em>
 
 ## Relations with Agreement in `Foreign`
 

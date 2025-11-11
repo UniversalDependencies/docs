@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (0%) are attached to their parents as `appos`.
+25 nodes (0%) are attached to their parents as `appos`.
 
-21 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.80952380952381.
+25 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.92.
 
-The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (9; 43% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 29% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (4; 19% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `appos`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (10; 40% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 24% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (5; 20% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 5	атроцкист	а-троцки́ст	NOUN	Noun_H_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	7	nmod:poss	_	LMSeg:а-троцки́ст
 6	Лакоба	Лакоба	PROPN	Noun_Prop_Anthr_LastName	NameType=Prs	5	appos	_	LMSeg:Лакоба
 7	иҩнаҿ	а-ҩны́	NOUN	Noun_NH_Sg_Poss:3SgM_Cop_PP:ҿы́	Animacy=Nhum|Case=Ine|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	LMSeg:а-ҩны́|SpaceAfter=No
-8	оуп	а́кәзаара	AUX	V_Stat_Fin_Pres_S:3_IO:3SgNH_EnclCop	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	cop	_	LMSeg:а́кә-заа-ра|SpaceAfter=No
+8	оуп	а́кәзаара	AUX	V_Stat_Fin_Pres_S:3_IO:3SgNH_EnclCop	Dyn=No|Gender[io]=Neut|Mood=Ind|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	cop	_	LMSeg:а́кә-заа-ра|SpaceAfter=No
 9	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 
 ~~~
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 5	даҽа	даҽа́	ADJ	Adj	_	7	amod	_	LMSeg:даҽа́
 6	ҩыџьа	ҩы́џьа	NUM	Num_H_Card	Animacy=Hum|NumType=Card	7	nummod	_	LMSeg:ҩы́џьа
 7	аҧсшьацәа	а-ҧсшьаҩы́	NOUN	Noun_H_Pl_Det	Animacy=Hum|Definite=Def|Number=Plur	8	obj	_	LMSeg:а-ҧсшьаҩы́
-8	лыҧшааит	а́-ҧшаара	VERB	V_Dyn_Tr_Fin_Aor_S:3SgF_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Fem|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а́-ҧшаа-ра
+8	лыҧшааит	а́-ҧшаара	VERB	V_Dyn_Tr_Fin_Aor_S:3SgF_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Fem|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а́-ҧшаа-ра
 9	–	–	PUNCT	Punct_Dash	_	10	punct	_	LMSeg:–
 10	хаҵеи	а-ха́ҵа	NOUN	Noun_H_Sg_Coord	Animacy=Hum|Number=Sing	7	appos	_	LMSeg:а-ха́ҵа
 11	ҧҳәыси	а-ҧҳәы́с	NOUN	Noun_H_F_Sg_Coord	Animacy=Hum|Number=Sing	10	conj	_	LMSeg:а-ҧҳәы́с|SpaceAfter=No

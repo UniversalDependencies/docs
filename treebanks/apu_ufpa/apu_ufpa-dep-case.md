@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 5 6 case	color:blue
 1	Inhinhiã	inhinhiã	ADV	Adv	_	3	advmod	_	gloss[pt]=então
 2	apaka	apaka	ADV	Adv	_	3	advmod	_	gloss[pt]=também
-3	amutary	amutary	VERB	XPOS=3SG.M-comprar	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=3SG.M-comprar-3SG.M.O
+3	amutary	amuta	VERB	XPOS=3SG.M-comprar	Gender[obj]=Masc|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	gloss[pt]=3SG.M-comprar-3SG.M.O
 4	tirikapi	tirikapi	NOUN	XPOS=lamparina	_	3	obj	_	gloss[pt]=lamparina
 5	aapuku	awapukutxi	NOUN	XPOS=3SG.M-casa.de	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Possessed=Yes	3	obl	_	gloss[pt]=3SG.M-casa.de
 6	ĩkapanhi	ĩkapanhi	ADP	Po	_	5	case	_	gloss[pt]=com.o.proósito.de|SpaceAfter=No
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 6 case	color:blue
 1	Pupỹkary	pupỹkary	NOUN	N	Gender=Masc	2	nsubj	_	gloss[pt]=índio
-2	sary	sa	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres	0	root	_	gloss[pt]=ir-3SG.M.O
+2	sary	sa	VERB	V	Gender[obj]=Masc|Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	gloss[pt]=ir-3SG.M.O
 3	Tapaua	Tapaua	PROPN	XPOS=Tapauá	_	2	obl:lmod	_	gloss[pt]=Tapauá
 4	maky	maky	NOUN	N	Gender=Fem	5	obl	_	gloss[pt]=castanha
 5	ivinitinhi	vinita	VERB	XPOS=3SG.M-vender	VerbForm=Vnoun	2	nmod	_	gloss[pt]=3SG.M-vender-GER

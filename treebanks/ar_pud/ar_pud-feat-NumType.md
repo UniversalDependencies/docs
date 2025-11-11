@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (7; 100% of non-empty `NumType`): عشر، الثالث، الثاني، الرابع، السادس
-* `EMPTY` (2019): أكثر، الأول، الخاصة، المتحدة، كبيرة، الثاني، الأولى، أول، أخرى، أكبر
+* `EMPTY` (2018): أكثر، الأول، الخاصة، المتحدة، كبيرة، الثاني، الأولى، أول، أخرى، أكبر
 
 ## Relations with Agreement in `NumType`
 

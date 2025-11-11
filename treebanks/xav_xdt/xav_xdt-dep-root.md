@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-246 nodes (11%) are attached to their parents as `root`.
+248 nodes (11%) are attached to their parents as `root`.
 
-246 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.88211382113821.
+248 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.89112903225806.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (200; 81% instances), -<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (37; 15% instances), -<tt><a href="xav_xdt-pos-X.html">X</a></tt> (3; 1% instances), -<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (201; 81% instances), -<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (38; 15% instances), -<tt><a href="xav_xdt-pos-X.html">X</a></tt> (3; 1% instances), -<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

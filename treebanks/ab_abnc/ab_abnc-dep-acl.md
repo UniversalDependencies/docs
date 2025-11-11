@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 5	алҩа	а́-лҩа	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	6	nsubj	_	LMSeg:а́-лҩа
 6	ахьҩеиуаз	а-ҩе́ира	VERB	V_Dyn_Intr_NonFin_Cnv_Impf_Where_S:3_S:Ad	Dyn=Yes|Person[subj]=3|RelType=Loc|Subcat=Intr|Tense=Imp|VerbForm=NonFin	7	acl	_	LMSeg:а-ҩе́и-ра
 7	адәаҿы	а-дәы́	NOUN	Noun_NH_Sg_Det_PP:ҿы́	Animacy=Nhum|Case=Ine|Definite=Def|Number=Sing	8	obl	_	LMSeg:а-дәы́
-8	днанагеит	а-на́гара	VERB	V_Dyn_Tr_Fin_Aor_S:3SgNH_DO:3SgH	Dyn=Yes|Gender[obj]=Com|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-на́·га-ра|SpaceAfter=No
+8	днанагеит	а-на́гара	VERB	V_Dyn_Tr_Fin_Aor_S:3SgNH_DO:3SgH	Dyn=Yes|Gender[obj]=Com|Gender[subj]=Neut|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-на́·га-ра|SpaceAfter=No
 9	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
 
 ~~~

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Pass`.
 
-3318 tokens (1%) have a non-empty value of `Voice`.
-1005 types (5%) occur at least once with a non-empty value of `Voice`.
-953 lemmas (7%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3318; 1% instances).
+3337 tokens (1%) have a non-empty value of `Voice`.
+1006 types (5%) occur at least once with a non-empty value of `Voice`.
+954 lemmas (7%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3337; 1% instances).
 
 ### `VERB`
 
-3318 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Voice`.
+3337 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3318; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3318; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3318; 100%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3318; 100%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3318; 100%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3337; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3337; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3337; 100%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3337; 100%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3337; 100%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Pass` (3318; 100% of non-empty `Voice`): <em>based, called, known, used, made, given, born, done, found, taken</em>
-* `EMPTY` (21422): <em>have, know, do, get, think, make, see, go, said, had</em>
+* `Pass` (3337; 100% of non-empty `Voice`): <em>called, based, used, known, made, given, born, done, found, taken</em>
+* `EMPTY` (21402): <em>have, know, do, get, think, make, see, go, said, had</em>
 
-`Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (953) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (954) occur only with one value of `Voice`.
 
 ## Relations with Agreement in `Voice`
 

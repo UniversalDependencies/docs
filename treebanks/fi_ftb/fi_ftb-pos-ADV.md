@@ -65,12 +65,12 @@ The 2nd highest number of forms (9) was observed with the lemma “kyllä”: <e
 
 The 3rd highest number of forms (9) was observed with the lemma “täällä”: <em>Täällähän, Täälläkin, tiällä, tääl, tääll, täällä, täälläkään, täälä, tääläk</em>.
 
-`ADV` occurs with 8 features: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt> (2246; 17% instances), <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (636; 5% instances), <tt><a href="fi_ftb-feat-Degree.html">Degree</a></tt> (460; 3% instances), <tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt> (428; 3% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (292; 2% instances), <tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt> (220; 2% instances), <tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt> (103; 1% instances), <tt><a href="fi_ftb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADV` occurs with 8 features: <tt><a href="fi_ftb-feat-PronType.html">PronType</a></tt> (2246; 17% instances), <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (636; 5% instances), <tt><a href="fi_ftb-feat-Degree.html">Degree</a></tt> (460; 3% instances), <tt><a href="fi_ftb-feat-Person-psor.html">Person[psor]</a></tt> (428; 3% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (292; 2% instances), <tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt> (233; 2% instances), <tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt> (103; 1% instances), <tt><a href="fi_ftb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `ADV` occurs with 30 feature-value pairs: `Clitic=Han`, `Clitic=Han,Ka`, `Clitic=Han,Ko`, `Clitic=Ka`, `Clitic=Ka,S`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Ko,S`, `Clitic=Pa`, `Clitic=Pa,S`, `Clitic=S`, `Degree=Cmp`, `Degree=Sup`, `ExtPos=ADJ`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=INTJ`, `ExtPos=SCONJ`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `Style=Coll`, `Typo=Yes`
 
-`ADV` occurs with 82 feature combinations.
-The most frequent feature combination is `_` (9525 tokens).
+`ADV` occurs with 84 feature combinations.
+The most frequent feature combination is `_` (9520 tokens).
 Examples: <em>nyt, jo, myös, vielä, vain, niin, kyllä, aina, ihan, paljon</em>
 
 

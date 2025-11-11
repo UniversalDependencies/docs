@@ -30,8 +30,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 <table>
   <tr><th>Paradigm <i>I</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>I, me</em></td><td><em>me</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>PI</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>Ii</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Ii, PI</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`

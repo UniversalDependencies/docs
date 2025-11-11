@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Frac` (5; 2% of non-empty `NumType`): <em>half</em>
 * `Ord` (252; 98% of non-empty `NumType`): <em>first, second, third, 17th, fourth, 5th, 19th, 21st, 2nd, 7th</em>
-* `EMPTY` (16533): <em>good, great, new, other, best, many, more, last, same, few</em>
+* `EMPTY` (16532): <em>good, great, new, other, best, many, more, last, same, few</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `NumType`.
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Frac` (2; 1% of non-empty `NumType`): <em>half</em>
 * `Mult` (77; 50% of non-empty `NumType`): <em>once, twice</em>
 * `Ord` (76; 49% of non-empty `NumType`): <em>first, second, Third, fifth</em>
-* `EMPTY` (12434): <em>so, just, when, very, also, how, now, even, then, there</em>
+* `EMPTY` (12440): <em>so, just, when, very, also, how, now, even, then, there</em>
 
 ### `NOUN`
 
@@ -84,14 +84,14 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="en_ewt-dep-list.html">list</a></tt>]--> NUM</tt> (207; 100%),
+<tt>NUM --[<tt><a href="en_ewt-dep-list.html">list</a></tt>]--> NUM</tt> (210; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (149; 99%),
 <tt>NUM --[<tt><a href="en_ewt-dep-compound.html">compound</a></tt>]--> NUM</tt> (109; 77%),
 <tt>NUM --[<tt><a href="en_ewt-dep-nmod-unmarked.html">nmod:unmarked</a></tt>]--> NUM</tt> (96; 100%),
-<tt>NUM --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> NUM</tt> (81; 100%),
-<tt>NUM --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NUM</tt> (70; 100%),
-<tt>NUM --[<tt><a href="en_ewt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (15; 79%),
-<tt>NUM --[<tt><a href="en_ewt-dep-appos.html">appos</a></tt>]--> NUM</tt> (13; 100%),
+<tt>NUM --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> NUM</tt> (84; 100%),
+<tt>NUM --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NUM</tt> (73; 100%),
+<tt>NUM --[<tt><a href="en_ewt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (13; 76%),
+<tt>NUM --[<tt><a href="en_ewt-dep-appos.html">appos</a></tt>]--> NUM</tt> (12; 100%),
 <tt>NOUN --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (6; 60%),
 <tt>NUM --[<tt><a href="en_ewt-dep-acl-relcl.html">acl:relcl</a></tt>]--> NUM</tt> (4; 100%).
 

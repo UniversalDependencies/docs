@@ -41,8 +41,8 @@ The 3rd highest number of forms (7) was observed with the lemma “kuiš”: <em
 `PRON` occurs with 21 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
 
 `PRON` occurs with 67 feature combinations.
-The most frequent feature combination is `Number=Sing|Person=1|Poss=Yes|PronType=Prs` (13 tokens).
-Examples: <em>YA, I</em>
+The most frequent feature combination is `Case=Dat|Number=Sing|Person=1|PronType=Prs` (13 tokens).
+Examples: <em>mu</em>
 
 
 ## Relations

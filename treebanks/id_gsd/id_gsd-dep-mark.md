@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2168 nodes (2%) are attached to their parents as `mark`.
+2175 nodes (2%) are attached to their parents as `mark`.
 
-2087 instances of `mark` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7140221402214.
+2094 instances of `mark` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.71172413793103.
 
-The following 17 pairs of parts of speech are connected with `mark`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1876; 87% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (103; 5% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (64; 3% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (42; 2% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (29; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `mark`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1883; 87% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (103; 5% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (64; 3% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (42; 2% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (29; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (22; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 17 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 7 mark	color:blue
 1	Dingalan	dingalan	PROPN	X--	_	2	nsubj:pass	_	Morf=^dingalan<x>_X--$
-2	terbagi	bagi	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^ter+bagi<v>_VSP$
-3	menjadi	jadi	VERB	VSA	Mood=Ind|Voice=Act	2	xcomp	_	Morf=^meN+jadi<a>_VSA$
+2	terbagi	bagi	VERB	VSP	Voice=Pass	0	root	_	Morf=^ter+bagi<v>_VSP$
+3	menjadi	jadi	VERB	VSA	Voice=Act	2	xcomp	_	Morf=^meN+jadi<a>_VSA$
 4	11	11	NUM	CC-	NumType=Card	5	nummod	_	Morf=^11<c>_CC-$
 5	barangay	barangay	NOUN	X--	_	3	obj	_	SpaceAfter=No|Morf=^barangay<x>_X--$
 6	,	,	PUNCT	Z--	_	3	punct	_	Morf=^,<z>_Z--$
@@ -64,7 +64,7 @@ The following 17 pairs of parts of speech are connected with `mark`: <tt><a href
 3	Bahwa	bahwa	ADP	S--	_	6	mark	_	Morf=^bahwa<s>_S--$
 4	injil	injil	NOUN	NSD	Number=Sing	6	nsubj:pass	_	Morf=^injil<n>_NSD$
 5	harus	harus	AUX	VSA	_	6	aux	_	Morf=^harus<v>_VSA$
-6	diberitakan	berita	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+berita<n>+kan_VSP$
+6	diberitakan	berita	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+berita<n>+kan_VSP$
 7	sebagai	sebagai	ADP	R--	_	8	case	_	Morf=^sebagai<r>_R--$
 8	saksi	saksi	NOUN	NSD	Number=Sing	6	obl	_	Morf=^saksi<n>_NSD$
 9	ke	ke	ADP	R--	_	11	case	_	Morf=^ke<r>_R--$

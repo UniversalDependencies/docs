@@ -6,22 +6,22 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GUM: POS Tags: `SCONJ`
 
-There are 52 `SCONJ` lemmas (0%), 58 `SCONJ` types (0%) and 3814 `SCONJ` tokens (2%).
+There are 51 `SCONJ` lemmas (0%), 57 `SCONJ` types (0%) and 3812 `SCONJ` tokens (2%).
 Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>that, if, as, because, for, of, while, by, after, in</em>
 
 The 10 most frequent `SCONJ` types:  <em>that, if, as, because, for, of, by, while, after, in</em>
 
-The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 1591, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 994, <tt><a href="en_gum-pos-DET.html">DET</a></tt> 412, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 21), <em>if</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 545, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 20), <em>as</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 644, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 372, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 204), <em>because</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 273, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 28), <em>for</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1481, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 148), <em>of</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 5645, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 127), <em>while</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 120, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 19), <em>by</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 708, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 119, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>after</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 120, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 89, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 2), <em>in</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 3755, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 88, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 27, <tt><a href="en_gum-pos-X.html">X</a></tt> 5, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 1592, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 994, <tt><a href="en_gum-pos-DET.html">DET</a></tt> 411, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 21), <em>if</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 545, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 20), <em>as</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 644, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 372, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 204), <em>because</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 273, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 28), <em>for</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1481, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 148), <em>of</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 5645, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 127), <em>while</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 120, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 19), <em>by</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 708, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 119, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>after</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 120, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 89, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 2), <em>in</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 3746, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 88, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 36, <tt><a href="en_gum-pos-X.html">X</a></tt> 5, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 1357, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 991, <tt><a href="en_gum-pos-DET.html">DET</a></tt> 287, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 20), <em>if</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 354, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 20), <em>as</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 603, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 326, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 192), <em>because</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 244, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 25), <em>for</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1357, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 144, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>of</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 5615, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 127), <em>by</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 656, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 107, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>while</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 80, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 18), <em>after</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 89, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1), <em>in</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 3389, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 84, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 27, <tt><a href="en_gum-pos-X.html">X</a></tt> 5)
+The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 1358, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 991, <tt><a href="en_gum-pos-DET.html">DET</a></tt> 286, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 20), <em>if</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 354, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 20), <em>as</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 603, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 326, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 192), <em>because</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 244, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 25), <em>for</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1357, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 144, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>of</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 5615, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 127), <em>by</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 656, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 107, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1), <em>while</em> (<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 80, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 18), <em>after</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 89, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1), <em>in</em> (<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 3380, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 84, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 36, <tt><a href="en_gum-pos-X.html">X</a></tt> 5)
 
 
 * <em>that</em>
-  * <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 1357: <em>What 's up with <b>that</b> ?</em>
+  * <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 1358: <em>What 's up with <b>that</b> ?</em>
   * <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 991: <em>So I think <b>that</b> that is the –</em>
-  * <tt><a href="en_gum-pos-DET.html">DET</a></tt> 287: <em>I took <b>that</b> brown trash thing , and tucked a bag in it .</em>
+  * <tt><a href="en_gum-pos-DET.html">DET</a></tt> 286: <em>I took <b>that</b> brown trash thing , and tucked a bag in it .</em>
   * <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 20: <em>I only have uh , <b>that</b> many cards , so ...</em>
 * <em>if</em>
   * <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 354: <em>Next time <b>if</b> I leave in the morning , I 'll wake you up .</em>
@@ -53,14 +53,14 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_gum-pos-PR
   * <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 2: <em>A day <b>after</b> , we counted how many spores were still alive .</em>
   * <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1: <em>Arosa said it was terrible , I just ca n’t write comps. , so I ’ve got a confer. this <b>after</b> .</em>
 * <em>in</em>
-  * <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 3389: <em>Emperor Joshua Norton , <b>in</b> full military regalia , circa 1880 or earlier</em>
+  * <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 3380: <em>Emperor Joshua Norton , <b>in</b> full military regalia , circa 1880 or earlier</em>
   * <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 84: <em>I 'm just interested <b>in</b> when did she get that .</em>
-  * <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 27: <em>But if you like slugs , you 're <b>in</b> – you 're in luck .</em>
+  * <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 36: <em>But if you like slugs , you 're <b>in</b> – you 're in luck .</em>
   * <tt><a href="en_gum-pos-X.html">X</a></tt> 5: <em>The Jacob cycle at Auckland Castle is the only UK example of a continental collection preserved <b>in</b> situ in purpose - built surroundings .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.115385 (the average of all parts of speech is 1.243866).
+The form / lemma ratio of `SCONJ` is 1.117647 (the average of all parts of speech is 1.243967).
 
 The 1st highest number of forms (3) was observed with the lemma “cuz”: <em>'cuz, cuz, ‘cuz</em>.
 
@@ -68,24 +68,24 @@ The 2nd highest number of forms (2) was observed with the lemma “although”: 
 
 The 3rd highest number of forms (2) was observed with the lemma “than”: <em>than, then</em>.
 
-`SCONJ` occurs with 3 features: <tt><a href="en_gum-feat-ExtPos.html">ExtPos</a></tt> (58; 2% instances), <tt><a href="en_gum-feat-Style.html">Style</a></tt> (28; 1% instances), <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (13; 0% instances)
+`SCONJ` occurs with 3 features: <tt><a href="en_gum-feat-ExtPos.html">ExtPos</a></tt> (55; 1% instances), <tt><a href="en_gum-feat-Style.html">Style</a></tt> (28; 1% instances), <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (13; 0% instances)
 
 `SCONJ` occurs with 3 feature-value pairs: `ExtPos=SCONJ`, `Style=Vrnc`, `Typo=Yes`
 
 `SCONJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (3720 tokens).
+The most frequent feature combination is `_` (3721 tokens).
 Examples: <em>that, if, as, because, for, of, by, while, after, in</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_gum-dep-mark.html">mark</a></tt> (3772; 99% instances), <tt><a href="en_gum-dep-fixed.html">fixed</a></tt> (33; 1% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (5; 0% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_gum-dep-mark.html">mark</a></tt> (3770; 99% instances), <tt><a href="en_gum-dep-fixed.html">fixed</a></tt> (33; 1% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (5; 0% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2945; 77% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (336; 9% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (279; 7% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (84; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (39; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (38; 1% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (33; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (24; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2943; 77% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (336; 9% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (279; 7% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (84; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (39; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (38; 1% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (33; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (2; 0% instances)
 
-3665 (96%) `SCONJ` nodes are leaves.
+3666 (96%) `SCONJ` nodes are leaves.
 
-142 (4%) `SCONJ` nodes have one child.
+139 (4%) `SCONJ` nodes have one child.
 
 6 (0%) `SCONJ` nodes have two children.
 
@@ -93,7 +93,7 @@ Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="en
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (93; 59% instances), <tt><a href="en_gum-dep-fixed.html">fixed</a></tt> (59; 38% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="en_gum-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (93; 60% instances), <tt><a href="en_gum-dep-fixed.html">fixed</a></tt> (56; 36% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (3; 2% instances), <tt><a href="en_gum-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (93; 59% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (33; 21% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (25; 16% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (93; 60% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (33; 21% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (22; 14% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

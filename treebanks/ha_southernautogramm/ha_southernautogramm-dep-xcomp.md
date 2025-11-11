@@ -8,50 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-248 nodes (2%) are attached to their parents as `xcomp`.
+73 nodes (1%) are attached to their parents as `xcomp`.
 
-167 instances of `xcomp` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42741935483871.
+73 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.79452054794521.
 
-The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (83; 33% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (66; 27% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (33; 13% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (20; 8% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt>-<tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 xcomp	color:blue
-1	dà	dà	SCONJ	_	_	3	mark	_	AlignBegin=136990|AlignEnd=137139|Gloss=COMP
-2	sukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	3	aux	_	AlignBegin=137139|AlignEnd=137288|Background=Yes|Gloss=3Plur.Perf.Bkg
-3	zoː	zoː	VERB	_	_	9	advcl	_	AlignBegin=137288|AlignEnd=137437|Gloss=come
-4	hakà	hakà	ADV	_	_	3	advmod	_	AlignBegin=137437|AlignEnd=137586|Gloss=like_this
-5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	xcomp	_	AlignBegin=137586|AlignEnd=137735|Gloss=3Masc.Nom
-6	nèː	neː/naː	PART	_	_	9	advmod	_	AlignBegin=137735|AlignEnd=137884|Gloss=Ident/Foc
-7	sukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=3	9	aux	_	AlignBegin=138033|AlignEnd=138182|Background=Yes|Gloss=3Plur.Perf.Bkg
-8	ɗan	ɗan	ADV	_	_	9	advmod	_	AlignBegin=138182|AlignEnd=138331|Gloss=little
-9	sàːri	saːr-	VERB	_	_	0	root	_	AlignBegin=138331|AlignEnd=138405|Gloss=fell
-10	itàːceː	itàːceː	NOUN	_	_	9	obj	_	AlignBegin=138480|AlignEnd=138629|Gloss=wood
-11	//	//	PUNCT	_	_	9	punct	_	AlignBegin=138629|AlignEnd=138775|Gloss=PUNCT
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 xcomp	color:blue
-1	Bashìr̃	Bashìr̃	PROPN	_	_	6	vocative	_	AlignBegin=627|AlignEnd=737|Gloss=Bashir
-2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=737|AlignEnd=846|Gloss=PUNCT
-3	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	6	nsubj	_	AlignBegin=912|AlignEnd=1082|Gloss=2Masc.Nom
-4	mazàunin	mazàuniː	NOUN	_	Definite=Cons	6	xcomp	_	AlignBegin=1124|AlignEnd=1166|Gloss=inhabitant.Cons
-5	ìnaː	ìnaː	ADV	_	PronType=Int	4	advmod	_	AlignBegin=1252|AlignEnd=1422|Gloss=where
-6	nèː	neː/naː	PART	_	_	0	root	_	AlignBegin=1422|AlignEnd=1592|Gloss=Ident/Foc
-7	?//	?//	PUNCT	_	_	6	punct	_	AlignBegin=1592|AlignEnd=1760|Gloss=PUNCT
-
-~~~
+The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (29; 40% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (10; 14% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (8; 11% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (7; 10% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (7; 10% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -61,7 +23,7 @@ The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 6 xcomp	color:blue
 1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=129145|AlignEnd=129336|Gloss=if
-2	mukà	_	AUX	sukà/sunkà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=129336|AlignEnd=129527|Background=Yes|Gloss=1Plur.Perf.Bkg
+2	mukà	_	AUX	(n)kà	Aspect=PerfBkg|Number=Plur|Person=1	3	aux	_	AlignBegin=129336|AlignEnd=129527|Background=Yes|Gloss=1Plur.Perf.Bkg
 3	gan	ganiː	VERB	_	_	10	advcl	_	AlignBegin=129527|AlignEnd=129718|Gloss=see
 4	sù	su	PRON	_	Number=Plur|Person=3|PronType=Prs	3	obj	_	AlignBegin=129718|AlignEnd=129909|Gloss=3Plur
 5	dà	dà	ADP	_	_	6	case	_	AlignBegin=129909|AlignEnd=130100|Gloss=with
@@ -70,9 +32,45 @@ The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 8	sai	sai	ADV	_	_	10	advmod	_	AlignBegin=130482|AlignEnd=130673|Gloss=then
 9	munàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=1	10	aux	_	AlignBegin=130673|AlignEnd=130864|Gloss=1Plur.Prog
 10	ƙòːƙarin	ƙòːƙariː	NOUN	_	Definite=Cons	0	root	_	AlignBegin=130864|AlignEnd=130960|Gloss=effort.Cons
-11	mù	_	AUX	sù	Aspect=Aor|Number=Plur|Person=1	12	aux	_	AlignBegin=131055|AlignEnd=131246|Gloss=1Plur.Aor
+11	mù	_	AUX	ø	Aspect=Aor|Number=Plur|Person=1	12	aux	_	AlignBegin=131055|AlignEnd=131246|Gloss=1Plur.Aor
 12	gudù	gud-	VERB	_	_	10	ccomp	_	AlignBegin=131246|AlignEnd=131437|Gloss=run
 13	//	//	PUNCT	_	_	10	punct	_	AlignBegin=131437|AlignEnd=131630|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 xcomp	color:blue
+1	gàː	gàː	PART	_	PartType=Pred	0	root	_	AlignBegin=73613|AlignEnd=73756|Gloss=here_is
+2	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	1	nsubj	_	AlignBegin=73756|AlignEnd=73899|Gloss=3Fem
+3	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	xcomp	_	AlignBegin=73899|AlignEnd=74042|Gloss=Def
+4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=73899|AlignEnd=74042|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 xcomp	color:blue
+1	aːʼàː	aːʼàː	INTJ	_	_	10	discourse	_	AlignBegin=103277|AlignEnd=103493|Gloss=no
+2	na	na/ta	ADP	_	Definite=Cons	3	case	_	AlignBegin=103493|AlignEnd=103709|Gloss=of
+3	nair̃àː	nair̃àː	NOUN	_	Definite=Ind	10	dislocated	_	AlignBegin=103709|AlignEnd=103925|Gloss=Naira
+4	goːmàn	goːmàn	NUM	_	Definite=Cons|ExtPos=NOUN	3	nmod	_	AlignBegin=103925|AlignEnd=103997|Gloss=ten.Cons|wordform=goːmà
+5	=kà	=kà	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	nmod	_	AlignBegin=104069|AlignEnd=104141|Gloss=2Masc.Gen
+6	sai	sai	ADV	_	_	10	advmod	_	AlignBegin=104141|AlignEnd=104357|Gloss=must
+7	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	8	aux	_	AlignBegin=104357|AlignEnd=104573|Gloss=2Masc.Perf
+8	shaː	shaː	VERB	_	_	10	advcl	_	AlignBegin=104573|AlignEnd=104789|Gloss=drink
+9	kà	_	AUX	ø	Aspect=Aor|Gender=Masc|Person=2	10	aux	_	AlignBegin=104789|AlignEnd=105005|Gloss=2Masc.Aor
+10	yi	yi	VERB	_	_	0	root	_	AlignBegin=105005|AlignEnd=105221|Gloss=do
+11	tûy	tûy	ADV	_	_	10	xcomp	_	AlignBegin=105221|AlignEnd=105437|Gloss=drunk|Ideo=Yes
+12	//	//	PUNCT	_	_	10	punct	_	AlignBegin=105437|AlignEnd=105658|Gloss=PUNCT
 
 ~~~
 

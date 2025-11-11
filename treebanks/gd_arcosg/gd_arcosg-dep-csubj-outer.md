@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 16 csubj:outer	color:blue
-1	B'	is	AUX	Ws	ExtPos=AUX|Tense=Past	6	cop	_	_
+1	B'	is	AUX	Ws	ExtPos=AUX|Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	_
 2	an	an	ADP	Sp	_	1	fixed	_	_
 3	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 4	nuair	nuair	SCONJ	Cs	_	6	mark	_	_
@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `csubj:outer`: <tt><
 5	a'	ag	PART	Sa	_	6	case	_	_
 6	smaoineachadh	smaoinich	NOUN	Nv	VerbForm=Vnoun	2	xcomp:pred	_	_
 7	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	9	mark:prt	_	_
-8	b'	is	AUX	Ws	Tense=Past	9	cop	_	_
+8	b'	is	AUX	Ws	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
 9	urrainn	urrainn	NOUN	Uf	CleftType=Nom	6	ccomp	_	_
 10	saighead	saighead	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 11	a	a	PART	Ug	PartType=Inf	12	mark:prt	_	_
@@ -136,7 +136,7 @@ The following 4 pairs of parts of speech are connected with `csubj:outer`: <tt><
 8	fhios	fios	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 9	aig	aig	ADP	Sp	_	10	case	_	_
 10	thu	thu	PRON	Pp2s	Number=Sing|Person=2|PronType=Prs	7	xcomp:pred	_	_
-11	gur	is	AUX	Wpdia	ExtPos=AUX|Polarity=Aff|Tense=Pres	13	cop	_	_
+11	gur	is	AUX	Wpdia	ExtPos=AUX|Mood=Ind|Polarity=Aff|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	fixed	_	_
 13	seo	seo	PRON	Pd	CleftType=Nom|PronType=Dem	8	acl	_	_
 14	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_

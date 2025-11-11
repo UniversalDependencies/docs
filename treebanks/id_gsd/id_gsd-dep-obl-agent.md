@@ -26,10 +26,10 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	Kesempatan	kesempatan	PROPN	NSD	_	7	nsubj:pass	_	Morf=^kesempatan<n>_NSD$
 2	Kubica	kubica	PROPN	F--	_	1	flat:name	_	Morf=^kubica<f>_F--$
 3	untuk	untuk	SCONJ	R--	_	4	mark	_	Morf=^untuk<r>_R--$
-4	mengetes	tes	VERB	VSA	Mood=Ind|Voice=Act	1	acl	_	Morf=^meN+tes<n>_VSA$
+4	mengetes	tes	VERB	VSA	Voice=Act	1	acl	_	Morf=^meN+tes<n>_VSA$
 5	mobil	mobil	NOUN	NSD	Number=Sing	4	obj	_	Morf=^mobil<n>_NSD$
 6	F1	f1	PROPN	F--	_	5	nmod	_	Morf=^f1<f>_F--$
-7	digunakan	guna	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+guna<n>+kan_VSP$
+7	digunakan	guna	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+guna<n>+kan_VSP$
 8	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	7	obl:agent	_	Morf=^dia<p>_PS3$
 9	dengan	dengan	ADP	R--	_	10	case	_	Morf=^dengan<r>_R--$
 10	baik	baik	ADJ	ASP	_	7	xcomp	_	SpaceAfter=No|Morf=^baik<a>_ASP$
@@ -52,13 +52,13 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	ia	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Morf=^ia<p>_PS3$
 7	betul-betul	betul	ADV	APP	_	6	advmod	_	Morf=^betul<a>_APP$
 8	bisa	bisa	AUX	M--	_	9	aux	_	Morf=^bisa<m>_M--$
-9	mengeluarkan	keluar	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+keluar<v>+kan_VSA$
+9	mengeluarkan	keluar	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+keluar<v>+kan_VSA$
 10	tenaga	tenaga	NOUN	NSD	Number=Sing	9	obj	_	Morf=^tenaga<n>_NSD$
 11	dalam	dalam	ADJ	NSD	_	10	amod	_	Morf=^dalam<n>_NSD$
 12	nya	nya	PRON	PS3	Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	Morf=^dia<p>_PS3$
 13	seperti	seperti	ADP	R--	_	10	case	_	Morf=^seperti<r>_R--$
 14	yang	yang	PRON	S--	PronType=Rel	15	nsubj:pass	_	Morf=^yang<s>_S--$
-15	diajarkan	ajar	VERB	VSP	Mood=Ind|Voice=Pass	10	acl:relcl	_	Morf=^di+ajar<v>+kan_VSP$
+15	diajarkan	ajar	VERB	VSP	Voice=Pass	10	acl:relcl	_	Morf=^di+ajar<v>+kan_VSP$
 16	Sam	sam	PROPN	F--	_	15	obl:agent	_	Morf=^sam<f>_F--$
 17	selama	selama	ADP	R--	_	18	case	_	Morf=^selama<r>_R--$
 18	ini	ini	PRON	B--	PronType=Dem	15	obl	_	SpaceAfter=No|Morf=^ini<b>_B--$
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	internasional	internasional	ADJ	ASP	_	3	amod	_	Morf=^internasional<a>_ASP$
 5	pertama	pertama	ADJ	CO-	NumType=Ord	3	amod	_	Morf=^pertama<c>_CO-$
 6	yang	yang	PRON	S--	PronType=Rel	7	nsubj	_	Morf=^yang<s>_S--$
-7	dimenangkan	menang	VERB	VSP	Mood=Ind|Voice=Pass	3	acl:relcl	_	Morf=^di+menang<a>+kan_VSP$
+7	dimenangkan	menang	VERB	VSP	Voice=Pass	3	acl:relcl	_	Morf=^di+menang<a>+kan_VSP$
 8	pelatih	latih	NOUN	NSD	Number=Sing	7	obl:agent	_	Morf=^peN+latih<v>_NSD$
 9	Monterrey	monterrey	PROPN	X--	_	8	nmod	_	SpaceAfter=No|Morf=^monterrey<x>_X--$
 10	,	,	PUNCT	Z--	_	8	punct	_	Morf=^,<z>_Z--$

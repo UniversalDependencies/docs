@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="ja_bccwjluw-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-1362 nodes (0%) are attached to their parents as `csubj`.
+1352 nodes (0%) are attached to their parents as `csubj`.
 
-1362 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.19383259911894.
+1352 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.16863905325444.
 
-The following 22 pairs of parts of speech are connected with `csubj`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (835; 61% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (116; 9% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (97; 7% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (80; 6% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (73; 5% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (54; 4% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (42; 3% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (23; 2% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `csubj`: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (837; 62% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (116; 9% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (98; 7% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (80; 6% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (73; 5% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (53; 4% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (42; 3% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (23; 2% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 22 pairs of parts of speech are connected with `csubj`: <tt><a hre
 16	_	_	ADP	_	_	15	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 17	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=120
 18	_	_	AUX	_	_	17	cop	_	BBIL=I|BPT=1|PUDL=だ|SpaceAfter=No|UI=26
-19	_	_	PUNCT	_	_	17	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=2
+19	_	_	PUNCT	_	_	17	punct	_	BBIL=I|BPT=2|UI=2
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 22 pairs of parts of speech are connected with `csubj`: <tt><a hre
 26	_	_	AUX	_	Polarity=Neg	25	aux	_	BBIL=I|BPT=1|SpaceAfter=No|UI=188
 27	_	_	AUX	_	_	25	aux	_	BBIL=I|BPT=3|SpaceAfter=No|UI=837
 28	_	_	AUX	_	_	25	aux	_	BBIL=I|BPT=3|SpaceAfter=No|UI=142
-29	_	_	PUNCT	_	_	25	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13
+29	_	_	PUNCT	_	_	25	punct	_	BBIL=I|BPT=2|UI=13
 
 ~~~
 
@@ -96,7 +96,7 @@ The following 22 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	_	_	AUX	_	_	2	aux	_	BBIL=I|BPT=1|SpaceAfter=No|UI=7
 4	_	_	SCONJ	_	_	2	mark	_	BBIL=I|BPT=3|SpaceAfter=No|UI=0
 5	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=3|SpaceAfter=No|UI=4
-6	_	_	PROPN	_	_	14	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=6867
+6	_	_	PROPN	_	_	14	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=6867
 7	_	_	ADP	_	_	6	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=70
 8	_	_	AUX	_	_	6	cop	_	BBIL=I|BPT=3|SpaceAfter=No|UI=40
 9	_	_	PUNCT	_	_	6	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1

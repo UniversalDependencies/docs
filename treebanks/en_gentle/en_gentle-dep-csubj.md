@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 9 14 csubj	color:blue
 1	Since	since	SCONJ	IN	_	5	mark	5:mark	Discourse=organization-preparation:77->78:0:_|PDTB=Explicit:Contingency.Cause.Reason:since:568:575-584:569-574;NoRel:NoRel:_:_:549-567:568-584|SpaceAfter=No
 2	:	:	PUNCT	:	_	1	punct	1:punct	_
-3	AC2	AC2	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	Discourse=explanation-evidence:78->80:1:dm-since-568+lex-indph-575-576|Entity=(17-abstract-giv:inact-nnnnn-cf1-1-coref)
+3	AC2	AC2	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	Discourse=explanation-evidence:78->80:1:dm-since-568-_+lex-indph-575-576-gold|Entity=(17-abstract-giv:inact-nnnnn-cf1-1-coref)
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 5	commensurable	commensurable	ADJ	JJ	Degree=Pos	9	advcl	9:advcl:since	MSeg=commensur-able|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Commensurable"></ref>
 6	with	with	ADP	IN	_	7	case	7:case	_
@@ -34,7 +34,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 9	follows	follow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=follow-s
 10	that	that	SCONJ	IN	_	14	mark	14:mark	Entity=(68-abstract-acc:com-nnnnn-cf5-5-coref|SpaceAfter=No
 11	:	:	PUNCT	:	_	10	punct	10:punct	_
-12	DH	DH	NOUN	NN	Abbr=Yes|Number=Sing	14	nsubj	14:nsubj	Discourse=explanation-evidence:80->82:3:dm-so-585|Entity=(21-abstract-giv:inact-nnnnn-cf2-1-coref)
+12	DH	DH	NOUN	NN	Abbr=Yes|Number=Sing	14	nsubj	14:nsubj	Discourse=explanation-evidence:80->82:3:dm-so-585-_|Entity=(21-abstract-giv:inact-nnnnn-cf2-1-coref)
 13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
 14	commensurable	commensurable	ADJ	JJ	Degree=Pos	9	csubj	9:csubj	MSeg=commensur-able|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Commensurable"></ref>
 15	with	with	ADP	IN	_	16	case	16:case	_

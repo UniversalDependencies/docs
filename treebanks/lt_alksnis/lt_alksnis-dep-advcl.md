@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Lithuanian-ALKSNIS: Relations: `advcl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advcl`: <tt><a href="lt_alksnis-dep-advcl-pred.html">advcl:pred</a></tt>.
 
 1329 nodes (2%) are attached to their parents as `advcl`.
 

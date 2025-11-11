@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nmf_suansu-pos-PRON
 
 263 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (85% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (262; 100%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (228; 87%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (144; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (263; 100%), <tt><a href="nmf_suansu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (228; 87%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (144; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 

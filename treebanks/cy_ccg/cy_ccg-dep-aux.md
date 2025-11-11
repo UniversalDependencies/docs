@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1966 nodes (4%) are attached to their parents as `aux`.
+2031 nodes (4%) are attached to their parents as `aux`.
 
-1962 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14089521871821.
+2027 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14081733136386.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1936; 98% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (27; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (2001; 99% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (27; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,10 +27,10 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	yn	yn	AUX	impf	_	4	aux	_	_
 4	llithro	llithro	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
 5	i	i	ADP	prep	_	6	case	_	_
-6	le	lle	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	_
+6	le	lle	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	nmod	_	_
 7	tywyll	tywyll	ADJ	pos	Degree=Pos	6	amod	_	_
 8	dros	dros	ADP	prep	_	9	case	_	_
-9	ben	pen	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	SpaceAfter=No
+9	ben	pen	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
 
 ~~~
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 8	yn	yn	AUX	impf	_	9	aux	_	_
 9	aml	aml	ADV	adv	_	7	advmod	_	_
 10	er	er	ADP	prep	_	11	case	_	_
-11	mwyn	mwyn	NOUN	noun	Gender=Masc|Number=Sing	7	obl	_	_
+11	mwyn	mwyn	NOUN	noun	Gender=Masc|Number=Sing	7	nmod	_	_
 12	gwanhau	gwanhau	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	11	acl	_	_
 13	cyfyngiadau	cyfyngiad	NOUN	noun	Gender=Masc|Number=Plur	12	obj	_	_
 14	cynllunio	cynllunio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	13	nmod	_	_

@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>I</em> (<tt><a href="en_gentle-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.390244 (the average of all parts of speech is 1.148568).
+The form / lemma ratio of `PRON` is 1.390244 (the average of all parts of speech is 1.148610).
 
 The 1st highest number of forms (4) was observed with the lemma “I”: <em>I, Ii, PI, me</em>.
 
@@ -64,7 +64,7 @@ The 2nd highest number of forms (3) was observed with the lemma “they”: <em>
 
 The 3rd highest number of forms (3) was observed with the lemma “your”: <em>you, your, yours</em>.
 
-`PRON` occurs with 10 features: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt> (1187; 100% instances), <tt><a href="en_gentle-feat-Number.html">Number</a></tt> (1040; 88% instances), <tt><a href="en_gentle-feat-Person.html">Person</a></tt> (946; 80% instances), <tt><a href="en_gentle-feat-Case.html">Case</a></tt> (933; 79% instances), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt> (331; 28% instances), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt> (239; 20% instances), <tt><a href="en_gentle-feat-Style.html">Style</a></tt> (16; 1% instances), <tt><a href="en_gentle-feat-Reflex.html">Reflex</a></tt> (15; 1% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (7; 1% instances), <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
+`PRON` occurs with 10 features: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt> (1187; 100% instances), <tt><a href="en_gentle-feat-Number.html">Number</a></tt> (1040; 88% instances), <tt><a href="en_gentle-feat-Person.html">Person</a></tt> (946; 80% instances), <tt><a href="en_gentle-feat-Case.html">Case</a></tt> (933; 79% instances), <tt><a href="en_gentle-feat-Gender.html">Gender</a></tt> (331; 28% instances), <tt><a href="en_gentle-feat-Poss.html">Poss</a></tt> (239; 20% instances), <tt><a href="en_gentle-feat-Style.html">Style</a></tt> (16; 1% instances), <tt><a href="en_gentle-feat-Reflex.html">Reflex</a></tt> (15; 1% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (6; 1% instances), <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
 
 `PRON` occurs with 24 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `ExtPos=ADV`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Arch`, `Typo=Yes`
 

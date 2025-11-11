@@ -6,21 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-BCCWJLUW: POS Tags: `DET`
 
-There are 1 `DET` lemmas (6%), 1 `DET` types (6%) and 6056 `DET` tokens (1%).
+There are 1 `DET` lemmas (6%), 1 `DET` types (6%) and 6057 `DET` tokens (1%).
 Out of 17 observed tags, the rank of `DET` is: 6 in number of lemmas, 6 in number of types and 14 in number of tokens.
 
 The 10 most frequent `DET` lemmas: _
 
 The 10 most frequent `DET` types:  _
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_bccwjluw-pos-ADP.html">ADP</a></tt> 245017, <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> 225588, <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt> 144569, <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> 111199, <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> 101596, <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> 26895, <tt><a href="ja_bccwjluw-pos-SCONJ.html">SCONJ</a></tt> 26679, <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> 25414, <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> 22344, <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> 19399, <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt> 12659, <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> 10721, <tt><a href="ja_bccwjluw-pos-PART.html">PART</a></tt> 10541, <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> 6056, <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> 5646, <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> 967, <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> 342)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_bccwjluw-pos-ADP.html">ADP</a></tt> 245015, <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> 225587, <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt> 144569, <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> 111199, <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> 101596, <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> 26895, <tt><a href="ja_bccwjluw-pos-SCONJ.html">SCONJ</a></tt> 26679, <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> 25414, <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> 22344, <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> 19399, <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt> 12659, <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> 10721, <tt><a href="ja_bccwjluw-pos-PART.html">PART</a></tt> 10543, <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> 6057, <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> 5646, <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> 967, <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> 342)
 
-The 10 most frequent ambiguous types:  _ (<tt><a href="ja_bccwjluw-pos-ADP.html">ADP</a></tt> 245017, <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> 225588, <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt> 144569, <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> 111199, <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> 101596, <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> 26895, <tt><a href="ja_bccwjluw-pos-SCONJ.html">SCONJ</a></tt> 26679, <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> 25414, <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> 22344, <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> 19399, <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt> 12659, <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> 10721, <tt><a href="ja_bccwjluw-pos-PART.html">PART</a></tt> 10541, <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> 6056, <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> 5646, <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> 967, <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> 342)
+The 10 most frequent ambiguous types:  _ (<tt><a href="ja_bccwjluw-pos-ADP.html">ADP</a></tt> 245015, <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> 225587, <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt> 144569, <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> 111199, <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> 101596, <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> 26895, <tt><a href="ja_bccwjluw-pos-SCONJ.html">SCONJ</a></tt> 26679, <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> 25414, <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> 22344, <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> 19399, <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt> 12659, <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> 10721, <tt><a href="ja_bccwjluw-pos-PART.html">PART</a></tt> 10543, <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> 6057, <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> 5646, <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> 967, <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> 342)
 
 
 * _
-  * <tt><a href="ja_bccwjluw-pos-ADP.html">ADP</a></tt> 245017: _ _ <b>_</b> _ _ <b>_</b> _ <b>_</b> _
-  * <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> 225588: <b>_</b> <b>_</b> _ _ <b>_</b> _ <b>_</b> _ <b>_</b>
+  * <tt><a href="ja_bccwjluw-pos-ADP.html">ADP</a></tt> 245015: _ _ <b>_</b> _ _ <b>_</b> _ <b>_</b> _
+  * <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> 225587: <b>_</b> <b>_</b> _ _ <b>_</b> _ <b>_</b> _ <b>_</b>
   * <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt> 144569: _ _ _ _ <b>_</b> _ _ _ <b>_</b> _ <b>_</b> _ _ _ _ _ _ _ <b>_</b>
   * <tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> 111199: _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _
   * <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> 101596: _ _ _ <b>_</b> _ _ _ _ _
@@ -31,8 +31,8 @@ The 10 most frequent ambiguous types:  _ (<tt><a href="ja_bccwjluw-pos-ADP.html"
   * <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> 19399: _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   * <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt> 12659: _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   * <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> 10721: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _
-  * <tt><a href="ja_bccwjluw-pos-PART.html">PART</a></tt> 10541: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _
-  * <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> 6056: _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _
+  * <tt><a href="ja_bccwjluw-pos-PART.html">PART</a></tt> 10543: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _
+  * <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt> 6057: _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _
   * <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt> 5646: _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   * <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> 967: <b>_</b> _
   * <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt> 342: <b>_</b>
@@ -48,11 +48,11 @@ The 1st highest number of forms (1) was observed with the lemma “_”: _.
 
 ## Relations
 
-`DET` nodes are attached to their parents using 2 different relations: <tt><a href="ja_bccwjluw-dep-det.html">det</a></tt> (6052; 100% instances), <tt><a href="ja_bccwjluw-dep-root.html">root</a></tt> (4; 0% instances)
+`DET` nodes are attached to their parents using 2 different relations: <tt><a href="ja_bccwjluw-dep-det.html">det</a></tt> (6053; 100% instances), <tt><a href="ja_bccwjluw-dep-root.html">root</a></tt> (4; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (5779; 95% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (109; 2% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (72; 1% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (38; 1% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (25; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (14; 0% instances),  (4; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (5779; 95% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (110; 2% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (72; 1% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt> (38; 1% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (25; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (14; 0% instances),  (4; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-5904 (97%) `DET` nodes are leaves.
+5905 (97%) `DET` nodes are leaves.
 
 130 (2%) `DET` nodes have one child.
 

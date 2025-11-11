@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  كل (<tt><a href="ar_pud-pos-DET.html">D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.040000 (the average of all parts of speech is 1.381137).
+The form / lemma ratio of `DET` is 1.040000 (the average of all parts of speech is 1.380334).
 
 The 1st highest number of forms (2) was observed with the lemma “أَحَد”: أحد, إحدى.
 
@@ -64,13 +64,13 @@ The 2nd highest number of forms (2) was observed with the lemma “أَيّ”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “آخَر”: آخر.
 
-`DET` occurs with 1 features: <tt><a href="ar_pud-feat-Case.html">Case</a></tt> (162; 98% instances)
+`DET` occurs with 6 features: <tt><a href="ar_pud-feat-PronType.html">PronType</a></tt> (166; 100% instances), <tt><a href="ar_pud-feat-Case.html">Case</a></tt> (162; 98% instances), <tt><a href="ar_pud-feat-Definite.html">Definite</a></tt> (1; 1% instances), <tt><a href="ar_pud-feat-Foreign.html">Foreign</a></tt> (1; 1% instances), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt> (1; 1% instances), <tt><a href="ar_pud-feat-Number.html">Number</a></tt> (1; 1% instances)
 
-`DET` occurs with 3 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`
+`DET` occurs with 11 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Foreign=Yes`, `Gender=Masc`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Tot`
 
-`DET` occurs with 4 feature combinations.
-The most frequent feature combination is `Case=Gen` (82 tokens).
-Examples: كل، أحد، أي، إحدى، عدة، بعض، آخر، جميع، معظم، أغلب
+`DET` occurs with 8 feature combinations.
+The most frequent feature combination is `Case=Gen|PronType=Ind` (49 tokens).
+Examples: أحد، أي، إحدى، عدة، بعض، آخر، معظم، أغلب، منتصف، أكثر
 
 
 ## Relations

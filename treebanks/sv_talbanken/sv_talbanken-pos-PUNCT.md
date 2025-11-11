@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="sv_talbanken-pos
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.428271).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.421561).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -45,7 +45,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="sv_talbanken-dep-punct.html">punct</a></tt> (10369; 100% instances)
 
-Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (5828; 56% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2987; 29% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (938; 9% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (266; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (139; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (109; 1% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (85; 1% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (5811; 56% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (2998; 29% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (941; 9% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (269; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (139; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (108; 1% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (86; 1% instances), <tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
 
 10368 (100%) `PUNCT` nodes are leaves.
 

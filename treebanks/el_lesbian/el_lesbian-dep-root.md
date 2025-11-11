@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-270 nodes (8%) are attached to their parents as `root`.
+540 nodes (9%) are attached to their parents as `root`.
 
-270 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.6037037037037.
+540 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.57777777777778.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (238; 88% instances), -<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (17; 6% instances), -<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), -<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (3; 1% instances), -<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), -<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), -<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (441; 82% instances), -<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (49; 9% instances), -<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (18; 3% instances), -<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (18; 3% instances), -<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), -<tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), -<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (3; 1% instances), -<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 8 root	color:blue
-1	Φτη	έφτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
+1	Φτη	εύτους	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	dislocated	_	_
 2	θα	θα	AUX	_	Tense=Fut	8	aux	_	_
 3	ν	να	AUX	_	_	2	fixed	_	_
 4	ήνταν	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	cop	_	_

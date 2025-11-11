@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat	color:blue
-1	Z	Z	PROPN	_	_	4	dislocated	_	AlignBegin=63211|AlignEnd=63454|SpaceAfter=No
+1	Z	Z	PROPN	_	_	4	dislocated	_	AlignBegin=63211|AlignEnd=63454|Gender[lex]=Unknown|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=63454|AlignEnd=63454
 3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	AlignBegin=63454|AlignEnd=63697|SpaceAfter=No
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	AlignBegin=63697|AlignEnd=63941|SpaceAfter=No
@@ -45,44 +45,44 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 30	bgColor:blue
 # visual-style 30	fgColor:white
 # visual-style 30 36 flat	color:blue
-1	donc	donc	ADV	_	_	3	advmod	_	_
-2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	SpaceAfter=No
-3	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	reparandum	_	_
+1	donc	donc	ADV	_	_	5	advmod	_	_
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No
+3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	colonie	colonie	NOUN	_	Gender=Fem|Number=Sing	3	xcomp	_	_
-6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	SpaceAfter=No
-7	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	colonie	colonie	NOUN	_	_	9	reparandum	_	Gender[lex]=Fem|Number[ctxt]=Sing
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	SpaceAfter=No
+7	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	colonie	colonie	NOUN	_	Gender=Fem|Number=Sing	7	xcomp	_	_
+9	colonie	colonie	NOUN	_	_	0	root	_	Gender[lex]=Fem|Number[ctxt]=Sing
 10	euh	euh	INTJ	_	_	13	discourse	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	vers	vers	ADP	_	_	13	case	_	_
-13	Agen	Agen	PROPN	_	_	9	nmod	_	_
-14	specialisée	specialiser	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	26	reparandum	_	_
+13	Agen	Agen	PROPN	_	_	9	nmod	_	Gender[lex]=Unknown
+14	specialisée	specialiser	ADJ	_	Gender=Fem|Tense=Past|VerbForm=Part	30	reparandum	_	Number[ctxt]=Sing
 15	pour	pour	ADP	_	_	14	dep	_	_
 16	euh	euh	INTJ	_	_	19	discourse	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	enfin	enfin	ADV	_	ExtPos=INTJ	19	discourse	_	_
-19	spécialisée	specialiser	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	26	reparandum	_	_
-20	non	non	ADV	_	ExtPos=INTJ|Polarity=Neg	26	discourse	_	SpaceAfter=No
+19	spécialisée	specialiser	ADJ	_	Gender=Fem|Tense=Past|VerbForm=Part	30	reparandum	_	Number[ctxt]=Sing
+20	non	non	ADV	_	ExtPos=INTJ|Polarity=Neg	30	discourse	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
-22	enfin	enfin	ADV	_	ExtPos=INTJ	26	discourse	_	wordform=fin
+22	enfin	enfin	ADV	_	ExtPos=INTJ	30	discourse	_	wordform=fin
 23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	thème	thème	NOUN	_	Gender=Masc|Number=Sing	26	dislocated	_	_
-25	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	26	nsubj	_	SpaceAfter=No
-26	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl	_	_
+24	thème	thème	NOUN	_	_	30	dislocated	_	Gender[lex]=Masc|Number[ctxt]=Sing
+25	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	30	nsubj	_	SpaceAfter=No
+26	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	30	cop	_	_
 27	euh	euh	INTJ	_	_	31	discourse	_	_
 28	euh	euh	INTJ	_	_	31	discourse	_	_
 29	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	30	det	_	_
-30	best	best	ADJ	_	Gender=Masc|Number=Plur	26	xcomp	_	_
-31	sellers	seller	NOUN	_	Gender=Masc|Number=Plur	36	reparandum	_	_
+30	best	best	ADJ	_	_	9	acl	_	Number[ctxt]=Sing
+31	sellers	seller	NOUN	_	_	36	reparandum	_	Gender[lex]=Masc|Number[ctxt]=Plur
 32	de	de	ADP	_	_	34	case	_	_
-33	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	34	det	_	SpaceAfter=No
-34	été	été	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
+33	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	34	det	_	Gender[ctxt]=Masc|SpaceAfter=No
+34	été	été	NOUN	_	_	31	nmod	_	Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
 35	,	,	PUNCT	_	_	31	punct	_	_
-36	colo	colo	NOUN	_	Gender=Fem|Number=Sing	30	flat	_	_
-37	écrivains	écrivain	NOUN	_	Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
-38	.	.	PUNCT	_	_	7	punct	_	_
+36	colo	colo	NOUN	_	_	30	flat	_	Gender[lex]=Fem|Number[ctxt]=Sing
+37	écrivains	écrivain	NOUN	_	_	36	nmod	_	Gender[lex]=Masc|Number[ctxt]=Plur|SpaceAfter=No
+38	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

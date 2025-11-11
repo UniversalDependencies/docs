@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Colin Batchelor.
 
 Repository: [UD_Scottish_Gaelic-ARCOSG](https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -151,11 +151,11 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 
 
 <ul>
-<li>This corpus contains 4748 sentences, 86142 tokens and 90018 syntactic words.</li>
+<li>This corpus contains 4748 sentences, 86139 tokens and 90016 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5201 tokens (6%) that are not followed by a space.</li>
+<li>This corpus contains 5198 tokens (6%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -163,11 +163,11 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>This corpus contains 1232 types of words that contain both letters and punctuation. Examples: a', 's, a’, [Name], a-mach, b', 'n, ars’, a-steach, bh', co-dhiubh, th', a-staigh, a's, [Placename], h-uile, ’s, ma-thà, an-diugh, a-rithist, ars', dh’fhalbh, 'dol, a-null, d’, a-nis, h-Alba, a-nuas, ge-tà, 'm, h-eileanan, a-muigh, ‘s, a-nise, 'g, a-sin, taobh-sa, a-nall, a-rèir, 'ic, dh’Alba, an-dràsda, h-Astràilianaich, a-seo, dh’fhàg, co-dhiù, ‘n, b’, d', dh’fheuch</li>
+<li>This corpus contains 1235 types of words that contain both letters and punctuation. Examples: a', 's, a’, [Name], a-mach, b', 'n, ars’, a-steach, bh', co-dhiubh, th', a-staigh, a's, [Placename], h-uile, ’s, ma-thà, an-diugh, a-rithist, ars', dh’fhalbh, 'dol, a-null, d’, a-nis, h-Alba, a-nuas, ge-tà, 'm, h-eileanan, a-muigh, ‘s, a-nise, 'g, a-sin, taobh-sa, a-nall, a-rèir, 'ic, dh’Alba, an-dràsda, h-Astràilianaich, a-seo, dh’fhàg, co-dhiù, ‘n, b’, d', dh’fheuch</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3842 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>This corpus contains 3843 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
 <li>There are 231 types of multi-word tokens. Examples: ann, aca, air, ga, aige, dhan, 'se, dha, agad, leatha, ris, 'na, 'ga, orra, againn, dhaibh, na, san, sa, dhen, agam, dhiubh, se, 'sa, a'm, riutha, leis, 'san, aice, bhon, dhuinn, oirre, dhomh, dhut, roimhe, mun, às, agaibh, den, dheth, gan, dhi, leotha, dhe, dhuibh, don, fodha, ort, rium, orm.</li>
 </ul>
 
@@ -180,11 +180,11 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
-<li>This corpus contains 45 word types tagged as particles (PART): 'g, 'ga, 'ic, 'm, 'n, 's, Mc, Mhic, Nic, O, a, a', ach, ag, air, am, an, a’, b', bu, cha, chan, d', do, d’, g', ga, gan, gu, gum, gun, gur, mac, na, nach, nam, nan, nas, r', ri, Ó, ‘, ‘n, ’, ’g</li>
+<li>This corpus contains 43 word types tagged as particles (PART): 'g, 'ga, 'ic, 'm, 'n, 's, Mc, Mhic, Nic, O, a, a', ach, ag, air, am, an, a’, b', bu, cha, chan, d', do, d’, g', ga, gan, gu, gum, gun, gur, mac, na, nach, nam, nan, nas, r', ri, Ó, ‘n, ’g</li>
 </ul>
 
 <ul>
-<li>This corpus contains 75 lemmas tagged as pronouns (PRON): 'd, 'n, a, a-chèile, a-seo, a-sin, a-siud, aige, an, ann, ar, b'e, bith, brith, bè, c'à, car, carson, cia, ciamar, co, cuin, cuin', cuine, cà, cà', càil, càit, càit', càite, cáit, cèile, céile, cò, có, diamar, diubh, do, dè, dé, e, fein, fèin, féin, gar, ge, gu, i, iad, mar, mheud, mi, mo, na, péin, sean, seo, seothach, shean, shin, sibh, sibh-se, sin, sineach, sinn, siod, siodach, siud, siudach, son, thu, ur, àsan, è, ì</li>
+<li>This corpus contains 60 lemmas tagged as pronouns (PRON): a, a-chèile, a-seo, a-sin, a-siud, an, ar, b'e, bith, brith, bè, c'à, car, carson, cia, ciamar, co, cuine, cà, cà', càil, càite, cáit, cèile, céile, cò, có, diamar, do, dè, dé, e, fein, fèin, féin, gar, ge, gu, i, iad, mar, mheud, mi, mo, na, sean, seo, seothach, sibh, sin, sineach, sinn, siod, siodach, siud, siudach, son, thu, ur, ì</li>
 </ul>
 
 <ul>
@@ -210,7 +210,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: chaidh, deach, thèid, tèid, rachadh, théid</li>
+    <li>AUX: 's, is, b', gur, chaidh, bu, as, chan, nach, an</li>
     <li>VERB: tha, bha, robh, eil, bheil, bhiodh, fhuair, thuirt, ars’, chuir</li>
   </ul>
   </li>
@@ -255,9 +255,9 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
   <li>Masc
     <ul>
       <li>ADJ: eile, beag, ùr, mòr, math, mór, òg, dubh, ghoirid, ùra</li>
-      <li>DET: an, na, a’, a, am, nan, a', 'n, nam, 'm</li>
+      <li>DET: an, na, a’, a, am, a', nan, 'n, nam, 'm</li>
       <li>NOUN: duine, fear, fhios, taobh, rud, daoine, latha, àite, taigh, leth</li>
-      <li>PRON: e, esan, a, h-e, ise, è, aige, mise, sinne</li>
+      <li>PRON: e, esan, a, h-e, ise, è, mise, sinne</li>
       <li>PROPN: [Name], Iain, Dòmhnall, Tormod, Mhurchaidh, Alasdair, Aonghais, Garaidh, Labhruinn, lain</li>
     </ul>
   </li>
@@ -385,7 +385,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Aff
     <ul>
-      <li>AUX: gur, an, gun</li>
+      <li>AUX-Fin: gur, an, gun</li>
     </ul>
   </li>
 </ul>
@@ -393,7 +393,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: chan, nach, cha</li>
+      <li>AUX-Fin: chan, nach, cha</li>
       <li>PART: cha, nach, chan, na</li>
     </ul>
   </li>
@@ -411,7 +411,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: chaidh, deach, thèid, tèid, rachadh, théid</li>
+      <li>AUX-Fin: 's, is, b', gur, chaidh, bu, as, chan, deach, thèid</li>
       <li>VERB-Fin: tha, bha, robh, eil, bheil, bhiodh, fhuair, thuirt, ars’, chuir</li>
     </ul>
   </li>
@@ -420,7 +420,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Int
     <ul>
-      <li>AUX: an, nach</li>
+      <li>AUX-Fin: an, nach</li>
     </ul>
   </li>
 </ul>
@@ -442,8 +442,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Past
     <ul>
-      <li>AUX: b', bu, chaidh, deach, b’</li>
-      <li>AUX-Fin: chaidh, deach</li>
+      <li>AUX-Fin: b', chaidh, bu, deach, b’</li>
       <li>PART: do, d’, d', b'</li>
       <li>VERB: bha, robh, fhuair, thuirt, ars’, chaidh, chuir, thàinig, bh', rinn</li>
       <li>VERB-Fin: bha, robh, fhuair, thuirt, ars’, chaidh, chuir, thàinig, bh', rinn</li>
@@ -454,7 +453,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: 's, is, gur, as, chan, nach, an, cha, ‘s, gun</li>
+      <li>AUX-Fin: 's, is, gur, as, chan, nach, an, cha, ‘s, gun</li>
       <li>PART: cha</li>
       <li>VERB-Fin: tha, eil, bheil, th', thà, th’, thathar, thathas, 'eil, 'l</li>
     </ul>
@@ -507,7 +506,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 <ul>
   <li>Rel
     <ul>
-      <li>AUX: as, is, 's</li>
+      <li>AUX-Fin: as, is, 's</li>
       <li>PART: a, nach, a'</li>
       <li>PRON: na</li>
     </ul>
@@ -702,14 +701,14 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       <li>ADV
         <ul>
           <li>ADP: bho, a, an, mu</li>
-          <li>ADV: an, ann, a, air, mu, 'n, am, ma, dè, mar</li>
-          <li>PRON: dè, có</li>
+          <li>ADV: an, ann, a, air, mu, 'n, am, ma, có, dè</li>
+          <li>PRON: dè</li>
           <li>SCONJ: mar</li>
         </ul>
       </li>
       <li>AUX
         <ul>
-          <li>AUX: is, 's, gur, b', chan, an, nach, b’, gun, ‘s</li>
+          <li>AUX-Fin: is, 's, gur, b', chan, an, nach, b’, gun, ‘s</li>
         </ul>
       </li>
       <li>CCONJ
@@ -735,7 +734,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       </li>
       <li>PRON
         <ul>
-          <li>PRON: a, an, gu, car, cia, cò, Ge, ann, dè, dé</li>
+          <li>PRON: a, an, gu, car, cia, cò, Ge, dè, dé, 'n</li>
         </ul>
       </li>
       <li>PROPN
@@ -916,6 +915,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
           <li>NOUN-Inf: chuir, dùnadh</li>
           <li>NUM: aon, l970</li>
           <li>PART: an</li>
+          <li>PRON: co, cáit, fhein, h-ì</li>
           <li>PROPN: lain, Yugoslavai, Èirinn</li>
           <li>SCONJ: co-dhiubh, co-dhiùbh, gun, s</li>
           <li>VERB-Fin: dh’fhabh</li>

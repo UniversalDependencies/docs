@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12113 nodes (5%) are attached to their parents as `amod`.
+12108 nodes (5%) are attached to their parents as `amod`.
 
-11941 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34615702138199.
+11938 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34580442682524.
 
-The following 20 pairs of parts of speech are connected with `amod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (9996; 83% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (908; 7% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (857; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (162; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (83; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (37; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `amod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (9991; 83% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (909; 8% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (857; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (162; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (83; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (37; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (19; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 20 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	Previous	previous	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:37->74:9:grf-ly-|Entity=(2-abstract-giv:inact-nnnns-cf1-2-coref
+1	Previous	previous	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:37->74:9:grf-ly-_-_|Entity=(2-abstract-giv:inact-nnnns-cf1-2-coref
 2	Research	research	NOUN	NN	Number=Sing	0	root	0:root	Entity=2)
 
 ~~~
@@ -34,7 +34,7 @@ The following 20 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	Digital	Digital	ADJ	NNP	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:1->58:7:grf-ly-+sem-synym-1-2,478+sem-lxchn-1,503|Entity=(1-place-new-ssnns-cf1-1,2,3-coref(2-abstract-new-sssss-cf2-1,2-coref-Digital_humanities|MSeg=Digit-al
+1	Digital	Digital	ADJ	NNP	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:1->58:7:grf-ly-_-_+sem-synym-1-2,478-_+sem-lxchn-1,503-_|Entity=(1-place-new-ssnns-cf1-1,2,3-coref(2-abstract-new-sssss-cf2-1,2-coref-Digital_humanities|MSeg=Digit-al
 2	Humanities	Humanity	PROPN	NNPS	Number=Plur	3	compound	3:compound	Entity=2)|MSeg=Human-itie-s
 3	Clinics	Clinic	PROPN	NNPS	Number=Plur	0	root	0:root	Entity=1)|MSeg=Clinic-s
 4	-	-	PUNCT	:	_	3	punct	3:punct	_
@@ -48,7 +48,7 @@ The following 20 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 amod	color:blue
-1	Most	most	ADJ	JJS	Degree=Sup	2	amod	2:amod	Bridge=3<46|Discourse=context-background:30->3:7:sem-rpt-25,246|Entity=(46-substance-acc:inf-nnnnn-cf3-2-sgl
+1	Most	most	ADJ	JJS	Degree=Sup	2	amod	2:amod	Bridge=3<46|Discourse=context-background:30->3:7:sem-rpt-25,246-_|Entity=(46-substance-acc:inf-nnnnn-cf3-2-sgl
 2	iodine	iodine	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	Entity=(3-substance-giv:inact-sssss-cf1-1-coref-Iodine)|MSeg=iod-ine
 3	in	in	ADP	IN	_	4	case	4:case	_
 4	food	food	NOUN	NN	Number=Sing	2	nmod	2:nmod:in	Entity=(47-substance-new-nsnnn-cf6-1-coref)46)

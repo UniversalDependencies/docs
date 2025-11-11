@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of SYM in UD_Kurmanji-MG'
+title:  'Statistics of SYM in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: POS Tags: `SYM`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: POS Tags: `SYM`
 
 There are 2 `SYM` lemmas (0%), 2 `SYM` types (0%) and 3 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
@@ -32,9 +32,9 @@ The 2nd highest number of forms (1) was observed with the lemma “/”: <em>/</
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 2 different relations: <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (2; 67% instances), <tt><a href="kmr_mg-dep-nummod.html">nummod</a></tt> (1; 33% instances)
+`SYM` nodes are attached to their parents using 2 different relations: <tt><a href="kmr_kurmanji-dep-cc.html">cc</a></tt> (2; 67% instances), <tt><a href="kmr_kurmanji-dep-nummod.html">nummod</a></tt> (1; 33% instances)
 
-Parents of `SYM` nodes belong to 1 different parts of speech: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 100% instances)
+Parents of `SYM` nodes belong to 1 different parts of speech: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (3; 100% instances)
 
 2 (67%) `SYM` nodes are leaves.
 
@@ -42,7 +42,7 @@ Parents of `SYM` nodes belong to 1 different parts of speech: <tt><a href="kmr_m
 
 The highest child degree of a `SYM` node is 1.
 
-Children of `SYM` nodes are attached using 1 different relations: <tt><a href="kmr_mg-dep-nummod.html">nummod</a></tt> (1; 100% instances)
+Children of `SYM` nodes are attached using 1 different relations: <tt><a href="kmr_kurmanji-dep-nummod.html">nummod</a></tt> (1; 100% instances)
 
-Children of `SYM` nodes belong to 1 different parts of speech: <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 100% instances)
+Children of `SYM` nodes belong to 1 different parts of speech: <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (1; 100% instances)
 

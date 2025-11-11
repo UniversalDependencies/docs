@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-13719 tokens (13%) have a non-empty value of `Tense`.
+13712 tokens (13%) have a non-empty value of `Tense`.
 2433 types (22%) occur at least once with a non-empty value of `Tense`.
 1506 lemmas (18%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (9456; 9% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (4263; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (9456; 9% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (4256; 4% instances).
 
 ### `VERB`
 
@@ -37,15 +37,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-4263 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Tense`.
+4256 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3916; 92%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3909; 92%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2279; 53%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2278; 53%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3909; 92%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3909; 92%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2272; 53%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2271; 53%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (2538; 60% of non-empty `Tense`): <em>was, had, were, been, did, 'd, got, might</em>
-* `Pres` (1725; 40% of non-empty `Tense`): <em>is, are, have, 's, do, has, being, 've, does, 're</em>
-* `EMPTY` (1669): <em>be, would, can, could, will, must, should, 'll, might, ca</em>
+* `Past` (2532; 59% of non-empty `Tense`): <em>was, had, were, been, did, 'd, got, might</em>
+* `Pres` (1724; 41% of non-empty `Tense`): <em>is, are, have, 's, do, has, being, 've, does, 're</em>
+* `EMPTY` (1676): <em>be, would, can, could, will, must, should, 'll, might, ca</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -54,7 +54,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's</em></td><td><em>was</em></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>were</em></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 're, 'm, Be</em></td><td><em>were</em></td></tr>
-  <tr><td><tt><tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>were</em></td></tr>
   <tr><td><tt><tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>being</em></td><td><em>been</em></td></tr>
 </table>
 

@@ -11,7 +11,7 @@ It occurs with 3 different values: `Card`, `Frac`, `Ord`.
 
 5727 tokens (1%) have a non-empty value of `NumType`.
 429 types (1%) occur at least once with a non-empty value of `NumType`.
-385 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+384 lemmas (1%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 11 part-of-speech tags: <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (3438; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (1853; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (212; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (91; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (87; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NUM`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 * `Card` (3371; 98% of non-empty `NumType`): <em>tólf, tveir, tvo, fimm, sex, tvö, 3, þrír, 2, sjö</em>
 * `Frac` (1; 0% of non-empty `NumType`): <em>ij</em>
 * `Ord` (66; 2% of non-empty `NumType`): <em>tvö, fjögur, þrjú, fimm, tólf, hundruð, tuttugu, þrjá, fjörutíu, níu</em>
-* `EMPTY` (974): <em>ij, ii, iij, hálft, tvisvar, hvorirtveggju, þrisvar, iiij, hvorttveggja, hálfan</em>
+* `EMPTY` (975): <em>ij, ii, iij, hálft, tvisvar, hvorirtveggju, þrisvar, iiij, hvorttveggja, hálfan</em>
 
 <table>
   <tr><th>Paradigm <i>tveir</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tvö</em></td><td></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 95% lemmas (294) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 95% lemmas (293) occur only with one value of `NumType`.
 
 ### `DET`
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (211; 100% of non-empty `NumType`): <em>5., 1., 7., 10., 4., 3., 9., átta, 16., 2.</em>
 * `Frac` (1; 0% of non-empty `NumType`): <em>vǫn</em>
-* `EMPTY` (36949): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36951): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (72) occur only with one value of `NumType`.
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 * `Card` (77; 85% of non-empty `NumType`): <em>hundruð, hundrað, móti, þúsund, brautu, hndr, sex, vj, ד, Bræður</em>
 * `Frac` (2; 2% of non-empty `NumType`): <em>ui, xx</em>
 * `Ord` (12; 13% of non-empty `NumType`): <em>hundruð, þúsund</em>
-* `EMPTY` (145790): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145788): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>hundrað</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -150,7 +150,7 @@ The most frequent other feature values with which `VERB` and `NumType` co-occurr
 `VERB` tokens may have the following values of `NumType`:
 
 * `Card` (10; 100% of non-empty `NumType`): <em>átta, firrði, hylmast, lifir, bera, hvella</em>
-* `EMPTY` (128674): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
+* `EMPTY` (128679): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
 
 ### `PART`
 

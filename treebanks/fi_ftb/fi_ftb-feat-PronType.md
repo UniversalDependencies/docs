@@ -9,26 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 
-16980 tokens (11%) have a non-empty value of `PronType`.
-1439 types (3%) occur at least once with a non-empty value of `PronType`.
-148 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (10781; 7% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3664; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (2246; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (289; 0% instances).
+17304 tokens (11%) have a non-empty value of `PronType`.
+1487 types (3%) occur at least once with a non-empty value of `PronType`.
+149 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (11085; 7% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3684; 2% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (2246; 1% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (289; 0% instances).
 
 ### `PRON`
 
-10781 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `PronType`.
+11085 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7941; 74%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5930; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8245; 74%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6234; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (3244; 30% of non-empty `PronType`): <em>se, sen, sitä, ne, siitä, tämä, niin, siihen, siinä, niitä</em>
+* `Dem` (3244; 29% of non-empty `PronType`): <em>se, sen, sitä, ne, siitä, tämä, niin, siihen, siinä, niitä</em>
 * `Ind` (1224; 11% of non-empty `PronType`): <em>kaikki, mitään, joku, kukaan, toinen, jotain, muuta, kaiken, muut, jotakin</em>
 * `Int` (447; 4% of non-empty `PronType`): <em>mitä, kuka, mikä, mistä, miltä, mitäs, minkä, kenen, kenelle, ketä</em>
-* `Prs` (4851; 45% of non-empty `PronType`): <em>hän, minä, mä, hänen, sinä, he, me, minun, sä, minulla</em>
+* `Prs` (5155; 47% of non-empty `PronType`): <em>hän, minä, mä, hänen, sinä, he, me, minun, sä, minulla</em>
 * `Rcp` (74; 1% of non-empty `PronType`): <em>toisiaan, toisensa, toistaan, toisiinsa, toistensa, toisilleen, toisistaan, toisemme, toisestaan, toisiamme</em>
-* `Rel` (941; 9% of non-empty `PronType`): <em>joka, jotka, mitä, jonka, jossa, jota, mikä, joita, jolla, josta</em>
-* `EMPTY` (304): <em>itse, itsensä, itseään, itselleen, itsekin, itseni, itseäni, itsestään, itseäsi, ite</em>
+* `Rel` (941; 8% of non-empty `PronType`): <em>joka, jotka, mitä, jonka, jossa, jota, mikä, joita, jolla, josta</em>
 
 <table>
   <tr><th>Paradigm <i>mikä</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -46,7 +45,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Han</tt></tt></td><td><em>Missähän</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td><em>mis</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Han</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Mikähän</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=S</tt>|<tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt><tt>=INTJ</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Mikäs</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=S</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mikäs</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mikä</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mikä</em></td><td><em>mikä</em></td><td><em>mikä</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mitkä</em></td><td></td><td><em>mitkä</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>mitä</em></td><td><em>mitä</em></td><td><em>mitä</em></td></tr>
@@ -59,23 +60,22 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Tra</tt></tt></td><td><em>miksi</em></td><td><em>miksi</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 91% lemmas (40) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 91% lemmas (41) occur only with one value of `PronType`.
 
 ### `DET`
 
-3664 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `PronType`.
+3684 <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2346; 64%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2366; 64%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Dem` (1700; 46% of non-empty `PronType`): <em>se, sen, tämä, sitä, tällä, tässä, tämän, ne, tänä, tätä</em>
-* `Ind` (1746; 48% of non-empty `PronType`): <em>joka, kaikki, eri, mitään, joku, jotain, monta, mikään, muutaman, toinen</em>
+* `Ind` (1746; 47% of non-empty `PronType`): <em>joka, kaikki, eri, mitään, joku, jotain, monta, mikään, muutaman, toinen</em>
 * `Int` (171; 5% of non-empty `PronType`): <em>mitä, mikä, missä, millä, minkä, kuka, mistä, kenen, ketä, mihin</em>
-* `Prs` (1; 0% of non-empty `PronType`): <em>meidän</em>
+* `Prs` (21; 1% of non-empty `PronType`): <em>itse, itsensä, itseensä, meidän</em>
 * `Rcp` (8; 0% of non-empty `PronType`): <em>toistensa, toisensa</em>
 * `Rel` (38; 1% of non-empty `PronType`): <em>jonka, joiden, jona, joka, jolla, mitä-</em>
-* `EMPTY` (20): <em>itse, itsensä, itseensä</em>
 
 <table>
   <tr><th>Paradigm <i>mikä</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -116,6 +116,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt>_</tt></td><td><em>miten</em></td><td><em>miten</em></td><td><em>miten</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ka</tt></tt></td><td><em>mitenkä</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ka,S</tt></tt></td><td><em>mitenkäs</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td><em>Miten</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td><em>Mite, Mites, mitem</em></td><td></td><td></td></tr>
 </table>
 

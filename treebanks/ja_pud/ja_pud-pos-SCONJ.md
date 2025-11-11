@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  が (<tt><a href="ja_pud-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.136364 (the average of all parts of speech is 1.068660).
+The form / lemma ratio of `SCONJ` is 1.136364 (the average of all parts of speech is 1.068686).
 
 The 1st highest number of forms (2) was observed with the lemma “て”: て, で.
 
@@ -74,13 +74,13 @@ Examples: て, が, の, と, に, ば, ため, で, ながら, から
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (761; 77% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (228; 23% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (762; 77% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (228; 23% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (693; 70% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (172; 17% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (44; 4% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (32; 3% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (29; 3% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (694; 70% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (172; 17% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (44; 4% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (32; 3% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (28; 3% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-513 (52%) `SCONJ` nodes are leaves.
+512 (52%) `SCONJ` nodes are leaves.
 
-461 (47%) `SCONJ` nodes have one child.
+462 (47%) `SCONJ` nodes have one child.
 
 6 (1%) `SCONJ` nodes have two children.
 
@@ -88,7 +88,7 @@ Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="ja
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (503; 100% instances)
+Children of `SCONJ` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (504; 100% instances)
 
-Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (408; 81% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (45; 9% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (44; 9% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 1% instances)
+Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (409; 81% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (45; 9% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (44; 9% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 1% instances)
 

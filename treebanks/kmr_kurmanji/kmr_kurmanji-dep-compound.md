@@ -1,20 +1,20 @@
 ---
 layout: base
-title:  'Statistics of compound in UD_Kurmanji-MG'
+title:  'Statistics of compound in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `compound`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `compound`
 
 This relation is universal.
-There are 2 language-specific subtypes of `compound`: <tt><a href="kmr_mg-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="kmr_mg-dep-compound-redup.html">compound:redup</a></tt>.
+There are 2 language-specific subtypes of `compound`: <tt><a href="kmr_kurmanji-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="kmr_kurmanji-dep-compound-redup.html">compound:redup</a></tt>.
 
 6 nodes (0%) are attached to their parents as `compound`.
 
 5 instances of `compound` (83%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (2; 33% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 17% instances).
+The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt> (2; 33% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (1; 17% instances).
 
 
 ~~~ conllu

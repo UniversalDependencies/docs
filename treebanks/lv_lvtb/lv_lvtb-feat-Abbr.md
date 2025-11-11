@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1371; 100% of non-empty `Abbr`): <em>ES, A., ASV, V., J., M., D., I., NATO, PSRS</em>
-* `EMPTY` (12780): <em>Latvijas, Latvijā, Eiropas, Rīgas, Krievijas, LETA, Baltijas, Rīgā, Sofija, Latvija</em>
+* `EMPTY` (12788): <em>Latvijas, Latvijā, Eiropas, Rīgas, Krievijas, LETA, Baltijas, Rīgā, Sofija, Latvija</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (321) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (479; 100% of non-empty `Abbr`): <em>SIA, TV, IKP, km, AS, DL, IMS, DUS, Dr., g.</em>
-* `EMPTY` (88129): <em>valsts, gada, laikā, gadā, darba, gadu, cilvēki, piemēram, laiku, cilvēku</em>
+* `EMPTY` (88295): <em>valsts, gada, laikā, gadā, darba, gadu, cilvēki, piemēram, laiku, cilvēku</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (137) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `SYM` tokens may have the following values of `Abbr`:
 
 * `Yes` (58; 100% of non-empty `Abbr`): <em>u.c., utt., t.i., .u, u.tml., P.S., PS, resp., t., tb</em>
-* `EMPTY` (436): <em>%, *, Re, &, ***, +, :), =, M-3, x</em>
+* `EMPTY` (439): <em>%, *, Re, &, ***, +, :), =, M-3, x</em>
 
 `Abbr` seems to be **lexical feature** of `SYM`. 100% lemmas (12) occur only with one value of `Abbr`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (52; 100% of non-empty `Abbr`): <em>plkst., nr., piem., Kot', pl.</em>
-* `EMPTY` (18490): <em>kad, jau, kā, tad, vēl, ļoti, kur, tā, vairāk, tik</em>
+* `EMPTY` (18539): <em>kad, jau, kā, tad, vēl, ļoti, kur, tā, vairāk, tik</em>
 
 ### `ADJ`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>Sv., U-18, 2os, LB, Min, asoc., v</em>
-* `EMPTY` (17519): <em>iespējams, pirmo, liela, 1., pirmā, nepieciešams, liels, jaunu, lielu, galvenais</em>
+* `EMPTY` (17546): <em>iespējams, pirmo, liela, 1., pirmā, nepieciešams, liels, jaunu, lielu, galvenais</em>
 
 ### `VERB`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>sk.</em>
-* `EMPTY` (49603): <em>ir, var, varētu, nav, bija, nevar, būs, teica, notiek, sāka</em>
+* `EMPTY` (49723): <em>ir, var, varētu, nav, bija, nevar, būs, teica, notiek, sāka</em>
 
 ## Relations with Agreement in `Abbr`
 

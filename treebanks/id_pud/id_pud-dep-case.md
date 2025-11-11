@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 2	baru	baru	ADJ	_	_	1	amod	_	_
 3	ini	ini	DET	_	PronType=Dem	1	det	_	_
-4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	dipasok	pasok	VERB	_	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	_	_	6	case	_	_
 6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
 7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_
@@ -45,7 +45,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 7 6 case	color:blue
 1	Ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	lalu	lalu	SCONJ	_	_	3	mark	_	_
-3	bekerja	kerja	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	bekerja	kerja	VERB	_	Voice=Act	0	root	_	_
 4	empat	empat	NUM	_	NumType=Card	5	nummod	_	_
 5	tahun	tahun	NOUN	_	Number=Sing	3	obl:tmod	_	_
 6	di	di	ADP	_	_	7	case	_	_
@@ -67,7 +67,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
 1	Orang-orang	orang	NOUN	_	Number=Plur	2	nsubj:pass	_	_
-2	terbunuh	bunuh	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+2	terbunuh	bunuh	VERB	_	Voice=Pass	0	root	_	_
 3	di	di	ADP	_	_	4	case	_	_
 4	sana	sana	PRON	_	PronType=Dem	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-109 tokens (1%) have a non-empty value of `Reflex`.
+110 tokens (1%) have a non-empty value of `Reflex`.
 33 types (0%) occur at least once with a non-empty value of `Reflex`.
 8 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (85; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (24; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (85; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (25; 0% instances).
 
 ### `PRON`
 
@@ -23,16 +23,16 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (85; 100% of non-empty `Reflex`): <em>сонсь, эсензэ, эсест, эстензэ, сонськак, миньсинек, монсь, тонсь, минсенек, сынстемест</em>
-* `EMPTY` (1090): <em>сон, весе, те, мон, сонзэ, тон, мезе, минь, сынь, минек</em>
+* `EMPTY` (1114): <em>сон, весе, те, мон, сонзэ, тон, мезе, минь, сынь, минек</em>
 
 ### `DET`
 
-24 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Reflex`.
+25 <tt><a href="myv_jr-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (14; 58%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25; 100%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (24; 100% of non-empty `Reflex`): <em>эсь</em>
-* `EMPTY` (232): <em>те, эрьва, ламо, се, истямо, лия, ве, кона, не, зяро</em>
+* `Yes` (25; 100% of non-empty `Reflex`): <em>эсь</em>
+* `EMPTY` (203): <em>те, эрьва, се, истямо, лия, ве, ламо, кона, не, зяро</em>
 

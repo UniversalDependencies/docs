@@ -7,18 +7,30 @@ udver: '2'
 ## Treebank Statistics: UD_Persian-PerDT: Features: `Mood`
 
 This feature is universal.
-It occurs with 2 different values: `Imp`, `Sub`.
+It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-3961 tokens (1%) have a non-empty value of `Mood`.
-385 types (1%) occur at least once with a non-empty value of `Mood`.
+8574 tokens (2%) have a non-empty value of `Mood`.
+426 types (1%) occur at least once with a non-empty value of `Mood`.
 167 lemmas (1%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (2633; 1% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (1328; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (5941; 1% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (2633; 1% instances).
+
+### `AUX`
+
+5941 <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> tokens (32% of all `AUX` tokens) have a non-empty value of `Mood`.
+
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5941; 100%), <tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt> (4613; 78%), <tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt> (4212; 71%), <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3465; 58%).
+
+`AUX` tokens may have the following values of `Mood`:
+
+* `Ind` (4613; 78% of non-empty `Mood`): خواهد، خواهند، خواهم، خواهیم، خواهید، نخواهد، خواهی، نخواهم، نخواهند، نخواهیم
+* `Sub` (1328; 22% of non-empty `Mood`): باشد، باشند، باشم، باشید، باشیم، باشی
+* `EMPTY` (12555): است، بود، باید، بودند، باشد، ست، بودم، می‌توان، نباید، بودیم
 
 ### `VERB`
 
 2633 <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2633; 100%), <tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2621; 100%), <tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2550; 97%), <tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt> (2503; 95%), <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1830; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2633; 100%), <tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2621; 100%), <tt><a href="fa_perdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2550; 97%), <tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=2</tt> (2503; 95%), <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1830; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -39,17 +51,6 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 </table>
 
 `Mood` seems to be **lexical feature** of `VERB`. 99% lemmas (164) occur only with one value of `Mood`.
-
-### `AUX`
-
-1328 <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fa_perdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1328; 100%), <tt><a href="fa_perdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1328; 100%), <tt><a href="fa_perdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1028; 77%), <tt><a href="fa_perdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (809; 61%).
-
-`AUX` tokens may have the following values of `Mood`:
-
-* `Sub` (1328; 100% of non-empty `Mood`): باشد، باشند، باشم، باشید، باشیم، باشی
-* `EMPTY` (17168): است، بود، خواهد، خواهند، باید، بودند، خواهم، خواهیم، باشد، ست
 
 ## Relations with Agreement in `Mood`
 

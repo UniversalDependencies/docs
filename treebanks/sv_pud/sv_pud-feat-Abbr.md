@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>f.Kr., ca, e.Kr.</em>
-* `EMPTY` (988): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
+* `EMPTY` (984): <em>så, in, ut, där, också, bara, upp, fram, här, även</em>
 
 ### `ADJ`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>&</em>
-* `EMPTY` (637): <em>och, men, eller, som, såsom, både, så, Fast, antingen, såväl</em>
+* `EMPTY` (633): <em>och, men, eller, såsom, både, så, som, Fast, antingen, såväl</em>
 
 ## Relations with Agreement in `Abbr`
 

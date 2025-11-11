@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8076 nodes (19%) are attached to their parents as `punct`.
+8891 nodes (19%) are attached to their parents as `punct`.
 
-4882 instances of `punct` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.6402922238732.
+5392 instances of `punct` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.6607805646159.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (3841; 48% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (2309; 29% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (624; 8% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (397; 5% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (292; 4% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (151; 2% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (119; 1% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (73; 1% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (58; 1% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (52; 1% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (49; 1% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (4284; 48% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (2471; 28% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (694; 8% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (424; 5% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (351; 4% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (169; 2% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (127; 1% instances), <tt><a href="hy_bsut-pos-PART.html">PART</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (88; 1% instances), <tt><a href="hy_bsut-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (66; 1% instances), <tt><a href="hy_bsut-pos-DET.html">DET</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (52; 1% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (49; 1% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (44; 0% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="hy_bsut-pos-ADP.html">ADP</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="hy_bsut-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="hy_bsut-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -52,11 +52,11 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 punct	color:blue
-1	1	1	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	Translit=1|LTranslit=1|SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+1	1	1	NUM	_	NumForm=Digit|NumType=Card	4	discourse	_	Translit=1|LTranslit=1|SpaceAfter=No
+2	.	.	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 3	Նյութի	նյութ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=Nyowt’i|LTranslit=nyowt’
 4	իսկություն	իսկություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	0	root	_	Translit=iskowt’yown|LTranslit=iskowt’yown|SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+5	.	.	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 6	օրիգինալ	օրիգինալ	ADJ	_	Degree=Pos	4	appos	_	Translit=òriginal|LTranslit=òriginal
 7	՞	՞	PUNCT	_	_	6	punct	_	Translit=?|LTranslit=?
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=ē|LTranslit=em

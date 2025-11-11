@@ -31,7 +31,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 7	מבצע	ביצע	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	1	parataxis	_	_
 8	דברים	דבר	NOUN	NOUN	Gender=Masc|Number=Plur	7	obj	_	_
 9	פשוטים	פשוט	ADJ	ADJ	Gender=Masc|Number=Plur	8	amod	_	_
-10	כפי	כפי	SCONJ	SCONJ	_	12	mark	_	_
+10	כפי	כפי	SCONJ	SCONJ	ExtPos=SCONJ	12	mark	_	_
 11	ש	ש	SCONJ	SCONJ	_	10	fixed	_	_
 12	דורשים	דרש	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=3|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	_
 13	ממנ	מ	ADP	ADP	_	14	case	_	_

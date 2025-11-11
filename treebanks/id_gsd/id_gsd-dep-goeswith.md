@@ -45,7 +45,7 @@ The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	tambahan	tambahan	ADJ	NSD	_	5	xcomp	_	Morf=^tambah<v>+an_NSD$
 3	dapat	dapat	AUX	VSA	_	5	aux	_	Morf=^dapat<v>_VSA$
 4	pula	pula	ADV	D--	_	5	advmod	_	Morf=^pula<d>_D--$
-5	diberi	beri	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+beri<v>_VSP$
+5	diberi	beri	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+beri<v>_VSP$
 6	serta	serta	CCONJ	H--	_	7	cc	_	Morf=^serta<h>_H--$
 7	kolang	kolang	NOUN	X--	Typo=Yes	5	conj	_	Morf=^kolang<x>_X--$
 8	-	_	X	Z--	_	7	goeswith	_	Morf=^-<z>_Z--$
@@ -65,11 +65,11 @@ The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	berkali	berkali	ADV	VSA	Typo=Yes	5	advmod	_	Morf=^ber+kali<v>_VSA$
 3	-	_	X	Z--	_	2	goeswith	_	Morf=^-<z>_Z--$
 4	kali	_	X	NSD	_	2	goeswith	_	Morf=^kali<n>_NSD$
-5	diserang	serang	VERB	VSP	Mood=Ind|Voice=Pass	9	advcl	_	Morf=^di+serang<v>_VSP$
+5	diserang	serang	VERB	VSP	Voice=Pass	9	advcl	_	Morf=^di+serang<v>_VSP$
 6	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	5	obl:agent	_	Morf=^dia<p>_PS3$
 7	,	,	PUNCT	Z--	_	5	punct	_	Morf=^,<z>_Z--$
 8	Kotomi	kotomi	PROPN	X--	_	9	nsubj:pass	_	Morf=^kotomi<x>_X--$
-9	ditolong	tolong	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+tolong<v>_VSP$
+9	ditolong	tolong	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+tolong<v>_VSP$
 10	oleh	oleh	ADP	R--	_	11	case	_	Morf=^oleh<r>_R--$
 11	Dorje	dorje	PROPN	X--	_	9	obl	_	Morf=^dorje<x>_X--$
 12	dan	dan	CCONJ	H--	_	13	cc	_	Morf=^dan<h>_H--$

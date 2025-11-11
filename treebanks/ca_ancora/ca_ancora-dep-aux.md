@@ -11,9 +11,9 @@ This relation is universal.
 16750 nodes (3%) are attached to their parents as `aux`.
 
 16519 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28465671641791.
+Average distance between parent and child is 1.28477611940298.
 
-The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (15931; 95% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (365; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (277; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (48; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (41; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (15930; 95% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (365; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (277; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (48; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (41; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 aux	color:blue
-1	De	de	ADP	rg	_	8	advmod	8:advmod	MWE=De_fet|MWEPOS=ADV
+1	De	de	ADP	rg	ExtPos=ADV	8	advmod	8:advmod	MWE=De_fet|MWEPOS=ADV
 2	fet	fet	NOUN	_	_	1	fixed	1:fixed	SpaceAfter=No
 3	,	,	PUNCT	fc	PunctType=Comm	1	punct	1:punct	_
 4	en	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	8	nsubj	8:nsubj	ArgTem=arg2:atr|Entity=(CESSCATA2001031527617c4--1-CorefType:ident,gstype:gen)
@@ -76,7 +76,7 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	Entity=(NOCOREF:Spec.organization-organization-2-gstype:spec
 8	Rayo	Rayo	PROPN	np0000o	_	15	obl	15:obl	SpaceAfter=No|ArgTem=argM:adv|Entity=NOCOREF:Spec.organization)
 9	,	,	PUNCT	fc	PunctType=Comm	8	punct	8:punct	_
-10	ni	ni	CCONJ	rg	_	15	advmod	15:advmod	MWE=ni_tan_sols|MWEPOS=ADV
+10	ni	ni	CCONJ	rg	ExtPos=ADV	15	advmod	15:advmod	MWE=ni_tan_sols|MWEPOS=ADV
 11	tan	tan	NOUN	_	_	10	fixed	10:fixed	_
 12	sols	sols	NOUN	_	_	10	fixed	10:fixed	_
 13	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	15:aux	_

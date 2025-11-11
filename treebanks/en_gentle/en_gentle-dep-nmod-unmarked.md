@@ -91,8 +91,8 @@ The following 12 pairs of parts of speech are connected with `nmod:unmarked`: <t
 12	from	from	ADP	IN	_	13	case	13:case	_
 13	10:30	10:30	NUM	CD	NumForm=Digit|NumType=Card	4	obl	4:obl:from	Entity=(73-time-new-nnnnn-cf5-1-sgl|XML=<time when:::"22:30">
 14	pm	p.m.	NOUN	NN	Number=Sing	13	nmod:unmarked	13:nmod:unmarked	Entity=73)|XML=</time>
-15	-	-	SYM	SYM	_	16	case	16:case	_
-16	12:35	12:35	NUM	CD	NumForm=Digit|NumType=Card	4	obl	4:obl:minus	Entity=(74-time-new-nnnnn-cf6-1-sgl|XML=<time when:::"12:35">
+15	-	-	SYM	SYM	ExtPos=ADP	16	case	16:case	_
+16	12:35	12:35	NUM	CD	NumForm=Digit|NumType=Card	4	obl	4:obl:to	Entity=(74-time-new-nnnnn-cf6-1-sgl|XML=<time when:::"12:35">
 17	pm	p.m.	NOUN	NN	Number=Sing	16	nmod:unmarked	16:nmod:unmarked	Entity=74)|SpaceAfter=No|XML=</time>
 18	.	.	PUNCT	.	_	4	punct	4:punct	_
 

@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 3	миян	ме	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	nmod	_	GTtags=Pron,Pers,Pl1,Gen
 4	вӧлэсьтсюнум	вӧлэсьт	NOUN	N	Case=Ela|Number=Plur|Number[psor]=Sing|Person[psor]=1	5	nmod	_	GTtags=N,Sg,Ela,PxPl1|OrigLang=ru
 5	ветлысь	ветлыны	VERB	V	Case=Nom|Nomzr=Ag|Number=Sing	6	nsubj	_	GTtags=V,IV,Der,Der/ысь,ActPrsPtc
-6	никод	некод	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	0	root	_	GTtags=Err/Dial,Pron,Neg,Sg,Nom
+6	никод	некод	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg|PronType=Ind	0	root	_	GTtags=Err/Dial,Pron,Neg,Sg,Nom
 7	абу	абу	AUX	Pcle	Polarity=Neg	6	aux:neg	_	GTtags=V,Neg,Cop,Ind,Sg|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 # visual-style 15 13 aux:neg	color:blue
 1	Ну	ну	PART	Pcle	_	3	cc	_	OrigLang=ru|SpaceAfter=No|Note=CheckAll
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	палялі	палявны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+3	палялі	палявны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	5	amod	_	_
 5	местэам	местӧ	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obl	_	OrigLang=ru|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 21	,	,	PUNCT	CLB	_	20	punct	_	_
 22	тытэн	тытэн	ADV	Adv	_	3	advcl	_	_
 23	нин	нин	ADV	Adv	_	22	advmod	_	_
-24	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	cop	_	SpaceAfter=No
+24	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	SpaceAfter=No
 25	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

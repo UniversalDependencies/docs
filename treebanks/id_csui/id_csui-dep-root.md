@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Membaca	baca	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+1	Membaca	baca	VERB	VB	Voice=Act	0	root	_	_
 2	Don	Don	PROPN	NNP	_	1	obj	_	_
 3	Quixote	Quixote	PROPN	NNP	_	2	flat:name	_	_
 4	untuk	untuk	ADP	IN	_	5	case	_	_
@@ -39,7 +39,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 1 root	color:blue
 1	Kera	kera	NOUN	NN	Number=Sing	0	root	_	_
 2	untuk	untuk	SCONJ	IN	_	3	mark	_	_
-3	amankan	aman	VERB	VB	Mood=Ind|Voice=Act	1	acl	_	_
+3	amankan	aman	VERB	VB	Voice=Act	1	acl	_	_
 4	pesta	pesta	NOUN	NN	Number=Sing	3	obj	_	_
 5	olahraga	olahraga	NOUN	NN	Number=Sing	4	nmod	_	_
 

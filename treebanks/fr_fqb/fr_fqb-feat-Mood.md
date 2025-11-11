@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-2440 tokens (10%) have a non-empty value of `Mood`.
-260 types (6%) occur at least once with a non-empty value of `Mood`.
-160 lemmas (4%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (837; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+2439 tokens (10%) have a non-empty value of `Mood`.
+259 types (6%) occur at least once with a non-empty value of `Mood`.
+159 lemmas (4%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (837; 4% instances).
 
 ### `AUX`
 
@@ -60,20 +60,4 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 </table>
 
 `Mood` seems to be **lexical feature** of `VERB`. 96% lemmas (153) occur only with one value of `Mood`.
-
-### `PRON`
-
-1 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `PRON` and `Mood` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PRON` tokens may have the following values of `Mood`:
-
-* `Ind` (1; 100% of non-empty `Mood`): <em>Il</em>
-* `EMPTY` (1657): <em>qui, qu', -ce, -t-il, se, que, -il, -je, -t-elle, je</em>
-
-## Relations with Agreement in `Mood`
-
-The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>PRON --[<tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

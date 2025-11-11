@@ -36,7 +36,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (128; 100% of non-empty `Abbr`): <em>tzv, sv, km, r, c, č, kr, PhDr, prof, Dr</em>
-* `EMPTY` (368): <em>O, po, česko, the, v, of, San, a, rostovsko, KLIP</em>
+* `EMPTY` (366): <em>O, po, česko, the, v, of, San, a, rostovsko, KLIP</em>
 
 `Abbr` seems to be **lexical feature** of `X`. 100% lemmas (46) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (14; 100% of non-empty `Abbr`): <em>napr, resp, cca</em>
-* `EMPTY` (4430): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4394): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, nikdy, teraz</em>
 
 ## Relations with Agreement in `Abbr`
 

@@ -6,61 +6,68 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-KSL: POS Tags: `NUM`
 
-There are 52 `NUM` lemmas (0%), 49 `NUM` types (0%) and 442 `NUM` tokens (0%).
-Out of 15 observed tags, the rank of `NUM` is: 7 in number of lemmas, 9 in number of types and 10 in number of tokens.
+There are 71 `NUM` lemmas (0%), 68 `NUM` types (0%) and 572 `NUM` tokens (0%).
+Out of 14 observed tags, the rank of `NUM` is: 8 in number of lemmas, 10 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: 한, 두, 세, 하+ㄴ, 네, 첫, 반, 하나+는, 다섯, 하나
+The 10 most frequent `NUM` lemmas: 한, 두, 세, 둘째, 첫, 첫째, 하나+는, 하나, 둘, 네
 
-The 10 most frequent `NUM` types:  한, 두, 세, 네, 첫, 반, 하나는, 하나, 다섯, 0
+The 10 most frequent `NUM` types:  한, 두, 세, 둘째, 첫, 첫째, 하나는, 하나, 둘, 네
 
-The 10 most frequent ambiguous lemmas: 한 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 143, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 5, <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 1), 두 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 97, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 2), 하+ㄴ (<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 36, <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 24), 네 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 20, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 첫 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 20, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 반 (<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 59, <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 19, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 18, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 3), 다섯 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 하나 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 5, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 여섯 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 4, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 2), 1+박+2+일 (<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 3)
+The 10 most frequent ambiguous lemmas: 한 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 166, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 25, <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 3), 두 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 112, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 7, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 세 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 둘째 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 26, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 5, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 첫 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 24, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 첫째 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 22, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 하나 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 17, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 둘 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 16, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 네 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 13, <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 수+십+만+의 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  한 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 167, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 36, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 8, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 5, <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 두 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 97, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 2), 네 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 20, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 첫 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 20, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 반 (<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 59, <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 19, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 18, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 3), 하나 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 10, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 5, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 2), 다섯 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 9, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 여섯 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 4, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 2), 1박2일 (<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 3), 02-2200-7788 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  한 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 167, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 64, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 25, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 11, <tt><a href="ko_ksl-pos-X.html">X</a></tt> 10, <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 두 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 112, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 7, <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 세 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 둘째 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 26, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 5, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1), 첫 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 25, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 첫째 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 22, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1), 하나 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 17, <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 1, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 둘 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 16, <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 네 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 13, <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 수십만의 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * 한
   * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 167: 매일 매일 <b>한</b> 시간이라도 운동합니다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 36: 그 가수는 너무 댄스를 잘 <b>한</b> 가수입니다 .
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 8: 어느 어린이 사탕을 먹을 때 너무 맛이 있게 먹어 보이고 정말 행복 <b>한</b> 것 같지 않다 .
-  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 6: 살 수 있는 <b>한</b> 이 순간을 잊지 않을겠다 .
-  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 5: <b>한</b> 뉴스에 따르면 쓰레기 투기가 이루어지는 장소에 CCTV 설치한 다음부터는 쓰레기 투기 현상을 볼 수 없다고 한다 .
-  * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 1: <b>한</b> 4년쯤 전에 나는 유럽에 갔다 왔어요 .
-  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 1: 사형제도 유지해 야 <b>한</b> 다는 시민들 이 그 제도가 끔칙한 범최률을 줄릴수 있다고 해도 틀리다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 64: 그 가수는 너무 댄스를 잘 <b>한</b> 가수입니다 .
+  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 25: 왜냐하면 우리 가 <b>한</b> 목표 있어요 .
+  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 11: 몇 년 전에 저도 고향에서 친구랑 같이 한국어를 한찬통안 배웠는데 부끄러워서 친구끼리 한국어로 이야기를 하지 못 <b>한</b> 거예요 .
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 10: 어느 어린이 사탕을 먹을 때 너무 맛이 있게 먹어 보이고 정말 행복 <b>한</b> 것 같지 않다 .
+  * <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> 3: 살 수 있는 <b>한</b> 이 순간을 잊지 않을겠다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 2: <b>한</b> 편 동시에 모국어와 외국어를 배우는 것으로 둘 다 잘 모르고 실수가 많은 아이들도 많다 .
   * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: <b>한</b> 국 말 할 줄 알아면 더 변리하지만 영어할 수 만 있으면 괜찮아요 .
 * 두
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 97: <b>두</b> 사람 같이 앉아서 재미있는 한국영화를 봤습니다 .
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 112: <b>두</b> 사람 같이 앉아서 재미있는 한국영화를 봤습니다 .
+  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 7: 수학 수업은 오후 <b>두</b> 시 반에 시잔 해요 .
   * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 2: 거기에서 수영을 하고 말 <b>두</b> 탈 겁니다 .
-* 네
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 20: <b>네</b> 시부터 두 시까지 우리 커피숍에서 공부하고 이야기를 했습니다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: <b>네</b> .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1: 그럼에도 불구하고 한 사람이 언어를 <b>두</b> 개 배우면 한대만 배우듯이 제대로 못배우겠다 .
+* 세
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 27: <b>세</b> 번째 이유는 아무리 안락사 규정이 엄격하게 제정된다고 하더라도 애매함에서 벗어날 수 없는 점이다 .
+  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1: 우리 <b>세</b> 시 반에 동대문 지하철역앞에 만났습니다 .
+* 둘째
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 26: <b>둘째</b> 요즘에 담배를 피우는 청소년들이 천천증가하고있다 .
+  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 5: 일본의 성인식은 매년 1월 <b>둘째</b> 주 월요일에 치러지는데 다른 나라보다 성대하게 열린다고 일고 있다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1: <b>둘째</b> , 단점은 언어를 일찔 배우면 동의가 없을 수 도 있다 .
 * 첫
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 20: 봄 바람 부는 이 시절에 다시 한번 <b>첫</b> 사랑의 설렘을 느끼고 싶은 사람에게 이 영화를 꼭 추천하고 싶다 .
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 25: 봄 바람 부는 이 시절에 다시 한번 <b>첫</b> 사랑의 설렘을 느끼고 싶은 사람에게 이 영화를 꼭 추천하고 싶다 .
   * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1: 우리 반 친구하고 <b>첫</b> 만난지 5주일 지났다 .
-* 반
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 59: 우리 <b>반</b> 친구에 대해서 설명을 한다 .
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 19: 첫날에 우리 <b>반</b> 저음에 모왔는데 너무 추융했다 .
-  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 18: 우리 <b>반</b> 친구 유카 씨 소개합니다 .
-  * <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> 3: 아무리 피곤해도 1시간 <b>반</b> 만에 정상에 도착했다 .
+  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1: 우리는 어릴 때 우리 <b>첫</b> 언어를 배워서 아직 공부보다는 언어를 자연스럽게 이해할 수 있고 마음도 아직 열어서 새로운 단어와 경험도 쉽게 받습니다 .
+* 첫째
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 22: <b>첫째</b> 한국에서 유학하면 생활황경에서 다들 한국사람이어서 열심히 배우지 않아도 실력이 좋이질것이다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 2: <b>첫째</b> , 반대하는 그 권리를 마음대로 침해한다고 말하는 사람도 있다 .
+  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: 왜냐하면 <b>첫째</b> 현대 생존기 위해서 자연을 꼭 의존해야 한다고 생각한다 .
 * 하나
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 10: 내가 한국에 오기 전에 소원이 <b>하나</b> 있었다 .
-  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 5: 이집트에 살고 있는 소녀 애빌린은 토끼인 형이 <b>하나</b> 있다 .
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 2: 그리고 유명한 배우가 나온다는 또 이 영화를 선택한 <b>하나</b> 이유이다 .
-* 다섯
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 9: 두 사람은 <b>다섯</b> 반에 만나서 나오코 씨 집에 갔습니다 .
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: 그래서 <b>다섯</b> 시 반 시작 영화를 봤습니다 .
-* 여섯
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 4: 서울에서 양양까지 <b>여섯</b> 시간 쯤 걸렸어요 .
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 2: 서울에서 양양까지 <b>여섯</b> 시간 쯤 걸렸어요 .
-* 1박2일
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 6: 저는 지난 주에 <b>1박2일</b> 동안 제주도에 갔습니다 .
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 3: 지금 우리는 KTX로 홍도 / 흑산도에 <b>1박2일</b> 여행으로 갈 수 있다 .
-* 02-2200-7788
-  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 2: 이번 여행에 관심이 있는 사람이 여행 상담 전화 <b>02-2200-7788</b> 한테 상담할 수 있다 .
-  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: 전화번은 <b>02-2200-7788</b> .
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 17: 내가 한국에 오기 전에 소원이 <b>하나</b> 있었다 .
+  * <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> 1: 그런데 그래야만 <b>하나</b> ?
+  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: 새벽 시간에 기숙사 문이 닫혀 있기 때문에 그 사람은 나를 떼리고 <b>하나</b> 모텔에 갔다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: 이 작은 일조차 하지 않으면 아무리 좋은 방법을 <b>하나</b> 마나이기 때문이다 .
+* 둘
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 16: 협동과 경쟁 <b>둘</b> 다 각기의 적당한 맹락과 목적을 이룰 수 있다고 생각합니다 .
+  * <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> 1: 예를 들어 이이의 부머님들의 언어가 다르면 어머니와 아버지 <b>둘</b> 다 자기의 언어로 아이에게 말하면 그 아이가 자연스럽게 배울 수 있다 .
+  * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: 둘째 내가 열대어를 좋아해서 큰어항을 <b>둘</b> 수 있는 큰거실이 필요하다 .
+* 네
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 13: <b>네</b> 시부터 두 시까지 우리 커피숍에서 공부하고 이야기를 했습니다 .
+  * <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 5: 공항에서 나를 배웅하는 <b>네</b> 모습이 아직 눈에 선하군 .
+  * <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2: <b>네</b> .
+  * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1: 오늘 <b>네</b> 기분은 어떠니 ?
+* 수십만의
+  * <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 12: 홍도에서 해야대 <b>수십만의</b> 관광객이 몰려드는 아름다운 섬 등등 여러분을 초대합니다 .
+  * <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> 1: 해마다 <b>수십만의</b> 관광객이 물려드는 아름다움 섬에 여행을 할 기회가 있다 .
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 0.942308 (the average of all parts of speech is 1.000288).
+The form / lemma ratio of `NUM` is 0.957746 (the average of all parts of speech is 1.007876).
 
 The 1st highest number of forms (1) was observed with the lemma “0”: 0.
 
@@ -73,27 +80,27 @@ The 3rd highest number of forms (1) was observed with the lemma “1”: 1.
 `NUM` occurs with 1 feature-value pairs: `Typo=Yes`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (439 tokens).
-Examples: 한, 두, 세, 네, 첫, 반, 하나는, 하나, 다섯, 0
+The most frequent feature combination is `_` (569 tokens).
+Examples: 한, 두, 세, 둘째, 첫, 첫째, 하나는, 하나, 둘, 네
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 12 different relations: <tt><a href="ko_ksl-dep-nummod.html">nummod</a></tt> (327; 74% instances), <tt><a href="ko_ksl-dep-nsubj.html">nsubj</a></tt> (28; 6% instances), <tt><a href="ko_ksl-dep-acl.html">acl</a></tt> (24; 5% instances), <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt> (23; 5% instances), <tt><a href="ko_ksl-dep-obl.html">obl</a></tt> (17; 4% instances), <tt><a href="ko_ksl-dep-nmod-poss.html">nmod:poss</a></tt> (11; 2% instances), <tt><a href="ko_ksl-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="ko_ksl-dep-dislocated.html">dislocated</a></tt> (3; 1% instances), <tt><a href="ko_ksl-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ko_ksl-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="ko_ksl-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ko_ksl-dep-flat.html">flat</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="ko_ksl-dep-nummod.html">nummod</a></tt> (403; 70% instances), <tt><a href="ko_ksl-dep-obl.html">obl</a></tt> (83; 15% instances), <tt><a href="ko_ksl-dep-nsubj.html">nsubj</a></tt> (41; 7% instances), <tt><a href="ko_ksl-dep-nmod-poss.html">nmod:poss</a></tt> (16; 3% instances), <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt> (10; 2% instances), <tt><a href="ko_ksl-dep-dislocated.html">dislocated</a></tt> (5; 1% instances), <tt><a href="ko_ksl-dep-flat.html">flat</a></tt> (5; 1% instances), <tt><a href="ko_ksl-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="ko_ksl-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="ko_ksl-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="ko_ksl-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (294; 67% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (79; 18% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (60; 14% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (363; 63% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (84; 15% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (61; 11% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (51; 9% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (4; 1% instances),  (1; 0% instances)
 
-363 (82%) `NUM` nodes are leaves.
+489 (85%) `NUM` nodes are leaves.
 
-55 (12%) `NUM` nodes have one child.
+71 (12%) `NUM` nodes have one child.
 
-17 (4%) `NUM` nodes have two children.
+8 (1%) `NUM` nodes have two children.
 
-7 (2%) `NUM` nodes have three or more children.
+4 (1%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 3.
 
-Children of `NUM` nodes are attached using 14 different relations: <tt><a href="ko_ksl-dep-flat.html">flat</a></tt> (24; 22% instances), <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt> (18; 16% instances), <tt><a href="ko_ksl-dep-obj.html">obj</a></tt> (16; 15% instances), <tt><a href="ko_ksl-dep-punct.html">punct</a></tt> (15; 14% instances), <tt><a href="ko_ksl-dep-case.html">case</a></tt> (9; 8% instances), <tt><a href="ko_ksl-dep-obl.html">obl</a></tt> (9; 8% instances), <tt><a href="ko_ksl-dep-nsubj.html">nsubj</a></tt> (6; 5% instances), <tt><a href="ko_ksl-dep-advmod.html">advmod</a></tt> (3; 3% instances), <tt><a href="ko_ksl-dep-amod.html">amod</a></tt> (3; 3% instances), <tt><a href="ko_ksl-dep-advcl.html">advcl</a></tt> (2; 2% instances), <tt><a href="ko_ksl-dep-nmod-poss.html">nmod:poss</a></tt> (2; 2% instances), <tt><a href="ko_ksl-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ko_ksl-dep-goeswith.html">goeswith</a></tt> (1; 1% instances), <tt><a href="ko_ksl-dep-mark.html">mark</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 12 different relations: <tt><a href="ko_ksl-dep-punct.html">punct</a></tt> (45; 45% instances), <tt><a href="ko_ksl-dep-flat.html">flat</a></tt> (17; 17% instances), <tt><a href="ko_ksl-dep-case.html">case</a></tt> (12; 12% instances), <tt><a href="ko_ksl-dep-nmod.html">nmod</a></tt> (10; 10% instances), <tt><a href="ko_ksl-dep-amod.html">amod</a></tt> (5; 5% instances), <tt><a href="ko_ksl-dep-goeswith.html">goeswith</a></tt> (2; 2% instances), <tt><a href="ko_ksl-dep-nmod-poss.html">nmod:poss</a></tt> (2; 2% instances), <tt><a href="ko_ksl-dep-obl.html">obl</a></tt> (2; 2% instances), <tt><a href="ko_ksl-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ko_ksl-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="ko_ksl-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="ko_ksl-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 9 different parts of speech: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (48; 44% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (16; 15% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (15; 14% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (12; 11% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (11; 10% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (45; 45% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (26; 26% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (12; 12% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (4; 4% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="ko_ksl-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

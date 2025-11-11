@@ -61,7 +61,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> VERB</tt> (1237; 78%),
 <tt>VERB --[<tt><a href="la_circse-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (191; 73%),
-<tt>VERB --[<tt><a href="la_circse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (117; 61%),
+<tt>VERB --[<tt><a href="la_circse-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (116; 61%),
 <tt>VERB --[<tt><a href="la_circse-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (42; 53%),
 <tt>VERB --[<tt><a href="la_circse-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (37; 70%),
 <tt>VERB --[<tt><a href="la_circse-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (33; 73%),

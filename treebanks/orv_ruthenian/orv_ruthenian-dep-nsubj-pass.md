@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="orv_ruthenian-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="orv_ruthenian-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-187 nodes (0%) are attached to their parents as `nsubj:pass`.
+270 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-159 instances of `nsubj:pass` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.0855614973262.
+236 instances of `nsubj:pass` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.59259259259259.
 
-The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (106; 57% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (48; 26% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (25; 13% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (135; 50% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (79; 29% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (29; 11% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (17; 6% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,29 +57,28 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 10 nsubj:pass	color:blue
-1	Допущаем	допущати	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="Допущаем"
-2	теж	тежъ	ADV	RB	Degree=Pos	1	advmod	_	wf="теж"
-3	мети	мети	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	wf="мети"
-4	в	въ	ADP	IN	_	6	case	_	wf="в"
-5	том	той	DET	DT	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	wf="том"
-6	месте	место	NOUN	NNI	Case=Loc|Gender=Neut|Number=Sing	1	obl	_	wf="месте"
-7	нашомъ	нашъ	DET	PRP$	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	wf="нашомъ"
-8	важницꙋ	важница	NOUN	NNI	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	wf="важницꙋ"|SpaceAfter=No
-9	,	,	PUNCT	-COMMA-	_	10	punct	_	_
-10	которая	который	DET	WDT	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	17	nsubj:pass	_	wf="которая"
-11	ж	жъ	PART	RP	_	10	advmod	_	wf="ж"
-12	будеть	быти	AUX	VBC	Analyt=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	17	aux:pass	_	wf="будеть"
-13	ко	къ	ADP	IN	_	14	case	_	wf="ко"
-14	вжитку	ужитокъ	NOUN	NNI	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	wf="вжитку"
-15	нашого	нашъ	DET	PRP$	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	wf="нашого"
-16	скарбу	скарбъ	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	wf="скарбу"
-17	привернена	привернути	VERB	VBNH	Analyt=Yes|Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	acl:relcl	_	wf="привернена"|SpaceAfter=No
-18	.	.	PUNCT	-PERIOD-	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 1 nsubj:pass	color:blue
+1	Которая	который	DET	WDT	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	15	nsubj:pass	_	wf="Которая"
+2	с	съ	ADP	IN	_	3	case	_	wf="с"
+3	тє(р)мѣну	термѣнъ	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	15	obl	_	wf="тєрмѣну"
+4	року	рокъ	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	wf="року"
+5	ах҃нѕ	1656	ADJ	ORD	Case=Gen|Gender=Masc|Number=Sing|NumForm=Cyril|NumType=Ord	4	amod	_	pos="ANUM"|wf="ах҃нѕ"
+6	[1656]	1656	ADJ	ORD	Case=Gen|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	5	dep	_	pos="ANUM"|wf="[1656]"
+7	м҃(с)ца	мѣсяцъ	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	wf="м҃сца"
+8	сє(н)тєбра	сентябръ	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	wf="сєнтєбра"
+9	д҃і	14	ADJ	ORD	Case=Gen|Gender=Masc|Number=Sing|NumForm=Cyril|NumType=Ord	11	amod	_	pos="ANUM"|wf="д҃і"
+10	[14]	14	ADJ	ORD	Case=Gen|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	9	dep	_	pos="ANUM"|wf="[14]"
+11	дня	день	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	15	obl:tmod	_	wf="дня"
+12	в	въ	ADP	IN	_	14	case	_	wf="в"
+13	тіє	тый	DET	DT	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	14	det	_	wf="тіе"
+14	слова	слово	NOUN	NNI	Case=Acc|Gender=Neut|Number=Plur	15	obl	_	wf="слова"
+15	прєписана	преписати	VERB	VBC	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="прєписана"|SpaceAfter=No
+16	<;>	<;>	PUNCT	_	_	15	punct	_	wf="<;>"|SpaceAfter=No
+17	.	.	PUNCT	-PERIOD-	_	15	punct	_	wf="."
 
 ~~~
 

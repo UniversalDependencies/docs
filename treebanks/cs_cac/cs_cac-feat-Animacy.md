@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-98253 tokens (20%) have a non-empty value of `Animacy`.
+98256 tokens (20%) have a non-empty value of `Animacy`.
 26841 types (43%) occur at least once with a non-empty value of `Animacy`.
 12619 lemmas (44%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (56384; 11% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (28965; 6% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (5431; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3180; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2427; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1126; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (640; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (100; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (56384; 11% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (28965; 6% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (5431; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3180; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2427; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1129; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (640; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (100; 0% instances).
 
 ### `NOUN`
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 28965 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (27861; 96%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27826; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (26253; 91%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (24042; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (24042; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15705; 54%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (27861; 96%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27826; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (26253; 91%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (24019; 83%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (24019; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15705; 54%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (858; 35% of non-empty `Animacy`): <em>kteří, každý, sami, každého, ti, někteří, naši, svého, každému, tito</em>
 * `Inan` (1569; 65% of non-empty `Animacy`): <em>které, tyto, který, tento, svůj, každý, některé, ty, každém, její</em>
-* `EMPTY` (17384): <em>to, které, jejich, jeho, která, který, tím, této, své, těchto</em>
+* `EMPTY` (17383): <em>to, které, jejich, jeho, která, který, tím, této, své, těchto</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -163,14 +163,14 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 ### `PRON`
 
-1126 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Animacy`.
+1129 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1126; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1126; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1119; 99%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1108; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (910; 81%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (663; 59%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (628; 56%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (581; 52%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1129; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1129; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1122; 99%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1111; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (913; 81%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (666; 59%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (631; 56%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (581; 51%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Anim` (372; 33% of non-empty `Animacy`): <em>všichni, kdo, někdo, nikdo, oni, někomu, nikoho, jehož, kdož, koho</em>
-* `Inan` (754; 67% of non-empty `Animacy`): <em>co, něco, všechny, čím, čem, čeho, copak, něčeho, něčemu, veškeré</em>
+* `Inan` (757; 67% of non-empty `Animacy`): <em>co, něco, všechny, čím, čem, čeho, copak, něčeho, něčemu, veškeré</em>
 * `EMPTY` (14857): <em>se, si, všech, je, nás, nám, všechny, jež, nich, nichž</em>
 
 <table>

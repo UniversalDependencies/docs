@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `PRON` tokens may have the following values of `PronType`:
 
 * `Prs` (254; 100% of non-empty `PronType`): <em>neh, yeh, teh, yej, tehwah, yejwan, touatzin, tlenoh, ye, nehwatl</em>
-* `EMPTY` (254): <em>tlen, non, nochi, tlenoh, ye, akin, itlah, tlenoj, lo, nin</em>
+* `EMPTY` (252): <em>tlen, non, nochi, tlenoh, ye, akin, itlah, tlenoj, lo, nin</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (36) occur only with one value of `PronType`.
 

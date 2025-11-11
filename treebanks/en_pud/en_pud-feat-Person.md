@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-PRON.htm
 
 743 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (743; 100%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (544; 73%), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (488; 66%), <tt><a href="en_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (389; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (743; 100%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (544; 73%), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (488; 66%), <tt><a href="en_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (382; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 

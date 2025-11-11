@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `flat:name`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="zh_gsd-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="zh_gsd-dep-flat-foreign.html">flat:foreign</a></tt>.
 
 1216 nodes (1%) are attached to their parents as `flat:name`.
@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 6	神聖	神聖	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=shénshèng|LTranslit=shénshèng
 7	羅馬	羅馬	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit=luómǎ|LTranslit=luómǎ
 8	帝國	帝國	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=dìguó|LTranslit=dìguó
-9	皇帝	皇帝	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=huángdì|LTranslit=huángdì
+9	皇帝	皇帝	NOUN	NN	_	12	obl:agent	_	SpaceAfter=No|Translit=huángdì|LTranslit=huángdì
 10	查理	查理	PROPN	NNP	_	9	appos	_	SpaceAfter=No|Translit=chálǐ|LTranslit=chálǐ
 11	四世	四世	PROPN	NNP	_	10	flat:name	_	SpaceAfter=No|Translit=sìshì|LTranslit=sìshì
 12	升	升	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shēng|LTranslit=shēng

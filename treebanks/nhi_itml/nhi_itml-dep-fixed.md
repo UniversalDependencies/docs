@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-82 nodes (1%) are attached to their parents as `fixed`.
+76 nodes (1%) are attached to their parents as `fixed`.
 
-82 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02439024390244.
+76 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02631578947368.
 
-The following 17 pairs of parts of speech are connected with `fixed`: <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (21; 26% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (13; 16% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (9; 11% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (9; 11% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (9; 11% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (5; 6% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `fixed`: <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (21; 28% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (13; 17% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (9; 12% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (9; 12% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (6; 8% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (4; 5% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,12 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
-1	kinwikah	wika	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kinwikah|NormalizedLemma=wika
-2	n	in	DET	_	_	1	advmod	1:advmod	NormalizedForm=n|NormalizedLemma=in
-3	ompa	ompa	ADV	_	_	2	fixed	2:fixed	SpaceAfter=No|NormalizedForm=ompa|NormalizedLemma=ompa
+1	kinwikah	wika	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kinwikah|NormalizedLemma=wika|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran
+2	n	in	DET	_	ExtPos=ADV	1	advmod	1:advmod	NormalizedForm=n|NormalizedLemma=in
+3	ompa	ompa	ADV	_	_	2	fixed	2:fixed	NormalizedForm=ompa|NormalizedLemma=ompa|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	5:punct	NormalizedForm=,|NormalizedLemma=,
-5	kintrataroh	trataroa	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	1	conj	1:conj	NormalizedForm=kintrataroh|NormalizedLemma=trataroa
-6	kwale	kwali	ADV	_	_	5	advcl	5:advcl	SpaceAfter=No|NormalizedForm=kwale|NormalizedLemma=kwali
+5	kintrataroh	trataroa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	1:conj	NormalizedForm=kintrataroh|NormalizedLemma=trataroa|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran
+6	kwale	kwali	ADV	_	_	5	advmod	5:advmod	NormalizedForm=kwale|NormalizedLemma=kwali|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	6:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
@@ -42,12 +42,12 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	Ompa	ompa	ADV	_	_	4	advmod	4:advmod	NormalizedForm=ompa|NormalizedLemma=ompa
 2	oksipa	o	ADV	_	_	4	advmod	4:advmod	NormalizedForm=oksipa|NormalizedLemma=o
 3	ya	ya	ADV	_	_	4	advmod	4:advmod	NormalizedForm=ya|NormalizedLemma=ya
-4	sepewi	pewi	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|VerbForm=Fin	0	root	0:root	SpaceAfter=No|NormalizedForm=sepewi|NormalizedLemma=pewi
+4	sepewi	pewi	VERB	_	Mood=Ind|VerbForm=Fin	0	root	0:root	NormalizedForm=sepewi|NormalizedLemma=pewi|Number[subj]=Plur|Person[subj]=1|SpaceAfter=No|Subcat=Intr
 5	,	,	PUNCT	_	_	6	punct	6:punct	NormalizedForm=,|NormalizedLemma=,
-6	sekitlasa	tlasa	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|VerbForm=Fin	4	conj	4:conj	NormalizedForm=sekitlasa|NormalizedLemma=tlasa
-7	más	más	ADV	_	Foreign=Yes	6	parataxis	6:parataxis	NormalizedForm=más|NormalizedLemma=más
+6	sekitlasa	tlasa	VERB	_	Mood=Ind|VerbForm=Fin	4	conj	4:conj	NormalizedForm=sekitlasa|NormalizedLemma=tlasa|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran
+7	más	más	ADV	_	ExtPos=ADV|Foreign=Yes	6	parataxis	6:parataxis	NormalizedForm=más|NormalizedLemma=más
 8	que	que	SCONJ	_	Foreign=Yes	7	fixed	7:fixed	NormalizedForm=que|NormalizedLemma=que
-9	nada	nada	PRON	_	Foreign=Yes	7	fixed	7:fixed	SpaceAfter=No|NormalizedForm=nada|NormalizedLemma=nada
+9	nada	nada	PRON	_	Foreign=Yes	7	fixed	7:fixed	NormalizedForm=nada|NormalizedLemma=nada|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
@@ -59,17 +59,15 @@ The following 17 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	de	de	ADP	_	Foreign=Yes	4	advmod	4:advmod	NormalizedForm=de|NormalizedLemma=de
+1	de	de	ADP	_	ExtPos=ADV|Foreign=Yes	3	advmod	3:advmod	NormalizedForm=de|NormalizedLemma=de
 2	hecho	hecho	NOUN	_	Foreign=Yes|Gender=Masc	1	fixed	1:fixed	NormalizedForm=hecho|NormalizedLemma=hecho
-3	o	o	AUX	_	_	4	aux	4:aux	NormalizedForm=o|NormalizedLemma=o
-4	nimomachileh	machilia	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=nimomachileh|NormalizedLemma=machilia
-5	kwaltsih	kwali	ADV	_	_	4	advmod	4:advmod	SpaceAfter=No|NormalizedForm=kwaltsih|NormalizedLemma=kwali
-6	,	,	PUNCT	_	_	10	punct	10:punct	NormalizedForm=,|NormalizedLemma=,
-7	amo	amo	ADV	_	Polarity=Neg	10	advmod	10:advmod	NormalizedForm=amo|NormalizedLemma=amo
-8	kemah	kemah	SCONJ	_	_	7	fixed	7:fixed	NormalizedForm=kemah|NormalizedLemma=kemah
-9	o	o	AUX	_	_	10	aux	10:aux	NormalizedForm=o|NormalizedLemma=o
-10	nimomohteh	momohtia	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Subcat=Tran|Tense=Past|VerbForm=Fin	4	conj	4:conj	NormalizedForm=nimomohteh|NormalizedLemma=momohtia
-11	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.|NormalizedLemma=.
+3	onimomachileh	machilia	VERB	_	Aspect=Perf|Mood=Ind|Reflex=Yes|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=nimomachileh|NormalizedLemma=machilia|Number[subj]=Sing|Person[subj]=1|Subcat=Tran|wordform=nimomachileh
+4	kwaltsih	kwali	ADV	_	_	3	advmod	3:advmod	NormalizedForm=kwaltsih|NormalizedLemma=kwali|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,|NormalizedLemma=,
+6	amo	amo	ADV	_	ExtPos=ADV|Polarity=Neg	8	advmod	8:advmod	NormalizedForm=amo|NormalizedLemma=amo
+7	kemah	kemah	SCONJ	_	_	6	fixed	6:fixed	NormalizedForm=kemah|NormalizedLemma=kemah
+8	onimomohteh	momohtia	VERB	_	Aspect=Perf|Mood=Ind|Reflex=Yes|Tense=Past|VerbForm=Fin	3	conj	3:conj	NormalizedForm=nimomohteh|NormalizedLemma=momohtia|Number[subj]=Sing|Person[subj]=1|SpaceAfter=No|Subcat=Tran|wordform=nimomohteh
+9	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
 

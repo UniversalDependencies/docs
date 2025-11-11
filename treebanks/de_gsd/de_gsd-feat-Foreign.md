@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2068; 100% of non-empty `Foreign`): <em>of, de, la, University, d', for, di, a, do, du</em>
-* `EMPTY` (28349): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, Mai</em>
+* `EMPTY` (28348): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, Mai</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1359) occur only with one value of `Foreign`.
 
@@ -31,11 +31,11 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 108 <tt><a href="de_gsd-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (107; 99%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (102; 94%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (102; 94%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="de_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="de_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="de_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (107; 99%), <tt><a href="de_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (103; 95%), <tt><a href="de_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (102; 94%).
 
 `DET` tokens may have the following values of `Foreign`:
 
-* `Yes` (108; 100% of non-empty `Foreign`): <em>the, a, alla, dessa, ha, No, Quelques, Seine</em>
+* `Yes` (108; 100% of non-empty `Foreign`): <em>the, ha, No, Quelques, Seine, a, alla, dessa</em>
 * `EMPTY` (41097): <em>der, die, dem, den, das, des, eine, ein, einer, einen</em>
 
 ### `NOUN`
@@ -60,7 +60,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (85; 100% of non-empty `Foreign`): <em>'s, i, to, be, ???, ????, ?????, ???????, All, Bottom</em>
-* `EMPTY` (227): <em>B., u.a., %, etc., z.B., z., †, a, u, z</em>
+* `EMPTY` (226): <em>B., u.a., %, etc., z.B., z., †, a, u, z</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (56) occur only with one value of `Foreign`.
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (38; 100% of non-empty `Foreign`): <em>top, New, Strange, Associate, Catholic, Civil, Communist, Deep, Dry, Independent</em>
-* `EMPTY` (21702): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
+* `EMPTY` (21704): <em>ersten, später, erste, gut, weitere, neue, bekannt, zweiten, neuen, großen</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `Foreign`.
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 `PRON` tokens may have the following values of `Foreign`:
 
-* `Yes` (21; 100% of non-empty `Foreign`): <em>it, You, my, All, 's, She, We, Your</em>
+* `Yes` (21; 100% of non-empty `Foreign`): <em>it, You, my, 's, All, She, We, Your</em>
 * `EMPTY` (10823): <em>er, sich, sie, es, die, ich, der, man, das, wir</em>
 
 ### `VERB`

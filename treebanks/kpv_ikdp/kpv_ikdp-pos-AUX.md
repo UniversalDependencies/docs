@@ -29,12 +29,12 @@ The 2nd highest number of forms (3) was observed with the lemma “вӧвны”
 
 The 3rd highest number of forms (2) was observed with the lemma “быть”: <em>были, было</em>.
 
-`AUX` occurs with 7 features: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt> (44; 76% instances), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt> (40; 69% instances), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt> (40; 69% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (35; 60% instances), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (29; 50% instances), <tt><a href="kpv_ikdp-feat-Voice.html">Voice</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-feat-Connegative.html">Connegative</a></tt> (2; 3% instances)
+`AUX` occurs with 8 features: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt> (44; 76% instances), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt> (40; 69% instances), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt> (40; 69% instances), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt> (40; 69% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (35; 60% instances), <tt><a href="kpv_ikdp-feat-Polarity.html">Polarity</a></tt> (29; 50% instances), <tt><a href="kpv_ikdp-feat-Voice.html">Voice</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-feat-Connegative.html">Connegative</a></tt> (2; 3% instances)
 
-`AUX` occurs with 12 feature-value pairs: `Connegative=Yes`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `Voice=Act`
+`AUX` occurs with 13 feature-value pairs: `Connegative=Yes`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `Voice=Act`
 
 `AUX` occurs with 16 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past` (15 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin` (15 tokens).
 Examples: <em>вӧлі, вӧліс</em>
 
 

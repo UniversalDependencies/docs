@@ -1,20 +1,20 @@
 ---
 layout: base
-title:  'Statistics of obl in UD_Kurmanji-MG'
+title:  'Statistics of obl in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `obl`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `obl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obl`: <tt><a href="kmr_mg-dep-obl-dat.html">obl:dat</a></tt>.
+There are 1 language-specific subtypes of `obl`: <tt><a href="kmr_kurmanji-dep-obl-dat.html">obl:dat</a></tt>.
 
 18 nodes (0%) are attached to their parents as `obl`.
 
 17 instances of `obl` (94%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.66666666666667.
 
-The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (6; 33% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (6; 33% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-DET.html">DET</a></tt> (1; 6% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>түрэл</em> (<tt><a href="bxr_bdt
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.081633 (the average of all parts of speech is 1.638355).
+The form / lemma ratio of `ADJ` is 1.081633 (the average of all parts of speech is 1.638739).
 
 The 1st highest number of forms (6) was observed with the lemma “_”: <em>Болбосон, гэрэл, дэлгэрдэг, ухаантай, хэлэhэн, яаралгүй</em>.
 
@@ -60,13 +60,13 @@ The 2nd highest number of forms (3) was observed with the lemma “буряад�
 
 The 3rd highest number of forms (3) was observed with the lemma “һайхан”: <em>һайханай, һайханиие, һайханиинь</em>.
 
-`ADJ` occurs with 4 features: <tt><a href="bxr_bdt-feat-Case.html">Case</a></tt> (8; 1% instances), <tt><a href="bxr_bdt-feat-NumType.html">NumType</a></tt> (3; 0% instances), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-feat-Reflex.html">Reflex</a></tt> (1; 0% instances)
+`ADJ` occurs with 5 features: <tt><a href="bxr_bdt-feat-Case.html">Case</a></tt> (8; 1% instances), <tt><a href="bxr_bdt-feat-NumType.html">NumType</a></tt> (3; 0% instances), <tt><a href="bxr_bdt-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-feat-Reflex.html">Reflex</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Com`, `Case=Gen`, `Case=Nom`, `NumType=Ord`, `Number=Plur`, `Reflex=Yes`
+`ADJ` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Com`, `Case=Gen`, `Case=Nom`, `ExtPos=ADV`, `NumType=Ord`, `Number=Plur`, `Reflex=Yes`
 
-`ADJ` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (803 tokens).
-Examples: <em>буряад, түрэл, уран, олон, һайн, бага, үндэр, бэрхэ, агууехэ, гоё</em>
+`ADJ` occurs with 8 feature combinations.
+The most frequent feature combination is `_` (801 tokens).
+Examples: <em>буряад, түрэл, уран, олон, һайн, үндэр, бага, бэрхэ, агууехэ, гоё</em>
 
 
 ## Relations

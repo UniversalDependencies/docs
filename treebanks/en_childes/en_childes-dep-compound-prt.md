@@ -8,63 +8,71 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_childes-dep-compound.html">compound</a></tt>.
 
-1550 nodes (1%) are attached to their parents as `compound:prt`.
+1768 nodes (1%) are attached to their parents as `compound:prt`.
 
-1538 instances of `compound:prt` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.75612903225806.
+1755 instances of `compound:prt` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.75848416289593.
 
-The following 11 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (1165; 75% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (349; 23% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (15; 1% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 12 compound:prt	color:blue
-1	And	and	CCONJ	CC	_	6	cc	6:cc	_
-2	what	what	PRON	WP	_	6	obj	6:obj	_
-3	did	do	AUX	VBD	_	6	aux	6:aux	_
-4	the	the	DET	DT	_	5	det	5:det	_
-5	lady	lady	NOUN	NN	_	6	nsubj	6:nsubj	_
-6	do	do	VERB	VB	_	0	root	0:root	_
-7	did	do	AUX	VBD	_	9	aux	9:aux	_
-8	she	she	PRON	PRP	_	9	nsubj	9:nsubj	_
-9	take	take	VERB	VB	_	6	parataxis	6:parataxis	_
-10	the	the	DET	DT	_	11	det	11:det	_
-11	baby	baby	NOUN	NN	_	9	obj	9:obj	_
-12	out	out	ADP	RP	_	9	compound:prt	9:compound:prt	SpaceAfter=No
-13	?	?	PUNCT	?	_	6	punct	6:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 compound:prt	color:blue
-1	Take	take	VERB	VB	_	0	root	0:root	_
-2	nose	nose	NOUN	NN	_	1	obj	1:obj	_
-3	off	off	ADV	RB	_	1	compound:prt	1:compound:prt	SpaceAfter=No
-4	?	?	PUNCT	?	_	1	punct	1:punct	_
-
-~~~
+The following 16 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (1297; 73% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (414; 23% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (20; 1% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-ADV.html">ADV</a></tt>-<tt><a href="en_childes-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_childes-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 compound:prt	color:blue
-1	This	this	DET	DT	_	2	det	2:det	_
-2	letter	letter	NOUN	NN	_	4	nsubj	4:nsubj	_
-3	's	be	AUX	VBZ	_	4	aux	4:aux	_
-4	fold	fold	NOUN	NN	_	0	root	0:root	_
-5	up	up	ADP	RP	_	4	compound:prt	4:compound:prt	SpaceAfter=No
-6	.	.	PUNCT	.	_	4	punct	4:punct	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 compound:prt	color:blue
+1	Go	go	VERB	VB	_	0	root	0:root	_
+2	pick	pick	VERB	VB	_	1	compound	1:compound	_
+3	those	that	DET	DT	_	4	det	4:det	_
+4	pieces	piece	NOUN	NNS	_	2	obj	2:obj	_
+5	up	up	ADP	RP	_	2	compound:prt	2:compound:prt	_
+6	and	and	CCONJ	CC	_	9	cc	9:cc	_
+7	you	you	PRON	PRP	_	9	nsubj	9:nsubj	_
+8	may	may	AUX	MD	_	9	aux	9:aux	_
+9	put	put	VERB	VB	_	1	conj	1:conj:and	_
+10	your	you	PRON	PRP$	_	12	nmod:poss	12:nmod:poss	_
+11	cowboy	cowboy	NOUN	NN	_	12	compound	12:compound	_
+12	boots	boot	NOUN	NNS	_	9	obj	9:obj	_
+13	on	on	ADV	RB	_	9	compound:prt	9:compound:prt	SpaceAfter=No
+14	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 compound:prt	color:blue
+1	Did	do	AUX	VBD	_	3	aux	3:aux	_
+2	you	you	PRON	PRP	_	3	nsubj	3:nsubj	_
+3	like	like	VERB	VB	_	0	root	0:root	_
+4	the	the	DET	DT	_	5	det	5:det	_
+5	balloon	balloon	NOUN	NN	_	3	obj	3:obj|8:mark	_
+6	that	that	SCONJ	WDT	_	8	mark	5:ref	_
+7	you	you	PRON	PRP	_	8	nsubj	8:nsubj	_
+8	blow	blow	VERB	VBP	_	5	acl:relcl	5:acl:relcl	_
+9	up	up	ADV	RP	_	8	compound:prt	8:compound:prt	SpaceAfter=No
+10	?	?	PUNCT	.	_	3	punct	3:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 compound:prt	color:blue
+1	She	she	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	needs	need	VERB	VBZ	_	0	root	0:root	_
+3	a	a	DET	DT	_	4	det	4:det	_
+4	towel	towel	NOUN	NN	_	2	obj	2:obj|5:nsubj:xsubj	_
+5	dry	dry	NOUN	NN	_	2	xcomp	2:xcomp	_
+6	off	off	ADP	RP	_	5	compound:prt	5:compound:prt	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

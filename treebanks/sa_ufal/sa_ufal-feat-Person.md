@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-258 tokens (14%) have a non-empty value of `Person`.
+260 tokens (14%) have a non-empty value of `Person`.
 151 types (14%) occur at least once with a non-empty value of `Person`.
 83 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (162; 9% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (74; 4% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (162; 9% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (76; 4% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -41,16 +41,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-74 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Person`.
+76 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (64; 86%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57; 77%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (55; 74%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (66; 87%), <tt><a href="sa_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 76%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (56; 74%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (40; 54% of non-empty `Person`): अहम्, मम, मया, अस्मत्, अस्माकम्, मे, अस्माभिः, अहं, आवयोः, मत्
-* `2` (13; 18% of non-empty `Person`): त्वम्, तव, त्वाम्, ते, त्वत्, त्वयि, भवाम्, यूयम्, वः
-* `3` (21; 28% of non-empty `Person`): तत्, भवान्, तस्य, एनम्, एनाम्, तौ, भवतः, भवत्, भवद्भिः, भवन्तम्
-* `EMPTY` (105): तत्, किम्, तस्य, स, सः, एतत्, यस्या, अयम्, असौ, एतान्
+* `1` (40; 53% of non-empty `Person`): अहम्, मम, मया, अस्मत्, अस्माकम्, मे, अस्माभिः, अहं, आवयोः, मत्
+* `2` (14; 18% of non-empty `Person`): त्वम्, तव, त्वत्, त्वाम्, ते, त्वयि, भवाम्, यूयम्, वः
+* `3` (22; 29% of non-empty `Person`): तत्, भवान्, तस्य, तौ, एनम्, एनाम्, भवतः, भवत्, भवद्भिः, भवन्तम्
+* `EMPTY` (103): तत्, किम्, तस्य, स, सः, एतत्, यस्या, अयम्, असौ, एतान्
 
 ### `AUX`
 

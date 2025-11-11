@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="pt_porttinari-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="pt_porttinari-dep-flat-name.html">flat:name</a></tt>.
 
-92 nodes (0%) are attached to their parents as `flat`.
+90 nodes (0%) are attached to their parents as `flat`.
 
-92 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02173913043478.
+90 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.01111111111111.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (90; 98% instances), <tt><a href="pt_porttinari-pos-X.html">X</a></tt>-<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (2; 2% instances).
+The following 1 pairs of parts of speech are connected with `flat`: <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (90; 100% instances).
 
 
 ~~~ conllu
@@ -39,32 +39,6 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 14	%	%	SYM	_	_	8	obl	8:obl:em	_
 15	sim	sim	ADV	_	_	8	advmod	8:advmod	SpaceAfter=No
 16	.	.	PUNCT	_	_	8	punct	8:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 flat	color:blue
-1	Vamos	ir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	2:aux	_
-2	traduzir	traduzir	VERB	_	VerbForm=Inf	0	root	0:root	_
-3	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	4:det	_
-4	expressão	expressão	NOUN	_	Gender=Fem|Number=Sing	2	obj	2:obj	SpaceAfter=No
-5	:	:	PUNCT	_	_	7	punct	7:punct	_
-6	"	"	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
-7	noblesse	noblesse	X	_	Foreign=Yes	12	nsubj	12:nsubj	_
-8	de	de	X	_	Foreign=Yes	7	flat	7:flat	_
-9	robe	robe	X	_	Foreign=Yes	7	flat	7:flat	SpaceAfter=No
-10	"	"	PUNCT	_	_	7	punct	7:punct	_
-11	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
-12	nobreza	nobreza	NOUN	_	Gender=Fem|Number=Sing	2	parataxis	2:parataxis	_
-13	togada	togado	ADJ	_	Gender=Fem|Number=Sing	12	amod	12:amod	_
-14	em	em	ADP	_	_	15	case	15:case	_
-15	português	português	NOUN	_	Gender=Masc|Number=Sing	12	nmod	12:nmod:em	SpaceAfter=No
-16	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

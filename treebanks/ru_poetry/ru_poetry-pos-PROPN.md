@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Russian-Poetry: POS Tags: `PROPN`
 
-There are 375 `PROPN` lemmas (4%), 448 `PROPN` types (2%) and 588 `PROPN` tokens (1%).
+There are 375 `PROPN` lemmas (4%), 448 `PROPN` types (2%) and 589 `PROPN` tokens (1%).
 Out of 17 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>А, Москва, Волга, Русь, Воронский, В, Россия, Анжелина, Иуда, Майков</em>
@@ -15,7 +15,7 @@ The 10 most frequent `PROPN` types:  <em>А., В., Воронский, Волг�
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>Восток</em> (<tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>Земля</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 2), <em>Лакримоза</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 2), <em>Г.</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Дукат</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Кастусь</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Лира</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Луна</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Севера</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Холодной</em> (<tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Восток</em> (<tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1), <em>Земля</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 2), <em>Лакримоза</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 2), <em>Г.</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Дукат</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Лира</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Луна</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Севера</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Холодной</em> (<tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1), <em>Христос</em> (<tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1)
 
 
 * <em>Восток</em>
@@ -33,9 +33,6 @@ The 10 most frequent ambiguous types:  <em>Восток</em> (<tt><a href="ru_po
 * <em>Дукат</em>
   * <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1: <em>И пробуешь вновь , Как монету , на зуб « <b>Дукат</b> » .</em>
   * <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1: <em>Толкнет , словно судорога , строка , Записываешь наугад : На трамвайном билете , на коробках Раскуренного « <b>Дукат</b> » .</em>
-* <em>Кастусь</em>
-  * <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1: <em>Чтоб , их повторяя потом наизусть , Я б душу обрадовал в ней поселеньем Огня , на котором горел <b>Кастусь</b> По каплям , по дням , по селеньям .</em>
-  * <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1: <em><b>Кастусь</b> , ты со мною , ты сызнова здесь С упреком ( что может быть горше ? ) , Ты здесь -- и я смешан , как верст этих смесь , Как смешанный говор под Оршей .</em>
 * <em>Лира</em>
   * <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Лира</b> моя , лира , Добрая подруга , Ты бренчишь для мира Скромно в час досуга ...</em>
   * <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1: <em>и земля за гаснущим светилом Падает туда , в простор небес , Где маяк свой <b>Лира</b> засветила , и туманен мрачный Геркулес ...</em>
@@ -48,6 +45,9 @@ The 10 most frequent ambiguous types:  <em>Восток</em> (<tt><a href="ru_po
 * <em>Холодной</em>
   * <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> 1: <em>-- Не пойду к ней с головой покорной <b>Холодной</b> гордости не дам я торжества ; И пусть измучаюсь тоской моей упорной , Желаньем огненным , сомненьем , думой черной , Но не увижусь с ней .</em>
   * <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1: <em>Вере <b>Холодной</b></em>
+* <em>Христос</em>
+  * <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> 1: <em>Всё пишу о нигилистах -- Русь от них <b>Христос</b> спаси ! »</em>
+  * <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> 1: <em>А от волос пьянел барокковый <b>Христос</b> , А за глаза в трамваях злились шпаги .</em>
 
 ## Morphology
 
@@ -59,7 +59,7 @@ The 2nd highest number of forms (4) was observed with the lemma “Волга”
 
 The 3rd highest number of forms (3) was observed with the lemma “Берлин”: <em>Берлин, Берлине, Берлином</em>.
 
-`PROPN` occurs with 7 features: <tt><a href="ru_poetry-feat-NameType.html">NameType</a></tt> (588; 100% instances), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt> (529; 90% instances), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt> (529; 90% instances), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt> (529; 90% instances), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt> (529; 90% instances), <tt><a href="ru_poetry-feat-Abbr.html">Abbr</a></tt> (57; 10% instances), <tt><a href="ru_poetry-feat-InflClass.html">InflClass</a></tt> (42; 7% instances)
+`PROPN` occurs with 7 features: <tt><a href="ru_poetry-feat-NameType.html">NameType</a></tt> (589; 100% instances), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt> (530; 90% instances), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt> (530; 90% instances), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt> (530; 90% instances), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt> (530; 90% instances), <tt><a href="ru_poetry-feat-Abbr.html">Abbr</a></tt> (57; 10% instances), <tt><a href="ru_poetry-feat-InflClass.html">InflClass</a></tt> (42; 7% instances)
 
 `PROPN` occurs with 23 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `InflClass=Ind`, `NameType=Com`, `NameType=Geo`, `NameType=Giv`, `NameType=Pat`, `NameType=Pro`, `NameType=Prs`, `NameType=Sur`, `NameType=Zoo`, `Number=Plur`, `Number=Sing`
 
@@ -70,11 +70,11 @@ Examples: <em>Воронский, Гинсбург, Гитлер, Ленин, М
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 16 different relations: <tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt> (105; 18% instances), <tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt> (96; 16% instances), <tt><a href="ru_poetry-dep-flat-name.html">flat:name</a></tt> (86; 15% instances), <tt><a href="ru_poetry-dep-root.html">root</a></tt> (68; 12% instances), <tt><a href="ru_poetry-dep-obl.html">obl</a></tt> (61; 10% instances), <tt><a href="ru_poetry-dep-vocative.html">vocative</a></tt> (40; 7% instances), <tt><a href="ru_poetry-dep-conj.html">conj</a></tt> (36; 6% instances), <tt><a href="ru_poetry-dep-appos.html">appos</a></tt> (35; 6% instances), <tt><a href="ru_poetry-dep-obj.html">obj</a></tt> (26; 4% instances), <tt><a href="ru_poetry-dep-iobj.html">iobj</a></tt> (19; 3% instances), <tt><a href="ru_poetry-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="ru_poetry-dep-xcomp.html">xcomp</a></tt> (4; 1% instances), <tt><a href="ru_poetry-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ru_poetry-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="ru_poetry-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 16 different relations: <tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt> (105; 18% instances), <tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt> (97; 16% instances), <tt><a href="ru_poetry-dep-flat-name.html">flat:name</a></tt> (86; 15% instances), <tt><a href="ru_poetry-dep-root.html">root</a></tt> (68; 12% instances), <tt><a href="ru_poetry-dep-obl.html">obl</a></tt> (61; 10% instances), <tt><a href="ru_poetry-dep-vocative.html">vocative</a></tt> (40; 7% instances), <tt><a href="ru_poetry-dep-conj.html">conj</a></tt> (36; 6% instances), <tt><a href="ru_poetry-dep-appos.html">appos</a></tt> (35; 6% instances), <tt><a href="ru_poetry-dep-obj.html">obj</a></tt> (26; 4% instances), <tt><a href="ru_poetry-dep-iobj.html">iobj</a></tt> (19; 3% instances), <tt><a href="ru_poetry-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="ru_poetry-dep-xcomp.html">xcomp</a></tt> (4; 1% instances), <tt><a href="ru_poetry-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ru_poetry-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="ru_poetry-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="ru_poetry-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (210; 36% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (160; 27% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (112; 19% instances),  (68; 12% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (211; 36% instances), <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (160; 27% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (112; 19% instances),  (68; 12% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ru_poetry-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-264 (45%) `PROPN` nodes are leaves.
+265 (45%) `PROPN` nodes are leaves.
 
 189 (32%) `PROPN` nodes have one child.
 

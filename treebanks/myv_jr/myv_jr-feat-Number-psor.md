@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 982 tokens (5%) have a non-empty value of `Number[psor]`.
 638 types (10%) occur at least once with a non-empty value of `Number[psor]`.
 351 lemmas (11%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (800; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (116; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (38; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (800; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (121; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (38; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -47,9 +47,9 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 ### `ADP`
 
-116 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (25% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
+121 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (25% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (95; 82%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (87; 75%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (84; 72%).
+The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (95; 79%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (92; 76%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (89; 74%).
 
 `ADP` tokens may have the following values of `Number[psor]`:
 
@@ -86,9 +86,9 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 ### `PRON`
 
-19 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+14 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 58%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12; 86%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Javanese-CSUI: POS Tags: `ADP`
 
-There are 1 `ADP` lemmas (6%), 69 `ADP` types (2%) and 748 `ADP` tokens (5%).
-Out of 17 observed tags, the rank of `ADP` is: 2 in number of lemmas, 8 in number of types and 7 in number of tokens.
+There are 63 `ADP` lemmas (2%), 69 `ADP` types (2%) and 748 `ADP` tokens (5%).
+Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>_</em>
+The 10 most frequent `ADP` lemmas: <em>ing, sak, karo, kaya, kanthi, dening, nalika, pinangka, nganti, arang</em>
 
 The 10 most frequent `ADP` types:  <em>ing, saka, karo, kaya, kanthi, dening, nalika, minangka, nganti, marang</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 2867, <tt><a href="jv_csui-pos-PUNCT.html">PUNCT</a></tt> 2233, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1952, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1565, <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> 961, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 798, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 748, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 736, <tt><a href="jv_csui-pos-DET.html">DET</a></tt> 700, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 362, <tt><a href="jv_csui-pos-AUX.html">AUX</a></tt> 340, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 314, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 306, <tt><a href="jv_csui-pos-PART.html">PART</a></tt> 234, <tt><a href="jv_csui-pos-X.html">X</a></tt> 183, <tt><a href="jv_csui-pos-INTJ.html">INTJ</a></tt> 32, <tt><a href="jv_csui-pos-SYM.html">SYM</a></tt> 12)
+The 10 most frequent ambiguous lemmas: <em>sak</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 60, <tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> 12, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 3), <em>karo</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 40, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 5), <em>kaya</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 37, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 3, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 1), <em>kanthi</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 30, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> 1), <em>nalika</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 27, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 2), <em>pinangka</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 25, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nganti</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 24, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 15), <em>arang</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 17, <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 1), <em>anggo</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 23, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 16, <tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> 11), <em>liya</em> (<tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 16, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="jv_csui-pos-ADV.html">ADV</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>saka</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 57, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 3), <em>karo</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 40, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="jv_csui-pos-CCONJ.html">CCONJ</a></tt> 5), <em>kaya</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 35, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 24), <em>kanthi</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 27, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 7), <em>nalika</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 18), <em>minangka</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 24, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nganti</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 22, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 14), <em>kanggo</em> (<tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 28, <tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 15, <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt> 1), <em>bab</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 9, <tt><a href="jv_csui-pos-X.html">X</a></tt> 1), <em>babagan</em> (<tt><a href="jv_csui-pos-ADP.html">ADP</a></tt> 7, <tt><a href="jv_csui-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -53,9 +53,13 @@ The 10 most frequent ambiguous types:  <em>saka</em> (<tt><a href="jv_csui-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 69.000000 (the average of all parts of speech is 238.352941).
+The form / lemma ratio of `ADP` is 1.095238 (the average of all parts of speech is 1.145928).
 
-The 1st highest number of forms (69) was observed with the lemma “_”: <em>Amarga, Pas, Puput, Saderengipun, Saduninge, Sanadyan, Satekan, Sawuse, abot, aneng, awit, bab, babagan, bagya, bar, bareng, dene, dening, dugi, dumugi, endahing, ing, jroning, kados, kadosta, kagem, kajaba, kalawan, kaliyan, kangge, kanggo, kanthi, karo, katimbang, kawit, kaya, kaya-kaya, kayata, kerana, lumantar, marang, menyang, minangka, mring, nalika, neng, nganti, ngantos, ning, pisanan, sabubare, sacara, sajeroning, saka, saking, sakjroning, saksampune, saliyane, sapinggire, sasuwene, sawise, sejene, tanpa, tekan, tuking, tumrap, tumrape, watara, wiwit</em>.
+The 1st highest number of forms (2) was observed with the lemma “dugi”: <em>dugi, dumugi</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “jroning”: <em>jroning, sakjroning</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “kaya”: <em>kaya, kaya-kaya</em>.
 
 `ADP` occurs with 2 features: <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt> (622; 83% instances), <tt><a href="jv_csui-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances)
 

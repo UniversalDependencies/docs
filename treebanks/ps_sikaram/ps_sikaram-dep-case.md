@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-391 nodes (16%) are attached to their parents as `case`.
+584 nodes (14%) are attached to their parents as `case`.
 
-269 instances of `case` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49616368286445.
+396 instances of `case` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49143835616438.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (280; 72% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (52; 13% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (44; 11% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `case`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (410; 70% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (86; 15% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (61; 10% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (19; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,9 +62,9 @@ The following 6 pairs of parts of speech are connected with `case`: <tt><a href=
 2	دوی	دوی	PRON	_	Case=Loc|Deixis=Prox|Number=Plur|Person=3|PronType=Prs	7	obl	_	Translit=duy|LTranslit=duy|Gloss=they
 3	کې	کې	ADP	_	Case=Loc	2	case	_	Translit=ke|LTranslit=ke|Gloss=in
 4	هیڅوک	هیڅوک	PRON	_	Animacy=Hum|Case=Nom|PronType=Neg	7	nsubj	_	Translit=hicók|LTranslit=hicók|Gloss=nobody
-5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=not
+5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në́|LTranslit=në|Gloss=not
 6	پوهه	پوهه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	compound:lvc	_	Translit=póha|LTranslit=póha|Gloss=knowledge
-7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=keǧí|LTranslit=kedë́l|Gloss=becomes
+7	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=becomes
 8	چې	چې	SCONJ	_	_	11	mark	_	Translit=če|LTranslit=če|Gloss=that
 9	چا	څوک	PRON	_	Animacy=Hum|Case=Acc|PronType=Int	11	nsubj	_	Translit=čâ|LTranslit=cok|Gloss=who
 10	دا	دا	PRON	_	Case=Nom|Deixis=Prox|PronType=Dem	11	obj	_	Translit=dâ|LTranslit=dâ|Gloss=these

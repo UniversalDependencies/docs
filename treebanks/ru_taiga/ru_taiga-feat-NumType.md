@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Sets`.
 
-22560 tokens (1%) have a non-empty value of `NumType`.
+22559 tokens (1%) have a non-empty value of `NumType`.
 1740 types (1%) occur at least once with a non-empty value of `NumType`.
 1305 lemmas (2%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (12849; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (9711; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (12848; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (9711; 1% instances).
 
 ### `NUM`
 
-12849 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+12848 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10948; 85%), <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (9272; 72%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8705; 68%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10947; 85%), <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (9271; 72%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8704; 68%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (12069; 94% of non-empty `NumType`): <em>два, много, несколько, три, один, двух, две, 2, 1, 3</em>
+* `Card` (12068; 94% of non-empty `NumType`): <em>два, много, несколько, три, один, двух, две, 2, 1, 3</em>
 * `Frac` (193; 2% of non-empty `NumType`): <em>пол, полтора, 1,5, 0,5, 2,5, 4,5, 0,25, 1.5, 5,2, полутора</em>
 * `Sets` (587; 5% of non-empty `NumType`): <em>оба, обе, обоих, двое, трое, обеих, двоих, обеими, четверо, обеим</em>
 

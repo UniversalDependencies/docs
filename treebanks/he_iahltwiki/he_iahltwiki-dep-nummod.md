@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 nummod	color:blue
-1	נכון	נכון	ADV	ADV	_	3	case	_	_
+1	נכון	נכון	ADV	ADV	ExtPos=ADP	3	case	_	_
 2	ל	ל	ADP	ADP	_	1	fixed	_	_
 3	שנת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	6	obl	_	Entity=(TIMEX
 4	2021	2021	NUM	NUM	_	3	compound	_	Entity=TIMEX)|SpaceAfter=No

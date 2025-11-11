@@ -25,7 +25,7 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3 1 advmod	color:blue
 1	Нӧшта	нӧшта	ADV	Adv	_	3	advmod	_	_
 2	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	эштӧді	эштӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+3	эштӧді	эштӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	педучилище	педучилище	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -42,7 +42,7 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	гашке	гашкӧ	PART	Pcle	_	6	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	6	aux	_	_
+5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	бросайтчы	бросайтчыны	VERB	V	Connegative=Yes	0	root	_	OrigLang=ru
 7	в	в	ADP	Pr	_	8	case	_	Lang=ru
 8	глаза	глаз	NOUN	N	Case=Nom|Number=Plur	6	obl	_	Lang=ru|SpaceAfter=No
@@ -68,11 +68,11 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	пӧрысь	пӧрысь	ADJ	A	Case=Nom|Number=Sing	5	amod	_	_
 5	бабушка	бабушка	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	OrigLang=ru
 6	сэн	сэн	ADV	Adv	AdvType=Loc	7	advmod	_	_
-7	лоас	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	SpaceAfter=No
+7	лоас	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	_
 9	сыа	сыа	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 10	и	и	PART	Pcle	_	11	advmod	_	OrigLang=ru
-11	лоас	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	7	conj	_	SpaceAfter=No
+11	лоас	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	conj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~

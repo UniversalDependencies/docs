@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>nej</em> (<tt><a href="sv_lines-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.021277 (the average of all parts of speech is 1.415109).
+The form / lemma ratio of `INTJ` is 1.021277 (the average of all parts of speech is 1.415505).
 
 The 1st highest number of forms (2) was observed with the lemma “tack”: <em>T-tack, tack</em>.
 
@@ -54,7 +54,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ach”: <em>a
 
 `INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (155; 78% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (17; 9% instances), <tt><a href="sv_lines-dep-obj.html">obj</a></tt> (13; 7% instances), <tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt> (9; 5% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (3; 2% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (1; 1% instances)
 
-Parents of `INTJ` nodes belong to 11 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (102; 51% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (23; 12% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (20; 10% instances),  (17; 9% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (9; 5% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (6; 3% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (1; 1% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (102; 51% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (23; 12% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (20; 10% instances),  (17; 9% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (10; 5% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (6; 3% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (1; 1% instances)
 
 33 (17%) `INTJ` nodes are leaves.
 

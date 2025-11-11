@@ -66,13 +66,13 @@ The 2nd highest number of forms (1) was observed with the lemma “aunque”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “como”: <em>como</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`SCONJ` occurs with 2 features: <tt><a href="es_pud-feat-ExtPos.html">ExtPos</a></tt> (19; 7% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=SCONJ`, `Foreign=Yes`
 
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (260 tokens).
-Examples: <em>que, si, como, aunque, porque, a, mientras, de, hasta, para</em>
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (241 tokens).
+Examples: <em>que, si, aunque, como, porque, pues, a, de, desde, mientras</em>
 
 
 ## Relations

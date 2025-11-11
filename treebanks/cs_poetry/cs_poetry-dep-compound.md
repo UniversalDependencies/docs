@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 2 compound	color:blue
 1	A	a	CCONJ	J^-------------	_	4	cc	_	_
-2	málo	málo	DET	Dg-------1A----	Degree=Pos|Polarity=Pos	3	compound	_	_
+2	málo	málo	DET	Dg-------1A----	Degree=Pos|Polarity=Pos|PronType=Ind	3	compound	_	_
 3	kdo	kdo	PRON	PKM-1----------	Animacy=Anim|Case=Nom|Gender=Masc|PronType=Ind	4	nsubj	_	_
 4	měl	mít	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 5	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_

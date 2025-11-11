@@ -74,7 +74,7 @@ The following 100 pairs of parts of speech are connected with `conj`: <tt><a hre
 11	5	5	NUM	Q---------	NumForm=Digit	2	obl:arg	2:obl:arg:نَحوَ	SpaceAfter=No|Vform=٥|Translit=5
 12	ر	ر	PUNCT	G---------	_	13	punct	13:punct	SpaceAfter=No|Vform=ر|Gloss=(_numeric_comma_)|Root=r|Translit=r|LTranslit=r
 13	17	17	NUM	Q---------	NumForm=Digit	11	conj	2:obl:arg:نَحوَ|11:conj	Vform=١٧|Translit=17
-14	مليون	مِليُون	NUM	QM-----S2R	Case=Gen|Definite=Cons|Number=Sing|NumForm=Word	11	nummod	11:nummod|13:nummod	Vform=مِليُونِ|Gloss=million|Root=m l y n|Translit=milyūni|LTranslit=milyūn
+14	مليون	مِليُون	NUM	QM-----S2R	Case=Gen|Definite=Cons|Number=Sing|NumForm=Word	11	nmod	11:nmod:gen|13:nmod:gen	Vform=مِليُونِ|Gloss=million|Root=m l y n|Translit=milyūni|LTranslit=milyūn
 15	دولار	دُولَار	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	14	nmod	14:nmod:gen	SpaceAfter=No|Vform=دُولَارٍ|Gloss=dollar|Root=dUlAr|Translit=dūlārin|LTranslit=dūlār
 16	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 

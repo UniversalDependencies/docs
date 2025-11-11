@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 17	thengammaganan	thengam	VERB	SIM.CVB	Aspect=Prog|Polarity=Neg|VerbForm=Conv	20	advcl	20:advcl	_
 18	miszu	miszu	NOUN	_	Number=Sing	20	obl	20:obl	_
 19	phangenahn	phange	NUM	_	Case=Loc|NumForm=Word|NumType=Card	18	nummod	18:nummod	_
-20	thunge	thunge	VERB	_	_	12	conj	12:conj	_
+20	thunge	thunge	VERB	_	VerbForm=Inf	12	conj	12:conj	_
 21	ga	ga	AUX	_	Evident=Nfh	20	aux	20:aux	SpaceAfter=No
 22	.	.	PUNCT	_	_	12	punct	12:punct	_
 

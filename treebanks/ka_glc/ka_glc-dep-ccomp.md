@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-254 nodes (0%) are attached to their parents as `ccomp`.
+253 nodes (0%) are attached to their parents as `ccomp`.
 
-254 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.47637795275591.
+253 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.48221343873518.
 
-The following 16 pairs of parts of speech are connected with `ccomp`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (145; 57% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (26; 10% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (24; 9% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (17; 7% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (13; 5% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (155; 61% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (21; 8% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (19; 8% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (18; 7% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (15; 6% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,9 +24,9 @@ The following 16 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3 5 ccomp	color:blue
 1	თქვენ	თქვენ	PRON	Pron	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Translit=tʻkʻven
 2	ალბათ	ალბათ	PART	Part	PartType=Int	3	advmod	_	Translit=albatʻ
-3	გაინტერესებთ	აინტერესებს	VERB	Verb	Aspect=Imp|Mood=Ind|Person[io]=2|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	Translit=gainteresebtʻ
+3	გაინტერესებთ	აინტერესებს	VERB	Verb	Aspect=Imp|Mood=Ind|Person[io]=2|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=gainteresebtʻ
 4	რას	რა	PRON	Pron	Case=Dat|Number=Sing|PronType=Int	3	obj	_	Translit=ras
-5	მეძახიან	იძახის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	3	ccomp	_	SpaceAfter=No|Translit=meżaxian
+5	მეძახიან	იძახის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No|Translit=meżaxian
 6	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
 
 ~~~
@@ -38,7 +38,7 @@ The following 16 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 ccomp	color:blue
-1	ამბობენ	ამბობს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No|Translit=amboben
+1	ამბობენ	ამბობს	VERB	Verb	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=amboben
 2	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
 3	საინტერესო	საინტერესო	ADJ	Adj	Case=Erg|Number=Sing	1	ccomp	_	Translit=saintereso
 4	რამ	რა	PRON	Pron	Case=Erg|Number=Sing|PronType=Int	3	nsubj	_	Translit=ram
@@ -58,21 +58,22 @@ The following 16 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 ccomp	color:blue
-1	არ	არ	PART	Part	PartType=Neg	3	advmod	_	Translit=ar
-2	არის	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	cop	_	Translit=aris
-3	აუცილებელი	აუცილებელი	ADJ	Adj	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=aucʻilebeli
-4	,	,	PUNCT	F	PunctType=Comm	7	punct	_	Translit=,
-5	რომ	რომ	SCONJ	Conj	_	7	mark	_	Translit=rom
-6	სიმბოლო	სიმბოლო	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=simbolo
-7	ჰგავდეს	ჰგავს	VERB	Verb	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres	3	ccomp	_	Translit=hgavdes
-8	თავის	თავისი	PRON	Pron	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	Translit=tʻavis
-9	მნიშვნელობას	მნიშვნელობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=mnišvnelobas
-10	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 10 ccomp	color:blue
+1	თავდაპირველად	თავდაპირვლად	ADV	Adv	AdvType=Tim	2	advmod	_	Translit=tʻavdapirvelad
+2	ითვლებოდა	ითვლება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	Translit=itʻvleboda
+3	რომ	რომ	SCONJ	Conj	_	9	mark	_	SpaceAfter=No|Translit=rom
+4	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
+5	ელექტროობა	ელექტროობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	Translit=elekʻtrooba
+6	და	და	CCONJ	Conj	_	7	cc	_	Translit=da
+7	მაგნეტიზმი	მაგნეტიზმი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	conj	_	Translit=magnetizmi
+8	იყო	არის	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	9	cop	_	Translit=iqo
+9	განსხვავებული	განსხვავებული	VERB	VerbalAdj	Case=Nom|Mood=Ind|Number=Sing|VerbForm=Part	10	amod	_	Translit=gansxvavebuli
+10	ძალები	ძალა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	2	ccomp	_	SpaceAfter=No|Translit=żalebi
+11	.	.	PUNCT	F	PunctType=Peri	2	punct	_	Translit=.
 
 ~~~
 

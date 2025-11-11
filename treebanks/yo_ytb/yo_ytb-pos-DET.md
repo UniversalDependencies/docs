@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yoruba-YTB: POS Tags: `DET`
 
-There are 21 `DET` lemmas (1%), 21 `DET` types (1%) and 279 `DET` tokens (3%).
+There are 20 `DET` lemmas (1%), 20 `DET` types (1%) and 278 `DET` tokens (3%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Imo</em>
+The 10 most frequent `DET` lemmas: <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, bákanáà, kọn</em>
 
-The 10 most frequent `DET` types:  <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Imo</em>
+The 10 most frequent `DET` types:  <em>àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Orísìírísìí</em>
 
 The 10 most frequent ambiguous lemmas: <em>àwọn</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 127, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 12), <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 39, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>o</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 6, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1), <em>lo</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>à</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1), <em>èyí</em> (<tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -38,37 +38,37 @@ The 10 most frequent ambiguous types:  <em>àwọn</em> (<tt><a href="yo_ytb-pos
   * <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1: <em>Ṣùgbọ́n mo wí fún yín pé , ẹnikẹ́ni tí ó bá wo obìrinrin kan ní ìwòkuwò , ti bà a ṣe panṣágà <b>ná</b> ní ọkàn rẹ̀ .</em>
   * <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1: <em>Ẹni tí ojú rẹ̀ sì ti rí ọ̀pọ̀lọpọ̀ ìpọ́njú lọ́dọ̀ ọ̀pọ̀ àwọn oníṣègùn , tí ó sì ti <b>ná</b> gbogbo ohun tí ó ní , síbẹ̀ kàkà kí ó san , ó ń burú sí i .</em>
 * <em>èyí</em>
-  * <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15: <em>Genevieve " , <b>èyí</b> tó ún ṣọrẹ ìdámẹ́ẹ̀wá èrè rẹ̀ .</em>
+  * <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 15: <em>Ó tún ṣe ìpolówó ọjà bíi méèló kan nínú <b>èyí</b> tó jẹ́ fún Pronto àti ọṣẹ ìfọsọ Omo .</em>
   * <tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 1: <em>Nígbà tí ó sì gburo iṣẹ́ ìyanu tí Jésù ṣe , ìdí ni <b>èyí</b> tí ó fi wá sẹ́yìn rẹ̀ , láàrin ọ̀pọ̀ ènìyàn , ó sì fi ọwọ́ kan aṣọ rẹ̀ .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.007344).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.007366).
 
 The 1st highest number of forms (2) was observed with the lemma “náà”: <em>ná, náà</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Bákanáà”: <em>Bákanáà</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Oríṣìíríṣìí”: <em>Oríṣìíríṣìí</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Imo”: <em>Imo</em>.
+The 3rd highest number of forms (1) was observed with the lemma “bákanáà”: <em>Bákanáà</em>.
 
 `DET` occurs with 3 features: <tt><a href="yo_ytb-feat-Number.html">Number</a></tt> (120; 43% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (120; 43% instances), <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `DET` occurs with 3 feature-value pairs: `Number=Plur`, `PronType=Dem`, `Typo=Yes`
 
 `DET` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (158 tokens).
-Examples: <em>yìí, náà, gbogbo, Àwọn, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Imo</em>
+The most frequent feature combination is `_` (157 tokens).
+Examples: <em>yìí, náà, gbogbo, Àwọn, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, Bákanáà, Orísìírísìí</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 7 different relations: <tt><a href="yo_ytb-dep-det.html">det</a></tt> (269; 96% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="yo_ytb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 7 different relations: <tt><a href="yo_ytb-dep-det.html">det</a></tt> (269; 97% instances), <tt><a href="yo_ytb-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="yo_ytb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="yo_ytb-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (221; 79% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (19; 7% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (15; 5% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (12; 4% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (220; 79% instances), <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (18; 6% instances), <tt><a href="yo_ytb-pos-PROPN.html">PROPN</a></tt> (15; 5% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (13; 5% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="yo_ytb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-262 (94%) `DET` nodes are leaves.
+264 (95%) `DET` nodes are leaves.
 
-14 (5%) `DET` nodes have one child.
+11 (4%) `DET` nodes have one child.
 
 1 (0%) `DET` nodes have two children.
 
@@ -76,7 +76,7 @@ Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="yo_yt
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 11 different relations: <tt><a href="yo_ytb-dep-case.html">case</a></tt> (5; 23% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (3; 14% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (3; 14% instances), <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (2; 9% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (2; 9% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (2; 9% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-xcomp.html">xcomp</a></tt> (1; 5% instances)
+Children of `DET` nodes are attached using 10 different relations: <tt><a href="yo_ytb-dep-case.html">case</a></tt> (5; 26% instances), <tt><a href="yo_ytb-dep-conj.html">conj</a></tt> (3; 16% instances), <tt><a href="yo_ytb-dep-fixed.html">fixed</a></tt> (3; 16% instances), <tt><a href="yo_ytb-dep-punct.html">punct</a></tt> (2; 11% instances), <tt><a href="yo_ytb-dep-acl.html">acl</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-amod.html">amod</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-compound-svc.html">compound:svc</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-nsubj.html">nsubj</a></tt> (1; 5% instances), <tt><a href="yo_ytb-dep-obj.html">obj</a></tt> (1; 5% instances)
 
-Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (6; 27% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (5; 23% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (3; 14% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (2; 9% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 9% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (2; 9% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances)
+Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> (5; 26% instances), <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> (4; 21% instances), <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> (3; 16% instances), <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> (2; 11% instances), <tt><a href="yo_ytb-pos-PUNCT.html">PUNCT</a></tt> (2; 11% instances), <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> (1; 5% instances)
 

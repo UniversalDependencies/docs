@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-4066 tokens (9%) have a non-empty value of `Mood`.
-710 types (16%) occur at least once with a non-empty value of `Mood`.
+4067 tokens (9%) have a non-empty value of `Mood`.
+711 types (16%) occur at least once with a non-empty value of `Mood`.
 351 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (2543; 6% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1523; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (2518; 6% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1549; 4% instances).
 
 ### `VERB`
 
-2543 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
+2518 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2543; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2543; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2192; 86%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1938; 76%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (1545; 61%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2518; 100%), <tt><a href="fr_rhapsodie-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2518; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2168; 86%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1912; 76%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (1520; 60%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (71; 3% of non-empty `Mood`): <em>pourrait, faudrait, dirais, voudrais, aimerais, devrait, pourrais, remarquerait, serait, devraient</em>
-* `Imp` (63; 2% of non-empty `Mood`): <em>disons, continuez, attendez, bougez, gardons, mettez, regardez, traversez, écoute, écoutez</em>
-* `Ind` (2372; 93% of non-empty `Mood`): <em>a, est, va, faut, ai, allez, peut, avait, crois, sais</em>
-* `Sub` (37; 1% of non-empty `Mood`): <em>ait, soit, dise, puisse, puissent, acceptent, achètent, aie, aille, arrive</em>
-* `EMPTY` (1674): <em>dire, voilà, faire, dit, fait, avoir, aller, eu, voir, passer</em>
+* `Imp` (63; 3% of non-empty `Mood`): <em>disons, continuez, attendez, bougez, gardons, mettez, regardez, traversez, écoute, écoutez</em>
+* `Ind` (2349; 93% of non-empty `Mood`): <em>a, est, va, faut, ai, allez, peut, avait, crois, sais</em>
+* `Sub` (35; 1% of non-empty `Mood`): <em>ait, soit, dise, puisse, puissent, acceptent, achètent, aie, aille, arrive</em>
+* `EMPTY` (1631): <em>dire, voilà, faire, dit, fait, avoir, aller, eu, voir, passer</em>
 
 <table>
   <tr><th>Paradigm <i>aller</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -47,16 +47,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-1523 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
+1549 <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1523; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1339; 88%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1287; 85%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (1216; 80%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1549; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1364; 88%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1313; 85%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (1242; 80%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (18; 1% of non-empty `Mood`): <em>aurais, aurait, serais, serait, auraient</em>
 * `Imp` (1; 0% of non-empty `Mood`): <em>sois</em>
-* `Ind` (1483; 97% of non-empty `Mood`): <em>est, a, ai, était, sont, suis, ont, avez, êtes, avait</em>
-* `Sub` (21; 1% of non-empty `Mood`): <em>soit, soient, ait, ayez, sois, soyez</em>
+* `Ind` (1507; 97% of non-empty `Mood`): <em>est, a, ai, était, sont, suis, ont, avez, êtes, avait</em>
+* `Sub` (23; 1% of non-empty `Mood`): <em>soit, soient, ait, ayez, sois, soyez</em>
 * `EMPTY` (117): <em>être, été, faire, avoir, fait, ayant, faisant, étant</em>
 
 <table>
@@ -85,9 +85,9 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (87; 67%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (87; 76%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> VERB</tt> (53; 70%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (13; 65%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (12; 71%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (7; 70%),
 <tt>AUX --[<tt><a href="fr_rhapsodie-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (5; 83%),
 <tt>AUX --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (5; 100%),

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 
-15867 tokens (32%) have a non-empty value of `Number`.
-3755 types (55%) occur at least once with a non-empty value of `Number`.
-2747 lemmas (49%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (10509; 21% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (1530; 3% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1317; 3% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1246; 3% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1238; 2% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (27; 0% instances).
+15926 tokens (32%) have a non-empty value of `Number`.
+3791 types (55%) occur at least once with a non-empty value of `Number`.
+2762 lemmas (50%) occur at least once with a non-empty value of `Number`.
+The feature is used with 6 part-of-speech tags: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (10513; 21% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (1530; 3% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1317; 3% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1246; 3% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1238; 3% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (82; 0% instances).
 
 ### `NOUN`
 
-10509 <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+10513 <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (2902; 28% of non-empty `Number`): <em>countries, people, states, plays, years, rights, terms, measures, requirements, works</em>
-* `Ptan` (2; 0% of non-empty `Number`): <em>means</em>
-* `Sing` (7605; 72% of non-empty `Number`): <em>work, Commission, time, Parliament, President, member, Mr, license, growth, Directive</em>
-* `EMPTY` (62): <em>No, design, gas, greenhouse, manufacturing, European, Measure, information, living, performance</em>
+* `Plur` (2933; 28% of non-empty `Number`): <em>countries, people, states, years, plays, rights, terms, measures, requirements, works</em>
+* `Ptan` (28; 0% of non-empty `Number`): <em>means, savings, thanks, 1590s, 1950s, 1990's, Mid-1590s, late-1990's, specifics, supplies</em>
+* `Sing` (7552; 72% of non-empty `Number`): <em>work, Commission, time, Parliament, President, member, Mr, license, growth, Directive</em>
+* `EMPTY` (59): <em>No, design, gas, greenhouse, manufacturing, Measure, information, living, performance, Ado</em>
 
 <table>
   <tr><th>Paradigm <i>work</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -40,7 +40,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (103; 7% of non-empty `Number`): <em>these, those, Many, les</em>
 * `Sing` (1427; 93% of non-empty `Number`): <em>a, this, an, its, my, that, each, another, every, one</em>
-* `EMPTY` (3784): <em>the, his, their, any, our, no, all, such, your, some</em>
+* `EMPTY` (3786): <em>the, his, their, any, all, our, no, such, your, some</em>
 
 <table>
   <tr><th>Paradigm <i>this</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -57,7 +57,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (453; 34% of non-empty `Number`): <em>we, they, them, those, us, others, these, Many, ourselves, themselves</em>
 * `Sing` (864; 66% of non-empty `Number`): <em>it, I, he, this, him, everyone, one, that, what, she</em>
-* `EMPTY` (730): <em>which, that, you, there, who, all, some, what, his, her</em>
+* `EMPTY` (725): <em>which, that, you, there, who, all, some, what, his, her</em>
 
 <table>
   <tr><th>Paradigm <i>that</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -114,24 +114,32 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-27 <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Number`.
+82 <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Sing` (27; 100% of non-empty `Number`): <em>South, Korea</em>
-* `EMPTY` (2199): <em>Shakespeare, Balzac, Pericles, Facebook, Ukraine, Europe, US, China, EU, De</em>
+* `Plur` (12; 15% of non-empty `Number`): <em>Commons, Catholics, Funds</em>
+* `Sing` (70; 85% of non-empty `Number`): <em>South, Korea, 92/42/EEC, Commons, War, World, 2000/55/EC, 78/170/EEC, 94/55/EC, 96/57/EC</em>
+* `EMPTY` (2148): <em>Shakespeare, Balzac, Pericles, Facebook, Ukraine, Europe, US, China, EU, De</em>
+
+<table>
+  <tr><th>Paradigm <i>Commons</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Commons</em></td><td><em>Commons</em></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `PROPN`. 94% lemmas (30) occur only with one value of `Number`.
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1935; 60%),
-<tt>NOUN --[<tt><a href="en_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (692; 80%),
-<tt>NOUN --[<tt><a href="en_partut-dep-cop.html">cop</a></tt>]--> AUX</tt> (230; 75%),
+<tt>NOUN --[<tt><a href="en_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1784; 59%),
+<tt>NOUN --[<tt><a href="en_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (693; 80%),
+<tt>NOUN --[<tt><a href="en_partut-dep-cop.html">cop</a></tt>]--> AUX</tt> (229; 75%),
+<tt>NOUN --[<tt><a href="en_partut-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (109; 67%),
 <tt>NOUN --[<tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (98; 81%),
-<tt>NOUN --[<tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (76; 64%),
+<tt>NOUN --[<tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (75; 63%),
 <tt>NOUN --[<tt><a href="en_partut-dep-nmod-desc.html">nmod:desc</a></tt>]--> NOUN</tt> (45; 100%),
-<tt>NOUN --[<tt><a href="en_partut-dep-appos.html">appos</a></tt>]--> NOUN</tt> (29; 73%),
-<tt>NOUN --[<tt><a href="en_partut-dep-obj.html">obj</a></tt>]--> NOUN</tt> (18; 90%),
-<tt>PROPN --[<tt><a href="en_partut-dep-compound.html">compound</a></tt>]--> PROPN</tt> (12; 100%),
-<tt>NOUN --[<tt><a href="en_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> NOUN</tt> (8; 53%).
+<tt>NOUN --[<tt><a href="en_partut-dep-appos.html">appos</a></tt>]--> NOUN</tt> (28; 68%),
+<tt>NOUN --[<tt><a href="en_partut-dep-flat.html">flat</a></tt>]--> PROPN</tt> (21; 68%),
+<tt>NOUN --[<tt><a href="en_partut-dep-obj.html">obj</a></tt>]--> NOUN</tt> (18; 90%).
 

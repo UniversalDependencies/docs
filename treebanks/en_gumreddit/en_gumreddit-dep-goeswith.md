@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 23 goeswith	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=elaboration-additional:70->1:8:syn-relcl-425|Entity=(75-person-acc:com-s____-cf1-1-sgl)|Lem=_|Len=1
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=elaboration-additional:70->1:8:syn-relcl-425-_|Entity=(75-person-acc:com-s____-cf1-1-sgl)|Lem=_|Len=1
 2	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=5
 3	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Entity=(76-animal-new-nsnnn-cf2-1-cata)|Lem=_|Len=2
 4	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Lem=be|Len=2
@@ -33,11 +33,11 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	_	_	ADP	IN	_	11	case	11:case	Lem=_|Len=2
 10	_	_	ADJ	JJ	Degree=Pos	11	amod	11:amod	Entity=(78-time-new-nnnnn-cf5-2-sgl|Lem=_|Len=7
 11	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:at	Entity=78)|Lem=time|Len=5|MSeg=time-s
-12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:71->70:0:dm-and-431|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:431:420-430:432-434;Implicit:Temporal.Asynchronous.Precedence:then:_:420-430:431-434
+12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:71->70:0:dm-and-431-gold|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:431:420-430:432-434;Implicit:Temporal.Asynchronous.Precedence:then:_:420-430:431-434
 13	_	_	VERB	VB	VerbForm=Inf	8	conj	5:advcl:relcl|8:conj:and	Lem=_|Len=6
 14	_	_	ADP	IN	_	15	case	15:case	Lem=_|Len=3
 15	_	_	NOUN	NNS	Number=Plur	13	obl	13:obl:for	Entity=(79-event-new-nnnnn-cf6-1-sgl)76)|Lem=response|Len=9|MSeg=respon-se-s
-16	_	_	PART	TO	_	17	mark	17:mark	Discourse=purpose-goal:72->70:1:syn-inf-435|Lem=_|Len=2|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:420-434:435-443
+16	_	_	PART	TO	_	17	mark	17:mark	Discourse=purpose-goal:72->70:1:syn-inf-435-_|Lem=_|Len=2|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:420-434:435-443
 17	_	_	VERB	VB	VerbForm=Inf	13	advcl	13:advcl:to	Lem=_|Len=6
 18	_	_	SCONJ	IN	_	22	mark	22:mark	Lem=_|Len=2
 19	_	_	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	Entity=(80-place-new-nnnnn-cf3-2-sgl|Lem=a|Len=2
@@ -56,24 +56,24 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 16 goeswith	color:blue
-1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=context-circumstance:2->4:1:_|Entity=(2-person-new-nnnnn-cf1-2,4-coref(3-person-new-nnnnn-cf4-2-sgl(4-person-acc:com-snssn-cf2-1-ana)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=context-circumstance:2->4:1:_|Entity=(2-person-new-nnsns-cf1-2,4-coref(3-person-new-nnnnn-cf4-2-sgl(4-person-acc:com-snnsn-cf2-1-ana)|Lem=*LOWER*|Len=2
 2	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=4
 3	_	_	CCONJ	CC	_	4	cc	4:cc	Lem=_|Len=3
-4	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	2:conj:and|7:nsubj	Entity=(4-person-giv:act-snssn-cf2-1-ana)2)|Lem=_|Len=1
+4	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	conj	2:conj:and|7:nsubj	Entity=(4-person-giv:act-snnsn-cf2-1-ana)2)|Lem=_|Len=1
 5	_	_	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	Lem=be|Len=4
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
-7	_	_	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(5-place-new-nsnns-cf7-1-coref-Panera_Bread)|Lem=_|Len=6
-8	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	7:advcl	Discourse=elaboration-additional:3->2:0:syn-pres-15|Lem=eat|Len=6|MSeg=eat-ing|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:specifically:_:8-14:15-16
+7	_	_	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(5-place-new-nssns-cf7-1-coref-Panera_Bread)|Lem=_|Len=6
+8	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	7:advcl	Discourse=elaboration-additional:3->2:0:syn-pres-15-_|Lem=eat|Len=6|MSeg=eat-ing|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:specifically:_:8-14:15-16
 9	_	_	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=(6-object-new-nnnnn-cf6-1-sgl)|Lem=_|Len=9|MSeg=break-fast
-10	_	_	CCONJ	CC	_	12	cc	12:cc	Discourse=context-background:4->6:1:ref-prs-8-11,32+ref-prs-20-24,38;joint-list:4->2:1:1:orp-and-17|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:17:8-16:18-31
-11	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	Entity=(2-person-giv:act-n____-cf1-1-ana)|Lem=_|Len=2
+10	_	_	CCONJ	CC	_	12	cc	12:cc	Discourse=context-background:4->6:1:ref-prs-8-11,32-_+ref-prs-20-24,38-_;joint-list:4->2:1:1:orp-and-17-gold|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:17:8-16:18-31
+11	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	Entity=(2-person-giv:act-nnsns-cf1-1-ana)|Lem=_|Len=2
 12	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	conj	7:conj:and	Lem=notice|Len=7|MSeg=notic-ed
 13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Entity=(7-person-new-sssss-cf5-2-coref|Lem=_|Len=1
 14	_	_	NOUN	NN	Number=Sing	12	obj	12:obj	Lem=_|Len=4
 15	_	_	ADP	GW	Typo=Yes	17	case	17:case	CorrectForm=behind|Lem=behind|Len=2|XML=<sic ana:::"behind">
 16	_	_	X	IN	_	15	goeswith	15:goeswith	CorrectForm=_|Lem=_|Len=4|XML=</sic>
-17	_	_	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	nmod	14:nmod:behind	Entity=(2-person-giv:act-n____-cf1-1-ana)7)|Lem=we|Len=2
-18	_	_	VERB	VBG	VerbForm=Ger	14	acl	14:acl	Discourse=elaboration-attribute:5->4:0:syn-mdf-21+syn-nmn-25|Lem=talk|Len=7|MSeg=talk-ing
+17	_	_	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	nmod	14:nmod:behind	Entity=(2-person-giv:act-nnsns-cf1-1-ana)7)|Lem=we|Len=2
+18	_	_	VERB	VBG	VerbForm=Ger	14	acl	14:acl	Discourse=elaboration-attribute:5->4:0:syn-mdf-21-_+syn-nmn-25-_|Lem=talk|Len=7|MSeg=talk-ing
 19	_	_	ADP	IN	_	21	case	21:case	Lem=_|Len=2
 20	_	_	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Bridge=7<8|Entity=(8-object-acc:inf-snnnn-cf3-2-sgl|Lem=_|Len=3
 21	_	_	NOUN	NN	Number=Sing	18	obl	18:obl:on	Entity=8)|Lem=_|Len=5

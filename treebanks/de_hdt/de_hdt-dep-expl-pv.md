@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="de_hdt-dep-expl.html">expl</a></tt>.
 
-10469 nodes (0%) are attached to their parents as `expl:pv`.
+10544 nodes (0%) are attached to their parents as `expl:pv`.
 
-6275 instances of `expl:pv` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.88814595472347.
+6313 instances of `expl:pv` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.87955235204856.
 
-The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (10450; 100% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (10525; 100% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

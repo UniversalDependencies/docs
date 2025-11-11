@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	alle	alle	DET	DT	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	6	det	_	_
 5	unerwünschten	unerwünscht	ADJ	JJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	InflectionType=Weak
 6	Meinungsäußerungen	Meinungsäußerung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
-7	aus	aus	VERB	DC	_	3	compound:prt	_	SpaceAfter=No
+7	aus	aus	ADP	DC	_	3	compound:prt	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	20	punct	_	_
 9	eine	ein	DET	DT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	10	det	_	_
 10	Teilnahme	Teilnahme	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_

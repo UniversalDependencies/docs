@@ -11,9 +11,9 @@ This relation is universal.
 8418 nodes (5%) are attached to their parents as `root`.
 
 8418 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.5032074126871.
+Average distance between parent and child is 7.50392017106201.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (6701; 80% instances), -<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (883; 10% instances), -<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (512; 6% instances), -<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (116; 1% instances), -<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (82; 1% instances), -<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (47; 1% instances), -<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (47; 1% instances), -<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (20; 0% instances), -<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (6697; 80% instances), -<tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (881; 10% instances), -<tt><a href="pt_porttinari-pos-ADJ.html">ADJ</a></tt> (514; 6% instances), -<tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (107; 1% instances), -<tt><a href="pt_porttinari-pos-PROPN.html">PROPN</a></tt> (82; 1% instances), -<tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (57; 1% instances), -<tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (47; 1% instances), -<tt><a href="pt_porttinari-pos-SYM.html">SYM</a></tt> (20; 0% instances), -<tt><a href="pt_porttinari-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="pt_porttinari-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="pt_porttinari-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

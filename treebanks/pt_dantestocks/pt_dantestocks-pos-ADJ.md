@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>diário</em> (<tt><a href="pt_dantest
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.411877 (the average of all parts of speech is 1.238183).
+The form / lemma ratio of `ADJ` is 1.411877 (the average of all parts of speech is 1.238049).
 
 The 1st highest number of forms (10) was observed with the lemma “último”: <em>Ultimo, ult, ultima, ultimos, últ, últ., última, últimas, último, últimos</em>.
 

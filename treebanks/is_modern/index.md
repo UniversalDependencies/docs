@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Kristján Rúnarsson, Þórunn Arnardóttir, Hinrik Hafsteinsson, Starkaður Barkarson, Hildur Jónsdóttir, Steinþór Steingrímsson, Einar Freyr Sigurðsson.
 
 Repository: [UD_Icelandic-Modern](https://github.com/UniversalDependencies/UD_Icelandic-Modern)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -534,7 +534,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
   <li>Ind
     <ul>
       <li>ADP-Fin: á</li>
-      <li>ADV: varðar, kunna, líkar, lýtur, tekur, verður, viðkemur</li>
+      <li>ADV: varðar, kunna, líkar, lýtur, tekur, verður</li>
       <li>ADV-Fin: lýtur</li>
       <li>AUX: er, var, eru, hefur, hafa, erum, vil, voru, hef, má</li>
       <li>AUX-Fin: er, var, eru, hefur, hafa, erum, vil, voru, hef, má</li>
@@ -581,7 +581,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
   <li>Pres
     <ul>
       <li>ADP-Fin: á</li>
-      <li>ADV: varðar, kunna, líkar, lýtur, tekur, telji, verður, viðkemur</li>
+      <li>ADV: varðar, kunna, líkar, lýtur, tekur, telji, verður</li>
       <li>ADV-Fin: lýtur</li>
       <li>AUX: er, eru, sé, hefur, hafi, hafa, erum, vil, hef, má</li>
       <li>AUX-Fin: er, eru, sé, hefur, hafi, hafa, erum, vil, hef, má</li>
@@ -790,17 +790,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Nom (18)</li>
       <li>VERB--PRON-Acc (1)</li>
-      <li>VERB--PRON-Nom (22)</li>
+      <li>VERB--PRON-Nom (24)</li>
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Acc (22)</li>
       <li>VERB-Fin--NOUN-Dat (42)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (965)</li>
+      <li>VERB-Fin--NOUN-Nom (968)</li>
       <li>VERB-Fin--PRON (47)</li>
       <li>VERB-Fin--PRON-Acc (74)</li>
       <li>VERB-Fin--PRON-Dat (155)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
-      <li>VERB-Fin--PRON-Nom (1831)</li>
+      <li>VERB-Fin--PRON-Nom (1847)</li>
       <li>VERB-Inf--NOUN-Acc (22)</li>
       <li>VERB-Inf--NOUN-Dat (3)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
@@ -808,7 +808,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (5)</li>
       <li>VERB-Inf--PRON-Acc (9)</li>
       <li>VERB-Inf--PRON-Dat (3)</li>
-      <li>VERB-Inf--PRON-Nom (282)</li>
+      <li>VERB-Inf--PRON-Nom (284)</li>
       <li>VERB-Part--NOUN-Acc (9)</li>
       <li>VERB-Part--NOUN-Dat (30)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
@@ -833,30 +833,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Acc (7)</li>
-      <li>VERB--NOUN-Dat (1)</li>
+      <li>VERB--NOUN-Dat (2)</li>
       <li>VERB--NOUN-Nom (3)</li>
       <li>VERB--PRON-Acc (2)</li>
       <li>VERB--PRON-Dat (3)</li>
-      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (620)</li>
-      <li>VERB-Fin--NOUN-Dat (132)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(á) (1)</li>
+      <li>VERB-Fin--NOUN-Dat (131)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(í) (1)</li>
       <li>VERB-Fin--NOUN-Gen (14)</li>
-      <li>VERB-Fin--NOUN-Nom (61)</li>
+      <li>VERB-Fin--NOUN-Nom (58)</li>
       <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (171)</li>
+      <li>VERB-Fin--PRON-Acc (170)</li>
       <li>VERB-Fin--PRON-Dat (73)</li>
       <li>VERB-Fin--PRON-Gen (7)</li>
-      <li>VERB-Fin--PRON-Nom (84)</li>
-      <li>VERB-Inf--NOUN-Acc (644)</li>
+      <li>VERB-Fin--PRON-Nom (67)</li>
+      <li>VERB-Inf--NOUN-Acc (642)</li>
       <li>VERB-Inf--NOUN-Dat (164)</li>
       <li>VERB-Inf--NOUN-Gen (28)</li>
       <li>VERB-Inf--NOUN-Nom (27)</li>
-      <li>VERB-Inf--PRON-Acc (167)</li>
+      <li>VERB-Inf--PRON-Acc (166)</li>
       <li>VERB-Inf--PRON-Dat (66)</li>
       <li>VERB-Inf--PRON-Gen (5)</li>
-      <li>VERB-Inf--PRON-Nom (29)</li>
+      <li>VERB-Inf--PRON-Nom (26)</li>
       <li>VERB-Part--NOUN-Acc (62)</li>
       <li>VERB-Part--NOUN-Dat (6)</li>
       <li>VERB-Part--NOUN-Dat-ADP(með) (1)</li>
@@ -864,13 +863,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (6)</li>
       <li>VERB-Part--PRON-Nom (10)</li>
       <li>VERB-Sup--NOUN (1)</li>
-      <li>VERB-Sup--NOUN-Acc (120)</li>
-      <li>VERB-Sup--NOUN-Dat (28)</li>
+      <li>VERB-Sup--NOUN-Acc (121)</li>
+      <li>VERB-Sup--NOUN-Dat (27)</li>
       <li>VERB-Sup--NOUN-Gen (6)</li>
       <li>VERB-Sup--NOUN-Nom (2)</li>
       <li>VERB-Sup--PRON (1)</li>
       <li>VERB-Sup--PRON-Acc (57)</li>
-      <li>VERB-Sup--PRON-Dat (23)</li>
+      <li>VERB-Sup--PRON-Dat (24)</li>
       <li>VERB-Sup--PRON-Gen (3)</li>
       <li>VERB-Sup--PRON-Nom (10)</li>
     </ul>

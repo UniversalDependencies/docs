@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-11287 tokens (20%) have a non-empty value of `VerbForm`.
-4997 types (42%) occur at least once with a non-empty value of `VerbForm`.
+11291 tokens (20%) have a non-empty value of `VerbForm`.
+4998 types (42%) occur at least once with a non-empty value of `VerbForm`.
 1696 lemmas (30%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8230; 15% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2200; 4% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (341; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (171; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (113; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (99; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (97; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (36; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8234; 15% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2200; 4% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (341; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (171; 0% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (113; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (99; 0% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (97; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (36; 0% instances).
 
 ### `VERB`
 
-8230 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+8234 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5912; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5907; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5907; 72%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5881; 71%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5220; 63%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4978; 60%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5913; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5908; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5908; 72%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5883; 71%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5222; 63%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4979; 60%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (4799; 58% of non-empty `VerbForm`): <em>potest, patet, habet, dicimus, videtur, dicit, dico, oportet, dicitur, dicunt</em>
-* `Inf` (1108; 13% of non-empty `VerbForm`): <em>habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</em>
-* `Part` (2323; 28% of non-empty `VerbForm`): <em>consequens, dictum, sciendum, existente, dicendum, converso, dicens, dicta, existens, factum</em>
+* `Inf` (1109; 13% of non-empty `VerbForm`): <em>habere, facere, fieri, dici, posse, dicere, solvere, uti, velle, reduci</em>
+* `Part` (2326; 28% of non-empty `VerbForm`): <em>consequens, dictum, sciendum, existente, dicendum, converso, dicens, dicta, existens, factum</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -165,7 +165,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 * `Inf` (2; 1% of non-empty `VerbForm`): <em>Ducatus, actu</em>
 * `Part` (339; 99% of non-empty `VerbForm`): <em>natura, nature, naturam, subiectum, peccatum, figura, gentium, gentes, coniunx, figuram</em>
-* `EMPTY` (9804): <em>Dei, Deus, terra, parte, mundi, genus, re, ratio, Deo, iure</em>
+* `EMPTY` (9803): <em>Dei, Deus, terra, parte, mundi, genus, re, ratio, Deo, iure</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (56) occur only with one value of `VerbForm`.
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Part` (171; 100% of non-empty `VerbForm`): <em>sufficienter, inmediate, sursum, deorsum, recte, prorsus, merito, secundo, subito, absolute</em>
-* `EMPTY` (2911): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
+* `EMPTY` (2914): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (62) occur only with one value of `VerbForm`.
 
@@ -198,7 +198,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADP` tokens may have the following values of `VerbForm`:
 
 * `Part` (99; 100% of non-empty `VerbForm`): <em>secundum, adversus, versus</em>
-* `EMPTY` (4062): <em>in, ad, de, per, a, ab, propter, ex, cum, sub</em>
+* `EMPTY` (4063): <em>in, ad, de, per, a, ab, propter, ex, cum, sub</em>
 
 ### `ADJ`
 
@@ -209,7 +209,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (97; 100% of non-empty `VerbForm`): <em>secundo, secunda, secundum, altior, secundam, altiorem, altius, secundus, altissimo, secunde</em>
-* `EMPTY` (3877): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
+* `EMPTY` (3873): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
 
 ### `SCONJ`
 
@@ -220,19 +220,19 @@ The most frequent other feature values with which `SCONJ` and `VerbForm` co-occu
 `SCONJ` tokens may have the following values of `VerbForm`:
 
 * `Fin` (36; 100% of non-empty `VerbForm`): <em>licet, dumtaxat</em>
-* `EMPTY` (2474): <em>ut, quod, cum, si, quia, quam, sicut, nisi, tanquam, quemadmodum</em>
+* `EMPTY` (2469): <em>ut, quod, cum, si, quia, quam, sicut, nisi, tanquam, quemadmodum</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (996; 89%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (631; 71%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (181; 65%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (995; 89%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (632; 71%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (182; 65%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (63; 72%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (48; 87%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (41; 67%),
 <tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (29; 85%),
-<tt>VERB --[<tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (23; 52%),
+<tt>VERB --[<tt><a href="la_udante-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (22; 52%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (19; 59%),
-<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (15; 75%).
+<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (15; 71%).
 

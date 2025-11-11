@@ -11,21 +11,21 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sr_set-feat-Gender.html">Gender</a></tt>, <tt><a href="sr_set-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-50383 tokens (52%) have a non-empty value of `Gender`.
-16569 types (90%) occur at least once with a non-empty value of `Gender`.
-8064 lemmas (84%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23811; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3490; 4% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3352; 3% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (749; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (304; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (302; 0% instances).
+50382 tokens (52%) have a non-empty value of `Gender`.
+16568 types (90%) occur at least once with a non-empty value of `Gender`.
+8063 lemmas (84%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3490; 4% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3352; 3% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (749; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (304; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (302; 0% instances).
 
 ### `NOUN`
 
-23811 <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+23810 <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17402; 73%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (9516; 40% of non-empty `Gender`): <em>godine, zemlje, godina, vlada, stranke, zemalja, vlade, zemlja, vlasti, nedelje</em>
-* `Masc` (11137; 47% of non-empty `Gender`): <em>evra, predsednik, ministar, poslova, ljudi, miliona, ponedeljak, premijer, dana, utorak</em>
+* `Masc` (11136; 47% of non-empty `Gender`): <em>evra, predsednik, ministar, poslova, ljudi, miliona, ponedeljak, premijer, dana, utorak</em>
 * `Neut` (3158; 13% of non-empty `Gender`): <em>prava, vreme, pitanja, članstvo, pitanje, mesto, nasilje, saopštenju, pitanju, mesta</em>
 * `EMPTY` (7): <em>km, br., cm, m</em>
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>dela</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (3202) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (3201) occur only with one value of `Gender`.
 
 ### `ADJ`
 

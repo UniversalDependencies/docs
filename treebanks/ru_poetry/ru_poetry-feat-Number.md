@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-34042 tokens (53%) have a non-empty value of `Number`.
+34041 tokens (53%) have a non-empty value of `Number`.
 17749 types (98%) occur at least once with a non-empty value of `Number`.
-8601 lemmas (87%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (15619; 24% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (6720; 10% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (5830; 9% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (3448; 5% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1661; 3% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (529; 1% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (213; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (22; 0% instances).
+8600 lemmas (87%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> (15619; 24% instances), <tt><a href="ru_poetry-pos-VERB.html">VERB</a></tt> (6720; 10% instances), <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> (5829; 9% instances), <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (3446; 5% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1662; 3% instances), <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> (530; 1% instances), <tt><a href="ru_poetry-pos-AUX.html">AUX</a></tt> (213; 0% instances), <tt><a href="ru_poetry-pos-NUM.html">NUM</a></tt> (22; 0% instances).
 
 ### `NOUN`
 
 15619 <tt><a href="ru_poetry-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14003; 90%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (14004; 90%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (4309; 28% of non-empty `Number`): <em>глаза, руки, дни, лет, люди, слова, песни, цветы, слезы, дней</em>
-* `Sing` (11310; 72% of non-empty `Number`): <em>сердце, жизнь, день, ночь, ветер, мир, солнце, жизни, вечер, любовь</em>
+* `Plur` (4308; 28% of non-empty `Number`): <em>глаза, руки, дни, лет, люди, слова, песни, цветы, слезы, дней</em>
+* `Sing` (11311; 72% of non-empty `Number`): <em>сердце, жизнь, день, ночь, ветер, мир, солнце, жизни, вечер, любовь</em>
 * `EMPTY` (6): <em>Кн., г., СБ., пр.</em>
 
 <table>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (1702; 25% of non-empty `Number`): <em>проходят, плывут, бегут, поют, идут, летят, стали, были, бывают, говорят</em>
 * `Sing` (5018; 75% of non-empty `Number`): <em>знаю, может, стоит, есть, люблю, вижу, могу, поет, хочу, прости</em>
-* `EMPTY` (1514): <em>нет, надо, быть, жить, любить, можно, идти, найти, пора, сказать</em>
+* `EMPTY` (1516): <em>нет, надо, быть, жить, любить, можно, идти, найти, пора, сказать</em>
 
 <table>
   <tr><th>Paradigm <i>знать</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -65,14 +65,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-5830 <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
+5829 <tt><a href="ru_poetry-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5739; 98%), <tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5040; 86%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5738; 98%), <tt><a href="ru_poetry-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5039; 86%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (1415; 24% of non-empty `Number`): <em>золотые, белые, белых, тихие, синие, зеленые, серые, темные, безумные, звездные</em>
-* `Sing` (4415; 76% of non-empty `Number`): <em>тихий, белый, равно, милая, последний, первый, черный, хорошо, чужой, белая</em>
+* `Sing` (4414; 76% of non-empty `Number`): <em>тихий, белый, равно, милая, последний, первый, черный, хорошо, чужой, белая</em>
 * `EMPTY` (191): <em>лучше, I, короче, дороже, хуже, III, звонче, II, выше, легче</em>
 
 <table>
@@ -105,29 +105,29 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-3448 <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
+3446 <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2746; 80%), <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2746; 80%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2326; 67%), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1949; 57%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2745; 80%), <tt><a href="ru_poetry-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2745; 80%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2325; 67%), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1949; 57%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (626; 18% of non-empty `Number`): <em>мы, нам, нас, них, их, вы, они, нами, вас, им</em>
-* `Sing` (2822; 82% of non-empty `Number`): <em>я, ты, мне, он, что, меня, тебя, все, это, тебе</em>
+* `Plur` (625; 18% of non-empty `Number`): <em>мы, нам, нас, них, вы, их, они, нами, вас, им</em>
+* `Sing` (2821; 82% of non-empty `Number`): <em>я, ты, мне, он, что, меня, тебя, все, это, тебе</em>
 * `EMPTY` (85): <em>себе, себя, собой, друг, друга, собою, другу, т.</em>
 
 `Number` seems to be **lexical feature** of `PRON`. 100% lemmas (24) occur only with one value of `Number`.
 
 ### `DET`
 
-1661 <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Number`.
+1662 <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1415; 85%), <tt><a href="ru_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (910; 55%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1415; 85%), <tt><a href="ru_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (911; 55%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (417; 25% of non-empty `Number`): <em>все, эти, мои, твои, твоих, всех, тех, моих, этих, наших</em>
-* `Sing` (1244; 75% of non-empty `Number`): <em>мой, моя, твой, моей, тот, этот, свой, весь, каждый, наш</em>
-* `EMPTY` (145): <em>их, его, ее, ея</em>
+* `Sing` (1245; 75% of non-empty `Number`): <em>мой, моя, твой, моей, тот, этот, свой, весь, каждый, наш</em>
+* `EMPTY` (146): <em>их, его, ее, ея</em>
 
 <table>
   <tr><th>Paradigm <i>мой</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -159,14 +159,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PROPN`
 
-529 <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Number`.
+530 <tt><a href="ru_poetry-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (334; 63%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (326; 62%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (335; 63%), <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (327; 62%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (10; 2% of non-empty `Number`): <em>Александров, Атлантид, Гесперид, Гималаев, Жигулей, Жигули, Лемурий, Лимены, Пильняками, Фоблазами</em>
-* `Sing` (519; 98% of non-empty `Number`): <em>Воронский, Волге, Анжелина, Москва, Москве, Русь, Восток, Иуда, Париж, Россию</em>
+* `Sing` (520; 98% of non-empty `Number`): <em>Воронский, Волге, Анжелина, Москва, Москве, Русь, Восток, Иуда, Париж, Россию</em>
 * `EMPTY` (59): <em>А., В., Н., М., П., С., Т., Д., И., К.</em>
 
 <table>
@@ -216,14 +216,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4243; 99%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2312; 94%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1830; 56%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4245; 99%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2313; 94%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1732; 56%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1352; 60%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> VERB</tt> (1352; 78%),
-<tt>NOUN --[<tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1339; 60%),
 <tt>VERB --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1301; 97%),
-<tt>NOUN --[<tt><a href="ru_poetry-dep-det.html">det</a></tt>]--> DET</tt> (1264; 90%),
-<tt>NOUN --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1132; 78%),
-<tt>VERB --[<tt><a href="ru_poetry-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (422; 55%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-det.html">det</a></tt>]--> DET</tt> (1266; 90%),
+<tt>NOUN --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1139; 78%),
+<tt>VERB --[<tt><a href="ru_poetry-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (423; 55%),
 <tt>ADJ --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (413; 94%).
 

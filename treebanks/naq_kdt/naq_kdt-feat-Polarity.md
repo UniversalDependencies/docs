@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (69; 100% of non-empty `Polarity`): <em>tite, tide</em>
-* `EMPTY` (5625): <em>ge, ra, a, hâ, nî, go, re, i, ga, gere</em>
+* `EMPTY` (5624): <em>ge, ra, a, hâ, nî, go, re, i, ga, gere</em>
 
 ## Relations with Agreement in `Polarity`
 

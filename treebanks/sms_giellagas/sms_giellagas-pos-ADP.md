@@ -13,7 +13,7 @@ The 10 most frequent `ADP` lemmas: <em>ool, luzz, pâʹjjel, årra, âʹlnn, mie
 
 The 10 most frequent `ADP` types:  <em>ool, luzz, pâʹjjel, årra, âʹlnn, Rââst, mieʹldd, piirâs, pirr, räjja</em>
 
-The 10 most frequent ambiguous lemmas: <em>ool</em> (<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 7, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>mieʹldd</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 4, <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 1), <em>rââst</em> (<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ool</em> (<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 7, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>årra</em> (<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 3, <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> 1), <em>mieʹldd</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 4, <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 1), <em>rââst</em> (<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 1, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ool</em> (<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 7, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>årra</em> (<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 3, <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> 1), <em>mieʹldd</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 4, <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ool</em> (<tt><a href="sms_giellagas-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.476015).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.476809).
 
 The 1st highest number of forms (1) was observed with the lemma “luzz”: <em>luzz</em>.
 

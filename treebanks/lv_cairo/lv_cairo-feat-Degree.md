@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 1 <tt><a href="lv_cairo-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="lv_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1; 100%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="lv_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="lv_cairo-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1; 100%), <tt><a href="lv_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="lv_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="lv_cairo-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="lv_cairo-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="lv_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Degree`:
 

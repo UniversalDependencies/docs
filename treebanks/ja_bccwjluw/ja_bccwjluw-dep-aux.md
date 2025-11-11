@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-101670 nodes (10%) are attached to their parents as `aux`.
+101679 nodes (10%) are attached to their parents as `aux`.
 
-101630 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.37607947280417.
+101634 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.37629205637349.
 
-The following 13 pairs of parts of speech are connected with `aux`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (79723; 78% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (14567; 14% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (5756; 6% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (697; 1% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (539; 1% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (162; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (159; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (38; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `aux`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (79727; 78% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (14567; 14% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (5757; 6% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (697; 1% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (540; 1% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (162; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (159; 0% instances), <tt><a href="ja_bccwjluw-pos-X.html">X</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (38; 0% instances), <tt><a href="ja_bccwjluw-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ja_bccwjluw-pos-SYM.html">SYM</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="ja_bccwjluw-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ja_bccwjluw-pos-DET.html">DET</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ja_bccwjluw-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ja_bccwjluw-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 13 pairs of parts of speech are connected with `aux`: <tt><a href=
 10	_	_	AUX	_	_	8	aux	_	BBIL=I|BPT=2|PUDL=よう|SpaceAfter=No|UI=34
 11	_	_	PUNCT	_	_	8	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=24
 12	_	_	VERB	_	_	13	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=25991
-13	_	_	NOUN	_	_	16	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=26495
+13	_	_	NOUN	_	_	16	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=26495
 14	_	_	ADP	_	_	13	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 15	_	_	DET	_	_	16	det	_	BBIL=B|BPT=0|SpaceAfter=No|UI=33
 16	_	_	NOUN	_	_	18	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1005

@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (718; 100% of non-empty `Abbr`): <em>г., х., д., де, л., об., с., бгъ, ден., дес.</em>
-* `EMPTY` (37069): <em>день, чети, государь, людей, году, князя, князь, государю, весу, государя</em>
+* `EMPTY` (37068): <em>день, чети, государь, людей, году, князя, князь, государю, весу, государя</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (17; 100% of non-empty `Abbr`): <em>бжия, бжиі, др, млствому, гсдрвыми, гсдревы, млсрдыи, млсрдыі, млствъ, млстивое</em>
-* `EMPTY` (13533): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, 178-г(о), государевы</em>
+* `EMPTY` (13534): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, 178-г(о), государевы</em>
 
 ### `PROPN`
 

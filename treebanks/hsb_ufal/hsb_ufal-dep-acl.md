@@ -47,7 +47,7 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	nazhonity	nazhonity	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 4	politikar	politikar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	9	punct	_	_
-6	kiž	kiž	PRON	_	Case=Nom	9	nsubj	_	_
+6	kiž	kiž	PRON	_	Case=Nom|PronType=Rel	9	nsubj	_	_
 7	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 8	jara	jara	ADV	_	Degree=Pos	9	advmod	_	_
 9	wobčitany	wobčitany	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	SpaceAfter=No
@@ -57,23 +57,26 @@ The following 14 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 acl	color:blue
-1	Rostlina	rostlina	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-3	jako	jako	SCONJ	_	_	5	mark	_	_
-4	kulturnu	kulturny	ADJ	_	Case=Ins|Gender=Fem|Number=Sing	5	amod	_	_
-5	rostlinu	rostlina	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	1	acl	_	_
-6	w	w	ADP	_	_	7	case	_	_
-7	Europje	Europa	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
-8	wot	wot	ADP	_	_	10	case	_	_
-9	młodokamjentneje	młodokamjentny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	_
-10	doby	doba	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
-11	dopokazana	dopokazany	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 8 acl	color:blue
+1	Princ	princ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+2	Wilhelm	Wilhelm	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	Oranski	Oranski	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
+4	da	dać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	Leidenčanam	Leidenčan	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	jako	jako	SCONJ	_	_	8	mark	_	_
+8	myto	myt	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	acl	_	_
+9	za	za	ADP	_	_	10	case	_	_
+10	spjećowanje	spjećowanje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
+11	přećiwo	přećiwo	ADP	_	_	12	case	_	_
+12	Španičanam	Španičan	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	8	punct	_	_
+14	uniwersitu	uniwersita	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

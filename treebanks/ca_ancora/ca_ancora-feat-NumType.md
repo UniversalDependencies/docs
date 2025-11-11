@@ -52,7 +52,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NUM</tt> (245; 98%),
 <tt>NUM --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> NUM</tt> (240; 99%),
 <tt>NUM --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (186; 99%),
-<tt>NUM --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NUM</tt> (24; 100%),
+<tt>NUM --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NUM</tt> (25; 100%),
 <tt>NUM --[<tt><a href="ca_ancora-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (12; 86%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (6; 67%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-obj.html">obj</a></tt>]--> ADJ</tt> (1; 100%),

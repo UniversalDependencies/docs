@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 6	mîna	mână	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	Ref=MARC3.5
 7	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Ref=MARC3.5|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	11	punct	_	Ref=MARC3.5
-9	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	Ref=MARC3.5
+9	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc|ExtPos=ADP	11	case	_	Ref=MARC3.5
 10	și	și	CCONJ	Ccssp	Polarity=Pos	9	fixed	_	Ref=MARC3.5
 11	ceaialaltă	celălalt	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	Ref=MARC3.5|SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	2	punct	_	Ref=MARC3.5

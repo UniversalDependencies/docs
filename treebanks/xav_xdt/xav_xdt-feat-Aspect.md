@@ -26,7 +26,7 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 * `Perf` (1; 4% of non-empty `Aspect`): <em>tô</em>
 * `Prog` (1; 4% of non-empty `Aspect`): <em>za</em>
 * `Prosp` (23; 82% of non-empty `Aspect`): <em>za, dza</em>
-* `EMPTY` (293): <em>za'ra, hã, e, ma, õ, norĩ, norĩhã, tô, aba, 're</em>
+* `EMPTY` (294): <em>hã, za'ra, e, ma, õ, norĩ, tô, aba, norĩhã, 're</em>
 
 <table>
   <tr><th>Paradigm <i>za</i></th><th><tt>Prog</tt></th><th><tt>Prosp</tt></th></tr>
@@ -42,5 +42,5 @@ The most frequent other feature values with which `X` and `Aspect` co-occurred: 
 `X` tokens may have the following values of `Aspect`:
 
 * `Perf` (1; 100% of non-empty `Aspect`): <em>to</em>
-* `EMPTY` (71): <em>di, wa'wa, ni, norĩ, 're, wamhã, zaʔra, ʔre, 'wa, Mare</em>
+* `EMPTY` (70): <em>di, wa'wa, ni, norĩ, 're, wamhã, zaʔra, ʔre, 'wa, Mare</em>
 

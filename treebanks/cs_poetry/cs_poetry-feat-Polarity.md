@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-1551 tokens (25%) have a non-empty value of `Polarity`.
-1244 types (46%) occur at least once with a non-empty value of `Polarity`.
+1552 tokens (25%) have a non-empty value of `Polarity`.
+1245 types (47%) occur at least once with a non-empty value of `Polarity`.
 902 lemmas (47%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 5 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (739; 12% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (589; 9% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (110; 2% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (109; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (4; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> (740; 12% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> (589; 9% instances), <tt><a href="cs_poetry-pos-AUX.html">AUX</a></tt> (110; 2% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt> (109; 2% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-739 <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Polarity`.
+740 <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (634; 86%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (530; 72%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (501; 68%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (485; 66%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (429; 58%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (404; 55%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (397; 54%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (635; 86%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (531; 72%), <tt><a href="cs_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (502; 68%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (485; 66%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (429; 58%), <tt><a href="cs_poetry-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (405; 55%), <tt><a href="cs_poetry-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (396; 54%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (39; 5% of non-empty `Polarity`): <em>neví, nevím, Neprobudiž, nebdí, nebuďtež, nechce, nechci, nedospěl, nehnul, nelze</em>
-* `Pos` (700; 95% of non-empty `Polarity`): <em>jdou, letí, měl, chce, jde, zdá, chcem, chtěl, hledá, mám</em>
-* `EMPTY` (4): <em>absolvo, pade, plakachu, svrz’</em>
+* `Pos` (701; 95% of non-empty `Polarity`): <em>jdou, letí, měl, chce, jde, zdá, chcem, chtěl, hledá, mám</em>
+* `EMPTY` (3): <em>absolvo, plakachu, svrz’</em>
 
 <table>
   <tr><th>Paradigm <i>chtít</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 589 <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (560; 95%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (528; 90%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (488; 83%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (487; 83%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (419; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (365; 62%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="cs_poetry-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (560; 95%), <tt><a href="cs_poetry-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (527; 89%), <tt><a href="cs_poetry-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (487; 83%), <tt><a href="cs_poetry-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (486; 83%), <tt><a href="cs_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (419; 71%), <tt><a href="cs_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (365; 62%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
@@ -129,8 +129,8 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="cs_poetry-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (49; 92%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADJ</tt> (40; 93%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-aux.html">aux</a></tt>]--> AUX</tt> (33; 57%),
+<tt>VERB --[<tt><a href="cs_poetry-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (22; 73%),
 <tt>VERB --[<tt><a href="cs_poetry-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (21; 95%),
-<tt>VERB --[<tt><a href="cs_poetry-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (21; 70%),
 <tt>ADJ --[<tt><a href="cs_poetry-dep-cop.html">cop</a></tt>]--> AUX</tt> (17; 94%),
 <tt>ADV --[<tt><a href="cs_poetry-dep-conj.html">conj</a></tt>]--> ADV</tt> (13; 87%).
 

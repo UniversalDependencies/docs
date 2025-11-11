@@ -41,7 +41,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 nsubj:pass	color:blue
-1	Dort	Dort	ADV	ADV	_	8	advmod	_	_
+1	Dort	dort	ADV	ADV	_	8	advmod	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
 3	man	man	PRON	PIS	Case=Nom|Number=Sing|PronType=Ind	8	nsubj:pass	_	_
 4	über	über	ADP	APPR	AdpType=Prep|Case=Acc	6	case	_	_
@@ -60,14 +60,14 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 3 nsubj:pass	color:blue
-1	Nun	Nun	ADV	ADV	_	9	advmod	_	_
+1	Nun	nun	ADV	ADV	_	9	advmod	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
 3	Felix	Felix	PROPN	NE	Case=Nom|Number=Sing	9	nsubj:pass	_	_
 4	Somm	Somm	PROPN	NE	_	3	flat:name	_	_
 5	in	in	ADP	APPR	AdpType=Prep|Case=Acc	8	case	_	_
 6	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	8	det	_	_
 7	prekäre	prekär	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	Situation	Situation	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+8	Situation	Situation	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
 9	geraten	geraten	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_
 10	.	.	PUNCT	$.	PunctType=Peri	9	punct	_	_
 

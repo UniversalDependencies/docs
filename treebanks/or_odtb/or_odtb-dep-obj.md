@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-69 nodes (7%) are attached to their parents as `obj`.
+68 nodes (7%) are attached to their parents as `obj`.
 
-67 instances of `obj` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94202898550725.
+66 instances of `obj` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.89705882352941.
 
-The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (54; 78% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (4; 6% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (54; 79% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -55,18 +55,19 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 obj	color:blue
-1	ଗୁରୁତର	_	ADJ	JJ	_	2	amod	_	Translit=gurutara
-2	ଅବସ୍ଥାରେ	_	NOUN	N_NN	_	4	nmod	_	Translit=abasthāre
-3	ପ୍ରଥମେ	_	ADV	RB	_	8	advmod	_	Translit=prathame
-4	ତାଙ୍କୁ	_	PRON	PR_PRP	_	8	nsubj	_	Translit=tāṅku
-5	MKCG	_	PROPN	N_NNP	_	8	obj	_	Translit=MKCG
-6	ହସ୍ପିଟାଲ୍ରେ	_	NOUN	N_NN	_	5	compound	_	Translit=haspiṭālre
-7	ଭର୍ତ୍ତି	_	VERB	N_NNV	_	8	nmod	_	Translit=bhartti
-8	କରାଯାଇଥିଲା	_	VERB	V_VM_VF	_	0	root	_	Translit=karāyāithilā
-9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n|Translit=.
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 5 obj	color:blue
+1	ରିପୋର୍ଟ	_	NOUN	N_NN	_	9	nmod	_	Translit=riporṭa
+2	ଲେଖା	_	NOUN	N_NNV	_	1	nmod	_	Translit=lekhā
+3	ହେବା	_	VERB	V_VM_VNG	_	2	xcomp	_	Translit=hebā
+4	ପର୍ଯ୍ୟନ୍ତ	_	ADP	PSP	_	3	case	_	Translit=paryŷanta
+5	ଏନେଇ	_	PRON	PR_PRI	_	9	obj	_	Translit=enei
+6	ଅଧିକ	_	NUM	QT_QTF	_	7	nummod	_	Translit=adhika
+7	ଖବର	_	NOUN	N_NN	_	9	nsubj	_	Translit=khabara
+8	ହସ୍ତଗତ	_	ADJ	JJ	_	9	amod	_	Translit=hastagata
+9	ହୋଇପାରିନାହିଁ	_	VERB	V_VM_VF	_	0	root	_	Translit=hoipārināhim̃
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n|Translit=.
 
 ~~~
 

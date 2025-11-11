@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2106 nodes (2%) are attached to their parents as `cop`.
+2103 nodes (2%) are attached to their parents as `cop`.
 
-1392 instances of `cop` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.52754036087369.
+1393 instances of `cop` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.52163575844032.
 
-The following 15 pairs of parts of speech are connected with `cop`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (727; 35% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (618; 29% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (330; 16% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (178; 8% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (108; 5% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (66; 3% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `cop`: <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (724; 34% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (617; 29% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (330; 16% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (179; 9% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (108; 5% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (68; 3% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -71,9 +71,9 @@ The following 15 pairs of parts of speech are connected with `cop`: <tt><a href=
 9	նոքա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	0	root	_	Translit=nokʻa|LTranslit=na|Gloss=he/she/it
 10	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Translit=en|LTranslit=em|Gloss=be
 11	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	Translit=or|LTranslit=or|Gloss=who
-12	իբրեւ	իբրեւ	ADP	_	_	14	case	_	Translit=ibrew|LTranslit=ibrew|Gloss=like
+12	իբրեւ	իբրեւ	SCONJ	_	_	14	mark	_	Translit=ibrew|LTranslit=ibrew|Gloss=like
 13	զ	զ	ADP	_	Definite=Def	14	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-14	բան	բան	NOUN	_	Case=Acc|Number=Sing	16	obl	_	SpaceAfter=No|Translit=ban|LTranslit=ban|Gloss=word
+14	բան	բան	NOUN	_	Case=Acc|Number=Sing	16	advcl	_	SpaceAfter=No|Translit=ban|LTranslit=ban|Gloss=word
 15	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	14	det	_	Translit=n|LTranslit=n|Gloss=that
 16	լսեն	լսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	SpaceAfter=No|Translit=lsen|LTranslit=lsel|Gloss=hear
 17	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;

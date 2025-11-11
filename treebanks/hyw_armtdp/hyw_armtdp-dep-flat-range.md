@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `flat:range`: <tt><a
 # visual-style 11	fgColor:white
 # visual-style 11 13 flat:range	color:blue
 1	Այս	այս	DET	_	Deixis=Prox|PronType=Dem	3	det	_	Translit=Ays|LTranslit=ays
-2	նոյն	նոյն	DET	_	PronType=Dem	3	det	_	Translit=noyn|LTranslit=noyn
+2	նոյն	նոյն	DET	_	Deixis=Remt|PronType=Dem	3	det	_	Translit=noyn|LTranslit=noyn
 3	խորագիրը	խորագիր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	obj	_	Translit=xoragirë|LTranslit=xoragir
 4	գործածած	գործածել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=gorçaçaç|LTranslit=gorçaçel
 5	էի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	aux	_	Translit=ēi|LTranslit=em

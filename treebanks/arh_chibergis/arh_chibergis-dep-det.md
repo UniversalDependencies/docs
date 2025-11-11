@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-42 nodes (1%) are attached to their parents as `det`.
+51 nodes (1%) are attached to their parents as `det`.
 
-35 instances of `det` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23809523809524.
+44 instances of `det` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25490196078431.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (35; 83% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-X.html">X</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (42; 82% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-DET.html">DET</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="arh_chibergis-pos-X.html">X</a></tt>-<tt><a href="arh_chibergis-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -34,20 +34,6 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 det	color:blue
-1	inʉ	inʉ	PRON	_	Case=Abs	3	nsubj	_	AlignBegin=98500|AlignEnd=98789|GE=what|Gloss=what|nWord=1|RX=[INTERROG]|TokenType=Root
-2	yow	yow	DET	_	_	1	det	_	AlignBegin=98789|AlignEnd=99078|GE=all|Gloss=all|nWord=2|RX=[QUANT]|TokenType=Root
-3	anikizuna	zu	VERB	_	_	0	root	_	AlignBegin=99078|AlignEnd=99367|GE=[RMTPST]|Gloss=MIDAPPL3make spillRMTPST|nWord=3|RX=[VERB]|TokenType=InflAff
-4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=99367|AlignEnd=99655|nWord=4
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
@@ -60,6 +46,20 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 5	ɉwin	ɉwin	NOUN	_	_	0	root	_	AlignBegin=249580|AlignEnd=249889|GE=harvest time|Gloss=harvest time|nWord=5|RX=[N]|TokenType=Root
 6	zʉne'	zan	AUX	_	_	5	cop	_	AlignBegin=249889|AlignEnd=250198|GE=then|Gloss=COPthen|nWord=6|RX=[VERB]|TokenType=InflAff
 7	.	_	PUNCT	_	_	5	punct	_	AlignBegin=250198|AlignEnd=250505|Gloss=.|nWord=7
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 det	color:blue
+1	inʉ	inʉ	PRON	_	Case=Abs	3	nsubj	_	AlignBegin=98500|AlignEnd=98789|GE=what|Gloss=what|nWord=1|RX=[INTERROG]|TokenType=Root
+2	yow	yow	DET	_	_	1	det	_	AlignBegin=98789|AlignEnd=99078|GE=all|Gloss=all|nWord=2|RX=[QUANT]|TokenType=Root
+3	anikizuna	zu	VERB	_	_	0	root	_	AlignBegin=99078|AlignEnd=99367|GE=[RMTPST]|Gloss=MIDAPPL3make spillRMTPST|nWord=3|RX=[VERB]|TokenType=InflAff
+4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=99367|AlignEnd=99655|nWord=4
 
 ~~~
 

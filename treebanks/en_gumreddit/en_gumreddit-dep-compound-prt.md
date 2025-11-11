@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 compound:prt	color:blue
-1	_	_	INTJ	UH	_	6	discourse	6:discourse	Discourse=topic-question:90->92:0:lex-indwd-561+syn-sbinv-562+grf-qst-567|Lem=*LOWER*|Len=4
+1	_	_	INTJ	UH	_	6	discourse	6:discourse	Discourse=topic-question:90->92:0:lex-indwd-561-_+syn-sbinv-562-_+grf-qst-567-_|Lem=*LOWER*|Len=4
 2	_	_	PRON	WP	PronType=Int	6	obj	6:obj	CxnElt=6:Interrogative-WHInfo-Direct.WHWord|Lem=_|Len=4
 3	_	_	AUX	MD	VerbForm=Fin	6	aux	6:aux	Lem=_|Len=5
 4	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(23-organization-giv:act-nnsss-cf1*-1-ana)|Lem=_|Len=4
@@ -40,8 +40,8 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:prt	color:blue
-1	_	_	VERB	VBG	VerbForm=Ger	16	csubj	16:csubj	Discourse=evaluation-comment:22->20:1:lex-indwd-157|Entity=(25-abstract-new-nnnnn-cf4-16-disc|Lem=have|Len=6|MSeg=Hav-ing
-2	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(26-abstract-new-nnnnn-cf1-4-sgl|Lem=_|Len=1
+1	_	_	VERB	VBG	VerbForm=Ger	16	csubj	16:csubj	Discourse=evaluation-comment:22->20:1:lex-indwd-157-_|Entity=(25-abstract-new-nnnnn-cf4-16-disc|Lem=have|Len=6|MSeg=Hav-ing
+2	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(26-abstract-new-nnssn-cf1-4-sgl|Lem=_|Len=1
 3	_	_	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Entity=(27-time-new-nnnnn-cf7-2-sgl|Lem=_|Len=1
 4	_	_	NOUN	NN	Number=Sing	5	compound	5:compound	Entity=27)|Lem=_|Len=4
 5	_	_	NOUN	NN	Number=Sing	1	obj	1:obj	Lem=_|Len=3
@@ -56,10 +56,10 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 14	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Entity=(31-abstract-new-nnnnn-cf2-3-sgl|Lem=_|Len=3
 15	_	_	ADJ	JJS	Degree=Sup	16	amod	16:amod	Lem=good|Len=4|MSeg=be-st
 16	_	_	NOUN	NN	Number=Sing	0	root	0:root	Entity=31)|Lem=_|Len=8
-17	_	_	ADV	WRB	PronType=Int	18	advmod	18:advmod	Discourse=context-circumstance:23->22:0:dm-when-159+syn-pres-160|Lem=_|Len=4|PDTB=Explicit:Temporal.Synchronous:when:159:143-158:160-163
+17	_	_	ADV	WRB	PronType=Int	18	advmod	18:advmod	Discourse=context-circumstance:23->22:0:dm-when-159-gold+syn-pres-160-_|Lem=_|Len=4|PDTB=Explicit:Temporal.Synchronous:when:159:143-158:160-163
 18	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	16	advcl	16:advcl:when	Cxn=AdverbialWHClause-Reduced-Active|CxnElt=18:AdverbialWHClause-Reduced-Active.Clause|Lem=market|Len=9|MSeg=market-ing
 19	_	_	ADP	IN	_	20	case	20:case	Lem=_|Len=2
-20	_	_	NOUN	NN	Abbr=Yes|Number=Sing	18	obl	18:obl:to	Entity=(32-person-new-snnnn-cf3-1-coref)|Lem=_|Len=2|SpaceAfter=No
+20	_	_	NOUN	NN	Abbr=Yes|Number=Sing	18	obl	18:obl:to	Entity=(32-person-new-snsnn-cf3-1-coref)|Lem=_|Len=2|SpaceAfter=No
 21	_	_	PUNCT	.	_	16	punct	16:punct	Entity=25)|Lem=_|Len=1
 
 ~~~

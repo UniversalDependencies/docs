@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Bernard Caron.
 
 Repository: [UD_Hausa-SouthernAutogramm](https://github.com/UniversalDependencies/UD_Hausa-SouthernAutogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_southernautogramm216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_southernautogramm217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,13 +73,13 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 
 ## Relations
 
-[acl](ha_southernautogramm-dep-acl.html) – [acl:relcl](ha_southernautogramm-dep-acl-relcl.html) – [advcl](ha_southernautogramm-dep-advcl.html) – [advcl:cleft](ha_southernautogramm-dep-advcl-cleft.html) – [advmod](ha_southernautogramm-dep-advmod.html) – [amod](ha_southernautogramm-dep-amod.html) – [appos](ha_southernautogramm-dep-appos.html) – [aux](ha_southernautogramm-dep-aux.html) – [case](ha_southernautogramm-dep-case.html) – [cc](ha_southernautogramm-dep-cc.html) – [cc:preconj](ha_southernautogramm-dep-cc-preconj.html) – [ccomp](ha_southernautogramm-dep-ccomp.html) – [compound](ha_southernautogramm-dep-compound.html) – [compound:svc](ha_southernautogramm-dep-compound-svc.html) – [conj](ha_southernautogramm-dep-conj.html) – [cop](ha_southernautogramm-dep-cop.html) – [csubj](ha_southernautogramm-dep-csubj.html) – [dep](ha_southernautogramm-dep-dep.html) – [det](ha_southernautogramm-dep-det.html) – [discourse](ha_southernautogramm-dep-discourse.html) – [dislocated](ha_southernautogramm-dep-dislocated.html) – [fixed](ha_southernautogramm-dep-fixed.html) – [flat](ha_southernautogramm-dep-flat.html) – [flat:foreign](ha_southernautogramm-dep-flat-foreign.html) – [flat:name](ha_southernautogramm-dep-flat-name.html) – [iobj](ha_southernautogramm-dep-iobj.html) – [mark](ha_southernautogramm-dep-mark.html) – [nmod](ha_southernautogramm-dep-nmod.html) – [nsubj](ha_southernautogramm-dep-nsubj.html) – [nummod](ha_southernautogramm-dep-nummod.html) – [obj](ha_southernautogramm-dep-obj.html) – [obl](ha_southernautogramm-dep-obl.html) – [obl:arg](ha_southernautogramm-dep-obl-arg.html) – [parataxis](ha_southernautogramm-dep-parataxis.html) – [parataxis:parenth](ha_southernautogramm-dep-parataxis-parenth.html) – [punct](ha_southernautogramm-dep-punct.html) – [reparandum](ha_southernautogramm-dep-reparandum.html) – [root](ha_southernautogramm-dep-root.html) – [vocative](ha_southernautogramm-dep-vocative.html) – [xcomp](ha_southernautogramm-dep-xcomp.html)
+[acl](ha_southernautogramm-dep-acl.html) – [acl:relcl](ha_southernautogramm-dep-acl-relcl.html) – [advcl](ha_southernautogramm-dep-advcl.html) – [advcl:cleft](ha_southernautogramm-dep-advcl-cleft.html) – [advmod](ha_southernautogramm-dep-advmod.html) – [amod](ha_southernautogramm-dep-amod.html) – [appos](ha_southernautogramm-dep-appos.html) – [aux](ha_southernautogramm-dep-aux.html) – [case](ha_southernautogramm-dep-case.html) – [cc](ha_southernautogramm-dep-cc.html) – [cc:preconj](ha_southernautogramm-dep-cc-preconj.html) – [ccomp](ha_southernautogramm-dep-ccomp.html) – [compound](ha_southernautogramm-dep-compound.html) – [compound:prt](ha_southernautogramm-dep-compound-prt.html) – [compound:svc](ha_southernautogramm-dep-compound-svc.html) – [conj](ha_southernautogramm-dep-conj.html) – [cop](ha_southernautogramm-dep-cop.html) – [csubj](ha_southernautogramm-dep-csubj.html) – [dep](ha_southernautogramm-dep-dep.html) – [det](ha_southernautogramm-dep-det.html) – [discourse](ha_southernautogramm-dep-discourse.html) – [dislocated](ha_southernautogramm-dep-dislocated.html) – [flat](ha_southernautogramm-dep-flat.html) – [flat:foreign](ha_southernautogramm-dep-flat-foreign.html) – [flat:name](ha_southernautogramm-dep-flat-name.html) – [iobj](ha_southernautogramm-dep-iobj.html) – [mark](ha_southernautogramm-dep-mark.html) – [nmod](ha_southernautogramm-dep-nmod.html) – [nsubj](ha_southernautogramm-dep-nsubj.html) – [nummod](ha_southernautogramm-dep-nummod.html) – [obj](ha_southernautogramm-dep-obj.html) – [obl](ha_southernautogramm-dep-obl.html) – [obl:arg](ha_southernautogramm-dep-obl-arg.html) – [parataxis](ha_southernautogramm-dep-parataxis.html) – [punct](ha_southernautogramm-dep-punct.html) – [reparandum](ha_southernautogramm-dep-reparandum.html) – [root](ha_southernautogramm-dep-root.html) – [vocative](ha_southernautogramm-dep-vocative.html) – [xcomp](ha_southernautogramm-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1918 sentences and 14585 tokens.</li>
+<li>This corpus contains 1927 sentences and 14401 tokens.</li>
 </ul>
 
 <ul>
@@ -91,7 +91,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 </ul>
 
 <ul>
-<li>This corpus contains 46 types of words that contain both letters and punctuation. Examples: na'àm, sa'ànnan, zaː'à, baː'àː, sànaː'àn, mêː-mêː, du', Mà'aːzù, kalàː-kalàː, loːkàci:, sa'àn, zaːmàni:, Tudùn-Wàda, Tudùn-Wàdân, baƙa-baƙaː, baː'à, dakà:, es-ès, eː'àː, gar̃gajiya:, gaːdìː-n, gishiri-gishiri, gàriː-ǹ, gìne-gìne, ha', hanyà:, hanyàː-n, haʔà:, irìː-irìː, irìː-n, jeːfì-jeːfì, ka:, koːwa:, lâifiː-n, mà'àːnaː, m̀:hm:, r̃uwa-r̃uwa, shùːke-shùːke, su:, sàbà'in, tsoːhoː-n, àl'amur̃àː, ƙaɓe-ƙàɓè, ƙuliː-ƙulin, ƴan'uwân, ɗai-ɗai</li>
+<li>This corpus contains 46 types of words that contain both letters and punctuation. Examples: na'àm, sa'ànnan, zaː'à, baː'àː, sànaː'àn, du', mêː-mêː, Mà'aːzù, kalàː-kalàː, loːkàci:, sa'àn, zaːmàni:, Tudùn-Wàda, Tudùn-Wàdân, baƙa-baƙaː, baː'à, dakà:, es-ès, eː'àː, gar̃gajiya:, gishiri-gishiri, gàriː-ǹ, gìne-gìne, ha', hanyà:, hanyàː-n, haʔà:, irìː-irìː, irìː-n, jeːfì-jeːfì, ka:, koːwa:, lâifiː-n, mà'àːnaː, mêː-mêː-mêː, m̀:hm:, r̃uwa-r̃uwa, shùːke-shùːke, su:, sàbà'in, tsoːhoː-nsù, àl'amur̃àː, ƙaɓe-ƙàɓè, ƙuliː-ƙulin, ƴan'uwân, ɗai-ɗai</li>
 </ul>
 
 <ul>
@@ -107,19 +107,19 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 </ul>
 
 <ul>
-<li>This corpus contains 45 word types tagged as particles (PART): ba, baːbù, bà, bà~, bàː, bâ, bâː, cân, cèː, dai, dà, fa, fâ, gaːra, gà, gàː, ha, kar̃, kaɗà, koː, kuma, kàm, kâi, kènan, kèːnan, kòː, kùwa, kùwâː, maː, mm, mài, màːsu, mêː, mêː-mêː, na, neː, nèː, sòː, ta, wàːtòn, wàːtòː, zâː, àkwai, àʔàː, ɗin</li>
+<li>This corpus contains 26 word types tagged as particles (PART): ba, bà, bà~, bàː, bâ, bâː, dai, dà, fa, fâ, gàː, kar̃, kaɗà, koː, kuma, kàm, kèːnan, kòː, kùwa, kùwâː, maː, neː, nèː, ta, zâː, àkwai</li>
 </ul>
 
 <ul>
-<li>This corpus contains 84 lemmas tagged as pronouns (PRON): =kà, =kì, =kù, =mu, =mù, =naː, =shi, =shì, =su, =sù, =ta, =tà, =ya, dukà, ita, ka, kai, keː, ki, koːmeː, koːwa:, koːwaː, ku, kuː, kâinaː, kânkà, kânmù, kânshì, kântà, kù, makà, manà, manàː, mashì, masà, masù, matà, mikì, mishì, mu, mukù, musù, muː, mâi, mèneːnèː, mèː, mèːneː, mèːneːnèː, mîn, mù, naːkà, naːkù, naːmù, naːshì, naːsù, naːtà, ni, niː, nàːwa, nàːwaː, shi, shiː, su, su:, suː, sù, ta, taːkù, tà, wancàn, wandà, wani, wannàn, waɗàndà, waɗànnan, waː, waːnè, wutaː, wànnan, wàː, wàːneː, wàːneːnèː, wânnan, ʔàʔè</li>
+<li>This corpus contains 76 lemmas tagged as pronouns (PRON): =kà, =shì, >, dukà, ita, ka, kai, keː, ki, koːmeː, koːwa:, koːwaː, ku, kuː, kâinaː, kânkà, kânmù, kânshì, kântà, kù, makà, manà, mashì, masà, masù, matà, mikì, mishì, mu, mukù, musù, muː, mâi, mèneːnèː, mèː, mèːneː, mèːneːnèː, mêː-mêː, mîn, mù, naːkà, naːkù, naːmù, naːshì, naːsù, naːtà, ni, niː, nàːwa, nàːwaː, shi, shiː, su, su:, suː, sù, ta, taːkù, tà, wancàn, wandà, wani, wannàn, wasu, waɗàndà, waɗànnan, waː, waːnè, wutaː, wànnan, wàː, wàːneː, wàːneːnèː, wânnan, ɗin, ʔàʔè</li>
 </ul>
 
 <ul>
-<li>This corpus contains 17 lemmas tagged as determiners (DET): dukà, nan, nàn, nân, su, wancàn, wancàː, wani, wannàn, wasu, wata, waɗànnan, wànneː, wànè, wânnan, ɗin, ɗîn</li>
+<li>This corpus contains 18 lemmas tagged as determiners (DET): dukà, nan, nàn, nân, su, the, wancàn, wancàː, wani, wannàn, wasu, wata, waɗànnan, wànneː, wànè, wânnan, ɗin, ɗîn</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: dukà, su, wancàn, wani, wannàn, waɗànnan, wânnan</li>
+<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: dukà, su, wancàn, wani, wannàn, wasu, waɗànnan, wânnan, ɗin</li>
 </ul>
 
 <ul>
@@ -144,7 +144,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: noːman, noːmaː, yîː, zuwàː, saːmùn, yîn, jîn, cîː, sôː, tunàːwaː</li>
+    <li>VERB: noːman, noːmaː, yîː, zuwàː, saːmùn, cîː, jîn, sôː, tunàːwaː, kiɗàː</li>
   </ul>
   </li>
 </ul>
@@ -160,11 +160,11 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
   <li>Fem
     <ul>
       <li>ADJ: ƴar̃</li>
-      <li>AUX: ta, tà, taː, tanàː, kin, takàn, zaːtà, kikà, kì, bàtà</li>
+      <li>AUX: ta, tà, taː, tanàː, kin, zaːtà, takàn, kikà, kì, bàtà</li>
       <li>DET: wata</li>
-      <li>NOUN: dòːdannìyaː, mangàr̃àɗ, marigâyyaː, ƙoːfàr̃, ƴar̃</li>
-      <li>PART: cèː</li>
-      <li>PRON: ita, =tà, tà, ta, matà, keː, naːtà, =kì, ki, wata</li>
+      <li>NOUN: suːnantà, wurintà, hankàlintà, iyàːyentà, mijìntà, ƴar̃, bàːƙuwaː, dàliːlìntà, dòːdannìyaː, gaːdòntà</li>
+      <li>PRON: ita, tà, ta, matà, keː, naːtà, ki, wata, kântà, kì</li>
+      <li>VERB-Vnoun: kiràntà, ràsuwantà, wor̃ɓantà, yîntà</li>
     </ul>
   </li>
 </ul>
@@ -172,10 +172,12 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Masc
     <ul>
-      <li>AUX: ya, yaː, kaː, kà, yà, yanàː, ka, zâi, kanàː, bàkà</li>
+      <li>ADP: ɗinshì, kàmankà</li>
+      <li>AUX: ya, yaː, nèː, kaː, kà, yà, yanàː, ka, zâi, kanàː</li>
       <li>DET: wani</li>
-      <li>NOUN: mahàifin</li>
-      <li>PRON: shiː, shi, =shì, shì, mishì, makà, kai, =shi, mashì, =kà</li>
+      <li>NOUN: bàːbanshì, dàngàntakànshì, gidanshì, wàːsanshì, iyàːyenshì, mahallakanshì, wajenshì, wurinshì, yaːrònshì, yiwankà</li>
+      <li>PRON: shiː, shi, shì, mishì, makà, kai, mashì, kà, wani, ka</li>
+      <li>VERB-Vnoun: jînkà, yînshì, cînshì, duːkànshì, fànciyankà, gudùnkà, jiranshi, kirànshi, kirànshì, kwànciyanshì</li>
     </ul>
   </li>
 </ul>
@@ -189,13 +191,14 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
   <li>Plur
     <ul>
       <li>ADJ: ƴan, tsòːfàffin</li>
-      <li>AUX: sukà, mukà, mù, munàː, sun, sunàː, mukàn, mun, kukàn, sù</li>
-      <li>DET: su, wasu, waɗànnan</li>
-      <li>NOUN: shaːnuː, mutàːneː, dabboːbiː, abuːbuwàː, yâːraː, abuːbuwàn, saiwoːyiː, maːtan, riːjiyoːyiː, ƴaːƴan</li>
-      <li>PART: màːsu</li>
-      <li>PRON: =sù, suː, =mù, manà, muː, mù, naːmù, su, mu, sù</li>
+      <li>ADP: màːsu, cikinsù</li>
+      <li>AUX: nèː, sukà, mukà, mù, munàː, sun, sunàː, mukàn, mun, kukàn</li>
+      <li>DET: wânnan, su, wasu, waɗànnan</li>
+      <li>NOUN: mutàːneː, sauransù, shaːnuː, abuːbuwàn, dabboːbiː, abuːbuwàː, yâːraː, saiwoːyiː, gidanmù, gidankù</li>
+      <li>PRON: wânnan, suː, manà, muː, mù, naːmù, su, mu, sù, masù</li>
       <li>PROPN: Fulàːniː, Filàːniː, Kanaːwaː, Katsinaːwaː, Tuːr̃aːwaː, Bàfilàːnin, Fulàːnîn, Sakkwataːwaː</li>
-      <li>VERB: caccànzaː, masàyaː, ciccìkaː, daddàurè, r̃ar̃r̃àbaː, tattàːrà, tàttàfi, yanyànkà, yâːraː</li>
+      <li>VERB: caccànzaː, masàyaː, ciccìkaː, daddàurè, r̃ar̃r̃àbaː, tattàːrà, tàttàfi, yanyànkà, yâːraː, duːkànmù</li>
+      <li>VERB-Vnoun: duːkànmù, noːmanmù, saːmùnsù, ƙwàːranmù</li>
     </ul>
   </li>
 </ul>
@@ -203,8 +206,9 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: naː, zân, zaːkà, inàː, ìn, na, zaːʼà, bàn, bân, zaːkì</li>
-      <li>PRON: niː, mîn, =naː, ni, nì, nàːwa, kâinaː, nàːwaː</li>
+      <li>ADP: mài</li>
+      <li>AUX: naː, zân, zaːkà, inàː, na, ìn, zaːʼà, bàn, bân, zaːkì</li>
+      <li>PRON: niː, mîn, ni, nì, nàːwa, kâinaː, nàːwaː, shiː</li>
     </ul>
   </li>
 </ul>
@@ -217,7 +221,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
   <li>Dat
     <ul>
       <li>ADP: mà, wà</li>
-      <li>PRON: mishì, mîn, makà, manà, mashì, matà, masù, mâi, masà, mikì</li>
+      <li>PRON: mishì, mîn, makà, manà, mashì, matà, masù, mâi, musù, masà</li>
     </ul>
   </li>
 </ul>
@@ -225,7 +229,10 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: =naː, =tà, naːkù, naːsù, nàːwa</li>
+      <li>ADP: cikinsù, ɗinshì, kàmankà</li>
+      <li>NOUN: suːnantà, gidanmù, bàːbanshì, gidankù, gidanshì, kàːwuːnaː, wurintà, wàːsanshì, alloːlinsù, hankàlintà</li>
+      <li>PRON: naːmù, naːtà, nàːwa, naːshì, naːsù, =kà, naːkà, naːkù, nàːwaː, taːkù</li>
+      <li>VERB-Vnoun: ràsuwantà, cînshì, duːkànshì, fànciyankà, gudùnkà, kwànciyanshì, sanìnshì, sônshì, tàfiyànshì, tàmbayàːnaː</li>
     </ul>
   </li>
 </ul>
@@ -233,7 +240,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: shiː, ita, niː, suː, muː, ni, kai, mu, duy, shi</li>
+      <li>PRON: shiː, ita, niː, suː, muː, ni, kai, mu, shi, duy</li>
     </ul>
   </li>
 </ul>
@@ -246,17 +253,15 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Cons
     <ul>
-      <li>ADJ: ainihin, farin, saːbon, baƙin, bàbban, kaurin, tsantsan, tsoːhon, tsòːfàffin</li>
-      <li>ADP: irìn</li>
-      <li>ADV: bana, yànzûn</li>
+      <li>ADJ: ainihin, farin, saːbon, baƙin, bàbban, kaurin, tsantsan, tsoːhon, yawàn, tsòːfàffin</li>
+      <li>ADP: na, irìn, kân</li>
+      <li>ADV: bana, kùr̃ùngùn, yànzûn</li>
       <li>DET: waɗànnan</li>
-      <li>NOUN: àbin, gidan, suːnan, gàrin, irìn, sauran, loːkàcin, ruwan, goːnan, tsaːmiyan</li>
+      <li>NOUN: àbin, àbîn, gidan, irìn, loːkàcin, gàrin, dàliːlìn, ruwan, suːnan, tsaːmiyan</li>
       <li>NUM: sìttin, tàlàːtin, àshìr̃in, ɗayan, ɗàr̃in, goːmàn</li>
-      <li>PART: na, ɗin</li>
-      <li>PROPN: Ùngwan, Gùndumàn, Fulàːniː, Bàtuːr̃èn, Maːlàn, Muːsa, Saːnin, Ɗan, Bàfilàːnin, Sakkwataːwaː</li>
-      <li>VERB: noːman, saːmùn, yîn, jîn, neːman, kiràn, sôn, cîn, ganin, saːran</li>
-      <li>VERB-Vnoun: noːman, saːmùn, yîn, jîn, neːman, kiràn, sôn, cîn, ganin, saːran</li>
-      <li>X: kùr̃ùngùn</li>
+      <li>PROPN: Ùngwan, Bàːsân, Gùndumàn, Fulàːniː, Bàtuːr̃èn, Maːlàn, Muːsa, Saːnin, Ɗan, Bàfilàːnin</li>
+      <li>VERB: noːman, saːmùn, jîn, neːman, yîn, sôn, cîn, ganin, kiràntà, saːran</li>
+      <li>VERB-Vnoun: noːman, saːmùn, jîn, neːman, yîn, sôn, cîn, ganin, kiràntà, saːran</li>
     </ul>
   </li>
 </ul>
@@ -265,13 +270,18 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
   <li>Def
     <ul>
       <li>ADV: nan</li>
-      <li>DET: wânnan, nan, ɗîn, waɗànnan, wànè, wannàn, wànneː</li>
-      <li>NOUN: àbîn, loːkàcîn, àbin, irìn, wân, ƙanèn, daːjìn, dàliːlìn, yaːrinyàn, gidân</li>
-      <li>NUM: àr̃bàʼin, àshìr̃in, mìliyàn, sàbà'in, sàbàʼin, sìttin</li>
-      <li>PART: wàːtòn</li>
+      <li>DET: wânnan, nan, ɗîn, waɗànnan</li>
+      <li>NOUN: loːkàcîn, wân, àbîn, ƙanèn, daːjìn, irìn, gidân, maːlàmîn, wajên, àboːkîn</li>
       <li>PRON: wânnan, wànnan, waɗànnan</li>
       <li>PROPN: Bàːsân, Filàːnîn, Ìsìlàːmiyàn, Fulàːnîn</li>
-      <li>VERB-Vnoun: noːmân</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>NOUN: gidaː, zaːmàniː, àbù, ruwaː, zoːmoː, gàriː, àmfàːniː, aikìː, daːjìː, loːkàcîn</li>
     </ul>
   </li>
 </ul>
@@ -279,8 +289,8 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Spec
     <ul>
-      <li>DET: wani, wasu, wata</li>
-      <li>PRON: wani</li>
+      <li>DET: wani, wata, wasu</li>
+      <li>PRON: wani, wasu</li>
     </ul>
   </li>
 </ul>
@@ -296,8 +306,9 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: bàkà, bàn, bài, bàmù, bàʼà, baː'àː, bâi, baːkàː, baːmàː, baːyàː</li>
-      <li>PART: ba, bàː, bà, bâː, baːbù, kar̃, kaɗà, bà~, bâ</li>
+      <li>AUX: bàkà, bàn, bài, bàmù, bàʼà, baː'àː, baːyà, baːkàː, baːmàː, bàsù</li>
+      <li>INTJ: baːbù, ba, bâː</li>
+      <li>PART: ba, bàː, bà, bâː, kar̃, kaɗà, bà~, bâ</li>
     </ul>
   </li>
 </ul>
@@ -353,7 +364,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>PerfNeg
     <ul>
-      <li>AUX: bàkà, bàn, bài, bàmù, bàʼà, bàsù, bàtà, bâi, bàkì, baːyàː</li>
+      <li>AUX: bàkà, bàn, bài, bàmù, bàʼà, bàsù, bàtà, bàkì</li>
     </ul>
   </li>
 </ul>
@@ -361,7 +372,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Prog
     <ul>
-      <li>AUX: yanàː, anàː, munàː, sunàː, inàː, nàː, kanàː, tanàː, kunàː, kinàː</li>
+      <li>AUX: anàː, yanàː, munàː, sunàː, inàː, kanàː, nàː, tanàː, kunàː, kinàː</li>
     </ul>
   </li>
 </ul>
@@ -369,15 +380,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>ProgBkg
     <ul>
-      <li>AUX: akèː, mukèː, kukèː, yakèː, sukèː, kèː, kakèː, kukà, takèː, kikèː</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>ProgLocBkg
-    <ul>
-      <li>AUX: yakè, mukè, sukè, kakè, kukè, nakè, takè, akè, nikè, shikè</li>
+      <li>AUX: akèː, mukèː, kukèː, sukèː, yakèː, kèː, kakèː, kukà, takèː, kikèː</li>
     </ul>
   </li>
 </ul>
@@ -385,7 +388,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>ProgNeg
     <ul>
-      <li>AUX: baː'àː, baːkàː, baːmàː, baːkà, baːyàː, bân, baːtà, baː'à, baːnàː, baːsàː</li>
+      <li>AUX: baː'àː, baːkàː, baːmàː, baːyàː, bân, baːkà, baːtà, baːnàː, baːsàː, baːsù</li>
     </ul>
   </li>
 </ul>
@@ -442,9 +445,9 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: nân</li>
-      <li>DET: wannàn, nàn, wancàn, nân, wânnan</li>
-      <li>PRON: wannàn, wancàn, wànnan</li>
+      <li>ADV: nan, nân, can, cân</li>
+      <li>DET: wânnan, nan, ɗîn, nàn, wannàn, wancàn, waɗànnan, nân</li>
+      <li>PRON: wânnan, wannàn, wànnan, wancàn, waɗànnan</li>
     </ul>
   </li>
 </ul>
@@ -452,8 +455,8 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Ind
     <ul>
-      <li>DET: wani, wasu, wata, wânnan</li>
-      <li>PRON: koːmeː, koːwaː, wani, koːmiː, koːwa:, waːnè</li>
+      <li>DET: wani, wasu, wata</li>
+      <li>PRON: koːmeː, koːwaː, wani, koːmiː, koːwa:, waːnè, wasu</li>
     </ul>
   </li>
 </ul>
@@ -462,9 +465,9 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
   <li>Int
     <ul>
       <li>ADV: ìnaː, yàːyàː, yàushèː, yàyàː, yàː</li>
-      <li>DET: wànè</li>
+      <li>DET: wànè, wànneː</li>
       <li>NUM: nawà</li>
-      <li>PRON: mèː, mèːneːnèː, wàː, mèneːnèː, mèːneː, wàːneː, wàːneːnèː, wǎːi, wâː</li>
+      <li>PRON: mèː, mèːneː, mèːneːnèː, wàː, mèneːnèː, mêː-mêː, wàːneː, wàːneːnèː, wâː, wǎːi</li>
     </ul>
   </li>
 </ul>
@@ -472,7 +475,7 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: shiː, shi, ita, =shì, =tà, shì, =sù, suː, mishì, tà</li>
+      <li>PRON: shiː, shi, ita, shì, suː, mishì, tà, mîn, niː, makà</li>
     </ul>
   </li>
 </ul>
@@ -516,8 +519,10 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>1
     <ul>
-      <li>AUX: mukà, naː, mù, zân, munàː, inàː, mukàn, mun, ìn, mukèː</li>
-      <li>PRON: niː, mîn, =mù, manà, muː, mù, =naː, naːmù, ni, mu</li>
+      <li>AUX: mukà, naː, mù, zân, munàː, inàː, mukàn, mun, na, ìn</li>
+      <li>NOUN: gidanmù, kàːwuːnaː, hanyànmù, kàːkaːnaː, màsàràutunmù, bàːbanaː, cinyànmù, goːnanmù, hannuːnaː, iyàːyenmù</li>
+      <li>PRON: niː, mîn, manà, muː, mù, naːmù, ni, mu, nì, nàːwa</li>
+      <li>VERB-Vnoun: duːkànmù, noːmanmù, tàmbayàːnaː, ƙwàːranmù</li>
     </ul>
   </li>
 </ul>
@@ -525,8 +530,11 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>2
     <ul>
+      <li>ADP: kàmankà</li>
       <li>AUX: kaː, kà, ka, zaːkà, kanàː, kukàn, kin, bàkà, kukèː, kakèː</li>
+      <li>NOUN: gidankù, yiwankà, hankàlinkì, kânkì, àlhakinkì, àmfàːninku, ƙar̃finkà</li>
       <li>PRON: suː, kà, kai, makà, ka, keː, ki, dukà, ku, mukù</li>
+      <li>VERB-Vnoun: jînkà, fànciyankà, gudùnkà, ròːƙonkà</li>
     </ul>
   </li>
 </ul>
@@ -534,8 +542,11 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li>3
     <ul>
+      <li>ADP: cikinsù, ɗinshì</li>
       <li>AUX: ya, yaː, ta, sukà, yà, yanàː, zâi, sun, tà, sunàː</li>
-      <li>PRON: shiː, shi, ita, =shì, =tà, shì, =sù, mishì, tà, ta</li>
+      <li>NOUN: sauransù, suːnantà, bàːbanshì, dàngàntakànshì, gidanshì, wurintà, wàːsanshì, alloːlinsù, gàrinsù, hankàlintà</li>
+      <li>PRON: shiː, shi, ita, shì, mishì, tà, ta, mashì, matà, su</li>
+      <li>VERB-Vnoun: kiràntà, ràsuwantà, yînshì, cînshì, duːkànshì, jiranshi, kirànshi, kirànshì, kwànciyanshì, sanìnshi</li>
     </ul>
   </li>
 </ul>
@@ -561,14 +572,15 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
       <li>Prox
         <ul>
           <li>ADV: nân</li>
-          <li>DET: wannàn, nàn, nân, wânnan</li>
+          <li>DET: nàn, wannàn, nân</li>
           <li>PRON: wannàn</li>
         </ul>
       </li>
       <li>Remt
         <ul>
+          <li>ADV: can, cân</li>
           <li>DET: wancàn</li>
-          <li>PRON: wancàn, wànnan</li>
+          <li>PRON: wancàn</li>
         </ul>
       </li>
     </ul>
@@ -578,54 +590,31 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li><a>ExtPos</a>
     <ul>
-      <li>ADJ
-        <ul>
-          <li>NOUN: mài</li>
-          <li>PART: mài</li>
-        </ul>
-      </li>
       <li>ADP
         <ul>
-          <li>ADP: à, har̃, ta</li>
-          <li>NOUN: kàmaː</li>
+          <li>NOUN: kàmaːnaː</li>
           <li>PRON: dud</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADP: had, à</li>
-          <li>ADV: sai, keː, tàːre</li>
-          <li>NOUN: gàbaː, gidan</li>
-          <li>SCONJ: dà, kàman, wai</li>
+          <li>ADV: zàune</li>
           <li>VERB: zàune, kwànce</li>
           <li>VERB-Part: zàune, kwànce</li>
         </ul>
       </li>
       <li>NOUN
         <ul>
-          <li>NOUN: mài, tsoːhuwaː, har̃kàn, niːsaː, noːmân, sigàː, yawàː, zoːmoː, zufàː, ƙùllun</li>
+          <li>NOUN: har̃kàn, noːmân, tsoːhuwaː, girman, goːnan, gàːrin, gìne-gìne, niːsaː, noːman, sigàː</li>
           <li>NUM: goːmàn</li>
-          <li>PART: mài</li>
           <li>PROPN: Basaːwaː</li>
-          <li>VERB: noːman, noːmaː, yîː, zuwàː, saːmùn, yîn, jîn, cîː, sôː, tunàːwaː</li>
-          <li>VERB-Vnoun: noːman, noːmaː, yîː, zuwàː, saːmùn, yîn, jîn, cîː, sôː, tunàːwaː</li>
+          <li>VERB: noːmaː, noːman, yîː, zuwàː, saːmùn, cîː, jîn, sôː, tunàːwaː, neːman</li>
+          <li>VERB-Vnoun: noːman, noːmaː, yîː, zuwàː, saːmùn, cîː, jîn, sôː, tunàːwaː, neːman</li>
         </ul>
       </li>
       <li>PRON
         <ul>
-          <li>NOUN: àbin</li>
           <li>PRON: wandà</li>
-        </ul>
-      </li>
-      <li>SCONJ
-        <ul>
-          <li>ADP: kàman</li>
-          <li>SCONJ: in, koː, koːdà</li>
-        </ul>
-      </li>
-      <li>VERB
-        <ul>
-          <li>VERB: ci</li>
         </ul>
       </li>
     </ul>
@@ -637,14 +626,15 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
     <ul>
       <li>Yes
         <ul>
+          <li>ADJ: fir̃aːmar̃i, jiːniyo, sakandir̃iː</li>
+          <li>ADP: of</li>
           <li>ADV: especia~</li>
           <li>CCONJ: but</li>
-          <li>INTJ: OK</li>
-          <li>NOUN: poison, police, kilaːs, Eːbìːyù, TV, bìr̃êːk, chemistry, drinks, inspector̃, juice</li>
-          <li>PART: sòː</li>
+          <li>DET: the</li>
+          <li>INTJ: OK, lìllaːhì, àlhamdù, sòː</li>
+          <li>NOUN: poison, police, kilaːs, sùkûːl, Eːbìːyù, TV, bitch, bìr̃êːk, chemistry, drinks</li>
           <li>PROPN: Feːdar̃al, Gor̃illas</li>
           <li>VERB: checking, escaping, pr̃etending</li>
-          <li>X: lìllaːhì, àlhamdù, sùkûːl, Allàː, Riːmiː, bitch, dubuː, fir̃aːmar̃i, huɗu, hù</li>
         </ul>
       </li>
     </ul>
@@ -654,14 +644,34 @@ Caron, Bernard. 2015. Hausa Grammatical Sketch. In Amina Mettouchi, Martine Vanh
 <ul>
   <li><a>PartType</a>
     <ul>
-      <li>Int
+      <li>Adv
         <ul>
-          <li>CCONJ: koː</li>
-          <li>NOUN: bàːbâː, gaudâː</li>
-          <li>PART: kèːnan, ba, kùwa, fa, kuma, kùwâː, bâː, fâ, neː, bâ</li>
-          <li>PRON: wâː</li>
-          <li>VERB: shâː, zuwâː</li>
-          <li>VERB-Vnoun: zuwâː</li>
+          <li>PART: ta</li>
+        </ul>
+      </li>
+      <li>Disc
+        <ul>
+          <li>PART: koː</li>
+        </ul>
+      </li>
+      <li>Foc
+        <ul>
+          <li>PART: nèː, kèːnan, neː</li>
+        </ul>
+      </li>
+      <li>Neg
+        <ul>
+          <li>PART: ba, bàː, bà, bâː, kar̃, kaɗà, bà~, bâ</li>
+        </ul>
+      </li>
+      <li>Pred
+        <ul>
+          <li>PART: gàː, àkwai, zâː, dà</li>
+        </ul>
+      </li>
+      <li>Top
+        <ul>
+          <li>PART: maː, dai, kuma, fa, kòː, kùwa, kàm, koː, kùwâː, fâ</li>
         </ul>
       </li>
     </ul>
@@ -686,10 +696,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (90)</li>
-      <li>VERB--PRON (10)</li>
+      <li>VERB--NOUN (85)</li>
+      <li>VERB--NOUN-ADP(mài) (2)</li>
+      <li>VERB--NOUN-Gen (6)</li>
+      <li>VERB--NOUN-Gen-ADP(mài) (1)</li>
+      <li>VERB--PRON (8)</li>
       <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Vnoun--NOUN (4)</li>
+      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB-Vnoun--NOUN (5)</li>
     </ul>
   </li>
 </ul>
@@ -697,16 +711,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (384)</li>
+      <li>VERB--NOUN (375)</li>
       <li>VERB--NOUN-ADP(dà) (1)</li>
-      <li>VERB--NOUN-ADP(kân) (1)</li>
-      <li>VERB--NOUN-ADP(na~ta) (3)</li>
-      <li>VERB--NOUN-ADP(wai) (1)</li>
+      <li>VERB--NOUN-ADP(mài) (2)</li>
+      <li>VERB--NOUN-ADP(na/ta) (3)</li>
+      <li>VERB--NOUN-Gen (19)</li>
+      <li>VERB--NOUN-Gen-ADP(kân) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(wai) (1)</li>
       <li>VERB--PRON (135)</li>
       <li>VERB--PRON-ADP(dà) (1)</li>
       <li>VERB--PRON-Nom (4)</li>
-      <li>VERB-Vnoun--NOUN (17)</li>
-      <li>VERB-Vnoun--PRON (8)</li>
+      <li>VERB--PRON-Nom-ADP(wai) (1)</li>
+      <li>VERB-Vnoun--NOUN (15)</li>
+      <li>VERB-Vnoun--NOUN-Gen (2)</li>
+      <li>VERB-Vnoun--PRON (4)</li>
     </ul>
   </li>
 </ul>
@@ -714,11 +732,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (44)</li>
-      <li>VERB--PRON-Dat (92)</li>
+      <li>VERB--NOUN (2)</li>
+      <li>VERB--PRON (35)</li>
+      <li>VERB--PRON-Dat (96)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Part--PRON (2)</li>
+      <li>VERB-Vnoun--NOUN (1)</li>
       <li>VERB-Vnoun--PRON (1)</li>
+      <li>VERB-Vnoun--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -734,6 +754,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>cc:preconj</a>, <a>compound:svc</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>obl:arg</a>, <a>parataxis:parenth</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>compound:svc</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>obl:arg</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

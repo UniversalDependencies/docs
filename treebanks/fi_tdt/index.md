@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Filip Ginter, Jenna Kanerva, Veronika Laippala, Niko Miekka, Anna Missilä, Stina Ojala, Sampo Pyysalo.
 
 Repository: [UD_Finnish-TDT](https://github.com/UniversalDependencies/UD_Finnish-TDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -1212,7 +1212,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Nom (344)</li>
       <li>VERB-Inf--NOUN-Par (107)</li>
       <li>VERB-Inf--PRON-Acc (29)</li>
-      <li>VERB-Inf--PRON-Gen (137)</li>
+      <li>VERB-Inf--PRON-Gen (138)</li>
       <li>VERB-Inf--PRON-Nom (160)</li>
       <li>VERB-Inf--PRON-Par (32)</li>
       <li>VERB-Part--NOUN-Gen (454)</li>
@@ -1235,7 +1235,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (1206)</li>
       <li>VERB-Fin--NOUN-Ill (3)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1079)</li>
+      <li>VERB-Fin--NOUN-Nom (1078)</li>
       <li>VERB-Fin--NOUN-Par (2462)</li>
       <li>VERB-Fin--PRON-Acc (91)</li>
       <li>VERB-Fin--PRON-All (1)</li>
@@ -1246,9 +1246,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen (329)</li>
       <li>VERB-Inf--NOUN-Ill (1)</li>
       <li>VERB-Inf--NOUN-Nom (504)</li>
-      <li>VERB-Inf--NOUN-Par (1468)</li>
+      <li>VERB-Inf--NOUN-Par (1467)</li>
       <li>VERB-Inf--PRON-Acc (12)</li>
-      <li>VERB-Inf--PRON-Gen (63)</li>
+      <li>VERB-Inf--PRON-Gen (62)</li>
       <li>VERB-Inf--PRON-Nom (66)</li>
       <li>VERB-Inf--PRON-Par (285)</li>
       <li>VERB-Part--NOUN (1)</li>

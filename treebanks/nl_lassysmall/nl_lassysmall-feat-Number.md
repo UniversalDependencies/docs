@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-87536 tokens (29%) have a non-empty value of `Number`.
-19754 types (62%) occur at least once with a non-empty value of `Number`.
-15738 lemmas (60%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (49460; 17% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (15871; 5% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (12786; 4% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (9419; 3% instances).
+87555 tokens (29%) have a non-empty value of `Number`.
+19755 types (62%) occur at least once with a non-empty value of `Number`.
+15736 lemmas (60%) occur at least once with a non-empty value of `Number`.
+The feature is used with 4 part-of-speech tags: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (49469; 17% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (15881; 5% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (12782; 4% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (9423; 3% instances).
 
 ### `NOUN`
 
-49460 <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+49469 <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nl_lassysmall-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (24995; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nl_lassysmall-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (25003; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (12576; 25% of non-empty `Number`): <em>jaren, mensen, landen, troepen, partijen, leden, verkiezingen, inwoners, tanks, gemeenten</em>
-* `Sing` (36884; 75% of non-empty `Number`): <em>jaar, oorlog, tijd, eeuw, stad, partij, deel, koning, naam, aantal</em>
+* `Plur` (12574; 25% of non-empty `Number`): <em>jaren, mensen, landen, troepen, partijen, leden, verkiezingen, inwoners, tanks, gemeenten</em>
+* `Sing` (36895; 75% of non-empty `Number`): <em>jaar, oorlog, tijd, eeuw, stad, partij, deel, koning, naam, aantal</em>
 
 <table>
   <tr><th>Paradigm <i>jaar</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -33,13 +33,13 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PROPN`
 
-15871 <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> tokens (52% of all `PROPN` tokens) have a non-empty value of `Number`.
+15881 <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> tokens (52% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (1072; 7% of non-empty `Number`): <em>Duitsers, Britten, Fransen, VS, Belgen, Amerikanen, Nederlanden, V.S., Engelsen, Arabieren</em>
-* `Sing` (14799; 93% of non-empty `Number`): <em>België, Brussel, Duitsland, juni, Frankrijk, Vlaanderen, Antwerpen, september, mei, oktober</em>
-* `EMPTY` (14478): <em>van, de, Wereldoorlog, II, Verenigde, staten, Tweede, Vlaams, Eerste, I</em>
+* `Sing` (14809; 93% of non-empty `Number`): <em>België, Brussel, Duitsland, juni, Frankrijk, Vlaanderen, Antwerpen, september, mei, oktober</em>
+* `EMPTY` (14455): <em>van, de, Wereldoorlog, II, Verenigde, staten, Tweede, Vlaams, Eerste, I</em>
 
 <table>
   <tr><th>Paradigm <i>Nederland</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -51,15 +51,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-12786 <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Number`.
+12782 <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12786; 100%), <tt><a href="nl_lassysmall-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7775; 61%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12782; 100%), <tt><a href="nl_lassysmall-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12630; 99%), <tt><a href="nl_lassysmall-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7773; 61%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (3411; 27% of non-empty `Number`): <em>zijn, hadden, kwamen, hebben, waren, komen, gingen, gaan, werden, kregen</em>
-* `Sing` (9375; 73% of non-empty `Number`): <em>kwam, werd, had, heeft, was, zie, ging, is, komt, kreeg</em>
-* `EMPTY` (12934): <em>maken, genoemd, gaan, volgende, gemaakt, zien, gebruikt, laten, gezien, komen</em>
+* `Sing` (9371; 73% of non-empty `Number`): <em>kwam, werd, had, heeft, was, zie, ging, is, komt, kreeg</em>
+* `EMPTY` (12932): <em>maken, genoemd, gaan, volgende, gemaakt, zien, gebruikt, laten, gezien, komen</em>
 
 <table>
   <tr><th>Paradigm <i>hebben</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -69,14 +69,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-9419 <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+9423 <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9419; 100%), <tt><a href="nl_lassysmall-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5378; 57%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="nl_lassysmall-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9423; 100%), <tt><a href="nl_lassysmall-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9423; 100%), <tt><a href="nl_lassysmall-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5380; 57%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (2334; 25% of non-empty `Number`): <em>zijn, werden, waren, worden, hadden, kunnen, zouden, hebben, konden, moesten</em>
-* `Sing` (7085; 75% of non-empty `Number`): <em>is, was, werd, wordt, zou, had, heeft, kon, kan, moest</em>
+* `Sing` (7089; 75% of non-empty `Number`): <em>is, was, werd, wordt, zou, had, heeft, kon, kan, moest</em>
 * `EMPTY` (819): <em>worden, zijn, kunnen, geweest, moeten, hebben, mogen, zijnde, gehad, zullen</em>
 
 <table>
@@ -88,14 +88,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5137; 64%),
-<tt>VERB --[<tt><a href="nl_lassysmall-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4741; 79%),
-<tt>NOUN --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2494; 80%),
-<tt>NOUN --[<tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2434; 57%),
-<tt>VERB --[<tt><a href="nl_lassysmall-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1801; 64%),
-<tt>NOUN --[<tt><a href="nl_lassysmall-dep-cop.html">cop</a></tt>]--> AUX</tt> (1357; 88%),
-<tt>PROPN --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1296; 85%),
-<tt>VERB --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> VERB</tt> (1074; 55%),
-<tt>NOUN --[<tt><a href="nl_lassysmall-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1048; 54%),
-<tt>NOUN --[<tt><a href="nl_lassysmall-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (954; 51%).
+<tt>NOUN --[<tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5200; 64%),
+<tt>VERB --[<tt><a href="nl_lassysmall-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4744; 80%),
+<tt>NOUN --[<tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2491; 58%),
+<tt>NOUN --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2489; 81%),
+<tt>VERB --[<tt><a href="nl_lassysmall-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1800; 64%),
+<tt>NOUN --[<tt><a href="nl_lassysmall-dep-cop.html">cop</a></tt>]--> AUX</tt> (1362; 88%),
+<tt>PROPN --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1294; 85%),
+<tt>VERB --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> VERB</tt> (1073; 55%),
+<tt>NOUN --[<tt><a href="nl_lassysmall-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1051; 54%),
+<tt>NOUN --[<tt><a href="nl_lassysmall-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (952; 51%).
 

@@ -9,29 +9,28 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="hsb_ufal-dep-det-numgov.html">det:numgov</a></tt>.
 
-218 nodes (2%) are attached to their parents as `det`.
+217 nodes (2%) are attached to their parents as `det`.
 
-216 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58715596330275.
+215 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5852534562212.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (216; 99% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `det`: <tt><a href="hsb_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (215; 99% instances), <tt><a href="hsb_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="hsb_ufal-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 det	color:blue
-1	Po	po	ADP	_	_	4	case	_	_
-2	swojej	swój	DET	_	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	_
-3	prawniskej	prawniski	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	4	amod	_	_
-4	formje	forma	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	_
-5	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-6	wón	wón	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-7	zapisane	zapisany	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	8	amod	_	_
-8	towarstwo	towarstwo	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 det	color:blue
+1	Wotpowědny	wotpowědny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	podawk	podawk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	wospjetowaše	wospjetować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
+5	kóžde	kóždy	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	_
+6	wosme	wosmy	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	7	amod	_	_
+7	lěto	lěto	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -47,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 3	njeje	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	cop	_	_
 4	pak	pak	CCONJ	_	_	9	cc	_	_
 5	geografisce	geografisce	ADV	_	Degree=Pos	9	advmod	_	_
-6	ale	ale	CCONJ	_	_	8	cc	_	_
+6	ale	ale	CCONJ	_	ExtPos=CCONJ	8	cc	_	_
 7	tež	tež	ADV	_	_	6	fixed	_	_
 8	tektonisce	tektonisce	ADV	_	Degree=Pos	5	conj	_	_
 9	prawa	prawy	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No

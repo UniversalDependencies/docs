@@ -27,9 +27,9 @@ The following 1 pairs of parts of speech are connected with `compound:a`: <tt><a
 3	harus	harus	AUX	VSA	_	6	aux	_	Morf=^harus<v>_VSA$
 4	susah	susah	ADJ	ASP	_	6	advmod	_	Morf=^susah<a>_ASP$
 5	payah	payah	ADJ	ASP	_	4	compound:a	_	Morf=^payah<a>_ASP$
-6	dibuat	buat	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+buat<v>_VSP$
+6	dibuat	buat	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+buat<v>_VSP$
 7	dengan	dengan	SCONJ	R--	_	8	mark	_	Morf=^dengan<r>_R--$
-8	menggunakan	guna	VERB	VSA	Mood=Ind|Voice=Act	6	xcomp	_	Morf=^meN+guna<n>+kan_VSA$
+8	menggunakan	guna	VERB	VSA	Voice=Act	6	xcomp	_	Morf=^meN+guna<n>+kan_VSA$
 9	instruksi	instruksi	NOUN	NSD	Number=Sing	8	obj	_	Morf=^instruksi<n>_NSD$
 10	(	(	PUNCT	Z--	_	11	punct	_	SpaceAfter=No|Morf=^(<z>_Z--$
 11	operasi	operasi	NOUN	NSD	Number=Sing	9	appos	_	Morf=^operasi<n>_NSD$

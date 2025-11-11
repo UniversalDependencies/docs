@@ -8,49 +8,49 @@ udver: '2'
 
 This relation is universal.
 
-34 nodes (1%) are attached to their parents as `amod`.
+44 nodes (1%) are attached to their parents as `amod`.
 
-17 instances of `amod` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29411764705882.
+22 instances of `amod` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27272727272727.
 
-The following 4 pairs of parts of speech are connected with `amod`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (20; 59% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (11; 32% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `amod`: <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (25; 57% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (15; 34% instances), <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="arh_chibergis-pos-NUM.html">NUM</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 amod	color:blue
-1	ikʉndi	ikʉndi	PRON	_	_	6	nsubj	_	AlignBegin=237443|AlignEnd=237826|GE=[3PL]|Gloss=3PL|nWord=1|RX=[PRO]|TokenType=Root
-2	ingwey	ingwey	ADJ	_	_	6	xcomp	_	AlignBegin=237826|AlignEnd=238018|GE=other|Gloss=other|nWord=2|RX=[ADJ]|TokenType=Root
-3	=gwi	_	ADV	_	_	2	advmod	_	AlignBegin=238018|AlignEnd=238209|GE=also|Gloss==also|nWord=2|RX=[ADV]|TokenType=Clit
-4	ikʉ	ikʉ	NOUN	_	_	6	xcomp	_	AlignBegin=238209|AlignEnd=238592|GE=indigenous.person|Gloss=indigenous.person|nWord=3|RX=[N]|TokenType=Root
-5	ingeygwi	ingeygwi	ADJ	_	_	4	amod	_	AlignBegin=238592|AlignEnd=238975|GE=other|Gloss=other|nWord=4|RX=[ADJ]|TokenType=Root
-6	zʉn	zan	VERB	_	_	0	root	_	AlignBegin=238975|AlignEnd=239167|nWord=5|RX=[V]|TokenType=Root
-7	=di	_	PART	_	_	6	advmod	_	AlignBegin=239167|AlignEnd=239358|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit
-8	nanʉn	nan	AUX	_	_	6	aux	_	AlignBegin=239358|AlignEnd=239550|GE=IPFV|Gloss=copIPFV|nWord=6|RX=[COP]|TokenType=InflAff
-9	=di	_	PART	_	_	6	advmod	_	AlignBegin=239550|AlignEnd=239741|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit
-10	.	_	PUNCT	_	_	9	punct	_	AlignBegin=239741|AlignEnd=240126|Gloss=.|nWord=7
+# visual-style 5 6 amod	color:blue
+1	in'gwi	in'gwi	NUM	_	_	5	dislocated	_	AlignBegin=69856|AlignEnd=70540|GE=one|Gloss=one|nWord=1|RX=[NUM]|TokenType=Root
+2	=ri	_	PART	_	_	1	advmod	_	AlignBegin=70540|AlignEnd=71224|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit
+3	Bunekʉn	Bunekʉn	PROPN	_	_	5	nsubj	_	AlignBegin=71224|AlignEnd=71908|GE=[Bunekʉn]|Gloss=Bunekʉn|nWord=2|RX=[NPROP]|TokenType=Root
+4	=di	_	PART	_	_	3	advmod	_	AlignBegin=71908|AlignEnd=72592|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+5	ka'a	ka'a	NOUN	_	_	0	root	_	AlignBegin=72592|AlignEnd=73960|GE=earth|Gloss=earth|nWord=3|RX=[N]|TokenType=Root
+6	bunsi	bunsi	ADJ	_	_	5	amod	_	AlignBegin=73960|AlignEnd=75328|GE=white|Gloss=white|nWord=4|RX=[ADJ]|TokenType=Root
+7	,	_	PUNCT	_	_	6	punct	_	AlignBegin=75328|AlignEnd=76698|nWord=5|wordform=,.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	ikʉnha'	ikʉnha'	PRON	_	Case=Abs	7	nsubj	_	AlignBegin=46190|AlignEnd=46416|GE=[3PL]|Gloss=3PL|nWord=1|RX=[PRO]|TokenType=Root
-2	=ri	_	PART	_	_	1	advmod	_	AlignBegin=46416|AlignEnd=46641|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit
-3	ingʉ	ingʉ	ADJ	_	_	4	amod	_	AlignBegin=46641|AlignEnd=47092|GE=few|Gloss=few|nWord=2|RX=[ADJ]|TokenType=Root
-4	diwʉn	diwʉn	ADJ	_	_	7	xcomp	_	AlignBegin=47092|AlignEnd=47318|GE=different|Gloss=different|nWord=3|RX=[ADJ]|TokenType=Root
-5	=gwi	_	ADV	_	_	4	advmod	_	AlignBegin=47318|AlignEnd=47543|GE=also|Gloss==also|nWord=3|RX=[ADV]|TokenType=Clit
-6	zʉ'ʉn	zan	PART	_	_	5	advmod:emph	_	AlignBegin=47543|AlignEnd=47994|GE=[COP]|Gloss=COP|nWord=4|RX=[COP]|TokenType=Root
-7	winarunhʉya	arunh	VERB	_	_	0	root	_	AlignBegin=47994|AlignEnd=48445|GE=[NONEGO]|Gloss=3PL.SthinkNONEGO|nWord=5|RX=[V:ANY]|TokenType=InflAff
-8	nanndi	nan	AUX	_	_	7	aux	_	AlignBegin=48445|AlignEnd=48896|GE=[EXHORT]|Gloss=AUXEXHORT|nWord=6|RX=[V:ANY]|TokenType=InflAff
-9	,	_	PUNCT	_	_	7	punct	_	AlignBegin=48896|AlignEnd=49350|nWord=7
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 amod	color:blue
+1	Ñankwa	Ñankwa	PROPN	_	_	10	ccomp	_	AlignBegin=72033|AlignEnd=72583|GE=[Ñankwa]|Gloss=Ñankwa|nWord=1|RX=[NPROP]|TokenType=Root
+2	neyka	nan	AUX	_	_	1	cop	_	AlignBegin=72583|AlignEnd=72949|GE=[EYKA]|Gloss=auxEYKA|nWord=2|RX=[V:ANY]|TokenType=InflAff
+3	=ri	_	PART	_	_	1	advmod	_	AlignBegin=72949|AlignEnd=73133|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+4	ingʉ	ingʉ	ADJ	_	_	5	amod	_	AlignBegin=73133|AlignEnd=73683|GE=few|Gloss=few|nWord=3|RX=[ADJ]|TokenType=Root
+5	du	du	ADJ	_	_	6	advcl	_	AlignBegin=73683|AlignEnd=74233|GE=good|Gloss=good|nWord=4|RX=[ADJ]|TokenType=Root
+6	arunhu'	arunh	VERB	_	_	9	csubj	_	AlignBegin=74233|AlignEnd=74783|GE=[NEG]|Gloss=thinkNEG|nWord=5|RX=[VERB]|TokenType=InflAff
+7	neyka	nan	AUX	_	Case=Abs	6	aux	_	AlignBegin=74783|AlignEnd=75333|GE=[EYKA]|Gloss=auxEYKA|nWord=6|RX=[V:ANY]|TokenType=InflAff
+8	zʉn	zan	PART	_	_	6	advmod:emph	_	AlignBegin=75333|AlignEnd=75883|GE=[COP]|Gloss=COP|nWord=7|RX=[COP]|TokenType=Root
+9	kwʉndi	kwʉ	VERB	_	_	10	ccomp	_	AlignBegin=75883|AlignEnd=76433|GE=[COND]|Gloss=existCOND|nWord=8|RX=[V:ANY]|TokenType=InflAff
+10	a'zʉna	a'zʉna	VERB	_	_	0	root	_	AlignBegin=76433|AlignEnd=76983|GE=think|Gloss=think|nWord=9|RX=[V]|TokenType=Root
+11	nʉn	nan	AUX	_	_	10	aux	_	AlignBegin=76983|AlignEnd=77258|GE=cop|Gloss=cop|nWord=10|RX=[COP]|TokenType=Root
+12	=gwi	_	ADV	_	_	10	advmod	_	AlignBegin=77258|AlignEnd=77533|GE=also|Gloss==also|nWord=10|RX=[ADV]|TokenType=Clit
 
 ~~~
 

@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	La	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cifra	cifra	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	massima	massimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
 4	consentita	consentire	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	2	acl	_	_
@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	L'	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	SpaceAfter=No
+1	L'	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
 2	Universiade	Universiade	PROPN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
 3	invernale	invernale	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
 4	di	di	ADP	IN	_	6	case	_	_

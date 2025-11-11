@@ -8,31 +8,52 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_childes-dep-cc.html">cc</a></tt>.
 
-8 nodes (0%) are attached to their parents as `cc:preconj`.
+9 nodes (0%) are attached to their parents as `cc:preconj`.
 
-8 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+9 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22222222222222.
 
-The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (2; 25% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (2; 25% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances).
+The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="en_childes-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (2; 22% instances), <tt><a href="en_childes-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (2; 22% instances), <tt><a href="en_childes-pos-VERB.html">VERB</a></tt>-<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (2; 22% instances), <tt><a href="en_childes-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="en_childes-pos-AUX.html">AUX</a></tt>-<tt><a href="en_childes-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="en_childes-pos-PRON.html">PRON</a></tt>-<tt><a href="en_childes-pos-CCONJ.html">CCONJ</a></tt> (1; 11% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 cc:preconj	color:blue
+1	I	I	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	think	think	VERB	VBP	_	0	root	0:root	_
+3	it	it	PRON	PRP	_	7	nsubj	7:nsubj|10:nsubj	_
+4	's	be	AUX	VBZ	_	7	cop	7:cop	_
+5	either	either	CCONJ	CC	_	7	cc:preconj	7:cc:preconj	_
+6	a	a	DET	DT	_	7	det	7:det	_
+7	moustache	moustache	NOUN	NN	_	2	ccomp	2:ccomp	_
+8	or	or	CCONJ	CC	_	10	cc	10:cc	_
+9	a	a	DET	DT	_	10	det	10:det	_
+10	smokestack	smokestack	NOUN	NN	_	7	conj	2:ccomp|7:conj:or	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 cc:preconj	color:blue
-1	Yeah	yeah	INTJ	UH	_	6	discourse	6:discourse	_
-2	now	now	ADV	RB	_	6	advmod	6:advmod	_
-3	the	the	DET	DT	_	4	det	4:det	_
-4	tractor	tractor	NOUN	NN	_	6	nsubj	6:nsubj	_
-5	's	be	AUX	VBZ	_	6	aux	6:aux	_
-6	pulling	pull	VERB	VBG	_	0	root	0:root	_
-7	both	both	CCONJ	CC	_	9	cc:preconj	9:cc:preconj	_
-8	the	the	DET	DT	_	9	det	9:det	_
-9	guys	guy	NOUN	NNS	_	6	obj	6:obj	_
-10	home	home	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
-11	.	.	PUNCT	.	_	6	punct	6:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 cc:preconj	color:blue
+1	The	the	DET	DT	_	3	det	3:det	_
+2	next	next	ADJ	JJ	_	3	amod	3:amod	_
+3	time	time	NOUN	NN	_	8	obl:unmarked	8:obl:unmarked	_
+4	it	it	PRON	PRP	_	8	nsubj	8:nsubj	_
+5	will	will	AUX	MD	_	8	aux	8:aux	_
+6	be	be	AUX	VB	_	8	cop	8:cop	_
+7	either	either	CCONJ	CC	_	8	cc:preconj	8:cc:preconj	_
+8	Fraser	Fraser	PROPN	NNP	_	0	root	0:root	_
+9	or	or	CCONJ	CC	_	10	cc	10:cc	_
+10	Gloria	Gloria	PROPN	NNP	_	8	conj	8:conj:or	SpaceAfter=No
+11	.	.	PUNCT	.	_	8	punct	8:punct	_
 
 ~~~
 
@@ -58,23 +79,6 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 13	have	have	VERB	VB	_	5	parataxis	5:parataxis	_
 14	both	both	CCONJ	CC	_	13	obj	13:obj	SpaceAfter=No
 15	.	.	PUNCT	.	_	5	punct	5:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 cc:preconj	color:blue
-1	Are	be	AUX	VBP	_	4	cop	4:cop	_
-2	they	they	PRON	PRP	_	4	nsubj	4:nsubj|6:nsubj	_
-3	both	both	ADV	RB	_	4	cc:preconj	4:cc:preconj	_
-4	orange	orange	ADJ	JJ	_	0	root	0:root	_
-5	and	and	CCONJ	CC	_	6	cc	6:cc	_
-6	green	green	ADJ	JJ	_	4	conj	4:conj:and	SpaceAfter=No
-7	?	?	PUNCT	?	_	4	punct	4:punct	_
 
 ~~~
 

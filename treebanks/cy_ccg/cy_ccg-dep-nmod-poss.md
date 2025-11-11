@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="cy_ccg-dep-nmod-agent.html">nmod:agent</a></tt>, <tt><a href="cy_ccg-dep-nmod-redup.html">nmod:redup</a></tt>.
 
-706 nodes (1%) are attached to their parents as `nmod:poss`.
+736 nodes (1%) are attached to their parents as `nmod:poss`.
 
-703 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02974504249292.
+732 instances of `nmod:poss` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03125.
 
-The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (654; 93% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (49; 7% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (3; 0% instances).
+The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (683; 93% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (50; 7% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 2	ôl	ôl	NOUN	noun	Gender=Masc|Number=Sing	8	obl	_	_
 3	cyfnod	cyfnod	NOUN	noun	Gender=Masc|Number=Sing	2	nmod	_	_
 4	yn	yn	ADP	prep	_	6	case	_	_
-5	yr	y	DET	art	_	6	det	_	_
+5	yr	y	DET	art	PronType=Art	6	det	_	_
 6	ysgol	ysgol	NOUN	noun	Gender=Fem|Number=Sing	3	nmod	_	_
 7	leol	lleol	ADJ	pos	Degree=Pos|Mutation=SM	6	amod	_	_
 8	gweithiodd	gweithio	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -48,10 +48,10 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 7 nmod:poss	color:blue
 1	Efallai	efallai	ADV	adv	_	3	advmod	_	_
-2	y	y	DET	art	_	3	det	_	_
+2	y	y	DET	art	PronType=Art	3	det	_	_
 3	dewch	dod	VERB	verb	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 4	i	i	ADP	prep	_	6	case	_	SpaceAfter=No
-5	'r	y	DET	art	_	6	det	_	_
+5	'r	y	DET	art	PronType=Art	6	det	_	_
 6	digwyddiad	digwyddiad	NOUN	noun	Gender=Masc|Number=Sing	3	obl	_	_
 7	eich	chi	PRON	dep	Number=Plur|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	hun	hun	PRON	refl	Number=Sing|PronType=Rcp	6	nmod	_	SpaceAfter=No

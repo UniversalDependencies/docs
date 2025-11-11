@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `appos`.
+12 nodes (0%) are attached to their parents as `appos`.
 
-11 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.09090909090909.
+12 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.08333333333333.
 
-The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 9% instances), <tt><a href="arh_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 9% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 9% instances).
+The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (3; 25% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt> (2; 17% instances), <tt><a href="arh_chibergis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-AUX.html">AUX</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arh_chibergis-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt>-<tt><a href="arh_chibergis-pos-VERB.html">VERB</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -33,24 +33,17 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 12 appos	color:blue
-1	iwa	iwa	CCONJ	_	_	10	cc	_	AlignBegin=38869|AlignEnd=39492|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]|TokenType=Root
-2	ikʉ	ikʉ	PROPN	_	Animacy=Anim|Case=Erg|Definite=Def	10	nsubj	_	AgentShift=yes|AlignBegin=39492|AlignEnd=39804|GE=[Ika]|Gloss=Ika|nWord=2|RX=[NPROP]|ShiftType=partial|TokenType=Root|Topic=yes
-3	=ri	_	PART	_	_	2	advmod	_	AlignBegin=39804|AlignEnd=40115|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
-4	(	_	PUNCT	_	_	5	punct	_	AlignBegin=40115|AlignEnd=40738|nWord=3
-5	mhm	mhm	INTJ	_	_	7	discourse	_	AlignBegin=40738|AlignEnd=41361|GE=[HES]|Gloss=HES|nWord=4|RX=[INTERJ]|TokenType=Root
-6	)	_	PUNCT	_	_	5	punct	_	AlignBegin=41361|AlignEnd=41984|nWord=5
-7	mʉkʉ	mʉkʉ	NOUN	_	_	9	nmod	_	AlignBegin=41984|AlignEnd=42296|GE=cloth|Gloss=cloth|nWord=6|RX=[N]|TokenType=Root
-8	=ri	_	PART	_	_	7	advmod	_	AlignBegin=42296|AlignEnd=42607|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit
-9	mowga	mowga	NUM	_	Animacy=Inan|Case=Abs|Definite=Ind	10	obj	_	AlignBegin=42607|AlignEnd=43230|GE=two|Gloss=two|nWord=7|RX=[NUM]|TokenType=Root|Topic=no
-10	mikʉnʉsi	nʉsi	VERB	_	_	0	root	_	AlignBegin=43230|AlignEnd=43853|ArgumentOrder=SOV|GE=stand|Gloss=2SG.OAPPL1stand|nWord=8|RX=[V]|TokenType=Root|Transitivity=transitive
-11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=43853|AlignEnd=44476|nWord=9
-12	a'mia	a'mia	NOUN	_	_	10	appos	_	AlignBegin=44476|AlignEnd=44788|GE=woman|Gloss=woman|nWord=10|RX=[N]|TokenType=Root
-13	=ri	_	PART	_	_	12	advmod	_	AlignBegin=44788|AlignEnd=45100|GE=[TOP]|Gloss==TOP|nWord=10|RX=[PRT]|TokenType=Clit
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 appos	color:blue
+1	ga'na	ga'na	NOUN	_	_	3	obl:arg	_	AlignBegin=40656|AlignEnd=41208|GE=neck|Gloss=neck|nWord=1|RX=[N]|TokenType=Root
+2	mʉkʉ	mʉkʉ	NOUN	_	Case=Abs	3	obj	_	AlignBegin=41208|AlignEnd=41760|GE=cloth|Gloss=cloth|nWord=2|RX=[N]|TokenType=Root
+3	kʉɉa	ɉa	VERB	_	_	0	root	_	AlignBegin=41760|AlignEnd=42312|GE=dress|Gloss=APPL1dress|nWord=3|RX=[V]|TokenType=Root
+4	zi'	zi'	ADJ	_	_	3	appos	_	AlignBegin=42312|AlignEnd=42864|GE=red|Gloss=red|nWord=4|RX=[ADJ]|TokenType=Root
+5	kawa	kaw	AUX	_	_	4	cop	_	AlignBegin=42864|AlignEnd=43416|GE=seem|Gloss=seem|nWord=5|RX=[AUX]|TokenType=Root
+6	nʉnna	nan	AUX	_	_	4	aux	_	AlignBegin=43416|AlignEnd=43970|GE=[RMTPST]|Gloss=copRMTPST|nWord=6|RX=[VERB]|TokenType=InflAff
 
 ~~~
 

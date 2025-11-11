@@ -8,31 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (0%) are attached to their parents as `csubj`.
+56 nodes (0%) are attached to their parents as `csubj`.
 
-34 instances of `csubj` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.12820512820513.
+50 instances of `csubj` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.67857142857143.
 
-The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (13; 33% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (12; 31% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (6; 15% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 csubj	color:blue
-1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_32_14592
-2	est	être	AUX	VERcjg	VerbForm=Fin	3	cop	_	XmlId=w_32_14593
-3	temps	temps	NOUN	NOMcom	_	0	root	_	XmlId=w_32_14594
-4	que	que	SCONJ	CONsub	_	6	mark	_	XmlId=w_32_14595
-5	je	je	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_32_14596
-6	retourne	retourner	VERB	VERcjg	VerbForm=Fin	3	csubj	_	XmlId=w_32_14597
-7	au	à.le	ADP	PRE.DETdef	_	8	case:det	_	XmlId=w_32_14598
-8	myen	mien	PRON	PROpos	Poss=Yes	6	obl	_	SpaceAfter=No|XmlId=w_32_14599
-9	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_14600
-
-~~~
+The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (18; 32% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (16; 29% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (8; 14% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (7; 13% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -52,6 +33,25 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 9	est	être	AUX	VERcjg	VerbForm=Fin	7	cop	_	SpaceAfter=No|XmlId=w_42_07842
 10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_07843
 11	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_07844
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 csubj	color:blue
+1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_32_14592
+2	est	être	AUX	VERcjg	VerbForm=Fin	3	cop	_	XmlId=w_32_14593
+3	temps	temps	NOUN	NOMcom	_	0	root	_	XmlId=w_32_14594
+4	que	que	SCONJ	CONsub	_	6	mark	_	XmlId=w_32_14595
+5	je	je	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_32_14596
+6	retourne	retourner	VERB	VERcjg	VerbForm=Fin	3	csubj	_	XmlId=w_32_14597
+7	au	à.le	ADP	PRE.DETdef	_	8	case:det	_	XmlId=w_32_14598
+8	myen	mien	PRON	PROpos	Poss=Yes	6	obl	_	SpaceAfter=No|XmlId=w_32_14599
+9	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_14600
 
 ~~~
 

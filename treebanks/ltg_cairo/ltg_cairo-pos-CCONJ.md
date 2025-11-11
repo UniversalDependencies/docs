@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latgalian-Cairo: POS Tags: `CCONJ`
 
 There are 4 `CCONJ` lemmas (4%), 4 `CCONJ` types (3%) and 10 `CCONJ` tokens (6%).
-Out of 11 observed tags, the rank of `CCONJ` is: 8 in number of lemmas, 8 in number of types and 6 in number of tokens.
+Out of 13 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>i, bet, ni, voi</em>
 
@@ -32,7 +32,13 @@ The 2nd highest number of forms (1) was observed with the lemma “i”: <em>i</
 
 The 3rd highest number of forms (1) was observed with the lemma “ni”: <em>ni</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="ltg_cairo-feat-Polarity.html">Polarity</a></tt> (2; 20% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `Polarity=Neg`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (8 tokens).
+Examples: <em>i, bet, voi</em>
 
 
 ## Relations

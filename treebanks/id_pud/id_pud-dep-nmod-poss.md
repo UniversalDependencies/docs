@@ -26,12 +26,12 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Suara	suara	NOUN	_	Number=Sing	4	nsubj	_	_
 3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
-4	menjangkau	jangkau	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	menjangkau	jangkau	VERB	_	Voice=Act	0	root	_	_
 5	seluruh	seluruh	DET	_	PronType=Tot	6	det	_	_
 6	dunia	dunia	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
 8	"	"	PUNCT	_	_	4	punct	_	_
-9	kata	kata	VERB	_	Mood=Ind|Voice=Act	4	parataxis	_	_
+9	kata	kata	VERB	_	Voice=Act	4	parataxis	_	_
 10	Leive	Leive	PROPN	_	_	9	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 2	baru	baru	ADJ	_	_	1	amod	_	_
 3	ini	ini	DET	_	PronType=Dem	1	det	_	_
-4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	dipasok	pasok	VERB	_	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	_	_	6	case	_	_
 6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
 7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_

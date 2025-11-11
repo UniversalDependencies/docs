@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>володимеръ</em> (<tt><a hre
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 2.464803 (the average of all parts of speech is 3.947827).
+The form / lemma ratio of `PROPN` is 2.464803 (the average of all parts of speech is 3.947403).
 
 The 1st highest number of forms (39) was observed with the lemma “христ(ос)ъ”: <em>x҃ѣ, Хо҃мъ, Хо҃у, Христа, Хѣ҃, крста, кр҃та, ха҃, хв҃и, хе҃, христоса, хрста, хса, хсе, хсмсь, хсс, хссъ, хсу, хсъ, хсѣ, хс҃, хс҃ъ, хс҃ь, хс҃ѹ, ху, хус, ху҃, хѣ, хѹ҃, х҃, х҃а, х҃е, х҃омъ, х҃с, х҃съ, х҃у, х҃ь, х҃ѣ, х҃ѹ</em>.
 

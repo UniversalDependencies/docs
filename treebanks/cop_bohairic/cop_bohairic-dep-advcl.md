@@ -28,7 +28,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	ⲥϩⲓⲙⲓ	ⲥϩⲓⲙⲓ	NOUN	N	_	7	dislocated	_	Entity=person)
 5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
 6	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	ⲉⲣ	ⲓⲣⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ⲉⲣ	ⲓⲣⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 8	ⲓⲃ	ⲓⲃ	NUM	NUM	NumType=Card	10	nummod	_	Entity=(time
 9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲣⲟⲙⲡⲓ	ⲣⲟⲙⲡⲓ	NOUN	N	_	7	obj	_	Entity=time)
@@ -59,7 +59,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	ⲧⲁⲝⲓⲥ	ⲧⲁⲝⲓⲥ	NOUN	N	Foreign=Yes	4	obl	_	OrigLang=grc
 9	ϣⲁⲧⲉ	ϣⲁⲧⲉ	AUX	ALIM	_	11	aux	_	_
 10	ⲕ	ⲛⲑⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
-11	ⲓ	ⲓ	VERB	V	VerbForm=Fin	4	advcl	_	_
+11	ⲓ	ⲓ	VERB	V	Mood=Ind|VerbForm=Fin	4	advcl	_	_
 12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
 13	ⲛⲓ	ⲡⲓ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
 14	ϧⲁⲉⲩ	ϧⲁⲉ	NOUN	N	_	11	obl	_	_
@@ -76,7 +76,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 13 11 advcl	color:blue
 1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	3	mark	_	_
 2	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	ϣⲉⲛϩⲏⲧ	ϣⲉⲛϩⲏⲧ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ϣⲉⲛ-ϩⲏⲧ
+3	ϣⲉⲛϩⲏⲧ	ϣⲉⲛϩⲏⲧ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ϣⲉⲛ-ϩⲏⲧ
 4	ϧⲁ	ϧⲁ	ADP	PREP	_	6	case	_	_
 5	ⲡⲁⲓ	ⲫⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Entity=(person
 6	ⲙⲏϣ	ⲙⲏϣ	NOUN	N	_	3	obl	_	Entity=person)
@@ -86,7 +86,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
 11	ⲉϩⲟⲟⲩ	ⲉϩⲟⲟⲩ	NOUN	N	_	13	advcl	_	Entity=time)
 12	ⲥⲉ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
-13	ⲟϩⲓ	ⲟϩⲓ	VERB	V	VerbForm=Fin	3	ccomp	_	_
+13	ⲟϩⲓ	ⲟϩⲓ	VERB	V	Mood=Ind|VerbForm=Fin	3	ccomp	_	_
 14	ϩⲁⲣⲟ	ϩⲁ	ADP	PREP	_	15	case	_	_
 15	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	13	obl	_	_
 16	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	17	cc	_	_
@@ -95,7 +95,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 19	ⲉⲧ	ⲉⲧⲉ	SCONJ	CREL	_	22	mark	_	_
 20	ⲟⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
 21	ⲛⲁ	ⲛⲁ	AUX	FUT	_	22	aux	_	_
-22	ⲟⲩⲟⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	18	acl:relcl	_	_
+22	ⲟⲩⲟⲙ	ⲟⲩⲱⲙ	VERB	V	Mood=Ind|VerbForm=Fin	18	acl:relcl	_	_
 23	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	Entity=object)
 24	.	.	PUNCT	PUNCT	_	3	punct	_	_
 

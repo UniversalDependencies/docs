@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	сэсся	сэсся	ADV	Adv	_	4	advmod	_	_
 3	вылісянь	вылісянь	ADV	Adv	Case=Egr	4	obl	_	_
-4	мӧдӧдчисны	мӧдӧдчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+4	мӧдӧдчисны	мӧдӧдчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	гырысь	гырысь	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
 6	зэр	зэр	NOUN	N	Case=Nom|Number=Sing	7	compound	_	_
 7	войтъяс	войт	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 3	блинсӧ	блин	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	GTtags=Sg,Acc,PxSg3
 4	пиянлы	пи	NOUN	N	Case=Dat|Number=Plur	6	obl	_	GTtags=Pl,Dat
 5	нин	нин	ADV	Adv	Case=Nom|Number=Sing	6	advmod	_	GTtags=Sg,Nom
-6	вайӧ	вайны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,Sg3
+6	вайӧ	вайны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prs,Sg3
 7	Да	да	CCONJ	CC	_	8	cc	_	_
 8	шуӧ	шуӧ	VERB	V	Case=Nom|Number=Sing	6	conj	_	GTtags=Sg,Nom
 9	меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl	_	GTtags=Pers,Sg1,Dat|SpaceAfter=No

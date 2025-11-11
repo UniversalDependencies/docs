@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Thai-PUD: POS Tags: `DET`
 
-There are 25 `DET` lemmas (1%), 25 `DET` types (1%) and 1026 `DET` tokens (5%).
+There are 25 `DET` lemmas (1%), 25 `DET` types (1%) and 1027 `DET` tokens (5%).
 Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
 The 10 most frequent `DET` lemmas: ที่, นี้, ซึ่ง, นั้น, หลาย, อีก, ทุก, ทั้ง, บาง, ทั้งหมด
 
 The 10 most frequent `DET` types:  ที่, นี้, ซึ่ง, นั้น, หลาย, อีก, ทุก, ทั้ง, บาง, ทั้งหมด
 
-The 10 most frequent ambiguous lemmas: ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 495, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), ซึ่ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 91, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 22), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), หลาย (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 56, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1), ทั้ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 2), ทั้งหมด (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 15, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 1), อัน (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), ผู้ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 110, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 11)
+The 10 most frequent ambiguous lemmas: ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 496, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), ซึ่ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 91, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 22), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), หลาย (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 56, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21), ทั้ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 2), ทั้งหมด (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 15, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 1), อัน (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), ผู้ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 110, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 11)
 
-The 10 most frequent ambiguous types:  ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 495, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), ซึ่ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 91, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 22), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), หลาย (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 56, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1), ทั้ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 2), ทั้งหมด (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 15, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 1), อัน (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), ผู้ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 110, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 11)
+The 10 most frequent ambiguous types:  ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 496, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), ซึ่ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 91, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 22), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), หลาย (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 56, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21), ทั้ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 2), ทั้งหมด (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 15, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 1), อัน (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), ผู้ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 110, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 11)
 
 
 * ที่
-  * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 495: 5,000 ดอลลาร์ ต่อ คน สูง สุด ตาม <b>ที่</b> ได้รับ อนุญาต
+  * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 496: 5,000 ดอลลาร์ ต่อ คน สูง สุด ตาม <b>ที่</b> ได้รับ อนุญาต
   * <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126: ไม่ ใช่ ทุก คน <b>ที่</b> สามารถ อยู่ เหนือ มัน ได้
   * <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102: วัน <b>ที่</b> สาม ฉัน ก็ กลับ มา ใช้ อีไมโคร
   * <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30: เท่า <b>ที่</b> ผ่าน มา ซีรีส์ สอง ยัง ใช้ ได้ หรือเปล่า
@@ -37,8 +37,7 @@ The 10 most frequent ambiguous types:  ที่ (<tt><a href="th_pud-pos-DET.ht
   * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1: น้ำมัน ทองคำ หรือ ผลิตภัณฑ์ อาหาร อย่าง ข้าว สาลี เป็น ทรัพยากร ธรรมชาติ ที่ นัก ลง ทุน ได้ ลง ทุน <b>หลาย</b> พัน ล้าน ทั่ว โลก
 * อีก
   * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 30: อย่างน้อย 330,000 คน รวม ช่าง เทคนิค <b>อีก</b> 10,000 คน มี ส่วน เกี่ยวข้อง ด้วย
-  * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 20: นี่ คือ สิ่ง ที่ ทำให้ เรา กลับ มา <b>อีก</b>
-  * <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1: ใน ช่วง ชีวิต ของ เขา ที่ นั่น คิปลิง พบ และ ตกหลุมรัก กับ ฟลอเรนซ์ การ์ราร์ด ที่ ล่อง เรือ ไป กับ ทริกซ์ ที่ ทะเล ใต้ ( ซึ่ง ทริกซ์ ได้ กลับ มา <b>อีก</b> )
+  * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 21: นี่ คือ สิ่ง ที่ ทำให้ เรา กลับ มา <b>อีก</b>
 * ทั้ง
   * <tt><a href="th_pud-pos-DET.html">DET</a></tt> 20: ระดับ ของ <b>ทั้ง</b> สอง กรณี เป็น ขั้น สูง สุด ของ สหภาพ ยุโรป
   * <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 14: <b>ทั้ง</b> เวลา และ ลำดับ เหตุการณ์ ของ สถานการณ์ นี้ มี การถกเถียง กัน อย่างเอาจริงเอาจัง
@@ -66,28 +65,30 @@ The 2nd highest number of forms (1) was observed with the lemma “ซึ่ง�
 
 The 3rd highest number of forms (1) was observed with the lemma “ดังกล่าว”: ดังกล่าว.
 
-`DET` occurs with 1 features: <tt><a href="th_pud-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`DET` occurs with 3 features: <tt><a href="th_pud-feat-PronType.html">PronType</a></tt> (1027; 100% instances), <tt><a href="th_pud-feat-Foreign.html">Foreign</a></tt> (11; 1% instances), <tt><a href="th_pud-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`DET` occurs with 1 feature-value pairs: `PronType=Int`
+`DET` occurs with 8 feature-value pairs: `ExtPos=CCONJ`, `Foreign=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1025 tokens).
-Examples: ที่, นี้, ซึ่ง, นั้น, หลาย, อีก, ทุก, ทั้ง, บาง, ทั้งหมด
+`DET` occurs with 7 feature combinations.
+The most frequent feature combination is `PronType=Rel` (616 tokens).
+Examples: ที่, ซึ่ง, อัน, ผู้, ไหน
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (428; 42% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (413; 40% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (90; 9% instances), <tt><a href="th_pud-dep-obl-tmod.html">obl:tmod</a></tt> (46; 4% instances), <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (38; 4% instances), <tt><a href="th_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (6; 1% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="th_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 10 different relations: <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (428; 42% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (413; 40% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (89; 9% instances), <tt><a href="th_pud-dep-obl-tmod.html">obl:tmod</a></tt> (46; 4% instances), <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (38; 4% instances), <tt><a href="th_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (6; 1% instances), <tt><a href="th_pud-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="th_pud-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (500; 49% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (413; 40% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (90; 9% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (510; 50% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (395; 38% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (90; 9% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-1020 (99%) `DET` nodes are leaves.
+928 (90%) `DET` nodes are leaves.
 
-6 (1%) `DET` nodes have one child.
+97 (9%) `DET` nodes have one child.
 
-The highest child degree of a `DET` node is 1.
+2 (0%) `DET` nodes have two children.
 
-Children of `DET` nodes are attached using 5 different relations: <tt><a href="th_pud-dep-dep.html">dep</a></tt> (2; 33% instances), <tt><a href="th_pud-dep-compound.html">compound</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (1; 17% instances)
+The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 33% instances), <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> (2; 33% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 17% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (1; 17% instances)
+Children of `DET` nodes are attached using 6 different relations: <tt><a href="th_pud-dep-clf.html">clf</a></tt> (91; 90% instances), <tt><a href="th_pud-dep-compound.html">compound</a></tt> (3; 3% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (3; 3% instances), <tt><a href="th_pud-dep-punct.html">punct</a></tt> (2; 2% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (1; 1% instances)
+
+Children of `DET` nodes belong to 5 different parts of speech: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (93; 92% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (4; 4% instances), <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 2% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

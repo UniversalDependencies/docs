@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of Definite in UD_Kurmanji-MG'
+title:  'Statistics of Definite in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Features: `Definite`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Features: `Definite`
 
 This feature is universal.
 It occurs with 1 different values: `Def`.
@@ -12,13 +12,13 @@ It occurs with 1 different values: `Def`.
 2549 tokens (25%) have a non-empty value of `Definite`.
 1509 types (54%) occur at least once with a non-empty value of `Definite`.
 1067 lemmas (59%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 5 part-of-speech tags: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2311; 23% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (176; 2% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> (2311; 23% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> (176; 2% instances), <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-2311 <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Definite`.
+2311 <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2311; 100%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1876; 81%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1446; 63%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="kmr_kurmanji-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2311; 100%), <tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1876; 81%), <tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1446; 63%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
@@ -29,9 +29,9 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `PROPN`
 
-176 <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> tokens (40% of all `PROPN` tokens) have a non-empty value of `Definite`.
+176 <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt> tokens (40% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (173; 98%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (171; 97%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt> (120; 68%).
+The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Sing</tt> (173; 98%), <tt><a href="kmr_kurmanji-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (171; 97%), <tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Acc</tt> (120; 68%).
 
 `PROPN` tokens may have the following values of `Definite`:
 
@@ -42,9 +42,9 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 ### `NUM`
 
-60 <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> tokens (28% of all `NUM` tokens) have a non-empty value of `Definite`.
+60 <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt> tokens (28% of all `NUM` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="kmr_mg-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (60; 100%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt> (49; 82%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt> (38; 63%).
+The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="kmr_kurmanji-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (60; 100%), <tt><a href="kmr_kurmanji-feat-Case.html">Case</a></tt><tt>=Nom</tt> (49; 82%), <tt><a href="kmr_kurmanji-feat-Number.html">Number</a></tt><tt>=Plur</tt> (38; 63%).
 
 `NUM` tokens may have the following values of `Definite`:
 
@@ -55,9 +55,9 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 ### `ADP`
 
-1 <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Definite`.
+1 <tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="kmr_mg-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (1; 100%).
+The most frequent other feature values with which `ADP` and `Definite` co-occurred: <tt><a href="kmr_kurmanji-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (1; 100%).
 
 `ADP` tokens may have the following values of `Definite`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 
 ### `X`
 
-1 <tt><a href="kmr_mg-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Definite`.
+1 <tt><a href="kmr_kurmanji-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Definite`.
 
 `X` tokens may have the following values of `Definite`:
 
@@ -76,14 +76,14 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (397; 87%),
-<tt>NOUN --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (105; 88%),
-<tt>NOUN --[<tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (95; 71%),
-<tt>NOUN --[<tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (62; 66%),
-<tt>NOUN --[<tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (46; 71%),
-<tt>PROPN --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (15; 88%),
-<tt>NOUN --[<tt><a href="kmr_mg-dep-acl.html">acl</a></tt>]--> NOUN</tt> (9; 90%),
-<tt>NUM --[<tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9; 82%),
-<tt>NUM --[<tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (8; 62%),
-<tt>NOUN --[<tt><a href="kmr_mg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 70%).
+<tt>NOUN --[<tt><a href="kmr_kurmanji-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (397; 87%),
+<tt>NOUN --[<tt><a href="kmr_kurmanji-dep-conj.html">conj</a></tt>]--> NOUN</tt> (105; 88%),
+<tt>NOUN --[<tt><a href="kmr_kurmanji-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (95; 71%),
+<tt>NOUN --[<tt><a href="kmr_kurmanji-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (62; 66%),
+<tt>NOUN --[<tt><a href="kmr_kurmanji-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (46; 71%),
+<tt>PROPN --[<tt><a href="kmr_kurmanji-dep-conj.html">conj</a></tt>]--> PROPN</tt> (15; 88%),
+<tt>NOUN --[<tt><a href="kmr_kurmanji-dep-acl.html">acl</a></tt>]--> NOUN</tt> (9; 90%),
+<tt>NUM --[<tt><a href="kmr_kurmanji-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9; 82%),
+<tt>NUM --[<tt><a href="kmr_kurmanji-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (8; 62%),
+<tt>NOUN --[<tt><a href="kmr_kurmanji-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 70%).
 

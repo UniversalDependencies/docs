@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="eo_prago-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-94 nodes (11%) are attached to their parents as `nmod`.
+294 nodes (9%) are attached to their parents as `nmod`.
 
-84 instances of `nmod` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.47872340425532.
+248 instances of `nmod` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.39795918367347.
 
-The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (64; 68% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (7; 7% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (161; 55% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (51; 17% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (24; 8% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (11; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,52 +39,50 @@ The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 nmod	color:blue
-1	1	1	NUM	_	_	3	nmod	_	SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	_
-3	DEMOKRATIO	demokratio	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nmod	color:blue
+1	4	4	NUM	_	_	7	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	7	punct	_	_
+3	Laŭ	laŭ	ADP	_	_	5	case	_	_
+4	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	profesio	profesio	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	_
+6	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	estas	esti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 26 nmod	color:blue
-1	Ni	ni	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	asertas	aserti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	ke	ke	SCONJ	_	_	14	mark	_	_
-4	la	la	DET	_	Definite=Def|PronType=Art	5	det	_	_
-5	anoj	ano	NOUN	_	Case=Nom|Number=Plur	14	nsubj	_	_
-6	de	de	ADP	_	_	8	case	_	_
-7	ĉiuj	ĉiu	DET	_	Case=Nom|Number=Plur|PronType=Tot	8	det	_	_
-8	lingvoj	lingvo	NOUN	_	Case=Nom|Number=Plur	5	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	grandaj	granda	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
-11	kaj	kaj	CCONJ	_	_	12	cc	_	_
-12	malgrandaj	malgranda	ADJ	_	Case=Nom|Number=Plur	10	amod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	_
-14	devus	devi	VERB	_	Mood=Sub|VerbForm=Fin	2	ccomp	_	_
-15	disponi	disponi	VERB	_	VerbForm=Inf	14	xcomp	_	_
-16	pri	pri	ADP	_	_	18	case	_	_
-17	reala	reala	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	18	amod	_	_
-18	ŝanco	ŝanco	NOUN	_	Case=Nom|Number=Sing	15	nmod	_	_
-19	por	por	ADP	_	_	20	mark	_	_
-20	alproprigi	alproprigi	VERB	_	VerbForm=Inf	18	acl	_	_
-21	duan	dua	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	22	amod	_	_
-22	lingvon	lingvo	NOUN	_	Case=Acc|Number=Sing	20	obj	_	_
-23	ĝis	ĝis	ADP	_	_	26	case	_	_
-24	alta	alta	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	26	amod	_	_
-25	komunika	komunika	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	26	amod	_	_
-26	nivelo	nivelo	NOUN	_	Case=Nom|Number=Sing	20	nmod	_	SpaceAfter=No
-27	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 nmod	color:blue
+1	Neniam	neniam	ADV	_	_	4	advmod	_	_
+2	mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	devas	devi	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	malami	malami	VERB	_	VerbForm=Inf	0	root	_	_
+5	moki	moki	VERB	_	VerbForm=Inf	4	xcomp	_	_
+6	aŭ	aŭ	CCONJ	_	_	7	cc	_	_
+7	persekuti	persekuti	VERB	_	VerbForm=Inf	5	conj	_	_
+8	iun	iu	PRON	_	Case=Acc|Number=Sing|PronType=Art	7	obj	_	_
+9	pro	pro	ADP	_	_	10	case	_	_
+10	tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	18	punct	_	_
+12	ke	ke	SCONJ	_	_	18	mark	_	_
+13	lia	lia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	_
+14	kredo	kredo	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	_
+15	pri	pri	ADP	_	_	16	case	_	_
+16	Dio	dio	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
+17	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	alia	alia	PRON	_	Case=Nom|Number=Sing	10	acl:relcl	_	_
+19	ol	ol	CCONJ	_	_	20	cc	_	_
+20	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

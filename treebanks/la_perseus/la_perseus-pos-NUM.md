@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>una</em> (<tt><a href="la_perseus-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.846154 (the average of all parts of speech is 2.101598).
+The form / lemma ratio of `NUM` is 1.846154 (the average of all parts of speech is 2.101803).
 
 The 1st highest number of forms (7) was observed with the lemma “duo”: <em>duabus, duae, duas, duo, duobus, duorum, duos</em>.
 
@@ -61,9 +61,9 @@ Examples: <em>quattuor, septem, viginti, centum, decem, mille, quinque, sex, tre
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 8 different relations: <tt><a href="la_perseus-dep-nummod.html">nummod</a></tt> (130; 78% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (9; 5% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (8; 5% instances), <tt><a href="la_perseus-dep-flat.html">flat</a></tt> (6; 4% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (6; 4% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (5; 3% instances), <tt><a href="la_perseus-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`NUM` nodes are attached to their parents using 9 different relations: <tt><a href="la_perseus-dep-nummod.html">nummod</a></tt> (130; 78% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (9; 5% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (7; 4% instances), <tt><a href="la_perseus-dep-flat.html">flat</a></tt> (6; 4% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (6; 4% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (5; 3% instances), <tt><a href="la_perseus-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-conj-expl.html">conj:expl</a></tt> (1; 1% instances), <tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (112; 67% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (21; 13% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (16; 10% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 1% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (113; 68% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (20; 12% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (16; 10% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 1% instances)
 
 132 (79%) `NUM` nodes are leaves.
 

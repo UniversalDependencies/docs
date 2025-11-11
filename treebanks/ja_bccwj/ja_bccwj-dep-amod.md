@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 3	_	_	NOUN	_	_	6	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=6673
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 5	_	_	NOUN	_	_	6	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=8378
-6	_	_	NOUN	_	_	13	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=8288
+6	_	_	NOUN	_	_	13	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=8288
 7	_	_	ADP	_	_	6	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 8	_	_	NOUN	_	_	10	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=43919
 9	_	_	NOUN	_	_	10	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=52238
@@ -54,7 +54,7 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 amod	color:blue
-1	_	_	PUNCT	_	_	14	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=13
+1	_	_	PUNCT	_	_	3	punct	_	BBIL=B|BPT=1|LBIL=B|LPOS=14|SpaceAfter=No|UI=13
 2	_	_	DET	_	_	3	det	_	BBIL=B|BPT=1|LBIL=B|LPOS=27|SpaceAfter=No|UI=34
 3	_	_	NOUN	_	_	8	nsubj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=297
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=6
@@ -108,7 +108,7 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 21	_	_	AUX	_	_	18	aux	_	BBIL=I|BPT=3|LBIL=B|LPOS=7|SpaceAfter=No|UI=7
 22	_	_	AUX	_	_	18	aux	_	BBIL=I|BPT=3|LBIL=B|LPOS=79|SpaceAfter=No|UI=505
 23	_	_	AUX	_	_	18	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=24|PUDL=だ|SpaceAfter=No|UI=27
-24	_	_	PUNCT	_	_	18	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|SpaceAfter=No|UI=14
+24	_	_	PUNCT	_	_	18	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=13|UI=14
 
 ~~~
 

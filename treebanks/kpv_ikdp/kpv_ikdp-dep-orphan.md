@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13 14 orphan	color:blue
 1	Миян	ме	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	GTtags=Pers,Pl1,Gen
 2	школаын	школа	NOUN	N	Case=Ine|Number=Sing	5	obl	_	GTtags=Sg,Ine
-3	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	GTtags=Ind,Prt1,Sg3
+3	вӧліс	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	GTtags=Ind,Prt1,Sg3
 4	зэй	зэв	ADV	Adv	_	5	advmod:deg	_	GTtags=Err/Dial
 5	бур	бур	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom
 6	велэдысьыс	велӧдны	NOUN	N	Case=Nom|Nomzr=Ag|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	GTtags=Err/Dial,Der,Der/ысь,Der/NomAg,N,Sg,Nom|PxSg3|SpaceAfter=No
@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 13	сыа	сійӧ	PRON	Pron	PronType=Dem	16	reparandum	_	GTtags=Err/Dial,Dem
 14	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	orphan	_	GTtags=Pers,Sg1,Err/Dial,Acc|SpaceAfter=No
 15	...	...	PUNCT	PUNCT	_	13	punct	_	_
-16	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	GTtags=Ind,Prt1,Sg3
+16	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	GTtags=Ind,Prt1,Sg3
 17	вынсэ	вын	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	obj	_	GTtags=Sg,Acc,PxSg3,Err/Dial|SpaceAfter=No
 18	,	,	PUNCT	PUNCT	_	19	punct	_	_
 19	импульсэ	импульс	NOUN	N	Case=Ill|Number=Sing	17	conj	_	GTtags=Sg,Err/Dial,Ill|SpaceAfter=No
@@ -69,7 +69,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 23	зэйджык	зэв	ADV	Adv	Degree=Cmp	26	advmod	_	GTtags=Err/Dial,Comp|SpaceAfter=No
 24	,	,	PUNCT	PUNCT	_	25	punct	_	_
 25	ёна-ёна	ёна-ёна	ADV	Adv	_	23	conj	_	_
-26	велэда	велӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	16	advcl	_	GTtags=Err/Dial,Ind,Prs,Sg1
+26	велэда	велӧдны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	advcl	_	GTtags=Err/Dial,Ind,Prs,Sg1
 27	кыысэ	кыв	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	26	obj	_	GTtags=Sg,Acc,PxSg3,Err/Dial|SpaceAfter=No
 28	.	.	PUNCT	PUNCT	_	5	punct	_	_
 

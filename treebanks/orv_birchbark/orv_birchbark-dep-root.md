@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3114 nodes (11%) are attached to their parents as `root`.
+3184 nodes (11%) are attached to their parents as `root`.
 
-3114 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.31920359666024.
+3184 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.31626884422111.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1443; 46% instances), -<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (610; 20% instances), -<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (595; 19% instances), -<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (242; 8% instances), -<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (84; 3% instances), -<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (49; 2% instances), -<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (29; 1% instances), -<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (21; 1% instances), -<tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (13; 0% instances), -<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (12; 0% instances), -<tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (8; 0% instances), -<tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="orv_birchbark-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="orv_birchbark-pos-VERB.html">VERB</a></tt> (1471; 46% instances), -<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (626; 20% instances), -<tt><a href="orv_birchbark-pos-PROPN.html">PROPN</a></tt> (608; 19% instances), -<tt><a href="orv_birchbark-pos-X.html">X</a></tt> (247; 8% instances), -<tt><a href="orv_birchbark-pos-ADJ.html">ADJ</a></tt> (86; 3% instances), -<tt><a href="orv_birchbark-pos-PRON.html">PRON</a></tt> (51; 2% instances), -<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (29; 1% instances), -<tt><a href="orv_birchbark-pos-DET.html">DET</a></tt> (22; 1% instances), -<tt><a href="orv_birchbark-pos-ADP.html">ADP</a></tt> (13; 0% instances), -<tt><a href="orv_birchbark-pos-ADV.html">ADV</a></tt> (12; 0% instances), -<tt><a href="orv_birchbark-pos-PART.html">PART</a></tt> (9; 0% instances), -<tt><a href="orv_birchbark-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="orv_birchbark-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="orv_birchbark-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="orv_birchbark-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

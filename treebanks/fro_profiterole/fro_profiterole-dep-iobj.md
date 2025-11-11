@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3845 nodes (2%) are attached to their parents as `iobj`.
+3676 nodes (2%) are attached to their parents as `iobj`.
 
-3351 instances of `iobj` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48816644993498.
+3255 instances of `iobj` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46490750816104.
 
-The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (3694; 96% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (76; 2% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (38; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (31; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `iobj`: <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (3516; 96% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (78; 2% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (37; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (29; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,41 +22,34 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 iobj	color:blue
-1	Jo	_	PRON	PROper	PronType=Prs	3	nsubj	_	XmlId=w_58_00152
+1	Jo	_	PRON	PROper	_	3	nsubj	_	XmlId=w_58_00152
 2	nen	_	ADV	ADVgen.PROper	_	3	advmod	_	XmlId=w_58_00153
-3	ai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00154
+3	ai	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_00154
 4	ost	_	NOUN	NOMcom	_	3	obj	_	XmlId=w_58_00155
-5	qui	_	PRON	PROrel	PronType=Prs,Rel	8	nsubj	_	XmlId=w_58_00156
+5	qui	_	PRON	PROrel	_	8	nsubj	_	XmlId=w_58_00156
 6	bataille	_	NOUN	NOMcom	_	8	obj	_	XmlId=w_58_00157
-7	li	_	PRON	PROper	PronType=Prs	8	iobj	_	XmlId=w_58_00158
-8	dunne	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No|XmlId=w_58_00159
+7	li	_	PRON	PROper	_	8	iobj	_	XmlId=w_58_00158
+8	dunne	_	VERB	VERcjg	_	4	acl:relcl	_	SpaceAfter=No|XmlId=w_58_00159
 9	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_58_00160
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 iobj	color:blue
-1	Se	_	SCONJ	CONsub	_	6	mark	_	XmlId=w_26_00312
-2	vos	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_26_00313
-3	m'	_	PRON	PROper	PronType=Prs	6	iobj	_	SpaceAfter=No|XmlId=w_26_00314
-4	en	_	ADV	PROadv	PronType=Dem	6	obl:advmod	_	XmlId=w_26_00315
-5	erïez	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_26_00316
-6	ami	_	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_26_00317
-7	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_26_00318
-8	N'	_	ADV	ADVneg	Polarity=Neg	11	advmod	_	SpaceAfter=No|XmlId=w_26_00319
-9	ert	_	AUX	VERcjg	VerbForm=Fin	11	cop	_	XmlId=w_26_00320
-10	pas	_	ADV	ADVneg	Polarity=Neg	11	advmod	_	XmlId=w_26_00321
-11	mervelle	_	NOUN	NOMcom	_	0	root	_	SpaceAfter=No|XmlId=w_26_00322
-12	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_26_00323
-13	par	_	ADP	PRE	_	15	case	_	XmlId=w_26_00324
-14	ma	_	DET	DETpos	Poss=Yes	15	det	_	XmlId=w_26_00325
-15	foi	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_26_00326
-16	!	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_26_00327
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 iobj	color:blue
+1	«	_	PUNCT	PONpga	_	4	punct	_	XmlId=w_58_05939
+2	Mei	_	PRON	PROper	_	4	iobj	_	XmlId=w_58_05940
+3	est	_	AUX	VERcjg	_	4	cop	_	XmlId=w_58_05941
+4	vis	_	NOUN	NOMcom	_	0	root	_	XmlId=w_58_05942
+5	que	_	SCONJ	CONsub	_	7	mark	_	XmlId=w_58_05943
+6	trop	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_58_05944
+7	targe	_	VERB	VERcjg	_	4	csubj	_	XmlId=w_58_05945
+8	!	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_58_05946
+9	»	_	PUNCT	PONpdr	_	4	punct	_	XmlId=w_58_05947
 
 ~~~
 
@@ -70,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	es	_	ADV	ADVgen	_	0	root	_	XmlId=w_26_04122
 2	le	_	PRON	PROper	_	1	obj	_	XmlId=w_26_04123
 3	vos	_	PRON	PROper	_	1	iobj	_	XmlId=w_26_04124
-4	lié	_	VERB	VERppe	Tense=Past|VerbForm=Part	2	acl	_	SpaceAfter=No|XmlId=w_26_04125
+4	lié	_	VERB	VERppe	_	2	acl	_	SpaceAfter=No|XmlId=w_26_04125
 5	.	_	PUNCT	PONfrt	_	1	punct	_	XmlId=w_26_04126
 
 ~~~

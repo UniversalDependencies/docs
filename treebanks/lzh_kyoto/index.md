@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Koichi Yasuoka, Christian Wittern, Tomohiko Morioka, Takumi Ikeda, Naoki Yamazaki, Yoshihiro Nikaido, Shingo Suzuki, Shigeki Moro, Yuan Li, Hiroyuki Shirasu, Kazunori Fujita.
 
 Repository: [UD_Classical_Chinese-Kyoto](https://github.com/UniversalDependencies/UD_Classical_Chinese-Kyoto)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlzh_kyoto216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlzh_kyoto217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: PD
 
@@ -98,11 +98,11 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
 
 
 <ul>
-<li>This corpus contains 86239 sentences and 433168 tokens.</li>
+<li>This corpus contains 86239 sentences and 433169 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 428559 tokens (99%) that are not followed by a space.</li>
+<li>This corpus contains 428560 tokens (99%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -529,7 +529,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (22273)</li>
+      <li>VERB--NOUN (22281)</li>
       <li>VERB--NOUN-ADP(之) (1417)</li>
       <li>VERB--NOUN-ADP(也) (15)</li>
       <li>VERB--NOUN-ADP(于)-ADP(之) (1)</li>
@@ -539,7 +539,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(由) (4)</li>
       <li>VERB--NOUN-ADP(者) (1)</li>
       <li>VERB--NOUN-ADP(與) (10)</li>
-      <li>VERB--NOUN-Loc (3098)</li>
+      <li>VERB--NOUN-Loc (3100)</li>
       <li>VERB--NOUN-Loc-ADP(之) (172)</li>
       <li>VERB--NOUN-Loc-ADP(也) (2)</li>
       <li>VERB--NOUN-Loc-ADP(爲) (1)</li>
@@ -547,7 +547,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Loc-ADP(自) (1)</li>
       <li>VERB--NOUN-Tem (293)</li>
       <li>VERB--NOUN-Tem-ADP(之) (31)</li>
-      <li>VERB--PRON (3756)</li>
+      <li>VERB--PRON (3767)</li>
       <li>VERB--PRON-ADP(之) (46)</li>
       <li>VERB--PRON-ADP(乎) (1)</li>
       <li>VERB--PRON-ADP(也) (1)</li>
@@ -560,19 +560,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (28793)</li>
+      <li>VERB--NOUN (28781)</li>
       <li>VERB--NOUN-ADP(之) (2)</li>
       <li>VERB--NOUN-ADP(乎) (2)</li>
       <li>VERB--NOUN-ADP(于) (1)</li>
       <li>VERB--NOUN-ADP(所) (3)</li>
       <li>VERB--NOUN-ADP(於) (14)</li>
       <li>VERB--NOUN-ADP(與) (4)</li>
-      <li>VERB--NOUN-Loc (6724)</li>
+      <li>VERB--NOUN-Loc (6721)</li>
       <li>VERB--NOUN-Loc-ADP(于) (2)</li>
       <li>VERB--NOUN-Loc-ADP(於) (3)</li>
-      <li>VERB--NOUN-Tem (969)</li>
+      <li>VERB--NOUN-Tem (968)</li>
       <li>VERB--NOUN-Tem-ADP(爲) (1)</li>
-      <li>VERB--PRON (7747)</li>
+      <li>VERB--PRON (7697)</li>
       <li>VERB--PRON-ADP(與) (1)</li>
     </ul>
   </li>
@@ -581,7 +581,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (390)</li>
+      <li>VERB--NOUN (391)</li>
       <li>VERB--NOUN-ADP(之) (6)</li>
       <li>VERB--NOUN-Loc (37)</li>
       <li>VERB--NOUN-Loc-ADP(之) (1)</li>
@@ -597,7 +597,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 190 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: 以 自、 殺 自、 稱 自、 剄 自、 曰 自、 知 己、 稱 己、 安 自、 求 己、 以 己、 使 己、 救 己、 正 己、 脩 己、 行 己、 謂 自、 使 自、 信 自、 加 己、 即 己、 娛 自、 歸 己、 焚 自、 議 己、 責 自、 事 己、 令 自、 伐 自、 克 己、 刎 自、 刺 自、 勝 己、 危 自、 反 己、 吠 己、 在 己、 如 己、 存 自、 怨 自、 恣 自、 成 己、 戴 己、 投 自、 暴 自、 有 自、 枉 己、 棄 自、 樂 自、 殺 己、 由 己</li>
+  <li>This corpus contains 180 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: 以 自、 殺 自、 剄 自、 知 己、 稱 己、 安 自、 求 己、 以 己、 使 己、 救 己、 正 己、 稱 自、 脩 己、 行 己、 使 自、 信 自、 加 己、 即 己、 娛 自、 歸 己、 焚 自、 議 己、 責 自、 事 己、 令 自、 伐 自、 克 己、 刎 自、 勝 己、 危 自、 反 己、 吠 己、 在 己、 如 己、 存 自、 怨 自、 恣 自、 成 己、 戴 己、 暴 自、 枉 己、 棄 自、 殺 己、 由 己、 答 己、 終 自、 經 自、 總 己、 與 己、 若 自</li>
 </ul>
 
 <h3>Relations Overview</h3>

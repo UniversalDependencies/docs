@@ -59,7 +59,7 @@ The following 15 pairs of parts of speech are connected with `obl:unmarked`: <tt
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 obl:unmarked	color:blue
-1	Let	let	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=joint-list_m:4->2:1:syn-prl-2,17|PDTB=Implicit:Expansion.Conjunction:and:_:2-16:17-21
+1	Let	let	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=joint-list_m:4->2:1:syn-prl-2,17-_|PDTB=Implicit:Expansion.Conjunction:and:_:2-16:17-21
 2	AC	AC	NOUN	NN	Number=Sing	1	obj	1:obj|3:nsubj:xsubj	Entity=(5-abstract-new-nsnnn-cf1-1-coref)
 3	>	>	SYM	SYM	_	1	xcomp	1:xcomp	_
 4	CB	CB	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	Entity=(6-abstract-new-nsnnn-cf2-1-coref)|SpaceAfter=No

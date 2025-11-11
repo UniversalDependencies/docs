@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-2405 tokens (13%) have a non-empty value of `Voice`.
-1432 types (19%) occur at least once with a non-empty value of `Voice`.
-919 lemmas (17%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1427; 8% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (562; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (415; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+2406 tokens (13%) have a non-empty value of `Voice`.
+1433 types (19%) occur at least once with a non-empty value of `Voice`.
+920 lemmas (17%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1427; 8% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (562; 3% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (416; 2% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -40,17 +40,17 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 ### `ADJ`
 
-415 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (18% of all `ADJ` tokens) have a non-empty value of `Voice`.
+416 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (18% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (415; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (406; 98%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (351; 85%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (260; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (224; 54%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (416; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (407; 98%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (352; 85%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (260; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225; 54%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (62; 15% of non-empty `Voice`): <em>vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</em>
+* `Act` (63; 15% of non-empty `Voice`): <em>vedoucí, následující, probíhající, sestávající, studujících, budoucího, dosluhující, dospívající, dospívajícího, dívající</em>
 * `Pass` (353; 85% of non-empty `Voice`): <em>Spojených, řečeno, propuštěn, Spojené, Spojeným, kvalifikovaných, nabídnuto, otevřenou, otevřená, označen</em>
-* `EMPTY` (1854): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (1853): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
-`Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (295) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (296) occur only with one value of `Voice`.
 
 ### `NOUN`
 

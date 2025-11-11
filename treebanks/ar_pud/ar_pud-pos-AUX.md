@@ -53,15 +53,15 @@ The 10 most frequent ambiguous types:  كان (<tt><a href="ar_pud-pos-AUX.html"
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.500000 (the average of all parts of speech is 1.381137).
+The form / lemma ratio of `AUX` is 6.500000 (the average of all parts of speech is 1.380334).
 
 The 1st highest number of forms (11) was observed with the lemma “كَان”: أكن, تكن, تكون, كان, كانت, كانوا, كنا, كنت, كون, يكن, يكون.
 
 The 2nd highest number of forms (2) was observed with the lemma “لَيس”: ليس, ليست.
 
-`AUX` occurs with 9 features: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Number.html">Number</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Person.html">Person</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt> (181; 97% instances), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt> (32; 17% instances), <tt><a href="ar_pud-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="ar_pud-feat-Definite.html">Definite</a></tt> (2; 1% instances)
+`AUX` occurs with 10 features: <tt><a href="ar_pud-feat-Aspect.html">Aspect</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Number.html">Number</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Person.html">Person</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Tense.html">Tense</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Voice.html">Voice</a></tt> (184; 99% instances), <tt><a href="ar_pud-feat-Gender.html">Gender</a></tt> (181; 97% instances), <tt><a href="ar_pud-feat-Mood.html">Mood</a></tt> (32; 17% instances), <tt><a href="ar_pud-feat-VerbForm.html">VerbForm</a></tt> (32; 17% instances), <tt><a href="ar_pud-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="ar_pud-feat-Definite.html">Definite</a></tt> (2; 1% instances)
 
-`AUX` occurs with 18 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Gen`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Mood=Ind`, `Mood=Jus`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Voice=Act`
+`AUX` occurs with 19 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Gen`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Mood=Ind`, `Mood=Jus`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `Voice=Act`
 
 `AUX` occurs with 16 feature combinations.
 The most frequent feature combination is `Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act` (84 tokens).

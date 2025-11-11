@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Socrates Vakirtzian, Stella Markantonatou, Vivian Stamou.
 
 Repository: [UD_Greek-Cretan](https://github.com/UniversalDependencies/UD_Greek-Cretan)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_cretan216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_cretan217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -764,7 +764,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(σε) (1)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
-      <li>VERB-Fin--PRON-Acc (140)</li>
+      <li>VERB-Fin--PRON-Acc (139)</li>
       <li>VERB-Fin--PRON-Gen (9)</li>
       <li>VERB-Inf--NOUN-Acc (7)</li>
       <li>VERB-Part--PRON-Acc (1)</li>

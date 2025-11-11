@@ -35,8 +35,8 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 11	satu	satu	NUM	_	NumType=Card	12	nummod	_	_
 12	bagian	bagi	NOUN	_	Number=Sing	8	nmod	_	_
 13	bisa	bisa	AUX	_	_	14	aux	_	_
-14	berkembang	kembang	VERB	_	Mood=Ind|Voice=Act	3	acl	_	_
-15	menjadi	jadi	VERB	_	Mood=Ind|Voice=Act	14	xcomp	_	_
+14	berkembang	kembang	VERB	_	Voice=Act	3	acl	_	_
+15	menjadi	jadi	VERB	_	Voice=Act	14	xcomp	_	_
 16	besar	besar	ADJ	_	_	15	xcomp	_	_
 17	efek	efek	NOUN	_	Number=Sing	14	dislocated	_	_
 18	nya	nya	DET	_	Definite=Def|PronType=Art	17	det	_	_
@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	tren	tren	NOUN	_	Number=Sing	10	nsubj	_	_
 5	yang	yang	PRON	_	PronType=Rel	6	nsubj	_	_
-6	berhubungan	hubung	VERB	_	Mood=Ind|Voice=Act	4	acl:relcl	_	_
+6	berhubungan	hubung	VERB	_	Voice=Act	4	acl:relcl	_	_
 7	dengan	dengan	ADP	_	_	8	case	_	_
 8	sentuhan	sentuh	NOUN	_	Number=Sing	6	obl	_	_
 9	ini	ini	DET	_	PronType=Dem	4	det	_	_
@@ -69,12 +69,12 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 11	kaitan	kait	NOUN	_	Number=Sing	10	dislocated	_	_
 12	nya	nya	DET	_	Definite=Def|PronType=Art	11	det	_	_
 13	dengan	dengan	SCONJ	_	_	14	mark	_	_
-14	berkembang	kembang	VERB	_	Mood=Ind|Voice=Act	10	advcl	_	_
+14	berkembang	kembang	VERB	_	Voice=Act	10	advcl	_	_
 15	nya	nya	DET	_	Definite=Def|PronType=Art	14	det	_	_
 16	obsesi	obsesi	NOUN	_	Number=Sing	14	nsubj	_	_
 17	kita	kita	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	16	nmod:poss	_	_
 18	untuk	untuk	SCONJ	_	_	19	mark	_	_
-19	membuat	buat	VERB	_	Mood=Ind|Voice=Act	16	acl	_	_
+19	membuat	buat	VERB	_	Voice=Act	16	acl	_	_
 20	berbagai	bagai	DET	_	Number=Plur|PronType=Ind	21	det	_	_
 21	hal	hal	NOUN	_	Number=Sing	19	obj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	10	punct	_	_
@@ -88,7 +88,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 7 dislocated	color:blue
-1	Didesain	desain	VERB	_	Mood=Ind|Voice=Pass	14	parataxis	_	_
+1	Didesain	desain	VERB	_	Voice=Pass	14	parataxis	_	_
 2	oleh	oleh	ADP	_	_	3	case	_	_
 3	Juan	Juan	PROPN	_	_	1	obl:agent	_	_
 4	Carlos	Carlos	PROPN	_	_	3	flat:name	_	_
@@ -105,7 +105,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 15	dan	dan	CCONJ	_	_	18	cc	_	_
 16	setiap	tiap	DET	_	PronType=Tot	17	det	_	_
 17	detail	detail	NOUN	_	Number=Sing	18	nsubj	_	_
-18	mengandung	kandung	VERB	_	Mood=Ind|Voice=Act	14	conj	_	_
+18	mengandung	kandung	VERB	_	Voice=Act	14	conj	_	_
 19	makna	makna	NOUN	_	Number=Sing	18	obj	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	14	punct	_	_
 

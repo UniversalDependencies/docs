@@ -74,7 +74,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 16	x	x	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	Discourse=context-background:11->19:1:_|Entity=(11-abstract-new-nnnnn-cf14-1-coref)|SpaceAfter=No|XML=<w>
 17	⪯	⪯	SYM	SYM	_	1	parataxis	1:parataxis	SpaceAfter=No
 18	y	y	NOUN	NN	Number=Sing	17	obl:unmarked	17:obl:unmarked	Entity=(12-abstract-new-nnnnn-cf15-1-coref)|XML=</w>
-19	if	if	ADP	IN	_	31	case	31:case	Discourse=contingency-condition:12->11:1:dm-if and only if-67-70|PDTB=Explicit:Expansion.Disjunction:if and only if:67-70:57-66:71-81|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Iff">
+19	if	if	ADP	IN	_	31	case	31:case	Discourse=contingency-condition:12->11:1:dm-if and only if-67-70-_|PDTB=Explicit:Expansion.Disjunction:if and only if:67-70:57-66:71-81|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Iff">
 20	and	and	CCONJ	CC	_	22	cc	22:cc	_
 21	only	only	ADV	RB	_	22	advmod	22:advmod	_
 22	if	if	ADP	IN	_	19	conj	19:conj:and|31:case	SpaceAfter=No|XML=</ref>
@@ -97,11 +97,11 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 39	∈	∈	SYM	SYM	_	36	appos	36:appos	Entity=(16-abstract-giv:act-nnnnn-cf11-1-appos
 40	T	T	NOUN	NN	Number=Sing	39	nmod:unmarked	39:nmod:unmarked	Entity=(4-abstract-giv:act-sssss-cf6-1-coref)16)|SpaceAfter=No
 41	:	:	PUNCT	:	_	36	punct	36:punct	_
-42	x	x	ADV	RB	Degree=Pos	43	nsubj	43:nsubj	Discourse=joint-disjunction_m:16->11:2:dm-or-82|Entity=(17-abstract-giv:act-nnnnn-cf2-1-coref)|SpaceAfter=No|XML=<w>
+42	x	x	ADV	RB	Degree=Pos	43	nsubj	43:nsubj	Discourse=joint-disjunction_m:16->11:2:dm-or-82-_|Entity=(17-abstract-giv:act-nnnnn-cf2-1-coref)|SpaceAfter=No|XML=<w>
 43	⪯	⪯	SYM	SYM	_	31	conj	17:advcl|31:conj:or	SpaceAfter=No
 44	T	T	NOUN	NN	Number=Sing	43	dep	43:dep	Entity=(4-abstract-giv:act-sssss-cf6-1-coref)|XML=</w>
 45	y	y	NOUN	NN	Number=Sing	43	obl:unmarked	43:obl:unmarked	Entity=(18-abstract-giv:act-nnnnn-cf7-1-coref)
-46	or	or	CCONJ	CC	_	49	cc	49:cc	Discourse=joint-disjunction_m:17->11:2:dm-or-94|PDTB=Explicit:Expansion.Disjunction:or:94:82-93:95-102|SpaceAfter=No
+46	or	or	CCONJ	CC	_	49	cc	49:cc	Discourse=joint-disjunction_m:17->11:2:dm-or-94-_|PDTB=Explicit:Expansion.Disjunction:or:94:82-93:95-102|SpaceAfter=No
 47	:	:	PUNCT	:	_	46	punct	46:punct	_
 48	x	x	NOUN	NN	Number=Sing	49	nsubj	49:nsubj	Entity=(19-abstract-new-nnnnn-cf12-1-coref)
 49	∈	∈	SYM	SYM	_	31	conj	17:advcl|31:conj:or	Entity=(19-abstract-giv:act-nnnnn-cf12-1-coref
@@ -120,7 +120,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 dislocated	color:blue
-1	But	but	CCONJ	CC	_	6	cc	6:cc	Discourse=adversative-contrast_m:26->20:2:dm-but-215|PDTB=Explicit:Comparison.Contrast:but:215:161-176:216-233
+1	But	but	CCONJ	CC	_	6	cc	6:cc	Discourse=adversative-contrast_m:26->20:2:dm-but-215-_|PDTB=Explicit:Comparison.Contrast:but:215:161-176:216-233
 2	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(10-abstract-giv:inact-sssss-cf1-2-coref(11-person-giv:inact-nnnnn-cf2-1-ana)
 3	love	love	NOUN	NN	Number=Sing	6	dislocated	6:dislocated	Entity=10)
 4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(10-abstract-giv:act-sssss-cf1-1-ana)

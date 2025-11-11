@@ -31,7 +31,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><th>Paradigm <i>мы</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>нас, насъ, ны</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>нам, намъ, на(м), намь, ны</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>наж</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>наж, нами</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>нас, насъ, на(с), нась</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>нами</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>нас, насъ</em></td><td></td></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (555; 11% of non-empty `Person`): <em>бью, прошу, желаю, бию, пришлю, бьемъ, пишу, сужу, чаю, чиню</em>
 * `2` (887; 18% of non-empty `Person`): <em>пожалуй, вели, пожалуи, пожалꙋи, прикажи, смилуйся, изволишъ, скажи, укажешь, здравствуй</em>
 * `3` (3559; 71% of non-empty `Person`): <em>бысть, бьет, будет, рече, есть, стоитъ, бьетъ, живут, сказывают, будетъ</em>
-* `EMPTY` (9851): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
+* `EMPTY` (9852): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
 
 <table>
   <tr><th>Paradigm <i>велѣти</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -74,7 +74,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (192; 25% of non-empty `Person`): <em>есми, есмь, есмя, єсми, буду, есмы, єсмь, будемъ, бꙋду, бех</em>
 * `2` (102; 13% of non-empty `Person`): <em>еси, есте, буди, будете, бꙋдеш[ь], естя, имете, Буд[ь], будеш, будеши</em>
 * `3` (482; 62% of non-empty `Person`): <em>будет, есть, бысть, будетъ, суть, бꙋдет, бы, бѣ, будут, будутъ</em>
-* `EMPTY` (697): <em>бы, было, были, б, былъ, быти, была, был, быть, бъ</em>
+* `EMPTY` (696): <em>бы, было, были, б, былъ, быти, была, был, быть, бъ</em>
 
 <table>
   <tr><th>Paradigm <i>быти</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -100,7 +100,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (1287; 62%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (24; 96%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PRON</tt> (6; 75%),
-<tt>PRON --[<tt><a href="orv_rnc-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (5; 100%),
+<tt>PRON --[<tt><a href="orv_rnc-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (5; 83%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (3; 100%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-flat.html">flat</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 67%),

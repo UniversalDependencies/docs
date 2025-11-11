@@ -84,5 +84,6 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
 <tt>NOUN --[<tt><a href="hu_szeged-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="hu_szeged-dep-list.html">list</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="hu_szeged-dep-list.html">list</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NUM --[<tt><a href="hu_szeged-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%).
 

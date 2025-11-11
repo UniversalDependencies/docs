@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Adédayọ̀ Olúòkun, Daniel Zeman, Seyi Williams, Ọlájídé Ishola.
 
 Repository: [UD_Yoruba-YTB](https://github.com/UniversalDependencies/UD_Yoruba-YTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyo_ytb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -54,7 +54,22 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 
 ## References
 
-* (citation)
+<pre>
+@inproceedings{ishola-zeman-2020-yoruba,
+title = "{Y}or{\`u}b{\'a} Dependency Treebank ({YTB})",
+author = "Ishola, Ol{\'a}j{\'i}d{\'e} and Zeman, Daniel",
+editor = "Calzolari, Nicoletta and B{\'e}chet, Fr{\'e}d{\'e}ric and Blache, Philippe and Choukri, Khalid and Cieri, Christopher and Declerck, Thierry and Goggi, Sara and Isahara, Hitoshi and Maegaard, Bente and Mariani, Joseph and Mazo, H{\'e}l{\`e}ne and Moreno, Asuncion and Odijk, Jan and Piperidis, Stelios",
+booktitle = "Proceedings of the Twelfth Language Resources and Evaluation Conference",
+month = may,
+year = "2020",
+address = "Marseille, France",
+publisher = "European Language Resources Association",
+url = "https://aclanthology.org/2020.lrec-1.637/",
+pages = "5178--5186",
+language = "eng",
+ISBN = "979-10-95546-34-4"
+}
+</pre>
 
 
 
@@ -76,7 +91,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 
 
 <ul>
-<li>This corpus contains 318 sentences, 8198 tokens and 8243 syntactic words.</li>
+<li>This corpus contains 317 sentences, 8198 tokens and 8243 syntactic words.</li>
 </ul>
 
 <ul>
@@ -105,15 +120,15 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 </ul>
 
 <ul>
-<li>This corpus contains 15 word types tagged as particles (PART): Bí, Kíni, Olorì, hàn, kì, kìí, kò, kọ́, ni, nì, ní, Ìmúlò, ìkejì, í, Ǹjẹ́</li>
+<li>This corpus contains 14 word types tagged as particles (PART): Bí, Kíni, hàn, kì, kìí, kò, kọ́, ni, nì, ní, Ìmúlò, ìkejì, í, Ǹjẹ́</li>
 </ul>
 
 <ul>
-<li>This corpus contains 87 lemmas tagged as pronouns (PRON): Alámùójútó, Nnaji, Ta, a, alàtúnkọ, ara, awa, bi, bíi, e, fun, i, ibi, jọ, kí, kòsí, lati, lówó, maa, mi, mo, mu, méje, mí, míi, mọ, naà, náà, o, ohunkóhun, pọn, ri, rẹ, rẹ̀, ti, tilẹ, tirẹ̀, tiwọn, tàbí, tèmi, tìpa, tìrẹ, tí, tíkòsi´, tó, u, un, wa, wo, wọn, wọ́n, yin, yín, Áfríkà, Èkó, à, àpẹẹrẹ, àwa, àworan, àwọn, á, èmi, èmí, èwo, èyí, èéṣe, é, ìtọ́nisọ́nà, ìwọ, ìwọ́, í, òun, ó, ú, ún, ṣọrẹ, Ẹyin, ẹ, ẹni, ẹnikẹni, ẹnikẹ́ni, ẹnì, ẹnìkan, ẹ̀yin, ẹ́, ọ, ọ́</li>
+<li>This corpus contains 85 lemmas tagged as pronouns (PRON): Alámùójútó, Nnaji, Ta, a, alàtúnkọ, ara, awa, bi, bíi, e, fun, i, ibi, jọ, kí, kòsí, lati, lówó, maa, mi, mo, mu, mí, míi, mọ, naà, náà, o, ohunkóhun, pọn, ri, rẹ, rẹ̀, ti, tilẹ, tirẹ̀, tiwọn, tàbí, tèmi, tìpa, tìrẹ, tí, tíkòsi´, tó, u, un, wa, wo, wọn, wọ́n, yin, yín, Áfríkà, à, àpẹẹrẹ, àwa, àworan, àwọn, á, èmi, èmí, èwo, èyí, èéṣe, é, ìtọ́nisọ́nà, ìwọ, ìwọ́, í, òun, ó, ú, ún, ṣọrẹ, Ẹyin, ẹ, ẹni, ẹnikẹni, ẹnikẹ́ni, ẹnì, ẹnìkan, ẹ̀yin, ẹ́, ọ, ọ́</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as determiners (DET): Bákanáà, Imo, Orísìírísìí, Oríṣìíríṣìí, báyìí, gbogbo, kọn, lo, náà, o, wọnni, wọ̀nyí, yìí, Àwon, à, àbo, àwón, àwọn, èyí, ìwọ̀nyí, ṣùgbọn</li>
+<li>This corpus contains 20 lemmas tagged as determiners (DET): Oríṣìíríṣìí, bákanáà, báyìí, gbogbo, kọn, lo, náà, o, orísìírísìí, wọnni, wọ̀nyí, yìí, Àwon, à, àbo, àwón, àwọn, èyí, ìwọ̀nyí, ṣùgbọn</li>
 </ul>
 
 <ul>
@@ -155,7 +170,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: gidi, Bìrìtìkó, tíkòsi´</li>
+      <li>ADJ: gidi, tíkòsi´</li>
       <li>ADP: Ni, bíi</li>
       <li>AUX: ó, ti</li>
       <li>CCONJ: tàbi</li>
@@ -198,7 +213,6 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: Bìrìtìkó</li>
       <li>AUX: ó, maa, ti</li>
       <li>NOUN: Omi</li>
       <li>PRON: ó, a, wọn, wọ́n, ìwọ, ẹ, èmi, ẹ̀yin, mo, òun</li>
@@ -260,7 +274,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 <ul>
   <li>Int
     <ul>
-      <li>PRON: kí, Ta, méje, èwo, èéṣe, kín</li>
+      <li>PRON: kí, Ta, èwo, èéṣe, kín</li>
     </ul>
   </li>
 </ul>
@@ -268,7 +282,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 <ul>
   <li>Prs
     <ul>
-      <li>ADJ: gidi, Bìrìtìkó, tíkòsi´</li>
+      <li>ADJ: gidi, tíkòsi´</li>
       <li>ADP: Ni, bíi</li>
       <li>AUX: ó, maa, ti</li>
       <li>CCONJ: tàbi</li>
@@ -325,7 +339,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
       <li>CCONJ: tàbi</li>
       <li>NOUN: Nnaji, Omi</li>
       <li>NUM: 2i</li>
-      <li>PRON: a, mi, èmi, mo, mí, wa, bíi, àwa, Nnaji, à</li>
+      <li>PRON: a, mi, èmi, mo, mí, wa, bíi, àwa, à, Nnaji</li>
       <li>PROPN: Alhaji, Naijiria</li>
       <li>SCONJ: bíi</li>
     </ul>
@@ -343,7 +357,6 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 <ul>
   <li>3
     <ul>
-      <li>ADJ: Bìrìtìkó</li>
       <li>AUX: ó</li>
       <li>PRON: ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, á</li>
     </ul>
@@ -388,7 +401,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 </ul>
 
 <ul>
-<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: ń, ti, kí, lè, yóò, jẹ́, máa, má, ó, gbọdọ̀, yió, ní, a, bá, tí, ì.</li>
+<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: ń, ti, kí, lè, yóò, máa, jẹ́, má, ó, gbọdọ̀, yió, ní, a, bá, tí, ì.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -397,28 +410,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (213)</li>
-      <li>VERB--NOUN-ADP(Láyé) (1)</li>
+      <li>VERB--NOUN (206)</li>
       <li>VERB--NOUN-ADP(bá) (1)</li>
       <li>VERB--NOUN-ADP(bí) (2)</li>
       <li>VERB--NOUN-ADP(irú) (1)</li>
-      <li>VERB--NOUN-ADP(ni) (6)</li>
+      <li>VERB--NOUN-ADP(láyé) (1)</li>
+      <li>VERB--NOUN-ADP(ni) (5)</li>
       <li>VERB--NOUN-ADP(ní) (1)</li>
       <li>VERB--NOUN-ADP(nínú) (1)</li>
       <li>VERB--NOUN-ADP(ojú) (1)</li>
       <li>VERB--NOUN-ADP(sí) (1)</li>
-      <li>VERB--NOUN-ADP(Ìṣọmọlí) (1)</li>
+      <li>VERB--NOUN-ADP(ìṣọmọlí) (1)</li>
       <li>VERB--NOUN-ADP(òní) (1)</li>
       <li>VERB--NOUN-Acc (1)</li>
-      <li>VERB--PRON (147)</li>
+      <li>VERB--PRON (143)</li>
       <li>VERB--PRON-ADP(Bí) (1)</li>
-      <li>VERB--PRON-Acc (42)</li>
-      <li>VERB--PRON-Gen (7)</li>
+      <li>VERB--PRON-Acc (39)</li>
+      <li>VERB--PRON-Gen (6)</li>
       <li>VERB--PRON-Gen-ADP(lẹ́yìn) (2)</li>
-      <li>VERB--PRON-Nom (327)</li>
+      <li>VERB--PRON-Nom (310)</li>
       <li>VERB--PRON-Nom-ADP(bá) (1)</li>
       <li>VERB--PRON-Nom-ADP(ni) (7)</li>
-      <li>VERB--PRON-Nom-ADP(ní) (2)</li>
+      <li>VERB--PRON-Nom-ADP(ní) (1)</li>
       <li>VERB--PRON-Nom-ADP(nítorí) (1)</li>
     </ul>
   </li>
@@ -443,7 +456,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(sí)-ADP(àárin) (1)</li>
       <li>VERB--PRON (27)</li>
       <li>VERB--PRON-ADP(ni) (1)</li>
-      <li>VERB--PRON-Acc (78)</li>
+      <li>VERB--PRON-Acc (77)</li>
       <li>VERB--PRON-Acc-ADP(gẹ́gẹ́) (1)</li>
       <li>VERB--PRON-Acc-ADP(inú) (1)</li>
       <li>VERB--PRON-Acc-ADP(lé) (1)</li>

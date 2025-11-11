@@ -23,9 +23,9 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 obl:agent	color:blue
-1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+1	De	de	DET	LID|bep|stan|rest	Definite=Def|PronType=Art	2	det	2:det	_
 2	delegatie	delegatie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nsubj:pass	4:nsubj:pass	_
-3	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+3	werd	worden	AUX	WW|pv|verl|ev	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
 4	geleid	leiden	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
 5	door	door	ADP	VZ|init	_	6	case	6:case	_
 6	premier	premier	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl:agent	4:obl:agent	_
@@ -41,13 +41,13 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 obl:agent	color:blue
-1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+1	De	de	DET	LID|bep|stan|rest	Definite=Def|PronType=Art	2	det	2:det	_
 2	verhalen	verhaal	NOUN	N|soort|mv|basis	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
-3	werden	worden	AUX	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	9	aux:pass	9:aux:pass	_
+3	werden	worden	AUX	WW|pv|verl|mv	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	9	aux:pass	9:aux:pass	_
 4	door	door	ADP	VZ|init	_	5	case	5:case	_
 5	Casterman	Casterman	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	obl:agent	9:obl:agent	_
 6	in	in	ADP	VZ|init	_	8	case	8:case	_
-7	het	het	DET	LID|bep|stan|evon	Definite=Def	8	det	8:det	_
+7	het	het	DET	LID|bep|stan|evon	Definite=Def|PronType=Art	8	det	8:det	_
 8	Frans	Frans	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	obl:arg	9:obl:arg:in	_
 9	vertaald	vertalen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
 10	.	.	PUNCT	LET	_	9	punct	9:punct	_
@@ -61,14 +61,14 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 obl:agent	color:blue
-1	Een	een	DET	LID|onbep|stan|agr	Definite=Ind	2	det	2:det	_
+1	Een	een	DET	LID|onbep|stan|agr	Definite=Ind|PronType=Art	2	det	2:det	_
 2	schrijver	schrijver	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root|7:nsubj:pass	_
 3	die	die	PRON	VNW|betr|pron|stan|vol|persoon|getal	PronType=Rel	7	nsubj:pass	2:ref	_
 4	door	door	ADP	VZ|init	_	5	case	5:case	_
 5	hem	hem	PRON	VNW|pers|pron|obl|vol|3|ev|masc	Case=Acc|Person=3|PronType=Prs	7	obl:agent	7:obl:agent	_
 6	zo	zo	ADV	BW	_	7	advmod	7:advmod	_
 7	bewonderd	bewonderen	VERB	WW|vd|vrij|zonder	VerbForm=Part	2	acl:relcl	2:acl:relcl	_
-8	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	7	aux:pass	7:aux:pass	SpaceAfter=No
+8	werd	worden	AUX	WW|pv|verl|ev	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	aux:pass	7:aux:pass	SpaceAfter=No
 9	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~

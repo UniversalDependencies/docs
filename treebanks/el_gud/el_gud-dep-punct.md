@@ -22,12 +22,12 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 punct	color:blue
-1	Ο	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	Ζαχαράκης	Ζαχαράκης	PROPN	NoPr	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	το	εγώ	PRON	PnPe	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-4	σκέφτεται	σκέφτομαι	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-5	λίγο	λίγο	ADV	AdBa	_	4	advmod	_	SpaceAfter=No
-6	.	.	PUNCT	PTERMP	_	4	punct	_	PunctType=Peri
+1	Ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Ζαχαράκης	Ζαχαράκης	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	σκέφτεται	σκέφτομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	λίγο	λίγο	ADV	_	_	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	PunctType=Peri
 
 ~~~
 
@@ -38,15 +38,15 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 punct	color:blue
-1	Τελευταία	τελευταία	ADJ	AdBa	_	2	advmod	_	_
-2	αποχωρεί	αποχωρώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	ξερακιανή	ξερακιανός	ADJ	AjBa	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-5	,	,	PUNCT	PUNCT	_	7	punct	_	PunctType=Comm
-6	με	με	ADP	AsPpSp	_	7	case	_	_
-7	ύφος	ύφος	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
-8	αγανακτισμένο	αγανακτισμένος	VERB	VbMnPp	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	7	amod	_	SpaceAfter=No
-9	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
+1	Τελευταία	τελευταία	ADJ	_	_	2	advmod	_	_
+2	αποχωρεί	αποχωρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ξερακιανή	ξερακιανός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	PunctType=Comm
+6	με	με	ADP	_	_	7	case	_	_
+7	ύφος	ύφος	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
+8	αγανακτισμένο	αγανακτισμένος	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	PunctType=Peri
 
 ~~~
 
@@ -57,15 +57,15 @@ The following 15 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 punct	color:blue
-1	Είναι	είμαι	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	_
-2	το	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
-3	λιγότερο	λίγος	ADJ	AjCp	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
-4	που	που	PRON	PnRe	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	dislocated	_	_
-5	μπορούμε	μπορώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
-6	να	να	SCONJ	CjSb	_	8	mark	_	_
-7	της	εγώ	PRON	PnPe	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
-8	προσφέρουμε	προσφέρω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	_	SpaceAfter=No
-9	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
+1	Είναι	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	_
+2	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	λιγότερο	λίγος	ADJ	_	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
+4	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	dislocated	_	_
+5	μπορούμε	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+6	να	να	SCONJ	_	_	8	mark	_	_
+7	της	εγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
+8	προσφέρουμε	προσφέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	PunctType=Peri
 
 ~~~
 

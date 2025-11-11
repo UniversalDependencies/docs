@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: LGPL-LR
 
@@ -85,7 +85,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 
 ## Features
 
-[Definite](fr_sequoia-feat-Definite.html) – [Emph](fr_sequoia-feat-Emph.html) – [ExtPos](fr_sequoia-feat-ExtPos.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [Number[psor]](fr_sequoia-feat-Number-psor.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Person[psor]](fr_sequoia-feat-Person-psor.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
+[Case](fr_sequoia-feat-Case.html) – [Definite](fr_sequoia-feat-Definite.html) – [Emph](fr_sequoia-feat-Emph.html) – [ExtPos](fr_sequoia-feat-ExtPos.html) – [Foreign](fr_sequoia-feat-Foreign.html) – [Gender](fr_sequoia-feat-Gender.html) – [Mood](fr_sequoia-feat-Mood.html) – [Number](fr_sequoia-feat-Number.html) – [Number[psor]](fr_sequoia-feat-Number-psor.html) – [NumType](fr_sequoia-feat-NumType.html) – [Person](fr_sequoia-feat-Person.html) – [Person[psor]](fr_sequoia-feat-Person-psor.html) – [Polarity](fr_sequoia-feat-Polarity.html) – [Poss](fr_sequoia-feat-Poss.html) – [PronType](fr_sequoia-feat-PronType.html) – [Reflex](fr_sequoia-feat-Reflex.html) – [Tense](fr_sequoia-feat-Tense.html) – [Typo](fr_sequoia-feat-Typo.html) – [VerbForm](fr_sequoia-feat-VerbForm.html) – [Voice](fr_sequoia-feat-Voice.html)
 
 ## Relations
 
@@ -99,7 +99,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 </ul>
 
 <ul>
-<li>This corpus contains 10759 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 10758 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -173,7 +173,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Part
   <ul>
     <li>AUX: été, ayant, étant, fait, faisant</li>
-    <li>VERB: mis, eu, traités, utilisé, atteints, administré, reçu, concernant, pris, pu</li>
+    <li>VERB: concernant, mis, eu, traités, utilisé, suivant, atteints, administré, reçu, présentant</li>
   </ul>
   </li>
 </ul>
@@ -190,7 +190,6 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
     <ul>
       <li>ADJ: européenne, première, rénale, française, toutes, nouvelle, intraveineuse, nationale, seule, osseuse</li>
       <li>DET: la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</li>
-      <li>NOUN: affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, union</li>
       <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, celles, celle, chacune</li>
       <li>PROPN: France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche, Société</li>
       <li>VERB-Part: observée, recommandée, administrée, destinée, maintenue, menée, rapportées, traitées, versées, liée</li>
@@ -201,11 +200,9 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: français, tous, ancien, osseux, zolédronique, premier, nombreux, dernier, compris, faux</li>
+      <li>ADJ: français, tous, ancien, osseux, zolédronique, premier, nombreux, dernier, faux, général</li>
       <li>AUX-Part: fait</li>
-      <li>DET: le, un, ce, cet, aucun, tout, du, certains, quel, divers</li>
-      <li>NOUN: %, patients, mg, ans, cas, traitement, président, effets, M., cours</li>
-      <li>NUM: neuf</li>
+      <li>DET: le, un, ce, son, cet, aucun, tout, du, certains, quel</li>
       <li>PRON: il, ce, ils, un, le, -il, lui, eux, ceux, lequel</li>
       <li>PROPN: paris, Jacques, Chirac, Taïwan, Michel, Hauts-de-Seine, Didier, Alain, Maupas, François</li>
       <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, fait, présenté</li>
@@ -223,10 +220,10 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
     <ul>
       <li>ADJ: autres, indésirables, tous, politiques, cliniques, toutes, occultes, âgés, fréquents, graves</li>
       <li>AUX-Fin: ont, sont, étaient, avaient, avez, avons, seront, soient, auraient, êtes</li>
-      <li>DET: les, des, ces, plusieurs, ses, de, d', leurs, quelques, nos</li>
-      <li>NOUN: patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</li>
+      <li>DET: les, des, ces, ses, de, d', plusieurs, leurs, quelques, nos</li>
+      <li>NOUN: patients, ans, effets, jours, hommes, enfants, fractures, francs, études, femmes</li>
       <li>PRON: nous, vous, ils, les, eux, ceux, elles, lesquelles, leur, lesquels</li>
-      <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Forges, Frégates</li>
+      <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Forges, Pays-Bas</li>
       <li>VERB-Fin: doivent, peuvent, devons, ont, avez, veuillez, devez, présentent, avaient, avons</li>
       <li>VERB-Part: traités, atteints, présentés, rapportées, traitées, versées, rapportés, liés, menées, observés</li>
     </ul>
@@ -249,6 +246,33 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   </li>
 </ul>
 
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: le, l', les, vous, la, me, nous, m'</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dat
+    <ul>
+      <li>PRON: vous, lui, nous, me, leur, m'</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: il, je, nous, vous, elle, ils, j', on, elles, -nous</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -258,7 +282,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Def
     <ul>
-      <li>DET: le, les, la, l', lesdites</li>
+      <li>DET: le, les, la, l', ladite, lesdites</li>
     </ul>
   </li>
 </ul>
@@ -266,7 +290,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Ind
     <ul>
-      <li>DET: une, un, des, de, d', quelques, tout, toute, quelque, tous</li>
+      <li>DET: une, un, des, de, d', quelques, tout, du, toute, quelque</li>
     </ul>
   </li>
 </ul>
@@ -283,6 +307,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Neg
     <ul>
       <li>ADV: pas, n', ne, non, que, plus, jamais, qu', guère</li>
+      <li>INTJ: non</li>
     </ul>
   </li>
 </ul>
@@ -357,9 +382,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Past
     <ul>
       <li>AUX-Fin: fut, furent, eut</li>
-      <li>AUX-Part: été, fait</li>
       <li>VERB-Fin: agit, eut, avéra, mit, revint, aboutisse, aboutit, accrochèrent, adonnèrent, adoucit</li>
-      <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, pu, fait</li>
     </ul>
   </li>
 </ul>
@@ -368,9 +391,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
   <li>Pres
     <ul>
       <li>AUX-Fin: est, a, ont, sont, ai, soit, avez, avons, aurait, soient</li>
-      <li>AUX-Part: ayant, étant, faisant</li>
       <li>VERB-Fin: doit, a, peut, doivent, faut, est, peuvent, voudrais, pense, devons</li>
-      <li>VERB-Part: concernant, suivant, présentant, ayant, souffrant, subissant, correspondant, recevant, résultant, portant</li>
     </ul>
   </li>
 </ul>
@@ -380,9 +401,17 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 </ul>
 
 <ul>
+  <li>Act
+    <ul>
+      <li>VERB-Part: eu, reçu, pu, fait, pris, montré, présenté, mis, permis, subi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: traités, utilisé, atteints, administré, mis, observée, recommandée, administrée, destinée, suivi</li>
+      <li>VERB-Part: traités, utilisé, atteints, administré, mis, observée, recommandée, administrée, recommandé, observé</li>
     </ul>
   </li>
 </ul>
@@ -413,8 +442,17 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 </ul>
 
 <ul>
+  <li>Exc
+    <ul>
+      <li>DET: quel</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
+      <li>DET: plusieurs, chaque, certains, certaines, divers, différentes, différents, quel, telles</li>
       <li>PRON: on, un, l'on, une, tout, autre, certains, chacun, tous, chacune</li>
     </ul>
   </li>
@@ -442,6 +480,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Prs
     <ul>
+      <li>DET: son, ses, votre, sa, leur, leurs, notre, nos, mon, mes</li>
       <li>PRON: il, nous, se, je, s', vous, elle, ils, y, j'</li>
     </ul>
   </li>
@@ -450,7 +489,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: qui, dont, que, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
+      <li>PRON: qui, que, dont, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
     </ul>
   </li>
 </ul>
@@ -462,7 +501,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Card
     <ul>
-      <li>NOUN: millions, milliards, 1/10, 2006-08-07, 1/100, milliard, 1/1000, million, -1,5, -2,5</li>
+      <li>NOUN: millions, milliards, 2006-08-07, milliard, million, -1,5, -2,5, 09-2008, 1/04/289/001, 1/04/289/002</li>
       <li>NUM: deux, 5, trois, 2, 2006, 10, 1, 30, 3, 4</li>
     </ul>
   </li>
@@ -544,7 +583,16 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Plur
     <ul>
+      <li>DET: votre, leur, leurs, notre, nos, vos</li>
       <li>PRON: nôtres</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: son, ses, sa, mon, mes, ma</li>
     </ul>
   </li>
 </ul>
@@ -557,12 +605,12 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
     <ul>
       <li>No
         <ul>
-          <li>PRON: il, je, elle, ils, j', le, l', me, les, -il</li>
+          <li>PRON: il, nous, je, vous, elle, ils, j', on, le, l'</li>
         </ul>
       </li>
       <li>Yes
         <ul>
-          <li>PRON: lui, eux, moi, elle, Toi</li>
+          <li>PRON: lui, eux, moi, elle, lui-même, elle-même, Toi, eux-mêmes, moi-même, vous-même</li>
         </ul>
       </li>
     </ul>
@@ -584,19 +632,21 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
           <li>ADP: en, d', à, pour, avant</li>
           <li>ADV: tout, non</li>
           <li>NOUN: suite, grâce, face</li>
-          <li>PRON: y, il</li>
-          <li>SYM: <</li>
+          <li>PRON: il, Y</li>
+          <li>SYM: /, <</li>
+          <li>VERB: vu</li>
+          <li>VERB-Part: vu</li>
         </ul>
       </li>
       <li>ADV
         <ul>
           <li>ADJ: petit</li>
           <li>ADP: à, de, en, d', dès, auprès, entre, pour, A, Par</li>
-          <li>ADV: lors, bien, quant, tout, non, aussi, quand, ne</li>
+          <li>ADV: lors, bien, quant, tout, non, aussi, ne</li>
           <li>DET: un, une, le</li>
           <li>NOUN: compte</li>
-          <li>PRON: c', y, il</li>
-          <li>SCONJ: si</li>
+          <li>PRON: c', il</li>
+          <li>SCONJ: quand, si</li>
           <li>X: a</li>
         </ul>
       </li>
@@ -604,9 +654,9 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
         <ul>
           <li>ADP: à</li>
           <li>ADV: ainsi</li>
-          <li>CCONJ: et, ou</li>
+          <li>CCONJ: ou</li>
           <li>PRON: y</li>
-          <li>SYM: -</li>
+          <li>SYM: /, -</li>
         </ul>
       </li>
       <li>DET
@@ -643,7 +693,6 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
           <li>ADP: dans</li>
           <li>ADV: alors, bien, parce, même, tandis, quand</li>
           <li>SCONJ: parce</li>
-          <li>VERB-Part: vu</li>
         </ul>
       </li>
       <li>VERB
@@ -660,7 +709,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
     <ul>
       <li>Yes
         <ul>
-          <li>X: the, Reuters, Medicines, and, Beirut, Company, Limited, UK, devils, image</li>
+          <li>X: the, Reuters, Beirut, Medicines, and, Company, Limited, UK, devils, image</li>
         </ul>
       </li>
     </ul>
@@ -672,7 +721,18 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
     <ul>
       <li>1
         <ul>
+          <li>DET: notre, nos, mon, mes, ma</li>
           <li>PRON: nôtres</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>DET: votre, vos</li>
+        </ul>
+      </li>
+      <li>3
+        <ul>
+          <li>DET: son, ses, sa, leur, leurs</li>
         </ul>
       </li>
     </ul>
@@ -716,13 +776,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (773)</li>
+      <li>VERB-Fin--NOUN (774)</li>
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
-      <li>VERB-Fin--PRON (873)</li>
+      <li>VERB-Fin--PRON (297)</li>
+      <li>VERB-Fin--PRON-Nom (576)</li>
       <li>VERB-Inf--NOUN (10)</li>
       <li>VERB-Inf--PRON (2)</li>
-      <li>VERB-Part--NOUN (291)</li>
-      <li>VERB-Part--PRON (211)</li>
+      <li>VERB-Part--NOUN (290)</li>
+      <li>VERB-Part--PRON (62)</li>
+      <li>VERB-Part--PRON-Nom (149)</li>
     </ul>
   </li>
 </ul>
@@ -732,12 +794,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (620)</li>
       <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
-      <li>VERB-Fin--PRON (139)</li>
+      <li>VERB-Fin--PRON (93)</li>
+      <li>VERB-Fin--PRON-Acc (46)</li>
       <li>VERB-Inf--NOUN (687)</li>
       <li>VERB-Inf--NOUN-ADP(à) (1)</li>
-      <li>VERB-Inf--PRON (74)</li>
+      <li>VERB-Inf--PRON (38)</li>
+      <li>VERB-Inf--PRON-Acc (36)</li>
       <li>VERB-Part--NOUN (492)</li>
-      <li>VERB-Part--PRON (61)</li>
+      <li>VERB-Part--PRON (37)</li>
+      <li>VERB-Part--PRON-Acc (24)</li>
     </ul>
   </li>
 </ul>
@@ -745,9 +810,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (64)</li>
-      <li>VERB-Inf--PRON (25)</li>
-      <li>VERB-Part--PRON (43)</li>
+      <li>VERB-Fin--PRON (31)</li>
+      <li>VERB-Fin--PRON-Dat (33)</li>
+      <li>VERB-Inf--PRON (14)</li>
+      <li>VERB-Inf--PRON-Dat (11)</li>
+      <li>VERB-Part--PRON (14)</li>
+      <li>VERB-Part--PRON-Dat (29)</li>
     </ul>
   </li>
 </ul>

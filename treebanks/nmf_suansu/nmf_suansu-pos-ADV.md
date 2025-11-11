@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Naga-Suansu: POS Tags: `ADV`
 
-There are 72 `ADV` lemmas (8%), 73 `ADV` types (6%) and 191 `ADV` tokens (6%).
+There are 74 `ADV` lemmas (8%), 75 `ADV` types (6%) and 193 `ADV` tokens (6%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 4 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>li, re, bathanahn, gare, dre, hano, reganan, szurai, rai, daichu</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>re</em> (<tt><a href="nmf_suansu-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.013889 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `ADV` is 1.013514 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (2) was observed with the lemma “re”: <em>re, rema</em>.
 
@@ -67,17 +67,17 @@ The 3rd highest number of forms (1) was observed with the lemma “Shingkhakhahn
 `ADV` occurs with 12 feature-value pairs: `Aspect=Imp`, `Degree=Cmp`, `Deixis=Prox`, `Deixis=Remt`, `Modal=Perm`, `Mood=Ind`, `Polarity=Neg`, `PronType=Dem`, `PronType=Int`, `Tense=Past`, `VerbForm=Fin`, `VerbForm=Inf`
 
 `ADV` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (154 tokens).
+The most frequent feature combination is `_` (156 tokens).
 Examples: <em>li, re, bathanahn, dre, reganan, szuraire, daichu, khakhahnnan, matikza, szu</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="nmf_suansu-dep-advmod.html">advmod</a></tt> (141; 74% instances), <tt><a href="nmf_suansu-dep-advmod-emph.html">advmod:emph</a></tt> (28; 15% instances), <tt><a href="nmf_suansu-dep-compound-prt.html">compound:prt</a></tt> (10; 5% instances), <tt><a href="nmf_suansu-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="nmf_suansu-dep-nsubj.html">nsubj</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-compound-svc.html">compound:svc</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="nmf_suansu-dep-advmod.html">advmod</a></tt> (143; 74% instances), <tt><a href="nmf_suansu-dep-advmod-emph.html">advmod:emph</a></tt> (28; 15% instances), <tt><a href="nmf_suansu-dep-compound-prt.html">compound:prt</a></tt> (10; 5% instances), <tt><a href="nmf_suansu-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="nmf_suansu-dep-nsubj.html">nsubj</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-compound-svc.html">compound:svc</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (124; 65% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (15; 8% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (15; 8% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 2% instances),  (4; 2% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt> (125; 65% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (16; 8% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (15; 8% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), <tt><a href="nmf_suansu-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (4; 2% instances),  (4; 2% instances), <tt><a href="nmf_suansu-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 
-175 (92%) `ADV` nodes are leaves.
+177 (92%) `ADV` nodes are leaves.
 
 12 (6%) `ADV` nodes have one child.
 

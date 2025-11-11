@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 11	დროსაც	დრო	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing|PartType=Emp	22	obl	_	Translit=drosacʻ
 12	გარეშე	გარეშე	ADJ	Adj	Case=Nom|Number=Sing	13	amod	_	Translit=gareše
 13	პირი	პირი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	22	nsubj	_	Translit=piri
-14	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	obl	_	Translit=sistema
+14	სისტემა	სისტემა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	19	nmod	_	Translit=sistema
 15	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	14	case	_	Translit=ze
 16	ან	ან	CCONJ	Conj	_	17	cc	_	Translit=an
 17	ქსელ	ქსელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	14	conj	_	Translit=kʻsel
@@ -43,7 +43,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 19	მონოპოლირების	მონოპოლირება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=monopolirebis
 20	მოპოვების	მოპოვება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=mopovebis
 21	მიზნით	მიზანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	22	obl	_	Translit=miznitʻ
-22	ახორციელებს	ახორციელებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	6	acl	_	Translit=axorcʻielebs
+22	ახორციელებს	ახორციელებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	Translit=axorcʻielebs
 23	მოტყუების	მოტყუება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	24	nmod	_	Translit=motquebis
 24	გზით	გზა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	22	obl	_	Translit=gzitʻ
 25	მომხმარებლის	მომხმარებელი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	26	nmod	_	Translit=momxmareblis
@@ -51,7 +51,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 27	და	და	CCONJ	Conj	_	30	cc	_	Translit=da
 28	ამისა	ეს(ე)	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	30	obl	_	Translit=amisa
 29	თვის	თვის	ADP	Post	AdpType=Post|Case=Gen	28	case	_	Translit=tʻvis
-30	იყენებს	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Voice=Act	22	conj	_	Translit=iqenebs
+30	იყენებს	იყენებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	Translit=iqenebs
 31	e-mail-ს	e-mailს	X	Foreign	Foreign=Yes	30	obj	_	SpaceAfter=No|Translit=e-mail-s
 32	,	,	PUNCT	F	PunctType=Comm	34	punct	_	Translit=,
 33	სატელეფონო	სატელეფონო	ADJ	Adj	Case=Dat|Number=Sing	34	amod	_	Translit=satelepʻono

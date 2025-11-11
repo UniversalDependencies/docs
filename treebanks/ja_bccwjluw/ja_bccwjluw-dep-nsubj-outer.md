@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ja_bccwjluw-dep-nsubj.html">nsubj</a></tt>.
 
-2718 nodes (0%) are attached to their parents as `nsubj:outer`.
+3064 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-2718 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.9724061810155.
+3064 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 11.8619451697128.
 
-The following 24 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1382; 51% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (483; 18% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (216; 8% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (176; 6% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (163; 6% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (70; 3% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (64; 2% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (50; 2% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (30; 1% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (17; 1% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1640; 54% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (508; 17% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (245; 8% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (185; 6% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (169; 6% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (70; 2% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (66; 2% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (50; 2% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (31; 1% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (30; 1% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), <tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ja_bccwjluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 24 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 1	_	_	NOUN	_	_	2	compound	_	BBIL=B|BPT=2|SpaceAfter=No|UI=91864
 2	_	_	NOUN	_	_	4	nmod	_	BBIL=I|BPT=0|SpaceAfter=No|UI=11657
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
-4	_	_	NOUN	_	_	6	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=21636
+4	_	_	NOUN	_	_	6	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=21636
 5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=91
 6	_	_	NOUN	_	_	13	nsubj:outer	_	BBIL=B|BPT=0|SpaceAfter=No|UI=29886
 7	_	_	ADP	_	_	6	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=4
@@ -59,7 +59,7 @@ The following 24 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 11	_	_	ADJ	_	_	20	advcl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=16193
 12	_	_	SCONJ	_	_	11	mark	_	BBIL=I|BPT=1|SpaceAfter=No|UI=11
 13	_	_	PUNCT	_	_	11	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
-14	_	_	NOUN	_	_	16	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=17641
+14	_	_	NOUN	_	_	16	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=17641
 15	_	_	ADP	_	_	14	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 16	_	_	NOUN	_	_	18	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=22150
 17	_	_	ADP	_	_	16	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
@@ -67,7 +67,7 @@ The following 24 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 19	_	_	ADP	_	_	18	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=6
 20	_	_	VERB	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=29
 21	_	_	AUX	_	_	20	aux	_	BBIL=I|BPT=1|SpaceAfter=No|UI=7
-22	_	_	PUNCT	_	_	20	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=2
+22	_	_	PUNCT	_	_	20	punct	_	BBIL=I|BPT=2|UI=2
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 24 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 16 nsubj:outer	color:blue
-1	_	_	CCONJ	_	_	23	cc	_	BBIL=B|BPT=2|SpaceAfter=No|UI=2415
+1	_	_	CCONJ	_	_	23	cc	_	BBIL=B|BPT=4|SpaceAfter=No|UI=2415
 2	_	_	NOUN	_	_	16	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=62558
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=36
 4	_	_	SCONJ	_	_	2	mark	_	BBIL=I|BPT=3|SpaceAfter=No|UI=0

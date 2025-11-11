@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADV` and `Aspect` co-occurred
 `ADV` tokens may have the following values of `Aspect`:
 
 * `Perf` (811; 100% of non-empty `Aspect`): 已、 既、 旣、 訖
-* `EMPTY` (41413): 不、 以、 則、 必、 皆、 故、 乃、 非、 亦、 未
+* `EMPTY` (41416): 不、 以、 則、 必、 皆、 故、 乃、 非、 亦、 未
 

@@ -9,11 +9,11 @@ udver: '2'
 There are 22 `PART` lemmas (5%), 33 `PART` types (5%) and 151 `PART` tokens (6%).
 Out of 14 observed tags, the rank of `PART` is: 6 in number of lemmas, 6 in number of types and 7 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>ná, nɛ̀, kàá, ndé, sínɛ́, nɛ́nɛ́, sɛ̀nɛ́, wó, péínɛ́, wá</em>
+The 10 most frequent `PART` lemmas: <em>ná, nɛ̀, kàá, ndé, sínɛ́, nɛ́nɛ́, sɛ̀nɛ́, wó, nɛ̀nɛ́, péínɛ́</em>
 
 The 10 most frequent `PART` types:  <em>ná, nɛ̀, ndé, kàá, sɛ̀nɛ́, wó, péínɛ́, wá, yè, kàà</em>
 
-The 10 most frequent ambiguous lemmas: <em>nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 28, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 21, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 19), <em>wá</em> (<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 5, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 28, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 20, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 19), <em>wá</em> (<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 5, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>nɛ̀</em> (<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="gya_autogramm-pos-ADP.html">ADP</a></tt> 28, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 20, <tt><a href="gya_autogramm-pos-SCONJ.html">SCONJ</a></tt> 19), <em>wá</em> (<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 5, <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> 1), <em>nɛ́</em> (<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> 16, <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 8, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 4), <em>sɔ̰́</em> (<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 4, <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> 1), <em>nà</em> (<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> 4, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 1), <em>náà</em> (<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> 1)
 
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>nɛ̀</em> (<tt><a href="gya_autogram
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.497585).
+The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.513447).
 
 The 1st highest number of forms (4) was observed with the lemma “ná”: <em>nà, ná, ná,, náà</em>.
 

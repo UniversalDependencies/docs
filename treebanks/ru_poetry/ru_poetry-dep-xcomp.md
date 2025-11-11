@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 4 9 xcomp	color:blue
 1	И	и	CCONJ	_	_	4	cc	_	before=<se><line_meter="Ан4ж 2*2*2*2*1"/>
 2	на	на	ADP	_	_	3	case	_	_
-3	ночь	ночь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+3	ночь	ночь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl:tmod	_	_
 4	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	_
 6	в	в	ADP	_	_	8	case	_	_

@@ -1,100 +1,78 @@
 ---
 layout: base
-title:  'Statistics of expl in UD_Occitan-CorAG'
+title:  'Statistics of expl in UD_Old_Occitan-CorAG'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Occitan-CorAG: Relations: `expl`
+## Treebank Statistics: UD_Old_Occitan-CorAG: Relations: `expl`
 
 This relation is universal.
 
-496 nodes (1%) are attached to their parents as `expl`.
+345 nodes (1%) are attached to their parents as `expl`.
 
-484 instances of `expl` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.27822580645161.
+330 instances of `expl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75942028985507.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-PRON.html">PRON</a></tt> (301; 61% instances), <tt><a href="oc_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="oc_corag-pos-PART.html">PART</a></tt> (193; 39% instances), <tt><a href="oc_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="oc_corag-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="oc_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="oc_corag-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (334; 97% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PART.html">PART</a></tt> (11; 3% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 expl	color:blue
+1	en	_	ADP	_	_	3	case	_	_
+2	aqueg	_	DET	_	_	3	det	_	_
+3	caas	_	NOUN	_	_	6	obl	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	no	_	ADV	_	_	6	advmod	_	_
+6	pagas	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+7	la	_	DET	_	_	8	det	_	_
+8	ley	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	6	punct	_	_
+10	si	_	SCONJ	_	_	14	mark	_	_
+11	esdiser	_	VERB	_	VerbForm=Inf	14	xcomp	_	_
+12	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	11	expl	_	SpaceAfter=No
+13	en	_	ADV	_	_	11	obl	_	_
+14	pot	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 expl	color:blue
-1	et	_	CCONJ	_	_	2	cc	_	_
-2	bengons	_	VERB	_	_	0	root	_	_
-3	s'	_	PRON	_	_	2	expl	_	SpaceAfter=No
-4	en	_	PRON	_	_	2	obl	_	_
-5	ab	_	ADP	_	_	6	case	_	_
-6	lo	_	PRON	_	_	2	obl	_	_
-7	qui	_	PRON	_	_	8	nsubj	_	_
-8	ave	_	VERB	_	_	6	acl:relcl	_	_
-9	las	_	DET	_	_	10	det	_	_
-10	maas	_	NOUN	_	_	8	obj	_	_
-11	ubertes	_	ADJ	_	_	10	amod	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 expl	color:blue
-1	Item	_	ADV	_	_	9	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	_	_	1	punct	_	_
-3	si	_	SCONJ	_	_	5	mark	_	_
-4	domenger	_	NOUN	_	_	5	nsubj	_	_
-5	a	_	VERB	_	_	9	advcl	_	_
-6	homis	_	NOUN	_	_	5	obj	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	5	punct	_	_
-8	que	_	PART	_	_	9	expl	_	_
-9	fasen	_	VERB	_	_	0	root	_	_
-10	dret	_	NOUN	_	_	9	obj	_	_
-11	et	_	CCONJ	_	_	12	cc	_	_
-12	ley	_	NOUN	_	_	10	conj	_	_
-13	en	_	ADP	_	_	15	case	_	_
-14	sa	_	DET	_	_	15	det	_	_
-15	maa	_	NOUN	_	_	9	obl	_	SpaceAfter=No
-16	;	_	PUNCT	_	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 24 17 expl	color:blue
-1	Et	_	CCONJ	_	_	24	cc	_	_
-2	si	_	SCONJ	_	_	4	mark	_	_
-3	bestiar	_	NOUN	_	_	4	obj	_	_
-4	prene	_	VERB	_	_	24	advcl	_	_
-5	hom	_	PRON	_	_	4	nsubj	_	_
-6	a	_	ADP	_	_	7	case	_	_
-7	part	_	NOUN	_	_	4	obl	_	_
-8	sabude	_	ADJ	_	_	7	amod	_	_
-9	de	_	ADP	_	_	10	case	_	_
-10	homi	_	NOUN	_	_	4	obl	_	_
-11	qui	_	PRON	_	_	14	nsubj	_	_
-12	aqui	_	ADV	_	_	14	advmod	_	_
-13	no	_	ADV	_	_	14	advmod	_	_
-14	agos	_	VERB	_	_	10	acl:relcl	_	_
-15	padoent	_	NOUN	_	_	14	obj	_	SpaceAfter=No
-16	,	_	PUNCT	_	_	4	punct	_	_
-17	que	_	PART	_	_	24	expl	_	_
-18	quant	_	ADV	_	ExtPos=ADP	22	case	_	_
-19	a	_	ADP	_	_	18	fixed	_	_
-20	la	_	DET	_	_	22	det	_	_
-21	soe	_	ADJ	_	_	22	amod	_	_
-22	part	_	NOUN	_	_	24	obl	_	_
-23	sie	_	AUX	_	_	24	cop	_	_
-24	quitis	_	ADJ	_	_	0	root	_	SpaceAfter=No
-25	,	_	PUNCT	_	_	24	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 2 expl	color:blue
+1	et	_	CCONJ	_	_	11	cc	_	_
+2	que	_	PART	_	_	11	expl	_	_
+3	lo	_	DET	_	_	4	det	_	_
+4	Rey	_	NOUN	_	_	11	nsubj	_	_
+5	o	_	CCONJ	_	_	7	cc	_	_
+6	los	_	DET	_	_	7	det	_	_
+7	baillius	_	NOUN	_	_	4	conj	_	_
+8	de	_	ADP	_	_	9	case	_	_
+9	luy	_	PRON	_	_	7	nmod	_	_
+10	no	_	ADV	_	_	11	advmod	_	_
+11	deyan	_	VERB	_	_	0	root	_	_
+12	occupar	_	VERB	_	_	11	xcomp	_	_
+13	la	_	DET	_	_	14	det	_	_
+14	terra	_	NOUN	_	_	12	obj	_	_
+15	o	_	CCONJ	_	_	17	cc	_	_
+16	los	_	DET	_	_	17	det	_	_
+17	filhs	_	NOUN	_	_	14	conj	_	_
+18	o	_	CCONJ	_	_	20	cc	_	_
+19	las	_	DET	_	_	20	det	_	_
+20	filhas	_	NOUN	_	_	17	conj	_	_
+21	de-	_	ADP	_	_	22	case	_	_
+22	-los	_	PRON	_	_	17	nmod	_	_
+23	qui	_	PRON	_	_	25	nsubj	_	_
+24	seran	_	AUX	_	_	25	aux	_	_
+25	mortz	_	VERB	_	_	22	acl:relcl	_	SpaceAfter=No
+26	.	_	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

@@ -47,7 +47,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (419; 33% of non-empty `Person`): <em>I, we, us, me, ourselves</em>
 * `2` (129; 10% of non-empty `Person`): <em>you, second</em>
 * `3` (716; 57% of non-empty `Person`): <em>it, he, they, them, him, everyone, one, she, himself, itself</em>
-* `EMPTY` (783): <em>which, that, this, there, who, all, what, those, some, others</em>
+* `EMPTY` (778): <em>which, that, this, there, who, all, what, those, some, others</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Person`.
 

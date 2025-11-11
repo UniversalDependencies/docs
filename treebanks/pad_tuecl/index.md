@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Annika Ott, Çağrı Çöltekin.
 
 Repository: [UD_Paumari-TueCL](https://github.com/UniversalDependencies/UD_Paumari-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpad_tuecl216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpad_tuecl217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -106,11 +106,11 @@ UD Paumari TueCL treebank is a manually annotated treebank of example sentences 
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as pronouns (PRON): _, herself, reciprocal</li>
+<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as determiners (DET): _, the</li>
+<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
 </ul>
 
 <ul>

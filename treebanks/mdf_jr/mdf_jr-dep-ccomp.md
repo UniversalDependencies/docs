@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (1%) are attached to their parents as `ccomp`.
+25 nodes (1%) are attached to their parents as `ccomp`.
 
-23 instances of `ccomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.08333333333333.
+24 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.56.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (20; 83% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (21; 84% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -23,11 +23,11 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
 1	Тоса	тоса	ADV	Adv	_	2	obl	_	_
-2	кизефтине	кизефтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past	0	root	_	_
+2	кизефтине	кизефтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	алязень	аля	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	мзярда	мзярда	ADV	Adv	AdvType=Tim	6	advmod	_	_
-6	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	2	ccomp	_	SpaceAfter=No
+6	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3 6 ccomp	color:blue
 1	Да	да	CCONJ	CC	_	3	cc	_	_
 2	тон	тон	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg2,Nom
-3	варжака	варжамс	VERB	V	Mood=Prec|Number[subj]=Sing|Person[subj]=2	0	root	_	GTtags=Prec,ScSg2|SpaceAfter=No
+3	варжака	варжамс	VERB	V	Mood=Prec|Number[subj]=Sing|Person[subj]=2|VerbForm=Fin	0	root	_	GTtags=Prec,ScSg2|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	конашкава	конашкава	ADV	Adv	AdvType=Deg	6	advmod	_	GTtags=Deg
 6	ляпоня	ляпоня	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	ccomp	_	GTtags=Sg,Nom,Indef|SpaceAfter=No

@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (2542; 100% of non-empty `Reflex`): <em>себя, себе, собой, собою, cобой, ся</em>
-* `EMPTY` (86283): <em>я, он, это, она, что, мы, они, ты, мне, меня</em>
+* `EMPTY` (86284): <em>я, он, это, она, что, мы, они, ты, мне, меня</em>
 
 ### `VERB`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (1858; 100% of non-empty `Reflex`): <em>относящийся, сохранившиеся, находящиеся, оставшихся, относящиеся, относящихся, повторяющиеся, сохранившихся, имеющиеся, находившиеся</em>
-* `EMPTY` (209774): <em>есть, может, можно, сказал, надо, нет, сказала, значит, было, сказать</em>
+* `EMPTY` (209788): <em>есть, может, можно, сказал, надо, нет, сказала, значит, было, сказать</em>
 
 `Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (624) occur only with one value of `Reflex`.
 

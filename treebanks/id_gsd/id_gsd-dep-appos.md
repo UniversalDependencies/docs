@@ -26,7 +26,7 @@ The following 46 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	adalah	adalah	AUX	O--	_	3	cop	_	Morf=^adalah<o>_O--$
 3	komune	komune	NOUN	X--	_	0	root	_	Morf=^komune<x>_X--$
 4	yang	yang	PRON	S--	PronType=Rel	5	nsubj:pass	_	Morf=^yang<s>_S--$
-5	terletak	letak	VERB	VSP	Mood=Ind|Voice=Pass	3	acl:relcl	_	Morf=^ter+letak<n>_VSP$
+5	terletak	letak	VERB	VSP	Voice=Pass	3	acl:relcl	_	Morf=^ter+letak<n>_VSP$
 6	di	di	ADP	R--	_	7	case	_	Morf=^di<r>_R--$
 7	Provinsi	provinsi	PROPN	NSD	_	5	obl	_	Morf=^provinsi<n>_NSD$
 8	Trento	trento	PROPN	X--	_	7	flat:name	_	SpaceAfter=No|Morf=^trento<x>_X--$
@@ -47,7 +47,7 @@ The following 46 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	Apa	apa	ADV	W--	PronType=Int	5	advmod	_	Morf=^apa<w>_W--$
 3	kah	kah	PART	T--	_	2	advmod:emph	_	Morf=^kah<t>_T--$
 4	engkau	engkau	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	5	nsubj	_	Morf=^engkau<p>_PS2$
-5	memperhatikan	hati	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+per+hati<n>+kan_VSA$
+5	memperhatikan	hati	VERB	VSA	Voice=Act	0	root	_	Morf=^meN+per+hati<n>+kan_VSA$
 6	hamba-	hamba	NOUN	NSD	Number=Sing	5	obj	_	Morf=^hamba<n>_NSD$
 7	Ku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	6	nmod:poss	_	Morf=^aku<p>_PS1$
 8	Ayub	ayub	PROPN	NSD	_	6	appos	_	SpaceAfter=No|Morf=^ayub<n>_NSD$

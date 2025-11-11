@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Armenian-BSUT: Relations: `flat`
 
 This relation is universal.
-There are 3 language-specific subtypes of `flat`: <tt><a href="hy_bsut-dep-flat-dist.html">flat:dist</a></tt>, <tt><a href="hy_bsut-dep-flat-name.html">flat:name</a></tt>, <tt><a href="hy_bsut-dep-flat-range.html">flat:range</a></tt>.
+There are 4 language-specific subtypes of `flat`: <tt><a href="hy_bsut-dep-flat-dist.html">flat:dist</a></tt>, <tt><a href="hy_bsut-dep-flat-frac.html">flat:frac</a></tt>, <tt><a href="hy_bsut-dep-flat-name.html">flat:name</a></tt>, <tt><a href="hy_bsut-dep-flat-range.html">flat:range</a></tt>.
 
-149 nodes (0%) are attached to their parents as `flat`.
+168 nodes (0%) are attached to their parents as `flat`.
 
-149 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.23489932885906.
+168 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.41666666666667.
 
-The following 15 pairs of parts of speech are connected with `flat`: <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (67; 45% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (20; 13% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (20; 13% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (14; 9% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (7; 5% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `flat`: <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (75; 45% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt> (20; 12% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (15; 9% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (13; 8% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (12; 7% instances), <tt><a href="hy_bsut-pos-SYM.html">SYM</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (7; 4% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt>-<tt><a href="hy_bsut-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="hy_bsut-pos-X.html">X</a></tt>-<tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -44,31 +44,27 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 5	N	N|№	SYM	_	_	0	root	_	Translit=N|LTranslit=N|№
 6	667	667	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	Translit=667|LTranslit=667|SpaceAfter=No
 7	-	-	PUNCT	_	_	8	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-8	Լ	Լ	ADJ	_	Abbr=Yes	6	flat	_	Translit=L|LTranslit=L
+8	Լ	լ	ADJ	_	Abbr=Yes	6	flat	_	Translit=L|LTranslit=l
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 flat	color:blue
-1	ա	ա	NUM	_	NumForm=Armenian|NumType=Card	7	nummod	_	Translit=a|LTranslit=a|SpaceAfter=No
-2	.	․	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=․
-3	E	E	X	_	Foreign=Yes	6	nmod	_	Translit=E|LTranslit=E|SpaceAfter=No
-4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-5	draft	draft	X	_	Foreign=Yes	3	flat	_	Translit=draft|LTranslit=draft
-6	հարթակը	հարթակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj:pass	_	Translit=hart’akë|LTranslit=hart’ak
-7	ստեղծվել	ստեղծել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=steġçvel|LTranslit=steġçel
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
-9	շատ	շատ	ADV	_	Degree=Pos	10	advmod	_	Translit=šat|LTranslit=šat
-10	լուրջ	լուրջ	ADJ	_	Degree=Pos	11	amod	_	Translit=lowrǰ|LTranslit=lowrǰ
-11	խնդիր	խնդիր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	12	obj	_	Translit=xndir|LTranslit=xndir
-12	լուծելու	լուծել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	7	obl	_	Translit=lowçelow|LTranslit=lowçel
-13	համար	համար	ADP	_	AdpType=Post	12	case	_	Translit=hamar|LTranslit=hamar|SpaceAfter=No
-14	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 flat	color:blue
+1	Քաղաքացիական	քաղաքացիական	ADJ	_	_	2	amod	_	Translit=K’aġak’ac’iakan|LTranslit=k’aġak’ac’iakan
+2	գործ	գործ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=gorç|LTranslit=gorç
+3	թիվ	թիվ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nmod	_	Translit=t’iv|LTranslit=t’iv
+4	ԵԿԴ	ԵԿԴ	NOUN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	appos	_	Translit=EKD|LTranslit=EKD|SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	Translit=/|LTranslit=/|SpaceAfter=No
+6	1896	1896	NUM	_	NumForm=Digit|NumType=Card	4	flat	_	Translit=1896|LTranslit=1896|SpaceAfter=No
+7	/	/	PUNCT	_	_	8	punct	_	Translit=/|LTranslit=/|SpaceAfter=No
+8	02	02	NUM	_	NumForm=Digit|NumType=Card	4	flat	_	Translit=02|LTranslit=02|SpaceAfter=No
+9	/	/	PUNCT	_	_	10	punct	_	Translit=/|LTranslit=/|SpaceAfter=No
+10	13	13	NUM	_	NumForm=Digit|NumType=Card	4	flat	_	Translit=13|LTranslit=13
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-254 nodes (1%) are attached to their parents as `nummod`.
+195 nodes (1%) are attached to their parents as `nummod`.
 
-187 instances of `nummod` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29133858267717.
+174 instances of `nummod` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.31282051282051.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (159; 63% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (46; 18% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (38; 15% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (148; 76% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (38; 19% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (3; 2% instances).
 
 
 ~~~ conllu
@@ -35,25 +35,6 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nummod	color:blue
-1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
-2	will	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
-3	play	play	VERB	VB	VerbForm=Inf	0	root	0:root	_
-4	on	on	ADP	IN	_	5	case	5:case	_
-5	Saturday	Saturday	PROPN	NNP	Number=Sing	3	obl	3:obl:on	SpaceAfter=No
-6	,	,	PUNCT	,	_	5	punct	5:punct	_
-7	10	10	NUM	CD	NumForm=Digit|NumType=Card	8	nummod	8:nummod	_
-8	June	June	PROPN	NNP	Number=Sing	5	appos	5:appos	SpaceAfter=No
-9	.	.	PUNCT	.	_	3	punct	3:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
@@ -68,6 +49,33 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	maximum	maximum	NOUN	NN	Number=Sing	1	appos	1:appos	_
 8	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	7:acl	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 11 nummod	color:blue
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	5:nsubj:pass	_
+2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+3	also	also	ADV	RB	_	5	advmod	5:advmod	_
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	5:aux:pass	_
+5	charged	charge	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+6	with	with	SCONJ	IN	_	7	mark	7:mark	_
+7	trying	try	VERB	VBG	VerbForm=Ger	5	advcl	5:advcl:with	_
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	kill	kill	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+11	two	two	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	SpaceAfter=No
+12	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
+13	year	year	NOUN	NN	Number=Sing	15	obl:unmarked	15:obl:unmarked	SpaceAfter=No
+14	-	-	PUNCT	HYPH	_	15	punct	15:punct	SpaceAfter=No
+15	old	old	ADJ	JJ	Degree=Pos	16	amod	16:amod	_
+16	daughter	daughter	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
+17	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 

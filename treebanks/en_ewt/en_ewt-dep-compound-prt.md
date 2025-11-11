@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-compound.html">compound</a></tt>.
 
-912 nodes (0%) are attached to their parents as `compound:prt`.
+907 nodes (0%) are attached to their parents as `compound:prt`.
 
-912 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.31798245614035.
+907 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31973539140022.
 
-The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (904; 99% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (899; 99% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -68,16 +68,16 @@ The following 4 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 compound:prt	color:blue
-1	Run	run	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+1	Run	run	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	MWECat=V.VID|MWELemma=run for the hill|MWELen=4|MWEString=Run for the hills|Supersense=v.motion
 2	for	for	ADP	IN	_	4	case	4:case	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	hills	hill	NOUN	NNS	Number=Plur	1	obl	1:obl:for	_
 5	...	...	PUNCT	,	_	10	punct	10:punct	_
 6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
 7	'll	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
-8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	Supersense=v.stative
 9	much	much	ADV	RB	_	10	advmod	10:advmod	_
-10	better	good	ADJ	JJR	Degree=Cmp	1	parataxis	1:parataxis	_
+10	better	good	ADJ	JJR	Degree=Cmp	1	parataxis	1:parataxis	MWECat=ADJ|MWELemma=good off|MWELen=2|MWEString=better off
 11	off	off	ADP	RP	_	10	compound:prt	10:compound:prt	SpaceAfter=No
 12	!	!	PUNCT	.	_	1	punct	1:punct	_
 

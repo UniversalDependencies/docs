@@ -56,21 +56,21 @@ The following 8 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 csubj:relcl	color:blue
-1	cum	cum	SCONJ	T	PronType=Rel	2	mark	_	LASLAVariant=3|LiLaflcat=i
-2	defecere	deficio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	LiLaflcat=v5|TraditionalMood=Indicativus|TraditionalTense=Perfectum
-3	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	5	nsubj	_	LASLAVariant=1|LiLaflcat=p
-4	modo	modo	ADV	M	AdvType=Tim	5	advmod:tmod	_	LASLAVariant=1|LiLaflcat=i
-5	hospes	hospes	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	7	csubj:relcl	_	LiLaflcat=n3
-6	fuerat	sum	AUX	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Plusquamperfectum
-7	monstrator	monstrator	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3
-8	hospitii	hospitium	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	7	nmod	_	LiLaflcat=n2
-9	et	et	CCONJ	S	_	10	cc	_	LASLAVariant=2|LiLaflcat=i
-10	comes	comes	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	7	conj	_	LiLaflcat=n3
-11	proximam	propior	ADJ	C	Case=Acc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing	12	amod	_	LiLaflcat=null
-12	domum	domus	NOUN	A6	Case=Acc|Gender=Fem|InflClass=IndEurU|Number=Sing	15	obj	_	LiLaflcat=n4
-13	non	non	PART	P	Polarity=Neg	14	advmod:neg	_	LiLaflcat=i
-14	inuitati	inuito	VERB	B1	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	15	advcl:pred	_	LiLaflcat=v1|TraditionalMood=Participium|TraditionalTense=Perfectum
-15	adeunt	adeo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens
+1	cum	cum	SCONJ	T	PronType=Rel	2	mark	_	LASLAVariant=3|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-128_1
+2	defecere	deficio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	LiLaflcat=v5|TraditionalMood=Indicativus|TraditionalTense=Perfectum|UniqueTokenId=TacGerma-Q-01-128_2
+3	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	5	nsubj	_	LASLAVariant=1|LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-128_3
+4	modo	modo	ADV	M	AdvType=Tim	5	advmod:tmod	_	LASLAVariant=1|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-128_4
+5	hospes	hospes	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	7	csubj:relcl	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-128_5
+6	fuerat	sum	AUX	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Plusquamperfectum|UniqueTokenId=TacGerma-Q-01-128_6
+7	monstrator	monstrator	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-128_7
+8	hospitii	hospitium	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	7	nmod	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-128_8
+9	et	et	CCONJ	S	_	10	cc	_	LASLAVariant=2|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-128_9
+10	comes	comes	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	7	conj	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-128_10
+11	proximam	propior	ADJ	C	Case=Acc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing	12	amod	_	LiLaflcat=null|UniqueTokenId=TacGerma-Q-01-128_11
+12	domum	domus	NOUN	A6	Case=Acc|Gender=Fem|InflClass=IndEurU|Number=Sing	15	obj	_	LiLaflcat=n4|UniqueTokenId=TacGerma-Q-01-128_12
+13	non	non	PART	P	Polarity=Neg	14	advmod:neg	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-128_13
+14	inuitati	inuito	VERB	B1	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	15	advcl:pred	_	LiLaflcat=v1|TraditionalMood=Participium|TraditionalTense=Perfectum|UniqueTokenId=TacGerma-Q-01-128_14
+15	adeunt	adeo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-128_15
 
 ~~~
 

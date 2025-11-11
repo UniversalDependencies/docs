@@ -68,13 +68,13 @@ The following 35 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 advcl	color:blue
-1	Če	če	SCONJ	Cs	_	3	mark	_	_
-2	mu	on	PRON	Pp3msd--y	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	3	iobj	_	_
-3	spodleti	spodleteti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
-4	,	,	PUNCT	Z	_	3	punct	_	_
-5	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	cop	_	_
-6	uničen	uničen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Z	_	6	punct	_	_
+1	Če	če	SCONJ	Cs	_	3	mark	_	NER=O
+2	mu	on	PRON	Pp3msd--y	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	3	iobj	_	NER=O
+3	spodleti	spodleteti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No|NER=O
+4	,	,	PUNCT	Z	_	3	punct	_	NER=O
+5	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	cop	_	NER=O
+6	uničen	uničen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No|NER=O
+7	.	.	PUNCT	Z	_	6	punct	_	NER=O
 
 ~~~
 

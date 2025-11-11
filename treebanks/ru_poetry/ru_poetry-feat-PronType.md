@@ -12,13 +12,13 @@ It occurs with 10 different values: `Dem`, `Emp`, `Exc`, `Ind`, `Int`, `Neg`, `P
 6389 tokens (10%) have a non-empty value of `PronType`.
 573 types (3%) occur at least once with a non-empty value of `PronType`.
 137 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (3533; 6% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1806; 3% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (1050; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> (3531; 6% instances), <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> (1808; 3% instances), <tt><a href="ru_poetry-pos-ADV.html">ADV</a></tt> (1050; 2% instances).
 
 ### `PRON`
 
-3533 <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+3531 <tt><a href="ru_poetry-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2831; 80%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2822; 80%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2411; 68%), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1959; 55%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2830; 80%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2821; 80%), <tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2410; 68%), <tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1959; 55%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -27,10 +27,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (46; 1% of non-empty `PronType`): <em>кто-то, что-то, чем-то, кому-то, чего-то, кем-то, Кого-нибудь, кем-нибудь, кого-то, нечто</em>
 * `Int` (88; 2% of non-empty `PronType`): <em>что, кто, кого, чем, кому, чему, чего, кем, чём</em>
 * `Neg` (46; 1% of non-empty `PronType`): <em>ничего, никто, никому, ничто, чем, Никого, ничем, кем, что</em>
-* `Prs` (2810; 80% of non-empty `PronType`): <em>я, ты, мне, он, мы, меня, тебя, нам, нас, тебе</em>
+* `Prs` (2809; 80% of non-empty `PronType`): <em>я, ты, мне, он, мы, меня, тебя, нам, нас, тебе</em>
 * `Rcp` (20; 1% of non-empty `PronType`): <em>друг, друга, другу</em>
 * `Rel` (178; 5% of non-empty `PronType`): <em>что, кто, чем, кого, чему, Кому, кем, чего, ком</em>
-* `Tot` (200; 6% of non-empty `PronType`): <em>все, всё, всем, всех, всего, всему, всеми, многих, прочем</em>
+* `Tot` (199; 6% of non-empty `PronType`): <em>все, всё, всем, всех, всего, всему, всеми, многих, прочем</em>
 
 <table>
   <tr><th>Paradigm <i>что</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Neg</tt></th><th><tt>Exc</tt></th></tr>
@@ -41,6 +41,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>чем</em></td><td><em>чем</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>чем, чём</em></td><td><em>чем</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>что</em></td><td></td><td><em>Что</em></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>что</em></td><td><em>что</em></td><td></td><td><em>что</em></td></tr>
 </table>
 
@@ -48,9 +49,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-1806 <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+1808 <tt><a href="ru_poetry-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1560; 86%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1244; 69%), <tt><a href="ru_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (910; 50%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ru_poetry-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1561; 86%), <tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1245; 69%), <tt><a href="ru_poetry-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (911; 50%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -60,9 +61,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Ind` (100; 6% of non-empty `PronType`): <em>один, одна, одно, одни, чьи-то, одной, какой-то, одному, какая-то, одним</em>
 * `Int` (20; 1% of non-empty `PronType`): <em>какие, Какой, какая, чья, Какое, Какую, Чье, Чьи, Чью, какими</em>
 * `Neg` (6; 0% of non-empty `PronType`): <em>Никаких, Никакие, никакого, ничья</em>
-* `Prs` (880; 49% of non-empty `PronType`): <em>мой, моя, их, твой, моей, его, свой, ее, мои, твои</em>
+* `Prs` (881; 49% of non-empty `PronType`): <em>мой, моя, их, твой, моей, его, свой, ее, мои, твои</em>
 * `Rel` (61; 3% of non-empty `PronType`): <em>который, какое, какой, которые, которым, которых, какая, которая, которой, котором</em>
-* `Tot` (302; 17% of non-empty `PronType`): <em>все, весь, каждый, вся, всех, всю, другой, всем, всё, другим</em>
+* `Tot` (303; 17% of non-empty `PronType`): <em>все, весь, каждый, вся, всех, всю, другой, всем, всё, другим</em>
 
 <table>
   <tr><th>Paradigm <i>какой</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Exc</tt></th></tr>
@@ -71,8 +72,8 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Какую</em></td><td><em>Какую</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Какое</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>какому</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_poetry-feat-ExtPos.html">ExtPos</a></tt><tt>=ADJ</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Какого</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>какой</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Какого</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>каких</em></td><td><em>каких</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_poetry-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>какой, какою</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_poetry-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_poetry-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>какими</em></td><td></td><td></td></tr>
@@ -97,7 +98,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Neg` (35; 3% of non-empty `PronType`): <em>никогда, нигде, никак, никуда, Ничего</em>
 * `Rel` (180; 17% of non-empty `PronType`): <em>где, как, куда, когда, откуда, зачем, отчего, почему, Сколь</em>
 * `Tot` (135; 13% of non-empty `PronType`): <em>все, больше, всё, всегда, навсегда, везде, всюду, иногда, немного, повсюду</em>
-* `EMPTY` (1732): <em>еще, вдруг, вновь, снова, опять, тихо, сегодня, скоро, давно, уже</em>
+* `EMPTY` (1730): <em>еще, вдруг, вновь, снова, опять, тихо, сегодня, скоро, давно, уже</em>
 
 <table>
   <tr><th>Paradigm <i>где</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Exc</tt></th></tr>
@@ -112,7 +113,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="ru_poetry-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (12; 75%),
 <tt>PRON --[<tt><a href="ru_poetry-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (9; 100%),
 <tt>DET --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> DET</tt> (6; 75%),
-<tt>ADV --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 60%),
+<tt>ADV --[<tt><a href="ru_poetry-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 75%),
 <tt>ADV --[<tt><a href="ru_poetry-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="ru_poetry-dep-obl.html">obl</a></tt>]--> ADV</tt> (1; 100%),
 <tt>PRON --[<tt><a href="ru_poetry-dep-acl.html">acl</a></tt>]--> PRON</tt> (1; 100%).

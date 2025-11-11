@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
 1879 tokens (2%) have a non-empty value of `NumType`.
-509 types (3%) occur at least once with a non-empty value of `NumType`.
+508 types (3%) occur at least once with a non-empty value of `NumType`.
 495 lemmas (5%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1740; 2% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (139; 0% instances).
 
@@ -18,11 +18,11 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-NU
 
 1740 <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1732; 100%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1733; 100%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1740; 100% of non-empty `NumType`): <em>två, tre, 1, en, 20, 2, ett, 1970, 3, 10</em>
+* `Card` (1740; 100% of non-empty `NumType`): <em>två, tre, en, 1, 20, 2, ett, 1970, 3, 10</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (483) occur only with one value of `NumType`.
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (139; 100% of non-empty `NumType`): <em>första, andra, tredje, fjärde, femte, III, andre, fjortonde, 25:e, 700:e</em>
-* `EMPTY` (8409): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, hela</em>
+* `EMPTY` (8414): <em>olika, andra, nya, många, stora, stor, samma, större, vissa, hela</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `NumType`.
 

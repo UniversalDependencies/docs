@@ -18,21 +18,22 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 aux	color:blue
-1	Projekt	projekt	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	nastał	nastać	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	w	w	ADP	_	_	5	case	_	_
-5	kooperaciji	kooperacija	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
-6	z	z	ADP	_	_	8	case	_	_
-7	Rěčnym	rěčny	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	8	amod	_	_
-8	centrumom	centrum	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	nmod	_	_
-9	WITAJ	WITAJ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 aux	color:blue
+1	W	w	ADP	_	_	3	case	_	_
+2	snadnej	snadny	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	měrje	měra	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+4	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+5	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
+6	tež	tež	ADV	_	_	10	advmod	_	_
+7	konje	kóń	NOUN	_	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+8	a	a	CCONJ	_	_	9	cc	_	_
+9	wozy	wóz	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	conj	_	_
+10	wužiwali	wužiwać	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 
@@ -51,7 +52,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	kaž	kaž	SCONJ	_	_	15	mark	_	_
 7	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 8	tež	tež	ADV	_	_	15	advmod	_	_
-9	na	na	ADP	_	_	14	advmod:emph	_	_
+9	na	na	ADP	_	ExtPos=ADV	14	advmod:emph	_	_
 10	př	přikład	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	fixed	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 12	w	w	ADP	_	_	14	case	_	_

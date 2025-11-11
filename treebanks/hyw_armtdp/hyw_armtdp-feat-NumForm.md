@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 4 different values: `Armenian`, `Combi`, `Digit`, `Word`.
 
 1364 tokens (1%) have a non-empty value of `NumForm`.
-327 types (1%) occur at least once with a non-empty value of `NumForm`.
-294 lemmas (2%) occur at least once with a non-empty value of `NumForm`.
+326 types (1%) occur at least once with a non-empty value of `NumForm`.
+293 lemmas (2%) occur at least once with a non-empty value of `NumForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1082; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (282; 0% instances).
 
 ### `NUM`
@@ -23,10 +23,10 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Armenian` (11; 1% of non-empty `NumForm`): <em>ա, բ, գ</em>
-* `Digit` (606; 56% of non-empty `NumForm`): <em>2021, 2, 15, 5, 12, 2020, 30, 10, 6, 7</em>
-* `Word` (465; 43% of non-empty `NumForm`): <em>երկու, մէկ, երեք, չորս, հինգ, կէս, վեց, տասը, հազար, հարիւր</em>
+* `Digit` (605; 56% of non-empty `NumForm`): <em>2021, 2, 15, 5, 12, 2020, 30, 10, 6, 7</em>
+* `Word` (466; 43% of non-empty `NumForm`): <em>երկու, մէկ, երեք, չորս, հինգ, կէս, վեց, տասը, հազար, հարիւր</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (234) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (233) occur only with one value of `NumForm`.
 
 ### `ADJ`
 

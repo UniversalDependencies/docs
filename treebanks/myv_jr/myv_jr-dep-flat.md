@@ -23,10 +23,10 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 15 flat	color:blue
-1	Сень	се	PRON	Pron	Case=Gen|Definite=Ind	2	nmod:poss	_	GTtags=Gen,Indef
+1	Сень	се	PRON	Pron	Case=Gen|Definite=Ind|PronType=Dem	2	nmod:poss	_	GTtags=Gen,Indef
 2	лангсо	ланго	NOUN	N	Case=Ine|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	nmod	_	GTtags=Relator,Po,Ine
 3	сёрмадовксонтькак	сёрмадовкс	NOUN	N	Case=Gen|Clitic=Add|Definite=Def|Number=Sing	4	obj	_	GTtags=Sg,Gen,Def,Clitic=Gak
-4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
+4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
 5	:	:	PUNCT	CLB	_	7	punct	_	_
 6	«	«	PUNCT	CLB	_	7	punct	_	GTtags=|SpaceAfter=No
 7	Ни	ни	X	X	_	4	parataxis	_	_
@@ -76,12 +76,12 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	кода	кода	ADV	Adv	AdvType=Man|PronType=Int	6	mark	_	GTtags=Interr,Manner
 5	валске	валске	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nmod	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
 6	мартон	мартонь	ADJ	A	Derivation=GenAttr	5	flat	_	GTtags=Der/GenAttr
-7	сенть	сесь	PRON	Pron	Case=Gen|Definite=Def|Number=Sing	2	conj	_	GTtags=Sg,Gen,Def
+7	сенть	сесь	PRON	Pron	Case=Gen|Definite=Def|Number=Sing|PronType=Dem	2	conj	_	GTtags=Sg,Gen,Def
 8	,	,	PUNCT	CLB	_	7	punct	_	_
 9	истя	истя	ADV	Adv	ExtPos=ADV	11	advmod	_	_
 10	жо	жо	PART	Pcle	_	9	fixed	_	GTtags=Emph
-11	чукадинзе	чукадемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcPl3
-12	кудост	кудо	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	14	obl	_	GTtags=Sg,Gen,PxPl3
+11	чукадинзе	чукадемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcPl3
+12	кудост	кудо	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	14	nmod	_	GTtags=Sg,Gen,PxPl3
 13	перька	перька	ADP	Po	AdpType=Post|Case=Prl|Definite=Ind|Number=Sing	12	case	_	GTtags=Po,Prl,Sg,Nom,Indef
 14	пирявксонть	пирявкс	NOUN	N	Case=Gen|Definite=Def|Number=Sing	15	nmod	_	GTtags=Sem/Inanim_Cnt,Sg,Gen,Def
 15	потсо	потмо	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	16	obl	_	GTtags=Sem/Inanim_Cnt,SP,Ine,Indef

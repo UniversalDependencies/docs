@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `SCONJ`
 
-There are 36 `SCONJ` lemmas (1%), 42 `SCONJ` types (0%) and 778 `SCONJ` tokens (3%).
+There are 35 `SCONJ` lemmas (1%), 41 `SCONJ` types (0%) and 777 `SCONJ` tokens (3%).
 Out of 16 observed tags, the rank of `SCONJ` is: 7 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ut, si, cum, ne, quod, dum, quam, nisi, ubi, quia</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>ut</em> (<tt><a href="la_perseus-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.166667 (the average of all parts of speech is 2.101598).
+The form / lemma ratio of `SCONJ` is 1.171429 (the average of all parts of speech is 2.101803).
 
 The 1st highest number of forms (3) was observed with the lemma “cum”: <em>cum, cumque, quom</em>.
 
@@ -69,25 +69,25 @@ The 3rd highest number of forms (2) was observed with the lemma “donec”: <em
 `SCONJ` occurs with 1 feature-value pairs: `PronType=Rel`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (751 tokens).
+The most frequent feature combination is `_` (750 tokens).
 Examples: <em>ut, si, cum, ne, quod, dum, nisi, ubi, quia, postquam</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (752; 97% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (18; 2% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (7; 1% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (752; 97% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (17; 2% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (7; 1% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (657; 84% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (67; 9% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (35; 4% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (657; 85% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (66; 8% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (35; 5% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances)
 
 554 (71%) `SCONJ` nodes are leaves.
 
-212 (27%) `SCONJ` nodes have one child.
+211 (27%) `SCONJ` nodes have one child.
 
 12 (2%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (214; 91% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (8; 3% instances), <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt> (8; 3% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (213; 91% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (8; 3% instances), <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt> (8; 3% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-advmod-neg.html">advmod:neg</a></tt> (2; 1% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (214; 91% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (15; 6% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (213; 91% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (15; 6% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 

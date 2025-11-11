@@ -24,15 +24,15 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 2 nsubj:outer	color:blue
 1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	wordform=la
-2	question	question	NOUN	_	Gender=Fem|Number=Sing	6	nsubj:outer	_	_
+2	question	question	NOUN	_	Number=Sing	6	nsubj:outer	_	Gender[lex]=Fem
 3	suivante	suivant	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	:	:	PUNCT	_	_	6	punct	_	_
 6	Peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|wordform=peut
-7	-on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	wordform=on
+7	-on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	wordform=on
 8	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	9	obl:mod	_	_
 9	prendre	prendre	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
-10	épouse	épouse	NOUN	_	Gender=Fem|Number=Sing	9	obj:lvc	_	_
+10	épouse	épouse	NOUN	_	Number=Sing	9	obj:lvc	_	Gender[lex]=Fem
 11	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -48,15 +48,15 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 2	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj:outer	_	wordform=ce
 3	parce	parce	ADV	_	ExtPos=SCONJ	7	mark	_	Idiom=Yes
 4	que	que	SCONJ	_	_	3	fixed	_	InIdiom=Yes
-5	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
+5	vous	vous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
 6	ne	ne	ADV	_	Polarity=Neg	7	advmod	_	_
 7	prenez	prendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
 9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-10	choses	chose	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+10	choses	chose	NOUN	_	Number=Plur	7	obj	_	Gender[lex]=Fem
 11	à	à	ADP	_	_	13	case	_	_
 12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	sérieux	sérieux	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
+13	sérieux	sérieux	NOUN	_	Number=Sing	7	obl:mod	_	Gender[lex]=Masc
 14	?	?	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -76,7 +76,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 7	que	que	SCONJ	_	_	12	mark	_	_
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	piste	piste	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+9	piste	piste	NOUN	_	Number=Sing	12	nsubj	_	Gender[lex]=Fem
 10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	vraiment	vraiment	ADV	_	_	12	advmod	_	_
 12	adhérente	adhérent	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -86,15 +86,15 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 16	voir	voir	VERB	_	VerbForm=Inf	14	acl	_	Subject=Generic
 17	avec	avec	ADP	_	_	19	case	_	_
 18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
-19	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	16	obl:arg	_	_
+19	pistes	piste	NOUN	_	Number=Plur	16	obl:arg	_	Gender[lex]=Fem
 20	de	de	ADP	_	_	21	case	_	_
-21	kart	kart	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+21	kart	kart	NOUN	_	Number=Sing	19	nmod	_	Gender[lex]=Masc
 22	en	en	ADP	_	_	23	case	_	_
-23	béton	béton	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+23	béton	béton	NOUN	_	Number=Sing	19	nmod	_	Gender[lex]=Masc
 24	que	que	PRON	_	PronType=Rel	27	obj	_	_
-25	j'	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	SpaceAfter=No
+25	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	SpaceAfter=No
 26	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	aux:tense	_	_
-27	vues	voir	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	19	acl:relcl	_	_
+27	vues	voir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	19	acl:relcl	_	Tense[denom]=Past
 28	partout	partout	ADV	_	_	27	advmod	_	_
 29	!	!	PUNCT	_	_	12	punct	_	_
 

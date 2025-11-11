@@ -59,7 +59,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 15 1 nsubj:outer	color:blue
 1	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nsubj:outer	15:nsubj:outer	_
 2	que	que	PRON	pr0cn000	PronType=Rel	6	nsubj	6:nsubj	ArgTem=arg1:tem
-3	sí	sí	NOUN	rg	_	6	advmod	6:advmod	MWE=sí_que|MWEPOS=ADV
+3	sí	sí	NOUN	rg	ExtPos=ADV	6	advmod	6:advmod	MWE=sí_que|MWEPOS=ADV
 4	que	que	SCONJ	_	_	3	fixed	3:fixed	_
 5	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	ArgTem=arg1:tem
 6	clar	clar	ADJ	aq0ms0	Gender=Masc|Number=Sing	1	acl:relcl	1:acl:relcl	SpaceAfter=No|ArgTem=arg2:atr
@@ -83,7 +83,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 24	normal	normal	ADJ	aq0cs0	Number=Sing	21	acl:relcl	21:acl:relcl	ArgTem=arg2:atr|Entity=NOCOREF:Gen)
 25	i	i	CCONJ	cc	_	32	cc	32:cc	SpaceAfter=No
 26	,	,	PUNCT	fc	PunctType=Comm	27	punct	27:punct	_
-27	per	per	ADP	rg	_	32	advmod	32:advmod	MWE=per_tant|MWEPOS=ADV
+27	per	per	ADP	rg	ExtPos=ADV	32	advmod	32:advmod	MWE=per_tant|MWEPOS=ADV
 28	tant	tant	NOUN	_	_	27	fixed	27:fixed	SpaceAfter=No
 29	,	,	PUNCT	fc	PunctType=Comm	27	punct	27:punct	_
 30	no	no	ADV	rn	Polarity=Neg	32	advmod	32:advmod	_
@@ -94,13 +94,13 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 35	d'	de	ADP	sps00	_	34	case	34:case	SpaceAfter=No
 36	aquests	aquest	DET	dd0mp0	Gender=Masc|Number=Plur|PronType=Dem	37	det	37:det	Entity=(CESSCATAAP2000111019202c71--2-CorefType:ident,gstype:gen
 37	lideratges	lideratge	NOUN	ncmp000	Gender=Masc|Number=Plur	34	nmod	34:nmod	ArgTem=arg2:atr|Entity=CESSCATAAP2000111019202c71)
-38	de	de	ADP	spcms	_	42	case	42:case	MWE=de_cara_al|MWEPOS=ADP
+38	de	de	ADP	spcms	ExtPos=ADP	42	case	42:case	MWE=de_cara_al|MWEPOS=ADP
 39	cara	cara	NOUN	_	_	38	fixed	38:fixed	_
 40	a	a	ADP	_	_	38	fixed	38:fixed	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	42:det	_
 42	futur	futur	NOUN	ncms000	Gender=Masc|Number=Sing	32	obl	32:obl	SpaceAfter=No|Entity=(CESSCATAAP2000111019202c151--1-gstype:gen,HomoDD)
 43	,	,	PUNCT	fc	PunctType=Comm	44	punct	44:punct	_
-44	ni	ni	CCONJ	cc	_	32	advmod	32:advmod	MWE=ni_de_bon_tros|MWEPOS=CCONJ
+44	ni	ni	CCONJ	cc	ExtPos=ADV	32	advmod	32:advmod	MWE=ni_de_bon_tros|MWEPOS=CCONJ
 45	de	de	ADP	_	_	44	fixed	44:fixed	_
 46	bon	bon	NOUN	_	_	44	fixed	44:fixed	_
 47	tros	tros	NOUN	_	_	44	fixed	44:fixed	SpaceAfter=No
@@ -137,7 +137,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 20	en	en	ADP	sps00	_	22	case	22:case	_
 21	aquestes	aquest	DET	dd0fp0	Gender=Fem|Number=Plur|PronType=Dem	22	det	22:det	Entity=(CESSCATAAP2000120193c3--2-CorefType:ident,gstype:gen
 22	especialitats	especialitat	NOUN	ncfp000	Gender=Fem|Number=Plur	18	nmod	18:nmod	Entity=CESSCATAAP2000120193c3)NOCOREF:Gen)NOCOREF:Gen)
-23	a	a	ADP	sps00	_	27	case	27:case	MWE=a_partir_de|MWEPOS=ADP
+23	a	a	ADP	sps00	ExtPos=ADP	27	case	27:case	MWE=a_partir_de|MWEPOS=ADP
 24	partir	partir	NOUN	_	_	23	fixed	23:fixed	_
 25	de	de	ADP	_	_	23	fixed	23:fixed	_
 26	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	27	det	27:det	SpaceAfter=No|Entity=(NOCOREF:Spec.date-time-2-gstype:spec

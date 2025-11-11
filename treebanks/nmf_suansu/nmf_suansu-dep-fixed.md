@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 7	A	a	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
 8	badi	ba	PRON	_	Case=Top|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj	_
 9	ay	ay	INTJ	_	ExtPos=VERB|Polarity=Pos	3	conj	3:conj	_
-10	re	re	VERB	_	Polarity=Neg	9	fixed	9:fixed	_
+10	re	re	VERB	_	VerbForm=Inf	9	fixed	9:fixed	_
 11	lama	la	AUX	_	Polarity=Neg|VerbForm=Inf	9	aux	9:aux	SpaceAfter=No
 12	?	?	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 

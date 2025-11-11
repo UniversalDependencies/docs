@@ -23,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `flat:dist`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 flat:dist	color:blue
-1	Ի	ի	ADP	_	AdpType=Prep	25	advmod	_	Translit=I|LTranslit=i
-2	զուր	զուր	ADJ	_	_	1	fixed	_	Translit=zowr|LTranslit=zowr
+1	Ի	ի	ADP	_	AdpType=Prep|ExtPos=ADV	25	advmod	_	Translit=I|LTranslit=i
+2	զուր	զուր	ADV	_	_	1	fixed	_	Translit=zowr|LTranslit=zowr
 3	հուժկու	հուժկու	ADJ	_	Degree=Pos	4	amod	_	Translit=howžkow|LTranslit=howžkow
 4	բարապանները	բարապան	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	25	nsubj	_	Translit=barapannerë|LTranslit=barapan|SpaceAfter=No
 5	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
 6	«	«	PUNCT	_	_	16	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
 7	որոնց	որ	PRON	_	Case=Dat|Number=Plur|PronType=Rel	8	nmod:poss	_	Translit=oronc’|LTranslit=or
-8	ամէն	ամէն	DET	_	PronType=Tot	10	nmod:poss	_	Translit=amēn|LTranslit=amēn
+8	ամէն	ամէն	DET	_	ExtPos=PRON|PronType=Tot	10	nmod:poss	_	Translit=amēn|LTranslit=amēn
 9	մէկի	մէկ	PRON	_	Case=Dat|Definite=Ind|PronType=Ind	8	fixed	_	Translit=mēki|LTranslit=mēk
 10	պեխէն	պեխ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Number=Sing	16	obl	_	Translit=pexēn|LTranslit=pex
 11	մէկ	մէկ	NUM	_	NumForm=Word|NumType=Card	14	nummod	_	Translit=mēk|LTranslit=mēk|SpaceAfter=No

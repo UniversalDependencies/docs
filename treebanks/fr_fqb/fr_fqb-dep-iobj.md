@@ -26,8 +26,8 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	et	et	CCONJ	_	_	3	cc	_	_
 3	comment	comment	ADV	_	PronType=Int	1	conj	_	_
 4	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	-t-on	il	PRON	_	Number=Sing|Person=3	4	nsubj	_	_
-6	me	le/lui	PRON	_	Number=Sing|Person=1	7	iobj	_	_
+5	-t-on	il	PRON	_	Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
+6	me	le/lui	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
 7	verser	verser	VERB	_	VerbForm=Inf	4	xcomp	_	_
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	prime	prime	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_

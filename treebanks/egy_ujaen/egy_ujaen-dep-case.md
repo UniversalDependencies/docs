@@ -8,44 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-2757 nodes (13%) are attached to their parents as `case`.
+3023 nodes (12%) are attached to their parents as `case`.
 
-2724 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05730866884295.
+2985 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06549784981806.
 
-The following 8 pairs of parts of speech are connected with `case`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (1187; 43% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (1048; 38% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (470; 17% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (38; 1% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="egy_ujaen-pos-X.html">X</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 case	color:blue
-1	ꞽw	ꞽw	AUX	_	Aspect=Perf	2	aux	_	Hiero=𓇋𓅱|PART
-2	(w)ṭ.n	wṭi̯	VERB	_	SubForm=Pred|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=𓂧:𓈖|SPC=Past-2
-3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-4	nr.w	nr.w	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Hiero=(𓈖:𓂋)𓃭𓅱|MWE=Yes
-5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Hiero=𓆑|Pron=SFP
-6	m	m	ADP	_	Case=Loc	7	case	_	Hiero=𓅓|Status=Cons
-7	ꞽb	ꞽb	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	Hiero=𓄣
-8	⸗śn	śn	PRON	_	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	Hiero=𓋴𓈖|Poss=Yes|Pron=SFP
-
-~~~
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (1296; 43% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (1154; 38% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (479; 16% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (79; 3% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="egy_ujaen-pos-X.html">X</a></tt>-<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 case	color:blue
-1	nꞽ	nꞽ	PART	_	PartType=Neg	2	advmod	_	Hiero=𓂜|Neg
-2	wrč̣	wrč̣	VERB	_	SubForm=Pred|Tense=Fut|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓅨:𓂋)𓆓|SPC=Fut
-3	ꞽb	ꞽb	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	Hiero=𓄣|MWE=Yes
-4	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Hiero=𓎡|Poss=Yes|Pron=SFP
-5	ẖr	ẖr	ADP	_	Case=Sub	6	case	_	Hiero=𓌨:𓂋|Status=Pron
-6	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	Hiero=𓋴|Pron=SFP
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 case	color:blue
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓊨:𓁹|Name=God
+2	ꞽč	ꞽči̯	VERB	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=𓇋𓎁
+3	n	n	ADP	_	Case=Ben	4	case	_	Hiero=𓈖|Status=Pron
+4	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	Hiero=𓎡|Pron=SFP
+5	mśč̣č̣.w	mśč̣i̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Plur|Tense=Pres|VerbClass=4aeinf|VerbForm=Part|Voice=Act	2	obj	_	Hiero=𓋴𓅓(𓆓:𓆓)𓅱
+6	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc|Number=Sing	5	nmod:poss	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
+7	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	Hiero=𓎠𓅱
+8	mṭw(.w)	mṭwi̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Plur|Tense=Pres|VerbClass=4aeinf|VerbForm=Part|Voice=Act	5	conj	_	Hiero=𓌃𓅓𓂧𓅱
+9	m	m	ADP	_	Case=Ins	10	case	_	Hiero=𓅓|Status=Cons
+10	rn	rn	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=𓂋:𓈖
+11	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod	_	Hiero=𓆑|Pron=SFP
+12	č̣w	č̣w	ADV	_	AdvType=Man	8	advmod	_	Hiero=𓈋𓅱
 
 ~~~
 
@@ -56,7 +44,29 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	ṭwꜣ.w	ṭwꜣ	VERB	_	SubForm=AbstRel|Tense=Fut|VerbClass=3lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓂧(:𓍯*𓅱)|SPC=FutPass
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓊨:𓁹|Name=God
+2	ꞽč	ꞽči̯	VERB	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=𓇋𓎁
+3	n	n	ADP	_	Case=Ben	4	case	_	Hiero=𓈖|Status=Pron
+4	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	Hiero=𓎡|Pron=SFP
+5	mśč̣č̣.w	mśč̣i̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Plur|Tense=Pres|VerbClass=4aeinf|VerbForm=Part|Voice=Act	2	obj	_	Hiero=𓋴𓅓(𓆓:𓆓)𓅱
+6	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc|Number=Sing	5	nmod:poss	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
+7	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	Hiero=𓎠𓅱
+8	mṭw(.w)	mṭwi̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Plur|Tense=Pres|VerbClass=4aeinf|VerbForm=Part|Voice=Act	5	conj	_	Hiero=𓌃𓅓𓂧𓅱
+9	m	m	ADP	_	Case=Ins	10	case	_	Hiero=𓅓|Status=Cons
+10	rn	rn	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=𓂋:𓈖
+11	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod	_	Hiero=𓆑|Pron=SFP
+12	č̣w	č̣w	ADV	_	AdvType=Man	8	advmod	_	Hiero=𓈋𓅱
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 case	color:blue
+1	ṭwꜣ.w	ṭwꜣ	VERB	_	Mood=Ind|SubForm=AbstRel|Tense=Fut|VerbClass=3lit|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓂧(:𓍯*𓅱)|SPC=FutPass
 2	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡|Pron=SFP
 3	n	n	ADP	_	Case=Ben	4	case	_	Hiero=𓈖|Status=Cons
 4	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	obl	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King

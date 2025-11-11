@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	tumbuhan	tumbuh	NOUN	NSD	Number=Sing	4	compound	_	Morf=^tumbuh<v>+an_NSD$
 6	yang	yang	PRON	S--	PronType=Rel	8	nsubj:pass	_	Morf=^yang<s>_S--$
 7	telah	telah	AUX	D--	_	8	aux	_	Morf=^telah<d>_D--$
-8	dimanfaatkan	manfaat	VERB	VSP	Mood=Ind|Voice=Pass	4	acl:relcl	_	Morf=^di+manfaat<n>+kan_VSP$
+8	dimanfaatkan	manfaat	VERB	VSP	Voice=Pass	4	acl:relcl	_	Morf=^di+manfaat<n>+kan_VSP$
 9	masyarakat	masyarakat	NOUN	NSD	Number=Sing	8	obj	_	Morf=^masyarakat<n>_NSD$
 10	baik	baik	CCONJ	ASP	_	12	cc:preconj	_	Morf=^baik<a>_ASP$
 11	untuk	untuk	ADP	R--	_	12	case	_	Morf=^untuk<r>_R--$
@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 15	obat-obatan	obat	NOUN	NSD	Number=Sing	12	conj	_	Morf=^obat<n>_NSD$|SpaceAfter=No
 16	,	,	PUNCT	Z--	_	17	punct	_	Morf=^,<z>_Z--$
 17	tanaman	tanam	NOUN	NSD	Number=Sing	12	conj	_	Morf=^tanam<v>+an_NSD$
-18	hias	hias	VERB	VSA	Mood=Ind|Voice=Act	17	amod	_	Morf=^hias<v>_VSA$
+18	hias	hias	VERB	VSA	Voice=Act	17	amod	_	Morf=^hias<v>_VSA$
 19	maupun	maupun	CCONJ	H--	_	20	cc	_	Morf=^maupun<h>_H--$
 20	pangan	pangan	NOUN	NSD	Number=Sing	12	conj	_	SpaceAfter=No|Morf=^pangan<n>_NSD$
 21	.	.	PUNCT	Z--	_	4	punct	_	Morf=^.<z>_Z--$
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 9	saat	saat	NOUN	NSD	Number=Sing	3	nmod	_	Morf=^saat<n>_NSD$
 10	itu	itu	DET	B--	PronType=Dem	9	det	_	Morf=^itu<b>_B--$
 11	selalu	selalu	ADV	D--	_	12	advmod	_	Morf=^selalu<d>_D--$
-12	berada	ada	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^ber+ada<a>_VSA$
+12	berada	ada	VERB	VSA	Voice=Act	0	root	_	Morf=^ber+ada<a>_VSA$
 13	dalam	dalam	ADP	ASP	_	14	case	_	Morf=^dalam<a>_ASP$
 14	kendali	kendali	NOUN	NSD	Number=Sing	12	obl	_	Morf=^kendali<n>_NSD$
 15	dan	dan	CCONJ	H--	_	16	cc	_	Morf=^dan<h>_H--$
@@ -92,14 +92,14 @@ The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 2	William	william	PROPN	F--	_	5	nsubj:pass	_	Morf=^william<f>_F--$
 3	dan	dan	CCONJ	H--	_	4	cc	_	Morf=^dan<h>_H--$
 4	Comita	comita	PROPN	X--	_	2	conj	_	Morf=^comita<x>_X--$
-5	diperingati	ingat	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+per+ingat<v>+i_VSP$
+5	diperingati	ingat	VERB	VSP	Voice=Pass	0	root	_	Morf=^di+per+ingat<v>+i_VSP$
 6	untuk	untuk	ADP	R--	_	9	case	_	Morf=^untuk<r>_R--$
 7	yang	yang	PRON	S--	PronType=Rel	9	nsubj	_	Morf=^yang<s>_S--$
 8	kedua	kedua	ADJ	CO-	NumType=Ord	9	amod	_	Morf=^ke+dua<c>_CO-$
 9	kali	kali	NOUN	VSA	_	5	obl	_	Morf=^kali<v>_VSA$
 10	nya	dia	PRON	PS3	Number=Sing|Person=3|PronType=Prs	9	nmod:poss	_	Morf=^dia<p>_PS3$
 11	untuk	untuk	SCONJ	R--	_	12	mark	_	Morf=^untuk<r>_R--$
-12	mengikuti	ikut	VERB	VSA	Mood=Ind|Voice=Act	5	xcomp	_	Morf=^meN+ikut<v>+i_VSA$
+12	mengikuti	ikut	VERB	VSA	Voice=Act	5	xcomp	_	Morf=^meN+ikut<v>+i_VSA$
 13	Biagio	biagio	PROPN	X--	_	12	obj	_	Morf=^biagio<x>_X--$
 14	dalam	dalam	ADP	ASP	_	15	case	_	Morf=^dalam<a>_ASP$
 15	hal	hal	NOUN	NSD	Number=Sing	12	obl	_	Morf=^hal<n>_NSD$

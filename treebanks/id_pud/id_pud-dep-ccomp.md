@@ -25,11 +25,11 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 1	Dengan	dengan	ADP	_	_	2	case	_	_
 2	ini	ini	PRON	_	PronType=Dem	4	obl	_	_
 3	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	4	nsubj	_	_
-4	menyatakan	nyata	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	menyatakan	nyata	VERB	_	Voice=Act	0	root	_	_
 5	pertandingan	tanding	NOUN	_	Number=Sing	8	nsubj	_	_
 6	Olimpiade	Olimpiade	PROPN	_	_	5	nmod	_	_
 7	pertama	pertama	ADJ	_	NumType=Ord	5	amod	_	_
-8	selesai	selesai	VERB	_	Mood=Ind|Voice=Act	4	ccomp	_	SpaceAfter=No
+8	selesai	selesai	VERB	_	Voice=Act	4	ccomp	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 ccomp	color:blue
-1	Katakan	kata	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+1	Katakan	kata	VERB	_	Voice=Act	0	root	_	_
 2	lah	lah	PART	_	_	1	advmod:emph	_	_
 3	dia	dia	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	salah	salah	ADJ	_	_	1	ccomp	_	SpaceAfter=No
@@ -58,10 +58,10 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 6 10 ccomp	color:blue
 1	Ketika	ketika	ADV	_	PronType=Rel	3	advmod	_	_
 2	Millican	Millican	PROPN	_	_	3	nsubj	_	_
-3	meninggal	tinggal	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	SpaceAfter=No
+3	meninggal	tinggal	VERB	_	Voice=Act	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	kami	kami	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
-6	kira	kira	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+6	kira	kira	VERB	_	Voice=Act	0	root	_	_
 7	bahwa	bahwa	SCONJ	_	_	10	mark	_	_
 8	itu	itu	PRON	_	PronType=Dem	10	nsubj	_	_
 9	juga	juga	ADV	_	_	10	advmod	_	_

@@ -55,7 +55,7 @@ The following 19 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
 1	week	week	NOUN	NN	Number=Sing	0	root	0:root	Discourse=joint-list_m:101->98:0:_|Entity=(141-abstract-new-nnnnn-cf1-1-sgl)|XML=<ref target:::"https://en.wiktionary.org/wiki/week"></ref>
-2	(	(	PUNCT	-LRB-	_	6	punct	6:punct	Discourse=mode-manner:102->101:0:dm-as-493|PDTB=Explicit:Comparison.Similarity:as:_:491:492-497|SpaceAfter=No
+2	(	(	PUNCT	-LRB-	_	6	punct	6:punct	Discourse=mode-manner:102->101:0:dm-as-493-_|PDTB=Explicit:Comparison.Similarity:as:_:491:492-497|SpaceAfter=No
 3	as	as	ADP	IN	_	6	case	6:case	_
 4	in	in	ADP	IN	_	6	case	6:case	_
 5	Saturday	Saturday	PROPN	NNP	Number=Sing	6	compound	6:compound	Entity=(142-time-new-nnnnn-cf2-2-sgl(143-time-new-nnnnn-cf3-1-sgl-Saturday)|XML=<hi rend:::"italic">

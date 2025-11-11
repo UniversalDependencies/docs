@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Katarína Gajdošová, Mária Šimková, Daniel Zeman.
 
 Repository: [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -102,13 +102,13 @@ vol. 68, no. 2, pp. 385-395
 
 ## Relations
 
-[acl](sk_snk-dep-acl.html) – [acl:relcl](sk_snk-dep-acl-relcl.html) – [advcl](sk_snk-dep-advcl.html) – [advmod](sk_snk-dep-advmod.html) – [advmod:emph](sk_snk-dep-advmod-emph.html) – [amod](sk_snk-dep-amod.html) – [appos](sk_snk-dep-appos.html) – [aux](sk_snk-dep-aux.html) – [aux:pass](sk_snk-dep-aux-pass.html) – [case](sk_snk-dep-case.html) – [cc](sk_snk-dep-cc.html) – [ccomp](sk_snk-dep-ccomp.html) – [compound](sk_snk-dep-compound.html) – [conj](sk_snk-dep-conj.html) – [cop](sk_snk-dep-cop.html) – [csubj](sk_snk-dep-csubj.html) – [csubj:pass](sk_snk-dep-csubj-pass.html) – [dep](sk_snk-dep-dep.html) – [det](sk_snk-dep-det.html) – [det:numgov](sk_snk-dep-det-numgov.html) – [discourse](sk_snk-dep-discourse.html) – [expl:pass](sk_snk-dep-expl-pass.html) – [expl:pv](sk_snk-dep-expl-pv.html) – [fixed](sk_snk-dep-fixed.html) – [flat](sk_snk-dep-flat.html) – [iobj](sk_snk-dep-iobj.html) – [mark](sk_snk-dep-mark.html) – [nmod](sk_snk-dep-nmod.html) – [nsubj](sk_snk-dep-nsubj.html) – [nsubj:pass](sk_snk-dep-nsubj-pass.html) – [nummod](sk_snk-dep-nummod.html) – [obj](sk_snk-dep-obj.html) – [obl](sk_snk-dep-obl.html) – [obl:arg](sk_snk-dep-obl-arg.html) – [orphan](sk_snk-dep-orphan.html) – [parataxis](sk_snk-dep-parataxis.html) – [punct](sk_snk-dep-punct.html) – [root](sk_snk-dep-root.html) – [vocative](sk_snk-dep-vocative.html) – [xcomp](sk_snk-dep-xcomp.html)
+[acl](sk_snk-dep-acl.html) – [acl:relcl](sk_snk-dep-acl-relcl.html) – [advcl](sk_snk-dep-advcl.html) – [advcl:pred](sk_snk-dep-advcl-pred.html) – [advmod](sk_snk-dep-advmod.html) – [advmod:emph](sk_snk-dep-advmod-emph.html) – [amod](sk_snk-dep-amod.html) – [appos](sk_snk-dep-appos.html) – [aux](sk_snk-dep-aux.html) – [aux:pass](sk_snk-dep-aux-pass.html) – [case](sk_snk-dep-case.html) – [cc](sk_snk-dep-cc.html) – [ccomp](sk_snk-dep-ccomp.html) – [compound](sk_snk-dep-compound.html) – [conj](sk_snk-dep-conj.html) – [cop](sk_snk-dep-cop.html) – [csubj](sk_snk-dep-csubj.html) – [csubj:pass](sk_snk-dep-csubj-pass.html) – [dep](sk_snk-dep-dep.html) – [det](sk_snk-dep-det.html) – [det:numgov](sk_snk-dep-det-numgov.html) – [discourse](sk_snk-dep-discourse.html) – [expl:pass](sk_snk-dep-expl-pass.html) – [expl:pv](sk_snk-dep-expl-pv.html) – [fixed](sk_snk-dep-fixed.html) – [flat](sk_snk-dep-flat.html) – [iobj](sk_snk-dep-iobj.html) – [mark](sk_snk-dep-mark.html) – [nmod](sk_snk-dep-nmod.html) – [nsubj](sk_snk-dep-nsubj.html) – [nsubj:pass](sk_snk-dep-nsubj-pass.html) – [nummod](sk_snk-dep-nummod.html) – [obj](sk_snk-dep-obj.html) – [obl](sk_snk-dep-obl.html) – [obl:arg](sk_snk-dep-obl-arg.html) – [orphan](sk_snk-dep-orphan.html) – [parataxis](sk_snk-dep-parataxis.html) – [punct](sk_snk-dep-punct.html) – [root](sk_snk-dep-root.html) – [vocative](sk_snk-dep-vocative.html) – [xcomp](sk_snk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 10604 sentences, 106043 tokens and 106097 syntactic words.</li>
+<li>This corpus contains 10604 sentences, 106043 tokens and 106372 syntactic words.</li>
 </ul>
 
 <ul>
@@ -124,8 +124,8 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
-<li>This corpus contains 54 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 9 types of multi-word tokens. Examples: naňho, naň, doň, preňho, doňho, uňho, oňho, poňho, zaňho.</li>
+<li>This corpus contains 329 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 13 types of multi-word tokens. Examples: aby, akoby, keby, naňho, naň, doň, preňho, doňho, uňho, Niežeby, oňho, poňho, zaňho.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -137,7 +137,7 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
-<li>This corpus contains 145 word types tagged as particles (PART): Ako, Ano, Beztak, Bohužiaľ, Chvalabohu, Dobre, Ešteže, Fajn, Horkýže, Isteže, Kdeže, Kiež, Lenže, Lúčne, Mimochodom, Možnože, Namojdušu, Nanešťastie, Nech, Niežeby, Nijako, Nože, Nuž, Obzvlášť, Pomóóóc, Práveže, Reku, Skrátka, Snáď, Správne, Super, TUŠÍM, Takisto, Taktiež, Takže, Ticho, Tuším, Vcelku, Veruže, Vážne, a, aj, akiste, akurát, ale, ani, asi, aspoň, až, bezpochyby, celkom, div, dokonca, doslova, dosť, ešte, hlavne, hneď, hádam, i, iba, inak, iste, jedine, jednoducho, keď, koncov, konečne, len, možno, najmenej, najmä, nakoniec, naopak, naozaj, napodiv, napokon, napríklad, naviac, navyše, našťastie, nie, nič, no, náhodou, pekne, pochopiteľne, pomerne, poprípade, pravda, pravdaže, pravdepodobne, pravdpodobne, predovšetkým, predsa, presne, priam, približne, prinajmenšom, prirodzene, prosím, práve, radšej, respektíve, rozhodne, samozrejme, skoro, skôr, sotva, stále, síce, tak, takmer, takpovediac, tam, teda, tiež, to, totiž, toto, tu, určite, už, vari, veru, veď, vlastne, vonkoncom, vraj, vskutku, vôbec, výlučne, však, zasa, zase, zhruba, zo, zrejme, áno, údajne, čo, čoraz, Škoda, že, žiaľ</li>
+<li>This corpus contains 144 word types tagged as particles (PART): Ako, Ano, Beztak, Bohužiaľ, Chvalabohu, Dobre, Ešteže, Fajn, Horkýže, Isteže, Kdeže, Kiež, Lenže, Lúčne, Mimochodom, Možnože, Namojdušu, Nanešťastie, Nech, Nijako, Nože, Nuž, Obzvlášť, Pomóóóc, Práveže, Reku, Skrátka, Snáď, Správne, Super, TUŠÍM, Takisto, Taktiež, Takže, Ticho, Tuším, Vcelku, Veruže, Vážne, a, aj, akiste, akurát, ale, ani, asi, aspoň, až, bezpochyby, celkom, div, dokonca, doslova, dosť, ešte, hlavne, hneď, hádam, i, iba, inak, iste, jedine, jednoducho, keď, koncov, konečne, len, možno, najmenej, najmä, nakoniec, naopak, naozaj, napodiv, napokon, napríklad, naviac, navyše, našťastie, nie, nič, no, náhodou, pekne, pochopiteľne, pomerne, poprípade, pravda, pravdaže, pravdepodobne, pravdpodobne, predovšetkým, predsa, presne, priam, približne, prinajmenšom, prirodzene, prosím, práve, radšej, respektíve, rozhodne, samozrejme, skoro, skôr, sotva, stále, síce, tak, takmer, takpovediac, tam, teda, tiež, to, totiž, toto, tu, určite, už, vari, veru, veď, vlastne, vonkoncom, vraj, vskutku, vôbec, výlučne, však, zasa, zase, zhruba, zo, zrejme, áno, údajne, čo, čoraz, Škoda, že, žiaľ</li>
 </ul>
 
 <ul>
@@ -174,7 +174,7 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
+    <li>AUX: som, je, by, sme, sú, bude, si, ste, budú, nebude</li>
     <li>VERB: je, má, ide, môže, mám, majú, musí, musím, sú, chcem</li>
   </ul>
   </li>
@@ -566,10 +566,8 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Cnd
     <ul>
-      <li>ADV: akoby</li>
       <li>AUX: by</li>
-      <li>PART: Niežeby</li>
-      <li>SCONJ: aby, keby, akoby</li>
+      <li>AUX-Fin: by</li>
     </ul>
   </li>
 </ul>
@@ -681,7 +679,7 @@ vol. 68, no. 2, pp. 385-395
 <ul>
   <li>Int,Rel
     <ul>
-      <li>ADV: kde, ako, prečo, kam, kedy, odkiaľ, odkedy, čím, Kamže, kadiaľ</li>
+      <li>ADV: kde, ako, prečo, kam, kedy, odkiaľ, odkedy, Kamže, kadiaľ, kdeby</li>
       <li>DET: ktoré, ktorý, ktorá, ktorí, ktorú, ktorého, ktorej, ktorých, ktorom, aké</li>
       <li>PRON: čo, kto, čím, čom, koho, Čože, čomu, komu, ktože, čoho</li>
     </ul>
@@ -1025,11 +1023,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN-Acc (4)</li>
-      <li>VERB-Fin--NOUN-Acc (832)</li>
+      <li>VERB-Fin--NOUN-Acc (831)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
-      <li>VERB-Fin--NOUN-Nom (11)</li>
+      <li>VERB-Fin--NOUN-Nom (10)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (297)</li>
+      <li>VERB-Fin--PRON-Acc (295)</li>
       <li>VERB-Fin--PRON-Acc-ADP(na) (8)</li>
       <li>VERB-Fin--PRON-Acc-ADP(o) (1)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
@@ -1040,11 +1038,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (115)</li>
       <li>VERB-Inf--PRON-Acc-ADP(na) (2)</li>
       <li>VERB-Inf--PRON-Acc-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Acc (2045)</li>
+      <li>VERB-Part--NOUN-Acc (2044)</li>
       <li>VERB-Part--NOUN-Gen (11)</li>
       <li>VERB-Part--NOUN-Nom (18)</li>
       <li>VERB-Part--PRON (14)</li>
-      <li>VERB-Part--PRON-Acc (727)</li>
+      <li>VERB-Part--PRON-Acc (724)</li>
       <li>VERB-Part--PRON-Acc-ADP(na) (22)</li>
       <li>VERB-Part--PRON-Acc-ADP(pre) (1)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
@@ -1057,14 +1055,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (5)</li>
+      <li>VERB-Fin--PRON-Acc (7)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc (5)</li>
-      <li>VERB-Part--NOUN-Acc (4)</li>
+      <li>VERB-Part--NOUN-Acc (5)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (32)</li>
-      <li>VERB-Part--PRON-Acc (22)</li>
+      <li>VERB-Part--PRON-Acc (25)</li>
       <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
     </ul>
   </li>
@@ -1094,7 +1092,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

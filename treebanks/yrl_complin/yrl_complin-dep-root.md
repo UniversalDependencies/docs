@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2120 nodes (10%) are attached to their parents as `root`.
+2742 nodes (11%) are attached to their parents as `root`.
 
-2120 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5188679245283.
+2742 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.28264040846098.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1706; 80% instances), -<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (127; 6% instances), -<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (116; 5% instances), -<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (67; 3% instances), -<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (48; 2% instances), -<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (27; 1% instances), -<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (10; 0% instances), -<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), -<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), -<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (2193; 80% instances), -<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (177; 6% instances), -<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (146; 5% instances), -<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (75; 3% instances), -<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (71; 3% instances), -<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (40; 1% instances), -<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (11; 0% instances), -<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), -<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (8; 0% instances), -<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), -<tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

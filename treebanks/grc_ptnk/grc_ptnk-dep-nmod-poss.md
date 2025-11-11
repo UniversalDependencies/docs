@@ -22,20 +22,20 @@ The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 nmod:poss	color:blue
-1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	συνετελέσθησαν	συντελέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-finish
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh
-4	οὐρανὸς	οὐρανός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	Gloss=sky,heaven
-5	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next
-6	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the
-7	γῆ	γῆ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	Gloss=earth|SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next
-10	πᾶς	πᾶς	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	12	amod	_	Gloss=every,all
-11	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh
-12	κόσμος	κόσμος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	Gloss=world
-13	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	12	nmod:poss	_	Gloss=he,she,it,-self,same|SpaceAfter=No
-14	.	.	PUNCT	_	_	13	punct	_	_
+1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
+2	συνετελέσθησαν	συντελέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-finish|Ref=GEN_2.1
+3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_2.1
+4	οὐρανὸς	οὐρανός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	Gloss=sky,heaven|Ref=GEN_2.1
+5	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
+6	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_2.1
+7	γῆ	γῆ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	Gloss=earth|Ref=GEN_2.1|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	Ref=GEN_2.1
+9	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
+10	πᾶς	πᾶς	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	12	amod	_	Gloss=every,all|Ref=GEN_2.1
+11	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_2.1
+12	κόσμος	κόσμος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	Gloss=world|Ref=GEN_2.1
+13	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	12	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_2.1|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	Ref=GEN_2.1
 
 ~~~
 
@@ -46,14 +46,14 @@ The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 nmod:poss	color:blue
-1	πλὴν	πλήν	ADV	_	_	2	advmod	_	Gloss=but,however|Unknown=Preposition/Conjunction
-2	κρέας	κρέας	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=flesh,meat
-3	ἐν	ἐν	ADP	_	_	4	case	_	Gloss=in,on,by,with,to
-4	αἵματι	αἷμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	acl:relcl	_	Gloss=blood
-5	ψυχῆς	ψυχή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=soul
-6	οὐ	οὐ	ADV	_	Polarity=Neg	7	advmod	_	Gloss=no,not
-7	φάγεσθε	ἐσθίω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-eat|SpaceAfter=No
-8	·	·	PUNCT	_	_	7	punct	_	_
+1	πλὴν	πλήν	ADV	_	_	2	advmod	_	Gloss=but,however|Ref=GEN_9.4|Unknown=Preposition/Conjunction
+2	κρέας	κρέας	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=flesh,meat|Ref=GEN_9.4
+3	ἐν	ἐν	ADP	_	_	4	case	_	Gloss=in,on,by,with,to|Ref=GEN_9.4
+4	αἵματι	αἷμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	acl:relcl	_	Gloss=blood|Ref=GEN_9.4
+5	ψυχῆς	ψυχή	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=soul|Ref=GEN_9.4
+6	οὐ	οὐ	ADV	_	Polarity=Neg	7	advmod	_	Gloss=no,not|Ref=GEN_9.4
+7	φάγεσθε	ἐσθίω	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-eat|Ref=GEN_9.4|SpaceAfter=No
+8	·	·	PUNCT	_	_	7	punct	_	Ref=GEN_9.4
 
 ~~~
 
@@ -64,18 +64,18 @@ The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 nmod:poss	color:blue
-1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next
-2	ἐγένοντο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be
-3	πᾶσαι	πᾶς	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	Gloss=all
-4	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	5	det	_	Gloss=the
-5	ἡμέραι	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	Gloss=days
-6	Ἐνώχ	Ἑνώχ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=Enoch|SpaceAfter=No
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	τριακόσια	τριακόσιοι	NUM	_	Case=Acc,Nom|Gender=Neut|Number=Plur|NumType=Card	11	nummod	_	Gloss=300
-9	ἑξήκοντα	ἑξήκοντα	NUM	_	NumType=Card	8	conj	_	Gloss=sixty-times
-10	πέντε	πέντε	NUM	_	NumType=Card	8	conj	_	Gloss=five
-11	ἔτη	ἔτος	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=years|SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	_
+1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_5.23
+2	ἐγένοντο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be|Ref=GEN_5.23
+3	πᾶσαι	πᾶς	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	Gloss=all|Ref=GEN_5.23
+4	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_5.23
+5	ἡμέραι	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	Gloss=days|Ref=GEN_5.23
+6	Ἐνώχ	Ἑνώχ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=Enoch|Ref=GEN_5.23|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_5.23
+8	τριακόσια	τριακόσιοι	NUM	_	Case=Acc,Nom|Gender=Neut|Number=Plur|NumType=Card	11	nummod	_	Gloss=300|Ref=GEN_5.23
+9	ἑξήκοντα	ἑξήκοντα	NUM	_	NumType=Card	8	conj	_	Gloss=sixty-times|Ref=GEN_5.23
+10	πέντε	πέντε	NUM	_	NumType=Card	8	conj	_	Gloss=five|Ref=GEN_5.23
+11	ἔτη	ἔτος	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Gloss=years|Ref=GEN_5.23|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	Ref=GEN_5.23
 
 ~~~
 

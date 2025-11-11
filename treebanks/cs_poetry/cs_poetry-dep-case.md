@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-546 nodes (9%) are attached to their parents as `case`.
+547 nodes (9%) are attached to their parents as `case`.
 
-546 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33516483516484.
+547 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3345521023766.
 
-The following 7 pairs of parts of speech are connected with `case`: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (448; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (65; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (15; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `case`: <tt><a href="cs_poetry-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (448; 82% instances), <tt><a href="cs_poetry-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (66; 12% instances), <tt><a href="cs_poetry-pos-DET.html">DET</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (15; 3% instances), <tt><a href="cs_poetry-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="cs_poetry-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_poetry-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_poetry-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_poetry-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

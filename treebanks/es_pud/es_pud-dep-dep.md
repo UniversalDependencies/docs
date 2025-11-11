@@ -8,54 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `dep`.
+3 nodes (0%) are attached to their parents as `dep`.
 
-4 instances of `dep` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+3 instances of `dep` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-DET.html">DET</a></tt> (1; 25% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 25% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 14 dep	color:blue
-1	En	en	ADP	IN	_	3	case	_	_
-2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	mejor	mejor	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
-4	de	de	ADP	IN	_	6	case	_	_
-5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-6	casos	caso	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	_
-7	peca	pecar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	de	de	ADP	IN	_	9	case	_	_
-9	inocencia	inocencia	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	PunctType=Comm	16	punct	_	_
-11	y	y	CCONJ	CC	_	16	cc	_	_
-12	en	en	ADP	IN	_	15	case	_	_
-13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	dep	_	_
-15	peor	peor	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
-16	permitiría	permitir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
-17	que	que	SCONJ	IN	_	27	mark	_	_
-18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-19	grupos	grupo	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj	_	_
-20	de	de	ADP	IN	_	21	case	_	_
-21	presión	presión	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
-22	a	a	ADP	IN	_	26	case	_	_
-23	favor	favor	NOUN	NN	Gender=Masc|Number=Sing	22	fixed	_	_
-24	de	de	ADP	IN	_	22	fixed	_	_
-25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
-26	armas	arma	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	_
-27	vuelvan	volver	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
-28	a	a	ADP	IN	_	27	fixed	_	_
-29	evitar	evitar	VERB	VB	VerbForm=Inf	27	xcomp	_	_
-30	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
-31	responsabilidades	responsabilidad	NOUN	NN	Gender=Fem|Number=Plur	27	obj	_	SpaceAfter=No
-32	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 33% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -138,6 +96,57 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 19	/	/	PUNCT	-	PunctType=Colo	20	punct	_	SpaceAfter=No
 20	Sade	Sade	PROPN	NNP	Gender=Masc|Number=Sing	18	dep	_	SpaceAfter=No
 21	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 35	bgColor:blue
+# visual-style 35	fgColor:white
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 32 35 dep	color:blue
+1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	noticias	noticia	NOUN	NN	Gender=Fem|Number=Plur	17	nsubj	_	_
+3	de	de	ADP	INDT	_	5	case	_	_
+4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	engaño	engaño	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
+6	de	de	ADP	IN	_	8	case	_	_
+7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	empresa	empresa	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
+10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
+11	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+12	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	aux	_	_
+13	sucediendo	sucedir	VERB	VBG	VerbForm=Ger	5	acl:relcl	_	_
+14	durante	durante	ADP	IN	_	15	case	_	_
+15	años	año	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
+17	hicieron	hacer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+18	decrecer	decrecer	VERB	VB	VerbForm=Inf	17	xcomp	_	_
+19	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	valor	valor	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	_
+21	de	de	ADP	IN	_	22	case	_	_
+22	VW	VW	PROPN	NNP	Number=Sing	20	nmod	_	_
+23	en	en	ADP	IN	_	24	case	_	_
+24	decenas	decena	NOUN	NN	Gender=Fem|Number=Plur	20	nmod	_	_
+25	de	de	ADP	IN	_	26	case	_	_
+26	miles	mil	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
+27	de	de	ADP	IN	_	28	case	_	_
+28	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	,	PunctType=Comm	32	punct	_	_
+30	y	y	CCONJ	CC	_	32	cc	_	_
+31	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	32	obl:arg	_	_
+32	costaron	costar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
+33	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
+34	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	32	obj	_	_
+35	Martin	Martin	PROPN	NNP	Gender=Masc|Number=Sing	32	dep	_	_
+36	Winterkorn	Winterkorn	PROPN	NNP	Gender=Masc|Number=Sing	35	flat:name	_	SpaceAfter=No
+37	,	,	PUNCT	,	PunctType=Comm	39	punct	_	_
+38	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+39	director	director	NOUN	NN	Gender=Masc|Number=Sing	35	appos	_	_
+40	ejecutivo	ejecutivo	ADJ	JJ	Gender=Masc|Number=Sing	39	amod	_	SpaceAfter=No
+41	.	.	PUNCT	.	PunctType=Peri	17	punct	_	_
 
 ~~~
 

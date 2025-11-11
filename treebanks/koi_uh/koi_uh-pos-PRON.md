@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `PRON`
 
-There are 22 `PRON` lemmas (5%), 39 `PRON` types (7%) and 109 `PRON` tokens (10%).
+There are 21 `PRON` lemmas (4%), 39 `PRON` types (7%) and 109 `PRON` tokens (10%).
 Out of 15 observed tags, the rank of `PRON` is: 5 in number of lemmas, 4 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>сія, ме, тэ, мый, ачыт, эта, ас, мыйкӧ, эна, ачым</em>
@@ -24,15 +24,15 @@ The 10 most frequent ambiguous types:  <em>ас</em> (<tt><a href="koi_uh-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.772727 (the average of all parts of speech is 1.247379).
+The form / lemma ratio of `PRON` is 1.857143 (the average of all parts of speech is 1.250000).
 
-The 1st highest number of forms (9) was observed with the lemma “сія”: <em>Сiя, Сы, Сылöн, ны, нія, сылӧ, сылӧн, сійӧ, сія</em>.
+The 1st highest number of forms (9) was observed with the lemma “сія”: <em>Сiя, Сы, ны, нія, сылöн, сылӧ, сылӧн, сійӧ, сія</em>.
 
 The 2nd highest number of forms (7) was observed with the lemma “ме”: <em>Ми, ме, мекӧт, мелань, менам, меным, менӧ</em>.
 
 The 3rd highest number of forms (3) was observed with the lemma “тэ”: <em>тэ, тэнат, ті</em>.
 
-`PRON` occurs with 9 features: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (105; 96% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (102; 94% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (101; 93% instances), <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (86; 79% instances), <tt><a href="koi_uh-feat-Reflex.html">Reflex</a></tt> (7; 6% instances), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt> (3; 3% instances), <tt><a href="koi_uh-feat-NumType.html">NumType</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt> (1; 1% instances)
+`PRON` occurs with 9 features: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (109; 100% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (102; 94% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (101; 93% instances), <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (86; 79% instances), <tt><a href="koi_uh-feat-Reflex.html">Reflex</a></tt> (7; 6% instances), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt> (3; 3% instances), <tt><a href="koi_uh-feat-NumType.html">NumType</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt> (1; 1% instances)
 
 `PRON` occurs with 24 feature-value pairs: `Animacy=Nhum`, `Case=Acc`, `Case=Apr`, `Case=Com`, `Case=Dat`, `Case=Gen`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `NumType=Sets`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 

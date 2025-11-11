@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Daniel Swanson.
 
 Repository: [UD_Ancient_Hebrew-PTNK](https://github.com/UniversalDependencies/UD_Ancient_Hebrew-PTNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhbo_ptnk216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhbo_ptnk217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC 4.0
 
@@ -44,13 +44,15 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD Ancient Hebrew PTNK contains portions of the Biblia Hebraic Stuttgartensia with morphological annotations from [ETCBC](https://github.com/etcbc/bhsa).
+UD Ancient Hebrew PTNK contains portions of the Biblia Hebraic Stuttgartensia with morphological annotations from [ETCBC](https://github.com/etcbc/bhsa) and syntactic annotations partially based on [MACULA](https://github.com/Clear-Bible/macula-hebrew/).
 
 
 
 This treebank contains portions of the Hebrew Bible as digitized and annotated in the [Biblia Hebraica Stuttgartensia (Amstelodamensis)](http://dx.doi.org/10.17026%2Fdans-z6y-skyh) by the [Eep Talstra Centre for Bible and Computer](http://etcbc.nl) at Vrije Universiteit Amsterdam. Those annotations are licensed under [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 The corpus can be found at [github.com/etcbc/bhsa](https://github.com/etcbc/bhsa). The dependency annotations were generated using VISL CG-3 and manually verified by Daniel Swanson. The code for generating them can be found at [https://github.com/mr-martian/hbo-UD](https://github.com/mr-martian/hbo-UD). Errors in the data should be reported to that repository.
+
+The parsing process draws heavily on the constituency treebank developed by the Groves Center and released by Biblia, Inc as part of the [MACULA Hebrew](https://github.com/Clear-Bible/macula-hebrew/) dataset, which is licensed under a [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ## Acknowledgments
 
@@ -83,21 +85,21 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 
 ## Features
 
-[Aspect](hbo_ptnk-feat-Aspect.html) – [ExtPos](hbo_ptnk-feat-ExtPos.html) – [Gender](hbo_ptnk-feat-Gender.html) – [HebBinyan](hbo_ptnk-feat-HebBinyan.html) – [Mood](hbo_ptnk-feat-Mood.html) – [Number](hbo_ptnk-feat-Number.html) – [NumType](hbo_ptnk-feat-NumType.html) – [Person](hbo_ptnk-feat-Person.html) – [Polarity](hbo_ptnk-feat-Polarity.html) – [PronType](hbo_ptnk-feat-PronType.html) – [Tense](hbo_ptnk-feat-Tense.html) – [VerbForm](hbo_ptnk-feat-VerbForm.html) – [Voice](hbo_ptnk-feat-Voice.html)
+[Aspect](hbo_ptnk-feat-Aspect.html) – [Case](hbo_ptnk-feat-Case.html) – [ExtPos](hbo_ptnk-feat-ExtPos.html) – [Gender](hbo_ptnk-feat-Gender.html) – [HebBinyan](hbo_ptnk-feat-HebBinyan.html) – [Mood](hbo_ptnk-feat-Mood.html) – [Number](hbo_ptnk-feat-Number.html) – [NumType](hbo_ptnk-feat-NumType.html) – [Person](hbo_ptnk-feat-Person.html) – [Polarity](hbo_ptnk-feat-Polarity.html) – [PronType](hbo_ptnk-feat-PronType.html) – [Tense](hbo_ptnk-feat-Tense.html) – [VerbForm](hbo_ptnk-feat-VerbForm.html) – [Voice](hbo_ptnk-feat-Voice.html)
 
 ## Relations
 
-[acl](hbo_ptnk-dep-acl.html) – [acl:relcl](hbo_ptnk-dep-acl-relcl.html) – [advcl](hbo_ptnk-dep-advcl.html) – [advmod](hbo_ptnk-dep-advmod.html) – [amod](hbo_ptnk-dep-amod.html) – [appos](hbo_ptnk-dep-appos.html) – [case](hbo_ptnk-dep-case.html) – [cc](hbo_ptnk-dep-cc.html) – [ccomp](hbo_ptnk-dep-ccomp.html) – [compound:smixut](hbo_ptnk-dep-compound-smixut.html) – [conj](hbo_ptnk-dep-conj.html) – [cop](hbo_ptnk-dep-cop.html) – [csubj](hbo_ptnk-dep-csubj.html) – [det](hbo_ptnk-dep-det.html) – [discourse](hbo_ptnk-dep-discourse.html) – [dislocated](hbo_ptnk-dep-dislocated.html) – [expl](hbo_ptnk-dep-expl.html) – [fixed](hbo_ptnk-dep-fixed.html) – [flat](hbo_ptnk-dep-flat.html) – [flat:name](hbo_ptnk-dep-flat-name.html) – [mark](hbo_ptnk-dep-mark.html) – [nmod](hbo_ptnk-dep-nmod.html) – [nmod:poss](hbo_ptnk-dep-nmod-poss.html) – [nsubj](hbo_ptnk-dep-nsubj.html) – [nsubj:outer](hbo_ptnk-dep-nsubj-outer.html) – [nummod](hbo_ptnk-dep-nummod.html) – [obj](hbo_ptnk-dep-obj.html) – [obl](hbo_ptnk-dep-obl.html) – [obl:npmod](hbo_ptnk-dep-obl-npmod.html) – [orphan](hbo_ptnk-dep-orphan.html) – [parataxis](hbo_ptnk-dep-parataxis.html) – [punct](hbo_ptnk-dep-punct.html) – [root](hbo_ptnk-dep-root.html) – [vocative](hbo_ptnk-dep-vocative.html) – [xcomp](hbo_ptnk-dep-xcomp.html)
+[acl](hbo_ptnk-dep-acl.html) – [acl:relcl](hbo_ptnk-dep-acl-relcl.html) – [advcl](hbo_ptnk-dep-advcl.html) – [advmod](hbo_ptnk-dep-advmod.html) – [amod](hbo_ptnk-dep-amod.html) – [appos](hbo_ptnk-dep-appos.html) – [case](hbo_ptnk-dep-case.html) – [cc](hbo_ptnk-dep-cc.html) – [ccomp](hbo_ptnk-dep-ccomp.html) – [compound:smixut](hbo_ptnk-dep-compound-smixut.html) – [conj](hbo_ptnk-dep-conj.html) – [cop](hbo_ptnk-dep-cop.html) – [csubj](hbo_ptnk-dep-csubj.html) – [det](hbo_ptnk-dep-det.html) – [discourse](hbo_ptnk-dep-discourse.html) – [dislocated](hbo_ptnk-dep-dislocated.html) – [expl](hbo_ptnk-dep-expl.html) – [fixed](hbo_ptnk-dep-fixed.html) – [flat](hbo_ptnk-dep-flat.html) – [flat:name](hbo_ptnk-dep-flat-name.html) – [iobj](hbo_ptnk-dep-iobj.html) – [mark](hbo_ptnk-dep-mark.html) – [nmod](hbo_ptnk-dep-nmod.html) – [nmod:poss](hbo_ptnk-dep-nmod-poss.html) – [nsubj](hbo_ptnk-dep-nsubj.html) – [nsubj:outer](hbo_ptnk-dep-nsubj-outer.html) – [nummod](hbo_ptnk-dep-nummod.html) – [obj](hbo_ptnk-dep-obj.html) – [obl](hbo_ptnk-dep-obl.html) – [obl:npmod](hbo_ptnk-dep-obl-npmod.html) – [orphan](hbo_ptnk-dep-orphan.html) – [parataxis](hbo_ptnk-dep-parataxis.html) – [punct](hbo_ptnk-dep-punct.html) – [root](hbo_ptnk-dep-root.html) – [vocative](hbo_ptnk-dep-vocative.html) – [xcomp](hbo_ptnk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 3550 sentences, 62302 tokens and 90770 syntactic words.</li>
+<li>This corpus contains 5608 sentences, 99944 tokens and 145866 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18820 tokens (30%) that are not followed by a space.</li>
+<li>This corpus contains 29628 tokens (30%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -105,12 +107,12 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 </ul>
 
 <ul>
-<li>This corpus contains 2 types of words that contain both letters and punctuation. Examples: כְּדָר־לָעֹ֔מֶר, מַה־</li>
+<li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: פְּדָה־צֽוּר, כְּדָר־לָעֹ֔מֶר, מַה־, צוּרִֽי־שַׁדָּֽי</li>
 </ul>
 
 <ul>
-<li>This corpus contains 24991 multi-word tokens. On average, one multi-word token consists of 2.14 syntactic words.</li>
-<li>There are 13209 types of multi-word tokens. Examples: וְאֶת, וַיֹּ֣אמֶר, וְכָל, וַיֹּ֤אמֶר, וְאִם, בְּכָל, וַיֹּ֨אמֶר, לִפְנֵ֣י, לֵאמֹ֑ר, הָאָֽרֶץ, לִפְנֵ֥י, וְעַל, וְלֹ֥א, וַיֹּ֥אמֶר, וַיְדַבֵּ֥ר, אֹתֹ֖ו, וְאֶל, וַיֹּ֨אמֶר֙, וְאֵ֖ת, וְלֹֽא, וְאֵת֙, הָאָ֑רֶץ, לַיהוָֽה, וְלֹ֣א, וַיֹּ֗אמֶר, לֵּאמֹֽר, בְּאֶ֣רֶץ, וְלֹא, וַיֹּ֖אמֶר, לֵאמֹ֔ר, הָאָ֔רֶץ, לֹ֔ו, לֹ֖ו, בַּיֹּ֣ום, וַיֹּ֕אמֶר, כַּאֲשֶׁ֛ר, שְׁמֹ֖ו, אֹתָ֖ם, וַֽיְהִי, הָאָ֖רֶץ, לְכָל, הַכֹּהֵ֔ן, וַיְהִ֗י, לָכֶ֖ם, מִכָּל, הַכֹּהֵ֛ן, הַזֶּ֔ה, לְךָ֖, לָהֶ֖ם, בְּאֶ֥רֶץ.</li>
+<li>This corpus contains 39811 multi-word tokens. On average, one multi-word token consists of 2.15 syntactic words.</li>
+<li>There are 19439 types of multi-word tokens. Examples: וְאֶת, וְכָל, וַיֹּ֣אמֶר, וַיֹּ֤אמֶר, וְאִם, בְּכָל, וְלֹ֥א, וַיֹּ֨אמֶר, לִפְנֵ֣י, לֵאמֹ֑ר, וַיְדַבֵּ֥ר, וְלֹֽא, וְעַל, לִפְנֵ֥י, לֵּאמֹֽר, וְלֹ֣א, הָאָ֔רֶץ, וְאֶל, וְלֹא, הָאָֽרֶץ, וַיֹּ֥אמֶר, אֱלֹהֶ֔יךָ, וְאֵת֙, לְךָ֖, אֹתֹ֖ו, הָאָ֑רֶץ, לְכָל, אֱלֹהֶ֖יךָ, לֵאמֹֽר, וְאֵ֖ת, בְּאֶ֣רֶץ, לִבְנֵ֣י, הָעָ֖ם, לֹ֖ו, כַּאֲשֶׁ֛ר, הָאָ֖רֶץ, לַיהוָֽה, וַיֹּ֨אמֶר֙, לָכֶ֖ם, כַּאֲשֶׁ֥ר, לֵאמֹ֔ר, לָהֶ֖ם, לֹ֔ו, אֹתָ֖ם, הַזֶּֽה, וַיִּסְע֖וּ, בַּיֹּ֣ום, הַזֶּ֑ה, וַיֹּ֖אמֶר, וַיֹּ֗אמֶר.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -123,7 +125,7 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 </ul>
 
 <ul>
-<li>This corpus contains 4 word types tagged as particles (PART): הֲ, הֶֽ, הַ, הַֽ</li>
+<li>This corpus contains 9 word types tagged as particles (PART): אֵיכָ֞ה, אֵיכָ֥ה, אֵיכָ֨ה, אֵיכָה֙, הֲ, הֶ, הֶֽ, הַ, הַֽ</li>
 </ul>
 
 <ul>
@@ -151,8 +153,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: יְהִי, יְהִ֗י, הָיָ֥ה, יִהְיֶ֣ה, יִהְיֶ֥ה, יְהִ֥י, יְהִ֣י, יְהִי֙, הָיָ֤ה, יִֽהְיֶה</li>
-    <li>VERB: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, צִוָּ֥ה, יֹּ֗אמֶר, יֹּ֖אמֶר, יֹּ֕אמֶר</li>
+    <li>AUX: יִהְיֶ֥ה, יִהְיֶ֣ה, יְהִ֗י, יְהִי, הָיָ֥ה, יְהִ֣י, יְהִ֥י, יִֽהְיֶה, יְהִי֙, הָיָ֗ה</li>
+    <li>VERB: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, צִוָּ֥ה, יֹּ֨אמֶר֙, יִּסְע֖וּ, יֹּ֖אמֶר, יֹּ֗אמֶר</li>
   </ul>
   </li>
 </ul>
@@ -160,8 +162,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: הְיֹ֥ות, הְיֹ֥ת, הְיֹ֖ות, הְיֹ֣ות, הְיֹ֣ת, הְיֹותָ֣, הְיֹ֖ת, הְיֹ֛ת, הְיֹ֤ות, הְיֹ֨ת</li>
-    <li>VERB: אמֹֽר, אמֹ֑ר, אמֹ֔ר, הֹולִידֹ֣, מֹ֥ות, אמֹ֗ר, אמֹ֖ר, דַבֵּ֣ר, כַפֵּ֥ר, מֹ֣ות</li>
+    <li>AUX: הְיֹ֥ות, הְיֹ֥ת, הְיֹ֖ות, הְיֹ֣ות, הְיֹ֣ת, הְיֹותָ֣, הְיֹ֖ת, הְיֹ֛ת, הְיֹ֤ות, הְיֹ֧ות</li>
+    <li>VERB: אמֹֽר, אמֹ֑ר, אמֹ֔ר, אמֹ֗ר, מֹ֥ות, הֹולִידֹ֣, רִשְׁתָּֽ, תֵ֥ת, דַבֵּ֣ר, עֲשֹׂ֔ות</li>
   </ul>
   </li>
 </ul>
@@ -170,8 +172,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
   <li>Part
   <ul>
     <li>AUX: הֹויָ֗ה</li>
-    <li>NOUN: אֹיְבֵי, זָבַ֥ת, מַכֵּ֥ה, זָּ֖ב, חֹתֵ֥ן, מֵּ֖ת, אֹֽיְבֵי, אֹרֵ֑ג, זָּ֑ב, חֹשֵׁ֖ב</li>
-    <li>VERB: נֹּגֵ֥עַ, מָשְׁזָ֑ר, מְכַסֶּ֣ה, מָשְׁזָֽר, אֹכֵ֣ל, בָּ֣א, גָּ֣ר, גָּ֥ר, הֹלֵ֖ךְ, יֹּצְאִ֖ים</li>
+    <li>NOUN: פְקֻדֵי, אֹיְבֵי, פְּקֻדֵי, יֹצֵ֥א, זָבַ֥ת, רֹצֵ֔חַ, גֹּאֵ֣ל, מֵּ֖ת, מַכֵּ֥ה, זָּ֖ב</li>
+    <li>VERB: נֹתֵ֥ן, מְצַוְּ, בְּלוּלָ֥ה, מְלֵאִ֗ים, מְלֵאָ֥ה, בְּלוּלָ֣ה, נֹתֵ֣ן, בָא, נֹּגֵ֥עַ, מְצַוֶּ֥ה</li>
   </ul>
   </li>
 </ul>
@@ -186,16 +188,16 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: יְמָנִ֔ית, יְמָנִ֑ית, חַיָּ֖ה, גְדֹלָ֖ה, חַיָּ֔ה, יְמָנִֽית, נָכְרִיָּֽה, רָעָ֖ה, אֲחֵרֹֽות, אַחֶ֔רֶת</li>
-      <li>AUX-Fin: הָיְתָ֥ה, תִּהְיֶ֥ה, תְּהִי, תִּהְיֶ֣ה, הָֽיְתָה֙, הָיְתָה, תְּהִ֨י, תְהִ֤י, תִּהְיֶ֖ה, תִּהְיֶ֖יןָ</li>
+      <li>ADJ: יְמָנִ֔ית, יְמָנִ֑ית, חֲזָקָֽה, חַיָּ֖ה, חֲזָקָ֔ה, חֲזָקָה֙, גְּדֹלֹ֥ת, גְדֹלָ֖ה, חַיָּ֔ה, טֹּובָ֔ה</li>
+      <li>AUX-Fin: הָיְתָ֥ה, תִּהְיֶ֣ה, תִּהְיֶ֥ה, הָֽיְתָה֙, הָיְתָה, תְּהִי, תִּֽהְיֶה, הָיְתָ֣ה, תְּהִ֥י, תְּהִי֙</li>
       <li>AUX-Part: הֹויָ֗ה</li>
-      <li>NOUN: אֶ֣רֶץ, אֶ֥רֶץ, אָֽרֶץ, שָׁנָ֑ה, אָ֔רֶץ, אָ֑רֶץ, בַּת, אָ֖רֶץ, שָׁנָ֔ה, אִשָּׁ֖ה</li>
-      <li>NOUN-Part: זָבַ֥ת, מְיַלְּדֹ֖ת, מְיַלְּדֹת֙, מְקֻצְעֹ֖ת, נֹּותֶ֨רֶת֙, אֹמֶֽנֶת, בְּעֻ֥לַת, גְּנֻֽבְתִ֣י, גְנֻֽבְתִ֖י, גְרוּשָׁ֗ה</li>
-      <li>NUM: שְׁתֵּ֣י, מֵאֹ֖ות, שִׁבְעַ֥ת, שִׁבְעַ֣ת, אַחַ֖ת, אֶחָ֑ת, שְׁתֵּ֥י, שְׁלֹשָׁ֣ה, שְׁתֵּי֙, אַחַת֙</li>
-      <li>PRON: הּ, הָ, ךְ, ה, הּ֙, הִ֖וא, הִֽוא, הִ֔וא, הָ֙, הֶ֔ן</li>
+      <li>NOUN: אֶ֣רֶץ, אֶ֥רֶץ, אָ֔רֶץ, אָֽרֶץ, אָ֑רֶץ, שָׁנָ֑ה, אָ֖רֶץ, מִשְׁפַּ֖חַת, בַּת, שָׁנָ֖ה</li>
+      <li>NOUN-Part: זָבַ֥ת, זָבַ֤ת, זָבַ֨ת, מְיַלְּדֹ֖ת, מְיַלְּדֹת֙, מְקֻצְעֹ֖ת, מַעֲלַ֥ת, נְּטוּיָֽה, נֹּותֶ֨רֶת֙, אֲהוּבָ֔ה</li>
+      <li>NUM: שְׁתֵּ֣י, מֵאֹ֖ות, מֵאֹֽות, שִׁבְעַ֥ת, שִׁבְעַ֣ת, אַחַ֖ת, אַחַ֗ת, אַחַ֛ת, אַרְבָּעָ֥ה, חֲמִשָּׁה֙</li>
+      <li>PRON: הּ, הָ, ה, ךְ, הּ֙, הִ֖וא, הִ֔וא, הִֽוא, הִ֑וא, הָ֙</li>
       <li>PROPN: לֵאָ֔ה, רָחֵ֖ל, שָׂרָ֖ה, שָׂרָ֣ה, רָחֵ֑ל, רָחֵ֔ל, רָחֵל֙, שָׂרַ֣י, לֵאָ֖ה, ר֣וּת</li>
-      <li>VERB-Fin: תֵּ֣לֶד, תֹּ֣אמֶר, תִּקְרָ֥א, תֹּ֕אמֶר, תֹּ֗אמֶר, תֹּ֤אמֶר, תֵּ֥לֶד, נִכְרְתָ֛ה, תֹּ֨אמֶר֙, תֹּ֖אמֶר</li>
-      <li>VERB-Part: בְּלוּלֹ֣ת, אֹכֶ֖לֶת, בְּלוּלָ֣ה, בְּלוּלָ֥ה, בָּאָ֖ה, הֹלֶ֣כֶת, חֹֽבְרֹ֔ת, מְשֻׁלָּבֹ֔ת, מַקְבִּילֹת֙, עֹלֹת֙</li>
+      <li>VERB-Fin: תֵּ֣לֶד, תֹּ֣אמֶר, תִּקְרָ֥א, נִכְרְתָ֛ה, תֹּ֤אמֶר, תֹּ֕אמֶר, תֹּ֗אמֶר, תֵּ֥לֶד, אָסְרָ֥ה, תֹּ֨אמֶר֙</li>
+      <li>VERB-Part: בְּלוּלָ֥ה, מְלֵאָ֥ה, בְּלוּלָ֣ה, בְּלוּלֹ֣ת, נְטוּיָ֔ה, אֹכֶ֖לֶת, בָּאָ֖ה, הֹלֶ֣כֶת, חֹֽבְרֹ֔ת, כְּתוּבָ֕ה</li>
     </ul>
   </li>
 </ul>
@@ -203,15 +205,15 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: טָהֹ֑ור, טָמֵ֥א, זָכָ֥ר, טָהֹֽור, קָּטֹ֖ן, טָהֹ֥ור, טֹ֣וב, גָּדֹ֖ול, גָּדֹֽול, טָהֹ֖ור</li>
-      <li>AUX-Fin: יְהִי, יְהִ֗י, הָיָ֥ה, יִהְיֶ֣ה, יִהְיֶ֥ה, יְהִ֥י, יְהִ֣י, יְהִי֙, הָיָ֤ה, יִֽהְיֶה</li>
-      <li>NOUN: כָּל, כָל, בְּנֵ֣י, בֶּן, אֱלֹהִ֖ים, פְנֵ֣י, אִ֣ישׁ, יֹּ֣ום, פְנֵ֥י, בְּנֵ֥י</li>
-      <li>NOUN-Part: אֹיְבֵי, מַכֵּ֥ה, זָּ֖ב, חֹתֵ֥ן, מֵּ֖ת, אֹֽיְבֵי, אֹרֵ֑ג, זָּ֑ב, חֹשֵׁ֖ב, חֹתְנֹ֑</li>
-      <li>NUM: חֲמִשִּׁ֣ים, אַרְבָּעִ֣ים, עֶשְׂרִ֣ים, חֲמִשִּׁ֥ים, שְׁלֹשִׁ֣ים, שְּׁבִיעִ֔י, חֲמִשִּׁ֖ים, שֵּׁנִ֔י, עֶ֣שֶׂר, עֶשְׂרִ֖ים</li>
-      <li>PRON: ו, ךָ, ם, ו֙, הוּ, ךָ֖, נּוּ, הֶ֖ם, כֶֽם, כֶ֔ם</li>
-      <li>PROPN: יְהוָ֖ה, יְהוָ֔ה, יְהוָֽה, יְהוָה֙, מֹשֶׁ֔ה, יִשְׂרָאֵ֔ל, יהוָֽה, מִצְרַ֔יִם, מִצְרָֽיִם, יְהוָ֑ה</li>
-      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, צִוָּ֥ה, יֹּ֗אמֶר, יֹּ֖אמֶר, יֹּ֕אמֶר</li>
-      <li>VERB-Part: נֹּגֵ֥עַ, מָשְׁזָ֑ר, מְכַסֶּ֣ה, מָשְׁזָֽר, אֹכֵ֣ל, בָּ֣א, גָּ֣ר, גָּ֥ר, הֹלֵ֖ךְ, יֹּצְאִ֖ים</li>
+      <li>ADJ: טָמֵ֥א, רָ֖ע, טָהֹ֑ור, גָּדֹ֖ול, תְּמִימִֽם, זָכָ֥ר, טָהֹ֥ור, טָהֹֽור, זָכָ֔ר, טָהֹ֖ור</li>
+      <li>AUX-Fin: יִהְיֶ֥ה, יִהְיֶ֣ה, יְהִ֗י, יְהִי, הָיָ֥ה, יְהִ֣י, יְהִ֥י, יִֽהְיֶה, יְהִי֙, הָיָ֗ה</li>
+      <li>NOUN: כָּל, כָל, בֶּן, בְּנֵ֣י, בְּנֵ֥י, פְנֵ֣י, אִ֣ישׁ, בְנֵ֣י, פְנֵ֥י, אֱלֹהִ֖ים</li>
+      <li>NOUN-Part: פְקֻדֵי, אֹיְבֵי, פְּקֻדֵי, יֹצֵ֥א, רֹצֵ֔חַ, גֹּאֵ֣ל, מֵּ֖ת, מַכֵּ֥ה, זָּ֖ב, חֹתֵ֣ן</li>
+      <li>NUM: שְׁלֹשִׁ֣ים, חֲמִשִּׁ֣ים, אַרְבָּעִ֥ים, עֶשְׂרִ֤ים, שִׁבְעִ֥ים, אַרְבָּעִ֣ים, חֲמִשִּׁ֥ים, חֲמִשִּׁ֛ים, עֶשְׂרִ֣ים, עֶשְׂרִ֥ים</li>
+      <li>PRON: ו, ךָ, ם, ו֙, ךָ֖, ךָ֙, הוּ, כֶ֔ם, כֶ֖ם, נּוּ</li>
+      <li>PROPN: יְהוָ֖ה, יְהוָה֙, יְהוָ֔ה, יְהוָ֣ה, יְהוָֽה, יִשְׂרָאֵ֔ל, יְהוָ֥ה, מֹשֶׁ֔ה, יְהוָ֑ה, יִשְׂרָאֵֽל</li>
+      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, צִוָּ֥ה, יֹּ֨אמֶר֙, יִּסְע֖וּ, יֹּ֖אמֶר, יֹּ֗אמֶר</li>
+      <li>VERB-Part: נֹתֵ֥ן, מְצַוְּ, מְלֵאִ֗ים, נֹתֵ֣ן, בָא, נֹּגֵ֥עַ, מְצַוֶּ֥ה, בָּא֙, בָּר֥וּךְ, גָּ֣ר</li>
     </ul>
   </li>
 </ul>
@@ -224,8 +226,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Dual
     <ul>
-      <li>NOUN: עֵינֵ֥י, עֵינֵ֣י, יְדֵי, עֵינֵ֖י, אָזְנֵ֣י, רַגְלֵי, עֵינֶ֔י, עֵינֵי, עֵינֶ֨י, עֵינָ֗י</li>
-      <li>NUM: שְׁתֵּ֣י, שְׁנֵ֣י, שְׁנֵי, שְׁנֵ֥י, שְׁתֵּ֥י, שְׁנֵ֖י, שְׁנֵ֤י, שְׁנֵֽי, שְׁתֵּי֙, שְׁנֵ֨י</li>
+      <li>NOUN: עֵינֵ֣י, עֵינֵ֥י, עֵינֵ֖י, יְדֵי, עֵינֵי, אָזְנֵ֣י, עֵֽינֵי, עֵינֶ֑י, עֵינֶ֔י, עֵינֶֽי</li>
+      <li>NUM: שְׁתֵּ֣י, שְׁנֵי, שְׁנֵ֣י, שְׁנֵ֥י, שְׁנֵ֖י, שְׁנֵֽי, שְׁתֵּ֥י, שְׁנַיִם֒, שְׁנֵ֤י, שְׁנֵי֙</li>
     </ul>
   </li>
 </ul>
@@ -233,15 +235,15 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: חַיִּ֑ים, חַיִּֽים, טְמֵאִ֥ים, אֲחֵרִ֑ים, כֵּנִ֣ים, נְקֻדִּ֖ים, עֲקֻדִּ֥ים, קְדֹשִׁ֔ים, אֲחֵרֹֽות, גְּדֹלִ֑ים</li>
-      <li>AUX-Fin: הָי֣וּ, הָי֥וּ, הָיוּ֙, הָי֖וּ, הָי֤וּ, יִּֽהְיוּ֙, יִהְיֽוּ, יִהְי֤וּ, יִהְי֥וּ, הֱיִיתֶ֖ם</li>
-      <li>NOUN: בְּנֵ֣י, אֱלֹהִ֖ים, פְנֵ֣י, פְנֵ֥י, בְּנֵ֥י, אֱלֹהִ֔ים, בְנֵֽי, אֱלֹהִים֙, אֱלֹהֵי, פְּנֵ֣י</li>
-      <li>NOUN-Part: אֹיְבֵי, אֹֽיְבֵי, רֹעֵ֣י, בָּאֵ֥י, יֹצְאֵ֖י, יֹצְאֵ֣י, יֹשְׁבֵ֖י, יֹשְׁבֵ֣י, מְיַלְּדֹ֖ת, מְיַלְּדֹת֙</li>
-      <li>NUM: מֵאֹ֖ות, חֲמִשִּׁ֣ים, אַרְבָּעִ֣ים, עֶשְׂרִ֣ים, חֲמִשִּׁ֥ים, שְׁלֹשִׁ֣ים, חֲמִשִּׁ֖ים, עֶשְׂרִ֖ים, שְׁלֹשִׁ֥ים, שִׁבְעִ֣ים</li>
-      <li>PRON: ם, נוּ, הֶ֖ם, כֶֽם, כֶ֔ם, כֶ֖ם, כֶ֑ם, הֶ֔ם, ם֙, כֶם֙</li>
-      <li>PROPN: אַשּׁוּרִ֥ם, חֻשִֽׁים, כַּסְלֻחִ֗ים, לְאֻמִּֽים, לְהָבִ֖ים, לְטוּשִׁ֖ים, לוּדִ֧ים, נַפְתֻּחִֽים, עֲנָמִ֛ים, פַּתְרֻסִ֞ים</li>
-      <li>VERB-Fin: יֹּ֣אמְר֔וּ, יֹּאמְר֣וּ, יֹּאמְר֖וּ, יַּֽעֲשׂוּ, יָּבֹ֨אוּ֙, עָשׂ֣וּ, יָּבֹ֥אוּ, בָּ֖אוּ, יֵּלְכ֥וּ, יַֽעַבְדֻֽ</li>
-      <li>VERB-Part: יֹּצְאִ֖ים, בְּלוּלֹ֣ת, יֹצְאִ֖ים, מְאָדָּמִ֛ים, אֹֽמְרִ֔ים, בָּאִ֖ים, בָּאִ֥ים, חֹֽבְרֹ֔ת, מְאָדָּמִ֑ים, מְחֻשָּׁקִ֣ים</li>
+      <li>ADJ: תְּמִימִֽם, אֲחֵרִ֑ים, חַיִּ֖ים, אֲחֵרִ֔ים, אֲחֵרִ֖ים, חַיִּֽים, טְמֵאִ֥ים, חַיִּ֑ים, קְדֹשִׁ֔ים, רַבִּ֑ים</li>
+      <li>AUX-Fin: הָי֥וּ, הָי֣וּ, יִהְי֥וּ, הֱיִיתֶ֖ם, הָי֤וּ, הָיוּ֙, יִּֽהְיוּ֙, יִּהְי֥וּ, יִּהְי֖וּ, יִּהְי֣וּ</li>
+      <li>NOUN: בְּנֵ֣י, בְּנֵ֥י, פְנֵ֣י, בְנֵ֣י, פְנֵ֥י, אֱלֹהִ֖ים, בְנֵֽי, בְּנֵֽי, בְּנֵי, אֱלֹהֵי</li>
+      <li>NOUN-Part: פְקֻדֵי, אֹיְבֵי, פְּקֻדֵי, פְקֻ֣דֵי, אֹֽיְבֵי, אֹיְבֶ֑י, אֹיְבֶ֨י, יֹשְׁבֵ֣י, יֹשְׁבֵ֥י, פְּקֻדִ֔ים</li>
+      <li>NUM: מֵאֹ֖ות, מֵאֹֽות, שְׁלֹשִׁ֣ים, חֲמִשִּׁ֣ים, אַרְבָּעִ֥ים, עֶשְׂרִ֤ים, שִׁבְעִ֥ים, אַרְבָּעִ֣ים, חֲמִשִּׁ֥ים, חֲמִשִּׁ֛ים</li>
+      <li>PRON: ם, נוּ, כֶ֔ם, כֶ֖ם, כֶֽם, הֶ֖ם, כֶ֑ם, הֶ֑ם, הֶ֔ם, כֶם֙</li>
+      <li>PROPN: רְפָאִֽים, אַשּׁוּרִ֥ם, זַמְזֻמִּֽים, חֻשִֽׁים, כַּסְלֻחִ֗ים, לְאֻמִּֽים, לְהָבִ֖ים, לְטוּשִׁ֖ים, לוּדִ֧ים, נַפְתֻּחִֽים</li>
+      <li>VERB-Fin: יִּסְע֖וּ, יַּחֲנ֖וּ, יֹּ֣אמְר֔וּ, יֹּאמְר֣וּ, יָּבֹ֖אוּ, יֹּאמְר֖וּ, תַעֲשֽׂוּ, עֲשִׂיתֶ֖ם, עָשׂ֖וּ, עָשׂ֣וּ</li>
+      <li>VERB-Part: מְלֵאִ֗ים, יֹּצְאִ֖ים, עֹבְרִ֥ים, בָּאִ֖ים, בְּלוּלֹ֣ת, יֹּשְׁבִ֖ים, בָּאִ֥ים, יֹצְאִ֖ים, מְאָדָּמִ֛ים, מְשֻׁחִ֣ים</li>
     </ul>
   </li>
 </ul>
@@ -249,20 +251,32 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: יְמָנִ֔ית, טָהֹ֑ור, טָמֵ֥א, זָכָ֥ר, טָהֹֽור, יְמָנִ֑ית, קָּטֹ֖ן, טָהֹ֥ור, טֹ֣וב, גָּדֹ֖ול</li>
-      <li>AUX-Fin: יְהִי, יְהִ֗י, הָיָ֥ה, יִהְיֶ֣ה, יִהְיֶ֥ה, יְהִ֥י, יְהִ֣י, יְהִי֙, הָיָ֤ה, יִֽהְיֶה</li>
+      <li>ADJ: טָמֵ֥א, יְמָנִ֔ית, רָ֖ע, טָהֹ֑ור, גָּדֹ֖ול, זָכָ֥ר, טָהֹ֥ור, טָהֹֽור, זָכָ֔ר, טָהֹ֖ור</li>
+      <li>AUX-Fin: יִהְיֶ֥ה, יִהְיֶ֣ה, יְהִ֗י, יְהִי, הָיָ֥ה, יְהִ֣י, יְהִ֥י, יִֽהְיֶה, יְהִי֙, הָיָ֗ה</li>
       <li>AUX-Part: הֹויָ֗ה</li>
-      <li>NOUN: כָּל, כָל, אֶ֣רֶץ, בֶּן, אֶ֥רֶץ, אָֽרֶץ, אִ֣ישׁ, יֹּ֣ום, שָׁנָ֑ה, אָ֔רֶץ</li>
-      <li>NOUN-Part: זָבַ֥ת, מַכֵּ֥ה, זָּ֖ב, חֹתֵ֥ן, מֵּ֖ת, אֹרֵ֑ג, זָּ֑ב, חֹשֵׁ֖ב, חֹתְנֹ֑, חֹתֵ֣ן</li>
-      <li>NUM: שֶׁ֣בַע, אֶחָ֖ד, אֶחָֽד, שִׁבְעַ֥ת, שִׁבְעַ֣ת, אַחַ֖ת, אֶחָ֔ד, אֶחָד֙, אֶחָ֑ת, אַרְבַּ֣ע</li>
-      <li>PRON: ו, י, ךָ, הּ, ו֙, הָ, הוּ, ךָ֖, ךְ, נּוּ</li>
-      <li>PROPN: יְהוָ֖ה, יְהוָ֔ה, יְהוָֽה, יְהוָה֙, מֹשֶׁ֔ה, יִשְׂרָאֵ֔ל, יהוָֽה, מִצְרַ֔יִם, מִצְרָֽיִם, יְהוָ֑ה</li>
-      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, צִוָּ֥ה, יֹּ֗אמֶר, יֹּ֖אמֶר, יֹּ֕אמֶר</li>
-      <li>VERB-Part: נֹּגֵ֥עַ, מָשְׁזָ֑ר, מְכַסֶּ֣ה, מָשְׁזָֽר, אֹכֵ֣ל, בָּ֣א, גָּ֣ר, גָּ֥ר, הֹלֵ֖ךְ, מְקַדִּשְׁ</li>
+      <li>NOUN: כָּל, כָל, בֶּן, אֶ֣רֶץ, אֶ֥רֶץ, אִ֣ישׁ, אָ֔רֶץ, אָֽרֶץ, יֹּ֣ום, אָ֑רֶץ</li>
+      <li>NOUN-Part: יֹצֵ֥א, זָבַ֥ת, רֹצֵ֔חַ, גֹּאֵ֣ל, מֵּ֖ת, מַכֵּ֥ה, זָּ֖ב, חֹתֵ֣ן, חֹתֵ֥ן, רֹצֵ֑חַ</li>
+      <li>NUM: אֶחָ֖ד, אֶ֖לֶף, אֶחָד֙, אֶחָ֑ד, שִׁבְעַ֥ת, אֶחָֽד, אֶחָ֥ד, עָשָׂ֖ר, שִׁבְעַ֣ת, שֶׁ֣בַע</li>
+      <li>PRON: ו, ךָ, י, הּ, ו֙, ךָ֖, הָ, ךָ֙, ךְ, הוּ</li>
+      <li>PROPN: יְהוָ֖ה, יְהוָה֙, יְהוָ֔ה, יְהוָ֣ה, יְהוָֽה, יִשְׂרָאֵ֔ל, יְהוָ֥ה, מֹשֶׁ֔ה, יְהוָ֑ה, יִשְׂרָאֵֽל</li>
+      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, צִוָּ֥ה, יֹּ֨אמֶר֙, יֹּ֖אמֶר, יֹּ֗אמֶר, יֹּ֕אמֶר</li>
+      <li>VERB-Part: נֹתֵ֥ן, מְצַוְּ, בְּלוּלָ֥ה, מְלֵאָ֥ה, בְּלוּלָ֣ה, נֹתֵ֣ן, בָא, נֹּגֵ֥עַ, מְצַוֶּ֥ה, בָּא֙</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Loc
+    <ul>
+      <li>NOUN: מַ֔עְלָה, מָ֑עְלָה, מִּזְבֵּ֔חָה, אָֽרְצָה, מִּזְבֵּ֑חָה, אַ֥רְצָה, אַ֣רְצָה, מִּזְבֵּֽחָה, חֽוּצָה, בֵּ֥יתָה</li>
+      <li>PROPN: מִצְרַ֔יְמָה, מִצְרָ֑יְמָה, מִצְרָֽיְמָה, מִצְרַ֖יְמָה, מִצְרַ֨יְמָה֙, גֹּ֑שְׁנָה, חָרָֽנָה, שֵׂעִֽירָה, אֵילִ֑מָה, אֵילִ֔מָה</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -277,7 +291,7 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: לֹ֥א, לֹ֣א, לֹא, לֹֽא, אַל, לֹ֤א, לֹ֨א, לֹ֧א, לֹ֖א, אַֽל</li>
+      <li>ADV: לֹ֥א, לֹא, לֹ֣א, לֹֽא, אַל, לֹ֤א, לֹ֨א, לֹ֖א, לֹ֧א, אַֽל</li>
     </ul>
   </li>
 </ul>
@@ -293,8 +307,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: יִהְיֶ֣ה, יִהְיֶ֥ה, יִֽהְיֶה, יִהְיֶ֖ה, יִהְיֶ֨ה, יִהְיֶֽה, תִּהְיֶ֥ה, תִּהְיֶ֣ה, יְהִ֥י, יִהְיֽוּ</li>
-      <li>VERB-Fin: יוּמָֽת, תַּעֲשֶׂ֥ה, תַּעֲשֶׂ֣ה, תְגַלֵּ֑ה, יִטְמָֽא, יֹ֥אכַל, תַּעֲשֶׂ֖ה, יִטְמָ֖א, יְכַבֵּ֧ס, יִתֵּ֖ן</li>
+      <li>AUX-Fin: יִהְיֶ֥ה, יִהְיֶ֣ה, יִֽהְיֶה, יִהְיֶֽה, יִהְיֶ֖ה, יִהְיֶ֨ה, תִּהְיֶ֣ה, יִהְי֥וּ, יִהְיֶ֑ה, יִהְיֶ֤ה</li>
+      <li>VERB-Fin: יוּמָֽת, תַּעֲשֶׂ֥ה, תַּעֲשֶׂ֣ה, יְבָרֶכְ, יִטְמָ֖א, תַּעֲשֶׂ֖ה, תַעֲשֽׂוּ, תְגַלֵּ֑ה, יִטְמָֽא, יֹ֥אכַל</li>
     </ul>
   </li>
 </ul>
@@ -302,8 +316,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: הָיָ֥ה, הָיָ֤ה, הָיָה֙, הָיָ֖ה, הָיָ֣ה, הָיְתָ֥ה, הָי֣וּ, הָי֥וּ, הָיָ֞ה, הָ֥יָה</li>
-      <li>VERB-Fin: צִוָּ֥ה, עָשִׂ֥יתָ, דִּבֶּ֥ר, טָמֵ֥א, רָחַ֥ץ, אָמַ֣ר, עָשִׂ֣יתָ, אָמַרְתָּ֣, עָשָׂ֥ה, נָתַ֥ן</li>
+      <li>AUX-Fin: הָיָ֥ה, הָיָ֗ה, הָיָ֣ה, הָיָה֙, הָיָ֤ה, הָי֥וּ, הָי֣וּ, הָיָ֞ה, הָיְתָ֥ה, הָיָ֖ה</li>
+      <li>VERB-Fin: צִוָּ֥ה, דִּבֶּ֥ר, עָשִׂ֥יתָ, אָמַרְתָּ֣, אָמַ֣ר, נָתַ֥ן, עָשִׂ֣יתָ, עָשָׂ֥ה, רָחַ֥ץ, טָמֵ֥א</li>
     </ul>
   </li>
 </ul>
@@ -315,8 +329,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: הְיֵ֥ה, הְיֵ֖ה, הְיֵה, הֱוֵ֤ה, הֱי֥וּ, הֱיֵ֧ה, הֲיִ֖י</li>
-      <li>VERB-Fin: דַּבֵּ֞ר, עֲשֵׂה, קַח, לֵ֣ךְ, לֶךְ, דַּבֵּ֨ר, קַֽח, שַׁלַּ֥ח, דַּבֵּ֛ר, לְכ֣וּ</li>
+      <li>AUX-Fin: הְיֵ֥ה, הְיֵ֖ה, הְיֵה, הֱוֵ֤ה, הֱי֖וּ, הֱי֥וּ, הֱיֵ֧ה, הֲיִ֖י</li>
+      <li>VERB-Fin: הִשָּׁ֣מֶר, דַּבֵּ֞ר, דַּבֵּר֙, עֲשֵׂה, קַח, לֵ֣ךְ, קַ֣ח, לֶךְ, אֱמֹ֣ר, דַּבֵּ֛ר</li>
     </ul>
   </li>
 </ul>
@@ -324,8 +338,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: יְהִי, יְהִ֗י, הָיָ֥ה, יִהְיֶ֣ה, יִהְיֶ֥ה, יְהִ֥י, יְהִ֣י, יְהִי֙, הָיָ֤ה, יִֽהְיֶה</li>
-      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, צִוָּ֥ה, יֹּ֗אמֶר, יֹּ֖אמֶר, יֹּ֕אמֶר</li>
+      <li>AUX-Fin: יִהְיֶ֥ה, יִהְיֶ֣ה, יְהִ֗י, יְהִי, הָיָ֥ה, יְהִ֣י, יְהִ֥י, יִֽהְיֶה, יְהִי֙, הָיָ֗ה</li>
+      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, צִוָּ֥ה, יֹּ֨אמֶר֙, יִּסְע֖וּ, יֹּ֖אמֶר, יֹּ֗אמֶר</li>
     </ul>
   </li>
 </ul>
@@ -337,8 +351,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: יְהִי, יְהִ֗י, יְהִ֣י, יְהִי֙, יְהִ֥י, יְהִ֕י, יְהִ֤י, יְהִ֖י, יְהִי֩, יְהִ֞י</li>
-      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יֹּ֥אמֶר, יְדַבֵּ֥ר, יֹּ֨אמֶר֙, יֹּ֗אמֶר, יֹּ֖אמֶר, יֹּ֕אמֶר, יַּ֥עַשׂ</li>
+      <li>AUX-Fin: יְהִ֗י, יְהִי, יְהִ֣י, יְהִי֙, יְהִ֥י, יְהִ֤י, יְהִ֕י, יְהִ֖י, יְהִי֩, יְהִ֞י</li>
+      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, יִּסְע֖וּ, יֹּ֖אמֶר, יֹּ֗אמֶר, יַּחֲנ֖וּ</li>
     </ul>
   </li>
 </ul>
@@ -350,8 +364,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Pass
     <ul>
-      <li>NOUN-Part: מְקֻצְעֹ֖ת, פְּקֻדִ֔ים, בְּעֻ֥לַת, בְּר֣וּךְ, בְּר֥וּךְ, גְּנֻֽבְתִ֣י, גְנֻֽבְתִ֖י, גְרוּשָׁ֗ה, גְרוּשָׁה֙, חָרֻ֖ם</li>
-      <li>VERB-Part: מָשְׁזָ֑ר, מָשְׁזָֽר, מָשְׁזָ֗ר, בְּלוּלֹ֣ת, מְאָדָּמִ֛ים, מָשְׁזָ֖ר, אָר֣וּר, אָר֤וּר, בְּלוּלָ֣ה, בְּלוּלָ֥ה</li>
+      <li>NOUN-Part: פְקֻדֵי, פְּקֻדֵי, פְקֻ֣דֵי, פְּקֻדִ֔ים, פְּקֻדִ֞ים, פְּקוּדֵ֣י, פְּקוּדֵ֥י, פְקֻדָ֑י, גְל֥וּי, חֲל֥וּץ</li>
+      <li>VERB-Part: בְּלוּלָ֥ה, בְּלוּלָ֣ה, בָּר֥וּךְ, מָשְׁזָ֑ר, אָר֕וּר, אָר֥וּר, מָשְׁזָֽר, אָר֗וּר, בְּלוּלֹ֣ת, מָשְׁזָ֗ר</li>
     </ul>
   </li>
 </ul>
@@ -375,7 +389,7 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: זֶּ֔ה, זֶּ֑ה, אֵ֖לֶּה, אֵ֣לֶּה, זֶּ֖ה, זֶּֽה, אֵ֨לֶּה֙, זֶּה֙, זֹ֣את, אֵ֑לֶּה</li>
+      <li>PRON: זֶּֽה, זֶּ֔ה, זֶּ֑ה, אֵ֖לֶּה, זֶּ֖ה, אֵ֣לֶּה, אֵ֔לֶּה, אֵ֛לֶּה, זֹ֣את, אֵ֨לֶּה֙</li>
     </ul>
   </li>
 </ul>
@@ -383,7 +397,7 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Int
     <ul>
-      <li>PRON: מַה, מִי, מִ֥י, מִ֣י, מִֽי, מָ֥ה, מָ֣ה, מִ֖י, מֶֽה, מָֽה</li>
+      <li>PRON: מַה, מִ֣י, מִֽי, מִי, מָ֣ה, מִ֥י, מָ֥ה, מִ֤י, מִ֖י, מֶֽה</li>
     </ul>
   </li>
 </ul>
@@ -391,7 +405,7 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ו, י, ךָ, ם, הּ, ו֙, נוּ, הָ, הוּ, ךָ֖</li>
+      <li>PRON: ו, ךָ, י, ם, הּ, נוּ, ו֙, ךָ֖, הָ, ךָ֙</li>
     </ul>
   </li>
 </ul>
@@ -403,7 +417,7 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Card
     <ul>
-      <li>NUM: שְׁתֵּ֣י, מֵאֹ֖ות, שֶׁ֣בַע, אֶחָ֖ד, אֶחָֽד, שִׁבְעַ֥ת, שְׁנֵ֣י, שְׁנֵי, שְׁנֵ֥י, שִׁבְעַ֣ת</li>
+      <li>NUM: אֶחָ֖ד, אֶ֖לֶף, שְׁתֵּ֣י, מֵאֹ֖ות, שְׁנֵי, אֶחָד֙, מֵאֹֽות, אֶחָ֑ד, שִׁבְעַ֥ת, אֶחָֽד</li>
     </ul>
   </li>
 </ul>
@@ -411,7 +425,7 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: שְּׁבִיעִ֔י, שֵּׁנִ֔י, שֵּׁנִ֖ית, שְּׁבִיעִ֗י, שֵּׁנִֽית, שְּׁלִישִׁ֑י, שְּׁלִישִׁ֔י, רִאשֹׁ֔ון, רִאשֹׁון֙, שְּׁבִיעִ֖י</li>
+      <li>NUM: שְּׁבִיעִ֔י, שֵּׁנִ֔י, שְּׁבִיעִ֖י, שְּׁבִיעִ֗י, רִאשֹׁ֔ון, רִאשֹׁ֖ון, שֵּׁנִ֖ית, שְּׁלִישִׁ֔י, שֵּׁנִֽית, שְּׁלִישִׁ֑י</li>
     </ul>
   </li>
 </ul>
@@ -425,9 +439,9 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: הָיִ֥יתִי, אֶֽהְיֶ֖ה, אֶֽהְיֶ֣ה, הָיִ֔יתִי, הָיִ֖ינוּ, אֶֽהְיֶ֑ה, אֶֽהְיֶ֔ה, אֶֽהְיֶ֤ה, אֶֽהְיֶ֥ה, הָיִ֖יתִי</li>
-      <li>PRON: י, נוּ, נִי, י֙, אֲנִ֖י, אֲנִ֥י, אָנֹכִ֖י, אֲנִ֣י, נוּ֙, אֲנִי֙</li>
-      <li>VERB-Fin: יָדַ֔עְתִּי, אֶמְצָא, הֹוצֵ֥אתִי, נְתַתִּ֖י, נָתַתִּ֤י, אֶֽעֱשֶׂ֥ה, אֶֽעֱשֶׂה, אֶתֵּ֖ן, אֶתֵּ֣ן, אוּכַל֙</li>
+      <li>AUX-Fin: הָיִ֥יתִי, אֶֽהְיֶ֖ה, הָיִ֖ינוּ, אֶֽהְיֶ֣ה, אֶֽהְיֶ֥ה, הָיִ֔יתִי, הָיִ֥ינוּ, אֶֽהְיֶ֑ה, אֶֽהְיֶ֔ה, אֶֽהְיֶ֤ה</li>
+      <li>PRON: י, נוּ, נִי, י֙, אֲנִ֖י, אֲנִ֥י, נוּ֙, אָנֹכִ֖י, אֲנִ֣י, אָנֹכִ֥י</li>
+      <li>VERB-Fin: נָתַ֥תִּי, נָתַ֖תִּי, יָדַ֔עְתִּי, אֶֽעֱשֶׂ֥ה, אֶתֵּ֣ן, נָתַ֣תִּי, נָתַתִּ֤י, אֶמְצָא, אֹמַ֖ר, אוּכַל֙</li>
     </ul>
   </li>
 </ul>
@@ -435,9 +449,9 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: הֱיִיתֶ֖ם, הְיִיתֶ֣ם, הְיֵ֥ה, הָיִ֖יתָ, תִּהְיוּ, תִהְיֶ֥ה, הְיִ֤יתֶם, הְיִ֨יתֶם, הְיִיתֶ֖ם, הְיִיתֶם֙</li>
-      <li>PRON: ךָ, ךָ֖, ךְ, כֶֽם, כֶ֔ם, ךָ֙, כֶ֖ם, כֶ֑ם, ךָ֔, כֶם֙</li>
-      <li>VERB-Fin: עָשִׂ֥יתָ, עָשִׂ֣יתָ, אָמַרְתָּ֣, תַּעֲשֶׂ֥ה, תַּעֲשֶׂ֣ה, עָשִׂ֤יתָ, תְגַלֵּ֑ה, דַּבֵּ֞ר, עֲשֵׂה, תַּעֲשֶׂ֖ה</li>
+      <li>AUX-Fin: הֱיִיתֶ֖ם, הָיִ֖יתָ, הָיִ֥יתָ, הָיִ֨יתָ֙, הְיִיתֶ֣ם, הְיֵ֥ה, הָיִ֜יתָ, הָיִ֣יתָ, תִּֽהְיֶ֥ה, תִּהְיוּ</li>
+      <li>PRON: ךָ, ךָ֖, ךָ֙, ךְ, כֶ֔ם, כֶ֖ם, כֶֽם, כֶ֑ם, ךָ֔, כֶם֙</li>
+      <li>VERB-Fin: עָשִׂ֥יתָ, אָמַרְתָּ֣, עָשִׂ֣יתָ, תַּעֲשֶׂ֥ה, אָמַרְתָּ֖, תַּעֲשֶׂ֣ה, עָשִׂ֤יתָ, הִשָּׁ֣מֶר, תַּעֲשֶׂ֖ה, תַעֲשֽׂוּ</li>
     </ul>
   </li>
 </ul>
@@ -445,9 +459,9 @@ abstract = "In this paper we present the initial construction of a Universal Dep
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: יְהִי, יְהִ֗י, הָיָ֥ה, יִהְיֶ֣ה, יִהְיֶ֥ה, יְהִ֥י, יְהִ֣י, יְהִי֙, הָיָ֤ה, יִֽהְיֶה</li>
-      <li>PRON: ו, ם, הּ, ו֙, הָ, הוּ, נּוּ, הֶ֖ם, ה, הֶ֔ם</li>
-      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, צִוָּ֥ה, יֹּ֗אמֶר, יֹּ֖אמֶר, יֹּ֕אמֶר</li>
+      <li>AUX-Fin: יִהְיֶ֥ה, יִהְיֶ֣ה, יְהִ֗י, יְהִי, הָיָ֥ה, יְהִ֣י, יְהִ֥י, יִֽהְיֶה, יְהִי֙, הָיָ֗ה</li>
+      <li>PRON: ו, ם, הּ, ו֙, הָ, הוּ, נּוּ, הֶ֖ם, הֶ֑ם, הֶ֔ם</li>
+      <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יְדַבֵּ֥ר, יֹּ֥אמֶר, צִוָּ֥ה, יֹּ֨אמֶר֙, יִּסְע֖וּ, יֹּ֖אמֶר, יֹּ֗אמֶר</li>
     </ul>
   </li>
 </ul>
@@ -469,7 +483,8 @@ abstract = "In this paper we present the initial construction of a Universal Dep
       <li>SCONJ
         <ul>
           <li>ADP: לֵ, לֵּ, לְ, עַ֥ד, לֵֽ, עַ֚ד, עַ֛ד, עַ֣ד</li>
-          <li>SCONJ: כִּ֖י, כִּ֚י, כִּ֛י, כִּ֥י, כִּ֧י, כִּ֣י, כִּ֤י, כִּֽי, כִּי</li>
+          <li>NOUN: אֶ֕פֶס, אֶ֚פֶס</li>
+          <li>SCONJ: כִּ֚י, כִּ֣י, כִּ֥י, כִּ֧י, כִּ֖י, כִּ֛י, כִּ֠י, כִּֽי, כִּי, כִּ֡י</li>
         </ul>
       </li>
     </ul>
@@ -481,62 +496,62 @@ abstract = "In this paper we present the initial construction of a Universal Dep
     <ul>
       <li>HIFIL
         <ul>
-          <li>NOUN-Part: מַכֵּ֥ה, מַּשְׁקִ֔ים, מַּשְׁקִ֛ים, מֵּלִ֖יץ, מַּעֲלֵי֙, מַּפְרִיסֵ֖י, מַּקְדִּ֔ישׁ, מַּשְׁקִ֖ים, מַּשְׁקִ֗ים, מַּשְׁקֶ֣ה</li>
-          <li>VERB-Fin: יֹּ֥ולֶד, יֹּ֖ולֶד, הֹולִ֥יד, יָּבֵ֥א, הִקְטִ֨יר, הֹולִ֣יד, הֹוצֵ֥אתִי, יְסִירֶֽנָּ, יַּקְטֵ֥ר, יַּשְׁכֵּ֨ם</li>
-          <li>VERB-Inf: הֹולִידֹ֣, הֲבִ֣יאֲ, הֹוצִ֥יא, הֲמִיתֹֽ, הַבְדִּ֔יל, הַבְדִּ֕יל, הַגִּ֣יד, הַכֹּות, הַעֲלֹ֥ת, הַקְרִ֖יב</li>
-          <li>VERB-Part: מֵבִ֥יא, מֵבִ֨יא, מֵשִׁ֣יב, מַּקְרִ֞יב, מַקְבִּילֹת֙, מְדִיבֹ֣ת, מְרִיקִ֣ים, מֵינִיקֹ֛ות, מֵקִ֛ים, מֵרִ֗ים</li>
+          <li>NOUN-Part: מַכֵּ֥ה, מַּשְׁקִ֔ים, מַּשְׁקִ֛ים, מַעֲלַ֥ת, מַפְרִ֨יס, מֹושִֽׁיעַ, מֵּלִ֖יץ, מַ֨כֵּה, מַּֽעֲלֵ֣י, מַּכֶּ֔ה</li>
+          <li>VERB-Fin: יֹּ֥ולֶד, יֹּ֖ולֶד, הֹולִ֥יד, יָּבֵ֥א, הִקְטִ֨יר, הִקְרַבְתֶּ֨ם, הֹולִ֣יד, הִקְטִ֖יר, הִקְרִ֣יב, הִקְרִ֥יב</li>
+          <li>VERB-Inf: הֹולִידֹ֣, הֹוצִ֥יא, הֲבִ֣יאֲ, הָקִ֣ים, הֲמִיתֹֽ, הֲרִֽימְ, הֵיטֵ֑ב, הֵיטֵ֔ב, הַבְדִּ֔יל, הַבְדִּ֕יל</li>
+          <li>VERB-Part: מֵבִ֥יא, מֵבִ֨יא, מֵשִׁ֣יב, מַּקְרִ֞יב, מַּקְרִ֥יב, מַכֵּה, מַלִּינִ֖ם, מַמְרִ֥ים, מַקְבִּילֹת֙, מֹּוצִ֤יא</li>
         </ul>
       </li>
       <li>HITPAEL
         <ul>
-          <li>NOUN-Part: מִּטַּהֵ֖ר, מִּטַּהֵ֑ר, מִּטַּהֵר֙, מִּטַּהֵ֛ר, מִּטַּהֵ֨ר</li>
-          <li>VERB-Fin: הִתְבָּרֲכ֣וּ, הִתְהַלֵּ֥ךְ, יִטַּמָּ֖א, יִטַּמָּֽא, אֶתְנָהֲלָ֣ה, הִ֨תְגַּלָּ֔ח, הִ֨תְוַדָּ֔ה, הִ֨תְקַדִּשְׁתֶּ֔ם, הִֽטַּהֲר֔וּ, הִֽתְהַלֶּךְ</li>
-          <li>VERB-Inf: הִתְאַפֵּ֗ק, הִתְגֹּלֵ֤ל, הִתְוַדַּ֥ע, הִתְחַֽנְנֹ֥, הִתְמַהְמֵ֔הַּ, הִתְנַחֵ֔ם, הִתְנַפֵּ֣ל</li>
-          <li>VERB-Part: מִּטַּהֵ֖ר, מִּטַּהֵ֛ר, מִּתְהַפֶּ֔כֶת, מִסְתֹּולֵ֣ל, מִשְׁתָּאֵ֖ה, מִתְאַמֶּ֥צֶת, מִתְהַלֵּ֥ךְ, מִתְלַקַּ֖חַת, מִתְנַחֵ֥ם</li>
+          <li>NOUN-Part: מִּטַּהֵ֖ר, מִּטַּהֵ֑ר, מִּטַּהֵר֙, מִּטַּהֵ֛ר, מִּטַּהֵ֨ר, מִתְאֹ֣נְנִ֔ים</li>
+          <li>VERB-Fin: הִתְבָּרֲכ֣וּ, הִתְהַלֵּ֥ךְ, הִתְעַלַּמְתָּ֖, יִּֽתְיַצְּב֖וּ, יִּֽתְנַבְּא֖וּ, יִּתְפַּלֵּ֥ל, יִטַּמָּ֖א, יִטַּמָּֽא, יִתְיַצֵּ֥ב, יִתְנֶחָ֑ם</li>
+          <li>VERB-Inf: הִֽתְגַּלְּחֹ֥, הִשְׂתָּרֵֽר, הִתְאַסֵּף֙, הִתְאַפֵּ֗ק, הִתְגֹּלֵ֤ל, הִתְוַדַּ֥ע, הִתְחַֽנְנֹ֥, הִתְמַהְמֵ֔הַּ, הִתְנַחֵ֔ם, הִתְנַחֵל֙</li>
+          <li>VERB-Part: מִּטַּהֵ֖ר, מִּטַּהֵ֛ר, מִּתְאַוִּֽים, מִּתְהַפֶּ֔כֶת, מִֽתְנַבְּאִ֖ים, מִדַּבֵּ֣ר, מִסְתֹּולֵ֣ל, מִשְׁתָּאֵ֖ה, מִתְאַמֶּ֥צֶת, מִתְהַלֵּ֣ךְ</li>
         </ul>
       </li>
       <li>HUFAL
         <ul>
           <li>NOUN-Part: מֻכִּ֖ים, מֻסַבֹּ֛ת, מֻרְבֶּ֣כֶת</li>
-          <li>VERB-Fin: יוּמָֽת, יֻּגַּ֥ד, יוּמָ֑ת, הוּבָ֖א, יֻסַּ֖ךְ, יוּמְת֖וּ, יוּמָ֔ת, יוּמָ֖תוּ, הָפְקַ֖ד, הָרְאֵ֖יתָ</li>
+          <li>VERB-Fin: יוּמָֽת, יוּמַ֖ת, יֻּגַּ֥ד, יוּמָ֑ת, הוּבָ֖א, יֻסַּ֖ךְ, יוּמְת֖וּ, יוּמַ֥ת, יוּמָ֔ת, יוּמָ֖תוּ</li>
           <li>VERB-Inf: הְשַׁמָּה֙, הֳשַּׁמָּ֔ה, הָפְדֵּה֙, הָשַּׁמָּ֖ה, הֻגֵּ֨ד, הֻלֶּ֣דֶת</li>
-          <li>VERB-Part: מָשְׁזָ֑ר, מָשְׁזָֽר, מָשְׁזָ֗ר, מָשְׁזָ֖ר, מָרְאֶ֖ה, מָשְׁזָ֔ר, מֻֽסַבֹּ֖ת, מֻצָּ֣ב, מֻרְבֶּ֔כֶת, מּוּשָׁ֨ב</li>
+          <li>VERB-Part: מָשְׁזָ֑ר, מָשְׁזָֽר, מָשְׁזָ֗ר, מָשְׁזָ֖ר, מָרְאֶ֖ה, מָשְׁזָ֔ר, מֻּכֶּ֗ה, מֻּכָּ֛ה, מֻּכָּ֥ה, מֻֽסַבֹּ֖ת</li>
         </ul>
       </li>
       <li>NIFAL
         <ul>
-          <li>AUX-Fin: נִהְיָ֔תָה</li>
-          <li>NOUN-Part: נֹּותֶ֨רֶת֙, נִּשְׁאָרִ֖ים, נִפְלְאֹתַ֔, נִפְלָאֹ֔ת, נִצִּ֑ים, נָבֹ֥ון, נֹּֽותָרִים֒, נֹּותָר֙, נֹּותָרִ֖ם, נֹּותָרִ֛ים</li>
-          <li>VERB-Fin: נִכְרְתָ֛ה, נִסְלַ֥ח, נִרְאָ֥ה, יִמָּצְא֥וּן, יֵאָכֵ֖ל, יֵעָשֶׂ֥ה, נֶעְלַ֣ם, הִשָּׁ֣מֶר, הִשָּׁ֧מֶר, יִגָּאֵ֖ל</li>
-          <li>VERB-Inf: הִמֹּ֥ול, הִמֹּ֧ול, הִ֨מֹּלֹ֔, הִבָּֽרְאָ֑, הִבָּֽרְאָֽ, הִגָּמֵ֥ל, הִוָּ֣לֶד, הִוָּסְדָ֖ה, הִטֹּ֣חַ, הִטֹּֽוחַ</li>
-          <li>VERB-Part: נְכֹנִ֖ים, נִּשְׁאָרִ֣ים, נִצָּ֖ב, נִצָּבִ֖ים, נֹּותָ֗ר, נֹּותָ֥ר, נְבֻכִ֥ים, נִּגָּשִׁ֥ים, נִּמְצָ֤א, נִּמְצָאֹ֔ת</li>
+          <li>AUX-Fin: נִֽהְיָ֗ה, נִהְיֵ֣יתָֽ, נִהְיָ֔תָה</li>
+          <li>NOUN-Part: נִּשְׁאָרִ֖ים, נֹּותֶ֨רֶת֙, נְבֹנִ֛ים, נִּגְלֹ֞ת, נִּסְתָּרִ֖ים, נִּסְתָּרֹ֔ת, נִּשְׁאָרִ֛ים, נִֽדַּחֲ, נִכְבָּדִ֖ים, נִפְלְאֹתַ֔</li>
+          <li>VERB-Fin: נִכְרְתָ֛ה, הִשָּׁ֣מֶר, נִסְלַ֥ח, נִשְׁבַּ֥ע, נִרְאָ֥ה, נִשְׁבַּ֖ע, נִשְׁבַּ֧ע, הִשָּׁ֧מֶר, יִמָּצְא֥וּן, יִמָּצֵ֣א</li>
+          <li>VERB-Inf: הִמָּשַׁ֣ח, הִשָּׁמְדָֽ, הִלָּחֵ֖ם, הִמֹּ֥ול, הִמֹּ֧ול, רָאֹות֙, הִ֨מֹּלֹ֔, הִבָּֽרְאָ֑, הִבָּֽרְאָֽ, הִגָּמֵ֥ל</li>
+          <li>VERB-Part: נִצָּ֖ב, נִצָּ֣ב, נְכֹנִ֖ים, נִּשְׁאָרִ֣ים, נִצָּ֥ב, נִצָּב֙, נִצָּבִ֖ים, נָכֹ֣ון, נֹּותָ֗ר, נֹּותָ֥ר</li>
         </ul>
       </li>
       <li>PAAL
         <ul>
-          <li>AUX-Fin: יְהִי, יְהִ֗י, הָיָ֥ה, יִהְיֶ֣ה, יִהְיֶ֥ה, יְהִ֥י, יְהִ֣י, יְהִי֙, הָיָ֤ה, יִֽהְיֶה</li>
-          <li>AUX-Inf: הְיֹ֥ות, הְיֹ֥ת, הְיֹ֖ות, הְיֹ֣ות, הְיֹ֣ת, הְיֹותָ֣, הְיֹ֖ת, הְיֹ֛ת, הְיֹ֤ות, הְיֹ֨ת</li>
+          <li>AUX-Fin: יִהְיֶ֥ה, יִהְיֶ֣ה, יְהִ֗י, יְהִי, הָיָ֥ה, יְהִ֣י, יְהִ֥י, יִֽהְיֶה, יְהִי֙, הָיָ֗ה</li>
+          <li>AUX-Inf: הְיֹ֥ות, הְיֹ֥ת, הְיֹ֖ות, הְיֹ֣ות, הְיֹ֣ת, הְיֹותָ֣, הְיֹ֖ת, הְיֹ֛ת, הְיֹ֤ות, הְיֹ֧ות</li>
           <li>AUX-Part: הֹויָ֗ה</li>
-          <li>NOUN-Part: אֹיְבֵי, זָבַ֥ת, זָּ֖ב, חֹתֵ֥ן, מֵּ֖ת, אֹֽיְבֵי, אֹרֵ֑ג, זָּ֑ב, חֹשֵׁ֖ב, חֹתְנֹ֑</li>
-          <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, יֹּ֗אמֶר, יֹּ֖אמֶר, יֹּ֕אמֶר, יַּ֥עַשׂ, יִּקְרָ֥א</li>
-          <li>VERB-Inf: אמֹֽר, אמֹ֑ר, אמֹ֔ר, מֹ֥ות, אמֹ֗ר, אמֹ֖ר, מֹ֣ות, בֹּאֲ, תֵ֥ת, עֲשֹׂ֖ות</li>
-          <li>VERB-Part: נֹּגֵ֥עַ, אֹכֵ֣ל, בָּ֣א, גָּ֣ר, גָּ֥ר, הֹלֵ֖ךְ, יֹּצְאִ֖ים, נֹתֵ֥ן, עֹשֶֽׂה, עֹשֶׂ֖ה</li>
+          <li>NOUN-Part: פְקֻדֵי, אֹיְבֵי, פְּקֻדֵי, יֹצֵ֥א, זָבַ֥ת, רֹצֵ֔חַ, גֹּאֵ֣ל, מֵּ֖ת, זָּ֖ב, חֹתֵ֣ן</li>
+          <li>VERB-Fin: יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֨אמֶר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, יִּסְע֖וּ, יֹּ֖אמֶר, יֹּ֗אמֶר, יַּחֲנ֖וּ, יֹּ֕אמֶר</li>
+          <li>VERB-Inf: אמֹֽר, אמֹ֑ר, אמֹ֔ר, אמֹ֗ר, מֹ֥ות, רִשְׁתָּֽ, תֵ֥ת, עֲשֹׂ֔ות, עֲשֹׂ֣ות, עֲשֹׂ֥ות</li>
+          <li>VERB-Part: נֹתֵ֥ן, בְּלוּלָ֥ה, מְלֵאִ֗ים, מְלֵאָ֥ה, בְּלוּלָ֣ה, נֹתֵ֣ן, בָא, נֹּגֵ֥עַ, בָּא֙, בָּר֥וּךְ</li>
         </ul>
       </li>
       <li>PIEL
         <ul>
-          <li>NOUN-Part: מְיַלְּדֹ֖ת, מְיַלְּדֹת֙, מְקַלֵּ֗ל, מְרַגְּלִֽים, מְבָ֣רְכֶ֔י, מְבָרֲכֶ֖י, מְחֹקֵ֖ק, מְטַחֲוֵ֣י, מְיַלְּדֹ֑ת, מְיַלְּדֹ֔ת</li>
-          <li>VERB-Fin: יְדַבֵּ֥ר, צִוָּ֥ה, דִּבֶּ֥ר, יְדַבֵּ֣ר, כִפֶּ֥ר, צִוָּ֧ה, תְגַלֵּ֑ה, דַּבֵּ֞ר, יְצַ֥ף, כִפֶּ֨ר</li>
-          <li>VERB-Inf: דַבֵּ֣ר, כַפֵּ֥ר, דַבֵּ֥ר, כַפֵּ֣ר, שָׁרֵ֣ת, דַבֵּ֤ר, כַהֲנֹ, כַהֵֽן, כַפֵּ֖ר, שַׁלְּחָֽ</li>
-          <li>VERB-Part: מְכַסֶּ֣ה, מְקַדִּשְׁ, מְקַדְּשָֽׁ, מְשַׁלֵּ֖חַ, מָאֵ֥ן, מְרַגְּלִ֖ים, מְאַלְּמִ֤ים, מְבַקְשִׁ֑ים, מְבַקְשִׁ֖ים, מְבַקֵּ֑שׁ</li>
+          <li>NOUN-Part: מְחֹקֵ֖ק, מְיַלְּדֹ֖ת, מְיַלְּדֹת֙, מְקַלֵּ֗ל, מְרַגְּלִֽים, מְאָֽרֲרִ֑ים, מְאָֽרֲרִֽים, מְאָרֲרִ֖ים, מְבָ֣רְכֶ֔י, מְבָרֲכֶ֖י</li>
+          <li>VERB-Fin: יְדַבֵּ֥ר, צִוָּ֥ה, יְדַבֵּ֣ר, דִּבֶּ֥ר, צִוָּ֧ה, יְדַבֵּ֨ר, צִוָּ֣ה, יְבָרֶכְ, כִפֶּ֥ר, בִֽעַרְתָּ֥</li>
+          <li>VERB-Inf: דַבֵּ֣ר, כַפֵּ֥ר, כַפֵּ֖ר, בָרֵ֣ךְ, דַּבֵּ֥ר, דַבֵּ֥ר, כַהֵֽן, כַפֵּ֣ר, מַהֵ֔ר, שַׁכֵּ֥ן</li>
+          <li>VERB-Part: מְצַוְּ, מְצַוֶּ֥ה, מְכַסֶּ֣ה, מְקַדִּשְׁ, מְצַוֶּ֣ה, מְקַדְּשָֽׁ, מְשַׁלֵּ֖חַ, מָאֵ֥ן, מְדַבֵּ֧ר, מְרַגְּלִ֖ים</li>
         </ul>
       </li>
       <li>PUAL
         <ul>
-          <li>NOUN-Part: מְקֻצְעֹ֖ת, מְּצֹרָ֔ע, מְאָדָּמִ֔ים, מְחֻסְפָּ֔ס</li>
-          <li>VERB-Fin: יֻלַּד, יֻלַּ֖ד, חֻבָּֽר, כֻבַּ֥ס, צֻוֵּֽיתִי, אֹרָ֖שָׂה, בֻּשָּׁ֔לָה, גֹרְשׁ֣וּ, גֻּנַּ֔בְתִּי, גֻנַּ֖ב</li>
+          <li>NOUN-Part: מְקֻצְעֹ֖ת, מְּצֹרָ֔ע, מְאָדָּמִ֔ים, מְבֹרֶ֥כֶת, מְחֻסְפָּ֔ס</li>
+          <li>VERB-Fin: יֻלַּד, יֻלַּ֖ד, חֻבָּֽר, כֻבַּ֥ס, צֻוֵּֽיתִי, אֹרָ֔שָׂה, אֹרָ֖שָׂה, בֻּשָּׁ֔לָה, גֹרְשׁ֣וּ, גֻּנַּ֔בְתִּי</li>
           <li>VERB-Inf: גֻנֹּ֣ב</li>
-          <li>VERB-Part: מְאָדָּמִ֛ים, מְאָדָּמִ֑ים, מְחֻשָּׁקִ֣ים, מְשֻׁלָּבֹ֔ת, מְבֻשָּׁ֖ל, מְמֻלָּ֖ח, מְפֻתָּחֹת֙, מְצֹרַ֥עַת, מְצֻפִּ֣ים, מְקֻשָּׁרֹות֒</li>
+          <li>VERB-Part: מְאָדָּמִ֛ים, מְאָדָּמִ֑ים, מְאֹ֣רָשָׂ֔ה, מְחֻשָּׁקִ֣ים, מְשֻׁלָּבֹ֔ת, מְאֹרָשָׂ֖ה, מְבֹרָ֔ךְ, מְבֻשָּׁ֖ל, מְמֻלָּ֖ח, מְפֻתָּחֹת֙</li>
         </ul>
       </li>
     </ul>
@@ -561,19 +576,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1519)</li>
-      <li>VERB-Fin--NOUN-ADP(את) (7)</li>
-      <li>VERB-Fin--NOUN-ADP(כ) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(מן) (12)</li>
-      <li>VERB-Fin--PRON (244)</li>
+      <li>VERB-Fin--NOUN (2207)</li>
+      <li>VERB-Fin--NOUN-ADP(את) (11)</li>
+      <li>VERB-Fin--NOUN-ADP(כ) (3)</li>
+      <li>VERB-Fin--NOUN-ADP(מן) (13)</li>
+      <li>VERB-Fin--PRON (390)</li>
       <li>VERB-Fin--PRON-ADP(כ) (1)</li>
       <li>VERB-Fin--PRON-ADP(מן) (3)</li>
-      <li>VERB-Inf--NOUN (49)</li>
+      <li>VERB-Inf--NOUN (92)</li>
       <li>VERB-Inf--NOUN-ADP(את) (3)</li>
-      <li>VERB-Inf--PRON (176)</li>
-      <li>VERB-Inf--PRON-ADP(את) (2)</li>
-      <li>VERB-Part--NOUN (90)</li>
-      <li>VERB-Part--PRON (151)</li>
+      <li>VERB-Inf--PRON (281)</li>
+      <li>VERB-Inf--PRON-ADP(את) (5)</li>
+      <li>VERB-Part--NOUN (127)</li>
+      <li>VERB-Part--PRON (305)</li>
     </ul>
   </li>
 </ul>
@@ -581,19 +596,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1280)</li>
-      <li>VERB-Fin--NOUN-ADP(את) (1214)</li>
+      <li>VERB-Fin--NOUN (1916)</li>
+      <li>VERB-Fin--NOUN-ADP(את) (1783)</li>
       <li>VERB-Fin--NOUN-ADP(מן) (1)</li>
-      <li>VERB-Fin--PRON (605)</li>
-      <li>VERB-Fin--PRON-ADP(את) (421)</li>
-      <li>VERB-Inf--NOUN (102)</li>
-      <li>VERB-Inf--NOUN-ADP(את) (105)</li>
-      <li>VERB-Inf--PRON (73)</li>
-      <li>VERB-Inf--PRON-ADP(את) (52)</li>
-      <li>VERB-Part--NOUN (68)</li>
-      <li>VERB-Part--NOUN-ADP(את) (48)</li>
-      <li>VERB-Part--PRON (19)</li>
-      <li>VERB-Part--PRON-ADP(את) (29)</li>
+      <li>VERB-Fin--PRON (1040)</li>
+      <li>VERB-Fin--PRON-ADP(את) (616)</li>
+      <li>VERB-Inf--NOUN (189)</li>
+      <li>VERB-Inf--NOUN-ADP(את) (209)</li>
+      <li>VERB-Inf--PRON (174)</li>
+      <li>VERB-Inf--PRON-ADP(את) (94)</li>
+      <li>VERB-Part--NOUN (144)</li>
+      <li>VERB-Part--NOUN-ADP(את) (63)</li>
+      <li>VERB-Part--PRON (62)</li>
+      <li>VERB-Part--PRON-ADP(את) (53)</li>
     </ul>
   </li>
 </ul>
@@ -601,6 +616,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--NOUN-ADP(את) (9)</li>
+      <li>VERB-Fin--PRON (27)</li>
+      <li>VERB-Fin--PRON-ADP(את) (14)</li>
+      <li>VERB-Inf--NOUN-ADP(את) (3)</li>
+      <li>VERB-Inf--PRON (1)</li>
+      <li>VERB-Inf--PRON-ADP(את) (2)</li>
+      <li>VERB-Part--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -613,5 +635,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obl:npmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>aux</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

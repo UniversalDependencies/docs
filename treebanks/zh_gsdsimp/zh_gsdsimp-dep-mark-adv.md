@@ -33,7 +33,7 @@ The following 4 pairs of parts of speech are connected with `mark:adv`: <tt><a h
 8	影迷	影迷	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=yǐngmí|LTranslit=yǐngmí
 9	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	在	在	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-11	自己	自己	PRON	PRD	_	13	det	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
+11	自己	自己	PRON	PRD	_	13	nmod	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	事业	事业	NOUN	NN	_	18	obl	_	SpaceAfter=No|Translit=shìyè|LTranslit=shìyè
 14	上	上	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng

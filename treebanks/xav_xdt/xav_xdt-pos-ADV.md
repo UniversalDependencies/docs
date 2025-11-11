@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Xavante-XDT: POS Tags: `ADV`
 
-There are 49 `ADV` lemmas (10%), 50 `ADV` types (9%) and 112 `ADV` tokens (5%).
+There are 49 `ADV` lemmas (10%), 49 `ADV` types (8%) and 112 `ADV` tokens (5%).
 Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>duré, zéma, we, sa'ẽtẽ, _, apö, oto, si, õ, mararé</em>
 
-The 10 most frequent `ADV` types:  <em>duré, zéma, wei, apö, duréi, oto, si, õ, ahömhö, mararé</em>
+The 10 most frequent `ADV` types:  <em>duré, zéma, sa'ẽtẽ, wei, apö, duréi, oto, si, õ, ahömhö</em>
 
-The 10 most frequent ambiguous lemmas: <em>we</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 8, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>_</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 7, <tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> 7, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>oto</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>pese</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 1), <em>höiwahö</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1), <em>mare</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>taha</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>hö</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>we</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 8, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>_</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 7, <tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 2), <em>oto</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 6, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 1), <em>pese</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 1), <em>höiwahö</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1), <em>mare</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 2), <em>taha</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>hö</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>wei</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 4, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>oto</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 1), <em>õ</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 22, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xav_xdt-pos-DET.html">DET</a></tt> 4), <em>pese</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> 1), <em>we</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1), <em>Höiwahö</em> (<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 1), <em>Taha</em> (<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2), <em>uptabi</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 2), <em>bö</em> (<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1), <em>hö</em> (<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xav_xdt-pos-X.html">X</a></tt> 1)
 
@@ -54,13 +54,13 @@ The 10 most frequent ambiguous types:  <em>wei</em> (<tt><a href="xav_xdt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.020408 (the average of all parts of speech is 1.232409).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.229787).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>Duréi, ahömhö, uptabi</em>.
 
 The 2nd highest number of forms (2) was observed with the lemma “nima”: <em>Nimame, nimamem</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “sa'ẽtẽ”: <em>Tsa'ẽtẽ, sa'ẽtẽ</em>.
+The 3rd highest number of forms (2) was observed with the lemma “tame”: <em>Tameb, tame</em>.
 
 `ADV` occurs with 2 features: <tt><a href="xav_xdt-feat-Polarity.html">Polarity</a></tt> (6; 5% instances), <tt><a href="xav_xdt-feat-AdvType.html">AdvType</a></tt> (1; 1% instances)
 
@@ -68,7 +68,7 @@ The 3rd highest number of forms (2) was observed with the lemma “sa'ẽtẽ”
 
 `ADV` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (105 tokens).
-Examples: <em>duré, zéma, wei, apö, duréi, oto, si, ahömhö, mararé, pese</em>
+Examples: <em>duré, zéma, sa'ẽtẽ, wei, apö, duréi, oto, si, ahömhö, mararé</em>
 
 
 ## Relations

@@ -39,14 +39,14 @@ The following 44 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 orphan	color:blue
-1	тако	тако	ADV	Df	_	4	orphan	_	ref=19
-2	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	orphan	_	ref=19
-3	великѫѭ҄	великъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	ref=19
-4	богꙑн҄ѫ	богꙑни	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	ref=19
-5	а҅ртемѫ	артема	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	appos	_	ref=19
-6	и҅	и	CCONJ	C-	_	8	cc	_	ref=19
-7	двоѥнадесꙙтелоучь҆ноѥ	дъвоѥнадесѧтелоучьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	ref=19
-8	сльнь҆це	слъньце	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	ref=19
+1	тако	тако	ADV	Df	_	4	orphan	_	Ref=19
+2	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	orphan	_	Ref=19
+3	великѫѭ҄	великъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	Ref=19
+4	богꙑн҄ѫ	богꙑни	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	Ref=19
+5	а҅ртемѫ	артема	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	4	appos	_	Ref=19
+6	и҅	и	CCONJ	C-	_	8	cc	_	Ref=19
+7	двоѥнадесꙙтелоучь҆ноѥ	дъвоѥнадесѧтелоучьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	Ref=19
+8	сльнь҆це	слъньце	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	Ref=19
 
 ~~~
 
@@ -57,17 +57,17 @@ The following 44 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 orphan	color:blue
-1	Распрострѣ	распрострѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=104.39
-2	облакъі	облакъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	ref=104.39
-3	вь	въ	ADP	R-	_	4	case	_	ref=104.39
-4	покровъ	покровъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=104.39
-5	імъ	и	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	4	det	_	ref=104.39
-6	И	и	CCONJ	C-	_	7	cc	_	ref=104.39
-7	огнъ	огнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=104.39
-8	да	да	SCONJ	G-	_	9	mark	_	ref=104.39
-9	просвѣтітъ	просвѣтити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	orphan	_	ref=104.39
-10	імъ	и	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	ref=104.39
-11	ноштъѭ	нощь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	9	obl	_	ref=104.39
+1	Распрострѣ	распрострѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=104.39
+2	облакъі	облакъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	Ref=104.39
+3	вь	въ	ADP	R-	_	4	case	_	Ref=104.39
+4	покровъ	покровъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	Ref=104.39
+5	імъ	и	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	4	det	_	Ref=104.39
+6	И	и	CCONJ	C-	_	7	cc	_	Ref=104.39
+7	огнъ	огнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	Ref=104.39
+8	да	да	SCONJ	G-	_	9	mark	_	Ref=104.39
+9	просвѣтітъ	просвѣтити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	orphan	_	Ref=104.39
+10	імъ	и	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	Ref=104.39
+11	ноштъѭ	нощь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	9	obl	_	Ref=104.39
 
 ~~~
 

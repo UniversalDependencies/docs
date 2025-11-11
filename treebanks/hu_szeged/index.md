@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Richárd Farkas, Katalin Simkó, Zsolt Szántó, Viktor Varga, Veronika Vincze.
 
 Repository: [UD_Hungarian-Szeged](https://github.com/UniversalDependencies/UD_Hungarian-Szeged)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -68,7 +68,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 
 ## Relations
 
-[acl](hu_szeged-dep-acl.html) – [advcl](hu_szeged-dep-advcl.html) – [advmod](hu_szeged-dep-advmod.html) – [advmod:locy](hu_szeged-dep-advmod-locy.html) – [advmod:mode](hu_szeged-dep-advmod-mode.html) – [advmod:que](hu_szeged-dep-advmod-que.html) – [advmod:tfrom](hu_szeged-dep-advmod-tfrom.html) – [advmod:tlocy](hu_szeged-dep-advmod-tlocy.html) – [advmod:to](hu_szeged-dep-advmod-to.html) – [advmod:tto](hu_szeged-dep-advmod-tto.html) – [amod:att](hu_szeged-dep-amod-att.html) – [amod:attlvc](hu_szeged-dep-amod-attlvc.html) – [appos](hu_szeged-dep-appos.html) – [aux](hu_szeged-dep-aux.html) – [case](hu_szeged-dep-case.html) – [cc](hu_szeged-dep-cc.html) – [ccomp](hu_szeged-dep-ccomp.html) – [ccomp:obj](hu_szeged-dep-ccomp-obj.html) – [ccomp:obl](hu_szeged-dep-ccomp-obl.html) – [ccomp:pred](hu_szeged-dep-ccomp-pred.html) – [compound](hu_szeged-dep-compound.html) – [compound:preverb](hu_szeged-dep-compound-preverb.html) – [conj](hu_szeged-dep-conj.html) – [cop](hu_szeged-dep-cop.html) – [csubj](hu_szeged-dep-csubj.html) – [dep](hu_szeged-dep-dep.html) – [det](hu_szeged-dep-det.html) – [discourse](hu_szeged-dep-discourse.html) – [dislocated](hu_szeged-dep-dislocated.html) – [fixed](hu_szeged-dep-fixed.html) – [flat:name](hu_szeged-dep-flat-name.html) – [goeswith](hu_szeged-dep-goeswith.html) – [iobj](hu_szeged-dep-iobj.html) – [list](hu_szeged-dep-list.html) – [mark](hu_szeged-dep-mark.html) – [nmod](hu_szeged-dep-nmod.html) – [nmod:att](hu_szeged-dep-nmod-att.html) – [nmod:attlvc](hu_szeged-dep-nmod-attlvc.html) – [nmod:obl](hu_szeged-dep-nmod-obl.html) – [nsubj](hu_szeged-dep-nsubj.html) – [nsubj:lvc](hu_szeged-dep-nsubj-lvc.html) – [nummod](hu_szeged-dep-nummod.html) – [obj](hu_szeged-dep-obj.html) – [obj:lvc](hu_szeged-dep-obj-lvc.html) – [obl](hu_szeged-dep-obl.html) – [obl:lvc](hu_szeged-dep-obl-lvc.html) – [orphan](hu_szeged-dep-orphan.html) – [parataxis](hu_szeged-dep-parataxis.html) – [punct](hu_szeged-dep-punct.html) – [root](hu_szeged-dep-root.html) – [vocative](hu_szeged-dep-vocative.html) – [xcomp](hu_szeged-dep-xcomp.html)
+[acl](hu_szeged-dep-acl.html) – [advcl](hu_szeged-dep-advcl.html) – [advmod](hu_szeged-dep-advmod.html) – [advmod:locy](hu_szeged-dep-advmod-locy.html) – [advmod:mode](hu_szeged-dep-advmod-mode.html) – [advmod:que](hu_szeged-dep-advmod-que.html) – [advmod:tfrom](hu_szeged-dep-advmod-tfrom.html) – [advmod:tlocy](hu_szeged-dep-advmod-tlocy.html) – [advmod:to](hu_szeged-dep-advmod-to.html) – [advmod:tto](hu_szeged-dep-advmod-tto.html) – [amod:att](hu_szeged-dep-amod-att.html) – [amod:attlvc](hu_szeged-dep-amod-attlvc.html) – [appos](hu_szeged-dep-appos.html) – [aux](hu_szeged-dep-aux.html) – [case](hu_szeged-dep-case.html) – [cc](hu_szeged-dep-cc.html) – [ccomp](hu_szeged-dep-ccomp.html) – [ccomp:obj](hu_szeged-dep-ccomp-obj.html) – [ccomp:obl](hu_szeged-dep-ccomp-obl.html) – [ccomp:pred](hu_szeged-dep-ccomp-pred.html) – [compound](hu_szeged-dep-compound.html) – [compound:preverb](hu_szeged-dep-compound-preverb.html) – [conj](hu_szeged-dep-conj.html) – [cop](hu_szeged-dep-cop.html) – [csubj](hu_szeged-dep-csubj.html) – [dep](hu_szeged-dep-dep.html) – [det](hu_szeged-dep-det.html) – [discourse](hu_szeged-dep-discourse.html) – [dislocated](hu_szeged-dep-dislocated.html) – [flat:name](hu_szeged-dep-flat-name.html) – [goeswith](hu_szeged-dep-goeswith.html) – [iobj](hu_szeged-dep-iobj.html) – [list](hu_szeged-dep-list.html) – [mark](hu_szeged-dep-mark.html) – [nmod](hu_szeged-dep-nmod.html) – [nmod:att](hu_szeged-dep-nmod-att.html) – [nmod:attlvc](hu_szeged-dep-nmod-attlvc.html) – [nmod:obl](hu_szeged-dep-nmod-obl.html) – [nsubj](hu_szeged-dep-nsubj.html) – [nsubj:lvc](hu_szeged-dep-nsubj-lvc.html) – [nummod](hu_szeged-dep-nummod.html) – [obj](hu_szeged-dep-obj.html) – [obj:lvc](hu_szeged-dep-obj-lvc.html) – [obl](hu_szeged-dep-obl.html) – [obl:lvc](hu_szeged-dep-obl-lvc.html) – [orphan](hu_szeged-dep-orphan.html) – [parataxis](hu_szeged-dep-parataxis.html) – [punct](hu_szeged-dep-punct.html) – [root](hu_szeged-dep-root.html) – [vocative](hu_szeged-dep-vocative.html) – [xcomp](hu_szeged-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -106,7 +106,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 </ul>
 
 <ul>
-<li>This corpus contains 94 lemmas tagged as pronouns (PRON): aki, akkora, alatt, amely, amelyik, ami, amilyen, amolyan, annyi, az, bele, belőle, bárki, bármelyik, e, egyik, egymás, egynémelyik, egyéb, ekkora, ellen, ellene, elébe, előtte, ennyi, ez, fölött, helyett, hozzá, hány, ily, ilyen, ilyenfajta, iránt, ki, körülötte, közt, közte, közötte, közül, közüle, maga, mellett, mely, melyik, mennyi, mi, milyen, mindannyi, mindaz, mindegyik, minden, mindenféle, mindenki, mindez, más, másik, neki, néhány, néki, nélkül, némelyik, némi, oly, olyan, rajta, rá, róla, saját, semmi, semmiféle, semmilyen, senki, szerint, szerinte, számára, te, tőle, ugyanannyi, ugyanaz, ugyanennyi, ugyanez, valaki, valamennyi, valami, valamilyen, vele, által, általa, én, ön, önmaga, ő, ők</li>
+<li>This corpus contains 95 lemmas tagged as pronouns (PRON): aki, akkora, alatt, amely, amelyik, ami, amilyen, amolyan, annyi, az, bele, belőle, bárki, bármelyik, e, egyik, egymás, egynémelyik, egyéb, ekkora, ellen, ellene, elébe, előtte, ennyi, ez, fölött, helyett, hozzá, hány, ily, ilyen, ilyenfajta, iránt, ki, körülötte, közt, közte, közötte, közül, közüle, maga, mellett, mely, melyik, mennyi, mi, milyen, mindannyi, mindaz, mindegyik, minden, mindenféle, mindenki, mindez, más, másik, neki, néhány, néki, nélkül, némelyik, némi, oly, olyan, rajta, rá, róla, saját, semmi, semmiféle, semmilyen, senki, szerint, szerinte, számára, te, több, tőle, ugyanannyi, ugyanaz, ugyanennyi, ugyanez, valaki, valamennyi, valami, valamilyen, vele, által, általa, én, ön, önmaga, ő, ők</li>
 </ul>
 
 <ul>
@@ -114,7 +114,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 </ul>
 
 <ul>
-<li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: akkora, az, bármelyik, e, egyik, egyéb, ez, ilyen, milyen, mindaz, minden, más, másik, néhány, olyan, saját, semmi, semmiféle, valamennyi</li>
+<li>Out of the above, 20 lemmas occurred sometimes as PRON and sometimes as DET: akkora, az, bármelyik, e, egyik, egyéb, ez, ilyen, milyen, mindaz, minden, más, másik, néhány, olyan, saját, semmi, semmiféle, több, valamennyi</li>
 </ul>
 
 <ul>
@@ -198,7 +198,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
       <li>AUX-Fin: voltak, legyenek, lesznek, vannak, fogják, lennének, leszünk, voltunk</li>
       <li>DET: azokat, azokban, ezekben, azoknak, ezek, ezeket, azokkal, ezekből, ezeken, ezekkel</li>
       <li>NOUN: évek, szakértők, albánok, cégek, szerbek, napokban, emberek, képviselők, választások, években</li>
-      <li>NUM: többek, sokak</li>
+      <li>NUM: sokak</li>
       <li>PRON: őket, akik, ezek, amelyek, ők, mi, akiknek, magukat, nálunk, közülük</li>
       <li>PROPN: Gyerevék, Orbánék, Thaciék, Zetorok, díjakat, Ördögökkel</li>
       <li>VERB-Fin: vannak, nincsenek, jutottak, kapnak, tartják, tudják, vélik, állnak, adtak, figyelik</li>
@@ -218,7 +218,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
       <li>AUX-Fin: volt, volna, lesz, lenne, lehet, legyen, lett, lehetett, fogja, vagyok</li>
       <li>DET: ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, olyan</li>
       <li>NOUN: kormány, év, cég, forint, százalékkal, évben, elnök, héten, miniszterelnök, szerdán</li>
-      <li>NUM: két, milliárd, millió, egy, három, több, ezer, négy, 30, 10</li>
+      <li>NUM: két, milliárd, millió, egy, három, ezer, négy, 30, 10, fél</li>
       <li>PRON: azt, az, aki, ez, amely, ami, annak, arra, amelynek, ő</li>
       <li>PROPN: László, Magyar, Orbán, Gazprom, Viktor, Ferenc, János, Rt., Starbucks, HVG</li>
       <li>VERB-Fin: kell, van, lehet, volt, mondta, elmondta, kellene, jelentette, került, nincs</li>
@@ -262,7 +262,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
       <li>ADJ: feljelentettjeit, gyógyszermérgezetteket, jobbat, jót, kicsit, kiválót, korszakosat, kultikust, közöttieket, lepattanót</li>
       <li>ADJ-PartPast: feljelentettjeit, gyógyszermérgezetteket, leromlottakat</li>
       <li>ADJ-PartPres: lepattanót</li>
-      <li>DET: ezt, azt, azokat, sokat, többet, ezeket, keveset, legtöbbet, sokakat</li>
+      <li>DET: ezt, azt, azokat, sokat, ezeket, többet, keveset, legtöbbet, sokakat</li>
       <li>NOUN: százalékát, részt, törvényt, forintot, részét, szerepet, javaslatot, kérdést, munkát, pontot</li>
       <li>NUM: hatot, 12-t, 35-öt, egyet, ezret, hétszázat, keveset, milliárdot, milliót, mindkettőt</li>
       <li>PRON: azt, ezt, amit, őket, magát, akit, őt, amelyet, magukat, mit</li>
@@ -300,8 +300,8 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
   <li>Cau
     <ul>
       <li>NOUN: dollárért, koronáért, BL-szereplésért, bocsátásáért, címért, díjamért, elismerésemért, energiahordozókért, euróért, forintért</li>
-      <li>NUM: millióért, többért</li>
-      <li>PRON: azért, amiért, magáért, valamiért, érte, értük</li>
+      <li>NUM: millióért</li>
+      <li>PRON: azért, amiért, magáért, többért, valamiért, érte, értük</li>
       <li>PROPN: Jugoszláviáért</li>
     </ul>
   </li>
@@ -363,8 +363,8 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
       <li>ADJ-PartPast: ismételten, elcsigázottan, elérzékenyülten, garantáltan, kiemelten, túlzottan, összevontan</li>
       <li>ADJ-PartPres: követően, várhatóan, feltehetően, láthatóan, illetően, köszönhetően, megfelelően, adódóan, csökkenően, egybehangzóan</li>
       <li>NOUN: ráadásul, vendégül, hírül, rabul, összegzésül</li>
-      <li>NUM: ezren, húszezren, kevesebben, millióan, negyvenen, tízen, többen</li>
-      <li>PRON: ennyien, mindannyian</li>
+      <li>NUM: ezren, húszezren, kevesebben, millióan, negyvenen, tízen</li>
+      <li>PRON: ennyien, mindannyian, többen</li>
     </ul>
   </li>
 </ul>
@@ -435,9 +435,9 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
       <li>ADJ-PartFut: adandó, befejezendő, benyújtandó, elkövetkezendő, letöltendő, maradandó, megelőzendő, nyújtandó, operálandó, tartandó</li>
       <li>ADJ-PartPast: elmúlt, jegyzett, készült, tervezett, elfogadott, elkövetett, készített, kialakult, kiemelt, megbízott</li>
       <li>ADJ-PartPres: jövő, való, lévő, álló, következő, vezető, szóló, várható, előző, látható</li>
-      <li>DET: ez, ilyen, e, az, olyan, ezek, Mindaz, akkora, ezen</li>
+      <li>DET: ez, ilyen, e, az, olyan, több, ezek, Mindaz, akkora, ezen</li>
       <li>NOUN: kormány, év, cég, forint, elnök, miniszterelnök, évek, elnöke, kormányfő, vezetője</li>
-      <li>NUM: két, milliárd, millió, egy, három, több, ezer, négy, 30, 10</li>
+      <li>NUM: két, milliárd, millió, egy, három, ezer, négy, 30, 10, fél</li>
       <li>PRON: az, aki, ez, amely, ami, ő, egyik, én, maga, akik</li>
       <li>PROPN: László, Magyar, Orbán, Gazprom, Viktor, Ferenc, János, Rt., Starbucks, HVG</li>
     </ul>
@@ -452,7 +452,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
       <li>ADJ-PartPres: részesülőkre</li>
       <li>DET: arra, ezekre</li>
       <li>NOUN: élére, dollárra, forintra, színpadra, napirendre, végére, gazdaságra, napra, növelésére, évre</li>
-      <li>NUM: 2000-re, 1991-re, 2002-re, 3500-ra, 47-re, 76,8-ra, egyre, tizedére, többre</li>
+      <li>NUM: 2000-re, 1991-re, 2002-re, 3500-ra, 47-re, 76,8-ra, egyre, tizedére</li>
       <li>PRON: arra, erre, rá, magára, rájuk, amire, mire, Rám, akire, amelyre</li>
       <li>PROPN: Magyarországra, Budapestre, Nyugatra, Vjahirevre, Bodmérre, Csecsenföldre, Fischerre, Giovannira, Goghra, Koszovóra</li>
     </ul>
@@ -531,7 +531,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
     <ul>
       <li>AUX: volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, lehetett</li>
       <li>AUX-Fin: volt, volna, lesz, lenne, voltak, lehet, legyen, lett, lehetett, vagyok</li>
-      <li>DET: egy, több, minden, néhány, sok, más, másik, többek, semmi, kevesebb</li>
+      <li>DET: egy, több, minden, néhány, sok, más, másik, semmi, többek, kevesebb</li>
       <li>VERB-Fin: kell, van, lehet, volt, kellene, került, nincs, vannak, kellett, kerül</li>
     </ul>
   </li>
@@ -727,9 +727,9 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: egyrészt, másrészt, olykor, Valamikor, máskor, némileg, valahol, Sokáig</li>
+      <li>ADV: több, egyrészt, másrészt, olykor, Valamikor, máskor, némileg, valahol, Sokáig</li>
       <li>DET: több, egyik, néhány, sok, más, másik, többek, kevesebb, mindkét, sokat</li>
-      <li>PRON: egyik, néhány, más, másik, valaki, mások, egyebek, mást, egyéb, ki</li>
+      <li>PRON: egyik, néhány, többek, más, másik, valaki, mások, egyebek, mást, egyéb</li>
     </ul>
   </li>
 </ul>
@@ -797,7 +797,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 <ul>
   <li>Card
     <ul>
-      <li>NUM: két, milliárd, millió, egy, három, több, ezer, négy, 30, 10</li>
+      <li>NUM: két, milliárd, millió, egy, három, ezer, négy, 30, 10, hat</li>
     </ul>
   </li>
 </ul>
@@ -1039,5 +1039,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 20 relation subtypes: <a>advmod:locy</a>, <a>advmod:mode</a>, <a>advmod:que</a>, <a>advmod:tfrom</a>, <a>advmod:tlocy</a>, <a>advmod:to</a>, <a>advmod:tto</a>, <a>amod:att</a>, <a>amod:attlvc</a>, <a>ccomp:obj</a>, <a>ccomp:obl</a>, <a>ccomp:pred</a>, <a>compound:preverb</a>, <a>flat:name</a>, <a>nmod:att</a>, <a>nmod:attlvc</a>, <a>nmod:obl</a>, <a>nsubj:lvc</a>, <a>obj:lvc</a>, <a>obl:lvc</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>amod</a>, <a>flat</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>reparandum</a></li>
 </ul>

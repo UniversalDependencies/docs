@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (946; 87% of non-empty `Definite`): <em>det, han, de, sig, hans, jag, sin, den, hon, sina</em>
 * `Ind` (145; 13% of non-empty `Definite`): <em>vad, mer, vilket, en, vilka, alla, ett, mycket, många, någon</em>
-* `EMPTY` (245): <em>som, My, alla, you, 'Ya, Her, Me</em>
+* `EMPTY` (247): <em>som, My, alla, you, 'Ya, Her, Me</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -92,7 +92,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 7 <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 100%), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 100%), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (7; 100%).
 
 `VERB` tokens may have the following values of `Definite`:
 
@@ -127,12 +127,12 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="sv_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (824; 70%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (818; 86%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (369; 56%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (373; 56%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (205; 88%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (51; 64%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (29; 64%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (27; 82%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (25; 69%),
+<tt>PRON --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (23; 55%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-det.html">det</a></tt>]--> DET</tt> (21; 68%),
-<tt>PRON --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (20; 51%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (19; 63%).
+<tt>NOUN --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (18; 62%).
 

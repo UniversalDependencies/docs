@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Dat` (23; 96% of non-empty `Case`): <em>aima, tãma, wama, dama, wasima, ĩma, ĩĩsima</em>
 * `Ins` (1; 4% of non-empty `Case`): <em>asina</em>
-* `EMPTY` (104): <em>wa, wahã, wanorĩhã, õhã, aihini, ni'wa, uburé, Taha, ahã, anorĩwa'wahã</em>
+* `EMPTY` (105): <em>wa, wahã, hã, õhã, aihini, ni'wa, uburé, Taha, ahã, anorĩwa'wahã</em>
 
 ### `ADP`
 

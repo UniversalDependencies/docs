@@ -23,7 +23,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (7; 100% of non-empty `Polarity`): <em>õ</em>
-* `EMPTY` (314): <em>za'ra, hã, e, ma, za, norĩ, õ, tô, norĩhã, aba</em>
+* `EMPTY` (315): <em>hã, za'ra, e, ma, za, norĩ, õ, tô, aba, norĩhã</em>
 
 ### `ADV`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>õ, mare</em>
-* `EMPTY` (106): <em>duré, zéma, wei, apö, duréi, oto, si, ahömhö, mararé, pese</em>
+* `EMPTY` (106): <em>duré, zéma, sa'ẽtẽ, wei, apö, duréi, oto, si, ahömhö, mararé</em>
 
 ### `NOUN`
 

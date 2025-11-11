@@ -9,26 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-21790 tokens (10%) have a non-empty value of `Definite`.
+21698 tokens (10%) have a non-empty value of `Definite`.
 18 types (0%) occur at least once with a non-empty value of `Definite`.
 3 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (21790; 10% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (21698; 10% instances).
 
 ### `DET`
 
-21790 <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
+21698 <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="nl_alpino-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (21698; 100%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (17374; 80% of non-empty `Definite`): <em>de, het, der, 's, 't, des, den, dé</em>
-* `Ind` (4416; 20% of non-empty `Definite`): <em>een, 'n, en</em>
-* `EMPTY` (3433): <em>welke, deze, geen, dit, die, welk, alle, dat, enkele, veel</em>
+* `Def` (17361; 80% of non-empty `Definite`): <em>de, het, der, 's, 't, des, den, dé</em>
+* `Ind` (4337; 20% of non-empty `Definite`): <em>een, 'n, en</em>
+* `EMPTY` (3261): <em>welke, deze, geen, dit, welk, die, alle, dat, enkele, veel</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>DET --[<tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt>]--> DET</tt> (7; 70%),
 <tt>DET --[<tt><a href="nl_alpino-dep-conj.html">conj</a></tt>]--> DET</tt> (4; 100%),
-<tt>DET --[<tt><a href="nl_alpino-dep-flat.html">flat</a></tt>]--> DET</tt> (1; 100%),
-<tt>DET --[<tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt>]--> DET</tt> (3; 75%),
+<tt>DET --[<tt><a href="nl_alpino-dep-flat.html">flat</a></tt>]--> DET</tt> (3; 100%),
+<tt>DET --[<tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (2; 100%).
 

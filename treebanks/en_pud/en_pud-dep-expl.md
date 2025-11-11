@@ -11,9 +11,9 @@ This relation is universal.
 62 nodes (0%) are attached to their parents as `expl`.
 
 60 instances of `expl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75806451612903.
+Average distance between parent and child is 1.7741935483871.
 
-The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (40; 65% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (10; 16% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (40; 65% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (10; 16% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -69,7 +69,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
 2	There	there	PRON	EX	_	4	expl	4:expl	_
 3	will	will	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
-4	be	be	AUX	VB	VerbForm=Inf	0	root	0:root	_
+4	be	be	AUX	VB	VerbForm=Inf	19	ccomp	19:ccomp	_
 5	protests	protest	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 6	and	and	CCONJ	CC	_	8	cc	8:cc	_
 7	other	other	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
@@ -84,10 +84,10 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 16	"	"	PUNCT	''	_	4	punct	4:punct	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
 18	opposition	opposition	NOUN	NN	Number=Sing	19	nsubj	19:nsubj	_
-19	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	parataxis	4:parataxis	_
+19	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 20	El	El	PROPN	NNP	Number=Sing	21	compound	21:compound	_
 21	Mundo	Mundo	PROPN	NNP	Number=Sing	19	obj	19:obj	SpaceAfter=No
-22	.	.	PUNCT	.	_	4	punct	4:punct	_
+22	.	.	PUNCT	.	_	19	punct	19:punct	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-67 nodes (4%) are attached to their parents as `case`.
+66 nodes (4%) are attached to their parents as `case`.
 
-64 instances of `case` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11940298507463.
+64 instances of `case` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12121212121212.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (38; 57% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (24; 36% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `case`: <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (38; 58% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (24; 36% instances), <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt>-<tt><a href="xpg_kul-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

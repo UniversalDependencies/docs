@@ -71,7 +71,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
 2	halla	hallar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	solo	solo	ADJ	JJ	Gender=Masc|Number=Sing	2	xcomp	_	_
-4	frente	frente	NOUN	NN	Gender=Fem|Number=Sing	7	case	_	_
+4	frente	frente	NOUN	NN	ExtPos=ADP|Gender=Fem|Number=Sing	7	case	_	_
 5	a	a	ADP	INDT	_	4	fixed	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	público	público	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_

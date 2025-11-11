@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Elena Pascual, Daniel Zeman.
 
 Repository: [UD_Catalan-AnCora](https://github.com/UniversalDependencies/UD_Catalan-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY 4.0
 
@@ -512,7 +512,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Dem
     <ul>
-      <li>DET: aquest, aquesta, aquests, aquestes, aquell, aquells, aquella, aquelles, tal, tals</li>
+      <li>DET: aquest, aquesta, aquests, aquestes, el, aquell, aquells, aquella, la, aquelles</li>
       <li>PRON: això, aquest, aquesta, tal, allò, aquests, aquestes, aquells, aquell, aquelles</li>
     </ul>
   </li>
@@ -704,7 +704,46 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
     <ul>
       <li>ADP
         <ul>
-          <li>ADV: fins</li>
+          <li>ADP: a, des, en, pel, per, de, d', amb, pels, gràcies</li>
+          <li>ADV: juntament, fins, quant, entorn, enfront, enmig, prop, més, així, darrere</li>
+          <li>NOUN: respecte, cap, gràcies, arran, conjuntament, tret, llevat, referent, degut, fruit</li>
+          <li>PART: no</li>
+          <li>PRON: tot</li>
+          <li>SCONJ: com, si</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: junt</li>
+          <li>ADP: a, en, per, de, amb, d', in, pel</li>
+          <li>ADV: fins, així, més, prop, ben, enfront</li>
+          <li>CCONJ: ni, Mentre, O</li>
+          <li>DET: un, una, la</li>
+          <li>NOUN: sí, ara, tan, és, sens, Tant, avui, ben, hores, poc</li>
+          <li>PART: no</li>
+          <li>PRON: tot</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: a, de, en, d', des</li>
+          <li>ADV: així, juntament, ja, fins, enlloc, més</li>
+          <li>CCONJ: sinó, o, mentre, i</li>
+          <li>NOUN: és, alhora, conjuntament, Malgrat, això, bé, passant</li>
+          <li>PART: no</li>
+          <li>SCONJ: com</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADJ: igual</li>
+          <li>ADP: per, a, en, amb, de, des, pel</li>
+          <li>ADV: ja, encara, sempre, fins, així, només, Juntament, Quant, més</li>
+          <li>CCONJ: mentre, i, Ni, però</li>
+          <li>DET: tot, un, una</li>
+          <li>NOUN: malgrat, tal, cada, atès, ara, gràcies, lluny, És, Després, cas</li>
+          <li>PRON: tot</li>
+          <li>SCONJ: com, si, que, sempre</li>
         </ul>
       </li>
     </ul>
@@ -844,9 +883,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6449)</li>
+      <li>VERB-Fin--NOUN (6445)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (3)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (6)</li>
       <li>VERB-Fin--NOUN-ADP(des) (1)</li>
       <li>VERB-Fin--PRON (3569)</li>
       <li>VERB-Fin--PRON-ADP(a) (2)</li>
@@ -865,8 +904,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Acc,Dat (1)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN (2699)</li>
-      <li>VERB-Part--NOUN-ADP(de) (1)</li>
+      <li>VERB-Part--NOUN (2697)</li>
+      <li>VERB-Part--NOUN-ADP(de) (2)</li>
       <li>VERB-Part--NOUN-ADP(en) (1)</li>
       <li>VERB-Part--PRON (881)</li>
       <li>VERB-Part--PRON-Nom (9)</li>
@@ -877,8 +916,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6247)</li>
+      <li>VERB-Fin--NOUN (6246)</li>
       <li>VERB-Fin--NOUN-ADP(a) (271)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--PRON (1113)</li>
       <li>VERB-Fin--PRON-ADP(a) (31)</li>
       <li>VERB-Fin--PRON-Acc (464)</li>
@@ -896,8 +936,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Dat (11)</li>
       <li>VERB-Ger--PRON-Gen (2)</li>
       <li>VERB-Ger--PRON-Loc (1)</li>
-      <li>VERB-Inf--NOUN (6704)</li>
+      <li>VERB-Inf--NOUN (6703)</li>
       <li>VERB-Inf--NOUN-ADP(a) (258)</li>
+      <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--PRON (463)</li>
       <li>VERB-Inf--PRON-ADP(a) (16)</li>
       <li>VERB-Inf--PRON-Acc (523)</li>
@@ -906,8 +947,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (207)</li>
       <li>VERB-Inf--PRON-Gen (96)</li>
       <li>VERB-Inf--PRON-Loc (142)</li>
-      <li>VERB-Part--NOUN (2038)</li>
+      <li>VERB-Part--NOUN (2037)</li>
       <li>VERB-Part--NOUN-ADP(a) (131)</li>
+      <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--PRON (284)</li>
       <li>VERB-Part--PRON-ADP(a) (8)</li>
       <li>VERB-Part--PRON-Acc (124)</li>

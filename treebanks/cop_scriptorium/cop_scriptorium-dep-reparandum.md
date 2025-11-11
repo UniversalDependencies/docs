@@ -25,14 +25,14 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_
 2	ⲛⲧⲉⲣ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	4	aux	_	Orig=ⲛ̅ⲧⲉⲣ
 3	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-4	ϩⲱⲛ	ϩⲱⲛ	VERB	V	VerbForm=Fin	11	advcl	_	_
+4	ϩⲱⲛ	ϩⲱⲛ	VERB	V	Mood=Ind|VerbForm=Fin	11	advcl	_	_
 5	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	4	advmod	_	_
 6	ⲉⲣⲟ	ⲉ	ADP	PREP	_	7	case	_	_
 7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 8	·	·	PUNCT	PUNCT	_	4	punct	_	_
 9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
 10	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
-11	ⲕⲱⲗϩ	ⲕⲱⲗϩ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲕⲱⲗϩ̅
+11	ⲕⲱⲗϩ	ⲕⲱⲗϩ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	Orig=ⲕⲱⲗϩ̅
 12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
 13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(object
 14	ⲣⲟ	ⲣⲟ	NOUN	N	_	11	obl	_	Entity=object)
@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 24	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	27	cc	_	_
 25	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	27	aux	_	Orig=ⲙ̅ⲡⲉ
 26	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	27	nsubj	_	Entity=(person)
-27	ⲣⲟⲩⲱ	ⲣⲟⲩⲱ	VERB	V	VerbForm=Fin	11	conj	_	MSeg=ⲣ-ⲟⲩⲱ|Orig=ⲣ̅ⲟⲩⲱ
+27	ⲣⲟⲩⲱ	ⲣⲟⲩⲱ	VERB	V	Mood=Ind|VerbForm=Fin	11	conj	_	MSeg=ⲣ-ⲟⲩⲱ|Orig=ⲣ̅ⲟⲩⲱ
 28	ⲛⲁ	ⲛⲁ	ADP	PREP	_	29	case	_	_
 29	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	27	obl	_	_
 30	·	·	PUNCT	PUNCT	_	11	punct	_	_
@@ -62,7 +62,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 16 reparandum	color:blue
-1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲉ
+1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	Orig=Ⲡⲉϫⲉ
 2	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	1	nsubj	_	Entity=(person-John_Calybite)|OrigLang=heb
 3	·	·	PUNCT	PUNCT	_	10	punct	_	_
 4	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
@@ -103,14 +103,14 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(person
 7	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	9	nsubj	_	Entity=person)
 8	ⲛⲁ	ⲛⲁ	AUX	FUT	_	9	aux	_	_
-9	ϩⲟϫϩϫ	ϩⲟϫϩϫ	VERB	V	VerbForm=Fin	4	acl:relcl	_	Orig=ϩⲟϫ︤ϩ︥ϫ
+9	ϩⲟϫϩϫ	ϩⲟϫϩϫ	VERB	V	Mood=Ind|VerbForm=Fin	4	acl:relcl	_	Orig=ϩⲟϫ︤ϩ︥ϫ
 10	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	9	advmod	_	_
 11	ϩⲓⲧⲟⲟⲧ	ϩⲓⲧⲛ	ADP	PREP	_	12	case	_	_
 12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obl	_	Entity=person)
 13	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	16	cc	_	_
 14	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	16	aux	_	Orig=ⲛ︤
 15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Orig=ϥ︥
-16	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	VerbForm=Fin	9	conj	_	_
+16	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	Mood=Ind|VerbForm=Fin	9	conj	_	_
 17	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	19	case	_	Orig=ⲛ̄ⲥⲁ
 18	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	Orig=ⲑ
 19	ϩⲉ	ϩⲉ	NOUN	N	_	16	obl	_	Orig=ⲉ
@@ -133,7 +133,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 36	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	39	mark	_	_
 37	ⲁ	ⲁ	AUX	APST	_	39	aux	_	_
 38	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	nsubj	_	_
-39	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	VerbForm=Fin	33	acl:relcl	_	Orig=ⲕⲱⲧⲉ`
+39	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	Mood=Ind|VerbForm=Fin	33	acl:relcl	_	Orig=ⲕⲱⲧⲉ`
 40	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	42	case	_	Orig=ⲛ̄ⲥⲁ
 41	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	Orig=ⲑ
 42	ϩⲉ	ϩⲉ	NOUN	N	_	39	obl	_	Orig=ⲉ
@@ -148,7 +148,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 51	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	52	nmod:poss	_	Entity=(abstract
 52	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	44	obl	_	_
 53	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	54	mark	_	Orig=ⲉ
-54	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	52	acl:relcl	_	Entity=abstract)|Orig=ⲑⲟⲟⲩ
+54	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	52	acl:relcl	_	Entity=abstract)|Orig=ⲑⲟⲟⲩ
 55	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	57	case	_	OrigLang=grc
 56	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	57	det	_	Entity=(abstract
 57	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	44	obl	_	_
@@ -157,10 +157,10 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 60	ⲡⲣⲟⲫⲏⲧⲏⲥ	ⲡⲣⲟⲫⲏⲧⲏⲥ	NOUN	N	Foreign=Yes	57	nmod	_	Entity=person)abstract)event)|Orig=ⲡⲣⲟⲫⲏⲧⲏⲥ`|OrigLang=grc
 61	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	62	mark	_	_
 62	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	57	ccomp	_	_
-63	ⲡ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	62	cop	_	_
+63	ⲡ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	62	cop	_	_
 64	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	66	mark	_	_
 65	ⲛⲁ	ⲛⲁ	AUX	FUT	_	66	aux	_	_
-66	ϯ	ϯ	VERB	V	VerbForm=Fin	62	csubj	_	_
+66	ϯ	ϯ	VERB	V	Mood=Ind|VerbForm=Fin	62	csubj	_	_
 67	ⲛⲁ	ⲛⲁ	ADP	PREP	_	68	case	_	_
 68	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	66	obl	_	Orig=ⲓ̈
 69	ϩⲙ	ϩⲛ	ADP	PREP	_	71	case	_	Orig=ϩⲙ̄
@@ -170,21 +170,21 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 73	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	74	det	_	Entity=(place
 74	ⲙⲁ	ⲙⲁ	NOUN	N	_	66	obj	_	Orig=ⲙⲁ`
 75	ⲛ	ⲛ	ADP	PREP	_	76	case	_	Orig=ⲛ̄
-76	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	74	nmod	_	Entity=place)place)|Orig=ϣⲱⲡⲉ`
+76	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	Mood=Ind|VerbForm=Fin	74	nmod	_	Entity=place)place)|Orig=ϣⲱⲡⲉ`
 77	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	79	mark	_	_
 78	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	79	nsubj	_	_
-79	ⲟⲩⲏⲩ	ⲟⲩⲉ	VERB	VSTAT	VerbForm=Fin	74	acl:relcl	_	Orig=ⲟⲩⲏⲩ`
+79	ⲟⲩⲏⲩ	ⲟⲩⲉ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	74	acl:relcl	_	Orig=ⲟⲩⲏⲩ`
 80	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	82	aux	_	Orig=ⲛ̄
 81	ⲧⲁ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	82	nsubj	_	_
-82	ⲕⲱ	ⲕⲱ	VERB	V	VerbForm=Fin	66	advcl	_	_
+82	ⲕⲱ	ⲕⲱ	VERB	V	Mood=Ind|VerbForm=Fin	66	advcl	_	_
 83	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	84	case	_	Orig=ⲛ̄ⲥⲱ
 84	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	82	obl	_	Orig=ⲓ̈
 85	ⲙ	ⲛ	ADP	PREP	_	87	case	_	Orig=ⲙ̄
 86	ⲡⲉⲓ	ⲡⲉⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	87	det	_	Entity=(organization
 87	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	82	obj	_	Entity=organization)|Orig=ⲗⲁⲟⲥ`|OrigLang=grc
 88	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	90	aux	_	Orig=ⲛ̄
-89	ⲧⲁ	ⲁⲛⲟⲕ	PRON	PPERS	_	90	det	_	_
-90	ⲟⲩⲉ	ⲟⲩⲉ	VERB	V	VerbForm=Fin	82	advcl	_	Orig=ⲟⲩⲉ`
+89	ⲧⲁ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	90	nsubj	_	_
+90	ⲟⲩⲉ	ⲟⲩⲉ	VERB	V	Mood=Ind|VerbForm=Fin	82	advcl	_	Orig=ⲟⲩⲉ`
 91	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	93	case	_	_
 92	ⲙⲙⲟ	ⲛ	ADP	PREP	_	91	fixed	_	Orig=ⲙ̄
 93	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	90	obl	_	Orig=ⲙⲟⲟⲩ

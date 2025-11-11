@@ -22,8 +22,8 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 dep	color:blue
-1	განარჩევენ	არჩევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	0	root	_	Translit=ganarčʻeven
-2	წონით	წონა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	17	obl	_	Translit=conitʻ
+1	განარჩევენ	არჩევს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=ganarčʻeven
+2	წონით	წონა	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	1	obl	_	Translit=conitʻ
 3	(	(	PUNCT	F	PunctType=Brck	4	punct	_	SpaceAfter=No|Translit=(
 4	%-ში	%	SYM	_	_	2	appos	_	SpaceAfter=No|Translit=%-ši
 5	,	,	PUNCT	F	PunctType=Comm	6	punct	_	Translit=,
@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 21 dep	color:blue
-1	სინგაპურ	სინგაპური	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	6	obl	_	Translit=singapur
+1	სინგაპურ	სინგაპური	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	8	obl	_	Translit=singapur
 2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
 3	ისეთი	ისეთი	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	det	_	Translit=isetʻi
 4	მოწინავე	მოწინავე	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=mocinave
@@ -85,17 +85,17 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 10 9 dep	color:blue
 1	უკანასკნელი	უკანასკნელი	ADJ	Adj	Case=Gen|Number=Sing	2	amod	_	Translit=ukanaskneli
 2	სამეცნიერო	სამეცნიერო	ADJ	Adj	Case=Gen|Number=Sing	3	amod	_	Translit=samecʻniero
-3	მონაცემების	მონაცემი	VERB	VerbalAdj	Case=Gen|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Translit=monacʻemebis
+3	მონაცემების	მონაცემი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	4	nmod	_	Translit=monacʻemebis
 4	მიხედვით	მიხედვით	ADV	Adv	AdvType=Man	7	advmod	_	Translit=mixedvitʻ
 5	სამყაროს	სამყარო	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=samqaros
 6	ასაკი	ასაკი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	7	nsubj	_	Translit=asaki
-7	შეადგენს	ადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|Voice=Act	3	ccomp	_	Translit=šeadgens
+7	შეადგენს	ადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=šeadgens
 8	13,7	13,7	NUM	Num	NumForm=Digit|NumType=Card	10	nummod	_	SpaceAfter=No|Translit=13,7
 9	±	±	SYM	_	_	10	dep	_	SpaceAfter=No|Translit=±
 10	0,2	0,2	NUM	Num	NumForm=Digit|NumType=Card	12	nummod	_	Translit=0,2
-11	მილიარდ	მილიარდი	NUM	Num	Case=Dat|Number=Sing|NumType=Card	12	nummod	_	Translit=miliard
-12	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obl:tmod	_	SpaceAfter=No|Translit=cels
-13	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.
+11	მილიარდ	მილიარდი	NUM	Num	Case=Dat|NumType=Card	12	nummod	_	Translit=miliard
+12	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	7	obj	_	SpaceAfter=No|Translit=cels
+13	.	.	PUNCT	F	PunctType=Peri	7	punct	_	Translit=.
 
 ~~~
 

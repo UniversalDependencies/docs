@@ -80,7 +80,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 4	から	から	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=カラ,から,から,から,カラ,,,カラ,カラ,から
 5	解放する	解放する	VERB	動詞-一般-サ行変格	_	7	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=カイホウ;スル,解放;為る,解放;する,解放;する,カイホー;スル,;,;,カイホウ;スル,カイホウスル,解放する
 6	その	其の	DET	連体詞	_	7	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ソノ,其の,その,その,ソノ,,,ソノ,ソノ,其の
-7	一点	一点	NUM	名詞-数詞	_	9	compound	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=イチ;テン,一;点,一;点,一;点,イッ;テン,;,;,イチ;テン,イッテン,一点
+7	一点	一点	NUM	名詞-数詞	_	9	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=イチ;テン,一;点,一;点,一;点,イッ;テン,;,;,イチ;テン,イッテン,一点
 8	で	で	ADP	助詞-格助詞	_	7	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=デ,で,で,で,デ,,,デ,デ,で
 9	闘う	戦う	VERB	動詞-一般-五段-ワア行	_	10	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=タタカウ,戦う,闘う,闘う,タタカウ,,,タタカウ,タタカウ,戦う
 10	少年兵	少年兵	NOUN	名詞-普通名詞-一般	_	12	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ショウネン;ヘイ,少年;兵,少年;兵,少年;兵,ショーネン;ヘー,;,;,ショウネン;ヘイ,ショウネンヘイ,少年兵

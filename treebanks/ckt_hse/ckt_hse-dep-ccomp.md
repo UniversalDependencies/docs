@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 1	Ныԓейгым	_	VERB	_	_	0	root	0:root	Gloss=ST-идти-NP.1SG
 2	гыргочаткын	_	X	_	_	3	reparandum	3:reparandum	Gloss=FST
 3	гыргоча	_	ADV	_	_	1	advmod	1:advmod	Gloss=вверху
-4	ынӄэн	_	PRON	_	_	1	det	1:det	Gloss=DET
+4	ынӄэн	_	PRON	_	_	1	obl	1:obl	Gloss=DET
 5	нинэгитэйгым	_	VERB	_	_	1	parataxis	1:parataxis	Gloss=ST-INV-смотреть-NP.1SG
 6	эʼмитԓён	_	PRON	_	_	8	nmod	8:nmod	Gloss=который
 7	э	_	PART	_	_	6	advmod:emph	6:advmod:emph	Gloss=PTCL

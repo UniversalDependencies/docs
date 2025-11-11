@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="uk_parlamint-dep-flat.html">flat</a></tt>.
 There are also 4 other language-specific subtypes of `flat`: <tt><a href="uk_parlamint-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="uk_parlamint-dep-flat-name.html">flat:name</a></tt>, <tt><a href="uk_parlamint-dep-flat-range.html">flat:range</a></tt>, <tt><a href="uk_parlamint-dep-flat-title.html">flat:title</a></tt>.
 
-1 nodes (0%) are attached to their parents as `flat:repeat`.
+2 nodes (0%) are attached to their parents as `flat:repeat`.
 
-1 instances of `flat:repeat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.
+2 instances of `flat:repeat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.
 
-The following 1 pairs of parts of speech are connected with `flat:repeat`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:repeat`: <tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt>-<tt><a href="uk_parlamint-pos-VERB.html">VERB</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

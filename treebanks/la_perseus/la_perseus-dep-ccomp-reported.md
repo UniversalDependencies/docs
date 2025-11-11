@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `ccomp:reported`: <t
 8	ira	ira	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	conj	_	LId=ira1
 9	mota	moveo	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	17	advcl	_	LId=moveo1|TraditionalMood=Participium|TraditionalTense=Perfectum
 10	magis	magis	ADV	d--------	Degree=Cmp	8	advmod	_	LId=magis1
-11	dicti	dictum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	LId=dictum1
+11	dicti	dico	VERB	n-s---ng-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	13	acl	_	LId=dictum1
 12	sibi	sui	PRON	p-p---md-	Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	obl:arg	_	LId=sui1
 13	criminis	crimen	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	LId=crimen1
 14	utraque	uterque	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Con	16	det	_	LId=uter1

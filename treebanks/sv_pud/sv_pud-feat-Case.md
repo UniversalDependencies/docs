@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (125; 29% of non-empty `Case`): <em>sig, honom, dem, henne, oss, mig, dig, er, varandra</em>
 * `Nom` (302; 71% of non-empty `Case`): <em>han, de, jag, hon, vi, du, man, ni</em>
-* `EMPTY` (909): <em>som, det, hans, sin, den, sina, dess, deras, hennes, detta</em>
+* `EMPTY` (911): <em>som, det, hans, sin, den, sina, dess, deras, hennes, detta</em>
 
 <table>
   <tr><th>Paradigm <i>han</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -100,7 +100,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 7 <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 100%), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 100%), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (7; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -111,11 +111,11 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sv_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1145; 97%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (624; 95%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (630; 94%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (223; 95%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (216; 87%),
 <tt>PROPN --[<tt><a href="sv_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (173; 95%),
-<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (149; 91%),
+<tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (152; 90%),
 <tt>PROPN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (103; 93%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (80; 100%),
 <tt>PROPN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (65; 98%),

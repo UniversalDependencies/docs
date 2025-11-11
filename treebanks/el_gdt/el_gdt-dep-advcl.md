@@ -73,10 +73,10 @@ The following 19 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Θα	θα	AUX	AUX	_	2	aux	_	_
 2	αναφερθώ	αναφέρω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	σ	σε	ADP	ADP	_	5	case	_	_
-4	τη	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
+4	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	συνέχεια	συνέχεια	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
 6	σ	σε	ADP	ADP	_	8	case	_	_
-7	τους	ο	DET	DET	Case=Acc|Gender=Masc|Number=Plur	8	det	_	_
+7	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	τομείς	τομέας	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	_
 9	όπου	όπου	ADV	ADV	_	12	advmod	_	_
 10	δεν	δεν	PART	PART	_	12	advmod	_	_

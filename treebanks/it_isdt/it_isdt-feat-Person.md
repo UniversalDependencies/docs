@@ -87,7 +87,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (568; 12% of non-empty `Person`): <em>ci, mi, noi, io, me, ce, I, m'</em>
 * `2` (159; 3% of non-empty `Person`): <em>ti, vi, te, tu, voi, ve</em>
 * `3` (3932; 84% of non-empty `Person`): <em>si, lo, la, li, gli, lui, le, l', loro, se</em>
-* `EMPTY` (6652): <em>che, chi, cui, ne, qual, ci, quanto, c', quale, quello</em>
+* `EMPTY` (6651): <em>che, chi, cui, ne, qual, ci, quanto, c', quale, quello</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (42) occur only with one value of `Person`.
 

@@ -11,9 +11,9 @@ This relation is universal.
 20 nodes (12%) are attached to their parents as `root`.
 
 20 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+Average distance between parent and child is 2.85.
 
-The following 1 pairs of parts of speech are connected with `root`: -<tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (20; 100% instances).
+The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="ltg_cairo-pos-VERB.html">VERB</a></tt> (17; 85% instances), -<tt><a href="ltg_cairo-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), -<tt><a href="ltg_cairo-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), -<tt><a href="ltg_cairo-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -25,9 +25,44 @@ The following 1 pairs of parts of speech are connected with `root`: -<tt><a href
 1	Meitine	meitine	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	LvtbNodeId=a-ltg-Cairo-p1s1w1
 2	pīraksteja	raksteit	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p1s1w2
 3	viestuli	viestule	NOUN	ncfsa5	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	LvtbNodeId=a-ltg-Cairo-p1s1w3
-4	sovai	sova	PRON	ps0fsdn	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	5:det	LvtbNodeId=a-ltg-Cairo-p1s1w4
+4	sovai	sova	DET	ps0fsdn	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	det	5:det	LvtbNodeId=a-ltg-Cairo-p1s1w4
 5	draudzinei	draudzine	NOUN	ncfsd5	Case=Dat|Gender=Fem|Number=Sing	2	iobj	2:iobj	LvtbNodeId=a-ltg-Cairo-p1s1w5|SpaceAfter=No
 6	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-ltg-Cairo-p1s1w6
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 4 root	color:blue
+1	Muns	muns	DET	ps0msnn	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	2:det	LvtbNodeId=a-ltg-Cairo-p8s1w1
+2	tēte	tēte	NOUN	ncmsn5	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	LvtbNodeId=a-ltg-Cairo-p8s1w2
+3	ir	byut	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	LvtbNodeId=a-ltg-Cairo-p8s1w3
+4	foršuoks	foršs	ADJ	afmsnnc	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p8s1w4
+5	nakai	nakai	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-ltg-Cairo-p8s1w5
+6	tovejais	tovejs	DET	armsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	advcl	4:advcl:nakai	LvtbNodeId=a-ltg-Cairo-p8s1w6|SpaceAfter=No
+7	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-ltg-Cairo-p8s1w7
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 7 root	color:blue
+1	Voi	voi	PART	q	_	7	discourse	7:discourse	LvtbNodeId=a-ltg-Cairo-p10s1w1
+2	Igvasu	Igvasu	PROPN	np0000	_	7	nsubj	7:nsubj	LvtbNodeId=a-ltg-Cairo-p10s1w2
+3	ir	byut	AUX	vcnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	LvtbNodeId=a-ltg-Cairo-p10s1w3
+4	lela	lels	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	7:amod	LvtbNodeId=a-ltg-Cairo-p10s1w4
+5	voi	voi	CCONJ	cc	_	6	cc	6:cc	LvtbNodeId=a-ltg-Cairo-p10s1w5
+6	moza	mozs	ADJ	affsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	conj	4:conj|7:amod	LvtbNodeId=a-ltg-Cairo-p10s1w6
+7	vaļsts	vaļsts	NOUN	ncfsn6	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p10s1w7|SpaceAfter=No
+8	?	?	PUNCT	zs	_	7	punct	7:punct	LvtbNodeId=a-ltg-Cairo-p10s1w8
 
 ~~~
 

@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod	color:blue
 1	Periode	periode	NOUN	_	Number=Sing	7	nsubj	_	_
-2	tunggu	tunggu	VERB	_	Mood=Ind|Voice=Act	1	acl	_	_
+2	tunggu	tunggu	VERB	_	Voice=Act	1	acl	_	_
 3	saat	saat	NOUN	_	Number=Sing	1	nmod:tmod	_	_
 4	ini	ini	DET	_	PronType=Dem	3	det	_	_
 5	adalah	adalah	AUX	_	_	7	cop	_	_
@@ -41,7 +41,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 4 nummod	color:blue
 1	Maksimal	maksimal	ADJ	_	_	2	advmod	_	_
-2	diberikan	beri	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+2	diberikan	beri	VERB	_	Voice=Pass	0	root	_	_
 3	$	$	SYM	_	_	2	nsubj:pass	_	SpaceAfter=No
 4	5.000	5.000	NUM	_	NumType=Card	3	nummod	_	_
 5	per	per	ADP	_	_	6	case	_	_
@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	Dingin	Dingin	PROPN	_	_	1	flat:name	_	_
 4	2019	2019	NUM	_	NumType=Card	1	nummod	_	_
 5	akan	akan	AUX	_	_	6	aux	_	_
-6	diselenggarakan	selenggara	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+6	diselenggarakan	selenggara	VERB	_	Voice=Pass	0	root	_	_
 7	oleh	oleh	ADP	_	_	8	case	_	_
 8	Krasnoyarsk	Krasnoyarsk	PROPN	_	_	6	obl:agent	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_

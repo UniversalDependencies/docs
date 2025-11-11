@@ -47,9 +47,17 @@ Examples: <em>,, ., „, ), “, –, (, -, :, ;</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (12896; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (6782; 53% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3090; 24% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (920; 7% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (713; 6% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (567; 4% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (269; 2% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (230; 2% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (106; 1% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (104; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (53; 0% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt> (35; 0% instances), <tt><a href="lt_alksnis-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (6782; 53% instances), <tt><a href="lt_alksnis-pos-NOUN.html">NOUN</a></tt> (3090; 24% instances), <tt><a href="lt_alksnis-pos-X.html">X</a></tt> (920; 7% instances), <tt><a href="lt_alksnis-pos-ADJ.html">ADJ</a></tt> (711; 6% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (567; 4% instances), <tt><a href="lt_alksnis-pos-ADV.html">ADV</a></tt> (269; 2% instances), <tt><a href="lt_alksnis-pos-PROPN.html">PROPN</a></tt> (230; 2% instances), <tt><a href="lt_alksnis-pos-PRON.html">PRON</a></tt> (106; 1% instances), <tt><a href="lt_alksnis-pos-PART.html">PART</a></tt> (104; 1% instances), <tt><a href="lt_alksnis-pos-DET.html">DET</a></tt> (53; 0% instances), <tt><a href="lt_alksnis-pos-SYM.html">SYM</a></tt> (35; 0% instances), <tt><a href="lt_alksnis-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), <tt><a href="lt_alksnis-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="lt_alksnis-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="lt_alksnis-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-12896 (100%) `PUNCT` nodes are leaves.
+12895 (100%) `PUNCT` nodes are leaves.
 
-The highest child degree of a `PUNCT` node is 0.
+0 (0%) `PUNCT` nodes have one child.
+
+1 (0%) `PUNCT` nodes have two children.
+
+The highest child degree of a `PUNCT` node is 2.
+
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="lt_alksnis-dep-punct.html">punct</a></tt> (2; 100% instances)
+
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="lt_alksnis-pos-PUNCT.html">PUNCT</a></tt> (2; 100% instances)
 

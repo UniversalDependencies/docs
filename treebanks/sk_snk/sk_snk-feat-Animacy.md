@@ -182,7 +182,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 * `Anim` (212; 62% of non-empty `Animacy`): <em>bol, boli, nebol, býval, neboli</em>
 * `Inan` (129; 38% of non-empty `Animacy`): <em>bol, boli, neboli, nebol, bývali</em>
-* `EMPTY` (3382): <em>som, je, sme, by, bola, sú, bolo, bude, si, boli</em>
+* `EMPTY` (3657): <em>som, je, by, sme, bola, sú, bolo, bude, si, boli</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -224,7 +224,7 @@ The most frequent other feature values with which `ADV` and `Animacy` co-occurre
 `ADV` tokens may have the following values of `Animacy`:
 
 * `Inan` (34; 100% of non-empty `Animacy`): <em>raz, ráz, razy</em>
-* `EMPTY` (4410): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4374): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, nikdy, teraz</em>
 
 ## Relations with Agreement in `Animacy`
 

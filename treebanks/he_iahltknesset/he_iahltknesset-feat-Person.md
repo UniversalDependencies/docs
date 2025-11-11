@@ -50,8 +50,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>אני, י</td><td>ך</td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>אנחנו, נו</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>אני, י</td><td>את, ך</td><td>היא, ה</td></tr>
-  <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>נו, אנחנו</td><td></td><td>הן, ן</td></tr>
-  <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>ה</td></tr>
+  <tr><td><tt><tt><a href="he_iahltknesset-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>נו, אנחנו</td><td></td><td>הן, ן, ה</td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>אני, י, ני, נו</td><td>ך</td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltknesset-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>נו, אנחנו</td><td></td><td></td></tr>
 </table>
@@ -123,14 +122,14 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1497; 85%),
+<tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1496; 85%),
 <tt>VERB --[<tt><a href="he_iahltknesset-dep-conj.html">conj</a></tt>]--> VERB</tt> (639; 68%),
 <tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> PRON</tt> (45; 90%),
 <tt>VERB --[<tt><a href="he_iahltknesset-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (8; 62%),
 <tt>PRON --[<tt><a href="he_iahltknesset-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 78%),
 <tt>PRON --[<tt><a href="he_iahltknesset-dep-det.html">det</a></tt>]--> PRON</tt> (3; 75%),
 <tt>VERB --[<tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (3; 100%),
+<tt>PRON --[<tt><a href="he_iahltknesset-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (2; 67%),
 <tt>VERB --[<tt><a href="he_iahltknesset-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="he_iahltknesset-dep-expl.html">expl</a></tt>]--> PRON</tt> (2; 100%),
-<tt>VERB --[<tt><a href="he_iahltknesset-dep-list.html">list</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="he_iahltknesset-dep-expl.html">expl</a></tt>]--> PRON</tt> (2; 100%).
 

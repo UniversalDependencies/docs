@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲓ	ⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲓ	ⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲉ	ⲉ	ADP	PREP	_	6	case	_	_
 6	ⲙⲏⲣ	ⲙⲏⲣ	NOUN	N	_	4	obl	_	Entity=(place
 7	ⲉ	ⲉ	ADP	PREP	_	9	case	_	_
@@ -52,14 +52,14 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	ⲣⲏϯ	ⲣⲏϯ	NOUN	N	_	0	root	_	_
 4	ⲉⲧ	ⲉⲧⲉ	SCONJ	CREL	_	11	mark	_	_
 5	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
-6	ϯ	ⲡⲓ	DET	ART	_	7	det	_	Entity=(abstract
+6	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Entity=(abstract
 7	ⲙⲉⲧⲙⲉⲑⲣⲉ	ⲙⲉⲧⲙⲉⲑⲣⲉ	NOUN	N	_	11	nsubj	_	MSeg=ⲙⲉⲧ-ⲙⲉⲑⲣⲉ
 8	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	10	case	_	_
 9	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Entity=(person
 10	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	Foreign=Yes	7	nmod	_	Entity=person)abstract)|OrigLang=grc
-11	ⲧⲁϫⲣⲟ	ⲧⲁϫⲣⲟ	VERB	V	VerbForm=Fin	3	acl:relcl	_	_
+11	ⲧⲁϫⲣⲟ	ⲧⲁϫⲣⲟ	VERB	V	Mood=Ind|VerbForm=Fin	3	acl:relcl	_	_
 12	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	13	case	_	_
-13	ⲑⲏⲛⲟⲩ	ⲛⲑⲱⲧⲉⲛ	PRON	PPERO	_	11	obl	_	_
+13	ⲑⲏⲛⲟⲩ	ⲛⲑⲱⲧⲉⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	11	obl	_	_
 14	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
@@ -76,19 +76,19 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	Entity=(abstract
 4	ⲉⲧ	ⲉⲧⲉ	SCONJ	CREL	_	6	mark	_	Orig=ⲉ
 5	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Orig=ϯ
-6	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	3	acl:relcl	_	_
+6	ϫⲱ	ϫⲱ	VERB	V	Mood=Ind|VerbForm=Fin	3	acl:relcl	_	_
 7	ⲙⲙⲟ	ⲛ	ADP	PREP	_	8	case	_	_
 8	ⲥ	ⲛⲑⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 9	ⲛⲁ	ⲛⲁ	ADP	PREP	_	10	case	_	_
 10	ⲕ	ⲛⲑⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Entity=abstract)
-11	ⲧⲱⲛ	ⲧⲱⲟⲩⲛ	VERB	V	VerbForm=Fin	3	parataxis	_	_
+11	ⲧⲱⲛ	ⲧⲱⲟⲩⲛ	VERB	V	Mood=Imp|VerbForm=Fin	3	parataxis	_	_
 12	ⲕ	ⲛⲑⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
-13	ⲱⲗⲓ	ⲱⲗⲓ	VERB	V	VerbForm=Fin	11	conj	_	_
+13	ⲱⲗⲓ	ⲱⲗⲓ	VERB	V	Mood=Ind|VerbForm=Fin	11	conj	_	_
 14	ⲙ	ⲛ	ADP	PREP	_	16	case	_	_
 15	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	Entity=(object
 16	ϭⲗⲟϫ	ϭⲗⲟϫ	NOUN	N	_	13	obj	_	Entity=object)
 17	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	18	cc	_	_
-18	ⲙⲁϣⲉ	ϣⲉ	VERB	VIMP	VerbForm=Fin	11	conj	_	_
+18	ⲙⲁϣⲉ	ϣⲉ	VERB	VIMP	Mood=Imp|VerbForm=Fin	11	conj	_	_
 19	ⲛⲁ	ⲛⲁ	ADP	PREP	_	20	case	_	_
 20	ⲕ	ⲛⲑⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	obl	_	_
 21	ⲉ	ⲉ	ADP	PREP	_	23	case	_	_

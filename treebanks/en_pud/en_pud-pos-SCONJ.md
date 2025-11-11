@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `SCONJ`
 
-There are 32 `SCONJ` lemmas (1%), 32 `SCONJ` types (1%) and 288 `SCONJ` tokens (1%).
+There are 32 `SCONJ` lemmas (1%), 32 `SCONJ` types (1%) and 289 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>that, as, of, if, after, for, while, by, because, than</em>
 
 The 10 most frequent `SCONJ` types:  <em>that, as, of, if, after, for, while, by, because, than</em>
 
-The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 81, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 75, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 19), <em>as</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 104, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15), <em>of</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 599, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 21), <em>if</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 1), <em>after</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 27, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1), <em>for</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 127, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 13), <em>by</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 106, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2), <em>because</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 2), <em>than</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 9), <em>in</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 504, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 81, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 75, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 19), <em>as</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 104, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15), <em>of</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 599, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 21), <em>after</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 27, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1), <em>for</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 127, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 13), <em>by</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 106, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2), <em>because</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 2), <em>than</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 9), <em>in</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 504, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1), <em>before</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 75, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 69, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 12), <em>as</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 100, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 13), <em>of</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 597, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 21), <em>if</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 1), <em>after</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 18, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>for</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 121, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 13), <em>by</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 97, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2), <em>because</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 2), <em>than</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 9), <em>in</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 436, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 75, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 69, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 12), <em>as</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 100, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 13), <em>of</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 597, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 21), <em>after</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 18, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>for</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 121, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 13), <em>by</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 97, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2), <em>because</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 2), <em>than</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 9), <em>in</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 436, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1), <em>before</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2)
 
 
 * <em>that</em>
@@ -29,9 +29,6 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SC
 * <em>of</em>
   * <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 597: <em>They ’re usually artists who want to do a bunch <b>of</b> stuff .</em>
   * <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 21: <em>In addition , its process <b>of</b> gilding copper is technologically noteworthy .</em>
-* <em>if</em>
-  * <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 13: <em>In theory , <b>if</b> done right , it ’s un-detectable .</em>
-  * <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 1: <em>I looked at motocross and the more I looked , this one woman ’s face kept coming up , in photographs that looked as <b>if</b> they were from the 1970s .</em>
 * <em>after</em>
   * <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 18: <em>The United States freed Cuba ( <b>after</b> an occupation by the U.S. Army ) .</em>
   * <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 12: <em>Mr Osborne signed up with a US speakers agency <b>after</b> being sacked in July .</em>
@@ -54,10 +51,14 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SC
   * <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 436: <em>A witness told police that the victim had attacked the suspect <b>in</b> April .</em>
   * <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 6: <em>His skill <b>in</b> getting answers for taxpayers will be sorely missed .</em>
   * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1: <em>After these successes , he signed a contract with Team Telekom and moved <b>in</b> with his girlfriend in Merdingen in Südbaden , where he lived until 2002 .</em>
+* <em>before</em>
+  * <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 7: <em>A sacrococcygeal teratoma is a tumour that develops <b>before</b> birth and grows from a baby 's tailbone .</em>
+  * <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 5: <em>Wintour herself appears briefly , and is filmed putting her sunglasses on <b>before</b> being interviewed .</em>
+  * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2: <em>Shenzhen 's traffic police have opted for unconventional penalties <b>before</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.149901).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.151116).
 
 The 1st highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
 
@@ -65,30 +66,30 @@ The 2nd highest number of forms (1) was observed with the lemma “after”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “against”: <em>against</em>.
 
-`SCONJ` occurs with 1 features: <tt><a href="en_pud-feat-ExtPos.html">ExtPos</a></tt> (6; 2% instances)
+`SCONJ` occurs with 1 features: <tt><a href="en_pud-feat-ExtPos.html">ExtPos</a></tt> (5; 2% instances)
 
 `SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (282 tokens).
+The most frequent feature combination is `_` (284 tokens).
 Examples: <em>that, as, of, if, after, for, while, by, because, than</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="en_pud-dep-mark.html">mark</a></tt> (280; 97% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (5; 2% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (3; 1% instances)
+`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="en_pud-dep-mark.html">mark</a></tt> (281; 97% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (5; 2% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (3; 1% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (241; 84% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (19; 7% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (241; 83% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (20; 7% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances)
 
-281 (98%) `SCONJ` nodes are leaves.
+283 (98%) `SCONJ` nodes are leaves.
 
-6 (2%) `SCONJ` nodes have one child.
+5 (2%) `SCONJ` nodes have one child.
 
 1 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (7; 88% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (1; 13% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (6; 86% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (1; 14% instances)
 
-Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 50% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 25% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 13% instances)
+Children of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 57% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1; 14% instances)
 

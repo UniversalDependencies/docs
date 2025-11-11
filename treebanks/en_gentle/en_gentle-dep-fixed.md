@@ -51,7 +51,7 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	Entity=(3-person-giv:inact-sssss-cf1-1-ana)
 3	scarcely	scarcely	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
 4	more	more	ADV	RBR	Degree=Cmp|ExtPos=ADV	6	advmod	6:advmod	_
-5	than	than	ADP	IN	_	4	fixed	4:fixed	Discourse=adversative-antithesis:99->98:0:dm-than-717
+5	than	than	ADP	IN	_	4	fixed	4:fixed	Discourse=adversative-antithesis:99->98:0:dm-than-717-_
 6	muttered	mutter	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	MSeg=mutter-ed
 
 ~~~
@@ -63,7 +63,7 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 19 fixed	color:blue
-1	If	if	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:53->55:1:dm-if then-310,319|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if then:310,319:320-329:311-318
+1	If	if	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:53->55:1:dm-if then-310,319-_|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if then:310,319:320-329:311-318
 2	x	x	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	Entity=(47-abstract-giv:act-nnnnn-cf1*-1-coref)
 3	∈	∈	SYM	SYM	_	12	advcl	12:advcl:if	CxnElt=12:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|Entity=(47-abstract-giv:act-nnnnn-cf1*-1-coref
 4	S	S	NOUN	NN	Number=Sing	3	nmod:unmarked	3:nmod:unmarked	Entity=(3-abstract-giv:inact-sssss-cf4-1-coref)47)
@@ -76,7 +76,7 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 11	y	y	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Entity=(48-abstract-giv:act-nnnnn-cf2-1-coref)
 12	∈	∈	SYM	SYM	_	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=12:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|Entity=(48-abstract-giv:act-nnnnn-cf2-1-coref
 13	S	S	NOUN	NN	Number=Sing	12	nmod:unmarked	12:nmod:unmarked	Entity=(3-abstract-giv:act-sssss-cf4-1-coref)48)
-14	and	and	CCONJ	CC	_	16	cc	16:cc	Discourse=joint-list_m:56->55:0:dm-and-323|PDTB=Explicit:Expansion.Conjunction:and:323:319-322:324-329
+14	and	and	CCONJ	CC	_	16	cc	16:cc	Discourse=joint-list_m:56->55:0:dm-and-323-_|PDTB=Explicit:Expansion.Conjunction:and:323:319-322:324-329
 15	x	x	NOUN	NN	Number=Sing	16	nsubj	16:nsubj	Entity=(47-abstract-giv:act-nnnnn-cf1*-1-coref)
 16	∈	∈	SYM	SYM	_	12	conj	12:conj:and	Entity=(47-abstract-giv:act-nnnnn-cf1*-1-coref
 17	T	T	NOUN	NN	Number=Sing	16	nmod:unmarked	16:nmod:unmarked	Entity=(4-abstract-giv:act-sssss-cf3-1-coref)47)

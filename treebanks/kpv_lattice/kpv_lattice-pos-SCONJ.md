@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `SCONJ`
 
 There are 13 `SCONJ` lemmas (1%), 14 `SCONJ` types (0%) and 110 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>мый, кӧ, кӧть, мед, медым, быттьӧ, сӧмын, кор, да, мыйла</em>
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.076923 (the average of all parts of speech is 1.468725).
+The form / lemma ratio of `SCONJ` is 1.076923 (the average of all parts of speech is 1.476307).
 
 The 1st highest number of forms (2) was observed with the lemma “мед”: <em>мед, медысь</em>.
 

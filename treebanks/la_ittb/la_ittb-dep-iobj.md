@@ -8,61 +8,44 @@ udver: '2'
 
 This relation is universal.
 
-549 nodes (0%) are attached to their parents as `iobj`.
+6 nodes (0%) are attached to their parents as `iobj`.
 
-333 instances of `iobj` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.0327868852459.
+3 instances of `iobj` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (265; 48% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (241; 44% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (29; 5% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (4; 67% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2; 33% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 iobj	color:blue
+# visual-style 3 4 iobj	color:blue
+1	omnium	omnis	DET	C1|grn1|casK|gen3	Case=Gen|Gender=Neut|InflClass=IndEurI|Number=Plur|PronType=Tot	2	nmod	_	_
+2	artifex	artifex	NOUN	C1|grn1|casA|gen1	Case=Nom|Compound=Yes|Gender=Masc|InflClass=IndEurX|Number=Sing	3	nsubj	_	_
+3	docuit	doceo	VERB	K3|modA|tem4|gen6	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+4	me	ego	PRON	F1|grn1|casD|gen1	Case=Acc|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+5	sapientiam	sapientia	NOUN	A1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 iobj	color:blue
 1	et	et	CCONJ	O4	_	3	cc	_	_
-2	hoc	hic	PRON	F1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	3	iobj	_	_
-3	dicimus	dico	VERB	N3|modA|tem1|gen7	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	xcomp	_	SpaceAfter=No
-5	.	.	PUNCT	Punc	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 iobj	color:blue
-1	huic	hic	PRON	F1|grn1|casC|gen2	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
-2	etiam	etiam	ADV	O4|vgr1	_	5	advmod:emph	_	_
-3	veritati	veritas	NOUN	C1|grn1|casC|gen2|vgr1	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	iobj	_	_
-4	sacra	sacer	ADJ	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-5	scriptura	scriptura	NOUN	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	nsubj	_	_
-6	testimonium	testimonium	NOUN	B1|grn1|casD|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	obj	_	_
-7	perhibet	perhibeo	VERB	K3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	Punc	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 iobj	color:blue
-1	ex	ex	ADP	S4|vgr2	AdpType=Prep	2	case	_	_
-2	quo	qui	PRON	F1|grn1|casF|gen3	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Rel	3	obl	_	_
-3	patet	pateo	VERB	K3|modA|tem1|gen6	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	necessitas	necessitas	NOUN	C1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nsubj	_	_
-5	plura	multus	ADJ	C1|grn2|casM|gen3	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur	6	amod	_	_
-6	nomina	nomen	NOUN	C1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	8	obj	_	_
-7	deo	deus	PROPN	F1|grn1|casC|gen1	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	iobj	_	_
-8	dandi	do	VERB	J2|modE|grp1|casB	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Ger|Voice=Act	4	acl	_	SpaceAfter=No
+2	in	in	ADP	S4	_	3	case	_	_
+3	psalmo	psalmus	NOUN	B1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	6	punct	_	_
+5	qui	qui	PRON	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	6	nsubj	_	_
+6	docet	doceo	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+7	hominem	homo	NOUN	C1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	6	iobj	_	_
+8	scientiam	scientia	NOUN	A1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~

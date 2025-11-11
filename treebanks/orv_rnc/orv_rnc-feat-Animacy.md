@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (982; 100% of non-empty `Animacy`): <em>людей, князя, сына, царя, игумена, Бога, брата, крестьян, человека, государя</em>
-* `EMPTY` (36805): <em>день, г., чети, государь, году, князь, государю, людей, князя, весу</em>
+* `EMPTY` (36804): <em>день, г., чети, государь, году, князь, государю, людей, князя, весу</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (246) occur only with one value of `Animacy`.
 
@@ -63,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (320; 100% of non-empty `Animacy`): <em>великого, Донскихъ, боярского, бедных, божия, даурскихъ, святых, станичныхъ, Казанских, Казанского</em>
 * `Inan` (1; 0% of non-empty `Animacy`): <em>третіи</em>
-* `EMPTY` (13229): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, 178-г(о), государевы</em>
+* `EMPTY` (13230): <em>великого, великому, великий, великии, государеву, государева, оржанои, пречистые, 178-г(о), государевы</em>
 
 <table>
   <tr><th>Paradigm <i>третий</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 `VERB` tokens may have the following values of `Animacy`:
 
 * `Anim` (42; 100% of non-empty `Animacy`): <em>битого, даново, живущихъ, пребывающаго, рожде(н)наго, бесѣдующа, благоугодивших, боящихся, взятыхъ, водимых</em>
-* `EMPTY` (14810): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
+* `EMPTY` (14811): <em>смерено, взято, велел, пожаловал, дал, писал, сказал, велѣлъ, принето, послал</em>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (32) occur only with one value of `Animacy`.
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 `AUX` tokens may have the following values of `Animacy`:
 
 * `Anim` (1; 100% of non-empty `Animacy`): <em>бывша</em>
-* `EMPTY` (1472): <em>бы, было, будет, есть, были, есми, бысть, б, будетъ, былъ</em>
+* `EMPTY` (1471): <em>бы, было, будет, есть, были, есми, бысть, б, будетъ, былъ</em>
 
 ## Relations with Agreement in `Animacy`
 

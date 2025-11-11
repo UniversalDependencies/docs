@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 18373 tokens (1%) have a non-empty value of `Poss`.
 61 types (0%) occur at least once with a non-empty value of `Poss`.
-7 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+6 lemmas (0%) occur at least once with a non-empty value of `Poss`.
 The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (18373; 1% instances).
 
 ### `DET`

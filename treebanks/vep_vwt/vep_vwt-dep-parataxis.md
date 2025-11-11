@@ -29,14 +29,14 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	–	–	PUNCT	_	_	7	punct	_	_
 6	irdal	irdal	ADV	_	_	7	advmod	_	_
 7	vändaba	väta	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
-8	lapsed	laps'	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
+8	lapsed	lapsʼ	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
 9	,	,	PUNCT	_	_	11	punct	_	_
 10	lehmäižed	lehmäine	NOUN	_	Case=Nom|Number=Plur	11	nsubj	_	_
 11	käveleba	kävelta	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
-12	der'ounadme	deroun	NOUN	_	Case=Ade|Number=Sing	11	obl	_	CorrectCase=Pro
+12	derʼounadme	deroun	NOUN	_	Case=Ade|Number=Sing	11	obl	_	CorrectCase=Pro
 13	,	,	PUNCT	_	_	16	punct	_	_
 14	linmaiš	linma	NOUN	_	Case=Ine|Number=Plur	16	obl	_	_
-15	pertidenno	pert'	NOUN	_	Case=Com|Number=Plur	16	obl	_	CorrectCase=Apr
+15	pertidenno	pertʼ	NOUN	_	Case=Com|Number=Plur	16	obl	_	CorrectCase=Apr
 16	radaba	rata	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
 17	tägälaižed	tägälaine	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
 18	eläjad	eläi	NOUN	_	Case=Nom|Number=Plur	16	nsubj	_	_
@@ -96,7 +96,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 8	minä	minä	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	pätin	pätta	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
 10	tehta	tehta	VERB	_	VerbForm=Inf	9	xcomp	_	_
-11	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing	10	obj	_	_
+11	midä-se	mi-se	PRON	_	Case=Par|Clitic=Se|Number=Sing|PronType=Ind	10	obj	_	_
 12	,	,	PUNCT	_	_	16	punct	_	_
 13	ka	ka	ADV	_	_	16	advmod	_	_
 14	minei	minä	PRON	_	Case=All|Number=Sing|Person=1|PronType=Prs	16	obl	_	_

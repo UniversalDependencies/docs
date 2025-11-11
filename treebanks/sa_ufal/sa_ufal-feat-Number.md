@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 
-1112 tokens (60%) have a non-empty value of `Number`.
-789 types (74%) occur at least once with a non-empty value of `Number`.
+1113 tokens (60%) have a non-empty value of `Number`.
+790 types (74%) occur at least once with a non-empty value of `Number`.
 564 lemmas (73%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (436; 24% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (260; 14% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (169; 9% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (78; 4% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (72; 4% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (65; 4% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sa_ufal-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="sa_ufal-pos-NOUN.html">NOUN</a></tt> (436; 24% instances), <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> (260; 14% instances), <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> (170; 9% instances), <tt><a href="sa_ufal-pos-ADJ.html">ADJ</a></tt> (78; 4% instances), <tt><a href="sa_ufal-pos-PROPN.html">PROPN</a></tt> (72; 4% instances), <tt><a href="sa_ufal-pos-DET.html">DET</a></tt> (65; 4% instances), <tt><a href="sa_ufal-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="sa_ufal-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="sa_ufal-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sa_ufal-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 260 <tt><a href="sa_ufal-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (162; 62%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (162; 62%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (162; 62%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (135; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (162; 62%), <tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (162; 62%), <tt><a href="sa_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (162; 62%), <tt><a href="sa_ufal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (134; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -61,16 +61,16 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-169 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `Number`.
+170 <tt><a href="sa_ufal-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (103; 61%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (102; 60%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Dual` (4; 2% of non-empty `Number`): तौ, आवयोः, तयोर्
 * `Plur` (18; 11% of non-empty `Number`): एतान्, अस्माकम्, अस्मत्, अस्माभिः, एते, एतेषां, एतेषाम्, तानि, तान्, ते
-* `Sing` (147; 87% of non-empty `Number`): अहम्, तत्, तस्य, मम, किम्, स, सः, भवान्, एतत्, मया
-* `EMPTY` (10): अस्मत्, त्वत्, तत्, भवत्, मत्, मद्, मया, सर्व
+* `Sing` (148; 87% of non-empty `Number`): अहम्, तत्, तस्य, मम, किम्, स, सः, भवान्, एतत्, मया
+* `EMPTY` (9): अस्मत्, तत्, त्वत्, भवत्, मत्, मद्, मया, सर्व
 
 <table>
   <tr><th>Paradigm <i>तद्</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -87,8 +87,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td>तेषाम्</td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>तेन</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>तया</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td>तौ</td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td>तौ</td><td></td></tr>
+  <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td>तौ</td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>स, सः, सह्</td><td></td><td>ते</td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>सा</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sa_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sa_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sa_ufal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>तत्</td><td></td><td></td></tr>
@@ -211,7 +211,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sa_ufal-dep-det.html">det</a></tt>]--> DET</tt> (46; 92%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (46; 98%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-obj.html">obj</a></tt>]--> NOUN</tt> (38; 57%),
-<tt>NOUN --[<tt><a href="sa_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (35; 59%),
+<tt>NOUN --[<tt><a href="sa_ufal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (35; 58%),
 <tt>NOUN --[<tt><a href="sa_ufal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (23; 74%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (22; 100%),
 <tt>VERB --[<tt><a href="sa_ufal-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (17; 94%),

@@ -11,9 +11,9 @@ This relation is universal.
 2253 nodes (7%) are attached to their parents as `mark`.
 
 2253 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.5410563692854.
+Average distance between parent and child is 2.54061251664447.
 
-The following 21 pairs of parts of speech are connected with `mark`: <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (1639; 73% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (264; 12% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (128; 6% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (77; 3% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (32; 1% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (28; 1% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (26; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (14; 1% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `mark`: <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (1645; 73% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (260; 12% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (126; 6% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (78; 3% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (32; 1% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (27; 1% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (26; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt>-<tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,12 +31,12 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 7	ⲣⲓⲣ	ⲣⲓⲣ	NOUN	N	_	4	nmod	_	Entity=animal)
 8	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
 9	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-10	ⲟϣ	ⲁϣⲁⲓ	VERB	VSTAT	VerbForm=Fin	4	acl:relcl	_	_
+10	ⲟϣ	ⲁϣⲁⲓ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	4	acl:relcl	_	_
 11	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	10	advmod	_	_
-12	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	2	cop	_	_
+12	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	_
 13	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	15	mark	_	_
 14	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	ⲙⲟⲛⲓ	ⲙⲟⲛⲓ	VERB	V	VerbForm=Fin	4	acl:relcl	_	_
+15	ⲙⲟⲛⲓ	ⲙⲟⲛⲓ	VERB	V	Mood=Ind|VerbForm=Fin	4	acl:relcl	_	_
 16	ϧⲁⲧⲉⲛ	ϧⲁⲧⲉⲛ	ADP	PREP	_	18	case	_	_
 17	ⲡⲓ	ⲡⲓ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Entity=(place
 18	ⲧⲱⲟⲩ	ⲧⲱⲟⲩ	NOUN	N	_	15	obl	_	Entity=place)
@@ -53,17 +53,17 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 1	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-4	ⲉⲣ	ⲓⲣⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+4	ⲉⲣ	ⲓⲣⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ϩⲏⲧ	ϩⲏ	NOUN	N	_	4	obj	_	_
 6	ⲥ	ⲛⲑⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 7	ⲛ	ⲛ	PART	PREP	_	8	mark	_	_
-8	ϯϩⲟ	ϯϩⲟ	VERB	V	VerbForm=Fin	4	xcomp	_	MSeg=ϯ-ϩⲟ
+8	ϯϩⲟ	ϯϩⲟ	VERB	V	Mood=Ind|VerbForm=Fin	4	xcomp	_	MSeg=ϯ-ϩⲟ
 9	ⲉⲣⲟ	ⲉ	ADP	PREP	_	10	case	_	_
 10	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	14	mark	_	_
 12	ⲛⲧⲉ	ⲛⲧⲉ	AUX	ACONJ	_	14	aux	_	_
 13	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	ϣⲉ	ϣⲉ	VERB	V	VerbForm=Fin	8	ccomp	_	_
+14	ϣⲉ	ϣⲉ	VERB	V	Mood=Ind|VerbForm=Fin	8	ccomp	_	_
 15	ⲛⲁ	ⲛⲁ	ADP	PREP	_	16	case	_	_
 16	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
 17	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	20	case	_	_
@@ -86,7 +86,7 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
 5	ⲡⲓ	ⲡⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Entity=(time
 6	ⲥⲁⲃⲃⲁⲧⲟⲛ	ⲥⲁⲃⲃⲁⲧⲟⲛ	NOUN	N	Foreign=Yes	3	nmod	_	Entity=time)person)|OrigLang=heb
-7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	3	cop	_	_
+7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
 8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Entity=(person
 9	ϣⲏⲣⲓ	ϣⲏⲣⲓ	NOUN	N	_	3	nsubj	_	_
 10	ⲙ	ⲛ	ADP	PREP	_	12	case	_	_

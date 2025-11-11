@@ -27,9 +27,9 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 3	pii	pii	INTJ	Interj	_	2	fixed	_	_
 4	pii	pii	INTJ	Interj	_	2	fixed	_	_
 5	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg2,Nom
-6	piijžik	piijjâd	VERB	V	Mood=Pot|Number=Sing|Person=2|Typo=Yes	0	root	_	Correctform=piijžiǩ|GTtags=Pot,Sg2,Err/Orth-k-kh
+6	piijžik	piijjâd	VERB	V	Mood=Pot|Number=Sing|Person=2|Typo=Yes|VerbForm=Fin	0	root	_	Correctform=piijžiǩ|GTtags=Pot,Sg2,Err/Orth-k-kh
 7	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg1,Nom
-8	roʹttjam	roʹttjed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Sg1|SpaceAfter=No
+8	roʹttjam	roʹttjed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	GTtags=Ind,Prs,Sg1|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
 10	”	”	PUNCT	PUNCT	_	6	punct	_	GTtags=RIGHT
 
@@ -44,13 +44,13 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 8 9 fixed	color:blue
 1	Rââst	rââst	ADP	Pr	AdpType=Prep	2	case	_	_
 2	peästtõõǥǥ	peästtõk	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc,@OBJ>
-3	čõõʹcǩi	čâʹcǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+3	čõõʹcǩi	čâʹcǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	nsubj	_	GTtags=Dem,Sg,Nom
-6	vuõʹlji	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt,Sg3
+6	vuõʹlji	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	GTtags=Ind,Prt,Sg3
 7	eʹpet	eʹpet	ADV	Adv	AdvType=Tim	6	advmod	_	GTtags=Sem/Time,Sem/Time,@<ADVL
 8	koozz	koozz	ADV	Adv	Case=Ill|ExtPos=ADV	6	advmod	_	GTtags=Sem/Plc,Ill,@<ADVL
-9	leežž	leeʹd	VERB	V	Mood=Pot|Number=Sing|Person=3	8	fixed	_	GTtags=Pot,Sg3|SpaceAfter=No
+9	leežž	leeʹd	VERB	V	Mood=Pot|Number=Sing|Person=3|VerbForm=Fin	8	fixed	_	GTtags=Pot,Sg3|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
@@ -63,13 +63,13 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
 1	Mii	mii	PRON	Pron	Case=Nom|ExtPos=PRON|Number=Sing|PronType=Rel	6	nsubj	_	GTtags=Rel,Sg,Nom
-2	leežž	leeʹd	VERB	V	Mood=Pot|Number=Sing|Person=3	1	fixed	_	GTtags=Pot,Sg3
+2	leežž	leeʹd	VERB	V	Mood=Pot|Number=Sing|Person=3|VerbForm=Fin	1	fixed	_	GTtags=Pot,Sg3
 3	nåkkam	nåkkam	ADJ	A	_	4	amod	_	GTtags=Attr
 4	peästtõõǥǥid	peästtõk	NOUN	N	Case=Acc|Number=Plur	6	obj	_	GTtags=Pl,Acc
 5	koozz-a	koozz	ADV	Adv	Case=Ill|Clitic=QstA|PartType=Int	6	advmod	_	GTtags=Sem/Plc,Ill,Qst/a
-6	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+6	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	_
-8	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+8	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~

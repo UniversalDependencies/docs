@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 7 discourse	color:blue
 1	É	é	SCONJ	_	_	9	discourse	_	_
-2	a	a	ADP	_	_	6	case	_	MWEPOS=ADP
+2	a	a	ADP	_	ExtPos=ADP	6	case	_	_
 3	partir	partir	VERB	_	VerbForm=Inf	2	fixed	_	_
 4	de	de	ADP	_	_	2	fixed	_	_
 5	esses	esse	DET	_	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 6	duas	dois	NUM	_	NumType=Card	7	nummod	_	_
 7	fases	fase	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
-8	é	ser	AUX	_	_	11	discourse	_	MWEPOS=SCONJ
+8	é	ser	AUX	_	ExtPos=SCONJ	11	discourse	_	_
 9	que	que	SCONJ	_	_	8	fixed	_	_
 10	se	se	PRON	_	PronType=Prs	11	expl:pass	_	_
 11	adiciona	adicionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Se=pass
@@ -74,7 +74,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 1 discourse	color:blue
 1	É	é	SCONJ	_	_	9	discourse	_	_
-2	a	a	ADP	_	_	6	case	_	MWEPOS=ADP
+2	a	a	ADP	_	ExtPos=ADP	6	case	_	_
 3	partir	partir	VERB	_	VerbForm=Inf	2	fixed	_	_
 4	de	de	ADP	_	_	2	fixed	_	_
 5	esses	esse	DET	_	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_

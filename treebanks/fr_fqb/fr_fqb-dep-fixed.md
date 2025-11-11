@@ -8,53 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-161 nodes (1%) are attached to their parents as `fixed`.
+121 nodes (1%) are attached to their parents as `fixed`.
 
-161 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.50310559006211.
+121 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38842975206612.
 
-The following 20 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (32; 20% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (32; 20% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (30; 19% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (28; 17% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (6; 4% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 fixed	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1	2	nsubj	_	_
-2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	partir	partir	VERB	_	VerbForm=Inf	2	xcomp	_	_
-4	en	en	ADP	_	_	5	case	_	_
-5	stage	stage	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
-6	en	en	ADP	_	_	7	case	_	_
-7	France	France	PROPN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
-8	ou	ou	CCONJ	_	_	9	cc	_	_
-9	à	à_l'étranger	ADP	_	ExtPos=ADV	7	conj	_	_
-10	l'	_	DET	_	_	9	fixed	_	SpaceAfter=No
-11	étranger	_	NOUN	_	_	9	fixed	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 fixed	color:blue
-1	Quelles	quel	DET	_	Gender=Fem|Number=Plur|PronType=Int	2	det	_	_
-2	pièces	pièce	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
-3	justificatives	justificatif	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
-4	adresser	adresser	VERB	_	VerbForm=Inf	0	root	_	_
-5	lord	lors_de	ADV	_	ExtPos=ADP	8	case	_	_
-6	de	_	ADP	_	_	5	fixed	_	_
-7	ma	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes	8	det	_	_
-8	demande	demande	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_
-9	?	?	PUNCT	_	_	4	punct	_	_
-
-~~~
+The following 19 pairs of parts of speech are connected with `fixed`: <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (23; 19% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (20; 17% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (16; 13% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (15; 12% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (15; 12% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (6; 5% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -68,7 +27,7 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	de	_	ADP	_	_	1	fixed	_	_
 4	quand	quand	ADV	_	PronType=Int	7	obl:mod	_	_
 5	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	-je	il	PRON	_	Number=Sing|Person=1	5	nsubj	_	_
+6	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 7	bénéficier	bénéficier	VERB	_	VerbForm=Inf	5	xcomp	_	_
 8	d'	de	ADP	_	_	10	case	_	SpaceAfter=No
 9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -77,6 +36,52 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	logement	logement	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
 14	?	?	PUNCT	_	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 fixed	color:blue
+1	Quel	quel	DET	_	Gender=Masc|Number=Sing|PronType=Int	2	det	_	_
+2	âge	âge	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+3	Burt	Burt	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	Lancaster	Lancaster	PROPN	_	_	3	flat:name	_	_
+5	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
+7	à	à	ADP	_	ExtPos=ADP	12	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	fixed	_	_
+9	moment	_	NOUN	_	_	7	fixed	_	_
+10	de	_	ADP	_	_	7	fixed	_	_
+11	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
+12	mort	mort	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+13	?	?	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 fixed	color:blue
+1	Quel	quel	DET	_	Gender=Masc|Number=Sing|PronType=Int	2	det	_	_
+2	âge	âge	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+3	Burt	Burt	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	Lancaster	Lancaster	PROPN	_	_	3	flat:name	_	_
+5	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
+7	à	à	ADP	_	ExtPos=ADP	12	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	fixed	_	_
+9	moment	_	NOUN	_	_	7	fixed	_	_
+10	de	_	ADP	_	_	7	fixed	_	_
+11	sa	son	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
+12	mort	mort	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+13	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

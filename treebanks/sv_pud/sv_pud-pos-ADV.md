@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `ADV`
 
-There are 257 `ADV` lemmas (5%), 265 `ADV` types (4%) and 994 `ADV` tokens (5%).
+There are 256 `ADV` lemmas (5%), 264 `ADV` types (4%) and 990 `ADV` tokens (5%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>mycket, så, in, ut, där, också, bara, upp, fram, här</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>så</em> (<tt><a href="sv_pud-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.031128 (the average of all parts of speech is 1.245991).
+The form / lemma ratio of `ADV` is 1.031250 (the average of all parts of speech is 1.245113).
 
 The 1st highest number of forms (3) was observed with the lemma “lite”: <em>Minst, lite, mindre</em>.
 
@@ -62,7 +62,7 @@ The 2nd highest number of forms (3) was observed with the lemma “mycket”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “bra”: <em>bra, bättre</em>.
 
-`ADV` occurs with 8 features: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt> (249; 25% instances), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (46; 5% instances), <tt><a href="sv_pud-feat-ExtPos.html">ExtPos</a></tt> (7; 1% instances), <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (6; 1% instances), <tt><a href="sv_pud-feat-Polarity.html">Polarity</a></tt> (5; 1% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (4; 0% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances)
+`ADV` occurs with 8 features: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt> (249; 25% instances), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (42; 4% instances), <tt><a href="sv_pud-feat-ExtPos.html">ExtPos</a></tt> (7; 1% instances), <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (6; 1% instances), <tt><a href="sv_pud-feat-Polarity.html">Polarity</a></tt> (5; 1% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (4; 0% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances)
 
 `ADV` occurs with 10 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADV`, `Foreign=Yes`, `Polarity=Neg`, `PronType=Int,Rel`, `Tense=Past`, `VerbForm=Part`
 
@@ -73,11 +73,11 @@ Examples: <em>så, in, ut, också, bara, upp, fram, här, även, tillbaka</em>
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 19 different relations: <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (768; 77% instances), <tt><a href="sv_pud-dep-compound-prt.html">compound:prt</a></tt> (134; 13% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (15; 2% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (12; 1% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (12; 1% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (11; 1% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (10; 1% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="sv_pud-dep-root.html">root</a></tt> (6; 1% instances), <tt><a href="sv_pud-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 19 different relations: <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (764; 77% instances), <tt><a href="sv_pud-dep-compound-prt.html">compound:prt</a></tt> (134; 14% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (15; 2% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (12; 1% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (12; 1% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (11; 1% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (10; 1% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="sv_pud-dep-root.html">root</a></tt> (6; 1% instances), <tt><a href="sv_pud-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (564; 57% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (150; 15% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (130; 13% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (58; 6% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (36; 4% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (16; 2% instances),  (6; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 13 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (560; 57% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (150; 15% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (130; 13% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (58; 6% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (36; 4% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (16; 2% instances),  (6; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-892 (90%) `ADV` nodes are leaves.
+888 (90%) `ADV` nodes are leaves.
 
 71 (7%) `ADV` nodes have one child.
 

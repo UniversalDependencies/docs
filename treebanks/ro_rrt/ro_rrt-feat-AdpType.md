@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ro_rrt-pos-ADP.html
 
 31055 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (30640; 99%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (30640; 99%), <tt><a href="ro_rrt-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (27753; 89%).
 
 `ADP` tokens may have the following values of `AdpType`:
 
@@ -37,9 +37,9 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1292; 100%),
-<tt>ADP --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> ADP</tt> (19; 100%),
-<tt>ADP --[<tt><a href="ro_rrt-dep-case.html">case</a></tt>]--> ADP</tt> (9; 100%),
-<tt>ADP --[<tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt>]--> ADP</tt> (3; 100%),
+<tt>ADP --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1271; 100%),
+<tt>ADP --[<tt><a href="ro_rrt-dep-case.html">case</a></tt>]--> ADP</tt> (17; 100%),
+<tt>ADP --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> ADP</tt> (17; 100%),
+<tt>ADP --[<tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt>]--> ADP</tt> (1; 100%),
 <tt>ADP --[<tt><a href="ro_rrt-dep-mark.html">mark</a></tt>]--> ADP</tt> (1; 100%).
 

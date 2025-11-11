@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 cop	color:blue
-1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	La	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cifra	cifra	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	massima	massimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	2	amod	_	_
 4	consentita	consentire	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|Voice=Pass	2	acl	_	_
@@ -42,7 +42,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 cop	color:blue
-1	Il	il	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+1	Il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	suo	suo	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	3	det:poss	_	_
 3	gioco	gioco	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
 4	può	potere	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	aux	_	_
@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 5 cop	color:blue
-1	Il	il	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+1	Il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	terzo	terzo	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	giorno	giorno	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_

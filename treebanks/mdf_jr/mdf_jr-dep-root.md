@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-474 nodes (11%) are attached to their parents as `root`.
+476 nodes (11%) are attached to their parents as `root`.
 
-474 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.53164556962025.
+476 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.53361344537815.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (394; 83% instances), -<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (33; 7% instances), -<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (27; 6% instances), -<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (9; 2% instances), -<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (8; 2% instances), -<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), -<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (395; 83% instances), -<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (33; 7% instances), -<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (28; 6% instances), -<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (9; 2% instances), -<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (8; 2% instances), -<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), -<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,10 +24,10 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 6 root	color:blue
 1	Лётчикне	лётчик	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	улема	улема	VERB	V	Mood=Nec|Number[subj]=Sing|Person[subj]=3	6	advcl	_	SpaceAfter=No
+3	улема	улема	VERB	V	Mood=Nec|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
 5	кядьса	кядь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl	_	_
-6	токсесазь	токсемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres	0	root	_	_
+6	токсесазь	токсемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	коволнятнень	ковол	NOUN	N	Case=Gen|Definite=Def|Degree=Dim|Number=Plur	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -62,9 +62,9 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Касондярян	касомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=1	4	advcl	_	SpaceAfter=No
+1	Касондярян	касомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=1|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	улян	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	4	cop	_	_
+3	улян	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	лётчикокс	лётчик	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 

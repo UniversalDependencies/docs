@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (1%) are attached to their parents as `det`.
+38 nodes (1%) are attached to their parents as `det`.
 
-31 instances of `det` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.53846153846154.
+31 instances of `det` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (17; 44% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (9; 23% instances), <tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (5; 13% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="ckt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (17; 45% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (9; 24% instances), <tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (5; 13% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="ckt_hse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="ckt_hse-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="ckt_hse-pos-ADV.html">ADV</a></tt>-<tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

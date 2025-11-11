@@ -173,7 +173,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `AUX`
 
-3485 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Number`.
+3485 <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sk_snk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3485; 100%), <tt><a href="sk_snk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3345; 96%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2755; 79%), <tt><a href="sk_snk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2749; 79%), <tt><a href="sk_snk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2745; 79%), <tt><a href="sk_snk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2553; 73%).
 
@@ -181,7 +181,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (566; 16% of non-empty `Number`): <em>sme, sú, boli, ste, budú, budeme, neboli, bývali, budete, buďte</em>
 * `Sing` (2919; 84% of non-empty `Number`): <em>som, je, bol, bola, bolo, bude, si, nebola, nebolo, nebude</em>
-* `EMPTY` (238): <em>by, byť</em>
+* `EMPTY` (513): <em>by, byť</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -281,7 +281,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 * `Plur` (3; 9% of non-empty `Number`): <em>ráz, razy</em>
 * `Sing` (31; 91% of non-empty `Number`): <em>raz</em>
-* `EMPTY` (4410): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, ako, nikdy</em>
+* `EMPTY` (4374): <em>veľmi, potom, tu, tam, kde, tak, opäť, vtedy, nikdy, teraz</em>
 
 <table>
   <tr><th>Paradigm <i>raz</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -295,11 +295,11 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7703; 100%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2989; 96%),
-<tt>NOUN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2931; 65%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2933; 65%),
 <tt>VERB --[<tt><a href="sk_snk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2925; 68%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2461; 100%),
-<tt>VERB --[<tt><a href="sk_snk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1891; 56%),
-<tt>VERB --[<tt><a href="sk_snk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1693; 85%),
+<tt>VERB --[<tt><a href="sk_snk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1888; 56%),
+<tt>VERB --[<tt><a href="sk_snk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1693; 75%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1576; 95%),
 <tt>VERB --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1439; 88%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (910; 84%).

@@ -9,11 +9,11 @@ udver: '2'
 There are 24 `ADV` lemmas (8%), 26 `ADV` types (7%) and 61 `ADV` tokens (6%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>apaka, inhinhiã, atuku, kaiãupuku, natuku, Kutxi, wai, watxa, Ywã, _</em>
+The 10 most frequent `ADV` lemmas: <em>apaka, inhinhiã, atuku, kaiãupuku, natuku, Kutxi, wai, watxa, _, apiku</em>
 
 The 10 most frequent `ADV` types:  <em>apaka, inhinhiã, atuku, kaiãũpuku, Kutxi, Natukupa, natuku, wai, watxa, Ikanapiriãsaaky</em>
 
-The 10 most frequent ambiguous lemmas: <em>atuku</em> (<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>kaiãupuku</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 3, <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1), <em>Ywã</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1, <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> 1), <em>_</em> (<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1, <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> 1), <em>apiku</em> (<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>kiripa</em> (<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> 6, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>ykyny</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1, <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>atuku</em> (<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>kaiãupuku</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 3, <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 1), <em>_</em> (<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1, <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> 1), <em>apiku</em> (<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>kiripa</em> (<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> 6, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>ykyny</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1, <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>atuku</em> (<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>kaiãũpuku</em> (<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 3, <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> 3, <tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> 1), <em>Ywã</em> (<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> 2, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1), <em>apikumunhi</em> (<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1)
 
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>atuku</em> (<tt><a href="apu_ufpa-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.083333 (the average of all parts of speech is 1.247525).
+The form / lemma ratio of `ADV` is 1.083333 (the average of all parts of speech is 1.250825).
 
 The 1st highest number of forms (3) was observed with the lemma “apaka”: <em>apaka, apakapa, apakapary</em>.
 

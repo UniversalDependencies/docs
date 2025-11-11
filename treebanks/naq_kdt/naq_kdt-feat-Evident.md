@@ -23,5 +23,5 @@ The most frequent other feature values with which `AUX` and `Evident` co-occurre
 `AUX` tokens may have the following values of `Evident`:
 
 * `Nfh` (8; 100% of non-empty `Evident`): <em>koma, kama</em>
-* `EMPTY` (5686): <em>ge, ra, a, hâ, nî, go, re, i, ga, gere</em>
+* `EMPTY` (5685): <em>ge, ra, a, hâ, nî, go, re, i, ga, gere</em>
 

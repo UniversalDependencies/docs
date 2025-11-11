@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="eo_prago-dep-nsubj.html">nsubj</a></tt>.
 
-1 nodes (0%) are attached to their parents as `nsubj:pass`.
+2 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-1 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+1 instances of `nsubj:pass` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.5.
 
-The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
 
 
 ~~~ conllu

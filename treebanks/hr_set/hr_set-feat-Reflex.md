@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (2899; 100% of non-empty `Reflex`): <em>se, sebe, sebi, sobom, si</em>
-* `EMPTY` (2403): <em>što, ih, mi, ga, im, mu, on, njih, nam, vam</em>
+* `EMPTY` (2401): <em>što, ih, mi, ga, im, mu, on, njih, nam, vam</em>
 
 ### `DET`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (670; 100% of non-empty `Reflex`): <em>svoje, svoj, svoju, svojim, svojih, svojoj, svojeg, svog, svom, svojem</em>
-* `EMPTY` (7024): <em>koji, to, koje, koja, nekoliko, ove, toga, sve, kojima, koju</em>
+* `EMPTY` (7014): <em>koji, to, koje, koja, nekoliko, ove, toga, sve, kojima, koju</em>
 

@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="cs_cltt-pos-PAR
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.709027).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.709632).
 
 The 1st highest number of forms (1) was observed with the lemma “až”: <em>až</em>.
 
@@ -41,7 +41,7 @@ The 3rd highest number of forms (1) was observed with the lemma “jen”: <em>j
 
 ## Relations
 
-`PART` nodes are attached to their parents using 7 different relations: <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (54; 36% instances), <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (45; 30% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (33; 22% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (15; 10% instances), <tt><a href="cs_cltt-dep-appos.html">appos</a></tt> (3; 2% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 7 different relations: <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (54; 36% instances), <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (45; 30% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (33; 22% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (15; 10% instances), <tt><a href="cs_cltt-dep-appos.html">appos</a></tt> (3; 2% instances), <tt><a href="cs_cltt-dep-advcl-pred.html">advcl:pred</a></tt> (1; 1% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (1; 1% instances)
 
 Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-X.html">X</a></tt> (38; 25% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (37; 24% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (33; 22% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (31; 20% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 2% instances)
 
@@ -55,7 +55,7 @@ Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="cs_c
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 2 different relations: <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (8; 89% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (1; 11% instances)
+Children of `PART` nodes are attached using 2 different relations: <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (8; 89% instances), <tt><a href="cs_cltt-dep-advcl-pred.html">advcl:pred</a></tt> (1; 11% instances)
 
 Children of `PART` nodes belong to 2 different parts of speech: <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (8; 89% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 11% instances)
 

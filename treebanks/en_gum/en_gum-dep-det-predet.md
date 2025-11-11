@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 det:predet	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj|8:nsubj	Discourse=elaboration-additional:45->37:7:ref-prs-387-396,418|Entity=(75-abstract-new-nnnnn-cf5-5,8-disc(44-abstract-giv:act-nnsnn-cf1*-1-ana)|PDTB=Hypophora:Hypophora:_:_:405-417:418-495
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj|8:nsubj	Discourse=elaboration-additional:45->37:7:ref-prs-387-396,418-_|Entity=(75-abstract-new-nnnnn-cf5-5,8-disc(44-abstract-giv:act-nnsnn-cf1*-1-ana)|PDTB=Hypophora:Hypophora:_:_:405-417:418-495
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 3	both	both	DET	PDT	PronType=Tot	5	det:predet	5:det:predet	Entity=(44-abstract-giv:act-nnsnn-cf1*-3,6-coref
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(73-event-giv:act-ssssn-cf2-2-coref
@@ -44,11 +44,11 @@ The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 det:predet	color:blue
-1	Keep	keep	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=joint-other_m:51->3:2:grf-seq-
+1	Keep	keep	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=joint-other_m:51->3:2:grf-seq-_-_
 2	track	track	NOUN	NN	Number=Sing	1	obj	1:obj	_
 3	of	of	ADP	IN	_	5	case	5:case	_
-4	all	all	DET	PDT	PronType=Tot	5	det:predet	5:det:predet	Entity=(83-abstract-new-nnnnn-cf2-2-sgl
-5	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs|Typo=Yes	2	nmod	2:nmod:of	CorrectForm=your words.|Entity=(5-person-giv:act-n____-cf1*-1-ana)83)|XML=<sic ana:::"your words."></sic>
+4	all	all	DET	PDT	PronType=Tot	5	det:predet	5:det:predet	Entity=(84-abstract-new-nnnnn-cf2-2-sgl
+5	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs|Typo=Yes	2	nmod	2:nmod:of	CorrectForm=your words.|Entity=(5-person-giv:act-snnnn-cf1*-1-ana)84)|XML=<sic ana:::"your words."></sic>
 
 ~~~
 

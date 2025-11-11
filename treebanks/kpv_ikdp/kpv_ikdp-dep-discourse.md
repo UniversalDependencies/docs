@@ -25,7 +25,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 1	А	а	INTJ	Interj	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	GTtags=Pers,Sg1,Err/Dial,Acc
-4	шуэны	шуны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3
+4	шуэны	шуны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3
 5	Терентьев	Терентьев	NOUN	N	Case=Nom|Number=Sing	4	xcomp	_	GTtags=Prop,Sem/Sur-Mal,Sg,Nom
 6	Александр	Александр	NOUN	N	Case=Nom|Number=Sing	5	flat:name	_	GTtags=Prop,Sg,Nom
 7	Юрьевич	Юрьевич	NOUN	N	Case=Nom|Number=Sing	5	flat:name	_	GTtags=Prop,Sem/Patr-Mal,Sg,Nom|SpaceAfter=No
@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 8	мыен	мый	PRON	Pron	Case=Ins|Number=Sing|PronType=Int	11	obl	_	GTtags=Interr,Sg,Ins,Err/Dial
 9	тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	GTtags=Pers,Sg2,Nom
 10	ещё	ещё	ADV	Adv	_	11	advmod	_	_
-11	занимайтчан	занимайтчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Refl,Ind,Prs,Sg2|SpaceAfter=No
+11	занимайтчан	занимайтчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Refl,Ind,Prs,Sg2|SpaceAfter=No
 12	?	?	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~

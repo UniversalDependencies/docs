@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	Кор	кор	ADV	Adv	_	4	advmod	_	_
 2	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod	_	_
 3	ае-маме	ай-мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
-4	вӧрзисныс	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	advcl	_	SpaceAfter=No
+4	вӧрзисныс	вӧрзьыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	но	но	PART	Pcle	_	8	advmod	_	OrigLang=ru|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	6	punct	_	_
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 1	А	а	INTJ	Interj	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	GTtags=Pers,Sg1,Err/Dial,Acc
-4	шуэны	шуны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3
+4	шуэны	шуны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,Err/Dial,Pl3
 5	Терентьев	Терентьев	NOUN	N	Case=Nom|Number=Sing	4	xcomp	_	GTtags=Prop,Sem/Sur-Mal,Sg,Nom
 6	Александр	Александр	NOUN	N	Case=Nom|Number=Sing	5	flat:name	_	GTtags=Prop,Sg,Nom
 7	Юрьевич	Юрьевич	NOUN	N	Case=Nom|Number=Sing	5	flat:name	_	GTtags=Prop,Sem/Patr-Mal,Sg,Nom|SpaceAfter=No

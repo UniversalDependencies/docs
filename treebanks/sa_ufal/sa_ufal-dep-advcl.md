@@ -44,7 +44,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 advcl	color:blue
 1	किन्तु	किन्तु	ADV	_	_	8	advmod	_	Translit=kintu|LTranslit=kintu|Gloss=nevertheless
-2	त्वत्	त्वद्	PRON	_	Compound=Yes	3	nmod:poss	_	Translit=tvat|LTranslit=tvad|Gloss=you
+2	त्वत्	त्वद्	PRON	_	Compound=Yes|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	Translit=tvat|LTranslit=tvad|Gloss=you
 3	प्रार्थना	प्रार्थना	NOUN	_	Compound=Yes	5	nmod	_	Translit=prārthanā|LTranslit=prārthanā|Gloss=request
 4	सिद्धि	सिध	VERB	_	Compound=Yes|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	Translit=siddha|LTranslit=sidh|Gloss=accomplished
 5	अर्थस्य	अर्थ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	obl	_	Translit=artham|LTranslit=artha|Gloss=for-the-reason

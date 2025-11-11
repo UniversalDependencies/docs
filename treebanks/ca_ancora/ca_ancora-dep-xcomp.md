@@ -62,7 +62,7 @@ The following 21 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	no	no	ADV	rn	Polarity=Neg	6	advmod	6:advmod	_
 6	jugar	jugar	VERB	vmn0000	VerbForm=Inf	3	xcomp	3:xcomp	ArgTem=arg2:tem
 7	més	més	ADV	rg	Degree=Cmp	6	advmod	6:advmod	ArgTem=argM:adv
-8	com	com	SCONJ	sps00	_	10	case	10:case	MWE=com_a|MWEPOS=ADP
+8	com	com	SCONJ	sps00	ExtPos=ADP	10	case	10:case	MWE=com_a|MWEPOS=ADP
 9	a	a	ADP	_	_	8	fixed	8:fixed	_
 10	extrem	extrem	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl:arg	6:obl:arg	SpaceAfter=No|ArgTem=argM:atr
 11	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-137 nodes (4%) are attached to their parents as `det`.
+135 nodes (4%) are attached to their parents as `det`.
 
-129 instances of `det` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04379562043796.
+128 instances of `det` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04444444444444.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (127; 93% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (126; 93% instances), <tt><a href="nmf_suansu-pos-ADV.html">ADV</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-pos-VERB.html">VERB</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="nmf_suansu-pos-NUM.html">NUM</a></tt>-<tt><a href="nmf_suansu-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

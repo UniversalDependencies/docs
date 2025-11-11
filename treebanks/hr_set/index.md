@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Željko Agić, Nikola Ljubešić, Daniel Zeman.
 
 Repository: [UD_Croatian-SET](https://github.com/UniversalDependencies/UD_Croatian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhr_set216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhr_set217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -481,8 +481,8 @@ See file LICENSE.txt for further licensing information.
     <ul>
       <li>ADJ: novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</li>
       <li>ADJ-Part: održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</li>
-      <li>ADV: samo, još, također, već, posto, međutim, oko, vrlo, danas, kada</li>
-      <li>DET: nekoliko, mnogo, pola, puno, posto, malo, dosta, dovoljno, previše, koliko</li>
+      <li>ADV: samo, još, također, posto, već, međutim, oko, vrlo, danas, kada</li>
+      <li>DET: nekoliko, mnogo, pola, puno, malo, dosta, dovoljno, previše, koliko, toliko</li>
     </ul>
   </li>
 </ul>
@@ -846,7 +846,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (108)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (17)</li>
-      <li>VERB-Fin--NOUN-Nom (2688)</li>
+      <li>VERB-Fin--NOUN-Nom (2689)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(diljem) (1)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
@@ -856,9 +856,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc (11)</li>
       <li>VERB-Inf--NOUN-Gen (15)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (2)</li>
-      <li>VERB-Inf--NOUN-Nom (471)</li>
+      <li>VERB-Inf--NOUN-Nom (472)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Nom (53)</li>
+      <li>VERB-Inf--PRON-Nom (54)</li>
       <li>VERB-Part--NOUN (6)</li>
       <li>VERB-Part--NOUN-Acc (12)</li>
       <li>VERB-Part--NOUN-Gen (76)</li>
@@ -880,17 +880,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (7)</li>
       <li>VERB-Fin--NOUN-Acc (1914)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(na) (3)</li>
-      <li>VERB-Fin--NOUN-Dat (116)</li>
-      <li>VERB-Fin--NOUN-Gen (205)</li>
+      <li>VERB-Fin--NOUN-Dat (110)</li>
+      <li>VERB-Fin--NOUN-Gen (202)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (13)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(preko) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (31)</li>
+      <li>VERB-Fin--NOUN-Ins (28)</li>
       <li>VERB-Fin--NOUN-Loc (4)</li>
-      <li>VERB-Fin--NOUN-Nom (45)</li>
+      <li>VERB-Fin--NOUN-Nom (44)</li>
       <li>VERB-Fin--PRON-Acc (500)</li>
       <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(za) (3)</li>
-      <li>VERB-Fin--PRON-Dat (72)</li>
+      <li>VERB-Fin--PRON-Dat (65)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
       <li>VERB-Fin--PRON-Ins (3)</li>
@@ -898,40 +898,40 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (14)</li>
       <li>VERB-Inf--NOUN (3)</li>
       <li>VERB-Inf--NOUN-Acc (1257)</li>
-      <li>VERB-Inf--NOUN-Dat (40)</li>
-      <li>VERB-Inf--NOUN-Gen (96)</li>
+      <li>VERB-Inf--NOUN-Dat (39)</li>
+      <li>VERB-Inf--NOUN-Gen (95)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(između) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(od) (2)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(oko) (1)</li>
-      <li>VERB-Inf--NOUN-Ins (15)</li>
+      <li>VERB-Inf--NOUN-Ins (13)</li>
       <li>VERB-Inf--NOUN-Loc-ADP(u) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (17)</li>
+      <li>VERB-Inf--NOUN-Nom (16)</li>
       <li>VERB-Inf--PRON-Acc (162)</li>
-      <li>VERB-Inf--PRON-Dat (19)</li>
+      <li>VERB-Inf--PRON-Dat (17)</li>
       <li>VERB-Inf--PRON-Ins (2)</li>
-      <li>VERB-Inf--PRON-Nom (3)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (1819)</li>
       <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(po) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Dat (100)</li>
+      <li>VERB-Part--NOUN-Dat (93)</li>
       <li>VERB-Part--NOUN-Gen (171)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(od) (7)</li>
-      <li>VERB-Part--NOUN-Ins (26)</li>
-      <li>VERB-Part--NOUN-Loc (11)</li>
+      <li>VERB-Part--NOUN-Ins (22)</li>
+      <li>VERB-Part--NOUN-Loc (10)</li>
       <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Part--NOUN-Nom (38)</li>
-      <li>VERB-Part--PRON-Acc (310)</li>
+      <li>VERB-Part--PRON-Acc (309)</li>
       <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (4)</li>
-      <li>VERB-Part--PRON-Dat (33)</li>
+      <li>VERB-Part--PRON-Acc-ADP(za) (2)</li>
+      <li>VERB-Part--PRON-Dat (30)</li>
       <li>VERB-Part--PRON-Gen (2)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
       <li>VERB-Part--PRON-Loc (1)</li>
-      <li>VERB-Part--PRON-Nom (11)</li>
+      <li>VERB-Part--PRON-Nom (10)</li>
     </ul>
   </li>
 </ul>

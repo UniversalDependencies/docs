@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="el_lesbian-dep-compound-redup.html">compound:redup</a></tt>.
 
-2 nodes (0%) are attached to their parents as `compound`.
+3 nodes (0%) are attached to their parents as `compound`.
 
-2 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+3 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 50% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (2; 67% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
 
 
 ~~~ conllu

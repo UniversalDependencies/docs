@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>s</em> (<tt><a href="en_ewt-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.741722 (the average of all parts of speech is 1.243237).
+The form / lemma ratio of `X` is 1.741722 (the average of all parts of speech is 1.243456).
 
 The 1st highest number of forms (116) was observed with the lemma “_”: <em>-, 3-5290, @, A, Abramo@ENRON, Akin@ECT, Alatorre@ENRON, Bertone@ENRON_DEVELOPMENT, Blaine@ENRON_DEVELOPMENT, Bryngelson@AZURIX, C, COMMUNICATIONS, Castagnola@ENRON_DEVELOPMENT, Castano@EES, Delainey@ECT, Diebner@ECT, Do@ENRON_DEVELOPMENT, Dorsey@ENRON_DEVELOPMENT, E, ECT, Edison@ENRON, Forster@ENRON, Garcia@ENRON, Griffith@ENRON, Hansen@ENRON, Hopkinson@ENRON_DEVELOPMENT, Horton@ENRON, Huble@ENRON, J, Jacoby@ECT, Johnson@ENRON, Kaminski@ECT, Kaufman@ECT, Khan@TRANSREDES, Kindall@ENRON, Lamb@ENRON, Leibman@ENRON, Leigh, Luan, Mann@ENRON, Martinez@ENRON, McConnell@ECT, Montgomery@ENRON, Olsen@ENRON, P, Palmer@ENRON, Patel@ENRON, Perry@ENRON_DEVELOPMENT, Rance@ENRON, Rice@ENRON, Salinardo@ENRON, Schwartzenburg@ENRON_DEVELOPMENT, Shackleton@ECT, Stephens@ENRON, Sullivan@ENRON, W, Ward, Warner@ENRON, Williams@ENRON_DEVELOPMENT, back, buy, cent, charged, cooked, d, day, deed, donald, dramatic, educated, ever, expose, fall, for, full, get, going, h, hill, ible, in, informed, ive, line, mail, mentioned, morning, night, notebook.url, o, one, oone, order, out, paid, perform, pixel, plenty, power, priced, r, respect, s, self, ship, side, standing, structure, t, time, to, together, u, way, were, where</em>.
 

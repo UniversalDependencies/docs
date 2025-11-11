@@ -66,13 +66,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ขึ้น�
 
 The 3rd highest number of forms (1) was observed with the lemma “ครับ”: ครับ.
 
-`PART` occurs with 2 features: <tt><a href="th_pud-feat-Polarity.html">Polarity</a></tt> (205; 34% instances), <tt><a href="th_pud-feat-PronType.html">PronType</a></tt> (8; 1% instances)
+`PART` occurs with 3 features: <tt><a href="th_pud-feat-Polarity.html">Polarity</a></tt> (205; 34% instances), <tt><a href="th_pud-feat-PronType.html">PronType</a></tt> (8; 1% instances), <tt><a href="th_pud-feat-ExtPos.html">ExtPos</a></tt> (6; 1% instances)
 
-`PART` occurs with 2 feature-value pairs: `Polarity=Neg`, `PronType=Int`
+`PART` occurs with 4 feature-value pairs: `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Int`
 
-`PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (395 tokens).
-Examples: ไป, มา, ขึ้น, ออก, ลง, เข้า, ไม่, หรือไม่, หรอก, นะ
+`PART` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (389 tokens).
+Examples: ไป, มา, ขึ้น, ออก, ลง, เข้า, หรือไม่, หรอก, นะ, อย่าง
 
 
 ## Relations

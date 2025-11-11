@@ -48,9 +48,9 @@ The following 6 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 reparandum	color:blue
-1	Auch	Auch	ADV	ADV	_	6	advmod	_	_
+1	Auch	auch	ADV	ADV	_	6	advmod	_	_
 2	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
-3	das	der	DET	ART	Typo=Yes	2	reparandum	_	_
+3	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	reparandum	_	_
 4	bereits	bereits	ADV	ADV	_	5	advmod	_	_
 5	existierende	existieren	ADJ	ADJA	Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
 6	Handwerkerportal	Handwerkerportal	NOUN	NN	Gender=Neut|Number=Sing	9	nsubj:pass	_	_

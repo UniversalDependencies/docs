@@ -56,7 +56,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Ind` (1071; 35% of non-empty `PronType`): <em>allt, eitthvað, ekkert, allir, alla, öllum, einhvern, alls, öll, einhver</em>
 * `Int` (72; 2% of non-empty `PronType`): <em>hvaða, hvað, hver, hverju, hverjir, hvers, hvert</em>
 * `Prs` (86; 3% of non-empty `PronType`): <em>það, þær, því, þeim, þau, þeir, þess, þeirra, þá</em>
-* `EMPTY` (632): <em>meiri, meira, mikið, eitt, fleiri, margir, mikil, einn, einu, miklu</em>
+* `EMPTY` (630): <em>meiri, meira, mikið, eitt, fleiri, margir, mikil, einn, einu, miklu</em>
 
 <table>
   <tr><th>Paradigm <i>hver</i></th><th><tt>Int</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 * `Dem` (4; 44% of non-empty `PronType`): <em>sama</em>
 * `Ind` (4; 44% of non-empty `PronType`): <em>annað, jafnrík, önnur</em>
 * `Prs` (1; 11% of non-empty `PronType`): <em>hægri</em>
-* `EMPTY` (4309): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, síðustu</em>
+* `EMPTY` (4311): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, síðustu</em>
 
 ### `ADV`
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Ind` (3; 50% of non-empty `PronType`): <em>ekkert, allt</em>
 * `Int` (1; 17% of non-empty `PronType`): <em>hvað</em>
 * `Prs` (1; 17% of non-empty `PronType`): <em>þá</em>
-* `EMPTY` (6954): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
+* `EMPTY` (6953): <em>ekki, þá, svo, hér, bara, eins, þar, nú, þannig, mjög</em>
 
 <table>
   <tr><th>Paradigm <i>þá</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -133,9 +133,9 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (39; 70%),
-<tt>PRON --[<tt><a href="is_modern-dep-expl.html">expl</a></tt>]--> PRON</tt> (14; 78%),
+<tt>PRON --[<tt><a href="is_modern-dep-expl.html">expl</a></tt>]--> PRON</tt> (13; 76%),
+<tt>PRON --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> PRON</tt> (8; 62%),
 <tt>PRON --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> PRON</tt> (7; 64%),
-<tt>PRON --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 58%),
 <tt>DET --[<tt><a href="is_modern-dep-det.html">det</a></tt>]--> PRON</tt> (5; 83%),
 <tt>DET --[<tt><a href="is_modern-dep-amod.html">amod</a></tt>]--> PRON</tt> (4; 67%),
 <tt>DET --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> DET</tt> (3; 100%),

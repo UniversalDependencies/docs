@@ -9,41 +9,41 @@ udver: '2'
 This feature is universal but the values `Compl`, `Cont`, `Freq`, `Frus`, `Hab`, `Iter` are language-specific.
 It occurs with 8 different values: `Compl`, `Cont`, `Freq`, `Frus`, `Hab`, `Imp`, `Iter`, `Perf`.
 
-396 tokens (2%) have a non-empty value of `Aspect`.
-36 types (2%) occur at least once with a non-empty value of `Aspect`.
-31 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 6 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (376; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+490 tokens (2%) have a non-empty value of `Aspect`.
+37 types (1%) occur at least once with a non-empty value of `Aspect`.
+32 lemmas (2%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 6 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (468; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PART`
 
-376 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (22% of all `PART` tokens) have a non-empty value of `Aspect`.
+468 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (23% of all `PART` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `PART` and `Aspect` co-occurred: <tt><a href="yrl_complin-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (376; 100%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (376; 100%), <tt><a href="yrl_complin-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (375; 100%), <tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (359; 95%).
+The most frequent other feature values with which `PART` and `Aspect` co-occurred: <tt><a href="yrl_complin-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (468; 100%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (468; 100%), <tt><a href="yrl_complin-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (467; 100%), <tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (451; 96%).
 
 `PART` tokens may have the following values of `Aspect`:
 
-* `Compl` (37; 10% of non-empty `Aspect`): <em>pawa, pá, páu</em>
+* `Compl` (45; 10% of non-empty `Aspect`): <em>pawa, pá, páu, p</em>
 * `Cont` (3; 1% of non-empty `Aspect`): <em>wé</em>
-* `Freq` (17; 5% of non-empty `Aspect`): <em>wera, aikwewara</em>
-* `Frus` (8; 2% of non-empty `Aspect`): <em>yepé</em>
-* `Imp` (53; 14% of non-empty `Aspect`): <em>rẽ, ranhẽ, raĩ, raẽ, saĩ</em>
-* `Perf` (258; 69% of non-empty `Aspect`): <em>ana, ã, wã, wana</em>
-* `EMPTY` (1345): <em>paá, ti, kurí, taá, será, intí, aikwé, tẽ, maã, tenhẽ</em>
+* `Freq` (17; 4% of non-empty `Aspect`): <em>wera, aikwewara</em>
+* `Frus` (9; 2% of non-empty `Aspect`): <em>yepé</em>
+* `Imp` (64; 14% of non-empty `Aspect`): <em>rẽ, ranhẽ, raĩ, raẽ, saĩ</em>
+* `Perf` (330; 71% of non-empty `Aspect`): <em>ana, wã, ã, wana</em>
+* `EMPTY` (1578): <em>paá, ti, kurí, taá, intí, será, aikwé, tẽ, tenhẽ, maã</em>
 
 `Aspect` seems to be **lexical feature** of `PART`. 100% lemmas (15) occur only with one value of `Aspect`.
 
 ### `VERB`
 
-10 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Aspect`.
+13 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 60%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (6; 60%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (8; 62%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Freq` (2; 20% of non-empty `Aspect`): <em>Amanduariwara, Asuwara</em>
-* `Hab` (6; 60% of non-empty `Aspect`): <em>ambautiwa, ukanhemutiwa, upinaitikatiwa, upurungitatiwa, usutiwa, uyukatiwa</em>
-* `Iter` (2; 20% of non-empty `Aspect`): <em>uyuíri, xayuíri</em>
-* `EMPTY` (3549): <em>unheẽ, usú, usika, umaã, umunhã, upitá, upisika, urikú, umbeú, uxari</em>
+* `Freq` (2; 15% of non-empty `Aspect`): <em>Amanduariwara, Asuwara</em>
+* `Hab` (7; 54% of non-empty `Aspect`): <em>ambautiwa, ukanhemutiwa, umundutiwa, upinaitikatiwa, upurungitatiwa, usutiwa, uyukatiwa</em>
+* `Iter` (4; 31% of non-empty `Aspect`): <em>uyuíri, xayuíri</em>
+* `EMPTY` (4274): <em>unheẽ, usú, usika, umaã, umunhã, urikú, upitá, upisika, umbeú, uri</em>
 
 <table>
   <tr><th>Paradigm <i>sú</i></th><th><tt>Freq</tt></th><th><tt>Hab</tt></th></tr>
@@ -60,18 +60,7 @@ The most frequent other feature values with which `ADV` and `Aspect` co-occurred
 `ADV` tokens may have the following values of `Aspect`:
 
 * `Freq` (5; 100% of non-empty `Aspect`): <em>Asuiwara, Ikewara, kwayewara, sewara, yawewara</em>
-* `EMPTY` (1271): <em>ape, asuí, mayé, kuíri, yawé, reté, piri, yuíri, aramé, iké</em>
-
-### `AUX`
-
-2 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Aspect`.
-
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%).
-
-`AUX` tokens may have the following values of `Aspect`:
-
-* `Iter` (2; 100% of non-empty `Aspect`): <em>ayuíri, yayuíri</em>
-* `EMPTY` (519): <em>uikú, usú, putari, asú, kwáu, aikú, yasú, xaikú, xasú, yaikú</em>
+* `EMPTY` (1480): <em>ape, reté, asuí, kuíri, mayé, yawé, aramé, iké, yuíri, katú</em>
 
 ### `NOUN`
 
@@ -82,7 +71,18 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 `NOUN` tokens may have the following values of `Aspect`:
 
 * `Freq` (2; 100% of non-empty `Aspect`): <em>arawara, rukawara</em>
-* `EMPTY` (3756): <em>ara, mira, manha, igara, yautí, paraná, apigawa, pituna, kunhã, ruka</em>
+* `EMPTY` (4592): <em>ara, mira, apigawa, igara, manha, paraná, tupana, kunhã, pituna, yautí</em>
+
+### `AUX`
+
+1 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Aspect`.
+
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `Aspect`:
+
+* `Iter` (1; 100% of non-empty `Aspect`): <em>yayuíri</em>
+* `EMPTY` (698): <em>uikú, putari, usú, kwáu, yasú, asú, xaikú, aikú, xasú, ikú</em>
 
 ### `SCONJ`
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 `SCONJ` tokens may have the following values of `Aspect`:
 
 * `Hab` (1; 100% of non-empty `Aspect`): <em>rametiwa</em>
-* `EMPTY` (520): <em>arama, ramé, arã, mairamé, nhaãsé, maãresé, riré, Mayé, kurumú, resé</em>
+* `EMPTY` (591): <em>arama, ramé, arã, mairamé, nhaãsé, maãresé, riré, resé, kurumú, Mayé</em>
 
 ## Relations with Agreement in `Aspect`
 

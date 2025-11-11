@@ -35,10 +35,10 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 11	"	"	PUNCT	''	_	9	punct	_	LId="_0
 12	ب	بِ	ADP	IN	_	13	case	_	SpaceAfter=No
 13	مهارات	مَهارَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	3	obl	_	LId=مَهارَة_1|SpaceAfter=No
-14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
+14	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	_
 15	و	وَ	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 16	قدرات	قُدرَة	NOUN	NN	Case=Gen|Definite=Def|Gender=Fem|Number=Plur	13	conj	_	LId=قُدْرَة_1|SpaceAfter=No
-17	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3	16	nmod	_	_
+17	ه	هُوَ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
 18	ك	كَ	ADP	IN	_	19	case	_	SpaceAfter=No
 19	مسؤولٍ	مَسؤُول	NOUN	NN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	13	nmod	_	LId=مَسْؤُول_1
 20	و	وَ	CCONJ	CC	_	21	cc	_	SpaceAfter=No

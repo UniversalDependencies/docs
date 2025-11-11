@@ -22,15 +22,15 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 dislocated	color:blue
-1	Είναι	είμαι	AUX	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	_
-2	το	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
-3	λιγότερο	λίγος	ADJ	AjCp	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
-4	που	που	PRON	PnRe	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	dislocated	_	_
-5	μπορούμε	μπορώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
-6	να	να	SCONJ	CjSb	_	8	mark	_	_
-7	της	εγώ	PRON	PnPe	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
-8	προσφέρουμε	προσφέρω	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	_	SpaceAfter=No
-9	.	.	PUNCT	PTERMP	_	3	punct	_	PunctType=Peri
+1	Είναι	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	_
+2	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	λιγότερο	λίγος	ADJ	_	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
+4	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	dislocated	_	_
+5	μπορούμε	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+6	να	να	SCONJ	_	_	8	mark	_	_
+7	της	εγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
+8	προσφέρουμε	προσφέρω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	PunctType=Peri
 
 ~~~
 
@@ -41,19 +41,19 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 dislocated	color:blue
-1	«	«	PUNCT	OPUNCT	_	9	punct	_	PunctType=Quot
-2	Βέβαια	βέβαια	ADV	AdBa	_	9	advmod	_	_
-3	,	,	PUNCT	PUNCT	_	2	punct	_	PunctType=Comm
-4	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	περίπτωση	περίπτωση	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	9	dislocated	_	_
-6	του	ο	DET	AtDf	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	εκβιασμού	εκβιασμός	NOUN	NoCm	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-8	δεν	δεν	PART	PtNg	Polarity=Neg	9	advmod	_	_
-9	μπορεί	μπορώ	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	να	να	SCONJ	PtSj	_	11	mark	_	_
-11	αποκλεισθεί	αποκλείω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	9	csubj	_	_
-12	»	»	PUNCT	CPUNCT	_	9	punct	_	PunctType=Quot|SpaceAfter=No
-13	.	.	PUNCT	PTERMP	_	9	punct	_	PunctType=Peri
+1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot
+2	Βέβαια	βέβαια	ADV	_	_	9	advmod	_	_
+3	,	,	PUNCT	_	_	2	punct	_	PunctType=Comm
+4	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	περίπτωση	περίπτωση	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	dislocated	_	_
+6	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	εκβιασμού	εκβιασμός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	δεν	δεν	PART	_	Polarity=Neg	9	advmod	_	_
+9	μπορεί	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	να	να	SCONJ	_	_	11	mark	_	_
+11	αποκλεισθεί	αποκλείω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	9	csubj	_	_
+12	»	»	PUNCT	_	_	9	punct	_	PunctType=Quot|SpaceAfter=No
+13	.	.	PUNCT	_	_	9	punct	_	PunctType=Peri
 
 ~~~
 
@@ -64,11 +64,11 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 dislocated	color:blue
-1	Αυτό	αυτός	DET	PnDm	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	dislocated	_	_
-2	πρέπει	πρέπει	VERB	VbMn	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	να	να	SCONJ	PtSj	_	4	mark	_	_
-4	καταλάβεις	καταλαβαίνω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	csubj	_	SpaceAfter=No
-5	.	.	PUNCT	PTERMP	_	2	punct	_	PunctType=Peri
+1	Αυτό	αυτός	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	dislocated	_	_
+2	πρέπει	πρέπει	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	να	να	SCONJ	_	_	4	mark	_	_
+4	καταλάβεις	καταλαβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	csubj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	PunctType=Peri
 
 ~~~
 

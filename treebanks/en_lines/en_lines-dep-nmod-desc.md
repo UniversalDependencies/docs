@@ -64,13 +64,13 @@ The following 3 pairs of parts of speech are connected with `nmod:desc`: <tt><a 
 # visual-style 16	fgColor:white
 # visual-style 16 13 nmod:desc	color:blue
 1	He	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	'll	will	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+2	'll	will	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	4	aux	_	_
 3	be	be	AUX	INF	VerbForm=Inf	4	cop	_	_
 4	fine	fine	ADJ	POS	Degree=Pos	12	ccomp	_	SpaceAfter=No
 5	,	,	PUNCT	Comma	_	6	punct	_	_
 6	Molly	Molly	PROPN	SG-NOM	Number=Sing	4	vocative	_	SpaceAfter=No
 7	,	,	PUNCT	Comma	_	6	punct	_	_
-8	do	do	AUX	IMP	Mood=Imp|VerbForm=Fin	10	aux	_	_
+8	do	do	AUX	IMP	Mood=Ind|VerbForm=Fin	10	aux	_	_
 9	n't	not	PART	NEG	Polarity=Neg	10	advmod	_	_
 10	fuss	fuss	VERB	INF	VerbForm=Inf	4	parataxis	_	SpaceAfter=No
 11	,	,	PUNCT	Comma	_	12	punct	_	_

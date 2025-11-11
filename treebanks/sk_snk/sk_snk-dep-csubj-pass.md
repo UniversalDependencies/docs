@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="sk_snk-dep-csubj.ht
 21 nodes (0%) are attached to their parents as `csubj:pass`.
 
 21 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.57142857142857.
+Average distance between parent and child is 5.61904761904762.
 
 The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (15; 71% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (3; 14% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
@@ -82,7 +82,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	13	case	13:case	_
 13	nej	ona	PRON	PFfs6	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	14:obl:v:loc	_
 14	pochovaný	pochovaný	ADJ	Gtms1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	csubj:pass	8:csubj:pass	_
-15	aj	aj	CCONJ	O	_	17	advmod:emph	17:advmod:emph	_
+15	aj	aj	CCONJ	O	_	17	cc	17:cc	_
 16	Ján	ján	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nmod	17:nmod:nom	_
 17	Krstiteľ	krstiteľ	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	14:nsubj	SpaceAfter=No
 18	.	.	PUNCT	Z	_	1	punct	1:punct	_

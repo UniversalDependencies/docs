@@ -8,29 +8,30 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="frm_profiterole-dep-case.html">case</a></tt>.
 
-1280 nodes (2%) are attached to their parents as `case:det`.
+1688 nodes (2%) are attached to their parents as `case:det`.
 
-1271 instances of `case:det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16328125.
+1679 instances of `case:det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16291469194313.
 
-The following 8 pairs of parts of speech are connected with `case:det`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1129; 88% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (78; 6% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (40; 3% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `case:det`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1457; 86% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (119; 7% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (62; 4% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (26; 2% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 case:det	color:blue
-1	Ceulx	cil	PRON	PROdem	PronType=Dem	4	nsubj	_	XmlId=w_32_06580
-2	du	de.le	ADP	PRE.DETdef	_	3	case:det	_	XmlId=w_32_06581
-3	roy	roi1	NOUN	NOMcom	_	1	nmod	_	XmlId=w_32_06582
-4	estoient	être	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_06583
-5	vers	vers2	ADP	PRE	_	7	case	_	XmlId=w_32_06584
-6	le	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_32_06585
-7	chasteau	château	NOUN	NOMcom	_	4	obl	_	XmlId=w_32_06586
-8	de	de	ADP	PRE	_	9	case	_	XmlId=w_32_06587
-9	Montlehery	Montlhéry	PROPN	NOMpro	_	7	nmod	_	XmlId=w_32_06588
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 case:det	color:blue
+1	mais	mais1	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_grchron_j2c5_1971
+2	ilz	il	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_grchron_j2c5_1972
+3	ne	ne1	ADV	ADVneg	PronType=Neg	4	advmod	_	XmlId=w_grchron_j2c5_1973
+4	meffirent	méfaire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_1974
+5	point	point2	ADV	ADVneg	PronType=Neg	4	advmod	_	XmlId=w_grchron_j2c5_1975
+6	aus	à.le	ADP	PRE.DETdef	_	7	case:det	_	XmlId=w_grchron_j2c5_1976
+7	corps	corps	NOUN	NOMcom	_	4	obl	_	XmlId=w_grchron_j2c5_1977
+8	des	de.le	ADP	PRE.DETdef	_	9	case:det	_	XmlId=w_grchron_j2c5_1978
+9	Crestiens	chrétien	NOUN	NOMcom	_	7	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1979
+10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_grchron_j2c5_1980
 
 ~~~
 

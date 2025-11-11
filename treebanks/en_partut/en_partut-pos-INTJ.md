@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-ParTUT: POS Tags: `INTJ`
 
 There are 3 `INTJ` lemmas (0%), 3 `INTJ` types (0%) and 8 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 16 in number of lemmas, 16 in number of types and 17 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 16 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>yes, etc., right</em>
 
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>right</em> (<tt><a href="en_partut-po
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.200760).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.205397).
 
 The 1st highest number of forms (1) was observed with the lemma “etc.”: <em>etc.</em>.
 

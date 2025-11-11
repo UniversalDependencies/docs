@@ -40,7 +40,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 16	poner	poner	VERB	vmn0000	VerbForm=Inf	15	xcomp	15:xcomp	ArgTem=arg1:pat|Entity=(CESSCASTP20001001136c8--1
 17	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	18:det	Entity=(NOCOREF:Gen--2-gstype:gen
 18	cabeza	cabeza	NOUN	ncfs000	Gender=Fem|Number=Sing	16	obj	16:obj	ArgTem=arg1:pat|Entity=NOCOREF:Gen)
-19	debajo	debajo	ADV	sps00	_	22	case	22:case	MWE=debajo_de|MWEPOS=ADP
+19	debajo	debajo	ADV	sps00	ExtPos=ADP	22	case	22:case	MWE=debajo_de|MWEPOS=ADP
 20	de	de	ADP	_	_	19	fixed	19:fixed	_
 21	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	22:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
 22	pata	pata	NOUN	ncfs000	Gender=Fem|Number=Sing	16	obl	16:obl	ArgTem=arg2:loc
@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 24	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pv	25:expl:pv	_
 25	avecina	avecinar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl	22:acl	SpaceAfter=No
 26	,	,	PUNCT	fc	PunctType=Comm	32	punct	32:punct	_
-27	a	a	ADP	sps00	_	32	case	32:case	MWE=a_la_vuelta_de|MWEPOS=ADP
+27	a	a	ADP	sps00	ExtPos=ADP	32	case	32:case	MWE=a_la_vuelta_de|MWEPOS=ADP
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	fixed	27:fixed	_
 29	vuelta	vuelta	NOUN	_	_	27	fixed	27:fixed	_
 30	de	de	ADP	_	_	27	fixed	27:fixed	_

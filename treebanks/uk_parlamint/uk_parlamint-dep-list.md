@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 4	:	:	PUNCT	PUNCT	_	5	punct	_	_
 5	2.1	2.1	NUM	NUM	Case=Nom|NumType=Card	1	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
-7	Визначити	визначити	VERB	VERB	Aspect=Perf|VerbForm=Inf	5	appos	_	_
+7	Визначити	визначити	VERB	VERB	Aspect=Perf|VerbForm=Inf	5	parataxis	_	_
 8	тимчасовий	тимчасовий	ADJ	ADJ	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_
 9	порядок	порядок	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
 10	обслуговування	обслуговування	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 33	;	;	PUNCT	PUNCT	_	7	punct	_	_
 34	2.2	2.2	NUM	NUM	Case=Nom|NumType=Card	5	list	_	SpaceAfter=No
 35	.	.	PUNCT	PUNCT	_	34	punct	_	_
-36	Закрити	закрити	VERB	VERB	Aspect=Perf|VerbForm=Inf	34	appos	_	_
+36	Закрити	закрити	VERB	VERB	Aspect=Perf|VerbForm=Inf	34	parataxis	_	_
 37	авіапростір	авіапростір	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	36	obj	_	_
 38	над	над	ADP	ADP	Case=Ins	39	case	_	_
 39	територією	територія	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	37	nmod	_	_

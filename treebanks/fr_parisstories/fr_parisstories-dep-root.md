@@ -11,9 +11,9 @@ This relation is universal.
 2776 nodes (6%) are attached to their parents as `root`.
 
 2776 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.41174351585014.
+Average distance between parent and child is 6.53962536023055.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1931; 70% instances), -<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (283; 10% instances), -<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (226; 8% instances), -<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (95; 3% instances), -<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (84; 3% instances), -<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (70; 3% instances), -<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (37; 1% instances), -<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (26; 1% instances), -<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (8; 0% instances), -<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), -<tt><a href="fr_parisstories-pos-X.html">X</a></tt> (4; 0% instances), -<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1861; 67% instances), -<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (307; 11% instances), -<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (242; 9% instances), -<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (95; 3% instances), -<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (88; 3% instances), -<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (85; 3% instances), -<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (37; 1% instances), -<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (30; 1% instances), -<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (11; 0% instances), -<tt><a href="fr_parisstories-pos-X.html">X</a></tt> (9; 0% instances), -<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), -<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,10 +24,10 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 4 root	color:blue
 1	donc	donc	ADV	_	_	4	advmod	_	_
 2	comment	comment	ADV	_	_	4	advmod	_	_
-3	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	gougères	gougère	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
+6	gougères	gougère	NOUN	_	_	4	obj	_	Gender[lex]=Fem|Number[ctxt]=Plur
 7	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -42,10 +42,10 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	et	et	CCONJ	_	_	5	cc	_	_
 2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	soixante-quinze	soixante-quinze	NUM	_	Number=Plur	5	nummod	_	_
-5	grammes	gramme	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+4	soixante-quinze	soixante-quinze	NUM	_	_	5	nummod	_	Number[lex]=Plur
+5	grammes	gramme	NOUN	_	_	0	root	_	Gender[lex]=Masc|Number[ctxt]=Plur
 6	de	de	ADP	_	_	7	case	_	_
-7	beurre	beurre	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+7	beurre	beurre	NOUN	_	_	5	nmod	_	Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -61,16 +61,16 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	que	que	SCONJ	_	_	1	fixed	_	InIdiom=Yes
 3	euh	euh	INTJ	_	_	9	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+5	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 6	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_
 8	très	très	ADV	_	_	9	advmod	_	_
-9	douée	doué	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+9	douée	doué	ADJ	_	_	0	root	_	Gender[ctxt]=Fem|Number[ctxt]=Sing
 10	en	en	ADP	_	_	11	case	_	_
-11	philosophie	philosophie	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	_
+11	philosophie	philosophie	NOUN	_	_	9	obl:mod	_	Gender[lex]=Fem|Number[ctxt]=Sing
 12	à	à	ADP	_	_	14	case	_	_
 13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	base	base	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	SpaceAfter=No
+14	base	base	NOUN	_	_	9	obl:mod	_	Gender[lex]=Fem|Number[ctxt]=Sing|SpaceAfter=No
 15	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

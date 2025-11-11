@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>mint</em> (<tt><a href="hu_szeged-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.503840).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.504111).
 
 The 1st highest number of forms (1) was observed with the lemma “amint”: <em>amint</em>.
 
@@ -56,9 +56,9 @@ The 3rd highest number of forms (1) was observed with the lemma “ha”: <em>ha
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="hu_szeged-dep-mark.html">mark</a></tt> (743; 99% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (7; 1% instances), <tt><a href="hu_szeged-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="hu_szeged-dep-mark.html">mark</a></tt> (744; 99% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (7; 1% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (587; 78% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (61; 8% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (50; 7% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (23; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (587; 78% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (61; 8% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (50; 7% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (20; 3% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (3; 0% instances)
 
 744 (99%) `SCONJ` nodes are leaves.
 

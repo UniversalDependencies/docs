@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-1218 tokens (39%) have a non-empty value of `Number`.
-562 types (50%) occur at least once with a non-empty value of `Number`.
+1219 tokens (39%) have a non-empty value of `Number`.
+563 types (50%) occur at least once with a non-empty value of `Number`.
 370 lemmas (46%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (657; 21% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (304; 10% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (256; 8% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> (658; 21% instances), <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> (304; 10% instances), <tt><a href="nmf_suansu-pos-PROPN.html">PROPN</a></tt> (256; 8% instances), <tt><a href="nmf_suansu-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-657 <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+658 <tt><a href="nmf_suansu-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (388; 59%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (389; 59%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (29; 4% of non-empty `Number`): <em>trahnpha, baneopha, neopha, thathokpha, Duhpha, Katrahnpha, Offerpha, Russianla, bikpha, chokeypha</em>
-* `Sing` (628; 96% of non-empty `Number`): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, sir</em>
+* `Sing` (629; 96% of non-empty `Number`): <em>miszu, neo, baneo, insurance, leneo, rhui, puirawi, Szukhyate, bya, sir</em>
 * `EMPTY` (12): <em>mugali, Asza, Rigatratrahn, Tuesday, duh, holiday, kwehn, mathet, miszu, miszuma</em>
 
 <table>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 304 <tt><a href="nmf_suansu-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (262; 86%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (170; 56%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="nmf_suansu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (263; 87%), <tt><a href="nmf_suansu-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (170; 56%).
 
 `PRON` tokens may have the following values of `Number`:
 

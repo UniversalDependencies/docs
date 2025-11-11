@@ -23,7 +23,7 @@ The following 15 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 9 conj	color:blue
 1	Bunan	bu	PRON	_	Case=Erg|Number=Plur|Person=3|PronType=Prs	4	obj	4:obj	_
-2	Soviet	Soviet	NOUN	_	Number=Sing	4	obj	4:obj	OrigLang=en
+2	Soviet	Soviet	NOUN	_	Number=Sing	1	appos	1:appos	OrigLang=en
 3	spy	spy	NOUN	_	Number=Sing	2	flat	2:flat	OrigLang=en
 4	choklaha	chokla	VERB	_	Aspect=Imp|Mood=Ind|Tense=Pqp|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 5	,	,	PUNCT	_	_	9	punct	9:punct	_

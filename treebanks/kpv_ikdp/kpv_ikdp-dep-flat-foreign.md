@@ -28,14 +28,14 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	6	nsubj	_	GTtags=Err/Dial,Dem
 4	сэтысь	сэтысь	ADV	Adv	AdvType=Loc|Case=Ela	6	advmod	_	GTtags=Ela
 5	и	и	ADV	Adv	_	6	advmod	_	_
-6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
+6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
 8	мый	мый	SCONJ	CS	_	13	mark	_	_
 9	ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	GTtags=Pers,Pl1,Nom|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	изьватасыс	изьватас	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	appos	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	11	punct	_	_
-13	кӧсъям	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	6	dislocated	_	GTtags=Ind,Prs,Pl1
+13	кӧсъям	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	dislocated	_	GTtags=Ind,Prs,Pl1
 14	босьны	босьтны	VERB	V	VerbForm=Inf	13	xcomp	_	GTtags=Inf
 15	статус	статус	NOUN	N	Case=Nom|Number=Sing	14	obj	_	GTtags=Sg,Nom
 16	«	«	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No

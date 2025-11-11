@@ -16,10 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ar_pud-pos-PART.htm
 
 ### `PART`
 
-162 <tt><a href="ar_pud-pos-PART.html">PART</a></tt> tokens (29% of all `PART` tokens) have a non-empty value of `Polarity`.
+162 <tt><a href="ar_pud-pos-PART.html">PART</a></tt> tokens (35% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (162; 100% of non-empty `Polarity`): لم، لا، غير، لن، ليس، ما
-* `EMPTY` (404): و، س، قد، ما، ف، لكن، إن، أن، كما، لا
+* `EMPTY` (302): س، قد، ما، ف، لكن، إن، أن، كما، لا، إلا
 

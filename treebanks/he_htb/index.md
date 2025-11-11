@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Yoav Goldberg, Reut Tsarfaty, Amir More, Shoval Sadde, Victoria Basmov, Yuval Pinter.
 
 Repository: [UD_Hebrew-HTB](https://github.com/UniversalDependencies/UD_Hebrew-HTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -107,7 +107,7 @@ Note that these papers do not accurately reflect the current annotation in the T
 
 ## Relations
 
-[acl](he_htb-dep-acl.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:affix](he_htb-dep-compound-affix.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [discourse](he_htb-dep-discourse.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat](he_htb-dep-flat.html) – [flat:name](he_htb-dep-flat-name.html) – [mark](he_htb-dep-mark.html) – [mark:q](he_htb-dep-mark-q.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nsubj:outer](he_htb-dep-nsubj-outer.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
+[acl](he_htb-dep-acl.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:affix](he_htb-dep-compound-affix.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [discourse](he_htb-dep-discourse.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat](he_htb-dep-flat.html) – [flat:name](he_htb-dep-flat-name.html) – [iobj](he_htb-dep-iobj.html) – [mark](he_htb-dep-mark.html) – [mark:q](he_htb-dep-mark-q.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nsubj:outer](he_htb-dep-nsubj-outer.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -307,7 +307,7 @@ Note that these papers do not accurately reflect the current annotation in the T
 <ul>
   <li>Acc
     <ul>
-      <li>ADP: את, את_, אתכם, אתו, אתם</li>
+      <li>ADP: את, את_, אתכם, אתם</li>
       <li>PRON: _הוא, _הם, _היא, _הן, _אני, _אתה, _אתם</li>
     </ul>
   </li>
@@ -733,19 +733,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1391)</li>
+      <li>VERB--NOUN (1387)</li>
       <li>VERB--NOUN-ADP(ב) (1)</li>
       <li>VERB--NOUN-ADP(כ) (9)</li>
       <li>VERB--NOUN-ADP(מ) (6)</li>
-      <li>VERB--PRON (162)</li>
+      <li>VERB--PRON (161)</li>
       <li>VERB--PRON-Acc-ADP(את) (8)</li>
       <li>VERB-Inf--NOUN (1007)</li>
       <li>VERB-Inf--NOUN-ADP(כ) (1)</li>
-      <li>VERB-Inf--PRON (91)</li>
+      <li>VERB-Inf--PRON (90)</li>
       <li>VERB-Inf--PRON-Acc-ADP(את) (38)</li>
-      <li>VERB-Part--NOUN (755)</li>
+      <li>VERB-Part--NOUN (753)</li>
       <li>VERB-Part--NOUN-ADP(כ) (2)</li>
-      <li>VERB-Part--PRON (97)</li>
+      <li>VERB-Part--PRON (96)</li>
       <li>VERB-Part--PRON-Acc-ADP(את) (2)</li>
     </ul>
   </li>
@@ -754,6 +754,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB--PRON (1)</li>
+      <li>VERB-Part--NOUN (2)</li>
+      <li>VERB-Part--PRON (1)</li>
     </ul>
   </li>
 </ul>
@@ -771,5 +774,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

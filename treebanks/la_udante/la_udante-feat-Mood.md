@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (68; 1% of non-empty `Mood`): <em>dic, nolite, venite, Vade, ades, age, parcite, puta, respice, Assumite</em>
 * `Ind` (3651; 76% of non-empty `Mood`): <em>potest, patet, habet, dicimus, videtur, dicit, dico, oportet, dicitur, dicunt</em>
 * `Sub` (1080; 23% of non-empty `Mood`): <em>possit, posset, habeat, fiat, sequeretur, habeant, possint, videatur, consideremus, consideretur</em>
-* `EMPTY` (3431): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, dicere, existente, posse</em>
+* `EMPTY` (3435): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, posse, dicere, existente</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -99,11 +99,11 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (706; 77%),
+<tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (704; 77%),
 <tt>VERB --[<tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (44; 52%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (36; 67%),
 <tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (25; 81%),
-<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (12; 60%),
+<tt>VERB --[<tt><a href="la_udante-dep-cop-outer.html">cop:outer</a></tt>]--> AUX</tt> (12; 57%),
 <tt>VERB --[<tt><a href="la_udante-dep-parataxis-reporting.html">parataxis:reporting</a></tt>]--> VERB</tt> (5; 63%),
 <tt>AUX --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="la_udante-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 100%),

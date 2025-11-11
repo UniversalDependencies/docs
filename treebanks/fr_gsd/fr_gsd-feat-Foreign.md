@@ -9,43 +9,31 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1928 tokens (0%) have a non-empty value of `Foreign`.
-1300 types (3%) occur at least once with a non-empty value of `Foreign`.
-1302 lemmas (4%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1927; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+1946 tokens (0%) have a non-empty value of `Foreign`.
+1314 types (3%) occur at least once with a non-empty value of `Foreign`.
+1316 lemmas (4%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 1 part-of-speech tags: <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1946; 0% instances).
 
 ### `X`
 
-1927 <tt><a href="fr_gsd-pos-X.html">X</a></tt> tokens (66% of all `X` tokens) have a non-empty value of `Foreign`.
+1946 <tt><a href="fr_gsd-pos-X.html">X</a></tt> tokens (66% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1918; 100%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1944; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (1927; 100% of non-empty `Foreign`): <em>the, of, and, de, in, for, Company, a, me, live</em>
-* `EMPTY` (1014): <em>etc., del, a, von, de, B, s, van, di, ibn</em>
+* `Yes` (1946; 100% of non-empty `Foreign`): <em>the, of, and, de, in, for, Company, a, me, live</em>
+* `EMPTY` (1011): <em>etc., del, a, von, de, B, s, van, di, ibn</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (1302) occur only with one value of `Foreign`.
-
-### `PROPN`
-
-1 <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PROPN` tokens may have the following values of `Foreign`:
-
-* `Yes` (1; 100% of non-empty `Foreign`): <em>Church</em>
-* `EMPTY` (27718): <em>France, Paris, Europe, États-Unis, de, Jean, Maroc, Espagne, New, York</em>
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (1316) occur only with one value of `Foreign`.
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="fr_gsd-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (1061; 100%),
-<tt>X --[<tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt>]--> X</tt> (188; 97%),
-<tt>X --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> X</tt> (65; 80%),
+<tt>X --[<tt><a href="fr_gsd-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (1075; 100%),
+<tt>X --[<tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt>]--> X</tt> (190; 97%),
+<tt>X --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> X</tt> (65; 87%),
 <tt>X --[<tt><a href="fr_gsd-dep-appos.html">appos</a></tt>]--> X</tt> (10; 77%),
 <tt>X --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> X</tt> (5; 83%),
-<tt>X --[<tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt>]--> X</tt> (4; 100%),
 <tt>X --[<tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt>]--> X</tt> (1; 100%).
 

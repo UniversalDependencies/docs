@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
 8	1992	1992	NUM	_	NumType=Card	1	nmod:tmod	_	SpaceAfter=No
 9	)	)	PUNCT	_	_	8	punct	_	_
-10	mempertemukan	temu	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+10	mempertemukan	temu	VERB	_	Voice=Act	0	root	_	_
 11	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 12	dengan	dengan	ADP	_	_	13	case	_	_
 13	rekan	rekan	NOUN	_	Number=Sing	10	obl	_	_

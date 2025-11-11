@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Korean-KSL: Relations: `compound`
 
 This relation is universal.
+There are 1 language-specific subtypes of `compound`: <tt><a href="ko_ksl-dep-compound-lvc.html">compound:lvc</a></tt>.
 
-112 nodes (0%) are attached to their parents as `compound`.
+114 nodes (0%) are attached to their parents as `compound`.
 
-112 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04464285714286.
+114 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04385964912281.
 
-The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (63; 56% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (21; 19% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (13; 12% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (13; 12% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (69; 61% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (20; 18% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -52,26 +53,23 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 compound	color:blue
-1	아침에	아침+에	ADV	NNG+JKB	_	4	obl	_	_
-2	공기가	공기+가	NOUN	NNG+JKS	_	4	nsubj	_	_
-3	더	더	ADV	MAG	_	4	advmod	_	_
-4	맑고	맑+고	VERB	VA+EC	_	14	advcl	_	_
-5	하루의	하루+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
-6	시작이라서	시작+이+라서	VERB	NNG+VCP+EC	_	4	conj	_	_
-7	아침에	아침+에	ADV	NNG+JKB	_	8	obl	_	_
-8	운동하면	운동+하+면	VERB	NNG+XSV+EC	_	14	advcl	_	_
-9	하루	하루	NOUN	NNG	_	10	compound	_	_
-10	종일	종일	ADV	MAG	_	12	advmod	_	_
-11	활기있게	활기+있+게	ADV	NNG+VV+EC	_	12	advmod	_	_
-12	일할	일+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
-13	수	수	NOUN	NNB	_	14	nsubj	_	_
-14	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
-15	.	.	PUNCT	SF	_	14	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 compound	color:blue
+1	남자	남자	NOUN	NNG	_	2	compound	_	_
+2	친구하고	친구+하고	ADV	NNG+JKB	_	5	obl	_	_
+3	오랫동안	오래동안	ADV	MAG	_	5	obl	_	_
+4	못	못	ADV	MAG	_	5	advmod	_	_
+5	만나서	만나+아서	VERB	VV+EC	_	7	advcl	_	_
+6	데이트를	데이트+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	하고	하+고	VERB	VV+EC	_	10	advcl	_	_
+8	싶지만	싶	AUX	VX+EC	_	7	aux	_	_
+9	남자친구가	남자+친구+가	NOUN	NNG+NNG+JKS	_	10	nsubj	_	_
+10	대학교	대학교	NOUN	NNG	_	11	nmod	_	_
+11	4학년입니다	4+학년+이+ㅂ니다	ADJ	SN+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
 
 ~~~
 

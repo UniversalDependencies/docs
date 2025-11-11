@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Dem`, `Ind`, `Prs`, `Rel`.
 
-1178 tokens (6%) have a non-empty value of `PronType`.
-109 types (2%) occur at least once with a non-empty value of `PronType`.
+1339 tokens (6%) have a non-empty value of `PronType`.
+116 types (2%) occur at least once with a non-empty value of `PronType`.
 29 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1178; 6% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1339; 6% instances).
 
 ### `PRON`
 
-1178 <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `PronType`.
+1339 <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ka_gnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (932; 79%), <tt><a href="ka_gnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (932; 79%), <tt><a href="ka_gnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (932; 79%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ka_gnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1036; 77%), <tt><a href="ka_gnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1036; 77%), <tt><a href="ka_gnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1036; 77%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (348; 30% of non-empty `PronType`): <em>ეს, ამ, იმ, ის, ამას, ამის, იმის, იგი, იმას, ამა</em>
-* `Ind` (90; 8% of non-empty `PronType`): <em>რაღაც, ისეთი, ასეთი, ასეთ, რომელიღაც, ვიღაც, ისეთ, ასეთები, რაღაცას, ასეთთა</em>
-* `Prs` (626; 53% of non-empty `PronType`): <em>მას, იგი, მის, მე, მისი, ის, თავის, თავისი, ჩვენ, შენ</em>
-* `Rel` (114; 10% of non-empty `PronType`): <em>რომელიც, რაც, რომელსაც, რასაც, ვინც, რომლებიც, რომლის, როგორიც, რომელ, ვისაც</em>
-* `EMPTY` (257): <em>რა, ვინ, რას, არავინ, არაფერი, რამ, თავი, თავს, ვის, რამე</em>
+* `Dem` (399; 30% of non-empty `PronType`): <em>ეს, ამ, იმ, ის, ამას, იმის, ამის, იმავე, იგი, იმას</em>
+* `Ind` (100; 7% of non-empty `PronType`): <em>რაღაც, ისეთი, ასეთი, ასეთ, რომელიღაც, ვიღაც, ისეთ, ასეთები, რაღაცას, ასეთთა</em>
+* `Prs` (718; 54% of non-empty `PronType`): <em>მას, მე, იგი, მისი, მის, თავის, ის, ჩემი, შენ, თავისი</em>
+* `Rel` (122; 9% of non-empty `PronType`): <em>რომელიც, რაც, რომელსაც, რასაც, ვინც, რომლებიც, რომლის, როგორიც, რომელ, ვისაც</em>
+* `EMPTY` (288): <em>რა, ვინ, რას, არავინ, არაფერი, თავი, თავს, ვინმეს, თავ, რამე</em>
 
 <table>
   <tr><th>Paradigm <i>ის</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

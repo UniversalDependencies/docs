@@ -25,14 +25,14 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Комияс	коми	NOUN	N	Case=Nom|Number=Plur	4	dislocated	_	GTtags=Pl,Nom
 2	ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	GTtags=Pers,Pl1,Nom
 3	уджавнытӧ	уджавны	VERB	V	Clitic=To|VerbForm=Inf	4	xcomp	_	GTtags=IV,Inf,Clt/тӧ
-4	кужам	кужны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,Pl1|SpaceAfter=No
+4	кужам	кужны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prs,Pl1|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	11	punct	_	_
 6	сӧмын	сӧмын	SCONJ	CS	_	11	cc	_	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	8	punct	_	_
 8	гашкӧ	гашкӧ	ADV	Adv	_	11	dislocated	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	_	_
 10	шойччынысӧ	шойччыны	VERB	V	Clitic=So|VerbForm=Inf	11	orphan	_	GTtags=IV,Inf,Clt/сӧ
-11	ог	оз	VERB	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	4	conj	_	GTtags=Neg,Ind,Prs,Sg1|SpaceAfter=No
+11	ог	оз	VERB	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	conj	_	GTtags=Neg,Ind,Prs,Sg1|SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Мортыс	морт	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	dislocated	_	GTtags=N,Sg,Nom,PxSg3
 2	тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	GTtags=Pron,Pers,Sg2,Nom|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	GTtags=CLB
-4	аддза	аддзыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	advcl	_	GTtags=V,TV,Ind,Prs,Sg1|SpaceAfter=No
+4	аддза	аддзыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	GTtags=V,TV,Ind,Prs,Sg1|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 6	прӧстӧй	прӧстӧй	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=A,Sg,Nom|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	GTtags=CLB
@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 14	гашкӧ	гашкӧ	ADV	Adv	_	17	advmod	_	GTtags=Adv|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	14	punct	_	GTtags=CLB
 16	и	и	ADV	Adv	_	17	advmod	_	GTtags=Adv
-17	петас	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	6	conj	_	GTtags=V,IV,Ind,Fut,Sg3
+17	петас	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	conj	_	GTtags=V,IV,Ind,Fut,Sg3
 18	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	GTtags=Pron,Pers,Sg3,Nom|SpaceAfter=No
 19	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 

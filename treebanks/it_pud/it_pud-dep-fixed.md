@@ -46,12 +46,12 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 10 11 fixed	color:blue
 1	Cotton	Cotton	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	nacque	nascere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	il	il	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	il	il	DET	DT	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	31	31	NUM	CD	_	2	obl	_	_
 5	ottobre	ottobre	NOUN	NN	Gender=Masc|Number=Sing	4	flat	_	_
 6	1832	1832	NUM	CD	_	5	flat	_	_
 7	in	in	ADP	IN	_	9	case	_	_
-8	un	uno	DET	DT	Gender=Masc|Number=Sing	9	det	_	_
+8	un	uno	DET	DT	Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	villaggio	villaggio	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 10	vicino	vicino	ADV	RB	_	12	case	_	_
 11	a	a	ADP	IN	_	10	fixed	_	_
@@ -67,7 +67,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 fixed	color:blue
-1	La	il	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	La	il	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Rivoluzione	Rivoluzione	PROPN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	Industriale	Industriale	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
 4	ebbe	avere	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_

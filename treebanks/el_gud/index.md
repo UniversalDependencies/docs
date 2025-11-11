@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Stella Markantonatou, Vivian Stamou, Socrates Vak.
 
 Repository: [UD_Greek-GUD](https://github.com/UniversalDependencies/UD_Greek-GUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gud216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gud217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -63,7 +63,7 @@ GUD is a resource for EL manually annotated for morphology and syntax. It is an 
 
 The GDT team wish to thank ILSP researchers Haris Papageorgiou and Maria Koutsombogera, as well as all student annotators for their contributions to the GDT effort.
 
-The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also expressed to the NKUA students Fei Poulou, Georgia Apostolopoulou, Antonis Balas and Maria Panagiotopoulou, as well as the 2020-2022 students of [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg) for their contribution to the morphological annotation of the treebank.
+The GUD team ows special thanks to Socratis Vakirtzian (NKUA) and to Stavros Bompolas (Archimedes/ATHENA RC). Thanks are also expressed to the 2020-2025 students of the MSc programme [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg) for their contribution to the annotation of the treebank with morphosyntactic and MWE information.
 
 ## References
 
@@ -120,7 +120,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as pronouns (PRON): δικός, εγώ, μου, οποίος, ου, ποιος, που, τίνος, τι, ό,τι</li>
+<li>This corpus contains 9 lemmas tagged as pronouns (PRON): δικός, εγώ, οποίος, ου, ποιος, που, τίνος, τι, ό,τι</li>
 </ul>
 
 <ul>
@@ -154,7 +154,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχαν, είσαι</li>
+    <li>AUX: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχα, είχαν</li>
     <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
   </ul>
   </li>
@@ -207,7 +207,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
       <li>DET: ο, τον, του, οι, τους, το, έναν, αυτός, όλοι, αυτοί</li>
       <li>NOUN: αστυνόμε, υπολογιστή, χρόνο, καφέ, δρόμο, υπαρχηγός, φόνο, αριθμό, υπαρχηγό, κλειδαρά</li>
       <li>NUM: δύο, δυο, ένας, τρεις, έναν, εννιά, τέσσερις, τριών</li>
-      <li>PRON: του, τον, τους, που, σας, μου, σου, εγώ, μας, με</li>
+      <li>PRON: του, τον, τους, που, σας, μου, σου, Εγώ, μας, με</li>
       <li>PROPN: Ούλι, Σωτηρόπουλος, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα, Παπαδάκης, Σωτηρόπουλου, Δημητρίου, Γκίκας</li>
       <li>SCONJ: ποιος, ποιον, ποιοι</li>
       <li>VERB: ευχαριστημένος, αναστατωμένος, βυθισμένος, δυσαρεστημένος, εκβιαζόμενος, εμπλεκόμενος, καλεσμένοι, καλμαρισμένος, καταχαρούμενοι, κουρδισμένος</li>
@@ -225,7 +225,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
       <li>INTJ: Συγχαρητήρια</li>
       <li>NOUN: σπίτι, γραφείο, τηλέφωνο, λεφτά, κεφάλι, χρόνια, κινητό, χέρι, δωμάτιο, βλέμμα</li>
       <li>NUM: δύο, δυο, ένα, πενήντα, δέκα, πέντε, τρία, διακόσια, δωδεκάμιση, είκοσι</li>
-      <li>PRON: το, που, τα, τι, τ', του, Ποιο, εγώ, οποία, ό,τι</li>
+      <li>PRON: το, που, τα, τι, τ', του, Ποιο, οποία, ό,τι</li>
       <li>PROPN: Δήλεσι, Πάσχα, Σέατ, Ιράκ, Χαλάνδρι, Ελγίνεια, Λονδίνο, Κερατσίνι, Ναρκωτικών, δημόσιο</li>
       <li>SCONJ: τι, ποια, ποιο</li>
       <li>VERB-Conv: κολλημένα, σκισμένο, στρωμένο</li>
@@ -264,8 +264,8 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
   <li>Sing
     <ul>
       <li>ADJ: κύριε, πρώτη, δική, δεύτερη, Ασιάτη, μεγάλη, πρώτο, αστυνομικό, κυρία, Αγίου</li>
-      <li>AUX: είναι, ήταν, έχει, είμαι, είχε, έχω, είσαι, είχα, έχεις, 'χω</li>
-      <li>AUX-Fin: είναι, ήταν, έχει, είμαι, είχε, έχω, είσαι, είχα, έχεις, 'χω</li>
+      <li>AUX: είναι, ήταν, έχει, είμαι, είχε, έχω, είχα, είσαι, έχεις, 'χω</li>
+      <li>AUX-Fin: είναι, ήταν, έχει, είμαι, είχε, έχω, είχα, είσαι, έχεις, 'χω</li>
       <li>DET: το, την, ο, η, τον, τη, του, της, μια, ένα</li>
       <li>INTJ: Καλημέρα, καληνύχτα</li>
       <li>NOUN: σπίτι, γραφείο, πόρτα, τηλέφωνο, αστυνόμε, δολοφονία, φορά, δουλειά, αστυνομία, μέρα</li>
@@ -294,7 +294,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
       <li>INTJ: Καλημέρα, καληνύχτα</li>
       <li>NOUN: σπίτι, γραφείο, πόρτα, τηλέφωνο, δολοφονία, μέρα, φορά, αστυνομία, κεφάλι, υπολογιστή</li>
       <li>NUM: δύο, δυο, τρεις, δέκα, μια, ένα, πέντε, έναν, έντεκα, έξι</li>
-      <li>PRON: το, τον, με, που, μας, τα, τους, σας, την, τι</li>
+      <li>PRON: το, τον, με, που, τα, μας, την, τι, τους, σας</li>
       <li>PROPN: Ελλάδα, Αδριανή, Γκίκα, Σωτηρόπουλο, Φάνη, Κούλα, Ούλι, Παπαδάκη, Δήλεσι, Χαρδάκο</li>
       <li>SCONJ: τι, ποιον</li>
       <li>VERB: αγανακτισμένο, αγαπημένα, αναμμένα, αναστατωμένο, βεβιασμένη, βουρκωμένα, βυθισμένο, δαγκωμένα, δηλωμένο, διανθισμένο</li>
@@ -311,7 +311,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
       <li>DET: του, της, των, αυτού, αυτών, κάποιου, άλλων, ίδιας, ενός, κάποιας</li>
       <li>NOUN: δολοφονίας, σήμανσης, εγκλήματος, εταιρειών, κινητού, χρήματος, αστυνομίας, ασφαλείας, επίσκεψής, εταιρείας</li>
       <li>NUM: είκοσι, τεσσάρων, τριών</li>
-      <li>PRON: μου, του, της, μας, σας, σου, τους, μού, εμένα, που</li>
+      <li>PRON: μου, του, μας, της, σας, τους, σου, μού, που, τού</li>
       <li>PROPN: Χαρδάκου, Λαλόπουλου, Σωτηρόπουλου, Δημητρίου, Ελλάδας, Κηφισίας, Γκίκα, Κατερίνας, Πάσχα, Αδριανής</li>
       <li>VERB-Part: αυξανόμενης, εισαγόμενης</li>
     </ul>
@@ -433,7 +433,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: είναι, ήταν, είμαι, είμαστε, είσαι, είστε, ήμουν, είχα, είχε</li>
+      <li>AUX-Fin: είναι, ήταν, είμαι, είμαστε, είσαι, είστε, είχα, έχω, ήμουν, είχε</li>
       <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει, έχουμε</li>
       <li>VERB-Conv: γελώντας, σιχτιρίζοντας</li>
       <li>VERB-Fin: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, ξέρω, ρωτάει, έχουμε</li>
@@ -469,8 +469,8 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχαν, είσαι</li>
-      <li>AUX-Fin: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχαν, είσαι</li>
+      <li>AUX: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχαν, είχα</li>
+      <li>AUX-Fin: είναι, ήταν, έχει, είμαι, είμαστε, έχουν, είχε, έχω, είχα, είχαν</li>
       <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
       <li>VERB-Fin: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
       <li>VERB-Inf: αναρτήσει, γνωρίσει, περάσει, σκάσει</li>
@@ -494,7 +494,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
   <li>Past
     <ul>
       <li>AUX: ήταν, είχε, είχαν, είχα, είχαμε, έχει, ήμουν, είχατε, είχες</li>
-      <li>AUX-Fin: ήταν, είχε, είχαν, είχα, είχαμε, έχει, ήμουν, είχατε, είχες</li>
+      <li>AUX-Fin: ήταν, είχε, είχα, είχαν, είχαμε, έχει, ήμουν, είχατε, είχες</li>
       <li>VERB: είχε, είπε, έκανε, έγινε, ήρθε, είπα, έπρεπε, έκαναν, έλεγε, ήθελε</li>
       <li>VERB-Fin: είχε, είπε, έκανε, έγινε, ήρθε, είπα, έπρεπε, έκαναν, έλεγε, ήθελε</li>
     </ul>
@@ -520,7 +520,7 @@ The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also e
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: έχει, έχουν, είχε, έχω, είχαν, είχα, είχαμε, Έχουμε, έχεις, είχατε</li>
+      <li>AUX-Fin: έχει, έχουν, έχω, είχε, είχαν, είχα, είχαμε, Έχουμε, έχεις, είχατε</li>
       <li>VERB: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, κάνει, έχω, ξέρω, ρωτάει</li>
       <li>VERB-Conv: γελώντας, σιχτιρίζοντας</li>
       <li>VERB-Fin: λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, έχω, κάνει, ξέρω, ρωτάει</li>
@@ -814,11 +814,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (857)</li>
+      <li>VERB-Fin--NOUN-Acc (858)</li>
       <li>VERB-Fin--NOUN-Nom (18)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (603)</li>
-      <li>VERB-Fin--PRON-Gen (36)</li>
+      <li>VERB-Fin--PRON-Acc (587)</li>
+      <li>VERB-Fin--PRON-Gen (25)</li>
       <li>VERB-Fin--PRON-Nom (16)</li>
       <li>VERB-Inf--NOUN-Acc (23)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(περί) (1)</li>
@@ -826,6 +826,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (12)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -833,8 +834,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON-Acc (76)</li>
-      <li>VERB-Fin--PRON-Gen (311)</li>
+      <li>VERB-Fin--PRON-Acc (29)</li>
+      <li>VERB-Fin--PRON-Gen (327)</li>
       <li>VERB-Inf--PRON-Gen (3)</li>
     </ul>
   </li>

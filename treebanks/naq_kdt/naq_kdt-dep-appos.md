@@ -55,17 +55,22 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 appos	color:blue
-1	ǁHawana	ǁhawa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	2	obj	2:obj	_
-2	ǂan	ǂan	VERB	STAT	Voice=Act	0	root	0:root	_
-3	du	_	PRON	_	Case=Nom|Gender=Neut|Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-4	a	a	AUX	STAT.PRS	Tense=Pres	2	aux	2:aux	_
-5	ǃgaroǂûna	ǃgaroǂû	NOUN	_	Case=Acc|Gender=Neut|Number=Plur|Person=3	1	appos	1:appos	SpaceAfter=No
-6	?	?	PUNCT	_	_	2	punct	2:punct	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 10 appos	color:blue
+1	ǁîs	ǁî	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
+2	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
+3	Paris-i	Paris	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl	_
+4	ǃnâ	ǃnâ	ADP	_	_	3	case	3:case	_
+5	ge	ge	AUX	_	Tense=Past	6	aux	6:aux	_
+6	kai	kai	VERB	_	Voice=Act	0	root	0:root	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	10:punct	_
+8	France-i	France	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	10	nmod:poss	10:nmod:poss	_
+9	di	di	ADP	POSS	_	8	case	8:case	_
+10	danakaiǃāsa	danakaiǃā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	appos	3:appos	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 ~~~
 

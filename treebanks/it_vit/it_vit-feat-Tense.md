@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-24453 tokens (9%) have a non-empty value of `Tense`.
-5504 types (24%) occur at least once with a non-empty value of `Tense`.
-1668 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 6 part-of-speech tags: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (15673; 6% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8764; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+24454 tokens (9%) have a non-empty value of `Tense`.
+5505 types (24%) occur at least once with a non-empty value of `Tense`.
+1669 lemmas (11%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 6 part-of-speech tags: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (15674; 6% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8764; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-15673 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
+15674 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11240; 72%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7897; 50%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7861; 50%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11241; 72%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7897; 50%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7861; 50%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (664; 4% of non-empty `Tense`): <em>avrà, saranno, farà, andrà, darà, sarà, partirà, servirà, vedremo, avverrà</em>
 * `Imp` (683; 4% of non-empty `Tense`): <em>era, aveva, sembrava, faceva, andava, sapeva, stava, avevano, erano, avevo</em>
-* `Past` (8140; 52% of non-empty `Tense`): <em>fatto, detto, approvato, previsto, avuto, previsti, deciso, ottenuto, visto, chiesto</em>
+* `Past` (8141; 52% of non-empty `Tense`): <em>fatto, detto, approvato, previsto, avuto, previsti, deciso, ottenuto, visto, chiesto</em>
 * `Pres` (6186; 39% of non-empty `Tense`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
 * `EMPTY` (5721): <em>fare, far, avere, dare, dire, partire, chiedere, andare, derivanti, trovare</em>
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Pres` (10; 100% of non-empty `Tense`): <em>redigente, controllanti, cauzionante, dice, vedo</em>
-* `EMPTY` (57872): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57873): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `ADJ`
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (4; 100% of non-empty `Tense`): <em>abilitati, illegittima, morta, sommato</em>
-* `EMPTY` (20171): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
+* `EMPTY` (20170): <em>primo, precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi</em>
 
 ### `CCONJ`
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 `CCONJ` tokens may have the following values of `Tense`:
 
 * `Pres` (1; 100% of non-empty `Tense`): <em>pesino</em>
-* `EMPTY` (8198): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8178): <em>e, ma, o, ed, sia, come, che, cioè, ovvero, nonché</em>
 
 ### `PRON`
 

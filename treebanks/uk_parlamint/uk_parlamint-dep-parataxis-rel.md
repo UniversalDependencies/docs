@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `parataxis:rel`: <tt
 14	,	,	PUNCT	PUNCT	_	22	punct	_	_
 15	що	що	SCONJ	SCONJ	_	22	mark	_	_
 16	є	бути	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
-17	ніщо	ніщо	PRON	PRON	Animacy=Inan|Case=Nom|PronType=Neg	22	discourse	_	_
+17	ніщо	ніщо	PRON	PRON	Animacy=Inan|Case=Nom|ExtPos=DET|PronType=Neg	22	discourse	_	_
 18	інше	інше	DET	DET	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	17	fixed	_	SpaceAfter=No
 19	,	,	PUNCT	PUNCT	_	20	punct	_	_
 20	як	як	SCONJ	SCONJ	_	17	fixed	_	_

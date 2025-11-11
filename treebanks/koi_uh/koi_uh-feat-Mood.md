@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.htm
 
 144 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (144; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (121; 84%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (115; 80%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (90; 63%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (144; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (121; 84%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (115; 80%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (90; 63%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 25 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 76%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (19; 76%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 56%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13; 52%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24; 96%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 76%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (19; 76%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 56%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 

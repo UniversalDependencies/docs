@@ -227,10 +227,10 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2250; 100%),
 <tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> DET</tt> (740; 97%),
-<tt>NOUN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (623; 97%),
-<tt>NOUN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (427; 96%),
+<tt>NOUN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (629; 97%),
+<tt>NOUN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (428; 96%),
 <tt>PROPN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (221; 100%),
-<tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (160; 98%),
+<tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (159; 98%),
 <tt>VERB --[<tt><a href="la_circse-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (131; 54%),
 <tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> PRON</tt> (88; 95%),
 <tt>ADJ --[<tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (86; 97%),

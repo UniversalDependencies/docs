@@ -11,7 +11,7 @@ It occurs with 1 different values: `Comp`.
 
 20092 tokens (1%) have a non-empty value of `ConjType`.
 5 types (0%) occur at least once with a non-empty value of `ConjType`.
-5 lemmas (0%) occur at least once with a non-empty value of `ConjType`.
+3 lemmas (0%) occur at least once with a non-empty value of `ConjType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (20092; 1% instances).
 
 ### `CCONJ`

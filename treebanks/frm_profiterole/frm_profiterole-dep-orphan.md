@@ -8,39 +8,39 @@ udver: '2'
 
 This relation is universal.
 
-64 nodes (0%) are attached to their parents as `orphan`.
+80 nodes (0%) are attached to their parents as `orphan`.
 
-61 instances of `orphan` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.359375.
+74 instances of `orphan` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.125.
 
-The following 19 pairs of parts of speech are connected with `orphan`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (15; 23% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (8; 13% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 11% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 6% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 23 pairs of parts of speech are connected with `orphan`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (19; 24% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (9; 11% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (9; 11% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (6; 8% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (5; 6% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 17 orphan	color:blue
-1	Si	si4	ADV	ADVgen	_	2	advmod	_	XmlId=w_42_23561
-2	print	prendre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_23562
-3	le	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_42_23563
-4	roy	roi1	NOUN	NOMcom	_	2	obj	_	XmlId=w_42_23564
-5	par	par1	ADP	PRE	_	7	case	_	XmlId=w_42_23565
-6	la	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_42_23566
-7	main	main1	NOUN	NOMcom	_	2	obl	_	XmlId=w_42_23567
-8	dextre	dextre	ADJ	ADJqua	_	7	amod	_	SpaceAfter=No|XmlId=w_42_23568
-9	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_42_23569
-10	et	et	CCONJ	CONcoo	_	12	cc	_	XmlId=w_42_23570
-11	le	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_42_23571
-12	roy	roi1	NOUN	NOMcom	_	4	conj	_	XmlId=w_42_23572
-13	d'	de	ADP	PRE	_	14	case	_	SpaceAfter=No|XmlId=w_42_23573
-14	Angleterre	Angleterre	PROPN	NOMpro	_	12	nmod	_	XmlId=w_42_23574
-15	par	par1	ADP	PRE	_	17	case	_	XmlId=w_42_23575
-16	la	le	DET	DETdef	Definite=Def|PronType=Art	17	det	_	XmlId=w_42_23576
-17	main	main1	NOUN	NOMcom	_	12	orphan	_	XmlId=w_42_23577
-18	senestre	senestre	ADJ	ADJqua	_	17	amod	_	SpaceAfter=No|XmlId=w_42_23578
-19	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_23579
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 orphan	color:blue
+1	Et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_jouvencel1_13395
+2	pour	pour	ADP	PRE	_	3	mark	_	XmlId=w_jouvencel1_13396
+3	estre	être1	VERB	VERinf	VerbForm=Inf	7	advcl	_	XmlId=w_jouvencel1_13397
+4	derrière	derrière	ADV	ADVgen	_	3	advmod	_	XmlId=w_jouvencel1_13398
+5	il	il	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_jouvencel1_13399
+6	en	en2	ADV	PROadv	_	8	nmod	_	XmlId=w_jouvencel1_13400
+7	ordonna	ordonner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_13401
+8	deux	deux	PRON	PROcar	NumType=Card	7	obj	_	XmlId=w_jouvencel1_13402
+9	et	et	CCONJ	CONcoo	_	11	cc	_	XmlId=w_jouvencel1_13403
+10	le	le	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_jouvencel1_13404
+11	surplus	surplus	NOUN	NOMcom	_	8	conj	_	XmlId=w_jouvencel1_13405
+12	ou	en1.le	ADP	PRE.DETdef	_	13	case:det	_	XmlId=w_jouvencel1_13406
+13	mylieu	milieu	NOUN	NOMcom	_	11	orphan	_	SpaceAfter=No|XmlId=w_jouvencel1_13407
+14	,	,	PUNCT	PONfbl	_	11	punct	_	XmlId=w_jouvencel1_13408
+15	qui	qui1	PRON	PROrel	PronType=Rel	18	nsubj	_	XmlId=w_jouvencel1_13409
+16	estoient	être	AUX	VERcjg	VerbForm=Fin	18	cop	_	XmlId=w_jouvencel1_13410
+17	XIX	dix-neuf	DET	DETcar	NumType=Card	18	det	_	XmlId=w_jouvencel1_13411
+18	chevaulx	cheval	NOUN	NOMcom	_	11	acl:relcl	_	SpaceAfter=No|XmlId=w_jouvencel1_13412
+19	.	.	PUNCT	PONfrt	_	8	punct	_	XmlId=w_jouvencel1_13413
 
 ~~~
 

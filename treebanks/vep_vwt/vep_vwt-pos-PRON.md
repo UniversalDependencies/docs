@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Veps-VWT: POS Tags: `PRON`
 
-There are 20 `PRON` lemmas (5%), 56 `PRON` types (9%) and 168 `PRON` tokens (13%).
+There are 17 `PRON` lemmas (4%), 56 `PRON` types (9%) and 168 `PRON` tokens (13%).
 Out of 13 observed tags, the rank of `PRON` is: 6 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>minä, nece, iče, mö, kaik, se, hän, hö, tö, kudamb</em>
+The 10 most frequent `PRON` lemmas: <em>minä, nece, iče, hän, kaik, se, sinä, kudamb, mitte, toine</em>
 
 The 10 most frequent `PRON` types:  <em>minä, ičeze, nece, meiden, minun, mö, kaik, minei, hän, kaiken</em>
 
@@ -21,17 +21,17 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.800000 (the average of all parts of speech is 1.538660).
+The form / lemma ratio of `PRON` is 3.294118 (the average of all parts of speech is 1.550649).
 
-The 1st highest number of forms (6) was observed with the lemma “nece”: <em>nece, necen, neche, necidä, necil, neciš</em>.
+The 1st highest number of forms (8) was observed with the lemma “minä”: <em>meid, meiden, meile, mindai, minei, minun, minä, mö</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “kaik”: <em>kaik, kaiked, kaiken, kaikes, kaikile</em>.
+The 2nd highest number of forms (7) was observed with the lemma “hän”: <em>heiden, heile, heišpäi, hän, hänele, hänen, hö</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “tö”: <em>Teid, Teiden, Teil, Teile, Tö</em>.
+The 3rd highest number of forms (6) was observed with the lemma “nece”: <em>nece, necen, neche, necidä, necil, neciš</em>.
 
-`PRON` occurs with 6 features: <tt><a href="vep_vwt-feat-Case.html">Case</a></tt> (168; 100% instances), <tt><a href="vep_vwt-feat-Number.html">Number</a></tt> (168; 100% instances), <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt> (166; 99% instances), <tt><a href="vep_vwt-feat-Person.html">Person</a></tt> (102; 61% instances), <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt> (19; 11% instances), <tt><a href="vep_vwt-feat-Clitic.html">Clitic</a></tt> (3; 2% instances)
+`PRON` occurs with 6 features: <tt><a href="vep_vwt-feat-Case.html">Case</a></tt> (168; 100% instances), <tt><a href="vep_vwt-feat-Number.html">Number</a></tt> (168; 100% instances), <tt><a href="vep_vwt-feat-PronType.html">PronType</a></tt> (168; 100% instances), <tt><a href="vep_vwt-feat-Person.html">Person</a></tt> (102; 61% instances), <tt><a href="vep_vwt-feat-Reflex.html">Reflex</a></tt> (19; 11% instances), <tt><a href="vep_vwt-feat-Clitic.html">Clitic</a></tt> (3; 2% instances)
 
-`PRON` occurs with 19 feature-value pairs: `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Clitic=Se`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`
+`PRON` occurs with 20 feature-value pairs: `Case=Ade`, `Case=All`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Clitic=Se`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`
 
 `PRON` occurs with 45 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing|Person=1|PronType=Prs` (24 tokens).

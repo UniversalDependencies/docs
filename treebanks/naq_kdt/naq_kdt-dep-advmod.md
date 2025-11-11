@@ -24,7 +24,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 1 advmod	color:blue
 1	Nēpa	nēpa	ADV	_	Deixis=Prox|PronType=Dem	6	advmod	6:advmod	_
-2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	6:nsubj	_
+2	b	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 3	ge	ge	AUX	DECL	Mood=Ind	6	aux	6:aux	_
 4	ǀgawiga	ǀgawiga	ADV	_	_	6	advmod	6:advmod	_
 5	a	a	AUX	STAT.PRS	Tense=Pres	6	aux	6:aux	_

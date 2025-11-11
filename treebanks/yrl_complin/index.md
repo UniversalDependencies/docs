@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Leonel Figueiredo de Alencar.
 
 Repository: [UD_Nheengatu-CompLin](https://github.com/UniversalDependencies/UD_Nheengatu-CompLin)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrl_complin216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyrl_complin217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -49,21 +49,21 @@ The [UD_Nheengatu-CompLin](https://aclanthology.org/2024.propor-2.8) is a treeba
 
 
 
-To our knowledge, this is the first treebank of Nheengatu. It is a work in progress. The initial release only contained a couple hundred sentences. This new release encompasses more than nine times that number. We plan to continually expand the resource in the next months.
+This is the first morphosyntactic treebank of Nheengatu. It is a work in progress. The initial release only contained a couple hundred sentences. This new release encompasses more than 13 times that number. We plan to continually expand the resource in the next months.
 
-The treebank comprises sentences from diverse published sources freely available on the Internet, e.g., grammatical descriptions, fables, coursebooks, and dictionaries. The sentences were either extracted from PDF text files, transcribed from non-searchable (image-only) PDF files, or manually converted to orthography from phonetic transcriptions. Throughout the treebank, we use the spelling system proposed by Avila (2021). The annotation was performed semi-automatically, i.e., we first applied the Yauti morphosyntactic analyzer (de Alencar 2023) to each sentence and then manually revised the output.
+The treebank comprises sentences from diverse published sources freely available on the Internet, e.g., grammatical descriptions, fables, myths, coursebooks, and dictionaries. The sentences were either extracted from PDF text files, transcribed from non-searchable (image-only) PDF files, or manually converted to orthography from phonetic transcriptions. Throughout the treebank, we mostly use the spelling system proposed by Avila (2021), only diverging from this in a few instances. The annotation was performed semi-automatically, i.e., we first applied the Yauti morphosyntactic analyzer (de Alencar 2023, 2025) to each sentence and then manually revised the output.
 
-The development of this treebank and related tools and resources is part of the research activities of the Research Group on Computation and Natural Language (*Computação e Linguagem Natural* — CompLin) at the Humanities Center of the Federal University of Ceará in Brazil. The main contributor to this effort is Leonel Figueiredo de Alencar, coordinator of the CompLin group. Additional annotators include Dominick Maia Alexandre, Hélio Leonam Barroso Silva, and Juliana Lopes Gurgel, scholarship holder with the [DACILAT](https://bv.fapesp.br/57063) project, funded by the São Paulo State Research Support Foundation (*Fundação de Amparo à Pesquisa do Estado de São Paulo* — FAPESP) under Process No. 22/09158-5.
+The development of this treebank and related tools and resources is part of the research activities of the Research Group on Computation and Natural Language (*Computação e Linguagem Natural* — CompLin) at the Humanities Center of the Federal University of Ceará in Brazil. The main contributor to this effort is Leonel Figueiredo de Alencar, coordinator of the CompLin group. Additional annotators include Dominick Maia Alexandre, Hélio Leonam Barroso Silva, and Juliana Lopes Gurgel, who was scholarship holder with the [DACILAT](https://bv.fapesp.br/57063) project, funded by the São Paulo State Research Support Foundation (*Fundação de Amparo à Pesquisa do Estado de São Paulo* — FAPESP) under Process No. 22/09158-5.
 
-The following repository contains the most update development version of the treebank as well as related tools and resources:
+The following repository contains the most up-to-date development version of the treebank as well as related tools and resources:
 
 https://github.com/CompLin/nheengatu
 
-So far, the treebank includes examples from Seixas (1853), Magalhães (1876), Sympson (1877), Rogrigues (1890), Aguiar (1898), Costa (1909), Studart (1926), Amorim (1928), Hartt (1938), Moore, Facundes, and Pires (1994), Casasnovas (2006), Cruz (2011), Comunidade de Terra Preta (2013), Stradelli (1929/2014), Navarro (2016), Muller et al. (2019), Alencar (2021), Avila (2021), and Melgueiro (2022) as well as from the New Testament (*Novo Testamento na língua Nyengatu*, 1973/2019).
+So far, the treebank includes examples from Seixas (1853), Hartt (1872), Magalhães (1876), Sympson (1877), Rogrigues (1890), Aguiar (1898), Costa (1909), Studart (1926), Amorim (1928), Hartt (1938), Moore, Facundes, and Pires (1994), Casasnovas (2006), Cruz (2011), Comunidade de Terra Preta (2013), Stradelli (1929/2014), Navarro (2016), Melgueiro, Câmara, and Martins (2019), Muller et al. (2019), Alencar (2021), Avila (2021), and Melgueiro (2022) as well as from the New Testament (*Novo Testamento na língua Nyengatu*, 1973/2019) and from issues 3 and 17 of the *Leetra Indígena* journal (Universidade Federal de São Carlos, 2014, 2015).
 
 ## Acknowledgments
 
-We thank Eduardo de Almeida Navarro (University of São Paulo) for kindly allowing us to use examples and texts from his coursebook (Navarro 2016), whose glossary was the first basis for the morphological analyzer we implemented to annotate the UD_Nheengatu-CompLin treebank.
+We thank Eduardo de Almeida Navarro (University of São Paulo) for kindly allowing us to use examples and texts from his coursebook (Navarro 2016), whose glossary served as the initial basis for the morphological analyzer we implemented to annotate the UD_Nheengatu-CompLin treebank.
 
 We owe much to Avila (2021)'s dictionary, from which numerous treebank sentences stem. This dictionary also provided invaluable lexical, grammatical, and semantic information for the further development of the morphological analyzer and related treebank annotation tools. We are much obliged to its author, Marcel Twardowsky Avila, for making the XML version of the dictionary available to us and clarifying many questions about the dictionary entries.
 
@@ -85,10 +85,11 @@ Copyright of the treebank sentences and their translations belongs to their resp
 * Comunidade de Terra Preta. (2013). *Fábulas de Terra Preta: Uma coletânea bilingüe*.
 * Costa, D. Frederico. (1909). *Carta pastoral de D. Frederico Costa bispo do Amazonas a seus amados diocesanos*. Typ. Minerva.
 * Cruz, Aline da. (2011). *Fonologia e gramática do nheengatú: A língua falada pelos povos Baré, Warekena e Baniwa*. Netherlands National Graduate School of Linguistics.
-* de Alencar, Leonel Figueiredo. (2021). Uma gramática computacional de um fragmento do nheengatu / A computational grammar for a fragment of Nheengatu. _Revista de Estudos da Linguagem, 29_(3), 1717-1777. doi:http://dx.doi.org/10.17851/2237-2083.29.3.1717-1777
+* de Alencar, Leonel Figueiredo. (2021). Uma gramática computacional de um fragmento do nheengatu / A computational grammar for a fragment of Nheengatu. *Revista de Estudos da Linguagem, 29*(3), 1717-1777. doi:http://dx.doi.org/10.17851/2237-2083.29.3.1717-1777
 * de Amorim, Antonio Brandão. (1928). Lendas em nheêngatú e em portuguez. *Revista do Instituto Historico e Geographico Brasileiro, 154*(100), 9-475.
 * de Magalhães, J. V. C. (1876). *O selvagem*. Typographia da Reforma.
 * Maslova, Irina. (2018). *Tradução Comentada de Mitos e Lendas Amazônicas do Nheengatu para o Russo*. [Master's thesis, University of São Paulo]. doi:10.11606/D.8.2019.tde-22022019-175350
+* Melgueiro, Edilson Martins, Ana Suelly Arruda Câmara, & Martins, Marci Fileti. (2019). Orações relativas em Nheengatú ou Ingatú. *Revista Brasileira de Linguística Antropológica, 11*(2), 16. https://doi.org/10.26512/rbla.v11i02.28115
 * Melgueiro, Edilson Martins. (2022). *O Nheengatu de Stradelli aos dias atuais: uma contribuição aos estudos lexicais de línguas Tupí-Guaraní em perspectiva diacrônica*. [Doctoral dissertation, University of Brasília]. http://repositorio2.unb.br/jspui/handle/10482/44655
 * Moore, Denny, Facundes, Sidney, & Pires, Nádia. (1994). *Nheengatu (Língua Geral Amazônica), its History, and the Effects of Language Contact*. UC Berkeley: Department of Linguistics. Retrieved from https://escholarship.org/uc/item/7tb981s1
 * Muller, Jean-Claude, Dietrich, Wolf, Monserrat, Ruth, Barros, Cândida, Arenz, Karl-Heinz, & Prudente, Gabriel. (Eds.). (2019). *Dicionário De Língua Geral Amazônica*. Universitätsverlag Potsdam; Museu Paraense Emilio Goeldi.
@@ -100,6 +101,10 @@ Copyright of the treebank sentences and their translations belongs to their resp
 Here is the BibTeX entry formatted according to APA style:
 * Studart, Jorge. (1926). Ligeiras noções de língua geral. *Revista do Instituto do Ceará, 40*, 26–38.
 * Sympson, Pedro Luiz. *Grammatica da lingua brazilica geral, fallada pelos aborigines das provincias do Pará e Amazonas*. Typographia do Commercio do Amazonas, 1877.
+* Universidade Federal de São Carlos. Laboratório de Linguagens LEETRA. (2014). *Leetra Indígena, 3*(3) [Edição especial: Yasú Yapurũgtitá Yẽgatú]. São Carlos, SP: Universidade Federal de São Carlos.
+* Universidade Federal de São Carlos. Laboratório de Linguagens LEETRA. (2015). *Leetra Indígena, 1*(17) [Edição especial: Escola Kariamã conta umbuesá]. São Carlos, SP: Universidade Federal de São Carlos.
+
+
 
 
 # Statistics of UD Nheengatu CompLin
@@ -114,17 +119,17 @@ Here is the BibTeX entry formatted according to APA style:
 
 ## Relations
 
-[acl](yrl_complin-dep-acl.html) – [acl:relcl](yrl_complin-dep-acl-relcl.html) – [advcl](yrl_complin-dep-advcl.html) – [advcl:relcl](yrl_complin-dep-advcl-relcl.html) – [advmod](yrl_complin-dep-advmod.html) – [amod](yrl_complin-dep-amod.html) – [appos](yrl_complin-dep-appos.html) – [aux](yrl_complin-dep-aux.html) – [case](yrl_complin-dep-case.html) – [cc](yrl_complin-dep-cc.html) – [ccomp](yrl_complin-dep-ccomp.html) – [compound](yrl_complin-dep-compound.html) – [conj](yrl_complin-dep-conj.html) – [cop](yrl_complin-dep-cop.html) – [csubj](yrl_complin-dep-csubj.html) – [dep](yrl_complin-dep-dep.html) – [det](yrl_complin-dep-det.html) – [discourse](yrl_complin-dep-discourse.html) – [dislocated](yrl_complin-dep-dislocated.html) – [expl](yrl_complin-dep-expl.html) – [fixed](yrl_complin-dep-fixed.html) – [flat](yrl_complin-dep-flat.html) – [goeswith](yrl_complin-dep-goeswith.html) – [iobj](yrl_complin-dep-iobj.html) – [mark](yrl_complin-dep-mark.html) – [nmod](yrl_complin-dep-nmod.html) – [nmod:poss](yrl_complin-dep-nmod-poss.html) – [nsubj](yrl_complin-dep-nsubj.html) – [nummod](yrl_complin-dep-nummod.html) – [obj](yrl_complin-dep-obj.html) – [obl](yrl_complin-dep-obl.html) – [parataxis](yrl_complin-dep-parataxis.html) – [punct](yrl_complin-dep-punct.html) – [reparandum](yrl_complin-dep-reparandum.html) – [root](yrl_complin-dep-root.html) – [vocative](yrl_complin-dep-vocative.html) – [xcomp](yrl_complin-dep-xcomp.html)
+[acl](yrl_complin-dep-acl.html) – [acl:relcl](yrl_complin-dep-acl-relcl.html) – [advcl](yrl_complin-dep-advcl.html) – [advcl:relcl](yrl_complin-dep-advcl-relcl.html) – [advmod](yrl_complin-dep-advmod.html) – [amod](yrl_complin-dep-amod.html) – [appos](yrl_complin-dep-appos.html) – [aux](yrl_complin-dep-aux.html) – [case](yrl_complin-dep-case.html) – [cc](yrl_complin-dep-cc.html) – [ccomp](yrl_complin-dep-ccomp.html) – [compound](yrl_complin-dep-compound.html) – [conj](yrl_complin-dep-conj.html) – [cop](yrl_complin-dep-cop.html) – [csubj](yrl_complin-dep-csubj.html) – [dep](yrl_complin-dep-dep.html) – [det](yrl_complin-dep-det.html) – [discourse](yrl_complin-dep-discourse.html) – [dislocated](yrl_complin-dep-dislocated.html) – [expl](yrl_complin-dep-expl.html) – [fixed](yrl_complin-dep-fixed.html) – [flat](yrl_complin-dep-flat.html) – [goeswith](yrl_complin-dep-goeswith.html) – [iobj](yrl_complin-dep-iobj.html) – [mark](yrl_complin-dep-mark.html) – [nmod](yrl_complin-dep-nmod.html) – [nmod:poss](yrl_complin-dep-nmod-poss.html) – [nsubj](yrl_complin-dep-nsubj.html) – [nummod](yrl_complin-dep-nummod.html) – [obj](yrl_complin-dep-obj.html) – [obl](yrl_complin-dep-obl.html) – [orphan](yrl_complin-dep-orphan.html) – [parataxis](yrl_complin-dep-parataxis.html) – [punct](yrl_complin-dep-punct.html) – [reparandum](yrl_complin-dep-reparandum.html) – [root](yrl_complin-dep-root.html) – [vocative](yrl_complin-dep-vocative.html) – [xcomp](yrl_complin-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2120 sentences, 21523 tokens and 21813 syntactic words.</li>
+<li>This corpus contains 2742 sentences, 25645 tokens and 26033 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6230 tokens (29%) that are not followed by a space.</li>
+<li>This corpus contains 7676 tokens (30%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -132,12 +137,12 @@ Here is the BibTeX entry formatted according to APA style:
 </ul>
 
 <ul>
-<li>This corpus contains 189 types of words that contain both letters and punctuation. Examples: waá-itá, mira-itá, kwá-itá, amú-itá, kunhã-itá, apigawa-itá, anama-itá, nhaã-itá, maã-itá, kunhã-etá, taína-itá, pirá-itá, raíra-itá, rimirikú-itá, tayera-itá, yawé-yawé, mirá-piranga, pindá-itá, rundewara-itá, wirá-itá, kamarara-itá, kariwa-itá, kunhamukú-itá, kurasí-ara, mira-etá, mirá-itá, mú-itá, pirá-mirĩ, suú-itá, taria-itá, taíra-itá, tuixawa-etá, wirá-mirĩ, yepé-yepé, amú-etá, amú-tetamawara, amú-wirandé, apigawa-etá, arú-itá, ikewara-itá, iwá-itá, kunawarú-etá, kurabí-itá, kurumiwasú-itá, kurumĩ-itá, kurupira-itá, kuẽma-piranga, mbira-itá, mena-itá, mimbira-itá</li>
+<li>This corpus contains 204 types of words that contain both letters and punctuation. Examples: waá-itá, mira-itá, kwá-itá, kunhã-itá, amú-itá, apigawa-itá, anama-itá, maã-itá, nhaã-itá, kunhã-etá, taína-itá, pirá-itá, raíra-itá, rimirikú-itá, kariwa-itá, tayera-itá, yawé-yawé, kamarara-itá, mirá-piranga, pindá-itá, rundewara-itá, wirá-itá, amú-etá, kunhamukú-itá, mimbira-itá, mira-etá, mirá-itá, mú-itá, pirá-mirĩ, suú-itá, taria-itá, taíra-itá, tuixawa-etá, wirá-mirĩ, yepé-yepé, amú-tetamawara, amú-wirandé, apigawa-etá, arú-itá, ikewara-itá, iwá-itá, kunawarú-etá, kurabí-itá, kurasí-ara, kurumiwasú-itá, kurumĩ-itá, kurupira-itá, kuẽma-piranga, mbira-itá, mena-itá</li>
 </ul>
 
 <ul>
-<li>This corpus contains 290 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 162 types of multi-word tokens. Examples: pitérupi, árupi, maita, wírupi, asú-putari, kaá-pe, paraname, resú-putari, iwí-pe, rembií-pe, Maã-ta, asú-kwáu, gantime, ipí-pe, kupixá-pe, kupé-pe, putiá-pe, remenari-putari, rupitá-pe, usú-putari, uyuká-putari, Piauíwara, Ukiririntu, ambaú-putari, amuriwera, apurakí-putari, marã, piá-pe, rasú-kwáu, resú-kwáu, ripí-pe, rumasá-pe, tatá-pe, ukwáu-putari, unheẽwera, uwatá-kwáu, xibentu, yakumame, Amaã-putari, Amaãntu, Amunhã-kari, Apiripana-putari, Apituú-putari, Asenúi-kari, Awá-ta, Ayuíri-putari, Igarapé-pe, Indé-ta, Kuíri-ta, Marã-ta.</li>
+<li>This corpus contains 388 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 212 types of multi-word tokens. Examples: árupi, pitérupi, maita, wírupi, iwí-pe, kaá-pe, resú-putari, asú-putari, kupixá-pe, paraname, Maã-ta, igarupá-pe, ipí-pe, kupé-pe, rembií-pe, xamunhã-kwáu, Tupayú-pe, asú-kwáu, gantime, marã, pausá-pe, putiá-pe, remenari-putari, rupitá-pe, usú-putari, uyuká-putari, xasú-putari, Piauíwara, Ukiririntu, ambaú-putari, amuriwera, apurakí-putari, awá-ta, mixukúi, pawasá-pe, piá-pe, rasú-kwáu, resá-pe, resú-kwáu, ripí-pe, rumasá-pe, tatá-pe, ukwáu-putari, unheẽwera, upisika-putari, uwatá-kwáu, xawitá-kwáu, xibentu, yakumame, yaxipiaka-kwáu.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -150,15 +155,15 @@ Here is the BibTeX entry formatted according to APA style:
 </ul>
 
 <ul>
-<li>This corpus contains 54 word types tagged as particles (PART): Aé, Eẽ, Kusukúi, aikwewara, aikwé, ana, arama, arã, ba, eré, intí, intíu, ipú, katú, ku, kurí, kwera, maã, nti, nẽ, pawa, paá, presizu, pu, pá, páu, ra, rakú, ranhẽ, raĩ, raẽ, rã, rẽ, saĩ, será, supí, ta, taá, te, tenhẽ, tenki, tenupá, ti, tu, té, tẽ, umbaá, wana, wera, wã, wé, xukúi, yepé, ã</li>
+<li>This corpus contains 63 word types tagged as particles (PART): Aikuré, Aé, Eẽ, Kusukúi, Masekúi, Teẽ, aikwewara, aikwé, amú, ana, arama, arã, ba, eré, imú, inté, intí, intíu, ipú, katú, ku, kurí, kwera, maã, nti, nẽ, p, pawa, paá, presizu, pu, pá, páu, ra, rakú, ranhẽ, raĩ, raẽ, rã, rẽ, saĩ, será, supí, ta, taá, taé, te, tenhẽ, tenki, tenupá, ti, tu, té, tẽ, umbaá, wana, warama, wera, wã, wé, xukúi, yepé, ã</li>
 </ul>
 
 <ul>
-<li>This corpus contains 40 lemmas tagged as pronouns (PRON): aintá, aité, amú, awá, aé, aúna, i, indé, indéu, iné, ixé, ixéu, kwaá, kwá, manungara, maã, muiriira, mukũi-itá, muíri, ne, nhaã, panhẽ, pe, penhẽ, se, setá, siiya, sitá, siya, siía, ta, turusú, upaĩ, waá, xe, yandé, yané, yawé, yepé, yepé-yepé</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): aintá, aité, amú, awá, aé, aúna, i, indé, indéu, iné, inéu, ixé, ixéu, kwaá, kwá, manungara, maã, muiriira, mukũi-itá, muíri, ne, nhaã, panhẽ, pawé, pe, penhẽ, se, setá, siiya, sitá, siya, siía, ta, turusú, upawé, upaĩ, waá, xe, yandé, yané, yanéu, yawé, yepé, yepé-yepé</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as determiners (DET): aité, amú, awá, aé, kwaá, kwá, maã, muíri, nhaã, panhẽ, setá, siiya, siya, siía, turusú, upanhẽ, upaĩ, yawé, yepé, yepé-yepé</li>
+<li>This corpus contains 21 lemmas tagged as determiners (DET): aité, amú, awá, aé, kwaá, kwá, mawaá, maã, muíri, nhaã, panhẽ, setá, siiya, siya, siía, turusú, upanhẽ, upaĩ, yawé, yepé, yepé-yepé</li>
 </ul>
 
 <ul>
@@ -180,8 +185,8 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: uikú, usú, asú, aikú, yasú, xaikú, xasú, yaikú, reikú, upuderi</li>
-    <li>VERB: unheẽ, usú, usika, umaã, umunhã, upitá, upisika, urikú, umbeú, uxari</li>
+    <li>AUX: uikú, usú, yasú, asú, xaikú, aikú, xasú, reikú, yaikú, Ekũi</li>
+    <li>VERB: unheẽ, usú, usika, umaã, umunhã, urikú, upitá, upisika, umbeú, uri</li>
   </ul>
   </li>
 </ul>
@@ -189,8 +194,8 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: putari, kwáu, ikú, kari, kwá</li>
-    <li>VERB: yuká, nupá, rasú, Munhã, kiri, kwáu, mukaẽ, nheengari, piamu, suruka</li>
+    <li>AUX: putari, kwáu, ikú, kari, kwá, vutari</li>
+    <li>VERB: yumunhã, putari, rasú, yuká, munhã, nupá, watá, kwáu, mukaẽ, nheengari</li>
   </ul>
   </li>
 </ul>
@@ -198,7 +203,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: ukwawasawa, pekwasawa, rekwawasawa, ukaamunusawa, umundisá, upukasawa, uputarisá, usikiesá, uyanasá, xarikusawa</li>
+    <li>VERB: ukwawasawa, pemanduarisawa, remanduarisawa, yamanduarisawa, hamanduarisawa, pekwasawa, rekwawasawa, ukaamunusawa, umundisá, upukasawa</li>
   </ul>
   </li>
 </ul>
@@ -215,12 +220,12 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Plur
     <ul>
-      <li>AUX-Fin: yasú, yaikú, pesú, yapuderi, Pekũi, Pepuderi, peikú, taikú, tasú, yayuíri</li>
+      <li>AUX-Fin: yasú, yaikú, pesú, yapuderi, Pekũi, Pepuderi, peikú, Tausú, taikú, tasú</li>
       <li>DET: kwá-itá, nhaã-itá, amú-itá</li>
-      <li>NOUN: mira-itá, kunhã-itá, apigawa-itá, anama-itá, maã-itá, kunhã-etá, taína-itá, pirá-itá, pindá-itá, wirá-itá</li>
-      <li>PRON: aintá, ta, yané, yandé, waá-itá, penhẽ, pe, amú-itá, kwá-itá, nhaã-itá</li>
-      <li>VERB-Fin: yamunhã, yamaã, yasú, pemunhã, yaú, pemaã, taunheẽ, pesendú, pepisika, pexari</li>
-      <li>VERB-Vnoun: pekwasawa</li>
+      <li>NOUN: mira-itá, kunhã-itá, apigawa-itá, anama-itá, maã-itá, kunhã-etá, taína-itá, pirá-itá, kariwa-itá, kamarara-itá</li>
+      <li>PRON: aintá, ta, yané, yandé, penhẽ, waá-itá, pe, amú-itá, kwá-itá, nhaã-itá</li>
+      <li>VERB-Fin: yamunhã, yasú, yamaã, pemunhã, yaú, pemaã, yamanú, taunheẽ, pesendú, pepisika</li>
+      <li>VERB-Vnoun: pemanduarisawa, yamanduarisawa, pekwasawa</li>
     </ul>
   </li>
 </ul>
@@ -228,12 +233,13 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Sing
     <ul>
-      <li>AUX-Fin: asú, aikú, xaikú, xasú, reikú, resú, Ekũi, Kũi, aputari, Hasú</li>
-      <li>DET: nhaã, kwá, amú, kwaá, amu</li>
-      <li>NOUN: ara, mira, manha, igara, yautí, paraná, apigawa, pituna, kunhã, kaá</li>
+      <li>AUX-Fin: asú, xaikú, aikú, xasú, reikú, Ekũi, resú, Kũi, Hapuderi, Hasú</li>
+      <li>DET: nhaã, kwá, kwaá, amú, amu</li>
+      <li>NOUN: ara, mira, apigawa, igara, manha, paraná, tupana, kunhã, pituna, yautí</li>
       <li>PRON: i, se, waá, aé, ne, ixé, indé, kwá, nhaã, amú</li>
-      <li>VERB-Fin: asú, remaã, reputari, rerikú, resú, xasú, remunhã, amaã, amunhã, akwáu</li>
-      <li>VERB-Vnoun: rekwawasawa, xarikusawa</li>
+      <li>PROPN: Tupayú</li>
+      <li>VERB-Fin: xasú, rerikú, reputari, asú, remaã, remunhã, resú, xarikú, amaã, amunhã</li>
+      <li>VERB-Vnoun: remanduarisawa, hamanduarisawa, rekwawasawa, xarikusawa</li>
     </ul>
   </li>
 </ul>
@@ -245,7 +251,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Acc,Nom
     <ul>
-      <li>PRON: aintá, aé, ixé, indé, ta, penhẽ, yandé, iné, Yané, aúna</li>
+      <li>PRON: aé, aintá, ixé, indé, ta, penhẽ, yandé, iné, yané, aúna</li>
     </ul>
   </li>
 </ul>
@@ -253,7 +259,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Dat
     <ul>
-      <li>PRON: ixéu, indéu</li>
+      <li>PRON: ixéu, inéu, yanéu, indéu</li>
     </ul>
   </li>
 </ul>
@@ -261,7 +267,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: i, se, ne, aintá, yané, ta, pe, xe, yandé, U</li>
+      <li>PRON: i, se, ne, aintá, yané, pe, ta, xe, yandé, U</li>
     </ul>
   </li>
 </ul>
@@ -274,7 +280,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Ind
     <ul>
-      <li>DET: yepé</li>
+      <li>DET: yepé, muyepé</li>
       <li>PRON: yepé</li>
     </ul>
   </li>
@@ -290,8 +296,8 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Aug
     <ul>
-      <li>ADJ: panemawasú</li>
-      <li>NOUN: buyawasú, miráwasú, pitunawasú, iwawasú, iwiwasú, kiririwasú, piawasú, tiapuwasú, yawaratewasú-itá, Sesawasú</li>
+      <li>ADJ: Sepiasú, panemawasú, pixeasú</li>
+      <li>NOUN: buyawasú, miráwasú, pitunawasú, kiririwasú, iwawasú, iwiwasú, marikawasú, piawasú, tiapuwasú, yawaratewasú-itá</li>
       <li>VERB-Fin: kirimawausú, xirĩwasú</li>
     </ul>
   </li>
@@ -309,7 +315,7 @@ Here is the BibTeX entry formatted according to APA style:
   <li>Dim
     <ul>
       <li>ADJ: purangamirĩ</li>
-      <li>NOUN: Abumirĩ, fardamirĩ, kurumirĩ, kurusamirĩ-etá, makakaí, wirawasumirĩ-etá</li>
+      <li>NOUN: Abumirĩ, fardamirĩ, kunhamirĩ, kurumirĩ, kurusamirĩ-etá, makakaí, wirawasumirĩ-etá, yasimirĩ-itá</li>
       <li>PRON: setaíra</li>
     </ul>
   </li>
@@ -330,7 +336,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Neg
     <ul>
-      <li>PART: ti, intí, te, nẽ, nti, umbaá, tenhẽ, intíu</li>
+      <li>PART: ti, intí, te, nẽ, nti, tenhẽ, umbaá, Teẽ, intíu, inté</li>
     </ul>
   </li>
 </ul>
@@ -354,7 +360,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Compl
     <ul>
-      <li>PART: pawa, pá, páu</li>
+      <li>PART: pawa, pá, páu, p</li>
     </ul>
   </li>
 </ul>
@@ -390,7 +396,7 @@ Here is the BibTeX entry formatted according to APA style:
   <li>Hab
     <ul>
       <li>SCONJ: rametiwa</li>
-      <li>VERB-Fin: ambautiwa, ukanhemutiwa, upinaitikatiwa, upurungitatiwa, usutiwa, uyukatiwa</li>
+      <li>VERB-Fin: ambautiwa, ukanhemutiwa, umundutiwa, upinaitikatiwa, upurungitatiwa, usutiwa, uyukatiwa</li>
     </ul>
   </li>
 </ul>
@@ -406,7 +412,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Iter
     <ul>
-      <li>AUX-Fin: ayuíri, yayuíri</li>
+      <li>AUX-Fin: yayuíri</li>
       <li>VERB-Fin: uyuíri, xayuíri</li>
     </ul>
   </li>
@@ -415,7 +421,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Perf
     <ul>
-      <li>PART: ana, ã, wã, wana</li>
+      <li>PART: ana, wã, ã, wana</li>
     </ul>
   </li>
 </ul>
@@ -427,8 +433,8 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: Ekũi, Kũi, Pekũi, resú, pesú</li>
-      <li>VERB-Fin: remaã, yuri, Epurú, Iruri, retirika, eyuri, ikũi, pemunhã, remeẽ, Ekũi</li>
+      <li>AUX-Fin: Ekũi, Kũi, resú, Pekũi, pesú</li>
+      <li>VERB-Fin: remaã, yuri, Epurú, Iruri, retirika, Ekũi, eyuri, ikũi, pemunhã, remeẽ</li>
     </ul>
   </li>
 </ul>
@@ -437,7 +443,7 @@ Here is the BibTeX entry formatted according to APA style:
   <li>Imp,Ind
     <ul>
       <li>AUX-Fin: reikú, resú, pesú, Pepuderi</li>
-      <li>VERB-Fin: remunhã, Remaã, remundú, pemaã, rerikú, pemunhã, rembeú, reruri, perikú, pesendú</li>
+      <li>VERB-Fin: rerikú, remunhã, resú, Remaã, remundú, reruri, pemaã, pemunhã, rembeú, remenari</li>
     </ul>
   </li>
 </ul>
@@ -445,8 +451,8 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: uikú, usú, asú, aikú, yasú, xaikú, xasú, yaikú, upuderi, uputari</li>
-      <li>VERB-Fin: unheẽ, usú, usika, umaã, umunhã, upitá, upisika, urikú, umbeú, uxari</li>
+      <li>AUX-Fin: uikú, usú, yasú, asú, xaikú, aikú, xasú, yaikú, reikú, upuderi</li>
+      <li>VERB-Fin: unheẽ, usú, usika, umaã, umunhã, urikú, upitá, upisika, umbeú, uri</li>
     </ul>
   </li>
 </ul>
@@ -458,7 +464,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Fut
     <ul>
-      <li>PART: kurí, arama, arã, ku, rã</li>
+      <li>PART: kurí, arama, arã, ku, rã, warama</li>
     </ul>
   </li>
 </ul>
@@ -489,8 +495,8 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Mid,Pass
     <ul>
-      <li>VERB-Fin: uyumunhã, uyuyumimi, Reyumupuranga, Reyuyumimi, Uyupurungitá, reyumumeú, reyuyutima, uyumuapiri, uyumuaíwa, uyumusangawa</li>
-      <li>VERB-Inf: yumumeú, yumunhã</li>
+      <li>VERB-Fin: uyumunhã, uyuyumimi, xayuruyari, Reyumupuranga, Reyuyumimi, Uyupurungitá, Xayumusakú, reyumumeú, reyuyutima, umukataka</li>
+      <li>VERB-Inf: yumunhã, Yukindawa, Yumuatiri, yumumeú, yumuseruka, yumuí, yupiruka, yusalvari</li>
     </ul>
   </li>
 </ul>
@@ -517,7 +523,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Art
     <ul>
-      <li>DET: yepé</li>
+      <li>DET: yepé, muyepé</li>
       <li>PRON: yepé</li>
     </ul>
   </li>
@@ -526,9 +532,9 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: iké, ape, kwá, akití, aape, kí, mi, Mimi, mikití, ké</li>
+      <li>ADV: iké, ape, kwá, akití, aape, mi, kí, Mimi, mikití, ké</li>
       <li>DET: nhaã, kwá, kwaá, kwá-itá, aé, nhaã-itá</li>
-      <li>PRON: kwá, nhaã, kwá-itá, nhaã-itá, aé, kwaá</li>
+      <li>PRON: kwá, nhaã, kwá-itá, kwaá, nhaã-itá, aé</li>
     </ul>
   </li>
 </ul>
@@ -545,7 +551,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: mairamé, makití, masuí, mayé, marupí</li>
+      <li>ADV: mairamé, makití, mayé, masuí, marupí</li>
       <li>DET: amú, siiya, maã, siía, muíri, setá, yawé, turusú, yawé-yawé, amú-itá</li>
       <li>PRON: maã, awá, amú, manungara, amú-itá, siya, siiya, mukũi-itá, setá, amú-etá</li>
     </ul>
@@ -555,8 +561,8 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Int
     <ul>
-      <li>ADV: mayé, mamé, makití, mairamé, marupí, marama, masuí, mayawé, maita, marã</li>
-      <li>DET: Maã, muíri, awá</li>
+      <li>ADV: mayé, mamé, makití, mairamé, marupí, mayawé, marama, masuí, maita, Maí</li>
+      <li>DET: maã, muíri, awá, Mawaá</li>
       <li>PRON: maã, awá, Muíri</li>
     </ul>
   </li>
@@ -573,7 +579,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: mamé, makití, mayé, masuí, marupí, mairamé</li>
+      <li>ADV: mamé, makití, mayé, marupí, masuí, mairamé</li>
       <li>DET: maã</li>
       <li>PRON: waá, waá-itá, awá, maã</li>
     </ul>
@@ -584,7 +590,7 @@ Here is the BibTeX entry formatted according to APA style:
   <li>Tot
     <ul>
       <li>DET: panhẽ, upaĩ, muíri, upanhẽ</li>
-      <li>PRON: panhẽ, muíri, upaĩ</li>
+      <li>PRON: panhẽ, upaĩ, muíri, pawé, upawé</li>
     </ul>
   </li>
 </ul>
@@ -596,7 +602,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Card
     <ul>
-      <li>NUM: mukũi, musapiri, yepé, sete, 1930, Oito, nove, oitu, pú-mukũi</li>
+      <li>NUM: mukũi, musapiri, yepé, pú-mukũi, sete, 1930, Oito, irundí, kwaru, nove</li>
     </ul>
   </li>
 </ul>
@@ -616,7 +622,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: se, i, ne, yané, aintá, ta, pe, xe, yandé, s</li>
+      <li>PRON: se, i, ne, yané, aintá, ta, pe, xe, yandé</li>
     </ul>
   </li>
 </ul>
@@ -629,10 +635,10 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: asú, aikú, yasú, xaikú, xasú, yaikú, yapuderi, aputari, Hasú, apuderi</li>
-      <li>PRON: se, ixé, yané, yandé, xe, ixéu, s, su</li>
-      <li>VERB-Fin: asú, yamunhã, xasú, amaã, amunhã, yamaã, akwáu, yasú, aputari, arikú</li>
-      <li>VERB-Vnoun: xarikusawa</li>
+      <li>AUX-Fin: yasú, asú, xaikú, aikú, xasú, yaikú, yapuderi, Hapuderi, Hasú, apuderi</li>
+      <li>PRON: se, ixé, yané, yandé, ixéu, xe, yanéu, su</li>
+      <li>VERB-Fin: xasú, asú, xarikú, yamunhã, yasú, amaã, amunhã, aputari, xamunhã, yamaã</li>
+      <li>VERB-Vnoun: yamanduarisawa, hamanduarisawa, xarikusawa</li>
     </ul>
   </li>
 </ul>
@@ -640,10 +646,10 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: reikú, pesú, resú, Ekũi, Kũi, Pekũi, Pepuderi, Repuderi, peikú, rekwáu</li>
-      <li>PRON: ne, indé, penhẽ, pe, iné, indéu, n</li>
-      <li>VERB-Fin: remaã, reputari, rerikú, resú, remunhã, pemunhã, reyuri, pemaã, remeẽ, remundú</li>
-      <li>VERB-Vnoun: pekwasawa, rekwawasawa</li>
+      <li>AUX-Fin: reikú, Ekũi, resú, pesú, Kũi, Pekũi, Pepuderi, peikú, repuderi</li>
+      <li>PRON: ne, indé, penhẽ, pe, iné, inéu, indéu, intí, n</li>
+      <li>VERB-Fin: rerikú, reputari, remaã, remunhã, resú, pemunhã, reyuri, pemaã, remeẽ, remundú</li>
+      <li>VERB-Vnoun: pemanduarisawa, remanduarisawa, pekwasawa, rekwawasawa</li>
     </ul>
   </li>
 </ul>
@@ -651,9 +657,9 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: uikú, usú, upuderi, uputari, taikú, tasú</li>
-      <li>PRON: i, aintá, aé, ta, U, aúna</li>
-      <li>VERB-Fin: unheẽ, usú, usika, umaã, umunhã, upitá, upisika, urikú, umbeú, uxari</li>
+      <li>AUX-Fin: uikú, usú, upuderi, Tausú, taikú, tasú, taupuderi, urikú</li>
+      <li>PRON: i, aintá, aé, ta, aúna, U, intá</li>
+      <li>VERB-Fin: unheẽ, usú, usika, umaã, umunhã, urikú, upitá, upisika, umbeú, uri</li>
       <li>VERB-Vnoun: ukwawasawa, ukaamunusawa, umundisá, upukasawa, uputarisá, usikiesá, uyanasá</li>
     </ul>
   </li>
@@ -668,7 +674,7 @@ Here is the BibTeX entry formatted according to APA style:
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: suka, sera, ximirikú, taíra, ximiára, sakakwera, sawa, sesá, sukwera, sumuara</li>
+      <li>NOUN: suka, sera, ximirikú, taíra, ximiára, sesá, suaxara, sakakwera, sawa, sukwera</li>
     </ul>
   </li>
 </ul>
@@ -681,7 +687,7 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Post
         <ul>
-          <li>ADP: upé, kití, irumu, suí, rupí, supé, arama, xupé, resé, yawé</li>
+          <li>ADP: upé, kití, suí, irumu, rupí, supé, arama, xupé, resé, ramé</li>
         </ul>
       </li>
       <li>Prep
@@ -698,7 +704,7 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Cau
         <ul>
-          <li>ADV: Ape, nhaãsé, aresé, aramé, kurumú, marama, marã</li>
+          <li>ADV: aresé, ape, aramé, nhaãsé, marama, kurumú, marã, Mairamé</li>
         </ul>
       </li>
       <li>Con
@@ -708,17 +714,17 @@ Here is the BibTeX entry formatted according to APA style:
       </li>
       <li>Deg
         <ul>
-          <li>ADV: reté, katú, xinga, piri, retana, yuíri, mirĩ, turusú, retã, puru</li>
+          <li>ADV: reté, katú, xinga, piri, retana, mirĩ, yuíri, turusú, retã, puru</li>
         </ul>
       </li>
       <li>Loc
         <ul>
-          <li>ADV: apekatú, iké, mamé, ape, makití, marupí, masuí, akití, arupí, kwá</li>
+          <li>ADV: iké, apekatú, mamé, ape, makití, marupí, kwá, masuí, akití, arupí</li>
         </ul>
       </li>
       <li>Man
         <ul>
-          <li>ADV: yawé, mayé, puranga, kwayé, kutara, kirimbawa, puxí, merupí, katú, tiapú</li>
+          <li>ADV: yawé, mayé, puranga, kwayé, kutara, kirimbawa, puxí, amurupí, katú, merupí</li>
         </ul>
       </li>
       <li>Mod
@@ -728,7 +734,7 @@ Here is the BibTeX entry formatted according to APA style:
       </li>
       <li>Tim
         <ul>
-          <li>ADV: asuí, kuíri, ape, aramé, aiwana, wirandé, ariré, yeperesé, aape, kuxiima</li>
+          <li>ADV: asuí, kuíri, ape, aramé, aiwana, yeperesé, wirandé, ariré, kuxiima, aape</li>
         </ul>
       </li>
     </ul>
@@ -740,8 +746,8 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: upé, pe, me, wara, arã</li>
-          <li>ADV: ntu</li>
+          <li>ADP: pe, upé, wara, me, arã</li>
+          <li>ADV: ntu, mi</li>
           <li>PART: taá, wera, ta</li>
         </ul>
       </li>
@@ -754,7 +760,7 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Yes
         <ul>
-          <li>AUX-Inf: putari, kwáu, kari, kwá</li>
+          <li>AUX-Inf: putari, kwáu, kari, kwá, vutari</li>
         </ul>
       </li>
     </ul>
@@ -766,14 +772,14 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Prox
         <ul>
-          <li>ADV: iké, kwá, kí, ké</li>
+          <li>ADV: iké, kwá, kí, ké, kwaá</li>
           <li>DET: kwá, kwaá, kwá-itá</li>
           <li>PRON: kwá, kwá-itá, kwaá</li>
         </ul>
       </li>
       <li>Remt
         <ul>
-          <li>ADV: ape, akití, aape, mi, Mimi, mikití</li>
+          <li>ADV: ape, akití, aape, mi, Mimi, mikití, mumi</li>
           <li>DET: nhaã, aé, nhaã-itá</li>
           <li>PRON: nhaã, nhaã-itá, aé</li>
         </ul>
@@ -792,8 +798,9 @@ Here is the BibTeX entry formatted according to APA style:
       </li>
       <li>Priv
         <ul>
-          <li>ADJ: Adana-ima, apisaíma, ara-ima, iwasuíma, kiinha-ima, paya-ima, santaíma, sawa-ima, tĩ-ima, uyiima</li>
+          <li>ADJ: iwasuíma, santaíma, uyiima</li>
           <li>ADV: tiapuíma</li>
+          <li>NOUN: Adana-ima, apisaíma, ara-ima, kiinha-ima, payaíma, sawa-ima, seraíma, tĩ-ima, ximirikú-ima</li>
           <li>VERB-Fin: kiaíma</li>
         </ul>
       </li>
@@ -823,6 +830,7 @@ Here is the BibTeX entry formatted according to APA style:
       </li>
       <li>PRON
         <ul>
+          <li>ADV: Maí</li>
           <li>PART: nẽ</li>
         </ul>
       </li>
@@ -852,12 +860,12 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Cond
         <ul>
-          <li>PART: maã</li>
+          <li>PART: maã, imú, amú</li>
         </ul>
       </li>
       <li>Proh
         <ul>
-          <li>PART: te, tenhẽ</li>
+          <li>PART: te, tenhẽ, Teẽ</li>
         </ul>
       </li>
     </ul>
@@ -886,12 +894,12 @@ Here is the BibTeX entry formatted according to APA style:
       </li>
       <li>Exs
         <ul>
-          <li>PART: aikwé, aikwewara</li>
+          <li>PART: aikwé, Aikuré, aikwewara</li>
         </ul>
       </li>
       <li>Int
         <ul>
-          <li>PART: taá, será, ta, tu</li>
+          <li>PART: taá, será, ta, taé, tu</li>
         </ul>
       </li>
       <li>Mod
@@ -901,12 +909,12 @@ Here is the BibTeX entry formatted according to APA style:
       </li>
       <li>Neg
         <ul>
-          <li>PART: ti, intí, nẽ, nti, umbaá, intíu</li>
+          <li>PART: ti, intí, nẽ, nti, umbaá, intíu, inté</li>
         </ul>
       </li>
       <li>Prs
         <ul>
-          <li>PART: xukúi, Kusukúi</li>
+          <li>PART: xukúi, Kusukúi, Masekúi</li>
         </ul>
       </li>
     </ul>
@@ -930,7 +938,7 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>3
         <ul>
-          <li>NOUN: suka, sera, ximirikú, taíra, ximiára, sakakwera, sawa, sesá, sukwera, sumuara</li>
+          <li>NOUN: suka, sera, ximirikú, taíra, ximiára, sesá, suaxara, sakakwera, sawa, sukwera</li>
         </ul>
       </li>
     </ul>
@@ -954,11 +962,11 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: purapuranga</li>
+          <li>ADJ: purapuranga, aíwa-aíwa, pixuna-pixuna</li>
           <li>DET: yawé-yawé</li>
           <li>NOUN: tapurú-tapurú</li>
           <li>PRON: yawé-yawé</li>
-          <li>VERB-Fin: uyawiyawika, Akaá-kaá, Tasuú-suú, Utuká-tuká, aganaganari, atuká-tuká, takaú-kaú, ukaúkaú, ukikiri, upinú-pinú</li>
+          <li>VERB-Fin: uyawiyawika, Akaá-kaá, Tasuú-suú, Utuká-tuká, aganaganari, atuká-tuká, ipukukapukuka, takaú-kaú, ukaúkaú, ukikiri</li>
         </ul>
       </li>
     </ul>
@@ -970,23 +978,23 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Abs
         <ul>
-          <li>NOUN: uka, tatá, tuixawa, ukara, tetama, timbiú, ukena, teapú, tendawa, peé</li>
+          <li>NOUN: uka, tatá, ukara, tuixawa, tetama, timbiú, ukena, pé, teapú, tendawa</li>
         </ul>
       </li>
       <li>Cont
         <ul>
-          <li>ADP: resé, resewara, ruakí, rakakwera, aresé, rakwera, renundé, ruaxara, rikuyara, renuné</li>
-          <li>NOUN: ruka, ramunha, raíra, retama, rapé, rimirikú, rupitá, rangawa, riiya, resá</li>
+          <li>ADP: resé, resewara, ruakí, rakakwera, renundé, aresé, rakwera, ruaxara, renuné, rikuyara</li>
+          <li>NOUN: ruka, raíra, ramunha, retama, rimirikú, rapé, rera, rupitá, rangawa, resá</li>
           <li>SCONJ: resewara</li>
-          <li>VERB-Fin: rurí, resarái, raisú, ranhẽ, rakú, rawa, rikwé</li>
-          <li>VERB-Inf: renúi, ripiaka</li>
+          <li>VERB-Fin: rurí, resarái, rikwé, raisú, ranhẽ, rakú, rapí, rawa, renúi</li>
+          <li>VERB-Inf: ripiaka</li>
         </ul>
       </li>
       <li>NCont
         <ul>
           <li>ADP: sesé, suakí, sesewara, sakakwera, suaxara</li>
-          <li>NOUN: sera, suka, ximirikú, taíra, ximiára, sakakwera, sawa, sesá, sukwera, sumuara</li>
-          <li>VERB-Fin: surí, sikwé, sakú, sasí, tipí, setá, tiapú, Ikupukú, sesaíma, sawa</li>
+          <li>NOUN: suka, sera, ximirikú, taíra, ximiára, sesá, suaxara, sakakwera, sawa, sukwera</li>
+          <li>VERB-Fin: surí, sasí, sakú, tiapú, sikwé, setá, tipí, Ikupukú, sesaíma, sawa</li>
         </ul>
       </li>
     </ul>
@@ -1001,11 +1009,11 @@ Here is the BibTeX entry formatted according to APA style:
           <li>ADP: aresé, resewara</li>
           <li>AUX-Fin: xaikú, xasú</li>
           <li>AUX-Inf: ikú</li>
-          <li>NOUN: tuixawa, ukena, Rapé, imirikú, ií, rangawa, sakapira, sapiá, setama, siiya</li>
-          <li>PRON: se, ne, yandé, aé, maã, i, pe, yané, aúna, kwá</li>
+          <li>NOUN: suá, tuixawa, ukena, rangawa, Rapé, imirikú, ií, sakapira, sapiá, sera</li>
+          <li>PRON: se, ne, yané, yandé, aé, maã, i, pe, ixé, aúna</li>
           <li>SCONJ: kurumu</li>
-          <li>VERB-Fin: xasú, xarikú, xamunhã, raisú, xamundú, xanheẽ, xarasú, xaú, xaputari, xasenú</li>
-          <li>VERB-Inf: yuká, nupá, rasú, Munhã, kwáu, yumumeú, yumunhã, Meẽ, Yaputí, ganani</li>
+          <li>VERB-Fin: xasú, xarikú, xamunhã, xaputari, xaú, xanheẽ, xakwáu, xawasemu, xayuíri, xamaã</li>
+          <li>VERB-Inf: yumunhã, putari, rasú, yuká, munhã, nupá, watá, kwáu, yakáu, yaxiú</li>
           <li>VERB-Vnoun: xarikusawa</li>
         </ul>
       </li>
@@ -1014,7 +1022,7 @@ Here is the BibTeX entry formatted according to APA style:
           <li>ADP: renuné</li>
           <li>NOUN: Yukasara, teapú</li>
           <li>PRON: Se, ixé</li>
-          <li>VERB-Fin: Ururi, upiama, Uxipiá, umunhã</li>
+          <li>VERB-Fin: Ururi, upiama, Uxipiá, umunhã, upena-upena</li>
           <li>VERB-Inf: piamu, Xari, maramunhã, piama, puapuãmu</li>
         </ul>
       </li>
@@ -1027,14 +1035,19 @@ Here is the BibTeX entry formatted according to APA style:
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: puriaisúa, xapuriaisúa</li>
-          <li>ADP: rũ, aresé, pu, py, rumu</li>
-          <li>ADV: Arareneíma</li>
-          <li>DET: amu</li>
-          <li>NOUN: mirikú, Kunhãbukú, Mukura, emiára, kaziwera, kunhaitãi, miarerú, pié, remiré, waria</li>
-          <li>PART: Aé, maã, saĩ, tu</li>
-          <li>PRON: U, i, n, s, su</li>
-          <li>VERB-Fin: ipiama, a, imbiú, kapí, maarí, manú, pasú, poréi, repi, seriyár</li>
+          <li>ADJ: Iwatí, katú, puranga-itá, puriaisúa, suai, xapanema, xapuriaisúa</li>
+          <li>ADP: rũ, aresé, pu, suí, aramé, iruma, pipé, rumu</li>
+          <li>ADV: Maí, inte, Arareneíma, Mairamé, Mamé, Maramé, iramé, maãkití, mené, mumi</li>
+          <li>AUX-Fin: urikú</li>
+          <li>AUX-Inf: vutari</li>
+          <li>CCONJ: yuri</li>
+          <li>DET: muyepé, Maã, amu, riya</li>
+          <li>NOUN: kunhãbukú, mirikú, rupirunawa, uka, Mukura, Sumura-etá, ara, así, igara, iní</li>
+          <li>NUM: Yepé, muyepé</li>
+          <li>PART: Aé, Ti, Aikuré, Intí, Masekúi, inté, maã, p, saĩ, tu</li>
+          <li>PRON: maã, i, Nhaã, U, intá, intí, n, se, su</li>
+          <li>SCONJ: Sa</li>
+          <li>VERB-Fin: ipiama, Humbú, Pempisasúa, Yapituú, a, akanhemu, imaasí, imbiú, kapí, karekó</li>
         </ul>
       </li>
     </ul>
@@ -1059,12 +1072,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (732)</li>
-      <li>VERB-Fin--PRON (194)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (481)</li>
-      <li>VERB-Fin--PRON-Gen (68)</li>
-      <li>VERB-Inf--NOUN (17)</li>
-      <li>VERB-Inf--PRON (3)</li>
+      <li>VERB-Fin--NOUN (897)</li>
+      <li>VERB-Fin--PRON (215)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (548)</li>
+      <li>VERB-Fin--PRON-Gen (94)</li>
+      <li>VERB-Inf--NOUN (38)</li>
+      <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc,Nom (15)</li>
       <li>VERB-Vnoun--NOUN (1)</li>
       <li>VERB-Vnoun--PRON (1)</li>
@@ -1075,16 +1088,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (822)</li>
+      <li>VERB-Fin--NOUN (1027)</li>
       <li>VERB-Fin--NOUN-ADP(resé) (3)</li>
-      <li>VERB-Fin--PRON (171)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (212)</li>
-      <li>VERB-Fin--PRON-Gen (6)</li>
+      <li>VERB-Fin--PRON (203)</li>
+      <li>VERB-Fin--PRON-ADP(irũ) (1)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (222)</li>
+      <li>VERB-Fin--PRON-Gen (8)</li>
       <li>VERB-Fin--PRON-Gen-ADP(irumu) (1)</li>
-      <li>VERB-Inf--NOUN (7)</li>
+      <li>VERB-Inf--NOUN (8)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (3)</li>
-      <li>VERB-Inf--PRON-Gen (21)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (4)</li>
+      <li>VERB-Inf--PRON-Gen (24)</li>
+      <li>VERB-Vnoun--PRON (1)</li>
     </ul>
   </li>
 </ul>
@@ -1092,22 +1107,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3)</li>
+      <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-ADP(resé) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(supé) (37)</li>
+      <li>VERB-Fin--NOUN-ADP(rã) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(supé) (43)</li>
       <li>VERB-Fin--NOUN-ADP(supé)-ADP(arama) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(xupé) (5)</li>
+      <li>VERB-Fin--NOUN-ADP(xupé) (6)</li>
       <li>VERB-Fin--NOUN-ADP(xupé)-ADP(arama) (2)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-ADP(supé) (1)</li>
       <li>VERB-Fin--PRON-ADP(supé)-ADP(arama) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom (11)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(arama) (24)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(arã) (17)</li>
-      <li>VERB-Fin--PRON-Dat (7)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(supé) (16)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(xupé) (44)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(xupé)-ADP(arã) (1)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(arã) (18)</li>
+      <li>VERB-Fin--PRON-Dat (22)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(arama) (1)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(supé) (17)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(xupé) (45)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(xupé)-ADP(arã) (2)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(supé) (1)</li>
     </ul>
   </li>
@@ -1120,5 +1137,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>nmod:poss</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
 </ul>

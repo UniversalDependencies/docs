@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 4	waren	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	Achilles	Achilles	PROPN	NE	Foreign=Yes	6	nsubj	_	Lang=en|NamedEntity=Yes
 6	Had	have	VERB	NE	Foreign=Yes	0	root	_	Lang=en|NamedEntity=Yes
-7	a	a	DET	NE	Foreign=Yes	8	det	_	Lang=en|NamedEntity=Yes
+7	a	a	DET	NE	Foreign=Yes|PronType=Art	8	det	_	Lang=en|NamedEntity=Yes
 8	Heel	heel	NOUN	NE	Foreign=Yes	6	obj	_	Lang=en|NamedEntity=Yes
 9	(	(	PUNCT	$(	_	10	punct	_	SpaceAfter=No
 10	1924	1924	NUM	CARD	NumType=Card	6	appos	_	SpaceAfter=No

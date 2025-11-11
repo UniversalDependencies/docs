@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `PRON`, `SCONJ`.
 
-438 tokens (0%) have a non-empty value of `ExtPos`.
+447 tokens (0%) have a non-empty value of `ExtPos`.
 71 types (0%) occur at least once with a non-empty value of `ExtPos`.
 48 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 7 part-of-speech tags: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (325; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (100; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (325; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (109; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADV`
 
@@ -31,21 +31,21 @@ The feature is used with 7 part-of-speech tags: <tt><a href="et_edt-pos-ADV.html
 
 ### `PRON`
 
-100 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+109 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (100; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (100; 100%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (109; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (109; 100%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
-* `ADP` (10; 10% of non-empty `ExtPos`): <em>teisel, teiselt, ühel</em>
-* `ADV` (71; 71% of non-empty `ExtPos`): <em>ühelt, igal, teiselt, omalt, mitmel, mõnel, igale, igalt, mõlemalt, teisele</em>
-* `PRON` (12; 12% of non-empty `ExtPos`): <em>mis, Kellega, mida</em>
-* `SCONJ` (7; 7% of non-empty `ExtPos`): <em>samal, Selleks</em>
+* `ADP` (10; 9% of non-empty `ExtPos`): <em>teisel, teiselt, ühel</em>
+* `ADV` (80; 73% of non-empty `ExtPos`): <em>ühelt, teiselt, igal, omalt, mitmel, mõnel, igale, igalt, mõlemalt, teisel</em>
+* `PRON` (12; 11% of non-empty `ExtPos`): <em>mis, Kellega, mida</em>
+* `SCONJ` (7; 6% of non-empty `ExtPos`): <em>samal, Selleks</em>
 
 <table>
   <tr><th>Paradigm <i>teine</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>teiselt</em></td><td><em>teiselt</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ade</tt></tt></td><td><em>teisel</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ade</tt></tt></td><td><em>teisel</em></td><td><em>teisel</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=All</tt></tt></td><td></td><td><em>teisele</em></td></tr>
 </table>
 

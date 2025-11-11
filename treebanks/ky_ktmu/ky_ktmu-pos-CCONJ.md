@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kyrgyz-KTMU: POS Tags: `CCONJ`
 
-There are 26 `CCONJ` lemmas (1%), 26 `CCONJ` types (0%) and 592 `CCONJ` tokens (3%).
+There are 26 `CCONJ` lemmas (1%), 26 `CCONJ` types (0%) and 601 `CCONJ` tokens (2%).
 Out of 13 observed tags, the rank of `CCONJ` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>менен, жана, да, бирок, деген, же, үчүн, анда, ишкана, айым</em>
 
 The 10 most frequent `CCONJ` types:  <em>менен, жана, да, бирок, деген, же, үчүн, анда, ишканаларга, айымдарга</em>
 
-The 10 most frequent ambiguous lemmas: <em>да</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 36, <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 1), <em>деген</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1), <em>же</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 4, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1), <em>үчүн</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 55, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 6), <em>анда</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ишкана</em> (<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>айым</em> (<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>аркылуу</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 12, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>атлетика</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1), <em>болбосо</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>да</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 36, <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 1), <em>деген</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1), <em>же</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 4, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1), <em>үчүн</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 55, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 6), <em>анда</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ишкана</em> (<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 2), <em>айым</em> (<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>аркылуу</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 12, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>атлетика</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1), <em>болбосо</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 36, <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 1), <em>деген</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1), <em>же</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1), <em>үчүн</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 55, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 6), <em>анда</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> 1), <em>ишканаларга</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1), <em>аркылуу</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 12, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>атлетика</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1), <em>болбосо</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1), <em>га</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 15, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 36, <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 1), <em>деген</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1), <em>же</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1), <em>үчүн</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 55, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 6), <em>анда</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> 1), <em>ишканаларга</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1), <em>аркылуу</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 12, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>атлетика</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1), <em>болбосо</em> (<tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1), <em>га</em> (<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 16, <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>да</em>
@@ -48,13 +48,13 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="ky_ktmu-pos-C
   * <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Чалдын күндө куру кол кайтканына зээни кейиген бала чалдын балыкчылыкка керектүү шайман - аспаптарын же багорун , гарпунун же <b>болбосо</b> мачтага оролгон парусун үйүнө чейин жеткиришип келүү үчүн жолун тосуп жээкке барчу .</em>
   * <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> 1: <em>Ар бир улут өзүнүн эне тили <b>болбосо</b> улут боло албайт !</em>
 * <em>га</em>
-  * <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 15: <em>Ош шаарында жарым жылда жол кырсыктарынын саны 28 % <b>га</b> азайган .</em>
+  * <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> 16: <em>Ош шаарында жарым жылда жол кырсыктарынын саны 28 % <b>га</b> азайган .</em>
   * <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Кыргызстанда жыл башынан тарта азык-түлүктүн баасы 12 ,6 % <b>га</b> кымбаттады .</em>
   * <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> 1: <em>АКШ акыркы жумада Россиядан нефть алуунун көлөмүн 43 % <b>га</b> көбөйттү .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.653599).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.658255).
 
 The 1st highest number of forms (1) was observed with the lemma “Анда”: <em>Анда</em>.
 
@@ -67,17 +67,17 @@ The 3rd highest number of forms (1) was observed with the lemma “айым”: 
 `CCONJ` occurs with 9 feature-value pairs: `Case=Acc,Dat`, `Case=Acc,Loc`, `Case=Dat`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=3`
 
 `CCONJ` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (580 tokens).
+The most frequent feature combination is `_` (589 tokens).
 Examples: <em>менен, жана, да, бирок, деген, же, үчүн, анда, анткени, аркылуу</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="ky_ktmu-dep-cc.html">cc</a></tt> (362; 61% instances), <tt><a href="ky_ktmu-dep-case.html">case</a></tt> (174; 29% instances), <tt><a href="ky_ktmu-dep-mark.html">mark</a></tt> (39; 7% instances), <tt><a href="ky_ktmu-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-dep-compound.html">compound</a></tt> (3; 1% instances), <tt><a href="ky_ktmu-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-dep-root.html">root</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="ky_ktmu-dep-cc.html">cc</a></tt> (367; 61% instances), <tt><a href="ky_ktmu-dep-case.html">case</a></tt> (178; 30% instances), <tt><a href="ky_ktmu-dep-mark.html">mark</a></tt> (39; 6% instances), <tt><a href="ky_ktmu-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="ky_ktmu-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="ky_ktmu-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="ky_ktmu-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (307; 52% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (136; 23% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (99; 17% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (15; 3% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (6; 1% instances),  (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (315; 52% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (137; 23% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (100; 17% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="ky_ktmu-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (6; 1% instances),  (1; 0% instances)
 
-556 (94%) `CCONJ` nodes are leaves.
+565 (94%) `CCONJ` nodes are leaves.
 
 34 (6%) `CCONJ` nodes have one child.
 

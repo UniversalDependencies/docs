@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Portuguese-Porttinari: Features: `ExtPos`
 
 This feature is language-specific.
-It occurs with 6 different values: `ADP`, `ADV`, `CCONJ`, `NOUN`, `PRON`, `SCONJ`.
+It occurs with 5 different values: `ADP`, `ADV`, `CCONJ`, `PRON`, `SCONJ`.
 
-1039 tokens (1%) have a non-empty value of `ExtPos`.
-69 types (0%) occur at least once with a non-empty value of `ExtPos`.
-41 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 8 part-of-speech tags: <tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (504; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (274; 0% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (155; 0% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (63; 0% instances), <tt><a href="pt_porttinari-pos-SCONJ.html">SCONJ</a></tt> (24; 0% instances), <tt><a href="pt_porttinari-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+1062 tokens (1%) have a non-empty value of `ExtPos`.
+74 types (0%) occur at least once with a non-empty value of `ExtPos`.
+44 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 9 part-of-speech tags: <tt><a href="pt_porttinari-pos-ADP.html">ADP</a></tt> (504; 0% instances), <tt><a href="pt_porttinari-pos-ADV.html">ADV</a></tt> (274; 0% instances), <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> (157; 0% instances), <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> (57; 0% instances), <tt><a href="pt_porttinari-pos-SCONJ.html">SCONJ</a></tt> (24; 0% instances), <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="pt_porttinari-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> (7; 0% instances).
 
 ### `ADP`
 
@@ -48,26 +48,26 @@ The feature is used with 8 part-of-speech tags: <tt><a href="pt_porttinari-pos-A
 
 ### `PRON`
 
-155 <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+157 <tt><a href="pt_porttinari-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (155; 100%), <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (147; 95%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (137; 88%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (133; 86%), <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (132; 85%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (157; 100%), <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (149; 95%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=3</tt> (137; 87%), <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (134; 85%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (133; 85%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
 * `CCONJ` (1; 1% of non-empty `ExtPos`): <em>Isto</em>
-* `PRON` (154; 99% of non-empty `ExtPos`): <em>o, os, tudo, a, as, isso, aquilo</em>
+* `PRON` (154; 98% of non-empty `ExtPos`): <em>o, os, tudo, a, as, isso, aquilo</em>
+* `SCONJ` (2; 1% of non-empty `ExtPos`): <em>tal</em>
 
 ### `DET`
 
-63 <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
+57 <tt><a href="pt_porttinari-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63; 100%), <tt><a href="pt_porttinari-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (35; 56%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (35; 56%), <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (33; 52%).
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57; 100%), <tt><a href="pt_porttinari-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (33; 58%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33; 58%), <tt><a href="pt_porttinari-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (33; 58%).
 
 `DET` tokens may have the following values of `ExtPos`:
 
-* `ADP` (1; 2% of non-empty `ExtPos`): <em>tal</em>
-* `ADV` (52; 83% of non-empty `ExtPos`): <em>cada, um, o</em>
-* `SCONJ` (10; 16% of non-empty `ExtPos`): <em>uma, Cada, tal</em>
+* `ADV` (52; 91% of non-empty `ExtPos`): <em>cada, um, o</em>
+* `SCONJ` (5; 9% of non-empty `ExtPos`): <em>uma, Cada</em>
 
 <table>
   <tr><th>Paradigm <i>um</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -83,6 +83,18 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 * `SCONJ` (24; 100% of non-empty `ExtPos`): <em>como, quanto, que</em>
 
+### `VERB`
+
+19 <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 100%), <tt><a href="pt_porttinari-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18; 95%), <tt><a href="pt_porttinari-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="pt_porttinari-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="pt_porttinari-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (18; 95%).
+
+`VERB` tokens may have the following values of `ExtPos`:
+
+* `ADP` (15; 79% of non-empty `ExtPos`): <em>devido</em>
+* `ADV` (1; 5% of non-empty `ExtPos`): <em>vai</em>
+* `SCONJ` (3; 16% of non-empty `ExtPos`): <em>dado, visto</em>
+
 ### `CCONJ`
 
 13 <tt><a href="pt_porttinari-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
@@ -93,21 +105,30 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 ### `NOUN`
 
-3 <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
+7 <tt><a href="pt_porttinari-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 100%), <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%).
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (4; 57%).
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
-* `NOUN` (3; 100% of non-empty `ExtPos`): <em>volta</em>
+* `ADP` (1; 14% of non-empty `ExtPos`): <em>frente</em>
+* `ADV` (3; 43% of non-empty `ExtPos`): <em>volta</em>
+* `CCONJ` (3; 43% of non-empty `ExtPos`): <em>Caso</em>
 
-### `VERB`
+### `NUM`
 
-3 <tt><a href="pt_porttinari-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+7 <tt><a href="pt_porttinari-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%), <tt><a href="pt_porttinari-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="pt_porttinari-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="pt_porttinari-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="pt_porttinari-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="pt_porttinari-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3; 100%), <tt><a href="pt_porttinari-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `NUM` and `ExtPos` co-occurred: <tt><a href="pt_porttinari-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (7; 100%), <tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (4; 57%).
 
-`VERB` tokens may have the following values of `ExtPos`:
+`NUM` tokens may have the following values of `ExtPos`:
 
-* `SCONJ` (3; 100% of non-empty `ExtPos`): <em>dado, visto</em>
+* `ADV` (3; 43% of non-empty `ExtPos`): <em>um</em>
+* `SCONJ` (4; 57% of non-empty `ExtPos`): <em>uma</em>
+
+<table>
+  <tr><th>Paradigm <i>um</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt><tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>um</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_porttinari-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>uma</em></td></tr>
+</table>
 

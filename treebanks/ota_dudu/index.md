@@ -19,12 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Enes Yılandiloğlu.
 
 Repository: [UD_Ottoman_Turkish-DUDU](https://github.com/UniversalDependencies/UD_Ottoman_Turkish-DUDU)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udota_dudu216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udota_dudu217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: news, fiction, nonfiction, bible, government
+Genre: news, fiction, nonfiction, poetry
 
 Questions, comments?
 General annotation questions (either Ottoman Turkish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -47,9 +47,10 @@ An Ottoman Turkish dependency treebank annotated in UD style. Created by Enes Y�
 
 
 
-This project comprises 85 sentences that are firstly automaticaly annotated via machamp (Van der Goot et al., 2021). During the training phase, multiple modern Turkish UD treebanks were used.
-and then manually corrected in a systematic way. Randomly shuffled sentences were written between 14th to 20th century in various genres
-such as fiction, news, article, registry record, and religious preach. Unfortunately, for this version, the genres can not be told apart by sentence ids. The order of the sentences is chronology based rather than genre based, the earliest written sentence is at the top.
+This project comprises 1,782 sentences that are firstly automaticaly annotated via machamp (Van der Goot et al., 2021). During the training phase, multiple modern Turkish UD treebanks were used.
+Subsequently, the sentences were manually corrected. The sentences were written between 14th to 20th century in various genres
+such as fiction, news, article, registry record, and religious preach. Unfortunately, for this version, the genres can not be told apart by sentence ids.
+The training set, translated by the contributor of the treebank, is the direct translation of [Cairo Cicling Corpus (CCC)](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt).
 In this treebank, [Ottoman Turkish transcription alphabet](https://en.wikipedia.org/wiki/Ottoman_Turkish_alphabet) is used.
 
 
@@ -71,17 +72,17 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 
 ## Relations
 
-[acl](ota_dudu-dep-acl.html) – [advcl](ota_dudu-dep-advcl.html) – [advmod](ota_dudu-dep-advmod.html) – [advmod:emph](ota_dudu-dep-advmod-emph.html) – [amod](ota_dudu-dep-amod.html) – [appos](ota_dudu-dep-appos.html) – [aux](ota_dudu-dep-aux.html) – [case](ota_dudu-dep-case.html) – [cc](ota_dudu-dep-cc.html) – [cc:preconj](ota_dudu-dep-cc-preconj.html) – [ccomp](ota_dudu-dep-ccomp.html) – [compound](ota_dudu-dep-compound.html) – [compound:lvc](ota_dudu-dep-compound-lvc.html) – [compound:redup](ota_dudu-dep-compound-redup.html) – [conj](ota_dudu-dep-conj.html) – [cop](ota_dudu-dep-cop.html) – [csubj](ota_dudu-dep-csubj.html) – [det](ota_dudu-dep-det.html) – [discourse](ota_dudu-dep-discourse.html) – [fixed](ota_dudu-dep-fixed.html) – [flat](ota_dudu-dep-flat.html) – [flat:name](ota_dudu-dep-flat-name.html) – [mark](ota_dudu-dep-mark.html) – [nmod](ota_dudu-dep-nmod.html) – [nmod:poss](ota_dudu-dep-nmod-poss.html) – [nsubj](ota_dudu-dep-nsubj.html) – [nsubj:pass](ota_dudu-dep-nsubj-pass.html) – [nummod](ota_dudu-dep-nummod.html) – [obj](ota_dudu-dep-obj.html) – [obl](ota_dudu-dep-obl.html) – [obl:agent](ota_dudu-dep-obl-agent.html) – [obl:tmod](ota_dudu-dep-obl-tmod.html) – [orphan](ota_dudu-dep-orphan.html) – [parataxis](ota_dudu-dep-parataxis.html) – [punct](ota_dudu-dep-punct.html) – [root](ota_dudu-dep-root.html) – [vocative](ota_dudu-dep-vocative.html) – [xcomp](ota_dudu-dep-xcomp.html)
+[acl](ota_dudu-dep-acl.html) – [advcl](ota_dudu-dep-advcl.html) – [advmod](ota_dudu-dep-advmod.html) – [advmod:emph](ota_dudu-dep-advmod-emph.html) – [amod](ota_dudu-dep-amod.html) – [appos](ota_dudu-dep-appos.html) – [aux](ota_dudu-dep-aux.html) – [case](ota_dudu-dep-case.html) – [cc](ota_dudu-dep-cc.html) – [cc:preconj](ota_dudu-dep-cc-preconj.html) – [ccomp](ota_dudu-dep-ccomp.html) – [compound](ota_dudu-dep-compound.html) – [compound:lvc](ota_dudu-dep-compound-lvc.html) – [compound:redup](ota_dudu-dep-compound-redup.html) – [conj](ota_dudu-dep-conj.html) – [cop](ota_dudu-dep-cop.html) – [csubj](ota_dudu-dep-csubj.html) – [det](ota_dudu-dep-det.html) – [discourse](ota_dudu-dep-discourse.html) – [fixed](ota_dudu-dep-fixed.html) – [flat](ota_dudu-dep-flat.html) – [flat:name](ota_dudu-dep-flat-name.html) – [mark](ota_dudu-dep-mark.html) – [nmod](ota_dudu-dep-nmod.html) – [nmod:poss](ota_dudu-dep-nmod-poss.html) – [nsubj](ota_dudu-dep-nsubj.html) – [nummod](ota_dudu-dep-nummod.html) – [obj](ota_dudu-dep-obj.html) – [obl](ota_dudu-dep-obl.html) – [obl:tmod](ota_dudu-dep-obl-tmod.html) – [orphan](ota_dudu-dep-orphan.html) – [parataxis](ota_dudu-dep-parataxis.html) – [punct](ota_dudu-dep-punct.html) – [root](ota_dudu-dep-root.html) – [vocative](ota_dudu-dep-vocative.html) – [xcomp](ota_dudu-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1064 sentences, 10012 tokens and 10287 syntactic words.</li>
+<li>This corpus contains 1782 sentences, 16728 tokens and 17125 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 37 tokens (0%) that are not followed by a space.</li>
+<li>This corpus contains 38 tokens (0%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -89,12 +90,12 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 </ul>
 
 <ul>
-<li>This corpus contains 579 types of words that contain both letters and punctuation. Examples: ḥażret-i, ehl-i, müddet-i, serdâr-ı, emr-i, paşa-yı, ʿasker-i, bi’l-cümle, cemîʿ-i, cenâb-ı, deşt-i, kemâl-i, küffâr-ı, mâh-ı, nehr-i, serây-ı, zümre-i, ʿâlem-i, ḫalḳ-ı, beyt-i, biʾl-cümle, câmiʿ-i, el-ḥaḳ, envâʿ-ı, raḥmet-i, râh-ı, rûs-ı, rütbe-i, umûr-ı, vilâyet-i, ʿarż-ı, ḥużûr-ı, ẕât-ı, bilâd-ı, bî-pervâ, ceyş-i, cıġala-zâde, der-i, der-ḥâl, dergâh-ı, dilîrân-ı, dîvân-ı, eks̱er-i, emîr-i, eyyâm-ı, fe-ammâ, fe-lâ-cerem, fiʾl-ḥâl, icrâ-yı, iẓhâr-ı</li>
+<li>This corpus contains 740 types of words that contain both letters and punctuation. Examples: nâ-gâh, ḥażret-i, ehl-i, cemîʿ-i, bi’l-cümle, müddet-i, nehr-i, küffâr-ı, paşa-yı, serdâr-ı, zümre-i, ʿasker-i, emr-i, i-y, kemâl-i, mîr-i, vilâyet-i, ḳalʿa-i, bilâd-ı, cenâb-ı, câmiʿ-i, der-i, deşt-i, erkân-ı, mâh-ı, serây-ı, ʿâlem-i, ḫalḳ-ı, ḳayṣer-i, ṣadr-ı, ẕât-ı, beyt-i, el-ḥaḳ, emîr-i, envâʿ-ı, gün-be-gün, kefere-i, maḳâbir-i, melik-i, mülk-i, raḥmet-i, râh-ı, rûs-ı, rütbe-i, umûr-ı, âḫir-i, ʿarż-ı, ʿazm-i, ʿilm-i, ḥużûr-ı</li>
 </ul>
 
 <ul>
-<li>This corpus contains 273 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
-<li>There are 203 types of multi-word tokens. Examples: vardur, varıdı, yoḳdur, budur, vardır, ḳaṣabadur, iderleridi, olmışıdı, vâḳiʿdür, şehrdür, itmişdür, medfûndur, şehrlerindendür, andaki, anuñdur, defîndir, degildir, dilâ, fenâdur, mütevârîdir, vardı, yegdür, yirdür, almıştır, almışıdı, andadur, anuñiçün, arasındadır, aḥmeddür, baḥs̱dir, baḳıyyetü’s-süyûf, beḳâdur, bilmezidi, binerleridi, bunlaruñdur, bunlaruñıla, bâʿis̱dendür, bî-çâre, büyükidi, cebeldendür, cennet-mis̱âl, cevânibdeki, cezîredür, cânibdeki, cânıdı, cüvânlardur, delâyildür, devletdür, devâdur, dil-dâdeydi.</li>
+<li>This corpus contains 394 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 289 types of multi-word tokens. Examples: vardur, varıdı, yoḳdur, budur, vardır, ḳaṣabadur, iderleridi, olmışıdı, vardı, vâḳiʿdür, şehrdür, defîndir, itmişdür, medfûndur, şehrlerindendür, andaki, anuñdur, degildir, dilâ, fenâdur, giderken, içindeki, kimdür, menḳûldür, mütevârîdir, oldur, oġlıyam, varısa, yanındaġı, yegdür, yirdür, şuʿarâsındandur, ḳaṣabadandur, ṭoġmışıdı, almıştır, almışıdı, andadur, anuñiçün, anuñçün, arasındadır, aʿlâdur, aḥmeddür, baḥs̱dir, baḳıyyetü’s-süyûf, bedîdârdur, bedîʿâdur, benümçün, berkidi, beyne’l-enâm, beyne’l-ümerâ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -107,19 +108,19 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 </ul>
 
 <ul>
-<li>This corpus contains 7 word types tagged as particles (PART): da, daḫi, daḫı, de, ise, iseñ, ki</li>
+<li>This corpus contains 9 word types tagged as particles (PART): da, daḫi, daḫî, daḫı, de, ise, iseñ, ki, ḫod</li>
 </ul>
 
 <ul>
-<li>This corpus contains 37 lemmas tagged as pronouns (PRON): ana, baʿżı, ben, bir, birbir, birbiri, biri, biribiri, biz, bi’l-cümle, bu, bun, cemîʿ, cümle, eks̱er, herkes, ileyh, kendi, kendözü, kendü, kim, kimesne, kimse, mecmûʿ, ne, nere, o, ol, ora, sen, siz, ziyâde, ḫod, ḳan, ḳanda, ḳanġı, ẕât</li>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): baʿżı, ben, bir, birbir, birbiri, biri, biribiri, biris, birisi, biz, bi’l-cümle, bu, cemîʿ, cümle, eks̱er, herkes, hîçbiri, iki, ileyh, kendi, kendözü, kendü, kim, kimesne, kimse, mecmûʿ, ne, nere, o, ol, ora, sen, siz, ziyâde, şu, ḫod, ḳan, ḳanġı, ḳaçı</li>
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as determiners (DET): baʿżı, bir, birḳac, birḳaç, bu, bâżı, her, hîç, işbu, o, ol, şol, ḳanġı, ḳaç, ṣol</li>
+<li>This corpus contains 15 lemmas tagged as determiners (DET): baʿżı, bir, birḳac, birḳaç, bu, bâżı, her, işbu, ne, o, ol, şol, şu, ḳanġı, ḳaç</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: baʿżı, bir, bu, o, ol, ḳanġı</li>
+<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: baʿżı, bir, bu, ne, o, ol, şu, ḳanġı</li>
 </ul>
 
 <ul>
@@ -138,7 +139,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
   <li>Conv
   <ul>
     <li>AUX: iken, ken, yken, ıken</li>
-    <li>VERB: idüp, olup, varup, gelüp, alup, çeküp, olınup, ḳılup, açup, eyleyüp</li>
+    <li>VERB: olup, idüp, gelüp, varup, olınup, alup, görüp, idip, işidicek, göricek</li>
   </ul>
   </li>
 </ul>
@@ -146,8 +147,8 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: idiler, oldı</li>
-    <li>VERB: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, olur, vardı</li>
+    <li>AUX: idiler, imişler, oldı</li>
+    <li>VERB: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
   </ul>
   </li>
 </ul>
@@ -155,7 +156,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Part
   <ul>
-    <li>VERB: olan, itdügi, gelen, itdükden, olduġı, olınduġı, ḳalan, olınan, alduġunı, alduġı</li>
+    <li>VERB: olan, gelen, itdügi, itdükden, olduġı, olınan, didükleri, ḳalan, olınduġı, alduġı</li>
   </ul>
   </li>
 </ul>
@@ -163,7 +164,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: itmek, itmekle, dimek, dimekle, dögmege, itmege, olmaġla, addolunmaġa, almaġa, azıḳlanmaġa</li>
+    <li>VERB: itmek, itmekle, dimek, itmege, olmaġla, dimekle, almaġa, baḳmaġa, dimekdür, dögmege</li>
   </ul>
   </li>
 </ul>
@@ -178,9 +179,9 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: şerîfe, cemîle, kübrâ, mezbûre, muvaḳḳara, muḫaddire, vusṭâ, ʿafîfe-i, ʿaẓîme, maʿmûresi</li>
-      <li>NOUN: senesinde, şehâdet, müddet-i, ʿazîmet, ḥażret-i, rıḥlet, sene, vilâyetine, ḥükûmet, küffâr-ı</li>
-      <li>PROPN: budun, şâmda, baġdâdla, bâbil, filibe, kaʿbe-i, kefe, kûfe, medîne-i, medînede</li>
+      <li>ADJ: şerîfe, aẓîme, bedîʿâ, belîġa, celiyye, cemîle, kes̱îre, kübrâ, lâzıme, mezbûre</li>
+      <li>NOUN: ʿavret, sene, müddet-i, senesinde, küffâr-ı, müddet, ġalebe, şehâdet, ḥażret-i, ḳaṣaba</li>
+      <li>PROPN: mıṣr, burusada, yemen, anaṭolı, yehûd, budun, iskenderiyye, şâm, şâmda, amâsiyye</li>
     </ul>
   </li>
 </ul>
@@ -188,10 +189,10 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: mübârek, şerîfi</li>
-      <li>NOUN: beyt-i, baḥr-i, bevvâb, beyt, imâmuñ, ism-i, kitâbda, kitâblar, kitâbları, mücahidîn</li>
-      <li>PRON: mecmûʿsını, mecmûʿısı</li>
-      <li>PROPN: aḥmed, muḥammed, ʿos̱mân, ʿalî, ibrâhîm, meḥemmed, ʿömer, maḥmûd, murâd, muḥammedüñ</li>
+      <li>ADJ: şerîfi</li>
+      <li>NOUN: beyt-i, baḥr-i, bevvâb, ism-i, kitâbda, kitâblar, kitâbları, mücahidîn, müşrikînüñ, ḫudânuñ</li>
+      <li>PRON: mecmûʿsını</li>
+      <li>PROPN: nemrûd, züheyr, aḥmed, muṣṭafâ, muḥammed, ibrâhîm, meḥemmed, ʿalî, kenʿân, züheyrüñ</li>
     </ul>
   </li>
 </ul>
@@ -213,14 +214,14 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: aralarında, bâṭınîlere, güm-râhân, muḥassenâta, mübârekelerinde, mürşidânelerine, nâmverân, ulular, ulularını, ziyâdeler</li>
-      <li>AUX: idiler, mısınız</li>
-      <li>AUX-Fin: idiler</li>
-      <li>NOUN: benî, küffâr, küffâr-ı, âdemleri, âfâḳı, ḫilʿatler, begler, begleri, envâʿ-ı, es̱nâlarda</li>
-      <li>PRON: anlar, bunlar, bunlaruñ, anlara, baʿżılar, anlaruñ, bunlardan, anlardan, anları, birbirlerine</li>
-      <li>PROPN: moġollar, sürḫ-serân, bahâdurlar, hindîler, müslimîn, naṣârâ, sâmânîlerüñ, sürḫ-serân-ı, ʿos̱mâniyân</li>
-      <li>VERB-Fin: eylediler, itdiler, oldılar, iderler, virdiler, gördiler, gitdiler, ḳıldılar, didiler, iderlerdi</li>
-      <li>VERB-Part: olanlar, alduḳlarını, baḳanlar, begenmedüklerine, bulınduḳları, geldüklerin, gelenler, girdüklerini, idenler, işitmezler</li>
+      <li>ADJ: aralarında, bâṭınîlere, bî-fâżılları, güm-râhân, kâmilleri, mevrûs̱larını, muḥassenâta, mübârekelerinde, mürşidânelerine, mütemerridlerinden</li>
+      <li>AUX: idiler, misiz, imişler, mısınız, señüz</li>
+      <li>AUX-Fin: idiler, imişler</li>
+      <li>NOUN: benî, küffâr-ı, cânavarlar, es̱nâda, küffâr, melekler, ʿulemâdan, bilâd-ı, erkân-ı, evlâdı</li>
+      <li>PRON: bunlar, bunlaruñ, anlar, bunlara, anlara, anlaruñ, baʿżılar, bize, bizi, bunlardan</li>
+      <li>PROPN: moġollar, sürḫ-serân, ekrâd, hindîler, müslimîn, naṣârâ, sâmânîlerüñ, sürḫ-serân-ı, yehûdîler, zâbilistândan</li>
+      <li>VERB-Fin: itdiler, oldılar, eylediler, iderler, virdiler, geldiler, gördiler, didiler, ḳıldılar, gitdiler</li>
+      <li>VERB-Part: olanlar, alduḳlarını, baḳanlar, begenmedüklerine, bulınduḳları, dutılanlar, edenlerüñ, geldüklerin, gelenler, girdüklerini</li>
       <li>VERB-Vnoun: budanmalarına</li>
     </ul>
   </li>
@@ -229,18 +230,18 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ḫâtûn, mezbûruñ, içinde, var, arası, atlu, aʿrâbî, bed-kirdâruñ, bedi, bâḳisi</li>
-      <li>AUX: dur, dür, idi, ıdı, dir, dır, imiş, di, ise, dı</li>
+      <li>ADJ: ḫâtûn, içinde, mezbûruñ, var, yanında, arası, atlu, aʿlâsı, aʿrâbî, aḥmere</li>
+      <li>AUX: dur, idi, dür, ıdı, dir, dır, imiş, dı, degüldür, di</li>
       <li>AUX-Fin: oldı</li>
-      <li>NOUN: var, gün, paşa, yıl, ḫân, nâm, gice, leşker, sulṭân, âdem</li>
-      <li>NUM: beşi, ikisinde, biñden, beşinde, birinci, biñde, biñe, ikidür, ikinci, ikisi</li>
-      <li>PRON: birinüñ, anuñ, bunuñ, kendü, anda, bu, ol, andan, biri, ben</li>
-      <li>PROPN: züheyr, ʿanter, aḥmed, şî, muḥammed, züheyrüñ, ʿalî, ʿos̱mân, fârs, ibrâhîm</li>
-      <li>VERB: oldı, itdi, eyledi, ḳıldı, geldi, olındı, olur, vardı, gitdi, buldı</li>
-      <li>VERB-Conv: giderken, iderken, otururken, yanar, yaḳılur, ṭoġmazdan</li>
-      <li>VERB-Fin: oldı, itdi, eyledi, ḳıldı, geldi, olındı, olur, vardı, gitdi, buldı</li>
-      <li>VERB-Part: itdükden, olduġı, alduġunı, idügini, itdügi, itdüklerinde, olduġını, olduḳdan, olınduġı, alduġı</li>
-      <li>VERB-Vnoun: itmek, itmekle, dimek, dimekle, dögmege, itmege, olmaġla, addolunmaġa, almaġa, azıḳlanmaġa</li>
+      <li>NOUN: var, gün, üzerine, bin, paşa, efendi, gice, oġlı, yıl, âdem</li>
+      <li>NUM: beşi, ikisi, ikisinde, biñden, altıda, beşinde, biñde, biñe, dördinüñ, ikide</li>
+      <li>PRON: andan, bunuñ, anuñ, ben, kendü, birinüñ, bu, anda, anı, aña</li>
+      <li>PROPN: nemrûd, ʿanter, züheyr, âẕer, aḥmed, muṣṭafâ, muḥammed, ʿalî, ibrâhîm, meḥemmed</li>
+      <li>VERB: oldı, eyledi, itdi, eyitdi, geldi, olındı, didi, ḳıldı, eydür, olur</li>
+      <li>VERB-Conv: giderken, iderken, otururken, varmazdan, yanar, yaḳılur, ṭoġmazdan</li>
+      <li>VERB-Fin: oldı, eyledi, itdi, eyitdi, geldi, olındı, didi, ḳıldı, eydür, olur</li>
+      <li>VERB-Part: itdükden, idügini, itdügi, olduġı, olduḳdan, alduġunı, itdüklerinde, olduġın, olduġını, olınduġı</li>
+      <li>VERB-Vnoun: itmek, itmekle, dimek, itmege, olmaġla, dimekle, almaġa, baḳmaġa, dimekdür, dögmege</li>
     </ul>
   </li>
 </ul>
@@ -252,14 +253,14 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: mecâzîden, büyüklerinden, evvelkiden, kerîmeden, küçüçükden, mezbûrdan, meʾmûlinden, ġayrıdan, ḥarâmîden</li>
-      <li>NOUN: elinden, atdan, evlâdından, yirden, yüzden, yıldan, şehrlerinden, ʿulemâdan, ṭarafından, altundan</li>
+      <li>ADJ: benâmdan, mecâzîden, büyüklerinden, egriden, evvelkiden, kerîmeden, küçüçükden, mezbûrdan, meʾmûlinden, mütemerridlerinden</li>
+      <li>NOUN: elinden, ṭarafdan, ʿulemâdan, deryâdan, hâtifden, sebebden, yirden, altundan, atdan, dünyâdan</li>
       <li>NUM: biñden</li>
-      <li>PRON: andan, bundan, bunlardan, kendüden, benden, senden, anlardan, birinden, kendülerden, kimesneden</li>
-      <li>PROPN: berġâmûsdan, bevlden, ceydâdan, ekmelden, hindden, konbânyadan, mekkeden, rûmiyyeden, tumâẓirden, tırġovişteden</li>
-      <li>VERB-Conv: ṭoġmazdan</li>
-      <li>VERB-Part: itdükden, olduḳdan, ettikten, gidenlerden, gitdükden, itdüklerinde, olduḳtan, olınduḳdan</li>
-      <li>VERB-Vnoun: irişmekden</li>
+      <li>PRON: andan, bundan, senden, benden, bunlardan, kendüden, anlardan, birinden, andañ, bizden</li>
+      <li>PROPN: anaṭolıdan, hindden, nemrûddan, yemenden, ʿömerden, allâhdan, aʿrâbdan, berġâmûsdan, bevlden, bosnadan</li>
+      <li>VERB-Conv: varmazdan, ṭoġmazdan</li>
+      <li>VERB-Part: itdükden, olduḳdan, olınduḳdan, baġladuḳdan, emzürdüginden, ettikten, eyledükden, gidenlerden, gitdükden, itdüklerinde</li>
+      <li>VERB-Vnoun: azdurmaḳdan, görmekden, irişmekden, itmekden, ṣormaḳdan</li>
     </ul>
   </li>
 </ul>
@@ -267,13 +268,13 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: kebîri, kâm-yâbı, nâmdârı, nâmveri, pâki, ḫâṣṣı, bâḳisi, bî-dîni, cârîsini, feyż-medârı</li>
-      <li>NOUN: ḥâli, âfâḳı, eşʿârı, oġlını, ḫalḳı, ḳalʿasını, adın, alayların, aḥvâli, başlarını</li>
+      <li>ADJ: kebîri, kâm-yâbı, mecmûʿın, mesʿûdu, nâmdârı, nâmveri, pâki, ʿacîbi, ḫâṣṣı, bâḳisi</li>
+      <li>NOUN: ḥâli, oġlanı, oġlını, kimesneyi, âfâḳı, ḳanın, aḥvâli, başlarını, eşʿârı, leşkeri</li>
       <li>NUM: ikisi</li>
-      <li>PRON: anı, bunı, beni, kimini, kimisin, cümlesin, kendüyi, anları, birini, seni</li>
-      <li>PROPN: ceyḥûnı, maḥmûdı, tumâẓiri, zebbâyı, şirvânı, ʿanteri</li>
-      <li>VERB-Part: alduġunı, idügini, olduġını, alduḳlarını, alınduġını, baġladuġını, eyledügin, geldügin, geldüklerin, girdüklerini</li>
-      <li>VERB-Vnoun: aşmalarını, bitürmeñ, gönderülmesini, itmegi, urmaġı, ḳomasını, ḳışlamaġı, ṣızmasını</li>
+      <li>PRON: anı, bunı, beni, birini, kendüyi, bizi, cümlesin, kimini, kimisin, seni</li>
+      <li>PROPN: iskenderiyyeyi, âẕeri, ʿanteri, allâhı, ceyḥûnı, ibrâhîmi, islâmı, keykâvusı, maḥmûdı, mesʿûdı</li>
+      <li>VERB-Part: idügini, alduġunı, olduġın, olduġını, alduḳlarını, alınduġını, baġladuġını, didügin, eyledügin, geldügin</li>
+      <li>VERB-Vnoun: aşmalarını, bitürmeñ, gönderülmesini, itmegi, olmasını, urmaġı, öldüreni, ḳomasını, ḳışlamaġı, ṣızmasını</li>
     </ul>
   </li>
 </ul>
@@ -281,14 +282,13 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: merd-efgene, tîze, bâṭınîlere, bî-devletine, laṭîfine, mevlûda, muḥassenâta, muḥâẕîsine, mültemesine, mülḥide</li>
-      <li>NOUN: yirine, üzerine, cânibine, yire, cihâna, içine, vilâyetine, yanına, ardına, ata</li>
+      <li>ADJ: merd-efgene, tîze, zerrîne, ʿulyâya, ḫabîs̱e, aḥmere, bâṭınîlere, bî-devletine, laṭîfine, mevlûda</li>
+      <li>NOUN: üzerine, yirine, yire, cânibine, yanına, içine, paşaya, yüzine, bege, cihâna</li>
       <li>NUM: biñe, yüze</li>
-      <li>PRON: aña, anlara, baña, buña, kendüye, birbirine, birine, bize, baʿżısına, birbirlerine</li>
-      <li>PROPN: mıṣra, züheyre, ʿantere, adriyânûsa, beytü’l-maḳdise, buduna, burusaya, burûsaya, bâḳîye, bükreşe</li>
-      <li>VERB: dögmege, itmege, addolunmaġa, almaġa, ayrılduġına, azıḳlanmaġa, baḳmaġa, begenmedüklerine, budanmalarına, depeleyene</li>
-      <li>VERB-Part: ayrılduġına, begenmedüklerine, depeleyene, idene, itdügine, itmedügine, olmayanlara, ḳavuşduġuna</li>
-      <li>VERB-Vnoun: dögmege, itmege, addolunmaġa, almaġa, azıḳlanmaġa, baḳmaġa, budanmalarına, gelmege, içmege, olmağa</li>
+      <li>PRON: aña, baña, saña, bunlara, anlara, buña, kendüye, bize, biribirine, birine</li>
+      <li>PROPN: âẕere, rûma, burûsaya, ibrâhîme, kenʿâna, rûmiline, züheyre, şeddâda, ʿantere, burusaya</li>
+      <li>VERB-Part: alımaduġına, ayrılduġına, begenmedüklerine, depeleyene, idene, itdügine, itmedügine, olmayanlara, olıcaġı, uġraduġuña</li>
+      <li>VERB-Vnoun: itmege, almaġa, baḳmaġa, dögmege, olmaġa, yimege, addolunmaġa, azıḳlanmaġa, budanmalarına, etmege</li>
     </ul>
   </li>
 </ul>
@@ -305,12 +305,13 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: mezbûruñ, bed-kîşüñ, kişver-güşânuñ, mezbûrun, bed-kirdâruñ, firârînüñ, güm-râhuñ, mecmûʿısınuñ, meẕkûruñ, münkirüñ</li>
-      <li>NOUN: ḫalḳuñ, imâmuñ, küffâruñ, paşanuñ, atasınuñ, cihânuñ, ferdüñ, hicretüñ, şehrüñ, şeyḫüñ</li>
-      <li>PRON: birinüñ, anuñ, bunuñ, benüm, bunlaruñ, anlaruñ, senüñ, birisinüñ, baʿżısınuñ, benim</li>
-      <li>PROPN: züheyrüñ, kerebüñ, mevlânânuñ, muḥammedüñ, timuruñ, ʿablenüñ, ʿanterüñ, alpteginüñ, deşnâ, edirneḳapısı</li>
-      <li>VERB: açılması, gitmenin, itmenüñ</li>
-      <li>VERB-Vnoun: gitmenin, itmenüñ</li>
+      <li>ADJ: mezbûruñ, meẕkûruñ, aḥmerüñ, bed-kîşüñ, demânuñ, kişver-güşânuñ, mezbûrun, pîşînüñ, ʿâlînün, bed-kirdâruñ</li>
+      <li>NOUN: ḫalḳuñ, oġlanuñ, ʿavretüñ, ḥażretlerinüñ, atasınuñ, küffâruñ, paşanuñ, ḫâḳânuñ, anasınuñ, cihânuñ</li>
+      <li>NUM: dördinüñ</li>
+      <li>PRON: bunuñ, anuñ, birinüñ, bunlaruñ, benüm, senüñ, anlaruñ, benim, biribirinüñ, birisinüñ</li>
+      <li>PROPN: züheyrüñ, ʿanterüñ, ibrâhîmüñ, nemrûduñ, kenʿânuñ, kerebüñ, mevlânânuñ, muḥammedüñ, timuruñ, ʿablenüñ</li>
+      <li>VERB-Part: edenlerüñ</li>
+      <li>VERB-Vnoun: açılması, gitmenin, itmenüñ</li>
     </ul>
   </li>
 </ul>
@@ -318,12 +319,11 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: manṣûrla</li>
-      <li>NOUN: maḫlaṣıyla, âdemle, baṭnla, ihtimâmla, nâmıyla, süñüyile, vechile, ʿaskerle, ḳılıcıla, ṭarîḳla</li>
-      <li>PRON: anuñla, bunuñla, bunuñıla</li>
-      <li>PROPN: baġdâdla, ʿanterile, bulġârla, züheyrle</li>
-      <li>VERB: itmekle, dimekle, olmaġla, bulınmaġla, buyurmaġla, işitmekle, yazılmamaġla</li>
-      <li>VERB-Vnoun: itmekle, dimekle, olmaġla, buyurmaġla, işitmekle, yazılmamaġla</li>
+      <li>ADJ: manṣûrla, sürûr-encâmla, şerîfleriyle</li>
+      <li>NOUN: vechile, maḫlaṣıyla, âdemle, anasıyıla, baṭnla, cevâhirle, ihtimâmla, nâmıyla, süñüyile, vezâretle</li>
+      <li>PRON: anuñla, anlaruñla, benümle, bunuñla, bunuñıla, senüñile</li>
+      <li>PROPN: baġdâdla, behrâmıla, ʿanterile, belḫile, bulġârla, cevherle, hâḍıla, züheyrle, ʿacemle, ḳâfla</li>
+      <li>VERB-Vnoun: itmekle, olmaġla, dimekle, bulınmaġla, buyurmaġla, gelmekle, işitmekle, olmamaġla, olmaġın, yazılmamaġla</li>
     </ul>
   </li>
 </ul>
@@ -331,14 +331,13 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: içinde, meẕkûrda, muʿammâda, şerîfde, aralarında, meẕkûrede, muʿaẓẓamada, muḳaddemde, mübârekelerinde, münevverede</li>
-      <li>NOUN: senesinde, civârında, ḥâlde, arasında, zamânda, cânibinde, es̱nâda, es̱nâlarda, günde, içinde</li>
-      <li>NUM: ikisinde, 1069da, 1100de, 1114te, 1143te, 1151de, 1166da, 1227de, beşinde, biñde</li>
-      <li>PRON: anda, ḳanda, kendüde, orada</li>
-      <li>PROPN: burusada, şâmda, medînede, adanada, baṣrada, buḫârâda, endülüsde, hindde, istanbulda, içilde</li>
-      <li>VERB: esmede, itdüklerinde, içmekde, yimekde, çıḳmada, ḳılmada, ṭutmada</li>
-      <li>VERB-Part: itdüklerinde</li>
-      <li>VERB-Vnoun: esmede, çıḳmada, ḳılmada, ṭutmada</li>
+      <li>ADJ: içinde, aralarında, meẕkûrda, muʿammâda, yanında, şerîfde, meẕkûrede, muʿaẓẓamada, muḳaddemde, mübârekelerinde</li>
+      <li>NOUN: içinde, öñinde, senesinde, yirde, üzerinde, ḥâlde, zamânda, civârında, es̱nâda, târîḫinde</li>
+      <li>NUM: ikisinde, 1069da, 1100de, 1114te, 1143te, 1151de, 1166da, 1204te, 1227de, altıda</li>
+      <li>PRON: anda, ḳanda, bunda, bende, kendüde, orada</li>
+      <li>PROPN: burusada, şâmda, burûsada, edrinede, hindde, medînede, ġazzede, ḳaramanda, adanada, amâsiyyede</li>
+      <li>VERB-Part: bulduḳlarında, itdüklerinde, işitdüklerinde, olduḳlarında, varduḳlarında</li>
+      <li>VERB-Vnoun: esmede, etmekte, içmekde, yimekde, çıḳmada, ḳılmada, ṭutmada</li>
     </ul>
   </li>
 </ul>
@@ -346,15 +345,14 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: ḫâtûn, var, arası, atlu, aʿrâbî, bedi, cömerttir, dost, doġrusu, dâḫil</li>
-      <li>AUX: degüldür, dur, degülin, ken, tur</li>
-      <li>NOUN: gün, paşa, var, yıl, ḫân, nâm, gice, leşker, sulṭân, âdem</li>
-      <li>NUM: beşi, birinci, ikidür, ikinci, miʾe-i, ḫamse</li>
-      <li>PRON: kendü, anlar, bu, ol, bunlar, biri, ben, baʿżılar, ne, eks̱eri</li>
-      <li>PROPN: züheyr, ʿanter, aḥmed, şî, muḥammed, ʿalî, ʿos̱mân, fârs, ibrâhîm, maʿdî</li>
-      <li>VERB: itmek, olduġı, dimek, itdügi, olanlar, olınduġı, alduġı, baḳanlar, baṣmaḳ, beklenmesi</li>
-      <li>VERB-Part: olduġı, itdügi, olanlar, olınduġı, alduġı, baḳanlar, bulunmadıġı, bulınduḳları, düşdügi, eyitdügi</li>
-      <li>VERB-Vnoun: itmek, dimek, baṣmaḳ, beklenmesi, dimekdür, eylemek, girmek, girmesi, gitmek, götürmek</li>
+      <li>ADJ: ḫâtûn, var, arası, atlu, aʿlâsı, aʿrâbî, aḳṣâ-yı, bedi, bî-fâżılları, cömerttir</li>
+      <li>AUX: degil, degülsin, degülin, ken, tur</li>
+      <li>NOUN: var, gün, bin, paşa, efendi, gice, oġlı, yıl, âdem, melik</li>
+      <li>NUM: beşi, ikidür, ikinci, ikisi, miʾe-i, s̱ânîsi, ḫamse</li>
+      <li>PRON: ben, kendü, bu, bunlar, ol, anlar, biri, ne, kimse, sen</li>
+      <li>PROPN: nemrûd, ʿanter, züheyr, âẕer, aḥmed, muṣṭafâ, muḥammed, ʿalî, ibrâhîm, meḥemmed</li>
+      <li>VERB-Part: itdügi, olduġı, olanlar, olınduġı, baḳanlar, bulunmadıġı, bulınduḳları, dutılanlar, düşdügi, eyitdügi</li>
+      <li>VERB-Vnoun: itmek, dimek, dimekdür, genşimesi, gitmek, olmaḳ, öldürmek, baṣmaḳ, beklenmesi, ditreme</li>
     </ul>
   </li>
 </ul>
@@ -367,7 +365,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Def
     <ul>
-      <li>DET: bu, ol, her, o, işbu, şol, budur, ṣol</li>
+      <li>DET: bu, ol, her, o, işbu, şol, şu, budur, ne</li>
     </ul>
   </li>
 </ul>
@@ -375,7 +373,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Ind
     <ul>
-      <li>DET: bir, baʿżı, birḳaç, bâżı</li>
+      <li>DET: bir, baʿżı, birḳaç, birḳac, bâżı, ḳaç</li>
     </ul>
   </li>
 </ul>
@@ -390,7 +388,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Cmp
     <ul>
-      <li>ADV: daha</li>
+      <li>ADV: daha, daḫı</li>
     </ul>
   </li>
 </ul>
@@ -410,13 +408,12 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: degil, degüldi</li>
+      <li>AUX: degüldür, degül, degüldi, degülmiş</li>
       <li>NOUN: yoḳ, yoġ</li>
-      <li>VERB: olmaz, olınmaz, ḳalmadı, itmeyüp, olmadı, bulmadı, itmedi, itmediler, olmayup, olmazdı</li>
-      <li>VERB-Conv: itmeyüp, olmayup, ḳomayup, didükleri, düşmeyince, gelmeyüp, gitmeyince, olamayup, seçmeyüp, varmayup</li>
-      <li>VERB-Fin: olmaz, olınmaz, ḳalmadı, olmadı, bulmadı, itmedi, itmediler, olmazdı, virmedi, aldamayasın</li>
-      <li>VERB-Part: olmaz, begenmedüklerine, bulunmadıġı, etmeyen, gelmeyen, idemeyeceklerin, itmedügine, işitmezler, olmayan, olmayanlara</li>
-      <li>VERB-Vnoun: yazılmamaġla</li>
+      <li>VERB-Conv: itmeyüp, olmayup, ḳomayup, düşmeyince, eglenmeyip, gelmeyüp, getüremeyüp, gitmeyince, idemeyüp, irmeyüp</li>
+      <li>VERB-Fin: olmaz, olmadı, olınmaz, ḳalmadı, bulmadı, gelmez, itmediler, bilmez, bilmezdi, dimezdi</li>
+      <li>VERB-Part: olmaz, alımaduġına, begenmedüklerine, beñzemez, bulunmadıġı, etmeyen, gelmeyen, görülmemiş, idemeyeceklerin, itmedügine</li>
+      <li>VERB-Vnoun: olmamaġla, yazılmamaġla, yimekde</li>
     </ul>
   </li>
 </ul>
@@ -424,15 +421,15 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Pos
     <ul>
-      <li>AUX: idi, ıdı, iken, imiş, di, ise, ken, dur, idiler, dı</li>
+      <li>AUX: idi, ıdı, iken, imiş, dı, ken, di, ise, idiler, ydi</li>
       <li>AUX-Conv: iken, ken, yken, ıken</li>
-      <li>AUX-Fin: idiler, oldı</li>
+      <li>AUX-Fin: idiler, imişler, oldı</li>
       <li>NOUN: var, olmasını</li>
-      <li>VERB: oldı, idüp, olup, itdi, eyledi, olan, ḳıldı, varup, eylediler, gelüp</li>
-      <li>VERB-Conv: idüp, olup, varup, gelüp, alup, çeküp, olınup, ḳılup, açup, eyleyüp</li>
-      <li>VERB-Fin: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, olur, vardı</li>
-      <li>VERB-Part: olan, itdügi, gelen, itdükden, olduġı, olınduġı, ḳalan, olınan, alduġunı, alduġı</li>
-      <li>VERB-Vnoun: itmek, itmekle, dimek, dimekle, dögmege, itmege, olmaġla, addolunmaġa, almaġa, azıḳlanmaġa</li>
+      <li>VERB: oldı, olup, idüp, eyledi, itdi, olan, eyitdi, geldi, olındı, gelüp</li>
+      <li>VERB-Conv: olup, idüp, gelüp, varup, olınup, alup, görüp, idip, işidicek, göricek</li>
+      <li>VERB-Fin: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
+      <li>VERB-Part: olan, gelen, itdügi, itdükden, olduġı, olınan, didükleri, ḳalan, olınduġı, alduġı</li>
+      <li>VERB-Vnoun: itmek, itmekle, dimek, itmege, olmaġla, dimekle, almaġa, baḳmaġa, dimekdür, dögmege</li>
     </ul>
   </li>
 </ul>
@@ -448,10 +445,9 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Hab
     <ul>
-      <li>VERB: olur, iderler, ider, olmaz, iderdi, alur, eydür, gider, iderlerdi, olınmaz</li>
       <li>VERB-Conv: giderken, iderken, otururken, yanar, yaḳılur</li>
-      <li>VERB-Fin: olur, iderler, ider, olmaz, iderdi, alur, eydür, iderlerdi, olınmaz, dirler</li>
-      <li>VERB-Part: gider, olmaz, olur, işitmezler, oturur, tutar, virür, yatar, yetmez</li>
+      <li>VERB-Fin: eydür, olur, iderler, iderdi, ider, iderin, olmaz, gelür, gelürdi, alur</li>
+      <li>VERB-Part: gider, olur, ider, olmaz, beñzemez, güder, iner, ister, işitmez, işitmezler</li>
     </ul>
   </li>
 </ul>
@@ -459,8 +455,8 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: mi, mıdur, mı, midür, mısınız</li>
-      <li>VERB-Fin: eyleme, gel, umarım, ṭutma</li>
+      <li>AUX: mı, mıdur, mi, midür, misiz, midir, misin, müdür, mısınız</li>
+      <li>VERB-Fin: virme, eyleme, gel, umarım, ṭutma</li>
       <li>VERB-Part: bişmiş, idicek, ṭonmış</li>
     </ul>
   </li>
@@ -469,13 +465,13 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: dur, dür, idi, ıdı, dir, dır, imiş, idiler, dı, tir</li>
-      <li>AUX-Fin: idiler, oldı</li>
-      <li>VERB: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, vardı, gitdi</li>
-      <li>VERB-Conv: idince, olınca, açılmadan, düşmeyince, getürüp, gitmeyince, görmegin, idip, olduḳda, varınca</li>
-      <li>VERB-Fin: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, vardı, gitdi</li>
-      <li>VERB-Part: itdügi, itdükden, olduġı, olınduġı, alduġunı, alduġı, alduḳları, bulduġı, gördügi, idügini</li>
-      <li>VERB-Vnoun: ulaşmaḳ, ṭanışmaḳ, ṭoġması</li>
+      <li>AUX: dur, idi, dür, ıdı, dir, dır, imiş, dı, di, idiler</li>
+      <li>AUX-Fin: idiler, imişler, oldı</li>
+      <li>VERB: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
+      <li>VERB-Conv: olınca, idince, olıcaḳ, olıcak, açılmadan, düşmeyince, gelmedin, gitmeyince, görmegin, idicek</li>
+      <li>VERB-Fin: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
+      <li>VERB-Part: itdügi, itdükden, olduġı, didükleri, olınduġı, alduġı, gördügi, idügini, olduḳdan, olmış</li>
+      <li>VERB-Vnoun: olmasını, ulaşmaḳ, ṭanışmaḳ, ṭoġması</li>
     </ul>
   </li>
 </ul>
@@ -483,9 +479,8 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: döge, ederek, edilmektedir, gidiyoruz, iderek, içerek, söyleşerek, ḳaçaraḳ</li>
-      <li>VERB-Conv: döge, ederek, iderek, içerek, söyleşerek, ḳaçaraḳ</li>
-      <li>VERB-Fin: gidiyoruz</li>
+      <li>VERB-Conv: döge, ederek, ḳorḳaraḳ, iderek, içerek, söyleşerek, ḳaçaraḳ</li>
+      <li>VERB-Fin: düşünüyorsun, edilmektedir, ediyorsun, gidiyoruz, yaġıyor</li>
     </ul>
   </li>
 </ul>
@@ -493,8 +488,8 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Prosp
     <ul>
-      <li>VERB-Fin: kutlanacaktır, olacaḳ, çıḳayazdı, övülecek</li>
-      <li>VERB-Part: idemeyeceklerin, ḳoyacaḳ</li>
+      <li>VERB-Fin: olacaḳ, eyleyüyazdı, kutlanacaktır, çıḳayazdı, övülecek</li>
+      <li>VERB-Part: gelebilecegini, idemeyeceklerin, olıcaġı, ḳoyacaḳ</li>
     </ul>
   </li>
 </ul>
@@ -506,9 +501,8 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: ise, sañ, se, señ</li>
-      <li>VERB: olsa, açılsa, binse, dinlese, dökse, getürseler, inse, olursa, uġrasa, varılmasa</li>
-      <li>VERB-Fin: olsa, açılsa, binse, dinlese, dökse, getürseler, inse, olursa, uġrasa, varılmasa</li>
+      <li>AUX: ise, sa, se, sañ, iseñ, señ, señüz</li>
+      <li>VERB-Fin: olsa, olursa, varısa, açılsa, binse, dinlese, dökse, getürmezsen, getürseler, gizlersenüz</li>
     </ul>
   </li>
 </ul>
@@ -516,7 +510,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Des
     <ul>
-      <li>VERB: olsam</li>
+      <li>VERB-Fin: olsam</li>
     </ul>
   </li>
 </ul>
@@ -524,9 +518,8 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: dur, olunuz</li>
-      <li>VERB: eyle, ova, aluñ, bilesiñiz, bilsün, buyur, devşür, dönsün, eyitmegile, eyleye</li>
-      <li>VERB-Fin: eyle, ova, aluñ, bilesiñiz, bilsün, buyur, devşür, dönsün, eyitmegile, eyleye</li>
+      <li>AUX: olunuz</li>
+      <li>VERB-Fin: eyle, gizle, gerek, görüñ, itme, itmeñ, olasız, olsun, oluñ, ova</li>
     </ul>
   </li>
 </ul>
@@ -534,11 +527,16 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: idiler, oldı</li>
-      <li>VERB: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, olur, vardı</li>
-      <li>VERB-Conv: giderken, iderken, otururken</li>
-      <li>VERB-Fin: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, olur, vardı</li>
-      <li>VERB-Part: olan, oḳınmış, ḳoyacaḳ</li>
+      <li>AUX-Fin: idiler, imişler, oldı</li>
+      <li>VERB-Fin: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nec
+    <ul>
+      <li>VERB-Fin: yapmalı</li>
     </ul>
   </li>
 </ul>
@@ -546,7 +544,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Opt
     <ul>
-      <li>VERB-Fin: ola, idesin, ala, aldamayasın, baḥsedelim, duymaya, eyleyelüm, geçüreyin, gidelüm, göreler</li>
+      <li>VERB-Fin: ola, ide, idesin, vire, ṭapalar, ala, alam, aldamayasın, alıvire, ayırmasun</li>
     </ul>
   </li>
 </ul>
@@ -554,8 +552,8 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Pot
     <ul>
-      <li>VERB-Conv: olamayup</li>
-      <li>VERB-Fin: edebilirsiniz, eyleyemez, idemedi, olımadılar, üleşdüremem</li>
+      <li>VERB-Fin: bulımadı, edebilirsiniz, eyleyemez, idemedi, idemez, olabildi, olımadılar, sizemezüz, üleşdüremem</li>
+      <li>VERB-Part: gelebilecegini</li>
     </ul>
   </li>
 </ul>
@@ -568,7 +566,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
   <li>Fut
     <ul>
       <li>VERB-Fin: idecekdür, bürüyecekdür, geçecekdür, kutlanacaktır, olacakdur, olacaḳ, yıḳılacaḳdur, övülecek</li>
-      <li>VERB-Part: idemeyeceklerin, idicek, ḳoyacaḳ</li>
+      <li>VERB-Part: gelebilecegini, idemeyeceklerin, idicek, olıcaġı, ḳoyacaḳ</li>
     </ul>
   </li>
 </ul>
@@ -576,11 +574,12 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Past
     <ul>
-      <li>AUX: idi, ıdı, imiş, di, dı, idiler, degüldi, idüm, mıydı, oldı</li>
-      <li>AUX-Fin: idiler, oldı</li>
-      <li>VERB: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, vardı, gitdi</li>
-      <li>VERB-Fin: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, vardı, gitdi</li>
-      <li>VERB-Part: itdügi, itdükden, olduġı, olınduġı, alduġunı, alduġı, alduḳları, bulduġı, gördügi, idügini</li>
+      <li>AUX: idi, ıdı, imiş, dı, di, idiler, idüm, ydi, udı, yidüm</li>
+      <li>AUX-Fin: idiler, imişler, oldı</li>
+      <li>VERB: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
+      <li>VERB-Fin: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
+      <li>VERB-Part: itdügi, itdükden, olduġı, didükleri, olınduġı, alduġı, gördügi, idügini, olduḳdan, alduġunı</li>
+      <li>VERB-Vnoun: olmasını</li>
     </ul>
   </li>
 </ul>
@@ -596,12 +595,11 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: dur, dür, dir, dır, idi, ıdı, mi, mıdur, imiş, mı</li>
-      <li>VERB: olan, olur, iderler, ider, olmaz, gelen, alur, eydür, olınmaz, ḳalan</li>
-      <li>VERB-Conv: getürüp, giderken, iderken, idip, olduḳda, otururken, yanar, yaḳılur</li>
-      <li>VERB-Fin: olur, iderler, ider, olmaz, alur, eydür, olınmaz, gelür, iderin, olsa</li>
-      <li>VERB-Part: olan, gelen, ḳalan, olınan, geçen, giden, olanlar, baġlayan, baḳanlar, bulunan</li>
-      <li>VERB-Vnoun: ulaşmaḳ, ṭanışmaḳ, ṭoġması</li>
+      <li>AUX: dur, dür, dir, dır, degüldür, mı, mıdur, mi, midür, degül</li>
+      <li>VERB-Conv: giderken, iderken, olduḳda, otururken, yanar, yaḳılur</li>
+      <li>VERB-Fin: eydür, olur, iderler, ider, iderin, olmaz, gelür, olsa, alur, beñzer</li>
+      <li>VERB-Part: olan, gelen, olınan, ḳalan, bulunan, getüren, geçen, giden, gider, iden</li>
+      <li>VERB-Vnoun: olan, ulaşmaḳ, ṭanışmaḳ, ṭoġması</li>
     </ul>
   </li>
 </ul>
@@ -613,8 +611,8 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Cau
     <ul>
-      <li>VERB-Conv: aġladup, geçirüp, itdürüp, kesdürüp, yaḳılur</li>
-      <li>VERB-Fin: bisletürüm, güldürdiler, idindi, itdirir, itdürdi, itdürürdi, oḳudurdı, ulaşdurdı, yükletdi, öldürdiyise</li>
+      <li>VERB-Conv: aġladup, getürdüp, geçirüp, itdürüp, kesdürüp, yaḳılur</li>
+      <li>VERB-Fin: bisletürüm, güldürdiler, idindi, itdirir, itdürdi, itdürürdi, işlenür, oḳudurdı, ulaşdurdı, yükletdi</li>
       <li>VERB-Part: öldürdi, öldürmiş</li>
       <li>VERB-Vnoun: öldürmek</li>
     </ul>
@@ -624,11 +622,10 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: olındı, ḳılındı, olınup, olınmaz, bulındı, olınan, olınduġı, buyuruldu, döküldi, olındılar</li>
-      <li>VERB-Conv: olınup, ḳılınup, bilinüp, bılınup, gelindükde, geçilüp, gönderildükde, idinüp, olunup, virilüp</li>
-      <li>VERB-Fin: olındı, ḳılındı, olınmaz, bulındı, buyuruldu, döküldi, olındılar, virildi, ḳılındılar, alıḳonıldı</li>
-      <li>VERB-Part: olınan, olınduġı, alınduġını, bulunmadıġı, bulınduḳları, denilen, olınduḳdan, oḳınmış, yazulan</li>
-      <li>VERB-Vnoun: addolunmaġa, beklenmesi, gönderülmesini, yazılmamaġla, ḳılınması</li>
+      <li>VERB-Conv: olınup, buyurılup, olunup, virilüp, ḳılınup, açılup, bilinüp, bılınup, dögilüp, gelindükde</li>
+      <li>VERB-Fin: olındı, ḳılındı, olındılar, olınmaz, virildi, bulındı, buyurıldı, gönderildi, olınur, bulınur</li>
+      <li>VERB-Part: olınan, olınduġı, bulunan, olınduḳdan, alınduġını, bulunmadıġı, bulınduḳları, denilen, dinilen, dutılanlar</li>
+      <li>VERB-Vnoun: addolunmaġa, açılması, beklenmesi, bulınmaġla, gönderülmesini, yazılmamaġla, ḳılınması</li>
     </ul>
   </li>
 </ul>
@@ -637,7 +634,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
   <li>Rcp
     <ul>
       <li>VERB-Conv: söyleşerek</li>
-      <li>VERB-Fin: dürtişdiler, çalışdılar, ṣorışdı</li>
+      <li>VERB-Fin: buluşdılar, dürtişdiler, çalışdılar, ṣorışdı</li>
     </ul>
   </li>
 </ul>
@@ -649,9 +646,10 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Fh
     <ul>
-      <li>AUX: idi, ıdı, imiş, di, dı, idiler, idüm, mıydı, oldı, udı</li>
+      <li>AUX: idi, ıdı, dı, di, idiler, idüm, ydi, udı, yidüm, idük</li>
       <li>AUX-Fin: idiler, oldı</li>
-      <li>VERB-Fin: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, vardı, gitdi</li>
+      <li>VERB: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
+      <li>VERB-Fin: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
       <li>VERB-Part: eyleyen</li>
     </ul>
   </li>
@@ -660,10 +658,10 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Nfh
     <ul>
-      <li>AUX: imiş</li>
-      <li>VERB: olmışdur, olmış, itmiş, itmişdür, bulmışdur, etmiştir, eylemiş, itmişler, ḳılmış, almış</li>
-      <li>VERB-Fin: olmış, itmiş, olmışdur, itmişdür, bulmışdur, etmiştir, eylemiş, itmişler, ḳılmış, almış</li>
-      <li>VERB-Part: oḳınmış, ḳoymuşdur</li>
+      <li>AUX: imiş, imişler, miş</li>
+      <li>AUX-Fin: imişler</li>
+      <li>VERB-Fin: olmışdur, itmiş, itmişdür, olmış, etmiştir, itmişler, eylemiş, olmışlar, ḳılmış, bulmışdur</li>
+      <li>VERB-Part: bilmiş, görülmemiş, olmamış, olmış, oḳınmış, ḳoymuşdur</li>
     </ul>
   </li>
 </ul>
@@ -678,7 +676,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Art
     <ul>
-      <li>DET: bir, bu, ol, her, o, baʿżı, birḳaç, işbu, şol, budur</li>
+      <li>DET: bir, bu, ol, her, o, baʿżı, birḳaç, işbu, şol, şu</li>
     </ul>
   </li>
 </ul>
@@ -686,7 +684,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: bunuñ, bu, andan, bunlaruñ, anda, bunlar, bunı, anuñ, bundan, buña</li>
+      <li>PRON: andan, bunuñ, bu, bunlaruñ, anda, bundan, bunı, bunlar, buña, anlaruñ</li>
     </ul>
   </li>
 </ul>
@@ -694,7 +692,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: birinüñ, biri, baʿżılar, birine, birini, baʿżısı, birinden, birisi, eks̱eri, eks̱erini</li>
+      <li>PRON: birinüñ, biri, baʿżılar, birini, eks̱eri, birisi, cemîʿ-i, cümlesin, mecmûʿısı, birine</li>
     </ul>
   </li>
 </ul>
@@ -702,7 +700,9 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Int
     <ul>
-      <li>PRON: kimini, ne, nedür, ḳanda, kim, nereye, ney, ḳanġısı</li>
+      <li>DET: ḳanġı</li>
+      <li>NOUN: nesnedür</li>
+      <li>PRON: ne, kim, ḳanda, nedür, kimini, kimdür, kime, nereye, ney, neye</li>
     </ul>
   </li>
 </ul>
@@ -710,7 +710,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: anlar, kendü, anuñ, ol, ben, benüm, anlara, anı, aña, beni</li>
+      <li>PRON: anuñ, ben, kendü, anı, aña, benüm, anlar, bunlar, ol, baña</li>
     </ul>
   </li>
 </ul>
@@ -718,7 +718,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: birbirine, birbirlerini, biribirinüñ</li>
+      <li>PRON: biribirine, biribirinüñ, birbirine, birbirini, birbirlerini, birbirüñüze</li>
     </ul>
   </li>
 </ul>
@@ -730,7 +730,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Card
     <ul>
-      <li>NUM: yüz, biñ, on, üç, dört, yigirmi, iki, sekiz, beş, ḳırḳ</li>
+      <li>NUM: yüz, on, biñ, iki, üç, dört, yigirmi, ṭoḳuz, ḳırḳ, sekiz</li>
     </ul>
   </li>
 </ul>
@@ -738,7 +738,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Dist
     <ul>
-      <li>NUM: birer, yigirmişer, üçer</li>
+      <li>NUM: birer, yigirmişer, üçer, ṭoḳsanar</li>
     </ul>
   </li>
 </ul>
@@ -746,7 +746,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: üçinci, birinci, ikinci, sekizinci, ṭoḳuzıncı, dördinci, dördünci, onuncu, s̱ânî, üçüncü</li>
+      <li>NUM: birinci, üçinci, üçünci, ikinci, sekizinci, ṭoḳuzıncı, altıncı, dördinci, dördünci, onuncu</li>
     </ul>
   </li>
 </ul>
@@ -759,7 +759,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: kendü, kendüye, kendüden, kendüsi, kendüyi, kendi, kendileri, kendözüñi, kendüde, kendüler</li>
+      <li>PRON: kendü, kendüye, kendüsi, kendüyi, kendüden, kendi, kendileri, kendözüñi, kendüde, kendüler</li>
     </ul>
   </li>
 </ul>
@@ -771,11 +771,12 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>1
     <ul>
-      <li>AUX: idüm</li>
-      <li>NOUN: ahâlîmizin, ʿemmüm, ʿâdetüm, ʿömrüm</li>
-      <li>PRON: benüm, ben, beni, baña, benden, benim, bize, bizi, bizüm, bu</li>
-      <li>VERB: itdüm, oldum, iderin, ayırurın, baḥsedelim, bildüm, bilmem, bisletürüm, buldum, direm</li>
-      <li>VERB-Fin: itdüm, oldum, iderin, ayırurın, baḥsedelim, bildüm, bisletürüm, buldum, direm, eyledüm</li>
+      <li>AUX: idüm, yam, yidüm, idük, yin, yüz, üm</li>
+      <li>NOUN: ahâlîmizin, elümden, elüme, vaṣiyyetüm, üsdümüzden, ʿâdetüm, ʿömrüm</li>
+      <li>PRON: ben, benüm, baña, beni, bize, benden, bizi, benim, biz, bizüm</li>
+      <li>VERB: itdüm, oldum, iderin, eyledüm, gördüm, iderem, iderüz, alam, ayırurın, aṣayın</li>
+      <li>VERB-Fin: itdüm, oldum, iderin, eyledüm, gördüm, iderem, iderüz, alam, ayırurın, aṣayın</li>
+      <li>VERB-Part: iner</li>
     </ul>
   </li>
 </ul>
@@ -783,11 +784,10 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>2
     <ul>
-      <li>AUX: dur, sañ, mısınız, señ, sun</li>
+      <li>AUX: degülsin, misiz, sañ, misin, mısınız, señ, señüz, sun</li>
       <li>NOUN: ġâzîsün</li>
-      <li>PRON: senüñ, senden, siz, sizden, sizi</li>
-      <li>VERB: eyle, idesin, itdüñ, itmişsin, ova, aldamayasın, aluñ, bilesiñiz, buyur, devşür</li>
-      <li>VERB-Fin: eyle, idesin, itdüñ, itmişsin, ova, aldamayasın, aluñ, bilesiñiz, buyur, devşür</li>
+      <li>PRON: saña, senüñ, sen, senden, seni, size, siz, sizi, birbirüñüze, sizden</li>
+      <li>VERB-Fin: eyle, gizle, gerek, idesin, görüñ, itdüñ, itme, itmeñ, itmişsin, olasız</li>
     </ul>
   </li>
 </ul>
@@ -795,18 +795,17 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>3
     <ul>
-      <li>ADJ: ḫâtûn, mezbûruñ, içinde, var, aralarında, arası, atlu, aʿrâbî, bed-kirdâruñ, bedi</li>
-      <li>AUX: dur, dür, idi, ıdı, dir, dır, imiş, di, ise, dı</li>
-      <li>AUX-Fin: idiler, oldı</li>
-      <li>NOUN: var, gün, paşa, yıl, ḫân, nâm, gice, leşker, sulṭân, âdem</li>
-      <li>NUM: beşi, ikisinde, biñden, beşinde, birinci, biñde, biñe, ikidür, ikinci, ikisi</li>
-      <li>PRON: birinüñ, anuñ, bunuñ, kendü, anlar, anda, bu, ol, andan, bunlar</li>
-      <li>PROPN: züheyr, ʿanter, aḥmed, şî, muḥammed, züheyrüñ, ʿalî, ʿos̱mân, fârs, ibrâhîm</li>
-      <li>VERB: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, olur, vardı</li>
-      <li>VERB-Conv: giderken, iderken, otururken, yanar, yaḳılur, ṭoġmazdan</li>
-      <li>VERB-Fin: oldı, itdi, eyledi, ḳıldı, eylediler, itdiler, geldi, olındı, olur, vardı</li>
-      <li>VERB-Part: itdükden, olduġı, alduġunı, idügini, itdügi, itdüklerinde, olanlar, olduġını, olduḳdan, olınduġı</li>
-      <li>VERB-Vnoun: itmek, itmekle, dimek, dimekle, dögmege, itmege, olmaġla, addolunmaġa, almaġa, azıḳlanmaġa</li>
+      <li>ADJ: ḫâtûn, içinde, mezbûruñ, aralarında, var, yanında, arası, atlu, aʿlâsı, aʿrâbî</li>
+      <li>AUX: dur, idi, dür, ıdı, dir, dır, imiş, dı, degüldür, di</li>
+      <li>AUX-Fin: idiler, imişler, oldı</li>
+      <li>NOUN: var, gün, üzerine, bin, paşa, efendi, gice, oġlı, yıl, âdem</li>
+      <li>NUM: beşi, ikisi, ikisinde, biñden, altıda, beşinde, biñde, biñe, dördinüñ, ikide</li>
+      <li>PRON: andan, bunuñ, anuñ, kendü, birinüñ, bu, bunlar, anda, anı, aña</li>
+      <li>PROPN: nemrûd, ʿanter, züheyr, âẕer, aḥmed, muṣṭafâ, muḥammed, ʿalî, ibrâhîm, meḥemmed</li>
+      <li>VERB-Conv: giderken, iderken, otururken, varmazdan, yanar, yaḳılur, ṭoġmazdan</li>
+      <li>VERB-Fin: oldı, eyledi, itdi, eyitdi, geldi, olındı, itdiler, didi, oldılar, eylediler</li>
+      <li>VERB-Part: itdükden, idügini, itdügi, olduġı, olduḳdan, alduġunı, itdüklerinde, olanlar, olduġın, olduġını</li>
+      <li>VERB-Vnoun: itmek, itmekle, dimek, itmege, olmaġla, dimekle, almaġa, baḳmaġa, dimekdür, dögmege</li>
     </ul>
   </li>
 </ul>
@@ -821,9 +820,9 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
   <li>Plur
     <ul>
       <li>ADJ: saʿîdiñüz, ulularını</li>
-      <li>NOUN: şehrlerinden, başlarını, işleri, ahâlîmizin, alayların, atlarına, babaları, başumuza, başuñuza, başımuz</li>
-      <li>PRON: baʿżısına, birbirlerine, birbirlerini, bi’l-cümlesi, cümlesi, cümlesine, kendileri, kendülerden, kendülerini, mecmûʿısı</li>
-      <li>VERB-Part: alduḳları, itdüklerinde, uġraduḳları, alduḳlarını, başladuḳları, begendikleri, begenmedüklerine, bulduḳları, bulınduḳları, dedigimiz</li>
+      <li>NOUN: şehrlerinden, başlarını, başumuza, heybetinden, işleri, yerlerine, üzerlerine, ahâlîmizin, alayların, atların</li>
+      <li>PRON: birbirlerine, birini, baʿżısına, birbirlerini, birbirüñüze, biribirine, birisini, bi’l-cümlesi, cümlesine, kendileri</li>
+      <li>VERB-Part: didükleri, alduḳları, didügümüz, itdüklerinde, olduḳları, uġraduḳları, alduḳlarını, başladuḳları, begendikleri, begenmedüklerine</li>
       <li>VERB-Vnoun: aşmalarını, budanmalarına</li>
     </ul>
   </li>
@@ -832,15 +831,14 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: içinde, aralarında, arası, bedi, bî-devletine, büyüklerinden, cârîsini, doġrusu, evveli, laṭîfin</li>
+      <li>ADJ: içinde, aralarında, yanında, arası, aʿlâsı, bedi, bî-devletine, bî-fâżılları, büyüklerinden, cârîsini</li>
       <li>AUX: degülin</li>
-      <li>NOUN: oġlı, yirine, üzerine, cânibine, senesinde, güni, adı, civârında, elinden, arasında</li>
-      <li>NUM: beşi, ikisinde, beşinde, ikisi, sebʿînde, sekizinde, yedisinde</li>
-      <li>PRON: biri, birinüñ, kendüsi, kimini, kimisin, birini, cümlesin, eks̱eri, anuñla, baʿżısı</li>
-      <li>PROPN: hûşuña, sâbıḳuñ, ḳalemi, ḳocailinden</li>
-      <li>VERB: itdügi, olduġı, olınduġı, alduġunı, alduġı, bulduġı, gördügi, idügini, olduġu, olduġını</li>
-      <li>VERB-Part: itdügi, olduġı, olınduġı, alduġunı, alduġı, bulduġı, gördügi, idügini, olduġu, olduġını</li>
-      <li>VERB-Vnoun: beklenmesi, bitürmeñ, girmesi, gönderülmesini, yapması, çalışı, ḳomasını, ḳılınması, ṣalması, ṣızmasını</li>
+      <li>NOUN: üzerine, oġlı, yirine, içinde, adı, begi, beglerbegisi, öñinde, senesinde, yanına</li>
+      <li>NUM: beşi, ikisi, ikisinde, beşinde, dördinüñ, sebʿînde, sekizinde, s̱ânîsi, yedisinde</li>
+      <li>PRON: biri, birinüñ, anuñla, eks̱eri, kendüsi, birisi, cümlesin, kendüyi, kimini, kimisin</li>
+      <li>PROPN: edrinede, islâmınuñ, rûmiline, sulṭânöyügine, ḳocailinden, ḳûrînüñ</li>
+      <li>VERB-Part: itdügi, olduġı, olınduġı, alduġı, gördügi, idügini, alduġunı, bulduġı, didügi, işitdügi</li>
+      <li>VERB-Vnoun: genşimesi, açılması, beklenmesi, bitürmeñ, gelmesine, girmesi, gönderülmesini, olmasını, yapması, çalışı</li>
     </ul>
   </li>
 </ul>
@@ -853,7 +851,7 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
     <ul>
       <li>DET
         <ul>
-          <li>DET: ḳaç</li>
+          <li>DET: bir</li>
         </ul>
       </li>
     </ul>
@@ -865,24 +863,24 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
     <ul>
       <li>Com
         <ul>
-          <li>PROPN: celvetî, meşşâʾiyyîn, naḳşibendiyyeye, naṣârâ</li>
+          <li>PROPN: sürḫ-serân, ḳızılbaş, celvetî, meşşâʾiyyîn, müslimîn, naḳşibendiyyeye, naṣârâ, rûm, sürḫ-serân-ı, yahûd</li>
         </ul>
       </li>
       <li>Geo
         <ul>
-          <li>NOUN: rûmili</li>
-          <li>PROPN: budun, burusada, edirneḳapısı, tebrîz, şâmda, baġdâdla, bâbil, evcân, filibe, gence</li>
+          <li>NOUN: dicle, rûmili</li>
+          <li>PROPN: mıṣr, burusada, yemen, anaṭolı, belġrad, rûm, rûma, budun, burûsaya, edirneḳapısı</li>
         </ul>
       </li>
       <li>Nat
         <ul>
-          <li>PROPN: ʿacem, rûs-ı, yehûd, fârs, kürd, türk, bulġârla, ger­miyân, hindîler, leh</li>
+          <li>PROPN: ʿacem, ʿarab, fârs, yehûd, moġollar, rûs-ı, ḳıpçaḳ, kürd, moġol, tatar</li>
         </ul>
       </li>
       <li>Prs
         <ul>
-          <li>NOUN: ʿanter</li>
-          <li>PROPN: züheyr, ʿanter, aḥmed, şî, muḥammed, züheyrüñ, ʿalî, ʿos̱mân, ibrâhîm, timur</li>
+          <li>NOUN: şeyḫî</li>
+          <li>PROPN: nemrûd, ʿanter, züheyr, âẕer, aḥmed, muṣṭafâ, muḥammed, ʿalî, ibrâhîm, meḥemmed</li>
         </ul>
       </li>
     </ul>
@@ -895,29 +893,29 @@ I am immensely grateful to Fatma Elcan for her tremendous help in providing me w
       <li>1
         <ul>
           <li>AUX: degülin</li>
-          <li>NOUN: ḳarındaşum, ahâlîmizin, başumuza, başımuz, feryâduma, ferzendüm, gözlerüm, intisâbım, iḫtilâṭum, kesbüm</li>
-          <li>VERB-Part: dedigimiz, didügümüz, itdügümüz, ṣanduḳlarumuz</li>
+          <li>NOUN: başumuza, ḳarındaşum, ahâlîmizin, atamuñ, ayaġımuza, bahâdurlarumuz, bahâdurlıġum, başımuz, ceddüm, elümden</li>
+          <li>PRON: benümle, kendümüze</li>
+          <li>VERB-Part: didügümüz, begledügümüz, dedigimiz, depeledügümüz, itdügümüz, olduḳum, olıcaġı, söyledügüm, uyduġumuz, ṣanduḳlarumuz</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>ADJ: saʿîdiñüz</li>
-          <li>NOUN: başuñuza, icâzetiñüzle, kellelerine, kâmın, leşkeriñüz, tedârükiñüzi, ḫaymelerin</li>
-          <li>PRON: anuñla, bunuñıla</li>
-          <li>VERB-Part: itdügüñ</li>
+          <li>NOUN: başuñuza, cemîʿüñüz, dôstlaruñuz, düşmenlerüñüze, icâzetiñüzle, kellelerine, kâmın, leşkeriñüz, menzilüñe, tedârükiñüzi</li>
+          <li>PRON: anuñla, birbirüñüze, bunuñıla, seninkinden, senüñile</li>
+          <li>VERB-Part: gördügüñ, itdügüñ, işitmişiñüz</li>
           <li>VERB-Vnoun: bitürmeñ</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADJ: içinde, aralarında, arası, bedi, bî-devletine, büyüklerinden, cârîsini, doġrusu, evveli, laṭîfin</li>
-          <li>NOUN: oġlı, yirine, üzerine, cânibine, senesinde, güni, adı, civârında, elinden, ḫalḳı</li>
-          <li>NUM: beşi, ikisinde, beşinde, ikisi, sebʿînde, sekizinde, yedisinde</li>
-          <li>PRON: biri, birinüñ, kendüsi, kimini, kimisin, birini, cümlesin, eks̱eri, mecmûʿısı, baʿżısı</li>
-          <li>PROPN: hûşuña, sâbıḳuñ, ḳalemi, ḳocailinden</li>
-          <li>VERB: itdügi, olduġı, olınduġı, alduġunı, alduġı, alduḳları, bulduġı, gördügi, idügini, itdüklerinde</li>
-          <li>VERB-Part: itdügi, olduġı, olınduġı, alduġunı, alduġı, alduḳları, bulduġı, gördügi, idügini, itdüklerinde</li>
-          <li>VERB-Vnoun: aşmalarını, beklenmesi, budanmalarına, girmesi, gönderülmesini, yapması, çalışı, ḳomasını, ḳılınması, ṣalması</li>
+          <li>ADJ: içinde, aralarında, yanında, arası, aʿlâsı, bedi, bî-devletine, bî-fâżılları, büyüklerinden, cârîsini</li>
+          <li>NOUN: üzerine, oġlı, yirine, içinde, adı, begi, beglerbegisi, öñinde, ḫalḳı, cânibine</li>
+          <li>NUM: beşi, ikisi, ikisinde, beşinde, dördinüñ, sebʿînde, sekizinde, s̱ânîsi, yedisinde</li>
+          <li>PRON: biri, birinüñ, birini, eks̱eri, kendüsi, birisi, cümlesin, kendüyi, kimini, kimisin</li>
+          <li>PROPN: edrinede, islâmınuñ, rûmiline, sulṭânöyügine, ḳocailinden, ḳûrînüñ</li>
+          <li>VERB-Part: itdügi, olduġı, didükleri, olınduġı, alduġı, gördügi, idügini, alduġunı, alduḳları, bulduġı</li>
+          <li>VERB-Vnoun: genşimesi, açılması, aşmalarını, beklenmesi, budanmalarına, gelmesine, girmesi, gönderülmesini, olmasını, yapması</li>
         </ul>
       </li>
     </ul>
@@ -954,25 +952,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (2)</li>
-      <li>VERB--NOUN-Nom (6)</li>
-      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB-Conv--NOUN-Acc (2)</li>
       <li>VERB-Conv--NOUN-Ins (1)</li>
-      <li>VERB-Conv--NOUN-Nom (51)</li>
-      <li>VERB-Conv--PRON-Nom (8)</li>
-      <li>VERB-Fin--NOUN-Abl (1)</li>
-      <li>VERB-Fin--NOUN-Acc (7)</li>
-      <li>VERB-Fin--NOUN-Nom (213)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(gibi) (1)</li>
+      <li>VERB-Conv--NOUN-Nom (74)</li>
+      <li>VERB-Conv--PRON-Acc (1)</li>
+      <li>VERB-Conv--PRON-Nom (7)</li>
+      <li>VERB-Fin--NOUN-Acc (8)</li>
+      <li>VERB-Fin--NOUN-Gen (2)</li>
+      <li>VERB-Fin--NOUN-Nom (323)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Nom (40)</li>
-      <li>VERB-Fin--PRON-Nom-ADP(daḫı) (1)</li>
-      <li>VERB-Part--NOUN-Acc (3)</li>
+      <li>VERB-Fin--PRON-Nom (68)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Nom (31)</li>
-      <li>VERB-Part--PRON-Gen (2)</li>
-      <li>VERB-Part--PRON-Nom (3)</li>
-      <li>VERB-Vnoun--NOUN-Nom (13)</li>
+      <li>VERB-Part--NOUN-Nom (38)</li>
+      <li>VERB-Part--PRON-Gen (4)</li>
+      <li>VERB-Part--PRON-Nom (5)</li>
+      <li>VERB-Vnoun--NOUN-Nom (12)</li>
       <li>VERB-Vnoun--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -981,33 +976,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (2)</li>
-      <li>VERB--NOUN-Nom (7)</li>
-      <li>VERB-Conv--NOUN-Acc (45)</li>
-      <li>VERB-Conv--NOUN-Dat (3)</li>
-      <li>VERB-Conv--NOUN-Loc (1)</li>
-      <li>VERB-Conv--NOUN-Nom (74)</li>
-      <li>VERB-Conv--PRON-Acc (11)</li>
-      <li>VERB-Conv--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN-Acc (101)</li>
-      <li>VERB-Fin--NOUN-Dat (11)</li>
-      <li>VERB-Fin--NOUN-Gen (4)</li>
+      <li>VERB-Conv--NOUN-Acc (76)</li>
+      <li>VERB-Conv--NOUN-Gen (1)</li>
+      <li>VERB-Conv--NOUN-Nom (86)</li>
+      <li>VERB-Conv--PRON-Acc (16)</li>
+      <li>VERB-Conv--PRON-Nom (1)</li>
+      <li>VERB-Fin--NOUN-Acc (152)</li>
+      <li>VERB-Fin--NOUN-Dat (5)</li>
+      <li>VERB-Fin--NOUN-Gen (3)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (220)</li>
-      <li>VERB-Fin--PRON-Acc (23)</li>
-      <li>VERB-Fin--PRON-Dat (2)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (6)</li>
-      <li>VERB-Part--NOUN-Acc (9)</li>
-      <li>VERB-Part--NOUN-Dat (1)</li>
-      <li>VERB-Part--NOUN-Nom (21)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Nom (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc (5)</li>
-      <li>VERB-Vnoun--NOUN-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Nom (256)</li>
+      <li>VERB-Fin--PRON-Acc (42)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Nom (3)</li>
+      <li>VERB-Part--NOUN-Acc (10)</li>
+      <li>VERB-Part--NOUN-Nom (31)</li>
+      <li>VERB-Part--PRON-Acc (4)</li>
+      <li>VERB-Vnoun--NOUN-Acc (7)</li>
       <li>VERB-Vnoun--NOUN-Gen (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (13)</li>
-      <li>VERB-Vnoun--PRON-Acc (2)</li>
+      <li>VERB-Vnoun--NOUN-Nom (16)</li>
+      <li>VERB-Vnoun--PRON-Acc (3)</li>
       <li>VERB-Vnoun--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -1025,12 +1013,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendüyi, başla kendüsi, eyle kendözüñi, eyle kendüyi, gel kendüye, gör kendülerini, ḳalḳ kendüsi</li>
+  <li>This corpus contains 9 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendüyi, ayaḳ kendüsi, başla kendüsi, bul kendüyi, gel kendüye, git kendüsi, gör kendülerini, helâk kendözüñi, ḳatl kendüyi</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 7 relation subtypes: <a>advmod:emph</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>obl:tmod</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

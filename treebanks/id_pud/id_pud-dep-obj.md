@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3 4 obj	color:blue
 1	Skema	skema	NOUN	_	Number=Sing	3	nsubj	_	_
 2	ini	ini	DET	_	PronType=Dem	1	det	_	_
-3	menghasilkan	hasil	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+3	menghasilkan	hasil	VERB	_	Voice=Act	0	root	_	_
 4	uang	uang	NOUN	_	Number=Sing	3	obj	_	_
 5	melalui	lalu	ADP	_	_	6	case	_	_
 6	sponsor	sponsor	NOUN	_	Number=Sing	3	obl	_	_
@@ -45,8 +45,8 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 2	semua	semua	DET	_	PronType=Tot	3	det	_	_
 3	orang	orang	NOUN	_	Number=Sing	5	nsubj	_	_
 4	bisa	bisa	AUX	_	_	5	aux	_	_
-5	beranjak	anjak	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-6	melampaui	lampau	VERB	_	Mood=Ind|Voice=Act	5	advcl	_	_
+5	beranjak	anjak	VERB	_	Voice=Act	0	root	_	_
+6	melampaui	lampau	VERB	_	Voice=Act	5	advcl	_	_
 7	itu	itu	PRON	_	PronType=Dem	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -66,7 +66,7 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 5	Agustus	Agustus	PROPN	_	_	3	nmod:tmod	_	_
 6	2010	2010	NUM	_	NumType=Card	3	flat	_	_
 7	kelaparan	lapar	NOUN	_	Number=Sing	8	nsubj	_	_
-8	melanda	landa	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+8	melanda	landa	VERB	_	Voice=Act	0	root	_	_
 9	Sahel	Sahel	PROPN	_	_	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 

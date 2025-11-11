@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-72 tokens (0%) have a non-empty value of `Typo`.
-42 types (0%) occur at least once with a non-empty value of `Typo`.
-62 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (49; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+74 tokens (0%) have a non-empty value of `Typo`.
+43 types (0%) occur at least once with a non-empty value of `Typo`.
+64 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (49; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -28,13 +28,13 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 
 ### `ADJ`
 
-6 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
+8 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (6; 100%), <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (5; 83%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (8; 100%), <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8; 100%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (7; 88%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 63%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (5; 63%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (6; 100% of non-empty `Typo`): <em>N-, O-, fi, ne-, post, sub</em>
+* `Yes` (8; 100% of non-empty `Typo`): <em>post, N-, O-, fi, ne-, propriu, sub</em>
 
 ### `NOUN`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 1 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (1; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%).
+The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (1; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="ro_rrt-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADP` tokens may have the following values of `Typo`:
 

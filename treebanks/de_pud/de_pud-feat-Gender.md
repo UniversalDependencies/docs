@@ -50,7 +50,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 * `Fem` (1130; 43% of non-empty `Gender`): <em>der, die, eine, einer, seine, diese, ihre, seiner, ihrer, dieser</em>
 * `Masc` (853; 32% of non-empty `Gender`): <em>dem, der, den, des, ein, einen, einem, dieser, seinen, diesem</em>
 * `Neut` (659; 25% of non-empty `Gender`): <em>das, dem, ein, des, einem, eines, ihr, dies, dieses, sein</em>
-* `EMPTY` (464): <em>die, den, der, ein, the, a, alle, Diese, meisten, viele</em>
+* `EMPTY` (453): <em>die, den, der, the, a, alle, Diese, meisten, viele, That</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

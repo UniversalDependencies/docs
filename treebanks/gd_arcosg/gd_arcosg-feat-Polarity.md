@@ -23,13 +23,13 @@ The most frequent other feature values with which `PART` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (1044; 100% of non-empty `Polarity`): <em>cha, nach, chan, na</em>
-* `EMPTY` (7757): <em>a, a', gu, ag, air, gun, an, do, gum, a’</em>
+* `EMPTY` (7754): <em>a, a', gu, ag, air, gun, an, do, gum, a’</em>
 
 ### `AUX`
 
 301 <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> tokens (22% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (301; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (301; 100%), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (240; 80%), <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt> (170; 56%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="gd_arcosg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (301; 100%), <tt><a href="gd_arcosg-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (301; 100%), <tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (240; 80%), <tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt> (170; 56%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -39,10 +39,10 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 <table>
   <tr><th>Paradigm <i>is</i></th><th><tt>Neg</tt></th><th><tt>Aff</tt></th></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>chan, nach</em></td><td><em>gur, gun</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt>|<tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Int</tt></tt></td><td><em>nach</em></td><td><em>an</em></td></tr>
-  <tr><td><tt><tt><a href="gd_arcosg-feat-ExtPos.html">ExtPos</a></tt><tt>=AUX</tt></tt></td><td><em>chan, nach</em></td><td><em>gur, gun</em></td></tr>
+  <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>chan, cha, nach</em></td><td><em>gur, gun</em></td></tr>
   <tr><td><tt><tt><a href="gd_arcosg-feat-Mood.html">Mood</a></tt><tt>=Int</tt></tt></td><td><em>nach</em></td><td><em>an</em></td></tr>
-  <tr><td><tt></tt></td><td><em>chan, cha, nach</em></td><td><em>gur, gun</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Polarity`

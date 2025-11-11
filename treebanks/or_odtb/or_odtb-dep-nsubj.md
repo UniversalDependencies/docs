@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-94 nodes (9%) are attached to their parents as `nsubj`.
+95 nodes (9%) are attached to their parents as `nsubj`.
 
-88 instances of `nsubj` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.88297872340426.
+89 instances of `nsubj` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.89473684210526.
 
-The following 10 pairs of parts of speech are connected with `nsubj`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (50; 53% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (21; 22% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (10; 11% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `nsubj`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (50; 53% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (22; 23% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (10; 11% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

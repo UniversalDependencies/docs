@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 23 dep	color:blue
-1	Mit	Mit	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
+1	Mit	mit	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
 2	den	der	DET	ART	Case=Dat|Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 3	neuen	neu	ADJ	ADJA	Case=Dat|Degree=Pos|Number=Plur	4	amod	_	_
 4	Servern	Server	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	5	obl	_	_
@@ -41,7 +41,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 17	auf	auf	ADP	APPR	AdpType=Prep|Case=Acc	20	case	_	_
 18	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	neuerworbene	neuerworbene	ADJ	ADJA	_	20	amod	_	_
-20	Digital-Technologie	Digital-Technologie	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
+20	Digital-Technologie	Digital-Technologie	NOUN	NN	Gender=Fem|Number=Sing	21	obl	_	_
 21	verzichten	verzichten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 22	will.	wollen	AUX	VAFIN	Typo=Yes	21	aux	_	_
 23	ju	ju	PROPN	NE	_	21	dep	_	_

@@ -56,7 +56,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>bolshe, maybe, tohhujaa, a'la</em>
-* `EMPTY` (12669): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
+* `EMPTY` (12664): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
 
 ### `INTJ`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>ultimagte</em>
-* `EMPTY` (5256): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
+* `EMPTY` (5257): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
 
 ## Relations with Agreement in `Foreign`
 

@@ -64,18 +64,18 @@ The 2nd highest number of forms (4) was observed with the lemma “lie”: <em>L
 
 The 3rd highest number of forms (4) was observed with the lemma “niin”: <em>ni, nii, niin, nin</em>.
 
-`PART` occurs with 4 features: <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (345; 14% instances), <tt><a href="fi_ftb-feat-Abbr.html">Abbr</a></tt> (86; 3% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (45; 2% instances), <tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt> (43; 2% instances)
+`PART` occurs with 4 features: <tt><a href="fi_ftb-feat-Style.html">Style</a></tt> (345; 14% instances), <tt><a href="fi_ftb-feat-Abbr.html">Abbr</a></tt> (86; 3% instances), <tt><a href="fi_ftb-feat-ExtPos.html">ExtPos</a></tt> (46; 2% instances), <tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt> (45; 2% instances)
 
 `PART` occurs with 10 feature-value pairs: `Abbr=Yes`, `Clitic=Kaan`, `Clitic=Kin`, `Clitic=Ko`, `Clitic=Pa`, `Clitic=S`, `ExtPos=ADV`, `ExtPos=INTJ`, `ExtPos=SCONJ`, `Style=Coll`
 
 `PART` occurs with 14 feature combinations.
-The most frequent feature combination is `_` (1951 tokens).
+The most frequent feature combination is `_` (1949 tokens).
 Examples: <em>niin, sitten, edes, siis, juuri, kai, yhä, vaikka, aika, jopa</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 7 different relations: <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (1990; 81% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (319; 13% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (71; 3% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (32; 1% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (31; 1% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (6; 0% instances)
+`PART` nodes are attached to their parents using 7 different relations: <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (1989; 81% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (319; 13% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (71; 3% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (32; 1% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (31; 1% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (12; 0% instances), <tt><a href="fi_ftb-dep-discourse.html">discourse</a></tt> (7; 0% instances)
 
 Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (1194; 49% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (373; 15% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (350; 14% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (197; 8% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (114; 5% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (65; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (50; 2% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (48; 2% instances),  (31; 1% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (30; 1% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fi_ftb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

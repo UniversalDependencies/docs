@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-81159 tokens (16%) have a non-empty value of `Degree`.
+81158 tokens (16%) have a non-empty value of `Degree`.
 23424 types (38%) occur at least once with a non-empty value of `Degree`.
 8851 lemmas (31%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (70565; 14% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10594; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (70565; 14% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10593; 2% instances).
 
 ### `ADJ`
 
 70565 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (69242; 98%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (60515; 86%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (60515; 86%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44886; 64%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43268; 61%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (69242; 98%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (60476; 86%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (60476; 86%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44886; 64%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43268; 61%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -86,16 +86,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-10594 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `Degree`.
+10593 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (38% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10594; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10210; 96%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10593; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10209; 96%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (1516; 14% of non-empty `Degree`): <em>více, dále, méně, později, dříve, víc, spíše, lépe, dál, výše</em>
+* `Cmp` (1515; 14% of non-empty `Degree`): <em>více, dále, méně, později, dříve, víc, spíše, lépe, dál, výše</em>
 * `Pos` (8629; 81% of non-empty `Degree`): <em>tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, jistě</em>
 * `Sup` (449; 4% of non-empty `Degree`): <em>nejméně, nejlépe, nejvíce, nejdříve, nejčastěji, nejpozději, nejvíc, nejvýše, nejdéle, nejrychleji</em>
-* `EMPTY` (17495): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
+* `EMPTY` (17482): <em>tak, také, jak, proto, již, už, ještě, pak, kde, velmi</em>
 
 <table>
   <tr><th>Paradigm <i>dobře</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -107,11 +107,11 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3695; 94%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3694; 94%),
 <tt>ADV --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADV</tt> (220; 77%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADJ</tt> (108; 86%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (101; 82%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> ADJ</tt> (61; 76%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (102; 82%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> ADJ</tt> (60; 76%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (54; 69%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (37; 79%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (28; 90%),

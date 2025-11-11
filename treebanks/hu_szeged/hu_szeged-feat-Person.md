@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-1380 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
+1380 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1220; 88%).
 
@@ -58,28 +58,28 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (56; 4% of non-empty `Person`): <em>én, nekem, mi, nálunk, engem, magam, velem, általunk, Rám, bennem</em>
 * `2` (2; 0% of non-empty `Person`): <em>néktek, téged</em>
 * `3` (1322; 96% of non-empty `Person`): <em>azt, az, aki, ez, amely, ami, annak, arra, amelynek, ő</em>
+* `EMPTY` (10): <em>többek, többen, többet, többre, többért</em>
 
 <table>
   <tr><th>Paradigm <i>maga</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magától</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magáét</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>magát</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magát</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magától</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magáét</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>magát</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magát</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magukat</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magához</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Cau</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>magáért</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magáénak</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magának</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>maguknak</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Del</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magáról</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magában</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magával</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>maga</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>magam</em></td><td><em>maga</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>maguk</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magára</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magukévá</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magukat</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magához</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Cau</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>magáért</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magáénak</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magának</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>maguknak</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Del</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magáról</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magában</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magával</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>maga</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>magam</em></td><td><em>maga</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>maguk</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Sbl</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magára</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>magukévá</em></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 90% lemmas (85) occur only with one value of `Person`.
@@ -114,13 +114,13 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (115; 100% of non-empty `Person`): <em>ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</em>
-* `EMPTY` (5160): <em>a, az, egy, több, minden, egyik, néhány, sok, más, másik</em>
+* `EMPTY` (5164): <em>a, az, egy, több, minden, egyik, néhány, sok, más, másik</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> VERB</tt> (553; 93%),
-<tt>VERB --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> PRON</tt> (269; 85%),
+<tt>VERB --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> PRON</tt> (269; 84%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (266; 100%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (229; 91%),
 <tt>VERB --[<tt><a href="hu_szeged-dep-obj.html">obj</a></tt>]--> PRON</tt> (168; 80%),

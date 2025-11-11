@@ -8,77 +8,74 @@ udver: '2'
 
 This relation is universal.
 
-319 nodes (2%) are attached to their parents as `xcomp`.
+115 nodes (1%) are attached to their parents as `xcomp`.
 
-264 instances of `xcomp` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.69278996865204.
+112 instances of `xcomp` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.95652173913043.
 
-The following 29 pairs of parts of speech are connected with `xcomp`: <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (80; 25% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (61; 19% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (29; 9% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (29; 9% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (16; 5% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (12; 4% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (10; 3% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (8; 3% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (8; 3% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 xcomp	color:blue
-1	tsə́tngə́n	tsə́tn	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	dislocated	_	AlignBegin=51277|AlignEnd=51436|Gloss=sit
-2	də̀n	də̀n	NOUN	_	_	1	dep	_	AlignBegin=51595|AlignEnd=51913|Gloss=house
-3	máː	máː	PART	_	_	1	advmod	_	AlignBegin=51913|AlignEnd=52231|Gloss=even
-4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=52231|AlignEnd=52549|Gloss=PUNCT
-5	myáː	_	AUX	yáː	Aspect=Imp|Number=Sing|Person=1	6	aux	_	AlignBegin=52549|AlignEnd=52732|Gloss=1Sing.Imp
-6	yel	yel	VERB	_	_	7	parataxis	_	AlignBegin=52732|AlignEnd=52915|Gloss=see
-7	nə	nə	PART	_	_	0	root	_	AlignBegin=52915|AlignEnd=53098|Gloss=be
-8	lǎː	laː	NOUN	_	Definite=Cons	7	xcomp	_	AlignBegin=53098|AlignEnd=53190|Gloss=work
-9	bàptàk	bàptàk	ADJ	_	_	8	amod	_	AlignBegin=53281|AlignEnd=53464|Gloss=useless|Ideophon=Yes
-10	ɓas	ɓas	ADP	_	_	11	case	_	AlignBegin=53464|AlignEnd=53556|Gloss=of
-11	=mí	=mí	PRON	_	Number=Plur|Person=1|PronType=Prs	7	dep	_	AlignBegin=53556|AlignEnd=53647|Gloss=1Plur.Obj
-12	//	//	PUNCT	_	_	7	punct	_	AlignBegin=53647|AlignEnd=53829|Gloss=PUNCT
-
-~~~
+The following 20 pairs of parts of speech are connected with `xcomp`: <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (45; 39% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (25; 22% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (5; 4% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 xcomp	color:blue
-1	mə́	_	AUX	á	Aspect=Aor|Number=Plur|Person=1	2	aux	_	AlignBegin=179802|AlignEnd=179935|Gloss=1Plur.Aor
-2	wúl	wul	VERB	_	_	0	root	_	AlignBegin=179935|AlignEnd=180001|Gloss=say
-3	=tə	=tə	PRON	_	Number=Sing|Person=3|PronType=Prs	2	dep	_	AlignBegin=180001|AlignEnd=180068|Gloss=3Sing.Obj
-4	tu	tu	SCONJ	_	_	6	mark	_	AlignBegin=180068|AlignEnd=180202|Gloss=Qot
-5	mə	mə	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=180202|Gloss=1Sing
-6	yi	yi	VERB	_	_	2	ccomp	_	AlignEnd=180479|Gloss=be
-7	tə́	tə́	ADP	_	_	8	case	_	AlignBegin=180479|AlignEnd=180756|Gloss=with
-8	túr	túr	NOUN	_	_	6	xcomp	_	AlignBegin=180756|AlignEnd=180894|Gloss=husband
-9	=âtn	=atn	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	AlignBegin=180894|AlignEnd=181033|Gloss=1Sing.Gen
-10	kúmá	kúmá	CCONJ	_	_	12	cc	_	AlignBegin=181033|AlignEnd=181309|Gloss=also
-11	mə	mə	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	AlignBegin=181309|Gloss=1Sing
-12	yi	yi	VERB	_	_	6	conj	_	AlignEnd=181468|Gloss=be
-13	tə́	tə́	ADP	_	_	14	case	_	AlignBegin=181468|AlignEnd=181627|Gloss=with
-14	kúni	kúni	NOUN	_	_	12	xcomp	_	AlignBegin=181627|AlignEnd=181707|Gloss=boy
-15	=âtn	=atn	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	AlignBegin=181707|AlignEnd=181786|Gloss=1Sing.Gen
-16	//	//	PUNCT	_	_	2	punct	_	AlignBegin=181786|AlignEnd=181944|Gloss=PUNCT
-
-~~~
-
-
-~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 xcomp	color:blue
-1	nə	nə	PART	_	_	0	root	_	AlignBegin=331065|AlignEnd=331311|Gloss=be
-2	myàːní	myàːní	PRON	_	Number=Plur|Person=1|PronType=Prs	1	xcomp	_	AlignBegin=331311|AlignEnd=331557|Gloss=1Plur
-3	ɗan	ɗan	SCONJ	_	PronType=Rel	5	mark	_	AlignBegin=331557|AlignEnd=331803|Gloss=REL
-4	àː	_	AUX	àː	Aspect=Perf|Number=Sing|Person=3	5	aux	_	AlignBegin=331803|AlignEnd=332049|Gloss=3Sing.Perf
-5	fu	fu	VERB	_	_	1	advcl	_	AlignBegin=332049|AlignEnd=332295|Gloss=say
-6	sə́m	sə̂m	NOUN	_	Definite=Cons	5	obj	_	AlignBegin=332295|AlignEnd=332357|Gloss=name
-7	=wòpíː	=wopm	PRON	_	Number=Plur|Person=1|PronType=Prs	6	nmod:poss	_	AlignBegin=332357|AlignEnd=332419|Gloss=1Plur.Gen.Res|Result=Yes
-8	oː	oː	PART	_	PartType=Emp	1	advmod	_	AlignBegin=332481|AlignEnd=332541|Gloss=Emp
-9	//	//	PUNCT	_	_	1	punct	_	AlignBegin=332541|AlignEnd=332786|Gloss=PUNCT
+# visual-style 2 5 xcomp	color:blue
+1	mə̀tàyáː	_	AUX	tayáː	Aspect=Imp|Number=Plur|Person=1|Tense=Rem	2	aux	_	AlignBegin=25997|AlignEnd=26165|Gloss=1Plur.Rem.Imp
+2	ʧîm	ʧim	VERB	_	_	0	root	_	AlignBegin=26165|AlignEnd=26249|Gloss=call
+3	tə	tə	PRON	_	Number=Sing|Person=3|PronType=Prs	2	obj	_	AlignBegin=26249|AlignEnd=26333|Gloss=3Sing.Obj|wordform==tə
+4	tu	tu	SCONJ	_	Mood=Qot	5	case	_	AlignBegin=26501|AlignEnd=26669|Gloss=Qot
+5	pəri	pəri	NOUN	_	_	2	xcomp	_	AlignBegin=26669|AlignEnd=26837|Gloss=cotton
+6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=26837|AlignEnd=27008|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 xcomp	color:blue
+1	má	_	AUX	a	Number=Plur|Person=1|Tense=Fut	2	aux	_	AlignBegin=46593|AlignEnd=46752|Gloss=1Plur.Fut
+2	ngêláŋ	ngeláŋ	VERB	_	_	0	root	_	AlignBegin=46752|AlignEnd=46911|Gloss=stroll
+3	//=	//=	PUNCT	_	_	5	punct	_	AlignBegin=46911|AlignEnd=47071|Gloss=PUNCT
+4	má	_	AUX	a	Number=Plur|Person=1|Tense=Fut	5	aux	_	AlignBegin=47071|AlignEnd=47283|Gloss=1Plur.Fut
+5	yê	yel	VERB	_	_	2	parataxis	_	AlignBegin=47283|AlignEnd=47389|Gloss=see
+6	ʃí	ʃí	PRON	_	Number=Plur|Person=3|PronType=Prs	5	iobj	_	AlignBegin=47389|AlignEnd=47495|Gloss=3Plur.Obj|wordform==ʃí
+7	kàːsuwa	kàːsuwa	NOUN	_	_	5	obl	_	AlignBegin=47495|AlignEnd=47707|Gloss=market
+8	Kímsə́y	Kímsə	PROPN	_	_	7	nmod	_	AlignBegin=47707|AlignEnd=47813|Gloss=Ɓoi
+9	mə́n	mə́n	PART	_	PartType=Adv	5	compound:prt	_	AlignBegin=47919|AlignEnd=48131|Gloss=Dat
+10	kóː	kóː	CCONJ	_	_	11	cc	_	AlignBegin=48342|AlignEnd=48482|Gloss=or
+11	yi	yi	VERB	_	_	5	conj	_	AlignBegin=48482|AlignEnd=48622|Gloss=be
+12	wuriː	wuriː	ADV	_	PronType=Int	11	xcomp	_	AlignBegin=48622|AlignEnd=48762|Gloss=how
+13	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=48762|AlignEnd=48902|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 xcomp	color:blue
+1	á	_	AUX	ø	Aspect=Aor|Number=Sing|Person=3	2	aux	_	AlignBegin=172180|AlignEnd=172380|Gloss=3Sing.Aor
+2	ɬə́n	ɬə́n	VERB	_	_	0	root	_	AlignBegin=172380|AlignEnd=172480|Gloss=go_for
+3	gaː	gaː	VERB	_	_	2	compound	_	AlignBegin=172580|AlignEnd=172780|Gloss=put
+4	gə̀bzə	gə̀bzə	NOUN	_	_	3	obj	_	AlignBegin=172780|AlignEnd=172980|Gloss=ladder
+5	á	ká	ADP	_	_	6	case	_	AlignBegin=173880|AlignEnd=174060|Gloss=at
+6	wíndo	wíndo	NOUN	_	Foreign=Yes	3	obl:arg	_	AlignBegin=174060|AlignEnd=174240|Gloss=window|Lang=en
+7	ɣə̀	kə́	ADP	_	_	9	case	_	AlignBegin=174240|AlignEnd=174420|Gloss=of
+8	gyaː	gyáː	DET	_	Number=Plur	9	det	_	AlignBegin=174420|AlignEnd=174600|Gloss=Plur
+9	gùŋ	gùŋ	NOUN	_	_	6	nmod	_	AlignBegin=174600|AlignEnd=174780|Gloss=chief
+10	ɗan	ɗan	SCONJ	_	_	12	mark	_	AlignBegin=175840|AlignEnd=176036|Gloss=that
+11	tàː	_	AUX	áː	Aspect=Perf|Number=Plur|Person=3	12	aux	_	AlignBegin=176036|AlignEnd=176232|Gloss=3Plur.Perf
+12	gaː	gaː	VERB	_	_	6	acl:relcl	_	AlignBegin=176232|AlignEnd=176330|Gloss=put
+13	tə	tə	PRON	_	Number=Sing|Person=3|PronType=Prs	12	obj	_	AlignBegin=176330|AlignEnd=176428|Gloss==3Sing.Acc|wordform==tə
+14	vàtì	vàtì	ADJ	_	_	12	xcomp	_	AlignBegin=176428|AlignEnd=176624|Gloss=open
+15	//	//	PUNCT	_	_	2	punct	_	AlignBegin=176624|AlignEnd=176820|Gloss=PUNCT
 
 ~~~
 

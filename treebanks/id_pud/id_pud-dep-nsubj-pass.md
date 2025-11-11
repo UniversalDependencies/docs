@@ -25,11 +25,11 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Namun	namun	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	masih	masih	ADV	_	_	4	advmod	_	_
-4	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+4	ada	ada	VERB	_	Voice=Act	0	root	_	_
 5	pertanyaan	tanya	NOUN	_	Number=Sing	4	nsubj	_	_
 6	yang	yang	PRON	_	PronType=Rel	8	nsubj:pass	_	_
 7	tak	tak	PART	_	Polarity=Neg	8	advmod	_	_
-8	terjawab	jawab	VERB	_	Mood=Ind|Voice=Pass	5	acl:relcl	_	SpaceAfter=No
+8	terjawab	jawab	VERB	_	Voice=Pass	5	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Pengeluaran	keluar	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 2	baru	baru	ADJ	_	_	1	amod	_	_
 3	ini	ini	DET	_	PronType=Dem	1	det	_	_
-4	dipasok	pasok	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
+4	dipasok	pasok	VERB	_	Voice=Pass	0	root	_	_
 5	oleh	oleh	ADP	_	_	6	case	_	_
 6	rekening	rekening	NOUN	_	Number=Sing	4	obl:agent	_	_
 7	bank	bank	NOUN	_	Number=Sing	6	nmod	_	_
@@ -64,8 +64,8 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Pertandingan	Pertandingan	PROPN	_	_	4	nsubj:pass	_	_
 2	Olimpiade	Olimpiade	PROPN	_	_	1	flat:name	_	_
 3	terakhir	akhir	ADJ	_	Degree=Sup	1	amod	_	_
-4	diyakini	yakin	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
-5	diadakan	ada	VERB	_	Mood=Ind|Voice=Pass	4	xcomp	_	_
+4	diyakini	yakin	VERB	_	Voice=Pass	0	root	_	_
+5	diadakan	ada	VERB	_	Voice=Pass	4	xcomp	_	_
 6	pada	pada	ADP	_	_	7	case	_	_
 7	tahun	tahun	NOUN	_	Number=Sing	5	obl:tmod	_	_
 8	393	393	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No

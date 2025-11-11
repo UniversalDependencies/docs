@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of cc in UD_Kurmanji-MG'
+title:  'Statistics of cc in UD_Northern_Kurdish-Kurmanji'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Kurmanji-MG: Relations: `cc`
+## Treebank Statistics: UD_Northern_Kurdish-Kurmanji: Relations: `cc`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 323 instances of `cc` (89%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.07417582417582.
 
-The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (181; 50% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (113; 31% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (26; 7% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (16; 4% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt>-<tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (181; 50% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (113; 31% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (26; 7% instances), <tt><a href="kmr_kurmanji-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (16; 4% instances), <tt><a href="kmr_kurmanji-pos-VERB.html">VERB</a></tt>-<tt><a href="kmr_kurmanji-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="kmr_kurmanji-pos-ADV.html">ADV</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="kmr_kurmanji-pos-AUX.html">AUX</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="kmr_kurmanji-pos-PRON.html">PRON</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="kmr_kurmanji-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="kmr_kurmanji-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="kmr_kurmanji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_kurmanji-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="kmr_kurmanji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kmr_kurmanji-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-pos-INTJ.html">INTJ</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="kmr_kurmanji-pos-PART.html">PART</a></tt>-<tt><a href="kmr_kurmanji-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  の (<tt><a href="ja_pud-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.068660).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.068686).
 
 The 1st highest number of forms (1) was observed with the lemma “か”: か.
 
@@ -67,21 +67,21 @@ The 3rd highest number of forms (1) was observed with the lemma “が”: が.
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (6492; 98% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (141; 2% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (9; 0% instances)
+`ADP` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (6501; 98% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (141; 2% instances)
 
-Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5056; 76% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (782; 12% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (369; 6% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (223; 3% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (86; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (37; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (27; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (27; 0% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5056; 76% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (782; 12% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (369; 6% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (226; 3% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (85; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (37; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (27; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (27; 0% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances)
 
 6333 (95%) `ADP` nodes are leaves.
 
-114 (2%) `ADP` nodes have one child.
+113 (2%) `ADP` nodes have one child.
 
-191 (3%) `ADP` nodes have two children.
+192 (3%) `ADP` nodes have two children.
 
 4 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (508; 100% instances)
+Children of `ADP` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (509; 100% instances)
 
-Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (247; 49% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (172; 34% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (80; 16% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances)
+Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (247; 49% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (172; 34% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (81; 16% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances)
 

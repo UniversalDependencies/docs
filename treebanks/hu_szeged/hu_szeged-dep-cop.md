@@ -13,7 +13,7 @@ This relation is universal.
 119 instances of `cop` (73%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.47239263803681.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (76; 47% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (63; 39% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (9; 6% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (3; 2% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (76; 47% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (63; 39% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (10; 6% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

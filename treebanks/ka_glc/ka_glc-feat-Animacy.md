@@ -11,20 +11,20 @@ It occurs with 2 different values: `Anim`, `Inan`.
 
 20300 tokens (34%) have a non-empty value of `Animacy`.
 8244 types (54%) occur at least once with a non-empty value of `Animacy`.
-3896 lemmas (44%) occur at least once with a non-empty value of `Animacy`.
+3898 lemmas (43%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (20300; 34% instances).
 
 ### `NOUN`
 
 20300 <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15743; 78%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15741; 78%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (1178; 6% of non-empty `Animacy`): <em>ადამიანის, საზოგადოების, ცხოველთა, ადამიანთა, საზოგადოება, ადამიანი, ავტორი, ხალხის, ცხოველების, მეცნიერმა</em>
-* `Inan` (19122; 94% of non-empty `Animacy`): <em>წელს, მეცნიერება, საუკუნის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის, ტერმინი</em>
-* `EMPTY` (304): <em>მაგ., წ., ა.შ, ა., ი., ა.შ., გ., დნმ-ის, ს., დ.</em>
+* `Anim` (1180; 6% of non-empty `Animacy`): <em>ადამიანის, საზოგადოების, ცხოველთა, ადამიანთა, საზოგადოება, ადამიანი, ავტორი, ხალხის, ცხოველების, მეცნიერმა</em>
+* `Inan` (19120; 94% of non-empty `Animacy`): <em>წელს, მეცნიერება, საუკუნის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის, ტერმინი</em>
+* `EMPTY` (302): <em>მაგ., წ., ა.შ, ა., ი., ა.შ., გ., დნმ-ის, ს., დ.</em>
 
 <table>
   <tr><th>Paradigm <i>ადამიანი</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -39,19 +39,19 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ადამიანები</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (3881) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (3884) occur only with one value of `Animacy`.
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ka_glc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5116; 89%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2915; 95%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5269; 89%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2931; 95%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (696; 95%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (600; 91%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (408; 90%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (412; 90%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (321; 91%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-acl.html">acl</a></tt>]--> NOUN</tt> (83; 93%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (40; 59%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-obj.html">obj</a></tt>]--> NOUN</tt> (34; 100%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (39; 58%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-obj.html">obj</a></tt>]--> NOUN</tt> (35; 97%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-amod.html">amod</a></tt>]--> NOUN</tt> (13; 68%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-obl-tmod.html">obl:tmod</a></tt>]--> NOUN</tt> (12; 100%).
+<tt>NOUN --[<tt><a href="ka_glc-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (8; 100%).
 

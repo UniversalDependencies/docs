@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hebrew-IAHLTknesset: POS Tags: `SCONJ`
 
-There are 37 `SCONJ` lemmas (1%), 38 `SCONJ` types (0%) and 2934 `SCONJ` tokens (4%).
+There are 37 `SCONJ` lemmas (1%), 38 `SCONJ` types (0%) and 2935 `SCONJ` tokens (4%).
 Out of 16 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 11 in number of types and 9 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: ש, אם, כי, כש, כדי, ה, כאשר, כפי, כאילו, אשר
@@ -63,30 +63,30 @@ The 2nd highest number of forms (1) was observed with the lemma “אילו”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “אלא”: אלא.
 
-`SCONJ` occurs with 1 features: <tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`SCONJ` occurs with 2 features: <tt><a href="he_iahltknesset-feat-ExtPos.html">ExtPos</a></tt> (70; 2% instances), <tt><a href="he_iahltknesset-feat-Typo.html">Typo</a></tt> (2; 0% instances)
 
-`SCONJ` occurs with 1 feature-value pairs: `Typo=Yes`
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=SCONJ`, `Typo=Yes`
 
-`SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2932 tokens).
-Examples: ש, אם, כי, כש, כדי, ה, כאשר, כפי, כאילו, אשר
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (2863 tokens).
+Examples: ש, אם, כי, כש, כדי, ה, כאשר, כאילו, אשר, האם
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="he_iahltknesset-dep-mark.html">mark</a></tt> (2737; 93% instances), <tt><a href="he_iahltknesset-dep-fixed.html">fixed</a></tt> (183; 6% instances), <tt><a href="he_iahltknesset-dep-case.html">case</a></tt> (10; 0% instances), <tt><a href="he_iahltknesset-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="he_iahltknesset-dep-mark.html">mark</a></tt> (2735; 93% instances), <tt><a href="he_iahltknesset-dep-fixed.html">fixed</a></tt> (186; 6% instances), <tt><a href="he_iahltknesset-dep-case.html">case</a></tt> (10; 0% instances), <tt><a href="he_iahltknesset-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="he_iahltknesset-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt> (2241; 76% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (244; 8% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (175; 6% instances), <tt><a href="he_iahltknesset-pos-ADP.html">ADP</a></tt> (105; 4% instances), <tt><a href="he_iahltknesset-pos-SCONJ.html">SCONJ</a></tt> (66; 2% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="he_iahltknesset-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="he_iahltknesset-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="he_iahltknesset-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="he_iahltknesset-pos-VERB.html">VERB</a></tt> (2242; 76% instances), <tt><a href="he_iahltknesset-pos-NOUN.html">NOUN</a></tt> (244; 8% instances), <tt><a href="he_iahltknesset-pos-ADJ.html">ADJ</a></tt> (175; 6% instances), <tt><a href="he_iahltknesset-pos-ADP.html">ADP</a></tt> (105; 4% instances), <tt><a href="he_iahltknesset-pos-SCONJ.html">SCONJ</a></tt> (66; 2% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="he_iahltknesset-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="he_iahltknesset-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="he_iahltknesset-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="he_iahltknesset-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="he_iahltknesset-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="he_iahltknesset-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="he_iahltknesset-pos-SYM.html">SYM</a></tt> (2; 0% instances)
 
 2860 (97%) `SCONJ` nodes are leaves.
 
-72 (2%) `SCONJ` nodes have one child.
+73 (2%) `SCONJ` nodes have one child.
 
 2 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="he_iahltknesset-dep-fixed.html">fixed</a></tt> (69; 91% instances), <tt><a href="he_iahltknesset-dep-punct.html">punct</a></tt> (5; 7% instances), <tt><a href="he_iahltknesset-dep-advmod.html">advmod</a></tt> (2; 3% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="he_iahltknesset-dep-fixed.html">fixed</a></tt> (70; 91% instances), <tt><a href="he_iahltknesset-dep-punct.html">punct</a></tt> (5; 6% instances), <tt><a href="he_iahltknesset-dep-advmod.html">advmod</a></tt> (2; 3% instances)
 
-Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="he_iahltknesset-pos-SCONJ.html">SCONJ</a></tt> (66; 87% instances), <tt><a href="he_iahltknesset-pos-PUNCT.html">PUNCT</a></tt> (5; 7% instances), <tt><a href="he_iahltknesset-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="he_iahltknesset-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="he_iahltknesset-pos-SCONJ.html">SCONJ</a></tt> (66; 86% instances), <tt><a href="he_iahltknesset-pos-PUNCT.html">PUNCT</a></tt> (5; 6% instances), <tt><a href="he_iahltknesset-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="he_iahltknesset-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="he_iahltknesset-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

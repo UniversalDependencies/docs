@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Naïma Hassert, Pierre André Ménard, Edith Galy.
 
 Repository: [UD_English-CTeTex](https://github.com/UniversalDependencies/UD_English-CTeTex)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ctetex216)<br />
-Download all treebanks: [UD 2.16](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ctetex217)<br />
+Download all treebanks: [UD 2.17](/#download)
 
 License: CC BY-SA 4.0
 
@@ -34,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | annotated manually |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
 | Features | annotated manually, natively in UD style |
@@ -99,7 +99,7 @@ pages = "62--74",
 
 ## Features
 
-
+[ExtPos](en_ctetex-feat-ExtPos.html) – [Number](en_ctetex-feat-Number.html) – [Tense](en_ctetex-feat-Tense.html) – [Typo](en_ctetex-feat-Typo.html)
 
 ## Relations
 
@@ -140,23 +140,23 @@ pages = "62--74",
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 18 lemmas tagged as pronouns (PRON): all, any, each, he, i, it, nothing, one, some, that, there, these, they, this, when, which, whichever, you</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 26 lemmas tagged as determiners (DET): a, all, an, another, any, both, each, every, her, his, its, more, my, no, other, our, some, such, that, the, their, these, this, those, what, which</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: all, any, each, some, that, these, this, which</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): be, can, could, do, have, may, must, shall, should, will, would</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: be, do, have</li>
 </ul>
 
 <ul>
@@ -168,6 +168,30 @@ pages = "62--74",
 
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>AUX: are</li>
+      <li>NOUN: nodes, systems, hours, errors, levels, operations, calls, conditions, quantities, types</li>
+      <li>PRON: they</li>
+      <li>VERB: are</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>AUX: be, is, been, was</li>
+      <li>NOUN: system, data, flight, SMS, user, time, message, service, interface, operation</li>
+      <li>VERB: is, selects, moves, follows, has, attempts, fails, receives, represents, states</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -183,6 +207,26 @@ pages = "62--74",
 
 
 
+<ul>
+  <li><a>Tense</a></li>
+</ul>
+
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX: been</li>
+      <li>VERB: displaying, using, diagnosed, received, specified, based, used, configured, defined, generated</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX: be, is, are, was</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -200,17 +244,43 @@ pages = "62--74",
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>SCONJ
+        <ul>
+          <li>ADJ: such</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: Stand, air, multi</li>
+          <li>AUX: to</li>
+          <li>NOUN: count, ground, mont, take</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: shall, will, do, have, must, be, can, should, could, may, would.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, shall.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -229,8 +299,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (318)</li>
-      <li>VERB--NOUN-ADP(_) (4)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--NOUN-ADP(between) (1)</li>
+      <li>VERB--NOUN-ADP(on) (1)</li>
+      <li>VERB--NOUN-ADP(on)-ADP(of) (1)</li>
+      <li>VERB--NOUN-ADP(with) (2)</li>
       <li>VERB--PRON (10)</li>
     </ul>
   </li>
@@ -240,8 +312,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--NOUN (2)</li>
-      <li>VERB--NOUN-ADP(_) (18)</li>
-      <li>VERB--PRON-ADP(_) (1)</li>
+      <li>VERB--NOUN-ADP(at) (1)</li>
+      <li>VERB--NOUN-ADP(for) (2)</li>
+      <li>VERB--NOUN-ADP(of) (1)</li>
+      <li>VERB--NOUN-ADP(on) (3)</li>
+      <li>VERB--NOUN-ADP(to) (11)</li>
+      <li>VERB--PRON-ADP(to) (1)</li>
     </ul>
   </li>
 </ul>

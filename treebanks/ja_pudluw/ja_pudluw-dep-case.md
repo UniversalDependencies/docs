@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6489 nodes (28%) are attached to their parents as `case`.
+6499 nodes (28%) are attached to their parents as `case`.
 
-6489 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1596548004315.
+6499 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15863979073704.
 
-The following 7 pairs of parts of speech are connected with `case`: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (4391; 68% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (956; 15% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (438; 7% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (354; 5% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (231; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (83; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (36; 1% instances).
+The following 7 pairs of parts of speech are connected with `case`: <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (4396; 68% instances), <tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (958; 15% instances), <tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (438; 7% instances), <tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (354; 5% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (234; 4% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (83; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-ADP.html">ADP</a></tt> (36; 1% instances).
 
 
 ~~~ conllu
@@ -74,7 +74,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
 3	言っ	言う	VERB	動詞-一般-五段-ワア行	_	5	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=イウ,言う,言っ,言う,イッ,,,イウ,イウ,言う
 4	ている	ている	AUX	助動詞-上一段-ア行	_	3	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=テ;イル,て;居る,て;いる,て;いる,テ;イル,;,;,テ;イル,テイル,ている
-5	こと	事	NOUN	名詞-普通名詞-一般	_	10	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コト,事,こと,こと,コト,,,コト,コト,事
+5	こと	事	NOUN	名詞-普通名詞-一般	_	10	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コト,事,こと,こと,コト,,,コト,コト,事
 6	と	と	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 7	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 8	やっ	遣る	VERB	動詞-一般-五段-ラ行	_	10	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ヤル,遣る,やっ,やる,ヤッ,,,ヤル,ヤル,遣る

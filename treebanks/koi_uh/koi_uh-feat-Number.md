@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 572 tokens (53%) have a non-empty value of `Number`.
 427 types (74%) occur at least once with a non-empty value of `Number`.
-319 lemmas (70%) occur at least once with a non-empty value of `Number`.
+318 lemmas (70%) occur at least once with a non-empty value of `Number`.
 The feature is used with 10 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (233; 22% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (151; 14% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (101; 9% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (27; 2% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (24; 2% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 151 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (145; 96%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (141; 93%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (115; 76%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (96; 64%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (144; 95%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (141; 93%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (115; 76%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (96; 64%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -63,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 101 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (85; 84%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (63; 62%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (86; 85%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (63; 62%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -73,11 +73,12 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>сія</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>сійӧ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>сылӧ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>сылӧн, Сылöн</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>сія, Сiя</em></td><td><em>нія</em></td></tr>
-  <tr><td><tt></tt></td><td><em>Сы</em></td><td><em>ны</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сійӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сылӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сылӧн, Сылöн</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>сылöн</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сія, Сiя</em></td><td><em>нія</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Сы</em></td><td><em>ны</em></td></tr>
 </table>
 
 ### `PROPN`
@@ -97,7 +98,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 24 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 100%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (19; 79%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 58%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13; 54%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24; 100%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (19; 79%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 58%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13; 54%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -158,7 +159,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 3 <tt><a href="koi_uh-pos-DET.html">DET</a></tt> tokens (50% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 100%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 100%), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2; 67%).
 
 `DET` tokens may have the following values of `Number`:
 

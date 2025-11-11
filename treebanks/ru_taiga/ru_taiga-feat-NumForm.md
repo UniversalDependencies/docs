@@ -9,16 +9,16 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `Combi`, `Cyril`, `Digit`, `Roman`, `Word`.
 
-22560 tokens (1%) have a non-empty value of `NumForm`.
+22559 tokens (1%) have a non-empty value of `NumForm`.
 1740 types (1%) occur at least once with a non-empty value of `NumForm`.
 1305 lemmas (2%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (12849; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (9711; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (12848; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (9711; 1% instances).
 
 ### `NUM`
 
-12849 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+12848 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (12069; 94%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10948; 85%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8705; 68%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (12068; 94%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10947; 85%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8704; 68%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 * `Cyril` (4; 0% of non-empty `NumForm`): <em>a҃, в҃, г҃, д҃</em>
 * `Digit` (3547; 28% of non-empty `NumForm`): <em>2, 1, 3, 5, 4, 10, 6, 20, 7, 30</em>
 * `Roman` (3; 0% of non-empty `NumForm`): <em>I, V</em>
-* `Word` (9272; 72% of non-empty `NumForm`): <em>два, много, несколько, три, один, двух, две, одной, сколько, одного</em>
+* `Word` (9271; 72% of non-empty `NumForm`): <em>два, много, несколько, три, один, двух, две, одной, сколько, одного</em>
 
 <table>
   <tr><th>Paradigm <i>2</i></th><th><tt>Combi</tt></th><th><tt>Digit</tt></th></tr>

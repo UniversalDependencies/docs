@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 iobj	color:blue
-1	If	if	SCONJ	IN	_	5	mark	5:mark	Discourse=contingency-condition:66->67:0:dm-if-366|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:366:373-380:367-372;Implicit:Comparison.Contrast:but:_:352-365:366-380
+1	If	if	SCONJ	IN	_	5	mark	5:mark	Discourse=contingency-condition:66->67:0:dm-if-366-_|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:366:373-380:367-372;Implicit:Comparison.Contrast:but:_:352-365:366-380
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(79-person-giv:act-nnnnn-cf1*-1-ana)
 3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	Negation=Yes

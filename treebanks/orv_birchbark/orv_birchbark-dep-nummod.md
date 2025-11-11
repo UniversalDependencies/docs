@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="orv_birchbark-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-75 nodes (0%) are attached to their parents as `nummod`.
+76 nodes (0%) are attached to their parents as `nummod`.
 
-65 instances of `nummod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24.
+66 instances of `nummod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23684210526316.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (71; 95% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (72; 95% instances), <tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_birchbark-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_birchbark-pos-X.html">X</a></tt>-<tt><a href="orv_birchbark-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3 4 nummod	color:blue
 1	и	и	CCONJ	_	_	2	cc	_	wf="и"|addr="096:3"|_
 2	ѧ	ꙗзъ	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	wf="ѧ"|addr="096:3"|_
-3	ѡмеши	омеши	NOUN	_	Case=Acc|Number=Plur	2	orphan	_	wf="ѡмеши"|comment=pl_tant|meaning="лемеха́"|addr="096:3"|_
+3	ѡмеши	омеши	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	orphan	_	wf="ѡмеши"|comment=pl_tant|meaning="лемеха́"|addr="096:3"|_
 4	двои	двои	NUM	_	Case=Acc|Number=Plur	3	nummod	_	wf="двои"|meaning="двукратный,_двойной"|addr="096:3"|_
 5	за	за	ADP	_	_	6	case	_	wf="за"|addr="096:3"|_
 6	ѳедора	Федоръ	PROPN	_	Case=Acc|Gender=Masc|NameType=Giv|Number=Sing	2	orphan	_	wf="ѳедора"|addr="096:3"|_
@@ -77,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	со	съ	ADP	_	_	7	case	_	wf="со"|addr="133:3"|line_id=3|_
 6	своимо	свои	DET	_	Case=Ins|Gender=Masc|Number=Sing	7	det	_	wf="своимо"|addr="133:3"|_
 7	су[к]ладн(икомо)	сукладникъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	appos	_	wf="сукладникомо"|meaning="компаньон"|addr="133:3"|_
-8	кипу	кипа	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	iobj	_	wf="кипу"|addr="133:4"|line_id=4|_
+8	кипу	кипа	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	wf="кипу"|addr="133:4"|line_id=4|_
 9	непрѣ	непрѧ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	wf="непрѣ"|meaning="знач.?"|addr="133:4"|_
 10	:ѳ҃:	·ѳ҃·	NUM	_	NumForm=Digit|NumType=Card	11	nummod:gov	_	wf=":ѳ҃:"|addr="133:4"|_
 11	сото	сто	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	9	nummod	_	wf="сото"|addr="133:4"|_

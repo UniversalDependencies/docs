@@ -9,67 +9,56 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-722 tokens (1%) have a non-empty value of `Poss`.
-51 types (0%) occur at least once with a non-empty value of `Poss`.
-32 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 5 part-of-speech tags: <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (684; 1% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (20; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (4; 0% instances).
+1129 tokens (1%) have a non-empty value of `Poss`.
+44 types (0%) occur at least once with a non-empty value of `Poss`.
+25 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 4 part-of-speech tags: <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (1077; 1% instances), <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
 
 ### `DET`
 
-684 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (35% of all `DET` tokens) have a non-empty value of `Poss`.
+1077 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (33% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (684; 100%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (656; 96%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (395; 58%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (387; 57%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (373; 55%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1077; 100%), <tt><a href="hy_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (718; 67%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (651; 60%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (620; 58%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt> (562; 52%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (684; 100% of non-empty `Poss`): <em>իր, մեր, նրա, իրենց, իմ, նրանց, քո, դրա, որի, դրանց</em>
-* `EMPTY` (1249): <em>մի, այդ, այս, այն, ինչ, ամեն, բոլոր, այլ, մյուս, էս</em>
+* `Yes` (1077; 100% of non-empty `Poss`): <em>մեր, իր, իրենց, նրա, իմ, նրանց, քո, ձեր, յուր, քու</em>
+* `EMPTY` (2176): <em>մի, այդ, այս, այն, բոլոր, ամեն, ինչ, այլ, մյուս, ամբողջ</em>
 
-`Poss` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `Poss`.
-
-### `ADJ`
-
-20 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
-
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (20; 100%).
-
-`ADJ` tokens may have the following values of `Poss`:
-
-* `Yes` (20; 100% of non-empty `Poss`): <em>հայոց, Հաչա, Մկաց, Կասպից, Սևանա, Հայաստանյայց, Պատվո, Սասնա, եպիսկոպոսաց</em>
-* `EMPTY` (4174): <em>կարող, նոր, մեծ, պետական, առաջին, ազգային, հայ, պետք, քաղաքական, տնտեսական</em>
-
-### `PRON`
-
-8 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
-
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 88%).
-
-`PRON` tokens may have the following values of `Poss`:
-
-* `Yes` (8; 100% of non-empty `Poss`): <em>մերը, Քոնը, իմն, իրենն, նրանցն, քոնից, քոնոնք</em>
-* `EMPTY` (1933): <em>նա, ես, մենք, ինչ, դա, այն, ինձ, նրանք, նրան, որը</em>
+`Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
 
 ### `NOUN`
 
-6 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Poss`.
+29 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `NOUN` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 100%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (5; 83%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `NOUN` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (29; 100%), <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (28; 97%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 93%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (26; 90%).
 
 `NOUN` tokens may have the following values of `Poss`:
 
-* `Yes` (6; 100% of non-empty `Poss`): <em>2019-ինը, Ուսինս, Փոքրինը, բոլորինն, գծերովն, իրերինը</em>
-* `EMPTY` (13306): <em>հանրապետության, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի, նախագահի, օրը, թ</em>
+* `Yes` (29; 100% of non-empty `Poss`): <em>նը, ը, բոլորինն, իրերինը, ն, նն, նս</em>
+* `EMPTY` (28777): <em>հանրապետության, ի, անգամ, ժամանակ, աշխատանքի, ին, թ, տարի, տարվա, բան</em>
 
-### `PROPN`
+### `PRON`
 
-4 <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Poss`.
+13 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PROPN` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (4; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4; 100%), <tt><a href="hy_armtdp-feat-NameType.html">NameType</a></tt><tt>=Geo</tt> (4; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 85%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=1</tt> (8; 62%).
 
-`PROPN` tokens may have the following values of `Poss`:
+`PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (4; 100% of non-empty `Poss`): <em>Սևանինը</em>
-* `EMPTY` (1796): <em>Հայաստանի, ՀՀ, Հայաստանում, Լևոն, Իրանի, Ադրբեջանի, Հայաստան, Սիմեոնը, Կարեն, Արմինուսը</em>
+* `Yes` (13; 100% of non-empty `Poss`): <em>մերն, մերը, Մերոնցից, Քոնը, իմն, իրենն, մերոնք, նրանցն, քոնից, քոնոնք</em>
+* `EMPTY` (3214): <em>նա, որը, մենք, ես, այն, նրանք, դա, ինչ, որոնք, ինձ</em>
+
+### `ADJ`
+
+10 <tt><a href="hy_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
+
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 100%).
+
+`ADJ` tokens may have the following values of `Poss`:
+
+* `Yes` (10; 100% of non-empty `Poss`): <em>Հաչա, Մկաց, Կասպից, Հայաստանյայց, Սասնա</em>
+* `EMPTY` (9463): <em>նոր, մեծ, առաջին, կարող, րդ, պետական, սովետական, վերջին, շատ, հայ</em>
 
 ## Relations with Agreement in `Poss`
 

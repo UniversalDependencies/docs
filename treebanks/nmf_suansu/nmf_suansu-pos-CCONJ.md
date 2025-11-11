@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>rateragu</em> (<tt><a href="nmf_suans
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.346578).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.348066).
 
 The 1st highest number of forms (1) was observed with the lemma “gali”: <em>gali</em>.
 

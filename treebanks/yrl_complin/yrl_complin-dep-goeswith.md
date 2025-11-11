@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `goeswith`.
+14 nodes (0%) are attached to their parents as `goeswith`.
 
-7 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+14 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (3; 43% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (2; 29% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (2; 29% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (5; 36% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (4; 29% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (4; 29% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -41,21 +41,14 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 goeswith	color:blue
-1	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
-2	wapika	wapika	VERB	V	Style=Arch|VerbForm=Inf	0	root	_	ModernForm=uwapika|ModernPerson=3|ModernVerbForm=Fin|TokenRange=3:9
-3	ana	ana	PART	PFV	Aspect=Perf	2	advmod	_	TokenRange=10:13
-4	uikú	ikú	AUX	AUXFS	Mood=Ind|Person=3|VerbForm=Fin	2	aux	_	TokenRange=14:18
-5	ií	ií	NOUN	N	Number=Sing	2	obl	_	TokenRange=19:21
-6	pu	pupé	ADP	ADP	AdpType=Post|Typo=Yes	5	case	_	CorrectForm=pupé|TokenRange=22:24
-7	pé	_	X	X	_	6	goeswith	_	SpaceAfter=No|TokenRange=25:27
-8	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=27:28
-9	ape	ape	ADV	ADVDI	AdvType=Loc|Deixis=Remt|PronType=Dem	10	advmod	_	TokenRange=29:32
-10	upinú-pinú	pinú	VERB	V	Mood=Ind|Person=3|Red=Yes|VerbForm=Fin	2	parataxis	_	SpaceAfter=No|TokenRange=33:43
-11	,	,	PUNCT	PUNCT	_	12	punct	_	TokenRange=43:44
-12	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	10	parataxis	_	TokenRange=45:51
-13	uikú	ikú	AUX	AUXFS	Mood=Ind|Person=3|VerbForm=Fin	12	aux	_	TokenRange=52:56
-14	xiririwasú	xirirí	NOUN	N	Degree=Aug|Number=Sing	12	obj	_	SpaceAfter=No|TokenRange=57:67
-15	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=67:68
+1	Rerikú	rikú	VERB	V	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	será	será	PART	PQ	PartType=Int	1	advmod	_	TokenRange=7:11
+3	kunhã	kunhã	NOUN	N	Number=Sing	4	nmod:poss	_	TokenRange=12:17
+4	xapewa	xapewa	NOUN	N	Number=Sing	1	obj	_	TokenRange=18:24
+5	pinawa	pinawa	NOUN	N	Number=Sing	4	nmod	_	TokenRange=25:31
+6	suí	suiwara	ADP	ADP	AdpType=Post|Typo=Yes	5	case	_	CorrectForm=suiwara|TokenRange=32:35
+7	wara	_	X	X	_	6	goeswith	_	SpaceAfter=No|TokenRange=36:40
+8	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=40:41
 
 ~~~
 
@@ -66,21 +59,11 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 goeswith	color:blue
-1	Petuna	petuna	NOUN	N	Number=Sing	5	obl	_	TokenRange=0:6
-2	yawé-yawé	yawé	DET	INDQ	PronType=Ind|Red=Yes	3	det	_	TokenRange=7:16
-3	xi	simirikú	NOUN	N	Number=Sing|Number[psor]=Sing|Person[psor]=3|Rel=NCont|Typo=Yes	5	nsubj	_	CorrectForm=ximirikú|TokenRange=17:19
-4	mirikú	_	X	X	_	3	goeswith	_	TokenRange=20:26
-5	ukiri	kiri	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	7	advcl	_	TokenRange=27:32
-6	pukusawa	pukusawa	SCONJ	SCONJ	_	5	mark	_	TokenRange=33:41
-7	usú	sú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=42:45
-8	kaá	kaá	NOUN	N	Number=Sing	7	obl	_	TokenRange=46:49
-9	kití	kití	ADP	ADP	AdpType=Post	8	case	_	TokenRange=50:54
-10	kaamunú	kaamunú	VERB	V	Style=Arch|VerbForm=Inf	7	xcomp	_	ModernForm=ukaamunú|ModernMood=Ind|ModernPerson=3|ModernVerbForm=Fin|TokenRange=55:62
-11	urasú	rasú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	7	parataxis	_	TokenRange=63:68
-12	pitima	pitima	NOUN	N	Number=Sing	11	obj	_	TokenRange=69:75
-13	Kurupira	kurupira	NOUN	N	Number=Sing	11	iobj	_	TokenRange=76:84
-14	supé	supé	ADP	ADP	AdpType=Post	13	case	_	SpaceAfter=No|TokenRange=85:89
-15	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=89:90
+1	Xaú	ú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Aú
+2	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	1	aux	_	_
+3	meyú	meyuxika	NOUN	N	Number=Sing|Typo=Yes	1	obj	_	CorrectForm=meyuxika|TokenRange=11:15
+4	xika	_	X	X	_	3	goeswith	_	SpaceAfter=No|TokenRange=16:20
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=20:21
 
 ~~~
 

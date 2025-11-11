@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-928 tokens (8%) have a non-empty value of `Mood`.
-423 types (10%) occur at least once with a non-empty value of `Mood`.
-272 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (643; 6% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (285; 3% instances).
+923 tokens (8%) have a non-empty value of `Mood`.
+422 types (10%) occur at least once with a non-empty value of `Mood`.
+271 lemmas (9%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> (639; 6% instances), <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> (284; 3% instances).
 
 ### `VERB`
 
-643 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Mood`.
+639 <tt><a href="hsb_ufal-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (642; 100%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (595; 93%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (434; 67%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (415; 65%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (639; 100%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (591; 92%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (432; 68%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (412; 64%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (13; 2% of non-empty `Mood`): <em>hlej, Pomhaj, wobroćće, wotstroń, wužiwaj</em>
-* `Ind` (630; 98% of non-empty `Mood`): <em>ma, leži, móže, wobsahuje, móžeš, su, maja, rěči, běchu, dyrbi</em>
+* `Ind` (626; 98% of non-empty `Mood`): <em>ma, leži, móže, wobsahuje, móžeš, su, maja, rěči, běchu, dyrbi</em>
 * `EMPTY` (179): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, kliknyć</em>
 
 <table>
@@ -34,18 +34,18 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>wužiwaja</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 99% lemmas (269) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 99% lemmas (268) occur only with one value of `Mood`.
 
 ### `AUX`
 
-285 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Mood`.
+284 <tt><a href="hsb_ufal-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (285; 100%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (283; 99%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (242; 85%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 68%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (183; 64%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="hsb_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (284; 100%), <tt><a href="hsb_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (282; 99%), <tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (241; 85%), <tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (194; 68%), <tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (182; 64%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (10; 4% of non-empty `Mood`): <em>by, bychu</em>
-* `Ind` (275; 96% of non-empty `Mood`): <em>je, su, bu, bě, buchu, njeje, njejsu, běchu, buštej, stej</em>
+* `Ind` (274; 96% of non-empty `Mood`): <em>je, su, bu, bě, buchu, njeje, njejsu, běchu, buštej, stej</em>
 * `EMPTY` (4): <em>być, był, była</em>
 
 <table>
