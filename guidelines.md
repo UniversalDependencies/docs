@@ -14,6 +14,7 @@ This is the online documentation of UD guidelines v2 (launched 2016-12-01 with s
   * [Morphology](u/overview/morphology.html)
   * [Syntax](u/overview/syntax.html)
   * [Enhanced dependencies](u/overview/enhanced-syntax.html)
+    * [Enhanced dependencies in data](survey-enhanced.html)
   * [CoNLL-U format](format.html) and its [extensions](ext-format.html)
   * [Typos and other errors in underlying text](u/overview/typos.html)
 * Annotation guidelines
