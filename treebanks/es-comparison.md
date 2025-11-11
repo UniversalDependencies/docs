@@ -54,7 +54,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences, 22817 tokens and 23284 syntactic words.</li>
+      <li>This corpus contains 1000 sentences, 22816 tokens and 23283 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -71,7 +71,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 46427 tokens (11%) that are not followed by a space.</li>
+      <li>This corpus contains 46429 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -245,7 +245,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 89 lemmas tagged as determiners (DET): a, ae, alguno, all, ambos, apenas, aquel, aquél, as, bastante, cada, cierto, cualquier, cualquiera, cuan, cuanta, cuanto, cuantos, cuyo, cuàles, cuál, cuán, da, de, del, dema, demasiado, demás, den, des, dicha, dicho, die, distinto, diverso, e, el, ela, ese, esta, este, estós, ha, ir, johnson, kentrocapros, l', le, ls, lso, mes, mi, mucho, muchísimo, my, ninguno, nuestro, o, otro, our, perino, plas, poco, pocos, que, qué, s., sendo, sendos, ser, su, sus, suyo, tal, tanto, the, todas, todo, tu, tus, unir, uno, vaario, varios, varía, vuestra, vuestro, ﻿el, ﻿la</li>
+      <li>This corpus contains 88 lemmas tagged as determiners (DET): a, ae, alguno, all, ambos, apenas, aquel, aquél, as, bastante, cada, cierto, cualquier, cualquiera, cuan, cuanta, cuanto, cuantos, cuyo, cuàles, cuál, cuán, da, de, del, dema, demasiado, demás, den, des, dicha, dicho, die, distinto, diverso, e, el, ela, ese, esta, este, estós, ha, ir, johnson, kentrocapros, l', le, ls, lso, mes, mi, mucho, muchísimo, my, ninguno, nuestro, o, otro, our, plas, poco, pocos, que, qué, s., sendo, sendos, ser, su, sus, suyo, tal, tanto, the, todas, todo, tu, tus, unir, uno, vaario, varios, varía, vuestra, vuestro, ﻿el, ﻿la</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -859,7 +859,7 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: grande, natural, buen, diferente, joven, buena, bueno, igual, criollo, mismo</li>
+            <li>ADJ: grande, natural, buen, diferente, joven, buena, bueno, criollo, igual, mismo</li>
             <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, delicado, dicho</li>
             <li>AUX-Fin: es, era, ha, he, sea, está, estaba, fue, fui, eres</li>
             <li>AUX-Part: sío, estado, sido</li>
@@ -2179,8 +2179,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: este, esta, esa, ese, estos, mismo, estas, misma, esos, esas</li>
-            <li>PRON: eso, esto, éste, ésta, mismo, este, misma, mismos, éstos, tal</li>
+            <li>DET: este, esta, el, esa, ese, estos, mismo, estas, misma, esos</li>
+            <li>PRON: eso, lo, esto, éste, ésta, mismo, este, misma, mismos, éstos</li>
           </ul>
         </li>
       </ul>
@@ -3201,6 +3201,197 @@ udver: '2'
   <tr>
     <td width="25%" valign="top">
       <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADJ: junto, debido</li>
+                <li>ADP: a, en, por, de, con, sin</li>
+                <li>ADV: además, acerca, detrás, dentro, después, aparte, alrededor, cerca, lejos, antes</li>
+                <li>NOUN: frente, respecto, pese, gracias, conforme, cara, fuera, merced, camino, enfrente</li>
+                <li>PRON: algo</li>
+                <li>SCONJ: como</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADJ: rara, debido</li>
+                <li>ADP: en, por, a, de, sin, sobre, con, para, in, Hasta</li>
+                <li>ADV: más, poco, así, cerca, ahora, además, alrededor, Antes, asi, cuando</li>
+                <li>AUX-Fin: Es</li>
+                <li>CCONJ: ni, mientras, O</li>
+                <li>DET: un, una, la</li>
+                <li>NOUN: tal, tan, desde, es, hoy, nada, otra, frente, Pues, cuanto</li>
+                <li>PART: no</li>
+                <li>PRON: lo, todo</li>
+                <li>SCONJ: como</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADJ: junto, igual</li>
+                <li>ADP: en, a, sin</li>
+                <li>ADV: así, además, más, aparte, ya</li>
+                <li>CCONJ: sino, mientras, o</li>
+                <li>NOUN: es, esto, frente, Cuanto</li>
+                <li>PART: no</li>
+                <li>PRON: lo</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADJ: debido, igual, junto</li>
+                <li>ADP: a, en, con, de, por, para, hasta</li>
+                <li>ADV: ya, siempre, además, así, después, lejos, acerca, Aparte, mucho, Más</li>
+                <li>CCONJ: mientras, Pero</li>
+                <li>DET: una, el</li>
+                <li>NOUN: pese, puesto, tal, dado, gracias, aun, cada, tan, desde, respecto</li>
+                <li>PART: no</li>
+                <li>SCONJ: si, como, aunque, que</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: a</li>
+                <li>NOUN: respecto</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: a, por, de, en</li>
+                <li>ADV: na, ahora, Aparte, aun, después, Más</li>
+                <li>DET: un</li>
+                <li>NOUN: Tal</li>
+                <li>PRON: na, una</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADV: así</li>
+                <li>CCONJ: o</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADJ: igual</li>
+                <li>ADP: de, en</li>
+                <li>ADV: Así, Asín</li>
+                <li>DET: una</li>
+                <li>PRON: Na</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADJ: junto, detrás, previo, salvo, Anterior, Aparte, Contrario, justo</li>
+                <li>ADJ-Part: previo</li>
+                <li>ADP: a, en, Al, por, con, de, dentro, Después, ante, aparte</li>
+                <li>ADV: después, dentro, junto, antes, cerca, además, alrededor, luego, fuera, debajo</li>
+                <li>CCONJ: como</li>
+                <li>NOUN: frente, gracias, respecto, aparte, merced, rumbo, fruto</li>
+                <li>VERB-Fin: debido, pese</li>
+                <li>VERB-Ger: debido, pese</li>
+                <li>VERB-Inf: pese</li>
+                <li>VERB-Part: debido</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: sin, en, a, por, Al, desde, De, Mientras, sobre</li>
+                <li>ADV: después, antes, además, dentro, cerca, fuera, no, mientras, alrededor, debajo</li>
+                <li>CCONJ: ni, o</li>
+                <li>VERB-Fin: es</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADJ: igual</li>
+                <li>ADP: sin, a, en</li>
+                <li>ADV: así, no, además, mientras, ya, sólo, antes, después, más, sino</li>
+                <li>CCONJ: mientras, o, sino, Es, Pero, ainsi</li>
+                <li>PRON: esto</li>
+                <li>VERB-Fin: es, vale</li>
+                <li>VERB-Ger: Pese</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADJ: junto</li>
+                <li>ADP: para, a, con, de, por, en, sin, como, desde, Hasta</li>
+                <li>ADV: ya, después, antes, mientras, así, luego, además, siempre, tal, como</li>
+                <li>CCONJ: mientras, si, como, para, y</li>
+                <li>DET: una, toda</li>
+                <li>NOUN: puesto, vez</li>
+                <li>NOUN-Part: puesto</li>
+                <li>PRON: nada, tanto</li>
+                <li>SCONJ: mientras, si, como, cómo, ni, para, por, puesto</li>
+                <li>VERB-Fin: puesto, pese, debido, es, por</li>
+                <li>VERB-Ger: pese, Debido</li>
+                <li>VERB-Part: dado, debido, dada, puesto</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: a, en, por, De, con, para</li>
+                <li>ADV: acerca, junto</li>
+                <li>NOUN: frente</li>
+                <li>VERB-Part: debido</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADJ: Tal</li>
+                <li>ADP: a, en, por, sobre, de, per</li>
+                <li>ADV: alrededor, hoy, Claro, mas, Más</li>
+                <li>VERB-Fin: puede, es</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADP: a</li>
+                <li>ADV: así</li>
+                <li>CCONJ: o</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADV: ya, así, siempre</li>
+                <li>DET: una</li>
+                <li>SCONJ: a, mientras, hasta, como, de, para, En, sin</li>
+                <li>VERB-Part: dado, debido</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <ul>
         <li><a>Foreign</a>
           <ul>
             <li>Yes
@@ -3233,6 +3424,7 @@ udver: '2'
                 <li>AUX: can, is, 's, Am, Do, Was, Were, be, ist</li>
                 <li>AUX-Fin: is, 's, Am, Do, Was, Were, ist</li>
                 <li>AUX-Inf: be</li>
+                <li>CCONJ: et, que, ainsi</li>
                 <li>DET: the, a, o, ha, la</li>
                 <li>NOUN: Apostoli, Bass, Boy, Dioecesis, Yu, gao, guang, kapellmeister, nǚxìng, nɔrsk</li>
                 <li>NUM: Five, One, Six, eins</li>
@@ -3259,12 +3451,12 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>ADJ: American, Stranger, Talking</li>
-                <li>ADP: Over</li>
+                <li>ADP: Over, per</li>
                 <li>ADV: Really, Anyway</li>
                 <li>AUX-Fin: Did, Do</li>
                 <li>DET: The, Le</li>
                 <li>INTJ: Yum</li>
-                <li>NOUN: News, Approach, Brands, Company, Dead, Engagement, Father, Forums, Ground, Hack</li>
+                <li>NOUN: cápita, News, Approach, Brands, Company, Dead, Engagement, Father, Forums, Ground</li>
                 <li>NUM: Five, Nine</li>
                 <li>PART: n't</li>
                 <li>PRON: My, You, Her, Me</li>
@@ -3712,11 +3904,11 @@ udver: '2'
               <ul>
                 <li>ADJ: dificil, politica, facil, fria, historico, AUTENTICAS, agonico, agricolas, aleman, amplisimo</li>
                 <li>ADJ-Ger: agricolas</li>
-                <li>ADV: mas, tambien, ademas, como, asi, despues, alli, aqui, alla, rapidamente</li>
+                <li>ADV: mas, tambien, como, ademas, asi, despues, alli, aqui, alla, rapidamente</li>
                 <li>AUX: esta, estan, a, sera, e, estas, Podeis, deberias, erán, estabamos</li>
                 <li>AUX-Fin: esta, estan, sera, estas, Podeis, deberias, erán, estabamos, este, habeis</li>
                 <li>CCONJ: 0, sinó</li>
-                <li>DET: a, al, en, ningun, está, que, algun, me, muchisimas</li>
+                <li>DET: a, al, en, ningun, está, que, algun, me, muchisimas, un</li>
                 <li>NOUN: video, periodo, guion, dia, dias, periodos, videos, clinica, numero, menu</li>
                 <li>NOUN-Inf: bebe</li>
                 <li>NOUN-Part: perdidas</li>
@@ -3726,7 +3918,7 @@ udver: '2'
                 <li>PUNCT: .ç</li>
                 <li>SCONJ: sí</li>
                 <li>VERB-Fin: esta, tenia, hacia, tenian, cambio, dejo, habia, llego, llevo, paso</li>
-                <li>VERB-Part: bloquedao, confundido, conocido, creido, dirigda, leido, unido</li>
+                <li>VERB-Part: bloquedao, confundido, conocido, creido, dada, dirigda, leido, unido</li>
               </ul>
             </li>
           </ul>
@@ -3809,31 +4001,38 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (10267)</li>
+            <li>VERB-Fin--NOUN (10268)</li>
             <li>VERB-Fin--NOUN-ADP(a) (5)</li>
             <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
             <li>VERB-Fin--NOUN-ADP(alrededor)-ADP(de) (1)</li>
             <li>VERB-Fin--NOUN-ADP(de) (1)</li>
             <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
             <li>VERB-Fin--PRON (5035)</li>
-            <li>VERB-Fin--PRON-Acc (4)</li>
+            <li>VERB-Fin--PRON-Acc (147)</li>
             <li>VERB-Fin--PRON-Acc,Nom (217)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(de) (4)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(por)-ADP(suponer) (1)</li>
             <li>VERB-Fin--PRON-Nom (98)</li>
             <li>VERB-Ger--NOUN (98)</li>
             <li>VERB-Ger--PRON (57)</li>
+            <li>VERB-Ger--PRON-Acc (4)</li>
             <li>VERB-Ger--PRON-Acc,Nom (6)</li>
             <li>VERB-Ger--PRON-Nom (2)</li>
             <li>VERB-Inf--NOUN (769)</li>
             <li>VERB-Inf--NOUN-ADP(a) (2)</li>
             <li>VERB-Inf--PRON (278)</li>
+            <li>VERB-Inf--PRON-Acc (33)</li>
             <li>VERB-Inf--PRON-Acc,Nom (23)</li>
+            <li>VERB-Inf--PRON-Acc-ADP(de) (1)</li>
+            <li>VERB-Inf--PRON-Acc-ADP(para)-ADP(disponer) (1)</li>
             <li>VERB-Inf--PRON-Nom (4)</li>
             <li>VERB-Part--NOUN (1776)</li>
             <li>VERB-Part--NOUN-ADP(a) (4)</li>
             <li>VERB-Part--NOUN-ADP(en) (1)</li>
             <li>VERB-Part--PRON (700)</li>
-            <li>VERB-Part--PRON-Acc (1)</li>
+            <li>VERB-Part--PRON-Acc (22)</li>
             <li>VERB-Part--PRON-Acc,Nom (34)</li>
+            <li>VERB-Part--PRON-Acc-ADP(por)-ADP(pagar) (1)</li>
             <li>VERB-Part--PRON-Nom (11)</li>
           </ul>
         </li>
@@ -3850,7 +4049,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (96)</li>
             <li>VERB-Fin--PRON (59)</li>
             <li>VERB-Fin--PRON-ADP(con) (1)</li>
-            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Acc (2)</li>
             <li>VERB-Fin--PRON-Acc,Nom (28)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(por) (1)</li>
             <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
@@ -3883,7 +4082,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-ADP(más) (1)</li>
             <li>VERB-Fin--NOUN-ADP(por)-ADP(málaga) (1)</li>
             <li>VERB-Fin--NOUN-ADP(que) (1)</li>
-            <li>VERB-Fin--PRON (725)</li>
+            <li>VERB-Fin--PRON (726)</li>
             <li>VERB-Fin--PRON-ADP(con) (1)</li>
             <li>VERB-Fin--PRON-ADP(de) (1)</li>
             <li>VERB-Fin--PRON-Acc (27)</li>
@@ -3942,8 +4141,9 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (8897)</li>
+            <li>VERB-Fin--NOUN (8895)</li>
             <li>VERB-Fin--NOUN-ADP(a) (871)</li>
+            <li>VERB-Fin--NOUN-ADP(de) (2)</li>
             <li>VERB-Fin--NOUN-ADP(en) (1)</li>
             <li>VERB-Fin--PRON (1526)</li>
             <li>VERB-Fin--PRON-ADP(a) (105)</li>
@@ -3951,6 +4151,8 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc,Nom (5)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (8)</li>
             <li>VERB-Fin--PRON-Acc-ADP(a) (11)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(para)-ADP(emplear) (1)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(por)-ADP(instar) (1)</li>
             <li>VERB-Fin--PRON-Com (1)</li>
             <li>VERB-Ger--NOUN (523)</li>
             <li>VERB-Ger--NOUN-ADP(a) (59)</li>
@@ -4047,10 +4249,9 @@ udver: '2'
             <li>VERB-Ger--PRON-Acc (89)</li>
             <li>VERB-Ger--PRON-Acc,Dat (4)</li>
             <li>VERB-Ger--PRON-Dat (3)</li>
-            <li>VERB-Inf--NOUN (2611)</li>
+            <li>VERB-Inf--NOUN (2612)</li>
             <li>VERB-Inf--NOUN-ADP(a) (243)</li>
             <li>VERB-Inf--NOUN-ADP(baer) (1)</li>
-            <li>VERB-Inf--NOUN-ADP(entre) (1)</li>
             <li>VERB-Inf--PRON (74)</li>
             <li>VERB-Inf--PRON-ADP(a) (18)</li>
             <li>VERB-Inf--PRON-Acc (267)</li>
@@ -4079,8 +4280,7 @@ udver: '2'
             <li>VERB-Fin--PRON (24)</li>
             <li>VERB-Fin--PRON-Acc (25)</li>
             <li>VERB-Fin--PRON-Acc,Dat (4)</li>
-            <li>VERB-Fin--PRON-Com (1)</li>
-            <li>VERB-Ger--NOUN (37)</li>
+            <li>VERB-Ger--NOUN (36)</li>
             <li>VERB-Ger--PRON (2)</li>
             <li>VERB-Ger--PRON-Acc (6)</li>
             <li>VERB-Inf--NOUN (195)</li>
@@ -4219,7 +4419,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: entregar se, traer consigo</li>
+        <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: entregar se</li>
       </ul>
     </td>
   </tr>
@@ -4254,7 +4454,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:tmod</a></li>
-      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
   </tr>

@@ -76,7 +76,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 1723 sentences, 55286 tokens and 55552 syntactic words.</li>
+      <li>This corpus contains 1723 sentences, 55286 tokens and 55553 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -207,8 +207,8 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 266 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 150 types of multi-word tokens. Examples: quare, nonne, etsi, cumque, mecum, nunquid, quinymo, Quidni, nonnullos, vobiscum, Romanorumque, eademque, eamque, eiusque, eodemque, hirteque, iamque, nobiscum, nonnulla, nonnulli, romanaque, secum, seipsum, sive, tecum, torquibusque, vosmetipsos, Cesarisque, Dantisque, Estne, Francorumque, Graiumque, Hiique, Hocne, Latinorumque, Niseque, Priamique, Quadrifluumne, Quodque, Romuleoque, Utque, Verumtamen, Vosne, abmotimque, accentibusque, alipedesque, aliusque, animusque, armentaque, armisque.</li>
+      <li>This corpus contains 267 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 151 types of multi-word tokens. Examples: quare, nonne, etsi, cumque, mecum, nunquid, quinymo, Quidni, nonnullos, vobiscum, Romanorumque, eademque, eamque, eiusque, eodemque, hirteque, iamque, nobiscum, nonnulla, nonnulli, romanaque, secum, seipsum, sive, tecum, torquibusque, vosmetipsos, Cesarisque, Dantisque, Estne, Francorumque, Graiumque, Hiique, Hocne, Latinorumque, Niseque, Priamique, Quadrifluumne, Quodque, Romuleoque, Utque, Verumtamen, Vosne, abmotimque, accentibusque, alipedesque, aliusque, animusque, armentaque, armisque.</li>
       </ul>
     </td>
   </tr>
@@ -365,7 +365,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 51 lemmas tagged as determiners (DET): aliqualis, aliqui, alius, alter, alteruter, ambo, ceterus, cunctus, hic, huiusmodi, idem, ille, ipse, iste, meus, multus, neuter, noster, nullus, omnis, paucus, plerusque, qua, qualis, quamplures, quantum, quantus, quantuslibet, qui, quicumque, quidam, quilibet, quispiam, quisquam, quisque, quot, reliquus, solus, suus, talis, tantus, tot, totidem, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uterque</li>
+      <li>This corpus contains 51 lemmas tagged as determiners (DET): aliqualis, aliqui, alius, alter, alteruter, ambo, ceterus, cunctus, ego, hic, huiusmodi, idem, ille, ipse, iste, meus, multus, neuter, noster, nullus, omnis, paucus, plerusque, qualis, quamplures, quantum, quantus, quantuslibet, qui, quicumque, quidam, quilibet, quispiam, quisquam, quisque, quot, reliquus, solus, suus, talis, tantus, tot, totidem, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uterque</li>
       </ul>
     </td>
   </tr>
@@ -396,7 +396,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: qui, quicumque</li>
+      <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: ego, qui, quicumque</li>
       </ul>
     </td>
   </tr>
@@ -709,7 +709,7 @@ udver: '2'
         <ul>
           <li>AUX: esse, fuisse, fore</li>
           <li>NOUN: Ducatus, actu</li>
-          <li>VERB: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
+          <li>VERB: habere, facere, fieri, dici, posse, dicere, solvere, uti, velle, reduci</li>
         </ul>
         </li>
       </ul>
@@ -763,7 +763,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: contentum, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati, munitus</li>
+          <li>ADJ: contentum, notus, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati</li>
           <li>AUX: futura, futuram</li>
           <li>NOUN: meriti</li>
           <li>VERB: dicens, dicentem, dicentes, sedentem, amantis, conscripti, scriptum, facta, falso, mota</li>
@@ -1158,7 +1158,7 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: magno, primus, unus, fortis, magnum, liber, novo, primo, Romani, Romanus</li>
-            <li>ADJ-Part: contentum, contentus, doctior, irati, munitus, notus, parati, tutos</li>
+            <li>ADJ-Part: contentum, notus, contentus, doctior, irati, munitus, parati, tutos</li>
             <li>DET: ille, illi, ipse, illum, illos, illis, hic, hoc, omnes, omnium</li>
             <li>NOUN: amor, nemo, animus, hominum, senatus, amore, homines, loco, locum, more</li>
             <li>NUM: duo, duobus, uno, unum, duos, uni, unus, duorum, octingentos, trecentos</li>
@@ -1178,7 +1178,7 @@ udver: '2'
             <li>ADJ-Part: secundo, secundus, secundi, secundum, altior, altiori, altissimi, alto, secundis, secundorum</li>
             <li>AUX-Part: futurum</li>
             <li>DET: omnes, ipse, ille, ipsum, alii, omnibus, quidam, aliis, illum, unum</li>
-            <li>NOUN: Dei, Deus, mundi, Deo, homo, finem, finis, homines, modo, hominem</li>
+            <li>NOUN: Dei, Deus, mundi, Deo, homo, finem, finis, modo, homines, hominem</li>
             <li>NOUN-Inf: Ducatus, actu</li>
             <li>NOUN-Part: soni, punctus, sonus, sponsum, coniugibus, legati, legato, legatos, legatus, obiectum</li>
             <li>NUM: duo, duos, duobus, tres, duorum, tribus</li>
@@ -1602,7 +1602,7 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: magna, publicae, publicam, magno, magnum, magnam, publica, p, prima, dignum</li>
-            <li>ADJ-Part: contentum, auratum, contenta, contentus, conveniens, culta, doctior, munitus, notus, patiens</li>
+            <li>ADJ-Part: contentum, notus, auratum, contenta, contentus, conveniens, culta, doctior, munitus, patiens</li>
             <li>AUX-Fin: est, erat, fuit, sit, esset, erit, es, sum, eris, foret</li>
             <li>AUX-Part: futura, futuram</li>
             <li>DET: hoc, ille, illa, ipse, illi, mea, illum, hanc, haec, suo</li>
@@ -1749,7 +1749,7 @@ udver: '2'
         <li>Abl
           <ul>
             <li>ADJ: magna, magno, magnis, novo, primo, publica, simili, summa, argentea, bonis</li>
-            <li>DET: hoc, suis, his, suo, hac, mea, sua, illis, omni, illo</li>
+            <li>DET: hoc, suis, his, suo, hac, mea, sua, omni, illo, nostro</li>
             <li>NOUN: manu, caelo, die, urbe, voce, bello, re, amore, loco, more</li>
             <li>NUM: uno, duobus, una, duabus, milibus, tribus</li>
             <li>PRON: me, quo, se, te, qua, eo, nobis, quibus, ea, aliquo</li>
@@ -2244,7 +2244,7 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: magna, primus, unus, ingens, publica, liber, melior, pares, prima, Romanus</li>
-            <li>ADJ-Part: tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati, munitus, notus</li>
+            <li>ADJ-Part: notus, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati, munitus</li>
             <li>AUX-Part: futura</li>
             <li>DET: ille, illa, ipse, haec, illi, hic, quis, mea, tua, hoc</li>
             <li>NOUN: res, amor, nemo, animus, consul, puer, deus, homo, civitas, fortuna</li>
@@ -3015,7 +3015,7 @@ udver: '2'
             <li>AUX-Inf: esse</li>
             <li>AUX-Part: ens, ente</li>
             <li>VERB-Fin: potest, patet, habet, dicimus, videtur, dicit, dico, oportet, dicitur, dicunt</li>
-            <li>VERB-Inf: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
+            <li>VERB-Inf: habere, facere, fieri, dici, posse, dicere, solvere, uti, velle, reduci</li>
             <li>VERB-Part: consequens, existente, dicens, existens, presens, consequentis, dicentes, loquens, agentis, antecedentis</li>
           </ul>
         </li>
@@ -3791,7 +3791,7 @@ udver: '2'
         <li>Act
           <ul>
             <li>VERB-Fin: potest, patet, habet, dicimus, dicit, dico, oportet, dicunt, possit, debet</li>
-            <li>VERB-Inf: habere, facere, dicere, posse, solvere, velle, ligare, agere, videre, dependere</li>
+            <li>VERB-Inf: habere, facere, posse, dicere, solvere, velle, ligare, agere, videre, dependere</li>
             <li>VERB-Part: consequens, existente, dicens, existens, presens, consequentis, dicentes, loquens, agentis, antecedentis</li>
           </ul>
         </li>
@@ -4191,6 +4191,7 @@ udver: '2'
         <li>Int
           <ul>
             <li>ADV: quid</li>
+            <li>DET: quo</li>
             <li>PRON: quid, quis, quem, quo, cui, cuius, qua, que, qui, quos</li>
           </ul>
         </li>
@@ -4402,6 +4403,7 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
+            <li>ADP: cum</li>
             <li>ADV: unde, quid, ubi, quando, quandoque, quam, quippe, qualiter, ubique, aliquando</li>
             <li>CCONJ: quapropter, quia</li>
             <li>DET: quantum, quodcunque, quicunque, qualis, quot, quanta, quale, qualem, quantis, cuiuscunque</li>
@@ -4681,7 +4683,8 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: prima, primus, primo, quintum, secundum, primis, quartum, secunda, secundae, sextum</li>
+            <li>ADJ: prima, primus, primo, secundum, primis, quartum, quintum, secunda, secundae, Secundam</li>
+            <li>ADV: quintum, sextum</li>
           </ul>
         </li>
       </ul>
@@ -4975,7 +4978,7 @@ udver: '2'
         <li>1
           <ul>
             <li>AUX-Fin: sum, sumus, essemus, sim, eram, eramus, fueram, fuero, fui</li>
-            <li>PRON: nobis, me, nos, ego, michi, mi, memet, mihi, nostrum</li>
+            <li>PRON: nobis, me, nos, ego, michi, mi, memet, mihi</li>
             <li>VERB-Fin: dicimus, dico, videmus, vocamus, habemus, possumus, diximus, appellamus, intendimus, consideremus</li>
           </ul>
         </li>
@@ -5234,7 +5237,7 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>DET: nostra, nostri, nostre, noster, vestre, vestra, vestri, nostros, nostro, vestris</li>
+            <li>DET: nostra, nostri, nostre, noster, vestre, vestra, vestri, nostros, nostro, nostrum</li>
           </ul>
         </li>
       </ul>
@@ -6134,7 +6137,7 @@ udver: '2'
                 <li>ADJ: humanum, manifestum, verum, primo, primum, romanorum, romanus, falsum, primi, secundo</li>
                 <li>ADJ-Part: secundo, secundum, altius, secundus, altissimo, secundi, secundis, alta, altior, altiora</li>
                 <li>DET: quantum, suo, suum, suis, nostri, sui, noster, multa, sua, cunctis</li>
-                <li>NOUN: Dei, Deus, mundi, Deo, imperium, celum, iudicium, modo, principium, verba</li>
+                <li>NOUN: Dei, Deus, mundi, Deo, imperium, celum, modo, iudicium, principium, verba</li>
                 <li>NOUN-Part: subiectum, peccatum, subiecto, decreta, dicto, fluenta, peccati, soni, debitum, dicta</li>
                 <li>NUM: duo, duorum, duobus, duos</li>
                 <li>PROPN: Cristus, Petrus, Cristi, Petri, Cristum, Livius, Nicomacum, Lucanus, Mopsus, Alagherii</li>
@@ -6535,7 +6538,7 @@ udver: '2'
             <li>Rel
               <ul>
                 <li>ADJ: Saturnia, cristiane, Cristiana, cristianam, cristianorum</li>
-                <li>NOUN: Dei, Deus, Deo, Deum, Angelos, El, Musa, Seraphin, Victoria</li>
+                <li>NOUN: Dei, Deus, Deo, Deum, Angelos, Domino, El, Musa, Seraphin, Victoria</li>
                 <li>PROPN: Apollo, Amphitritis, Dardanus, Electra, Herculis, Acidis, Anubis, Apollini, Astrea, Chyron</li>
               </ul>
             </li>
@@ -6881,7 +6884,7 @@ udver: '2'
           <ul>
             <li>1
               <ul>
-                <li>DET: nostra, nostri, nostre, noster, mea, nostros, meam, mei, nostro, meis</li>
+                <li>DET: nostra, nostri, nostre, noster, mea, nostros, meam, mei, nostro, nostrum</li>
               </ul>
             </li>
             <li>2
@@ -7132,7 +7135,7 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN (73)</li>
-            <li>VERB-Fin--NOUN-Acc (52)</li>
+            <li>VERB-Fin--NOUN-Acc (53)</li>
             <li>VERB-Fin--NOUN-Nom (8919)</li>
             <li>VERB-Fin--PRON (203)</li>
             <li>VERB-Fin--PRON-Acc (39)</li>
@@ -7140,7 +7143,7 @@ udver: '2'
             <li>VERB-Inf--NOUN (9)</li>
             <li>VERB-Inf--NOUN-Acc (315)</li>
             <li>VERB-Inf--NOUN-Nom (26)</li>
-            <li>VERB-Inf--PRON-Acc (112)</li>
+            <li>VERB-Inf--PRON-Acc (113)</li>
             <li>VERB-Inf--PRON-Nom (8)</li>
             <li>VERB-Part--NOUN (13)</li>
             <li>VERB-Part--NOUN-Abl (221)</li>
@@ -7265,7 +7268,7 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN-Acc (5)</li>
-            <li>VERB-Fin--NOUN-Nom (726)</li>
+            <li>VERB-Fin--NOUN-Nom (723)</li>
             <li>VERB-Fin--NOUN-Voc (1)</li>
             <li>VERB-Fin--PRON (4)</li>
             <li>VERB-Fin--PRON-Acc (3)</li>
@@ -7296,17 +7299,16 @@ udver: '2'
             <li>VERB-Fin--NOUN (52)</li>
             <li>VERB-Fin--NOUN-Abl (5)</li>
             <li>VERB-Fin--NOUN-Acc (11)</li>
-            <li>VERB-Fin--NOUN-Gen (3)</li>
-            <li>VERB-Fin--NOUN-Nom (889)</li>
+            <li>VERB-Fin--NOUN-Gen (2)</li>
+            <li>VERB-Fin--NOUN-Nom (890)</li>
             <li>VERB-Fin--PRON (9)</li>
             <li>VERB-Fin--PRON-Acc (10)</li>
-            <li>VERB-Fin--PRON-Nom (391)</li>
-            <li>VERB-Fin--PRON-Voc (1)</li>
+            <li>VERB-Fin--PRON-Nom (392)</li>
             <li>VERB-Inf--NOUN (5)</li>
             <li>VERB-Inf--NOUN-Acc (76)</li>
-            <li>VERB-Inf--NOUN-Nom (14)</li>
+            <li>VERB-Inf--NOUN-Nom (13)</li>
             <li>VERB-Inf--PRON-Acc (29)</li>
-            <li>VERB-Inf--PRON-Nom (6)</li>
+            <li>VERB-Inf--PRON-Nom (7)</li>
             <li>VERB-Part--NOUN (6)</li>
             <li>VERB-Part--NOUN-Abl (54)</li>
             <li>VERB-Part--NOUN-Acc (16)</li>
@@ -7326,7 +7328,7 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (8)</li>
             <li>VERB-Fin--NOUN-Abl (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1373)</li>
+            <li>VERB-Fin--NOUN-Acc (1369)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(in) (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN-Nom (6)</li>
@@ -7352,13 +7354,13 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Fin--NOUN (260)</li>
-            <li>VERB-Fin--NOUN-Acc (5414)</li>
+            <li>VERB-Fin--NOUN-Acc (5401)</li>
             <li>VERB-Fin--PRON (64)</li>
-            <li>VERB-Fin--PRON-Acc (2189)</li>
+            <li>VERB-Fin--PRON-Acc (2182)</li>
             <li>VERB-Inf--NOUN (22)</li>
             <li>VERB-Inf--NOUN-Acc (1038)</li>
             <li>VERB-Inf--PRON (20)</li>
-            <li>VERB-Inf--PRON-Acc (319)</li>
+            <li>VERB-Inf--PRON-Acc (318)</li>
             <li>VERB-Part--NOUN (35)</li>
             <li>VERB-Part--NOUN-Acc (973)</li>
             <li>VERB-Part--PRON (6)</li>
@@ -7374,16 +7376,16 @@ udver: '2'
             <li>VERB--NOUN-Acc (4)</li>
             <li>VERB--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN-Abl (2)</li>
-            <li>VERB-Fin--NOUN-Acc (2018)</li>
+            <li>VERB-Fin--NOUN-Acc (2009)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN-Nom (105)</li>
-            <li>VERB-Fin--PRON-Acc (1089)</li>
+            <li>VERB-Fin--PRON-Acc (1081)</li>
             <li>VERB-Fin--PRON-Nom (14)</li>
-            <li>VERB-Inf--NOUN-Acc (1591)</li>
+            <li>VERB-Inf--NOUN-Acc (1589)</li>
             <li>VERB-Inf--NOUN-Nom (98)</li>
-            <li>VERB-Inf--PRON-Acc (322)</li>
+            <li>VERB-Inf--PRON-Acc (320)</li>
             <li>VERB-Inf--PRON-Nom (11)</li>
-            <li>VERB-Part--NOUN-Acc (820)</li>
+            <li>VERB-Part--NOUN-Acc (819)</li>
             <li>VERB-Part--NOUN-Nom (11)</li>
             <li>VERB-Part--PRON-Acc (89)</li>
           </ul>
@@ -7447,21 +7449,21 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Abl (69)</li>
-            <li>VERB-Fin--NOUN-Acc (1133)</li>
-            <li>VERB-Fin--NOUN-Gen (7)</li>
-            <li>VERB-Fin--NOUN-Nom (10)</li>
+            <li>VERB-Fin--NOUN-Abl (46)</li>
+            <li>VERB-Fin--NOUN-Acc (1123)</li>
+            <li>VERB-Fin--NOUN-Gen (8)</li>
+            <li>VERB-Fin--NOUN-Nom (7)</li>
             <li>VERB-Fin--PRON (9)</li>
-            <li>VERB-Fin--PRON-Acc (346)</li>
+            <li>VERB-Fin--PRON-Acc (345)</li>
             <li>VERB-Fin--PRON-Gen (1)</li>
             <li>VERB-Fin--PRON-Nom (4)</li>
-            <li>VERB-Inf--NOUN-Abl (22)</li>
+            <li>VERB-Inf--NOUN-Abl (18)</li>
             <li>VERB-Inf--NOUN-Acc (221)</li>
             <li>VERB-Inf--NOUN-Gen (1)</li>
             <li>VERB-Inf--PRON (4)</li>
-            <li>VERB-Inf--PRON-Acc (36)</li>
+            <li>VERB-Inf--PRON-Acc (35)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
-            <li>VERB-Part--NOUN-Abl (102)</li>
+            <li>VERB-Part--NOUN-Abl (98)</li>
             <li>VERB-Part--NOUN-Acc (106)</li>
             <li>VERB-Part--NOUN-Gen (6)</li>
             <li>VERB-Part--NOUN-Nom (1)</li>
@@ -7478,24 +7480,23 @@ udver: '2'
             <li>VERB-Fin--NOUN (8)</li>
             <li>VERB-Fin--NOUN-Abl (2)</li>
             <li>VERB-Fin--NOUN-Abl-ADP(a) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (707)</li>
+            <li>VERB-Fin--NOUN-Acc (709)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(per) (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN-Nom (11)</li>
             <li>VERB-Fin--PRON (12)</li>
             <li>VERB-Fin--PRON-Abl (5)</li>
             <li>VERB-Fin--PRON-Acc (353)</li>
-            <li>VERB-Fin--PRON-Gen (1)</li>
             <li>VERB-Fin--PRON-Nom (5)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Acc (237)</li>
+            <li>VERB-Inf--NOUN-Acc (236)</li>
             <li>VERB-Inf--NOUN-Dat (1)</li>
             <li>VERB-Inf--PRON (3)</li>
             <li>VERB-Inf--PRON-Abl (1)</li>
             <li>VERB-Inf--PRON-Acc (79)</li>
             <li>VERB-Inf--PRON-Nom (2)</li>
             <li>VERB-Part--NOUN-Abl (1)</li>
-            <li>VERB-Part--NOUN-Acc (175)</li>
+            <li>VERB-Part--NOUN-Acc (174)</li>
             <li>VERB-Part--NOUN-Nom (3)</li>
             <li>VERB-Part--PRON (3)</li>
             <li>VERB-Part--PRON-Acc (22)</li>
@@ -7518,6 +7519,8 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB-Fin--NOUN-Acc (2)</li>
+            <li>VERB-Fin--PRON-Acc (4)</li>
           </ul>
         </li>
       </ul>
@@ -7527,8 +7530,10 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN-Nom (6)</li>
+            <li>VERB-Fin--PRON-Acc (8)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
+            <li>VERB-Inf--PRON-Acc (1)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN-Nom (1)</li>
           </ul>
@@ -7547,6 +7552,8 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB-Fin--NOUN-Acc (2)</li>
+            <li>VERB-Inf--PRON-Acc (1)</li>
           </ul>
         </li>
       </ul>
@@ -7555,6 +7562,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB-Inf--NOUN-Acc (1)</li>
           </ul>
         </li>
       </ul>
@@ -7612,7 +7620,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 125 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: habeo se, extendo se, moueo seipsum, intellego seipsum, cognosco seipsum, uolo se, intellego se, moueo seipsa, exinanio semetipsum, moueo se, cognosco se, cognosco seipsam, subicio se, amo se, teneo se, ago se, amo seipsum, contineo se, conuerto se, diligo se, impedio se, moueo seipsam, ago seipsa, consequor se, dico se, educo se, iuuo se, ago seipsum, expello se, exspecto se, facio se, offero se, subdo se, uolo seipsum, aestimo se, dirigo seipsa, exhibeo se, expono seipsum, guberno se, humilio semetipsum, intellego seipsam, moueo seipsas, nosco seipsam, ordino se, praeparo se, uideo seipsum, adduco seipsum, ago seipsas, altero se, amo seipsam</li>
+        <li>This corpus contains 124 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: habeo se, extendo se, moueo seipsum, intellego seipsum, cognosco seipsum, uolo se, intellego se, moueo seipsa, exinanio semetipsum, moueo se, cognosco se, cognosco seipsam, subicio se, amo se, teneo se, ago se, amo seipsum, contineo se, conuerto se, diligo se, impedio se, moueo seipsam, ago seipsa, consequor se, educo se, iuuo se, ago seipsum, dico se, expello se, exspecto se, facio se, offero se, subdo se, uolo seipsum, aestimo se, dirigo seipsa, exhibeo se, expono seipsum, guberno se, humilio semetipsum, intellego seipsam, moueo seipsas, nosco seipsam, ordino se, praeparo se, uideo seipsum, adduco seipsum, ago seipsas, altero se, amo seipsam</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -7669,7 +7677,7 @@ udver: '2'
       <ul>
       <li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>cop:outer</a>, <a>csubj:cleft</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>csubj:reported</a>, <a>dislocated:advcl</a>, <a>dislocated:ccomp</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>dislocated:obl</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>parataxis:rep</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>dislocated</a></li>
-      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -7694,7 +7702,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-      <li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>The following 9 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -7703,7 +7711,7 @@ udver: '2'
       <ul>
       <li>This corpus uses 39 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>cop:outer</a>, <a>csubj:cleft</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>csubj:reported</a>, <a>det:numgov</a>, <a>dislocated:ccomp</a>, <a>dislocated:csubj</a>, <a>dislocated:obj</a>, <a>dislocated:obl</a>, <a>flat:foreign</a>, <a>flat:gov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nmod:poss</a>, <a>nsubj:cleft</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>parataxis:reporting</a>, <a>xcomp:relcl</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>dislocated</a></li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>
   </tr>

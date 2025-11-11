@@ -8,112 +8,172 @@ udver: '2'
 <table>
   <thead>
   <tr>
-    <th width="33%" valign="top">
+    <th width="20%" valign="top">
       <h1>UD_Swedish-LinES</h1>
     </th>
-    <th width="33%" valign="top">
+    <th width="20%" valign="top">
+      <h1>UD_Swedish-Old</h1>
+    </th>
+    <th width="20%" valign="top">
       <h1>UD_Swedish-PUD</h1>
     </th>
-    <th width="33%" valign="top">
+    <th width="20%" valign="top">
+      <h1>UD_Swedish-SweLL</h1>
+    </th>
+    <th width="20%" valign="top">
       <h1>UD_Swedish-Talbanken</h1>
     </th>
   </tr>
   </thead>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="20%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 5696 sentences and 102538 tokens.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 40 sentences and 507 tokens.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences and 19076 tokens.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 6026 sentences and 96820 tokens.</li>
+      <li>This corpus contains 510 sentences and 8644 tokens.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 6038 sentences and 96820 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 10938 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>All tokens in this corpus are followed by a space.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 1914 tokens (10%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>All tokens in this corpus are followed by a space.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 9733 tokens (10%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 9 types of words with spaces. Examples: 5 000, 10 000, 100 000, 12 000, 15 001–19 999, 25 000, 3 000–5 000, 330 000, 35 000</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 12 types of words with spaces. Examples: t ex, s k, bl a, t o m, o s v, d v s, fr o m, m m, f n, e d, m fl, t v</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 254 types of words that contain both letters and punctuation. Examples: XML-dokument, ANSI-92, SQL-frågeläge, ANSI-89, kl., t.ex, rad-, EU:s, XML-data, null-värden, Access-databas, Access-projekt, Access-projektet, SQL-frågelägen, XML-fil, XP-licens, Gai-Hinnom, Server-databasen, XML-informationen, radio-, start-, 2000-filformat, Ben-Gurion, Server-databas, kategori-, pivottabell-, 's, .xsl-fil, 2002-filformat, 72:a, Access-databaser, Access-fil, Arkiv-menyn, Bruce-Briggs, Dar-es-Salaam, Jo-Ann, RefLibPaths-nyckel, SQL-uttryck, Sha'ananim, Verktyg-menyn, Wentz', XML-baserade, XML-datadokument, XML-filer, XML-märken, XML-schemafil, XML-scheman, XML-schemastandarden, XML-syntaxen, XP-program</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus does not contain words that contain both letters and punctuation.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: f.Kr., USA:s, 1960-talet, 1970-talet, 700-talet, St., 1500-talet, 1900-talet, 1980-talet, 1990-talet, B.C., Joliot-Curie, Qing-dynastins, e-post, e-postmeddelanden, e.Kr., n't, 'Ya, 10-veckorskursen, 1200-talet, 1300-talet, 1350-talet, 1400-talet, 18-åring, 1950-talet, 200-talet, 2000-talet, 28-åringen, 3%-räntan, 400-tal, 400-talet, 45:e, 500-talet, 53-åringen, 60-talshiten, 800-talet, AKP:s, Amarna-breven, Australien-laget, B-29:or, BBC:s, BNP-tillväxten, Beijing-vänliga, Bian-kanalen, Buena-trädgården, CNN-reportrar, CRTC-utfrågningar, Cecelia-konservatoriet, Century-utmärkelserna, Chilia-armen</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: email@dot.com, 16-åringar, 18-åringar, buss-stationer, dn.se, levnads-, osv., språk-café, t.ex, t.ex.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 365 types of words that contain both letters and punctuation. Examples: t.ex., bl.a., u-länderna, s., EEC:s, kap., s.k., u-länder, 60-talet, kl., EEC-länderna, dvs., 1800-talet, yrkes-, 1960-talet, 70-talet, FN:s, RFSU-laboratoriet, a., doc., m.fl., resp., sid., t.o.m., u-ländernas, 1800-talets, 1900-talet, KF:s, barn-, ett-, i-länderna, m.m., manisk-depressiva, u-land, 15-årsperioden, 1960-talets, B-inkomster, I., Ollo-Food, Per-Ola, RFSU-laboratoriets, a), b), fack-, far-, fig., hem-, i-länder, kibbutz-, kommun-</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -122,7 +182,17 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: INTJ, SYM, PUNCT</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -132,7 +202,17 @@ udver: '2'
       <li>This corpus does not use the following tags: X</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SYM</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -143,126 +223,196 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 7 word types tagged as particles (PART): 's, att, ej, icke, inte, så, to</li>
+      <li>This corpus contains 6 word types tagged as particles (PART): 's, att, ej, icke, inte, to</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 1 word types tagged as particles (PART): ey</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 5 word types tagged as particles (PART): att, ej, icke, inte, n't</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 4 word types tagged as particles (PART): att, ej, inte, så</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 4 word types tagged as particles (PART): att, ej, icke, inte</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 53 lemmas tagged as pronouns (PRON): all, allesammans, allihop, allihopa, alltihop, allting, alltsammans, annan, bägge, båda, bådadera, de, den, denna, densamma, drag, du, en, ena, ens, ett, han, hon, ingen, ingenting, intet, jag, lera, litet, man, mycket, många, ni, någon, någondera, någonting, någotdera, sig, sin, själv, som, somlig, sådan, te, tenn, vad, var, varandra, vars, vart, vem, vi, vilken</li>
+      <li>This corpus contains 51 lemmas tagged as pronouns (PRON): all, allesammans, allihop, allihopa, alltihop, allting, alltsammans, annan, bägge, båda, bådadera, de, den, denna, densamma, drag, du, en, ena, ens, ett, han, hon, ingen, ingenting, intet, jag, litet, man, mycket, många, ni, någon, någondera, någonting, någotdera, sig, sin, som, somlig, sådan, te, tenn, vad, var, varandra, vars, vart, vem, vi, vilken</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 15 lemmas tagged as pronouns (PRON): alder, annar, baþir, en, han, hon, hvar, mei, sik, sin, sum, ängin, þy, þy*, þän</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 36 lemmas tagged as pronouns (PRON): all, alltihop, allting, alltsammans, annan, båda, de, den, denna, du, en, han, her, hon, ingen, intet, jag, man, me, my, mycket, många, ni, någon, sig, som, vad, varandra, vars, vem, vi, vilka, vilkas, vilken, vilket, you</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 33 lemmas tagged as pronouns (PRON): all, annan, båda, de, den, denna, dom, du, en, fler, han, hen, hon, ingen, ingenting, jag, man, mycket, många, mången, ni, någon, någonting, nånting, sig, som, somlig, vad, varandra, vem, vi, vilken, viss</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 52 lemmas tagged as pronouns (PRON): all, allt, alltihop, allting, andra, annan, bägge, båda, bådadera, de, den, denna, densamma, du, en, ena, envar, han, hon, ingen, ingendera, ingenting, jag, lite, man, mitt, mycket, många, mången, ni, någon, någonting, nånting, samtlig, sig, som, somlig, sådan, två, vad, var, vara, varandra, varann, varannan, vardera, vars, vem, vi, vilka, vilken, vår</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 21 lemmas tagged as determiners (DET): all, bägge, båda, de, den, denna, du, en, ena, ingen, intet, la, le, någon, något, somlig, the, vad, varenda, varje, vilken</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 2 lemmas tagged as determiners (DET): þän, þänne</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 18 lemmas tagged as determiners (DET): a, all, båda, de, den, denna, die, el, en, ingen, las, le, lite, någon, that, the, varje, vilken</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 11 lemmas tagged as determiners (DET): all, de, den, denna, en, ingen, no, någon, varj, varje, vilken</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 23 lemmas tagged as determiners (DET): all, allt, bägge, båda, de, den, denna, en, ena, ingen, man, någon, somlig, the, vad, var, vara, varannan, vardera, varenda, varje, vilken, vilket</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: all, bägge, båda, de, den, denna, du, en, ena, ingen, intet, någon, somlig, vad, vilken</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: þän</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: all, båda, de, den, denna, en, ingen, någon, vilken</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: all, de, den, denna, en, ingen, någon, vilken</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: all, allt, bägge, båda, de, den, denna, en, ena, ingen, man, någon, somlig, vad, var, vara, varannan, vardera, vilken</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): bli, böra, få, ha, komma, kunna, lär, må, måste, skola, vara, vilja</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): hava, magha, vara</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): bli, böra, do, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): bli, böra, få, ha, komma, kunna, måste, skola, vara, vilja</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): bli, böra, få, ha, komma, kunna, lär, må, måste, skola, torde, vara, vilja</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: bli, få, ha, komma, kunna, lär, må, måste, vara, vilja</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: hava</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: bli, få, ha, komma, kunna, vara, vilja</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: bli, få, ha, komma, kunna, vara, vilja</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: bli, böra, få, ha, komma, kunna, må, måste, skola, vara, vilja</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -272,7 +422,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: ær, ma, haffuer, war, är, æræ</li>
+          <li>VERB: æter, drikker, ganger, haffuer, komber, later, ser, siger, stander, super</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -282,7 +442,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: är, kan, ska, har, var, skulle, måste, vill, får, kommer</li>
+          <li>VERB: har, tycker, finns, kommer, blir, bor, är, handlar, tror, känner</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -294,7 +464,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -304,7 +474,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>VERB: ætæ, drikka, gøræ, skina, sla</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -314,7 +493,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>AUX: vara, kunna, få, bli, ha, vilja, villja</li>
+          <li>VERB: lära, ha, göra, köpa, ta, gå, få, bli, se, förstå</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -326,7 +515,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -337,7 +526,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>ADJ: bansatta, drukken, for, giord, giordæ, skoager, stekt, stektæ, sudhin, sudin</li>
+          <li>VERB: Loffuat, klædder, lesit</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -348,7 +547,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>ADJ: beroende, jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, dominerande, fungerande</li>
+          <li>VERB: anpassade, dömd, fylled, lurade, utsatt</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -361,13 +570,19 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Stem
         <ul>
@@ -378,7 +593,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Sup
         <ul>
@@ -388,7 +603,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Sup
         <ul>
@@ -398,7 +616,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Sup
+        <ul>
+          <li>AUX: blivit, varit</li>
+          <li>VERB: blivit, utvecklats, förlorat, växt, anmält, anmälts, befriat, betalt, bott, flyttat</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Sup
         <ul>
@@ -410,35 +638,51 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="20%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Com
           <ul>
@@ -454,7 +698,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Com
           <ul>
@@ -470,7 +717,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Com
+          <ul>
+            <li>ADJ: stor, själv, viktig, annan, lång, glad, ny, ensam, fin, gammal</li>
+            <li>ADJ-Part: tvungen, övertygad, begränsad, chockad, född, förbnnad, förlamad, given, kallad, njöd</li>
+            <li>DET: en, den, ingen, vilken, denna, all</li>
+            <li>NOUN: människor, kläder, pengar, plats, familj, kärlek, saker, tid, världen, boken</li>
+            <li>NUM: en</li>
+            <li>PRON: jag, man, vi, mig, du, min, oss, han, sin, hon</li>
+            <li>PROPN: Haga, Segerstad</li>
+            <li>VERB-Part: dömd, fylled, utsatt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Com
           <ul>
@@ -488,13 +751,30 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Fem
+          <ul>
+            <li>ADJ: stora, alskona, bansatta, helghe, høgre, mykla, tæffløs, vinstre, vinstræ</li>
+            <li>ADJ-Part: bansatta</li>
+            <li>DET: tha, thera</li>
+            <li>NOUN: hand, fabula, geddo, glømsko, gryto, hættæ, ingefæræ, kaku, kirkio, klokkona</li>
+            <li>NUM: twa</li>
+            <li>PRON: adhra, andra, badha, enghin, sin, siner</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -505,13 +785,32 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Masc
+          <ul>
+            <li>ADJ: Fæmpte, alskona, drukken, flinskallutte, giordæ, hæten, klædda, mætter, samma, skoager</li>
+            <li>ADJ-Part: drukken, giordæ, skoager, stektæ, sudna</li>
+            <li>DET: thenne, tha, then, thæs</li>
+            <li>NOUN: herra, abote, abota, fiska, ember, abotan, abotum, abotæ, ar, bondom</li>
+            <li>NUM: tio, attæ, fyra, fyræ, nio, sextæn, twa</li>
+            <li>PRON: annan, adhrom, alla, allum, allæ, en, hwan, sin, sina, sins</li>
+            <li>PROPN: babilone</li>
+            <li>VERB-Part: klædder</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -522,7 +821,32 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Masc,Neut
+          <ul>
+            <li>ADJ: Fiærde, Tridhiæ</li>
+            <li>NOUN: sin, sinne, sinnom, sinnum</li>
+            <li>NUM: fæm, siw, siwtigi, tio</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -531,7 +855,7 @@ udver: '2'
             <li>DET: ett, det, något, detta, inget, allt, vilket, nåt, intet, vartenda</li>
             <li>NOUN: sätt, år, fält, barn, data, ögon, liv, ansikte, exempel, huvudet</li>
             <li>NUM: ett, Beckett</li>
-            <li>PRON: det, vad, sitt, detta, allt, något, ingenting, mitt, vilket, allting</li>
+            <li>PRON: det, vad, sitt, detta, allt, något, ingenting, mitt, vilket, någonting</li>
             <li>PROPN: Cunards, Jung, Kolonakitorget, Venezuela</li>
             <li>VERB: genomkorsat, sitt</li>
             <li>X: alium, coniunctis, internum</li>
@@ -539,7 +863,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: goth, feth, for, fyreføt, fyræføt, giord, got, kolhuppad, lithit, onth</li>
+            <li>ADJ-Part: for, giord, stekt, sudhin, sudin, talt</li>
+            <li>DET: thesso</li>
+            <li>NOUN: egh, kloster, sinne, ænne, Flæsk, ar, borde, bordh, graskinnum, har</li>
+            <li>NUM: fæm, thry</li>
+            <li>PRON: thet, alt, Annat, hwario, sina</li>
+            <li>VERB-Part: Loffuat, lesit</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -554,7 +893,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>ADJ: viktigt, svårt, nytt, dyrt, allmänmänskligt, eget, jämfört, jätte, möjligt, svenskt</li>
+            <li>ADJ-Part: jämfört, sett</li>
+            <li>DET: ett, det, detta, inget, allt, et, något</li>
+            <li>NOUN: språk, barn, sätt, år, språket, land, samhället, liv, jobb, exempel</li>
+            <li>NUM: ett, en</li>
+            <li>PRON: det, vad, mitt, sitt, vilket, detta, allt, ditt, någonting, annat</li>
+            <li>PROPN: Mongoliet, Linsbiblioteket</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -572,39 +926,55 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: andra, många, flera, olika, små, vita, vissa, stora, sådana, nya</li>
+            <li>ADJ: andra, många, flera, olika, små, vita, vissa, sådana, nya, stora</li>
             <li>ADJ-Part: grupperade, dolda, kapslade, relaterade, villkorsstyrda, civiliserade, fördefinierade, kanderade, kasserade, lagrade</li>
             <li>DET: de, alla, några, dessa, inga, båda, vilka, dom, bägge, somliga</li>
             <li>NOUN: år, människor, data, ögon, fält, frågor, barn, saker, män, ögonen</li>
@@ -615,7 +985,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: Fæmpte, alskona, flinskallutte, giord, giordæ, klædda, kolhuppad, stekt, stektæ, stora</li>
+            <li>ADJ-Part: giord, giordæ, stekt, stektæ, sudhin, sudin, sudna</li>
+            <li>AUX-Fin: ma, æræ</li>
+            <li>DET: tha, thesso</li>
+            <li>NOUN: egh, fiska, sinnom, abota, abotum, bondom, bozskom, brødra, fugla, kuffla</li>
+            <li>PRON: adhrom, alla, allum, allæ, badha, sina, siner</li>
+            <li>VERB-Fin: Hæffuin, gøræ, komma, within</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -630,7 +1015,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADJ: nya, andra, olika, flera, vissa, viktiga, allmänmänskliga, själva, stora, centrala</li>
+            <li>ADJ-Part: baserade, begagnade, förstörda, klädda, kopplade, okomplicerade, sökta, utbildade</li>
+            <li>DET: de, alla, några, dessa, vilka, inga, dem</li>
+            <li>NOUN: människor, kläder, pengar, barn, saker, år, språk, föräldrar, länder, personer</li>
+            <li>PRON: vi, de, oss, sina, mina, andra, dem, alla, varandra, våra</li>
+            <li>VERB-Part: anpassade, lurade</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -647,7 +1046,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -665,7 +1064,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: goth, Fiærde, Tridhiæ, alskona, bansatta, drukken, feth, for, fyreføt, fyræføt</li>
+            <li>ADJ-Part: bansatta, drukken, for, skoager, talt</li>
+            <li>AUX-Fin: ær, ma, haffuer, war, är</li>
+            <li>DET: thenne, tha, then, thera, thæs</li>
+            <li>NOUN: herra, abote, abota, sinne, ar, ember, hand, kloster, piper, ænne</li>
+            <li>PRON: thet, alt, annan, sin, Annat, adhra, andra, en, enghin, hwan</li>
+            <li>PROPN: babilone, lund</li>
+            <li>VERB-Fin: æter, drikker, ganger, haffuer, komber, later, ser, siger, stander, super</li>
+            <li>VERB-Part: Loffuat, klædder, lesit</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -681,7 +1097,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADJ: viktigt, svårt, stor, mycket, själv, viktig, annan, lång, glad, ny</li>
+            <li>ADJ-Part: jämfört, tvungen, övertygad, begränsad, chockad, född, förbnnad, förlamad, given, kallad</li>
+            <li>DET: en, den, ett, det, varje, detta, ingen, vilken, denna, inget</li>
+            <li>NOUN: plats, språk, språket, familj, kärlek, samhället, land, sätt, liv, tid</li>
+            <li>NUM: ett, en</li>
+            <li>PRON: jag, det, man, mig, du, min, vad, han, sin, hon</li>
+            <li>PROPN: Mongoliet, Haga, Linsbiblioteket, Segerstad</li>
+            <li>VERB-Part: dömd, fylled, utsatt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -700,24 +1132,34 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -726,7 +1168,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: alskona, stora, Fiærde, Fæmpte, Tridhiæ, bansatta, giord, giordæ, got, goth</li>
+            <li>ADJ-Part: bansatta, giord, giordæ, stekt, stektæ, sudhin, sudin, sudna, talt</li>
+            <li>DET: tha</li>
+            <li>NOUN: egh, fiska, sinne, abota, ar, braxn, herra, kloster, Flæsk, abotan</li>
+            <li>NUM: fæm, tio, twa, attæ, fyra, fyræ, nio, sextæn</li>
+            <li>PRON: thet, alt, annan, sin, Annat, adhra, andra, badha, en, han</li>
+            <li>VERB-Part: lesit</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -735,7 +1192,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>PRON: sig, mig, oss, dem, varandra, henne, dig, honom</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -747,7 +1213,34 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Dat
+          <ul>
+            <li>ADJ: helghe, vinstræ</li>
+            <li>NOUN: sinnom, abota, abotum, bondom, borde, bozskom, graskinnum, gryto, gudhi, halsse</li>
+            <li>NUM: fæm, siw, siwtigi, tio</li>
+            <li>PRON: honum, adhrom, allum, hwario, sik, sina</li>
+            <li>PROPN: babilone, lund</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -761,7 +1254,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>DET: thera, thæs</li>
+            <li>NOUN: abota, brødra, herra, koua, nistu</li>
+            <li>PRON: hans, alla, mei, sins</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -772,7 +1276,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>NOUN: litteraturens, Forsknings, familjens, kyrkans, landets, systerns, Pengarnas, barnets, barns, brors</li>
+            <li>PRON: ens</li>
+            <li>PROPN: Sveriges, Göteborgs, Isaks, Rikes, Levis</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -786,7 +1301,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -797,7 +1312,7 @@ udver: '2'
             <li>DET: ena</li>
             <li>NOUN: sätt, år, gång, far, fält, man, sidan, del, väg, tiden</li>
             <li>NUM: U</li>
-            <li>PRON: han, jag, de, du, vi, hon, man, ni, allting, ena</li>
+            <li>PRON: han, jag, de, du, vi, hon, man, ni, någonting, allting</li>
             <li>PROPN: Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Ron, Weasley, Mweta</li>
             <li>VERB: höll, oberoende, råkar, förhörd, genomkorsat, inhamrade, jordluktande, kallade, nersölade, slagen</li>
             <li>VERB-Part: förhörd, inhamrade, jordluktande, nersölade, slagen, uppdelad, uppslukad</li>
@@ -806,7 +1321,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: drukken, feth, flinskallutte, for, fyreføt, fyræføt, goth, mætter, onth, samma</li>
+            <li>ADJ-Part: drukken, for, skoager</li>
+            <li>DET: thenne, then, thesso</li>
+            <li>NOUN: herra, abote, abota, ember, abotæ, bordh, fabula, gud, gudh, spadh</li>
+            <li>NUM: thry</li>
+            <li>PRON: han, hon, thet, allæ, enghin</li>
+            <li>VERB-Part: Loffuat, klædder</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -821,14 +1351,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: många, olika, bra, nya, andra, viktigt, bästa, bättre, svårt, stor</li>
+            <li>ADJ-Part: beroende, jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, dominerande, fungerande</li>
+            <li>ADV: bra</li>
+            <li>NOUN: människor, kläder, språk, barn, pengar, plats, sätt, år, språket, familj</li>
+            <li>NUM: två, 1, 18, tre, ett, 2, 4, fyra, 1-12, 10</li>
+            <li>PRON: jag, man, vi, de, du, han, hon, ni, hen, nånting</li>
+            <li>PROPN: Sverige, Bagdad, Finland, Sund, Haga, Segerstad, Caracas, Paris, Peru, Sara</li>
+            <li>VERB-Part: anpassade, dömd, fylled, lurade, utsatt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Nom
           <ul>
             <li>ADJ: olika, andra, nya, många, stora, stor, samma, större, vissa, första</li>
             <li>ADJ-Part: följande, beroende, särskild, särskilda, ökad, motsvarande, liknande, ökade, gifta, nuvarande</li>
             <li>NOUN: år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</li>
-            <li>NUM: två, tre, 1, en, 20, 2, ett, 1970, 3, 10</li>
+            <li>NUM: två, tre, en, 1, 20, 2, ett, 1970, 3, 10</li>
             <li>PRON: man, de, vi, du, han, jag, hon, ni, bägge, en</li>
             <li>PROPN: Sverige, EEC, Stockholm, USA, ATP, Gud, Göteborg, Horn, Danmark, Indien</li>
             <li>VERB: påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</li>
@@ -839,39 +1385,76 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Voc
+          <ul>
+            <li>NOUN: deus</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Def
           <ul>
-            <li>ADJ: hela, gamla, stora, nya, andra, själva, egna, europeiska, lilla, vita</li>
+            <li>ADJ: hela, stora, gamla, nya, andra, själva, egna, europeiska, lilla, vita</li>
             <li>ADJ-Part: flyttade, oväntade, rostade, XML-baserade, avtalade, chockade, civiliserade, dolda, gångna, inspelade</li>
             <li>DET: den, det, de, denna, detta, dessa, ena, dom, the, Le</li>
             <li>NOUN: sidan, tiden, mannen, huvudet, linjen, rummet, fältet, informationen, stället, vägen</li>
@@ -882,7 +1465,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -896,7 +1482,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>ADJ: bästa, flesta, viktigaste, sista, svenska, hela, andra, ena, små, egna</li>
+            <li>ADJ-Part: liknade</li>
+            <li>DET: den, de, det, detta, denna, dessa, dem</li>
+            <li>NOUN: språket, samhället, världen, boken, livet, landet, personen, sidan, tiden, barnen</li>
+            <li>PRON: jag, det, vi, de, sig, mig, du, min, oss, han</li>
+            <li>PROPN: Mongoliet, Linsbiblioteket</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -911,13 +1511,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
             <li>ADJ: själv, samma, andra, annat, stor, flera, många, annan, liten, egen</li>
             <li>ADJ-Part: taget, intresserad, beredd, grupperade, komplicerat, anpassad, dolda, särskilt, uppslagen, övertygad</li>
-            <li>DET: en, ett, någon, något, några, varje, ingen, inget, inga, varenda</li>
+            <li>DET: en, ett, någon, något, några, varje, ingen, inget, varenda, inga</li>
             <li>NOUN: sätt, år, gång, far, fält, man, del, väg, mor, människor</li>
             <li>NUM: en, ett</li>
             <li>PRON: man, vad, allt, något, en, någon, ingenting, alla, vilket, ingen</li>
@@ -929,7 +1529,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -945,7 +1548,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADJ: nya, andra, viktigt, svårt, stor, mycket, själv, viktig, annan, lång</li>
+            <li>ADJ-Part: jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, född, förbnnad, förlamad</li>
+            <li>DET: en, ett, varje, ingen, några, vilken, vilka, inga, inget, allt</li>
+            <li>NOUN: människor, kläder, språk, barn, pengar, plats, sätt, år, familj, kärlek</li>
+            <li>NUM: ett, en</li>
+            <li>PRON: man, vad, andra, alla, vilket, allt, vem, många, någon, någonting</li>
+            <li>PROPN: Haga, Segerstad</li>
+            <li>VERB-Part: dömd, fylled, utsatt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -963,35 +1582,51 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="20%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1001,7 +1636,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: høgre, mere, vinstre, vinstræ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1011,7 +1655,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: bättre, mer, äldre, enklare, lättare, mindre, svårare, biligare, färre, viktigare</li>
+            <li>ADV: mer, bättre, vidare, mindre, Tidigare, fortta, hårdare, oftare, senare, snabbare</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1023,7 +1677,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1039,7 +1693,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: alskona, goth, stora, Fiærde, Fæmpte, Tridhiæ, feth, flinskallutte, fyreføt, fyræføt</li>
+            <li>ADV: wæl, fram, ater, sannelika, wt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1052,7 +1716,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: många, olika, bra, nya, andra, viktigt, svårt, stor, mycket, själv</li>
+            <li>ADJ-Part: beroende, jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, dominerande, fungerande</li>
+            <li>ADV: mycket, bra, lite, väldigt, Självklart, helt, hårt, direkt, indirekt, jättemycket</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1066,7 +1741,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1076,7 +1751,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1086,7 +1764,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Sup
+          <ul>
+            <li>ADJ: bästa, flesta, viktigaste, sista, bekvämaste, farligaste, forsta, värsta</li>
+            <li>ADV: minst, Sist, mest, näst, bäst, främst, innerst</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1098,24 +1786,32 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1125,7 +1821,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: eygh</li>
+            <li>PART: ey</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1135,7 +1841,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1149,57 +1858,85 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Verbal Features</h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1211,7 +1948,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: Hæffuin, Miserere, within</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1220,7 +1966,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: Berätta, Ha, Hoppas, Kom, Krama, Sluta, Vakna, använd, bygg, försätt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1232,7 +1987,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1241,26 +1996,44 @@ udver: '2'
             <li>AUX-Sup: velat</li>
             <li>VERB: sa, hade, såg, gick, kom, har, tog, sade, gjorde, fanns</li>
             <li>VERB-Fin: sa, hade, såg, gick, kom, har, tog, sade, gjorde, fanns</li>
-            <li>VERB-Inf: fyllt, lyckas, inställd, klädd, avslutad, skuggad, fylld, gjord, minnas, sett</li>
+            <li>VERB-Inf: fyllt, inställd, klädd, lyckas, avslutad, skuggad, fylld, gjord, minnas, sett</li>
             <li>VERB-Part: tvungen, tvungna, taget, gjort, baserat, dödade, gående, installerad, installerat, kallad</li>
             <li>VERB-Sup: lyckats, funnits, träffats, färdats, hoppats, misslyckats, mörknat, ordats</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
-            <li>ADJ: betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, självstyrande, växande</li>
-            <li>ADJ-Part: betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, växande, återstående</li>
+            <li>AUX-Fin: ær, ma, haffuer, war, är, æræ</li>
+            <li>VERB-Fin: æter, drikker, ganger, haffuer, komber, later, ser, siger, stander, super</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
             <li>AUX-Fin: är, var, har, hade, kan, skulle, kommer, kunde, måste, ville</li>
             <li>VERB-Fin: har, sade, finns, säger, började, hade, blev, gjorde, tog, kommer</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: är, kan, ska, har, var, skulle, måste, vill, får, kommer</li>
+            <li>VERB-Fin: har, tycker, finns, kommer, blir, bor, är, handlar, tror, känner</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1272,7 +2045,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Sub
           <ul>
@@ -1282,10 +2055,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Sub
+          <ul>
+            <li>VERB-Fin: brytes, falle, frælssi, giffui</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Sub
           <ul>
@@ -1297,24 +2082,34 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1329,7 +2124,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>ADJ-Part: bansatta, drukken, for, giord, giordæ, skoager, stekt, stektæ, sudhin, sudin</li>
+            <li>AUX-Fin: war</li>
+            <li>VERB-Part: Loffuat, klædder, lesit</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1342,7 +2148,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>ADJ-Part: jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, född, förbnnad, förlamad</li>
+            <li>AUX-Fin: var, skulle, hade, kunde, borde, ville</li>
+            <li>VERB-Fin: kom, pratade, började, var, blev, brukade, hade, såg, flyttade, gick</li>
+            <li>VERB-Part: anpassade, dömd, fylled, lurade, utsatt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1357,7 +2175,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1370,7 +2188,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>AUX-Fin: ær, ma, haffuer, är, æræ</li>
+            <li>VERB-Fin: æter, drikker, ganger, haffuer, komber, later, ser, siger, stander, super</li>
+            <li>VERB-Inf: ætæ, drikka, gøræ, skina, sla</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1381,7 +2210,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>ADJ-Part: beroende, dominerande, fungerande, grundläggande, liknande, lärande, tagande, ökande</li>
+            <li>AUX-Fin: är, kan, ska, har, måste, vill, får, kommer, blir, bör</li>
+            <li>VERB-Fin: har, tycker, finns, kommer, blir, bor, är, handlar, tror, känner</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1395,24 +2235,34 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1428,7 +2278,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>ADJ-Part: bansatta, drukken, for, giord, giordæ, skoager, stekt, stektæ, sudhin, sudin</li>
+            <li>AUX-Fin: ær, ma, haffuer, war, är, æræ</li>
+            <li>VERB-Fin: æter, drikker, ganger, haffuer, komber, later, ser, siger, stander, super</li>
+            <li>VERB-Inf: ætæ, drikka, gøræ, skina, sla</li>
+            <li>VERB-Part: Loffuat, klædder, lesit</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1442,7 +2305,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Act
+          <ul>
+            <li>AUX-Fin: är, kan, ska, har, var, skulle, måste, vill, får, kommer</li>
+            <li>AUX-Inf: vara, kunna, få, bli, ha, vilja, villja</li>
+            <li>AUX-Sup: blivit, varit</li>
+            <li>VERB-Fin: har, tycker, kommer, blir, bor, handlar, tror, är, känner, ser</li>
+            <li>VERB-Inf: lära, ha, göra, köpa, ta, gå, få, bli, se, förstå</li>
+            <li>VERB-Sup: blivit, förlorat, växt, anmält, befriat, betalt, bott, flyttat, fått, följt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1458,7 +2335,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1473,25 +2350,47 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>VERB-Fin: brytes, bærs, gætz, lyktæs, lætz, rætes, sigx</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Pass
           <ul>
             <li>VERB-Fin: finns, användes, fanns, lyckades, anses, behövs, bildades, föddes, förstördes, gavs</li>
             <li>VERB-Inf: finnas, ses, tillämpas, bebyggas, behövas, erbjudas, firas, flockas, flygas, förvaras</li>
+            <li>VERB-Part: avskedad, besegrad, dödade, filmad, förbluffad, intervjuad, tvingade</li>
             <li>VERB-Sup: använts, lämnats, odlats, rapporterats, setts, skrivits, accepterats, administrerats, anklagats, betonats</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>VERB-Fin: används, behövs, dödas, krävs, benämns, bryts, drabbas, förstörs, förväntas, förändras</li>
+            <li>VERB-Inf: göras, behandlas, bildas, delas, följas, kallas, ledas, påverkas, räddas, sammanfattas</li>
+            <li>VERB-Part: anpassade, dömd, fylled, lurade, utsatt</li>
+            <li>VERB-Sup: utvecklats, anmälts, intervjuats, moderniserats</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Pass
           <ul>
             <li>VERB: kallas, användas, behövs, anses, beräknas, tas, används, ges, användes, förändras</li>
             <li>VERB-Fin: behövs, kallas, beräknas, används, anses, användes, föds, ges, görs, tvingas</li>
             <li>VERB-Inf: användas, göras, tas, ses, anses, sägas, utnyttjas, hållas, kallas, kompletteras</li>
-            <li>VERB-Part: påverkade, vald, vänd, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade, förbjudet</li>
+            <li>VERB-Part: påverkade, vald, vänd, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade, frusterade</li>
             <li>VERB-Sup: gjorts, nämnts, förändrats, framhållits, sagts, ansetts, inlämnats, byggts, givits, införts</li>
           </ul>
         </li>
@@ -1499,46 +2398,68 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="20%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -1548,28 +2469,48 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Art
           <ul>
-            <li>DET: en, den, ett, de, det</li>
+            <li>DET: tha, then, thera, thæs</li>
+            <li>PRON: en</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: en, den, ett, de, det, the, a, Die, El, Le</li>
             <li>PRON: de</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Art
           <ul>
-            <li>DET: en, den, ett, de, det, dom</li>
+            <li>DET: en, den, ett, de, det, dem, et</li>
+            <li>PRON: ett</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: en, den, ett, de, det, dom, the</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1579,17 +2520,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Dem
           <ul>
-            <li>DET: denna, den, dessa, detta, det</li>
+            <li>DET: thenne, thesso</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: denna, den, dessa, detta, det, That</li>
             <li>PRON: detta, dessa, denna, det, den, dennes</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: detta, denna, dessa</li>
+            <li>PRON: detta, dessa</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1601,18 +2561,27 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
             <li>ADJ: samma, sån</li>
             <li>DET: någon, något, några, nåt, nån, somliga</li>
-            <li>PRON: man, något, någon, en, andra, annat, mycket, ens, några, mer</li>
+            <li>PRON: man, något, någon, någonting, en, andra, annat, mycket, ens, några</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>PRON: annan, Annat, adhra, adhrom, andra</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1622,7 +2591,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: några, något</li>
+            <li>PRON: man, andra, ens, många, någon, någonting, något, Vissa, annat, fler</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1634,21 +2613,40 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Int
           <ul>
             <li>ADV: hur, varför, var, vart, varifrån, när, vari</li>
             <li>DET: vilka, vilken, vilket, vad</li>
-            <li>PRON: vad, vem, vilka, vilket, vilken</li>
+            <li>PRON: vad, vem, vilka, vilken, Vilket</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: huru</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>DET: vilken, vilka</li>
+            <li>PRON: vad, vem, vilket</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1660,14 +2658,17 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Int,Rel
           <ul>
-            <li>ADV: där, hur, varför, när, dit, var, varav, då</li>
+            <li>ADV: där, hur, varför, dit, var, varav, då</li>
             <li>DET: vilket, vilken</li>
             <li>PRON: som, vad, vilket, vilka, vem, vilken, vars, vilkas</li>
             <li>SCONJ: när, då</li>
@@ -1675,12 +2676,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Int,Rel
+          <ul>
+            <li>PRON: som</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1691,7 +2701,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>PRON: enghin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1701,7 +2720,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: ingen, inga, inget, no</li>
+            <li>PRON: ingenting, inga, ingen, inget</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -1713,7 +2742,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1724,7 +2753,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: han, thet, thy, honum, hans, hon, sin, sina, hona, mei</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1733,7 +2771,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: jag, det, vi, de, sig, mig, du, min, oss, han</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1745,7 +2792,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -1754,7 +2801,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -1763,7 +2813,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Rcp
+          <ul>
+            <li>PRON: varandra</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -1774,7 +2833,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -1786,10 +2845,29 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>PRON: som</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>PRON: som, vilket</li>
+            <li>SCONJ: som</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Rel
           <ul>
@@ -1800,17 +2878,26 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Tot
           <ul>
-            <li>DET: alla, varje, all, allt, ena, varenda, båda, var, bägge, vartenda</li>
-            <li>PRON: allt, alla, allting, båda, ena, var, ene, allas, vem, alltsammans</li>
+            <li>DET: alla, varje, all, ena, varenda, allt, båda, var, bägge, vartenda</li>
+            <li>PRON: allt, alla, alltihop, allting, båda, allesammans, alltsammans, ena, allihop, var</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>PRON: alt, alla, allum, allæ, badha, hwan, hwario</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -1820,7 +2907,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: varje, alla, all, allt, varj</li>
+            <li>PRON: alla, allt, båda</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Tot
           <ul>
@@ -1832,24 +2929,32 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -1858,7 +2963,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -1867,18 +2975,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Card
           <ul>
-            <li>NUM: två, tre, 1, en, 20, 2, ett, 1970, 3, 10</li>
+            <li>NUM: två, 1, 18, tre, ett, 2, 4, 6-8000, fyra, 1-12</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: två, tre, en, 1, 20, 2, ett, 1970, 3, 10</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1887,7 +3004,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1896,7 +3016,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>ADJ: första, andra, Tredja, firsta, tredje</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1907,24 +3036,34 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1935,7 +3074,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: hans, sin, sina, siner, sins</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1944,7 +3092,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: min, sin, mitt, sina, sitt, mina, deras, vår, ditt, hans</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1955,73 +3112,181 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>PRON: mei</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>VERB-Fin: Hæffuin, Miserere, within</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>AUX-Fin: ær, ma, haffuer, war, är, æræ</li>
+            <li>VERB-Fin: æter, drikker, ganger, haffuer, komber, later, ser, siger, stander, super</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="20%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2035,7 +3300,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2052,7 +3320,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Abbr</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADV: Mvh, osv, osv., t.ex., t.ex</li>
+                <li>NOUN: kilo, 200m, ex</li>
+                <li>PROPN: sfi</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -2071,7 +3354,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -2105,7 +3388,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADV: om, wtan</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -2122,15 +3418,43 @@ udver: '2'
             <li>ADV
               <ul>
                 <li>ADV: så, till</li>
-                <li>CCONJ: som</li>
                 <li>PART: icke</li>
+                <li>SCONJ: som</li>
               </ul>
             </li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: För</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: fram, länge</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: vare</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADV: därför, darför</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>ExtPos</a>
           <ul>
@@ -2153,6 +3477,7 @@ udver: '2'
                 <li>NOUN: vice, Poste, stick</li>
                 <li>PART: Icke</li>
                 <li>PRON: det</li>
+                <li>SCONJ: som</li>
                 <li>VERB-Fin: låt, vill</li>
               </ul>
             </li>
@@ -2172,7 +3497,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -2180,6 +3505,7 @@ udver: '2'
               <ul>
                 <li>ADJ: Extensible, Wide, Visual, Advanced, Advertising, Arabic, Central, Grand, Political, Universal</li>
                 <li>ADP: ad, for</li>
+                <li>DET: du</li>
                 <li>NOUN: Language, Stylesheet, Transformation, Consortium, World, calme, Station, Web, Morituri, Protocol</li>
                 <li>PRON: te</li>
                 <li>PROPN: Web</li>
@@ -2190,7 +3516,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>NOUN: deus, fabula</li>
+                <li>PRON: mei</li>
+                <li>VERB-Fin: Miserere</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -2214,7 +3555,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: second</li>
+                <li>DET: no</li>
+                <li>NOUN: hand, refunds, seafood</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -2234,10 +3590,23 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ-Part: for</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -2250,7 +3619,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: jätte, biligare, Amerikansk, Svenska, dimokratiskt, dromm, favorit, favoritt, forsta, färlig</li>
+                <li>ADJ-Part: förbnnad, njöd, tagande</li>
+                <li>ADP: I, for, frön, undet</li>
+                <li>ADV: tillbacka, Alltid, Sit, Tillsammans, Tillsist, ackså, alderig, dagligen, däref$nt, engom</li>
+                <li>AUX-Inf: villja</li>
+                <li>CCONJ: men</li>
+                <li>DET: det, et, varj</li>
+                <li>INTJ: Ju</li>
+                <li>NOUN: plats, havdet, kurs, kärlek, manniskor, sommras, 200m, Buss, Engelska, Hat</li>
+                <li>NUM: 16, 50, fimtio, tva</li>
+                <li>PRON: det, du</li>
+                <li>PROPN: Svarige, Christiana, Levis, Raid, Tenerife, facebook, frost, melanöster, sfi, tinder</li>
+                <li>SCONJ: an, eftrsom, som</li>
+                <li>VERB-Fin: Kommer, använd, böhver, forstår, funkerade, förklar, försker, försoker, förståd, försätt</li>
+                <li>VERB-Inf: breätta, cycka, cyckla, forklara, förtstå, föstå, hällsa, hälpa, jälpa, liva</li>
+                <li>VERB-Part: fylled</li>
+                <li>VERB-Sup: förstot, komnit</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>Typo</a>
           <ul>
@@ -2267,7 +3665,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2276,7 +3674,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vara.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2285,7 +3683,25 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vara.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vara.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vara.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2296,19 +3712,30 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, måste, vilja, få, komma, böra, vara, må, bli, lär.</li>
       <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: vara, bli, ha.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: magha, hava.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunna, skola, komma, måste, vilja, böra, få, do, må.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+      <li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, skola, ha, vilja, måste, få, komma, böra, bli, vara.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
       <li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, ha, skola, måste, komma, få, böra, vilja, torde, må, lär.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
@@ -2316,7 +3743,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2328,14 +3755,14 @@ udver: '2'
             <li>VERB--PRON-Nom (2)</li>
             <li>VERB-Fin--NOUN (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1346)</li>
+            <li>VERB-Fin--NOUN-Nom (1349)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(efter) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(med) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(som) (1)</li>
-            <li>VERB-Fin--PRON (978)</li>
-            <li>VERB-Fin--PRON-Nom (2882)</li>
+            <li>VERB-Fin--PRON (976)</li>
+            <li>VERB-Fin--PRON-Nom (2885)</li>
             <li>VERB-Fin--PRON-Nom-ADP(framför) (1)</li>
             <li>VERB-Inf--NOUN-Nom (211)</li>
             <li>VERB-Inf--PRON (120)</li>
@@ -2345,13 +3772,31 @@ udver: '2'
             <li>VERB-Part--PRON-Nom (13)</li>
             <li>VERB-Sup--NOUN (1)</li>
             <li>VERB-Sup--NOUN-Nom (174)</li>
-            <li>VERB-Sup--PRON (150)</li>
-            <li>VERB-Sup--PRON-Nom (468)</li>
+            <li>VERB-Sup--PRON (148)</li>
+            <li>VERB-Sup--PRON-Nom (470)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Nom (20)</li>
+            <li>VERB-Fin--PRON (4)</li>
+            <li>VERB-Fin--PRON-Nom (15)</li>
+            <li>VERB-Inf--NOUN-Nom (2)</li>
+            <li>VERB-Inf--PRON-Nom (1)</li>
+            <li>VERB-Part--NOUN-Nom (1)</li>
+            <li>VERB-Part--PRON-Nom (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2364,7 +3809,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-ADP(On) (1)</li>
             <li>VERB-Fin--NOUN-Nom (362)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(runt) (1)</li>
-            <li>VERB-Fin--PRON (187)</li>
+            <li>VERB-Fin--PRON (188)</li>
             <li>VERB-Fin--PRON-Nom (180)</li>
             <li>VERB-Inf--NOUN-Nom (54)</li>
             <li>VERB-Inf--PRON (27)</li>
@@ -2378,7 +3823,29 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Nom (148)</li>
+            <li>VERB-Fin--PRON (105)</li>
+            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Nom (312)</li>
+            <li>VERB-Inf--NOUN-Nom (23)</li>
+            <li>VERB-Inf--PRON (14)</li>
+            <li>VERB-Inf--PRON-Acc (1)</li>
+            <li>VERB-Inf--PRON-Nom (135)</li>
+            <li>VERB-Sup--NOUN-Nom (10)</li>
+            <li>VERB-Sup--PRON (3)</li>
+            <li>VERB-Sup--PRON-Nom (14)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2386,10 +3853,10 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN (11)</li>
-            <li>VERB-Fin--NOUN-Nom (2039)</li>
+            <li>VERB-Fin--NOUN-Nom (2040)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(till) (2)</li>
-            <li>VERB-Fin--PRON (1052)</li>
-            <li>VERB-Fin--PRON-Nom (1026)</li>
+            <li>VERB-Fin--PRON (1053)</li>
+            <li>VERB-Fin--PRON-Nom (1027)</li>
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--NOUN-Nom (489)</li>
             <li>VERB-Inf--PRON (192)</li>
@@ -2404,7 +3871,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -2413,39 +3880,50 @@ udver: '2'
             <li>VERB--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN (2)</li>
             <li>VERB-Fin--NOUN-Gen (7)</li>
-            <li>VERB-Fin--NOUN-Nom (1734)</li>
+            <li>VERB-Fin--NOUN-Nom (1732)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(emot) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-            <li>VERB-Fin--PRON (405)</li>
+            <li>VERB-Fin--PRON (391)</li>
             <li>VERB-Fin--PRON-ADP(med) (1)</li>
             <li>VERB-Fin--PRON-ADP(på) (1)</li>
             <li>VERB-Fin--PRON-Acc (664)</li>
             <li>VERB-Fin--PRON-Gen (9)</li>
-            <li>VERB-Fin--PRON-Nom (9)</li>
+            <li>VERB-Fin--PRON-Nom (20)</li>
             <li>VERB-Inf--NOUN (2)</li>
-            <li>VERB-Inf--NOUN-Nom (1120)</li>
-            <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
+            <li>VERB-Inf--NOUN-Nom (1119)</li>
             <li>VERB-Inf--NOUN-Nom-ADP(på) (2)</li>
-            <li>VERB-Inf--PRON (220)</li>
+            <li>VERB-Inf--PRON (205)</li>
             <li>VERB-Inf--PRON-ADP(som) (1)</li>
             <li>VERB-Inf--PRON-Acc (327)</li>
             <li>VERB-Inf--PRON-Gen (15)</li>
-            <li>VERB-Inf--PRON-Nom (4)</li>
+            <li>VERB-Inf--PRON-Nom (17)</li>
             <li>VERB-Part--NOUN-Nom (4)</li>
             <li>VERB-Sup--NOUN-Nom (265)</li>
-            <li>VERB-Sup--NOUN-Nom-ADP(än) (1)</li>
-            <li>VERB-Sup--PRON (111)</li>
+            <li>VERB-Sup--PRON (109)</li>
             <li>VERB-Sup--PRON-ADP(med) (1)</li>
             <li>VERB-Sup--PRON-Acc (115)</li>
             <li>VERB-Sup--PRON-Gen (1)</li>
-            <li>VERB-Sup--PRON-Nom (1)</li>
+            <li>VERB-Sup--PRON-Nom (3)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Acc (18)</li>
+            <li>VERB-Fin--PRON-Acc (6)</li>
+            <li>VERB-Inf--NOUN-Acc (3)</li>
+            <li>VERB-Inf--PRON-Acc (1)</li>
+            <li>VERB-Part--NOUN-Acc (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -2454,7 +3932,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Gen (2)</li>
             <li>VERB-Fin--NOUN-Nom (378)</li>
-            <li>VERB-Fin--PRON (27)</li>
+            <li>VERB-Fin--PRON (28)</li>
             <li>VERB-Fin--PRON-Acc (52)</li>
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Nom (249)</li>
@@ -2469,14 +3947,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
+            <li>VERB-Fin--NOUN (3)</li>
+            <li>VERB-Fin--NOUN-Nom (175)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(frön) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
+            <li>VERB-Fin--PRON (41)</li>
+            <li>VERB-Fin--PRON-Acc (37)</li>
+            <li>VERB-Inf--NOUN-Nom (160)</li>
+            <li>VERB-Inf--PRON (24)</li>
+            <li>VERB-Inf--PRON-Acc (19)</li>
+            <li>VERB-Inf--PRON-Nom (3)</li>
+            <li>VERB-Sup--NOUN-Nom (12)</li>
+            <li>VERB-Sup--PRON (4)</li>
+            <li>VERB-Sup--PRON-Acc (3)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB--NOUN-Nom (1)</li>
             <li>VERB-Fin--NOUN (32)</li>
             <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1784)</li>
+            <li>VERB-Fin--NOUN-Nom (1785)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
             <li>VERB-Fin--PRON (174)</li>
@@ -2488,7 +3988,7 @@ udver: '2'
             <li>VERB-Inf--PRON-Acc (149)</li>
             <li>VERB-Sup--NOUN (2)</li>
             <li>VERB-Sup--NOUN-Nom (259)</li>
-            <li>VERB-Sup--PRON (29)</li>
+            <li>VERB-Sup--PRON (30)</li>
             <li>VERB-Sup--PRON-Acc (33)</li>
           </ul>
         </li>
@@ -2496,12 +3996,12 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN-Nom (7)</li>
-            <li>VERB-Fin--PRON (3)</li>
+            <li>VERB-Fin--PRON (4)</li>
             <li>VERB-Fin--PRON-Acc (63)</li>
             <li>VERB-Fin--PRON-Gen (6)</li>
             <li>VERB-Inf--NOUN-Nom (11)</li>
@@ -2516,7 +4016,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -2529,7 +4037,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Acc (5)</li>
+            <li>VERB-Inf--PRON (1)</li>
+            <li>VERB-Inf--PRON-Acc (22)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -2547,60 +4067,96 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
 
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+    <td width="20%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>This corpus uses 9 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
       <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 10 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>compound:prt</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
+      <li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 11 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="20%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>This corpus uses 11 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+      <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
+      </ul>
+    </td>
+    <td width="20%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 12 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
       </ul>
     </td>

@@ -50,7 +50,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 12977 sentences and 108072 tokens.</li>
+      <li>This corpus contains 15675 sentences and 137122 tokens.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -77,7 +77,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 14232 tokens (13%) that are not followed by a space.</li>
+      <li>This corpus contains 17236 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -131,7 +131,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 26 types of words that contain both letters and punctuation. Examples: 없어.라고, 1.명동에, 10일-17일에, 2.동대문어, Duluth., K-POP을, Ph.D.를, T-EXPRESS, choco-pie를, 남주인공-카일, 성인-199,000원, 아동-174,000원, 여주인공-사라, 용산-목포-홍도-흑산도까지, 용산-목포-홍도-흑산도다, 용산-목포-홍도-흑산도와, 용산-목포-홍도-흑산도이라는, 용산-목포-홍도-흑산도입니다, 용산-목표-홍도-족산도, 용산-목표-홍도-흑단도이다, 용산-목표-홍도-흑산도, 용산-목표-홍도-흑산도이다, 있., 전자사전,mp3인터넷, 청.훙의, 초.한으로</li>
+      <li>This corpus contains 114 types of words that contain both letters and punctuation. Examples: 없어.라고, "역사를, '라는, '역사는, ”라는, "경쟁", "라고, "배워야됐다, "싸우"는, "아니오", "우리"라는, "위안부"라는, "이, "인류가, "저는, "큰, "해서, '갱쟁이, '도구'라고, '머리, '미래를, '벌써, '사람이, '아드레날', '이겨야, (ad, (comp, (d, (dev, (lingual), (mandatory, (prosperity)까지, (su, (게다가, (고려사, (괜찮은, (그리고, (다, (영어), (이상), (일이, (직업, (직장, (체코의, (특히, (혹시, .인류와, 1.명동에, 10일-17일에, 2.동대문어</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -189,8 +189,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-      <li>This corpus does not use the following tags: SCONJ, INTJ</li>
+      <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: PROPN, PART, SYM</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -231,7 +231,6 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 1 word types tagged as particles (PART): 에는</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -258,7 +257,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 115 lemmas tagged as pronouns (PRON): 거기+는, 그, 그+는, 그+대, 그+도, 그+들+도, 그+들+은, 그+들+을, 그+들+의, 그+들+이, 그+를, 그+의, 그거+도, 그것, 그것+ㄴ, 그것+도, 그것+들+도, 그것+은, 그것+을, 그것+이, 그녀+가, 그녀+는, 그녀+를, 그녀+만+의, 그녀+의, 그때+의, 나, 나+ㄴ, 나+는, 나+도, 나+를, 나+의, 남+이, 내, 내+가, 너, 너+ㄴ, 너+는, 너+도, 너+의, 네+가, 누구+ㄴ+가, 누구+가, 누구+나, 누구+도, 누구+를, 누구+이+ㄴ가, 니+는, 다+들, 당신, 당신+은, 당신+의, 둘째+는, 모두+가, 무엇+을, 무엇+이, 무엇+이+ㄴ가, 뭐+ㄹ, 뭐+가, 비, 어디, 어디+가, 여기, 여기+가, 여기+는, 여러분, 여러분+들+은, 여러분+들+이, 영, 용+은, 우리, 우리+가, 우리+는, 우리+도, 우리+들+은, 우리+들+이, 우리+를, 우리+만+의, 우리+의, 이, 이+는, 이+를, 이거, 이것, 이것+도, 이것+들+은, 이것+들+을, 이것+만, 이것+은, 이것+을, 이것+이, 자+기, 자기, 자기+가, 자기+도, 자기+를, 자기+만, 자기+의, 자신+들+의, 자신+을, 자신+의, 자신+이, 저, 저+는, 저+도, 저+랑, 저+를, 저+와, 저+의, 저기+는, 저희, 저희+는, 전, 제+가, 중</li>
+      <li>This corpus contains 235 lemmas tagged as pronouns (PRON): 거기, 거기+가, 거기+는, 거기+서, 거기+서+는, 거기+에, 거기+에+는, 거기+에서, 거기+에서+만, 그, 그+는, 그+대, 그+도, 그+들+도, 그+들+은, 그+들+을, 그+들+의, 그+들+이, 그+로, 그+를, 그+보다, 그+에, 그+에게, 그+의, 그거, 그거+ㄴ, 그거+는, 그거+도, 그거+보다, 그것, 그것+ㄴ, 그것+는, 그것+도, 그것+들+도, 그것+에, 그것+으로, 그것+은, 그것+을, 그것+이, 그것+이야말로, 그곳+에서, 그녀, 그녀+가, 그녀+는, 그녀+를, 그녀+만+의, 그녀+에, 그녀+에게, 그녀+의, 나, 나+ㄴ, 나+ㄹ, 나+가, 나+게, 나+는, 나+도, 나+랑, 나+로, 나+를, 나+밖에, 나+보고, 나+보다, 나+에, 나+에게, 나+에게+는, 나+에게+도, 나+와, 나+의, 나+처럼, 나+한테, 내, 내+가, 내+는, 내+도, 내+를, 내+에게, 내녕+에, 너, 너+ㄴ, 너+ㄹ, 너+는, 너+도, 너+를, 너+의, 너+한테, 네, 네+가, 누가+에게, 누구, 누구+ㄴ+가, 누구+가, 누구+나, 누구+도, 누구+든지, 누구+를, 누구+와, 누구+이+ㄴ가, 누구+이+ㄴ가+가, 니+가, 니+도, 다+들, 다+들+이, 당신, 당신+은, 당신+의, 당신+이, 둘+의, 모두+가, 무엇+보다, 무엇+보다+도, 무엇+은, 무엇+을, 무엇+이, 무엇+이+ㄴ가, 무엇+이든, 뭐, 뭐+ㄹ, 뭐+가, 뭐+든지, 뭐+를, 비, 아기+들+이, 아무+나, 아무+도, 아이+들+이, 아포, 얘+들+이, 어디, 어디+가, 어디+든지, 어디+서, 어디+서+나, 어디+서+든, 어디+에, 어디+에서, 어디+에서+나, 언제, 언제+든지, 언제+보다, 여기, 여기+가, 여기+까지, 여기+는, 여기+서, 여기+에, 여기+에서, 여기+의, 여러분, 여러분+과, 여러분+께, 여러분+도, 여러분+들+은, 여러분+들+이, 여러분+에게, 여러분+은, 여러분+을, 여러분+이, 용+은, 우라+가, 우리, 우리+가, 우리+는, 우리+도, 우리+들+은, 우리+들+이, 우리+를, 우리+만+의, 우리+보고, 우리+에, 우리+에게, 우리+와, 우리+의, 우리+한테, 이+는, 이+로, 이+로써, 이+를, 이+밖에, 이+에, 이+와, 이+처럼, 이거, 이거+ㄴ, 이거+는, 이거+도, 이것, 이것+도, 이것+들+을, 이것+만, 이것+에, 이것+은, 이것+을, 이것+이, 자기, 자기+가, 자기+도, 자기+를, 자기+만, 자기+에, 자기+에게, 자기+의, 자신+도, 자신+들+의, 자신+의, 자신+이, 재+가, 저, 저+ㄴ, 저+는, 저+도, 저+랑, 저+를, 저+보다, 저+에, 저+에게, 저+에게+는, 저+와, 저+의, 저+하고, 저+한테, 저기, 저기+는, 저기+서, 저쪽+에, 저희, 저희+는, 제+가, 제+게, 제+는, 제+보다, 제+에, 제+에게, 제+에게+는, 지+가, 하나+의</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -285,7 +284,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 39 lemmas tagged as determiners (DET): 각, 그, 그떤, 그러+ㄹ, 그런, 그런+한, 너+ㄴ, 몇, 몇+개, 모든, 무슨, 아무, 약, 어누, 어느, 어던, 어떤, 어러, 어려, 어쩌+ㄹ, 여러, 여려, 예기, 오+ㄴ, 이, 이+들, 이+번+에+는, 이러하+ㄴ, 이런, 이런+저런, 이런+하+ㄴ, 이럼, 이렇, 이번, 일, 저, 저런, 지지난, 한</li>
+      <li>This corpus contains 62 lemmas tagged as determiners (DET): "+이, 각, 그, 그것, 그떤, 그런, 그런+한, 네, 다른, 다섯, 두, 둘째, 몇, 모, 모든, 무슨, 비, 사십, 새, 세, 셋째, 수, 아무, 아무+런, 안두, 약, 어누, 어느, 어던, 어떠, 어떤, 어러, 어려, 여덟, 여러, 여려, 예기, 옛, 오랜, 오른, 온, 이, 이+들, 이+번+에+는, 이러하+ㄴ, 이런, 이런+저런, 이런+하+ㄴ, 이럼, 이렇, 이번, 일, 저, 저런, 전, 제, 지지난, 천, 첫, 총, 한, 현</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -312,7 +311,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: 그, 너+ㄴ, 이, 저</li>
+      <li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: 그, 그것, 네, 비, 저</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -365,7 +364,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: 있</li>
+      <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: 않, 이, 있, 하</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1556,18 +1555,17 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: 만습니다, 중용한, 경재적인, 관찮아요, 다뜻합니다, 다향한, 달리다, 됬다, 마싯었습니다, 맜습니다</li>
-                <li>ADP: 떄문에, 두, 동해, 때, 땜누에, 떼문에, 슾에, 은, 이을, 장도</li>
-                <li>ADV: 그레서, 고리고, 대, 외냐하면, 그래고, 도, 때, 아프로, 재일, 하지마</li>
-                <li>AUX: 싶어니다, 했는, 싶어, 않는, 않을면, 않있습니다, 않했습니다, 있엇다고, 하겠말이다, 하지마</li>
-                <li>DET: 그떤, 그런한, 어누, 어던, 어러, 어려, 여려, 예기, 이, 이럼</li>
-                <li>NOUN: 궁무원이, 웃이, 훠꿔를, 가경이, 땋알, 부모니는, 성물을, 음막이, 진고가, 홍상을</li>
-                <li>NUM: 만, 이, 이홉</li>
-                <li>PRON: 그대, 내, 니는, 자기, 자기를</li>
-                <li>PROPN: 우치</li>
-                <li>SYM: 훠꿔</li>
-                <li>VERB: 유면한, 조세요, 보릅니다, 해어지고, 거옙니다, 건다, 논다, 다서, 도와, 배옵니다</li>
-                <li>X: 하고</li>
+                <li>ADJ: 유면한, 거옙니다, 중용한, 특변한, 경재적인, 끔칙한, 다뜻합니다, 다향한, 맜있는, 불공편한다</li>
+                <li>ADP: 떄문에, 대문에, 떼문에, 도, 두, 때, 니다, 대, 더분에, 도영</li>
+                <li>ADV: 재일, 함게, 깉이, 뉴질렌드에서, 먼전, 보산에, 빨르게, 우채국에, 캍이, 현제</li>
+                <li>AUX: 싶어니다, 했는, 싶어, 있도, 싶을떼, 않는, 않아면, 않은다, 않은면, 않을</li>
+                <li>CCONJ: 그레서, 외냐하면, 고리고, 그래고, 그러지만, 하지마, 그래소, 그러서, 그런대, 그레고</li>
+                <li>DET: 어던, 그떤, 그런한, 어누, 어떠, 어러, 어려, 여려, 예기, 이</li>
+                <li>NOUN: 하고, 궁무원이, 아프로, 댁배를, 웃이, 재, 땋알, 훠꿔를, 가경이, 광심</li>
+                <li>NUM: 이, 첫, 한나</li>
+                <li>PRON: 그대, 내</li>
+                <li>SCONJ: 대, 때, 떄, 길듯이, 대는, 대싱, 덴데, 때가지, 떄나, 떄문에</li>
+                <li>VERB: 조세요, 건다, 보릅니다, 해어지고, 논다, 다서, 도와, 됬다, 때해서, 배옵니다</li>
               </ul>
             </li>
           </ul>
@@ -1617,7 +1615,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: 이.</li>
+      <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1656,7 +1654,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: 싶, 하, 있, 않, 이.</li>
+      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: 싶, 하, 않, 있, 이.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1710,35 +1708,32 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (7920)</li>
+            <li>VERB--NOUN (7549)</li>
             <li>VERB--NOUN-ADP(가) (2)</li>
-            <li>VERB--NOUN-ADP(는) (5)</li>
+            <li>VERB--NOUN-ADP(는) (3)</li>
             <li>VERB--NOUN-ADP(도) (9)</li>
             <li>VERB--NOUN-ADP(들+은) (1)</li>
-            <li>VERB--NOUN-ADP(들+이) (1)</li>
-            <li>VERB--NOUN-ADP(등) (5)</li>
-            <li>VERB--NOUN-ADP(등+뿐+만) (1)</li>
-            <li>VERB--NOUN-ADP(등+은) (1)</li>
+            <li>VERB--NOUN-ADP(들+이) (2)</li>
+            <li>VERB--NOUN-ADP(등) (4)</li>
+            <li>VERB--NOUN-ADP(등)-ADP(등) (1)</li>
             <li>VERB--NOUN-ADP(등+의) (1)</li>
-            <li>VERB--NOUN-ADP(등+이) (1)</li>
-            <li>VERB--NOUN-ADP(따위) (1)</li>
+            <li>VERB--NOUN-ADP(등+이) (2)</li>
             <li>VERB--NOUN-ADP(따위+도) (1)</li>
-            <li>VERB--NOUN-ADP(때문+이) (1)</li>
-            <li>VERB--NOUN-ADP(만) (4)</li>
+            <li>VERB--NOUN-ADP(만) (3)</li>
             <li>VERB--NOUN-ADP(밖에) (2)</li>
             <li>VERB--NOUN-ADP(반+쯤) (1)</li>
-            <li>VERB--NOUN-ADP(뿐+만) (10)</li>
             <li>VERB--NOUN-ADP(와) (1)</li>
             <li>VERB--NOUN-ADP(은) (2)</li>
             <li>VERB--NOUN-ADP(을) (1)</li>
-            <li>VERB--NOUN-ADP(이) (2)</li>
+            <li>VERB--NOUN-ADP(이) (3)</li>
             <li>VERB--NOUN-ADP(이상) (1)</li>
+            <li>VERB--NOUN-ADP(중+에서) (1)</li>
             <li>VERB--NOUN-ADP(쫌) (1)</li>
-            <li>VERB--NOUN-ADP(쯤) (4)</li>
-            <li>VERB--NOUN-ADP(하+고) (1)</li>
-            <li>VERB--NOUN-ADP(하고) (6)</li>
-            <li>VERB--PRON (1668)</li>
-            <li>VERB--PRON-ADP(뿐+만) (5)</li>
+            <li>VERB--NOUN-ADP(쯤) (5)</li>
+            <li>VERB--NOUN-ADP(하고) (10)</li>
+            <li>VERB--PRON (1899)</li>
+            <li>VERB--PRON-ADP(는) (1)</li>
+            <li>VERB--PRON-ADP(하고) (1)</li>
           </ul>
         </li>
       </ul>
@@ -1835,24 +1830,26 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (8171)</li>
-            <li>VERB--NOUN-ADP(과) (1)</li>
+            <li>VERB--NOUN (10369)</li>
+            <li>VERB--NOUN-ADP(나) (1)</li>
             <li>VERB--NOUN-ADP(대신+에) (1)</li>
-            <li>VERB--NOUN-ADP(도) (5)</li>
+            <li>VERB--NOUN-ADP(도) (6)</li>
             <li>VERB--NOUN-ADP(두) (2)</li>
-            <li>VERB--NOUN-ADP(등) (4)</li>
-            <li>VERB--NOUN-ADP(등+을) (7)</li>
+            <li>VERB--NOUN-ADP(등) (7)</li>
+            <li>VERB--NOUN-ADP(등+)+을) (1)</li>
+            <li>VERB--NOUN-ADP(등+을) (8)</li>
+            <li>VERB--NOUN-ADP(뜨+어) (1)</li>
             <li>VERB--NOUN-ADP(라는) (1)</li>
             <li>VERB--NOUN-ADP(로) (1)</li>
-            <li>VERB--NOUN-ADP(를) (13)</li>
-            <li>VERB--NOUN-ADP(만) (3)</li>
-            <li>VERB--NOUN-ADP(을) (5)</li>
+            <li>VERB--NOUN-ADP(를) (14)</li>
+            <li>VERB--NOUN-ADP(만) (2)</li>
+            <li>VERB--NOUN-ADP(을) (7)</li>
             <li>VERB--NOUN-ADP(이+을) (1)</li>
             <li>VERB--NOUN-ADP(정도+로) (1)</li>
             <li>VERB--NOUN-ADP(쯤) (1)</li>
-            <li>VERB--NOUN-ADP(하고) (10)</li>
+            <li>VERB--NOUN-ADP(하고) (9)</li>
             <li>VERB--NOUN-ADP(학고) (1)</li>
-            <li>VERB--PRON (63)</li>
+            <li>VERB--PRON (118)</li>
           </ul>
         </li>
       </ul>
@@ -2028,8 +2025,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 1 relation subtypes: <a>nmod:poss</a></li>
-      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>orphan</a></li>
+      <li>This corpus uses 2 relation subtypes: <a>compound:lvc</a>, <a>nmod:poss</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>cop</a>, <a>clf</a>, <a>fixed</a>, <a>orphan</a></li>
       </ul>
     </td>
     <td width="20%" valign="top">

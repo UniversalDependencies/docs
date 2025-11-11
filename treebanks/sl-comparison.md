@@ -2130,7 +2130,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (50)</li>
             <li>VERB-Fin--PRON-Nom (7)</li>
             <li>VERB-Inf--NOUN-Acc (682)</li>
-            <li>VERB-Inf--NOUN-Dat (23)</li>
+            <li>VERB-Inf--NOUN-Dat (22)</li>
             <li>VERB-Inf--NOUN-Gen (220)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
             <li>VERB-Inf--PRON (8)</li>
@@ -2212,7 +2212,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc (30)</li>
             <li>VERB-Fin--PRON-Dat (289)</li>
             <li>VERB-Inf--NOUN-Acc (15)</li>
-            <li>VERB-Inf--NOUN-Dat (67)</li>
+            <li>VERB-Inf--NOUN-Dat (68)</li>
             <li>VERB-Inf--NOUN-Gen (2)</li>
             <li>VERB-Inf--PRON (1)</li>
             <li>VERB-Inf--PRON-Acc (5)</li>

@@ -1954,20 +1954,20 @@ udver: '2'
             <li>VERB-Fin--NOUN (1)</li>
             <li>VERB-Fin--NOUN-Dat (7)</li>
             <li>VERB-Fin--NOUN-Gen (19)</li>
-            <li>VERB-Fin--NOUN-Nom (1564)</li>
+            <li>VERB-Fin--NOUN-Nom (1562)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(iš) (1)</li>
             <li>VERB-Fin--PRON (6)</li>
             <li>VERB-Fin--PRON-Dat (2)</li>
-            <li>VERB-Fin--PRON-Nom (383)</li>
+            <li>VERB-Fin--PRON-Nom (381)</li>
             <li>VERB-Ger--NOUN-Dat (2)</li>
             <li>VERB-Inf--NOUN-Dat (2)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
             <li>VERB-Part--NOUN (1)</li>
             <li>VERB-Part--NOUN-Acc (4)</li>
             <li>VERB-Part--NOUN-Gen (2)</li>
-            <li>VERB-Part--NOUN-Nom (317)</li>
+            <li>VERB-Part--NOUN-Nom (299)</li>
             <li>VERB-Part--PRON (1)</li>
-            <li>VERB-Part--PRON-Nom (43)</li>
+            <li>VERB-Part--PRON-Nom (42)</li>
           </ul>
         </li>
       </ul>
@@ -2009,15 +2009,15 @@ udver: '2'
             <li>VERB-Conv--PRON-Acc (4)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
             <li>VERB-Fin--NOUN (2)</li>
-            <li>VERB-Fin--NOUN-Acc (803)</li>
+            <li>VERB-Fin--NOUN-Acc (802)</li>
             <li>VERB-Fin--NOUN-Nom (7)</li>
             <li>VERB-Fin--PRON (2)</li>
-            <li>VERB-Fin--PRON-Acc (142)</li>
+            <li>VERB-Fin--PRON-Acc (141)</li>
             <li>VERB-Fin--PRON-Nom (5)</li>
             <li>VERB-Ger--NOUN-Acc (216)</li>
             <li>VERB-Ger--PRON-Acc (4)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Acc (771)</li>
+            <li>VERB-Inf--NOUN-Acc (770)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
             <li>VERB-Inf--PRON (1)</li>
             <li>VERB-Inf--PRON-Acc (77)</li>
@@ -2075,6 +2075,7 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
+            <li>VERB-Inf--NOUN-Acc (2)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
           </ul>
         </li>
@@ -2141,7 +2142,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

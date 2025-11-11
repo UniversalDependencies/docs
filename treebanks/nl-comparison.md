@@ -131,7 +131,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 82 lemmas tagged as determiners (DET): 1/2, 1/3, 1/4, 1/8, 1000, 2.392, 2/3, 20.000, 22,1, 2500, 33, 37,7, 47, 5.001, 5000, 9.000, al, allerlei, anderhalf, andermans, beide, bijna, circa, dat, datzelfde, de, deze, dezelfde, die, diezelfde, dit, dll, een, eenzelfde, elk, elkaar, enig, enkel, ettelijk, flo, geen, genoeg, helemaal, het, hetzelfde, hoe, ieder, maar, meerdere, menig, min, net, niemand, niet, nog, nogal, onvoldoende, reeds, slechts, sommig, steeds, te, teveel, the, veel, voldoende, vrijwel, wat, weinig, wel, welhaast, welk, weten, wie, x, zeer, zes-, zestig-, zijn/haar, zo, zo'n, zulk</li>
+      <li>This corpus contains 59 lemmas tagged as determiners (DET): 1/2, 1/3, 1/4, 1/8, 2.392, 2/3, 20.000, 33, 37,7, 5.001, 5000, 9.000, al, allerlei, anderhalf, andermans, beide, circa, dat, datzelfde, de, deze, dezelfde, die, diezelfde, dit, dll, een, eenzelfde, elk, elkaar, enig, enkel, ettelijk, flo, geen, het, hetzelfde, ieder, meerdere, menig, niemand, niet, onvoldoende, sommig, teveel, the, veel, voldoende, wat, weinig, welk, wie, x, zes-, zestig-, zijn/haar, zo'n, zulk</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -538,7 +538,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: de, het, der, 's, 't, den, des, t, dé, hde</li>
+            <li>DET: de, het, der, 's, 't, den, des, t, dé, d'n</li>
           </ul>
         </li>
       </ul>
@@ -589,7 +589,7 @@ udver: '2'
       <ul>
         <li>Cmp
           <ul>
-            <li>ADJ: verder, beter, later, eerder, jongeren, vroeger, langer, groter, grotere, hoger</li>
+            <li>ADJ: verder, beter, later, eerder, jongeren, meer, vroeger, langer, groter, grotere</li>
           </ul>
         </li>
       </ul>
@@ -609,7 +609,7 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: nieuwe, grote, andere, goed, Nederlandse, heel, groot, Amerikaanse, eigen, goede</li>
+            <li>ADJ: nieuwe, grote, andere, goed, Nederlandse, heel, groot, eigen, goede, Amerikaanse</li>
           </ul>
         </li>
       </ul>
@@ -618,7 +618,7 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: andere, grote, nieuwe, Duitse, Vlaamse, belgische, eigen, Franse, groot, verschillende</li>
+            <li>ADJ: andere, grote, nieuwe, Duitse, belgische, Vlaamse, eigen, Franse, groot, verschillende</li>
           </ul>
         </li>
       </ul>
@@ -678,10 +678,57 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>AUX-Fin: Wees</li>
+            <li>VERB-Fin: Noem, Geef, kom, zie, Kijk, Doe, Laat, Neem, Wacht, bewaar</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: zie, lees, stel, hou, volg, Bevat, Denk, Juich, Laat, Vergelijk</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: is, was, heeft, zijn, werd, wordt, zal, zou, kan, hebben</li>
+            <li>VERB-Fin: heeft, komt, heet, wil, is, gaat, zei, kwam, noemt, hebben</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>AUX-Fin: is, was, werd, wordt, zijn, werden, waren, zou, had, heeft</li>
+            <li>VERB-Fin: kwam, werd, had, heeft, was, ging, is, komt, kreeg, begon</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -779,9 +826,30 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li>Art
+          <ul>
+            <li>DET: de, het, een, der, 's, 't, 'n, des, den, en</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: de, het, een, der, 's, 't, ene, den, des, t</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li>Dem
           <ul>
-            <li>PRON: dat, dit, er, die, deze, zo'n, degenen, datgene, degene, d'r</li>
+            <li>DET: deze, dit, die, dat, diens, dezer, dien</li>
+            <li>PRON: dat, dit, die, er, deze, zo'n, degenen, datgene, degene, d'r</li>
           </ul>
         </li>
       </ul>
@@ -790,6 +858,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
+            <li>DET: deze, dit, die, dat, diens, dát</li>
             <li>PRON: dit, deze, dat, die, er, zo'n, degene, degenen, diegenen, dezen</li>
           </ul>
         </li>
@@ -799,8 +868,23 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+        <li>Exc
+          <ul>
+            <li>PRON: wat</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
         <li>Ind
           <ul>
+            <li>DET: enkele, veel, enige, zo'n, meer, weinig, sommige, enig, minder, enkel</li>
             <li>PRON: meer, iets, niets, veel, alles, wat, enige, minder, iedereen, weinig</li>
           </ul>
         </li>
@@ -810,6 +894,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
+            <li>DET: veel, enkele, sommige, meer, enige, weinig, zo'n, enkel, enig, minder</li>
             <li>PRON: meer, veel, enige, alles, iets, velen, weinig, niets, minder, ene</li>
           </ul>
         </li>
@@ -821,6 +906,7 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
+            <li>DET: welke, welk, Welek</li>
             <li>PRON: wat, wie, welke, welk</li>
           </ul>
         </li>
@@ -830,7 +916,28 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
+            <li>DET: welke, welk</li>
             <li>PRON: wat, welke, wie, welk, dewelke</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: geen</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: geen, géén</li>
           </ul>
         </li>
       </ul>
@@ -881,6 +988,7 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
+            <li>DET: wiens, wier, welk</li>
             <li>PRON: die, dat, hetgeen, hetgene</li>
           </ul>
         </li>
@@ -890,7 +998,28 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
+            <li>DET: welke, wier, wiens, welk</li>
             <li>PRON: die, dat, hetgeen, hetwelk</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: alle, beide, elke, ieder, elk, iedere, al, ieders, beider</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: alle, beide, elke, elk, iedere, ieder, aller, al, beider, ieders</li>
           </ul>
         </li>
       </ul>
@@ -1102,7 +1231,99 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADP: in, op, aan, van, te, achter, ter, voor</li>
+                <li>ADV: te</li>
+                <li>X: total</li>
+              </ul>
+            </li>
+            <li>ADP
+              <ul>
+                <li>ADJ: dicht, korte, makkelijk, nieuw, terwille</li>
+                <li>ADP: in, op, ten, van, met, ter, aan, tot, onder, naar</li>
+                <li>ADV: omwille, tengevolge, temidden</li>
+                <li>DET: de, het, een</li>
+                <li>NOUN: dank, IJs, paal, preludia, relief</li>
+                <li>NUM: comite-31</li>
+                <li>SCONJ: als</li>
+                <li>X: in, a, ad, uit</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADJ: rustig, geleidelijk</li>
+                <li>ADP: voor, ten, onder, op, met, in, tot, bij, ter, af</li>
+                <li>ADV: dan, nu, min, niet, al, maar, zo, her, ook, verre</li>
+                <li>DET: het, 's, een, des, 't</li>
+                <li>INTJ: ja, o</li>
+                <li>NOUN: hals, heden, keer, koste, stap, woord</li>
+                <li>PRON: meer, minder, zijns, ons, wat</li>
+                <li>PROPN: God</li>
+                <li>SCONJ: als</li>
+                <li>VERB-Fin: Zegge</li>
+                <li>X: nota, En, ad, con, im, linea, per</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADP: tot, Ten</li>
+                <li>ADV: dan</li>
+                <li>CCONJ: en, maar</li>
+                <li>SCONJ: als</li>
+                <li>VERB-Fin: laat</li>
+                <li>X: t</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>ADV: hoe</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>ADJ: half, Vierde</li>
+                <li>ADP: van</li>
+                <li>DET: flo, dll, een, de</li>
+                <li>NOUN: kwart, Watvoor</li>
+                <li>NUM: 1, 2, 3, 15, 12, 30, 8, een, 6, 10</li>
+                <li>PRON: wat, zich</li>
+                <li>SYM: flo, -, 10.000,-, 130.000,-, 5,-, 1/2, 10,-, 100.000,-, 1500,-, 20.000,-</li>
+              </ul>
+            </li>
+            <li>PROPN
+              <ul>
+                <li>ADJ: Integraal, Internationale, Binnenlandse, Eerste, Buitenlandse, Economische, Nederlandse, Nieuwe, Sociale, Algemene</li>
+                <li>ADP: van, Achterlangs, Door, Op</li>
+                <li>ADV: Hier, Vandaag</li>
+                <li>DET: De, Het</li>
+                <li>INTJ: Ja, hallo</li>
+                <li>NOUN: Basistakenpakket, Wet, Dm, Oom, verkeer, AVRO's, Akademie, Aktie, Bericht, Bestemming</li>
+                <li>NUM: Drie, Duizend, Vijf</li>
+                <li>PROPN: Olympia's, Ulster, Adam, Balkum, Fiat, GOD, Josef, Máxima, Porsche, Sydney</li>
+                <li>VERB-Inf: Denken</li>
+                <li>VERB-Part: Verwoeste</li>
+                <li>X: the, Grand, Le, A, All, Caland-, Die, Financial, Guinness, I</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: aan, voor, in, te</li>
+                <li>ADV: Zo</li>
+                <li>CCONJ: maar, en</li>
+                <li>NOUN: Inplaats</li>
+                <li>PRON: dat</li>
+                <li>SCONJ: of</li>
+                <li>VERB-Fin: zij, laat</li>
+                <li>X: in</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1110,33 +1331,31 @@ udver: '2'
           <ul>
             <li>ADJ
               <ul>
-                <li>ADP: in, aan, op, ter, uit, te, achter, onder, voor, Af</li>
-                <li>NUM: drie</li>
+                <li>ADP: in, op, aan, ter, te, achter, voor, om, onder, ten</li>
                 <li>PRON: meer, minder</li>
               </ul>
             </li>
             <li>ADP
               <ul>
                 <li>ADJ: dicht, korte, nieuw, anti, links</li>
-                <li>ADP: in, ten, op, onder, met, tot, te, van, aan, ter</li>
-                <li>ADV: omwille, temidden, al, heinde</li>
+                <li>ADP: in, ten, op, onder, met, tot, te, ter, van, aan</li>
+                <li>ADV: omwille, temidden</li>
                 <li>DET: de, het, een</li>
-                <li>NOUN: dank, confederate, corrosie, kraag, orde, papier, undergroundfunk</li>
+                <li>NOUN: dank, confederate, corrosie, orde, papier</li>
                 <li>NUM: eenhonderd</li>
                 <li>PRON: wat</li>
-                <li>PROPN: EAM</li>
                 <li>SCONJ: als</li>
-                <li>X: bureau, casus, promotor, reductio, rouw, à</li>
+                <li>X: casus, in, promotor, à</li>
               </ul>
             </li>
             <li>ADV
               <ul>
-                <li>ADJ: geleidelijk, Terzelfder, laag, langzaam</li>
+                <li>ADJ: geleidelijk, Terzelfder, laag</li>
                 <li>ADP: onder, voor, met, op, in, ten, om, af, ter, van</li>
-                <li>ADV: min, al, niet, her, vandaag, maar, zo, dan, Nog, verre</li>
-                <li>DET: het, 's, des, een</li>
+                <li>ADV: al, min, niet, her, vandaag, maar, zo, dan, heinde, verre</li>
+                <li>DET: het, 's, des</li>
                 <li>NOUN: heden, stuk, keer, schouder</li>
-                <li>PRON: meer, minder, zo'n, Alles, Mijns, méér</li>
+                <li>PRON: meer, minder, Alles, Mijns, méér, zo'n</li>
                 <li>SCONJ: als</li>
                 <li>X: a, nota, per, vice</li>
               </ul>
@@ -1158,36 +1377,36 @@ udver: '2'
             </li>
             <li>PRON
               <ul>
-                <li>ADJ: 1e, eerste, 4e, Tweede, half</li>
+                <li>ADJ: 1e, 19e, 4e, Eerste, half, negentiende</li>
                 <li>ADP: van</li>
                 <li>DET: een, de</li>
-                <li>NUM: 1, 10, 15, 2, 7, 9, 14, 16, 17, 30</li>
-                <li>PRON: Ik, zich, wat</li>
-                <li>X: 17, 1999, 2001, 4</li>
+                <li>NUM: 1, 10, 7, 15, 11, 18, 2, 13, 14, 9</li>
+                <li>PRON: Ik, we, zich, wat</li>
+                <li>X: 17, 2001, 4</li>
               </ul>
             </li>
             <li>PROPN
               <ul>
-                <li>ADJ: Amerikaanse, Koninklijke, Buitenlandse, Grote, Tweede, Binnenlandse, Eerste, Heilige, Witte, Economische</li>
-                <li>ADP: Op, van, In, Over, Voor, Zonder</li>
-                <li>ADV: Zoo, Anders, niet, Al</li>
-                <li>DET: de, het, 't, Een, Der, d'n, den</li>
+                <li>ADJ: Amerikaanse, Koninklijke, Buitenlandse, Grote, Tweede, Vlaamse, Binnenlandse, Eerste, Heilige, Witte</li>
+                <li>ADP: van, In, Op, Over, Voor</li>
+                <li>ADV: Anders, niet, Zoo</li>
+                <li>DET: de, het, 't, Der, Een, d'n, den</li>
                 <li>INTJ: Hiep</li>
-                <li>NOUN: Prinses, Huis, Lam, Vrede, Operatie, Aartshertogin, Sportvrouw, kabinet-Van, Koning, Hertogdom</li>
-                <li>NUM: Vier, 29, Acht, Achttien, Tien</li>
-                <li>PRON: Hare, Zijne, Alles, Ik, we, Het, Mijn, Minder, Ons</li>
-                <li>PROPN: Suske, Brabant, Kuifje, Boudewijn, Christus, Jehovah's, Philips, Antwerpen, Boelwerf, Euronext</li>
-                <li>SYM: «, '</li>
-                <li>VERB-Fin: Doe, Red, Spaar, Wordt, Zorg, eet</li>
-                <li>VERB-Inf: Zwijgen</li>
-                <li>VERB-Part: Herrezen, Verenigde, Aangaande, Jammerende, Beloofde, Geërgerde, Vergelijkende, Verzameld, persoonsgebonden</li>
+                <li>NOUN: Prinses, Slag, Huis, Prins, Lam, Operatie, Vrede, Aartshertogin, Sportvrouw, Koning</li>
+                <li>NUM: Vier, Acht, Tien</li>
+                <li>PRON: Alles, Het, Minder, Ons</li>
+                <li>PROPN: Suske, Brabant, Kuifje, Boudewijn, Christus, Philips, Madonna, Boelwerf, Euronext, God</li>
+                <li>SCONJ: Als</li>
+                <li>SYM: «</li>
+                <li>VERB-Fin: Red, Spaar, Wordt, Zorg, eet</li>
+                <li>VERB-Part: Herrezen, Aangaande, Jammerende, Beloofde, Geërgerde, Verenigde, Vergelijkende, Verzameld, persoonsgebonden</li>
                 <li>X: the, Star, Army, Les, grand, la, le, I, Purple, Sign</li>
               </ul>
             </li>
             <li>SCONJ
               <ul>
                 <li>ADP: aan, in, ten, te, voor, door</li>
-                <li>ADV: zo, Alleen</li>
+                <li>ADV: zo, Alleen, Nog</li>
                 <li>CCONJ: maar, en</li>
                 <li>PRON: dat</li>
                 <li>VERB-Fin: zij, laat</li>
@@ -1205,7 +1424,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>X: the, fancy, ad, a, in, of, Grand, fiction, to, world</li>
+                <li>X: fancy, the, ad, of, a, in, fiction, to, world, de</li>
               </ul>
             </li>
           </ul>
@@ -1268,14 +1487,16 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (3748)</li>
-            <li>VERB-Fin--NOUN-ADP(op) (1)</li>
-            <li>VERB-Fin--PRON (1785)</li>
-            <li>VERB-Fin--PRON-Nom (2618)</li>
+            <li>VERB--PRON-Nom (1)</li>
+            <li>VERB-Fin--NOUN (3746)</li>
+            <li>VERB-Fin--NOUN-ADP(van) (1)</li>
+            <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
+            <li>VERB-Fin--PRON (1783)</li>
+            <li>VERB-Fin--PRON-Nom (2617)</li>
             <li>VERB-Inf--NOUN (594)</li>
             <li>VERB-Inf--PRON (314)</li>
             <li>VERB-Inf--PRON-Nom (554)</li>
-            <li>VERB-Part--NOUN (807)</li>
+            <li>VERB-Part--NOUN (805)</li>
             <li>VERB-Part--PRON (284)</li>
             <li>VERB-Part--PRON-Nom (514)</li>
           </ul>
@@ -1290,13 +1511,14 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN (4899)</li>
-            <li>VERB-Fin--PRON (2152)</li>
+            <li>VERB-Fin--NOUN-ADP(bij) (1)</li>
+            <li>VERB-Fin--PRON (2150)</li>
             <li>VERB-Fin--PRON-Nom (1599)</li>
             <li>VERB-Inf--NOUN (536)</li>
             <li>VERB-Inf--PRON (299)</li>
             <li>VERB-Inf--PRON-Nom (280)</li>
             <li>VERB-Part--NOUN (529)</li>
-            <li>VERB-Part--PRON (266)</li>
+            <li>VERB-Part--PRON (267)</li>
             <li>VERB-Part--PRON-Nom (188)</li>
           </ul>
         </li>
@@ -1308,13 +1530,15 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (2776)</li>
+            <li>VERB-Fin--NOUN (2777)</li>
+            <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
             <li>VERB-Fin--PRON (528)</li>
-            <li>VERB-Fin--PRON-Acc (211)</li>
-            <li>VERB-Inf--NOUN (1429)</li>
+            <li>VERB-Fin--PRON-Acc (210)</li>
+            <li>VERB-Inf--NOUN (1428)</li>
+            <li>VERB-Inf--NOUN-ADP(rond) (1)</li>
             <li>VERB-Inf--NOUN-ADP(voor) (1)</li>
             <li>VERB-Inf--PRON (265)</li>
-            <li>VERB-Inf--PRON-Acc (103)</li>
+            <li>VERB-Inf--PRON-Acc (102)</li>
             <li>VERB-Part--NOUN (721)</li>
             <li>VERB-Part--PRON (183)</li>
             <li>VERB-Part--PRON-Acc (48)</li>
@@ -1326,18 +1550,18 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (3938)</li>
+            <li>VERB-Fin--NOUN (3939)</li>
             <li>VERB-Fin--NOUN-ADP(aan) (1)</li>
             <li>VERB-Fin--NOUN-ADP(van) (1)</li>
-            <li>VERB-Fin--PRON (391)</li>
-            <li>VERB-Fin--PRON-Acc (226)</li>
-            <li>VERB-Inf--NOUN (1835)</li>
+            <li>VERB-Fin--PRON (390)</li>
+            <li>VERB-Fin--PRON-Acc (232)</li>
+            <li>VERB-Inf--NOUN (1834)</li>
             <li>VERB-Inf--PRON (197)</li>
-            <li>VERB-Inf--PRON-Acc (168)</li>
+            <li>VERB-Inf--PRON-Acc (171)</li>
             <li>VERB-Inf--PRON-Nom (2)</li>
             <li>VERB-Part--NOUN (449)</li>
-            <li>VERB-Part--PRON (86)</li>
-            <li>VERB-Part--PRON-Acc (14)</li>
+            <li>VERB-Part--PRON (87)</li>
+            <li>VERB-Part--PRON-Acc (15)</li>
           </ul>
         </li>
       </ul>
@@ -1368,10 +1592,10 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--NOUN (50)</li>
+            <li>VERB-Fin--NOUN (51)</li>
             <li>VERB-Fin--PRON (3)</li>
             <li>VERB-Fin--PRON-Acc (49)</li>
-            <li>VERB-Inf--NOUN (34)</li>
+            <li>VERB-Inf--NOUN (35)</li>
             <li>VERB-Inf--PRON (2)</li>
             <li>VERB-Inf--PRON-Acc (17)</li>
             <li>VERB-Part--NOUN (22)</li>
@@ -1389,14 +1613,14 @@ udver: '2'
       <h3>Reflexive Verbs</h3>
       
       <ul>
-        <li>This corpus contains 169 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, voor_doen zich, bewust zich, voelen zich, af_vragen zich, laten zich, maken zich, tonen zich, melden zich, ontwikkelen zich, plaatsen zich, af_spelen zich, bewegen zich, mee_brengen zich, richten zich, uit_spreken zich, aan_melden zich, begeven zich, beraden zich, concentreren zich, houden zich, op_stellen zich, vergissen zich, af_scheiden zich, af_vragen me, gedragen zich, herstellen zich, stellen zich, voelen me, voelen ons, voltrekken zich, wagen zich, wreken zich, af_vragen ons, begeven ons, beperken zich, buigen zich, mengen zich, permitteren zich, schamen je, schamen zich, terug_vechten zich, toe_leggen zich, verzetten zich, aan_sluiten zich, aan_trekken zich, af_wenden zich, beklagen me, bemoeien zich, bloot_geven zich</li>
+        <li>This corpus contains 171 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, voor_doen zich, bewust zich, voelen zich, af_vragen zich, laten zich, maken zich, tonen zich, melden zich, ontwikkelen zich, plaatsen zich, af_spelen zich, bewegen zich, mee_brengen zich, richten zich, uit_spreken zich, aan_melden zich, begeven zich, beraden zich, concentreren zich, houden zich, op_stellen zich, vergissen zich, af_scheiden zich, af_vragen me, gedragen zich, herstellen zich, stellen zich, voelen me, voelen ons, voltrekken zich, wagen zich, wreken zich, af_vragen ons, begeven ons, beperken zich, buigen zich, mengen zich, permitteren zich, schamen je, schamen zich, terug_vechten zich, toe_leggen zich, verzetten zich, aan_sluiten zich, aan_trekken zich, af_wenden zich, beklagen me, bemoeien zich, bloot_geven zich</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Reflexive Verbs</h3>
       
       <ul>
-        <li>This corpus contains 166 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, vestigen zich, voelen zich, over_geven zich, aan_sluiten zich, richten zich, ontwikkelen zich, af_spelen zich, herstellen zich, uit_strekken zich, maken zich, op_stellen zich, verenigen zich, voor_doen zich, keren zich, tonen zich, verzetten zich, bemoeien zich, verplaatsen zich, af_scheiden zich, kenmerken zich, nemen zich, ontpoppen zich, scharen zich, uit_spreken zich, verklaren zich, zien zich, bekeren zich, concentreren zich, manifesteren zich, melden zich, realiseren me, realiseren zich, voegen zich, voor_stellen zich, aan_melden zich, aan_passen zich, af_vragen zich, af_zonderen zich, beperken zich, gedragen zich, neer_leggen zich, onttrekken zich, stellen zich, storten zich, toe_leggen zich, wenden zich, aan_trekken zich, aaneen_sluiten zich, af_vragen me</li>
+        <li>This corpus contains 160 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, vestigen zich, voelen zich, over_geven zich, aan_sluiten zich, richten zich, ontwikkelen zich, af_spelen zich, herstellen zich, uit_strekken zich, maken zich, op_stellen zich, verenigen zich, voor_doen zich, tonen zich, verzetten zich, bemoeien zich, keren zich, nemen zich, verplaatsen zich, af_scheiden zich, kenmerken zich, ontpoppen zich, scharen zich, uit_spreken zich, verklaren zich, zien zich, bekeren zich, concentreren zich, manifesteren zich, melden zich, realiseren me, realiseren zich, voegen zich, voor_stellen zich, aan_melden zich, af_vragen zich, af_zonderen zich, beperken zich, gedragen zich, neer_leggen zich, onttrekken zich, stellen zich, storten zich, toe_leggen zich, wenden zich, aan_passen zich, aan_trekken zich, aaneen_sluiten zich, af_vragen me</li>
       </ul>
     </td>
   </tr>
@@ -1413,7 +1637,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 85 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bezig_houden zich, stellen zich, houden zich, aan_sluiten zich, handhaven zich, laten zich, maken zich, uit_breiden zich, voor_bereiden zich, aan_schaffen zich, achten zich, interesseren zich, noemen zich, om_vormen zich, prikken zichzelf, redden zich, uit_strekken zich, versterken zich, verwonden zichzelf, wassen zich, wringen zich, zien zich, aan_bieden zich, aan_kondigen zich, aan_stellen zichzelf, aaneen_sluiten zich, afficheren zich, bekeren zich, belasten zich, beschermen zich, binden zich, blesseren zich, chanteren zich, dekken zich, doen zichzelf, dringen zich, dupliceren zich, emanciperen zich, forceren zich, fêteren zich, geven zich, herhalen zichzelf, in_kapselen zich, installeren zich, intimideren zich, kennen zich, los_maken zich, misbruiken zich, nemen zich, noemen zichzelf</li>
+        <li>This corpus contains 84 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bezig_houden zich, stellen zich, houden zich, aan_sluiten zich, handhaven zich, laten zich, maken zich, uit_breiden zich, voor_bereiden zich, aan_schaffen zich, achten zich, interesseren zich, noemen zich, om_vormen zich, prikken zichzelf, redden zich, uit_strekken zich, versterken zich, verwonden zichzelf, wassen zich, wringen zich, zien zich, aan_bieden zich, aan_kondigen zich, aan_stellen zichzelf, aaneen_sluiten zich, afficheren zich, bekeren zich, belasten zich, beschermen zich, binden zich, blesseren zich, chanteren zich, dekken zich, doen zichzelf, dringen zich, dupliceren zich, emanciperen zich, forceren zich, fêteren zich, geven zich, herhalen zichzelf, in_kapselen zich, installeren zich, intimideren zich, kennen zich, los_maken zich, misbruiken zich, nemen zich, noemen zichzelf</li>
           <ul>
             <li>Out of those, 4 lemmas occurred more than once, but never without a reflexive dependent. Examples: aan_schaffen, om_vormen, uit_strekken, wringen</li>
           </ul>
@@ -1423,7 +1647,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 91 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: terug_trekken zich, houden zich, bezig_houden zich, noemen zich, laten zich, noemen zichzelf, in_schrijven zich, organiseren zich, uit_breiden zich, uit_roepen zich, handhaven zich, op_merken zich, positioneren zich, verdedigen zich, beschouwen zich, interesseren zich, onthouden zich, uit_roepen zichzelf, verzekeren zich, verzekeren zichzelf, zien zich, af_splitsen zich, banen zich, beschermen zich, beschermen zichzelf, beschrijven zichzelf, betonen zichzelf, bevrijden zich, blesseren zich, brengen zich, brouilleren zich, centreren zich, compenseren zichzelf, consolideren zich, doen zich, dood_vechten zich, door_zetten zich, draaien zich, hergroeperen zich, hullen zich, in_spinnen zich, introduceren zich, kruisen zich, leggen zich, leren zichzelf, liggen zich, los_maken zich, los_werken zichzelf, maken zich, onder_dompelen zich</li>
+        <li>This corpus contains 98 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: terug_trekken zich, houden zich, bezig_houden zich, noemen zich, laten zich, noemen zichzelf, in_schrijven zich, organiseren zich, uit_breiden zich, uit_roepen zich, handhaven zich, op_merken zich, positioneren zich, verdedigen zich, beschouwen zich, interesseren zich, onthouden zich, uit_roepen zichzelf, verbinden zich, verzekeren zich, verzekeren zichzelf, zien zich, aan_passen zich, af_sluiten zichzelf, af_splitsen zich, banen zich, beschermen zich, beschermen zichzelf, beschrijven zichzelf, betonen zichzelf, bevrijden zich, binden zich, blesseren zich, brengen zich, brouilleren zich, centreren zich, compenseren zichzelf, consolideren zich, doen zich, dood_vechten zich, door_zetten zich, draaien zich, hergroeperen zich, hullen zich, identificeren zich, in_spinnen zich, introduceren zich, keren zich, kruisen zich, leggen zich</li>
           <ul>
             <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: bezig_houden</li>
           </ul>
@@ -1435,7 +1659,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
@@ -1444,7 +1668,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>

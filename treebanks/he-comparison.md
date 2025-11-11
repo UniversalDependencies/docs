@@ -756,7 +756,7 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>ADP: את, את_, אתכם, אתו, אתם</li>
+            <li>ADP: את, את_, אתכם, אתם</li>
             <li>PRON: _הוא, _הם, _היא, _הן, _אני, _אתה, _אתם</li>
           </ul>
         </li>
@@ -1624,7 +1624,7 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: איך, למה, האם, איפה, מדוע, מה, כיצד, לאן, היכן, מתי</li>
+            <li>ADV: איך, למה, האם, איפה, מדוע, מה, כיצד, לאן, מתי, היכן</li>
             <li>DET: איזו, אלו, כמה</li>
             <li>PRON: מה, מי, מתי, מהי, מהם, מיהו</li>
           </ul>
@@ -2141,6 +2141,99 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADJ: נכון</li>
+                <li>ADP: על, ב, מעבר, תוך, עד, מחוץ, אחר, בניגוד, מ, קודם</li>
+                <li>ADV: יחד, אף, מסביב, ביחד, פחות</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: יותר, קודם, ב, למעלה, סוף, אט, עוד, פחות, אף, בוודאי</li>
+                <li>DET: כל</li>
+                <li>NOUN: דרך</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: ו</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>PRON: איזה</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: כדי, עד, בגלל, כמו, למרות, אחרי, לפני, על, בזמן, בעוד</li>
+                <li>ADV: כך, בייחוד, מה, היכן</li>
+                <li>CCONJ: אף</li>
+                <li>DET: כל, כמה</li>
+                <li>PRON: מה</li>
+                <li>SCONJ: כפי, משום, ככל, מכיוון, היות, אם, כיוון, מאחר, בהינתן, בזמן</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADJ: נכון, סמוך</li>
+                <li>ADP: על, ב, מ, עד, מתחת, אל, ל, בניגוד, החל, תוך</li>
+                <li>ADV: יחד, במקביל, נכון, ב, יותר, יחסית, פחות</li>
+                <li>NOUN: מעבר</li>
+                <li>SCONJ: אשר, כש, מכיוון</li>
+                <li>VERB-Inf: להבדיל, בהתחשב</li>
+                <li>VERB-Part: כולל</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADJ: נוסף, יתרה, קל, קרוב</li>
+                <li>ADP: ב, ל, כמו, לאחר, על, מ, עד, קרוב, אחר, בין</li>
+                <li>ADV: קודם, יותר, מאוחר, ב, עד, פחות, למעלה, על, אי, כ</li>
+                <li>DET: כל</li>
+                <li>NOUN: בד, סך</li>
+                <li>SCONJ: ככל, אי, אם</li>
+                <li>X: דה</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADP: כמו</li>
+                <li>CCONJ: ו</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: על, עד, לאחר, ב, אחרי, בעוד, לפני, מ, תוך, כדי</li>
+                <li>ADV: כך, אף, מאז</li>
+                <li>CCONJ: אף, אלא, קרי</li>
+                <li>PRON: מה</li>
+                <li>SCONJ: כפי, כיוון, אם, ככל, מאחר, משום, מכיוון, אף, בעוד, היות</li>
+                <li>VERB: היה</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
         <li><a>Foreign</a>
           <ul>
             <li>Yes
@@ -2437,16 +2530,15 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>ADJ: פרד</li>
-                <li>ADP: בפנ, הם, כמן, לידי, ה</li>
-                <li>ADV: הינה, מדיי</li>
+                <li>ADP: הם, כמן</li>
+                <li>ADV: מדיי</li>
                 <li>DET: איזושהי, אלו</li>
-                <li>NOUN: אימא, ועדת, חבר, יד, כפ, כשרויות, עינ, שמים, תופעות</li>
-                <li>PRON: ה</li>
-                <li>PROPN: ד', מפשטים</li>
+                <li>NOUN: אימא, ועדת, כשרויות, תופעות</li>
+                <li>PROPN: ד'</li>
                 <li>SCONJ: כשאשר, מאיו</li>
-                <li>VERB: ייצאו, היתה, הרמת, לתבוע, מחייב, מציע, נהייה, נקבע, נקראה</li>
+                <li>VERB: ייצאו, היתה, לתבוע, מציע, נקראה</li>
                 <li>VERB-Inf: לתבוע</li>
-                <li>VERB-Part: מחייב, מציע, נהייה</li>
+                <li>VERB-Part: מציע</li>
               </ul>
             </li>
           </ul>
@@ -2459,19 +2551,16 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: אורינטליסטית, אמריקני, מונומטאלי, מזרחית, מינהלית, מקומית, עולמי, קשה, ששית</li>
-                <li>ADP: אחר, לפני, עמ</li>
-                <li>ADV: מיד, מינהלית, מספיקות</li>
+                <li>ADJ: מונומטאלי, מקומית, עולמי, קשה</li>
+                <li>ADP: לפני, אחר</li>
+                <li>ADV: מינהלית, מספיקות</li>
                 <li>AUX: הייתה, היה, אמור</li>
                 <li>CCONJ: אלה</li>
-                <li>DET: ב</li>
-                <li>NOUN: כל, לדה, מסים, מעין, נייטרון, נייטרליות, צד, אב, אמר, דוחו"ת</li>
-                <li>NUM: ארבע</li>
-                <li>PRON: הם, זה, אותם, ה, ו, ם, ן</li>
-                <li>PROPN: דפטריה, קרית</li>
+                <li>NOUN: נייטרון, נייטרליות, אב, דוחו"ת, המקמת, וועידה, יד, יוצרים, ישוב, כללי</li>
+                <li>PRON: זה</li>
                 <li>PUNCT: '</li>
-                <li>VERB: איפשר, איפשרה, איפשרו, אירע, בוצע, הגיע, הובהר, הופרדה, היקנו, יאלצו</li>
-                <li>VERB-Part: מעידה, מקנה, נתמך</li>
+                <li>VERB: איפשר, איפשרה, איפשרו, אירע, הובהר, הופרדה, יהנה, מעידה, ניכנס, נכלל</li>
+                <li>VERB-Part: מעידה, נתמך</li>
                 <li>X: א</li>
               </ul>
             </li>
@@ -2619,7 +2708,6 @@ udver: '2'
             <li>VERB--NOUN-ADP(מעל) (1)</li>
             <li>VERB--PRON (397)</li>
             <li>VERB--PRON-ADP(כ) (2)</li>
-            <li>VERB--PRON-ADP(מתוך) (1)</li>
             <li>VERB-Inf--NOUN (89)</li>
             <li>VERB-Inf--PRON (144)</li>
             <li>VERB-Part--NOUN (366)</li>
@@ -2636,14 +2724,14 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (2264)</li>
+            <li>VERB--NOUN (2267)</li>
             <li>VERB--NOUN-ADP(את) (3)</li>
             <li>VERB--NOUN-ADP(מ) (1)</li>
             <li>VERB--NOUN-ADP(משום) (1)</li>
             <li>VERB--PRON (217)</li>
             <li>VERB-Inf--NOUN (115)</li>
             <li>VERB-Inf--PRON (19)</li>
-            <li>VERB-Part--NOUN (820)</li>
+            <li>VERB-Part--NOUN (821)</li>
             <li>VERB-Part--PRON (159)</li>
           </ul>
         </li>
@@ -2655,19 +2743,19 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (1391)</li>
+            <li>VERB--NOUN (1387)</li>
             <li>VERB--NOUN-ADP(ב) (1)</li>
             <li>VERB--NOUN-ADP(כ) (9)</li>
             <li>VERB--NOUN-ADP(מ) (6)</li>
-            <li>VERB--PRON (162)</li>
+            <li>VERB--PRON (161)</li>
             <li>VERB--PRON-Acc-ADP(את) (8)</li>
             <li>VERB-Inf--NOUN (1007)</li>
             <li>VERB-Inf--NOUN-ADP(כ) (1)</li>
-            <li>VERB-Inf--PRON (91)</li>
+            <li>VERB-Inf--PRON (90)</li>
             <li>VERB-Inf--PRON-Acc-ADP(את) (38)</li>
-            <li>VERB-Part--NOUN (755)</li>
+            <li>VERB-Part--NOUN (753)</li>
             <li>VERB-Part--NOUN-ADP(כ) (2)</li>
-            <li>VERB-Part--PRON (97)</li>
+            <li>VERB-Part--PRON (96)</li>
             <li>VERB-Part--PRON-Acc-ADP(את) (2)</li>
           </ul>
         </li>
@@ -2678,15 +2766,14 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (248)</li>
-            <li>VERB--NOUN-ADP(את) (237)</li>
+            <li>VERB--NOUN-ADP(את) (236)</li>
             <li>VERB--PRON (23)</li>
-            <li>VERB--PRON-ADP(את) (116)</li>
+            <li>VERB--PRON-ADP(את) (114)</li>
             <li>VERB--PRON-Acc (3)</li>
-            <li>VERB--PRON-Acc-ADP(את) (1)</li>
             <li>VERB-Inf--NOUN (306)</li>
-            <li>VERB-Inf--NOUN-ADP(את) (277)</li>
+            <li>VERB-Inf--NOUN-ADP(את) (274)</li>
             <li>VERB-Inf--PRON (20)</li>
-            <li>VERB-Inf--PRON-ADP(את) (145)</li>
+            <li>VERB-Inf--PRON-ADP(את) (143)</li>
             <li>VERB-Inf--PRON-Acc (6)</li>
             <li>VERB-Part--NOUN (198)</li>
             <li>VERB-Part--NOUN-ADP(את) (201)</li>
@@ -2702,26 +2789,24 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (758)</li>
+            <li>VERB--NOUN (755)</li>
             <li>VERB--NOUN-ADP(אֶת) (1)</li>
             <li>VERB--NOUN-ADP(את) (571)</li>
             <li>VERB--NOUN-ADP(ב) (1)</li>
             <li>VERB--NOUN-ADP(יותר) (1)</li>
-            <li>VERB--NOUN-ADP(כמו)-ADP(את) (1)</li>
-            <li>VERB--NOUN-ADP(ל) (1)</li>
             <li>VERB--NOUN-ADP(מ) (2)</li>
             <li>VERB--PRON (13)</li>
             <li>VERB--PRON-ADP(את) (70)</li>
             <li>VERB--PRON-Acc (7)</li>
             <li>VERB--PRON-Acc-ADP(יד) (1)</li>
             <li>VERB--PRON-Gen-ADP(את) (2)</li>
-            <li>VERB-Inf--NOUN (354)</li>
-            <li>VERB-Inf--NOUN-ADP(את) (349)</li>
+            <li>VERB-Inf--NOUN (353)</li>
+            <li>VERB-Inf--NOUN-ADP(את) (348)</li>
             <li>VERB-Inf--NOUN-ADP(את)-ADP(כ) (1)</li>
             <li>VERB-Inf--PRON (21)</li>
             <li>VERB-Inf--PRON-ADP(את) (31)</li>
             <li>VERB-Inf--PRON-Acc (29)</li>
-            <li>VERB-Part--NOUN (304)</li>
+            <li>VERB-Part--NOUN (303)</li>
             <li>VERB-Part--NOUN-ADP(את) (238)</li>
             <li>VERB-Part--NOUN-ADP(ל) (1)</li>
             <li>VERB-Part--NOUN-ADP(מ) (1)</li>
@@ -2737,6 +2822,9 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB--PRON (1)</li>
+            <li>VERB-Part--NOUN (2)</li>
+            <li>VERB-Part--PRON (1)</li>
           </ul>
         </li>
       </ul>
@@ -2745,6 +2833,10 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB--PRON-ADP(את) (2)</li>
+            <li>VERB--PRON-Acc-ADP(את) (1)</li>
+            <li>VERB-Inf--NOUN-ADP(את) (1)</li>
+            <li>VERB-Inf--PRON-ADP(את) (2)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
           </ul>
         </li>
@@ -2814,7 +2906,7 @@ udver: '2'
       <ul>
       <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-      <li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">

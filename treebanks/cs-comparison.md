@@ -76,7 +76,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 297 sentences, 6273 tokens and 6288 syntactic words.</li>
+      <li>This corpus contains 297 sentences, 6273 tokens and 6289 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -209,8 +209,8 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 15 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 12 types of multi-word tokens. Examples: aby, Abychom, Došels, abych, cítil's, kdybys, musil’s, nač, naň, si’s, tys, že’s.</li>
+      <li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 12 types of multi-word tokens. Examples: aby, naň, Abychom, Došels, abych, cítil's, kdybys, musil’s, nač, si’s, tys, že’s.</li>
       </ul>
     </td>
   </tr>
@@ -287,12 +287,12 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 124 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, stejně, tak, takříkajíc, teda, tedy, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
+      <li>This corpus contains 122 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, tak, takříkajíc, teda, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 156 word types tagged as particles (PART): Bodejť, Což, Cožpak, Díkybohu, Fajn, Jestlipak, Ještěže, Jistěť, Nashle, Nejenomže, Nu, Perfekt, Zaplaťpánbůh, akorát, ale, alespoň, ani, ano, arciť, asi, aspoň, ať, až, ba, bezesporu, beztak, bohudík, bohužel, budiž, byť, bůhsuď, bůhví, cca, cirka, co, copak, div, dobrá, dobře, doopravdy, fakt, hlavně, hned, houby, i, jako, jakoby, jakože, jakto, jasně, jen, jenom, ještě, jistě, jistěže, již, jo, kdepak, kdoví, když, kdyžtak, klidně, koneckonců, konečně, kupodivu, kurva, kéž, leda, li, možná, nakonec, naneštěstí, naopak, např, například, natož, nazdařbůh, naštěstí, ne, nechť, nejenže, nejspíš, nejspíše, nesporně, netto, nikoli, nikoliv, no, nuže, obzvláště, obzvlášť, ono, opravdu, ovšem, ovšemže, patrně, pouze, prakticky, pranic, pravda, prostě, proto, právě, právěže, prý, přece, přeci, především, přesně, přímo, relativně, rovněž, rozhodně, samozřejmě, sbohem, sice, skutečně, snad, sotva, spíš, spíše, stejně, stěží, tak, taky, také, takříkajíc, teda, tedy, to, totiž, tož, též, třeba, určitě, už, viď, viďte, vlastně, vole, však, vůbec, vždyť, zaplaťpánbu, zas, zase, zejm, zejména, zjevně, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že, žel</li>
+      <li>This corpus contains 153 word types tagged as particles (PART): Bodejť, Což, Cožpak, Díkybohu, Fajn, Jestlipak, Ještěže, Jistěť, Nashle, Nejenomže, Nu, Perfekt, Zaplaťpánbůh, akorát, ale, alespoň, ani, ano, arciť, asi, aspoň, ať, až, ba, bezesporu, beztak, bohudík, bohužel, budiž, byť, bůhsuď, bůhví, cca, cirka, co, copak, div, dobrá, dobře, doopravdy, fakt, hlavně, hned, houby, i, jako, jakože, jakto, jasně, jen, jenom, ještě, jistě, jistěže, již, jo, kdepak, kdoví, když, kdyžtak, klidně, koneckonců, konečně, kupodivu, kurva, kéž, leda, li, možná, nakonec, naneštěstí, naopak, např, například, natož, nazdařbůh, naštěstí, ne, nechť, nejenže, nejspíš, nejspíše, nesporně, netto, nikoli, nikoliv, no, nuže, obzvláště, obzvlášť, ono, opravdu, ovšem, ovšemže, patrně, pouze, prakticky, pranic, pravda, prostě, proto, právě, právěže, prý, přece, přeci, především, přesně, přímo, relativně, rovněž, rozhodně, samozřejmě, sbohem, sice, skutečně, snad, sotva, spíš, spíše, stěží, tak, taky, také, takříkajíc, teda, to, totiž, tož, též, třeba, určitě, už, viď, viďte, vlastně, vole, však, vůbec, vždyť, zaplaťpánbu, zas, zase, zejm, zejména, zjevně, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že, žel</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -334,7 +334,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 20 lemmas tagged as pronouns (PRON): co, cos, cosi, což, ego, jenž, já, kdo, naň, nic, nikdo, něco, on, se, si, ten, tu, ty, vlast, všecek</li>
+      <li>This corpus contains 19 lemmas tagged as pronouns (PRON): co, cos, cosi, což, ego, jenž, já, kdo, nic, nikdo, něco, on, se, si, ten, tu, ty, vlast, všecek</li>
       </ul>
     </td>
   </tr>
@@ -1169,7 +1169,6 @@ udver: '2'
             <li>PRON: jenž, mu, jež, ho, jej, kdo, ním, Němu, jemu, nikdo</li>
             <li>PROPN: Armand, Sion, Angelico, Armandovi, Azték, Bajušáku, Baudelaira, Chodováci, Diderota, Dudákovi</li>
             <li>VERB-Conv: Poslouchaje, cítě, hyna, podávaje, věře, žehnaje</li>
-            <li>VERB-Fin: vzbudil</li>
             <li>VERB-Part: měl, chtěl, poznali, viděl, ctil, šel, cítil, dal, klečel, kmital</li>
           </ul>
         </li>
@@ -1565,7 +1564,7 @@ udver: '2'
             <li>ADJ-Part: hynoucími, nalité, narozené, narozený, odervaném, odsouzený, odvrácené, roznícenými, rozrývaným, rušících</li>
             <li>DET: svůj, každý, které, náš, svém, ten, tvé, žádné, její, který</li>
             <li>NOUN: den, svět, květ, oheň, sen, život, dub, sny, života, hlas</li>
-            <li>PRON: co, jež, něho, cosi, jenž, nějž, něm, němž, všecky, číms</li>
+            <li>PRON: co, jež, něho, cosi, jenž, něj, nějž, něm, němž, všecky</li>
             <li>PROPN: Sion, Bajušáku, Garizim, Israele, Kamčadále, Kanaán, Londýn, Lumíru, Nilu, Řím</li>
             <li>VERB-Part: ctily, daly, hlučel, otvíraly, rozchvívaly, slívaly, voněly, vraždily, zdvíhaly, zjasnily</li>
           </ul>
@@ -1972,7 +1971,6 @@ udver: '2'
             <li>NUM: jeden, Deset, dvacet, jedna, jednom, jednou, jedné, tisícem</li>
             <li>PRON: mi, jež, já, ty, tě, jenž, mu, jí, ti, tobě</li>
             <li>PROPN: Maria, Armand, Labe, Sion, Svitava, Vltavy, Angelico, Armandovi, Azték, Bajušáku</li>
-            <li>VERB: měl, letí, chce, jde, zdá, chcem, chtěl, hledá, mám, viděl</li>
             <li>VERB-Conv: Poslouchaje, cítě, hyna, koře, podávaje, věře, řkouc, žehnaje</li>
             <li>VERB-Fin: letí, chce, jde, zdá, chcem, hledá, mám, vím, čeká, Plyň</li>
             <li>VERB-Part: měl, chtěl, viděl, ctil, šel, Rozhučela, cítil, dal, klečel, kmital</li>
@@ -2822,7 +2820,7 @@ udver: '2'
       <ul>
         <li>Pre
           <ul>
-            <li>PRON: nich, ním, níž, Němu, ni, nimž, něho, něj, němž, něž</li>
+            <li>PRON: nich, ním, níž, Němu, něj, ni, nimž, něho, němž, něž</li>
           </ul>
         </li>
       </ul>
@@ -3701,7 +3699,6 @@ udver: '2'
         <li>Perf
           <ul>
             <li>ADJ-Part: Oněmlé, Podťata, Rozcuchán, Zsinalá, narozené, narozený, nepoznaným, nezvrácen, oblečeny, obnažená</li>
-            <li>VERB: poznali, stojí, dáš, nech, padne, stát, Rozhučela, dal, dej, dejte</li>
             <li>VERB-Fin: stojí, dáš, nech, padne, dej, dejte, dám, povede, vstane, Dejž</li>
             <li>VERB-Inf: stát, říci, dopomoci, dát, naplnit, obléct, pomyslit, pozvednout, promluvit, prostřít</li>
             <li>VERB-Part: poznali, Rozhučela, dal, nechali, povylétla, vstal, vzrostla, zůstaly, Došel, Sklesl</li>
@@ -3908,8 +3905,6 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: je, jsem, jste, jest, jsi, jsou, budeš, bude, jsme, nejsem</li>
-            <li>VERB: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
-            <li>VERB-Conv: hyna, koře</li>
             <li>VERB-Fin: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
           </ul>
         </li>
@@ -4078,7 +4073,6 @@ udver: '2'
           <ul>
             <li>ADJ-Part: Oněmlé, odvrácené, seto, vypráhlé, ztuhlá</li>
             <li>AUX-Part: byl, bylo, Nebyla, byla, byli, byly, bývaly, jsi</li>
-            <li>VERB-Fin: vzbudil</li>
             <li>VERB-Part: měl, chtěl, poznali, viděl, ctil, šel, Rozhučela, cítil, dal, klečel</li>
           </ul>
         </li>
@@ -4156,7 +4150,6 @@ udver: '2'
           <ul>
             <li>ADJ-Part: Kypící, bijící, drtící, hořícího, hořícím, hynoucími, kající, mlčící, rušících, smilnící</li>
             <li>AUX-Fin: je, jsem, jste, jest, jsou, jsi, jsme, nejsem, nejsou, není</li>
-            <li>VERB: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
             <li>VERB-Conv: Poslouchaje, cítě, hyna, koře, podávaje, věře, řkouc, žehnaje</li>
             <li>VERB-Fin: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
           </ul>
@@ -4279,7 +4272,6 @@ udver: '2'
             <li>ADJ-Part: Kypící, Oněmlé, Zsinalá, bijící, budoucí, drtící, hořícího, hořícím, hynoucími, kající</li>
             <li>AUX-Fin: je, jsem, jste, jest, jsou, budeš, jsi, bude, jsme, nejsem</li>
             <li>AUX-Part: byl, bylo, Nebyla, byla, byli, byly, bývaly, jsi</li>
-            <li>VERB: jdou, letí, měl, chce, jde, zdá, chcem, chtěl, hledá, mám</li>
             <li>VERB-Conv: Poslouchaje, cítě, koře, podávaje, věře, řkouc, žehnaje</li>
             <li>VERB-Fin: jdou, letí, chce, jde, zdá, chcem, hledá, mám, stojí, vím</li>
             <li>VERB-Inf: stát</li>
@@ -4617,7 +4609,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: někdy, kdykoli, málokdy, několikrát, mnohokrát</li>
-            <li>DET: mnoho, několik, mnoha, někteří, některé, některých, několika, některá, jakoukoli, jakoukoliv</li>
+            <li>DET: mnoho, několik, více, mnoha, někteří, některé, některých, víc, několika, některá</li>
             <li>PRON: něco, někdo, kdokoli, kdokoliv, někoho, něčem, něčemu, něčím</li>
           </ul>
         </li>
@@ -4628,7 +4620,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: kdys, kdes, kdysi, někdy, odkuds</li>
-            <li>DET: tolika, nějaké</li>
+            <li>DET: tolika, málo, nějaké, více</li>
             <li>PRON: cosi, kdo, něco, číms</li>
           </ul>
         </li>
@@ -5729,7 +5721,6 @@ udver: '2'
             <li>AUX-Fin: je, jest, jsou, bude, nejsou, není, buď</li>
             <li>DET: jeho, jejich, jich, její, jehožto, jejichž, jejích</li>
             <li>PRON: mu, jí, je, ji, ho, jej, nich, ním, jich, Němu</li>
-            <li>VERB-Conv: hyna, koře</li>
             <li>VERB-Fin: jdou, letí, chce, jde, zdá, hledá, stojí, čeká, duje, hoří</li>
           </ul>
         </li>
@@ -7766,10 +7757,9 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Nom (1)</li>
             <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Gen (2)</li>
-            <li>VERB-Fin--NOUN-Nom (140)</li>
+            <li>VERB-Fin--NOUN-Nom (141)</li>
             <li>VERB-Fin--PRON-Nom (41)</li>
             <li>VERB-Part--NOUN-Acc (1)</li>
             <li>VERB-Part--NOUN-Nom (80)</li>
@@ -7788,28 +7778,28 @@ udver: '2'
             <li>VERB-Conv--NOUN-Gen (1)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN (3)</li>
-            <li>VERB-Fin--NOUN-Acc (5647)</li>
+            <li>VERB-Fin--NOUN-Acc (5619)</li>
             <li>VERB-Fin--NOUN-Gen (149)</li>
-            <li>VERB-Fin--NOUN-Nom (102)</li>
+            <li>VERB-Fin--NOUN-Nom (85)</li>
             <li>VERB-Fin--PRON (18)</li>
-            <li>VERB-Fin--PRON-Acc (631)</li>
+            <li>VERB-Fin--PRON-Acc (629)</li>
             <li>VERB-Fin--PRON-Gen (4)</li>
             <li>VERB-Fin--PRON-Nom (6)</li>
             <li>VERB-Inf--NOUN (5)</li>
-            <li>VERB-Inf--NOUN-Acc (3558)</li>
+            <li>VERB-Inf--NOUN-Acc (3542)</li>
             <li>VERB-Inf--NOUN-Gen (34)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
-            <li>VERB-Inf--NOUN-Nom (27)</li>
+            <li>VERB-Inf--NOUN-Nom (23)</li>
             <li>VERB-Inf--PRON (6)</li>
-            <li>VERB-Inf--PRON-Acc (385)</li>
+            <li>VERB-Inf--PRON-Acc (383)</li>
             <li>VERB-Inf--PRON-Gen (2)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN (20)</li>
-            <li>VERB-Part--NOUN-Acc (2820)</li>
+            <li>VERB-Part--NOUN-Acc (2814)</li>
             <li>VERB-Part--NOUN-Gen (124)</li>
-            <li>VERB-Part--NOUN-Nom (17)</li>
+            <li>VERB-Part--NOUN-Nom (14)</li>
             <li>VERB-Part--PRON (16)</li>
-            <li>VERB-Part--PRON-Acc (384)</li>
+            <li>VERB-Part--PRON-Acc (383)</li>
             <li>VERB-Part--PRON-Gen (5)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
           </ul>
@@ -7820,7 +7810,7 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Acc (425)</li>
+            <li>VERB-Fin--NOUN-Acc (424)</li>
             <li>VERB-Fin--NOUN-Gen (2)</li>
             <li>VERB-Fin--NOUN-Nom (87)</li>
             <li>VERB-Fin--PRON-Acc (12)</li>
@@ -7841,24 +7831,24 @@ udver: '2'
             <li>VERB-Conv--NOUN-Acc (16)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1147)</li>
+            <li>VERB-Fin--NOUN-Acc (1143)</li>
             <li>VERB-Fin--NOUN-Gen (49)</li>
-            <li>VERB-Fin--NOUN-Nom (3)</li>
+            <li>VERB-Fin--NOUN-Nom (2)</li>
             <li>VERB-Fin--PRON (1)</li>
             <li>VERB-Fin--PRON-Acc (767)</li>
             <li>VERB-Fin--PRON-Gen (3)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
-            <li>VERB-Inf--NOUN-Acc (684)</li>
+            <li>VERB-Inf--NOUN-Acc (682)</li>
             <li>VERB-Inf--NOUN-Gen (19)</li>
             <li>VERB-Inf--NOUN-Nom (2)</li>
             <li>VERB-Inf--PRON (1)</li>
-            <li>VERB-Inf--PRON-Acc (475)</li>
+            <li>VERB-Inf--PRON-Acc (474)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
-            <li>VERB-Part--NOUN-Acc (2738)</li>
+            <li>VERB-Part--NOUN-Acc (2731)</li>
             <li>VERB-Part--NOUN-Gen (79)</li>
-            <li>VERB-Part--NOUN-Nom (13)</li>
+            <li>VERB-Part--NOUN-Nom (4)</li>
             <li>VERB-Part--PRON (7)</li>
-            <li>VERB-Part--PRON-Acc (1350)</li>
+            <li>VERB-Part--PRON-Acc (1346)</li>
             <li>VERB-Part--PRON-Gen (3)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
           </ul>
@@ -7872,43 +7862,43 @@ udver: '2'
             <li>VERB-Conv--NOUN (1)</li>
             <li>VERB-Conv--NOUN-Acc (42)</li>
             <li>VERB-Conv--PRON-Acc (3)</li>
-            <li>VERB-Fin--NOUN (162)</li>
-            <li>VERB-Fin--NOUN-Acc (31538)</li>
-            <li>VERB-Fin--NOUN-Gen (1608)</li>
+            <li>VERB-Fin--NOUN (160)</li>
+            <li>VERB-Fin--NOUN-Acc (31410)</li>
+            <li>VERB-Fin--NOUN-Gen (1606)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(na) (7)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(o) (4)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(pod) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(za) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (335)</li>
+            <li>VERB-Fin--NOUN-Nom (291)</li>
             <li>VERB-Fin--NOUN-Voc (4)</li>
             <li>VERB-Fin--PRON (28)</li>
-            <li>VERB-Fin--PRON-Acc (5223)</li>
+            <li>VERB-Fin--PRON-Acc (5213)</li>
             <li>VERB-Fin--PRON-Gen (25)</li>
             <li>VERB-Fin--PRON-Nom (26)</li>
             <li>VERB-Inf--NOUN (82)</li>
-            <li>VERB-Inf--NOUN-Acc (18744)</li>
+            <li>VERB-Inf--NOUN-Acc (18699)</li>
             <li>VERB-Inf--NOUN-Gen (601)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(na) (5)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
-            <li>VERB-Inf--NOUN-Nom (108)</li>
+            <li>VERB-Inf--NOUN-Nom (93)</li>
             <li>VERB-Inf--NOUN-Voc (1)</li>
             <li>VERB-Inf--PRON (2)</li>
-            <li>VERB-Inf--PRON-Acc (3213)</li>
+            <li>VERB-Inf--PRON-Acc (3204)</li>
             <li>VERB-Inf--PRON-Gen (5)</li>
             <li>VERB-Inf--PRON-Nom (50)</li>
-            <li>VERB-Part--NOUN (160)</li>
-            <li>VERB-Part--NOUN-Acc (36192)</li>
-            <li>VERB-Part--NOUN-Gen (1877)</li>
+            <li>VERB-Part--NOUN (156)</li>
+            <li>VERB-Part--NOUN-Acc (36088)</li>
+            <li>VERB-Part--NOUN-Gen (1875)</li>
             <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
             <li>VERB-Part--NOUN-Gen-ADP(z) (2)</li>
-            <li>VERB-Part--NOUN-Nom (272)</li>
+            <li>VERB-Part--NOUN-Nom (235)</li>
             <li>VERB-Part--NOUN-Voc (9)</li>
             <li>VERB-Part--PRON (54)</li>
-            <li>VERB-Part--PRON-Acc (6587)</li>
+            <li>VERB-Part--PRON-Acc (6542)</li>
             <li>VERB-Part--PRON-Gen (21)</li>
-            <li>VERB-Part--PRON-Nom (11)</li>
+            <li>VERB-Part--PRON-Nom (10)</li>
           </ul>
         </li>
       </ul>
@@ -7945,15 +7935,14 @@ udver: '2'
           <ul>
             <li>VERB-Conv--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Acc (89)</li>
-            <li>VERB-Fin--PRON-Acc (34)</li>
+            <li>VERB-Fin--PRON-Acc (33)</li>
             <li>VERB-Inf--NOUN-Acc (24)</li>
-            <li>VERB-Inf--PRON (1)</li>
             <li>VERB-Inf--PRON-Acc (2)</li>
             <li>VERB-Inf--PRON-Gen (1)</li>
             <li>VERB-Part--NOUN-Acc (51)</li>
             <li>VERB-Part--NOUN-Gen (1)</li>
             <li>VERB-Part--NOUN-Nom (1)</li>
-            <li>VERB-Part--PRON-Acc (23)</li>
+            <li>VERB-Part--PRON-Acc (24)</li>
           </ul>
         </li>
       </ul>
@@ -7965,19 +7954,19 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN (3)</li>
-            <li>VERB-Fin--NOUN-Acc (13)</li>
+            <li>VERB-Fin--NOUN-Acc (17)</li>
             <li>VERB-Fin--NOUN-Nom (9)</li>
-            <li>VERB-Fin--PRON-Acc (8)</li>
+            <li>VERB-Fin--PRON-Acc (10)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Inf--NOUN (2)</li>
-            <li>VERB-Inf--NOUN-Acc (5)</li>
+            <li>VERB-Inf--NOUN-Acc (7)</li>
             <li>VERB-Inf--NOUN-Gen (1)</li>
-            <li>VERB-Inf--NOUN-Nom (3)</li>
-            <li>VERB-Inf--PRON-Acc (3)</li>
+            <li>VERB-Inf--NOUN-Nom (4)</li>
+            <li>VERB-Inf--PRON-Acc (5)</li>
             <li>VERB-Part--NOUN (1)</li>
-            <li>VERB-Part--NOUN-Acc (15)</li>
+            <li>VERB-Part--NOUN-Acc (17)</li>
             <li>VERB-Part--NOUN-Nom (5)</li>
-            <li>VERB-Part--PRON-Acc (9)</li>
+            <li>VERB-Part--PRON-Acc (10)</li>
           </ul>
         </li>
       </ul>
@@ -7986,6 +7975,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB-Fin--NOUN-Acc (1)</li>
           </ul>
         </li>
       </ul>
@@ -7997,11 +7987,11 @@ udver: '2'
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN-Acc (2)</li>
             <li>VERB-Fin--PRON-Acc (10)</li>
-            <li>VERB-Inf--NOUN-Acc (4)</li>
-            <li>VERB-Inf--PRON-Acc (5)</li>
-            <li>VERB-Part--NOUN-Acc (19)</li>
+            <li>VERB-Inf--NOUN-Acc (6)</li>
+            <li>VERB-Inf--PRON-Acc (6)</li>
+            <li>VERB-Part--NOUN-Acc (20)</li>
             <li>VERB-Part--NOUN-Gen (1)</li>
-            <li>VERB-Part--PRON-Acc (45)</li>
+            <li>VERB-Part--PRON-Acc (49)</li>
           </ul>
         </li>
       </ul>
@@ -8010,30 +8000,30 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--NOUN (6)</li>
-            <li>VERB-Fin--NOUN-Acc (123)</li>
-            <li>VERB-Fin--NOUN-Gen (9)</li>
+            <li>VERB-Fin--NOUN (7)</li>
+            <li>VERB-Fin--NOUN-Acc (134)</li>
+            <li>VERB-Fin--NOUN-Gen (10)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(na) (9)</li>
             <li>VERB-Fin--NOUN-Nom (30)</li>
             <li>VERB-Fin--PRON (1)</li>
-            <li>VERB-Fin--PRON-Acc (49)</li>
+            <li>VERB-Fin--PRON-Acc (55)</li>
             <li>VERB-Fin--PRON-Nom (3)</li>
             <li>VERB-Inf--NOUN (9)</li>
-            <li>VERB-Inf--NOUN-Acc (98)</li>
+            <li>VERB-Inf--NOUN-Acc (104)</li>
             <li>VERB-Inf--NOUN-Gen (11)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(k) (1)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(za) (1)</li>
             <li>VERB-Inf--NOUN-Nom (12)</li>
             <li>VERB-Inf--PRON (1)</li>
-            <li>VERB-Inf--PRON-Acc (33)</li>
-            <li>VERB-Part--NOUN (28)</li>
-            <li>VERB-Part--NOUN-Acc (245)</li>
-            <li>VERB-Part--NOUN-Gen (16)</li>
+            <li>VERB-Inf--PRON-Acc (42)</li>
+            <li>VERB-Part--NOUN (32)</li>
+            <li>VERB-Part--NOUN-Acc (262)</li>
+            <li>VERB-Part--NOUN-Gen (18)</li>
             <li>VERB-Part--NOUN-Gen-ADP(na) (8)</li>
-            <li>VERB-Part--NOUN-Nom (23)</li>
+            <li>VERB-Part--NOUN-Nom (25)</li>
             <li>VERB-Part--PRON (4)</li>
-            <li>VERB-Part--PRON-Acc (123)</li>
+            <li>VERB-Part--PRON-Acc (168)</li>
           </ul>
         </li>
       </ul>
@@ -8210,7 +8200,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
@@ -8219,16 +8209,16 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-      <li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
@@ -8237,7 +8227,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
       </ul>

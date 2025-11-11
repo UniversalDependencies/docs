@@ -67,12 +67,12 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 4997 sentences and 123291 tokens.</li>
+      <li>This corpus contains 4997 sentences and 123289 tokens.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 4997 sentences and 123291 tokens.</li>
+      <li>This corpus contains 4997 sentences and 123289 tokens.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -104,12 +104,12 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 122962 tokens (100%) that are not followed by a space.</li>
+      <li>This corpus contains 122960 tokens (100%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 122962 tokens (100%) that are not followed by a space.</li>
+      <li>This corpus contains 122960 tokens (100%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -391,12 +391,12 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 137 lemmas tagged as determiners (DET): $5,000, A330, AEG, AK-47, Activision, Advance, Android, CRH380C, Eve, Ghost, Google, JAXA, KKR, Kekal, Kilpatrick, M1, NDS, OROCHI, PSP, Rivers, The, WHO, Wheeler, g(x), iPhone, iPod, km/h, p, 一切, 上, 下, 以上, 以下, 任, 任何, 佔領, 何, 全, 全套, 全部, 全體, 其他, 其它, 其餘, 別, 前, 前任, 另, 另外, 各, 各個, 各州, 各式, 各種, 各種各樣, 各級, 各項, 各類, 同, 同年, 夕拾, 後, 所有, 整, 整個, 整場, 整塊, 整套, 整所, 整架, 整片, 整顆, 是次, 有的, 本, 本屆, 本班, 某, 某些, 某個, 某種, 此, 此套, 此次, 此種, 此等, 此項, 此類, 歷屆, 毎年, 每, 每位, 每個, 每元, 每卡, 每周, 每天, 每年, 每座, 每戶, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每組, 每週, 每邊, 每間, 每隊, 每集, 當屆, 發售, 眾, 該, 該屆, 該批, 該族, 該條, 該段, 該組, 該集, 諸, 近, 這, 這些, 這次, 這種, 那, 那些, 關於, 首, 首任, 首條, 首部</li>
+      <li>This corpus contains 122 lemmas tagged as determiners (DET): $5,000, AEG, AK-47, Activision, Android, Eve, JAXA, KKR, Kekal, Kilpatrick, NDS, PSP, Rivers, WHO, Wheeler, g(x), iPhone, p, 一切, 上, 下, 以上, 以下, 任, 任何, 何, 全, 全套, 全部, 全體, 其他, 其它, 其餘, 別, 前, 前任, 另, 另外, 各, 各個, 各州, 各式, 各種, 各種各樣, 各級, 各項, 各類, 同, 同年, 後, 所有, 整, 整個, 整場, 整塊, 整套, 整所, 整架, 整片, 整顆, 是次, 有的, 本, 本屆, 本班, 某, 某些, 某個, 某種, 此, 此套, 此次, 此種, 此等, 此項, 此類, 歷屆, 毎年, 每, 每位, 每個, 每元, 每卡, 每周, 每天, 每年, 每座, 每戶, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每組, 每週, 每邊, 每間, 每隊, 每集, 當屆, 眾, 該, 該屆, 該批, 該族, 該條, 該段, 該組, 該集, 諸, 這, 這些, 這次, 這種, 那, 那些, 首, 首任, 首條, 首部</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 135 lemmas tagged as determiners (DET): $5,000, A330, AEG, AK-47, Activision, Advance, Android, CRH380C, Eve, Ghost, Google, JAXA, KKR, Kekal, Kilpatrick, M1, NDS, OROCHI, PSP, Rivers, The, WHO, Wheeler, g(x), iPhone, iPod, km/h, p, 一切, 上, 下, 以上, 以下, 任, 任何, 众, 何, 全, 全体, 全套, 全部, 关于, 其他, 其余, 其它, 别, 前, 前任, 占领, 历届, 发售, 另, 另外, 各, 各个, 各州, 各式, 各种, 各种各样, 各类, 各级, 各项, 同, 同年, 后, 夕拾, 当届, 所有, 整, 整个, 整场, 整块, 整套, 整所, 整架, 整片, 整颗, 是次, 有的, 本, 本届, 本班, 某, 某个, 某些, 某种, 此, 此套, 此次, 此种, 此等, 此类, 此项, 每, 每个, 每位, 每元, 每卡, 每周, 每天, 每年, 每座, 每户, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每组, 每边, 每间, 每队, 每集, 该, 该届, 该批, 该族, 该条, 该段, 该组, 该集, 诸, 近, 这, 这些, 这次, 这种, 那, 那些, 首, 首任, 首条, 首部</li>
+      <li>This corpus contains 120 lemmas tagged as determiners (DET): $5,000, AEG, AK-47, Activision, Android, Eve, JAXA, KKR, Kekal, Kilpatrick, NDS, PSP, Rivers, WHO, Wheeler, g(x), iPhone, p, 一切, 上, 下, 以上, 以下, 任, 任何, 众, 何, 全, 全体, 全套, 全部, 其他, 其余, 其它, 别, 前, 前任, 历届, 另, 另外, 各, 各个, 各州, 各式, 各种, 各种各样, 各类, 各级, 各项, 同, 同年, 后, 当届, 所有, 整, 整个, 整场, 整块, 整套, 整所, 整架, 整片, 整颗, 是次, 有的, 本, 本届, 本班, 某, 某个, 某些, 某种, 此, 此套, 此次, 此种, 此等, 此类, 此项, 每, 每个, 每位, 每元, 每卡, 每周, 每天, 每年, 每座, 每户, 每所, 每日, 每枚, 每次, 每段, 每片, 每秒, 每组, 每边, 每间, 每队, 每集, 该, 该届, 该批, 该族, 该条, 该段, 该组, 该集, 诸, 这, 这些, 这次, 这种, 那, 那些, 首, 首任, 首条, 首部</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -1577,7 +1577,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: 第16, 第一</li>
+            <li>ADJ: 2nd, 第16, 第一</li>
             <li>NUM: 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位</li>
           </ul>
         </li>
@@ -1587,7 +1587,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: 第16, 第一</li>
+            <li>ADJ: 2nd, 第16, 第一</li>
             <li>NUM: 第一, 第二, 第三, 首次, 第四, 第五, 第1, 第六, 第七, 首位</li>
           </ul>
         </li>
@@ -1927,10 +1927,30 @@ udver: '2'
 
     </td>
     <td width="14%" valign="top">
-
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: the, A, NBA, JR, of, B, Google, County, Game, John</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="14%" valign="top">
-
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: the, A, NBA, JR, of, B, Google, County, Game, John</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="14%" valign="top">
 
@@ -2106,13 +2126,13 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 想、 應、 需、 需要、 得、 須、 應該、 欲、 願、 願意、 必、 肯、 應當、 敢、 該.</li>
+      <li>This corpus uses 27 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 想、 應、 需、 需要、 得、 須、 應該、 欲、 願、 願意、 必、 肯、 應當、 敢、 是、 該.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus uses 26 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 会、 可以、 着、 可、 能、 要、 过、 可能、 必须、 能够、 想、 应、 需、 需要、 得、 须、 应该、 愿、 愿意、 欲、 必、 肯、 应当、 敢、 该.</li>
+      <li>This corpus uses 27 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 会、 可以、 着、 可、 能、 要、 过、 可能、 必须、 能够、 想、 应、 需、 需要、 得、 须、 应该、 愿、 愿意、 欲、 必、 肯、 应当、 敢、 是、 该.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 为.</li>
       </ul>
     </td>
@@ -2169,7 +2189,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (4044)</li>
+            <li>VERB--NOUN (3999)</li>
             <li>VERB--NOUN-ADP(上) (6)</li>
             <li>VERB--NOUN-ADP(下) (2)</li>
             <li>VERB--NOUN-ADP(不) (1)</li>
@@ -2184,7 +2204,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(原) (5)</li>
             <li>VERB--NOUN-ADP(和)-ADP(的) (1)</li>
             <li>VERB--NOUN-ADP(在)-ADP(的) (6)</li>
-            <li>VERB--NOUN-ADP(大) (18)</li>
+            <li>VERB--NOUN-ADP(大) (17)</li>
             <li>VERB--NOUN-ADP(寬) (1)</li>
             <li>VERB--NOUN-ADP(對)-ADP(的) (9)</li>
             <li>VERB--NOUN-ADP(對於)-ADP(的) (2)</li>
@@ -2192,7 +2212,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(強) (1)</li>
             <li>VERB--NOUN-ADP(彎) (1)</li>
             <li>VERB--NOUN-ADP(微) (1)</li>
-            <li>VERB--NOUN-ADP(新) (14)</li>
+            <li>VERB--NOUN-ADP(新) (13)</li>
             <li>VERB--NOUN-ADP(暗) (1)</li>
             <li>VERB--NOUN-ADP(有關)-ADP(的) (3)</li>
             <li>VERB--NOUN-ADP(期間)-ADP(的) (1)</li>
@@ -2208,7 +2228,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(里) (1)</li>
             <li>VERB--NOUN-ADP(間) (1)</li>
             <li>VERB--NOUN-ADP(關於)-ADP(的) (3)</li>
-            <li>VERB--PRON (736)</li>
+            <li>VERB--PRON (734)</li>
             <li>VERB--PRON-ADP(之間) (2)</li>
           </ul>
         </li>
@@ -2221,7 +2241,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (4044)</li>
+            <li>VERB--NOUN (3999)</li>
             <li>VERB--NOUN-ADP(上) (6)</li>
             <li>VERB--NOUN-ADP(下) (2)</li>
             <li>VERB--NOUN-ADP(不) (1)</li>
@@ -2239,7 +2259,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(原) (5)</li>
             <li>VERB--NOUN-ADP(和)-ADP(的) (1)</li>
             <li>VERB--NOUN-ADP(在)-ADP(的) (6)</li>
-            <li>VERB--NOUN-ADP(大) (18)</li>
+            <li>VERB--NOUN-ADP(大) (17)</li>
             <li>VERB--NOUN-ADP(宽) (1)</li>
             <li>VERB--NOUN-ADP(对)-ADP(的) (9)</li>
             <li>VERB--NOUN-ADP(对于)-ADP(的) (2)</li>
@@ -2248,7 +2268,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(强) (1)</li>
             <li>VERB--NOUN-ADP(微) (1)</li>
             <li>VERB--NOUN-ADP(总) (5)</li>
-            <li>VERB--NOUN-ADP(新) (14)</li>
+            <li>VERB--NOUN-ADP(新) (13)</li>
             <li>VERB--NOUN-ADP(旧) (2)</li>
             <li>VERB--NOUN-ADP(暗) (1)</li>
             <li>VERB--NOUN-ADP(有关)-ADP(的) (3)</li>
@@ -2259,7 +2279,7 @@ udver: '2'
             <li>VERB--NOUN-ADP(老) (5)</li>
             <li>VERB--NOUN-ADP(里) (2)</li>
             <li>VERB--NOUN-ADP(间) (1)</li>
-            <li>VERB--PRON (736)</li>
+            <li>VERB--PRON (734)</li>
             <li>VERB--PRON-ADP(之间) (2)</li>
           </ul>
         </li>
@@ -2678,8 +2698,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
-      <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>
@@ -2687,8 +2706,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
-      <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
       </ul>
     </td>

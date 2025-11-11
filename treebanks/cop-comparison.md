@@ -27,12 +27,12 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1001 sentences, 15264 tokens and 32724 syntactic words.</li>
+      <li>This corpus contains 1001 sentences, 15255 tokens and 32723 syntactic words.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 2203 sentences, 26837 tokens and 57103 syntactic words.</li>
+      <li>This corpus contains 2203 sentences, 26837 tokens and 57104 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -76,7 +76,7 @@ udver: '2'
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 10307 multi-word tokens. On average, one multi-word token consists of 2.69 syntactic words.</li>
-      <li>There are 5601 types of multi-word tokens. Examples: ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲑⲟⲩⲁⲃ, ⲛⲱⲟⲩ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲙⲱⲟⲩ, ⲛⲧⲉⲫⲛⲟⲩϯ, ⲧⲏⲣⲟⲩ, ⲉⲣⲱⲟⲩ, ⲙⲫⲣⲏϯ, ⲛⲁⲕ, ⲛⲉⲙⲁϥ, ⲁϥⲓ, ⲉϥϫⲱ, ⲛⲏⲓ, ⲙⲫⲛⲟⲩϯ, ⲛϧⲏⲧϥ, ⲡⲭⲣⲓⲥⲧⲟⲥ, ⲙⲡⲁⲓⲣⲏϯ, ⲛϩⲏⲧ, ⲛⲁϥϫⲱ, ⲛⲱⲧⲉⲛ, ⲛⲉⲙⲛⲏ, ⲥⲁⲧⲟⲧϥ, ⲡⲁⲓⲣⲏϯ, ⲁⲥϣⲱⲡⲓ, ⲉⲧⲁϥⲓ, ⲛⲛⲏ, ⲙⲙⲟⲓ, ⲙⲙⲟⲕ, ⲛⲉϩⲟⲟⲩ, ⲛⲧⲟⲧϥ, ⲕⲁⲧⲁⲫⲣⲏϯ, ⲛϧⲏⲧⲟⲩ, ⲡⲁⲓⲱⲧ, ⲡⲓⲟⲩⲁⲓ, ϫⲉⲟⲩ, ϫⲉⲟⲩⲏⲓ, ⲁⲩⲓ, ⲉⲧⲉⲙⲙⲁⲩ, ⲛⲉⲙⲱⲟⲩ, ⲛⲥⲱϥ, ϧⲉⲛⲑⲏⲛⲟⲩ, ⲁϥϣⲉ, ⲉⲧϣⲟⲡ, ⲙⲫⲏ, ⲛⲉⲥⲱⲟⲩ, ⲟⲩⲙⲏϣ.</li>
+      <li>There are 5601 types of multi-word tokens. Examples: ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲑⲟⲩⲁⲃ, ⲛⲱⲟⲩ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲙⲱⲟⲩ, ⲛⲧⲉⲫⲛⲟⲩϯ, ⲧⲏⲣⲟⲩ, ⲉⲣⲱⲟⲩ, ⲙⲫⲣⲏϯ, ⲛⲁⲕ, ⲛⲉⲙⲁϥ, ⲁϥⲓ, ⲉϥϫⲱ, ⲛⲏⲓ, ⲙⲫⲛⲟⲩϯ, ⲛϧⲏⲧϥ, ⲡⲭⲣⲓⲥⲧⲟⲥ, ⲙⲡⲁⲓⲣⲏϯ, ⲛϩⲏⲧ, ⲛⲁϥϫⲱ, ⲛⲱⲧⲉⲛ, ⲛⲉⲙⲛⲏ, ⲥⲁⲧⲟⲧϥ, ⲡⲁⲓⲣⲏϯ, ⲁⲥϣⲱⲡⲓ, ⲉⲧⲁϥⲓ, ⲛⲛⲏ, ⲙⲙⲟⲓ, ⲙⲙⲟⲕ, ⲛⲉϩⲟⲟⲩ, ⲛⲧⲟⲧϥ, ⲕⲁⲧⲁⲫⲣⲏϯ, ⲛϧⲏⲧⲟⲩ, ⲡⲓⲟⲩⲁⲓ, ϫⲉⲟⲩ, ϫⲉⲟⲩⲏⲓ, ⲁⲩⲓ, ⲉⲧⲉⲙⲙⲁⲩ, ⲛⲉⲙⲱⲟⲩ, ⲛⲥⲱϥ, ϧⲉⲛⲑⲏⲛⲟⲩ, ⲁϥϣⲉ, ⲉⲧϣⲟⲡ, ⲙⲫⲏ, ⲛⲉⲥⲱⲟⲩ, ⲟⲩⲙⲏϣ, ⲫⲛⲟⲩϯ.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -128,7 +128,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 69 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲓⲧⲛ_ⲁⲛⲟⲕ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ϫⲓ_ⲁⲛⲟⲕ, ϫⲡⲟ_ⲛⲧⲟ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲉⲩ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲛ_ⲁⲛⲟⲕ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ, ⲥϥ, ⲧⲉⲧ, ⲧⲉⲧⲛ, ⲧⲣⲉϥ</li>
+      <li>This corpus contains 63 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲓⲧⲛ_ⲁⲛⲟⲕ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲉⲩ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲛ_ⲁⲛⲟⲕ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ</li>
       </ul>
     </td>
   </tr>
@@ -208,7 +208,6 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: ϣ, ⲉϣ, ϫⲡⲓ, ⲛⲉϣ</li>
-          <li>PRON: ϫⲓⲧ, ϫⲡⲟ</li>
           <li>VERB: ⲡⲉϫⲁ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ, ⲥⲱⲧⲙ</li>
         </ul>
         </li>
@@ -220,7 +219,7 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>VERB: ⲉⲣ, ⲛⲁⲩ, ϯ, ϣⲱⲡⲓ, ϭⲓ, ϫⲟ, ⲉⲙⲓ, ⲥⲁϫⲓ, ⲥⲱⲧⲉⲙ, ⲧⲁⲙⲟ</li>
+          <li>VERB: ⲉⲣ, ⲛⲁⲩ, ϯ, ϣⲱⲡⲓ, ϭⲓ, ϫⲟ, ⲉⲙⲓ, ⲥⲁϫⲓ, ⲥⲱⲧⲉⲙ, ϧⲟⲑⲃⲉ</li>
         </ul>
         </li>
       </ul>
@@ -260,7 +259,7 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>DET: ⲧ, ⲧⲉϥ, ⲧⲉⲕ, ⲑⲏ, ⲧⲁⲓ, ⲧⲁ, ⲑⲁⲓ, ⲧⲉⲥ, ⲑ, ⲧⲟⲩ</li>
+            <li>DET: ϯ, ⲧ, ⲧⲉϥ, ⲧⲉⲕ, ⲧⲁ, ⲑⲏ, ⲧⲁⲓ, ⲑ, ⲑⲁⲓ, ⲧⲉⲥ</li>
             <li>PRON: ⲥ, ⲧⲉ, ⲉ, ⲉⲥⲉ, ⲁⲥϣⲁⲛ, ⲓ, ϥ, ⲁⲣⲉ, ⲉⲣⲟ, ⲧⲉⲣ</li>
           </ul>
         </li>
@@ -324,8 +323,8 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>DET: ⲛⲓ, ⲛⲏ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲛⲟⲩ, ⲛⲉⲕ, ⲛ, ⲛⲉⲛ, ⲛⲟⲩϥ</li>
-            <li>PRON: ⲩ, ⲟⲩ, ⲥⲉ, ⲛ, ⲛⲉ, ⲉⲩⲉ, ⲧⲉⲛ, ⲁⲛⲟⲛ, ⲛⲑⲱⲟⲩ, ⲁⲩϣⲁⲛ</li>
+            <li>DET: ⲛⲓ, ⲛⲏ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲛⲟⲩ, ⲛⲉⲕ, ⲛ, ⲛⲉⲛ, ⲛⲉⲧⲉⲛ</li>
+            <li>PRON: ⲩ, ⲟⲩ, ⲧⲉⲛ, ⲥⲉ, ⲛ, ⲑⲏⲛⲟⲩ, ⲧⲉⲧⲉⲛ, ⲛⲉ, ⲉⲩⲉ, ⲛⲑⲱⲧⲉⲛ</li>
           </ul>
         </li>
       </ul>
@@ -335,7 +334,7 @@ udver: '2'
         <li>Plur
           <ul>
             <li>DET: ⲛ, ⲛⲉ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲙ, ⲛⲉⲛ, ⲛⲉⲩ, ⲛⲉⲕ, ⲛⲉⲧⲛ</li>
-            <li>PRON: ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉ, ⲧⲏⲩⲧⲛ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ</li>
+            <li>PRON: ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲧⲏⲩⲧⲛ, ⲛⲉ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ</li>
           </ul>
         </li>
       </ul>
@@ -346,7 +345,7 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>DET: ⲡⲓ, ⲟⲩ, ⲡ, ⲫ, ϩⲁⲛ, ⲡⲉϥ, ⲫⲏ, ⲡⲁⲓ, ⲡⲁ, ⲧ</li>
+            <li>DET: ⲡⲓ, ⲟⲩ, ⲡ, ⲫ, ϯ, ϩⲁⲛ, ⲡⲉϥ, ⲫⲏ, ⲡⲁⲓ, ⲡⲁ</li>
             <li>PRON: ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲁⲛⲟⲕ, ⲛⲑⲟϥ, ⲉϥⲉ, ⲡ</li>
           </ul>
         </li>
@@ -396,9 +395,9 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: ⲡⲓ, ⲛⲓ, ⲡ, ⲫ, ⲛⲏ, ⲡⲉϥ, ⲫⲏ, ⲡⲁⲓ, ⲛⲉϥ, ⲡⲁ</li>
+            <li>DET: ⲡⲓ, ⲛⲓ, ⲡ, ⲫ, ϯ, ⲛⲏ, ⲡⲉϥ, ⲫⲏ, ⲡⲁⲓ, ⲛⲉϥ</li>
             <li>NOUN: ⲙⲙⲓⲛⲙⲙⲟ</li>
-            <li>PRON: ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ϯ, ⲛ, ⲥⲉ, ⲁⲛⲟⲕ</li>
+            <li>PRON: ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ⲧⲉⲛ, ϯ, ⲛ, ⲥⲉ</li>
           </ul>
         </li>
       </ul>
@@ -521,10 +520,166 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>VERB-Fin: ϫⲟ, ϣⲱⲡⲓ, ϫⲉⲙϩⲏⲟⲩ, ϭⲓ, ⲓ, ⲥⲱⲧⲉⲙ, ⲫⲟϩ, ϩⲉⲛ, ϫⲟⲟ, ϭⲓϩⲟ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>VERB-Fin: ⲉⲓ, ⲣ, ⲥⲱⲧⲙ, ⲛⲁⲩ, ⲟⲩⲱϣ, ϫⲟⲟ, ⲣⲛⲟⲃⲉ, ϣⲱⲡⲉ, ⲉⲓⲃⲉ, ⲡⲱⲣϫ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: ⲙⲁϣⲉ, ⲁⲛⲁⲩ, ⲙⲁ, ⲁⲙⲟⲩ, ϣⲱⲡⲓ, ⲁⲙⲱⲓⲛⲓ, ⲁⲛⲓⲧ, ϫⲟϫ, ⲁϫⲟ, ⲁⲣⲓⲉⲙⲓ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: ⲁⲣⲓ, ⲁϫⲓ, ⲁⲙⲟⲩ, ⲃⲱⲕ, ⲙⲁ, ⲕⲁ, ϩⲁⲣⲉϩ, ⲁⲛⲁⲩ, ⲥⲱⲧⲙ, ϣⲱⲡⲉ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>VERB: ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ϣⲉ, ⲑⲣⲉ, ⲉⲣ, ⲟⲓ</li>
+            <li>VERB-Fin: ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ϣⲉ, ⲟⲓ, ⲉⲣ, ⲥⲱⲧⲉⲙ</li>
+            <li>VERB-Inf: ⲉⲣ, ⲛⲁⲩ, ϯ, ϣⲱⲡⲓ, ϭⲓ, ϫⲟ, ⲉⲙⲓ, ⲥⲁϫⲓ, ⲥⲱⲧⲉⲙ, ϧⲟⲑⲃⲉ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>VERB: ⲧⲣⲉ, ⲡⲉϫⲁ, ϫⲱ, ⲉⲓ, ⲃⲱⲕ, ϣⲱⲡⲉ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ</li>
+            <li>VERB-Fin: ⲡⲉϫⲁ, ϫⲱ, ⲉⲓ, ⲃⲱⲕ, ϣⲱⲡⲉ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ, ϣⲟⲟⲡ</li>
+            <li>VERB-Inf: ϯ, ⲃⲱⲕ, ⲛⲁⲩ, ⲣ, ϭⲱ, ϫⲓ, ⲁⲁ, ⲕⲁ, ⲧⲁⲙⲟ, ϣⲁϫⲉ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Jus
+          <ul>
+            <li>VERB-Fin: ϣⲱⲡⲓ, ⲭⲁ, ⲙⲟϣⲓ, ⲥⲱⲧⲉⲙ, ϣⲟⲩϣⲟⲩ, ϭⲓ, ϯ, ⲙⲟⲩⲛⲕ, ⲟϩⲓ, ϣⲉⲛ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Jus
+          <ul>
+            <li>VERB-Fin: ϣⲱⲡⲉ, ϫⲓ, ϭⲱ, ⲥⲱⲧⲙ, ϣⲗⲏⲗ, ϭⲱϣⲧ, ϯ, ⲉⲓⲙⲉ, ⲣ, ϣⲟⲩϣⲟⲩ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
     </td>
     <td width="50%" valign="top">
+      <ul>
+        <li>Nec
+          <ul>
+            <li>AUX-Fin: ϫⲡⲓ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Opt
+          <ul>
+            <li>VERB-Fin: ϣⲱⲡⲓ, ⲓ, ϯ, ⲛⲁⲩ, ϩⲟⲃⲥ, ⲉⲙⲓ, ⲉⲣ, ⲑⲱⲟⲩϯ, ⲙⲟϣⲓ, ⲟⲩⲛⲟϥ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Opt
+          <ul>
+            <li>VERB-Fin: ϣⲱⲡⲉ, ϫⲓ, ϣⲙϣⲉ, ϫⲱϩ, ϯ, ⲉⲓ, ⲕⲁⲁ, ⲛⲁⲩ, ϩⲁⲣⲉϩ, ϩⲉ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>AUX-Fin: ϣ, ⲉϣ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>AUX-Fin: ϣ, ⲉϣ, ⲛⲉϣ</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Sub
+          <ul>
+            <li>VERB-Fin: ⲥⲣϥⲉ, ϣⲱⲡⲉ, ⲙⲧⲟⲛ, ϣⲟⲩϣⲟⲩ, ϭⲱ, ϯ, ϯϩⲏⲩ, ⲉⲓⲙⲉ, ⲕⲁⲁ, ⲣⲭⲣⲏⲥⲧⲟⲥ</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -576,7 +731,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: ⲡⲓ, ⲟⲩ, ⲛⲓ, ⲡ, ⲫ, ϩⲁⲛ, ⲕⲉ, ⲧ, ⲩ, ⲛ</li>
+            <li>DET: ⲡⲓ, ⲟⲩ, ⲛⲓ, ⲡ, ⲫ, ϯ, ϩⲁⲛ, ⲕⲉ, ⲧ, ⲩ</li>
           </ul>
         </li>
       </ul>
@@ -597,6 +752,7 @@ udver: '2'
         <li>Dem
           <ul>
             <li>DET: ⲛⲏ, ⲫⲏ, ⲡⲁⲓ, ⲫⲁⲓ, ⲛⲁⲓ, ⲑⲏ, ⲧⲁⲓ, ⲑⲁⲓ, ⲛⲓ, ⲡⲓ</li>
+            <li>PRON: ⲡⲉ, ⲛⲉ, ⲡ, ⲧⲉ</li>
           </ul>
         </li>
       </ul>
@@ -605,7 +761,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: ⲡⲁⲓ, ⲛⲁⲓ, ⲡⲉⲓ, ⲧⲉⲓ, ⲧⲁⲓ, ⲛⲉⲓ, ⲡⲓ, ⲛⲓ, ⲡⲏ, ⲛⲏ</li>
+            <li>DET: ⲡⲁⲓ, ⲛⲁⲓ, ⲡⲉⲓ, ⲧⲉⲓ, ⲧⲁⲓ, ⲛⲉⲓ, ϯ, ⲡⲓ, ⲛⲓ, ⲡⲏ</li>
+            <li>PRON: ⲡⲉ, ⲧⲉ, ⲡ, ⲛⲉ, ⲛ, ⲧ</li>
           </ul>
         </li>
       </ul>
@@ -660,7 +817,7 @@ udver: '2'
           <ul>
             <li>DET: ⲡⲉϥ, ⲛⲉϥ, ⲡⲁ, ⲧⲉϥ, ⲛⲁ, ⲡⲉⲕ, ⲡⲟⲩ, ⲡⲉⲛ, ⲛⲟⲩ, ⲧⲉⲕ</li>
             <li>NOUN: ⲙⲙⲓⲛⲙⲙⲟ</li>
-            <li>PRON: ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ϯ, ⲛ, ⲥⲉ, ⲁⲛⲟⲕ</li>
+            <li>PRON: ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ⲧⲉⲛ, ϯ, ⲛ, ⲥⲉ</li>
           </ul>
         </li>
       </ul>
@@ -833,7 +990,7 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>DET: ⲡⲁ, ⲡⲉⲛ, ⲛⲁ, ⲛⲉⲛ, ⲧⲁ, ⲧⲉⲛ</li>
+            <li>DET: ⲡⲁ, ⲡⲉⲛ, ⲛⲁ, ⲧⲁ, ⲛⲉⲛ, ⲧⲉⲛ</li>
             <li>PRON: ⲓ, ϯ, ⲛ, ⲁⲛⲟⲕ, ⲧⲉⲛ, ⲁⲛⲟⲛ, ⲧⲁ, ⲧ, ϩⲱ, ϧⲁⲧⲟⲧ</li>
           </ul>
         </li>
@@ -855,8 +1012,8 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>DET: ⲡⲉⲕ, ⲡⲟⲩ, ⲛⲟⲩ, ⲧⲉⲕ, ⲛⲉⲕ, ⲧⲟⲩ, ⲛⲟⲩⲧⲉⲛ, ⲛⲟⲩⲕ, ⲛⲉⲧⲛ</li>
-            <li>PRON: ⲕ, ⲭ, ⲛⲑⲟⲕ, ⲉⲕⲉ, ⲁⲕϣⲁⲛ, ⲉ, ⲓ, ⲁⲣⲉ, ⲅ, ⲉⲣⲟ</li>
+            <li>DET: ⲡⲉⲕ, ⲡⲟⲩ, ⲛⲟⲩ, ⲧⲉⲕ, ⲛⲉⲕ, ⲛⲉⲧⲉⲛ, ⲡⲉⲧⲉⲛ, ⲧⲟⲩ, ⲛⲟⲩⲧⲉⲛ, ⲛⲟⲩⲕ</li>
+            <li>PRON: ⲕ, ⲧⲉⲛ, ⲑⲏⲛⲟⲩ, ⲧⲉⲧⲉⲛ, ⲛⲑⲱⲧⲉⲛ, ⲭ, ⲛⲑⲟⲕ, ⲉⲕⲉ, ⲁⲕϣⲁⲛ, ⲉ</li>
           </ul>
         </li>
       </ul>
@@ -971,7 +1128,7 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>DET: ⲡⲉⲛ, ⲛⲉⲛ, ⲛⲟⲩⲧⲉⲛ, ⲧⲉⲛ, ⲛⲉⲧⲛ, ⲛⲟⲩⲟⲩ</li>
+            <li>DET: ⲡⲉⲛ, ⲛⲉⲛ, ⲛⲉⲧⲉⲛ, ⲡⲉⲧⲉⲛ, ⲛⲟⲩⲧⲉⲛ, ⲧⲉⲛ, ⲧⲉⲧⲉⲛ, ⲛⲉⲧⲛ, ⲛⲟⲩⲟⲩ</li>
           </ul>
         </li>
       </ul>
@@ -1074,7 +1231,7 @@ udver: '2'
                 <li>ADJ: ϩⲁⲅⲓⲟⲥ, ϩⲟⲥⲟⲛ</li>
                 <li>ADP: ⲕⲁⲧⲁ, ⲡⲁⲣⲁ, ⲡⲣⲟⲥ, ⲭⲱⲣⲓⲥ, ⲁⲡⲁ, ⲙⲉⲛ</li>
                 <li>ADV: ⲧⲟⲧⲉ, ⲙⲁⲗⲗⲟⲛ, ⲕⲁⲗⲱⲥ, ⲡⲁⲗⲓⲛ, ⲡⲱⲥ, ⲗⲟⲓⲡⲟⲛ, ϩⲏⲇⲏ, ⲉⲧⲓ, ϩⲟⲗⲱⲥ, ⲁⲗⲏⲑⲱⲥ</li>
-                <li>CCONJ: ⲁⲗⲗⲁ, ⲟⲩⲇⲉ, ⲓⲧⲉ, ⲙⲏ, ⲕⲁⲓ, ⲕⲁⲛ, ϩⲱⲥ, ⲙⲏⲧⲓ, ⲟⲩⲭⲓ, ϩⲟⲡⲱⲥ</li>
+                <li>CCONJ: ⲁⲗⲗⲁ, ⲟⲩⲇⲉ, ⲓⲧⲉ, ⲙⲏ, ⲕⲁⲓ, ⲕⲁⲛ, ϩⲟⲥⲟⲛ, ϩⲱⲥ, ⲙⲏⲧⲓ, ⲟⲩⲭⲓ</li>
                 <li>DET: ⲁⲡⲁ</li>
                 <li>NOUN: ⲁⲡⲁ, ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲙⲁⲑⲏⲧⲏⲥ, ⲕⲟⲥⲙⲟⲥ, ⲥⲱⲙⲁ, ⲯⲩⲭⲏ, ⲇⲁⲓⲙⲱⲛ, ⲁⲣⲉⲧⲏ, ⲡⲣⲟⲫⲏⲧⲏⲥ</li>
                 <li>NUM: ⲇ</li>
@@ -1162,8 +1319,8 @@ udver: '2'
           <ul>
             <li>VERB--NOUN (94)</li>
             <li>VERB--PRON (13)</li>
-            <li>VERB-Fin--NOUN (281)</li>
-            <li>VERB-Fin--PRON (2609)</li>
+            <li>VERB-Fin--NOUN (282)</li>
+            <li>VERB-Fin--PRON (2611)</li>
           </ul>
         </li>
       </ul>
@@ -1182,7 +1339,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (561)</li>
             <li>VERB-Fin--NOUN-ADP(ϩⲓⲣⲛ) (1)</li>
             <li>VERB-Fin--NOUN-ADP(ⲛ) (7)</li>
-            <li>VERB-Fin--PRON (4317)</li>
+            <li>VERB-Fin--PRON (4319)</li>
           </ul>
         </li>
       </ul>
@@ -1197,8 +1354,8 @@ udver: '2'
             <li>VERB--NOUN-ADP(ⲛ) (4)</li>
             <li>VERB--PRON (32)</li>
             <li>VERB--PRON-ADP(ⲛ) (1)</li>
-            <li>VERB-Fin--NOUN (154)</li>
-            <li>VERB-Fin--NOUN-ADP(ⲛ) (267)</li>
+            <li>VERB-Fin--NOUN (155)</li>
+            <li>VERB-Fin--NOUN-ADP(ⲛ) (266)</li>
             <li>VERB-Fin--NOUN-ADP(ⲛ)-ADP(ⲛ) (4)</li>
             <li>VERB-Fin--NOUN-ADP(ⲥⲁⲃⲟⲗ) (2)</li>
             <li>VERB-Fin--PRON (385)</li>
@@ -1218,14 +1375,14 @@ udver: '2'
           <ul>
             <li>VERB--NOUN (41)</li>
             <li>VERB--NOUN-ADP(ⲛ) (13)</li>
-            <li>VERB--PRON (176)</li>
-            <li>VERB-Fin--NOUN (396)</li>
+            <li>VERB--PRON (177)</li>
+            <li>VERB-Fin--NOUN (395)</li>
             <li>VERB-Fin--NOUN-ADP(ⲙ) (3)</li>
             <li>VERB-Fin--NOUN-ADP(ⲛ) (483)</li>
             <li>VERB-Fin--NOUN-ADP(ⲛ)-ADP(ⲛ) (12)</li>
             <li>VERB-Fin--PRON (763)</li>
             <li>VERB-Fin--PRON-ADP(ⲉ) (1)</li>
-            <li>VERB-Fin--PRON-ADP(ⲛ) (243)</li>
+            <li>VERB-Fin--PRON-ADP(ⲛ) (242)</li>
             <li>VERB-Fin--PRON-ADP(ⲧⲟⲟⲧ) (1)</li>
             <li>VERB-Inf--NOUN (25)</li>
             <li>VERB-Inf--NOUN-ADP(ⲛ) (19)</li>
@@ -1245,9 +1402,8 @@ udver: '2'
             <li>VERB--PRON (18)</li>
             <li>VERB--PRON-ADP(ⲛ) (3)</li>
             <li>VERB-Fin--NOUN (2)</li>
-            <li>VERB-Fin--PRON (9)</li>
+            <li>VERB-Fin--PRON (10)</li>
             <li>VERB-Fin--PRON-ADP(ⲛ) (1)</li>
-            <li>VERB-Inf--PRON (1)</li>
           </ul>
         </li>
       </ul>

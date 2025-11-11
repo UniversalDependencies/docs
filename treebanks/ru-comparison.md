@@ -55,7 +55,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 5086 sentences and 64112 tokens.</li>
+      <li>This corpus contains 5085 sentences and 64112 tokens.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -65,7 +65,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 121967 sentences and 1758939 tokens.</li>
+      <li>This corpus contains 121967 sentences and 1758937 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -92,7 +92,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 349088 tokens (20%) that are not followed by a space.</li>
+      <li>This corpus contains 349086 tokens (20%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -878,7 +878,7 @@ udver: '2'
           <ul>
             <li>ADJ: равно, голубое, чужое, белое, гусиное, вечное, закатное, злое, синее, белом</li>
             <li>AUX-Fin: было</li>
-            <li>DET: мое, твое, все, свое, одно, всё, какое, такое, то, это</li>
+            <li>DET: мое, все, твое, свое, одно, всё, какое, такое, то, это</li>
             <li>NOUN: сердце, солнце, небо, слова, счастье, время, море, небе, лицо, небес</li>
             <li>NUM: два, двух, одним, одно</li>
             <li>PRON: что, все, это, всё, то, чем, оно, ничего, что-то, тем</li>
@@ -1203,7 +1203,7 @@ udver: '2'
             <li>AUX-Fin: были, будут, будем</li>
             <li>DET: все, эти, мои, твои, твоих, всех, тех, моих, этих, наших</li>
             <li>NOUN: глаза, руки, дни, лет, люди, слова, песни, цветы, слезы, дней</li>
-            <li>PRON: мы, нам, нас, них, их, вы, они, нами, вас, им</li>
+            <li>PRON: мы, нам, нас, них, вы, их, они, нами, вас, им</li>
             <li>PROPN: Александров, Атлантид, Гесперид, Гималаев, Жигулей, Жигули, Лемурий, Лимены, Пильняками, Фоблазами</li>
             <li>VERB-Fin: проходят, плывут, бегут, поют, идут, летят, стали, были, бывают, говорят</li>
             <li>VERB-Part: сверкающих, дремлющим, знавшие, опущенных, Минувших, Обручены, бегущие, живущие, забытые, знающие</li>
@@ -1403,7 +1403,7 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>ADJ: последний, тихий, белый, черный, чужое, безумные, былые, звездный, легкий, серые</li>
+            <li>ADJ: последний, белый, тихий, черный, чужое, безумные, былые, звездный, легкий, серые</li>
             <li>DET: свой, все, свою, всю, этот, твой, эти, мой, мою, эту</li>
             <li>NOUN: ночь, глаза, час, руки, день, душу, землю, раз, сердце, дни</li>
             <li>NUM: много, сколько, пять, мало, три, два, две, двух, одно, сорок</li>
@@ -1805,7 +1805,7 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: милая, белый, золотые, тихий, белая, белые, первый, милый, старый, золотая</li>
+            <li>ADJ: милая, тихий, белый, золотые, белая, белые, первый, милый, старый, золотая</li>
             <li>DET: мой, моя, все, твой, тот, весь, вся, наш, этот, мои</li>
             <li>NOUN: жизнь, ветер, день, сердце, душа, солнце, ночь, мир, вечер, свет</li>
             <li>NUM: много, два, три, сколько, две, четыре, одна, двое, сто, один</li>
@@ -2164,7 +2164,7 @@ udver: '2'
         <li>Sup
           <ul>
             <li>ADJ: лучшие, лучших, дальнейшем, лучший, крупнейших, лучшее, древнейших, древнейшие, лучшего, высшей</li>
-            <li>ADV: наиболее, всемилостивейше, лютейше, наименее</li>
+            <li>ADV: наиболее, строжайше, ближайше, всемилостивейше, лютейше, наименее</li>
           </ul>
         </li>
       </ul>
@@ -4082,7 +4082,7 @@ udver: '2'
         <li>3
           <ul>
             <li>AUX-Fin: будет, будут, есть</li>
-            <li>PRON: он, она, них, их, ней, они, его, им, ей, ним</li>
+            <li>PRON: он, она, них, ней, их, они, его, им, ей, ним</li>
             <li>VERB-Fin: может, стоит, есть, поет, кажется, проходят, знает, пахнет, проходит, будет</li>
           </ul>
         </li>
@@ -4364,10 +4364,58 @@ udver: '2'
       <ul>
         <li><a>ExtPos</a>
           <ul>
+            <li>ADJ
+              <ul>
+                <li>DET: Какого</li>
+                <li>PRON: то</li>
+              </ul>
+            </li>
+            <li>ADP
+              <ul>
+                <li>ADP: Во, При, в, по</li>
+              </ul>
+            </li>
             <li>ADV
               <ul>
                 <li>ADP: до, с, по</li>
-                <li>PRON: все, Всё, что</li>
+                <li>ADV: все, как, всё, едва, впрямь, вряд</li>
+                <li>DET: Сам</li>
+                <li>PART: Не</li>
+                <li>PRON: все, что, Всё</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: Да, То, Но, а, и</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>PRON: что</li>
+              </ul>
+            </li>
+            <li>NOUN
+              <ul>
+                <li>ADV: т.</li>
+                <li>DET: сам, самим</li>
+                <li>PRON: друг, т.</li>
+              </ul>
+            </li>
+            <li>PART
+              <ul>
+                <li>PART: хотя, Лишь, только</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: С</li>
+                <li>ADV: потому, Как, Так</li>
+                <li>SCONJ: как, будто, хотя</li>
+              </ul>
+            </li>
+            <li>VERB
+              <ul>
+                <li>PRON: все, всё</li>
               </ul>
             </li>
           </ul>
@@ -4512,7 +4560,7 @@ udver: '2'
                 <li>DET: то, сами, один, одна, одно, само, одну, все, одного, сама</li>
                 <li>INTJ: ох, ахти</li>
                 <li>NOUN: слава, бок, время, боку, нога, нос, слово, страсть, чин</li>
-                <li>PART: только, хотя, ни, все, вот, нет, и, лишь, не, Ну</li>
+                <li>PART: только, хотя, ни, все, не, вот, нет, и, лишь, Ну</li>
                 <li>PRON: тем, все, всё, тому, что, того, кто</li>
                 <li>SCONJ: как, что, если, разве, хотя</li>
                 <li>SYM: +</li>
@@ -4526,7 +4574,7 @@ udver: '2'
                 <li>ADV: так, Также, точно</li>
                 <li>CCONJ: но, а, да, то, или, и, однако, либо</li>
                 <li>PART: не, ну, то, ни</li>
-                <li>PRON: то, тем, т., все</li>
+                <li>PRON: то, т., Тем, все</li>
                 <li>SCONJ: как, когда, что, хотя</li>
                 <li>VERB-Fin: будь</li>
               </ul>
@@ -5230,6 +5278,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc (2)</li>
             <li>VERB-Fin--NOUN-Gen (31)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(из) (1)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(на) (1)</li>
             <li>VERB-Fin--NOUN-Nom (539)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(такой) (1)</li>
             <li>VERB-Fin--PRON-Acc (2)</li>
@@ -5255,7 +5304,7 @@ udver: '2'
             <li>VERB--PRON-Nom (1)</li>
             <li>VERB-Conv--NOUN-Nom (2)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
-            <li>VERB-Fin--NOUN-Gen (31)</li>
+            <li>VERB-Fin--NOUN-Gen (32)</li>
             <li>VERB-Fin--NOUN-Nom (2323)</li>
             <li>VERB-Fin--PRON-Gen (5)</li>
             <li>VERB-Fin--PRON-Nom (1313)</li>
@@ -5297,7 +5346,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen-ADP(порядка) (4)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(свыше) (10)</li>
             <li>VERB-Fin--NOUN-Loc-ADP(на) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (41690)</li>
+            <li>VERB-Fin--NOUN-Nom (41689)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(во) (9)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(до) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(за) (2)</li>
@@ -5333,10 +5382,10 @@ udver: '2'
             <li>VERB--NOUN-Gen (718)</li>
             <li>VERB--NOUN-Gen-ADP(до) (1)</li>
             <li>VERB--NOUN-Ins (1)</li>
-            <li>VERB--NOUN-Nom (48)</li>
+            <li>VERB--NOUN-Nom (50)</li>
             <li>VERB--NOUN-Par (7)</li>
             <li>VERB--PRON-Gen (154)</li>
-            <li>VERB--PRON-Nom (45)</li>
+            <li>VERB--PRON-Nom (46)</li>
             <li>VERB-Conv--NOUN-Nom (6)</li>
             <li>VERB-Conv--PRON-Nom (5)</li>
             <li>VERB-Fin--NOUN (60)</li>
@@ -5346,7 +5395,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc-ADP(под) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(с) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(по) (5)</li>
-            <li>VERB-Fin--NOUN-Gen (1593)</li>
+            <li>VERB-Fin--NOUN-Gen (1594)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(во) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(до) (4)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(около) (26)</li>
@@ -5368,7 +5417,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc-ADP(про) (1)</li>
             <li>VERB-Fin--PRON-Dat (2)</li>
             <li>VERB-Fin--PRON-Gen (292)</li>
-            <li>VERB-Fin--PRON-Nom (31014)</li>
+            <li>VERB-Fin--PRON-Nom (31019)</li>
             <li>VERB-Fin--PRON-Nom-ADP(плюс) (1)</li>
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--NOUN-Gen (5)</li>
@@ -5440,7 +5489,6 @@ udver: '2'
             <li>VERB-Conv--PRON-Gen (1)</li>
             <li>VERB-Fin--NOUN-Acc (314)</li>
             <li>VERB-Fin--NOUN-Gen (40)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(на) (1)</li>
             <li>VERB-Fin--NOUN-Ins (11)</li>
             <li>VERB-Fin--NOUN-Nom (3)</li>
             <li>VERB-Fin--PRON-Acc (50)</li>
@@ -5467,29 +5515,29 @@ udver: '2'
           <ul>
             <li>VERB--NOUN-Gen (7)</li>
             <li>VERB--PRON-Acc (3)</li>
-            <li>VERB-Conv--NOUN-Acc (209)</li>
+            <li>VERB-Conv--NOUN-Acc (207)</li>
             <li>VERB-Conv--NOUN-Acc-ADP(вдоль) (1)</li>
-            <li>VERB-Conv--NOUN-Gen (14)</li>
+            <li>VERB-Conv--NOUN-Gen (13)</li>
             <li>VERB-Conv--NOUN-Ins (1)</li>
             <li>VERB-Conv--PRON-Acc (12)</li>
             <li>VERB-Conv--PRON-Gen (1)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1109)</li>
-            <li>VERB-Fin--NOUN-Gen (185)</li>
+            <li>VERB-Fin--NOUN-Acc (1097)</li>
+            <li>VERB-Fin--NOUN-Gen (172)</li>
             <li>VERB-Fin--NOUN-Ins (6)</li>
             <li>VERB-Fin--NOUN-Par (1)</li>
-            <li>VERB-Fin--PRON-Acc (308)</li>
+            <li>VERB-Fin--PRON-Acc (307)</li>
             <li>VERB-Fin--PRON-Dat (1)</li>
             <li>VERB-Fin--PRON-Gen (12)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
-            <li>VERB-Inf--NOUN-Acc (201)</li>
-            <li>VERB-Inf--NOUN-Gen (31)</li>
+            <li>VERB-Inf--NOUN-Acc (198)</li>
+            <li>VERB-Inf--NOUN-Gen (28)</li>
             <li>VERB-Inf--NOUN-Ins (1)</li>
-            <li>VERB-Inf--PRON-Acc (62)</li>
+            <li>VERB-Inf--PRON-Acc (61)</li>
             <li>VERB-Inf--PRON-Gen (4)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN-Acc (32)</li>
-            <li>VERB-Part--NOUN-Gen (13)</li>
+            <li>VERB-Part--NOUN-Gen (12)</li>
             <li>VERB-Part--PRON-Acc (7)</li>
             <li>VERB-Part--PRON-Ins (1)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
@@ -5508,7 +5556,7 @@ udver: '2'
             <li>VERB--PRON-Gen (4)</li>
             <li>VERB-Conv--NOUN (5)</li>
             <li>VERB-Conv--NOUN-Acc (2025)</li>
-            <li>VERB-Conv--NOUN-Gen (283)</li>
+            <li>VERB-Conv--NOUN-Gen (281)</li>
             <li>VERB-Conv--NOUN-Gen-ADP(около) (3)</li>
             <li>VERB-Conv--NOUN-Ins (55)</li>
             <li>VERB-Conv--NOUN-Nom (1)</li>
@@ -5516,23 +5564,23 @@ udver: '2'
             <li>VERB-Conv--PRON-Gen (34)</li>
             <li>VERB-Conv--PRON-Nom (5)</li>
             <li>VERB-Fin--NOUN (55)</li>
-            <li>VERB-Fin--NOUN-Acc (20734)</li>
+            <li>VERB-Fin--NOUN-Acc (20733)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(во) (2)</li>
-            <li>VERB-Fin--NOUN-Gen (3241)</li>
+            <li>VERB-Fin--NOUN-Gen (3229)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(до) (2)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(на) (2)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(около) (67)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(по) (2)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(по) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(порядка) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ради) (3)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(свыше) (1)</li>
-            <li>VERB-Fin--NOUN-Ins (408)</li>
+            <li>VERB-Fin--NOUN-Ins (406)</li>
             <li>VERB-Fin--NOUN-Ins-ADP(со) (1)</li>
             <li>VERB-Fin--NOUN-Nom (16)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(около) (1)</li>
             <li>VERB-Fin--NOUN-Par (1)</li>
             <li>VERB-Fin--PRON-Acc (5064)</li>
-            <li>VERB-Fin--PRON-Gen (755)</li>
+            <li>VERB-Fin--PRON-Gen (746)</li>
             <li>VERB-Fin--PRON-Ins (43)</li>
             <li>VERB-Fin--PRON-Nom (41)</li>
             <li>VERB-Inf--NOUN (26)</li>
@@ -5540,21 +5588,21 @@ udver: '2'
             <li>VERB-Inf--NOUN-Acc-ADP(над) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(со) (1)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(по) (1)</li>
-            <li>VERB-Inf--NOUN-Gen (995)</li>
+            <li>VERB-Inf--NOUN-Gen (989)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(до) (1)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(около) (13)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(от) (1)</li>
-            <li>VERB-Inf--NOUN-Ins (124)</li>
+            <li>VERB-Inf--NOUN-Ins (122)</li>
             <li>VERB-Inf--NOUN-Loc-ADP(о) (1)</li>
             <li>VERB-Inf--NOUN-Nom (2)</li>
             <li>VERB-Inf--PRON-Acc (2446)</li>
-            <li>VERB-Inf--PRON-Gen (278)</li>
+            <li>VERB-Inf--PRON-Gen (277)</li>
             <li>VERB-Inf--PRON-Ins (19)</li>
             <li>VERB-Inf--PRON-Nom (23)</li>
             <li>VERB-Part--NOUN (6)</li>
             <li>VERB-Part--NOUN-Acc (1789)</li>
             <li>VERB-Part--NOUN-Acc-ADP(во) (1)</li>
-            <li>VERB-Part--NOUN-Gen (230)</li>
+            <li>VERB-Part--NOUN-Gen (229)</li>
             <li>VERB-Part--NOUN-Gen-ADP(около) (2)</li>
             <li>VERB-Part--NOUN-Ins (111)</li>
             <li>VERB-Part--PRON-Acc (158)</li>
@@ -5593,7 +5641,7 @@ udver: '2'
             <li>VERB-Conv--PRON-Ins (7)</li>
             <li>VERB-Conv--PRON-Nom (17)</li>
             <li>VERB-Fin--NOUN (52)</li>
-            <li>VERB-Fin--NOUN-Acc (25516)</li>
+            <li>VERB-Fin--NOUN-Acc (25512)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(в) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(из) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(к) (1)</li>
@@ -5619,11 +5667,11 @@ udver: '2'
             <li>VERB-Fin--NOUN-Nom (103)</li>
             <li>VERB-Fin--NOUN-Par (52)</li>
             <li>VERB-Fin--NOUN-Voc (1)</li>
-            <li>VERB-Fin--PRON-Acc (8093)</li>
+            <li>VERB-Fin--PRON-Acc (8091)</li>
             <li>VERB-Fin--PRON-Acc-ADP(в) (1)</li>
             <li>VERB-Fin--PRON-Acc-ADP(у) (1)</li>
             <li>VERB-Fin--PRON-Dat (2)</li>
-            <li>VERB-Fin--PRON-Gen (708)</li>
+            <li>VERB-Fin--PRON-Gen (707)</li>
             <li>VERB-Fin--PRON-Ins (40)</li>
             <li>VERB-Fin--PRON-Nom (80)</li>
             <li>VERB-Inf--NOUN (27)</li>
@@ -5638,8 +5686,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-Gen-ADP(по) (2)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(порядка) (1)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(у) (1)</li>
-            <li>VERB-Inf--NOUN-Ins (95)</li>
-            <li>VERB-Inf--NOUN-Loc-ADP(в) (1)</li>
+            <li>VERB-Inf--NOUN-Ins (93)</li>
             <li>VERB-Inf--NOUN-Nom (29)</li>
             <li>VERB-Inf--NOUN-Par (13)</li>
             <li>VERB-Inf--PRON (1)</li>
@@ -5736,7 +5783,7 @@ udver: '2'
             <li>VERB-Conv--NOUN-Dat (11)</li>
             <li>VERB-Conv--NOUN-Ins (55)</li>
             <li>VERB-Conv--PRON-Dat (2)</li>
-            <li>VERB-Fin--NOUN-Dat (93)</li>
+            <li>VERB-Fin--NOUN-Dat (94)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(вопреки) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(к) (1)</li>
             <li>VERB-Fin--NOUN-Ins (427)</li>
@@ -5773,8 +5820,8 @@ udver: '2'
             <li>VERB-Fin--NOUN (16)</li>
             <li>VERB-Fin--NOUN-Dat (2458)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(во) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (61)</li>
-            <li>VERB-Fin--NOUN-Ins (2080)</li>
+            <li>VERB-Fin--NOUN-Gen (62)</li>
+            <li>VERB-Fin--NOUN-Ins (2082)</li>
             <li>VERB-Fin--PRON-Dat (3017)</li>
             <li>VERB-Fin--PRON-Gen (12)</li>
             <li>VERB-Fin--PRON-Ins (307)</li>
@@ -5782,7 +5829,7 @@ udver: '2'
             <li>VERB-Inf--NOUN (3)</li>
             <li>VERB-Inf--NOUN-Dat (816)</li>
             <li>VERB-Inf--NOUN-Gen (23)</li>
-            <li>VERB-Inf--NOUN-Ins (750)</li>
+            <li>VERB-Inf--NOUN-Ins (752)</li>
             <li>VERB-Inf--PRON-Dat (652)</li>
             <li>VERB-Inf--PRON-Ins (119)</li>
             <li>VERB-Inf--PRON-Nom (8)</li>
@@ -5802,9 +5849,9 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-Dat (60)</li>
+            <li>VERB--NOUN-Dat (61)</li>
             <li>VERB--NOUN-Ins (12)</li>
-            <li>VERB--PRON-Dat (358)</li>
+            <li>VERB--PRON-Dat (360)</li>
             <li>VERB--PRON-Ins (2)</li>
             <li>VERB-Conv--NOUN-Dat (168)</li>
             <li>VERB-Conv--NOUN-Gen (3)</li>
@@ -5820,12 +5867,12 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat-ADP(благодаря) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(в) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(соответственно) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (31)</li>
-            <li>VERB-Fin--NOUN-Ins (4363)</li>
+            <li>VERB-Fin--NOUN-Gen (33)</li>
+            <li>VERB-Fin--NOUN-Ins (4361)</li>
             <li>VERB-Fin--NOUN-Nom (5)</li>
             <li>VERB-Fin--NOUN-Par (2)</li>
-            <li>VERB-Fin--PRON-Acc (3)</li>
-            <li>VERB-Fin--PRON-Dat (4826)</li>
+            <li>VERB-Fin--PRON-Acc (4)</li>
+            <li>VERB-Fin--PRON-Dat (4827)</li>
             <li>VERB-Fin--PRON-Ins (405)</li>
             <li>VERB-Fin--PRON-Nom (31)</li>
             <li>VERB-Inf--NOUN (4)</li>
@@ -5833,7 +5880,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-Dat (711)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(к) (1)</li>
             <li>VERB-Inf--NOUN-Gen (10)</li>
-            <li>VERB-Inf--NOUN-Ins (999)</li>
+            <li>VERB-Inf--NOUN-Ins (1001)</li>
             <li>VERB-Inf--NOUN-Ins-ADP(за) (1)</li>
             <li>VERB-Inf--NOUN-Ins-ADP(около) (1)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
@@ -5910,7 +5957,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 407 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: чувствовать себя, вести себя, позволить себе, представить себе, считать себя, ощущать себя, представлять себе, называть себя, сказать себе, найти себе, почувствовать себя, проявить себя, оправдать себя, повести себя, говорить себе, купить себе, найти себя, отдавать себе, позволять себе, помнить себя, ставить себе, исчерпать себя, подобный себе, покупать себе, причислять себя, видеть себя, вообразить себе, защитить себя, защищать себя, именовать себя, отказывать себе, посвятить себя, судить себя, уважать себя, взять свое, выбирать себе, выдавать себя, готовить себе, зарекомендовать себя, изображать себя, искать себе, назвать себя, объявить себя, оградить себя, позиционировать себя, поймать себя, показать себя, поставить себе, представить себя, пробивать себе</li>
+        <li>This corpus contains 406 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: чувствовать себя, вести себя, позволить себе, представить себе, считать себя, ощущать себя, представлять себе, называть себя, сказать себе, найти себе, почувствовать себя, проявить себя, оправдать себя, повести себя, говорить себе, купить себе, найти себя, отдавать себе, позволять себе, помнить себя, ставить себе, исчерпать себя, подобный себе, покупать себе, причислять себя, видеть себя, вообразить себе, защитить себя, защищать себя, именовать себя, отказывать себе, посвятить себя, судить себя, уважать себя, взять свое, выбирать себе, выдавать себя, готовить себе, зарекомендовать себя, изображать себя, искать себе, назвать себя, объявить себя, оградить себя, позиционировать себя, поймать себя, показать себя, поставить себе, представить себя, пробивать себе</li>
           <ul>
             <li>Out of those, 5 lemmas occurred more than once, but never without a reflexive dependent. Examples: зарекомендовать, утруждать, возомнить, запятнать, поберечь</li>
           </ul>
@@ -5940,7 +5987,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>parataxis:discourse</a></li>
+      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:float</a>, <a>parataxis:discourse</a></li>
       <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>

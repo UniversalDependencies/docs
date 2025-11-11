@@ -32,7 +32,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 19531 sentences and 329596 tokens.</li>
+      <li>This corpus contains 19580 sentences and 330318 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -44,7 +44,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 57105 tokens (17%) that are not followed by a space.</li>
+      <li>This corpus contains 57244 tokens (17%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -111,7 +111,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 89 word types tagged as particles (PART): Ak, Da, Mjā, Nea, Nuja, Nūja, Paldies, acīmredzot, ar, ar', ari, arī, arīdzan, atkal, ausīmdzirdot, diemžēl, diez, diezin, droši, fon, gan, gluži, i, ij, ik, it, itin, ja, jau, jel, jo, jā, ka, kaut, kur, kā, lai, laikam, ne, nebūt, nekā, nez, nezin, no, nu, nē, nūjā, par, pat, patiesi, patiešām, protams, proti, sak, sazin, ta, ta', tad, tak, taču, te, tiešam, tieši, tiešām, tik, tikai, tikpat, tikvien, tipa, to, tomēr, toties, tur, turklāt, tā, tāpat, tātad, vai, var, varbūt, vien, vienkārši, vienīgi, vis, vispār, viss, vēl, īsti, še</li>
+      <li>This corpus contains 85 word types tagged as particles (PART): Ak, Da, Mjā, Nea, Nuja, Nūja, acīmredzot, ar, ar', ari, arī, arīdzan, atkal, ausīmdzirdot, diemžēl, diez, diezin, droši, fon, gan, i, ij, ik, it, itin, ja, jau, jel, jo, jā, ka, kaut, kur, kā, lai, laikam, ne, nebūt, nekā, nez, nezin, no, nu, nē, nūjā, par, pat, patiesi, patiešām, protams, proti, sak, sazin, ta, ta', tad, tak, taču, te, tiešam, tieši, tiešām, tik, tikai, tikpat, tikvien, tipa, to, tomēr, toties, tur, turklāt, tā, tāpat, tātad, vai, var, varbūt, vien, vienkārši, vienīgi, vis, viss, vēl, še</li>
       </ul>
     </td>
   </tr>
@@ -123,7 +123,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 27 lemmas tagged as pronouns (PRON): es, jebkas, jūs, kas, kura, kurš, kuŗa, kuŗš, kāds, mēs, nekas, neviens, pats, sava, sevis, tas, tava, tu, tā, tāds, visa, viskautkas, viss, viņa, viņš, šāda, šāds</li>
+      <li>This corpus contains 29 lemmas tagged as pronouns (PRON): es, jebkas, jūs, kas, ko, kura, kurš, kuŗa, kuŗš, kāds, mēs, nekas, nekāds, neviens, pats, sava, sevis, tas, tava, tu, tā, tāds, visa, viskautkas, viss, viņa, viņš, šāda, šāds</li>
       </ul>
     </td>
   </tr>
@@ -135,7 +135,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 57 lemmas tagged as determiners (DET): abas, abi, cita, cits, daudzi, daža, dažs, es, ikkatrs, ikviena, ikviens, jebkura, jebkurš, jebkāda, jebkāds, jelkāds, katra, katrs, kura, kurais, kurā, kurš, kāda, kāds, mana, mans, manējs, mūsējs, nekāda, nekādi, nekāds, neviena, neviens, pati, pats, sava, savs, savējs, tas, tava, tavs, tā, tāda, tāds, vairākas, vairāki, visa, viss, šis, šitais, šitas, šitā, šitāda, šitāds, šāda, šāds, šī</li>
+      <li>This corpus contains 56 lemmas tagged as determiners (DET): abas, abi, cita, cits, daudzi, daža, dažs, es, ikkatrs, ikviena, ikviens, jebkura, jebkurš, jebkāda, jebkāds, jelkāds, katra, katrs, kura, kurais, kurā, kurš, kāda, kāds, mana, mans, manējs, mūsējs, nekāda, nekādi, nekāds, neviena, neviens, pati, pats, sava, savs, savējs, tas, tava, tavs, tā, tāda, tāds, vairāki, visa, viss, šis, šitais, šitas, šitā, šitāda, šitāds, šāda, šāds, šī</li>
       </ul>
     </td>
   </tr>
@@ -146,7 +146,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: es, kura, kurš, kāds, neviens, pats, sava, tas, tava, tā, tāds, visa, viss, šāda, šāds</li>
+      <li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: es, kura, kurš, kāds, nekāds, neviens, pats, sava, tas, tava, tā, tāds, visa, viss, šāda, šāds</li>
       </ul>
     </td>
   </tr>
@@ -311,8 +311,8 @@ udver: '2'
             <li>AUX-Part: bijusi, tikusi, bijušas, bijušo, tikušas, bijušajām, esoša, esošās</li>
             <li>DET: tā, tās, savu, šīs, kuras, šo, to, šī, savas, kurā</li>
             <li>NOUN: valsts, izglītības, vietā, pasaules, zemes, dzīves, reizi, dienas, mājās, darbības</li>
-            <li>NUM: viena, divas, trīs, vienu, vienas, vienā, divām, otru, otras, vienai</li>
-            <li>PRON: viņa, viņas, viņai, viņu, viņām, viņā, Tawa, iā, kura, kuram</li>
+            <li>NUM: viena, divas, vienu, vienas, vienā, trīs, divām, otru, otras, vienai</li>
+            <li>PRON: viņa, viņas, viņai, viņu, viņām, viņā, Tawa, Tām, iā, kura</li>
             <li>PROPN: Latvijas, Latvijā, Eiropas, Rīgas, Krievijas, Baltijas, Rīgā, Sofija, Latvija, Saeimas</li>
             <li>VERB-Conv: Celdamās, Dzīvodama, Kāpdama, Nevarēdamas, Redzēdama, apzinādamās, atraudamās, atstādama, atvainodamās, brīnīdamās</li>
             <li>VERB-Part: bijusi, kļuvusi, saistītas, sākusi, veikta, pagājušajā, saistīta, minētā, notikusi, saņēmusi</li>
@@ -344,9 +344,9 @@ udver: '2'
             <li>AUX-Conv: būdams, būdami, nebūdams</li>
             <li>AUX-Part: bijis, bijuši, ticis, tikuši, Bijušo, bijušajos</li>
             <li>DET: to, tas, tam, visu, kurš, tie, tā, savu, šo, kuri</li>
-            <li>NOUN: gada, laikā, gadā, darba, gadu, cilvēki, eiro, piemēram, laiku, cilvēku</li>
-            <li>NUM: viens, vienu, trīs, divi, diviem, divus, otru, viena, vienā, vienam</li>
-            <li>PRON: viņš, viņi, viņu, viņa, viņam, viņiem, viņus, viņā, VĪNI, kurā</li>
+            <li>NOUN: gada, laikā, gadā, darba, gadu, eiro, cilvēki, piemēram, laiku, cilvēku</li>
+            <li>NUM: viens, vienu, divi, trīs, diviem, divus, otru, viena, vienā, vienam</li>
+            <li>PRON: viņš, viņi, viņu, viņa, viņam, viņiem, viņus, viņā, pašā, VĪNI</li>
             <li>PROPN: Andris, Jānis, Māris, Vilks, Aleksandrs, Bērziņš, Ziemassvētku, Ģirts, Jāņu, Pauls</li>
             <li>VERB-Conv: būdams, klusēdams, baudīdams, domādams, klusēdami, kļūdams, meklēdams, mezdamies, nespēdams, rūkdams</li>
             <li>VERB-Part: bijis, zināms, paredzēts, redzams, pagājušā, ziņots, plānots, saistīts, pagājušajā, izdevies</li>
@@ -436,7 +436,7 @@ udver: '2'
       <ul>
         <li>Ptan
           <ul>
-            <li>NOUN: finanšu, beigās, beigām, datu, durvis, durvīm, vācu, bailes, dati, ļaudis</li>
+            <li>NOUN: finanšu, beigās, beigām, datu, durvis, durvīm, vācu, sekas, bailes, dati</li>
             <li>PROPN: Ziemassvētku, Jāņu, Cēsu, Līvānu, Limbažu, Līvānos, Strenču, Jāņiem, Strenčos, Vecumnieku</li>
           </ul>
         </li>
@@ -511,11 +511,11 @@ udver: '2'
         <li>Acc
           <ul>
             <li>ADJ: pirmo, lielu, jaunu, labu, jauno, lielāku, otro, īpašu, lielāko, ekonomisko</li>
-            <li>ADJ-Part: drošu, augšupejošu, drošāku, dvakojošās, garāmskrejošo, klātesošos, košos, lejupejošu</li>
+            <li>ADJ-Part: drošu, augšupejošu, drošāku, garāmskrejošo, klātesošos, košos, lejupejošu</li>
             <li>AUX-Part: bijušo</li>
             <li>DET: to, savu, šo, visu, kādu, kuru, tos, tās, katru, citu</li>
             <li>NOUN: laiku, gadus, reizi, darbu, gadu, iespēju, dienu, vietu, informāciju, skaitu</li>
-            <li>NUM: vienu, otru, divas, trīs, divus, piecus, četrus, sešus, septiņus, piecas</li>
+            <li>NUM: vienu, otru, divas, divus, piecus, trīs, četrus, sešus, septiņus, piecas</li>
             <li>PRON: ko, viņu, mani, sevi, neko, mūs, tevi, viņus, jūs, viņas</li>
             <li>PROPN: Latviju, Rīgu, Eiropu, Igauniju, Lietuvu, Vāciju, Jāni, Somiju, Ameriku, Krieviju</li>
             <li>VERB-Part: minēto, esošo, noteiktu, noteikto, notiekošo, zināmu, notikušo, teikto, atlikušo, redzēto</li>
@@ -543,12 +543,12 @@ udver: '2'
             <li>ADJ: dažādiem, dažādām, mīkstajām, lielām, pirmajiem, lielākajiem, vietējiem, jaunajiem, lieliem, pārējiem</li>
             <li>ADJ-Part: klātesošajiem, drošām, garāmslīdošām, košiem, nedrošām, tiesībsargājošajām</li>
             <li>AUX-Part: bijušajām</li>
-            <li>DET: tam, tiem, visiem, kuriem, citiem, šim, tām, saviem, citām, šiem</li>
+            <li>DET: tam, tiem, visiem, kuriem, citiem, šim, tām, saviem, citām, tai</li>
             <li>NOUN: piemēram, gadiem, cilvēkiem, bērniem, gadam, iedzīvotājiem, valstīm, rokām, kājām, beigām</li>
             <li>NUM: diviem, vienam, divām, trim, otram, pieciem, vienai, četrām, astoņiem, deviņiem</li>
             <li>PRON: man, mums, viņam, viņai, viņiem, tev, sev, kam, jums, viņām</li>
             <li>PROPN: Latvijai, Sofijai, Ievai, Jāņiem, Saeimai, Apsītim, Eiropai, Rīgai, Helēnai, Jurelim</li>
-            <li>VERB-Part: esošajiem, noteiktajam, aizturētajiem, iesaistītajām, minētajiem, bijušajām, izveidotajām, noteiktajiem, noteiktiem, strādājošajiem</li>
+            <li>VERB-Part: esošajiem, noteiktajam, pieaugušajiem, aizturētajiem, iesaistītajām, minētajiem, bijušajām, izveidotajām, noteiktajiem, noteiktiem</li>
           </ul>
         </li>
       </ul>
@@ -576,10 +576,10 @@ udver: '2'
             <li>AUX-Part: esošās</li>
             <li>DET: tā, tās, to, šīs, šī, kuras, kuru, savas, kura, citu</li>
             <li>NOUN: gada, valsts, darba, gadu, laika, izglītības, pasaules, dzīves, zemes, cilvēku</li>
-            <li>NUM: vienas, divu, viena, trīs, otras, otra, piecu, sešu, četru, astoņu</li>
+            <li>NUM: vienas, divu, viena, otras, otra, piecu, sešu, četru, astoņu, septiņu</li>
             <li>PRON: mūsu, viņa, viņas, viņu, jūsu, kā, manis, sevis, nekā, tevis</li>
             <li>PROPN: Latvijas, Eiropas, Rīgas, Krievijas, Baltijas, Saeimas, Jelgavas, Liepājas, Bauskas, Lietuvas</li>
-            <li>VERB-Part: pagājušā, esošo, dzimušo, teiktā, minētā, pagājušās, aptaujāto, bruņoto, minēto, bijušā</li>
+            <li>VERB-Part: pagājušā, esošo, teiktā, dzimušo, minētā, pagājušās, aptaujāto, bruņoto, minēto, bijušā</li>
           </ul>
         </li>
       </ul>
@@ -606,7 +606,7 @@ udver: '2'
             <li>AUX-Part: bijušajos</li>
             <li>DET: kurā, šajā, tajā, savā, kādā, pašā, tādā, kurās, visā, tai</li>
             <li>NOUN: laikā, gadā, gadījumā, vietā, mājās, gados, pasaulē, sākumā, veidā, vidū</li>
-            <li>NUM: vienā, otrā, divos, divās, piecos, deviņos, trīs, četros, piecās, sešos</li>
+            <li>NUM: vienā, otrā, divos, divās, piecos, deviņos, četros, piecās, sešos, trijās</li>
             <li>PRON: sevī, viņā, manī, tevī, mūsos, jūsos, kāda, visas, visus, viņos</li>
             <li>PROPN: Latvijā, Rīgā, Eiropā, Krievijā, Vācijā, Saeimā, Liepājā, Maskavā, Lietuvā, Īrijā</li>
             <li>VERB-Part: pagājušajā, noteiktā, noteiktajā, minētajā, zināmā, aizvadītajā, drukātajā, dzimtajā, vienotā, atbilstošā</li>
@@ -708,7 +708,7 @@ udver: '2'
         <li>Def
           <ul>
             <li>ADJ: pirmo, pirmā, galvenais, pirmais, jauno, pirmajā, pirmās, administratīvā, jaunā, otrajā</li>
-            <li>ADJ-Part: klātesošie, klātesošajiem, vispārizglītojošo, klātesošo, tiesībsargājošo, vispārizglītojošajās, Klātesošās, Tiesībsargājošajās, drošā, dvakojošās</li>
+            <li>ADJ-Part: klātesošie, klātesošajiem, vispārizglītojošo, klātesošo, tiesībsargājošo, vispārizglītojošajās, Klātesošās, Tiesībsargājošajās, drošā, garāmskrejošo</li>
             <li>AUX-Part: bijušo, bijušajos, bijušajām, esošās</li>
             <li>DET: daudzajiem, savējie, savējo, savējos, daudzo, daudzās, mūsējie, savējiem, Mūsējo, daudzos</li>
             <li>VERB-Part: pagājušajā, pagājušā, esošo, minēto, minētā, noteikto, apsūdzētais, noteiktajā, notiekošo, notikušo</li>
@@ -864,7 +864,7 @@ udver: '2'
             <li>PART: ne, nē</li>
             <li>VERB-Conv: neskatoties, nekavējoties, nemanot, neraugoties, neļaujot, neņemot, nespējot, negaidot, nerunājot, neatpaliekot</li>
             <li>VERB-Fin: nav, nevar, nebija, nedrīkst, nevajag, nevaru, nezinu, nebūs, nespēj, nespēja</li>
-            <li>VERB-Inf: nedomāt, neuzticēties, neiztikt, neizmantot, nekļūdīties, nemēģināt, nesākt, neatgriezties, neattiecināt, nebaidīties</li>
+            <li>VERB-Inf: nedomāt, neuzticēties, neiztikt, nebūt, neizmantot, nekļūdīties, nemēģināt, nesākt, neatgriezties, neattiecināt</li>
             <li>VERB-Part: nepamanīts, neskaitāmas, nepatīkama, neredzams, Neredzamais, neaizsargāti, neapmierinātie, neatliekamās, nebijušu, nepamatotu</li>
           </ul>
         </li>
@@ -1178,7 +1178,6 @@ udver: '2'
             <li>ADJ-Part: droša, klātesošie, drošu, drošs, klātesošajiem, vispārizglītojošo, droši, drošāki, klātesošo, košos</li>
             <li>AUX-Fin: ir, bija, nav, tiek, tika, būtu, būs, esmu, tiks, esot</li>
             <li>AUX-Part: bijis, bijusi, bijuši, tikusi, ticis, bijušas, tikuši, bijušo, tikušas, bijušajos</li>
-            <li>VERB-Conv: atzīdamies, ierēkdamies, mezdamies</li>
             <li>VERB-Fin: ir, var, varētu, nav, bija, nevar, būs, teica, notiek, sāka</li>
             <li>VERB-Part: pagājušajā, bijis, pagājušā, bijusi, esošo, izdevies, noticis, dzimis, kļuvusi, bijuši</li>
           </ul>
@@ -1292,8 +1291,7 @@ udver: '2'
           <ul>
             <li>ADV: tad, tā, tik, tur, tagad, te, šeit</li>
             <li>DET: to, tas, tā, tās, šo, tam, šī, tie, šajā, šīs</li>
-            <li>NOUN: turienes, turieni</li>
-            <li>PRON: iā, t, taac, tas, to, tos, tā, šadā, šāda</li>
+            <li>PRON: Tām, iā, t, taac, tas, to, tos, šadā, šāda</li>
           </ul>
         </li>
       </ul>
@@ -1314,8 +1312,8 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: kā, kāpēc, kādēļ, cik, kur, tāpēc</li>
-            <li>DET: kādu, citu, kāds, kāda, citiem, kādā, kādas, citi, cits, citām</li>
-            <li>PRON: ko, kas, kam, kā, jebko, ka, kāda, nekā, viskautko</li>
+            <li>DET: kādu, citu, kāds, kāda, citiem, daudzi, kādā, kādas, citi, cits</li>
+            <li>PRON: ko, kas, kam, kā, jebko, ka, kāda, nekāds, pašā, viskautko</li>
           </ul>
         </li>
       </ul>
@@ -1354,7 +1352,6 @@ udver: '2'
           <ul>
             <li>ADV: kad, kā, kur, cik, kāpēc, kādēļ, kurp</li>
             <li>DET: kurš, kāds, Kādi, kāda, kuram, kurā, Kādas, Kādā, kuru, kura</li>
-            <li>NOUN: kurienes, kurieni</li>
             <li>PRON: kas, ko, Kam, kā</li>
           </ul>
         </li>
@@ -1384,7 +1381,20 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADV: nemaz, nedaudz, nereti, netālu, nekādi, nepārtraukti, neapšaubāmi, nenoliedzami, nepavisam, nejauši</li>
-            <li>NOUN: nekurienes</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Neg,Rel
+          <ul>
+            <li>PRON: neko</li>
           </ul>
         </li>
       </ul>
@@ -1395,7 +1405,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>DET: Mans, savai, savam</li>
+            <li>DET: Mans, savai, savam, tavējais</li>
             <li>PRON: tu, viņa, viņš, Es, Man, Viņai, Viņiem, viņam</li>
           </ul>
         </li>
@@ -1532,7 +1542,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>DET: Mans, savai, savam</li>
+            <li>DET: Mans, savai, savam, tavējais</li>
           </ul>
         </li>
       </ul>
@@ -1613,6 +1623,7 @@ udver: '2'
         <li>1
           <ul>
             <li>AUX-Fin: esmu, esam, biju, neesmu, bijām, neesam, nebiju, būsim, tiku, būšu</li>
+            <li>DET: mūsējie, Mūsējo, manējai, manējiem, manējo, manējām, mūsējais, mūsējiem, mūsējā</li>
             <li>PRON: es, man, mēs, mums, mūsu, mani, mūs, manis, manī, Tewi</li>
             <li>VERB-Fin: domāju, varu, nevaru, nezinu, varam, zinu, teicu, gribu, atceros, vēlos</li>
           </ul>
@@ -1625,6 +1636,7 @@ udver: '2'
       <ul>
         <li>2
           <ul>
+            <li>DET: tavējais</li>
             <li>PRON: tu</li>
             <li>VERB-Fin: atver, domā, gribi, skaties, varēsi</li>
           </ul>
@@ -1637,7 +1649,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: esi, esat, neesi, neesat, būsi, esiet, nebūsi, nebijāt, bijāt, būsiet</li>
             <li>PRON: tu, jūs, tev, jums, jūsu, tevi, tevis, tevī, Tawa, jūsos</li>
-            <li>VERB-Fin: vari, lasiet, zini, domā, stum, varat, vēlies, ej, atceries, gribi</li>
+            <li>VERB-Fin: vari, lasiet, zini, varat, domā, stum, vēlies, ej, atceries, gribi</li>
           </ul>
         </li>
       </ul>
@@ -1880,20 +1892,20 @@ udver: '2'
             <li>VERB-Conv--PRON-Nom (2)</li>
             <li>VERB-Fin--NOUN (33)</li>
             <li>VERB-Fin--NOUN-ADP(bez) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (39)</li>
+            <li>VERB-Fin--NOUN-Acc (40)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(par) (1)</li>
             <li>VERB-Fin--NOUN-Dat (226)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(ap) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(pa) (6)</li>
-            <li>VERB-Fin--NOUN-Gen (489)</li>
+            <li>VERB-Fin--NOUN-Gen (490)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(pie) (1)</li>
-            <li>VERB-Fin--NOUN-Loc (2)</li>
-            <li>VERB-Fin--NOUN-Nom (8436)</li>
+            <li>VERB-Fin--NOUN-Loc (1)</li>
+            <li>VERB-Fin--NOUN-Nom (8470)</li>
             <li>VERB-Fin--NOUN-Voc (2)</li>
-            <li>VERB-Fin--PRON-Acc (4)</li>
-            <li>VERB-Fin--PRON-Dat (192)</li>
+            <li>VERB-Fin--PRON-Acc (5)</li>
+            <li>VERB-Fin--PRON-Dat (193)</li>
             <li>VERB-Fin--PRON-Gen (23)</li>
-            <li>VERB-Fin--PRON-Nom (4203)</li>
+            <li>VERB-Fin--PRON-Nom (4214)</li>
             <li>VERB-Inf--NOUN-Acc (3)</li>
             <li>VERB-Inf--NOUN-Dat (12)</li>
             <li>VERB-Inf--NOUN-Nom (23)</li>
@@ -1901,13 +1913,13 @@ udver: '2'
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN (6)</li>
             <li>VERB-Part--NOUN-Acc (4)</li>
-            <li>VERB-Part--NOUN-Dat (14)</li>
-            <li>VERB-Part--NOUN-Gen (33)</li>
+            <li>VERB-Part--NOUN-Dat (15)</li>
+            <li>VERB-Part--NOUN-Gen (32)</li>
             <li>VERB-Part--NOUN-Loc (1)</li>
-            <li>VERB-Part--NOUN-Nom (1860)</li>
+            <li>VERB-Part--NOUN-Nom (1861)</li>
             <li>VERB-Part--PRON-Dat (10)</li>
             <li>VERB-Part--PRON-Gen (4)</li>
-            <li>VERB-Part--PRON-Nom (579)</li>
+            <li>VERB-Part--PRON-Nom (581)</li>
           </ul>
         </li>
       </ul>
@@ -1928,24 +1940,24 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Conv--NOUN-Acc (940)</li>
+            <li>VERB-Conv--NOUN-Acc (942)</li>
             <li>VERB-Conv--NOUN-Nom (2)</li>
             <li>VERB-Conv--PRON-Acc (16)</li>
             <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-Acc (5572)</li>
+            <li>VERB-Fin--NOUN-Acc (5576)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(par) (1)</li>
-            <li>VERB-Fin--NOUN-Nom (344)</li>
-            <li>VERB-Fin--PRON-Acc (865)</li>
+            <li>VERB-Fin--NOUN-Nom (346)</li>
+            <li>VERB-Fin--PRON-Acc (868)</li>
             <li>VERB-Fin--PRON-Acc-ADP(ar) (1)</li>
             <li>VERB-Fin--PRON-Nom (36)</li>
-            <li>VERB-Inf--NOUN-Acc (2992)</li>
+            <li>VERB-Inf--NOUN-Acc (2995)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(par) (1)</li>
             <li>VERB-Inf--NOUN-Gen (1)</li>
             <li>VERB-Inf--NOUN-Nom (4)</li>
             <li>VERB-Inf--PRON-Acc (268)</li>
-            <li>VERB-Part--NOUN-Acc (982)</li>
+            <li>VERB-Part--NOUN-Acc (983)</li>
             <li>VERB-Part--NOUN-Nom (2)</li>
-            <li>VERB-Part--PRON-Acc (146)</li>
+            <li>VERB-Part--PRON-Acc (147)</li>
             <li>VERB-Part--PRON-Acc-ADP(ar) (2)</li>
           </ul>
         </li>
@@ -1974,7 +1986,7 @@ udver: '2'
             <li>VERB-Conv--NOUN-Acc-ADP(par) (38)</li>
             <li>VERB-Conv--NOUN-Acc-ADP(pret) (4)</li>
             <li>VERB-Conv--NOUN-Acc-ADP(uz) (44)</li>
-            <li>VERB-Conv--NOUN-Dat (109)</li>
+            <li>VERB-Conv--NOUN-Dat (108)</li>
             <li>VERB-Conv--NOUN-Dat-ADP(ar) (43)</li>
             <li>VERB-Conv--NOUN-Dat-ADP(no) (13)</li>
             <li>VERB-Conv--NOUN-Dat-ADP(pa) (1)</li>
@@ -2004,14 +2016,14 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc-ADP(ap) (3)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(ar) (397)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(pa) (7)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(par) (226)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(par) (227)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(pret) (18)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(pār) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(uz) (69)</li>
             <li>VERB-Fin--NOUN-Dat (795)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(aiz) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(ap) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(ar) (227)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(ar) (228)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(bez) (5)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(līdz) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(līdzi) (1)</li>
@@ -2023,8 +2035,8 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat-ADP(pretim) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(pretī) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(pēc) (8)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(uz) (59)</li>
-            <li>VERB-Fin--NOUN-Gen (79)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(uz) (61)</li>
+            <li>VERB-Fin--NOUN-Gen (78)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(aiz) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ap) (1)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(ar) (1)</li>
@@ -2067,7 +2079,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-Acc-ADP(pret) (6)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(pār) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(uz) (29)</li>
-            <li>VERB-Inf--NOUN-Dat (339)</li>
+            <li>VERB-Inf--NOUN-Dat (341)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(aiz) (1)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(ap) (1)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(ar) (90)</li>
@@ -2093,7 +2105,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-Nom (7)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
             <li>VERB-Inf--PRON-Acc-ADP(ar) (25)</li>
-            <li>VERB-Inf--PRON-Acc-ADP(par) (11)</li>
+            <li>VERB-Inf--PRON-Acc-ADP(par) (12)</li>
             <li>VERB-Inf--PRON-Acc-ADP(uz) (3)</li>
             <li>VERB-Inf--PRON-Dat (94)</li>
             <li>VERB-Inf--PRON-Dat-ADP(ar) (3)</li>
@@ -2139,11 +2151,11 @@ udver: '2'
             <li>VERB-Part--NOUN-Nom (15)</li>
             <li>VERB-Part--NOUN-Nom-ADP(ar) (3)</li>
             <li>VERB-Part--NOUN-Nom-ADP(no) (1)</li>
-            <li>VERB-Part--NOUN-Nom-ADP(par) (1)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(par) (2)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
             <li>VERB-Part--PRON-Acc-ADP(ar) (9)</li>
             <li>VERB-Part--PRON-Acc-ADP(par) (20)</li>
-            <li>VERB-Part--PRON-Dat (98)</li>
+            <li>VERB-Part--PRON-Dat (99)</li>
             <li>VERB-Part--PRON-Dat-ADP(ar) (1)</li>
             <li>VERB-Part--PRON-Dat-ADP(no) (1)</li>
             <li>VERB-Part--PRON-Dat-ADP(priekš) (1)</li>
