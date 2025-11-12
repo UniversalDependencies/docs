@@ -134,7 +134,7 @@ It is meant for the maintenance task force rather than individual treebank teams
   <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.17 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
 * Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />
   <code>perl tools/generate_comparison_of_treebanks.pl $(cat released_treebanks.txt) ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
-* Run two other scripts that generate the lists of language-specific features and dependency
+* Run some other scripts that generate the lists of language-specific features and dependency
   relation subtypes for the docs repository.
   Once the two files are updated, we must commit and push them to Github of course.<br />
   <code>perl tools/survey_features.pl --tbklist released_treebanks.txt &gt; docs/survey-feats.md<br />
