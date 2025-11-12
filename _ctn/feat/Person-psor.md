@@ -37,3 +37,4 @@ Possessives may have two different persons: that of the possessed object (number
 
 * *umeĩ* "his/her thing"
 * *umeĩce* "his/her things"
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:38 CET -->

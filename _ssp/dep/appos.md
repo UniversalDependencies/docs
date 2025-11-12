@@ -19,4 +19,4 @@ An appositional modifier of a noun is a nominal immediately following the first 
 3	ÁRBOL	_	NOUN	N	_	4	obl	_	Gloss=TREE
 4	cl.e(2d):PERSONA-ascender+a-árbol	_	VERB	V.D	_	0	root	_	Gloss=cl
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:14:59 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:16 CET -->

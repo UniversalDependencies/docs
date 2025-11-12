@@ -22,4 +22,4 @@ Post:  Postposition
 _კოჩი<b>წკალა</b> (kʼɔt͡ʃi<b>t͡sʼkʼɑlɑ</b>)_ "with a human"
 _ჸუდეშა<b>ხ</b> (ʔudɛʃɑ<b>x</b>)_ "till the house"
 _<b>ოზეში</b> გალე (<b>ɔzɛʃi</b> ɡɑlɛ)_ "outside the house"
-<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->

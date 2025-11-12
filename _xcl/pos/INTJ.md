@@ -26,4 +26,4 @@ Classical Armenian has demonstrative interjection ահա/_aha_ ‘behold!’, wh
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
-<!-- Interlanguage links updated So 10. května 2025, 18:13:44 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:49 CET -->

@@ -18,3 +18,4 @@ acl:nmlz(NMLZ.ERG, Is_sour)
 nsubj(siptandoko, gosaŋa)
 nsubj(closes, NMLZ.ERG)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:58 CET -->

@@ -49,4 +49,4 @@ udver: '2'
 
 
 * _Um, laile relaili hano theszuma<b>gum</b>le_ "Yes, I have, but we **might** not be doing it here."
-<!-- Interlanguage links updated So 10. května 2025, 18:14:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:23 CET -->

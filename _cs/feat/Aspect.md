@@ -55,4 +55,4 @@ during conversion, and the `Aspect` feature was introduced instead.
 Unfortunately the morphological lexicon underlying the PDT annotation is incomplete and numerous
 verbs lack the aspect information. Without this imperfection there would be only a tiny group
 of verbs that work with both aspects.
-<!-- Interlanguage links updated So 10. května 2025, 18:13:55 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:02 CET -->

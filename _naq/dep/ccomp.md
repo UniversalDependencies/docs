@@ -60,4 +60,4 @@ Quoted content is considered to be `ccomp` even if it is a sentence fragment:
 ccomp(mî, Hî-î)
 ccomp(say, No)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:07 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:26 CET -->

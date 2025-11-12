@@ -47,4 +47,4 @@ fixed(as-well, as)
 ի վերուստ \n
 fixed(ի, վերուստ)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:32 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:54 CET -->

@@ -51,4 +51,4 @@ As the examples above represent types of result and state clauses
 ([ISK § 891](http://scripta.kotus.fi/visk/sisallys.php?p=891)),
 in FI_FTB they have been annotated using predicatives
 (see chapter Copulas in [Specific constructions](http://universaldependencies.org/fi/overview/specific-syntax.html)).
-<!-- Interlanguage links updated So 10. května 2025, 18:16:13 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->

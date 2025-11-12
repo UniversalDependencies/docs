@@ -13,4 +13,4 @@ nsubj(走る, 太郎)
 case(太郎, が)
 punct(走る, 。)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:47 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:12 CET -->

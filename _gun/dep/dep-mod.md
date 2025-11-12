@@ -16,4 +16,4 @@ dep:mod(come, EPIS)
 
 “When we came here, there was a lot of forest.”
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:24 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:44 CET -->

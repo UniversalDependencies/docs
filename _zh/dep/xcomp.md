@@ -224,4 +224,4 @@ OKAY: 你 有 禮貌, **他 認為** | | BAD: * 你 幫忙, **他 請**
 ### References
 
 - Chao, Yuan Ren. 1968. A Grammar of Spoken Chinese. University of California Press.
-<!-- Interlanguage links updated So 10. května 2025, 18:16:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->

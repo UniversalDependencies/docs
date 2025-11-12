@@ -74,4 +74,4 @@ doer and the undergoer/theme are coded as objects.
 
 * [tl] _<b>Ipinansulat</b> ni John ng liham kay Mary ang makinilya._ “John <b>wrote</b> Mary a letter on the typewriter.”
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->

@@ -17,4 +17,4 @@ nmod(ⲡⲁ, ⲡⲁⲩⲗⲟⲥ)
 
 In fragments, such as a plain nominal phrase or a single interjection, the local root (i.e. the noun head, or the interjection) is the root.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:11 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:39 CET -->

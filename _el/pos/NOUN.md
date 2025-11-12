@@ -36,4 +36,4 @@ Greek nouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case
 
 Karra, Athanasia.  2006. *Problems of inflection and of diminutives formatino in Modern Greek and the other European systems.* PhD Thesis (in Greek). University of Patras.   https://nemertes.library.upatras.gr/jspui/bitstream/10889/911/1/Nimertis_Karra.pdf 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:45 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->

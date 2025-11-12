@@ -37,4 +37,4 @@ Expresses a question. Realized as *-ko* or *-kö*.
 * <http://scripta.kotus.fi/visk/sisallys.php?p=126> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1635> (in Finnish)
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:59 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:06 CET -->

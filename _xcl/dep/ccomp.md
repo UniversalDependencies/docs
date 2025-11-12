@@ -30,4 +30,4 @@ parataxis(Arise, say)
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 
 Ouzounian, Agnès. 1992. _Le discours rapporté en arménien classique_. Louvain-La-Neuve: Peeters, 1992.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:08 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:26 CET -->

@@ -32,4 +32,4 @@ cc(had, And)
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 
 Klein, Jared. 2017. The syntax of Armenian. In: J. Klein et al. (eds.), _Handbook of comparative and historical Indo-European linguistics_. Berlin, Boston: Walter de Gruyter: 1097‒1115.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:07 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:25 CET -->

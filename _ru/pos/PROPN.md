@@ -48,4 +48,4 @@ part of speech is hidden for a Russian speaker.
   consists of three words, none of which is proper noun. However, the acronym
   _<b>ООН</b>&nbsp;_ “UNO” is a single-token name and is tagged `PROPN`.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:48 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:54 CET -->

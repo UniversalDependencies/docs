@@ -90,4 +90,4 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:58 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->

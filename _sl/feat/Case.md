@@ -65,4 +65,4 @@ The instrumental case often expresses the instrument, means or accompaniment of 
 ### Conversion from JOS
 
 Tokens with feature Case=nominative are converted to `Case=Nom`, tokens with feature Case=genitive are converted to `Case=Gen`, tokens with feature Case=dative are converted to `Case=Dat`, tokens with feature Case=accusative are converted to `Case=Acc`, tokens with feature Case=locative are converted to `Case=Loc`, tokens with feature Case=instrumental are converted to `Case=Ins`.
-<!-- Interlanguage links updated So 10. května 2025, 18:13:58 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->

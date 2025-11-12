@@ -11,3 +11,4 @@ The  _advmod:tmod_ relation is used for adverbial modifiers with temporal modali
 Schnall ghüpst . \n jumped quickly .
 advmod:tmod(ghüpst, Schnall)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:13 CET -->

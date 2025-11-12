@@ -47,4 +47,4 @@ Plurality on verbs is indicated by a set of person/number suffixes which vary de
 * *Kitap okuyacak<b>lar</b>* '(They) will read books' -- Plurality of the subject is inferred from the agreement marker on the verb
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:18 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->

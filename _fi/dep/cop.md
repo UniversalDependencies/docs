@@ -26,4 +26,4 @@ punct(punainen-3, .-4)
 ### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=891> (in Finnish)
-<!-- Interlanguage links updated So 10. května 2025, 18:15:17 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:37 CET -->

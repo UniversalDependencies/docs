@@ -14,4 +14,4 @@ since the predicate will always be morphologically marked as passive.
 Kitap okundu . \n The book was read
 nsubj:pass(okundu, Kitap)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:50 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:16 CET -->

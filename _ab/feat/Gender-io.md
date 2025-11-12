@@ -25,4 +25,4 @@ This feature marks gender agreement of the verb with the indirect object.
 
 * [ab] _и-<b>а</b>-с-ҭе-ит_ [DO.3-<b>IO.3SgNH</b>-Subj.1Sg-give-Aor] ‘I gave it <b>to it.NonHum</b>’ `Dyn=Yes|Gender[io]=Neut|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=1|Tense=Aor|Trans=Yes|VerbForm=Fin`
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:09 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:17 CET -->

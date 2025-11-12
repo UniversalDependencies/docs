@@ -82,4 +82,4 @@ Genska tehnologija pa je šla v tem smislu še korak dlje . \n Genetic technolog
 nmod(dlje,korak)
 nmod(further,step)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:05 CET -->

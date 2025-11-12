@@ -17,4 +17,4 @@ nsubj(келе-7, Олар-1)
 ~~~
 
 <!-- more examples -->
-<!-- Interlanguage links updated So 10. května 2025, 18:14:59 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:16 CET -->

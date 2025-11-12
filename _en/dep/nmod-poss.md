@@ -38,4 +38,4 @@ case(children, 's)
 
 The indefinite article clearly agrees in number with _story_ and not _children_.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:45 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:10 CET -->

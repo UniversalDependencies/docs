@@ -39,4 +39,4 @@ case:pred(gyflym, yn)
 N.B.: the predicative particle _yn_ triggers soft mutation on the following noun and adjective. It must not be confused with the imperfect TAM _yn_ (before verbnouns) which does not trigger any mutation and the prepostion _yn_ "in" which triggers nasal mutation
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:05 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:23 CET -->

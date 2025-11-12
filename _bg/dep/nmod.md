@@ -23,4 +23,4 @@ nmod(cloth, dress)
 nmod(стринка, Елка)
 nmod(aunt, Elka)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:40 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:04 CET -->

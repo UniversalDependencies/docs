@@ -82,4 +82,4 @@ conj(went, returned)
 At present the PDT data converted to UD use `parataxis` only for interjected parentheticals.
 The other examples above are analyzed differently (legacy PDT structure).
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:06 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:33 CET -->

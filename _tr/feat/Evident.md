@@ -39,4 +39,4 @@ The speaker has indirect evidence for the statement.
 * *eve gidiyormuş* '(evidently) she is going home (now)'
 * *eve gitmeliymiş* '(evidently) she has to go home'
 * *eve gitmemişmiş* '(evidently) she had gone home (by the time I arrived)'
-<!-- Interlanguage links updated So 10. května 2025, 18:14:06 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:14 CET -->

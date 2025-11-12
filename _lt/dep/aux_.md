@@ -18,3 +18,4 @@ aux(pavėlavęs, nebūčiau)
 aux(had-hurried, have-been)
 aux(had-hurried, wouldn’t-have-been)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:17 CET -->

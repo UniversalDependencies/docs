@@ -51,4 +51,4 @@ The entity is far away from the reference point (e.g., from the speaker) and is 
 * _nau-i_ "that (other) one"
 
 * _nauti_ "in that (other) way"
-<!-- Interlanguage links updated So 10. května 2025, 18:14:03 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:11 CET -->

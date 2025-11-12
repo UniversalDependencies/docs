@@ -15,4 +15,4 @@ flat:date(12, -)
 flat:date(12, 1990)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:33 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:55 CET -->

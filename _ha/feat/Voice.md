@@ -33,4 +33,4 @@ The stative participle of a verb functions as an adverb.
 
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->

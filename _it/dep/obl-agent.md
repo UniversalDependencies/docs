@@ -18,4 +18,4 @@ i risultati ottenuti dalla società
 advcl(risultati, ottenuti)
 obl:agent(ottenuti, società)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:57 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:24 CET -->

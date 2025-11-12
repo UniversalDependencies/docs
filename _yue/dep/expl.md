@@ -53,4 +53,4 @@ In Cantonese, expletive (1) and pleonastic (2) uses of the pronoun 佢 / _keoi5_
 ### References
 
 - Matthews, Stephen and Virginia Yip. 2011. Cantonese: A Comprehensive Grammar, 2nd ed. Routledge.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:31 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:53 CET -->

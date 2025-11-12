@@ -22,4 +22,4 @@ when used like a determiner.
 * [fi] _se_ "that", _yksi_ "one"
 * [fi] _mikä_ "what"
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:44 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->

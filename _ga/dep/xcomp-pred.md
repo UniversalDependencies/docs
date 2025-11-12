@@ -91,4 +91,4 @@ Bhí Monte Carlo faoi fhurú, an áit beo le Sasanaigh. \n Was Monte Carlo under
 xcomp:pred( áit, beo)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:15 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:44 CET -->

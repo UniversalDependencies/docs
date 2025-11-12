@@ -56,4 +56,4 @@ Used for two-place verba sentiendi and similar verbs, in which the experiencer (
 
 * _გოგონას დედა <b>უყვარს</b>._ 'The little girl loves her mother.'
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->

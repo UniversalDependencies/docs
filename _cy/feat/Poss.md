@@ -19,4 +19,4 @@ The possessive pronoun can be reduplicated after the possessed noun, using a dif
 * _eich tŷ chi_ "your (plur) house"
 
 Note that there is no `No` value. If the word is not possessive, the `Poss` feature will just not be mentioned in the `FEAT` column.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:29 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:41 CET -->

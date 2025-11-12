@@ -20,4 +20,4 @@ The `nmod` relation is used for nominal modifiers of nouns.
 5	CASA	_	NOUN	N	_	4	obj	_	Gloss=HOME
 6	MADERA	_	NOUN	N	_	5	nmod	_	Gloss=WOOD
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:05 CET -->

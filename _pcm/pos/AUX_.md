@@ -27,4 +27,4 @@ Auxiliaries can be root.
   - [VERB](): Wey rain wata fit pass <b>go</b> under.
 - make (jussive mood) : <b>Make</b> we talk true sef o.
   - [VERB](): <b>Make</b> sure sey you no leave am.
-<!-- Interlanguage links updated So 10. května 2025, 18:13:42 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->

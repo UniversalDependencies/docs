@@ -23,4 +23,4 @@ or even with prepositions. As these arguments use an oblique coding, they are no
 arguments and thus do not qualify as objects in the UD terminology (despite being called
 objects in the traditional grammar). They have to be attached as [obl]().
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:53 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:20 CET -->

@@ -17,4 +17,4 @@ det(VÄNERSBORG^SKOLA@en, PEK)
 FRÅGA GRODA PAPPA FÅ PRO1 TA*MED@z ADOPTERA EN GRODA JA@ub@z HAND(SJ)+HANTERA@p BEGE-SIG-HEM \n [He] asked Daddy Frog "Can I adopt a frog" [he said] "yes", so [they] took it and went home
 det(GRODA-9, EN)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:25 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:46 CET -->

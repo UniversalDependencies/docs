@@ -108,4 +108,4 @@ will either render the sentence ungrammatical or lead to a different interpretat
 The result is that in _She entered the room sad,_ _sad_ will depend on _She_
 and the relation will be [acl]() instead of `xcomp`.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->

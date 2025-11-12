@@ -60,3 +60,4 @@ cc(hurries, and)
 
 For more on coordination, see the [conj]() relation. 
 
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:24 CET -->

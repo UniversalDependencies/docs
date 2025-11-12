@@ -12,4 +12,4 @@ Adjectives typically modify nouns. In Basque, the adjective follows the noun, al
 
 * Following the noun: _etxe_ <b>_handia_</b>  "big house"   
 * Preceding the noun: <b>goiko</b>  _etxea_  "the upper house"   
-<!-- Interlanguage links updated So 10. května 2025, 18:13:39 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->

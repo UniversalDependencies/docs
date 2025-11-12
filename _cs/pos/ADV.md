@@ -47,4 +47,4 @@ are tagged [VERB](), not `ADV`.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adverb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdverbLinguistics.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Adverb)
-<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->

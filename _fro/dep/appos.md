@@ -73,4 +73,4 @@ Titles/honorifics are considered `appos`, if the title is a modifier of a proper
 15	Flandres	_	PROPN	NOMpro	_	13	nmod	_	_
 
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:14:59 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:16 CET -->

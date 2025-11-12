@@ -17,4 +17,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 ### Examples
 - _<b>Эгер </b>  тамакты таттуу суусундуктар менен жесе, маселен артынан газдалган суусундук ичсе, анда организмде кумшекердин көлөмү көбөйүп кетет._ "<b>If</b> the food is eaten with sweet drinks, for example, a carbonated drink, then the amount of sugar in the body increases ".
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:50 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:55 CET -->

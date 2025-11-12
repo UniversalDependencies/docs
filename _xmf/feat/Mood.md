@@ -48,4 +48,4 @@ The imperative mood is used to express commands, requests, advice, or instructio
 #### Examples
 * _დოჭარას//ნ (dɔt͡ʃʼɑrɑs//n)_ 'Write', _ნიჭარუნქ (nit͡ʃʼɑrunk)_ 'Don't write' etc.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:25 CET -->

@@ -9,4 +9,4 @@ A numeral is a word, functioning most typically as a determiner, adjective or pr
 #####Examples
 * 0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359
 * *tre* "three", *femtito* "fifty-two", *fire-fem* "four-five", *tusen* "thousand"
-<!-- Interlanguage links updated So 10. května 2025, 18:13:46 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->

@@ -53,4 +53,4 @@ The `acl` relation is used for clauses that modify a noun or an adjective. Adjec
 
 See [acl:cleft]() for clefted modifiers and [acl:relcl]() for relative clauses.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:43 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:56 CET -->

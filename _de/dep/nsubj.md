@@ -38,4 +38,4 @@ nsubj(ist, Vortrag)
 Das wird schon . \n It will be okay .
 nsubj(wird, Das)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:47 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:12 CET -->

@@ -161,4 +161,4 @@ The 1st person subjunctive expresses a promise (often one which the speaker does
 * [yrk] _книга-мʼ <b>темда-и-дмʼ</b>_ "I will buy the book (leave me in peace!)"
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:15 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:25 CET -->

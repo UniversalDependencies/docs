@@ -54,4 +54,4 @@ The substantive verb is also used in conjunction with a verbal noun to form  pro
 Source: Studies in Irish Syntax. Nancy Stenson (1981), Tübingen: Gunter Narr Verlag. 
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:51 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->

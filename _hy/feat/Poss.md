@@ -33,4 +33,4 @@ means that empty value has the `No` meaning).
 * possessive relative pronouns / determiners: _ում, որի&nbsp;_ “whose”
 * possessive nouns: _հայրիկինը&nbsp;_ “father's”, _մայրիկինը&nbsp;_ “mother's”, _սեղանինը&nbsp;_ “of table”
 * possessive adjectives: _հայոց&nbsp;_ “armenian, armenians', refer to armenians”, _վրաց&nbsp;_ “georgian, georgians', refer to georgians”, _Պարսից&nbsp;_ “of Persis” _Վանա&nbsp;_ “of Van”
-<!-- Interlanguage links updated So 10. května 2025, 18:14:29 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:41 CET -->

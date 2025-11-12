@@ -47,4 +47,4 @@ fixed(così, come)
 **NB** Note that punctuation is never treated as coordinating conjunction. 
 
 For more on coordination, see the [conj]() relation.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:06 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:24 CET -->

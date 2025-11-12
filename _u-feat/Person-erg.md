@@ -53,4 +53,4 @@ and thus we keep `Person[abs]` to demonstrate that it is the same layer of agree
 * [eu] _<b>zizkigun, dizkigu</b>_ (lemma _*edun_) `Number[erg]=Sing|Person[erg]=3` `|` `Number[abs]=Plur|Person[abs]=3` `|` `Number[dat]=Plur|Person[dat]=1`
 * [eu] _<b>zizkieten, dizkiete</b>_ (lemma _*edun_) `Number[erg]=Plur|Person[erg]=3` `|` `Number[abs]=Plur|Person[abs]=3` `|` `Number[dat]=Plur|Person[dat]=3`
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:25 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:36 CET -->

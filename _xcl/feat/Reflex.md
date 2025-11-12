@@ -24,4 +24,4 @@ The tag marks reflexive pronouns ինքն/_inkʻn_ and իւր/_iwr_ “self” a
 Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>).
-<!-- Interlanguage links updated So 10. května 2025, 18:14:33 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:46 CET -->

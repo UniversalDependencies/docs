@@ -26,3 +26,4 @@ Siekiama didinti gimstamumą . \n It-is-aimed to-increase the-birth-rate .
 csubj:pass(Siekiama, didinti)
 csubj:pass(It-is-aimed, to-increase)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:41 CET -->

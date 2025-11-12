@@ -15,4 +15,4 @@ det(ítélet, az)
 nmod:attlvc(meghozatalával, ítélet)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:42 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:06 CET -->

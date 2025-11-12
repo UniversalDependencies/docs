@@ -23,4 +23,4 @@ obl:float(check, yourself)
 
 #### References
 Я. Г. Тестелец. Введение в общий синтаксис. М.: РГГУ, 2001.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:59 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:26 CET -->

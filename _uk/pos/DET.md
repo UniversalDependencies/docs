@@ -37,4 +37,4 @@ An important point to note is that the traditional grammar of Ukrainian does not
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a determiner?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsADeterminer.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Determiner)
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:44 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->

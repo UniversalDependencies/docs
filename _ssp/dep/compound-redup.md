@@ -17,4 +17,4 @@ The compound:redup relation is used for reduplicated compounds. There is a redup
 2	COSTAR	_	VERB	V	_	0	root	_	Gloss=COST
 3	COSTAR	_	VERB	V	_	2	compound:redup	_	Gloss=COST
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:33 CET -->

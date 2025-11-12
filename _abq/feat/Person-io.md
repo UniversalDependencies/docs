@@ -24,4 +24,4 @@ This feature marks person agreement of the verb with the indirect object or of p
 #### Examples
 
 * [abq] _<b>а</b>-пны_ [<b>3SG.M.IO</b>-near] ‘near <b>it</b>’ `Gender[io]=Masc|Number[io]=Sing|Person[io]=3`
-<!-- Interlanguage links updated So 10. května 2025, 18:14:25 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:37 CET -->

@@ -31,4 +31,4 @@ the `NomAg` and `Vnoun` value can also be used with [nouns](koi-pos/Noun).
 
 - _вайӧ_ “he/she/it brings (something)”
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:39 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:52 CET -->

@@ -11,4 +11,4 @@ I sommer har jeg også blitt intervjuet \n This summer I have also been intervie
 aux:pass(intervjuet,blitt)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:03 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:20 CET -->

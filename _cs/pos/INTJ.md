@@ -46,4 +46,4 @@ converted to interjection.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an interjection?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnInterjection.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
-<!-- Interlanguage links updated So 10. května 2025, 18:13:44 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:49 CET -->

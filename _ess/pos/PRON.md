@@ -20,4 +20,4 @@ udver: '2'
 
 ### References
  * Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. Alaska Native Language Center, Fairbanks, Alaska.
-<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->

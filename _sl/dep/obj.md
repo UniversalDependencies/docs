@@ -50,4 +50,4 @@ cop(teacher,was)
 If a clause contains only one non-clausal object (i.e. an object tat is not ccomp), this object can be marked either as a direct object (`obj`) or an indirect object (`iobj`). See the `iobj` relation for more detailed guidelines and examples of sole objects in Slovenian. 
 
 The `obj` relation is not used for prepositional phrases, even if they are syntactically or semantically necessary and cannot be omitted from the sentence (e.g., *veliko se je govorilo o hladni vojni*). Regardless of their meaning and omissibility, prepositional phrases are always treated as peripheral objects (`obl`). 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:53 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:20 CET -->

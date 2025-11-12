@@ -364,4 +364,4 @@ Not all “unnecessary” spaces warrant `flat`, however:
 - numerals with thousands separator spaces (e.g. _1 000 000_) [may be treated as single words](/u/overview/tokenization.html) in languages where this convention is widespread
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:33 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:55 CET -->

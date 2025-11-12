@@ -32,4 +32,4 @@ punct(toksičnost,)-10)
 ~~~
 
 The `punct` relation is only used for tokens which have been tagged as punctuation (PUNCT), and not for tokens tagged as symbols (SYM). Since such tokens perform the function of actual words (for instance, % performs the same role as percent), they are analyzed according to their usual syntactic role or meaning.
-<!-- Interlanguage links updated So 10. května 2025, 18:16:11 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:39 CET -->

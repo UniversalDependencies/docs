@@ -20,4 +20,4 @@ The dependent of an `advcl:conv` relation is an adverbial clause headed by a con
 
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:48 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:03 CET -->

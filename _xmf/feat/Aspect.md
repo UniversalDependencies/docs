@@ -31,4 +31,4 @@ The action has been / will have been completed.
 
 * _გააჭითარენს (ɡɑɑt͡ʃʼitɑrɛns)_ 'he/she made it completely red', _გაათხინს (ɡɑɑtxins)_ 'he/she lended it out' etc.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:03 CET -->

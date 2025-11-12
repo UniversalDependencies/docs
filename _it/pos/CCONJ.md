@@ -25,4 +25,4 @@ CC: Coordinative conjunction
 - _ma_ "but"
 - _sia_ ... _sia_ "both ... and"
 - _né_ ... _né_  "neither ... nor"
-<!-- Interlanguage links updated So 10. května 2025, 18:13:42 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:47 CET -->

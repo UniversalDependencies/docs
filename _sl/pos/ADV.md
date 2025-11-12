@@ -20,4 +20,4 @@ Borderline cases marked as ADV include pronominal adverbs (e.g. _<b>kje</b>_ "wh
 #### Conversion from JOS
 
 All adverbs become `ADV`, with the exception of JOS adverbs converted to [determiners](DET).
-<!-- Interlanguage links updated So 10. května 2025, 18:13:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->

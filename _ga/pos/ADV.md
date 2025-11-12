@@ -15,4 +15,4 @@ Adverbs typically modify verbs to indicate time, place, location or manner. In I
 * _freisin_ "also"
 * _go cúramach_  "carefully"
 * _go hiondúil_ "usually"
-<!-- Interlanguage links updated So 10. května 2025, 18:13:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->

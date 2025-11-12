@@ -18,4 +18,4 @@ obj:agent(asseoir-4,Pierre-5)
 ~~~
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/fr/specific-syntax.html#causative).
-<!-- Interlanguage links updated So 10. května 2025, 18:15:01 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:18 CET -->

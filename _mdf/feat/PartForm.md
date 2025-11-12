@@ -39,4 +39,4 @@ The F or past participle may be seen as a past or perfect participle used with t
 
 * [mdf] _<b>праф</b> лопа_ "a <b>fallen</b> leaf" (past participle)
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:23 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:34 CET -->

@@ -12,4 +12,4 @@ The dependency type `advmod` is used for adverbial modifiers of verbs, nominal v
 advmod(走る, ゆっくり)
 punct(走る, 。)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:14:51 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:07 CET -->

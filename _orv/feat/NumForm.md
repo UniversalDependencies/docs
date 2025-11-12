@@ -48,4 +48,4 @@ digits, letters, or as a word?
 #### Examples
 
 * _РПЅ г сентябрѧ въ Ѕ де_  “in the y<ear> 186th on the sixth d<ay>“
-<!-- Interlanguage links updated So 10. května 2025, 18:14:21 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:32 CET -->

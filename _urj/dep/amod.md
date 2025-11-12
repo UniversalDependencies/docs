@@ -41,4 +41,4 @@ amod(kivi-3, suuri-2)
 ## Open questions
 
 * Should ordinal numerals also receive `amod` ?
-<!-- Interlanguage links updated So 10. května 2025, 18:14:58 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:15 CET -->

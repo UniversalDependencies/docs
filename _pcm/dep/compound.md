@@ -74,4 +74,4 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 5	to	_	_	_	_	0	_	_	_
 6	work	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:11 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:30 CET -->

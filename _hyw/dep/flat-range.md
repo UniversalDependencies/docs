@@ -37,4 +37,4 @@ Western Armenian uses `flat:range` for numerical, spacial and time ranges.
 11	ձեւաչափը	ձեւաչափ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	obj	_	Translit=jewačap’ë|LTranslit=jewačap’
 
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:35 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:57 CET -->

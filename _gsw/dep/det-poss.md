@@ -16,4 +16,4 @@ det:poss(Haus, meinem)
 Sie macht ihre eigene Sache . \n She does her own thing .
 det:poss(Sache, ihre)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:26 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:47 CET -->

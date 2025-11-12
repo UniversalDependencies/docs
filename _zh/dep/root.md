@@ -99,4 +99,4 @@ The root of a sentence is the predicate of the main clause. This may be a verb (
 3	person)?"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:12 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:40 CET -->

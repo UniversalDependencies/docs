@@ -39,4 +39,4 @@ In cases where the missing subject may or must be distinct from a fixed role in 
 ccomp(Каза, се-шегувам)
 ccomp(Said-he, REFL.kid-I)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:13 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:41 CET -->

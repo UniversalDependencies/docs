@@ -36,4 +36,4 @@ In this case, the head is the derived postposition.
 nmod:poss(түрүнүн , азыктын)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:04 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:22 CET -->

@@ -56,4 +56,4 @@ amod(wystawę, archeologiczną)
 amod(exhibition, archaeological)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:31 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:53 CET -->

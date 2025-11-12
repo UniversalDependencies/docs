@@ -21,4 +21,4 @@ In the UD Spanish treebanks, "no" is tagged as ADV with the feature Polarity=Neg
 
 * _Ella no es alta._ "She is not tall."
 * _No siempre llueve aquí._ "It does not always rain here."
-<!-- Interlanguage links updated So 10. května 2025, 18:14:27 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:39 CET -->

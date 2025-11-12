@@ -18,3 +18,4 @@ advcl:emph(I_drink, to_drink)
 advmod:emph(thuŋma, taʔ)
 advmod:emph(to_drink, FOC)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:04 CET -->

@@ -30,4 +30,4 @@ In the Bultreebank tagset the following tags map to `PART`: Ta, Tn, Ti, Tm, Tv, 
 - emphasis particles (Te): _даже_ / _dazhe_ "even"
 - gradable particles (Tg): _най_ / _nay_ "most"
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:46 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->

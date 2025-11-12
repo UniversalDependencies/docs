@@ -18,4 +18,4 @@ This feature marks voice of the verb.
 #### Examples
 
 * [abq] _<b>тш</b>-а-з-сы-м-ры-хIазыр-уа-та_ [<b>RFL.ABS</b>-3SG.N.IO-BEN-1SG.ERG-NEG-CAUS-ready-IPF-ADV] lit. ‘has not made <b>myself</b> ready’ `Caus=Yes|Gender[io]=Neut|Number[erg]=Sing|Number[io]=Sing|Person[erg]=1|Person[io]=3|Polarity=Neg|VerbForm=NonFin|Voice=Rfl`
-<!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->

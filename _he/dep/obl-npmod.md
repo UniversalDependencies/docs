@@ -12,4 +12,4 @@ used as an adverbial modifier in a sentence; This subtype has been **deprecated*
 ב בונדסטאג של גרמניה ה מערבית הוסכם על כך פה אחד
 obl:npmod(הוסכם, פה)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:02 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:29 CET -->

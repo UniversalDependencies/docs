@@ -35,4 +35,4 @@ To break this down:
 #### History:
 
 Before UD v2.13, this feature was restricted to past participles with an explicit [aux:pass]() dependent. For UD v2.13, this [was broadened](https://github.com/UniversalDependencies/UD_English-EWT/issues/290) to include all past participles interpreted as passive.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->

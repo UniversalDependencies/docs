@@ -27,4 +27,4 @@ punct(錄, 。)
 * Tremblay, A. (2005). Word Order in Mandarin Chinese and Grammatical Relations.
   In: Proceedings of the 19th Pacific Asia Conference on Language, Information and Computation: 333–340.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:55 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:22 CET -->

@@ -29,4 +29,4 @@ adjective and no `Hyph=Yes` would be used in the annotation.
 * [cs] _<b>česko</b>-slovenský_ "<b>Czecho</b>-Slovak"
 * [en] _<b>Anglo</b>-Saxon_
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:11 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:20 CET -->

@@ -9,4 +9,4 @@ Definition
 Nouns are a part of speech typically denoting a person, place, thing, animal or idea.<br/>
 The postag <code>NOUN</code> is used only for tagging for common nouns.<br/>
 Proper nouns are annotated as <code>PROPN</code> and pronouns as <code>PRON</code>.
-<!-- Interlanguage links updated So 10. května 2025, 18:13:45 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->

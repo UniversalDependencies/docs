@@ -66,4 +66,4 @@ When components are parties to a bilateral relationship, `flat` relation is used
 ~~~
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:35 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:57 CET -->

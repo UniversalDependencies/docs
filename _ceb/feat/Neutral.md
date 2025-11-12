@@ -22,4 +22,4 @@ The neutral marker suffix is _-y_. If the ending of the word is a vowel, the _-y
 #### Example
 
 * _Naa<b>y</b> tao sa opisina._ “There are people at the office.” (The neutral marker suffix is attached to _Naa_, in this case a verb to denote existence of _tao_ "people", this _Naa_ becomes _Naay_. )
-<!-- Interlanguage links updated So 10. května 2025, 18:14:16 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:26 CET -->

@@ -30,4 +30,4 @@ agreement with modified noun) and that of the possessor. The
 
 * _<b>náš</b> pes_ “our dog” `Number[psor]=Plur|Number=Sing`
 * _<b>naši</b> psi_ “our dogs” `Number[psor]=Plur|Number=Plur`
-<!-- Interlanguage links updated So 10. května 2025, 18:14:20 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->

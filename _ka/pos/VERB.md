@@ -24,4 +24,4 @@ Verb:	Main verb
 - main verbs: _წერს_ 'writes', _ხატავს_ 'draws'
 - participles: _დაწერილი_ 'written', _დახატული_ 'drawn'
 - masdars: _წერა_ 'writing', _ხატვა_ 'drawing'
-<!-- Interlanguage links updated So 10. května 2025, 18:13:51 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->

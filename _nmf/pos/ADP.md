@@ -16,4 +16,4 @@ udver: '2'
 * _Tye puirawi bava chaha <b>maramda</b> traie_ "The woman cried **about** her loss"
 
 * _Tye neo fencedi ra <b>zwehnn</b>e_ "The boy jumped **over** the fence"
-<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->

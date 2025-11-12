@@ -31,4 +31,4 @@ The verb "to be" (in Irish _bí_) is given the negative form _níl_ in the prese
 
 * _<b>Níl</b> sé sin mí-réasúnta_ "That <b>is not</b> unreasonable"
 * _Ach <b>nílirse</b> sásta_ "But <b>you aren't</b> happy"
-<!-- Interlanguage links updated So 10. května 2025, 18:14:28 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:39 CET -->

@@ -20,4 +20,4 @@ udver: '2'
 * _კინა//კინება (kʼinɑ//kʼinɛbɑ)_ 'catching'
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:40 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:54 CET -->

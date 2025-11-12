@@ -21,4 +21,4 @@ The feature `Analyt` is used for periphrastic verb forms such as analytic Future
 * _и ту боцку <b>есте далѣ</b> Федору&nbsp;_ “and gave (have given) that barrel to Fedor”
 * _<b>учнутъ платить</b>&nbsp;_ “will pay”
 * _ты <b>бъ велѣлъ</b>&nbsp;_ “you would order”
-<!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:01 CET -->

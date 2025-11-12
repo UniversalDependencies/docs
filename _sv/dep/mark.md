@@ -23,4 +23,4 @@ The infinitive marker *att* is analyzed as a `mark`.
 Det är svårt att tolka \n It is difficult to interpret
 mark(tolka, att)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:39 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:02 CET -->

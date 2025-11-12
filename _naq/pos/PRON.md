@@ -65,4 +65,4 @@ Annotated with [PronType](naq-feat/PronType)=`Dem`. Their form is _nē_ "this", 
 ### Total pronouns
 
 Annotated with [PronType](naq-feat/PronType)=`Tot`. They form consists of _hoa_ "all" and the second part of personal pronouns, e.g. _hoagu_ "all of them", _hoab_ "the whole of him".
-<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:53 CET -->

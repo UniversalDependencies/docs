@@ -197,4 +197,4 @@ Hartt's (1938) examples cited by Avila (2021) (our English translations):
 * [yrl] _Arikú yepé se kiwira sikwé <b>wé</b> waá. &nbsp;_ "I have a brother who is still alive." 
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:03 CET -->

@@ -63,4 +63,4 @@ _kauniisti_ "beautifully" (< _kaunis_ "beautiful).
 8       määrät  määrä   NOUN    N       Case=Nom|Number=Plur    2       nsubj   _       SpaceAfter=No
 9       .       .       PUNCT   Punct   _       2       punct   _       _
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:13:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->

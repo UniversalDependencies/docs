@@ -25,4 +25,4 @@ nummod($, 40)
 
 Numbers used in other constructions are not `nummod`. For instance, the phrase _number 1_ is analyzed as a [flat]() structure, as discussed [here](nmod-desc.html#numbered-entities).
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:51 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:18 CET -->

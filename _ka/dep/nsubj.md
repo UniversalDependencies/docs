@@ -27,4 +27,4 @@ nsubj(აევსო, გოგო-ბიჭებს)
 **NB**
 Note that when the verb is used in the passive voice the nominal syntactic subject is marked with the subtype [nsubj:pass](_ka/dep/nsubj-pass).
 When the subject is clausal, it's preferable to use other specialized relations ([csubj](_ka/dep/csubj) or its subtype [csubj:pass](_ka/dep/csubj-pass).
-<!-- Interlanguage links updated So 10. května 2025, 18:15:47 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:12 CET -->

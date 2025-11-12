@@ -73,4 +73,4 @@ See also the [Poss](_ka/feat/Poss) feature that distinguishes normal personal pr
 
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:31 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->

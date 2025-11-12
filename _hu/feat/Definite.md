@@ -31,4 +31,4 @@ This value is used for marking second person objects which trigger special infle
 * [hu] _Szeretek valakit._ lit. _love-PRES-1SG-INDEF someone-ACC_ “I love someone.”
 * [hu] _Szeretem őt._ lit. _love-PRES-1SG-DEF 3SG-ACC_ “I love him.”
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:01 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:09 CET -->

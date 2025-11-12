@@ -11,4 +11,4 @@ An open clausal complement (<code>xcomp</code>) of a verb, or an adjective, is a
 (16)	სთხოვა გიორგის ეპასუხა. \n 'He/she asked George to answer.'
 xcomp(სთხოვა, ეპასუხა)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:13 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->

@@ -10,4 +10,4 @@ The dependency type `case` is used for the adpositions. The Universal
 dependencies guidelines have comprehensive description of the `case` relation.
 The case relation is used for adpositions, not affix morphs or adpositional
 phrases.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:04 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:22 CET -->

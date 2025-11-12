@@ -53,4 +53,4 @@ Examples: [wbp] _Nyanyi <b>karnapalangu</b> wawirrijarra._ lit. _see-NONPAST <b>
 ### <a name="Plur">`Plur`</a>: plural object
 
 Examples: [eu] _dakarkio<b>gu</b>_ `Number[erg]=Plur`
-<!-- Interlanguage links updated So 10. května 2025, 18:14:20 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:30 CET -->

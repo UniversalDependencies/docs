@@ -67,4 +67,4 @@ nsubj(I-had-went-away,who-43)
 ###References
 
 * Goria, E. (2013). *Towards a taxonomy of Latin cleft sentences*, Journal of Latin Linguistics, 12(2): 147 – 172
-<!-- Interlanguage links updated So 10. května 2025, 18:15:48 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:14 CET -->

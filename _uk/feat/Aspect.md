@@ -35,4 +35,4 @@ Even though originally Ukrainian naturalised such verbs by adding a relevant pre
 * _абонувати&nbsp;_ “to subscribe” (Perf use); _Ігор <b>абонував</b> газету вчора по дорозі додому&nbsp;_ “Igor <b>subscribed</b> to the newspaper yesterday on his way home”
 
 If the context is sufficient to define the aspect such verbs are used in, the respective one is assigned. In the cases when the context does not suffice (as, for example, in the sentence above used without a temporal expression), according to UD conventions, no value for aspect is assigned.
-<!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:03 CET -->

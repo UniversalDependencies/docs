@@ -25,4 +25,4 @@ lit: found-he under a tree a snake frozen from cold-the
 "under a tree he found a snake frozen from the cold"
 amod (zmíje, paladéno)
 ~~~ 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:58 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:14 CET -->

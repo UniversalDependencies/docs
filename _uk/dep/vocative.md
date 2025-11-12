@@ -34,4 +34,4 @@ vocative(you-should-stop-it, President)
 6 at_home _ _ _ _ 0 root _ _
 7 . _ _ _ _ 0 root _ _
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:13 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:41 CET -->

@@ -168,4 +168,4 @@ When a `NOUN` is a retagged participle, it should also have `VerbForm=Part`, [He
 ## XPOS
 
 Words tagged `NOUN` will generally have a BHSA POS tag of `subs`, apart from the retagging cases discussed above, which will be `adjv` or `verb`. In the handful of cases where BHSA marks a multiword name as a single token, `NOUN` may correspond to `nmpr`.
-<!-- Interlanguage links updated So 10. května 2025, 18:13:45 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->

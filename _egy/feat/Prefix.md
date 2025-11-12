@@ -20,4 +20,4 @@ Some verb forms are written with an i҆ prefix (also called prothetic) in Old Eg
 
 * _tꜣ pf <b>i҆:šm(.w)</b> Wni҆ś i҆m ⸗f_ “That land in which Unas walks (...)” (lit. land-m.sg dem:m.sg walk:rel.pres-m.sg Unas-kn in: prep =3sg.m)
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:30 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:42 CET -->

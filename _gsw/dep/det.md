@@ -24,4 +24,4 @@ det(Mädchen, Dieses)
 det(Sekunden, wenige)
 det(Note, welche)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:25 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:45 CET -->

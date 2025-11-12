@@ -26,4 +26,4 @@ column. (Which means that empty value has the `No` meaning.)
 * [mdf] _Мзярда кулезе <b>эсь</b> фамилиянц, Тумкин тись аськолкс инголи.&nbsp;_ “When he heard <b>his</b> [own] surname, he stepped forward.”
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:33 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:46 CET -->

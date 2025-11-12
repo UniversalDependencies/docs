@@ -12,4 +12,4 @@ udver: '2'
 ӈаном' ит' нэкал-ӈава" \n We pulled the boat into the water.
 obl:mod (нэкал-ӈава", ит')
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:02 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:29 CET -->

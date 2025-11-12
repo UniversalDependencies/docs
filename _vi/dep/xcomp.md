@@ -16,4 +16,4 @@ xcomp(cho, ăn)
 punct(cho, .)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->

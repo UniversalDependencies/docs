@@ -32,4 +32,4 @@ Certain multiword expressions, such as *ενάντια σε*, *γύρω από* 
 ### References
 
 Τζάρτζανος, Αχιλλέας, 2002. Νεοελληνική Σύνταξις της Κοινής Δημοτικής. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225. https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
-<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->

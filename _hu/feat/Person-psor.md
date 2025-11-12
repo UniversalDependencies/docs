@@ -39,4 +39,4 @@ on nouns, and we thus have `Person[psor]` together with `Number[psor]`.
 * [hu] _<b>kutyája</b>_ “his/her/its dog”
 * [hu] _<b>kutyájuk</b>_ “their dog”
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:27 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:38 CET -->

@@ -15,4 +15,4 @@ ROOT da / bʔeː =b eːjaːn =heːb ini \n "Men came to me one day", he said.
 root(ROOT, ini)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:11 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:39 CET -->

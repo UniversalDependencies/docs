@@ -53,4 +53,4 @@ These verbs can be passivized.
 
 * [en] _to <b>give</b> somebody something, to be <b>given</b> something by somebody_
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:36 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->

@@ -12,4 +12,4 @@ hoːj sallam -am -an =eːt toː= na nuːn / w= ʔaraːw =oː ba= a- akaj =eːt /
 text_en: Only when I had taken it all from her did she realize that I was not her friend."
 acl:fixed(sallam, na) ("give", relativizers)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:14:44 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:58 CET -->

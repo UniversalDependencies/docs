@@ -13,4 +13,4 @@ Examples<br/>
 In the following sentence, the wordforms <i>you, know, what, I, mean</i> are tagged as <code>X</code>:<br/>
 <i>Viimane pole küll mingi eriline näitaja, kuid ... you know what I mean.</i>
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:51 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->

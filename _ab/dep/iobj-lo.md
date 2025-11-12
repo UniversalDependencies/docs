@@ -17,4 +17,4 @@ The `iobj:lo` relation marks an object referenced by a local object marker.
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:55 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:00 CET -->

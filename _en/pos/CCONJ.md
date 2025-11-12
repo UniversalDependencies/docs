@@ -10,4 +10,4 @@ The English `CCONJ` corresponds to PTB CC.
 
 Only one true morphosyntactic feature applies to `CCONJ` tokens: _<b>nor</b>_, as well as _<b>neither</b>_ in _<b>neither</b>...<b>nor</b>_ pairs, should be marked with [Polarity]()`=Neg`.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:42 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:47 CET -->

@@ -65,4 +65,4 @@ case(ends,to-81)
 * again, the ablative accompanied by the adposition *in* 'in' expresses a stationary location where the root lay after having been planted;
 * the accusatives with *ad* 'to' express the described movement;
 * notice the [locative adverbial element](la-dep/advmod-lmod) *inde* 'thence' used in a nominal context, that is, accompanied by an (redundant) adposition as any other noun phrase.
-<!-- Interlanguage links updated So 10. května 2025, 18:16:01 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:27 CET -->

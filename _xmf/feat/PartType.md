@@ -54,4 +54,4 @@ The `PartType` feature typically applies to [particles](_xmf/pos/PART), [pronoun
 #### Examples
 
 * _-ც (-t͡s)_ 'and' etc.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:23 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:35 CET -->

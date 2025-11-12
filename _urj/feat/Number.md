@@ -14,4 +14,4 @@ number of nominals and number of possessors. For layered features, see
 [Number[psor]]() and [Number[psed]]().
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:18 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:29 CET -->

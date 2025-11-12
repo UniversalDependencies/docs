@@ -28,4 +28,4 @@ The `Number[psor]` feature denotes the possessor's number of possessive [determi
 * [fr] _<b>son</b> ballon_ “her/his balloon” `Person[psor]=3`
 * [fr] _<b>ses</b> ballons_ “her/his balloons” `Person[psor]=3`
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:26 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:38 CET -->

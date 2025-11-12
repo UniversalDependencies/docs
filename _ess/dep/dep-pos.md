@@ -18,4 +18,4 @@ ingagh nga ghpek \n lying-down to-be-in-the-R-posture 2Sg
 dep:pos(nga, ingagh)
 dep:pos(to-be-in-the-R-posture, lying-down)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:24 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:44 CET -->

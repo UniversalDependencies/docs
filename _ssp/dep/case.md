@@ -20,4 +20,4 @@ The case relation is used for any case-marking element which is treated as a sep
 4	VERANO	_	NOUN	N.P	_	2	obl	_	Gloss=SUMMER
 5	ES.ASÍ	_	ADV	Adv	_	2	advmod	_	Gloss=SPECIFIC
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:04 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:22 CET -->

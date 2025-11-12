@@ -14,4 +14,4 @@ Kør den vej , du får besked på . \n Drive the road , you get order to .
 obl:lmod(Kør, vej)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:01 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:27 CET -->

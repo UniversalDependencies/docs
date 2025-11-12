@@ -19,4 +19,4 @@ The `nmod-name` relation is used for names that modify a name (e.g., first name 
 6	?	?	PUNCT	_	_	3	punct	_	LMSeg:?
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:44 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:09 CET -->

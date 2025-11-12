@@ -36,3 +36,4 @@ Possessives may have two different numbers: that of the possessed object (number
 
 * *hunimeĩ* "their (more than two) thing"
 * *hunimeĩce* "their (more than two) things"
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->

@@ -158,4 +158,4 @@ In Naija serial verbs constructions are also used for comparatives. In these con
 7	like	_	_	_	_	0	_	_	_
 8	this	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:34 CET -->

@@ -11,3 +11,4 @@ This is used for locative nominal modifiers.
 e Bett ìme Wìrthüss . \n A bed in a tavern .
 nmod:lmod(Bett, Wìrthüss)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:08 CET -->

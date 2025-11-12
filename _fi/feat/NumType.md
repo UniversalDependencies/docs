@@ -28,4 +28,4 @@ This is subtype of adverb.
 * [fi] _kerran, kahdesti, kolmesti_ "_once, twice, thrice_"
 
 (TODO: others from <http://universaldependencies.org/u/feat/NumType.html>?)
-<!-- Interlanguage links updated So 10. května 2025, 18:14:22 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:33 CET -->

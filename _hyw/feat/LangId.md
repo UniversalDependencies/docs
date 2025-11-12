@@ -21,4 +21,4 @@ This covers the transfer of Eastern Armenian forms to Western Armenian. The tras
 * _<b>Զուիցերիայից է գալիս</b>, ըսաւ օրիորդը ժպտելով;_ “...”,
 * _<b>Չեն էլ ամաչում...</b> ամբողջացուց աննկարագրելի ծամածռութեամբ մը;_ “...”,
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:13 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:22 CET -->

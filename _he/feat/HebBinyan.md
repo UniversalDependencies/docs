@@ -93,4 +93,4 @@ Template `nitCaCeC`. Reflexive, reciprocal or middle voice, carrying the style o
 * _<b>nitgalta</b>_ “was discovered”
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:10 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:19 CET -->

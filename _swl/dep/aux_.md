@@ -15,4 +15,4 @@ clause.
 PRO1 PERF MED.VARA OS@b VM@b \n I have participated in the Olympics and the World Championship
 aux(MED.VARA, PERF)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:00 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:17 CET -->

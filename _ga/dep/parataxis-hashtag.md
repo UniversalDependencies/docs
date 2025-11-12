@@ -16,4 +16,4 @@ However, whenever they are syntactically integrated into the sentence we annotat
 Beidh mé ar chlár @user anocht ag labhairt leis @user faoi #neknominations má tá fonn oraibh mo ghuth binn a chloisteáil.
 nmod(labhairt, #neknominations)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:07 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:35 CET -->

@@ -17,4 +17,4 @@ Om det regnar , blir man blöt . \n If it rains , one gets wet .
 punct(regnar, ,)
 punct(blir, .)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:11 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:39 CET -->

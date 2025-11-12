@@ -22,4 +22,4 @@ dep:comp(kati, hamil) ("let", "become")
 ~~~
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:23 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:43 CET -->

@@ -105,4 +105,4 @@ On the other hand, leaving out _մտահոգիչ_ “worrying” in _նա որո
 will either render the sentence ungrammatical or lead to a different interpretation of _համարեց_ “declared.”
 
 The result is that in _Նա մոլոր մտավ սենյակ,_ “She entered the room errant”, _մոլոր_ “errant” will depend on _Նա_ “She” and the relation will be [acl]() instead of `xcomp`.
-<!-- Interlanguage links updated So 10. května 2025, 18:16:13 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->

@@ -40,4 +40,4 @@ The entity is far away from the reference point (e.g., from the speaker) - dista
 * [qpm] _górm<b>on</b>_ "the tree over there [far away from both the speaker and the listener - distal]" 
 -->
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:03 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:11 CET -->

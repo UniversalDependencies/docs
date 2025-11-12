@@ -17,4 +17,4 @@ nmod:unmarked(חצר, עצמה)
 ב ספטמבר 1952 נחתם הסכם ה שילומים
 nmod:unmarked(ספטמבר, 1952)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:46 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:12 CET -->

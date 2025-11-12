@@ -77,3 +77,4 @@ The combination of completive (the action was / is / will be completed) and perf
 #### Examples
 
 * *Loĩsa<b>nd</b>e.* "He let it out."
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:02 CET -->

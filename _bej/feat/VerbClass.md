@@ -39,4 +39,4 @@ conjugated following the V2 pattern.
 #### Examples
 - _tak / kaːm =i / hoː <b>kʷiɖ</b> -ja i- ni //_ "A man said: "My camel <b>disappeared</b>." "
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:39 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:53 CET -->

@@ -47,3 +47,4 @@ nummod:gov(eurų, šimtai)
 nummod(hundred, Five)
 nummod(euros, hundred)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:29 CET -->

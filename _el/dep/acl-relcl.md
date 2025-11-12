@@ -103,4 +103,4 @@ The relative pronoun *όσος* may function as the object of a verb and at the 
 <!---
 TODO: Revisit arguments for pou being a marker or a relative pronoun
 -->
-<!-- Interlanguage links updated So 10. května 2025, 18:14:45 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:59 CET -->

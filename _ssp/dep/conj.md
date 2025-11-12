@@ -18,4 +18,4 @@ The conjunct relation holds between coordinated elements. We treat coordination 
 3	G:¡ah!	_	ADV	xxx	_	2	advmod	_	Gloss=G
 4	cl.m(Xc):golpear+con-palo	_	VERB	V.D	_	2	conj	_	Gloss=cl
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:16 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:35 CET -->

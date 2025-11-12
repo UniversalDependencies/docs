@@ -18,4 +18,4 @@ In Beja it may be a verb or an affix and we have tagged the clitic copulas as su
 
 - _uːn uː= kaːm iraːnaj / fidig -a <b>dʔi</b> -jaː =b =u /_ "Gosh, this camel was let loose [and]"
 - _hoː =b hoːsoː ʃʔag -aː =b <b>=u</b> uː= tak _ "The man was carrying on his shoulder a lamb"
-<!-- Interlanguage links updated So 10. května 2025, 18:13:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->

@@ -19,4 +19,4 @@ The dependent of an `advcl:seq` relation is an adverbial clause headed by a past
 
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:51 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:06 CET -->

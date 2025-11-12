@@ -49,4 +49,4 @@ among the auxiliaries. Also a limited set of verbal
 compound constructions has been annotated using the
 relation `aux`. See the full lists in
 [FTB Annotation Manual: 16.2 Auxiliary verb](http://www.ling.helsinki.fi/kieliteknologia/tutkimus/treebank/sources/FinnTreeBankManual.pdf).
-<!-- Interlanguage links updated So 10. května 2025, 18:15:00 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:17 CET -->

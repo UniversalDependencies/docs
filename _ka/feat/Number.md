@@ -30,4 +30,4 @@ A plural noun denotes several persons, animals or things.
 #### Examples
 
 * _სახლ<b>ებ</b>ი_ "houses", _სახლ<b>ნ</b>ი_ "houses", _ვწერ<b>თ</b>_ "we write" etc.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:18 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->

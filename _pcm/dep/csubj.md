@@ -38,4 +38,4 @@ The `csubj` relation is used when the subject of a clause is a clause in itself.
 8	good	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:19 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->

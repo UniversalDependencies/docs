@@ -95,4 +95,4 @@ Meillet, Antoine. 1962. _Études de linguistique et de philologie arméniennes. 
 
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:58 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:05 CET -->

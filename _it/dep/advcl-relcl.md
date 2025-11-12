@@ -11,4 +11,4 @@ This relation applies to relative clauses that modify a clause (as opposed to ty
 Così ancor su per la strema testa di quel settimo cerchio tutto solo andai , dove sedea la gente mesta .
 advcl:relcl(andai, sedea)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:14:50 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:06 CET -->

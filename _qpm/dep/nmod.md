@@ -20,4 +20,4 @@ so naučény 6 pakéty ǧugáry
 "they have found 6 packets of cigarettes"
 nmod(pakéty, ǧugáry)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:05 CET -->

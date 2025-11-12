@@ -17,4 +17,4 @@ iobj(gave, me)
 Note that prepositional phrases are not considered core arguments in English,
 hence in _she gave it to me_, the _to me_ part is attached as [nmod]() although
 semantically it corresponds to the dative.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:37 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:59 CET -->

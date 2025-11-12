@@ -12,4 +12,4 @@ Marks if the verb is a causative
 #### Examples
 
 * [abq] _й-ды-<b>р</b>-гылы-н_ [3SG.N.ABS-3PL.ERG-<b>CAUS</b>-stand-PST] '<b>made</b> it stand'
-<!-- Interlanguage links updated So 10. května 2025, 18:13:58 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:05 CET -->

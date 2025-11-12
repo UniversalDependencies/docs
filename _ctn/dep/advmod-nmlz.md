@@ -22,3 +22,4 @@ nsubj(they_appear, NMLZ.NSG)
 advmod:emph(goce, le)
 advmod:emph(NMLZ.NSG, RESTR)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:12 CET -->

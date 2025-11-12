@@ -191,4 +191,4 @@ _יתן יהוה לכם ומצאן מנוחה אשה בית אישה ותשק ל
 _yiten yehṿah lakhem umtseʼna menuḥah ʼishah bet ʼishah ṿatishaḳ lahen ṿatiśeʼnah ḳolan ṿativkenah_
 
 _"May The LORD give to you and may you find a resting place, each in the house of her husband." And they lifted up their voices and wept._
-<!-- Interlanguage links updated So 10. května 2025, 18:16:06 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:34 CET -->

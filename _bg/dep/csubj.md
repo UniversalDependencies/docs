@@ -26,4 +26,4 @@ Example 2: The clausal subject is the to-clause (да се срещнем)
 csubj(Предстои, срещнем)
 csubj(Coming-it-is, REFL.meet-each-other)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:18 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:38 CET -->

@@ -18,4 +18,4 @@ vocative(მომიტანე, შვილო)
 vocative(გაქვს, მარიამ)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:12 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:41 CET -->

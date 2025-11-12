@@ -30,4 +30,4 @@ A plural noun denotes several persons, animals or things.
 #### Examples
 
 * _კოჩ<b>აფ</b>ი (kʼɔt͡ʃ<b>ɑp</b>i)_ "men", _ვზიმუნდი<b>თ</b> (vzimundi<b>t</b>)_ "we measure" etc.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:18 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:29 CET -->

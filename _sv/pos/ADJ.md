@@ -17,4 +17,4 @@ _ett <b>stort</b> problem_ "a big problem" (neuter singual) and _<b>stora</b> de
 - _gammal/gammalt/gamla_ "old"
 - _grön/grönt/gröna_ "green"
 - _ofattbar/ofattbart/ofattbara_ "incomprehensible"
-<!-- Interlanguage links updated So 10. května 2025, 18:13:39 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->

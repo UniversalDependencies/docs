@@ -103,4 +103,4 @@ _Meán <b>Fómhair</b>_ 'September'
 Meán Fómhair \n Middle of_Harvest
 flat(Meán,Fómhair)
 ~~~ 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:33 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:55 CET -->

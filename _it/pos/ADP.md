@@ -32,4 +32,4 @@ E:  Preposition
 - _<b>durante</b> la notte_ "during the night"
 - _<b>davanti al</b> cancello_ "in front of the gate"
 - _ha promesso <b>di</b> invitarlo <b>a</b> cena_ "he promised to invite him to dinner"
-<!-- Interlanguage links updated So 10. května 2025, 18:13:40 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->

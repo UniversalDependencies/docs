@@ -83,4 +83,4 @@ The jussive mood is used to express an authoritative or more formal command, req
 * _Kapiu matha dai_ "Start searching the place."
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->

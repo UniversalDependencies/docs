@@ -11,4 +11,4 @@ The specialization `discourse:emo` is used in PoSTWITA for emoticons/emojis and 
 mi sono davvero divertito :D
 discourse:emo(divertito, :D) 
 ~~~ 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:27 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:49 CET -->

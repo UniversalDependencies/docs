@@ -24,4 +24,4 @@ An indirect object is a nominal which is the second object of the verb, often as
 9	cl.m(5d):dar-fruta	_	VERB	V.D	_	0	root	_	Gloss=cl
 10	cl.m(5d):dar-fruta	_	VERB	V.D	_	9	compound:redup	_	Gloss=cl
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:37 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:00 CET -->

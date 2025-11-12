@@ -31,4 +31,4 @@ employ the feature, though in the future it may be broadened.
 * _Ме эг вермы сійӧ вӧтны, <b>сідз кыдз</b> сія ӧддьӧн чожа котӧртіс._ (_сідз_ = `ADV`)
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:06 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:14 CET -->

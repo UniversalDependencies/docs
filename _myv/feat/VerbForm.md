@@ -96,4 +96,4 @@ The verbal noun in Erzya represents a mixture of verb and nominal features.
 
 * [myv] _пек <b>сиземадо</b> мейле мик эске лангсо мадезь удомат сы._ "after you get really tired, you will even want to fall asleep when you're lying on spikes"
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:40 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:54 CET -->

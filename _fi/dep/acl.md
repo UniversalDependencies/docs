@@ -80,4 +80,4 @@ punct(osoittautui-2, .-5)
 ### Turku Dependency Treebank
 
 We do not attempt to distinguish modifiers including secondary predication from other type of modifiers. Therefore, optional predicative like modifiers are attached to the main verb with one of the modifier relations.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:42 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:56 CET -->

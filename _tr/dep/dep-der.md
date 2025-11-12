@@ -32,4 +32,4 @@ dep:der(ki, Sende)
 ### References
 Hankamer, Jorge. _An ad-phrasal affix in Turkish_. 
 MIT Working Papers in Linguistics 46 (2004): 289-299.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:23 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:44 CET -->

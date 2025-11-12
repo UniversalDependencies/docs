@@ -24,4 +24,4 @@ See the section on verbal features in [ky-overview/specific-syntax]().
 - _айтты_, _өттү_ "said, passed"
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:51 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->

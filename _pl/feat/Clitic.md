@@ -30,4 +30,4 @@ a clitic, too.
 * _Poprosili<b>śmy</b> inne kraje o pomoc_ “We have asked other countries for help”
 * _Nie chciałby<b>m</b> wywierać na was presji_ “I hate to put a little pressure on you”
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:59 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:06 CET -->

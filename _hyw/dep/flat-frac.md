@@ -22,4 +22,4 @@ Western Armenian uses `flat:frac` for numerical fractions or just the denominato
 11	վերաբերի	վերաբերիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=veraberi|LTranslit=veraberil
 
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:34 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:56 CET -->

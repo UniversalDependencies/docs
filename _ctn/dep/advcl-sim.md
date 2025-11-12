@@ -12,3 +12,4 @@ Ghakaŋ kanchi kok pimalok caklet naktucohatto . \n Later kanchi rice give.INF.S
 advcl:sim(naktucohatto, pimalok)
 advcl:sim(he_asks_for, give.INF.SIM)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:06 CET -->

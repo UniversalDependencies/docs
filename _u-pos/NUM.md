@@ -48,4 +48,4 @@ Related features: [NumForm](), [NumType]()
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a numeral?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANumeral.htm)
 - [Wikipedia: Numeral](http://en.wikipedia.org/wiki/Numeral_%28linguistics%29)
-<!-- Interlanguage links updated So 10. května 2025, 18:13:46 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->

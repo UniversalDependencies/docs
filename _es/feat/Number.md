@@ -45,4 +45,4 @@ However, if there is phonological transcription, the number can be inferred from
 * _Mi' zapato'_ [misaˈpa.to] "My shoes"
 
 In the examples provided, the apostrophe indicates elision of the final -s in informal or regional speech. Despite this phonetic change, the words would still be tagged as plural in analysis due to their grammatical and contextual function.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:18 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->

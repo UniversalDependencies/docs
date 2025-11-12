@@ -28,4 +28,4 @@ The auxiliary տամ is used to form periphrastic causative and is labelled [aux
 Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 
 Kölligan, Daniel. 2021. The perfect in Classical Armenian. In: R. Crellin, Th. Jügel (eds.), _Perfects in Indo-European Languages and Beyond_. Benjamins: 352–376.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:00 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:17 CET -->

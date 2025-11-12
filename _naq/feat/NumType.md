@@ -28,4 +28,4 @@ In Khoekhoe, numerical expressions such as cardinal and ordinal numbers have a N
 * _ǂgūro/ǂguro, ǀgamǁî, ǃnonaǁî_ 'first, second, third' (adjectives)
 
 * _ǂgūrose/ǂgurose, ǀgamǁîse, ǃnonaǁîse_ 'as first, as second, as third' (adverbs)
-<!-- Interlanguage links updated So 10. května 2025, 18:14:22 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:33 CET -->

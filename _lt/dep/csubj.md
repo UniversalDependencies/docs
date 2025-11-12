@@ -20,3 +20,4 @@ Mąstyti yra svarbu . \n To-think is important .
 csubj(svarbu, Mąstyti)
 csubj(important, To-think)
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->

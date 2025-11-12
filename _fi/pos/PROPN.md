@@ -18,4 +18,4 @@ Acronyms of proper nouns, such as *EU* and *YK*, should be tagged PROPN.
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=596> (in Finnish)
-<!-- Interlanguage links updated So 10. května 2025, 18:13:48 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:53 CET -->

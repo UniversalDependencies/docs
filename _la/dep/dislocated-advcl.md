@@ -28,4 +28,4 @@ dislocated:advcl(intelligens, materia)
 
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:29 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:51 CET -->

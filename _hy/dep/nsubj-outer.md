@@ -28,3 +28,4 @@ See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-
 14	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:16 CET -->

@@ -15,4 +15,4 @@ parataxis:rep(say, finish)
 
 “"Alas, nowadays the forest is gone", I tell them.”
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:09 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:37 CET -->

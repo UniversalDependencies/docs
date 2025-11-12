@@ -52,4 +52,4 @@ _naoi gcéad <b>déag</b>_ nineteen hundred
 naoi gcéad déag \n nine hundreds -teen
 compound(naoi, déag)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:11 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:29 CET -->

@@ -100,4 +100,4 @@ This case-marking is productive, but is more restricted than other cases.
 * _әйткәнем<b>чә</b>_ "as I said"
 * _кичәге<b>чә</b>_ "like yesterday"
 * _татар<b>ча</b>_ "in Tatar" (cf. Russian _<b>по</b>-татарски_)
-<!-- Interlanguage links updated So 10. května 2025, 18:13:58 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->

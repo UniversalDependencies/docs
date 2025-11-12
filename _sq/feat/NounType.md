@@ -18,4 +18,4 @@ and use the feminine _-e_ suffix in plural.
 * _ishulli ishte <b>vend</b> kelt_ “the island was Celtic country” `Gender=Masc|NounType=Het|Number=Sing`
 * _në <b>vendet</b>_ “in places” `Gender=Fem|NounType=Het|Number=Plur`
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:17 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->

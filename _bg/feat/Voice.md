@@ -40,4 +40,4 @@ In Bulgarian there are two ways of forming passive:
 
 - Тази книга <b>се чете лесно</b>. / _Tazi kniga se chete lesno_ "This book reads easily".
 - Тази книга <b>беше прочетена</b> по-бързо от другите. / _Tazi kniga beshe prochetena po-barzo ot drugite_ "This book was read faster than the others".
-<!-- Interlanguage links updated So 10. května 2025, 18:14:41 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->

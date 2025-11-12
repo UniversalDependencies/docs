@@ -62,4 +62,4 @@ because it can also be used in past indicative.
 * _Kdy<b>bych</b> byl chytrý, studoval <b>bych</b> na
   univerzitě.&nbsp;_ “If I <b>were</b> smart I <b>would</b> study at the
   university.”
-<!-- Interlanguage links updated So 10. května 2025, 18:14:14 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->

@@ -31,4 +31,4 @@ advmod(looked, where)
 
 See [details on free relatives](acl-relcl.html#free-relatives).
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:50 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:06 CET -->

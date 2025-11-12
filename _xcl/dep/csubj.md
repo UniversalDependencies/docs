@@ -11,4 +11,4 @@ A clausal syntactic subject.
 որ ունիցի ականջս լսելոյ . լուիցէ \n he that hath ears to hear , let him hear
 csubj(լուիցէ, ունիցի)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:19 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->

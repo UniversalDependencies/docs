@@ -39,4 +39,4 @@ easily analyzed using the grammatical relations of standard sentences,
 such as when there is overt coordination, then it should be analyzed
 with these more standard relations, even if it is laid out as a list
 typographically.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:38 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:01 CET -->

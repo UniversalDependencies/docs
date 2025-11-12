@@ -22,4 +22,4 @@ The `aux:imp` relation in the Polish [PDB-UD](http://universaldependencies.org/t
 4	peacefully	_	_	_	_	_	_	_	_
 5	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:02 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:19 CET -->

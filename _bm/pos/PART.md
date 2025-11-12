@@ -14,4 +14,4 @@ other universal parts of speech.
 *_Fàntá <b>fána</b> yé dɔ́nkili dá. "Fanata sang a song as well".
 *_Fàntá yé dɔ́nkili dá dɛ́. "Fanata sang a song indeed".
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:46 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->

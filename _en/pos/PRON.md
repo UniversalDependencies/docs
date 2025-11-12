@@ -135,4 +135,4 @@ According to the PTB tagging guidelines, *one* should be
 These correspond to UPOS tags [NUM](), `PRON`, and [NOUN](), respectively.
 However, we depart from PTB in treating *one* as a pronoun in *no one* and *one another*, as described above.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:47 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->

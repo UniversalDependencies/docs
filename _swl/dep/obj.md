@@ -11,4 +11,4 @@ An object is a nominal which is the (direct) object of a verbal predicate.
 PRO1 LITEN-PERSON HA\*INTE PERSON^TECKEN PRO1 PU@g \n When I was small, I didn't have a name sign.
 advcl(HA\*INTE, PERSON^TECKEN)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:53 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:20 CET -->

@@ -31,4 +31,4 @@ root(ROOT,discuté)
 ROOT tu prends la grande rue \n you take the big street
 root(ROOT,prends)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:16:11 CEST -->
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:40 CET -->
