@@ -187,9 +187,9 @@ It is meant for the maintenance task force rather than individual treebank teams
   one-by-one, they can batch-upload the list we send them. Once everything is ready and we submit the item, they will
   review it and archive it. At that moment the release is officially out and no changes to the data files are permitted
   (changes to metadata are possible if necessary, but this is done on demand only). The item will get a persistent URL
-  (handle.net); that is the URL that we want to publish on the UD website. Note that you can now the persistent URL in
-  the record even before it has been approved. It will not change on approval and you can save it; however, it will not
-  be operational as a publicly accessible URL until the item is archived.
+  (handle.net); that is the URL that we want to publish on the UD website. Note that you can now see the persistent URL
+  in the record even before it has been approved. It will not change on approval and you can save it; however, it will
+  not be operational as a publicly accessible URL until the item is archived.
 * Update the title page of Universal Dependencies (`index.md`) as well as `download.md`.
   Send out announcement to lingfil-ud@lists.uu.se, corpora@list.elra.info, unidive-all@math.md, Twitter etc.
   <!-- We used to also send it to ACL but the ACL web now seems to accept only announcements about events, not about data. -->
