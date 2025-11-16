@@ -37,23 +37,18 @@ udver: '2'
     (maybe changed to PART in a future version)
   * for preverbals (_y_, _a_, _mi_, _fe_)
     (maybe changed to PART in a future version)
-* [VERB]() is used for all finite verbs, including _bod_ if it is the main verb (followed by a verbnoun). Verbnouns however are marked as [NOUN]() (with XPOS verbnoun) since they function syntactically as nouns (the direct object is in a genetive construction, the subject is marked with a preposition). 
+* [VERB]() is used for all finite verbs, including _bod_ if it is the main verb (followed by a verbnoun). Verbnouns however are marked as [NOUN]() (with XPOS verbnoun) since they function syntactically as nouns (the direct object is in a genetive construction, the subject is marked with a preposition).
 See [conjugation tables](conjugation.md) for forms and corresponding UD Tense/Mood values
 * [ADP](): inflected prepostions are marked with the XPOS iprep, other preposition have the XPOS prep)
 * [PART]() is only used for the predicative marker _yn_ (which triggers soft mutation on the following word, in difference to the TAM marker _yn_ with does not trigger any mutation and the preposition _yn_ which triggers nasal mutation). The predicative _yn_ is used before nouns and adjectives in head position _Mae Siôn yn athro_ «Siôn is a teacher», _Roedd Nia yn gyflym_ «Nia was fast»
 * The ADV class also contains _dyma_, _dyna_ and _dacw_, even though they can function as a copula.
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
 * Additional features exist to indicate the initial mutation
   * [Mutation]() with values `AM`, `NM` or `SM` for aspirated, nasal or soft mutation
   * impersonal form of verbs use `Person=0`: _cyhoeddwyd y llyfr y llinedd_ «One has published the book last year» (cf. French «on a publié le livre l'an dernier» or German «man hat das Buch letztes Jahr veröffentlicht»). Usually the impersonal forms are translated by passive forms in English, French or German.
-  * Tense=Fut,Imp,Pres,Past,Pqp 
+  * Tense=Fut,Imp,Pres,Past,Pqp
 
 
 
@@ -99,7 +94,7 @@ See [conjugation tables](conjugation.md) for forms and corresponding UD Tense/Mo
   * _ynglŷn â_ «regarding»
 
 ## Inflected prepositions
-Originally inflected prepositions (Gender, Person, Number) were annotated as single words. If followed by the corresponding pronoun, they were attached as `case` to the pronoun, else they were attached as `nmod` or `obl` to their nominal or verbal head, as if it were case marked pronouns. 
+Originally inflected prepositions (Gender, Person, Number) were annotated as single words. If followed by the corresponding pronoun, they were attached as `case` to the pronoun, else they were attached as `nmod` or `obl` to their nominal or verbal head, as if it were case marked pronouns.
 
 _gwrando arni_ (listening to her)
 
@@ -143,13 +138,6 @@ _gwrando arni_
 
 ## Treebanks
 
-There is [one](../treebanks/cy-comparison.html) Welsh UD treebank:
+There is 1 Welsh UD treebank:
 
   * [Welsh-CCG](../treebanks/cy-CCG/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----

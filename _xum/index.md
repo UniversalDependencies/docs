@@ -27,31 +27,18 @@ The main exceptions are :
 
 * `PUNCT` is not used in Umbrian (note that there are word boundaries in the original text but no sentence boundaries).
 
-<!--
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
--->
-
 ### Features
 
 * `NOUN`, `PRON`, `PROPN`, `ADJ`, and `DET` are marked with `Case` and `Number`, and `Gender` when it is known.
 * `VERB` is marked with `VerbForm`, and `Tense`, `Mood`, `Person`, `Number` or `Case`, `Gender`, `Number` depending on the finiteness of the form.
-** Note that verbs have a future perfect form which comes from a very reduced periphrastic construction. Until we find a better solution, we decided to use `Aspect=Per` in conjunction with `Tense=Fut` for these cases. 
-
-<!--
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
--->
+** Note that verbs have a future perfect form which comes from a very reduced periphrastic construction. Until we find a better solution, we decided to use `Aspect=Per` in conjunction with `Tense=Fut` for these cases.
 
 ## Syntax
 
 * Core arguments are identified with case (`Nom` and `Acc`) and in absence of case triggering adposition (__rupinam-e__ is `obl` even if __rupinam__ is `Acc` because of the adposition __e__).
 
-<!--
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
--->
-
 ## Treebanks
 
-There are [1](../treebanks/xum-comparison.html) Umbrian UD treebanks:
+There is 1 Umbrian UD treebank:
 
   * [IKUVINA](../treebanks/xum_ikuvina/index.html)
-

@@ -26,11 +26,6 @@ udver: '2'
 
 * The corpus currently does not include morphological features, except for [NumType]()`=Card`, marking cardinal numerals.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts

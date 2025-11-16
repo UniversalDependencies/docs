@@ -11,7 +11,7 @@ udver: '2'
 * Words are delimited by whitespace characters
 * According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens (words);
 * There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated sometimes as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation), sometimes as a single word.
-* Some compound words from Portuguese are written as one word, e.g. _santaCruz_ 'holy cross', _espíritoSanto_ 'holy spirit'. 
+* Some compound words from Portuguese are written as one word, e.g. _santaCruz_ 'holy cross', _espíritoSanto_ 'holy spirit'.
 
 
 ## Morphology
@@ -45,9 +45,9 @@ Mapping UPOS to XPOS Tupinambá
 
 ### Nominal Features
 
-* Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ `(be) many'. 
+* Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ `(be) many'.
 
-_kunumĩ_ 'boy / boys'  
+_kunumĩ_ 'boy / boys'
 _kunumĩ-etá_ 'boys'
 
 * Person indexes and pronouns are given below:
@@ -55,11 +55,11 @@ _kunumĩ-etá_ 'boys'
 Person     |Possessor indexes   |  Argument indexes  |   Portmanteau indexes |  Switch-reference indexes  | Inependent pronouns   |
 :---------:|:-----------------: | :-----------------:| :------------------:  |:-------------------------: |:--------------------: |
 1.SG      |ʃe=                  |  a-                |          oro          |            wi-             |      iʃé              |
-2.SG      |ne=                  |  ere-              |                       |            e-              |      ené              | 
-3         |                     |     o-             |                       |        o-                  |   aʔe (demonstrative) | 
+2.SG      |ne=                  |  ere-              |                       |            e-              |      ené              |
+3         |                     |     o-             |                       |        o-                  |   aʔe (demonstrative) |
 1.PL.IN   |      jané=          |      ja-           |                       |      jeré-                  |           jané        |
 1.PL.EX   |       oré=          |      oro-          |          opo          |      oro-                 |             oré       |
-2.PL      |        pe=          |      pe-           |                       |        peje´               |          pe ʔẽ        |   
+2.PL      |        pe=          |      pe-           |                       |        peje´               |          pe ʔẽ        |
 
 Possessor indexes, as the name suggests, only index possessors. They are marked not marked with PronType, but they are marked as [Poss=Yes](https://universaldependencies.org/u/feat/Poss.html). Argument indexes are used with verbal predicates, as also are the portmanteau indexes (see below). Switch-reference indexes are used in dependent clauses with subjects coreferential with the subjects of the main clauses.
 Person indexes distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural.
@@ -81,10 +81,10 @@ Case        |          Ending         |           Example            |
 
 Rel    | Form(s)   |             Example                  |
 :-----:|:---------:| :----------------------------------: |
-Cont   | ∅ ~ r     | _ʃe-∅-sɨ_ 'I have a mother'            |    
+Cont   | ∅ ~ r     | _ʃe-∅-sɨ_ 'I have a mother'            |
 NCont  | i ~ s ~ t | _i-sɨ-∅_ 'his/her/its/their mother'    |
 Abs    | t ~ m     | _t-oʔo_  'his/her/their (human) flesh' |
-Corf   |   o       | _o-sɨ-∅_ 'his/her/its/their own mother'| 
+Corf   |   o       | _o-sɨ-∅_ 'his/her/its/their own mother'|
 
 
 
@@ -97,24 +97,24 @@ Corf   |   o       | _o-sɨ-∅_ 'his/her/its/their own mother'|
 * The lexical root in the *gerund* [(VerbForm=Ger)](https://universaldependencies.org/u/feat/VerbForm.html) is marked as VERB even when combining with a relational.
 * Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Aspect.md): `Compl` (completive), `Iter` (Iterative), `Suc` Successive.
 * Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Mood.md): `Perm` (permissive) `Imp` (imperative).
-* Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Red.md) in two differentways: 
-monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The modify the aspect of the verb in different ways: disylabic reduplication indicate the repetition or duration of an action; monosylabic reduplication indicates iteration of the action. 
+* Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Red.md) in two differentways:
+monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The modify the aspect of the verb in different ways: disylabic reduplication indicate the repetition or duration of an action; monosylabic reduplication indicates iteration of the action.
 
 ### Nominalizers
 
-Tupinambá has many nominalizers with different functions. All but 
+Tupinambá has many nominalizers with different functions. All but
 
 Nominalizer    |       function             |    Example                           |
 :------------: | :------------------------: |:----------------------:              |
  _(e)mi_-      | passive deverbalizer       | _t-emi-juka_ 'what is killed'.         |
- -_βaʔe_       | relativizer                | _o-juká-βaʔe_ 'the one who kills'.     | 
+ -_βaʔe_       | relativizer                | _o-juká-βaʔe_ 'the one who kills'.     |
  -_pɨr_        | passive deverbalizer       | _i-juká-pɨr_ 'the one who must be killed'  |
- -_sar_        | agentive nominalizer       | _juká-sar-a_ 'the killer'.             |                                
- -_saβ_        | circunstantial nominalizer | _juká-saβ-a_ 'occasion/place/mode/instrument of killing' |                      
- -_βor_        | habitual agent             | _juká-βor_ 'one who often kills'       |                     
- -_(a)βo_      | gerund                     | _juká-βo_ 'killing'                    |                   
- -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |                        
- 
+ -_sar_        | agentive nominalizer       | _juká-sar-a_ 'the killer'.             |
+ -_saβ_        | circunstantial nominalizer | _juká-saβ-a_ 'occasion/place/mode/instrument of killing' |
+ -_βor_        | habitual agent             | _juká-βor_ 'one who often kills'       |
+ -_(a)βo_      | gerund                     | _juká-βo_ 'killing'                    |
+ -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |
+
 
 
 
@@ -132,7 +132,7 @@ a-ɲan
 ```
 
 ```
-osepjak 
+osepjak
 o-s-epjak
 3.SG(S)-3(O)-see
 He/she/it/they see her/him/it/them
@@ -140,31 +140,31 @@ He/she/it/they see her/him/it/them
 
 * Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed). This is exemplified below through the sentence _John sees Mary_:
 
-_John<sub>i</sub> Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak_   
- 
-_Mary<sub>j</sub> John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak_  
- 
-_o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub> Mary<sub>j</sub>_   
- 
-_o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub> John<sub>i</sub>_   
- 
-_Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub>_   
- 
+_John<sub>i</sub> Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak_
+
+_Mary<sub>j</sub> John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak_
+
+_o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub> Mary<sub>j</sub>_
+
+_o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub> John<sub>i</sub>_
+
+_Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub>_
+
 _John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>_
 
 * The dependency linking the core arguments with the NPs semantically related to the core-arguments are `obl` ([oblique](https://universaldependencies.org/u/dep/obl.html)).
 
-* The object of transitive verbs is always indexed by `Rel=Ncont`. Tupinambá has transitive verbs only when objects are third person. In the other cases a predicative possession is used. When the object is third person, the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (S and O): `Person=13`, `Person=23`, and `Person=33`. 
+* The object of transitive verbs is always indexed by `Rel=Ncont`. Tupinambá has transitive verbs only when objects are third person. In the other cases a predicative possession is used. When the object is third person, the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (S and O): `Person=13`, `Person=23`, and `Person=33`.
 * Other combinations of person indexes occur in the case of 1 &#8594; 2. Two portmanteau pronouns are available: _oro_- 1 &#8594; 2.SG, and _opo_- 1 &#8594; 2.PL:
 
 ```
-orojuká 
+orojuká
 oro-juká
 1.2SG(O)-kill
 'I/We kill(ed) you'
 ```
 ```
-opojuká 
+opojuká
 opo-juká
 1.2PL(O)-kill
 'I/we kill(ed) you'
@@ -199,12 +199,4 @@ ne=r-ub-a
 
 There is 1 Tupinamba UD treebank:
 
-  * [Tupinamba-A](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
-            
+  * [Tupinamba-TuDeT](../treebanks/tpn_tudet/index.html)

@@ -30,16 +30,6 @@ udver: '2'
   * Necessitative ต้อง _tɔ̂ːŋ_ “must”.
   * Potential ได้ _dạî_ “can”.
 
-### Features
-
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB).
-Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
@@ -74,6 +64,7 @@ Describe other noteworthy features. Include links to language-specific feature d
 
 ## Treebanks
 
-There is 1 Thai UD treebank:
+There are [2](../treebanks/th-comparison.html) Thai UD treebanks:
 
   * [Thai-PUD](../treebanks/th_pud/index.html)
+  * [Thai-TUD](../treebanks/th_tud/index.html)
