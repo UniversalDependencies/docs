@@ -23,7 +23,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
  * The language specific tagset is the original annotation made from the extended version of the Leipzig Glossing Rules. (Available at [here](https://corpafroas.huma-num.fr/glosses.html))
  * The UD tagset is based on a conversion from the previous annotation to UPOS.
  * Zaar uses 16 of the universal tags (with the exception of `SYM`, which is not relevant for oral data)
- * As in other African languages (e.g. Hausa, Wolof), the verbal inflections in Zaar are gathered in a single `AUX` that precedes the `VERB`, and expresses various combinations of `Tense` (4 values), `Aspect` (7 values) and `Mood` (4 values). This relatively small treebank already shows 23 combinations. 
+ * As in other African languages (e.g. Hausa, Wolof), the verbal inflections in Zaar are gathered in a single `AUX` that precedes the `VERB`, and expresses various combinations of `Tense` (2 values), `Aspect` (4 values) and `Mood` (4 values). In addition to the TAM auxiliaries, Zaar has 2 copulas.  
  The following auxiliaries are recognized in Zaar:
    * _a_ for future (tense)
    * _á_ for subjunctive (mood)
@@ -37,7 +37,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
    * _yí_ for irrealis (mood)
    * _yiː_ for iterative (aspect)
    * _yiká_ for progressive (aspect)
-
+These auxiliaries can be combined to produce complex TAM values.
 
 ### Features
 
