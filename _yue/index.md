@@ -55,11 +55,6 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * The following relation types are not used in Cantonese at all:
   [expl](), [fixed]()
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses.
-
----
-
 ## Treebanks
 
 There is 1 Cantonese UD treebank:
