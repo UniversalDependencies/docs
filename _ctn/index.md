@@ -12,7 +12,7 @@ udver: '2'
 * Several cases of multiword tokens (clitics) occur:
   * Nominalizers *go* and *kha* are written immediately after the items over which they have scope without whitespace and can take case suffixes.
     Example: *mi<b>kha</b>be = mi + <b>kha</b>be* "on the small one".
-  * Information structure particles -- focus (*ta*, *ai*), topic (*le*, *lo*, *yaŋ*), and unique delimiter (*te*) -- are written directly after the items over which they have scope without whitespace. 
+  * Information structure particles -- focus (*ta*, *ai*), topic (*le*, *lo*, *yaŋ*), and unique delimiter (*te*) -- are written directly after the items over which they have scope without whitespace.
     Example: *menuwa<b>le</b> = menuwa + <b>le</b>* "only the cat".
   * Citative *mo* follows the quoted expression without whitespace.
     Example: *Bedi thuŋma<b>mo</b> mittaŋsehẽ.* "I thought of smoking a cigarette."
@@ -21,12 +21,6 @@ udver: '2'
   * Neutral question *nchi* is written at the end of a clause without whitespace.
     Example: *Didiŋa nunu kok pide<b>nchi</b>?* "Did that girl give food to the baby or not?"
 * No words with internal whitespace appear in the current data.
-
-<!-- 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
---- -->
 
 ## Morphology
 
@@ -49,11 +43,6 @@ udver: '2'
   * Infinitives (`Inf`)
   * Converbs (`Conv`)
   * Participles (`Part`)
-
-<!-- ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
---- -->
 
 ### Features
 <!-- TODO if lus is an AUX, add everywhere where verb is -->
@@ -90,17 +79,12 @@ udver: '2'
 * [Degree]() (`Dim`) is used with diminutive [NOUN]() and [PROPN]().
 * [Foreign]() (`Yes`) is used with foreign words tagged as [X]().
 * [InfStruct]() (`Foc`, `Top`, `Uniq`) is used with the information structure [PART]().
-* [Polarity]() (`Neg`) is used for negative [CCONJ]() (*na* "nor"), [INTJ]() (e.g. *ahã* "no"), [PART]() (e.g. *mahãʔ* "be not"), and [VERB](). 
+* [Polarity]() (`Neg`) is used for negative [CCONJ]() (*na* "nor"), [INTJ]() (e.g. *ahã* "no"), [PART]() (e.g. *mahãʔ* "be not"), and [VERB]().
   [Polarity]() (`Pos`) is used on positive [INTJ]() (e.g. *eiʔ* "yes").
-* [Red]() (`Yes`) is used for morphologically reduplicated words. 
+* [Red]() (`Yes`) is used for morphologically reduplicated words.
 
 * The following universal features are currently not used in Chintang: [Abbr](), [Definite](), [DeixisRef](), [ExtPos](), [Gender](), [NounClass](), [Polite](), [Reflex](), [Typo]().
 
-
-<!-- ---
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
---- -->
 
 ## Syntax
 
@@ -150,20 +134,8 @@ udver: '2'
 
 * The following relation types are not currently used in Chintang: [clf](), [cop](), [dep](), [dislocated](), [expl](), [fixed](), [goeswith](), [list]().
 
-<!-- ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
---- -->
-
 ## Treebanks
 
-There are [1](../treebanks/ctn-comparison.html) Chintang UD treebanks:
+There is 1 Chintang UD treebank:
 
   * [Chintang-CTNTB](../treebanks/ctn_ctntb/index.html)
-
-<!-- ---
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
---- -->
