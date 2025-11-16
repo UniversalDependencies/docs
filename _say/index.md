@@ -10,7 +10,7 @@ udver: '2'
 
 Since the dependencies presented in the Universal Dependencies framework are based on a lexical approach of syntax, the first step of the processing chain is to decide how to tokenize the language. The idea is, by breaking down the sentence into tokens, to extract the syntactic information related to words in the discourse chain.
  * The Zaar treebank is an extension of an oral corpus (https://cortypo.huma-num.fr/index.html) interlinearized and glossed on a morphological basis. 
- * Tokenization had to take into account the fact that syntactic information in Zaar can be spread in different ways in words, affixes and clitics. It has been decided to keep as tokens only words (with and without affixes) and clitics while the syntactic information contained in affixes is annotated by morphological features of the affixed words. Clitics are PRON conveying syntactic functions such as complement and modifier. They are preceded by an “=” sign in the transcription. 
+ * Tokenization had to take into account the fact that syntactic information in Zaar can be spread in different ways in words, affixes and clitics. It has been decided to keep as tokens only words (with and without affixes) and clitics while the syntactic information contained in affixes is annotated by morphological features of the affixed words. Clitics are PRON conveying syntactic functions such as complement and modifier. 
  * As we are dealing with oral data, we have chosen the illocutionary unit as the basic transcription unit. Punctuation tokens (e.g. <, >, //, etc.) organise the illocutionary unit into: pre-nucleus < nucleus > post-nucleus // 
 
 
@@ -43,12 +43,9 @@ This is an overview only. For more detailed discussion and examples, see the lis
 ### Features
 
  * The Zaar treebank uses 34 universal features
- * 8 language specific values associated with the Zaar `AUX` have been added to the scheme: 
-   * 3 for the `Tense` feature (`Imm` = Immediate Past ; `Rec` = Recent Past ; `Rem` = Remote Past;), 
-   * 3 for the `Aspect` feature (`Aor` = Aorist ; `Conc` = Concomitant ; `ImpIter` = Iterative Imperfect)
-   * 2 other `Aspect` features, used independently of the `AUX` upos, were added: 
-     * Inchoative (`Aspect=Inch`)
-     * Resultative (`Aspect=Res`)
+ * 10 language specific values have been added to the scheme: 
+   * 7 'PartTypes' for the `PART` POS (`Adv` = Adverbial ; `Disc` = Discourse ; `Foc` = Focus; 'Illoc' = Illocution; 'Neg' = Negation ; 'Pred'= Predicative; 'Top'= Topic) 
+   * 3 'PastTypes" for the 'past' tense (Immediate, Recent and Remote)
 
 
 ## Syntax
