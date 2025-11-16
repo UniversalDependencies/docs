@@ -37,7 +37,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
    * _yí_ for irrealis (mood)
    * _yiː_ for iterative (aspect)
    * _yiká_ for progressive (aspect)
-These auxiliaries can be combined to produce complex TAM values.
+
+* These auxiliaries can be combined to produce complex TAM values.
 
 ### Features
 
