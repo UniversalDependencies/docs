@@ -17,8 +17,6 @@ This is a **work-in-progress** overview of the UD annotation for Georgian.
   b) postpositions  represented by a suffix attached to an inflected nominal (noun, adjective, numeral and pronoun): სახლში *saxlši* = სახლ+ში 'in the house';
   c) the indirect speech particle represented by a suffix attached to an inflected nominal or verb: სახლიო *saxlio* = სახლი+ო 'a house as smb. said', წერსო *cerso* = წერს+ო 'he writes as smb. said'.
 
----
-
 ## Lemmatization
 
 ### Lemmatization Strategies
@@ -27,9 +25,9 @@ Georgian dictionaries employ various strategies for representing lemmas in nomin
 Nominals: The lemma is consistently represented as the nominative singular form, providing a straightforward and standard approach.
 
 Verbs: Georgian verbs lack an infinitive form, resulting in diverse lemmatization strategies:
-* Verbal Noun (Masdar): Some dictionaries (Chubinashvili 1940; Tsotsanidze et al. 2014 and others) use the verbal noun as the lemma, treating it as an abstract root for verb generation. 
-* Abstract Root: Some dictionaries (Tschenkeli 1965), use abstract verbal roots accompanied by valency information. 
-* Third-Person Singular (Present/Future): Widely adopted by lexicographers (Chikobava 1950–1964; Oniani 1966; Rayfield 2006 and others), this approach represents lemmas as finite verb forms, supplemented with grammatical information. 
+* Verbal Noun (Masdar): Some dictionaries (Chubinashvili 1940; Tsotsanidze et al. 2014 and others) use the verbal noun as the lemma, treating it as an abstract root for verb generation.
+* Abstract Root: Some dictionaries (Tschenkeli 1965), use abstract verbal roots accompanied by valency information.
+* Third-Person Singular (Present/Future): Widely adopted by lexicographers (Chikobava 1950–1964; Oniani 1966; Rayfield 2006 and others), this approach represents lemmas as finite verb forms, supplemented with grammatical information.
 
 ### Lemmatization in UD Treebanks
 For Universal Dependency (UD) treebanks, lemmatization practices typically reflect a hybrid approach, influenced by the diverse strategies used for Georgian verbs. Depending on the treebank, two main approaches are observed:
@@ -54,8 +52,6 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
 * Auxiliaries (AUX) add functional and grammatical meaning to the sentence, expressing tense, aspect, mood, etc., and can be of two types: (a) those which accompany the nominal paradigm and (b) those which accompany the verbal paradigm. If the copulas are represented as clitics, such as მთავარია *mtʻavaria* = მთავარი + ა ('it is important') or სახლია *saxlia* = სახლი + ა ('it is a house'), or as separate words, such as მთავარი არის *mtʻavari aris* ('it is important') or სახლი არის *saxli aris* ('it is a house'), they are considered copula verbs and assigned cop in DEPREL. Other auxiliaries that act as separate words, such as უნდა *unda* ('it should') etc., are considered auxiliaries and assigned aux in DEPREL.
 * Verbal forms indicating verbal nouns or verbal adjectives are assigned a tag VERB with additional information on the features of verbal forms, especially, participles are assigned: VerbForm=Part, while masdars - VerbForm=Vnoun.
 
----
-
 ### Features
 
 #### Lexical Features
@@ -77,11 +73,6 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
   * Verbs inflect for Tense (present, imperfect, future, aorist, perfect, pluperfect), Aspect (imperfective, perfective) and Mood (indicative, subjunctive, conditional, imperative) so-called TAM series, which specifies case-marking and so-called agreement relationships between participants such as agent and patient by means of preverbs, version markers and thematic suffixes. The category of voice can be subdivided into the active, autoactive, inactive, passive and mediopassive voices, but the traditional Georgian grammar (Shanidze 1961, 1973) distinguishes only active, middle and passive voices.
   * The category of personality covers unipersonal, bipersonal and tripersonal verbs. As a result verbal morphology includes agreement between the verb and its arguments in terms of Person, Case and Number. While in Indo-European languages, the verb generally agrees with the subject of the sentence, in Georgian the verb agrees not only with the subject, but with its objects as well, both direct and/or indirect. The verb in Georgian has core and peripheral arguments. A core argument agrees morphologically with the verb by means of Person (1, 2, or 3 for Person[subj], Person[obj], Person[io]) and Number (singular or plural for Number[subj], Number[obj], Number[io]), while a peripheral argument does not. The number of core arguments affects the conjugation system as a whole, subdividing it into subject and object paradigms.
   * There are two types of nonfinite forms: participles and masdars.
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 * The UD_Georgian treebanks use all main DEPREL tags except of [expl](https://universaldependencies.org/u/dep/expl.html), [dislocated](https://universaldependencies.org/u/dep/dislocated.html), [clf](https://universaldependencies.org/u/dep/clf.html) and [reparandum](https://universaldependencies.org/u/dep/reparandum.html). The Georgian language has a flexible word order, which sometimes prefer to follow Subject-Indirect Object-Object-Verb patterns.
@@ -155,13 +146,9 @@ By combining these approaches, the UD treebanks aim to balance linguistic tradit
   * [nmod:iobj](https://universaldependencies.org/u/dep/nmod-iobj.html) (GNC)
   * [nmod:pred](https://universaldependencies.org/u/dep/nmod-pred.html) (GNC)
 
----
-
 ## Treebanks
 
 There are two treebanks for Georgian:
 
 * [UD_Georgian-GLC](https://universaldependencies.org/treebanks/ka_glc/index.html)
 * [UD_Georgian-GNC](https://universaldependencies.org/treebanks/ka_gnc/index.html)
-
----

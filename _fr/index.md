@@ -34,19 +34,9 @@ and [French features](feat/index.html).
 
 * TODO (see [French features](feat/index.html)).
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 * TODO (see [French relations](dep/index.html)).
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
@@ -60,5 +50,5 @@ There are [eight](../treebanks/fr-comparison.html) French UD treebanks:
   * [UD_French-ParisStories](../treebanks/fr_parisstories)
   * [UD_French-PUD](../treebanks/fr_pud)
   * [UD_French-FTB](../treebanks/fr_ftb)
-  
+
 Note that the corpus UD_French-FTB was not updated since 2018 and may not follow the more rencent description given in these guidelines.
