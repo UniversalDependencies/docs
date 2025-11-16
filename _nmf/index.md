@@ -9,14 +9,6 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-<!--
----
-
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
--->
-
 * Words in Naga-Suansu are generally delimited by whitespace or punctuation. Exceptions:
 
     * Multiword tokens occur in the case of clitics. The nominalizer _di_ is written after the verb complex without whitespace. For example, _mazokwoan ngamme<b>di</b>_ ("think.arrive + be able to + NMLZ = memory").
@@ -26,14 +18,6 @@ udver: '2'
 ## Morphology
 
 ### Tags
-
-<!--
----
-
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
--->
 
 <!-- This is an overview only. For more detailed discussion and examples, see the list of [Naga-Suansu POS tags]()-->
 
@@ -54,14 +38,6 @@ Naga-Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() f
 * Verbal nouns (`Vnoun`), tagged as [NOUN]()
 
 ### Features
-
-<!--
----
-
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
--->
 
 <!-- This is an overview only. For more detailed discussion and examples, see the list of [Naga-Suansu features]() -->
 
@@ -99,14 +75,6 @@ Naga-Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() f
 * The following universal features are currently not used in Naga-Suansu: [Animacy](), [Clusivity](), [DeixisRef](), [Gender](), [NounClass](), [Polite](), [Poss](), [Typo](), [Voice]().
 
 ## Syntax
-
-<!--
- ---
-
-**Instruction**: Provide criteria for identifying core arguments (subjects and objects) and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
--->
 
 <!-- For more information, see the list of [Naga-Suansu relations](). -->
 
@@ -156,16 +124,6 @@ The copula verb být (be) is used in equational, attributional, locative, posses
 
 ## Treebanks
 
-<!--
----
-
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
--->
-
-There is [one](../treebanks/nmf-comparison.html) Naga UD treebanks:
+There is 1 Naga UD treebank:
 
   * [Naga-Suansu](../treebanks/nmf_suansu/index.html)

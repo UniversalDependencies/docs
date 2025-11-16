@@ -69,7 +69,7 @@ udver: '2'
   * [ccomp:reported]() for object clauses expressing direct speech
   * [det:poss]() possessive determiner
   * [det:predet]() appears in front of another determiner
-  
+
 
 
 
@@ -77,14 +77,6 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/scn-comparison.html) Sicilian UD treebanks:
+There is 1 Sicilian UD treebank:
 
-  * [Sicilian-A](../treebanks/scn_a/index.html)
-  * [Sicilian-B](../treebanks/scn_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Sicilian-STB](../treebanks/scn_stb/index.html)
