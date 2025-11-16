@@ -25,18 +25,18 @@ This is an overview only. For more detailed discussion and examples, see the lis
  * Zaar uses 16 of the universal tags (with the exception of `SYM`, which is not relevant for oral data)
  * As in other African languages (e.g. Hausa, Wolof), the verbal inflections in Zaar are gathered in a single `AUX` that precedes the `VERB`, and expresses various combinations of `Tense` (2 values), `Aspect` (4 values) and `Mood` (4 values). In addition to the TAM auxiliaries, Zaar has 2 copulas.  
  The following auxiliaries are recognized in Zaar:
-   * _a_ for future (tense)
-   * _á_ for subjunctive (mood)
-   * _áː_ for perfect (aspect)
-   * _nə_ for the identifier/focus (copula)
-   * _tə̀_ for jussive (mood)
-   * _taynàː_ for past (tense)
-   * _yáː_ for imperfect (aspect)
-   * _yǎː_ for conditional (mood)
-   * _yi_ for for the locative/predicative (copula)
-   * _yí_ for irrealis (mood)
-   * _yiː_ for iterative (aspect)
-   * _yiká_ for progressive (aspect)
+   * _a_ for `future` (tense)
+   * _á_ for `subjunctive` (mood)
+   * _áː_ for `perfect` (aspect)
+   * _nə_ for the `identifier`/`focus` (copula)
+   * _tə̀_ for `jussive` (mood)
+   * _taynàː_ for `past` (tense)
+   * _yáː_ for `imperfect` (aspect)
+   * _yǎː_ for `conditional` (mood)
+   * _yi_ for for the `locative`/`predicative` (copula)
+   * _yí_ for `irrealis` (mood)
+   * _yiː_ for `iterative` (aspect)
+   * _yiká_ for `progressive` (aspect)
 
 * These auxiliaries can be combined to produce complex TAM values.
 
@@ -44,8 +44,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
  * The Zaar treebank uses 34 universal features
  * 10 language specific values have been added to the scheme: 
-   * 7 'PartTypes' for the `PART` POS (`Adv` = Adverbial ; `Disc` = Discourse ; `Foc` = Focus; 'Illoc' = Illocution; 'Neg' = Negation ; 'Pred'= Predicative; 'Top'= Topic) 
-   * 3 'PastTypes" for the 'past' tense (Immediate, Recent and Remote)
+   * 7 `PartTypes` for the `PART` POS (`Adv` = Adverbial ; `Disc` = Discourse ; `Foc` = Focus; `Illoc` = Illocution; `Neg` = Negation ; `Pred`= Predicative; `Top`= Topic) 
+   * 3 `PastTypes` for the `past` tense (`Immediate`, `Recent` and `Remote`)
 
 
 ## Syntax
