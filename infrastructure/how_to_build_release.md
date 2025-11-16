@@ -197,7 +197,7 @@ It is meant for the maintenance task force rather than individual treebank teams
   locate the function `get_timer()` and update the date to the next data freeze deadline.
 * Upload the data to the search engines (PML-TQ, Kontext etc.)
 * Check the issues of the docs repository on Github, close the ones that have been solved, and create a new milestone for the others.
-* Generate Deep UD based on the new UD release.
+
 
 <div style="color:lightgrey; font-size:smaller">
 <pre>
