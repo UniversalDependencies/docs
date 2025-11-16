@@ -84,7 +84,11 @@ perl docs-automation\ghapi\ghapi.pl --finalize UD_Ancient_Greek-PROIEL
 * Clone the repository to Dan's local system.
 * Clone the repository to Dan's validation server (`quest`).
 
+
+
 # How to rename a treebank in UD
+
+**NOTE: It may be better to require that LEGACY treebanks are fully VALID before they can be renamed (see below).**
 
 Normally, the names of the treebank repositories should be stable because the infrastructure depends on them
 (which is also partially illustrated by this section). However, between releases 2.1 and 2.2 we want to rename
@@ -117,36 +121,39 @@ setfacl -m u:zeman:rw,u:www-data:rw evaluation-report.txt</pre>
     <pre>"2.1": [["UD_Czech", "UD_Czech-PDT]]</pre>
     The release number identifying this record should be the last release where the treebank appeared under the old name.
     Skip this step if the renamed treebank has not been released yet.
-5.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
+5.  Open the file `valdan/dispensations.json`, locate validation dispensations granted to the old treebank name (if any)
+    and replace the treebank with the new name. Or force the contributors to fix all errors before they are granted the
+    name change.
+6.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
     Create a new clone under the new name. Check out the dev branch.
-6.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
-7.  Check the README.md and LICENSE.txt files for any mentions of the treebank name that may have to be modified.
+7.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
+8.  Check the README.md and LICENSE.txt files for any mentions of the treebank name that may have to be modified.
     In the README file, add a line to the Changelog, e.g.:
     <pre>* 2018-04-15 v2.2
   * Repository renamed from UD_Czech to UD_Czech-PDT.</pre>
-8.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
+9.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
     Check the online validation report. Since we registered the name change above in `releases.json`, the treebank should
     be still reported as CURRENT, it should not be recategorized as SAPLING (unless we are renaming a treebank that is
     still a SAPLING, of course).
-9.  If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
+10. If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
     university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
-10. Finally, we want to regenerate the title page of Universal Dependencies.
+11. Finally, we want to regenerate the title page of Universal Dependencies.
     Go to docs-automation. Assumption: all UD treebank repositories, and the docs repository are cloned as siblings of docs-automation
     in the file-folder hierarchy. They are switched to the dev branch. (It does not matter for us because we will switch them to
     master in any case; but we assume that we do this temporarily, and we will switch back to dev when we are done.)
-11. Remove the old cached metadata:
+12. Remove the old cached metadata:
     <pre>rm _corpus_metadata/UD_Czech.json</pre>
-12. Generate new metadata for the treebank (this script switches the repo temporarily to master):
+13. Generate new metadata for the treebank (this script switches the repo temporarily to master):
     <pre>./refresh_corpus_data.sh ../UD_Czech-PDT</pre>
-13. Regenerate the UD title page and push it to Github:
+14. Regenerate the UD title page and push it to Github:
     <pre>make dan
 cd ../docs
 git pull --no-edit</pre>
-14. Rename the folder with the treebank hub page in the `docs` repository.
+15. Rename the folder with the treebank hub page in the `docs` repository.
     Skip this step if the renamed treebank has not been released yet.
     <pre>git mv treebanks/cs treebanks/cs_pdt
 for i in treebanks/cs_pdt/cs-* ; do git mv $i `echo -n $i | perl -pe 's/cs-/cs_pdt-/'` ; done</pre>
-15. Review and push the changes.
+16. Review and push the changes.
     <pre>git status
 git diff</pre> then press Q and
     <pre>git commit -a -m 'Renamed treebank repository.'
