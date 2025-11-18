@@ -32,4 +32,4 @@ Current corpora make use of only 13 tags. The plan is to use 16 except for X.
 
 There is 1 Old Turkish UD treebank:
 
-  * [Old Turkish-Tonqq](../treebanks/otk_tonqq/index.html)
+  * [Old Turkish-Clausal](../treebanks/otk_clausal/index.html)
