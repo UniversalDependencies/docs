@@ -6,35 +6,36 @@ udver: '2'
 ---
 
 This is used for [interjections](INTJ) and other discourse [particles](PART) and elements, which are not clearly linked to the structure of the sentence, except in an expressive way.
+We also use `discourse` for list enumerators (e.g. *1.*, *1)*, *[1]*, *1.4*, *ա.*, *II*, marking an item in a sequence).
+(Bullets, by contrast, are considered [punctuation](u-pos/PUNCT) and attach as [punct]().)
 
 These discourse elements are attached to the head of the most relevant nearby unit, often a clause.
 
 ~~~ sdparse
-Աստված ՜ իմ , դու վերադարձար ։ \n Oհ my God , you came-back !
-discourse(վերադարձար, Աստված)
-discourse(came-back, God)
+Աստված ՜ իմ , որտեղ ՞ դնեմ գլուխս։ \n Oհ my God , where shall I put my head?
+discourse(դնեմ, Աստված)
+discourse(put, God)
 ~~~
 
 ~~~ sdparse
-Դե ՛ , շտապիր ՛ ։ \n Well , hurry-up ! 
-discourse(շտապիր, Դե)
-discourse(hurry-up, Well)
+Դե , հուպ տուր, կուլ տուր ։ \n Well , clutch , swallow ! 
+discourse(տուր, Դե)
+discourse(clutch, Well)
 ~~~
 
 ~~~ sdparse
-Իհարկե , դու ճիշտ ես ։ \n Sure , you are wright .
-discourse(ճիշտ, Իհարկե)
-discourse(wright, Sure)
+Հիմա , իհարկե , շատ ավելին գիտենք ։ \n Now, of-course , we know much more .
+discourse(գիտենք, իհարկե)
+discourse(know, of-course)
 ~~~
 
 We use the `discourse` relation also for redundant or emotional items, redundant coreferential pronoun.
 
 ~~~ sdparse
-Չէ ՞ որ խոստացար ։ \n You still promised !
-discourse(խոստացար, Չէ)
+Չէ ՞ որ մենք հիմա մեկ ընդհանուր բանտ ունենք ։ \n Don't we have one common prison now?
+discourse(ունենք, Չէ)
 fixed(Չէ, որ)
 ~~~
-(meaning “… but you promised”)
 
 ~~~ sdparse
 Այո , ծիծաղելի է ։Ճ \n Yes , it's funny ։)
