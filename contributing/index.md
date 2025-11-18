@@ -42,6 +42,7 @@ redirect_from: "/contribute.html"
    - [Parallel treebanks](/contributing/parallel.html)
    - More metadata. At present, the suggestions under this bullet are just proposals, not finalized guidelines. They may change any time!
      - [Better annotation of genres](/contributing/genres.html)
+   - [Star ranking](/contributing/stars.html) of treebanks on the homepage
 
 * **Data corrections:** If you do not want to commit to maintaining a treebank but you want to help fix
   a particular bug in the data, you can submit a pull request against the **dev** branch of its GitHub repository.
@@ -55,7 +56,7 @@ redirect_from: "/contribute.html"
 
 * **Data validation:** Every treebank must comply with general and language-specific validation rules in order to be included in the official release.
   The [on-line validation report](http://quest.ms.mff.cuni.cz/udvalidator/) provides a dashboard with treebank statuses.
-  The [tools repository](https://github.com/UniversalDependencies/tools/) can be cloned and for running validation locally (note that data in this repository
+  The [tools repository](https://github.com/UniversalDependencies/tools/) can be cloned for running validation locally (note that data in this repository
   is automatically updated based on the [language-specific lists](/contributing/language_specific.html#language-specific-lists-for-the-validator)).
 
 # Email list
