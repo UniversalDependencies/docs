@@ -45,7 +45,7 @@ discourse(funny, ։))
 discourse(funny, Yes)
 ~~~
 
-We also use `discourse` for list enumerators (e.g. 1., (ա) marking an item in a sequence). (Bullets, by contrast, are considered [punctuation](hy-pos/PUNCT) and attach as [punct]().)
+We also use `discourse` for list enumerators (e.g. *1.*, *ա)*, *[1]*, *1.4* *ԺԳ* marking an item in a sequence). (Bullets, by contrast, are considered [punctuation](hy-pos/PUNCT) and attach as [punct]().)
 
 ~~~ sdparse
 1/NUM . Վճռաբեկ բողոքը բավարարել մասնակիորեն : \n 1/NUM . Partially grant the cassation appeal .
