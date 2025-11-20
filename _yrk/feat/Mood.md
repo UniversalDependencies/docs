@@ -90,7 +90,7 @@ The inferential mood conveys a large variety of evidential meanings. It often de
 * [yrk] _пухуцяда едмʼ мале пире-ви_ "The old woman had already boiled the kettle"
 
 
-### <a name= "Int">`Int`</a>: interrogative
+### <a name="Int">`Int`</a>: interrogative
 
 The interrogative mood is used in all types of questions. The interrogative only has past tense reference.
 
