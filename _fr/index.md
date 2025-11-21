@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for French <span class="flagspan"><img class="flag" src="../../flags/svg/FR.svg" /></span>
 
-In version 2.17, the French language is recorded with nine treebanks but two of them don't contain modern French:
+In version 2.17, the French language is composed of nine treebanks but two of them don't contain modern French:
 
  - [UD_French-ALTS](../treebanks/fr_alts) contains data from the 16th century which is quite different from modern French.
  - [UD_French-PoitevinDIVITAL](../treebanks/fr_poitevindivital) contains data in Poitevin-Saintongeais ([Glottocode: poit1241](https://glottolog.org/resource/languoid/id/poit1241))
@@ -31,10 +31,10 @@ This is an overview only. For more detailed discussion and examples, see the lis
 and [French features](feat/index.html).
 
 French uses all 17 universal POS categories:
-  - ([PART]()) is used only in **UD_French-ParTUT** for the negation particule *ne* (which is annotated `ADV` in other treebanks) [Grew-match](https://universal.grew.fr/?corpus_list=UD_French-GSD%402.17%2CUD_French-ParisStories%402.17%2CUD_French-ParTUT%402.17%2CUD_French-PUD%402.17%2CUD_French-Rhapsodie%402.17%2CUD_French-Sequoia%402.17%2CUD_French-FQB%402.17&request=pattern { X [form="ne"] }&clust1_key=X.upos)
-  - All French corpora have just five auxiliary verb ([AUX]()) ([Grew-match](https://universal.grew.fr/?corpus_list=UD_French-GSD%402.17%2CUD_French-ParisStories%402.17%2CUD_French-ParTUT%402.17%2CUD_French-PUD%402.17%2CUD_French-Rhapsodie%402.17%2CUD_French-Sequoia%402.17%2CUD_French-FQB%402.17&request=pattern { X [upos=AUX] }&clust1_key=X.lemma))
-    - *être* (to be) is used as a copule, as a tense auxiliary and as a passive auxiliary
-    - *avoir* (to have) is used as a tense auxiliary
+  - ([PART]()) is used only in **UD_French-ParTUT** for the negation particle *ne* (which is annotated `ADV` in other treebanks) [Grew-match](https://universal.grew.fr/?corpus_list=UD_French-GSD%402.17%2CUD_French-ParisStories%402.17%2CUD_French-ParTUT%402.17%2CUD_French-PUD%402.17%2CUD_French-Rhapsodie%402.17%2CUD_French-Sequoia%402.17%2CUD_French-FQB%402.17&request=pattern { X [form="ne"] }&clust1_key=X.upos)
+  - All French corpora only have five auxiliary verbs ([AUX]()) ([Grew-match](https://universal.grew.fr/?corpus_list=UD_French-GSD%402.17%2CUD_French-ParisStories%402.17%2CUD_French-ParTUT%402.17%2CUD_French-PUD%402.17%2CUD_French-Rhapsodie%402.17%2CUD_French-Sequoia%402.17%2CUD_French-FQB%402.17&request=pattern { X [upos=AUX] }&clust1_key=X.lemma))
+    - *être* (to be) is used as copula, as tense auxiliary and as passive auxiliary
+    - *avoir* (to have) is used as tense auxiliary
     - *faire* (to make) and *refaire* (to make again) are used in causative constructions
     - *voir* (to see) in the specific construction *se voir*
 
@@ -51,12 +51,12 @@ French uses all 17 universal POS categories:
 
 ### Polarity
 
-- [Polarity]() is used only the `Neg` value to mark the negative adverbs _ne_, _pas_, _plus_, _jamais_.
+- [Polarity]() is used only with the `Neg` value to mark the negative adverbs _ne_, _pas_, _plus_, _jamais_.
 
 ### Verbal Features
 
-- Infinitives have only the `VerbForm=Inf` feature.
-- Finite verbs always have one of four values of [Mood](): `Ind`, `Imp`, `Sub` and `Cnd`.
+- Infinitives only have the `VerbForm=Inf` feature.
+- Finite verbs always have one of the four values of [Mood](): `Ind`, `Imp`, `Sub` and `Cnd`.
 - Finite verbs can have one of four values of [Tense](): `Past`, `Imp`, `Pres`, `Fut`.
 - Past participles have `VerbForm=Part`, `Tense=Past`, [Gender]() (`Masc` or `Fem`), and [Number]() (`Sing` or `Plur`).
 
@@ -71,7 +71,7 @@ French uses all 17 universal POS categories:
   - As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 - [layered features](../../u/overview/feat-layers.html) [Number[psor]]() and [Person[psor]]() are used on possessive personal determiners to indicate possessor related features.
 
-Note that since version 2.17, the four treebanks built from SUD (GSD, Sequoia, ParisStories and Rhapsodie) have used a more detailed feature system: 
+Note that since version 2.17, the four treebanks built from SUD (GSD, Sequoia, ParisStories and Rhapsodie) use a more detailed feature system: 
  - `Number[cxtx]` and `Gender[cxtx]` when the corresponding feature is not morphologically marked but can be inferred from the context.
  - `Number[lex]` and `Gender[lex]` when the corresponding feature is lexical and not morphological , such as the [Gender]() of nouns
  - `Tense[denom]`, which is used for denominative features (associated with `VerbForm=Part`).
@@ -140,4 +140,4 @@ There are [nine](../treebanks/fr-comparison.html) French UD treebanks:
   - [UD_French-Rhapsodie](../treebanks/fr_rhapsodie)
   - [UD_French-Sequoia](../treebanks/fr_sequoia)
 
-Note that the [UD_French-FTB](../treebanks/fr_ftb) was now retired because it was not updated to the latest validation contraints.
+Note that the [UD_French-FTB](../treebanks/fr_ftb) was now retired because it was not updated to follow the latest validation contraints.
