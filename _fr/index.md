@@ -87,8 +87,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
 ### Core Arguments, Oblique Arguments and Adjuncts
 
 - The dominant word order in French is SVO, but other word orders are also possible.
-- Nominal subject ([nsubj]()) is a bare noun phrase without preposition.
-  If it is a personal pronoun, it must be in the nominative form
+- Nominal subject ([nsubj]()) is generally a bare noun phrase without preposition.
+  If it is a personal pronoun, it must be in the nominative form.
   The morphology of a finite verb (or auxiliary) cross-references the person and number of its subject.
 - Direct nominal object ([obj]()) is a bare noun phrase or a pronoun with accusative case.
   The accusative pronoun is a clitic and its position in the word order is fixed, the pronoun is before the verb (exept when `Mood=Imp`).
