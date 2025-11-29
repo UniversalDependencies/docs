@@ -523,6 +523,8 @@ collections:
     output: true
   brh:
     output: true
+  lrc:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
