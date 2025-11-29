@@ -191,5 +191,5 @@ Marker ([mark](https://universaldependencies.org/u/dep/mark.html)):
 
 There is a single Egyptian UD treebank:
 
-  * [Egyptian-UJaen](../treebanks/egy_ujaen/index.html)
+  * [Egyptian-PC](../treebanks/egy_pc/index.html)
 
