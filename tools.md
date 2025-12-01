@@ -153,13 +153,13 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 #### ArboratorGrew
 
 <img style="float:right" src="http://universaldependencies.org/img/arborator.PNG"/>
-** ArboratorGrew ** is a comprehensive, open-source, web-based tool designed for dependency treebank annotation. It supports a user-friendly drag-and-drop interface, along with social login features. Its project management capabilities allow for multiple users to collaborate simultaneously and compare trees for efficient and collaborative annotation efforts. The tool is equipped with a teacher mode and class-sourcing capabilities, making it suitable for both research and educational settings. It incorporates search and replace functions based on the Grew formalism, and an integrated neural bi-affine parser for quick bootstrapping. Additionally, it supports various annotation schemes, including UD, SUD, and custom-made schemes.  <https://arboratorgrew.elizia.net>
+** ArboratorGrew ** is a comprehensive, open-source, web-based tool designed for dependency treebank annotation. It supports a user-friendly drag-and-drop interface, along with social login features. Its project management capabilities allow for multiple users to collaborate simultaneously and compare trees for efficient and collaborative annotation efforts. The tool is equipped with a teacher mode and class-sourcing capabilities, making it suitable for both research and educational settings. It incorporates search and replace functions based on the Grew formalism, and an integrated neural bi-affine parser for quick bootstrapping. Additionally, it supports various annotation schemes, including UD, SUD, and custom-made schemes.  <https://arborator.grew.fr/>
 
 * Category: manual annotation tool
 * Platform: Any
 * Implementation: Python, JavaScript
 * License: AGPL-3.0 (open source)
-* Homepage: <https://arboratorgrew.elizia.net/>
+* Homepage: <https://arborator.grew.fr/>
 * References: Guibon, G., Courtin, M., Gerdes, K. and Guillaume, B., 2020, May. When collaborative treebank curation meets graph grammars. In LREC 2020-12th Language Resources and Evaluation Conference.
 
 
