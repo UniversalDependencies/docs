@@ -82,16 +82,6 @@ For Universal Dependency (UD) treebanks, lemmatization practices typically refle
   * Case marking: Direct objects occur in nominative or dative.
 * Indirect objects have the following characteristics:
   * Case marking: Indirect objects occur in dative.
-  * The following scheme reflects the correlation between the case of the core arguments and the conjugation system of a verb:
-
-| *v*-type             | ------------------ | *m*-type             | ------------------ |
-| ------------------ | ------------------ | ------------------ | ------------------ |
-| NOM                | NOM (*v*-set)        |   |   |
-| NOM                | NOM (*v*-set) + DAT  | DAT (*m*-set)        |   |
-| NOM                | ERG (*v*-set) + DAT  | NOM (*m*-set)        |   |
-| NOM                | ERG (*v*-set) + DAT  | NOM (*m*-set) + DAT  | DAT (*∅* -*a*)         |
-| NOM                | ERG (*v*-set) + DAT  | NOM (*∅*-set) + DAT  | DAT (*m*- -*a*)           |
-
 
 * The following subtypes are used for Old Georgian:
   * [acl](https://universaldependencies.org/u/dep/acl.html): clausal modifier of noun (adnominal clause)
