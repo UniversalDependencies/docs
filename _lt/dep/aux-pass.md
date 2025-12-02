@@ -5,7 +5,7 @@ shortdef: 'passive auxiliary'
 udver: '2'
 ---
 
-Auxiliaries used to construct the passive voice are labeled aux:pass.
+Auxiliaries used to construct the passive voice are labeled `aux:pass`.
 
 ~~~ sdparse
 Knyga buvo perskaityta daug kartų . \n The-book was read many times .
