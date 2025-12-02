@@ -5,7 +5,7 @@ shortdef : 'coordination'
 udver: '2'
 ---
 
-A cc is the relation between a conjunct and the coordinating conjunction that precedes it. The governor of the conjunction if the first conjunct in the paradigm.
+A `cc` is the relation between a conjunct and the coordinating conjunction that precedes it. The governor of the conjunction if the first conjunct in the paradigm.
 
 ~~~ sdparse
 Lukas yra aukštas ir lieknas . \n Luke is tall and thin .
@@ -19,7 +19,7 @@ cc(bananų, ir)
 cc(bananas, and)
 ~~~
 
-A conjunction may also appear at the beginning of a sentence. This is also called a cc, and dependent on the root predicate of the sentence.
+A conjunction may also appear at the beginning of a sentence. This is also called a `cc`, and dependent on the root predicate of the sentence.
 
 ~~~ sdparse
 Ir tada jis išėjo . \n And then he left .
@@ -29,8 +29,7 @@ cc(left, And)
 
 ### Paired conjunctions
 
-Kartojamieji jungtukai yra tada, kai tas pats jungtukas kartojamas prie kiekvieno dėmens: _ir...ir, ar...ar, nei...nei_ ir t. t. Jie priklauso nuo dėmens, kurį jungia, ir žymimi _cc_.
-Paired conjunctions occur when the same conjunction is repeated before each component: _ir...ir, ar...ar, nei...nei, etc. (and…and, or…or, neither….nor, etc.)_. They depend on the component they connect and are annotated as _cc_.
+Paired conjunctions occur when the same conjunction is repeated before each component: _ir...ir, ar...ar, nei...nei, _etc_. (and…and, or…or, neither….nor, _etc_.)_. They depend on the component they connect and are annotated as `cc`.
 
 ~~~ sdparse
 Ir laiptus , ir turėklus darbuotojai sutvarkė . \n  The-employees fixed both the-stairs and the-handrails .
@@ -50,7 +49,7 @@ cc(textbooks, nor)
 
 ### Compound sentences
 
-The relation cc is used to mark coordinating conjunctions such as and, but, so etc. in complex sentences.
+The relation `cc` is used to mark coordinating conjunctions such as _and, but, so_ etc. in complex sentences.
 
 ~~~ sdparse
 Aš einu į kiną , o jis skuba į darbą . \n I go to the-cinema , and he hurries to work . 
