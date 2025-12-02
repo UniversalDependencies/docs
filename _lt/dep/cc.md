@@ -29,7 +29,7 @@ cc(left, And)
 
 ### Paired conjunctions
 
-Paired conjunctions occur when the same conjunction is repeated before each component: _ir...ir, ar...ar, nei...nei, _etc_. (and…and, or…or, neither….nor, _etc_.)_. They depend on the component they connect and are annotated as `cc`.
+Paired conjunctions occur when the same conjunction is repeated before each component: _ir...ir, ar...ar, nei...nei_, etc. (and…and, or…or, neither….nor_, etc.). They depend on the component they connect and are annotated as `cc`.
 
 ~~~ sdparse
 Ir laiptus , ir turėklus darbuotojai sutvarkė . \n  The-employees fixed both the-stairs and the-handrails .
