@@ -5,7 +5,7 @@ shortdef : 'clausal passive subject'
 udver: '2'
 ---
 
-A clausal subject is annotated as csubj:pass when the subordinate clause functioning as the subject is governed by a passive participle.
+A clausal subject is annotated as `csubj:pass` when the subordinate clause functioning as the subject is governed by a passive participle.
 
 ~~~ sdparse
 Nuspręsta , kad iškeliausime rytoj . \n It-was-decided that we-will-depart tomorrow .
@@ -19,7 +19,7 @@ csubj:pass(Numatoma, lis)
 csubj:pass(It-is-expected, it-will-rain)
 ~~~
 
-An infinitive functioning as a subject is also annotated as csubj:pass when it is governed by a passive participle.
+An infinitive functioning as a subject is also annotated as `csubj:pass` when it is governed by a passive participle.
 
 ~~~ sdparse
 Siekiama didinti gimstamumą . \n It-is-aimed to-increase the-birth-rate .
