@@ -13,7 +13,7 @@ nsubj:pass(nutapytas, Paveikslas)
 nsubj:pass(was-painted, The-painting)
 ~~~
 
-If a passive participle is governed by a modal verb, the subject is dependent on the modal verb. In this case, we annotate the subject as 'nsubj', not nsubj:pass.
+If a passive participle is governed by a modal verb, the subject is dependent on the modal verb. In this case, we annotate the subject as [nsubj](), not 'nsubj:pass'.
 
 ~~~ sdparse
 Knyga gali būti parašyta kitais metais . \n The-book may be written next year .
