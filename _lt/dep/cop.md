@@ -21,7 +21,7 @@ cop(child, is)
 
 The nominal predicate is usually a noun, an adjective (or an adjectival participle), more rarely – adverb, pronoun or numeral.
 
-_Būti (‘to-be’) _+ noun:
+_Būti (‘to-be’)_ + noun:
 ~~~ sdparse
 Ji yra mama . \n She is a-mother .
 cop(mama, yra)
@@ -41,7 +41,7 @@ cop(graži, yra)
 cop(beautiful, is)
 ~~~
 
-_Būti (‘to-be’) _+ participle: 
+_Būti (‘to-be’)_ + participle: 
 ~~~ sdparse
 Šis variantas yra galimas . \n This variant is possible .
 cop(galimas, yra)
