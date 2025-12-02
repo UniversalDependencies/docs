@@ -25,7 +25,7 @@ The main exceptions are :
 
 ### Tags
 
-* `PUNCT` is not used in Umbrian (note that there are word boundaries in the original text but no sentence boundaries).
+* `PUNCT` is not used in Umbrian (note that there are word boundary markers in the original text but no sentence boundary ones).
 
 ### Features
 
@@ -35,7 +35,8 @@ The main exceptions are :
 
 ## Syntax
 
-* Core arguments are identified with case (`Nom` and `Acc`) and in absence of case triggering adposition (__rupinam-e__ is `obl` even if __rupinam__ is `Acc` because of the adposition __e__).
+* Core arguments are identified with case (`Nom`, `Acc` and `Dat`) and in absence of case triggering adposition (__rupinam-e__ is `obl` even if __rupinam__ is `Acc` because of the adposition __e__).
+* Due to the textual genre, describing rituals, many verbs have both an indirect object in the dative for the reciever of the offering (usually a god) and one or more beneficiaries marked with the postposition __per__, often the city state of Iguvium or the atedian brotherhood.
 
 ## Treebanks
 
