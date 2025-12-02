@@ -15,9 +15,9 @@ nmod(office, the-director’s)
 ~~~
 
 ~~~ sdparse
-Šis kabinetas direktoriaus . \n This office is the-director’s .
-nmod(kabinetas, direktoriaus)
-nmod(office, the-director’s)
+Mergaitė geltonais plaukais . \n Girl with-yellow hair .
+nmod(Mergaitė, plaukais)
+Nmod(Girl, hair)
 ~~~
 
 A non-agreeing attribute can also be expressed using other noun cases, as well as with prepositions.
@@ -34,7 +34,7 @@ nmod(Arbata, cukrumi)
 nmod(Tea, sugar)
 ~~~
 
-However, there is also a different kind of nmod that precedes the modified noun and agrees with it in case and number. A typical example is a title attached to a name of a person or other names.
+However, there is also a different kind of `nmod` that precedes the modified noun and agrees with it in case and number. A typical example is a title attached to a name of a person or other names.
 
 ~~~ sdparse
 Atvyko mokyklos direktorius Jonaitis . \n The-school director John has-arrived .
@@ -42,7 +42,7 @@ nmod(Jonaitis, direktorius)
 nmod(John, director)
 ~~~
 
-_nmod_ can mark names:
+`nmod` can mark names:
 ~~~ sdparse
 Pažiūrėjau filmą „ Titanikas “ . \n I watched the-movie “ Titanic ” .
 nmod(filmą, Titanikas)
