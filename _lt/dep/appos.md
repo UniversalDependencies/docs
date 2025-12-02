@@ -5,7 +5,7 @@ shortdef : 'appositional modifier'
 udver: '2'
 ---
 
-An appositional modifier of an NP serves to define, modify, name, or describe that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. What is marked as appos is often set off by commas or parentheses.
+An appositional modifier of an NP serves to define, modify, name, or describe that NP. It includes parenthesized examples, as well as defining abbreviations in one of these structures. What is marked as `appos` is often set off by commas or parentheses.
 
 ~~~ sdparse
 Atvyko Jonas , mano brolis . \n Arrived John , my brother .
@@ -19,7 +19,7 @@ appos(daikto, saldainio)
 appos(item, a-candy)
 ~~~
 
-Clarifying expressions introduced by emphatic words such as_ ypač (especially), būtent (namely), kaip ir (such as), t. y. (i.e.), toks kaip (like)_, and similar are also marked with appos.
+Clarifying expressions introduced by emphatic words such as _ypač (especially), būtent (namely), kaip ir (such as), t. y. (i.e.), toks kaip (like)_, and similar are also marked with `appos`.
 
 ~~~ sdparse
 Reikia suplanuoti informavimo priemones , tokias kaip dalyvavimą televizijos laidose . \n It-is-necessary to-plan information measures , such as participation in-television programs .
