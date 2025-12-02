@@ -14,5 +14,5 @@ flat:foreign(Ich-12, weiss-13)
 flat:foreign(Ich-12, das-14)
 ~~~
 
-“Foreign” includes not just natural languages, but also notational systems that are considered external to natural language proper and are governed by separate rules (e.g. musical chord progressions, software code excerpts).
+`flat:foreign` includes not just natural languages, but also notational systems that are considered external to natural language proper and are governed by separate rules (e.g. musical chord progressions, software code excerpts).
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:56 CET -->
