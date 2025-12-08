@@ -24,6 +24,4 @@ A consecutive clause is a subordinate clause that expresses a consequence or res
 11	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Hiero=𓆑|Pron=SFP
 ~~~
 
-<!-- Interlan
-
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:03 CET -->
