@@ -10,7 +10,7 @@ The `ccomp:speech` relation is a specialization of `ccomp` used for reported spe
 ~~~ sdparse
 č̣(ṭ) mṭw ččw čn \n Saying a speech: 'Where are you, snake, going?'
 
-ccomp:speech(č̣(ṭ),č)
+ccomp:speech(č̣(ṭ),čn)
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:28 CET -->
