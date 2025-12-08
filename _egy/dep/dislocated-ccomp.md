@@ -5,7 +5,7 @@ shortdef: 'dislocated complement clause'
 udver: '2'
 ---
 
-A dislocated complement clause is a complement clause that is either fronted or postposed and therefore outside the main sentence.
+In Old Egyptian, a dislocated complement clause is a clause that usually appears at the beginning of a sentence and is referred to by a pronominal object in the core of the sentence.
 
 ~~~ conllu
 # text = ꜥnḫ.t ⸗f ꞽm ꜥnḫ Wnꞽś ꞽm
