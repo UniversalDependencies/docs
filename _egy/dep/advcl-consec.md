@@ -5,7 +5,7 @@ shortdef: 'consecutive clause'
 udver: '2'
 ---
 
-A consecutive clause is a subordinate clause that expresses a consequence or result. A predicative future verb form is used in Old Egyptian to express a consecutive clause.
+A consecutive clause is a subordinate clause that expresses a consequence or result. In Old Egyptian, a predicative future verb form is used to express a consecutive clause.
 
 ~~~ conllu
 # text = pr ⸗f m ꜣḫ.t rꜥw-nb wꜥb.w nčr(.w) n mꜣ ⸗f
