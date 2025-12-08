@@ -5,7 +5,8 @@ shortdef: 'dislocated clausal subject'
 udver: '2'
 ---
 
-In Old Egyptian, a dislocated subject clause is one that is usually placed at the beginning of a sentence and separated from its core.
+
+In Old Egyptian, a dislocated subject clause is a clause that usually appears at the beginning of a sentence and is referred to by a pronominal subject in the core of the sentence.
 
 ~~~ conllu
 # text = mꜣꜣ Ttꞽ nꞽ ꜥnḫ ⸗f
