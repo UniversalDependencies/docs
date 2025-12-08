@@ -5,7 +5,7 @@ shortdef: 'dislocated agent'
 udver: '2'
 ---
 
-In Old Egyptian, a dislocated agent is expressed by a postposed nominal agent that follows the preposition ꞽn in the man-impersonal construction. This dislocated agent is referred to by the noun tꞽ meaning "one" (lit. "body, person"), which acts as the subject of the sentence. 
+In Old Egyptian, a dislocated agent is expressed by a postposed nominal agent that follows the preposition ꞽn in the man-impersonal construction. This dislocated agent is used as an epexegesis to determine the meaning of the noun tꞽ, which means "one" (lit. "body, person") and acts as the subject of the sentence. 
 
 ~~~ conllu
 # text = ꞽḫ mk-t(ꞽ) Wnꞽś ꞽm ꞽn mꜣꜣ.w św
