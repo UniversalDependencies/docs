@@ -8,14 +8,11 @@ udver: '2'
 The `ccomp:speech` (direct speech clausal complement) is used for complement sentences that are marked with one of the direct speech enclitics.
 
 ~~~ conllu
-# text = ბავშვს ჰკითხეს, რა გატირებსო?
-# text-transcription = bavšvs hḳitxes, ra gaṭirebso?
-# translation = They asked the child: what makes you cry?
-1	ბავშვს	ბავშვი	NOUN	_	Animacy=Anim|Case=Dat|Number=Sing	2	iobj	_	LMSeg:ბავშვ·ი
-2	ჰკითხეს	კითხვა	VERB	_	Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	LMSeg:კითხვ[ა]/კითხ|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	LMSeg:,
-4	რა	რა	PRON	_	Case=Nom	5	nsubj	_	LMSeg:რ[ა]
-5	გატირებსო	დატირება	VERB	_	Number[io]=Sing|Number[subj]=Sing|Person[io]=2|Person[obj]=3|Person[subj]=3|Tense=Pres	2	ccomp:quote	_	LMSeg:და·ტირებ[ა]/ტირ|SpaceAfter=No
-6	?	?	PUNCT	_	_	2	punct	_	LMSeg:?
+# text = č̣(ṭ) mṭw ꞽnk Gbb
+# trans = "Recitation (lit.: Saying a speech): 'I am Geb.'"
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓
+2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
+3	ꞽnk	ꞽnk	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Hiero=𓇋(𓈖:𓎡)|Pron=Ind
+4	Gbb	Gbb	PROPN	_	Gender=Masc	1	ccomp:speech	_	Hiero=𓅭𓃀|Name=God
 ~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:28 CET -->
