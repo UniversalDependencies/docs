@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advcl:consec'
-shortdef: 'consecutive adverbial clausal modifier'
+shortdef: 'consecutive clause'
 udver: '2'
 ---
 
