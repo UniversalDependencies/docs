@@ -15,6 +15,7 @@ A clause of purpose is a subordinate clause that expresses the purpose of an act
 3	ꞽ:Ꜥm	ꜥm	VERB	_	Mood=Sub|Prefix=Yodh|VerbClass=2lit|VerbForm=Fin	1	advcl:purp	_	Hiero=𓇋𓂝𓅓|SPC=Sub
 4	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Hiero=𓆑|Pron=SFP
 5	Ꜥnt.w	Ꜥnt.w	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Hiero=(𓂝:𓈖)𓅂𓈒𓈒𓈒𓈒|Hierocl=𓈒𓈒𓈒𓈒
+
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:05 CET -->

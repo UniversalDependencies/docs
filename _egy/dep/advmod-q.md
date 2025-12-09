@@ -12,6 +12,7 @@ An interrogative adverbial modifier is a word that modifies the root of a senten
 1	ꞽn	ꞽn	PART	_	PartType=Int	3	advmod:q	_	Hiero=𓇋:𓈖
 2	čwt	čwt	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓍿𓅱𓏏|Pron=Ind
 3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	0	root	_	Hiero=𓅃|Name=God
+
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:12 CET -->

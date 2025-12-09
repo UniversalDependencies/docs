@@ -22,6 +22,7 @@ A consecutive clause is a subordinate clause that expresses a consequence or res
 9	n	n	ADP	_	_	10	case	_	Hiero=𓈖|Status=Cons
 10	mꜣ	mꜣꜣ	VERB	_	Gender=Masc|VerbClass=2aered|VerbForm=Inf	7	advcl	_	Hiero=(𓌴:𓁹)𓄿|Hierocl=𓁹
 11	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Hiero=𓆑|Pron=SFP
+
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:03 CET -->

@@ -15,6 +15,7 @@ An object clause is a subordinate clause that acts as the object of a verb. In O
 3	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Hiero=𓋴|Pron=SFP
 4	ꜥnḫ	ꜥnḫ	VERB	_	Mood=Ind|SubForm=AbstRel|Tense=Fut|VerbClass=3lit|VerbForm=Fin|Voice=Act	2	ccomp:obj	_	Hiero=𓋹|SPC=Pres
 5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Hiero=𓆑|Pron=SFP
+
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:27 CET -->

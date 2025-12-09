@@ -19,6 +19,7 @@ In Old Egyptian, a dislocated agent is expressed by a postposed nominal agent th
 6	ꞽn	ꞽn	ADP	_	_	7	case	_	Hiero=𓇋𓈖|Status=Cons
 7	mꜣꜣ.w	mꜣꜣ	VERB	_	Gender=Masc|Nominal=Yes|Number=Plur|Tense=Pres|VerbClass=2aered|VerbForm=Part|Voice=Act	2	dislocated:obl	_	Hiero=(𓌴:𓁹)𓄿𓄿𓅱
 8	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Hiero=𓇓𓅱|Pron=Dep
+
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:03 CET -->

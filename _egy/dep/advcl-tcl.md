@@ -19,6 +19,7 @@ A temporal adverbial clause is a subordinate clause that expresses the time of a
 7	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Hiero=𓆑|Pron=SFP
 8	ẖr.w(ꞽ)	ẖr.w	NOUN	_	Gender=Masc|Number=Dual	6	obj	_	Hiero=(𓌨:𓂋)𓅱UC_13A0C|Hierocl=UC_13A0C
 9	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	Hiero=𓆑|Pron=SFP
+
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:07 CET -->

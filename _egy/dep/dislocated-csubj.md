@@ -16,6 +16,7 @@ In Old Egyptian, a dislocated subject clause is a clause that usually appears at
 3	nꞽ	nꞽ	PART	_	PartType=Neg	4	advmod:neg	_	Hiero=𓂜
 4	ꜥnḫ	ꜥnḫ	VERB	_	Mood=Ind|Tense=Fut|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋹(𓈖:𓐍)|SPC=Fut
 5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Hiero=𓆑|Pron=SFP
+
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:51 CET -->

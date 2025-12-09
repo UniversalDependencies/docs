@@ -18,6 +18,7 @@ In Old Egyptian, a dislocated object is a noun that usually appears at the begin
 6	n	n	ADP	_	_	7	case	_	Hiero=𓈖|Status=Pron
 7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl:arg	_	Hiero=𓎡|Pron=SFP
 8	ś(ꞽ)	śꞽ	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	Hiero=𓋴|Pron=Dep
+
 ~~~
 
 

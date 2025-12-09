@@ -16,6 +16,7 @@ In Old Egyptian, a dislocated complement clause is a clause that usually appears
 4	ꜥnḫ	ꜥnḫ	VERB	_	Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3lit|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋹|SPC=Pres
 5	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	4	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
 6	ꞽm	ꞽm	ADV	_	_	4	advmod	_	Hiero=𓇋𓅓
+
 ~~~
 
 

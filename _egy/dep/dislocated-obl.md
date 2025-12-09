@@ -18,6 +18,7 @@ In Old Egyptian, a dislocated oblique argument is a fronted or postposed noun th
 5	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl:arg	_	Hiero=𓎡|Pron=SFP
 6	ꞽm	m	ADP	_	Case=Loc	7	case	_	Hiero=𓇋𓅓|Status=Pron
 7	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	Hiero=𓆑|Pron=SFP
+
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:52 CET -->
