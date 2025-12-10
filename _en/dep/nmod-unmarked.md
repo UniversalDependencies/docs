@@ -49,7 +49,19 @@ Einstein himself was in attendance .
 nmod:unmarked(Einstein, himself)
 ~~~
 
-(v) "a couple" as pre-head quantifier
+(v) category descriptor or quantifier following a personal pronoun
+
+~~~ sdparse
+It 's a significant burden for us students .
+nmod:unmarked(us, students)
+~~~
+
+~~~ sdparse
+See you all in the morning .
+nmod:unmarked(you, all)
+~~~
+
+(vi) "a couple" as pre-head quantifier
 
 ~~~ sdparse
 You can have a couple/NOUN cookies .
@@ -57,7 +69,7 @@ det(couple, a)
 nmod:unmarked(cookies, couple)
 ~~~
 
-(vi) scientific scale postmodifiers
+(vii) scientific scale postmodifiers
 
 ~~~ sdparse
 7/NUM degrees/NOUN Fahrenheit/PROPN
