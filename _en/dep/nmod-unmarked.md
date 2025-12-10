@@ -67,8 +67,6 @@ nmod:unmarked(degrees, Fahrenheit)
 
 ## Locations
 
-** DRAFT - NOT YET IMPLEMENTED **
-
 _For discussion of multiword place names like <b>Lake Mead</b> and <b>Route 66</b>, see [nmod:desc]()._
 
 Identifiers of specific locations are often complex, incorporating multiple levels of granularity.
