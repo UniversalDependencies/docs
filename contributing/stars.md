@@ -25,8 +25,8 @@ In a nutshell, the scoring algorithm for the star ratings
 - favors larger, more genre-diverse treebanks over smaller, homogeneous ones
 - penalizes treebanks that omit source tokens
 - penalizes treebanks that incur validation errors
-- favors treebanks that specify all the layers of the UD standard (including lemmas, morphological features, enhanced dependencies)
-- favors treebanks in which a wide range of values (for UPOS tags, dependency relations, and features) are attested
+- favors treebanks that specify all the layers of the UD standard (including lemmas, morphological features)
+- favors treebanks in which a wide range of values (for UPOS tags and dependency relations) are attested
 - favors treebanks whose annotation layers are declared to be manual (gold) rather than automatic (silver)
 
 The score is computed using the script `evaluate_treebank.pl` from the
