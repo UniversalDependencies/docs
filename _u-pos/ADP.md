@@ -41,7 +41,6 @@ In English this would apply to *pending* or *during* (from the disused verb *dur
 
 * In many languages, adpositions can take the form of fixed multiword expressions.
 The component words are grouped together with the [fixed]() relation.
-A special case is that of circumpositions, which by necessity are multiword expressions.
 
 ### Examples
 
