@@ -7,18 +7,23 @@ udver: '2'
 
 ### Definition
 
-A subordinating conjunction is a conjunction that links constructions
-by making one of them a constituent of the other. The subordinating
-conjunction typically marks the incorporated constituent which has the
-status of a (subordinate) clause.
+A subordinating conjunction is a word that links a subordinate clause to its head.
 
-We follow [Loos et al. 2003](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsASubordinatingConjunctio.htm) in recognizing these three subclasses as subordinating conjunctions:
+Common subtypes of subordinating conjunctions are:
 
-* Complementizers, like [en] _that_ or _whether_
-* Non-[ADV]() markers that introduce an adverbial clause, like [en] _because_, _since_, _before_, or _once_ (when introducing a clause, not a nominal)
-* Non-pronominal relativizers, like [he] _še_. Words in this category simply introduce a relative clause (and normally don't inflect). This excludes words that have a nominal function within the relative clause; relative and resumptive pronouns (e.g., English relative _that_ and _which_) are analyzed as [PRON]().
+* Conjunctions that mark complement clauses, like [en] _that_ or _whether_
+* Conjunctions that mark adverbial clauses of different types, like [en] _because_ (causal) or _although_ (concessive)
+* Non-pronominal relativizers, like [he] _še_.
 
-For _coordinating conjunctions,_ see [CCONJ]().
+Clarifications on how to distinguish the second type from [ADP]()/[CCONJ]() and the third type from [PRON]():
+
+* Subordinating conjunctions contrast with coordinating conjunctions, which mark clauses (or other expression types) that are in a relation of coordination rather than subordination; see [CCONJ]().
+* In many languages, adverbial clauses are regularly marked by words that also function as adpositions, like [en] _before_ and _after_. 
+If one of the functions is clearly dominant, the tag corresponding to that function (`SCONJ` or [ADP]()) should be used for all occurrences,
+and the difference in syntactic function be marked only by the syntactic relation ([mark]() vs. [case]()).
+If both functions are equally regular, then the tag may alternate with the syntactic relation (`mark`/`SCONJ` vs. `case`/`ADP`).
+* In the case of relativizers, the tag `SCONJ` (and the relation [mark]()) should only be used for words that mark a relative clause
+without fulfilling a syntactic role in the clause. Relative and resumptive pronouns (like [en] _that_ and _which_) should be tagged [PRON]().
 
 ### Examples
 
