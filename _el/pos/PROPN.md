@@ -20,7 +20,7 @@ When other phrases or sentences are used as names, the component words retain th
 
 ### Τypical modifiers of propern nouns with shortened versions
 
-The words *κύριος, κυρία* / *kirios, kiria* 'mister, madam'  and their shortened version *κυρ΄, κυρα*  receive the same lemma *κύριος, κυρία*,  are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun they modify; however, when *Κύριος* is used with the meaning "the Lord" (see examples), it is assigned the tag <code>PROPN</code>, e.g.,  *ο*.DET *κύριος*.ADJ *Χαρδάκος*.PROPN, *ένας*.DET *κύριος*.ADJ
+The words *κύριος, κυρία* / *kirios, kiria* 'mister, madam'  and their shortened version *κυρ΄, κυρα, κ., κα, κος*  receive the same lemma *κύριος, κυρία*,  are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun they modify; however, when *Κύριος* is used with the meaning "the Lord" (see examples), it is assigned the tag <code>PROPN</code>, e.g.,  *ο*.DET *κύριος*.ADJ *Χαρδάκος*.PROPN, *ένας*.DET *κύριος*.ADJ
 
 The adjective *Άγιος* 'Saint' (all genders) and its shortened version *Αη* receive the same lemma  *Άγιος*, are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun it modifies, e.g. *ο*.DET *Αγιος*.ADJ *Νικόλαος*.PROPN, *ο*.DET *Άη*.ADJ *Νικόλας*.PROPN. 
 
