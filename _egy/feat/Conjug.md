@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Conj'
+title: 'Conjug'
 shortdef: 'Conjugation'
 udver: '2'
 ---
@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Suffix">Suffix</a></td>
-  <td><a href="#Afroasia">Afroasia</a></td>
+  <td><a href="#AfroAsia">AfroAsia</a></td>
 </tr>
 </table>
 
@@ -35,5 +35,18 @@ The Eye of Horus is intact
 Bibliography on the verb forms of the suffix pronoun conjugation:
 Hans Jakob Polotsky, 1944. Études de Syntaxe Copte. Cairo.
 Wolfgang Schenkel, 2012. Tübinger Einführung in die klassisch-ägyptische Sprache und Schrift, Pagina, Tübingen.
+
+### <a name="Suffix">`Suffix`</a>: Suffix pronoun conjugation
+
+#### Example
+
+* TBA
+
+### <a name="AfroAsia">`AfroAsia`</a>: Afroasiatic conjugation
+
+#### Example
+
+* TBA
+
 
 Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->
