@@ -14,6 +14,7 @@ udver: '2'
   <td><a href="#Perf">Perf</a></td>
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#Prosp">Prosp</a></td>
+  <td><a href="#Stat">Stative</a></td>
 </tr>
 </table>
 
@@ -126,5 +127,13 @@ as language-specific for Hungarian, though it was called _frequentative_ there
 #### Examples
 
 * [hu] _üt_ “hit”, _<b>ütöget</b>_ “hit several times”
+
+### <a name="Stat">`Stat`</a>: stative aspect
+
+The stative aspect is found in verbs that express a state or condition.
+
+#### Examples
+
+* [egy] _ꞽr.t Ḥr.w wč̣ꜣ.t(ꞽ)_ “The eye of Hours is intact.”
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:02 CET -->
