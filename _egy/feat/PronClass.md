@@ -24,7 +24,7 @@ Independent pronouns are usually used in nominal sentences.
 
 * TBA
 
-### <a name="Dep>`Dep`</a>: Dependent Pronouns
+### <a name="Dep">`Dep`</a>: Dependent Pronouns
 
 Dependent pronouns are used as subjects in adjectival sentences and as objects in verbal sentences.
 
