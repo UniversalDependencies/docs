@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'PronClass'
-shortdef: 'Pronoun Class'
+shortdef: 'pronoun class'
 udver: '2'
 ---
 
