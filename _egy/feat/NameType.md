@@ -10,7 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#God">God</a></td>
   <td><a href="#King">King</a></td>
-  <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Place">Place</a></td>
   <td><a href="#Epith">Epith</a></td>
 </tr>
 </table>
@@ -34,9 +34,9 @@ Name of a king or queen.
 
 TBA
 
-### <a name="Loc">`Loc`</a>: name of a location
+### <a name="Place">`Place`</a>: name of a place
 
-Geographical names.
+Names of locations.
 
 #### Examples
 
