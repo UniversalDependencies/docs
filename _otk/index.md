@@ -14,6 +14,8 @@ UD Old Turkish is an effort to digitize and annotate (or annotate from existing 
 * For the subtleties, with respect to word segmentation, everything is an exact match to the reference work "Ahmet Bican Ercilasun, Türk Kağanlığı ve Türk Bengü Taşları, Dergâh Yayınları."
 * Treebanks should treat whitespace as an individual character and not implicitly have it by resorting to `SpaceAfter=Yes` (or by not specifying `SpaceAfter=No`).
 
+## Orthography
+
 ## Morphology
 
 ### Tags
