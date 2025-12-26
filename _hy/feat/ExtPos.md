@@ -61,7 +61,7 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-*_<b>մի կերպ</b>_ (a multiword adverb paraphrasable as “somehow”; the first node is [DET]())
+* _<b>մի կերպ</b>_ (a multiword adverb paraphrasable as “somehow”; the first node is [DET]())
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
