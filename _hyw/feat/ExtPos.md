@@ -48,7 +48,7 @@ words) or as an interjection.
 
 #### Examples
 
-* * _<b>շատ մը</b>_ (a multiword adjective paraphrasable as “a lot of”, lit. "many some"; here the first node is the technical head and it is an adjective itself, so UPOS = `ExtPos`)
+* _<b>շատ մը</b>_ (a multiword adjective paraphrasable as “a lot of”, lit. "many some"; here the first node is the technical head and it is an adjective itself, so UPOS = `ExtPos`)
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
