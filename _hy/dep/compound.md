@@ -46,11 +46,6 @@ compound(երեք, քառորդ)
 compound(three, quarters)
 ~~~
 
-~~~ sdparse
-չորս-հինգ/NUM[NumForm=Word|NumType=Range] ժամ/NOUN \n four-five hours
-nummod(ժամ, չորս-հինգ)
-nummod(hours, four-five)
-~~~
 
 ~~~ sdparse
 տասից/NOUN[Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing|NumForm=Word] տասնհինգ/NOUN[Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|NumForm=Word] ժամ/NOUN \n from-ten to-fifteen hours
