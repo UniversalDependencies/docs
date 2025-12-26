@@ -9,12 +9,14 @@ Armenian uses `flat:range` for numerical, spacial and time ranges.
 
 ~~~ conllu
 # visual-style 1 2 flat:range color:blue
-1	18	18	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	Translit=18|LTranslit=18
-2	19	19	NUM	_	NumForm=Digit|NumType=Card	1	flat:range	_	Translit=19|LTranslit=19
-3	տարեկան	տարեկան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nmod	_	Translit=tarekan|LTranslit=tarekan
-4	ջահելներ	ջահել	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur|Style=Slng	0	root	_	Translit=ǰahelner|LTranslit=ǰahel
-5	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	cop	_	Translit=ēin|LTranslit=em|SpaceAfter=No
-6	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+1	Երկու	երկու	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	Translit=Erkow|LTranslit=erkow
+2	18	18	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	Translit=18|LTranslit=18|SpaceAfter=No
+3	-	֊	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+4	19	19	NUM	_	NumForm=Digit|NumType=Card	2	flat:range	_	Translit=19|LTranslit=19
+5	տարեկան	տարեկան	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	6	nmod	_	Translit=tarekan|LTranslit=tarekan
+6	ջահելներ	ջահել	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur|Style=Slng	0	root	_	Translit=ǰahelner|LTranslit=ǰahel
+7	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	6	cop	_	Translit=ēin|LTranslit=em|SpaceAfter=No
+8	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
