@@ -48,69 +48,51 @@ words) or as an interjection.
 
 #### Examples
 
-* [sv] _<b>före detta</b>_ (a multiword adjective paraphrasable as “former”, lit. "before that"; the first node is [ADV]())
+* * _<b>հազար ու մի</b>_ (a multiword adjective paraphrasable as “numerous”, lit. "thousand and one"; the first node is [NUM]())
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
-Multiword adpositions occur in many languages. Often they are grammaticalized prepositional phrases.
+Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* [cs] _<b>na rozdíl ode</b> mne_ “<b>in contrast to</b> me” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
-* [cs] _<b>nehledě na</b> jeho úspěchy_ “<b>disregarding</b> his achievements” (here the first node is a [VERB]())
+* _<b>ի շահ</b>_ “<b>in favour of</b>” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
+* _<b>սկսած</b> հունվարից_ “<b>starting</b> from January” (here the first node is a [VERB]())
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
-* [en] _<b>by and large</b>_ (a multiword adverb paraphrasable as “altogether”; the first node is [ADP]())
-
-### <a name="AUX">`AUX`</a>: auxiliary-like expression
-
-#### Examples
-
-* [ko] _<b>수 있다 .su .iss.da</b>_ (literally _way exists_, serves as an auxiliary “can”; the first node is [NOUN]())
+* _<b>մի կերպ</b>_ (a multiword adverb paraphrasable as “somehow”; the first node is [DET]())
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
-* [fr] _<b>ainsi que</b>_ “as well as” (_ainsi_ = [ADV]())
+* _<b>ոչ միայն</b>_ “not only” (_ոչ_ = [PART]())
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
 #### Examples
 
-* [fr] _le volcan émet <b>de la</b> vapeur_ “the volcano emits steam” (_de_ = `ADP`)
-
-### <a name="INTJ">`INTJ`</a>: interjection-like expression
-
-#### Examples
-
-* [es] _¡<b>Por Dios</b>!_ “for God’s sake” (_por_ = `ADP`, _Dios_ = [PROPN]())
+* _<b>ոչ մի</b>_ “not any” (_ոչ_ = `PART`)
 
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
 #### Examples
 
-* [en] _<b>each other</b>_ (_each_ = [DET]())
+* _<b>ամեն ինչ</b>_ (a multiword determiner paraphrasable as _everything_, _ամեն_= [DET]())
 
 ### <a name="PROPN">`PROPN`</a>: proper noun-like expression
 
 #### Examples
 
-* [cs] _Jeho kniha <b>Most přes řeku Kwai</b> byla zfilmována._ “His book <b>The Bridge over the River Kwai</b> was made into a movie.” (_Most_ = [NOUN]())
+* _<b>Վայոց ձոր</b>_ (_<b>Վայ<b>ոց_ = [NOUN]())
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
-* [fr] _<b>bien que</b>_ “although” (_bien_ = `ADV`)
+* _<b>հենց որ</b>_ “as soon as” (_հենց_ = `ADV`)
 
 ### <a name="PART">`PART`</a>: particle-like expression
-
-#### Examples
-
-* [hy] _
-
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:14 CET -->
