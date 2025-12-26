@@ -13,7 +13,6 @@ udver: '2'
   <td><a href="#ADV">ADV</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
   <td><a href="#DET">DET</a></td>
-  <td><a href="#INTJ">INTJ</a></td>
   <!--td><a href="#NOUN">NOUN</a></td-->
   <!--td><a href="#NUM">NUM</a></td-->
   <td><a href="#PRON">PRON</a></td>
@@ -47,7 +46,7 @@ words) or as an interjection.
 
 #### Examples
 
-* <b>հազար ու մի</b>_ (a multiword adjective paraphrasable as “numerous”, lit. "thousand and one"; the first node is [NUM]())
+* _<b>հազար ու մի</b>_ (a multiword adjective paraphrasable as “numerous”, lit. "thousand and one"; the first node is [NUM]())
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
@@ -74,36 +73,29 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* [fr] _le volcan émet <b>de la</b> vapeur_ “the volcano emits steam” (_de_ = `ADP`)
-
-### <a name="INTJ">`INTJ`</a>: interjection-like expression
-
-#### Examples
-
-* [es] _¡<b>Por Dios</b>!_ “for God’s sake” (_por_ = `ADP`, _Dios_ = [PROPN]())
+* _<b>ոչ մի</b>_ “not any” (_ոչ_ = `PART`)
 
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
 #### Examples
 
-* [en] _<b>each other</b>_ (_each_ = [DET]())
+* _<b>ամեն ինչ</b>_ (a multiword determiner paraphrasable as _everything_, _ամեն_= [DET]())
 
 ### <a name="PROPN">`PROPN`</a>: proper noun-like expression
 
 #### Examples
 
-* [cs] _Jeho kniha <b>Most přes řeku Kwai</b> byla zfilmována._ “His book <b>The Bridge over the River Kwai</b> was made into a movie.” (_Most_ = [NOUN]())
+* _<b>Վայոց ձոր</b>_ (_<b>Վայ<b>ոց_ = [NOUN]())
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
-* [fr] _<b>bien que</b>_ “although” (_bien_ = `ADV`)
+* _<b>հենց որ</b>_ “as soon as” (_հենց_ = `ADV`)
 
 ### <a name="PART">`PART`</a>: particle-like expression
 
 #### Examples
 
-* [hy] _
+* _<b>ի վերջո</b>_ (a multiword particle paraphrasable as “eventually”; the first node is [ADP]())
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:14 CET -->
