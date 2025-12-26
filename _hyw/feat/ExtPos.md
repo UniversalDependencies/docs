@@ -48,7 +48,7 @@ words) or as an interjection.
 
 #### Examples
 
-* * _<b>հազար ու մի</b>_ (a multiword adjective paraphrasable as “numerous”, lit. "thousand and one"; the first node is [NUM]())
+* * _<b>շատ մը</b>_ (a multiword adjective paraphrasable as “a lot of”, lit. "many some"; here the first node is the technical head and it is an adjective itself, so UPOS = `ExtPos`)
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
@@ -56,43 +56,48 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* _<b>ի շահ</b>_ “<b>in favour of</b>” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
-* _<b>սկսած</b> հունվարից_ “<b>starting</b> from January” (here the first node is a [VERB]())
+* _<b>ի տարբերութիւն</b>_ “<b>as opposed to</b>” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
+* _<b>նախ քան</b>_ “before” (_նախ_ = [ADV]())
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
-* _<b>մի կերպ</b>_ (a multiword adverb paraphrasable as “somehow”; the first node is [DET]())
+* _<b>առ նուազն</b>_ (a multiword adverb paraphrasable as “at least”; the first node is [ADP]())
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
-* _<b>ոչ միայն</b>_ “not only” (_ոչ_ = [PART]())
+* _<b>ինչպէս նաեւ</b>_ “not only” (_ինչպէս_ = [ADV]())
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
 #### Examples
 
-* _<b>ոչ մի</b>_ “not any” (_ոչ_ = `PART`)
+* _<b>ոչ մի</b>_ “not any” (_ոչ_ = [PART]())
 
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
 #### Examples
 
-* _<b>ամեն ինչ</b>_ (a multiword determiner paraphrasable as _everything_, _ամեն_= [DET]())
+* _<b>ամէն ինչ</b>_ (a multiword determiner paraphrasable as _everything_, _ամէն_= [DET]())
 
 ### <a name="PROPN">`PROPN`</a>: proper noun-like expression
 
 #### Examples
 
-* _<b>Վայոց ձոր</b>_ (_<b>Վայ<b>ոց_ = [NOUN]())
+* _<b>Camilla՚s Garden</b>_ (_<b>Camilla_ = [X]())
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
-* _<b>հենց որ</b>_ “as soon as” (_հենց_ = `ADV`)
+* _<b>այնպէս որ</b>_ “so, therefore” (_այնպէս_ = [ADV]())
 
 ### <a name="PART">`PART`</a>: particle-like expression
+
+#### Examples
+
+* _<b>դժուար թէ</b>_ (a multiword particle paraphrasable as “hardly”; the first node is [ADJ]())
+  
