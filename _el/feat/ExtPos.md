@@ -42,6 +42,9 @@ words) or as an interjection.
 #### Examples
 
 * [el] _<b>μη μου άπτου</b>_ (a multiword adjective paraphrasable as “too sensitive”, lit. "not me touch"; the first node is a [PART]())
+* [el] _<b>εν λόγω</b>_ “<b>the aforesaid</b>” (lit. "in speech.DAT"; received from the diachrony of Greek, the first node is an [ADP]()) 	
+
+
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
