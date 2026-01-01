@@ -38,6 +38,7 @@ for example, when a multiword expression acts as a proper noun (although its par
 words) or as an interjection.
 
 ### <a name="ADJ">`ADJ`</a>: adjective-like expression
+Adjectives modify only nominals and can occur either between the DET and the nominal or with the copula.
 
 #### Examples
 
@@ -47,6 +48,7 @@ words) or as an interjection.
 
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
+Adpositions occur only followed by nominals (whose case is often selected by the adposition) and the whole construct can modify various PoS including verbs.
 
 Multiword adpositions occur in many languages. Often they are grammaticalized prepositional phrases.
 
@@ -56,10 +58,13 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 <!-- * [cs] _<b>nehledě na</b> jeho úspěchy_ “<b>disregarding</b> his achievements” (here the first node is a [VERB]())-->
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
+Adverbs can modify both nouns and nominals.
 
 #### Examples
 
-* [el] _<b>μια ώρα αρχύτερα</b>_ (a multiword adverb paraphrasable as “as early as possible”; the first node is a [NUM]())
+* [el] να φύγει_<b>μια ώρα αρχύτερα</b>_ (lit. "to leave one our earlier", the multiword adverb is paraphrasable as “as early as possible”; the first node of the fixed adverb is a [NUM]())
+  * [el] ενεργεί_<b>εκ προθέσεως</b>_ (lit. "acts from intention", the multiword adverb is paraphrasable as “intentionally”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
+  * [el] αυτή η _<b>εκ προθέσεως</b>_ενέργεια (lit. "this the from intention action", the multiword adverb is paraphrasable as “intentional”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
