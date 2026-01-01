@@ -62,9 +62,9 @@ Adverbs can modify both nouns and nominals.
 
 #### Examples
 
-* [el] να φύγει_<b>μια ώρα αρχύτερα</b>_ (lit. "to leave one our earlier", the multiword adverb is paraphrasable as “as early as possible”; the first node of the fixed adverb is a [NUM]())
-  * [el] ενεργεί_<b>εκ προθέσεως</b>_ (lit. "acts from intention", the multiword adverb is paraphrasable as “intentionally”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
-  * [el] αυτή η _<b>εκ προθέσεως</b>_ενέργεια (lit. "this the from intention action", the multiword adverb is paraphrasable as “intentional”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
+* [el] να φύγει _<b>μια ώρα αρχύτερα</b>_ (lit. "to leave one our earlier", the multiword adverb is paraphrasable as “as early as possible”; the first node of the fixed adverb is a [NUM]())
+  * [el] ενεργεί _<b>εκ προθέσεως</b>_ (lit. "acts from intention", the multiword adverb is paraphrasable as “intentionally”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
+  * [el] αυτή η _<b>εκ προθέσεως</b>_ ενέργεια (lit. "this the from intention action", the multiword adverb is paraphrasable as “intentional”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
