@@ -35,6 +35,8 @@ or more children attached via the [fixed]() relation). These should normally lea
 `ADP`, `ADV`, `CCONJ`, `DET`, `PRON`, `SCONJ`, 'INTJ'  because the idea is that the `fixed` relation should not be used for compounds
 that work like content words. In Modern Greek,  the "fixed" relation is used for some very rare cases of totally fixed nominals, i.e., nouns and ajdectives as can be seen in the examples given below.  
 
+It should be noted that in the case of Modern Greek, a large number of fixed expressions are inherited from the various historical phases of Greek and, often, the same construct is used in Modern Greek in several historical forms with no change in meaning or function.
+
 ### <a name="ADJ">`ADJ`</a>: adjective-like expression
 Adjectives modify only nominals and can occur either between the DET and the nominal or with the copula.
 
@@ -47,8 +49,6 @@ Adjectives modify only nominals and can occur either between the DET and the nom
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 Adpositions occur only followed by nominals (whose case is often selected by the adposition) and the whole construct can modify various PoS including verbs.
-
-Multiword adpositions occur in many languages. Often they are grammaticalized prepositional phrases.
 
 #### Examples
 
