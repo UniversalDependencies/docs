@@ -32,10 +32,8 @@ however, `ExtPos` is  used in the case of a fixed construct even if it is identi
 
 `ExtPos` is strongly recommended for fixed functional multiword expressions (the head node has one
 or more children attached via the [fixed]() relation). These should normally lead to `ExtPos` values
-`ADP`, `ADV`, `CCONJ`, `DET`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds
-that work like content words). However, `ExtPos` is occasionally useful in other situations, too:
-for example, when a multiword expression acts as a proper noun (although its parts behave like other
-words) or as an interjection.
+`ADP`, `ADV`, `CCONJ`, `DET`, `PRON`, `SCONJ`, 'INTJ'  because the idea is that the `fixed` relation should not be used for compounds
+that work like content words. In Modern Greek,  the "fixed" relation is used for some very rare cases of totally fixed nominals, i.e., nouns and ajdectives as can be seen in the examples given below.  
 
 ### <a name="ADJ">`ADJ`</a>: adjective-like expression
 Adjectives modify only nominals and can occur either between the DET and the nominal or with the copula.
@@ -67,24 +65,28 @@ Adverbs can modify both nouns and nominals.
   * [el] αυτή η _<b>εκ προθέσεως</b>_ ενέργεια (lit. "this the from intention action", the multiword adverb is paraphrasable as “intentional”; the first node of the fixed adverb is an [ADP]() from the diachrony of Greek)
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
+A CCONJ conjoins similar phrasal structures, e.g., two main clauses, two subordinated clauses, etc
 
 #### Examples
 
 * [el] _<b>ακόμη και</b>_ “even the” (here the first node _aκόμη_ is an [ADV]())
 
 ### <a name="DET">`DET`</a>: determiner-like expression
+A determiner specifies a nominal.
 
 #### Examples
 
 * [el] _πέντε δέκα_ “five or ten” (here the first node _five_ is a [NUM]())
 
 ### <a name="INTJ">`INTJ`</a>: interjection-like expression
+An interjection can occur independenly.
 
 #### Examples
 
 * [el] _τέλος πάντων_ “anyway” (here the first node _τέλος_ is a [NOUN]())
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
+An SCONJ introduces a subordinated clause.
 
 #### Examples
 
