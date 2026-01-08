@@ -1,0 +1,23 @@
+---
+layout: feature
+title: 'AdpType'
+shortdef: 'adposition type'
+udver: '2'
+---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Post">Post</a></td>
+</tr>
+</table>
+
+The `AdpType` feature typically applies to [adpositions](_oge/pos/ADV), nouns [NOUN](_oge/pos/NOUN), proper nouns [PROPN](_oge/pos/PROPN), numerals  [NUM](_oge/pos/NUM), adjectives [ADJ](_oge/pos/ADJ) and pronouns [PRON](_oge/pos/PRON).
+
+### <a name="Post">`Post`</a>: postposition
+
+#### Examples
+
+* _წარმართ<b>ებრივ</b>_ *carmartʻebriv* 'in a pagan manner', _იაკობისა<b>მდე</b>_ *iakobisamde* 'before Jakob' etc.
+
+<!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
