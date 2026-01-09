@@ -23,7 +23,7 @@ The `AdvType` feature typically applies to [adverbs](_oge/pos/ADV).
 
 #### Examples
 
-* _აქა_ *akʻa* 'here', _იქი_ *ikʻi* 'there' etc.
+* _აქა_ 'here', _იქი_ 'there' etc.
 
 ### <a name="Tim">`Tim`</a>: temporal adverb
 
@@ -35,24 +35,24 @@ The `AdvType` feature typically applies to [adverbs](_oge/pos/ADV).
 
 #### Examples
 
-* _ესრჱთ/ესრე_ *esrētʻ/esre* 'like this', _ეგრჱთ/ეგრე_ *egrētʻ/egre* 'like that' etc.
+* _ესრჱთ/ესრე_ 'like this', _ეგრჱთ/ეგრე_ 'like that' etc.
 
 ### <a name="Cau">`Cau`</a>: causal adverb
 
 #### Examples
 
-* _ამისათჳს_ *amisatʻws* 'for this', _მაგისათჳს_ *magisatʻws* 'for that' etc.
+* _ამისათჳს_ 'for this', _მაგისათჳს_'for that' etc.
 
 ### <a name="Int">`Int`</a>: interrogative adverb
 
 #### Examples
 
-* _სადა_ *sada* 'where', _ოდეს_ *odes* 'when' etc.
+* _სადა_ 'where', _ოდეს_ 'when' etc.
 
 ### <a name="Rel">`Rel`</a>: relative adverb
 
 #### Examples
 
-* _ვითარ_ *vitʻar* 'in the manner like', _რაჟამს_ *ražams* 'at the time when' etc.
+* _ვითარ_ 'in the manner like', _რაჟამს_ 'at the time when' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
