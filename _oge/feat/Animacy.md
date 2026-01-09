@@ -23,7 +23,7 @@ Human beings, animals, fictional characters, names of professions etc. are norma
 
 #### Examples
 
-* _იაკობ_ *iakob* 'Jacob' etc.
+* _იაკობ_ 'Jacob' etc.
 
 ### <a name="Inan">`Inan`</a>: inanimate nouns.
 
@@ -31,5 +31,5 @@ Nouns that are not animate are inanimate.
 
 #### Examples
 
-* _ქალაქ, ქალაქი_ *kʻalakʻ, kʻalakʻi* 'city' etc.
+* _ქალაქ, ქალაქი_ 'city' etc.
 <!-- Interlanguage links updated So 10. května 2025, 18:13:55 CEST -->
