@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-The `Mood` feature applies to [VERB](_ka/pos/VERB).
+The `Mood` feature applies to [VERB](_oge/pos/VERB).
 
 ### <a name="Ind">`Ind`</a>: indicative
 
