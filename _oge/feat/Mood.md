@@ -23,7 +23,7 @@ happen, without adding any attitude of the speaker.
 
 #### Examples
 
-* _დავსწერ_ *davscer* 'I write', _დავსწერდ_ *davscerd* 'I wrote', _დავწერო_ *davcero* 'I will write'
+* _დავსწერ_ 'I write', _დავსწერდ_ 'I wrote', _დავწერო_ 'I will write'
 
 ### <a name="Sub">`Sub`</a>: subjunctive
 
@@ -31,7 +31,7 @@ The subjunctive (conjunctive) mood is used for actions that are subjective or ot
 
 #### Examples
 
-* _დავსწერდე_ *davscerde* 'that I might write', _დავწერო_ *davscero* 'that I may write', _დამეწეროს_ *dameceros* 'that I may have it written'
+* _დავსწერდე_ 'that I might write', _დავწერო_ 'that I may write', _დამეწეროს_ 'that I may have it written'
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -39,7 +39,7 @@ The speaker uses imperative to order or ask the addressee to do the action of th
 
 #### Examples
 
-* _წერდი_ *cerdi* 'write!', _დაწერენ_ *daceren* 'write later'
+* _წერდი_ 'write!', _დაწერენ_ 'write later'
 
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:14 CEST -->
