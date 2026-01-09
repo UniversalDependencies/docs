@@ -23,7 +23,7 @@ The `PartType` feature typically applies to [particles](_ka/pos/PART), [pronouns
 
 * _ნუთუ_ 'whether', _იქნებ_ 'maybe' etc.
 
-### <a name="Inf">`Inf`</a>: infinitive particle
+### <a name="Inf">`Inf`</a>: indefinite particle that is used mainly with pronouns
 
 #### Examples
 
