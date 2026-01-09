@@ -22,7 +22,7 @@ The action took / takes / will take some time span and there is no information w
 
 #### Examples
 
-* _წერს_ *cers* 'he/she writes', _დგას_ *dgas* 'he/she stands' etc.
+* _წერს_ 'he/she writes', _დგას_ 'he/she stands' etc.
 
 ### <a name="Iter">`Iter`</a>: iterative aspect
 
@@ -30,7 +30,7 @@ The action denotes repeated action.
 
 #### Examples
 
-* _წერდის_ *cerdis* 'he/she used to write; was writing (habitually/in the past)', იტყოდის *itqodis* 'he/she used to say; would say (repeatedly)' etc.
+* _წერდის_ 'he/she used to write; was writing (habitually/in the past)', _იტყოდის_ 'he/she used to say; would say (repeatedly)' etc.
 
 ### <a name="Perf">`Perf`</a>: perfective aspect
 
@@ -38,6 +38,6 @@ The action has been / will have been completed.
 
 #### Examples
 
-* _შეიპყარს_ *šeipqars* 'he/she captured', შეჰკარს *šehkars* 'he/she tied' etc.
+* _შეიპყარს_ 'he/she captured', _შეჰკარს_ 'he/she tied' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->
