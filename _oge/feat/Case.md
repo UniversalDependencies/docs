@@ -38,7 +38,7 @@ Despite the variation in terminology, this Old Georgian absolutive should not be
 
 #### Examples
 
-* _ქალაქ_ *kʻalakʻ* 'city', _სძალ_ *sżal* 'daughter-in-law', _ხურო_ *xuro* 'craftsman', _კუ_ *ku* 'turtle' etc.
+* _ქალაქ_ 'city', _სძალ_ 'daughter-in-law', _ხურო_ 'craftsman', _კუ_ 'turtle' etc.
 
 ### <a name="Nom">`Nom`</a>: nominative case
 
@@ -46,7 +46,7 @@ In Old Georgian, the nominative is the case used as the citation form (lemma) of
 
 #### Examples
 
-* _ქალაქი_ *kʻalakʻi* 'the city', _სძალი_ *sżali* 'the daughter-in-law', _ხუროჲ_ *xuroy* 'the craftsman', _კუჲ_ *kuy* 'the turtle' etc.
+* _ქალაქი_ 'the city', _სძალი_ 'the daughter-in-law', _ხუროჲ_ 'the craftsman', _კუჲ_ 'the turtle' etc.
 
 ### <a name="Erg">`Erg`</a>: ergative case
 
@@ -54,7 +54,7 @@ The ergative case marks subject of transitive verb. Ergative case markers have b
 
 #### Examples
 
-* _ქალაქმან_ *kʻalakʻman* 'the city', _სძალმან_ *sżalman* 'the daughter-in-law', _ხურომან_ *xuroman* 'the craftsman', _კუმან_ *kuman* 'the turtle' etc.
+* _ქალაქმან_ 'the city', _სძალმან_ 'the daughter-in-law', _ხურომან_ 'the craftsman', _კუმან_ 'the turtle' etc.
 
 ### <a name="Dat">`Dat`</a>: dative case
 
@@ -62,7 +62,7 @@ The dative case marks subject or object of clauses.
 
 #### Examples
 
-* _ქალაქს_ *kʻalakʻs* 'to the city', _სძალს_ *sżals* 'to the daughter-in-law', _ხუროს_ *xuros* 'to the craftsman', _კუს_ *kus* 'to the turtle' etc.
+* _ქალაქს_ 'to the city', _სძალს_ 'to the daughter-in-law', _ხუროს_ 'to the craftsman', _კუს_ 'to the turtle' etc.
 
 ### <a name="Gen">`Gen`</a>: genetive case
 
@@ -71,7 +71,7 @@ Prototypical meaning of genitive is that the noun phrase somehow belongs to its 
 
 #### Examples
 
-* _ქალაქის_ *kʻalakʻis* 'of the city', _სძლის_ *sżlis* 'of the daughter-in-law', _ხუროჲს_ *xuroys* 'of the craftsman', _კუჲს_ *kuys* 'of the turtle' etc.
+* _ქალაქის_ 'of the city', _სძლის_ 'of the daughter-in-law', _ხუროჲს_ 'of the craftsman', _კუჲს_ 'of the turtle' etc.
 
 ### <a name="Ins">`Ins`</a>: instrumental case
 
@@ -79,7 +79,7 @@ The instrumental case reflects that the noun is used as instrument to do somethi
 
 #### Examples
 
-* _ქალაქით_ *kʻalakʻitʻ* 'with the city', _სძლით_ *sżlitʻ* 'with the daughter-in-law', _ხუროჲთ_ *xuroytʻ* 'with the craftsman', _კუჲთ_ *kuytʻ* 'with the turtle' etc.
+* _ქალაქით_ 'with the city', _სძლით_ 'with the daughter-in-law', _ხუროჲთ_ 'with the craftsman', _კუჲთ_ 'with the turtle' etc.
 
 ### <a name="Ess">`Ess`</a>: essive case
 
@@ -87,7 +87,7 @@ The forms in the essive case express a relation of place, time, manner, etc. and
 
 #### Examples
 
-* _ქალაქად_ *kʻalakʻad* 'as a city', _სძლად_ *sżlad* 'as a daughter-in-law', _ხუროდ_ *xurod* 'as a craftsman', _კუდ_ *kud* 'as a turtle' etc.
+* _ქალაქად_ 'as a city', _სძლად_ 'as a daughter-in-law', _ხუროდ_ 'as a craftsman', _კუდ_ 'as a turtle' etc.
 
 ### <a name="Voc">`Voc`</a>: vocative case
 
@@ -95,6 +95,6 @@ The vocative case is a special form of noun used to address someone. Vocative ca
 
 #### Examples
 
-* _ქალაქო_ *kʻalakʻo* 'O city!', _სძალო_ *sżalo* ' O daughter-in-law!', _ხუროო_ *xuroo* 'O craftsman!', _კუო_ *kuo* 'O turtle!' etc.
+* _ქალაქო_ 'O city!', _სძალო_ ' O daughter-in-law!', _ხუროო_ 'O craftsman!', _კუო_ 'O turtle!' etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:57 CEST -->
