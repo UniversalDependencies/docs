@@ -22,7 +22,7 @@ The diminutive degree (the so-called ‘-ish degree’) expresses a lesser degre
 
 #### Examples
 
-* _<b>მო</b>თეთრ<b>ე</b>_ *motʻetʻre* "whitish, rather white", _<b>მო</b>დიდ<b>ე</b>_ *modide* "biggish, rather big" etc.
+* _<b>მო</b>თეთრ<b>ე</b>_ "whitish, rather white", _<b>მო</b>დიდ<b>ე</b>_ "biggish, rather big" etc.
 
 
 ### <a name="Pos">`Pos`</a>: positive
@@ -31,7 +31,7 @@ This is the base form of the adjective, expressing a quality without any compari
 
 #### Examples
 
-* _თეთრი_ *tʻetʻri* "white", _დიდი_ *didi* "big" etc.
+* _თეთრი_ "white", _დიდი_ "big" etc.
 
 
 ### <a name="Sup">`Sup`</a>: superlative
@@ -40,6 +40,6 @@ The quality of one object indicates the highest degree of a quality and is compa
 
 #### Examples
 
-* _<b>ხუ</b>თეთრ<b>ჱს</b>ი/<b>ხუ</b>თეთრ<b>ეს</b>ი_ *xutʻetʻrēsi/xutʻetʻresi* "the whitest", _<b>ხუ</b>დიდ<b>ჱს</b>ი/<b>ხუ</b>დიდ<b>ეს</b>ი_ *xudidēsi/xudidesi* "the biggest" etc.
+* _<b>ხუ</b>თეთრ<b>ჱს</b>ი/<b>ხუ</b>თეთრ<b>ეს</b>ი_ "the whitest", _<b>ხუ</b>დიდ<b>ჱს</b>ი/<b>ხუ</b>დიდ<b>ეს</b>ი_ "the biggest" etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:14:02 CEST -->
