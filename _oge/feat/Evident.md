@@ -1,0 +1,30 @@
+---
+layout: feature
+title: 'Evident'
+shortdef: 'Evidentiality'
+udver: '2'
+---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Fh">Fh</a></td>
+  <td><a href="#Nfh">Nfh</a></td>
+</tr>
+</table>
+
+The `Evident` feature applies to [NOUN](_oge/pos/NOUN), [PROPN](_oge/pos/PROPN), [ADJ](_oge/pos/ADJ), [PRON](_oge/pos/PRON), [NUM](_oge/pos/NUM), [ADV](_oge/pos/ADV) and [VERB](_oge/pos/VERB). In Old Georgian grammar, these forms are described as indirect speech markers.
+
+### <a name="Fh">`Fh`</a>: firsthand
+
+#### Examples
+
+* _აფართხალდა<b>-მეთქი</b>_ 'he/she/it trembled as I said', _აფართხალდნენ<b>-მეთქი</b>_ 'they trembled as I said' etc.
+
+### <a name="Nfh">`Nfh`</a>: non-firsthand
+
+#### Examples
+
+* _ხვდება<b>ო</b>_ 'he/she/it meets him/her/it/them as smb. said', _ხვდებიან<b>ო</b>_ 'they meet him/her/it/them as smb. said' etc.
+
+<!-- Interlanguage links updated So 10. května 2025, 18:14:05 CEST -->
