@@ -14,7 +14,7 @@ iobj(is-teaching, his-daughter)
 
 A single object in a sentence may be annotated as `iobj` when there is also a clausal complement ([ccomp]()) functioning as another object in the same sentence:
 ~~~ sdparse
-Jis moko studentus, kad gerai rašyti yra svarbu . \n He teaches the-students that writing well is important .
+Jis moko studentus , kad gerai rašyti yra svarbu . \n He teaches the-students that writing well is important .
 iobj(moko, studentus)
 iobj(teaches, the-students)
 ~~~
