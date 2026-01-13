@@ -32,19 +32,18 @@ nummod:gov(million, ten)
 
 ### Numerals written as digits
 
-In dates, the head of the construction is a day (d.), the nummeral – `nummod`, month and abbreviation of the year – [nmod]()`nmod` and the numeral marking the year – `nummod`.
+In dates, the head of the construction is a day (d.), the nummeral – `nummod`, month and abbreviation of the year – [nmod]() and the numeral marking the year – `nummod`.
 ~~~ sdparse
-Susitinkame 2025 m. lapkričio 24 d. \n We-meet in-2025 yr., on-November, on-the-24th day .
+Susitinkame 2025 m. lapkričio 24 d. \n We-meet in-2025 yr. , on-November, on-the-24th day .
+nummod(d., 24)
 nmod(m., lapkričio)
-nummod(at-Donelaičio, 5)
 nummod(m., 2025)
-nummod(on-the-24th, day)
+nummod(day, on-the-24th)
 nmod(yr., on-November)
 nummod(yr., in-2025)
 ~~~
 
 House number in address is attached as `nummod` to the name of the street.
-
 ~~~ sdparse
 Gyvenu Donelaičio 5 . \n I live at-Donelaičio 5 .
 nummod(Donelaičio, 5)
@@ -66,12 +65,12 @@ nummod:gov(euros, million)
 If no syntactic relation can be identified, the tag [compound]() is used (head is the rightmost element), for example:
 
 ~~~ sdparse
-Trys tūkstančiai šimtas eurų . \n Three thousand one hundred euros .
+Trys tūkstančiai šimtas eurų . \n Three thousand one-hundred euros .
 nummod(tūkstančiai, Trys)
 compound(šimtas, tūkstančiai)
 nummod:gov(eurų, šimtas)
 nummod(thousand, Three)
-compound(hundred, thousand)
-nummod:gov(euros, hundred)
+compound(one-hundred, thousand)
+nummod:gov(euros, one-hundred)
 ~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:22:18 CET -->
