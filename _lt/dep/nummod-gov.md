@@ -8,8 +8,7 @@ udver: '2'
 The morphological and syntactic behavior of Lithuanian numerals is complicated,
 and depends on the type of numeral.
 Cardinals are annotated as [nummod]() or `nummod:gov`.
-When a cardinal numeral governs the noun, it is annotated with nummod:gov [kitas
-šriftas].
+When a cardinal numeral governs the noun, it is annotated with `nummod:gov`.
 
 ~~~ sdparse
 Turiu dešimt obuolių . \n I-have ten apples .
@@ -26,12 +25,13 @@ nummod:gov(million, ten)
 ~~~
 
 **Compound numerals**
+
 The tags [nummod]() and `nummod:gov` can be used for compound numerals if a syntactic relation (agreement or government) can be established, for example:
 ~~~ sdparse
 Penki milijonai eurų . \n Five million euros .
-nummod(milijonai, penki)
+nummod(milijonai, Penki)
 nummod:gov(eurų, milijonai)
-nummod(million, five)
+nummod(million, Five)
 nummod:gov(euros, million)
 ~~~
 
