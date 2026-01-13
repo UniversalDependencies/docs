@@ -12,10 +12,10 @@ udver: '2'
 An `aux` (auxiliary) of a clause is a function word associated with a verbal predicate that in Lithuanian usually expresses categories such as mood or voice.
 
 ~~~ sdparse
-Jei būčiau paskubėjęs, nebūčiau pavėlavęs į lėktuvą. \n If I had hurried, I wouldn’t-have-been late for the-plane .
+Jei būčiau paskubėjęs , nebūčiau pavėlavęs į lėktuvą. \n If I had hurried, I wouldn’t-have-been late for the-plane .
 aux(paskubėjęs, būčiau)
 aux(pavėlavęs, nebūčiau)
-aux(hurried, had)
+aux(hurried , had)
 aux(late, wouldn’t-have-been)
 ~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:17 CET -->
