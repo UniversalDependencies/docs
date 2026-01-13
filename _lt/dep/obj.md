@@ -21,7 +21,7 @@ Genitive of negation:
 ~~~ sdparse
 Aš nepirkau mašinos . \n I didn't-buy a-car .
 obj(nepirkau, mašinos)
-obj(didn’t-buy, a-car)
+obj(didn't-buy, a-car)
 ~~~
 
 Partitive genitive:
@@ -34,7 +34,7 @@ obj(bought, bread)
 Verbs, that require their objects in genitive:
 ~~~ sdparse
 Laukiu svečių . \n I-am-waiting for-guests .
-obj(laukiu, svečių)
+obj(Laukiu, svečių)
 obj(I-am-waiting, for-guests)
 ~~~
 
@@ -52,9 +52,9 @@ obj(patirti, geriausia)
 obj(to-experience, the-best)
 ~~~
 
-Quantifying adverbs such as _daug, mažai, daugiau, mažiau_ etc. (_many, little, more, less_), are annotated as _obj_ when they function as objects and govern a dependent noun, since they can assume a nominal function in such contexts:
+Quantifying adverbs such as _daug, mažai, daugiau, mažiau_ etc. (_many, little, more, less_), are annotated as `obj` when they function as objects and govern a dependent noun, since they can assume a nominal function in such contexts:
 ~~~ sdparse
-Rreikia daugiau klientų . \n We-need more clients .
+Reikia daugiau klientų . \n We-need more clients .
 obj(Reikia, daugiau)
 obj(We-need, more)
 ~~~
