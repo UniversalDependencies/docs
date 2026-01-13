@@ -15,6 +15,6 @@ obl:agent(being-chased, by-the-dog)
 When the agent occurs with passive verbs used attributively, the genitive is also annotated as `obl:agent`:
 ~~~ sdparse
 Mano parašytas darbas . \n The-work written by-me .
-obl:agent(parašytas, mano)
+obl:agent(parašytas, Mano)
 obl:agent(written, by-me)
 ~~~
