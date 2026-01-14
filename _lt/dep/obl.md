@@ -44,15 +44,9 @@ obl(daugiau, proc.)
 obl(more, percent)
 ~~~
 
-~~~ sdparse
-Geriamojo vandens parduota mažiau dviem kubiniais metrais . \n Less drinking water was-sold by-two cubic meters .
-obl(mažiau, metrais)
-obl(less, meters)
-~~~
-
 Expressions indicating a source:
 ~~~ sdparse
-Anot dietologės , galima rinktis žuvį . \n According to-the-dietitian, one-can-choose fish .
+Anot dietologės , galima rinktis žuvį . \n According to-the-dietitian , one-can-choose fish .
 obl(galima, dietologės)
 obl(one-can-choose, to-the-dietitian)
 ~~~
