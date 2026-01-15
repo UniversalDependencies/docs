@@ -1,6 +1,6 @@
---
+---
 layout: relation
-title: 'nmod-unmarked'
+title: 'nmod:unmarked'
 shortdef: 'noun phrase as adnominal adverbial modifier'
 udver: '2'
 ---
