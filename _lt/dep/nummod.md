@@ -34,7 +34,7 @@ nummod:gov(million, ten)
 
 In dates, the head of the construction is a day (d.), the nummeral – `nummod`, month and abbreviation of the year – [nmod]() and the numeral marking the year – `nummod`.
 ~~~ sdparse
-Susitinkame 2025 m. lapkričio 24 d. \n We-meet  in-2025 yr. , on-November, on-the-24th day .
+Susitinkame 2025 m. lapkričio 24 d. \n We-meet  in-2025 yr. , on-November , on-the-24th day .
 nummod(d., 24)
 nmod(m., lapkričio)
 nummod(m., 2025)
@@ -45,7 +45,7 @@ nummod(yr., in-2025)
 
 House number in address is attached as `nummod` to the name of the street.
 ~~~ sdparse
-Gyvenu Donelaičio 5 . \n I live at-Donelaičio 5 .
+Gyvenu Donelaičio 5 . \n I-live at-Donelaičio 5 .
 nummod(Donelaičio, 5-3)
 nummod(at-Donelaičio, 5-8)
 ~~~
