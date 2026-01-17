@@ -5,7 +5,7 @@ shortdef : 'nominal subject'
 udver: '2'
 ---
 
-The subject is a logical agent indicating the actor or being that performs an action or experiences a state. The subject can be marked with the following labels: csubj, csubj:pass, nsubj, nsubj:pass and is always governed by the predicate. The subject can be a noun, a pronoun, or, in the case of ellipsis, even an adjective or another part of speech.
+The subject is a logical agent indicating the actor or being that performs an action or experiences a state. The subject can be marked with the following labels: [csubj](), [csubj:pass](), [nsubj](), [nsubj:pass]() and is always governed by the predicate. The subject can be a noun, a pronoun, or, in the case of ellipsis, even an adjective or another part of speech.
 
 A nominal subject (nsubj) is a nominal which is the syntactic subject and the proto-agent of a clause. This nominal may be headed by a noun, or it may be a pronoun or, in ellipsis contexts, other things such as an adjective.
 
