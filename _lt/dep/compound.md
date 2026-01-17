@@ -27,8 +27,8 @@ compound(eight, sixty)
 ~~~
 
 ### Distinction from other relations
-`nummod`
-If dependency relation between the components is clear, such dependency labels should be used as, for example, šimtas (`nummod:gov`) tūkstančių eurų; penki (`nummod`) šimtai eurų (hundred (`nummod:gov`) thousand euro; five (`nummod`) thousand euro).
+
+If dependency relation between the components is clear, such dependency labels should be used as, for example, šimtas [nummod:gov]() tūkstančių eurų; penki [nummod]() šimtai eurų (hundred [nummod:gov]() thousand euro; five [nummod]() thousand euro).
 
 For example:
 
