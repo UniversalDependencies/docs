@@ -7,9 +7,9 @@ udver: '2'
 
 The subject is a logical agent indicating the actor or being that performs an action or experiences a state. The subject can be marked with the following labels: [csubj](), [csubj:pass](), [nsubj](), [nsubj:pass]() and is always governed by the predicate. The subject can be a noun, a pronoun, or, in the case of ellipsis, even an adjective or another part of speech.
 
-A nominal subject (nsubj) is a nominal which is the syntactic subject and the proto-agent of a clause. This nominal may be headed by a noun, or it may be a pronoun or, in ellipsis contexts, other things such as an adjective.
+A nominal subject (`nsubj`) is a nominal which is the syntactic subject and the proto-agent of a clause. This nominal may be headed by a noun, or it may be a pronoun or, in ellipsis contexts, other things such as an adjective.
 
-nsubj (nominal subject) – a nominal subject (the proto-agent), that is, a noun or pronominal phrase (composed of one or more words) which serves as the syntactic subject of a clause. The governor of the nsubj relation is typically a verb. Nsubj may be a common noun, a proper noun, a personal pronoun, an indefinite pronoun viskas (“everything”), etc
+`nsubj` (nominal subject) – a nominal subject (the proto-agent), that is, a noun or pronominal phrase (composed of one or more words) which serves as the syntactic subject of a clause. The governor of the `nsubj` relation is typically a verb. `Nsubj` may be a common noun, a proper noun, a personal pronoun, an indefinite pronoun viskas (“everything”), etc.
 
 ~~~ sdparse
 Vaikas eina namo . \n A-child goes home .
@@ -43,7 +43,7 @@ nsubj(atvyko, kuri)
 nsubj(arrived, who)
 ~~~
 
-Constructions like daugiau nei... (more than...); vienas... (one), involving the genitive case of a superlative degree of an adjective, when they function as the subject of the sentence, are annotated as nsubj.
+Constructions like _daugiau nei... (more than...); vienas... (one)_, involving the genitive case of a superlative degree of an adjective, when they function as the subject of the sentence, are annotated as `nsubj`.
 
 ~~~ sdparse
 Seminare dalyvavo daugiau nei 100 dalyvių . \n The-seminar was-attended by-more than 100 participants .
@@ -57,7 +57,7 @@ nsubj(stovi, Vienas)
 nsubj(stands, One)
 ~~~
 
-More rarely, the governor of nsubj is not a verb, but other parts of speech. For example, the root of the sentence can be an adjective or a noun.
+More rarely, the governor of `nsubj` is not a verb, but other parts of speech. For example, the [root]() of the sentence can be an adjective or a noun.
 
 ~~~ sdparse
 Automobilis yra raudonas . \n A-car is red .
@@ -67,11 +67,11 @@ nsubj(red, A-car)
 
 ~~~ sdparse
 Jonas yra studentas . \n Jonas is a-student .
-nsubj(studentas, Jonas)
-nsubj(a-student, Jonas)
+nsubj(studentas, Jonas-1)
+nsubj(a-student, Jonas-5)
 ~~~
 
-If the subject is governed by a participle of necessity, it is marked as nsubj
+If the subject is governed by a participle of necessity, it is marked as `nsubj`.
 
 ~~~ sdparse
 Taisyklės rekomenduotinos visiems darbuotojams . \n The-rules are-recommended for-all employees .
