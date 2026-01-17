@@ -108,9 +108,7 @@ In ambiguous cases, English grammar diagnostics were employed to assign the corr
 Some clauses lack a prototypical verb such as “run” or “eat” and instead express states or properties, such as being, becoming, or possession.
 
 - Copula verbs that only show tense or time (like “is” or “was”) are labeled as `aux`.
-- When there is no copula verb, the noun or adjective acts as the main word, and the subject is linked to it with `nsubj`.
 
-No Brahui-specific syntactic rules were introduced.
 
 ## Dependency Relations
 
@@ -121,19 +119,10 @@ The treebank employs the following Universal Dependencies (UD) relations:
 `flat`, `iobj`, `mark`, `nmod`, `nmod:poss`, `nsubj`, `nummod`,  
 `obj`, `obl`, `obl:tmod`, `parataxis`, `punct`, `root`, `xcomp`.
 
-All relations are standard UD relations; no language-specific extensions were created.
-
 ## Treebanks
 
-There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [1](../treebanks/brh-comparison.html) Brahui treebanks:
 
-- [LANGUAGE-A](../treebanks/LCODE_a/index.html)
-- [LANGUAGE-B](../treebanks/LCODE_b/index.html)
+- [Kholum](../treebanks/brh_kholum/index.html)
 
----
 
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
