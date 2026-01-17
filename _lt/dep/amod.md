@@ -41,10 +41,10 @@ amod(konferencijoje, vykusioje)
 amod(at-a-conference, that-took-place)
 ~~~
 
-**Note.** If the modifying adjectival word is pronominal (i.e. tagged `det`), the relation is `det` instead of `amod`.  
+**Note.** If the modifying adjectival word is pronominal (i.e. tagged `det`), the relation is [det]() instead of `amod`.  
 
 `Amod` also marks adjectives occurring after pronouns.  
-However, if the modifier is not an adjectival word, but an **infinitive**, the `acl` tag should be used, for example: *teisė reikalauti* “the right to demand” (`acl`) (see the section on `acl`).  
+However, if the modifier is not an adjectival word, but an **infinitive**, the `acl` tag should be used, for example: *teisė reikalauti* “the right to demand” (`acl`) (see the section on [acl]()).  
 
 ~~~ sdparse
 Nieko blogo nenutiko . \n Nothing bad happened .
@@ -53,7 +53,7 @@ amod(Nothing, bad)
 ~~~
 
 In Lithuanian, the `amod` relation is also used for **ordinal numbers**, when they are expressed in
-words rather than digits (numerals written as digits are annotated as `nummod`).  
+words rather than digits (numerals written as digits are annotated as [nummod]()).  
  
 ~~~ sdparse
 Prasidėjo antra savaitė . \n The-second week began .
