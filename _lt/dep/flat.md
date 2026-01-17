@@ -5,8 +5,8 @@ shortdef: 'flat'
 udver: '2'
 ---
 
-The `flat` relation is one of the relations used for multiword expressions. All subsequent words in such expressions are attached to the first one using the flat label. The assumption is that in these expressions, the flat relations are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary. 
-The prototypes for flat are: personal names, names composed of several words without a clear syntactic relation, onomatopoeias, and foreign expressions.
+The `flat` relation is one of the relations used for multiword expressions. All subsequent words in such expressions are attached to the first one using the `flat` label. The assumption is that in these expressions, the `flat` relations are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary. 
+The prototypes for `flat` are: personal names, names composed of several words without a clear syntactic relation, onomatopoeias, and foreign expressions.
 
 Personal names: 
 ~~~ sdparse
