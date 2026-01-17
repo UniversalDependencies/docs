@@ -46,9 +46,9 @@ obl(more, percent)
 
 Expressions indicating a source:
 ~~~ sdparse
-Anot dietologės , galima rinktis žuvį . \n According to-the-dietitian , one-can-choose fish .
+Anot dietologės , galima rinktis žuvį . \n According-to the-dietitian, one-can choose fish .
 obl(galima, dietologės)
-obl(one-can-choose, to-the-dietitian)
+obl(one-can, the-dietitian)
 ~~~
 
 Relative pronouns in relative clauses:
