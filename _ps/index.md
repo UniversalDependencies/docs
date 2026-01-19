@@ -119,6 +119,6 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
   * [compound:lvc]() for nominal part of light verb construction
 
 ## Treebanks
-There is currently one Pashto UD treebank:
+There are two Pashto UD treebanks:
   * [Pashto-Sikaram](../treebanks/ps_sikaram/index.html)
-
+  * [Pashto-Prince](../treebanks/ps_prince/index.html)
