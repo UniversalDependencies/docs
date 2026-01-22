@@ -128,11 +128,22 @@ This is an overview only.
 
 * The following relation subtypes are used in Estonian:
   * [acl:relcl]() for relative clauses
+  * [advmod:lmod]() for locative adverbal argument (_kohamäärus_),
+  * [advmod:tmod]() for temporal adverbal argument (_ajamäärus_),
+  * [advmod:mode]() (_viisimäärus_),
   * [cc:preconj]() for constructions _nii ... kui ka ..._ and _kas ... või ..._
   * [compound:prt]() for adverbal components of particle verbs
   * [csubj:cop]() for clausal or infinitive subject in copula clauses.
   * [nsubj:cop]() for nominal subject in copula clauses,
-* The following main types are not used alone and must be subtyped:
+  * [obl:agent]() for oblique agent (_tegijamäärus_),
+  * [obl:arg]() oblique argument (_sõltuvusmäärus_),
+  * [obl:lmod]() for locative oblique argument (_kohamäärus_),
+  * [obl:tmod]() for temporal oblique argument (_ajamäärus_),
+  * [obl:quant]() (_hulgamäärus_)
+  * [obl:idiom]() for idioms (_väljendverbi osa_),
+  * [obl:state]() (_seisundimäärus_),
+  * [obl:mode]() (_viisimäärus_).
+
 
 * The following relation types are not used in Estonian at all:
   [expl](), [clf](), [dislocated]()
