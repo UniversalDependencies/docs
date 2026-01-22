@@ -9,10 +9,11 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Greek">Greek</a></td>
+<td><a href="#Archaic">Archaic</a></td>
 </tr>
 </table>
 
-`Variant` is used to distinguish word forms that differ only from a formal point of view, but that otherwise share the same lemma and morpholexical features. In Latin this is seen in the possible adoption of Greek [case](la-feat/Case) endings for [nouns](la-pos/NOUN) and [adjectives](la-pos/ADJ).
+`Variant` is used to distinguish word forms that differ only from a formal point of view, but that otherwise share the same lemma and morpholexical features. In Latin this is seen in the possible adoption of Greek [case](la-feat/Case) endings for [nouns](la-pos/NOUN) and [adjectives](la-pos/ADJ), or similarly in the use of archaic inflectional traits.
 
 
 ### <a name="Greek">`Greek`</a>: Greek morphology
@@ -32,4 +33,20 @@ This is different than simply marking words of Greek origin which comply to "reg
 * acc. ***delphyna*** 'dolphin', nom. *delphin*, masculine third declension, gr. acc. *δελφῖνα* from nom. *δελφίν*; in Latin one would expect *delphinem* from *delphin*
 * nom./acc. ***melos*** 'tune', neuter second declension, gr. nom./acc. *μέλος*; the corresponding "regular" Latin form would be *melum* (or a masculine *melus*)
 * gen. ***metamorphoseos*** '(of a/the) metamorphosis', nom. *metamorphosis*, feminine third declension, gr. gen. *μεταμορφώσεως* from nom. *μεταμόρφωσις*; one would expect the "regular" Latin form *metamorphosis* (identical to the nominative)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:53 CET -->
+
+
+
+### <a name="Archaic">`Archaic`</a>: Archaic inflectional traits
+
+Some forms are crystallised into variants which belong to an older phase of the language, and have been generally superseded by new inflectional paradigms. Sometimes, the use of such forms can be a deliberate matter of style by an author, but in other cases these forms, while still morphosyntactically transparent, are used i nspecific contexts, especially in the realm of connectives. 
+
+#### Examples
+
+*(nom. = nominative [case](la-feat/Case), acc. = accusative, gen. = genitive, dat. = dative, loc. = locative; pl. = plural, singular elsewhere; f. = feminine, m. = masculine, n. = neuter; gr. = Greek)*
+
+* gen. *pater* ***familias*** 'master of a house', with an archaic sigmatic genitive instead of synchronic *familiae*; since it is a crystallised expression, sometimes it occurs univerbated as *paterfamilias*
+* abl. ***quī*** 'whereby', instead of synchronic m./n. *quo* , f. *qua* of the [relative](la-feat/PronType) pronoun *qui* (which has short vowel quantity), showing the original tendency of pronominal elements to not distinguish grammatical [gender](la-feat/Gender) (as still the case in gen. *cuius* and dat. *cui*); most often used as a subordinating connective in [free-relative-like](la-dep/advcl-relcl) subordinated clauses
+* gen. pl. ***equum*** 'of horses', from *equus*, instead of an expected synchronic *equorum*, and in analogy to [athematic](la-feat/InflClass) inflectional patterns, as opposed to the *o*-thematic ones of the first declension
+* loc. ***hīc*** (< *heic*)'here', literally 'in/at this (one)', from *hīc* 'this (one)', could be seen as an archaic variant in that, synchronically, the locative case appears restricted to nouns and is not productive anymore for synsemantic elements; it is similar in use to yet another form of the paradigm, f. abl. *hāc*, and traditionally it is often misleadingly annotated as an independent adverbial ([ADV](la-pos/ADV)) lexeme
+
+
