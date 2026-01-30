@@ -27,11 +27,10 @@ Most Middle Armenian adjectives inflect for [Degree]() (_մենձ, այլ մեն
 
 ### Border cases
 
-Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB]():
+Resultative, subject and past participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB]():
 
-- _<b>ծաղկեալ ծառ_ “a tree in bloom”
--  _ջրած գինի_ “wine diluted with water”
--	_<b>սնցնաւղ մայր_ “a feeding mother”
+- _ջրած գինի_ “wine diluted with water”
+- _նախշող վարպետ_ “a master of ornamentation”
+- _ծաղկեալ ծառ_ “a tree in bloom”
 
-Note that some participial adjectives are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->
