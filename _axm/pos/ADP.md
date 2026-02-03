@@ -16,6 +16,6 @@ Note, that there is a number of case-marking elements (traditionally called “a
 
 - Prepositions: _ի_ “from; to; into; for” (with its antevocalic form _յ-_), _առ_ “up to”, _ընդ_ “under; by; through; with; instead of”,  _ինչվի_ “till; up to”
 - postpostions: _համար_ “for”, հանդէպ_ “to; towards”, _պէս_ “as”,
-- ambiposition։ _ինձ <b>դէմ</b>ս_ “in front of me”  _<b>դէմ<b> քեզ_ “in front of you”
+- ambiposition։ _ինձ <b>դէմ</b>ս_ “in front of me”  _<b>դէմ</b> քեզ_ “in front of you”
 - complex prepositions: _ի խէչ_ “at”, _ի վերայ_ “on; over; about”, _ի մէջ_ “in; into; between”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->
