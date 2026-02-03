@@ -23,7 +23,7 @@ Although a few localizers have further grammaticalized into adverbials denoting 
 
 Note also, that there is a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of [nouns](NOUN), [adjectivs/participles](VerbForm) or [adverbs](ADV). They are tagged based on their main part-of-speech category in UPOS. Their function as a part of speech, different from that in UPOS, is indicated with the relation [ExtPos]().
 
-- _անհրաժեշտության <b>դեպքում<b>_ “_<b>in case<b> of necessity_”
+- _անհրաժեշտության <b>դեպքում</b>_ “_<b>in case</b> of necessity_”
 
 ### Examples
 
