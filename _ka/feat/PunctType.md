@@ -27,61 +27,61 @@ The `PunctType` feature applies to [punctuation](_ka/pos/PUNCT).
 
 #### Examples
 
-* . 
+* _._ ხელნაწერი დასრულებულია. 'The manuscript has been completed.' 
 
 ### <a name="Comm">`Comm`</a>: comma
 
 #### Examples
 
-* , 
+* _,_ მან წერილი დაწერა, შემდეგ კი გაგზავნა. 'He wrote the letter, then sent it.'
 
 ### <a name="Brck">`Brck`</a>: parenthesis
 
 #### Examples
 
-* _()_ 
+* _()_ ეს სიტყვა (ძველი ფორმით) იშვიათად გამოიყენება. 'This word (in its old form) is rarely used.'
 
 ### <a name="Dash">`Dash`</a>: hyphenation
 
 #### Examples
 
-* _-_ 
+* _-_ ეს ისტორიულ-ლინგვისტური კვლევაა. 'This is a historical-linguistic study.'
 
 ### <a name="Excl">`Excl`</a>: exclamation
 
 #### Examples
 
-* _!_ 
+* _!_ რა საინტერესო აღმოჩენაა! 'What an interesting discovery!'
 
 ### <a name="Qest">`Qest`</a>: interrogation
 
 #### Examples
 
-* _?_ 
+* _?_ სად ინახება ეს ხელნაწერი? 'Where is this manuscript kept?'
 
 ### <a name="Colo">`Colo`</a>: colon
 
 #### Examples
 
-* _:_
+* _:_ მან შემდეგი ცნებები ჩამოაყალიბა: ენა, მამული, სარწმუნოება. 'He formulated the following concepts: language, homeland, faith.'
 
 ### <a name="Semi">`Semi`</a>: semicolon
 
 #### Examples
 
-* _;_
+* _;_ კვლევა დასრულდა; შედეგები მალე გამოქვეყნდება. 'The research has been completed; the results will be published soon.'
 
 ### <a name="Elip">`Elip`</a>: ellipsis
 
 #### Examples
 
-* _..._
+* _..._ თითქოს რაღაცის თქმა უნდოდა, მაგრამ… 'It seemed he wanted to say something, but…'
 
 ### <a name="Quot">`Quot`</a>: colon
 
 #### Examples
 
-* _"_
+* _"_ მან თქვა: „ამ ტექსტს განსაკუთრებული მნიშვნელობა აქვს.“ 'He said: “This text has special significance.”'
 
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:44 CET -->
