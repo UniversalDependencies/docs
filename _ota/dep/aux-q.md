@@ -16,23 +16,23 @@ we use `aux:q` for all uses of the question particle.
 Note: This page was based on [aux:q for Turkish](https://universaldependencies.org/tr/dep/aux-q.html).
 
 ~~~ sdparse
-Oḳuyacaḳ mısınız ? \n Are you going to read ?
-aux:q(Okuyacak, mısınız)
+Gidecek misiniz ? \n Are you going to go ?
+aux:q(Gidecek, misiniz)
 ~~~
 
 ~~~ sdparse
-Kitābı ʿĀlīden aldın mı ? \n _Did_ you take the book from Ali ?
+Mektūbu Meḥmedden aldın mı ? \n _Did_ you take the letter from Mehmed ?
 aux:q(aldın, mı)
 ~~~
 
 ~~~ sdparse
-Kitābı ʿĀlīden mi aldın ? \n Did you take the book _from Ali_ ?
-aux:q(ʿĀlīden, mi)
+Mektūbu Meḥmedden mi aldın ? \n Did you take the letter _from Mehmed_ ?
+aux:q(Meḥmedden, mi)
 ~~~
 
 ~~~ sdparse
-Kitābı mı ʿĀlīden aldın ? \n Did you take _the book_ from Ali ?
-aux:q(Kitabı, mı)
+Mektūbu mu Meḥmedden aldın ? \n Did you take _the letter_ from Mehmed ?
+aux:q(Mektūbu, mu)
 ~~~
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:21 CET -->
