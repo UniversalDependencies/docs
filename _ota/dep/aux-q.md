@@ -13,7 +13,7 @@ typically carries some of the tense/aspect/modality suffixes as well as person/n
 Although it does not function as an auxiliary when attached to non-predicate words or phrases,
 we use `aux:q` for all uses of the question particle.
 
-Note: This page was based on [aux:q for Turkish](https://universaldependencies.org/tr/dep/aux-q.html).
+Note: This page was adapted from [aux:q for Turkish](https://universaldependencies.org/tr/dep/aux-q.html).
 
 ~~~ sdparse
 Gidecek misiniz ? \n Are you going to go ?
