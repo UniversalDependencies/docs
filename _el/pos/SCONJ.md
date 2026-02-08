@@ -63,7 +63,7 @@ discourse(παλάτι, να)
 nsubj(παλάτι, φίλο)
 ~~~
 
-
+There are fixed subordinating conjuctions such as *μπας και* and MWE ones such as the ones that are formed by ADPs and ADVs followed by *να* such as *χωρίς να, ώσπου να*. 
 For coordinating conjunctions, see [CCONJ]().
 
 ## Examples
