@@ -31,8 +31,9 @@ Adverbs may bear inflectional features specifying the feature [Degree](el-feat/D
    - [Degree=Dim](), e.g.,  _φτωχούτσικα_ "somewhat poorely", *καλούτσικα*  "somewhat good"
    - [Degree=Mag]() is assigned to the first of a pair of identical adverbs, e.g., *πάνω πάνω* Lit. up up "on the very top", *πίσω πίσω* Lit. back back "at the very back", *σιγά σιγά* Lit. slowly slowly "very very slowly", *πονηρά πονηρά* Lit. cuningly cuningly "very very cunningly". Each adverb is assigned the tag [ADV]() and first one is assigned the feature [Degree=Mag](). The second adverb depends on the first one with the [Compound:redup]() dependency.
 
-Multiword adverbs:
-- Modern Greek uses complex structures consisting of an adverb and an adposition: *(μέσα σε)* (lit: in to) μέσα: ADV σε: ADP, *(ενάντια σε)* (lit: contrary to) ενάντια: ADV σε: ADP. The  ADP depends on the ADV  with the relation [fixed]().
+Multiword adverbs in Modern Greek:
+- Complex structures consisting of an adposition and a content word, such as nouns, adjectives, adverbs: *(σε είδος)* (lit: in kind ) σε: ADP, είδος: NOUN. The  content word depends on the ADP  with the relation [fixed]().
+- Constructs containing only content words: *(παραδείγματος χάριν) (lit: example in.favor) παραδείγματος: NOUN χάριν: NOUN "for example", *(αέρα πατέρα) (lit: air father) αέρα: NOUN πατέρα: NOUN "in a thoughtless  and unorganised way". The  second word depends on the first one with the relation [fixed]().
 - Multiword adverbs such as *καλού-κακού* Lit. of good-of bad "just to make sure": both words are  assigned the tag [ADV]() and the second adverb depends on the first one with the <code>fixed</code> relation.  
 
 Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) share properties and usage of adverbs and verbs and are assigned the tag [VERB](), the specification <code>VerbForm=Conv</code> and are tagged for <code>Aspect</code> and <code>Voice</code>.  
