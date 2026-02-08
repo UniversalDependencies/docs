@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Des">Des</a></td>
-  <td><a href="#Hort">Hort</a></td>
+  <td><a href="#Hrt">Hort</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
@@ -48,7 +48,7 @@ The speaker uses imperative to order or ask the addressee to do the action of th
 * _Sam, windowdi <b>shamma</b>!_ "Sam, **open** the window!"
 
 
-### <a name="Hort">`Hort`</a>: hortative
+### <a name="Hrt">`Hrt`</a>: hortative
 
 The hortative mood expresses the encouragement or discouragement of an action.
 

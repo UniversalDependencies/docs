@@ -51,7 +51,7 @@ Naga-Suansu distinguishes four main (de)verbal forms based on the [VerbForm]() f
 
 * [VERB]() and verbal auxiliary _la_ "be" ([AUX]()) may have features such as [Aspect]() (`Imp`, `Perf`, `Prog`), [Modal]() (`Abil`, `Perm`, `Poss`), [Mood]() (`Imp`, `Ind`), and [Tense]() (`Past`, `Pqp`, `Pres`).
 * All verbal features also appear on [ADP]() and [ADV]() in phrasal verb particles.
-* Mood auxiliaries have [Mood]() (`Des`, `Jus`, `Hort`, `Imp`, `Int`, `Irr`) feature.
+* Mood auxiliaries have [Mood]() (`Des`, `Jus`, `Hrt`, `Imp`, `Int`, `Irr`) feature.
 * The evidential auxiliaries _gu_ and _ga_ use the [Evident]() (`Fh`, `Nfh`) feature.
 
 * The obligatory modal auxiliary _geraha_ has the [Modal]() (`Obl`) feature.
