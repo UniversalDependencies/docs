@@ -19,7 +19,7 @@ Adposition is a cover term for prepositions and postpositions. Adpositions belon
 ### Examples
 
 * *σε, από, με, για, ως, εκ/εξ* / *se, apo, me, gia, os, ek/ex* "to, from, with, for, up to/like, from"
-* (μέσα σε) μέσα:ADV σε:ADP, (ενάντια σε) ενάντια:ADV σε:AD ---these are MWE ADP (but not fixed)
+* (μέσα σε) μέσα: ADV σε: ADP, (ενάντια σε) ενάντια: ADV σε: AD ---these are MWE ADPs (but not fixed)
 {μετά, εντός}: ADP + ΝΟUN[Case=Gen], e .g., μετά ληστείας, Lit. with robbery, εντός δευτερολέπτων "in seconds", and in all other environments *μετά, εντός* are tagged [ADV]()
 
 
