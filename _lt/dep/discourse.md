@@ -10,7 +10,7 @@ In Lithuanian, for example, this includes: interjections (1, 2), list enumerator
 
 The `discourse` relation is attached either to the nearest syntactic head or to the word with which it is associated or emphasized.
 
-## Interjections
+### Interjections
 
 ~~~ sdparse
 Aū , Tomai , kur tu ? \n Hey , Tomas , where-are you ?
@@ -24,7 +24,7 @@ discourse(juokauji, Ai)
 discourse(are-joking, Ah)
 ~~~
 
-## List enumerators, bullets
+### List enumerators, bullets
 
 ~~~ sdparse
 Į stadioną negalima įsinešti : a) ginklų , b) maisto , c)  gėrimų .  \n It-is-not-allowed to-bring into the-stadium : a) weapons , b) food , c) drinks .
@@ -36,7 +36,7 @@ discourse(food, b)-24)
 discourse(drinks, c)-27)
 ~~~
 
-## Emoticons, symbols and signs
+### Emoticons, symbols and signs
 
 ~~~ sdparse
 Kaunas yra Lietuvoje :) \n Kaunas is in-Lithuania :)
@@ -44,7 +44,7 @@ discourse(Lietuvoje, :)-4)
 discourse(in-Lithuania, :)-9)
 ~~~
 
-## Single-word parenthicals
+### Single-word parenthicals
 
 ~~~ sdparse
 Deja , tokia yra neišvengiamybė . \n Alas , that is inevitable .
@@ -58,7 +58,7 @@ discourse(neatvyko, Beje)
 discourse(hasn’t-arrived, By-the-way)
 ~~~
 
-## Affirmative and negative words in a sentence, separated by commas
+### Affirmative and negative words in a sentence, separated by commas
 
 ~~~ sdparse
 Taip , šiandien lis . \n Yes , it-will-rain today . 
