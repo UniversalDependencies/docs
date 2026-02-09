@@ -13,7 +13,7 @@ explicit coordination, subordination, or argument relation with the head word.
 3, 4), clauses introduced in brackets (5, 6), parenthetical comments detached from the sentence
 (7), and certain parenthetical elements (8, 9).
 
-## Treatment of reported speech
+### Treatment of reported speech
 
 When a speech verb interrupts reported speech content, the interruption is treated as a
 parenthetical `parataxis`:
@@ -42,7 +42,7 @@ parataxis(lis, Sako)
 parataxis(it-will-rain, They-say)
 ~~~
 
-## Treatment of reported speech
+### Treatment of reported speech
 
 The `parataxis` relation is used to connect parts of the sentence written as explanation in brackets (5, 6) as well as comments that are less related to the sentence (7).
 
@@ -64,7 +64,7 @@ parataxis(grąžinau, nesiskaito)
 parataxis(repaid, don’t-count)
 ~~~
 
-## Parentheticals
+### Parentheticals
 
 Parentheticals are annotated as `parataxis` when the inserted word group or clause (containing a verb) can be regarded as a sentence component that has its own grammatical head.
 
