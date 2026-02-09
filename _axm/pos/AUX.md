@@ -25,13 +25,13 @@ They can be divided into:
 _խօսելու <b>եմ</b>_ “I shall speak”,
 _խօսելու <b>էի</b>_ “I would (intended to) speak”).
 
-- Present perfect and past perfect tenses. Finite present and imperfect forms of _եմ_ and _էի_ are used with perfect and resultative participals to form  
+- Present perfect and past perfect tenses. Finite present and imperfect forms of _եմ_ and _էի_ are used with perfect and resultative participals to form compound tenses: 
 _բերել <b>է</b>_ “he/she has brought”,
 _բերել <b>էր</b>_ “he/she had brought”,
 _գնացած <b>եմ</b>_ “I have gone” 
 _գնացած <b>էի</b>_ “I had gone”
 
-- Prospective / perfect aspect. The finite form of _լինիմ_ (in various tenses and moods or in the infinitive of _լինիլ/linil_ (_լնիլ/lnil, լինենալ/linenal,լնալ/lnal_)) is combined with future, resultative and perfect participles of the lexical verb to form “secondary compound tenses”. The auxiliary expresses aspect, person, number, mood, tense and aspect, participles expresse aspect and voice:
+- Prospective / perfect aspect. The finite form of _լինիմ_ (in various tenses and moods or in the infinitive of _լինիլ/linil_ (_լնիլ/lnil, լինենալ/linenal,լնալ/lnal_)) is combined with future, resultative and perfect participles of the lexical verb to form “secondary compound tenses”. The auxiliary expresses aspect, person, number, mood and tense, participles expresse aspect and voice:
   _բերելու <b>լինի</b>_ “(If / when) he/she intent to bring.`Sub`”,
   _արգելած <b>լինի</b>_ “(If / when) it is forbidden.`Sub`”,
   _մեռել <b>լինին</b>_ “(If / when) they might be dead.`Sub`”
