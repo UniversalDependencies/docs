@@ -10,51 +10,41 @@ udver: '2'
 
 ### Definition
 
-The only truly auxiliary verb in Middle Armenian is _եմ&nbsp;_ “be”,
-and its variant (with separate lemma) _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”.
-It accompanies the lexical verb of a verb phrase and expresses
-grammatical distinctions not carried by the lexical verb.
+There are several auxiliary verbs in Middle Armenian: _եմ/em_ “be”, and its variant (with separate lemma) _լինիմ (լինիլ)/linim (linil)_ (with its different spellings _լնիլ/lnil, լինենալ/linenal,լնալ/lnal_) “be repeatedly / habitually”, _կամ/kam_ “be, exist”, _ունիմ/ownim_ “have”, _պիտի/piti_ “to by necessary, useful”, and negative copula _ոչ_/oč “not”.
 
-Armenian auxiliary verbs can be divided into:
+They can be divided into:
 
-- tense auxiliary, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
-- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
-- voice auxiliary, used to form periphrastic causative represented by _տալ&nbsp;_ “cause / make someone to perform action”,
-- mood auxiliary, used to form periphrastic necessitative mood by _պիտի&nbsp;_ “to by necessary, useful” or _պետք է&nbsp;_ “lit: is needed”.
+- tense auxiliary, used to form compound tenses represented by _եմ/em_ “be” (with its present/past paradigms). It accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb;
+- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինիմ/linim_ “be repeatedly / habitually”, _կամ/kam_ “be, exist”, _ունիմ/ownim_ “have”;
+- mood auxiliary, used to form periphrastic necessitative mood by _պիտի_ “to by necessary, useful”.
+
 
 ### Examples
 
-- Present tense. Finite present form of _եմ&nbsp;_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles expresse aspect and voice:
-  _վազում <b>եմ</b>&nbsp;_ “I run / I am running”,
-  _կանգնած <b>են</b>&nbsp;_ “they are standing”.
-  Note that a limited set of verbs can form present morphologically, without the auxiliary.
+- Future and future-in-the-past tensces. Finite present and imperfect forms of _եմ_ and _էի_ are used with future participles of the lexical verbs to form  (present-)future and future-in-the-past tenses. The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice:
+_խօսելու <b>եմ</b>_ “I shall speak”,
+_խօսելու <b>էի</b>_ “I would (intended to) speak”).
 
-- Imperfect tense. Finite imperfect form of _էի&nbsp;_ is combined with imperfective, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles expresse aspect and voice:
-  _վազում <b>էի</b>&nbsp;_ “I was running”,
-  _վազել <b>էիր</b>&nbsp;_ “you were running”,
-  _կանգնած <b>էին</b>&nbsp;_ “they were standing”.
+- Present perfect and past perfect tenses. Finite present and imperfect forms of _եմ_ and _էի_ are used with perfect and resultative participals to form  
+_բերել <b>է</b>_ “he/she has brought”,
+_բերել <b>էր</b>_ “he/she had brought”,
+_գնացած <b>եմ</b>_ “I have gone” 
+_գնացած <b>էի</b>_ “I had gone”
 
-Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>&nbsp;_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice.
-
-- Durative / habitual aspect. The finite form of _լինել (լինեմ)&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) is combined with processual, resultative and future participles of the lexical verb. The auxiliary expresses aspect, person, number, mood, tense and aspect, participles expresse aspect and voice:
-  _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I intent to go.`Sub`”,
-  _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone.`Sub`”,
+- Perfect / habitual aspect. The finite form of _լինիմ_ (in various tenses and moods or in the infinitive of _լինիլ/linil_ (_լնիլ/lnil, լինենալ/linenal,լնալ/lnal_)) is combined with processual, resultative and future participles of the lexical verb տօ ֆօռմ “secondary compound tenses”. The auxiliary expresses aspect, person, number, mood, tense and aspect, participles expresse aspect and voice:
+  _գնալու <b>լինիմ</b>&nbsp;_ “(If / when) I intent to go.`Sub`”,
+  _արգելած <b>լինի</b>_ “it is ('will be/should be) forbidden.`Sub`”,
+  _կանգնած <b>լինիս</b>_ “(If / where) you stand.`Sub`”
   _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going.`Sub`”,
   _գնալու <b>լինել</b>&nbsp;_ “to intend to go, to be going”,
   _գնացած <b>լինել</b>&nbsp;_ “to be gone”,
   _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”.
 
-- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitve of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
-  _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
-  _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand” (morphological causative),
-  _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
+- Necessitative mood. The mood particle _<b>պիտի</b>_ (with its variant _պիտ/pit_, _տի/ti_) “(it is) necessary” is combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
+_<b>պիտի</b> փախչիմ_ “I <b>must</b> go home”,
+_<b>պիտ</b> ըմպէիր_ “you <b>should have</b> drunk”.
 
-- Necessitative mood. The mood particle _<b>պիտի</b>_ “to by necessary, useful” and the impersonal predicative _<b>պետք է</b>_ “lit: is needed” are combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
-_<b>պիտի (պետք է)</b> գնա&nbsp;_ “he/she <b>must</b> go home”,
-_<b>պիտի (պետք է)</b> գնար&nbsp;_ “he/she <b>had</b> to go”.
-
-Note, that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended
-to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինել (լինեմ)&nbsp;_ should be now tagged `AUX`.
+Note, that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինել (լինեմ)&nbsp;_ should be now tagged `AUX`.
 Only pure existentials without location (_Այն <b>եղել</b> է ու <b>կա</b> որպես հուշ։&nbsp;_ “It <b>has been</b> and <b>is</b> as a memory.”) have a non-auxiliary _լինել&nbsp;_ and _կամ&nbsp;_ which should be tagged `VERB`.
 
 ### Modal verbs are not auxiliaries
