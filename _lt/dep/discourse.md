@@ -27,7 +27,7 @@ discourse(are-joking, Ah)
 ## List enumerators, bullets
 
 ~~~ sdparse
-Į stadioną negalima įsinešti : a) ginklų , b) maisto , c)  gėrimų .  \n It-is-not-allowed to-bring into the-stadium : a) weapons , b) food , c ) drinks .
+Į stadioną negalima įsinešti : a) ginklų , b) maisto , c)  gėrimų .  \n It-is-not-allowed to-bring into the-stadium : a) weapons , b) food , c) drinks .
 discourse(ginklų, a)-6)
 discourse(maisto, b)-9)
 discourse(gėrimų, c)-12)
