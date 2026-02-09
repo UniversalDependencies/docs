@@ -47,7 +47,7 @@ parataxis(it-will-rain, They-say)
 The `parataxis` relation is used to connect parts of the sentence written as explanation in brackets (5, 6) as well as comments that are less related to the sentence (7).
 
 ~~~ sdparse
-Jonas sėdi (nuotraukoje dešinėje) . \n Jonas is-sitting (in-the-photo, on-the-right) .
+Jonas sėdi ( nuotraukoje dešinėje ) . \n Jonas is-sitting ( in-the-photo , on-the-right ) .
 parataxis(sėdi, nuotraukoje)
 parataxis(is-sitting, in-the-photo)
 ~~~
@@ -55,13 +55,13 @@ parataxis(is-sitting, in-the-photo)
 ~~~ sdparse
 Išvengti Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ( toliau  – ADTAĮ ) reikalavimų pažeidimų . \n To-avoid violations of-the-requirements of-the-Law of-Republic of-Lithuania on-Legal Protection of-Personal Data ( hereinafter , LPPD ) .
 parataxis(įstatymo, ADTAĮ)
-parataxis(of-the-law, LPPD)
+parataxis(of-the-Law, LPPD)
 ~~~
 
 ~~~ sdparse
 Aš grąžinau skolą ( keturi eurai už kebabą nesiskaito ) . \n I repaid the-debt ( four euros for a-kebab don’t-count ) .
 parataxis(grąžinau, nesiskaito)
-parataxis(repaid, don‘t count)
+parataxis(repaid, don’t-count)
 ~~~
 
 ## Parentheticals
