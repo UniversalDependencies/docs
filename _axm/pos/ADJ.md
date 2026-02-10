@@ -9,28 +9,28 @@ udver: '2'
 
 Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in
 
-_Շտերն աղտեղի է:_ “The papules are unpleasant.”
+_Շտերն աղտեղի է:/Štern aġteġi ē_ “The papules are unpleasant.”
 
 The `ADJ` tag is intended for ordinary adjectives only. See [DET]() for determiners and [NUM]() for numerals.
 
-In accordance with the UD approach, ordinal numerals _(առջի, իրեքում, չորսում, տասնուվեցում)_ are tagged as adjectives, although the traditional grammar classifies them as numerals. They behave like adjectives both morphologically and syntactically, with the exception that they cannot be compared.
+In accordance with the UD approach, ordinal numerals _(առջի/aṙǰi, իրեքում/irek’owm, չորսում/čorsowm, տասնուվեցում/tasnowvec’owm)_ are tagged as adjectives, although the traditional grammar classifies them as numerals. They behave like adjectives both morphologically and syntactically, with the exception that they cannot be compared.
 
-Most Middle Armenian adjectives inflect for [Degree]() (_մենձ, այլ մենձ, այլ մենձն_) “big”.
+Most Middle Armenian adjectives inflect for [Degree]() (_մենձ/menj, այլ մենձ/ayl menj, այլ մենձն/ayl menjn_) “big”.
 
 ### Examples
 
-- _մենձ_ “big”
-- _ամուր_ “hard, strong”
--	_կանանչ_ “green”
--	_անլմնելի_ “endless, infinite”
--	_առջի, երկուսում, իրեքում_ “first, second, third”
+- _մենձ/menj_ “big”
+- _ամուր/amowr_ “hard, strong”
+-	_կանանչ/kananč_ “green”
+-	_անլմնելի/anlmneli_ “endless, infinite”
+-	_առջի/aṙǰi, երկուսում/erkowsowm, իրեքում/irek’owm_ “first, second, third”
 
 ### Border cases
 
 Resultative, subject and past participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB]():
 
-- _ջրած գինի_ “wine diluted with water”
-- _նախշող վարպետ_ “a master of ornamentation”
-- _ծաղկեալ ծառ_ “a tree in bloom”
+- _ջրած գինի/ǰraç gini_ “wine diluted with water”
+- _նախշող վարպետ/naxšoġ varpet_ “a master of ornamentation”
+- _ծաղկեալ ծառ/çaġkeal çaṙ_ “a tree in bloom”
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->
