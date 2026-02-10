@@ -10,41 +10,49 @@ udver: '2'
 
 ### Definition
 
-There are several auxiliary verbs in Middle Armenian: _եմ/em_ “be”, and its variant (with separate lemma) _լինիմ (լինիլ)/linim (linil)_ (with its different spellings _լնիլ/lnil, լինենալ/linenal, լնալ/lnal_) “be repeatedly / habitually”; _կամ/kam_ “be, exist”; _ունիմ/ownim_ “have”; _պիտի/piti_ “to by necessary, useful”, and negative copula _ոչ_/oč “not”.
+There are several auxiliary verbs in Middle Armenian: _եմ/em_ “be”, and its variant (with separate lemma) _լինիմ (լինիլ)/linim (linil)_ (with its different spellings _լնիլ/lnil, լինենալ/linenal, լնալ/lnal_) “be repeatedly / habitually”; _կամ/kam_ “be, exist”; _ունիմ/ownim_ “have”; _ոչ_/oč “not” (negative auxiliary); and _պիտի/piti_ “(to be) necessary, useful”.
 
 They can be divided into:
 
-- tense auxiliary, used to form compound tenses represented by _եմ/em_ “be” (with its present/past paradigms). It accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb;
-- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինիմ/linim_ “be repeatedly / habitually”, _կամ/kam_ “be, exist”, _ունիմ/ownim_ “have”;
-- mood auxiliary, used to form periphrastic necessitative mood by _պիտի_ “to by necessary, useful”.
+- tense auxiliaries, used to form compound tenses represented by _եմ/em_ “be” (with present/past and negative paradigms). They accompany the lexical verb of a verb phrase and express grammatical distinctions not carried by the lexical verb. They also function as a copula with non-verbal predicates, but are always taged AUX. Tհe negative auxiliary _ոչ_/oč “not” is combined with imperfective and perfect participles to express negation in present, past (continuous) and perfect tenses;
+- aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինիմ/linim_ “be repeatedly / habitually”, _կամ/kam_ “be, exist”, _ունիմ/ownim_ “have”;
+- mood auxiliary, used to form periphrastic necessitative mood by _պիտի_ “(to be) necessary, useful”.
 
 
 ### Examples
 
-- Future and future-in-the-past. Finite present and imperfect forms of _եմ_ and _էի_ are used with future participles of the lexical verbs to form  (present-)future and future-in-the-past tenses. The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice:
+- Future and future-in-the-past. The finite present and imperfect forms _եմ_ and _էի_ are used with future participles of the lexical verbs to form  (present-)future and future-in-the-past tenses. The auxiliaries express aspect, person, number, mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice:
 _խօսելու <b>եմ</b>_ “I shall speak”,
 _խօսելու <b>էի</b>_ “I would (intended to) speak”).
 
-- Present perfect and past perfect tenses. Finite present and imperfect forms of _եմ_ and _էի_ are used with perfect and resultative participals to form compound tenses: 
-_բերել <b>է</b>_ “he/she has brought”,
-_բերել <b>էր</b>_ “he/she had brought”,
-_գնացած <b>եմ</b>_ “I have gone” 
-_գնացած <b>էի</b>_ “I had gone”
+- Present perfect and past perfect tenses. The finite present and imperfect forms _եմ_ and _էի_ are used with perfect and resultative participals to form compound tenses: 
+ _բերել <b>է</b>_ “he/she has brought”,
+ _բերել <b>էր</b>_ “he/she had brought”,
+ _գնացած <b>եմ</b>_ “I have gone” 
+ _գնացած <b>էի</b>_ “I had gone”
 
-- Prospective / perfect aspect. The finite form of _լինիմ_ (in various tenses and moods or in the infinitive of _լինիլ/linil_ (_լնիլ/lnil, լինենալ/linenal,լնալ/lnal_)) is combined with future, resultative and perfect participles of the lexical verb to form “secondary compound tenses”. The auxiliary expresses aspect, person, number, mood and tense, participles expresse aspect and voice:
-  _բերելու <b>լինի</b>_ “(If / when) he/she intent to bring.`Sub`”,
-  _արգելած <b>լինի</b>_ “(If / when) it is forbidden.`Sub`”,
-  _մեռել <b>լինին</b>_ “(If / when) they might be dead.`Sub`”
-  _<b>լինի</b> խմել_ “(If / when) he/she might have drunk.`Sub`”
+ _Իմաստունն <b>ոչ</b> երկընչի/Imastownn oč erkënči_ “The wise man is not afraid”
+ _<b>ոչ</b> ենք տեսեր_ “we haven't seen”
 
-- Necessitative mood. The mood particle _<b>պիտի</b>_ (with its variant _պիտ/pit_, _տի/ti_) “(it is) necessary” is combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
-_<b>պիտի</b> փախչիմ_ “I <b>must</b> run away”,
-_<b>պիտ</b> ըմպէիր_ “you <b>should have</b> drunk”.
+Note that in Middle Armenian the neagtive particle _չ/č_ and th auxilary _չի/či_ can also be used for the same purpose:
+ _Զիս որ արեամբքդ գընեցիր, այլ <b>չերկընչիմ</b> ’ւ <b>ոչ վախենամ</b>/Zis or areambk’d gënec’ir, ayl čerkënčim ’w oč vaxenam_ “I do not fear or cower, for you have bought me with your blood”
+ _<b>Չի դառնաս</b> հեղ մի յիս հայես/Či daṙnas heġ mi yis hayes_ “You don't turn around to look at me once”
+    
+ 
+- Prospective / perfect aspect. The finite form _լինիմ_ (in various tenses and moods or in the infinitive _լինիլ/linil_ (_լնիլ/lnil, լինենալ/linenal,լնալ/lnal_)) is combined with future, resultative and perfect participles of the lexical verb to form “secondary compound tenses”. The auxiliary expresses aspect, person, number, mood and tense, participles expresse aspect and voice:
+ _բերելու <b>լինի</b>_ “(If / when) he/she intent to bring `Sub`”,
+ _արգելած <b>լինի</b>_ “(If / when) it is forbidden `Sub`”,
+ _մեռել <b>լինին</b>_ “(If / when) they might be dead `Sub`”
+ _<b>լինի</b> խմել_ “(If / when) he/she might have drunk `Sub`”
+  
+- The finite form of existentials _կամ_ “be, exist” and _ունիմ_ “have” also form “secondary compound tenses” in combination with resultative participle. Note that the participle with  _կամ_ expresses passive meaning without any overt marker:
+ _<b>կայ</b> պատրաստած/ka patrastaç_ “is prepared” (lit: “exists prepared”)
+ _<b>ունին</b> բռնած_ “have caught” (lit: “they <b>have</b> something caught”).
 
-Note, that in Middle Armenian copulas are also tagged `AUX`.
+- Necessitative mood. The mood particle _<b>պիտի</b>_ (with its variants _պիտ/pit_ or _տի/ti_) “(it is) necessary” is combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
+ _<b>պիտի</b> փախչիմ_ “I <b>must</b> run away”,
+ _<b>պիտ</b> ըմպէիր_ “you <b>should have</b> drunk”.
 
 
-### Constructions with _կամ&nbsp;_ and _ունեմ&nbsp;_ and resultative participle
 
-Note, that finite form of existentials _կամ&nbsp;_ “be, exist” and _ունեմ&nbsp;_ “have” in combination with resultative participle (_Նա հագած <b>ուներ</b> թեթև վերարկու։_ “He <b>had</b> a light coat dressed.” or _Երեկվանից ոչ մի տող գրած <b>չկամ</b>։_ “I <b>do not have</b> a single line written since yesterday.” (lit: “I <b>do not exist</b> written no any row since yesterday.”) are tagged `AUX` (these so-called “experiential forms”, mainly in negativ or interrogative constructions, are analyzed as auxiliary in the Armenian grammar).
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
