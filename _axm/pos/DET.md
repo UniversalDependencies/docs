@@ -18,14 +18,12 @@ Note that in Armenian nominal usually allows one `DET` modifier, but there are o
 ### Examples
 
 - indefinite article: _մի/mi&nbsp;_ “a, an”
-- possessive determiners: _իմ/im, քո/k’o, իր(իւր)/ir(iwr), մեր/mer, ձեր/jer, իրենց/iranc’ (իրանց/iranc’, իւրեանց/iwreanc’, իւրենց/iwrenc’)&nbsp;_ “my, your, his/her/its, our, your, their”
-- reflexive possessive determiners: _իր, իրենց&nbsp;_ “one's own, themselves”
-- demonstrative determiners: _այս&nbsp;_ as in _<b>Այս</b> մեքենան ես երեկ տեսել եմ։&nbsp;_ “I saw <b>this</b> car yesterday.”
-- interrogative determiners: _ո՞ր&nbsp;_ as in _<b>Ո՞ր</b> մեքենան ես հավանում։&nbsp;_ “<b>Which</b> car do you like?”
-- relative determiners: _որ&nbsp;_ as in _Հետաքրքիր է՝ <b>որ</b> մեքենան ես հավանում։&nbsp;_ “I wonder <b>which</b> car you like.”
-- relative possessive determiners: _ում, որի&nbsp;_ “whose”
-- indefinite determiners: _ոմն, ինչ-որ, ինչ-ինչ, մի քանի, ուրիշ, այլ, որոշ, որևէ, որևիցե, այսինչ, այնինչ, մի&nbsp;_ “someone, some (of one thing), some (of many thing), several, another, other, definite, one or another, one or another, such, such, some/several”
-- emphatic determiners։ _ինքը, ինքները&nbsp;_ “himself, themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։&nbsp;_ “President <b>himself</b> came to see it.”
-- total determiners: _ամեն, ամեն մի, բոլոր, յուրաքանչյուր, ողջ, ամբողջ, համայն, ամենյան;_ “every, each, all, each, whole, all, whole, all”
-- negative determiner: _ոչ մի&nbsp;_ “no” as in _Հիմա <b>ոչ մի</b> մեքենա չունենք։&nbsp;_ “We have <b>no</b> cars available.”
+- possessive determiners: _իմ/im, քո(քոյ, քու)/k’o(k’oy, kow), իր(իւր)/ir(iwr), մեր/mer, ձեր/jer, իրենց/irenc’ (իրանց/iranc’, իւրեանց/iwreanc’, իւրենց/iwrenc’)&nbsp;_ “my, your, his/her/its, our, your, their”
+- demonstrative determiners: _այս&nbsp;_ as in _Թո՛ղ զսէր աշխարհիս <b>այս</b> անցւորական:/T’o՛ġ zsēr ašxarhis ays anc’worakan&nbsp;_ “Leave love to <b>this</b> fleeting world.”
+- interrogative determiners: _ո՞ր&nbsp;_ as in _<b>ո՞ր</b> տեղւոյ օդն առողջ եւ բարեյարմար է/o՞r teġwoy òdn aṙoġǰ ew bareyarmar ē&nbsp;_ “Where (lit. in <b>which</b> place) is the air healthy and pleasant?”
+- relative determiners: _որ&nbsp;_ as in _այն տեղն <b>որ</b> մօտ է ʼի ծովն/ayn teġn or mòt ē ʼi çovn&nbsp;_ “The place <b>which</b> is close to the see”
+- relative possessive determiners: _ում(յում), որոյ(որու)&nbsp;_ “whose”
+- indefinite determiners: _այլ, մէկ մի, մէկայլ, միւս&nbsp;_ “someone, some (of one thing), some (of many thing), several, another, other, definite, one or another, one or another, such, such, some/several”
+- total determiners: _ամէն, ամէն մէկ_ “every”
+
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
