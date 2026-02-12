@@ -9,12 +9,11 @@ udver: '2'
 
 Determiners are words that modify [nouns](NOUN) or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
-Determiners under this definition include both _articles_ and _pro-adjectives (pronominal adjectives)_. An important point to note is that most determiners are traditionally called pronouns; that is, a UD-conformant annotation of Middle Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
+Determiners under this definition include both _articles_ and _pro-adjectives (pronominal adjectives)_, like _այս/ays, այդ/ayd, ամենայն/amenayn, մէկայլ/mēkayl, միւս/miws_. An important point to note is that most determiners are traditionally called pronouns; that is, a UD-conformant annotation of Middle Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
 
-Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _քանի, այսքան, մի քանի, բոլոր, ողջ&nbsp;_ “how many, this many, several, all, whole”), which the traditional grammar classifies
-as a special subclass of [pronouns](PRON).
+Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _հանչաք, հէնչափ/hančak’, hēnčap’, ամէն/amēn&nbsp;_ “that many, every”).
 
-Note that in Armenian nominal usually allows one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_ in _<b>այս</b> բոլոր հարցերը&nbsp;_ “all <b>these</b> questions.” In such cases, both _այս&nbsp;_ “these” and _բոլոր&nbsp;_ “all” are given the POS `DET`.
+Note that in Armenian nominal usually allows one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այն_ in _<b>այն</b> ամէն ջիլքն մարմնոյն/ayn amēn ǰilk’n marmnoyn&nbsp;_ “all <b>those</b> tandons in the body.” In such cases, both _այն/ayn&nbsp;_ “this” and _ամէն/amēn&nbsp;_ “all” are given the POS `DET`.
 
 ### Examples
 
