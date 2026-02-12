@@ -25,9 +25,7 @@ Note that in Armenian nominal usually allows one `DET` modifier, but there are o
 - demonstrative determiners: _այս&nbsp;_ as in _<b>Այս</b> մեքենան ես երեկ տեսել եմ։&nbsp;_ “I saw <b>this</b> car yesterday.”
 - interrogative determiners: _ո՞ր&nbsp;_ as in _<b>Ո՞ր</b> մեքենան ես հավանում։&nbsp;_ “<b>Which</b> car do you like?”
 - relative determiners: _որ&nbsp;_ as in _Հետաքրքիր է՝ <b>որ</b> մեքենան ես հավանում։&nbsp;_ “I wonder <b>which</b> car you like.”
-- relative possessive determiners: _ում, որի&nbsp;_ “whose”
 - indefinite determiners: _ոմն, ինչ-որ, ինչ-ինչ, մի քանի, ուրիշ, այլ, որոշ, որևէ, որևիցե, այսինչ, այնինչ, մի&nbsp;_ “someone, some (of one thing), some (of many thing), several, another, other, definite, one or another, one or another, such, such, some/several”
-- emphatic determiners։ _ինքը, ինքները&nbsp;_ “himself, themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։&nbsp;_ “President <b>himself</b> came to see it.”
 - total determiners: _ամեն, ամեն մի, բոլոր, յուրաքանչյուր, ողջ, ամբողջ, համայն, ամենյան;_ “every, each, all, each, whole, all, whole, all”
 - negative determiner: _ոչ մի&nbsp;_ “no” as in _Հիմա <b>ոչ մի</b> մեքենա չունենք։&nbsp;_ “We have <b>no</b> cars available.”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
