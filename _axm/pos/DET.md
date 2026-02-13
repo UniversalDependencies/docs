@@ -23,7 +23,7 @@ Note that in Armenian nominal usually allows one `DET` modifier, but there are o
 - interrogative determiners: _ո՞ր&nbsp;_ as in _<b>ո՞ր</b> տեղւոյ օդն առողջ եւ բարեյարմար է/o՞r teġwoy òdn aṙoġǰ ew bareyarmar ē&nbsp;_ “Where (lit. in <b>which</b> place) is the air healthy and pleasant?”
 - relative determiners: _որ&nbsp;_ as in _այն տեղն <b>որ</b> մօտ է ʼի ծովն/ayn teġn or mòt ē ʼi çovn&nbsp;_ “The place <b>which</b> is close to the see”
 - relative possessive determiners: _ում(յում), որոյ(որու)&nbsp;_ “whose”
-- indefinite determiners: _այլ, մէկ մի, մէկայլ, միւս&nbsp;_ “someone, some (of one thing), some (of many thing), several, another, other, definite, one or another, one or another, such, such, some/several”
+- indefinite determiners: _այլ, մէկ մի, մէկայլ, միւս&nbsp;_ other/some, another, the other”
 - total determiners: _ամէն, ամէն մէկ_ “every”
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
