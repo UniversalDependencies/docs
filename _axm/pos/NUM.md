@@ -11,19 +11,16 @@ A numeral is a word, functioning most typically as a determiner, adjective or pr
 
 Note that cardinal numerals are covered by `NUM` whether they are used as determiners or not and whether they are expressed as words _(չորս)_, digits _(4)_, or Armenian letters _(Դ)_. Other words functioning as determiners (including pronominal quantifiers: demonstrative (_հանչաք, հէնչափ/hančak’, hēnčap’_ “that much”); indefinite (_մէկ մի/mēk mi_ “some”); definite (_ամէն/amēn_ “every”) are tagged [DET]().
 
-Note that some words that may be traditionally called numerals, are not tagged `NUM`, based on their syntactic and morphological behavior.
-
-Note that there are no _adverbial ordinal_ and _multiplicative numerals_ in Middle Armenian.
+Note that some words that may be traditionally called numerals, are not tagged `NUM`, based on their syntactic and morphological behavior. _Adverbial (multiplicative)_ numerals are taged as adverbs [ADV]() , _ordinal_ numerals are taged as adjectives [ADJ]().
 
 If the numerals inflect as nouns, they are tagged [NOUN]().
 
 ### Examples
 
 - _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_
-- _I, II, III, IV, V, MMXIV_
--	_մեկ, երկու, երեք, չորս, հինգ, յոթանասուն&nbsp;_ “one, two, three, four, five, seventy”
+-	_մէկ/մեկ, երկու, իրեք, չորս, հինգ/հինկ, տասնու/վ/իրեք, քսանուչորս, քառսուն&nbsp;_ “one, two, three, four, five, thirteen, twenty two, fourty”
 -	_Ա, Ժ, Է, ԺԱ, Ն, Ռ_ “1, 10, 7, 11, 400, 1000”
--	_կես, քառորդ&nbsp;_ “one-half, quarter”: denominators of fractions constitute a separate class of cardinal numerals.
+-	_կէս, չարէկ&nbsp;_ “one-half, quarter”: denominators of fractions constitute a separate class of cardinal numerals.
 
 ### Counterexamples
 
