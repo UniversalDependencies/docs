@@ -24,9 +24,8 @@ If the numerals inflect as nouns, they are tagged [NOUN]().
 
 ### Counterexamples
 
-- _առաջին, երկրորդ, երրորդ&nbsp;_ “first, second, third”: adjectival ordinal numerals. They are tagged [ADJ](), and the [NumType]() feature reveals their semantic relation to numbers.
-- _մեկ-մեկ, երկու-երկու, երեք-երեք&nbsp;_ “one at a time, two at a time, three at a time”: adverbial distibutive numerals. They are tagged [ADV](), and the [NumType]() feature reveals their semantic relation to numbers.
-- _մեկ, երկուս, երեք, չորս, հինգ&nbsp;_ “number one, number two, number three, number four, number five”: names of numbers, or of objects identified by the number (e.g. of a bus route). They are not considered numerals and they are tagged [NOUN]().
+-	_առջի/aṙǰi, երկուսում/erkowsowm, իրեքում/irek’owm_ “first, second, third”: adjectival ordinal numerals. They are tagged [ADJ](), and the [NumType]() feature reveals their semantic relation to numbers.
+- _մէկ-մէկ, երկու-երկու, իրեք-իրեք&nbsp;_ “one at a time, two at a time, three at a time”: adverbial distibutive numerals. They are tagged [ADV](), and the [NumType]() feature reveals their semantic relation to numbers.
 
 ### Border cases
 
