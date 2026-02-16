@@ -18,7 +18,7 @@ If the numerals inflect as nouns, they are tagged [NOUN]().
 ### Examples
 
 - _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_
--	_մէկ/մեկ, երկու, իրեք, չորս, հինգ/հինկ, տասնու/վ/իրեք, քսանուչորս, քառսուն&nbsp;_ “one, two, three, four, five, thirteen, twenty two, fourty”
+-	_մէկ/մեկ, երկու, իրեք, չորս, հինգ/հինկ, տասնու/վ/իրեք, քսանուչորս, քառսուն, երկու հարոյր&nbsp;_ “one, two, three, four, five, thirteen, twenty two, fourty, two hundred”
 -	_Ա, Ժ, Է, ԺԱ, Ն, Ռ_ “1, 10, 7, 11, 400, 1000”
 -	_կէս, չարէկ&nbsp;_ “one-half, quarter”: denominators of fractions constitute a separate class of cardinal numerals.
 
@@ -29,8 +29,7 @@ If the numerals inflect as nouns, they are tagged [NOUN]().
 
 ### Border cases
 
-- _երիցս, չորիցս, բազմիցս, եռապատիկ, քառապատիկ, բազմապատիկ, եռակի, քառակի, բազմակի&nbsp;_ “thrice, four-time(s), many-time(s)”: n-tuples _(n-tice)&nbsp;_ are not considered numerals in the Armenian grammar. They are tagged either [ADJ]() or [ADV]().
-- _տասնյակ, հարյուրյակ, հնգանոց, իննոց, 20-ական, 30-ական (թվականներին)&nbsp;_ “a ten, a hundred, five-note, nine-note, by twenty, thirthies” are not considered numerals in the Armenian grammar. They are tagged either [ADJ]() or [NOUN]().
+- _միատակ, չորստակ, հինգ պատիկ/հինգպատիկ&nbsp;_ “once, four-time(s), five-time(s)” are not considered numerals in the Armenian grammar. They are tagged either [ADJ]() or [ADV]().
 -	_հարյուրավոր, հազարավոր, միլիոնավոր, միլիարդավոր&nbsp;_ “hundreds of, thousands of, millions of, billions of”: expressions _-s of_, for instance, in phrases like _<b>հազարավոր</b> մարդիկ էին դուրս եկել փողոց&nbsp;_ “<b>thousands</b> of people went on the streets” are adjectives and tagged [ADJ]().
 -	_հարյուր, հազար&nbsp;_ “hundred, thousand”: words for large quantities are ambiguous between cardinal numerals (tagged `NUM`) and nouns. If they inflect as nouns, they are tagged [NOUN](); but the borderline is fuzzy. For instance, in phrases like _<b>հազար</b> ասացի&nbsp;_ “I told thousand times”, _<b>հազար</b> մարդ&nbsp;_ “thousand (many different) people”, _հազար_ is a noun. In numeric expressions, e.g. _110 <b>հազար</b> դոլար&nbsp;_ (“110 thousand dollars”), it is a cardinal numeral (see [specific syntax](../specific-syntax.html)).
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->
