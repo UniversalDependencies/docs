@@ -15,10 +15,10 @@ Note that particles like _այո, հա_ “yes”, _ոչ, չէ_ “no”, etc. a
 ### Examples
 
 - Affirmativ particle: _անպատճառ, անկասկած,իրաւ (իրաւի, յիրաւի)_
-- Concession particle: _ինչևէ, այնուամենայնիվ, ախիւ', բալքի (բալքիմ, բալքամ)_
+- Concession particle: _ապա թէ ոչ, թէ ոչ, թէ չէ, թէ չէ նա_
 - Demonstration particle: _հօսկայ, հանց (հենց), ահա_
-- Dubitation particle: _ասես, գուցե, կարծես, հավանաբար_
-- Emphatic particle: _ախիր, ամ, մանավանդ, հատկապես_
+- Dubitation particle: _ախիր, բալքի (բալքիմ, բալքամ) կարծես, կարծեմ թէ, ասես թէ_
+- Emphatic particle: _ամ, մանավանդ, հատկապես_
 - Limitation particle: _գեթ, լոկ, միայն_
 - Negation particle: _ոչ, չէ, բնավ, ամենևին_
 - Wish particle: _երանի, երնեկ_
