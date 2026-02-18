@@ -22,8 +22,8 @@ udver: '2'
 
 ### Tags
 
-* Out of the 17 tags, only 14 were used (`SYM`, `INTJ` and `X` did not occur).
-* The following words were tagged as [PART]():
+* Out of the 17 tags, only 14 are used (`SYM`, `INTJ` and `X` did not occur).
+* The following words are tagged as [PART]():
   * the negative markers: *s'*, *nuk*
   * the particle used to build the comparative and superlative degree of adjectives and adverbs: *më*
   * the particle which functions as an adverbial: *madje*
@@ -34,6 +34,7 @@ udver: '2'
   * The temporal auxiliary *kam* (to have), which combined with the supine forms periphrastically the perfect tense of the active voice.
   * The temporal/passive auxiliary *jam* (to be), which combined with the supine forms periphrastically the perfect tense of the mediopassive voice.
   * The temporal auxiliary *u* (self), which combined with a finite verb form builds periphrastically the Aorist of the mediopassive voice.
+  * The modal auxiliary *duhet* (it is needed), which combines with *të* and a finite verb form. This annotation is parallel to the annotations of modal constructions in other European languages such as English and Italian
   * The copula *jam* (to be)
 * The tag [DET]() is used for articles/clitics (*i/e/të/një*) both for those forming adjectival and pronominal multi-word units and those forming the genitive/ablative/dative case of nouns.
 * The tag [PRON]() is used for all types of pronouns.
@@ -47,17 +48,17 @@ udver: '2'
   * The TSA treebank has the following features for verbs: [Aspect](), [Mood](), [Number](), [Person](), [Tense]() and [Voice]().
   * The STAF treebank has the following features for verbs: [Mood](), [Number](), [Person](), [Tense]() and [Voice](). [Voice]() has the `Act` (active) and `Mid` (mediopassive) features.
 * Adjectives agree with nouns with respect to the features [Gender](), [Number](), [Case](). In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative). 
-  * In the TSA treebank, only the features [Gender](), [Number]() and [VerbForm]() were included in the morphological analysis. 
+  * In the TSA treebank, only the features [Gender](), [Number]() and [VerbForm]() are included in the morphological analysis. 
   * In the STAF treebank, the following features are available for adjectives: [Case](), [Degree](), [Gender]() and [Number]().
 * Adverbs inflect for [Degree]().
   * In the TSA treebank, Adverbs have [Degree]().
   * In the STAF treebank, Adverbs have [Degree]() and [AdvType]().
-* Personal pronouns inflect for [Case]() with four values (nominative, accusative, dative, ablative), [Number]() and [Gender]().
-  * In the TSA treebank, the following features were stated: [Gender](), [Number]() and [PronType]().
-  * In the STAF treebank, the following features were stated: [Case](), [Gender](), [Number]() and [PronType](). Possessive pronouns have the [Poss]() set to `Yes`.
+* Pronouns inflect for [Case]() with four values (nominative, accusative, dative, ablative), [Number]() and [Gender]().
+  * In the TSA treebank, the following features are stated: [Gender](), [Number]() and [PronType]().
+  * In the STAF treebank, the following features are stated: [Case](), [Gender](), [Number]() and [PronType]() (`Dem`: demonstrative; `Emp`: Emphatic, `Ind`: Indefinite, `Int`: Interrogative, `Prs`: personal, `Rel`: Relative and `Tot`: total/collective). Possessive pronouns have the [Poss]() features set to `Yes`.
 * Determiners agree in Case, Gender and Number with their nominal heads and encode (in)definiteness.
   * In the TSA treebank, Deteminers have [Gender](). 
-  * In the STAF treebank, Determiners have [Case](), [Definite](), [Gender](), [Number]() and [PronType]().
+  * In the STAF treebank, Determiners have [Case](), [Definite](), [Gender](), [Number]() and [PronType]() (`Art`: Articles).
 * In the possessive construction, Determiners are used as connective morphemes between the possessed item and the possessor and agree in [Gender]() and [Number]() with the possessed item, i.e. shkronjat (FEM, PL) e (FEM, PL) librit (MASC, SING) (The letters of the book). In the TSA treebank, the connective morphemes has the [Gender]() feature, while in the STAF treebank has the [Gender]() and the [Number]() features.
 
 ## Syntax
@@ -72,10 +73,13 @@ udver: '2'
     * [csubj:pass]() for clausal subjects of passive verbs or impersonal verb constructions (i.e. it is my duty *to say*...) (Only in the TSA treebank)
     * [det:adj]() for prearticulated adjectives
     * [det:noun]() for prearticulated nouns (Only in the TSA treebank)
-    * [det:poss]() for possessive pronouns (Only in the STAF treebank)
+    * [det:poss]() for possessive pronouns
     * [det:pron]() for prearticulated pronouns
+    * [obl:agent]() for obliques acting as agents (Only in the STAF treebank)
     * [obl:tmod]() for obliques acting as temporal modifiers (Only in the STAF treebank)
     * [nmod:poss]() for possessive/genitive modifiers
+    * [nsubj:outer]() for subjects of a copular clause whose predicate is itself a clause
+    * [nsubj:pass]() for subjects of passive verbs
 
 
 ## Treebanks
