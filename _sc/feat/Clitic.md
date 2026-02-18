@@ -29,9 +29,16 @@ de **lu** nàrrere ("to say **it**")
 
 With the imperative and gerund, clitics are enclitic:
 
-nara**ddi** ("tell **him**)
+nara**ddi** ("tell **him**")
 
 nendi**ddis** ("saying **to them**)
+
+
+#### Examples
+* _dd__'ant nau "They have said **it**"
+* de _lu_ nàrrere ("to say **it**")
+* nara_ddi_ ("tell **him**")
+* nendi_ddis_ ("saying **to them**)
 
 
 *Source: [Mensching, 2017]()
