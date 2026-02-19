@@ -9,7 +9,7 @@ udver: '2'
 
 A proper noun is a noun (or nominal content word) that is the name (or part of the name) of a specific individual, place, or object. Middle Armenian proper nouns are always written starting with an uppercase letter. Note that names of days of week
 _(երկուշապթի (երկուշաբթի)/erkowšapt’i (erkowšabt’i), իրեքշապթի (իրեքշաբթի, իրեքշափթի)/irek’šapt’i (irek’šabt’i,irek’šap’t’i), չորեքշաբթի/čorek’šabt’i, հինկշապթի/hinkšapt’i, ուրբադ/owrbad, շաբաթ/šabat’, կիրակի/kiraki)&nbsp;_
-and names of months _(հունվար, փետրվար, մարտ, ապրիլ, մայիս, յունիս, յուլիս, օգոստոս, սեպտեմբեր, հոկտեմբեր, նոյեմբեր, դեկտեմբեր)&nbsp;_
+and names of months _(յունուարիոս, փետրվար, մարտ, ապրիլ, մայիս, յունիս, յուլիս, օգոստոս, սեպտեմբեր, հոկտեմբեր, նոյեմբեր, դեկտեմբեր)&nbsp;_
 are not written capitalized (unlike English) and are not considered proper nouns.
 
 Single-word named entities should be tagged `PROPN` though they originate from a common noun (Աշտարակ, Իջևան) (towns) or an adjective (Սիզավետ, Որոտան) (village, river). Even if _սիզավետ_ “grassy” is originally an adjective, syntactically it behaves as a noun. As a geographical name it denotes a concrete location (rather than a property of something).
