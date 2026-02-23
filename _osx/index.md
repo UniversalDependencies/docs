@@ -22,6 +22,13 @@ Instruction: Describe the general rules for delimiting words (for example, based
   * According to typographical rules, many punctuation marks are attached to a neighboring word. We usually tokenize them as separate tokens (words).
 * In manuscripts, (white)spaces between words can sometimes not be identified reliably or do not seem to be accordance with modern spacing rules. In some manuscripts (esp., [Heliand Ms. M](https://www.lwl.org/331-download/niw/html/40001B.html)), we thus observe fusion between independent words and splits between parts of the same morphological word. **The handling of such data is yet to be clarified.**
   * These may be treated as multi-token words in the future.
+  * Example
+
+         Ms. M:   that inatorht lico  tidi  gimanodun
+         Ms. C:   that ina torohtlico tidi  gimanodun (HeliPaD corpus)
+         edition: that ina torhtlîco  tîdi  gimanodun (DDD corpus)
+                  that him brilliant  times remembered
+                  "that he was remembered of great times"
 
 ## Morphology
 
