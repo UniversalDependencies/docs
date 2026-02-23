@@ -42,7 +42,7 @@ parataxis(lis, Sako)
 parataxis(it-will-rain, They-say)
 ~~~
 
-### Treatment of reported speech
+### Parataxis in brackets
 
 The `parataxis` relation is used to connect parts of the sentence written as explanation in brackets (5, 6) as well as comments that are less related to the sentence (7).
 
