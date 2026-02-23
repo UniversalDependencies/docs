@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Old Saxon German <!--span class="flagspan"><img class="flag" src="../../flags/svg/DE.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/AT.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/LI.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CH.svg" /></span-->
 
-Old Saxon (Old Low German, `osx`) is a historical language spoken between the 6th and 12th c. C.E. in Northern Germany and neighboring territories. It is the linguistic predecessor of Low German (Low Saxon, `nds`) and closely related to Old English, Old Low Franconian (Old Dutch) and Old High German. Its grammar shares the characteristics of these older West Germanic languages and its syntax should be represented in a similar way. Updates to these guidelines should be synchronized with the existing guidelines for Old English and possible future guidelines for Old High German.
+Old Saxon (Old Low German, `osx`) is a historical language spoken between the 6th and 12th c. C.E. in Northern Germany and neighboring territories. It is the linguistic predecessor of Low German (Low Saxon, `nds`) and closely related to Old English, Old Low Franconian (Old Dutch) and Old High German. Its grammar shares the characteristics of these older West Germanic languages and its syntax should be represented in a similar way. Updates to these guidelines should be synchronized with [the existing guidelines for the Old English UD stub](https://universaldependencies.org/ang/index.html) and possible future guidelines for Old High German.
 
 ## Tokenization and Word Segmentation
 
@@ -19,7 +19,7 @@ Old Saxon (Old Low German, `osx`) is a historical language spoken between the 6t
   * In general, words are delimited by whitespace characters. Description of exceptions follows.
   * According to typographical rules, many punctuation marks are attached to a neighboring word. We usually tokenize them as separate tokens (words).
 * In manuscripts, (white)spaces between words can sometimes not be identified reliably or do not seem to be accordance with modern spacing rules. In some manuscripts (esp., [Heliand Ms. M](https://www.lwl.org/331-download/niw/html/40001B.html)), we thus observe fusion between independent words and splits between parts of the same morphological word. **The handling of such data is yet to be clarified.**
-  * These may be treated as multi-token words.
+  * These may be treated as multi-token words in the future.
 
 ## Morphology
 
