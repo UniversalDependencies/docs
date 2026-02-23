@@ -135,9 +135,9 @@ Currently only provided as `XPOS`.
   * This means that verbs of giving are not ditransitive predicates in Old Saxon UD, as they have one oblique dative argument and only one core object.
   * This also includes cases in which morphological genitives seem to serve adverbial functions (and correspond to later pronominal adverbs), e.g., _thes ... thuo_ "because of this", literally "(of) this ... then":
 
-    Thes    im   thuo bêôiun uuarđ  , sinhîun tuêm sêr  umbi   herta .
-    of.this them then both   became , spouses two  pain around heart
-    "Therefore they both, the spouses two, felt pain in their heart" (Old Saxon Genesis, DDD corpus)
+        Thes    im   thuo bêôiun uuarđ  , sinhîun tuêm sêr  umbi   herta .
+        of.this them then both   became , spouses two  pain around heart
+        "Therefore they both, the spouses two, felt pain in their heart" (Old Saxon Genesis, DDD corpus)
 
 * A finite subordinate clause may serve as the subject and is labeled `csubj`.
 * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
@@ -149,9 +149,9 @@ Currently only provided as `XPOS`.
 * The copula verb _wesan_, resp. _sin_ "be" is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
 * **The treatment of _werđan_ "to become" is to be confirmed.**
 
-    thuo warđ   iro hugi sêrag
-    then became her mind sorrowful
-    "Then, he mind became sorrowful" (Old Saxon Genesis, DDD corpus)
+        thuo warđ   iro hugi sêrag
+        then became her mind sorrowful
+        "Then, he mind became sorrowful" (Old Saxon Genesis, DDD corpus)
 
 ### Clause juncture, ellipsis and apposition
 
