@@ -40,6 +40,18 @@ case(the-child, toward)
 ~~~
 
 In order to decide which nouns are obliques – [obl]() and which should be marked with `case`, it is important to consider the following aspects:
-If a noun is part of a word sequence whose first word is adjectival (agreeing), then it is not considered an oblique and `case` is not marked; for example, rankiniu būdu “in a manual way” → būdu _“way”_  is annotated as [obl]() as it is an adjective.
 
-If a noun can be replaced by preposition then it is annotated with `case`.
+1. If a noun is part of a word sequence whose first word is adjectival (agreeing), then it is not considered an oblique and `case` is not marked; for example, rankiniu būdu “in a manual way” → būdu _“way”_  is annotated as [obl]() as it is an adjective.
+
+2. If a noun can be replaced by preposition then it is annotated with `case`.
+
+For example: 
+
+~~~ sdparse
+Gaisro atveju skambinkite telefonu . \n In case of fire , call by phone .
+case(gaisro, atveju) 
+case(fire, in-case)
+~~~
+
+(The word gaisro _fire_ is not adjectival; it can be replaced by a prepositional phrase – e.g., per gaisrą _during the fire._ The noun atveju _in case_ is annotated as `case`, while gaisro _fire_ is annotated as [obl]() .)
+
