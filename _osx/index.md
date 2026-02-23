@@ -154,7 +154,7 @@ Currently only provided as `XPOS`.
 ### Non-verbal Clauses
 
 * The copula verb _wesan_, resp. _sin_ "be" is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-* **The treatment of _werđan_ "to become" is to be confirmed.** Technically, this is just the copula in future tense, but the High German equivalent makes the auxiliary `root` and the predicate `xcomp`.
+* **The treatment of _werđan_ "to become" is to be confirmed.** For the most part, this is an inchoative copula, see [issue #1203](https://github.com/UniversalDependencies/docs/issues/1203), and in other Germanic languages, these are usually annotated as `root`+`xcomp`, but this is to be confirmed.
 
         thuo warđ   iro hugi sêrag
         then became her mind sorrowful
