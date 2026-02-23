@@ -39,13 +39,43 @@ Old Saxon (Old Low German, `osx`) is a historical language spoken between the 6t
   * _hebbian_ `to have`
   * _werđan_ `to become' 
   * modal verbs _durvan_ “may”, _kunnan_ “can”, _magan_ “may”, _motan_ “must”, _skulan_ “shall”, _willian_ “want”
-  * The verbs _sein, haben_ and _werden_ can also occur as normal verbs ([VERB]()), meaning “be, have, become”.
-* 
+  * The verbs _wesan/sin_, _hebbian_ and _werđan_ can also occur as normal verbs ([VERB]()), meaning “be, have, become”.
 * We treat verse boundaries or line breaks as punctuation ([PUNCT]()) if they are provided in the source text edition. Depending on characteristics of the underlying edition, either of these may be indicated as `//` or `/`. 
 
+### Features
+<!-- should be split as below -->
+
+As an older West Germanic language, Old Saxon provides same morphological features as [Old English UD](https://universaldependencies.org/ang/index.html). 
+This includes all morphological features that have also been preserved in Modern German (the morphologically most archaic modern West Germanic language), but in addition, Old Saxon provides Instrumental case and Dual number.
+
+!--
+Old English-Cairo contains case, gender, number, person, verb form, mood, tense, degree, and possessive features.
+
+There are some features that are possible in UD Old English but do not appear in it.
+* The instrumental case is not attested in UD Old English but is possible.
+* Dual number is possible in pronouns, but is not attested in UD Old English.
+-->
+
+Features are currently only provided as `XPOS`, not in direct annotation.
+
+<!--
+The complete feature space is as follows:
+* `Case`: `Nom`, `Acc`, `Gen`, `Dat`, `Inst`
+* `Gender`: `Masc`, `Fem`, `Neut`
+* `Number`: `Sing`, `Dual`, `Plur`
+* `Person`: `1`, `2`, `3`
+* `VerbForm`: `Fin`, `Inf`, `Part`, `Ger`
+* `Mood`: `Ind`, `Imp`, `Sub`
+* `Tense`: `Pres`, `Past`
+* `Degree`: `Pos`, `Comp`, `Sup`
+* `Poss`: `Yes`
+-->
+<!-- this is from old english, Ger may need to be confirmed -->
+
+<!--
 ### Nominal Features
 
-Currently only provided as `XPOS`.
+
 
 ### Degree and Polarity
 
@@ -62,7 +92,7 @@ Currently only provided as `XPOS`.
 ### Other Features
 
 Currently only provided as `XPOS`.
-
+-->
 <!--
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 -->
