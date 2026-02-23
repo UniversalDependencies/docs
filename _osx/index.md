@@ -159,26 +159,26 @@ Currently only provided as `XPOS`.
 
 * Some complementizers can also be analyzed as adverbs. For dependency annotation, we follow the original POS analysis for disambiguating between `mark` and `advmod`:
 
-    Thuo  siu bluodag uuuosk hrêugiuuâdi    , thuo warđ   iro hugi sêrag .
-    when  she bloody  washed burial.robe      then became her mind sorrowful
-    SCONJ                                     ADV
-    "When she washed the bloody burial robe, she was sorry" (Old Saxon Genesis, DDD corpus)
+       Thuo  siu bluodag uuuosk hrêugiuuâdi    , thuo warđ   iro hugi sêrag .
+       when  she bloody  washed burial.robe      then became her mind sorrowful
+        SCONJ                                     ADV
+        "When she washed the bloody burial robe, she was sorry" (Old Saxon Genesis, DDD corpus)
 
 * For the annotation of relations between independent main clauses as either `conj` or `parataxis`, see [issue #1201](https://github.com/UniversalDependencies/docs/issues/1201).
 
 * The author of Heliand and Genesis, the two primary texts for Old Saxon, seems to actually take a specific delight in his capability of disrupting constituency structure. This may actually reflect an artistic style at the time that we also found on items of metal, in particular, which is defined by abstract depictions of animals posited in a convoluted way (animal style). In the manually annotated data, thus, there are many cases of non-projective relations unexpected in the context of Germanic languages.
 
-    Thuo siu bluodag uuuosk hrêugiuuâdi
-    when she bloody  washed burial.rope
-    "when she washed the bloody burial rope" (Old Saxon Genesis, DDD corpus)
+        Thuo siu bluodag uuuosk hrêugiuuâdi
+        when she bloody  washed burial.rope
+        "when she washed the bloody burial rope" (Old Saxon Genesis, DDD corpus)
 
 - We normally annotate cases in which postposed nominal descriptions that are semantically identical, coreferent with or variants of non-displaced noun phrases (or pronouns) after the clause boundary as `appos`. However, sometimes not only the duplicated nominal is postposed, but also other clausal modifiers such as adverbs, so that syntactically, these actually seem to be elliptical constructions. However, then, every apposition could also be interpreted as a elliptical clause (of which only one argument prevailed). In order to provide a consistens analysis for both cases, we annotate normal `appos` between the nominals (if the postposed nominal seems to provide most of the semantic information of the postposed elements), and attach the then-orphaned clausal modifiers as `orphan`. This is our interpretation of https://universaldependencies.org/u/overview/specific-syntax.html#ellipsis-in-clauses and https://universaldependencies.org/v2/ellipsis.html#predicate-ellipis-2-orphan-instead-of-remnant-approved-variant
 
-    that ik scal  an  thînum heti libbian , forđ    an  thînun fîundscepi
-    that I  shall in  your   hate live    , further in  your   enmity
-                  ADP DET    NOUN           ADV     ADP DET    NOUN
-                                             \-------orphan----> |
-                               <-----------------appos-----------/
+        that ik scal  an  thînum heti libbian , forđ    an  thînun fîundscepi
+        that I  shall in  your   hate live    , further in  your   enmity
+                      ADP DET    NOUN           ADV     ADP DET    NOUN
+                                                 \-------orphan----> |
+                                   <-----------------appos-----------/
 
 ### Relations Overview
 
