@@ -185,7 +185,7 @@ Currently only provided as `XPOS`.
 * No relation subtypes are used in Old Saxon, so far.
 * Test data was created by 
 (a) manual annotation (2.000 tokens) over excerpts from DDD Heliand and DDD Genesis, 
-(b) automatically converting HeliPaD (53.000 tokens), and 
+(b) automatically converting HeliPaD (46,000 tokens), and 
 (c) automatically converting the tier-based corpora with partial syntax annotation (Heliand B4, 3.500 tokens; DDD Heliand, 55.000 tokens).
 The following relations have not been used: `clf`, `expl`, `fixed`, `goeswith`, and `list`. Of these, only `clf` and `expl` are of linguistic significance. The label `iobj` was used for dative objects (indirect objects) in the conversion, but has been replaced by `obl` in manual annotation.
 
