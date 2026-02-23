@@ -22,7 +22,7 @@ Instruction: Describe the general rules for delimiting words (for example, based
   * According to typographical rules, many punctuation marks are attached to a neighboring word. We usually tokenize them as separate tokens (words).
 * In manuscripts, (white)spaces between words can sometimes not be identified reliably or do not seem to be accordance with modern spacing rules. In some manuscripts (esp., [Heliand Ms. M](https://www.lwl.org/331-download/niw/html/40001B.html)), we thus observe fusion between independent words and splits between parts of the same morphological word. **The handling of such data is yet to be clarified.**
   * These may be treated as multi-token words in the future.
-  * Example
+  * Example (Heliand, Ms. C and the edition use conventional word boundaries, Ms. M has a "clitic" attached to the stem of the next word, but its suffix detached. Very likely, this is purely orthographical.)
 
          Ms. M:   that inatorht lico  tidi  gimanodun
          Ms. C:   that ina torohtlico tidi  gimanodun (HeliPaD corpus)
