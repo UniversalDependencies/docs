@@ -11,9 +11,11 @@ Old Saxon (Old Low German, `osx`) is a historical language spoken between the 6t
 ## Tokenization and Word Segmentation
 
 
+<html>
 <!--
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+Instruction: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 -->
+</html>
 
 * As Old Saxon is attested in manuscripts from an era before the invention of modern punctuation, the texts differ with respect to word segmentation principles and typographical rules. In older editions, modern punctuation (and thus tokenization) rules apply, and then, tokenization rules correspond to those of modern German or English, i.e.:
   * In general, words are delimited by whitespace characters. Description of exceptions follows.
@@ -25,10 +27,10 @@ Old Saxon (Old Low German, `osx`) is a historical language spoken between the 6t
 
 ### Tags
 
-<!--
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+<html>
+<!-- Instruction: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 -->
-
+</html>
 
 * Old Saxon morphological annotation currently follows a mapping two source corpora [HeliPaD](https://zenodo.org/records/4395040) and [DDD](https://www.laudatio-repository.org/browse/corpus/MiXVDnMB7CArCQ9CABmW/corpora). These apply diverging practices that need to be consolidated.
 * Old Saxon uses all 17 universal POS categories. The tag ([SYM]()) is currently not used in any annotated data.
@@ -48,7 +50,7 @@ Old Saxon (Old Low German, `osx`) is a historical language spoken between the 6t
 As an older West Germanic language, Old Saxon provides same morphological features as [Old English UD](https://universaldependencies.org/ang/index.html). 
 This includes all morphological features that have also been preserved in Modern German (the morphologically most archaic modern West Germanic language), but in addition, Old Saxon provides Instrumental case and Dual number.
 
-!--
+<!--
 Old English-Cairo contains case, gender, number, person, verb form, mood, tense, degree, and possessive features.
 
 There are some features that are possible in UD Old English but do not appear in it.
