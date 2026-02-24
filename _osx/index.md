@@ -149,7 +149,7 @@ Currently only provided as `XPOS`.
 * A finite subordinate clause may serve as the subject and is labeled `csubj`.
 * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
 * If a verb subcategorizes for the infinitive (e.g. phasal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
-* Predicative adjectives in non-copular clauses are labelled [xcomp]().
+* Predicative adjectives in non-copular clauses are labelled [xcomp](), see [issue #1200](https://github.com/UniversalDependencies/docs/issues/1200)
 
 ### Non-verbal Clauses
 
