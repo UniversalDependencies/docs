@@ -12,18 +12,19 @@ status of a (subordinate) clause.
 
 We recognize these two subclasses as subordinating conjunctions:
 
-* Complementizers like _որ/or_ “that”,  _թէ/t’ē_ “if”
-* Adverbial clause introducers like _երբ&nbsp;_ “when”, _եթե միայն&nbsp;_ “if only”, _որպեսզի&nbsp;_ “in order”, _որովհետև&nbsp;_ “beacuse”, or _նախքան&nbsp;_ “before” (when introducing a clause not a nominal)
+* Complementizers like _որ/or, թէ/t’ē_ “that”
+* Adverbial clause introducers like _երբ(եփ)/erb(ep’), երբոր (եփոր)/erbor (ep’or), յորժամ/yoržam&nbsp;_ “when, at the time”, _քանի (քանի որ)/k’ani (k’ani or)&nbsp;_ “as, as much”, _որովհետեւ/orovhetew&nbsp;_ “beacause”.
 
-Note also, that in Armenian there are no Relativizers. 
+Note also, that in Middle Armenian there are no Relativizers. 
 
 For _coordinating conjunctions,_ see [CCONJ]().
 
 ### Examples
 
-- _որ, թե&nbsp;_ “that”
-- _թեև, թեպետ&nbsp;_ “though”
-- _եթե&nbsp;_ “if”
-- _քան&nbsp;_ “than”
-- _ուստի&nbsp;_ “hence”
+- _որ/or_ “that”,  _թէ/t’ē_ “that, whether”
+- _թէեւ/t’ēew, թէպէտ/t’ēpēt_ “though, despite”
+- _եթէ/et’ē_ “that, whether, if”
+- _քան/k’an_ “than”
+- _մակար թէ (որ)/makar t’ē (or)_ “except”
+- _մինչեւ/minčew_  “till, untill”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:55 CET -->
