@@ -14,12 +14,11 @@ This involves all alchemichal and asrtonomical symbols, e.g. _☉_ is identical 
 
 Mathematical operators form another group of symbols.
 
-Some special charachters used in Middle Armenian texts for articulation, stenography or proofreading, as well as characters used as bullets in itemized lists _(•, ‣)_ are not symbols, they are punctuation.
+Some special charachters used in Middle Armenian texts for articulation, stenography or proofreading (e.g. _՟, ~, U, |, ∞_), as well as characters used as bullets in itemized lists _(•, ‣)_ are not symbols, they are punctuation.
 
 ### Examples
 
 - _☉, ☽, ☿, ♃_
-- _+, −, ×, ÷, =_
-- —, , 
-- _john.doe@universal.org, http://universaldependencies.org/, 1-800-COMPANY_
+- _+, −, ×, ÷, =_  
+
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:56 CET -->
