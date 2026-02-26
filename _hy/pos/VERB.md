@@ -18,8 +18,7 @@ See the description of `AUX` for more information on the borderline between `VER
 
 Armenian verbs can take the following morphological forms:
 
-- Infinitive (this is the citation form),
-- Gerundive (shares properties of verbs and nouns),
+- Infinitive (this is the citation form that shares properties of verbs and nouns),
 - Finite verb (indicative, imperative, subjunctive and conditional forms; necessitative is constructed periphrastically, connegative forms),
 - Resultative, processual, imperfective, future-I, perfect participles (used to construct (secondary) complex tenses and moods),
 - Converb (also called adverbial participle).
