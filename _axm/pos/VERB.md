@@ -14,27 +14,25 @@ Note that the `VERB` tag covers main verbs _(content verbs)_, but it does not co
 the [AUX]() tag.
 See the description of `AUX` for more information on the borderline between `VERB` and `AUX`.
 
-Armenian verbs can take the following morphological forms:
+Middle Armenian verbs can take the following morphological forms:
 
-- Infinitive (this is the citation form),
-- Gerundive (shares properties of verbs and nouns),
+- Infinitive (this is the citation form that shares properties of verbs and nouns),
 - Finite verb (indicative, imperative, subjunctive and conditional forms; necessitative is constructed periphrastically, connegative forms),
-- Resultative, processual, imperfective, future-I, perfect participles (used to construct (secondary) complex tenses and moods),
-- Converb (also called adverbial participle).
+- Resultative, processual, imperfective, future-I, present and perfect participles (used to construct (secondary) complex tenses and moods),
 
 There are participial forms (_verbal adjectives_) that are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
 
 ### Examples
 
 - _գրել, գրել(ը)_ &nbsp;“to write, (the) writing”,
-- _գրեցի, գրեցիր, գրեց, գրեցինք, գրեցիք, գրեցին_ &nbsp;“I wrote, you wrote, he/she/it wrote, we wrote, you wrote, they wrote”,
-- _ունեմ, ունես, ունի, ունենք, ունեք, ունեն_ &nbsp;“I have, you have, he/she/it has, we have, you have, they have”,
-- _գրի՛, գրե՛ք, կարդա՛, կարդացե՛ք_ &nbsp;“write, read” (imperative in different numbers),
-- _գրեմ, գրես, գրի, գրենք, գրեք, գրեն_ &nbsp;“I write.Sub, you write.Sub, he/she/it write.Sub, we write.Sub, you write.Sub, they write.Sub”,
-- _գնայի, գնայիր, գնար, գնայինք, գնայիք, գնային_ &nbsp;“I went.Sub, you went.Sub, he/she/it went.Sub, we went.Sub, you went.Sub, they went.Sub”,
-- _կգնամ, կգնաս, կգնա, կգնանք, կգնաք, կգնան_ &nbsp;“I will go, you will go, he/she/it will go, we will go, you will go, they will go”,
-- _կգրեի, կգրեիր, կգրեր, կգրեինք, կգրեիք, կգրեին_ &nbsp;“I would write, you would write, he/she/it would write, we would write, you would write, they would write”,
-- _չեմ <b>գրի</b>, չեմ <b>գնա</b>_ &nbsp;“I shall not write, I shall not go”, 
+- _գրեցի, գրեցեր (-իր), գրեաց (-եց), գրեցաք, գրեցէք (-իք), գրեցին_ &nbsp;“I wrote, you wrote, he/she/it wrote, we wrote, you wrote, they wrote”,
+- _ունիմ, ունիս, ունի, ունին_ &nbsp;“I have, you have, he/she/it has, we have, you have, they have”,
+- _գրեա՛/գրէ՛, գրէ՛ք, կարդա՛, կարդացէ՛ք; ա՛ռ; լի՛ց; կա՛լ_ &nbsp;“write, read” (imperative in different numbers),
+- _գրեմ, գրես, գրէ (-ի), գրենք, գրէք, գրեն_ &nbsp;“I write.Sub, you write.Sub, he/she/it write.Sub, we write.Sub, you write.Sub, they write.Sub”,
+- _գնայի, գնայիր, գնայր, գնայաք, գնայիք, գնային_ &nbsp;“I went.Sub, you went.Sub, he/she/it went.Sub, we went.Sub, you went.Sub, they went.Sub”,
+- _կու գնամ, կու գնաս, կու գնա, կու գնանք, կու գնաք, կու գնան_ &nbsp;“I will go, you will go, he/she/it will go, we will go, you will go, they will go”,
+- _կու գրէի, կու գրէիր, կու գրէր, կու գրէինք, կու գրէիք, կու գրէին_ &nbsp;“I would write, you would write, he/she/it would write, we would write, you would write, they would write”,
+- _չգրի, չգնայ_ &nbsp;“I shall not write, I shall not go”, 
 - _գրած, կարդացած, գրելիս, կարդալիս, գրում, կարդում, գրելու, կարդալու, գրել, կարդացել, գրի, կարդա_ &nbsp;“written, read, while writing, while reading, write, read, (will) write, (will) read, have written, have read, write, read” (participles),
 - _գրելիս, կարդալիս_ &nbsp;“while writing, while reading” (converb)
 - _գրող, կարդացող, գրելիք, կարդալիք_ &nbsp;“writing, reading, smth. to be written, smth. to be read” (verbal adjectives)
