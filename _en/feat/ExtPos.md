@@ -26,6 +26,12 @@ and a small number of multiword proper names employ the feature, though in the f
 
 * _I like dogs, <b>of course</b>_ (_of_ = `ADP`)
 
+### <a name="NOUN">`NOUN`</a>: noun-like expression
+
+#### Examples
+
+* _Let's talk about the '<b>such as</b>' in that sentence_ (_such_ = `ADJ`)
+
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
