@@ -41,6 +41,6 @@ There are participial forms (_verbal adjectives_) that are tagged as verbs rathe
 Resultative, subject and perfect participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB](). For example:
 
 -	Resultative: _<b>կոտրած</b> ատամ/kotraç atam_ “a <b>broken</b> tooth”,
--	Subject: _<b>այրեցող </b> ջերմ/ayrec’oġ ǰerm_ “<b>scorching</b> temperature”,
+-	Subject: _<b>այրեցող </b> ջերմ/ayrec’oġ ǰerm_ “<b>burning</b> fever”,
 -	Perfect: _<b>ծաղկեալ</b> ծառ/çaġkeal çaṙ_ “tree <b>in blossom</b>”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->
