@@ -17,9 +17,6 @@ In Middle Armenian animacy is a lexical feature of [nouns](NOUN) and some [prono
 
 See also the related feature of [Definite]().
 
-Note also that some school grammars of Armenian distinguish between lexical `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns. There is antother 
-classifaction: nouns that are human and inflected as `Hum` (as [obj](hy-dep/obj) in [Dat](Case)) vs. nouns that are animate or inanimate and inflected as `Anim` (as [obj](hy-dep/obj) in [Dat](Case)) vs. nouns that are human, animate or inanimate and inflected as `Inan` (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
-
 ### <a name="Hum">`Hum`</a>: human
 
 A subset of animates that only includes human beings (fictional characters, names of professions and personified characters)
@@ -27,14 +24,14 @@ but not animals (there may be exceptions that do not fit the class semantically 
 
 #### Examples
 
-* _մարդ_ “man”, _երեխա_ “child”, _աղջիկ_ “girl”, _ամուսին_ “husband”, _ուսուցիչ_ “teacher”, _նախագահ_ “president”, _տնօրեն_ “director”
+* _մարդ/mard_ “man”, _երեխա(յ)/erexa_ “child”, _տղա(յ)/tġa_ “boy”, _այրիկ/ayrik_ “husband”, _ուսուցիչ/owsowc’ič_ “teacher”, _թագավոր/t’agavor_ “king”, _պայլ/payl_ “prince”
 
 ### <a name="Nhum">`Nhum`</a>: non-human
 
-This value in Armenian is used for non-human animates (incl. animals) and inanimates .
+This value in Middle Armenian is used for non-human animates (incl. animals) and inanimates .
 
 #### Examples
 
-* _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
-* _ձի_ “horse”, _կով_ “cow”, _առյուծ_ “lion”, _արագիլ_ “stork”, _ձուկ_ “fish”
+* _տարի/tari_ “year”, _դարպաս_ “palace, court”, _լեռ_ “mountain”, _ծառ_ “tree”
+* _ձի_ “horse”, _կով_ “cow”, _առուծ_ “lion”, _խաչափար_ “crawfish”, _ձուկ_ “fish”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:01 CET -->
