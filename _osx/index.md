@@ -180,7 +180,7 @@ Note that the DDD corpus provides rich inflectional information (inflection clas
 ### Non-verbal Clauses
 
 * The copula verb _wesan_, resp. _sin_ "be" is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-* The inchoative copula (and later tense marker) _werđan_ "to become" is annotated as a lexical verb with predicative complement (`xcomp`), see [issue #1203](https://github.com/UniversalDependencies/docs/issues/1203). This is in line with the recommended handling of inchoative copula and future tense in continental West Germanic (esp., German and Dutch).
+* The inchoative copula (and later tense marker) _werđan_ "to become" is annotated as a lexical verb with predicative complement (`xcomp`), see [issue #1203](https://github.com/UniversalDependencies/docs/issues/1203). This is in line with the recommended handling of inchoative copula and future tense in continental West Germanic (esp., German and Dutch) and North Germanic (esp., Swedish).
 
         thuo warđ   iro hugi sêrag
         then became her mind sorrowful
