@@ -76,7 +76,7 @@ The subject participle indicates durative aspect.
 #### Examples
 
 * _<b>այրեցող</b> ջերմ/ayrec’oġ ǰerm&nbsp;_ “burning fever”
-* _չարին <b>ատեցող</b>čarin atec’oġ&nbsp;_ “one who hates evil, hater of evil”
+* _չարին <b>ատեցող</b>/čarin atec’oġ&nbsp;_ “one who hates evil, hater of evil”
 
 ### <a name="Iter">`Iter`</a>: iterative
 
