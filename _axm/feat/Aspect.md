@@ -58,7 +58,7 @@ The future-II participle also indicate progressive aspect.
 
 #### Examples
 
-* _<b>գրելոյ (գրելու) եմ/greloy (grelow) em&nbsp;_ “I shall write”,
+* _<b>գրելոյ (գրելու)</b> եմ/greloy (grelow) em&nbsp;_ “I shall write”,
 * _<b>գրելոյ (գրելու)</b> էի/greloy (grelow) ēi&nbsp;_ “I should write”,
 * _<b>գրեմ/</b>/grem&nbsp;_ “(I'd better) write”,
 * _<b>գրէի</b>/grēi&nbsp;_ “I wish I wrote”
