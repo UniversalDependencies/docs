@@ -83,8 +83,8 @@ This is subtype of adjective or adverb.
 ### <a name="Frac">`Frac`</a>: fraction
 
 This is a subtype of cardinal numbers.
-It may denote a fraction or just the denominator of the
-fraction.
+It may denote a fraction or just the denominator of the fraction.
+Note that this feature is [currently used inconsistently](https://github.com/UniversalDependencies/docs/issues/1205) in the Czech treebanks: Some of the _-ina_ forms are tagged [NOUN](). This will be revised in the future.
 
 #### Examples
 
