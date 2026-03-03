@@ -101,8 +101,6 @@ and syntactically as nouns or ordinal numerals.
 #### Examples
 
 * [en] _three-quarters_
-* [cs] _půl / polovina_ "half"; _třetina_ "one third"; _čtvrt /
-  čtvrtina_ "quarter"
 
 ### <a name="Sets">`Sets`</a>: number of sets of things; collective numeral
 
