@@ -57,18 +57,27 @@ Instruction: Describe the general rules for delimiting words (for example, based
 As an older West Germanic language, Old Saxon provides same morphological features as [Old English UD](https://universaldependencies.org/ang/index.html). 
 This includes all morphological features that have also been preserved in Modern German (the morphologically most archaic modern West Germanic language), but in addition, Old Saxon provides Instrumental case and Dual number.
 
-<!--
-Old English-Cairo contains case, gender, number, person, verb form, mood, tense, degree, and possessive features.
-
-There are some features that are possible in UD Old English but do not appear in it.
-* The instrumental case is not attested in UD Old English but is possible.
-* Dual number is possible in pronouns, but is not attested in UD Old English.
--->
-
 Features are currently only provided as `XPOS`, not in direct annotation.
 
-<!--
 The complete feature space is as follows:
+
+* `Case`: `Nom`, `Acc`, `Dat`, `Gen`, `Inst`
+* `Definiteness`: `Def`
+* `Degree`: `Pos`, `Comp`, `Sup`
+* `Foreign`: `Yes`
+* `Gender`: `Fem`, `Masc`, `Neut`
+* `Mood`: `Imp`, `Sbj`, `Ind`
+* `Number`: `Dual`, `Plur`, `Sing`
+* `Person`: `1`, `2`, `3`
+* `Polarity`: `Neg`
+*	`Poss`: `Yes`
+* `PronType`: `Dem`, `Ind`, `Int`, `Pers`, `Refl`, `Rel`
+* `Reflex`: `Yes`
+* `Tense`: `Past`, `Pres`
+* `VerbForm`: `Fin`, `Ger`, `Inf`, `Part`
+
+<!-- cf. Old English
+
 * `Case`: `Nom`, `Acc`, `Gen`, `Dat`, `Inst`
 * `Gender`: `Masc`, `Fem`, `Neut`
 * `Number`: `Sing`, `Dual`, `Plur`
@@ -79,29 +88,42 @@ The complete feature space is as follows:
 * `Degree`: `Pos`, `Comp`, `Sup`
 * `Poss`: `Yes`
 -->
-<!-- this is from old english, Ger may need to be confirmed -->
 
-<!--
 ### Nominal Features
 
-
+* `Case`, `Gender`, `Number`
+* for de-adjectival nouns: `Degree`
+* for de-verbal nouns (with inflection): `VerbForm=Ger` (nominalized present participle), `VerbForm=Part` (nominalized past participle)
 
 ### Degree and Polarity
 
-Currently only provided as `XPOS`.
+* `Degree` for `ADJ` and `ADV`, as well as nominalized adjectives (`NOUN`)
+* `Polarity=Neg` the word _ne_ (_ni_) "not" and any word with clitic _ne_ (_ni_)
 
 ### Verbal Features
 
-Currently only provided as `XPOS`.
+* `VerbForm`
+* `Tense`
+* `Person`
+* `Mood`
 
 ### Pronouns, Determiners, Quantifiers
 
-Currently only provided as `XPOS`.
+* `Person`
+* `Number`
+* `Gender`
+* `Case`
+* `PronType`
+* `Poss=Yes` possessive pronouns and determiners
+* `Reflex=Yes` reflexive pronouns
+* `Definiteness=Def` for definite determiners
 
 ### Other Features
 
 Currently only provided as `XPOS`.
--->
+
+Note that the DDD corpus provides rich inflectional information (inflection classes) that cannot be properly rendered in the UD standard inventory of features.
+
 <!--
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 -->
