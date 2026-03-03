@@ -28,9 +28,9 @@ The action took / takes / will take some time span and there is no information w
 
 #### Examples
 
-* _կու <b>գրեմ</b>&nbsp;_ “I write / am writing”,
-* _կու <b>գրէի</b>&nbsp;_ “I was writing”
-* _սիրտս է <դողալիս>&nbsp;_ “My heart is trembling”
+* _կու <b>գրեմ</b>/kow grem&nbsp;_ “I write / am writing”,
+* _կու <b>գրէի</b>/kow grēi&nbsp;_ “I was writing”
+* _սիրտս է <b>դողալիս</b>/sirts ē doġalis&nbsp;_ “My heart is trembling”
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
@@ -41,11 +41,11 @@ The forms with resultative participles might better be defined as ‘perfect sta
 
 #### Examples
 
-* _<b>գրեցի</b>ն&nbsp;_ “He/she wrote”,
-* _<b>գրել</b> եմ&nbsp;_ “I have written”,
-* _<b>խօսել(ր)</b> էի&nbsp;_ “I had spoken”,
-* _<b>գնած </b> եմ&nbsp;_ “I have bought”,
-* _<b>գնացած </b> էի&nbsp;_ “I had gone”
+* _<b>գրեցի</b>/grec’i&nbsp;_ “He/she wrote”,
+* _<b>գրել</b> եմ/grel em&nbsp;_ “I have written”,
+* _<b>խօսել(ր)</b> էի/xòsel(r) ēi&nbsp;_ “I had spoken”,
+* _<b>գնացած</b> եմ/gnac’aç em&nbsp;_ “I am gone”,
+* _<b>գնացած</b> էի/gnac’aç ēi&nbsp;_ “I was gone”
 
 ### <a name="Prosp">`Prosp`</a>: prospective aspect
 
@@ -58,12 +58,14 @@ The future-II participle also indicate progressive aspect.
 
 #### Examples
 
-* _<b>գրելոյ (գրելու) եմ&nbsp;_ “I shall write”,
-* _<b>գրելոյ (գրելու)</b> էի տուն&nbsp;_ “I should write”,
-* _<b>գրեմ</b>&nbsp;_ “(I'd better) write”,
-* _<b>գրէի</b>&nbsp;_ “I wish I wrote”
-* _<b>կու վազեմ</b>&nbsp;_ “I shall run”,
-* _<b>կու վազեի</b>&nbsp;_ “I should run”
+* _<b>գրելոյ (գրելու) եմ/greloy (grelow) em&nbsp;_ “I shall write”,
+* _<b>գրելոյ (գրելու)</b> էի/greloy (grelow) ēi&nbsp;_ “I should write”,
+* _<b>գրեմ/</b>/grem&nbsp;_ “(I'd better) write”,
+* _<b>գրէի</b>/grēi&nbsp;_ “I wish I wrote”
+
+Note that In Middle Armenian the present and past tenses of the conditional mood have the same form as the present and past tenses of the indicative mood․ They cannot be distinguished without context:
+* _<b>կու վազեմ</b>/kow vazem&nbsp;_ “I shall run; I am running”,
+* _<b>կու վազեի</b>/kow vazei&nbsp;_ “I should run; I was running”
 
 ### <a name="Dur">`Dur`</a>: durative aspect
 
@@ -73,19 +75,18 @@ The subject participle indicates durative aspect.
 
 #### Examples
 
-* _<b>այրեցող</b> ջերմ&nbsp;_ “”
-* _Չարին <b>ատեցող</b> լերուք&nbsp;_ “Hate what is evil. _lit._ Be hater of evil”
+* _<b>այրեցող</b> ջերմ/ayrec’oġ ǰerm&nbsp;_ “burning fever”
+* _չարին <b>ատեցող</b>čarin atec’oġ&nbsp;_ “one who hates evil, hater of evil”
 
 ### <a name="Iter">`Iter`</a>: iterative
 
 Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ&nbsp;, -ոտ&nbsp;, -տ&nbsp;_ or _root reduplication_.
 
-Note, that in Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
+Note, that in Middle Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
 
 #### Examples
 
-* _ցատկել&nbsp;_ “jump”, _<b>ցատկոտել</b>&nbsp;_ “jump several times”,
-* _կտրել&nbsp;_ “cut”, _<b>կտրատել</b>&nbsp;_ “chop, cut in pieces”,
-* _փնտրել&nbsp;_ “search”, _<b>փնտրտել</b>&nbsp;_ “search several times”,
-* _վազել&nbsp;_ “to run”, _<b>վազվզել</b>&nbsp;_ “to run around, to run often”
+* _կոտրել/kotrel&nbsp;_ “break”, _<b>կոտրտել</b>/kotrtel&nbsp;_ “break into pieces”,
+* _ծռիլ/çṙil&nbsp;_ “warp”, _<b>ծռկտիլ</b>/çṙktil&nbsp;_ “squirm”,
+* _փնտռել/p’ntṙel&nbsp;_ “search”, _<b>փնտռտել</b>/p’ntṙtel&nbsp;_ “search several times”,
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:02 CET -->
