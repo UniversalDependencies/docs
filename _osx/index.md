@@ -118,6 +118,10 @@ The complete feature space is as follows:
 * `Reflex=Yes` reflexive pronouns
 * `Definiteness=Def` for definite determiners
 
+In the source corpora, quantifiers are annotated separately from both adjectives and determiners. Handling it yet to be confirmed.
+
+Note that because of the current handling of cliticization, pronominal features may be annotated *on any other tag*, incl. (but not limited to) `NOUN`, `PROPN`, `VERB`, `SCONJ`, `CCONJ`, `AUX`.
+
 ### Other Features
 
 Currently only provided as `XPOS`.
