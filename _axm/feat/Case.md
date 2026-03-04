@@ -82,9 +82,9 @@ Prototypical meaning: direction from some point (object, location or time).
 
 #### Examples
 
-* _ի բնութենէն&nbsp;_ “from the nature”
-* _ի նոցանէ&nbsp;_ “from them”
-* _ի ծնէ&nbsp;_ “from birth”
+* _ի բնութենէն/i bnowt’enēn&nbsp;_ “from the nature”
+* _ի նոցանէ/i noc’anē&nbsp;_ “from them”
+* _ի ծնէ/i çnē&nbsp;_ “from birth”
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
@@ -94,8 +94,8 @@ possible, for example the instrumental is required and it includes the meaning e
 
 #### Examples
 
-* _<b>կամօքն</b> Աստուծոյ&nbsp;_ “by the will of God”
-* _Եւ <b>քարամբ</b> խիստ քարկոծեցաւ&nbsp;_ “And he was severely pelted with <b>stones</b>.” (Passive example)
+* _<b>կամօքն</b> Աստուծոյ/kamòk’n Astowçoy&nbsp;_ “by the will of God”
+* _Եւ <b>քարամբ</b> խիստ քարկոծեցաւ/Ew k’aramb xist k’arkoçec’aw&nbsp;_ “And he was severely pelted with <b>stones</b>.” (Passive example)
 
 ### <a name="Loc">`Loc`</a>: locative
 
@@ -105,6 +105,6 @@ nouns) and in the `Acc` (generally for plural nouns).
 
 #### Examples
 
-* _Ձագերն ձայն ածեն <b>յայգին</b>։&nbsp;_ “(Some animals) young ones are making noise <b>in the garden</b>.”
-* _<b>յաւազանն</b> մտանէ&nbsp;_ “he gets <b>into the pool</b>”
+* _Ձագերն ձայն ածեն <b>յայգին</b>։/Jagern jayn açen yaygin&nbsp;_ “(Some animals) young ones are making noise <b>in the garden</b>.”
+* _<b>յաւազանն</b> մտանէ/yawazann mtanē&nbsp;_ “he gets <b>into the pool</b>”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->
