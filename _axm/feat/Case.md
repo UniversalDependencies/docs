@@ -62,8 +62,8 @@ In many languages prototypical meaning of genitive is that the noun phrase someh
 
 
 #### Examples
-* _Եկին <b>նորա<b/> սիրելիքն եւ ասացին/Ekin nora sirelik’n ew asac’in_ “<b>His</b> beloved ones came and said”
-* _Եւ պարտ է <b>նմա<b/> զգուշանալ/Ew part ē nma zgowšanal&nbsp;_ “And he must be careful” _Lit.:_ “It's necessary for <b>him</b> to be careful”
+* _Եկին <b>նորա</b> սիրելիքն եւ ասացին/Ekin nora sirelik’n ew asac’in_ “<b>His</b> beloved ones came and said”
+* _Եւ պարտ է <b>նմա</b> զգուշանալ/Ew part ē nma zgowšanal&nbsp;_ “And he must be careful” _Lit.:_ “It's necessary for <b>him</b> to be careful”
 
 
 ### <a name="Acc">`Acc`</a>: accusative
