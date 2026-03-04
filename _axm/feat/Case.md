@@ -23,28 +23,22 @@ Case is an inflectional feature of [nouns](NOUN) and [pronouns](PRON).
 Case helps to specify the role of the noun phrase in the sentence.
 
 Here on the level of morphosyntactic features we are dealing with case expressed morphologically, i.e. by bound morphemes (affixes).  The descriptions of the individual case values below include semantic
-hints about the prototypical meaning of the case. Bear in mind that
-quite often a case will be used for a meaning that is totally
-unrelated to the meaning mentioned here. Valency of verbs,
-adpositions and other words will determine that the noun phrase must
-be in a particular grammatical case to fill a particular valency slot
-(semantic role).
+hints about the prototypical meaning of the case. Bear in mind that quite often a case will be used for a meaning that is totally unrelated to the meaning mentioned here. Valency of verbs, adpositions
+and other words will determine that the noun phrase must be in a particular grammatical case to fill a particular valency slot (semantic role).
 
-Armenian linguistics distinguishes between five (morphological) and seven (syntactic) cases:
-`Nom`, `Gen`, `Dat`, `Acc`, `Abl`, `Ins` and `Loc` (this ordering is fixed in the grammar).
+The morphology of Middle Armenian differentiates five cases:
+`Nom`, `Acc` `Gen`-`Dat`, `Abl`, `Ins` and `Loc`.
 
-Note, that the direct object of the verb can be formed in nominative or dative (syntactic accusative), this is related to [Animacy](). They will be tagged `Case=Nom` and `Case=Dat` and not `Case=Nom,Acc` or `Case=Gen,Dat` as in some Armenian grammars.
+Note that pronouns do not have `Loc` case. It's also rarely used with nouns. In most cases, its meaning is expressed by a preposition with a noun in the`Gen`-`Dat` for singular nouns and in the `Acc` in plural. Other cases as well, mainly `Acc` and `Abl` can be combined with adpositions.
 
-The difference between `Gen` and `Dat` is related to [definiteness](Definite). The `Gen` can not have `Definite=Def`.
-
-Note also, that vocatives, and noun modifiers as an attribute in nominative or as a genitive complement in genitive can not have `Definite=Def`. In these cases we declare `Definite=Ind`. Only this value will have also `Ins`, `Abl` and `Loc` cases.
-
-Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
+Some personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`. Note that the `Gen` case of personal pronouns forms a separate paradigm of posessive pronouns.
 
 #### Examples
 
-* singular nominative _դպրոց&nbsp;_ “school”, dative _դպրոցի(ն),&nbsp;_ ablativ _դպրոցից,&nbsp;_ instrumental _դպրոցով,&nbsp;_ locative _դպրոցում_
-* singular nominative _ժամանակ&nbsp;_ “time”, dative _ժամանակի(ն), ժամանակվա(ն),&nbsp;_ ablativ _ժամանակից, ժամանակվանից,&nbsp;_ instrumental _ժամանակով,&nbsp;_ locative _ժամանակում_
+* singular nominative _ծառ/çaṙ&nbsp;_ “tree”, genitive-dative _ծառի/çaṙi&nbsp;_, ablative _(ի) ծառէ/(i) çaṙē&nbsp;_, instrumental _ծառով/çaṙov&nbsp;_
+* plural nominative _ծառք (ծառեր)/çaṙk’ (çaṙer)&nbsp;_ “trees”,  accusative _(զ)ծառս (ծառս)/(z)çaṙs (çaṙs)&nbsp;_, genitive-dative _ծառերոյ/çaṙeroy&nbsp;_, ablative _(ի) ծառերոյ/(i) çaṙeroy&nbsp;_, instrumental _ծառերով/çaṙerov&nbsp;_
+* singular nominative _գիշեր/gišer&nbsp;_ “night”, genitive-dative _գիշերվան/gišervan&nbsp;_ ablative _(ի) գիշերվնէ/(i) gišervnē&nbsp;_ instrumental _գիշերով/gišerov&nbsp;_
+* plural nominative _գիշերներ/gišerner&nbsp;_, genitive-dative _գիշերներոյ(ու)/gišerneroy(ow)&nbsp;_, ablative _(ի) գիշերներոյ(ո)/(i) gišerneroy(o)&nbsp;_, instrumental _գիշերներով/gišernerov&nbsp;_
 * singular nominative _արյուն&nbsp;_ “blood”, dative _արյան(ը),&nbsp;_ ablativ _արյունից,&nbsp;_ instrumental _արյունով, արյամբ&nbsp;_
 * singular nominative _մայր&nbsp;_ “mother”, dative _մոր(ը),&nbsp;_ ablativ _մորից,&nbsp;_ instrumental _մորով_
 
