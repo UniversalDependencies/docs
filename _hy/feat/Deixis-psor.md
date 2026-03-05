@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-Armenian uses `Deixis[psor]` as layered feature for [NOUN]() and to encodes the position of an entity relative to either the speaker or the hearer.
+Armenian uses `Deixis[psor]` as layered feature for [NOUN]() to encode the position of an entity relative to either the speaker or the hearer.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
