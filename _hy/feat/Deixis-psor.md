@@ -21,8 +21,8 @@ The entity is close to the reference point (e.g., to the speaker).
 
 #### Examples
 
-* _քաղցկեղից <b>վերջերս</b> մահացավ;_ “...”,
-* _<b>օրերս</b> են դիմել կառավարությանը;_ “...”,
+* _քաղցկեղից <b>վերջերս</b> մահացավ;_ “He/She passed away from cancer recently.” Lit.: _this recent times_,
+* _<b>օրերս</b> են դիմել կառավարությանը;_ “They have recently applied to the government.”,
 * _<b>վերջինիս</b> շնորհիվ է, որ...;_ “...”
 
 ### <a name="Med">`Med`</a>: medial
