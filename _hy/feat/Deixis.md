@@ -18,7 +18,7 @@ Deixis is typically a feature of demonstrative [pronouns](hy-pos/PRON), [determi
 Its value classifies the location of the referred entity with respect to the location
 of the speaker or of the hearer.
 
-Armenian make a three-way distinction between demonstratives.
+Armenian makes a three-way distinction between demonstratives.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
