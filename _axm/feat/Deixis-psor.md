@@ -29,7 +29,7 @@ The entity is neither close nor far away from the reference point (e.g., from th
 
 #### Examples
 
-* _Ես այդ <b>աթոռոյդ</b> տէրն  եմ;_ “...”
+* _Ես այդ <b>աթոռոյդ</b> տէրն  եմ/Es ayd at’oṙoyd tērn em_ “I am the owner of that chair”
 
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:11 CET -->
