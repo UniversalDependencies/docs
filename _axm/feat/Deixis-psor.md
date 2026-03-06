@@ -21,9 +21,7 @@ The entity is close to the reference point (e.g., to the speaker).
 
 #### Examples
 
-* _Տեսեք, թէ քանի մարդիք <b>յաշխարհէս</b> դարտակ մնացին_ “...”,
-* _<b>օրերս</b> են դիմել կառավարությանը;_ “...”,
-* _<b>վերջինիս</b> շնորհիվ է, որ...;_ “...”
+* _Տեսեք, թէ քանի մարդիք <b>յաշխարհէս</b> դարտակ մնացին։/Tesek’, t’ē k’ani mardik’ yašxarhēs dartak mnac’in_ “See how many people were left empty-handed in this world.”,
 
 ### <a name="Med">`Med`</a>: medial
 
@@ -31,7 +29,7 @@ The entity is neither close nor far away from the reference point (e.g., from th
 
 #### Examples
 
-* _ <b></b>;_ “...”
-* _ <b></b>;_ “...”
+* _Ես այդ <b>աթոռոյդ</b> տէրն  եմ;_ “...”
+
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:11 CET -->
