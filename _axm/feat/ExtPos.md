@@ -41,7 +41,7 @@ an interjection.
 #### Examples
 
 * _<b>նախշ ու նիգար</b>_ (a multiword adjective paraphrasable as “tracery”, lit. "ornament and figure"; the first node is [NOUN]())
-* _ի բան_ (a multiword adjective paraphrasable as “useful, necassary”, lit. "to/for something")
+* _<b>ի բան</b>_ (a multiword adjective paraphrasable as “useful, necassary”, lit. "to/for something")
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
@@ -49,7 +49,7 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* _<b>ի խէչ</b>_ “<b>at, near, next to</b>” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
+* _<b>ի խէչ</b>_ “<b>at; near; next to</b>” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
@@ -61,13 +61,13 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* _<b>ոչ (ե)թէ</b>_ “not” (in "not... but") (_ոչ_ = [PART]())
+* _<b>ոչ (ե)թէ</b>_ “<b>not</b>” (in "not... but") (_ոչ_ = [PART]())
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
 #### Examples
 
-* _<b>ոչ որ</b>_ “not any” (_ոչ_ = `PART`)
+* _<b>ոչ որ</b>_ “<b>not any</b>” (_ոչ_ = `PART`)
 
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
@@ -80,7 +80,7 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* _<b>թող թէ</b>_ “even if; apart from” (_թող_ = [VERB])
+* _<b>թող թէ</b>_ “<b>even if; apart from</b>” (_թող_ = [VERB])
 
 ### <a name="PART">`PART`</a>: particle-like expression
 
