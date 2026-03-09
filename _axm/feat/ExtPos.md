@@ -31,18 +31,17 @@ the UPOS of the head node; however, `ExtPos` is sometimes used even if it is ide
 multiword – if one of the words of the expression is omitted by mistake, or if a single word has been coerced into a part of speech different from its lexical one, `ExtPos` may 
 be used to signal it.
 
-`ExtPos` is strongly recommended for fixed functional multiword expressions (the head node has one
-or more children attached via the [fixed]() relation). These should normally lead to `ExtPos` values
-`ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds
-that work like content words). However, `ExtPos` is occasionally useful in other situations, too:
-for example, when a multiword expression acts as a proper noun (although its parts behave like other
-words) or as an interjection.
+`ExtPos` is strongly recommended for fixed functional multiword expressions (the head node has one or more children attached via the [fixed]() relation). These should normally
+lead to `ExtPos` values `ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds that work like content words). However, 
+`ExtPos` is occasionally useful in other situations, too: for example, when a multiword expression acts as a proper noun (although its parts behave like other words) or as
+an interjection.
 
 ### <a name="ADJ">`ADJ`</a>: adjective-like expression
 
 #### Examples
 
-* _<b>հազար ու մի</b>_ (a multiword adjective paraphrasable as “numerous”, lit. "thousand and one"; the first node is [NUM]())
+* _<b>նախշ ու նիգար</b>_ (a multiword adjective paraphrasable as “tracery”, lit. "ornament and figure"; the first node is [NOUN]())
+* _ի բան_ (a multiword adjective paraphrasable as “useful, necassary”, lit. "to/for something")
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
@@ -50,48 +49,42 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* _<b>ի շահ</b>_ “<b>in favour of</b>” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
-* _<b>սկսած</b> հունվարից_ “<b>starting</b> from January” (here the first node is a [VERB]())
+* _<b>ի խէչ</b>_ “<b>at, near, next to</b>” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
-* _<b>մի կերպ</b>_ (a multiword adverb paraphrasable as “somehow”; the first node is [DET]())
+* _<b>ի հօն</b>_ (a multiword adverb paraphrasable as “there”; the first node is [ADP]())
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
-* _<b>ոչ միայն</b>_ “not only” (_ոչ_ = [PART]())
+* _<b>ոչ (ե)թէ</b>_ “not” (in "not... but") (_ոչ_ = [PART]())
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
 #### Examples
 
-* _<b>ոչ մի</b>_ “not any” (_ոչ_ = `PART`)
+* _<b>ոչ որ</b>_ “not any” (_ոչ_ = `PART`)
 
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
 #### Examples
 
-* _<b>ամեն ինչ</b>_ (a multiword determiner paraphrasable as _everything_, _ամեն_= [DET]())
+* _<b>ամէն մէկ</b>_ (a multiword determiner paraphrasable as _everyone_, _ամեն_= [DET]())
 
-### <a name="PROPN">`PROPN`</a>: proper noun-like expression
-
-#### Examples
-
-* _<b>Վայոց ձոր</b>_ (_<b>Վայ<b>ոց_ = [NOUN]())
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
-* _<b>հենց որ</b>_ “as soon as” (_հենց_ = `ADV`)
+* _<b>թող թէ</b>_ “even if; apart from” (_թող_ = [VERB])
 
 ### <a name="PART">`PART`</a>: particle-like expression
 
 #### Examples
 
-* _<b>ի վերջո</b>_ (a multiword particle paraphrasable as “eventually”; the first node is [ADP]())
+* _<b>կարծեմ թէ</b>_ (a multiword particle paraphrasable as “probably”; the first node is [VERB]())
 
