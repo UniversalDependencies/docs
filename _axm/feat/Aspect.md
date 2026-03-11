@@ -63,7 +63,7 @@ The future-II participle also indicate progressive aspect.
 * _<b>գրեմ/</b>/grem&nbsp;_ “(I'd better) write”,
 * _<b>գրէի</b>/grēi&nbsp;_ “I wish I wrote”
 
-Note that In Middle Armenian the present and past tenses of the conditional mood have the same form as the present and past tenses of the indicative mood․ They cannot be distinguished without context:
+Note that In Middle Armenian the present and imperfect tenses of the conditional mood have the same form as the present and past tenses of the indicative mood․ They cannot be distinguished without context:
 * _<b>կու վազեմ</b>/kow vazem&nbsp;_ “I shall run; I am running”,
 * _<b>կու վազեի</b>/kow vazei&nbsp;_ “I should run; I was running”
 
