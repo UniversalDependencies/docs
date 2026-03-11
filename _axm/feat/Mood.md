@@ -20,38 +20,38 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 
 ### <a name="Ind">`Ind`</a>: indicative
 
-The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will
-happen, without adding any attitude of the speaker.
+The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
+
+In Middle Armenian, the negative forms of the present and imperfect tenses of the indicative mood exhibit variation in their formation. Besides the  inflectional endings, negation may also be expressed by a construction consisting of the negative particle followed by the preposition _ի_ and the infinitive. 
 
 #### Examples
 
 * _գրելու <b>եմ</b>_ “<b>I am going</b> to write”,
 * _գրելու <b>էի</b>_ “<b>I was going</b> to write”,
 * _տուն <b>ունիմ</b>_ “<b>I have</b> a house”,
-* _տուն <b>ունէի</b>_ “<b>I had</b> a house”,
-* _տուն <b>ունեցա</b>_ “<b>I got</b> a house”,
-* _<b>գնացի</b> տուն_ “<b>I went</b> home”
+* _բերդ <b>ունէին</b>_ “<b>They had</b> a fortress”,
+* _<b>կապեցիր</b> բեռինք_ “<b>You tied </b> the loads”,
 
 ### <a name="Imp">`Imp`</a>: imperative
 
-The speaker uses imperative to order or ask the addressee to do the
-action of the verb.
+The speaker uses imperative to order or ask the addressee to do the action of the verb.
 
 #### Examples
 
-* _<b>գնա՛</b> տուն_ “go home!”,
-* _<b>գնացե՛ք</b> տուն_ “go home!” (plural),
-* _<b>եղի՛ր</b> առողջ_ “be healthy!”,
-* _<b>եղե՛ք</b> առողջ_ “be healthy!” (plural)
+* _<b>ա՛րկ</b> զմկնասոխն ʼի քացախն եւ <b>թո՛ղ</b> ժամանակ ինչ_ “Add scilla to vinegar and leave it for a while.”,
+* _ինձ <b>լսեցէք</b> տուն_ “listen to me!” (plural),
+* _<b>կատարէ՛</b> զգործքդ_ “do your work!”,
+* _<b>խմէ՛ք</b> _ “drink!” (plural)
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
-The conditional mood is used to express actions that would have taken
-place under some circumstances but they actually did not / do not
-happen. In Armenian it combines with two different
-tenses (imperfect and present).
+The conditional mood is used to express actions performed under a condition or hypothetically, but they may also express an action that is certain to occur.
+In Middle Armenian it combines with two different tenses (present and imperfect).
 
-The negation of conditional mood is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
+Note that In Middle Armenian the present and imperfect tenses of the conditional mood have the same form as the present and past tenses of the indicative mood․ They cannot be distinguished without context:
+
+The negation of conditional mood is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. 
+The main verb is marked as [Connegative]().
 
 #### Examples
 
