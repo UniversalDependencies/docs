@@ -32,7 +32,7 @@ root(ROOT-1, išvykusi)
 root(ROOT-8, away)
 ~~~
 
-If a verbal predicate consists of a conjugated verb form (typically of the modal verbs _galėti (can) and turėti (have to)_) together with an infinitive (e.g., g_alime padaryti (we can make it), turėjo ateiti (had to come)_) or with an infinitive and a participle, the `root` of the predicate is considered to be the modal verb (e.g., _norėjo (wanted); gali (can)_).
+If a verbal predicate consists of a conjugated verb form (typically of the modal verbs _galėti (can)_ and _turėti (have to)_) together with an infinitive (e.g., _galime padaryti (we can make it), turėjo ateiti (had to come)_) or with an infinitive and a participle, the `root` of the predicate is considered to be the modal verb (e.g., _norėjo (wanted); gali (can)_).
 
 ~~~ sdparse
 ROOT Jis norėjo pasitarti . \n ROOT He wanted to-consult .

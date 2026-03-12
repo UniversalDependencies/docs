@@ -28,7 +28,7 @@ Sentences consist of one or more word lines, and word lines contain the followin
  3. LEMMA: Lemma or stem of word form.
  4. UPOS: [Universal part-of-speech tag](u/pos/index.html).
  5. XPOS: Optional language-specific (or treebank-specific) part-of-speech / morphological tag; underscore if not available.
- 6. FEATS: List of morphological features from the [universal feature inventory](u/feat/index.html) or from a defined [language-specific extension](ext-feat-index.html); underscore if not available.
+ 6. FEATS: List of morphological features from the [universal feature inventory](u/feat/index.html) or from a defined [language-specific extension](guidelines.html#language-specific-guidelines); underscore if not available.
  7. HEAD: Head of the current word, which is either a value of ID or zero (0).
  8. DEPREL: [Universal dependency relation](u/dep/index.html) to the HEAD ([root](u-dep/root) iff HEAD = 0) or a defined language-specific subtype of one.
  9. DEPS: Enhanced dependency graph in the form of a list of head-deprel pairs.

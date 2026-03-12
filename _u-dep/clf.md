@@ -80,6 +80,7 @@ clf(this, CLF)
 ~~~
 
 Similarly in Thai: “Physicians don't have these tools.”
+<!-- UD_Thai-PUD sentence n01041018 -->
 
 ~~~ sdparse
 แพทย์ ไม่ มี เครื่องมือ เหล่า นี้ \n bʰæːdʰy mạì miː gʰeːrǜː'ŋmüː' heːlàː nîː \n physician not have tool CLF this

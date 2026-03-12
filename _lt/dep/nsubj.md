@@ -68,7 +68,7 @@ nsubj(red, A-car)
 ~~~ sdparse
 Jonas yra studentas . \n Jonas is a-student .
 nsubj(studentas, Jonas-1)
-nsubj(a-student, Jonas-5)
+nsubj(a-student, Jonas-6)
 ~~~
 
 If the subject is governed by a participle of necessity, it is marked as `nsubj`.

@@ -102,9 +102,9 @@ udver: '2'
   * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [flat:foreign]() for non-first words in quoted foreign phrases
-  * [nmmod:obl]()
-  * [nmmod:gov]()
-  * [nmmod:arg]()
+  * [nmod:obl]()
+  * [nmod:gov]()
+  * [nmod:arg]()
 * The following relation types are not used in Lithuanian at all:
   [clf](), [expl]()
 

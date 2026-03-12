@@ -73,7 +73,7 @@ The future-II participle also indicate progressive aspect.
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-Action is in progress with respect to current or a reference time. The converb indicate progressive aspect.
+Action is in progress with respect to current or a reference time. The converb indicates progressive aspect.
 
 #### Examples
 
@@ -85,7 +85,7 @@ Action is in progress with respect to current or a reference time. The converb i
 
 A situation or action that has persisted over a period of time and still continues.
 
-The subject participle indicate durative aspect.
+The subject participle indicates durative aspect.
 
 #### Examples
 

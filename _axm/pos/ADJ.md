@@ -15,7 +15,7 @@ The `ADJ` tag is intended for ordinary adjectives only. See [DET]() for determin
 
 In accordance with the UD approach, ordinal numerals _(առջի/aṙǰi, իրեքում/irek’owm, չորսում/čorsowm, տասնուվեցում/tasnowvec’owm)_ are tagged as adjectives, although the traditional grammar classifies them as numerals. They behave like adjectives both morphologically and syntactically, with the exception that they cannot be compared.
 
-Most Middle Armenian adjectives inflect for [Degree]() (_մենձ/menj, այլ մենձ/ayl menj, այլ մենձն/ayl menjn_) “big”.
+Most Middle Armenian adjectives inflect for [Degree]() (_աղէկ/aġēk, այլ աղէկ/ayl aġēk, այլ աղէկն/ayl aġēkn_ “good, better, the best”).
 
 ### Examples
 

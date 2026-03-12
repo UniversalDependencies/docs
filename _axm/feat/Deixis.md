@@ -15,10 +15,9 @@ udver: '2'
 </table>
 
 Deixis is typically a feature of demonstrative [pronouns](hy-pos/PRON), [determiners](hy-pos/DET), and [adverbs](hy-pos/ADV).
-Its value classifies the location of the referred entity with respect to the location
-of the speaker or of the hearer.
+Its value classifies the location of the referred entity with respect to the location of the speaker or of the hearer.
 
-Armenian makes a three-way distinction between demonstratives.
+Middle Armenian makes a three-way distinction between demonstratives.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
@@ -26,7 +25,7 @@ The entity is close to the reference point (e.g., to the speaker).
 
 #### Examples
 
-* _սա, այս, այսպիսի, այսքան, այստեղ, սույն_ “this, this, such, this many, here, this”
+* _սա/sa, այս/ays, իսա/isa, այսչաք/aysčak’, այսպես/ayspes, այսցեղ/aysc’eġ_ “this, this, this, this way, this way, this much”
 
 ### <a name="Med">`Med`</a>: medial
 
@@ -34,7 +33,7 @@ The entity is neither close nor far away from the reference point (e.g., from th
 
 #### Examples
 
-* _դա, այդ, այդպիսի, այդքան, այդտեղ_ “that, that, such, that many, there”
+* _դա/da, այդ/ayd, իդա/ida, այտչաք/aytčak’, այդանօր/aydanor, այդցեղ/aydc’eġ_ “that, that, that, that many/much, that place, that way”
 
 ### <a name="Remt">`Remt`</a>: remote, distal
 
@@ -42,5 +41,5 @@ The entity is far away from the reference point (e.g., from the speaker).
 
 #### Examples
 
-* _այն, այնպիսի, այնքան, այնտեղ, նույն_ “that, such, to many, there, same”
+* _նա/na, այն/ayn, ինա/ina, այնպես/aynpes, այնցեղ/aync’eġ, այնչաք/aynčak’, այնտեղ/_ “that, that, that, that way, that way, that many/much, there”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:10 CET -->
