@@ -21,19 +21,21 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 ### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
-The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
+The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ/կոյ)/kow (k/koy)_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
 The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the inflectional endings, negation may also be expressed by a construction consisting of the negative particle followed by a verb in the infinitive, with or without the preposition _ի_.
 
 #### Examples
 
-* _Աչքն <b>խորանայ</b>, եւ կոպքն <b>թուլանան</b>։/Ačk’n xoranay, ew kopk’n t’owlanan_ “The eyes sink in, and the eyelids droop.”
+* _աչքն <b>խորանայ</b>, եւ կոպքն <b>թուլանան</b>/Ačk’n xoranay, ew kopk’n t’owlanan_ “the eyes sink in, and the eyelids droop”,
 * _կու <b>հրամայէ</b> Սահակ/kow hramayē Sahak_ “Sahak orders/will order”,
 * _խիստ կու <b>սիրէր</b>/xist kow sirēr_ “He loved/would love strongly”,
 * _հիւանդս աս լաւնալու <b>է</b>/hiwands as lawnalow ē_ “this patient <b>will recover</b>”,
 * _ծախելու <b>էի</b>/çaxelow ei_ “<b>I was going</b> to sell”,
 * _տուն <b>ունիմ</b>/town ownim_ “<b>I have</b> a house”,
 * _բերդ <b>ունէին</b>/berd ownēin_ “<b>They had</b> a fortress”,
-* _<b>կապեցիր</b> բեռինք/kapec’ir beṙink’_ “<b>You tied </b> loads”,
+* _<b>կապեցիր</b> բեռինք/kapec’ir beṙink’_ “<b>You tied</b> loads”,
+* _հոգւով <b>մեռած ենք</b>/hogwov meṙaç enk’_ “we <b>are</b> spiritually <b>dead</b>”,
+* _մեկ էլ ի նոցա միջին էր մեռած/mek ēl i noc’a miǰin ēr meṙaç_ “and one among them <b>was dead</b>”,
 * _Է՞ր <b>չես ի լալ</b>/Ēr čes i lal_ “Why <b>don't (won't) you cry</b>?”
 * _Ես <b>չեմ ի տար</b> հանց պատասխան/Es čem i tar hanc’ patasxan_ “I don't (won't) give such an answer.”
 
@@ -46,7 +48,7 @@ The speaker uses imperative to order or ask the addressee to do the action of th
 * _<b>ա՛րկ</b> զմկնասոխն ʼի քացախն եւ <b>թո՛ղ</b> ժամանակ ինչ_ “Add scilla to vinegar and leave it for a while.”,
 * _ինձ <b>լսեցէք</b>_ “listen to me!” (plural),
 * _<b>կատարէ՛</b> զգործքդ_ “do your work!”,
-* _<b>խմէ՛ք</b> _ “drink!” (plural)
+* _<b>խմէ՛ք</b>_ “drink!” (plural)
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
@@ -60,18 +62,17 @@ The main verb is marked as [Connegative]().
 
 #### Examples
 
-* _<b>կգնայի</b> տուն_ “<b>I would go</b> home, (if)”,
-* _<b>կգնամ</b> տուն_ “<b>I will go</b> home, (if)”,
-* _չեմ <b>գնա</b> տուն_ “I will not <b>go</b> home, (if)”,
+* _<b>կու երթանք</b>_ “we <b>will</b> go/we <b>go</b>”,
+* _<b>կելանեմ</b> “<b>I will come out/I come out</b>”,
+* _<b>կոյ մտանեմ</b>_ “<b>I will enter/I enter</b>”,
 * _Որդունքն <b>չեն</b> ինձ <b>ողորմիլ</b>_ “The sons will not (do not) pity me”,
 * _նայ <b>չէր</b> կրկին <b>յետս դառնալ</b>/nay čēr krkin yets daṙnal_ “He would not come back again”
-* _նա <b>չի այրիր</b>/na či ayrir_
+* _նա <b>չի այրիր</b>/na či ayrir_ “he/she <b>will not burn/does not burn<b>”,
 * _վազելու <b>կլինեի</b>_ “<b>I would be going</b> to run, (if)”,
 * _վազելու <b>կլինեմ</b>_ “<b>I will be going</b> to run, (if)”,
 * _տուն <b>կունենայի</b>_ “<b>I would have</b> a house, (if)”,
 * _տուն <b>կունենամ</b>_ “<b>I will have</b> a house, (if)”
 
-“”
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive / optative
 
 The subjunctive mood is used under certain circumstances in
