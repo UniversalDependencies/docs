@@ -65,7 +65,7 @@ The future-II participle also indicate progressive aspect.
 
 Note that In Middle Armenian the present and imperfect tenses of the conditional mood have the same form as the present and past tenses of the indicative mood․ They cannot be distinguished without context:
 * _<b>կու վազեմ</b>/kow vazem&nbsp;_ “I shall run; I am running”,
-* _<b>կու վազեի</b>/kow vazei&nbsp;_ “I should run; I was running”
+* _<b>կու վազէի</b>/kow vazei&nbsp;_ “I should run; I was running”
 
 ### <a name="Dur">`Dur`</a>: durative aspect
 
