@@ -20,19 +20,22 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 
 ### <a name="Ind">`Ind`</a>: indicative
 
-The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
-
-In Middle Armenian, the negative forms of the present and imperfect tenses of the indicative mood exhibit variation in their formation. Besides the  inflectional endings, negation may also be expressed by a construction consisting of the negative particle followed by a verb in infinitive or in perfect with or without the preposition _ի_. 
+The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
+The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
+The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the inflectional endings, negation may also be expressed by a construction consisting of the negative particle followed by a verb in the infinitive, with or without the preposition _ի_.
 
 #### Examples
 
-* _գրելու <b>եմ</b>/grelow em_ “<b>I am going</b> to write”,
-* _գրելու <b>էի</b>/grelow ei_ “<b>I was going</b> to write”,
+* _Աչքն <b>խորանայ</b>, եւ կոպքն <b>թուլանան</b>։/Ačk’n xoranay, ew kopk’n t’owlanan_ “The eyes sink in, and the eyelids droop.”
+* _կու <b>հրամայէ</b> Սահակ/kow hramayē Sahak_ “Sahak orders/will order”,
+* _խիստ կու <b>սիրէր</b>/xist kow sirēr_ “He loved/would love strongly”,
+* _հիւանդս աս լաւնալու <b>է</b>/hiwands as lawnalow ē_ “this patient <b>will recover</b>”,
+* _ծախելու <b>էի</b>/çaxelow ei_ “<b>I was going</b> to sell”,
 * _տուն <b>ունիմ</b>/town ownim_ “<b>I have</b> a house”,
 * _բերդ <b>ունէին</b>/berd ownēin_ “<b>They had</b> a fortress”,
 * _<b>կապեցիր</b> բեռինք/kapec’ir beṙink’_ “<b>You tied </b> loads”,
-* _Է՞ր <b>չես ի լալ</b>_
-* _Ես <b>չեմ ի տար</b> հանց պատասխան_
+* _Է՞ր <b>չես ի լալ</b>/Ēr čes i lal_ “Why <b>don't (won't) you cry</b>?”
+* _Ես <b>չեմ ի տար</b> հանց պատասխան/Es čem i tar hanc’ patasxan_ “I don't (won't) give such an answer.”
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -50,9 +53,9 @@ The speaker uses imperative to order or ask the addressee to do the action of th
 The conditional mood is used to express actions performed under a condition or hypothetically, but they may also express an action that is certain to occur.
 In Middle Armenian it combines with two different tenses (present and imperfect).
 
-Note that In Middle Armenian the present and imperfect tenses of the conditional mood have the same form as the present and imperfect tenses of the indicative mood․ They cannot be distinguished without context:
+Note that In Middle Armenian the present and imperfect tenses of the conditional mood have the same form as the present and imperfect tenses of the indicative mood․ They cannot be distinguished without context.
 
-The negation of conditional mood is formed periphrastically using the special form of the main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. It may also be formed with infinitive 
+The negation of conditional mood is formed periphrastically using the special form of the main verb (traditionally called _negative participle_) and the negated auxiliary _չեմ_ “not to be”. It may also be formed with the infinitive with or without the preposition _ի_, as in the indicative mood. 
 The main verb is marked as [Connegative](). 
 
 #### Examples
@@ -60,12 +63,15 @@ The main verb is marked as [Connegative]().
 * _<b>կգնայի</b> տուն_ “<b>I would go</b> home, (if)”,
 * _<b>կգնամ</b> տուն_ “<b>I will go</b> home, (if)”,
 * _չեմ <b>գնա</b> տուն_ “I will not <b>go</b> home, (if)”,
-* _Որդունքն <b>չեն</b> ինձ <b>ողորմիլ</b>_ “The sons will not pity me”,
+* _Որդունքն <b>չեն</b> ինձ <b>ողորմիլ</b>_ “The sons will not (do not) pity me”,
+* _նայ <b>չէր</b> կրկին <b>յետս դառնալ</b>/nay čēr krkin yets daṙnal_ “He would not come back again”
+* _նա <b>չի այրիր</b>/na či ayrir_
 * _վազելու <b>կլինեի</b>_ “<b>I would be going</b> to run, (if)”,
 * _վազելու <b>կլինեմ</b>_ “<b>I will be going</b> to run, (if)”,
 * _տուն <b>կունենայի</b>_ “<b>I would have</b> a house, (if)”,
 * _տուն <b>կունենամ</b>_ “<b>I will have</b> a house, (if)”
 
+“”
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive / optative
 
 The subjunctive mood is used under certain circumstances in
