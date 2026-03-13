@@ -35,7 +35,7 @@ The negative forms of the present and imperfect tenses of the indicative (as wel
 * _բերդ <b>ունէին</b>/berd ownēin_ “<b>They had</b> a fortress”,
 * _<b>կապեցիր</b> բեռինք/kapec’ir beṙink’_ “<b>You tied</b> loads”,
 * _հոգւով <b>մեռած ենք</b>/hogwov meṙaç enk’_ “we <b>are</b> spiritually <b>dead</b>”,
-* _մեկ էլ ի նոցա միջին էր մեռած/mek ēl i noc’a miǰin ēr meṙaç_ “and one among them <b>was dead</b>”,
+* _մեկ էլ ի նոցա միջին <b>էր մեռած</b>/mek ēl i noc’a miǰin ēr meṙaç_ “and one among them <b>was dead</b>”,
 * _Է՞ր <b>չես ի լալ</b>/Ēr čes i lal_ “Why <b>don't (won't) you cry</b>?”
 * _Ես <b>չեմ ի տար</b> հանց պատասխան/Es čem i tar hanc’ patasxan_ “I don't (won't) give such an answer.”
 
