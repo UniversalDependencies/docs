@@ -37,7 +37,7 @@ This value is used if it is not known whether it is a given or a family name, bu
 
 #### Examples
 
-* _<b>Նար-Դոս, Գամառ-Քատիպա, Քաչալ, Կոմիտաս</b>&nbsp;_ “Nar-Dos, Gamar-Katipa, Kachal (skinhead), Komitas”
+* _<b>Շնորհալի/Šnorhali, Արևելցի/Arewelc’i, Ռոսլին/Ṙoslin, Ապիրատ/Apiṙat</b>_ “Shnorhali, Areveltsi, Roslin, Apirat”
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -54,25 +54,13 @@ Family name (surname). This is usually the last name.
 
 #### Examples
 
-* _<b>Պահլավունի/Pahlavowni, Շնորհալի/Šnorhali, Արևելցի/Arewelc’i, Ռոսլին/Ṙoslin</b>&nbsp;_ “Pahlavuni, Shnorhali, Areveltsi”
-
-### <a name="Com">`Com`</a>: company, organization, institution
-
-#### Examples
-
-* _<b>Սիմենս, ՄԱԿ, ԳԱԱ</b>&nbsp;_ “Siemens, UN, NAS”
-
-### <a name="Pro">`Pro`</a>: product
-
-#### Examples
-
-* _<b>Երազ, ԿամԱԶ, Չայկա, Մերսեդես</b>&nbsp;_ “Yeraz, Kamaz, Chaika, Mercedes”
+* _<b>Պահլավունի/Pahlavowni,  Հեթումյան/ Het'umyan_ “Pahlavuni, Hethumyan”
 
 ### <a name="Oth">`Oth`</a>: other
 
-Names of stadiums, guerilla bases, events etc.
+Names of groups, fests, events etc.
 
 #### Examples
 
-* _<b>«Հրազդան», «Դինամո», «Զվարթնոց», Զատիկ</b>&nbsp;_ “Hrazdan, Dinamo, Zvartnots, Easter”
+* _<b>Թոնդրակեցիներ/T’ondrakec’iner, Զատիկ/Zatik</b>&nbsp;_ “Tondrakians, Easter”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:25 CET -->
