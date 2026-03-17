@@ -18,18 +18,17 @@ If the numerals inflect as nouns, they are tagged [NOUN]().
 ### Examples
 
 - _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_
--	_մէկ/մեկ, երկու, իրեք/երեք, չորս, հինգ/հինկ, տասնու/վ/իրեք, քսանուչորս, քառսուն, երկու հարոյր&nbsp;_ “one, two, three, four, five, thirteen, twenty two, fourty, two hundred”
+-	_մէկ (մեկ)/mēk (mek), երկու/erkow, իրեք (երեք)/irek’ (erek’), չորս/čors, հինգ (հինկ)/hing (hink), տասնու(վ)իրեք/tasnow(v)irek’, քսանուչորս/k’sanowčors, քառսուն/k’aṙsown, երկու հարոյր/erkow haroyr;_ “one, two, three, four, five, thirteen, twenty two, fourty, two hundred”
 -	_Ա, Ժ, Է, ԺԱ, Ն, Ռ_ “1, 10, 7, 11, 400, 1000”
--	_կէս, չարէկ&nbsp;_ “one-half, quarter”: denominators of fractions constitute a separate class of cardinal numerals.
+-	_կէս/kēs, չարէկ/čarēk_ “one-half, quarter”: denominators of fractions constitute a separate class of cardinal numerals.
 
 ### Counterexamples
 
 -	_առջի/aṙǰi, երկուսում/erkowsowm, իրեքում/irek’owm_ “first, second, third”: adjectival ordinal numerals. They are tagged [ADJ](), and the [NumType]() feature reveals their semantic relation to numbers.
-- _մէկ-մէկ, երկու-երկու, իրեք-իրեք&nbsp;_ “one at a time, two at a time, three at a time”: adverbial distibutive numerals. They are tagged [ADV](), and the [NumType]() feature reveals their semantic relation to numbers.
+- _մէկ-մէկ/mēk-mēk, երկու-երկու/erkow-erkow, իրեք-իրեք/irek’-irek’_ “one at a time, two at a time, three at a time”: adverbial distibutive numerals. They are tagged [ADV](), and the [NumType]() feature reveals their semantic relation to numbers.
 
 ### Border cases
 
-- _միատակ, չորստակ, հինգ պատիկ/հինգպատիկ, երեք/ տարպայ&nbsp;_ “once, four-time(s), five time(s), three times” are not considered numerals in the Armenian grammar. They are tagged either [ADJ]() or [ADV]().
--	_հարյուրավոր, հազարավոր, միլիոնավոր, միլիարդավոր&nbsp;_ “hundreds of, thousands of, millions of, billions of”: expressions _-s of_, for instance, in phrases like _<b>հազարավոր</b> մարդիկ էին դուրս եկել փողոց&nbsp;_ “<b>thousands</b> of people went on the streets” are adjectives and tagged [ADJ]().
--	_հարոյր/հարուր/հարիր/հարիւր հազար&nbsp;_ “hundred, thousand”: words for large quantities are ambiguous between cardinal numerals (tagged `NUM`) and nouns. 
+- _միատակ/miatak, չորստակ/čorstak, հինգ պատիկ (հինգպատիկ)/ hing patik (hingpatik), երեք տարպայ/erek’ tarpay_ “once, four-time(s), five time(s), three times” are not considered numerals in the Armenian grammar. They are tagged either [ADJ]() or [ADV]().
+-	_հարոյր/հարուր/հարիր/հարիւր/haroyr/harowr/harir/hariwr, հազար/hazar;_ “hundred, thousand”: words for large quantities are ambiguous between cardinal numerals (tagged `NUM`) and nouns. 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->
