@@ -29,7 +29,7 @@ Names of cities, countries, rivers, mountains etc.
 
 #### Examples
 
-* _<b>Պօլիս/Pòlis, Շուղր/Šowġr, Հռօմկլայ/Hṙòmklay, Մերզիման/Merziman, Սամոսատ/Samosat</b>&nbsp;_ “Constantinople, Shughr, Rumkale, Germany, of Van, of Sevan”
+* _<b>Պօլիս</b>/Pòlis, <b>Շուղր</b>/Šowġr, <b>Հռօմկլայ</b>/Hṙòmklay, <b>Մերզիման</b>/Merziman, <b>Սամոսատ</b>/Samosat_ “Constantinople, Shughr, Rumkale, Germany, of Van, of Sevan”
 
 ### <a name="Prs">`Prs`</a>: name of person
 
@@ -37,7 +37,7 @@ This value is used if it is not known whether it is a given or a family name, bu
 
 #### Examples
 
-* _<b>Շնորհալի/Šnorhali, Արևելցի/Arewelc’i, Ռոսլին/Ṙoslin, Ապիրատ/Apiṙat</b>_ “Shnorhali, Areveltsi, Roslin, Apirat”
+* _<b>Շնորհալի</b>/Šnorhali, <b>Արևելցի</b>/Arewelc’i, <b>Ռոսլին</b>/Ṙoslin, <b>Ապիրատ</b>/Apiṙat_ “Shnorhali, Areveltsi, Roslin, Apirat”
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -45,7 +45,7 @@ Given name (not family name). This is usually the first name.
 
 #### Examples
 
-* _<b>Հեթում/Het’owm, Վասակ/Vasak, Պօղոս/Pòġos, Շահաբաս/Šahabas</b>_ “Hethum, Vasak, Paul, Shah Abbas”
+* _<b>Հեթում</b>/Het’owm, <b>Վասակ</b>/Vasak, <b>Պօղոս</b>/Pòġos, <b>Շահաբաս</b>/Šahabas_ “Hethum, Vasak, Paul, Shah Abbas”
 
 
 ### <a name="Sur">`Sur`</a>: surname / family name of person
@@ -54,7 +54,7 @@ Family name (surname). This is usually the last name.
 
 #### Examples
 
-* _<b>Պահլավունի/Pahlavowni,  Հեթումյան/ Het'umyan</b>_ “Pahlavuni, Hethumyan”
+* _<b>Պահլավունի</b>/Pahlavowni,  <b>Հեթումյան<b>/Het'umyan_ “Pahlavuni, Hethumyan”
 
 ### <a name="Oth">`Oth`</a>: other
 
