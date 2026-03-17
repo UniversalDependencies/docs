@@ -79,8 +79,8 @@ with two different tenses (imperfect and present).
 #### Examples
 
 * _Եւ զայս գիրքս շինեցաք, զի որք <b>կարդան</b>` հեշտութեամբ <b>յիմանան</b>:/Ew zays girk’s šinec’ak’ zi ork’ kardan heštowt’eamb yimanan_ “And we composed this book so that those who read it may understand it with ease.”
-* _լուսանայր/lowsanayr_ “(I wish) it would dawn”
-* _տուն մտնուի_ “(I would like) to enter the house”
+* _<b>լուսանայր</b>/lowsanayr_ “(I wish) it would dawn”
+* _<b>տուն մտնուի</b>/town mtnowi_ “(I would like) to enter the house”
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
