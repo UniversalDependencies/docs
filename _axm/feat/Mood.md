@@ -67,7 +67,7 @@ The main verb is marked as [Connegative]().
 * _<b>կոյ մտանեմ</b>_ “<b>I will enter/I enter</b>”,
 * _Որդունքն <b>չեն</b> ինձ <b>ողորմիլ</b>_ “The sons will not (do not) pity me”,
 * _նայ <b>չէր</b> կրկին <b>յետս դառնալ</b>/nay čēr krkin yets daṙnal_ “He would not come back again”
-* _նա <b>չի այրիր</b>/na či ayrir_ “he/she <b>will not burn/does not burn<b>”,
+* _նա <b>չի այրիր</b>/na či ayrir_ “he/she <b>will not burn/does not burn</b>”
 
 
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive / optative
@@ -78,22 +78,24 @@ with two different tenses (imperfect and present).
 
 #### Examples
 
-* _Եւ զայս գիրքս շինեցաք, զի որք <b>կարդան</b>` հեշտութեամբ <b>յիմանան</b>/Ew zays girk’s šinec’ak’ zi ork’ kardan heštowt’eamb yimanan_ And we composed this book so that those who read it may understand it with ease․
+* _Եւ զայս գիրքս շինեցաք, զի որք <b>կարդան</b>` հեշտութեամբ <b>յիմանան</b>:/Ew zays girk’s šinec’ak’ zi ork’ kardan heštowt’eamb yimanan_ “And we composed this book so that those who read it may understand it with ease.”
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
 The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
 
-Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>_ or the impersonal predicative _<b>պետք է</b>_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
+Middle Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>_ or its reduced forms _<b>պիտ, տի</b>_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
 
-The mood particle _<b>պիտի</b>_ is historically present tense of the verb _<b>պիտիմ</b>_ (`Ind`, `Sing`, `Person=3`) “to by necessary, useful”. The impersonal predicative _<b>պետք է</b>_ “lit: is needed” accompanied with subjunctive finite form of verbs is used as a variant of mood particle. This expresses compulsary, oblicative necessity.
+The mood particle _<b>պիտի</b>_ is historically present tense of the verb _<b>պիտիմ</b>_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. It expresses compulsary, oblicative necessity.
 
 The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive.
 
-Note, that the mood particles are viewed as [AUX]() and can inflect for [Polarity]() (e.g. _<b>չ</b>պիտի, <b>չ</b>պետք է_). They will have `Mood=Nec`. 
+Note, that the mood particle is viewed as [AUX]() and can inflect for [Polarity]() (e.g. _<b>չ</b>պիտի_). It will have `Mood=Nec`. 
 
 #### Examples
 
-* Նա _<b>պիտի (պետք է)</b> գնա տուն_ “He <b>must</b> go home”,
-* Նա _<b>պիտի (պետք է)</b> գնար տուն_ “He <b>had</b> to go home”
+* _<b>պիտի</b> եփի_ “it <b>must</b> boil”,
+* _<b>պիտի</b> heranas_ “(you) <b>have</b> to go away”,
+* _<b>տի</b> բերէր_ “(he/she/it) <b>had</b> to bring”.
+  
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->
