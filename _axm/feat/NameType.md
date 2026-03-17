@@ -54,7 +54,7 @@ Family name (surname). This is usually the last name.
 
 #### Examples
 
-* _<b>Պահլավունի/Pahlavowni,  Հեթումյան/ Het'umyan_ “Pahlavuni, Hethumyan”
+* _<b>Պահլավունի/Pahlavowni,  Հեթումյան/ Het'umyan</b>_ “Pahlavuni, Hethumyan”
 
 ### <a name="Oth">`Oth`</a>: other
 
