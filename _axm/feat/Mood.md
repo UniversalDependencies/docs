@@ -79,23 +79,25 @@ with two different tenses (imperfect and present).
 #### Examples
 
 * _Եւ զայս գիրքս շինեցաք, զի որք <b>կարդան</b>` հեշտութեամբ <b>յիմանան</b>:/Ew zays girk’s šinec’ak’ zi ork’ kardan heštowt’eamb yimanan_ “And we composed this book so that those who read it may understand it with ease.”
+* _լուսանայր/lowsanayr_ “(I wish) it would dawn”
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
 The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
 
-Middle Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>_ or its reduced forms _<b>պիտ, տի</b>_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
+Middle Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>/piti_ or its reduced forms _<b>պիտ/pit, տի</b>/ti_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
 
-The mood particle _<b>պիտի</b>_ is historically present tense of the verb _<b>պիտիմ</b>_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. It expresses compulsary, oblicative necessity.
+The mood particle _<b>պիտի</b>/piti_ is historically present tense of the verb _<b>պիտիմ</b>pitim_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. It expresses compulsary, oblicative necessity.
 
 The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive.
 
-Note, that the mood particle is viewed as [AUX]() and can inflect for [Polarity]() (e.g. _<b>չ</b>պիտի_). It will have `Mood=Nec`. 
+Note, that the mood particle is viewed as [AUX]() and can inflect for [Polarity]() (e.g. _<b>չ</b>պիտի/čpiti_). It will have `Mood=Nec`. 
 
 #### Examples
 
-* _<b>պիտի</b> եփի_ “it <b>must</b> boil”,
-* _<b>պիտի</b> heranas_ “(you) <b>have</b> to go away”,
-* _<b>տի</b> բերէր_ “(he/she/it) <b>had</b> to bring”.
+* _<b>պիտի</b> եփի/piti ep’i_ “it <b>must</b> be cooked”,
+* _<b>պիտի</b> հեռանաս/piti heṙanas_ “(you) <b>have</b> to go away”,
+* _<b>տի</b> բերէր/ti berēr_ “(he/she/it) <b>had</b> to bring”
+* _երդմանն <b>չպիտի</b> աւտալ/erdmann čpiti awtal_ One must not believe the oath.
   
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->
