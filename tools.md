@@ -240,13 +240,13 @@ The editor provides the following functionalities:
 
 #### BoAT
 
-BoAT (Boğaziçi University Annotation Tool) is a collaborative grammatical annotation tool. It supports annotating CoNLL-U files. Some of its features are autocompletion, UD validation, visualization of dependency graphs and advanced search. It's capable of serving multiple treebanks and annotators.
+BoAT (Boğaziçi University Annotation Tool) is a collaborative annotation tool for Universal Dependencies treebanks. It supports sentence-by-sentence CoNLL-U annotation with dependency graph visualization, autocompletion, UD validation, advanced search, inter-annotator agreement, and multi-treebank/multi-annotator management. BoAT is available as both a web application and a desktop app (via Tauri), with the desktop app supporting offline annotation of local CoNLL-U files.
 
 * Category: manual annotation tool
-* Platform: any (browser-based)
-* Implementation: Python (server), JavaScript (client)
+* Platform: any (browser-based); desktop app for Linux, macOS, Windows
+* Implementation: Python/FastAPI (server), SvelteKit/TypeScript (client), Rust/Tauri (desktop)
 * License: MIT (open source)
-* Homepage: [github.com/furkanakkurt1335/boat](https://github.com/furkanakkurt1335/boat)
+* Homepage: [gitlab.com/furkan5204/boat](https://gitlab.com/furkan5204/boat)
 * References: [Akkurt et al. (2022)](https://ceur-ws.org/Vol-3315/paper01.pdf)
 * Contact: Furkan Akkurt (furkan.akkurt@bogazici.edu.tr)
 
