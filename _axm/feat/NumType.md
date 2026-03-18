@@ -34,7 +34,7 @@ between numerals and nouns for _thousand, million_ and _billion._
 #### Examples
 
 * _1, 2, 3_
-*  _մեկ/mek_ “one”, _երկու/erkow_ “two”, _իրեք (երեք)/irek’ (erek’)_ “three”
+*  _մեկ/mek, երկու/erkow, իրեք (երեք)/irek’ (erek’)_ “one, two, three”
 
 ### <a name="Ord">`Ord`</a>: ordinal number
 
