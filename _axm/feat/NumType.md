@@ -16,7 +16,7 @@ udver: '2'
 </tr>
 </table>
 
-Armenian has a complex system of [numerals](NUM). In the school grammar of Armenian, the part of speech “numeral” includes only words where a precise counting or quantity is involved.
+In Middle Armenian the part of speech [numerals](NUM) includes only words where a precise counting or quantity is involved.
 
 From the syntactic point of view, some numtypes behave like adjectives and some behave like adverbs. We tag them [ADJ]() and [ADV]() respectively. Thus the `NumType` feature applies to several different parts of speech:
 
@@ -24,7 +24,7 @@ From the syntactic point of view, some numtypes behave like adjectives and some 
 * [ADJ](): adjectival ordinal numerals
 * [ADV](): adverbial distributive numerals
 
-Note that there are no _adverbial ordinal_ and _multiplicative numerals_ in Armenian.
+Note that there are no _adverbial ordinal_ and _multiplicative numerals_ in Middle Armenian.
 
 ### <a name="Card">`Card`</a>: cardinal number
 
@@ -34,7 +34,7 @@ between numerals and nouns for _thousand, million_ and _billion._
 #### Examples
 
 * _1, 2, 3_
-* _մեկ_ “one”, _երկու_ “two”, _երեք_ “three”
+*  _մեկ/mek_ “one”, _երկու/erkow_ “two”, _իրեք (երեք)/irek’ (erek’)_ “three”
 
 ### <a name="Ord">`Ord`</a>: ordinal number
 
@@ -42,8 +42,7 @@ This is a subtype of adjective.
 
 #### Examples
 
-* _1-ին, 2-րդ, 3-րդ_
-* _առաջին_ “first”, _երկրորդ_ “second”, _երրորդ_ “third”
+* _առջի/aṙǰi, երկուսում/erkowsowm, իրեքում/irek’owm_ “first, second, third”
 
 ### <a name="Frac">`Frac`</a>: fraction
 
@@ -51,19 +50,16 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 
 #### Examples
 
-* _3/4 (երեք քառորդ)_ “three-quarters”
-* _կես_ “half”, _քառորդ_ “quarter”, _<b>1/3 (մեկ երրորդ)</b>_ մասը “one <b>third</b> part”
+* _կէս/kēs, չարէկ/čarēk_ “one-half, quarter”
+* _երեքակ/erek’ak, հնկակ/hnkak, տասնակ/tasnak_ “one third, one fifth, one tenth”
 
 ### <a name="Dist">`Dist`</a>: distributive numeral
 
 Used to express that the same quantity is distributed to each member in a set of targets.
 
-Note that _<b>20-ական, 30-ական</b> թվականներին_.`Plur` “by twenty, thirthies” are not considered distributive numerals, we mark them either `ADJ` or `NOUN`.
-
 #### Examples
 
-* _<b>երեքական (երեք-երեք)</b> խնձոր յուրաքանչյուրին_ “three apples per / for each one”
-* _<b>3-ական</b> խնձոր յուրաքանչյուրին_ “three apples per / for each one”
+*_մէկ-մէկ/mēk-mēk, երկու-երկու/erkow-erkow, իրեք-իրեք/irek’-irek’_ “one at a time, two at a time, three at a time”
 
 ### <a name="Range">`Range`</a>: range of values
 
@@ -72,5 +68,5 @@ This could be considered a subtype of cardinal numbers (provided tokenization le
 #### Examples
 
 * _4-5 (չորս-հինգ)_ “four-five” (“either four or five”)
-* _10-15 (տասից տասնհինգ)_ “ten fifteen” (“from ten to fifteen”)
+* _10-15 (տասն-տասնուհինկ)_ “ten fifteen” (“from ten to fifteen”)
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:33 CET -->
