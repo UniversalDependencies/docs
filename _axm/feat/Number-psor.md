@@ -15,15 +15,15 @@ udver: '2'
 
 Possessives may have two different numbers: that of the possessed object (number agreement with modified noun) and that of the possessor. The `Number[psor]` feature captures the possessor's number.
 
-Note that in traditional Armenian grammars besides the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These make a distinction between the objects, that
-are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
+Note that in Middle Armenian grammars besides the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
 
 See also the relatived feature [Person[psor]]().
 
 ### <a name="Sing">`Sing`</a>: singular possessor
 
 #### Examples
-
+ 
+* _Մինչ որ վճարի պարտքեր<b>ս</b>, որ ի յիմ շալակ<b>ս</b> է կուսած/Minč or vč̣ari partk’ers, or i yim šalaks ē kowsaç_ “Until He pays _my debts_, which have accumulated upon _my shoulders_” `Number[psor]=Sing|Number=Sing`
 * _տուն<b>ս</b>_ “<b>my</b> house” `Number[psor]=Sing|Number=Sing`
 * _տներ<b>ս</b>_ “<b>my</b> houses” `Number[psor]=Sing|Number=Plur`
 * _գալ<b>ս</b>_ “<b>my</b> coming” `Number[psor]=Sing|Number=Coll`
