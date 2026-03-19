@@ -24,10 +24,13 @@ See also the relatived feature [Person[psor]]().
 #### Examples
  
 * _Մինչ որ վճարի պարտքեր<b>ս</b>, որ ի յիմ շալակ<b>ս</b> է կուսած/Minč or vč̣ari partk’ers, or i yim šalaks ē kowsaç_ “Until He pays _my debts_, which have accumulated upon _my shoulders_” `Number[psor]=Sing|Number=Sing`
-*  _Ես այդ աթոռոյ<b>դ</b> տէրն  եմ/Es ayd at’oṙoyd tērn em_ “I am the owner of _that_ chair”
-*  _Թագուոր մի կայր,  աչուի<b>ն</b> էր խաժ/T’agowor mi kayr,  ačowin ēr xaž_ “There was a King, his eyes were sea-blue”
+* _Ես այդ աթոռոյ<b>դ</b> տէրն  եմ/Es ayd at’oṙoyd tērn em_ “I am the owner of _that_ chair”
+* _Թագուոր մի կայր,  աչուի<b>ն</b> էր խաժ/T’agowor mi kayr,  ačowin ēr xaž_ “There was a King, his eyes were sea-blue”
 
 ### <a name="Plur">`Plur`</a>: plural possessor
+
+The suffix _-նի/-ni_ followed by a possessive article, is used to express the plurality of the possessor when attached to a possessed object that is already in the plural.
+Note that this ending may also occur with a possessed object in the singular. In such cases, it functions simply as a plural marker for the noun itself and cannot be analyzed as indicating a plural possessor.
 
 #### Examples
 
