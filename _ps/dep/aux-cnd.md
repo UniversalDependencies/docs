@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 The conditional auxiliary of a clause is the word **بۀ _bë_**
-or the **conditional form وای _wây_ of the auxiliary verb ول _wël_ “to be”**
+or the conditional form **وای _wây_** of the auxiliary verb ول _wël_ “to be”
 used to construct the [conditional mood](ps-feat/Mood).
 
 The auxiliary **بۀ _bë_** is used to express irreal consequence in the main clause of a conditional sentence.
