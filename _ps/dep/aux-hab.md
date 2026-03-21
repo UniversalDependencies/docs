@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 ### Auxiliary particle بۀ _bë_
-It is used to habitual aspect of the past tense.
-It depends on the main verb in the past imperfective indicative form.
+The habitual auxiliary of a clause is a word used to construct the habitual aspect of the past tense.
+It depends with the `aux:hab` relation on the main verb in the past imperfective indicative form.
 
 #### Examples
