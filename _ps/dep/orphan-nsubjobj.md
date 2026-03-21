@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'orphan:nsubjobj'
-shortdef: 'orphaned arguments of elided predicate, object depending on subject'
+shortdef: 'orphan object depending on orphan subject'
 udver: '2'
 ---
 
