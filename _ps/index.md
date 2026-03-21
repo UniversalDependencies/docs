@@ -102,22 +102,29 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 * The following relation subtypes are used in Pashto:
   
   Auxiliaries (see [aux](./dep/aux_.html)):
-  * [aux:cnd](./dep/aux-cnd.html) for conditional mood
-  * [aux:fut](./dep/aux-fut.html) for future tense
-  * [aux:hab](./dep/aux-hab.html) for habitual past tense
-  * [aux:pass](./dep/aux-pass.html) for passive voice
-  * [aux:perf](./dep/aux-perf.html) for perfect tenses (do not confuse with the perfective aspect)
-  * [aux:pot](./dep/aux-pot.html) for potential mood
-  * [aux:sub](./dep/aux-pot.html) for subjunctive mood (only for irregular verb تلل _tlël_ “to go”)
+  * [aux:cnd](./dep/aux-cnd.html) for conditional mood auxiliary
+  * [aux:fut](./dep/aux-fut.html) for future tense auxiliary
+  * [aux:hab](./dep/aux-hab.html) for habitual past tense auxiliary
+  * [aux:pass](./dep/aux-pass.html) for passive voice auxiliary
+  * [aux:perf](./dep/aux-perf.html) for perfect tenses auxiliary (do not confuse with the perfective aspect)
+  * [aux:pot](./dep/aux-pot.html) for potential mood auxiliary
+  * [aux:sub](./dep/aux-pot.html) for subjunctive mood auxiliary (only for irregular verb تلل _tlël_ “to go”)
   
   Orphan constructions (see [orphan](./dep/orphan.html)):
-  * [orphan:nsubjobj](./dep/orphan-nsubjobj.html) for orphan objects dependent on orphan subjects
-  * [orphan:nsubjobl](./dep/orphan-nsubjobl.html) for orphan obliques dependent on orphan subjects
-  * [orphan:objobl](./dep/orphan-objobl.html) for orphan obliques dependent on orphan objects
+  * [orphan:nsubjobj](./dep/orphan-nsubjobj.html) for orphan object dependent on orphan subject
+  * [orphan:nsubjobl](./dep/orphan-nsubjobl.html) for orphan oblique dependent on orphan subject
+  * [orphan:objobl](./dep/orphan-objobl.html) for orphan oblique dependent on orphan object
+
+  Relative clauses:
+  * `acl:relcl` for adnominal relative clause modifier
+  * `advcl:relcl` for adverbial relative clause modifier
  
   Other:
-  * [nsubj:pass](./dep/nsubj-pass.html) for passive nominal subjects
+  * [nsubj:pass](./dep/nsubj-pass.html) for passive nominal subject
   * [compound:lvc](./dep/compound-lvc.html) for nominal part of light verb construction
+  * `obl:agent` for oblique agent in passive construction
+  * `obl:arg` for oblique argument
+  * `flat:foreign` for flat foreign expressions
 
 ## Treebanks
 There are two Pashto UD treebanks:
