@@ -24,7 +24,7 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
   * The existential word شته _šta_ “there is / there are”, tagged as [VERB](), has only one form, so it is used as the lemma.
 
 ### Tags
-* The overview of part-of-speech tags used in Pashto can be found [here](pos-index.html).
+* The overview of part-of-speech tags used in Pashto can be found [here](pos/index.html).
 * Pashto uses all 17 universal tags.
 * Several words are tagged as [PART]():
   * Negative particles نه _në_ and مه _ma_ “no, not” and the affirmative particle هو _ho_ “yes”.
