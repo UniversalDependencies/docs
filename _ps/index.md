@@ -101,7 +101,7 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 ### Relations Overview
 * The following relation subtypes are used in Pashto:
   
-  Auxiliaries (see [aux](./dep/aux.html)):
+  Auxiliaries (see [aux](./dep/aux_.html)):
   * [aux:pass](./dep/aux-pass.html) for passive voice
   * [aux:pot](./dep/aux-pot.html) for potential mood
   * [aux:perf](./dep/aux-perf.html) for perfect tenses (do not confuse with the perfective aspect)
@@ -115,8 +115,8 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
   * [orphan:objobl](./dep/orphan-objobl.html) for orphan obliques dependent on orphan objects
  
   Other:
-  * [nsubj:pass]() for nominal subjects of passive
-  * [compound:lvc]() for nominal part of light verb construction
+  * [nsubj:pass](./dep/nsubj-pass.html) for passive nominal subjects
+  * [compound:lvc](./dep/compound-lvc.html) for nominal part of light verb construction
 
 ## Treebanks
 There are two Pashto UD treebanks:
