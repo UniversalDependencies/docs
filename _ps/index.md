@@ -102,12 +102,13 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 * The following relation subtypes are used in Pashto:
   
   Auxiliaries (see [aux](./dep/aux_.html)):
-  * [aux:pass](./dep/aux-pass.html) for passive voice
-  * [aux:pot](./dep/aux-pot.html) for potential mood
-  * [aux:perf](./dep/aux-perf.html) for perfect tenses (do not confuse with the perfective aspect)
+  * [aux:cnd](./dep/aux-cnd.html) for conditional mood
   * [aux:fut](./dep/aux-fut.html) for future tense
   * [aux:hab](./dep/aux-hab.html) for habitual past tense
-  * [aux:cnd](./dep/aux-cnd.html) for conditional mood
+  * [aux:pass](./dep/aux-pass.html) for passive voice
+  * [aux:perf](./dep/aux-perf.html) for perfect tenses (do not confuse with the perfective aspect)
+  * [aux:pot](./dep/aux-pot.html) for potential mood
+  * [aux:sub](./dep/aux-pot.html) for subjunctive mood (only for irregular verb تلل _tlël_ “to go”)
   
   Orphan constructions (see [orphan](./dep/orphan.html)):
   * [orphan:nsubjobj](./dep/orphan-nsubjobj.html) for orphan objects dependent on orphan subjects
