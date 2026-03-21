@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'orphan:nsubjobl'
-shortdef: 'orphaned arguments of elided predicate, oblique depending on subject'
+shortdef: 'orphan oblique depending on orphan subject'
 udver: '2'
 ---
 
