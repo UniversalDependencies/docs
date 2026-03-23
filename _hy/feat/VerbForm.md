@@ -35,12 +35,18 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 ### <a name="Inf">`Inf`</a>: infinitive
 
 Infinitive is the citation form of verbs. In Armenian it has non-finite form. It is used with the auxiliary _տալ&nbsp;_ to form periphrastic causative voice, and it appears as the argument of other verbs.
+The infinitive shares properties of verbs and nouns. It inflects for [Case](), [Definite](), [Number](), [Number[psor]]() and [Person[psor]]().
 
 #### Examples
 
 * _<b>խմել</b> տվեցի_ &nbsp;“I made him <b>drink</b>”,
 * _կարող ես <b>գնալ</b>_ &nbsp;“you can <b>go</b>”,
 * _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I decided <b>not to say</b> immediately”
+* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”,
+* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: she get used to <b>give birth</b> alone”,
+* _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
+* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: he came up <b>running</b>”,
+* _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: he was skillful <b>in telling speeches</b>”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
@@ -89,17 +95,5 @@ Verbs form transgressive meaning “while doing”.
 * _<b>կարդալիս</b> ննջեց_ &nbsp;“he slept <b>while reading</b>”,
 * _<b>ուտելիս</b> շտապում է_ &nbsp;“he hurries <b>while eating</b>”
 
-### <a name="Gdv">`Gdv`</a>: gerundive
 
-Gerundive in Armenian is a non-finite verb form that shares properties of verbs and nouns. They inflect for [Case](), [Definite](), [Number](), [Number[psor]]() and [Person[psor]]().
-
-Not to confuse with gerund.
-
-#### Examples
-
-* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”,
-* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: she get used to <b>give birth</b> alone”,
-* _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: he came up <b>running</b>”,
-* _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: he was skillful <b>in telling speeches</b>”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:54 CET -->
