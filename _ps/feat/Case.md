@@ -154,7 +154,7 @@ Other nouns and adjectives (all masculine/feminine, singular/plural) share the f
 #### Examples
 * **زلمیه هلکه**، دلته راشه _**zalmáya halë́ka**, dë́lta rấša_ “young boy, come here”
 * **ړندې پېغلې**، دلته راشه _**ṛandé péġle**, dë́lta rấša_ “blind girl, come here”
-* **نوو کورونو**، دلته راشه _**në́wo korúno**, dë́lta rấša_ “new houses, come here”
+* **نوو کورونو**، دلته راشئ _**në́wo korúno**, dë́lta rấšëy_ “new houses, come here”
 
 
 ### <a name="Gen">`Gen`</a>: genitive
