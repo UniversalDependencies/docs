@@ -29,7 +29,7 @@ _դժպատահութիւն/džpatahowt’iwn_ “irrelevance”, _տխօս/txò
 #### Examples
 
 * _<b>ասաց</b>/asac’_ “he said”
-* _<b>են</b>en_ “they are”
+* _<b>են</b>/en_ “they are”
 * _<b>պիտի</b> աւտալ/piti awtal_ “one should believe”
 
 ### <a name="Neg">`Neg`</a>: negative
