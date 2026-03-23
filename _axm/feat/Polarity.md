@@ -28,15 +28,15 @@ _դժպատահութիւն/džpatahowt’iwn_ “irrelevance”, _տխօս/txò
 
 #### Examples
 
-* _<b>ասաց</b>;_ “he said”
-* _<b>են</b>&nbsp;_ “they are”
-* _<b>պիտի (պետք է)</b> գրեն&nbsp;_ “they must write”
+* _<b>ասաց</b>/asac’_ “he said”
+* _<b>են</b>en_ “they are”
+* _<b>պիտի</b> աւտալ/piti awtal_ “one should believe”
 
 ### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 
-* _<b>չասաց</b>_ “he did not say”
-* _<b>չեն</b>&nbsp;_ “they are not”
-* _<b>չպիտի (չպետք է)</b> գրեն&nbsp;_ “they mustn't write”
+* _<b>չասաց</b>/časac’_ “he did not say”
+* _<b>չեն</b>/čen_ “they are not”
+* _<b>չպիտի</b> աւտալ/čpiti awtal_ “one should not believe”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:39 CET -->
