@@ -18,6 +18,7 @@ Boolean feature. Is this an abbreviation? Note that the abbreviated word typical
 
 #### Examples
 
-  _<b>թվ</b>. (թվական)&nbsp;_ “year”,
+  _<b>թվ</b>. (թվական)_ “year”,
+  _<b>տհմ</b> (տիրհեմ)_ “dirhem”
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:59 CET -->
