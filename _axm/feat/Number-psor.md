@@ -37,5 +37,5 @@ It is important to note that this can create ambiguity: a form like տներնի
 #### Examples
 
 * _հայրեր<b>նիս</b>/hayrernis_ “<b>our</b> fathers” `Number[psor]=Plur|Number=Plur`
-* _տներ<b>նիս</b>/tnernis_ “<b>our</b> houses” `Number[psor]=Plur|Number=Coll`
+* _տներ<b>նիս</b>/tnernis_ “<b>my/our</b> houses” `Number[psor]=Sing/Plur|Number=Plur`
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->
