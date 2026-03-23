@@ -55,7 +55,7 @@ A plural noun denotes several persons, animals or things. There are many endings
 * _<b>գրաստնի</b>/grastni_ “beasts of burden”
 * _<b>մանկտի</b>/mankti_ “children”
 * _<b>ծառայք</b>/çaṙayk'_ “servants”
-* _<b>տներ</b>/tner “houses”
+* _<b>տներ</b>/tner_ “houses”
   
 Pronouns that refer to several persons, animals or things are also marked with this feature.
 
