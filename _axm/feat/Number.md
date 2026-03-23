@@ -27,7 +27,7 @@ A singular noun denotes one person, animal or thing.
 * _<b>գրաստ</b>/grast_ “beast of burden”
 * _<b>մանուկ</b>/manuk_ “child”
 * _<b>ծառայ</b>/çaṙay_ “servant”
-* _<b>տուն</b>/town “house”
+* _<b>տուն</b>/town_ “house”
 
 Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
 
