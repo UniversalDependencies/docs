@@ -135,7 +135,7 @@ img.icon {
 
 body {
 /*   font-family: 'Open Sans', arial, sans-serif; */
- font-family: 'Open Sans', Arial, freesans, sans-serif; 
+ font-family: 'Open Sans', Arial, freesans, sans-serif;
   /* font-family: 'Source Sans Pro', Arial, freesans, sans-serif; */
   font-size: 14px;
   overflow-y: scroll;
@@ -204,7 +204,7 @@ div.center {
 }
 
 #main {
-  max-width:1000px;
+  max-width:1100px;
   min-width: 600px;
   padding-left: 2em;
   padding-right: 2em;
@@ -475,12 +475,12 @@ h4, h5, h6 {
 
 .widespan {
     display: inline-block;
-    width: 9%;
+    width: 8%;
 }
 
 .doublewidespan {
     display: inline-block;
-    width: 18%;
+    width: 16%;
 }
 
 .triplewidespan {
