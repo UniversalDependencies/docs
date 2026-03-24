@@ -26,5 +26,5 @@ means that empty value has the `No` meaning).
 
 * possessive personal pronouns / determiners: _իմ/im_ “my”, _քո/ko_ “your”, _իւր(իր)/iwr_ “his/her/its”, _մեր/mer_ “our”, _ձեր/jer_ “your” (pl.),
   իրենց (իրանց, իւրեանց, իւրենց)/irenc’ (iranc’, iwreanc’,  iwrenc’) “thair”
-* possessive relative pronouns/determiners: _ում, որոյ (որու)_ “whose”
+* possessive relative pronouns/determiners: _ում/owm_, _որոյ (որու)/oroy (orow)_ “whose”
 * <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:41 CET -->
