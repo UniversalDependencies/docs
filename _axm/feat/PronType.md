@@ -36,15 +36,19 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the [Reflex]() fe
 * _ինձ (ինձի, ինձիկ)/inj (inji, injik)_ “me”, _քեզ (քեզի, քեզիկ, քէ)/k’ez (k’ezi, k’ezik, k’ē)_ “you”, _իրեն/iren_ “him/her”, _մեզ (մեզի, մեզիկ)/mez (mezi, mezik)_ “us”, _ձեզ/jez_ “you”, _իրենց (իւրեանց, իւրենց)/irenc’ (iwreanc’, iwrenc’)_ “them”
 
 
-### <a name="Pօss">`Pօss`</a>:possessive pronoun or determiner
+### <a name="Pօss">`Pօss`</a>: possessive pronoun or determiner
 
-* possessive personal determiners:
-  _իմ/im_ “my”, _քո/ko_ “your”, _իւր (իր)/iwr (ir)_ “his/her/its”, _մեր/mer_ “our”, _ձեր/jer_ “your”, _իրենց (իրանց, իւրեանց, իւրենց)/irenc’ (iranc’, iwreanc’,  iwrenc’)_ “their”
-* possessive personal pronouns:
-  _իմոյ/imoy_ “of mine”, _իմոյ, իմում/imoy, imowm_ “to mine”, _զիմ/zim_ “mine”, _յիմմէ/yimmē_ “from mine”, _իմով/imov_ “with mine”, _յիմոց/yimoc’_ “from those of mine”, _իմովք/imovk’_ “with those of mine”
-  _քոյին/k’oyin_ “of yours”, _ի քումէ/i k’owmē_ “from yours”, _քոց/k’oc’_ “of yours” (pl.), _ի քուոց/i k’owoc’_ “from those of yours” (pl.)
-  _իւրոյ/iwroy_ “of his/hers/its”, _իւրում/iwrowm_ “to his/hers/its”, _զիւր/ziwr_ “his/hers/its”, _ի յիւրոյն/i yiwroyn_ “from his/hers/its”, _իւրով/iwrov_ “with his/hers/its”, _իւրոց/iwroc’_ “to theirs”, _յիւրոց/yiwroc’_ “from theirs”, _իւրովք/iwrovk’_ “with theirs” 
-  _մերոյ/meroy_ “of ours” _մերում/merowm_ “to ours” _ի մերմէ/i mermē_ “from ours” _մերով/merov_ “with ours” _ի ձերմէ/i jermē_ “from yours”, _ձերովք/jerovk’_ “with those of yours”
+In Middle Armenian, a separate nominal declension paradigm is formed from the genitive forms of personal pronouns. Consequently, a distinction is made between possessive determiners and possessive pronouns.
+
+<b>Possessive personal determiners:</b>
+*  _իմ/im_ “my”, _քո/ko_ “your”, _իւր (իր)/iwr (ir)_ “his/her/its”, _մեր/mer_ “our”, _ձեր/jer_ “your”, _իրենց (իրանց, իւրեանց, իւրենց)/irenc’ (iranc’, iwreanc’,  iwrenc’)_ “their”
+
+<b>Possessive personal pronouns:</b>
+ * _իմոյ/imoy_ “of mine”, _իմոյ, իմում/imoy, imowm_ “to mine”, _զիմ/zim_ “mine”, _յիմմէ/yimmē_ “from mine”, _իմով/imov_ “with mine”, _յիմոց/yimoc’_ “from those of mine”, _իմովք/imovk’_ “with those of mine”
+ * _քոյին/k’oyin_ “of yours”, _ի քումէ/i k’owmē_ “from yours”, _ի քուոց/i k’owoc’_ “from those of yours” (pl.)
+ * _իւրոյ/iwroy_ “of his/hers/its”, _իւրում/iwrowm_ “to his/hers/its”, _զիւր/ziwr_ “his/hers/its”, _ի յիւրոյն/i yiwroyn_ “from his/hers/its”, _իւրով/iwrov_ “with his/hers/its”, _իւրոց/iwroc’_ “to theirs”, _յիւրոց/yiwroc’_ “from theirs”, _իւրովք/iwrovk’_ “with theirs” 
+ * _մերոյ/meroy_ “of ours” _մերում/merowm_ “to ours” _ի մերմէ/i mermē_ “from ours” _մերով/merov_ “with ours” _ի ձերմէ/i jermē_ “from yours”, _ձերովք/jerovk’_ “with those of yours”
+
   
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
@@ -65,21 +69,13 @@ All pronouns and determiners that mark the beginning of a [relative clause](acl:
 * _ով, ովք/ov, ovk’_ “who”, _ում/owm_ “whose”
 * _որ, որք/or, ork’_ “which”
 
-### <a name="Exc">`Exc`</a>: exclamative determiner
-
-Exclamative pro-adjectives (determiners) express the speaker’s surprise towards
-the modified noun. In Armenian exclamative determiners are recruited from the set of interrogative or demonstrative determiners.
-
-#### Examples:
-
-* _Ինչպիսի՜ անակնկալ։_ “What a surprise!”
-* _Այդքա՜ն գեղեցիկ։_ “That beautiful!”
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
 #### Examples
 
 * _իրար (իրաց, իրերաց)/irar (irac’, irerac’)_ “one another”, միմեանց/mimeanc’_ “each other”, _մեկզմեկ (մէկը մէկու, մէկմէկու, մէկմէկի)/mekzmek (mēkë mēkow, mēkmēkow, mēkmēki)_ “each other”
+
 
 ### <a name="Art">`Art`</a>: article
 
@@ -92,6 +88,7 @@ See also the related features [Number[psor]]() and [Person[psor]]().
 
 * _մի_ “a/an”
 
+
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
 Note that in Middle Armenian there is a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We distinguish also a separate feature of [Distance]().
@@ -100,35 +97,19 @@ Note that in Middle Armenian there is a distinction between proximal or first pe
 
 * _սա/sa_ “this”, _դա/da_ “that (medial)”, _նա/na_ “that”,  _սոքա/sok’a_ “thеsе”, _դոքա/dok’a_ “thօse (medial)”, _նոքա (նաքա)/nok’a (nak’a)_ “that” “”
 * _այս/ays_ “this”, _այդ/ayd_ “that (medial)”, _այն/ayn_ “that”, _այսոք (այսոնք)/aysok’ (aysonk’)_ “these”, _այդոք (այդոնք)/aydok’ (aydonk’)_ “those” (medial), _այնոք (այնոնք)/aynok’ (aynonk’)_ “those”
-* _սույն, նույն, միևնույն&nbsp;_ “this, same, same one”
-* _այսպիսի, այդպիսի, այնպիսի, նույնպիսի&nbsp;_ “such, such (medial), such (distal), same”
-* _այսպես, այդպես, այնպես, նույնպես&nbsp;_ “this way, that way (medial), that way, same way”
-* _այսքան, այդքան, այնքան&nbsp;_ “this many, that many, so many”
-* _այսչափ, այդչափ, այնչափ&nbsp;_ “this much, that much, so much”
-* _այստեղ, այդտեղ, այնտեղ&nbsp;_ “here, there (medial), there”
-* _մյուս&nbsp;_ “another”
+* _սույն, նույն, միևնույն_ “this, same, same one”
+* _հանչաք_ “this much, that much”
+* _յայնժամ_ “at the time”
+* _միւս/miws_ “(the) other”
 
-### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
-
-As emphatic pro-adjectives (determiners) these emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
-
-See also the [Number[psor]]() and [Person[psor]]() features for further details.
-
-#### Examples
-
-* _ինքը, ինքները / իրենք&nbsp;_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
 #### Examples
 
-* _ամեն(ը)&nbsp;_ “every, all (of things)”
-* _բոլոր(ը)&nbsp;_ “all (of people)”
-* _յուրաքանչյուր(ը)&nbsp;_ “each (one)”
-* _ողջ(ը) &nbsp;_ “whole”
-* _ամբողջ(ը)&nbsp;_ “all”
-* _համայն&nbsp;_ “all, whole”
-* _ամենայն&nbsp;_ “all, every”
+* _ամէն_ “all”
+* _ամեն մէկ_ “each, every”
+
 
 ### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
@@ -136,10 +117,10 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 
 #### Examples
 
-* _ոչ ոք&nbsp;_ “nobody”
-* _ոչինչ&nbsp;_ “nothing”
-* _ոչ մեկը&nbsp;_ “no one”
-* _ոչ մի&nbsp;_ “no”
+* _ոչ ոք_ “nobody”
+* _ոչինչ_ “nothing”
+* _ոչ մեկը_ “no one”
+* _ոչ մի_ “no”
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner or adverb
 
