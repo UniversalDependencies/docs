@@ -69,7 +69,7 @@ the modified noun. In Armenian exclamative determiners are recruited from the se
 #### Examples:
 
 * _Ինչպիսի՜ անակնկալ։_ “What a surprise!”
-* _Այդքա՜ն գեղեցիկ։_ “That beautiful!”
+* _Այդքա՜ն գեղեցիկ։_ “So beautiful!”
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
