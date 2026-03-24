@@ -47,8 +47,8 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 
 * _ո՞վ, ովքե՞ր&nbsp;_ “who”, _ո՞ւմ&nbsp;_ “whose”
 * _ի՞նչ&nbsp;_ “what”, _ինչպիսի՞(ք)&nbsp;_ “what kind of”, _ինչքա՞ն&nbsp;_ “how many”, _ինչչա՞փ&nbsp;_ “how much”, _ինչպե՞ս&nbsp;_ “how”
-* _ո՞ր, որո՞նք&nbsp;_ “which”, _որպիսի՞(ք)&nbsp;_ “which kind of”, _որքա՞ն&nbsp;_ “how many”, _որչա՞փ&nbsp;_ “how much”, _ո՞րերորդ&nbsp;_ “which manyth” (ordinal quantifier)
-* _քանի՞&nbsp;_ “how many”, _քանի՞սը&nbsp;_ “how many”, _քանի՞երորդ&nbsp;_ “how manyth” (ordinal quantifier)
+* _ո՞ր, որո՞նք&nbsp;_ “which”, _որպիսի՞(ք)&nbsp;_ “which kind of”, _որքա՞ն&nbsp;_ “how many”, _որչա՞փ&nbsp;_ “how much”, _ո՞րերորդ&nbsp;_ “what number” (ordinal quantifier)
+* _քանի՞&nbsp;_ “how many”, _քանի՞սը&nbsp;_ “how many”, _քանի՞երորդ&nbsp;_ “what number” (ordinal quantifier)
 * _որտե՞ղ&nbsp;_ “where”, _ո՞ւր&nbsp;_ “where to”
 * _ե՞րբ&nbsp;_ “when”
 * _ինչո՞ւ&nbsp;_ “why”
