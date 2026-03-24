@@ -475,17 +475,17 @@ h4, h5, h6 {
 
 .widespan {
     display: inline-block;
-    width: 8%;
+    width: 9%;
 }
 
 .doublewidespan {
     display: inline-block;
-    width: 16%;
+    width: 18%;
 }
 
 .triplewidespan {
     display: inline-block;
-    width: 24%;
+    width: 27%;
 }
 
 
