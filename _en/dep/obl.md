@@ -5,8 +5,7 @@ shortdef: 'oblique nominal'
 udver: '2'
 ---
 
-The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or 
-adjunct. This means that it functionally corresponds to an adverbial attaching to a verb, adjective or adverb.
+The `obl` relation is used for a nominal dependent of a verbal, adjectival or adverbial expression or a nominal predication, with the nominal dependent functioning as a non-core (oblique) argument or modifier. (A nominal is any expression headed by a word tagged [NOUN](), [PRON]() or [PROPN](), or some elliptical version of such an expression.)
 
 In English, `obl` provides a uniform analysis for __prepositionally marked nominals__ functioning adverbially, i.e. attaching at the level of a clause, 
 adjective phrase, or adverb phrase (whether as argument or adjunct). The preposition attaches as [case]() within the nominal:
@@ -37,8 +36,6 @@ obl(Unfortunately, you)
 case(you, for)
 ~~~
 
-This stands in contrast with [nmod]() for nominals functioning as **adnominal** dependents.
-
 Note that, in English, `obl` is used for prepositional phrases even in constructions like the prepositional dative (contrast the double object construction with [iobj]()):
 
 ~~~ sdparse
@@ -64,4 +61,16 @@ case(dog, by)
 ~~~
 
 Plain `obl` requires a preposition in English. For prepositionless nominals functioning adverbially, see [obl:unmarked]().
+
+The `obl` relation contrasts with the [nmod]() relation when the head is a nominal. Compare:
+
+~~~ sdparse
+we prefer lilies to daisies
+obl(prefer-2, daisies-5)
+~~~
+~~~ sdparse
+a preference for lilies
+nmod(preference-2, lilies-4)
+~~~
+
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:22:22 CET -->
