@@ -5,10 +5,15 @@ shortdef: 'nominal modifier'
 udver: '2'
 ---
 
-The `nmod` relation is used for nominal dependents of another noun or noun phrase and functionally corresponds to
-an attribute, or genitive complement.
+The `nmod` relation is used for a nominal dependent of another nominal, except in cases where the dependent modifies a predication. (A nominal is any expression headed by a word tagged NOUN, PRON or PROPN, or some elliptical version of such an expression.)
 
-**New from v2:** The `nmod` relation was previously used also for nominal dependents of verbs, adjectives, and adverbs. These are now covered by the new [obl]() relation.
+~~~ sdparse
+a room in the hotel
+det(room-2, a-1)
+nmod(room-2, hotel-5)
+case(hotel-5, in-3)
+det(hotel-5, the-4)
+~~~
 
 In conjunction with the [case]() relation, `nmod` provides a uniform analysis for the possessive alternation (with the option of a subtype like `nmod:poss` to distinguish non-adpositional case):
 
