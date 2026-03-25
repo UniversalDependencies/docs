@@ -5,10 +5,7 @@ shortdef : 'nominal modifier'
 udver: '2'
 ---
 
-The `nmod` relation is used for nominal dependents of another noun or noun phrase and functionally corresponds to
-an attribute, or genitive complement.
-
-**New from v2:** The `nmod` relation was previously used also for nominal dependents of verbs, adjectives, and adverbs. These are now covered by the new [obl]() relation.
+The `nmod` relation is used for a nominal dependent of another nominal, except in cases where the dependent modifies a predication. (A nominal is any expression headed by a word tagged [NOUN](), [PRON]() or [PROPN](), or some elliptical version of such an expression.)
 
 In English, plain `nmod` applies to __prepositionally-marked__ dependents of nominals (the preposition itself attaches as [case]()):
 
@@ -68,5 +65,24 @@ IBM earned $ 5 a share
 nmod:unmarked($, share)
 ~~~
 
+~~~ sdparse
+five days before the funeral
+nummod(days-2, five-1)
+nmod:unmarked(funeral-5, days-2)
+case(funeral-5, before-3)
+det(funeral-5, the-4)
+~~~
+
+### Subtypes in English
+
+- [nmod:desc]()
+- [nmod:poss]()
+- [nmod:unmarked]()
+
+### See also
+
+- [appos]()
+- [compound]()
+- [obl]()
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:22:04 CET -->
