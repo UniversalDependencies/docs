@@ -5,7 +5,7 @@ shortdef: 'oblique nominal'
 udver: '2'
 ---
 
-The `obl` relation is used for a nominal dependent of a verbal, adjectival or adverbial expression or a nominal predication, with the nominal dependent functioning as a non-core (oblique) argument or modifier. (A nominal is any expression headed by a word tagged NOUN, PRON or PROPN, or some elliptical version of such an expression.)
+The `obl` relation is used for a nominal dependent of a verbal, adjectival or adverbial expression or a nominal predication, with the nominal dependent functioning as a non-core (oblique) argument or modifier. (A nominal is any expression headed by a word tagged [NOUN](), [PRON]() or [PROPN](), or some elliptical version of such an expression.)
 
 ~~~ sdparse
 I talked to my friend in the park
@@ -23,11 +23,11 @@ he is the manager of the store on Mondays
 nsubj(manager-4, he-1)
 cop(manager-4, is-2)
 det(manager-4, the-3)
-obl(manager-4, store-8)
-case(store-8, of-6)
-det(store-8, the-7)
-obl(manager-4, Mondays-10)
-case(Mondays-10, on-9)
+obl(manager-4, store-7)
+case(store-7, of-5)
+det(store-7, the-6)
+obl(manager-4, Mondays-9)
+case(Mondays-9, on-8)
 ~~~
 
 ~~~ sdparse
