@@ -5,7 +5,7 @@ shortdef: 'nominal modifier'
 udver: '2'
 ---
 
-The `nmod` relation is used for a nominal dependent of another nominal, except in cases where the dependent modifies a predication. (A nominal is any expression headed by a word tagged NOUN, PRON or PROPN, or some elliptical version of such an expression.)
+The `nmod` relation is used for a nominal dependent of another nominal, except in cases where the dependent modifies a predication. (A nominal is any expression headed by a word tagged [NOUN](), [PRON]() or [PROPN](), or some elliptical version of such an expression.)
 
 ~~~ sdparse
 a room in the hotel
@@ -34,7 +34,7 @@ Professor Higgins
 nmod(Higgins-2, Professor-1)
 ~~~
 
-In conjunction with the [case]() relation, `nmod` provides a uniform analysis for the possessive alternation (with the option of a subtype like `nmod:poss` to distinguish non-adpositional case):
+In conjunction with the [case]() relation, `nmod` provides a uniform analysis for the possessive alternation (with the option of a subtype like [nmod:poss]() to distinguish non-adpositional case):
 
 ~~~ sdparse
 the office of the Chair
@@ -82,5 +82,4 @@ lilies are a good choice in the summer
 obl(choice-5, summer-8)
 ~~~
 
-~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:22:05 CET -->
