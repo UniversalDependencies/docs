@@ -5,13 +5,41 @@ shortdef: 'oblique nominal'
 udver: '2'
 ---
 
-The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or 
-adjunct. This means that it functionally corresponds to an adverbial attaching to a verb, adjective or other adverb.
+The `obl` relation is used for a nominal dependent of a verbal, adjectival or adverbial expression or a nominal predication, with the nominal dependent functioning as a non-core (oblique) argument or modifier. (A nominal is any expression headed by a word tagged NOUN, PRON or PROPN, or some elliptical version of such an expression.)
 
-The `obl` relation can be further specified by the case. In conjunction with the [case]() relation, it provides a uniform
-analysis for:
+~~~ sdparse
+I talked to my friend in the park
+nsubj(talked-2, I-1)
+obl(talked-2, friend-5)
+obl(talked-2, park-8)
+nmod:poss(friend-5, my-4)
+case(friend-5, to-3)
+det(park-8, the-7)
+case(park-8, in-6)
+~~~
 
-- variant forms with case, a preposition or a postposition, as in Finnish for example:
+~~~ sdparse
+he is the manager of the store on Mondays
+nsubj(manager-4, he-1)
+cop(manager-4, is-2)
+det(manager-4, the-3)
+obl(manager-4, store-8)
+case(store-8, of-6)
+det(store-8, the-7)
+obl(manager-4, Mondays-10)
+case(Mondays-10, on-9)
+~~~
+
+~~~ sdparse
+we are proud of our students
+nsubj(proud-3, we-1)
+cop(proud-3, are-2)
+obl(proud-3, students-6)
+case(students-6, of-4)
+nmod:poss(students-6, our-5)
+~~~
+
+In conjunction with the [case]() relation, it provides a uniform analysis for variant forms with inflectional case, as in Finnish for example:
 
 ~~~ sdparse
 etsiä ilman johtolankaa \n to_search without clue.PARTITIVE
@@ -30,33 +58,7 @@ etsiä johtolangatta \n to_search clue.ABESSIVE
 obl(etsiä, johtolangatta)
 ~~~
 
-- the dative alternation where the prepositional construction gets a similar analysis to the double object construction:
-
-~~~ sdparse
-give the children the toys
-obj(give, toys)
-iobj(give, children)
-~~~
-
-~~~ sdparse
-give the toys to the children
-obj(give, toys)
-obl(give, children)
-case(children, to)
-~~~
-
-~~~ conllu
-# give the toys to the children
-1     donner    donner   VERB   _   VerbForm=Inf               0   root   _   give
-2     les       le       DET    _   Definite=Def|Number=Plur   3   det    _   the
-3     jouets    jouet    NOUN   _   Gender=Masc|Number=Plur    1   obj   _   toys
-4-5   aux       _        _      _   _                          _   _      _   _
-4     à         à        ADP    _   _                          6   case   _   to
-5     les       le       DET    _   Definite=Def|Number=Plur   6   det    _   the
-6     enfants   enfant   NOUN   _   Gender=Masc|Number=Plur    1   obl   _   children
-~~~
-
-`obl` is also used for temporal and locational nominal modifiers:
+The `obl` relation is also used for temporal and locational nominal modifiers:
 
 ~~~ sdparse
 Last night , I swam in the pool
@@ -71,4 +73,16 @@ the cat was chased by the dog
 nsubj:pass(chased, cat)
 obl:agent(chased, dog)
 ~~~
+
+The `obl` relation contrasts with the [nmod]() relation when the head is a nominal. Compare:
+
+~~~ sdparse
+we prefer lilies to daisies
+obl(prefer-2, daisies-5)
+~~~
+~~~ sdparse
+a preference for lilies
+nmod(preference-2, lilies-4)
+~~~
+
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:22:22 CET -->
