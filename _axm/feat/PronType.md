@@ -32,7 +32,7 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the [Reflex]() fe
 
 #### Examples
 
-* _ես/es, դու/dow, ինք/ink’, մեք/mek’, դուք/dowk’, իրենք/irenk’_ “I, you, he/she/it, we, you, they”
+* _ես/es_ “I”, _դու/dow_ “you”, _ինք/ink’_ “he/she”, _մեք/mek’_ “we”, _դուք/dowk’_ “you” (pl.), _իրենք/irenk’_ “they”
 * _ինձ (ինձի, ինձիկ)/inj (inji, injik)_ “me”, _քեզ (քեզի, քեզիկ, քէ)/k’ez (k’ezi, k’ezik, k’ē)_ “you”, _իրեն/iren_ “him/her”, _մեզ (մեզի, մեզիկ)/mez (mezi, mezik)_ “us”, _ձեզ/jez_ “you”, _իրենց (իւրեանց, իւրենց)/irenc’ (iwreanc’, iwrenc’)_ “them”
 
 
@@ -57,8 +57,8 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 #### Examples:
 
 * _ո՞վ, ո՞վք/ov, ovk’_ “who?”, _ո՞ւմ/owm_ “whose?”
-* _ո՞ր, ո՞րք/or, ork’_ “which”
-* _զի՞նչ_ “what”
+* _ո՞ր, ո՞րք/or, ork’_ “which?”
+* _զի՞նչ/zinč_ “what?”
 
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
@@ -68,13 +68,16 @@ All pronouns and determiners that mark the beginning of a [relative clause](acl:
 
 * _ով, ովք/ov, ovk’_ “who”, _ում/owm_ “whose”
 * _որ, որք/or, ork’_ “which”
+* _զինչ/zinč_ “what”
 
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
 #### Examples
 
-* _իրար (իրաց, իրերաց)/irar (irac’, irerac’)_ “one another”, միմեանց/mimeanc’_ “each other”, _մեկզմեկ (մէկը մէկու, մէկմէկու, մէկմէկի)/mekzmek (mēkë mēkow, mēkmēkow, mēkmēki)_ “each other”
+* _իրար (իրաց, իրերաց)/irar (irac’, irerac’)_ “one another”,
+* _միմեանց/mimeanc’_ “each other”,
+* _մեկզմեկ (մէկը մէկու, մէկմէկու, մէկմէկի)/mekzmek (mēkë mēkow, mēkmēkow, mēkmēki)_ “each other”
 
 
 ### <a name="Art">`Art`</a>: article
@@ -97,9 +100,8 @@ Note that in Middle Armenian there is a distinction between proximal or first pe
 
 * _սա/sa_ “this”, _դա/da_ “that (medial)”, _նա/na_ “that”,  _սոքա/sok’a_ “thеsе”, _դոքա/dok’a_ “thօse (medial)”, _նոքա (նաքա)/nok’a (nak’a)_ “that” “”
 * _այս/ays_ “this”, _այդ/ayd_ “that (medial)”, _այն/ayn_ “that”, _այսոք (այսոնք)/aysok’ (aysonk’)_ “these”, _այդոք (այդոնք)/aydok’ (aydonk’)_ “those” (medial), _այնոք (այնոնք)/aynok’ (aynonk’)_ “those”
-* _սույն, նույն, միևնույն_ “this, same, same one”
-* _հանչաք_ “this much, that much”
-* _յայնժամ_ “at the time”
+* _հանչաք/hančak’_ “this much, that much”
+* _յայնժամ/yaynžam_ “at the time”
 * _միւս/miws_ “(the) other”
 
 
@@ -117,21 +119,20 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 
 #### Examples
 
-* _ոչ ոք_ “nobody”
-* _ոչինչ_ “nothing”
-* _ոչ մեկը_ “no one”
-* _ոչ մի_ “no”
+* _ոչ ով/oč ov_ “nobody”
+* _ոչինչ/očinč_ “nothing”
+* _ոչ որ/oč or_ “no one”
+
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner or adverb
 
 #### Examples
 
-* _ինչ-որ&nbsp;_ “some (of one thing)”, _ինչ-ինչ&nbsp;_ “some (of many thing)”
-* _մի քանի&nbsp;_ “several”, _մի քանիսը&nbsp;_ “several people”, _որոշ&nbsp;_ “definite”
-* _մեկը&nbsp;_ “one”, _մեկնումեկը&nbsp;_ “someone”, _մի&nbsp;_ “some, several”
-* _ոմն&nbsp;_ “someone”, _ոմանք&nbsp;_ “some people”
-* _ուրիշ&nbsp;_ “another”, _ուրիշը&nbsp;_ “another one”, _այլ&nbsp;_ “other”
-* _որևէ, որևիցե&nbsp;_ “one or another”
-* _այսինչ, այնինչ&nbsp;_ “this and that”
-* _երբևէ, երբևիցե&nbsp;_ “sometime”
+* _մարդ/mard_ “one/someone”
+* _ոք/ok’_ “one/someone”
+* _մէկ մի/mēk mi_ “one/any”
+* _այլ/ayl_ “other”
+* _մէկայլ/mēkayl_ “another”
+* _միւս/miws_ “(the) other”
+
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->
