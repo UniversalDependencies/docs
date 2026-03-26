@@ -49,7 +49,7 @@ Note, that a limited set of verbs (_գիտեմ, ունեմ_) form imperfect and 
 
 * _էի_ “I was.`Ind`”,
 * _կայի_ “I was / existed.`Ind`”,
-* _<b>գնայի</b> տուն_ “<b>I wish I went</b>.`Sub` home”,
+* _<b>գնայի</b>_ “<b>I wish I went</b>.`Sub`”,
 * _<b>գրէի</b>_ “<b>I wish I wrote</b>.`Sub`”,
 * _<b>պիտի գնայի</b> տուն_ “<b>I should go</b>.`Nec` home”,
 * _ունեի_ “I had”.`Ind`,
@@ -67,16 +67,14 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 
 #### Examples
 
-* _եմ&nbsp;_ “I am.`Ind`”,
-* _կամ&nbsp;_ “I am / exist.`Ind`”,
-* _<b>գնամ</b> տուն&nbsp;_ “I'd better <b>go</b>.`Sub` home”,
-* _<b>կգնամ</b> տուն&nbsp;_ “<b>I shall go</b>.`Cnd` home”,
-* _<b>պիտի գնամ</b> տուն&nbsp;_ “<b>I must go</b>.`Nec` home”,
-* _ունեմ&nbsp;_ “I have.`Ind`”,
-* _գիտեմ&nbsp;_ “I know.`Ind`”,
-* _արժեմ&nbsp;_ “I am worth.`Ind`”,
-* _ունենամ&nbsp;_ “(if) I have.`Sub`”,
-* _գիտենամ&nbsp;_ “(if) I know.`Sub`”,
-* _արժենամ&nbsp;_ “(if) I am worth.`Sub`”
-* _լինեմ&nbsp;_ “I am / I will be.`Sub`”,
+* _եմ/em_ “I am.`Ind`”,
+* _կամ/kam_ “I am / exist.`Ind`”,
+* _<b>գնամ</b>/gnam_ “I'd better <b>go</b>.`Sub`”,
+* _<b>կու գնամ</b>/kow gnam_ “<b>I shall go</b>.`Cnd`”,
+* _<b>պիտի գնամ</b>/piti gnam_ “<b>I must go</b>.`Nec`”,
+* _ունեմ/ownem_ “I have.`Ind`”,
+* _գիտեմ/gitem_ “I know.`Ind`”,
+* _ունենամ/ownenam_ “(if) I have.`Sub`”,
+* _գիտենամ/gitenam_ “(if) I know.`Sub`”,
+* _լինիմ/linim_ “I am / I will be.`Sub`”,
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:50 CET -->
