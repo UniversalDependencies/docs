@@ -60,12 +60,12 @@ Gorontalo is written in the Latin alphabet.
 
 The annotation for Gorontalo introduces some new terminology which is intended to be more transparent for users and more reflective of symmetrical voice languages, as an improvement over pre-existing terminology that is more suited to nominative-accusative languages. All these new labels can be directly mapped back to a pre-existing equivalent. We provide a mapping here:
 
-* Dependency relations: sublabels:
-** _:actor &rarr; _agent
-** _:patient &rarr; pass
+* Dependency relations -- sublabels: \
+** _:actor &rarr; _agent \
+** _:patient &rarr; pass \
 ** _:instrument &rarr; ivoc
-* Morphological features: Voice:
-** Pat &rarr; Pass
+* Morphological features -- Voice: \
+** Pat &rarr; Pass \
 ** Ivoc &rarr; Ifoc
 
 ---
