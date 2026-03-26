@@ -43,7 +43,7 @@ Gorontalo is written in the Latin alphabet.
   *The plural prefix "mongo-" is often attached to nouns to indicate plurality. For example: "lolai" (boy); "mongololai" (boys). This is currently analysed as a plural inflection, and so the feature-value pair `Number=Plur` is used.
 * Pivot markers, tagged as ADP, have the following features:
   * Voice = {Nom, Gen} (obligatory)
-  *Gender = {Masc, Fem}
+  * Gender = {Masc, Fem}
 
 ---
 
