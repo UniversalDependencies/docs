@@ -30,9 +30,9 @@ See also the relatived feature [Person[psor]]().
 ### <a name="Plur">`Plur`</a>: plural possessor
 
 The suffix _-նի/-ni_ followed by a possessive article, is used to express the plurality of the possessor when attached to a possessed object that is already in the plural.
-Note that տhe suffix -նի/-ni is typically attached to polysyllabic words. Since monosyllabic words become polysyllabic when the plural marker -եր (-er) is added, they also take the -նիս (-nis) or -նիդ (-nid) forms instead of the simple -ս (-s) or -դ (-d).
+Note that the suffix -նի/-ni is typically attached to polysyllabic words. Since monosyllabic words become polysyllabic when the plural marker -եր (-er) is added, they also take the -նիս (-nis) or -նիդ (-nid) forms instead of the simple -ս (-s) or -դ (-d).
 
-It is important to note that this can create ambiguity: a form like տներնիս (dnernis) can signify either the plural possessor ("our houses") or a singular possessor with a plural object ("my houses"). In this context, the suffix functions as a general possessive marker rather than strictly indicating the plurality of the owner.
+It is important to note that this can create ambiguity: a form like _տներնիս/tnernis_ can signify either the plural possessor ("our houses") or a singular possessor with a plural object ("my houses"). In this context, the suffix functions as a general possessive marker rather than strictly indicating the plurality of the owner.
 
 #### Examples
 
