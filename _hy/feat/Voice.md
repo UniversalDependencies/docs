@@ -66,7 +66,7 @@ Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombi
 
 #### Examples
 
-* _Մայրը <b>քնեցրեց</b> որդուն&nbsp;_ “The mather <b>put</b> her son to sleep”,
+* _Մայրը <b>քնեցրեց</b>_`Act` _որդուն&nbsp;_ “The mather <b>put</b> her son to sleep”,
 * _<b>Սովորեցնում</b> էր նրան լեզու&nbsp;_ “He <b>tought</b> her a foreign language”,
 * _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> նրան&nbsp;_ “All these things <b>reminded</b> him a war”,
 * _Ո՞ր քամին <b>հանգցրեց</b> նրանց սերը&nbsp;_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
