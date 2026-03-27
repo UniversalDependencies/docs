@@ -34,6 +34,7 @@ See also the relatived feature [Number[psor]]().
 #### Examples
 
  _Աչեր<b>դ</b> է ի ծով նըման/Ačerd ē i çov nëman_ “<b>your</b> eyes are like the sea” `Person[psor]=2|Number[psor]=Sing|Number=Plur`
+ _գնալներ<b>դ</b>/gnalnerd_ “your (pl.) going”
 
 ### <a name="3">`3`</a>: third person possessor
 
