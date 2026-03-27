@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-`Person[psor]` is possessor's person, marked on [nouns](NOUN). These forms would be translated into English as possessive pronoun + noun.
+`Person[psor]` is possessor's person, marked on [nouns](NOUN) and [infinitives](VerbForm). These forms would be translated into English as possessive pronoun + noun.
 
 The `Person[psor]` feature captures the possessor's person. We do not distinguish `Person[psor]` for possessive pronouns, as they are actually identical to personal pronouns in the genitive case.
 
