@@ -25,7 +25,7 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 
 * _կու գնամ, կու գնաս, կու գնայ, կու գնամք (գնանք), կու գնաք, կու գնան_ “I will go, you will go, he/she/it will go, we will go, you will go, they will go”,
 * _գիտեմ, գիտես, գիտէ, գիտեմք (գիտենք), գիտէք, գիտեն_ “I know, you know, he/she/it knows, we know, you know, they know”,
-* _գնացի, գնացիր, գնաց, գնացինք, գնացիք, գնացին_ “I went, you went, he/she/it went, we went, you went, they went”,
+* _մնացի, մնացեր, մնաց, մնացաք, մնացէք, մնացին_ “I stayed, you stayed, he/she/it stayed, we stayed, you stayed, they stayed”,
 * _եմ, ես, է, ենք, եք, են_ “I am, you are, he/she/it is, we are, you are, they are”,
 * _գնա՛, գնացե՛ք_ “go” (imperative in different numbers),
 * _գնամ, գնաս, գնա, գնանք, գնաք, գնան_ “I go.`Sub`, you go.`Sub`, he/she/it go.`Sub`, we go.`Sub`, you go.`Sub`, they go.`Sub`”
