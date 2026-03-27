@@ -27,14 +27,14 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 #### Examples
 
-* _Նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”,
+* _խօզըն <b>ջօհար</b> ե՞րբ ճանչէ/xòzën ǰòhar e՞rb č̣ančē_ “When does a pig ever recognize a jewel?”
 * _Նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_.`Mid` “The book was <b>lost</b>.`Mid`”),
 * _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “He <b>turned</b> the light off” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “The light <b>was off</b>.`Mid`”).
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
-
+ 
 The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-վ-_ (for exeptions see below).
 
 #### Examples
