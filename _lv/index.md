@@ -55,7 +55,7 @@ Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are ta
 
 #### Nouns and Proper Nouns
 
-In Latvian proper nouns are generally capitalized, when used in the midle of the sentence. Days of the week (_pirmdiena_ "Monday", _otrdiena_ "Tuesday", _trešdiena_ "Wednesday", _ceturtdiena_ "Thursday", _piektdiena_ "Friday", _sestdiena_ "Saturday", _svētdiena_ "Sunday") and months (_janvāris_ "January", _februāris_ "February", _marts_ "March", _aprīlis_ "April", _maijs_ "May", _jūnijs_ "June", _jūlijs_ "July", _augusts_ "August", _septembris_ "September", _oktobris_ "October", _novembris_ "November", _decembris_ "December") are common nouns, i.e., `NOUN`. Some names of the months can be also used as person names (first names _Jūlijs_ and _Augusts_), then they are always capitalized and annotated `PROPN`.
+In Latvian proper nouns are generally capitalized, when used in the midle of the sentence. Days of the week (_pirmdiena_ "Monday", _otrdiena_ "Tuesday", _trešdiena_ "Wednesday", _ceturtdiena_ "Thursday", _piektdiena_ "Friday", _sestdiena_ "Saturday", _svētdiena_ "Sunday") and months (_janvāris_ "January", _februāris_ "February", _marts_ "March", _aprīlis_ "April", _maijs_ "May", _jūnijs_ "June", _jūlijs_ "July", _augusts_ "August", _septembris_ "September", _oktobris_ "October", _novembris_ "November", _decembris_ "December") are common nouns, i.e., `NOUN`. Some names of the months can be also used as person names (first names _Marts_, _Jūlijs_ and _Augusts_), then they are always capitalized and annotated `PROPN`.
 
 
 ### Features
