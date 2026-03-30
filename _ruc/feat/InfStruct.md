@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Emphasis'
-shortdef: 'emphasis'
+title: 'InfStruct'
+shortdef: 'information structure'
 udver: '2'
 ---
 
