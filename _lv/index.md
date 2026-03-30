@@ -53,6 +53,10 @@ _Būt_, _tikt_ and _tapt_ may still occur as normal [VERB]() if they are used in
 
 Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _dama_, _-damies_, _-damās_ are tagged as `VERB` or `AUX`. Most adjectival participles (_redzams_, _aizgājis_, _negaidīts_, _velkošs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _protams_ "of course", _acīmredzot_ "obvious", which are tagged as `PART`, and _iespējams_ "possible", which is tagged as `ADJ`.
 
+#### Nouns and Proper Nouns
+
+In Latvian proper nouns are generally capitalized, when used in the midle of the sentence. Days of the week (_pirmdiena_ "Monday", _otrdiena_ "Tuesday", _trešdiena_ "Wednesday", _ceturtdiena_ "Thursday", _piektdiena_ "Friday", _sestdiena_ "Saturday", _svētdiena_ "Sunday") and months (_janvāris_ "January", _februāris_ "February", _marts_ "March", _aprīlis_ "April", _maijs_ "May", _jūnijs_ "June", _jūlijs_ "July", _augusts_ "August", _septembris_ "September", _oktobris_ "October", _novembris_ "November", _decembris_ "December") are common nouns, i.e., `NOUN`. Some names of the months can be also used as person names (first names _Jūlijs_ and _Augusts_), then they are always capitalized and annotated `PROPN`.
+
 
 ### Features
 
