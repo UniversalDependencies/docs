@@ -52,7 +52,8 @@ The infinitive shares properties of verbs and nouns. It inflects for [Case](), [
 
 Participle is a non-finite verb form that shares properties of verbs and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
 
-In Armenian linguistics, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
+In Modern Armenian grammar, _converbs_ and _participals_ are destinguished. However, since the UD definition `Part` partially covers the use of converbs, we use the same 
+label for both. We use _converb_ only for the advercial participle (see bellow).  
 
 Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
 
