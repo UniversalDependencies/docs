@@ -35,14 +35,18 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 Infinitive is the citation form of verbs. In Middle Armenian it has non-finite form. It appears as the argument of other verbs.
 When used with the negative forms of the auxiliary verb _եմ/em_ (and the preposition _ի/i_), it conveys the negative present indicative.
 The infinitive shares properties of verbs and nouns. It inflects for [Case](), [Definite](), [Number](), [Number[psor]]() and [Person[psor]]().
+Note that in Middle Armenian grammar, the genitive-dative case of the infinitive is treated as a future participle, regardless of whether it functions as a verbal
+tense (with an auxiliary verb) or as a modifier (with a noun). However, we shall apply the principle of Modern Armenian (Eastern and Western), where only the form
+used with an auxiliary verb (to create the future tense of the indicative mood) is considered a future participle.
 
 #### Examples
 
 * _Որով զոք դատիս՝ Նոյն դատաստան կամիս <b>կրել</b>/Orov zok’ datis՝ Noyn datastan kamis krel_ “The judgment you pass on others is the same one you are willing <b>to face</b> yourself”,
 * _Պատրաստ եմ մեռանել վասն անուան նորին/Patrast em meṙanel vasn anowan norin_ “I am ready to die for his name”,
+* _Մի՞թէ <b>մեոանելոյ</b> օրս մոտեցաւ/mit’ē meoaneloy òrs motec’aw_ “Has my day <b>to die</b> really come”,
+* _Եւ զայդ ի դողալուն ատենէ սկիզբն արա/ew zayd i doġalown atenē skizbn ara_ “And start this from the moment of <b>trembling</b>”
 
-Note that in Middle Armenian grammar, the genitive-dative case of the infinitive is treated as a future participle, regardless of whether it functions as a verbal tense (with an auxiliary verb) or as a modifier (with a noun). However, we shall apply the principle of Modern Armenian (Eastern and Western), where only the form used with an auxiliary verb (to create the future tense of the indicative mood) is considered a future participle.
-
+  
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
 Participle is a non-finite verb form that shares properties of verbs and adjectives. In Middle Armenian it may be used to form complex tenses and can be also used purely adjectively.
@@ -69,8 +73,8 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 
 #### Examples
 
-* _քնած, գրած, ուղարկված, կանգնեցված_ &nbsp;“slept, written, sent, raised” (resultative participle, in different voices),
-* _գրող, մեռնող, տվող, եղող, բացվող_ &nbsp;“(smth.) writing, dying, giving, beeing, opening” (subject participle, in different voices),
+* _քաղած/k’aġaç, բերած/beraç, պարգևված/pargewvaç, խառնուած/xaṙnowaç, փռված/p’ṙvaç_ “slept, written, sent, raised” (resultative participle, in different voices),
+* _ստեղծող/steġçoġ, նախշող/naxšoġ, կարդացող/kardac’oġ, թուլացնող/t’owlac’noġ, կարմրցնող/karmrc’noġ_ “(smth.) creating, dying, giving, beeing, opening” (subject participle, in different voices),
 * _սիրում, խոսվում, բարձրացվում_ &nbsp;“love; smth. to be speaking about; beeing raised” (imperfective participle, in different voices),
 * _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“for seeing, for washing, for beeing extenuated” (future-I participle, in different voices),
 * _կարդալիք, կառուցվելիք_ &nbsp;“(smth.) to be read, to be built” (future-II participle, in different voices),
