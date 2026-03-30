@@ -21,4 +21,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 * <!-- a -->چې _če_ “that”, “because”, “when”
 * <!-- a -->ځکه چې _żë́ka če_ “because”
 * <!-- a -->کله چې _kë́la če_ “when”
-* <!-- a -->کۀ _kë_ “if”
+* <!-- a -->کۀ _kë_ “if” (not to confuse with coordinating conjunction کۀ _kë_ “or”)
