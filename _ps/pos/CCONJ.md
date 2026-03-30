@@ -12,7 +12,7 @@ A coordinating conjunction is a word that links words or larger
 constituents (even clauses) without syntactically subordinating one to the other and
 expresses a semantic relationship between them.
 
-The coordinating conjunctio usually depend on the head of the second constituent with the [cc](deps/cc.html) relation.
+The coordinating conjunctio usually depend on the head of the second constituent with the [cc]() relation.
 
 For _subordinating conjunctions,_ see [SCONJ]().
 
