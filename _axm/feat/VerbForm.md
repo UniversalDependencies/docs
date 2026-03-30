@@ -26,20 +26,21 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 * _կու գնամ, կու գնաս, կու գնայ, կու գնամք (գնանք), կու գնաք, կու գնան_ “I will go, you will go, he/she/it will go, we will go, you will go, they will go”,
 * _գիտեմ, գիտես, գիտէ, գիտեմք (գիտենք), գիտէք, գիտեն_ “I know, you know, he/she/it knows, we know, you know, they know”,
 * _մնացի, մնացեր, մնաց, մնացաք, մնացէք, մնացին_ “I stayed, you stayed, he/she/it stayed, we stayed, you stayed, they stayed”,
-* _եմ, ես, է, ենք, եք, են_ “I am, you are, he/she/it is, we are, you are, they are”,
-* _գնա՛, գնացե՛ք_ “go” (imperative in different numbers),
-* _գնամ, գնաս, գնա, գնանք, գնաք, գնան_ “I go.`Sub`, you go.`Sub`, he/she/it go.`Sub`, we go.`Sub`, you go.`Sub`, they go.`Sub`”
+* _եմ, ես, է, եմք, էք, են_ “I am, you are, he/she/it is, we are, you are, they are”,
+* _աղա՛, աղացե՛ք_ “grind” (imperative in different numbers),
+* _գրեմ, գրես, գրէ, գրեմք, գրէք, գրեն_ “I write.`Sub`, you write.`Sub`, he/she/it write.`Sub`, we write.`Sub`, you write.`Sub`, they write.`Sub`”
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-Infinitive is the citation form of verbs. In Armenian it has non-finite form. It is used with the auxiliary _տալ&nbsp;_ to form periphrastic causative voice, and it appears as the argument of other verbs.
+Infinitive is the citation form of verbs. In Middle Armenian it has non-finite form. It appears as the argument of other verbs.
+When used with the negative forms of the auxiliary verb _եմ/em_ (and the preposition _ի/i_), it conveys the negative present indicative.
 The infinitive shares properties of verbs and nouns. It inflects for [Case](), [Definite](), [Number](), [Number[psor]]() and [Person[psor]]().
 
 #### Examples
 
-* _<b>խմել</b> տվեցի_ “I made him <b>drink</b>”,
-* _կարող ես <b>գնալ</b>_ &nbsp;“you can <b>go</b>”,
-* _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I decided <b>not to say</b> immediately”
+* _Որով զոք դատիս՝ Նոյն դատաստան կամիս <b>կրել</b>/Orov zok’ datis՝ Noyn datastan kamis krel_ “The judgment you pass on others is the same one you are willing <b>to face</b> yourself”,
+* _Պատրաստ եմ մեռանել վասն անուան նորին/Patrast em meṙanel vasn anowan norin_ “I am ready to die for his name”,
+* 
 * _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”,
 * _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: she get used to <b>give birth</b> alone”,
 * _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
@@ -48,13 +49,13 @@ The infinitive shares properties of verbs and nouns. It inflects for [Case](), [
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
-Participle is a non-finite verb form that shares properties of verbs and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
+Participle is a non-finite verb form that shares properties of verbs and adjectives. In Middle Armenian it may be used to form complex tenses and can be also used purely adjectively.
 
 In Armenian linguistics, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
 
 Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
 
-Armenian has seven types of participles:
+Middle Armenian has seven types of participles:
 
 - The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively and can be negated.
 - The subject participle can be used only adjectively and can be negated.
