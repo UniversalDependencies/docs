@@ -40,24 +40,20 @@ The infinitive shares properties of verbs and nouns. It inflects for [Case](), [
 
 * _Որով զոք դատիս՝ Նոյն դատաստան կամիս <b>կրել</b>/Orov zok’ datis՝ Noyn datastan kamis krel_ “The judgment you pass on others is the same one you are willing <b>to face</b> yourself”,
 * _Պատրաստ եմ մեռանել վասն անուան նորին/Patrast em meṙanel vasn anowan norin_ “I am ready to die for his name”,
-* 
-* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”,
-* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: she get used to <b>give birth</b> alone”,
-* _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: he came up <b>running</b>”,
-* _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: he was skillful <b>in telling speeches</b>”
+
+Note that in Middle Armenian grammar, the genitive-dative case of the infinitive is treated as a future participle, regardless of whether it functions as a verbal tense (with an auxiliary verb) or as a modifier (with a noun). However, we shall apply the principle of Modern Armenian (Eastern and Western), where only the form used with an auxiliary verb (to create the future tense of the indicative mood) is considered a future participle.
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
 Participle is a non-finite verb form that shares properties of verbs and adjectives. In Middle Armenian it may be used to form complex tenses and can be also used purely adjectively.
 
-In Armenian linguistics, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
+In Middle Armenian grammar, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
 
 Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
 
 Middle Armenian has seven types of participles:
 
-- The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively and can be negated.
+- The resultative participle is used to form the indicative mood in present, imperfect, present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively and can be negated.
 - The subject participle can be used only adjectively and can be negated.
 - The imperfective participle is used to form the indicative mood in present or imperfect tense.
 - The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future-in-the-past) tense.
