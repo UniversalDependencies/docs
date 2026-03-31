@@ -42,23 +42,3 @@ Desciption
 #### Examples
 
 *
-
-## Voice combinations
-
-### <a name="CauAppl">`CauAppl`</a>: combination of causative and applicative voices
-
-#### Examples
-
-*
-
-### <a name="RflAppl">`RflAppl`</a>: combination of reflexive and applicative voices
-
-#### Examples
-
-*
-
-### <a name="RflCau">`RflCau`</a>: combination of reflexive and causative voices
-
-#### Examples
-
-*
