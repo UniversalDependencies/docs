@@ -63,24 +63,20 @@ Middle Armenian has seven types of participles:
 - The future participle is used to form the indicative mood in present future or imperfect future (future-in-the-past) tense. Some of its forms (mainly with the ending _-ի/-i_ attached to the infinitive) can be used only adjectively and can be negated.
 - The past participle is the continuation of the Classical Armenian past participle into the Middle Armenian. While in Classical Armenian this form could convey both active and passive meanings, in Middle Armenian it increasingly trends toward a passive sense, although a new passive infix (_-ու-/-ow-_) has already emerged. It can be used adjectively or substantively.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect-in-the-past (past perfect) tense. It can also combine with the auxiliary _լինել/linel_ “to be” to form secondary compound tenses. This participle may have two endings: either _-լ/-l_ or _-ր/-r_. In Middle Armenian it can be used adjectively.
-- The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
+
 
 Note that the resultative, past and perfect participles can be used to form the secondary complex tenses (with the auxiliary _լինել_ in any tense or mood).
-
-Note also that resultative, subject and future-II participles, that fall in the gray zone between adjectives and participles and can be also used adjectively, are marked `Part` too.
 
 Participles will have [Aspect](), [Voice]() and [Subcat]().
 
 #### Examples
 
 * _քաղած/k’aġaç, բերած/beraç, պարգևված/pargewvaç, խառնուած/xaṙnowaç, փռված/p’ṙvaç_ “slept, written, sent, raised” (resultative participle, in different voices),
-* _ստեղծող/steġçoġ, նախշող/naxšoġ, կարդացող/kardac’oġ, թուլացնող/t’owlac’noġ, կարմրցնող/karmrc’noġ_ “(smth.) creating, decorating, reading, weakening, reddening” (subject participle),
+* _ստեղծող/steġçoġ, նախշող/naxšoġ, խնդացող/xndac’oġ, թուլացնող/t’owlac’noġ, կարմրցնող/karmrc’noġ_ “(smth.) creating, decorating, laughing, weakening, reddening” (subject participle, in different voices),
 * _տեսնում/tesnowm, խօսում/xòsowm, հեռանալիս/heṙanalis, դողալիս/doġalis_ “see(ing), speak(ing), leaving, trembling” (imperfective participle, in different voices),
-* _տանելու, չորացնելու, անցանելու, ուտելոյ/owteloy, ճանաչելի/č̣anačeli_ “for taking, for drying, for passing, for eating, smth. that can be recognized” (future participle),
-* _լցեալ/lc’eal, հեծեալ/heçeal, մեռեալ/meṙeal, բացուեալ/bac’oweal_
+* _տանելու/tanelow, չորացնելու/čorac’nelow, անցանելու/anc’anelow, գնալու/owteloy, ճանաչելի/č̣anačeli_ “for taking, for drying, for passing, for going, smth. that can be recognized” (future participle, in different voices),
+* _լցեալ/lc’eal, հեծեալ/heçeal, մեռեալ/meṙeal, բացուեալ/bac’oweal_ “filled, mounted, dead, opened” (past participle, in different voices)
 * _ասել/asel, մնացել/mnac’el, հագեր/hager, արբեցուցեր/arbec’owc’er_“have told, have remained, have dressed, have made (someone) drunk” (perfect participle, in different voices),
-* _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ “I am/was <b>coming</b>, I am/was <b>giving</b>, I am/was <b>crying</b>, he has been <b>working</b>” (processual participle in different moods and tenses)
-
 
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:54 CET -->
