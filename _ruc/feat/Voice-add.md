@@ -1,17 +1,12 @@
 ---
 layout: feature
-title: 'Voice[1]'
-shortdef: 'first voice in voice combination'
+title: 'Voice[add]'
+shortdef: 'second voice in voice combination'
 udver: '2'
 ---
 
 Desciption
 
-### <a name="Act">`Act`</a>: active voice
-
-#### Examples
-
-*
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
