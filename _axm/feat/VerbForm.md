@@ -61,7 +61,7 @@ Middle Armenian has seven types of participles:
 - The subject participle can be used only adjectively and can be negated.
 - The imperfective participle is used to form the indicative mood in present or imperfect tense. It is formed with two endings: _-իս/-is_, which is attached to the infinitive, and _-ում/-owm_, which is attached to the verb stem.
 - The future participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future-in-the-past) tense. Some of its forms (mainly with the ending _-ի/-i_ attached to the infinitive) can be used only adjectively and can be negated.
-- past participle
+- The past participle is the old form of the perfect participal used in Classical Armenian and in the first stage of Middle Armenian. It can be used adjectively or substantively. Note that unlike Classical Armenian, where it expresses both active and passive meaning, in Middle Armenian it mostly keeps the passive meaning though there is already a new passive infix (-ու-/-ow-).
 - The perfect participle is used to form the indicative mood in present perfect or imperfect-in-the-past (past perfect) tense.
 - The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
 
@@ -77,8 +77,8 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 * _ստեղծող/steġçoġ, նախշող/naxšoġ, կարդացող/kardac’oġ, թուլացնող/t’owlac’noġ, կարմրցնող/karmrc’noġ_ “(smth.) creating, decorating, reading, weakening, reddening” (subject participle),
 * _տեսնում/tesnowm, խօսում/xòsowm, հեռանալիս/heṙanalis, դողալիս/doġalis_ “see(ing), speak(ing), leaving, trembling” (imperfective participle, in different voices),
 * _տանելու, չորացնելու, անցանելու, ուտելոյ/owteloy, ճանաչելի/č̣anačeli_ “for taking, for drying, for passing, for eating, smth. that can be recpgnized” (future participle),
-* 
-* _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle, in different voices),
+* _լցեալ/, հեծեալ, մեռեալ, բացուեալ_
+* _գնացել, խմել, դրել_“have done, have drunk, have put” (perfect participle, in different voices),
 * _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am/was <b>coming</b>, I am/was <b>giving</b>, I am/was <b>crying</b>, he has been <b>working</b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, adverbial participle
