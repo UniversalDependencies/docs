@@ -40,9 +40,10 @@ Note that in Middle Armenian the passive meaning may sometimes lack a distinct m
 
 #### Examples
 
-* _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)_ “The suggestion <b>was denied</b> (by the participants)”,
+* _Եւ թէ <b>ուտուի</b>' աղեցն զեն է/Ew t’ē owtowi' aġec’n zen ē_ “If <b>eaten</b>, it is harmful to the intestines”,
 * _Եկեղեցին բարձր էր եւ լայն, Անսիւն <b>շինած</b> էր 'ւ անգերան/Ekeġec’in barjr ēr ew layn, Ansiwn šinaç ēr 'w angeran_ “The church was high and wide, <b>built</b> without columns and beams”,
-* _Վասն սըրբոց առաքելոցն, Որ ի քենէ են <b>ձեռնադրած</b>/Vasn sërboc’ aṙak’eloc’n, Or i k’enē en jeṙnadraç_ “For the holy apostles, Who <b>were ordained</b> by you.”.
+* _Վասն սըրբոց առաքելոցն, Որ ի քենէ են <b>ձեռնադրած</b>/Vasn sërboc’ aṙak’eloc’n, Or i k’enē en jeṙnadraç_ “For the holy apostles, Who <b>were ordained</b> by you”.
+
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
