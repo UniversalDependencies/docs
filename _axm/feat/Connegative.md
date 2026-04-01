@@ -28,8 +28,8 @@ Note that there is no `No` value. If the word is not connegative, the `Connegati
 * _չէի, չէիր, չէր, չէաք, չէիք, չէին <b>ի լալ</b>/ēi, čēir, čēr, čēak’, čēik’, čēin i lal_ “I; you; he/she/it; we; you; they did not/would not <b>cry</b>”,
 * _չեմ, չես, չէ/չի, չենք, չէք, չեն <b>ի հասկանալ</b>/čem, čes, či, čenk’, ček’, čen i haskanal_ “I; you; he/she/it; we; you; they do not/will not <b>understand</b>”,
 * _չէի, չէիր, չէր, չէաք, չէիք, չէին <b>ի պատկառիլ</b>/čēi, čēir, čēr, čēink’, čēik’, čēin i patkaṙil_ “I; you; he/she/it; we; you; they did not/would not <b>feel ashamed</b>”
-* _մի՛ բարկանալ/mi barkanal_ “don't get angry!”
-* _մի՛ փոխեր/mi p’oxer_ “don't change!” (sing.)
-* _մի՛ ծախէք/mi çaxēk’_ “don't sell!” (pl.)
-* _մի՛ արգելես/mi argeles_ “don't forbid!”
+* _մի՛ <b>բարկանալ</b>/mi barkanal_ “don't get angry!”
+* _մի՛ <b>փոխեր</b>/mi p’oxer_ “don't change!” (sing.)
+* _մի՛ <b>ծախէք</b>/mi çaxēk’_ “don't sell!” (pl.)
+* _մի՛ <b>արգելես</b>/mi argeles_ “don't forbid!”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:08 CET -->
