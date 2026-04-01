@@ -41,7 +41,7 @@ Note that in Middle Armenian the passive meaning may sometimes lack a distinct m
 #### Examples
 
 * _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)_ “The suggestion <b>was denied</b> (by the participants)”,
-* _Նա <b>արհամարվում</b> է ժողովրդից_ “He is <b>despised</b> by the people”,
+* _Եկեղեցին բարձր էր եւ լայն, Անսիւն <b>շինած</b> էր 'ւ անգերան_ “The church was high and wide, <b>built</b> without columns and beams”,
 * _Անտառը <b>ծածկված</b> է ձյունով_ “The forest is <b>covered</b> by snow”.
 
 ### <a name="Mid">`Mid`</a>: middle voice
@@ -52,8 +52,8 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 
 #### Examples
 
-* _Նա <b>վախենում</b> է մթից&nbsp;_ “He is <b>afraid</b> of darkness”,
-* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>&nbsp;_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
+* _Նա <b>վախենում</b> է մթից_ “He is <b>afraid</b> of darkness”,
+* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
 * _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stood</b> thought of it”.
 
