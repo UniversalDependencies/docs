@@ -74,7 +74,7 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 
 * _քաղած/k’aġaç, բերած/beraç, պարգևված/pargewvaç, խառնուած/xaṙnowaç, փռված/p’ṙvaç_ “slept, written, sent, raised” (resultative participle, in different voices),
 * _ստեղծող/steġçoġ, նախշող/naxšoġ, խնդացող/xndac’oġ, թուլացնող/t’owlac’noġ, կարմրցնող/karmrc’noġ_ “(smth.) creating, decorating, laughing, weakening, reddening” (subject participle, in different voices),
-* _տեսնում/tesnowm, խօսում/xòsowm, հեռանալիս/heṙanalis, դողալիս/doġalis_ “see(ing), speak(ing), leaving, trembling” (imperfective participle, in different voices),
+* _տեսնում/tesnowm, խօսում/xòsowm, հեռանալիս/heṙanalis, դողալիս/doġalis_ “see(ing), speak(ing), leav(ing), trembl(ing)” (imperfective participle, in different voices),
 * _տանելու/tanelow, չորացնելու/čorac’nelow, անցանելու/anc’anelow, գնալու/owteloy, ճանաչելի/č̣anačeli_ “for taking, for drying, for passing, for going, smth. that can be recognized” (future participle, in different voices),
 * _լցեալ/lc’eal, հեծեալ/heçeal, մեռեալ/meṙeal, բացուեալ/bac’oweal_ “filled, mounted, dead, opened” (past participle, in different voices)
 * _ասել/asel, մնացել/mnac’el, հագեր/hager, արբեցուցեր/arbec’owc’er_“have told, have remained, have dressed, have made (someone) drunk” (perfect participle, in different voices),
