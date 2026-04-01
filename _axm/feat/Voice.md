@@ -27,21 +27,22 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 #### Examples
 
-* _խօզըն <b>ջօհար</b> ե՞րբ ճանչէ/xòzën ǰòhar e՞rb č̣ančē_ “When does a pig ever <b>recognize</b> a jewel?”
-* _գարի լուացած <b>ցամաքեցուր</b>/gari lowac’aç c’amak’ec’owr_ “Dry the washed barley” (but, _Գարին <b>ցամքեցաւ</b>_`Mid` “The barley <b>dried</b> up.`Mid`”),
-* _Նա <b>հանգցրեց</b> լույսը_ “He <b>turned</b> the light off” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “The light <b>was off</b>.`Mid`”).
-
+* _խօզըն <b>ջօհար</b> ե՞րբ ճանչէ/xòzën ǰòhar erb č̣ančē_ “When does a pig ever <b>recognize</b> a jewel?”
+* _գարի լուացած <b>ցամաքեցուր</b>/gari lowac’aç c’amak’ec’owr_ “Dry the washed barley” (but, _Գարին <b>ցամքեցաւ</b>_`Mid` “The barley <b>dried</b> up `Mid`”),
+* _զբիբսն <b>զօրացուցանէ</b>/zbibsn zòrac’owc’anē_ “(it) strengthens the pupils” (but, _յաղթէ զթագաւորն եւ <b>զօրանայ</b>_ `Mid` “He defeats the king and <b>grows strong</b> `Mid`”)
+  
 ### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
- 
-The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-վ-_ (for exeptions see below).
+
+The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_ (for exceptions see below).
+Note that in Middle Armenian the passive meaning may sometimes lack a distinct morphological marker (particularly in the resultative participle), as in Classical Armenian. In such cases, passivity is inferred from the verb’s valency and the presence of an oblique agent.
 
 #### Examples
 
-* _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)&nbsp;_ “The suggestion <b>was denied</b> (by the participants)”,
-* _Նա <b>արհամարվում</b> է ժողովրդից&nbsp;_ “He is <b>despised</b> by the people”,
-* _Անտառը <b>ծածկված</b> է ձյունով&nbsp;_ “The forest is <b>covered</b> by snow”.
+* _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)_ “The suggestion <b>was denied</b> (by the participants)”,
+* _Նա <b>արհամարվում</b> է ժողովրդից_ “He is <b>despised</b> by the people”,
+* _Անտառը <b>ծածկված</b> է ձյունով_ “The forest is <b>covered</b> by snow”.
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
@@ -65,6 +66,8 @@ The causative is expressed by the infix _-ցն-_. It is quite productive and can
 Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
 #### Examples
+
+* _չի <b>ուտեցնել</b>_ “He/she does not <b>feed (make smb. eat)</b>” (but, _նա <b>կերավ</b>_.`Act` “he/she <b>ate</b>`Act`”).
 
 * _Մայրը <b>քնեցրեց</b>_`Act` _որդուն&nbsp;_ “The mather <b>put</b> her son to sleep”,
 * _<b>Սովորեցնում</b>_ `Cau` _էր նրան լեզու&nbsp;_ “He <b>tought</b> her a foreign language”,
