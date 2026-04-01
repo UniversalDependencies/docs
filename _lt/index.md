@@ -88,7 +88,7 @@ udver: '2'
 
 ### Relations Overview
 
-* Following are the links to lithuanian relation documentation: [amod](), [appos](), [cc](), [compound](), [cop](), [csubj](), [flat](), [iobj](), [list](), [nmod](), [nsubj](), [nummod](), [obl](), [obj](), [punct](), [root](), [vocative](), [aux](), [parataxis](), [discourse](), [case]()
+* Following are the links to lithuanian relation documentation: [amod](), [appos](), [cc](), [compound](), [cop](), [csubj](), [flat](), [iobj](), [list](), [nmod](), [nsubj](), [nummod](), [obl](), [obj](), [punct](), [root](), [vocative](), [aux](), [parataxis](), [discourse](), [case](), [dep](), [det](), [dislocated]()
 
 * The following relation subtypes are used in Lithuanian:
   * [nsubj:pass]() for nominal subjects of passive verbs
@@ -99,14 +99,13 @@ udver: '2'
   * [acl:relcl]() for relative adnominal clauses
   * [advcl:pred]() for optional depictives
   * [nummod:gov]() for cardinal numbers that are attached as children of the counted noun but govern its case
-  * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [flat:foreign]() for non-first words in quoted foreign phrases
   * [nmod:obl]()
   * [nmod:gov]()
   * [nmod:arg]()
 * The following relation types are not used in Lithuanian at all:
-  [clf](), [expl]()
+  [clf](), [expl](), [det:numgov]()
 
 ## Treebanks
 
