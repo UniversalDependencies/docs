@@ -43,7 +43,7 @@ used with an auxiliary verb (to create the future tense of the indicative mood) 
 
 * _Որով զոք դատիս՝ Նոյն դատաստան կամիս <b>կրել</b>/Orov zok’ datis՝ Noyn datastan kamis krel_ “The judgment you pass on others is the same one you are willing <b>to face</b> yourself”,
 * _Պատրաստ եմ <b>մեռանել</b> վասն անուան նորին/Patrast em meṙanel vasn anowan norin_ “I am ready to die for his name”,
-* _Մի՞թէ <b>մեոանելոյ</b> օրս մոտեցաւ/mit’ē meoaneloy òrs motec’aw_ “Has my day <b>to die</b> really come”,
+* _Մի՞թէ <b>մեռանելոյ</b> օրս մոտեցաւ/mit’ē meoaneloy òrs motec’aw_ “Has my day <b>to die</b> really come”,
 * _Եւ զայդ ի դողալուն ատենէ սկիզբն արա/ew zayd i doġalown atenē skizbn ara_ “And start this from the moment of <b>trembling</b>”
 
   
@@ -55,7 +55,7 @@ In Middle Armenian grammar, these words are normally called _converbs_. However,
 
 Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
 
-Middle Armenian has seven types of participles:
+Middle Armenian has six types of participles:
 
 - The resultative participle is used to form the indicative mood in present and imperfect resultative. It can be used adjectively and can be negated.
 - The subject participle can be used only adjectively and can be negated.
