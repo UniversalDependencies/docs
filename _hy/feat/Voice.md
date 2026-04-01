@@ -35,7 +35,7 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
 
-The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-վ-_ (for exeptions see below).
+The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-վ-_ (for exceptions see below).
 
 #### Examples
 
