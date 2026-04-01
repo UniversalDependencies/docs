@@ -27,7 +27,7 @@ case(home, toward)
 
 ~~~ sdparse
 Tavo dėka aš išsigelbėjau . \n Thanks to-you , I was-saved .
-case(tavo, dėka)
+case(Tavo, dėka)
 case(to-you, Thanks)
 ~~~
 
