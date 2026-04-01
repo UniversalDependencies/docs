@@ -47,14 +47,15 @@ Note that in Middle Armenian the passive meaning may sometimes lack a distinct m
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive, traditionally called medio-passiv (for reciprocal verbs see below); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive). A reflexive voice will be distinguished in future. 
+Between active and passive. Needed also for the reflexive, traditionally called mediopassiv (for reciprocal verbs see below); in this case, the verbs are marked with passiv infix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_ (but the lemma is tagged as non-reflexive).
 
-Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել&nbsp;_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
 
 #### Examples
 
 * _Նա <b>վախենում</b> է մթից_ “He is <b>afraid</b> of darkness”,
 * _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
+* _Որթն <b>բացւեալ</b> է տնկոյս/Ort’n bac’weal ē tnkoys_ “The vine of this sapling <b>has blossomed</b>”,
+* _սոքայ եխպայրք էին <b>բաժանված</b>/sok’ay expayrk’ ēin bažanvaç_ These brothers were divided
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
 * _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stood</b> thought of it”.
 
