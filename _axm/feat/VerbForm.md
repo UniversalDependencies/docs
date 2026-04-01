@@ -64,8 +64,7 @@ Middle Armenian has six types of participles:
 - The past participle is the continuation of the Classical Armenian past participle into the Middle Armenian. While in Classical Armenian this form could convey both active and passive meanings, in Middle Armenian it increasingly trends toward a passive sense, although a new passive infix (_-ու-/-ow-_) has already emerged. It can be used adjectively or substantively.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect-in-the-past (past perfect) tense. This participle may have two endings: either _-լ/-l_ or _-ր/-r_. In Middle Armenian it can be used adjectively.
 
-
-Note that the resultative, past and perfect participles can be used to form the secondary compound tenses (with the auxiliary _լինել_ in any tense or mood).
+Note that the resultative, past and perfect participles can be used to form the secondary compound tenses (with the auxiliary _լինել/linel_ “to be” in any tense or mood). The resultative participle can form secondary compound tenses also with other verbs, like _կենալ/kenal_ “to stay” or _կայ/kay_ “to exist, to be”. 
 
 Participles will have [Aspect](), [Voice]() and [Subcat]().
 
