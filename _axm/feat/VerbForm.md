@@ -63,7 +63,7 @@ Middle Armenian has six types of participles:
 - The future participle is used to form the indicative mood in present future or imperfect future (future-in-the-past) tense. Some of its forms (mainly with the ending _-ի/-i_ attached to the infinitive) can be used only adjectively and can be negated.
 - The past participle is the continuation of the Classical Armenian past participle into the Middle Armenian. While in Classical Armenian this form could convey both active and passive meanings, in Middle Armenian it increasingly trends toward a passive sense, although a new passive infix (_-ու-/-ow-_) has already emerged. It can be used adjectively or substantively.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect-in-the-past (past perfect) tense. It can also combine with the auxiliary _լինել/linel_ “to be” to form secondary compound tenses.
-  This participle may have two endings: either _-լ/-l_ or _-ր/-r_. In Middle Armenian it can be used adjectively.
+This participle may have two endings: either _-լ/-l_ or _-ր/-r_. In Middle Armenian it can be used adjectively.
 
 
 Note that the resultative, past and perfect participles can be used to form the secondary complex tenses (with the auxiliary _լինել_ in any tense or mood).
