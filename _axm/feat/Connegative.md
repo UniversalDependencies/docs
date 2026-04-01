@@ -16,7 +16,7 @@ Boolean feature of verbs ([VERB]() and [AUX]()), marking a word as
 being in connegative form.
 
 In Middle Armenian negated verbs in indicative and conditional moods (traditionally called _negative participle_) have the same form and are formed with the auxiliary negative verb (*չեմ*) in present or imperfect tense and the main verb, which typically appears in the infinitive mainly with the preposition _ի/i_.
-Negated imperative (prohibitive) mood is expressed by a verb in the infinitive or in the present tense (2nd person, indicative mood) together with the negative particle _մի/mi_ “not”. There's also a rarely used old form of prohibitive imperative, which is formed with a verb in Classical Armenian present tense and the negative particle _մի/mi_ (e.g. _մի՛ տաս/mi tas_ “don't give!”). It expresses a meaning similar to a negated verb in the subjunctive mood, roughly “You'd better not give.”
+Negated imperative (prohibitive) mood is expressed by a verb in the infinitive (ending with _-լ/-l_ or _-ր/-r_) or in the present tense (2nd person, subjanctive mood) together with the negative particle _մի/mi_ “not”. There's also a rarely used old form of prohibitive imperative, which is formed with a verb in Classical Armenian present tense and the negative particle _մի/mi_ (e.g. _մի՛ տաս/mi tas_ “don't give!”). It expresses a meaning similar to a negated verb in the subjunctive mood, roughly “You'd better not give.”
 
 Note that there is no `No` value. If the word is not connegative, the `Connegative` feature will not appear.
 
