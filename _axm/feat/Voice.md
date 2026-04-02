@@ -55,7 +55,7 @@ Between active and passive. Needed also for the reflexive, traditionally called 
 * _Նա <b>վախենում</b> է մթից_ “He is <b>afraid</b> of darkness”,
 * _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
 * _Որթն <b>բացւեալ</b> է տնկոյս/Ort’n bac’weal ē tnkoys_ “The vine of this sapling <b>has blossomed</b>”,
-* _սոքայ եխպայրք էին <b>բաժանված</b>/sok’ay expayrk’ ēin bažanvaç_ These brothers were divided
+* _սոքայ եխպայրք էին <b>բաժանված</b>/sok’ay expayrk’ ēin bažanvaç_ They were separated brothers
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
 * _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stood</b> thought of it”.
 
