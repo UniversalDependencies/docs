@@ -67,25 +67,16 @@ Note, that the auxiliary _տալ/tal_ (in various tenses and moods) is accombine
 
 #### Examples
 
-* _Եւ թէ ուտեցնես այլ օգտէ/Ew t’ē owtec’nes ayl ògtē_ “And if you <b>make (him/her) eat</b>, it will be even more beneficial” (but, _նա <b>կերավ</b>_.`Act` “he/she <b>ate</b>`Act`”).
-
-* _Մայրը <b>քնեցրեց</b>_ `Act` _որդուն_ “And if you <b>make (him/her) eat</b>, it is even more beneficial”,
-* _<b>Սովորեցնում</b>_ `Cau` _էր նրան լեզու_ “He <b>tought</b> her a foreign language”,
-* _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b>_ `Cau` _նրան&nbsp;_ “All these things <b>reminded</b> him a war”,
-* _Ո՞ր քամին <b>հանգցրեց</b>_ `Act` _նրանց սերը_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
-* _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”,
-* _<b>վազեցնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”,
-* _հասկանալ_.`Act` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _<b>հասկացնել</b>_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
+* _Եւ թէ ուտեցնես_ `Cau` _այլ օգտէ/Ew t’ē owtec’nes ayl ògtē_ “And if you <b>make (him/her) eat</b>, it will be even more beneficial”
+* _զկաթն կու պակսեցնէ `Act`/zkat’n kow paksec’nē_ “It reduces the milk”,
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
 
-The reciprocal is expressed by the passiv infix _-վ-_ however, the verb roots that can become reciprocal is limited.
+The reciprocal is expressed by the passiv infix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_ however, the verb roots that can become reciprocal is limited.
 
 #### Examples
 
-* _Նրանք <b>գրկախառնվեցին</b>&nbsp;_ “They hugged each other”.
+* _...որ ունին զկապողութեան ուժն, եւ ունին զլուծման ուժն, եւ յիրար <b>խառնուեցան</b>_ “...which possess the power of binding and the power of dissolving, and were <b>mixed together</b>”.
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->
