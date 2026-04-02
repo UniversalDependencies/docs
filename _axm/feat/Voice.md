@@ -52,12 +52,12 @@ Between active and passive. Needed also for the reflexive, traditionally called 
 
 #### Examples
 
-* _Նա <b>վախենում</b> է մթից_ “He is <b>afraid</b> of darkness”,
-* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
+* _Ոնց որ լուսն լուսանայր, <b>բարձրանայի</b> բունս <b>մտնուի</b>/Onc’ or lowsn lowsanayr, barjranayi bowns mtnowi_ “Just as it would dawn, I would rise and enter my nest”,
+* _Թէ իրմով <b>լուացուին</b>, շատ քուն տա անել/T’ē irmov lowac’owin, šat k’own ta anel_ “If they wash themselves with it, it induces much sleep”,
 * _Որթն <b>բացւեալ</b> է տնկոյս/Ort’n bac’weal ē tnkoys_ “The vine of this sapling <b>has blossomed</b>”,
-* _սոքայ եխպայրք էին <b>բաժանված</b>/sok’ay expayrk’ ēin bažanvaç_ They were separated brothers
-* _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
-* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stood</b> thought of it”.
+* _սոքայ եխպայրք էին <b>բաժանված</b>/sok’ay expayrk’ ēin bažanvaç_ “They were separated brothers”,
+* _Մենք <b>հարձակվեցինք</b> թշնամու վրա_ “We <b>attacked</b> the enemy”,
+* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ_ “After several months everybody <b>stood</b> thought of it”.
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
@@ -65,13 +65,13 @@ Note, that in Armenian this is a feature of verbs. In causative constructions th
 
 The causative is expressed by the infix _-ցն-_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau` (e.g. _<b>կորցնել, հանգցնել</b>_).
 
-Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
+Note, that the auxiliary _տալ/tal_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
 #### Examples
 
 * _չի <b>ուտեցնել</b>_ “He/she does not <b>feed (make smb. eat)</b>” (but, _նա <b>կերավ</b>_.`Act` “he/she <b>ate</b>`Act`”).
 
-* _Մայրը <b>քնեցրեց</b>_`Act` _որդուն&nbsp;_ “The mather <b>put</b> her son to sleep”,
+* _Մայրը <b>քնեցրեց</b>_ `Act` _որդուն_ “The mather <b>put</b> her son to sleep”,
 * _<b>Սովորեցնում</b>_ `Cau` _էր նրան լեզու&nbsp;_ “He <b>tought</b> her a foreign language”,
 * _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b>_ `Cau` _նրան&nbsp;_ “All these things <b>reminded</b> him a war”,
 * _Ո՞ր քամին <b>հանգցրեց</b>_ `Act` _նրանց սերը&nbsp;_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
