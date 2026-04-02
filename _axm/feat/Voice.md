@@ -56,14 +56,12 @@ Between active and passive. Needed also for the reflexive, traditionally called 
 * _Թէ իրմով <b>լուացուին</b>, շատ քուն տա անել/T’ē irmov lowac’owin, šat k’own ta anel_ “If they wash themselves with it, it induces much sleep”,
 * _Որթն <b>բացւեալ</b> է տնկոյս/Ort’n bac’weal ē tnkoys_ “The vine of this sapling <b>has blossomed</b>”,
 * _սոքայ եխպայրք էին <b>բաժանված</b>/sok’ay expayrk’ ēin bažanvaç_ “They were separated brothers”,
-* _Մենք <b>հարձակվեցինք</b> թշնամու վրա_ “We <b>attacked</b> the enemy”,
-* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ_ “After several months everybody <b>stood</b> thought of it”.
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
-Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
+Note, that in Middle Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
 
-The causative is expressed by the infix _-ցն-_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau` (e.g. _<b>կորցնել, հանգցնել</b>_).
+The causative is expressed by both the Classical Armenain infix _-ուցան-_ and its phonologically altered variant _-ցըն- (-ցն-)_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau` (e.g. _<b>կորցնել, հանգցնել</b>_).
 
 Note, that the auxiliary _տալ/tal_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
@@ -72,14 +70,14 @@ Note, that the auxiliary _տալ/tal_ (in various tenses and moods) is accombine
 * _չի <b>ուտեցնել</b>_ “He/she does not <b>feed (make smb. eat)</b>” (but, _նա <b>կերավ</b>_.`Act` “he/she <b>ate</b>`Act`”).
 
 * _Մայրը <b>քնեցրեց</b>_ `Act` _որդուն_ “The mather <b>put</b> her son to sleep”,
-* _<b>Սովորեցնում</b>_ `Cau` _էր նրան լեզու&nbsp;_ “He <b>tought</b> her a foreign language”,
+* _<b>Սովորեցնում</b>_ `Cau` _էր նրան լեզու_ “He <b>tought</b> her a foreign language”,
 * _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b>_ `Cau` _նրան&nbsp;_ “All these things <b>reminded</b> him a war”,
-* _Ո՞ր քամին <b>հանգցրեց</b>_ `Act` _նրանց սերը&nbsp;_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
+* _Ո՞ր քամին <b>հանգցրեց</b>_ `Act` _նրանց սերը_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
 * _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”,
 * _<b>վազեցնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”,
-* _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
+* _հասկանալ_.`Act` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> somebody understand”,
+* _<b>հասկացնել</b>_.`Cau` “lit: to <b>make</b> somebody understand”,
+* _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
