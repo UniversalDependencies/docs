@@ -61,15 +61,15 @@ Between active and passive. Needed also for the reflexive, traditionally called 
 
 Note, that in Middle Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
 
-The causative is expressed by both the Classical Armenain infix _-ուցան-_ and its phonologically altered variant _-ցըն- (-ցն-)_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau` (e.g. _<b>կորցնել, հանգցնել</b>_).
+The causative in Middle Armenian is expressed by both the Classical Armenain infix _-ուցան-_ and its phonologically altered new variant _-ցըն- (-ցն-)_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau` (e.g. _<b>սատակեցուցանել</b>/satakec’owc’anel_ “kill, annihilate”, _<b>շողցնել</b>/šoġc’nel</b>_ “to make shine”).
 
 Note, that the auxiliary _տալ/tal_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
 #### Examples
 
-* _չի <b>ուտեցնել</b>_ “He/she does not <b>feed (make smb. eat)</b>” (but, _նա <b>կերավ</b>_.`Act` “he/she <b>ate</b>`Act`”).
+* _Եւ թէ ուտեցնես այլ օգտէ/Ew t’ē owtec’nes ayl ògtē_ “And if you <b>make (him/her) eat</b>, it will be even more beneficial” (but, _նա <b>կերավ</b>_.`Act` “he/she <b>ate</b>`Act`”).
 
-* _Մայրը <b>քնեցրեց</b>_ `Act` _որդուն_ “The mather <b>put</b> her son to sleep”,
+* _Մայրը <b>քնեցրեց</b>_ `Act` _որդուն_ “And if you <b>make (him/her) eat</b>, it is even more beneficial”,
 * _<b>Սովորեցնում</b>_ `Cau` _էր նրան լեզու_ “He <b>tought</b> her a foreign language”,
 * _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b>_ `Cau` _նրան&nbsp;_ “All these things <b>reminded</b> him a war”,
 * _Ո՞ր քամին <b>հանգցրեց</b>_ `Act` _նրանց սերը_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
