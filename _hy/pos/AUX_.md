@@ -24,19 +24,19 @@ Armenian auxiliary verbs can be divided into:
 
 ### Examples
 
-- Present tense. Finite present form of _եմ&nbsp;_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles expresse aspect and voice:
+- Present tense. Finite present form of _եմ&nbsp;_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   _վազում <b>եմ</b>&nbsp;_ “I run / I am running”,
   _կանգնած <b>են</b>&nbsp;_ “they are standing”.
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
 
-- Imperfect tense. Finite imperfect form of _էի&nbsp;_ is combined with imperfective, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles expresse aspect and voice:
+- Imperfect tense. Finite imperfect form of _էի&nbsp;_ is combined with imperfective, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   _վազում <b>էի</b>&nbsp;_ “I was running”,
   _վազել <b>էիր</b>&nbsp;_ “you had run”,
   _կանգնած <b>էին</b>&nbsp;_ “they were standing”.
 
 Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>&nbsp;_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice.
 
-- Durative / habitual aspect. The finite form of _լինել (լինեմ)&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) is combined with processual, resultative and future participles of the lexical verb. The auxiliary expresses aspect, person, number, mood, tense and aspect, participles expresse aspect and voice:
+- Durative / habitual aspect. The finite form of _լինել (լինեմ)&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) is combined with processual, resultative and future participles of the lexical verb. The auxiliary expresses aspect, person, number, mood, tense and aspect, participles express aspect and voice:
   _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I intent to go.`Sub`”,
   _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone.`Sub`”,
   _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going.`Sub`”,
