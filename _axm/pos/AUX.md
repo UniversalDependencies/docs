@@ -10,7 +10,7 @@ udver: '2'
 
 ### Definition
 
-has the following auxiliary verbs: _եմ/em_ “to be’, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the negated auxiliary _չի/či_,
+Middle Armenian has the following auxiliary verbs: _եմ/em_ “to be’, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the existentials _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”, the negated auxiliary _չի/či_,
 and its variant (with separate lemma) _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”.
 It accompanies the lexical verb of a verb phrase and expresses
 grammatical distinctions not carried by the lexical verb.
@@ -43,6 +43,9 @@ Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ a
   _գնալու <b>լինել</b>&nbsp;_ “to intend to go, to be going”,
   _գնացած <b>լինել</b>&nbsp;_ “to be gone”,
   _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”.
+
+  _Եւ թէ որդիքն մեռել <b>լինին</b> թագաւորին_ “And if the king's sons have died...”
+  _Ոմանք չեն արժանի ի յիւր տեսոյն, կան հալածել_ “Some are not worthy of his sight; they remain persecuted”
 
 - Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitve of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
   _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
