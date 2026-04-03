@@ -45,7 +45,8 @@ Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ a
   _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”.
 
   _Եւ թէ որդիքն մեռել <b>լինին</b> թագաւորին_ “And if the king's sons have died...”
-  _Ոմանք չեն արժանի ի յիւր տեսոյն, կան հալածել_ “Some are not worthy of his sight; they remain persecuted”
+   _եղկ ջուր, յոր եփած <b>լինի</b> չոր մանուշակն եւ վարդ_ “lukewarm water, in which dried violet and rose have been boiled”
+   _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան</b> հալածել_ “Some are not worthy of his sight; they remain persecuted”
 
 - Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitve of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
   _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
