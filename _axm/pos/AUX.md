@@ -10,17 +10,15 @@ udver: '2'
 
 ### Definition
 
-Middle Armenian has the following auxiliary verbs: _եմ/em_ “to be”, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the existentials _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”, the mood auxiliaries _կու/kow_ “do, will”,  _պիտի/piti_ “to be necessary, useful”, the negated auxiliary _չի/či_,
-and its variant (with separate lemma) _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”.
-It accompanies the lexical verb of a verb phrase and expresses
-grammatical distinctions not carried by the lexical verb.
+Middle Armenian has the following auxiliary verbs: _եմ/em_ “to be”, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the existentials _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”, the mood auxiliaries _կու/kow_ “be, will”,  _պիտի/piti_ “to be necessary, useful”, the negated auxiliaries _չի/či_, _ոչ/oč_ “don't”.
+The main auxiliary verb _եմ/em_. It accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
 
 Armenian auxiliary verbs can be divided into:
 
-- tense auxiliary, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
-- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
-- voice auxiliary, used to form periphrastic causative represented by _տալ&nbsp;_ “cause / make someone to perform action”,
-- mood auxiliary, used to form periphrastic necessitative mood by _պիտի&nbsp;_ “to be necessary, useful” or _պետք է&nbsp;_ “lit: is needed”.
+- tense auxiliary, used to form compound tenses represented by _եմ_ and _էի_ “be”,
+- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by  _կու/kow_ “be, will”, _լինիմ/linim_ “be repeatedly / habitually”, _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”,
+- mood auxiliary, used to form periphrastic necessitative mood by  _կու/kow_ “be, will”, _պիտի_ “to be necessary, useful” or __ “lit: is needed”,
+# - voice auxiliary, used to form periphrastic causative represented by _տալ_ “cause / make someone to perform action”
 
 ### Examples
 
