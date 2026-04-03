@@ -21,7 +21,7 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 ### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
-The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ/կոյ)/kow (k/koy)_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
+The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)/kow (k, koy)_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
 The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the inflectional endings, negation may also be expressed by a construction consisting of the negative particle followed by a verb in the infinitive, with or without the preposition _ի_.
 
 #### Examples
