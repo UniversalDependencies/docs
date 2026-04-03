@@ -10,7 +10,7 @@ udver: '2'
 
 ### Definition
 
-The only truly auxiliary verb in Armenian is _եմ&nbsp;_ “be”,
+has the following auxiliary verbs: _եմ/em_ “to be’, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the negated auxiliary _չի/či_,
 and its variant (with separate lemma) _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”.
 It accompanies the lexical verb of a verb phrase and expresses
 grammatical distinctions not carried by the lexical verb.
