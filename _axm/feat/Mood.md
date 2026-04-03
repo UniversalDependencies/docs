@@ -63,7 +63,7 @@ The main verb is marked as [Connegative]().
 #### Examples
 
 * _<b>կու երթանք</b>_ “we <b>will</b> go/we <b>go</b>”,
-* _<b>կելանեմ</b> “<b>I will come out/I come out</b>”,
+* _<b>կելանեմ</b>_ “<b>I will come out/I come out</b>”,
 * _<b>կոյ մտանեմ</b>_ “<b>I will enter/I enter</b>”,
 * _Որդունքն <b>չեն</b> ինձ <b>ողորմիլ</b>_ “The sons will not (do not) pity me”,
 * _նայ <b>չէր</b> կրկին <b>յետս դառնալ</b>/nay čēr krkin yets daṙnal_ “He would not come back again”
