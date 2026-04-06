@@ -24,7 +24,7 @@ Reflexive possessives indicate that the subject of the clause is the possessor:
 ### <a name="Yes">`Yes`</a>: it is reflexive
 
 Note that there is no `No` value. If the word is not reflexive, the `Reflex` feature will just not be mentioned in the `FEAT` 
-column. (Which means that empty value has the `No` meaning.)
+column (which means that empty value has the `No` meaning.)
 
 #### Examples
 
