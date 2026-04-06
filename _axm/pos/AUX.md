@@ -35,7 +35,7 @@ Armenian auxiliary verbs can be divided into:
   * _գնացած <b>էի</b>/gnac’aç ēi_ “I was gone”.
 
 
-- Perfect aspect. The finite forms of _լինիմ/linim_, _կամ/kam_ and  _ունիմ/ownim_ (in various tenses and moods) are combined with perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
+- Perfect aspect. The finite forms of _լինիմ/linim_, _կամ/kam_ and  _ունիմ/ownim_ (in various tenses and moods) are combined with perfect and resultative participles of the lexical verb. They form secondary compound tenses. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _Եւ թէ որդիքն մեռել <b>լինին</b> թագաւորին/Ew t’ē ordik’n meṙel linin t’agaworin_ “And if the king's sons have died...”,
   * _եղկ ջուր, յոր եփած <b>լինի</b> չոր մանուշակն եւ վարդ/eġk ǰowr, yor ep’aç lini čor manowšakn ew vard_ “lukewarm water, in which dried violet and rose have been boiled”,
   * _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան</b> հալածել/Omank’ čen aržani i yiwr tesoyn, kan halaçel_ “Some are not worthy of his sight; they remain persecuted”,
