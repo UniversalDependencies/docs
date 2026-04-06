@@ -22,7 +22,7 @@ Middle Armenian has a complex tense/aspect/mood system.
 
 Note, that we are defining features that apply to a single word. If a tense is constructed periphrastically (two words, e.g. auxiliary verb indicative + participle of the main verb), and none of the participating words are specific to this tense, then the features will probably not directly reveal the tense.
 
-Actions that happened before, during, and after a past or present event are constructed in Middle Armenian by using perfect, resultative, imperfective and future participles.
+In Middle Armenian, actions that occurred before, during, and after a past or present event are expressed using perfect, resultative, and future participles.
 
 Note, that actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxiliary in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be an [aspect](Aspect) (`Aspect=Prosp`) information at the participle (e.g. _վազելու <b>էի</b> տուն&nbsp;_ “I <b>should</b> run home” or _վազելու <b>եմ</b> տուն&nbsp;_ “I <b>shall</b> run home”).
 
