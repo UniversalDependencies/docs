@@ -52,9 +52,7 @@ Armenian auxiliary verbs can be divided into:
   * _<b>պիտ</b> ապաշխարէ/pit apašxarē_ “he/she must/will repent”,
   * _ինչ <b>տի</b> լինայ/inč ti linay_ “what <b>must/will</b> happen”.
 
-Note, that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended
-to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինել (լինեմ)&nbsp;_ should be now tagged `AUX`.
-Only pure existentials without location (_Այն <b>եղել</b> է ու <b>կա</b> որպես հուշ։&nbsp;_ “It <b>has been</b> and <b>is</b> as a memory.”) have a non-auxiliary _լինել&nbsp;_ and _կամ&nbsp;_ which should be tagged `VERB`.
+Note, that in Middle Armenian copulas are also tagged `AUX`(_քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair <b>is</b> (like) grape-vine tendrils”,  _Պագն որ դրամով <b>լինի</b>, չեմ իտար_ “A kiss that <b>is</b> for money, I shall not give”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`.
 
 ### Modal verbs are not auxiliaries
 
