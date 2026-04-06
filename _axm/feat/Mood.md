@@ -86,7 +86,7 @@ with two different tenses (imperfect and present).
 
 The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
 
-Middle Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>/piti_ or its reduced forms _<b>պիտ/pit, տի</b>/ti_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
+Middle Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>/piti_ or its reduced forms _<b>պիտ/pit, տի</b>/ti_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood (present/imperfect tense forms of indicative mood in Classical Armenian).
 
 The mood particle _<b>պիտի</b>/piti_ is historically present tense of the verb _<b>պիտիմ</b>/pitim_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. It expresses compulsary, oblicative necessity.
 
