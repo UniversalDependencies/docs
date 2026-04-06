@@ -32,7 +32,7 @@ Armenian auxiliary verbs can be divided into:
 - Imperfect tense. Finite imperfect form of _էի_ is combined with future, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _գրելոյ (գրելու) <b>էի</b>/greloy (grelow) ēi_ “I should write”,
   * _խօսել(ր) <b>էի</b>/xòsel(r) ēi_ “I had spoken”,
-  * _գնացած <b>էի<b>/gnac’aç ēi_ “I was gone”.
+  * _գնացած <b>էի</b>/gnac’aç ēi_ “I was gone”.
 
 
 - Durative / habitual aspect. The finite form of _լինիմ/linim_ (in various tenses and moods) is combined with, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood, tense and aspect, participles express aspect and voice:
