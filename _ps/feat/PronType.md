@@ -600,8 +600,8 @@ The latter can be used also separately as a pronoun.
     <b>Direct</b><br/>
   </td>
   <td align="middle" style="background-color:lightblue">هیڅوک hicók</td>
-  <td align="middle" style="background-color:lighgreen">هیڅ hic</td>
-  <td align="middle" style="background-color:lighgreen"></td>
+  <td align="middle" style="background-color:lightgreen">هیڅ hic</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 <tr>
   <td align="left">
@@ -610,8 +610,8 @@ The latter can be used also separately as a pronoun.
     <b>Ablative</b>
   </td>
   <td align="middle" style="background-color:pink">هیچا hičấ</td>
-  <td align="middle" style="background-color:lighgreen"></td>
-  <td align="middle" style="background-color:lighgreen"></td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
