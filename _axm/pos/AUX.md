@@ -54,7 +54,8 @@ Note that in Middle Armenian, modal verbs are not considered auxiliary verbs and
   * _<b>պիտ</b> ապաշխարէ/pit apašxarē_ “he/she must/will repent”,
   * _ինչ <b>տի</b> լինայ/inč ti linay_ “what <b>must/will</b> happen”.
 
-Note, that in Middle Armenian copulas are also tagged `AUX`
+Note, that in Middle Armenian copulas are also tagged `AUX`.
+
   * _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair <b>is</b> (like) grape-vine tendrils”,
   * _Պագն որ դրամով <b>լինի</b>, չեմ իտար_ “A kiss that <b>is</b> for money, I shall not give”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`.
 
