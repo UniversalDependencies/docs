@@ -10,7 +10,7 @@ udver: '2'
 
 ### Definition
 
-Middle Armenian has the following auxiliary verbs: _եմ/em_ “to be”, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the existentials _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”, the mood auxiliaries _կու (կ, կոյ)/kow (k, koy)_ “be, will”,  _պիտի/piti_ “to be necessary, useful”, the negative auxiliaries _չի/či_, _ոչ/oč_ “don't”.
+Middle Armenian has the following auxiliary verbs: _եմ/em_ “to be”, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the existentials _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”, the mood auxiliaries _կու (կ, կոյ)/kow (k, koy)_ “be, will”,  _պիտի/piti_ “to be necessary, useful”, the negative auxiliaries _չի/či_ (_չ-_), _ոչ/oč_ “do/does not”.
 The main auxiliary verb is _եմ/em_. It accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
 
 Armenian auxiliary verbs can be divided into:
@@ -18,7 +18,7 @@ Armenian auxiliary verbs can be divided into:
 - tense auxiliary, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”
 - aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինիմ/linim_ “be repeatedly / habitually”, _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”,
 - mood auxiliary, used to form periphrastic necessitative mood by  _կու/kow_ “be, will”, _պիտի/piti_ “to be necessary, useful” or its reduced forms _պիտ/pit, տի/ti_.
-- negative auxiliary, negating words represented by  _ոչ/oč_ and _չի/či_ (with its reduced bound form _չ-_) “don't”.
+- negative auxiliary, negating words represented by  _ոչ/oč_ and _չի/či_ (with its reduced bound form _չ-_) “do/does not”.
 
 
 ### Examples
@@ -56,7 +56,7 @@ Note that in Middle Armenian, modal verbs are not considered auxiliary verbs and
 
 Note, that in Middle Armenian copulas are also tagged `AUX`: _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair <b>is</b> (like) grape-vine tendrils”, _Պագն որ դրամով <b>լինի</b>, չեմ իտար_ “A kiss that <b>is</b> for money, I shall not give”). Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`.
 
-- Negative auxiliary. Negating words _ոչ/oč_ and _չի/či_ (with its reduced bound form _չ-_) “don't” used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. 
+- Negative auxiliary. Negating words _ոչ/oč_ and _չի/či_ (with its reduced bound form _չ-_) “do/does not” used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. 
 Note that negative auxiliaries are not the same as negated forms of the auxiliaries _եմ_ and _էի_ which can take the bound morpheme of negation _չ_ and have the feature of polarity.
    * _Յեկեղեցին <b>ոչ</b> երեւայ Եւ զեկեալ հիւրսն <b>ոչ</b> խղճայ/Yekeġec’in oč ereway Ew zekeal hiwrsn oč xġč̣ay_ “The church does not appear (isn't seen), and it does not pity the visitors who have arrived”
    * _<b>Չի</b> դառնաս հեղ մի յիս հայես. <b>Չի</b> գիտե՞ս քո պլպուլն եմ ես/Či daṙnas heġ mi yis hayes. Či gites k’o plpowln em es_ “You do not turn and glance at me even once, Don't you know that I am your nightingale?”
