@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Egyptian <span class="flagspan"><img class="flag" src="../../flags/svg/EG.svg" /></span>
 
-This is an overview based on the works cited in the README bibliography. Please note that this is a work in progress. A detailed description of each stage of Egyptian is planned to be published.
+This is an overview based on the works cited in the README bibliography. It was written by Roberto A. Díaz Hernández. Please note that this is a work in progress. A detailed description of each stage of Egyptian is planned to be published.
 
 
 ## Introduction
