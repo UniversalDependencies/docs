@@ -42,35 +42,35 @@ Personal pronouns for the first and the second person and reflexive personal pro
     <b>Direct</b><br/>
     <b>(Vocative)</b>
   </td>
-  <td align="middle">زۀ zë</td>
-  <td align="middle" style="background-color:red">موږ muǧ<br/>مونږ munǧ</td>
-  <td align="middle">تۀ të</td>
-  <td align="middle">تاسو tấso<br/>تاسې tấse</td>
-  <td align="middle">ځان żân</td>
-  <td align="middle">ځانونه żânúna</td>
+  <td align="middle" style="background-color:lightgreen">زۀ zë</td>
+  <td align="middle" style="background-color:pink">موږ muǧ<br/>مونږ munǧ</td>
+  <td align="middle" style="background-color:lightgreen">تۀ të</td>
+  <td align="middle" style="background-color:pink">تاسو tấso<br/>تاسې tấse</td>
+  <td align="middle" style="background-color:lightgreen">ځان żân</td>
+  <td align="middle" style="background-color:pink">ځانونه żânúna</td>
 </tr>
 <tr>
   <td align="left">
     <b>Locative</b><br/>
     <b>Oblique</b><br/>
   </td>
-  <td align="middle">ما mâ</td>
-  <td align="middle">⇑</td>
-  <td align="middle">تا tâ</td>
-  <td align="middle">⇑</td>
-  <td align="middle">⇑</td>
-  <td align="middle">ځانونو żânúno</td>
+  <td align="middle" style="background-color:lightblue">ما mâ</td>
+  <td align="middle" style="background-color:pink"></td>
+  <td align="middle" style="background-color:lightblue">تا tâ</td>
+  <td align="middle" style="background-color:pink"></td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">ځانونو żânúno</td>
 </tr>
 <tr>
   <td align="left">
     <b>Ablative</b>
   </td>
-  <td align="middle">⇑</td>
-  <td align="middle">⇑</td>
-  <td align="middle">⇑</td>
-  <td align="middle">⇑</td>
-  <td align="middle">ځانه żấna</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink"></td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink"></td>
+  <td align="middle" style="background-color:lightblue">ځانه żấna</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
