@@ -17,7 +17,7 @@ Verbal adjectives can be derived productively from almost every verb (the passiv
 They are tagged `ADJ`, but with `VerbForm=Part` feature.
 They have always full gender-number-case inflectional paradigm and are used as common adjectives.
 
-Apart from these, Pashto has also past participles, that are tagged [ps-pos/VERB](),
+Apart from these, Pashto has also past participles, that are tagged [VERB](),
 because thay are used mostly in various compound forms,
 although they can be used in attributive or predicative positions like common adjectives.
 
@@ -26,7 +26,7 @@ For the overview of declension of adjectives in Pashto, see [Pashto nominal syst
 ### Examples
 
 * adjectival modifier: **لوی** کور _**loy** kor_ “**big** house”
-  * active participle: **خوړونکي** سړي _xwaṛúnki saṛí_ “**eating** men”
-  * passive participle: **لیکنۍ** ژبه _likanë́y žë́ba_ “**written** language”
+  * active participle: **خوړونکي** سړي _**xwaṛúnki** saṛí_ “**eating** men”
+  * passive participle: **لیکنۍ** ژبه _**likanë́y** žë́ba_ “**written** language”
 * nominal predicate: نجلۍ **ښکلې** ده _nǰë́lëy **x̌kúle** da_ “the girl is **pretty**”
 * adverbial modifier: **ډېره** کوچنۍ څوکۍ _**ḍéra** kučnë́y cawkë́y_ “**very** small chair” (it is indeed an adjective agreeing with the noun, not an adverb)
