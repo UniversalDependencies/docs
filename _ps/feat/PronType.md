@@ -243,13 +243,13 @@ The long proximate pronouns bear the feature `Variant=Long`.
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle"><b>⇒</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"><b>remote</b></td>
-  <td align="middle"><b>⇐</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
-  <td align="middle"><b>⇒</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"><b>proximate<br/>long variant</b></td>
-  <td align="middle"><b>⇐</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
   <td align="middle"><b>proximate</b></td>
 </tr>
@@ -284,30 +284,30 @@ The long proximate pronouns bear the feature `Variant=Long`.
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle">⇒</td>
-  <td align="middle">هغه háġa</td>
-  <td align="middle">⇐</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen">هغه háġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle"></td>
-  <td align="middle">⇒</td>
-  <td align="middle">دغه dáġa</td>
-  <td align="middle">⇐</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen">دغه dáġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle"></td>
-  <td align="middle">دا dâ</td>
+  <td align="middle" style="background-color:lightgreen">دا dâ</td>
 </tr>
 <tr>
   <td align="left">
     <b>Locative</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle">هغۀ háġë</td>
-  <td align="middle">⇑</td>
-  <td align="middle">هغو háġo</td>
+  <td align="middle" style="background-color:lighblue">هغۀ háġë</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">هغو háġo</td>
   <td align="middle"></td>
-  <td align="middle">دغۀ dáġë</td>
-  <td align="middle">⇑</td>
-  <td align="middle">دغو dáġo</td>
+  <td align="middle" style="background-color:lighblue">دغۀ dáġë</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">دغو dáġo</td>
   <td align="middle"></td>
-  <td align="middle">دې de</td>
+  <td align="middle" style="background-color:yellow">دې de</td>
 </tr>
 <tr>
   <td align="left">
@@ -315,15 +315,15 @@ The long proximate pronouns bear the feature `Variant=Long`.
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
-  <td align="middle">⇑</td>
-  <td align="middle">هغې háġe</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:lighblue"></td>
+  <td align="middle" style="background-color:pink">هغې háġe</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">⇑</td>
-  <td align="middle">دغې dáġe</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:lighblue"></td>
+  <td align="middle" style="background-color:pink">دغې dáġe</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 </table>
 
