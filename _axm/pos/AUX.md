@@ -54,11 +54,10 @@ Note that in Middle Armenian, modal verbs are not considered auxiliary verbs and
   * _<b>պիտ</b> ապաշխարէ/pit apašxarē_ “he/she must/will repent”,
   * _ինչ <b>տի</b> լինայ/inč ti linay_ “what <b>must/will</b> happen”.
 
-Note, that in Middle Armenian copulas are also tagged `AUX`.
-   * _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair <b>is</b> (like) grape-vine tendrils”,
-   * _Պագն որ դրամով <b>լինի</b>, չեմ իտար_ “A kiss that <b>is</b> for money, I shall not give”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`.
+Note, that in Middle Armenian copulas are also tagged `AUX`: _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair <b>is</b> (like) grape-vine tendrils”, _Պագն որ դրամով <b>լինի</b>, չեմ իտար_ “A kiss that <b>is</b> for money, I shall not give”). Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`.
 
-- Negative auxiliary. Negating words _ոչ/oč_ and _չի/či_ (with its reduced bound form _չ-_) “don't” used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as negated forms of the auxiliaries _եմ_ and _էի_ which can take the bound morpheme of negation _չ_ and have the feature of polarity.
+- Negative auxiliary. Negating words _ոչ/oč_ and _չի/či_ (with its reduced bound form _չ-_) “don't” used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. 
+Note that negative auxiliaries are not the same as negated forms of the auxiliaries _եմ_ and _էի_ which can take the bound morpheme of negation _չ_ and have the feature of polarity.
    * _Յեկեղեցին <b>ոչ</b> երեւայ Եւ զեկեալ հիւրսն <b>ոչ</b> խղճայ/Yekeġec’in oč ereway Ew zekeal hiwrsn oč xġč̣ay_ “The church does not appear (isn't seen), and it does not pity the visitors who have arrived”
    * _<b>Չի</b> դառնաս հեղ մի յիս հայես. <b>Չի</b> գիտե՞ս քո պլպուլն եմ ես/Či daṙnas heġ mi yis hayes. Či gites k’o plpowln em es_ “You do not turn and glance at me even once, Don't you know that I am your nightingale?”
    * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չ</b>ընդունի բնաւ/Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ And this type (of ailment) does not admit any treatment or cure at all.
