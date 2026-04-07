@@ -44,7 +44,7 @@ Armenian auxiliary verbs can be divided into:
 
 Note that in Middle Armenian, modal verbs are not considered auxiliary verbs and are tagged as `VERB`.
 
-- Conditional mood. The mood particle  _կու (կ, կոյ)/kow (k, koy)_ “be, will”, is combined with subjunctive (present and imperfect tense forms of indicative mood of Classical Armenian) finite form of lexical verb. The auxiliary expresses mood.
+- Indicative and conditional mood. The mood particle  _կու (կ, կոյ)/kow (k, koy)_ “be, will”, is combined with subjunctive (present and imperfect tense forms of indicative mood of Classical Armenian) finite form of lexical verb. The auxiliary expresses mood:
   * _<b>կու</b> երթանք/kow ert’ank’_ “we <b>will</b> go/we <b>go</b>”,
   * _<b>կ</b>ելանեմ</b>/kelanem_ “<b>I will come out/I come out</b>”,
   * _<b>կոյ</b> մտանեմ</b>/koy mtanem_ “<b>I will enter/I enter</b>”,
