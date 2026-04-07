@@ -13,7 +13,7 @@ Determiners under this definition include both _articles_ and _pro-adjectives (p
 
 Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _հանչաք, հէնչափ/hančak’, hēnčap’, ամէն/amēn&nbsp;_ “that many, every”).
 
-Note that in Armenian nominal usually allows one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այն_ in _<b>այն</b> ամէն ջիլքն մարմնոյն/ayn amēn ǰilk’n marmnoyn&nbsp;_ “all <b>those</b> tandons in the body.” In such cases, both _այն/ayn&nbsp;_ “this” and _ամէն/amēn&nbsp;_ “all” are given the POS `DET`.
+Note that in Middle Armenian a nominal usually allows one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այն_ in _<b>այն</b> ամէն ջիլքն մարմնոյն/ayn amēn ǰilk’n marmnoyn&nbsp;_ “all <b>those</b> tendons in the body.” In such cases, both _այն/ayn_ “this” and _ամէն/amēn_ “all” are given the POS `DET`.
 
 ### Examples
 
