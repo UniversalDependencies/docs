@@ -431,8 +431,8 @@ These forms are indeclinable.
 </tr>
 <tr>
   <td align="middle"><i>such like that/those</i></td>
-  <td align="middle"><i>such like this/these</i></td>
-  <td align="middle"><i>⇐</i></td>
+  <td align="middle" style="background-color:yellow"><i>such like this/these</i></td>
+  <td align="middle" style="background-color:yellow"><i></i></td>
 </tr>
 <tr>
   <td align="middle">هغسې háġase</td>
@@ -444,8 +444,8 @@ These forms are indeclinable.
 </tr>
 <tr>
   <td align="middle"><i>same like that/those</i></td>
-  <td align="middle"><i>same like this/these</i></td>
-  <td align="middle"><i>⇐</i></td>
+  <td align="middle" style="background-color:yellow"><i>same like this/these</i></td>
+  <td align="middle" style="background-color:yellow"><i></i></td>
 </tr>
 <tr>
   <td align="middle">هماغسې hamấġase</td>
@@ -475,7 +475,7 @@ These forms are indeclinable.
     <b>Direct</b><br/>
   </td>
   <td align="middle">څوک cok</td>
-  <td align="middle">څۀ cë</td>
+  <td align="middle" style="background-color:lightgreen">څۀ cë</td>
 </tr>
 <tr>
   <td align="left">
@@ -484,7 +484,7 @@ These forms are indeclinable.
     <b>Ablative</b>
   </td>
   <td align="middle">چا čâ</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:lightgreen">⇑</td>
 </tr>
 </table>
 
@@ -528,7 +528,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
     <b>Direct</b><br/>
   </td>
   <td align="middle">ځینې żíne</td>
-  <td align="middle">څو co</td>
+  <td align="middle" style="background-color:lightgreen">څو co</td>
 </tr>
 <tr>
   <td align="left">
@@ -537,7 +537,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
     <b>Ablative</b>
   </td>
   <td align="middle">ځینو żíno</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:lightgreen">⇑</td>
 </tr>
 </table>
 
@@ -567,7 +567,7 @@ It is used usually in negative sentences. It can mean also “which” (marked a
     <b>Direct</b><br/>
   </td>
   <td align="middle">هرڅوک harcók</td>
-  <td align="middle">هرڅۀ harcë́</td>
+  <td align="middle" style="background-color:lightgreen">هرڅۀ harcë́</td>
 </tr>
 <tr>
   <td align="left">
@@ -576,7 +576,7 @@ It is used usually in negative sentences. It can mean also “which” (marked a
     <b>Ablative</b>
   </td>
   <td align="middle">هرچا harčấ</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:lightgreen">⇑</td>
 </tr>
 </table>
 
