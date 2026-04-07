@@ -15,22 +15,22 @@ The main auxiliary verb is _եմ/em_. It accompanies the lexical verb of a verb 
 
 Armenian auxiliary verbs can be divided into:
 
-- tense auxiliary, used to form compound tenses represented by _եմ_ and _էի_ “be”
+- tense auxiliary, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”
 - aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինիմ/linim_ “be repeatedly / habitually”, _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”,
-- mood auxiliary, used to form periphrastic necessitative mood by  _կու/kow_ “be, will”, _պիտի_ “to be necessary, useful” or its reduced forms _<b>պիտ/pit, տի</b>/ti_.
+- mood auxiliary, used to form periphrastic necessitative mood by  _կու/kow_ “be, will”, _պիտի/piti_ “to be necessary, useful” or its reduced forms _պիտ/pit, տի/ti_.
 - negative auxiliary, independent negating words represented by _չի/či_, _ոչ/oč_ “don't”.
 
 
 ### Examples
 
-- Present tense. Finite present form of _եմ_ is combined with future, perfect and resultative participles of lexical verbs. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
+- Present tense. Finite present form of _եմ/em_ is combined with future, perfect and resultative participles of lexical verbs. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _գրելոյ (գրելու) <b>եմ</b>/greloy (grelow) em_ “I shall write”,
   * _խօսել(ր) <b>եմ</b>/xòsel(r) em_ “I have spoken”,
   * _գնացած <b>եմ</b>/gnac’aç em_ “I am gone”.
  
- Note that a limited set of verbs can form present morphologically, without the auxiliary.
+ Note that a limited set of verbs can form present morphologically, without the auxiliary (the older form of the present tense of the indicative mood).
 
-- Imperfect tense. Finite imperfect form of _էի_ is combined with future, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
+- Imperfect tense. Finite imperfect form of _էի/ēi_ is combined with future, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _գրելոյ (գրելու) <b>էի</b>/greloy (grelow) ēi_ “I should write”,
   * _խօսել(ր) <b>էի</b>/xòsel(r) ēi_ “I had spoken”,
   * _գնացած <b>էի</b>/gnac’aç ēi_ “I was gone”.
