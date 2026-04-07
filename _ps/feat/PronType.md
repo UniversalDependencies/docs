@@ -43,7 +43,7 @@ Personal pronouns for the first and the second person and reflexive personal pro
     <b>(Vocative)</b>
   </td>
   <td align="middle">زۀ zë</td>
-  <td align="middle">موږ muǧ<br/>مونږ munǧ</td>
+  <td align="middle" style="color:red">موږ muǧ<br/>مونږ munǧ</td>
   <td align="middle">تۀ të</td>
   <td align="middle">تاسو tấso<br/>تاسې tấse</td>
   <td align="middle">ځان żân</td>
