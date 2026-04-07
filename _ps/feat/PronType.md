@@ -192,18 +192,18 @@ They are also used in contracted forms (which are separeted in UD annotation) wi
 </tr>
 <tr>
   <td align="middle"><b>1</b></td>
-  <td align="middle">مې me</td>
-  <td align="middle">مو mu</td>
+  <td align="middle" style="background-color:lightblue">مې me</td>
+  <td align="middle" style="background-color:yellow">مو mu</td>
 </tr>
 <tr>
   <td align="middle"><b>2</b></td>
-  <td align="middle">دې de</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:pink">دې de</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 <tr>
   <td align="middle"><b>3</b></td>
-  <td align="middle">يې ye</td>
-  <td align="middle">⇐</td>
+  <td align="middle" style="background-color:lightgreen">يې ye</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
