@@ -10,7 +10,7 @@ udver: '2'
 
 ### Definition
 
-Middle Armenian has the following auxiliary verbs: _եմ/em_ “to be”, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the existentials _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”, the mood auxiliaries _կու (կ, կոյ)/kow (k, koy)_ “be, will”,  _պիտի/piti_ “to be necessary, useful”, the negated auxiliaries _չի/či_, _ոչ/oč_ “don't”.
+Middle Armenian has the following auxiliary verbs: _եմ/em_ “to be”, its variant (with separate lemma) _լինիմ/linim_ “be repeatedly / habitually”, the existentials _կամ/kam_ “be, exist” and _ունիմ/ownim_ “have”, the mood auxiliaries _կու (կ, կոյ)/kow (k, koy)_ “be, will”,  _պիտի/piti_ “to be necessary, useful”, the negative auxiliaries _չի/či_, _ոչ/oč_ “don't”.
 The main auxiliary verb is _եմ/em_. It accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
 
 Armenian auxiliary verbs can be divided into:
@@ -56,4 +56,6 @@ Note that in Middle Armenian, modal verbs are not considered auxiliary verbs and
 Note, that in Middle Armenian copulas are also tagged `AUX`
 * _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair <b>is</b> (like) grape-vine tendrils”,
 * _Պագն որ դրամով <b>լինի</b>, չեմ իտար_ “A kiss that <b>is</b> for money, I shall not give”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`.
+
+- Negative auxiliary. 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
