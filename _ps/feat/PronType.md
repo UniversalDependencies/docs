@@ -299,11 +299,11 @@ The long proximate pronouns bear the feature `Variant=Long`.
     <b>Locative</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle" style="background-color:lighblue">هغۀ háġë</td>
+  <td align="middle" style="background-color:lightblue">هغۀ háġë</td>
   <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle" style="background-color:yellow">هغو háġo</td>
   <td align="middle"></td>
-  <td align="middle" style="background-color:lighblue">دغۀ dáġë</td>
+  <td align="middle" style="background-color:lightblue">دغۀ dáġë</td>
   <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle" style="background-color:yellow">دغو dáġo</td>
   <td align="middle"></td>
@@ -315,11 +315,11 @@ The long proximate pronouns bear the feature `Variant=Long`.
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
-  <td align="middle" style="background-color:lighblue"></td>
+  <td align="middle" style="background-color:lightblue"></td>
   <td align="middle" style="background-color:pink">هغې háġe</td>
   <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle" style="background-color:lighblue"></td>
+  <td align="middle" style="background-color:lightblue"></td>
   <td align="middle" style="background-color:pink">دغې dáġe</td>
   <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
@@ -335,13 +335,13 @@ The prefix -همـ _ham-_ provides the meaning of identity “same”:
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle"><b>⇒</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"><b>remote</b></td>
-  <td align="middle"><b>⇐</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
-  <td align="middle"><b>⇒</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"><b>proximate<br/>long variant</b></td>
-  <td align="middle"><b>⇐</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
   <td align="middle"><b>proximate</b></td>
 </tr>
@@ -376,30 +376,30 @@ The prefix -همـ _ham-_ provides the meaning of identity “same”:
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle">⇒</td>
-  <td align="middle">هماغه hamấġa</td>
-  <td align="middle">⇐</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen">هماغه hamấġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle"></td>
-  <td align="middle">⇒</td>
-  <td align="middle">همدغه hamdáġa</td>
-  <td align="middle">⇐</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:lightgreen">همدغه hamdáġa</td>
+  <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle"></td>
-  <td align="middle">همدا hamdâ</td>
+  <td align="middle" style="background-color:lightgreen">همدا hamdâ</td>
 </tr>
 <tr>
   <td align="left">
     <b>Locative</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle">هماغۀ hamấġë</td>
-  <td align="middle">⇑</td>
-  <td align="middle">هماغو hamấġo</td>
+  <td align="middle" style="background-color:lightblue">هماغۀ hamấġë</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">هماغو hamấġo</td>
   <td align="middle"></td>
-  <td align="middle">همدغۀ hamdáġë</td>
-  <td align="middle">⇑</td>
-  <td align="middle">همدغو hamdáġo</td>
+  <td align="middle" style="background-color:lightblue">همدغۀ hamdáġë</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">همدغو hamdáġo</td>
   <td align="middle"></td>
-  <td align="middle">همدې hamdé</td>
+  <td align="middle" style="background-color:yellow">همدې hamdé</td>
 </tr>
 <tr>
   <td align="left">
@@ -407,15 +407,15 @@ The prefix -همـ _ham-_ provides the meaning of identity “same”:
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
-  <td align="middle">⇑</td>
-  <td align="middle">هماغې hamấġe</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink">هماغې hamấġe</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">⇑</td>
-  <td align="middle">همدغې hamdáġe</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:lightblue"></td>
+  <td align="middle" style="background-color:pink">همدغې hamdáġe</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 </table>
 
