@@ -55,8 +55,8 @@ Note that in Middle Armenian, modal verbs are not considered auxiliary verbs and
   * _ինչ <b>տի</b> լինայ/inč ti linay_ “what <b>must/will</b> happen”.
 
 Note, that in Middle Armenian copulas are also tagged `AUX`.
-  _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair <b>is</b> (like) grape-vine tendrils”,
-  _Պագն որ դրամով <b>լինի</b>, չեմ իտար_ “A kiss that <b>is</b> for money, I shall not give”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`.
+  * _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair <b>is</b> (like) grape-vine tendrils”,
+  * _Պագն որ դրամով <b>լինի</b>, չեմ իտար_ “A kiss that <b>is</b> for money, I shall not give”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`.
 
 - Negative auxiliary. Independent negating words used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as negated forms of the auxiliaries _եմ_ and _էի_ which can take the bound morpheme of negation _չ_ and have the feature of polarity.
   * _<b>Չի</b> դառնաս հեղ մի յիս հայես. <b>Չի</b> գիտե՞ս քո պլպուլն եմ ես/Či daṙnas heġ mi yis hayes. Či gites k’o plpowln em es_ “You do not turn and glance at me even once, Don't you know that I am your nightingale?”
