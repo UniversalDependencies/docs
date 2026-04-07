@@ -140,8 +140,8 @@ Personal pronouns for the third person vary depending on deixis:
   <td align="middle" style="background-color:lightgreen"></td>
   <td align="middle" style="background-color:yellow">هغوى haġúy</td>
   <td align="middle"></td>
-  <td align="middle">دی day</td>
-  <td align="middle">دا dâ</td>
+  <td align="middle" style="background-color:lightgreen">دی day</td>
+  <td align="middle" style="background-color:violet">دا dâ</td>
   <td align="middle" style="background-color:yellow">دوی duy</td>
 </tr>
 <tr>
@@ -151,12 +151,12 @@ Personal pronouns for the third person vary depending on deixis:
     <b>Ablative</b>
   </td>
   <td align="middle"></td>
-  <td align="middle">هغۀ haġë́</td>
-  <td align="middle">هغې haġé</td>
+  <td align="middle" style="background-color:lightblue">هغۀ haġë́</td>
+  <td align="middle" style="background-color:pink">هغې haġé</td>
   <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
-  <td align="middle">دۀ dë</td>
-  <td align="middle">دې de</td>
+  <td align="middle" style="background-color:lightblue">دۀ dë</td>
+  <td align="middle" style="background-color:pink">دې de</td>
   <td align="middle" style="background-color:yellow"></td>
 </tr>
 <tr>
@@ -431,8 +431,8 @@ These forms are indeclinable.
 </tr>
 <tr>
   <td align="middle"><i>such like that/those</i></td>
-  <td align="middle" style="background-color:yellow"><i>such like this/these</i></td>
-  <td align="middle" style="background-color:yellow"><i></i></td>
+  <td align="middle" style="background-color:lightgray"><i>such like this/these</i></td>
+  <td align="middle" style="background-color:lightgray"><i></i></td>
 </tr>
 <tr>
   <td align="middle">هغسې háġase</td>
@@ -444,8 +444,8 @@ These forms are indeclinable.
 </tr>
 <tr>
   <td align="middle"><i>same like that/those</i></td>
-  <td align="middle" style="background-color:yellow"><i>same like this/these</i></td>
-  <td align="middle" style="background-color:yellow"><i></i></td>
+  <td align="middle" style="background-color:lightgray"><i>same like this/these</i></td>
+  <td align="middle" style="background-color:lightgray"><i></i></td>
 </tr>
 <tr>
   <td align="middle">هماغسې hamấġase</td>
@@ -474,7 +474,7 @@ These forms are indeclinable.
   <td align="left">
     <b>Direct</b><br/>
   </td>
-  <td align="middle">څوک cok</td>
+  <td align="middle" style="background-color:lightblue">څوک cok</td>
   <td align="middle" style="background-color:lightgreen">څۀ cë</td>
 </tr>
 <tr>
@@ -483,7 +483,7 @@ These forms are indeclinable.
     <b>Oblique</b><br/>
     <b>Ablative</b>
   </td>
-  <td align="middle">چا čâ</td>
+  <td align="middle" style="background-color:pink">چا čâ</td>
   <td align="middle" style="background-color:lightgreen">⇑</td>
 </tr>
 </table>
@@ -527,7 +527,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
   <td align="left">
     <b>Direct</b><br/>
   </td>
-  <td align="middle">ځینې żíne</td>
+  <td align="middle" style="background-color:lightblue">ځینې żíne</td>
   <td align="middle" style="background-color:lightgreen">څو co</td>
 </tr>
 <tr>
@@ -536,7 +536,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
     <b>Oblique</b><br/>
     <b>Ablative</b>
   </td>
-  <td align="middle">ځینو żíno</td>
+  <td align="middle" style="background-color:pink">ځینو żíno</td>
   <td align="middle" style="background-color:lightgreen">⇑</td>
 </tr>
 </table>
@@ -566,7 +566,7 @@ It is used usually in negative sentences. It can mean also “which” (marked a
   <td align="left">
     <b>Direct</b><br/>
   </td>
-  <td align="middle">هرڅوک harcók</td>
+  <td align="middle" style="background-color:lightblue">هرڅوک harcók</td>
   <td align="middle" style="background-color:lightgreen">هرڅۀ harcë́</td>
 </tr>
 <tr>
@@ -575,7 +575,7 @@ It is used usually in negative sentences. It can mean also “which” (marked a
     <b>Oblique</b><br/>
     <b>Ablative</b>
   </td>
-  <td align="middle">هرچا harčấ</td>
+  <td align="middle" style="background-color:pink">هرچا harčấ</td>
   <td align="middle" style="background-color:lightgreen">⇑</td>
 </tr>
 </table>
@@ -599,9 +599,9 @@ The latter can be used also separately as a pronoun.
   <td align="left">
     <b>Direct</b><br/>
   </td>
-  <td align="middle">هیڅوک hicók</td>
-  <td align="middle">هیڅ hic</td>
-  <td align="middle">⇐</td>
+  <td align="middle" style="background-color:lightblue">هیڅوک hicók</td>
+  <td align="middle" style="background-color:lighgreen">هیڅ hic</td>
+  <td align="middle" style="background-color:lighgreen"></td>
 </tr>
 <tr>
   <td align="left">
@@ -609,9 +609,9 @@ The latter can be used also separately as a pronoun.
     <b>Oblique</b><br/>
     <b>Ablative</b>
   </td>
-  <td align="middle">هیچا hičấ</td>
-  <td align="middle">⇑</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:pink">هیچا hičấ</td>
+  <td align="middle" style="background-color:lighgreen"></td>
+  <td align="middle" style="background-color:lighgreen"></td>
 </tr>
 </table>
 
