@@ -60,5 +60,5 @@ Note, that in Middle Armenian copulas are also tagged `AUX`: _քո մազերդ 
 Note that negative auxiliaries are not the same as negated forms of the auxiliaries _եմ_ and _էի_ which can take the bound morpheme of negation _չ_ and have the feature of polarity.
    * _Յեկեղեցին <b>ոչ</b> երեւայ Եւ զեկեալ հիւրսն <b>ոչ</b> խղճայ/Yekeġec’in oč ereway Ew zekeal hiwrsn oč xġč̣ay_ “The church does not appear (isn't seen), and it does not pity the visitors who have arrived”
    * _<b>Չի</b> դառնաս հեղ մի յիս հայես. <b>Չի</b> գիտե՞ս քո պլպուլն եմ ես/Či daṙnas heġ mi yis hayes. Či gites k’o plpowln em es_ “You do not turn and glance at me even once, Don't you know that I am your nightingale?”
-   * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չ</b>ընդունի բնաւ/Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ And this type (of ailment) does not admit any treatment or cure at all.
+   * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չ</b>ընդունի բնաւ/Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ “And this type (of ailment) does not admit any treatment or cure at all”.
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
