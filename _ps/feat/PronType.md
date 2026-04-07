@@ -101,13 +101,13 @@ Personal pronouns for the third person vary depending on deixis:
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle"><b>⇒</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"><b>remote</b></td>
-  <td align="middle"><b>⇐</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"></td>
-  <td align="middle"><b>⇒</b></td>
+  <td align="middle"><b></b></td>
   <td align="middle"><b>proximate</b></td>
-  <td align="middle"><b>⇐</b></td>
+  <td align="middle"><b></b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -136,13 +136,13 @@ Personal pronouns for the third person vary depending on deixis:
     <b>Direct</b><br/>
   </td>
   <td align="middle"></td>
-  <td align="middle">هغه haġá</td>
-  <td align="middle">⇐</td>
-  <td align="middle">هغوى haġúy</td>
+  <td align="middle" style="background-color:lightgreen">هغه haġá</td>
+  <td align="middle" style="background-color:lightgreen"></td>
+  <td align="middle" style="background-color:yellow">هغوى haġúy</td>
   <td align="middle"></td>
   <td align="middle">دی day</td>
   <td align="middle">دا dâ</td>
-  <td align="middle">دوی duy</td>
+  <td align="middle" style="background-color:yellow">دوی duy</td>
 </tr>
 <tr>
   <td align="left">
@@ -153,11 +153,11 @@ Personal pronouns for the third person vary depending on deixis:
   <td align="middle"></td>
   <td align="middle">هغۀ haġë́</td>
   <td align="middle">هغې haġé</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:yellow"></td>
   <td align="middle"></td>
   <td align="middle">دۀ dë</td>
   <td align="middle">دې de</td>
-  <td align="middle">⇑</td>
+  <td align="middle" style="background-color:yellow"></td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
