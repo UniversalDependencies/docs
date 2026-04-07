@@ -23,14 +23,13 @@ This is an overview only. For more detailed discussion and examples, see the lis
 and [Middle Armenian features](feat/index.html).
 
 * Armenian uses all 17 universal POS categories, including particles ([PART]()).
-* The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners,
+* The tag [DET]() is used for articles and pronominal words used with a determiner function (pro-adjectives), including possessives (the traditional grammar does not define determiners,
 but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional 
 grammar includes in pronouns) are [DET]() as well.
 
-* Eastern Armenian has one auxiliary verb ([AUX]()), _եմ_ (“to be”), but the lemma _լինել_ is also possible.
-  This is in fact just an aspectual variant of _եմ_, but this is a separate lemma because
-  the morphological process that relates it to _եմ_ is considered derivational. There is another auxiliary _տալ_ (“cause/make someone to perform action”) for periphrastic causatives.  
-  Auxiliaries are all verbal in Eastern Armenian and can be grouped into three types:
+* Middle Armenian has several auxiliary verbs ([AUX]()), _եմ_ (“to be”), but the lemma _լինել_ is also possible.
+  This is in fact just an aspectual variant of _եմ_, but this is a separate lemma because the morphological process that relates it to _եմ_ is considered derivational.  
+  Auxiliaries are all verbal in Middle Armenian and can be grouped into four types: ?
   * The copula with non-verbal predicates.
   * Periphrastic present tense (present form of _եմ_ + resultative participle of the main verb).
   * Periphrastic past tense (present form of _եմ_ + perfect of the main verb; imperfect form of _եմ_ + imperfective, perfect, future-I and resultative participles of the main verb).
