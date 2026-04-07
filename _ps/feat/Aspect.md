@@ -16,6 +16,7 @@ udver: '2'
 Aspect is an inflectional verbal feature describing the duration of an action in time.
 There are two main values of aspect: imperfective and perfective.
 Moreover, there are compound past forms with habitual meaning, but none of their parts bears the corresponding aspect value.
+**The habitual aspect is not annotated.**
 
 <!--Simple forms of Pashto verbs are always built from imperfective or perfective stem, even if they do not distinguish the aspect in the meaning.
 Indicative, imperative, conditional and infinitive forms can have both aspects.
@@ -82,7 +83,7 @@ The verb form itself is then marked with `Aspect=Imp`, although together both wo
 <h3>Habitual</h3>
 
 In addition to the two main aspects for the simple forms, there is a much less frequent habitual aspect.
-No word is marked in this way, as the habitual occurs only in compound forms.
+**No word is annotated by the habitual aspect, it appears only in compound forms.**
 
 #### Use and formation
 * habitual: auxiliary word به _bë_ (with [aux:hab](../dep/aux-hab.html) relation) + past imperfective
