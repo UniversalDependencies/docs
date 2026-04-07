@@ -24,9 +24,9 @@ Note that there is no `No` value. If the word is not connegative, the `Connegati
 
 #### Examples
 
-* _չեմ, չես, չէ/չի, չենք, չէք, չեն <b>ի տալ (տար)</b>/čem, čes, čē/či, čenk’, čēk’, čen i tal (tar)_ “I; you; he/she/it; we; you; they do not/will not <b>give</b>”,
+* _չեմ, չես, չէ/չի (չ), չենք, չէք, չեն <b>ի տալ (տար)</b>/čem, čes, čē/či, čenk’, čēk’, čen i tal (tar)_ “I; you; he/she/it; we; you; they do not/will not <b>give</b>”,
 * _չէի, չէիր, չէր, չէաք, չէիք, չէին <b>ի տալ (տար)</b>/ēi, čēir, čēr, čēak’, čēik’, čēin i tal (tar)_ “I; you; he/she/it; we; you; they did not/would not <b>give</b>”,
-* _չեմ, չես, չէ/չի, չենք, չէք, չեն <b>տալ (տար)</b>/čem, čes, či, čenk’, ček’, čen i tal (tar)_ “I; you; he/she/it; we; you; they do not/will not <b>give</b>”,
+* _չեմ, չես, չէ/չի (չ), չենք, չէք, չեն <b>տալ (տար)</b>/čem, čes, či, čenk’, ček’, čen i tal (tar)_ “I; you; he/she/it; we; you; they do not/will not <b>give</b>”,
 * _չէի, չէիր, չէր, չէաք, չէիք, չէին <b>տալ (տար)</b>/čēi, čēir, čēr, čēink’, čēik’, čēin i tal (tar)_ “I; you; he/she/it; we; you; they did not/would not <b>give</b>”
 * _մի՛ <b>բարկանալ</b>/mi barkanal_ “don't get angry!”
 * _մի՛ <b>փոխեր</b>/mi p’oxer_ “don't change!” (sing.)
