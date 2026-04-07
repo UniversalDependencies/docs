@@ -484,7 +484,7 @@ These forms are indeclinable.
     <b>Ablative</b>
   </td>
   <td align="middle" style="background-color:pink">چا čâ</td>
-  <td align="middle" style="background-color:lightgreen">⇑</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
@@ -537,7 +537,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
     <b>Ablative</b>
   </td>
   <td align="middle" style="background-color:pink">ځینو żíno</td>
-  <td align="middle" style="background-color:lightgreen">⇑</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
@@ -576,7 +576,7 @@ It is used usually in negative sentences. It can mean also “which” (marked a
     <b>Ablative</b>
   </td>
   <td align="middle" style="background-color:pink">هرچا harčấ</td>
-  <td align="middle" style="background-color:lightgreen">⇑</td>
+  <td align="middle" style="background-color:lightgreen"></td>
 </tr>
 </table>
 
