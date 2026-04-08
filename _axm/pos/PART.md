@@ -15,7 +15,7 @@ Note that particles like _այո(այոյ)/ayo, հա(ha)_ “yes”, _ոչ/oč, 
 ### Examples
 
 - Affirmativ particle: _գէմ/gēm_ “indeed”, _անպատճառ/anpatč̣aṙ_ “certainly”, _անկասկած/ankaskaç_ “for sure”, _իրաւ (իրաւի, յիրաւի)/iraw (irawi, yirawi)_“realty”
-- Concession particle: _ապա թէ ոչ/apa t’ē oč_ “otherwise”, _թող թէ/t’oġ t’ē_ “let alone”, _թէ ոչ/t’ē oč_ “elsewise”, թէ չէ/t’ē čē, թէ չէ նա/t’ē čē na_ “or else” 
+- Concession particle: _ապա թէ ոչ/apa t’ē oč_ “otherwise”, _թող թէ/t’oġ t’ē_ “let alone”, _թէ ոչ/t’ē oč_ “elsewise”, _թէ չէ/t’ē čē, թէ չէ նա/t’ē čē na_ “or else” 
 - Demonstration particle: _հօսկայ/hòskay_ “here is”, _հանց (հենց)/hanc’ (henc’)_ “like”, _ահա/aha_ “here”
 - Dubitation particle: _ախիր/axir_ “after all”, _բալքի (բալքիմ, բալքամ)/balk’i (balk’im, balk’am)_ “perhaps”, _կարծես/karçes_ “apparently”, _կարծեմ թէ/karçem t’ē_ “it seems”, _ասես թէ/ases t’ē_ “seemingly”, _թերեւս/t’erews_ “probably”
 - Emphatic particle: _մանաւանդ/manawand_ “particularly”, _իսկ/isk_ “just”
