@@ -54,6 +54,6 @@ or adverbs except by using the comparative form together with the definite form 
 * _<b>այլ ջրախառն</b> գինին/ayl ǰraxaṙn ginin_ “the most diluted wine (with water)”
 * _<b>ամենից գիտուն</b>/amenic’ gitown_ “the <b>cleverest</b>”
 
-Note that there is no special morphological form for the absolute superlative in Middle Armenian. To express this meaning, adverbs such as _կարի/kari, խիստ/xist, պինդ/pind, շատ_ “extremally, too, strongly, very” are used.
+Note that there is no special morphological form for the absolute superlative in Middle Armenian. To express this meaning, adverbs such as _կարի/kari_ “extremally”, _խիստ/xist_ “too”, _պինդ/pind_ “strongly”, _շատ/šat_ “very” are used.
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:10 CET -->
