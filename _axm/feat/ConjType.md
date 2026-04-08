@@ -9,8 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Comp">Comp</a></td>
-  <td><a href="#Oper">Oper</a></td>
-</tr>
+  </tr>
 </table>
 
 This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ]();
