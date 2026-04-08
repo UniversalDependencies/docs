@@ -8,11 +8,9 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Com">Com</a></td>
   <td><a href="#Geo">Geo</a></td>
   <td><a href="#Giv">Giv</a></td>
   <td><a href="#Oth">Oth</a></td>
-  <td><a href="#Pat">Pat</a></td>
   <td><a href="#Pro">Pro</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Sur">Sur</a></td>
