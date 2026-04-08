@@ -47,7 +47,7 @@ The quality of one object is compared to the same quality of another object.
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
 The quality of one object is compared to the same quality of all other objects within a set. In Middle Armenian, there is no special way of expressing the superlative degree of adjectives
-or adverbs except by using the comparative form together with the definite form of the adjective or adverb, _այլ աղէկ<b>ն</b>/ayl aġēkn_ “the best”. It may also be expressed by a periphrastic superlative construction using the inflected pronoun _ամենից/amenic’_ “most of all”. 
+or adverbs except by using the comparative form together with the definite form of the adjective or adverb, _<b>այլ</b> աղէկ<b>ն</b>/ayl aġēkn_ “the best”. It may also be expressed by a periphrastic superlative construction using the inflected pronoun _ամենից/amenic’_ “most of all”. 
 
 #### Examples
 
