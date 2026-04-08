@@ -31,12 +31,6 @@ digits or as a word? Several types of nouns can also have this feature, adjectiv
 
 * _1, 2, 3_
 
-### <a name="Combi">`Combi`</a>: digits combined with a suffix
-
-#### Examples
-
-* _1-ին “1st”, 15-րդ “15th”_
-
 ### <a name="Roman">`Roman`</a>: roman numeral
 
 #### Examples
