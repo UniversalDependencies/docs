@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: "NounClass"
-shortdef: "noun class"
+title: 'NounClass'
+shortdef: 'noun class'
 udver: "2"
 ---
 
