@@ -15,7 +15,7 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Neg">Neg</a></td>
-  <td><a href="#Prs">Poss</a></td>
+  <td><a href="#Poss">Poss</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Rel">Rel</a></td>
@@ -81,6 +81,16 @@ All pronouns and determiners that mark the beginning of a [relative clause](acl:
 * _մեկզմեկ (մէկը մէկու, մէկմէկու, մէկմէկի)/mekzmek (mēkë mēkow, mēkmēkow, mēkmēki)_ “each other”
 
 
+### <a name="Exc">`Exc`</a>: exclamative determiner
+
+Exclamative pro-adjectives (determiners) express the speaker’s surprise towards
+the modified noun. In Armenian exclamative determiners are recruited from the set of interrogative or demonstrative determiners.
+
+#### Examples:
+
+* սատանին բանն այլ _ի՜նչ_ է/satanin bann ayl inč ē “What else could the devil's work be!”
+
+  
 ### <a name="Art">`Art`</a>: article
 
 Article is a special case of determiner that bears the feature of
