@@ -2,7 +2,7 @@
 layout: feature
 title: 'NounClass'
 shortdef: 'noun class'
-udver: "2"
+udver: '2'
 ---
 
 Ruuli has a noun class system in which all [nouns](u-pos/NOUN) are assigned to one of 23 possible classes. The system also extends to other nominals ([pronouns](u-pos/PRON) and [proper nouns](u-pos/PROPN)), as well as to agreeing parts of speech ([adjectives](u-pos/ADJ), [determiners](u-pos/DET), [verbs](u-pos/VERB), etc.). In addition, [adpositions](ruc-pos/ADP) may reflect locative noun classes.
