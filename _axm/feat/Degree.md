@@ -42,7 +42,7 @@ The quality of one object is compared to the same quality of another object.
 * _<b>այլ</b> պակաս/ayl pakas_ “<b>less</b>”
 * _այն <b>այլ</b> պակաս է/ayn ayl pakas ē_ “That is <b>less, fewer</b>”
 * _<b>այլ</b> շատ/ayl šat_ “<b>more</b>”
-* _ծարավն <b>այլ</b> շատ լինի/ծարավն այլ շատ լինի_ Lit.: “thirst is <b>yet more</b>”
+* _ծարավն <b>այլ</b> շատ լինի/çaravn ayl šat lini_ Lit.: “thirst is <b>yet more</b>”
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
