@@ -27,7 +27,7 @@ Most Armenian adjectives inflect for [Degree]() (_մեծ, ավելի մեծ, ա�
 
 ### Border cases
 
-Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that both core participial forms (used to form the indicative) and participial adjectives (used in nominal predication with [copula](cop), to modify nouns or form secondary compound tenses) are tagged [VERB]():
+Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that both core participial forms (used to form the indicative) and participial adjectives (used in nominal predication with [copula](cop), as well as to form secondary compound tenses or to modify nouns) are tagged [VERB]():
 
 - _<b>հոգնած</b> է_ “--”
 - _<b>ստուգված</b> է_ “--”
