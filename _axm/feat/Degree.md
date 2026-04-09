@@ -34,6 +34,7 @@ degree is traditionally called "positive", negative properties can be compared, 
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
 The quality of one object is compared to the same quality of another object.
+The adverb _այլ_ and the intensifiers  _դհա/dha_ and _ջիլիզ/jiliz_ are used to form composite comparative degree of adjectives and adverbs. Note that only these three adverbs have the `Cmp` feature.
 
 #### Examples
 
