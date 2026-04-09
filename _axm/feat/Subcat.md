@@ -21,7 +21,7 @@ A verb that does not take arguments other than the subject.
 
 #### Examples
 
-* _Ինձ պարտ է <b>բարձրանալ</b> եւ <b>մեռանիլ</b> ի  փայտ խաչի_ “I must _ascend_ and _die_ on the wooden Cross”
+* _Ինձ պարտ է <b>բարձրանալ</b> եւ <b>մեռանիլ</b> ի  փայտ խաչի/ Inj part ē barjranal ew meṙanil i  p’ayt xači_ “I must _ascend_ and _die_ on the wooden Cross”
 
 ### <a name="Tran">`Tran`</a>: transitive verb
 
@@ -30,5 +30,5 @@ These verbs can be passivized, then the direct object becomes the subject.
 
 #### Examples
 
-* _Եվ այլ <b>տուր</b> փշատի <b>փոխինդ</b>_ “And _give_ also oleaster _roasted flour_”
+* _Եվ այլ <b>տուր</b> փշատի <b>փոխինդ</b>՞Ev ayl towr p’šati p’oxind_ “And _give_ also oleaster _roasted flour_”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->
