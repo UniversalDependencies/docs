@@ -9,13 +9,9 @@ udver: '2'
 ---
 
 ### Definition
-
-The only truly auxiliary verb in Armenian is _եմ&nbsp;_ “be”,
-and its variant (with separate lemma) _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”.
-It accompanies the lexical verb of a verb phrase and expresses
-grammatical distinctions not carried by the lexical verb.
-
-Armenian auxiliary verbs can be divided into:
+The auxiliary verb accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
+Middle Armenian has the following auxiliary verbs: _եմ_ “be”, and its variant (with separate lemma) _լինիմ (լինալ)_ “be repeatedly / habitually”.
+They can be divided into:
 
 - tense auxiliary, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
 - aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
