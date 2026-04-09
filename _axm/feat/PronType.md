@@ -15,6 +15,7 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Neg">Neg</a></td>
+  <td><a href="#Prs">Poss</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Rel">Rel</a></td>
