@@ -9,10 +9,8 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Arch">Arch</a></td>
-  <td><a href="#Coll">Coll</a></td>
   <td><a href="#Expr">Expr</a></td>
   <td><a href="#Rare">Rare</a></td>
-  <td><a href="#Slng">Slng</a></td>
   <td><a href="#Var">Var</a></td>
   <td><a href="#Vrnc">Vrnc</a></td>
   <td><a href="#Vulg">Vulg</a></td>
@@ -42,6 +40,15 @@ systematically change between dialects or styles).
 #### Examples
 
 * _թեթենի/t’et’eni, առճ/aṙč̣, ղրաղ/ġraġ_
+
+
+### <a name="Expr">`Expr`</a>: expressive, emotional
+
+#### Examples
+
+Typical examples of expressive words in the Armenian data are diminutives:
+
+* _ձայնիկ, քաֆրիկ, պագիկ_
 
 
 ### <a name="Vulg">`Vulg`</a>: vulgar
