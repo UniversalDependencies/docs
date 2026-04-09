@@ -30,8 +30,7 @@ Note also, that there is an elaborate system of parallel tense/aspect/mood forms
 
 ### <a name="Past">`Past`</a>: past tense / aorist
 
-The past tense denotes actions that happened before a reference point. The reference point is the moment of producing
-the sentence and the (completed) past event happened before the speaker speaks about it. In Middle Armenian this is aorist.
+The past tense denotes actions that happened before a reference point. The reference point is the moment of producing the sentence and the (completed) past event happened before the speaker speaks about it. In Middle Armenian this is aorist.
 
 #### Examples
 
