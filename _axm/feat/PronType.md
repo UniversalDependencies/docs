@@ -10,7 +10,6 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Art">Art</a></td>
   <td><a href="#Dem">Dem</a></td>
-  <td><a href="#Emp">Emp</a></td>
   <td><a href="#Exc">Exc</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
