@@ -27,7 +27,7 @@ Most Middle Armenian adjectives have [Degree]() (_աղէկ/aġēk, այլ աղէ
 
 ### Border cases
 
-Resultative, subject and past participles are word forms that may share properties and usage of adjectives and verbs. Note, that since both core participial forms (used to form indicative) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB]():
+Resultative, subject and past participles are word forms that may share properties and usage of both adjectives and verbs. Note, that since both core participial forms (used to form the indicative) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged as [VERB]():
 
 - _<b>ջրած</b> գինի/ǰraç gini_ “wine diluted with water”
 - _<b>նախշող</b> վարպետ/naxšoġ varpet_ “a master of ornamentation”
