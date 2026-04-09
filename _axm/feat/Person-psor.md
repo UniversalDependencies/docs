@@ -28,7 +28,7 @@ See also the relatived feature [Number[psor]]().
 #### Examples
 
 * _Մինչ որ վճարի պարտքեր<b>ս</b>_ (`Person[psor]=1|Number[psor]=Sing|Number=Plur`), _որ ի յիմ շալակ<b>ս</b>_ (`Person[psor]=1|Number[psor]=Sing|Number=Plur/Sing`) _է կուսած/Minč or vč̣ari partk’ers, or i yim šalaks ē kowsaç_ “Until He pays <b>my</b> debts, which have accumulated upon <b>my</b> shoulders”
-* _դատիլ<b>ս</b> շահ է/datils šah ē_ “my being judged is a gain”
+* _դատիլ<b>ս</b> շահ է/datils šah ē_ “<b>my</b> being judged is a gain”
 
 ### <a name="2">`2`</a>: second person possessor
 
