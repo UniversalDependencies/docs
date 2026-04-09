@@ -54,7 +54,7 @@ Note, that a limited set of verbs (_գիտեմ, ունիմ_) form imperfect and 
 * _ունեի_ “I had”.`Ind`,
 * _գիտեի_ “I knew”.`Ind`,
 * _ունենայի_ “I wish I had.`Sub`”,
-* _գիտենայի_ “I wish I knew.`Sub`”
+* _գիտնայի_ “I wish I knew.`Sub`”
 
 
 ### <a name="Pres">`Pres`</a>: present tense
@@ -74,6 +74,6 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 * _ունեմ/ownem_ “I have.`Ind`”,
 * _գիտեմ/gitem_ “I know.`Ind`”,
 * _ունենամ/ownenam_ “(if) I have.`Sub`”,
-* _գիտենամ/gitenam_ “(if) I know.`Sub`”,
+* _գիտնամ/gitenam_ “(if) I know.`Sub`”,
 * _լինիմ/linim_ “I am / I will be.`Sub`”,
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:50 CET -->
