@@ -11,7 +11,6 @@ udver: '2'
   <td><a href="#Geo">Geo</a></td>
   <td><a href="#Giv">Giv</a></td>
   <td><a href="#Oth">Oth</a></td>
-  <td><a href="#Pro">Pro</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Sur">Sur</a></td>
 </tr>
