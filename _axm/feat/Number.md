@@ -43,7 +43,7 @@ Demonstrative pronouns that refer to singular nouns, but not demonstrative deter
 * _<b>սա</b>/sa_ “this”
 * _<b>դա</b>/da_ “that (medial)”
 * _<b>նա</b>/na_ “that”
-* _<b>այն</b>ayn_ “that, it”
+* _<b>այն</b>/ayn_ “that, it”
 
 ### <a name="Plur">`Plur`</a>: plural number
 
