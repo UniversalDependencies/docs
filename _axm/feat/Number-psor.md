@@ -23,14 +23,14 @@ See also the relatived feature [Person[psor]]().
 
 #### Examples
  
-* _Մինչ որ վճարի պարտքեր<b>ս</b>, որ ի յիմ շալակ<b>ս</b> է կուսած/Minč or vč̣ari partk’ers, or i yim šalaks ē kowsaç_ “Until He pays _my debts_, which have accumulated upon _my shoulders_” `Number[psor]=Sing|Number=Sing`
-* _Ես այդ աթոռոյ<b>դ</b> տէրն  եմ/Es ayd at’oṙoyd tērn em_ “I am the owner of _that_ chair”
-* _Թագուոր մի կայր,  աչուի<b>ն</b> էր խաժ/T’agowor mi kayr,  ačowin ēr xaž_ “There was a King, his eyes were sea-blue”
+* _Մինչ որ վճարի պարտքեր<b>ս</b>, որ ի յիմ շալակ<b>ս</b> է կուսած/Minč or vč̣ari partk’ers, or i yim šalaks ē kowsaç_ “Until He pays _my_ debts, which have accumulated upon _my_ shoulders” `Number[psor]=Sing|Number=Sing`
+* _կու պահեմ զճամփա<b>դ</b>/kow pahem zč̣amp’ad_ “I'll hold _your_ path”
+* _Թագուոր մի կայր,  աչուի<b>ն</b> էր խաժ/T’agowor mi kayr,  ačowin ēr xaž_ “There was a King, _his_ eyes were sea-blue”
 
 ### <a name="Plur">`Plur`</a>: plural possessor
 
 The suffix _-նի/-ni_ followed by a possessive article, is used to express the plurality of the possessor when attached to a possessed object that is already in the plural.
-Note that the suffix -նի/-ni is typically attached to polysyllabic words. Since monosyllabic words become polysyllabic when the plural marker -եր (-er) is added, they also take the -նիս (-nis) or -նիդ (-nid) forms instead of the simple -ս (-s) or -դ (-d).
+Note that the suffix _-նի/-ni_ is typically attached to polysyllabic words. Since monosyllabic words become polysyllabic when the plural marker _-եր/-er_ is added, they also take the _-նիս/-nis or _-նիդ/-nid_ forms instead of the simple _-ս/-s_ or _-դ/-d_.
 
 It is important to note that this can create ambiguity: a form like _տներնիս/tnernis_ can signify either the plural possessor ("our houses") or a singular possessor with a plural object ("my houses"). In this context, the suffix functions as a general possessive marker rather than strictly indicating the plurality of the owner.
 
