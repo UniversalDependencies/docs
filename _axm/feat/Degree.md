@@ -16,7 +16,7 @@ udver: '2'
 
 Degree of comparison is inflectional feature of  qualitative [adjectives](hy-pos/ADJ) and some [adverbs](hy-pos/ADV).
 
-The second degree of adjective or adverb is modified through the adverb _այլ (էլ)_ “more” e.g. _այլ աղէկ/ayl aġēk_ “better”; _այլ ծանդր/ayl aġēk_ “heavier”. 
+The second degree of adjective or adverb is modified through the adverb _այլ (էլ)_ “more” e.g. _այլ աղէկ/ayl aġēk_ “better”; _այլ ծանդր/ayl çandr_ “heavier”. 
 
 Other adverbs such as _դհա/dha,_ _ջիլիզ/jiliz_ may be used as intensifiers of an atribute.
 
