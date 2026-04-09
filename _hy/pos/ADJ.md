@@ -24,14 +24,16 @@ Most Armenian adjectives inflect for [Degree]() (_մեծ, ավելի մեծ, ա�
 -	_կանաչ_ “green”
 -	_անընկալելի_ “incomprehensible”
 -	_առաջին, երկրորդ, երրորդ_ “first, second, third”
--	_հայոց, վրաց, պարսից, վանա_ “armenians’, georgians’, of Persis, of Van” (possessive adjectives)
 
 ### Border cases
 
-Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB]():
+Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that both core participial forms (used to form the indicative) and participial adjectives (used in nominal predication with [copula](cop), to modify nouns or form secondary compound tenses) are tagged [VERB]():
 
+- _<b>հոգնած</b> է_ “--”
+- _<b>ստուգված</b> է_ “--”
 - _<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_ “a built house; a house, that is being built; a house that will be built”
 -	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a ringing call; a call that ringed; a call that will ring”
+-	_<b>գնացած</b> է եղել_ “--”
 
 Note that some participial adjectives are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->
