@@ -26,7 +26,7 @@ In Middle Armenian, actions that occurred before, during, and after a past or pr
 
 Note, that actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxiliary in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be an [aspect](Aspect) (`Aspect=Prosp`) information at the participle (e.g. _<b>ասելոց է</b> ընդ մեզ_ “He <b>is going to talk</b> with us” or _հիւանդս աս <b>լաւնալու է</b>_ “this patient <b>will recover</b>”).
 
-Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliary _լինիմ, ունիմ, կամ_ and the resultative and perfect participles of the main verb. They express actions that happened before, during, and after past or present reference. For these periphrastical forms we use `Tense=Imp` or `Tense=Pres` with perfect (`Perf`), progressive (`Prog`) or prospective (`Prosp`) aspect.
+Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliaries _լինիմ, ունիմ, կամ_ and the resultative and perfect participles of the main verb. They express actions that happened before past or present reference. For these periphrastical forms we use `Tense=Imp` or `Tense=Pres` with perfect (`Perf`) aspect.
 
 ### <a name="Past">`Past`</a>: past tense / aorist
 
