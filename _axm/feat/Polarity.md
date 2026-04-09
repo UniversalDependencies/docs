@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-In Middle Armenian, negation is mostly done using the bound morpheme _չ_, an independent negating particle (equivalent to English “not”) _ոչ_ and  _չի_.
+In Middle Armenian, negation is mostly done using the bound morpheme _չ-_, an independent negative auxiliaries (equivalent to English “not”) _ոչ_ and  _չի_.
 Words that can take the morpheme of negation have the feature of polarity.
 
 It applies to [verbs](VERB), [auxilaries](AUX) and some [particles](PART). See also the related feature [Connegative]().
