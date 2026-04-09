@@ -4,27 +4,21 @@ title: 'Aspect'
 shortdef: 'aspect'
 udver: '2'
 ---
+
 Aspect describes the internal temporal properties of the described situation. 
-In Ruuli, aspect is an inflectional feature realized on the verb.
-It encodes situations that are viewed as a whole (perfective) or viewed as occupying a period of time,
-with further subdivisions reflecting recurrent situations (habitual, imperfective), situation in progress (progressive), or discursive emphasis on the situation obtaining (persistive).  
+In Ruuli, aspect is a feature realized on the verb as an affix.
+It marks whether a situation is viewed as a whole (perfective) or viewed as occupying a period of time,
+with further subdivisions marking a recurrent situation (habitual), a situation in progress (progressive), 
+or marking discursive emphasis on a situation obtaining (persistive).  
 
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
-[TODO text]
-
-#### Examples
-
-
-### <a name="Imp">`Imp`</a>: imperfective aspect
-
-Imperfective aspect describes situations that are recurrent, habitual, typical of the reference time. 
-In the past tense, imperfective is marked with the suffix _-nga_. In the present and future tense, imperfective is typically unmarked. 
+Habitual aspect is realized with the suffix _-nga_.
+It describes situations that are recurrent, habitual, typical of the reference time.
 
 #### Examples
 
 * _baazwala<b>nga</b>_ "they used to wear"
-* _akoba_ "he/she says (on a generic reading; aspect unmarked)"
 
 ### <a name="Perf">`Perf`</a>: perfective aspect
 
@@ -33,11 +27,11 @@ It describes situations that are viewed as a whole.
 
 #### Examples
 
-* _sumb<b>ire<b>_ "cooked"
+* _nsumb<b>ire<b>_ "I cooked"
 
 ### <a name="Pers">`Pers`</a>: persistive aspect
 
-Persistive aspect is realized with the prefix *kya-*; it is used to emphasize that a situation obtains at the reference time. 
+Persistive aspect is realized with the prefix _kya-_; it is used to emphasize that a situation obtains at the reference time. 
 Functionally, this corresponds to the concepts of phasal polarity, such as 'still', 'no longer', and 'not yet'.
 
 #### Examples
@@ -46,13 +40,13 @@ Functionally, this corresponds to the concepts of phasal polarity, such as 'stil
 
 * _<b>ti</b>ba<b>kya</b>kolesya "they no longer use"
 
-* _ba<b>kya</b>li kukolesya "they do not yet use"
+* _ba<b>kya</b>li kukolesya "they do not yet use (they are yet to use)"
 
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-Progressive aspect is realized with the prefix *ku-*; it shows that the described stituation is in progress at the reference time. 
-The Ruuli progressive is compative with dynamic, stative, and punctual verbs. 
+Progressive aspect is realized with the prefix _ku-_; it shows that the described stituation is in progress at the reference time. 
+The Ruuli progressive is compatible with dynamic, stative, and punctual verbs. 
 
 #### Examples
 

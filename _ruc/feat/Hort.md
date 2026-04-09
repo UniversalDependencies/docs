@@ -5,7 +5,7 @@ shortdef: 'hortative'
 udver: '2'
 ---
 
-Desciption
+In Ruuli, certain particles occur only in so-called hortative utterances, i.e. directives to the first person singular addressee.
 
 ### <a name="Yes">`Yes`</a>: hortative
 

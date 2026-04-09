@@ -5,13 +5,12 @@ shortdef: 'adverbial locative marker'
 udver: '2'
 ---
 
-Description
+In Ruuli, the `advmod:loc` relation is used for locative enclitics *=wo*, *=ku*, *=mu*, and *=yo* (tagged [ADV]()).
 
-<!-- Focus particles mbe, na, te  -->
+These enclitics function as locative adverbials and attach to the predicate; accordingly, they depend on the head of the clause.
 
 ~~~ sdparse
-A zalezhyt vid B z dep zvyazok. \n A depends on B with dep relation .
-dep(B, A)
-dep(B, A)
+Ati oibaamwei nazwa yo . \n Now her_husband came there .
+advmod:loc(nazwa, yo)
+advmod:loc(came, there)
 ~~~
-
