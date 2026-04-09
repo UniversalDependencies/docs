@@ -13,9 +13,9 @@ Middle Armenian has the following auxiliary verbs: _եմ_ “be”, and its vari
 They can be divided into:
 
 - tense auxiliary, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
-- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
-- voice auxiliary, used to form periphrastic causative represented by _տալ&nbsp;_ “cause / make someone to perform action”,
-- mood auxiliary, used to form periphrastic necessitative mood by _պիտի&nbsp;_ “to be necessary, useful” or _պետք է&nbsp;_ “lit: is needed”.
+- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինիմ/linim, կամ/kam, ունիմ/ownim_ “be repeatedly / habitually”,
+- mood auxiliary, used to form periphrastic necessitative mood by _պիտի/piti_ “to be necessary, useful”,
+- negative auxiliary: independent negating words used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries եմ and էի, which can take the bound morpheme of negation չ and have the feature of polarity.
 
 ### Examples
 
