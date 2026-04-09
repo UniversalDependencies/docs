@@ -4,7 +4,7 @@ title:  'UD for Middle Armenian'
 udver: '2'
 ---
 
-# UD for Middle Armenian <span class="flagspan"><img class="flag" src="../../flags/svg/AM.svg" /></span>
+# UD for Middle Armenian <span class="flagspan"><img class="flag" src="../../flags/svg/AM-RUBENID.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
