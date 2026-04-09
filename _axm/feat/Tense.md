@@ -46,15 +46,15 @@ Note, that a limited set of verbs (_գիտեմ, ունիմ_) form imperfect and 
 
 #### Examples
 
-* _էի_ “I was.`Ind`”,
-* _կայի_ “I was / existed.`Ind`”,
-* _գնայի_ “I wish I went.`Sub`”,
-* _գրէի_ “I wish I wrote.`Sub`”,
-* _պիտի գնայի տուն_ “I should go.`Nec` home”,
-* _ունեի_ “I had”.`Ind`,
-* _գիտեի_ “I knew”.`Ind`,
-* _ունենայի_ “I wish I had.`Sub`”,
-* _գիտնայի_ “I wish I knew.`Sub`”
+* _էի/ēi_ “I was.`Ind`”,
+* _կայի/kayi_ “I was / existed.`Ind`”,
+* _մտնուի/mtnowi_ “I wish I entered.`Sub`”,
+* _գրէի/grēi_ “I wish I wrote.`Sub`”,
+* _տի բերէր/ti berēr_ “he should bring.`Nec`”,
+* _ունեի/ownei_ “I had”.`Ind`,
+* _գիտեի/gitei_ “I knew”.`Ind`,
+* _ունենայի/ownenayi_ “I wish I had.`Sub`”,
+* _գիտնայի/gitnayi_ “I wish I knew.`Sub`”
 
 
 ### <a name="Pres">`Pres`</a>: present tense
@@ -68,12 +68,11 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 
 * _եմ/em_ “I am.`Ind`”,
 * _կամ/kam_ “I am / exist.`Ind`”,
-* _գնամ/gnam_ “I'd better go.`Sub`”,
+* _մտնում/mtnowm_ “I'd better enter.`Sub`”,
 * _կու գնամ/kow gnam_ “I shall go.`Cnd`”,
-* _պիտի գնամ/piti gnam_ “I must go.`Nec`”,
+* _տի բերեմ/ti berem_ “I must/will bring.`Nec`”,
 * _ունեմ/ownem_ “I have.`Ind`”,
 * _գիտեմ/gitem_ “I know.`Ind`”,
 * _ունենամ/ownenam_ “(if) I have.`Sub`”,
 * _գիտնամ/gitenam_ “(if) I know.`Sub`”,
-* _լինիմ/linim_ “I am / I will be.`Sub`”,
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:50 CET -->
