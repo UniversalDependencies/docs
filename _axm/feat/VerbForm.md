@@ -51,7 +51,7 @@ Participle is a non-finite verb form that shares properties of verbs and adjecti
 
 In Middle Armenian grammar, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
 
-Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
+Note, that the so called _negative participle_ is used to form negated periphrastic indicative and conditional forms. We mark them [Connegative]().
 
 Middle Armenian has six types of participles:
 
