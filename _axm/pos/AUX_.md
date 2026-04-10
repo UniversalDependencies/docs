@@ -10,33 +10,36 @@ udver: '2'
 ### Definition
 The auxiliary verb accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
 Middle Armenian has the following auxiliary verbs: _եմ/em_ “be”, _լինիմ (լինալ)/linim (linal)_ “be repeatedly / habitually”, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”, _պիտի/piti_ “must/will”.
-There are also several particles that function like auxiliaries: _կու (կ-)/kow (k-)_ “do/will”, negative auxiliaries _չի (չ-)/či (č-)_ “do not” and _ոչ/oč_ “do not”. 
+There are also several particles that function like auxiliaries: _կու (կոյ, կ-)/kow (koy, k-)_ “do/will”, negative auxiliaries _չի (չ-)/či (č-)_ “do not” and _ոչ/oč_ “do not”. 
 They can be divided into:
 - tense auxiliary, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
 - aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինիմ/linim, կամ/kam, ունիմ/ownim_ “be repeatedly / habitually”,
-- mood auxiliary, used to form periphrastic necessitative mood by  _կու (կ-)/kow (k-)_ “do/will”, _պիտի/piti_ “to be necessary, useful”,
+- mood auxiliary, used to form periphrastic necessitative mood by  _կու (կոյ, կ-)/kow (koy, k-)_ “do/will”, _պիտի/piti_ “to be necessary, useful”,
 - negative auxiliary: independent negating words used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries _եմ/em_ and _էի/ēi_, which can take the bound morpheme of negation _չ-/č-_ and have the feature of [Polarity]().
 
 ### Examples
 
-- Present tense. Finite present form of _եմ_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-  _վազում <b>եմ</b>_ “I run / I am running”,
-  _կանգնած <b>են</b>_ “they are standing”,
-  _<b>լոկցեալ է<p> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”
-  _խօսելոց եմք/xòseloc’ emk’_ “we talk /we are talking”
-  _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>/Ēr es injnē heṙanalis, sirts ē doġalis_ “Why do you leave me? My heart is trembling”.
+- Present tense. Finite present form of _եմ_ is combined with the resultative and rarely with the processual participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
+-    _Ոչ <b>եմք մեռած</b>/Oč emk’ meṙaç_ “we are not dead”,
+-    _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>/Ēr es injnē heṙanalis, sirts ē doġalis_ “Why do you leave me? My heart is trembling”.
+
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
 
 - Imperfect tense. Finite imperfect form of _էի_ is combined with imperfective, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-  _վազում <b>էի</b>_ “I was running”,
+  _անսիւն <b>շինած էր</b>_ “it was <b>built</b> without columns”,
   _վազել <b>էիր</b>_ “you had run”,
   _կանգնած <b>էին</b>_ “they were standing”.
 
-Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>&nbsp;_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice.
+Note, that fintie present and imperfect forms of _եմ_ and _էի_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice. 
+ _<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”
+  _խօսելոց եմք/xòseloc’ emk’_ “we talk /we are talking”
 
 - Durative / habitual aspect. The finite form of _լինալ (լինիմ)_ (in various tenses and moods or in the infinitive _լինալ_) is combined with resultative perfect and past participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   _Եւ թէ որդիքն <b>մեռել լինին</b> թագաւորին/Ew t’ē ordik’n meṙel linin t’agaworin_ “And if the king's sons have died `Sub`”
+  _եղկ ջուր, յոր եփած լինի չոր մանուշակն եւ վարդ/eġk ǰowr, yor ep’aç lini čor manowšakn ew vard_ “”
+  _զքաղաքն առած ունէին/zk’aġak’n aṙaç ownēin_ “They had captured the city”
   _Ոմանք չեն արժանի ի յիւր տեսոյն, կան հալածել/Omank’ čen aržani i yiwr tesoyn, kan halaçel_ “Some are not worthy of his sight; they persist in persecuting `Ind`”
+ 
   
   _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I intent to go.`Sub`”,
   _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone.`Sub`”,
