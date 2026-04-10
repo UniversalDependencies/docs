@@ -32,14 +32,14 @@ systematically change between dialects or styles).
 
 #### Examples
 
-* _ջանջիլ, ջամբռլայ_
+* _ջանջիլ/ǰanǰil, ջամբռլայ/ǰambṙlay_
 
 
 ### <a name="Vrnc">`Vrnc`</a>: vernacular
 
 #### Examples
 
-* _թեթենի/t’et’eni, առճ/aṙč̣, ղրաղ/ġraġ_
+* _թեթենի/t’et’eni, առճ/aṙč̣, ղրաղ/ġraġ, տվել այ/tvel ay_
 
 
 ### <a name="Expr">`Expr`</a>: expressive, emotional
@@ -48,7 +48,7 @@ systematically change between dialects or styles).
 
 Typical examples of expressive words in the Armenian data are diminutives:
 
-* _ձայնիկ, քաֆրիկ, պագիկ_
+* _ձայնիկ/jaynik, քաֆրիկ/k’afrik, պագիկ/pagik_
 
 
 ### <a name="Vulg">`Vulg`</a>: vulgar
@@ -62,5 +62,5 @@ Typical examples of expressive words in the Armenian data are diminutives:
 
 #### Examples
 
-* _դատւոր/դատուոր/datwor/datowor_, թեպուր/թեփուր/t’epowr/t’ep’owr, մգռա/մքռա/mgṙa/mk’ṙa_
+* _դատւոր/դատուոր/datwor/datowor, թեպուր/թեփուր/t’epowr/t’ep’owr, մգռա/մքռա/mgṙa/mk’ṙa_
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->

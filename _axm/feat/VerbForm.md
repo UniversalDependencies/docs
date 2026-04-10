@@ -8,9 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Conv">Conv</a></td>
   <td><a href="#Fin">Fin</a></td>
-  <td><a href="#Gdv">Gdv</a></td>
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#Part">Part</a></td>
 </tr>
@@ -23,7 +21,6 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 
 #### Examples
 
-* _կու գնամ, կու գնաս, կու գնայ, կու գնամք (գնանք), կու գնաք, կու գնան_ “I will go, you will go, he/she/it will go, we will go, you will go, they will go”,
 * _գիտեմ, գիտես, գիտէ, գիտեմք (գիտենք), գիտէք, գիտեն_ “I know, you know, he/she/it knows, we know, you know, they know”,
 * _մնացի, մնացեր, մնաց, մնացաք, մնացէք, մնացին_ “I stayed, you stayed, he/she/it stayed, we stayed, you stayed, they stayed”,
 * _եմ, ես, է, եմք, էք, են_ “I am, you are, he/she/it is, we are, you are, they are”,
@@ -33,14 +30,15 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 ### <a name="Inf">`Inf`</a>: infinitive
 
 Infinitive is the citation form of verbs. In Middle Armenian it has non-finite form. It appears as the argument of other verbs.
-When used with the negative forms of the auxiliary verb _եմ/em_ (and the preposition _ի/i_), it conveys the negative present indicative.
+When used with the auxiliary verb _եմ/em_ and the preposition _ի/i_, it indicates the present indicative.
 The infinitive shares properties of verbs and nouns. It inflects for [Case](), [Definite](), [Number](), [Number[psor]]() and [Person[psor]]().
 Note that in Middle Armenian grammar, the genitive-dative case of the infinitive is treated as a future participle, regardless of whether it functions as a verbal
 tense (with an auxiliary verb) or as a modifier (with a noun). However, we shall apply the principle of Modern Armenian (Eastern and Western), where only the form
-used with an auxiliary verb (to create the future tense of the indicative mood) is considered a future participle.
+used with an auxiliary (to create the future tense of the indicative mood) is considered a future participle.
 
 #### Examples
 
+* _օրէնքս <b>չէ ի տալ</b>/òrēnk’s čē i tal_ “this law doesn't permit”
 * _Որով զոք դատիս՝ Նոյն դատաստան կամիս <b>կրել</b>/Orov zok’ datis՝ Noyn datastan kamis krel_ “The judgment you pass on others is the same one you are willing <b>to face</b> yourself”,
 * _Պատրաստ եմ <b>մեռանել</b> վասն անուան նորին/Patrast em meṙanel vasn anowan norin_ “I am ready to die for his name”,
 * _Մի՞թէ <b>մեռանելոյ</b> օրս մոտեցաւ/mit’ē meoaneloy òrs motec’aw_ “Has my day <b>to die</b> really come”,
@@ -53,7 +51,7 @@ Participle is a non-finite verb form that shares properties of verbs and adjecti
 
 In Middle Armenian grammar, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
 
-Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
+Note, that the so called _negative participle_ is used to form negated periphrastic indicative and conditional forms. We mark them [Connegative]().
 
 Middle Armenian has six types of participles:
 

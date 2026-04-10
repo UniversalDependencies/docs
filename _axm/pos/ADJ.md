@@ -15,7 +15,7 @@ The `ADJ` tag is intended for ordinary adjectives only. See [DET]() for determin
 
 In accordance with the UD approach, ordinal numerals _(առջի/aṙǰi, իրեքում/irek’owm, չորսում/čorsowm, տասնուվեցում/tasnowvec’owm)_ are tagged as adjectives, although the traditional grammar classifies them as numerals. They behave like adjectives both morphologically and syntactically, with the exception that they cannot be compared.
 
-Most Middle Armenian adjectives inflect for [Degree]() (_աղէկ/aġēk, այլ աղէկ/ayl aġēk, այլ աղէկն/ayl aġēkn_ “good, better, the best”).
+Most Middle Armenian adjectives have [Degree]() (_աղէկ/aġēk, այլ աղէկ/ayl aġēk, այլ աղէկն/ayl aġēkn_ “good, better, the best”).
 
 ### Examples
 
@@ -27,10 +27,11 @@ Most Middle Armenian adjectives inflect for [Degree]() (_աղէկ/aġēk, այլ
 
 ### Border cases
 
-Resultative, subject and past participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB]():
+Resultative, subject and past participles are word forms that may share properties and usage of both adjectives and verbs. Note, that since both core participial forms (used to form the indicative) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged as [VERB]():
 
-- _ջրած գինի/ǰraç gini_ “wine diluted with water”
-- _նախշող վարպետ/naxšoġ varpet_ “a master of ornamentation”
-- _ծաղկեալ ծառ/çaġkeal çaṙ_ “a tree in bloom”
+- _<b>ջրած</b> գինի/ǰraç gini_ “wine diluted with water”
+- _<b>նախշող</b> վարպետ/naxšoġ varpet_ “a master of ornamentation”
+- _<b>ծաղկեալ</b> ծառ/çaġkeal çaṙ_ “a tree in bloom”
+- _<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “He has bathed in sour water”
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->

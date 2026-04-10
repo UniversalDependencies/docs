@@ -24,9 +24,9 @@ Note, that we are defining features that apply to a single word. If a tense is c
 
 In Middle Armenian, actions that occurred before, during, and after a past or present event are expressed using perfect, resultative, and future participles.
 
-Note, that actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxiliary in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be an [aspect](Aspect) (`Aspect=Prosp`) information at the participle (e.g. _<b>ասելոց է</b> ընդ մեզ_ “He <b>is going to talk</b> with us” or _հիւանդս աս <b>լաւնալու է</b>_ “this patient <b>will recover</b>”).
+Note that actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxiliary in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be an [aspect](Aspect) (`Aspect=Prosp`) information at the participle (e.g. _<b>ասելոց է</b> ընդ մեզ_ “He <b>is going to talk</b> with us” or _հիւանդս աս <b>լաւնալու է</b>_ “this patient <b>will recover</b>”).
 
-Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliaries _լինիմ, ունիմ, կամ_ and the resultative and perfect participles of the main verb. They express actions that happened before past or present reference. For these periphrastical forms we use `Tense=Imp` or `Tense=Pres` with perfect (`Perf`) aspect.
+Note also that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) which are formed periphrastically using forms of the auxiliaries _լինիմ, ունիմ, կամ_ and the resultative and perfect participles of the main verb. These forms are used to express actions that happened before past or present reference. For these periphrastical forms we use `Tense=Imp` or `Tense=Pres` with perfect (`Perf`) aspect.
 
 ### <a name="Past">`Past`</a>: past tense / aorist
 
@@ -46,15 +46,15 @@ Note, that a limited set of verbs (_գիտեմ, ունիմ_) form imperfect and 
 
 #### Examples
 
-* _էի_ “I was.`Ind`”,
-* _կայի_ “I was / existed.`Ind`”,
-* _գնայի_ “I wish I went.`Sub`”,
-* _գրէի_ “I wish I wrote.`Sub`”,
-* _պիտի գնայի տուն_ “I should go.`Nec` home”,
-* _ունեի_ “I had”.`Ind`,
-* _գիտեի_ “I knew”.`Ind`,
-* _ունենայի_ “I wish I had.`Sub`”,
-* _գիտնայի_ “I wish I knew.`Sub`”
+* _էի/ēi_ “I was.`Ind`”,
+* _կայի/kayi_ “I was / existed.`Ind`”,
+* _մտնուի/mtnowi_ “I wish I entered.`Sub`”,
+* _գրէի/grēi_ “I wish I wrote.`Sub`”,
+* _տի բերէր/ti berēr_ “he should bring.`Nec`”,
+* _ունեի/ownei_ “I had”.`Ind`,
+* _գիտեի/gitei_ “I knew”.`Ind`,
+* _ունենայի/ownenayi_ “I wish I had.`Sub`”,
+* _գիտնայի/gitnayi_ “I wish I knew.`Sub`”
 
 
 ### <a name="Pres">`Pres`</a>: present tense
@@ -68,12 +68,11 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 
 * _եմ/em_ “I am.`Ind`”,
 * _կամ/kam_ “I am / exist.`Ind`”,
-* _գնամ/gnam_ “I'd better go.`Sub`”,
+* _մտնում/mtnowm_ “I'd better enter.`Sub`”,
 * _կու գնամ/kow gnam_ “I shall go.`Cnd`”,
-* _պիտի գնամ/piti gnam_ “I must go.`Nec`”,
+* _տի բերեմ/ti berem_ “I must/will bring.`Nec`”,
 * _ունեմ/ownem_ “I have.`Ind`”,
 * _գիտեմ/gitem_ “I know.`Ind`”,
 * _ունենամ/ownenam_ “(if) I have.`Sub`”,
-* _գիտնամ/gitenam_ “(if) I know.`Sub`”,
-* _լինիմ/linim_ “I am / I will be.`Sub`”,
+* _գիտնամ/gitnam_ “(if) I know.`Sub`”,
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:50 CET -->
