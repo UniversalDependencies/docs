@@ -20,8 +20,8 @@ They can be divided into:
 ### Examples
 
 - Present tense. Finite present form of _եմ_ is combined with the resultative and rarely with the processual participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
--    _Ոչ <b>եմք մեռած</b>/Oč emk’ meṙaç_ “we are not dead”,
--    _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>/Ēr es injnē heṙanalis, sirts ē doġalis_ “Why do you leave me? My heart is trembling”.
+  * _Ոչ <b>եմք մեռած</b>/Oč emk’ meṙaç_ “we are not dead”,
+  * _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>/Ēr es injnē heṙanalis, sirts ē doġalis_ “Why do you leave me? My heart is trembling”.
 
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
 
