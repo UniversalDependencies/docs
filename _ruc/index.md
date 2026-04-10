@@ -57,11 +57,6 @@ udver: '2'
   * Infinitive (`VerbForm=Inf`), tagged [VERB]()/[AUX]()
   * Verbal noun (`VerbForm=Vnoun`), tagged [NOUN]()
 
-<!-- ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
---- -->
-
 ### Features
 
 #### Nominal Features
