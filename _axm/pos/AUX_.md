@@ -9,10 +9,10 @@ udver: '2'
 
 ### Definition
 The auxiliary verb accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
-Middle Armenian has the following auxiliary verbs: _եմ_ “be”, and its variant (with separate lemma) _լինիմ (լինալ)_ “be repeatedly / habitually”.
+Middle Armenian has the following auxiliary verbs: _եմ_ “be”, and its variant (with separate lemma) _լինիմ (լինալ)_ “be repeatedly / habitually”, _ունիմ/ownim_ “”, _կամ/kam_ “”, _պիտի/piti_ “”.
+There are also several particles that function like auxiliaries: _կու (կ-)/kow (k-)_ “”, negative auxiliaries _չի (չ-)/či (č-)_ “” and _ոչ/oč_ “”. 
 They can be divided into:
-
-- tense auxiliary, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
+- tense auxiliary, used to form compound tenses represented by _եմ_ and _էի_ “be”;
 - aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինիմ/linim, կամ/kam, ունիմ/ownim_ “be repeatedly / habitually”,
 - mood auxiliary, used to form periphrastic necessitative mood by _պիտի/piti_ “to be necessary, useful”,
 - negative auxiliary: independent negating words used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries եմ and էի, which can take the bound morpheme of negation չ and have the feature of polarity.
