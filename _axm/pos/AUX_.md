@@ -24,11 +24,10 @@ Auxiliaries can be divided into:
 
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
 
-- Imperfect tense. Finite imperfect form of _էի_ is combined with imperfective, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
+- Imperfect tense. Finite imperfect form _էի_ is combined with resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _անսիւն <b>շինած էր</b>_ “it was <b>built</b> without columns”,
  
-Note, that fintie present and imperfect forms of _եմ_ and _էի_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice. 
- _<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”
+Note, that fintie present and imperfect forms of _եմ/em_ are also used with the future, perfect and past participles of the lexical verbs to form periphrastic present perfect (e.g. _տաքցեր է_ ), (present-)future (e.g. _խօսելոց <b>եմք</b>_ “we shall speak”)  future-in-the-past (_առնելոց <b>էր</b>&_ “he/she would (intended to) buy”), past present (_<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”,. The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice. 
   _խօսելոց եմք/xòseloc’ emk’_ “we talk /we are talking”
 
 - Durative / habitual aspect. The finite form of _լինալ (լինիմ)_ (in various tenses and moods or in the infinitive _լինալ_) is combined with resultative perfect and past participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
