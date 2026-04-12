@@ -9,13 +9,12 @@ udver: '2'
 
 ### Definition
 The auxiliary verb accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
-Middle Armenian has the following auxiliary verbs: _եմ/em_ “be”, _լինիմ (լինալ)/linim (linal)_ “be repeatedly / habitually”, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”, _պիտի/piti_ “must/will”.
-There are also several particles that function like auxiliaries: _կու (կոյ, կ-)/kow (koy, k-)_ “do/will”, negative auxiliaries _չի (չ-)/či (č-)_ “do not” and _ոչ/oč_ “do not”. 
-They can be divided into:
-- tense auxiliary, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
-- aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինիմ/linim, կամ/kam, ունիմ/ownim_ “be repeatedly / habitually”,
-- mood auxiliary, used to form periphrastic necessitative mood by  _կու (կոյ, կ-)/kow (koy, k-)_ “do/will”, _պիտի/piti_ “to be necessary, useful”,
-- negative auxiliary: independent negating words used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries _եմ/em_ and _էի/ēi_, which can take the bound morpheme of negation _չ-/č-_ and have the feature of [Polarity]().
+Middle Armenian has the following auxiliary verbs: _եմ/em_ “be”, _լինիմ (լինալ)/linim (linal)_ “be repeatedly / habitually”, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”, _պիտի/piti_ “must/will”, _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” and the negative auxiliaries _չի (չ-)/či (č-)_ “do/es not”, _ոչ/oč_ “do/es not”. The most commonly used auxiliary is _եմ/em_ with its conjugation paragigms in present and imperfect. 
+Auxiliaries can be divided into:
+- tense auxiliaries, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
+- aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինիմ/linim, կամ/kam, ունիմ/ownim_ “be repeatedly / habitually”,
+- mood auxiliary, used to form periphrastic indicative / conditional mood by _կու (կոյ, կ-)/kow (koy, k-)_ “do/will”, and necessitative mood by _պիտի/piti_ “to be necessary, useful”,
+- negative auxiliaries used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries _եմ/em_ and _էի/ēi_, which can take the bound morpheme of negation _չ-/č-_ and have the feature of [Polarity]().
 
 ### Examples
 
@@ -27,9 +26,7 @@ They can be divided into:
 
 - Imperfect tense. Finite imperfect form of _էի_ is combined with imperfective, perfect and resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _անսիւն <b>շինած էր</b>_ “it was <b>built</b> without columns”,
-  * _վազել <b>էիր</b>_ “you had run”,
-  _կանգնած <b>էին</b>_ “they were standing”.
-
+ 
 Note, that fintie present and imperfect forms of _եմ_ and _էի_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice. 
  _<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”
   _խօսելոց եմք/xòseloc’ emk’_ “we talk /we are talking”
