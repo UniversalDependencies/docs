@@ -17,7 +17,7 @@ Bare `aux` relation is currently used only for the word ونۀ _wënë́_,
 combining perfective prefix -و _wë́-_ (otherwise attached to affirmative forms)
 and negative particle _në́_ (written separately).
 
-#### Examples
+### Examples
 * دا کتاب بۀ **ونۀ** لیکم _dâ kitấb bë **wënë́** likëm_ “I will not write this book”
 
 ### `aux` subtypes
