@@ -18,8 +18,11 @@ Auxiliaries can be divided into:
 
 ### Examples
 
-- Present tense. Finite present form of _եմ_ is combined with the resultative and later with the imperfective participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
+- Present tense. Finite present form of _եմ_ is combined with the resultative, past, perfect, future and in later stages also with the imperfective participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _Ոչ <b>եմք մեռած</b>/Oč emk’ meṙaç_ “we are not dead”,
+  * _<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”
+  * _<b>տաքցեր է</b>/tak’c’er ē_ “It has heated up”
+  * 
   * _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>/Ēr es injnē heṙanalis, sirts ē doġalis_ “Why do you leave me? My heart is trembling”.
 
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
@@ -27,7 +30,7 @@ Auxiliaries can be divided into:
 - Imperfect tense. Finite imperfect form _էի_ is combined with resultative participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _անսիւն <b>շինած էր</b>_ “it was <b>built</b> without columns”,
  
-Note, that fintie present and imperfect forms of _եմ/em_ are also used with the future, perfect and past participles of the lexical verbs to form periphrastic present perfect (e.g. _տաքցեր է_ ), (present-)future (e.g. _խօսելոց <b>եմք</b>_ “we shall speak”)  future-in-the-past (_առնելոց <b>էր</b>&_ “he/she would (intended to) buy”), past present (_<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”,. The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice. 
+Note, that fintie present and imperfect forms of _եմ/em_ are also used with the future, perfect and past participles of the lexical verbs to form periphrastic present perfect (e.g. ), (present-)future (e.g. _խօսելոց <b>եմք</b>_ “we shall speak”)  future-in-the-past (_առնելոց <b>էր</b>&_ “he/she would (intended to) buy”), past present ,. The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice. 
   _խօսելոց եմք/xòseloc’ emk’_ “we talk /we are talking”
 
 - Durative / habitual aspect. The finite form of _լինալ (լինիմ)_ (in various tenses and moods or in the infinitive _լինալ_) is combined with resultative perfect and past participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
