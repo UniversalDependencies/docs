@@ -40,7 +40,9 @@ Auxiliaries can be divided into:
    * _զքաղաքն <b>առած ունէին</b>/zk’aġak’n aṙaç ownēin_ “They had captured the city”
    * _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան հալածել</b>/Omank’ čen aržani i yiwr tesoyn, kan halaçel_ “Some are not worthy of his sight; they persist in persecuting”
  
-- Indiactive / conditional mood. The mood particle _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” is combined with the old form of the present verb (subjanctive)
+- Indiactive / conditional mood. The mood particle _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” is combined with the older forms of the present and imperfect tenses (present/imperfect subjunctive) to form the present/imperfect indicative or the present/imperfect conditional, which share the same form.
+   * _Քաղցր խօսքով կու ծիծաղիս/K’aġc’r xòsk’ov kow çiçaġis_ “With sweet speech, you smile”,
+   * 
 
   
 - Necessitative mood. The mood particle _<b>պիտի</b>_ “to be necessary, useful” and the impersonal predicative _<b>պետք է</b>_ “lit: is needed” are combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
