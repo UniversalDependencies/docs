@@ -14,7 +14,7 @@ Auxiliaries can be divided into:
 - tense auxiliaries, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
 - aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինիմ/linim, կամ/kam, ունիմ/ownim_ “be repeatedly / habitually”,
 - mood auxiliary, used to form periphrastic indicative / conditional mood by _կու (կոյ, կ-)/kow (koy, k-)_ “do/will”, and necessitative mood by _պիտի/piti_ “to be necessary, useful”,
-- negative auxiliaries used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries _եմ/em_ and _էի/ēi_, which can take the bound morpheme of negation _չ-/č-_ and have the feature of [Polarity]().
+- negative auxiliaries are represented by particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not”, used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries _եմ/em_ and _էի/ēi_, which can take the bound morpheme of negation _չ-/č-_ and have the feature of [Polarity]().
 
 ### Examples
 
@@ -52,15 +52,19 @@ Auxiliaries can be divided into:
   * _գիշերս ինչ <b>տի լինայ</b>_ “What will happen tonight?”
   * _տի բերէր/ti berēr_ “he/she was going to bring / he should bring”.
 
-Note, that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինել (լինեմ)&nbsp;_ should be now tagged `AUX`.
-Only pure existentials without location (_Այն <b>եղել</b> է ու <b>կա</b> որպես հուշ։_ “It <b>has been</b> and <b>is</b> as a memory.”) have a non-auxiliary _լինել&nbsp;_ and _կամ&nbsp;_ which should be tagged `VERB`.
- * _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair is like grape-vine tendrils”
- * _Պագն որ <b>դրամով լինի</b>, չեմ իտար/Pagn or dramov lini, čem itar_ “A kiss that is for money, I shall not give”.
+Note, that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`. Only pure existentials without location have a non-auxiliary _լինիմ_ and _կամ_ which should be tagged `VERB`.
+ * _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair is like grape-vine tendrils `AUX`”,
+ * _Պագն որ <b>դրամով լինի</b>, չեմ իտար/Pagn or dramov lini, čem itar_ “A kiss that is for money, I shall not give `AUX`”,
+ * _Յորժամ յարութիւն լինի, փողն երկու ձայնիւ տի գոչէ/Yoržam yarowt’iwn lini, p’oġn erkow jayniw ti gočē_ “When the resurrection occurs, the trumpet shall cry out with two voices `VERB`”.
  
 
 ### Modal verbs are not auxiliaries
 
-Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Their behavior is only slightly different from other content verbs.
+Middle Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Their behavior is only slightly different from other content verbs.
 
+- Negative auxiliaries. Particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not” do not have conjugation paradigm and are used to negate verbs in the present and imperfect tenses of the indicative and subjunctive moods.
+  * _Յեկեղեցին <b>ոչ երեւայ</b>. Եւ զեկեալ հիւրսն <b>ոչ խղճայ</b>/Yekeġec’in oč ereway. Ew zekeal hiwrsn oč xġč̣ay_ “The church does not appear; and he does not pity the guests who have come”,
+  * _<b>Չի դառնաս</b> հեղ մի յիս հայես. <b>Չի գիտե՞ս</b> քո պլպուլն եմ ես/Či daṙnas heġ mi yis hayes. Či gite՞s k’o plpowln em es_ “You do not turn to look at me even once; Don't you know that I am your nightingale?”
+  * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չընդունի</b> բնաւ/Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ “And this type (of ailment) does not admit any treatment or cure at all”.
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
