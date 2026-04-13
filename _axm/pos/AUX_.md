@@ -47,8 +47,8 @@ Auxiliaries can be divided into:
 
   
 - Necessitative mood. The mood particle _<b>պիտի</b>_ “to be necessary, useful” is combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
-_<b>պիտի</b> գնա&nbsp;_ “he/she <b>must</b> go home”,
-_<b>պիտի</b> գնար&nbsp;_ “he/she <b>had</b> to go”.
+  * _Զիմ գըլուխս ու զարիւնըս վարձ <b>պիտի տամ</b>/Zim gëlowxs ow zariwnës varj piti tam_ “I must give my head and my blood as the price”,
+  * _գիշերս ինչ <b>տի լինայ</b>_ “What will happen tonight?”.
 
 Note, that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended
 to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինել (լինեմ)&nbsp;_ should be now tagged `AUX`.
