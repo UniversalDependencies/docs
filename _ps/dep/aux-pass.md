@@ -9,4 +9,5 @@ The passive auxiliary of a clause is a form of the verb **کېدل _kedë́l_ �
 It depends with the `aux:pass` relation on the infinitive (imperfective or perfective) of the main verb.
 
 #### Examples
-
+~~~ sdparse
+~~~
