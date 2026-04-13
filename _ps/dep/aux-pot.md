@@ -14,3 +14,5 @@ In longer potential forms, the auxiliary **کېدل _kedë́l_ “to become”**
 and the auxiliary **کول _kawë́l_ “to do”** depend with the `aux:pot` relation on the main verb in the subjunctive form.
 
 #### Examples
+~~~ sdparse
+~~~
