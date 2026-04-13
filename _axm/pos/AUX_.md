@@ -39,15 +39,16 @@ Auxiliaries can be divided into:
    * _Եւ թէ որդիքն <b>մեռել լինին</b> թագաւորին/Ew t’ē ordik’n meṙel linin t’agaworin_ “And if the king's sons have died”
    * _զքաղաքն <b>առած ունէին</b>/zk’aġak’n aṙaç ownēin_ “They had captured the city”
    * _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան հալածել</b>/Omank’ čen aržani i yiwr tesoyn, kan halaçel_ “Some are not worthy of his sight; they persist in persecuting”
+
  
-- Indiactive / conditional mood. The mood particle _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” is combined with the older forms of the present and imperfect tenses (present/imperfect subjunctive) to form the present/imperfect indicative or the present/imperfect conditional, which share the same form.
-   * _Քաղցր խօսքով կու ծիծաղիս/K’aġc’r xòsk’ov kow çiçaġis_ “With sweet speech, you smile”,
-   * 
+- Indiactive / conditional mood. The mood particle _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” is combined with the older the present and imperfect forms (present/imperfect subjunctive) of lexical verb to form the present/imperfect indicative or the present/imperfect conditional, which share the same form.
+   * _Քաղցր խօսքով <b>կու ծիծաղիս</b>/K’aġc’r xòsk’ov kow çiçaġis_ “With sweet speech, you smile / you are smiling / you will smile”,
+   * _<b>կ</b>խմէր/kxmēr_ “He used to drink / He was drinking / he would drink”.
 
   
-- Necessitative mood. The mood particle _<b>պիտի</b>_ “to be necessary, useful” and the impersonal predicative _<b>պետք է</b>_ “lit: is needed” are combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
-_<b>պիտի (պետք է)</b> գնա&nbsp;_ “he/she <b>must</b> go home”,
-_<b>պիտի (պետք է)</b> գնար&nbsp;_ “he/she <b>had</b> to go”.
+- Necessitative mood. The mood particle _<b>պիտի</b>_ “to be necessary, useful” is combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
+_<b>պիտի</b> գնա&nbsp;_ “he/she <b>must</b> go home”,
+_<b>պիտի</b> գնար&nbsp;_ “he/she <b>had</b> to go”.
 
 Note, that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended
 to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինել (լինեմ)&nbsp;_ should be now tagged `AUX`.
