@@ -9,6 +9,8 @@ This feature indicates, for the head of a [fixed expression](https://universalde
 the effective UPOS of the full expression when it differs from the UPOS of the word itself.
 Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 
+It is also used to account for polyfunctionality, such as basic ADP functioning as ADV, SCONJ or CCONJ.
+
 `ExtPos` is used in the [SUD](https://surfacesyntacticud.org/) framework.
 It is kept in FEATS in the UD conversion.
 
@@ -23,6 +25,12 @@ It is kept in FEATS in the UD conversion.
 #### Examples
 
 * _<b>sai dà</b> akà ƙaːràƙè aikìn nan dà dàddareː //_ "sai dà akà ƙaːràƙè aikìn nan dà dàddareː //"
+
+### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
+
+#### Examples
+
+* _àkwai su Àdàːmu, <b>sai</b> Mustàfa //_ "there is Adamu, <b>and then</b> Mustafa"
 
 ### <a name="NOUN">`NOUN`</a>: noun-like expression
 
