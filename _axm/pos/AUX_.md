@@ -9,7 +9,10 @@ udver: '2'
 
 ### Definition
 The auxiliary verb accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
-Middle Armenian has the following auxiliary verbs: _եմ/em_ “be”, _լինիմ (լինալ)/linim (linal)_ “be repeatedly / habitually”, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”, _պիտի (պիտ, տի)/piti (pit, ti)_ “must/will”, _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” and the negative auxiliaries _չի (չ-)/či (č-)_ “do/es not”, _ոչ/oč_ “do/es not”. The most commonly used auxiliary is _եմ/em_ with its conjugation paragigms in present and imperfect. 
+Middle Armenian has the following auxiliary verbs: _եմ/em_ “be”, _լինիմ /linim (linal)_ “be repeatedly / habitually”, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”, _պիտի (պիտ, տի)/piti (pit, ti)_ “must/will”, _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” and the negative auxiliaries _չի (չ-)/či (č-)_ “do/es not”, _ոչ/oč_ “do/es not”. The most commonly used auxiliary is _եմ/em_ with its conjugation paragigms in present and imperfect.
+
+Note that, apart from _լինիմ_/_linim_, there is also the form _լինամ_/_linam_, as there are two infinitive forms: the Classical Armenian form  _լինիլ_/_linil_ and the newer Middle Armenian form _լինալ_/_linal_. Accordingly, there are two paradigms of present subjunctive conjugation: _ի_/_i_ conjugation (_լինիմ_/_linim_, _լինիս_/_linis_, _լինի_/_lini_...), and _ա_/_a_ conjugation (_լինամ_/_linam_, _լինաս_/_linas_, _լինայ_/_linay_...). The _ի_/_i_ conjugation forms have the `Style=Arch` feature.
+
 Auxiliaries can be divided into:
 - tense auxiliaries, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
 - aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինիմ/linim, կամ/kam, ունիմ/ownim_ “be repeatedly / habitually”,
