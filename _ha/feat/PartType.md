@@ -8,7 +8,8 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
 	<td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-	<td><a href="#Adv">Adv</a></td>
+	<td><a href="#Adv">Aspect</a></td>
+	<td><a href="#Adv">Evident</a></td>
 	<td><a href="#Foc">Foc</a></td>
 	<td><a href="#Neg">Neg</a></td>
 	<td><a href="#Pred">Pred</a></td>
@@ -17,17 +18,24 @@ udver: '2'
 </tr>
 </table>
 
-### <a name="Adv">`Adv`</a>: Adverbial particle
+### <a name="Adv">`Adv`</a>: Aspectual particle
+
+Expresses iterative/continuous/inchoative aspect. Annotated with the feature 'Aspect=Iter'. Glossed 'iterative'. 
 
 #### Examples
  * _sunàː <b>ta</b> tàhiyàː_ "They went on travelling." (Northern Hausa)
 
+### <a name="Adv">`Adv`</a>: Evidential particle
+
+Expresses Non-first-hearer meaning. Glossed 'reportedly'. Annotated with the feature 'Evident=Nfh'
+
+#### Examples
+ * _<b>wai</b> wâː ya sâː à kashè bàːbanshì_ "[They say] the elder brother had his father killed." (Southern Hausa) 
 
 ### <a name="Foc">`Foc`</a>: Focalization particle
 
 #### Examples
- * _yànzu inàː matsayin yaːrònshì <b>nèː</b>_ "Now I stand for his son.." (Southern Hausa)
-
+ * _yànzu inàː matsayin yaːrònshì <b>nèː</b>_ "Now I stand for his son." (Southern Hausa)
 
 
 ### <a name="Neg">`Neg`</a>: Negation particle
