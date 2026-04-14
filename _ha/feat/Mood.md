@@ -1,36 +1,47 @@
 ---
 layout: feature
-title: 'Voice'
-shortdef: 'voice'
+title: 'Mood'
+shortdef: 'mood'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Cau">Cau</a></td>
-  <td><a href="#Stat">Stat</a></td>
+  <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Pot">Pot</a></td>
+  <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
 
-Voice is typically a feature of [auxiliaries] (u-pos/AUX) and [verbs] (u-pos/VERB).
+Mood is a feature of [auxiliaries] (u-pos/AUX) [verbs] (u-pos/VERB ) and [particles] (u-pos/PART ).
 
-### <a name="Cau">`Cau`</a>: causative voice
+### <a name="Imp">`Imp`</a>: imperative mood
 
-The causative form of a verb adds a participant to its dependency frame. 
-
-#### Examples
-
-- _koː naː yi kwaːnaː kà <b>tassheː</b> ni //_ "Even if I am sleeping, wake me up." (lit: "<b>make</b> me <b>get up</b>")
-
-### <a name="Stat">`Stat`</a>: stative voice
-
-The stative participle of a verb functions as an adverb.
+The imperative is expressed by a specific tone pattern and/or final vowel of the verb, depending on its lexical class.
 
 #### Examples
 
-- _giːwàːyeː sunàː <b>tsàye</b> suː dà yawàː //_ "There were many elephants <b>standing</b> there"
+- _<b>ƙàːraː</b> gàba!_ "Move on!" (lit: "<b>increase</b> forward") (Northern Hausa)
+ƙàːraː gàba
+
+### <a name="Pot">`Pot`</a>: potential mood
+
+The potential auxiliary (lemma=<b>yâː</b>) expresses the high probability that an action will take place in the future.
+dà an jimàː, sûː koːmoː wuriːnai
+
+#### Examples
+
+- _dà an jimàː, <b>sûː</b> koːmoː wuriːnai_ "after a while, they <b>will/have to</b> go back to him" (Northern Hausa)
 
 
+### <a name="Sub">`Sub`</a>: subjunctive mood
+
+The subjuntive auxiliary (lemma=<b>à</b>) conveys dependency or consecution between two processes. zaːsù zoː sù koːyar̃
+
+
+#### Examples
+
+- _zaːsù zoː <b>sù</b> koːyar̃_ "they will come <b>in order to</b> teach" (Southern Hausa)
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->
