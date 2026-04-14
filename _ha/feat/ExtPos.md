@@ -12,12 +12,6 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 `ExtPos` is used in the [SUD](https://surfacesyntacticud.org/) framework.
 It is kept in FEATS in the UD conversion.
 
-### <a name="ADJ">`ADJ`</a>: adjective-like expression
-
-#### Examples
-
-* _wai <b>hìyayyem</b> mutàːneː //_ "Well, most of the people."
-
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
 #### Examples
@@ -29,12 +23,6 @@ It is kept in FEATS in the UD conversion.
 #### Examples
 
 * _<b>sai dà</b> akà ƙaːràƙè aikìn nan dà dàddareː //_ "sai dà akà ƙaːràƙè aikìn nan dà dàddareː //"
-
-### <a name="INTJ">`INTJ`</a>: interjection-like expression
-
-#### Examples
-
-* _kâi < <b>Allàː hù âkabar̃</b> < Allàː ji kân wandà sukà rigaː mù //_ "My, God almighty, May God have pity on those who have departed."
 
 ### <a name="NOUN">`NOUN`</a>: noun-like expression
 
