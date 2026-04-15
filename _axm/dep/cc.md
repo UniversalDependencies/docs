@@ -26,6 +26,7 @@ cc(commandments, and)
 A coordinating conjunction may also appear at the beginning of a sentence. This is also called a `cc`, and it depends on the root predicate of the sentence.
 (In fact there is a coordination that spans multiple sentences. We cannot attach a word to the first conjunct because it is in another sentence. Thus we attach it to the first conjunct available in the current sentence: its main predicate.)
 
+~~~ sdparse
 Եւ թէ այլազգի քրիստոնէ սպաննէ՝ մեռնի ։ \n Ew t’ē aylazgi k’ristonē spannē՝ meṙni . \n And if a foreigner kills a Christian, he will be executed .
 cc(սպաննէ, Եւ)
 cc(kills, And)
