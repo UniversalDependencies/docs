@@ -22,24 +22,26 @@ Auxiliaries can be divided into:
 ### Examples
 
 - Present tense. Finite present form of _եմ_ is combined with the resultative, past, perfect, future and in later stages also with the imperfective participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-  * _Ոչ <b>եմք մեռած</b>/Oč emk’ meṙaç_ “we are not dead”,
-  * _<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”
-  * _<b>տաքցեր է</b>/tak’c’er ē_ “It has heated up”
-  *  _խօսելոց <b>եմք</b>_ “we shall speak”
-  * _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>/Ēr es injnē heṙanalis, sirts ē doġalis_ “Why do you leave me? My heart is trembling”.
+  * _Ոչ <b>եմք մեռած</b>_/_Oč emk’ meṙaç_ “we are not dead”,
+  * _<b>լոկցեալ է</b> ի թթու ջուր_/_lokc’eal ē i t’t’ow ǰowr_ “lit: he has bathed in sour water”
+  * _<b>տաքցեր է</b>_/_tak’c’er ē_ “It has heated up”
+  *  _<b>խօսելոց եմք</b>_/_xòseloc’ emk’_ “we shall speak”
+  * _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>_/_Ēr es injnē heṙanalis, sirts ē doġalis_ “Why do you leave me? My heart is trembling”.
 
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
 
 - Imperfect tense. Finite imperfect form _էի_ is combined with  resultative, past, perfect and future of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-  * _անսիւն <b>շինած էր</b>_ “it was <b>built</b> without columns”,
-  * _<b>գրեալ էր</b> ի մէջ թխտին/greal ēr i mēǰ t’xtin_ “It was written on the paper”,
-  * _<b>հնազանդել էր</b>/hnazandel ēr_ “he had obeyed”,
-  * _<b>առնելոց էր</b>&_ “he/she would (intended to) buy”.
+  * _անսիւն <b>շինած էր</b>_/_ansiwn šinaç ēr_ “it was <b>built</b> without columns”,
+  * _<b>գրեալ էր</b> ի մէջ թխտին_/_greal ēr i mēǰ t’xtin_ “It was written on the paper”,
+  * _<b>հնազանդել էր</b>_/_hnazandel ēr_ “he had obeyed”,
+  * _<b>առնելոց էր</b>_/_aṙneloc’ ēr_ “he/she would (intended to) buy”.
  
 
 - Durative / habitual aspect. The finite form of _լինիմ/linim_ “be repeatedly / habitually”_, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”  (in various tenses and moods) are combined with resultative, perfect and past participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
    * _եղկ ջուր, յոր <b>եփած լինի</b> չոր մանուշակն եւ վարդ/eġk ǰowr, yor ep’aç lini čor manowšakn ew vard_ “Lukewarm water, in which dried violet and rose have been boiled”
    * _Եւ թէ որդիքն <b>մեռել լինին</b> թագաւորին/Ew t’ē ordik’n meṙel linin t’agaworin_ “And if the king's sons have died”
+ 
+     
    * _զքաղաքն <b>առած ունէին</b>/zk’aġak’n aṙaç ownēin_ “They had captured the city”
    * _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան հալածել</b>/Omank’ čen aržani i yiwr tesoyn, kan halaçel_ “Some are not worthy of his sight; they persist in persecuting”
 
