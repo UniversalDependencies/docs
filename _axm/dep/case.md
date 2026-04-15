@@ -13,20 +13,15 @@ case(կռիւ, ի)
 case(the-battle, in)
 ~~~
 
+Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (derived from a closed set of nouns, adjectives/participles or adverbs). These elements (known as “adpositional words” in Armenian grammar) are 
+treated as dependents of the noun or clause they attach to or introduce. They are tagged and annotated according to their basic use. In this case the [ExtPos]() feature is used, as the word is coerced into a part of speech different from its lexical one. 
+
 ~~~ sdparse
 սիսռան/NOUN[Case=Dat] չաք/ADP \n the size-of a chickpea
 case(սիսռան, չաք)
 case(chickpea, size-of)
 ~~~
 
-Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (derived from a closed set of nouns, adjectives/participles or adverbs). These elements (traditionally known as “adpositional words”) are 
-treated as dependents of the noun or clause they attach to or introduce. They are still tagged [ADP](). Some of them may be tagged and annotated according to their basic use.
-
-~~~ sdparse
-երկրաշարժից/NOUN[Case=Abl] հետո/ADP \n after the-earthquake
-case(երկրաշարժից, հետո)
-case(the-earthquake, after)
-~~~
 
 ~~~ sdparse
 այս/DET իշխանությունների/NOUN[Case=Dat] երեսից/NOUN[Case=Abl] \n these authorities-' fault
