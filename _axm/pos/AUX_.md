@@ -63,7 +63,7 @@ Note, that in Middle Armenian copulas are also tagged `AUX` and the definition o
 
 
 - Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitve of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
-  * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ_ `Cau` _սպաննել</b>_ `Act`  “lit: to <b>make</b> somebody understand”,
+  * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ_ `Cau` _սպաննել</b>_ `Act`/_amēnn hnazandowt’eamb berē ew čtay spannel_ “lit: he will bring them all into submission and will not make kill them”.
     
  
 - Negative auxiliaries. Particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not” do not have conjugation paradigm and are used to negate verbs in the present and imperfect tenses of the indicative and subjunctive moods.
