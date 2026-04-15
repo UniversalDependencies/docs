@@ -10,16 +10,14 @@ which is a core argument. That is, it functions like an object of the verb, or
 adjective.
 
 ~~~ sdparse
-Նա ասաց , որ դու աշխատում ես այստեղ ։ \n He said , that you are working here .
-ccomp(ասաց, աշխատում)
-ccomp(said, working)
-mark(աշխատում, որ)
-mark(working, that)
+Հարցնեն յօրէնքս վասն անընկմահու, թէ լինի իրենց թաղումն կամ պատարագ ։ \n Harc’nen  yòrēnk’s vasn anënkmahow , t’ē lini irenc’ t’aġowmn kam patarag . \n They ask about the laws regarding suicides , whether burial or a requiem service should be performed for them .
+ccomp(Հարցնեն, լինի)
+ccomp(ask, performed)
+mark(լինի, թէ)
+mark(performed, whether)
 ~~~
 
-Such clausal complements may be finite or nonfinite. However, if the
-subject of the clausal complement is controlled (that is, must be the same
-as the higher subject or object, with no other possible interpretation)
+Such clausal complements may be finite or nonfinite. However, if the subject of the clausal complement is controlled (that is, must be the same as the higher subject or object, with no other possible interpretation)
 the appropriate relation is [xcomp]().
 
 ~~~ sdparse
@@ -29,11 +27,9 @@ ccomp(ordered, to-dig)
 ~~~
 
 ~~~ sdparse
-Ղեկավարը հրամայեց մեզ փորել ։ \n The-boss ordered us to-dig .
-xcomp(հրամայեց, փորել)
-xcomp(ordered, to-dig)
-iobj(հրամայեց, մեզ)
-iobj(ordered, us)
+պարտի թագաւորն զիր իրաւունքն տանել ըղորդ \n parti t’agaworn zir irawownk’n tanel ëġord \n The King is obligated to administer his justice with integrity 
+xcomp(պարտի, տանել)
+xcomp(obligated, to-administer)
 ~~~
 
 ~~~ sdparse
