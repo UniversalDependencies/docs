@@ -40,7 +40,7 @@ The medial deictic points to a referent within the sight of the speakers, but ou
 
 #### Examples
 So, you were not walking on your own, that one on his own, and that one on his own. 
-- _kuma bâː tàhiyàkkà daban, ta <b>wàncân</b> daban, ta <b>wàncân</b> daban//_ "you were not walking on your own, <b>that one</b> on his own, and <b>that one</b> on his own." (Northern Hausa))
+- _kuma bâː tàhiyàkkà daban, ta <b>wàncân</b> daban, ta <b>wàncân</b> daban//_ "you were not walking on your own, <b>that one</b> on his own, <b>that one</b> on his own." (Northern Hausa))
 
 ### <a name="Remt">`Remt`</a>: Remote deictic
 
@@ -51,6 +51,6 @@ The remote deictic points to a referent outside the sight of the speakers. Its l
 - _zâːta tàhiyàː wurim bìki, <b>can</b> gidan dangìntà //_ "she was going to a party, <b>over there</b>, at her relative's house. (Western Hausa)
 
 
-<b>Reference</b>: Jaggar, Philip J. & Malami Buba. 1996. The Space and Time Adverbials nan/can in Hausa: Cracking the Deictic Code. In Petr Zima (ed.), _Proceedings of the Workshop on Space in Languages_, Prague 1995, 82–124. Prague: Center for Theoretical Study.
+<b>Reference</b>: Jaggar, Philip J. & Malami Buba. 1996. The Space and Time Adverbials nan/can in Hausa: Cracking the Deictic Code. In Petr Zima (ed.), _Proceedings of the Workshop on Space in Languages_, Prague 1995, 82–124.
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->
