@@ -17,6 +17,7 @@ Auxiliaries can be divided into:
 - tense auxiliaries, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
 - aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինիմ/linim, կամ/kam, ունիմ/ownim_ “be repeatedly / habitually”,
 - mood auxiliary, used to form periphrastic indicative / conditional mood by _կու (կոյ, կ-)/kow (koy, k-)_ “do/will”, and necessitative mood by _պիտի/piti_ “to be necessary, useful”,
+- voice auxiliary, used to form periphrastic causative represented by _տալ_/_tal_ “cause / make someone to perform action”,
 - negative auxiliaries are represented by particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not”, used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries _եմ/em_ and _էի/ēi_, which can take the bound morpheme of negation _չ-/č-_ and have the feature of [Polarity]().
 
 ### Examples
@@ -40,8 +41,6 @@ Auxiliaries can be divided into:
 - Durative / habitual aspect. The finite form of _լինիմ/linim_ “be repeatedly / habitually”_, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”  (in various tenses and moods) are combined with resultative, perfect and past participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
    * _եղկ ջուր, յոր <b>եփած լինի</b> չոր մանուշակն եւ վարդ/eġk ǰowr, yor ep’aç lini čor manowšakn ew vard_ “Lukewarm water, in which dried violet and rose have been boiled”
    * _Եւ թէ որդիքն <b>մեռել լինին</b> թագաւորին/Ew t’ē ordik’n meṙel linin t’agaworin_ “And if the king's sons have died”
- 
-     
    * _զքաղաքն <b>առած ունէին</b>/zk’aġak’n aṙaç ownēin_ “They had captured the city”
    * _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան հալածել</b>/Omank’ čen aržani i yiwr tesoyn, kan halaçel_ “Some are not worthy of his sight; they persist in persecuting”
 
@@ -61,15 +60,21 @@ Note, that in Middle Armenian copulas are also tagged `AUX` and the definition o
  * _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair is like grape-vine tendrils `AUX`”,
  * _Պագն որ <b>դրամով լինի</b>, չեմ իտար/Pagn or dramov lini, čem itar_ “A kiss that is for money, I shall not give `AUX`”,
  * _Յորժամ յարութիւն լինի, փողն երկու ձայնիւ տի գոչէ/Yoržam yarowt’iwn lini, p’oġn erkow jayniw ti gočē_ “When the resurrection occurs, the trumpet shall cry out with two voices `VERB`”.
+
+
+- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitve of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
+  * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ_ `Cau` _սպաննել</b>_ `Act`  “lit: to <b>make</b> somebody understand”,
+    
  
-
-### Modal verbs are not auxiliaries
-
-Middle Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Their behavior is only slightly different from other content verbs.
-
 - Negative auxiliaries. Particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not” do not have conjugation paradigm and are used to negate verbs in the present and imperfect tenses of the indicative and subjunctive moods.
   * _Յեկեղեցին <b>ոչ երեւայ</b>. Եւ զեկեալ հիւրսն <b>ոչ խղճայ</b>/Yekeġec’in oč ereway. Ew zekeal hiwrsn oč xġč̣ay_ “The church does not appear; and he does not pity the guests who have come”,
   * _<b>Չի դառնաս</b> հեղ մի յիս հայես. <b>Չի գիտե՞ս</b> քո պլպուլն եմ ես/Či daṙnas heġ mi yis hayes. Či gite՞s k’o plpowln em es_ “You do not turn to look at me even once; Don't you know that I am your nightingale?”
   * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չընդունի</b> բնաւ/Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ “And this type (of ailment) does not admit any treatment or cure at all”.
+ 
+
+  ### Modal verbs are not auxiliaries
+
+Middle Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Their behavior is only slightly different from other content verbs.
+
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
