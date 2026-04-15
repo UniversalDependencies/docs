@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Old Georgian <span class="flagspan"><img class="flag" src="../../flags/svg/OGE.svg" /></span>
 
-This is a **work-in-progress** overview of the UD annotation for Georgian.
+This is a **work-in-progress** overview of the UD annotation for Old Georgian.
 
 ## Tokenization and Word Segmentation
 
