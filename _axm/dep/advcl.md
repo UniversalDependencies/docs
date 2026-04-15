@@ -9,6 +9,8 @@ An adverbial clause modifier is a clause which modifies a verb or other predicat
 as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
 clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
 
+- Եւ յորժամ որ օթիս ի ճանապարհն՝ լվա զերեսդ հով ջրով։
+  
 ~~~ conllu
 # visual-style 8 4 advcl:relcl color:blue
 1  Եւ  եւ  CCONJ  _ 4 cc  _  _  _
