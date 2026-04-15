@@ -24,7 +24,7 @@ The Speaker-proximal deictic points to a referent within the sphere of the speak
 
 #### Examples
 
-- _koː tundà bâːki sôn <b>wânga</b> mijìː, [...] sai kì hwàɗi wandà kikà sôː //_ "since you don't love <b>this</b> husband, [...] tell us the one you love. (Western Hausa)
+- _tundà bâːki sôn <b>wânga</b> mijìː, [...] sai kì hwàɗi wandà kikà sôː //_ "since you don't love <b>this</b> husband, [...] tell us the one you love. (Western Hausa)
 
 ### <a name="ProxH">`ProxH`</a>: Hearer-proximal deictic
 
