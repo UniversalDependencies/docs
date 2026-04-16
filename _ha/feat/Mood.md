@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-Mood is a feature of [auxiliaries] (u-pos/AUX) [verbs] (u-pos/VERB ) and [particles] (u-pos/PART ).
+Mood is a feature of [auxiliaries] (u-pos/AUX) and [verbs] (u-pos/VERB ).
 
 ### <a name="Imp">`Imp`</a>: imperative mood
 
