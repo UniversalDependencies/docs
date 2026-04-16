@@ -164,11 +164,11 @@ The corresponding plural class is `Bantu14`.
   NC2.SBJ-**NC12.OBJ**-fry NC12.millet<br>
   "They fry **it**, the millet."
 
-### <a name="Bantu13">`Bantu13`</a>: noun class 13
+<!--### <a name="Bantu13">`Bantu13`</a>: noun class 13
 
 The object prefix of noun class 13 is _tu-_.
 This class is used to form diminutive uncountable nouns. 
-There is no corresponding plural class.
+There is no corresponding plural class.-->
 
 ### <a name="Bantu14">`Bantu14`</a>: noun class 14
 
@@ -198,6 +198,8 @@ This class contains deverbal nouns. There is no corresponding plural class.
 The object prefix of noun class 20 is _gu-_.
 This class is used to form augmentative singular nouns. The corresponding plural class is `Bantu22`.
 
+#### Examples
+
 * _ogubbambo, n-<b>gu</b>-bwoine_<br>
   NC20.big_basket 1sg.SBJ-**NC20.OBJ**-see:PFV<br>
   "The big basket, I have seen **it**."
@@ -206,6 +208,8 @@ This class is used to form augmentative singular nouns. The corresponding plural
 
 The object prefix of noun class 22 is _ga-_.
 This class is used to form augmentative plural nouns. The corresponding singular class is `Bantu20`.
+
+#### Examples
 
 * _Agajwenge, n-<b>ga</b>-bwoine_<br>
   NC22.big_boats 1sg.SBJ-**NC22.OBJ**-see:PFV<br>
