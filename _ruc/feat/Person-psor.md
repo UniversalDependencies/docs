@@ -1,38 +1,53 @@
 ---
 layout: feature
 title: 'Person[psor]'
-shortdef: 'possessor’s person value'
+shortdef: 'person value of the possessor'
 udver: '2'
 ---
 
 In Ruuli, possessive pronouns agree both with the possessor and the possessee. 
-_Person[psor]_ reflects the person value of the possessor.
-It is realized by the final morpheme of the possessive pronoun. 
+The possessor agreement is marked by the final morpheme of the possessive pronoun. 
+`Person[psor]` reflects the person value of the possessor.
 
 ### <a name="1">`1`</a>: first
 
-First person singular possessor is marked as _nge_, while first person plural possessor is marked as _iswe_.
+The first person singular possessor is marked as _nge_, while the first person plural possessor is marked as _iswe_.
 
 #### Examples
 
-* _wa<b>nge</b>_ "my (one)"
-* _wa<b>iswe</b>_ "our (one)"
+* _omwana wa-<b>nge</b>_<br>
+  NC1.child NC1.PSED-**1sg.PSOR**<br>
+  "**my** child"
+  
+* _omwana wa-<b>iswe</b>_<br>
+  NC1.child NC1.PSED-**1pl.PSOR**<br>
+  "**our** child"
 
 ### <a name="2">`2`</a>: second
 
-Second person singular possessor is marked as _amu_, while second person plural possessor is marked as _nywe_.
+The second person singular possessor is marked as _amu_, while the second person plural possessor is marked as _nywe_.
 
 #### Examples
 
-* _wa<b>amu</b>_ "your (one)" [for singular addressee]
-* _waa<b>nywe</b>_ "your (one)" [for plural addressee]
+* _omwana wa-<b>amu</b>_<br>
+  NC1.child NC1.PSED-**2sg.PSOR**<br>
+  "**your (sg.)** child"
+  
+* _omwana wa-<b>nywe</b>_<br>
+  NC1.child NC1.PSED-**2pl.PSOR**<br>
+  "**your (pl.)** child"
 
 ### <a name="3">`3`</a>: third
 
-Third person possessor is marked by a paradigm of third person markers, known as noun classes.
-The finer-grained value of this marker is annotated as _NounClass[psor]_.
+The third person possessor is marked by a paradigm of third person markers, known as noun classes.
+The finer-grained value of this marker is annotated as [NounClass[psor]]().
 
 #### Examples
 
-* _a<b>mwe</b>_ "his (one)" [singular possessor of noun class 1]
-* _waa<b>bwe</b>_ "their (one)" [plural possessor of noun class 2]
+* _omwana wa-<b>mwe</b>_<br>
+  NC1.child NC1.PSED-**NC1.PSOR**<br>
+  "**his/her** child" 
+  
+* _omwana wa-<b>bwe</b>_<br>
+  NC1.child NC1.PSED-**NC2.PSOR**<br>
+  "**their** child" 

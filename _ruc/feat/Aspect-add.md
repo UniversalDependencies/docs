@@ -7,8 +7,8 @@ udver: '2'
 
 In the majority of uses, Ruuli verbs have a single morphologically marked aspect value. 
 One exception is verbs marked for the progressive aspect, which can additionally carry the habitual aspect marking.
-These uses of the habitual are annotated with _Aspect[add]=Hab_. 
-(The habitual can and typically does occur as the primary Aspect value, in which case it is annotated _Aspect=Hab_.)
+These uses of the habitual are annotated with `Aspect[add]=Hab`. 
+(The habitual can and typically does occur as the primary Aspect value, in which case it is annotated [Aspect]()=`Hab`.)
 
 ### <a name="Hab">`Hab`</a>: habitual aspect
 

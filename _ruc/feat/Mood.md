@@ -7,7 +7,7 @@ udver: '2'
 
 Ruuli has three moods: the indicative, the subjunctive, and the imperative.
 The indicative is the default mood.
-Both the subjunctive and the imperative most commonly describe the situation as prefered.
+Both the subjunctive and the imperative most commonly describe the situation as preferred.
 Distinction between the subjunctive and the imperative is conditioned morphosyntactically: 
 the imperative occurs in directives to the second person singular addressee, 
 the subjunctive occurs in directives to all other types of addresses as well as in subordinate environments.

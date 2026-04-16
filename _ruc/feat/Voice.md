@@ -11,7 +11,7 @@ Ruuli has several voice values: applicative, causative, passive, reciprocal, and
 Ruuli can have more than a single voice value marked on the verb.
 In this case, we assume that each value is associated with a different stage of iterative morphological derivation. 
 The voice value at the first stage of derivation is annotated with the feature `Voice`.
-The voice value at the second stage of the derivation is annotated with the feature [Voice\[add\]](ruc-feat/Voice-add).
+The voice value at the second stage of derivation is annotated with the feature [Voice[add]]().
 
 ### <a name="Appl">`Appl`</a>: applicative voice
 

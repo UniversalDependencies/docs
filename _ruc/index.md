@@ -10,15 +10,16 @@ udver: '2'
 
 * Words are generally delimited by whitespace. Exceptions are described below.
 
-* Ruuli has several types of multiword tokens (clitics):
+* Multiword tokens in Ruuli are formed in the presence of clitics, which phonologically and orthographically attach to the neighboring word. The clitics are:
 
     * Locative enclitics =*wo* (16.LOC), =*ku* (17.LOC), =*mu* (18.LOC), =*yo* (23.LOC)
-    * Comitative *n'=* (reduced form of *na*)
-    * Subordinate conjunction marker *n'=* (reduced form of *ni*)
-    * Focus clitics *=mbe*, *=te*, *=na*, *n'=*
+    * Comitative *n'=* (phonologically reduced form of *na*)
+  	* Additive focus *n'=* (phonologically reduced form of *na*) and *=na*
+    * Other focus clitics *=mbe*, *=te*	
+    * Subordinate conjunction *n'=* (phonologically reduced form of *ni*)
     * Relative pronouns, e.g., *ky'* (reduced form of *kye*)
 
-* According to typographical conventions, punctuation marks are attached to neighboring words. In annotation, they are tokenized as separate tokens, except for single quotation marks marking the end of proclitics (e.g., *n'abaizukulu* "and the grandchildren").
+* According to typographical conventions, punctuation marks are attached to neighboring words. In annotation, they are tokenized as separate tokens, except for single quotation marks marking the phonologically reduced vowel of proclitics (e.g., *n'abaizukulu* "and the grandchildren").
 
 * There are no multiword tokens written with whitespace.
 
@@ -45,16 +46,26 @@ udver: '2'
 
   Determiners agree with the noun in noun class. Forms are tagged as [DET]() when modifying a noun and as [PRON]() when functioning as the head of a nominal phrase. Additionally, the following are tagged as [PRON]():
 
-  * Possessive pronouns (e.g., *wange* "my"), as they do not take an augment
+  * Possessive pronouns (e.g., *wange* "my"), as they carry two noun classes rather than one
   * Interrogatives: *naani* "who", *(ki)ki* "what"
   * Relative pronoun *e* "which"
 
-* <!--TODO @Anna: Describe how the AUX-VERB distinction  is drawn. List of AUX: *aba, bba (not as copulas), iza*; copulas *li, ni, ta*. -->
+* There are three copulas, annotated with the universal tag [AUX]() and additionally with the language-specific tag `COP` in XPOS: 
+
+	* The semantically empty copular verb *li*
+	* The copula *ta*, in many uses equivalent with *li*; *ta* is common in locative predication and in a predicative possession construction with the adposition *na* "with".	
+	* The copula *ni*, which is used for argument and adjunct focus.
+
+* Four items can be used as auxiliaries, in which case they are tagged as [AUX](): 
+
+	* The verbs *aba* "to go" and *iza* "to come" when immediately followed by an infinitive to form periphrastic future constructions; otherwise *aba* and *iza* are interpreted as lexical verbs and tagged as [VERB]() 
+	* The verb *bba* "to be, to exist" when immediately followed by a finite verb and forms with it a complex temporal-aspectual construction; otherwise *bba* is interpreted as a lexical verb and tagged as [VERB]()
+	* The copula *li* "to be" when followed by an infinitive or a finite verb to form a complex temporal-aspectual construction; otherwise *li* is used in non-verbal predication and tagged as the universal [AUX]() and the language-specific `COP` in XPOS
 
 * Ruuli distinguishes three main verbal forms:
 
   * Finite (`VerbForm=Fin`), tagged [VERB]()/[AUX]()
-  * Infinitive (`VerbForm=Inf`), tagged [VERB]()/[AUX]()
+  * Infinitive (`VerbForm=Inf`), tagged [VERB]()
   * Verbal noun (`VerbForm=Vnoun`), tagged [NOUN]()
 
 ### Features
@@ -62,9 +73,9 @@ udver: '2'
 #### Nominal Features
 
 * Nominals ([NOUN](), [PROPN]()) carry [NounClass]() and may carry [Referent]()=`Yes` for augment prefix.
-* Agreeing parts of speech ([ADJ](), [DET](), some [ADV](), [NUM](), genitive [PART], [AUX](), [VERB]()) also carry nominal features.
+* Agreeing parts of speech ([ADJ](), [DET](), some [ADV](), [NUM](), genitive [PART](), [AUX](), [VERB]()) also carry nominal features.
 * Locative [ADP]() may carry locative noun classes (`Bantu16`, `Bantu17`, `Bantu18`, `Bantu23`).
-* Verbal nouns ([VerbForm]=`Vnoun`) belong to `Bantu15`.
+* Verbal nouns ([VerbForm]()=`Vnoun`) belong to `Bantu15`.
 
 #### Pronouns, Determiners, and Adverbs
 
@@ -78,19 +89,19 @@ udver: '2'
 
 * [VERB]() may have:
   * [Aspect]() (`Hab`, `Perf`, `Pers`, `Prog`)
-  * [Mood]() (`Cf`, `Imp`, `Ind`, `Pot`, `Sub`)
+  * [Mood]() (`Imp`, `Ind`, `Sub`)
   * [Tense]() (`Fut`, `Nar`, `Past`, `Pres`)
   * [Voice]() (`Appl`, `Cau`, `Pass`, `Rcp`, `Rfl`)
   * [VerbForm]() (`Fin`, `Inf`)
 
-* Multiple aspect or voice values are represented using layered features (e.g., [Aspect[add]](), [Voice[add]]()).
+* Multiple aspect or voice values are represented using layered features ([Aspect[add]]() and [Voice[add]]()).
 
 * Verbs agree with arguments using layered features:
   * Subject: [Person](), [Number]()/[NounClass]()
   * Object: [Person[obj]](), [Number[obj]]()/[NounClass[obj]]()
   * Indirect object: [Person[iobj]](), [Number[iobj]]()/[NounClass[iobj]]()
 
-* Auxiliary verbs (*aba*, *bba*, *iza*) and copulas (*li*, *ni*, *ta*) are tagged [AUX] and carry tense/aspect and agreement.
+* Auxiliary verbs (*aba*, *bba*, *iza*) and copulas (*li*, *ni*, *ta*) are tagged [AUX]() and carry tense/aspect and agreement.
 
 #### Other Features
 
@@ -98,39 +109,43 @@ udver: '2'
 * [ExtPos]()=`CCONJ` for fixed expressions like *ate era* "and"
 * [Foreign]()=`Yes` for [X]()
 * [Hort]()=`Yes` for hortative *ka*
-* [InfStruct]()=`Foc` for focus particles and *ni*
+* [InfStruct]()=`Foc` for focus particles and the copula *ni*
 * [NumForm]() and [NumType]() for [NUM]()
 * [Polarity]() for negation (*ti*, *ndoo*, *ti-*)
 * [Red]()=`Yes` for reduplication
 
 * Not used: [Animacy](), [Case](), [Clusivity](), [Definite](), [Degree](), [Evident](), [Gender](), [Polite](), [Reflex](), [Typo]()
 
-
 ## Syntax
 
 ### Core Arguments and Adjuncts
 
 * Subjects ([nsubj]()):
-  * trigger agreement
-  * typically do not take adpositions
+  * trigger agreement on the verb, realized as the subject prefix
+  * do not take adpositions
   * typically clause-initial
+  * correspond to semantic roles typical for subjects, such as the agent, the experiencer, the attitude holder
 
 * Direct objects ([obj](), [obj:appl](), [obj:caus]()):
-  * may trigger agreement
-  * typically do not take adpositions
-  * follow the verb
+  * may trigger agreement on the verb, realized as the object prefix
+  * do not take adpositions
+  * often follow the verb and in most cases follow the subject
+  * correspond to semantic roles typical for objects, such as the patient or the theme
 
 * Indirect objects ([iobj](), [iobj:appl]()):
-  * may trigger agreement
-  * typically do not take adpositions
-  * follow the verb
+  * may trigger agreement on the verb, realized as the object prefix
+  * do not take adpositions
+  * typically follow the verb
+  * the common semantic roles are the beneficiary or the recipient
 
 * Adjuncts ([obl]()):
   * typically adpositional phrases
+  * sometimes realized with adverbs modifying the predicate
+  * common semantic roles are the source, the goal, and the instrument
 
 * Locative enclitics attach via [advmod:loc]().
 
-### Non-verbal Clauses
+### Non-verbal Predication
 
 * Ruuli uses:
   * zero copula
@@ -139,23 +154,25 @@ udver: '2'
   * semi-copular verb *bba* (tagged [VERB]())
 
 * Clauses of proper inclusion, equation, and attribution may use copulas *li*, *ta*, *ni*, or zero copula (the latter only in the present tense with a non-pronominal subject).
-  * *Omukali musomesya.* "The woman is a teacher."
-  * *Omukali ali/ati/niye musomesya.* "The woman is a teacher."
+  * *Omukali musomesya.* "The woman is a teacher." (no copula)
+  * *Omukali a<b>li</b>/a<b>ta</b>/<b>ni</b>ye musomesya.* "The woman is a teacher."
 
 * Locative and possessive predication may use copulas *li*, *ta*, *ni* or the semi-copular verb *bba*.
-  * *Omukali ali/ati/niye mu Kampala.* "The woman is in Kampala."
-  * *Omukali abba mu Kampala.* "The woman stays in Kampala."
+  * *Omukalia a<b>li</b>/a<b>ta</b>/<b>ni</b>ye mu Kampala.* "The woman is in Kampala."
+  * *Omukali a<b>bba</b> mu Kampala.* "The woman stays in Kampala."
 
-* <!--TODO @Anna: Benefaction: "the book is for her" -->
+* Benefaction clauses do not use a copula in the present tense and take copula *li* in past and future clauses.
+  * *Eitakali lya Banyala.* "This land is for Banyala." (no copula)
+  * *Eitakali lyaa<b>li</b> lya Banyala.* "This land was for Banyala."
 
 * Existential predication is expressed by a construction with the copula *li* and a locative enclitic.
-  * *Waliwo omuzumu.* "There is a devil."
+  * *Wa<b>li</b>wo omuzumu.* "There is a devil."
 
 * In negative non-verbal clauses:
   * Negative prefix *ti-* is added.
-    * *Omukali tali musomesya.* "The woman is not a teacher."
+    * *Omukali <b>t</b>ali musomesya.* "The woman is not a teacher." (in *tali*, the /i/ of *ti* undergoes vowel elision)
   * *ti* can be used in present-tense clauses of proper inclusion, equation, and attribution with non-pronominal subjects.
-    * *Omukali ti musomesya.* "The woman is not a teacher."
+    * *Omukali <b>ti</b> musomesya.* "The woman is not a teacher."
   * *ndoo* can be used in existential negation.
     * *Ndoowo mugaso.* "There is no importance."
 
@@ -189,10 +206,8 @@ udver: '2'
 
 * Not used: [clf](), [compound](), [dep](), [expl](), [goeswith](), [list](), [orphan]()
 
-
 ## Treebanks
 
 There is one Ruuli UD treebanks:
 
   * [Ruuli-RDT](../treebanks/ruc_rdt/index.html)
-
