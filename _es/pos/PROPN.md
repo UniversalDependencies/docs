@@ -33,7 +33,7 @@ to formulate rules when we classify a word as `PROPN` by itself.
 
 * Single-word names of cities, countries, mountains, rivers and other geographical features are `PROPN` regardless
   whether they are Spanish or foreign and whether they look like a Spanish common noun or adjective (_<b>Madrid</b>,
-  <b>India</b>, <b>Huascarán</b>, <b>Cuenca</b>).
+  <b>India</b>, <b>Huascarán</b>, <b>Cuenca</b>_).
 * Spanish function words keep their original UPOS just like in personal names; for foreign function words it depends
   on the overall approach to foreign material. So, in _Los Ángeles_, the first word is [DET]() (the name is Spanish,
   although the city now belongs to USA and is spelled without the accent in English); on the other hand, _de_ in
@@ -43,21 +43,21 @@ to formulate rules when we classify a word as `PROPN` by itself.
   name is not `PROPN`. For example, in _Pico de <b>Teide</b>_, the UPOS tags are `NOUN` for _Pico_, `ADP` for _de_,
   and `PROPN` for _Teide_. Spanish adjectives keep the `ADJ` tag (as _Negro_ in _Río Negro_). On the other hand,
   similar words in foreign names will typically end up as `PROPN` in Spanish, especially if their meaning is not
-  obvious to average Spanish speaker (for example, in _río <b>Sông Hương</b>_, the word <b>Sông</b> is actually
+  obvious to average Spanish speaker (for example, in _río <b>Sông Hương</b>_, the word _Sông_ is actually
   Vietnamese for “river”, but it is probably perceived just as a foreign name by most Spanish speakers).
 
 #### Organizations, products, book/movie/song titles etc.
 
 * Common Spanish words used as or in names of organizations and products keep their original (non-`PROPN`) UPOS tag.
   Treatment of non-Spanish words depends on the overall approach to foreign material in the corpus.
-* Words created to name an organization or product are `PROPN` (e.g., _<b>Samsung</b>).
+* Words created to name an organization or product are `PROPN` (e.g., _<b>Samsung</b>_).
 * Multiword organization names may contain names of people or locations, then the above rules apply to such parts.
 
 #### Abbreviations
 
 * An abbreviation of a multiword name becomes `PROPN` (assuming it is a single token) even if the individual words
   would not be `PROPN` when the name is spelled out. For example, _<b>ONU</b>_ is `PROPN` but _Organización de las
-  Naciones Unidas_ is `NOUN ADP DET NOUN ADJ`.
+  Naciones Unidas_ “United Nations” is `NOUN ADP DET NOUN ADJ`.
 
 
 ### Examples
