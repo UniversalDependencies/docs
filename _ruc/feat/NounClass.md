@@ -1,8 +1,8 @@
 ---
 layout: feature
-title: "NounClass"
-shortdef: "noun class"
-udver: "2"
+title: 'NounClass'
+shortdef: 'noun class'
+udver: '2'
 ---
 
 Ruuli has a system of 21 noun classes, including 17 non-locative classes and 4 locative classes. (The Proto-Bantu noun classes 19 and 21 are not attested.)
