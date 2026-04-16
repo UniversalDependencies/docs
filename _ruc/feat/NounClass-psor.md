@@ -172,6 +172,8 @@ The possessor marker of noun class 13 is _two_.
 This class is used to form diminutive uncountable nouns. 
 There is no corresponding plural class.
 
+#### Examples
+
 * _mugaso gwa-<b>two</b>_<br>
   NC3.importance NC3.PSED-**NC13.PSOR**<br>
   "**its** importance" (e.g. of some sleep; _tulo_ 'some sleep (NC13)')
