@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Abbr'
+title: 'Abbreviation'
 shortdef: 'abbreviation'
 udver: '2'
 ---
