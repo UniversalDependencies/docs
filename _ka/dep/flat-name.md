@@ -8,8 +8,8 @@ udver: '2'
 The `flat:name` relation is a specialization of `flat` used for names.
 
 ~~~ sdparse
-გრიგოლ გრიგოლ თანამედროვე ქართული მწერლობის თვალსაჩინო წარმომადგენელია. \n 'Grigol Abashidze is a prominent representative of modern Georgian writing.'
-flat:name(გრიგოლ, გრიგოლ)
+გრიგოლ აბაშიძე თანამედროვე ქართული მწერლობის თვალსაჩინო წარმომადგენელია. \n 'Grigol Abashidze is a prominent representative of modern Georgian writing.'
+flat:name(გრიგოლ, აბაშიძე)
 ~~~
 
 Names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the <code>flat:name</code> label. 
