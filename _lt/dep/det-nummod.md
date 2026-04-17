@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 Pronouns that agree with nouns and can be replaced by numerals (keli, keleri, abu) are
-morphologically tagged as `det`, and their relation is labeled `det:nummod`:
+morphologically tagged as [DET](), and their relation is labeled `det:nummod`:
 
 ~~~ sdparse
 Aš turiu kelis obuolius . \n I have a-few apples .
