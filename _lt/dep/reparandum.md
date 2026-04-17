@@ -26,8 +26,8 @@ reparandum(building, build-)
 3. the speaker repeats the same word several times, e.g.,
 
 ~~~ sdparse
-Aš kalbėjau ir1 ir2 ir3 mane pertraukė. \n I was-speaking and1 and2 and3 I was-interrupted.
-reparandum(ir 3 , ir1, ir2 )
+Aš kalbėjau ir 1 ir 2 ir 3 mane pertraukė. \n I was-speaking and 1 and 2 and 3 I was-interrupted.
+reparandum(ir 3 , ir 1 ir 2 )
 reparandum(and 3 , and 1 and 2 )
 ~~~
 
