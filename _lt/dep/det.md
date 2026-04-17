@@ -22,7 +22,7 @@ amod(kokybė, Aukšta)
 amod(quality, High)
 ~~~
 
-Relative pronouns (kuris, kuri) are morphologically tagged as [DET](), but in a subordinate
+Relative pronouns (_kuris, kuri, ”whitch” / “that”_) are morphologically tagged as [DET](), but in a subordinate
 clause the relation is labeled [nsubj](), [obj](), [iobj](), [obl](), or [obl:arg](), depending on how the noun
 replacing these pronouns would be annotated (3). In interrogative sentences, however, their
 relation is labeled det, because an interrogative pronoun, when used together with a noun,
