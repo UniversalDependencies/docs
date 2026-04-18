@@ -68,9 +68,6 @@ For Universal Dependency (UD) treebanks, lemmatization practices typically refle
   * There are two types of nonfinite forms: participles and masdars.
 
 ---
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 * The UD_Old_Georgian_GLC treebank use sall main DEPREL tags except of [expl](https://universaldependencies.org/u/dep/expl.html), [dislocated](https://universaldependencies.org/u/dep/dislocated.html), [clf](https://universaldependencies.org/u/dep/clf.html) and [reparandum](https://universaldependencies.org/u/dep/reparandum.html). The Old Georgian language has a flexible word order, which sometimes prefer to follow Subject-Indirect Object-Object-Verb patterns.
