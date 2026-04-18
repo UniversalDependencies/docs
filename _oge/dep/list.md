@@ -8,7 +8,7 @@ udver: '2'
 `list` is used for list items. <code>list</code> covers bullet points, numbered lists and similar cases. E.g.
 
 ~~~ sdparse
-თავის მოწაფეთაგან გამოარჩია სამი: პეტრე, იაკობი და იოანე. /n 'From his disciples he chose three: Peter, James, and John.' 
+თავის მოწაფეთაგან გამოარჩია სამი: პეტრე, იაკობი და იოანე. /n 'From his disciples he chose three: Peter, James and John.' 
 list(სამი, პეტრე)
 list(სამი, იაკობი)
 list(სამი, იოანე)
