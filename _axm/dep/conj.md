@@ -17,34 +17,33 @@ conj(garlic, flower)
 ~~~
 
 ~~~ sdparse
-Եւ զդստերսն իրաւունք է ՝ որ ի նահապետութեան տուն կարգեն , որ է թագաւոր կամ բրինձ կամ մարգիզ կամ այսպիսիքն ։ \n Ew zdstersn irawownk’ ē՝ or i nahapetowt’ean town kargen, or ē t’agawor kam brinj kam margiz kam ayspisik’n . \n ARegarding the daughters , the law requires that they be married into noble families , such as those of a King , or a Prince , or a Marquis , or those of similar rank .
-obj(ունենք, խնձոր)
-obj(have, apples)
-conj(խնձոր, տանձ)
-conj(խնձոր, նարինջ)
-conj(խնձոր, բանան)
-conj(apples, pears)
-conj(apples, oranges)
-conj(apples, bananas)
-cc(բանան, և)
-cc(bananas, and)
-punct(տանձ, ,-4)
-punct(նարինջ, ,-6)
-punct(pears, ,-15)
-punct(oranges, ,-17)
+Եւ զդստերսն իրաւունք է ՝ որ ի նահապետութեան տուն կարգեն , որ է թագաւոր կամ բրինձ կամ մարգիզ կամ այսպիսիքն ։ \n Ew zdstersn irawownk’ ē՝ or i nahapetowt’ean town kargen, or ē t’agawor kam brinj kam margiz kam ayspisik’n . \n ARegarding the daughters , the law requires that they be married into noble families , such as those of a King , or a Prince , or a Marquis , or those-of-similar-rank .
+conj(թագաւոր, բրինձ)
+cc(բրինձ, կամ)
+conj(թագաւոր, մարգիզ)
+cc(մարգիզ, կամ)
+conj(թագաւոր, այսպիսիքն)
+cc(այսպիսիքն, կամ)
+conj(King, Prince)
+cc(Prince, or)
+conj(King, Marquis)
+cc(Marquis, or)
+conj(King, those-of-similar-rank)
+cc(those-of-similar-rank, or)
 ~~~
 
 Coordinate clauses are treated the same way as coordination of other constituent types:
 
 ~~~ sdparse
-Նա տուն եկավ , ցնցուղ ընդունեց և անմիջապես գնաց քնելու ։ \n He came home , showered himself and immediately went to-bed .
-conj(եկավ, ընդունեց)
-conj(եկավ, գնաց)
-conj(came, showered)
-conj(came, went)
-punct(ընդունեց, ,-4)
-punct(showered, ,-16)
-cc(գնաց, և)
+Եվ ինքն․․․ հինգ կամ վեց  ճուղ կունենայ , եւ յերկայնութիւնն մէկ թիզ կու լինի եւ ի ցաներուն ի փոս  տեղրանք կու բուսնի , եւ տերեւին համն գղթորի համ կու նմանի ։ \n Ev ink’n․․․ hing kam vec’  č̣owġ kownenay , ew yerkaynowt’iwnn mēk t’iz kow lini ew i c’anerown i p’os  teġrank’ kow bowsni , ew terewin hamn gġt’ori ham kow nmani \n He came home , showered himself and immediately went to-bed . \n And it possesses five or six shoots; it reaches one span in length and grows in pitted, sparse areas; the flavor of its leaf is similar to that of garlic
+conj(կունենայ, լինի)
+conj(կունենայ, բուսնի)
+conj(կունենայ, նմանի)
+punct(լինի, ,-1)
+punct(նմանի, ,-2)
+cc(լինի, եւ-1)
+cc(նմանի, եւ-2)
+
 cc(went, and)
 ~~~
 
