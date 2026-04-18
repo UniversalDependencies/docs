@@ -14,5 +14,15 @@ list(სამი, იაკობი)
 list(სამი, იოანე)
 ~~~
 
+In Old Georgian, numbers could be expressed with letters. So a list introduced by such a numeral can still take list dependents. E.g. 
+~~~ sdparse
+იე კერძო-დიაკონი უდარეს ოცთა წელიწადთაჲსა... '15. A private deacon younger than twenty years...'
+ივ ვინაჲთგან წიგნნი საქმეთანი... '16. Since the books of the Acts...'
+იზ ვინაჲთგან მრავალთა ეკლესიათა... (დიდი სჯულის კანონი) '17. Since of many churches...'
+list(იე, კერძო-დიაკონი)
+list(ივ, წიგნნი)
+list(იზ, ეკლესიათა)
+~~~
+
 However it does **not** cover list items constructed with coordinating conjunctions and punctuation: those cases are covered by the dependency relations [cc](_oge/dep/cc) and [conj](_oge/dep/conj). 
 <!-- Interlanguage links updated So 10. května 2025, 18:15:38 CEST -->
