@@ -512,6 +512,8 @@ There is the fundamental issue that `acl` must depend on a nominal. I would pref
 
 Spanish: _con la misma soltura con la que es capaz de recitar..._
 <!-- se stejnou lehkostí, s jakou je schopen recitovat... -->
+_por lo que su crono le dejó indiferente_
+_en un momento en el que dicho comité está siendo presionado_
 
 
 
