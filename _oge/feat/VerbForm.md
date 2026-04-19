@@ -17,4 +17,10 @@ udver: '2'
 
 * _წერა_ 'writing', _ხატვა_ 'drawing' etc.
 
+### <a name="Fin">`Fin`</a>: finite verb
+
+#### Examples
+
+* _დაევიწყნენ_ 'they got forgotten', _აქუნდეს_ 'that he/she/it may have' etc.
+
 <!-- Interlanguage links updated So 10. května 2025, 18:14:40 CEST -->
