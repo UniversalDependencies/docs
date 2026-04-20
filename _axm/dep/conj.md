@@ -35,34 +35,24 @@ cc(those-of-similar-rank, or)
 Coordinate clauses are treated the same way as coordination of other constituent types:
 
 ~~~ sdparse
-Եվ ինքն․․․ հինգ կամ վեց  ճուղ կունենայ , եւ յերկայնութիւնն մէկ թիզ կու լինի եւ ի ցաներուն ի փոս  տեղրանք կու բուսնի , եւ տերեւին համն գղթորի համ կու նմանի ։ \n Ev ink’n․․․ hing kam vec’  č̣owġ kownenay , ew yerkaynowt’iwnn mēk t’iz kow lini ew i c’anerown i p’os  teġrank’ kow bowsni , ew terewin hamn gġt’ori ham kow nmani \n He came home , showered himself and immediately went to-bed . \n And it possesses five or six shoots; it reaches one span in length and grows in pitted, sparse areas; the flavor of its leaf is similar to that of garlic
+ինքն․․․ հինգ կամ վեց ճուղ կունենայ , եւ յերկայնութիւնն մէկ թիզ կու լինի եւ ի ցաներուն ի փոս տեղրանք կու բուսնի , եւ տերեւին համն գղթորի համ կու նմանի ։ \n ink’n․․․ hing kam vec’ č̣owġ kownenay , ew yerkaynowt’iwnn mēk t’iz kow lini ew i c’anerown i p’os teġrank’ kow bowsni , ew terewin hamn gġt’ori ham kow nmani \n it possesses five or six shoots, and reaches one span in length and grows in pitted or sparse areas, and the flavor of its leaf is similar to that of garlic .
 conj(կունենայ, լինի)
 conj(կունենայ, բուսնի)
 conj(կունենայ, նմանի)
 punct(լինի, ,-1)
 punct(նմանի, ,-2)
 cc(լինի, եւ-1)
-cc(նմանի, եւ-2)
-
-cc(went, and)
-~~~
-
-Coordination may be _asyndetic,_ which means that the coordinating conjunction is omitted.
-Commas or other punctuation symbols will delimit the conjuncts in the typical case.
-
-~~~ sdparse
-Եկա , տեսա , հաղթեցի ։ \n Veni , vidi , vici .
-conj(Եկա, տեսա)
-conj(Եկա, հաղթեցի)
-punct(տեսա, ,-2)
-punct(հաղթեցի, ,-4)
-conj(Veni, vidi)
-conj(Veni, vici)
-punct(vidi, ,-9)
-punct(vici, ,-11)
+cc(բուսնի, եւ-2)
+cc(նմանի, եւ-3)
+conj(possesses, reaches)
+conj(possesses, grows)
+conj(possesses, similar)
+punct(reaches, ,-1)
+punct(similar, ,-2)
+cc(reaches, and-1)
+cc(grows, and-2)
+cc(similar, and-3)
 ~~~
 
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
-Note that the present conversion procedure loses some annotations of shared modifiers and nested
-coordination.
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:35 CET -->
