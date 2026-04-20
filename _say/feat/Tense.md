@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Fut">Fut</a></td>
   <td><a href="#Imm">Imm</a></td>
   <td><a href="#Rec">Rec</a></td>
-  <td><a href="#Rem">Rem</a></td>
+  <td><a href="#Remt">Remt</a></td>
 </tr>
 </table>
 
@@ -31,7 +31,7 @@ Zaar: The immediate past tense denotes a process that took place the same day as
 
 #### Examples
 
-* _kə yél yáːwón ɗan <b>mìyǎː</b> fúː =tə̀  ɗan <b>míyàː</b> ŋáːs =tə ɣáyíː <b>kíː</b> yèl láː áyǎː fi wuriː ?//_ "You see today as <b>we told</b> him, as <b>I teased</b> him, <b>did you</b> see what <b>he did</b>?"
+* _kə yél yáːwón ɗan <b>mìyǎː</b> fúː =tə̀  ɗan <b>míyàː</b> ŋáːs =tə ɣáyíː <b>kíː</b> yèl láː áyǎː fi wuriː ?//_ "You see today as <b>we told</b> him, as <b>I teased</b> him, <b>did you</b> see what he did</b>?"
 
 
 ### <a name="Rec">`Rec`</a>: recent past
@@ -42,7 +42,7 @@ Zaar: The recent past tense denotes a process that took place the day before the
 
 * _tòː yâːn <b>mənáːyáː</b> wu tu &//_ “Well that's why yesterday I said…”
 
-### <a name="Rem">`Rem`</a>: remote past
+### <a name="Remt">`Remt`</a>: remote past
 
 Zaar: The immediate past tense denotes a process that took place two days or more before the speech time locus. The inflection follows the pattern "pronoun + _ta_"
 
