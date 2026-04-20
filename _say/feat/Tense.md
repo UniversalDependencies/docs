@@ -9,44 +9,46 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Fut">Fut</a></td>
-  <td><a href="#Imm">Imm</a></td>
-  <td><a href="#Rec">Rec</a></td>
-  <td><a href="#Remt">Remt</a></td>
+  <td><a href="#Past">Past</a></td>
+  <td><a href="#Pres">Pres</a></td>
 </tr>
 </table>
 
 In Zaar, the tense features are expressed together with aspect, mood, person and number features in a word functioning as a preverbal clitic tagged as an AUX. Zaar has one fure tense and three past tenses, denoted Imm (immediate past), Rec (recent past), and Rem (remote past). 
 
 
-### <a name="Fut">`Fut`</a>: Future
+### <a name="Fut">`Fut`</a>: Future tense
 
 #### Examples
 
 * _dzàŋ làːdì <b>má</b> ɬǐː Kində báː ?//_ "On Tuesday, <b>we'll</b> go to Kində no?"
 
 
-### <a name="Imm">`Imm`</a>: immediate past
+### <a name="Past">`Past`</a>: Past tense
 
-Zaar: The immediate past tense denotes a process that took place the same day as the speech time locus. The inflection follows the pattern "pronoun + _yi_"
+In Zaar, the universal feature "past tense" subsumes three different past tenses. These are specified by "PastType" features: 
+* <b>Imm</b> Immediate: denotes a process that took place earlier on the same day as the speech time locus. The inflection follows the pattern "pronoun + _yi_"
+* <b>Rec</b> Recent: denotes a process that took place the day before the speech time locus. The inflection follows the pattern "pronoun + _náː_"
+* <b>Remt</b> Remote: denotes a process that took place two days or more before the speech time locus. The inflection follows the pattern "pronoun + _ta_"
 
-#### Examples
-
-* _kə yél yáːwón ɗan <b>mìyǎː</b> fúː =tə̀  ɗan <b>míyàː</b> ŋáːs =tə ɣáyíː <b>kíː</b> yèl láː áyǎː fi wuriː ?//_ "You see today as <b>we told</b> him, as <b>I teased</b> him, <b>did you</b> see what he did</b>?"
-
-
-### <a name="Rec">`Rec`</a>: recent past
-
-Zaar: The recent past tense denotes a process that took place the day before the speech time locus. The inflection follows the pattern "pronoun + _náː_"
 
 #### Examples
 
-* _tòː yâːn <b>mənáːyáː</b> wu tu &//_ “Well that's why yesterday I said…”
+* _máː <b>yí</b> wum éy ɗa áy yǎː wulíː_ "(this morning) I heard him saying it" (Immediate Past)
 
-### <a name="Remt">`Remt`</a>: remote past
+* _tòː yâːn <b>mənáːyáː</b> wu tu &//_ “Well that's why (yesterday) I said…” (Recent Past)
 
-Zaar: The immediate past tense denotes a process that took place two days or more before the speech time locus. The inflection follows the pattern "pronoun + _ta_"
+* _káy káː yel ɗan <b>mətá</b> ɬə á Kullây kwǎː <b>mətá</b> ɲol teː Zwàl //_ "Well you see as I went to see Kulla, see, I followed Zwal way. (Remote Past)
+
+
+### <a name="Pres">`Pres`</a>: Present tense
+
+The universal feature "present" corresponds to non-past events, usually tagged as "Aorist" in grammars. This TAM is morphologically unmarked (lemma = ø). It is used where TAM values are backgrounded, and in narration where they are contextually recoverable. 
 
 #### Examples
 
-* _káy káː yel ɗan <b>mətá</b> ɬə á Kullây kwǎː <b>mətá</b> ɲol teː Zwàl //_ "Well you see as <b>I went</b> to see Kulla, see, <b>I followed</b> Zwal way.
+* _kóː <b>kə</b> yé wuriː ?//_  "Or how do you see it?"
+
+* _myáː mandá <b>mə</b> tawséy =tə mə́n sòːséy //_  "I began to pity him really."
+
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:51 CET -->
