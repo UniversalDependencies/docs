@@ -5,24 +5,23 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A copula is the relation between the nominal predicate _(ստորոգելի)_ and
-the copular verb _<b>եմ</b>,_ “to be”. The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors (_վերադրառու բայեր, ստորոգելիական վերադիր_),
+A copula is the relation between the nominal predicate and the copular verb _<b>եմ</b>/_em_,_ “to be”. The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors (_վերադրառու բայեր, ստորոգելիական վերադիր_),
 are not analyzed as `cop`.
 
 We normally take a copula as a dependent of its complement (the nominal predicate).
 The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjective](ADJ), an [adverb](ADV),
-or an <a href="../feat/VerbForm.html#inf-infinitive">infinitive</a>.
+or a [numeral](NUM).
 
 ~~~ sdparse
-Արամը ազնիվ մարդ է ։ \n Aram is honest man .
-cop(մարդ, է)
-cop(man, is)
+Քո շունչդ է խնկան փոշի \n 
+cop(փոշի, է)
+cop(dust, is)
 ~~~
 
 ~~~ sdparse
-Արամը ազնիվ է ։ \n Aram is honest .
-cop(ազնիվ, է)
-cop(honest, is)
+ես պզտիկ էի \n I was little
+cop(պզտիկ, էի)
+cop(little, was)
 ~~~
 
 ~~~ sdparse
@@ -32,9 +31,9 @@ cop(late, It-was)
 ~~~
 
 ~~~ sdparse
-Մեղավորը ես եմ ։ \n I am the-sinner .
-cop(ես, եմ)
-cop(I, am)
+նեղերն այս են \n Its signs are these
+cop(այս, են)
+cop(these, are)
 ~~~
 
 If the copula is accompanied by other verbal auxiliaries for tense, aspect, etc., then they are also given a flat structure, and taken as dependents of the lexical predicate:
