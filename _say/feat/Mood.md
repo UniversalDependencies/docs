@@ -28,7 +28,7 @@ udver: '2'
 
 #### Examples
 
-̀* _kóː <b>mìyì</b> tú wurɓa hŋ́ máː, má ngêláŋ éy !_  "even if we don't get money, we'll go shopping!"
+* _kóː <b>mìyì</b> tú wurɓa hŋ́ máː, má ngêláŋ éy !_  "even if we don't get money, we'll go shopping!"
 
 * _bàː ʧík hŋ́ <b>dàː</b>, mìː və̀rtə̀_  "if it hadn't been like that, we would have given [it] to him"
 
