@@ -12,10 +12,6 @@ See [nsubj:pass](), [csubj:pass]() and [nsubj:caus]() for when the subject is no
 The governor of the `nsubj` relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun (including a noun marked by a preposition).
 
-~~~
-երկու ձեռսն կտրվի
-~~~
-
 ~~~ sdparse
 « Անուշ » օպերան գրել է Արմեն Տիգրանյանը ։ \n Anoush opera wrote Armen Tigranyan .
 nsubj(գրել, Արմեն)
