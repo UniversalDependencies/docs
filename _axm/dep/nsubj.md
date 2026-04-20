@@ -5,12 +5,11 @@ shortdef: 'nominal subject'
 udver: '2'
 ---
 
-A nominal subject is a nominal phrase which is the syntactic subject of a clause;
-in Armenian, the phrase is in the nominative [Case]().
+A nominal subject is a nominal phrase which is the syntactic subject of a clause; in Middle Armenian, the phrase is generally in the nominative [Case](). 
+However, there are notable instances of subjects appearing in oblique cases. With the emergence of the passive suffix -v- (Voice=Pass) in Middle Armenian, which allows for the differentiation between active and passive forms of the verb, the use of the genitive (Case=Gen) for subjects disappears. Nevertheless, occasional examples of subjects in the accusative can still be found.
 (See [csubj]() for when the subject is clausal.
 See [nsubj:pass](), [csubj:pass]() and [nsubj:caus]() for when the subject is not the proto-agent argument due to valence changing operations.)
-The governor of the `nsubj` relation might not always be a verb: when
-the verb is a copular verb, the root of the clause is the complement
+The governor of the `nsubj` relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun (including a noun marked by a preposition).
 
 ~~~ sdparse
