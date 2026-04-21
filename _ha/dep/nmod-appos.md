@@ -7,8 +7,6 @@ udver: '2'
 
 The `nmod:appos` relation is used for appositions which modify nominal elements. 
 
-#### Examples
-
 * _bàlaː'ìn Tafkìn Nyos_ "the disater of Lake Nyos"
 obj:lvc(Nyos,Tafkìn)
 
