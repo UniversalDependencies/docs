@@ -18,7 +18,13 @@ combining perfective prefix -و _wë́-_ (otherwise attached to affirmative form
 and negative particle _në́_ (written separately).
 
 #### Examples
-* دا کتاب بۀ **ونۀ** لیکم _dâ kitấb bë **wënë́** likëm_ “I will not write this book”
+lll* دا کتاب بۀ **ونۀ** لیکم _dâ kitấb bë **wënë́** likëm_ “I will not write this book”
+~~~ sdparse
+دا کتاب بۀ ونۀ لیکم \n dâ kitấb bë wënë́ likëm \n this book will not-have I-written
+aux(لیکم, ونۀ)
+aux(likëm, wënë́)
+aux(I-written, not-have)
+~~~
 
 ### `aux` subtypes
 This dependency relation is used mostly with subtypes.

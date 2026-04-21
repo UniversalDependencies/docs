@@ -88,7 +88,7 @@ udver: '2'
 
 ### Relations Overview
 
-* Following are the links to lithuanian relation documentation: [amod](), [appos](), [cc](), [compound](), [cop](), [csubj](), [flat](), [iobj](), [list](), [nmod](), [nsubj](), [nummod](), [obl](), [obj](), [punct](), [root](), [vocative](), [aux](), [parataxis](), [discourse](), [case](), [dep](), [det](), [dislocated](), [orphan]()
+* Following are the links to lithuanian relation documentation: [acl](), [acl:relcl](), [advmod](), [advmod:emph](), [amod](), [appos](), [aux](), [case](), [cc](), [compound](), [conj](), [cop](), [csubj](), [dep](), [det](), [det:nummod](), [discourse](), [dislocated](), [flat](), [iobj](), [list](), [mark](), [nmod](), [nsubj](), [nummod](), [obj](), [obl](), [orphan](), [parataxis](), [punct](), [reparandum](), [root](), [vocative]()
 
 * The following relation subtypes are used in Lithuanian:
   * [nsubj:pass]() for nominal subjects of passive verbs

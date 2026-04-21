@@ -11,6 +11,8 @@ It marks whether a situation is viewed as a whole (perfective) or viewed as occu
 with further subdivisions marking a recurrent situation (habitual), a situation in progress (progressive), 
 or marking discursive emphasis on a situation obtaining (persistive).  
 
+Ruuli also allows an additional aspect feature, annotated as [Aspect[add]](), used in progressive with habitual combinations, where the progressive is primary and the habitual is marked as `Aspect[add]=Hab`.
+
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
 Habitual aspect is realized with the suffix _-nga_.
@@ -32,7 +34,7 @@ It describes situations that are viewed as a whole.
 ### <a name="Pers">`Pers`</a>: persistive aspect
 
 Persistive aspect is realized with the prefix _kya-_; it is used to emphasize that a situation obtains at the reference time. 
-Functionally, this corresponds to the concepts of phasal polarity, such as 'still', 'no longer', and 'not yet'.
+Functionally, this corresponds to the concepts of phrasal polarity, such as 'still', 'no longer', and 'not yet'.
 
 #### Examples
 
@@ -45,7 +47,7 @@ Functionally, this corresponds to the concepts of phasal polarity, such as 'stil
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-Progressive aspect is realized with the prefix _ku-_; it shows that the described stituation is in progress at the reference time. 
+Progressive aspect is realized with the prefix _ku-_; it shows that the described situation is in progress at the reference time. 
 The Ruuli progressive is compatible with dynamic, stative, and punctual verbs. 
 
 #### Examples

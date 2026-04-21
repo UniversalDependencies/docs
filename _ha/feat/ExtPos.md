@@ -9,14 +9,10 @@ This feature indicates, for the head of a [fixed expression](https://universalde
 the effective UPOS of the full expression when it differs from the UPOS of the word itself.
 Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 
+It is also used to account for polyfunctionality, such as basic ADP functioning as ADV, SCONJ or CCONJ.
+
 `ExtPos` is used in the [SUD](https://surfacesyntacticud.org/) framework.
 It is kept in FEATS in the UD conversion.
-
-### <a name="ADJ">`ADJ`</a>: adjective-like expression
-
-#### Examples
-
-* _wai <b>hìyayyem</b> mutàːneː //_ "Well, most of the people."
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
@@ -30,11 +26,11 @@ It is kept in FEATS in the UD conversion.
 
 * _<b>sai dà</b> akà ƙaːràƙè aikìn nan dà dàddareː //_ "sai dà akà ƙaːràƙè aikìn nan dà dàddareː //"
 
-### <a name="INTJ">`INTJ`</a>: interjection-like expression
+### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
-* _kâi < <b>Allàː hù âkabar̃</b> < Allàː ji kân wandà sukà rigaː mù //_ "My, God almighty, May God have pity on those who have departed."
+* _àkwai su Àdàːmu, <b>sai</b> Mustàfa //_ "there is Adamu, <b>and then</b> Mustafa"
 
 ### <a name="NOUN">`NOUN`</a>: noun-like expression
 

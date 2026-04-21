@@ -19,21 +19,9 @@ acl(քաղաքը, կոչվում)
 acl(the-city, called)
 ~~~
 
-This relation is also used for optional depictives.
-The adjective is taken to modify the nominal of which it provides a secondary predication.
+This relation is no longer used for optional depictives: [advcl]() should be used instead.
 See [xcomp]() for further discussion.
 
-~~~ sdparse
-Նա մոլոր մտավ սենյակ : \n He entered the room errant .
-acl(Նա, մոլոր)
-acl(He, errant)
-~~~
-
-~~~ sdparse
-Գունատ նկարեց կնոջը ։ \n He-painted his-wife pale .
-acl(կնոջը, Գունատ)
-acl(his-wife, pale)
-~~~
 
 Armenian also allows finite clausal complements for nouns with 
 a subset of pronouns like *այն* or *նրանում*.
