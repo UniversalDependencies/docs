@@ -25,7 +25,7 @@ cop(little, was)
 ~~~
 
 ~~~ sdparse
-նեղերն այս են \n Its signs are these
+նեղերն այս են \n neġern ays en \n Its symptoms are these
 cop(այս, են)
 cop(these, are)
 ~~~
