@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'nmod:appos'
-shortdef: 'object of a light verb'
+shortdef: 'modifying apposition'
 udver: '2'
 ---
 
