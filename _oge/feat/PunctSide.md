@@ -15,13 +15,13 @@ udver: '2'
 
 The `PunctType` feature applies to [punctuation](_oge/pos/PUNCT).
 
-### <a name="Ini">`Ini`</a>: dot
+### <a name="Ini">`Ini`</a>: opening quotation mark
 
 #### Examples
 
 * „ ვითარმედ „განკრძალულ ჰყოფდით ძეთა ისრაელისათა“ 'Because „you kept the children of Israel apart“'
 
-### <a name="Fin">`Fin`</a>: comma
+### <a name="Fin">`Fin`</a>: closing quotation mark
 
 #### Examples
 
