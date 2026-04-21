@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'iobj:patient'
+title: 'iobj:instrument'
 shortdef: 'patient object of a non-actor/patient-voice verb'
 udver: '2'
 ---
@@ -14,11 +14,11 @@ a solid linguistic argument for which is more direct or indirect, and in the abs
 this we use a hierarchy of _agent > patient > instrument_.
 
 ~~~ sdparse
-Bulonggo pilo-tubu li Dewi uponula \n pan IV-cook NPIV.FEM Dewi fish
-iobj:patient(pilo-tubu, uponula)
-iobj:patient(IV-cook, fish)
+Uponula tilubu li Dewi lo bulonggo \n fish <PV>-cook NPIV.FEM Dewi NPIV pan
+iobj:instrument(tilubu, bulonggo)
+iobj:instrument(<PV>-cook, pan)
 ~~~
 
-"Dewi cooked the fish in the pan" (instrument voice)
+"Dewi cooked the fish in the pan" (patient voice)
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:22:01 CET -->
