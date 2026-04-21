@@ -58,5 +58,3 @@ losslessly converted to it for compatibility.
 `Gen` is used for non-pivot markers in most symmetrical voice languages in UD. We prefer `Npiv` as it is
 more directly descriptive of symmetrical voice, but we document `Gen` here so that `Npiv` may be 
 losslessly converted to it for compatibility.
-
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->

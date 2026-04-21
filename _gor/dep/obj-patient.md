@@ -19,5 +19,3 @@ obj:agent(cooked, fish)
 ~~~
 
 “Dewi is peeling the knife with a knife.”
-
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:20 CET -->

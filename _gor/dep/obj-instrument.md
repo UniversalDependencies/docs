@@ -10,5 +10,3 @@ semantic role is instrumental. Typically this will be signalled as a core argume
 non-pivot marker. This is not currently attested but is documented here in 
 anticipation.
 
-
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:15 CET -->

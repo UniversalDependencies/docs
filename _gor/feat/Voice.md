@@ -66,5 +66,3 @@ In Gorontalo, instrument voice multitasks as indicating the location of an actio
 
 The `Ifoc` label is commonly used in UD Austronesian languages for instrument voice markers.
 We do not use it in Gorontalo, preferring the __voc_ pattern that emphasises voice, but document it for compatibility purposes.
-
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->
