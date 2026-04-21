@@ -13,7 +13,7 @@ The use of the augment has been related to referential functions.
 
 ### <a name="Yes">`Yes`</a>: referential
 
-We use _Referential=Yes_ to annotate the presence of the augment.
+We use `Referent=Yes` to annotate the presence of the augment.
 
 #### Examples
 

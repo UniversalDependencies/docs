@@ -12,5 +12,3 @@ Note that in the Armenian grammatical tradition, the term _adverbial modifier_ c
 constituents that function like adverbs regardless whether they are realized
 by adverbs, adpositional phrases, or nouns in particular morphological 
 [cases](Case). We differentiate adverbials realized as adverbs (`advmod`) and adverbials realized by noun phrases or adpositional phrases ([obl]()). 
-
-~~~ sdparse

@@ -7,9 +7,9 @@ udver: '2'
 
 ## Description
 
-In Ruuli, the `dislocated` relation is used for fronted elements that introduce the topic of a clause. These elements are typically separated by a comma intonation and are often translated as "as for ...".
+In Ruuli, the `dislocated` relation is used for fronted elements that introduce the topic of a clause. These elements are typically separated by a pause and are often translated as "as for ...".
 
-The fronted element is often resumed within the clause by a pronominal element.
+The fronted element is often marked on the verb as the pronominal object prefix.
 
 ~~~ sdparse
 Ontale , yee na ni yaabire okuyiiga . \n Lion , he also when went to_hunt .

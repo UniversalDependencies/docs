@@ -5,7 +5,7 @@ shortdef: 'agentive object in causative construction'
 udver: '2'
 ---
 
-In Ruuli, valency can be increased by the causative suffix *-isy/-esy*. This morphology introduces an additional object argument corresponding to the participant that is caused or induced to perform the action.
+In Ruuli, valency can be increased by the causative suffix *-isy/-esy*. This suffix introduces an additional object argument corresponding to the participant that is caused or induced to perform the action.
 
 This argument is annotated with the `obj:caus` relation, marking it as the caused agent in the causative event.
 

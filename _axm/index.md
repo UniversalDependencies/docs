@@ -12,8 +12,7 @@ udver: '2'
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words); this holds even for
 abbreviations such as *թվ.* “year” (two tokens).
 * Numerical expressions (including dates, expressions with hyphen and Middle Armenian case endings) are treated as single words and may contain punctuation or whitespace: ... “”.
-* Words, containing “infixed” punctuation (e.g. question, exclamation, emphasis and Middle Armenian abbreviation marks), as in *ինչո՞ւ = ինչու + ՞* “why?”, are treated 
-as multi-word tokens and segmented to individual syntactic words. For more details, see [tokenization](tokenization.html).
+* Words, containing “infixed” punctuation (e.g. question, exclamation, emphasis and Middle Armenian abbreviation marks, contracted forms with an apostrophe), as in *ինչո՞ւ = ինչու + ՞* “why?”, *'ւ = ու/եւ*, *թ' = թէ* are treated as multi-word tokens and segmented to individual syntactic words. For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
@@ -23,16 +22,14 @@ This is an overview only. For more detailed discussion and examples, see the lis
 and [Middle Armenian features](feat/index.html).
 
 * Armenian uses all 17 universal POS categories, including particles ([PART]()).
-* The tag [DET]() is used for articles and pronominal words used with a determiner function (pro-adjectives), including possessives (the traditional grammar does not define determiners,
-but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional 
-grammar includes in pronouns) are [DET]() as well.
+* The tag [DET]() is used for articles and pronominal words used with a determiner function (pro-adjectives), including possessives (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
 
-* Middle Armenian has several auxiliary verbs ([AUX]()), _եմ_ (“to be”), but the lemma _լինել_ is also possible.
-  This is in fact just an aspectual variant of _եմ_, but this is a separate lemma because the morphological process that relates it to _եմ_ is considered derivational.  
-  Auxiliaries are all verbal in Middle Armenian and can be grouped into four types: ?
+* Middle Armenian has several auxiliary verbs ([AUX]()) (_եմ/em_ “to be”, _լինիմ/linim_ “be, become”, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”, _պիտի/piti_ “must/will”) amd particles that function like auxiliaries (_կու/kow_ “will”, negative auxiliaries _չի_  (_չ-_) “do(es) not” and _ոչ/oč_ “do(es) not”).
+  The auxiliary _եմ/em_ is used in the following constructions:
   * The copula with non-verbal predicates.
   * Periphrastic present tense (present form of _եմ_ + resultative participle of the main verb).
-  * Periphrastic past tense (present form of _եմ_ + perfect of the main verb; imperfect form of _եմ_ + imperfective, perfect, future-I and resultative participles of the main verb).
+  * Periphrastic past tense (present form of _եմ_ + perfect of the main verb; imperfect form of _եմ_ + imperfective, perfect, past and resultative participles of the main verb).
+  * 
   * Periphrastic future tense (present form of _եմ_ + future-I participle of the main verb).
   * Periphrastic negated conditional (negated present or imperfect form of _եմ_ + connegative form of the main verb).
   * Periphrastic “secondary compound tenses” (any form of _լինել_, including periphrastic forms, + processual, resultative and future-I participles of the main verb).
@@ -49,6 +46,8 @@ grammar includes in pronouns) are [DET]() as well.
   * Gerundive `Gdv`, tagged [VERB]() or [AUX]().
   * Verbal noun `Vnoun`, tagged [NOUN]().
 * Though the resultative, subject and future-I participles can be used adjectivally and can be negated they are generally tagged [VERB](). The only exception is future-II participles, they are tagged [ADJ]().
+
+* Periphrastic present tense (_կու_ + present subjanctive of the main verb)
 
 ### Nominal Features
 
