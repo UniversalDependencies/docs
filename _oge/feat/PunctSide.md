@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'PunctType'
-shortdef: 'punctuation type'
+title: 'PunctSide'
+shortdef: 'which side of paired punctuation is this?'
 udver: '2'
 ---
 
