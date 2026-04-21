@@ -10,7 +10,7 @@ udver: '2'
 	<td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
 	<td><a href="#Adv">Adv</a></td>
 	<td><a href="#Foc">Foc</a></td>
-	<td><a href="#Illoc">Illoc</a></td>
+	<td><a href="#Ill">Ill</a></td>
 	<td><a href="#Neg">Negc</a></td>
 	<td><a href="#Pred">Predc</a></td>
 	<td><a href="#Top">Top</a></td>
@@ -30,7 +30,7 @@ udver: '2'
  * _dèːwôs ɓét <b>kəndí_</b> "That's its only reason."
 
 
-### <a name="Illoc">`Illoc`</a>: Illocution particle
+### <a name="Ill">`Ill`</a>: Illocution particle
 
 #### Examples
  * _màː ɗutíː <b>ŋǎːn</b>_ "Didn't we kill him?"
