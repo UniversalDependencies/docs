@@ -10,7 +10,7 @@ udver: '2'
 1. the speaker makes an error and immediately self-corrects, e.g.,
 
 ~~~ sdparse
-Aš esu mačiusi tokių mokyt- dėstytojų. \n I have-seen such teach- lecturers.
+Aš esu mačiusi tokių mokyt- dėstytojų . \n I have-seen such teach- lecturers .
 reparandum(dėstytojų, mokyt-)
 reparandum(lecturers, teach-)
 ~~~
@@ -18,7 +18,7 @@ reparandum(lecturers, teach-)
 2. stuttering / unintentional repetition, e.g.,
 
 ~~~ sdparse
-Ten buvo kažkoks past- pastatas. \n There was some build- building.
+Ten buvo kažkoks past- pastatas . \n There was some build- building .
 reparandum(pastatas, past-)
 reparandum(building, build-)
 ~~~
@@ -27,7 +27,7 @@ reparandum(building, build-)
 
 ~~~ sdparse
 Aš kalbėjau ir 1 ir 2 ir 3 mane pertraukė. \n I was-speaking and 1 and 2 and 3 I was-interrupted.
-reparandum(ir 3 , ir 1 ir 2 )
+reparandum(ir 3 , ir 2 ir 2 )
 reparandum(and 3 , and 1 and 2 )
 ~~~
 
