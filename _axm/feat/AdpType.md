@@ -27,13 +27,13 @@ Middle Armenian has postpositions, some prepositions and ambipositions, but not 
 
 #### Examples
 
-* _<b>ի</b>/i_ “for the sake of”, _<b>առ</b>/aṙ_ “up to”, _<b>ըստ</b>/ëst_ “according to”, _<b>դէմ</b>/dēm_ “in front of; close to (time)”, _<b>(ի) խեչ</b>/(i) xeč_ “at, next to”, _<b>հետ</b>/het_ “after”
+* _<b>ի</b>/i_ “for the sake of”, _<b>առ</b>/aṙ_ “up to”, _<b>ըստ</b>/ëst_ “according to”, _<b>դէմ</b>/dēm_ “in front of; close to (time)”, _<b>(ի) խեչ</b>/(i) xeč_ “at, next to”, _<b>հետ</b>/het_ “with”
 
 ### <a name="Post">`Post`</a>: postposition
 
 #### Examples
 
-* _<b>համար</b>/hamar_ “for”, _<b>քով</b>/k’ov_ “at, near”, _<b>պես</b>/pes_ “as”, _<b>հետ</b>/het_ “with”, _<b>վրայ</b>/vray_ “on”,  _<b>զատ</b>/zat_ “except”
+* _<b>համար</b>/hamar_ “for”, _<b>քով</b>/k’ov_ “at, near”, _<b>պես</b>/pes_ “as”, _<b>վրայ</b>/vray_ “on”,  _<b>զատ</b>/zat_ “except”
 
 ### <a name="Comadp">`Comadp`</a>: dependent part of compound adposition 
 % երևի չենք ունենա, որովհետև բոլորը առանձին կիրառվում են
