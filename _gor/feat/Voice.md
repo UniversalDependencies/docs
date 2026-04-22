@@ -52,6 +52,10 @@ voice of Austronesian languages. <!-- which is labeled PFOC in UniMorph -->
 The `Pass` label is commonly used in UD Austronesian languages for patient voice markers.
 We do not use it in Gorontalo, but retain it for compatibility purposes.
 
+#### Examples
+
+* [gor] _Uponula **tilubu** li Dewi_ “Dewi cooked the fish." (patient voice) or "The fish was cooked by Dewi" (passive analysis)
+
 ### <a name="Ivoc">`Ivoc`</a>: instrument voice
 
 The subject of the verb indicates the instrument, while the
@@ -66,3 +70,7 @@ In Gorontalo, instrument voice multitasks as indicating the location of an actio
 
 The `Ifoc` label is commonly used in UD Austronesian languages for instrument voice markers.
 We do not use it in Gorontalo, preferring the __voc_ pattern that emphasises voice, but document it for compatibility purposes.
+
+#### Examples
+
+* [gor] _Ilengi pilo-pomulo li Bapu binthe_ “Grandfather planted corn in the field" (instrument voice)

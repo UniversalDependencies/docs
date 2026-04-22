@@ -53,8 +53,18 @@ The non-pivot marker may also be used to mark modifiers of other nominals, for e
 more directly descriptive of symmetrical voice, but we document `Nom` here so that `Piv` may be 
 losslessly converted to it for compatibility.
 
+#### Examples
+
+* [gor] _**Ti** Dewi lo-tubu uponula_ "Dewi cooked the fish." (actor voice)
+* [gor] _**Te** Hasan pilohama li Dewi batade_ "Dewi took the goat from Hasan" (instrument voice)
+* [gor] _**Te** Pulu londo Limutu_ "Pulu is from Limboto."
+
 ### <a name="Gen">`Gen`</a>: genitive
 
 `Gen` is used for non-pivot markers in most symmetrical voice languages in UD. We prefer `Npiv` as it is
 more directly descriptive of symmetrical voice, but we document `Gen` here so that `Npiv` may be 
 losslessly converted to it for compatibility.
+
+#### Examples
+* [gor] _Uponula tilubu **li** Dewi **lo** bulonggo_ "**(NPIV)** Dewi cooked fish **in** the pan." or "The pan was cooked fish **in** **by** Dewi"
+* [gor] _Te Pulu wutata **li** Ati_ "Pulu is the sibling **of** Ati."
