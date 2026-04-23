@@ -42,7 +42,7 @@ This is a subtype of adjective.
 - _πρώτος, δεύτερος, τρίτος_  "first, second, third"
 
 <b>Adverbs</b>
-- _πρώτον, δεύτερον, τρίτον_  "firstly, secondly, thirdky"
+- _πρώτον, δεύτερον, τρίτον_  "firstly, secondly, thirdly"
 
 ### <a name="Frac">`Frac`</a>: fraction
 
