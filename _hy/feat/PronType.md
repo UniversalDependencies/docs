@@ -106,7 +106,7 @@ Note that Armenian make a distinction between proximal or first person (objects 
 
 ### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
 
-As emphatic pro-adjectives (determiners) these emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
+As emphatic pro-adjectives (determiners) emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
 
 See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
