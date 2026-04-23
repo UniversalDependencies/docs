@@ -115,6 +115,17 @@ Note that in Middle Armenian there is a distinction between proximal or first pe
 * _միւս/miws_ “(the) other”
 
 
+### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
+
+As emphatic pro-adjectives (determiners) emphasize the nominal they depend on. They are the same with the personal pronoun of the 3rd person and are also used as demonstrative, reflexive and possessive pronouns / determiners.
+
+See also the [Number[psor]]() and [Person[psor]]() features for further details.
+
+#### Examples
+
+* _ինք_/_ink'_, _իրենք_/_irenk'_, _իր (իւր)_/_ir (iwr)_, _իրեն (իւրն)_/_iren (iwrn)_  “he (himself), they (themselves), his(him)/her” as in _զի այս թագաւորին է՝ որ <b>ինքն</b> դատէ_/__ “For this belongs to the King—that he judges (these cases) <b>himself</b>”.
+
+
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
 #### Examples
