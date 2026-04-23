@@ -90,6 +90,12 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 
 * [pl] _<b>jako że</b>_ (_jako_ = `SCONJ`) "as that"
 
+### <a name="SYM">`SYM`</a>: complex symbol
+
+#### Examples
+
+* [pl] _<b>++</b>_ (_+_ = `SYM`) "++"
+
 
 ### <a name="VERB">`VERB`</a>: verb-like expression
 
