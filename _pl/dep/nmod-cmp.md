@@ -11,7 +11,7 @@ In Polish, comparative expressions that depend on nouns can also be realised as 
 
 
 ~~~ conllu
-# visual-style 6 8 obl:cmp color:blue
+# visual-style 6 8 nmod:cmp color:blue
 1	Gaus	gaus	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 2	jest	być	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	jednostką	jednostka	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
