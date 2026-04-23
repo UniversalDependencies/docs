@@ -20,6 +20,7 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
   <td><a href="#DET">DET</a></td>
   <td><a href="#NOUN">NOUN</a></td>
   <td><a href="#PART">PART</a></td>
+  <td><a href="#PRON">PRON</a></td>
   <td><a href="#SCONJ">SCONJ</a></td>
   <td><a href="#VERB">VERB</a></td>
   <td><a href="#X">X</a></td>
@@ -57,6 +58,11 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 
 * [pl] _<b>taka sama</b>_ (_taka_ = `DET`) "the same"
 
+### <a name="INTJ">`INTJ`</a>: interjection-like expression
+
+#### Examples
+
+* [pl] _<b>o dziwo</b>_ (_o_ = `INTJ`) "surprisingly"
 
 ### <a name="NOUN">`NOUN`</a>: noun-like expression
 
@@ -69,7 +75,13 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 
 #### Examples
 
-* [pl] _<b>przede wszystkim</b>_ (_przede_ = `ADP`) "<b>above all</b>"
+* [pl] _<b>przede wszystkim</b>_ (_przede_ = `ADP`) "above all"
+
+### <a name="PRON">`PRON`</a>: pronoun-like expression
+
+#### Examples
+
+* _<b>co nieco</b>_ (_co_ = 'PRON') "something"
 
 
 ### <a name="SCONJ">`SCONJ`</a>: complex subordinating conjunction
