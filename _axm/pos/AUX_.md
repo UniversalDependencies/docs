@@ -39,27 +39,28 @@ Auxiliaries can be divided into:
  
 
 - Durative / habitual aspect. The finite form of _լինիմ/linim_ “be repeatedly / habitually”_, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”  (in various tenses and moods) are combined with resultative, perfect and past participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-   * _եղկ ջուր, յոր <b>եփած լինի</b> չոր մանուշակն եւ վարդ/eġk ǰowr, yor ep’aç lini čor manowšakn ew vard_ “Lukewarm water, in which dried violet and rose have been boiled”
-   * _Եւ թէ որդիքն <b>մեռել լինին</b> թագաւորին/Ew t’ē ordik’n meṙel linin t’agaworin_ “And if the king's sons have died”
-   * _զքաղաքն <b>առած ունէին</b>/zk’aġak’n aṙaç ownēin_ “They had captured the city”
-   * _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան հալածել</b>/Omank’ čen aržani i yiwr tesoyn, kan halaçel_ “Some are not worthy of his sight; they persist in persecuting”
+   * _իւր բնակութիւնն հանապազ ի կաղնի ծառն <b>լինի</b>_/_iwr bnakowt’iwnn hanapaz i kaġni çaṙn lini_ “its dwelling is always in the oak tree”,
+   *  _եղկ ջուր, յոր <b>եփած լինի</b> չոր մանուշակն եւ վարդ_/_eġk ǰowr, yor ep’aç lini čor manowšakn ew vard_ “Lukewarm water, in which dried violet and rose have been boiled”,
+   * _Եւ թէ որդիքն <b>մեռել լինին</b> թագաւորին_/_Ew t’ē ordik’n meṙel linin t’agaworin_ “And if the king's sons have died”,
+   * _զքաղաքն <b>առած ունէին</b>_/_zk’aġak’n aṙaç ownēin_ “They had captured the city”,
+   * _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան հալածել</b>_/_Omank’ čen aržani i yiwr tesoyn, kan halaçel_ “Some are not worthy of his sight; they persist in persecuting”.
 
  
 - Indiactive / conditional mood. The mood particle _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” is combined with the older the present and imperfect forms (present/imperfect subjunctive) of lexical verb to form the present/imperfect indicative or the present/imperfect conditional, which share the same form.
-   * _Քաղցր խօսքով <b>կու ծիծաղիս</b>/K’aġc’r xòsk’ov kow çiçaġis_ “With sweet speech, you smile / you are smiling / you will smile”,
-   * _<b>կ</b>խմէր/kxmēr_ “He used to drink / He was drinking / he would drink”,
-   * _տի բերէր/ti berēr_ “he was going to bring / he should have brought”.
+   * _Քաղցր խօսքով <b>կու ծիծաղիս</b>_/_K’aġc’r xòsk’ov kow çiçaġis_ “With sweet speech, you smile / you are smiling / you will smile”,
+   * _<b>կ</b>խմէր_/_kxmēr_ “He used to drink / He was drinking / he would drink”,
+   * _տի բերէր_/_ti berēr_ “he was going to bring / he should have brought”.
 
   
 - Necessitative mood. The mood particle _<b>պիտի</b>_ “to be necessary, useful” is combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
-  * _Զիմ գըլուխս ու զարիւնըս վարձ <b>պիտի տամ</b>/Zim gëlowxs ow zariwnës varj piti tam_ “I must give my head and my blood as the price”,
-  * _գիշերս ինչ <b>տի լինայ</b>_ “What will happen tonight?”
-  * _տի բերէր/ti berēr_ “he/she was going to bring / he should bring”.
+  * _Զիմ գըլուխս ու զարիւնըս վարձ <b>պիտի տամ</b>_/_Zim gëlowxs ow zariwnës varj piti tam_ “I must give my head and my blood as the price”,
+  * _գիշերս ինչ <b>տի լինայ</b>_/_gišers inč ti linay_ “What will happen tonight?”
+  * _տի բերէր_/_ti berēr_ “he/she was going to bring / he should bring”.
 
 Note, that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն <b>է լինում</b>։_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`. Only pure existentials without location have a non-auxiliary _լինիմ_ and _կամ_ which should be tagged `VERB`.
- * _քո մազերդ <b>է ճիւղք</b> խաղողի/k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair is like grape-vine tendrils `AUX`”,
- * _Պագն որ <b>դրամով լինի</b>, չեմ իտար/Pagn or dramov lini, čem itar_ “A kiss that is for money, I shall not give `AUX`”,
- * _Յորժամ յարութիւն լինի, փողն երկու ձայնիւ տի գոչէ/Yoržam yarowt’iwn lini, p’oġn erkow jayniw ti gočē_ “When the resurrection occurs, the trumpet shall cry out with two voices `VERB`”.
+ * _քո մազերդ <b>է ճիւղք</b> խաղողի_/_k’o mazerd ē č̣iwġk’ xaġoġi_ “Your hair is like grape-vine tendrils `AUX`”,
+ * _Պագն որ <b>դրամով լինի</b>, չեմ իտար_/_Pagn or dramov lini, čem itar_ “A kiss that is for money, I shall not give `AUX`”,
+ * _Յորժամ յարութիւն լինի, փողն երկու ձայնիւ տի գոչէ_/_Yoržam yarowt’iwn lini, p’oġn erkow jayniw ti gočē_ “When the resurrection occurs, the trumpet shall cry out with two voices `VERB`”.
 
 
 - Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitve of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
@@ -67,14 +68,12 @@ Note, that in Middle Armenian copulas are also tagged `AUX` and the definition o
     
  
 - Negative auxiliaries. Particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not” do not have conjugation paradigm and are used to negate verbs in the present and imperfect tenses of the indicative and subjunctive moods.
-  * _Յեկեղեցին <b>ոչ երեւայ</b>. Եւ զեկեալ հիւրսն <b>ոչ խղճայ</b>/Yekeġec’in oč ereway. Ew zekeal hiwrsn oč xġč̣ay_ “The church does not appear; and he does not pity the guests who have come”,
-  * _<b>Չի դառնաս</b> հեղ մի յիս հայես. <b>Չի գիտե՞ս</b> քո պլպուլն եմ ես/Či daṙnas heġ mi yis hayes. Či gite՞s k’o plpowln em es_ “You do not turn to look at me even once; Don't you know that I am your nightingale?”
-  * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չընդունի</b> բնաւ/Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ “And this type (of ailment) does not admit any treatment or cure at all”.
+  * _Յեկեղեցին <b>ոչ երեւայ</b>. Եւ զեկեալ հիւրսն <b>ոչ խղճայ</b>_/_Yekeġec’in oč ereway. Ew zekeal hiwrsn oč xġč̣ay_ “The church does not appear; and he does not pity the guests who have come”,
+  * _<b>Չի դառնաս</b> հեղ մի յիս հայես. <b>Չի գիտե՞ս</b> քո պլպուլն եմ ես_/_Či daṙnas heġ mi yis hayes. Či gite՞s k’o plpowln em es_ “You do not turn to look at me even once; Don't you know that I am your nightingale?”
+  * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չընդունի</b> բնաւ_/_Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ “And this type (of ailment) does not admit any treatment or cure at all”.
  
 
   ### Modal verbs are not auxiliaries
 
 Middle Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Their behavior is only slightly different from other content verbs.
-
-
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
