@@ -12,7 +12,7 @@ udver: '2'
 * Clitic pronouns and enclitic copulas are written attached to their host with `=` or `-` (e.g., `=mo`, `=ēm`, `-é`), but are tokenized as separate tokens in the treebank. Each such clitic receives its own line with the appropriate UPOS tag (PRON or AUX) and morphological features.
 
 ---
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+**Instruction**: The words are delimited based on whitespace and punctuation. 
 
 ---
 ## Morphology
@@ -26,9 +26,6 @@ udver: '2'
 * **PRON** includes personal pronouns (free and enclitic possessive forms such as `=mo`, `=m`, `=ēš`), reflexive pronouns (*xot*), and indefinite pronouns (*hiška*). Possessive clitics carry `Poss=Yes`.
 * Adjectives (ADJ) appear as both prenominal modifiers (`amod`) and as predicative complements (`xcomp`). Comparative adjectives carry `Degree=Cmp`; base forms carry `Degree=Pos`.
 * There are no verbal forms tagged as ADV or NOUN. Verbal nouns and infinitival forms are tagged VERB with `VerbForm=Inf`.
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
 ---
 ### Features
@@ -50,9 +47,6 @@ udver: '2'
 * **NUM**: no features beyond POS are annotated in the current release.
 
 ---
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 ## Syntax
 
 * The primary word order is SOV. The root of a sentence is almost always a finite VERB or a clitic copula (AUX).
@@ -72,18 +66,10 @@ udver: '2'
   * `obl:tmod` — temporal oblique modifier
 
 ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 ## Treebanks
 
 There are [N](../treebanks/lrc-comparison.html) Northern Luri UD treebanks:
   * [Northern Luri-A](../treebanks/lrc_a/index.html)
   * [Northern Luri-B](../treebanks/lrc_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
 
 ---
