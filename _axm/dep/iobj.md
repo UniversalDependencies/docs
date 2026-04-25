@@ -9,8 +9,11 @@ The indirect object of a verb is any nominal phrase that is a core argument of t
 The prototypical example is the recipient of ditransitive verbs of exchange:
 
 ~~~ sdparse
-iobj()
-iobj()
+Ջուր տուր ծարւած լերդիս : \n J̌owr towr çarwaç lerdis . \n Give water to my thirsty liver .
+obj(տուր, Ջուր)
+obj(Give, water)
+iobj(տուր, լերդիս)
+iobj(Give, to-liver)
 ~~~
 
 However, Middle Armenian allows other semantic roles as additional objects.
@@ -34,19 +37,11 @@ When there is a [clausal complement](ccomp), then the clausal complement is rega
 the simple ditransitive case:
 
 ~~~ sdparse
-Նա տեղեկացրեց ուսանողներին , որ վաղվա քննությունները հետաձգվում են ։ \n He told the-students , that tomorrow's examinations are canceled .
+
 iobj()
 ccomp()
 iobj()
 ccomp()
-~~~
-
-~~~ sdparse
-
-iobj()
-obj()
-iobj()
-obj()
 ~~~
 
 If there are two or more objects, one of them should be [obj]() and the others should be
