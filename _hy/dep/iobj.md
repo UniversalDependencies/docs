@@ -29,10 +29,8 @@ obj(introduced, son.Dat)
 iobj(introduced, to-the-coach.Dat)
 ~~~
 
-In general, if there is just one object, it should be labeled
-[obj](), regardless of the morphological case or semantic role.
-For example, _դասավանդել_ “to teach” can take either the subject matter or the recipient as the only object,
-and in both cases it would be analyzed as the [obj]():
+If there is just one object, it should likely be [obj]() unless it is morphosyntactically more similar to clear cases of [iobj](). This is an amended policy as described [on the changes page](https://universaldependencies.org/changes.html#sole-iobj).
+For example, _դասավանդել_ “to teach” may occur with [obj](), [iobj](), or both:
 
 ~~~ sdparse
 Նա դասավանդում է մաթեմատիկա ։ \n He teaches maths.Nom .
@@ -42,12 +40,11 @@ obj(teaches, maths.Nom)
 
 ~~~ sdparse
 Նա դասավանդում է առաջին կուրսեցիներին ։ \n He teaches first-year students.Dat .
-obj(դասավանդում, կուրսեցիներին)
-obj(teaches, students.Dat)
+iobj(դասավանդում, կուրսեցիներին)
+iobj(teaches, students.Dat)
 ~~~
 
-The one exception is when there is a [clausal complement](ccomp).
-Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
+When there is a [clausal complement](ccomp), then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
 the simple ditransitive case:
 
 ~~~ sdparse
@@ -67,6 +64,5 @@ obj(told, some-plans)
 ~~~
 
 If there are two or more objects, one of them should be [obj]() and the others should be
-`iobj`. In such cases it is necessary to decide what is the
-most directly affected object _(patient)._
+`iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)._
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:59 CET -->
