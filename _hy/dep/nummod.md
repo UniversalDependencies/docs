@@ -97,7 +97,7 @@ nmod:poss(houres, of-voting)
 
 ## Dates
 
-Dates are annotated as follows: if present the day is the head, the months are _nmod:poss_ and the year are _nummod_:
+Dates are annotated as follows: if present, the day is the head, the month is _nmod:poss_ and the year is _nummod_:
 
 ~~~ sdparse
 Նա ծնվել է 1955 թվականի մայիսի 4-ին ։ \n He was born on-4th of-May of-year 1955 .
