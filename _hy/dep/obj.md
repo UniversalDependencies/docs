@@ -40,7 +40,7 @@ Ablative example:
 ##
 IIf there is just one object, it should likely be [obj]() unless it is morphosyntactically more similar to clear cases of [iobj](). This is an amended policy as described [on the changes page](https://universaldependencies.org/changes.html#sole-iobj).
 If there are two or more objects, one of them should be `obj` and the others should be [iobj](). In such cases it is necessary to decide what is the most
-directly affected object _(patient)._ The one exception is when there is a [clausal complement](ccomp). Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`.
+directly affected object _(patient)._ When there is a [clausal complement](ccomp), then it is regarded as a “clausal direct object” and an object nominal will be an `iobj`.
 
-There is more discussion of constructions with multiple objects on the page for [iobj](). 
+There is more discussion of constructions with multiple objects on the page for [iobj]().
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:22:19 CET -->
