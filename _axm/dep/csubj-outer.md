@@ -5,12 +5,25 @@ shortdef: 'outer clause clausal subject'
 udver: '2'
 ---
 
-This relation specifies a clausal subject of a copular clause whose predicate is itself a clause, 
-to signal that it is not the subject of the nested clause.
-See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-clauses).
+This relation specifies a clausal subject of a copular clause whose predicate is itself a clause, to signal that it is not the subject of the nested clause.
 
 ~~~ conllu
-# visual-style 11 6 csubj:outer color:blue
+# visual-style 9 14 csubj:outer color:blue
+1	Զընդանելն	զընդանել	VERB	_	Case=Nom|Definite=Def|Polarity=Pos|Style=Var|Subcat=Tran|VerbForm=Inf|Voice=Act	5	csubj	_	_
+2	ըստ	ըստ	ADP	_	AdpType=Prep	4	case	_	_
+3	թագաւորին	թագաւոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	4	nmod:npmod	_	_
+4	կամացն	կամ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	5	obl	_	_
+5	լինի	լինիլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	9	punct	_	_
+7	զի	զի	SCONJ	_	_	9	mark	_	_
+8	այս	այս	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	9	nsubj	_	_
+9	թագաւորին	թագաւոր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	5	advcl	_	_
+10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	SpaceAfter=No
+11	՝	՝	PUNCT	_	_	14	punct	_	_
+12	որ	որ	SCONJ	_	_	14	mark	_	_
+13	ինքն	ինք	PRON	_	Case=Nom|Number=Sing|Person[psor]=3|PronType=Emp	14	nsubj	_	_
+14	դատէ	դատել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj:outer	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
