@@ -32,7 +32,7 @@ Note that indefinite quantifiers such as _քանի, մի քանի_ “many, seve
 Արամը մի քանի խնձոր կերավ ։ \n Aram ate some many apples .
 det(խնձոր, մի)
 fixed(մի, քանի)
-det(some, apples)
+det(apples, some)
 fixed(some, many)
 ~~~
 
