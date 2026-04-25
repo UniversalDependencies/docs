@@ -22,59 +22,58 @@ Case is an inflectional feature of [nouns](NOUN) and [pronouns](PRON).
 
 Case helps to specify the role of the noun phrase in the sentence.
 
-Here on the level of morphosyntactic features we are dealing with case expressed morphologically, i.e. by bound morphemes (affixes).  The descriptions of the individual case values below include semantic
-hints about the prototypical meaning of the case. Bear in mind that quite often a case will be used for a meaning that is totally unrelated to the meaning mentioned here. Valency of verbs, adpositions
-and other words will determine that the noun phrase must be in a particular grammatical case to fill a particular valency slot (semantic role).
+Here on the level of morphosyntactic features we are dealing with case expressed morphologically, i.e. by bound morphemes (affixes).  The descriptions of the individual case values below include semantic hints about the prototypical meaning of the case. Bear in mind that quite often a case will be used for a meaning that is totally unrelated to the meaning mentioned here. Valency of verbs, adpositions and other words will determine that the noun phrase must be in a particular grammatical case to fill a particular valency slot (semantic role).
 
 The morphology of Middle Armenian differentiates five cases:
 `Nom`, `Acc` `Gen`-`Dat`, `Abl`, `Ins` and `Loc`.
 
-Some personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`. Note that the `Gen` case of personal pronouns forms a separate paradigm of posessive pronouns.
+Some personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. Note that the `Gen` case of personal pronouns forms a separate paradigm of posessive pronouns.
 
-Note also that some cases mainly `Acc`, `Abl` and `Loc` can be combined with adpositions (see bellow).
+Note also that some cases mainly `Acc`, `Dat`, `Abl` and `Loc` can be combined with adpositions (see bellow).
 
 #### Examples
 
-* singular nominative _ծառ/çaṙ&nbsp;_ “tree”, genitive-dative _ծառի/çaṙi,&nbsp;_ ablative _(ի) ծառէ/(i) çaṙē,&nbsp;_ instrumental _ծառով/çaṙov&nbsp;_
-* plural nominative _ծառք (ծառեր)/çaṙk’ (çaṙer)&nbsp;_ “trees”,  accusative _(զ)ծառս (ծառս)/(z)çaṙs (çaṙs),&nbsp;_ genitive-dative _ծառերոյ/çaṙeroy,&nbsp;_ ablative _(ի) ծառերոյ/(i) çaṙeroy,&nbsp;_ instrumental _ծառերով/çaṙerov&nbsp;_ ablative _(ի) ծառէ/(i) çaṙē,&nbsp;_ instrumental _ծառով/çaṙov&nbsp;_
-* singular nominative _գիշեր/gišer&nbsp;_ “night”, genitive-dative _գիշերվան/gišervan,&nbsp;_ ablative _(ի) գիշերվնէ/(i) gišervnē,&nbsp;_ instrumental _գիշերով/gišerov&nbsp;_
-* plural nominative _գիշերներ/gišerner&nbsp;_, genitive-dative _գիշերներոյ(ու)/gišerneroy(ow)&nbsp;_, ablative _(ի) գիշերներոյ(ո)/(i) gišerneroy(o)&nbsp;_, instrumental _գիշերներով/gišernerov&nbsp;_
-* singular nominative _շինութիւն/šinowt’iwn&nbsp;_ “building”, genitive-dative _շինութեան/šinowt’ean,&nbsp;_ ablative _(ի) շինութենէ/(i) šinowt’enē,&nbsp;_ instrumental _շինութենով/šinowt’enov&nbsp;_
-* plural nominative _շինութեներ/šinowt’ener&nbsp;_, genitive-dative _շինութեներոյ/šinowt’eneroy&nbsp;_, ablative _(ի) շինութեներոյ(ո)/(i) šinowt’eneroy(o)&nbsp;_, instrumental _շինութեներով/šinowt’enerov&nbsp;_
-* singular nominative _հայր&nbsp;_ “father”, genitive-dative _հօր,&nbsp;_ ablativ _(ի) հօրէ,&nbsp;_ instrumental _հօրով_
+* singular nominative _ծառ_/_çaṙ_ “tree”, genitive-dative _ծառի_/_çaṙi_, ablative _(ի) ծառէ_/_(i) çaṙē_, instrumental _ծառով_/_çaṙov_,
+* plural nominative _ծառք (ծառեր)_/_çaṙk’ (çaṙer)_ “trees”,  accusative _(զ)ծառս (ծառս)_/_(z)çaṙs (çaṙs)_, _ genitive-dative _ծառերոյ_/_çaṙeroy_, ablative _(ի) ծառերոյ_/_(i) çaṙeroy_, instrumental _ծառերով_/_çaṙerov_, ablative _(ի) ծառէ_/_(i) çaṙē_, instrumental _ծառով_/_çaṙov_,
+* singular nominative _գիշեր_/_gišer_ “night”, genitive-dative _գիշերվան_/_gišervan_, ablative _(ի) գիշերվնէ_/_(i) gišervnē_, instrumental _գիշերով_/_gišerov_,
+* plural nominative _գիշերներ_/gišerner_, genitive-dative _գիշերներոյ(ու)_/_gišerneroy(ow)_, ablative _(ի) գիշերներոյ(ո)_/_(i) gišerneroy(o)_, instrumental _գիշերներով_/_gišernerov_,
+* singular nominative _շինութիւն_/_šinowt’iwn_ “building”, genitive-dative _շինութեան_/_šinowt’ean_, ablative _(ի) շինութենէ_/_(i) šinowt’enē_, instrumental _շինութենով_/_šinowt’enov_,
+* plural nominative _շինութեներ_/_šinowt’ener_, genitive-dative _շինութեներոյ_/_šinowt’eneroy_, ablative _(ի) շինութեներոյ(ո)_/_(i) šinowt’eneroy(o)_, instrumental _շինութեներով_/_šinowt’enerov_,
+* singular nominative _հայր_/_hayr_ “father”, genitive-dative _հօր_/_hòr_, ablative _(ի) հօրէ_/_i hòrē_, instrumental _հօրով_/_hòrov_.
 
 ### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma).
-In Middle Armenian this is the word form used for subjects of clauses, for direct objects of verbs (in the accusative, the form is identical to the nominative, see bellow) and for addressing someone.
+In Middle Armenian this is the word form used for subjects of clauses, for direct objects of verbs (in the accusative, the form is sometimes identical to the nominative, see bellow) and for addressing someone.
 
 #### Examples
 
-* _ծառ/çaṙ&nbsp;_ “tree”
+* _ծառ_/_çaṙ_ “tree”
 
 ### <a name="Gen-Dat">`Gen`-'Dat'</a>: genitive-dative
 
-In many languages prototypical meaning of genitive is that the noun phrase somehow belongs to its governor. As for the dative, it is a form often used for indirect objects of verbs. Generally, In Middle Armenian they are not formally distinct and are therefore considered a single case. The genitive is distinct from the dative only in the paradigms of some personal and demonstrative pronouns. 
+In many languages, prototypical meaning of the genitive is that the noun phrase somehow belongs to its governor. As for the dative, it is often used for indirect objects of verbs. In Middle Armenian, however, they are generally not formally distinct and are therefore considered a single case. The genitive is distinct from the dative only in the paradigms of some personal and demonstrative pronouns. 
 
-* _ծառի/çaṙi,&nbsp;_ “of a/the tree”
-* _իմ/im&nbsp;_ `Gen` “my”, _ինձ&nbsp;_ `Dat` “me”
-* _նորա/nora_ `Gen` “his/her” _նմա/nma&nbsp;_ `Dat` “him/her”
+* _ծառի_/_çaṙi_ “of a/the tree”
+* _իմ_/_im_ `Gen` “my”, _ինձ_/_inj_ `Dat` “me”
+* _նորա/nora_ `Gen` “his/her” _նմա/nma_ `Dat` “him/her”
 
+Note that the meaning of `Dat` is also expressed by a preposition with a noun in `Acc`.
 
 #### Examples
-* _Եկին <b>նորա</b> սիրելիքն եւ ասացին/Ekin nora sirelik’n ew asac’in_ “<b>His</b> beloved ones came and said”
-* _Եւ պարտ է <b>նմա</b> զգուշանալ/Ew part ē nma zgowšanal&nbsp;_ “And he must be careful” _Lit.:_ “It's necessary for <b>him</b> to be careful”
+* _Եկին <b>նորա</b> սիրելիքն եւ ասացին_/_Ekin nora sirelik’n ew asac’in_ “<b>His</b> beloved ones came and said”
+* _Եւ պարտ է <b>նմա</b> զգուշանալ_/_Ew part ē nma zgowšanal_ “And he must be careful” _Lit.:_ “It's necessary for <b>him</b> to be careful”
 
 
 ### <a name="Acc">`Acc`</a>: accusative
 
-The accusative case is most frequently used for direct objects of transitive verbs. Singular nouns in accusative have the same form with the nominative but they are ususlly combined with the proclitic particle _զ/z_.
-Plural nouns have distinct nominative and accusative forms because of the plural ending.
+The accusative case is most frequently used for direct objects of transitive verbs. Singular nouns in accusative have the same form with the nominative but they are usually combined with the proclitic particle _զ/z_.
+Plural nouns ending with the plural prticle _ք_/_k'_ have distinct nominative and accusative forms because of the plural ending, which becomes _ս_/_s_.
 
 #### Examples
 
-* _կուզէ <b>զքաղաքն</b> աւիրէ/kowzē zk’aġak’n awirē_ “He wants to destroy the <b>city</b>”
-* _ասա՛ <b>զբանս</b>/asa zbans_ “say the <b>words</b>”
+* _կուզէ <b>զքաղաքն</b> աւիրէ_/_kowzē zk’aġak’n awirē_ “He wants to destroy the <b>city</b>”
+* _ասա՛ <b>զբանս</b>_/_asa zbans_ “say the <b>words</b>”
 
 ### <a name="Abl">`Abl`</a>: ablative
 
@@ -82,9 +81,9 @@ Prototypical meaning: direction from some point (object, location or time).
 
 #### Examples
 
-* _ի բնութենէն/i bnowt’enēn&nbsp;_ “from the nature”
-* _ի նոցանէ/i noc’anē&nbsp;_ “from them”
-* _ի ծնէ/i çnē&nbsp;_ “from birth”
+* _ի բնութենէն_/_i bnowt’enēn_ “from the nature”
+* _ի նոցանէ_/_i noc’anē_ “from them”
+* _ի ծնէ_/_i çnē_ “from birth”
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
@@ -94,17 +93,16 @@ possible, for example the instrumental is required and it includes the meaning e
 
 #### Examples
 
-* _<b>կամօքն</b> Աստուծոյ/kamòk’n Astowçoy&nbsp;_ “by the will of God”
-* _Եւ <b>քարամբ</b> խիստ քարկոծեցաւ/Ew k’aramb xist k’arkoçec’aw&nbsp;_ “And he was severely pelted with <b>stones</b>.” (Passive example)
+* _<b>կամօքն</b> Աստուծոյ_/_kamòk’n Astowçoy_ “by the will of God”
+* _Եւ <b>քարամբ</b> խիստ քարկոծեցաւ_/_Ew k’aramb xist k’arkoçec’aw&nbsp;_ “And he was severely pelted with <b>stones</b>.” (Passive example)
 
 ### <a name="Loc">`Loc`</a>: locative
 
 The locative case often expresses location in space or time. As elsewhere, non-locational meanings also exist and they are not rare.
-In Middle Armenian pronouns do not have `Loc` case. It's also rarely used with nouns. In most cases, its meaning is expressed by a preposition with a noun in the`Gen`-`Dat` (genarally for singular
-nouns) and in the `Acc` (generally for plural nouns).
+In Middle Armenian pronouns do not have `Loc` case. It's also rarely used with nouns. In most cases, its meaning is expressed by a preposition with a noun in the`Gen`-`Dat` (genarally for singular nouns) and in the `Acc` (generally for plural nouns).
 
 #### Examples
 
-* _Ձագերն ձայն ածեն <b>յայգին</b>։/Jagern jayn açen yaygin&nbsp;_ “(Some animals) young ones are making noise <b>in the garden</b>.”
-* _<b>յաւազանն</b> մտանէ/yawazann mtanē&nbsp;_ “he gets <b>into the pool</b>”
+* _Ձագերն ձայն ածեն <b>յայգին</b>։_/_Jagern jayn açen yaygin_ “(Some animals') young ones are making noise <b>in the garden</b>.”
+* _<b>յաւազանն</b> մտանէ_/_yawazann mtanē_ “he gets <b>into the pool</b>”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->
