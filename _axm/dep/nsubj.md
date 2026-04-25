@@ -19,21 +19,7 @@ nsubj(aches, stomach)
 ~~~
 
 ~~~ sdparse
-# visual-style 5 3 nsubj color:blue
-1	Եւ	եւ	CCONJ	_	_	11	cc	_	_
-2	որ	որ	SCONJ	_	_	5	mark	_	_
-3	այսոր	այս	PRON	_	Case=Dat|Deixis=Prox|Number=Sing|PronType=Dem	5	nsubj	_	_
-4	ուժ	ուժ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	_
-5	չուննայ	ուննալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	SpaceAfter=No
-6	՝	՝	PUNCT	_	_	8	punct	_	_
-7	որ	որ	SCONJ	_	_	8	mark	_	_
-8	վճարէ	վճարել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No
-9	՝	՝	PUNCT	_	_	11	punct	_	_
-10	նա	նա	SCONJ	_	_	11	mark	_	_
-11	ծախեն	ծախել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-12-13	զինքն	_	_	_	_	_	_	_	_
-12	զ	զ	ADP	_	AdpType=Prep	13	case	_	_
-13	ինքն	ինք	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+այսոր ուժ չուննայ \n aysor owž čownnay \n He has no strength (lit.: of this (person) has no strength)
 ~~~
 
 ~~~ sdparse
