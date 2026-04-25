@@ -44,7 +44,7 @@ iobj(դասավանդում, կուրսեցիներին)
 iobj(teaches, students.Dat)
 ~~~
 
-When there is a [clausal complement](ccomp), then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
+When there is a [clausal complement](ccomp), then it is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
 the simple ditransitive case:
 
 ~~~ sdparse
