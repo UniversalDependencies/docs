@@ -10,27 +10,25 @@ The prototypical example is the recipient of ditransitive verbs of exchange:
 
 ~~~ sdparse
 Ջուր տուր ծարւած լերդիս : \n J̌owr towr çarwaç lerdis . \n Give water to my thirsty liver .
-obj(տուր, Ջուր)
-obj(Give, water)
 iobj(տուր, լերդիս)
-iobj(Give, to-liver)
+iobj(Give, liver)
 ~~~
 
-However, Middle Armenian allows other semantic roles as additional objects.
-The morphological [Case]() of the objects is dictated by verb valency.
+Middle Armenian allows other semantic roles as additional objects. The morphological [Case]() of the objects is dictated by verb valency.
 
-If there is just one object, it should likely be [obj]() unless it is morphosyntactically more similar to clear cases of [iobj](). This is an amended policy as
+If there is just one object, it should likely be [obj]() unless it is morphosyntactically more similar to clear cases of [iobj](). This is an amended policy of UD as
 described [on the changes page](https://universaldependencies.org/changes.html#sole-iobj).
 
 ~~~ sdparse
-obj()
-obj()
+օձն խայթէ զմարդն \n òjn xayt’ē zmardn \n the snake bites the man
+obj(խայթէ, զմարդն)
+obj(bites, the-man)
 ~~~
 
-
 ~~~ sdparse
-iobj()
-iobj()
+զգանկտվորացն դարպաս բռնէ \n zganktvorac’n darpas bṙnē \n He convenes a court for complainants
+iobj(բռնէ, գանկտվորացն)
+iobj(convenes, complainants)
 ~~~
 
 When there is a [clausal complement](ccomp), then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
