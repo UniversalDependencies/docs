@@ -26,9 +26,7 @@ obj(bites, the-man)
 ~~~
 
 ~~~ sdparse
-զգանկտվորացն դարպաս բռնէ \n zganktvorac’n darpas bṙnē \n He convenes a court for complainants
-iobj(բռնէ, գանկտվորացն)
-iobj(convenes, complainants)
+
 ~~~
 
 When there is a [clausal complement](ccomp), then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
