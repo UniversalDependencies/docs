@@ -5,7 +5,7 @@ shortdef: 'external POS'
 udver: '2'
 ---
 
-This feature indicates, for the head of a [fixed expression](https://universaldependencies.org/u/dep/fixed.html), 
+This feature indicates, for the head of a [fixed expression](https://universaldependencies.org/u/dep/fixed.html),
 the effective UPOS of the full expression when it differs from the UPOS of the word itself.
 Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 
@@ -16,6 +16,7 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
   <td><a href="#ADJ">ADJ</a></td>
   <td><a href="#ADP">ADP</a></td>
   <td><a href="#ADV">ADV</a></td>
+  <td><a href="#AUX">AUX</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
   <td><a href="#DET">DET</a></td>
   <td><a href="#NOUN">NOUN</a></td>
@@ -44,6 +45,12 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 #### Examples
 
 * [pl] _<b>na co dzień</b>_ (_na_ = `ADP`) "every day"
+
+### <a name="AUX">`AUX`</a>: auxiliary-like expression
+
+#### Examples
+
+* [pl] _<b>niech</b> że_ (_niech_ = `AUX`) "3rd person imperative"
 
 ### <a name="CCONJ">`CCONJ`</a>: complex coordinating conjunction
 
