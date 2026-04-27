@@ -77,13 +77,14 @@ Plural nouns ending with the plural prticle _ք_/_k'_ have distinct nominative a
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-Prototypical meaning: direction from some point (object, location or time).
-
+Prototypical meaning: direction from some point (object, location or time). In Middle Armenian, the ablative case is expressed in different ways: with or without the preposition _ի_/_i_, combined with a noun in the dative or ablative; hence, the ablative meaning is recognized only from the context.
 #### Examples
 
 * _ի բնութենէն_/_i bnowt’enēn_ “from the nature”
 * _ի նոցանէ_/_i noc’anē_ “from them”
 * _ի ծնէ_/_i çnē_ “from birth”
+* _ցաւոյն_/_c’awoyn_ “from pain”
+
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
