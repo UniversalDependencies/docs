@@ -6,12 +6,11 @@ udver: '2'
 ---
 
 A nominal core argument of a clause which is in a non-pivot syntactic role and with a 
-patient semantic role. Universal Dependencies only allows one core argument to have the 
-`obj` label, while others are expected to have the `iboj` label. If both an agent and a 
-patient appear as non-pivot arguments, we allow the agent to take the `obj:agent` label, 
-while the patient takes `iobj:patient`. This is arbitrary, but we do not currently have 
-a solid linguistic argument for which is more direct or indirect, and in the absence of 
-this we use a hierarchy of _agent > patient > instrument_.
+patient semantic role.
+
+When there are multiple arguments in the post-verbal non-pivot position, patient arguments have second priority to take 
+the `obj` label, after agents but before instruments.
+If there is an agent in the non-pivot position, the patient must take the `iobj` label as `iobj:patient`.
 
 ~~~ sdparse
 Bulonggo pilo-tubu li Dewi uponula \n pan IV-cook NPIV.FEM Dewi fish

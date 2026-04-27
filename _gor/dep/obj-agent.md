@@ -10,10 +10,15 @@ agent of the clause. This occurs when a clause is in a voice other than actor vo
 Unlike in Indo-European languages, the agent is still a core argument, hence it is labeled
 `obj:agent` rather than [obl:agent]().
 
+When there are multiple arguments in the post-verbal non-pivot position, agent arguments have
+topmost priority to take the `obj` label, while patients and instruments will take the `iobj` label.
+
 ~~~ sdparse
 Oile healipo li Dewi lo pito \n mango peeling NPIV Dewi NPIV knife
 obj:agent(healipo, Dewi)
 obj:agent(peeling, Dewi)
+iobj:instrument(healipo, pito)
+iobj:instrument(peeling, knife)
 ~~~
 
 “Dewi is peeling the knife with a knife.”
