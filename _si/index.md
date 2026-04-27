@@ -6,7 +6,8 @@ udver: '2'
 
 # UD for Sinhala <span class="flagspan"><img class="flag" src="../../flags/svg/LK.svg" /></span>
 
-STB 2.11 contains 100 sentences taken from various sources.
+STB, which was released in UD 2.11, contains 100 sentences taken from various sources.
+Appuwa, which was released in UD 2.18, contains 69 sentences taken from a glossed short novel.
 
 ## Tokenization and Word Segmentation
 
@@ -99,6 +100,7 @@ The 100 sentences contain the following relations.
 
 ## Treebanks
 
-There is one Sinhala UD treebank:
+There are two Sinhala UD treebank:
 
   * [Sinhala-STB](../../treebanks/si_stb/index.html)
+  * [Sinhala-Appuwa](../../treebanks/si_appuwa/index.html)
