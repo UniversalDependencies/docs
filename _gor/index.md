@@ -39,6 +39,7 @@ Gorontalo is written in the Latin alphabet, with all characters (including punct
   * Voice = {Act, Pat, Ivoc} (Actor, Patient, Instrument Voice)
   * Mood = {Ind, Irr} (Indicative, usually referred to as Realis; Irrealis)
   * Aspect = {Prog} (Progressive)
+* Some ADJ may also be inflected for Mood, e.g. "mo’opotala" (IRR-dangerous): `Mood=Irr`
 * Tokens tagged as NOUN generally do not take any morphological features, with the following exceptions:
   * The plural prefix "mongo-" is often attached to nouns to indicate plurality. For example: "lolai" (boy); "mongololai" (boys). This is currently analysed as a plural inflection, and so the feature-value pair `Number=Plur` is used.
 * Pivot/non-pivot markers, tagged as ADP, have the following features:
