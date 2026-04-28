@@ -12,10 +12,14 @@ in Gorontalo and many other Austronesian languages agent voice is not clearly le
 marked than any other voice, and a patient in the non-pivot position still requires 
 explicit labeling.
 
+When there are multiple arguments in the post-verbal non-pivot position, patient arguments have second priority to 
+take the `obj` label, after agents but before instruments.
+If there is no agent in the non-pivot position, the patient may take the `obj` label as `obj:patient`.
+
 ~~~ sdparse
 Ti Dewi lo-tubu uponula \n PIV Dewi cooked fish
-obj:agent(lo-tubu, uponula)
-obj:agent(cooked, fish)
+obj:patient(lo-tubu, uponula)
+obj:patient(cooked, fish)
 ~~~
 
-“Dewi is peeling the knife with a knife.”
+“Dewi cooked fish.” (actor voice)

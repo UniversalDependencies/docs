@@ -36,9 +36,11 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the [Reflex]() fe
 * _ինձ (ինձի, ինձիկ)/inj (inji, injik)_ “me”, _քեզ (քեզի, քեզիկ, քէ)/k’ez (k’ezi, k’ezik, k’ē)_ “you”, _իրեն/iren_ “him/her”, _մեզ (մեզի, մեզիկ)/mez (mezi, mezik)_ “us”, _ձեզ/jez_ “you”, _իրենց (իւրեանց, իւրենց)/irenc’ (iwreanc’, iwrenc’)_ “them”
 
 
-### <a name="Pօss">`Pօss`</a>: possessive pronoun or determiner
+### <a name="Poss">`Poss`</a>: possessive pronoun or determiner
 
 In Middle Armenian, a separate nominal declension paradigm is formed from the genitive forms of personal pronouns. Consequently, a distinction is made between possessive determiners and possessive pronouns.
+
+#### Examples
 
 <b>Possessive personal determiners:</b>
 *  _իմ/im_ “my”, _քո/ko_ “your”, _իւր (իր)/iwr (ir)_ “his/her/its”, _մեր/mer_ “our”, _ձեր/jer_ “your”, _իրենց (իրանց, իւրեանց, իւրենց)/irenc’ (iranc’, iwreanc’,  iwrenc’)_ “their”

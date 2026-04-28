@@ -5,6 +5,17 @@ shortdef: 'aspect'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Hab">Hab</a></td>
+  <td><a href="#Perf">Perf</a></td>
+  <td><a href="#Pers">Pers</a></td>
+  <td><a href="#Prog">Prog</a></td>
+</tr>
+</table>
+
+
 Aspect describes the internal temporal properties of the described situation. 
 In Ruuli, aspect is a feature realized on the verb as an affix.
 It marks whether a situation is viewed as a whole (perfective) or viewed as occupying a period of time,
@@ -15,8 +26,8 @@ Ruuli also allows an additional aspect feature, annotated as [Aspect[add]](), us
 
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
-Habitual aspect is realized with the suffix _-nga_.
-It describes situations that are recurrent, habitual, typical of the reference time.
+The habitual aspect is realized with the suffix _-nga_.
+It encodes situations that are recurrent, habitual, typical of the reference time.
 
 #### Examples
 
@@ -24,8 +35,8 @@ It describes situations that are recurrent, habitual, typical of the reference t
 
 ### <a name="Perf">`Perf`</a>: perfective aspect
 
-Perfective aspect is realized with the suffix _-ire_ and its allomorph _-ere_.
-It describes situations that are viewed as a whole. 
+The perfective aspect is realized with the suffix _-ire_ and its allomorph _-ere_.
+It encodes situations that are viewed as a whole.
 
 #### Examples
 
@@ -33,7 +44,7 @@ It describes situations that are viewed as a whole.
 
 ### <a name="Pers">`Pers`</a>: persistive aspect
 
-Persistive aspect is realized with the prefix _kya-_; it is used to emphasize that a situation obtains at the reference time. 
+The persistive aspect is realized with the prefix _kya-_; it is used to emphasize that a situation holds at the reference time. 
 Functionally, this corresponds to the concepts of phrasal polarity, such as 'still', 'no longer', and 'not yet'.
 
 #### Examples
@@ -47,8 +58,8 @@ Functionally, this corresponds to the concepts of phrasal polarity, such as 'sti
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-Progressive aspect is realized with the prefix _ku-_; it shows that the described situation is in progress at the reference time. 
-The Ruuli progressive is compatible with dynamic, stative, and punctual verbs. 
+The progressive aspect is realized with the prefix _ku-_; it shows that the situation is in progress at the reference time. 
+The Ruuli progressive is compatible with dynamic, stative, and punctual verbs.
 
 #### Examples
 

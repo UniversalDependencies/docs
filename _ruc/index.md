@@ -11,11 +11,12 @@ udver: '2'
 * Words are generally delimited by whitespace. Exceptions are described below.
 
 * Multiword tokens in Ruuli are formed in the presence of clitics, which phonologically and orthographically attach to the neighboring word. The clitics are:
-
+  
     * Locative enclitics =*wo* (16.LOC), =*ku* (17.LOC), =*mu* (18.LOC), =*yo* (23.LOC)
     * Comitative *n'=* (phonologically reduced form of *na*)
   	* Additive focus *n'=* (phonologically reduced form of *na*) and *=na*
-    * Other focus clitics *=mbe*, *=te*	
+    * Focus clitic *=mbe*
+    * Contrastive topic *=te*	
     * Subordinate conjunction *n'=* (phonologically reduced form of *ni*)
     * Relative pronouns, e.g., *ky'* (reduced form of *kye*)
 
@@ -32,7 +33,8 @@ udver: '2'
 * Three types of words are tagged as [PART]():
 
     * Genitive markers, e.g., *wa*
-    * Focus clitics *mbe*, *na*, *te*
+    * Focus clitics *mbe* and *na*
+	* Contrastive topic clitic *te*
     * Hortative *ka*
   
   These items are invariant function words that do not fit other major POS categories.
@@ -106,10 +108,9 @@ udver: '2'
 #### Other Features
 
 * [Abbr]()=`Yes` for abbreviated [PROPN]()
-* [ExtPos]()=`CCONJ` for fixed expressions like *ate era* "and"
 * [Foreign]()=`Yes` for [X]()
 * [Hort]()=`Yes` for hortative *ka*
-* [InfStruct]()=`Foc` for focus particles and the copula *ni*
+* [InfStruct]() (`Foc`, `Top`) for focus and topic clitics, copula *ni*
 * [NumForm]() and [NumType]() for [NUM]()
 * [Polarity]() for negation (*ti*, *ndoo*, *ti-*)
 * [Red]()=`Yes` for reduplication
@@ -195,7 +196,6 @@ udver: '2'
     * [flat:foreign]()
     * [flat:name]()
     * [flat:num]()
-    * [flat:redup]()
     * [iobj:appl]()
     * [nmod:desc]()
     * [nmod:poss]()

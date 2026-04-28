@@ -5,10 +5,38 @@ shortdef: 'noun class agreement with the possessor'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td rowspan="2" style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Bantu1">Bantu1</a></td>
+  <td><a href="#Bantu2">Bantu2</a></td>
+  <td><a href="#Bantu3">Bantu3</a></td>
+  <td><a href="#Bantu4">Bantu4</a></td>
+  <td><a href="#Bantu5">Bantu5</a></td>
+  <td><a href="#Bantu6">Bantu6</a></td>
+  <td><a href="#Bantu7">Bantu7</a></td>
+  <td><a href="#Bantu8">Bantu8</a></td>
+  <td><a href="#Bantu9">Bantu9</a></td>
+  <td><a href="#Bantu10">Bantu10</a></td>
+</tr>
+<tr>
+  <td><a href="#Bantu11">Bantu11</a></td>
+  <td><a href="#Bantu12">Bantu12</a></td>
+  <td><a href="#Bantu13">Bantu13</a></td>
+  <td><a href="#Bantu14">Bantu14</a></td>
+  <td><a href="#Bantu15">Bantu15</a></td>
+  <td><a href="#Bantu22">Bantu22</a></td>
+  <td><a href="#Bantu23">Bantu23</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
+
 In Ruuli, possessive pronouns agree both with the possessor and the possessee. 
 The possessor agreement is marked by the final morpheme of the possessive pronoun.
-Third person possessor marking reflects the noun class of the possessor: `[NounClass[psor]]`, according to the paradigm below.
-Noun class agreement with the possessee is annotated with the feature [NounClass[psed]]().
+The third person possessor agreement cross-references the noun class of the possessor: `[NounClass[psor]]`, according to the paradigm below.
+The noun class agreement with the possessee is annotated with the feature [NounClass[psed]]().
 
 | Noun Class (NC) | Possessor marker |
 |------|--------|
@@ -30,8 +58,8 @@ Noun class agreement with the possessee is annotated with the feature [NounClass
 | 20 | _gwo_ | 
 | 22 | _go_ | 
 
-The paradigm of possessor markers excludes locative classes 16, 17, 18, and 23 as they do not contain nouns and cannot be used as objects; 
-Proto-Bantu noun classes 19 and 21 are not attested in Ruuli.
+The paradigm of the possessor markers excludes locative classes 16, 17, 18, and 23 as they do not contain nouns and are not used as possessors; 
+The Proto-Bantu noun classes 19 and 21 are not attested in Ruuli.
 
 ### <a name="Bantu1">`Bantu1`</a>: noun class 1
 
@@ -91,7 +119,7 @@ This class contains singular nouns. The corresponding plural class is `Bantu6`.
 ### <a name="Bantu6">`Bantu6`</a>: noun class 6
 
 The possessor marker of noun class 6 is _go_.
-This class contains plural and uncountable nouns. The corresponding singular class is `Bantu5`.
+This class contains plural and mass nouns. The corresponding singular class is `Bantu5`.
 
 #### Examples
 
@@ -157,7 +185,7 @@ This class contains singular nouns. The corresponding plural class is `Bantu10`.
 ### <a name="Bantu12">`Bantu12`</a>: noun class 12
 
 The possessor marker of noun class 12 is _ko_. 
-This class contains singular and uncountable nouns. It is also used to form diminutive singular nouns. 
+This class contains singular and mass nouns. It is also used to form diminutive singular nouns. 
 The corresponding plural class is `Bantu14`.
 
 #### Examples
@@ -169,7 +197,7 @@ The corresponding plural class is `Bantu14`.
 ### <a name="Bantu13">`Bantu13`</a>: noun class 13
 
 The possessor marker of noun class 13 is _two_.
-This class is used to form diminutive uncountable nouns. 
+This class is used to form diminutive mass nouns. 
 There is no corresponding plural class.
 
 #### Examples

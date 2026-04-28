@@ -5,15 +5,47 @@ shortdef: 'noun class'
 udver: '2'
 ---
 
-Ruuli has a system of 21 noun classes, including 17 non-locative classes and 4 locative classes. (The Proto-Bantu noun classes 19 and 21 are not attested.)
-All [nouns](u-pos/NOUN) and other nominals ([pronouns](u-pos/PRON) and [proper nouns](u-pos/PROPN)) receive a noun class assignment. 
-In addition, three [adpositions](u-pos/ADP) as well as four verbal enclitics belong to the locative noun classes.
-The system also extends to various agreement targets, such as [adjectives](u-pos/ADJ), [determiners](u-pos/DET), [verbs](u-pos/VERB), etc. 
+<table class="typeindex" border="1">
+<tr>
+  <td rowspan="2" style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Bantu1">Bantu1</a></td>
+  <td><a href="#Bantu2">Bantu2</a></td>
+  <td><a href="#Bantu3">Bantu3</a></td>
+  <td><a href="#Bantu4">Bantu4</a></td>
+  <td><a href="#Bantu5">Bantu5</a></td>
+  <td><a href="#Bantu6">Bantu6</a></td>
+  <td><a href="#Bantu7">Bantu7</a></td>
+  <td><a href="#Bantu8">Bantu8</a></td>
+  <td><a href="#Bantu9">Bantu9</a></td>
+  <td><a href="#Bantu10">Bantu10</a></td>
+</tr>
+<tr>
+  <td><a href="#Bantu11">Bantu11</a></td>
+  <td><a href="#Bantu12">Bantu12</a></td>
+  <td><a href="#Bantu13">Bantu13</a></td>
+  <td><a href="#Bantu14">Bantu14</a></td>
+  <td><a href="#Bantu15">Bantu15</a></td>
+  <td><a href="#Bantu22">Bantu22</a></td>
+  <td><a href="#Bantu23">Bantu23</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
 
-On nominals, the noun class is commonly marked as the prefix and can also be determined on the basis of agreement markers on the various agreement targets. 
-The nominal prefix is commonly preceded by a word-initial vowel, the so-called augment (annotated with [Referent]()).
+
+Ruuli has a system of 21 noun classes, including 17 non-locative classes and 4 locative classes. (The Proto-Bantu noun classes 19 and 21 are not attested.)
+All [nouns](u-pos/NOUN) and other nominals ([pronouns](u-pos/PRON) and [proper nouns](u-pos/PROPN)) are assigned a noun class in the lexicon. 
+In addition, three [adpositions](u-pos/ADP) as well as four verbal enclitics belong to the locative noun classes.
+
+The noun class is determined on the basis of agreement markers on the various agreement targets, such as [adjectives](u-pos/ADJ), [determiners](u-pos/DET), and [verbs](u-pos/VERB). 
 Verbs index the noun class of both subjects and objects as prefixes.
 We annotate the noun class of the subject prefix as `NounClass` and the noun class of the object prefixes as [NounClass[obj]]() and [NounClass[iobj]]().
+
+Nouns themselves often carry a noun class prefix, which in many cases is identical to the noun class prefix on various agreement targets.
+The noun class reflects the number of the nominal: nouns in singular classes (1, 3, 5, 7, 9, 11, 12, 20) form plurals with prefixes from the corresponding plural classes. 
+Common singular–plural pairings are 1/2, 1/10, 3/4, 5/6, 7/8, 9/10, 11/10, 12/14, and 20/22. Many nouns occur in one class only and lack either a singular or a plural counterpart.
+
 
 | Class | Noun Prefix | Subject Prefix | Adposition | Enclitic |
 |------|--------|--------|--------|--------|
@@ -39,8 +71,8 @@ We annotate the noun class of the subject prefix as `NounClass` and the noun cla
 | 22 | _ga-_ | _ga-_ | - | - |
 | 23 | - | _e-_ | _e_ | _yo_ |
 
-The noun class reflects the number of the nominal: nouns in singular classes (1, 3, 5, 7, 9, 11, 12, 20) form plurals by assignment to corresponding plural classes. 
-Common singular–plural pairings are 1/2, 1/10, 3/4, 5/6, 7/8, 9/10, 11/10, 12/14, and 20/22. Many nouns occur in one class only and lack either a singular or a plural counterpart.
+
+The nominal prefix is commonly preceded by a word-initial vowel, the so-called augment (annotated with [Referent]()).
 
 ### <a name="Bantu1">`Bantu1`</a>: noun class 1
 
@@ -89,7 +121,7 @@ Noun class 5 contains singular nouns. The corresponding plural class is `Bantu6`
 
 ### <a name="Bantu6">`Bantu6`</a>: noun class 6
 
-Noun class 6 contains plural and uncountable nouns. The corresponding singular class is `Bantu5`.
+Noun class 6 contains plural and mass nouns. The corresponding singular class is `Bantu5`.
 
 #### Examples
 
@@ -143,7 +175,7 @@ Noun class 11 contains singular nouns. The corresponding plural class is `Bantu1
 
 ### <a name="Bantu12">`Bantu12`</a>: noun class 12
 
-Noun class 12 contains both singular and uncountable nouns.
+Noun class 12 contains both singular and mass nouns.
 It is also used to form diminutive singular nouns. The corresponding plural class is `Bantu14`.
 
 #### Examples
@@ -153,7 +185,7 @@ It is also used to form diminutive singular nouns. The corresponding plural clas
 
 ### <a name="Bantu13">`Bantu13`</a>: noun class 13
 
-Noun class 13 is used to form diminutive uncountable nouns. There is no corresponding plural class.
+Noun class 13 is used to form diminutive mass nouns. There is no corresponding plural class.
 
 #### Examples
 
@@ -189,7 +221,7 @@ It is also used as a verbal enclitic.
 
 ### <a name="Bantu17">`Bantu17`</a>: noun class 17
 
-Noun class 17 can be used as a locative subject and as an adposition (most commonly) denoting location in space or time.
+Noun class 17 is used as a locative subject and as an adposition most commonly denoting location in space or time.
 It is also used as a verbal enclitic.
 
 #### Examples
@@ -199,7 +231,7 @@ It is also used as a verbal enclitic.
 
 ### <a name="Bantu18">`Bantu18`</a>: noun class 18
 
-Noun class 18 can be used as a locative subject and as an adposition (most commonly) denoting interiority.
+Noun class 18 is used as a locative subject and as an adposition most commonly denoting interiority.
 It is also used as a verbal enclitic.
 
 #### Examples
@@ -225,7 +257,7 @@ Noun class 22 is used to form augmentative plural nouns. The corresponding singu
 
 ### <a name="Bantu23">`Bantu23`</a>: noun class 23
 
-Noun class 23 can be used as a locative subject and as an adposition (most commonly). As an adposition, it is typically used with proper place names.
+Noun class 23 is used as a locative subject and as an adposition (most commonly). As an adposition, it is typically used with proper place names.
 It is also used as a verbal enclitic.
 
 #### Examples

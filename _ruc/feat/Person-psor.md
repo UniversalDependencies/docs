@@ -5,6 +5,16 @@ shortdef: 'person value of the possessor'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#1">1</a></td>
+  <td><a href="#2">2</a></td>
+  <td><a href="#3">3</a></td>
+</tr>
+</table>
+
+
 In Ruuli, possessive pronouns agree both with the possessor and the possessee. 
 The possessor agreement is marked by the final morpheme of the possessive pronoun. 
 `Person[psor]` reflects the person value of the possessor.

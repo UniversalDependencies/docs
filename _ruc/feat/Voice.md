@@ -5,18 +5,27 @@ shortdef: 'voice'
 udver: '2'
 ---
 
-Voice is a verbal category that changes the valence of the predicate, i.e. the number of core arguments and their semantic roles.
-Ruuli has several voice values: applicative, causative, passive, reciprocal, and reflexive.
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Appl">Appl</a></td>
+  <td><a href="#Cau">Cau</a></td>
+  <td><a href="#Pass">Pass</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
+  <td><a href="#Rfl">Rfl</a></td>
+</tr>
+</table>
+
 
 Ruuli can have more than a single voice value marked on the verb.
 In this case, we assume that each value is associated with a different stage of iterative morphological derivation. 
-The voice value at the first stage of derivation is annotated with the feature `Voice`.
-The voice value at the second stage of derivation is annotated with the feature [Voice[add]]().
+The voice value at the first stage of derivation is annotated with the feature [Voice]().
+The voice value at the second stage of the derivation is annotated with the feature [Voice[add]]().
 
 ### <a name="Appl">`Appl`</a>: applicative voice
 
 Applicative is realized with the suffix _-ir_.
-It introduces an additional core argument, commonly in the semantic role of a beneficiary.
+It introduces an additional core argument, commonly with the semantic role of a beneficiary.
 
 #### Examples
 
@@ -26,7 +35,8 @@ It introduces an additional core argument, commonly in the semantic role of a be
 ### <a name="Cau">`Cau`</a>: causative
 
 Causative is marked with the suffixes _-y_ and _-isy_.
-It introduces an additional core argument, commonly the causer of the event, while the event gets the reading of a caused activity or change of state.
+It introduces an additional core argument, commonly the causer of the event, while the event gets the reading of a caused activity or change of state. 
+It can be also used to introduce an instrument.
 
 #### Examples
 
@@ -47,7 +57,7 @@ The use of the passive suffix promotes the object argument to the subject positi
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
 Reciprocal is marked with the suffix _-angan_.
-It is used with dual subjects and shows that both subject participants undergo the action described by the verb.
+It is used with plural subjects and shows that all subject participants undergo the action referred to by the verb.
 
 #### Examples
 
@@ -62,5 +72,3 @@ It shows that the object argument is referentially identical with the subject ar
 #### Examples
 
 * _w<b>ee</b>sweke_ "cover yourself"
-
-
