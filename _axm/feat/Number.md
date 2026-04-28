@@ -79,9 +79,9 @@ Some geographical or biological/botanical names appear only in the plural form e
 
 #### Examples
 
-* _<b>արծուիք</b>_ “ascites”
-* _<b>երանք</b>_ “loins”
-* _<b>մեղանք</b>_ “wickedness”
+* _<b>արծուիք</b>_/_arçowik’_ “ascites”
+* _<b>երանք</b>_/_erank’_ “loins”
+* _<b>մեղանք</b>_/_meġank’_ “wickedness”
 
   
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
