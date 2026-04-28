@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Voice[add]'
-shortdef: 'additional value of voice'
+title: 'Voice'
+shortdef: 'voice'
 udver: '2'
 ---
 
