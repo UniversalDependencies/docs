@@ -10,7 +10,9 @@ udver: '2'
 
 * Words are generally delimited by whitespace or punctuation. No words with spaces inside them occur. Orthographic tokens generally correspond to single syntactic words.
 
-* Some functional words, however, fuse with their syntactic heads, e.g., the negation particle *aG*, the perfective auxiliary *jaG*, the relativizer *ane*, and the complementizer *me*. These multiword tokens are split to separate syntactic words in the treebank, following the practice of the Corpus Kadiwéu (Sandalo et al. 2024) at the Tycho Brahe Platform (Veronesi & Galves 2024).
+* Some functional words fuse with their syntactic heads, e.g., the negation particle *aG*, the perfective auxiliary *jaG*, the relativizer *ane*, and the complementizer *me*. For example, *mijo* is the contraction of *me* and the determiner *ijo*; both can surface as independent words. Likewise, the perfective marker *jaG* may occur either as a separate word or cliticized, as in *ja wajipata* (`PERF 3SG.ERG.listen=3SG.DAT`) and *jawajipata* (`PERF=3SG.ERG.listen=3SG.DAT`), both meaning 'He has listened to it' (Sandalo 1995:42). 
+
+* In the treebank, such cases are treated as multiword tokens (MWTs), following the practice of the Corpus Kadiwéu (Sandalo et al. 2024) at the Tycho Brahe Platform (Veronesi & Galves 2024). For example, *mijo* is analyzed as two syntactic words: a `SCONJ` node *me* and a `DET` node *ijo*.
 
 ## Morphology
 
@@ -19,7 +21,7 @@ udver: '2'
 * The Kadiwéu treebank presently employs 11 of the 17 universal POS tags, namely, ADJ, ADV, AUX, DET, NOUN, PART, PRON, PROPN, PUNCT, SCONJ, and VERB. The language lacks the ADP part of speech altogether; instead, it uses applicative morphology to convey the meaning of sentences that are expressed with prepositions in languages such as Portuguese and English (Galves et al. 2017, Sandalo & Galves 2023). The remaining tags have not yet been attested in the annotated data. The glossed examples in the literature, however, show that Kadiwéu possesses CCONJ, NUM, and INTJ.
 
 
-* The particle inventory is still under investigation; currently, *aG*, used for negation in main clauses, is the only consistently annotated item as PART. Further analysis is required to determine whether additional items should be annotated as PART, such as the reportative evidential one (Sandalo, 2023).
+* The particle inventory is still under investigation; currently, *aG*, used for negation in main clauses, is the only consistently annotated item as PART. Further analysis is required to determine whether additional items should be annotated as PART, such as the reportative evidential *one* (Sandalo, 2023).
 
 * Verbal agreement follows a person hierarchy: verbs index either the subject or the object, but not both simultaneously. For Sandalo (1995), tense is not grammaticalized in the language; only mood and aspect are realized by proclitics or independent words. Sandalo (2023) treats *domaGa* as a tense marker, expressing "prospective future". Following UD guidelines, we assign all TAM markers the AUX tag.
 
@@ -34,7 +36,7 @@ udver: '2'
 
 * In Griffiths' (2002) dictionary, nouns are generally marked for masculine or feminine gender. For example, *akiidi* 'river', *diimigi* 'house', and *nodaajo* 'knife', on the one hand, and *etogo* 'boat', *Gonoodo* 'mosquito', and *niale* 'tree', on the other hand, are assigned the labels **subst masc** and **subst fem**, which signal masculine and feminine gender, respectively. Sena (2025) observes that the grammatical gender of nouns designating animals is independent of semantic factors such as biological gender or size. Morphologically, the inherent gender of a noun surfaces in diminutive and plural morphemes. Syntactically, the gender of the head noun manifests itself in determiners with a numeral classifier morpheme (Sandalo & Michelioudakis 2016): *naGada niale* 'that tree' and *niGida nodajo* 'that knife'. In the treebank, all nouns are assigned a gender feature. Nouns which can bear both genders, such as *odawa*, which means 'husband' or 'wife', are assigned `Gender=Fem,Masc`.
 
-* Bare nouns without a plural morpheme denotes "a group with 1 or more representative of the kind" (Sandalo & Michelioudakis 2016). In the treebank, these nouns are assigned `Number=Sing`. Nouns with a plural morpheme are assigned `Number=Plur`. Kadiwéu nouns also inflect for degree — more specifically, the diminutive —, encoded as `Degree=Dim`, and the possessor’s person and number, encoded by means of the layered features Person[psor] and Number[psor]. During the development of the treebank, as more sentences are incorporated, new features will be proposed.
+* Bare nouns without a plural morpheme denote "a group with 1 or more representative of the kind" (Sandalo & Michelioudakis 2016). In the treebank, these nouns are assigned `Number=Sing`. By contrast, nouns with a plural morpheme are assigned `Number=Plur`. Kadiwéu nouns also inflect for degree — more specifically, the diminutive —, encoded as `Degree=Dim`, and the possessor’s person and number, encoded by means of the layered features Person[psor] and Number[psor]. During the development of the treebank, as more sentences are incorporated, new features will be proposed.
 
 * In Kadiwéu, as Galves et al. (2017:635) state, “there
 is no uninflected verbal root.” The language lacks infinitives and participles. All verb forms annotated so far are treated as finite (`VerbForm=Fin`), as no non-finite forms have been identified in the data. 
