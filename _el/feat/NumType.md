@@ -22,7 +22,7 @@ the following parts of speech:
 * [el-pos/NUM](): cardinal numerals
 * [el-pos/NOUN](): set denoting nouns
 * [el-pos/ADJ]():  ordinal and multiplicative adjectives, also fractions
-* [el-pos/ADV](): multiplicative adverbs
+* [el-pos/ADV](): ordinal and multiplicative adverbs
 
 ### <a name="Card">`Card`</a>: cardinal number
 
@@ -40,6 +40,9 @@ This is a subtype of adjective.
 
 <b>Adjectives</b>
 - _πρώτος, δεύτερος, τρίτος_  "first, second, third"
+
+<b>Adverbs</b>
+- _πρώτον, δεύτερον, τρίτον_  "firstly, secondly, thirdly"
 
 ### <a name="Frac">`Frac`</a>: fraction
 

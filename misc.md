@@ -62,11 +62,36 @@ are annotated in the file).
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpaceAfter$"><button>Table for <code>SpaceAfter</code> feature</button></a>
 
 ## Known optional attributes
-
-MISC attributes already attested in UD treebanks are listed here in alphabetical order
-together with brief documentation (and possibly with links to additional information).
+MISC attributes already attested in UD treebanks are as followed. They are also listed below in alphabetical order
+together with brief documentation (and possibly with links to additional information). We encourage treebank developpers to look at <a href="https://universaldependencies.org/survey-misc.html">the following page</a>, which can help identify errors in features.
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC"><button title="Large table listing MISC attributes and Treebanks">Table for MISC attributes</button></a>
+
+
+#### Attributes pertaining to surface format
+[Correct{Feature}](#correctfeature), [CorrectForm](#correctform), [CorrectSpaceAfter](#correctspaceafter), [ModernForm](#modernform), [NewPar](#newpar), [SpacesAfter](#spacesafter), [SpacesBefore](#spacesbefore), [XML](#xml)
+
+#### Attributes pertaining to data language and source
+[Gloss](#gloss), [Lang](#lang), [LGloss](#lgloss), [LTranslit](#ltranslit), [MGloss](#mgloss), [OrigLang](#origlang), [Ref](#ref), [Translit](#translit), [Vform](#vform)
+
+#### Attributes pertaining to morphology
+[Analysis](#analysis) = [Morf](#morf), [LDeriv](#lderiv), [LId](#lid), [LNumValue](#lnumvalue), [MSeg](#mseg), [Root](#root)
+
+#### Attributes pertaining to Tense, Aspect, Modality, Polarity
+[SType](#stype), [Tam](#tam), [TraditionalMood](#traditionalmood), [TraditionalTense](#traditionaltense), [Vib](#vib)
+
+#### Attributes linked to multi-word expressions and named entities
+[MWE](#mwe), [MWEPOS](#mwepos), [NamedEntity](#namedentity), [Proper](#proper)
+
+#### Attributes pertaining to discourse/coreference
+[Bridge](#bridge), [Discourse](#discourse), [Entity](#entity), [PDTB](#pdtb), [Split](#split)
+
+#### Attributes linked to syntactic relations and constructions
+[Reduplication](#reduplication), [Subject](#subject) 
+
+
+
+## Alphabetical list of features
 
 ### Analysis
 
@@ -122,6 +147,7 @@ Used in conjunction with [Entity](#Entity) to indicate bridging anaphora, by cre
 Here "the first" (entity number 144) and "the second" (entity number 146) are volumes of a "translation" (entity number 142), hence we have `Bridge=142<144` and `Bridge=142<146`, indicating that the identity of 144 and 146 is resolvable by reference to entity 142. See more information in the [Entity](#Entity) notation section and the documentation from the [Universal Anaphora format specifications](https://github.com/UniversalAnaphora/UniversalAnaphora/blob/main/documents/UA_CONLL_U_proposal_compact.md)
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Bridge$"><button>Table for <code>Bridge</code> feature</button></a>
+
 ### Correct{FEATURE}
 
 For instance: `CorrectCase`, `CorrectDegree`, `CorrectGender`, `CorrectMood`, `CorrectNumber`,

@@ -18,7 +18,7 @@ dep(is-convened, when)
 ~~~
 
 ~~~ sdparse
-Darbotvarkėje buvo iš 23 klausimai . \n There-were 23 items from the-agenda .
-dep(darbotvarkėje, iš)
-dep(from, the-agenda)
+Buvo iš 23 klausimai . \n 23 questions from were included .
+dep(įtraukti, iš)
+dep(from, included)
 ~~~

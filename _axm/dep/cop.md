@@ -13,25 +13,19 @@ The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjectiv
 or a [numeral](NUM).
 
 ~~~ sdparse
-Քո շունչդ է խնկան փոշի \n 
+Քո շունչդ է խնկան փոշի \n K’o šownčd ē xnkan p’oši \n Your breath is the dust of incense
 cop(փոշի, է)
 cop(dust, is)
 ~~~
 
 ~~~ sdparse
-ես պզտիկ էի \n I was little
+ես պզտիկ էի \n es pztik ēi \n I was little
 cop(պզտիկ, էի)
 cop(little, was)
 ~~~
 
 ~~~ sdparse
-Արդեն ուշ էր ։ \n It-was already late .
-cop(ուշ, էր)
-cop(late, It-was)
-~~~
-
-~~~ sdparse
-նեղերն այս են \n Its signs are these
+նեղերն այս են \n neġern ays en \n Its symptoms are these
 cop(այս, են)
 cop(these, are)
 ~~~

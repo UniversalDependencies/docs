@@ -36,9 +36,11 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the [Reflex]() fe
 * _ինձ (ինձի, ինձիկ)/inj (inji, injik)_ “me”, _քեզ (քեզի, քեզիկ, քէ)/k’ez (k’ezi, k’ezik, k’ē)_ “you”, _իրեն/iren_ “him/her”, _մեզ (մեզի, մեզիկ)/mez (mezi, mezik)_ “us”, _ձեզ/jez_ “you”, _իրենց (իւրեանց, իւրենց)/irenc’ (iwreanc’, iwrenc’)_ “them”
 
 
-### <a name="Pօss">`Pօss`</a>: possessive pronoun or determiner
+### <a name="Poss">`Poss`</a>: possessive pronoun or determiner
 
 In Middle Armenian, a separate nominal declension paradigm is formed from the genitive forms of personal pronouns. Consequently, a distinction is made between possessive determiners and possessive pronouns.
+
+#### Examples
 
 <b>Possessive personal determiners:</b>
 *  _իմ/im_ “my”, _քո/ko_ “your”, _իւր (իր)/iwr (ir)_ “his/her/its”, _մեր/mer_ “our”, _ձեր/jer_ “your”, _իրենց (իրանց, իւրեանց, իւրենց)/irenc’ (iranc’, iwreanc’,  iwrenc’)_ “their”
@@ -113,6 +115,17 @@ Note that in Middle Armenian there is a distinction between proximal or first pe
 * _հանչաք/hančak’_ “this much, that much”
 * _յայնժամ/yaynžam_ “at the time”
 * _միւս/miws_ “(the) other”
+
+
+### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
+
+As emphatic pro-adjectives (determiners) emphasize the nominal they depend on. They are the same with the personal pronoun of the 3rd person and are also used as demonstrative, reflexive and possessive pronouns / determiners.
+
+See also the [Number[psor]]() and [Person[psor]]() features for further details.
+
+#### Examples
+
+* _ինք_/_ink'_, _իրենք_/_irenk'_, _իր (իւր)_/_ir (iwr)_, _իրեն (իւրն)_/_iren (iwrn)_  “he (himself), they (themselves), his(him)/her” as in _զի այս թագաւորին է՝ որ <b>ինքն</b> դատէ_/__ “For this belongs to the King—that he judges (these cases) <b>himself</b>”.
 
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner

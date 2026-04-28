@@ -5,7 +5,7 @@ shortdef: 'punctuation'
 udver: '2'
 ---
 
-This is used for any piece of punctuation in a clause.
+This relation is used for any piece of punctuation in a clause.
 See
 
 ~~~ sdparse

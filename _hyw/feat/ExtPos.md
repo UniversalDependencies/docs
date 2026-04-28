@@ -100,4 +100,10 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 #### Examples
 
 * _<b>դժուար թէ</b>_ (a multiword particle paraphrasable as “hardly”; the first node is [ADJ]())
+
+### <a name="INTJ">`INTJ`</a>: interjection-like expression
+
+#### Examples
+
+* _<b>ափսոս որ</b>_ (a multiword interjection paraphrasable as “...”; the first node is [INTJ]())
   

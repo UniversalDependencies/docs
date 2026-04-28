@@ -22,7 +22,6 @@ word(s) typically belongs to a part of speech other than [u-pos/X]().
 #### Examples
 
 - Proper Noun: _ΔΕΗ, ΗΠΑ_ 
-- Adposition:  _πχ_
-- Adverb: _περ. (περίπου)_
+- Adverb: _περ. (περίπου), π.χ., πχ_
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:59 CET -->

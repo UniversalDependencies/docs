@@ -8,52 +8,62 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* Words are generally delimited by whitespace or punctuation. No words with spaces inside them occur. Orthographic tokens generally correspond to single syntactic words.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* Some functional words, however, fuse with their syntactic heads, e.g., the negation particle *aG*, the perfective auxiliary *jaG*, the relativizer *ane*, and the complementizer *me*. These multiword tokens are split to separate syntactic words in the treebank, following the practice of the Corpus Kadiwéu (Sandalo et al. 2024) at the Tycho Brahe Platform (Veronesi & Galves 2024).
 
 ## Morphology
 
 ### Tags
 
-*
+* The Kadiwéu treebank presently employs 11 of the 17 universal POS tags, namely, ADJ, ADV, AUX, DET, NOUN, PART, PRON, PROPN, PUNCT, SCONJ, and VERB. The language lacks the ADP part of speech altogether; instead, it uses applicative morphology to convey the meaning of sentences that are expressed with prepositions in languages such as Portuguese and English (Galves et al. 2017, Sandalo & Galves 2023). The remaining tags have not yet been attested in the annotated data. The glossed examples in the literature, however, show that Kadiwéu possesses CCONJ, NUM, and INTJ.
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
----
+* The particle inventory is still under investigation; currently, *aG*, used for negation in main clauses, is the only consistently annotated item as PART. Further analysis is required to determine whether additional items should be annotated as PART, such as the reportative evidential one (Sandalo, 2023).
+
+* Verbal agreement follows a person hierarchy: verbs index either the subject or the object, but not both simultaneously. For Sandalo (1995), tense is not grammaticalized in the language; only mood and aspect are realized by proclitics or independent words. Sandalo (2023) treats *domaGa* as a tense marker, expressing "prospective future". Following UD guidelines, we assign all TAM markers the AUX tag.
+
+* Kadiwéu has personal pronouns for the first and second person. Determiners with anaphoric or deictic meaning can be used as heads of noun phrases to refer to third-person entities. Determiners and non-personal pronouns differ primarily in syntactic behavior, i.e., whether they modify a noun or function as the head of the NP.
+
+* An ADJ or NOUN can be derived from a verb in Kadiwéu by means of certain affixes. Adverbs derived from verbs do not occur in the treebank sentences.
+
 
 ### Features
 
-*
+* As a polysynthetic language, Kadiwéu has a rich, very complex morphology. 
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+* In Griffiths' (2002) dictionary, nouns are generally marked for masculine or feminine gender. For example, *akiidi* 'river', *diimigi* 'house', and *nodaajo* 'knife', on the one hand, and *etogo* 'boat', *Gonoodo* 'mosquito', and *niale* 'tree', on the other hand, are assigned the labels **subst masc** and **subst fem**, which signal masculine and feminine gender, respectively. Sena (2025) observes that the grammatical gender of nouns designating animals is independent of semantic factors such as biological gender or size. Morphologically, the inherent gender of a noun surfaces in diminutive and plural morphemes. Syntactically, the gender of the head noun manifests itself in determiners with a numeral classifier morpheme (Sandalo & Michelioudakis 2016): *naGada niale* 'that tree' and *niGida nodajo* 'that knife'. In the treebank, all nouns are assigned a gender feature. Nouns which can bear both genders, such as *odawa*, which means 'husband' or 'wife', are assigned `Gender=Fem,Masc`.
 
----
+* Bare nouns without a plural morpheme denotes "a group with 1 or more representative of the kind" (Sandalo & Michelioudakis 2016). In the treebank, these nouns are assigned `Number=Sing`. Nouns with a plural morpheme are assigned `Number=Plur`. Kadiwéu nouns also inflect for degree — more specifically, the diminutive —, encoded as `Degree=Dim`, and the possessor’s person and number, encoded by means of the layered features Person[psor] and Number[psor]. During the development of the treebank, as more sentences are incorporated, new features will be proposed.
+
+* In Kadiwéu, as Galves et al. (2017:635) state, “there
+is no uninflected verbal root.” The language lacks infinitives and participles. All verb forms annotated so far are treated as finite (`VerbForm=Fin`), as no non-finite forms have been identified in the data. 
+
+* A verb receives the feature `Mood=Ind` unless it is marked with the *dGa* and *domaGa* proclitics, which signal the conditional and the desiderative mood, respectively (Sandalo 1995). There is no marker for the imperative mood. One and the same sentence can convey a declarative or directive speech act, depending on context.
+
+* Layered features indicate absolutive or ergative agreement with the subject or object as well as agreement with indirect objects. At least one verb, among the sentences annotated so far, also exhibit gender agreement with the subject. Applicative verb forms are also assigned layered features indicating gender,  person, or number of the applied argument.
+
+* Verb forms with no voice markers are assigned no voice features, which implies they are in the active voice. The treebank presently has verbs with features indicating the inverse voice and the applicative voice. 
+
 
 ## Syntax
 
-*
+* Kadiwéu is both subject and object pro-drop.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+* In intransitive clauses with an explicit subject, the nominal referenced by an absolutive prefix on the verb is the subject.
 
----
+* In transitive clauses, person and number agreement is the main indicator for identifying subjects and objects expressed by a nominal. If both the subject and object are third person, either SVO and OVS is licensed, although the former seems to be more frequent (Sandalo 2023). This can lead to ambiguous sentences, such as *Goti yemaa Ecodi*, which means either “Goti loves Ecodi” or “Ecodi loves Goti” (Sandalo & Galves 2025). However, SOV is obligatory if the object is a first or second person.
+
+* Kadiwéu seems to lack copulas. To assign a quality to an entity referred to by an NP, the language uses a possessive construction, where a possessive NP denoting the quality is juxtaposed to the NP being predicated, e.g., Ica liwigo libinienigi. (M.CL 3POSS.photo 3POSS.beauty.DIM.M ‘This photo of hers is beautiful.’, literally ‘That photo of hers its beauty.’ or ‘The beauty of that photo of hers.’)
+
+* In the verbless sentences annotated so far, the subject is the leftmost NP, while the rightmost NP is the predicative, as in the above example.
+
+* Presently, 13 dependency relations are used, 2 of them, acl:relcl and nmod:poss, are subtyped.
+
 
 ## Treebanks
 
-There are [N](../treebanks/kbc-comparison.html) Kadiweu UD treebanks:
+  There is one Kadiwéu UD treebank:
 
-  * [Kadiweu-A](../treebanks/kbc_a/index.html)
-  * [Kadiweu-B](../treebanks/kbc_b/index.html)
+  * [UD_Kadiweu-UNICAMP](../treebanks/kbc_unicamp/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----

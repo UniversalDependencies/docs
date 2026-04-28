@@ -8,7 +8,7 @@ udver: '2'
 The `advmod:neg` relation is used to confer negative polarity to any other element than predicate. Most often it is used for negation particle _ni_.
 
 ~~~ conllu
-# sentence-label They have no idea who wrote it.
+# sentence-label He has no idea who wrote it [down].
 # text = Jim nav ni jausmys, kurs tū pīraksteja.
 1	Jim	jis	PRON	pp3mpdn	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	2:obl:dat	LvtbNodeId=a-ltg-Cairo-p12s1w1
 2	nav	nabyut	VERB	vmnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-ltg-Cairo-p12s1w2
