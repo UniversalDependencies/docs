@@ -65,31 +65,33 @@ are annotated in the file).
 MISC attributes already attested in UD treebanks are as followed. They are also listed below in alphabetical order
 together with brief documentation (and possibly with links to additional information). We encourage treebank developpers to look at <a href="https://universaldependencies.org/survey-misc.html">the following page</a>, which can help identify errors in features.
 
-### Attributes pertaining to surface format
+<a href="http://tables.grew.fr/?data=ud_feats/MISC"><button title="Large table listing MISC attributes and Treebanks">Table for MISC attributes</button></a>
+
+
+#### Attributes pertaining to surface format
 [Correct{Feature}](#correctfeature), [CorrectForm](#correctform), [CorrectSpaceAfter](#correctspaceafter), [ModernForm](#modernform), [NewPar](#newpar), [SpacesAfter](#spacesafter), [SpacesBefore](#spacesbefore), [XML](#xml)
 
-### Attributes pertaining to data language and source
+#### Attributes pertaining to data language and source
 [Gloss](#gloss), [Lang](#lang), [LGloss](#lgloss), [LTranslit](#ltranslit), [MGloss](#mgloss), [OrigLang](#origlang), [Ref](#ref), [Translit](#translit), [Vform](#vform)
 
-### Attributes pertaining to morphology
+#### Attributes pertaining to morphology
 [Analysis](#analysis) = [Morf](#morf), [LDeriv](#lderiv), [LId](#lid), [LNumValue](#lnumvalue), [MSeg](#mseg), [Root](#root)
 
-### Attributes pertaining to Tense, Aspect, Modality, Polarity
+#### Attributes pertaining to Tense, Aspect, Modality, Polarity
 [SType](#stype), [Tam](#tam), [TraditionalMood](#traditionalmood), [TraditionalTense](#traditionaltense), [Vib](#vib)
 
-### Attributes linked to multi-word expressions and named entities
+#### Attributes linked to multi-word expressions and named entities
 [MWE](#mwe), [MWEPOS](#mwepos), [NamedEntity](#namedentity), [Proper](#proper)
 
-### Attributes pertaining to discourse/coreference
+#### Attributes pertaining to discourse/coreference
 [Bridge](#bridge), [Discourse](#discourse), [Entity](#entity), [PDTB](#pdtb), [Split](#split)
 
-### Attributes linked to syntactic relations and constructions
+#### Attributes linked to syntactic relations and constructions
 [Reduplication](#reduplication), [Subject](#subject) 
 
 
 
-
-<a href="http://tables.grew.fr/?data=ud_feats/MISC"><button title="Large table listing MISC attributes and Treebanks">Table for MISC attributes</button></a>
+## Alphabetical list of features
 
 ### Analysis
 
