@@ -200,6 +200,8 @@ The object prefix of noun class 13 is _tu-_.
 This class is used to form diminutive mass nouns. 
 There is no corresponding plural class.
 
+#### Examples
+
 * _Otulo, n-ku-<b>tw</b>-endya._<br>
   13.some_sleep 1sg.SBJV-PROG-**NC13.OBJ**-need<br>
   "Some sleep, I need **it**." (_tw-_ is the surface form of the underlying _tu-_; the glide /w/ is conditioned by the following vowel)
