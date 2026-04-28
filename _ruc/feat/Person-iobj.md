@@ -5,7 +5,17 @@ shortdef: 'person agreement with indirect object'
 udver: '2'
 ---
 
-The indirect object [iobj]() is a core argument of ditransitive predicates in the semantic role of a recipient, a beneficiary, or a source.
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#1">1</a></td>
+  <td><a href="#2">2</a></td>
+  <td><a href="#3">3</a></td>
+</tr>
+</table>
+
+
+The indirect object [iobj]() is a core argument of ditransitive predicates and usually has the semantic role of a recipient or a goal.
 The indirect object can be marked on the verb as the second object prefix, following the subject prefix and the prefix of the direct object.
 
 The prefix of the indirect object reflects its person.

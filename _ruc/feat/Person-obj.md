@@ -5,6 +5,16 @@ shortdef: 'person agreement with object'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#1">1</a></td>
+  <td><a href="#2">2</a></td>
+  <td><a href="#3">3</a></td>
+</tr>
+</table>
+
+
 The object prefix on the verb reflects the person value of the object.
 
 ### <a name="1">`1`</a>: first

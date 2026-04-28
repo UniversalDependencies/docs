@@ -5,11 +5,11 @@ shortdef: 'descriptor modifier in nominal'
 udver: '2'
 ---
 
-In Ruuli, the `nmod:desc` relation is used for nominal descriptors: nouns that modify a name and provide classification or disambiguation (e.g., titles and roles). These elements are optional and can be omitted without affecting grammaticality.
+In Ruuli, the `nmod:desc` relation is used for nominal descriptors, i.e. nouns that modify a name and provide classification or disambiguation (e.g. titles and roles). These elements are optional and can be omitted without affecting grammaticality.
 
 <!-- Descriptors differ from [appos]() in that they function as modifiers rather than full nominals. They are also distinct from [flat:name](), which is used for multiword names without internal syntactic structure. -->
 
-Typical cases include titles and role nouns associated with personal names.
+Typical cases include nouns of titles and roles associated with personal names.
 
 ### Examples
 
@@ -30,7 +30,7 @@ nmod:desc(Saito-5, Mr)
 ~~~
 
 ~~~ sdparse
-onanka oiba \n whats_his_name husband
+onanka oiba \n what's_his_name husband
 nmod:desc(onanka, oiba)
 nmod:desc(onanka, husband)
 ~~~

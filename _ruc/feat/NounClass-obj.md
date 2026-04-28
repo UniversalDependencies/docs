@@ -5,8 +5,37 @@ shortdef: 'noun class agreement with object'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td rowspan="2" style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Bantu1">Bantu1</a></td>
+  <td><a href="#Bantu2">Bantu2</a></td>
+  <td><a href="#Bantu3">Bantu3</a></td>
+  <td><a href="#Bantu4">Bantu4</a></td>
+  <td><a href="#Bantu5">Bantu5</a></td>
+  <td><a href="#Bantu6">Bantu6</a></td>
+  <td><a href="#Bantu7">Bantu7</a></td>
+  <td><a href="#Bantu8">Bantu8</a></td>
+  <td><a href="#Bantu9">Bantu9</a></td>
+  <td><a href="#Bantu10">Bantu10</a></td>
+</tr>
+<tr>
+  <td><a href="#Bantu11">Bantu11</a></td>
+  <td><a href="#Bantu12">Bantu12</a></td>
+  <td><a href="#Bantu13">Bantu13</a></td>
+  <td><a href="#Bantu14">Bantu14</a></td>
+  <td><a href="#Bantu15">Bantu15</a></td>
+  <td><a href="#Bantu22">Bantu22</a></td>
+  <td><a href="#Bantu23">Bantu23</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
+
+
 In Ruuli, objects are often marked on the verb as the object prefix, which follows the subject prefix (except for imperatives and infinitives, which do not have subject prefixes).
-Third-person object markers agree with the object in noun class, according to the mapping in the table below.
+Third-person object prefixes agree with the object in person, number, and – for the third person – in noun class, according to the mapping in the table below.
 
 | Noun Class (NC) |Object Prefix |
 |------|--------|
@@ -28,13 +57,13 @@ Third-person object markers agree with the object in noun class, according to th
 | 20 | _gu-_ | 
 | 22 | _ga-_ | 
 
-The paradigm of object prefixes excludes locative classes 16, 17, 18, and 23 as they do not contain nouns and cannot be used as objects; 
+The paradigm of object prefixes excludes the locative classes 16, 17, 18, and 23 as they do not contain nouns and cannot be used as objects. 
 Proto-Bantu noun classes 19 and 21 are not attested in Ruuli.
 
 ### <a name="Bantu1">`Bantu1`</a>: noun class 1
 
-The object prefix of noun class 1 is _mu-_.
-This class contains singular nouns, mostly for humans. The corresponding plural classes are `Bantu2` and `Bantu10`.
+The object prefix of the noun class 1 is _mu-_are
+This class contains singular nouns, mostly for humans. The corresponding plural noun classes are `Bantu2` and, with some nouns, `Bantu10`.
 
 #### Examples
 
@@ -45,7 +74,7 @@ This class contains singular nouns, mostly for humans. The corresponding plural 
 ### <a name="Bantu2">`Bantu2`</a>: noun class 2
 
 The object prefix of noun class 2 is _ba-_.
-This class contains plural nouns, mostly for humans. The corresponding singular class is `Bantu1`.
+This class contains plural nouns with human reference. The corresponding singular class is `Bantu1`.
 
 #### Examples
 
@@ -90,6 +119,7 @@ This class contains singular nouns. The corresponding plural class is `Bantu6`.
 
 The object prefix of noun class 6 is _ga-_.
 This class contains plural and uncountable nouns. The corresponding singular class is `Bantu5`.
+This class contains plural and mass nouns. The corresponding singular class is `Bantu5`.
 
 #### Examples
 
@@ -155,7 +185,7 @@ This class contains singular nouns. The corresponding plural class is `Bantu10`.
 ### <a name="Bantu12">`Bantu12`</a>: noun class 12
 
 The object prefix of noun class 12 is _ka-_. 
-This class contains singular and uncountable nouns. It is also used to form diminutive singular nouns. 
+This class contains singular and mass nouns. It is also used to form diminutive singular nouns. 
 The corresponding plural class is `Bantu14`.
 
 #### Examples
@@ -164,16 +194,20 @@ The corresponding plural class is `Bantu14`.
   NC2.SBJ-**NC12.OBJ**-fry NC12.millet<br>
   "They fry **it**, the millet."
 
-<!--### <a name="Bantu13">`Bantu13`</a>: noun class 13
+### <a name="Bantu13">`Bantu13`</a>: noun class 13
 
 The object prefix of noun class 13 is _tu-_.
-This class is used to form diminutive uncountable nouns. 
-There is no corresponding plural class.-->
+This class is used to form diminutive mass nouns. 
+There is no corresponding plural class.
+
+* _Otulo, n-ku-<b>tw</b>-endya._<br>
+  13.some_sleep 1sg.SBJV-PROG-**NC13.OBJ**-need<br>
+  "Some sleep, I need **it**." (_tw-_ is the surface form of the underlying _tu-_; the glide /w/ is conditioned by the following vowel)
 
 ### <a name="Bantu14">`Bantu14`</a>: noun class 14
 
 The object prefix of noun class 14 is _bu-_.
-This class contains multiple abstract nouns. It is also used to form diminutive plural nouns. 
+This class contains abstract nouns. It is also used to form diminutive plural nouns. 
 The corresponding singular class is `Bantu12`.
 
 #### Examples

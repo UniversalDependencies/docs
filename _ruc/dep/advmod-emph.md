@@ -5,14 +5,14 @@ shortdef: 'emphasizing word, intensifier'
 udver: '2'
 ---
 
-In Ruuli, the `advmod:emph` relation is used for focus clitics *=mbe*, *=na* (or *na=*), and *=te* (tagged [PART]() with [InfStruct]()=`Foc`).
+In Ruuli, the `advmod:emph` relation is used for focus clitics *=mbe*, *=na*/*na=* (tagged [PART]() with [InfStruct]()=`Foc`), and the topic particle *=te* (tagged [PART]() with [InfStruct]()=`Top`).
 
-These particles emphasize the constituent to which they attach. Accordingly, they depend on the head of that constituent. An exception arises when a focus clitic attaches directly to a conjunction; in such cases, it instead depends on the root of the clause.
+These clitics emphasize the constituent to which they attach. Accordingly, they depend on the head of that constituent. An exception arises when an information structure clitic attaches directly to a conjunction; in such cases, it instead depends on the root of the clause.
 
 * *=mbe*, as in *Okwo<b>mbe</b> notambula nolya* "There you would walk and eat," where *=mbe* focuses *okwo* "there".
-* *=na* or *na=*, as in *Njee<b>na</b> neelumira eyo* "I also cultivate for myself there," where *=na* focuses *nje* "I".
-* *=te*, as in *Enkulaakulana<b>te</b> netabbaawo* "There is no development there," where *=te* focuses *enkulaakulana* "development".
-* *=te* following a conjunction, as in *Ate<b>te</b> leka nkukobere...* "And let me tell you...", where *=te* depends on the clause head *leka* "let" as its governor.
+* *=na* or *na=*, as in *Njee<b>na</b> neelumira eyo* "I also cultivate for myself there," where *=na* has the scope over *nje* "I".
+* *=te*, as in *Enkulaakulana<b>te</b> netabbaawo* "There is no development there," where *=te* has the scope over *enkulaakulana* "development".
+* *=te* following a conjunction, as in *Ate<b>te</b> leka nkukobere…* "And let me tell you…", where *=te* is a dependent of the clause head *leka* "let".
 
 ~~~ sdparse
 Okwo mbe notambula nolya . \n There FOC you_walk you_eat .
@@ -27,13 +27,13 @@ advmod:emph(I, ADD.FOC)
 ~~~
 
 ~~~ sdparse
-Enkulaakulana te netabbaawo . \n Development FOC is_not there .
+Enkulaakulana te netabbaawo . \n Development TOP is_not there .
 advmod:emph(Enkulaakulana, te)
 advmod:emph(Development, FOC)
 ~~~
 
 ~~~ sdparse
-Ate te leka nkukobere ... \n And FOC let I_tell_you ...
+Ate te leka nkukobere … \n And TOP let I_tell_you …
 advmod:emph(leka, te)
 advmod:emph(let, FOC)
 ~~~
