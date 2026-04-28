@@ -8,8 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Assoc">Assoc</a></td>
-  <td><a href="#Coll">Coll</a></td>
+    <td><a href="#Coll">Coll</a></td>
   <td><a href="#Plur">Plur</a></td>
   <td><a href="#Ptan">Ptan</a></td>
   <td><a href="#Sing">Sing</a></td>
@@ -73,6 +72,18 @@ Demonstrative pronouns that refer to plural nouns, but not demonstrative determi
 * _<b>նոքա</b>/nok’a_ “those”
 * _<b>այնոք</b>/aynok'_ “those”
 
+
+### <a name="Ptan">`Ptan`</a>: plurale tantum
+
+Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). We mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like singulars, so `Ptan` is obviously the back-off value here.
+
+#### Examples
+
+* _<b>արծուիք</b>_ “ascites”
+* _<b>երանք</b>_ “loins”
+* _<b>մեղանք</b>_ “wickedness”
+
+  
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
 Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they are able to form plural. In practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
@@ -81,6 +92,5 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 
 * _<b>դահութիւն</b>/dahowt’iwn_ “old age”
 * _<b>խիփ</b>/xip’_ “shame, reverence”
-* _<b>ջուր</b>/jur_ “water”
 * _<b>պօղպատ</b>/pòġpat_ “steel”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->
