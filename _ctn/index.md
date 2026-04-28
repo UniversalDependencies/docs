@@ -68,7 +68,7 @@ udver: '2'
 
 #### Verbal Features
 
-* [VERB]() may have [Aspect]() (`ComplImp`, `ComplPerf`, `ComplPerfv`, `Imp`, `Perf`, `Perfv`), [Mood]() (`Imp`, `Ind`, `Opt`, `Sub`), [Tense]() (`Past`, `Pres`), [Voice]() (`Act`, `Rcp`, `Refl`, `CauRcp`, `CauRefl`), and [VerbForm]() (`Conv`, `Fin`, `Inf`, `Part`).
+* [VERB]() may have [Aspect]() (`ComplImp`, `ComplPerf`, `ComplPerfv`, `Imp`, `Perf`, `Perfv`), [Mood]() (`Imp`, `Ind`, `Opt`, `Sub`), [Tense]() (`Past`, `Pres`), [Voice]() (`Act`, `Rcp`, `Rfl`, `CauRcp`, `CauRfl`), and [VerbForm]() (`Conv`, `Fin`, `Inf`, `Part`).
   * Converbs ([VerbForm]()=`Conv`) additionally carry [ConvType]() (`Cntf`, `Coord`, `Purp`) feature.
 * The reportative evidential *=pho* uses [Evident]()=`Nfh`.
 

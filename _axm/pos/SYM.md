@@ -10,7 +10,7 @@ udver: '2'
 A symbol is a word-like entity that differs from ordinary words by form, function, or both.
 
 Many symbols are or contain special non-alphanumeric characters, similarly to [punctuation](PUNCT). What makes them different from punctuation is that they can be substituted by normal words.
-This involves all alchemichal and asrtonomical symbols, e.g. _☉_ is identical to _gold, Sun_; _☽_ is identical to _silver, Moon_; _☿_ is identical to _quicksilver, Mercury_.
+This involves all alchemichal and asrtonomical symbols, e.g. _☉_ is identical to _gold_ and _Sun_; _☽_ is identical to _silver_ and _Moon_; _☿_ is identical to _quicksilver_ and _Mercury_.
 
 Mathematical operators form another group of symbols.
 

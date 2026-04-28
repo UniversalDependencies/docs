@@ -17,13 +17,13 @@ To make the annotation parallel across languages, it should be now tagged `PRON`
 
 ### Examples
 
-- personal pronouns: _ես/es, դու/dow, ինք/ink’, մեք/mek’, դուք/dowk’, իրենք/irenk’&nbsp;_ “I, you, he/she/it, we, you, they”
-- possessive pronouns (which usually stand alone as a nominal): _իմ/im, քո/ko, մեր/mer, ձեր/jer, իւր/iwr (իր)&nbsp;_ “my, your, our, your (pl.), his/her/its”
-- demonstrative pronouns: _սա/sa, դա/da, նա/na, (սոքա/soka, դոքա/doka, նոքա/noka ), այս/ays, այդ/ayd, այն/ayn (այսոք/aysok’, այդոք/aydok’, այնոք/aynok’), իսա, իտա (իդա), ինա&nbsp;_ “this, that, that”
--	reciprocal pronouns:  _իրաց/irac’, միմեանց/mimeanc’ (միմենց/mimenc’)&nbsp;_ “one another, each other”
-- interrogative pronouns: _ո՞վ/ov, զի՞նչ/zinč&nbsp;_ “who?, what?”
-- relative pronouns: _ով/ov, որ/or, զինչ/zinč&nbsp;_ “who, that/which, what”
-- indefinite pronouns: _մարդ/mard, ոք/ok’, մէկ մի/mēk mi, այլ/ayl, մէկայլ/mēkayl, միւս/miws&nbsp;_ “one/someone, one/someone, one/any, other, another”
-- total pronouns: _ամէն/amēn, ամէն մէկ/amēn mēk&nbsp;_ “all (of things)/all (of people), everyone”
-- negative pronouns: _ոչ ով, ոչինչ, ոչ որ&nbsp;_ “nobody, nothing, no one”
+- personal pronouns: _ես/es, դու/dow, ինք/ink’, մեք/mek’, դուք/dowk’, իրենք/irenk’_ “I, you, he/she/it, we, you, they”
+- possessive pronouns (which usually stand alone as a nominal): _իմ/im, քո/ko, իւր (իր)/iwr (ir), մեր/mer, ձեր/jer, իրենց (իրանց, իւրեանց, իւրենց)/irenc’ (iranc’, iwreanc’,  iwrenc’)_ “my, your, our, your (pl.), his/her/its, their”
+- demonstrative pronouns: _սա/sa, դա/da, նա/na, (սոքա/soka, դոքա/doka, նոքա/noka ), այս/ays, այդ/ayd, այն/ayn (այսոք/aysok’, այդոք/aydok’, այնոք/aynok’), իսա, իտա (իդա), ինա_ “this, that, that”
+-	reciprocal pronouns:  _իրաց/irac’, միմեանց/mimeanc’ (միմենց/mimenc’)_ “one another, each other”
+- interrogative pronouns: _ո՞վ/ov, զի՞նչ/zinč_ “who?, what?”
+- relative pronouns: _ով/ov, որ/or, զինչ/zinč_ “who, that/which, what”
+- indefinite pronouns: _մարդ/mard, ոք/ok’, մէկ մի/mēk mi, այլ/ayl, մէկայլ/mēkayl, միւս/miws_ “one/someone, one/someone, one/any, other, another”
+- total pronouns: _ամէն/amēn, ամէն մէկ/amēn mēk_ “all (of things)/all (of people), everyone”
+- negative pronouns: _ոչ ով, ոչինչ, ոչ որ_ “nobody, nothing, no one”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:53 CET -->

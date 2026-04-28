@@ -8,12 +8,9 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Com">Com</a></td>
   <td><a href="#Geo">Geo</a></td>
   <td><a href="#Giv">Giv</a></td>
   <td><a href="#Oth">Oth</a></td>
-  <td><a href="#Pat">Pat</a></td>
-  <td><a href="#Pro">Pro</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Sur">Sur</a></td>
 </tr>
@@ -29,7 +26,7 @@ Names of cities, countries, rivers, mountains etc.
 
 #### Examples
 
-* _<b>Պօլիս</b>/Pòlis, <b>Շուղր</b>/Šowġr, <b>Հռօմկլայ</b>/Hṙòmklay, <b>Մերզիման</b>/Merziman, <b>Սամոսատ</b>/Samosat_ “Constantinople, Shughr, Rumkale, Germany, of Van, of Sevan”
+* _<b>Պօլիս</b>/Pòlis, <b>Շուղր</b>/Šowġr, <b>Հռօմկլայ</b>/Hṙòmklay, <b>Մերզիման</b>/Merziman, <b>Սամոսատ</b>/Samosat_ “Constantinople, Shughr, Rumkale, Merzumen”
 
 ### <a name="Prs">`Prs`</a>: name of person
 

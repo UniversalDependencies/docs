@@ -8,7 +8,7 @@ udver: '2'
 
 The `fixed` relation is used for certain fixed grammaticized expressions. It is an internal relation annotated between the words of a multiword expression. Such expressions tend to behave like function words.
 
-Fixed expressions typically do not allow intervening words. The assumption is that these expressions do not have any internal syntactic structure and that the structural annotation is in principle arbitrary. Therefore, if a word attaches as `fixed`, it should not have any dependents (except perhaps [punct](), [goeswith](), and (reparandum]() dependents, as these are not true syntactic relations).
+Fixed expressions typically do not allow intervening words. The assumption is that these expressions do not have any internal syntactic structure and that the structural annotation is in principle arbitrary. Therefore, if a word attaches as `fixed`, it should not have any dependents (except perhaps [punct](), [goeswith](), and [reparandum]() dependents, as these are not true syntactic relations).
 
 The label `fixed` in Lithuanian is used for fossilized expressions (pronouns, adverbs, particles, conjunctions, or other phrases) in which there is a very tight internal connection between the words, the phrase is relatively stable, but it is not considered a morphological compound.
 

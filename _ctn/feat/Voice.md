@@ -11,13 +11,13 @@ udver: '2'
   <td><a href="#Act">Act</a></td>
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#CauRcp">CauRcp</a></td>
-  <td><a href="#CauRefl">CauRefl</a></td>
+  <td><a href="#CauRfl">CauRfl</a></td>
   <td><a href="#Rcp">Rcp</a></td>
-  <td><a href="#Refl">Refl</a></td>
+  <td><a href="#Rfl">Rfl</a></td>
 </tr>
 </table>
 
-In Chintang, `Voice` is a feature of [VERB](). A verb may contain a combination of two voice markers when one of them is the causative (`CauRcp`, `CauRefl`).
+In Chintang, `Voice` is a feature of [VERB](). A verb may contain a combination of two voice markers when one of them is the causative (`CauRcp`, `CauRfl`).
 
 ### <a name="Act">`Act`</a>: active
 
@@ -43,7 +43,7 @@ Used when a plural subject acts both as agents and patients, each performing and
 
 * *Aya, bace na khalli <b>tɨŋkatɨŋta</b> uluceke hou!* "Whew, these two <b>kick each other</b> all the time!"
 
-### <a name="Refl">`Refl`</a>: reflexive
+### <a name="Rfl">`Rfl`</a>: reflexive
 
 The reflexive voice decreases the valency of the verb by one. The subject acts upon itself — the agent and patient are identical. This value is used when the verb has one of the reflexive suffixes: *-na* (present in all finite forms), *-ci* (finite singular), or *-ncĩ* (finite non-singular and non-finite forms).
 
@@ -60,7 +60,7 @@ Used when the verb carries both causative and reciprocal morphology. This combin
 
 * *<b>Hapmeiʔkameiʔ</b> luma maha o.* "No <b>making each other cry</b>, alright?"
 
-### <a name="CauRefl">`CauRefl`</a>: causative + reflexive
+### <a name="CauRfl">`CauRfl`</a>: causative + reflexive
 
 Used when the verb carries both causative and reflexive morphology. This combination does not change the transitivity of the verb. It indicates that the causer and causee are the same entity -- the subject acts upon itself.
 

@@ -5,8 +5,6 @@ shortdef : 'descriptor modifier in nominal'
 udver: '2'
 ---
 
-** IMPLEMENTATION IN PROGRESS **
-
 This relation subtype applies to nominal modifiers that we term __descriptors__.
 These are bare nominals that occur in or with a name, and are not prepositional/possessive
 or part of the English compound construction.
@@ -25,12 +23,12 @@ In principle, descriptors are a special case of [nmod:unmarked]().
 
 One descriptor construction is the pre- or postmodification of a personal name with a (bare nominal) role or title:
 
-** NOTE: we need to standardize UPOS. [SYM]() says that Dr. and Mr. are NOUN but in English treebanks they are predominantly PROPN. **
-
 ~~~ sdparse
 Mr./NOUN Magoo/PROPN
 nmod:desc(Magoo, Mr.)
 ~~~
+
+*Note regarding UPOS: [SYM]() says that <b>Dr.</b> and <b>Mr.</b> are [NOUN](), but in English treebanks they are predominantly tagged [PROPN]().*
 
 ~~~ sdparse
 Professor/NOUN Charles/PROPN J./PROPN Fillmore/PROPN , Ph.D./PROPN

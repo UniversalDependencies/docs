@@ -71,7 +71,7 @@ The `Tense=Past` feature is also used for past participles:
 
 The future tense denotes actions that will happen (once or repeatedly) or will be happening in the future.
 It has only compound forms and distinguishes both aspects.
-**The future tense is not annotated.**
+**No word is annotated by the future tense, it appears only in compound forms.**
 
 #### Formation
 * imperfective: auxiliary word بۀ‎ _bë_ (with [aux:fut](../dep/aux-fut.html) relation) + present imperfective
@@ -88,7 +88,7 @@ In Pashto, there are also three perfect tenses: present perfect, past perfect an
 They describe an event preceding (i.e, that has / had / will have happened before) another event,
 which is expressed by a usual tense.
 They have only compound forms.
-**The perfect tenses are not annotated.**
+**No word is annotated by the perfect tenses, they appear only in compound forms.**
 The term "perfect" here should not be confused with the perfective aspect
 which means a punctual event in past or future, not precedence like the perfect tenses.
 

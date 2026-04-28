@@ -1,22 +1,22 @@
 ---
 layout: relation
 title: 'aux:cnd'
-redirect_from: "cs/dep/remnant.html"
-shortdef: 'connecting orphaned arguments of elided predicate, particularly the subject as the parent and the object as the child'
+shortdef: 'conditional auxiliary'
 udver: '2'
 ---
 
-The `orphan:nsubjobj` relation provides information about the relations of the orphaned arguments to the elided predicate. The head of the realtion is the subject of the verb, while the dependent argument is its object.
+The conditional auxiliary of a clause is the word **بۀ _bë_**
+or the conditional form **وای _wây_** of the auxiliary verb ول _wël_ “to be”
+used to construct the [conditional mood](ps-feat/Mood).
 
-~~~ conllu
-# text = مریم لیک او پیتر کتاب لیکي.
-1	مریم  مریم  PROPN  _  Case=Nom|Gender=Fem|Number=Sing  0  root  _  Gloss=Mary|LTraanslit=maryám|Translit=maryám
-2	لیک  لیک  NOUN  _  Case=Nom|Gender=Masc|Number=Sing  1  orphan:nsubjobj  _  Gloss=letter|LTranslit=lik|Translit=lik
-3	او  او  CCONJ  _  _  6  cc  _  Gloss=and|LTranslit=aw|Translit=aw
-4	پیتر  پیتر  PROPN  _  Case=Nom|Gender=Masc|Number=Sing  6  nsubj  _  Gloss=Peter|LTranslit=pítër|Translit=pítër
-5	کتاب  کتاب  NOUN  _  Case=Nom|Gender=Masc|Number=Sing  6  obj  _  Gloss=book|LTranslit=kitấb|Translit=kitấb
-6	لیکي لیکي   VERB  _  Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin  1  conj  _  Gloss=writes|LTranslit=likë́l|SpaceAfter=No|Translit=likí  
-7	.  .  PUNCT  _  _  1  punct  _  Gloss=.|LTranslit=.|Translit=.
+The auxiliary **بۀ _bë_** is used to express the consequence in the main clause of an irreal conditional sentence.
+It depends with the `aux:cnd` relation on the main verb in the conditional form.
+
+The auxiliary **وای _wây_** is used in to build the conditional mood of intransitive verbs.
+It depends with the `aux:cnd` relation on the main verb in the conditional form.
+It can also be used to build the longer form of conditional mood of transitive verbs.
+In this case it depends with the `aux:cnd` relation on the participle of the main verb.
+
+#### Examples
+~~~ sdparse
 ~~~
-
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:18 CET -->

@@ -15,7 +15,7 @@ udver: '2'
 
 Possessives may have two different numbers: that of the possessed object (number agreement with modified noun) and that of the possessor. The `Number[psor]` feature captures the possessor's number.
 
-Note that in Middle Armenian grammars besides the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
+Note that in Middle Armenian grammars besides the definite article, possessive and demonstrative articles (suffixes) are distinguished. These make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
 
 See also the relatived feature [Person[psor]]().
 
@@ -23,19 +23,19 @@ See also the relatived feature [Person[psor]]().
 
 #### Examples
  
-* _Մինչ որ վճարի պարտքեր<b>ս</b>, որ ի յիմ շալակ<b>ս</b> է կուսած/Minč or vč̣ari partk’ers, or i yim šalaks ē kowsaç_ “Until He pays _my debts_, which have accumulated upon _my shoulders_” `Number[psor]=Sing|Number=Sing`
-* _տուն<b>ս</b>_ “<b>my</b> house” `Number[psor]=Sing|Number=Sing`
-* _տներ<b>ս</b>_ “<b>my</b> houses” `Number[psor]=Sing|Number=Plur`
-* _գալ<b>ս</b>_ “<b>my</b> coming” `Number[psor]=Sing|Number=Coll`
-* _ինք<b>ս</b>_ “<b>I myself</b>” `Number[psor]=Sing|Number=Sing`
-* _հետ<b>ս</b>_ “with <b>me</b>” `Number[psor]=Sing`
+* _Մինչ որ վճարի պարտքեր<b>ս</b>, որ ի յիմ շալակ<b>ս</b> է կուսած/Minč or vč̣ari partk’ers, or i yim šalaks ē kowsaç_ “Until He pays _my_ debts, which have accumulated upon _my_ shoulders” `Number[psor]=Sing|Number=Sing`
+* _կու պահեմ զճամփա<b>դ</b>/kow pahem zč̣amp’ad_ “I'll hold _your_ path”
+* _Թագուոր մի կայր,  աչուի<b>ն</b> էր խաժ/T’agowor mi kayr,  ačowin ēr xaž_ “There was a King, _his_ eyes were sea-blue”
 
 ### <a name="Plur">`Plur`</a>: plural possessor
 
+The suffix _-նի/-ni_ followed by a possessive article, is used to express the plurality of the possessor when attached to a possessed object that is already in the plural.
+Note that the suffix _-նի/-ni_ is typically attached to polysyllabic words. Since monosyllabic words become polysyllabic when the plural marker _-եր/-er_ is added, they also take the _-նիս/-nis or _-նիդ/-nid_ forms instead of the simple _-ս/-s_ or _-դ/-d_.
+
+It is important to note that this can create ambiguity: a form like _տներնիս/tnernis_ can signify either the plural possessor ("our houses") or a singular possessor with a plural object ("my houses"). In this context, the suffix functions as a general possessive marker rather than strictly indicating the plurality of the owner.
+
 #### Examples
 
-* _տուն<b>ներս</b>_ “<b>our</b> houses” `Number[psor]=Plur|Number=Plur`
-* _գալ<b>ներս</b>_ “<b>our</b> coming” `Number[psor]=Plur|Number=Coll`
-* _ինք<b>ներս</b>_ “<b>we ourselves</b>” `Number[psor]=Plur|Number=Sing`
-* _հետ<b>ներս</b>_ “with <b>us</b>” `Number[psor]=Plur`
+* _հայրեր<b>նիս</b>/hayrernis_ “<b>our</b> fathers” `Number[psor]=Plur|Number=Plur`
+* _տներ<b>նիս</b>/tnernis_ “<b>my/our</b> house(s)” `Number[psor]=Sing/Plur|Number=Plur/Sing`
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->

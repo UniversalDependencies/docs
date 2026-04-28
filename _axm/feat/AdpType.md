@@ -21,27 +21,27 @@ Middle Armenian has postpositions, some prepositions and ambipositions, but not 
 
 #### Examples
 
-* _<b>փոխայն/p’oxayn</b>_ “instead of”, _<b>մեջ</b>_ “in” 
+* _<b>փոխայն/p’oxayn</b>_ “instead of”, _<b>մեջ</b>/meǰ_ “in” 
 
 ### <a name="Prep">`Prep`</a>: preposition
 
 #### Examples
 
-* _<b>ի</b>_ “for the sake of”, _<b>առ</b>_ “up to”, _<b>ըստ</b>_ “according to”, _<b>դէմ</b>_ “in front of; close to (time)”, _<b>(ի) խեչ</b>_ “at, next to”, _<b>հետ</b>_ “after”
+* _<b>ի</b>/i_ “for the sake of”, _<b>առ</b>/aṙ_ “up to”, _<b>ըստ</b>/ëst_ “according to”, _<b>դէմ</b>/dēm_ “in front of; close to (time)”, _<b>(ի) խեչ</b>/(i) xeč_ “at, next to”, _<b>հետ</b>/het_ “with”
 
 ### <a name="Post">`Post`</a>: postposition
 
 #### Examples
 
-* _<b>համար</b>_ “for”, _<b>քով</b>_ “at, near”, _<b>պես</b>_ “as”, _<b>հետ</b>_ “with”, _<b>վրայ</b>_ “on”,  _<b>զատ</b>_ “except”
+* _<b>համար</b>/hamar_ “for”, _<b>քով</b>/k’ov_ “at, near”, _<b>պես</b>/pes_ “as”, _<b>վրայ</b>/vray_ “on”,  _<b>զատ</b>/zat_ “except”
 
-### <a name="Comadp">`Comadp`</a>: dependent part of compound adposition
+### <a name="Comadp">`Comadp`</a>: dependent part of compound adposition 
+% երևի չենք ունենա, որովհետև բոլորը առանձին կիրառվում են
 
-This value marks dependent first or second part of a compound adposition. This word cannot occur alone. Not all compound adpositions contain words marked `Comadp`. Many compound prepositions consist of prepositions and a noun (e.g. _ի սեր_ “for the love of”, _ի պատիվ_ “in honor of” ). Sometimes there are just two words, the first one is normal postposition and the second one
-is a secondary postposition (etymologically some other part of speech, but it has been frozen as
+This value marks dependent first or second part of a compound adposition. This word cannot occur alone. Not all compound adpositions contain words marked `Comadp`. Many compound prepositions consist of prepositions and a noun (e.g. _ի սեր_ “for the love of”, _ի պատիվ_ “in honor of” ). Sometimes there are just two words, the first one is normal postposition and the second one is a secondary postposition (etymologically some other part of speech, but it has been frozen as
 a postposition) as in _դեմ հանդիման_ “in front of”.
 
 #### Examples
 
-* _ի <b>հեճուկս</b>_ “to spite”, _ի <b>փառս</b>_ “in praise of”
+* _ի <b>հետ</b>_ “together with”, _ի <b>մէնջ</b>_ “in, between”
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:00 CET -->

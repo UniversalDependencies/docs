@@ -29,7 +29,7 @@ There is a subclass of demonstrative, relative and interrogative adverbs, which 
 - _խոհեմտաբար/xohemtabar&nbsp;_ “wisely”
 - interrogative adverbs: _ուր/owr, ուստի/owsti, որչափ/orčap’, ոնց/onc’&nbsp;_ “where, where from, when, how many/much, how”
 - relative: _յայնժամ/yaynžam, յորժամ/yoržam&nbsp;_ “at the time, when”
-- demonstrative adverbs: _աստ/ast, աստուստ/astowst, այտի/ayti&nbsp;_ “here, from here, from there”
+- demonstrative adverbs: _աստ/ast, աստուստ/astowst, այտի/ayti&nbsp;_ “here, from here, from there”, _հանչաք/hančak’_ “that much; this much”, _էնպես/ēnpes_ “so, as, that way”
   
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->
 

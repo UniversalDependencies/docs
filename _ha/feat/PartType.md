@@ -8,7 +8,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
 	<td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-	<td><a href="#Adv">Adv</a></td>
+	<td><a href="#Aspect">Aspect</a></td>
+	<td><a href="#Case">Case</a></td>
+	<td><a href="#Der">Der</a></td>
+	<td><a href="#Evident">Evident</a></td>
 	<td><a href="#Foc">Foc</a></td>
 	<td><a href="#Neg">Neg</a></td>
 	<td><a href="#Pred">Pred</a></td>
@@ -17,17 +20,40 @@ udver: '2'
 </tr>
 </table>
 
-### <a name="Adv">`Adv`</a>: Adverbial particle
+### <a name="Aspect">`Aspect`</a>: Aspectual particle
+
+The particle <b>ta</b> is linked to to the verb,  and adds the iterative/continuous/inchoative aspect to the TAM expressed by the AUX. 
+It is annotated with the feature 'Aspect=Iter' and glossed 'iterative'. 
 
 #### Examples
  * _sunàː <b>ta</b> tàhiyàː_ "They went on travelling." (Northern Hausa)
 
+### <a name="Case">`Case`</a>: Case particle
+
+The particle <b>na</b>(Masc/Plur)/<b>ta</b>(Fem) is a linker expressing the Genitive Case. 
+Contrary to ADPs, this particle agrees in number and gender with the governor.
+
+#### Examples
+ * _yaː kai zìyaːr̃àː zuwàː Afìr̃kà <b>ta</b> Yâmma_ "He visited West Africa" (Eastern Hausa) 
+
+### <a name="Der">`Der`</a>: Derivational particle
+
+The particle <b>mài</b>(Sing)/<b>màːsu</b>(Plur) e.g. derives a compound noun from a verb or a property term.  
+
+#### Examples
+ * _<b>màːsu</b> kiːwòn, bàː sun cikà kùlaː ba nèː_ "The cattle drivers, they are not really careful." (Southern Hausa)
+
+### <a name="Evident">`Evident`</a>: Evidential particle
+
+Expresses Non-first-hearer meaning. Glossed 'reportedly'. Annotated with the feature 'Evident=Nfh'
+
+#### Examples
+ * _<b>wai</b> wâː ya sâː à kashè bàːbanshì_ "[They say] the elder brother had his father killed." (Southern Hausa) 
 
 ### <a name="Foc">`Foc`</a>: Focalization particle
 
 #### Examples
- * _yànzu inàː matsayin yaːrònshì <b>nèː</b>_ "Now I stand for his son.." (Southern Hausa)
-
+ * _yànzu inàː matsayin yaːrònshì <b>nèː</b>_ "Now I stand for his son." (Southern Hausa)
 
 
 ### <a name="Neg">`Neg`</a>: Negation particle

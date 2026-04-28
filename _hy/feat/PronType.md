@@ -47,8 +47,8 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 
 * _ո՞վ, ովքե՞ր&nbsp;_ “who”, _ո՞ւմ&nbsp;_ “whose”
 * _ի՞նչ&nbsp;_ “what”, _ինչպիսի՞(ք)&nbsp;_ “what kind of”, _ինչքա՞ն&nbsp;_ “how many”, _ինչչա՞փ&nbsp;_ “how much”, _ինչպե՞ս&nbsp;_ “how”
-* _ո՞ր, որո՞նք&nbsp;_ “which”, _որպիսի՞(ք)&nbsp;_ “which kind of”, _որքա՞ն&nbsp;_ “how many”, _որչա՞փ&nbsp;_ “how much”, _ո՞րերորդ&nbsp;_ “which manyth” (ordinal quantifier)
-* _քանի՞&nbsp;_ “how many”, _քանի՞սը&nbsp;_ “how many”, _քանի՞երորդ&nbsp;_ “how manyth” (ordinal quantifier)
+* _ո՞ր, որո՞նք&nbsp;_ “which”, _որպիսի՞(ք)&nbsp;_ “which kind of”, _որքա՞ն&nbsp;_ “how many”, _որչա՞փ&nbsp;_ “how much”, _ո՞րերորդ&nbsp;_ “what number” (ordinal quantifier)
+* _քանի՞&nbsp;_ “how many”, _քանի՞սը&nbsp;_ “how many”, _քանի՞երորդ&nbsp;_ “what number” (ordinal quantifier)
 * _որտե՞ղ&nbsp;_ “where”, _ո՞ւր&nbsp;_ “where to”
 * _ե՞րբ&nbsp;_ “when”
 * _ինչո՞ւ&nbsp;_ “why”
@@ -69,7 +69,7 @@ the modified noun. In Armenian exclamative determiners are recruited from the se
 #### Examples:
 
 * _Ինչպիսի՜ անակնկալ։_ “What a surprise!”
-* _Այդքա՜ն գեղեցիկ։_ “That beautiful!”
+* _Այդքա՜ն գեղեցիկ։_ “So beautiful!”
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
@@ -106,7 +106,7 @@ Note that Armenian make a distinction between proximal or first person (objects 
 
 ### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
 
-As emphatic pro-adjectives (determiners) these emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
+As emphatic pro-adjectives (determiners) emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
 
 See also the [Number[psor]]() and [Person[psor]]() features for further details.
 

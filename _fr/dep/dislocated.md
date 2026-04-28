@@ -10,13 +10,13 @@ Dislocated elements are attached to the same governor as the dependent that they
 
 This construction is quite frequent in spoken French.
 
+Since 2.18, this relation is refined in the treebanks **French-GSD**, **French-ParisStories**, **French-Rhapsodie** and **French-Sequoia**, with the relations [dislocated:subj](), [dislocated:obj](), [dislocated:obl]() and [dislocated:mod]().
+
 ~~~ sdparse
 Pierre je ne l' aime pas beaucoup  \n Peter I don't like him much
 dislocated(aime, Pierre)
 obj(aime, l')
 ~~~
-
-Here are some examples from **UD_French-Spoken**:
 
 ~~~ sdparse
 lui il avait passé les quatres nuits ou trois nuits à ramper dans les décombres \n He had spent the four nights or three nights crawling in the rubble

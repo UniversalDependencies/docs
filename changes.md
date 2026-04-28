@@ -24,6 +24,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+|17 | 2026-Apr     | 2.18              | CLARIFICATION, VALIDATOR | [`nmod` and `obl`](#nmod-and-obl)             |
 |16 | 2025-Aug     | 2.17              | VALIDATOR                | [Multiple Objects](#multiple-objects)         |
 |15 | 2024-Nov     | 2.16              | CLARIFICATION, VALIDATOR | [`ExtPos` for Fixed Expressions](#extpos-for-fixed-expressions) |
 |14 | 2024-Apr     | 2.14              | CLARIFICATION            | [List Item Markers](#list-item-markers)       |
@@ -42,6 +43,13 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
 
 
+### `nmod` and `obl`
+
+The [nmod]() and [obl]() guidelines have been rewritten with greater precision, including a clarification that
+nominal modifiers of adpositionally marked nominals fall under [nmod]()
+(discussed in [issue 1175](https://github.com/UniversalDependencies/docs/issues/1175)).
+The validator now enforces that certain contexts require [nmod]() rather than [obl]() (`obl-should-be-nmod` error).
+
 ### Multiple Objects
 
 According to the guidelines a predicate can have at most one child node attached as [obj](). If there are multiple
@@ -50,7 +58,6 @@ should be annotated as indirect objects ([iobj]()). The number of indirect objec
 
 At present this validation rule does not take into account clausal objects ([ccomp]()) because they do not distinguish
 whether they correspond to direct or indirect objects.
-
 
 ### `ExtPos` for Fixed Expressions
 

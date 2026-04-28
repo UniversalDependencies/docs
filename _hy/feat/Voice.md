@@ -35,7 +35,7 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
 
-The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-վ-_ (for exeptions see below).
+The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-վ-_ (for exceptions see below).
 
 #### Examples
 
@@ -45,7 +45,7 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive, traditionally called medio-passiv (for reciprocal verbs see below); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive). A reflexive voice will be distinguished in future. 
+Between active and passive. Needed also for the reflexive, traditionally called mediopassiv (for reciprocal verbs see below); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive). A reflexive voice will be distinguished in future. 
 
 Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել&nbsp;_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
 
@@ -66,10 +66,10 @@ Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombi
 
 #### Examples
 
-* _Մայրը <b>քնեցրեց</b> որդուն&nbsp;_ “The mather <b>put</b> her son to sleep”,
-* _<b>Սովորեցնում</b> էր նրան լեզու&nbsp;_ “He <b>tought</b> her a foreign language”,
-* _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> նրան&nbsp;_ “All these things <b>reminded</b> him a war”,
-* _Ո՞ր քամին <b>հանգցրեց</b> նրանց սերը&nbsp;_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
+* _Մայրը <b>քնեցրեց</b>_`Act` _որդուն&nbsp;_ “The mather <b>put</b> her son to sleep”,
+* _<b>Սովորեցնում</b>_ `Cau` _էր նրան լեզու&nbsp;_ “He <b>tought</b> her a foreign language”,
+* _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b>_ `Cau` _նրան&nbsp;_ “All these things <b>reminded</b> him a war”,
+* _Ո՞ր քամին <b>հանգցրեց</b>_ `Act` _նրանց սերը&nbsp;_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
 * _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”,
 * _<b>վազեցնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”,
 * _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,

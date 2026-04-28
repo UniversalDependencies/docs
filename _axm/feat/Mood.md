@@ -21,7 +21,7 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 ### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
-The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ/կոյ)/kow (k/koy)_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
+The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)/kow (k, koy)_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
 The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the inflectional endings, negation may also be expressed by a construction consisting of the negative particle followed by a verb in the infinitive, with or without the preposition _ի_.
 
 #### Examples
@@ -63,7 +63,7 @@ The main verb is marked as [Connegative]().
 #### Examples
 
 * _<b>կու երթանք</b>_ “we <b>will</b> go/we <b>go</b>”,
-* _<b>կելանեմ</b> “<b>I will come out/I come out</b>”,
+* _<b>կելանեմ</b>_ “<b>I will come out/I come out</b>”,
 * _<b>կոյ մտանեմ</b>_ “<b>I will enter/I enter</b>”,
 * _Որդունքն <b>չեն</b> ինձ <b>ողորմիլ</b>_ “The sons will not (do not) pity me”,
 * _նայ <b>չէր</b> կրկին <b>յետս դառնալ</b>/nay čēr krkin yets daṙnal_ “He would not come back again”
@@ -86,7 +86,7 @@ with two different tenses (imperfect and present).
 
 The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
 
-Middle Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>/piti_ or its reduced forms _<b>պիտ/pit, տի</b>/ti_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
+Middle Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>/piti_ or its reduced forms _<b>պիտ/pit, տի</b>/ti_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood (present/imperfect tense forms of indicative mood in Classical Armenian).
 
 The mood particle _<b>պիտի</b>/piti_ is historically present tense of the verb _<b>պիտիմ</b>/pitim_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. It expresses compulsary, oblicative necessity.
 

@@ -29,7 +29,7 @@ Note that in Armenian [adjectives](ADJ), sometimes also [adverbs](ADV) can be ne
 
 A set of non-productive prefixes, _ան-,&nbsp; ապ-,&nbsp; դժ-,&nbsp; տ-,&nbsp; չ-,&nbsp;_ can be used for negating a lexicalized set of adjectives, e.g. _անբախտ, ապաշնորհ, դժբախտ, տգեղ, չտես_ “unlucky, dull, unfortunate, ugly, covetous”. We do not mark adjectives for the `Polarity` feature.
 
-Negating nouns are usually limited to those derived from verbs (_չունեցողի, չգրվածները_). We (currently) do not mark them with `Polarity=Neg`. 
+Negated nouns are usually limited to those derived from verbs (_չունեցողի, չգրվածները_). We (currently) do not mark them with `Polarity=Neg`. 
 
 ### <a name="Pos">`Pos`</a>: positive, affirmative
 

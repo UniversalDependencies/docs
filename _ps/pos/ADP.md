@@ -17,7 +17,7 @@ which can further build circumpositions with improper postpositions.
 
 Pashto adpositions require the nominal to be in a certain morphonological case.
 The [Case]() feature is then tagged also for the adposition itself.
-An adposition can be used with different case when used alone (for proper prepositions) in various circumposing structures.
+An adposition can be used with different cases when used alone (for proper prepositions) or in various circumposing structures.
 Cases associated with Pashto adpositions are local (`Loc`), oblique (`Acc`) and ablative (`Abl`).
 
 ### Proper adpositions

@@ -4,16 +4,16 @@ title:  'Old Georgian UD'
 udver: '2'
 ---
 
-# UD for Georgian <span class="flagspan"><img class="flag" src="../../flags/svg/OGE.svg" /></span>
+# UD for Old Georgian <span class="flagspan"><img class="flag" src="../../flags/svg/OGE.svg" /></span>
 
-This is a **work-in-progress** overview of the UD annotation for Georgian.
+This is a **work-in-progress** overview of the UD annotation for Old Georgian.
 
 ## Tokenization and Word Segmentation
 
 * In Old Georgian, tokenization was an irregular process, as words were sometimes separated by white spaces and sometimes not. Additionally, depending on the century, paragraphs, sentences or words in Old Georgian could also be separated by paragraph separators (჻).
 * In Old Georgian manuscripts, punctuation symbols were rarely used. However, printed versions of these manuscripts typically follow the punctuation rules of Modern Georgian. In particular, punctuation marks are not separated from the words they accompany—even in hyphenated compounds such as არა-საჴმარი (ara-sax̣mari, ‘unusable’), დიდ-დიდი (did-didi, 'big-big') which are treated as a single token. An exception to this rule is the dash, which is separated from the surrounding characters. Additionally, punctuation marks can appear in sequences, such as a question mark followed by an exclamation mark (?!), an exclamation mark followed by two full stops (!..), or an ellipsis (…).
 * Due to rich agglutinating type of morphology, clitics can be treated as multi-word tokens and segmented to individual syntactic words in the following cases:
-  a) auxiliary verbs (AUX) attached to a nominal, which add functional and grammatical meaning to the sentence, expressing tense, aspect, mood, etc.: წმიდა-ყო *cmida-qo* = წმიდა+ყო 'he/she made holy', თავს-იდვა *tʻavs-idva* = თავს+იდვა 'he/she made holy' etc.;
+  a) auxiliary verbs (AUX) attached to a nominal, adverb etc. which add functional and grammatical meaning to the sentence, expressing tense, aspect, mood, etc.: წმიდა-ყო *cmida-qo* = წმიდა+ყო 'he/she made holy', თავს-იდვა *tʻavs-idva* = თავს+იდვა 'he/she made holy', ჯერ-არს *jer-ars* = ჯერ+არს 'for now it is' etc.;
   b) postpositions  represented by a suffix attached to an inflected nominal (noun, adjective, numeral and pronoun): კაცებრივ *kacʻebriv* = კაც+ებრივ 'like humans', კაცისაგან *kacʻisagan* = კაცისა+გან 'from a man';
   c) the indirect speech particle represented by a suffix attached to an inflected nominal or verb: სახლიო *saxlio* = სახლი+ო 'a house as smb. said', წერსო *cerso* = წერს+ო 'he writes as smb. said'.
 
@@ -66,9 +66,6 @@ For Universal Dependency (UD) treebanks, lemmatization practices typically refle
   * Verbs inflect for Tense (present, imperfect, future, aorist, perfect, pluperfect), Aspect (imperfective, perfective) and Mood (indicative, subjunctive, conditional, imperative) so-called TAM series, which specifies case-marking and so-called agreement relationships between participants such as agent and patient by means of preverbs, version markers and thematic suffixes. The category of voice can be subdivided into the active, autoactive, inactive, passive and mediopassive voices, but the traditional Georgian grammar (Shanidze 1961, 1973) distinguishes only active, middle and passive voices.
   * The category of personality covers unipersonal, bipersonal and tripersonal verbs. As a result verbal morphology includes agreement between the verb and its arguments in terms of Person, Case and Number. While in Indo-European languages, the verb generally agrees with the subject of the sentence, in Georgian the verb agrees not only with the subject, but with its objects as well, both direct and/or indirect. The verb in Georgian has core and peripheral arguments. A core argument agrees morphologically with the verb by means of Person (1, 2, or 3 for Person[subj], Person[obj], Person[io]) and Number (singular or plural for Number[subj], Number[obj], Number[io]), while a peripheral argument does not. The number of core arguments affects the conjugation system as a whole, subdividing it into subject and object paradigms.
   * There are two types of nonfinite forms: participles and masdars.
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
 ---
 

@@ -1,0 +1,15 @@
+---
+layout: relation
+title: 'advmod:neg'
+shortdef: 'negation adverbial'
+udver: '2'
+---
+
+A negation adverbial modifier is a subtype of the `advmod` relation, e.g., არ, ვერ, ნუ, აღარ,…
+
+~~~ sdparse
+არ/PART ჯერ-არს უკუე მკლველ თავის ყოფაჲ.
+'It is not fitting, then, to be the killer of oneself.'
+advmod:neg(არ, ჯერ-არს)
+~~~
+<!-- Interlanguage links updated So 10. května 2025, 18:14:56 CEST -->

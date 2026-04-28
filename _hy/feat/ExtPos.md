@@ -85,7 +85,7 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* _<b>Վայոց ձոր</b>_ (_<b>Վայ<b>ոց_ = [NOUN]())
+* _<b>Վայոց ձոր</b>_ (_<b>Վայ</b>ոց_ = [NOUN]())
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
