@@ -50,7 +50,7 @@ In Middle Armenian this is the word form used for subjects of clauses, for direc
 
 * _ծառ_/_çaṙ_ “tree”
 
-### <a name="Gen-Dat">`Gen`-'Dat'</a>: genitive-dative
+### <a name="Gen-Dat">'Dat'</a>: dative
 
 In many languages, prototypical meaning of the genitive is that the noun phrase somehow belongs to its governor. As for the dative, it is often used for indirect objects of verbs. In Middle Armenian, however, they are generally not formally distinct and are therefore considered a single case. The genitive is distinct from the dative only in the paradigms of some personal and demonstrative pronouns. 
 
