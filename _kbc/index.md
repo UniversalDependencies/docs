@@ -54,7 +54,7 @@ is no uninflected verbal root.” The language lacks infinitives and participles
 
 * In transitive clauses, person and number agreement is the main indicator for identifying subjects and objects expressed by a nominal. If both the subject and object are third person, either SVO and OVS is licensed, although the former seems to be more frequent (Sandalo 2023). This can lead to ambiguous sentences, such as *Goti yemaa Ecodi*, which means either “Goti loves Ecodi” or “Ecodi loves Goti” (Sandalo & Galves 2025). However, SOV is obligatory if the object is a first or second person.
 
-* Kadiwéu seems to lack copulas. To assign a quality to an entity referred to by an NP, the language uses a possessive construction, where a possessive NP denoting the quality is juxtaposed to the NP being predicated, e.g., Ica liwigo libinienigi. (M.CL 3POSS.photo 3POSS.beauty.DIM.M ‘This photo of hers is beautiful.’, literally ‘That photo of hers its beauty.’ or ‘The beauty of that photo of hers.’)
+* Kadiwéu seems to lack copulas. To assign a quality to an entity referred to by an NP, the language uses a possessive construction, where a possessive NP denoting the quality is juxtaposed to the NP being predicated, e.g., *Ica liwigo libinienigi.* (`M.CL 3POSS.photo 3POSS.beauty.DIM.M` ‘This photo of hers is beautiful.’, literally ‘That photo of hers its beauty.’ or ‘The beauty of that photo of hers.’)
 
 * In the verbless sentences annotated so far, the subject is the leftmost NP, while the rightmost NP is the predicative, as in the above example.
 
