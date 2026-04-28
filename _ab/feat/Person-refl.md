@@ -11,7 +11,7 @@ This feature marks person agreement of the verb with the inner reflexive object.
 
 #### Examples
 
-* [ab] _с-ҽы-с-кәабо-ит_ [Refl.1Sg-Refl-Subj.1Sg-bathe.Pres] ‘I am bathing (myself)’ `Dyn=Yes|Number[refl]=Sing|Number[subj]=Sing|Person[refl]=1|Person[subj]=1|Tense=Pres|Trans=Yes|VerbForm=Fin`
+* [ab] _<b>с-ҽы</b>-с-кәабо-ит_ [Refl.1Sg-Refl-Subj.1Sg-bathe.Pres] ‘I am bathing (myself)’ `Dyn=Yes|Number[refl]=Sing|Number[subj]=Sing|Person[refl]=1|Person[subj]=1|Tense=Pres|Trans=Yes|VerbForm=Fin`
 
 ### <a name="2">`2`</a>: Second Person
 
@@ -23,5 +23,12 @@ This feature marks person agreement of the verb with the inner reflexive object.
 
 #### Examples
 
-* [ab] _а-ҽ-а-ҟье-ит_ [Refl.3SgNH-Refl-Subj.3SgNH-persist-Aor] ‘it persisted’ `Dyn=Yes|Gender[refl]=Neut|Gender[subj]=Neut|Number[refl]=Sing|Number[subj]=Sing|Person[refl]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:39 CET -->
+* [ab] _<b>а-ҽ</b>-а-ҟье-ит_ [Refl.3SgNH-Refl-Subj.3SgNH-persist-Aor] ‘it persisted’ `Dyn=Yes|Gender[refl]=Neut|Gender[subj]=Neut|Number[refl]=Sing|Number[subj]=Sing|Person[refl]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
+
+### <a name="Rel">`Rel`</a>: Relative Person marker
+
+#### Examples
+
+* [ab] _<b>з-ҽ</b>-а.зы-з-к-уаз_ [Refl.Rel-Refl-it.for-Subj.Rel-take-NonFin.Past] ‘who was trying to (lit.: taking himself to)’ `Dyn=Yes|Gender[ro]=Neut|Number[ro]=Sing|Person[refl]=Rel|Person[ro]=3|Person[subj]=Rel|Reln=Ben|Subcat=Tran|Tense=Imp|VerbForm=NonFin`
+
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:37 CET -->
