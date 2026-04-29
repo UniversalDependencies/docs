@@ -8,7 +8,7 @@ udver: '2'
 This subtype of `compound` covers light verbs in Middle Armenian.
 
 ~~~ sdparse
-Վարդապետն անէծք էած ։ \n Vardapetn anēçk’ ēaç \n The vardapet pronounced a curse .
+Վարդապետն անէծք էած ։ \n The vardapet pronounced a curse .
 compound:lvc(էած, անէծք)
 compound:lvc(pronounced, curse)
 ~~~
