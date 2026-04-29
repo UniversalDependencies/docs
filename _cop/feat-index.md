@@ -8,4 +8,4 @@ udver: '2'
 
 # Features
 
-{% include cop-feat-table.html %}
+<!-- include cop-feat-table.html -->
