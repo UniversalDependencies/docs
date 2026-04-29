@@ -34,4 +34,13 @@ The entity is neither close nor far away from the reference point (e.g., from th
 * _Յայդ դաշտէ<b>դ</b> ի վայր գայի անարատ սրտովս դեպ ի տուն/Yayd daštēd i vayr gayi anarat srtovs dep i town_ “From that field I was coming down, toward home with my pure heart”
 
 
+### <a name="Remt">`Remt`</a>: remote, distal
+
+The entity is far away from the reference point (e.g., from the speaker).
+
+#### Examples
+
+* _երբ այս ազգ օձս խայթէ զմարդն, նայ հանց ցաւէ խիստ, որ այլազգ օձոյնն չցաւէ_ “When this kind of snake bites a man, it tends to hurt so intensely that the (bite) of other kinds of snakes does not hurt ([in such a way)”
+
+
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:11 CET -->
