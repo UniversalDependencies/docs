@@ -9,3 +9,7 @@ This is a special class of [adverbial modifiers](advmod). While other adverbial 
 including prepositional phrases. 
 
 ~~~ sdparse
+զմեղապարտսն մէն տայ սպաննել \n he makes kill only the giulty ones
+advmod:emph(զմեղապարտսն, մէն)
+advmod:emph(giulty-ones, only)
+~~~
