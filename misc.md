@@ -85,14 +85,13 @@ together with brief documentation (and possibly with links to additional informa
     <tr><td><a>LDeriv</a></td><td><a>MSeg</a></td>    <td><a>Tam</a></td><td><a>Vib</a></td></tr>
     <tr><td><a>LId</a></td><td><a>Root</a></td>    <td><a>TraditionalMood</a></td></tr>
     <tr style="background-color:cornflowerblue;color:white">
-        <td colspan="1"><strong>Multi-word expressions/named entities</strong></td>
+        <td colspan="2"><strong>Multi-word expressions/named entities</strong></td>
         <td colspan="2"><strong>Discourse/coreference</strong></td>
-        <td colspan="2"><strong>Syntactic relations/constructions</strong></td>
+        <td colspan="1"><strong>Syntactic relations/constructions</strong></td>
     </tr>
-    <tr><td><a>MWE</a></td>  <td><a>Bridge</a></td><td><a>Split</a></td>  <td colspan="2"><a>Reduplication</a></td></tr>
-    <tr><td><a>MWEPOS</a></td>  <td><a>Discourse</a></td><td></td>   <td colspan="2"><a>Subject</a></td></tr>
-    <tr><td><a>NamedEntity</a></td>  <td><a>Entity</a></td></tr>
-    <tr><td><a>Proper</a></td>  <td><a>PDTB</a></td></tr>
+    <tr><td><a>MWE</a></td><td><a>NamedEntity</a></td>  <td><a>Bridge</a></td><td><a>PDTB</a></td>  <td colspan="2"><a>Reduplication</a></td></tr>
+    <tr><td><a>MWEPOS</a></td><td><a>Proper</a></td>  <td><a>Discourse</a></td><td><a>Split</a></td>   <td colspan="2"><a>Subject</a></td></tr>
+    <tr><td></td><td></td>  <td><a>Entity</a></td></tr>
 </table>
 
 
