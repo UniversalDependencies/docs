@@ -9,7 +9,7 @@ This relation is a subtype of the [nmod]() relation, which covers only those pos
 (pronoun) is used, the relation is labeled [det:poss]().
 
 ~~~ sdparse
-Քրիստոսի դատաստանին աւրինակովն \n K’ristosi datastanin awrinakovn \n by the example of Christ's judgment
+Քրիստոսի դատաստանին աւրինակովն \n by the example of Christ's judgment
 nmod:poss(դատաստանին, Քրիստոսի)
 nmod:poss(աւրինակովն, դատաստանին)
 nmod:poss(judgment, Christ's)
