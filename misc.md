@@ -73,25 +73,25 @@ together with brief documentation (and possibly with links to additional informa
         <td colspan="2"><strong>Surface format</strong></td>
         <td colspan="3"><strong>Data language/source</strong></td>
     </tr>
-    <tr><td><a>Correct{Feature}</a></td><td><a>NewPar</a></td>  <td><a>Gloss</a></td><td><a>MGloss</a></td><td><a>Vform</a></td></tr>
-    <tr><td><a>CorrectForm</a></td><td><a>SpacesAfter</a></td>  <td><a>Lang</a></td><td><a>OrigLang</a></td></tr>
-    <tr><td><a>CorrectSpaceAfter</a></td><td><a>SpacesBefore</a></td>  <td><a>LGloss</a></td><td><a>Ref</a></td></tr>   
-    <tr><td><a>ModernForm</a></td><td><a>XML</a></td>  <td><a>LTranslit</a></td><td><a>Translit</a></td></tr>
+    <tr><td><tt><a href="#correctfeature">Correct{Feature}</a></tt></td><td><tt><a href="#newpar">NewPar</a></tt></td>  <td><tt><a href="#gloss">Gloss</a></tt></td><td><tt><a href="#mgloss">MGloss</a></tt></td><td><tt><a href="#vform">Vform</a></tt></td></tr>
+    <tr><td><tt><a href="#correctform">CorrectForm</a></tt></td><td><tt><a href="#spacesafter">SpacesAfter</a></tt></td>  <td><tt><a href="#lang">Lang</a></tt></td><td><tt><a href="#origlang">OrigLang</a></tt></td></tr>
+    <tr><td><tt><a href="#correctspaceafter">CorrectSpaceAfter</a></tt></td><td><tt><a href="#spacesbefore">SpacesBefore</a></tt></td>  <td><tt><a href="#lgloss">LGloss</a></tt></td><td><tt><a href="#ref">Ref</a></tt></td></tr>   
+    <tr><td><tt><a href="#modernform">ModernForm</a></tt></td><td><tt><a href="#xml">XML</a></tt></td>  <td><tt><a href="#ltranslit">LTranslit</a></tt></td><td><tt><a href="#translit">Translit</a></tt></td></tr>
     <tr style="background-color:cornflowerblue;color:white">
         <td colspan="2"><strong>Morphology</strong></td>
         <td colspan="3"><strong>Tense/aspect/modality/polarity</strong></td>
     </tr>
-    <tr><td><a>Analysis</a> = <a>Morf</a></td><td><a>LNumValue</a></td>    <td><a>SType</a></td><td><a>TraditionalTense</a></td></tr>
-    <tr><td><a>LDeriv</a></td><td><a>MSeg</a></td>    <td><a>Tam</a></td><td><a>Vib</a></td></tr>
-    <tr><td><a>LId</a></td><td><a>Root</a></td>    <td><a>TraditionalMood</a></td></tr>
+    <tr><td><tt><a href="#analysis">Analysis</a></tt> = <tt><a href="#morf">Morf</a></tt></td><td><tt><a href="#lnumvalue">LNumValue</a></tt></td>    <td><tt><a href="#stype">SType</a></tt></td><td><tt><a href="#traditionaltense">TraditionalTense</a></tt></td></tr>
+    <tr><td><tt><a href="#lderiv">LDeriv</a></tt></td><td><tt><a href="#mseg">MSeg</a></tt></td>    <td><tt><a href="#tam">Tam</a></tt></td><td><tt><a href="#vib">Vib</a></tt></td></tr>
+    <tr><td><tt><a href="#lid">LId</a></tt></td><td><tt><a href="#root">Root</a></tt></td>    <td><tt><a href="#traditionalmood">TraditionalMood</a></tt></td></tr>
     <tr style="background-color:cornflowerblue;color:white">
         <td colspan="2"><strong>Multi-word expressions/named entities</strong></td>
         <td colspan="2"><strong>Discourse/coreference</strong></td>
         <td colspan="1"><strong>Syntactic relations/constructions</strong></td>
     </tr>
-    <tr><td><a>MWE</a></td><td><a>NamedEntity</a></td>  <td><a>Bridge</a></td><td><a>PDTB</a></td>  <td colspan="2"><a>Reduplication</a></td></tr>
-    <tr><td><a>MWEPOS</a></td><td><a>Proper</a></td>  <td><a>Discourse</a></td><td><a>Split</a></td>   <td colspan="2"><a>Subject</a></td></tr>
-    <tr><td></td><td></td>  <td><a>Entity</a></td></tr>
+    <tr><td><tt><a href="#mwe">MWE</a></tt></td><td><tt><a href="#namedentity">NamedEntity</a></tt></td>  <td><tt><a href="#bridge">Bridge</a></tt></td><td><tt><a href="#pdtb">PDTB</a></tt></td>  <td><tt><a href="#reduplication">Reduplication</a></tt></td></tr>
+    <tr><td><tt><a href="#mwepos">MWEPOS</a></tt></td><td><tt><a href="#proper">Proper</a></tt></td>  <td><tt><a href="#discourse">Discourse</a></tt></td><td><tt><a href="#split">Split</a></tt></td>   <td><tt><a href="#subject">Subject</a></tt></td></tr>
+    <tr><td></td><td></td>  <td><tt><a href="#entity">Entity</a></tt></td></tr>
 </table>
 
 
