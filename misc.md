@@ -91,7 +91,7 @@ together with brief documentation (and possibly with links to additional informa
     </tr>
     <tr><td><tt><a href="#mwe">MWE</a></tt></td><td><tt><a href="#namedentity">NamedEntity</a></tt></td>  <td><tt><a href="#bridge">Bridge</a></tt></td><td><tt><a href="#pdtb">PDTB</a></tt></td>  <td><tt><a href="#reduplication">Reduplication</a></tt></td></tr>
     <tr><td><tt><a href="#mwepos">MWEPOS</a></tt></td><td><tt><a href="#proper">Proper</a></tt></td>  <td><tt><a href="#discourse">Discourse</a></tt></td><td><tt><a href="#split">Split</a></tt></td>   <td><tt><a href="#subject">Subject</a></tt></td></tr>
-    <tr><td></td><td></td>  <td><tt><a href="#entity">Entity</a></tt></td></tr>
+    <tr><td colspan="2"></td>  <td><tt><a href="#entity">Entity</a></tt></td></tr>
 </table>
 
 
