@@ -5,8 +5,8 @@ shortdef: 'emph'
 udver: '2'
 ---
 
-In Coptic, the feature `Emph` designates use of the focalizing converter (`xpos=CFOC`) and fused pronominal forms containing it (`xpos=CFOC_PPERS`)
-The only possible value for `Emph` is `Yes` - all other tokena are assumed to be non-emphatic.
+In Coptic, the feature `Emph` designates use of the focalizing converter (`xpos=CFOC`) and fused pronominal forms containing it (`xpos=CFOC_PPERS`).
+The only possible value for `Emph` is `Yes` - all other tokens are assumed to be non-emphatic.
 
 ### <a name="Yes">`Yes`</a>: focalizing converter
 
