@@ -1,18 +1,36 @@
-49	եւ	եւ	CCONJ	_	_	61	cc	_	_
-50-51	զայնոք	_	_	_	_	_	_	_	_
-50	զ	զ	ADP	_	AdpType=Prep	51	case	_	_
-51	այնոք	այնոք	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|PronType=Dem	61	dislocated	_	_
-52	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	55	nsubj	_	_
-53	ի	ի	ADP	_	AdpType=Prep	54	case	_	_
-54	մեղայն	մեղայ	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Coll	55	compound:lvc	_	_
-55	գան	գալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	51	acl:relcl	_	_
-56	եւ	եւ	CCONJ	_	_	58	cc	_	_
-57	մեղացուք	մեղացու	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur	58	xcomp	_	_
-58	լինին	լինիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	55	conj	_	SpaceAfter=No
-59	,	,	PUNCT	_	_	61	punct	_	_
-60	նա	նա	SCONJ	_	_	61	mark	_	_
-61	աւերէ	աւերել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	_
-62-63	զիրենց	_	_	_	_	_	_	_	_
-62	զ	զ	ADP	_	AdpType=Prep	64	case	_	_
-63	իրենց	իր	DET	_	Case=Acc|Number=Plur|Person=3|PronType=Poss	64	det:poss	_	_
-64	զաւդվածքն	զաւդված	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing|Style=Var	61	obj	_	_
+---
+layout: relation
+title:  'dislocated'
+shortdef : 'dislocated elements'
+udver: '2'
+---
+
+The `dislocated` relation is used for elements that have been displaced from its regular syntactic position, often to the front or back of the clause it resides within or of the whole sentence. This applies often to an argument of a clause that has been moved to the periphery for topic, focus, or similar types of effects.
+
+However, this relation is also used generally for topic elements that otherwise do not fulfill any core grammatical relation of a sentence. These elements may be separated off with a comma intonation.
+
+The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in
+spoken languages.
+
+~~~ conllu
+1 եւ	եւ	CCONJ	_	_	13	cc	_	_
+2-3 զայնոք	_	_	_	_	_	_	_	_
+2 զ	զ	ADP	_	AdpType=Prep	3	case	_	_
+3 այնոք	այնոք	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|PronType=Dem	13	dislocated	_	_
+4 որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	_
+5 ի	ի	ADP	_	AdpType=Prep	6	case	_	_
+6 մեղայն	մեղայ	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Coll	7	compound:lvc	_	_
+7 գան	գալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	3	acl:relcl	_	_
+8 եւ	եւ	CCONJ	_	_	10	cc	_	_
+9 մեղացուք	մեղացու	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur	10	xcomp	_	_
+10 լինին	լինիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	SpaceAfter=No
+11 ,	,	PUNCT	_	_	13	punct	_	_
+12 նա	նա	SCONJ	_	_	13	mark	_	_
+13 աւերէ	աւերել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14-15	զիրենց	_	_	_	_	_	_	_	_
+14	զ	զ	ADP	_	AdpType=Prep	16	case	_	_
+15	իրենց	իր	DET	_	Case=Acc|Number=Plur|Person=3|PronType=Poss	17	det:poss	_	_
+16	զաւդվածքն	զաւդված	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing|Style=Var	14	obj	_	_
+
+~~~
+<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:50 CET -->
