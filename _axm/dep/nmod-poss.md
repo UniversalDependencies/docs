@@ -13,6 +13,6 @@ This relation is a subtype of the [nmod]() relation, which covers only those pos
 nmod:poss(դատաստանին, Քրիստոսի)
 nmod:poss(աւրինակովն, դատաստանին)
 nmod:poss(judgment, Christ's)
-nmod:poss(example, of Christ)
+nmod:poss(example, Christ's)
 ~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:22:10 CET -->
