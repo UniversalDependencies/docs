@@ -8,7 +8,7 @@ redirect_from: "axm/dep/aux.html"
 udver: '2'
 ---
 
-An auxiliary of a clause is a form of the [auxiliary verbs](AUX) _եմ_ “be”, and its variants (with separate lemma) _լինիմ_/_linim_ “be repeatedly / habitually”, also the verbal auxiliaries  _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”, the and partical-like auxiliaries _պիտի (պիտ, տի)_/_piti (pit, ti)_ “must/will”, _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will” and the negative auxiliaries _չի (չ-)_/_či (č-)_ “do/es not”, _ոչ/oč_ “do/es not” used to construct the periphrastic and the “secondary compound” tenses (in several moods). 
+An auxiliary of a clause is a form of the [auxiliary verbs](AUX) _եմ_ “be”, and its variants (with separate lemma) _լինիմ_/_linim_ “be repeatedly / habitually”, also the verbal auxiliaries  _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”, and partical-like auxiliaries _պիտի (պիտ, տի)_/_piti (pit, ti)_ “must/will”, _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will” and the negative auxiliaries _չի (չ-)_/_či (č-)_ “do/es not”, _ոչ/oč_ “do/es not” used to construct the periphrastic and the “secondary compound” tenses (in several moods). 
 
 Besides `aux`, the forms of _եմ_/_em_ and  _լինիմ_/_linim_ may also act as a [copula](cop).
 
