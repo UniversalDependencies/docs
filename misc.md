@@ -61,12 +61,21 @@ are annotated in the file).
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpaceAfter$"><button>Table for <code>SpaceAfter</code> feature</button></a>
 
-## Known optional attributes
-MISC attributes already attested in UD treebanks are as followed. They are also listed below in alphabetical order
-together with brief documentation (and possibly with links to additional information). We encourage treebank developpers to look at <a href="https://universaldependencies.org/survey-misc.html">the following page</a>, which can help identify errors in features.
+## Survey of optional attributes
+
+In contrast to FEATS features, the MISC attributes are less standardized.
+Some are widely used; others are experimental or only included in a small number of treebanks.
+We encourage treebank developers to review the <a href="https://universaldependencies.org/survey-misc.html">comprehensive list</a> of MISC attributes and values occurring in data, which can help identify errors.
+A table linked to searchable instances can be obtained as well:
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC"><button title="Large table listing MISC attributes and Treebanks">Table for MISC attributes</button></a>
 
+### Attributes documented on this page
+
+A selection of the MISC attributes in use in UD treebanks are summarized below.
+They are grouped thematically in the following table, then given in alphabetical order
+with brief documentation.
+More attributes may be added to this documentation in the future.
 
 <table class="typeindex" border="1">
     <tr style="background-color:cornflowerblue;color:white">
@@ -94,7 +103,7 @@ together with brief documentation (and possibly with links to additional informa
     <tr><td colspan="2"></td>  <td><tt><a href="#entity">Entity</a></tt></td></tr>
 </table>
 
-
+<!--
 #### Attributes pertaining to surface format
 [Correct{Feature}](#correctfeature), [CorrectForm](#correctform), [CorrectSpaceAfter](#correctspaceafter), [ModernForm](#modernform), [NewPar](#newpar), [SpacesAfter](#spacesafter), [SpacesBefore](#spacesbefore), [XML](#xml)
 
@@ -115,7 +124,7 @@ together with brief documentation (and possibly with links to additional informa
 
 #### Attributes linked to syntactic relations and constructions
 [Reduplication](#reduplication), [Subject](#subject) 
-
+-->
 
 
 ## Alphabetical list of features
