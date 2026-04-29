@@ -13,6 +13,7 @@ The dislocated elements attach to the same governor as the dependent that they d
 spoken languages.
 
 ~~~ conllu
+# visual-style 13 3 dislocated color:blue
 1 եւ	եւ	CCONJ	_	_	13	cc	_	_
 2-3 զայնոք	_	_	_	_	_	_	_	_
 2 զ	զ	ADP	_	AdpType=Prep	3	case	_	_
