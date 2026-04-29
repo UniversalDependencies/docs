@@ -50,6 +50,18 @@ In Middle Armenian this is the word form used for subjects of clauses, for direc
 
 * _ծառ_/_çaṙ_ “tree”
 
+
+### <a name="Gen">`Gen`</a>: genitive
+
+In many languages prototypical meaning of genitive is that the noun phrase somehow belongs to its governor.
+
+We do not recognize the genitive except for possessive personal, some demonstrative pronouns/determiners.
+
+#### Examples
+
+* _նորա_/_nora_ “its”
+
+
 ### <a name="Dat">`Dat`</a>: dative
 
 In many languages, prototypical meaning of the genitive is that the noun phrase somehow belongs to its governor. As for the dative, it is often used for indirect objects of verbs. In Middle Armenian, however, they are generally not formally distinct and are therefore considered a single case. The genitive is distinct from the dative only in the paradigms of some personal and demonstrative pronouns. 
@@ -74,6 +86,7 @@ Plural nouns ending with the plural prticle _ք_/_k'_ have distinct nominative a
 
 * _կուզէ <b>զքաղաքն</b> աւիրէ_/_kowzē zk’aġak’n awirē_ “He wants to destroy the <b>city</b>”
 * _ասա՛ <b>զբանս</b>_/_asa zbans_ “say the <b>words</b>”
+
 
 ### <a name="Abl">`Abl`</a>: ablative
 
