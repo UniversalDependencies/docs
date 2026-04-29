@@ -68,6 +68,34 @@ together with brief documentation (and possibly with links to additional informa
 <a href="http://tables.grew.fr/?data=ud_feats/MISC"><button title="Large table listing MISC attributes and Treebanks">Table for MISC attributes</button></a>
 
 
+<table class="typeindex" border="1">
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="2"><strong>Surface format</strong></td>
+        <td colspan="3"><strong>Data language/source</strong></td>
+    </tr>
+    <tr><td><a>Correct{Feature}</a></td><td><a>NewPar</a></td>  <td><a>Gloss</a></td><td><a>MGloss</a></td><td><a>Vform</a></td></tr>
+    <tr><td><a>CorrectForm</a></td><td><a>SpacesAfter</a></td>  <td><a>Lang</a></td><td><a>OrigLang</a></td></tr>
+    <tr><td><a>CorrectSpaceAfter</a></td><td><a>SpacesBefore</a></td>  <td><a>LGloss</a></td><td><a>Ref</a></td></tr>   
+    <tr><td><a>ModernForm</a></td><td><a>XML</a></td>  <td><a>LTranslit</a></td><td><a>Translit</a></td></tr>
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="2"><strong>Morphology</strong></td>
+        <td colspan="3"><strong>Tense/aspect/modality/polarity</strong></td>
+    </tr>
+    <tr><td><a>Analysis</a> = <a>Morf</a></td><td><a>LNumValue</a></td>    <td><a>SType</a></td><td><a>TraditionalTense</a></td></tr>
+    <tr><td><a>LDeriv</a></td><td><a>MSeg</a></td>    <td><a>Tam</a></td><td><a>Vib</a></td></tr>
+    <tr><td><a>LId</a></td><td><a>Root</a></td>    <td><a>TraditionalMood</a></td></tr>
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="1"><strong>Multi-word expressions/named entities</strong></td>
+        <td colspan="2"><strong>Discourse/coreference</strong></td>
+        <td colspan="2"><strong>Syntactic relations/constructions</strong></td>
+    </tr>
+    <tr><td><a>MWE</a></td>  <td><a>Bridge</a></td><td><a>Split</a></td>  <td colspan="2"><a>Reduplication</a></td></tr>
+    <tr><td><a>MWEPOS</a></td>  <td><a>Discourse</a></td><td></td>   <td colspan="2"><a>Subject</a></td></tr>
+    <tr><td><a>NamedEntity</a></td>  <td><a>Entity</a></td></tr>
+    <tr><td><a>Proper</a></td>  <td><a>PDTB</a></td></tr>
+</table>
+
+
 #### Attributes pertaining to surface format
 [Correct{Feature}](#correctfeature), [CorrectForm](#correctform), [CorrectSpaceAfter](#correctspaceafter), [ModernForm](#modernform), [NewPar](#newpar), [SpacesAfter](#spacesafter), [SpacesBefore](#spacesbefore), [XML](#xml)
 
