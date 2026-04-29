@@ -7,7 +7,7 @@ udver: '2'
 # UD for Sinhala <span class="flagspan"><img class="flag" src="../../flags/svg/LK.svg" /></span>
 
 STB, which was released in UD 2.11, contains 100 sentences taken from various sources.
-Appuwa, which was released in UD 2.18, contains 69 sentences taken from a glossed short novel.
+Appuwa, which was released in UD 2.18, contains 69 sentences taken from a glossed short novel, based on a traditional Sinhala folk narrative ("Appuwa").
 
 ## Tokenization and Word Segmentation
 
