@@ -12,9 +12,11 @@ Non-pronominal adjectives are tagged [ADJ]() and the relation is labeled [amod](
 Note, that possessive determiners like _իր_ “his” is currently given the POS tag `DET` and the relation [det:poss]().
 
 ~~~ sdparse
-իր տունն \n his house
-det(տունն, իր)
-det(house, իր)
+ազգ մի այլ \n another type (lit. one other type)
+det(ազգ, մի)
+det(ազգ, այլ)
+det(type, one)
+det(type, other)
 ~~~
 
 ~~~ sdparse
