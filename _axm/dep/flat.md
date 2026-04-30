@@ -16,70 +16,37 @@ these expressions do not have any internal syntactic structure and that the stru
 In Middle Armenian the [flat:name]() relation as a specialization of `flat` is used to join the first (or middle) and the last name of a person. In general, names are
 annotated in a `flat:name`, head-initial structure, in which all words in the name modify the head using the `flat:name` label.
 
-For phrasal or clausal names the usual relations are used (e.g. multi-word names of places).
-
-~~~ sdparse
-flat:name()
-flat:name()
-flat:name()
-flat:name()
-nmod()
-nmod()
-amod()
-amod()
-nmod:poss()
-nmod:poss()
-~~~
-
-~~~ sdparse
-flat:name()
-flat:name()
-~~~
-
 ~~~ sdparse
 Վանա/ADJ[NameType=Geo|Poss=Yes] լիճ/NOUN \n Lake Van
 amod(լիճ, Վանա)
 amod(Lake, Van)
 ~~~
 
-Note, that the titles/honorifics, when immediately following the first noun, are analyzed using the `flat:name` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)): 
+Note, that the titles/honorifics, when immediately following the first noun, are analyzed using the `flat:name` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)):
 
 ~~~ sdparse
-Խոսրով Գ Կոտակ \n Khosrov III the-Small
-flat:name(Խոսրով, Կոտակ)
-flat:name(Khosrov, the-Small)
-flat:name(Խոսրով, Գ)
-flat:name(Khosrov, III)
+Մխիթար Հերացի \n Mkhitar Heratsi
+flat:name(Մխիթար, Հերացի)
+flat:name(Mkhitar, Heratsi)
 ~~~
 
 ~~~ sdparse
-Արշակ թագավորը \n King Arshak 
-flat:name(Արշակ, թագավորը)
+Ռոբէն թագաւոր \n King Arshak 
+flat:name(Ռոբէն, թագաւոր)
 flat:name(King, Arshak)
 ~~~
 
 
 ## Dates and Complex Numerals
 
-The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers. Note, that for numerical (spacial and time) distributions and ranges the [flat:dist]() and [flat:range]() relations are used.
+The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers.
 
 ~~~ sdparse
-հարյուր հիսունհինգ հազար \n one hundred fifty-five thousand .
-flat(հարյուր, հիսունհինգ)
-flat(hundred, fifty-five)
-flat(հարյուր, հազար)
-flat(hundred, thousand)
+հարոյր տասնուիաւթն \n one hundred seventeen
+flat(հարոյր, տասնուիաւթն)
+flat(hundred, seventeen)
 ~~~
 
-Date expressions which have a very clear syntactic structure, should be annotated with regular dependency relations. In 
-other cases, they have a flat structure with no clearly discernible head, as in _ _, in which case the `flat` relation should be used. 
-
-
-~~~ sdparse
-18 Դեկտեմբեր 2015 \n 18 December 2015
-flat(18-1, Դեկտեմբեր)
-flat(18-1, 2015-3)
-flat(18-5, December)
-flat(18-5, 2015-7)
-~~~
+Date expressions which have a very clear syntactic structure, should be annotated with regular dependency relations. In
+other cases, they have a flat structure with no clearly discernible head.
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:55 CET -->
