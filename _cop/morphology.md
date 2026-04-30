@@ -71,3 +71,7 @@ The category IMOD is cast as a form of `ADV`. While the alternatives of `ADP` (a
 The existential predicates (EXIST) have been mapped as `VERB`, whereas the copula (COP) is mapped to `PTC`, since unlike in the case of existence, it does not contain the actual predicate, and is also absent in the interlocutive patterns.
 
 Finally the converters have been treated similarly to conjugation bases, although they co-occur with the bases. Subordinate converters (CCIRC, CREL) are treated as `SCONJ`, while (potentially) main clause converters (CFOC, CPRET) are tagged as `AUX`. In all cases, we stress that these are not ideal tag assignments, but ones that aim to stay closest to the limited universal tag set’s behavior. For all new projects we recommend using Scriptorium tags and converting automatically to universal tags if necessary.
+
+**Morphological features**
+
+See the [Coptic features](feat/index.html) table.
