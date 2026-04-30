@@ -40,7 +40,7 @@ udver: '2'
 	
 * Possessive adjectives in Sardinian are always postnominal and are tagged as ADJ.
 * The tag PRON is used for words that replace nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. The following cases are thus considered as PRON:
-	* demonstratives (***custa** est *, "**this** is") - in Sardinian, definite articles with pronominal function are also tagged as demonstrative pronouns (***su** chi apo promintu*, lit. "**that** that I have promised")
+	* demonstratives (***custa** est *, "**this** is", ***su** chi apo promintu*, lit. "**that** that I have promised")
 	* indefinites (*sos **ateros***, "the **others**")
 	* possessives (*sos **nostros***, "**ours**")
 	* relatives (*chi*, "that")
@@ -57,10 +57,8 @@ udver: '2'
   * Past participle verbs are also inflected for gender.
 * Adjectives (including possessives, except for the 3rd person plural, *issoro*), as well as the numerals *unu* and *duos/duus* agree with nouns for Gender and Number.
 * The quantifiers *totu* (“all, every”), *donzi-dogni/cada* (“every”), and *carchi* (“some”) precede the noun and are invariable; likewise *meda* (“much, many”) is generally invariable, but it is preferably postposed. 
-* Adverbs and adjectives do not generally inflect for degree. The only exception of *mèzus/mèngius/mèllus* ("better/best") and *peus/pejus* ("worse/worst"). The suffix -ìssimu also exists, but is restricted to poetic language.
-<!--@Nicoletta, confermi? Come possiamo poi evidenziare le forme delle diverse varianti-->
+* Adverbs and adjectives do not generally inflect for degree. The only exception of *mèzus/mèngius/mèllus* (all meaning both "better" and "best") and *peus/pejus* (all meaning both "worse" and "worst"). The suffix *-ìssimu* also exists, but is restricted to poetic language.
 * Determiners agree with nouns in the same way as adjectives.
-<!--@Nicoletta, confermi? -->
 * Pronouns, determiners, quantifiers and pronominal adverbs may be further specified by the PronType feature. The Clitic feature is used for marking clitic pronouns, while the Poss feature is used for possessives (both adjectives and pronouns).
 
 ---
@@ -70,14 +68,11 @@ udver: '2'
 ### Word Order and Core Arguments
 * The default word order in Sardinian is SVO, but topicalizations of the object are common.
 * Nominal subject ([nsubj]()) is a bare noun phrase without preposition.
-* Sardinian is a pro-drop language and the the features of the subject can be inferred from the inflectional morphological features associated with the verb..
+* Sardinian is a pro-drop language and the features of the subject can be inferred from the inflectional morphological features associated with the verb.
 * Direct nominal object ([obj]()) is either a bare noun phrase (for inanimate objects) or a prepositional phrase with the preposition _a_ . The latter case is usually encountered either with personal pronouns or with proper nouns. Occasionally, this may appear with nouns preceded by a definite article.
 
 ### Copula Constructions
 * Sardinian employs the copular verb *èssere/èssiri* "be" in predicational, specificational, equative and identificational constructions; the copula can be linked to an adjectival, nominal or prepositional predicate.
-
-<!--@Nicoletta, sarebbe utile aggiungere anche la differenza tra "b'est" e "b'at", ma è meglio se lo fai tu;
-	idem per le forme verbali perifrastiche -->
 
 
 ### Relation Subtypes
@@ -85,9 +80,6 @@ udver: '2'
   * [acl:relcl]() for relative clauses
   * [aux:pass]() for passive auxiliaries
   * [compund:redup]() for reduplications 
-  * [expl:impers]() for impersonal clitics
-  * [expl:pass]() for reflexive clitics in reflexive passives
-  * [flat:name]() for proper names
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
 
