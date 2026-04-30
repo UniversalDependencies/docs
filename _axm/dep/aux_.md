@@ -26,8 +26,9 @@ aux(գնալն, լինի)
 aux(move, to-be)
 ~~~
 
+~~~ sdparse
 (այլազգիք) որ այն շմորոյն պատճառք լինին լել \n (the foreigners) who happen to have been the cause of that strife
 aux(լել, լինին)
 aux(been, have)
-
+~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:17 CET -->
