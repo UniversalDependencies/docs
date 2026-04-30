@@ -26,13 +26,6 @@ udver: '2'
 Voice is a feature of verbs that helps map the traditional syntactic functions,
 such as subject and object, to semantic roles, such as agent and patient.
 
-(**This feature, as defined currently, cannot correctly handle voice features on Turkish verbs.**)
-The above combinations (of camel-case voice values) are a temporary solution to indicate "multiple
-voice" features, but they are certainly not the best way to indicate
-these features.
-See [#197](https://github.com/UniversalDependencies/docs/issues/197) and
-[#125](https://github.com/UniversalDependencies/docs/issues/125#issuecomment-112512320)
-for the discussion.
 
 Note: This page was adapted from [Voice for Turkish](https://universaldependencies.org/qtd/feat/Voice.html).
 
@@ -41,7 +34,7 @@ Note: This page was adapted from [Voice for Turkish](https://universaldependenci
 The subject of the verb is affected by the action (patient).
 The doer (agent) is either unexpressed or it appears as a noun phrase marked with postposition _tarafından_ "by" or suffix _-IncA_.
 
-In Turkish, a (transitive) verb may get two passive affixes (see below), and intransitive verb may also be passivized.
+In Ottoman Turkish, a (transitive) verb may get two passive affixes (see below), and intransitive verb may also be passivized.
 These result in a voice that is called [impersonal passive](https://en.wikipedia.org/wiki/Impersonal_passive_voice).
 Similarly a single passive affix on an intransitive verb also
 indicates impersonal passive.
@@ -97,7 +90,7 @@ the verb roots that can become reciprocal is limited.
 ### <a name="Cau">`Cau`</a>: causative voice
 
 In causative constructions the subject is the entity "causing" the action. It generally translate to English as 'cause/make/have/let/allow' someone to perform action described by the main verb.
-Many (lexicalized) verbs that have unrelated roots in other languages are formed are related by the causative suffix in Turkish,
+Many (lexicalized) verbs that have unrelated roots in other languages are formed are related by the causative suffix in Ottoman Turkish,
 e.g., _öl-_ "die" and _öl-<b>dür</b>_ "kill" (to cause someone to die).
 
 
