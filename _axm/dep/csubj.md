@@ -12,24 +12,23 @@ the main lexical verb or other predicate of the subject clause.
 For the clausal subject of a passive verb or verb group the subtype [csubj:pass]() is used.
 
 ~~~ sdparse
-csubj()
-csubj()
+չէ պատեհ այլ մարդ սպաննել \n it is not appropriate to kill another human being
+csubj(պատեհ, սպաննել)
+csubj(appropriate, to-kill)
 ~~~
 
 ~~~ sdparse
-csubj()
-csubj()
+Զընդանելն ըստ թագաւորին կամացն լինի . \n To imprison shall be at the king's pleasure .
+csubj(լինի, Զընդանելն)
+csubj(shall-be, To-imprison)
 ~~~
 
-~~~ sdparse
-csubj()
-csubj()
-~~~
 
 We also analyze the nominal predicates with clausal subjects formed by subordinating conjunction _որ_ similarly.
 
 ~~~ sdparse
-csubj()
-csubj()
+պատեհ է որ ձենել տայ \n it is appropriate that he has (someone) call out
+csubj(պատեհ, ձենել)
+csubj(appropriate, call-out)
 ~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->
