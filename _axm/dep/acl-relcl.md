@@ -1,3 +1,10 @@
+---
+layout: relation
+title: 'acl:relcl'
+shortdef: 'relative clause modifier'
+udver: '2'
+---
+
 A relative clause modifier of an noun is a relative clause modifying the noun. The relation points from the noun that is modified to the head of the relative clause.
 
 ~~~ sdparse

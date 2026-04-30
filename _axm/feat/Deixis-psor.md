@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Med">Med</a></td>
   <td><a href="#Prox">Prox</a></td>
+  <td><a href="#Remt">Remt</a></td>
 </tr>
 </table>
 
@@ -32,6 +33,15 @@ The entity is neither close nor far away from the reference point (e.g., from th
 
 * _Ես այդ աթոռոյ<b>դ</b> տէրն  եմ/Es ayd at’oṙoyd tērn em_ “I am the owner of that chair”
 * _Յայդ դաշտէ<b>դ</b> ի վայր գայի անարատ սրտովս դեպ ի տուն/Yayd daštēd i vayr gayi anarat srtovs dep i town_ “From that field I was coming down, toward home with my pure heart”
+
+
+### <a name="Remt">`Remt`</a>: remote, distal
+
+The entity is far away from the reference point (e.g., from the speaker).
+
+#### Examples
+
+* _երբ այս ազգ օձս խայթէ զմարդն, նայ հանց ցաւէ խիստ, որ այլազգ օձոյն<b>ն</b> չցաւէ_/_erb ays azg òjs xayt’ē zmardn, nay hanc’ c’awē xist, or aylazg òjoynn čc’awē_ “When this kind of snake bites a man, it tends to hurt so intensely that the (bite) of other kinds of snakes does not hurt ([in such a way)”
 
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:11 CET -->

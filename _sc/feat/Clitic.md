@@ -41,8 +41,7 @@ nendi**ddis** ("saying **to them**)
 * nendi_ddis_ ("saying **to them**)
 
 
-*Source: [Mensching, 2017]()
-<!--TODO: aggiungere link-->
+*Source: [Mensching, 2017: "Morfosintassi: Sincronia", in Blasco-Ferrer E., Koch P., Marzo D. (eds), Manuale di Linguistica Sarda. De Guyter, Berlin, pp. 376-396](https://www.researchgate.net/publication/318301457_54_Morfosintassi_sincronia)
 
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:20:06 CET -->
  

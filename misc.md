@@ -61,13 +61,49 @@ are annotated in the file).
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^SpaceAfter$"><button>Table for <code>SpaceAfter</code> feature</button></a>
 
-## Known optional attributes
-MISC attributes already attested in UD treebanks are as followed. They are also listed below in alphabetical order
-together with brief documentation (and possibly with links to additional information). We encourage treebank developpers to look at <a href="https://universaldependencies.org/survey-misc.html">the following page</a>, which can help identify errors in features.
+## Survey of optional attributes
+
+In contrast to FEATS features, the MISC attributes are less standardized.
+Some are widely used; others are experimental or only included in a small number of treebanks.
+We encourage treebank developers to review the <a href="https://universaldependencies.org/survey-misc.html">comprehensive list</a> of MISC attributes and values occurring in data, which can help identify errors.
+A table linked to searchable instances can be obtained as well:
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC"><button title="Large table listing MISC attributes and Treebanks">Table for MISC attributes</button></a>
 
+### Attributes documented on this page
 
+A selection of the MISC attributes in use in UD treebanks are summarized below.
+They are grouped thematically in the following table, then given in alphabetical order
+with brief documentation.
+More attributes may be added to this documentation in the future.
+
+<table class="typeindex" border="1">
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="2"><strong>Surface format</strong></td>
+        <td colspan="3"><strong>Data language/source</strong></td>
+    </tr>
+    <tr><td><tt><a href="#correctfeature">Correct{Feature}</a></tt></td><td><tt><a href="#newpar">NewPar</a></tt></td>  <td><tt><a href="#gloss">Gloss</a></tt></td><td><tt><a href="#mgloss">MGloss</a></tt></td><td><tt><a href="#vform">Vform</a></tt></td></tr>
+    <tr><td><tt><a href="#correctform">CorrectForm</a></tt></td><td><tt><a href="#spacesafter">SpacesAfter</a></tt></td>  <td><tt><a href="#lang">Lang</a></tt></td><td><tt><a href="#origlang">OrigLang</a></tt></td></tr>
+    <tr><td><tt><a href="#correctspaceafter">CorrectSpaceAfter</a></tt></td><td><tt><a href="#spacesbefore">SpacesBefore</a></tt></td>  <td><tt><a href="#lgloss">LGloss</a></tt></td><td><tt><a href="#ref">Ref</a></tt></td></tr>   
+    <tr><td><tt><a href="#modernform">ModernForm</a></tt></td><td><tt><a href="#xml">XML</a></tt></td>  <td><tt><a href="#ltranslit">LTranslit</a></tt></td><td><tt><a href="#translit">Translit</a></tt></td></tr>
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="2"><strong>Morphology</strong></td>
+        <td colspan="3"><strong>Tense/aspect/modality/polarity</strong></td>
+    </tr>
+    <tr><td><tt><a href="#analysis">Analysis</a></tt> = <tt><a href="#morf">Morf</a></tt></td><td><tt><a href="#lnumvalue">LNumValue</a></tt></td>    <td><tt><a href="#stype">SType</a></tt></td><td><tt><a href="#traditionaltense">TraditionalTense</a></tt></td></tr>
+    <tr><td><tt><a href="#lderiv">LDeriv</a></tt></td><td><tt><a href="#mseg">MSeg</a></tt></td>    <td><tt><a href="#tam">Tam</a></tt></td><td><tt><a href="#vib">Vib</a></tt></td></tr>
+    <tr><td><tt><a href="#lid">LId</a></tt></td><td><tt><a href="#root">Root</a></tt></td>    <td><tt><a href="#traditionalmood">TraditionalMood</a></tt></td></tr>
+    <tr style="background-color:cornflowerblue;color:white">
+        <td colspan="2"><strong>Multi-word expressions/named entities</strong></td>
+        <td colspan="2"><strong>Discourse/coreference</strong></td>
+        <td colspan="1"><strong>Syntactic relations/constructions</strong></td>
+    </tr>
+    <tr><td><tt><a href="#mwe">MWE</a></tt></td><td><tt><a href="#namedentity">NamedEntity</a></tt></td>  <td><tt><a href="#bridge">Bridge</a></tt></td><td><tt><a href="#pdtb">PDTB</a></tt></td>  <td><tt><a href="#reduplication">Reduplication</a></tt></td></tr>
+    <tr><td><tt><a href="#mwepos">MWEPOS</a></tt></td><td><tt><a href="#proper">Proper</a></tt></td>  <td><tt><a href="#discourse">Discourse</a></tt></td><td><tt><a href="#split">Split</a></tt></td>   <td><tt><a href="#subject">Subject</a></tt></td></tr>
+    <tr><td colspan="2"></td>  <td><tt><a href="#entity">Entity</a></tt></td></tr>
+</table>
+
+<!--
 #### Attributes pertaining to surface format
 [Correct{Feature}](#correctfeature), [CorrectForm](#correctform), [CorrectSpaceAfter](#correctspaceafter), [ModernForm](#modernform), [NewPar](#newpar), [SpacesAfter](#spacesafter), [SpacesBefore](#spacesbefore), [XML](#xml)
 
@@ -88,7 +124,7 @@ together with brief documentation (and possibly with links to additional informa
 
 #### Attributes linked to syntactic relations and constructions
 [Reduplication](#reduplication), [Subject](#subject) 
-
+-->
 
 
 ## Alphabetical list of features

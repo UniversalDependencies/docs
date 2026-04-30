@@ -10,23 +10,14 @@ The `fixed` relation is one of the three relations for multiword expressions (MW
 Note, that these expressions do not have any internal syntactic structure (except from a historical perspective) and that the structural annotation is in principle arbitrary. The leftmost word is the head and all the other words are attached as its `fixed` modifiers.
 
 ~~~ sdparse
-fixed()
-fixed()
+քաւէլ թէ \n if only
+fixed(քաւէլ, թէ)
+fixed(if, only)
 ~~~
 
 ~~~ sdparse
-fixed()
-fixed()
+ամէն ինչ \n every thing
+fixed(ամէն, ինչ)
+fixed(every, thing)
 ~~~
-
-~~~ sdparse
-fixed()
-fixed()
-~~~
-
-~~~ sdparse
-fixed()
-fixed()
-~~~
-
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:54 CET -->
