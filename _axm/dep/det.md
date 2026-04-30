@@ -9,28 +9,18 @@ The relation determiner (`det`) holds between a nominal head and its [determiner
 This relation is used for pronominal adjectival modifiers of noun phrases; the `det` modifier has the POS tag `DET` and vice versa.
 Non-pronominal adjectives are tagged [ADJ]() and the relation is labeled [amod]().
 
-Note, that possessive determiners like _իմ&nbsp;_ “my” is currently given the POS tag `DET` and the relation [det:poss]().
+Note, that possessive determiners like _իր_ “his” is currently given the POS tag `DET` and the relation [det:poss]().
 
 ~~~ sdparse
-det()
-det()
+իր տունն \n his house
+det(տունն, իր)
+det(house, իր)
 ~~~
 
 ~~~ sdparse
-det()
-det()
-~~~
-
-~~~ sdparse
-det()
-det()
-~~~
-
-Pronominal quantifiers are also tagged `DET` and their relation to their head is a `det` relation.
-
-~~~ sdparse
-det()
-det()
+այլ դատաւորքն \n the other judges
+det(դատաւորքն, այլ)
+det(judges, other)
 ~~~
 
 See [nummod]() for a broader discussion of the various situations with quantifiers.
