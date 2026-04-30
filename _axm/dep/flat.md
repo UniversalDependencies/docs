@@ -30,13 +30,6 @@ flat:name(Մխիթար, Հերացի)
 flat:name(Mkhitar, Heratsi)
 ~~~
 
-~~~ sdparse
-Ռոբէն թագաւոր \n King Arshak 
-flat:name(Ռոբէն, թագաւոր)
-flat:name(King, Arshak)
-~~~
-
-
 ## Dates and Complex Numerals
 
 The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers.
