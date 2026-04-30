@@ -8,10 +8,8 @@ udver: '2'
 The `flat:name` relation is a specialization of [flat]() used for names.
 
 ~~~ sdparse
-Հրանտ Մելիք - Շահնազարյանը մամուլի ասուլիս է հրավիրել ։
-flat:name(Հրանտ, Մելիք)
-flat:name(Հրանտ, Շահնազարյանը)
-punct(Շահնազարյանը, -)
+Յովանէս Թլկուրանցի
+flat:name(Յովանէս, Թլկուրանցի)
 ~~~
 
 Names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the `flat:name` label. This also works for numerals that 
