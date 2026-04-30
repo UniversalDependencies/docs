@@ -34,6 +34,8 @@ udver: '2'
 Ottoman Turkish verbs may carry a wide range of mood information.
 Different moods are indicated by a number of suffixes, which also interact with [tense](Tense) and [aspect](Aspect) of the verb.
 
+Note: This page was adapted from [Mood for Turkish](https://universaldependencies.org/qtd/feat/Mood.html).
+
 ### <a name="Ind">`Ind`</a>: indicative
 
 The indicative can be considered the default mood. A verb in indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
