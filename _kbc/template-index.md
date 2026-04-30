@@ -10,7 +10,7 @@ udver: '2'
 
 * Words are generally delimited by whitespace or punctuation. No words with spaces inside them occur. Orthographic tokens generally correspond to single syntactic words.
 
-* Some functional words, however, fuse with their syntactic heads, e.g., the negation particle *aG*, the perfective auxiliary *jaG*, the relativizer *ane*, and the complementizer *me*. These multiword tokens are split to separate syntactic words in the treebank, following the practice of the Corpus Kadiwéu (Sandalo et al. 2024) at the Tycho Brahe Platform (Veronesi & Galves 2024).
+* Some functional words, however, may fuse with their syntactic heads, e.g., the negation particle *aG*, the perfective auxiliary *jaG*, the relativizer *ane*, and the complementizer *me*, e.g., . These multiword tokens are split to separate syntactic words in the treebank, following the practice of the Corpus Kadiwéu (Sandalo et al. 2024) at the Tycho Brahe Platform (Veronesi & Galves 2024).
 
 ## Morphology
 
