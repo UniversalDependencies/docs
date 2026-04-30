@@ -8,13 +8,14 @@ udver: '2'
 A clausal passive subject is a clausal syntactic subject of a passive clause.
 
 ~~~ sdparse
-csubj:pass()
-csubj:pass()
+եւ սպաննութեան իրաւունքն այս է, որ եւ ինք սպանվի \n and the law of murder is this: that he himself be killed
+csubj:pass(սպանվի, ինք)
+csubj:pass(be-killed, he)
 ~~~
 
 ~~~ sdparse
-
-csubj:pass()
-csubj:pass()
+վնասն կտրվի ի դատաստանն \n the damage will be assessed by the court.
+csubj:pass(կտրվի, վնասն)
+csubj:pass(be-assessed, the-damage)
 ~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:41 CET -->
