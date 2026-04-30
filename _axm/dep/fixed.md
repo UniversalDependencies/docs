@@ -16,18 +16,8 @@ fixed(if, only)
 ~~~
 
 ~~~ sdparse
-fixed()
-fixed()
+ամէն ինչ \n every thing
+fixed(ամէն, ինչ)
+fixed(every, thing)
 ~~~
-
-~~~ sdparse
-fixed()
-fixed()
-~~~
-
-~~~ sdparse
-fixed()
-fixed()
-~~~
-
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:54 CET -->
