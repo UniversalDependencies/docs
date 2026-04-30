@@ -61,6 +61,28 @@ is no uninflected verbal root.” The language lacks infinitives and participles
 
 * Presently, 13 dependency relations are used, 2 of them, acl:relcl and nmod:poss, are subtyped.
 
+## References
+
+- Galves, C., Sandalo, F., Sena, T. A. de, & Veronesi, L. (2017). Annotating a polysynthetic language: From Portuguese to Kadiwéu. *Cadernos de Estudos Linguísticos, 59*(3), 631–648. https://doi.org/10.20396/cel.v59i3.8651003
+
+- Griffiths, G. (2002). *Dicionário da língua Kadiwéu: Kadiwéu–Português, Português–Kadiwéu*. Cuiabá, MT: Sociedade Internacional de Linguística (SIL).
+
+- Sandalo, F. (1995). *A grammar of Kadiwéu* (PhD dissertation), University of Pittsburgh.
+
+- Sandalo, F. (2023). Reportative evidentiality, tense, and negation in Kadiwéu. *LIAMES: Línguas Indígenas Americanas, 23*, e023006. https://doi.org/10.20396/liames.v23i00.8671197
+
+- Sandalo, F., & Galves, C. (2023). Anotando sintaticamente uma língua originária do Brasil: O problema de Anchieta. *Cadernos de Estudos Linguísticos, 65*, e023007. https://doi.org/10.20396/cel.v65i00.8673592
+
+- Sandalo, F., & Galves, C. (2025). A brief description and analysis of tense, finiteness, and verbal embedding strategies in Kadiwéu. *Cadernos de Estudos Linguísticos, 67*, e025021. https://doi.org/10.20396/cel.v67i00.8677360
+
+- Sandalo, F., & Michelioudakis, D. (2016). Classifiers and plurality: Evidence from a deictic classifier language. *The Baltic International Yearbook of Cognition, Logic and Communication, 11*, 1–40. https://doi.org/10.4148/1944-3676.1112
+
+- Sandalo, F., Pires, V., Galves, C., Silva, H., Francisco, O., & Silva, S. (2024). *Corpus Kadiwéu*. In L. Veronesi & C. Galves (Eds.), *The Tycho Brahe Platform*. https://www.tycho.iel.unicamp.br/
+
+- Sena, T. A. de. (2025). *Morfologia nominal e gênero em Kadiwéu* (PhD dissertation). Universidade Estadual de Campinas, Instituto de Estudos da Linguagem, Campinas, SP.
+
+- Veronesi, L., & Galves, C. (2024). *The Tycho Brahe Platform*. https://www.tycho.iel.unicamp.br/
+
 
 ## Treebanks
 
