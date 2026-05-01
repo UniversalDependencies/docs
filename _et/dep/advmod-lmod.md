@@ -8,6 +8,6 @@ udver: '2'
 The  _advmod:lmod_ relation is used for adverbial modifiers with locative modality.
 
 ~~~ sdparse
-Udu tõuseb ülespoole.
+Udu tõuseb ülespoole .
 advmod:lmod(tõuseb-2, ülespoole-3)
 ~~~
