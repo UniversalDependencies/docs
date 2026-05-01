@@ -10,7 +10,7 @@ This semantical subrelation is used to single out those [oblique] (et-dep/obl) a
 Estonian temporal oblique arguments can appear in a wide variety of cases (nominative, partitive, local cases, etc.) and as adpositional phrases.
 
 ~~~ sdparse
-Festivali põhiprogramm avatakse reedel.
+Festivali põhiprogramm avatakse reedel .
 obl:tmod(avatakse-3, reedel-4)
 ~~~
 
