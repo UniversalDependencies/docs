@@ -9,4 +9,9 @@ This semantical subrelation is used to single out those [oblique] (et-dep/obl) a
 
 Estonian temporal oblique arguments can appear in a wide variety of cases (nominative, partitive, local cases, etc.) and as adpositional phrases.
 
+~~~ sdparse
+Festivali põhiprogramm avatakse reedel.
+obl:tmod(avatakse, reedel)
+~~~
+
 The `tmod` subrelation is also used for [adverbial](et-dep/advmod-tmod) modifiers.
