@@ -9,5 +9,5 @@ The  _advmod:tmod_ relation is used for adverbial modifiers with temporal modali
 
 ~~~ sdparse
 Ta ei kasutanud seda kunagi.
-advmod:tmod(kasutanud, kunagi)
+advmod:tmod(kasutanud-3, kunagi-5)
 ~~~
