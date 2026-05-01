@@ -1,0 +1,13 @@
+---
+layout: relation
+title: 'advmod:tmod'
+shortdef: 'advmod with temporal modality'
+udver: '2'
+---
+
+The  _advmod:tmod_ relation is used for adverbial modifiers with temporal modality.
+
+~~~ sdparse
+Ta ei kasutanud seda kunagi.
+advmod:tmod(kasutanud, kunagi)
+~~~
