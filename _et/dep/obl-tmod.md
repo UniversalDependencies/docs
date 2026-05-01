@@ -11,7 +11,7 @@ Estonian temporal oblique arguments can appear in a wide variety of cases (nomin
 
 ~~~ sdparse
 Festivali põhiprogramm avatakse reedel.
-obl:tmod(avatakse, reedel)
+obl:tmod(avatakse-3, reedel-4)
 ~~~
 
 The `tmod` subrelation is also used for [adverbial](et-dep/advmod-tmod) modifiers.
