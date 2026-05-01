@@ -9,4 +9,9 @@ This semantical subrelation is used to single out those [oblique](et-dep/obl) ar
 
 Estonian locative oblique arguments can be a nominal in the additive, illative, inessive, elative, allative, adessive, or ablative case, or it can form an adpositional phrase with a preposition or postposition, appearing in the genitive or partitive case.
 
+~~~ sdparse
+Winston hakkas trepist üles minema.
+obl:lmod(minema-5, trepist-3)
+~~~
+
 The `lmod` subrelation is also used for [adverbial](et-dep/advmod-lmod) modifiers.
