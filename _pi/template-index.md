@@ -6,14 +6,18 @@ udver: '2'
 
 # UD for Pali <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
+## Orthography
+
+* While Pāli can traditionally be written with a variety of scripts, for UD we use [the IAST Romanization standard](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration).
+* If your corpus or text is in another script or alternate Romanization, you can use a tool like [aksharamukha](https://aksharamukha.com/python) to automatically convert it to IAST.
+* As different scripts use different, and sometimes no, punctuation, we further standardize our orthography by **removing all punctuation** from our texts.
+* IAST is case insensitive. Here, we use lowercase with the first letter each sentence capitalized by convention.
+
 ## Tokenization and Word Segmentation
 
-*
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* Words are generally delimited by spaces.
+* Compounds are split and sandhi undone as it is the custom in Sanskritic linguistics.
+* Multi-word tokens are generally not used. Parts of a multi-word name (e.g. "Saccaka Nigaṇṭhāputta") should get the [flat:name]() dependency relation. 
 
 ## Morphology
 
