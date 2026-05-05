@@ -57,7 +57,7 @@ It is meant for the maintenance task force rather than individual treebank teams
   most suitable for us. It takes care of the loop (using `enhanced_graph_properties.pl` on
   individual treebanks), can take the subset of treebanks we are interested in (the ones to be released)
   and prints only those that really have enhancements. The output is in MarkDown and we save it in
-  docs as [survey-enhanced.md](survey-enhanced.html) so that everyone can see it.
+  docs as [survey-enhanced.md](../survey-enhanced.html) so that everyone can see it.
 
 	```bash
 	tools/survey_enhancements.pl --datapath `pwd -P` --tbklist released_treebanks.txt | tee docs/survey-enhanced.md
