@@ -18,7 +18,7 @@ the relation is [det]() instead of `amod`.
 ~~~
 
 ~~~ conllu
-# visual-style 2 1 amod color:blue
+# visual-style 5 4 amod color:blue
 1	լվա	լվանալ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Style=Var|Subcat=Tran|VerbForm=Fin|Voice=Act	0	root	_	_
 2-3	զերեսդ	_	_	_	_	_	_	_	_
 2	զ	զ	ADP	_	AdpType=Prep	3	case	_	_
