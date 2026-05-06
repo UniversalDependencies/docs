@@ -20,11 +20,11 @@ Currently, we also use `case` for some other case-marking elements treated as se
 
 ~~~ conllu
 # visual-style 3 4 case color:blue
-1	շաղվես	շաղվել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	շաղվես	շաղվել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	եւ	եւ	CCONJ	_	_	5	cc	_	_
 3	սիսռան	սիսեռ|սիսառն|սիսեառն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	obl	_	_
 4	չաք	չաք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|ExtPos=ADP|Number=Sing	3	case
-5	տաս	տալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
+5	տաս	տալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	որ	որ	SCONJ	_	_	8	mark	_	_
 8	ուտէ	ուտէ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
@@ -36,6 +36,6 @@ Currently, we also use `case` for some other case-marking elements treated as se
 2	ատենն	ատեն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|ExtPos=ADP|Number=Sing	1	case	_	_
 3	սեխի	սեխ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	_
 4	կեղեւ	կեղեւ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	_
-5	ձգես	ձգել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	
+5	ձգես	ձգել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root
 ~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:22 CET -->
