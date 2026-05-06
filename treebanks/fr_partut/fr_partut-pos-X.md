@@ -39,8 +39,8 @@ The 3rd highest number of forms (1) was observed with the lemma “X”: <em>X</
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (5 tokens).
-Examples: <em>Capital, Risk, Social, ad, hoc</em>
+The most frequent feature combination is `_` (5 tokens).
+Examples: <em>217a, 4d, X, a, b</em>
 
 
 ## Relations

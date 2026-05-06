@@ -40,8 +40,8 @@ The 3rd highest number of forms (2) was observed with the lemma “fuiom”: <em
 `AUX` occurs with 9 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=3`, `Tense=Fut`, `Tense=Pres`, `VerbForm=Inf`
 
 `AUX` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (6 tokens).
-Examples: <em>est, fust, se, si</em>
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Fut` (6 tokens).
+Examples: <em>fust, fuiest</em>
 
 
 ## Relations

@@ -61,8 +61,8 @@ The 1st highest number of forms (1028) was observed with the lemma “_”: <em>
 `VERB` occurs with 22 feature-value pairs: `Aspect=Aor`, `Aspect=Imp`, `Aspect=Perf`, `Degree=Dim`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Mood=Imp`, `Mood=Opt`, `Number=Plur`, `Number=Sing`, `PartType=Int`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `VerbClass=1`, `VerbClass=2`, `VerbForm=Conv`, `VerbType=Light`, `Voice=Mid`, `Voice=Pass`
 
 `VERB` occurs with 108 feature combinations.
-The most frequent feature combination is `VerbClass=1` (232 tokens).
-Examples: <em>eːn, indi, ini, iːfi, tindi, diːtiːt, akajeː, difeː, iːbri, akeːna</em>
+The most frequent feature combination is `Gender=Masc|Number=Sing|VerbClass=2` (232 tokens).
+Examples: <em>jʔi, jʔiːni, diwi, giːga, giːgjaː, jhaka, jhaksi, mʔa, ɖaːbiːni, daːsi</em>
 
 
 ## Relations

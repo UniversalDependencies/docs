@@ -45,8 +45,8 @@ The 1st highest number of forms (7) was observed with the lemma “_”: <em>କ
 `AUX` occurs with 2 feature-value pairs: `Number=Plur`, `Number=Sing`
 
 `AUX` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (4 tokens).
-Examples: <em>ନାହିଁ, ଥିଲେ</em>
+The most frequent feature combination is `Number=Sing` (4 tokens).
+Examples: <em>କରିଥିଲେ, ଥିଲେ, ନୁହେଁ, ପାରେନା</em>
 
 
 ## Relations

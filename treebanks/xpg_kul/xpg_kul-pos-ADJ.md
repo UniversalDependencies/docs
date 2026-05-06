@@ -34,8 +34,8 @@ The 3rd highest number of forms (2) was observed with the lemma “panta”: <em
 `ADJ` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `ADJ` occurs with 15 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (7 tokens).
-Examples: <em>mekas, γλουρεος, ζως, ναδροτος, νιοισιος, πεις, πουντας</em>
+The most frequent feature combination is `Case=Nom|Gender=Neut|Number=Sing` (7 tokens).
+Examples: <em>ακκαλος, maneion, ακκαλο̣[ς, τιδρ]ε̣γρουν, τιδρεγρουν, τιδρερουν</em>
 
 
 ## Relations

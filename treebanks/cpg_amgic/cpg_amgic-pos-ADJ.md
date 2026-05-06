@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “fikirsúzis�
 `ADJ` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `ADJ` occurs with 9 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Neut|Number=Plur` (4 tokens).
-Examples: <em>polá, ála, úla</em>
+The most frequent feature combination is `_` (4 tokens).
+Examples: <em>güzél, ko</em>
 
 
 ## Relations

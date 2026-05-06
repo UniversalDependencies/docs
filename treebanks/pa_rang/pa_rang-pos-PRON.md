@@ -65,8 +65,8 @@ The 3rd highest number of forms (3) was observed with the lemma “اپنا”: 
 `PRON` occurs with 14 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
 
 `PRON` occurs with 24 feature combinations.
-The most frequent feature combination is `PronType=Prs` (44 tokens).
-Examples: <em>میں, مینوں, میرے, انھاں, میرا, آپنی, اسنوں, اسی, میری, اسنے</em>
+The most frequent feature combination is `PronType=Dem` (44 tokens).
+Examples: <em>اہ, اس, ایہہ, اسنے</em>
 
 
 ## Relations

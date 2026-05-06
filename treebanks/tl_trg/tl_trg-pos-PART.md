@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “daw”: <em>d
 `PART` occurs with 5 feature-value pairs: `Link=Yes`, `PartType=Des`, `PartType=Int`, `PartType=Nfh`, `Polarity=Neg`
 
 `PART` occurs with 5 feature combinations.
-The most frequent feature combination is `PartType=Int` (6 tokens).
-Examples: <em>ba, ano, kaya, bang</em>
+The most frequent feature combination is `Polarity=Neg` (6 tokens).
+Examples: <em>hindi</em>
 
 
 ## Relations

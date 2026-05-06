@@ -34,8 +34,8 @@ The 3rd highest number of forms (3) was observed with the lemma “o”: <em>Anl
 `PRON` occurs with 20 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `Reflex=Yes`
 
 `PRON` occurs with 25 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|Person=3|PronType=Prs` (5 tokens).
-Examples: <em>O</em>
+The most frequent feature combination is `Case=Nom|Number=Sing|Person=2|PronType=Prs` (5 tokens).
+Examples: <em>Sen</em>
 
 
 ## Relations

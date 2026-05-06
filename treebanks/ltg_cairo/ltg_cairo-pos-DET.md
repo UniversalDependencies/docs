@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “kurs”: <em>
 `DET` occurs with 16 feature-value pairs: `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Definite=Def`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Number=Sing`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `PronType=Rel`
 
 `DET` occurs with 8 feature combinations.
-The most frequent feature combination is `Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs` (1 tokens).
-Examples: <em>sovam</em>
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|PronType=Rel` (1 tokens).
+Examples: <em>kurs</em>
 
 
 ## Relations

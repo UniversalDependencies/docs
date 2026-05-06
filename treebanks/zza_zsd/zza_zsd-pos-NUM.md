@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “di”: <em>di
 `NUM` occurs with 1 feature-value pairs: `NumType=Card`
 
 `NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (7 tokens).
-Examples: <em>38, Hîrê, 14</em>
+The most frequent feature combination is `NumType=Card` (7 tokens).
+Examples: <em>di, hîrê, ju</em>
 
 
 ## Relations

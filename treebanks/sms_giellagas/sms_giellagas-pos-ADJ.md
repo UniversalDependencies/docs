@@ -40,8 +40,8 @@ The 3rd highest number of forms (2) was observed with the lemma “nåkkam”: <
 `ADJ` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Ill`, `Case=Nom`, `Degree=Cmp`, `NumType=Ord`, `Number=Sing`
 
 `ADJ` occurs with 8 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (14 tokens).
-Examples: <em>nåkkam, nuʹbb, tiõrvâs, jåʹttel, muʹvddem, nåkkam-a, occkaž, veeʹres, šurr</em>
+The most frequent feature combination is `_` (14 tokens).
+Examples: <em>šiõǥǥ, nåkkam, ekksaž, jõnn, kaađâš, måkam, puõʹtti, siõm, uʹcc, viʹlǧǧes</em>
 
 
 ## Relations

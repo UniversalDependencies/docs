@@ -30,8 +30,8 @@ The 1st highest number of forms (2) was observed with the lemma “නෑ”: <e
 `AUX` occurs with 4 feature-value pairs: `Mood=Ind`, `Polarity=Neg`, `Tense=Pres`, `VerbForm=Fin`
 
 `AUX` occurs with 2 feature combinations.
-The most frequent feature combination is `Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin` (1 tokens).
-Examples: <em>නැහැ,</em>
+The most frequent feature combination is `Polarity=Neg` (1 tokens).
+Examples: <em>නෑ, නැහැ,</em>
 
 
 ## Relations

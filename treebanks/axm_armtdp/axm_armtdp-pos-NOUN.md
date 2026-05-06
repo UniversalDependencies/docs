@@ -46,8 +46,8 @@ The 3rd highest number of forms (4) was observed with the lemma “խայթած�
 `NOUN` occurs with 19 feature-value pairs: `Animacy=Hum`, `Animacy=Nhum`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Ins`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Deixis[psor]=Prox`, `Deixis[psor]=Remt`, `Number=Coll`, `Number=Plur`, `Number=Ptan`, `Number=Sing`, `Style=Arch`, `Style=Rare`, `Style=Var`, `Typo=Yes`
 
 `NOUN` occurs with 50 feature combinations.
-The most frequent feature combination is `Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing` (44 tokens).
-Examples: <em>խայթածն, մարմինն, իժ, հետն, հոտն, ցաւն, աւուրն, բնակութիւնն, գին, գինն</em>
+The most frequent feature combination is `Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing` (44 tokens).
+Examples: <em>ազգ, օձ, ատօրօս, գին, ժամ, ծակ, հետ, հոտ, ջուր, այրեած</em>
 
 
 ## Relations

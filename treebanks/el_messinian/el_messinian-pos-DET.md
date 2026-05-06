@@ -52,8 +52,8 @@ The 3rd highest number of forms (3) was observed with the lemma “όλος”: 
 `DET` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `ExtPos=ADV`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`
 
 `DET` occurs with 42 feature combinations.
-The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art` (9 tokens).
-Examples: <em>το</em>
+The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art` (9 tokens).
+Examples: <em>τα</em>
 
 
 ## Relations

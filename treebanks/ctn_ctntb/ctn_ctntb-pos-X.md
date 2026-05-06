@@ -40,8 +40,8 @@ The 3rd highest number of forms (1) was observed with the lemma “ke”: <em>ke
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (6 tokens).
-Examples: <em>aʔ-, Asdinda-, Ga-, Mai-, e-</em>
+The most frequent feature combination is `Foreign=Yes` (6 tokens).
+Examples: <em>ke, bhane, bhanedekhi, paubasi, sir</em>
 
 
 ## Relations

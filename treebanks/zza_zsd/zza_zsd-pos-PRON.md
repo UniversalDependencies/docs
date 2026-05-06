@@ -65,8 +65,8 @@ The 3rd highest number of forms (3) was observed with the lemma “ti”: <em>Ti
 `PRON` occurs with 16 feature-value pairs: `Animacy=Anim`, `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `Reflex=Yes`
 
 `PRON` occurs with 37 feature combinations.
-The most frequent feature combination is `Number=Plur|Person=1|PronType=Prs` (35 tokens).
-Examples: <em>ma</em>
+The most frequent feature combination is `PronType=Prs|Reflex=Yes` (35 tokens).
+Examples: <em>xo, xû</em>
 
 
 ## Relations

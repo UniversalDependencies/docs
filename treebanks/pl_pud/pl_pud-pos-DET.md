@@ -66,8 +66,8 @@ The 3rd highest number of forms (9) was observed with the lemma “taki”: <em>
 `DET` occurs with 29 feature-value pairs: `Animacy=Hum`, `Animacy=Inan`, `Animacy=Nhum`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `ExtPos=DET`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
 `DET` occurs with 159 feature combinations.
-The most frequent feature combination is `Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Dem` (17 tokens).
-Examples: <em>tym, takim, tamtym</em>
+The most frequent feature combination is `Case=Nom|Gender=Fem|Number=Sing|PronType=Rel` (17 tokens).
+Examples: <em>która</em>
 
 
 ## Relations

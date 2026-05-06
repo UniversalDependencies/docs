@@ -35,8 +35,8 @@ The 2nd highest number of forms (2) was observed with the lemma “হওঁ”:
 `AUX` occurs with 8 feature-value pairs: `Aspect=Perf`, `Mood=Ind`, `Person=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`
 
 `AUX` occurs with 6 feature combinations.
-The most frequent feature combination is `Mood=Ind|Tense=Past|VerbForm=Fin` (3 tokens).
-Examples: <em>আছিল</em>
+The most frequent feature combination is `Aspect=Perf|Mood=Ind|Tense=Pres|VerbForm=Fin` (3 tokens).
+Examples: <em>হৈছে</em>
 
 
 ## Relations
