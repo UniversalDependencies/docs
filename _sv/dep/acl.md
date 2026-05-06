@@ -33,4 +33,4 @@ The `acl` relation is also used for secondary predicates modifying a nominal.
 Han lämnade rummet gråtande . \n He left the room crying .
 acl(Han, gråtande)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:57 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:38 CEST -->

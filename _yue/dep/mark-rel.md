@@ -81,4 +81,4 @@ When the particle 的 is used after a verb, predicate adjective, or object-less 
 6	poetry."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:04 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:18 CEST -->

@@ -73,3 +73,4 @@ It shows that the object argument is referentially identical with the subject ar
 
 * _w<b>ee</b>sweke_ "cover yourself"
 
+<!-- Interlanguage links updated St 6. května 2026, 20:44:35 CEST -->

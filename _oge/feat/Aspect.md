@@ -40,4 +40,4 @@ The action has been / will have been completed.
 
 * _შეიპყარს_ 'he/she captured', _შეჰკარს_ 'he/she tied' etc.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:56 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:27 CEST -->

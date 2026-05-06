@@ -251,3 +251,4 @@ This class is used to form augmentative plural nouns. The corresponding singular
 * _agajwenge <b>ga</b>-bwe_<br>
   NC22.big_boats **NC22.PSED**-NC2.PSOR<br>
   "their big boats"
+<!-- Interlanguage links updated St 6. května 2026, 20:43:27 CEST -->

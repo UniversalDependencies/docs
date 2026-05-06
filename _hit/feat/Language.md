@@ -22,4 +22,4 @@ This indicates that the word used is originally Sumerian.
 #### Example
 
 * ták-ku LÚ.U19.LU-an *EL-LAM* <b>KIR4</b>=še-et "If someone bites the nose of a free man"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:22 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:16 CEST -->

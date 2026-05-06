@@ -21,4 +21,4 @@ Adpositions determine the [case]() of the complement phrase, e.g. _<b>brez</b> �
 #### Conversion from JOS
 
 All prepositions become `ADP`.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:53 CEST -->

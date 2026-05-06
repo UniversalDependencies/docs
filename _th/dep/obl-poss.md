@@ -24,4 +24,4 @@ When attached to verbs (even if nominalized but tagged [VERB]()), an [obl]() rel
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:30 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:18 CEST -->

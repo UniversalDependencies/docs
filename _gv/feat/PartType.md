@@ -67,4 +67,4 @@ address someone.
 #### Examples
 
 * _Nellie, <b>y</b> chree_ “Dearest Nellie”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:34 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:42 CEST -->

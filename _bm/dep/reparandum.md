@@ -26,4 +26,4 @@ udver: '2'
 
 ~~~
 'All these sons of Amadu were... they were Amadu Tara' (This a tale about a men whose all children were named after him).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:39 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:37 CEST -->

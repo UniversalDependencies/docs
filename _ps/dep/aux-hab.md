@@ -11,3 +11,4 @@ It depends with the `aux:hab` relation on the main verb in the past imperfective
 #### Examples
 ~~~ sdparse
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:45:30 CEST -->

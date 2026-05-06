@@ -11,4 +11,4 @@ The subtype `discourse:emo` is used in social media corpora for emoticons/emojis
 @user Își bate dracu' nevasta 😂
 discourse:emo(bate, 😂) 
 ~~~ 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:49 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:40 CEST -->

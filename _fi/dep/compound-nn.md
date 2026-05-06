@@ -44,4 +44,4 @@ In written Finnish, erroneously writing compounds as two words is a
 common mistake (e.g. *ruoka pöytä*). While these cases were annotated
 as `nn` in the [TDT corpus](http://bionlp.utu.fi/fintreebank.html), in
 UD Finnish [goeswith]() is used instead.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:32 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:03 CEST -->

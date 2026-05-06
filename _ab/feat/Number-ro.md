@@ -18,4 +18,4 @@ This feature marks number agreement of the verb with the indirect object or of p
 #### Examples
 
 * [ab] _<b>(ø-)ҳа-з</b>ҭе-и-ҧсо.ит_ [DO.3-<b>RO.1Pl-For</b>-Pv-Subj.3SgM-pour.Pres] ‘he pours it <b>for us</b>’ `Dyn=Yes|Gender[subj]=Masc|Number[ro]=Plur|Number[subj]=Sing|Person[obj]=3|Person[ro]=1|Person[subj]=3|Reln=Ben|Tense=Pres|Trans=Yes|VerbForm=Fin`
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:32 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:36 CEST -->

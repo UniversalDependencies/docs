@@ -68,4 +68,4 @@ The definition in Uzbek language: Narsa miqdorini jamlab to‘dalab ko‘rsatadi
 * Ikkala do‘st maqsadlariga erishishdi  “Two friends have reached their goal”
 * Uchovlon dam oldik “Three men got rest”
 <!-- Link is added by Sanatbek Matlatipov 20 July 2024, 18:20:10 CEST -->
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:33 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:40 CEST -->

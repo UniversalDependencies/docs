@@ -38,4 +38,4 @@ It is important to note that this can create ambiguity: a form like _տներն�
 
 * _հայրեր<b>նիս</b>/hayrernis_ “<b>our</b> fathers” `Number[psor]=Plur|Number=Plur`
 * _տներ<b>նիս</b>/tnernis_ “<b>my/our</b> house(s)” `Number[psor]=Sing/Plur|Number=Plur/Sing`
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:36 CEST -->

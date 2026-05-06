@@ -18,4 +18,4 @@ The `ccomp:ro` relation marks an a sentence complement referenced by a relationa
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:28 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:53 CEST -->

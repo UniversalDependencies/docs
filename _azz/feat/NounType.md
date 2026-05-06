@@ -15,4 +15,4 @@ Relational nouns are used to encode obliques. These are similar to words such as
 
 * [azz] _niktalis <b>ipan</b> mesa_ "Lo voy a poner en la mesa." ("I will put it on the table.")
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:27 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:28 CEST -->

@@ -23,4 +23,4 @@ As a special case of interjections, we recognize feedback particles such as _ա�
 - _ծօ՛(ծո՛յ)/çò_ “hey, you there (to a boy)”
 - _հա՜յ_ “O”
 - _եղո՜ւկ_ “it is to be regretted that”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:49 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:00 CEST -->

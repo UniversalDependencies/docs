@@ -15,4 +15,4 @@ nsubj(ngủ, Tôi)
 punct(ngủ, 。)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:00 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:45 CEST -->

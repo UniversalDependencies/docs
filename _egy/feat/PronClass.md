@@ -40,4 +40,4 @@ Suffix pronouns are added to the end of words.
 
 * TBA
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:42 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:05 CEST -->

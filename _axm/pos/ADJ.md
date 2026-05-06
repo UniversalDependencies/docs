@@ -34,4 +34,4 @@ Resultative, subject and past participles are word forms that may share properti
 - _<b>ծաղկեալ</b> ծառ/çaġkeal çaṙ_ “a tree in bloom”
 - _<b>լոկցեալ է</b> ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “He has bathed in sour water”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->

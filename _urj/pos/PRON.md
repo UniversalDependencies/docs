@@ -23,4 +23,4 @@ UD we use the other parts-of-speech:
 * [fi] _toinen_ "other", _itse_ "self", _jokainen_ "every"
 * [fi] _ei <b>mikään</b>_ "none, not <b>any</b>"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:53 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:07 CEST -->

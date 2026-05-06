@@ -21,4 +21,4 @@ Finnish).
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=603> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=610> (in Finnish)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->

@@ -55,4 +55,4 @@ flat:redup(me-5, me-6)
 * the reduplication having [emphatic](la/feat/Form.html#Emp) force here
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:57 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:01 CEST -->

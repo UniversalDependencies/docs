@@ -12,4 +12,4 @@ The _flat:num_ relation is used for complex numerals presented as separate token
 flat:num(дас-1, вит-2)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:57 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:00 CEST -->

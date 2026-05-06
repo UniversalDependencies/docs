@@ -18,4 +18,4 @@ documented in the language specific documents.
 #### Examples
 
 #### Diffs
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:17 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:27 CEST -->

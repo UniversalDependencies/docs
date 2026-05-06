@@ -26,4 +26,4 @@ Note that in Middle Armenian a nominal usually allows one `DET` modifier, but th
 - indefinite determiners: _այլ/ayl, մէկ մի/mēk mi, մէկայլ/mēkayl, միւս/miws_ other/some, another, (the) other”
 - total determiners: _ամէն, ամէն մէկ_ “every”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:58 CEST -->

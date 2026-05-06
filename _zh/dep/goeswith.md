@@ -46,4 +46,4 @@ Note that the particular class of idiomatic expressions called 成語 _chéngyǔ
 3	taboo."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:59 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:05 CEST -->

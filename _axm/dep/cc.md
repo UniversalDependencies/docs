@@ -31,4 +31,4 @@ A coordinating conjunction may also appear at the beginning of a sentence. This 
 cc(սպաննէ, Եւ)
 cc(kills, And)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:24 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:44 CEST -->

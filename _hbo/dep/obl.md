@@ -180,4 +180,4 @@ _וידבר חמור אתם לאמר שכם בני חשקה נפשו בבתכם 
 _ṿaydaber ḥamor ʼitam leʼmor shekhem beni ḥashḳah nafsho bevitkem tenu naʼ ʼotah lo **leʼishah*_
 
 _And Hamor spoke to them "Shechem, my son, his soul loves your daughter; please give her to him **as a wife**."._
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:22 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:59 CEST -->

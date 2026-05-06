@@ -73,4 +73,4 @@ See also the [Poss](_oge/feat/Poss) feature that distinguishes normal personal p
 
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:31 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:06 CEST -->

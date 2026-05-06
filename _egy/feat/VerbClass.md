@@ -168,4 +168,4 @@ There are verbs with 1 to 6 radicals (Schenkel 2012: 183). If all radicals are s
 
 * _<b>ꞽwi̯</b>_ “come, return”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:53 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:33 CEST -->

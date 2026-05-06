@@ -15,4 +15,4 @@ nsubj(đến, Cô)
 punct(đến, 。)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:12 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:14 CEST -->

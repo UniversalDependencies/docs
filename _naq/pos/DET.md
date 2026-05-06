@@ -32,4 +32,4 @@ Two possessive markers, _ti_ "my" and _sa_ "your (sing.)", are tagged as `DET`, 
 * negative determiners: _xare_ "none, no" (in apposition with nouns)
 
 * emphatic determiner: _ǂû_ "-self" (in apposition with nominals)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:59 CEST -->

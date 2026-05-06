@@ -36,4 +36,4 @@ The `NameType` feature applies to [proper nouns](_oge/pos/PROPN).
 * _ოპიზა_ 'Opiza', _მტკუარი_ 'Mtkvari' etc.
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:15 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:21 CEST -->

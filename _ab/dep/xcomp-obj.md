@@ -20,4 +20,4 @@ The `xcomp:obj` relation marks an a free clausal complement cross-referenced by 
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:46 CEST -->

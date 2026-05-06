@@ -78,4 +78,4 @@ The 2 predicates in the following example are:
 7	hemorrage	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:42 CEST -->

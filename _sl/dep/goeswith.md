@@ -14,4 +14,4 @@ goeswith(time,less)
 ~~~
 
 Note that the `goeswith` relation is used exclusively for linking separated parts of words which result from **technical errors or obvious typos**, as the word rarely appears in this form in other texts. For parts of words that often appear—without any difference in meaning—both as two separate words and together as one unit (such as *kadar koli, po navadi*), the fixed relation is used instead.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:59 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:05 CEST -->

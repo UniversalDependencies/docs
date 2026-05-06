@@ -24,3 +24,4 @@ They are always followed by a subjunctive verb form.
 #### Examples
 
 * _<b>ka</b> nkole_ "let me do"
+<!-- Interlanguage links updated St 6. května 2026, 20:43:09 CEST -->

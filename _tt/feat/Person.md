@@ -61,4 +61,4 @@ It is used for pronouns *o* 'he/she/it' and *onlar* 'they' and their inflected f
 * *<b>алар</b>га* "to them" `Case=Dat|Number=Plur|Person=3`
 * *укыды* "he/she read" `Number=Sing|Person=3|Tense=Past|VerbForm=Fin`
 * *укыды(<b>лар</b>)* "they read" `Number=Plur|Person=3|Tense=Past|VerbForm=Fin` -- note the optionality of the  agreement on the verb
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:36 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:46 CEST -->

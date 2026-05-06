@@ -68,4 +68,4 @@ child; PossGender=Fem|Gender=Neut).
 
 * [cs] _Dítě plakalo, protože někdo odnesl <b>jeho</b> hračku._ “The child wept because somebody took away <b>its</b> (=the child's) toy.”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:19 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:06 CEST -->

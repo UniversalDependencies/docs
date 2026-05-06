@@ -25,4 +25,4 @@ In concordance with the polarity 嗎 particle, with the NEG polarity markers 不
 * 你想吃<b>什麼</b>嗎？ / _Nǐ xiǎng chī <b>shénme</b> ma?_ “Do you want to eat anything?”
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:07 CEST -->

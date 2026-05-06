@@ -97,4 +97,4 @@ The vocative case is a special form of noun used to address someone. Vocative ca
 
 * _ქალაქო_ 'O city!', _სძალო_ ' O daughter-in-law!', _ხუროო_ 'O craftsman!', _კუო_ 'O turtle!' etc.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:57 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:32 CEST -->

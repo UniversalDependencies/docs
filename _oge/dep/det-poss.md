@@ -16,4 +16,4 @@ xcomp(კეთილ, მოჴსენებად)
 ~~~
 
 **NB** Note that other pronouns are treated as `nmod`. For more on nominal modifiers, see the [nmod](_oge/dep/nmod) relation.
-<!-- Interlanguage links updated So 10. května 2025, 18:15:26 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:36 CEST -->

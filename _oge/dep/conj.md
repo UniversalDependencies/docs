@@ -30,4 +30,4 @@ conj(ზის, ჰმსახურებს)
 conj(მიგიზიდეს, ვრბიოდეთ)
 punct(მიგიზიდეს, ,-7)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:16 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:11 CEST -->

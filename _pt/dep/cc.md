@@ -48,4 +48,4 @@ conj(pobre, limpo)
 conj(pobre, acolhedor)
 cc(acolhedor, e)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:24 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:45 CEST -->

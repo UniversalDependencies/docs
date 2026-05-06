@@ -47,4 +47,4 @@ Alienable possession is marked by a postposition _ká_ which follows a dependen
 ~~~
 
 'They came to their house'.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:10 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:32 CEST -->

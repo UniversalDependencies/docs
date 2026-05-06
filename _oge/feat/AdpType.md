@@ -20,4 +20,4 @@ The `AdpType` feature typically applies to [adpositions](_oge/pos/ADV), nouns [N
 
 * _წარმართ<b>ებრივ</b>_ *carmartʻebriv* 'in a pagan manner', _იაკობისა<b>მდე</b>_ *iakobisamde* 'before Jakob' etc.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:21 CEST -->

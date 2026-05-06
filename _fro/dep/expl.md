@@ -41,4 +41,4 @@ In Old French, the expletive relation is also used for reflexive pronouns attach
 7	vialt	_	VERB	VERcjg	_	4	advcl	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:49 CEST -->

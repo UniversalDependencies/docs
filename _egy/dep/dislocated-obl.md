@@ -21,4 +21,4 @@ In Old Egyptian, a dislocated oblique argument is a fronted or postposed noun th
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:48 CEST -->

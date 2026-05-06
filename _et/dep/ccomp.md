@@ -19,4 +19,4 @@ punct(usun-2, .-8)
 
 I beleive, that everything goes well.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:25 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:47 CEST -->

@@ -21,4 +21,4 @@ Syntactic subject of a reflexive passive clause:
 nsubj:pass(կախվեց, Նա)
 nsubj:pass(hung-himself, He)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:16 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:44 CEST -->

@@ -12,4 +12,4 @@ e se tutti fuor cherci questi chercuti a la sinistra nostra » .
 nmod:lmod(questi, sinistra)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:08 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:29 CEST -->

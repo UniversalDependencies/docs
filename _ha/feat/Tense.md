@@ -35,4 +35,4 @@ In comparison to the default future tense, the predictive future adds an extra i
 - _<b>tâː</b> bar̃ mâː kunyàː à gidaː //_ "She will bring shame on your house."
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:25 CEST -->

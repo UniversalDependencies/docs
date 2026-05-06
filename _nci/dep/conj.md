@@ -32,4 +32,4 @@ obl(otlathuic, ipan)
 * [`parataxis:speech`]()
 * [`parataxis:shared`]()
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:35 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:10 CEST -->

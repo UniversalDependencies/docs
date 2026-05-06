@@ -41,4 +41,4 @@ punct(ნამუშევრების, ,-4)
 punct(ნამუშევრების, ,-8)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:38 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:37 CEST -->

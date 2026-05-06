@@ -24,4 +24,4 @@ punct(rupt, .)
 
 “A client with severe arthritis broke her hip.”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:53 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:52 CEST -->

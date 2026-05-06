@@ -27,4 +27,4 @@ nmod(Tapasin-1, vuonna-3)
 nummod(vuonna-3, 1972-4)
 punct(Tapasin-1, .-5)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:18 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:49 CEST -->

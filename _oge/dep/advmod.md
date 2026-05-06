@@ -22,4 +22,4 @@ advmod(მერმე, თქუა)
 advmod(სალოცველად, კრებულისათჳს)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:52 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:03 CEST -->

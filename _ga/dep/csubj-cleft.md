@@ -119,4 +119,4 @@ Is ise an té a chuir Dick Spring i mbun na Roinne Oideachais
 acl:relcl(té, chuir)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:19 CEST -->

@@ -11,4 +11,4 @@ This is used for any piece of punctuation in a clause, if punctuation is being r
 Go home !
 punct(Go, !)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:38 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:36 CEST -->

@@ -23,4 +23,4 @@ case(ялгат-4, туртов-5)
 
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:32 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:03 CEST -->

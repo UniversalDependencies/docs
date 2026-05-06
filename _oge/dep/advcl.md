@@ -13,4 +13,4 @@ udver: '2'
 advcl(დავსხნე, დაჯედ)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:46 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:46 CEST -->

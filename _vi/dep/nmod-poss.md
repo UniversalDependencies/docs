@@ -12,4 +12,4 @@ nhà tôi 。
 nmod:poss(tôi, nhà)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:10 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:33 CEST -->

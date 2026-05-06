@@ -34,4 +34,4 @@ spoken languages.
 16  զաւդվածքն	զաւդված	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing|Style=Var  13  obj	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:43 CEST -->

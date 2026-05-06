@@ -33,4 +33,4 @@ In most cases, Khoekhoe adjectives do not inflect and do not have any features. 
 * _ǂguro_ "first", _ǀgamǁî_ "second", _ǃnonaǁî_ "third
 
 * _dīsa_ "done"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:52 CEST -->

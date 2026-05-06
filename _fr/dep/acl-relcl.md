@@ -31,4 +31,4 @@ obl:comp(souvenez,dont)
 ~~~
 
 N.B.: For cleft sentences, the [advcl:cleft]() subrelation is used in most French corpora.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:59 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:43 CEST -->

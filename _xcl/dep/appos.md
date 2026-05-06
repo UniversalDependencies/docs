@@ -20,4 +20,4 @@ In case of nominals, which do not immediately follow the modified noun, [nmod]()
 nmod(Մարիամ, մայր)
 nmod(Mary, mother)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:16 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:24 CEST -->

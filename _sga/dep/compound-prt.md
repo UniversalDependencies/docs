@@ -28,4 +28,4 @@ compound:prt(beir, as)
 * _<b>ad</b>cí_ "he sees"
 * _<b>do</b>beir_ "he gives"
 * _<b>fo</b>gaib_ "he finds"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:33 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:05 CEST -->

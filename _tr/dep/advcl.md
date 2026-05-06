@@ -50,4 +50,4 @@ advcl(anlayacaksın, okudun)
 mark(okudun, mu)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:01 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:47 CEST -->

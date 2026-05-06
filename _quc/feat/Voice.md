@@ -42,4 +42,4 @@ for a single argument. In this variant the subject is fronted.
 
 * _Ri tʼuʼy <b>kpaqʼowik</b>._ "La olla está hirviendo"
 * _Are ri achi <b>xinchʼayowik</b>._ "Fue el hombre que me pegó."
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:35 CEST -->

@@ -38,3 +38,4 @@ Kur tu vaikščiojai ? \n Where were-you walking ?
 advmod(vaikščiojai, Kur)
 advmod(walking, Where)
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:45:03 CEST -->

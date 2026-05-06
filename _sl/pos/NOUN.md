@@ -21,4 +21,4 @@ Nouns deriving from verbs (gerunds) are categorized as nouns in Slovenian.
 #### Conversion from JOS
 
 Nouns with Type=common are converted to `NOUN`.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:03 CEST -->

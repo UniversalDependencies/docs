@@ -34,4 +34,4 @@ nsubj(Ta, lioar)
 Cuin vees ee back \n When will-be she back
 xcomp:pred(vees, back)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:44 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:46 CEST -->

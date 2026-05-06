@@ -19,4 +19,4 @@ In Old Egyptian, a dislocated subject clause is a clause that usually appears at
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:51 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:46 CEST -->

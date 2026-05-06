@@ -26,4 +26,4 @@ The `aux:ex` relation links the future participle (i.e. the governor) and the fi
 ~~~ 
 
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:19 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:30 CEST -->

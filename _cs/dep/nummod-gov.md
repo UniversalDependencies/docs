@@ -38,4 +38,4 @@ punct(played, .-11)
 ~~~
 
 See [nummod]() for a broader discussion of the various situations with quantifiers.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:19 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:52 CEST -->

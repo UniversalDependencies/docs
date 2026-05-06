@@ -16,4 +16,4 @@ obj(chạy, nhà)
 punct(chạy, 。)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:31 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:01 CEST -->

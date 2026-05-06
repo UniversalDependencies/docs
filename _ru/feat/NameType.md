@@ -91,4 +91,4 @@ Names of cities, countries, rivers, mountains etc. In Russian treebanks, `Geo` i
 * _<b>Лужники</b>, <b>Евровидение</b>_
 
 Names of stadiums, guerilla bases, events etc.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:25 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:21 CEST -->

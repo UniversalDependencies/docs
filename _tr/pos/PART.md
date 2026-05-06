@@ -13,4 +13,4 @@ other universal parts of speech.
 We current use the POS tag `PART` for the word _değil_ "not" when used to negate a non-predicate word
 If _değil_ modifies a predicate, it is marked as `VERB` since it functions as a copula and carries other verbal inflections as well.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:05 CEST -->

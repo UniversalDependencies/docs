@@ -19,4 +19,4 @@ list(Steve-1, Mejl:-5)
 appos(Mobil:-3, 555-9814-4)
 appos(Mejl:-5, jones@abc.edf-6)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:01 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:12 CEST -->

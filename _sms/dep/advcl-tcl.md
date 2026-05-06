@@ -17,4 +17,4 @@ mark(vaaʹldi, ǥu)
 ~~~
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:07 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:02 CEST -->

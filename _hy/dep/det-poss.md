@@ -18,4 +18,4 @@ det:poss(meaning, its)
 det:poss(հրաժարականի, իր)
 det:poss(resignation, his)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:47 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:35 CEST -->

@@ -17,4 +17,4 @@ cop(кетер, элем)
 Бирок жаңы тырыктар жок эле. /n But there were no new scars.
 cop(жок, эле)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:37 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:14 CEST -->

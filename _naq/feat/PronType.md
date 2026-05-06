@@ -131,4 +131,4 @@ Note that it is not a full list.
 #### Examples
 
 * _ǂû-i, ǂûn_ "itself, themselves" (in apposition with nominals)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:06 CEST -->

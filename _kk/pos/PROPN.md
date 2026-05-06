@@ -14,4 +14,4 @@ Acronyms of proper nouns, such as *ӨФ* and *БҰҰ*, should be tagged `PROPN`.
 * [kk] _Исфаһан_, _Оксана_, _Шыңғыс_
 * [kk] _Сараево_, _Алматы_
 * [kk] _ӨФ_, _БҰҰ_ "RF, UN"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:54 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:08 CEST -->

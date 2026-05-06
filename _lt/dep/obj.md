@@ -58,3 +58,4 @@ Reikia daugiau klientų . \n We-need more clients .
 obj(Reikia, daugiau)
 obj(We-need, more)
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:47:54 CEST -->

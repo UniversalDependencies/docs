@@ -58,4 +58,4 @@ See also the relatived feature [Number[psor]]().
 * _հետ<b>ն(ը)</b>_ “with <b>him/her/it</b>” `Person[psor]=3|Number[psor]=Sing`
 
 (Note that first three forms are ambiguous.)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:38 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:53 CEST -->

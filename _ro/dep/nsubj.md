@@ -11,4 +11,4 @@ A nominal subject is a nominal phrase which is the syntactic subject of a clause
 El citește . \n He reads .
 nsubj(citește, El)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:13 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:38 CEST -->

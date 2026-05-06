@@ -15,4 +15,4 @@ Examples:<br/>
 <i>nagu, justkui, otsekui</i> "like, as if",<br/>
 <i>kuigi, ehkki, olgugi</i> "although",<br/>
 <i>kuni</i> "until".
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:55 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:11 CEST -->

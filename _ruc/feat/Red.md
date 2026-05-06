@@ -23,3 +23,4 @@ In Ruuli, the whole root is reduplicated, which results either in the attenuatio
 #### Examples
 
 * _myukimyuki_ "reddish" (from _myuki_ "red")
+<!-- Interlanguage links updated St 6. května 2026, 20:44:11 CEST -->

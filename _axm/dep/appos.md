@@ -20,3 +20,4 @@ these structures.
 6	/	/	PUNCT	_	_	5	punct	_	_
 7	աւուրն	աւուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	_
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:45:23 CEST -->

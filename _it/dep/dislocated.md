@@ -26,4 +26,4 @@ li abbiamo cacciati già i fascisti
 obj(cacciati, li)
 dislocated(cacciati, fascisti)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:44 CEST -->

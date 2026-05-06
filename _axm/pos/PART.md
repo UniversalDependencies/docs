@@ -24,4 +24,4 @@ Note that particles like _այո(այոյ)/ayo, հա(ha)_ “yes”, _ոչ/oč, 
 - Wish particle: _քեշկէ/k’eškē_ “I wish”
 - Volition particle: _ապա/apa_ “now then”, _հալա/hala, թող/t’oġ_ “as yet”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:04 CEST -->

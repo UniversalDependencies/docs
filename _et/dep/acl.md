@@ -34,4 +34,4 @@ See , et päike tõuseb iga päev , ei lohuta teda
 acl(See, tõuseb)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:56 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:37 CEST -->

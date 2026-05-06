@@ -28,4 +28,4 @@ Special cases include [csubj:pass]() for clausal subjects of passive clauses, an
 
 This relation often occurs in extraposition constructions alongside [expl](). See further discussion and examples on the universal dependency page ([u-dep/expl]()).
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:38 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:16 CEST -->

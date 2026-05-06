@@ -18,4 +18,4 @@ In Beja, the `Definite` feature is marked only on the [determiners](_bej/pos/DET
 #### Examples
 
 * _hoː <b>=b</b>_ "a lamb"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:09 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:44 CEST -->

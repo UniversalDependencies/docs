@@ -13,4 +13,4 @@ obj(iflaak, Kaamgek)
 obj(he-lost-them, skin-boots)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:19 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:53 CEST -->

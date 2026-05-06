@@ -13,4 +13,4 @@ Boolean feature of pronouns. It tells whether the word is possessive.
 
 - possessive pronouns: _ჩემი_ 'my', _შენი_ 'your', _თჳსი_ 'own' etc.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:29 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:01 CEST -->

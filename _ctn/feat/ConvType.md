@@ -39,4 +39,4 @@ The suffix *-si* marks an action that takes place at the endpoint of a movement 
 #### Examples
 
 * *Hokkoiʔ phuŋ pus<b>si</b> akhadiki?* "Where do you go to pick flowers?"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:08 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:42 CEST -->

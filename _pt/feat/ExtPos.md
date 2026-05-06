@@ -96,4 +96,4 @@ non-fixed relations should not use this feature.
 * _Esse é o número para <b>o qual</b> eu telefonei._
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:15 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:55 CEST -->

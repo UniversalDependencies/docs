@@ -31,4 +31,4 @@ If the numerals inflect as nouns, they are tagged [NOUN]().
 
 - _միատակ/miatak, չորստակ/čorstak, հինգ պատիկ (հինգպատիկ)/ hing patik (hingpatik), երեք տարպայ/erek’ tarpay_ “once, four-time(s), five time(s), three times” are not considered numerals in the Armenian grammar. They are tagged either [ADJ]() or [ADV]().
 -	_հարոյր/հարուր/հարիր/հարիւր/haroyr/harowr/harir/hariwr, հազար/hazar;_ “hundred, thousand”: words for large quantities are ambiguous between cardinal numerals (tagged `NUM`) and nouns. 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:03 CEST -->

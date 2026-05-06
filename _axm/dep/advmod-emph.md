@@ -17,3 +17,4 @@ including prepositional phrases.
 4	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	5	aux:caus	_	_
 5	սպաննել	սպաննել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	0	root	_	_
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:45:07 CEST -->

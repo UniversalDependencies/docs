@@ -22,4 +22,4 @@ Aux: Auxiliary verb, copula
 
 _ნეტარ <b>არს</b>_ *netar <b>ars</b>* ‘he/she is blessed’
 _გაკეთებულ <b>არს</b>_ *gaketʻebul <b>ars</b>* 'it is done'
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:56 CEST -->

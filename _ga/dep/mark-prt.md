@@ -134,4 +134,4 @@ _Níl fágtha den seandream <b>ach</b> an Ceannaire, Mary Harney_ 'The leader, M
 Níl fágtha den seandream ach an Ceannaire, Mary Harney \n Not left of_the old_group only the Leader, Mary Harney
 mark:prt(Ceannaire, , ach)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:03 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:17 CEST -->

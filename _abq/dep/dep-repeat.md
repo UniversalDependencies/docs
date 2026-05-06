@@ -11,4 +11,4 @@ The `dep:repeat` relation is used when a word is repeated for no particular reas
 ауи чвгьата йыугiватiитi йыугiватiиті \n You strongly stir stir
 dep:repeat(йыугiватiитi,йыугiватiиті)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:45 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:30 CEST -->

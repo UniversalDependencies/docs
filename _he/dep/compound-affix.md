@@ -18,4 +18,4 @@ punct(תלת, --5)
 הכל חדיש ו תלת-ממדי הרבה יותר.
 
 “Everything is much more modern and three-dimensional.”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:30 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:59 CEST -->

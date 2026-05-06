@@ -13,4 +13,4 @@ obl:lmod(иньдӧтчисӧ, ладорӧ)
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:27 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:12 CEST -->

@@ -52,4 +52,4 @@ Dates are annotated as follows: if present, the day is the head, the month is _n
 
 ~~~ sdparse
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:18 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:49 CEST -->

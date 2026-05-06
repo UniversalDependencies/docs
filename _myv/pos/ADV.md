@@ -4,4 +4,4 @@ title: 'ADV'
 shortdef: 'adverb'
 udver: '2'
 ---
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->

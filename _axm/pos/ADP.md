@@ -19,4 +19,4 @@ Note, that there is a number of case-marking elements (traditionally called “a
 - ambiposition։ _ինձ <b>դէմ</b>ս/inj dēms_ “in front of me”  _<b>դէմ</b> քեզ/dēm k’ez_ “in front of you”
 - complex prepositions: _<b>ի խէչ</b>/i xēč_ “at”, _<b>ի վերայ</b>/i veray_ “on; over; about”, _<b>ի մէջ</b>/i mēǰ_ “in, into, between”
   
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:52 CEST -->

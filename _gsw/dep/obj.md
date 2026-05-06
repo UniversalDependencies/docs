@@ -12,4 +12,4 @@ Die Frau gibt dem Kind einen Apfel . \n The woman gives the child an apple .
 obj(gibt, Apfel)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:19 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:53 CEST -->

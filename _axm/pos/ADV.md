@@ -31,5 +31,5 @@ There is a subclass of demonstrative, relative and interrogative adverbs, which 
 - relative: _յայնժամ/yaynžam, յորժամ/yoržam&nbsp;_ “at the time, when”
 - demonstrative adverbs: _աստ/ast, աստուստ/astowst, այտի/ayti&nbsp;_ “here, from here, from there”, _հանչաք/hančak’_ “that much; this much”, _էնպես/ēnpes_ “so, as, that way”
   
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->
 
+<!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->

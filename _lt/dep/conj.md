@@ -48,3 +48,4 @@ advmod(on, so-1)
 ~~~
 
 For more on the relation between a conjunct and the coordinating conjunction, see the [cc]() relation.
+<!-- Interlanguage links updated St 6. května 2026, 20:46:10 CEST -->

@@ -40,4 +40,4 @@ A verb that takes a direct object as argument (in addition to the subject).
 
 * _აშენებს_ 'he/she/it builds smth.', _აშენებენ_ 'they build smth.' etc.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:21 CEST -->

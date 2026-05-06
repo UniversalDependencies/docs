@@ -20,4 +20,4 @@ nsubj(don't_worship, NMLZ.NSG.ERG)
 obj(unumdokonɨŋ, Budhahaŋ)
 obj(don't_worship, Budhahang)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:46 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:32 CEST -->

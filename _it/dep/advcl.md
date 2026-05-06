@@ -36,4 +36,4 @@ advcl(pagare, liberare)
 risolvere i problemi di approvvigionamento alimentare acquistando/VERB[VerbForm=Ger] una fazenda
 advcl(risolvere, acquistando)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:00 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:46 CEST -->

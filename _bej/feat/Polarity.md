@@ -23,4 +23,4 @@ morphemes.
 #### Examples
 - _uːn uː= tak / doːr han kan -aː =ji <b>ki=</b> i- ki / ti= takat hiːs =heːb =ajt //_ "this man had not even recognized me because he thought I was the woman."
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:39 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:56 CEST -->

@@ -17,4 +17,4 @@ dislocated(θέλει, ποδήλατο)
 dobj(θέλει, λάστιχα)
 ccomp(έλεγα, θέλει)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:44 CEST -->

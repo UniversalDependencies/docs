@@ -70,4 +70,4 @@ The `AdvType` feature typically applies to [adverbs](_xmf/pos/ADV).
 * _სოთ (sɔt)_ 'where', _სოურეთ (sɔurɛt)_ 'where from' etc.
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:00 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:23 CEST -->

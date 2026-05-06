@@ -20,4 +20,4 @@ una localidad situada en la región de Alta Normandía \n a location situated in
 acl(localidad, situada)
 acl(location, situated)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:56 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:37 CEST -->

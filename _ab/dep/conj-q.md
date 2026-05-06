@@ -19,4 +19,4 @@ The `conj:q` relation conjoins two interrogative verbs that differ only in polar
 6	?	?	PUNCT	_	_	5	punct	_	LMSeg:?
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:36 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:12 CEST -->

@@ -43,4 +43,4 @@ _zeh sefer toldot ʼadam beyom beroʼ ʼelohim ʼadam bidmut ʼelohim ʻaśah ʼ
 _This is the book of the generations of Adam on the day God created Adam, in the image of God He created him._
 
 For other types of clauses attached to nominals, see [acl:relcl]() and [parataxis]().
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:56 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:37 CEST -->

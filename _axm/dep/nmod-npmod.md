@@ -12,4 +12,4 @@ This relation is a subtype of the [nmod]() relation, which captures the cases wh
 nmod:npmod(մէկն, բաժնէն)
 nmod:npmod(one, parts)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:09 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:31 CEST -->

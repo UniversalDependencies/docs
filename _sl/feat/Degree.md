@@ -37,4 +37,4 @@ The quality of one object is compared to the same quality of all other objects w
 ### Conversion from JOS
 
 All adjectives and adverbs with feature Degree=positive are converted to `Degree=Pos`, all adjectives and adverbs with feature Degree=comparative are converted to `Degree=Cmp`, all adjectives and adverbs with Degree=superlative are converted to `Degree=Sup`.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:10 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:46 CEST -->

@@ -20,4 +20,4 @@ The `nmod:poss` relation marks a nominal modifier that is referenced by a posses
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:09 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:32 CEST -->

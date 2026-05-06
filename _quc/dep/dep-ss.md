@@ -18,4 +18,4 @@ det(alaxik, ri)
 nmod(Konojel, alaxik)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:45 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:31 CEST -->

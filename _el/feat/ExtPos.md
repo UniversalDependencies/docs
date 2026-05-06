@@ -100,4 +100,4 @@ An SCONJ introduces a subordinated clause.
 * [el]
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:14 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:54 CEST -->

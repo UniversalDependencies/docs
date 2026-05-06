@@ -23,4 +23,4 @@ The `Variant` feature helps distinguish alternate forms.
 * _íšteš li da tó pójemom sas móne?_ "Do you want me to take you with me?" 
 * _parǘkaho mó na svádbo_ "I have been invited to a wedding" 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:53 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:31 CEST -->

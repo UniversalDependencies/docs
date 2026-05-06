@@ -13,4 +13,4 @@ Dole was defeated by Clinton
 nsubj:pass(defeated, Dole)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:16 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:44 CEST -->

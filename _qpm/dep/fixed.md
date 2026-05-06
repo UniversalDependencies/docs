@@ -301,4 +301,4 @@ lit: has-she started for to war-the
 fixed(za, na)
 case(hárpene, za)
 -->
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:54 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:53 CEST -->

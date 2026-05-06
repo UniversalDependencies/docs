@@ -28,4 +28,4 @@ and [numbers](fi-pos/NUM) as well as of [verbs](u-pos/VERB) and
 * [fi] _miljoonia_ "millions"
 * [fi] _käyttävät_ "use"
 * [fi] _vaikeat_ "difficult"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:29 CEST -->

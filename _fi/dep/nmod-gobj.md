@@ -19,4 +19,4 @@ cop(harvinaista-5, oli-3)
 advmod(harvinaista-5, tuolloin-4)
 punct(harvinaista-5, .-6)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:07 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:26 CEST -->

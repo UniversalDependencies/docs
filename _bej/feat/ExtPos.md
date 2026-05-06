@@ -43,4 +43,4 @@ It is kept in FEATS in the UD conversion.
 * _jaː iraːnaj / allaːji sallami =hoːk_ “oh gosh! God protected you!” (_jaː_ is `upos=PART` but as a fixed expression _jaː iraːnaj_, it has `ExtPos=INTJ` )
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:14 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:54 CEST -->

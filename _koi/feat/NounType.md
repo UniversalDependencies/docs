@@ -11,4 +11,4 @@ udver: '2'
 
 * [koi] _выв, ув, берд_ "_upper surface, what is below, what is next to_"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:27 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:28 CEST -->

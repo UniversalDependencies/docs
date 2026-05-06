@@ -77,3 +77,4 @@ Ačiū Dievui , jie atvyko . \n Thank God , they arrived .
 fixed(Ačiū, Dievui)
 fixed(Thank, God)
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:46:53 CEST -->

@@ -21,4 +21,4 @@ Noun:	Common noun
  
 _ქალაქ, ქალაქი_ *kʻalakʻ, kʻalakʻi* 'city', _სძალ, სძალი_ *sżal, sżali* 'daughter-in-law' etc.
 _ძმა, ძმაჲ_ *_żma, żmay_* 'brother', _დღე, დღჱ_, *dġe, dġē* 'day' etc.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:02 CEST -->

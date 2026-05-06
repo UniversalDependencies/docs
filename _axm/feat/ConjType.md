@@ -22,4 +22,4 @@ subordinating conjunctions is done already at the part-of-speech level.
 
 * _<b>ոչ եթե</b>... <b>այլ</b>_ “not... but”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:07 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:40 CEST -->

@@ -25,4 +25,4 @@ orphan(Mirja-5, Prahaan-6)
 FinnTreeBank (FI_FTB) does not apply the relation `orphan`.
 Instead, in elliptical cases the relation [`conj`]() has been
 chosen to correspond to its correlate in a preceding clause.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:32 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:23 CEST -->

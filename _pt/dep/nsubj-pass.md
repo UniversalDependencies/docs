@@ -12,4 +12,4 @@ subject of a passive clause (or more generally, any voice where the proto-agent 
 Peças podem ser encontradas em leilão
 nsubj:pass(encontradas, Peças)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:16 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:45 CEST -->

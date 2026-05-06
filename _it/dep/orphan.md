@@ -72,3 +72,4 @@ orphan(kiti, pigiai)
 advcl(pay, others)
 orphan(others, cheaply)
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:48:23 CEST -->

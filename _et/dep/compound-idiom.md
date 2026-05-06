@@ -11,3 +11,4 @@ Nominal components of phraseological verbs (`compound:idiom`) are used in connec
 Nad pöörasid omavahel tülli . 
 compound:idiom(pöörasid, tülli)
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:46:02 CEST -->

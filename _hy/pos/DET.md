@@ -28,4 +28,4 @@ Note that in Armenian nominal usually allows one `DET` modifier, but there are o
 - indefinite determiners: _ոմն, ինչ-որ, ինչ-ինչ, մի քանի, ուրիշ, այլ, որոշ, որևէ, որևիցե, այսինչ, այնինչ, մի&nbsp;_ “someone, some (of one thing), some (of many thing), several, another, other, definite, one or another, one or another, such, such, some/several”
 - total determiners: _ամեն, ամեն մի, բոլոր, յուրաքանչյուր, ողջ, ամբողջ, համայն, ամենյան;_ “every, each, all, each, whole, all, whole, all”
 - negative determiner: _ոչ մի&nbsp;_ “no” as in _Հիմա <b>ոչ մի</b> մեքենա չունենք։&nbsp;_ “We have <b>no</b> cars available.”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:59 CEST -->

@@ -38,4 +38,4 @@ Her yıl aynı yere gidiyoruz . \n We go to the same place every year
 obl:tmod(gidiyoruz, yıl)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:31 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:21 CEST -->

@@ -16,4 +16,4 @@ compound:verbnoun(ăn, sáng)
 punct(ăn, 。)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:34 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:07 CEST -->

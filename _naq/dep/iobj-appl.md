@@ -14,4 +14,4 @@ obj(ǁGuiǃāba, ǃkhaisa)
 iobj:appl(Explain_for, me)
 obj(Explain_for, matter)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:00 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:08 CEST -->

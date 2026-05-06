@@ -13,3 +13,4 @@ Other verbs have simple subjunctive forms.
 #### Examples
 ~~~ sdparse
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:45:35 CEST -->

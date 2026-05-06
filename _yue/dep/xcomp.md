@@ -232,4 +232,4 @@ OKAY: 你 有 禮貌, _佢 覺得_ | | BAD: * 你 諗 清楚 先, _我 勸_
 
 - Chao, Yuan Ren. 1968. A Grammar of Spoken Chinese. University of California Press.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:43 CEST -->

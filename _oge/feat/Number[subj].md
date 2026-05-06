@@ -26,4 +26,4 @@ udver: '2'
 #### Examples
 
 * _ვწერთ_ 'we write', _სწერთ_ 'you write', _წერენ_ 'they write' etc.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:21 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:37 CEST -->

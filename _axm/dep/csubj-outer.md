@@ -43,4 +43,4 @@ Plain [csubj]() (or another subtype) will be appropriate if the copular clause p
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:40 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:19 CEST -->

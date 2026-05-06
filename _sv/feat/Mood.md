@@ -33,4 +33,4 @@ In modern Swedish the subjunctive is mainly used in certain fixed expressions an
 * [sv] _<b>Leve</b> Sverige!_ "Long live Sweden!"
 * [sv] _det <b>vore</b> önskvärt_ "it would be desirable"
 * [sv] _som om jag vore försumlig_ "as if I were neglectful"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:19 CEST -->

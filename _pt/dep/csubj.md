@@ -27,4 +27,4 @@ csubj(equívoco, reduzir)
 é necessário alertar toda a sociedade.
 csubj(necessário, alertar)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:16 CEST -->

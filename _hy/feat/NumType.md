@@ -73,4 +73,4 @@ This could be considered a subtype of cardinal numbers (provided tokenization le
 
 * _4-5 (չորս-հինգ)_ “four-five” (“either four or five”)
 * _10-15 (տասից տասնհինգ)_ “ten fifteen” (“from ten to fifteen”)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:33 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:39 CEST -->

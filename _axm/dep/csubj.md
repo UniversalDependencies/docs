@@ -31,4 +31,4 @@ We also analyze the nominal predicates with clausal subjects formed by subordina
 csubj(պատեհ, ձենել)
 csubj(appropriate, call-out)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:16 CEST -->

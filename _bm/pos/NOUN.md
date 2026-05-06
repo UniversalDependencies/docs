@@ -8,4 +8,4 @@ udver: '2'
 The `NOUN` tag is intended for common nouns only. See [PROPN]() for proper nouns and [PRON]() for pronouns.
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:49 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:02 CEST -->

@@ -11,4 +11,4 @@ A numeral is a word, functioning most typically as a determiner, a pronoun or an
 
 Cardinal numerals are covered by `NUM` regardless of syntactic function and regardless of whether they are expressed as words (_quatre_ "four"), digits (4) or Roman numerals (IV). By contrast, ordinal numerals are always tagged `ADJ`.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:03 CEST -->

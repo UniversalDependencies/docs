@@ -12,4 +12,4 @@ A copula is the relation between the complement of a copular verb and the copula
 nsubj(შუშის, კედელი)
 cop(კედელი, არის)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:37 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:14 CEST -->

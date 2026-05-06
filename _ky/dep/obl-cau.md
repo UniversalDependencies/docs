@@ -19,4 +19,4 @@ obl:cau(жуудурду, күйѳѳсүнѳ)
 nsubj(жуудурду, Ал)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:25 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:06 CEST -->

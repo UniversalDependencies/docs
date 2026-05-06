@@ -39,4 +39,4 @@ a clitic to the first word of the clause:
 In these cases we split the clitic off the host word, give it its own node in the dependency
 structure, and mark it with the feature `Clitic=Yes`.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:06 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:37 CEST -->

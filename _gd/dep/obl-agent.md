@@ -53,4 +53,4 @@ It works together with `aux:pass`, which relates the irregular verb acting as an
 17	a-nochd	a-nochd	ADV	Rt	AdvType=Tim	14	advmod	_	_
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:23 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:03 CEST -->

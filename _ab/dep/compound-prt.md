@@ -19,4 +19,4 @@ The `compound:prt` relation connects a particle to a verb.
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:32 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:04 CEST -->

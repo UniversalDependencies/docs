@@ -55,4 +55,4 @@ cc(similar, and-3)
 ~~~
 
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:35 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:09 CEST -->

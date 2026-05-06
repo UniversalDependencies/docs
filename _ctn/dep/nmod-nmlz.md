@@ -21,4 +21,4 @@ nsubj(help_you, NMLZ.NSG.ERG)
 advmod:emph(koceŋa, yaŋ)
 advmod:emph(NMLZ.NSG.ERG, ADD)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:09 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:30 CEST -->

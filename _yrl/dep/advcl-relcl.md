@@ -16,4 +16,4 @@ nsubj(idea, which)
 ~~~
 
 For detailed discussion, see the [English relative clause guidelines](acl-relcl.html#adverbial-relative-clauses).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:06 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:59 CEST -->

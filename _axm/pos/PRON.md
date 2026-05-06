@@ -26,4 +26,4 @@ To make the annotation parallel across languages, it should be now tagged `PRON`
 - indefinite pronouns: _մարդ/mard, ոք/ok’, մէկ մի/mēk mi, այլ/ayl, մէկայլ/mēkayl, միւս/miws_ “one/someone, one/someone, one/any, other, another”
 - total pronouns: _ամէն/amēn, ամէն մէկ/amēn mēk_ “all (of things)/all (of people), everyone”
 - negative pronouns: _ոչ ով, ոչինչ, ոչ որ_ “nobody, nothing, no one”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:53 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:05 CEST -->

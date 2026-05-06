@@ -11,4 +11,4 @@ For Norwegian, `PART` is used for the infinitival marker *å* "to" and the negat
 
 #####Examples
 * _Han liker <b>ikke</b> <b>å</b> spise is_ "He does not like to eat icecream"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:04 CEST -->

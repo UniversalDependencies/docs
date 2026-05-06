@@ -15,4 +15,4 @@ nmod:poss(աւրինակովն, դատաստանին)
 nmod:poss(judgment, Christ's)
 nmod:poss(example, Christ's)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:10 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:32 CEST -->

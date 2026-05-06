@@ -26,4 +26,4 @@ The feature marks the gender of the Direct Object in the verb.
 * [ab] _<b>д</b>-а-ге-ит_ [<b>Subj.3SgH</b>-Subj.3SgNH-take-Aor.Fin] ‘it took <b>him/her</b>’ `Dyn=Yes|Gender[io]=Neut|Gender[subj]=Com|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Aor|Trans=No|VerbForm=Fin`
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:18 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:04 CEST -->

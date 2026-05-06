@@ -20,4 +20,4 @@ This feature marks number agreement of the verb with the indirect object.
 * [ab] _ø-<b>ҳ</b>-аҳа-хье.ит_ [Subj.3-IO.1Pl-hear-Perfect] ‘we have heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Prf|Trans=No|VerbForm=Fin`
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:29 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:32 CEST -->

@@ -15,4 +15,4 @@ In beja, they are not always morphologically marked and a few nouns can be used 
 - _a-maːg_ "bad"
 - _naːkʷis_ "short/incomplete"
 - _daːji_ "good"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->

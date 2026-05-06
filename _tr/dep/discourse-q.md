@@ -34,4 +34,4 @@ discourse:q(mü, bugün)
 discourse:q(mi, içtin)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:43 CEST -->

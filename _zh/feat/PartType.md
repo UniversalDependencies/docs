@@ -20,4 +20,4 @@ Types of particles are found in various tagsets and are highly language-specific
 
 * 弄好沒有<b>嗎</b>？ / _Nòng hǎo méiyǒu <b>ma</b>?_ “Are you ready?”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:35 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:44 CEST -->

@@ -41,4 +41,4 @@ The relation is similar to the [flat]() relation that links the first and the la
 ~~~ sdparse
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:05 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:18 CEST -->

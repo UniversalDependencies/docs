@@ -12,4 +12,4 @@ Dabar populiarus darbas namuose . \n Working from-home is popular now .
 nmod:obl(darbas, namuose)
 nmod:obl(Working, from-home)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:09 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:31 CEST -->

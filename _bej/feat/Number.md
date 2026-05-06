@@ -36,4 +36,4 @@ A plural noun denotes several persons, animals or things.
 
 #### Examples
 - _jhalaka_ "clothes"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:28 CEST -->

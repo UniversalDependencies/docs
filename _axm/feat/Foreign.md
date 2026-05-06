@@ -24,4 +24,4 @@ This feature would apply either to the [X]() part of speech (unanalyzable token)
 * _Խոտ մի կայ, որ հոռոմերէն <b>ասլօսխօնօս</b> ասեն, որ թարգմանի շատահնդիկ /Xot mi kay, or hoṙomerēn aslòsxònòs asen, or t’argmani šatahndik_ “There is a plant called <b>asloskhonos</b> in Greek, which translates as many-seeded.”
 * _Փարսին <b>շահ ռահ</b> ասէ, և արապն <b>արբի սուլթան</b> և ըստ մերս արքունի ճանապարհ_ “In Persian it is called <b>shah rah</b>, in Arabic <b>arbi sultan</b>, and in our language “royal road”” 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:16 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:59 CEST -->

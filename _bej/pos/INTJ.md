@@ -13,4 +13,4 @@ we categorize fillers, hesitations and onomatopoeia as interjections.
 ### Examples
 
 - _iraːnaj_ "gosh"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:49 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:00 CEST -->

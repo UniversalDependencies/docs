@@ -20,4 +20,4 @@ You need to turn in your homework by next week
 obl:tmod(turn, week)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:31 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:21 CEST -->

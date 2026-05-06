@@ -16,4 +16,4 @@ The `ccomp:lo` relation marks an a sentence complement referenced by a local obj
 3 .                  .         PUNCT    _       _                                                                                                                                               2       punct   _       LMSeg:.
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:26 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:50 CEST -->

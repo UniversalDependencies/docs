@@ -29,3 +29,4 @@ Adjectives are formed by adding an ending to nouns and prepositions. This is a c
 
 
 Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:23 CEST -->

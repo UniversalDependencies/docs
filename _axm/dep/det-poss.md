@@ -18,4 +18,4 @@ det:poss(venom, its)
 det:poss(տունն, իր)
 det:poss(house, his)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:47 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:35 CEST -->

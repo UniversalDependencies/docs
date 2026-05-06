@@ -20,4 +20,4 @@ Boolean feature. Is this a foreign word? Not a loan word and not a foreign name 
 #### Example 
 
 * _დო მაოთხა <b>საუკუნეს</b> აქ რდუ ფაზისის <b>ისტორიკული აკადემია</b> (dɔ mɑɔtxɑ <b>sɑukʼunɛs</b> ɑk rdu pɑzisis <b>istʼɔrikʼuli ɑkʼɑdɛmiɑ</b>)_ 'In the 4th century, there was the historical academy of Phasis'.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:16 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:00 CEST -->

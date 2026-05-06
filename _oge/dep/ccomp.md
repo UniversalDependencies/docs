@@ -14,4 +14,4 @@ mark(მოვიდა, ვითარმედ)
 nsubj(მოვიდა, იგი)
 iobj(ჰრქუა, მათ)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:07 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:48 CEST -->

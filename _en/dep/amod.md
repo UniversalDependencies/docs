@@ -24,4 +24,4 @@ We can go somewhere nice .
 amod(somewhere, nice)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:14 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:19 CEST -->

@@ -24,3 +24,4 @@ Valstybė daro tai , ką ir turi daryti. \n The-state does that what it-has to-d
 acl:relcl(tai, turi)
 acl:relcl(that, it-has)
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:44:43 CEST -->

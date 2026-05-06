@@ -31,4 +31,4 @@ The verb *είμαι* /ime “to be” is assigned the tag [AUX]() always, even 
 There are two treebanks of Modern Greek and differ with respect to [AUX]() assignment; GUD assigns the PoS [VERB]() to most participles and GDT the PoS [ADJ](); more differences exist and are explained in the index file. 
 
 ### References
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->

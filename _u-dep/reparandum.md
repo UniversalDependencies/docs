@@ -18,4 +18,4 @@ case(left-7, to-5)
 det(left-7, the-6)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:39 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:38 CEST -->

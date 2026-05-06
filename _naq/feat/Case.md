@@ -52,4 +52,4 @@ The vocative case is a special form of nouns used to address someone. It is mark
 * _<b>ǃGôahesatse</b>, nēpa i ge ǃgomsiba hâ._ "**Sir**, there is a difficulty."
 
 * _<b>Abotse</b>, ǀûba te!_ "**God**, forgive me!"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:32 CEST -->

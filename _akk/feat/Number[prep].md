@@ -18,4 +18,4 @@ Layered feature encoding number of suffix pronoun attached to preposition. Most 
 
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:35 CEST -->

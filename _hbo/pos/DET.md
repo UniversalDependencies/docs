@@ -103,4 +103,4 @@ Determiners should have the feature [PronType]() with the value `Art`.
 ## XPOS
 
 Determiners have the BHSA POS tag `art`.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:59 CEST -->

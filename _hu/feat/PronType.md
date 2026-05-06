@@ -69,4 +69,4 @@ universal features but may be added in language-specific extensions.
 
 * [hu] _több, egyik, egyrészt, olykor_
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:06 CEST -->

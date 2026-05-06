@@ -33,4 +33,4 @@ The exclusive feature is expressed with the pronoun and first person morpheme "u
 
 * _<b>ure</b>&nbsp;_ “We (I + they)”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:06 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:37 CEST -->

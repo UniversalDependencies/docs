@@ -23,4 +23,4 @@ Conj Subord: Subordinative conjunction
 _ვინც_ 'who'
 _რაც_ 'that'
 _რომელიც_ 'which'
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:55 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:11 CEST -->

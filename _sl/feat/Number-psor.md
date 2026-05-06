@@ -36,4 +36,4 @@ Possessive [pronouns](PRON) and [determiners](DET) may have two different number
 All pronouns with feature Owner_number=singular are converted to `Number[psor]=Sing`, all pronouns with Owner_number=dual are converted to `Number[psor]=Dual` and all pronouns with Owner_number=plural are converted to `Number[psor]=Plur`.
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:36 CEST -->

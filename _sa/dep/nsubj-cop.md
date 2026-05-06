@@ -27,4 +27,4 @@ clause, and also the governor of the `nsubj:cop` dependency.
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:14 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:41 CEST -->

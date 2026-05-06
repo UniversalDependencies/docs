@@ -13,4 +13,4 @@ The feature is used to indicate words to which an epenthetic consonant was added
 
 * _Morn geh<b>w</b>i uf Strosburi._ "Tomorrow I go to Strasbourg."
 * _wie er ingfuehrt wùrre<b>-n-</b>isch_ "which was introduced"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:13 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:53 CEST -->

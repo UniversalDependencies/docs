@@ -15,4 +15,4 @@ ccomp(dixeris, instauratam)
 ~~~
 
 Here the name of the speaker *Savarisius* is not syntactically integrated into the sentence (as the subsequent indirect speech is), but is rather a useful indication to the reader to understand who is beginning a speech.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:38 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:35 CEST -->

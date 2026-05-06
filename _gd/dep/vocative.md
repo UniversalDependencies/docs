@@ -29,4 +29,4 @@ advmod(dha-rìreabh, math)
 vocative(Aonghais, math)
 discourse(eh, math)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:40 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:41 CEST -->

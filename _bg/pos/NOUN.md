@@ -24,4 +24,4 @@ In Bultreebank the common nouns are annotated with the tag `Nc#`.
 - _красота_ / _krasota_ "beauty"
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:49 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:01 CEST -->

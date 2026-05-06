@@ -57,4 +57,4 @@ amod(year, of-first)
 If there are two or more objects, one of them should be [obj]() and the others should be `iobj`.
 In such cases it is necessary to decide what is the most directly affected object _(patient)._
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:59 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:06 CEST -->

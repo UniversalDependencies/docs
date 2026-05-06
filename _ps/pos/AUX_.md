@@ -19,3 +19,4 @@ See the dependency relation pages for details.
 <!--
 -ㅤپۀ کور کې _pë kor ke_ “in the house” / “at home”
 -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:56 CEST -->

@@ -15,4 +15,4 @@ nmod:bahuv(Мишазе-4, мадя-3)
 amod(мадя-3, кичкор-2)
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:06 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:23 CEST -->

@@ -20,4 +20,4 @@ advcl:tmod(fixes,always)
 
 'His judgements abhor all severity, for he punishes **ever** on this side the mean, while in rewarding he aims ever beyond the mean.' (*Letters*, UDante) 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:13 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:17 CEST -->

@@ -158,4 +158,4 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 * _մէկայլ/mēkayl_ “another”
 * _միւս/miws_ “(the) other”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:05 CEST -->

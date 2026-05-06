@@ -23,4 +23,4 @@ Denotes movement away from speaker's current location.
 
 * [nci] 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:25 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:20 CEST -->

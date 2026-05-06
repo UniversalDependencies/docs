@@ -67,4 +67,4 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:53 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:33 CEST -->

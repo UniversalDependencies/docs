@@ -14,4 +14,4 @@ obl:dat(derketim, lîwanê)
 obl:dat(went, bathroom)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:25 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:07 CEST -->

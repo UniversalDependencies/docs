@@ -25,4 +25,4 @@ The initial agent of the action described by the sentence is demoted and will be
 ~~~
 
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:18 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:29 CEST -->

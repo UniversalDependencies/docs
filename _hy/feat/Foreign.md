@@ -26,4 +26,4 @@ Note, that the articles, prepositions in foreign names (_դը, դե, դ՚, ֆո�
 
 * _... <b>«ՌԻԱ Նովոստի»</b> գործակալությունը&nbsp;_ (the news agency <b>RIA Novosti</b>)
 * _... <b>CNN</b> գործակալությունը&nbsp;_ (the news agency <b>CNN</b>)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:16 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:59 CEST -->

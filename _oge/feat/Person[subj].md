@@ -46,4 +46,4 @@ e) Ditransitive verbs, which take three core arguments: subject, direct object, 
 
 * _წერს_ 'he/she/it writes', _წერნ_ 'he/she/it writes', _წარუგდებიედ_ 'cast it off from him', _დაეწერა_ 'he/she had written it' etc.
 * _წერენ_ 'they write', _იწერებიან_ 'they write', წერდენ_ 'they were writing', _წერეს_ 'they wrote' etc.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:27 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:56 CEST -->

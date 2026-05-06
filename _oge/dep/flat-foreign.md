@@ -14,4 +14,4 @@ Phrases are annotated in a flat, head-initial structure, in which all words in t
 flat:foreign(μέγαελεων, δός)
 flat:foreign(μέγαελεων, μίν)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:34 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:57 CEST -->

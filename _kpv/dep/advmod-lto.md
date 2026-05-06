@@ -17,4 +17,4 @@ conj(котӧртӧны, мӧдъяс)
 orphan(мӧдъяс, мӧдарӧ)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:11 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:11 CEST -->

@@ -27,3 +27,4 @@ iobj:instrument(<PV>-cook, pan)
 ~~~
 
 "Dewi cooked the fish in the pan" (patient voice)
+<!-- Interlanguage links updated St 6. května 2026, 20:47:09 CEST -->

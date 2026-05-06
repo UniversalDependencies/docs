@@ -16,4 +16,4 @@ obj(lấy, sách)
 punct(sách,.)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:43 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:45 CEST -->

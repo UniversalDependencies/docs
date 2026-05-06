@@ -24,4 +24,4 @@ Spanish modal auxiliaries include (Butt and Benjamin, 2013):
 Regan ha muerto . \n Regan has died .
 aux(muerto, ha)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:17 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:25 CEST -->

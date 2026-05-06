@@ -24,4 +24,4 @@ Reflexive passive (the meaning is “It is costly for one on our Earth to be a h
 csubj:pass(плаща, бъдеш)
 csubj:pass(REFL.pay, be)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:40 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:20 CEST -->

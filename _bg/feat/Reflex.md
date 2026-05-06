@@ -28,4 +28,4 @@ column. (Which means that empty value has the `No` meaning.)
 * [bg] reflexive personal pronouns: се, си, себе си / _se, si, sebe si_ "oneself"; reflexive possessive
   pronoun: свой / _svoy_ "oneself's".
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:45 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:12 CEST -->

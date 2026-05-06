@@ -40,4 +40,4 @@ Verbal noun forms are used widely in Welsh for the progressive aspectual phrases
 * _canu_ "to sing/singing"
 * _fy ngweld_ "seeing me"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:49 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:02 CEST -->

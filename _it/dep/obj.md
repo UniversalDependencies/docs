@@ -28,4 +28,4 @@ obj(ami, Mi)
 Hanno fatto fuoco prima su mio marito . 
 obj(fatto, fuoco)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:19 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:53 CEST -->

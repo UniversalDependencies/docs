@@ -15,4 +15,4 @@ vocative(გულისხმა-ყავთ, მოხუცებულნ�
 nmod(მოხუცებულნო, ერისანო)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:12 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:41 CEST -->

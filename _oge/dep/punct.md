@@ -39,4 +39,4 @@ punct(ეკრძალე, " -6)
 punct(ეკრძალე, " -15)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:10 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:37 CEST -->

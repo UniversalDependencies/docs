@@ -19,4 +19,4 @@ This feature indicates bad spelling, grammatical error etc. Does not say how the
 #### Examples
 
 * _<b>պատմայգիրք</b>_
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:29 CEST -->

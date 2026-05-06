@@ -13,4 +13,4 @@ nmod:poss(syture, kyky)
 ~~~
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:10 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:32 CEST -->

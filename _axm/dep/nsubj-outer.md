@@ -27,4 +27,4 @@ See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-
 12	ուռենայ	ուռենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:16 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:44 CEST -->

@@ -31,4 +31,4 @@ das Haus , in dem ich wohne \n the house , in which I live
 obl(wohne, dem)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:22 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:59 CEST -->

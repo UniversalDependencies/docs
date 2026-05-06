@@ -17,4 +17,4 @@ The `obl:agent` relation is used for the agent of a participle or a verbal noun,
 4	ძიება	ძიება	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	LMSeg:ძიებ[ა]/ძი
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:05 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:20 CEST -->

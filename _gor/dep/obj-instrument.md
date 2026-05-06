@@ -24,3 +24,4 @@ nsubj:patient(cooked, fish)
 ~~~
 
 "\[someone\] cooked fish in the pan"
+<!-- Interlanguage links updated St 6. května 2026, 20:47:57 CEST -->

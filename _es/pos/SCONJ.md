@@ -16,4 +16,4 @@ In Spanish, we recognize these two subclasses as subordinating conjunctions:
 
 For coordinating conjunctions, see [CCONJ]().
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:55 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:11 CEST -->

@@ -9,4 +9,4 @@ shortdef: 'adverb'
 Adverbs are words that typically modify verbs for such categories as time, place, direction or manner. They may also modify adjectives and other adverbs, as in <i>väga hea</i> 'very good' or <i>väga hästi</i> 'very well'.
 Pronominal adverbs, e.g. <i>siin</i> 'here', <i>seal</i> 'there', <i>siis</i> 'then', <i>millal</i> 'when' , <i>nii</i> 'so' are tagged as adverbs in the current version of Estonian UD.<br/>
 Some adverbs may also function as verbal particles in Estonian, they are still tagged ADV and not PART, e.g. <i>välja mõtlema</i> 'contrive', lit. 'think out'.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->

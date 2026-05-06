@@ -42,4 +42,4 @@ flat(hundred, seventeen)
 
 Date expressions which have a very clear syntactic structure, should be annotated with regular dependency relations. In
 other cases, they have a flat structure with no clearly discernible head.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:55 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:54 CEST -->

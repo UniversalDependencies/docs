@@ -34,4 +34,4 @@ xcomp(obligated, to-administer)
 
 The key difference here is that, while it is possible to interpret the first sentence as meaning that the one who forbids is not the one who will draw, in the second sentence it is clear that the 
 subject of __administer__ can only be __King__. This is what distinguishes `ccomp` and `xcomp`.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:25 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:47 CEST -->

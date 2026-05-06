@@ -23,4 +23,4 @@ amod(fille, pudique)
 on vit vraiment dans un petit microcosme \n we truly live in a small microcosm
 amod(microcosme, petit)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:14 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:19 CEST -->

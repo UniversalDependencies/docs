@@ -14,4 +14,4 @@ A proper noun is a noun referring to a (more or less) unique object, such as a p
 * _Δημοσθένης_ "Demosthenes"
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:53 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:08 CEST -->

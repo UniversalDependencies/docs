@@ -26,4 +26,4 @@ iobj(give, you)
 ~~~
 
 There is further discussion of the two kinds of object at [iobj](naq-dep/iobj). 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:20 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:54 CEST -->

@@ -38,4 +38,4 @@ Currently, we also use `case` for some other case-marking elements treated as se
 4	կեղեւ	կեղեւ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	_
 5	ձգես	ձգել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root  _  _
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:22 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:37 CEST -->

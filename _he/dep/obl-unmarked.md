@@ -17,4 +17,4 @@ obl:unmarked(הוסכם, פה)
 יום למחרת המתקפה נאם בן-גוריון בשידור רדיו מיוחד לאזרחי המדינה
 obl:unmarked(נאם, יום)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:32 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:22 CEST -->

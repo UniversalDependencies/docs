@@ -22,4 +22,4 @@ reparandum(tita, ti-2)
 flat:reparandum(ti-10, ti-13)
 reparandum(I, ti-10)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:58 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:02 CEST -->

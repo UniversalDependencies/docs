@@ -22,4 +22,4 @@ Examples: [nhi] _ni<b>mits</b>walikilis_ `I will bring it to [you].`
 ### <a name="3">`3`</a>: third person indirect object argument
 
 Examples: [nhi] _oni<b>k</b>tlalilih_ `I put it on [him/her/it]`
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:37 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:49 CEST -->

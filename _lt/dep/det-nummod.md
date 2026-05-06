@@ -14,3 +14,4 @@ Aš turiu kelis obuolius . \n I have a-few apples .
 det:nummod(obuolius, kelis)
 det:nummod(apples, a-few)
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:46:34 CEST -->

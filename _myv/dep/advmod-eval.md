@@ -13,4 +13,4 @@ advmod:eval(вачкодизе, Паряк)
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:10 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:07 CEST -->

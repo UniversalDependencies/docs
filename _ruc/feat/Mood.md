@@ -58,3 +58,4 @@ The Ruuli subjunctive also marks continuations of hypothetical situations and so
 
 * _Bakol<b>e</b>_ "They should work."
 
+<!-- Interlanguage links updated St 6. května 2026, 20:43:19 CEST -->

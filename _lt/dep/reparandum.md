@@ -32,3 +32,4 @@ reparandum(and 3 , and 1 and 2 )
 ~~~
 
 The correct word is the head. The dependency points from the correct word (the one corrected to) to the erroneous word. The erroneous word may be either full or partial.
+<!-- Interlanguage links updated St 6. května 2026, 20:48:38 CEST -->

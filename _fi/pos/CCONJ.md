@@ -24,4 +24,4 @@ In correlative (paired) coordinating conjuctions such as _sekä - että_
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=817> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=815> (in Finnish)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:47 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:57 CEST -->

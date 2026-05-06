@@ -19,4 +19,4 @@ This feature marks number agreement of the verb with the reflexive object.
 
 * [ab] _<b>шә-ҽ</b>-аа-ны-шә-кыл(-ø)_ [<b>Refl.2Pl-Refl</b>-Mod-Pv-Subj.2Pl-restrain-Impv] ‘restrain <b>yourself.Pl</b>!’ `Dyn=Yes|Gender[lo]=Neut|Mood=Imp|Number[lo]=Sing|Number[refl]=Plur|Number[subj]=Plur|Person[lo]=3|Person[refl]=2|Person[subj]=2|Trans=Yes|VerbForm=Fin`
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:36 CEST -->

@@ -26,4 +26,4 @@ discourse(will-turn, after-all)
 discourse(ամուսնանայ, թող)
 discourse(marry, let)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:48 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:37 CEST -->

@@ -23,3 +23,4 @@ obj:patient(cooked, fish)
 ~~~
 
 “Dewi cooked fish.” (actor voice)
+<!-- Interlanguage links updated St 6. května 2026, 20:47:58 CEST -->

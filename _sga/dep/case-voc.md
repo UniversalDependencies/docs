@@ -29,4 +29,4 @@ _<b>a</b>thusu_ "You!"
 a thu su \n o you
 case:voc(thu, a)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:24 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:44 CEST -->

@@ -28,4 +28,4 @@ These words are reflexive in Pashto:
 #### Examples
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:46 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:13 CEST -->

@@ -58,4 +58,4 @@ his/her/its dog;
 <span style='color: red'><I>kutyá</I></span><span style='color: red'><I>juk</I></span>
 =
 their dog.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:38 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:53 CEST -->

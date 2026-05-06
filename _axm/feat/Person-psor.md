@@ -43,4 +43,4 @@ See also the relatived feature [Number[psor]]().
 
 * _Թագուոր մի կայր,  աչուի<b>ն</b> էր խաժ/T’agowor mi kayr,  ačowin ēr xaž_ “There was a King, <b>his</b> eyes were sea-blue” `Person[psor]=3|Number[psor]=Sing|Number=Plur`
   
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:38 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:52 CEST -->

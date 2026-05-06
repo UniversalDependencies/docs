@@ -34,4 +34,4 @@ a ) trasporti ad hoc \n b ) emanazioni di norme nazionali
 nummod(trasporti, a)
 nummod(emanazioni , b)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:18 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:50 CEST -->

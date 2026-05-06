@@ -16,4 +16,4 @@ Auxiliary and modal verbs are not annotated as `VERB` but rather
 
 * [fi] _ойна, же_ "play, eat"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:14 CEST -->

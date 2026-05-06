@@ -14,4 +14,4 @@ another clause.
 csubj(весьшӧрӧ, Пукавны)
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:16 CEST -->

@@ -18,4 +18,4 @@ csubj:pass(be-killed, he)
 csubj:pass(կտրվի, վնասն)
 csubj:pass(be-assessed, the-damage)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:41 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:20 CEST -->

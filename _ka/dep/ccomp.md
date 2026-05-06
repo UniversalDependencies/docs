@@ -12,4 +12,4 @@ A `ccomp` (clausal complement) of a verb or adjective is a dependent clause whic
 ccomp(მოიცავს, ხდება)
 nsubj(ხდება, საზომები)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:25 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:48 CEST -->

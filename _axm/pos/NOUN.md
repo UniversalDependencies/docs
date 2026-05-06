@@ -26,4 +26,4 @@ Verbal noun is tagged `NOUN`.
 - _տաքութիւն_ “temperature”
 - _լող_ “swimming”
 - _աւիրելը_ “destroying”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:01 CEST -->

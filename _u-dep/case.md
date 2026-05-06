@@ -179,4 +179,4 @@ case(lookout-6, beside-4)
 det(lookout-6, the-5)
 nmod(cafe-2, lookout-6)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:22 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:39 CEST -->

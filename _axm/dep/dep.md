@@ -23,4 +23,4 @@ dep(year, in)
 ~~~
 
 For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:42 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:23 CEST -->

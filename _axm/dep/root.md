@@ -17,4 +17,4 @@ root(ROOT-11, lawful)
 There is just one node with the `root` dependency relation in every tree. If the main predicate is not present (due to
 [ellipsis](http://universaldependencies.org/hy/overview/specific-syntax.html))  and there are multiple orphaned dependents, the dependent that is highest in the 
 obliqueness hierarchy is promoted to the head (root) position and the other orphans are attached to it.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:40 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:38 CEST -->

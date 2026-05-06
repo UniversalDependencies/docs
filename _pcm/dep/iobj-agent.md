@@ -74,4 +74,4 @@ Used almost exclusively for the complement of the construction "no matter".
 19	in	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:00 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:08 CEST -->

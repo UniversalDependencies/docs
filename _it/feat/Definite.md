@@ -21,4 +21,4 @@ The feature `Definite` is marked to identify definite and indefinite [articles](
 * _<b>il</b> cane_ "the dog"
 * _<b>gli</b> altri_ "others"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:09 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:44 CEST -->

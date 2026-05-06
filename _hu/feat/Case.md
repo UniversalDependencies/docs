@@ -250,4 +250,4 @@ money") and it also can mean the goal of something.
 * [hu] _Elmentem a boltba <b>tejért</b>._ lit. _went the shop.Ill
   milk.Cau_ "I went to the shop to buy milk."
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:31 CEST -->

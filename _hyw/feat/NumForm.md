@@ -48,4 +48,4 @@ digits or as a word? Several types of nouns can also have this feature, adjectiv
 #### Examples
 
 * _Ա., Բ., Գ._
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:32 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:38 CEST -->

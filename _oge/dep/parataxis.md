@@ -27,4 +27,4 @@ parataxis(გნებავს, იხილო)
 ~~~
 
 
-<!-- Interlanguage links updated So 10. května 2025, 18:16:06 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:25 CEST -->

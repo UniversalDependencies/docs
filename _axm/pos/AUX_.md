@@ -76,4 +76,4 @@ Note, that in Middle Armenian copulas are also tagged `AUX` and the definition o
   ### Modal verbs are not auxiliaries
 
 Middle Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Their behavior is only slightly different from other content verbs.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->

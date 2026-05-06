@@ -50,4 +50,4 @@ The universal Mood feature "irealis" is used to tag the counterfactual AUX and S
 
 * _<b>mə̀</b> fì tə̀ wuriː ?_  "how _should_ we do it?"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:19 CEST -->

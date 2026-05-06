@@ -13,4 +13,4 @@ oːn oː= reːw / t= ʔanoː =t =a / kass =oː ijajna eːn // \n  they buy all t
 parataxis:parenth(reːw, ʔanoː)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:36 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:31 CEST -->

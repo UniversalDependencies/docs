@@ -58,4 +58,4 @@ It is formed periphrastically with the adverb _այլ/ayl_ “more” and the po
 
 Note that there is no special morphological form for the absolute superlative in Middle Armenian. To express this meaning, adverbs such as _կարի/kari_ “extremally”, _խիստ/xist_ “too”, _պինդ/pind_ “strongly”, _շատ/šat_ “very” are used.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:10 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:45 CEST -->

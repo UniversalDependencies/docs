@@ -37,4 +37,4 @@ feature, thus negative pronouns are annotated with `PronType=Neg` but not with `
 - total pronouns: _jedermann_ “everybody”
 - negative pronouns: _niemand_ “nobody”, _nichts_ “nothing”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:05 CEST -->

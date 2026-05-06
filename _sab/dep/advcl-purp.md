@@ -15,4 +15,4 @@ skira hue para u dodade. \n (I) find some skira to make the house.
 advcl:purp (hue, dodade)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:05 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:44:59 CEST -->

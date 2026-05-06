@@ -21,4 +21,4 @@ Cardinal numerals are always assigned the tag [NUM]() whether they are used as d
 -	I, II, III, IV, V, MMXIV
 - *δωδεκάμιση* "half past twelve" (with <code>NumType=Frac</code>)
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:03 CEST -->

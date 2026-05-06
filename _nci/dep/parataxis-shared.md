@@ -18,4 +18,4 @@ parataxis(mochiuhqui, quicenhuica)
 obj(quicenhuica, miquiztetzahuitl)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:37 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:35 CEST -->

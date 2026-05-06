@@ -29,4 +29,4 @@ part-of-speech tag but they are differentiated by additional features.
 - indefinite adverbs: _десь, кудись, іноді, якось&nbsp;_ “somewhere, to somewhere, sometime, somehow”
 - total adverbs: _всюди, завжди&nbsp;_ “everywhere, always”
 - negative adverbs: _ніде, ніколи&nbsp;_ “nowhere, never” 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->

@@ -24,4 +24,4 @@ Bir öğrenci ki yazım kurallarına dikkat etmez, ben onu dersten geçirmem . \
 obj(geçirmem, onu)
 dislocated(geçirmem, öğrenci)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:50 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:45 CEST -->

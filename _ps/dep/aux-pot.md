@@ -16,3 +16,4 @@ and the auxiliary **کول _kawë́l_ “to do”** depend with the `aux:pot` re
 #### Examples
 ~~~ sdparse
 ~~~
+<!-- Interlanguage links updated St 6. května 2026, 20:45:35 CEST -->

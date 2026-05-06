@@ -25,4 +25,4 @@ Words joined by `flat:name` should all be part of a minimal noun phrase; otherwi
 Soviet Union
 adj(Union, Soviet)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:57 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:59 CEST -->

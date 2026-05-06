@@ -26,4 +26,4 @@ udver: '2'
 #### Examples
 
 * _მაქუს_ 'we have it', _გუაქუს_ 'we have it' etc.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:19 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:43:33 CEST -->

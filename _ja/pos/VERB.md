@@ -29,4 +29,4 @@ otherwise is tagged as [NOUN]() (e.g. _<b>勉強</b> が好きだ_ “(I) like s
 * [VERB]() is NOT used for non-content (functional) verbs, while they are taged as `verb (bound)` / 動詞- 非自立可能,
 e.g. _食べて<b>いる</b>&nbsp;_ “eat”+PROGRESSIVE : such a functional verb (_いる_) is tagged with [AUX]().
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:14 CEST -->

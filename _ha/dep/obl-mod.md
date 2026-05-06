@@ -13,4 +13,4 @@ yanàː dà yâːraː nèː kàmankà  //  \n  He has children like you.
 obl:mod (yâːraː, kàmankà)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:28 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:14 CEST -->

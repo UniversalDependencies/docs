@@ -103,4 +103,4 @@ This relation is also used in phrases like _sa bhliadhna 1774_ 'in the year 1774
 4	1774	1774	NUM	Mn	_	3	nmod:unmarked	_	SpaceAfter=No
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:12 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:36 CEST -->

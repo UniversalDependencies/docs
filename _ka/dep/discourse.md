@@ -11,4 +11,4 @@ This is used for interjections and other discourse particles and elements (which
 ერთი მცდარი ნაბიჯიც და ერიჰაა/INTJ. \n 'One wrong step and hey.'
 discourse(ნაბიჯიც, ერიჰაა)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:48 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:38 CEST -->

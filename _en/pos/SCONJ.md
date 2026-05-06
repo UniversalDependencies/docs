@@ -12,4 +12,4 @@ shortdef: 'subordinating conjunction'
 These are a subset of the things that the IN tag is used for in the PTB.
 
 We treat the putative relativizer use of _that_ (e.g., Jespersen 1924) as a relative pronoun in modern English, so that it gets the POS tag [PRON]().
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:55 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:11 CEST -->

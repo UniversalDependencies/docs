@@ -32,4 +32,4 @@ p08\_024
 1	Maighstir	maighstir	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	Calum	Calum	PROPN	Nn-mn	Case=Nom|Gender=Masc	1	flat:name	_	_
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:57 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:59 CEST -->

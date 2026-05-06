@@ -21,4 +21,4 @@ parataxis(har, se)
 Det är tanken : barn är framtiden \n That is the thought : children are the future
 parataxis(tanken, framtiden)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:34 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:26 CEST -->

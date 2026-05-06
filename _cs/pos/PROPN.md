@@ -102,4 +102,4 @@ Otherwise, the morphological analysis usually includes the original part of spee
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a proper noun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAProperNoun.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Proper_noun)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:53 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:07 CEST -->

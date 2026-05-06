@@ -22,4 +22,4 @@ flat:name(აბო, ტფილელის)
 flat:foreign(μέγαελεων, δός)
 flat:foreign(μέγαελεων, μίν)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:33 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:55 CEST -->

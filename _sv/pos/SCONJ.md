@@ -15,4 +15,4 @@ by making one of them a constituent of the other.
 - _eftersom_ "because"
 - _om_ "if"
 - _att_ "that" as in _visa <b>att</b> du kan klara det_ "show that you can do it"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:56 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:12 CEST -->

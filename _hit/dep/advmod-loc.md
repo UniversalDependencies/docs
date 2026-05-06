@@ -49,4 +49,4 @@ This is used to subordinate the local particles *-šan, -kan,* and *-ašta* to t
 9	š-ši	-šiš	PRON	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod	_	_
 10	pé-en-na-i	penna/i-	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:11 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:10 CEST -->

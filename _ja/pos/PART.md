@@ -16,4 +16,4 @@ and `suffixes` / 接尾辞-形容詞的 or 接尾辞-名詞的 or 接尾辞-形�
 - _良い <b>ね</b>&nbsp;_ “good, isn't it” (`particle (phrase_final)` / 助詞-終助詞) : final particles to add some nuance
 - _衝撃 <b>的</b> だ&nbsp;_ “(something is) shocking” (`suffix(adjectival_noun)` / 接尾辞-形状詞的) : suffix to make an adjective phrase with a noun (_衝撃_ “shock”)
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:04 CEST -->

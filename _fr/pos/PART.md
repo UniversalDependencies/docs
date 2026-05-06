@@ -13,4 +13,4 @@ The two exceptions are:
  * `UD_French-ParTUT`: the negation particle _ne_.
  * `UD_French-FTB`: a few occurrences
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:04 CEST -->

@@ -31,4 +31,4 @@ The`discourse` relation is used for interjections and other discourse particles 
 3	can	_	_	_	_	0	_	_	_
 4	pass	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:48 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:39 CEST -->

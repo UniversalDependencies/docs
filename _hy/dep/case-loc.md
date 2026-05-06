@@ -51,4 +51,4 @@ obl(passed, by-me)
 nummod(silhouettes, Two)
 punct(passed, .)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:23 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:45:42 CEST -->

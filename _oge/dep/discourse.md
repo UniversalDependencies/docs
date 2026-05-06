@@ -12,4 +12,4 @@ This is used for interjections and other discourse particles and elements (which
 discourse(მიწყალე, ჰოი)
 vocative(მიწყალე, უფალო)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:27 CEST -->
+<!-- Interlanguage links updated St 6. května 2026, 20:46:39 CEST -->

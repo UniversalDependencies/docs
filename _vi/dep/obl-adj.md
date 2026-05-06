@@ -15,4 +15,4 @@ obl:adj(nhanh, mồm)
 advmod(nhanh, lắm)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:23 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:02 CEST -->

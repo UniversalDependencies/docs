@@ -14,4 +14,4 @@ nummod(brothers, seven)
 ~~~
 
 Note that indefinite quantifiers such as բազում/_bazowm_ “many” and սակաւ/_sakaw_ “few” are tagged DET and not NUM, and their relation to the quantified noun is not `nummod` but [amod]().
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:18 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:51 CEST -->

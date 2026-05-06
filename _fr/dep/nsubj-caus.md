@@ -17,4 +17,4 @@ iobj:agent(acheter,lui)
 ~~~
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/fr/specific-syntax.html#causative).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:14 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:39 CEST -->

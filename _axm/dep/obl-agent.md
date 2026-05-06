@@ -12,4 +12,4 @@ The relation `obl:agent` is used for agents of passive verbs. They are mainly ex
 obl:agent(deceived, Սատանայէ)
 obl:agent(made, deceived)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:23 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:48:03 CEST -->

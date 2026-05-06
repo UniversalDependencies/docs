@@ -45,4 +45,4 @@ If an NP, PP or Adverbial Phrase is fronted (focal position) in main clauses, th
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:09 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:42:44 CEST -->

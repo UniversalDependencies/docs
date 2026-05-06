@@ -47,4 +47,4 @@ udver: '2'
 ~~~
 
 For clausal cases, there is [`csubj:pred`](csubj-pred.html). The basic subject is [`nsubj`](../../u/dep/nsubj.html).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:17 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:47 CEST -->

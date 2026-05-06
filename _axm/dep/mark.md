@@ -26,4 +26,4 @@ These fill a valency slot in the frame of the subordinate predicate, and are lab
 advmod(գնալն, յորժամ)
 advmod(moves, when)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:02 CET -->
+<!-- Interlanguage links updated St 6. května 2026, 20:47:12 CEST -->
