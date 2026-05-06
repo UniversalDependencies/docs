@@ -36,6 +36,6 @@ Currently, we also use `case` for some other case-marking elements treated as se
 2	ատենն	ատեն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|ExtPos=ADP|Number=Sing	1	case	_	_
 3	սեխի	սեխ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	_
 4	կեղեւ	կեղեւ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	_
-5	ձգես	ձգել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root
+5	ձգես	ձգել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root  _  _
 ~~~
 <!-- Interlanguage links updated St 12. listopadu 2025, 09:21:22 CET -->
